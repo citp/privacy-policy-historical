@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fujifilmholdings.com privacy policy that was archived on 2017-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171208143002id_/http%3A//www.fujifilmholdings.com/en/privacy_policy/website_privacy_policy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fujifilmholdings.com privacy policy that was archived on 2018-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180610103851id_/http%3A//www.fujifilmholdings.com/en/privacy_policy/website_privacy_policy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
@@ -33,6 +33,8 @@
 <!-- printHead -->
 <!-- Template Scripts -->
 <script type="text/javascript" src="/template/scripts/swfobject.js"></script>
+<!-- Common Stylesheets -->
+<link rel="stylesheet" type="text/css" href="/en/privacy_policy/pack/styles/privacy_style.css" media="all">
 </head>
 
 <body id="privacyIndex">
@@ -45,6 +47,62 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-K8BH34');</script>
 <!-- End Google Tag Manager -->
+
+<!--  Cookie Agreement  -->
+
+<div id="cookieLaw">
+<div class="cookieLawContent">
+<p>This website uses cookies. By using the site you are agreeing to our <a href="/en/privacy_policy/website_privacy_policy/index.html">Privacy Policy</a>.
+</p>
+
+<div class="cookieLawCloseBtn">
+<a href="#" class="rollover" onclick="SetCookie('cookie_law','ACCEPTED',365); removeCookieLaw(); return void(0);">
+<img src="/template/images/btn_cookie_law_close.png" alt="Close">
+</a>
+</div>
+<!--/cookieLawContent-->
+</div>
+<!--/cookieLaw-->
+</div>
+<script type="text/javascript">
+if(getCookie("cookie_law") == "ACCEPTED")
+{
+removeCookieLaw();
+}
+
+function getCookie(cname) {
+var name = cname + "=";
+var ca = document.cookie.split(';');
+for(var i=0; i<ca.length; i++) {
+var c = ca[i];
+while (c.charAt(0)==' ')
+{
+c = c.substring(1,c.length);
+}
+if (c.indexOf(name) == 0)
+{
+return c.substring(name.length, c.length);
+}
+}
+return "";
+}
+
+function SetCookie(cookieName,cookieValue,nDays) {
+var today = new Date();
+var expire = new Date();
+if (nDays==null || nDays==0) nDays=1;
+expire.setTime(today.getTime() + 3600000*24*nDays);
+document.cookie = cookieName+"="+escape(cookieValue)
++ ";expires="+expire.toGMTString()+";path=/";
+}
+
+function removeCookieLaw() {
+var el = document.getElementById("cookieLaw");
+el.parentElement.removeChild(el);
+}
+</script>
+
+<!--  / Cookie Agreement  -->
 
 <!-- printHeader -->
 <div class="reader"><a id="pageTop" name="pageTop">Top of the page.</a><!-- /reader --></div>
@@ -134,7 +192,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="categoryIndex">
 <div id="contents">
 <div id="stockInfo">
-<p id="stockImg"><img src="http://asia.tools.euroland.com/tools/ticker?companycode=jp-fji&amp;lang=en-gb&amp;v=rt" alt="" width="575" height="25"></p>
+<p id="stockImg"><img src="https://asia.tools.euroland.com/tools/ticker?companycode=jp-fji&amp;lang=en-gb&amp;v=rt" alt="" width="575" height="25"></p>
 <ul class="linkList"><li><a href="/en/investors/stock_and_bond/stock_price_trends/index.html"><img src="/en/common/images/stockInfo_img_02.gif" alt="Stock Price" width="82" height="13"></a></li></ul>
 <br class="clear">
 <!-- /stockInfo --></div>
@@ -148,16 +206,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="linkListFrameB01"><div class="linkListFrameB02"><div class="linkListFrameB03"><div class="linkListFrameB04">
 <div class="sectionA">
 <ul class="verticalAnchorList">
-<li><a href="#anchorPrivacy01"><span>1. Scope of Our Privacy Policy</span></a></li>
+<li><a href="#anchorPrivacy01"><span>1. Scope of This Privacy Policy</span></a></li>
 <li><a href="#anchorPrivacy02"><span>2. Management of Personal Information</span></a></li>
-<li><a href="#anchorPrivacy03"><span>3. Personal Information of Customers who are Under the Age of 16</span></a></li>
-<li><a href="#anchorPrivacy04"><span>4. Use of TLS</span></a></li>
-<li><a href="#anchorPrivacy05"><span>5. Use of Cookies</span></a></li>
-<li><a href="#anchorPrivacy06"><span>6. Use of Web Beacons</span></a></li>
-<li><a href="#anchorPrivacy07"><span>7. Links on the Website</span></a></li>
-<li><a href="#anchorPrivacy08"><span>8. Compliance with Laws and Ordinances</span></a></li>
-<li><a href="#anchorPrivacy09"><span>9. Changes to The Privacy Policy</span></a></li>
-<li><a href="#anchorPrivacy10"><span>10. Inquiries regarding The Privacy Policy</span></a></li>
+<li><a href="#anchorPrivacy03"><span>3. Use of Cookies, Webtools and Social Media Plug-ins</span></a></li>
+<li><a href="#anchorPrivacy04"><span>4. Children's Personal Information</span></a></li>
+<li><a href="#anchorPrivacy05"><span>5. External Links</span></a></li>
+<li><a href="#anchorPrivacy06"><span>6. Contact Us</span></a></li>
+<li><a href="#anchorPrivacy07"><span>7. Changes to the Privacy Policy</span></a></li>
 </ul>
 <!-- /sectionA --></div>
 <!-- /linkListFrameB01 --></div><!-- /linkListFrameB02 --></div><!-- /linkListFrameB03 --></div><!-- /linkListFrameB04 --></div>
@@ -168,18 +223,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="boxFrameA01"><div class="boxFrameA02"><div class="boxFrameA03"><div class="boxFrameA04"><div class="boxFrameA05">
 <div class="h2FrameA01"><div class="h2FrameA02"><div class="h2FrameA03"><div class="h2FrameA04"><div class="h2FrameA05"><div class="h2FrameA06">
 <div class="sectionTitle">
-<h2><span>1. Scope of Our Privacy Policy</span></h2>
+<h2><span>1. Scope of This Privacy Policy</span></h2>
 <!-- /sectionTitle --></div>
 <!-- /h2FrameA01 --></div><!-- /h2FrameA02 --></div><!-- /h2FrameA03 --></div><!-- /h2FrameA04 --></div><!-- /h2FrameA05 --></div><!-- /h2FrameA06 --></div>
 <div class="sectionA">
 <ol class="decimalList">
 <li>
 <p>Scope of Application</p>
-<p>This Privacy Policy applies to the personal information provided by customers (e.g. name, address, phone number, and e-mail address) through website that is managed and operated by FUJIFILM Holdings Corporation (hereinafter, “Company”) and which starts with the URL (website address) http://www.fujifilmholdings.com (hereinafter, “Website”).</p>
+<p>This Privacy Policy describes our commitment to protection of data privacy and how we treat the personal information that we receive from visitors of the websites (“Website(s)”) and users of software applications (“App(s)”) that (i) are managed and operated by FUJIFILM Holdings Corporation (“FUJIFILM” or “we”) and (ii) have a link to this Privacy Policy. By visiting the Website(s) or using the App(s), you acknowledge and agree to be bound by the terms and conditions of this Privacy Policy.</p>
 </li>
 <li class="mt15p">
-<p>Priority of Special Notes </p>
-<p>In case stipulations that differ from the Privacy Policy are clearly indicated on independent sub-sites in this Website through which personal information is provided, the relevant differing stipulations shall be prioritized and applied.</p>
+<p>Priority of Special Notes</p>
+<p>In case stipulations that differ from this Privacy Policy are clearly indicated (i) on independent sub-sites in the Website(s) or (ii) in the App(s) through which personal information is provided, the relevant differing stipulations shall prevail.</p>
 </li>
 </ol>
 <!-- /sectionA --></div>
@@ -199,48 +254,46 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="sectionA">
 <ol class="decimalList">
 <li>
-<p>Gathering Personal Information</p>
-<ol>
-<li>In principle, customers may view the Website without disclosing personal information. However, when the Company receives user registrations, e-mail news distribution requests, and inquiries to the Company, the customer shall be required to provide personal information.</li>
-<li>The Website may collect information such as which content the customer has viewed within the Website, or which website the customer has referred to access the Website. In the process of collecting such information, which purpose is to improve the usability of the Website, information shall not be collected in a manner in which individual customers may be identified, nor shall the individual customers be identified during the process of information analysis.</li>
-</ol>
+<p>Collection of Personal Information</p>
+<p>In principle, you may view the Website(s) without disclosing personal information. However, when we receive your registration, e-mail news distribution request, and inquiries to us, you may be required to provide personal information.</p>
+<p class="mt10p">The Website(s) and App(s) may collect certain technical information, e.g. which content you have viewed within the Website(s), or which website you have referred to access the Website(s). In the process of collecting such information, which purpose is to improve the usability of the Website(s) or App(s), information shall not be collected in a manner in which you may be identified, nor shall you be identified during the process of information analysis.</p>
 </li>
 <li class="mt15p">
 <p>Purpose of Use of Personal Information</p>
-<ol>
-<li>On independent sub-sites in this Website that have been created to receive personal information provided by customers, the purpose of use of provided personal information shall be clearly indicated, except in cases where the purpose of use is self-evident to customers.</li>
-<li>The use of personal information provided by customers shall be limited to the purpose of use clearly indicated to the customer in advance, except in cases in which it is clearly permitted in laws, ordinances, and standards related to personal information protection and which apply to such matters.</li>
-</ol>
+<p>The purpose of use of your personal information shall be clearly indicated in this Privacy Policy or otherwise on individual sites, except in cases where the purpose of use is self-evident to you.<br>
+The use of personal information provided by you shall be limited to the purpose of use clearly indicated to you in advance. However, we reserve the right to conduct additional processing to the extent permitted or required by relevant laws and regulations, or in support of any legal or criminal investigation.</p>
+<p class="mt10p">We may process your personal information based on your consent, for the performance of a contract or as necessary for the purposes of our legitimate interests, including for responding to your inquiries and to customize and improve our web offerings, products and services in accordance with your preferences.</p>
+<p class="mt10p">Personal information is only collected if you provide us with this information, e.g. in order to register for personalized services, and only processed and used for the provision of these personalized services, or in order to process your inquiries.</p>
+<p class="mt10p">Furthermore, in connection with the personalized services we may process and use your information for advertising and market research purposes or for personalized provision of services if you have given your consent. If you give your consent the information accessed by you whilst visiting the Websites may be stored in a user profile in order to be able to offer you information specifically personalized for you (e.g. in the form of a newsletter). You may withdraw your consent at any time with effect for the future.</p>
+<p class="mt10p">If you use personalized services we will use your personal information required for the provision of the services for the duration of your registration and thereafter for as long as required or permitted under applicable laws. We may share your information with affiliated FUJIFILM companies if this is necessary to respond to your inquiries or if necessary for the provision of the services. We may forward inquiries regarding our products and services also to a distributor that is responsible for the relevant product or service category and region.</p>
+<p class="mt10p">If you subscribe to our newsletter, we will use the personal information necessary or separately provided by you to send you our e-mail newsletter as agreed. You may withdraw your consent and unsubscribe from the newsletter at any time either by sending a message to us or via a dedicated unsubscribe link in the newsletter.</p>
+<p class="mt10p">If we receive your e-mail address in connection with the sale of goods or services and you have not objected to this, we are entitled to regularly offer you similar goods and services, such as the one you purchased by using your e-mail. You may withdraw your consent to such use of your e-mail address at any time in the future by sending a message to us or via the unsubscribe link provided in our e-mails.</p>
+<p class="mt10p">We may be entitled by applicable laws to store your first and last name, postal address and, if applicable, your title and academic degree and use it for our own advertising purposes, in particular for sending offers and information about our goods and services by postal services. You can object to this use of your information at any time for the future by sending a message to us, without incurring other than the transmission costs according to the basic rates.</p>
 </li>
 <li class="mt15p">
-<p>Disclosure of Personal Information</p>
-<p>The Company shall not disclose nor supply the personal information provided by customers to third parties except in the following cases:</p>
-<ol>
-<li>When the customer's consent is given in advance.</li>
-<li>When it is necessary to commission operations to the Company's group companies or other affiliated companies.</li>
-<li>When the Company determines from the customer inquiry that it is appropriate for the Company's group company providing the Company's products/services to respond to the customer's inquiry.</li>
-<li>When the customer's name, address, credit card number, and other information is disclosed to financial institutions or other parties for payment settlement when the customer orders products or uses other services which require a fee.</li>
-<li>When personal information is provided to the successor of the operations when the operations are transferred due to reasons such as merger, demerger, and transfer of operations.</li>
-<li>When personal information disclosure is requested under the stipulations of laws and ordinances.</li>
-<li>When there is an immediate need for disclosure to protect human life or human rights.</li>
-<li>When cooperating with requests of judicial institutions, police, or other public bodies and that are based on laws and ordinances.</li>
-</ol>
+<p>Data Sharing and Disclosure</p>
+<p>We will not disclose or supply, share or otherwise distribute your personal information to third parties except as described in this Privacy Policy. We share personal information when:</p>
+<p class="alphabetList">(a) your consent is given in advance;</p>
+<p class="alphabetList">(b) it is necessary to provide you with our services;</p>
+<p class="alphabetList">(c) we determine from your inquiry in relation to our products/services that it is appropriate for affiliated FUJIFILM companies to respond to your inquiry;</p>
+<p class="alphabetList">(d) you order products or use other services which require a fee, your name, address, credit card number, and other information is disclosed to financial institutions or other parties for payment settlement;</p>
+<p class="alphabetList">(e) our business is assigned or transferred either by operation in law or otherwise including mergers, consolidations and dissolution or transfer of operations;</p>
+<p class="alphabetList">(f) your personal information disclosure is required by applicable laws and regulations or such disclosure is otherwise necessary in support of any criminal or other legal investigation or proceeding conducted by relevant authorities; or</p>
+<p class="alphabetList">(g) there is an immediate need for disclosure to protect human life or human rights.</p>
+</li><li class="mt15p">
+<p>International Data Transfer</p>
+<p>We may transfer the personal information we collect to, and store such information in, other countries which may have different privacy or data protection laws than the country in which the information was provided. In such case, we will take appropriate measures to protect your personal information.</p>
 </li>
 <li class="mt15p">
-<p>Management of Personal Information</p>
-<p>The personal information provided by customers shall be managed in an appropriate manner under the responsibility of each division of the Company that receives such personal information, and they shall prevent accidents such as loss, theft, falsification, and leakage from occurring.</p>
+<p>Data Security</p>
+<p>FUJIFILM takes adequate technical and organizational security measures in order to protect your personal information from being misused and to prevent the loss of your information. Your personal information is saved in a secure operating environment that is not accessible to the public. All personal information provided by you in the course of registration or use of personalized services will be transferred in encrypted form in order to prevent misuse of the information by any third party.</p>
 </li>
 <li class="mt15p">
-<p>Confirmation, Correction, and Deletion of Personal Information</p>
-<ol>
-<li>For questions and inquiries concerning the confirmation, correction, deletion, and other matters regarding a customer's personal information, the Company's point of contact notified when the customer personal information shall receive such requests or inquiries.</li>
-<li>If the point of contact of the Company is unknown, please contact FUJIFILM Holdings.</li>
-</ol>
+<p>Your Rights Relating to Your Personal Information</p>
+<p>To the extent provided by applicable laws, you have the right to request of access to and correction or deletion of personal information or restriction of processing concerning you or to object to processing as well as the right to data portability.</p>
+<p class="mt10p">Depending on your location, you may have the right to lodge a complaint with a competent supervisory authority in accordance with the applicable laws if you consider that the processing of personal data relating to you infringes the applicable laws. For this purpose, you may contact in particular the supervisory authority in the country of your habitual residence or the place of the alleged infringement.</p>
 </li>
 </ol>
-<ul class="linkList mt15p">
-<li class="textLinkIco02 linkListLast"><a href="https://www.fujifilmholdings.com/en/form/general/input.php?id=FHGeneralEn">Contact FUJIFILM Holdings </a></li>
-</ul>
 <!-- /sectionA --></div>
 <!-- /boxFrameA01 --></div><!-- /boxFrameA02 --></div><!-- /boxFrameA03 --></div><!-- /boxFrameA04 --></div><!-- /boxFrameA05 --></div>
 <!-- /boxFrameWidth --></div>
@@ -252,11 +305,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="boxFrameA01"><div class="boxFrameA02"><div class="boxFrameA03"><div class="boxFrameA04"><div class="boxFrameA05">
 <div class="h2FrameA01"><div class="h2FrameA02"><div class="h2FrameA03"><div class="h2FrameA04"><div class="h2FrameA05"><div class="h2FrameA06">
 <div class="sectionTitle">
-<h2><span>3. Personal Information of Customers who are Under the Age of 16</span></h2>
+<h2><span>3. Use of Cookies, Webtools and Social Media Plug-ins</span></h2>
 <!-- /sectionTitle --></div>
 <!-- /h2FrameA01 --></div><!-- /h2FrameA02 --></div><!-- /h2FrameA03 --></div><!-- /h2FrameA04 --></div><!-- /h2FrameA05 --></div><!-- /h2FrameA06 --></div>
 <div class="sectionA">
-<p>Regarding personal information of customers who are under the age of 16, information must be provided with the consent of their guardians.</p>
+<ol class="decimalList">
+<li>Use of Cookies and Webtools<br>
+<p>Various web tools (analysis programs and social media services) have been integrated into the Website(s) or App(s) that use “Cookies” or similar technologies. Cookies are text files that are sent by a web server to the user's browser or the App(s) in order to store information on the user's devices via the browser or Apps that is being used, for example the user's current IP address and information about the user. The next time the web server is accessed, the applicable information regarding the user is transmitted from the Cookie file.<br>
+On this Website(s) or App(s), we have engaged some service providers to track and analyze usage and volume statistical information from you. Such service providers may set cookies on behalf of us. We also use other third-party cookies to track the effectiveness of the Websites/App(s) and to advertise our products and services. Some of the web tools that track you include Google Analytics, Google Adwords, Marketo, and Facebook.</p>
+<p class="mt10p">You may deactivate the use of cookies via your browser settings at any time. Please note, however, that in this case you may not be able to make full use of the complete range of functions offered by the Websites.<br>
+Some e-mails that we send you, such as personal correspondence, do not track you. However, other e-mails we send might include tracking mechanisms so that we can identify how much traffic those e-mails send to the Website(s) as well as whether an individual user has opened and clicked on the e-mail. If you want to be sure that none of your e-mail activity is tracked, please unsubscribe from our newsletters and marketing correspondence.</p>
+</li>
+<li class="mt15p">Social Network Plug-in
+<p>On the Website(s), plug-ins for the social networks (“network”) have been or may be integrated. When you access the Website(s), these plug-ins can potentially create a direct connection between your browser and the server of the respective network. The content of the plug-in will be directly transmitted from the network to your browser, which will integrate it into the Website(s). We have no control regarding the scope of the data which is collected with the aid of the plug-in. The integrated plug-in informs the network that the user has accessed our website and informs the network of the user's IP address. If the user is logged in to the network of this plug-in at that point in time, the network will be able to link the visit with the user's account.</p>
+<p class="mt10p">If the user interacts with the plug-ins, for example in the case of Twitter by clicking on “Tweet This” or with Facebook by clicking the ‘I like' button or making a comment, the corresponding information will be transmitted directly from the user's browser to the network where it will then be stored. Furthermore, additional personal data may also be transmitted and stored there, for example the user's IP address, personal browser settings and other parameters.</p>
+<p class="mt10p">If you are a member of the respective network and do not want it to collect information about you via the Website(s) and to link this information with the data that the network has already stored about you, then please close the Website(s), log out from your user account for the respective network and afterwards visit the Website(s) once again.</p>
+<p class="mt10p">If you are not a member of the network or you have logged from the network before visiting the Website(s), the possibility still exists that the network will ascertain (at least) your IP address and store it. Please note that this information is already exchanged when you visit the Website(s), regardless whether you interact with the plug-ins or not.</p>
+</li>
+</ol>
 <!-- /sectionA --></div>
 <!-- /boxFrameA01 --></div><!-- /boxFrameA02 --></div><!-- /boxFrameA03 --></div><!-- /boxFrameA04 --></div><!-- /boxFrameA05 --></div>
 <!-- /boxFrameWidth --></div>
@@ -268,15 +334,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="boxFrameA01"><div class="boxFrameA02"><div class="boxFrameA03"><div class="boxFrameA04"><div class="boxFrameA05">
 <div class="h2FrameA01"><div class="h2FrameA02"><div class="h2FrameA03"><div class="h2FrameA04"><div class="h2FrameA05"><div class="h2FrameA06">
 <div class="sectionTitle">
-<h2><span>4. Use of TLS</span></h2>
+<h2><span>4. Children's Personal Information</span></h2>
 <!-- /sectionTitle --></div>
 <!-- /h2FrameA01 --></div><!-- /h2FrameA02 --></div><!-- /h2FrameA03 --></div><!-- /h2FrameA04 --></div><!-- /h2FrameA05 --></div><!-- /h2FrameA06 --></div>
 <div class="sectionA">
-<ol class="decimalList">
-<li>In principle, as a countermeasure against illegal third party interception, the Transport Layer Security (TLS) method shall be used to encrypt the data on the data entry form, which is made available on The Website (s) so customers may provide their personal information.</li>
-<li class="mt15p">On The Website (s), in addition to TLS encrypted data entry forms, there may be cases in which data entry forms without TLS data encryption are made available for customers whose browsers are not compatible with TLS encryption. Please note before using such data entry forms that the transferred data will not be encrypted and that there is the possibility that a third party will illegally intercept the data and read it.</li>
-</ol>
-<!-- /sectionA --></div>
+<p>We do not knowingly collect or solicit personal information from children defined by local laws. We encourage parents and guardians to take an active role in their children's online activities and interests.
+<!-- /sectionA --></p></div>
 <!-- /boxFrameA01 --></div><!-- /boxFrameA02 --></div><!-- /boxFrameA03 --></div><!-- /boxFrameA04 --></div><!-- /boxFrameA05 --></div>
 <!-- /boxFrameWidth --></div>
 <div class="pagetopAnchor"><div class="pagetopAnchorInner"><a href="#pageTop">Back to Top</a><!-- /pagetopAnchorInner --></div><!-- /pagetopAnchor --></div>
@@ -287,20 +350,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="boxFrameA01"><div class="boxFrameA02"><div class="boxFrameA03"><div class="boxFrameA04"><div class="boxFrameA05">
 <div class="h2FrameA01"><div class="h2FrameA02"><div class="h2FrameA03"><div class="h2FrameA04"><div class="h2FrameA05"><div class="h2FrameA06">
 <div class="sectionTitle">
-<h2><span>5. Use of Cookie</span></h2>
+<h2><span>5. External Links</span></h2>
 <!-- /sectionTitle --></div>
 <!-- /h2FrameA01 --></div><!-- /h2FrameA02 --></div><!-- /h2FrameA03 --></div><!-- /h2FrameA04 --></div><!-- /h2FrameA05 --></div><!-- /h2FrameA06 --></div>
 <div class="sectionA">
-<ol class="decimalList">
-<li>
-<p>Cookies refer to a technology to store information such as use history on the customer's computer in order to facilitate more convenient use of websites. The Website may use cookies for the following purpose in a way that does not identify the customer.</p>
-<ol>
-<li>To provide the “Save Password” function for members-only sites where customers input their ID and password to view content.</li>
-<li>To analyze customer access to the Website in order to improve the operability of the Website or to identify the cause of problems on the Website.</li>
-</ol>
-</li>
-<li class="mt15p">By changing the settings on the Internet browser, customers may disable their cookies or set it so that a warning appears on the computer screen before cookies are issued. However, please note that some services provided through the Website may not be used if the use of cookies is disabled.</li>
-</ol>
+<p>The Website(s) may contain links to other websites. Please be aware that FUJIFILM is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave one of our websites and to read the privacy statements of each and every website that collects personal information. This privacy policy applies solely to information collected by the Website(s).</p>
 <!-- /sectionA --></div>
 <!-- /boxFrameA01 --></div><!-- /boxFrameA02 --></div><!-- /boxFrameA03 --></div><!-- /boxFrameA04 --></div><!-- /boxFrameA05 --></div>
 <!-- /boxFrameWidth --></div>
@@ -312,11 +366,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="boxFrameA01"><div class="boxFrameA02"><div class="boxFrameA03"><div class="boxFrameA04"><div class="boxFrameA05">
 <div class="h2FrameA01"><div class="h2FrameA02"><div class="h2FrameA03"><div class="h2FrameA04"><div class="h2FrameA05"><div class="h2FrameA06">
 <div class="sectionTitle">
-<h2><span>6. Use of Web Beacons</span></h2>
+<h2><span>6. Contact Us</span></h2>
 <!-- /sectionTitle --></div>
 <!-- /h2FrameA01 --></div><!-- /h2FrameA02 --></div><!-- /h2FrameA03 --></div><!-- /h2FrameA04 --></div><!-- /h2FrameA05 --></div><!-- /h2FrameA06 --></div>
 <div class="sectionA">
-<p>Also called a clear GIF or a pixel tag, a web beacon is a small graphic image that is placed on a website. By using web beacons, the customers' viewing status can be analyzed in a way that does not identify the customer to improve the Website and to make it more convenient for customers.</p>
+<p>You may contact us using the following contact information:</p>
+<ul class="linkList mt15p">
+<li class="textLinkIco02 linkListLast"><a href="https://www.fujifilmholdings.com/en/form/general/input.php?id=FHGeneralEn">Contact FUJIFILM Holdings </a></li>
+</ul>
 <!-- /sectionA --></div>
 <!-- /boxFrameA01 --></div><!-- /boxFrameA02 --></div><!-- /boxFrameA03 --></div><!-- /boxFrameA04 --></div><!-- /boxFrameA05 --></div>
 <!-- /boxFrameWidth --></div>
@@ -328,71 +385,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="boxFrameA01"><div class="boxFrameA02"><div class="boxFrameA03"><div class="boxFrameA04"><div class="boxFrameA05">
 <div class="h2FrameA01"><div class="h2FrameA02"><div class="h2FrameA03"><div class="h2FrameA04"><div class="h2FrameA05"><div class="h2FrameA06">
 <div class="sectionTitle">
-<h2><span>7. Links on The Website</span></h2>
+<h2><span>7. Changes to the Privacy Policy</span></h2>
 <!-- /sectionTitle --></div>
 <!-- /h2FrameA01 --></div><!-- /h2FrameA02 --></div><!-- /h2FrameA03 --></div><!-- /h2FrameA04 --></div><!-- /h2FrameA05 --></div><!-- /h2FrameA06 --></div>
 <div class="sectionA">
-<p>The Privacy Policy shall not apply to other websites that are linked from the Website. For information on how personal information is handled on other websites, please refer to the relevant website's personal information policies.</p>
+<p>FUJIFILM reserves the right to change, amend, or update this Privacy Policy. If we do decide to change our Privacy Policy, we will post the revised Privacy Policy. On return visits to our site, please remember to review the Privacy Policy for any changes, since continued use of the Website(s) or the App(s) after any posted revision indicates your consent to our use your information in accordance with the changed, amended, or updated Privacy Policy.</p>
 <!-- /sectionA --></div>
 <!-- /boxFrameA01 --></div><!-- /boxFrameA02 --></div><!-- /boxFrameA03 --></div><!-- /boxFrameA04 --></div><!-- /boxFrameA05 --></div>
 <!-- /boxFrameWidth --></div>
-<div class="pagetopAnchor"><div class="pagetopAnchorInner"><a href="#pageTop">Back to Top</a><!-- /pagetopAnchorInner --></div><!-- /pagetopAnchor --></div>
-
-
-<div class="anchorPoint"><a id="anchorPrivacy08" name="anchorPrivacy08"><img src="/common/images/blank.gif" alt="" width="1" height="1"></a><!-- /anchorPoint --></div>
-<div class="boxFrameWidth774">
-<div class="boxFrameA01"><div class="boxFrameA02"><div class="boxFrameA03"><div class="boxFrameA04"><div class="boxFrameA05">
-<div class="h2FrameA01"><div class="h2FrameA02"><div class="h2FrameA03"><div class="h2FrameA04"><div class="h2FrameA05"><div class="h2FrameA06">
-<div class="sectionTitle">
-<h2><span>8. Compliance with Laws and Ordinances</span></h2>
-<!-- /sectionTitle --></div>
-<!-- /h2FrameA01 --></div><!-- /h2FrameA02 --></div><!-- /h2FrameA03 --></div><!-- /h2FrameA04 --></div><!-- /h2FrameA05 --></div><!-- /h2FrameA06 --></div>
-<div class="sectionA">
-<p>In handling personal information provided by customers, the Company shall comply with laws, ordinances, and standards related to the protection of personal information which applies to such matters.</p>
-<!-- /sectionA --></div>
-<!-- /boxFrameA01 --></div><!-- /boxFrameA02 --></div><!-- /boxFrameA03 --></div><!-- /boxFrameA04 --></div><!-- /boxFrameA05 --></div>
-<!-- /boxFrameWidth --></div>
-<div class="pagetopAnchor"><div class="pagetopAnchorInner"><a href="#pageTop">Back to Top</a><!-- /pagetopAnchorInner --></div><!-- /pagetopAnchor --></div>
-
-
-<div class="anchorPoint"><a id="anchorPrivacy09" name="anchorPrivacy09"><img src="/common/images/blank.gif" alt="" width="1" height="1"></a><!-- /anchorPoint --></div>
-<div class="boxFrameWidth774">
-<div class="boxFrameA01"><div class="boxFrameA02"><div class="boxFrameA03"><div class="boxFrameA04"><div class="boxFrameA05">
-<div class="h2FrameA01"><div class="h2FrameA02"><div class="h2FrameA03"><div class="h2FrameA04"><div class="h2FrameA05"><div class="h2FrameA06">
-<div class="sectionTitle">
-<h2><span>9. Changes to The Privacy Policy</span></h2>
-<!-- /sectionTitle --></div>
-<!-- /h2FrameA01 --></div><!-- /h2FrameA02 --></div><!-- /h2FrameA03 --></div><!-- /h2FrameA04 --></div><!-- /h2FrameA05 --></div><!-- /h2FrameA06 --></div>
-<div class="sectionA">
-<p>The Company shall continuously review its efforts in protecting the Company's personal information and may change the Privacy Policy as necessary in the process of improving and enhancing such efforts.</p>
-<!-- /sectionA --></div>
-<!-- /boxFrameA01 --></div><!-- /boxFrameA02 --></div><!-- /boxFrameA03 --></div><!-- /boxFrameA04 --></div><!-- /boxFrameA05 --></div>
-<!-- /boxFrameWidth --></div>
-<div class="pagetopAnchor"><div class="pagetopAnchorInner"><a href="#pageTop">Back to Top</a><!-- /pagetopAnchorInner --></div><!-- /pagetopAnchor --></div>
-
-
-<div class="anchorPoint"><a id="anchorPrivacy10" name="anchorPrivacy10"><img src="/common/images/blank.gif" alt="" width="1" height="1"></a><!-- /anchorPoint --></div>
-<div class="boxFrameWidth774">
-<div class="boxFrameA01"><div class="boxFrameA02"><div class="boxFrameA03"><div class="boxFrameA04"><div class="boxFrameA05">
-<div class="h2FrameA01"><div class="h2FrameA02"><div class="h2FrameA03"><div class="h2FrameA04"><div class="h2FrameA05"><div class="h2FrameA06">
-<div class="sectionTitle">
-<h2><span>10. Inquiries regarding The Privacy Policy</span></h2>
-<!-- /sectionTitle --></div>
-<!-- /h2FrameA01 --></div><!-- /h2FrameA02 --></div><!-- /h2FrameA03 --></div><!-- /h2FrameA04 --></div><!-- /h2FrameA05 --></div><!-- /h2FrameA06 --></div>
-<div class="sectionA">
-<p>For inquiries regarding the Privacy Policy, please contact FUJIFILM Holdings.</p>
-<ul class="linkList mt15p">
-<li class="textLinkIco02 linkListLast"><a href="https://www.fujifilmholdings.com/en/form/general/input.php?id=FHGeneralEn">Contact FUJIFILM Holdings </a></li>
-</ul>
-<!-- /sectionA --></div>
-<!-- /boxFrameA01 --></div><!-- /boxFrameA02 --></div><!-- /boxFrameA03 --></div><!-- /boxFrameA04 --></div><!-- /boxFrameA05 --></div>
-<!-- /boxFrameWidth --></div>
-
 
 <div class="boxFrameWidth578">
 <div class="sectionB textalignRight">
-<p>Last update: December 1, 2014</p>
-<p>Internet Office<br>FUJIFILM Holdings Corporation</p>
+<p>Last update: May 1, 2018</p>
+<p>FUJIFILM Holdings Corporation</p>
 <!-- /sectionB --></div>
 <!-- /boxFrameWidth --></div>
 
@@ -475,5 +480,6 @@ try {
 var pageTracker = _gat._getTracker("UA-9901633-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
 
 </body></html>
