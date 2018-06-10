@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the meetpenny.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208234610id_/http%3A//www.meetpenny.com/about-penny/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetpenny.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610223956id_/http%3A//www.meetpenny.com/about-penny/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Meet Penny
 
-**If you love legal writing, keep scrolling down. If you prefer human-speak, this section of the Privacy Policy is for you…**
-
-I hate spam. My inbox is constantly full and the last thing I want is useless junk.
-
-I also hate to sign up for one thing and get something completely different. Makes me angry.
-
-So, my commitment to you is simple… I will not send you irrelevant emails.
+MeetPenny.com is operated by Tabitha Philen in Mobile, Alabama of the United States. This website is for entertainment purposes for residents within the United States and no other countries are targeted in any way.
 
 ## What you can expect to receive as a Meet Penny email subscriber
 
-All of the posts to Meet Penny automatically populate an email newsletter that will land in your inbox up to five times a week. This email will keep you up-to-date with the deals, freebies, and encouragement I have shared on the blog. Essentially, it is all the information from Meet Penny delivered to make your time online more efficient.
+I hate spam. My inbox is constantly full and the last thing I want is useless junk. I also hate to sign up for one thing and get something completely different. Makes me angry.
+
+So, my commitment to you is simple… I will not send you irrelevant emails.
+
+All of the email opt in forms on Meet Penny automatically trigger an email series based on your interest.
+
+You will also receive a newsletter once a week by email to keep you up-to-date on deals, freebies, and encouragement as well as new blog posts. Essentially, it is all the information from Meet Penny delivered to make your time online more efficient.
 
 **Special offers from my sponsors**
 
@@ -20,38 +20,82 @@ You might also receive special offers that I have hand-picked from companies I t
 
 **Goodies for subscribers**
 
-As a reward to the faithful followers of Meet Penny, I offer subscriber-only free printables and ebooks. These offers are subject to change at any time with a new freebie available every 1 to 3 months.
-
-If you missed a freebie or failed to save it for later, I’m sorry! These printable packs and ebooks are available for purchase through [my store](http://www.meetpenny.com/shop).
+As a reward to email subscribers of Meet Penny, I offer subscriber-only free printables and ebooks. These offers are subject to change at any time.
 
 **What I will NEVER do**
 
 You have my promise that I will NEVER…
 
-  * sell your email address to anyone, no matter how much money they offer me or how important I think they are. If I plan to provide someone with your email address, I will ask you first.
-  * send you an offer that is a scam. If one slips through the cracks, you can beat me with a wet noodle, but I promise that I do my very best to only send you REAL offers with no hoops to jump through or clanging bells and whistles.
-  * fill your inbox with irrelevant junk mail. Every offer will maintain the high-quality standards that compromise the posts at Meet Penny.
+  * sell your email address to anyone.
+  * send you an offer that is a scam.
+  * fill your inbox with irrelevant junk mail.
 
 
 
-## Official Privacy Policy
+## MeetPenny.com Privacy Policy
 
-The following outlines the same privacy policy above in legalese.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from http://www.meetpenny.com (the “Site”).
 
-Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.
+PERSONAL INFORMATION WE COLLECT
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
+We collect Device Information using the following technologies:
 
+– “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+– “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-### Boost Your Income!
+– “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-Sign up for the FREE email class and find your side hustle. Boost your income!
+Two types of email collection forms are used on the Site. The first being the form at the bottom of a post where you can share comments. Your email address is used to connect your account with Gravatar if you have one but is not used for any other purpose.
+
+Forms for receiving special offers (printable packs, ebooks, etc.) are operated by ConvertKit, an email service provider. Your email address and name will be stored by ConvertKit and is accessible by Tabitha Philen.
+
+You have the right to unsubscribe from emails through ConvertKit and to have your information forgotten at any time. Every email includes an “unsubscribe” option at the bottom. Click that link to immediately be removed from the ConvertKit email list or contact tabithaphilen(at)gmail(dot)com.
+
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, email address, and phone number. We refer to this information as “Order Information.” Your payment information is collected by our payment processor (Stripe or Paypal) and is not stored within our website.
+
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
+
+HOW DO WE USE YOUR PERSONAL INFORMATION?
+
+We use the Order Information that we collect to fulfill any orders placed through the Site (including processing your payment information, arranging for delivery, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:  
+Communicate with you;  
+Screen our orders for potential risk or fraud; and  
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
+
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+
+SHARING YOUR PERSONAL INFORMATION
+
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
+
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+BEHAVIORAL ADVERTISING  
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
+
+You can opt out of targeted advertising by visiting:
+
+FACEBOOK – https://www.facebook.com/settings/?tab=ads  
+GOOGLE – https://www.google.com/settings/ads/anonymous  
+BING – https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
+
+DO NOT TRACK  
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+DATA RETENTION  
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+CHANGES  
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+CONTACT US  
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at tabithaphilen(at)gmail(dot)com.
+
+### Free Diligence Lesson
+
+Subscribe and receive my free diligence lesson plan with printable wall pages by email.
