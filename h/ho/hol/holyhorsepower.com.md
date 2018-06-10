@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holyhorsepower.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202143156id_/http%3A//holyhorsepower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holyhorsepower.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610190848id_/http%3A//holyhorsepower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Holy Horse Power
 
