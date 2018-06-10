@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathoma.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210030027id_/http%3A//www.pathoma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathoma.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610222322id_/http%3A//www.pathoma.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pathoma
 
@@ -100,9 +100,9 @@ As part of our Services, the information you provide to us may be transferred to
 
 **CONTACT US**
 
-**California Privacy Rights** Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by Pathoma pursuant to Section 1798.83 of the California Civil Code, please contact us using the Contact Form at <http://www.pathoma.com/contact-us>.
+**California Privacy Rights** Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by Pathoma pursuant to Section 1798.83 of the California Civil Code, please contact us using the Contact Form at [http://www.pathoma.com/contact-us](https://www.pathoma.com/contact-us).
 
-If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to send an inquiry about our disclosure of personal information to third parties, please contact us using the Contact Form at <http://www.pathoma.com/contact-us> or via mail at: Pathoma LLC 5900 N. Kilpatrick Avenue Chicago, IL 60646 We will do our best to answer your questions.
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to send an inquiry about our disclosure of personal information to third parties, please contact us using the Contact Form at [http://www.pathoma.com/contact-us](https://www.pathoma.com/contact-us) or via mail at: Pathoma LLC 5900 N. Kilpatrick Avenue Chicago, IL 60646 We will do our best to answer your questions.
 
 **CONDITIONS OF USE, POLICIES AND REVISIONS**
 
