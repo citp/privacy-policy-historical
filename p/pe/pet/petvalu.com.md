@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petvalu.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211231925id_/http%3A//petvalu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petvalu.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610223219id_/http%3A//petvalu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pet Articles | Pet Valu Pet Store | Pet food, Treats and Supplies
 
