@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unique-tutorials.info privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203045422id_/http%3A//unique-tutorials.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unique-tutorials.info privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610230900id_/http%3A//unique-tutorials.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
