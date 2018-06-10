@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207123824id_/http%3A//www.cybergrants.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610055651id_/http%3A//www.cybergrants.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CyberGrants
 
@@ -124,7 +124,7 @@ To adhere and comply with EU-US and Swiss-US Privacy Shield principles and requi
   * You have a right to access your personal data. Please first contact your employer’s Human Resource Department to inquire about access to your personal data provided by your employer to CyberGrants.
   * You have the right to opt-out of having your personal data information collected by CyberGrants. Please follow the instructions under the Correcting Personal Information section above.
   * You have the right to be notified if the information you disclosed is to be disclosed to a new third party or to be used in a materially different purpose other than originally collected. You will be notified by CyberGrants through your employer or through the Terms and Conditions on the CyberGrants website.
-  * CyberGrants is subject to the enforcement powers of the Federal Trade Commission, the Department of Transportation, or any other US authorized statutory body.
+  * CyberGrants is subject to the enforcement powers of the Federal Trade Commission.
   * CyberGrants is required to disclose personal information in response to lawful requests by public authorities, including, but not limited, to meeting national security or law enforcement requirements.
   * CyberGrants is liable in cases of onward transfer to third parties, except for cases of unlawful misconduct by unauthorized users or intentional violation of CyberGrants contractual agreements.
   * CyberGrants does not collect sensitive information, which includes: medical, health conditions, race, ethnic origin, political opinion, religious or philosophical beliefs, trade union membership, or sex life. If such sensitive information is ever collected, you must express affirmative consent to opt in for use of that sensitive information if that information is to be disclosed to third parties or used for purposes other than those originally collected.
@@ -147,6 +147,8 @@ For residual complaints not resolved through these channels, under certain condi
 
 CyberGrants will expeditiously respond to your complaints regarding human resources data. First contact your employers’ Human Resources Department to access, amend, or remove your personal information data or any other complaint regarding your personal information data. If your employer does not respond within an expedient timeframe, then CyberGrants will respond and attempt to resolve your complaint. With respect to complaints involving human resources data collected in the context of the employment relationship, CyberGrants commits to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss FDPIC and to comply with their advice. 
 
+Additionally, CyberGrants recently updated our internal policies to insure compliance with the [EU General Data Protection Regulation (GDPR)](https://web.archive.org/gdpr.html), prior to its official launch on May 25, 2018
+
 ## Security
 
 To view our security requirements please see our Security Statement through the link provided below on this site.
@@ -156,5 +158,3 @@ To view our security requirements please see our Security Statement through the 
 CyberGrants needs your help in keeping the personal data you have shared with us accurate and up to date. If you are a registered user, you may make these updates yourself online by logging into your account.
 
 Questions regarding this Privacy Statement or the information practices of the Company's Web site should be directed to the CyberGrants Privacy Officer at [privacy@cybergrants.com](mailto:privacy@cybergrants.com) or by mailing CyberGrants ISO, 300 Brickstone Square, Suite 601, Andover MA 01810.
-
-_Revised and posted as of May 19, 2017_
