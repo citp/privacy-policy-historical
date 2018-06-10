@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nocostincomestream.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206205125id_/http%3A//nocostincomestream.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nocostincomestream.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610133634id_/http%3A//nocostincomestream.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
