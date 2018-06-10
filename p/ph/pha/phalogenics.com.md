@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the phalogenics.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230063357id_/https%3A//www.phalogenics.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phalogenics.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610221532id_/https%3A//www.phalogenics.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Order Now](https://www.phalogenics.com/recjoin/joinform/secureform.php)
+[Order Now](https://www.phalogenics.com/secure/index.php)
 
 Just $69 USD for the complete Video Training Series + 3 bonus sites!
 
