@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strangebeaver.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208131656id_/http%3A//www.strangebeaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strangebeaver.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610033639id_/http%3A//www.strangebeaver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Strange Beaver
 
