@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jmu.edu privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228054846id_/https%3A//www.jmu.edu/policies/web-privacy-statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jmu.edu privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611212437id_/https%3A//www.jmu.edu/policies/web-privacy-statement.shtml) for the most accurate reproduction.*
 
 # James Madison University - Web Privacy Statement
 
@@ -18,7 +18,7 @@ University Web space includes hundreds of sites with varying levels of universit
 
 **Official University Websites**
 
-Except as noted, the information in this privacy notice applies to all official James Madison University websites, which are defined as – the Web pages of university colleges, schools, departments, divisions or other units and any other sites specifically designated as official by a vice president, dean, department head or director. Official pages are generally recognizable by a standard page footer carrying the university logo, contact information and reference to this privacy statement. Click here to see a sample of this footer on the JMU [home page](https://web.archive.org/web/20171228054846id_/https%3A//www.jmu.edu/index.shtml "James Madison University Home").
+Except as noted, the information in this privacy notice applies to all official James Madison University websites, which are defined as – the Web pages of university colleges, schools, departments, divisions or other units and any other sites specifically designated as official by a vice president, dean, department head or director. Official pages are generally recognizable by a standard page footer carrying the university logo, contact information and reference to this privacy statement. Click here to see a sample of this footer on the JMU [home page](https://web.archive.org/web/20180611212437id_/https%3A//www.jmu.edu/index.shtml "James Madison University Home").
 
 **Unofficial Websites**
 
