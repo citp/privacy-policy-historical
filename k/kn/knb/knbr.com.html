@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the knbr.com privacy policy that was archived on 2017-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171210213546id_/http%3A//www.knbr.com/1111/11/11/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the knbr.com privacy policy that was archived on 2018-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180611235142id_/http%3A//www.knbr.com/1111/11/11/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" class="js csstransitions"><head>
+<!DOCTYPE html><html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta charset="UTF-8">
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//cdn.taboola.com/libtrc/cumulus-knbr/loader.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TKNXWW&amp;l=corpDataLayer"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>(function(html){ html.className = html.className.replace(/\bno-js\b/,'js'); if (html.classList) { html.classList.add( 'js' ); } else { html.className += ' js'; } })(document.documentElement);</script><style type="text/css">.js.csstransitions .module.wow, .js.csstransitions .themify_builder_content .themify_builder_row.wow, .js.csstransitions .module_row.wow, .js.csstransitions .builder-posts-wrap > .post.wow, .js.csstransitions .fly-in > .post, .js.csstransitions .fly-in .row_inner > .tb-column, .js.csstransitions .fade-in > .post, .js.csstransitions .fade-in .row_inner > .tb-column, .js.csstransitions .slide-up > .post, .js.csstransitions .slide-up .row_inner > .tb-column { visibility:hidden; }</style>
+
 <!-- Title -->
 <title>Privacy Policy | KNBR-AM</title><link rel="dns-prefetch" href="//www.knbr.com">
 <link rel="dns-prefetch" href="//see-p-elb-01.tritondigital.net">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="canonical" href="http://www.knbr.com/1111/11/11/privacy-policy/">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.knbr.com\/wp-includes\/js\/wp-emoji.js?ver=4.7.3","twemoji":"http:\/\/www.knbr.com\/wp-includes\/js\/twemoji.js?ver=4.7.3"}};
+		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//cdn.taboola.com/libtrc/cumulus-knbr/loader.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TKNXWW&amp;l=corpDataLayer"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.knbr.com\/wp-includes\/js\/wp-emoji.js?ver=4.9.1","twemoji":"http:\/\/www.knbr.com\/wp-includes\/js\/twemoji.js?ver=4.9.1"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
 
@@ -23,24 +23,43 @@
 	var context = canvas.getContext && canvas.getContext( '2d' );
 
 	/**
+	 * Check if two sets of Emoji characters render the same.
+	 *
+	 * @param set1 array Set of Emoji characters.
+	 * @param set2 array Set of Emoji characters.
+	 * @returns {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( set1, set2 ) {
+		var stringFromCharCode = String.fromCharCode;
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set1 ), 0, 0 );
+		var rendered1 = canvas.toDataURL();
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set2 ), 0, 0 );
+		var rendered2 = canvas.toDataURL();
+
+		return rendered1 === rendered2;
+	}
+
+	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
 	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
+	 * @param type {String} Whether to test for support of "flag" or "emoji".
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
-		var stringFromCharCode = String.fromCharCode,
-			flag, flag2, technologist, technologist2;
+		var isIdentical;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
 		}
-
-		// Cleanup from previous test.
-		context.clearRect( 0, 0, canvas.width, canvas.height );
 
 		/*
 		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
@@ -53,55 +72,47 @@
 		switch ( type ) {
 			case 'flag':
 				/*
-				 * This works because the image will be one of three things:
-				 * - Two empty squares, if the browser doesn't render emoji
-				 * - Two squares with 'U' and 'N' in them, if the browser doesn't render flag emoji
-				 * - The United Nations flag
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
 				 *
-				 * The first two will encode to small images (1-2KB data URLs), the third will encode
-				 * to a larger image (4-5KB data URL).
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
 				 */
-				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
-				if ( canvas.toDataURL().length < 3000 ) {
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 56826, 55356, 56819 ],
+					[ 55356, 56826, 8203, 55356, 56819 ]
+				);
+
+				if ( isIdentical ) {
 					return false;
 				}
 
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
 				/*
-				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
-				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
-				 * Unicode support is up to date.
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather an five letter sub-division code.
 				 *
 				 * To test for support, we try to render it, and compare the rendering to how it would look if
-				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
 				 */
-				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
-				flag = canvas.toDataURL();
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ],
+					[ 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ]
+				);
 
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
-				flag2 = canvas.toDataURL();
-
-				return flag !== flag2;
-			case 'emoji4':
+				return ! isIdentical;
+			case 'emoji':
 				/*
-				 * Emoji 4 has the best technologists. So does WordPress!
+				 * Emoji 5 has fairies of all genders.
 				 *
-				 * To test for support, try to render a new emoji (woman technologist: medium skin tone),
-				 * then compare it to how it would look if the browser doesn't render it correctly
-				 * (woman technologist: medium skin tone + personal computer).
+				 * To test for support, try to render a new emoji (fairy, male), then compares
+				 * it to how it would look if the browser doesn't render it correctly
+				 * (fairy + male sign).
 				 */
-				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 8205, 55357, 56507), 0, 0 );
-				technologist = canvas.toDataURL();
-
-				context.clearRect( 0, 0, canvas.width, canvas.height );
-
-				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 55357, 56507), 0, 0 );
-				technologist2 = canvas.toDataURL();
-
-				return technologist !== technologist2;
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55358, 56794, 8205, 9794, 65039 ],
+					[ 55358, 56794, 8203, 9794, 65039 ]
+				);
+				return ! isIdentical;
 		}
 
 		return false;
@@ -115,7 +126,7 @@
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'flag', 'emoji4' );
+	tests = Array( 'flag', 'emoji' );
 
 	settings.supports = {
 		everything: true,
@@ -167,7 +178,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.knbr.com/wp-includes/js/twemoji.js?ver=4.7.3" type="text/javascript" defer=""></script><script src="http://www.knbr.com/wp-includes/js/wp-emoji.js?ver=4.7.3" type="text/javascript" defer=""></script>
+		</script><script src="http://www.knbr.com/wp-includes/js/twemoji.js?ver=4.9.1" type="text/javascript" defer=""></script><script src="http://www.knbr.com/wp-includes/js/wp-emoji.js?ver=4.9.1" type="text/javascript" defer=""></script>
 		
 
 <!-- Stylesheets -->
@@ -186,24 +197,24 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="bxslider-style-css" href="http://www.knbr.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.css?ver=4.7.3" type="text/css" media="all">
-<link rel="stylesheet" id="amp-promo-reel-widget-style-css" href="http://www.knbr.com/wp-content/plugins/amp-promo-reel/includes/../css/widget.css?ver=4.7.3" type="text/css" media="all">
-<link rel="stylesheet" id="headway-general-css" href="http://www.knbr.com/wp-content/uploads/sites/82/headway/cache/general-347bcf3.css?ver=4.7.3" type="text/css" media="all">
-<link rel="stylesheet" id="headway-layout-single-post-css" href="http://www.knbr.com/wp-content/uploads/sites/82/headway/cache/layout-single-post-fb722e7.css?ver=4.7.3" type="text/css" media="all">
-<link rel="stylesheet" id="headway-responsive-grid-css" href="http://www.knbr.com/wp-content/uploads/sites/82/headway/cache/responsive-grid-d2119e4.css?ver=4.7.3" type="text/css" media="all">
-<link rel="stylesheet" id="themify-builder-style-css" href="http://www.knbr.com/wp-content/plugins/themify-builder/css/themify-builder-style.css?ver=1.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="bxslider-style-css" href="http://www.knbr.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.css?ver=4.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="amp-promo-reel-widget-style-css" href="http://www.knbr.com/wp-content/plugins/amp-promo-reel/includes/../css/widget.css?ver=4.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="headway-general-css" href="http://www.knbr.com/wp-content/uploads/sites/82/headway/cache/general-dc48ed8.css?ver=4.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="headway-layout-single-post-css" href="http://www.knbr.com/wp-content/uploads/sites/82/headway/cache/layout-single-post-84cc069.css?ver=4.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="headway-responsive-grid-css" href="http://www.knbr.com/wp-content/uploads/sites/82/headway/cache/responsive-grid-d2119e4.css?ver=4.9.1" type="text/css" media="all">
+<link id="builder-styles" rel="stylesheet" href="http://www.knbr.com/wp-content/plugins/themify-builder/css/themify-builder-style.css?ver=2.1.8" type="text/css"><meta name="builder-styles-css" content="" id="builder-styles-css">
 <link rel="stylesheet" id="amp-breaking-news-css" href="http://www.knbr.com/wp-content/plugins/amp-breaking-news/public/css/public.css?ver=0.2.3" type="text/css" media="all">
 <link rel="stylesheet" id="animate-style-css" href="http://www.knbr.com/wp-content/plugins/shared/css/animate.css?ver=0.2.3" type="text/css" media="all">
 <link rel="stylesheet" id="amp-styles-plugin-styles-css" href="http://www.knbr.com/wp-content/plugins/amp-styles/css/public.css?ver=1.4.1" type="text/css" media="all">
 <link rel="stylesheet" id="amp-events-calendar-styles-css" href="http://www.knbr.com/wp-content/plugins/amp-events/css/calendar.css?ver=1.1.4" type="text/css" media="all">
 <link rel="stylesheet" id="amp-events-export-styles-css" href="http://www.knbr.com/wp-content/plugins/amp-events/css/public.css?ver=1.1.4" type="text/css" media="all">
-<link rel="stylesheet" id="amp_feed-plugin-styles-css" href="http://www.knbr.com/wp-content/plugins/amp-feeds/css/public.css?ver=0.3.8" type="text/css" media="all">
+<link rel="stylesheet" id="amp_feed-plugin-styles-css" href="http://www.knbr.com/wp-content/plugins/amp-feeds/css/public.css?ver=0.3.9" type="text/css" media="all">
 <link rel="stylesheet" id="amp-image-rotator-plugin-styles-css" href="http://www.knbr.com/wp-content/plugins/amp-image-rotator/public/assets/css/public.css?ver=1.0.0" type="text/css" media="all">
 <link rel="stylesheet" id="amp-listen-live-plugin-styles-css" href="http://www.knbr.com/wp-content/plugins/amp-listen-live/public/assets/css/public.css?ver=1.4.4" type="text/css" media="all">
 <link rel="stylesheet" id="amp-onair-plugin-styles-css" href="http://www.knbr.com/wp-content/plugins/amp-onair/public/assets/css/public.css?ver=1.7.1" type="text/css" media="all">
 <link rel="stylesheet" id="AMPPromoReel-plugin-styles-css" href="http://www.knbr.com/wp-content/plugins/amp-promo-reel/css/public.css?ver=1.4.0" type="text/css" media="all">
-<link rel="stylesheet" id="mediaelement-css" href="http://www.knbr.com/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0" type="text/css" media="all">
-<link rel="stylesheet" id="wp-mediaelement-css" href="http://www.knbr.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="http://www.knbr.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="http://www.knbr.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.9.1" type="text/css" media="all">
 <link rel="stylesheet" id="amp-tabs-plugin-styles-css" href="http://www.knbr.com/wp-content/plugins/amp-tabs/public/assets/css/public.css?ver=1.0.0" type="text/css" media="all">
 <link rel="stylesheet" id="amp-header-rotator-css" href="http://www.knbr.com/wp-content/themes/Headway-AMP_CMS/css/amp-header-rotator.css?ver=1.1.5" type="text/css" media="all">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.knbr.com/wp-content/themes/Headway-AMP_CMS/style.css">
@@ -211,20 +222,20 @@ img.emoji {
 <!-- Scripts -->
 <script type="text/javascript" src="http://www.knbr.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://www.knbr.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/themes/headway/library/media/js/jquery.hoverintent.js?ver=4.7.3"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/themes/headway/library/blocks/navigation/js/jquery.superfish.js?ver=4.7.3"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/themes/headway/library/blocks/navigation/js/selectnav.js?ver=1512399620"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/uploads/sites/82/headway/cache/block-dynamic-js-layout-single-post-3f428ce.js?ver=4.7.3"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.min.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/themes/headway/library/media/js/jquery.hoverintent.js?ver=4.9.1"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/themes/headway/library/blocks/navigation/js/jquery.superfish.js?ver=4.9.1"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/themes/headway/library/blocks/navigation/js/selectnav.js?ver=1526522683"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/uploads/sites/82/headway/cache/block-dynamic-js-layout-single-post-3f428ce.js?ver=4.9.1"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.min.js?ver=4.9.1"></script>
 <script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-promo-reel/includes/../js/widget.js?ver=1.4.0"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/themes/headway/library/media/js/jquery.fitvids.js?ver=4.7.3"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/uploads/sites/82/headway/cache/responsive-grid-js-e6e6939.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/themes/headway/library/media/js/jquery.fitvids.js?ver=4.9.1"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/uploads/sites/82/headway/cache/responsive-grid-js-e6e6939.js?ver=4.9.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _ampconfig = {"site_url":"http:\/\/www.knbr.com","site_id":"82","tz":"America\/Los_Angeles","tz_offset":"-8","ts":"1512399620","blog_name":"KNBR-AM","client_name":"cumuluspro","user_ID":"","ts_offset":"1512912945","version":"2.45.0.2","env":"prod","settings":{"tenant_id":"see_10369","vidible_company_key":"06125e55709b3c4ffdfe3c3f8a9ed8bd","client_name":false,"nielsen_provider":"cumulus","promoreel_priority":true}};
+var _ampconfig = {"site_url":"http:\/\/www.knbr.com","site_id":"82","tz":"America\/Los_Angeles","tz_offset":"-7","ts":"1526522683","blog_name":"KNBR-AM","client_name":"cumuluspro","user_ID":"","ts_offset":"1528735901","version":"2.46.3.1","env":"prod","settings":{"tenant_id":"see_10369","vidible_company_key":"06125e55709b3c4ffdfe3c3f8a9ed8bd","client_name":false,"nielsen_provider":"cumulus","promoreel_priority":true}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/shared/js/amp-common.js?ver=1512399620"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/shared/js/amp-common.js?ver=1526522683"></script>
 <script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-breaking-news/public/js/public.js?ver=0.2.3"></script>
 <script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-styles/js/public.js?ver=1.4.1"></script>
 <script type="text/javascript">
@@ -234,16 +245,16 @@ var dates = {"start_of_week":"1","moment_date_format":"MMMM D, YYYY","moment_tim
 </script>
 <script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-events/js/calendar.js?ver=1.1.4"></script>
 <script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-events/js/public.js?ver=1.1.4"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-feeds/js/jquery.totemticker.min.js?ver=0.3.8"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-feeds/js/jquery.totemticker.min.js?ver=0.3.9"></script>
 <script type="text/javascript" src="http://www.knbr.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.knbr.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.knbr.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-feeds/js/amp-feed.js?ver=0.3.8"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-feeds/js/public.js?ver=0.3.8"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-feeds/js/date.js?ver=0.3.8"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-feeds/js/amp-feed.js?ver=0.3.9"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-feeds/js/public.js?ver=0.3.9"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-feeds/js/date.js?ver=0.3.9"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _amplistenlive = {"blog_id":"82","callsign":"","mount_name":"KNBRAM","provider":"stream_the_world","gmt_offset":"-28800"};
+var _amplistenlive = {"blog_id":"82","callsign":"","mount_name":"KNBRAM","provider":"stream_the_world","gmt_offset":"-25200"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-listen-live/public/assets/js/public.js?ver=1.4.4"></script>
@@ -394,6 +405,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://dff2h0hbfv6w4.cloudfront.net/scripts/embed-stanzacal-v1.js" type="text/javascript"></script>
 <!-- End Stanzacal Script -->
 
+<script src="http://imageslidermaker.com/ism/js/ism-2.2.min.js"></script>
+
+<!-- BEGIN INFINITE FACEBOOK PIXEL -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '181461212508101');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=181461212508101&ev=PageView&noscript=1"
+/></noscript>
+<!-- END INFINITE FACEBOOK PIXEL -->
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
 <link rel="alternate" type="application/rss+xml" title="KNBR-AM » Feed" href="http://www.knbr.com/feed/">
 
@@ -417,31 +447,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				})();
 			</script>
 
-        
-				<!-- equalcolumn-ie-fix.js -->
-				<!--[if IE 9]>
-					<script src="http://www.knbr.com/wp-content/plugins/themify-builder/js/equalcolumn-ie-fix.js"></script>
-				<![endif]-->
-				<script type="text/javascript">				function isSupportTransition() {
-				var b = document.body || document.documentElement,
-				s = b.style,
-				p = 'transition';
-
-				if (typeof s[p] == 'string') { return true; }
-
-				// Tests for vendor specific prop
-				var v = ['Moz', 'webkit', 'Webkit', 'Khtml', 'O', 'ms'];
-				p = p.charAt(0).toUpperCase() + p.substr(1);
-
-				for (var i=0; i<v.length; i++) {
-					if (typeof s[v[i] + p] == 'string') { return true; }
-					}
-					return false;
-					}
-					if ( isSupportTransition() ) {
-					document.documentElement.className += " csstransitions";	
-					}
-		</script><script type="text/javascript">var ajaxurl = "http://www.knbr.com/wp-admin/admin-ajax.php"</script><script type="text/javascript">var ajaxurl = "http://www.knbr.com/wp-admin/admin-ajax.php"</script>
+        <script type="text/javascript">var ajaxurl = "http://www.knbr.com/wp-admin/admin-ajax.php"</script><script type="text/javascript">var ajaxurl = "http://www.knbr.com/wp-admin/admin-ajax.php"</script>
 <!-- AMP CMS DFP custom tags -->
 <script type="text/javascript">
   googletag.cmd.push(function() {
@@ -479,7 +485,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </head><!-- End <head> -->
 
-<body class="post-template-default single single-post postid-250158 single-format-standard custom responsive-grid-enabled responsive-grid-active layout-single-post-250158 layout-using-single-post" itemscope="" itemtype="http://schema.org/WebPage">
+<body class="post-template-default single single-post postid-250158 single-format-standard custom responsive-grid-enabled responsive-grid-active layout-single-post-250158 layout-using-single-post builder-parallax-scrolling-active" itemscope="" itemtype="http://schema.org/WebPage">
 
 
 <div id="whitewrap">
@@ -514,7 +520,7 @@ This tag must be placed between the <body> and <script type="text/javascript">
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=495197107';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1238861326';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
@@ -532,7 +538,7 @@ var a = axel * 10000000000000;
 
 document.write('<iframe src="https://8189238.fls.doubleclick.net/activityi;src=8189238;type=invmedia;cat=4yc3lmfu;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
 
-</script><iframe src="https://8189238.fls.doubleclick.net/activityi;src=8189238;type=invmedia;cat=4yc3lmfu;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=6278785578483.87?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</script><iframe src="https://8189238.fls.doubleclick.net/activityi;src=8189238;type=invmedia;cat=4yc3lmfu;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=9062337592951.654?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 
 <noscript>
 
@@ -554,7 +560,7 @@ Creation Date: 11/17/2017
 var axel = Math.random() + "";
 var a = axel * 10000000000000;
 document.write('<iframe src="https://8268366.fls.doubleclick.net/activityi;src=8268366;type=invmedia;cat=bjbhhtuw;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script><iframe src="https://8268366.fls.doubleclick.net/activityi;src=8268366;type=invmedia;cat=bjbhhtuw;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1929530467048.779?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</script><iframe src="https://8268366.fls.doubleclick.net/activityi;src=8268366;type=invmedia;cat=bjbhhtuw;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=5342975918907.577?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 <noscript>
 <iframe src="https://8268366.fls.doubleclick.net/activityi;src=8268366;type=invmedia;cat=bjbhhtuw;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 </noscript>
@@ -568,7 +574,7 @@ document.write('<iframe src="https://8268366.fls.doubleclick.net/activityi;src=8
 <section class="column column-3 grid-left-0 grid-width-14">
 <section id="block-92" class="mobile-apps block block-type-social block-fixed-height" data-alias="Mobile Apps">
 <div class="block-content">
-<div class="social-icons-container"><ul class="social-icons"><li><img src="http://cumulus.pro.poolb.tritondigitalcms.com/knbr-am/wp-content/uploads/sites/82/2014/12/mobileapps.png" class="img-1"></li><li><a href="http://itunes.apple.com/us/app/knbr-680/id733688897?mt=8&amp;ign-mpt=uo%3D4" target="_blank" alt="Download the KNBR iOS App"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/knbr-am/wp-content/uploads/sites/82/2014/12/apple.png" alt="Download the KNBR iOS App" class="img-2"></a></li><li><a href="https://play.google.com/store/apps/details?id=com.airkast.KNBRAM" target="_blank" alt="Get KNBR from Google Play"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/knbr-am/wp-content/uploads/sites/82/2014/12/droid.png" alt="Get KNBR from Google Play" class="img-3"></a></li><li><a href="http://knbr.com/contests" alt="Get exclusives from KNBR"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/knbr-am/wp-content/uploads/sites/82/2014/12/teamknbr.png" alt="Get exclusives from KNBR" class="img-4"></a></li><li><a href="http://www.facebook.com/KNBRSF" target="_blank" alt="Find KNBR on Facebook"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/knbr-am/wp-content/uploads/sites/82/2014/12/facebook.png" alt="Find KNBR on Facebook" class="img-5"></a></li><li><a href="http://twitter.com/knbr" target="_blank" alt="Follow us on Twitter"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/knbr-am/wp-content/uploads/sites/82/2014/12/twitter.png" alt="Follow us on Twitter" class="img-6"></a></li><li><a href="http://instagram.com/knbr/" target="_blank" alt="Catch us on Instagram"><img src="http://www.knbr.com/wp-content/uploads/sites/82/2016/05/insta.png" alt="Catch us on Instagram" class="img-7"></a></li></ul></div><!-- .social-icons-container -->
+<div class="social-icons-container"><ul class="social-icons"><li><a href="http://itunes.apple.com/us/app/knbr-680/id733688897?mt=8&amp;ign-mpt=uo%3D4" target="_blank" alt="Download the KNBR iOS App"><img src="http://images.tritondigitalcms.com/6616/sites/82/2018/04/04141628/apple.png" alt="Download the KNBR iOS App" class="img-1"></a></li><li><a href="https://play.google.com/store/apps/details?id=com.airkast.KNBRAM" target="_blank" alt="Get KNBR from Google Play"><img src="http://images.tritondigitalcms.com/6616/sites/82/2018/04/04135356/android.png" alt="Get KNBR from Google Play" class="img-2"></a></li><li><a href="http://www.facebook.com/KNBRSF" target="_blank" alt="Find KNBR on Facebook"><img src="http://images.tritondigitalcms.com/6616/sites/82/2018/04/04141713/FB.png" alt="Find KNBR on Facebook" class="img-3"></a></li><li><a href="http://twitter.com/knbr" target="_blank" alt="Follow us on Twitter"><img src="http://images.tritondigitalcms.com/6616/sites/82/2018/04/04141727/TWITTER.png" alt="Follow us on Twitter" class="img-4"></a></li><li><a href="http://instagram.com/knbr/" target="_blank" alt="Catch us on Instagram"><img src="http://images.tritondigitalcms.com/6616/sites/82/2018/04/04141740/IG.png" alt="Catch us on Instagram" class="img-5"></a></li><li><a href="/listen-live-with-alexa"><img src="http://images.tritondigitalcms.com/6616/sites/82/2018/04/04141758/alexa.png" alt="Alexa" class="img-6"></a></li></ul></div><!-- .social-icons-container -->
 </div><!-- .block-content -->
 
 </section><!-- #block-92 -->
@@ -608,24 +614,24 @@ Listen Live Now:
 
 <section class="row row-1">
 
-<section class="column column-1 grid-left-0 grid-width-6">
+<section class="column column-1 grid-left-0 grid-width-7">
 <figure id="block-31" class="logo block block-type-image block-fixed-height" data-alias="Logo" itemscope="" itemtype="http://schema.org/ImageObject">
 <div class="block-content">
-<a href="http://knbr.com" class="image"><img src="http://www.knbr.com/wp-content/uploads/sites/82/2016/08/KNBRlogo.png" alt="" title="" itemprop="contentURL"></a>
+<a href="http://knbr.com" class="image"><img src="http://images.tritondigitalcms.com/6616/sites/82/2018/04/04095817/KNBR-LOGO.jpg" alt="" title="" itemprop="contentURL"></a>
 </div><!-- .block-content -->
 
 </figure><!-- #block-31 -->
 
 </section><!-- .column -->
 
-<section class="column column-2 grid-left-1 grid-width-9">
+<section class="column column-2 grid-left-0 grid-width-9">
 <nav id="block-94" class="nav-search block block-type-navigation block-fluid-height" data-alias="Navigation Search" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
 <div class="block-content">
 <div class="nav-horizontal nav-align-right nav-search-active nav-search-position-right"><div class="nav-search">
 		<form method="get" id="searchform" action="http://www.knbr.com/">
 			<label for="s" class="assistive-text">Search</label>
 			<input type="text" class="field" name="s" id="s" value="Type to search, then press enter" onclick="if(this.value=='Type to search, then press enter')this.value='';" onblur="if(this.value=='')this.value='Type to search, then press enter';">
-			<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search">
+			<input type="submit" class="submit" name="searchsubmit" id="searchsubmit" value="Search">
 		</form>
 	</div></div><!-- .nav-horizontal nav-align-right nav-search-active nav-search-position-right -->
 </div><!-- .block-content -->
@@ -637,21 +643,21 @@ Listen Live Now:
 <section class="column column-3 grid-left-0 grid-width-8">
 <aside id="block-29" class="on-air block block-type-widget-area block-fluid-height" data-alias="Home - On Air Now" itemscope="" itemtype="http://schema.org/WPSideBar">
 <div class="block-content">
-<ul class="widget-area"><div class="amp-onair-widget" id="amp_onair_widget-2" data-title-now="" data-title-upcoming="" data-title="" data-type="nowplaying" data-change-minutes="5" data-change="0" data-toggle-time="10" data-fields="image,timeslot" data-ajaxurl="http://www.knbr.com/wp-admin/admin-ajax.php" data-updateurl="http://www.knbr.com/shows/feed/?type=json" data-memcached="1" data-expiration="1512950400">
+<ul class="widget-area"><div class="amp-onair-widget" id="amp_onair_widget-2" data-title-now="" data-title-upcoming="" data-title="" data-type="nowplaying" data-change-minutes="5" data-change="0" data-toggle-time="5" data-fields="image,timeslot" data-ajaxurl="http://www.knbr.com/wp-admin/admin-ajax.php" data-updateurl="http://www.knbr.com/shows/feed/?type=json" data-memcached="1" data-expiration="1528743600">
 	
 <div class="amp-onair-show nowplaying">
 
     <div class="amp-onair-widget-title js-widget-title"></div>
 
         <div class="amp-onair-show-image">
-                    <img class="js-image amp-onair-show-image-img" src="" style="display: none">
+                    <img class="js-image amp-onair-show-image-img" src="http://images.tritondigitalcms.com/6616/sites/82/2015/01/20140704/tolbertlund.png">
             </div>
         
     <div class="amp-onair-show-title">
-            <span class="js-title">KNBR-AM</span>
+            <span class="js-title">Tolbert &amp; Lund</span>
         </div>
     
-        <div class="amp-onair-show-timeslot js-timeslot">9:00 a.m. - 12:00 a.m.</div>
+        <div class="amp-onair-show-timeslot js-timeslot">3:00 p.m. - 7:00 p.m.</div>
         
         
     
@@ -660,19 +666,24 @@ Listen Live Now:
 </div><!-- .block-content -->
 
 </aside><!-- #block-29 -->
+
+</section><!-- .column -->
+
+</section><!-- .row -->
+
+
+<section class="row row-2">
+
+<section class="column column-1 grid-left-16 grid-width-5">
 <div id="block-b3k57c07558d06b8" class="specialHolder block block-type-custom-code block-fluid-height" data-alias="">
 <div class="block-content">
 <div class="special">
     <div id="listenlive">
         <a href="http://knbr.com/listen-live" alt="Listen Live on KNBR" target="_blank">
-            <img src="http://www.knbr.com/wp-content/uploads/sites/82/2016/08/KNBR-listenlive@2.png" alt="Listen Live">
+            <img src="http://images.tritondigitalcms.com/6616/sites/82/2018/04/04142018/listenlive-button.png" alt="Listen Live">
         </a>
     </div>
-    <div id="levislounge">
-        <a href="http://www.knbr.com/levislounge" alt="Levi's Lounge on KNBR" target="_blank">
-            <img src="http://www.knbr.com/wp-content/uploads/sites/82/2016/08/levis-KNBRx2.png" alt="Levi's Lounge">
-        </a>
-    </div>
+
 </div>
 </div><!-- .block-content -->
 
@@ -683,9 +694,9 @@ Listen Live Now:
 </section><!-- .row -->
 
 
-<section class="row row-2">
+<section class="row row-3">
 
-<section class="column column-1 grid-left-0 grid-width-24">
+<section class="column column-1 grid-left-0 grid-width-21">
 <nav id="block-32" class="main-nav block block-type-navigation block-fluid-height" data-alias="Main Navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
 <div class="block-content">
 <div class="nav-horizontal nav-align-left"><ul id="menu-main-navigation" class="menu"><li id="menu-item-47654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47654"><a href="http://www.knbr.com/knbr-680-shows/">680</a>
@@ -696,18 +707,16 @@ Listen Live Now:
 	<li id="menu-item-38282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38282"><a href="http://www.knbr.com/tolbert-lund-podcast-2/">Tolbert &amp; Lund</a></li>
 	<li id="menu-item-733410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-733410"><a href="http://www.knbr.com/knbr-tonight/">KNBR Tonight</a></li>
 	<li id="menu-item-38336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38336"><a href="http://www.knbr.com/marty-lurie/">Marty Lurie</a></li>
-	<li id="menu-item-491846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-491846"><a href="http://www.knbr.com/the-shower-hour-with-p-con/">The Shower Hour with P-Con</a></li>
-	<li id="menu-item-38276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38276"><a href="http://www.knbr.com/the-sports-saloon/">The Sports Saloon</a></li>
 	<li id="menu-item-59207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59207"><a href="http://www.knbr.com/hooked-on-golf/">Hooked on Golf</a></li>
 	<li id="menu-item-634117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-634117"><a href="http://www.knbr.com/bill-laskey-vida-blue/">Bill Laskey &amp; Vida Blue</a></li>
 	<li id="menu-item-48881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48881"><a href="http://www.knbr.com/protect-your-assets/">Protect Your Assets with David Hollander</a></li>
-	<li id="menu-item-41777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41777"><a href="http://www.knbr.com/connect-with-knbr-personalities/">Contact a Jock</a></li>
 </ul>
 </li>
 <li id="menu-item-717259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-717259"><a href="http://www.knbr.com/knbr-1050-shows/">1050</a>
 <ul class="sub-menu">
 	<li id="menu-item-736001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-736001"><a href="http://www.knbr.com/knbr-1050-shows/">KNBR 1050 Shows</a></li>
 	<li id="menu-item-539903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-539903"><a href="http://www.knbr.com/stanford-football-on-knbr-1050/">Stanford Football</a></li>
+	<li id="menu-item-750094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750094"><a href="http://www.knbr.com/golic-and-wingo/">Golic and Wingo</a></li>
 </ul>
 </li>
 <li id="menu-item-47657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47657"><a href="http://www.knbr.com/podcasts/">Podcasts</a>
@@ -717,7 +726,7 @@ Listen Live Now:
 	<li id="menu-item-45185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45185"><a href="http://www.knbr.com/gary-larry-podcast/">Gary &amp; Larry</a></li>
 	<li id="menu-item-45182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45182"><a href="http://www.knbr.com/fitz-brooks-podcast/">Fitz &amp; Brooks</a></li>
 	<li id="menu-item-734729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734729"><a href="http://www.knbr.com/tolbert-lund-2/">Tolbert &amp; Lund</a></li>
-	<li id="menu-item-506870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-506870"><a href="http://www.knbr.com/the-shower-hour/">The Shower Hour</a></li>
+	<li id="menu-item-748129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748129"><a href="http://www.knbr.com/knbr-tonight-podcast/">KNBR Tonight</a></li>
 	<li id="menu-item-667654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-667654"><a href="http://www.knbr.com/fitzfiles/">Fitz Files</a></li>
 	<li id="menu-item-50522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50522"><a href="http://www.knbr.com/kruk-kuip-podcast/">Kruk &amp; Kuip</a></li>
 	<li id="menu-item-45173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45173"><a href="http://www.knbr.com/marty-lurie-podcast/">Marty Lurie</a></li>
@@ -725,12 +734,8 @@ Listen Live Now:
 	<li id="menu-item-441056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441056"><a href="http://www.knbr.com/the-krueg-show/">The Krueg Show</a></li>
 	<li id="menu-item-590682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-590682"><a href="http://www.knbr.com/paulies-podcast/">Paulie’s Podcast</a></li>
 	<li id="menu-item-725582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-725582"><a href="http://www.knbr.com/fantasy-football-focus/">Fantasy Football Focus</a></li>
-	<li id="menu-item-45179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45179"><a href="http://www.knbr.com/the-sports-saloon-podcast/">The Sports Saloon</a></li>
 	<li id="menu-item-446789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446789"><a href="http://www.knbr.com/bobby-evans-show-podcast/">The Bobby Evans Show</a></li>
 	<li id="menu-item-446786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446786"><a href="http://www.knbr.com/the-larry-baer-show-podcast/">The Larry Baer Show</a></li>
-	<li id="menu-item-280489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280489"><a href="http://www.knbr.com/steve-kerr-show/">The Steve Kerr Show</a></li>
-	<li id="menu-item-578880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-578880"><a href="http://www.knbr.com/jon-price-podcast/">Jon Price</a></li>
-	<li id="menu-item-578886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-578886"><a href="http://www.knbr.com/online-trading-academy-podcast/">Online Trading Academy</a></li>
 </ul>
 </li>
 <li id="menu-item-140941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-140941"><a href="http://www.knbr.com/all-knbr-videos/">Videos</a>
@@ -746,6 +751,7 @@ Listen Live Now:
 	<li id="menu-item-442535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442535"><a href="http://www.knbr.com/brooks/">Rod Brooks</a></li>
 	<li id="menu-item-442538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442538"><a href="http://www.knbr.com/fitz/">Bob Fitzgerald</a></li>
 	<li id="menu-item-667618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-667618"><a href="http://www.knbr.com/fitzfiles/">Fitz Files</a></li>
+	<li id="menu-item-742071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742071"><a href="http://www.knbr.com/beerreviews/">Tolbert Beer Reviews</a></li>
 	<li id="menu-item-442532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442532"><a href="http://www.knbr.com/murph/">Brian Murphy</a></li>
 	<li id="menu-item-442529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442529"><a href="http://www.knbr.com/radnich/">Gary Radnich</a></li>
 </ul>
@@ -755,8 +761,7 @@ Listen Live Now:
 	<li id="menu-item-14505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14505"><a href="http://www.knbr.com/events/">Events</a></li>
 	<li id="menu-item-174717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174717"><a href="http://www.knbr.com/contests/">Contests</a></li>
 	<li id="menu-item-341203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341203"><a href="http://www.knbr.com/norcalhonda/">Norcal Honda Call of the Game</a></li>
-	<li id="menu-item-139168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139168"><a href="http://www.knbr.com/tlc/">TLC for Kids Sports</a></li>
-	<li id="menu-item-449519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449519"><a href="http://www.knbr.com/stepup/">Step Up to the Plate</a></li>
+	<li id="menu-item-745056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-745056"><a href="http://www.knbr.com/stepup/">Step Up to the Plate</a></li>
 </ul>
 </li>
 <li id="menu-item-47678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47678"><a href="http://knbr.stats.com/mlb/teamstats.asp?team=26&amp;type=teamhome">Giants</a>
@@ -771,7 +776,6 @@ Listen Live Now:
 <ul class="sub-menu">
 	<li id="menu-item-190134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190134"><a href="http://www.knbr.com/san-francisco-49ers-news/">49ers News</a></li>
 	<li id="menu-item-203991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203991"><a href="http://www.knbr.com/all-knbr-videos/49ers-videos/">49ers Videos</a></li>
-	<li id="menu-item-43742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43742"><a href="http://www.knbr.com/football-news-podcasts/">Football News Podcasts</a></li>
 	<li id="menu-item-43739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43739"><a href="http://www.knbr.com/49ers-scheduleresults/">49ers Schedule/Results</a></li>
 </ul>
 </li>
@@ -787,6 +791,16 @@ Listen Live Now:
 </div><!-- .block-content -->
 
 </nav><!-- #block-32 -->
+
+</section><!-- .column -->
+
+<section class="column column-2 grid-left-0 grid-width-3">
+<div id="block-b835a90421d5d1b2" class="gigya-actions block block-type-custom-code block-fluid-height" data-alias="Gigya Profile Actions">
+<div class="block-content">
+<div class="see-widget" data-see-type="regUi" data-see-loginbonus="false"></div>
+</div><!-- .block-content -->
+
+</div><!-- #block-b835a90421d5d1b2 -->
 
 </section><!-- .column -->
 
@@ -826,7 +840,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-1');
 <section class="column column-1 grid-left-0 grid-width-16">
 <div id="block-22" class="interior-content block block-type-content block-fluid-height block-mirrored block-mirroring-bv95499e71eb11f8 block-original-b6b5598ab1b8a97f" data-alias="Interior Content">
 <div class="block-content">
-<div class="loop"><article id="post-250158" class="post-250158 post type-post status-publish format-standard hentry category-cumulus-legal author-dvena " itemscope="" itemtype="http://schema.org/BlogPosting"><header><h1 class="entry-title" itemprop="headline">Privacy Policy</h1><div class="entry-meta entry-meta-above"><span class="entry-author vcard" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><a class="author-link fn nickname url" href="http://www.knbr.com/author/dvena/" title="View all posts by Vena" itemprop="url"><span class="entry-author-name" itemprop="name">Vena</span></a></span></div><!-- .entry-meta --></header><div class="entry-content" itemprop="text"><h2>CUMULUS MEDIA, INC<br>
+<div class="loop"><article id="post-250158" class="post-250158 post type-post status-publish format-standard hentry category-cumulus-legal author-dvena " itemscope="" itemtype="http://schema.org/BlogPosting"><header><h1 class="entry-title" itemprop="headline">Privacy Policy</h1><div class="entry-meta entry-meta-above"><span class="entry-author vcard" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><a class="author-link fn nickname url" href="http://www.knbr.com/author/dvena/" title="View all posts by Vena" itemprop="url"><span class="entry-author-name" itemprop="name">Vena</span></a></span></div><!-- .entry-meta --></header><div class="entry-content" itemprop="text"><script type="text/javascript">
+                            if(!document.getElementById( "builder-styles" ) && document.getElementById( "builder-styles-css" ) ) document.getElementById( "builder-styles-css" ).insertAdjacentHTML( "beforebegin", "<link id='builder-styles' rel='stylesheet' href='http://www.knbr.com/wp-content/plugins/themify-builder/css/themify-builder-style.css?ver=2.1.8' type='text/css' />" );
+                        </script><h2>CUMULUS MEDIA, INC<br>
 INTERNET PRIVACY POLICY</h2>
 <p><strong>UPDATED AS OF MAY 1, 2015</strong></p>
 <p>Cumulus Media Inc. (“Cumulus,” “we,” “us,” or “our”) is dedicated to preserving your confidence and trust as it relates to the privacy of your information. Please read this policy so you understand how we collect, safeguard, use and share the information you provide to us through our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter and Facebook pages, and Mobile Application (collectively the “Cumulus Platform”).</p>
@@ -877,28 +893,18 @@ Suite 2300<br>
 Atlanta, GA 30305<br>
 Attn: Customer Service</p>
 <p>E‐Mail: <a href="mailto:privacy@cumulus.com">privacy@cumulus.com</a></p>
-<div id="themify_builder_content-250158" data-postid="250158" class="themify_builder_content themify_builder_content-250158 themify_builder themify_builder_front">
+<div id="themify_builder_content-250158" data-postid="250158" class="themify_builder_content themify_builder_content-250158 themify_builder">
 
-				<!-- module_row -->
-			<div data-gutter="gutter-default" class="themify_builder_row themify_builder_250158_row module_row module_row_0 clearfix gutter-default col_align_top" data-equal-column-height="" data-column-alignment="col_align_top">
+    	
+		<!-- module_row -->
+			<div class="themify_builder_row module_row clearfix module_row_0 themify_builder_250158_row module_row_250158-0">
+				                                <div class="row_inner col_align_top">
 
-		
-				
-				<div class="row_inner_wrapper">
-					<div class="row_inner">
+                                    
+		<div class="tb-column col-full first module_column tb_250158_column module_column_0 module_column_250158-0-0">
+                                                                <div class="tb-column-inner">
+                            
 
-						
-						
-							
-		<div class="col-full first tb-column  tb_250158_column module_column_0 module_column">
-
-			
-			
-			<div class="tb-column-inner">
-
-				
-				
-					
 
     <!-- module widget -->
     <div id="widget-250158-0-0-1" class="module module-widget widget-250158-0-0-1   ">
@@ -906,22 +912,15 @@ Attn: Customer Service</p>
 		</div>    </div>
     <!-- /module widget -->
 
-
-				
-			</div><!-- /.tb-column-inner -->
-					</div>
+                        </div>
+                    		</div>
 		<!-- /.tb-column -->
 		
 		
-								
-								
-							
-						</div>
-						<!-- /row_inner -->
-					</div>
-					<!-- /row_inner_wrapper -->
-				</div>
-				<!-- /module_row -->
+                                </div>
+                                <!-- /row_inner -->
+                        </div>
+                        <!-- /module_row -->
 		</div>
 <!-- /themify_builder_content --></div><!-- .entry-content --></article><!-- #post-250158 --></div>
 </div><!-- .block-content -->
@@ -936,7 +935,7 @@ Attn: Customer Service</p>
 <!--
 document.write ("<fb:comments href='"+location.href+"'num_posts='20' width='100%'></fb:comments>")
 // -->
-</script><fb:comments href="https://web.archive.org/web/20171210213546id_/http%3A//www.knbr.com/1111/11/11/privacy-policy" num_posts="20" width="100%"></fb:comments></div>
+</script><fb:comments href="https://web.archive.org/web/20180611235142id_/http%3A//www.knbr.com/1111/11/11/privacy-policy" num_posts="20" width="100%"></fb:comments></div>
 </div><!-- .block-content -->
 
 </div><!-- #block-bgf5598ab1b398e5 -->
@@ -972,7 +971,7 @@ document.write ("<fb:comments href='"+location.href+"'num_posts='20' width='100%
 
 <div class="entry-row">
 
-<article id="post-738900" class="post-738900 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-promo-reel category-sanfrancisco49ers category-trending-on-knbr tag-49ers tag-jadavevon-clowney tag-jimmy-garoppolo tag-kyle-juszczyk tag-kyle-shanahan author-kevinlynch alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/10/garoppolo-defense-lead-49ers-to-first-two-game-win-streak-in-three-years/" title="Garoppolo, defense lead 49ers to first two-game win streak in three years" rel="bookmark">Garoppolo, defense lead 49ers to first two-game win streak in three years</a></h2></header></article><!-- #post-738900 --><article id="post-738894" class="post-738894 post type-post status-publish format-standard has-post-thumbnail hentry category-sanfranciscogiants category-trending-on-knbr tag-brandon-morrow tag-chicago-cubs tag-jon-heyman tag-san-francisco-giants author-keatonmoore custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/10/giants-bullpen-target-brandon-morrow-signs-with-cubs-report/" title="Giants’ bullpen target Brandon Morrow signs with Cubs [report]" rel="bookmark">Giants’ bullpen target Brandon Morrow signs with Cubs [report]</a></h2></header></article><!-- #post-738894 -->
+<article id="post-752702" class="post-752702 post type-post status-publish format-standard has-post-thumbnail hentry category-promo-reel category-sanfranciscogiants category-trending-on-knbr tag-brandon-crawford tag-mike-krukow tag-mlb tag-murphmac tag-san-francisco-giants author-sbarasch alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/mike-krukow-details-one-way-2018-giants-are-similar-to-2017-dodgers/" title="Mike Krukow details one way 2018 Giants are similar to 2017 Dodgers" rel="bookmark">Mike Krukow details one way 2018 Giants are similar to 2017 Dodgers</a></h2></header></article><!-- #post-752702 --><article id="post-752626" class="post-752626 post type-post status-publish format-standard has-post-thumbnail hentry category-warriors-news category-trending-on-knbr category-video category-warriors-videos tag-championship-presentation tag-golden-state-warriors author-staffreport custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/08/full-2018-nba-championship-trophy-presentation/" title="Full 2018 NBA Championship trophy presentation" rel="bookmark">Full 2018 NBA Championship trophy presentation</a></h2></header></article><!-- #post-752626 -->
 
 </div><!-- .entry-row -->
 
@@ -980,7 +979,7 @@ document.write ("<fb:comments href='"+location.href+"'num_posts='20' width='100%
 
 <div class="entry-row">
 
-<article id="post-738881" class="post-738881 post type-post status-publish format-standard has-post-thumbnail hentry category-sanfranciscogiants category-trending-on-knbr tag-matt-moore tag-no-55 tag-san-francisco-giants tag-tim-lincecum author-keatonmoore alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/10/matt-moore-to-inherit-tim-lincecums-no-55-report/" title="Matt Moore to inherit Tim Lincecum’s No. 55 [report]" rel="bookmark">Matt Moore to inherit Tim Lincecum’s No. 55 [report]</a></h2></header></article><!-- #post-738881 --><article id="post-738884" class="post-738884 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-promo-reel category-sanfrancisco49ers category-trending-on-knbr tag-49ers tag-aaron-lynch tag-adrian-colbert tag-eric-reid tag-tenton-brown author-kevinlynch custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/10/trenton-brown-out-versus-texans/" title="Trenton Brown out versus Texans" rel="bookmark">Trenton Brown out versus Texans</a></h2></header></article><!-- #post-738884 -->
+<article id="post-752587" class="post-752587 post type-post status-publish format-standard has-post-thumbnail hentry category-knbr-podcasts category-news category-promo-reel category-sanfranciscogiants category-trending-on-knbr tag-bobby-evans tag-gary-and-larry tag-mlb tag-san-francico-giants author-sbarasch alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/08/bobby-evans-shares-thoughts-on-joey-bart-and-steven-duggar/" title="Bobby Evans shares thoughts on Joey Bart and Steven Duggar" rel="bookmark">Bobby Evans shares thoughts on Joey Bart and Steven Duggar</a></h2></header></article><!-- #post-752587 --><article id="post-752531" class="post-752531 post type-post status-publish format-standard has-post-thumbnail hentry category-knbr-podcasts category-news category-promo-reel category-sanfranciscogiants category-top-headlines category-trending-on-knbr tag-brandon-belt tag-brian-sabean tag-jeff-samardzija tag-john-lund tag-johnny-cueto tag-mlb tag-san-francisco-giants tag-tom-tolbert author-sbarasch custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/08/sabean-gives-timetable-for-returns-of-cueto-samardzija-and-belt/" title="Sabean gives timetable for returns of Cueto, Samardzija, and Belt" rel="bookmark">Sabean gives timetable for returns of Cueto, Samardzija, and Belt</a></h2></header></article><!-- #post-752531 -->
 
 </div><!-- .entry-row -->
 
@@ -988,7 +987,7 @@ document.write ("<fb:comments href='"+location.href+"'num_posts='20' width='100%
 
 <div class="entry-row">
 
-<article id="post-738862" class="post-738862 post type-post status-publish format-standard has-post-thumbnail hentry category-warriors-news category-promo-reel category-trending-on-knbr tag-kevin-durant tag-steph-curry tag-warriors-pistons author-kerrycrowley alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/08/greens-six-blocks-help-warriors-fend-off-pistons-complete-undefeated-road-trip/" title="Green’s six blocks help Warriors fend off Pistons, complete undefeated road trip" rel="bookmark">Green’s six blocks help Warriors fend off Pistons, complete undefeated road trip</a></h2></header></article><!-- #post-738862 --><article id="post-738861" class="post-738861 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-promo-reel category-sanfrancisco49ers category-trending-on-knbr tag-49ers tag-daniel-kilgore tag-kyle-juszczyk tag-marquise-goodwin author-kevinlynch custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/08/49ers-extensive-recovery-process-for-players-might-finally-be-paying-dividends/" title="49ers’ extensive recovery process for players might finally be paying dividends" rel="bookmark">49ers’ extensive recovery process for players might finally be paying dividends</a></h2></header></article><!-- #post-738861 -->
+<article id="post-752484" class="post-752484 post type-post status-publish format-standard has-post-thumbnail hentry category-sanfranciscogiants category-top-headlines category-trending-on-knbr tag-joey-bart tag-san-francisco-giants author-staffreport alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/07/head-of-giants-scouting-explains-what-sets-joey-bart-apart/" title="Head of Giants scouting explains what sets Joey Bart apart" rel="bookmark">Head of Giants scouting explains what sets Joey Bart apart</a></h2></header></article><!-- #post-752484 --><article id="post-752400" class="post-752400 post type-post status-publish format-standard has-post-thumbnail hentry category-tolbert-beer-reviews category-trending-on-knbr category-video tag-beer tag-crow tag-crowe tag-moonraker tag-south-winchester-bbq tag-tolberts-beer-review tag-tom-tolbert tag-zulu-haze author-ryanmcgeary custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/06/tolberts-beer-review-moonraker-zulu-haze/" title="Tolbert’s Beer Review: Moonraker Zulu Haze" rel="bookmark">Tolbert’s Beer Review: Moonraker Zulu Haze</a></h2></header></article><!-- #post-752400 -->
 
 </div><!-- .entry-row -->
 
@@ -996,7 +995,7 @@ document.write ("<fb:comments href='"+location.href+"'num_posts='20' width='100%
 
 <div class="entry-row">
 
-<article id="post-738847" class="post-738847 post type-post status-publish format-standard has-post-thumbnail hentry category-hotcorner category-sanfranciscogiants category-trending-on-knbr tag-giants-free-agents tag-giants-hot-stove tag-giants-j-d-martinez tag-j-d-martinez tag-j-d-martinez-giants author-staffreport alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/08/with-giancarlo-stanton-off-the-board-giants-have-discussed-signing-j-d-martinez-report/" title="With Giancarlo Stanton off the board, Giants have discussed signing J.D. Martinez [report]" rel="bookmark">With Giancarlo Stanton off the board, Giants have discussed signing J.D. Martinez [report]</a></h2></header></article><!-- #post-738847 --><article id="post-738849" class="post-738849 post type-post status-publish format-standard has-post-thumbnail hentry category-promo-reel category-sanfranciscogiants category-trending-on-knbr tag-giants-giancarlo-stanton tag-no-giants-stanton-trade tag-stanton-giants tag-stanton-giants-trade author-kerrycrowley custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/08/giants-announce-they-are-officially-moving-on-from-giancarlo-stanton/" title="Giants announce they are officially moving on from Giancarlo Stanton" rel="bookmark">Giants announce they are officially moving on from Giancarlo Stanton</a></h2></header></article><!-- #post-738849 -->
+<article id="post-752284" class="post-752284 post type-post status-publish format-standard has-post-thumbnail hentry category-giants-videos category-promo-left category-promo-reel category-sanfranciscogiants category-trending-on-knbr category-video tag-13752 tag-debut tag-giants-2 tag-madison-bumgarner tag-returns tag-san-francisco tag-standing-ovation author-ryanmcgeary alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/05/madison-bumgarner-receives-standing-ovation-in-2018-debut/" title="Madison Bumgarner receives standing ovation in 2018 debut" rel="bookmark">Madison Bumgarner receives standing ovation in 2018 debut</a></h2></header></article><!-- #post-752284 --><article id="post-752247" class="post-752247 post type-post status-publish format-standard has-post-thumbnail hentry category-brian-murphy category-jock-blogs category-promo-reel category-sanfrancisco49ers category-trending-on-knbr tag-brian-murphy tag-dwight-clark tag-san-francisco-49ers author-knbrmurph custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/05/even-in-death-dwight-clark-showed-us-how-to-live/" title="Murph: Even in death, Dwight Clark showed us how to live" rel="bookmark">Murph: Even in death, Dwight Clark showed us how to live</a></h2></header></article><!-- #post-752247 -->
 
 </div><!-- .entry-row -->
 
@@ -1004,7 +1003,7 @@ document.write ("<fb:comments href='"+location.href+"'num_posts='20' width='100%
 
 <div class="entry-row">
 
-<article id="post-738839" class="post-738839 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-promo-reel category-sanfrancisco49ers category-trending-on-knbr tag-49ers tag-c-j-beathard tag-daniel-kilgore tag-jimmy-garoppolo tag-joe-staley author-kevinlynch alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/08/fellow-southerner-sometimes-had-to-translate-c-j-beathards-play-calls-in-the-huddle/" title="Fellow Southerner sometimes had to translate C.J. Beathard’s play calls in the huddle" rel="bookmark">Fellow Southerner sometimes had to translate C.J. Beathard’s play calls in the huddle</a></h2></header></article><!-- #post-738839 --><article id="post-738833" class="post-738833 post type-post status-publish format-standard has-post-thumbnail hentry category-promo-left category-sanfranciscogiants category-trending-on-knbr tag-alex-bostic tag-alex-bostic-suspension tag-drew-bostic tag-drew-bostic-50-games tag-drew-bostic-steroids tag-drew-bostic-suspension author-staffreport custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/08/giants-minor-league-pitcher-suspended-50-games-for-using-banned-stimulant/" title="Giants Minor League pitcher suspended 50 games for using banned stimulant" rel="bookmark">Giants Minor League pitcher suspended 50 games for using banned stimulant</a></h2></header></article><!-- #post-738833 -->
+<article id="post-752215" class="post-752215 post type-post status-publish format-standard has-post-thumbnail hentry category-featured-podcast category-news category-promo-middle category-promo-reel category-sanfranciscogiants category-trending-on-knbr tag-duane-kuiper tag-madison-bumgarner tag-mlb tag-murph-mac tag-podcast tag-san-francisco-giants author-sbarasch alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/05/kuiper-shares-joke-bumgarner-made-about-giants-draft-pick-replacing-posey/" title="Kuiper shares joke Bumgarner made about Giants draft pick replacing Posey" rel="bookmark">Kuiper shares joke Bumgarner made about Giants draft pick replacing Posey</a></h2></header></article><!-- #post-752215 --><article id="post-752190" class="post-752190 post type-post status-publish format-standard has-post-thumbnail hentry category-giants-videos category-promo-right category-sanfranciscogiants category-trending-on-knbr category-video tag-andrew-mccutchen tag-giants-2 tag-home-run tag-homer tag-pablo-sandoval tag-rally tag-san-francisco-giants tag-seven-run tag-woke-up author-ryanmcgeary custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/04/sandoval-says-mccutchen-homer-woke-giants-up-in-seven-sun-rally/" title="Sandoval says McCutchen homer woke Giants up in seven-run rally" rel="bookmark">Sandoval says McCutchen homer woke Giants up in seven-run rally</a></h2></header></article><!-- #post-752190 -->
 
 </div><!-- .entry-row -->
 
@@ -1028,7 +1027,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-0');
 
 <div class="entry-row">
 
-<article id="post-738835" class="post-738835 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-promo-reel category-sanfranciscogiants category-top-headlines tag-domingo-santana tag-giancarlo-stanton tag-jay-bruce tag-san-francisco-giants author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/08/giants-interested-in-brewers-mets-rightfielders-if-they-cant-acquire-stanton-report/" title="Giants interested in Brewers, Mets rightfielders if they can’t acquire Stanton [report]" rel="bookmark">Giants interested in Brewers, Mets rightfielders if they can’t acquire Stanton [report]</a></h2></header></article><!-- #post-738835 --><article id="post-738801" class="post-738801 post type-post status-publish format-standard has-post-thumbnail hentry category-warriors-news category-promo-reel category-top-headlines tag-demarcus-cousins tag-golden-state-warriors tag-kevin-durant tag-new-orleans-pelicans author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/08/demarcus-cousins-was-searching-for-kevin-durant-shortly-after-both-were-ejected-monday/" title="DeMarcus Cousins ‘was searching’ for Kevin Durant shortly after both were ejected Monday" rel="bookmark">DeMarcus Cousins ‘was searching’ for Kevin Durant shortly after both were ejected Monday</a></h2></header></article><!-- #post-738801 -->
+<article id="post-752772" class="post-752772 post type-post status-publish format-standard has-post-thumbnail hentry category-warriors-news category-promo-reel category-top-headlines tag-david-west tag-downplays tag-golden-state-warriors tag-issues tag-steve-kerr author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/kerr-downplays-david-wests-comments-about-warriors-issues-behind-the-scenes/" title="Kerr downplays David West’s comments about Warriors’ issues behind the scenes" rel="bookmark">Kerr downplays David West’s comments about Warriors’ issues behind the scenes</a></h2></header></article><!-- #post-752772 --><article id="post-752771" class="post-752771 post type-post status-publish format-standard has-post-thumbnail hentry category-warriors-news category-promo-reel category-top-headlines tag-bob-myers tag-durant tag-kd tag-kevin-durant tag-warriors author-staffreport custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/bob-myers-on-structuring-kevin-durants-new-contract-whatever-he-wants/" title="Bob Myers on structuring Kevin Durant’s new contract: ‘Whatever he wants’" rel="bookmark">Bob Myers on structuring Kevin Durant’s new contract: ‘Whatever he wants’</a></h2></header></article><!-- #post-752771 -->
 
 </div><!-- .entry-row -->
 
@@ -1036,7 +1035,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-0');
 
 <div class="entry-row">
 
-<article id="post-738676" class="post-738676 post type-post status-publish format-standard has-post-thumbnail hentry category-hotcorner category-news category-promo-reel category-sanfranciscogiants category-top-headlines tag-giancarlo-stanton tag-miami-marlins tag-san-francisco-giants tag-st-louis-cardinals author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/08/giancarlo-stanton-does-not-want-to-play-for-giants-cardinals-report/" title="Giancarlo Stanton does not want to be traded to Giants, Cardinals [report]" rel="bookmark">Giancarlo Stanton does not want to be traded to Giants, Cardinals [report]</a></h2></header></article><!-- #post-738676 --><article id="post-738371" class="post-738371 post type-post status-publish format-standard has-post-thumbnail hentry category-sanfrancisco49ers category-top-headlines tag-chicago-bears tag-nfl tag-robbie-gould tag-san-francisco-49ers author-staffreport custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/04/robbie-gould-thanked-bears-front-office-for-his-release-after-sundays-game/" title="Robbie Gould thanked Bears front office for his release after Sunday’s game" rel="bookmark">Robbie Gould thanked Bears front office for his release after Sunday’s game</a></h2></header></article><!-- #post-738371 -->
+<article id="post-752764" class="post-752764 post type-post status-publish format-standard has-post-thumbnail hentry category-warriors-news category-promo-reel category-top-headlines author-mediarelations alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/everything-you-need-to-know-for-tuesdays-warriors-championship-parade/" title="Everything you need to know for Tuesday’s Warriors Championship Parade" rel="bookmark">Everything you need to know for Tuesday’s Warriors Championship Parade</a></h2></header></article><!-- #post-752764 --><article id="post-752737" class="post-752737 post type-post status-publish format-standard has-post-thumbnail hentry category-promo-reel category-sanfranciscogiants category-top-headlines tag-brandon-crawford tag-buster-posey tag-san-francisco-giants author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/two-giants-leading-their-positions-in-nl-all-star-voting/" title="Two Giants leading their positions in NL All-Star voting" rel="bookmark">Two Giants leading their positions in NL All-Star voting</a></h2></header></article><!-- #post-752737 -->
 
 </div><!-- .entry-row -->
 
@@ -1044,7 +1043,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-0');
 
 <div class="entry-row">
 
-<article id="post-738355" class="post-738355 post type-post status-publish format-standard has-post-thumbnail hentry category-warriors-news category-news category-top-headlines tag-golden-state-warriors tag-shaun-livingston author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/04/livingston-and-referee-both-suspended-for-head-butting-incident-sunday/" title="Livingston and referee both suspended for head-butting incident Sunday" rel="bookmark">Livingston and referee both suspended for head-butting incident Sunday</a></h2></header></article><!-- #post-738355 --><article id="post-738210" class="post-738210 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-promo-reel category-sanfrancisco49ers category-top-headlines tag-tank-carradine author-kevinlynch custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/03/tackle-trent-brown-will-play-in-chicago-defensive-end-tank-carradine-will-not/" title="Tackle Trent Brown will play in Chicago, defensive end Tank Carradine will not" rel="bookmark">Tackle Trent Brown will play in Chicago, defensive end Tank Carradine will not</a></h2></header></article><!-- #post-738210 -->
+<article id="post-752700" class="post-752700 post type-post status-publish format-standard has-post-thumbnail hentry category-warriors-news category-promo-reel category-top-headlines tag-china-klay tag-klay tag-klay-thompson tag-zaza tag-zaza-pachulia author-almquist alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/zaza-on-special-friendship-with-klay-i-feel-like-he-is-my-family-member/" title="Zaza on special friendship with Klay: ‘I feel like he is my family member’" rel="bookmark">Zaza on special friendship with Klay: ‘I feel like he is my family member’</a></h2></header></article><!-- #post-752700 --><article id="post-752699" class="post-752699 post type-post status-publish format-standard has-post-thumbnail hentry category-warriors-news category-promo-reel category-top-headlines tag-chris-haynes tag-golden-state-warriors tag-kevin-durant tag-nba tag-retirement tag-retiring author-staffreport custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/kevin-durant-says-he-can-see-himself-retiring-in-five-years/" title="Kevin Durant says he can see himself retiring in five years" rel="bookmark">Kevin Durant says he can see himself retiring in five years</a></h2></header></article><!-- #post-752699 -->
 
 </div><!-- .entry-row -->
 
@@ -1052,7 +1051,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-0');
 
 <div class="entry-row">
 
-<article id="post-738107" class="post-738107 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-promo-left category-sanfrancisco49ers category-top-headlines tag-eric-reid tag-san-francisco-49ers tag-slate author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/01/eric-reid-calls-nfls-social-justice-donation-a-charade-says-malcolm-jenkins-misled-him/" title="Eric Reid calls NFL’s social justice donation a ‘charade,’ says Malcolm Jenkins ‘misled’ him" rel="bookmark">Eric Reid calls NFL’s social justice donation a ‘charade,’ says Malcolm Jenkins ‘misled’ him</a></h2></header></article><!-- #post-738107 --><article id="post-738101" class="post-738101 post type-post status-publish format-standard has-post-thumbnail hentry category-warriors-news category-news category-top-headlines tag-golden-state-warriors tag-stephen-curry tag-steve-kerr author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/01/kerr-currys-finger-injury-is-going-to-linger-for-a-little-while/" title="Kerr: Curry’s finger injury is going to ‘linger for a little while’" rel="bookmark">Kerr: Curry’s finger injury is going to ‘linger for a little while’</a></h2></header></article><!-- #post-738101 -->
+<article id="post-752687" class="post-752687 post type-post status-publish format-standard has-post-thumbnail hentry category-promo-reel category-sanfranciscogiants category-top-headlines tag-brandon-crawford tag-derek-holland tag-max-scherzer tag-san-francisco-giants tag-washington-nationals author-associatedpress alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/10/crawford-homers-as-giants-beat-scherzer-nationals/" title="Crawford homers as Giants beat Scherzer, Nationals" rel="bookmark">Crawford homers as Giants beat Scherzer, Nationals</a></h2></header></article><!-- #post-752687 --><article id="post-752682" class="post-752682 post type-post status-publish format-standard has-post-thumbnail hentry category-warriors-news category-promo-reel category-top-headlines tag-draymond-green tag-extension tag-golden-state-warriors tag-joe-lacob tag-klay-thompson author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/10/warriors-to-try-to-sign-green-thompson-to-extensions-this-summer/" title="Warriors to try to sign Green, Thompson to extensions this summer" rel="bookmark">Warriors to try to sign Green, Thompson to extensions this summer</a></h2></header></article><!-- #post-752682 -->
 
 </div><!-- .entry-row -->
 
@@ -1060,7 +1059,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-0');
 
 <div class="entry-row">
 
-<article id="post-738045" class="post-738045 post type-post status-publish format-standard has-post-thumbnail hentry category-hotcorner category-news category-sanfranciscogiants category-top-headlines tag-giancarlo-stanton tag-miami-marlins tag-san-francisco-giants author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/11/30/marlins-optimistic-that-stanton-would-accept-trade-to-giants-report/" title="Marlins optimistic that Stanton would accept trade to Giants [report]" rel="bookmark">Marlins optimistic that Stanton would accept trade to Giants [report]</a></h2></header></article><!-- #post-738045 --><article id="post-738041" class="post-738041 post type-post status-publish format-standard has-post-thumbnail hentry category-hotcornerfeatured category-promo-reel category-sanfranciscogiants category-top-headlines tag-giancarlo-stanton tag-miami-marlins tag-san-francisco-giants author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/11/30/marlins-likely-to-accept-giants-offer-for-stanton-if-sf-willing-to-pay-at-least-250-million-of-his-contract-report/" title="Marlins likely to accept Giants’ offer for Stanton if SF willing to pay at least $250 million of his contract [report]" rel="bookmark">Marlins likely to accept Giants’ offer for Stanton if SF willing to pay at least $250 million of his contract [report]</a></h2></header></article><!-- #post-738041 -->
+<article id="post-752654" class="post-752654 post type-post status-publish format-standard has-post-thumbnail hentry category-sanfranciscogiants category-top-headlines author-associatedpress alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/09/rodriguez-allows-five-runs-as-nationals-hold-off-giants/" title="Rodriguez allows five runs as Nationals hold off Giants" rel="bookmark">Rodriguez allows five runs as Nationals hold off Giants</a></h2></header></article><!-- #post-752654 --><article id="post-752636" class="post-752636 post type-post status-publish format-standard has-post-thumbnail hentry category-warriors-news category-promo-reel category-top-headlines tag-cleveland-cavaliers tag-golden-state-warriors tag-kevin-durant tag-lebron-james tag-stephen-curry author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/08/lebron-sustained-significant-right-hand-injury-from-punching-blackboard-after-game-1/" title="LeBron sustained significant right hand injury from punching blackboard after Game 1" rel="bookmark">LeBron sustained significant right hand injury from punching blackboard after Game 1</a></h2></header></article><!-- #post-752636 -->
 
 </div><!-- .entry-row -->
 
@@ -1084,7 +1083,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-19')
 
 <div class="entry-row">
 
-<article id="post-738146" class="post-738146 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/01/spain-portugal-drawn-into-same-group-at-world-cup/" title="Spain, Portugal drawn into same group at World Cup" rel="bookmark">Spain, Portugal drawn into same group at World Cup</a></h2></header></article><!-- #post-738146 --><article id="post-738143" class="post-738143 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/01/injured-packers-qb-aaron-rodgers-returning-to-practice/" title="Injured Packers QB Aaron Rodgers returning to practice" rel="bookmark">Injured Packers QB Aaron Rodgers returning to practice</a></h2></header></article><!-- #post-738143 -->
+<article id="post-752733" class="post-752733 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/ap-sources-pistons-dwane-casey-agree-to-5-year-deal/" title="AP sources: Pistons, Dwane Casey agree to 5-year deal" rel="bookmark">AP sources: Pistons, Dwane Casey agree to 5-year deal</a></h2></header></article><!-- #post-752733 --><article id="post-752730" class="post-752730 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/mets-release-1b-adrian-gonzalez-will-call-up-dominic-smith/" title="Mets release 1B Adrian Gonzalez, will call up Dominic Smith" rel="bookmark">Mets release 1B Adrian Gonzalez, will call up Dominic Smith</a></h2></header></article><!-- #post-752730 -->
 
 </div><!-- .entry-row -->
 
@@ -1092,7 +1091,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-19')
 
 <div class="entry-row">
 
-<article id="post-738140" class="post-738140 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/01/tennessee-plans-news-conference-amid-tumultuous-search/" title="Tennessee plans news conference amid tumultuous search" rel="bookmark">Tennessee plans news conference amid tumultuous search</a></h2></header></article><!-- #post-738140 --><article id="post-738138" class="post-738138 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/01/nfl-suspends-panthers-de-johnson-4-games-under-drug-policy/" title="NFL suspends Panthers DE Johnson 4 games under drug policy" rel="bookmark">NFL suspends Panthers DE Johnson 4 games under drug policy</a></h2></header></article><!-- #post-738138 -->
+<article id="post-752727" class="post-752727 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/earl-thomas-says-hes-skipping-seahawks-mandatory-minicamp/" title="Earl Thomas says he’s skipping Seahawks mandatory minicamp" rel="bookmark">Earl Thomas says he’s skipping Seahawks mandatory minicamp</a></h2></header></article><!-- #post-752727 --><article id="post-752726" class="post-752726 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/this-one-goes-to-11-nadal-beats-thiem-for-french-open-title/" title="This one goes to 11: Nadal beats Thiem for French Open title" rel="bookmark">This one goes to 11: Nadal beats Thiem for French Open title</a></h2></header></article><!-- #post-752726 -->
 
 </div><!-- .entry-row -->
 
@@ -1100,7 +1099,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-19')
 
 <div class="entry-row">
 
-<article id="post-738136" class="post-738136 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/01/cashman-says-manager-will-come-from-among-6-interviewed/" title="Cashman says manager will come from among 6 interviewed" rel="bookmark">Cashman says manager will come from among 6 interviewed</a></h2></header></article><!-- #post-738136 --><article id="post-738134" class="post-738134 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/01/mlb-approves-japan-deal-allowing-ohtani-bidding-to-start/" title="MLB approves Japan deal, allowing Ohtani bidding to start" rel="bookmark">MLB approves Japan deal, allowing Ohtani bidding to start</a></h2></header></article><!-- #post-738134 -->
+<article id="post-752724" class="post-752724 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/dustin-johnson-reclaims-worlds-top-spot-with-st-jude-win/" title="Dustin Johnson reclaims world’s top spot with St. Jude win" rel="bookmark">Dustin Johnson reclaims world’s top spot with St. Jude win</a></h2></header></article><!-- #post-752724 --><article id="post-752722" class="post-752722 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/indians-kluber-continues-dominance-of-tigers-al-central/" title="Indians’ Kluber continues dominance of Tigers, AL Central" rel="bookmark">Indians’ Kluber continues dominance of Tigers, AL Central</a></h2></header></article><!-- #post-752722 -->
 
 </div><!-- .entry-row -->
 
@@ -1108,7 +1107,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-19')
 
 <div class="entry-row">
 
-<article id="post-738132" class="post-738132 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/01/ole-miss-gets-2-year-bowl-ban-other-penalties-in-ncaa-case/" title="Ole Miss gets 2-year bowl ban, other penalties in NCAA case" rel="bookmark">Ole Miss gets 2-year bowl ban, other penalties in NCAA case</a></h2></header></article><!-- #post-738132 --><article id="post-738130" class="post-738130 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/01/ap-source-florida-st-expects-fisher-to-leave-for-texas-am/" title="AP Source: Florida St. expects Fisher to leave for Texas A&amp;M" rel="bookmark">AP Source: Florida St. expects Fisher to leave for Texas A&amp;M</a></h2></header></article><!-- #post-738130 -->
+<article id="post-752719" class="post-752719 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/blue-jays-prospect-guerrero-jr-to-miss-at-least-4-weeks/" title="Blue Jays prospect Guerrero Jr. to miss at least 4 weeks" rel="bookmark">Blue Jays prospect Guerrero Jr. to miss at least 4 weeks</a></h2></header></article><!-- #post-752719 --><article id="post-752717" class="post-752717 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/clint-bowyer-wins-rain-shortened-race-at-michigan/" title="Clint Bowyer wins rain-shortened race at Michigan" rel="bookmark">Clint Bowyer wins rain-shortened race at Michigan</a></h2></header></article><!-- #post-752717 -->
 
 </div><!-- .entry-row -->
 
@@ -1116,7 +1115,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-19')
 
 <div class="entry-row">
 
-<article id="post-738128" class="post-738128 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/01/no-3-michigan-state-beats-no-5-notre-dame-81-63/" title="No. 3 Michigan State beats No. 5 Notre Dame 81-63" rel="bookmark">No. 3 Michigan State beats No. 5 Notre Dame 81-63</a></h2></header></article><!-- #post-738128 --><article id="post-738126" class="post-738126 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2017/12/01/pitino-sues-university-of-louisville-athletic-association/" title="Pitino sues University of Louisville Athletic Association" rel="bookmark">Pitino sues University of Louisville Athletic Association</a></h2></header></article><!-- #post-738126 -->
+<article id="post-752715" class="post-752715 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/11/richard-takes-no-hit-try-into-7th-padres-beat-marlins-3-1/" title="Richard takes no-hit try into 7th, Padres beat Marlins 3-1" rel="bookmark">Richard takes no-hit try into 7th, Padres beat Marlins 3-1</a></h2></header></article><!-- #post-752715 --><article id="post-752565" class="post-752565 post type-post status-publish format-standard hentry category-national-sports-news author-jakemontero custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.knbr.com/2018/06/08/warriors-in-position-to-close-out-cavs-with-3-0-lead/" title="Warriors in position to close out Cavs with 3-0 lead" rel="bookmark">Warriors in position to close out Cavs with 3-0 lead</a></h2></header></article><!-- #post-752565 -->
 
 </div><!-- .entry-row -->
 
@@ -1163,7 +1162,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-2');
 
 <section class="row row-2">
 
-<section class="column column-1 grid-left-0 grid-width-7">
+<section class="column column-1 grid-left-0 grid-width-5">
 <footer id="block-52" class="copyright block block-type-footer block-fluid-height" data-alias="Copyright" itemscope="" itemtype="http://schema.org/WPFooter">
 <div class="block-content">
 
@@ -1179,7 +1178,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-2');
 
 </section><!-- .column -->
 
-<section class="column column-2 grid-left-0 grid-width-17">
+<section class="column column-2 grid-left-0 grid-width-19">
 <nav id="block-50" class="footer-nav block block-type-navigation block-fluid-height" data-alias="Footer Navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
 <div class="block-content">
 <div class="nav-horizontal nav-align-right"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-251172" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-251172"><a href="/1111/11/11/privacy-policy">Privacy Policy</a></li>
@@ -1208,33 +1207,31 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-2');
 <script>_AMP.theme.init();</script>
 <link rel="stylesheet" id="media_library_assistant-plugin-styles-css" href="http://www.knbr.com/wp-content/plugins/media-library-assistant/includes/../css/prettyPhoto.css?ver=1.61" type="text/css" media="all">
 <link rel="stylesheet" id="media_library_assistant-widget-styles-css" href="http://www.knbr.com/wp-content/plugins/media-library-assistant/includes/../css/widget.css?ver=1.61" type="text/css" media="all">
-<link rel="stylesheet" id="amp-polls-plugin-styles-css" href="http://www.knbr.com/wp-content/plugins/amp-polls/css/widget.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="amp-polls-plugin-styles-css" href="http://www.knbr.com/wp-content/plugins/amp-polls/css/widget.css?ver=4.9.1" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
-var themify_vars = {"version":"1.9.6","url":"http:\/\/www.knbr.com\/wp-content\/plugins\/themify-builder\/themify","TB":"1","map_key":null,"includesURL":"http:\/\/www.knbr.com\/wp-includes\/","isCached":null};
-var tbLocalScript = {"isAnimationActive":"1","isParallaxActive":"1","isParallaxScrollActive":"1","animationInviewSelectors":[".module.wow",".themify_builder_content .themify_builder_row.wow",".module_row.wow",".builder-posts-wrap > .post.wow",".fly-in > .post",".fly-in .row_inner > .tb-column",".fade-in > .post",".fade-in .row_inner > .tb-column",".slide-up > .post",".slide-up .row_inner > .tb-column"],"createAnimationSelectors":[],"backgroundSlider":{"autoplay":5000,"speed":2000},"animationOffset":"100","videoPoster":"http:\/\/www.knbr.com\/wp-content\/plugins\/themify-builder\/img\/blank.png","backgroundVideoLoop":"yes","builder_url":"http:\/\/www.knbr.com\/wp-content\/plugins\/themify-builder","framework_url":"http:\/\/www.knbr.com\/wp-content\/plugins\/themify-builder\/themify","version":"1.9.6","fullwidth_support":"","fullwidth_container":"body","loadScrollHighlight":"1"};
-var themifyScript = {"lightbox":{"lightboxSelector":".themify_lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":"","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":"","gallerySelector":".gallery-icon > a[href$=jpg],.gallery-icon > a[href$=gif],.gallery-icon > a[href$=png],.gallery-icon > a[href$=JPG],.gallery-icon > a[href$=GIF],.gallery-icon > a[href$=PNG],.gallery-icon > a[href$=jpeg],.gallery-icon > a[href$=JPEG]","lightboxGalleryOn":true},"lightboxContext":"body"};
+var themify_vars = {"version":"2.1.8","url":"http:\/\/www.knbr.com\/wp-content\/plugins\/themify-builder\/themify","map_key":null,"includesURL":"http:\/\/www.knbr.com\/wp-includes\/","isCached":null,"minify":{"css":{"themify-icons":false,"themify.framework":false,"lightbox":false,"themify-builder-style":false},"js":{"backstretch.themify-version":false,"bigvideo":false,"themify.dropdown":false,"themify.builder.script":false,"themify.scroll-highlight":false,"themify-youtube-bg":false,"themify.parallaxit":false,"themify.ticks":false}}};
+var tbLocalScript = {"isAnimationActive":"1","isParallaxActive":"1","isParallaxScrollActive":"1","animationInviewSelectors":[".module.wow",".module_row.wow",".builder-posts-wrap > .post.wow"],"backgroundSlider":{"autoplay":5000,"speed":2000},"animationOffset":"100","videoPoster":"http:\/\/www.knbr.com\/wp-content\/plugins\/themify-builder\/img\/blank.png","backgroundVideoLoop":"yes","builder_url":"http:\/\/www.knbr.com\/wp-content\/plugins\/themify-builder","framework_url":"http:\/\/www.knbr.com\/wp-content\/plugins\/themify-builder\/themify","version":"2.1.8","fullwidth_support":"","fullwidth_container":"body","loadScrollHighlight":"","addons":[],"breakpoints":{"tablet_landscape":[769,1024],"tablet":[681,768],"mobile":680},"ticks":{"tick":30,"ajaxurl":"http:\/\/www.knbr.com\/wp-admin\/admin-ajax.php","postID":250158}};
+var themifyScript = {"lightbox":{"lightboxSelector":".themify_lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":"","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":"","gallerySelector":".gallery-icon > a","lightboxGalleryOn":true},"lightboxContext":"body"};
 var tbScrollHighlight = {"fixedHeaderSelector":"","speed":"900","navigation":"#main-nav","scrollOffset":"0"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/themify-builder/themify/js/main.js?ver=1.9.6"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/themify-builder/themify/js/main.js?ver=2.1.8"></script>
+<script type="text/javascript">
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type="text/javascript" src="http://www.knbr.com/wp-includes/js/mediaelement/mediaelement-and-player.js?ver=4.2.6-78496d1"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-includes/js/mediaelement/mediaelement-migrate.js?ver=4.9.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
-var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.knbr.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.9.1"></script>
 <script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/media-library-assistant/includes/../js/jquery.prettyPhoto.js?ver=1.61"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/media-library-assistant/includes/../js/widget-front-end.js?ver=1512399620"></script>
-<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-polls/js/widget-front-end.js?ver=4.7.3"></script>
-		<script type="text/javascript">
-			if ('object' === typeof tbLocalScript) {
-				tbLocalScript.transitionSelectors = ".js.csstransitions .module.wow, .js.csstransitions .themify_builder_content .themify_builder_row.wow, .js.csstransitions .module_row.wow, .js.csstransitions .builder-posts-wrap > .post.wow, .js.csstransitions .fly-in > .post, .js.csstransitions .fly-in .row_inner > .tb-column, .js.csstransitions .fade-in > .post, .js.csstransitions .fade-in .row_inner > .tb-column, .js.csstransitions .slide-up > .post, .js.csstransitions .slide-up .row_inner > .tb-column";
-			}
-		</script>
-		
+<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/media-library-assistant/includes/../js/widget-front-end.js?ver=1526522683"></script>
+<script type="text/javascript" src="http://www.knbr.com/wp-content/plugins/amp-polls/js/widget-front-end.js?ver=4.9.1"></script>
+
 
 </div><!-- #whitewrap -->
 
@@ -1259,35 +1256,15 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
 <!-- End Shout To Me -->
 
 
-<script type="text/javascript">
-  var qtyTotal = 0;
-        var priceTotal = 0;
-    
-        function updateForm() {
-            var product = document.getElementById("product").value;
-            
-            var qty = document.getElementById("quantity").value;
-            qtyTotal = qtyTotal + parseInt(qty);
-            document.getElementById("qtyTotals").innerHTML=qtyTotal;
-            
-            var price = document.getElementById("price").value;    
-            priceTotal = priceTotal + parseInt(price);
-            document.getElementById("priceTotals").innerHTML=priceTotal;
-
-            var table=document.getElementById("results");
-            var row=table.insertRow(-1);
-</script>
-
-
 
 
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 5218/5524 objects using memcache
+Object Caching 4915/5189 objects using memcache
 Page Caching using memcache
-Database Caching 188/202 queries in 0.421 seconds using memcache
+Database Caching 181/195 queries in 0.446 seconds using memcache
 
-Served from: www.1460wrad.com @ 2017-12-10 13:35:46 by W3 Total Cache
+Served from: www.1460wrad.com @ 2018-06-11 16:51:42 by W3 Total Cache
 --></body></html>
