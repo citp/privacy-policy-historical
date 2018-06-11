@@ -1,94 +1,90 @@
-> *The following text is extracted and transformed from the eschooldata.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150759id_/http%3A//www.eschooldata.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eschooldata.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611103028id_/https%3A//ioeducation.com/our-commitment/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - eSchoolData
+# Privacy Policy - IO Education
 
-There are two sections in this Privacy Statement, the first governing access to and use of this website, the second governing use of eSchoolData, LLC’s products.
+## Privacy Policy
 
-## Website Use
+Effective September 29, 2016  
+ [Download Privacy Policy](http://s23713.pcdn.co/wp-content/uploads/IO-PP-General-Website-1.pdf)
 
-eSchoolData is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the eSchoolData Web site and governs data collection and usage. By using the eSchoolData website, you consent to the data practices described in this statement.
+#### **IO Education is committed to your Privacy.**
 
-**Collection of your Personal Information  
-**eSchoolData collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. eSchoolData also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+IO Education, LLC (“IO Education,” “we,” or “us”) understands that privacy is tremendously important to our online visitors to our website. We hope the following will help you understand how we collect, use and safeguard the personal information provided to us on our website, [www.ioeducation.com](http://ioeducation.com/), and associated webpages (the “Site”), by users of and visitors to the Site. This Privacy Policy (the “Policy”) is part of our website Terms of Use, <https://ioeducation.com/terms-of-use/>, (together with this Policy, collectively, the “Terms”).  By using the Site, you acknowledge that you have read and agree to this Policy.  If you do not agree with this Policy, you may not use the Site.
 
-There is also information about your computer hardware and software that is automatically collected by eSchoolData. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by eSchoolData for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the eSchoolData Web site.
+This Privacy Policy does not apply to IO Education’s online software services or applications or other web-based products and services (collectively, the “Services”); separate privacy terms apply to the Services and the data provided by our clients that is stored in our Services.  If you have questions about the privacy terms applicable to our Services, which is available here <https://ioeducation.com/platform-privacy-policy/>, please contact us at [privacy@ioeducation.com](mailto:privacy@ioeducation.com).  You may also contact our Privacy Officer, Peter Bencivenga, at [pbencivenga@ioeducation.com](mailto:pbencivenga@ioeducation.com) or 866-817-0726.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through eSchoolData public message boards, this information may be collected and used by others. Note: eSchoolData does not read any of your private online communications.
+**A Special Note for International Visitors to our Site:**   Much of our computer systems are currently based in the United States, so your personally identifiable information will be processed by us in the United States, where data protection and privacy regulations may be different than other parts of the world, such as the European Union.  If you visit the Site as a visitor from outside the United States, you are agreeing to the terms of this Policy and our Terms, and you will have consented to the transfer and processing of all such information in the United States, which may not offer an equivalent level of protection of that in the European Union or certain other countries.
 
-eSchoolData encourages you to review the privacy statements of Web sites you choose to link to from eSchoolData so that you can understand how those Web sites collect, use and share your information. eSchoolData is not responsible for the privacy statements or other content on Web sites outside of the eSchoolData and eSchoolData family of Web sites.
+#### **Table of Contents**
 
-**Use of your Personal Information  
-**eSchoolData collects and uses your personal information to operate the eSchoolData Web site and deliver the services you have requested. eSchoolData also uses your personally identifiable information to inform you of other products or services available from eSchoolData and its affiliates. eSchoolData may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+  1. How We Collect and Use Information
+  2. How We Share Information
+  3. How We Protect Your Information
+  4. Choices About Your Information
+  5. Children’s Privacy
+  6. Links to Other Websites and Services
+  7. How to Contact Us
+  8. Changes to Our Privacy Policy
 
-eSchoolData does not sell, rent or lease its customer lists to third parties. eSchoolData may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, eSchoolData may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to eSchoolData, and they are required to maintain the confidentiality of your information.
 
-eSchoolData does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-eSchoolData keeps track of the Web sites and pages our customers visit within eSchoolData, in order to determine what eSchoolData services are the most popular. This data is used to deliver customized content and advertising within eSchoolData to customers whose behavior indicates that they are interested in a particular subject area.
+### 1\. HOW WE COLLECT AND USE INFORMATION
 
-eSchoolData Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on eSchoolData or the site; (b) protect and defend the rights or property of eSchoolData; and, (c) act under exigent circumstances to protect the personal safety of users of eSchoolData, or the public.
+We collect the following types of information:
 
-**Use of Cookies  
-**The eSchoolData Web site use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+**Information about Site Users** : We ask for certain information when Site user submits a request for further information about the Services, which may include a name, school name, school district name, email address, phone number, and/or message content. We use this information to communicate with our website visitors and, if a Site user subscribes to the Services, we may also use this information to operate, maintain, and provide to the features and functionality of the Services and to monitor our service offerings and functionality.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize eSchoolData pages, or register with eSchoolData site or services, a cookie helps eSchoolData to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same eSchoolData Web site, the information you previously provided can be retrieved, so you can easily use the eSchoolData features that you customized.
+We may also use this information we collect from Site users to periodically send information that we think our website visitors might find of interest from IO Education or its affiliates such as new services or special offers. You always have the option to opt out of our internal marketing communications by contacting us at [unsubscribe@ioeducation.com](mailto:unsubscribe@ioeducation.com) or by following the opt-out procedure outlined in such communications.  Please note that opting out of receiving these communications will not remove your personal information from our files and we will still contact you as necessary to provide the Services (or information about our Services) at your request.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the eSchoolData services or Web sites you visit.
+**Information Collected through Technology** : We automatically collect certain types of usage information when visitors view the Site. We may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets IO Education enhance your navigation through the site. A cookie may also convey information to us about how you use the Site (e.g., the pages you view, the links you click and other actions you take on the Site), and allow us to track your usage of the Site over time. We may collect log file information from your browser or mobile device each time you access the Site. Log file information may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, information about your mobile device, number of clicks and how you interact with links on the Site, pages viewed, and other such information. We may employ clear gifs (also known as web beacons), which are used to anonymously track the online usage patterns of our website visitors. In addition, we may also use clear gifs in HTML-based emails sent to Site visitors who have provided their contact information to us as described above to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Site. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Site. We do not allow third party advertising networks to collect information about the users of our Site.
 
-**Security of your Personal Information  
-**eSchoolData secures your personal information from unauthorized access, use or disclosure. eSchoolData secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+We use or may use the data collected through cookies, log files, device identifiers, and clear gifs information to: (a) remember information so that a user will not have to re-enter it during subsequent visits; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Site; (d) monitor aggregate metrics such as total number of visitors, traffic, and usage on our website and our Site; (e) diagnose or fix technology problems; and (f) help users efficiently access information.
 
-**Changes to this Statement  
-**eSchoolData will occasionally update this Statement of Privacy to reflect company and customer feedback. eSchoolData encourages you to periodically review this Statement to be informed of how eSchoolData is protecting your information.
+### 2\. HOW WE SHARE INFORMATION
 
-**Contact Information  
-**eSchoolData welcomes your comments regarding this Statement of Privacy. If you believe that eSchoolData has not adhered to this Statement, please contact eSchoolData at [webmaster@eschooldata.com](mailto:webmaster@eschooldata.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+IO Education only shares personal information in a few limited circumstances, described below. We do not rent or sell information for marketing purposes.
 
-## Product Use
+  * We may share information with certain third-party providers whose software or services interface with or otherwise may receive information from, or provide information to, the Site.
+  * We may share information with those that provide us with technology services (e.g. web hosting and analytics services), but strictly for the purpose of carrying out their work for us.
+  * We may be required to share information with law enforcement or other third parties when compelled to do so by court order or other legal process, to comply with statutes or regulations, to enforce our Terms of Use or other service agreements, or if we believe in good faith that the disclosure is necessary to protect the rights, property or personal safety of our users.
+  * If we sell, divest or transfer the business or a portion of our business, we may transfer information, provided that the new provider has agreed to data privacy standards no less stringent than our own. We may also transfer personal information – under the same conditions – in the course of mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of our business.
 
-### **FERPA Compliance, Data Security and Privacy Policy**
 
-**Background**  
-eSchoolData has developed proprietary software products which are licensed to local educational agencies, (LEAs), Regional Information Centers (RICs) and Intermediate Units (IUs).
 
-**Data Ownership and Rights**  
-eSchoolData has access to personally identifiable data (PII) for the sole purpose of supporting its product offerings consistent with Family Educational Rights and Privacy Act (FERPA) regulations, 34 CFR §99.31(a)(1)(i)(B). eSchoolData acknowledges that it does not own any of the student-related data entered into its products. Data entered into its products remain the property of the licensee. eSchoolData is committed to protection of privacy and security of student, teacher, and principal data, in accordance with FERPA and New York Education Law § 2-d.
+By submitting or posting information, materials or content via the Site, you agree that we can further distribute such content as described in the Terms under “Submissions.”  You agree that you have no expectation of or right to privacy with respect to such Submissions, except for any limits on our ability to use or distribute such content as set forth in the Terms.
 
-**Non-commercial Use**  
-eSchoolData does not collect, maintain, use or share personally identifiable information (PII) for any purpose other than to support its licensed product offering. eSchoolData does not sell or otherwise use PII data for commercial purposes.
+### 3\. HOW WE PROTECT YOUR INFORMATION
 
-**ESD Non-Disclosure Agreements**  
-All employees and contractors of eSchoolData are required to sign a Non-Disclosure Agreement which includes eSchoolData’s FERPA compliance, Data Privacy and Security Policy. Disclosure of protected data is strictly prohibited beyond the term of employment.
+We store our data in the United States and take strong measures to keep data safe and secure.
 
-**Court Ordered and other Requests for Data**  
-In the event eSchoolData is contacted directly by any third party (including the eligible student or parent/guardian of the eligible student) seeking access to education records, eSchoolData will immediately inform the Licensee of such request. eSchoolData shall not provide access to such data or information or respond to such requests unless compelled to do so by court order or lawfully issued subpoena from any court of competent jurisdiction or directed to do so by the Licensee. Should eSchoolData receive a court order or lawfully issued subpoena seeking the release of such data or information, eSchoolData shall provide immediate notification, along with a copy thereof, to the Licensee prior to releasing the requested data or information, unless such notification is prohibited by law or judicial and/or administrative order or subpoena.
+**Storage and Processing:** Any information collected through the Service is stored and processed in the United States. If you use our Service outside of the United States, you consent to have your data transferred to the United States.
 
-**Data Breach  
-**In the event eSchoolData becomes aware of a data breach or inadvertent disclosure of PII, eSchoolData shall take immediate steps to limit and mitigate such security breach to the extent possible. eSchoolData will notify the Licensee, typically within 24 hours of confirmation of the event. eSchoolData will work cooperatively with the licensee in determining an action plan, including any required notification of affected persons.
+**Keeping Your Information Safe:** IO Education maintains administrative, technical and physical procedures to protect information stored in our servers, which are located in the United States. While no service provider can guarantee absolute security when communicating over the internet or wireless networks, we are committed to taking steps to help secure any personal information that may be in our possession.  Access to information is limited (through user/password credentials and two factor authentication) to those employees who require it to perform their job functions. We use industry-standard Secure Socket Layer (SSL) encryption technology to safeguard the account registration process and sign-up information. Other security safeguards include but are not limited to data encryption, firewalls, and physical access controls to building and files.
 
-**Disposal and Destruction of Data upon Contract Termination**  
-Upon contract termination, licensee is responsible for determining the extent to which destruction of eSchoolData archive databases is desired. Due to the nature of the eSchoolData system and licensee’s responsibility to ensure access to historical records, licensee needs adequate time to ensure that migration to a new software system is complete, including historical records. With this in mind, eSchoolData will not automatically dispose of historical databases upon contract termination. Once directed by licensee to return and/or destroy archive databases, eSchoolData shall provide written acknowledgement including the industry-standard destruction method, scope and date(s) of destruction/disposal.
+You should always be mindful and responsible whenever disclosing information online that the information is potentially accessible to the public, and consequently, could be collected and used by others without your consent.
 
-**Data Correction**  
-eSchoolData users (Districts/Schools/Agencies) are responsible for developing policies which allow parents/students to request correction(s) to data which they believe to be inaccurate or misleading. eSchoolData products provide a permission structure which allows authorized users to make changes in accordance with local policies.
+### 4\. CHOICES ABOUT YOUR INFORMATION
 
-**Delivery Models**  
-eSchoolData products use a centralized, Software as a Service (SaaS) delivery model. eSchoolData product offerings are either hosted in a data center located within an eSchoolData facility, or in a data center managed by a Regional Information Center (RICs) and/or an Intermediate Unit (IUs), collectively referred to as Hosting Partners. The data center controls described in this policy document relate to data centers located in eSchoolData facilities.
+**Marketing Communications:** Website visitors can opt-out of receiving promotional email from us by clicking on the “unsubscribe” feature at the bottom of each email. You cannot unsubscribe from Service-related messaging.
 
-It is the responsibility of each Hosting Partner to develop a Data Security and Privacy Policy conforming to Federal requirements and respective state governing laws. Enforcement of Hosting Partners’ Data Security and Privacy policies is the sole responsibility of the Hosting Partner.
+**Deleting or Disabling Cookies:** You may be able to disallow cookies to be set on your browser. Please look for instructions on how to delete or disable cookies and other tracking/recording tools on your browser’s technical settings. You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers. For more information on cookies, visit www.allaboutcookies.org. Remember, disabling cookies may disable some of the features available on the Site, so we recommend you leave cookies enabled.
 
-**eSchoolData Application Layer Security (Access Levels and Password Management)**  
-The eSchoolData system automatically disables access if incorrect user name and passwords are repeatedly entered or whenever malicious activity is suspected. Once disabled, users cannot login to eSchoolData systems until the licensee’s system administrator re-enables the account. (Licensees are responsible for assigning System Administrators. System Administrators are responsible for determining the appropriate data access levels for their respective user base.)
+**How Long We Keep User Content:** We may retain information you submit via the Site for a commercially reasonable time for backup, archival, or audit purposes. We may maintain anonymized or aggregated data, including usage data, for analytics purposes.
 
-The eSchoolData System allows system administrators to disable accounts and/or force password changes on-demand or on a scheduled basis (example: every 90 days, every 120 days, etc.). Additionally, system administrators can force password changes, disable accounts, and monitor activity from a central point. (Licensee’s System Administrators are responsible for managing user accounts and for enforcing password change policies.)
+_If you have any questions about data retention or deletion, please contact_[support@ioeducation.com](mailto:support@ioeducation.com).
 
-**eSchoolData Data Center – Infrastructure Security**  
-eSchoolData employs extensive technological and operational measures to ensure data security. The eSchoolData infrastructure is designed in accordance with industry design standards. Web Servers facing the Internet use SSL Certificates for Authentication and 128-bit Encryption, and are protected from the Internet behind redundant firewalls. The database and document servers are isolated behind another pair of redundant firewalls.
+### 5. CHILDREN’S PRIVACY
 
-**eSchoolData Data Center Physical Security**  
-eSchoolData offices are monitored by a Central Station on a 24/7 basis and are equipped with a video surveillance system. Building access is controlled via key code, and a secondary code is required to access the Data Center.
+As addressed in the federal Children’s Online Privacy Protection Act (COPPA) and associated rules, IO Education does not knowingly collect any information from children under the age of 13 via the Site. BY USING THE SITE, YOU ARE ATTESTING THAT YOU ARE 18 YEARS OF AGE OR OLDER.  We encourage parents and guardians to take an active role in their children’s online activities and interests.  If you are a parent or guardian and you believe that your child has provided personally identifiable information on our Site, please contact us at [support@ioeducation.com](mailto:support@ioeducation.com) so that we can delete the child’s information.
 
-**eSchoolData Data Center Environmental Controls**  
-eSchoolData’s data center is equipped to provide power via dual independent power systems. The UPS can power the entire data center on full load for up to one hour. Each rack has dual power entry points so if one power strip fails, the other will take over. The facility is newly equipped with a Natural Gas Powered Generator that is capable of keeping the entire data center up indefinitely. A Natural Gas option was chosen over Diesel to ensure uninterrupted service even in the coldest months when diesel fuel has a tendency to gel.
+### 6\. LINKS TO OTHER WEB SITES AND SERVICES
 
-_**eSchoolData may update this policy from time to time to remain in compliance with Federal and State laws and regulations.**_
+Please remember that this Policy applies to the IO Education website, and not other websites or third party applications that may be linked via our Site or Services, which may have their own privacy policies. You should carefully read the privacy practices of each third party application before agreeing to engage with the application through the Site or the Services. We assume no responsibility or liability for the privacy practices of any vendor or operator of third party sites or applications.
+
+### 7\. HOW TO CONTACT US
+
+If you have any questions about this Policy, the Site or the Services, please contact us at [support@ioeducation.com](mailto:support@ioeducation.com).
+
+### 8\. CHANGES TO OUR PRIVACY POLICY
+
+We reserve the right to change this Policy at any time by posting revised Policy on the Site or by sending an email to the last email address you gave us, so we encourage you to review this web page periodically. The changes will be effective immediately upon notice or posting, and we will update the effective date of this Policy upon such posting. Your use or continued use of the Site following the posting or email notification (as applicable) of any changes to the Policy will be deemed to be your acceptance of the changed Policy.
