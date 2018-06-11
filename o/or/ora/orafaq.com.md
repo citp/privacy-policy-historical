@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orafaq.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231220302id_/http%3A//www.orafaq.com/wiki/Oracle_FAQ%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orafaq.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611060502id_/http%3A//www.orafaq.com/wiki/Oracle_FAQ%3APrivacy_policy) for the most accurate reproduction.*
 
 # Oracle FAQ:Privacy policy - Oracle FAQ
 
@@ -22,4 +22,4 @@ The [Oracle FAQ](https://web.archive.org/wiki/Oracle_FAQ:About "Oracle FAQ:About
 
 
 
-This policy may change from time to time so please check back periodically. If you have any additional questions, please contact the site's [webmaster](http://ss64.orafaq.org/feedback). 
+This policy may change from time to time so please check back periodically. If you have any additional questions, please contact the site's [webmaster](http://www.pafumi.netwww.orafaq.com/feedback). 
