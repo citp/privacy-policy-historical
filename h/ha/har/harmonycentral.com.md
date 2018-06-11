@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the harmonycentral.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126141230id_/http%3A//www.harmonycentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonycentral.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611032600id_/http%3A//www.harmonycentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Harmony Central
+
+**Harmony Central Privacy Policy**
+
+**_because you've got rights_ ....**
+
+****
+
+**IMPORTANT COMPLIANCE STATEMENT**
+
+**Our  current policies and business practices continue to meet or exceed GDPR requirements to support new EU data protection laws.  
+**
 
 **YOUR PRIVACY RIGHTS**
 
@@ -74,7 +85,9 @@ Harmony Central is committed to protecting the privacy of children. The Site is 
 
 **TERMS AND MODIFICATIONS TO THIS PRIVACY STATEMENT**
 
-By using the website, you signify your agreement to the terms of our Privacy Statement. If you do not agree with these terms, you should not use the site. Harmony Central may modify this Privacy Statement at any time. If a material change is made to this Privacy Statement and/or the way we use our users' personally identifiable information, then we will post prominent notice of the nature of such change on the first page of this Privacy Statement and also on our home page. You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Statement. This Privacy Statement is applicable to all web sites under the .harmony-central.com and .harmonycentral.com domains.
+By using the website, you signify your agreement to the terms of our Privacy Statement. If you do not agree with these terms, you should not use the site. Harmony Central may modify this Privacy Statement at any time. If a material change is made to this Privacy Statement and/or the way we use our users' personally identifiable information, then we will post prominent notice of the nature of such change on the first page of this Privacy Statement and also on our home page. You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Statement. This Privacy Statement is applicable to all web sites under the .harmony-central.com and .harmonycentral.com domains.
+
+In addition to the strides Harmony Central has made to ensure GDPR compliance, we are evaluating outside security vendors to ensure our current policies and business practices continue to meet or exceed GDPR requirements. 
 
 **CONTACT DETAILS**
 
@@ -86,4 +99,4 @@ Harmony Central
 
 Nashville, TN 37217
 
-Updated: April 22, 2015
+Updated: May 29, 2018
