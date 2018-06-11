@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mum.edu privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113110614id_/https%3A//www.mum.edu/privacy-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mum.edu privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612004922id_/https%3A//www.mum.edu/privacy-information) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -19,8 +19,7 @@ We will use your information to respond to you, regarding the reason you contact
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
  **Your Access to and Control Over Information**  
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via [pstokstad@mum.edu](mailto:%20pstokstad@mum.edu)  
-or by calling me at 641-451-4219:
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us at [reception@mum.edu](mailto:reception@mum.edu).
 
   * See what data we have about you, if any.
   * Change/correct any data we have about you.
