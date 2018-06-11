@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225141054id_/http%3A//thehuddle.com/privacy-notice-your-california-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611095957id_/http%3A//thehuddle.com/privacy-notice-your-california-privacy-rights) for the most accurate reproduction.*
 
 # Privacy Notice / Your California Privacy Rights | The Huddle
 
-Last Updated: April 8th, 2013
+Last Updated: April 12th, 2018
 
 We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
@@ -46,7 +46,9 @@ In addition, we may use any information submitted by or collected from you via t
 
 **Your Choices.** When we request information from you on the Site, you may always choose not to provide us with that information. But if you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.
 
-If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. If you would like more information on how to opt out of information collection practices by many third parties, visit the Digital Advertising Alliance’s website at [www.aboutads.info](http://www.aboutads.info/).
+If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. Our Site does not collect personally identifiable information or persistent identifiers from, deliver a personalized experience to, or otherwise track or monitor, persons reasonably identified as visiting our Site from the European Union.
+
+If you would like more information on how to opt out of information collection practices by many third parties, visit the Digital Advertising Alliance’s website at [www.aboutads.info](http://www.aboutads.info/).
 
 ### How Information is Shared
 
