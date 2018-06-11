@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231131112id_/http%3A//www.lincoln.ac.nz/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611054714id_/http%3A//www.lincoln.ac.nz/footer/privacy) for the most accurate reproduction.*
 
 # Privacy | Lincoln University
 
@@ -52,7 +52,7 @@ A 'cookie' is a file that our webserver may send to your computer when you acces
 
 Lincoln University may use 'persistent' cookies: Persistent cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as helping to determine what areas of the website visitors find most valuable, and customising the website based on your preferences on an ongoing basis. The Lincoln University server only knows that an unidentified visitor with your cookies has returned to the website and not any personally identifiable information.
 
- Lincoln University may use 'web beacons' (also known as internet tags, single-pixel GIFs, clear GIFs, anonymous identifiers and invisible GIFs): A web beacon is a tiny graphic on a web page or in an email message that is used to track pages viewed or messages opened. Web beacons tell the website server information such as the IP address and browser type related to the visitor’s computer. Web beacons may be placed on online advertisements that bring people to the Lincoln University web site and on different pages of the website. Web beacons provide us with information on how many times a page is opened and which information is consulted. Lincoln University uses both First Party and Third Party web beacons and cookies.  Third Party web beacons and cookies are used for the purpose of marketing this website to people that may find benefit from the services included on the website. 
+ Lincoln University may use 'web beacons' (also known as internet tags, single-pixel GIFs, clear GIFs, anonymous identifiers and invisible GIFs): A web beacon is a tiny graphic on a web page or in an email message that is used to track pages viewed or messages opened. Web beacons tell the website server information such as the IP address and browser type related to the visitor’s computer. Web beacons may be placed on online advertisements that bring people to the Lincoln University web site and on different pages of the website. Web beacons provide us with information on how many times a page is opened and which information is consulted. Lincoln University uses both First Party and Third Party web beacons and cookies. Third Party web beacons and cookies are used for the purpose of marketing this website to people that may find benefit from the services included on the website. 
 
 _Choices you have about Lincoln University’s use of cookies and other tracking technologies  
 _
@@ -90,11 +90,9 @@ _ Without prejudice to your rights under applicable law, Lincoln University rese
 
 ## Privacy of Personal Information Students
 
-**
+ 
 
 Lincoln University will collect, use, store, and disclose personal information relating to students in accordance with the provisions of the Privacy Act 1993.
-
-**
 
 Where practicable all such personal information is obtained directly from students, or from their nominated agent(s). Additionally, information may be obtained or verified through relevant government or education agencies, including the New Zealand National Student Index.
 
@@ -102,33 +100,20 @@ Information will be stored on University files and database(s) and all reasonabl
 
 Staff members and other personnel within the University or within agencies under contract to the University will have access to students’ personal information for purposes relevant to normal university operations including but not limited to: admission, enrolment, study, academic progress, tuition fees and charges, establishing and maintaining academic and graduation records, assessment, academic agreements (exchange/ study abroad partners, scholarship providers or sponsors, programme delivery partners), academic advice & support, student services, discipline, security and safety, Library and IT services, managing students’ association(s) membership and records, managing records of graduates, and other alumni, and managing and improving the quality of services provided by the University.
 
-In order to conduct its proper business and as required under the Education Act 1989 and other laws, regulations, and contractual agreements by which it is bound, the University may use the student information it holds and may disclose information to external agencies such as government departments, bodies responsible for course moderation and professional accreditation or membership, agencies for financial support and pastoral care, and university student and alumni associations.
+In order to conduct its proper business and as required under the Education Act 1989 and other laws, regulations, and contractual agreements by which it is bound, the University may use the student information it holds and may disclose information to external agencies such as government departments, bodies responsible for course moderation and professional accreditation or membership, agencies for financial support and pastoral care, and university student and alumni associations.10 Such agencies include, but are not limited to: 
 
-Such agencies include, but are not limited to:
-
-• The Ministry of Education (information will be recorded on the National Student Index and used in an authorised information matching programme with the NZ Birth Register)
-
-• The Ministry of Social Development (including Work and Income NZ and StudyLink)
-
-• Inland Revenue Department
-
-• Te Puni Kōkiri 
-
+• The Ministry of Education (information will be recorded on the National Student Index and used in an authorised information matching programme with the NZ Birth Register)   
+• The Ministry of Social Development (including Work and Income NZ and StudyLink)   
+• Inland Revenue Department  
+• Te Puni Kōkiri    
 • Immigration New Zealand (for students who are not NZ citizens)
 
 • Relevant Professional bodies  
-• Course moderation or accreditation bodies
-
-• Tertiary Education Commission
-
-• Ministry of Trade and Enterprise
-
+• Course moderation or accreditation bodies  
+• Tertiary Education Commission  
+• Ministry of Trade and Enterprise  
 • Education New Zealand.
 
-Information provided to external agencies is either student specific (typically name, date of birth, current contact details and academic/ graduation details) or cohort specific (aggregated or statistical information that does not identify individuals).
-
-Where provision or disclosure of information is voluntary or falls outside the scope of information the University is permitted to collect, store, use and disclose under the Privacy Act 1993, students will be advised and their consent will be obtained prior to the provision or disclosure of information.
-
-The University will make information held about students available to them upon request and in accordance with the Privacy Act 1993, which also describes the conditions under which information may be withheld. Students have the right to request correction of personal information held in accordance with the provisions of the Privacy Act 1993. If a student withholds information or provides incomplete, false or misleading information the University may decline or cancel the admission or enrolment and may withhold the academic record if its veracity cannot be confirmed.
+Information provided to external agencies is either student specific (typically name, date of birth, current contact details and academic/ graduation details) or cohort specific (aggregated or statistical information that does not identify individuals).21 Where provision or disclosure of information is voluntary or falls outside the scope of information the University is permitted to collect, store, use and disclose under the Privacy Act 1993, students will be advised and their consent will be obtained prior to the provision or disclosure of information.22 The University will make information held about students available to them upon request and in accordance with the Privacy Act 1993, which also describes the conditions under which information may be withheld. Students have the right to request correction of personal information held in accordance with the provisions of the Privacy Act 1993. If a student withholds information or provides incomplete, false or misleading information the University may decline or cancel the admission or enrolment and may withhold the academic record if its veracity cannot be confirmed.
 
 This privacy statement operates in conjunction with any other [privacy statement](http://www.lincoln.ac.nz/footer/Privacy/).
