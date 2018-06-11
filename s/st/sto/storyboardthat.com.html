@@ -1,16 +1,8 @@
-<!--The following is the downloaded HTML source of the storyboardthat.com privacy policy that was archived on 2017-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171201060129id_/http%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the storyboardthat.com privacy policy that was archived on 2018-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180611070457id_/https%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html class=" async-hide"><head>
 
-
-
-
-<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-<!--[if lt IE 9]>
-  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-<![endif]-->
 
 <style>
 
@@ -33,6 +25,13 @@ body {
   src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v14/K88pR3goAWT7BTt32Z01m4X0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
   unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
 }
+    @font-face
+    {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: local('Open Sans Bold'), local('OpenSans-Bold'), url(//themes.googleusercontent.com/static/fonts/opensans/v8/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+    }
 /* cyrillic */
 @font-face {
   font-family: 'Open Sans';
@@ -85,17 +84,40 @@ body {
 </style>
 
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    // var gIDMap = new Array();
+    // var insertedNodes = [];
+    // document.addEventListener("DOMNodeInserted", function(e) {
+    // 	insertedNodes.push(e.target);
+    // 	console.log(e.target);
+    // }, false);
+
+    function GetGlobalById(id) {
+
+        // if( gIDMap[id] && gIDMap[id].id == id && gIDMap[id] != GetGlobalById( id ) )
+        // {
+        // 	// console.log('map' , gIDMap[id]);
+        // 	// console.log('get' ,  GetGlobalById( id ));
+        // }
+
+        // if( !gIDMap[id] || gIDMap[id].id != id )
+        // 	gIDMap[id] = GetGlobalById( id );
+
+
+        return document.getElementById(id);
+    }
+
     var GeoServer = "https://geo.storyboardthat.com";
     var StripeJSKey = "pk_live_XJJF9ZNxKZAVtu0F6ILLvokx";
 
-    var OnJsLoaded = []; // for js methods that need to run after libraries are lazyloaded
+    var SbtExtraJS = []; // for js files to specify other js files that need to be loaded
+    var OnSbtJsLoaded = []; // for js methods that need to run after libraries are lazyloaded
 
     setTimeout(function ()
     {
         try {
             swal.setDefaults(
                 {
-                confirmButtonText: "Ok",
+                    confirmButtonText: "Ok",
                     cancelButtonText: "Cancel",
                 });
         } catch (e) {
@@ -112,7 +134,7 @@ body {
 
         var prettyDate = d.toLocaleDateString() + ", " + d.toLocaleTimeString();
 
-        document.getElementById(placementId).textContent = prettyDate;
+        GetGlobalById(placementId).textContent = prettyDate;
     }
 
     function popup(mylink, windowname)
@@ -175,10 +197,6 @@ body {
         window.appInsights = appInsights;
         appInsights.trackPageView();
     </script><script src="https://az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
-    <script src="https://www.atmrum.net/rum.js"></script>
-    <script>
-    OnJsLoaded.push(function() {rum.start("cbd2b70d10f74f7c805262abcc7c244a");})
-    </script>
 
 
 
@@ -186,8 +204,11 @@ body {
 
 
 <script>
-    LazyLoad.css(['/content/css/sbt-bootstrap.min.css?time=636477046303727974'], null);
-</script><link href="/content/css/sbt-bootstrap.min.css?time=636477046303727974" rel="stylesheet" class="lazyload" charset="utf-8">
+    LazyLoad.css(['/content/css/sbt-bootstrap.min.css?time=636640795888069847'], null);
+</script><link href="/content/css/sbt-bootstrap.min.css?time=636640795888069847" rel="stylesheet" class="lazyload" charset="utf-8">
+
+
+
 
 <title>Storyboard That Privacy Policy | Clever Prototypes </title>
 
@@ -205,7 +226,7 @@ body {
 <!-- Use the .htaccess and remove these lines to avoid edge case issues.
    More info: h5bp.com/b/378 -->
 <meta name="author" content="Clever Prototypes, LLC">
-<meta http-equiv="copyright" content="Copyright 2017 Clever Prototypes, LLC">
+<meta http-equiv="copyright" content="Copyright 2018 Clever Prototypes, LLC">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <meta charset="utf-8">
@@ -286,9 +307,22 @@ body {
         <link rel="alternate" hreflang="sl" href="http://www.storyboardthat.com/sl/o/zasebnosti">
         <link rel="alternate" hreflang="lv" href="http://www.storyboardthat.com/lv/par/priv%c4%81tumu">
         <link rel="alternate" hreflang="et" href="http://www.storyboardthat.com/et/umbes/privacy">
-<!--Google Analytics (centralized)-->
+<!--Google Optimize (centralized)-->
 
+<!-- Minimize page flickering -->
+<style>
+    .async-hide {
+        opacity: 0 !important
+    }
+</style>
 
+<script>
+    (function (a, s, y, n, c, h, i, d, e) {
+        s.className += ' ' + y; h.start = 1 * new Date;
+        h.end = i = function () { s.className = s.className.replace(RegExp(' ?' + y), '') };
+        (a[n] = a[n] || []).hide = h; setTimeout(function () { i(); h.end = null }, c); h.timeout = c;
+    })(window, document.documentElement, 'async-hide', 'dataLayer', 4000,
+        { 'GTM-N3NGPCF': true });</script>
 
 <script>
     (function (i, s, o, g, r, a, m)
@@ -319,10 +353,9 @@ body {
 
     ga('create', 'UA-30881432-1', 'auto');
 </script>
-
         <script>
-            var locationUrl = "http://www.storyboardthat.com" + "/about/privacy";
-        //_gaq.push(['location', locationUrl]); 
+        var locationUrl = "http://www.storyboardthat.com" + "/about/privacy";
+        //_gaq.push(['location', locationUrl]);
         //_gaq.push(['title', '']);
         ga('set', 'location', locationUrl);
         ga('set', 'title', 'New Title');
@@ -330,7 +363,7 @@ body {
 
 
 <script>
-    
+    ga('require', 'GTM-N3NGPCF');
     ga('send', 'pageview');
 </script>
 
@@ -340,8 +373,9 @@ body {
 
 <!-- Google Translate-->
 <meta name="google-translate-customization" content="b48ad1e3754d78ce-163611a472da88ae-g9428d2ea18090eae-16">
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js" class="lazyload" charset="utf-8"></script><script src="/sbtjs/corefiles.min.js?time=636477046303727974" class="lazyload" charset="utf-8"></script></head>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js" class="lazyload" charset="utf-8"></script><script src="/sbtjs/corefiles.min.js" class="lazyload" charset="utf-8"></script></head>
 <body>
+    
     <!-- Fixed navbar -->
     <header class="navbar navbar-default sbt-nav" role="navigation">
         <div>
@@ -361,17 +395,17 @@ body {
                 <ul class="nav navbar-nav" style="/*margin:0 auto; text-align:center*/">
                     <li><a href="https://www.storyboardthat.com/storyboard-creator" title="Create your own Storyboard!" style="" class="">Create a Storyboard</a></li>
                     <li><a href="https://www.storyboardthat.com/purchase" title="View Pricing and Purchase Storyboard That" style="" class="">Pricing</a></li>
-                    <li><a href="https://www.storyboardthat.com/my-account" title="Go to your account" style="" class="">My Account</a></li>
                     <li>
 
 <script>
-    var IsUserLoggedOn = false;
+    var IsUserLoggedOn = -1;
     var HandleLoginCloseFunction = null;
     var SpecialSignOut = null;
 </script>
 
-        <a id="nav-logoff-button" title="Log off of Storyboard That" onclick="signOutBS(); return false;" class="btn btn-default btn-login" style="display: none">Log Off</a>
-    <a id="nav-logon-button" title="Log on to Storyboard That" class="btn btn-warning btn-login" href="https://www.storyboardthat.com/account/logon">Log On</a>
+
+<a id="nav-logoff-button" title="Log off of Storyboard That" onclick="signOutBS(); return false;" class="btn btn-default btn-login" style="display: none">Log Off</a>
+<a id="nav-logon-button" title="Log on to Storyboard That" class="btn btn-warning btn-login" href="https://www.storyboardthat.com/account/logon">Log On</a>
 
 
 
@@ -386,12 +420,12 @@ body {
 <div class="top-callout-bar">
     <div class="row">
         <div class="col-md-12 ">
-            <span style="text-align:left; font-size:.95em; float:left; color:white; padding-left:0px; font-weight:bold; margin-left:-10px;">OVER 5,000,000 STORYBOARDS CREATED!</span>
+            <span style="text-align:left; font-size:.95em; float:left; color:white; padding-left:0px; font-weight:bold; margin-left:-10px;">OVER 7,000,000 STORYBOARDS CREATED!</span>
             <span style="float:right">
                 <b style="font-size:.95em">FREE TRIAL</b>
 
                 <a href="/education/learn-more-about-classroom-edition" class="btn btn-xs btn-default">For Teachers </a>
-                <a href="/business/team-and-business-edition" class="btn btn-xs btn-default">For Business </a>
+                <a href="/business/team-and-business-edition" class="btn btn-xs btn-default">For Work </a>
                 <a href="/film" class="btn btn-xs btn-default">For Film </a>
                 
             </span>
@@ -401,95 +435,172 @@ body {
 
 
     </header>
+    
 
 
 
 
-    <div class="container theme-showcase">
+<div class="container theme-showcase">
 
-        <h1>PRIVACY POLICY</h1>
-
-        <div class="alert alert-info" style="text-align:center">For our educational edition, please also see our <a href="/about/privacy-for-schools">school / student privacy policy</a>.</div>
-        <h2>Introduction</h2>
-        <p>This privacy policy (“Policy”) is designed to inform users of the Storyboard That service, including all associated websites (collectively, the “Service”) about how Clever Prototypes, LLC (“Clever Prototypes,” “we” or “us”) gathers and uses personal information collected by us in connection with the Service.  We will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws.  In this policy, “user” or “you” means any person using or otherwise benefiting from the Service or otherwise submitting personal information to Clever Prototypes via the Service.  BY ACCESSING OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICE.</p>
-
-        <h2>What Information Do We Collect?</h2>
-
-        <h3>Limited Personal Information: </h3>
-        <p>We collect the following personal information in connection with the Service: (a) if you register as a Clever Prototypes user directly, we will collect the personal information you submit to us to build your user profile, including your name, email address, and zip code; (b) if you pay fees by credit card, we may collect the name, expiration date and credit card number for the relevant card; and (c) if you communicate with us by email, we will collect your email address.  All of this information is referred to in this Policy as “Personal Information”.</p>
-
-        <h3>Other Personal Identifiers:</h3>
-        <p>Apart from the limited personal information described above, Clever Prototypes does not collect and does not wish to receive any personally identifying information.  Without limitation, you shall not submit to Clever Prototypes any social security number, financial account number, credit or debit card number (other than the number of the card paying for the Service), driver’s license number or government ID number.  To the extent schools, parents, guardians, or teachers create accounts for students under 13 years of age, we may collect first and last names and e-mail addresses from those schools, parents, guardians, or teacher for the sole purpose of rendering the Service, and will otherwise take steps to maintain the confidentiality, security, and integrity thereof.  Children under 13 years of age that use the Service under the supervision of a school, parent, guardian, or teacher are not permitted to provide or upload any personal information.</p>
-
-        <h3>User Data:</h3>
-        <p>The Service allows all users to create storyboards using data provided by Clever Prototypes and, optionally, data provided by users.  All data uploaded by users is referred to in this Policy as “User Data.”  </p>
-
-        <h3>Web Tracking Information:</h3>
-        <p>We, and our third party service providers, may use web tracking technologies such as cookies, web beacons, pixel tags and clear GIFs in order to operate the Service efficiently and to collect data related to usage of the Service.  Such collected data (“Web Tracking Information”) may include the address of the websites you visited before and after you visited the Service, the type of browser you are using, your Internet Protocol (IP) address, what pages in the Service you visit and what links you clicked on, and whether you opened email communications we send to you.  In order to collect Web Tracking Information and to make your use of the Service more efficient, we may store cookies on your computer.  We may also use web tracking technologies that are placed in web pages on the Service or in email communications to collect information about actions that users take when they interact with the Service or such email communications, and Clever Prototypes’ Contractors (as defined herein) may also do so.  We do not correlate Web Tracking Information to individual user Personal Information, except for internal operational, product development, and administrative purposes of the Service.  Some Web Tracking Information may include data, such as IP address data, that is unique to you.  You may be able to modify your browser settings to alter which web tracking technologies are permitted when you use the Service, but this may affect the performance of the Service.</p>
+    <div class="alert alert-info" style="text-align:center">For our educational edition, please also see our <a href="/about/privacy-for-schools">school / student privacy policy</a>.</div>
 
 
 
 
-        <h2>How Do We Use the Information We Collect?</h2>
 
-        <h3>Personal Information: </h3>
-        <p>Your Personal Information may be supplemented with additional information regarding your activities on the Service; to the extent that such information is linked specifically to you, we will treat that additional information as your Personal Information. We may use your email address to send you marketing materials about Clever Prototypes and its products and services.  We may also use Personal Information for the internal operational, product development, and administrative purposes of the Service.</p>
+<h1>PRIVACY POLICY</h1>
 
-        <h3>User Data:</h3>
-        <p>We collect and stores User Data in order to provide the Service to you, and it may be used for the internal operational, product development, and administrative purposes of the Service  If you create storyboards that incorporate User Data with a Free Account, or if otherwise marked for publication, User Data will be accessible to the public via the Service and via third-party search engines.</p>
+<h2>Introduction</h2>
+<p>This privacy policy (“Policy”) is designed to inform users of the Storyboard That service, including all associated websites (collectively, the “Service”) about how Clever Prototypes, LLC (“Clever Prototypes,” “we” or “us”) gathers and uses personal information collected by us in connection with the Service. We will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws. In this policy, “user” or “you” means any person using or otherwise benefiting from the Service or otherwise submitting personal information to Clever Prototypes via the Service. BY ACCESSING OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICE.</p>
 
-        <h3>Web Tracking Information: </h3>
-        <p>We use Web Tracking Information to administer the Service and to understand how well our Service is working, to store your user preferences, and to develop statistical information on usage of the Service.  This allows us to determine which features and content users like best to help us improve our Service, to personalize your user experience, and to measure overall effectiveness.</p>
+<h2>What Information Do We Collect?</h2>
 
-        <h3>Aggregate Information:  </h3>
-        <p>We will also create statistical, aggregated data relating to our users and the Service for analytical purposes.  Aggregated data is derived from Personal Information and User Data but in its aggregated form it does not duplicate or reveal any User Data or relate to or identify any individual.  This data is used to understand our customer base and to develop, improve and market our services</p>
+<h3>Limited Personal Information: </h3>
+<p>We collect the following personal information in connection with the Service: (a) if you register as a Clever Prototypes user directly, we will collect the personal information you submit to us to build your user profile, including your name, email address, and zip code; (b) if you pay fees by credit card, we may collect the name, expiration date and credit card number for the relevant card; and (c) if you communicate with us by email, we will collect your email address. All of this information is referred to in this Policy as “Personal Information”.</p>
 
+<h3>Other Personal Identifiers:</h3>
+<p>Apart from the limited personal information described above, Clever Prototypes does not collect and does not wish to receive any personally identifying information. Without limitation, you shall not submit to Clever Prototypes any social security number, financial account number, credit or debit card number (other than the number of the card paying for the Service), driver’s license number or government ID number. To the extent schools, parents, guardians, or teachers create accounts for students under 13 years of age, we may collect first and last names and e-mail addresses from those schools, parents, guardians, or teacher for the sole purpose of rendering the Service, and will otherwise take steps to maintain the confidentiality, security, and integrity thereof. Children under 13 years of age that use the Service under the supervision of a school, parent, guardian, or teacher are not permitted to provide or upload any personal information.</p>
 
-        <h2>What Information Do We Disclose to Third Parties?</h2>
-        <h3>Personal Information and User Data:</h3>
-        <p>  We will not disclose your Personal Information or User Data to any third parties except as follows: </p>
-        <ul>
-            <li>(i) to third party contractors engaged to provide services on our behalf (“Contractors”), such as performing marketing, analyzing data and usage of the Service, hosting and operating the Service or providing support and maintenance services for the Service, or providing customer service.  We enter into agreements with all Contractors that require Contractors to use the Personal Information they receive only to perform services for us. </li>
-            <li>(ii) when we have your consent to share the information.</li>
-        </ul>
-        <p>User Data is not disclosed to third parties, except to the extent it is included in storyboards created under Free Accounts, or otherwise shared by or made public by the user.</p>
+<h3>User Data:</h3>
+<p>The Service allows all users to create storyboards using data provided by Clever Prototypes and, optionally, data provided by users. All data uploaded by users is referred to in this Policy as “User Data.”</p>
 
-        <h3> Email Communications:</h3>
-        <p> If you register and provide your email address, we will send you administrative and promotional emails.  If you wish to opt out of promotional emails, you may do so by following the “unsubscribe” instructions in the email, or by editing your account settings.  All users receive administrative emails, and so you cannot opt out of them while you remain registered. </p>
+<h3>Web Tracking Information:</h3>
+<p>We, and our third party service providers, may use web tracking technologies such as cookies, web beacons, pixel tags and clear GIFs in order to operate the Service efficiently and to collect data related to usage of the Service. Such collected data (“Web Tracking Information”) may include the address of the websites you visited before and after you visited the Service, the type of browser you are using, your Internet Protocol (IP) address, what pages in the Service you visit and what links you clicked on, and whether you opened email communications we send to you. In order to collect Web Tracking Information and to make your use of the Service more efficient, we may store cookies on your computer. We may also use web tracking technologies that are placed in web pages on the Service or in email communications to collect information about actions that users take when they interact with the Service or such email communications, and Clever Prototypes’ Contractors (as defined herein) may also do so. We do not correlate Web Tracking Information to individual user Personal Information, except for internal operational, product development, and administrative purposes of the Service. Some Web Tracking Information may include data, such as IP address data, that is unique to you. You may be able to modify your browser settings to alter which web tracking technologies are permitted when you use the Service, but this may affect the performance of the Service.</p>
 
-        <h3>Web Tracking Information:  </h3>
-        <p>We disclose Web Tracking Information to Contractors, in order to analyze the performance of the Service and the behavior of users, and to operate and improve the Service.  </p>
+<h2>What are the Legal Bases for Our Collection and Use of Personal Information?</h2>
+<p>We rely on the following legal grounds to process your Personal Information:</p>
 
-        <h3>Aggregate Information:  </h3>
-        <p>We may disclose aggregated data that does not contain Personal Information or User Data to any third parties, such as potential customers, business partners, and funding sources, in order to describe our business and operations.</p>
-
-        <h3>Network Operators:</h3>
-        <p>Use of the Service may involve use of the services of third party telecommunications carriers.  Such carriers are not our contractors, and any information that a carrier collects in connection with your use of the Service is not “Personal Information” and is not subject to this Privacy Policy.  We are not responsible for the acts or omissions of telecommunications carriers.</p>
+<ul>
+    <li>Performance of a contract – We need to collect and use your Personal Information to perform our agreement with you to deliver the Service as described in this Privacy Policy.</li>
+    <li>Consent – We may use or disclose some of your Personal Information as described in this Privacy Policy subject to your consent.</li>
+    <li>Legitimate interests – We may use your Personal Information for our legitimate interests to improve our products and services and the Service. Consistent with our legitimate interests and any choices that we offer or consents that may be required under applicable laws, we may use technical information as described in this Privacy Policy.</li>
+</ul>
 
 
-        <h3>Legal Exception:</h3>
-        <p>  Notwithstanding the above, we may in any event use Personal Information and other information collected through the Service to the extent required by law or legal process, to resolve disputes, to enforce our agreements (including this Privacy Policy and the Terms of Service <a href="https://www.storyboardthat.com/about/terms-of-use">https://www.storyboardthat.com/about/terms-of-use</a>) with you, or if in our reasonable discretion use is necessary to protect our legal rights or to protect third parties.</p>
 
-        <h3>Additional Disclosures:  </h3>
-        <p>We reserve the right to disclose any information we collect in connection with the Service, including Personal Information, (a) to any successor to our business as a result of any merger, acquisition, asset sale or similar transaction; and (b) to any law enforcement, judicial authority, or governmental or regulatory authority, to the extent required by law or if in our reasonable discretion disclosure is necessary to enforce or protect our legal rights or to protect third parties.</p>
+<h2>How Do We Use the Information We Collect?</h2>
 
-        <h2>Privacy Settings/Opt Out</h2>
-        <p>If you would like your name and email address permanently removed from our database, please contact us at <a href="mailto:Help@StoryboardThat.com">Help@StoryboardThat.com</a>.  We will promptly delete your name and email address and you will no longer receive email from Clever Prototypes.  Your removal from the mailing list or database will not remove User Data you have submitted to us or records of past use of the Service, nor delete information stored in our data backups and archives.  User Data, including User Data submitted, data on past queries and data stored in backups and archives will be maintained and/or deleted in the ordinary course of Clever Prototypes’ business.  Clever Prototypes does not provide copies of User Data to its customers.</p>
+<h3>Personal Information: </h3>
+<p>Your Personal Information may be supplemented with additional information regarding your activities on the Service; to the extent that such information is linked specifically to you, we will treat that additional information as your Personal Information. We may use your email address to send you marketing materials about Clever Prototypes and its products and services. We may also use Personal Information for the internal operational, product development, and administrative purposes of the Service.</p>
 
-        <h2>General</h2>
+<h3>User Data:</h3>
+<p>We collect and stores User Data in order to provide the Service to you, and it may be used for the internal operational, product development, and administrative purposes of the Service If you create storyboards that incorporate User Data with a Free Account, or if otherwise marked for publication, User Data will be accessible to the public via the Service and via third-party search engines.</p>
 
-        <h3>Security:</h3><p>  We use reasonable security precautions to protect the security and integrity of your Personal Information in accordance with this policy and applicable law.  However, no Internet transmission is completely secure, and we cannot guarantee that security breaches will not occur.  Without limitation of the foregoing, we are not responsible for the actions of hackers and other unauthorized third parties that breach our reasonable security procedures.</p>
-        <h3>Links:</h3><p> The Clever Prototypes Service may contain links to other websites as services, including payment services. Clever Prototypes is not responsible for the privacy practices or the content of those websites. Users should be aware of this when they leave our Service and review the privacy statements of each third party website. This Privacy Policy applies solely to information collected by the Service.</p>
-        <h3>Amendments:</h3><p> Clever Prototypes may modify or amend this policy from time to time. If we make any material changes, as determined by Clever Prototypes, in the way in which Personal Information is collected, used or transferred, we will notify you of these changes by modification of this Privacy Policy, which will be available for review by you at the Service.  Notwithstanding any modifications we may make, any Personal Information collected by Clever Prototypes from you will be treated in accordance with the privacy policy in effect at the time information was collected, unless we obtain your consent otherwise.</p>
-        <h3>Children:</h3><p>  Clever Prototypes does not knowingly collect or maintain personally identifiable information from persons under 13 years of age, and the Service may only be used by persons under 13 years of age under the supervision of a school, parent, guardian, or teacher.  If you are under 13 years of age, you may not register for the Service on your own, and you may not provide any Personal Information.   If Clever Prototypes learns that personally identifiable information of persons less than 13 years of age has been provided, then Clever Prototypes will take the appropriate steps to delete this information.  To make such a request, please contact us at <a href="mailto:Help@StoryboardThat.com">Help@StoryboardThat.com</a>. </p>
-        <h3>Service Visitors from outside the United States:  </h3><p>Clever Prototypes and its servers are located in the United States and are subject to the applicable state and federal laws of the United States.  If you choose to access or use the Service, you consent to the use and disclosure of information in accordance with this privacy policy and subject to such laws.</p>
+<h3>Web Tracking Information: </h3>
+<p>We use Web Tracking Information to administer the Service and to understand how well our Service is working, to store your user preferences, and to develop statistical information on usage of the Service. This allows us to determine which features and content users like best to help us improve our Service, to personalize your user experience, and to measure overall effectiveness.</p>
 
-        <hr>
+<h3>Aggregate Information:  </h3>
+<p>We will also create statistical, aggregated data relating to our users and the Service for analytical purposes. Aggregated data is derived from Personal Information and User Data but in its aggregated form it does not duplicate or reveal any User Data or relate to or identify any individual. This data is used to understand our customer base and to develop, improve and market our services.</p>
 
-        Effective Date of this policy: January 25, 2014
 
-        <br><br><br>
-    </div>
+<h2>What Information Do We Disclose to Third Parties?</h2>
+<h3>Personal Information and User Data:</h3>
+
+<p> We will not disclose your Personal Information or User Data to any third parties except as follows: </p>
+
+<ul>
+    <li>(i) to third party contractors engaged to provide services on our behalf (“Contractors”), such as performing marketing, analyzing data and usage of the Service, hosting and operating the Service or providing support and maintenance services for the Service, or providing customer service. We enter into agreements with all Contractors that require Contractors to use the Personal Information they receive only to perform services for us.</li>
+    <li>(ii) when we have your consent to share the information.</li>
+    <li>For Student PII third parties must adhere to privacy and security as stringent or greater than ours</li>
+</ul>
+
+<p>User Data is not disclosed to third parties, except to the extent it is included in storyboards created under Free Accounts, or otherwise shared by or made public by the user.</p>
+
+<h3> Email Communications:</h3>
+<p> If you register and provide your email address, we will send you administrative and promotional emails. If you wish to opt out of promotional emails, you may do so by following the “unsubscribe” instructions in the email, or by editing your account settings. All users receive administrative emails, and so you cannot opt out of them while you remain registered.</p>
+
+<h3>Web Tracking Information:  </h3>
+<p>We disclose Web Tracking Information to Contractors, in order to analyze the performance of the Service and the behavior of users, and to operate and improve the Service.</p>
+
+<h3>Aggregate Information:  </h3>
+<p>We may disclose aggregated data that does not contain Personal Information or User Data to any third parties, such as potential customers, business partners, and funding sources, in order to describe our business and operations.</p>
+
+<h3>Network Operators:</h3>
+<p>Use of the Service may involve use of the services of third party telecommunications carriers. Such carriers are not our contractors, and any information that a carrier collects in connection with your use of the Service is not “Personal Information” and is not subject to this Privacy Policy. We are not responsible for the acts or omissions of telecommunications carriers.</p>
+
+
+<h3>Legal Exception:</h3>
+<p>Notwithstanding the above, we may in any event use Personal Information and other information collected through the Service to the extent required by law or legal process, to resolve disputes, to enforce our agreements (including this Privacy Policy and the Terms of Service <a href="https://www.storyboardthat.com/about/terms-of-use">https://www.storyboardthat.com/about/terms-of-use</a>) with you, or if in our reasonable discretion use is necessary to protect our legal rights or to protect third parties.</p>
+
+
+<h3>Additional Disclosures:  </h3>
+
+<p>We reserve the right to disclose any information we collect in connection with the Service, including Personal Information, (a) to any successor to our business as a result of any merger, acquisition, asset sale or similar transaction; and (b) to any law enforcement, judicial authority, or governmental or regulatory authority, to the extent required by law or if in our reasonable discretion disclosure is necessary to enforce or protect our legal rights or to protect third parties.</p>
+<p>In the event of a sale/merger all student PII would be subject to the same standards as this policy or given an option to opt out within 90 days of the change of company structure. During the transition window, the data will be subject to the standards defined in the policy when last accepted.</p>
+
+<h2>Privacy Settings/Opt Out</h2>
+<p>If you would like your name and email address permanently removed from our database, please contact us at <a href="mailto:Help@StoryboardThat.com">Help@StoryboardThat.com</a>.  We will promptly delete your name and email address and you will no longer receive email from Clever Prototypes.  Your removal from the mailing list or database will not remove User Data you have submitted to us or records of past use of the Service, nor delete information stored in our data backups and archives.  User Data, including User Data submitted, data on past queries and data stored in backups and archives will be maintained and/or deleted in the ordinary course of Clever Prototypes’ business.  Clever Prototypes does not provide copies of User Data to its customers.</p>
+
+<h2>Your Choices About Your Information</h2>
+<p>You have the right to:</p>
+<ul>
+    <li>request an accounting of all Personal Information that we possess that pertains to you in an electronically portable format (e.g., electronic copies of information attached to an email).</li>
+    <li>request that we change any Personal Information that pertains to you.</li>
+    <li>request that we delete any Personal Information that pertains to you.</li>
+</ul>
+
+<p>To request an accounting of your Personal Information, a change to your Personal Information, or deletion of your Personal Information, contact <a href="mailto:Help@StoryboardThat.com">Help@StoryboardThat.com</a>.</p>
+<p>
+    If you are a resident of the European Union and have a complaint about our use or processing of your Personal Information, you have a right to lodge a complaint with a national Data Protection Authority.  Each European Union member nation has established its own Data Protection Authority; you can find out about the Data Protection Authority in your country here:
+    <a href="http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm">http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm</a>.
+</p>
+
+<p>If you have consented to the collection, processing, and/or transfer of your Personal Information, you have the right fully or partially to withdraw your consent.  To withdraw your consent, please contact  <a href="mailto:Help@StoryboardThat.com">Help@StoryboardThat.com</a>.  Once we have received notification that you withdraw your consent, we will no longer process your information for the purposes to which you consented unless there are compelling legitimate grounds for further processing or for the establishment, exercise, or defense of legal claims.</p>
+
+
+
+<h2>General</h2>
+
+<h3>Security:</h3>
+<p>We use reasonable security precautions to protect the security and integrity of your Personal Information in accordance with this policy and applicable law. However, no Internet transmission is completely secure, and we cannot guarantee that security breaches will not occur. Without limitation of the foregoing, we are not responsible for the actions of hackers and other unauthorized third parties that breach our reasonable security procedures.</p>
+
+<h3>Links:</h3>
+<p>The Clever Prototypes Service may contain links to other websites as services, including payment services. Clever Prototypes is not responsible for the privacy practices or the content of those websites. Users should be aware of this when they leave our Service and review the privacy statements of each third party website. This Privacy Policy applies solely to information collected by the Service.</p>
+
+<h3>Amendments:</h3>
+<p>Clever Prototypes may modify or amend this policy from time to time. If we make any material changes, as determined by Clever Prototypes, in the way in which Personal Information is collected, used or transferred, we will notify you of these changes by modification of this Privacy Policy, which will be available for review by you at the Service. Notwithstanding any modifications we may make, any Personal Information collected by Clever Prototypes from you will be treated in accordance with the privacy policy in effect at the time information was collected, unless we obtain your consent otherwise.</p>
+
+<h3>Children:</h3>
+<p>Clever Prototypes does not knowingly collect or maintain personally identifiable information from persons under 13 years of age, and the Service may only be used by persons under 13 years of age under the supervision of a school, parent, guardian, or teacher. If you are under 13 years of age, you may not register for the Service on your own, and you may not provide any Personal Information. If Clever Prototypes learns that personally identifiable information of persons less than 13 years of age has been provided, then Clever Prototypes will take the appropriate steps to delete this information. To make such a request, please contact us at <a href="mailto:Help@StoryboardThat.com">Help@StoryboardThat.com</a>. </p>
+
+<h2>Geographic Location</h2>
+<p>We offer the service in several geographic regions.  We define a geographic region as the location where a user is located.</p>
+
+<h3>Users Within the United States</h3>
+<p>For users within the United States, we process data in data centers located in the United States.  We have adopted reasonable physical, technical, and organizational safeguards against accidental, unauthorized, or unlawful destruction, loss, alteration, disclosure, access, use, or processing of user data in our possession.  We comply with state and federal laws governing the protection of personal information.</p>
+
+<h3>Users Within the European Union</h3>
+<p>For users within the European Union, we transfer data from the European Union to data centers located in the United States for processing.  Such processing is performed in accordance with Regulation 2016/679 of the European Parliament and of the Council of April 27, 2016 on the protection of natural persons with regard to the processing of personal data and free movement of such data, known as the General Data Protection Regulation (“GDPR”).  This includes the imposition of required safeguards with respect to accidental, unauthorized or unlawful destruction, loss, alteration, disclosure, access, use or processing of data.  Transfers of European Union user data to processors in the United States are made in accordance with the GDPR.</p>
+
+<h3>Users in Other Regions</h3>
+<p>For users not within the United States or the European Union, we transfer data from such regions to the United States for processing. For such users, we have adopted reasonable physical, technical, and organizational safeguards against accidental, unauthorized, or unlawful destruction, loss, alteration, disclosure, access, use, or processing of user data in our possession that substantially mirror protections available to users located within the United States.</p>
+
+<h2>Retention and Deletion</h2>
+<p>We will only retain your Personal Information for as long as necessary to fulfill the purposes for which it was collected and processed, including for the purposes of satisfying any legal, regulatory, accounting or reporting requirements.</p>
+
+<p>In some circumstances, we may anonymize your Personal Information so that it can no longer be associated with you, at which point it will no longer be treated as Personal Information.</p>
+
+<p>
+    It is our policy to retain Personal Information for up to 6 years once such personal information is no longer necessary to deliver the Service and to delete such personal information thereafter.
+    This means that, if you close your account with us, we will delete Personal Information associated with your account after no more than 6 years.      Regarding other types of information we collect as described in this Privacy Policy,
+    it is our policy to retain such personal information for 1 month and to delete such personal information thereafter.
+</p>
+
+<h2>About Us</h2>
+<p>We are based in the United States of America at 10 Ware Street, Cambridge, MA 02138.  Users in the United States and regions other than the European Union can contact us at the above address.</p>
+
+<p>Our representative in the EU for GDPR purposes is Foley Hoag AARPI.  You can contact our representative at 153 rue du Faubourg Saint-Honoré, 75008 Paris, France.</p>
+
+<hr>
+<p>In the event of material changes to the privacy policy users will be emailed and presented the new terms upon logging in.</p>
+<hr>
+    Effective Date of this policy: January 25, 2014
+<br>
+    Last Updated: May 23, 2018
+
+
+    <br><br><br>
+</div>
 
 
 
@@ -519,12 +630,13 @@ body {
                 </span>
             </div>
 
-        
+
         </div>
     </div>
 
     </form>
 
+                
             </div>
         </div>
     </div>
@@ -532,10 +644,10 @@ body {
         <div class="col-md-12 " style="text-align:center; padding:10px; font-size:1.2em;">
             <b style="color:black;">Teacher Resources</b>
 –  
-<a href="/articles/education/teacher-resources">Teacher Guides and Lesson Plans </a> 
+<a href="/articles/education/teacher-resources">Lesson Plans </a> 
 • 
 <a href="/blog/e/topic/education">Ed Tech Blog</a>
-• 
+
 <br>
 
 <b style="color:black;">Business Resources</b>
@@ -547,6 +659,10 @@ body {
 <a href="/articles/b/negotiation-resources">Negotiation</a>
 •
 <a href="/articles/b/business-frameworks">Business Frameworks</a>
+•
+<a href="/business-terms">Business Terms</a>
+•
+<a href="/video-marketing">Video Marketing</a>
 
 
 
@@ -570,6 +686,11 @@ body {
 <a href="/mythology">Mythology</a>
 • 
 <a href="/space-words">Astronomy</a>
+•
+<a href="/business-terms">Business Terms</a>
+•
+<a href="/design-thinking">Design Thinking Terms</a>
+
             <div class="white-space-single"></div>
         </div>
     </div>
@@ -582,12 +703,17 @@ body {
             <br>
             <br>
             <a href="http://www.photosforclass.com" target="_blank">Photos for Class</a> 
-–  Search for School-Safe, Creative Commons Photos! (<i>It Even Cites for You!</i>)
+–  Search for School-Safe, Creative Commons Photos (<i>It Even Cites for You!</i>)
 
 <br>
 
 <a href="http://www.quickrubric.com" target="_blank">Quick Rubric</a>
-– Easily Make and Share Great Looking Rubrics!
+– Easily Make and Share Great-Looking Rubrics
+
+<br>
+
+<a href="https://abcbabyart.com" target="_blank">abcBABYart</a>
+– Create Custom Nursery Art
             <div class="white-space-single"></div>
         </div>
     </div>
@@ -655,6 +781,7 @@ body {
                 <h6>For Students </h6>
                 <ul>
                     <li><a href="/classroom/join" title="Click Here to Join Your Classroom" style="" class="">My Classroom</a></li>
+  
                 </ul>
                 <br>
             </div>
@@ -667,7 +794,7 @@ body {
                     <br>
                     <li><a href="/education/district-packages" title="District Packages" style="" class="">District Packages</a></li>
                     <br>
-                    <li><a href="/articles/education/teacher-resources" title="Extensive Lesson plans and Teacher Guides for you to use!" style="" class="">Teacher Guides &amp; Lesson Plans</a></li>
+                    <li><a href="/articles/education/teacher-resources" title="Extensive lesson plans for you to use!" style="" class="">Teacher Resources</a></li>
                     <br>
                     <li><a href="/blog/e/topic/education" title="Read about various ways to apply digital storytelling in your class" style="" class="">Ed Tech Blog</a></li>
                     <br>
@@ -718,13 +845,14 @@ body {
             <div class="col-md-2">
                 <h6>Policies</h6>
                 <ul>
-                    
+
                     <li><a href="/help-and-faqs/storyboard-copyright-faq" title="" style="" class="">Storyboard Copyright and Usage</a></li>
+
                     <br>
                     <li><a href="/about/terms-of-use" title="Terms of Use for Storyboard That" style="" class="">Terms of Use</a></li>
                     <br>
                     <li><a href="/about/privacy" title="Storyboard That Privacy Policy" style="" class="">Privacy Policy</a></li>
-                    
+
                     <br>
                     <li><a href="/about/privacy-for-schools" title="Privacy Addendum for our Educational Edition" style="" class="">School / Student Privacy</a></li>
                 </ul>
@@ -762,11 +890,9 @@ body {
 
 
 
-    <p>© 2017 - Clever Prototypes, LLC -  All rights reserved. </p>
+    <p>© 2018 - Clever Prototypes, LLC -  All rights reserved. </p>
 
 </footer>
-
-
 
 
 
@@ -775,20 +901,28 @@ body {
 
 
 
-
-
-
-
-
 <script type="text/javascript">
-    LazyLoad.js(['//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js', '/sbtjs/corefiles.min.js?time=636477046303727974'], function () {
-        
-        if (typeof OnJsLoaded !== 'undefined')
-        {
-            for (var i in OnJsLoaded)
-            {
-                OnJsLoaded[i]();
+
+    
+    LazyLoad.js(['//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js','/sbtjs/corefiles.min.js'].filter(function (scriptPath) {
+        return document.querySelectorAll('script[src*="' + scriptPath + '"]').length == 0;
+    }), function () {
+        var processOnSbtJsLoaded = function () {
+            if (typeof OnSbtJsLoaded !== 'undefined') {
+                for (var i in OnSbtJsLoaded) {
+                    OnSbtJsLoaded[i]();
+                }
             }
+        }
+        // After processing the Razor includes, process any includes specified by the javascripts themselves
+        ///MVP NOTE: This will not recurse if the included SbtExtraJS specify additional SbtExtraJS files
+        if (SbtExtraJS.length > 0) {
+            LazyLoad.js(SbtExtraJS, function () {
+            
+                processOnSbtJsLoaded();
+            });
+        } else {
+            processOnSbtJsLoaded();
         }
     });
 
@@ -815,6 +949,8 @@ body {
         "theme": "CookieConsent"
     };
 </script>
+
+
 
 
 
