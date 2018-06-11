@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sathyabamauniversity.ac.in privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234528id_/http%3A//www.sathyabamauniversity.ac.in/sitepagetwo.php%3Fmainref%3D24%26firstref%3D0%26secondref%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sathyabamauniversity.ac.in privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611095506id_/http%3A//www.sathyabama.ac.in/sitepagetwo.php%3Fmainref%3D24%26firstref%3D0%26secondref%3D0) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thank you for visiting the Sathyabama University website and reviewing our privacy policy.
+Thank you for visiting the Sathyabama Institute of Science and Technology website and reviewing our privacy policy.
 
-We respect the privacy of those who visit our university web site. In accordance with this, we have created this policy in order to demonstrate our privacy commitment to our users
+We respect the privacy of those who visit our web site. In accordance with this, we have created this policy in order to demonstrate our privacy commitment to our users
 
 We collect no personal information about you unless you choose to provide that information to us. We do not give, share, sell, or transfer any personal information to a third party. If you want to know more about how we record non-personal information about your visit or how we use information that you voluntarily submit, read on
 
@@ -16,7 +16,7 @@ During your visit, our web operating system will record:
 
  
 
-  * 
+
 | 
 
 The **type of Operating System** that you use (such as Windows, Unix, or Mac).  
@@ -24,12 +24,12 @@ The **type of Operating System** that you use (such as Windows, Unix, or Mac).
 ---|---  
  
 
-  * 
+
 | 
 
 The **type of Browser** (such as "Netscape version X" or "Internet Explorer version X") that you are using.  
   
-  * 
+
 | 
 
 The **Date and Time** you visit our site, and the **web pages that you visit** on our site.  
