@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226124913id_/http%3A//www.coachhire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611115648id_/http%3A//www.coachhire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Coach Hire - from coachhire.com
 
-Business privacy policy
+Privacy Policy
+
+Updated 22/05/2018
 
 This privacy policy sets out how CoachHire.com uses and protects any information that you give  **CoachHire.com**  when you use this website.
 
 **CoachHire.com** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**CoachHire.com**   may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/11/2017.
+**CoachHire.com**   may update this policy by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/11/2017.
 
 What we collect:
 
@@ -36,11 +38,20 @@ We require this information to understand your needs and provide you with a bett
 
 • From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-Security
+### Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-How we use cookies
+### Data Retention
+
+We will retain your information for the periods outlined below as necessary to ensure you receive an excellent service, or as required to fulfill our legal obligations. If you wish to delete your account or request that we no longer use your information contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d2a6b7b1baa1a7a2a2bda0a692b1bdb3b1bababba0b7fcb1bdbf). We will respond to your request in a timely manner and delete all records that do not conflict with our legal requirements or inform you of such.
+
+Data Subject Category | Retention period  
+---|---  
+Leisure/Private individuals | 2 years  
+Corporate | 4 years  
+  
+### How we use cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -50,7 +61,7 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-Links to other websites
+### Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
@@ -60,10 +71,10 @@ You may choose to restrict the collection or use of your personal information in
 
 • Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
-• If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [email address]
+• If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e0858e91958992898593a0838f81838888899285ce838f8ddf9395828a858394ddb08c85819385c5d2d0958e939582938392898285c5d2d08d85c5d2d086928f8dc5d2d08d81928b8594898e87c5d2d0858d81898c93)
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to  **CoachHire.com  **551 Fairlie Road, Slough, Berkshire, SL1 4PY.
+You may request details of personal information which we hold about you under the Data Protection Act 1998.  If you would like a copy of the information held on you please write to  **CoachHire.com  **551 Fairlie Road, Slough, Berkshire, SL1 4PY.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
