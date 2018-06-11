@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spiritedbliss.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209092045id_/http%3A//spiritedbliss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritedbliss.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611033819id_/http%3A//spiritedbliss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Spirited Bliss
 
-Your privacy is very important to us at Spirited Bliss, and so we have a few fundamental principles that we follow in order to protect it:
+Your privacy is very important to us at Spirited Bliss, and so we have a few fundamental principles that we follow in order to protect it: 
 
   * We don’t ask you for personal information unless we truly need it.
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
@@ -22,11 +22,19 @@ We are committed to ensuring that your personal information is secure. In order 
 
 **How We Use Cookies:**
 
-Cookies are small files that a site or its service provider places on your computer's hard drive (if you allow it), that enable the sites or service providers systems to recognize your browser and capture and remember certain information. Cookies allow websites to respond to you as an individual. The website provider can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept them, but you can change your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the website. 
+Cookies are small files that a site or its service provider places on your computer's hard drive (if you allow it), that enable the sites or service providers systems to recognize your browser and capture and remember certain information. Cookies allow websites to respond to you as an individual. The website provider can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+
+You can choose to accept or decline cookies. Most web browsers automatically accept them, but you can change your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the website. 
 
 **Third Party Vendors:**
 
-Third party vendors, including Google, use cookies to serve ads to you based on a your prior web site visits to Spirited Bliss and/or other websites. You may opt out of the use of the Google cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
+We use third party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+Third party advertising companies, including Google, use cookies to serve ads to you based on a your prior web site visits to Boredom Therapy and/or other websites. You may opt out of the use of the Google cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
 
 **Links To Third Party Websites:**
 
