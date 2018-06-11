@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cameraegg.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231175244id_/http%3A//www.cameraegg.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cameraegg.org privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611064915id_/http%3A//www.cameraegg.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Camera News at Cameraegg
 
