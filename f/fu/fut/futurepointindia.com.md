@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the futurepointindia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131347id_/http%3A//www.futurepointindia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurepointindia.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611223223id_/http%3A//www.futurepointindia.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## [](https://web.archive.org/)
+
+[ ](https://web.archive.org/)
 
 Our privacy policy and practices are detailed below. Please read them thoroughly.  We make three pledges to you: 
 
@@ -53,9 +57,50 @@ We may collect I.P. addresses for some purposes (for example, to report anonymou
 
 We have security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control.  Only certain employees have access to the information you provide us. For example, we impose strict rules on our employees who have access either to the databases that store user information or to the servers that host our services. While we cannot guarantee that loss, misuse or alteration to data will not occur, we try to prevent such unfortunate occurrences.
 
-If you have questions about this privacy policy or the practices of this site, please [Contact Us](https://web.archive.org/web/20170606131347id_/http%3A//www.futurepointindia.com/contactus.aspx)
+If you have questions about this privacy policy or the practices of this site, please [Contact Us](https://web.archive.org/web/20180611223223id_/http%3A//www.futurepointindia.com/contactus.aspx)
 
 FuturePointIndia.com reserves the right to change this Privacy Policy at any time. All changes will be posted to this page, and we will make necessary efforts to notify you of any significant changes to this privacy policy. 
 
-  
-[](http://www.futurepointindia.com/horoscope-model-comparison/compare-horoscope.aspx)
+[ ](http://www.futurepointindia.com/consultancy/astrology/arun-bansal-1)
+
+[ ](http://www.futurepointindia.com/en/software/leostar/leostar-professional-bilingual-736)
+
+[ ](http://www.futurepointindia.com/products/yantra)
+
+[ ](http://www.futurepointindia.com/emember/facilities)
+
+## Top Horoscope ReportGet your from best selling horoscope reports
+
+There are various Vedic Horoscope models based on Vedic astrology and the user can make any one of his choice
+
+## ConsultancyOur experts are ready to solve your problems.
+
+Get astrology predictions from the renowned astrologers of India. Objective of astrology is to give accurate predictions about future but its utility lies in the correct and effective solutions to our problems. Therefore, you can consult your friendly astrologers not only for knowing what the future has in store for you but also for getting most effective solutions for your problems pertaining to any area of life
+
+####  Arun Bansal
+
+Experience:   40 Year
+
+Detailed Consultancy
+
+__5100 [Consult __](http://www.futurepointindia.com/consultancy/astrology/arun-bansal-1)
+
+####  Yashkaran Sharma
+
+Experience:   25 Year
+
+Detailed Consultancy
+
+__3100 [Consult __](http://www.futurepointindia.com/consultancy/astrology/yashkaran-sharma-2)
+
+####  Abha Bansal
+
+Experience:   15 Year
+
+Detailed Consultancy
+
+__2100 [Consult __](http://www.futurepointindia.com/consultancy/astrology/abha-bansal-7)
+
+## YOU MAY ALSO LIKEAstro Web Apps
+
+__[ ](http://www.futurepointindia.com/horoscope/compare-horoscope-models)
