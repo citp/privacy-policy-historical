@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218055856id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611040306id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
 
-# Luxury Watch Exchange | Auction Sell Buy Trade | privacy
+# Luxury Watch Exchange | Auction Sell Buy FREE | | privacy
 
-[ ](http://www.luxurywatchexchange.com/index.asp)
+[ ](https://www.luxurywatchexchange.com/index.asp)
 
-  * [](http://www.luxurywatchexchange.com/index.asp) [ Home ](http://www.luxurywatchexchange.com/index.asp)
-  * [](http://www.luxurywatchexchange.com/register.asp) [ Register ](http://www.luxurywatchexchange.com/register.asp)
-  * [](http://www.luxurywatchexchange.com/myauction.asp) [ My Account ](http://www.luxurywatchexchange.com/myauction.asp)
+  * [](https://www.luxurywatchexchange.com/index.asp) [ Home ](https://www.luxurywatchexchange.com/index.asp)
+  * [](https://www.luxurywatchexchange.com/register.asp) [ Register ](https://www.luxurywatchexchange.com/register.asp)
+  * [](https://www.luxurywatchexchange.com/myauction.asp) [ My Account ](https://www.luxurywatchexchange.com/myauction.asp)
   * [Forum](https://web.archive.org/login.asp)
-  * [](http://www.luxurywatchexchange.com/buyitem.asp?new_item=1) [Buy ](http://www.luxurywatchexchange.com/buyitem.asp?new_item=1)
-  * [](http://www.luxurywatchexchange.com/sellitem.asp?new_item=1) [ Sell ](http://www.luxurywatchexchange.com/sellitem.asp?new_item=1)
-  * [](http://www.luxurywatchexchange.com/auctionitem.asp?new_item=1) [ Auction ](http://www.luxurywatchexchange.com/auctionitem.asp?new_item=1)
-  * [](http://www.luxurywatchexchange.com/stores.asp) [ Stores ](http://www.luxurywatchexchange.com/stores.asp)
-  * [](http://www.luxurywatchexchange.com/helpgeneral.asp) [ Help ](http://www.luxurywatchexchange.com/helpgeneral.asp)
+  * [](https://www.luxurywatchexchange.com/buyitem.asp?new_item=1) [Buy ](https://www.luxurywatchexchange.com/buyitem.asp?new_item=1)
+  * [](https://www.luxurywatchexchange.com/sellitem.asp?new_item=1) [ Sell ](https://www.luxurywatchexchange.com/sellitem.asp?new_item=1)
+  * [](https://www.luxurywatchexchange.com/auctionitem.asp?new_item=1) [ Auction ](https://www.luxurywatchexchange.com/auctionitem.asp?new_item=1)
+  * [](https://www.luxurywatchexchange.com/stores.asp) [ Stores ](https://www.luxurywatchexchange.com/stores.asp)
+  * [](https://www.luxurywatchexchange.com/helpgeneral.asp) [ Help ](https://www.luxurywatchexchange.com/helpgeneral.asp)
 
 
 
