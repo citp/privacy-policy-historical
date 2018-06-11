@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905123044id_/https%3A//www.fireeye.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireeye.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611110132id_/https%3A//www.fireeye.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | FireEye
 
@@ -6,21 +6,24 @@
 
 FireEye respects your privacy. When using our website, you may get information, communicate with us, or link to other websites with whom we do business. While doing this, you may give us information so that we can provide enhanced products or services to you, as well as personalize your experience on our Website. This online privacy policy describes how FireEye and its affiliates and subsidiaries use and protect Personal Information that you share with us. "Personal Information" is information that enables us to identify you. Examples of this kind of information include your email address, name, title, or mailing address, and there are other similar kinds of information that may be used for the same purpose.
 
-Your privacy, and the privacy of all users of www.fireeye.com, is of the highest priority. If you have any questions, [please email us](mailto:privacy@fireeye.com) .  
+Your privacy, and the privacy of all users of www.fireeye.com, is of the highest priority. If you have any questions, [please email us](mailto:privacy@fireeye.com) .  
 
 
-This policy governs websites owned and operated by FireEye. Our policy does not govern websites of other parties to which we may provide links because FireEye is not responsible for, and cannot control the privacy practices or content of, those sites.
+This policy governs websites owned and operated by FireEye. Our policy does not govern websites of other parties to which we may provide links because FireEye is not responsible for, and cannot control the privacy practices or content of those sites.
 
 Here are the principles governing our information practices and other privacy aspects of our websites:
 
   * Information Collection and Use
   * Information Sharing and Disclosure
-  * Cross-border transfer
-  * Questions or Suggestions
+  * Cross-Border Transfer
   * IP Information Collection and Use Practices
   * Cookies
-  * Data Storage
+  * Data Storage and Security
+  * Your Data Privacy Rights
+  * Dispute Resolution  
+
   * Contact Us
+  * Policy Updates
 
 
 
@@ -49,13 +52,9 @@ Here are the principles governing our information practices and other privacy as
 
   * FireEye complies with the requirements of the [EU-U.S. Privacy Shield Framework, and the Swiss-U.S. Privacy Shield Framework](https://www.privacyshield.gov/welcome), as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. FireEye adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity and purpose limitation, access and recourse, enforcement and liability with respect to all personal information transferred from the EU or Switzerland to the US within the scope of its Privacy Shield certification. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/list>.
   * Certain personal information may be subject to more specific privacy policies of FireEye, which are also consistent with the requirements of the EU-U.S. and Swiss-U.S. [Privacy Shield Framework.](https://www.privacyshield.gov/welcome)
-  * Unless we tell you differently, companies who work on behalf of FireEye do not have any right to use the Personal Information we provide to them beyond what is necessary to assist us. FireEye ensures that those companies are contractually bound to confidentiality and use the data received on behalf of FireEye in line with this Policy and guarantee an adequate level of data protection. FireEye we will remain liable for any failure by the third party that receives personal information on behalf of FireEye, unless we prove that the event giving rise to the damage was solely caused by the third party.
+  * Unless we tell you differently, companies who work on behalf of FireEye do not have any right to use the Personal Information we provide to them beyond what is necessary to assist us. FireEye ensures that those companies are contractually bound to confidentiality and use the data received on behalf of FireEye in line with this Policy and guarantee an adequate level of data protection. FireEye will remain liable for any failure by the third party that receives personal information on behalf of FireEye, unless we prove that the event giving rise to the damage was solely caused by the third party.
 
 
-
-#### Access to Information
-
-FireEye strives to keep your Personal information accurate and up to date. You may request to review, correct or modify and delete the Personal Information that you have previously provided to us, or object to the use or processing of such Personal Information by us. In such cases, please send us the respective request to [privacy@fireeye.com](mailto:privacy@fireeye.com) and we will respond to your requests within 30 days.
 
 #### IP Information Collection and Use Practices
 
@@ -134,7 +133,7 @@ Control via your browser:
   * [Marketo](https://www.marketo.com/company/trust/)
   * [AddThis](http://www.addthis.com/privacy/privacy-policy/#.UCQwl_ZlQmc)
   * [AppNexus](http://www.appnexus.com/cookies)
-  * [DoubleClick](http://www.google.com/settings/ads/onweb/)
+  * [DoubleClick](https://www.google.com/policies/technologies/ads/)
   * [Invite Media](http://www.invitemedia.com/privacy_policy.shtml)
   * [LeadLander](http://www.acumentrics.com/acumentrics-company-history)
   * [Salesforce.com](http://www.salesforce.com/company/privacy/full_privacy.jsp)
@@ -285,6 +284,7 @@ _Account Information_
 
   * When you submit information to FireEye, a temporary copy of that information is routinely made to prevent accidental loss of your information through a computer malfunction or human error.
   * Please note that any information that we have copied may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases.
+  * FireEye does not react to Do Not Track signals because there is no standard for how those signals are sent.
 
 
 
@@ -301,9 +301,21 @@ _Security_
 
 
 
+#### Your Data Privacy Rights
+
+You have a number of rights under relevant data privacy laws, which may include the General Data Protection Regulation (EU) 2016/679. Depending on where you are based, those rights may include the right to (i) request access or copies of your personal data FireEye processes, (ii) rectify incorrect personal data, (iii) delete your personal data, (iv) restrict the processing of your personal data, (v) determine the portability of your personal data, (vi) lodge complaints with competent authorities in your country, and/or (vii) request a list with the names and addresses of any potential recipients of your personal data. To exercise one or more of these rights, or to ask questions or relay concerns, please contact FireEye’s Data Protection Officer:
+
+        Richard Weaver  
+        FireEye, Inc.  
+        12012 Sunset Hills Road, Suite 700  
+        Reston, Virginia  20190  
+        USA  
+        (703) 935-8012  
+        privacy@fireeye.com
+
 #### Dispute Resolution
 
-  * If you believe your Personal Information has been used in a way that is not consistent with this Policy, we invite you to contact FireEye first under [privacy@fireeye.com](mailto:privacy@fireeye.com). We will make all efforts to resolve your complaints timely and accurately. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S. based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+  * If you believe your Personal Information has been used in a way that is not consistent with this Policy, we invite you to contact FireEye first at [privacy@fireeye.com](mailto:privacy@fireeye.com). We will make all efforts to resolve your complaints in a timely and accurate manner. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S. based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
   * Further, FireEye has committed to cooperate with EU Data Protection Authorities (DPAs) and to comply with the information and advice provided to it by an informal panel of DPAs in relation to such unresolved complaints as determined by the Privacy Shield Principles.
   * Under certain conditions, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
 
@@ -315,6 +327,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 #### Policy Updates
 
-We may update our Policy from time to time. We will post the updated version in this section of the website. If the revision is significant and may materially change our data privacy practices , we will notify you by using other means, e.g. via email. We will also keep prior versions of this Policy in an archive for your review (see Change History).
+We may update our Policy from time to time. We will post the updated version in this section of the website. If the revision is significant and may materially change our data privacy practices, we will notify you by using other means, e.g. via email.
 
-Last Updated: July 12, 2017
+Last Updated: April 30, 2018
