@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blacksportsonline.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123023333id_/http%3A//blacksportsonline.com/home/bso-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksportsonline.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611021527id_/http%3A//blacksportsonline.com/home/bso-privacy-policy) for the most accurate reproduction.*
 
-# BSO Privacy Policy | Black Sports Online
+# BSO Privacy Policy | BlackSportsOnline
 
 BlackSportsOnline knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the BlackSportsOnline website, you are accepting the practices outlined in this Privacy Policy.  
 What Does This Privacy Policy Cover?
@@ -71,4 +71,4 @@ Changes to this Privacy Policy
 BlackSportsOnline may amend this Privacy Policy from time to time, at our sole discretion. Use of information we collect is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the BlackSportsOnline website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.  
 Questions?
 
-Please e-mail bso@blacksportsonline.com.
+Please e-mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
