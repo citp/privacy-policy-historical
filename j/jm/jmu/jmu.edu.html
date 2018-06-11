@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jmu.edu privacy policy that was archived on 2017-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228054846id_/https%3A//www.jmu.edu/policies/web-privacy-statement.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jmu.edu privacy policy that was archived on 2018-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180611212437id_/https%3A//www.jmu.edu/policies/web-privacy-statement.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta charset="utf-8"><meta content="width=device-width, initial-scale=1.0" name="viewport">
 <title>James Madison University - Web Privacy Statement</title>
@@ -67,8 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 &nbsp;
 </span>
 </a><ul id="headernav" role="navigation">
-<li><select id="othersites" onchange="window.location=document.getElementById('othersites').options[document.getElementById('othersites').selectedIndex].value">
-       
+<li><select aria-label="Drop-down Select menu: More JMU, Parents, Alumni, Students, Faculty/Staff, Community, Give, JMU News, JMU Events" id="othersites" onchange="window.location=document.getElementById('othersites').options[document.getElementById('othersites').selectedIndex].value">       
                       
    
     <option role="link" value="">More JMU</option>             
@@ -129,8 +128,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                                                                    <li><a alt="Click to toggle or press Enter key to expand and collapse the sub navigation under this item" href="#">Tuition &amp; Financial Aid</a>            <ul>
                                                                                                                                                                                                                                        <li><a href="/admissions/tuition-financial-aid-and-scholarships.shtml" target="_parent">Costs</a></li>                                                                                                                                                                                                                                        <li><a href="/ubo/deposit-payments.shtml" target="_parent">Pay Your Deposit</a></li>                                                                                                                                                                                                                                        <li><a href="/financialaid/index.shtml" target="_parent">Office of Financial Aid</a></li>                 </ul>
         </li>
-                                                                                                                                                       <li><a alt="Click to toggle or press Enter key to expand and collapse the sub navigation under this item" href="#">Student Life</a>            <ul>
-                                                                                                                                                                              <li><a href="https://jmusocialmedia.wordpress.com/" target="_parent">Daily Duke Blog</a></li>                                                                                                                                                                                                                                        <li><a href="/osai/index.shtml" target="_parent">Student Activities</a></li>                                                                                                                                                                                                                                        <li><a href="/news/student-life/index.shtml" target="_parent">Student Life News</a></li>                                                                                                                                                                                                                                        <li><a href="/cap/index.shtml" target="_parent">Career &amp; Academic Planning</a></li>                 </ul>
+                                                                                                                                                                           <li><a alt="Click to toggle or press Enter key to expand and collapse the sub navigation under this item" href="#">Student Life</a>            <ul>
+                                                                                                                                                                                                                                       <li><a href="/engagement/index.shtml" target="_parent">Student Engagement</a></li>                                                                                                                                                                               <li><a href="https://jmusocialmedia.wordpress.com/" target="_parent">Daily Duke Blog</a></li>                                                                                                                                                                                                                                        <li><a href="/osai/index.shtml" target="_parent">Student Activities</a></li>                                                                                                                                                                                                                                        <li><a href="/news/student-life/index.shtml" target="_parent">Student Life News</a></li>                                                                                                                                                                                                                                        <li><a href="/cap/index.shtml" target="_parent">Career &amp; Academic Planning</a></li>                 </ul>
         </li>
                                                                                                                <li><a alt="Click to toggle or press Enter key to expand and collapse the sub navigation under this item" href="#">Athletics</a>            <ul>
                                                                                                                                                                               <li><a href="http://jmusports.com" target="_parent">JMU Sports</a></li>                                                                                                                                                                                                                                        <li><a href="/recreation/index.shtml" target="_parent">Recreation</a></li>                 </ul>
@@ -440,7 +439,8 @@ $(document).ready(function(){
 
 
 
-<xhtml-block><script>
+<xhtml-block>
+<script>
 var lteIE9=false;
 var lteIE7=false;
 </script>
@@ -472,9 +472,7 @@ lteIE7=true;
 <script type="text/javascript">$(document).ready(function(){ // function by johns2ja
     var firstopen = true; 
         $('#responsive-menu-button').click(function(){
-        if($(this).html()=='+'){
-            $(this).html('-');
-            if(!lteIE9){
+        if($(this).html().indexOf('id="leftnavopen"')!=-1){             $(this).html('<img aria-label="Close left navigation" id="leftnavclose" src="//www.jmu.edu/_images/icons-shared/buttons/nav-arrow-right.png" title="close"/>');             if(!lteIE9){
                 //
             } else { $(this).css('top','0px'); } // -25px
             $('#mainpagecontent').show().animate({
@@ -487,8 +485,7 @@ lteIE7=true;
             });
             if(firstopen){$('#sidebar').show();}
         } else {
-            $(this).html('+');
-            //$(this).css('top','60px');
+            $(this).html('<img aria-label="Open left navigation" id="leftnavopen" src="//www.jmu.edu/_images/icons-shared/buttons/nav-arrow-left.png" title="open"/>');             //$(this).css('top','60px');
             if(lteIE9){
                 //$('#maincontentwrapper table tr td#nav').css('width','0px');
                 $('#maincontentwrapper .tabular .tabular-row .tabular-nav').css('width','0px');
@@ -521,8 +518,7 @@ lteIE7=true;
     </script>
     <!-- start sidebar-->
     <div id="mobile-header">
-        <a href="#sidenav" id="responsive-menu-button" role="link">+</a>
-    </div>
+        <a href="#sidenav" id="responsive-menu-button" onlick="this.style.border='0px'" role="link" style="border: 0px;margin-left: -3px;margin-top: 2px;outline: 0px;"><img aria-label="Open left navigation" id="leftnavopen" src="//www.jmu.edu/_images/icons-shared/buttons/nav-arrow-left.png" title="open"></a>    </div>
     <style type="text/css">
         <!--
 #sidebar {
@@ -648,8 +644,8 @@ $(document).ready(function(){
         var currentItem = $(this);
         currentItem.toggle();
         currentItem.parent().css('background','url(//www.jmu.edu/jmucmsfiles/images/sidebar-side-arrow-gold.png)'); 
-        currentItem.parent().css('background-repeat','no-repeat'); 
-        currentItem.parent().css('background-position',navbgpos); 
+        currentItem.parent().css('background-repeat','no-repeat');
+        if(currentItem.parent().parent().hasClass('subn')){navbgpos="96.5% 11px";}else{navbgpos="96.5% 16px";}        currentItem.parent().css('background-position',navbgpos); 
         var childlink; var childlinkmon;
         currentItem.click(function(){
              childlink = 0; // prevents collapse effect when clicking on child link in expanded nav
@@ -756,10 +752,17 @@ $(document).ready(function(){
                     // do nothing
         } else if(myhref.charAt(0)=='/') { myhref=myhref } else { myhref=myhref; }
         //$('#navlog').html($('#navlog').html() + '<br/><b>myhref</b> = '+myhref);    
-        if(location.href.indexOf(myhref) != -1){
+                ok=true;
+        if(location.href.indexOf('/events/') != -1){ 
+            ok = false; 
+            if(myhref.indexOf('/events/') != -1){
+                ok = true; 
+            }
+        }
+                if(ok){        if(location.href.indexOf(myhref) != -1){
             if(location.href.indexOf('#link') == -1) { /* johns2ja - conditioned to prevent unnecessary hightlights 24 March 2014 */ $(this).css("background","#ccb062"); $(this).css("font-weight","bold"); /* bold per marketing */  }
         } 
-        } // if not undefined
+        }         } // if not undefined
     });
     
     
@@ -786,17 +789,23 @@ $(document).ready(function(){
                 if(myhref.indexOf(linkProtocol) != -1) { 
                     // do nothing
         } else if(myhref.charAt(0)=='/') { myhref=myhref } else { myhref=myhref; }
-        if(location.href.indexOf(myhref) != -1){
-           if($(this).parent().attr('class')!='third'){ // 10 september 2015
-            $(this).parent().parent().toggle();
-           }
-           $(this).parent().css("background","#ccb062");
+        
+                ok=true;
+        if(location.href.indexOf('/events/') != -1){ 
+            ok = false; 
+            if(myhref.indexOf('/events/') != -1){
+                ok = true; 
+            }
+        }
+                if(ok){        if(location.href.indexOf(myhref) != -1){
+                       $(this).parent().parent().toggle();
+                      $(this).parent().css("background","#ccb062");
            if($(this).parent().parent().parent().css("border-right")!='1px solid #d6d6d6'){ // 10 september 2015
             $(this).parent().parent().parent().css("border-right","1px solid #d6d6d6"); /* 9 september 2015 */
            }
            $('#sidebar .custnav ul li ul li').css("border-right","0px"); // 10 september 2015
         }     
-    });
+        }    });
     
     $('#sidebar .custnav ul li ul.subn li ul li a').each(function(){  // expand parent if on grandchild  
         //does URL have http:// or https://?
@@ -821,12 +830,19 @@ $(document).ready(function(){
                 if(myhref.indexOf(linkProtocol) != -1) { 
                     // do nothing
         } else if(myhref.charAt(0)=='/') { myhref=myhref } else { myhref=myhref; }
-        if(location.href.indexOf(myhref) != -1){
+                ok=true;
+        if(location.href.indexOf('/events/') != -1){ 
+            ok = false; 
+            if(myhref.indexOf('/events/') != -1){
+                ok = true; 
+            }
+        }
+                if(ok){        if(location.href.indexOf(myhref) != -1){
                 $(this).parent().parent().parent().parent().toggle();
                 $(this).parent().css("background","#ccb062");
                 $(this).parent().parent().parent().parent().parent().css("border-right","1px solid #d6d6d6");  /* 9 september 2015 */
         } 
-    });
+        }    });
       
         $('#sidebar .custnav ul li ul.subn').each(function(){ // expansion retained and nav arrows modified  
             if($(this).is(":visible")){
@@ -890,7 +906,7 @@ $(window).load(function(){
                 <li style="">                                                          <a href="javascript:void(0)" role="link">Main Link 3</a>
                                             </li>
 
-
+  
 
     </ul>
 <div id="sidebarbelow"><!-- start sidebarbelow -->
@@ -902,7 +918,65 @@ $(window).load(function(){
             <!-- sidebar -->
             <div></div>
         </div>
-    </div></xhtml-block>
+    </div>
+    
+
+<script type="text/javascript">// <![CDATA[
+// function by James &#8220;Jamie&#8221; Arthur Johnson, johns2ja @jamesarthurjohn
+function isiPhone(){
+    return (
+        (navigator.platform.indexOf("iPhone") != -1) ||
+        (navigator.platform.indexOf("iPod") != -1)
+    );
+}
+
+
+function navdrawer(e){     if($('#responsive-menu-button').html()=='-'){     var container = $("#sidebar");
+    var container2 = $("#responsive-menu-button"); 
+    if (!container2.is(e.target) && !container.is(e.target)&& container.has(e.target).length === 0) {
+        if($('#mobile-header').css('display')!='none'){
+                $('#responsive-menu-button').click();
+        }
+    }
+    } }
+$(document).mouseup(function (e){     navdrawer(e);});
+
+
+if(isiPhone()){
+$(document).on( "touchend", function(e){ 
+    navdrawer(e);});
+}
+
+$('#responsive-menu-button').click(function(){
+ $(this).css('border','0px');   
+});
+// ]]></script>
+<script>
+$(document).ready(function(){
+var havebreadcrumbs = $('.rcrumbs').html(); 
+if (typeof havebreadcrumbs === 'undefined') {
+ // no breadcrumbs
+} else {
+    $('#responsive-menu-button').css('top','16px'); 
+}
+});
+</script>
+<style>
+@media all and (min-width: 120px){
+    #titles #pagetitle {padding-left: 35px; }
+    
+}
+@media all and (min-width: 769px){
+    #titles #pagetitle {padding-left: 30px; }
+}
+@media all and (max-width: 9999999px){
+    .rcrumbs { margin-left: 0px; }
+}
+@media all and (max-width: 768px){
+    .rcrumbs { margin-left: 35px; }
+}
+</style>
+</xhtml-block>
 
 
 
@@ -1198,7 +1272,9 @@ $(window).load(function(){ // using window load function instead of document rea
 
 
 <xhtml-block>
+
 <div class="yui3-u-1" id="footertext">    <div class="pagecontainer">
+    
         
     <div class="yui3-u-1-3" id="logo">
                             <a href="http://www.jmu.edu"><img alt="James Madison University" class="rwdimgauto" src="//www.jmu.edu/jmucmsfiles/images/rwd-footer/JMU-Logo-Grey.png" style="border: 0;" title="James Madison University"></a>
@@ -1214,16 +1290,24 @@ $(window).load(function(){ // using window load function instead of document rea
 <p><a href="http://www.jmu.edu/titleIX/index.shtml" title="Title IX Policies">Title IX Policies</a></p>
 <p><a href="http://www.jmu.edu/budgetmgmt/forms/student-consumer-information.pdf">Student Consumer Information</a></p>
 <p><a href="http://www.jmu.edu/publicsafety/clerycompliance/righttoknow.shtml" title="Annual Security and Fire Safety Report">Annual Security and Fire Safety Report</a></p>
-<p>© <script type="text/javascript">
+<p>©<!--x20180117 BEGIN--> <span id="copyrightdate">2020</span> <script type="text/javascript">
 // <![CDATA[
 var theDate=new Date()
-document.write(theDate.getFullYear())
+            document.getElementById('copyrightdate').innerHTML = theDate.getFullYear();
 // ]]>
-</script>2020
- &nbsp;<a href="http://www.jmu.edu" title="James Madison University">JAMES MADISON UNIVERSITY</a></p>
+</script>
+ <!-- x20180117 END--> <!-- x20180117 2018&#160;&#160;--><a href="http://www.jmu.edu" title="James Madison University">JAMES MADISON UNIVERSITY</a></p>
         </div>
     </div><!-- page container -->
 </div>
+<script>
+$(document).ready(function(){
+if($('#templateofpage').html()=='Secondary'){
+    ftpc = $('#footertext .pagecontainer').html();
+    $('#footertext .pagecontainer').html('<div class="yui3-u-4-5" id="footertextalign">'+ftpc+'<style>#footertextalign { float:right; }   @media all and (max-width:768px){  #footertextalign { float:none; } } @media all and (min-width:769px){#footertext #footertextalign {white-space:nowrap; }}</style></div>');
+}
+});
+</script>
 
 </xhtml-block>
 
