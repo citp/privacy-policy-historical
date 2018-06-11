@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkbabynames.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230230618id_/http%3A//www.thinkbabynames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbabynames.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611174812id_/http%3A//www.thinkbabynames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Think Baby Names
 
@@ -22,7 +22,7 @@ The primary goal of ThinkBabyNames.com in collecting personal information is to 
 
 ## Who is collecting your information
 
-When you are asked for personal information on ThinkBabyNames.com, you are sharing that information with ThinkBabyNames.com alone, unless it is specifically stated otherwise. 
+When you are asked for personal information on ThinkBabyNames.com, you are sharing that information with ThinkBabyNames.com alone, unless it is specifically stated otherwise. Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com). 
 
 ## With whom your information may be shared
 
