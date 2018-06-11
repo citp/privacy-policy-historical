@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentpayment.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222123325id_/http%3A//www.yapstone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentpayment.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611150356id_/https%3A//www.yapstone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy U.S. | YapStone, Payment Service Provider
+# Privacy Policy U.S.
 
 Thank you for visiting a website owned by YapStone, Inc. (“we”, “us” and “our”). Your privacy is important to us.  In order to better protect your privacy, we have developed this privacy policy (“ ** _Privacy Policy_** ”).
 
@@ -66,8 +66,8 @@ We may occasionally use a “ **click-through URL** ”. When you click one of t
 
 You can learn more about cookies at the following third-party websites:
 
-  * AllAboutCookies: <http://www.allaboutcookies.org/>
-  * Network Advertising Initiative: <http://www.networkadvertising.org/>
+  * AllAboutCookies: <https://www.allaboutcookies.org/>
+  * Network Advertising Initiative: <https://www.networkadvertising.org/>
 
 
 
