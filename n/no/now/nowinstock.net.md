@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206024339id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611175430id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NowInStock.net
 
@@ -14,7 +14,6 @@ NowInStock.net uses cookies. When cookies are implemented by NowInStock.net dire
 
   * **NowInStock.net:**
     * User information cookies - these allow you to remain logged into our account management system. Since you are only signing up with an email address, this is the only information that is ever accessible to us. For TXT alerts, we need to store your phone number so we can direct TXT message to you. We NEVER share your information with anyone, ever, PERIOD.
-    * Deal Promotion cookie - We use a cookie to track the the Deals you promote on NowInStock.net within our [deals section](http://www.nowinstock.net/deals/) of the site. This allows use to show you which deals you have already promoted.
   * **Analytics** : 
     * **Google Analytics** \- this is the web analytics service which NowInStock.net uses to monitor visitors to our site and how users interact with NowInStock.net. No personal information is ever stored or trapped by NowInStock.net in regards to analytics. Google only stores anonymous data. To learn more about Google Analytics privacy, please visit: <http://www.google.com/analytics/learn/privacy.html>
   * **Social Widgets** : 
