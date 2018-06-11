@@ -1,39 +1,84 @@
-> *The following text is extracted and transformed from the adjux.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201172402id_/http%3A//www.adjux.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjux.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612003646id_/http%3A//www.adjux.com/privacy.html) for the most accurate reproduction.*
 
 # Adjux | Internet Advertising Network
 
-Exact Reklamcılık ve Pazarlama ("Exact") operates Adjux.com and may operate other websites. It is Exact's policy to respect your privacy regarding any information we may collect while operating our websites.
+Okan Atmaca T/A Adjux Media ("Adjux") operates Adjux.com and may operate other websites. It is Adjux's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-### Website Visitors
+### Our business
 
-Like most website operators, Exact collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Exact's purpose in collecting non-personally identifying information is to better understand how Exact's visitors use its website. From time to time, Exact may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Adjux's technology powers advertisements that can appear on websites and applications on mobile phones or other devices connected to the internet. You may interact directly with our servers (for example, when you click on an ad) or indirectly via the a web site or mobile application that displays the ads.
 
-Exact also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Adjux.com blogs/sites. Exact only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+### Commitment to Privacy
 
-### Gathering of Personally-Identifying Information
+The European Union ("EU") maintains strict privacy laws through General Data Privacy Regulation ("GDPR") and protecting our customer's data is a main concern to ensure that we maintain the required compliance with the governing authorities.
 
-Certain visitors to Exact's websites choose to interact with Exact in ways that require Exact to gather personally-identifying information. The amount and type of information that Exact gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [Adjux.com](http://www.adjux.com/) to provide a username and email address. Those who engage in transactions with Exact are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Exact collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Exact. Exact does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+### Purpose of data collection
 
-### Aggregated Statistics
+With each interaction between your device and our ad servers we collect certain information, which we will describe below. We use this information in order to help deliver more interesting and relevant ads to you, in order to provide to our customers and partners reports that contain aggregated data (for instance, the number of ads delivered each day, the number of clicks on those ads, and so on), in order to analyze trends, and in order to perform fraud detection.
 
-Exact may collect statistics about the behavior of visitors to its websites. Exact may display this information publicly or provide it to others. However, Exact does not disclose personally-identifying information other than as described below.
+### Information collected
 
-### Protection of Certain Personally-Identifying Information
+We do not collect personally identifiable information about you. We do, however, record and use information that is not personally identifiable, including but not limited to the following:
 
-Exact discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Exact's behalf or to provide services available at Exact's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Exact's websites, you consent to the transfer of such information to them. Exact will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Exact discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Exact believes in good faith that disclosure is reasonably necessary to protect the property or rights of Exact, third parties or the public at large. If you are a registered user of an Exact website and have supplied your email address, Exact may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Exact and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Exact takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+  * the IP address of your device on the internet, to do geo-targeting, to identify your mobile operator, connection type, and other details;
 
-### Cookies
+  * the ‘user agent’ of your browser or application, and other relevant request headers, to help us identify your device type;
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Adjux.com uses cookies to help Exact identify and track visitors, their usage of website, and their website access preferences. Adjux.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Adjux.com, with the drawback that certain features of Exact's websites may not function properly without the aid of cookies.
+  * the date and time of the ad request or interaction;
 
-### Business Transfers
+  * and a unique identifier, such as an HTTP cookie or your device advertising identifier, that enables us not to show you the same ad over and over again.
 
-If Exact, or substantially all of its assets, were acquired, or in the unlikely event that Exact goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Exact may continue to use your personal information as set forth in this policy.
 
-### Ads
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Exact and does not cover the use of cookies by any advertisers.
+
+From our partners, which include businesses, networks, agencies, publishers, and advertisers; we do collect personal information to identify the client to an account. The collection of this information is on a lawful basis, to which consent has been expressly given, and is part of Adjux's normal business practices. These partners will be asked to provide personal information through the signup and registration process. This information is used to communicate the status of an account or billing and may include, but is not limited to: name, phone number, email address, website name, address and bank details.
+
+### Use of information
+
+We may use this non personally identifiable information along with our technology in order to provide ads that are likely to be more interesting and more relevant to users to target advertising (this is also known as behavioral, or interest-based advertising).
+
+We sometimes use cookies or device identifiers to help us track whether you complete specific actions on an advertiser’s web site or application, as this is needed for analytical purposes, and in order to monitor the performance of our ads. These cookies or identifiers expire within 30 days.
+
+We may also use some of this data to provide interest-based advertising.
+
+### Opt-out
+
+Opting Out is easy; when a you opt-out we will no longer be able to recognize and serve contextual or retargeted advertising to you. By you clicking on the opt-out button below, we will recognize that you are no longer are interested in receiving our advertising and will disable Adjux's and its Partners the ability to deliver ads to you.
+
+### Your Data Rights
+
+If you are in the EEA, you have a right to (subject to a limited number of exceptions): (i) request access to and rectification or erasure of your personal information; (ii) obtain restriction of processing or to object to processing of your personal information; and (iii) ask for a copy of your personal information to be provided to them, or a third party, in a digital format. You also have the right to lodge a complaint about the processing of your personal information with your local data protection authority in the EEA.
+
+If you are a client, and would like the personal information Adjux holds about you to be corrected or updated please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) For the deletion and erasure of personal information, email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to begin the process and we will respond to your request within 30 days.
+
+### The Protection of Minors
+
+The Site does not knowingly collect any personal information from minors. The personal information of any minor you provide shall be agreed by the minor's parent or guardian in advance. Minor is defined in accordance with the laws applicable to the Privacy Policy.
+
+### Retargeting campaigns
+
+We may run retargeting campaigns based on user lists provided directly by the advertisers, to reach a precise audience.
+
+### Marketing campaigns
+
+We may contact our partners, which include businesses, networks, agencies, publishers, and advertisers; periodically by e-mail to provide information regarding our discounts, products, services and content that may be of interest to you. If applicable law requires that we receive your consent before we send you certain types of marketing communications, we will only send you those types of communications after receiving your consent.
+
+If you decide at any time that you no longer wish to receive such communications from us, you may follow the unsubscribe instructions provided in any of the communications or request to be opted-out of receiving such communications via email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+### Changes to privacy policy
+
+Adjux is committed to continually examining and reviewing its privacy practices, and may make changes to its Privacy Policy. In the event that material changes are made, the Privacy Policy on this website will be changed. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your continued use of the Site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+### Your acceptance of these terms
+
+By using this Site, you are acceptancing the consent and practices described in this policy and terms of use. If you do not agree to this policy, please do not use this Site.
+
+### Questions and concerns:
+
+If you have any questions or concerns about our privacy practices, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, Exact may change its Privacy Policy from time to time, and in Exact's sole discretion. Exact encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Adjux.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, Adjux may change its Privacy Policy from time to time, and in Adjux's sole discretion. Adjux encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Adjux.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
