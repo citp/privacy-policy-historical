@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livetrucking.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203020419id_/http%3A//www.livetrucking.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetrucking.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611035910id_/http%3A//livetrucking.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - LiveTrucking.com
 
@@ -60,6 +60,6 @@ Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-info@livetrucking.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on October 28th, 2015
