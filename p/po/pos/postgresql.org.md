@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the postgresql.org privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228010449id_/https%3A//www.postgresql.org/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postgresql.org privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611174953id_/https%3A//www.postgresql.org/about/privacypolicy) for the most accurate reproduction.*
 
 # PostgreSQL: Privacy Policy
 
 When you visit our website, our servers automatically log your IP address and/or host name.
 
-We store information such as your email address, name and locality only if you decide to send us such information by completing a survey, or registering as a user on one of our sites. We collect this information to help us improve the content of our sites, customize the layout of our web pages and to contact people for technical and support purposes. We will not share your email address with other organizations unless required by law.
+We store information such as your email address, name and locality only if you decide to send us such information by completing a survey, or registering as a user on one of our sites. We collect this information to help us improve the content of our sites, customize the layout of our web pages and to contact people for technical and support purposes. We will not share your email address with other organisations unless required by law.
 
 If you submit content to the website, such as listing your company as a service provider, the information you submitted will be published.
 
-If you post a message to one of our public mailinglists, your sending email address and any content of the email will be published, and archived, both by us and by other organizations. These archives are permanent, and posted emails are not removed. By sending a message to one of these lists you implicitly grant permission for this archival, overriding any disclaimers in the message itself.
+If you post a message to one of our public mailinglists, your sending email address and any content of the email will be published, and archived, both by us and by other organisations. These archives are permanent, and posted emails are not removed. By sending a message to one of these lists you implicitly grant permission for this archival, overriding any disclaimers in the message itself.
 
 We may collect demographic and interest category information from people via surveys, volunteered information, suggestions from members, and other means. Our members may voluntarily provide information, including that regarding personal, interests, geography, and demographics. The purpose of this data collection is to ensure we continue to understand the needs and wants of the PostgreSQL community, and therefore can provide the most relevant information, guides, and content.
 
