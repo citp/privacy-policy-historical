@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alriza.net privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215101508id_/http%3A//www.alriza.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alriza.net privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611222401id_/http%3A//www.alriza.net/privacy) for the most accurate reproduction.*
 
 # alriza.net - Privacy Policy
 
@@ -12,7 +12,7 @@ Eimhir Ltd defines personal information as information about an individual that 
   * Security information such as password
   * Contact information such as address
   * Billing information such as credit card, expiration date, billing address and account history
-  * Site preferences such as game categories you frequently browse
+  * Site preferences such as games categories you frequently browse
   * Ratings and reviews of games
   * Lists of games, such as for online subscription, rental or purchase
   * E-newsletter selections and preferences
@@ -31,7 +31,7 @@ Eimhir Ltd collects personal information from you when you voluntarily submit th
 
 ### What Happens When I Register On The Web Site?
 
-In order to use certain features of this Web Site, a User must first complete a registration process. During registration a User is required to provide basic contact information (such as name and e-mail address) and establish a password. Depending on the feature being used, the User may be required to provide other information associated with the use of that particular feature. For example, a User signing up for our subscription service will be required to provide an address for proof of location and financial information in the form of a credit card and expiration date for billing purposes,licensing porposes and future charges. Users signing up for our e-newsletter service may enter the types of games or games in which they are interested and about which they wish to receive information in the newsletter.
+In order to use certain features of this Web Site, a User must first complete a registration process. During registration a User is required to provide basic contact information (such as name and e-mail address) and establish a password. Depending on the feature being used, the User may be required to provide other information associated with the use of that particular feature. For example, a User signing up for our subscription service will be required to provide an address for proof of location and financial information in the form of a credit card and expiration date for billing purposes,licensing porposes and future charges. Users signing up for our e-newsletter service may enter the types of games in which they are interested and about which they wish to receive information in the newsletter.
 
 ### What Happens When I Place An Order On The Web Site?
 
@@ -71,13 +71,13 @@ Transfer of Personal Information to Third Party Goods and Services Providers. Ei
 
 Eimhir Ltd, its affiliates and its subsidiaries (if permitted by Eimhir Ltd) on occasion may disclose to their affiliates and business partners certain data, such as names and addresses and the genre of products rented or purchased by Users or Members, so that the business partner may send their own direct marketing communications to Users and Members. Eimhir Ltd will not provide User or Member e-mail addresses to affiliates or business partners, unless the User or Member has provided express permission to Eimhir Ltd. If you would prefer that Eimhir Ltd not disclose your personal information to its affiliates or business partners for direct marketing purposes, subject to legal, or contractual restrictions and legal notice you may opt out of such uses and/or disclosures by (a) checking the appropriate "Opt Out" box in any applicable e-mail communication or e-newsletter, (b) visiting www.alriza.net, selecting 'Contact Us'.
 
-Third Party Features. From time to time Eimhir Ltd may include additional features and functionality from third parties on our Web Sites. Certain of these features and functions, may require Eimhir Ltd to send selected information about you, such as information about your game queue, to the third party. If you do not wish for Eimhir Ltd to share this information, you will have a reasonable opportunity to opt-out of these third-party features and functions. Eimhir Ltd will never send your password or your financial information to any third party through these features or functions.
+Third Party Features. From time to time Eimhir Ltd may include additional features and functionality from third parties on our Web Sites. Certainty of these features and functions, may require Eimhir Ltd to send selected information about your games queue, to the third party. If you do not wish for Eimhir Ltd to share this information, you will have a reasonable opportunity to opt-out of these third-party features and functions. Eimhir Ltd will never send your password or your financial information to any third party through these features or functions.
 
 Cleaned Data. We periodically remove from personal information data that can be used to identify individuals for example by summarizing, aggregating or removing certain data elements. The resulting cleaned data is no longer considered personal information and is not subject to this Privacy Policy. The cleaned data may be published by Eimhir Ltd and provided to various third parties.
 
 Disclosures Attendant to a Merger or Acquisition. If Eimhir Ltd or its assets are acquired by another company, your personal information may be disclosed to the acquiring company to allow it to fulfill your order or provide the products, services or information that Eimhir Ltd would otherwise provide to you and generally to carry on the Eimhir Ltd business. We may also use and disclose your personal information to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties. We will require such parties to treat your personal information in accordance with this privacy policy and to use and disclose it only for the purposes for which it was collected.
 
-Public postings. If you disclose your personal information in a manner that will be posted publicly such as in a product review your posting will be seen by others. In addition, if you elect to participate in certain community features offered from time to time, selected information about you, including information about your game queue, may be shared with other participants in these community features. Also, Eimhir Ltd may make it possible for certain third party web sites to be accessed directly from our Web Sites and for selected information about you to be provided to these third party web sites if you are also a user of these third party web sites. If a third party web site allows other users to view information about you (e.g., through posting to a publicly available profile page), the information provided by Eimhir Ltd will be visible to other users of the third party web site.
+Public postings. If you disclose your personal information in a manner that will be posted publicly such as in a product review your posting will be seen by others. In addition, if you elect to participate in certain community features offered from time to time, selected information about you, including information about your games queue, may be shared with other participants in these community features. Also, Eimhir Ltd may make it possible for certain third party web sites to be accessed directly from our Web Sites and for selected information about you to be provided to these third party web sites if you are also a user of these third party web sites. If a third party web site allows other users to view information about you (e.g., through posting to a publicly available profile page), the information provided by Eimhir Ltd will be visible to other users of the third party web site.
 
 ### How does Eimhir Ltd Protect Personal Information?
 
@@ -91,7 +91,7 @@ This Privacy Policy applies solely to information collected by Eimhir Ltd. Howev
 
 If a User's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a User no longer desires our service, we provide a way to correct or, update or delete/deactivate Users' personally identifiable information. You can review or change some of your personal information as follows:
 
-You can review and change certain account related information by visiting Eimhir Ltd, submiting suitable identification and giving the Eimhir Ltd your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc.
+You can review and change certain account related information by visiting Eimhir Ltd, submitting suitable identification and giving the Eimhir Ltd your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc.
 
 You can review and change certain Site related information by visiting the Site, entering your e-mail address and password and accessing the "My Account" area.
 
