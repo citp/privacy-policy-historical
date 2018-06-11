@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the nextworth.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227163733id_/https%3A//www.nextworth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextworth.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611030546id_/https%3A//www.nextworth.com/privacy-policy) for the most accurate reproduction.*
 
 # NextWorth - Privacy Policy
 
 **Effective Date: April 7, 2014**
 
-## NextWorth Solutions, Inc. protects your privacy. We strive to keep your personal information confidential.
+## NWSC-I LLC protects your privacy. We strive to keep your personal information confidential.
 
 Your privacy is our priority and we understand that you entrust us with the security of your information.
 
-This Privacy Policy outlines the collection of, type of and use and disclosure of Personal Information that is collected by NextWorth Solutions, Inc. (NextWorth, we, us, our) from consumers and our Client on our Web site www.nextworth.com and through the NextWorth Platform and how we use and protect it. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged NextWorth Solutions, Inc.
+This Privacy Policy outlines the collection of, type of and use and disclosure of Personal Information that is collected by NWSC-I LLC (NextWorth, we, us, our) from consumers and our Client on our Web site www.nextworth.com and through the NextWorth Platform and how we use and protect it. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged NWSC-I LLC
 
-NextWorth Solutions, Inc. complies with the U.S. E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. NextWorth Solutions, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view NextWorth Solutions, Inc.s certification, please visit http://www.export.gov/safeharbor/.
+NWSC-I LLC complies with the U.S. E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. NWSC-I LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view NWSC-I LLCs certification, please visit http://www.export.gov/safeharbor/.
 
 This Policy applies to NextWorths Web site, the NextWorth Platform, and to its collection of data through printed promotional materials such as customer comment cards, sweepstakes entry forms, or other mail-in offers and telephone calls to NextWorth. By providing NextWorth with Personal Information, you signify that you agree with the terms of our current Privacy Policy as posted here. If you do not agree with any term in this Policy, please do not provide any Personal Information. As used in this Privacy Policy, “Personal Information” means personally identifiable information such as name, street address, telephone number, credit card information, screen name and email address.
 
@@ -81,4 +81,4 @@ We will retain your information for as long as your account is active or as need
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Please write to us at CustomerService@NextWorth.com or at NextWorth Solutions, Inc. 900 Technology Park Drive, Suite 200, Billerica, MA 01821, or call us at 888-400-3021 if you have any comments or questions about this Privacy Policy.
+Please email us at customerservice@NextWorth.com, or write to us at NWSC-I LLC, 50 Burlington Mall Rd. Ste G-18, Burlington, MA 01803, or call us toll free at (844) 387-1106 if you have any comments or questions about this Privacy Policy.
