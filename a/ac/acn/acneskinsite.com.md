@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acneskinsite.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207193524id_/http%3A//www.acneskinsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acneskinsite.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611103719id_/http%3A//www.acneskinsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Acne Skin Site » PRIVACY POLICY
 
