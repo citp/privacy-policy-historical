@@ -1,0 +1,39 @@
+> *The following text is extracted and transformed from the 2dbattleroyale.org privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611092008id_/http%3A//2dbattleroyale.org/privacy.txt) for the most accurate reproduction.*
+
+# 
+
+
+    surviv.io Privacy Policy
+    
+    What information do we collect from people that visit our site?
+    
+    When you enter or interact with our site, we may collect technical information about the computer used to connect to our site, including IP address, operating system, browser name and other similar information.
+    
+    Do you collect any personally identifiable information?
+    
+    Users may visit and use our site anonymously. When signing into our site using social network credentials, such as Facebook or Google, you are granting permission to the social network to share your user details with us. If you remove our app from your social network settings, we will no longer have access to these details.
+    
+    What is this information used for?
+    
+    Collecting technical data allows us to more easily discover and resolve technical issues, as well as optimize our software to improve the user experience. We also use collected information to create a more personalized experience for the user while visiting our site.
+    
+    Do we use 'cookies'?
+    
+    We use cookies to personalize content and ads, to provide social media features, and to analyze our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you've provided to them or that they've collected from your use of their services. You consent to our cookies if you continue to use our website.
+    
+    You can at any time change or withdraw your consent through the "cookie policy" link on our website.
+    
+    Third-party disclosure
+    
+    We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. We may release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety.
+    
+    Third-party vendors
+    
+    Third-party vendors, such as Google, use cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+    
+    Policy changes
+    
+    Our privacy policy may change from time to time. Any changes we may make to our privacy policy will be posted on this page.
+    
+    --- Last updated on 05/25/2018 ---
+    
