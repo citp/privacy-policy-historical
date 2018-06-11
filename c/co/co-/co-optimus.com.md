@@ -1,39 +1,78 @@
-> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208123009id_/http%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611102555id_/http%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
 
 # Co-Optimus - Your Prime Source for Co-Op Gaming - Privacy Policy Page
 
 ## Co-Optimus - Web Site Privacy Policy
 
-This privacy policy describes the Co-Optimus’s current policies and practices with regard to personal data collected by the Co-Optimus through this web site. This privacy policy does not apply to information collected offline or in any other way. The term "personal data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that identifies you personally.
+_Last updated 5/15/2018_
 
-Your Consent. By using this web site or any Co-Optimus Web site, you consent to our use of your personal data as described in this privacy policy.
+This privacy policy sets out how Co-Optimus / BA Productions LLC uses and protects any information that you give Co-Optimus / BA Productions LLC when you use this website.
 
-Notification Of Changes To This Policy. The Co-Optimus is continually improving and adding new functionality and features to this web site and improving and adding to its existing services and programs. Because of these ongoing changes, changes in the law and the changing nature of technology, the Co-Optimus’s data practices will change from time to time. If and when our data practices change, the Co-Optimus will post the changes on this web site to notify you of the changes. We encourage you to check this page frequently.
+Co-Optimus / BA Productions LLC is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Personal Data Collected Through This Web Site. The only personal data the Co-Optimus currently collects through this web site is the information you give us when you use our site. This includes, for example, the information you provide when you register for a chat room, newsletter or other program or service or when you send us your comments or requests for information.
+Co-Optimus / BA Productions LLC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 5/15/2018.
 
-The Co-Optimus uses the information you provide for the purposes for which it was originally collected, for example, to respond to your e-mail or provide the programs or services you requested. The Co-Optimus also uses this information to help us improve the content and functionality of our web sites, to better understand the needs and interests of the people and organizations that use our web site, and to improve our programs and services. The Co-Optimus may use this information to contact you in the future to tell you about organizations, programs, services, and other things we believe will be of interest to you or to ask for your support.
+### What we collect
 
-The Co-Optimus may share the personal information you provide to us with consultants and other third parties who act for or on behalf of the Co-Optimus, for further processing or analysis. In addition, there may be some other, limited circumstances in which the Co-Optimus may share or transfer the personal information in its databases, for example, to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of our databases or this web site, to take precautions against legal liability, or in the event of a corporate merger, reorganization, dissolution or similar event.
+We may collect the following information:
 
-Anonymous Data Collected Through Co-Optimus Websites. In addition to the information you provide when you use our web site, The Co-Optimus uses technology to collect anonymous information about the use of our web site. For example, we use technology to track how many visitors access our web site, the date and time of their visit, the length of their stay, and which pages they view. We also use technology to determine which web browsers our visitors use and the address from which they accessed our site.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
+  * Possible information from your Steam profile, if you link your account.
+  * Inforamation about your Xbox Live, PSN, or other online service profile, if you enter this information
 
-This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our site. The Co-Optimus uses this anonymous data and shares it with third-parties for various reasons, for example, to improve the content and functionality of our web site, to better understand the needs and interests of our visitors, to improve our programs and services.
 
-Cookies. In order to collect the anonymous data described in the preceding paragraph, the Co-Optimus may use temporary "cookies" that collect the first level domain name of the user (for example, if your e-mail address is "name@xyz.com," the cookie collects the "xyz.com" portion of your e-mail address) and the date and time you accessed this Web site. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. At the present time, the Co-Optimus only uses temporary or "session" cookies. These "session" cookies expire when your browser window is closed.
 
-In order for certain applications on the Co-Optimus’s websites to function properly, if at all, it is necessary for your computer to accept cookies.
+### What we do with the information we gather
 
-Children. The Co-Optimus does not knowingly collect personal data from children under the age of thirteen. If you are under thirteen, please do not give us any personal data. If you have reason to believe that a child has provided personal data to the Co-Optimus, please contact us, and we will endeavor to delete that information from our databases. As we develop online programs for children, we will adopt appropriate policies and practices to protect the privacy of children.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-Links to Other Sites. This privacy policy applies only to this web site. This site contains many hyperlinks to web sites that are not operated by the Co-Optimus. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party web sites or any association with their operators. The Co-Optimus does not control these web sites and is not responsible for their data practices. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal data about yourself.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-Governing Law. This privacy policy forms part of our web-site Terms and Conditions and as such shall be governed by and construed in accordance with the laws of the United States.
 
-Questions About Our Privacy Policy. If you have any questions about this privacy policy or concerns about the way the Co-Optimus uses personal data, please contact us.
+
+### Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 Note: Our site uses GoogleAdsense technology to serve ads relevant to users. As of March 13th, 2009 Google has begun using DART technology, which tracks user visits on ALL websites using adsense to better serve relavant ads.
 
 Google, as a third party vendor, uses cookies to serve these ads on Co-Optimus.com. Users may opt out of the use of the DART cookie by visiting the Google ad and content [network privacy policy](http://www.google.com/privacy_ads.html).
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
+
+We partner with PlayWire for advertising - their [Privacy Policy](https://www.playwire.com/privacy-policy/) also applies.
+
+### Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+### Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at admin@co-optimus.com
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to admin@co-optimus.com.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
