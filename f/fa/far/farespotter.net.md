@@ -1,87 +1,106 @@
-> *The following text is extracted and transformed from the farespotter.net privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210023152id_/http%3A//www.farespotter.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farespotter.net privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611081427id_/http%3A//www.farespotter.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Updated April 13, 2016
+At MediaAlpha, protecting your personal information is a top priority. This Privacy Policy provides details on how we treat your personal information. QuoteLab, LLC, which does business as MediaAlpha ("we" or “us”), is the Data Controller with respect to information collected on the websites we own.
 
-At MediaAlpha, privacy is a top priority, and we are committed to protecting the personal information of our customers. This Privacy Policy provides details on how we treat any personal information you may submit to us.
+Please note that this Privacy Policy applies only to:
 
-This Privacy Policy applies to this website, farespotter.net (the “Site”), which is made available by QuoteLab, LLC, which does business as MediaAlpha ("we" or “us”). Please note that this Privacy Policy applies only to information collected through the Site and not to websites maintained by other companies or organizations to which we link.
+  * information collected through this website, FareSpotter.net, along with any other website owned and operated by MediaAlpha (the “Sites”);
+  * information you enter into our forms appearing on third-party websites;
+  * certain limited information regarding your interaction with advertiser sites following a visit to our Sites, solely for attribution and optimization purposes;
+  * information obtained during phone calls to us that you initiate, or that we or our partners may initiate with your prior consent; and
+  * any other information you choose to provide to us.
 
-**Information We Collect and Use**
 
-We will collect and use personal information about you to respond to your request for products and services offered through the Site. Specifically, we collect information provided by you in connection with providing price quotes for travel related products and services. We may also collect your email address if you wish to sign up for our newsletter or deal alerts.
 
-We also collect demographic information. Demographic information is all other information such as gender, zip code, or any information that is not tied to your personal information. In addition, we might receive information about you from other online or offline sources and may add that information to your existing account.
+This Privacy Policy does not apply to websites maintained by other companies or to which we may link (except for the limited situation set forth above), or to any information you may provide directly to an insurance agent or carrier, travel agent, or other service provider who you are connected with through our service.
 
-**Information Sharing and Disclosure**
+#### Information We Collect and Use
+
+We collect and use personal information about you to respond to your request for products and services offered through the Sites. Specifically, we collect information provided by you in connection with obtaining price quotes or rates. For example, you may be asked to provide your name, address, telephone number, email, and other information in order to be matched to insurance carriers and agents who may provide you a quote for their insurance services. Or you may be asked to provide home and destination airports and travel dates so that we can show you flight and hotel options.
+
+We may also collect other information such as gender, zip code, or other demographic information that is not tied to your personal information. Included in this demographic information is your IP address, which is treated as personal information in some jurisdictions, but which we use only to identify your geographic area and for legal compliance purposes.
+
+In addition, we might receive information about you from other online or offline sources and may combine that information with the information you have provided.
+
+#### Information Sharing and Disclosure
 
 We share personal information about you under the following circumstances:
 
-Price Quote Requests. If you submit a request on the Site for price quotes for travel related products or services, we will use the information contained in your request form (such as dates of travel and destinations) with third parties, which include carriers, hotels, travel agents and other providers (“Service Providers”) in our network to provide relevant information. In some circumstances, we may obtain additional information about you and/or share that information with Service Providers in our network.
+Quote Requests. If you submit a request for price quotes for insurance products or other products or services, we will share the personal information contained in your request form (such as your name, address, telephone number, email, information about your cars, travel destination, etc.) with third parties, which may include agents, carriers, lead aggregators, and other service providers in our network, to process and fulfill your request.
 
-All Service Providers in our network have entered into agreements with us which require them to secure any personal information provided through the Site and limit how they can use such information. These Service Providers are also required to comply with federal and state privacy regulations. By submitting your request to us, you understand that Service Providers. If one of the Service Providers contacts you and you wish not to be contacted again by that Service Provider with respect to your inquiry, then you should specifically make a request to that Service Provider. Please note that the Service Providers may maintain the information you provide to them whether or not you elect to use their services.
+Our agreements require service providers to secure any personal information we provide to them and limit how they can use such information. Our agreements also require these service providers to comply with national, state and other applicable privacy regulations. By submitting your request to us, you understand that service providers may contact you by telephone (including through automated calling or using recorded messages), email, or regular mail based on the information you provided to us, in order to process and fulfill your request, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, or any similar mechanism to opt-out of receiving phone calls or email messages.
 
-Aggregate, Non-Personal, or De-identified Information. We may share aggregated information (i.e., information about you and other users collectively, but not specifically identifiable to you) and other non-personal, de-identified, or anonymous information we collect with third parties, including our affiliates, to develop and deliver targeted advertising on our Site and on the websites of third parties and our affiliates.
+If one of the service providers contacts you and you wish not to be contacted again by that service provider, then you should specifically make a request of them. Please note that service providers may maintain the information you provided whether or not you elect to use their services.
+
+Aggregate, Non-Personal, or De-identified Information. We may share aggregated information (i.e., information about you and other users collectively, but not specifically identifiable to you) and other non-personal, de-identified, or anonymous information we collect, with third parties to optimize their ability to reach their target markets.
 
 As Required by Law. We may be required to share your personal information with law enforcement or government agencies in response to subpoenas, court orders, federal/state audits or similar circumstances whenever we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use, or as otherwise required by law.
 
-Business Transfer. As with any other business, it is possible that we could in the future enter into a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale. If such a transaction occurs, the successor company would have access to the information maintained by us, including your personal information, but would continue to be bound by this Privacy Policy unless you consent otherwise as provided herein.
+Business Transfer. As with any other business, it is possible that we could in the future enter into a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale. If such a transaction occurs, the successor company would have access to the information maintained by us, including your personal information, but would continue to be bound by this Privacy Policy.
 
-**Information Collection Technologies**
+#### Information Collection Technologies
 
-To better serve our users and Service Providers and enhance the response time of the Site, we use various technologies to collect information about our users, such as:
+To better serve our users and service providers and to analyze and enhance the performance of our Sites, we use cookies and similar technologies to collect information about our users, such as your browsing behavior, links clicked, device type, and to collect various data, including analytics, about how you use and interact with our Sites and our advertisers.
 
-_Cookies._ Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Website to "personalize" itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Customer tracking (or "click-stream") data collected by us is used to optimize your experience by learning whether or not you successfully used the Site. Additionally, we may capture click-stream data on some of our partner's websites, limited to the activity involved with the completion of offers listed on our website. This information is used to monitor the performance of our partners. We also may use cookies to deliver targeted advertising (or allow third parties to deliver targeted advertising) on our website and the websites of our affiliates and third parties.
+To opt-out of the use of cookies on our Sites, you can change your browser options to stop accepting cookies or to prompt you before accepting cookies. Certain aspects of our service may be limited if you do not accept cookies. More information about cookies and other tracking technologies is available at allaboutcookies.org or youronlinechoices.eu.To opt-out of the use of cookies on our Sites, you can change your browser options to stop accepting cookies or to prompt you before accepting cookies. Certain aspects of our service may be limited if you do not accept cookies. More information about cookies and other tracking technologies is available at allaboutcookies.org or youronlinechoices.eu.
 
-Please visit [http://www.google.com/policies/technologies/ads/](http://www.google.com/policies/technologies/ads/) to find additional information and options to remove or disable cookies, and to opt out of certain targeted advertisements.
+Special Note for European Visitors. In connection with the effectiveness of the General Data Protection Regulation (GDPR) in the European Economic Area (EEA), MediaAlpha has determined to eliminate or limit the use of cookies and similar technologies with visitors from the EEA. Specifically:
 
-_Log Files._ We also keep track of Internet Protocol (IP) addresses. An IP Address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
+  * If you visit a third-party site that uses our services, we will not place any cookies on your device.
+  * We will not seek your consent to use cookies in this instance, though the publisher of the site may do so.
+  * If you visit one of or our owned and operated sites, we will only place limited third-party cookies, such as those made available for analytics purposes by Google and Bing.
+  * In this case, we will seek your consent to use these third-party cookies and will only do so after you indicate your consent. If you do not consent, then no cookies will be written to your device.
 
-_Clear Gifs._ We employ a software technology called clear gifs (a.k.a. Web Beacons) that help us better manage content on our site and in our HTML emails by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. Clear gifs are not tied to users' personally identifiable information. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
-**Emails**
 
-By providing your contact information to us through the Site, you are registering to receive communications from us directly, on our website or through a third party. We will periodically send you newsletters and other e-mails with offers and promotions. If you no longer wish to receive these communications, please let us know by sending an email to Customer Care at info@farespotter.net You may also opt-out by clicking on the unsubscribe link in our emails.
+To enable this feature, we use third-party tools to determine your geographic location; if these tools indicate that you are in the EEA, then we treat your visit as above. If you feel that you are subject to the GDPR, but we have nonetheless used cookies in connection with your visit without consent - which may be due to a failure of the third party geolocation tools; your use of a proxy server, your location outside of the EEA at the time of your visit; or some other factor beyond our control – please notify us at [dpo@mediaalpha.com](mailto:dpo@mediaalpha.com) with any relevant details so that we can ensure proper treatment of your data under GDPR. 
 
-**Third Party Advertisers**
+#### Emails
 
-Please note that we can only control our own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services. In addition, if you provide your personal information to a Service Provider in our network, any use of your information by that Service Provider will be subject to their privacy policies and procedures. You would need to contact these parties directly in order to stop receiving their email communications.
+By providing your contact information to us, you are registering to receive communications from us directly or through a third-party. If you provide your e-mail address and request to be added to any of our travel deal or other mailing lists, we will periodically send you newsletters and other e-mails with offers and promotions. Our emails will always identify MediaAlpha or one of our branded sites as the sender. If you no longer wish to receive these communications, please let us know by sending an email to Customer Care at [info@mediaalpha.com](mailto:info@mediaalpha.com). You may also opt-out by clicking on the unsubscribe link in our emails.
 
-**Confidentiality and Security**
+#### Third-Party Advertisers
 
-The security of your personal information is very important, and we take a number of steps to safeguard it. For example, we limit access to personal information to those employees or agents who assist us in providing requested products and services to you and maintain physical, electronic, and procedural safeguards that comply with or exceed federal standards to guard personal information about you.
+Please note that we only control our own mailing list and policies. Third-party advertisers that maintain their own mailing lists may send communications that advertise our services. In addition, if you provide your personal information to a service provider in our network, any use of your information by that service provider will be subject to their privacy policies and procedures. You would need to contact these parties directly in order to stop receiving their email communications.
 
-**Third Party Links**
+#### Confidentiality and Security
 
-This Privacy Policy applies to all information that you provide on the Site. However, when you visit websites to which farespotter.net links, keep in mind you will be interacting with a third party that operates under its own privacy and security policy. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's privacy policy. A third party site will also have its own policy regarding the use of cookies and clear gifs. We encourage you to review the privacy policies of any other service provider from whom you request services.
+The security of your personal information is very important, and we take a number of steps to safeguard it. For example, we limit access to personal information to those employees or agents who need the information to provide requested products and services to you. We also maintain physical, electronic, and procedural safeguards that comply with or exceed federal standards to guard your personal information, and we anonymize or expunge data when it is no longer necessary to provide services to our users or substantiate records for our partners.
 
-**A Special Note about Children's Privacy**
+#### Third-Party Links
 
-You must be at least 14 years old to use this website. We do not knowingly collect, use or disclose personal information about visitors under 14 years of age. If you are under 14 years of age, you can use the services offered on our website only in conjunction with your parents or guardians. Please see our Terms of Use for more information.
+This Privacy Policy applies to all information that you provide to us. However, when you visit links from our Sites, keep in mind you will be interacting with a third-party that operates under its own privacy and security policy. If you choose to obtain services through a third-party site, the data collected by the third-party is governed by their privacy policy. A third-party site should also have its own policy regarding the use of cookies and other tracking technologies. We encourage you to review the policies of any other service provider from whom you request services.
 
-**Updating, Obtaining or Removing Your Information**
+#### A Special Note about Children's Privacy
 
-Upon request via email or mail, we will provide you a summary of personal information retained by us. We will only send your personal records to your email address or postal address that we have on file for you. To modify, correct, change, update or remove your personal record from our database, please send your request via email to info@farespotter.net. 
+You must be at least 18 years old to use this website. We do not knowingly collect, use or disclose personal information about visitors under 18 years of age. If you are under 18 years of age, you can use the services offered on our websites only in conjunction with your parents or guardians. Please see our Terms of Use for more information.
 
-**Special Notice to California Residents**
+#### Updating, Obtaining or Removing Your Information
 
-We will not share any personal information about you with other companies to the extent prohibited by applicable California law or to the extent your prior consent to share is required by applicable California law. California residents may, no more than once per calendar year, request information about our disclosures of certain categories of personal information to third parties for direct marketing purposes. To be valid, requests must be submitted to us at info@farespotter.net. Within thirty days of receiving this request, we will provide a list of the categories of personal information disclosed for direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties.
+Upon request via email or mail, we will provide you a summary of personal information retained by us. We will only send your personal records to your email address or postal address that we have on file for you. To obtain, modify, correct, change, update or remove your personal records from our database, please send your request via email to our Data Protection Officer at [dpo@mediaalpha.com](mailto:dpo@mediaalpha.com). We will require that you prove your identity before providing any personal information.
 
-**Visitors outside the United States**
+#### Special Notice to California Residents
 
-This Privacy Policy is intended to cover collection of information on our Site from residents of the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By visiting our site or using our Services, you acknowledge and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy, regardless of the laws of your residence country.
+California residents may, no more than once per calendar year, request information about our disclosures of certain categories of personal information to third parties for direct marketing purposes. To be valid, requests must be submitted to us at dpo@mediaalpha.com. Within thirty days of receiving this request, we will provide a list of the categories of personal information disclosed for direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties.
 
-**Questions and Suggestions**
+#### Visitors outside the United States
 
-If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us by sending an email to: [info@farespotter.net](mailto:info@farespotter.net).
+This Privacy Policy is intended to cover collection of information on our Sites from residents of the United States. The data protection and other laws of the United States might not be as comprehensive as those in your country. By visiting our Sites or using our services, you acknowledge and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy, regardless of the laws of your residence country.
 
-**Changes to this Privacy Policy**
+To the extent the laws of another jurisdiction apply to your data or use of the Sites, we will comply with such laws.
 
-We reserve the right to make changes to this Privacy Policy at any time. If there are material changes to this Privacy Policy or in how we will use your personal information, we will prominently post notice such changes on the Site. However, you should check this Privacy Policy each time you use the Site to ensure you are aware of any changes in our privacy practices. Our Privacy Policy will indicate the date it was last updated. Your continued use of our Site after we have posted any Privacy Policy changes indicates your agreement to the changes unless you notify us otherwise.
+#### Questions and Suggestions
 
-**Your Agreement**
+If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us by sending an email to: [info@mediaalpha.com](mailto:info@mediaalpha.com).
 
-By using the Site, you signify your assent to this Privacy Policy. If you do not agree to this policy, please do not use any portion of the Site. When you request insurance quotes or other information through the Site, you are authorizing us to share information with our business partners, who may contact you by phone, email, or mail. If you do not want further communication from them, please notify the partner directly.
+#### Changes to this Privacy Policy
 
-700 South Flower Street, Suite 640 | Los Angeles, CA 90017
+We reserve the right to make changes to this Privacy Policy at any time. If there are material changes to this Privacy Policy or in how we will use your personal information, we will prominently post notice of such changes on the Sites. However, you should check this Privacy Policy whenever you use any of our Sites to ensure you are aware of our current privacy practices. Our Privacy Policy will indicate the date it was last updated. Your continued use of our Sites after we have posted any changes indicates your agreement to the changes, unless you notify us otherwise.
+
+#### Your Agreement
+
+By using this Site, you are agreeing to the terms of this Privacy Policy. If you do not agree to this policy, please do not use any portion of our Sites.
+
+Updated May 2018
