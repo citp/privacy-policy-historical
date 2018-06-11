@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the treocentral.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209103555id_/http%3A//www.treocentral.com/content/About/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treocentral.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611214109id_/http%3A//www.treocentral.com/content/About/policy.htm) for the most accurate reproduction.*
 
 # treocentral.com >> About
 
-**[ treocentral.com](https://web.archive.org/web/20171209103555id_/http%3A//www.treocentral.com/index.html) >> About   
+**[ treocentral.com](https://web.archive.org/web/20180611214109id_/http%3A//www.treocentral.com/index.html) >> About   
 **Privacy Policy**** TreoCentral is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
 
 **Consumer Information  **
