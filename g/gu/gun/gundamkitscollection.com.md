@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gundamkitscollection.com privacy policy that was archived on 2017-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170812013639id_/https%3A//www.gundamkitscollection.com/p/privacy-policy_31.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gundamkitscollection.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611101301id_/https%3A//www.gundamkitscollection.com/p/privacy-policy_31.html) for the most accurate reproduction.*
 
 # Privacy Policy - Gundam Kits Collection News and Reviews
 
@@ -41,11 +41,11 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners Hobby Link Japan, GundamModelCenter and Tatsuhobby, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Ads appearing on our site may be delivered to Users by advertising partners Hobby Link Japan, Big Bad Toy Store and Tatsuhobby, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
 **Changes to this privacy policy**
 
-Gundam Kits Collection News and Reviews has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Gundam Kits Collection News and Reviews has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -56,6 +56,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Gundam Kits Collection News and Reviews](http://www.gundamkitscollection.com/)  
 <http://www.gundamkitscollection.com/>  
-info@gundamkitscollection.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-This document was last updated on July 30, 2016
+This document was last updated on April 24, 2018
