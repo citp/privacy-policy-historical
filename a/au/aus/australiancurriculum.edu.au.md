@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiancurriculum.edu.au privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209122337id_/http%3A//australiancurriculum.edu.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiancurriculum.edu.au privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611114625id_/https%3A//www.australiancurriculum.edu.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The Australian Curriculum
 
@@ -291,7 +291,7 @@ You can obtain further information in relation to this privacy policy, or provid
 **Telephone:** 1300 895 563 (or from outside Australia +61 2 8098 3100)  
  **Post:** refer to the address on our website on the ‘[Contact us’](http://www.acara.edu.au/contact-us) page  
  **Facsimile:** 1300 995 468  
- **Email:**[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#167f78707956777577647738737263387763)
+ **Email:**[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#442d2a222b0425272536256a2120316a2531)
 
 **Note:** These calls can be made for a local call cost from fixed residential landlines anywhere in Australia, but calls from mobile and pay phones may incur higher charges. If you are concerned about fees for mobile phone usage, please check with your service provider.
 
