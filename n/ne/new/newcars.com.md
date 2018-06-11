@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210162535id_/http%3A//www.newcars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611194150id_/http%3A//www.newcars.com/privacy) for the most accurate reproduction.*
 
 # NewCars.com Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Welcome to NewCars.com (the “Site”), a member of the Better Business Bureau.
 
-We provide this statement explaining our online information practices, To make this notice easy to find, we make it available through a link on all of our pages.
+We provide this statement explaining our online information practices. To make this notice easy to find, we make it available through a link on all of our pages. By using this Site, you acknowledge that you have read and agree to be bound by this Privacy Policy and agree that you are subject to our [Terms of Service.](https://web.archive.org/service)
 
 ### Collection of Information
 
@@ -94,4 +94,4 @@ If this privacy statement materially changes, the new privacy statement will be 
 
 If you have any questions about this privacy statement, please [email us](https://web.archive.org/contact).
 
-_Last updated: November 6, 2014_
+_Last updated: February 20, 2018_
