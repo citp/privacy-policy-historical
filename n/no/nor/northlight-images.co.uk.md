@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the northlight-images.co.uk privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202195524id_/http%3A//www.northlight-images.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northlight-images.co.uk privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611102741id_/http%3A//www.northlight-images.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Northlight Images cookies and Privacy Policy
 
-This privacy policy sets out how Northlight Images uses and protects any information that you give Northlight Images when you use this website.
+This privacy policy sets out how Northlight Images uses and protects any information that you give Northlight Images when you use this website OR our photographic or training services.
 
 Northlight Images is a trading name of Northlight IT Ltd., a company registered in England and Wales, No. 3589027.  
 Our UK VAT registration number is 715 6562 29
 
 We have a separate set of [terms and conditions](http://www.northlight-images.co.uk/commercial-photography/terms-and-conditions/) relating to all our commercial photography, training and consultancy services.
 
-Northlight Images is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Northlight Images is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website OR when contacting us for a quotation/additional information OR when using our services, then you can be assured that it will only be used in accordance with this privacy statement.
 
 Northlight Images may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-This policy last updated and is effective from October 22, 2016.
+This policy last updated and is effective from May 25th 2018.
 
 ### Contact details :
 
@@ -29,10 +29,19 @@ More details [About our business](http://www.northlight-images.co.uk/about/)
 
 We may collect the following information:
 
-  * Name
-  * Contact information including email address
+  * Your name
+  * Your contact information including email address, business address or home address
   * Demographic information such as post code, preferences and interests
   * Other information relevant to customer surveys and/or offers
+
+
+
+#### Our legal basis for collecting your data
+
+Our legal basis to use your data depends on how we’ve collected it:
+
+  * we have collected data from you because you have signed up to receive our email newsletter
+  * we have collected data from you in order to perform a contract
 
 
 
@@ -40,15 +49,14 @@ We may collect the following information:
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
-  * We may use the information to customise the website according to your interests.
+  * Internal record keeping – including for quotations, invoices and image licenses
+  * We may use the information to improve our products and services
+  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided
+  * We may use the information to customise the website according to your interests
 
 
 
-For surveys and newsletters we will only contact people who have indicated that they are happy to receive information from us.
+We will only contact people who have indicated that they are happy to receive information from us.
 
 #### Security
 
@@ -74,7 +82,7 @@ Please be aware that some of the advertisers on our site may use cookies and or 
 
 In particular, Google uses cookies in a variety of ways see:
 
-[**How Google uses data when you use their partners’ sites or apps**](http://www.google.com/intl/en/policies/privacy/partners/)
+[**How Google uses data when you use their partners’ sites or apps**](https://www.google.com/policies/technologies/partner-sites/)
 
 You can usually alter your browser’s behaviour with regard to cookies, such as accepting cookies from sites visited, but declining 3rd party (advertiser’s) cookies.
 
