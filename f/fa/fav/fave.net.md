@@ -1,93 +1,42 @@
-> *The following text is extracted and transformed from the fave.net privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211154931id_/http%3A//socialadr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fave.net privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611191747id_/http%3A//www.cyberfinder.com/reflex_privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | SocialAdr - Social Media Marketing Services
+# 
 
-We know that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the SocialAdr website, you are accepting the practices outlined in this privacy policy. 
+**Privacy Policy  
+**(updated May 24, 2018)
 
-This privacy policy covers SocialAdr's treatment of personal information that SocialAdr gathers when you are on the SocialAdr website. This policy does not apply to the practices of third parties that SocialAdr does not own or control, or to individuals that SocialAdr does not employ or manage. 
+Welcome to this Reflex Publishing, Inc. ("Reflex") website. This policy describes the information collected on this website and how it may be used and/or shared.  If you do not agree to this Privacy Policy, you may not utilize this website.
 
-### Information Collected by SocialAdr
+**_Regarding IP Addresses and Other Data._**  Reflex and/or third parties may collect your IP address, browser user agent, referral website, and a cookie id.
 
-We only collect personal information that is relevant to the purpose of our website, which is to enable users to discover and share information with one another. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our SocialAdr users: 
+**_Regarding Cookies._**  Reflex and/or third parties may be placing or reading "cookies" on your internet browser.  Cookies are bits of text transferred to your computer hard drive through your browser. They allow Reflex and/or third party systems to recognize your browser, remember your information and link your activities to you. Should you block or disable these cookies, this website may not work and/or appear as intended. Nevertheless, if you want to take these steps, you can do so by following instructions related to your browser. Cookies may collect types of information such as the following:
 
-**1\. Information You Provide to Us:**
+  * Website traffic (for example: the domain name and host from which you access the internet and the internet address of the website from which you came to ours),
+  * Statistical data and analytics (for example: the date and time you access our website, the keywords and/or links clicked, and/or the pages you visit),
+  * Browsing behavior (for example: the pages you visit, the services or products you sought, and/or products/services you purchased)
+  * Information about the operating system, device, platform and web browser type/version you utilize,
+  * Demographic information & other non-personal information about you,
+  * Advertisement information, and/or
+  * Information to fight fraud or misuse.
 
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. 
 
-\- Registration: In order for you to use SocialAdr services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require your personal information (including your name and e-mail address). 
 
-\- User Profile: To allow you to express yourself beyond the information collected during registration, we enable you to provide additional information, such as a bio, favorite URLs, and instant messaging IDs. In addition, you may choose to include photos of yourself in your profile. As indicated below, in the section titled "Sharing Your Information", you can control how your information is displayed and used. 
+**_Regarding Personal Information._**  Some Reflex websites may collect personal information when you choose to voluntarily provide it via an email, a contact form, a registration form or when purchasing a service or product. This type of information may include your name, addresses, email addresses, phone numbers.
 
-**2\. Automatic Information:**
+**_Regarding Sensitive Information._**  Some Reflex websites may, as part of your purchase of a product or service, collect sensitive information, such as your credit card number or other financial information. In such case, sensitive information will be encrypted and protected with SSL, the current industry standard encryption protocol. You will know you are on such an SSL page when you see a picture of a closed lock at the bottom or top of some Web browsers. Another way to tell if you are on a secure page is to look at the address or URL of the page. (Look in the address box or right-click on the page and select "Properties".) These secure SSL encrypted pages have URLs that start with https:// instead of http://.
 
-\- We receive and store certain types of information whenever you interact with us. SocialAdr and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, SocialAdr cookie information, and the page you requested. SocialAdr uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website. 
+**_Regarding_** ** _Reflex’s Use of Information Collected._** Information Reflex collects pursuant to this Privacy Policy may be used to deliver, administer, update and improve the website, services and/or products provided to you, including enhancement and optimization of the website, assessment and diagnosis of potential issues and/or risks such as errors, security risks, fraudulent activity and/or abusive activity, gather broad demographic information, and may be used to aggregate statistics and analytics from the website.  Reflex may share information with third parties as described in the “Regarding Information Collected by Third Parties” section below.  Reflex may use and/or retain your Personal Information (name, email address, address, and/or phone number) to identify you, to reply and/or contact you in reference to an inquiry, assistance request, to manage and/or promote our relationship with you, and/or for other legal and/or legitimate business purposes. 
 
-\- SocialAdr may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages. 
+**_Regarding the Storage, Security and Retention of Information Collected._** **_   _**Reflex transfers, stores and protects information collected utilizing SSL (see also the “Regarding Sensitive Information” section above) or other generally accepted industry standards.   Reflex retains such information for as long as necessary to provide its service(s) to you or for other legitimate and/or legal purposes.
 
-\- Many companies offer programs that help you to visit websites anonymously. While SocialAdr will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
+**_Regarding Information Collected by Third Parties._**  This website may consist of third-party advertising, links to other websites, and/or content from third parties. Reflex may share non-personal (for example: demographic) information to facilitate the delivery of relevant content and/or advertisements. Third party websites, businesses, advertisers, or advertising entities working on their behalf, sometimes use technology to deliver the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons, and other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. For Google’s policy, please visit the following:  <https://policies.google.com/technologies/partner-sites> .  Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology.  For more information and identification of advertisers that provide an opt-out mechanism, please visit the following:  _<http://www.networkadvertising.org/managing/opt_out.asp>_
 
-### E-mail Communications
+**_Regarding European Economic Area Visitors._**   If you are a visitor/customer from the European Economic Area, and you wish to view, update, delete, or transfer your personal information, or if you wish to withdraw consent and/or otherwise exercise your rights pursuant to the GDPR, please email priv@reflex.com. 
 
-SocialAdr is concerned about your privacy and will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. SocialAdr may send out e-mails with SocialAdr-related news, products, offers, surveys or promotions. You may also receive notification e-mails from SocialAdr, informing you of actions (e.g. friend requests) that have been performed on the site. If you do not want to receive e-mail from us, please visit the Email Preferences section of your User Profile and/or follow the instructions contained in the unwanted e-mail message. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us. 
+**_Regarding Ownership and Transfer of Information._**  Subject to applicable law, all information collected on this website is considered to be an asset of Reflex and as such may be shared and/or transferred as described in this policy and/or as part of a merger or acquisition (or contemplated merger or acquisition) of Reflex and/or this website.
 
-### Cookies
+**_Regarding changes to this policy_**. Reflex may alter this policy from time to time, so you are encouraged to review this Privacy Policy periodically.
 
-\- Cookies are alphanumeric identifiers that we tranfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. SocialAdr cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
+**_Legal Disclaimer._**  Reflex may disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform to the edicts of the law, or to comply with a legal process served on Reflex and/or this website.
 
-\- The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of SocialAdr's coolest features. 
-
-\- Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies. 
-
-### Sharing Your Information
-
-Because SocialAdr enables people to discover and share information with one another, information about the people who use SocialAdr is an integral part of the SocialAdr experience. Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below. 
-
-\- SocialAdr Personnel: SocialAdr personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of SocialAdr business. 
-
-\- Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if SocialAdr, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
-
-\- Protection of SocialAdr and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of SocialAdr, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
-
-\- User Profile information: Information collected during registration and subsequent visits, such as your full name and location, may be displayed to other SocialAdr users in your User Profile. The User Profile is the area on SocialAdr where we allow you to tell other SocialAdr users about yourself and your interests. You may control what personal information is displayed in your User Profile by visiting the Privacy Settings section of your User Profile. 
-
-\- Member Directory: The e-mail address that you submit upon registration will be searchable by other SocialAdr users who know you by your email address, unless you choose to opt out of this feature. This is primarily so that other users can find you to establish friendship through SocialAdr. You may opt-out of this feature by visiting the Privacy Settings section of your User Profile. 
-
-\- Social sharing of data: SocialAdr allows other users to browse stories that you have Socialized, submitted, blogged, or commented on. This information is made available via your User Profile or within the permalink URL of the story on which you performed the action. SocialAdr may choose to post this data on other site features. 
-
-\- Friends' Activity: Much like other online social networks, SocialAdr allows non-friends to browse your friends' activity. 
-
-\- With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information. 
-
-### Keeping Information Secure
-
-\- Your SocialAdr account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. 
-
-\- Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices. 
-
-### Ways to Control Display and Use of Your Information
-
-\- As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links. 
-
-\- By visiting your User Profile, you can correct, amend, add or delete personal information on our website. When you update information, however, we often maintain a copy of the unrevised information in our records. 
-
-\- You may request deletion of your SocialAdr account by contacting us via the Contact form. 
-
-\- If you do not wish to receive e-mail from us or other SocialAdr users, please visit the Email Preferences section of your User Profile and/or follow the instructions contained in the unwanted e-mail message. 
-
-\- However, please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us. 
-
-\- If you do not wish to have people who know you by your email address find you via the Member Directory service, please visit the Privacy Settings section of your User Profile to opt out of this feature. 
-
-\- As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features. 
-
-### Changes to this Privacy Policy
-
-SocialAdr may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the SocialAdr website so that you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
-
-### Conditions of Use
-
-If you decide to visit SocialAdr website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, and arbitration of disputes. 
-
-### Effective Date of this Privacy Policy
-
-This Privacy Policy is effective as of July 1, 2009 
+If you have further questions, send an email to priv@reflex.com.
