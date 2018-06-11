@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thugbible.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204021624id_/http%3A//thugbible.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thugbible.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611232311id_/http%3A//thugbible.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | The Thug Bible
 
