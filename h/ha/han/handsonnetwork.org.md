@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110033128id_/http%3A//www.pointsoflight.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611024851id_/http%3A//www.pointsoflight.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Points of Light
 
