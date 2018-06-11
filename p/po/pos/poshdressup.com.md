@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poshdressup.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220175125id_/http%3A//www.cutezee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poshdressup.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611073715id_/http%3A//www.cutezee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, TOS | Cutezee.com
 
