@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the insidegraphics.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002154id_/http%3A//insidegraphics.com/site/inside_graphics_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidegraphics.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612010218id_/https%3A//www.insidegraphics.com/site/inside_graphics_privacy.html) for the most accurate reproduction.*
 
 # Inside graphics Privacy Policy
 
-  | 
+[Home](https://web.archive.org/web/20180612010218id_/https%3A//www.insidegraphics.com/index.html) : Privacy Policy 
 
 Privacy Policy
 
@@ -32,4 +32,4 @@ Because publisher sites and laws across countries vary, we're unable to suggest 
 
 > We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-You can find additional information in Appendix A of the [NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time.
+You can find additional information in Appendix A of the [NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time. 
