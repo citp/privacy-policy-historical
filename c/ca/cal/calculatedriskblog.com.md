@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calculatedriskblog.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206020457id_/http%3A//cr4re.com/Privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calculatedriskblog.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611215330id_/http%3A//cr4re.com/Privacypolicy.html) for the most accurate reproduction.*
 
 # CR4RE
 
@@ -21,6 +21,8 @@ You acknowledge that this Privacy Policy is also a part of our Site Terms of Use
 CR4RE websites do NOT use cookies, or collect any personal information other than email addresses for a daily summary of posts. Our advertisers, or other third parties (such as commenting or site meter software) MAY use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. Most of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. CR4RE, LLC does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
 
 We allow third parties called ad networks or ad servers to serve ads to you on www.calculatedriskblog.com. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on www.calculatedriskblog.com. CR4RE, LLC does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. CR4RE, LLC maintains relationships with a number of third-party networks, including Investing Channel and Google Adsense. Those parties that use cookies may offer you a way to opt out of ad targeting.
+
+Here is a [link to opt out of advertising](http://optout.networkadvertising.org/#!/)
 
 #### (b) PERSONAL INFORMATION COLLECTED
 
@@ -48,6 +50,8 @@ CR4RE websites do NOT use cookies, or collect any personal information other tha
 
 We maintain a procedure to unsubscribe at any time from the email list.
 
+Here is a [link to opt out of advertising](http://optout.networkadvertising.org/#!/)
+
 ### 3.2. PUBLIC INFORMATION
 
 The Site contains links to other websites. We are not responsible for the privacy practices or the content of such websites. We may also make chat rooms, forums, message boards, and news groups available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information.
@@ -68,10 +72,18 @@ In compliance with Children’s Online Privacy Protection Act (“COPPA”), thi
 
 * * *
 
-## 6\. UPDATES AND CHANGES TO PRIVACY POLICY
+## 6\. PRIVACY NOTICE FOR EEA INDIVIDUALS
+
+This section covers disclosures on the General Data Protection Regulation (GDPR) for users residing within EEA only. GDPR replaces the existing Directive 95/46/ec, and aims at harmonizing data protection laws in the EU that are fit for purpose in the digital age. The primary objective of the GDPR is to give citizens back control of their personal data. Please follow the link below to access [InvestingChannel’s General Data Protection Notice](http://stg.media.investingchannel.com/gdpr-notice/).
+
+European Union (EU) laws require notice to EU visitors about cookies used on this blog. Although this blog does not use cookies, Google (blog host), Blogger, and the Ad Network does use cookies. Here are links discussing Google's use of certain Blogger and Google cookies for this blog, including Google Analytics and AdSense cookies. Learn about [Google’s privacy practices](https://www.google.com/policies/privacy/) and how [Google uses data on partner sites](https://www.google.com/policies/privacy/partners/).
+
+* * *
+
+## 7\. UPDATES AND CHANGES TO PRIVACY POLICY
 
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
 
 * * *
 
-Copyright © 2007 - 2014, CR4RE LLC, All right reserved
+Copyright © 2007 - 2018, CR4RE LLC, All right reserved
