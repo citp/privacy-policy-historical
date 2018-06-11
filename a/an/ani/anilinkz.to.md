@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the anilinkz.to privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228092222id_/http%3A//anilinkz.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anilinkz.to privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612005849id_/http%3A//anilinkz.to/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AniLinkz
+
+Site upgrade planned.. Any suggestions/comments are greatly appreciated.. [Click here](https://anilinkz.typeform.com/to/BZnfdT)
 
 This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
