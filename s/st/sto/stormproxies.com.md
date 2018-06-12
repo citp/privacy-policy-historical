@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stormproxies.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228080934id_/http%3A//stormproxies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stormproxies.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612185344id_/http%3A//stormproxies.com/privacy.html) for the most accurate reproduction.*
 
 # Storm Proxies Privacy Policy
 
