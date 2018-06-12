@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the heartandstroke.ca privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101190937id_/http%3A//www.heartandstroke.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartandstroke.ca privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612122023id_/http%3A//www.heartandstroke.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Heart and Stroke Foundation
 
 * * *
-
-**HEART AND STROKE FOUNDATION OF CANADA**
-
-**PRIVACY POLICY**
 
 This Privacy Policy is effective as of November 1, 2016.
 
@@ -20,7 +16,7 @@ This Privacy Policy forms part of our [Terms of Use](http://www.heartandstroke.c
 
 Personal information means any information about an identifiable individual. The types of personal information that we may collect include, but is not limited to, your:
 
-  * ·name;
+  * name;
   * date of birth, age, gender, ethnicity,  and weight;
   * phone number;
   * residential address; 
@@ -77,7 +73,7 @@ Personal information means any information about an identifiable individual. The
   * participate in an event organized by or associated with HSF; 
   * post comments, messages or other content on our Site, including but not limited to, on our eTools, blog, contact us page or other features of the Site that permit you to provide your own comments, messages and content;
   * register to receive electronic communications, such as our e-newsletter; and
-  * ·otherwise participate in features of our Site that ask for personal information. 
+  * otherwise participate in features of our Site that ask for personal information. 
 
 Any personal information posted, used or disclosed on a Twitter page, Facebook page or other social networking page or site is subject to that website’s privacy policy, and is not subject to this Privacy Policy. 
 
@@ -98,13 +94,13 @@ We may also use and disclose your personal information to third parties under th
   * with service providers that help with HSF’s operations and Services including, without limitation, for customer services, monitoring and analyzing Site activity, and operating and maintaining the Site. Such service providers and partner companies may only use your personal information for the purposes described in this Privacy Policy; 
   * when necessary to protect the safety, property or other rights of HSF, its representatives, and users of the Services, including to detect and protect fraud; 
   * if we sell or transfer all or a portion of our business or assets to a related company or a third party.  Your personal information will remain subject to any pre-existing privacy policy unless you agree to the privacy policy of the company or third party that acquires your personal information;
-  * with other charities, through an exchange list brokerage, unless you have opted-out. Specifically, HSF may trade your name and mailing address, never email address, with other charities.  Prior to trading your information, you will always be given the opportunity to opt-out. 
+  * with other charities, through an exchange list brokerage, unless you have opted-out. Specifically, HSF may trade your name and mailing address, but never your email address, with other charities.  You will always be given the opportunity to opt-out. 
   * with your consent; or
   * when otherwise required or permitted by law.
 
-If you voluntarily submit or post any information, photographs or other content to any HSF forums, eTools, Twitter pages, Facebook pages or other social networking pages/sites, your personal information may be automatically included in the posting, including without limitation, your user name and email address and this information may be collected and used by others. 
+If you voluntarily submit or post any information, photographs or other content to any HSF forums, eTools, Twitter pages, Facebook pages or other social networking pages/sites, your personal information may be automatically included in the posting, including without limitation, your user name and email address. This information may be collected and used by others. 
 
-    1. **Data Processors in Other Country**
+    1. **Data Processors in Other Countries**
 
 To provide you with Services, we may use service providers, data processors and other third parties (“ **Third Parties** ”) to perform services on our behalf.  These Third Parties may store, process and transfer personal information on servers located outside of Canada in jurisdictions whose data protection laws may differ from those of Canada, which may include the United States of America.  As a result, personal information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to the laws in those jurisdictions.  For example, information may be shared in response to valid demands or requests from government authorities, courts and law enforcement officials in those countries. Subject to applicable laws in such other jurisdictions, we will use reasonable efforts to ensure that appropriate protections are in place to require our Third Parties to maintain protections on personal information that are equivalent to those that apply in Canada. 
 
@@ -114,7 +110,7 @@ The Site may contain links to other websites or Internet resources, notably thos
 
     3. **Providing Credit Card Information on our Site**
 
-If you make a credit card payment through HSF, we request the information reasonably needed by us to complete the processing of the transaction. For one-time payments, when you provide payment information, such as credit card numbers, credit card security codes, name on your credit card and expiration dates, we transmit this data directly from you to the credit card processing company; HSF only stores the credit card type, the last four digits of the credit card number and the expiration date in the event an incorrect payment needs to be refunded.  HSF will send you a confirmation email to confirm successful credit card charges.  For pre-authorized debits for recurring payments, all information is stored by HSF or Third Parties acting on our behalf, in an encrypted manner; i.e., coded data, such that only those who require access to update financial information can see the credit card number.  The encrypted data is provided at the appropriate intervals to the credit card processing company.  We may also share your personal information with Third Parties including credit card processing companies in order to bill you, but we do not provide any more information than reasonably necessary for this purpose. 
+If you make a credit card payment through HSF, we request the information reasonably needed by us to complete the processing of the transaction. For one-time payments, when you provide payment information, such as credit card numbers, credit card security codes, name on your credit card and expiration dates, we transmit this data directly from you to the credit card processing company; HSF only stores the credit card type, the last four digits of the credit card number and the expiration date in the event an incorrect payment needs to be refunded.  HSF will send you a confirmation email to confirm successful credit card charges.  For pre-authorized debits for recurring payments, all information is stored by HSF or Third Parties acting on our behalf, in an encrypted manner (i.e., coded data) such that only those who require access to update financial information can see the credit card number.  The encrypted data is provided at the appropriate intervals to the credit card processing company.  We may also share your personal information with Third Parties including credit card processing companies in order to bill you, but we do not provide any more information than reasonably necessary for this purpose. 
 
     4. **Cookies, Web Beacons and Other Similar Technology**
 
@@ -128,7 +124,7 @@ You can reject or disable cookies by managing your browser settings and followin
 
     5. **Google Analytics**
 
-Our Site uses Google Analytics, a web analytics service of Google, Inc. (" **Google** "), or comparable technology. Google Analytics uses "cookies", which are text files stored on your computer, to analyze how you use our Site. The information generated by the cookie about your use of our Site (including your IP address) is sent to a Google server in the U.S. and stored there. Google will use this information to evaluate your use of our Site, compile reports on Site activity for our Site operators and to provide other site activity related to internet services. Additionally, Google may transfer this information to a third party when required by law or in the case of a third-party processing information on Google's behalf. In no case will Google use your IP address in connection with any other information held by Google. You can set your internet browser to prohibit the installation of cookies, although we must point out that some features and functions of our Site will then be unusable. By using our Site, you consent to the processing of data about you collected by Google in the manner described and for the above mentioned purpose. The consent for collection and storage of data can be withdrawn at any time in the future by clicking on the following link: https://tools.google.com/dlpage/gaoptout?hl=en. Given the debate concerning the use of analytical tools using full IP addresses, we wish to point out that our Site uses the "Anonymize IP" function of Google Analytics which works with a shortened form of IP addresses to avoid direct personal identification. 
+Our Site uses Google Analytics, a web analytics service of Google, Inc. (" **Google** "), or comparable technology. Google Analytics uses "cookies", which are text files stored on your computer, to analyze how you use our Site. The information generated by the cookie about your use of our Site (including your IP address) is sent to a Google server in the U.S. and stored there. Google will use this information to evaluate your use of our Site, compile reports on Site activity for our Site operators and to provide other site activity related to internet services. Additionally, Google may transfer this information to a third party when required by law or in the case of a third-party processing information on Google's behalf. In no case will Google use your IP address in connection with any other information held by Google. You can set your internet browser to prohibit the installation of cookies, although we must point out that some features and functions of our Site will then be unusable. By using our Site, you consent to the processing of data about you collected by Google in the manner described and for the above mentioned purpose. The consent for collection and storage of data can be withdrawn at any time in the future by clicking on the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>. Given the debate concerning the use of analytical tools using full IP addresses, we wish to point out that our Site uses the "Anonymize IP" function of Google Analytics which works with a shortened form of IP addresses to avoid direct personal identification. 
 
 Furthermore, we use the cookies to carry out frequency assessments, page usage assessments and marketing assessments.  For the aforementioned assessments, we utilize this cookie information without a link to your personal information, so it is completely anonymous. 
 
@@ -140,7 +136,7 @@ We want to make your experience with HSF as supportive and as customized as poss
 
     7. **Security**
 
-To help protect the confidentiality of your personal information, HSF employs security safeguards appropriate to the sensitivity of the information. We maintain reasonable technical, physical and administrative security safeguards to protect your personal information against loss, theft, and unauthorized access Any personal information you provide to us is exchanged on a secure server. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we are committed to protecting your personal information, we cannot ensure or warrant the security of any information you provide to us.
+To help protect the confidentiality of your personal information, HSF employs security safeguards appropriate to the sensitivity of the information. We maintain reasonable technical, physical and administrative security safeguards to protect your personal information against loss, theft, and unauthorized access. Any personal information you provide to us is exchanged on a secure server. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we are committed to protecting your personal information, we cannot ensure or warrant the security of any information you provide to us.
 
 We take reasonable steps to verify your identity before granting you access to your account on our Site, however, you are solely responsible for maintaining the secrecy of your username, password and any other account information. We also take reasonable steps to ensure that HSF employees and volunteers are aware of the importance of maintaining the confidentiality of personal information and that unauthorized persons do not gain access to personal information that we have disposed of or destroyed. 
 
@@ -152,7 +148,7 @@ You may request to update and change your personal information at the contact in
 
     9. **Children’s Privacy**
 
-We are committed to protecting the privacy of children and we do not knowingly solicit personal information from children under the age of 13 without parental or guardian consent.  Certain portions of our Site provide services and programs for children, such as Jump, for which we may collect a child’s personal information with parental or guardian consent in accordance with this Privacy Policy.   If a child has provided us with personal information without consent, his or her parent or guardian may contact us for the purpose of deleting this information. 
+We are committed to protecting the privacy of children and we do not knowingly solicit personal information from children under 13 years of age without parental or guardian consent.  Certain portions of our Site provide services and programs for children, such as Jump, for which we may collect a child’s personal information with parental or guardian consent in accordance with this Privacy Policy.   If a child has provided us with personal information without consent, his or her parent or guardian may contact us for the purpose of deleting this information. 
 
     10. **E-mail Communications**
 
