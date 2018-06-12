@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketersbraintrust.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209221136id_/http%3A//marketersbraintrust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketersbraintrust.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612185535id_/http%3A//marketersbraintrust.com/privacy-policy) for the most accurate reproduction.*
 
 # Marketer's Braintrust (SEO Brain, LLC.) Privacy Policy - Marketer's Braintrust
 
@@ -12,14 +12,13 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To improve customer service – Your information helps us to more effectively respond to your customer service requests and support needs.
-  * To process payment transactions – Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
-  * To send periodic emails – The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. 
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+  *     * To improve customer service – Your information helps us to more effectively respond to your customer service requests and support needs.
+    * To process payment transactions – Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
+    * To send periodic emails – The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
 
 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 ### How do we protect your information?
 
@@ -82,7 +81,7 @@ US
 
 [support@marketersbraintrust.com](mailto:support@marketersbraintrust.com)
 
-877-545-4657
+904-567-6289
 
 ### Governing law
 
