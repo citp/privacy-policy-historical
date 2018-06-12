@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidstockmanscontracorner.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906103039id_/http%3A//davidstockmanscontracorner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidstockmanscontracorner.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612195543id_/http%3A//davidstockmanscontracorner.com/privacy-policy) for the most accurate reproduction.*
 
 # Contra Corner » Privacy Policy
 
@@ -12,7 +12,7 @@ Any email you send to  _David Stockman's  Contra Corner_ is considered confide
 
 **Spam**
 
-If you believe that  _David Stockman's  Contra Corner_ has sent you unsolicited commercial e-mail (spam), please send an e-mail to [davidstockman@davidstockmanscontracorner.com](mailto:davidstockman@davidstockmanscontracorner.com).
+If you believe that  _David Stockman's  Contra Corner_ has sent you unsolicited commercial e-mail (spam), please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c6a2a7b0afa2b5b2a9a5adaba7a886a2a7b0afa2b5b2a9a5adaba7a8b5a5a9a8b2b4a7a5a9b4a8a3b4e8a5a9ab).
 
 **Personal Information**
 
@@ -37,7 +37,5 @@ Cookies are small files placed on your computer by a Web page when you visit it.
 The  _David Stockman's  Contra Corner_ website uses cookies to compile statistics on the use of the various pages on our site (how many people visit each page and that sort of thing). We do not store or collect any personally identifiable information. We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt out of receiving online display advertisements tailored to your interests by our third-party partners, visit the Network Advertising Initiative at[ www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
 
 David Stockman's Contra Corner is the only place where mainstream delusions and cant about the Warfare State, the Bailout State, Bubble Finance and Beltway Banditry are ripped, refuted and rebuked. Subscribe now to receive David Stockman’s latest posts by email each day as well as his model portfolio, Lee Adler’s Daily Data Dive and David’s personally curated insights and analysis from leading contrarian thinkers. 
-
-[Get Access](http://pro1.agorafinancial.com/571279/)
 
 * * *
