@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bobshideout.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210013017id_/http%3A//www.bobshideout.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobshideout.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612034408id_/http%3A//bobshideout.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
-# Bob's Hideout
+# Bob's Hide Out
 
 Last Revised: 12 February 2017 
 
