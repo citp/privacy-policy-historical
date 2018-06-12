@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the simplygames.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207000223id_/http%3A//www.simplygames.com/terms-conditions%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplygames.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612022601id_/http%3A//www.simplygames.com/terms-conditions) for the most accurate reproduction.*
 
 # Terms and Conditions/Privacy Policy | SimplyGames
 
 Originally launched in 1998, SimplyGames is one of the longest-established and most successful online retailers of video games, consoles and accessories. Recognised for its excellent service levels, SimplyGames has won multiple business awards, including MCV's 'Best Online Games retailer' in 2013 and 2014, nominated top 5 in 2015, 2016 and 2017. We despatch thousands of orders every week and have hundreds of thousands of satisfied customers.
 
-Rest assured - Simply Games Limited is a well established online retailer, with an excellent and well-earned reputation.
+Rest assured - SimplyGames.com is a well established online retailer, with an excellent and well-earned reputation.
 
-### Terms & Conditions of your Contract with SimplyGames
+## Terms & Conditions of your Contract with SimplyGames.com (SimplyGames)
 
 #### Orders
 
@@ -38,7 +38,7 @@ Your statutory rights as a consumer are not affected if, for any reason, you wis
 
 #### Copyright
 
-All rights, including copyright, in the content of these SimplyGames web pages are owned or controlled for these purposes by Simply Games Limited (registered number 5086506). In accessing Simply Games web pages, you agree that you may only download the content for your own individual and non-commercial use. You are not permitted to copy, broadcast, download, store (in any medium), transmit, show or play in public, adapt or change in any way the content of these SimplyGames web pages for any other purpose whatsoever without the prior written permission of Simply Games Limited.
+All rights, including copyright, in the content of these SimplyGames web pages are owned or controlled for these purposes by Boss Distribution Limited (registered number 09425531). In accessing SimplyGames web pages, you agree that you may only download the content for your own individual and non-commercial use. You are not permitted to copy, broadcast, download, store (in any medium), transmit, show or play in public, adapt or change in any way the content of these SimplyGames web pages for any other purpose whatsoever without the prior written permission of Boss Distribution Limited.
 
 #### Validity
 
@@ -64,28 +64,191 @@ If for any reason part of these terms and conditions is unenforceable; the valid
 
 Contracts between you and SimplyGames shall be governed by English Law, and you and SimplyGames submit to the exclusive jurisdiction of the English courts.
 
-### Privacy Policy
+## Privacy Policy
 
-We are committed to protecting your personal information and will keep the information you entrust by keeping it safely and securely. SimplyGames may from time to decide or be legally obliged to update this Privacy Policy. Any changes will be posted on this Website. Except as required by law, modifications to this Privacy Policy shall not affect SimplyGames treatment of data collected prior to the effective date of the Policy change. We collect information from you for a number of reasons. Firstly in order to process your order, we collect your name, email address, postal address and credit card details. Then, to make your visit more rewarding and useful, we may monitor spending patterns and your use of the store via cookies. Please see the information below on cookies.
+At SimplyGames, we respect your privacy and are committed to protecting the personal data that we obtain.
 
-#### Cookies
+This privacy policy explains how we will process the data relating to you that you provide to us (or that we may collect) when you visit our website www.simplygames.com (the 'Website').
 
-These are small pieces of information that are stored by the browser on your computer's hard drive. Our cookies do not in themselves recognise the individual user but will recognise the computer you are using so that we know when you are returning to SimplyGames. Most browsers will automatically accept cookies, but you can change the settings on your browser to prevent this happening.
+The Website is owned and operated by Boss Distribution Limited (SimplyGames), company number 09425531 and registered office at 1 Rushmills, Bedford Road, Northampton, NN4 7YB. Where we decide the purpose or means for the processing of the personal data that you provide via our website, we are the "data controller". As data controller, we will comply with all applicable data protection laws.
 
-#### Receiving emails from SimplyGames
+This policy explains the following:
 
-From time to time, we like to contact our customers with special offers or news of relevant forthcoming events, such as new releases. By agreeing to our terms and conditions, you agree to receive such emails from SimplyGames. You can 'Unsubscribe' from these newsletters at any time by undoing the Tick Box with the Newsletter section of My Account.
+  * what information we may collect about you
+  * how we will use information we collect about you
+  * whether we will disclose your details to anyone else
+  * your choices and rights regarding the personal information you provide to us
 
-#### Disclosing Information to Others
 
-SimplyGames will never sell or share your personal information with third parties unless it is required to fulfill your order or to fulfill another function, which you have consented to. Should we employ other companies to perform functions on our behalf (including fulfilling orders, analysing data, sending e-mails and postal mail), we will ensure that they only use such information under our direction and that they have adequate procedures in place to deal with your data securely. Some of these companies may be based outside the EU. If we transfer your data to these companies we will ensure that they process your data in accordance with this privacy policy and the Data Protection Act.
 
-#### Fraud Protection Systems
+Our website may contain hyperlinks to third party websites including the website of our partner networks, advertisers and affiliates. These websites operate fully independently from us, and we cannot accept any responsibility or liability for the privacy practices of such third parties nor the availability of these external sites or resources. The appearance of such links on our website is not an endorsement. Should you use any of these websites, such use is at your own risk and we would advise that you review their respective privacy policies.
 
-To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998
+**1\. What information do we collect and how is it used?**
 
-#### Accuracy and Access to Personal Information
+In order to create an account on our website we ask you to provide us with the following information:
 
-You can check that the information which we are holding is accurate by accessing your account online. If you are registered, click on 'My account’ at the top of the screen, enter your email address and password to log on and view your details. Also, even if you have consented to receive marketing information from us you, can request that we do not contact you with further information by e-mailing our Customer Services Team
+  * your email address
+  * your name (first name and surname)
+  * your phone number
+  * a password of your choice  (which should be unique to this website)
 
-SimplyGames extensive range of electronic gaming products, it is important that you can navigate the Website as easily as possible. The site is divided into main browsing categories, clearly seen on the navigation bar at the top of the site. These will remain in view throughout your shopping experience. Click on any of these and you will go straight to the main console format areas. Choosing one of these options will take you directly through to the main game categories, enabling extremely easy access to the product level, where individual products are listed complete with a small image and a description. If you are interested in the particular product you can click through for a full description and extra information on the product page.
+
+
+If you decide to purchase any of the products on sale, we ask you to provide us with the following information:
+
+  * your billing address
+  * your shipping address (if different)
+  * your payment details (e.g. credit card details, NOTE: these are not stored or collected on our website, they are collected and processed via our payment providers which you can find more information in section 2.5)
+
+
+
+By interacting with us on social media platforms by way of "liking", "following", commenting, "retweeting" or "sharing", you understand that you are consenting for our interaction with you.
+
+**1.1 Website analytics and targeted marketing**
+
+**1.1.1 Website analytics**
+
+We use website analytics to evaluate and improve our Website and to offer the best, most accessible service possible to all of our customers. For example, we utilise third party data analytics service providers (such as Google Analytics) to improve our visibility and to monitor website browser behaviour and navigation across the Website.
+
+These third party data analytics service providers collect this information on our behalf in accordance with our instructions and in line with their own privacy policies. 
+
+When you visit our Website, our service providers may collect the following data, which will almost always be anonymised and aggregated before reporting back to us:
+
+  * number of visitors to our Website
+  * pages visited while at the Website and time spent per page
+  * page interaction information, such as scrolling, clicks and browsing methods
+  * websites where visitors have come from and where they go afterwards
+  * page response times and any download errors
+  * other technical information relating to end user device, such as IP address or browser plug-in
+
+
+
+To find out more about how this data is collected, please read below about the use of cookies and website analytics.
+
+**1.1.2 Targeted marketing**
+
+We use the information that we collect about you to serve you targeted advertisement in order to provide you with more relevant advertising content. The targeted marketing is accomplished via our own channels (i.e. our websites) and third party channels, including across multiple devices or browsers, using the following platforms:
+
+  * Facebook
+  * Twitter
+  * Instagram
+  * Mailchimp
+
+
+
+**2\. How do we use your personal data.**
+
+When you visit our Website, whether to browse our website, to contact us to make a purchase, we (or our third party service providers acting on our behalf) may use the personal information that you provide for the following purposes:
+
+**2.1 Purchasing our products**
+
+  * entering into an agreement with you to provide our products and in the provision of those products.
+  * logging and processing your order in our information systems
+  * providing physical delivery by couriers of products ordered online
+  * contacting with updates regarding your order
+
+
+
+We collect and use this information from you to enable us to perform our sales contract with you and to enable you in line with our Website Terms of Use and Terms and Conditions of Supply.
+
+**2.2 Customer services and enquiries**
+
+  * replying to your enquiries or responding to concerns or complaints
+  * providing you with information about the products we offer, important announcements about your account, updates about our services, or offers and money off vouchers for our products (where you have opted to receive these)
+
+
+
+If you contact us to make an enquiry about a product order or to raise a concern about our website or any aspect of our website, we aim to respond to you as promptly as possible and we do so on the basis that we have a legitimate interest in replying to you.
+
+If you have opted-in to receiving e-newsletters or other marketing materials sent via email, you may opt-out at any time via the unsubscribe feature that appears in our emails or by emailing [customer-services@simplygames.com](mailto:customer-services@simplygames.com)
+
+You may also be asked to opt-in to receive updates, information or promotional material including vouchers or discount offers.
+
+**2.3 Tax and other legal obligations**
+
+  * reporting VAT and other company tax reporting purposes (as required by law)
+  * complying with regulators, law enforcement agencies or in relation to any claims that may arise
+
+
+
+We process personal information for the legitimate interests and under the legal obligation of ensuring that use of the Website is lawful and non-fraudulent, (ii) does not disrupt the operation of our services, (iii) does not harass our staff or other individuals, and (iv) to enforce our legal rights and comply with our legal obligations.
+
+In accordance with our legal obligations, we may disclose your information to the extent required by law which may include for financial accounting and taxation purposes with our auditors, regulators or other government bodies such as HMRC. We may also disclose your information to third parties in order to enforce or apply our contractual terms, to investigate potential breaches, to protect the rights and freedoms, property or safety of our business or those of our customers and other individuals.
+
+Where we reasonably believe that you are or may be in breach of any of the applicable laws, we may use your personal information to inform relevant third parties such as your email/internet provider or law enforcement agencies about the content.
+
+If we are involved in a merger, acquisition, or sale of all or a portion of our business or assets, the information we hold may be included as part of that sale, in which case you will be notified via email and/or a prominent notice on the Site of any changes in ownership or use of your information, and any choices you may have regarding that information.
+
+**2.4 Cookie and website analytics**
+
+Our Website uses cookies and other mechanisms to collect log and analytical information, to help analyse how visitors use the site and to compile statistical reports on Website activity. To find out more, please view our Cookies Policy or visit: All about Cookies.
+
+Our website also uses Google analytics and you can find out more here:
+
+How Google uses data when you use our partners' sites or apps.
+
+To learn how to opt-out of Google analytics, please visit your Google Ads settings or: <https://tools.google.com/dlpage/gaoptout/>.
+
+  * we process this information to understand how visitors use our Website and to compile statistical reports regarding that activity (for example, your IP address is used to approximate the country from which you access our Website, and we aggregate this information together so we know that, for example, most of the visitors to our Website come from England).
+  * this processing is crucial to the running of our online business and we therefore undertake such monitoring in the pursuit of our legitimate interests in improving our website and providing a better service and source of information to visitors.
+
+
+
+This information is not used to develop a personal profile of you.
+
+**2.5 Financial Transactions**
+
+All financial transactions via our website are handled directly by our third party payment service provider. The payment service providers we use are PayPal and SagePay. To find out more about how PayPal collects and uses personal data, please view their privacy policy at <https://www.paypal.com/en/webapps/mpp/ua/privacy-full>. To find out more about how SagePay collects and uses personal information please view their privacy policy at <https://www.sagepay.co.uk/policies/privacy-policy>
+
+**3\. Do we share your personal information with anyone else?**
+
+We will only ever share your information with third parties in the ways that are described in this privacy policy. If you would like to find out more about how those third parties listed in this privacy policy use your information, this should be set out in their respective privacy policies accessible on their websites.
+
+**4\. Your choices and rights in relation to personal data we process relating to you**
+
+You have the following rights over the way we process personal data relating to you. We aim to comply without undue delay, and within one month at the latest:
+
+  * to ask for a copy of data we are processing about you and have inaccuracies corrected
+  * to ask us to restrict, stop processing, or to delete your personal data
+  * to request a machine readable copy of your personal data, which you can use with another service provider. Where it is technically feasible, you can ask us to send this information directly to another provider if you prefer and
+  * to make a complaint to a data protection regulator. You may contact them at: <https://ico.org.uk/concerns/>.
+
+
+
+To make a request in relation to any of the aforementioned rights, please email us at [customer-services@simplygames.com](mailto:customer-services@simplygames.com)
+
+**5\. Children**
+
+We do not knowingly use the Website to solicit data from or market to children under the age of 13.
+
+If a parent or guardian becomes aware that his or her child has provided us with information or may be receiving communications from us without consent of a parent or guardian, we ask that this be brought to our immediate attention. We will make it our priority to address this situation and delete information relating to a child as soon as practicable. In such an event, please contact us at [customer-services@simplygames.com](mailto:customer-services@simplygames.com)
+
+**6\. Security**
+
+We will take commercially reasonable, appropriate technical and organisational measures to ensure a level of security appropriate to the risk that could be encountered via the use of our Website, taking into account the likelihood and severity those risks might pose to the rights and freedoms of our customers and other individuals who might be impacted.
+
+In particular, we will take precautions to protect against the accidental or unlawful destruction, loss, or alteration, and unauthorised disclosure of or access to the personal data transmitted, stored or otherwise processed by us.
+
+Please be aware that, while we make the security of our Website and your personal information a high priority and we devote considerable time and resources to implementing and maintaining robust information technology security, no security system can prevent all security breaches. By choosing to share your personal information with us, you accept the aforesaid and provide your information at your own risk.
+
+**7\. Retention**
+
+In accordance with data protection laws and good commercial practice, we do not retain data in a form that permits identification of the person(s) to whom it relates for any longer than is necessary. Once the purpose for which information has been collected has been fulfilled, we will either permanently delete your personal information or remove all identifiers within it so that it is no longer personal data. We may use such anonymised data for research and/or business analysis purposes.
+
+Where you have a SimplyGames account, your account will remain active for twelve months from date of purchase, after which time all of your information will be removed from our system.
+
+Where we obtain your personal data in relation to the use or purchasing our products, including VAT or invoicing information, we are obligated by law to keep this for a minimum of six years.
+
+**International data transfers**
+
+Our servers are located in the European Union and the information that we collect directly from you will be stored in these servers. We may also transfer your personal data to our third party service providers, many of whom may be located outside of the EU, operate from multiple locations including non-EU based operations or engage sub-processors located outside the EU.
+
+There are agreements in place to ensure that all of our third party service provider’s process personal information using appropriate safeguards that meet the requirements of EU data protection laws.
+
+If you would like to find out more about these safeguards or if you have any other queries or comments in relation to this policy, please let us know by emailing us at [customer-services@simplygames.com](mailto:customer-services@simplygames.com)
+
+**8\. Changes to our privacy policy**
+
+Please note that we may update this privacy policy from time to time. Any changes that we make to this policy in the future will be posted on this webpage and, where appropriate, notified to you by email. Please check back frequently to see any updates and changes to this privacy policy.
+
+If you have any questions or comments about this privacy policy, please let us know by emailing [customer-services@simplygames.com](mailto:customer-services@simplygames.com).
