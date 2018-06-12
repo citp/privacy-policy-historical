@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ggc.edu privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205002256id_/http%3A//www.ggc.edu/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ggc.edu privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612024049id_/http%3A//www.ggc.edu/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Georgia Gwinnett College
 
@@ -40,4 +40,4 @@ Creating a text link from your website to our site does not require permission. 
 
 ## Use of Text and Images
 
-All logos, images and text on the GGC website are protected by copyright. If you would like to publish information that you find on our website, please send your request to This e-mail address is being protected from spambots. You need JavaScript enabled to view it . When text, images or other content is posted on our site with the permission of the original copyright holder, a copyright statement will appear with the content.
+All logos, images and text on the GGC website are protected by copyright. If you would like to publish information that you find on our website, please send your request to [webmaster@ggc.edu](mailto:webmaster@ggc.edu?subject=Publish%20request). This e-mail address is being protected from spambots. You need JavaScript enabled to view it. When text, images or other content is posted on our site with the permission of the original copyright holder, a copyright statement will appear with the content.
