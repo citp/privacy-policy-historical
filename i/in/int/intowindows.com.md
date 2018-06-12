@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intowindows.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212102926id_/http%3A//www.intowindows.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intowindows.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612101416id_/http%3A//www.intowindows.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -18,4 +18,4 @@ We use third party advertising companies (Google Ads) to serve ads when you visi
 
 **Copyright**
 
-Linking to any page in this site is allowed and welcome, but hot linking to any other part of the content such as images is forbidden and illegal. Also downloading and using the content of this site other than for private usage is forbidden and illegal.
+Linking to any page on this site is allowed and welcome, but hot linking to any other part of the content such as images is forbidden and illegal. Also downloading and using the content of this site other than for private usage is forbidden and illegal.
