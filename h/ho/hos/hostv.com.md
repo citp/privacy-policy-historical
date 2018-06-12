@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hostv.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208213422id_/http%3A//hostnine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostv.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612215613id_/http%3A//www.hostnine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**This Privacy Policy applies to all users before May 23, 2018. Beginning on May 23, 2018, our[new Privacy Policy](http://www.endurance.com/privacy/privacy) will apply to all new users and all users in the EU/EEA member countries. The new Privacy Policy will be effective on June 23, 2018 for users outside the EU/EEA member countries who signed up for services before May 23, 2018. The legacy version of the Privacy Policy will remain posted here until July 23, 2018 for your reference.**
 
 We are committed to ensuring that we respect and protect our customers’ privacy. This Privacy Policy describes what personal information of our customers (“Customers”) and visitors to the HostNine website (“Visitors”) (collectively, “Users”) is collected and how and when it might be used or shared by HostNine.
 
