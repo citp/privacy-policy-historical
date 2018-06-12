@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nautica.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216225653id_/http%3A//www.nautica.com/privacy-policy-nau.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nautica.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612174635id_/https%3A//www.nautica.com/privacy-policy-nau.html) for the most accurate reproduction.*
 
-# Nautica - The Official Site For Apparel, Accessories, Home & More.
+# Nautica Privacy Policy
 
 ## **OUR PRIVACY POLICY**
 
@@ -8,7 +8,7 @@ _Last updated: September 26, 2014_
 
 Nautica® recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy describes what information we may collect from you, how we collect that information, how we use that information, and the choices you have regarding your information. By using our website, mobile applications, or providing information to us in other ways, you agree to be bound by this Privacy Policy. 
 
-This Privacy Policy was last updated September 26, 2014 and may be updated from time to time. Please check back periodically for further updates and changes. The most updated version will be the one that is available on this website.
+This Privacy Policy was last updated September 26, 2014 and may be updated from time to time. Please check back periodically for further updates and changes. The most updated version will be the one that is available on this website. 
 
 **_WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED?_**
 
@@ -36,7 +36,7 @@ We use third-party companies to provide Internet data hosting and to help us mea
 
 Our websites currently do not have a mechanism to recognize “Do Not Track” signals, but several of the third-party companies who utilize these cookies or beacons enable you to opt out of this advertising. If you wish to opt out of receiving this third-party interest-based advertising, you may obtain more information [here](http://www.networkadvertising.org/choices/). Please note this does not opt you out of receiving marketing communications from us.
 
-In addition, some of our e-mail communications to you may include a "click-through URL" linked to a particular page on the website. By clicking on one of these URLs, you will automatically enter our website and we may collect information related to the "click-through." You may avoid having this information collected by not clicking on URL links in our e-mail communications.
+In addition, some of our e-mail communications to you may include a "click-through URL" linked to a particular page on the website. By clicking on one of these URLs, you will automatically enter our website and we may collect information related to the "click-through." You may avoid having this information collected by not clicking on URL links in our e-mail communications. 
 
 We also may use a variety of retail analytics tools in our stores for operational and marketing purposes, such as measuring and analyzing traffic patterns. These tools may collect data from sensors, including video cameras, smartphone detectors, Wi-Fi networks, or other devices, to improve your in-store experience. 
 
@@ -56,17 +56,17 @@ We display personal testimonials/reviews of satisfied customers on our site in a
 
 **_WITH WHOM IS INFORMATION SHARED?_**
 
-Except with your consent or as described in this Privacy Policy, we do not sell, rent, or share with third parties any of your personal information.
+Except with your consent or as described in this Privacy Policy, we do not sell, rent, or share with third parties any of your personal information. 
 
 We may share your personal information with other brands within the VF Corporation family of brands (including, for example, The North Face ®, Vans®, Timberland ®, Nautica ®, Wrangler ®, Lee ®, 7 For All Mankind ®, Jansport ®, Reef ®, Splendid ®, and Ella Moss ®). 
 
-We may share personal information with certain third parties that perform services on our behalf. The services provided by those third parties may include: operating the website, hosting the website, providing the products and services you request, authorization and processing of your payments, product fulfillment, fraud protection and credit risk reduction, product customization, marketing and promotional material distribution, loyalty program management, promotions fulfillment, web site evaluation, data analysis and, where applicable, data cleansing. Those third parties are not authorized to use or disclose personal information you provide to us on or through this website for any purpose other than to perform the services designated by us.
+We may share personal information with certain third parties that perform services on our behalf. The services provided by those third parties may include: operating the website, hosting the website, providing the products and services you request, authorization and processing of your payments, product fulfillment, fraud protection and credit risk reduction, product customization, marketing and promotional material distribution, loyalty program management, promotions fulfillment, web site evaluation, data analysis and, where applicable, data cleansing. Those third parties are not authorized to use or disclose personal information you provide to us on or through this website for any purpose other than to perform the services designated by us. 
 
 We may share personal information with a third party if we are required by law to disclose that personal information. For example, we may be required to disclose personal information to respond to a subpoena, court order, or other legal process. We may also disclose this information in response to a law enforcement agency's request, or where we believe it is necessary to investigate or address unlawful acts or acts that may endanger the health or safety of a consumer or the general public, to verify or enforce compliance with the terms of use and policies that govern our website or as otherwise required or permitted by law. In addition, the personal information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of Nautica or as part of a corporate reorganization, stock sale or other change of control. 
 
-**_WHAT ABOUT THE PRIVACY OF CHILDREN UNDER 13?_**
+**_WHAT ABOUT THE PRIVACY OF CHILDREN UNDER 16?_**
 
-We do not intend to collect personal information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any personal information to us and you should use this website only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided personal information on or through the website, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
+We do not intend to collect personal information from anyone who is under the age of 16. If you are under the age of 16 you should not provide any personal information to us and you should use this website only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 16 and suspect he/she has provided personal information on or through the website, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
 **_WHAT STEPS ARE TAKEN TO KEEP PERSONAL INFORMATION SECURE?_**
 
@@ -76,7 +76,7 @@ The security of your information is important to us. We have instituted security
 
  You may access, correct and update certain personal information that you have provided to us by clicking on the "My Account" area of this website and following the instructions set forth therein or by contacting us with your request as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
-We reserve the right to retain any personal information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store personal information for as long as reasonably necessary for the purposes described in this Privacy Policy. You may find out more details regarding this Privacy Policy by contacting us as provided below under "How Can I Contact You Regarding This Privacy Policy?"
+We reserve the right to retain any personal information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store personal information for as long as reasonably necessary for the purposes described in this Privacy Policy. You may find out more details regarding this Privacy Policy by contacting us as provided below under "How Can I Contact You Regarding This Privacy Policy?" 
 
 **_CAN I INDICATE WHETHER OR NOT I WANT TO RECEIVE PROMOTIONAL COMMUNICATIONS?_**
 
@@ -92,24 +92,24 @@ This website may contain links to or from websites to which this Privacy Policy 
 
 If you have any questions or concerns regarding your privacy or the Privacy Policy you can send a request with your concerns or any further questions to us by using the contact information provided below:
 
-Nautica  
-Attn: Nautica Consumer Relations  
-500 Nautica Way   
-Martinsville, VA 24112  
-Phone: 877-628-8422  
+Nautica   
+Attn: Nautica Consumer Relations   
+500 Nautica Way    
+Martinsville, VA 24112   
+Phone: 877-628-8422   
 E-Mail: [Nautica_Consumer_Relations@VFC.com](mailto:Nautica_Consumer_Relations@VFC.com)
 
 **_WHAT IF I AM A RESIDENT OF CALIFORNIA?_**
 
 California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
 
-Nautica  
-Attn: Nautica Consumer Relations  
-500 Nautica Way   
-Martinsville, VA 24112  
-Phone: 877-628-8422  
+Nautica   
+Attn: Nautica Consumer Relations   
+500 Nautica Way    
+Martinsville, VA 24112   
+Phone: 877-628-8422   
 E-Mail: [Nautica_Consumer_Relations@VFC.com](mailto:Nautica_Consumer_Relations@VFC.com)
 
 **_WHAT IF I AM AN INTERNATIONAL USER?_**
 
-Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed, and stored in the United States, and allow Nautica  to use and collect your personal information in accordance with this Privacy Policy.
+Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed, and stored in the United States, and allow Nautica  to use and collect your personal information in accordance with this Privacy Policy. 
