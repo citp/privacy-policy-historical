@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madaluxegroup.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113074623id_/http%3A//madaluxegroup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madaluxegroup.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612073703id_/http%3A//madaluxegroup.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Madaluxe Privacy Policy
 
