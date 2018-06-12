@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mobihealthnews.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212175044id_/http%3A//www.mobihealthnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobihealthnews.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612185441id_/http%3A//www.mobihealthnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for MobiHealthNews and HIMSS Media | MobiHealthNews
+
+**[View HIMSS' privacy policy](http://www.himss.org/about/legal)**
 
 To receive the MobiHealthNews  email newsletters, or to access downloadable content such as white papers or register for online events such as webinars, you must first complete a registration form. During registration for newsletters and print issues, you may be required to give contact information such as name, email address and telephone number. We use this information to contact you about the services and newsletters on our site in which you have expressed interest.
 
@@ -23,7 +25,8 @@ Site users are encouraged to post comments on MobiHealthNews content. Our site u
 
 Comments should be editorial in nature, and should not be promoting or otherwise linking to third party products or websites. The use of all-caps, text markup or other methods of "shouting" are discouraged in the interest of maintaining a high-level, respectful forum for discussion.
 
-Comments may not:
+Comments may not:  
+ 
 
   * Insult, antagonize or otherwise offend other site users or editors
   * Contain obscene, racist, sexist, defamatory, hateful, distasteful or otherwise inappropriate language
@@ -33,7 +36,8 @@ Comments may not:
 
 
 
-Provided that all efforts are made by site users to self-edit and employ respectful language that does not antagonize other site users, comments may:
+Provided that all efforts are made by site users to self-edit and employ respectful language that does not antagonize other site users, comments may:  
+ 
 
   * Actively engage other readers and our editors in thoughtful discussion
   * Give constructive feedback on article accuracy or informed commentary on article content
@@ -55,4 +59,5 @@ By accessing a webinar or white paper content asset, you agree to your contact i
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website. Your use of our website indicates to us that you have read and accepted our privacy policy. This policy is subject to change. We will change the date on this page noting when the policy was last updated. If you have questions or comments on this privacy policy, we would like to hear them. Please email us at [news@mobihealthnews.com](mailto:news@mobihealthnews.com)
 
-Updated: January 7, 2016
+Updated: May 24, 2018  
+ 
