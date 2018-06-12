@@ -1,63 +1,82 @@
-> *The following text is extracted and transformed from the sk-gaming.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215111041id_/http%3A//www.sk-gaming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sk-gaming.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612051506id_/http%3A//www.sk-gaming.com/privacy) for the most accurate reproduction.*
 
 # SK Gaming | Privacy Policy
 
 ## SK Gaming Privacy Policy
 
-This agreement applies to the web site SK-Gaming.com located at www.sk-gaming.com. 
-
-**Data collection**
-
-  * 1\. SK Gaming and some other services do not require any personally identifying information.  
-
-  * 2\. SK Gaming collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services.  
-
-  * 3\. Some of our services require you to register for an account. SK Gaming asks you for some personal information in order to create an account (typically your name, email address and a password for your account) and we will use that information to provide the service. For certain services, such as our advertising programs, we may request credit card or other payment information which we maintain in encrypted form on secure servers.  
-
-  * 4\. Upon your first visit to SK Gaming, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. SK Gaming does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some SK Gaming features or services may not function properly without cookies.
+  1. **1.** **Who we are**
+  2. 1.1 We are SK Gaming GmbH & Co. KG located at Löwengasse 1, 50676 Cologne, Germany. We are represented, for the purposes of this policy, by MGL MY.COM (CYPRUS) LIMITED of 28 Oktovriou, 365 VASHIOTIS SEAFRONT, office 402 Neapoli, 3107, Limassol, Cyprus.
+  3. 1.2 "This Privacy Policy sets out how we collect and use your personal information when you use our website www.sk-gaming.com (""Site""), including contact form (""Services""), offered by SK Gaming GmbH & Co. KG and the choices available to you in connection with our use of your personal information (the Privacy Policy). This Privacy Policy should be read alongside, and in addition to, our Cookie Policy (accessible online at http://www.sk-gaming.com/cookie). In case of any contradictions between this Privacy Policy and the Cookies Policy, this Privacy Policy will prevail. "
 
 
-
-**Information sharing**
-
-  * 1\. We do not rent or sell your personally identifying information to other companies or individuals, unless we have your consent. We may share such information in any of the following limited circumstances:  
-
-  * 1.1. We have your consent.  
-
-  * 1.2. We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.  
-
-  * 1.3. We conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of SK Gaming, its users or the public.  
-
-  * 2\. If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent.  
-
-  * 3\. We may store and process personal information collected on our site in Germany or any other country in which SK Gaming or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country.  
-
-  * 4\. In the event of a transfer of ownership of SK Gaming, such as acquisition by or merger with another company, we will provide notice before any personally identifying information is transferred and becomes subject to a different privacy policy.  
-
-  * 5\. We may share aggregated information with others. Examples of this include the number of users who searched for "SK" or how many users clicked on a particolar advertisement.  
+  1. **2.** **This Privacy Policy**
+  2. 2.1 "By making available the Services we, acting reasonably and in good faith, believe that you:   
+(a) provide true information about yourself to the extent necessary for use of the Services;   
+(b) are aware of and accept this Privacy Policy. "
 
 
+  1. **3.** **Information we collect about you**
+  2. 3.1 In order to provide you with access to the use the Services, we will improve, develop and implement new features to our Services, and enhance the available Services functionality. To achieve these objectives, and in compliance with applicable laws, we will collect, store, aggregate, organise, extract, compare, use, and supplement your data that you choose to provide us via e-mail with (hereinafter “processing”). We will also receive and pass this data to our affiliates and partners as set out in the table below and section 4 of this Privacy Policy.
+  3. 3.2 We set out in more detail the information we collect when you use our Services, why we collect and process it and the legal bases below. 
 
 
-**Information security**
-
-  * 1\. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.  
-
-  * 2\. We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services.
-
-**Updating your information**
-
-  * 3\. We provide mechanisms for updating and correcting your personally identifying information for many of our services. For more information, please see the help pages for each service.  
-
-  * 4\. You can always have your account deleted by sending an e-mail to delete@sk-gaming.com including a link to your SK profile (for example: http://www.sk-gaming.com/member/YourNickname) as well as a copy of your identity pass so we can verify that you are the owner of the account. Same applies if you can't receive password information for your account for any reason. If that is the case, we need prove that you are claiming access to an account that belongs to you.
+  1. **3.3** **Google Analytics**
+  2. 3.3.1 This website uses Google Analytics, a web analytics service of Google Inc. (“Google”). Google Analytics also uses “cookies”. The information generated by the cookie about your use of this website will usually be transmitted to and stored by Google on a server in the United States. Only in exceptional cases is the full IP address transmitted to Google servers in the United States and then shortened. On behalf of the operator of this website, Google will use this information to evaluate your utilization of the website, to prepare reports about the activities on the website and to provide additional services to the operator of the website related to the utilization of the website and the use of the Internet.
+  3. 3.3.2 You may refuse the storage of cookies by selecting the appropriate settings on your browser; however, please note that if you do so you may not be able to use the full functionality of the website. You may also prevent the collection of the data referring to you that are generated by the cookie (including your IP address) in relation to the use of the Website and the subsequent transfer to Google and the processing of these data by Google by downloading and installing the browser plug-in available at the following link https://tools.google.com/dlpage/gaoptout/eula.html?hl=de. In this case, an opt-out cookie is stored which prevents the future collection of your data when you visit the website.
 
 
+  1. **4.** **Information Collected**
+  2. 4.1 Data received when you access the Site, including information regarding technical devices, technical interaction with the Site (your host IP-address, your operating system, type of a browser, geographic position, the Internet provider) and your browsing behavior and further actions on the Site.
+  3. 4.2 Information that is automatically received at the time of access to the Site with the use of cookies.
+  4. 4.3 Information that you submit to us when send us an email on a particular issue to one of addresses indicated at the Site (certain information about you including your name, address and other related details you provide)
 
-**Changes to this Policy**
 
-  * Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice.
+  1. **5.** **"We use the information we collect from you for the purposes of:**
+  2. • Providing you with an appropriate reply to your request;
+  3. • Protecting the rights and interests of SK Gaming GmbH & Co. KG and others.
+  4. 5.1 We process your data for the purposes identified above, as necessary, (1) for the legitimate interests of us and other third parties, including maintaining and administrating the Services; (2) to comply with our legal obligations;
+  5. 5.2 "Your personal information may also be processed if it is required by a law enforcement or regulatory authority, body or agency or in the defence or exercise of legal claims. We will not delete personal information if it is relevant to an investigation or a dispute. It will continue to be stored until those issues are fully resolved and/or during the term that is required and/or permissible under applicable/relevant law."
+  6. 5.3 If we intend to further process your data for any other purpose to those set out in this Privacy Policy, we shall provide you with details of this further purpose before we commence processing.
 
-If you have any additional questions, please feel free to [contact us](http://www.sk-gaming.com/about#about-contact) any time. 
 
+  1. **6.** **Data sharing**
+  2. 6.1 "We may share your personal information with companies, organisations and individuals inside and outside of the SK Gaming GmbH & Co. KG where one of the following circumstances applies:   
+• to other companies in our group, for administrative and management, subject to us taking reasonable measures to ensure that your information is kept secure at all times;   
+• to trusted third parties businesses, or persons who perform services and process your personal information for us for the purposes listed above, based on our instructions, subject to us taking reasonable measures to ensure that your information is kept secure at all times;   
+• to companies, organisations or individuals outside of SK Gaming GmbH & Co. KG if we have a belief in good faith that access, use, preservation or disclosure of the information is reasonably necessary to: o meet any applicable law, regulation, legal process or enforceable governmental request; o detect, prevent or otherwise address fraud, security or technical issues; or o protect against harm to the rights, property or safety of the Mail.Ru Group, our customers or the public, as required or permitted by law. "
+  3. 6.2 We may share your data with MGL MY.COM (CYPRUS) LIMITED, Mail.Ru LLC and other our affiliates. Sometimes we may also need to share your data with a third party in order to provide our services to you or to administer the Site, for example if you choose to share your data across other social media platforms.
+  4. 6.3 MAIL.RU LLC, My.com B.V., other companies in the Mail.ru Group or our selected third party partners with our permission, using their own ad servers, can show advertisements to you.
+
+
+  1. **7.** **International Transfers**
+  2. 7.1 We may transfer and maintain on our servers or databases some of your personal information outside the European Economic Area (EEA) including in Russia. 
+  3. 7.2 The countries to which we transfer your data may not have the same data protection laws as your jurisdiction. We take reasonable cyber security measures and/or put in place the Standard Contractual Clauses (e.g. Model Clauses, Data Processing Agreement/Addendum) to ensure your data is adequately protected.
+
+
+  1. **8.** **Your Rights**
+  2. 8.1 "You have the following rights, in certain circumstances, in relation to your personal information:   
+(a) Right to access your personal information.   
+(b) Right to rectify your personal information: you can request that we update, block or delete your personal data, if the data is incomplete, outdated, incorrect, unlawfully received or no longer relevant for the purpose of processing.   
+(c) Right to restrict the use of your personal information.   
+(d) Right to request that your personal information is erased.   
+(e) Right to object to processing of your personal information.   
+(f) Right to data portability (in certain specific circumstances).   
+(g) Right not to be subject to an automated decision.   
+(h) Right to lodge a complaint with a supervisory authority. " 
+  3. 8.2 If you would like to exercise these rights, please contact Support Service at info@sk-gaming .com or send your request to us, in writing to Löwengasse 1, 50676 Cologne, Germany. We will aim to respond to you within 30 days from receipt of request. We will need to verify your identity before we are able to disclose any personal data to you. 
+
+
+  1. **9.** **Security Measures**
+  2. 9.1 We take technical, organizational and legal measures, including, where suitable, encryption, to ensure that your personal data are protected from unauthorized or accidental access, deletion, modification, blocking, copying and dissemination. 
+
+
+  1. **10.** **Changes to this Policy**
+  2. 10.1 From time to time, we may change and/or update this Privacy Policy. If this Privacy Policy changes in any way, we will post an updated version on this page. We will store the previous versions of this Privacy Policy in our documentation archive. We recommend you regularly review this page to ensure that you are always aware of our information practices and any changes to such. 
+
+
+  1. **11.** **Contact Us**
+  2. 11.1 If you have any questions, please send your inquiries to Service support at info@sk-gaming .com or send your request to us, in writing to Löwengasse 1, 50676 Cologne, Germany. So we can deal with your enquiry effectively, please quote this Privacy Policy. We will aim to respond to you within 30 days from receipt of request. 
+  3. 11.2 All correspondence received by us from you (written or electronic inquiries) is classified as restricted-access information and may not be disclosed without your written consent. The personal data and other information about you may not be used without your consent for any purpose other than for response to the inquiry, except as expressly provided by law.
+  4. 11.3 The e-mail address of our DPO is dpo@corp .my.com. 
 
 
