@@ -1,101 +1,185 @@
-> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223145731id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612140855id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - IPVanish VPN
 
-Effective Date: April 15, 2014 
+Your privacy is our priority, but your trust in us is equally important. **That's why we want to be as transparent as possible in our policies.** IPVanish is a zero-logs VPN service provider, which means that we do not keep a record of any connection, traffic, or activity data in regards to our Services. In general, however, we monitor our Site activity to measure its performance and improve functionality. We want you to understand the type of information we collect, why we collect that data, and exactly how we use the information we collect.
 
-Your privacy is important to us, and we want you to understand what we collect, what we don't collect, and what we do with the information that we do collect. This Privacy Policy (the "Policy") applies to the information we collect about visitors to www.ipvanish.com (the "Site") and subscribers to the IPVanish VPN and related service (the "Services"), which are owned and operated by IPVanish (contact information below). 
+### In Brief
 
-Our Terms of Use, including their limitation on liability, apply to the Privacy Policy. You can read them at [www.ipvanish.com/tos.php](https://web.archive.org/tos.php).
+  * We care deeply about your privacy rights, and we will never log any traffic or usage of our VPN.
+  * We do not sell or rent personal information to others, under any circumstance.
+  * Your data is secured and rendered anonymous whenever you are connected to our Services.
+  * In order to provide you with our Services, we need to collect an email address and payment method to process transactions.
 
-  * [Information We Collect](https://web.archive.org/privacy-policy.php#1)
-  * [How We Use Your Information](https://web.archive.org/privacy-policy.php#2)
-  * [Cookies](https://web.archive.org/privacy-policy.php#4)
-  * [Security Measures We Have In Place](https://web.archive.org/privacy-policy.php#5)
-  * [Emails](https://web.archive.org/privacy-policy.php#7)
-  * [How To Modify Your Personal Information](https://web.archive.org/privacy-policy.php#8)
-  * [Children's Privacy](https://web.archive.org/privacy-policy.php#9)
-  * [International Users](https://web.archive.org/privacy-policy.php#10)
-  * [How To Contact Us](https://web.archive.org/privacy-policy.php#11)
-  * [Changes to this Policy](https://web.archive.org/privacy-policy.php#12)
+
+
+**Effective Date: May 30, 2018**
+
+This Privacy Policy (the "Policy”) applies to the information we collect about visitors to [www.ipvanish.com](https://web.archive.org/) (the "Site") and subscribers to the IPVanish VPN service (the "Services"), which are owned and operated by IPVanish (contact information below). Our Terms of Use, including their limitation on liability, apply to the Privacy Policy. You can read them at [www.ipvanish.com/tos.php](https://web.archive.org/tos.php). 
+
+### Policy Structure
+
+  * [Information We Collect](https://web.archive.org/privacy-policy.php#information-we-collect)
+    * [Site](https://web.archive.org/privacy-policy.php#information-we-collect-site)
+    * [Services](https://web.archive.org/privacy-policy.php#information-we-collect-services)
+    * [Website Cookies](https://web.archive.org/privacy-policy.php#information-we-collect-website-cookies)
+      * [Opt-Out for All Website Cookies](https://web.archive.org/privacy-policy.php#information-we-collect-cookies)
+      * [Opt-Out from Third-Party Pixels](https://web.archive.org/privacy-policy.php#information-we-collect-pixels)
+  * [How We Use Your Information](https://web.archive.org/privacy-policy.php#info)
+    * [Site](https://web.archive.org/privacy-policy.php#info-site)
+    * [Services](https://web.archive.org/privacy-policy.php#info-services)
+  * [How To Modify Your Personal Information](https://web.archive.org/privacy-policy.php#modify-personal-info)
+  * [Security Measures We Have In Place](https://web.archive.org/privacy-policy.php#security-measures)
+    * [In the workplace](https://web.archive.org/privacy-policy.php#security-measures-workplace)
+    * [On the internet](https://web.archive.org/privacy-policy.php#security-measures-internet)
+  * [Emails](https://web.archive.org/privacy-policy.php#emails)
+    * [Transactional Emails](https://web.archive.org/privacy-policy.php#emails-transactional)
+    * [Unsubscribing from Promotional Emails](https://web.archive.org/privacy-policy.php#emails-unsubscribing)
+  * [Children's Privacy](https://web.archive.org/privacy-policy.php#childrens-privacy)
+  * [Changes to this Policy](https://web.archive.org/privacy-policy.php#changes-policy)
+  * [GDPR Compliance](https://web.archive.org/privacy-policy.php#gdpr-compliance)
+  * [Privacy Settings and Requests](https://web.archive.org/privacy-policy.php#privacy-settings)
+  * [How To Contact Us](https://web.archive.org/privacy-policy.php#contact-us)
 
   
 
 
 ### Information We Collect
 
-**IPVanish does not collect or log any traffic or use of its Virtual Private Network service.**
+**IPVanish does not collect, monitor, or log any traffic or use of its Virtual Private Network service, under any circumstances, on any platform.**
 
-You do not have to give us any personally identifiable ("personal") information to browse our Site, but to subscribe to our Services you must create an account and register with us. In general, we collect the following limited information from users and only use it in order to process payments:
+While you are not required to provide any identifiable ("personal") information to browse our Site, in order to subscribe to our Services, you must first create an account and register with us. This is solely to maintain an active subscription to our service. 
 
-_Account Information_. To create an account, you may need to provide certain personal information, such as your name, billing address and e-mail. You will also need to select a username and password and provide us with payment information. The type of information collected may vary depending on payment method chosen. **We will only use this information to collect and process payments for you.** Once you have created an account, billing and subscription information can be accessed and modified by you at any time via your control panel. 
+### _Site_
 
-_Site Visitors_. We collect certain information automatically from visitors to our Site, such as IP (Internet protocol) address and pages viewed on our Site. For more information, see the "Cookies and Tracking" section below. **However, we do not track user activities outside of our Site, nor do we track the browsing activities of users who are logged into our VPN service.**
+We aggregate information from Site visitors using cookies, pixels, and similar technologies, such as Google Analytics. In such cases of automated collection, the focus of this data collection is on our Site performance, not on your personal information. You can browse our Site without submitting any personal information. The only non-personal data we collect from all visitors is in order to improve our Site. This information is aggregated, offering a high-level view of our Site activity, including: 
+
+  * Page requests
+  * Browser type
+  * Operating System
+  * Bounce rate
+  * Average time spent on our Site
+
+
+
+**We do not track user activities outside of our Site, nor do we track the website browsing or connection activities of users who are using our Services.**
+
+### _Services_
+
+To create an account, you will need to provide:
+
+  * an active email address
+  * an active payment method
+
+
+
+You may also need to provide additional personal information such as a name and billing zip code, depending on your chosen payment method. We will only use this information to collect and process payments for you. Once you have created an account, this personal information can be modified by you at any time through your [Account Control Panel](http://account.ipvanish.com/).
+
+### _Website Cookies_
+
+Cookies collect information about the use of our Site, and provide users with basic functionality; such as allowing you to save your account credentials to your browser. The cookies used for our Site are not connected to our Services in any way and cannot be tied to your Service activity.
+
+We use third-party service providers to aggregate non-personally identifiable Site data. These third parties, such as Google Analytics, use cookies and tracking pixels placed on our Site to collect, analyze, and generate reports on Site usage for us. The collection and processing of data from our Site by third-party service providers is consistent with this Policy. We do not provide these third parties with personal information about any specific user.
+
+### Opt-Out for All Website Cookies
+
+Many web browsers accept cookies automatically. There are many resources that advise you on adjusting cookie settings, such as [About Cookies](http://www.aboutcookies.org/). You can block cookies any time by adjusting your browser settings, visiting the Network Advertising Initiative [opt-out page](http://optout.networkadvertising.org/#/), or by disabling specific third-party pixels (see below). Please note that some of the features on our Site depend on cookies to properly function. 
+
+### Opt-Out from Third-Party Pixels
 
 ### How We Use Your Information
 
-We do not sell or rent personal information to others.
+**We do not sell personal information to third parties under any circumstance.**
 
-The information we collect through our Site and Services is primarily used to create new accounts, collect payment for our Services, identify and communicate with current subscribers, or offer troubleshooting or customer support. We may also use personal information for the following reasons: 
+### _Site_
 
-  * To verify your identity when you login to the Site or Service;
-  * For internal record keeping;
-  * To complete your online order;
-  * To administer and improve our Site and Services;
-  * To target our Site content to your preferences;
-  * To respond to your requests or inquires and for other customer service purposes;
-  * So that we may periodically send you promotional information that we think may interest you, about products, services, and offers made available by us, our affiliates or our marketing partners; and
-  * To analyze usage and trends on our Site and to better understand how users use the Site and Services.
-  * _Service Providers._ With third party service providers who provide services on our behalf, such as processing payments, hosting our Site, and sending email messages for us. Our service providers receive only the information they need to perform their designated functions, and are not permitted to use or disclose this information for their own marketing or other purposes;
-  * _Aggregate, Anonymous or De-Identified Information._ Sharing aggregate or non-personally identifiable information with non-affiliated third parties for advertising, marketing or research purposes. However, we do not share your personal information with any third parties for their own marketing, advertising or research purposes. 
+The information we collect through our Site is used for the following general purposes: 
 
-  
+  * **Process.** To create your account, collect payment for our Services, verify your identity when you log into the Site, and administer accounts;
+  * **Analyze.** To monitor usage and trends in order to better understand how our Site is found and used, manage customer relationships, and approach users with relevant content; 
+  * **Communicate.** To send you information periodically about news, products, services, and offers made available by us, our affiliates or our marketing partners;
+  * **Troubleshoot.** To respond to your requests for help and technical assistance, and maintain internal records of support histories;
 
 
-### Cookies
 
-This section describes the information we collect about visitors to our Site. As noted above, **we do _not_ track user activities outside of our Site, nor do we track the web activities of users when they are logged into our VPN Services.**
+### _Services_
 
-We may use or engage others to use cookies, clear gifs, and similar technologies to understand how users access and use our Site. In general, you can browse our Site without telling us who you are or submitting any personal information. However, we collect the IP addresses of all visitors to our Site, as well as other related information such as page requests, browser type, operating system and average time spent on our Site. We use this information to help us understand Site activity and to monitor and improve our Site. 
+The information we collect through our Services is used for the following general purposes: 
 
-_Cookies._ Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser for record-keeping purposes. There are two types of cookies: session-based and persistent-based cookies. Session cookies exist only during an online session; we use session cookies to allow our systems to uniquely identify you while you are logged in to your account at the Site. Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to track aggregate and statistical information about user activity. 
+  * **Process.** To create your account, collect payment for our Services, verify your identity when you log into the Service, and administer accounts; 
+  * **Troubleshoot.** To understand the source and cause of app crashes, and to develop & improve our Services;
 
-_Disabling Cookies._ Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Site visitors who disable their web browsers' ability to accept cookies will be able to browse the Site but certain Site features will not function. 
 
-_Clear GIFs (Web Beacons/Web Bugs)._ We or the third parties we engage may employ clear GIFs (a.k.a. Web Beacons/Web Bugs) to help us better manage content on the Site by among other things, tracking the activities of our Site visitors and compiling statistics about Site usage. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on your computer's hard drive, clear gifs are embedded invisibly on Web pages or within emails. 
 
-_Third Parties._ We may engage third parties, such as Google Analytics, to track and analyze non-personally identifiable Site data. These third parties may use cookies and clear GIFs on our Site to collect, analyze, and generate reports on Site usage for us. We do not provide these third parties with any personal information that we have collected about you. 
+**As previously outlined IPVanish does not collect or log any traffic of its Services, under any circumstances. We may, however, compile some statistical information related to app crashes.**
 
-Use the following link to opt out of Google's Analytic tracking: https://tools.google.com/dlpage/gaoptout
-
-### Security Measures We Have In Place
-
-We use security measures that are consistent with industry standards to protect your personal information from loss, theft, misuse or unauthorized access or disclosure or destruction. All employees are kept up-to-date on our security and privacy practices. In addition, access to user or subscriber personal information is restricted to those who need to know such information to perform their job functions. 
-
-Where appropriate, we use encryption, access controls, passwords, and/or physical security measures to protect the personal information we collect and maintain about you against unauthorized access and disclosure. Despite our efforts, no data security methods guarantee 100% protection. We do not promise and cannot guarantee that your personal information can never be viewed and/or used by others. 
-
-### Emails
-
-We may send you marketing and promotional emails about products, services and other information we think may interest you. You may unsubscribe from such emails at any time by emailing us at [support@ipvanish.com](mailto:support@ipvanish.com) and telling us you would like to "unsubscribe from marketing emails." In addition, if you receive a marketing or promotional e-mail from us, you may click the unsubscribe link contained in the e-mail to "opt out" of receiving future promotional e-mails from us. However, we may continue to send you emails about your account and for other customer-service-related purposes. 
+In addition, your information is used by third-party service providers who provide services on our behalf, such as processing payments ([Stripe](http://stripe.com/)), fraud detection ([MaxMind](https://www.maxmind.com/en/home)), and sending email messages ([SendGrid](http://sendgrid.com/)) for us. Our service providers receive only the information they need to perform their designated functions, and are not permitted to use or disclose this information. We do not share your personal information with third parties for their own marketing, advertising or research purposes, under any circumstance. This data does not link back to any personal identifiable information on our VPN. 
 
 ### How To Modify Your Personal Information
 
-Requests to review or amend your account information, or for technical support, service information, and changes in usage should be sent to: [support@ipvanish.com](mailto:support@ipvanish.com). We try to respond to all requests in a timely manner. You may also view and amend much of your account information, or update or renew your subscription, by logging in to your account and updating your account information. 
+Personal information can be modified by you at any time via the [Account Control Panel](http://account.ipvanish.com/). Additional inquiries and technical requests should be sent to: [support@ipvanish.com](mailto:support@ipvanish.com). We do our best to answer all requests in a timely manner. 
+
+### Security Measures We Have In Place
+
+### In the workplace
+
+We use industry best security measures to protect your personal information from loss, theft, misuse, or unauthorized access. All of our employees are kept up-to-date on these best practices. In addition, we restrict employee access to service administrative panels to only those who require such access in order to perform their job functions.
+
+### On the internet
+
+We make all of your data concealed and safeguarded as often as possible. Where appropriate, we use encryption, access controls, passwords, and physical security measures to protect the information we collect and maintain about you against unauthorized access and disclosure.
+
+### Emails
+
+As a Service subscriber you may receive emails about urgent privacy & security industry news, as well as Service updates. You may also receive promotional emails about products, services, and other information we think may interest you. We will never share your contact information with third parties.
+
+### Transactional emails 
+
+We send a small number of emails for transactional purposes, all of which we’ve outlined below. 
+
+### _Billing_
+
+  * **Payment reminder** \- all IPVanish plans are set to renew automatically. These emails notify you shortly before another billing cycle processes on your subscription; 
+  * **Payment warning** \- if your payment method on file is nearing expiration, then you’ll receive a payment warning email. These emails communicate the problem with your payment method and explain how you can update it;
+  * **Payment failure** \- if, for any reason, your payment has been unsuccessful, then you'll receive a payment failure email. These emails communicate that your payment has been unsuccessful and explain how you can update it;
+  * **Account cancellation** \- if, for any reason, you’ve requested to cancel your IPVanish subscription, then you’ll receive an account cancellation email. This email confirms your cancellation and explains how to reactivate your account, if you wish to; 
+  * **Account termination** \- these emails confirm that your IPVanish account has completed termination and explain how to reactivate your account, if you wish to; 
+
+
+
+### _Password_
+
+  * **Password reset** \- if, for any reason, you’ve requested to reset your IPVanish account password, then you’ll receive a password reset email. This email provides a unique password-reset link and instructs how to complete your password reset;
+  * **New password** \- if, for any reason, you’ve completed a password reset, then you’ll receive a new password email. This email confirms your password reset and explains how to change your password in the future, if you wish to; 
+
+
+
+### _Product Awareness_
+
+  * All new subscribers to IPVanish receive product awareness emails. These emails offer application tips and helpful hints to IPVanish account holders who may be unfamiliar with the benefits and inner-workings of a VPN.
+
+
+
+### Unsubscribing From Promotional Emails
+
+You may opt-out from receiving future promotional emails at any time by clicking the ‘Unsubscribe' link contained in the bottom of every email. While you may not receive promotional emails on behalf of IPVanish, you will continue to receive transactional emails from us. Transactional emails are system-generated communications that pertain to your account status; we will only send these emails during one of the instances listed in the section above. 
 
 ### Children's Privacy
 
-Our Site and Services are not intended for anyone under the age of 18. If you are a parent or guardian and believe that your child under 13 has provided personal information to us, please contact us so that we can delete the child's information. 
+Our Site and Services are not intended for anyone under the age of 18 years old. If you are a parent or guardian and believe that your child has provided personal information to us, please [contact us](mailto:support@ipvanish.com) so that we can delete the child's information.
 
-### International Users
+### Changes to This Policy
 
-IPVanish and our computer systems are based in the United States, so your personal information will be processed by us in the United States, where data protection and privacy regulations may be different than in other parts of the world. When you create an online account with us from outside the United States, you agree to the terms of this Policy and our Terms of Service, and give your consent to the transfer to and processing of such information in the United States, which may not offer an equivalent level of data protection as that in the European Union, Canada or other countries. 
+From time to time, we may change and/or update this Privacy Policy. We recommend you regularly review this page for updates. Your continued use of the Site or Services constitutes your acceptance of the then-effective Privacy Policy.
 
-### How To Contact Us
+### GDPR Compliance
 
-For questions about this Site or IPVanish, or for more information about how we or our service providers treat your personal information, please contact us at: 
+The European Union General Data Protection Regulation (GDPR) is effective as of May 25, 2018. This regulation broadens the privacy rights that EU individuals have over how their personal data is collected, processed and maintained. IPVanish is a privacy-focused business and will comply with these guidelines presented by the European Union. User privacy is our priority; both our Site visitors and subscribers to our Services have the right to know what we collect from them. 
 
-[support@ipvanish.com](mailto:support@ipvanish.com)
+### Privacy Settings and Requests
 
-### Changes to this Policy
+IPVanish provides information about our data privacy policies, including how we use cookies, in the Privacy section of this website. We also provide tools on this website that allow users to control privacy preferences for certain aspects of using this site or interacting with IPVanish, such as for cookies and marketing. If you have any data privacy or personal data questions or requests, please contact [privacy@ipvanish.com](mailto:privacy@ipvanish.com). 
 
-We may change this Policy from time to time, without prior notice to you, consistent with applicable privacy laws and principles. If we do so, we will post a new effective date for that Policy. Your continued use of the Site or Services constitutes your acceptance of the then-effective Privacy Policy. 
+### How to Contact Us
+
+For questions about this Site, IPVanish Services, or for more information about the matters discussed in this Privacy Policy, please contact us at: [support@ipvanish.com](mailto:support@ipvanish.com)
