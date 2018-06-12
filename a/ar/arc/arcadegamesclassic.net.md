@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadegamesclassic.net privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108211154id_/http%3A//arcadegamesclassic.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadegamesclassic.net privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613005221id_/http%3A//arcadegamesclassic.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Copyrights
 
