@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awakeningfromalzheimers.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208193331id_/http%3A//www.awakeningfromalzheimers.com/awakening-from-alzheimers-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awakeningfromalzheimers.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612135225id_/https%3A//www.awakeningfromalzheimers.com/awakening-from-alzheimers-privacy-policy) for the most accurate reproduction.*
 
 # Awakening from Alzheimer’s Privacy Policy – Awakening From Alzheimers
 
@@ -12,7 +12,7 @@ Except as otherwise disclosed in this Privacy Policy, we do not sell or disclose
 
 We may also collect, store or accumulate certain non-personally identifiable information concerning your use of this website, such as information regarding which of our pages are most popular.
 
-This website is intended for adults. We do not knowingly collect personal information from children under the age of 13. However, if the parent or guardian of a child under 13 believes that the child has provided us with personally identifiable information, the parent or guardian of that child should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fe97909891be9f899f959b90979099988c91939f9284969b97939b8c8dd09d9193) if they want this information deleted from our files so that it is not in retrievable form. If we otherwise obtain knowledge that we have personally identifiable information about a child under 13 in retrievable form in our files, we will delete that information from our existing files so that it is not retrievable.
+This website is intended for adults. We do not knowingly collect personal information from children under the age of 13. However, if the parent or guardian of a child under 13 believes that the child has provided us with personally identifiable information, the parent or guardian of that child should contact us at [info@awakeningfromalzheimers.com](mailto:info@awakeningfromalzheimers.com) if they want this information deleted from our files so that it is not in retrievable form. If we otherwise obtain knowledge that we have personally identifiable information about a child under 13 in retrievable form in our files, we will delete that information from our existing files so that it is not retrievable.
 
 **Use of Cookies:**  We also use cookies to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer to our servers every time you visit our website. Cookies by themselves cannot be used to find out the identity of any user, but may be correlated with identity information in our log files. You can turn off the cookie feature by using your browser preference options.
 
@@ -22,7 +22,7 @@ Our website may offer links to and from other third party sites. These third par
 
 **Email Marketing:**  We want to communicate with you via email correspondence only if you want to hear from us. We may from time to time send you email messages describing new products, special offers, and great values. If for any reason you would no longer like to receive email messages please see the Opt-Out section below.
 
-**Opt-Out:**  You may opt-out of receiving communication from us and from other third parties by emailing us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7e171018113e1f091f151b10171019180c11131f1204161b17131b0c0d501d1113) or writing to us at:
+**Opt-Out:**  You may opt-out of receiving communication from us and from other third parties by emailing us at: [info@awakeningfromalzheimers.com](mailto:info@awakeningfromalzheimers.com) or writing to us at:
 
 **Online Publishing & Marketing, LLC**  
 **PO Box 1076**  
