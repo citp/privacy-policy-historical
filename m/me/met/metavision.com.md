@@ -1,14 +1,76 @@
-> *The following text is extracted and transformed from the metavision.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212061349id_/https%3A//www.metavision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metavision.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612140910id_/https%3A//www.metavision.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Effective Date: February 29, 2016
+### Effective Date: May 25, 2018
 
-Meta Company, a Delaware corporation (“Meta”), provides this Policy statement explaining its online information practices and the way in which your personal information is collected and used (this “Policy”). By using the Meta Websites or any of the Services, you consent to the practices described in this Policy. Except as explicitly provided herein, this Policy does not apply to the practices of companies that Meta does not own or control, or to people that Meta does not employ or manage. IF YOU DO NOT AGREE WITH THE PRACTICES EXPLAINED IN THIS POLICY, DO NOT ACCESS OR BROWSE THE META WEBSITES, OR USE THE SERVICES. Capitalized terms not defined in this Policy will have the meaning set forth in the Meta Terms of Use, available at <https://www.metavision.com/legal#terms>.
+Meta Company, a Delaware corporation (“Meta”), provides this Policy statement explaining its online information practices and the way in which your personal information is collected and used (this “Policy”). By using the Meta Websites or any of the Services, you consent to the practices described in this Policy. Except as explicitly provided herein, this Policy does not apply to the practices of companies that Meta does not own or control, or to people that Meta does not employ or manage. IF YOU DO NOT AGREE WITH THE PRACTICES EXPLAINED IN THIS POLICY, DO NOT ACCESS OR BROWSE THE META WEBSITES, OR USE THE SERVICES. Capitalized terms not defined in this Policy will have the meaning set forth in the Meta Terms of Use, available at [https://www.metavision.com/terms-of-use](https://www.metavision.com/legal#terms).
 
 ### Collection of Personal Information
 
-The types of personal information collected on the Meta Websites may include, but is not limited to, the following: (1) e-mail address, (2) first and last name, (3) country or region, (4) state or territory, (5) ZIP code or postal code, (6) language, (7) time zone, (8) gender, (9) birth date and age, and (10) occupation. In connection with the purchase of Products and Services, Meta may collect the following additional information (1) billing address; (2) telephone number; (3) where and to whom the Product is shipped; and (4) credit card or other payment information. Meta may also collect and store the IP address of your computer or other networking device, which may be needed to operate various features of the Services or to determine any misuse of content. Meta may also collect data pertaining to your online transactions, purchase history, application usage patterns and website usage patterns by use of a tracking pixel, agent or any other visitor identification technology that collects anonymous data about end users of Meta applications or websites.
+When you use our services, including on the Meta Websites, Meta may collect the following types of information:
+
+  * **Information provided directly by you, including:**
+    * Account Information. This may include your: (1) e-mail address, (2) first and last name, (3) country or region, (4) state or territory, (5) ZIP code or postal code, (6) language that you speak, (7) time zone, (8) gender, (9) birth date and age, and (10) occupation.
+    * Payment Information. In connection with the purchase of Products and Services, Meta may collect the following additional information from you: (1) billing address; (2) telephone number; (3) where and to whom the Product is shipped; and (4) credit card or other payment information.
+    * User Content: This may include the information that you choose to store on the Meta Cloud web platform.
+    * Customer Service: This includes information you provide us to help with any technical issue you are experiencing, the date and time of your call as well as whether we were able to resolve your issue.
+
+
+  * **Information on your use of Meta Products.  **Each time you use a Meta Product, we may automatically access and store information about your use of that Product to help us personalize our services to you. We may combine this data with other data we have for your specific account. The types of data we access and store from your Product may include: 
+    * Product identifiers such as your Meta Product device ID, cookie ID, or mobile device ID;
+    * Network identifiers such as your computer IP address and MAC address;
+    * Your current and recent locations if you choose to share this information with Meta;
+    * Error reports and setting details of your Product;
+    * Information about which applications you are accessing from your Product;
+    * Information related to your interpupillary distance and other ways you have configured your Product;
+    * Information on the duration of use of your Product, including the date and time of use, how you use your Product and the content you browse, share or download; and
+    * Software errors and load time details.
+
+
+  * _Information Collected by Meta’s Standard Development Kit (“SDK”_ ). Meta utilizes analytics software packaged with its SDK to collect data from users of its SDK, and processes personal information with user consent and/or on the basis of legitimate interests – however, all such data collected by our analytics software is anonymized for security and privacy reasons. Analytics software packaged with our SDK currently collects the following categories of information: 
+    * User information;
+    * Whether the SDK installer was started, completed and is active;
+    * Version of SDK installed;
+    * Time and duration of Unity scene;
+    * User page clicks;
+    * Diagnostic test results;
+    * Specifications of machine;
+    * Whether calibration profile was successfully created;
+    * Version of Unity used;
+    * Whether MetaHands or MetaMouse is enabled;
+    * Whether VirtualWebcam was started and stopped;
+    * Number of SLAM initializations;
+    * Duration and success of relocalization attempts;
+    * Minimum, maximum and average time to initialize SLAM;
+    * Whether the user used Alt+I/S to save SLAM map; and
+    * Whether the IMU on your Meta product started correctly.
+
+
+  * _Meta Viewer Beta software_. Meta collects the following information from Meta Viewer beta software users: 
+    * Whether and when the Meta Viewer application is opened and closed;
+    * Use of browser by user to load models into Meta Viewer;
+    * Commencement of loading model;
+    * Load time into Meta Viewer;
+    * Model selection and duration of viewing model on the Meta Viewer;
+    * Application of the “one-to-one” effect on the Meta Viewer (a tool/feature of the Meta Viewer);
+    * Application of an animation or state change to the model being shown in the Meta Viewer;
+    * Interaction with the model and shelves in Meta Viewer with hands, or with mouse; and
+    * Number of times a model is dropped into Meta Viewer by a user.
+
+
+  * **Information gathered through use of our website**
+
+
+
+When you visit our website (including our online store), Meta may collect and analyze information such as: the IP address of your computer, mobile, or other networking device; browser types, browser language, operating system, the state or country from which you accessed the Services, platform type, the number of clicks registered, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services to upload or post content, error logs, and other similar information. Meta monitors customer traffic patterns and site usage to help us develop the design and layout of the site, and to improve the content of our website to better match the interests of our website users. 
+
+Meta also gathers information through the use of Meta’s website for marketing services, such as:
+
+  * Online activity: Meta may collect data pertaining to your online transactions, purchase history, application usage patterns and website usage patterns by use of a tracking pixel, agent or other visitor technology that collects anonymous data about end users of Meta Applications, Products or Services.
+  * Anonymous Aggregate Data: Meta may collect and analyze information about your use of the Services as aggregated with the use of the Services by other users (“Aggregate Information”). An example of Aggregate Information collected include overall usage patterns of Users, the total number of Users, the percentage of Users who are female, or in a certain age range, or who live in a particular region, etc., or the percentage of Users who are also consumers of various other products and services. The collection and analysis of Aggregate Information is important in the operation and enhancement of Meta’s Services and other business purposes. Aggregate Information may be compiled in reports and disclosed, sold, licensed or rented to third parties. However, since Aggregate Information does not include any information that can be used to individually identify you or any other User, it is not possible for the third party recipient of the Aggregate Information to use it to identify or contact you.
+
+
 
 ### Operational Information
 
@@ -16,17 +78,33 @@ Some “operational” information is used by the Services in order to operate y
 
 ### Use of Your Personal Information
 
-Meta will not share with, or sell or rent to, others your personally identifiable information, such as your name and e-mail address, without your consent, except as provided herein. Meta may use your personally identifiable information: (a) to deliver you the Services and send you notices related to the Services, your account and necessary updates, (b) to e-mail you promotions and special offers from Meta and its partners, (c) to manage your account and account access, provide you purchase confirmations, support, and customer service and to keep track of support and customer service requests, and (d) to aggregate your information with that of others for marketing and promotional purposes. If you do not want to receive such mailings, you may “opt-out” by the means provided for (if any) in the mailings and/or by changing your personal preferences in your account settings.
+Meta will not share with, or sell or rent to, others your personally identifiable information, such as your name and e-mail address, without your consent, except as provided herein. 
 
-In addition, certain promotions and features of the Meta Websites, Software and email correspondence will give the user the ability to opt-in to promotions and special offers to recommend to you for your consideration various products, services, merchandise and upcoming events. Meta may also send you e-mails about periodic service or recommended security updates or surveys related to the Services. These periodic e-mails are considered essential to the provision of the Services you have requested. You cannot unsubscribe from these mailings. You may, however, choose not to participate in the surveys.
+Meta uses the personal information that it collects for the following purposes:
+
+  * **To Provide, Improve and Develop Services.  **Meta uses the information we collect to honor our Terms and Services to you. For example, Meta uses the information you provide to fulfill transactions you’ve placed, to provide the technical and customer support necessary to allow you to use your device, to assist in managing your account, and to provide you with necessary Product updates. Meta also uses the data provided, such as data analytics and information provided through Meta Products and Services to develop, personalize and/or otherwise improve current and future Products and Services.
+
+
+  * **To Communicate with You.  **Meta uses the data we gather to communicate with you. This may include direct marketing and the promotion of new Meta Products and/or Services we think you would be interested in, and notifying you of Product and Service updates, promotions and special offers.
+
+
+  * **To Comply with the Law and/or Exercise Meta’s Legal Rights.  **Meta may also use the information collected to abide by legal requirements, comply with legal processes or protect its legal rights.
+
+
 
 ### Disclosure of Personal Information
 
-Meta occasionally hires other companies to provide limited services on Meta’s behalf, such as answering customer support inquiries, resolving service problems and correcting errors in the Service (including customer inquiries, billing, and credit corrections), to communicate with you about the Service, to provide you advertising and promotional information in connection with the Service, and to enhance your experience on the Service. Meta will only provide these companies with those pieces of your personal information needed to deliver the Service, and the companies and their employees are prohibited from using that personal information for any other purpose.
+Meta may share your personal information with third parties in order to fulfill a service or transaction you may have requested, to fulfill and comply with its legal obligations, or to defend against legal claims.  Some examples of third parties with whom Meta might be required to share your personal information, and the circumstances and conditions of such disclosures, are outlined below.
 
-Meta may share your personal information with third parties in order to fulfill a service or transaction you may have requested.
+  * **Third Party Contractors and Vendors.  **Meta occasionally hires other companies to provide limited services on Meta’s behalf, such as answering customer support inquiries, resolving service problems and correcting errors in the Service (including customer inquiries, billing, and credit corrections), to communicate with you about the Service, to provide you advertising and promotional information in connection with the Service, and to enhance your experience on the Service. Meta only provides these companies with those pieces of your personal information needed to deliver the Service, and the companies and their employees are prohibited from using that personal information for any other purpose.
 
-Meta may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on Meta, including, without limitation, to respond to a subpoena, court order or such other request, or otherwise establish or exercise Meta’s rights; (b) protect and defend the rights or property of Meta and of the Content as licensed to Meta; (c) act under exigent circumstances to protect the personal safety of users of the Service, or the public; or (d) if Meta files for bankruptcy, or there is a transfer of the assets or ownership of Meta. Meta assumes no obligation to inform you that your information has been provided and in some cases may be prohibited by law from giving such notice.
+
+  * **Legal and Corporate.  **In some instances, Meta may share the data we collect to defend legal claims or to exercise its legal rights. For example, personal data may be shared with our service providers processing data on our behalf, professional advisors dealing with, for example, legal, tax, audit or accounting matters, or during negotiations for and following the conclusion of a sale of all or part of our business.
+
+
+  * **Government Authorities.  **Meta may also disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on Meta, including, without limitation, to respond to a subpoena, court order or such other request, or otherwise establish or exercise Meta’s rights; (b) protect and defend the rights or property of Meta and of the Content as licensed to Meta; (c) act under exigent circumstances to protect the personal safety of users of the Service, or the public; or (d) if Meta files for bankruptcy, or there is a transfer of the assets or ownership of Meta. Meta assumes no obligation to inform you that your information has been provided, unless required to do so by law - and in some cases may be prohibited by law from giving such notice.
+
+
 
 ### Managing Your Personal Information
 
@@ -40,15 +118,39 @@ Any information that you may reveal in your user profile, in communication with 
 
 Meta uses reasonable precautions to keep user information secure. Meta uses a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. However, due to the open nature of communication through the Internet, Meta cannot guarantee that communications between you and Service, and the Service and you, will be free from unauthorized access by third parties. Users of the Service do so at their own risk. Meta cannot guarantee the security of any information disclosed online.
 
+### Data Retention
+
+ Meta only retains information that it necessary for legitimate business purposes. 
+
 ### Aggregate Information
 
 Meta may collect and analyze information about your use of the Services as aggregated with the use of the Services by other users (“Aggregate Information”); for example, overall usage patterns of Users, the total number of Users, the percentage of Users who are female, or in a certain age range, or who live in a particular region, etc., or the percentage of Users who are also consumers of various other products and services. The collection and analysis of Aggregate Information is important in the operation and enhancement of the Services and other business purposes. Aggregate Information may be compiled in reports and disclosed, sold, licensed or rented to third parties. However, since Aggregate Information does not include any information that can be used to individually identify you or any other User, it is not possible for the third party recipient of the Aggregate Information to use it to identify or contact you.
 
+### Individual Rights Under the General Data Protection Regulation ("GDPR")
+
+ The General Data Protection Regulation (the "GDPR") gives individuals in the European Union (data subjects) rights over their personal data which may be exercised in certain circumstances. These include:
+
+  * The right to be provided, in a concise and clear way, information about Meta’s processing activities, their personal data and how it might be used;
+  * The right to access their personal data;
+  * The right to revise and correct inaccurate personal information;
+  * The right to request erasure of their personal information;
+  * The right to request the restricted processing of their personal information;
+  * The right to transmit your information to another service provider;
+  * The right to object to the processing of their personal information;
+
+
+
+Individuals subject to the rights outlined above may exercise them by contacting  **privacy@metavision.com**.
+
+Data Subjects also have the right to lodge a formal complaint with a supervisory authority should the individual Data Subject feel that Meta has not complied with the individual’s rights under the GDPR.
+
+Answers to frequently asked questions related to the GDPR are available here: https://www.metavision.com/meta-company-gdpr-faq.
+
 ### Use of Cookies and Other Tracking Technology
 
-Meta may collect some information automatically and store it in log files, either directly or through third party analytics providers, such as Google Analytics. This collection may include, but is not limited to: your IP address, browser type and language, device type, referring/exit pages and URLs, other browser history, platform type, number of clicks, landing pages, cookie information, the pages you requested and viewed, the amount of time spent on particular pages, and the date and time of each request you make. A cookie is a very small text file that a website saves to your computer’s hard disk to store information that you provide about yourself or to store your preferences. Meta may place Internet cookies on your hard drive, which may remain on your hard drive until you delete them. Cookies are used to store your profile information on your hard disk. The cookie allows you to move from page to page at the Meta Websites without having to sign in again on each page. You may have the ability to accept or decline cookies using the settings on your browser. However, if you choose to decline cookies, you may not be able to sign in or use the Services. As part of the Services, Meta may recommend for your consideration various content, products and services. Accordingly, Meta may analyze data pertaining to your online transactions, purchase history, application usage patterns and usage patterns on the Meta Websites through utilizing a tracking pixel, beacon, agent or any other visitor identification technology that collects anonymous data about end users of the Meta Websites and the Services so that Meta can make recommendations suited especially to you or to target certain advertising or promotional offers to you.
+A cookie is a small data file that is placed on the hard drive of your computer, tablet, smartphone or other device when you visit a website. Some cookies are functional and enable additional functionality when a user accesses the website (e.g. allows users to save user preferences or language suggestions).  Other cookies are non-functional and allow the website and third parties to tailor messages and advertising relevant to a user’s interests.  Meta uses cookies to keep track of how you use our website and services so we may provide personalized service.
 
-Google Analytics uses cookies and pixels in order to collect demographic and interest-level information and usage information from users that visit the Meta Websites, including but not limited to information about the pages where users enter and exit the Meta Websites and what pages users view on the Meta Websites, time spent, browser, operating system, and IP address. Cookies and pixels allow Google to recognize a user when a user visits the Site and when the user visits other websites. Google uses the information it collects from the Meta Websites and other websites and may share that information with us and other website operators – including, but not limited to, age range, gender, geographic regions, general interests, and details about devices used to visit websites and purchase items. Meta does not link information Meta receives from Google with any of your personally identifiable information, or user data. For more information regarding Google’s use of cookies, pixels, and collection and use of information, please review Google’s Privacy Policy. If you would like to opt out of Google Analytics tracking, please visit the following link: <https://tools.google.com/dlpage/gaoptout>.
+To learn more about Meta's use of cookies, and the policies and guidelines that Meta adheres to with respect to its use of cookies, please review Meta's Cookie Policy, available here: http://www.metavision.com/meta-cookie-policy.
 
 ### Third-Party Websites
 
@@ -76,7 +178,7 @@ Meta will use reasonable efforts to comply with this Policy and will take prompt
 
 TO THE EXTENT PERMISSIBLE UNDER LAW, META WILL NOT BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES RELATING TO THIS POLICY, INCLUDING FOR ANY SECURITY BREACH THAT COMPROMISES ANY USER’S PERSONAL INFORMATION AS IT RELATES TO META’S WEBSITES, SERVERS OR SOFTWARE.
 
-What choices do I have?
+### What Choices Do I Have?
 
 You can always opt not to disclose information to use, but keep in mind some information may be needed to take advantage of some of the Services or special features of the Services. You may be able to add or update certain information as explained above. When you update information, however, Meta may maintain a copy of the unrevised information in Meta’s records. You may request deletion of your certain of your personal information by sending an e-mail to [privacy@metavision.com](mailto:privacy@metavision.com). Please note that some information may remain in Meta’s private records after deletion of your account.
 
@@ -89,5 +191,3 @@ Meta reserves the right to modify this Policy at any time. When Meta does so, Me
 ### Contact Us
 
 If you have questions regarding this Policy, please send an e-mail message to: [privacy@metavision.com](mailto:privacy@metavision.com).
-
-Last Updated: 2/29/2017
