@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatamericandaily.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201021742id_/http%3A//greatamericandaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatamericandaily.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612131101id_/http%3A//greatamericandaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Great American Daily
 
@@ -32,6 +32,8 @@ We also collect and store information that is generated automatically as you nav
 
  Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
 
+Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you. Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, or email address. Our partners may link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. To learn more about interest-based advertising in general and to opt out, please visit <http://www.aboutads.info/choices>.
+
 **Children’s Privacy Statement**
 
 ** ** This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
@@ -54,6 +56,8 @@ This policy may be changed at any time at our discretion. If we should update th
 
 If you have any questions or concerns regarding our privacy policy please direct them to:
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#533a3d353c131421363227123e36213a30323d17323a3f2a7d3d3627)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1e777078715e596c7b7f6a5f737b6c777d7f705a7f77726730707b6a)
 
 Copyright 2014 [Great American Daily](http://greatamericandaily.com/) All Rights Reserved
+
+<http://www.aboutads.info/choices>
