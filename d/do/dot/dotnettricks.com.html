@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dotnettricks.com privacy policy that was archived on 2017-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171031150706id_/http%3A//www.dotnettricks.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotnettricks.com privacy policy that was archived on 2018-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180612180629id_/http%3A//www.dotnettricks.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" ng-app="app"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,33 +13,64 @@
 
     <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
-    <link href="/css/site?v=SKHoDUnMo_bL5onac9XNhi19mN9KuFedy_9cppIlLh01" rel="stylesheet">
+    <link href="/css/site?v=qJT4N8OJGspSh4OUQ_vvzPLALNz7EHZY-iDrtv774Q81" rel="stylesheet">
 
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="/js/jquery?v=2hNklc9kWvxyV14yN9AWXCgP-kFO1vniuV_fOtKZP_c1"></script>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NTS6ZMJ"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="/js/jquery?v=2hNklc9kWvxyV14yN9AWXCgP-kFO1vniuV_fOtKZP_c1"></script>
 
-    <script src="/js/site?v=vyXKiH4y8ShKBb_DkPvmWZoAS0NCH1qWqHIDzm3fynU1"></script>
+    <script src="/js/site?v=Y5U93rnXbtycrY10bARRGA0j9MDb4pSm-60Rt-nfCuE1"></script>
 
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
-    <script src="/js/app.js"></script>
-    <noscript>
-        <div class="noscript">
-            <div>
-                <span>Please enable Javascript to correctly display the contents on Dot Net Tricks!</span>
-            </div>
-        </div>
-    </noscript>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
+    <script>
+        $(function () {
+            setTimezoneCookie();
+        });
+        function setTimezoneCookie() {
+            var timezone_cookie = "timezoneoffset";
+            // alert(new Date().getTimezoneOffset())
+            // if the timezone cookie not exists create one.
+            if (!$.cookie(timezone_cookie)) {
+                // check if the browser supports cookie
+                var test_cookie = 'test cookie';
+                $.cookie(test_cookie, true);
+                // browser supports cookie
+                if ($.cookie(test_cookie)) {
+                    // delete the test cookie
+                    $.cookie(test_cookie, null);
+                    // create a new cookie
+                    $.cookie(timezone_cookie, new Date().getTimezoneOffset());
+                    // re-load the page
+                     location.reload();
+                }
+            }
+            // if the current timezone and the one stored in cookie are different
+            // then store the new timezone in the cookie and refresh the page.
+            else {
+                var storedOffset = parseInt($.cookie(timezone_cookie));
+                var currentOffset = new Date().getTimezoneOffset();
+                // user may have changed the timezone
+                if (storedOffset !== currentOffset) {
+                    //alert(storedOffset + "-" + currentOffset)
+                    $.cookie(timezone_cookie, new Date().getTimezoneOffset());
+                    location.reload();
+                }
+            }
+        }
+    </script>
+
+    <script src="/js/app.js"></script>  
 
     <!-- Facebook Pixel Code -->
     <script>
         !function (f, b, e, v, n, t, s) {
             if (f.fbq) return; n = f.fbq = function () {
                 n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
             };
             if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
             n.queue = []; t = b.createElement(e); t.async = !0;
@@ -49,16 +80,360 @@
             'https://connect.facebook.net/en_US/fbevents.js');
         fbq('init', '500694590283522');
         fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" style="display:none"
-             src="https://www.facebook.com/tr?id=500694590283522&ev=PageView&noscript=1" />
-    </noscript>
+    </script>   
     <!-- End Facebook Pixel Code -->
-
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NTS6ZMJ');</script>
+    <!-- End Google Tag Manager -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.3/css/bootstrap-select.min.css">
 </head>
 <body style="">
+    <noscript>
+        <div class="noscript">
+            <div>
+                <span>Please enable Javascript to correctly display the contents on Dot Net Tricks!</span>
+            </div>
+        </div>
+    </noscript>
+   
     <!-- Header -->
+    <script type="text/javascript">
+    $(document).ready(function () {
+        //animation
+        $('.bottomads').addClass('animated fadeIn');
+        $('.bottomads').fadeIn();
+        $("#mainmu").css("padding-top", "40px");
+        $("#newhead").css("padding-top", "40px");
+        $("#headTraining").css("padding-top", "40px");
+        $(".masterclp_top").css("margin-top", "-25px");
+        $(".masterclp_topself").css("margin-top", "-25px");
+        $(".webinar-header").css("padding-top", "40px");
+        $(".attentblock").css("padding-top", "130px");
+        $(".articelleft").css("top", "75px");
+        $(".articelright").css("margin-top", "75px");
+        $(".topadsfrst").css("margin-top", "115px");
+        $(".topadssecnd").css("padding-top", "70px");
+        $(".servicesMargin").css("margin-top", "40px");
+        var closeCounter = 0;
+
+        $('.btnclose').click(function () {
+            closeCounter = 1;
+            $('.bottomads').addClass('animated fadeIn');
+            $(".bottomads").slideToggle(500);
+            $("#mainmu").css("padding-top", "0px");
+            $("#newhead").css("padding-top", "0px");
+            $("#headTraining").css("padding-top", "0px");
+            $(".masterclp_top").css("margin-top", "-65px");
+            $(".masterclp_topself").css("margin-top", "-65px");
+            $(".webinar-header").css("padding-top", "0px");
+            $(".attentblock").css("padding-top", "90px");
+            $(".articelleft").css("top", "30px");
+            $(".articelright").css("margin-top", "40px");
+            $(".topadsfrst").css("margin-top", "80px");
+            $(".topadssecnd").css("padding-top", "40px");
+            $(".servicesMargin").css("margin-top", "0px");
+        });
+
+
+        var InfiniteRotator =
+            {
+                init: function () {
+                    //initial fade-in time (in milliseconds)
+                    var initialFadeIn = 0;
+                    //interval between items (in milliseconds)
+                    var itemInterval = 5000;
+                    //cross-fade time (in milliseconds)
+                    var fadeTime = 0;
+                    //count number of items
+                    var numberOfItems = $('.rotating-item').length;
+                    var currentItem = 0;
+                    $('.rotating-item').eq(currentItem).fadeIn(initialFadeIn);
+                    var infiniteLoop = setInterval(function () {
+                        $('.rotating-item').eq(currentItem).fadeOut(fadeTime);
+                        if (currentItem == numberOfItems - 1) {
+                            currentItem = 0;
+                        } else {
+                            currentItem++;
+                        }
+                        $('.rotating-item').eq(currentItem).fadeIn(fadeTime);
+                    }, itemInterval);
+                }
+            };
+        InfiniteRotator.init();
+
+    });
+</script>
+
+<style type="text/css">
+    .bottomads {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        right: 0px;
+        background: linear-gradient(to right, rgb(177, 52, 255), rgb(255, 155, 30));
+        overflow: hidden;
+        z-index: 99999;
+        padding: 8px 5px;
+        box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+        -o-box-sizing: border-box;
+    }
+
+    .icon-box {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        text-align: center;
+        padding-top: 9px;
+        width: 44px;
+        font-size: 26px;
+        color: #fff;
+        height: 100%;
+    }
+
+    .bottomads .btnclose {
+        position: absolute;
+        right: 0px;
+        text-align: center;
+        padding-top: 8px;
+        top: 0px;
+        width: 40px;
+        cursor: pointer;
+        /*display: block !important;*/
+    }
+
+    .contentads {
+        font-family: 'Open Sans', sans-serif;
+        color: #fff;
+        font-size: 15px;
+        line-height: 37px;
+        text-decoration: none;
+        display: inline-block;
+        padding: 1px 40px 0px 50px;
+    }
+
+        .contentads:hover {
+            font-family: 'Open Sans', sans-serif;
+            color: #fff;
+        }
+
+    .viewbtn {
+        border: 1px solid #ffffff;
+        color: #ffffff;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: normal;
+        margin-left: 14px;
+        border-radius: 2px;
+        display: inline-block;
+        padding: 3px 6px;
+    }
+
+    /* code for animated blinking cursor */
+    .typed-cursor {
+        opacity: 1;
+        /*font-weight: 900;*/
+        -webkit-animation: blink 0.7s infinite;
+        -moz-animation: blink 0.7s infinite;
+        -ms-animation: blink 0.7s infinite;
+        -o-animation: blink 0.7s infinite;
+        animation: blink 0.7s infinite;
+        color: white;
+        font-size: 25px;
+    }
+
+    @-keyframes blink {
+        0% {
+            opacity: 1;
+        }
+
+        50% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    @-webkit-keyframes blink {
+        0% {
+            opacity: 1;
+        }
+
+        50% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    @-moz-keyframes blink {
+        0% {
+            opacity: 1;
+        }
+
+        50% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    @-ms-keyframes blink {
+        0% {
+            opacity: 1;
+        }
+
+        50% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    @-o-keyframes blink {
+        0% {
+            opacity: 1;
+        }
+
+        50% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    #clockdiv {
+        font-family: sans-serif;
+        color: #272323;
+        display: inline-block;
+        font-weight: 600;
+        text-align: center;
+        font-size: 14px;
+        margin-top: 0px;
+    }
+
+        #clockdiv > div {
+            border-radius: 3px;
+            display: inline-block;
+        }
+
+        #clockdiv div > .cont {
+            border-radius: 0px;
+            background: #ffffff;
+            display: inline-block;
+            font-weight: 600;
+            letter-spacing: 2px;
+            padding: 1px 1px 0px 3px;
+        }
+
+    .smalltext {
+        margin-top: 3px;
+        font-size: 14px;
+        color: #fff;
+        display: inline-block;
+    }
+</style>
+        <div class="bottomads " id="ads1" style="display: none; position: fixed; top: 0; width: 100%; float:left;padding: 9px;">
+            <div style="background-color:#e62117" class="fa fa-bullhorn icon-box"> </div>
+            <div id="divNotify">
+                <div class="wrap " style="padding-left: 55px;">
+                    <div id="rotating-item-wrapper">
+                                <div class="rotating-item" style="display:none">
+                                    <a href="https://www.youtube.com/dotnettricks" id="text-white" style="text-decoration:none;color:#fff;font-size: 16px;">Join Dot Net Tricks YouTube channel to stay updated with latest technology trends !!</a>
+                                </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <a class="btnclose" id="btnclose"><i class="fa fa-times" style="display: block;color:white;font-size:20px"></i></a>
+        </div>
+
+<script>
+
+    $(document).ready(function () {
+        //animation
+        // Set the date we're counting down to
+        var sqlepr = $("#sqlepr").val();
+          //alert(sqlepr)
+        var countDownDate = new Date(sqlepr).getTime();
+
+        // Update the count down every 1 second
+        function getTimeRemaining(countDownDate) {
+            var now = new Date().getTime();
+            // Find the distance between now an the count down date
+            var t = countDownDate - now;
+            if (t > 0) {
+                //  var t = Date.parse(countDownDate) - Date.parse(new Date());
+                var seconds = Math.floor((t / 1000) % 60);
+                var minutes = Math.floor((t / 1000 / 60) % 60);
+                var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+                var days = Math.floor(t / (1000 * 60 * 60 * 24));
+                return {
+                    'total': t,
+                    'days': days,
+                    'hours': hours,
+                    'minutes': minutes,
+                    'seconds': seconds
+                };
+            }
+
+        }
+
+        function initializeClock(id, endtime) {
+            var clock = document.getElementById(id);
+            var daysSpan = clock.querySelector('.days');
+            var hoursSpan = clock.querySelector('.hours');
+            var minutesSpan = clock.querySelector('.minutes');
+            var secondsSpan = clock.querySelector('.seconds');
+
+            function updateClock() {
+                var t = getTimeRemaining(endtime);
+
+                daysSpan.innerHTML = ('0' + t.days).slice(-2);
+                hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
+                minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
+                secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+                if (t.total <= 0) {
+                    clearInterval(timeinterval);
+
+                }
+            }
+
+            updateClock();
+            var timeinterval = setInterval(updateClock, 1000);
+        }
+        var deadline = countDownDate;
+        if ($("#clockdiv").length) {
+            //alert("y")
+            initializeClock('clockdiv', deadline);
+        }
+        else {
+            //alert("no")
+        }
+    });
+</script>
+
     
 
 <style>
@@ -195,6 +570,7 @@
         white-space: normal;
         width: 350px;
     }
+
     .course-selling-points ul {
         padding-left: 10px;
         white-space: normal;
@@ -206,13 +582,57 @@
             white-space: normal;
             width: 350px;
         }
-    .course-more a{
-    color:#fff !important;
+
+    .course-more a {
+        color: #fff !important;
     }
+
+    .noti_Container {
+        position: relative;
+    }
+    /* THE POPULAR RED NOTIFICATIONS COUNTER. */
+    .noti_Counter {
+        background-color: #ec5252;
+        border-radius: 4px;
+        color: #ffffff;
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 1.43;
+        margin: -5px 0 0 13px;
+        padding: 0px 7px;
+        position: absolute;
+        white-space: nowrap;
+        z-index: 1;
+    }
+
+    /* THE NOTIFICAIONS WINDOW. THIS REMAINS HIDDEN WHEN THE PAGE LOADS. */
+    .notifications {
+        display: none;
+        width: 300px;
+        position: absolute;
+        top: 40px;
+        right: 0px;
+        background: #FFF;
+        z-index: 999;
+        box-shadow: 0px 3px 6px 0px #e5e3e3;
+    }
+        /* AN ARROW LIKE STRUCTURE JUST OVER THE NOTIFICATIONS WINDOW */
+        .notifications:before {
+            content: '';
+            display: block;
+            width: 0;
+            height: 0;
+            color: transparent;
+            border: 10px solid #CCC;
+            border-color: transparent transparent #FFF;
+            margin-top: -20px;
+            margin-right: 10px;
+            float: right;
+        }
 </style>
 <script>
     //menu json
-    var main_menu = JSON.parse('{".NET Development":[{"Id":"7","Name":".NET Development","Description":"DotNetTricks is an Online Dot Net Training Institute and Course Classes which are primarily designed for freshers and Professionals, who want to make a career in .NET technologies.","Url":"http://www.dotnettricks.com/training/dotnet-development","CourseLogo":"/uploads/CourseImages/.netdevelopment-mobile.png","CategoryId":"1","ParentCourse":".NET Development","CourseRating":"4.00","Reviews":"4.00","Learners":"340","TagLine":"Learn .NET Framework, C#, OOPS and Advanced C#","CourseSellingPoints":"<ul><li>Build modern applications using .NET</li><li>Object Oriented Concepts </li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null},{"Id":"28","Name":"ASP.NET Core Development","Description":"Join ASP.NET Core course which is primarily designed for Beginners and Professionals who want to develop cloud based web applications using ASP.NET Core framework and MVC design pattern.","Url":"http://www.dotnettricks.com/training/asp-net-core-development","CourseLogo":"/uploads/CourseImages/aspnetcoredevelopment-mobile.png","CategoryId":"1","ParentCourse":".NET Development","CourseRating":"4.50","Reviews":"4.50","Learners":"260","TagLine":".NET Core, ASP.NET Core, LINQ, EF Core, Unit Testing","CourseSellingPoints":"<ul><li>Open source and cross-platform framework which runs on Windows, Mac, and Linux</li><li>Fastest web development frameworks from NodeJS, Ruby on Rails, Java Servlet and PHP</li><li>Average salary of Microsoft .Net Developer is $98k </li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null},{"Id":"10","Name":"ASP.NET MVC Development","Description":"MVC Development training program is primarily designed for .NET Beginner(s)/Professional(s) who want to learn and join MVC Classes. In this course, you will learn how to create web pages, custom validation etc...","Url":"http://www.dotnettricks.com/training/asp-net-mvc-development","CourseLogo":"/uploads/CourseImages/aspnetmvcdevelopment-mobile.PNG","CategoryId":"1","ParentCourse":".NET Development","CourseRating":"4.00","Reviews":"4.00","Learners":"1238","TagLine":"Learn MVC5, LINQ, EF, Design Patterns, Web API and Security with Project","CourseSellingPoints":"<ul><li>Open source web development framework</li><li>Build modern web applications and services</li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null}],"Big Data & Analytics":[{"Id":"2","Name":"Big Data Hadoop Developer","Description":"DotNetTricks is one of the top best big data Hadoop training institutes in India. Here you get online and offline big data Hadoop developer training with certification","Url":"http://www.dotnettricks.com/training/big-data-hadoop-developer","CourseLogo":"/uploads/CourseImages/hadoopdevelopmentcumadministration-mobile.png","CategoryId":"5","ParentCourse":"Big Data & Analytics","CourseRating":"4.00","Reviews":"4.00","Learners":"316","TagLine":"Learn Hadoop, MapReduce, HBase, Hive, Pig, Oozie","CourseSellingPoints":"<ul><li>Avg salary of Big Data Developer is $82-100K</li><li>Big Data industry is growing at almost 10% every year</li><li>Big Data needs 1.5 mn managers by 2018.</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null},{"Id":"25","Name":"Python with Machine Learning","Description":"The Python with Machine Learning course is primarily designed for Software Professional(s)/ Data Scientists & Data Analyst(s)/ Business Analysist(s). ","Url":"http://www.dotnettricks.com/training/python-machine-learning","CourseLogo":"/uploads/CourseImages/pythonwithmachinelearning-mobile.PNG","CategoryId":"5","ParentCourse":"Big Data & Analytics","CourseRating":"4.00","Reviews":"4.00","Learners":"16","TagLine":"Python, Scripts, Sequences, File Operations, Pandas, Machine Learning, Data Analysis, Web Scraping","CourseSellingPoints":"<ul><li>Most popular and widely used programming language for data science, machine learning </li><li>Avg. salary of Python Developer is $82-100K</li><li>Python industry is growing at almost 10% every year</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null}],"Cloud Computing & DevOps":[{"Id":"26","Name":"AWS Solutions Architect Associate","Description":"The AWS Solutions Architect Associate course is designed to help you gain in-depth understanding about AWS architectural principles and services. ","Url":"http://www.dotnettricks.com/training/aws-solutions-architect","CourseLogo":"/uploads/CourseImages/awssolutionsarchitectassociate-mobile.PNG","CategoryId":"9","ParentCourse":"Cloud Computing & DevOps","CourseRating":"4.00","Reviews":"4.00","Learners":"7","TagLine":"EC2, S3, AWS CLI, VPC, Auto Scaling, RDS, Route 53, Management Console, Security ","CourseSellingPoints":"<ul><li>Open, flexible, enterprise-grade cloud computing platform</li><li>AWS market is expected to reach $236B by 2020</li><li>Average salary of AWS Architect is $125k (based on Indeed.com)</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null},{"Id":"21","Name":"Developing Microsoft Azure Solutions","Description":"The Developing Microsoft Azure Solutions course is primarily designed for IT Professionals/Application Developers who want to learn how to use Microsoft Azure for building, managing and deploying web applications.","Url":"http://www.dotnettricks.com/training/microsoft-azure-certification ","CourseLogo":"/uploads/CourseImages/microsoftazurecertification-mobile.PNG","CategoryId":"9","ParentCourse":"Cloud Computing & DevOps","CourseRating":"4.00","Reviews":"4.00","Learners":"48","TagLine":"Cloud Services, Web App, Virtual Machines, SQL Database,Service Bus and much more..","CourseSellingPoints":"<ul><li>Open, flexible, enterprise-grade cloud computing platform</li><li>Use software as a service (SAAS), platform as a service and infrastructure as a service</li><li>Enhance Salary and Job Security</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null},{"Id":"30","Name":"DevOps Training Program ","Description":null,"Url":"http://www.dotnettricks.com/training/devops","CourseLogo":"/uploads/CourseImages/deveopstrainingprogram-mobile.PNG","CategoryId":"9","ParentCourse":"Cloud Computing & DevOps","CourseRating":"3.50","Reviews":"3.50","Learners":"38","TagLine":"Git, Jenkins, TeamCity, Puppet, Chef, Dockers, Ansible, Nagios and Deployment Strategies","CourseSellingPoints":"<ul><li>Manage 3C - Continuous Integration, Continuous Deployment & Continuous Delivery</li><li>Used by world top MNC like Amazon, Netflix, Walmart, Facebook, LinkedIn etc.</li><li>Average salary of DevOps Engineer - $110k (Indeed Salary Data)</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null},{"Id":"27","Name":"Microsoft Azure Infrastructure Solutions","Description":"The Implementing Microsoft Azure Infrastructure Solutions course is primarily designed for IT Professionals who want to learn how to use Microsoft Azure for building, managing and deploying web applications.","Url":"http://www.dotnettricks.com/training/implementing-microsoft-azure-infrastructure-solutions","CourseLogo":"/uploads/CourseImages/microsoftazureinfrastructuresolutions-mobile.PNG","CategoryId":"9","ParentCourse":"Cloud Computing & DevOps","CourseRating":"4.00","Reviews":"4.00","Learners":"32","TagLine":"Azure Networking, VMs, App Services, Storage, Backup, SQL Database, cloud Service and Active Directory ","CourseSellingPoints":"<ul><li>Open, flexible, enterprise-grade cloud computing platform</li><li>Use software as a service (SAAS), platform as a service and infrastructure as a service</li><li>Enhance Salary and Job Security</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null}],"Digital Marketing":[{"Id":"17","Name":"PPC Marketing Training","Description":"Join Online & Classroom advanced PPC certification training. PPC Course covers complete Pay per click marketing platforms with advance practical approach on live project.","Url":"http://www.dotnettricks.com/training/ppc-marketing","CourseLogo":"/uploads/CourseImages/ppcmarketing-mobile.png","CategoryId":"7","ParentCourse":"Digital Marketing","CourseRating":"4.50","Reviews":"4.50","Learners":"125","TagLine":"Learn Digital Marketing","CourseSellingPoints":"<ul><li>Expected Salary for Digital Marketing Fresher is 20-25K per month</li><li>Marketing jobs will grow 40% this decade</li><li>Online Marketing Managers are paid 10-15% more</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null}],"Java Development":[{"Id":"14","Name":"Java Development","Description":"The Java Development course is primarily designed for student(s)/fresher(s) who want to make a career in Java technologies. ","Url":"http://www.dotnettricks.com/training/java-j2ee-development","CourseLogo":"/uploads/CourseImages/java-j2eedevelopment-mobile.PNG","CategoryId":"6","ParentCourse":"Java Development","CourseRating":"4.00","Reviews":"4.00","Learners":"60","TagLine":"Learn Java Development","CourseSellingPoints":"<ul>Average Salary of Java Developer is 3-4 lakhs</li><li>Build Scalable and Secure Web Application</li><li>Assignment and Mockup Tests</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null}],"JS Framework Development":[{"Id":"5","Name":"Angular2+4 with Firebase Development","Description":"Master in Angular2 and Angular4 by developing Single Page App. At the end of this course, students will able to use Angular and Firebase to develop an end-to-end Single Page App.","Url":"http://www.dotnettricks.com/training/angular-development","CourseLogo":"/uploads/CourseImages/angularjsdevelopment-mobile.png","CategoryId":"3","ParentCourse":"JS Framework Development","CourseRating":"4.50","Reviews":"4.50","Learners":"425","TagLine":"Modules, Components, Nested Components, Inheritance, Life Cycle Hooks, Services, Observables","CourseSellingPoints":"<ul><li>Open source front-end web development framework</li><li>Build rich, scalable and high performance SPA</li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null},{"Id":"23","Name":"JavaScript Fundamentals","Description":"The JavaScript  Development course is primarily designed for UI Developer(s)/Web Developer(s) who want to learn how to develop high performance, event-driven, real-time and scalable networking and web applications. ","Url":"http://www.dotnettricks.com/training/javascript-fundamentals","CourseLogo":"/uploads/CourseImages/javascriptfundamentals-mobile.PNG","CategoryId":"3","ParentCourse":"JS Framework Development","CourseRating":"4.00","Reviews":"4.00","Learners":"84","TagLine":"ES6, DataTypes, Functions, Classes","CourseSellingPoints":"<ul><li>Develop cross platform web application</li><li>Use the power of JavaScript on Server-Side</li><li>Highly paid web development platform</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null},{"Id":"4","Name":"MEAN Stack Development","Description":"The MEAN Stack Development course is primarily designed for UI Developer(s)/Web Developer(s) who want to learn how to develop high performance, event-driven, real-time and scalable networking and web applications.","Url":"http://www.dotnettricks.com/training/mean-stack-development","CourseLogo":"/uploads/CourseImages/meanstackdevelopment-mobile.png","CategoryId":"3","ParentCourse":"JS Framework Development","CourseRating":"4.50","Reviews":"4.50","Learners":"214","TagLine":"Learn MongoDB, ExpressJS, Angular4 and Node.js with Project and Cloud Hosting","CourseSellingPoints":"<ul><li>Develop web application using latest JavaScript Stack</li><li>Use the power of JavaScript on Server-Side</li><li>Highly paid web development platform</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null},{"Id":"29","Name":"NodeJS Development","Description":"The Node.js Development course is primarily designed for UI Developer(s)/Web Developer(s) who want to learn how to develop high performance, event-driven, real-time and scalable networking and web applications. ","Url":"http://www.dotnettricks.com/training/nodejs-development","CourseLogo":"/uploads/CourseImages/nodejsdevelopment-mobile.png","CategoryId":"3","ParentCourse":"JS Framework Development","CourseRating":"4.00","Reviews":"4.00","Learners":"600","TagLine":"Node.js, ExpressJS, MongoDB, Mongoose, Unit Testing and Project with Cloud Hosting","CourseSellingPoints":"<ul><li>Develop cross platform web application</li><li>Use the power of JavaScript on Server-Side</li><li>Highly paid web development platform</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null},{"Id":"22","Name":"React with Redux Development ","Description":"The React with Redux Development course is primarily designed for UI Developer(s)/Web Developer(s) who want to learn how to develop high performance, event-driven, real-time and scalable applications.","Url":"http://www.dotnettricks.com/training/react-redux-development","CourseLogo":"/uploads/CourseImages/reactwithreduxdevelopment-mobile.PNG","CategoryId":"3","ParentCourse":"JS Framework Development","CourseRating":"4.00","Reviews":"4.00","Learners":"46","TagLine":"JavaScript/ES6, React, React Router, Redux, Middleware, Gulp and Project with Cloud Hosting","CourseSellingPoints":"<ul><li>Develop cross platform web application</li><li>Use the power of JavaScript</li><li>Highly paid web development technology</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null},{"Id":"24","Name":"TypeScript Fundamentals","Description":"The TypeScript Fundamentals course is primarily designed for UI Developer(s)/Web Developer(s) who want to learn TypeScript to develop UI, desktop App and cross platform mobile apps using Angular and React.","Url":"http://www.dotnettricks.com/training/typescript-fundamentals","CourseLogo":"/uploads/CourseImages/typescriptfundamentals-mobile.PNG","CategoryId":"3","ParentCourse":"JS Framework Development","CourseRating":"4.00","Reviews":"4.00","Learners":"96","TagLine":"ES6, DataTypes, Type Safety, Functions, Classes, Interfaces, Inheritance and Modules","CourseSellingPoints":"<ul><li>Develop cross platform web application</li><li>Use the power of JavaScript on Server-Side</li><li>Highly paid web development platform</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null}],"Mobile Development":[{"Id":"8","Name":"Android Apps Development","Description":"The Android Development course is primarily designed for Beginner(s)/Professional(s) who want to learn how to create mobile apps using android sdk. ","Url":"http://www.dotnettricks.com/training/android-development","CourseLogo":"/uploads/CourseImages/androidappsdevelopment-mobile.png","CategoryId":"4","ParentCourse":"Mobile Development","CourseRating":"4.00","Reviews":"4.00","Learners":"116","TagLine":"Learn Android Development","CourseSellingPoints":"<ul><li>Avg salary of Android Developer is $82-100K</li><li>App economy will generate over 1MNs jobs</li><li>Assignment and Mockup Tests</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null},{"Id":"3","Name":"Ionic : Build Hybrid Mobile Apps","Description":"The Hybrid Mobile Apps Development course is primarily designed for UI Developer(s)/Web Developer(s) who want to learn how to create cross platform mobile apps using Ionic, Cordova and AngularJS.","Url":"http://www.dotnettricks.com/training/hybrid-apps-development","CourseLogo":"/uploads/CourseImages/hybridmobileappsdevelopment-mobile.png","CategoryId":"4","ParentCourse":"Mobile Development","CourseRating":"4.50","Reviews":"4.50","Learners":"150","TagLine":"Learn Ionic2, Angular2 with Mobile Apps","CourseSellingPoints":"<ul><li>Avg salary of Hybrid Mobile App Developer is $82-100K</li><li>App economy will generate over 1MNs jobs</li><li>Assignment and Mockup Tests</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null},{"Id":"11","Name":"Xamarin Forms : Build Cross-platform Apps","Description":"The Xamarin Forms Development course is primarily designed for Beginner(s)/Professional(s) who want to learn how to develop native cross platform apps with C# that run-on Android, iOS and Windows.","Url":"http://www.dotnettricks.com/training/xamarin-forms-build-native-cross-platform-apps","CourseLogo":"/uploads/CourseImages/xamarinforms-buildnativecross-platformapps-mobile.PNG","CategoryId":"4","ParentCourse":"Mobile Development","CourseRating":"4.50","Reviews":"4.50","Learners":"124","TagLine":"Learn Xamarin Forms","CourseSellingPoints":"<ul><li>Avg salary of Mobile Developer is $82-100K</li><li>App economy will generate over 1MNs jobs</li><li>Assignment and Mockup Tests</li></ul>","DomainName":"http://www.dotnettricks.com","IsFree":0,"WhyUsContents":null}]}');
+    var main_menu = JSON.parse('{"Masters Program":[{"Id":"44","Name":"Mastering Amazon Web Services (AWS)","Description":"The AWS Solutions Architect Associate course is designed to help you gain in-depth understanding about AWS architectural principles and services. ","Url":"https://www.dotnettricks.com/training/masters-program/aws","CourseLogo":"/uploads/CourseImages/masteringamazonwebservicesaws-mobile.png","CategoryId":"10","ParentCourse":"Masters Program","CourseRating":"4.50","Reviews":"4.50","Learners":"200","TagLine":"Learn EC2, S3, AWS CLI, VPC, Auto Scaling, RDS, Route 53, Management Console and Security etc.","CourseSellingPoints":"<ul><li>Open, flexible, enterprise-grade cloud computing platform</li><li>AWS market is expected to reach $236B by 2020</li><li>Average salary of AWS Architect is $125k (based on Indeed.com)</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":1},{"Id":"39","Name":"Mastering Angular 2 to 6","Description":"Master in  Angular 2 to 6 by developing a Single Page App. At the end of this course, students will able to use Angular and Express to develop an end-to-end Single Page App.","Url":"https://www.dotnettricks.com/training/masters-program/angular","CourseLogo":"/uploads/CourseImages/masteringangular25-mobile.png","CategoryId":"10","ParentCourse":"Masters Program","CourseRating":"4.50","Reviews":"4.50","Learners":"22","TagLine":"Learn Components, Directives, Pipes, Life-cycle Hooks, Services, Observables, Unit Testing and Project","CourseSellingPoints":"<ul><li>Open source front-end web development framework</li><li>Build rich, scalable and high performance SPA</li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":1},{"Id":"43","Name":"Mastering ASP.NET Core with Angular ","Description":"Join ASP.NET Core course which is primarily designed for Beginners and Professionals who want to develop cloud based web applications using ASP.NET Core framework and MVC design pattern.","Url":"https://www.dotnettricks.com/training/masters-program/asp-net-core-angular","CourseLogo":"/uploads/CourseImages/masteringaspnetcorewithangular-mobile.png","CategoryId":"10","ParentCourse":"Masters Program","CourseRating":"3.50","Reviews":"3.50","Learners":"323","TagLine":"Learn ASP.NET Core, EF Core, Design Patterns TypeScript, Angular, Security, Unit Testing with Project","CourseSellingPoints":"<ul><li>Open source framework</li><li>Build modern applications and services</li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":1},{"Id":"37","Name":"Mastering ASP.NET MVC with Angular ","Description":"MVC with AngularJS Development training program is primarily designed for .NET Beginner(s)/Professional(s) who want to learn and join MVC Classes. In this course, you will learn how to create web pages, custom validation etc...","Url":"https://www.dotnettricks.com/training/masters-program/mvc-angular","CourseLogo":"/uploads/CourseImages/masteringaspnetmvcwithangular-mobile.png","CategoryId":"10","ParentCourse":"Masters Program","CourseRating":"4.50","Reviews":"4.50","Learners":"1500","TagLine":"Learn MVC5, EF, Design Patterns, TypeScript, Angular, Web API, Unit Testing and Security with Project","CourseSellingPoints":"<ul><li>Open source web development framework</li><li>Build modern web applications and services</li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":1},{"Id":"58","Name":"Mastering MEAN Stack","Description":"The MEAN Stack Development course is primarily designed for UI Developer(s)/Web Developer(s) who want to learn how to develop high performance, event-driven, real-time and scalable networking and web applications.","Url":"https://www.dotnettricks.com/training/masters-program/mean-stack-development","CourseLogo":"/uploads/CourseImages/masteringmeanstack-mobile.png","CategoryId":"10","ParentCourse":"Masters Program","CourseRating":"4.50","Reviews":"4.50","Learners":"340","TagLine":"Learn JavaScript, MongoDB, Express, Angular, REST API, Node, Unit Testing and Security with Project","CourseSellingPoints":"<ul><li>Develop web application using latest JavaScript Stack</li><li>Use the power of JavaScript on Server-Side</li><li>Highly paid web development platform</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":1},{"Id":"45","Name":"Mastering Microsoft Azure","Description":"Thi course will help you to learn how to use Microsoft Azure for building, managing and deploying web applications.","Url":"https://www.dotnettricks.com/training/masters-program/microsoft-azure","CourseLogo":"/uploads/CourseImages/masteringmicrosoftazure-mobile.png","CategoryId":"10","ParentCourse":"Masters Program","CourseRating":"4.50","Reviews":"4.50","Learners":"200","TagLine":"Learn App Services, Cloud Services, Virtual Machines, Database, Networking, Tools and Security","CourseSellingPoints":"<ul><li>Open, flexible, enterprise-grade cloud computing platform</li><li>Azure market is expected to reach $200B by 2020</li><li>Average salary of Azure Developer is $125k (based on Indeed.com)</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":1},{"Id":"74","Name":"Mastering React with Redux","Description":"The Mastering React with Redux course is primarily designed for UI Developer(s)/Web Developer(s) who want to learn how to develop high performance, event-driven, real-time and scalable applications","Url":"https://www.dotnettricks.com/training/masters-program/react-redux  ","CourseLogo":"/uploads/CourseImages/masteringreactwithredux-mobile.png","CategoryId":"10","ParentCourse":"Masters Program","CourseRating":"4.00","Reviews":"4.00","Learners":"326","TagLine":"JavaScript/ES6, React, React Router, Redux, Middleware, Gulp and Project with Cloud Hosting","CourseSellingPoints":"<ul><li>Develop cross platform web application</li><li>Use the power of JavaScript</li><li>Highly paid web development technology</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":1},{"Id":"69","Name":"Mastering Vue","Description":"Master in Vue, a most popular javascript progressive framework for building user interfaces. This program will help you to get indepth knowledge of JavaScript, Vue Building blocks, Databinding, Directives, Filters, Vuex, Forms and Vuelidate, Http","Url":"https://www.dotnettricks.com/training/masters-program/vue","CourseLogo":"/uploads/CourseImages/masteringvue-mobile.png","CategoryId":"10","ParentCourse":"Masters Program","CourseRating":"4.00","Reviews":"4.00","Learners":"25","TagLine":"Learn Components, Directives, Pipes, Lifecycle Hooks, Unit Testing and Project","CourseSellingPoints":"<ul><li>Open source front-end web development framework</li><li>Build rich, scalable and high performance SPA</li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":1}],"Skill Bootcamp":[{"Id":"68","Name":"Angular2 to 6 Skill Bootcamp","Description":"Learn Angular by doing and accelerate your learning. We want you to code as much as possible, and make mistakes in a safe environment. Learn Angular with like-minded people and in the mentoring of experienced instructors.","Url":"https://www.dotnettricks.com/skill-bootcamp/angular","CourseLogo":"/uploads/CourseImages/angular25skillbootcamp-mobile.png","CategoryId":"11","ParentCourse":"Skill Bootcamp","CourseRating":"4.50","Reviews":"4.50","Learners":"340","TagLine":"Modules, Components, Nested Components, Inheritance, Life Cycle Hooks, Services, Observables","CourseSellingPoints":"<ul><li>Open source front-end web development framework</li><li>Build rich, scalable and high performance SPA</li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":2},{"Id":"73","Name":"ASP.NET MVC Skill Bootcamp","Description":"MVC Development training program is primarily designed for .NET Beginner(s)/Professional(s) who want to learn and join MVC Classes. In this course, you will learn how to create web pages, custom validation etc...","Url":"https://www.dotnettricks.com/skill-bootcamp/asp-net-mvc","CourseLogo":"/uploads/CourseImages/aspnetmvcskillbootcamp-mobile.png","CategoryId":"11","ParentCourse":"Skill Bootcamp","CourseRating":"4.50","Reviews":"4.50","Learners":"2000","TagLine":"Learn MVC5, LINQ, EF, Design Patterns, Web API ","CourseSellingPoints":"<ul><li>Open source web development framework</li><li>Build modern web applications and services</li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":2},{"Id":"70","Name":"AWS Skill Bootcamp","Description":"Learn AWS by doing hands-on in a live environment. We have instructors who are the industry experts and have the hunger to make the concepts so clear, that you can start applying them to your production environment.","Url":"https://www.dotnettricks.com/skill-bootcamp/aws","CourseLogo":"/uploads/CourseImages/awsskillbootcamp-mobile.png","CategoryId":"11","ParentCourse":"Skill Bootcamp","CourseRating":"4.00","Reviews":"4.00","Learners":"250","TagLine":"Learn EC2, S3, AWS CLI, VPC, Auto Scaling, RDS, Route 53, Management Console and Security etc.","CourseSellingPoints":"<ul><li>Open, flexible, enterprise-grade cloud computing platform</li><li>AWS market is expected to reach $236B by 2020</li><li>Average salary of AWS Architect is $125k (based on Indeed.com)</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":2},{"Id":"71","Name":"Node Skill Bootcamp","Description":"Learn the premier backend framework for JavaScript by doing. We want you to code as much as possible, and make mistakes in a safe environment. Learn Node with like-minded people and in the mentoring of experienced instructors.","Url":"https://www.dotnettricks.com/skill-bootcamp/node","CourseLogo":"/uploads/CourseImages/nodeskillbootcamp-mobile.png","CategoryId":"11","ParentCourse":"Skill Bootcamp","CourseRating":"4.50","Reviews":"4.50","Learners":"10","TagLine":"Node, Http, Express, ORM, Unit Testing, Cloud Hosting","CourseSellingPoints":"<ul><li>Develop cross platform web application</li><li>Use the power of JavaScript on Server-Side</li><li>Highly paid web development platform</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":2},{"Id":"72","Name":"React Skill Bootcamp","Description":"Learn React by doing and accelerate your learning. We want you to code as much as possible, and make mistakes in a safe environment. Learn React with like-minded people and in the mentoring of experienced instructors. You will practice everything we ","Url":"https://www.dotnettricks.com/skill-bootcamp/react","CourseLogo":"/uploads/CourseImages/reactskillbootcamp-mobile.png","CategoryId":"11","ParentCourse":"Skill Bootcamp","CourseRating":"4.50","Reviews":"4.50","Learners":"20","TagLine":"JavaScript/ES6, React, React Router, Redux, Middleware, Gulp","CourseSellingPoints":"<ul><li>Develop cross platform web application</li><li>Use the power of JavaScript</li><li>Highly paid web development technology</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":2}],".NET Development":[{"Id":"33","Name":"ASP.NET MVC Unit Testing","Description":null,"Url":"https://www.dotnettricks.com/training/unittesting-aspnet-mvc","CourseLogo":"/uploads/CourseImages/aspnetmvcunittesting-mobile.png","CategoryId":"1","ParentCourse":".NET Development","CourseRating":"4.00","Reviews":"4.00","Learners":"20","TagLine":"TDD, MS Test, XUnit and Mocking","CourseSellingPoints":"<ul><li>Learn to write unit tests</li><li>Use MS Test, XUnit and Mocking</li><li>Use the power of Visual Studio Live unit test</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0},{"Id":"32","Name":"C# Essentials","Description":"DotNetTricks is an Online C Sharp Training Institute and Course Classes which are primarily designed for freshers and Professionals, who want to make a career in .NET technologies.","Url":"https://www.dotnettricks.com/training/csharp-essentials","CourseLogo":"/uploads/CourseImages/cfundamentals-mobile.png","CategoryId":"1","ParentCourse":".NET Development","CourseRating":"4.00","Reviews":"4.00","Learners":"196","TagLine":"Learn C Sharp","CourseSellingPoints":"<ul><li>Build modern applications using .NET</li><li>Object Oriented Concepts </li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0},{"Id":"31","Name":"LINQ Essentials","Description":"LINQ - Tutorial, Article, Archive, Pdf, Handy Tricks, Code Snippets, Training, Reference Manual, Lazy Loading, Immediate Loading, Eager Loading, Extension Method, Lamda Expression, Projection, Join, Ordering, Grouping, Filtering","Url":"https://www.dotnettricks.com/training/linq-essentials","CourseLogo":"/uploads/CourseImages/linqfundamentals-mobile.png","CategoryId":"1","ParentCourse":".NET Development","CourseRating":"3.50","Reviews":"3.50","Learners":"250","TagLine":"LINQ Essentials – Querying Database, LINQ Pad, Joins, Generics","CourseSellingPoints":"<ul><li>Query data sources using common query syntax</li><li>Use the power of Linq with Entity Framework</li><li>Write SQL Queries using LINQ</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0},{"Id":"56","Name":"The Complete ASP.NET Core","Description":"Learn ASP.NET Core to develop cross-platform cloud-based web applications using ASP.NET Core framework and MVC pattern on Windows, Mac, and Linux. ","Url":"https://www.dotnettricks.com/training/the-complete-aspnet-core-mvc","CourseLogo":"/uploads/CourseImages/thecompleteaspnetcore-mobile.png","CategoryId":"1","ParentCourse":".NET Development","CourseRating":"4.00","Reviews":"4.00","Learners":"300","TagLine":"Learn .NET Core, ASP.NET Core, Form Validations, Database Operations, Web API and Security","CourseSellingPoints":"<ul><li>Open source and cross-platform framework which runs on Windows, Mac, and Linux</li><li>Fastest web development frameworks from NodeJS, Ruby on Rails, Java Servlet and PHP</li><li>Average salary of Microsoft .Net Developer is $98k </li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0},{"Id":"35","Name":"The Complete ASP.NET MVC","Description":"MVC Development training program is primarily designed for .NET Beginner(s)/Professional(s) who want to learn and join MVC Classes. In this course, you will learn how to create web pages, custom validation etc...","Url":"https://www.dotnettricks.com/training/the-complete-aspnet-mvc","CourseLogo":"/uploads/CourseImages/thecompleteaspnetmvc-mobile.png","CategoryId":"1","ParentCourse":".NET Development","CourseRating":"4.50","Reviews":"4.50","Learners":"20","TagLine":"Learn MVC5, Form Validations, Database Operations, Web API and Security","CourseSellingPoints":"<ul><li>Open source web development framework</li><li>Build modern web applications and services</li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0},{"Id":"36","Name":"The Complete Entity Framework","Description":"Learn Entity Framework to query your SQL Database (MS SQL, MySQL) in an object-oriented fashion. In this course, you will learn EF data modeling approaches - Code First, Database First and Model First along with Repository and Unit of Work Pattern.","Url":"https://www.dotnettricks.com/training/the-complete-entity-framework","CourseLogo":"/uploads/CourseImages/thecompleteentityframework-mobile.png","CategoryId":"1","ParentCourse":".NET Development","CourseRating":"4.50","Reviews":"4.50","Learners":"10","TagLine":" Code First, Database First, Model First, Repository and Unit of Work Design Patterns","CourseSellingPoints":null,"DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0},{"Id":"64","Name":"The Complete Xamarin Forms","Description":"Learn how to build cross-platform native mobile apps for Android, iOS, and Windows UWP using C#. In this course you will learn about XAML, controls, working with data, notifications, spinners, services and media integration like audio, video.","Url":"https://www.dotnettricks.com/training/the-complete-xamarin-forms","CourseLogo":"/uploads/CourseImages/thecompletexamarinforms-mobile.PNG","CategoryId":"1","ParentCourse":".NET Development","CourseRating":"4.50","Reviews":"4.50","Learners":"200","TagLine":"Learn Xamarin Forms","CourseSellingPoints":"<ul><li>Avg salary of Mobile Developer is $82-100K</li><li>App economy will generate over 1MNs jobs</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0}],"Cloud and DevOps":[{"Id":"44","Name":"Mastering Amazon Web Services (AWS)","Description":"The AWS Solutions Architect Associate course is designed to help you gain in-depth understanding about AWS architectural principles and services. ","Url":"https://www.dotnettricks.com/training/masters-program/aws","CourseLogo":"/uploads/CourseImages/masteringamazonwebservicesaws-mobile.png","CategoryId":"9","ParentCourse":"Cloud and DevOps","CourseRating":"4.50","Reviews":"4.50","Learners":"200","TagLine":"Learn EC2, S3, AWS CLI, VPC, Auto Scaling, RDS, Route 53, Management Console and Security etc.","CourseSellingPoints":"<ul><li>Open, flexible, enterprise-grade cloud computing platform</li><li>AWS market is expected to reach $236B by 2020</li><li>Average salary of AWS Architect is $125k (based on Indeed.com)</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":1},{"Id":"45","Name":"Mastering Microsoft Azure","Description":"Thi course will help you to learn how to use Microsoft Azure for building, managing and deploying web applications.","Url":"https://www.dotnettricks.com/training/masters-program/microsoft-azure","CourseLogo":"/uploads/CourseImages/masteringmicrosoftazure-mobile.png","CategoryId":"9","ParentCourse":"Cloud and DevOps","CourseRating":"4.50","Reviews":"4.50","Learners":"200","TagLine":"Learn App Services, Cloud Services, Virtual Machines, Database, Networking, Tools and Security","CourseSellingPoints":"<ul><li>Open, flexible, enterprise-grade cloud computing platform</li><li>Azure market is expected to reach $200B by 2020</li><li>Average salary of Azure Developer is $125k (based on Indeed.com)</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":1}],"Front-end and JS Frameworks":[{"Id":"23","Name":"JavaScript Essentials","Description":"The JavaScript Essentials course is primarily designed for UI Developer(s)/Web Developer(s) who want to learn how to develop high performance, event-driven, real-time and scalable networking and web applications. ","Url":"https://www.dotnettricks.com/training/javascript-essentials","CourseLogo":"/uploads/CourseImages/javascriptfundamentals-mobile.PNG","CategoryId":"3","ParentCourse":"Front-end and JS Frameworks","CourseRating":"4.00","Reviews":"4.00","Learners":"98","TagLine":"ES6, DataTypes, Functions, Classes","CourseSellingPoints":"<ul><li>Develop cross platform web application</li><li>Use the power of JavaScript on Server-Side</li><li>Highly paid web development platform</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0},{"Id":"51","Name":"The Complete Angular with Express","Description":"The most comprehensive course to learn Angular, from version 2 to 6. Learn to build modern and highly interactive web apps using JavaScript frameworks - Angular as a front-end and Express as a back-end. Earn a valuable hands-on experience.","Url":"https://www.dotnettricks.com/training/the-complete-angular-express","CourseLogo":"/uploads/CourseImages/thecompleteangularwithexpress-mobile.png","CategoryId":"3","ParentCourse":"Front-end and JS Frameworks","CourseRating":"4.50","Reviews":"4.50","Learners":"400","TagLine":"Modules, Components, Nested Components, Inheritance, Life Cycle Hooks, Services, Observables","CourseSellingPoints":"<ul><li>Open source front-end web development framework</li><li>Build rich, scalable and high performance SPA</li><li>Enhance Salary and Job Security</li><li>Designed for Web developers and UI developers</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0},{"Id":"34","Name":"The Complete Angular with WebAPI ","Description":"The most comprehensive course to learn Angular 2 to 6. Learn to build rich and highly interactive web apps using Angular as a front-end and Web API as a back-end. This course is specially designed for .NET developers.","Url":"https://www.dotnettricks.com/training/the-complete-angular-webapi","CourseLogo":"/uploads/CourseImages/thecompleteangularwithwebapi-mobile.png","CategoryId":"3","ParentCourse":"Front-end and JS Frameworks","CourseRating":"4.50","Reviews":"4.50","Learners":"316","TagLine":"Modules, Components, Nested Components, Inheritance, Life Cycle Hooks, Services, Observables","CourseSellingPoints":"<ul><li>Open source front-end web development framework</li><li>Build rich, scalable and high performance SPA</li><li>Enhance Salary and Job Security</li><li>Designed for .NET Developers</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0},{"Id":"24","Name":"TypeScript Essentials","Description":"The TypeScript Essentials course is primarily designed for UI Developer(s)/Web Developer(s) who want to learn TypeScript to develop UI, desktop App and cross-platform mobile apps using Angular and React.","Url":"https://www.dotnettricks.com/training/typescript-essentials","CourseLogo":"/uploads/CourseImages/typescriptfundamentals-mobile.PNG","CategoryId":"3","ParentCourse":"Front-end and JS Frameworks","CourseRating":"4.00","Reviews":"4.00","Learners":"112","TagLine":"ES6, DataTypes, Type Safety, Functions, Classes, Interfaces, Inheritance and Modules","CourseSellingPoints":"<ul><li>Develop cross platform web application</li><li>Use the power of JavaScript on Server-Side</li><li>Highly paid web development platform</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0}],"Project Development":[{"Id":"41","Name":"Project - ASP.NET Core with Angular","Description":"Learn how to build a cross-platform, high-performance, modern and cloud-based, Internet-connected an online e-commerce site using ASP.NET Core and Angular5. The application will use an n-tier architecture with industry-focused design patterns.","Url":"https://www.dotnettricks.com/training/aspnet-core-angular-project","CourseLogo":"/uploads/CourseImages/projectaspnetcorewithangular-mobile.png","CategoryId":"2","ParentCourse":"Project Development","CourseRating":"4.50","Reviews":"4.50","Learners":"545","TagLine":"Project - ASP.NET Core, Angular, Payment gateway, Design Patterns, Hosting","CourseSellingPoints":"<ul><li>An open source, cross-platform, high-performance framework</li><li>Build modern and cloud-based, Internet-connected applications and services</li><li>Enhance Salary and Job Security</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0},{"Id":"38","Name":"Project - ASP.NET MVC with Angular","Description":"Project - Creating an Ecommerce site using ASP.NET MVC and Angular","Url":"https://www.dotnettricks.com/training/mvc-angular-project","CourseLogo":"/uploads/CourseImages/projectaspnetmvcwithangular-mobile.png","CategoryId":"2","ParentCourse":"Project Development","CourseRating":"4.50","Reviews":"4.50","Learners":"1002","TagLine":"Project - ASP.NET MVC5, Angular5, Payment Gateway, Design Patterns, Hosting","CourseSellingPoints":"<ul><li>An open source web development framework stack</li><li>Build modern highly interactive applications</li><li>Enhance Salary and Job Security</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0}],"Software Testing":[{"Id":"33","Name":"ASP.NET MVC Unit Testing","Description":null,"Url":"https://www.dotnettricks.com/training/unittesting-aspnet-mvc","CourseLogo":"/uploads/CourseImages/aspnetmvcunittesting-mobile.png","CategoryId":"7","ParentCourse":"Software Testing","CourseRating":"4.00","Reviews":"4.00","Learners":"20","TagLine":"TDD, MS Test, XUnit and Mocking","CourseSellingPoints":"<ul><li>Learn to write unit tests</li><li>Use MS Test, XUnit and Mocking</li><li>Use the power of Visual Studio Live unit test</li></ul>","DomainName":"https://www.dotnettricks.com","IsFree":0,"WhyUsContents":null,"IsMaster":0}]}');
     //menu enter key press search
     function menukeypress(event) {
         var keycode = event.keyCode || e.charCode;
@@ -274,39 +694,37 @@ toggle between hiding and showing the dropdown content */
 <header class="topnavbar">
     <div class="wsmenucontainer clearfix" id="mainmu" style="background-color: white;">
         <div class="hidden-xs hidden-sm">
-            <div style="background-color:#008be8;height: 40px;" id="topmenuMainPage">
+            <div style="background: linear-gradient(to right, rgb(52, 126, 255), rgb(79, 177, 245));padding: 8px;" id="topmenuMainPage">
                 <div class="container" style="padding-top: 2px;">
-                    <div itemscope="" itemtype="http://schema.org/Organization" class="col-lg-2 col-sm-2" style="font-size: 18px; height: 0;padding-top: 5px;">
+                    <div itemscope="" itemtype="http://schema.org/Organization" class="col-lg-1 col-sm-2" style="font-size: 18px; height: 0;padding-top: 5px;width: 13%;">
                         <span>
-                            <a itemprop="sameAs" class="fb" href="https://www.facebook.com/DotNetTricks" target="_blank" rel="nofollow"><i class="fa fa-facebook" style="color:#fff"></i>&nbsp;</a>
+                            <a itemprop="sameAs" class="fb" title="facebook" href="https://www.facebook.com/DotNetTricks" target="_blank" rel="nofollow"><i class="fa fa-facebook" style="color:#fff"></i>&nbsp;</a>
                         </span>
                         <span>
-                            <a itemprop="sameAs" class="tw" href="https://twitter.com/DotNetTricksIn" target="_blank" rel="nofollow">
+                            <a itemprop="sameAs" class="tw" title="twitter" href="https://twitter.com/DotNetTricksIn" target="_blank" rel="nofollow">
                                 <i class="fa fa-twitter" style="color:#fff"></i>&nbsp;
                             </a>
                         </span>
                         <span>
-                            <a itemprop="sameAs" class="in" href="https://www.linkedin.com/company/dot-net-tricks" target="_blank" rel="nofollow" style="color:#fff"><i class="fa fa-linkedin"></i>&nbsp;</a>
+                            <a itemprop="sameAs" class="in" title="linkedin" href="https://www.linkedin.com/company/dot-net-tricks" target="_blank" rel="nofollow" style="color:#fff"><i class="fa fa-linkedin"></i>&nbsp;</a>
                         </span>
                         <span>
-                            <a itemprop="sameAs" class="gpls" href="https://plus.google.com/+Dotnet-tricks/posts" target="_blank" rel="nofollow" style="color:#fff"><i class="fa fa-google-plus"></i>&nbsp;</a>
-                        </span>
-                        <span>
-                            <a itemprop="sameAs" class="rss" href="http://feeds.feedburner.com/dotnettricks/feed" target="_blank" rel="nofollow" style="color:#fff"><i class="fa fa-rss"></i>&nbsp;</a>
+                            <a itemprop="sameAs" class="rss" title="youtube" href="http://youtube.com/dotnettricks" target="_blank" rel="nofollow" style="color:#fff"><i class="fa fa-youtube-play"></i>&nbsp;</a>
                         </span><span>
-                            <a itemprop="sameAs" class="fa fa-map-marker" href="https://www.google.co.in/maps/place/DotNetTricks" target="_blank" rel="nofollow" style="color:#fff"><i class="fa fa-maps"></i>&nbsp;</a>
+                            <a itemprop="sameAs" class="fa fa-map-marker" title="map" href="https://www.google.co.in/maps/place/DotNetTricks" target="_blank" rel="nofollow" style="color:#fff"><i class="fa fa-maps"></i>&nbsp;</a>
                         </span>
+
                     </div>
 
-                    <div class="col-lg-7 col-sm-6" style="height:0;">
+                    <div class="col-sm-6" style="height:0;">
                         <div itemscope="" itemtype="http://schema.org/WebSite">
                             <meta itemprop="url" content="http://www.dotnettricks.com/">
                             <form role="search" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" novalidate="novalidate">
                                 <meta itemprop="target" content="http://www.dotnettricks.com/search?q={q}">
                                 <div class="form-group-search">
-                                    <input type="text" itemprop="query-input" placeholder="Search for Courses, Jobs, Articles, Books, Events and More" id="txtMenuSearch" name="q" onkeypress="return menukeypress(event);" style="margin-top: 1px; border-radius: 0;display: block; width: 100%;padding: 6px 12px;background-color: rgba(195, 231, 255, 0.87);border: 1px solid rgba(209, 234, 251, 0.63);">
+                                    <input type="text" itemprop="query-input" placeholder="Search for Courses, Jobs, Articles, Books, Events and More" id="txtMenuSearch" name="q" onkeypress="return menukeypress(event);" style="margin-top: 1px; border-radius: 0;display: block; width: 100%;padding: 5px 12px;background-color: rgba(195, 231, 255, 0.87);border: 1px solid rgba(209, 234, 251, 0.63);">
                                     <div class="input-group-menu-search">
-                                        <button type="button" id="btnMenuSearch" style="background-color: transparent; position: relative; z-index: 999; top: -39px; margin: 11px 0 0 -21px; padding: 0;"><i class="fa fa-search" id="fsr" style="color:black;font-size:16px"></i></button>
+                                        <button type="button" id="btnMenuSearch" style="background-color: transparent; position: relative; z-index: 999; top: -39px; margin: 14px 0 0 -21px; padding: 0;"><i class="fa fa-search" id="fsr" style="color:black;font-size:16px"></i></button>
                                     </div>
                                 </div>
                             </form>
@@ -316,51 +734,84 @@ toggle between hiding and showing the dropdown content */
 
                     <div style="position: relative;z-index:999;float:right;margin-bottom:3px;">
 
-                            <div style="padding: 4px 10px 0 0;">
-                                <span style="padding-right:10px">
-                                    <i class="fa fa-sign-in" aria-hidden="true" style="color:#fff;padding-right:5px"></i><a href="/member-login" style="color:#fff !important">Login</a>
+                            <div style="padding: 2px 0px 0 0;">
+                                <span style="padding-right:4px;color:#fff !important">
+                                    <a href="/member-login" style="box-shadow: 0 1px 2px 0 rgba(0,0,0,.26) !important;padding:4px 10px;background-color:#fff;color:black;border: 1px solid #fff;" class="btn btn-info">Log In</a>
                                 </span>
                                 <span style="color:#fff !important">
-                                    <i class="fa fa-user-plus" aria-hidden="true" style="color:#fff;padding-right:5px"></i><a href="/member-registration" style="color:#fff !important">Register</a>
+                                    <a href="/member-registration" style="padding: 4px 10px;box-shadow: 0 1px 2px 0 rgba(0,0,0,.26) !important;background-color:#f5811d;" class="btn btn-orange">Sign Up</a>
                                 </span>
                             </div>
 
+                    </div>
+
+                    <div class="pull-right" style="padding: 4px 10px 0 0;">
+                        <div class="noti_Container">
+                            <div class="noti_Counter"></div>
+                            <div class="notifications">
+
+                                <div style="text-align:center">
+                                    <a href="/cart">View All</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="padding-right:2px" id="noti_Button">
+                            <a href="/cart" style="color:#fff">
+                                <i class="fa fa-shopping-cart" aria-hidden="true" style="color: #fff;padding-right: 10px;font-size: 20px;
+    cursor: pointer;"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="pull-right" style="padding: 4px 10px 0 0;">
+                        <span style="padding-right:2px">
+                            <i class="fa fa-rocket" aria-hidden="true" style="color:#fff;padding-right:5px"></i><a href="/corporate-training" style="color:#fff">Corporate Training</a>
+                        </span>
                     </div>
                 </div>
             </div>
         </div>
         <div class="overlapblackbg"></div>
         <div class="wsmobileheader clearfix" itemscope="" itemtype="http://schema.org/Organization">
-            <a id="wsnavtoggle" class="animated-arrow"><span></span></a>
+            <a id="wsnavtoggle" class="animated-arrow" style="margin-top:4px"><span></span></a>
             <a class="smallogo" href="/" itemprop="url">
-                <img class="" src="/images/logo.png" itemprop="logo" alt="Dot Net Tricks Classroom and Instructor-led Online Training for Professionals">
+                <img src="/images/logo.png" itemprop="logo" style="margin-top: -2px;margin-right: 5%;" alt="The Linear and Project-based Courses for Professionals">
             </a>
             <a class="callusicon" href="tel:+911133034100">
-                <span class="fa fa-phone" style="color:#569AD3"></span>
+                <span class="fa fa-phone" style="color:#3a75d8"></span>
             </a>
+            <div class="cartdiv" style="padding: 14px 12px 0 15px;display: inline-block;z-index: 101;right:40px; position: fixed;">
+                <div class="noti_Container">
+                    <div class="noti_Counter"></div>
+                    <div class="notifications">
+                        <div style="text-align:center">
+                            <a href="/cart">View All</a>
+                        </div>
+                    </div>
+                </div>
+                <div style="padding-right:2px" id="noti_Button">
+                    <a href="/cart" style="color:#fff">
+                        <i class="fa fa-shopping-cart" aria-hidden="true" style="color: #3a75d8;padding-right: 10px;font-size: 22px;
+    cursor: pointer;"></i>
+                    </a>
+                </div>
+            </div>
         </div>
         <div class="container">
             <nav class="wsmenu clearfix">
                 <ul class="mobile-sub wsmenu-list">
-                    <li style="background:none !important;">
-                        <a href="/" style="background:none !important; padding-left:0;text-align:center" itemprop="url">
-                            <img src="/images/logo.png" itemprop="logo" alt="Dot Net Tricks Classroom and Instructor-led Online Training for Professionals" style=" padding-bottom:4px;max-width:none !important">
+                    <li style="background:none !important; text-align:left">
+                        <a href="/" style="background:none !important;" itemprop="url">
+                            <img src="/images/logo.png" itemprop="logo" alt="The Linear and Project-based Courses for Professionals" style="padding:0px;max-width:none !important">
                         </a>
                     </li>
                     <li class="dropdown hidden-sm hidden-xs" id="menu-option-web">
-    <a href="javascript:void(0);">Our Courses <span class="wsmenu-arrow fa fa-angle-down"></span></a>
+    <a href="javascript:void(0);">Instructor-led Courses <span class="wsmenu-arrow fa fa-angle-down"></span></a>
     <div class="dropdown-menu menu-container dropdown-menu-right">
         <div class="col-sm-3 category-container">
+           
             <ul>
-                    <li class="category-list " data-category=".NET Development"><i class="fa fa-angle-right"></i> .NET Development<i class="fa fa-caret-left category-list-caret"></i></li>
-                    <li class="category-list " data-category="Big Data &amp; Analytics"><i class="fa fa-angle-right"></i> Big Data &amp; Analytics<i class="fa fa-caret-left category-list-caret"></i></li>
-                    <li class="category-list " data-category="Cloud Computing &amp; DevOps"><i class="fa fa-angle-right"></i> Cloud Computing &amp; DevOps<i class="fa fa-caret-left category-list-caret"></i></li>
-                    <li class="category-list " data-category="Digital Marketing"><i class="fa fa-angle-right"></i> Digital Marketing<i class="fa fa-caret-left category-list-caret"></i></li>
-                    <li class="category-list " data-category="Java Development"><i class="fa fa-angle-right"></i> Java Development<i class="fa fa-caret-left category-list-caret"></i></li>
-                    <li class="category-list " data-category="JS Framework Development"><i class="fa fa-angle-right"></i> JS Framework Development<i class="fa fa-caret-left category-list-caret"></i></li>
-                    <li class="category-list " data-category="Mobile Development"><i class="fa fa-angle-right"></i> Mobile Development<i class="fa fa-caret-left category-list-caret"></i></li>
-            </ul>
-            <div align="center" style="padding-top:10px">
+                        <li class="category-list " data-category="Masters Program"><i class="fa fa-angle-right"></i> Masters Program<i class="fa fa-caret-left category-list-caret"></i></li>                        <li class="category-list " data-category="Skill Bootcamp"><i class="fa fa-angle-right"></i> Skill Bootcamp<i class="fa fa-caret-left category-list-caret"></i></li>            </ul>
+            <div align="center" style="padding-top:30px">
                 <a href="/all-courses" class="btn btn-info" id="cur">
                     View All Courses
                 </a>
@@ -368,27 +819,42 @@ toggle between hiding and showing the dropdown content */
         </div>
         <div class="col-sm-4 category-course-container">
             <ul>
-                    <a class="category-course-anchor" href="http://www.dotnettricks.com/training/dotnet-development">
-                        <li class="category-course" data-course-category=".NET Development" data-category-course-key="0">.NET Development<i class="fa fa-caret-left category-course-caret"></i></li>
+                    <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/aws">
+                        <li class="category-course" data-course-category="Mastering Amazon Web Services (AWS)" data-category-course-key="0">Mastering Amazon Web Services (AWS)<i class="fa fa-caret-left category-course-caret"></i></li>
                     </a>
-                    <a class="category-course-anchor" href="http://www.dotnettricks.com/training/asp-net-core-development">
-                        <li class="category-course" data-course-category="ASP.NET Core Development" data-category-course-key="0">ASP.NET Core Development<i class="fa fa-caret-left category-course-caret"></i></li>
+                    <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/angular">
+                        <li class="category-course" data-course-category="Mastering Angular 2 to 6" data-category-course-key="0">Mastering Angular 2 to 6<i class="fa fa-caret-left category-course-caret"></i></li>
                     </a>
-                    <a class="category-course-anchor" href="http://www.dotnettricks.com/training/asp-net-mvc-development">
-                        <li class="category-course" data-course-category="ASP.NET MVC Development" data-category-course-key="0">ASP.NET MVC Development<i class="fa fa-caret-left category-course-caret"></i></li>
+                    <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/asp-net-core-angular">
+                        <li class="category-course" data-course-category="Mastering ASP.NET Core with Angular " data-category-course-key="0">Mastering ASP.NET Core with Angular <i class="fa fa-caret-left category-course-caret"></i></li>
+                    </a>
+                    <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/mvc-angular">
+                        <li class="category-course" data-course-category="Mastering ASP.NET MVC with Angular " data-category-course-key="0">Mastering ASP.NET MVC with Angular <i class="fa fa-caret-left category-course-caret"></i></li>
+                    </a>
+                    <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/mean-stack-development">
+                        <li class="category-course" data-course-category="Mastering MEAN Stack" data-category-course-key="0">Mastering MEAN Stack<i class="fa fa-caret-left category-course-caret"></i></li>
+                    </a>
+                    <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/microsoft-azure">
+                        <li class="category-course" data-course-category="Mastering Microsoft Azure" data-category-course-key="0">Mastering Microsoft Azure<i class="fa fa-caret-left category-course-caret"></i></li>
+                    </a>
+                    <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/react-redux  ">
+                        <li class="category-course" data-course-category="Mastering React with Redux" data-category-course-key="0">Mastering React with Redux<i class="fa fa-caret-left category-course-caret"></i></li>
+                    </a>
+                    <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/vue">
+                        <li class="category-course" data-course-category="Mastering Vue" data-category-course-key="0">Mastering Vue<i class="fa fa-caret-left category-course-caret"></i></li>
                     </a>
             </ul>
         </div>
         <!--Course Information-->
         <div class="col-sm-5 category-course-info-container text-center">
             <div style="padding-top:10px">
-                <img class="category-course-info-image lazy img-circle">
+                <img class="category-course-info-image lazy img-rectangle">
             </div>
             <div style="padding-top:10px">
                 <span class="category-course-info-name"></span>
             </div>
             <div>
-                <span class="course-rating course-rating-star"></span> Reviews | <i class="glyphicon glyphicon-user"></i>&nbsp;<span class="course-learners"></span>
+                <span class="course-rating course-rating-star"></span> 
             </div>
             <div class="course-tagline" style="padding-top:10px">
             </div>
@@ -400,164 +866,351 @@ toggle between hiding and showing the dropdown content */
     </div>
 </li>
 <li class="hidden-lg hidden-md">
-    <a href="javascript:void(0);">Our Courses <span class="wsmenu-arrow fa fa-angle-down"></span></a>
+    <a href="javascript:void(0);">Instructor-led Courses <span class="wsmenu-arrow fa fa-angle-down"></span></a>
     <ul class="wsmenu-submenu">
-            <li>
-                <a href="#"><i class="fa fa-angle-right"></i>.NET Development</a>
-                <ul class="wsmenu-submenu-sub">
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/dotnet-development">
-                                <i class="fa fa-angle-right"></i>.NET Development                             </a>
-                        </li>
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/asp-net-core-development">
-                                <i class="fa fa-angle-right"></i>ASP.NET Core Development                             </a>
-                        </li>
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/asp-net-mvc-development">
-                                <i class="fa fa-angle-right"></i>ASP.NET MVC Development                             </a>
-                        </li>
+                <li>
+                    <a href="#"><i class="fa fa-angle-right"></i>Masters Program</a>
+                    <ul class="wsmenu-submenu-sub">
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/masters-program/aws">
+                                    <i class="fa fa-angle-right"></i>Mastering Amazon Web Services (AWS)                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/masters-program/angular">
+                                    <i class="fa fa-angle-right"></i>Mastering Angular 2 to 6                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/masters-program/asp-net-core-angular">
+                                    <i class="fa fa-angle-right"></i>Mastering ASP.NET Core with Angular                                  </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/masters-program/mvc-angular">
+                                    <i class="fa fa-angle-right"></i>Mastering ASP.NET MVC with Angular                                  </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/masters-program/mean-stack-development">
+                                    <i class="fa fa-angle-right"></i>Mastering MEAN Stack                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/masters-program/microsoft-azure">
+                                    <i class="fa fa-angle-right"></i>Mastering Microsoft Azure                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/masters-program/react-redux  ">
+                                    <i class="fa fa-angle-right"></i>Mastering React with Redux                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/masters-program/vue">
+                                    <i class="fa fa-angle-right"></i>Mastering Vue                                 </a>
+                            </li>
 
-                </ul>
-            </li>
-            <li>
-                <a href="#"><i class="fa fa-angle-right"></i>Big Data &amp; Analytics</a>
-                <ul class="wsmenu-submenu-sub">
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/big-data-hadoop-developer">
-                                <i class="fa fa-angle-right"></i>Big Data Hadoop Developer                             </a>
-                        </li>
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/python-machine-learning">
-                                <i class="fa fa-angle-right"></i>Python with Machine Learning                             </a>
-                        </li>
+                    </ul>
+                </li>                <li>
+                    <a href="#"><i class="fa fa-angle-right"></i>Skill Bootcamp</a>
+                    <ul class="wsmenu-submenu-sub">
+                            <li>
+                                <a href="https://www.dotnettricks.com/skill-bootcamp/angular">
+                                    <i class="fa fa-angle-right"></i>Angular2 to 6 Skill Bootcamp                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/skill-bootcamp/asp-net-mvc">
+                                    <i class="fa fa-angle-right"></i>ASP.NET MVC Skill Bootcamp                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/skill-bootcamp/aws">
+                                    <i class="fa fa-angle-right"></i>AWS Skill Bootcamp                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/skill-bootcamp/node">
+                                    <i class="fa fa-angle-right"></i>Node Skill Bootcamp                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/skill-bootcamp/react">
+                                    <i class="fa fa-angle-right"></i>React Skill Bootcamp                                 </a>
+                            </li>
 
-                </ul>
-            </li>
-            <li>
-                <a href="#"><i class="fa fa-angle-right"></i>Cloud Computing &amp; DevOps</a>
-                <ul class="wsmenu-submenu-sub">
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/aws-solutions-architect">
-                                <i class="fa fa-angle-right"></i>AWS Solutions Architect Associate                             </a>
-                        </li>
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/microsoft-azure-certification ">
-                                <i class="fa fa-angle-right"></i>Developing Microsoft Azure Solutions                             </a>
-                        </li>
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/devops">
-                                <i class="fa fa-angle-right"></i>DevOps Training Program                              </a>
-                        </li>
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/implementing-microsoft-azure-infrastructure-solutions">
-                                <i class="fa fa-angle-right"></i>Microsoft Azure Infrastructure Solutions                             </a>
-                        </li>
-
-                </ul>
-            </li>
-            <li>
-                <a href="#"><i class="fa fa-angle-right"></i>Digital Marketing</a>
-                <ul class="wsmenu-submenu-sub">
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/ppc-marketing">
-                                <i class="fa fa-angle-right"></i>PPC Marketing Training                             </a>
-                        </li>
-
-                </ul>
-            </li>
-            <li>
-                <a href="#"><i class="fa fa-angle-right"></i>Java Development</a>
-                <ul class="wsmenu-submenu-sub">
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/java-j2ee-development">
-                                <i class="fa fa-angle-right"></i>Java Development                             </a>
-                        </li>
-
-                </ul>
-            </li>
-            <li>
-                <a href="#"><i class="fa fa-angle-right"></i>JS Framework Development</a>
-                <ul class="wsmenu-submenu-sub">
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/angular-development">
-                                <i class="fa fa-angle-right"></i>Angular2+4 with Firebase Development                             </a>
-                        </li>
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/javascript-fundamentals">
-                                <i class="fa fa-angle-right"></i>JavaScript Fundamentals                             </a>
-                        </li>
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/mean-stack-development">
-                                <i class="fa fa-angle-right"></i>MEAN Stack Development                             </a>
-                        </li>
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/nodejs-development">
-                                <i class="fa fa-angle-right"></i>NodeJS Development                             </a>
-                        </li>
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/react-redux-development">
-                                <i class="fa fa-angle-right"></i>React with Redux Development                              </a>
-                        </li>
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/typescript-fundamentals">
-                                <i class="fa fa-angle-right"></i>TypeScript Fundamentals                             </a>
-                        </li>
-
-                </ul>
-            </li>
-            <li>
-                <a href="#"><i class="fa fa-angle-right"></i>Mobile Development</a>
-                <ul class="wsmenu-submenu-sub">
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/android-development">
-                                <i class="fa fa-angle-right"></i>Android Apps Development                             </a>
-                        </li>
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/hybrid-apps-development">
-                                <i class="fa fa-angle-right"></i>Ionic : Build Hybrid Mobile Apps                             </a>
-                        </li>
-                        <li>
-                            <a href="http://www.dotnettricks.com/training/xamarin-forms-build-native-cross-platform-apps">
-                                <i class="fa fa-angle-right"></i>Xamarin Forms : Build Cross-platform Apps                             </a>
-                        </li>
-
-                </ul>
-            </li>
-    </ul>
+                    </ul>
+                </li>    </ul>
 </li>
 <li>
-    <a href="javascript:void(0);" title="Training Solutions">
-        Training Solutions
+    <a href="javascript:void(0);" title="Services">
+        Services
         <span class="wsmenu-arrow fa fa-angle-down"></span>
     </a>
     <ul class="wsmenu-submenu">
+        <li> <a href="/software-development-services" title="Consulting"><i class="fa fa-angle-right"></i>Software Development</a></li>
+        <li> <a href="/technical-recruiting-service" title="Recruiting"><i class="fa fa-angle-right"></i>Technical  Recruiting</a></li>
         <li> <a href="/corporate-training" title="Corporate Training"><i class="fa fa-angle-right"></i>Corporate Training</a></li>
-        <li><a href="/classroom-training" title="Classroom Training"><i class="fa fa-angle-right"></i>Classroom Training</a></li>
-        <li><a href="/online-training" title="Online Training"><i class="fa fa-angle-right"></i>Online Training</a></li>
         <li>
-            <a href="/hands-on-training" title="Hands-On Training"><i class="fa fa-angle-right"></i>Hands-On Training</a>
+            <a title="Training"><i class="fa fa-angle-right"></i>Training Programs</a>
             <ul class="wsmenu-submenu-sub">
-                <li><a href="/handson/noida/hands-on-training-program"><i class="fa fa-angle-right"></i>Hands-On Training Program In Noida</a></li>
+
+                <li><a href="/classroom-training" title="Classroom Training"><i class="fa fa-angle-right"></i>Classroom Training</a></li>
+                <li><a href="/online-training" title="Online Training"><i class="fa fa-angle-right"></i>Online Training</a></li>
+                <li>
+                    <a href="/hands-on-training" title="Hands-On Training"><i class="fa fa-angle-right"></i>Hands-On Training</a>
+                    <ul class="wsmenu-submenu-sub">
+                        <li><a href="/handson/noida/hands-on-training-program"><i class="fa fa-angle-right"></i>Hands-On Training Program In Noida</a></li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="/6-month-industrial-training"><i class="fa fa-angle-right"></i>Industrial Training&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                    <ul class="wsmenu-submenu-sub">
+                        <li><a href="/industrial/noida/six-months-dot-net-training"><i class="fa fa-angle-right"></i>Dot Net Six Months/Weeks Industrial Training</a></li>
+                        <li><a href="/industrial/noida/six-months-android-training"><i class="fa fa-angle-right"></i>Android Six Months/Weeks Industrial Training</a></li>
+                        <li><a href="/industrial/noida/six-months-seo-ppc-training"><i class="fa fa-angle-right"></i>SEO/PPC Six Months/Weeks Industrial Training</a></li>
+                        <li><a href="/industrial/noida/six-months-mean-training"><i class="fa fa-angle-right"></i>MEAN Six Months/Weeks Industrial Training</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/campus-training" title="Campus Training"><i class="fa fa-angle-right"></i>Campus Training</a>
+                    <ul class="wsmenu-submenu-sub">
+                        <li><a href="/campus/noida/campus-training-program"><i class="fa fa-angle-right"></i>Campus Training Program In Noida</a></li>
+
+                    </ul>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</li>
+<li class="dropdown hidden-sm hidden-xs" id="menu-option-web">
+    <a href="javascript:void(0);">Self-Paced Courses <span class="wsmenu-arrow fa fa-angle-down"></span></a>
+    <div class="dropdown-menu menu-container dropdown-menu-right">
+        <div class="col-sm-3 category-container">
+            <ul>
+                <li class="category-list " data-category=".NET Development"><i class="fa fa-angle-right"></i> .NET Development<i class="fa fa-caret-left category-list-caret"></i></li>
+                <li class="category-list " data-category="Cloud and DevOps"><i class="fa fa-angle-right"></i> Cloud and DevOps<i class="fa fa-caret-left category-list-caret"></i></li>
+                <li class="category-list " data-category="Front-end and JS Frameworks"><i class="fa fa-angle-right"></i> Front-end and JS Frameworks<i class="fa fa-caret-left category-list-caret"></i></li>
+                <li class="category-list " data-category="Project Development"><i class="fa fa-angle-right"></i> Project Development<i class="fa fa-caret-left category-list-caret"></i></li>
+                <li class="category-list " data-category="Software Testing"><i class="fa fa-angle-right"></i> Software Testing<i class="fa fa-caret-left category-list-caret"></i></li>
+            </ul>
+            <div align="center" style="padding-top:10px">
+                <a href="/all-courses" class="btn btn-info" id="cur">
+                    View All Courses
+                </a>
+            </div><br>
+        </div>
+        <div class="col-sm-4 category-course-container">
+            <ul>
+                <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/aws">
+                    <li class="category-course" data-course-category="Mastering Amazon Web Services (AWS)" data-category-course-key="0">Mastering Amazon Web Services (AWS)<i class="fa fa-caret-left category-course-caret"></i></li>
+                </a>
+                <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/angular">
+                    <li class="category-course" data-course-category="Mastering Angular 2 to 6" data-category-course-key="0">Mastering Angular 2 to 6<i class="fa fa-caret-left category-course-caret"></i></li>
+                </a>
+                <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/asp-net-core-angular">
+                    <li class="category-course" data-course-category="Mastering ASP.NET Core with Angular " data-category-course-key="0">Mastering ASP.NET Core with Angular <i class="fa fa-caret-left category-course-caret"></i></li>
+                </a>
+                <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/mvc-angular">
+                    <li class="category-course" data-course-category="Mastering ASP.NET MVC with Angular " data-category-course-key="0">Mastering ASP.NET MVC with Angular <i class="fa fa-caret-left category-course-caret"></i></li>
+                </a>
+                <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/mean-stack-development">
+                    <li class="category-course" data-course-category="Mastering MEAN Stack" data-category-course-key="0">Mastering MEAN Stack<i class="fa fa-caret-left category-course-caret"></i></li>
+                </a>
+                <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/microsoft-azure">
+                    <li class="category-course" data-course-category="Mastering Microsoft Azure" data-category-course-key="0">Mastering Microsoft Azure<i class="fa fa-caret-left category-course-caret"></i></li>
+                </a>
+                <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/react-redux  ">
+                    <li class="category-course" data-course-category="Mastering React with Redux" data-category-course-key="0">Mastering React with Redux<i class="fa fa-caret-left category-course-caret"></i></li>
+                </a>
+                <a class="category-course-anchor" href="https://www.dotnettricks.com/training/masters-program/vue">
+                    <li class="category-course" data-course-category="Mastering Vue" data-category-course-key="0">Mastering Vue<i class="fa fa-caret-left category-course-caret"></i></li>
+                </a>
+            </ul>
+        </div>
+        <!--Course Information-->
+        <div class="col-sm-5 category-course-info-container text-center" hidden="">
+            <div style="padding-top:10px">
+                <img class="category-course-info-image lazy img-rectangle">
+            </div>
+            <div style="padding-top:10px">
+                <span class="category-course-info-name"></span>
+            </div>
+            <div>
+                <span class="course-rating course-rating-star"></span> 
+            </div>
+            <div class="course-tagline" style="padding-top:10px">
+            </div>
+            <div class="course-selling-points" align="left">
+            </div>
+            <div class="course-more" style="padding-top:10px">
+            </div>
+        </div>
+    </div>
+</li>
+
+
+<li class="hidden-lg hidden-md">
+    <a href="javascript:void(0);">Self-Paced Courses <span class="wsmenu-arrow fa fa-angle-down"></span></a>
+    <ul class="wsmenu-submenu">
+                <li>
+                    <a href="#"><i class="fa fa-angle-right"></i>.NET Development</a>
+                    <ul class="wsmenu-submenu-sub">
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/unittesting-aspnet-mvc">
+                                    <i class="fa fa-angle-right"></i>ASP.NET MVC Unit Testing                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/csharp-essentials">
+                                    <i class="fa fa-angle-right"></i>C# Essentials                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/linq-essentials">
+                                    <i class="fa fa-angle-right"></i>LINQ Essentials                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/the-complete-aspnet-core-mvc">
+                                    <i class="fa fa-angle-right"></i>The Complete ASP.NET Core                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/the-complete-aspnet-mvc">
+                                    <i class="fa fa-angle-right"></i>The Complete ASP.NET MVC                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/the-complete-entity-framework">
+                                    <i class="fa fa-angle-right"></i>The Complete Entity Framework                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/the-complete-xamarin-forms">
+                                    <i class="fa fa-angle-right"></i>The Complete Xamarin Forms                                 </a>
+                            </li>
+
+                    </ul>
+                </li>                <li>
+                    <a href="#"><i class="fa fa-angle-right"></i>Cloud and DevOps</a>
+                    <ul class="wsmenu-submenu-sub">
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/masters-program/aws">
+                                    <i class="fa fa-angle-right"></i>Mastering Amazon Web Services (AWS)                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/masters-program/microsoft-azure">
+                                    <i class="fa fa-angle-right"></i>Mastering Microsoft Azure                                 </a>
+                            </li>
+
+                    </ul>
+                </li>                <li>
+                    <a href="#"><i class="fa fa-angle-right"></i>Front-end and JS Frameworks</a>
+                    <ul class="wsmenu-submenu-sub">
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/javascript-essentials">
+                                    <i class="fa fa-angle-right"></i>JavaScript Essentials                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/the-complete-angular-express">
+                                    <i class="fa fa-angle-right"></i>The Complete Angular with Express                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/the-complete-angular-webapi">
+                                    <i class="fa fa-angle-right"></i>The Complete Angular with WebAPI                                  </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/typescript-essentials">
+                                    <i class="fa fa-angle-right"></i>TypeScript Essentials                                 </a>
+                            </li>
+
+                    </ul>
+                </li>                <li>
+                    <a href="#"><i class="fa fa-angle-right"></i>Project Development</a>
+                    <ul class="wsmenu-submenu-sub">
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/aspnet-core-angular-project">
+                                    <i class="fa fa-angle-right"></i>Project - ASP.NET Core with Angular                                 </a>
+                            </li>
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/mvc-angular-project">
+                                    <i class="fa fa-angle-right"></i>Project - ASP.NET MVC with Angular                                 </a>
+                            </li>
+
+                    </ul>
+                </li>                <li>
+                    <a href="#"><i class="fa fa-angle-right"></i>Software Testing</a>
+                    <ul class="wsmenu-submenu-sub">
+                            <li>
+                                <a href="https://www.dotnettricks.com/training/unittesting-aspnet-mvc">
+                                    <i class="fa fa-angle-right"></i>ASP.NET MVC Unit Testing                                 </a>
+                            </li>
+
+                    </ul>
+                </li>    </ul>
+</li>
+
+<li>
+    <a href="javascript:void(0);" title="Services">
+        Resources
+        <span class="wsmenu-arrow fa fa-angle-down"></span>
+    </a>
+    <ul class="wsmenu-submenu">
+        <li>
+            <a title="Training"><i class="fa fa-angle-right"></i>Free eBooks</a>
+            <ul class="wsmenu-submenu-sub">
+                    <li>
+        <a href="https://www.dotnettricks.com/books/typescript/training" rel="title" class="b-link-stripe b-animate-go  thickbox">
+            <i class="fa fa-angle-right"></i>TypeScript Training 
+        </a>
+    </li>
+    <li>
+        <a href="https://www.dotnettricks.com/books/nodejs/interview" rel="title" class="b-link-stripe b-animate-go  thickbox">
+            <i class="fa fa-angle-right"></i>Node.js Interview Questions and Answers 
+        </a>
+    </li>
+    <li>
+        <a href="https://www.dotnettricks.com/books/angularjs/interview" rel="title" class="b-link-stripe b-animate-go  thickbox">
+            <i class="fa fa-angle-right"></i>AngularJS Interview Questions and Answers 
+        </a>
+    </li>
+    <li>
+        <a href="https://www.dotnettricks.com/books/linq/interview" rel="title" class="b-link-stripe b-animate-go  thickbox">
+            <i class="fa fa-angle-right"></i>LINQ Interview Questions and Answers 
+        </a>
+    </li>
+    <li>
+        <a href="https://www.dotnettricks.com/books/mvc/interview" rel="title" class="b-link-stripe b-animate-go  thickbox">
+            <i class="fa fa-angle-right"></i>ASP.NET MVC Interview Questions and Answers 
+        </a>
+    </li>
 
             </ul>
         </li>
-       <li>
-            <a href="/6-month-industrial-training"><i class="fa fa-angle-right"></i>Industrial Training&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-            <ul class="wsmenu-submenu-sub">
-                <li><a href="/industrial/noida/six-months-dot-net-training"><i class="fa fa-angle-right"></i>Dot Net Six Months/Weeks Industrial Training</a></li>
-                <li><a href="/industrial/noida/six-months-android-training"><i class="fa fa-angle-right"></i>Android Six Months/Weeks Industrial Training</a></li>
-                <li><a href="/industrial/noida/six-months-seo-ppc-training"><i class="fa fa-angle-right"></i>SEO/PPC Six Months/Weeks Industrial Training</a></li>
-                <li><a href="/industrial/noida/six-months-mean-training"><i class="fa fa-angle-right"></i>MEAN Six Months/Weeks Industrial Training</a></li>
-            </ul>
-        </li>
         <li>
-            <a href="/campus-training" title="Campus Training"><i class="fa fa-angle-right"></i>Campus Training</a>
+            <a title="Learn Step-by-Step"><i class="fa fa-angle-right"></i>Learn Step-by-Step</a>
             <ul class="wsmenu-submenu-sub">
-                <li><a href="/campus/noida/campus-training-program"><i class="fa fa-angle-right"></i>Campus Training Program In Noida</a></li>
+                    <li>
+        <a href="/learn/stepbystep/angularjs/introduction"> <i class="fa fa-angle-right"></i>AngularJS</a>
+    </li>
+    <li>
+        <a href="/learn/stepbystep/c/introduction"> <i class="fa fa-angle-right"></i>C Language</a>
+    </li>
+    <li>
+        <a href="/learn/stepbystep/csharp/introduction"> <i class="fa fa-angle-right"></i>C# Tutorial</a>
+    </li>
+    <li>
+        <a href="/learn/stepbystep/Javascript/introduction"> <i class="fa fa-angle-right"></i>JavaScript</a>
+    </li>
+    <li>
+        <a href="/learn/stepbystep/linq/introduction"> <i class="fa fa-angle-right"></i>LINQ</a>
+    </li>
+    <li>
+        <a href="/learn/stepbystep/mvc/introduction"> <i class="fa fa-angle-right"></i>ASP.NET MVC</a>
+    </li>
+    <li>
+        <a href="/learn/stepbystep/typescript/introduction"> <i class="fa fa-angle-right"></i>TypeScript</a>
+    </li>
+    <li>
+        <a href="/learn/stepbystep/webapi/introduction"> <i class="fa fa-angle-right"></i>Web API</a>
+    </li>
 
             </ul>
         </li>
+        <li>
+            <a title="Training"><i class="fa fa-angle-right"></i>Events</a>
+            <ul class="wsmenu-submenu-sub">
+                <li><a href="/events/upcoming-events"><i class="fa fa-angle-right"></i>Upcoming Events</a></li>
+                <li><a href="/events/past-events"><i class="fa fa-angle-right"></i>Passed Events</a></li>
+            </ul>
+        </li>
+        <li> <a href="/technical-recruiting-service" title="Recruiting"><i class="fa fa-angle-right"></i>Current Job Openings</a></li>
     </ul>
 </li>
 <li>
@@ -592,6 +1245,9 @@ toggle between hiding and showing the dropdown content */
             <a href="/learn/aspnetcore"> <i class="fa fa-hand-o-right"></i>ASP.NET Core</a>
         </li>
         <li>
+            <a href="/learn/aws"> <i class="fa fa-hand-o-right"></i>AWS</a>
+        </li>
+        <li>
             <a href="/learn/backbone"> <i class="fa fa-hand-o-right"></i>Backbone</a>
         </li>
         <li>
@@ -604,6 +1260,9 @@ toggle between hiding and showing the dropdown content */
 <ul class="col-lg-3 col-md-3 col-xs-12 link-list">
         <li>
             <a href="/learn/cswinapps"> <i class="fa fa-hand-o-right"></i>C# Windows Apps</a>
+        </li>
+        <li>
+            <a href="/learn/careerhacks"> <i class="fa fa-hand-o-right"></i>Career Hacks</a>
         </li>
         <li>
             <a href="/learn/dependencyinjection"> <i class="fa fa-hand-o-right"></i>Dependency Injection</a>
@@ -632,11 +1291,11 @@ toggle between hiding and showing the dropdown content */
         <li>
             <a href="/learn/javascript"> <i class="fa fa-hand-o-right"></i>JavaScript</a>
         </li>
+</ul>
+<ul class="col-lg-3 col-md-3 col-xs-12 link-list">
         <li>
             <a href="/learn/jquery"> <i class="fa fa-hand-o-right"></i>jQuery</a>
         </li>
-</ul>
-<ul class="col-lg-3 col-md-3 col-xs-12 link-list">
         <li>
             <a href="/learn/jquerymobile"> <i class="fa fa-hand-o-right"></i>jQuery Mobile</a>
         </li>
@@ -654,9 +1313,6 @@ toggle between hiding and showing the dropdown content */
         </li>
         <li>
             <a href="/learn/mvc"> <i class="fa fa-hand-o-right"></i>MVC</a>
-        </li>
-        <li>
-            <a href="/learn/nhibernate"> <i class="fa fa-hand-o-right"></i>Nhibernate</a>
         </li>
         <li>
             <a href="/learn/nodejs"> <i class="fa fa-hand-o-right"></i>NodeJS</a>
@@ -709,92 +1365,7 @@ toggle between hiding and showing the dropdown content */
 
     </div>
 </li>
-<li>
-    <a href="#">Step By Step <span class="wsmenu-arrow fa fa-angle-down"></span></a>
-    <div class="megamenu clearfix">
-        <h2 class="title">&nbsp; STEP BY STEP TUTORIAL</h2>
-        
-
-<ul class="col-lg-6 col-md-6 col-xs-12 link-list">
-        <li>
-            <a href="/learn/stepbystep/angularjs/introduction"> <i class="fa fa-hand-o-right"></i>AngularJS</a>
-        </li>
-        <li>
-            <a href="/learn/stepbystep/c/introduction"> <i class="fa fa-hand-o-right"></i>C Language</a>
-        </li>
-        <li>
-            <a href="/learn/stepbystep/csharp/introduction"> <i class="fa fa-hand-o-right"></i>C#</a>
-        </li>
-        <li>
-            <a href="/learn/stepbystep/Javascript/introduction"> <i class="fa fa-hand-o-right"></i>JavaScript</a>
-        </li>
-</ul>
-<ul class="col-lg-6 col-md-6 col-xs-12 link-list">
-        <li>
-            <a href="/learn/stepbystep/linq/introduction"> <i class="fa fa-hand-o-right"></i>LINQ</a>
-        </li>
-        <li>
-            <a href="/learn/stepbystep/mvc/introduction"> <i class="fa fa-hand-o-right"></i>ASP.NET MVC</a>
-        </li>
-        <li>
-            <a href="/learn/stepbystep/typescript/introduction"> <i class="fa fa-hand-o-right"></i>TypeScript</a>
-        </li>
-        <li>
-            <a href="/learn/stepbystep/webapi/introduction"> <i class="fa fa-hand-o-right"></i>Web API</a>
-        </li>
-</ul>
-
-    
-
-    </div>
-</li>
-<li>
-    <a href="/free-ebooks">Free eBooks <span class="wsmenu-arrow fa fa-angle-down"></span></a>
-    <ul class="wsmenu-submenu">
-            <li>
-        <a href="http://www.dotnettricks.com/books/typescript/training" rel="title" class="b-link-stripe b-animate-go  thickbox">
-            <i class="fa fa-angle-right"></i>TypeScript Training 
-        </a>
-    </li>
-    <li>
-        <a href="http://www.dotnettricks.com/books/nodejs/interview" rel="title" class="b-link-stripe b-animate-go  thickbox">
-            <i class="fa fa-angle-right"></i>Node.js Interview Questions and Answers 
-        </a>
-    </li>
-    <li>
-        <a href="http://www.dotnettricks.com/books/angularjs/interview" rel="title" class="b-link-stripe b-animate-go  thickbox">
-            <i class="fa fa-angle-right"></i>AngularJS Interview Questions and Answers 
-        </a>
-    </li>
-    <li>
-        <a href="http://www.dotnettricks.com/books/linq/interview" rel="title" class="b-link-stripe b-animate-go  thickbox">
-            <i class="fa fa-angle-right"></i>LINQ Interview Questions and Answers 
-        </a>
-    </li>
-    <li>
-        <a href="http://www.dotnettricks.com/books/mvc/interview" rel="title" class="b-link-stripe b-animate-go  thickbox">
-            <i class="fa fa-angle-right"></i>ASP.NET MVC Interview Questions and Answers 
-        </a>
-    </li>
-
-    </ul>
-
-</li>
-
-<li>
-    <a href="javascript:void(0);">Events <span class="wsmenu-arrow fa fa-angle-down"></span></a>
-    <ul class="wsmenu-submenu">
-        <li><a href="/events/upcoming-events"><i class="fa fa-angle-right"></i>Upcoming Events</a></li>
-        <li><a href="/events/past-events"><i class="fa fa-angle-right"></i>Passed Events</a></li>
-    </ul>
-</li>
-<li>
-    <a href="/jobs">Jobs</a>
-</li>
-<li><a href="/scholarship-for-students">Student Scholarship</a></li>
-
-
-
+<li><a href="/skill-challenge" style="background-color: rgba(232, 231, 231, 0.78);border-radius: 0px !important;text-decoration: none;">Skill Challenge</a></li>
 
                         <li class="hidden-lg hidden-md hidden-sm">
                             <a href="/member-login">Login</a>
@@ -825,6 +1396,7 @@ toggle between hiding and showing the dropdown content */
     </div>
 
     <!--Course header-->
+
     <div id="newhead" style="display:none; background: #fff;position: fixed; width: 100%;z-index: 9999; box-shadow: rgba(0, 0, 0, 0.38) 0px 2px 4px 0px;">
         <div class="container hidden-sm hidden-xs col-sm-12">
             <div class="col-sm-6" style="padding:8px 0">
@@ -833,11 +1405,27 @@ toggle between hiding and showing the dropdown content */
                 </span>
             </div>
             <div id="headerData" class="pull-right col-sm-6" style="text-align:right">
-                <div class="col-sm-8" style="color:#333">
+                <div class="col-sm-7" style="color:#333">
                     <span style="font-size: 18px; padding-top:13px;display: inline-block;">
-                        <i class="fa fa-phone"></i>
-                        <span style="display: inline-block;">+91 11 330 34100  </span> <img src="/images/in.png" style="height:18px;display: inline-block; margin-top: -6px;">
+                        <i class="fa fa-phone" style="font-size: 20px"></i>
+                        <span style="display: inline-block;">+91 11 330 34100  </span>
                     </span>
+                </div>
+                <div class="col-sm-1" style="padding: 15px 12px 0 15px">
+                    <div class="noti_Container">
+                        <div class="noti_Counter"></div>
+                        <div class="notifications">
+                            <div style="text-align:center">
+                                <a href="/cart">View All</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="padding-right:2px" id="noti_Button">
+                        <a href="/cart" style="color:#fff">
+                            <i class="fa fa-shopping-cart" aria-hidden="true" style="color: #008BE8;padding-right: 10px;font-size: 20px;
+    cursor: pointer;"></i>
+                        </a>
+                    </div>
                 </div>
                 <div class="col-sm-4" style="padding-right: 0;margin-top:3px;">
                     
@@ -850,6 +1438,7 @@ toggle between hiding and showing the dropdown content */
     </div>
 
     <!--traing header-->
+
     <div id="headTraining" style="display:none; background: #fff;position: fixed; width: 100%;z-index: 9999; box-shadow: rgba(0, 0, 0, 0.38) 0px 2px 4px 0px;">
         <div class="container hidden-sm hidden-xs col-sm-12">
             <div class="col-sm-6" style="padding:8px 0">
@@ -861,12 +1450,11 @@ toggle between hiding and showing the dropdown content */
                 <div class="col-sm-10">
                     <span style="font-size: 16px; padding-top:13px;display: inline-block;">
                         <a href="mailto:sales@dotnettricks.com" title="sales@dotnettricks.com" style="color:#333"><i class="fa fa-envelope-o"></i> sales@dotnettricks.com</a>
-                        &nbsp; &nbsp;<i class="fa fa-phone"></i> +91-11330-34100
+                        &nbsp; &nbsp;<i class="fa fa-phone" style="font-size: 18px;"></i> +91-11330-34100
                     </span>
 
                 </div>
                 <div class="col-sm-2" style="padding-right: 0;margin-top:3px;">
-                    
                     <div style="margin: 4px 0 0 0;display:inline-block">
                         <a href="javascript:void(0)" class="btn btn-info Formdetail">Request More Info</a>
                     </div>
@@ -876,8 +1464,59 @@ toggle between hiding and showing the dropdown content */
     </div>
 </header>
 
+<script>
+    $(document).ready(function () {
+        var noticount = 0;
+        $.ajax({
+            type: "GET",
+            contentType: "application/json; charset=utf-8",
+            url: '/ShoppingCart/GetCartDetails',
+            dataType: "json",
+            beforeSend: function () {
+            },
+            success: function (data) {
+                if (data != false) {
+                    noticount = data.length;
+                    $('.noti_Counter').text(noticount);
+                }
+            },
+            error: function (result) {
+                //alert('Service call failed: ' + result.status + ' Type :' + result.statusText);
+            },
+        });
+
+        //// ANIMATEDLY DISPLAY THE NOTIFICATION COUNTER.
+        $('.noti_Counter').css({ opacity: 0 }).text(noticount)// ADD DYNAMIC VALUE (YOU CAN EXTRACT DATA FROM DATABASE OR XML).
+            .css({ top: '-10px' })
+            .animate({ top: '-2px', opacity: 1 }, 500);
+
+        //$('#noti_Button').hover(function () {
+        //    // TOGGLE (SHOW OR HIDE) NOTIFICATION WINDOW.
+        //    $('#notifications').fadeIn();
+        //    //   $('#noti_Counter').fadeOut('slow');                 // HIDE THE COUNTER.
+        //    return false;
+
+        //});
+
+        //// HIDE NOTIFICATIONS WHEN CLICKED ANYWHERE ON THE PAGE.
+        //$(document).click(function () {
+        //    $('#notifications').hide();
+
+        //    // CHECK IF NOTIFICATION COUNTER IS HIDDEN.
+        //    if ($('#noti_Counter').is(':hidden')) {
+        //        // CHANGE BACKGROUND COLOR OF THE BUTTON.
+
+        //    }
+        //});
+
+        //$('#notifications').click(function () {
+        //    return false;       // DO NOTHING WHEN CONTAINER IS CLICKED.
+        //});
+    });
+</script>
     <div>
         
+
 
 <div id="home-slider-1" class="text-justify">
         <div class="container">
@@ -965,203 +1604,330 @@ toggle between hiding and showing the dropdown content */
 </div>
 
     </div>
-        <div id="testimonial">
+        <div id="testimonial" style="padding-top:15px">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="wow fadeInDown heading-full text-center">
-                            <h2 class="">Professional Speaks</h2>
+                            <h2 class="">Professional Reviews</h2>
                             <span></span>
                         </div>
                         <div class="wow fadeInDown">
                             <div id="testimonial-slider" class="carousel slide testimonial" data-ride="carousel">
                                 <!-- Wrapper for slides -->
-                                <div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators"></ol>
-    <div class="carousel-inner" style="width:95% !important" role="listbox">
-
-
-                <div class="item speak-item text-center active ">
-                    <div class="col-sm-10 pull-left">
-                        <p style="padding-left:20px;text-align:justify">Good exposure of knowledge for angular 2 &amp; 4 development . The course was interesting, well Organised and interactive. I was able  to connect well because of the real time example which were discussed during the session. Dot Net Tricks the best online/ offline learning platform in India. Thank you for all the support.</p>
-                        <span>
-                            <strong>Harsh Verma (Senior System Engineer )</strong>
-                            Angular2+4 with Firebase Development
-                        </span>
-                    </div>
-
-                    <div class="col-sm-2 pull-right imgtest">
-                            <img src="http://www.dotnettricks.com/uploads/testimonialImages/120171030083303.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
-                                                <a href="https://www.linkedin.com/in/harsh-verma-97b9b571/" target="_blank" class="imglin" rel="nofollow">
-                            <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                        </a>
-                    </div>
-                </div>
-                <div class=" item speak-item text-center ">
-                    <div class="col-sm-10 pull-left">
-                        <p style="padding-left:20px;text-align:justify">It's a great learning with DotNetTricks. I spent a lot of time on the internet, read many blogs to identify the best training platform, and then I found DotNetTricks. I got in touch with the DotNetTricks support team and got the program I was looking for. I have completed my course and believe me I have a great experience, Trainer are really knowledge and have provide the best training session. All the best Team DotNetTricks.</p>
-                        <span>
-                            <strong>Suraj Maddheshiya (Blogge)</strong>
-                            MEAN Stack Development
-
-                        </span>
-                    </div>
-                                            <div class="col-sm-2 pull-right imgtest">
-                            <img src="http://www.dotnettricks.com/uploads/testimonialImages/720171003110222.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
-                                <a href="https://www.linkedin.com/in/suraj-maddheshiya-6a27b541/" target="_blank" class="imglin" rel="nofollow">
-                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                                </a>
-                        </div>
-                </div>
-                <div class=" item speak-item text-center ">
-                    <div class="col-sm-10 pull-left">
-                        <p style="padding-left:20px;text-align:justify">The training was a great experience. Dot Net tricks helps to make your concepts clear.Learning with hands on activities really helps me. The trainer was approachable and he ensured all the participants are at the same level of understanding. Thanks Dot Net Tricks</p>
-                        <span>
-                            <strong>Khyati Sharma  (Java Developer)</strong>
-                            Angular2+4 with Firebase Development
-
-                        </span>
-                    </div>
-                                            <div class="col-sm-2 pull-right imgtest">
-                            <img src="http://www.dotnettricks.com/uploads/testimonialImages/720171003103712.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
-                                <a href="https://www.linkedin.com/in/khyati-sharma-4722a1b5/" target="_blank" class="imglin" rel="nofollow">
-                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                                </a>
-                        </div>
-                </div>
-                <div class=" item speak-item text-center ">
-                    <div class="col-sm-10 pull-left">
-                        <p style="padding-left:20px;text-align:justify">I am feeling glad after join Dot Net Trick for MEAN Stack Development Program.In IT Sector Technology is changing day by day.if we want to learn New Technology,The Dot Net Trick Provide Best valuable content and technique for Switch new Job and improve Self confidence,coding skill. I am very happy to part of Dot Net Trick.thank you Dot net trick team.
-</p>
-                        <span>
-                            <strong>Akash Saini (Software Developer)</strong>
-                            MEAN Stack Development
-
-                        </span>
-                    </div>
-                                            <div class="col-sm-2 pull-right imgtest">
-                            <img src="http://www.dotnettricks.com/uploads/testimonialImages/720170922070310.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
-                                <a href="https://www.linkedin.com/in/akash-saini-09bb4487" target="_blank" class="imglin" rel="nofollow">
-                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                                </a>
-                        </div>
-                </div>
-                <div class=" item speak-item text-center ">
-                    <div class="col-sm-10 pull-left">
-                        <p style="padding-left:20px;text-align:justify">Currently working in MNC company and i am very new about MVC and Angular js Technology , I joined  DNT class for MVC and Angular js , and the quality of teaching is very good as in few weeks  I see lots of changes in myself  to accept challenges which  come in  my project  related technologies .
-</p>
-                        <span>
-                            <strong>Prachi Singhal (Senior Software Engineer)</strong>
-                            ASP.NET MVC with Angular4 Development
-
-                        </span>
-                    </div>
-                                            <div class="col-sm-2 pull-right imgtest">
-                            <img src="http://www.dotnettricks.com/uploads/testimonialImages/720170916130609.png" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
-                                <a href="https://www.linkedin.com/in/prachi-singhal-94413153/" target="_blank" class="imglin" rel="nofollow">
-                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                                </a>
-                        </div>
-                </div>
-                <div class=" item speak-item text-center ">
-                    <div class="col-sm-10 pull-left">
-                        <p style="padding-left:20px;text-align:justify">I love the learning platform offered by Dot Net Tricks. The learning content is well simplified and is very easy to follow, Their 24/7 course availability and chat support help to resolve your technical queries on the fly. I am an existing customer and I have already  enrolled. I would recommend this course to anyone who wants to hone their technical skills and want to take next big leap in their career. Happy Learning.
-</p>
-                        <span>
-                            <strong>Deepak Kumar (Software Developer)</strong>
-                            Angular2+4 with Firebase Development
-
-                        </span>
-                    </div>
-                                            <div class="col-sm-2 pull-right imgtest">
-                            <img src="http://www.dotnettricks.com/uploads/testimonialImages/720170916125846.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
-                                <a href="https://www.linkedin.com/in/deepak-kumar-3a398471/" target="_blank" class="imglin" rel="nofollow">
-                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                                </a>
-                        </div>
-                </div>
-                <div class=" item speak-item text-center ">
-                    <div class="col-sm-10 pull-left">
-                        <p style="padding-left:20px;text-align:justify">This is one of the most brilliant institute for people wishing to make a carrier in Microsoft Technologies. I had heard a lot of good reviews from my friends as well. The course content is brilliant and you get hands on experience. I would recommend this all people looking for a good carrier in IT.
-
-</p>
-                        <span>
-                            <strong>Harshendra Singh (Software Developer)</strong>
-                            Angular2+4 with Firebase Development
-
-                        </span>
-                    </div>
-                                            <div class="col-sm-2 pull-right imgtest">
-                            <img src="http://www.dotnettricks.com/uploads/testimonialImages/720170912124957.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
-                                <a href="https://www.linkedin.com/in/harshendra-singh-52531320/" target="_blank" class="imglin" rel="nofollow">
-                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                                </a>
-                        </div>
-                </div>
-                <div class=" item speak-item text-center ">
-                    <div class="col-sm-10 pull-left">
-                        <p style="padding-left:20px;text-align:justify">The trainer is approachable, well experienced, always interested to explain things. It was a nice experience learning a complex architecture like MEAN Stack Development. It is excellent. We even suggested many people in our organization to go for different courses in Dot Net Tricks.Trainer has a good real time experience. Hence the examples are very practical and interesting.</p>
-                        <span>
-                            <strong>Srimanta Pal (Sr. UI Developer &amp; Project Analysis)</strong>
-                            MEAN Stack Development
-
-                        </span>
-                    </div>
-                                            <div class="col-sm-2 pull-right imgtest">
-                            <img src="http://www.dotnettricks.com/uploads/testimonialImages/720170912063109.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
-                                <a href="https://www.linkedin.com/in/srimanta-pal-bba77b67/" target="_blank" class="imglin" rel="nofollow">
-                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                                </a>
-                        </div>
-                </div>
-                <div class=" item speak-item text-center ">
-                    <div class="col-sm-10 pull-left">
-                        <p style="padding-left:20px;text-align:justify">It was one of the best learning experiences I had, at DOT NET TRICKS, right from counseling to completion of course on NodeJS with Angular4 Development. Counseling: DOT NET TRICKS have the counselors with appropriate updated  industrial knowledge, which helps to identify the need of professional. Training: Training provided is completely based on industrial projects and practical way of finding solutions &amp; code optimization. The classes are very interactive and expand our knowledge. Provisions provided for practicing listening exercises are very good and helpful. Environment: Over all environment in Academy is very friendly and the best thing about this place is that anytime we can go and clear the doubts.  "Overall I am very much happy and recommend others to join for DOT NET TRICKS !!</p>
-                        <span>
-                            <strong>Ajay Yadav (Software developer)</strong>
-                            NodeJS with Angular4 Development
-
-                        </span>
-                    </div>
-                                            <div class="col-sm-2 pull-right imgtest">
-                            <img src="http://www.dotnettricks.com/uploads/testimonialImages/720170916131016.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
-                                <a href="https://www.linkedin.com/in/ajayyadav016/" target="_blank" class="imglin" rel="nofollow">
-                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                                </a>
-                        </div>
-                </div>
-                <div class=" item speak-item text-center ">
-                    <div class="col-sm-10 pull-left">
-                        <p style="padding-left:20px;text-align:justify">I have completed MEAN Stack with Angular 2 project development training it was amazing experience learning from Dot Net Tricks. I have gain confidence and enhance my coding skills course here. Thanks, Dot Net Tricks.
-</p>
-                        <span>
-                            <strong>Ankit Bhowmick (PHP Developer )</strong>
-                            MEAN Stack Development
-
-                        </span>
-                    </div>
-                                            <div class="col-sm-2 pull-right imgtest">
-                            <img src="http://www.dotnettricks.com/uploads/testimonialImages/120170909131817.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
-                                <a href="https://www.linkedin.com/in/ankit-bhowmick-5ab7aba3/" target="_blank" class="imglin" rel="nofollow">
-                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                                </a>
-                        </div>
-                </div>
-    </div>
-    <div class="clearfix text-center">
-        <a class="btn btn-info" href="/Home/Testimonials" style="margin: 20px; padding: 6px 60px">View All</a>
-    </div>
-
-    <a style="bottom: 50%; position: absolute;left:0;margin-left:-2%" href="#myCarousel" role="button" data-slide="prev">
-        <span><img src="/images/left.png"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a style="bottom: 50%;float:right;position: absolute;right:0;margin-right:-2%" href="#myCarousel" role="button" data-slide="next">
-        <span><img src="/images/right.png"></span>
-        <span class="sr-only">Next</span>
-    </a>
+                                
+<div class="clearfix pull-right" style="display: block;margin-top: -13px !important;">
+    <a href="/reviews">View All</a>
 </div>
+
+<div class="container">
+    <div id="mixedSlider">
+        <div class="MS-content">
+                <div class="item">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  reviews_tile">
+                        <i class="icon-Home-page-customer-review-icon-1"></i>
+
+                        <div class="user_review">
+                            <p class="text-justify show">I have Completed Master Program Asp.Net Core with Angular Development from DotNetTricks and it was amazing and their technical team is very supportive even they help me in my personal project. In my personal experience, I have never seen such a decorative course delivery method and learning resources like Mock-up tests and assessments, Skill Challenge Test are just mind-blowing. I also like their Q&amp;A Session to help with my all the query. I will definitely recommend this training program to my friends and colleague and all the working professionals if they want to learn practical knowledge they should join courses at Dot Net Tricks.</p>
+                        </div>
+                        <br>
+                        <div class="user_detail" style="text-align:center;clear:both">
+                            <div class="user_img">
+                                    <div class="imgtest">
+                                        <img src="https://www.dotnettricks.com/uploads/testimonialImages/720180208084000.jpg" class="img-circle" style="width:100px;height:100px;position: relative"><br>
+                                            <a href="https://www.linkedin.com/in/anand-gupta-789ab515/" target="_blank" rel="nofollow" style="float:none">
+                                                <img src="/images/linkedincircle.png" style="width: 40px;position: absolute;margin-top: -20px;margin-left: -7px;">
+                                            </a>
+                                    </div>
+                            </div>
+                            <div class="user_info" style="clear:both;padding-top: 22px;">
+                                <span class="name">Anand Gupta </span>
+                                <br>
+                                <span class="name">(Sr. Software Engineer  at Motherson sumi infotech design limited)</span><br>
+                                <span class="job">
+                                    Mastering ASP.NET Core with Angular 
+                                </span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  reviews_tile">
+                        <i class="icon-Home-page-customer-review-icon-1"></i>
+
+                        <div class="user_review">
+                            <p class="text-justify show">One of the best Learning platform to learn about latest technologies. I found it in the google search while i am searching for the training of ASP.Net Core, after talking to their training counselor I choose the ASP.Net Core with Angular Master Program, No one can compete to the course content and their delivery methods. also, gave me Job assistance it been six months to complete my training but I am still in touch with the Technical Support team when I need help in my project, Thanks, Dot Net tricks to helping me in my career path.</p>
+                        </div>
+                        <br>
+                        <div class="user_detail" style="text-align:center;clear:both">
+                            <div class="user_img">
+                                    <div class="imgtest">
+                                        <img src="https://www.dotnettricks.com/uploads/testimonialImages/720180208101943.jpg" class="img-circle" style="width:100px;height:100px;position: relative"><br>
+                                            <a href="https://www.linkedin.com/in/nitin-kumar-532880123/" target="_blank" rel="nofollow" style="float:none">
+                                                <img src="/images/linkedincircle.png" style="width: 40px;position: absolute;margin-top: -20px;margin-left: -7px;">
+                                            </a>
+                                    </div>
+                            </div>
+                            <div class="user_info" style="clear:both;padding-top: 22px;">
+                                <span class="name">Nitin Kumar </span>
+                                <br>
+                                <span class="name">(Software Developer)</span><br>
+                                <span class="job">
+                                    Mastering ASP.NET Core with Angular 
+                                </span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  reviews_tile">
+                        <i class="icon-Home-page-customer-review-icon-1"></i>
+
+                        <div class="user_review">
+                            <p class="text-justify show">As a full stack developer, I like Load Balancing, NoSQL, VPN, Real-time Dashboard for monitoring, Web apps, Multiple programming language support,  etc. so I started my Azure Training with DotNetTricks and then it became very easy to me for creating VM for Azure it's really easy and time-saving. I will definitely Recommendations to others considering the course. Azure is much user-friendly compared to AWS, and its dashboard is really helpful, UI is very simple and very less easy setup. It's very easy for beginners to start with Azure. You can use their inbuilt web apps to quickly deploy your app to production. You won't regret choosing azure, Just give a try. Thanks, DOTNetTricks for such a Training.</p>
+                        </div>
+                        <br>
+                        <div class="user_detail" style="text-align:center;clear:both">
+                            <div class="user_img">
+                                    <div class="imgtest">
+                                        <img src="https://www.dotnettricks.com/uploads/testimonialImages/720180228053928.jpg" class="img-circle" style="width:100px;height:100px;position: relative"><br>
+                                            <a href="https://www.linkedin.com/in/mahender-singh-51794a36/" target="_blank" rel="nofollow" style="float:none">
+                                                <img src="/images/linkedincircle.png" style="width: 40px;position: absolute;margin-top: -20px;margin-left: -7px;">
+                                            </a>
+                                    </div>
+                            </div>
+                            <div class="user_info" style="clear:both;padding-top: 22px;">
+                                <span class="name">Mahender Singh </span>
+                                <br>
+                                <span class="name">(Senior Software Developer )</span><br>
+                                <span class="job">
+                                    Mastering Microsoft Azure
+                                </span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  reviews_tile">
+                        <i class="icon-Home-page-customer-review-icon-1"></i>
+
+                        <div class="user_review">
+                            <p class="text-justify show">Microsoft have gone out of their way to simplify the process of creating and managing cloud assets in Azure. They do not push you down one particular way of doing things either; they let you do it your way. If you want to create or manage resources through the portal, the .NET API, PowerShell, REST, etc. it is up to you. If you are a Microsoft shop already, this will be a pretty easy transition. There are lot's of tools to integrate with your internal servers if you need to and the help is pretty good for technical things.   I will definitely Recommendations to others If you can afford it, it's definitely my recommendation. Azure portal is great place to manage everything, all in one place. Service is reliable, fast and easy to learn. Thanks DotNetTricks.</p>
+                        </div>
+                        <br>
+                        <div class="user_detail" style="text-align:center;clear:both">
+                            <div class="user_img">
+                                    <div class="imgtest">
+                                        <img src="https://www.dotnettricks.com/uploads/testimonialImages/720180228054942.jpg" class="img-circle" style="width:100px;height:100px;position: relative"><br>
+                                            <a href="https://www.linkedin.com/in/ravindra-pratap-14aa2923/" target="_blank" rel="nofollow" style="float:none">
+                                                <img src="/images/linkedincircle.png" style="width: 40px;position: absolute;margin-top: -20px;margin-left: -7px;">
+                                            </a>
+                                    </div>
+                            </div>
+                            <div class="user_info" style="clear:both;padding-top: 22px;">
+                                <span class="name">Ravindra Pratap </span>
+                                <br>
+                                <span class="name">(Senior Software Engineer )</span><br>
+                                <span class="job">
+                                    Mastering Microsoft Azure
+                                </span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  reviews_tile">
+                        <i class="icon-Home-page-customer-review-icon-1"></i>
+
+                        <div class="user_review">
+                            <p class="text-justify show">Great course to learn how to develop Web Application with ASP.NET Core and Angular 5. I enjoyed the course until the end. Lot's of areas been covered in .Net core.The course contents are up-to-date and the instructor also gives a lot of useful suggestions on how to design and refactor the code.The trainer are friendly and knowledgeable. Course timing are flexible which was really helpful for me. DotNetTricks is truly an amazing place to learn. I will definitely recommend this training program to my friend and colleague. Thanks DotNetTricks! </p>
+                        </div>
+                        <br>
+                        <div class="user_detail" style="text-align:center;clear:both">
+                            <div class="user_img">
+                                    <div class="imgtest">
+                                        <img src="https://www.dotnettricks.com/uploads/testimonialImages/1020180311062610.jpg" class="img-circle" style="width:100px;height:100px;position: relative"><br>
+                                            <a href="https://www.linkedin.com/in/binojkumarg/detail/photo/" target="_blank" rel="nofollow" style="float:none">
+                                                <img src="/images/linkedincircle.png" style="width: 40px;position: absolute;margin-top: -20px;margin-left: -7px;">
+                                            </a>
+                                    </div>
+                            </div>
+                            <div class="user_info" style="clear:both;padding-top: 22px;">
+                                <span class="name">Binoj Kumar  </span>
+                                <br>
+                                <span class="name">(Technical Consultant  )</span><br>
+                                <span class="job">
+                                    Mastering ASP.NET Core with Angular 
+                                </span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  reviews_tile">
+                        <i class="icon-Home-page-customer-review-icon-1"></i>
+
+                        <div class="user_review">
+                            <p class="text-justify show">I have completed my Asp.Net Core with Angular Master Program with DotNetTricks. This course has very depth learning and the course content delivery method is amazing. Best part of this training is the trainer he is Expert in his field and the Q&amp;A session is awesome you can ask as many question you have. I would definitely recommend you Join the DotNetTricks start with the demo session you will understand what kind of knowledge you are getting without any Fee. Keep it up DotNetTricks!!</p>
+                        </div>
+                        <br>
+                        <div class="user_detail" style="text-align:center;clear:both">
+                            <div class="user_img">
+                                    <div class="imgtest">
+                                        <img src="https://www.dotnettricks.com/uploads/testimonialImages/1220180317093324.jpg" class="img-circle" style="width:100px;height:100px;position: relative"><br>
+                                            <a href="https://www.linkedin.com/in/amro-elkhider-3006a515b/" target="_blank" rel="nofollow" style="float:none">
+                                                <img src="/images/linkedincircle.png" style="width: 40px;position: absolute;margin-top: -20px;margin-left: -7px;">
+                                            </a>
+                                    </div>
+                            </div>
+                            <div class="user_info" style="clear:both;padding-top: 22px;">
+                                <span class="name">Amro Elkhider </span>
+                                <br>
+                                <span class="name">(Dot Net Developer )</span><br>
+                                <span class="job">
+                                    Mastering ASP.NET Core with Angular 
+                                </span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  reviews_tile">
+                        <i class="icon-Home-page-customer-review-icon-1"></i>
+
+                        <div class="user_review">
+                            <p class="text-justify show">I have completed my AWS Solutions Architect Associate Training from DotNetTricks and just loved it. The trainer was Subject Matter expert who was not only very much updated with recent trends in AWS but also himself worked in industry as a Solution Architect for AWS Cloud. They have very good study material which is adequate enough to make your concepts clear about AWS Cloud and also assist you in a big manner to get your AWS Solution Architect Associate Certification. Especially hands-on training makes you feel that you actually providing a real-time solution to a business. DotNetTricks also has an excellent support team who are available 24 x 7 to help us in case of any issue related to course material, learning management system, job opportunities etc. The Certification has helped me to boost my career goal. Thanks, DotNetTricks!</p>
+                        </div>
+                        <br>
+                        <div class="user_detail" style="text-align:center;clear:both">
+                            <div class="user_img">
+                                    <div class="imgtest">
+                                        <img src="https://www.dotnettricks.com/uploads/testimonialImages/820180407092757.jpg" class="img-circle" style="width:100px;height:100px;position: relative"><br>
+                                            <a href="https://www.linkedin.com/in/basantmailbox/" target="_blank" rel="nofollow" style="float:none">
+                                                <img src="/images/linkedincircle.png" style="width: 40px;position: absolute;margin-top: -20px;margin-left: -7px;">
+                                            </a>
+                                    </div>
+                            </div>
+                            <div class="user_info" style="clear:both;padding-top: 22px;">
+                                <span class="name">Basant Badwal </span>
+                                <br>
+                                <span class="name">(Software Developer)</span><br>
+                                <span class="job">
+                                    Mastering Amazon Web Services (AWS)
+                                </span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  reviews_tile">
+                        <i class="icon-Home-page-customer-review-icon-1"></i>
+
+                        <div class="user_review">
+                            <p class="text-justify show">It's a great learning with DotNetTricks. I am very happy to share my feedback after completing my Amazon Web Services Master Program, This training program is such a wonderful opportunity to boost your career, it open doors to a new career path for those with no resources to change their circumstances. What they promise in their course content they deliver, Instructor was very helpful in explaining the concepts and also have the Hands-on practice of the project. The Course Delivery is amazing even for a beginner to start the career with Amazon Web Services (AWS). I am extremely happy DotNetTricks Training Program. In My, Recommendation just joins the Demo and you can see yourself,  its Free Thank you DotNetTricks Team for helping me with my career path.</p>
+                        </div>
+                        <br>
+                        <div class="user_detail" style="text-align:center;clear:both">
+                            <div class="user_img">
+                                    <div class="imgtest">
+                                        <img src="https://www.dotnettricks.com/uploads/testimonialImages/820180412053608.jpg" class="img-circle" style="width:100px;height:100px;position: relative"><br>
+                                            <a href="https://www.linkedin.com/in/pankaj-kumar-4b578485/detail/photo/" target="_blank" rel="nofollow" style="float:none">
+                                                <img src="/images/linkedincircle.png" style="width: 40px;position: absolute;margin-top: -20px;margin-left: -7px;">
+                                            </a>
+                                    </div>
+                            </div>
+                            <div class="user_info" style="clear:both;padding-top: 22px;">
+                                <span class="name">Pankaj Kumar </span>
+                                <br>
+                                <span class="name">(Software Developer)</span><br>
+                                <span class="job">
+                                    Mastering Amazon Web Services (AWS)
+                                </span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  reviews_tile">
+                        <i class="icon-Home-page-customer-review-icon-1"></i>
+
+                        <div class="user_review">
+                            <p class="text-justify show">The Asp.Net Core with Angular Development course at Dot Net Tricks was very good. The Trainers are well experienced had a good hands on knowledge about the subject. They answer all the questions asked and sort out the doubts. The support team is also very active. In case of any issue they solve it as soon as possible. Thanks Dot Net Tricks!</p>
+                        </div>
+                        <br>
+                        <div class="user_detail" style="text-align:center;clear:both">
+                            <div class="user_img">
+                                    <div class="imgtest">
+                                        <img src="https://www.dotnettricks.com/uploads/testimonialImages/720180425115922.jpg" class="img-circle" style="width:100px;height:100px;position: relative"><br>
+                                            <a href="https://www.linkedin.com/in/go2mahesh/" target="_blank" rel="nofollow" style="float:none">
+                                                <img src="/images/linkedincircle.png" style="width: 40px;position: absolute;margin-top: -20px;margin-left: -7px;">
+                                            </a>
+                                    </div>
+                            </div>
+                            <div class="user_info" style="clear:both;padding-top: 22px;">
+                                <span class="name">Mahesh Shivaswamy </span>
+                                <br>
+                                <span class="name">(Senior Programmer Analyst California)</span><br>
+                                <span class="job">
+                                    Mastering ASP.NET Core with Angular 
+                                </span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+        <div class="MS-controls">
+            <button class="MS-left"><i class="fa fa-angle-left" aria-hidden="true"></i></button>
+            <button class="MS-right"><i class="fa fa-angle-right" aria-hidden="true"></i></button>
+        </div>
+    </div>
+</div>
+<br>
+<script>
+    $(function () {
+        var showTotalChar = 250, showChar = "Show (+)", hideChar = "Hide (-)";
+        $('.show').each(function () {
+            var content = $(this).text();
+            // alert(content.length)
+            if (content.length > showTotalChar) {
+                var con = content.substr(0, showTotalChar);
+                var hcon = content.substr(showTotalChar, content.length - showTotalChar);
+                var txt = con + '<span class="dots">...</span><span class="morectnt"><span>' + hcon + '</span>&nbsp;&nbsp;<a href="" class="showmoretxt">' + showChar + '</a></span>';
+                $(this).html(txt);
+            }
+        });
+        $(".showmoretxt").click(function () {
+            if ($(this).hasClass("sample")) {
+                $(this).removeClass("sample");
+                $(this).text(showChar);
+            } else {
+                $(this).addClass("sample");
+                $(this).text(hideChar);
+            }
+            $(this).parent().prev().toggle();
+            $(this).prev().toggle();
+            return false;
+        });
+    });
+
+    $('#mixedSlider').multislider({
+        duration: 500,
+        interval:0
+    });
+</script>
+
+
+
 
 
                             </div>
@@ -1170,6 +1936,7 @@ toggle between hiding and showing the dropdown content */
                 </div>
             </div><!--/.container-->
         </div>
+
     <footer id="footer">
     <div id="footer-Course" class="footer-list">
         <div class="container wow fadeInDown">
@@ -1181,11 +1948,11 @@ toggle between hiding and showing the dropdown content */
                             </div>
                         </div>
                         <div class="col-md-12" style="color:#9d9d9d">
-                            <img src="/images/dntlogo-white.png">
-                            <div style="font-size: 14px;color: #ff8c00;font-family:Helvetica Neue,Helvetica,sans-serif;font-weight:600;padding-bottom: 6px;">
-                                Become An Expert &amp; Boost Your Career
+                            <img src="/images/dntlogo-white.png" style="width:200px">
+                            <div style="font-size: 16px;color: #ff8c00;font-family:Helvetica Neue,Helvetica,sans-serif;font-weight:600;padding-bottom: 6px;padding-left: 4px;">
+                                Learn. Build. Empower.
                             </div>
-                            <div style="text-align:justify"> We are internationally recognized for providing hands-on real-time project development training. Our aim is to make you, ONE STEP AHEAD, leading the crowd not following it.</div>
+                            <div style="text-align:justify"> We are internationally recognized for providing hands-on real-time project-based training. Our aim is to make you, ONE STEP AHEAD, leading the crowd not following it.</div>
                         </div>
                     </div>
                 </div>
@@ -1193,18 +1960,18 @@ toggle between hiding and showing the dropdown content */
                     <div class="row">
                         <div class="col-md-12">
                             <div class="widget-heading">
-                                <h3>Company</h3>
+                                <h3>Learn</h3>
                                 <span></span>
                             </div>
                         </div>
                         <div class="col-md-12 col-sm-12">
                             <div class="widget">
                                 <ul>
+                                    <li><a href="/events/upcoming-events">Upcoming Events</a></li>
+                                    <li><a href="/free-ebooks">Free eBooks</a></li>
+                                    <li><a href="/skill-challenge">Skill Challenge</a></li>
+                                    <li> <a href="/reviews">Professional Reviews</a></li>
                                     <li> <a href="/corporate-training">Corporate Training</a></li>
-                                    <li> <a href="/Home/Testimonials">Professional Speaks</a></li>
-                                    <li><a href="/terms-and-conditions">Terms and Conditions</a></li>
-                                    <li><a href="/privacy-policy">Privacy Policy</a></li>
-                                    <li><a href="/refund-policy">Refund Policy</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1221,11 +1988,11 @@ toggle between hiding and showing the dropdown content */
                         <div class="col-md-12 col-sm-12">
                             <div class="widget">
                                 <ul>
-                                    <li><a href="/become-a-mentor">Become a Mentor</a></li>
-                                    <li><a href="/refer-and-earn">Refer And Earn</a></li>
                                     <li><a href="/contact-us">Contact Us</a></li>
                                     <li><a href="/scholarship-for-students">Student Scholarship</a></li>
-                                    <li><a href="/jobs">Jobs</a></li>
+                                    <li><a href="/become-a-mentor">Become a Mentor</a></li>
+                                    <li><a href="/refer-and-earn">Refer And Earn</a></li>
+                                    <li><a href="/jobs">Current Job Openings</a></li>
                                 </ul>
                             </div>
                         </div><!--/.col-md-3-->
@@ -1235,17 +2002,18 @@ toggle between hiding and showing the dropdown content */
                     <div class="row">
                         <div class="col-md-12">
                             <div class="widget-heading">
-                                <h3>About Us</h3>
+                                <h3>About</h3>
                                 <span></span>
                             </div>
                         </div>
                         <div class="col-md-12 col-sm-12">
                             <div class="widget">
                                 <ul>
-                                    <li><a href="/about-us">About Dot Net Tricks</a></li>
-                                    <li><a href="/about-shailendra-chauhan">About Founder</a></li>
-                                    <li><a href="/events/upcoming-events">Upcoming Events</a></li>
-                                    <li><a href="/free-ebooks">Download Free eBooks</a></li>
+                                    <li><a href="/about-us">Dot Net Tricks</a></li>
+                                    <li><a href="/about-shailendra-chauhan">Founder</a></li>
+                                    <li><a href="/terms-and-conditions">Terms and Conditions</a></li>
+                                    <li><a href="/privacy-policy">Privacy Policy</a></li>
+                                    <li><a href="/refund-policy">Refund Policy</a></li>
                                 </ul>
                             </div>
                         </div><!--/.col-md-3-->
@@ -1297,7 +2065,7 @@ toggle between hiding and showing the dropdown content */
                             <a href="https://www.google.co.in/maps/place/DOT+NET+TRICKS/@28.585458,77.314262,15z/data=!4m2!3m1!1s0x0:0x5e02676d0b3f5af5?sa=X&amp;ved=0ahUKEwiWib2Sjt3JAhXRHo4KHahkD9cQ_BIIajAN" target="_blank">
                                 <img src="/Images/dotnettricks-on-google-maps.png" style="border:none;margin-top: -14px;">
                             </a><span style="color: #9D9D9D;float: left;padding: 0;margin: -8px 5px 0 60px; font-size:13px">
-                                C 57, Sector 2 Noida - 201301
+                                D 26, Sector 2 Noida - 201301
                             </span>
                         </p>
                     </div>
@@ -1312,7 +2080,7 @@ toggle between hiding and showing the dropdown content */
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12 ">
-                <p>Copyright © 2017 Dot Net Tricks Innovation Pvt. Ltd. All Rights Reserved.</p>
+                <p>© 2018 Dot Net Tricks Innovation Pvt. Ltd. All Rights Reserved.</p>
             </div>
             <div class="pull-left col-lg-6 col-md-6 col-sm-12 ">
                 <p>The course names and logos are the trademarks of their respective owners.</p>
@@ -1408,7 +2176,7 @@ toggle between hiding and showing the dropdown content */
         <!-- Icon -->
         <div class="ui-icon bg-info">
             <!-- session -->
-            <a href="#quick_query" data-target="#quick_query" class="ui-tooltip" data-toggle="modal" data-placement="right" title="Request a Session44"><i class="fa fa-paper-plane-o"></i></a>
+            <a href="#quick_query" data-target="#quick_query" class="ui-tooltip" data-toggle="modal" data-placement="right" title="Drop a Query"><i class="fa fa-paper-plane-o"></i></a>
         </div>
         <!-- Icon -->
         <!-- Button -->
@@ -1419,51 +2187,44 @@ toggle between hiding and showing the dropdown content */
  <div class="panel panel-blue" style="border: 0px !important;">
     <div class="panel-heading">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-        <h4 class="panel-title" style="text-align:center; display:block">REQUEST A DEMO SESSION</h4>
+        <h4 class="panel-title" style="text-align:center; display:block">DROP A QUERY</h4>
     </div>
     <div class="modal-body">
         <div class="row">
             <input data-val="true" data-val-length="The field Subject must be a string with a maximum length of 50." data-val-length-max="50" data-val-required="Please enter subject" id="QSubject" name="QSubject" type="hidden" value="Training - Home Page">
-            <div class="col-md-12">
-                <div class="input-group field">
-                    <span class="input-group-addon"><i class="fa fa-television"></i></span>
-                    <select class="form-control  placeholder" data-val="true" data-val-number="The field Training Mode must be a number." data-val-required="Please select training mode" id="QTrainingModeId" name="QTrainingModeId"><option value="">Training Mode*</option>
-<option value="3">Instructor-led Online Training</option>
-<option value="2">Classroom Training</option>
-</select>
-                    <span class="field-validation-valid text-danger" data-valmsg-for="QTrainingModeId" data-valmsg-replace="true"></span>
-                </div>
-            </div>
+            
             <div class="col-md-12">
                 <div class="input-group field">
                     <span class="input-group-addon">
                         <i class="fa fa-book"></i>
                     </span>
                     <select class="form-control  placeholder" data-val="true" data-val-number="The field Course must be a number." data-val-required="Please select course" id="QCourseId" name="QCourseId"><option value="">Course Name*</option>
-<option value="30">DevOps Training Program </option>
-<option value="1">ASP.NET MVC with Angular4 Development</option>
-<option value="4">MEAN Stack Development</option>
-<option value="5">Angular2+4 with Firebase Development</option>
-<option value="16">ASP.NET Core with Angular4 Development</option>
-<option value="9">NodeJS with Angular4 Development</option>
-<option value="10">ASP.NET MVC Development</option>
-<option value="11">Xamarin Forms : Build Cross-platform Apps</option>
-<option value="28">ASP.NET Core Development</option>
-<option value="29">NodeJS Development</option>
-<option value="3">Ionic : Build Hybrid Mobile Apps</option>
-<option value="8">Android Apps Development</option>
-<option value="22">React with Redux Development </option>
-<option value="17">PPC Marketing Training</option>
-<option value="19">Google Adwords® Certification Training</option>
-<option value="21">Developing Microsoft Azure Solutions</option>
-<option value="2">Big Data Hadoop Developer</option>
-<option value="7">.NET Development</option>
-<option value="14">Java Development</option>
-<option value="23">JavaScript Fundamentals</option>
-<option value="24">TypeScript Fundamentals</option>
-<option value="25">Python with Machine Learning</option>
-<option value="26">AWS Solutions Architect Associate</option>
-<option value="27">Microsoft Azure Infrastructure Solutions</option>
+<option value="34">The Complete Angular with WebAPI </option>
+<option value="38">Project - ASP.NET MVC with Angular</option>
+<option value="41">Project - ASP.NET Core with Angular</option>
+<option value="56">The Complete ASP.NET Core</option>
+<option value="64">The Complete Xamarin Forms</option>
+<option value="68">Angular2 to 6 Skill Bootcamp</option>
+<option value="37">Mastering ASP.NET MVC with Angular </option>
+<option value="70">AWS Skill Bootcamp</option>
+<option value="39">Mastering Angular 2 to 6</option>
+<option value="35">The Complete ASP.NET MVC</option>
+<option value="36">The Complete Entity Framework</option>
+<option value="43">Mastering ASP.NET Core with Angular </option>
+<option value="73">ASP.NET MVC Skill Bootcamp</option>
+<option value="74">Mastering React with Redux</option>
+<option value="72">React Skill Bootcamp</option>
+<option value="71">Node Skill Bootcamp</option>
+<option value="45">Mastering Microsoft Azure</option>
+<option value="44">Mastering Amazon Web Services (AWS)</option>
+<option value="69">Mastering Vue</option>
+<option value="58">Mastering MEAN Stack</option>
+<option value="32">C# Essentials</option>
+<option value="51">The Complete Angular with Express</option>
+<option value="23">JavaScript Essentials</option>
+<option value="24">TypeScript Essentials</option>
+<option value="31">LINQ Essentials</option>
+<option value="33">ASP.NET MVC Unit Testing</option>
 </select>
                     <span class="field-validation-valid text-danger" data-valmsg-for="QCourseId" data-valmsg-replace="true"></span>
 
@@ -1519,9 +2280,6 @@ toggle between hiding and showing the dropdown content */
     </div>
 </div>
 
-
-
-
 <script type="text/javascript">
     $('#btnwaitq').hide();
     $('#btndownq').show();
@@ -1536,15 +2294,15 @@ toggle between hiding and showing the dropdown content */
                 $("#QCourseId").removeClass("input-validation-error");
             }
         });
-        $("#QTrainingModeId").change(function (e) {
-            if ($.trim($("#QTrainingModeId").val()) == "") {
-                $("#QTrainingModeId").addClass("input-validation-error");
-                flag = false;
-            }
-            else {
-                $("#QTrainingModeId").removeClass("input-validation-error");
-            }
-        });
+        //$("#QTrainingModeId").change(function (e) {
+        //    if ($.trim($("#QTrainingModeId").val()) == "") {
+        //        $("#QTrainingModeId").addClass("input-validation-error");
+        //        flag = false;
+        //    }
+        //    else {
+        //        $("#QTrainingModeId").removeClass("input-validation-error");
+        //    }
+        //});
         $("#QName").keypress(function (e) {
             if ($.trim($("#QName").val()) == "") {
 
@@ -1633,13 +2391,13 @@ toggle between hiding and showing the dropdown content */
             $("#QCourseId").removeClass("input-validation-error");
         }
 
-        if ($.trim($("#QTrainingModeId").val()) == "") {
-            $("#QTrainingModeId").addClass("input-validation-error");
-            flag = false;
-        }
-        else {
-            $("#QTrainingModeId").removeClass("input-validation-error");
-        }
+        //if ($.trim($("#QTrainingModeId").val()) == "") {
+        //    $("#QTrainingModeId").addClass("input-validation-error");
+        //    flag = false;
+        //}
+        //else {
+        //    $("#QTrainingModeId").removeClass("input-validation-error");
+        //}
 
         if ($.trim($("#QName").val()) == "") {
 
@@ -1719,7 +2477,7 @@ toggle between hiding and showing the dropdown content */
             //$('.modal').modal('hide');
             var obj = {
                 QCourseId: $("#QCourseId").val(),
-                QTrainingModeId: $("#QTrainingModeId").val(),
+                QTrainingModeId: 3,
                 QName: $("#QName").val(),
                 QEmailID: $("#QEmailID").val(),
                 QContactNo: $("#QContactNo").val(),
@@ -1814,30 +2572,32 @@ toggle between hiding and showing the dropdown content */
         </div>
         <div class="form-group">
             <select class="form-control  placeholder" data-val="true" data-val-number="The field CourseId1 must be a number." data-val-required="Please select course" id="CourseId1" name="CourseId1"><option value="">Course Name*</option>
-<option value="30">DevOps Training Program </option>
-<option value="1">ASP.NET MVC with Angular4 Development</option>
-<option value="4">MEAN Stack Development</option>
-<option value="5">Angular2+4 with Firebase Development</option>
-<option value="16">ASP.NET Core with Angular4 Development</option>
-<option value="9">NodeJS with Angular4 Development</option>
-<option value="10">ASP.NET MVC Development</option>
-<option value="11">Xamarin Forms : Build Cross-platform Apps</option>
-<option value="28">ASP.NET Core Development</option>
-<option value="29">NodeJS Development</option>
-<option value="3">Ionic : Build Hybrid Mobile Apps</option>
-<option value="8">Android Apps Development</option>
-<option value="22">React with Redux Development </option>
-<option value="17">PPC Marketing Training</option>
-<option value="19">Google Adwords® Certification Training</option>
-<option value="21">Developing Microsoft Azure Solutions</option>
-<option value="2">Big Data Hadoop Developer</option>
-<option value="7">.NET Development</option>
-<option value="14">Java Development</option>
-<option value="23">JavaScript Fundamentals</option>
-<option value="24">TypeScript Fundamentals</option>
-<option value="25">Python with Machine Learning</option>
-<option value="26">AWS Solutions Architect Associate</option>
-<option value="27">Microsoft Azure Infrastructure Solutions</option>
+<option value="34">The Complete Angular with WebAPI </option>
+<option value="38">Project - ASP.NET MVC with Angular</option>
+<option value="41">Project - ASP.NET Core with Angular</option>
+<option value="56">The Complete ASP.NET Core</option>
+<option value="64">The Complete Xamarin Forms</option>
+<option value="68">Angular2 to 6 Skill Bootcamp</option>
+<option value="37">Mastering ASP.NET MVC with Angular </option>
+<option value="70">AWS Skill Bootcamp</option>
+<option value="39">Mastering Angular 2 to 6</option>
+<option value="35">The Complete ASP.NET MVC</option>
+<option value="36">The Complete Entity Framework</option>
+<option value="43">Mastering ASP.NET Core with Angular </option>
+<option value="73">ASP.NET MVC Skill Bootcamp</option>
+<option value="74">Mastering React with Redux</option>
+<option value="72">React Skill Bootcamp</option>
+<option value="71">Node Skill Bootcamp</option>
+<option value="45">Mastering Microsoft Azure</option>
+<option value="44">Mastering Amazon Web Services (AWS)</option>
+<option value="69">Mastering Vue</option>
+<option value="58">Mastering MEAN Stack</option>
+<option value="32">C# Essentials</option>
+<option value="51">The Complete Angular with Express</option>
+<option value="23">JavaScript Essentials</option>
+<option value="24">TypeScript Essentials</option>
+<option value="31">LINQ Essentials</option>
+<option value="33">ASP.NET MVC Unit Testing</option>
 </select>
             <span class="field-validation-valid text-danger" data-valmsg-for="CourseId1" data-valmsg-replace="true"></span>
         </div>
@@ -2199,7 +2959,7 @@ toggle between hiding and showing the dropdown content */
     <!-- Icon -->
     <div class="ui-icon btn-info">
         <!-- query -->
-        <a href="#quick_query" class="ui-tooltip" data-toggle="modal" data-target="#quick_query" data-placement="right" title="Request a Session"><i class="fa fa-paper-plane-o"></i></a>
+        <a href="#quick_query" class="ui-tooltip" data-toggle="modal" data-target="#quick_query" data-placement="right" title="Drop a Query"><i class="fa fa-paper-plane-o"></i></a>
     </div>
     <!-- Icon -->
     <!-- Button -->
@@ -2212,27 +2972,24 @@ toggle between hiding and showing the dropdown content */
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <div class="quick-query pull-left">
-                        <a data-toggle="modal" href="#quick_query" data-target="#quick_query"><i class="fa fa-paper-plane-o"></i><span>Request a Session</span></a>
+                        <a data-toggle="modal" href="#quick_query" data-target="#quick_query"><i class="fa fa-paper-plane-o"></i><span> Drop a Query</span></a>
                     </div>
                     <div class="call-back-bt fix-btn">
-                        
-
                         <a data-toggle="modal" href="#get_call" data-target="#get_call"> <i class="fa fa-reply"></i> Request a Callback </a>
                     </div>
                     <div class="fix-btn pull-left">
-                        <a href="tel:+911133034100"><i class="fa fa-phone" style="font-size: 26px"></i><span>+91 11 330 34100</span></a>
+                        <a href="tel:+911133034100"><i class="fa fa-phone" style="font-size: 26px"></i><span> +91 11 330 34100</span></a>
                     </div>
-
                     <div class="email-fx call-back-bt pull-left">
                         <div class="news-latest-form collapse" id="newslat">
                             <div class="news-form-field text-left">
                                 <button type="button" onclick="$('.news-latest-form').removeClass('in');" class="close" data-dismiss="collapse" aria-label="Close"><span aria-hidden="false">×</span></button>
                                 <span class="ttl">LATEST NEWS</span>
                             </div>
-<form action="/" method="post" novalidate="novalidate">    <div class="latnews-btn" style="max-height:400px;overflow:auto;">
+<form action="/learn/designpatterns/understanding-mvc-mvp-and-mvvm-design-patterns" method="post" novalidate="novalidate">    <div class="latnews-btn" style="max-height:400px;overflow:auto;">
 
 <div class="item active">
-                    <a href="http://www.dotnettricks.com/events/Seminar/a6G7301017-angular-with-firebase-development" target="_blank" style="color:#0099ff;"> <i class="fa fa-bullhorn"></i> Angular with Firebase Development (Seminar) on Sat 11 Nov, 2017 at 11:00 AM</a>
+                    <a href="https://www.youtube.com/dotnettricks" target="_blank" style="color:#0099ff;"> <i class="fa fa-bullhorn"></i> Join Dot Net Tricks YouTube channel to stay updated with latest technology trends !!</a>
                 </div>     </div>
 </form>
 
@@ -2242,7 +2999,7 @@ toggle between hiding and showing the dropdown content */
                         </span></a>
                     </div>
                     <div class="news-btn">
-                        <a href="/batch-details" class="noti" data-badge="10"><span><i class="fa fa-calendar" aria-hidden="true"></i></span> Upcoming Batches</a>
+                        <a href="/batch-details" class="noti" data-badge="6"><span><i class="fa fa-calendar" aria-hidden="true"></i></span> Upcoming Batches</a>
                     </div>
                 </div>
             </div>
@@ -2251,7 +3008,6 @@ toggle between hiding and showing the dropdown content */
 </div>
 <span id="top-link-block" class="hidden">
     <a href="#top" onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
-        
         <img src="/images/topscroll.png">
     </a>
 </span>
@@ -2260,6 +3016,7 @@ toggle between hiding and showing the dropdown content */
     .noti {
         position: relative;
     }
+
         .noti[data-badge]:after {
             content: attr(data-badge);
             position: absolute;
@@ -2305,7 +3062,6 @@ toggle between hiding and showing the dropdown content */
         }
     });
 </script>
-    
     <div id="alertModel" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -2329,10 +3085,10 @@ toggle between hiding and showing the dropdown content */
     
 <script id="contact.html" type="text/ng-template">
     <div class="select_wraper dr_cun" style="width:100%">
-        <select name="countrySelect" ng-model="countryData.repeatSelect" class="sel_cr monospace_class" style="width:14%">
+        <select name="countrySelect" ng-model="countryData.repeatSelect" class="sel_cr monospace_class" style="width:19%">
             <option ng-repeat="option in countryData.availableOptions" value="{{::option.CountryValue}}" ng-disabled="option.CountryValue=='disabled'">{{::option.CountryCode}}</option>
         </select>
-        <div class="placeholder_wrap ie_class" style="width:86%">
+        <div class="placeholder_wrap ie_class" style="width:81%">
             <span class="country_code_span">
                 {{countryData.repeatSelect}}
                 <input type="hidden" value="{{countryData.repeatSelect}}" name="code" id="code" />
@@ -2603,70 +3359,41 @@ toggle between hiding and showing the dropdown content */
         margin: 0 auto;
     }
 </style>
+
     <!-- Widgets and livechat -->
     <script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatinline.aspx?hccid=38373981"></script>
 
-    <!--Start of Zendesk Chat Script-->
-    
-    <!--End of Zendesk Chat Script-->
+    <script type="text/javascript" defer="defer">        
+        //ad settings
+        $(document).ready(function () {
+            if ($("#side-categories").length) {
+                // alert("y")
+                var sticky_Ad = $("#side-categories").offset().top;
+                $(window).scroll(function () {
+                    var screen_width = $(window).width();
+                    if (screen_width > 720) {
+                        var scr_top = $(window).scrollTop();
+                        var stop_div = $("#footer").offset().top - 600; //minus height for footer
 
-
-    <script type="text/javascript" defer="defer">
-        //google analytics
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date(); a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-        ga('create', 'UA-29156530-2', 'auto');
-        ga('send', 'pageview');
-    
-           //ad settings
-           $(document).ready(function () {
-               
-               //var sticky_Ad = $("#sidebar-adwrapper").offset().top;
-
-               //// var sideartcle = $('#sideartcle').offset().top;
-               //$(window).scroll(function () {
-               //    var screen_width = $(window).width();
-               //    if (screen_width > 720) {
-               //        var scr_top = $(window).scrollTop();
-               //        var stop_div = $("#footer").offset().top - 1000; //minus height for footer
-
-               //        if (scr_top > sticky_Ad && scr_top < stop_div) {
-               //            $("#sidebar-adwrapper").removeClass("sidebar-ads");
-               //            $("#sidebar-adwrapper").addClass("fixedsidebar-ads").addClass("col-sm-2").addClass("col-lg-2");
-               //        }
-               //        else {
-               //            $("#sidebar-adwrapper").removeClass("fixedsidebar-ads").removeClass("col-sm-2").removeClass("col-lg-2");
-               //            $("#sidebar-adwrapper").addClass("sidebar-ads")
-
-               //        }
-
-               //    }
-               //});
-             
-               setTimeout(function () {
-                   /*$("#testdiv").fadeOut(1500);*/
-                   $("#alertModelAds").modal({
-                       backdrop: 'static',
-                       keyboard: false
-                   });
-                  
-               }, 30000)
-           });
-
-          
+                        if (scr_top > sticky_Ad && scr_top < stop_div) {
+                            $("#side-categories").removeClass("sidebar-ads");
+                            $("#side-categories").addClass("fixedsidebar-ads").addClass("col-sm-2").addClass("col-lg-2");
+                        }
+                        else {
+                            $("#side-categories").removeClass("fixedsidebar-ads").removeClass("col-sm-2").removeClass("col-lg-2");
+                            $("#side-categories").addClass("sidebar-ads")
+                        }
+                    }
+                });
+            }
+            setTimeout(function () {
+                $("#alertModelAds").modal({
+                    backdrop: 'static',
+                    keyboard: false
+                });
+            }, 20000)
+        });
     </script>
-
-
-
-
-    
-
-
-    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.3/js/bootstrap-select.min.js"></script>
 
 </body></html>
