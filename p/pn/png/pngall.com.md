@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pngall.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207022029id_/http%3A//www.pngall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pngall.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612191000id_/http%3A//www.pngall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PNG All
 
