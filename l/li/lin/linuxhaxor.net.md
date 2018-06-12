@@ -1,22 +1,31 @@
-> *The following text is extracted and transformed from the linuxhaxor.net privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604223530id_/http%3A//www.ientry.com/page/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxhaxor.net privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613005016id_/https%3A//www.cloudns.net/privacy-policy) for the most accurate reproduction.*
 
-# iEntry Network - Privacy Policy
+# ClouDNS: Privacy policy
 
-iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
+  1. IP addresses and Browser details  
+Our servers detect the IP address of your browser from the TCP protocol. This IP address is used by ClouDNS servers only for our internal use - security and rate limiting.  
+We store browser details and IP addresses of each account for security reasons - mainly for but not limited to investigate hacked accounts or fraudulent activities. Login history is stored for three years on our servers and these history logs are available within the Profile section of your control panel. 
+  2. Customer details  
+We store customer details - e-mail and contact information only for account, billing purposes, and notifications. Under no circumstances ClouDNS will lease, sell, or provide your personal information to any third parties without your permission, a court order or legit legal request by legal authorities.  
+All customer details listed above are stored on servers within the European Union (currently in Amsterdam , Netherlands). 
+  3. Domain WHOIS information  
+For each domain registration or transfer, we request whois details which we are providing to the Domain Registry, authority from where we are buying the domain name. Every TLD has a specific Domain Registry we are using. The Domain Registry manages a WHOIS database which is a register of all domain names within that Domain Registry and their owners. Information in the WHOIS contains the contact details of the owner and proof of ownership of the customers at the Domain Registry. How the WHOIS database is shared with other parties is managed by the Domain Registry and ClouDNS does not have the ability to prevent visibility of the contact details to public.  
+The Privacy Protection option provided by ClouDNS for particular domain extensions allows the customer details to be hidden to the domain registry. When the Privacy Protection is activated, Cloud DNS Ltd is listed as the owner of the domain name in the WHOIS database, but not the Customer. Note that some TLDs do not support the Privacy Protection option and you will not be able to activate it in order to hide your contact details from the Domain Registry and the Domain Registry WHOIS database. Even with enabled Privacy Protection, the Customer is still listed as the owner in the records in ClouDNS’s database and the contact details can be exposed if the domain name is used for illegal activities or from a legal request by the authorities or a court order. 
+  4. Cookies  
+ClouDNS uses cookies to save user settings, count user visits, and site analytics. None of these cookies are used to track the customers outside of our website.  
+Some of the cookies are set and managed by Google Analytics, a tool from Aphabet Inc (parent company of Google Inc) to analyze website visits. We are not sharing any customer details or identifiers collected and defined in point 2. 
+  5. Credit cards information.  
+All purchases on the websites managed by ClouDNS are handled by a third party - PayPal.com, BitPay.com, Gate2Shop.com, Skrill.com or other Banks, in which the transferred information thereof is encrypted. ClouDNS does not arrange, save or transport any credit card numbers. 
+  6. DNS query details  
+ClouDNS does not store or share any query details or track end-user activities. To provide stable service, we are counting the requests sent from single IP address for each DNS zone for analytical purposes and to be able to prevent DDoS attacks against our infrastructure or services of customers. Statistics for each zone are available and accessible within the control panel of each Customer and are deleted as soon as the DNS zone is removed by the customer or the storage limits defined in terms of Service are reached. 
+  7. Erase of data  
+ClouDNS gives the ability to its customers to erase and/or modify all the data within their control panel. If you need your account ( including your data) with ClouDNS to be deleted, please contact us from the Support menu ( top of your control panel ) and our Technical Support will erase all the information we have in our database for your account. 
+  8. E-mail subscriptions  
+All our Customers can manage what e-mail notifications they want to receive from us. If you wish to unsubscribe from any of our e-mails, please click on the "Unsubscribe" link at the end of the e-mail or change your Subscription settings from your control panel. 
 
-**Registration**  
-iEntry collects personally identifying information only during the registration process. Information is collected in certain portions of iEntry in which users specifically and knowingly provide such information along with content submissions, jayde.com submissions or suggestions. iEntry may use such information for its internal purposes, including, but not limited to, editorial and feedback purposes. Information submitted at the time of registration (including newsletter subscriptions) may be used for marketing and promotional purposes by iEntry and may be shared with companies that have something of value to offer. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online. **
 
-Cookies
 
-**  
-Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes while at the site. Cookies make Web-surfing easier by, among other things, saving your passwords and preferences for you. The use of cookies is an industry standard, and you'll find cookies at most major Web sites.
+Data Protection Officer  
+[According to GDPR regulations, Cloud DNS Ltd is below the required limit for having a Data Protection Officer.](http://ec.europa.eu/justice/smedataprotect/index_en.htm) In case of any issues which require a contact with the person responsible for our customer data at Cloud DNS Ltd. please contact admin@cloudns.net and address your message to the Company Manager (CEO): Boyan Peychev 
 
-Cookies help make iEntry better, by showing how and when guests use the site. Many content improvements and updates are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. A cookie lets iEntry remember that you've registered, which allows us to speed up your future activities at our sites. The cookie itself does not contain any personally identifying information although it may enable iEntry to relate a user's use of iEntry to personally identifying information that has previously been submitted by the user, if any. 
-
-You may occasionally get cookies from our advertisers. These cookies are sent from third-party computers and are subject to such third parties' policies. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, it is likely that most areas of the site will not function properly if you do so. **
-
-Removal from our Database
-
-**  
-Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at **[support@ientry.com](mailto:support@ientry.com)**.
+Cookies help us deliver our services. By using our services, you agree to our use of cookies. [Learn more](https://web.archive.org/privacy-policy/)
