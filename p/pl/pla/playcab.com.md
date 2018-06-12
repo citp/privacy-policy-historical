@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playcab.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230112743id_/http%3A//playcab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playcab.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612082459id_/http%3A//playcab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | playcab.com
 
