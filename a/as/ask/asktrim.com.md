@@ -1,121 +1,80 @@
-> *The following text is extracted and transformed from the asktrim.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010215344id_/http%3A//www.asktrim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asktrim.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612061555id_/http%3A//www.asktrim.com/privacy) for the most accurate reproduction.*
 
 # Trim: An Assistant That Saves You Money
 
-Last updated: 8/2/2017
+Effective Date: 5/8/2018
 
-Please read this Privacy Policy (the “Privacy Policy", "Policy") carefully before using the asktrim.com website (the "Service") operated by Ask Benjamin Inc. ("us", "we", "our", or the “Company”).
+We at Trim know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information (as defined below) when you use our Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Remember that your use of Trim’s Services is at all times subject to the [Terms of Service,](https://web.archive.org/tos) which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Service.](https://web.archive.org/tos)
 
-**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.**  Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [ www.asktrim.com ](http://www.asktrim.com/). 
+### What does this Privacy Policy Cover?
 
-**Information We Collect**
+This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services, but not to the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
 
-_When you open an account_ , we may ask you to provide us with certain 'Personal Information' that can be used to contact or identify you, verify your identity, address or other information or to manage risk and compliance throughout our relationship. We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders and improving our services. **'Personal Information' means data that identifies you and is associated with a specific person. 'Personal Information' does not include information that is anonymous, aggregated, or is no longer identifiable to a specific person.**
+As noted in the [Terms of Use,](https://web.archive.org/tos) we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at security@asktrim.com. 
 
-  * **Account Information** \- text-enabled cellular/wireless telephone number, machine or mobile device ID, Facebook ID, Facebook Messenger ID, and other similar information. 
-  * **Personal Identification Information (“Personal Information”)** \- your name, date of birth, email address, phone number, street address, billing address and other information. 
-  * **We also may obtain information about you** : (a) from your mobile device such as your device type, machine or mobile device identification number, geo-location, time zone, language setting, browser type, and IP address, and (b) from third parties for purposes of transaction processing, identity verification, fraud detection or prevention and other similar purposes. For fraud prevention purposes, we also may link your machine ID with the machines of others who use your same payment cards. 
-  * **Financial Information** \- financial data, financial account data, financial product information, account credentials, bank account and routing numbers and credit cards linked to your user account. We may analyze this information, use this information in or for a comparative context, or combine it with other information from third parties.  **Billing, Pricing, and Plan Information** \- data about the price and service plans for your bills, subscriptions, recurring payments, or other payments, along with other information associated with those accounts, including but not limited to account numbers, account credentials, billing addresses, or additional information about your relationship with third-party vendors.  **Social Media Information** \- data provided by Facebook and Facebook Messenger if you choose to connect these accounts.  **E-Commerce Purchase Information** \- data about historical purchases, including date, item, price, shipping information, billing information, and other related information. 
+### Will Trim ever change this Privacy Policy?
+
+We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on the Services, by sending you an email, and/or by some other means. Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes.
+
+### What Information does Trim Collect?
+
+**Information You Provide to Us:**
+
+We receive and store any information you knowingly provide to us. For example, through the registration process and/or through your account settings, we may collect Personal Information such as your name, email address, phone number, and third-party account credentials (for example, your log-in credentials for third party sites). If you provide your third-party account credentials to us or otherwise sign in to the Services through a third party site or service, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. For example, when you connect a bank to Trim, your transaction data from that bank is transmitted into your Trim account. Certain information may be required to register with us or to take advantage of some of our features.
+
+We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may send you promotional email offers on behalf of other businesses, or email you about your use of the Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference by opting-out. For email communications, you can opt-out using the Unsubscribe link provided in the email. For Facebook Messenger messages, you can opt-out from your Settings page or by changing your messaging settings inside of the Facebook Messenger thread. For SMS messages, you can opt-out from your Settings page or by replying “Stop”.
+
+**Information Collected Automatically:**
+
+Whenever you interact with our Services, we automatically receive and record information on our server logs from your browser or device, which may include your IP address, geolocation data, device identification, “cookie” information, the type of browser and/or device you’re using to access our Services, and the page or feature you requested. “Cookies” are identifiers we transfer to your browser or device that allow us to recognize your browser or device and tell us how and when pages and features in our Services are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your device’s acceptance of cookies, but this may prevent you from taking advantage of some of our features. Our advertising partners may also transmit cookies to your browser or device, when you click on ads that appear on the Services. Also, if you click on a link to a third party website or service, such third party may also transmit cookies to you. Again, this Privacy Policy does not cover the use of cookies by any third parties, and we aren’t responsible for their privacy policies and practices. Please be aware that cookies placed by third parties may continue to track your activities online even after you have left our Services, and those third parties may not honor “Do Not Track” requests you have set using your browser or device.
+
+We may use this data to customize content for you that we think you might like, based on your usage patterns. We may also use it to improve the Services - for example, this data can tell us how often users use a particular feature of the Services, and we can use that knowledge to make the Services interesting to as many users as possible.
+
+**Will Company Share Any of the Personal Information it Receives?**
+
+We do not rent or sell your Personal Information in personally identifiable form to anyone, except as expressly provided below. We may share your Personal Information with third parties as described in this below:
+
+**Information that’s been de-identified:** We may de-identify your Personal Information so that you are not identified as an individual, and provide that information to our partners. We may also provide aggregate usage information to our partners (or allow partners to collect that information from you), who may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal online experience. However, we never disclose aggregate usage or de-identified information to a partner (or allow a partner to collect such information) in a manner that would identify you as an individual. 
+
+**Advertisers:** We may allow advertisers and/or merchant partners (“Advertisers”) to choose the demographic information of users who will see their advertisements and/or promotional offers and you agree that we may provide any of the information we have collected from you in non-personally identifiable form to an Advertiser, in order for that Advertiser to select the appropriate audience for those advertisements and/or offers. For example, we might use the fact you are located in San Francisco to show you ads or offers for San Francisco businesses, but we will not tell such businesses who you are. Or, we might allow Advertisers to display their ads to users with similar usage patterns to yours, but we will not disclose usage information to Advertisers except in aggregate form, and not in a manner that would identify you personally. Note that if an advertiser asks us to show an ad to a certain audience or audience segment and you respond to that ad, the advertiser may conclude that you fit the description of the audience they were trying to reach. 
+
+**Affiliated Businesses:** In certain situations, businesses or third party websites we’re affiliated with may sell or provide products or services to you through or in connection with the Services (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. Some such services may include the ability for you to automatically transmit Third Party Account Information to your Services profile or to automatically transmit information in your Services profile to your third party account, for example, by pre-filling a check-out form for the purchase of a car insurance policy. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies. 
+
+**Our Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you; for example, we may use a payment processing company to receive and process your credit card transactions for us. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. 
+
+**Business Transfers:** We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party. 
+
+**Protection of Company and Others:** We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our [Terms of Use](https://web.archive.org/tos) and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. 
+
+### Is Personal Information about me secure?
+
+Your account is protected by a password for your privacy and security. If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password and/or other sign-on mechanism appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
+
+We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but unfortunately, we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+
+### What Personal Information can I access?
+
+Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us:
+
+  * name and password
+  * email address
+  * location
+  * user profile information
 
 
 
-_When you are using the Services_ _,_ we collect information about your account transactions and trust relationships and we may collect information about your computer or other access device for fraud prevention and other similar purposes. 
+The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at **help@asktrim.com.**
 
-_When you visit the website_ , we also collect your IP address, and standard web log information, such as your browser type and the pages you accessed on our website. We also may collect certain geo-location information. If you do not agree to our collection of this information, you may not be able to use our Service.
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Information to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at privacy@asktrim.com.
 
-We are committed to providing a safe, secure and all around great service. Therefore, we may also obtain information about you from third parties such as identity verification, fraud prevention and similar services.
+### What choices do I have?
 
-Finally, we may collect additional information from or about you in other ways not specifically described here. We do not knowingly solicit or collect information from any individuals under the age of 18.
+You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our features.
 
-**Use of Information Collected by Us**
+You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by going to your Settings page or emailing us at help@asktrim.com. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
 
-Our primary purpose in collecting Personal Information is to provide you with a safe, smooth, efficient, fun and customized experience. We may use your Personal Information to: provide the services and customer support you request; attempt to save you money; negotiate your bills; monitor your telecoms accounts; process transactions and send notices about your transactions or your network activity; resolve disputes, collect fees and troubleshoot problems; prevent potentially fraudulent, prohibited or illegal activities, customize, personalize, measure, and improve our services and the content and layout of our website; send you updates about new products and services that we are offering to customers; compare information for accuracy and verify it with third parties; perform other services as authorized by you; and perform other duties as required by law.
+### What if I have questions about this policy?
 
-We may use your financial information to facilitate social comparisons of spending patterns and other personal financial matters. We may use your "social graph" information provided by Facebook or other third-party data sources to facilitate these social comparisons. We will attempt to maintain anonymity for users in any social comparisons by displaying only aggregated data across multiple users. However, we cannot guarantee that these aggregate data sets will ensure anonymity.
-
-**Sharing Personal Information**
-
-We do not share your Personal Information with third parties for promotional or marketing purposes. However, we may share your Personal Information with:
-
-  * Law enforcement, government officials, or other third parties if we are compelled to do so by a subpoena, court order or similar legal procedure, when it is necessary to do so to comply with law, or where the disclosure of personal information is reasonably necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of the this Privacy Policy or the Terms of Service, or as otherwise required by law.
-  * Third party service providers who assist us in providing services to you or who provide fraud detection or similar services.
-  * Service providers under contract who help with parts of our business operations (for example, fraud prevention, payment processing, or technology services). Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
-  * Businesses or third party websites with whom we are affiliated may sell items or provide services to you through our Services (either alone or jointly with us) and we will share your information with that affiliated business only to the extent that it is related to such transaction or service.
-  * We may share your information in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personal information may be disclosed or transferred as one of our business assets.
-  * Other third parties with your consent or at your direction to do so, including (a) billers whose subscriptions you request us to cancel; (b) banks, credit card issuers, and other financial and non-financial institutions whose fees you request us to contest; and (c) utilities and telecom providers whose rates you request us to negotiate or appeal.
-
-
-
-**Account and Payment Information**
-
-We use Plaid Technologies, Inc. (“Plaid”) to gather users' data from financial institutions. By using our service, you grant us and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution. You agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with the Plaid Privacy Policy (https://plaid.com/legal).
-
-During the registration process, you will be asked to enter your online banking credentials. By submitting your credit or debit card account information through the Services, you expressly consent to the sharing of your information with third party merchants who will help to facilitate the Services, billing processors and payment processors. We use[Plaid](https://plaid.com/) to securely connect to more than 15,000 financial institutions across the U.S. These credentials are not stored by us in any way. Your credentials are sent through Plaid to your bank or credit card provider, which sends back an encrypted token to us. 
-
-Plaid and any other third party service providers that we may use to facilitate in the delivery of the Services may store your credit or debit card account information so you can use our Services in the future. We do not have your complete credit or debit card account information, store your credit or debit card account information, or have direct control over or responsibility for your credit or debit card account information. We cannot guarantee that transmissions of your credit or debit card account information or personal information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by us or our third-party service providers.
-
-We assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control.
-
-**Protection & Storage**
-
-We store and process your Personal Information and electronic copies of all correspondence using third party servers located in secure data centers in the United States. This information is protected by physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We also use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our office and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities.
-
-The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure. Despite our efforts, we cannot guarantee that personal information may not be accessed, disclosed, altered or destroyed by breach of our administrative, managerial and technical safeguards. Therefore, we urge you to take adequate precautions to protect your personal data as well, including never sharing your user password with anyone.
-
-If we learn of a systems security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Service, you agree that we may communicate with you electronically. We may post a notice on the website if a security breach occurs. We may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice of a security breach) you should notify us via email at: help@asktrim.com. 
-
-**Log Data**
-
-We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
-
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
-
-**Cookies and Web Beacons**
-
-“Cookies” are small data file identifiers that are transferred to your computer or mobile web browser that allow us to recognize your browser or mobile device and transfer information about you and your use of our Services. We use cookies to collect information in order to improve our services for you. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie. If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
-
-We, and third parties with whom we partner, may also deliver a file known as a web beacon, pixel or pixel tag (“Web Beacons”) to you through our Services from an ad network. Web Beacons are small, invisible graphic images that may be used on the Service interface or in emails relating to the Service to collect certain information and monitor user activity on the Service interface, such as to count visits, understand usage effectiveness and to determine if an email has been opened and acted upon. Web Beacons allow ad networks and service providers that we use to provide anonymized, aggregated auditing, research and reporting for us, for advertisers and our other partners. Web Beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and Web Beacons from the ad network’s servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site.
-
-**Service Providers**
-
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used. These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
-
-**Communications**
-
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
-
-**Compliance with Laws**
-
-We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
-
-**Links to Other Sites**
-
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-**California Marketing**
-
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request via email to help@asktrim.com.
-
-**Children's Privacy**
-
-Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children").We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
-
-**Changes**
-
-This Privacy Policy is effective as of 8/2/2017 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
-
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website. Defining what changes constitute a "material change" shall be done at our complete discretion.
-
-**Restrictions and Monitoring of Our Partners**
-
-Your use of the these Services may be subject to separate agreements you may enter into with other third party service providers that we may use to facilitate in the delivery of the Services. These third parties include, but are not limited to: [ Plaid ](https://plaid.com/), [ Twilio ](https://www.twilio.com/), or [ Facebook ](https://www.facebook.com/). 
-
-**Contact Us**
-
-If you have any questions about this Privacy Policy, please contact us at help@asktrim.com.
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to privacy@asktrim.com, and we will try to resolve your concerns.
