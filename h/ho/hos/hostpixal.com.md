@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostpixal.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227140524id_/http%3A//www.hostpixal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostpixal.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612045805id_/http%3A//www.hostpixal.com/privacy.html) for the most accurate reproduction.*
 
 # HostPixal | Privacy
 
@@ -19,7 +19,7 @@ Yes Cookies are small files that a site or its service provider transfers to you
 
 ChildrenOnline Privacy Protection Act Compliance We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-Renewal of Product According to Sri Lanka Cyber Act Law you must renewal your service in every year/month. If you do not want to renew you must submit cancellation request from client area. Renewal fees will be same or less than the original purchasing fees.
+Renewal of Product According to Cyber Act Law you must renewal your service in every year/month. If you do not want to renew you must submit cancellation request from client area. Renewal fees will be same or less than the original purchasing fees.
 
 Refund Policy strictly states that customers who are not satisfied with products and services offered by HostPixal may seek a refund from HostPixal within 7 days of first signup.  
 Refund Policy is not available for setup fees, IP addresses, administrative fees, whmcs, Boxbilling, Dedicated or VPS servers (Due to the nature of our industry and the costs involved with provisioning and maintaining your service) and install fees and Domain Registrations.  
