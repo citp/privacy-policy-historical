@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniqlo.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224074907id_/https%3A//www.uniqlo.com/us/en/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniqlo.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612174130id_/https%3A//www.uniqlo.com/us/en/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UNIQLO US
 
@@ -22,7 +22,7 @@ We also collect and aggregate information volunteered by customers such as when 
 
 #### Cookies
 
-UNIQLO uses cookies and web beacons (also referred to as web bugs, pixel tags or clear GIFs) to manage the Site and email programs. We do not use cookies or web beacons to collect or store personal information. A cookie is a small file placed on your computer when you visit a website. Its purpose is to manage your website experience and allow for customization of the web pages presented to you when you return to the website. Web beacons are small bits of computer code that allow a website owner to track the actions of users on the site and recipients of email communications. Cookies and web beacons help us understand how consumers use the Site and email so we can design better services in the future. UNIQLO may use cookies and web beacons to measure the effectiveness of our online advertising initiatives and determine the correlation between UNIQLO customers and the online sites they visit.
+UNIQLO uses cookies and web beacons (also referred to as web bugs, pixel tags or clear GIFs) to manage and secure the Site and email programs. We do not use cookies or web beacons to collect or store personal information. A cookie is a small file placed on your computer when you visit a website. Its purpose is to manage your website experience, help prevent fraud, and allow for customization of the web pages presented to you when you return to the website. Web beacons are small bits of computer code that allow a website owner to track the actions of users on the site and recipients of email communications. Cookies and web beacons help us understand how consumers use the Site and email so we can guard against fraud and design better services in the future. UNIQLO may also use cookies and web beacons to measure the effectiveness of our online advertising initiatives and determine the correlation between UNIQLO customers and the online sites they visit.
 
 ### HOW DOES UNIQLO USE THE INFORMATION IT COLLECTS ABOUT CUSTOMERS?
 
@@ -39,6 +39,10 @@ You can make changes by logging in to your UNIQLO account and going to the Profi
 ### LINKS TO THIRD PARTY WEBSITES
 
 Certain activities through the Site, such as special promotions, may be linked with those from other unrelated third party companies that offer you the option to share your personal information with the third party. We will not share your personal information with those third party companies; only you can if you make that choice. Links provided on the Site to third party websites are provided as a convenience to you and we do not control those sites or their privacy practices, which may differ from ours. We do not endorse or make any representations about any third party sites that may be accessible through the sites. We encourage you to review the privacy policy of any company before submitting your personal information. The personal data you choose to give to unrelated third parties is covered by their privacy policies, not this Privacy Policy. Some third party companies may choose to share their personal data with us; that sharing is governed by that third party company’s privacy policy.
+
+### OLAPIC PRIVACY POLICY
+
+Note: The privacy policy for Olapic program can be found [here](http://www.olapic.com/privacy-policy/).
 
 ### HOW SECURE IS INFORMATION ABOUT YOU?
 
