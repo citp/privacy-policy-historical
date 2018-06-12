@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newfastresult.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106020637id_/http%3A//newfastresult.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newfastresult.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612183227id_/http%3A//newfastresult.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Newfastresult.com- Privacy Policy
 
@@ -24,9 +24,4 @@ The Site includes links to thousands of other websites whose privacy practices m
 NEWFASTRESULT.COM may update this Privacy Policy from time to time. We may notify you about significant changes in the way we treat your information by sending a notice to you, although we are not required to do so, or we may simply place a notice on the Site. Not withstanding the foregoing, we reserve the right to change this Privacy Policy without any notice whatsoever to you and for whatever reason we deem appropriate under the circumstances. Your continued use of the Site and our services will be construed as your acceptance of any such change. We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
 **TERMS OF USE:**  
-Use of the Site and our services are governed by the provisions contained in the Terms of Use located [here](http://newfastresult.com/termsofuse.php). Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE. **
-
-CONTACTING US:
-
-**  
-If you have any questions about this privacy policy, the practices of this Site or Service or your dealings with us, you can contact us [here](https://web.archive.org/contactus.php)
+Use of the Site and our services are governed by the provisions contained in the Terms of Use located [here](http://newfastresult.com/termsofuse.php). Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE. ****
