@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jbi.bike privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606020638id_/http%3A//www.jbi.bike/site/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jbi.bike privacy policy that was archived on 2018-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180612034638id_/http%3A//www.jbi.bike/site/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 			<meta http-equiv="content-type" content="text/html; charset=windows-1250">
@@ -12,12 +12,12 @@
 	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="_js/jquery-1.11.1.min.js"></script>
 	<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.0/jquery.validate.min.js"></script>
     
-	<link rel="stylesheet" href="_css/menuzord.css?v=1.1" type="text/css" id="main-css">
+	<link rel="stylesheet" href="_css/menuzord.css?v=1.006" type="text/css" id="main-css">
     <link rel="stylesheet" href="_css/bootstrap.css?v=1.1" type="text/css" id="main-css">
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css">
 	<!--<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" />-->
 	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-    <link rel="stylesheet" href="_css/custom.css?v=1.3" type="text/css" id="main-css">
+    <link rel="stylesheet" href="_css/custom.css?v=1.007" type="text/css" id="main-css">
     <link rel="stylesheet" href="_css/print.css" type="text/css" media="print">
     
 	
@@ -81,6 +81,30 @@
 
 
 
+			// LOADING CORRECT URL FOR MENU PRODUCTS
+			$('body').on("click", ".fkuxbtn", function(event) {
+				event.preventDefault();
+				var page = $(this).attr('href');
+				jQuery.ajax({
+					url     : '_naveprod.php', 
+					type    : 'POST', 
+					data    : page,
+					dataType: 'json', 
+					encode  : true,
+					success: function(response) {
+						$('#Lcat1').html(response.tcat);
+						if(page == "xfsn=recomm") {
+							$('#lbl1').addClass('active');
+							$('#lbl2').removeClass('active');
+						} else {
+							$('#lbl2').addClass('active');
+							$('#lbl1').removeClass('active');
+						}
+					}
+				});
+				return false;
+			});
+
 
 			// PRICING BUTTON
 			$('body').on("click", ".pricingcrt", function(event) {
@@ -135,7 +159,7 @@
 </style>
 <div class="content">
 	<div id="menuzord" class="menuzord blue menuzord-responsive trdj">
-		<div class="col-xs-4 col-sm-5 col-lg-5 tp_nav">
+				<div class="col-xs-4 col-sm-5 col-lg-5 tp_nav">
 			<a class="mobile-search" href="search.php"><span class="glyphicon glyphicon-search"></span></a>
 			<form id="frmtsearch" action="search_result.php?trksid=deactive" method="post" class="navbar-form">
 				<div class="input-group" style="max-width: 350px;">
@@ -161,217 +185,211 @@
 		<ul class="menuzord-menu menuzord-right menuzord-indented scrollable">
 			<li class="products">
 				<a href="#" style="padding-top: 14px;" class="dropdown-toggle" data-toggle="dropdown">PRODUCTS</a>
-				<div class="megamenu dropdown" style="padding-top: 25px !important; padding-bottom:40px;">
-				<div class="megamenu-row">&nbsp;</div>
-
-
-
+				<div class="megamenu dropdown" style="padding-top: 25px !important; padding-bottom:10px;">
 					<div class="megamenu-row">
-						<div class="col-sm-12 col-md-12 col-lg-12" style="margin-top: 35px;">
-							<div class="col-sm-2 col-md-2 col-lg-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
-															<a href="search_category.php?c1=APPAREL#APPAREL_BiDx_">APPAREL</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=AUDIO#AUDIO_BiDx_">AUDIO</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=AXLE+PEGS#AXLE PEGS_BiDx_">AXLE PEGS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BABY+SEATS#BABY SEATS_BiDx_">BABY SEATS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BAGS#BAGS_BiDx_">BAGS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BANNERS+%26+SIGNS#BANNERS &amp; SIGNS_BiDx_">BANNERS &amp; SIGNS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BASKETS#BASKETS_BiDx_">BASKETS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BATTERIES#BATTERIES_BiDx_">BATTERIES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BEARINGS#BEARINGS_BiDx_">BEARINGS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BELLS+%26+HORNS#BELLS &amp; HORNS_BiDx_">BELLS &amp; HORNS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BICYCLE+REP+PARTS#BICYCLE REP PARTS_BiDx_">BICYCLE REP PARTS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BICYCLES#BICYCLES_BiDx_">BICYCLES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BOOKS+%26+VIDEOS#BOOKS &amp; VIDEOS_BiDx_">BOOKS &amp; VIDEOS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BOTTOM+BRACKETS#BOTTOM BRACKETS_BiDx_">BOTTOM BRACKETS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BRAKE+LEVERS#BRAKE LEVERS_BiDx_">BRAKE LEVERS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BRAKE+PADS#BRAKE PADS_BiDx_">BRAKE PADS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=BRAKES#BRAKES_BiDx_">BRAKES</a>
-														</li></ul></div><div class="col-sm-2 col-md-2 col-lg-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
-															<a href="search_category.php?c1=BUNGIE+-+TIE+DOWNS#BUNGIE - TIE DOWNS_BiDx_">BUNGIE - TIE DOWNS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CABLE+TIES#CABLE TIES_BiDx_">CABLE TIES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CABLES#CABLES_BiDx_">CABLES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CAMERA#CAMERA_BiDx_">CAMERA</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CAMPING#CAMPING_BiDx_">CAMPING</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CANOPY#CANOPY_BiDx_">CANOPY</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CAR+RACKS#CAR RACKS_BiDx_">CAR RACKS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CARTONS#CARTONS_BiDx_">CARTONS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CASSETTES+%26+COGS#CASSETTES &amp; COGS_BiDx_">CASSETTES &amp; COGS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CATALOG#CATALOG_BiDx_">CATALOG</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CELL+PHONE#CELL PHONE_BiDx_">CELL PHONE</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CHAIN+PROTECTORS#CHAIN PROTECTORS_BiDx_">CHAIN PROTECTORS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CHAINRINGS#CHAINRINGS_BiDx_">CHAINRINGS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CHAINS#CHAINS_BiDx_">CHAINS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CLOSEOUT#CLOSEOUT_BiDx_">CLOSEOUT</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=COMPUTERS#COMPUTERS_BiDx_">COMPUTERS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=CRANK+ARMS+%26+SETS#CRANK ARMS &amp; SETS_BiDx_">CRANK ARMS &amp; SETS</a>
-														</li></ul></div><div class="col-sm-2 col-md-2 col-lg-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
-															<a href="search_category.php?c1=CUSTOM+IMPRINT#CUSTOM IMPRINT_BiDx_">CUSTOM IMPRINT</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=DECALS#DECALS_BiDx_">DECALS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=DERAILLEURS#DERAILLEURS_BiDx_">DERAILLEURS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=DOG+LEASH#DOG LEASH_BiDx_">DOG LEASH</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=ELECTRIC+MOTOR+KITS#ELECTRIC MOTOR KITS_BiDx_">ELECTRIC MOTOR KITS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=EXERCISERS#EXERCISERS_BiDx_">EXERCISERS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=FENDERS#FENDERS_BiDx_">FENDERS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=FOOTWEAR#FOOTWEAR_BiDx_">FOOTWEAR</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=FORKS#FORKS_BiDx_">FORKS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=FORMS+LABELS+%26+TAGS#FORMS LABELS &amp; TAGS_BiDx_">FORMS LABELS &amp; TAGS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=FRAME+ACCESSORIES+%26+PARTS#FRAME ACCESSORIES &amp; PARTS_BiDx_">FRAME ACCESSORIES &amp; PARTS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=FRAMES#FRAMES_BiDx_">FRAMES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=FREEWHEELS#FREEWHEELS_BiDx_">FREEWHEELS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=GIFT+ITEMS#GIFT ITEMS_BiDx_">GIFT ITEMS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=GRIPS+%26+TAPE#GRIPS &amp; TAPE_BiDx_">GRIPS &amp; TAPE</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=GROUP+KIT#GROUP KIT_BiDx_">GROUP KIT</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=HANDLEBAR+ACCESSORY#HANDLEBAR ACCESSORY_BiDx_">HANDLEBAR ACCESSORY</a>
-														</li></ul></div><div class="col-sm-2 col-md-2 col-lg-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
-															<a href="search_category.php?c1=HANDLEBARS#HANDLEBARS_BiDx_">HANDLEBARS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=HARDWARE#HARDWARE_BiDx_">HARDWARE</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=HEADSETS#HEADSETS_BiDx_">HEADSETS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=HELMETS#HELMETS_BiDx_">HELMETS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=HUBS#HUBS_BiDx_">HUBS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=HYDRATION#HYDRATION_BiDx_">HYDRATION</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=KICKSTANDS#KICKSTANDS_BiDx_">KICKSTANDS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=LIGHTS#LIGHTS_BiDx_">LIGHTS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=LOCKS#LOCKS_BiDx_">LOCKS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=LUBRICANTS+%26+CLEANERS#LUBRICANTS &amp; CLEANERS_BiDx_">LUBRICANTS &amp; CLEANERS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=MIRRORS#MIRRORS_BiDx_">MIRRORS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=NUMBER+PLATES#NUMBER PLATES_BiDx_">NUMBER PLATES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=NUTRITION#NUTRITION_BiDx_">NUTRITION</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=PAD+SET#PAD SET_BiDx_">PAD SET</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=PATCH+KITS#PATCH KITS_BiDx_">PATCH KITS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=PEDALS#PEDALS_BiDx_">PEDALS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=POP+-+DISPLAYS#POP - DISPLAYS_BiDx_">POP - DISPLAYS</a>
-														</li></ul></div><div class="col-sm-2 col-md-2 col-lg-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
-															<a href="search_category.php?c1=PUMPS#PUMPS_BiDx_">PUMPS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=RACKS+FOR+BIKES#RACKS FOR BIKES_BiDx_">RACKS FOR BIKES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=REFLECTORS+%26+TAPE#REFLECTORS &amp; TAPE_BiDx_">REFLECTORS &amp; TAPE</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=REPAIR+STANDS+%26+PARTS#REPAIR STANDS &amp; PARTS_BiDx_">REPAIR STANDS &amp; PARTS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=RIM+ACCESSORIES#RIM ACCESSORIES_BiDx_">RIM ACCESSORIES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=RIMS#RIMS_BiDx_">RIMS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=SADDLES#SADDLES_BiDx_">SADDLES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=SAFETY#SAFETY_BiDx_">SAFETY</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=SCOOTER#SCOOTER_BiDx_">SCOOTER</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=SEATPOSTS#SEATPOSTS_BiDx_">SEATPOSTS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=SHIFTERS#SHIFTERS_BiDx_">SHIFTERS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=SKATEBOARD#SKATEBOARD_BiDx_">SKATEBOARD</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=SKIN%2FPERSONAL+CARE#SKIN/PERSONAL CARE_BiDx_">SKIN/PERSONAL CARE</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=SPECIAL+NEEDS+PRODUCTS#SPECIAL NEEDS PRODUCTS_BiDx_">SPECIAL NEEDS PRODUCTS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=SPOKES#SPOKES_BiDx_">SPOKES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=SPORTSMAN+ACCESSORIES#SPORTSMAN ACCESSORIES_BiDx_">SPORTSMAN ACCESSORIES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=STEM+PARTS+RISERS+ADPTRS#STEM PARTS RISERS ADPTRS_BiDx_">STEM PARTS RISERS ADPTRS</a>
-														</li></ul></div><div class="col-sm-2 col-md-2 col-lg-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
-															<a href="search_category.php?c1=STEMS#STEMS_BiDx_">STEMS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=STORAGE#STORAGE_BiDx_">STORAGE</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=SUPPLIES+-+SHOP#SUPPLIES - SHOP_BiDx_">SUPPLIES - SHOP</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=TIRE+LINERS#TIRE LINERS_BiDx_">TIRE LINERS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=TIRE+SEALANT#TIRE SEALANT_BiDx_">TIRE SEALANT</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=TIRES#TIRES_BiDx_">TIRES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=TOOLS#TOOLS_BiDx_">TOOLS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=TRAILERS#TRAILERS_BiDx_">TRAILERS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=TRAINER+PARTS#TRAINER PARTS_BiDx_">TRAINER PARTS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=TRAINERS#TRAINERS_BiDx_">TRAINERS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=TRAINING+WHEELS#TRAINING WHEELS_BiDx_">TRAINING WHEELS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=TRICYCLES#TRICYCLES_BiDx_">TRICYCLES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=TUBES#TUBES_BiDx_">TUBES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=UNICYCLES#UNICYCLES_BiDx_">UNICYCLES</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=VALVE+PARTS#VALVE PARTS_BiDx_">VALVE PARTS</a>
-														</li><li class="list-group-item">
-															<a href="search_category.php?c1=WHEEL+PARTS+%26+LABOR#WHEEL PARTS &amp; LABOR_BiDx_">WHEEL PARTS &amp; LABOR</a>
-														</li><li class="list-group-item"><a href="search_wheels.php">WHEELS</a></li></ul></div><div class="col-sm-2 col-md-2 col-lg-2 padleftpadright"><ul class="list-unstyled"></ul>						</div>
-						<div class="col-sm-12" align="center" style="padding-top: 5px; padding-bottom: 30px;">&nbsp;</div>
+						<div class="col-sm-12 col-md-12 col-lg-12" style="margin-top: 5px;" id="Lcat1">
+							<div class="col-sm-3 col-md-3 col-lg-3 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
+														<a href="search_detail.php?x1=APPAREL#APPAREL_BiDx_">APPAREL</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=AUDIO#AUDIO_BiDx_">AUDIO</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=AXLE+PEGS#AXLE PEGS_BiDx_">AXLE PEGS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BABY+SEATS#BABY SEATS_BiDx_">BABY SEATS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BAGS#BAGS_BiDx_">BAGS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BASKETS#BASKETS_BiDx_">BASKETS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BATTERIES#BATTERIES_BiDx_">BATTERIES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BEARINGS#BEARINGS_BiDx_">BEARINGS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BELLS+%26+HORNS#BELLS &amp; HORNS_BiDx_">BELLS &amp; HORNS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BICYCLE+REP+PARTS#BICYCLE REP PARTS_BiDx_">BICYCLE REP PARTS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BICYCLES#BICYCLES_BiDx_">BICYCLES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BOOKS+%26+VIDEOS#BOOKS &amp; VIDEOS_BiDx_">BOOKS &amp; VIDEOS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BOTTOM+BRACKETS#BOTTOM BRACKETS_BiDx_">BOTTOM BRACKETS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BRAKE+LEVERS#BRAKE LEVERS_BiDx_">BRAKE LEVERS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BRAKE+PADS#BRAKE PADS_BiDx_">BRAKE PADS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BRAKES#BRAKES_BiDx_">BRAKES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=BUNGIE+-+TIE+DOWNS#BUNGIE - TIE DOWNS_BiDx_">BUNGIE - TIE DOWNS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CABLE+TIES#CABLE TIES_BiDx_">CABLE TIES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CABLES#CABLES_BiDx_">CABLES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CAMPING#CAMPING_BiDx_">CAMPING</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CANOPY#CANOPY_BiDx_">CANOPY</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CAR+RACKS#CAR RACKS_BiDx_">CAR RACKS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CARTONS#CARTONS_BiDx_">CARTONS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CASSETTES+%26+COGS#CASSETTES &amp; COGS_BiDx_">CASSETTES &amp; COGS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CATALOG#CATALOG_BiDx_">CATALOG</a>
+													</li></ul></div><div class="col-sm-3 col-md-3 col-lg-3 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
+														<a href="search_detail.php?x1=CELL+PHONE#CELL PHONE_BiDx_">CELL PHONE</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CHAIN+PROTECTORS#CHAIN PROTECTORS_BiDx_">CHAIN PROTECTORS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CHAINRINGS#CHAINRINGS_BiDx_">CHAINRINGS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CHAINS#CHAINS_BiDx_">CHAINS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CLOSEOUT#CLOSEOUT_BiDx_">CLOSEOUT</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=COMPUTERS#COMPUTERS_BiDx_">COMPUTERS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CRANK+ARMS+%26+SETS#CRANK ARMS &amp; SETS_BiDx_">CRANK ARMS &amp; SETS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=CUSTOM+IMPRINT#CUSTOM IMPRINT_BiDx_">CUSTOM IMPRINT</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=DECALS#DECALS_BiDx_">DECALS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=DERAILLEURS#DERAILLEURS_BiDx_">DERAILLEURS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=DOG+LEASH#DOG LEASH_BiDx_">DOG LEASH</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=EXERCISERS#EXERCISERS_BiDx_">EXERCISERS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=FENDERS#FENDERS_BiDx_">FENDERS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=FOOTWEAR#FOOTWEAR_BiDx_">FOOTWEAR</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=FORKS#FORKS_BiDx_">FORKS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=FORMS+LABELS+%26+TAGS#FORMS LABELS &amp; TAGS_BiDx_">FORMS LABELS &amp; TAGS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=FRAME+ACCESSORIES+%26+PARTS#FRAME ACCESSORIES &amp; PARTS_BiDx_">FRAME ACCESSORIES &amp; PARTS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=FRAMES#FRAMES_BiDx_">FRAMES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=FREEWHEELS#FREEWHEELS_BiDx_">FREEWHEELS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=GIFT+ITEMS#GIFT ITEMS_BiDx_">GIFT ITEMS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=GRIPS+%26+TAPE#GRIPS &amp; TAPE_BiDx_">GRIPS &amp; TAPE</a>
+													</li><li class="list-group-item">
+															<a class="menu-feature-bg" href="groups.php" style="color:#428bca;"><b>GROUP BUILDER</b></a>
+														</li><li class="list-group-item">
+														<a href="search_detail.php?x1=GROUP+KIT#GROUP KIT_BiDx_">GROUP KIT</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=HANDLEBAR+ACCESSORY#HANDLEBAR ACCESSORY_BiDx_">HANDLEBAR ACCESSORY</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=HANDLEBARS#HANDLEBARS_BiDx_">HANDLEBARS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=HARDWARE#HARDWARE_BiDx_">HARDWARE</a>
+													</li></ul></div><div class="col-sm-3 col-md-3 col-lg-3 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
+														<a href="search_detail.php?x1=HEADSETS#HEADSETS_BiDx_">HEADSETS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=HELMETS#HELMETS_BiDx_">HELMETS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=HUBS#HUBS_BiDx_">HUBS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=HYDRATION#HYDRATION_BiDx_">HYDRATION</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=KICKSTANDS#KICKSTANDS_BiDx_">KICKSTANDS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=LIGHTS#LIGHTS_BiDx_">LIGHTS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=LOCKS#LOCKS_BiDx_">LOCKS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=LUBRICANTS+%26+CLEANERS#LUBRICANTS &amp; CLEANERS_BiDx_">LUBRICANTS &amp; CLEANERS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=MIRRORS#MIRRORS_BiDx_">MIRRORS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=NUMBER+PLATES#NUMBER PLATES_BiDx_">NUMBER PLATES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=NUTRITION#NUTRITION_BiDx_">NUTRITION</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=PAD+SET#PAD SET_BiDx_">PAD SET</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=PATCH+KITS#PATCH KITS_BiDx_">PATCH KITS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=PEDALS#PEDALS_BiDx_">PEDALS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=POP+-+DISPLAYS#POP - DISPLAYS_BiDx_">POP - DISPLAYS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=POWER+METER#POWER METER_BiDx_">POWER METER</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=PUMPS#PUMPS_BiDx_">PUMPS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=RACKS+FOR+BIKES#RACKS FOR BIKES_BiDx_">RACKS FOR BIKES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=REFLECTORS+%26+TAPE#REFLECTORS &amp; TAPE_BiDx_">REFLECTORS &amp; TAPE</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=REPAIR+STANDS+%26+PARTS#REPAIR STANDS &amp; PARTS_BiDx_">REPAIR STANDS &amp; PARTS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=RIM+ACCESSORIES#RIM ACCESSORIES_BiDx_">RIM ACCESSORIES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=RIMS#RIMS_BiDx_">RIMS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=SADDLES#SADDLES_BiDx_">SADDLES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=SAFETY#SAFETY_BiDx_">SAFETY</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=SCOOTER#SCOOTER_BiDx_">SCOOTER</a>
+													</li></ul></div><div class="col-sm-3 col-md-3 col-lg-3 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
+														<a href="search_detail.php?x1=SEATPOSTS#SEATPOSTS_BiDx_">SEATPOSTS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=SHIFTERS#SHIFTERS_BiDx_">SHIFTERS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=SKIN%2FPERSONAL+CARE#SKIN/PERSONAL CARE_BiDx_">SKIN/PERSONAL CARE</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=SPECIAL+NEEDS+PRODUCTS#SPECIAL NEEDS PRODUCTS_BiDx_">SPECIAL NEEDS PRODUCTS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=SPOKES#SPOKES_BiDx_">SPOKES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=SPORTSMAN+ACCESSORIES#SPORTSMAN ACCESSORIES_BiDx_">SPORTSMAN ACCESSORIES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=STEM+PARTS+RISERS+ADPTRS#STEM PARTS RISERS ADPTRS_BiDx_">STEM PARTS RISERS ADPTRS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=STEMS#STEMS_BiDx_">STEMS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=STORAGE#STORAGE_BiDx_">STORAGE</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=SUPPLIES+-+SHOP#SUPPLIES - SHOP_BiDx_">SUPPLIES - SHOP</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=TIRE+LINERS#TIRE LINERS_BiDx_">TIRE LINERS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=TIRE+SEALANT#TIRE SEALANT_BiDx_">TIRE SEALANT</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=TIRES#TIRES_BiDx_">TIRES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=TOOLS#TOOLS_BiDx_">TOOLS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=TRAILERS#TRAILERS_BiDx_">TRAILERS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=TRAINER+PARTS#TRAINER PARTS_BiDx_">TRAINER PARTS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=TRAINERS#TRAINERS_BiDx_">TRAINERS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=TRAINING+WHEELS#TRAINING WHEELS_BiDx_">TRAINING WHEELS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=TRICYCLES#TRICYCLES_BiDx_">TRICYCLES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=TUBELESS+ACCESSORIES#TUBELESS ACCESSORIES_BiDx_">TUBELESS ACCESSORIES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=TUBES#TUBES_BiDx_">TUBES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=UNICYCLES#UNICYCLES_BiDx_">UNICYCLES</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=VALVE+PARTS#VALVE PARTS_BiDx_">VALVE PARTS</a>
+													</li><li class="list-group-item">
+														<a href="search_detail.php?x1=WHEEL+PARTS+%26+LABOR#WHEEL PARTS &amp; LABOR_BiDx_">WHEEL PARTS &amp; LABOR</a>
+													</li><li class="list-group-item"><a href="search_wheels.php">WHEELS</a></li></ul></div><div class="col-sm-3 col-md-3 col-lg-3 padleftpadright"><ul class="list-unstyled"></ul>						</div>
+						<div class="col-sm-12" align="center" style="padding-top: 5px; padding-bottom: 5px;">&nbsp;</div>
 					</div>
 				</div>
 			</div></li>
@@ -385,15 +403,17 @@
 					<div class="megamenu-row">
 						<div class="brands col-sm-12 padleftpadright" style="margin-top: 30px;">
 							<div class="col-sm-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=5+HOUR+ENERGY">5 HOUR ENERGY</a>
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ABSOLUTE+BLACK">ABSOLUTE BLACK</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ABUS">ABUS</a>
 													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=AIRIUS">AIRIUS</a>
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=AERIUS">AERIUS</a>
+													</li><li class="list-group-item">
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ALIENATION">ALIENATION</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ALLEN">ALLEN</a>
 													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ALLYS+BAR" style="color:rgb(0,174,239);">ALLYS BAR</a>
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ARISUN">ARISUN</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=AVID">AVID</a>
 													</li><li class="list-group-item">
@@ -403,17 +423,23 @@
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=BLACK+OPS">BLACK OPS</a>
 													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=BRYTON" style="color:rgb(0,174,239);">BRYTON</a>
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=BRYTON">BRYTON</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=CAMPAGNOLO">CAMPAGNOLO</a>
-													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=CATEYE">CATEYE</a>
 													</li></ul></div><div class="col-sm-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=CATEYE">CATEYE</a>
+													</li><li class="list-group-item">
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=CHO+YANG" style="color:rgb(0,174,239);">CHO YANG</a>
+													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=CLARKS">CLARKS</a>
+													</li><li class="list-group-item">
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=CLEAN+MOTION">CLEAN MOTION</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=CLOUD-9">CLOUD-9</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=CST+PREMIUM">CST PREMIUM</a>
+													</li><li class="list-group-item">
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=CYCLEOPS">CYCLEOPS</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=CYGOLITE">CYGOLITE</a>
 													</li><li class="list-group-item">
@@ -421,29 +447,21 @@
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=DT+SWISS">DT SWISS</a>
 													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ELECTRIC+BIKE+TECHNOLOGIES">ELECTRIC BIKE TECHNOLOGIES</a>
-													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=EXUSTAR">EXUSTAR</a>
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=EFFICIENT+VELO+TOOLS" style="color:rgb(0,174,239);">EFFICIENT VELO TOOLS</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=FINISH+LINE">FINISH LINE</a>
-													</li><li class="list-group-item">
+													</li></ul></div><div class="col-sm-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=FULL+SPEED+AHEAD">FULL SPEED AHEAD</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=GENUINE+INNOVATIONS">GENUINE INNOVATIONS</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=GREENFIELD">GREENFIELD</a>
-													</li></ul></div><div class="col-sm-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=HED" style="color:rgb(0,174,239);">HED</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=HOLLYWOOD">HOLLYWOOD</a>
-													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=HONJO" style="color:rgb(0,174,239);">HONJO</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ISM">ISM</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=KENDA">KENDA</a>
-													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=KENT" style="color:rgb(0,174,239);">KENT</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=KMC">KMC</a>
 													</li><li class="list-group-item">
@@ -455,23 +473,23 @@
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=LIZARD+SKINS">LIZARD SKINS</a>
 													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=MARTINI-VISPAK" style="color:rgb(0,174,239);">MARTINI-VISPAK</a>
-													</li></ul></div><div class="col-sm-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=MAXIMA+RACING+OIL" style="color:rgb(0,174,239);">MAXIMA RACING OIL</a>
-													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=MAXXIS">MAXXIS</a>
-													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=MEREDITH+CHERRY" style="color:rgb(0,174,239);">MEREDITH CHERRY</a>
-													</li><li class="list-group-item">
+													</li></ul></div><div class="col-sm-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=MIRRYCLE">MIRRYCLE</a>
 													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=MONKEY+MIRRORS" style="color:rgb(0,174,239);">MONKEY MIRRORS</a>
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=MR+TUFFY">MR TUFFY</a>
+													</li><li class="list-group-item">
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ODI">ODI</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ODYSSEY">ODYSSEY</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ONGUARD">ONGUARD</a>
 													</li><li class="list-group-item">
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ORANGE+SEAL">ORANGE SEAL</a>
+													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ORIGIN8">ORIGIN8</a>
+													</li><li class="list-group-item">
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=OTTO+DESIGN+WORKS">OTTO DESIGN WORKS</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=PANARACER">PANARACER</a>
 													</li><li class="list-group-item">
@@ -479,32 +497,24 @@
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=PEDROS">PEDROS</a>
 													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=PLANET+BIKE">PLANET BIKE</a>
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=PICKY+BARS" style="color:rgb(0,174,239);">PICKY BARS</a>
 													</li></ul></div><div class="col-sm-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=PNW+COMPONENTS" style="color:rgb(0,174,239);">PNW COMPONENTS</a>
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=PLANET+BIKE">PLANET BIKE</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=PROLOGO">PROLOGO</a>
-													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=QUAD+LOCK" style="color:rgb(0,174,239);">QUAD LOCK</a>
-													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=RATTLER" style="color:rgb(0,174,239);">RATTLER</a>
-													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=RBAR+ENERGY" style="color:rgb(0,174,239);">RBAR ENERGY</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ROCK+N+ROLL">ROCK N ROLL</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SARIS">SARIS</a>
 													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SELLE+ITALIA" style="color:rgb(0,174,239);">SELLE ITALIA</a>
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SCHWALBE">SCHWALBE</a>
+													</li><li class="list-group-item">
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SE+BIKES">SE BIKES</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SHIMANO">SHIMANO</a>
 													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SIDETRACK" style="color:rgb(0,174,239);">SIDETRACK</a>
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SKS">SKS</a>
 													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SIGMA">SIGMA</a>
-													</li><li class="list-group-item">
-														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SKYE" style="color:rgb(0,174,239);">SKYE</a>
-													</li></ul></div><div class="col-sm-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SRAM">SRAM</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SUN+BICYCLES">SUN BICYCLES</a>
@@ -512,8 +522,14 @@
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SUN+SEEKER">SUN SEEKER</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SUNLITE">SUNLITE</a>
-													</li><li class="list-group-item">
+													</li></ul></div><div class="col-sm-2 padleftpadright"><ul class="list-unstyled"><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SUNRACE">SUNRACE</a>
+													</li><li class="list-group-item">
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=SUPACAZ">SUPACAZ</a>
+													</li><li class="list-group-item">
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=TAKE+A+LOOK">TAKE A LOOK</a>
+													</li><li class="list-group-item">
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=TEKTRO">TEKTRO</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=TOPEAK">TOPEAK</a>
 													</li><li class="list-group-item">
@@ -525,13 +541,15 @@
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=WHEELS+MANUFACTURING">WHEELS MANUFACTURING</a>
 													</li><li class="list-group-item">
+														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=WILLWORX">WILLWORX</a>
+													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=WTB">WTB</a>
 													</li><li class="list-group-item">
 														<a href="http://www.jbi.bike/site/search_brand.php?trksid=deactive&amp;c1=ZEFAL">ZEFAL</a>
 													</li></ul></div><div class="col-sm-2 padleftpadright"><ul class="list-unstyled"></ul></div>						</div>
 						<div class="col-sm-12" align="center" style="padding-top: 35px;">[ BRANDS IN BLUE ARE NEW ]</div>
 						<div class="col-sm-12" align="center" style="padding-top: 5px; padding-bottom: 30px;">
-							<a href="http://www.jbi.bike/site/brands.php" class="btn btn-primary active">VIEW ALL 328 BRANDS</a>
+							<a href="http://www.jbi.bike/site/brands.php" class="btn btn-primary active">VIEW ALL 323 BRANDS</a>
 						</div>
 					</div>
 				</div>
@@ -548,14 +566,7 @@
 
 				<li><a href="login.php" class="dropdown-toggle" style="padding-top: 14px;">LOGIN</a></li>
 
-			
-
-
-
-
-			<!--<li class="actorder">
-							</li>-->
-		</ul>
+					</ul>
 			<div class="col-lg-12 col-md-12 col-sm-12" style="margin-top: 30px;">&nbsp;</div>
 	</div>
 		<br style="clear: both;">
@@ -599,13 +610,13 @@
 	<footer class="footer">
 		<div class="container">
 			<div class="row">
-				<div class="col-xs-12 col-sm-4 col-md-4"><span>Copyright © 2016 J&amp;B. All rights reserved.</span></div>
+				<div class="col-xs-12 col-sm-4 col-md-4" style="font-size: 12px;"><span>Copyright © 2016 J&amp;B. All rights reserved.</span></div>
 				<div class="col-xs-12 col-sm-4 col-md-4">
-					<div class="footer-hash">
+					<div class="footer-hash" style="text-align: center;">
 						<img src="_img/logo_just_bike.svg" title="JBI.BIKE" alt="JBI.BIKE">
 					</div>
 				</div>
-				<div class="col-xs-12 col-sm-4 col-md-4">
+				<div class="col-xs-12 col-sm-4 col-md-4" style="font-size: 12px;">
 					<span><a href="privacy.php">Privacy Policy</a></span>
 				</div>
 			</div>
