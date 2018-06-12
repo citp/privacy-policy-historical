@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boundingintocomics.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210223759id_/https%3A//boundingintocomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boundingintocomics.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612135509id_/https%3A//boundingintocomics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bounding Into Comics
 
@@ -112,10 +112,10 @@ Intermarkets may update this Privacy Policy from time to time, and so you should
 
 ### Acceptance of Privacy Policy
 
-When you use the Intermarkets website, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets website. You can also access, correct, or change your Personally Identifiable Information, or opt out of our direct marketing efforts, by sending an email to [info@intermarkets.net](mailto:info@intermarkets.net).  Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database.  If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us at [info@intermarkets.net](mailto:info@intermarkets.net) or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190.
+When you use the Intermarkets website, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets website. You can also access, correct, or change your Personally Identifiable Information, or opt out of our direct marketing efforts, by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0e676068614e67607a6b7c636f7c656b7a7d20606b7a).  Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database.  If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b3daddd5dcf3daddc7d6c1ded2c1d8d6c7c09dddd6c7) or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190.
 
 ### Additional information
 
 For the privacy policies for each of our Portfolio publishers, please visit their sites.  Links to our Portfolio publishers’ websites are located in our [Media Kit](http://intermarkets.net/advertisers/index.html).
 
-(Visited 49 times, 1 visits today)
+(Visited 167 times, 3 visits today)
