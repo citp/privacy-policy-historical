@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the okcollegestart.org privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009152802id_/https%3A//secure.okcollegestart.org/Home/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcollegestart.org privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612141724id_/https%3A//secure.okcollegestart.org/Home/privacy.aspx) for the most accurate reproduction.*
 
 # OKcollegestart - Privacy Policy
 
 ### OKcollegestart.org Privacy Policy
 
-Effective as of September 1, 2013
+Effective as of June 1, 2017
 
-The Oklahoma State Regents for Higher Education ("OSRHE") and XAP Corporation ("XAP"), the company that operates OKcollegestart.org, have adopted the following privacy policy for information collected on this website.
+The Oklahoma State Regents for Higher Education ("OSRHE") and XAP Corporation ("XAP"), the company that operates OKcollegestart.org, (collectively "us" and "we") have adopted the following privacy policy for information collected on this website.
 
 As OKcollegestart.org evolves, we may update this privacy policy statement to reflect changes in the manner in which we deal with personal information, whether to comply with then-applicable regulations and self-regulatory standards or otherwise. The privacy policy posted here will always be current. We encourage you to review this statement regularly. 
 
@@ -18,7 +18,7 @@ As OKcollegestart.org evolves, we may update this privacy policy statement to re
   * Creating an account when you are under 13 years of age
   * Ways in which personal identifying information may be used
   * With whom personal identifying information may be shared
-  * Security measures to protect information entrusted to XAP and OKcollegestart.org
+  * Security measures to protect information entrusted to OSRHE and XAP on OKcollegestart.org
   * Cookies 
   * Links 
   * Modifying and deleting your information 
@@ -29,11 +29,11 @@ As OKcollegestart.org evolves, we may update this privacy policy statement to re
 
 #### OKCOLLEGESTART.ORG PRIVACY POLICY AND ITS EXCEPTIONS 
 
-Except as otherwise set forth in this Privacy Policy Statement, personally identifiable data you enter on OKcollegestart.org are not made available or distributed to third parties, except with your express consent or at your express direction. In particular, OSRHE and XAP will not give, sell or provide access to your personal information to any company, individual or organization for its use in marketing or commercial solicitation or for any other purpose, except with your express consent, at your direction, as is necessary for the operation of this site, or pursuant to one of the exceptions listed below.
+Except as otherwise set forth in this Privacy Policy Statement, personally identifiable data you enter on OKcollegestart.org are not made available or distributed to third parties, except with your express consent or at your express direction. In particular, OSRHE and/or XAP will not give, sell or provide access to your personal information to any company, individual or organization for its use in marketing or commercial solicitation or for any other purpose, except with your express consent, at your direction, as is necessary for the operation of this site, or pursuant to one of the exceptions listed below.
 
 #### GENERAL EXCEPTIONS TO THE PRIVACY POLICY 
 
-There are limited exceptions to the OKcollegestart.org privacy policy. When required by law to comply with any valid legal process such as a search warrant, subpoena, statute, regulation or court order, OSRHE or XAP will supply such information contained in your OKcollegestart.org account as such entity reasonably determines, based on the advice of counsel, it is legally required to supply. In addition, OSRHE or XAP may release specific information relevant to special cases, such as a physical threat to you or others or an attempted breach of security on the OKcollegestart.org site. 
+There are limited exceptions to the OKcollegestart.org privacy policy. When required by law to comply with any valid legal process such as a search warrant, subpoena, statute, regulation or court order, OSRHE and/or XAP will supply such information contained in your OKcollegestart.org account as such entity reasonably determines, based on the advice of counsel, it is legally required to supply. In addition, OSRHE and/or XAP may release specific information relevant to special cases, such as a physical threat to you or others or an attempted breach of security on the OKcollegestart.org site. 
 
 #### THE PERSONAL IDENTIFYING INFORMATION WE COLLECT 
 
@@ -41,7 +41,7 @@ OKcollegestart.org collects personal identifying information from you including,
 
 #### REASONS WE COLLECT YOUR PERSONAL IDENTIFYING INFORMATION 
 
-OKcollegestart.org collects personal information from you for three reasons. The first reason is to perform a task on OKcollegestart.org, such as filling out a specific college admission application, requested by you. The second reason is to enable you to submit, in a convenient and efficient manner, information that is likely to be needed when you complete college admission, financial aid and other applications and forms made available through OKcollegestart.org or undertake a scholarship search on OKcollegestart.org. The third reason is to enable XAP to respond to your questions or contact you when necessary in connection with the functioning of OKcollegestart.org. When the effective functioning of an OKcollegestart.org module does not require personal information, none is collected, and any such module can be accessed without opening an account or providing any personal data.
+OKcollegestart.org collects personal information from you for three reasons. The first reason is to perform a task on OKcollegestart.org, such as filling out a specific college admission application for or sending a transcript to the colleges, universities or other organizations that you specify. The second reason is to enable you to submit, in a convenient and efficient manner, information that is likely to be needed when you complete college admission, financial aid and other applications and forms made available through OKcollegestart.org or undertake a scholarship search on OKcollegestart.org. The third reason is to enable OSRHE and/or XAP to respond to your questions or contact you when necessary in connection with the functioning of OKcollegestart.org. When the effective functioning of an OKcollegestart.org module does not require personal information, none is collected, and any such module can be accessed without opening an account or providing any personal data.
 
 When you log on to OKcollegestart.org, your browser will automatically transmit to OKcollegestart.org the IP address of your computer and type of browser you are using. Although your browser transmits the IP address of your computer, this IP address is not associated with any personally identifiable information regarding you. OKcollegestart.org does not collect any personally identifiable information other than what users submit and their browsers transmit.
 
@@ -54,6 +54,7 @@ If you are not yet 13 years of age, OKcollegestart.org will allow you to create 
 OKcollegestart.org will use your personal identifying information to complete the following forms and surveys, to obtain information for you and to effect transactions on your behalf, in each case only upon your instructions to do so:
 
   * Complete applications for admission.
+  * Sending transcripts to colleges and universities to which you have applied for admission or other destinations you specify such as the National Collegiate Athletic Association (NCAA) or the National Association of intercollegiate Athletics (NAIA)
   * Complete financial aid applications.
   * Complete financial aid calculators.
   * Complete a scholarship search.
@@ -65,7 +66,7 @@ OKcollegestart.org will use your personal identifying information to complete th
 Your personal identifying information may also be used for the following purposes: 
 
   * We may use your identifying information to help diagnose problems with the servers servicing OKcollegestart.org and to administer the OKcollegestart.org website.
-  * Summary data representing a compilation of aggregate data representing OKcollegestart.org users may be collected by XAP and provided to various entities including colleges and other educational institutions utilizing OKcollegestart.org. NO PERSONAL IDENTIFYING INFORMATION IS MADE AVAILABLE AS PART OF THESE SUMMARY REPORTS. Some examples of summary data are the number of monthly visitors to OKcollegestart.org, the number of admission applications submitted through OKcollegestart.org, and the OKcollegestart.org functions utilized by students in specified age or grade ranges.
+  * Summary data representing a compilation of aggregate data representing OKcollegestart.org users may be collected by OSRHE and/or XAP and provided to various entities including colleges and other educational institutions utilizing OKcollegestart.org. NO PERSONAL IDENTIFYING INFORMATION IS MADE AVAILABLE AS PART OF THESE SUMMARY REPORTS. Some examples of summary data are the number of monthly visitors to OKcollegestart.org, the number of admission applications submitted through OKcollegestart.org, and the OKcollegestart.org functions utilized by students in specified age or grade ranges.
 
 
 
@@ -74,7 +75,10 @@ Your personal identifying information may also be used for the following purpose
 Any time you request that we perform a task that involves a transfer of data, the data related to the performance of a task will be made available to a recipient you designate or to a service provider assisting us in completing that task. For example:
 
   * If you submit an application for admission to a college or other educational institution, the personal data required to complete that application will be provided on your behalf to the admissions office of the institution to which you are applying.
+  * When you request that a transcript be sent to a college, university or other organization, the personal data required to be included on an official transcript will be provided on your behalf to the admissions office of the institution you specify. 
+    * Additionally, your data may be shared with our third party service partner to permit them to provide services on our behalf in sending your transcript(s) to some of the colleges and universities you have selected. (The third party service provider has agreed to handle your information in compliance with this Privacy Policy and may only use the information for the sole purpose of providing the transcript service to you).
   * If you request that a college or other educational institution send you material, your contact information will be provided to that institution.
+  * When you submit a scholarship search your data may be shared with our third party service partner to permit them to provide services on our behalf in displaying available scholarships that correspond to your search criteria. (The third party service provider has agreed to handle your information in compliance with this Privacy Policy and may only use the information for the sole purpose of providing the scholarship search information to you).
 
 
 
@@ -84,9 +88,9 @@ If you connect your account to a school or other site using OKcollegestart.org a
 
 #### SECURITY MEASURES TO PREVENT MISUSE OF INFORMATION ENTRUSTED TO OKCOLLEGESTART.ORG 
 
-OKcollegestart.org causes the data you input to be encrypted when in route between your browser and the OKcollegestart.org server and when in route between the OKcollegestart.org server and some other browser or server. This practice helps prevent unauthorized third parties from intercepting and gaining access to your private data during transmission over the Internet. OKcollegestart.org uses 128-bit, Secure Socket Layer encryption that is supported by both Netscape’s and Microsoft’s browsers.
+OKcollegestart.org encrypts the PII you enter when it is in route from your browser to the OKcollegestart.org web servers, and again when your PII is in route from the web servers to the back-end database servers using TLS 1.2. This practice helps prevent unauthorized third parties from intercepting and gaining access to your PII during transmission over the Internet. OKcollegestart.org is WC3 compliant and performs properly on all major operating system platforms as well as all major modern internet browsers specifically including, but not limited to, Windows, Macintosh, Linux, iOS, Chrome, Safari, Firefox, Edge, Internet Explorer, and the build-in Internet browsers for iOS and Android.
 
-Data residing on the OKcollegestart.org server is password protected, and access is provided only to the account holder who created the password, anyone to whom that account holder entrusted the password, counselors with whom the account holder has authorized to view the data, and those employees of XAP who require such access to administer and maintain the OKcollegestart.org system or to provide requested customer support to users of OKcollegestart.org. Each XAP employee who has access to the data residing on the OKcollegestart.org server has agreed in writing to respect the privacy of all such personal data.
+Data residing on the OKcollegestart.org server is password protected, and access is provided only to the account holder who created the password, anyone to whom that account holder entrusted the password, counselors with whom the account holder has authorized to view the data, and those employees of OSRHE and/or XAP who require such access to administer and maintain the OKcollegestart.org system or to provide requested customer support to users of OKcollegestart.org. Each OSRHE and/or XAP employee who has access to the data residing on the OKcollegestart.org server has agreed in writing to respect the privacy of all such personal data.
 
 #### COOKIES
 
@@ -106,7 +110,7 @@ You may update, otherwise modify or delete from the data stored on OKcollegestar
 
 #### AMENDING THIS PRIVACY POLICY
 
-This Privacy Statement may be amended from time to time. Unless legal obligations require faster implementation, if XAP or OSHRE make any substantial changes to this Privacy Policy concerning use of your personal information XAP will notify you by posting a message on the OKcollegestart.org homepage for at least thirty days. Thereafter, the new privacy policy will apply to all data previously submitted or subsequently submitted to OKcollegestart.org, unless such use is prohibited by law. If you do not wish to have your information used in accordance with a newly posted privacy policy, you should modify or delete the relevant information in the manner described in the preceding section, "Modifying and Deleting Your Information."
+This Privacy Statement may be amended from time to time. Unless legal obligations require faster implementation, if OSRHE and/or XAP make any substantial changes to this Privacy Policy concerning use of your personal information OSRHE and/or XAP will notify you by posting a message on the OKcollegestart.org homepage for at least thirty days. Thereafter, the new privacy policy will apply to all data previously submitted or subsequently submitted to OKcollegestart.org, unless such use is prohibited by law. If you do not wish to have your information used in accordance with a newly posted privacy policy, you should modify or delete the relevant information in the manner described in the preceding section, "Modifying and Deleting Your Information."
 
 #### QUESTIONS?
 
