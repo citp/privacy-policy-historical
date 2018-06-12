@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motelrocks.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230110430id_/http%3A//www.motelrocks.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motelrocks.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612114628id_/http%3A//www.motelrocks.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Motel Rocks
 
@@ -42,7 +42,7 @@ When you use this site and have not advised us to the contrary, you are agreeing
 
 Our Marketing
 
-Unless you say otherwise, we may use your information to contact you about special offers, goods and services. You may change your mind at any time by writing to us at: Customer Services, Unit 27, Hunt End Ind.Est, Dunlop Road, Redditch, B97 5XP.
+Unless you say otherwise, we may use your information to contact you about special offers, goods and services. You may change your mind at any time by writing to us at: Customer Services, Motelrocks, 18 Buntsford Park Road, Bromsgrove, B60 3DX
 
 Other Web Sites
 
@@ -54,7 +54,7 @@ A cookie is a piece of text that asks permision to be placed on your compouter's
 
 A cookie does not give us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. You may set your web browser (Microsoft internet explorer, Firefox, Google Chrome and Safari) to notify you of cookie placement requests or decline cookies completely. If you decline cookies completely, you will not be able to shop on this site. You can delete the files that contain cookies - those files are stored as part of your internet browser.
 
-If you have any queries in connection with this privacy policy then please contact us at: Customer Services, motelrocks, Unit 27, Hunt End Ind.Est, Dunlop Road, Redditch, B97 5XP or emailing on: [customerservice@motelrocks.com](mailto:customerservice@motelrocks.com).
+If you have any queries in connection with this privacy policy then please contact us at: Customer Services, motelrocks, 18 Buntsford Park Road, Bromsgrove, B60 3DX or emailing on: [customerservice@motelrocks.com](mailto:customerservice@motelrocks.com).
 
 ### Cookie Policy
 
