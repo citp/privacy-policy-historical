@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fliphtml5.com privacy policy that was archived on 2017-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171231053218id_/http%3A//fliphtml5.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fliphtml5.com privacy policy that was archived on 2018-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180612130219id_/http%3A//fliphtml5.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -95,120 +95,118 @@
 
 
 
-<div class="cc-top-banner ">
-    <a target="_blank" href="/server-maintenance-notification.php">
-        <p><span class="cc-top-banner-title">Important Announcement</span><br>FlipHTML5 Scheduled Server Maintenance on (GMT) Sunday, June 26th, <span>2:00 am - 8:00 am</span>.<br> FlipHTML5 site will be inoperative during the times indicated!</p>
-    </a>
-
-    <div class="cc-top-banner-close-btn" title="Close">
-
-    </div>
-</div>
-
-<script type="text/javascript">
-    // (function ($) {
-    //     $(function () {
 
 
-    //         // tmp banner
-    //         var localStorageKey = "fliphtml5_notShowTopBanner3";
+<!-- 开启通知 -->
+<!-- <script type="text/javascript" language="javascript" src="/js/jquery-1.10.2.min.js"></script> -->
+<!-- <script type="text/javascript">
+    (function ($) {
+        if (!$) {
+            return
+        }
+        $(function () {
 
-    //         if (localStorage && localStorage.getItem(localStorageKey) == "1") {
-    //             isShowTopBanner = "0";
-    //         } else {
-    //             // isShowTopBanner = "1";
-    //             isShowTopBanner = "0";
-    //         }
 
-    //         var isInShowBookPage = "0";
+            // tmp banner
+            var localStorageKey = "fliphtml5_notShowTopBanner7";
 
-    //         // 2016.6.26 10am auto close banner
-    //         if (new Date() > utils.parseDate("2016-06-26 10:00:00") ) {
-    //             isShowTopBanner = "0";
-    //         }
+            if (localStorage && localStorage.getItem(localStorageKey) == "1") {
+                isShowTopBanner = "0";
+            } else {
+                isShowTopBanner = "1";
+                // isShowTopBanner = "0";
+            }
 
-    //         if (isShowTopBanner == "1" && isInShowBookPage == "0") {
-    //             var $body = $("body");
-    //             var $topBanner = $(".cc-top-banner");
-    //             var $topBar = $(".cc-top-bar");
-    //             var $topLang = $(".cc-top-lang");
-    //             var $topLang = $(".cc-top-lang");
-    //             var $topCloseBtn = $(".cc-top-banner-close-btn");
+            console.log(isShowTopBanner)
+            var isInShowBookPage = "0";
 
-    //             $topBanner.slideDown(800);
+            // // 2016.6.26 10am auto close banner
+            // if (new Date() > utils.parseDate("2018-01-04 18:00:00") ) {
+            //     isShowTopBanner = "0";
+            // }
 
-    //             $body.animate({
-    //                 paddingTop: "140"
-    //             }, 800);
+            if (isShowTopBanner == "1" && isInShowBookPage == "0") {
+                var $body = $("body");
+                var $topBanner = $(".cc-top-banner");
+                var $topBar = $(".cc-top-bar");
+                var $topLang = $(".cc-top-lang");
+                var $topLang = $(".cc-top-lang");
+                var $topCloseBtn = $(".cc-top-banner-close-btn");
 
-    //             $topBar.css({
-    //                 position: "absolute"
-    //             }).animate({
-    //                 top: "140px"
-    //             }, 800);
+                $topBanner.slideDown(800);
 
-    //             $topLang.animate({
-    //                 top: "200"
-    //             }, 800);
+                $body.animate({
+                    paddingTop: "140"
+                }, 800);
 
-    //             $(window).on("scroll.topBanner", function(e) {
+                $topBar.css({
+                    position: "absolute"
+                }).animate({
+                    top: "140px"
+                }, 800);
 
-    //                 var scrollTop = $(document).scrollTop();
-    //                 if (scrollTop >= 140) {
+                $topLang.animate({
+                    top: "200"
+                }, 800);
 
-    //                     if (isInShowBookPage == "1") {
-    //                         $topBar.css({
-    //                             position: "absolute",
-    //                             top: 0
-    //                         });
-    //                     } else {
-    //                         $topBar.css({
-    //                             position: "fixed",
-    //                             top: 0
-    //                         });
-    //                     }
-    //                 } else {
-    //                     $topBar.css({
-    //                         position: "absolute",
-    //                         top: 140
-    //                     });
-    //                 }
-    //             });
+                $(window).on("scroll.topBanner", function(e) {
 
-    //             $topCloseBtn.on("click", function() {
-    //                 $topBanner.slideUp(0);
+                    var scrollTop = $(document).scrollTop();
+                    if (scrollTop >= 140) {
 
-    //                 $body.css({
-    //                     paddingTop: "0"
-    //                 });
+                        if (isInShowBookPage == "1") {
+                            $topBar.css({
+                                position: "absolute",
+                                top: 0
+                            });
+                        } else {
+                            $topBar.css({
+                                position: "fixed",
+                                top: 0
+                            });
+                        }
+                    } else {
+                        $topBar.css({
+                            position: "absolute",
+                            top: 140
+                        });
+                    }
+                });
 
-    //                 if (isInShowBookPage == "1") {
-    //                     $topBar.css({
-    //                         position: "absolute",
-    //                         top: 0
-    //                     });
-    //                 } else {
-    //                     $topBar.css({
-    //                         position: "fixed",
-    //                         top: 0
-    //                     });
-    //                 }
+                $topCloseBtn.on("click", function() {
+                    $topBanner.slideUp(0);
 
-    //                 $topLang.css({
-    //                     top: "60"
-    //                 });
+                    $body.css({
+                        paddingTop: "0"
+                    });
 
-    //                 $(window).off("scroll.topBanner");
+                    if (isInShowBookPage == "1") {
+                        $topBar.css({
+                            position: "absolute",
+                            top: 0
+                        });
+                    } else {
+                        $topBar.css({
+                            position: "fixed",
+                            top: 0
+                        });
+                    }
 
-    //                 if (localStorage) {
-    //                     localStorage.setItem(localStorageKey, "1");
-    //                 }
-    //             });
-    //         }
-    //     });
-    // })(window.jQuery);
+                    $topLang.css({
+                        top: "60"
+                    });
 
-</script>
+                    $(window).off("scroll.topBanner");
+
+                    if (localStorage) {
+                        localStorage.setItem(localStorageKey, "1");
+                    }
+                });
+            }
+        });
+    })(window.jQuery);
+
+</script> -->
 
 <div class="cc-top-bar en">
 
@@ -428,7 +426,9 @@
                 <div class="cc-container first-item">Sign in</div>
             </li>
             <li id="cc-top-hide-sign-up" class="cc-hide-top-bar-item hidden-lg hidden-md hidden-sm">
-                <div class="cc-container first-item">Sign Up</div>
+                <a href="/login.php?register">
+                    <div class="cc-container first-item">Sign Up</div>
+                </a>
             </li>
             <li class="cc-hide-top-bar-search hidden-lg">
                 <div class="cc-container">
@@ -708,7 +708,7 @@
                         <img src="/images/logo.png"/>
                     </a>
                 </div>
-                <div class="ff-copyright-text">&copy; 2017 WONDER IDEA TECHNOLOGY LIMITED. All rights reserved</div>
+                <div class="ff-copyright-text">&copy; 2018 WONDER IDEA TECHNOLOGY LIMITED. All rights reserved</div>
             </div>
 
              <div class="ff-footer-right">
@@ -809,7 +809,7 @@
     <div class="container bottom-down-container">
         <div class="row">
             <div class="col-md-6 col-xs-10 col-xs-offset-2 col-sm-offset-0 bottom-down copyright">
-                © 2017 WONDER IDEA TECHNOLOGY LIMITED. All rights reserved            </div>
+                © 2018 WONDER IDEA TECHNOLOGY LIMITED. All rights reserved            </div>
             <div class="col-md-6 col-xs-10 col-xs-offset-2 col-sm-offset-0 bottom-down register-container">
                 <div class="register-container-link">
                     <a class="register" href="javascript:void(0);">Register</a>
