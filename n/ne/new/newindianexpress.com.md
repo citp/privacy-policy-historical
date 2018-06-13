@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newindianexpress.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000138id_/http%3A//www.newindianexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newindianexpress.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613205921id_/http%3A//www.newindianexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,8 +7,10 @@ Express Network Private Limited (ENPL) is a sister concern of Express Publicatio
   * __NEW INDIAN EXPRESS
   * __DINAMANI
   * __KANNADA PRABHA
+  * __SAMAKALIKA MALAYALAM
   * __MALAYALAM VAARIKA
-  * __SAKHI
+  * __EDEX LIVE
+  * __INDULGEXPRESS
   * __CINEMA EXPRESS
 
 
