@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the medifast1.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212201036id_/http%3A//www.medifast1.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medifast1.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613131530id_/http%3A//www.medifast1.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy & Security
 
 _**I. ABOUT THIS PRIVACY POLICY AND USING OUR SITE AND TOOLS**_   
-This Privacy Policy applies to the Medifast1.com, TSFL.com, Medifastcenters.com and Medifast MD.com (“Company Websites”), information as provided by Medifast, Inc. its subsidiaries and affiliates (“Company” or “We” or “Our”). Within this privacy policy, the name “Company Websites” pertains to any and all websites hosted and/or operated by Medifast, Inc., including co-branded, product and divisional websites.
+This Privacy Policy applies to the Medifast1.com, Optavia.com and Medifastcenters.com (“Company Websites”), information as provided by Medifast, Inc. its subsidiaries and affiliates (“Company” or “We” or “Our”). Within this privacy policy, the name “Company Websites” pertains to any and all websites hosted and/or operated by Medifast, Inc., including co-branded, product and divisional websites.
 
   
 The Company Websites contains links to other sites. Once you enter another website, be aware that Company is not responsible for the privacy practices of such other sites. We encourage you to look for and review the privacy statements of each and every website that you visit through a link on the Company Websites. We hope that reading our Privacy Policy gives you a clear idea of how we manage information about you. 
