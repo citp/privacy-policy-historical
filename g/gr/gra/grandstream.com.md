@@ -1,0 +1,208 @@
+> *The following text is extracted and transformed from the grandstream.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613145019id_/http%3A//www.grandstream.com/sites/default/files/Resources/GRANDSTREAM_PRIVACY_STATEMENT_DLA.pdf) for the most accurate reproduction.*
+
+# GRANDSTREAM PRIVACY STATEMENT
+
+               GRANDSTREAM PRIVACY STATEMENT
+This Privacy Statement governs how Grandstream Networks, Inc. and its
+affiliates (“Grandstream,” “us,” “our” or “we”) may collect, use, and
+disclose information that we obtain through our products, services,
+websites and mobile applications (“app” or “apps”)(the “Services”). By
+accessing this website, using our apps, or ordering or registering to
+use the Services, you consent to the collection, use, and disclosure of
+that information in accordance with this Privacy Statement.
+Please be sure to read this entire Privacy Statement before using or
+submitting information to the Grandstream Services. This Privacy
+Statement is incorporated into Grandstream’s Terms of Service. The
+Grandstream Terms of Service are incorporated by reference into this
+Statement.
+INFORMATION WE MAY COLLECT
+When you interact with us through the Services, we collect personal
+information and other information from you, each as defined and as
+further described below:
+Information We Collect Directly From You. We collect information
+from you when, for example, you create an account, make a purchase,
+join a video call, post on our Site, or otherwise contact us. The type of
+information that we collect varies based on your interaction with our
+Site, Apps, and services. When you create an account, we will collect
+your name, username, email address, password, and your general
+location. If you use our Wave mobile app, we will collect your login
+credentials for your SIP or VOIP service provider account so you can
+
+
+make and receive calls. To join an IPVideoTalk meeting, we will collect
+your name, email address, and meeting identification code. If you make
+a purchase, we will collect your payment information, such as your credit
+card or other payment account information. If you contact us for
+customer service purposes, we will collect your name, contact
+information, password, and information about your service ticket.
+Cookies, Automatic Data Collection, and Related Technologies. When
+you access or use the Grandstream Services, we and third parties that
+may provide certain functionality on our behalf, such as social media or
+advertising networks, may engage, receive, collect, and store certain
+types of information through automatic data collection tools including
+cookies, pixel tags, web beacons, embedded web links, and similar
+technology. Information collected by Grandstream or other third parties
+through these technologies is referred to for the purposes of this Privacy
+Statement as “Automatically Collected Information.” The various
+information collection technologies that we and others may employ may
+collect information including, but not limited to, information such as
+your Internet Protocol (IP) address, browser type, the date and time that
+you use the Grandstream Services, referring/exit pages and URLs,
+number of clicks, and cookies that may uniquely identify your browser.
+When you use any of our apps, we automatically collect your mobile
+device ID; location and language information; device name and model;
+operating system type, name, and version; your activities within the
+application; and the length of time that you are logged into our
+
+
+application. When using our Wave application, with your permission, we
+may access your mobile device’s contact list so you may place calls to
+your contacts through Wave. The Wave application may also, with your
+permission, access your mobile device’s camera to scan QR codes to
+help you log in to your UCM account(s). Our IPVideoTalk app, with your
+permission, may access your mobile device’s camera so you can
+participate in video conferences.
+When you set up a Grandstream IP phone, we collect the phone’s IP
+address to help you set up the phone’s language and location settings.
+Cookies. In operating our Services, we may use cookies. Additionally,
+third-party widgets may install cookies depending on their configuration.
+We may (and we may allow third party service providers to) use cookies
+or similar technologies to collect information about your browsing
+activities over time and across different websites following your use of
+our Service. Our cookies help provide additional functionality and help
+us analyze Services usage more accurately. On most web browsers, you
+will find a “help” section on the toolbar. Please refer to this section for
+information on how to receive notification when you are receiving a new
+cookie and how to turn cookies off. We recommend that you leave
+cookies turned on because they allow you to take advantage of some of
+the features of our Services.
+Clear GIFs, pixel tags and other technologies. Clear GIFs are tiny
+graphics with a unique identifier, similar in function to cookies. In
+
+
+contrast to cookies, which are stored on your computer’s hard drive,
+clear GIFs are embedded invisibly on web pages. We may use clear GIFs
+(a.k.a. web beacons, web bugs or pixel tags), in connection with our
+Services to, among other things, track the activities of website visitors
+and application users, help us manage content, and compile statistics
+about website and application usage. We and our third party service
+providers also use clear GIFs in HTML emails to our customers, to help
+us track email response rates, identify when our emails are viewed, and
+track whether our emails are forwarded.
+Third Party Analytics. We use automated devices and applications, such
+as Google Analytics, to evaluate usage of our Site and, to the extent
+permitted, our apps. We also may use other analytic means to evaluate
+our Services. We use these tools to help us improve our Services,
+performance, and user experiences. These entities may use cookies and
+other tracking technologies to perform their services. We do not share
+your personal information with these third parties.
+Managing Cookies and Do Not Track:
+Our Services currently do not respond to “Do Not Track” (DNT) signals
+and operate as described in this Privacy Statement whether or not a
+DNT signal is received.
+HOW WE MAY USE YOUR INFORMATION
+We use your information, including your personal information, for the
+following purposes:
+    We use your information to provide our Services to you, to
+
+
+  communicate with you about your use of our Services, to respond
+  to your inquiries, to fulfill your orders, and for other customer
+  service purposes.
+ Grandstream may also use your information collected through the
+  Services to help us improve the content and functionality of the
+  Services, to better understand our users and to improve the
+  Grandstream Services.
+ We use information, including personal information, for internal
+  and service-related purposes only and may provide it to third
+  parties to allow us to facilitate the Grandstream Services. We may
+  use and retain any data we collect to provide and improve the
+  Grandstream Services.
+ We may contact you using the contact information you provide to
+  us to verify your account and for informational and operational
+  purposes, such as account management, customer service, or
+  system maintenance.
+ We may use your personal information and other information to
+  communicate with you by email or push notification to provide
+  you with information we think may be of interest to you. You may
+  opt out of marketing emails at any time by using the opt-out link
+  in an email. We do not rent, sell, or share personal information
+  about you with other people or nonaffiliated companies for their
+  direct marketing purposes. We also do not provide any personal
+  information to any third-party ad networks.
+ We may de-identify and aggregate data collected through the
+  Grandstream Services and use it for any purpose.
+
+
+HOW WE MAY SHARE YOUR INFORMATION
+App users. When you use our Apps, we may share your name, phone
+number, and email address with your call or conference participants.
+Vendors and Service Providers. We may share any information,
+including personal information, that we receive with vendors and service
+providers retained by us.
+As Required By Law and Similar Disclosures. We may access,
+preserve, and disclose your personal information, other account
+information, and content if we believe doing so is required or
+appropriate to: comply with law enforcement requests and legal process,
+such as a court order or subpoena; respond to your requests; or protect
+yours, ours or others’ rights, property, or safety.
+Merger, Sale, or Other Asset Transfers. If we are involved in a merger,
+acquisition, financing due diligence, reorganization, bankruptcy,
+receivership, sale of company assets, or transition of service to another
+provider, your information may be sold or transferred as part of such a
+transaction as permitted by law and/or contract. We cannot control how
+such entities may use or disclose such information.
+THIRD PARTY WEBSITES & APPLICATIONS
+This Privacy Statement applies only to the Grandstream Services. The
+Services may contain links to other web sites not operated or controlled
+
+
+by Grandstream (the “Third Party Sites”). We do not own, control, or
+operate such linked sites, and we are not responsible for the privacy
+policies or practices of such linked sites. Privacy policies and practices
+for such linked sites may differ from this Privacy Statement and our
+practices. We encourage you to read the privacy policies of such linked
+sites before disclosing your personal information on such sites, as those
+privacy policies will apply to information collected through those third
+party websites.
+CHILDREN’S PRIVACY
+We do not knowingly collect, maintain, or use personal information from
+children under the age of 13. If you are under the age of 13, please do
+not submit any personal information through the Grandstream Services.
+If you have reason to believe that a child under the age of 13 has
+provided personal information to Grandstream through the Services,
+please contact us, and we will endeavor to delete that information from
+our databases.
+SECURITY OF YOUR INFORMATION
+We take steps to ensure that your information is treated securely and in
+accordance with this Privacy Statement. Unfortunately, the Internet
+cannot be guaranteed to be 100% secure, and we cannot ensure or
+warrant the security of any information you provide to us. We do not
+accept liability for unintentional disclosure.
+INTERNATIONAL USERS
+Information collected through the Grandstream Services may be stored
+
+
+and processed in the United States or other countries in which we or
+our affiliates, subsidiaries or service providers maintain facilities, which
+may not provide the same level of protection for your Personal
+Information as your home country. By submitting any Personal
+Information or by using the Services and without limitation to any other
+rights or obligations we have, you consent to such transfer to, and
+processing in, the United States and these other countries, and
+acknowledge that your information may be subject to access by law
+enforcement and other government entities, including courts and
+tribunals, in accordance with laws applicable in those jurisdictions.
+UPDATE YOUR INFORMATION
+If you would like to update or modify any information you have
+provided us, you can do so by emailing us at info@grandstream.com. If
+you have any questions or concerns about this Privacy Statement or the
+use of your information, please contact us at info@grandstream.com.
+CHANGES TO OUR PRIVACY STATEMENT AND PRACTICES
+We may update this Privacy Statement to reflect changes to our
+information practices. If we make any change in how we use personal
+information, we will notify you by email (sent to the e-mail address
+specified in your account) or by means of a notice on the Grandstream
+Services prior to the change becoming effective. We encourage you to
+periodically review this page for the latest information on our privacy
+practices.
