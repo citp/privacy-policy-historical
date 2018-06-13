@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the explorepartsunknown.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905155855id_/https%3A//explorepartsunknown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorepartsunknown.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614010852id_/https%3A//explorepartsunknown.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Explore Parts Unknown
+# Privacy Policy
 
 **What’s New in the Updated Privacy Statement?   We have updated the privacy statement applicable to our online and mobile websites, services, and applications and clarified data sharing practices among Turner and its affiliates. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy statement when you use any of our Sites (as described below), including when you access any content or videos.**
 
@@ -125,7 +125,7 @@ You may also send an e-mail or letter to the following e-mail or street address 
 E-mail Administration  
 Turner Broadcasting System, Inc.  
 Attention: Privacy  
-Legal Department 
+Legal Department
 
 One CNN Center,  
 Atlanta, GA 30303  
