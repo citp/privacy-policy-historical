@@ -1,43 +1,82 @@
-> *The following text is extracted and transformed from the planning.org privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310191437id_/https%3A//www.planning.org/apaataglance/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planning.org privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613163152id_/https%3A//planning.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-The American Planning Association respects the privacy of those who use our products and services. The following policies guide our use of information collected from members, subscribers, customers, and website visitors. We will post notification of material changes to this privacy statement on our website and will update this page with such changes.
+_Effective Date: September 1, 2017_
 
-## Domain Names
+This Privacy Statement describes how your personal information may be used by the American Planning Association (APA) and others, your choices regarding the collection and use of such information, and the security measures we employ to protect the information. By using our Web and mobile sites or our mobile applications, you agree to our practices concerning such information, including our use of cookies, as described below, which may be revised from time to time.
 
-Our web server automatically recognizes a visitor's domain name, but not the visitor's e-mail address.
+## What Information Do We Collect?
 
-## E-mail Addresses
+We collect personal information while offering products and services, from affiliates, partners and other third parties we do business with, and from public sources. We collect certain information from all visitors to our sites and from users of our mobile apps. This information includes cookie data, Internet Protocol (IP) addresses, the types of browsers used, and information about navigation patterns including the specific web and/or mobile site pages visited. We may also collect geolocation information and computer and mobile device IDs. We also track data such as the total number of visits to our sites, the number of visitors to each page of our sites, and the number of users of our apps.
 
-We collect the e-mail addresses of members, subscribers, and customers, as well as of those who use our listservs, those who communicate with us via e-mail, and those who register for our website. APA does not sell e-mail addresses to anyone. APA shares e-mail addresses only with our own affiliated chapters and divisions and the Planning Foundation of APA. We share with our own affiliated chapters and divisions only the e-mail addresses of their respective members. APA uses vendors to distribute APA e-mail messages. These vendors are contractually prohibited from using those e-mail addresses for any purpose other than APA e-mail messages.
+We collect certain contact, demographic, and personal interest information about our members, event attendees, and other registered users (in-person or online). Such information may include: name, telephone number, physical and email address, and other required and optional fields. In addition, credit card numbers may be collected by service providers who work on our behalf to process your transactions.
 
-Membership in APA and many APA subscriptions include electronic benefits, such as e-newsletters. We assume that anyone who joins APA or one of our chapters and divisions or who subscribes to a publication or service wants to receive the electronic benefits of the membership or subscription. Those who do not wish to receive their electronic benefits can unsubscribe via a link in the e-mail that delivers the electronic benefit.
+Children: We do not knowingly collect, use, or disseminate any information from children under age 13. If, however, we become aware that such information has been collected, we will delete such information.
 
-We also use your e-mail address to communicate with you about your membership, subscriptions, purchases, and event registration, as well as to inform you about APA resources you might be interested in, including the Planning Foundation of APA. You can set preferences in My APA for communications other than member and subscriber benefits.
+## Your Choices Regarding the Information We Collect
 
-## Other Collected Information
+You have some choices concerning our use of your personal information. For example, if you have requested communications from us (e.g., newsletters and communications regarding our events) but do not wish to receive further information, you can "opt-out" by clicking on the "unsubscribe" link provided in the relevant communication. You may change your browser cookie settings, and you may request that we:
 
-Information you provide in My APA is used for internal planning and evaluating. We do not share your individual information with any groups other than our own chapters and divisions. We do not share salary information with any group, including our chapters and divisions. We do compile information from My APA to establish statistics about APA membership as a whole and may release that information to external parties.
+  * Update, correct, or delete your Personal Information
+  * Provide you with access to your Personal Information
+  * Withdraw your consent to marketing or other communications
+  * Change your preferences regarding our sharing of your personal information with third parties
 
-APA members can access an online member directory that may include street addresses, e-mail addresses, phone numbers, and fax numbers. Members are instructed that they may not use the information in the member directory for solicitations, commercial activities, fax or e-mail broadcasts, telemarketing, or surveys. In My APA, members may elect to remove their own names and contact information from the member directory.
 
-We collect aggregate information on which pages visitors access. We also collect information volunteered by visitors, such as information provided in conference registration, job and resume postings, and book purchases.
 
-## Cookies
+If you are a member or registered user, you may make these changes by modifying your "My APA" account. If you are not a member or registered user, you may contact us as described below.
 
-We use cookies to record session information and to allow APA members and subscribers who have logged in to access members-only or subscriber-only resources.
+You may be located be in a country or region where data privacy or data protection laws differ from the United States. If you access our sites or apps, your personal information may be transferred to APA in other countries, including the United States.
 
-## Provision of Information
+## How Do We Use the Information We Collect?
 
-Upon request, we provide visitors access to all information we maintain about them and allow visitors to correct any inaccuracies in such information.
+We may use your personal information for various purposes, including:
 
-## Security
+  * To communicate with you about your membership, subscription, event registration, or other resources or information of interest
+  * To improve our content and communications and to respond to the interests and preferences of our members and others
+  * If needed to process credit cards, with the assistance of a third-party processor, so that you may pay for membership; purchase products or services; or attend our events
+  * To help you locate and attend our events (e.g., geolocation information)
+  * To better understand the demographic makeup of our membership
 
-When we transfer and receive certain types of information, such as financial data, we will send that information through a secure connection.
 
-## Contact Us
 
-If you have any questions about our privacy statement, please e-mail [websitefeedback@planning.org](mailto:websitefeedback@planning.org).
+We use cookies to deliver our online services. We may also use information collected for data analytics purposes related to our site visitors and app users, for system maintenance, and to understand how visitors use our sites, apps, and services. We utilize third party analytics tools that use cookies or other tracking technologies to generate information on your use of our sites and apps (e.g., your IP address). This information may be transmitted to, and stored by, our third-party service providers. It is used to evaluate our visitor or app user statistics to improve content, navigation, and structure. We or our contractors may also transfer this information to third parties as required by law, or where such third parties process the information on our or our service provider's behalf.
 
-Privacy policy effective date: November 30, 2009
+## How Do We Share the Information We Collect?
+
+APA member information is available to our members through our Membership Directory for use in networking with their peers. Users also have the option of creating their own "My APA" account. They can control how they share information about themselves in that account with others by setting their profile to private, member-only, or publicly-accessible. APA also may share information, including member contact lists, with our chapters and divisions, as well as with:
+
+  * Organizations with a common or complementary mission
+  * Organizations in professions allied with planning
+  * Sponsored research and academic partners
+
+
+
+We may share information with third parties. When we disclose personal information, we obligate the recipient to use that information in accordance with the terms of this Privacy Statement. We may also share your information to fulfill our legal obligations in connection with a lawsuit or similar proceeding; to respond to a matter of personal or public safety; to investigate security incidents; to protect our interests, rights, and property; and to effectuate a sale or transfer of assets or other business transaction. We may also share personal information with regulatory authorities as may be required or requested under applicable law.
+
+Third-Party Links: Our sites and apps may contain links to websites operated by third parties. We do not control these websites or their content, and any information you provide to such sites is governed by the terms of that site's privacy policy. The inclusion of third party sites on our sites or apps in no way constitutes an endorsement of the content, actions, or policies of the sites of others.
+
+## How Do We Secure the Information We Collect?
+
+APA is committed to maintaining your confidence and trust. We take steps to help protect personal information, however, no data transmission over the Internet or electronic storage of information is guaranteed to be secure.
+
+## Changes to This Policy
+
+This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use or share your personal information, you will be notified via email and/or prominent notice within the Services at least 30 days prior to the changes taking effect.
+
+## California Privacy Rights
+
+California residents have the right to annually request and obtain information free of charge about any third parties that received Personal Information from the company during the preceding calendar year for direct marketing purposes by directing a request to the contact information provided below.
+
+Do Not Track Signals: Our websites do not respond to web browser "do not track" signals. APA and its service providers engage in information collection and disclosure practices, including tracking browsing history. We offer choices to all consumers, as described in this Privacy Statement regardless of the "do not track" choice made by the consumer. We may allow ad serving networks and other third parties to engage in online behavioral advertising and activities such as marketing automation.
+
+* * *
+
+### Contact Us
+
+American Planning Association  
+205 N. Michigan Ave, Suite 1200  
+Chicago, IL 60601  
++1-312-431-9100  
+[customerservice@planning.org](mailto:%E2%80%8Bcustomerservice@planning.org)
