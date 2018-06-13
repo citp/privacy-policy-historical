@@ -1,73 +1,110 @@
-> *The following text is extracted and transformed from the postplanner.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226230409id_/https%3A//www.postplanner.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postplanner.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613104806id_/https%3A//www.postplanner.com/terms/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Post Planner
+# Privacy Policy
 
-Effective as of May 31, 2015
+Protecting your private information is our priority. This Statement of Privacy applies to postplanner.com and Post Planner and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Post Planner include postplanner.com and PP. The PP website is a software as a service site. By using the PP website, you consent to the data practices described in this statement.
 
-Post Planner, Inc. (“Post Planner,” “We,” “Us” and “Our”) takes your privacy seriously. Please read this Privacy Policy, which describes the types of information We collect through www.postplanner.com (the “Site”), and how We use that information.
+### Collection of your Personal Information
 
-### A. Overview
+In order to better provide you with products and services offered on our Site, PP may collect personally identifiable information, such as your:
 
-This Privacy Policy is incorporated into and subject to the terms of the Site’s [Terms of Use Agreement](https://web.archive.org/terms). This Privacy Policy covers Post Planner’s treatment of personally identifiable information (“Personal Information”) and other non-personally identifiable information that We gather when you access the Site and when you use Post Planner’s services on the Site to order products or services from Post Planner (the “Services”). By visiting the Site or using the Services, you expressly acknowledge that you accept the practices and policies outlined in this Privacy Policy and consent to Our use and disclosure of your Personal Information in the manner described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or the Services. If you have questions regarding this Privacy Policy, you may contact Us at support at postplanner.com.
-
-### B. Information We Collect
-
-To order products or use some Services on the Site, you will need to provide contact and identity information, billing information, and other Personal Information as indicated. Once you register on the Site, you are no longer anonymous to Us. The information that We gather from you through the Site enables Us to provide, maintain and improve the Site and the Services, personalize your experience, process your requests, and process the requests of others, and includes the following information:
-
-  * Personal Information that you provide to Us including your name, address, email address, phone numbers and other basic contact information, and your preferences and credit card information.
-  * Non-personally identifiable information that We gather on the Site, including your IP address, computer sign-on data, statistics on page views, traffic to and from the Site and individual pages on the Site and data that We may collect through cookies, Web beacons or other means. You can take steps to disable cookies on your browser; however, this may affect your ability to use the Site.
-  * General information regarding the orders you place through the Site.
+  * First and Last Name
+  * Mailing Address
+  * E-mail Address
+  * Phone Number
 
 
 
-### C. Our Use and Disclosure of Your Information
+If you purchase PP's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction.
 
-We may use your Personal Information to:
+We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services available on the Site. These may include: (a) registering for an account on our Site; (b) entering a sweepstakes or contest sponsored by us or one of our partners; (c) signing up for special offers from selected third parties; (d) sending us an email message; (e) submitting your credit card or other payment information when ordering and purchasing products and services on our Site. To wit, we will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.
 
-  * provide the Services and products;
-  * resolve disputes, calculate and collect fees, and troubleshoot problems;
-  * verify users’ identity and the information users provide;
-  * encourage a safe online experience and enforce Our policies;
-  * customize users’ experience, analyze usage of the Site, improve and measure interest in Our Services, and inform users about Services, products and updates;
-  * provide users with information that may affect their use of the Site, the Services and products;
-  * communicate marketing and promotional offers to Our users;
-  * provide customer service; and
-  * perform certain other business activities.
+If you are a citizen of EU, you can submit a request on our website to [delete your data](https://web.archive.org/delete-data) or [get a copy of your data](https://web.archive.org/copy-data) and we'll process it right away.
 
+### Use of your Personal Information
 
+PP collects and uses your personal information to operate its website(s) and deliver the services you have requested. PP may also use your personally identifiable information to inform you of other products or services available from PP and its affiliates.
 
-We do not sell or rent your Personal Information to third parties for their marketing purposes without your explicit consent. We may share and you hereby consent to Our sharing of personal information with the following:
+### Sharing Information with Third Parties
 
-  * Corporate affiliates to help coordinate the Services or products We provide to you, enforce Our Terms of Service and other agreements and to promote trust and safety.
-  * Service providers and others who help with Our business operations and assist in the delivery of the Services and other products to Our users. Examples include, but are not limited to, the following: maintaining servers, sending email, removing repetitive information from user lists, analyzing data, providing marketing assistance, processing payments, reviewing content and providing customer service. Unless We tell you differently, such service providers and other companies and people do not have any right to use Personal Information We share with them beyond what is necessary to assist Us.
-  * Third parties if We believe that disclosure is advisable or necessary to comply with the law, to enforce or apply Our conditions of use and other agreements, or to protect the rights, property or safety of Post Planner, Our employees, Our users or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-  * Entities who acquire Us or assets from Us. In some cases, We may choose to buy or sell assets. In these types of transactions, user information, including your Personal Information, is typically one of the business assets that are transferred. Moreover, if Post Planner, all or Our assets or the Site Were acquired, or in the unlikely event that Post Planner goes out of business or enters bankruptcy, user information, including your Personal Information, would be one of the assets that is transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Post Planner, Our assets or the Site may continue to use your Personal Information as set forth in this Privacy Policy.
-  * Persons or entities with whom you consent to have your Personal Information shared. For instance, when you request information, Services or products from Us, from Our affiliates or a third party through Us, or when you post information to the Site or through the Services, you provide your consent for Us to share that information with others. Please note that whenever you post information on or through the Site or Services you are giving Us your consent to share that information with third parties.
+PP does not sell, rent or lease its customer lists to third parties.
 
+PP may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. PP may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to PP, and they are required to maintain the confidentiality of your information.
 
+PP may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on PP or the site; (b) protect and defend the rights or property of PP; and/or (c) act under exigent circumstances to protect the personal safety of users of PP, or the public.
 
-### D. Third Party Websites & User Files
+### Tracking User Behavior
 
-Emails from Post Planner or its business partners, and the Site itself, may contain links to other Internet Websites, including sites that may or may not be owned or operated by Post Planner. You may also be able to access data, content, code, files or other material in any form that users post to the Site (“User Files”) on or through the Site. Unless otherwise explicitly stated, We are not responsible for the privacy practices or the content of such Websites and User Files, including the use of any information collected when email recipients or the Site’s visitors click through links to those sites or click on or download User Files. If you visit such Websites or use User Files, We encourage you to become familiar with the applicable privacy practices and any terms of use.
+PP may keep track of the websites and pages our users visit within PP, in order to determine what PP services are the most popular. This data is used to deliver customized content and advertising within PP to customers whose behavior indicates that they are interested in a particular subject area.
 
-### E. Accessing, Reviewing and Changing Your Personal Information
+### Automatically Collected Information
 
-You may contact Us at support at postplanner.com to review any Personal Information We store about you that is not available on the Site. There may be a charge associated with such requests.
+Information about your computer hardware and software may be automatically collected by PP. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the PP website.
 
-Additionally, We may retain Personal Information to resolve disputes, enforce Our policies, and as otherwise permitted or required by law.
+### Use of Cookies
 
-### F. Security
+The PP website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-You should know that “perfect security” does not exist on the Internet, regardless of any effort on Our part to protect Our Personal Information, so We make no guarantees. Third parties may unlawfully intercept or access transmissions or private communications and you should not expect that your Personal Information will remain private. Additionally, it is your responsibility to keep your account and Personal Information safe and secure by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize PP pages, or register with PP site or services, a cookie helps PP to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same PP website, the information you previously provided can be retrieved, so you can easily use the PP features that you customized.
 
-### G. Policy Toward Children
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the PP services or websites you visit.
 
-Post Planner is concerned about the safety and privacy of children who use the Internet. Consistent with the Children’s Online Privacy Protection Act of 1998, We will never knowingly request Personal Information from anyone less than 13 years of age without prior verifiable parental consent. If you become aware that your child under 13 years of age has provided Us with Personal Information without prior verifiable parental consent, please contact Us at support at postplanner.com and We will use Our best efforts to promptly remove such information from Our files.
+### Links
 
-### H. Notification of Changes
+This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-We may amend this Privacy Policy at any time by posting the amended terms on the Site. In the event of amendment, all terms shall become effective immediately upon posting to the Site.
+### Security of your Personal Information
 
-### I. Questions or Concerns
+PP secures your personal information from unauthorized access, use, or disclosure. PP uses the following methods for this purpose:
 
-If you have any questions or concerns regarding privacy at the Site, please send a detailed message to support at postplanner.com. We will make every effort to resolve your concerns.
+\- SSL Protocol
+
+When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
+
+We strive to take appropriate security measures to protect against unauthorized access to or alteration of your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) security, integrity, and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed.
+
+### Children Under Thirteen
+
+PP does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+
+### Disconnecting your PP Account from Third Party Websites
+
+You will be able to connect your PP account to third party accounts. BY CONNECTING YOUR PP ACCOUNT TO YOUR THIRD PARTY ACCOUNT (FACEBOOK AND/OR TWITTER), YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED IN THIS MANNER, DO NOT USE THIS FEATURE. You may disconnect your account from a third party account at any time. Users may learn how to disconnect their accounts from third-party websites by visiting our FAQ.
+
+### E-mail Communications
+
+From time to time, PP may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication. In order to improve our Services, we may receive a notification when you open an email from PP or click on a link therein.
+
+If you would like to stop receiving marketing or promotional communications via email from PP, you may opt out of such communications by Customers may unsubscribe from emails by "replying STOP" or "clicking on the UNSUBSCRIBE button.
+
+### External Data Storage Sites
+
+We may store your data on servers provided by third party hosting vendors with whom we have contracted.
+
+### California Privacy Rights and Disclosures
+
+California Shine the Light Law. If you are a California resident and we disclose your personally identifiable information to third parties for such third parties’ direct marketing purposes, California’s Shine the Light Law (CA Civil Code Section 1798.83) allows you to request certain information from us about such disclosures. To make a request under the Shine the Light Law, please contact us at privacy@postplanner.com. Please note that under California law, businesses are not required to respond to such requests more than once during any calendar year.
+
+### Changes to this Statement
+
+PP reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our site, and/or by updating any privacy information on this page. Your continued use of the Site and/or Services available through this Site after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.
+
+### Contact Information
+
+PP welcomes your questions or comments regarding this Statement of Privacy. If you believe that PP has not adhered to this Statement, please contact PP at:
+
+Post Planner
+
+2 Embarcadero Center, 8th Floor
+
+San Francisco, California 94111
+
+Email Address:
+
+privacy@postplanner.com
+
+Telephone number:
+
+_________________
+
+Effective as of April 03, 2018
