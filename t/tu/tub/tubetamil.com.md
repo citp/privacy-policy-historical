@@ -1,153 +1,71 @@
-> *The following text is extracted and transformed from the tubetamil.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219212016id_/http%3A//www.tubetamil.com/tubetamil-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubetamil.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613082522id_/http%3A//www.tubetamil.com/tubetamil-privacy-notice) for the most accurate reproduction.*
 
 # TubeTamil Privacy Notice | Tubetamil.com
 
-  
-The TubeTamil Privacy Policy describes how TubeTamil and its subsidiaries treat  
-personal information when you use TubeTamil services, including information  
-provided when you use TubeTamil. In addition, the following describes privacy  
-practices specific to TubeTamil. To understand how we treat the information you  
-give us as you use TubeTamil, you should read this policy and theTubeTamil  
-Privacy Policy.
+[tubetamil.com](http://www.tubetamil.com/) welcomes you. We value your privacy, and want you to know what information we collect and what we do with it.
 
- **  
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit networkadvertising.org.**
+From time to time, we may make changes to this Policy. We will endeavor to post the changes before they become effective. The effective date of the most recent version of the privacy policy will appear at the top of this page. This consumer privacy policy applies to any information we collect or receive about you, from any source.
 
-###    
-Personal Information
+## Cookies, Web Beacons, and Similar Technologies
 
-  * **Non-Account  
-Activity.**  
-You can watch videos on TubeTamil without having a TubeTamil Account. You  
-can also contact us about a particular video without having a TubeTamil  
-Account. 
-  * **  
-Account-Related Activity.**  
-Certain other activities on TubeTamil—like uploading videos, posting  
-comments, flagging videos, or watching restricted videos—require you to have  
-a TubeTamil Account. We ask for some personal information when you create a  
-TubeTamil Account, including your email address and a password, which is  
-used to protect your account from unauthorized access. 
-  * **Usage  
-Information.**  
-We may record information about your usage, such as when you use TubeTamil,  
-the channels, groups, and favorites you subscribe to, the contacts you  
-communicate with, the videos you watch, and the frequency and size of data  
-transfers, as well as information you display or click on in TubeTamil  
-(including UI elements, settings, and other information). If you are logged  
-in, we may associate that information with your account. We may use clear  
-GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track  
-which emails are opened by recipients. 
-  * **Content  
-Uploaded to Site.**  
-Any personal information or video content that you voluntarily disclose  
-online (on discussion boards, in messages and chat areas, within your  
-playback or profile pages, etc.) becomes publicly available and can be  
-collected and used by others. 
+Like many websites, and web and mobile services, we may use (or work with third party partners who use) a variety of technologies to learn more about how people interact with our Services. This section provides more information about some of those technologies and how they work.
+
+**Cookies** : Cookies are small files that websites and other online services use to store information about users on the users’ own computers. Cookies can be used to store sign-in credentials so that you don’t have to enter them each time you return to a website, or to store other information to make web viewing more customized or efficient upon future visits. Cookies also may store a unique identifier tied to your computer so that web services and advertising networks can recognize you across visits to different websites. You can configure your Internet browser to warn you each time a cookie is being sent or to refuse all or certain cookies completely.
+
+We (or our partners) may use or support cookies for purposes including the following:
+
+  *     * To collect information about your browsing activities in order to deliver customized or relevant services, advertising or content to you (including regarding our own products and content), when you browse our Website or other websites or open the emails we send you;
+
+
+  *     * To relate the information collected by cookies to information we obtain from you directly or from commercially available sources;
+
+
+  *     * To work with third parties that serve advertisements (through our Services or across the Internet) or provide other services to us, such as providing users the ability to comment on content, allowing users to share content, or tracking website usage statistics. We do not control these third party technologies and their use is governed by the privacy policies of the third parties using such technologies. For more information about third party ad networks and services that use these technologies, see [www.aboutads.info](http://www.aboutads.info/), and to learn about or exercise your opt-out options, go to <http://aboutads.info/choices>. To learn more about how third parties may collect and use information online, and how you can exercise opt-out choices regarding that information, see the below Section titled “[Information Collected by Third-Parties and Your Ad & Cookie Choices](http://www.tubetamil.com/tubetamil-privacy-notice).”
+
+
+  *     * **Other Local Storage**  We (or our partners) may use other kinds of local storage, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with the Services. These technologies are similar to the cookies discussed above in that they are stored on your computer and can be used to store certain information about your activities and preferences. However, these objects are stored in different parts of your computer from ordinary browser cookies. Your browser may allow you to disable its HTML5 local storage or delete information contained in its HTML5 local storage. For information about deleting information contained in Local Shared Objects or adjusting related preferences
+
+
+  * **Web Beacons**  We (or our partners) may use technologies called web beacons that communicate information from your Internet browser to a web server. Web beacons can be embedded in web pages, videos, or emails, and can allow a web server to read certain types of information from your browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed the web beacon, the IP address of your computer, and the URL of the web page from which the web beacon was viewed. These web beacons may be used for a variety of purposes, including to analyze the use of the Services and in conjunction with cookies to provide content and ads that are more relevant to you.
 
 
 
-###    
-Uses
+**Tubetamil.com works with third parties, including advertising companies and website analytics firms, who use cookies to collect Non-Personally Identifiable Information (“Non-PII”) when you visit our Site and third party sites. This Non-PII, collected through cookies, is typically used by these third party advertising networks to serve you advertisements tailored to meet your preferences and likely interests, while on third party sites. If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network’s web site individually and opt out, or visit the NAI gateway opt-out site to opt-out of all network advertising cookies.**
 
-  * If you submit  
-personally identifiable information to us through the TubeTamil Sites, we  
-use your personal information to operate, maintain, and provide to you the  
-general and personalized features and functionality of the TubeTamil Sites,  
-and to process any flagging activity or correspondence you send to us.  
+  *     * For more information about these third-party Ad Networks and opting out of tracking through the NAI, visit: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-  * Your account  
-name (not your email address) is displayed to other Users when you upload  
-videos or send messages through the TubeTamil Sites and other Users can  
-contact you through messages and comments. Any videos that you submit to the  
-TubeTamil Sites may be redistributed through the internet and other media  
-channels, and may be viewed by the general public. If you have enabled  
-Active Sharing, other users may see that you, as identified by your account  
-name (not your email address), are watching the same video. 
-  * We do not use  
-your email address or other personally identifiable information to send  
-commercial or marketing messages without your consent or except as part of a  
-specific program or feature for which you will have the ability to opt-in or  
-opt-out. We may, however, use your email address without further consent for  
-non-marketing or administrative purposes (such as notifying you of major  
-TubeTamil Site changes or for customer service purposes). 
-  * We use both  
-your personally identifiable information and certain  
-non-personally-identifiable information (such as anonymous user usage data,  
-cookies, IP addresses, browser type, clickstream data, etc.) to improve the  
-quality and design of the TubeTamil Sites and to create new features,  
-promotions, functionality, and services by storing, tracking, analyzing, and  
-processing user preferences and trends, as well as user activity and  
-communications. 
-  * We use cookies,  
-clear gifs, and log file information to: (a) store information so that you  
-will not have to re-enter it during your visit or the next time you visit  
-the TubeTamil Sites; (b) provide custom, personalized content and  
-information; (c) monitor the effectiveness of our marketing campaigns; (d)  
-monitor aggregate metrics such as total number of visitors, pages viewed,  
-etc.; and (e) track your entries, submissions, and status in promotions,  
-sweepstakes, and contests. If you download the TubeTamil Uploader, your copy  
-of the of the Uploader includes a unique application number. The unique  
-application number and information about your installation of the Uploader (e.g.  
-version number, language) will be sent to TubeTamil when the Uploader  
-automatically checks for updates. 
+
+  *     * For more information about interest-based advertising and opting out through the DAA, visit: <http://www.aboutads.info/choices/>
+
+
+  *     * For more information about disabling and controlling third-party cookies in your browser, visit: <http://www.aboutcookies.org/Default.aspx?page=1>
+
+
+  * For more information on nRelate and opting out of browser history tracking
 
 
 
-###    
-Your Choices
+## Legitimate Interest
 
-  * You may, of  
-course, decline to submit personally identifiable information through the  
-TubeTamil Sites, in which case you can still view videos and explore the  
-TubeTamil Sites, but TubeTamil may not be able to provide certain services  
-to you. 
-  * You may update  
-or correct your personal profile information and email preferences at any  
-time.
-  * You may clear  
-your viewing history at any time through the "Viewing History" feature.  
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy ](http://exponential.com/privacy/)or contact their data protection officer via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
+## With whom we share your information:
 
+We do not share your personally identifiable information with other companies, apart from those acting as our agents in providing our service to you, all of which agree to use it only for that purpose and to keep the information secure and confidential. Also, entities into which our company is merged, or to which our assets, site or operations have been transferred, will be able to use your personal information under the terms of this privacy policy. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency’s request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your information to be shared or transferred to third parties without your permission. We may share (provide and receive) with others certain aggregate service information, which is not personally identifiable. This information may include usage and demographic data, but it will not include personal information (such as your email address). We may use aggregate demographic information about our audience in order to improve our service, for marketing purposes and/or industry reporting purposes.
 
+## Communications with Us:
 
-### Third-party Advertisers, Links  
-to Other Sites
+We have features where you can submit information to us (such as when contacting us with a question or problem related to the service). We will retain your emails and other information you submit to us for our internal purposes, and to help us to serve you better.
 
-  
-TubeTamil allows other companies, called third-party ad servers or ad networks,  
-to serve advertisements within the TubeTamil Sites. These third-party ad servers  
-or ad networks use technology to send, directly to your browser, the  
-advertisements and links that appear on the TubeTamil Sites. They automatically  
-receive your IP address when this happens. They may also use other technologies  
-(such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of  
-their advertisements and to personalize the advertising content you see.
+## Links:
 
-  
-TubeTamil does not provide any personally identifiable information to these  
-third-party ad servers or ad networks without your consent or except as part of  
-a specific program or feature for which you will have the ability to opt-in or  
-opt-out. However, please note that if an advertiser asks TubeTamil to show an  
-advertisement to a certain audience (for example, men ages 18-34) or audience  
-segment (for example, men ages 18-24 who have viewed certain channels of  
-content) and you respond to that advertisement, the advertiser or ad-server may  
-conclude that you fit the description of the audience they are trying to reach.  
-The advertiser may also use information regarding your use of the TubeTamil  
-Sites, such as the number of times you viewed an ad (but not any personally  
-identifiable information), to determine which ads to deliver to you.
+We may display links to other sites within TubeTamil.com. We are not responsible for those other sites, their privacy policies or how they treat information about their members. We advise you to check their privacy policies to find out how they are treating your personal information.
 
-  
-You should consult the respective privacy policies of these third-party ad  
-servers or ad networks for more information on their practices and for  
-instructions on how to opt-out of certain practices. TubeTamil’s privacy policy  
-does not apply to, and we cannot control the activities of, such other  
-advertisers or web sites.
+## Downloads:
 
-### More Information
+We do link to other web sites which might support download. We are not responsible for the downloadable materials that are present in these websites. We are also not responsible for the legalities and privacy policy binding the downloadable materials of these websites. We are also not responsible for the legalities and privacy policy binding these downloads in the websites that our visitors refer to in our forums and discussions. Downloads referred to in this privacy policy can be videos, images, software, games and any application files.
 
-  
+More Information  
 For questions concerning the product or your account, please. For more  
-information about our privacy practices, write to us at:
-
-[  
-tubetamil@hotmail.com](mailto:tubetamil@hotmail.com)
+information about our privacy practices, write to us at:[  
+[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2c58594e49584d4145406c444358414d4540024f4341)
