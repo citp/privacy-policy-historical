@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the konga.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514012702id_/http%3A//www.konga.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konga.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613131159id_/https%3A//www.konga.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Konga Nigeria
 
@@ -22,7 +22,7 @@ Our site links to other websites that may collect personally identifiable inform
 
 Our site has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
 
-konga.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. If you want to remove your contact information from all konga.com lists and newsletters, please visit http://www.konga.com/unsubscribe.php.  **In the future,**  you can unsubscribe by clicking the one-click unsubscribe button located at the bottom of every email
+konga.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. If you want to remove your contact information from all konga.com lists and newsletters, please visit https://www.konga.com/unsubscribe.php.  **In the future,**  you can unsubscribe by clicking the one-click unsubscribe button located at the bottom of every email
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
