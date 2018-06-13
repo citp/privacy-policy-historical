@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the troab.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214053id_/https%3A//troab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troab.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613170836id_/http%3A//www.troab.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Troab
+# Privacy Policy
 
-This Privacy Policy governs the manner in which Trending Post collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://troab.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Trending Post.
+#### Privacy Policy
+
+We do not sell, trade, or rent Users personal identification information to others.
+
+This Privacy Policy governs the manner in which Troab collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.Troab.com](https://www.troab.com/ "Troab") website (“Site”). This privacy policy applies to the Site and all products and services offered by Troab.
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
@@ -18,7 +22,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-Trending Post may collect and use Users personal information for the following purposes:  
+Troab may collect and use Users personal information for the following purposes:  
 – To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
@@ -32,11 +36,11 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 **Changes to this privacy policy**
 
-Trending Post has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Troab has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -45,8 +49,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Trending Post  
-https://troab.com  
-contact@troab.com
+Troab   
+[https://www.troab .com](https://www.troab%20.com/ "Troab")  
+[contact@troab.com](mailto:contact@troab.com "Email to Troab")
 
-_This document was last updated on February 25, 2017_
+_This document was last updated on 7th of September, 2017_
