@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbdigital.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102084444id_/https%3A//www.rbdigital.com/media/RBdigital%2520Gateway%2520Privacy%2520Policy%25202017.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbdigital.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613202522id_/http%3A//www.rbdigital.com/media/RBdigital%2520Gateway%2520Privacy%2520Policy%25202017.pdf) for the most accurate reproduction.*
 
 # 
 
