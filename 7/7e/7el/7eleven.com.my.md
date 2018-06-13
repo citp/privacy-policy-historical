@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7eleven.com.my privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629034102id_/http%3A//www.7eleven.com.my/privacy-policy%3Fpage%3Denglish) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7eleven.com.my privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613160935id_/http%3A//www.7eleven.com.my/privacy-policy%3Fpage%3Denglish) for the most accurate reproduction.*
 
 # 7-Eleven Malaysia | Always There For You
 
@@ -38,18 +38,19 @@ Use of information we collect
 
 Your personal information will be used for the following purposes:- 
 
-1.Process potential staff application for employment  
-2.Verification of staff qualifications and experiences  
-3.To enroll in the statutory bodies to facilitate payment of KWSP/Socso/Income Tax  
-4.Transmission of salaries and other payments  
-5.In case of emergency, to contact the nearest Next of Kin  
-6.To process the details for insurance purposes  
-7.To manage staff training and skills improvement needs  
-8.To contact the customers on complaints, feedbacks and to conduct survey  
-9.To verify payment addresses, information and other matters pertaining to sales/purchases from customers/suppliers and to keep track of receipts/payments history  
-10.Marketing and cross selling of products, promotions and offers  
-11.Your personal information may also be disclosed to other companies within the Group, our strategic partners, merchants, professional advisors, financial institutions and credit bureaus, law enforcement agencies, government agencies  
-12.Your information maybe also be disclosed to a 3rd party as a result of restructuring, sale and acquisition of companies within and outside the group, provided that the onus is on the recipient company to use it for the purpose only 
+1.Process potential franchisee / business application or collaboration.  
+2.Process potential staff application for employment  
+3.Verification of staff qualifications and experiences  
+4.To enroll in the statutory bodies to facilitate payment of KWSP/Socso/Income Tax  
+5.Transmission of salaries and other payments  
+6.In case of emergency, to contact the nearest Next of Kin  
+7.To process the details for insurance purposes  
+8.To manage staff training and skills improvement needs  
+9.To contact the customers on complaints, feedbacks and to conduct survey  
+10.To verify payment addresses, information and other matters pertaining to sales/purchases from customers/suppliers and to keep track of receipts/payments history  
+11.Marketing & research purposes, cross-selling of products, promotions and offers  
+12.Your personal information may also be disclosed to other companies within the Group, our strategic partners, merchants, professional advisors, financial institutions and credit bureaus, law enforcement agencies, government agencies  
+13.Your information maybe also be disclosed to a 3rd party as a result of restructuring, sale and acquisition of companies within and outside the group, provided that the onus is on the recipient company to use it for the purpose only 
 
 Your rights to access, correct or deletion of your personal information
 
