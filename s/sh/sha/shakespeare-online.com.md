@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shakespeare-online.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222102434id_/http%3A//www.shakespeare-online.com/siteinfo/copyright.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shakespeare-online.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613040253id_/http%3A//www.shakespeare-online.com/siteinfo/copyright.html) for the most accurate reproduction.*
 
 # About Shakespeare Online Copyright and Privacy Policy
 
@@ -13,8 +13,6 @@ All information provided by _Shakespeare Online_ is owned by _Shakespeare Online
 Full citation of any original material on this site is required if the material is used on other web sites or in research papers, essays, articles, or any other print medium. The following is a sample citation:
 
 > Mabillard, Amanda. "Horatio." _Shakespeare Online_. 2000. (day/month/year you accessed the page) < http://www.shakespeare-online.com/playanalysis/horatiochar.html >.
-
-There are several resources available to educators and students concerned with the growing problem of plagiarism on the Internet. For those interested, [Plagiarism.org](http://www.plagiarism.org/index.html) and [Turnitin.com](http://www.turnitin.com/) offer methods to detect and fight plagiarism on the web. 
 
 |   
 ---|---
