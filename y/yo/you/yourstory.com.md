@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourstory.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000555id_/https%3A//yourstory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourstory.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613065942id_/https%3A//yourstory.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | YourStory.com
 
@@ -11,6 +11,14 @@ You may choose to give us personal information, such as your name, contact numbe
 We will make a sincere effort to respond in a timely manner to your requests to correct inaccuracies in your personal information. To correct inaccuracies in your personal information please return the message containing the inaccuracies to the sender email id with details of the correction requested.
 
 We sometimes collect anonymous information from visits to our sites to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on YourStory web site, but we do so in ways that keep the information anonymous. YourStory or its affiliates or vendors may use this data to analyze trends and statistics and to help us provide better customer service. We maintain the highest levels of confidentiality for this information, our affiliates and vendors follow the same high levels of confidentiality. This anonymous information is used and analyzed only at an aggregate level to help us understand trends and patterns. None of this information is reviewed at an individual level. If you do not want your transaction details used in this manner, you can either disable your cookies or opt-out by sending an email to [editor@yourstory.com](mailto:editor@yourstory.com)
+
+From May 25, 2018, The General Data Protection Regulation (GDPR) is effective and we at YourStory are committed to protecting information that we collect in the best possible manner. In order to comply with the GDPR we have planned for some changes that include:
+
+  * Opt - in: Where we control the information, we will ensure that your consent is taken before the information is collected. You will also be able to review our updated privacy policy.
+  * Updating our legal agreements to ensure they are GDPR compliant
+  * Updating our systems and processes to meet the requirements of GDPR
+
+
 
 YourStory may, if you so choose, send direct mailers to you at the address given by you. You have the option to ‘opt-out’ of this direct mailer by way of links provided at the bottom of each mailer. We respect your privacy and in the event that you choose to not receive such mailers, we will take all steps to remove you from the list.
 
