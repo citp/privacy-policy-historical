@@ -1,66 +1,77 @@
-> *The following text is extracted and transformed from the smashingapps.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214205522id_/http%3A//www.smashingapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashingapps.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613110715id_/http%3A//www.smashingapps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SmashingApps.com
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+By continuing to use the SmashingApps.com website and its online services on or after May 25, 2018, you indicate that you have read, understand and accept the terms of the SmashingApps.com Privacy Policy.
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+## Who we are
 
-We do not collect information from visitors of our site.
+We are a small interest based blog for designers and developers. Our website address is: http://www.smashingapps.com.
 
-or other details to help you with your experience.
+## What personal data we collect and why we collect it
 
-**When do we collect information?**
-
-We collect information from you when you fill out a form or enter information on our site.
-
-Provide us with feedback on our products or services Giveaway, Contest 
+We collect information from you when you fill out a form or enter information on our site to contact us and/or provide us with feedback on our products or services Giveaway, Contest etc
 
 **How do we use your information?**
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We may use the information:
 
-**•** To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * Respond to inquiries, and/or other requests or questions
+  * To allow us to better serve you in responding to your customer service requests.
+  * To administer a contest, promotion, survey or other site feature.
 
-**•** To improve our website in order to better serve you.
 
-**•** To allow us to better service you in responding to your customer service requests.
 
-**•** To administer a contest, promotion, survey or other site feature.
+**Feedburner subscription to receive updates your email etc**
+
+We are using Google’s feedburner to generate rss feed from SmashingApps.com. If you have subscribed via email to the SmashingApps.com feeds aggregated on Google Feedburner, so you may have received email in your inbox. You can anytime unsubscribed to receive feeds from SmashingApps.com by unsubscribing from Google Feedburner for SmashingApps.com updates.
 
 **How do we protect your information?**
 
-We do not use vulnerability scanning and/or scanning to PCI standards.
+We do not use vulnerability scanning and/or scanning to PCI standards. We only provide articles and information. We never ask for credit card numbers.
 
-We only provide articles and information. We never ask for credit card numbers.
+  * We use regular Malware Scanning.
+  * We do not use an SSL certificate because we do not sell anything and do not ask for any confidential details from our visitors.
 
-We use regular Malware Scanning.
 
-We do not use an SSL certificate
-
-**•** We do not need an SSL because:
-
-we do not sell anything and do not ask for any confidential details from our visitors.
-
-**Do we use ‘cookies’?**
-
-We do not use cookies for tracking purposes
-
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
-
-If you turn cookies off, some features will be disabled. that make your site experience more efficient and may not function properly.
-
-However, you will still be able to place orders .
 
 **Third-party disclosure**
 
 We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
 
-**Third-party links**
-
 Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Google**
+### Comments
+
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+
+### Media
+
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+
+### Contact forms
+
+If you are interested to contact us, you may use our contact form where you may have to submit your Name (Required), Email (Required), Website (user discretion) and in reply your may get a acknowledgement email on your given email address. We will not use your email address for any marketing purpose unless you requested so.
+
+### Cookies
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### **Google**
 
 Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
@@ -78,76 +89,36 @@ Google, as a third-party vendor, uses cookies to serve ads on our site. Google�
 
 **•** DoubleClick Platform Integration
 
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+### Analytics
 
-**Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.**
+We use Google Analytics, Quantcast and Hotjar services.
 
-**California Online Privacy Protection Act**
+## Who we share your data with
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+We never send anyone’s data to anyone unless the visitor participated in any contest and won the reward so the vendor may contact on the given email address to provide the respective giveaway.
 
-**According to CalOPPA, we agree to the following:**
+## How long we retain your data
 
-Users can visit our site anonymously.
+In this section you should explain how long you retain personal data collected or processed by the web site. While it is your responsibility to come up with the schedule of how long you keep each dataset for and why you keep it, that information does need to be listed here. For example, you may want to say that you keep contact form entries for six months, analytics records for a year, and customer purchase records for ten years.
 
-Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. Website administrators can also see and edit that information. Contact form entries will also kept indefinitely for the record purpose only.
 
-Our Privacy Policy link includes the word ‘Privacy’ and can be easily be found on the page specified above.
+## What rights you have over your data
 
-You will be notified of any Privacy Policy changes:
+If you have left comments, you can that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-**•** On our Privacy Policy Page
+## Where we send your data
 
-Can change your personal information:
+Visitor comments may be checked through an automated spam detection service.
 
-**•** By emailing us
+### What data breach procedures we have in place
 
-**How does our site handle Do Not Track signals?**
+We are using Sucuri as a cloud-based security service for our website. It helps us to keep secure from external attacks on our website. But to realizing the fact, we can not guarantee if anything may happen unintentionally.
 
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+**Privacy Policy Changes**
 
-**Does our site allow third-party behavioral tracking?**
-
-It’s also important to note that we do not allow third-party behavioral tracking
-
-**COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under the age of 13 years old.
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via in-site notification
-
-**•** Within 7 business days
-
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
-
-**CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-**We collect your email address in order to:**
-
-**•** Send information, respond to inquiries, and/or other requests or questions
-
-**To be in accordance with CANSPAM, we agree to the following:**
-
-**•** Not use false or misleading subjects or email addresses.
-
-**•** Honor opt-out/unsubscribe requests quickly.
-
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can email us via contact form** **and we will promptly remove you from ALL correspondence.**
+We may change our Privacy Policy from time to time either major or minor. SmashingApps.com requesting to all the the visitors to frequently check this page for any changes in our Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy, you may contact us via contact form
-
-_**Last Edited on 2016-09-17**_
+If there are any questions regarding this privacy policy, you may contact us via contact form.
