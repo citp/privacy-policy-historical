@@ -1,34 +1,39 @@
-> *The following text is extracted and transformed from the dsogaming.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617223844id_/http%3A//www.dsogaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsogaming.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613232155id_/https%3A//www.dsogaming.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DSOGaming
+# Privacy Policy
 
-Privacy Policy for www.dsogaming.com 
+  
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at john2@dsogaming.com. 
 
-At www.dsogaming.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.dsogaming.com and how it is used. 
+##### Privacy Policy – [www.dsogaming.com](https://www.dsogaming.com/)
 
-**Log Files**  
-Like many other Web sites, www.dsogaming.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user?s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+#####  **What information we collect**
 
-**Cookies and Web Beacons**  
-www.dsogaming.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+#####  To prevent abuse and enhance the features of our site, we collect non-personal information such as the IP (internet provider). Sometimes, we may store a file called a cookie on your computer. These non-malicious files are set to delete themselves within a short period of time (usually one day). They are used by us to help our advertisers target their traffic. A cookie may also be saved on your computer by our ad providers (ValueForClick, and Google Adsense) when you click an ad. This is saved on your computer so the advertisers can tell that you’ve already clicked an ad. This saves our advertisers from paying for double and fraudulent clicks.
 
-**DoubleClick DART Cookie**
+##### We use third-party advertising companies to serve ads when you visit our DSOGaming.com. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://networkadvertising.org/).
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.dsogaming.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to www.dsogaming.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
+#####  **We only collect necessary information**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….   
-Google Adsense
+##### The information we collect is only the information which is necessary. No personally identifiable information (such as your phone number, address, name etc) is ever collected unless you have willingly submitted it such as through registration.
 
-Amazon
+#####  **Sites like DSOGaming  use cookies, files which stay on your PC, and you can turn that feature off in your browser if you’re not comfortable with it. There are 3rd-party adverts on this site, and they often collate traffic data and use cookies. You can block their tracking with systems like this one, or any number of other cookie blockers available on the web, such as [Spybot](https://www.safer-networking.org/index2.html).**
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.dsogaming.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+#####  **Security**
 
-www.dsogaming.com has no access to or control over these cookies that are used by third-party advertisers. 
+##### To ensure the highest amount of privacy,  DSOGaming.com is equipped with many security features to protect our files from unauthorized access.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.dsogaming.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+##### Third-Party Tools
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+##### We use Disqus Comments at our website for you to be able to comment at our webpages using Disqus commenting system. Disqus may collect information about you when you register for and use the Service. Such information may include “Personally Identifiable Information” which means information that identifies you as an individual, such information may include, but is not limited to, your name, email address, telephone number, username or account ID, and “Non-Personally Identifiable Information” which means information that does not identify you as an individual. Non-Personally Identifiable Information may include, but is not limited to, information about your browser, your IP address, device ID, what pages you visit on our Partner Sites, which website you came from, what advertisements you clicked on, whether on our Partner Websites, the Service or other third party websites, and other information about your online activity that does not identify you as an individual, in accordance with their data privacy policy: <https://help.disqus.com/terms-and-policies/disqus-privacy-policy>
+
+##### DSOGaming uses some third-party plugins that send request to third party APIs via website-visitor’s web browser to fetch information (like social shares, social comment count). This request made by web browser may include IP address, which can then be seen by the third-party that it’s being requested from. This API request doesn’t include any personal data of the website user other than the IP address.
+
+#####  **Changes to this Privacy Policy**
+
+##### The contents of this policy may be altered at any time, at our discretion.
+
+##### If you have any questions regarding the privacy policy of, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#157f7a7d7b275571667a7274787c7b723b767a78)
+
+  
+
