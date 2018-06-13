@@ -1,126 +1,195 @@
-> *The following text is extracted and transformed from the arsenal.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226003553id_/https%3A//www.arsenal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arsenal.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613022715id_/https%3A//www.arsenal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Club | News | Arsenal.com
 
-**Privacy Policy - The Arsenal Football Club PLC**
+**Summary**  
+The Arsenal Football Club Plc (‘Arsenal’) is committed to protecting your personal data and handling it responsibly. 
 
-**1.  Your Privacy**
+This policy covers the personal data that Arsenal collects whenever you interact with us, including when you use our websites and apps, when you attend events at Emirates Stadium, and when you correspond with us (such as by email or over the phone).  It also covers personal data that we may receive from third parties.  
 
-The Arsenal Football Club PLC (“ **Arsenal** ” or “ **we** ”, “ **our** ” or “ **us** ”) are committed to protecting and respecting your privacy. We are a company incorporated in England and Wales under company number 109244.
+The sections below explain in more detail:
 
-This document (the “ **Privacy Policy** ”) explains our policy regarding any personal information you might supply to us when you visit our websites (the “ **Websites** ”) or via any other route, such as when you: complete forms for membership renewals; attend Arsenal events; or __ engage with us through our mobile applications (the “ **Apps** ”) or our sites on third party social media platforms (including Facebook and Twitter). Our goal is to protect such information and, for the purposes of the Data Protection Act 1998 (the “ **Act** ”), Arsenal will be its ‘ **Data Controller** ’.
+  * the types of personal data we collect from you
+  * the types of personal data we receive from third parties
+  * why we process your personal data
+  * who we share your personal data with
+  * personal data transfers outside of the EEA
+  * how long we retain your personal data
+  * your rights to withdraw your consent and to object (including to direct marketing)
+  * your other personal data rights
+  * how to contact us and exercise your rights
 
-The Websites and Apps contain links to other websites and mobile applications, which are provided for your convenience. We are only responsible for the privacy practices and security of the Websites and Apps. We recommend that you check the privacy and security policies and procedures of each and every other website or mobile application that you visit. 
 
-This Privacy Policy uses some words with special meanings.  These words are identified in bold. If you want to know what any words with special meanings mean, simply scroll back till you find the word in bold, where you will also find the relevant explanation.
 
-**2.  What Information Do We Collect?**
+If you would like to know how we collect information about your use of our websites, apps and social media sites, you can [read our Cookies Policy here](https://www.arsenal.com/cookie-policy).
 
-The information we collect falls into the following categories (together, the “ **Information** ”):
+\------
 
-a) Personal information that you provide to us such as your name, address, telephone numbers, date of birth, credit card number, billing address, email address and details of purchasing preferences (“ **Personal Information** ”), which we use in accordance with this Privacy Policy.
+**Personal data Arsenal collects from you**  
+We ** __** collect personal data from your interactions with us, such as when you engage with our websites and apps, attend an event at Emirates Stadium, or when you email or phone us. 
 
-b) Website and App Use Information - the Websites, the Apps and our social media sites utilise standard technology called “cookies” or similar technologies, along with web server logs, to collect information about how the Website, the Apps and social media sites are used, and information about users.
+The personal data we collect from you includes:
 
-For more information on the cookies and similar technologies that we use and their purpose, please see our Cookies Policy ([ **www.arsenal.com/privacy-cookie-policy**](https://web.archive.org/privacy-cookie-policy)).
+  * the name and contact details that you provide when you register as a member with us
+  * your payment and address details
+  * your marketing preferences, including any consents you have given us
+  * your browser or device information
+  * information about your use of our websites and apps
+  * your communications with us
+  * information about your attendance at Arsenal events, such as matches, concerts and conferences held at Emirates Stadium.  Photos and video footage of you may be taken at these events  
+ 
 
-If you would like further details in respect of the information we collect and hold about you, please contact our Data Protection Officer whose details are set out below.  
 
-When you engage in certain activities on the Websites or engage with Arsenal through another route, for example, by registering on the Websites or as an Arsenal member, purchasing goods and services or entering competitions, we may ask you to provide certain information about yourself by filling out and submitting a form. It is completely up to you whether you engage in these activities.  If you choose to engage in these activities, however, we may require you to provide us with Information.  In some instances, you may also be asked to provide a credit or debit card number.
 
-We may also supplement the Information that you provide with other information that you provide through your interactions with us or which we receive from other organisations and use this combined Information in the particular manner described in Section 5 below.
+\------
 
-**3.  Consent**
+**Personal data Arsenal receives from third parties**  
+Sometimes we receive personal data from third parties, in particular:  
 
-By using the Websites, or by engaging with Arsenal via another route, you indicate your consent to us collecting and using your Information (that you provide to us when interacting with Arsenal) in accordance with the terms of this Privacy Policy, except where we require separate consent from you.
+  * our commercial partners provide us with your name and contact details if you’ve asked to receive information from Arsenal.  [Click here to see a list of our current partners](https://www.arsenal.com/the-club/sponsors-partners)
+  * ticketing providers and overseas ticketing agents let us know if you’ve purchased tickets to an event at Emirates Stadium
+  * access control providers let us know if your tickets have been used at Emirates Stadium  
+  * online personalisation providers tell us how you engage with our websites and apps  
+  * data specialists provide us with insights about our supporters, based on their own aggregated data sets
+  * if you register for Digital Membership using your social media account, the social media platform provides us with information that you have consented to share with us
+  * government and law enforcement authorities provide us with personal identification and background information when they are involved in official inquiries
+  * finance providers may inform us about a credit arrangement you have with them for Arsenal season tickets  
+ 
 
-When you submit Information to us you understand and agree that we and our associated companies (as defined in bold in Section 5 below) may record, transfer, store, and process your Information in any of the countries in which we and our associated companies maintain offices, including without limitation, the United Kingdom.  See also ‘Use of your Information outside the European Union’ (Section 6 below).
 
-If you enter your details into one of our online forms but don’t submit the form to us we may contact you to see if we can help you with any problems you may be experiencing with the form or any queries you might have about our products or services.
 
-If you do not agree to these terms, please do not use the Websites or the Apps, register or purchase goods and services on the Websites, enter competitions, or provide your Information to Arsenal via any other route.
+\------
 
-**4.  Security **
+**Why Arsenal processes your personal data**  
+This section explains the reasons why we process your personal data and our legal bases for doing so.
 
-We take the security of your Information seriously.
+_**Consent**_  
+If you’ve opted-in to receive information and offers relating to the Club and our commercial partners (for example by ticking a box on one of our websites or apps), then we’ll provide this information to you by email, text, or phone.  [Click here for a list of our current partners](https://www.arsenal.com/the-club/sponsors-partners).
 
-We have a committed security policy.  We implement a number of security measures to ensure the safety of any Information in our possession or control. The Information is contained on a secure server, which is accessible only by a limited number of employees who have limited access rights to such information.
+We also rely on your consent to process information about your use of our websites, apps and social media sites, so that we can improve your browsing experience and deliver online advertising that is relevant to you ([for more information, click here to see our Cookies Policy](https://www.arsenal.com/cookie-policy)).
 
-In addition, we have security procedures in place to protect our customer database from loss and misuse, and only allow access to it when absolutely necessary, and then under strict guidelines as to what use may be made of the Information contained within it.
+Wherever we rely on your consent to process personal data, you have a right to withdraw that consent.  Click here for information on how to exercise your rights.
 
-**5.  How Will We Use Your Information?**
+_**Legitimate interests**_  
+We process your personal data when necessary to pursue our legitimate interests in the following:  
 
-We collect your Information to record and support your participation in the activities you select. 
+  * tailoring our websites and communications for you.  We collect information about your engagement with us online (such as pages that you have visited on our websites or apps) and combine that with aggregated insights we have about our supporter base, to build a fuller understanding of your individual preferences
+  * monitoring, improving and protecting our products, content and services
+  * checking the credit or debit card details you provide (to process your payments and prevent fraudulent transactions)
+  * sending you some types of direct marketing, including by email and post
+  * responding to your comments or complaints
+  * undertaking, or inviting you to take part in, market research
+  * querying whether you have had an issue completing an online form
+  * preventing, investigating and/or reporting fraud, terrorism, misrepresentation, security incidents or crime
+  * using incident reports and CCTV footage to: protect the security of our spectators and staff; enforce our ticketing terms and conditions; and to help detect and prevent unlawful activity
+  * managing legal claims, compliance, regulatory and investigative matters
+  * processing job applications received through [www.arsenaljobs.com](http://www.arsenaljobs.com/)
 
-We may use Information:
 
-·       for marketing to you via mail, email, phone, mobile messaging or social media direct messaging, as detailed further below;
 
-·       for record keeping purposes;
+You have a right to object to any processing that we undertake for our legitimate interests. Click here for information on how to exercise your rights.
 
-·       to improve the quality of our service;
+_**Contract**_  
+We process your personal data when necessary for contractual reasons, such as to administer your account registration and competition entries and to provide products and services that you have requested.
 
-·       for market research;
+_**Legal obligation**_  
+We are legally required to process your personal data in cases where we need to:
 
-·       to measure and improve activity on the Websites and Apps;
+  * obtain parental consent to provide online services directly to children
+  * respond to certain requests by government or law enforcement authorities 
+  * comply with local Council safety requirements to collect CCTV footage of particular areas around Emirates Stadium  
 
-·       in connection with targeting/advertising activities; and
 
-·       to understand your preferences so that we can improve the products or services we offer.
 
-We may share and pass your Personal Information (including details of your purchasing preferences) with or to our holding companies, subsidiaries or associated companies in which we have an interest including, without limitation, any of our joint venture organisations (together, our “ **associated companies** ”).  For a list of our associated companies, please contact our Data Protection Officer whose contact details are listed below.
+\------
 
-When you submit Personal Information to Arsenal Jobs ([ **www.arsenal.team.careers**](http://www.arsenal.team.careers/)), this will be used solely in connection with your registration to the site or your application for a particular role and will not be shared with third parties other than those engaged by us in connection with the recruitment process, such as recruitment consultants or agencies.
+**Who Arsenal shares personal data with**  
+We will share your personal data with the following recipients:
 
-We will not send you any unsolicited marketing. Where you have provided us with your consent, we may send you emails or other marketing messages with information and offers relating to Arsenal, as well as information __ and offers which we may send you on behalf of our commercial partners (“ **Partners** ”) (a list of which can be found at [**www.arsenal.com/the-club/sponsors-partners**](http://www.arsenal.com/the-club/sponsors-partners)).  
+  * Arsenal Broadband Limited, a company within the Arsenal Holdings Plc Group, for the purpose of administering our websites and apps
+  * commercial partners, so they can advise us how best to communicate with you on their behalf.  We do not give your data to partners for them to communicate with you directly.  [Click here to see a list of our current partners](https://www.arsenal.com/the-club/sponsors-partners)
+  * Facebook, so that we can display relevant advertising to you on their platform (your data is converted into a unique ID before it is shared with Facebook)
+  * third party suppliers involved in: data insights; website hosting; online personalisation; advertising; systems maintenance; ticketing; database management; identity checking; payment processing; delivery logistics; and credit and debt management   
+  * government authorities or law enforcement officials, to assist with their official requests and comply with our legal obligations  
+  * recruitment and vetting agents, to assist with our recruitment processes  
+  * other football clubs, if we think it’s appropriate to inform them of incidents at Emirates Stadium involving their supporters
+  * The Union of European Football Associations (‘UEFA’), when they ask for information about fans attending matches at Emirates Stadium 
+  * our advisers, any prospective purchaser’s advisers, and any new owners of the business (in the event our business is sold or integrated with another business)
 
-We will never share your Information with our Partners for them to send marketing messages directly to you, however we may share this Information with them so that they can tell us how to market to you on their behalf in the most appropriate way and with the most relevant information.  In all cases, we will take care to ensure that these organisations only process your Information in accordance with this Privacy Policy, your preferences and the law.
 
-If you no longer wish the Information you provide to us to be shared with our Partners in the manner described in this Privacy Policy, or you wish to update your marketing choices in other ways, please follow the procedure set out in Section 9.
 
-As indicated in Section 2, we may also combine your Information with other information that we obtain from our dealings with you or which we receive from other organisations. For example, we may engage reputable third parties to analyse your Information and supplement it with demographic and other statistical information which those third parties hold. By understanding more about you, we can then communicate with you in the most appropriate way and with the most relevant information.  
+\------
 
-In the event of the sale of the business or the integration of the business with another party, we may disclose your Personal Information to advisers or prospective purchasers’ advisers. We may also disclose your Personal Information to third party organisations for the following purposes:
+**Personal data transfers outside of the EEA**  
+The EEA includes all EU countries, as well as Iceland, Liechtenstein and Norway.  Some of the third parties that we share personal data with may need to transfer personal data outside of the EEA, for example to the United States of America.  Click here to see a list of the third parties we share personal data with.
 
-·        to process and deliver orders which you have placed with us;
+Where your personal data is transferred to a country outside of the EEA and that country is not subject to an EU adequacy decision, we will ensure your data is protected by appropriate safeguards (for example, EU approved standard contractual clauses, a Privacy Shield certification, or a supplier’s Binding Corporate Rules).  A copy of the relevant safeguard can be provided for your review on request – click here to see how to contact us.
 
-·        for credit control and debt collection;
+\------
 
-·        to maintain our systems;
+**How long Arsenal retains personal data**  
+We retain personal data about your membership for as long as your account remains active, and for a limited period of time afterwards (in case you decide to reactivate your membership or have queries about it).
 
-·        to comply with any legal obligations or a court order; or
+We retain personal data relating to your purchases for several years from the date of the relevant transaction.  This is to understand your purchasing preferences and to meet our legal and contractual obligations.  If your purchase has enduring relevance (such as a Celebration Corner plaque) then we’ll keep relevant information for as long as we remain responsible to you for that purchase. 
 
-·        to enforce or apply our terms and conditions and other agreements, or to protect our rights or property or those of our customers or others, including for fraud protection or credit risk reduction purposes.
+Where you have asked us not to send you direct marketing, we keep a record of that fact to ensure we respect your request in future. 
 
-Your Personal Information is password-protected to prevent unauthorised access to it. We recommend that you do not divulge your password to anyone.
+We keep a record of call centre recordings for 27 months and CCTV security footage for 30 days, unless we need to hold this data for longer to resolve an issue or to meet a legal requirement.   
 
-**6.  Use of your Information outside the European Union**
+We also retain information with the potential to give rise to legal disputes for 7 years.  
+ 
 
-Some of the organisations (including, without limitation, our associated companies and Partners) to which we may disclose your Information are situated outside of the European Union. In order to provide you with the products and services you require, we may need to transfer your Information to these countries some of which do not have laws that protect privacy rights as extensively as in the United Kingdom. If we do transfer your Information to other territories, we will endeavour to ensure that your Information is properly protected.
+\------
 
-**7.  Policy for Children**
+**Your rights to withdraw consent and to object (including to direct marketing)**  
+Wherever we rely on your consent to process personal data, you always have a **right to withdraw** that consent.  Click here to see the situations where we rely on your consent.
 
-We realise and understand that many children will visit the Websites, use the Apps, or interact with Arsenal via another route, but encourage all persons under 13 to consult with their parents or legal guardian before submitting any content or information to Arsenal. Parents or legal guardians should, in particular, supervise children when online and recommend that parental control tools be put in place. Although anyone known to be under the age of 13 may participate in competitions and promotions, notification of a win or prize will be sent directly to the parent or legal guardian identified in the initial registration process. Any publication of a competition winner’s personal details for visitors known to be under 18 will require parental or legal guardian consent during registration.
+You also have the **right to object** to any use of your personal data for direct marketing purposes, as well as to processing that we undertake based on our legitimate interests (including profiling).  Click here to see the situations where we process data for our legitimate interests.
 
-**8.  Changes to this Privacy Policy**
+Click here for information on how to exercise your rights.  
+ 
 
-We aim to meet high standards and our policies and procedures are, therefore, constantly under review. From time to time we may change our security and privacy policies. Accordingly we recommend that you check this page periodically, or request a copy of the current Privacy Policy from our Data Protection Officer, in order to keep up to date.
+\------
 
-**9.  Updating Information and Marketing Choices**
+**Your other personal data rights**  
+In addition to your rights to withdraw your consent and to object, you have the right to ask us:
 
-You may update or correct the Information we hold about you or your marketing choices by accessing the preference centre, which is available via our communications with you or, at times, your user account settings. Alternatively, you may contact the Data Protection Officer (see contact details below). Please include your name, address, and/or email address when you contact us. We would encourage you to update your Personal Information promptly if it changes.
+  * for **access** to information about your personal data or for a copy of your personal data
+  * to **correct** or **delete** your personal data
+  * to **restrict** (i.e. stop any active) processing of your personal data
+  * to provide you with certain personal data in a **structured, machine readable format** and to transmit that data to another organisation
 
-**10.  Your Rights to Access Your Information**
 
-You have the right to see details of the Information that we hold about you.  We may charge a small fee towards the cost of administering any request you make. The current fee is £10.00.
 
-**11.  How to Contact Us**
+These **rights may not always apply** , for example if fulfilling your request would reveal personal data about another person, or if you ask us to delete information which we are required by law to keep or have a compelling legitimate interest in keeping.  If this is the case then we’ll let you know when we respond to your request.
 
-If you would like any further information or have any comments about our use of your Information, our Privacy Policy or any aspect of the Websites, the Apps or our service, please contact our Data Protection Officer by any of the methods shown below:
+Click here for information on how to exercise your rights.
 
-Email: dataprotection@arsenal.co.uk  
-Post: Data Protection Officer, The Arsenal Football Club PLC, Highbury House, 75 Drayton Park, London N5 1BU
+\------
 
-**LAST UPDATED: 27 SEPTEMBER 2017**
+**How to contact us and exercise your rights**  
+The easiest way to stop receiving information from us is by opting out of communications through your online preference centre (this is linked to in our communications with you and is accessible at times via your account settings).  You can also correct your registration details through your online account.
 
-Copyright 2017 The Arsenal Football Club plc. Permission to use quotations from this article is granted subject to appropriate credit being given to www.arsenal.com as the source.
+We will do our best to assist with any queries you have about your personal data.  You can contact our Data Protection Officer at any time using the contact details below.  When you do so, please provide your full name, your preferred contact information, and a summary of your query.
+
+[dpo@arsenal.co.uk](mailto:dpo@arsenal.co.uk)
+
+| 
+
+Data Protection Officer
+
+Arsenal Football Club  
+Highbury House  
+75 Drayton Park  
+London, N5 1BU
+
+|   
+---|---|---  
+  
+If you have unresolved concerns, you also have the right to complain to an EU data protection authority where you live, work or where you believe a breach may have occurred. This is likely to be the Information Commissioner’s Office in the UK.
+
+**_Last updated 08 May 2018_**
+
+We suggest that you check back here for updates, as we will update this policy from time to time.
+
+Copyright 2018 The Arsenal Football Club plc. Permission to use quotations from this article is granted subject to appropriate credit being given to www.arsenal.com as the source.
