@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earn1kaday.net privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025081747id_/http%3A//e1kad.com/Legal/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earn1kaday.net privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613160434id_/http%3A//e1kad.com/Legal/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
