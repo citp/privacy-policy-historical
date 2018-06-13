@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giggag.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201151147id_/http%3A//giggag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giggag.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613033044id_/http%3A//giggag.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -32,9 +32,45 @@ You should also be aware that if you submit information to "chat rooms," "forums
 
   * ### Cookies
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. GIGGAG uses cookies to help GIGGAG identify and track visitors, their usage of GIGGAG websites, and their website access preferences. GIGGAG visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using GIGGAG's websites, with the drawback that certain features of GIGGAG's websites may not function properly without the aid of cookies.
+Cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-  * ### Ads
+We use cookies to understand and save user's preferences for future visits. 
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies. 
+
+If you turn cookies off, some of the features that make your site experience more efficient may not function properly. 
+
+  * ### Google Analytics
+
+We use Google Analytics to track and analyze our web traffic. **We do not have access to the information collected by Google** apart from what is displayed in our Google Analytics portal. 
+
+We have implemented the following data collection features in Google Analytics: 
+
+_1\. Remarketing with Google AdSense_
+
+**Enables data collection for Display and Search Remarketing. This includes data from Google's signed-in users who have chosen to enable Google to associate their web and app browsing history with their Google account, and to use such information from their Google account to personalize ads. Google Analytics temporarily joins these identifiers to your Google Analytics data in order to support your audiences. When you enable this setting, you must adhere to the Google Analytics Advertising Features Policy, including rules around sensitive categories and the necessary privacy disclosures to your end users about the data you collect and share with Google.**
+
+_2\. Advertising Reporting Features_
+
+**Enables Advertising Reporting features like Audience Demographics and Interests Reporting, DoubleClick Campaign Manager reporting, DoubleClick Bid Manager reporting, and Google Display Network Impression Reporting that help you better understand your users.**
+
+The information collected by Google may be linked to your Google account if you're signed in. Google may also collect information relating to your: 
+
+    * browsing device;
+    * location;
+    * operating system.
+
+Please read Google's Privacy Policy for more information on how your data is collected and used: <https://policies.google.com/privacy>
+
+To opt out of Google's data collection, you may also set your browser to block all cookies, including cookies associated with our services. 
+
+### Google Adsense
+
+We display advertisement powered by Google Adsense. Google Adsense uses the information Google collects to display the most useful ads online. When you're signed in to your Google Account, they will also collect information that they store with your Google account. We do not have access to any data collected by Google for the purposes of advertising. 
+
+You may choose to opt out of personalised advertisements by disabling cookies. 
+
+  * ### Other Ads
 
 Ads appearing on any GIGGAG websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by GIGGAG and does not cover the use of cookies by any advertisers.
 
@@ -60,7 +96,7 @@ Although most changes are likely to be minor, GIGGAG may change its privacy poli
 
   * ### Contact Us
 
-If you have any questions about this privacy policy or our sites in general, please contact us at support@giggag.com.
+If you have any questions about this privacy policy or our sites in general, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 
 
