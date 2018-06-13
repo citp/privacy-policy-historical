@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cecildaily.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223020150id_/http%3A//www.cecildaily.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cecildaily.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613043659id_/http%3A//www.cecildaily.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | cecildaily.com
 
@@ -26,21 +26,23 @@ We know that you care how your information is used, and we appreciate your trust
 
  _Law Enforcement_. If we receive a lawful court order to release account or other personal information then we will comply with the law. We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-### 3\. How Do We Protect the Security of Your Information?
+### How Do We Protect the Security of Your Information?
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
-
-We use encryption to protect your information contained in our customer list.
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We use encryption to protect your information contained in our customer list.
 
 We use a firewall to protect against unlawful intrusion.
 
 We limit access to your information on a need to know basis
 
-We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 
 It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
 No system can guarantee absolute security, just as the finest lock can not guarantee physical security. However, we take every reasonable precaution to assure that your data is secure.
+
+### About Third Party Advertising
+
+Advertisers and third parties also may collect information about your activity on our sites and applications, on devices associated with you, and on third-party sites and applications using tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see both on our sites and applications and on third-party sites and applications, but does not identify you personally and is not associated with your registration account. You may [choose not to receive targeted advertising from many ad networks](http://optout.networkadvertising.org/?c=1#!/), data exchanges, marketing analytics and other service providers. You may also choose to control targeted advertising you receive within applications by using your mobile device settings (for example, by re-setting your device's advertising identifier and/or opting out of interest based ads). We adhere to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising.
 
 ### 4\. Your Choice: Opt-in or Opt-out.
 
