@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227232038id_/http%3A//www.starpulse.com/privacy-policy-1851656594.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613204459id_/http%3A//www.starpulse.com/privacy-policy-1851656594.html) for the most accurate reproduction.*
 
 # Privacy Policy - Starpulse.com
 
@@ -131,8 +131,9 @@ New Uses of Personal Information. From time to time, we may desire to use or dis
 
 Contact Information
 
- _Mailing Address:_
+_Mailing Address:_
 
 Media Holdings, LLC  
-25 Business Park Drive  
-Branford, Connecticut 06405
+24 West Main Street  
+Suite 103  
+Clinton, Connecticut 06413
