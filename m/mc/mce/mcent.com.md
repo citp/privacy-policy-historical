@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mcent.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206133104id_/https%3A//www.jana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcent.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614013623id_/https%3A//www.jana.com/privacy) for the most accurate reproduction.*
 
 # Jana | Privacy Policy
 
 ## Privacy Policy
 
-This Privacy Policy is applicable to [www.jana.com](https://www.jana.com/) and any other site that may be operated by or for Jana Mobile, Inc. (together, the "Websites"). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Jana Mobile, Inc. understands that your online privacy is important to you. We have created the following Privacy Policy to let you know what information we collect on this website, 
+This Privacy Policy is applicable to [www.jana.com](http://www.jana.com/?hsLang=en-us) and any other site that may be operated by or for Jana Mobile, Inc. (together, the "Websites"). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Jana Mobile, Inc. understands that your online privacy is important to you. We have created the following Privacy Policy to let you know what information we collect on this website, 
 
 Please read this privacy policy carefully. Use of this website and your sharing of information with us is subject to the terms and conditions of this Privacy Policy. By using this website or sharing information with us, you give your agreement to this Privacy Policy. The Privacy Policy may be revised or updated at any time by us as further described below.
 
