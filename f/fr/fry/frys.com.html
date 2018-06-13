@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the frys.com privacy policy that was archived on 2017-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171226004650id_/http%3A//frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frys.com privacy policy that was archived on 2018-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180613023700id_/https%3A//frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy%3Fsite%3Dcsfooter_C) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -11,7 +11,7 @@
 
  
 
-  <script async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//s.btstatic.com/tag.js">{'site':'gIgF3sY'}</script><script type="text/javascript" src="//cdn.rlcdn.com/js/ga.js?1580458009766"></script><script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+  <script async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//s.btstatic.com/tag.js">{'site':'gIgF3sY'}</script><script type="text/javascript" src="//cdn.rlcdn.com/js/ga.js?1580458008191"></script><script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
   <script type="text/javascript">
 	var optionSelect;
 	function chgBtnColor() {
@@ -34,9 +34,13 @@
 
 
 <base href="https://frys.com">
+<!-- Turn off telephone number detection. -->
+<meta name="format-detection" content="telephone=no">
 
 
 <link rel="stylesheet" href="/js/menus.css" type="text/css" media="screen">
+
+
 
 
 
@@ -62,7 +66,7 @@ function fnvalidatePhoneNumber(phoneNumbers,id) {
 					  return true;
 				  } 
 				  else {
-					  document.getElementById(id).innerHTML ='* Phone numbers must be 10 digits';
+					  document.getElementById(id).innerHTML ='<font color="#CC3300">* Phone numbers must be 10 digits</font>';
 					  return false;
 				  }
 			  }	  
@@ -135,13 +139,24 @@ function setGoogleRemarketingParam(pagetype,prodid,total){
 
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<link rel="stylesheet" href="css/frys1.0.0.css" type="text/css" media="screen">
+<link rel="stylesheet" href="css/frys1.0.0.css?ver=77" type="text/css" media="screen">
 <link rel="stylesheet" href="js/print.css" type="text/css" media="print">
 <link rel="apple-touch-icon-precomposed" href="https://images.frys.com/art/icons/frys_appicon_071714_57x57.png">
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://images.frys.com/art/icons/frys_appicon_071714_72x72.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://images.frys.com/art/icons/frys_appicon_071714_114x114.png">
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://images.frys.com/art/icons/frys_appicon_071714_144x144.png">
 <meta name="msvalidate.01" content="0489C5FB2EF574231482A9798D012E12">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<!-- MAIN OL ENGINE -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/onlineopinionV5/oo_engine.min.js?ver=77"></script>
+<!-- MAIN OL STYLESHEET -->
+<link rel="stylesheet" type="text/css" href="/onlineopinionV5/oo_style.css?ver=77">
+
+<!-- Custom Stylesheet for frysmain -->
+
+<link rel="stylesheet" type="text/css" href="/onlineopinionV5/oo_style_sub.css?ver=77">
 </head>
 
 <body>
@@ -193,9 +208,14 @@ function setGoogleRemarketingParam(pagetype,prodid,total){
     margin-bottom:5px !important; 
     margin-top:5px !important; 
     border-bottom: 1px solid red !important;
-   }
+   } 
 </style>
 <!-- SCR 485770 -->
+<script>
+   /* jQuery(document).ready(function(){
+  	 jQuery('.modal').insertAfter(jQuery('body'));
+   }); */
+   </script>
 <script type="text/javascript">
 	function getFloatWithoutComma(strValue){
 		var floatValue;
@@ -307,15 +327,28 @@ p#descpt {font-size: x-small;color: gray; }
 $(document).ready(function() {
 	//select all the a tag with name equal to modal	
 	$('a[name=modal]').click(function(e) {
-		//Cancel the link behavior
+		//Cancel the link behaviour
 		e.preventDefault();
-
+		var specButton = $(this).offset();
+		var specHref = $(this).attr('href');
+		
+		$(specHref).parent().prependTo('#MainContainer');
+		$("#mask").prependTo('#MainContainer');
+		$(specHref).css({	
+		display:"block",
+		right: "170px",
+		left: "auto",
+		top: specButton.top + 20 + "px"
+		});
+      
 		//Get the A tag
-		var id = $(this).attr('href');
+		//var id = $(this).attr('href');
 
 		//Get the screen height and width
 		var maskHeight = $(document).height();
-		var maskWidth = $(window).width();
+		
+		var maskWidth = $('body').width();
+		
 
 		//Set heigth and width to mask to fill up the whole screen
 		$('#mask').css({'width':maskWidth,'height':maskHeight});
@@ -323,17 +356,17 @@ $(document).ready(function() {
 		//transition effect
 		$('#mask').fadeOut(1000);
 		$('#mask').fadeTo("slow",0);
-
+ /*
 		//Get the window height and width
 		var winH = $(window).height();
 		var winW = $(window).width();
 
 		//Set the popup window to center
 		$(id).css('top',  winH/2-$(id).height()/2);
-		$(id).css('left', winW/2-$(id).width()/2);
+		$(id).css('left', winW/2-$(id).width()/2);*/
 
 		//transition effect
-		$(id).fadeIn(200);
+		//$(id).fadeIn(200);
 	});
 
 	//if close button is clicked
@@ -393,14 +426,14 @@ function chkWhiteSpace(f) {
 <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 <!-- End. -->
 
-    <link rel="stylesheet" href="css/cohead.css?ver=52" type="text/css" media="screen">
+    <link rel="stylesheet" href="css/cohead.css?ver=77" type="text/css" media="screen">
 
     <style>
     /* Scr#558221  */
     * {
     -webkit-box-sizing: content-box;
     -moz-box-sizing: border-box;
-    box-sizing: content-box;
+    box-sizing: content-box; 
 }
 #pageHeader .navbar-inverse {
      background-color: white; 
@@ -452,8 +485,12 @@ function chkWhiteSpace(f) {
 
         .navbar .dropdown-menu > li > a.maintainHover {
             color: white !important;
+            background-color: #000;
             background:url("https://images.frys.com/art/email/images/right-arrow.png") no-repeat;
-            background-position:right;
+            background-position:center right;
+            background-size:100%;
+            box-sizing: border-box;
+            width: 100%;            
             
             
         }
@@ -688,8 +725,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-1">
                         <a href="https://www.frys.com/template/computerspc">PC Computers</a>
                         <div id="submenu-1" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">PC Computers</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">PC Computers</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -876,12 +913,32 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-2">
                         <a href="https://www.frys.com/template/computersmac">Apple</a>
                         <div id="submenu-2" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Apple</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Apple</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
                             
+
+				
+						<li class="menu_li"><a href="https://www.frys.com/category/Outpost/MACtab/Apple+Watch/">Apple Watch</a></li>
+				
+				
+				
+			     
+
+
+			    
+
+				
+						<li class="menu_li"><a href="https://www.frys.com/category/Outpost/MACtab/iPhone/">iPhone</a></li>
+				
+				
+				
+			     
+
+
+			    
 
 				
 						<li class="menu_li"><a href="https://www.frys.com/category/Outpost/MACtab/Mac+Desktops/">Mac Desktops</a></li>
@@ -945,6 +1002,16 @@ background-color: #eeeeee;
 
 				
 						<li class="menu_li"><a href="https://www.frys.com/category/Outpost/MACtab/Apple+Monitors/">Apple Monitors</a></li>
+				
+				
+				
+			     
+
+
+			    
+
+				
+						<li class="menu_li"><a href="https://www.frys.com/category/Outpost/MACtab/Apple+TV/">Apple TV</a></li>
 				
 				
 				
@@ -1031,8 +1098,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-3">
                         <a href="https://www.frys.com/template/notebook">Laptops</a>
                         <div id="submenu-3" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Laptops</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Laptops</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -1089,8 +1156,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-4">
                         <a href="https://www.frys.com/template/tablets">Tablets</a>
                         <div id="submenu-4" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Tablets</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Tablets</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -1167,8 +1234,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-5">
                         <a href="https://www.frys.com/template/networking">Networking</a>
                         <div id="submenu-5" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Networking</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Networking</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -1302,8 +1369,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-6">
                         <a href="https://www.frys.com/template/pccomponents">PC Components</a>
                         <div id="submenu-6" class="popover" style="width: 500px; max-width: 500px !important;">
-                            <h3 class="popover-title">PC Components</h3>
-                            <div class="popover-content" style="width: 500px;">
+                            <h3 class="popover-title popover-title-custom">PC Components</h3>
+			    <div class="popover-content" style="width: 500px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -1381,7 +1448,7 @@ background-color: #eeeeee;
 			    
 
 				
-				<li class="menu_li"><a href="https://www.frys.com/category/Outpost/PC+Components/SDD+-+HDD+Access/">SDD/HDD Access</a></li>
+				<li class="menu_li"><a href="https://www.frys.com/category/Outpost/PC+Components/SSD+-+HDD+Access/">SDD/HDD Access</a></li>
 			    
 
 
@@ -1564,8 +1631,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-7">
                         <a href="https://www.frys.com/template/ecomponents">Electronic Components</a>
                         <div id="submenu-7" class="popover" style="width: 750px; max-width: 750px !important;">
-                            <h3 class="popover-title">Electronic Components</h3>
-                            <div class="popover-content" style="width: 750px;">
+                            <h3 class="popover-title popover-title-custom">Electronic Components</h3>
+			    <div class="popover-content" style="width: 750px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -1623,6 +1690,36 @@ background-color: #eeeeee;
 
 				
 						<li class="menu_li"><a href="https://www.frys.com/category/Outpost/Electronic+Components/Enclosures/">Enclosures</a></li>
+				
+				
+				
+			     
+
+
+			    
+
+				
+						<li class="menu_li"><a href="https://www.frys.com/category/Outpost/Electronic+Components/Semiconductors+&amp;+I.C./">Semiconductors &amp; I.C.</a></li>
+				
+				
+				
+			     
+
+
+			    
+
+				
+						<li class="menu_li"><a href="https://www.frys.com/category/Outpost/Electronic+Components/Optoelectronics+&amp;+L.E.D./">Optoelectronics &amp; L.E.D.</a></li>
+				
+				
+				
+			     
+
+
+			    
+
+				
+						<li class="menu_li"><a href="https://www.frys.com/category/Outpost/Electronic+Components/Circuit+Protection+&amp;+Fuses/">Circuit Protection &amp; Fuses</a></li>
 				
 				
 				
@@ -1735,6 +1832,11 @@ background-color: #eeeeee;
 				
 				
 			     
+			         </ul></div>
+			         <div style="height: 100%; width: 250px; float: left; ">
+				 <ul style="margin:0; padding:0; list-style-type: none; width: 250px;">
+
+			     
 
 
 			    
@@ -1754,11 +1856,6 @@ background-color: #eeeeee;
 				
 				
 				
-			     
-			         </ul></div>
-			         <div style="height: 100%; width: 250px; float: left; ">
-				 <ul style="margin:0; padding:0; list-style-type: none; width: 250px;">
-
 			     
 
 
@@ -1943,6 +2040,11 @@ background-color: #eeeeee;
 				
 				
 			     
+			         </ul></div>
+			         <div style="height: 100%; width: 250px; float: left; ">
+				 <ul style="margin:0; padding:0; list-style-type: none; width: 250px;">
+
+			     
 
 
 			    
@@ -1952,11 +2054,6 @@ background-color: #eeeeee;
 				
 				
 				
-			     
-			         </ul></div>
-			         <div style="height: 100%; width: 250px; float: left; ">
-				 <ul style="margin:0; padding:0; list-style-type: none; width: 250px;">
-
 			     
 
 
@@ -2118,7 +2215,7 @@ background-color: #eeeeee;
 			    
 
 				
-				<li class="menu_li"><a href="https://www.frys.com/category/Outpost/Electronic+Components/Office+Maintaince+Cleaners+-+Protectors/">Office Maintaince Cleaners/Protectors</a></li>
+				<li class="menu_li"><a href="https://www.frys.com/category/Outpost/Electronic+Components/Office+Maintenance+Cleaners+-+Protectors/">Office Maintaince Cleaners/Protectors</a></li>
 			    
 
 
@@ -2135,8 +2232,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-8">
                         <a href="https://www.frys.com/template/communication">Cell Phones</a>
                         <div id="submenu-8" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Cell Phones</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Cell Phones</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -2193,8 +2290,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-9">
                         <a href="https://www.frys.com/template/audio">Audio</a>
                         <div id="submenu-9" class="popover" style="width: 500px; max-width: 500px !important;">
-                            <h3 class="popover-title">Audio</h3>
-                            <div class="popover-content" style="width: 500px;">
+                            <h3 class="popover-title popover-title-custom">Audio</h3>
+			    <div class="popover-content" style="width: 500px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -2513,8 +2610,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-10">
                         <a href="https://www.frys.com/template/electronics">TV &amp; Video</a>
                         <div id="submenu-10" class="popover" style="width: 500px; max-width: 500px !important;">
-                            <h3 class="popover-title">TV &amp; Video</h3>
-                            <div class="popover-content" style="width: 500px;">
+                            <h3 class="popover-title popover-title-custom">TV &amp; Video</h3>
+			    <div class="popover-content" style="width: 500px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -2776,8 +2873,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-11">
                         <a href="https://www.frys.com/template/cameras">Cameras, Camcorders &amp; Optics</a>
                         <div id="submenu-11" class="popover" style="width: 500px; max-width: 500px !important;">
-                            <h3 class="popover-title">Cameras, Camcorders &amp; Optics</h3>
-                            <div class="popover-content" style="width: 500px;">
+                            <h3 class="popover-title popover-title-custom">Cameras, Camcorders &amp; Optics</h3>
+			    <div class="popover-content" style="width: 500px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -3069,8 +3166,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-12">
                         <a href="https://www.frys.com/template/carelectronics">Car Electronics</a>
                         <div id="submenu-12" class="popover" style="width: 500px; max-width: 500px !important;">
-                            <h3 class="popover-title">Car Electronics</h3>
-                            <div class="popover-content" style="width: 500px;">
+                            <h3 class="popover-title popover-title-custom">Car Electronics</h3>
+			    <div class="popover-content" style="width: 500px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -3299,8 +3396,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-13">
                         <a href="https://www.frys.com/template/b2b">Office Place</a>
                         <div id="submenu-13" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Office Place</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Office Place</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -3497,8 +3594,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-14">
                         <a href="https://www.frys.com/template/software">Software &amp; Books</a>
                         <div id="submenu-14" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Software &amp; Books</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Software &amp; Books</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -3595,8 +3692,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-15">
                         <a href="https://www.frys.com/template/games">Video Games</a>
                         <div id="submenu-15" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Video Games</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Video Games</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -3653,8 +3750,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-16">
                         <a href="https://www.frys.com/template/dvd">Movies, TV Shows &amp; Music</a>
                         <div id="submenu-16" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Movies, TV Shows &amp; Music</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Movies, TV Shows &amp; Music</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -3691,8 +3788,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-17">
                         <a href="https://www.frys.com/template/science">Science</a>
                         <div id="submenu-17" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Science</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Science</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -3799,8 +3896,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-18">
                         <a href="https://www.frys.com/template/healthbeauty">Health, Fitness &amp; Beauty</a>
                         <div id="submenu-18" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Health, Fitness &amp; Beauty</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Health, Fitness &amp; Beauty</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -3927,8 +4024,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-19">
                         <a href="https://www.frys.com/template/appliances">Appliances</a>
                         <div id="submenu-19" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Appliances</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Appliances</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -4082,8 +4179,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-20">
                         <a href="https://www.frys.com/template/bhoffice">Business &amp; Home Office</a>
                         <div id="submenu-20" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Business &amp; Home Office</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Business &amp; Home Office</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -4170,8 +4267,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-21">
                         <a href="https://www.frys.com/template/household">Household &amp; Pet Care</a>
                         <div id="submenu-21" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Household &amp; Pet Care</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Household &amp; Pet Care</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -4208,8 +4305,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-22">
                         <a href="https://www.frys.com/template/toys">Toys, Kids and Baby</a>
                         <div id="submenu-22" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Toys, Kids and Baby</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Toys, Kids and Baby</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -4346,8 +4443,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-23">
                         <a href="https://www.frys.com/template/mattress">Mattresses &amp; Home Furnishing</a>
                         <div id="submenu-23" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Mattresses &amp; Home Furnishing</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Mattresses &amp; Home Furnishing</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -4384,8 +4481,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-24">
                         <a href="https://www.frys.com/template/batteries">Batteries</a>
                         <div id="submenu-24" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Batteries</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Batteries</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -4472,8 +4569,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-25">
                         <a href="https://www.frys.com/template/connectedhome">Connected Home</a>
                         <div id="submenu-25" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Connected Home</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Connected Home</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -4500,8 +4597,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-26">
                         <a href="https://www.frys.com/template/lighting">Lighting</a>
                         <div id="submenu-26" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Lighting</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Lighting</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -4578,8 +4675,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-27">
                         <a href="https://www.frys.com/template/maker">Maker Products</a>
                         <div id="submenu-27" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Maker Products</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Maker Products</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -4646,8 +4743,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-28">
                         <a href="https://www.frys.com/template/netinfrastructure">Network Infrastructure Products</a>
                         <div id="submenu-28" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Network Infrastructure Products</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Network Infrastructure Products</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -4764,8 +4861,8 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-29">
                         <a href="https://www.frys.com/template/security">Security, Surveillance &amp; Safety</a>
                         <div id="submenu-29" class="popover" style="width: 250px; max-width: 250px !important;">
-                            <h3 class="popover-title">Security, Surveillance &amp; Safety</h3>
-                            <div class="popover-content" style="width: 250px;">
+                            <h3 class="popover-title popover-title-custom">Security, Surveillance &amp; Safety</h3>
+			    <div class="popover-content" style="width: 250px;">
                             <div style="height: 100%; width: 250px; float: left; ">
                             <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
                             
@@ -4837,6 +4934,54 @@ background-color: #eeeeee;
                         </div>
                     </div></li>
                     
+					
+                
+                    <li data-submenu-id="submenu-30">
+                        <a href="https://www.frys.com/template/snacks">Snacks, Candy &amp; Beverages</a>
+                        <div id="submenu-30" class="popover" style="width: 250px; max-width: 250px !important;">
+                            <h3 class="popover-title popover-title-custom">Snacks, Candy &amp; Beverages</h3>
+			    <div class="popover-content" style="width: 250px;">
+                            <div style="height: 100%; width: 250px; float: left; ">
+                            <ul style="margin:0; padding:0; list-style-type: none; width: 250px; float:left;">
+                            
+                            
+
+				
+						<li class="menu_li"><a href="https://www.frys.com/category/Outpost/Snacks,+Candy+&amp;+Beverages/Snacks/">Snacks</a></li>
+				
+				
+				
+			     
+
+
+			    
+
+				
+						<li class="menu_li"><a href="https://www.frys.com/category/Outpost/Snacks,+Candy+&amp;+Beverages/Candy/">Candy</a></li>
+				
+				
+				
+			     
+
+
+			    
+
+				
+						<li class="menu_li"><a href="https://www.frys.com/category/Outpost/Snacks,+Candy+&amp;+Beverages/Beverages/">Beverages</a></li>
+				
+				
+				
+			     
+
+
+			        
+
+			    </ul>
+
+                            </div>
+                        </div>
+                    </div></li>
+                    
 
                 </ul>
               </li>
@@ -4850,7 +4995,7 @@ background-color: #eeeeee;
                     <li data-submenu-id="submenu-about">
                         <a href="https://www.frys.com/ac/customerservice/">About Us</a>
                         <div id="submenu-about" class="popover" style="width: 400px;">
-                            <h3 class="popover-title">About Us</h3>
+                            <h3 class="popover-title popover-title-custom">About Us</h3>
                             
 			    
 
@@ -4910,7 +5055,7 @@ environment for the hi-tech professional.
                     <li data-submenu-id="submenu-cust-serv" style="width: 225px;">
                         <a href="https://www.frys.com/ac/customerservice/">Customer Service</a>
                         <div id="submenu-cust-serv" class="popover" style="width: 400px;">
-                            <h3 class="popover-title">Customer Service</h3>
+                            <h3 class="popover-title popover-title-custom">Customer Service</h3>
                             
                             
 			    
@@ -4996,7 +5141,7 @@ environment for the hi-tech professional.
                     <li data-submenu-id="submenu-stores">
                         <a href="https://www.frys.com/ac/storeinfo/storelocator">Our Stores</a>
                         <div id="submenu-stores" class="popover" style="width: 400px;">
-                            <h3 class="popover-title">Our Stores</h3>
+                            <h3 class="popover-title popover-title-custom">Our Stores</h3>
                             
                             
 			    
@@ -5106,14 +5251,14 @@ environment for the hi-tech professional.
 
                 <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#" style="font-weight:normal;border-right:1px solid white;color:#ffffff;text-decoration:none;">my<b>Frys</b></a>
                 <ul class="dropdown-menu" id="dropdown-menu3" role="menu">
-			<li><a href="https://shop3.frys.com//wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1" id="no_arrow" onmouseout="removeArrow()">Your Account</a></li>
-			<li><a href="https://shop3.frys.com//wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1" id="no_arrow" onmouseout="removeArrow()">Track Your Order</a></li>
-			<li><a href="https://shop3.frys.com//wf?a%3DGO_TO_WISHLIST_MAIN%2Cw%3DACCTMAINT=1" id="no_arrow" onmouseout="removeArrow()">Your Wish Lists</a></li>
+			<li><a href="https://www.frys.com/wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1" id="no_arrow" onmouseout="removeArrow()">Your Account</a></li>
+			<li><a href="https://www.frys.com/wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1" id="no_arrow" onmouseout="removeArrow()">Track Your Order</a></li>
+			<li><a href="https://www.frys.com/wf?a%3DGO_TO_WISHLIST_MAIN%2Cw%3DACCTMAINT=1" id="no_arrow" onmouseout="removeArrow()">Your Wish Lists</a></li>
 			<li><a href="https://www.frys.com/workflow/AcctMaint/fryspromocom/subc.jsp" id="no_arrow" onmouseout="removeArrow()">Subscribe Email Specials</a></li>
 			<hr>
 			<li>
                     
-                    <a href="https://shop3.frys.com//wf?a%3DSIGN_IN_BRIDGE%2Cw%3DCHECKOUT=1" id="no_arrow" class="sign_in_head" onmouseout="removeArrow()">Sign In</a>
+                    <a href="https://www.frys.com/wf?a%3DSIGN_IN%2Cw%3DCHECKOUT=1" id="no_arrow" class="sign_in_head" onmouseout="removeArrow()">Sign In</a><!-- SCR#654306 -->
                         
              </li> 
 		
@@ -5423,7 +5568,7 @@ function hidePopUp() {
 		function setSearchCookie()//SCR#595427
 		{
 			// defined in Cartbtnfnc.jsp for recent Search Result in Cookie
-			setSearchResultUrlCookie();
+			
 		}
 	</script>
 </header>
@@ -5438,9 +5583,9 @@ function hidePopUp() {
 	
 	<script type="text/javascript" src="bootstrap/js/jquery.js"></script>
 	<script src="bootstrap/js/bootstrap.min.js"></script>
-	<script src="bootstrap/js/custom.js?ver=52"></script>
-	<script src="js/frysCommon.js?ver=52"></script> 
-	<link rel="stylesheet" href="bootstrap/css/addToCartStyle.css?ver=52">
+	<script src="bootstrap/js/custom.js?ver=77"></script>
+	<script src="js/frysCommon.js?ver=77"></script> 
+	<link rel="stylesheet" href="bootstrap/css/addToCartStyle.css?ver=77">
 	
 
 
@@ -5574,29 +5719,8 @@ function noPsc(elementId,x,prod_id){
 	        
 	    }
 }
-//SCR#595427
-//set current Url as Coookie value 
-function setSearchResultUrlCookie() {
-
-			var currentHref = window.location.href;
-			var base_url=currentHref.substring(0, currentHref.indexOf("com")+3);
-			
-			$.ajax({
-		           type: 'POST',
-		           data: {recentSearchUrl: currentHref},
-		           url:  base_url+'/include/RecentSearchCookies.jsp',
-		          /*  success : function() {	
-	               },
-	               error : function(xhr,e) {	            	   
-	            	   console.debug(xhr); 
-	           		   console.debug(e);
-	           	     } */ 
-		    });	
-}
-
 function addToCartBtnHome(plu_id ){
 
-			setSearchResultUrlCookie(); //SCR#595427
 			var cartUrl = '/template/inc/price/addToCartModal.jsp?sku='+plu_id;
 			 var chkMedia = 'Desktop' ;
 			if(chkMedia == 'Mobile' ){
@@ -5607,7 +5731,6 @@ function addToCartBtnHome(plu_id ){
 }
 
 function addToCartBtnSearchDownload(plu_id ){
-	setSearchResultUrlCookie();//SCR#595427
 	 var cartUrl = '/template/inc/price/add2DownloadPopup.jsp?sku='+plu_id;
 	 var chkMedia = 'Desktop' ;
 	 	/*  $.ajax({
@@ -5625,9 +5748,9 @@ function addToCartBtnSearchDownload(plu_id ){
 }
 //#644953 (start)
 function addToCartBtnClickDetail() {
-	var first_name = jQuery("#form-firstName").val();
-	var last_name = jQuery("#form-lastName").val();
-	var email = jQuery("#form-email").val();
+	var first_name = jQuery("#form-firstName").val(jQuery.trim(jQuery("#form-firstName").val()));
+	var last_name = jQuery("#form-lastName").val(jQuery.trim(jQuery("#form-lastName").val()));
+	var email = jQuery("#form-email").val(jQuery.trim(jQuery("#form-email").val()));
 	var plu = jQuery("#col_sku").val();
 	var fromCFDPopup = jQuery("#fromClickForDetailForm").val();
 	var isValidated = validateClickDetailForm(first_name, last_name, email); 
@@ -5645,29 +5768,40 @@ function addToCartBtnClickDetail() {
 	var first_name = jQuery("#form-firstName").val();
 	var last_name = jQuery("#form-lastName").val();
 	var email = jQuery("#form-email").val();
-	var letters ="^[a-z A-Z]+$";
+	var letters ="^[a-zA-Z]+$";
 	var emailRegex = new RegExp(/^([\w\.\-]+)@([\w\-]+)((\.(\w){2,4})+)$/i);
     var valid = emailRegex.test(email);
 	var isFieldsValidated = true;
     //apply validations on all fields.
     if (!first_name.match(letters) || first_name.length == 0) {
 		isFieldsValidated = false;
-    	jQuery("#error_msg_firstName").html("*Please fill out your first name.");
+    	jQuery("#error_msg_firstName").html("*Please enter your first name.");
     	jQuery("#error_msg_firstName").css("color","red");
     	jQuery("#error_msg_firstName").css("font-size","11px");
-		jQuery('firstName').focus();
-    }if(!last_name.match(letters) || last_name.length == 0) {
+		jQuery('firstName').focus();		
+    }
+    else {
+    	jQuery("#error_msg_firstName").text("");    	
+    }
+    if(!last_name.match(letters) || last_name.length == 0) {
 		isFieldsValidated = false;
-    	jQuery("#error_msg_lastName").html("*Please fill out your last name.");
+    	jQuery("#error_msg_lastName").html("*Please enter your last name.");
     	jQuery("#error_msg_lastName").css("color","red");
     	jQuery("#error_msg_lastName").css("font-size","11px");
     	jQuery('lastName').focus();
-    }if(!email.match(emailRegex) || email.length == 0){
+    }
+    else {
+    	jQuery("#error_msg_lastName").text("");    	
+    }
+    if(!email.match(emailRegex) || email.length == 0){
 		isFieldsValidated = false;
     	jQuery("#error_msg_email").html("*Please enter valid email address.");
     	jQuery("#error_msg_email").css("color","red");
     	jQuery("#error_msg_email").css("font-size","11px");
     	jQuery('email').focus();
+    }
+    else {
+    	jQuery("#error_msg_email").text("");    	
     }
 	if (isFieldsValidated) {
 			return true;
@@ -5678,17 +5812,33 @@ function addToCartBtnClickDetail() {
 
 	function addToCartBtnSearchClickDetail(plu_id, first_name, last_name, email, fromCFDPopup) {
 		jQuery("#clickForDetailsModal").modal('hide');
-		setSearchResultUrlCookie();
 		var currentHref = window.location.href;
 		var base_url = currentHref.substring(0, currentHref.indexOf("com") + 3);
 		var chkMedia = 'Desktop' ;
+		
+		var item_quantity = jQuery(".itm_qnty").val();
+		 var psc_plu = jQuery("#PSC_plu").val();
+		 var desktopCartUrl =null;
+		 var mobileCartUrl =null;
+		if(item_quantity != null){
+			if(psc_plu != null && psc_plu.length != 0){
+				desktopCartUrl = "/ShopCartServlet?action=add_item&form_plu=" + plu_id +"&firstname=" + first_name +"&lastname=" + last_name +"&email=" + email + "&fromClickForDetailForm=" + fromCFDPopup+"&item_qty="+item_quantity+"&purchase="+psc_plu+"&isPscExist=true";
+				mobileCartUrl ="/template/inc/price/addToCartModal-m.jsp?sku="+plu_id+"&firstname=" + first_name +"&lastname=" + last_name +"&email=" + email + "&fromClickForDetailForm=" + fromCFDPopup+"&item_qty="+item_quantity+"&purchase="+psc_plu+"&isPscExist=true";
+			}else{
+				desktopCartUrl = "/ShopCartServlet?action=add_item&form_plu=" + plu_id +"&firstname=" + first_name +"&lastname=" + last_name +"&email=" + email + "&fromClickForDetailForm=" + fromCFDPopup+"&item_qty="+item_quantity;
+				mobileCartUrl ="/template/inc/price/addToCartModal-m.jsp?sku="+plu_id+"&firstname=" + first_name +"&lastname=" + last_name +"&email=" + email + "&fromClickForDetailForm=" + fromCFDPopup+"&item_qty="+item_quantity;
+			}
+	 }else{
+		 desktopCartUrl = "/ShopCartServlet?action=add_item&form_plu=" + plu_id +"&firstname=" + first_name +"&lastname=" + last_name +"&email=" + email + "&fromClickForDetailForm=" + fromCFDPopup;
+		 mobileCartUrl ="/template/inc/price/addToCartModal-m.jsp?sku="+plu_id+"&firstname=" + first_name +"&lastname=" + last_name +"&email=" + email + "&fromClickForDetailForm=" + fromCFDPopup;
+	 }
 		if(chkMedia == 'Mobile') {
-			 window.location.href = '/template/inc/price/addToCartModal-m.jsp?sku='+plu_id+'&firstname=' + first_name +'&lastname=' + last_name +'&email=' + email + '&fromClickForDetailForm=' + fromCFDPopup;
+			 window.location.href =mobileCartUrl;
 		} else {
 		 	 $.ajax({
 		       type: "POST", 
 			   contentType: "text/html",
-		       url: base_url+"/ShopCartServlet?action=add_item&form_plu=" + plu_id +"&firstname=" + first_name +"&lastname=" + last_name +"&email=" + email + "&fromClickForDetailForm=" + fromCFDPopup,
+		       url: base_url+desktopCartUrl,
 		       dataType: "html"
 		     }).done(function (data) {
 	    		  	$("#addToCartModal").find(".modal-content").html(data);		
@@ -5698,15 +5848,30 @@ function addToCartBtnClickDetail() {
 //#644953 (end)
 
 	function addToCartBtnSearch(plu_id) {
-		setSearchResultUrlCookie();//SCR#595427
 		 //var cartUrl = '/template/inc/price/addToCartModal.jsp?sku='+plu_id;  
+		 var item_quantity = jQuery(".itm_qnty").val();
+		 var psc_plu = jQuery("#PSC_plu").val();
+		 var desktopCartUrl =null;
+		 var mobileCartUrl =null;
+		if(item_quantity != null){
+			if(psc_plu != null && psc_plu.length != 0){
+				desktopCartUrl = "/ShopCartServlet?action=add_item&form_plu=" + plu_id+"&item_qty="+item_quantity+"&purchase="+psc_plu+"&isPscExist=true";
+				mobileCartUrl ="/template/inc/price/addToCartModal-m.jsp?sku="+plu_id+"&item_qty="+item_quantity+"&purchase="+psc_plu+"&isPscExist=true";
+			}else{
+				desktopCartUrl = "/ShopCartServlet?action=add_item&form_plu=" + plu_id+"&item_qty="+item_quantity;
+				mobileCartUrl ="/template/inc/price/addToCartModal-m.jsp?sku="+plu_id+"&item_qty="+item_quantity;
+			}
+	 }else{
+		 desktopCartUrl = "/ShopCartServlet?action=add_item&form_plu=" + plu_id;
+		 mobileCartUrl ="/template/inc/price/addToCartModal-m.jsp?sku="+plu_id;
+	 } 
 		 var chkMedia = 'Desktop' ;
 		 if(chkMedia == 'Mobile') {
-			 window.location.href = '/template/inc/price/addToCartModal-m.jsp?sku='+plu_id;
+			 window.location.href =mobileCartUrl; 
 		 } else {
 		 	 $.ajax({
 		       type: "GET",
-		       url:"/ShopCartServlet?action=add_item&form_plu=" + plu_id,
+		       url:desktopCartUrl,
 		       dataType: "html"
 		     }).done(function (data) {
 		    		// $("#addToCartModal").find(".modal-content").load(cartUrl);	
@@ -5716,7 +5881,6 @@ function addToCartBtnClickDetail() {
 	}
 //589760
  function addToCartBtnHomeNew(plu_id,neareststorename,defaultstoreno){
-	 setSearchResultUrlCookie();//SCR#595427
 	// var cartUrl = '/template/inc/price/addToCartModal.jsp?sku='+plu_id+'&neareststorename='+neareststorename+'&defaultstoreno='+defaultstoreno;		
 	var cartUrl  = "/ShopCartServlet?action=add_item&form_plu=" + plu_id+'&neareststorename='+neareststorename+'&defaultstoreno='+defaultstoreno;	
 	 var chkMedia = 'Desktop' ;
@@ -5728,10 +5892,9 @@ function addToCartBtnClickDetail() {
 	} 
  	
  function addToCartBtnSearchNew(plu_id,neareststorename,defaultstoreno){
-	 	setSearchResultUrlCookie();//SCR#595427
 		 var chkMedia = 'Desktop' ;
 		 if(chkMedia == 'Mobile' ){
-   		  window.location.href = '/template/inc/price/addToCartModal-m.jsp?sku='+plu_id;
+   		  window.location.href = '/template/inc/price/addToCartModal-m.jsp?sku='+plu_id+'&neareststorename='+neareststorename+'&defaultstoreno='+defaultstoreno;
    	 	 }  else {
 		 	 $.ajax({
 		       type: "GET",
@@ -6127,7 +6290,25 @@ Last Updated: February 26, 2015
 
 
 	<!-- Our Fair Footer -->
-	<footer>
+	
+
+
+
+
+	
+	<!-- FEEDBACK CONFIGURATION -->
+	<script language="javascript" type="text/javascript" charset="windows-1252" src="/onlineopinionV5/oo_conf_tab.js?ver=77">
+	</script>
+	<!-- END: OnlineOpinion v5+ -->
+	
+
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/onlineopinionV5/oo_conf_waypoint.js?ver=77">
+</script>
+
+
+
+<footer>
+
 
 
 
@@ -6391,7 +6572,7 @@ margin: 10px 0px 0px 0px;
 <br><a href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A5CheckingOut?site=csfooter_G">Checking Out</a><br><a href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A2FindingProducts?site=csfooter_G">Finding Products</a><br><a href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A3ExploringProducts?site=csfooter_G">Exploring Products </a><br><a href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A4UsingtheCart?site=csfooter_G">Using the Cart</a><br><a href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A11WarrantiesRebates?site=csfooter_G">Warranties</a><br><!--<a href="/template/buying_guide/index?site=csfooter_G">Buying Guides</a>-->
       </div>
       <div id="servicefoot2" style="text-align:left">
-        <b>Fry's Stores</b><br><a href="https://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases?site=csfooter_B#06">30-Day Satisfaction Guarantee</a><br><a href="https://www.frys.com/lowpriceguarantee">30-Day Price Match Promise </a><br><a href="/rebates?site=csfooter_B">Rebate Center</a><br><a href="https://www.frys.com/ads/view-all-store-ads?site=csfooter_B">Store Ads</a><br><a href="/ac/storeinfo/storelocator/?site=csfooter_B">Store Hours and Locations</a><br><a href="/template/inHomeServices?site=csfooter_B">Store Services</a><br><a href="https://images.frys.com/art/storemaps/images/servicedelivery.jpg">Installation &amp; Delivery</a>
+        <b>Fry's Stores</b><br><a href="https://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases?site=csfooter_B#06">30-Day Satisfaction Guarantee</a><br><a href="https://frys.com/utm_src/page006.jsp?utm_source=pricematch&amp;utm_medium=vanityurl&amp;utm_campaign=pricematchoffline">30-Day Price Match Promise </a><br><a href="/rebates?site=csfooter_B">Rebate Center</a><br><a href="https://www.frys.com/ads/view-all-store-ads?site=csfooter_B">Store Ads</a><br><a href="/ac/storeinfo/storelocator/?site=csfooter_B">Store Hours and Locations</a><br><a href="/template/inHomeServices?site=csfooter_B">Store Services</a><br><a href="https://images.frys.com/art/storemaps/images/servicedelivery.jpg">Installation &amp; Delivery</a>
 
 <!--Column 2 Upper-->
 <br><a href="/template/help/index/FE30/Service3/Assistance/Left_Topics/A7PaymentMethods?site=csfooter_B#giftcards">Gift Cards</a><br><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/A2DomesticShipping?site=csfooter_B#in-store_pickup">In-Store Pick Up</a><br><br><br><br>
@@ -6409,7 +6590,7 @@ margin: 10px 0px 0px 0px;
 <br><a href="/rebates?site=csfooter_A">Rebate Center</a>
 
 <br><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/B4IntlShipping?site=csfooter_A">International</a>
-<br><a href="/template/search/explain_ship?site=csfooter_A#pre-orders">Pre-Orders</a><br><a href="/template/search/explain_ship?site=csfooter_A#backorders">Backorders</a><br><a href="https://www.frys.com/template/help/index/FE30/Shipping/ShipsFree?site=csfooter_A">Free Shipping</a><br><br><br><b>Account Info</b><br><a href="https://shop2.frys.com//wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1?site=csfooter_E">View Your Order History </a><br><a href="https://shop2.frys.com//wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1?site=csfooter_E">Track Your Order</a><br><a href="https://shop2.frys.com//wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1?site=csfooter_E">Manage Your Account</a><br><a href="https://shop2.frys.com//wf?a%3DADD_WISHLIST_ITEM%2Cw%3DACCTMAINT=1&amp;x=16414857:2:2260571.0?site=csfooter_E">Wish List</a>
+<br><a href="/template/search/explain_ship?site=csfooter_A#pre-orders">Pre-Orders</a><br><a href="/template/search/explain_ship?site=csfooter_A#backorders">Backorders</a><br><a href="https://www.frys.com/template/help/index/FE30/Shipping/ShipsFree?site=csfooter_A">Free Shipping</a><br><br><br><b>Account Info</b><br><a href="https://www.frys.com//wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1?site=csfooter_E">View Your Order History </a><br><a href="https://www.frys.com//wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1?site=csfooter_E">Track Your Order</a><br><a href="https://www.frys.com//wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1?site=csfooter_E">Manage Your Account</a><br><a href="https://www.frys.com//wf?a%3DADD_WISHLIST_ITEM%2Cw%3DACCTMAINT=1&amp;x=16414857:2:2260571.0?site=csfooter_E">Wish List</a>
       </div>
     </div>
 
@@ -6426,7 +6607,7 @@ Find us: &nbsp;&nbsp;<a href="http://plus.google.com/105770605049937525517"><img
       </div>
 
 
-       <div id="bottom2" style="text-align:left" font-color="#555454">Copyright© 1995-2017 Fry's Electronics, Incorporated. <br>All rights reserved.Fry's Electronics, Frys.com and Outpost.com <br>are registered trademarks of Fry's Electronics, Incorporated.
+       <div id="bottom2" style="text-align:left" font-color="#555454">Copyright© 1995-2018 Fry's Electronics, Incorporated. <br>All rights reserved.Fry's Electronics, Frys.com and Outpost.com <br>are registered trademarks of Fry's Electronics, Incorporated.
       </div>
       
             <div id="bottom3" style="text-align:left" font-color="#555454">
@@ -6500,7 +6681,7 @@ s.parentNode.insertBefore(tagjs, s);
 
 
 
-<p style="font-size: 6px; color: #ddd;">107</p>
+<p style="font-size: 6px; color: #ddd;">112</p>
 
 </td>
 </tr>
@@ -6543,6 +6724,11 @@ g.src = 'https://apis.google.com/js/plusone.js';
 s.parentNode.insertBefore(g, s);
 })(document, 'script');
 </script>
+<!-- Redmine : #9312 SessionId in footer -->
+<div style="font-size:  10px;color:gray;">
+jback112
+
+</div>
 </footer>
 </div> <!--MainContainer -->
 
