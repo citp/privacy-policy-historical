@@ -1,262 +1,108 @@
-> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119090244id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotelab.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613132619id_/http%3A//www.quotelab.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - QuoteLab.com
 
-## Insurance Library
+At MediaAlpha, protecting your personal information is a top priority. This Privacy Policy provides details on how we treat your personal information. QuoteLab, LLC, which does business as MediaAlpha ("we" or “us”), is the Data Controller with respect to information collected on the websites we own.
 
-  * [Auto Insurance 101](https://web.archive.org/auto-insurance-101.html)
-  * [Your Coverage](https://web.archive.org/your-coverage.html)
-  * [Saving Money](https://web.archive.org/saving-money.html)
-  * [Filing a Claim](https://web.archive.org/filing-a-claim.html)
-  * [Insurance in Your State](https://web.archive.org/insurance-in-your-state.html)
-  * [Agent's Corner](https://web.archive.org/agents-corner.html)
-  * [FAQs](https://web.archive.org/faqs.html)
+Please note that this Privacy Policy applies only to:
+
+  * information collected through this website, QuoteLab.com, along with any other website owned and operated by MediaAlpha (the “Sites”);
+  * information you enter into our forms appearing on third-party websites;
+  * certain limited information regarding your interaction with advertiser sites following a visit to our Sites, solely for attribution and optimization purposes;
+  * information obtained during phone calls to us that you initiate, or that we or our partners may initiate with your prior consent; and
+  * any other information you choose to provide to us.
 
 
 
-## QuoteLab.com
+This Privacy Policy does not apply to websites maintained by other companies or to which we may link (except for the limited situation set forth above), or to any information you may provide directly to an insurance agent or carrier, travel agent, or other service provider who you are connected with through our service.
 
-  * [About Us](https://web.archive.org/about-us.html)
-  * [Contact Us](https://web.archive.org/contact-us.html)
-  * [Privacy Policy](https://web.archive.org/privacy-policy.html)
-  * [Terms of Use](https://web.archive.org/terms-of-use.html)
+#### Information We Collect and Use
 
-| 
+We collect and use personal information about you to respond to your request for products and services offered through the Sites. Specifically, we collect information provided by you in connection with obtaining price quotes or rates. For example, you may be asked to provide your name, address, telephone number, email, and other information in order to be matched to insurance carriers and agents who may provide you a quote for their insurance services. Or you may be asked to provide home and destination airports and travel dates so that we can show you flight and hotel options.
 
-At QuoteLab, privacy is a top priority, and we are committed to protecting the personal information of our customers. This Privacy Policy provides details on how we treat any personal information you may submit to us. This Privacy Policy applies to this website, QuoteLab.com (the “Site”), which is made available by QuoteLab, LLC. (“we“ or “us”). Please note that this Privacy Policy applies only to information collected through the Site and not to websites maintained by other companies or organizations to which we link.
+We may also collect other information such as gender, zip code, or other demographic information that is not tied to your personal information. Included in this demographic information is your IP address, which is treated as personal information in some jurisdictions, but which we use only to identify your geographic area and for legal compliance purposes.
 
-**Information We Collect and Use**
+In addition, we might receive information about you from other online or offline sources and may combine that information with the information you have provided.
 
-We will collect and use personal information about you to respond to your request for products and services offered through the Site. Specifically, we collect information provided by you in connection with obtaining quotes for insurance products and services. For example, you will be asked to provide your full name, address, telephone number, email, and other information in order to be matched to insurance carriers and agents who may provide you a quote for their insurance services.
-
-We also collect demographic information. Demographic information is all other information such as gender, zip code, or any information that is not tied to your personal information. In addition, we might receive information about you from other online or offline sources and may add that information to your existing account.
-
-**Information Sharing and Disclosure**
+#### Information Sharing and Disclosure
 
 We share personal information about you under the following circumstances:
 
-Insurance Quote Requests. If you submit a request on the Site for quotes for insurance products or services, we will share the personal information contained in your request form (such as your full name, address, telephone number, email, information about your cars, etc.) with third parties, which include insurance agents, insurance carriers, lead aggregators, and other insurance service providers (“Service Providers”) in our network to process and fulfill your request for insurance quotes. In some circumstances, we may obtain additional information about you and/or share that information with Service Providers in our network.
+Quote Requests. If you submit a request for price quotes for insurance products or other products or services, we will share the personal information contained in your request form (such as your name, address, telephone number, email, information about your cars, travel destination, etc.) with third parties, which may include agents, carriers, lead aggregators, and other service providers in our network, to process and fulfill your request.
 
-All Service Providers in our network have entered into agreements with us which require them to secure any personal information provided through the Site and limit how they can use such information. These Service Providers are also required to comply with federal and state privacy regulations. By submitting your request to us, you understand that Service Providers may contact you by telephone (including through automated calling or on a recorded line), email, or regular mail based on the information you provided to us in order to process and fulfill your request, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of QuoteLab or one of these Service Providers. If one of the Service Providers contacts you and you wish not to be contacted again by that Service Provider with respect to your inquiry, then you should specifically make a request to that Service Provider. Please note that the Service Providers may maintain the information you provided whether or not you elect to use their services.
+Our agreements require service providers to secure any personal information we provide to them and limit how they can use such information. Our agreements also require these service providers to comply with national, state and other applicable privacy regulations. By submitting your request to us, you understand that service providers may contact you by telephone (including through automated calling or using recorded messages), email, or regular mail based on the information you provided to us, in order to process and fulfill your request, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, or any similar mechanism to opt-out of receiving phone calls or email messages.
 
-Here's the full list of Service Providers currently in our network: 
+If one of the service providers contacts you and you wish not to be contacted again by that service provider, then you should specifically make a request of them. Please note that service providers may maintain the information you provided whether or not you elect to use their services.
 
-  * 21st Century
-  * AARP Medicare Advantage
-  * ABM Health
-  * AccuQuote
-  * Acquisition Technologies
-  * Aetna
-  * AgileHealthInsurance.com
-  * AIG Direct
-  * AIS
-  * All Web Leads
-  * Alliance
-  * Allied Coverage
-  * Allied Health
-  * Allstate
-  * American Agents Alliance
-  * American Benefits Group 
-  * Ameriquote
-  * Answer Financial
-  * Astoria Company
-  * Auto Insurance Guide
-  * Avenge Digital
-  * Avenue I Media
-  * Bantam Connect
-  * Bianco Insurance
-  * Blue Wing Ads
-  * Bold Media
-  * Cege Media
-  * Choice Insurance
-  * CompareInsuranceQuotes
-  * CountryWide - Debt Transfers
-  * Crosspointe Insurance Advisors
-  * Datalot
-  * Debt.com
-  * Direct Web Advertising
-  * Efinancial
-  * Enterprise Inbound Sales
-  * EPIQ
-  * Equita Group
-  * Equita Group Final Expense Services
-  * Every Choice Insurance
-  * Exact Match Media
-  * Excel Impact
-  * FirstQuoteHealth.com
-  * Florida Blue
-  * Fortegra
-  * Freeway Insurance Services
-  * Gainsco
-  * GEICO
-  * Get Seen Media
-  * GetInsured
-  * Globe Life
-  * Go Direct Lead Gen
-  * GoHealthInsurance
-  * Goji
-  * Health and Life Associates 
-  * Health Benefit Center
-  * Health Choice One
-  * Health Corp USA
-  * Health Insurance For All
-  * Health Insurance Innovations
-  * Health IQ
-  * Healthcare, Inc.
-  * Healthcare.com - Direct
-  * HealthInsurance.net
-  * HealthMatchup
-  * HealthPlanOne
-  * HealthQuoteInfo.com (Rank Media Agency)
-  * HealthSherpa
-  * Home Insurance King
-  * HyperTarget Marketing
-  * IHC Group
-  * Innovation Group of South Florida
-  * Inside Response
-  * Inside Response - BX
-  * InsuraMatch
-  * Insurance Line One
-  * Insurance Revenue
-  * iWebQuotes
-  * Kaiser Permanente
-  * Kanopy Insurance
-  * Leads (Tranzact)
-  * Lending Point
-  * Liberty Mutual
-  * LifeInsuranceMatchup
-  * Lighthouse Insurance
-  * LoanMe
-  * Lockton Affinity Group
-  * Mapfre Insurance
-  * MassDrive
-  * Medicare Supplemental Insurance
-  * Mercury
-  * MetLife
-  * Mikayla Data
-  * Moss
-  * National Brokers of America
-  * National General
-  * Nationwide
-  * Nationwide Health Advisors
-  * Neilson Financial Services
-  * NetQuote
-  * One Loan Place
-  * Oscar Health
-  * Pay Per Call Market
-  * Pay Per Call Transfers
-  * PB Solutions
-  * Ping Leads
-  * Platform Advertising
-  * Plymouth Rock
-  * PMIC (Adrea Rubin)
-  * Policy Fuel
-  * Precise Leads
-  * Precursor Media
-  * Progressive
-  * QuickInsured
-  * Quote Engine
-  * QuoteWizard
-  * Rank Media Agency
-  * Real Results
-  * Rescue One
-  * RevPoint
-  * Rex Direct
-  * Ring Router
-  * SafeAuto
-  * Selective Healthcare
-  * SelectQuote
-  * Senior Healthcare Direct
-  * Senior Plus Advisors
-  * Simple Insurance Leads
-  * State Farm
-  * State Fund Insurance
-  * Sumner Insurance
-  * The Benefit Link
-  * The Complete Lead
-  * The General
-  * The Hartford
-  * The Lead Company
-  * The Zebra
-  * Transcend
-  * Tranzact
-  * TruSource Mktg
-  * TSC
-  * Underground Elephant
-  * US Web Leads
-  * Vantis Life (Adrea Rubin)
-  * Velapoint
-  * Velapoint Insurance
-  * VerifiedInsuranceLead
-  * Visiqua
-  * Vital One
-  * We Speak
-  * Wejo
-  * ZQ Auto Insurance
-  * ZQ Sales
+You can find a list of service providers currently in our network here.
 
-
-
-Aggregate, Non-Personal, or De-identified Information. We may share aggregated information (i.e., information about you and other users collectively, but not specifically identifiable to you) and other non-personal, de-identified, or anonymous information we collect with third parties, including our affiliates, to develop and deliver targeted advertising on our Site and on the websites of third parties and our affiliates.
+Aggregate, Non-Personal, or De-identified Information. We may share aggregated information (i.e., information about you and other users collectively, but not specifically identifiable to you) and other non-personal, de-identified, or anonymous information we collect, with third parties to optimize their ability to reach their target markets.
 
 As Required by Law. We may be required to share your personal information with law enforcement or government agencies in response to subpoenas, court orders, federal/state audits or similar circumstances whenever we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use, or as otherwise required by law.
 
-Business Transfer. As with any other business, it is possible that we could in the future enter into a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale. If such a transaction occurs, the successor company would have access to the information maintained by us, including your personal information, but would continue to be bound by this Privacy Policy unless you consent otherwise as provided herein.
+Business Transfer. As with any other business, it is possible that we could in the future enter into a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale. If such a transaction occurs, the successor company would have access to the information maintained by us, including your personal information, but would continue to be bound by this Privacy Policy.
 
-**Information Collection Technologies**
+#### Information Collection Technologies
 
-To better serve our users and Service Providers and increase the response time of the Site, we use various technologies to collect information about our users, such as:
+To better serve our users and service providers and to analyze and enhance the performance of our Sites, we use cookies and similar technologies to collect information about our users, such as your browsing behavior, links clicked, device type, and to collect various data, including analytics, about how you use and interact with our Sites and our advertisers.
 
-_Cookies._ Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Website to "personalize" itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Customer tracking (or "click-stream") data collected by us is used to optimize your experience by learning whether or not you successfully used the Site. Additionally, we may capture click-stream data on some of our partner's websites, limited to the activity involved with the completion of offers listed on our website. This information is used to monitor the performance of our partners. We also may use cookies to deliver targeted advertising (or allow third parties to deliver targeted advertising) on our website and the websites of our affiliates and third parties.
+To opt-out of the use of cookies on our Sites, you can change your browser options to stop accepting cookies or to prompt you before accepting cookies. Certain aspects of our service may be limited if you do not accept cookies. More information about cookies and other tracking technologies is available at allaboutcookies.org or youronlinechoices.eu.To opt-out of the use of cookies on our Sites, you can change your browser options to stop accepting cookies or to prompt you before accepting cookies. Certain aspects of our service may be limited if you do not accept cookies. More information about cookies and other tracking technologies is available at allaboutcookies.org or youronlinechoices.eu.
 
-_Log Files._ We also keep track of Internet Protocol (IP) addresses. An IP Address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
+Special Note for European Visitors. In connection with the effectiveness of the General Data Protection Regulation (GDPR) in the European Economic Area (EEA), MediaAlpha has determined to eliminate or limit the use of cookies and similar technologies with visitors from the EEA. Specifically:
 
-_Clear Gifs._ We employ a software technology called clear gifs (a.k.a. Web Beacons) that help us better manage content on our site and in our HTML emails by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. Clear gifs are not tied to users' personally identifiable information. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+  * If you visit a third-party site that uses our services, we will not place any cookies on your device.
+  * We will not seek your consent to use cookies in this instance, though the publisher of the site may do so.
+  * If you visit one of or our owned and operated sites, we will only place limited third-party cookies, such as those made available for analytics purposes by Google and Bing.
+  * In this case, we will seek your consent to use these third-party cookies and will only do so after you indicate your consent. If you do not consent, then no cookies will be written to your device.
 
-**Emails**
 
-By providing your contact information to us through the Site, you are registering to receive communications from us directly, on our website or through a third party. We will periodically send you newsletters and other e-mails with offers and promotions. If you no longer wish to receive these communications, please let us know by sending an email to QuoteLab Customer Care at info@quotelab.com. You may also opt-out by clicking on the unsubscribe link in our emails.
 
-**Third Party Advertisers**
+To enable this feature, we use third-party tools to determine your geographic location; if these tools indicate that you are in the EEA, then we treat your visit as above. If you feel that you are subject to the GDPR, but we have nonetheless used cookies in connection with your visit without consent - which may be due to a failure of the third party geolocation tools; your use of a proxy server, your location outside of the EEA at the time of your visit; or some other factor beyond our control – please notify us at [dpo@mediaalpha.com](mailto:dpo@mediaalpha.com) with any relevant details so that we can ensure proper treatment of your data under GDPR. 
 
-Please note that we can only control our own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services. In addition, if you provide your personal information to a Service Provider in our network, any use of your information by that Service Provider will be subject to their privacy policies and procedures. You would need to contact these parties directly in order to stop receiving their email communications.
+#### Emails
 
-**Confidentiality and Security**
+By providing your contact information to us, you are registering to receive communications from us directly or through a third-party. If you provide your e-mail address and request to be added to any of our travel deal or other mailing lists, we will periodically send you newsletters and other e-mails with offers and promotions. Our emails will always identify MediaAlpha or one of our branded sites as the sender. If you no longer wish to receive these communications, please let us know by sending an email to Customer Care at [info@mediaalpha.com](mailto:info@mediaalpha.com). You may also opt-out by clicking on the unsubscribe link in our emails.
 
-The security of your personal information is very important, and we take a number of steps to safeguard it. For example, we limit access to personal information to those employees or agents who assist us in providing requested products and services to you and maintain physical, electronic, and procedural safeguards that comply with or exceed federal standards to guard personal information about you.
+#### Third-Party Advertisers
 
-**Third Party Links**
+Please note that we only control our own mailing list and policies. Third-party advertisers that maintain their own mailing lists may send communications that advertise our services. In addition, if you provide your personal information to a service provider in our network, any use of your information by that service provider will be subject to their privacy policies and procedures. You would need to contact these parties directly in order to stop receiving their email communications.
 
-This Privacy Policy applies to all information that you provide on the Site. However, when you visit websites to which QuoteLab.com links, keep in mind you will be interacting with a third party that operates under its own privacy and security policy. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's privacy policy. A third party site will also have its own policy regarding the use of cookies and clear gifs. We encourage you to review the privacy policies of any other service provider from whom you request services.
+#### Confidentiality and Security
 
-**A Special Note about Children's Privacy**
+The security of your personal information is very important, and we take a number of steps to safeguard it. For example, we limit access to personal information to those employees or agents who need the information to provide requested products and services to you. We also maintain physical, electronic, and procedural safeguards that comply with or exceed federal standards to guard your personal information, and we anonymize or expunge data when it is no longer necessary to provide services to our users or substantiate records for our partners.
 
-You must be at least 18 years old to use this website. We do not knowingly collect, use or disclose personal information about visitors under 18 years of age. If you are under 18 years of age, you can use the services offered on our website only in conjunction with your parents or guardians. Please see our Terms of Use for more information.
+#### Third-Party Links
 
-**Updating, Obtaining or Removing Your Information**
+This Privacy Policy applies to all information that you provide to us. However, when you visit links from our Sites, keep in mind you will be interacting with a third-party that operates under its own privacy and security policy. If you choose to obtain services through a third-party site, the data collected by the third-party is governed by their privacy policy. A third-party site should also have its own policy regarding the use of cookies and other tracking technologies. We encourage you to review the policies of any other service provider from whom you request services.
 
-Upon request via email or mail, we will provide you a summary of personal information retained by us. We will only send your personal records to your email address or postal address that we have on file for you. To modify, correct, change, update or remove your personal record from our database, please send your request via email to [info@quotelab.com.](mailto:info@quotelab.com)
+#### A Special Note about Children's Privacy
 
-**Special Notice to California Residents**
+You must be at least 18 years old to use this website. We do not knowingly collect, use or disclose personal information about visitors under 18 years of age. If you are under 18 years of age, you can use the services offered on our websites only in conjunction with your parents or guardians. Please see our Terms of Use for more information.
 
-We will not share any personal information about you with other companies to the extent prohibited by applicable California law or to the extent your prior consent to share is required by applicable California law. California residents may, no more than once per calendar year, request information about our disclosures of certain categories of personal information to third parties for direct marketing purposes. To be valid, requests must be submitted to us at info@quotelab.com. Within thirty days of receiving this request, we will provide a list of the categories of personal information disclosed for direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties. 
+#### Updating, Obtaining or Removing Your Information
 
-**Visitors outside the United States**
+Upon request via email or mail, we will provide you a summary of personal information retained by us. We will only send your personal records to your email address or postal address that we have on file for you. To obtain, modify, correct, change, update or remove your personal records from our database, please send your request via email to our Data Protection Officer at [dpo@mediaalpha.com](mailto:dpo@mediaalpha.com). We will require that you prove your identity before providing any personal information.
 
-This Privacy Policy is intended to cover collection of information on our Site from residents of the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By visiting our site or using our Services, you acknowledge and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy, regardless of the laws of your residence country. 
+#### Special Notice to California Residents
 
-**Questions and Suggestions**
+California residents may, no more than once per calendar year, request information about our disclosures of certain categories of personal information to third parties for direct marketing purposes. To be valid, requests must be submitted to us at dpo@mediaalpha.com. Within thirty days of receiving this request, we will provide a list of the categories of personal information disclosed for direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties.
 
-If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us by sending an email to: [info@quotelab.com.](mailto:info@quotelab.com)
+#### Visitors outside the United States
 
-**Changes to this Privacy Policy**
+This Privacy Policy is intended to cover collection of information on our Sites from residents of the United States. The data protection and other laws of the United States might not be as comprehensive as those in your country. By visiting our Sites or using our services, you acknowledge and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy, regardless of the laws of your residence country.
 
-We reserve the right to make changes to this Privacy Policy at any time. If there are material changes to this Privacy Policy or in how we will use your personal information, we will prominently post notice such changes on the Site. However, you should check this Privacy Policy each time you use the Site to ensure you are aware of any changes in our privacy practices. Our Privacy Policy will indicate the date it was last updated. Your continued use of our Site after we have posted any Privacy Policy changes indicates your agreement to the changes unless you notify us otherwise.
+To the extent the laws of another jurisdiction apply to your data or use of the Sites, we will comply with such laws.
 
-**Your Agreement**
+#### Questions and Suggestions
 
-By using the Site, you signify your assent to this Privacy Policy. If you do not agree to this policy, please do not use any portion of the Site. When you request insurance quotes or other information through the Site, you are authorizing us to share information with our business partners, who may contact you by phone, email, or mail. If you do not want further communication from them, please notify the partner directly. 
+If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us by sending an email to: [info@mediaalpha.com](mailto:info@mediaalpha.com).
 
-Updated October 2013  
-  
----|---
+#### Changes to this Privacy Policy
+
+We reserve the right to make changes to this Privacy Policy at any time. If there are material changes to this Privacy Policy or in how we will use your personal information, we will prominently post notice of such changes on the Sites. However, you should check this Privacy Policy whenever you use any of our Sites to ensure you are aware of our current privacy practices. Our Privacy Policy will indicate the date it was last updated. Your continued use of our Sites after we have posted any changes indicates your agreement to the changes, unless you notify us otherwise.
+
+#### Your Agreement
+
+By using this Site, you are agreeing to the terms of this Privacy Policy. If you do not agree to this policy, please do not use any portion of our Sites.
+
+Updated May 2018
