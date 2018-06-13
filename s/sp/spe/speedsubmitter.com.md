@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the speedsubmitter.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206155341id_/http%3A//speedsubmitter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedsubmitter.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613103608id_/http%3A//www.speedsubmitter.com/privacy.html) for the most accurate reproduction.*
 
 # Speedsubmitter.com | Privacy Policy
 
-[](https://web.archive.org/web/20171206155341id_/http%3A//speedsubmitter.com/order.html) |  **Submit to these sites...**  
+[](https://web.archive.org/web/20180613103608id_/http%3A//www.speedsubmitter.com/order.html) |  **Submit to these sites...**  
 ---  
 alexa.com  
 stumbleupon  
