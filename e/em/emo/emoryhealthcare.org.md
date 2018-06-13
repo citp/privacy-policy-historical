@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emoryhealthcare.org privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116030046id_/https%3A//www.emoryhealthcare.org/ui/pdfs/npp2016.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emoryhealthcare.org privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613125850id_/http%3A//www.emoryhealthcare.org/ui/pdfs/npp2016.pdf) for the most accurate reproduction.*
 
-# NOTICE OF PRIVACY PRACTICES
+# 
 
                                                                   NOTICE OF PRIVACY PRACTICES
                                         THIS NOTICE DESCRIBES HOW PROTECTED HEALTH INFORMATION ABOUT YOU
@@ -230,19 +230,19 @@ Privacy Act instead of HIPAA),
 (b) Take or process payment for health care services that are billed to insurance or a government program, and/or
 (c) Perform health care operations.
 NOTE: The Emory University Group Health Plan operates under a separate Notice of Privacy Practices and therefore does not follow this Notice.
-                                                                                       !
+                                                                                       •
 Emory Healthcare complies with applicable Federal civil rights laws and does not discriminate on the basis
 of race, color, national origin, age, disability, or sex.
 Emory Healthcare cumple con las leyes federales de derechos viviles aplicables y no discrimina por
 motivos de raza, color, nacionalidad, edad, discapacidad o sexo.
 Emory Healthcare tuân thủ luật dân quyền hiện hành của Liên bang và không phân biệt đối xử dựa trên
 chủng tộc, màu da, nguồn gốc quốc gia, độ tuổi, khuyết tật, hoặc giới tính.
-                                                                                       !
+                                                                                       •
 ATTENTION: If you are an individual with limited English language proficiency assistance services, free of
 charge, are available to you.
 ATENCIÓN: si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística.
 CHÚ Ý: Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho bạn.
-                                                                                       !
+                                                                                       •
 Non-Discrimination Policy
     emoryhealthcare.org/ui/pdfs/ehc-sec1557nondiscrimination-policy.pdf
                                                                Effective Date: April 2003 – Revised Dates: June 16, 2004, February 2012, June 2013, July 2014, September 2016
