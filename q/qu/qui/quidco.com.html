@@ -1,22 +1,23 @@
-<!--The following is the downloaded HTML source of the quidco.com privacy policy that was archived on 2017-07-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170715105029id_/https%3A//www.quidco.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quidco.com privacy policy that was archived on 2018-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180613125953id_/https%3A//www.quidco.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
       <title>Quidco - The UK's #1 Cashback Site</title>
   
   
-        <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-spa-1039.min.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4EUVVaGwoEVFlSBQI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(19),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(20),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(p){"stack"in p&&(t(12),t(11),"addEventListener"in window&&t(6),s.xhrWrappable&&t(13),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){C++,M=y.hash,this[u]=b.now()}function o(){C--,y.hash!==M&&i(0,!0);var t=b.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=b.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,b=t("loader");if(w[v]&&b.xhrWrappable){var g=t(9),x=t(10),E=t(8),O=t(6),R=t(12),P=t(7),T=t(13),S=t("ee"),N=S.get("tracer");t(14),b.features.spa=!0;var M,j=w[v],C=0;S.on(u,r),S.on(p,r),S.on(d,o),S.on(h,o),S.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),R.buffer(["setTimeout"+s,"clearTimeout"+c,u]),T.buffer([u,"new-xhr","send-xhr"+c]),P.buffer([m+c,m+"-done",m+f+c,m+f+s]),E.buffer(["newURL"]),g.buffer([u]),x.buffer(["propagate",p,h,"executor-err","resolve"+c]),N.buffer([u,"no-"+u]),a(T,"send-xhr"+c),a(S,"xhr-resolved"),a(S,"xhr-done"),a(P,m+c),a(P,m+"-done"),E.on("pushState-end",i),E.on("replaceState-end",i),j("hashchange",i,!0),j("load",i,!0),j("popstate",function(){i(0,C>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(12),c=t(11),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(22)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(19);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&&d&&p&&(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(22)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){var r=t("ee").get("mutation"),o=t(22)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],10:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(22),a=t("ee").get("promise"),c=i(a),s=t(19),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],11:[function(t,e,n){var r=t("ee").get("raf"),o=t(22)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],12:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(22)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],13:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",c)}function i(t){b.push(t),l&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<b.length;t++)r([],b[t]);b.length&&(b=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(22)(u),p=NREUM.o,h=p.XHR,l=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],b=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,g),g.prototype=h.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new l(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],14:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(15),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(18),l=t(17),m=window.XMLHttpRequest;a.features.xhr=!0,t(13),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],15:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],16:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(19),c=t(20),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],17:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],18:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],19:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],20:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],21:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],22:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(20),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(19),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(19),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1039.min.js"},b=m&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(16),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(21)},{}]},{},["loader",2,14,5,3,4]);</script>
+        <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4EUVVaGwIEV1ZRBwACVA=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
           <meta name="description" content="">
         
     <meta name="apple-itunes-app" content="app-id=436115342">
+    <link rel="manifest" href="/manifest.json">
+
+    <meta name="theme-color" content="#1D7BCE">
 
                    <link rel="canonical" href="https://www.quidco.com/privacy-policy/">
           
               
-
-
-            <script src="//static.quidco.com/js-built/v4/thirdparty-top.min.js?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1"></script>
+            <script src="//static.quidco.com/js-built/v4/thirdparty-top.min.js?sauid=dde01d3ad129fe420156b5350633b6095f717e7c"></script>
 
     
           <meta name="robots" content="INDEX, FOLLOW">
@@ -24,17 +25,17 @@
     <meta name="google-site-verification" content="ILFWjlG5qiUBIhXpM6LyYcr6gPpEUVHVUWv6YSHKikQ">
     <meta name="google-site-verification" content="1rCr1GtYCZ33t2N_mDJHJ1LnKqCHdxILvuNpZSEtuaY"> 
     
-          <link rel="image_src" href="//i.cashbacksrv.com/quidco_com/p/static/assets/img/quidco_fb_logo.png?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1">
+          <link rel="image_src" href="//i.cashbacksrv.com/quidco_com/p/static/assets/img/quidco_fb_logo.png?sauid=dde01d3ad129fe420156b5350633b6095f717e7c">
     
     
         <link rel="shortcut icon" href="//static.quidco.com/img/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="//i.cashbacksrv.com/quidco_com/p/static/assets/img/apple-touch-icon.png?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1">
+    <link rel="apple-touch-icon" href="//i.cashbacksrv.com/quidco_com/p/static/assets/img/apple-touch-icon.png?sauid=dde01d3ad129fe420156b5350633b6095f717e7c">
       
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
                 <link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.min.css">
-        <link href="//static.quidco.com/v4/assets/css-built/thirdparty.css?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1" type="text/css" rel="stylesheet">
-                  <link href="//static.quidco.com/v4/assets/css-built/quidco-sitewide.css?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1" type="text/css" rel="stylesheet">
+        <link href="//static.quidco.com/v4/assets/css-built/thirdparty.css?sauid=dde01d3ad129fe420156b5350633b6095f717e7c" type="text/css" rel="stylesheet">
+                  <link href="//static.quidco.com/v4/assets/css-built/quidco-sitewide.css?sauid=dde01d3ad129fe420156b5350633b6095f717e7c" type="text/css" rel="stylesheet">
             
       <script>
       window['optimizely'] = window['optimizely'] || [];
@@ -50,7 +51,7 @@
       js_merchant_id = '',
       js_social_media_keys = {"app":"the Quidco mobile app","toolbar":"the Quidco toolbar","toolbar\/browser\/firefox":"the Quidco toolbar","toolbar\/browser\/chrome":"the Quidco toolbar","toolbar\/browser\/safari":"the Quidco toolbar","toolbar\/browser\/ie":"the Quidco toolbar","in-store-cashback":"In-store cashback from Quidco","hot-offers":"hot offers","top-cashback":"top cashback offers","top-voucher-codes":"top voucher codes","printable-vouchers":"printable vouchers","restaurant-vouchers":"restaurant vouchers","free-cashback":"free cashback","hidden-gems":"hidden gems","sales":"sales","mobile-in-store-offers":"mobile and in-store offers","competitions":"the Quidco competition","quidco-compare":"Quidco Compare","quidco-compare\/broadband":"Quidco Compare","insurance-comparison":"Quidco Compare","opinions":"Quidco Opinions"},
       protocol = (window.location.protocol == 'https:' ? 'https' : 'http'),
-      js_p_impression = '5969f3754ad8f3.07135278',
+      js_p_impression = '5b21154a71e854.09743231',
       js_feature_switch_completed = true,
       js_user_type = '',
       js_email_verified = true,
@@ -110,6 +111,7 @@
       }
     </script>
   
+  
   <script>
   dataLayer = [{
     userIsLoggedIn: false,
@@ -119,7 +121,7 @@
 </script>
 
 
-<script src="//static.quidco.com/js-built/v4/@maple-syrup-media/fe-analytics/dist/web.bundle.js?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1"></script> 
+<script src="//static.quidco.com/js-built/v4/@maple-syrup-media/fe-analytics/dist/web.bundle.js?sauid=dde01d3ad129fe420156b5350633b6095f717e7c"></script>
 
  
 
@@ -138,13 +140,6 @@ WebAnalytics.page({
 try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
 
 </script>
-  <!-- Start Alexa Certify Javascript -->
-<script type="text/javascript">
-  _atrk_opts = { atrk_acct:"Nmd9o1IW1810Cs", domain:"quidco.com",dynamic: true};
-  (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-</script>
-<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Nmd9o1IW1810Cs" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->
 
   </head>
 
@@ -240,9 +235,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
 </div>
 
 
-
 <div class="wrapper">
-
 
                     
       
@@ -269,15 +262,15 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
                 </a>
               </div>
             </div>
-                    <div class="search-container">
-  <form id="cas-header-search" class="form-inline search" role="search" action="/search/" method="get">
-    <div class="form-group">
-      <label class="sr-only" for="store-qsearch">Store Search</label>
-      <input type="submit" value="" id="store-qsearch-submit" class="form-control nav-search-submit">
-      <input type="search" id="store-q1search" placeholder="Search for retailers (e.g Expedia, Currys)" name="search" value="" class="form-control typeahead" autocomplete="off">
+                            <div class="search-container">
+        <form id="cas-header-search" class="form-inline search" role="search" action="/search/" method="get">
+        <div class="form-group">
+            <label class="sr-only" for="store-qsearch">Store Search</label>
+            <input type="submit" value="" id="store-qsearch-submit" class="form-control nav-search-submit">
+            <input type="search" id="store-q1search" placeholder="Search for retailers (e.g Expedia, Currys)" name="search" value="" class="form-control typeahead" autocomplete="off">
+        </div>
+    </form>
     </div>
-  </form>
-</div>
             <ul class="pull-right hidden-xs header-additional-links">
               <li class="dropdown">
   <a href="#" data-toggle="dropdown" class="dropdown-toggle">Ways to Earn</a>
@@ -285,31 +278,17 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
     <li class="ways-to-earn__item ways-to-earn__item--highstreet"><a href="/quidco-high-street/retailers/">High Street</a></li>
     <li class="ways-to-earn__item ways-to-earn__item--grocery"><a href="/clicksnap/">ClickSnap</a></li>
     <li class="ways-to-earn__item ways-to-earn__item--compare"><a href="/quidco-compare/">Compare</a></li>
-    <li class="ways-to-earn__item ways-to-earn__item--opinions"><a href="/opinions/">Opinions</a></li>
-    <li class="ways-to-earn__item ways-to-earn__item--rewards"><a href="/rewards/how-it-works/">Rewards</a></li>
   </ul>
 </li>
-              <li><a href="https://www.quidco.com/discover/" class="dropdown-toggle">Discover</a></li>
+              <li><a href="https://www.quidco.com/discover/" class="dropdown-toggle">Advice &amp; Inspiration</a></li>
               <li class="dropdown">
   <a href="#" data-toggle="dropdown" class="dropdown-toggle">Support</a>
   <ul class="dropdown-menu support">
     <li class="dropdown-item home">
-      <a href="/help/" title="Support home">Support home</a>
-    </li>
-    <li class="dropdown-item live-chat mixpanel-account-upgrade-modal freemium-disabled">
-              <a href="#" title="Live chat">
-          <span class="with-button">Live chat</span>
-          <span class="label label-default" href="#">Premium</span>
-        </a>
-          </li>
-    <li class="dropdown-item request-call-back freemium-disabled mixpanel-account-upgrade-modal">
-      <a href="/help/request-call-back/" title="Request call">
-        <span class="with-button">Request call</span>
-        <span class="label label-default" href="#">Premium</span>
-      </a>
+      <a href="https://support.quidco.com/" title="Support home">FAQs</a>
     </li>
     <li class="dropdown-item contact">
-      <a href="/support-contact-us/" title="Contact form">Contact form</a>
+      <a href="https://support.quidco.com/contact" title="Contact form">Contact us</a>
     </li>
     <li class="dropdown-item claim">
       <a href="/new-enquiry/" title="Create cashback claim">Create cashback claim</a>
@@ -317,10 +296,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
     <li class="dropdown-item claim-hcg">
       <a href="/highest-cashback-guarantee/" title="Highest Cashback Guarantee">Highest Cashback Guarantee</a>
     </li>
-    <li class="dropdown-item help">
-      <a href="/help/all/" title="All help">All help</a>
-    </li>
-          </ul>
+  </ul>
 </li>
             </ul>
           </div>
@@ -403,7 +379,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
           </div>
           <div class="col-sm-3">
                                       <a href="/travel/" class="promo-image">
-                <img src="//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/banners/header-banner_travel.jpg?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1" alt="Travel">
+                <img src="//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/banners/header-banner_travel.jpg?sauid=dde01d3ad129fe420156b5350633b6095f717e7c" alt="Travel">
               </a>
                                                                       </div>
               </div>
@@ -472,7 +448,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
           </div>
           <div class="col-sm-3">
                                                                                       <a href="/discover/" class="promo-image">
-                <img src="//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/banners/header-banner_discover.jpg?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1" alt="Discover">
+                <img src="//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/banners/header-banner_discover.jpg?sauid=dde01d3ad129fe420156b5350633b6095f717e7c" alt="Discover">
               </a>
                       </div>
               </div>
@@ -540,8 +516,8 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
                           </ul>
           </div>
           <div class="col-sm-3">
-                          <a href="/fashion/" class="promo-image">
-                <img src="//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/banners/header-banner_fashion.jpg?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1" alt="Fashion">
+                          <a href="/discover/" class="promo-image">
+                <img src="//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/banners/header-banner_discover.jpg?sauid=dde01d3ad129fe420156b5350633b6095f717e7c" alt="Discover">
               </a>
                                                                                   </div>
               </div>
@@ -610,7 +586,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
           </div>
           <div class="col-sm-3">
                                                                           <a href="/discover/" class="promo-image">
-                <img src="//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/banners/header-banner_discover.jpg?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1" alt="High Street">
+                <img src="//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/banners/header-banner_discover.jpg?sauid=dde01d3ad129fe420156b5350633b6095f717e7c" alt="High Street">
               </a>
                                   </div>
               </div>
@@ -756,7 +732,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
           </div>
           <div class="col-sm-3">
             <a href="/quidco-compare/" class="promo-image" alt="compare">
-              <img src="//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/banners/header-banner_compare.png?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1" alt="Quidco Compare">
+              <img src="//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/banners/header-banner_compare.png?sauid=dde01d3ad129fe420156b5350633b6095f717e7c" alt="Quidco Compare">
             </a>
           </div>
               </div>
@@ -810,7 +786,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
           </div>
           <div class="col-sm-3">
                                                               <a href="/quidco-high-street/how-it-works/" class="promo-image">
-                <img src="//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/banners/header-banner_highst.png?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1" alt="High Street">
+                <img src="//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/banners/header-banner_highst.png?sauid=dde01d3ad129fe420156b5350633b6095f717e7c" alt="High Street">
               </a>
                                               </div>
               </div>
@@ -987,7 +963,6 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
           <li class="ways-to-earn__item ways-to-earn__item--grocery"><a href="/clicksnap/">ClickSnap</a></li>
           <li class="ways-to-earn__item ways-to-earn__item--compare"><a href="/quidco-compare/">Compare</a></li>
           <li class="ways-to-earn__item ways-to-earn__item--opinions"><a href="/opinions/">Opinions</a></li>
-          <li class="ways-to-earn__item ways-to-earn__item--rewards"><a href="/rewards/how-it-works/">Rewards</a></li>
           <li class="ways-to-earn__item ways-to-earn__item--discover"><a href="https://www.quidco.com/discover/">Discover</a></li>
           <li class="ways-to-earn__item ways-to-earn__item--support"><a href="/help/">Support</a></li>
         </ul>
@@ -1040,14 +1015,14 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
   
   </div>
 
-    <div class="search-nav-container hidden-xs affix">
+      <div class="search-nav-container hidden-xs affix">
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
         <p class="pull-right close-search close-sticky-search"><a>Close search
-          <svg>
-            <use xlink:href="#icon-cross"></use>
-          </svg></a></p>
+            <svg>
+              <use xlink:href="#icon-cross"></use>
+            </svg></a></p>
         <h3 class="pull-left">Search results for</h3>
         <div class="search-container">
           <div class="form-group search">
@@ -1077,18 +1052,18 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
               <use xlink:href="#icon-cross"></use>
             </svg>
           </a>
-          </p><div id="search-results-multiple-retailers-title" class="hide">Search results for
-            <span class="search-term"></span>
-          </div>
+        </p><div id="search-results-multiple-retailers-title" class="hide">Search results for
+          <span class="search-term"></span>
+        </div>
         <p></p>
       </div>
 
-        <div class="col-xs-12 col-md-8">
-          
-          
-          <div class="row">
-            <div class="col-xs-12">
-              <div id="search-results-container" class="search-results">
+      <div class="col-xs-12 col-md-8">
+
+        
+        <div class="row">
+          <div class="col-xs-12">
+            <div id="search-results-container" class="search-results">
   <div id="search-results-top-retailer-container" class="hide"></div>
   <div id="search-results-inline-container"></div>
   <div id="search-results-related-retailers-container" class="hide"></div>
@@ -1097,7 +1072,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
   <div id="search-no-results-container" class="hide">Sorry, we can't find anything to match that</div>
 </div>
 
-
+  
   <script id="search-results-multiple-retailers-template" type="x-handlebars-template">
     <ul class="search-results-list">
       <h3>Retailers</h3>
@@ -1190,8 +1165,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
       {{/each}}
     </ul>
   </script>
-
-
+  
   <script id="search-results-top-retailer-container-template" type="x-handlebars-template">
     <h3>Retailers</h3>
     <ul class="search-results-list retailer-list">
@@ -1283,7 +1257,6 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
     </ul>
   </script>
 
-
   <script id="search-results-related-retailers-container-template" type="x-handlebars-template">
     <ul class="search-results-list">
       <li class="search-related-retailers">
@@ -1332,7 +1305,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
     </ul>
   </script>
 
-
+  
   <script id="search-results-similar-retailers-container-template" type="x-handlebars-template">
     <h3>Similar retailers to <span id="similar-search-term"></span></h3>
     <ul class="search-results-list">
@@ -1425,10 +1398,9 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
       {{/each}}
     </ul>
   </script>
-
-            </div>
           </div>
         </div>
+      </div>
 
       <div class="col-xs-12 col-md-4 hidden-xs hidden-sm right-sidebar">
         <div class="related-retailers-list">
@@ -1441,7 +1413,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
               <ul></ul>
             </div>
             <div id="search-results-adtech-container">
-                              <div class="display-ad-placement display-ad-placement--vertical">
+                              <div class="display-ad-placement display-ad-placement--vertical mt-0">
   <div class="display-ad-placement__container">
     <div class="display-ad-placement__heading">
   <h4 class="display-ad-placement__title">Advertisement</h4>
@@ -1460,7 +1432,6 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
 
   
   <div id="page-content">
-
     
     
     <div class="hidden-xs">
@@ -1470,7 +1441,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
             <div class="col-xs-4 col-sm-3 col-md-2">
                               <div class="di-placement" id="placement-platinum-header" data-placement_id="placement-platinum-header" data-placement_name="Platinum Header (Carousel)" data-placement_group="marketing" data-fields="title, description, is_external, link, image_small" data-required_fields="title, description, link">
                   <div class=" di-placement-item" data-message-type="marketing" data-message-id="4307" data-message-source="booking" data-fallback="false" data-message-merchant-id="" data-message-bonus-offer="0">
-  <span class="unique_id hidden">05969f375581d08.62503349</span>
+  <span class="unique_id hidden">05b21154a895137.69281568</span>
     <a href="/hot-offers/" data-encrypted_href="7c48ac207b142f2a7722478c7c20fabe" class="mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-cta" data-mixpanel-merchant-id="" data-mixpanel-merchant-name="" target="_self">
     <div class="description">
       <div class="details pull-left">
@@ -1485,120 +1456,120 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
                           </div>
             <div class="col-xs-5 col-sm-8 col-md-9">
               <div id="topoffer-carousel" class="topoffer-carousel-items">
-                <div class=" di-placement-item" data-message-type="offer" data-message-id="61196" data-message-source="booking" data-fallback="false" data-message-merchant-id="3043" data-message-bonus-offer="0">
-  <span class="unique_id hidden">05969f37550a3e1.73306220</span>
+                <div class=" di-placement-item" data-message-type="offer" data-message-id="72348" data-message-source="booking" data-fallback="false" data-message-merchant-id="8243" data-message-bonus-offer="0">
+  <span class="unique_id hidden">05b21154a7b6054.13123520</span>
   
         
 
   <div class="top-offer">
-    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/ticketmaster.png?uft=1466521620" width="16" height="16" alt="Ticketmaster">
-    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/ticketmaster/" rel="Ticketmaster nofollow" data-encrypted_href="bc42c7e70912fd4fb9d4da0aba1d64c6" data-mixpanel-merchant-id="3043" data-mixpanel-merchant-name="Ticketmaster" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="3043" data-merchant-name="Ticketmaster" data-rate="5%" data-rate-txt="Earn up to 5% cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
+    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/o2-mobiles.png?uft=1466525382" width="16" height="16" alt="O2 Mobiles">
+    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/o2-mobiles/" rel="O2 Mobiles nofollow" data-encrypted_href="d2c8c4220ad78ea1ede0e039ac66cef6" data-mixpanel-merchant-id="8243" data-mixpanel-merchant-name="O2 Mobiles" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="8243" data-merchant-name="O2 Mobiles" data-rate="£105" data-rate-txt="Earn up to £105 cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
       <div class="description">
         <div class="details pull-left">
-          <p>Ticketmaster</p>
-          <p><span>Earn up to 5% cashback</span></p>
+          <p>O2 Mobiles</p>
+          <p><span>Earn up to £105 cashback</span></p>
         </div>
       </div>
     </a>
   </div>
 </div>
-<div class=" di-placement-item" data-message-type="offer" data-message-id="61165" data-message-source="booking" data-fallback="false" data-message-merchant-id="956" data-message-bonus-offer="0">
-  <span class="unique_id hidden">05969f375526638.47858731</span>
+<div class=" di-placement-item" data-message-type="offer" data-message-id="74527" data-message-source="booking" data-fallback="false" data-message-merchant-id="2233" data-message-bonus-offer="0">
+  <span class="unique_id hidden">05b21154a7deeb6.16306049</span>
   
         
 
   <div class="top-offer">
-    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/marks-spencer.png?uft=1466519488" width="16" height="16" alt="Marks &amp; Spencer">
-    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/marks-spencer/" rel="Marks &amp; Spencer nofollow" data-encrypted_href="c661c2553de942b5c8a49253131afc3d" data-mixpanel-merchant-id="956" data-mixpanel-merchant-name="Marks &amp; Spencer" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="956" data-merchant-name="Marks &amp; Spencer" data-rate="7.5%" data-rate-txt="Earn up to 7.5% cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
+    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/holland-and-barrett.png?uft=1476872930" width="16" height="16" alt="Holland and Barrett">
+    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/holland-and-barrett/" rel="Holland and Barrett nofollow" data-encrypted_href="a103075e2c578bfc74bc440f9c6f3e716172484aa710aea5511cf776f0d98e0a" data-mixpanel-merchant-id="2233" data-mixpanel-merchant-name="Holland and Barrett" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="2233" data-merchant-name="Holland and Barrett" data-rate="12%" data-rate-txt="Earn up to 12% cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
       <div class="description">
         <div class="details pull-left">
-          <p>Marks &amp; Spencer</p>
-          <p><span>Earn up to 7.5% cashback</span></p>
+          <p>Holland and Barrett</p>
+          <p><span>Earn up to 12% cashback</span></p>
         </div>
       </div>
     </a>
   </div>
 </div>
-<div class=" di-placement-item" data-message-type="offer" data-message-id="61011" data-message-source="booking" data-fallback="false" data-message-merchant-id="391" data-message-bonus-offer="0">
-  <span class="unique_id hidden">05969f3755443b7.65258010</span>
+<div class=" di-placement-item" data-message-type="offer" data-message-id="74560" data-message-source="booking" data-fallback="false" data-message-merchant-id="1587" data-message-bonus-offer="0">
+  <span class="unique_id hidden">05b21154a8029b0.99172883</span>
   
         
 
   <div class="top-offer">
-    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/sky-digital-tv-and-broadband.png?uft=1476805817" width="16" height="16" alt="Sky Digital TV and Broadband">
-    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/sky-digital-tv-and-broadband/" rel="Sky Digital TV and Broadband nofollow" data-encrypted_href="ac39f4367b6d639021d68801e20e26f601666fa65579ee1e85bb0020875e73aa" data-mixpanel-merchant-id="391" data-mixpanel-merchant-name="Sky Digital TV and Broadband" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="391" data-merchant-name="Sky Digital TV and Broadband" data-rate="£90" data-rate-txt="Earn up to £90 cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
+    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/accorhotels.png?uft=1466520297" width="16" height="16" alt="Accorhotels">
+    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/accorhotels/" rel="Accorhotels nofollow" data-encrypted_href="9ed13a25eb00711ce3dcc426cc325b0c" data-mixpanel-merchant-id="1587" data-mixpanel-merchant-name="Accorhotels" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="1587" data-merchant-name="Accorhotels" data-rate="15%" data-rate-txt="Earn up to 15% cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
       <div class="description">
         <div class="details pull-left">
-          <p>Sky Digital TV and Broadband</p>
-          <p><span>Earn up to £90 cashback</span></p>
+          <p>Accorhotels</p>
+          <p><span>Earn up to 15% cashback</span></p>
         </div>
       </div>
     </a>
   </div>
 </div>
-<div class=" di-placement-item" data-message-type="offer" data-message-id="61100" data-message-source="booking" data-fallback="false" data-message-merchant-id="4794" data-message-bonus-offer="0">
-  <span class="unique_id hidden">05969f375552bb5.64410112</span>
+<div class=" di-placement-item" data-message-type="offer" data-message-id="72733" data-message-source="booking" data-fallback="false" data-message-merchant-id="108" data-message-bonus-offer="0">
+  <span class="unique_id hidden">05b21154a820dc3.78262124</span>
   
         
 
   <div class="top-offer">
-    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/ee-home-broadband.png?uft=1491407362" width="16" height="16" alt="EE Home Broadband">
-    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/ee-home-broadband/" rel="EE Home Broadband nofollow" data-encrypted_href="d474ccdc59dd519c97fb0ee2d832722b250c9ca1b9dd3c2ed69cb2afb2c85d22" data-mixpanel-merchant-id="4794" data-mixpanel-merchant-name="EE Home Broadband" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="4794" data-merchant-name="EE Home Broadband" data-rate="£125" data-rate-txt="Earn up to £125 cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
+    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/bt-broadband.png?uft=1466519024" width="16" height="16" alt="BT Broadband">
+    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/bt-broadband/" rel="BT Broadband nofollow" data-encrypted_href="00192c8178329104781838a2acf73703" data-mixpanel-merchant-id="108" data-mixpanel-merchant-name="BT Broadband" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="108" data-merchant-name="BT Broadband" data-rate="£175" data-rate-txt="Earn up to £175 cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
       <div class="description">
         <div class="details pull-left">
-          <p>EE Home Broadband</p>
-          <p><span>Earn up to £125 cashback</span></p>
+          <p>BT Broadband</p>
+          <p><span>Earn up to £175 cashback</span></p>
         </div>
       </div>
     </a>
   </div>
 </div>
-<div class=" di-placement-item" data-message-type="offer" data-message-id="61063" data-message-source="booking" data-fallback="false" data-message-merchant-id="3533" data-message-bonus-offer="0">
-  <span class="unique_id hidden">05969f375560c72.27750943</span>
+<div class=" di-placement-item" data-message-type="offer" data-message-id="74628" data-message-source="booking" data-fallback="false" data-message-merchant-id="5275" data-message-bonus-offer="0">
+  <span class="unique_id hidden">05b21154a842454.07918662</span>
   
         
 
   <div class="top-offer">
-    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/first-choice.png?uft=1483534919" width="16" height="16" alt="First Choice">
-    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/first-choice/" rel="First Choice nofollow" data-encrypted_href="0a799c7eb2fad32f25fee573ec7f784e" data-mixpanel-merchant-id="3533" data-mixpanel-merchant-name="First Choice" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="3533" data-merchant-name="First Choice" data-rate="3.5%" data-rate-txt="Earn up to 3.5% cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
+    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/the-works.png?uft=1466523016" width="16" height="16" alt="The Works">
+    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/the-works/" rel="The Works nofollow" data-encrypted_href="5160384ea769a8e86149c1393c9b281c" data-mixpanel-merchant-id="5275" data-mixpanel-merchant-name="The Works" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="5275" data-merchant-name="The Works" data-rate=" 17%" data-rate-txt="Earn 17% cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
       <div class="description">
         <div class="details pull-left">
-          <p>First Choice</p>
-          <p><span>Earn up to 3.5% cashback</span></p>
+          <p>The Works</p>
+          <p><span>Earn 17% cashback</span></p>
         </div>
       </div>
     </a>
   </div>
 </div>
-<div class=" di-placement-item" data-message-type="offer" data-message-id="61217" data-message-source="booking" data-fallback="false" data-message-merchant-id="3312" data-message-bonus-offer="0">
-  <span class="unique_id hidden">05969f37556e269.13902903</span>
+<div class=" di-placement-item" data-message-type="offer" data-message-id="74522" data-message-source="booking" data-fallback="false" data-message-merchant-id="238" data-message-bonus-offer="0">
+  <span class="unique_id hidden">05b21154a863829.21669847</span>
   
         
 
   <div class="top-offer">
-    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/debenhams-travel-insurance.png?uft=1486035819" width="16" height="16" alt="Debenhams Travel Insurance">
-    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/debenhams-travel-insurance/" rel="Debenhams Travel Insurance nofollow" data-encrypted_href="d3381f3417484c3a21fafba1586afb98a4fa4d588caafbc4988bfc9854f32282" data-mixpanel-merchant-id="3312" data-mixpanel-merchant-name="Debenhams Travel Insurance" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="3312" data-merchant-name="Debenhams Travel Insurance" data-rate="26%" data-rate-txt="Earn up to 26% cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
+    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/expedia.png?uft=1466519122" width="16" height="16" alt="Expedia">
+    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/expedia/" rel="Expedia nofollow" data-encrypted_href="49990b31ed66b2747bafb81d7710fa5e" data-mixpanel-merchant-id="238" data-mixpanel-merchant-name="Expedia" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="238" data-merchant-name="Expedia" data-rate="15%" data-rate-txt="Earn up to 15% cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
       <div class="description">
         <div class="details pull-left">
-          <p>Debenhams Travel Insurance</p>
-          <p><span>Earn up to 26% cashback</span></p>
+          <p>Expedia</p>
+          <p><span>Earn up to 15% cashback</span></p>
         </div>
       </div>
     </a>
   </div>
 </div>
-<div class=" di-placement-item" data-message-type="offer" data-message-id="61150" data-message-source="booking" data-fallback="false" data-message-merchant-id="11490" data-message-bonus-offer="0">
-  <span class="unique_id hidden">05969f37557d009.83028861</span>
+<div class=" di-placement-item" data-message-type="offer" data-message-id="74673" data-message-source="booking" data-fallback="false" data-message-merchant-id="13992" data-message-bonus-offer="0">
+  <span class="unique_id hidden">05b21154a887173.73189128</span>
   
         
 
   <div class="top-offer">
-    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/ee-handset-contracts.png?uft=1476797280" width="16" height="16" alt="EE Handset Contracts">
-    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/ee-handset-contracts/" rel="EE Handset Contracts nofollow" data-encrypted_href="aea3e3ecff308507a48c4a71f6586df16fb6717c9b1d9d99a021d300a54bde36" data-mixpanel-merchant-id="11490" data-mixpanel-merchant-name="EE Handset Contracts" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="11490" data-merchant-name="EE Handset Contracts" data-rate="£108" data-rate-txt="Earn up to £108 cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
+    <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant/favicons/16/three-sim-only-contracts.png?uft=1528705531" width="16" height="16" alt="Three SIM only Contracts">
+    <a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/three-sim-only-contracts/" rel="Three SIM only Contracts nofollow" data-encrypted_href="d016f4cf4636facfdb4a06cd06018e3913fc690fd844669b4391e73fcca1cadd" data-mixpanel-merchant-id="13992" data-mixpanel-merchant-name="Three SIM only Contracts" data-analytics-trigger="MERCHANT_CLICKED" data-merchant-id="13992" data-merchant-name="Three SIM only Contracts" data-rate="£70" data-rate-txt="Earn up to £70 cashback" data-is-increased="" data-is-exclusive="" data-component-key="TOP_OFFERS_THIS_WEEK" data-source-key="SITEWIDE">
       <div class="description">
         <div class="details pull-left">
-          <p>EE Handset Contracts</p>
-          <p><span>Earn up to £108 cashback</span></p>
+          <p>Three SIM only Contracts</p>
+          <p><span>Earn up to £70 cashback</span></p>
         </div>
       </div>
     </a>
@@ -1624,7 +1595,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
       </div>
           </div>
 
-    <div id="messages_area">  
+    <div id="messages_area">
           </div>
 
       <div class="container template-vertical-spacing">
@@ -1645,34 +1616,37 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
             <a href="#introduction">Introduction</a>
           </li>
                                 <li>
-            <a href="#general">General Information</a>
+            <a href="#we-collect">What information do we collect?</a>
           </li>
                                 <li>
-            <a href="#we-collect">The information we collect</a>
+            <a href="#how-is-data-collected">How is your personal data collected ?</a>
+          </li>
+                                <li>
+            <a href="#how-we-use-data">How do we use your personal data, and what is our legal basis for doing so ?</a>
+          </li>
+                                <li>
+            <a href="#how-long-we-keep-data">How long will we keep your personal data for ?</a>
+          </li>
+                                <li>
+            <a href="#who-we-share-data-with">Whom will we share your personal data with ?</a>
+          </li>
+                                <li>
+            <a href="#how-we-keep-data-secure">How do we keep your data secure?</a>
           </li>
                                 <li>
             <a href="#cookies">Cookies</a>
           </li>
                                 <li>
-            <a href="#your-sharing">Your sharing of information with retailers and others</a>
+            <a href="#password-security">Password security</a>
           </li>
                                 <li>
-            <a href="#our-sharing">Our sharing of information about you with others</a>
+            <a href="#editing-your-account">Editing your Account and mailing settings</a>
           </li>
                                 <li>
-            <a href="#security">Security</a>
+            <a href="#relationship-with-account-holder-agreement">Relationship with the Quidco Account Holder Agreement</a>
           </li>
                                 <li>
-            <a href="#editing-account">Editing your Account and mailing settings</a>
-          </li>
-                                <li>
-            <a href="#access">Access to information</a>
-          </li>
-                                <li>
-            <a href="#changes-to-statement">Changes to this privacy statement</a>
-          </li>
-                                <li>
-            <a href="#registered-details">Registered details</a>
+            <a href="#contacting-us">Contacting us</a>
           </li>
                   </ul>
   </div>
@@ -1682,184 +1656,359 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
         <h1>Privacy Policy</h1>
         <div class="content-group">
           <h4 id="introduction">Introduction</h4>
-          <p>Personal data, or personal information as it is sometimes called, is data that relates to or is capable of identifying a living person. Account Holder privacy is very important to us and we do all we can to protect it.</p>
-          <p>The purpose of this Privacy Policy is to let you know the type of information we may gather about you, how we may use it, whether we disclose it to anyone, and the choices you have regarding our use of the information. Words and phrases in this
-            Privacy Policy have the same meaning as in the <a href="/quidco-account-holder-agreement/">Quidco Account Holder Agreement</a>.</p>
+          <p>This Privacy Policy explains what information we collect about you, how we may use it, and the steps we
+            take to ensure that it is kept secure. It also explains your rights and how to contact us. When we say
+            “Quidco”, “we”, “us” or “our”, we are referring to the one of our group businesses that is responsible for
+            processing your data – the controller. The controller is Maple Syrup Media Limited, a company registered in
+            England and Wales, under company registration number 05498276.</p>
+          <p>The words we use in this Privacy Policy have the same meaning as in the Quidco Account Holder
+            Agreement.</p>
+          <p>We collect and process personal data for the purposes of the following Quidco Services:</p>
+          <ul>
+            <li>The Quidco cashback service for web- and app-based transactions</li>
+            <li>The Quidco High Street cashback service for in-store purchases</li>
+            <li>The Quidco Compare cashback service for price comparison service</li>
+            <li>The Quidco ClickSnap cashback service for instore supermarket purchases</li>
+          </ul>
+          <p>Unless otherwise indicated, this Privacy Policy applies to each of these Quidco Services.</p>
         </div>
         <div class="content-group">
-          <h4 id="general">General Information</h4>
-          <p>Your personal data will be collected, processed, stored and used by us and passed to and processed by companies within our group and data processors acting under contract with us to provide customer support, track your transactions with retailers,
-            process payments we make to Account Holders and for other purposes referred to in this Privacy Policy, the Quidco Account Holder Agreement and any other agreements that Account Holders may have with us.</p>
+          <h4 id="we-collect">What information do we collect ?</h4>
+          <p>We collect, use, store and transfer different kinds of personal data about you which we have grouped
+            together as follows:</p>
+          <ul>
+            <li><strong>Claims Data</strong> includes data you provide concerning a purchase made from a retailer as
+              part of the process of raising and processing a Cashback claim on your behalf.
+            </li>
+            <li><strong>Contact Data</strong> includes postcode, address, email address and telephone numbers.</li>
+            <li><strong>Customer Service Contact Data</strong> includes records of your contact with our customer care
+              team, including live chat, telephone conversations, online tickets raised, emails and contacts through any
+              other customer contact channels.
+            </li>
+            <li><strong>Financial Data</strong> includes bank account, PayPal account and payment card (including
+              Identifier Card and Cashback Cashout Method) details.
+            </li>
+            <li><strong>Identity Data</strong> includes first name, last name, username, date of birth, gender or
+              similar identifier. For Quidco Compare, Identity Data also includes marital status.
+            </li>
+            <li><strong>Marketing and Communications Data</strong> includes your preferences for receiving marketing
+              from us and your communication preferences.
+            </li>
+            <li><strong>Profile Data</strong> includes your username and password, purchases or orders made by you,
+              Cashback allocated to you, your interests, preferences, feedback, reviews and survey responses.
+            </li>
+            <li><strong>Technical Data</strong> includes internet protocol (IP) address, your login data, browser type
+              and version, time zone setting and location, browser plug-in types and versions, operating system and
+              platform and other technology on the devices you use to access Quidco.
+            </li>
+            <li><strong>Transaction Data</strong> includes details about Cashback payments that may be due to you and
+              details of transaction that may give rise to Cashback.
+            </li>
+            <li><strong>Usage Data</strong> includes information about how you use Quidco and about the websites that
+              you accessed prior to accessing Quidco.
+            </li>
+          </ul>
+          <p>We also collect, use and share <strong>Aggregated Data</strong> such as statistical or demographic data.
+            Aggregated Data may be derived from your personal data but is put together in an aggregated and anonymous
+            manner (so that your identity and personal data are not accessible) and does not constitute personal data
+            for legal purposes. For example, we may aggregate your Usage and Transaction Data and (a) use it for
+            internal management purposes, (b) share it with current or prospective retailers, and (c) use it to target
+            offers that are made to Account Holders through Quidco. This type of information includes, for example,
+            usage of an Account Holder's Cashback Cashout Method, including the types of product that the individual
+            Account Holder purchases, the value of those purchases and the web, app, instore or other channels through
+            which the purchases are made. However, if we combine or connect Aggregated Data with your personal data so
+            that it can be associated with you or any of your personal data, we treat the combined data as personal data
+            which may only be used in accordance with the law and this Privacy Policy.</p>
         </div>
         <div class="content-group">
-          <h4 id="we-collect">The information we collect</h4>
-          <p>
-            <strong>Personal data</strong>: When you first sign-up for the Quidco Service, we ask for your name and email address and other personal information including details of your choice of Cashback Receipt Method, whether PayPal, a credit card or bank
-            account. In addition we usually also capture your IP address to understand user location. Other personal information about you is then optional to provide, for example any demographic data (age; occupation; interests etc) which you may choose to
-            provide in connection with another Quidco offering (such as Quidco Opinions).</p>
-          <p>
-            <strong>Sensitive personal data</strong>: In some instances, we may also ask you for sensitive personal information, for instance when obtaining and comparing insurance quotations from a retailer. This personal data may include information on your
-            racial or ethnic origin, physical or mental health or condition, allegations of criminality, criminal convictions, or sentences for convictions. It will be provided only with your explicit consent, including as to the retailer(s) with whom it will be
-            shared (such as a provider of insurance quotations). We will retain your personal data for as long as is permitted for legal, regulatory, taxation and fraud prevention purposes.</p>
+          <h4 id="how-is-data-collected">How is your personal data collected ?</h4>
+          <p>We use different methods to collect data from and about you including through:</p>
+          <ul>
+            <li>Direct interactions. You may give us your Identity, Contact and Financial Data by filling in forms or by
+              corresponding with us by post, phone, email or otherwise. This includes personal data you provide when
+              you:
+              <ul>
+                <li>create an account with Quidco;</li>
+                <li>Use a Quidco Service;</li>
+                <li>Request marketing to be sent to you;</li>
+                <li>Enter a competition, promotion or survey; or</li>
+                <li>Give us some feedback.</li>
+              </ul>
+            </li>
+            <li>Automated technologies or interactions. As you use Quidco, we may automatically collect Technical Data
+              about your equipment, browsing actions and patterns. We collect this personal data by using cookies,
+              server logs and other similar technologies. We may also receive Technical Data and Usage Data about you if
+              you visit other services employing our cookies.
+            </li>
+            <li>Third parties or publicly available sources. We may receive personal data about you from various third
+              parties as set out below:
+              <ul>
+                <li>Technical and Usage Data from the following parties:
+                  <ul>
+                    <li>Analytics providers such as Google;</li>
+                    <li>Affiliate advertising networks such as Affiliate Window, Commission Junction and Performance
+                      Horizon; and
+                    </li>
+                    <li>Technical monitoring and error reporting service providers, such as New Relic, Crashlytics and
+                      Papertrail.
+                    </li>
+                  </ul>
+                </li>
+                <li>Contact, Financial and Transaction Data from: providers of technical, payment and delivery services
+                  such as Visa, Reward Insight and CheckoutSmart, and from retailers from which you have made a purchase
+                  and affiliate advertising networks.
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div class="content-group">
+          <h4 id="how-we-use-data">How do we use your personal data, and what is our legal basis for doing so ?</h4>
+          <p>These are the legal bases we have for holding and processing your personal data:</p>
+          <ul>
+            <li><strong>Contract:</strong> To enter into or perform a contract with you</li>
+            <li><strong>Legitimate Interest:</strong> For our (or third parties’) legitimate interests, as long as they
+              aren’t overridden by your interests and rights
+            </li>
+            <li><strong>Consent:</strong> Your consent</li>
+            <li><strong>Obligation:</strong> To comply with our legal obligations</li>
+          </ul>
+          <p>And here is how we use your personal data, and our relevant legal basis (<strong>Our basis</strong>) for
+            doing so:</p>
+          <p>When you register with us, we obtain your Identity and Contact Data. That Identity and Contact Data may be
+            supplemented over time with other information, such as Transaction Data, and additional or updated Identity
+            and Contact Data. We use this information to maintain your registration with Quidco and administer our
+            relationship with you. Our basis: Contract.</p>
+          <p>If you enter into a transaction through the Quidco site or app, or provide us with details of a transaction
+            (such as where you are seeking to obtain Cashback on a Quidco High Street or Quidco ClickSnap purchase), we
+            may use your Identity, Contact, Financial (Identifier Card) and Transaction Data to track your transaction
+            and to receive and process Referral Fees. Our basis: Contract and Legitimate Interest (to receive payment of
+            sums owed to us and you).</p>
+          <p>We use the Cashback Cashout Method you have registered in your Account as part of your Financial Data to
+            process and distribute Cashback to you. Our basis: Contract</p>
+          <p>Where a claim or complaint is raised as to Cashback that may be owed, we may use your Identity, Contact,
+            Financial and Transaction Data, as well as relevant Claims Data, to process that claim or complaint. Our
+            basis: Contract and Legitimate Interest (to receive payment of sums owed to us and you).</p>
+          <p>We will also use Identity and Contact Data, Payment Data and Transaction Data to monitor purchases with the
+            objective of helping to prevent fraud. Our basis: Legitimate Interest (fraud-prevention).</p>
+          <p>From time to time, you may participate in a survey or provide us with feedback or otherwise engage with us
+            in ways that, in combination with other data we hold, may be included in your Profile Data. In using the
+            Quidco (and other) websites and apps, we and our service providers will also collect Technical and Profile
+            Data. We use and combine Identity, Contact, Profile, Transactional, Financial, Technical and Usage Data to
+            make our products and services, including the Quidco site and app, and the offers you receive, better and
+            more relevant to you, and to enable us to create content that is more suited to you and send you more
+            relevant communications. Our basis: Legitimate Interest (making our products and services and their
+            marketing more specific to you).</p>
+          <p>Where you opt to receive marketing communications from us, we will use your relevant Marketing and
+            Communications Data to communicate that marketing to you. Our basis: Consent.</p>
+          <p>We retain records of our financial transactions and contracts with you in order to maintain adequate
+            accounting records and meet legal requirements. Our basis: Obligation.</p>
+          <p>We will use your Marketing and Communications Data and Identity and Contact Data to keep you informed of
+            important changes to our relationship with you, such as by notifying you of changes to this Privacy Policy.
+            Our basis: Contract, Obligation and Legitimate Interest (in maintaining a compliant relationship with
+            you).</p>
+          <p>We use Customer Service Contact Data, and your Identity and Contact Data, to deal with and investigate
+            issues you raise with us, to communicate with you about them and (in the case of Customer Service Contact
+            Data that we pseudonymise for the purpose) to improve Quidco Services. Our basis: Contract; Legitimate
+            Interest (improving Quidco Services).</p>
+          <p>We will only use your personal data for the above purposes, unless we reasonably consider that we need to
+            use it for another reason and that reason is compatible with the original purpose. If we need to use your
+            personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows
+            us to do so. We may process your personal data without your knowledge or consent where this is required or
+            permitted by law.</p>
+        </div>
+        <div class="content-group">
+          <h4 id="how-long-we-keep-data">How long will we keep your personal data for ?</h4>
+          <p>We keep your personal data for as long as is necessary:</p>
+          <ul>
+            <li>for Our basis as specified in this Privacy Policy, and</li>
+            <li>to address relevant legal, tax or accounting requirements, including potential claims by and against
+              us.
+            </li>
+          </ul>
+          <p>To determine the appropriate retention period for personal data, we consider the amount, nature, and
+            sensitivity of the data, the potential risk of harm from unauthorised use or disclosure of that data, the
+            purposes for which we process it, whether we can achieve those purposes through other means, as well as
+            legal, taxation and accounting requirements.</p>
+          <p>You can request more details of how we apply these criteria by contacting our Information Officer by email
+            at <a href="mailto:privacy@quidco.com">privacy@quidco.com</a>.</p>
+          <p>When the need to keep your personal data ends, we either delete or anonymise it.</p>
+        </div>
+        <div class="content-group">
+          <h4 id="who-we-share-data-with">Whom will we share your personal data with ?</h4>
+          <p>We will share your personal data with members of our group of companies that provide services to group
+            members, and to various third parties, but in each case always for the uses referred to above. These third
+            parties businesses are:</p>
+          <ul>
+            <li>Affiliate networks that are involved in the transaction and cashback-allocation process</li>
+            <li>Payment and transactional service providers</li>
+            <li>Advertising service providers, such as OATH, providing display advertising across the basic version of
+              site
+            </li>
+            <li>Retailers, listed at <a href="https://www.quidco.com/a-z/">https://www.quidco.com/a-z/</a></li>
+            <li>Service providers providing:
+              <ul>
+                <li>Web- and app-hosting services</li>
+                <li>Web site optimisation services</li>
+                <li>Web site usage services</li>
+                <li>Email service provision</li>
+                <li>Mobile push notification services</li>
+                <li>Data management platform provision</li>
+                <li>Digital gift card distribution services</li>
+                <li>Customer relationship management services</li>
+                <li>Marketing tracking partners</li>
+                <li>Messaging services</li>
+                <li>Social media platforms</li>
+                <li>Online and offline marketing services</li>
+                <li>Research and profiling services</li>
+              </ul>
+            </li>
+            <li>HM Revenue &amp; Customs, regulators and other authorities who require reporting of processing activities in
+              certain circumstances
+            </li>
+          </ul>
+          <p>We may also share your personal data with others where to do so is mandated by applicable law.</p>
+          <p>Your Marketing and Communications Data will only be shared with a third party for the purpose of them
+            directly marketing to you where you have consented to that marketing.</p>
+          <p>If we transfer your personal data outside the European Economic Area (EEA) to a country that does not
+            provide a similar level of legal protection to that provided by the United Kingdom’s data protection laws,
+            we put in place legally appropriate safeguards to require the protection of your personal data. You can
+            request details of those safeguards by contacting our Information Officer by email at <a href="mailto:privacy@quidco.com">privacy@quidco.com</a>.</p>
+          <p>If we sell our business or assets, your personal data may be provided to the prospective purchaser’s
+            advisers with appropriate legal protections and will be passed to the new owners of the business.</p>
+        </div>
+        <div class="content-group">
+          <h4 id="how-we-keep-data-secure">How do we keep your data secure?</h4>
+          <p>We have put in place appropriate security measures intended to prevent your personal data from being
+            accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit
+            access to your personal data to those employees, agents, contractors and other third parties who have a
+            business need to know. They will only process your personal data on our instructions and they are subject to
+            a duty of confidentiality.</p>
+          <p>We have put in place procedures to deal with any suspected personal data breach and will notify you and any
+            applicable regulator of a breach where we are legally required to do so.</p>
+        </div>
+        <div class="content-group">
+          <h4 id="your-legal-rights">Your legal rights</h4>
+          <p>Under the law, you have the right to:</p>
+          <ul>
+            <li><strong>Request access</strong> to your personal data (commonly known as a “data subject access
+              request”). This enables you to receive a copy of the personal data we hold about you and to check that we
+              are lawfully processing it.
+            </li>
+            <li><strong>Request correction</strong> of the personal data that we hold about you. This enables you to
+              have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the
+              accuracy of the new data you provide to us.
+            </li>
+            <li><strong>Request erasure</strong> of your personal data. This enables you to ask us to delete or remove
+              personal data where there is no good reason for us continuing to process it. You also have the right to
+              ask us to delete or remove your personal data where you have successfully exercised your right to object
+              to processing (see below), where we may have processed your information unlawfully or where we are
+              required to erase your personal data to comply with local law. Note, however, that we may not always be
+              able to comply with your request of erasure for specific legal reasons which will be notified to you, if
+              applicable, at the time of your request.
+            </li>
+            <li><strong>Object to processing</strong> of your personal data where we are relying on a legitimate
+              interest (or those of a third party) and there is something about your particular situation which makes
+              you want to object to processing on this ground as you feel it impacts on your fundamental rights and
+              freedoms. You also have the right to object where we are processing your personal data for direct
+              marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to
+              process your information which override your rights and freedoms.
+            </li>
+            <li><strong>Request restriction of processing</strong> of your personal data. This enables you to ask us to
+              suspend the processing of your personal data in the following scenarios: (a) if you want us to establish
+              the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c)
+              where you need us to hold the data even if we no longer require it as you need it to establish, exercise
+              or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we
+              have overriding legitimate grounds to use it.
+            </li>
+            <li><strong>Request the transfer</strong> of your personal data to you or to a third party. We will provide
+              to you, or a third party you have chosen, your personal data in a structured, commonly used,
+              machine-readable format. Note that this right only applies to automated information which you initially
+              provided consent for us to use or where we used the information to perform a contract with you.
+            </li>
+            <li><strong>Withdraw consent</strong> where we are relying on consent to process your personal data.
+              However, this will not affect the lawfulness of any processing carried out before you withdraw your
+              consent.
+            </li>
+          </ul>
+          <p>If you wish to exercise any of the rights set out above, please contact our Information Officer by email at
+            <a href="mailto:privacy@quidco.com">privacy@quidco.com</a>. You will not have to pay a fee to exercise any
+            of your legal rights as specified above. However, we may charge a reasonable fee if your request is clearly
+            unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these
+            circumstances.</p>
+          <p>We may need to request specific information from you to help us confirm your identity and ensure your right
+            to access the relevant your personal data (or to exercise any of your other legal rights). This is a
+            security measure we take to help avoid your personal data being disclosed to a person who has no right to
+            receive it.</p>
+          <p>We may also contact you to ask you for further information in relation to your request to help speed up our
+            response.</p>
+          <p>We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a
+            month if your request is particularly complex or you have made a number of requests. In this case, we will
+            notify you and keep you updated.</p>
         </div>
         <div class="content-group">
           <h4 id="cookies">Cookies</h4>
-          <p>
-            <strong>Cookies</strong>: When your web browser accesses a specific web site such as ours, cookies (a type of small text file) may, depending on your browser settings, be automatically stored on your computer's hard drive.</p>
-          <p></p>
-          <strong>In using the Quidco Service, cookies will be placed both by Quidco</strong>and by third parties. You can see details of the cookies placed by Quidco.<a href="/cookies">here</a>
-          <p></p>
-          <strong>
-            These Cookies do the following:</strong>
-          <ol class="decimal">
-            <li>Tell us the route (such as a web-search or an online advertisement, for example) by which you came to the Quidco site.</li>
-            <li>Where you are an Account Holder:
-              <ol class="alphabetical"></ol>
+          <p>Details of our cookie policy and the cookies used by Quidco are available <a href="https://www.quidco.com/cookies/">here</a>.</p>
+        </div>
+        <div class="content-group">
+          <h4 id="password-security">Password Security</h4>
+          <p>Access to your Account is password-protected for your privacy and security. While we do our best to protect
+            your personal information you also must protect yourself. What does this mean?</p>
+          <ul>
+            <li>Keep your password or other access information secret.</li>
+            <li>Ensure no-one else uses Quidco while your machine is "signed in" to the Quidco site or app.</li>
+            <li>Make sure you sign out from your Account when not using it.</li>
+            <li>Ensure that only you have access to the details of your Cashback Cashout Method, such as Paypal or
+              digital gift card, charitable donation, or bank account, which are intended to be kept secret.
             </li>
-            <li>Track your transactions. When you make a purchase on a retailer's site it's cookies that give us the information to track your transactions with retailers. Specifically it tells us which retailer's site you've clicked through to and when and if
-              you go on to make a transaction. Specifics related to the value of the transaction, and its validation or cancellation, are sent at a later date by the participating retailer.</li>
-            <li>Keep you logged in to your Account for a period of time.</li>
-            <li>Allow us to comply with your choices about the display of information in your Account.</li>
-            <li>Track your use of blogging functionality available through the Quidco site.</li>
-            <li>Remember the options you select (such as favourite merchants).</li>
-            <li>Permit integration with social media sites (such as the ability to "like" Quidco on Facebook).</li>
-            <li>Provide you with recommended offers, based on your use of Quidco and the transactions you enter into through it.</li>
-            <li>Also, if you visit the Quidco site and do not establish an Account, a cookie-like technology allows you to be presented with advertising for Quidco on other sites that you visit - this advertising is intended to prompt you to return to the Quidco
-              site to register as an Account Holder.</li>
-          </ol>
-          <p>Note that retailers may place cookies on your device when you transact with them: those cookies will be governed by the retailer’s own policies. We are not responsible for retailers’ or other third parties’ acts and omissions (including in
-            relation to their cookie and privacy policies).</p>
-          <p>We may include cookies on the Quidco site that allow third party advertisers to present you with advertising on the Quidco site based on interests inferred from your web browsing activity and your use of the Quidco Service. To understand more
-            about the cookies placed by third party advertising providers, please visit <a href="http://www.youronlinechoices.eu" target="_blank">www.youronlinechoices.eu</a>.</p>
-
-          <p>We believe that the cookies you encounter on the Quidco site are either (i) necessary to perform the functions that Account Holders wish to use the Quidco Service for, or (ii) are non-intrusive.</p>
-          <p>To learn how to manage and remove cookies, please go to <a href="http://www.allaboutcookies.org/manage-cookies/" target="_blank">www.allaboutcookies.org/manage-cookies</a>.</p>
-
-          <p></p>
-          <i class="icon-error-stylised pull-left"></i>
-          <strong>Please note, however, that if you set your browser to reject cookies you may not be able to use certain aspects of Quidco - and will not be able to earn Cashback.</strong>
-        </div>
-        <div class="content-group">
-          <h4 id="your-sharing">Your sharing of information with retailers and others</h4>
-          <p>As an Account Holder, you will from time to time make your personal data available to other businesses that work with us, including retailers. This will happen each time you enter into a transaction with a retailer, and will happen in other
-            circumstances (such as when you use a price- or quote-comparison service).</p>
-          <p>Each retailer or other business to which you provide your personal data will have its own practices concerning users' privacy. Those retailers and businesses are independent of Quidco, so you should check their privacy terms to make sure you are
-            happy with them.</p>
-        </div>
-        <div class="content-group">
-          <h4 id="our-sharing">Our sharing of information about you with others</h4>
-          <p>We like to understand our Account Holders interests as well as we can, in order to personalise the offers we make to them through the Quidco Service as much as possible. Therefore, we may provide personal data we hold about you as an Account
-            Holder (such as your name and email address) to one or more third party bureaux which will match that data against other information they hold about you - such as age, gender, demographic information, and known interests - and provide that
-            information to us. We always request these third party bureaux to delete your personal data from their systems as soon as possible, and to keep data relating to you confidential.</p>
-          <p>We will use the information they provide to us to target more accurately the offers that are made to you through the Quidco Service.</p>
-          <p>We also put the information we gather about Account Holders together in an aggregated and anonymous manner (so that your identity and personal data are not accessible) and (a) use it for internal management purposes, (b) share it with current or
-            prospective retailers and (c) use it to target offers that are made to Account Holders through the Quidco Service. This type of information includes, for example, usage of an Account Holder's Cashback Receipt Method, such as the types of product that
-            the individual Account Holder purchases and the value of those purchases.</p>
-          <p>In addition, Quidco will also share data with trusted 3rd parties to enable our instore program to correctly track your Qualifying Transactions and related Referral Fees:</p>
-          <ul class="bulleted">
-            <li>By registering the number of your credit card and/or debit card and/or charge card ("Identifier Card Numbers") in the Quidco Programme, you hereby authorise us to disclose your Identifier Card Numbers to&nbsp;businesses which assist Quidco by
-              associating with your Account certain in-store purchases you may make (we call them “Transactional Service Providers”), to retailers or their suppliers (even if you never use the Identifier Card Numbers with one or more of those retailers) to
-              identify and calculate sums which may contribute to your Balance and otherwise as appropriate in accordance with the terms of our Privacy Policy and acknowledge that we and&nbsp;Transactional Service Providers&nbsp;on our behalf, will collect any and
-              all information from any retailer, merchant acquirer, credit card processor, issuing bank, or any other available source with respect to the purchases made using your Identifier Card Numbers. You represent with respect to each Identifier Card Number
-              that you have provided that you are entitled to register that card number and receive information about the transactions effected using such card.&nbsp;To see the details of our Transactional Service Providers, please <a href="/transactional-service-providers/">click here</a>.</li>
-            <li>You may only register a maximum of 5 Identifier Card Numbers per Member's account, however this may include cards belonging to other members of your household/family providing that they have consented to the registration of their Identifier Card
-              Number(s) to assist you to collect Cashback. We may request that you provide written evidence of such consent at any time. If we are not satisfied that all Identifier Card Numbers are included with the holder's consent we reserve the right to
-              de-register any or all Identifier Card Numbers on your account.</li>
-            <li>Each Identifier Card Number may only be registered at any one time to one service in the world through which cards are used as identifiers for the purpose of crediting rewards (whether cashback, points or other kinds of rewards) when shopping
-              with designated retailers. In the event of more than one attempted registration of the same Identifier Card Number the last registration will prevail and previous registrations will be automatically de-registered.</li>
           </ul>
-          <p>Your personal data may be disclosed if we, or an entity processing your data on our behalf, are compelled to do so by law, or receive a valid, legally-compliant request for its disclosure.</p>
         </div>
         <div class="content-group">
-          <h4 id="security">Security</h4>
-          <p>We're committed to protecting your personal information. All information that you provide to us is stored on secure servers and access to this database is restricted internally. While no computer system is completely secure, we believe the
-            measures we use reduce the likelihood of security problems to a level appropriate to the type of data involved.</p>
-          <p>Access to your Account is password-protected for your privacy and security. While we do our best to protect your personal information you also must protect yourself. What does this mean?</p>
-          <ul class="bulleted"></ul>
-        <li>Keep your password or other access information secret.</li>
-        <li>Ensure no-one else uses Quidco while your machine is "signed in" to the Quidco site.</li>
-        <li>Make sure you sign out from your Account when not using it.</li>
-        <li>Ensure that only you have access to the details of your Cashback Receipt Method, such as Paypal or a credit card or bank account, which are intended to be kept secret.</li>
-      </div>
-      <div class="content-group">
-        <h4 id="editing-account">Editing your Account and mailing settings</h4>
-        <p>We like to keep in touch with our Account Holders so after you have signed up to Quidco we'll send you information about products or services provided by us or our partners that we think will be of interest to you.</p>
-        <p>Of course we know lots of emails can be annoying so we try to keep ours to a minimum. However, if you feel you're getting too many or would like more you can change the settings in your Account at any time. We have a one click unsubscribe policy,
-          and each communication gives you the opportunity to opt-out of receiving similar future communications using a link at the bottom of the email. You can also review, change or correct your identity and email address information by signing into your
-          Account and going to the settings tab.</p>
-        <p>Please note there are some communications that are an integral part of the Quidco Service and cannot be opted-out of. These communications cover, amongst other things, changes to the Quidco Service and your actual or potential transactions with
-          retailers. They can be brought to an end by de-registering your Account.</p>
-      </div>
-      <div class="content-group">
-        <h4 id="access">Access to information</h4>
-        <p>The Data Protection Act 1998 gives you the right to access the personal data we hold about you.</p>
-        <p>In accordance with that Act, we reserve the right to charge a small fee if you ask us to provide you with this information. If you have questions about the handling or protection of your personal data, a written enquiry should be sent to us using our <a href="/support-contact-us/">contact form</a>.</p>
-
-      </div>
-      <div class="content-group">
-        <h4 id="access">Relationship with the Quidco Account Holder Agreement</h4>
-        <p>
-          Words and phrases used in this Privacy Policy have the same meaning as is attributed to them in the <a href="/quidco-account-holder-agreement/">Quidco Account Holder Agreement</a>.
-          Any changes to it will be made in accordance with the <a href="/quidco-account-holder-agreement/">Quidco Account Holder Agreement.</a>
-        </p>
-      </div>
-      <div class="content-group">
-        <h4 id="changes-to-statement">Changes to this privacy statement</h4>
-        <p>This Privacy Policy is correct as of 14/10/2015.</p>
-      </div>
-      <div class="content-group">
-        <h4 id="registered-details">Registered details</h4>
-        <p>Maple Syrup Media Ltd. is a company registered in England and Wales, under company registration number 05498276 and having its registered address as 4th Floor, 76-80 Great Eastern Street, London, EC2A&nbsp;3JL. Registered under the Data Protection
-          Act. Registration No. Z9450695</p>
-        <p>If you have any further questions about this privacy policy you can contact Quidco on the details below.</p>
-        <p>4th Floor, 76-80 Great Eastern Street, London, EC2A&nbsp;3JL.</p>E: members@quidco.com
-        <p></p>
-      </div>
-    </div>
-  </div>
-</div>
-  </div>
-
-
-
-  
-  
-  <div id="modal-non-verified-visit" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modalVisit" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <div class="modal-header-content">
-                      <button type="button" data-dismiss="modal" aria-label="Close" class="modal-close">
-              <span aria-hidden="true">
-                <svg>
-                  <use xlink:href="#icon-cross"></use>
-                </svg>
-              </span>
-            </button>
-                    <div class="modal-title">
-            	<h3>Authenticate your account</h3>
-          </div>
+          <h4 id="editing-your-account">Editing your Account and mailing settings</h4>
+          <p>We like to keep in touch with our Account Holders so – where you have opted to receive marketing
+            communications from us – we will use your relevant Marketing and Communications Data to communicate that
+            marketing to you.</p>
+          <p>Of course we know lots of emails can be annoying so we try to keep ours to a minimum. However, if you feel
+            you're getting too many or would like more you can change the settings in your Account at any time. We have
+            a one click unsubscribe policy, and each communication gives you the opportunity to opt-out of receiving
+            similar future communications using a link at the bottom of the email. You can also review, change or
+            correct your identity and email address information by signing into your Account and going to the settings
+            tab.</p>
+          <p>Please note there are some (non-marketing) communications that are an integral part of the Quidco Service
+            and cannot be opted-out of. These communications cover, amongst other things, changes to the Quidco Service
+            and your actual or potential transactions with retailers. They can be brought to an end by de-registering
+            your Account.</p>
+        </div>
+        <div class="content-group">
+          <h4 id="relationship-with-account-holder-agreement">Relationship with the Quidco Account Holder Agreement</h4>
+          <p>Words we use in this Privacy Policy have the same meaning as in the Quidco Account Holder Agreement.</p>
+          <p>This Privacy Policy is correct as of <strong>22nd May 2018</strong></p>
+        </div>
+        <div class="content-group">
+          <h4 id="contacting-us">Contacting us</h4>
+          <p>We have appointed an Information Officer who is responsible for overseeing questions in relation to this
+            Privacy Policy. If you have any questions about this Privacy Policy, including any requests to exercise your
+            legal rights, please contact our Information Officer using the details set out below.</p>
+          <p>Email address of Information Officer: <a href="mailto:privacy@quidco.com">privacy@quidco.com</a></p>
+          <p>Postal address of Information Officer: The Information Officer, Quidco, 4th Floor, 76-80 Great Eastern
+            Street, London, EC2A 3JL</p>
+          <p>You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK’s
+            supervisory authority for data protection issues <a href="http:/www.ico.org.uk">(www.ico.org.uk)</a>. We
+            would, however, appreciate the chance to deal with your concerns before you approach the ICO so would
+            request that you contact us in the first instance.</p>
         </div>
       </div>
-      <div class="modal-body">
-        	<p>
-		<i></i>
-		Before you start earning we need you to authenticate your account.<br>
-		Just check your email for the message we sent you and click<br>
-		The "<b>Authenticate account</b>" link.
-	</p>
-	<h4>Haven't received an email?</h4>
-	<p>Please check your junk or spam folders for the message we sent you.<br>
-		If you don't have it, we can <a href="/resend/?email=">resend the email</a></p>
-
-      </div>
-      	<div class="modal-footer">
-		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-	</div>
     </div>
   </div>
-</div>
+  </div>
+
+
+
   
+  
+  
+  
+    
   <div id="modal-sign-in" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modalSignIn" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -1887,12 +2036,12 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
 <form class="nice-message-form sign-in-form" action="https://www.quidco.com/sign-in/" method="post">
   <div class="row">
     <div class="col-xs-12 col-md-6"><div class="form-group">
-        <input type="text" class="form-control" id="username-modal" name="username" maxlength="100" placeholder="Email or Quidco username" autocapitalize="off">
+        <input type="text" class="form-control" id="username-modal" name="username" maxlength="100" placeholder="Email or Quidco username" autocapitalize="off" required="required">
         <label for="username-modal" class="placeholder">Email or Quidco username</label>
       </div>
 
       <div class="form-group clearfix">
-        <input type="password" class="form-control" id="password-modal" maxlength="32" name="password" placeholder="Quidco password">
+        <input type="password" class="form-control" id="password-modal" maxlength="32" name="password" placeholder="Quidco password" required="required">
         <label for="password-modal" class="placeholder">Quidco password</label>
         <span class="help-block pull-right">
           <a href="/remind/">Forgot password?</a>
@@ -1915,7 +2064,7 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
     <!-- Hidden fields -->
 
     <input type="hidden" name="action" value="login">
-    <input type="hidden" name="login_token" id="login_token" value="6fef2ba6bd041486c73d9b83db76f6ac"><input type="hidden" name="inbound_filename" value="privacy-policy">
+    <input type="hidden" name="login_token" id="login_token" value="00905959e021d462f31742d87d40986e"><input type="hidden" name="inbound_filename" value="privacy-policy">
     <input type="hidden" name="back" value="https://www.quidco.com/privacy-policy/">
     <input type="hidden" name="login_back" value="https://www.quidco.com/privacy-policy/">
 
@@ -1938,12 +2087,11 @@ try {window.localStorage.setItem('isAutoRefresh', 'false');} catch(e){}
             <i class="icon-facebook-join pull-left"></i>
             Sign in with Facebook</a>
         </div><div class="form-group form-group-paypal">
-        <div>
-                    <a href="#" signin="https://www.paypal.com/signin/authorize?client_id=AeqNMRDL4g41wLIs6S09rQVRvLgfsHJjCPDvsFDKx1hxJQfxoxesv0aflDUB&amp;response_type=code&amp;scope=openid+profile+email+https%3A%2F%2Furi.paypal.com%2Fservices%2Fpaypalattributes&amp;redirect_uri=https%3A%2F%2Fwww.quidco.com%2Fpaypal-auth" class="btn btn-block btn-paypal paypal-signin ">
-            <i class="icon-paypal-join pull-left"></i>Sign in with PayPal</a>
-        </div>
-      </div>
-    </div>
+          <div>
+                        <a href="#" signin="https://www.paypal.com/signin/authorize?client_id=AeqNMRDL4g41wLIs6S09rQVRvLgfsHJjCPDvsFDKx1hxJQfxoxesv0aflDUB&amp;response_type=code&amp;scope=openid+profile+email+https%3A%2F%2Furi.paypal.com%2Fservices%2Fpaypalattributes&amp;redirect_uri=https%3A%2F%2Fwww.quidco.com%2Fpaypal-auth" class="btn btn-block btn-paypal paypal-signin ">
+              <i class="icon-paypal-join pull-left"></i>Sign in with PayPal</a>
+          </div>
+        </div></div>
   </div>
 </form>
       </div>
@@ -2197,7 +2345,19 @@ Helping over 5 million Brits earn cashback at over 4,300 retailers, Quidco is th
 http://www.quidco.com/user/%user_id%/%campaign_id%%url_name%/email 
 
 Thanks, 
-%user_name%"></div>
+%user_name%"><input type="hidden" name="refer_subject_promotion" id="refer-subject-promotion" value="Earn cashback on everything you buy">
+                    <input type="hidden" name="refer_message_promotion" id="refer-message-promotion" value="Hi, 
+
+I saw the %current_promotion% site on Quidco and thought of you!
+
+Helping over 5 million Brits earn cashback at over 4,300 retailers, Quidco is the key to more rewarding shopping. Join free today.
+
+http://www.quidco.com/user/%user_id%/%promotion_base64_uri_encode%/email
+
+Thanks, 
+%user_name%">
+                    <input type="hidden" name="current_promotion_name" id="current-promotion-name" value="Today's top deals">
+                                        <input type="hidden" name="promotion_base64_uri_encode" id="promotion-base64-uri-encode" value="czoxNDoicHJpdmFjeS1wb2xpY3kiOw=="></div>
         </div>
         <div class="form-group">
             <div class="col-xs-9 col-xs-offset-2">
@@ -2236,160 +2396,6 @@ Thanks,
           </div>
   </div>
 </div>
-<div id="modal-visit" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modalVisit" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <div class="modal-header-content">
-                      <button type="button" data-dismiss="modal" aria-label="Close" class="modal-close">
-              <span aria-hidden="true">
-                <svg>
-                  <use xlink:href="#icon-cross"></use>
-                </svg>
-              </span>
-            </button>
-                    <div class="modal-title">
-              <div class="modal-issues display-none">
-    <h3>Safari tracking problems</h3>
-  </div>
-
-  <div class="modal-temp-unavailable display-none">
-    <h3>Retailer temporarily unavailable</h3>
-  </div>
-
-  <div class="modal-header modal-header-default">
-    <button type="button" data-dismiss="modal" aria-label="Close" class="modal-close">
-      <span aria-hidden="true">
-        <svg>
-          <use xlink:href="#icon-cross"></use>
-        </svg>
-      </span>
-    </button>
-    <div class="modal-title-image">
-          <img src="//i.cashbacksrv.com/quidco_com/p/static/uploads/a/img/merchant-logo/.gif?uft=0" alt="">
-    </div>
-    <div class="modal-title">
-      <h3></h3>
-      <p class="lead3 m-warning display-none">You're about to visit</p>
-      <p class="lead3 m-non-warning display-none">was opened in another window</p>
-    </div>
-  </div>
-          </div>
-        </div>
-      </div>
-      <div class="modal-body">
-        
-  <div class="alert alert-block alert-info">
-    <svg class="alert-icon">
-      <use xlink:href="#icon-bullet-exclamation"></use>
-    </svg>
-    <div class="alert-text">
-      <span></span>
-    </div>
-  </div>
-
-  <div style="top: 0px; bottom: 0px;" class="cashback-bubble">
-    <div class="alert alert-success">
-      <svg class="alert-icon">
-        <use xlink:href="#icon-bullet-tick"></use>
-      </svg>
-      <div class="alert-text">
-        <p>Your visit has been recorded. The cashback from any purchase(s) will soon show in your account.</p>
-      </div>
-    </div>
-    <ul id="accordion-modal" class="panel-group">
-      <li role="button" data-toggle="collapse" data-parent="#accordion" href="#accordion-modal1-1" class="panel panel-default">
-        <h5 class="panel-title">What happens next?
-          <div class="icon-primary-expand-bg">
-            <div class="icon-primary-expand"></div>
-          </div>
-        </h5>
-
-        <div id="accordion-modal1-1" class="panel-collapse collapse">
-          <div class="panel-content">
-            Your cashback needs to track into your Quidco account. We'll send you a tracking receipt via email when this happens and you'll see your purchase in your Activity page.
-          </div>
-        </div>
-      </li>
-
-          </ul>
-  </div>
-
-  <div class="voucher-code display-none">
-    <h6>Copy this voucher code &amp; paste at the checkout</h6>
-    <p></p>
-  </div>
-
-  <div class="modal-issues display-none">
-    <div id="modal-issues-text" class="display-none">
-      <p>This retailer is currently experiencing tracking problems with the Safari browser. We strongly recommend
-          that you use an alternate browser to help ensure that your cashback tracks.</p>
-      <p>This retailer is currently experiencing tracking problems with the Safari browser. We strongly recommend that you use an alternate browser to help ensure that your cashback tracks.</p>
-        <p>We suggest downloading the latest version of Firefox or Google Chrome and visiting the retailer again via Quidco.</p>
-    </div>
-    <div id="modal-issues-iphone" class="display-none">
-      <p>This retailer is currently experiencing tracking problems with the Safari browser. We strongly recommend you use a desktop computer and use the latest version of Google Chrome or Firefox browser to help ensure that your cashback tracks.</p>
-    </div>
-    <div id="modal-issues-mobile" class="display-none">
-      <p>Tracking is not currently set up for this retailer.</p>
-    </div>
-  </div>
-  <div class="modal-temp-unavailable display-none">
-    <p>This retailer is currently experiencing technical issues and is temporarily unavailable. They hope to be back on Quidco shortly.&nbsp;Follow this retailer and be notified when they become available again.</p>
-  </div>
-      </div>
-      
-  <div class="modal-footer">
-    <div class="modal-footer-content">
-      <div class="modal-temp-unavailable-prompt-browser display-none">
-
-                                                                                        <div class="favourite-container">
-          <a href="#" class="btn btn-primary btn-icon btn-invert pull-left inactive" data-total-bookmarks="0">
-            <span>
-              <span id="follow_link_text">Favourite </span>
-              <svg>
-                <use xlink:href="#icon-favourites-unfill"></use>
-              </svg>
-            </span>
-          </a>
-        </div>
-        <script type="text/javascript">
-        var followed_link = "Favourite";
-        var followed_alert_title = "Favourited ";
-        var followed_alert_copy = "Whenever this retailer offers a cashback rate increase or new voucher code you'll be automatically notified by email. If you no longer wish to receive these alerts simply deselect the 'favourite' link on this page. You can also customise your alerts in Settings.";
-        var unfollowed_alert_title = "Removed  from Favourites";
-        var unfollowed_alert_copy = "You will no longer receive an email when a cashback rate for  increases or a voucher code is added. If you wish to receive these alerts once again, simply click the favourite link on this page.";
-        var followed_link_copy = "Remove from Favourites";
-        var unfollowed_link_copy = "Favourite";
-        </script>
-
-      </div>
-      <div class="continue-hide m-non-warning display-none">
-        <div class="modal-footer-primary">
-          <p>
-            <a href="/home/" class="continue">
-              Continue shopping at Quidco for more great offers<i class="chevron-standard-right"></i>
-            </a>
-          </p>
-        </div>
-        <div class="modal-footer-secondary">
-          <p>
-            <a href="#" class="hide-messages display-none">Hide these messages</a>
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="visit m-warning display-none">
-      <a href="#" target="_blank" class="btn btn-primary" data-analytics-trigger="MERCHANT_CLICKOUT">I understand, visit retailer</a>
-    </div>
-    <div class="modal-issues-prompt-browser display-none">
-      <input type="button" class="btn btn-primary firefox" value="Get Firefox" onclick="window.open('http://www.mozilla.org/en-US/firefox/new/')">
-      <input type="button" class="btn btn-primary" value="Get Chrome" onclick="window.open('https://www.google.com/intl/en/chrome/browser/')">
-    </div>
-  </div>
-    </div>
-  </div>
-</div>
 <div id="modal-adblock-visit" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modalVisit" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -2412,14 +2418,14 @@ Thanks,
 		<p class="alert alert-warning alert-block">
 			<i class="alert-icon"></i>Your browser is set to block pop-up ads and cookies.<br>
 			It's vital you turn off your ad blocker now. If you don't Quidco will not track your purchase.<br>
-			<a href="/help/1345/">How do I do this?</a>
+			<a href="https://support.quidco.com/article/technical-tracking-help">How do I do this?</a>
 		</p>
 	</div>
       </div>
       <div class="modal-footer">
 	<div class="modal-adblock-disclaimer">
 		<input type="button" data-dismiss="modal" class="btn" value="Close">
-		<a href="#" target="_blank" class="modal-visit btn btn-secondary">Proceed anyway</a>
+		<a href="#" data-bind-recaptcha="true" target="_blank" class="modal-visit btn btn-secondary">Proceed anyway</a>
 	</div>
 </div>
     </div>
@@ -2473,18 +2479,15 @@ Thanks,
 </div>
 
 
-<div id="chat-need-help">
-  </div>
-
 <div id="di-base-url" class="hide">https://www.quidco.com/</div>
 
 
 
-        <script src="//static.quidco.com/js-built/v4/thirdparty.min.js?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1"></script>
+        <script src="//static.quidco.com/js-built/v4/thirdparty.min.js?sauid=dde01d3ad129fe420156b5350633b6095f717e7c"></script>
     
-        <script src="//static.quidco.com/js-built/v4/quidco.min.js?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1"></script>
+        <script src="//static.quidco.com/js-built/v4/quidco.min.js?sauid=dde01d3ad129fe420156b5350633b6095f717e7c"></script>
 
-            <script src="//static.quidco.com/v4/assets/js/advertisement.js?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1"></script>
+            <script src="//static.quidco.com/v4/assets/js/advertisement.js?sauid=dde01d3ad129fe420156b5350633b6095f717e7c"></script>
 
     
 
@@ -3036,7 +3039,7 @@ $('.search-panel').on('click', '.mixpanel-search-merchant-link', function () {
 
                       
     try {
-      $('#store-q1search, #sticky-search').elasticTypeahead('privacy-policy', '//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/search/searchBannerRAF.jpg?sauid=797e8e6e8be2b581b5e83b139491ec683d988dc1', '1');
+      $('#store-q1search, #sticky-search').elasticTypeahead('privacy-policy', '//i.cashbacksrv.com/quidco_com/p/static/assets/v4/assets/images/common/search/searchBannerRAF.jpg?sauid=dde01d3ad129fe420156b5350633b6095f717e7c', '1');
     } catch(err) {
       console.log('error calling elasticTypeahead');
     }
@@ -3081,11 +3084,9 @@ $('.search-panel').on('click', '.mixpanel-search-merchant-link', function () {
         $('body').quidcoAutoRefresh();
     
     
-    
     $('.modal').resizableModal();
 
     
-
     $('body').paypalLogin();
 
     /*
@@ -3152,13 +3153,13 @@ $('.search-panel').on('click', '.mixpanel-search-merchant-link', function () {
       });
 </script>
 
-<script>
-  $(document).ready(function() {
+  <script>
+    $(document).ready(function () {
 
-    $(".nav-scroll").hashedNavWithScroll({scroll_to: "pp"});
+      $(".nav-scroll").hashedNavWithScroll({scroll_to: "pp"});
 
-  });
-</script>
+    });
+  </script>
 
 
 
@@ -3183,18 +3184,16 @@ $('.search-panel').on('click', '.mixpanel-search-merchant-link', function () {
 </script>
 <div id="footer">
   <div class="container">
-           <div class="row"><div class="col-xs-12 col-sm-4 col-md-3"><div class="component"><div class="responsive-component-title"><h5 class="hidden-xs">Browse Quidco</h5><div data-toggle="collapse" data-target="#browse_footer" class="visible-xs"><h5>Browse Quidco<span class="icon-white-expand-bg"><i class="icon-white-expand"></i></span></h5></div></div><div id="browse_footer" class="responsive-component-body hidden-xs"><ul class="list-unstyled"><li><a href="/browse/">All categories</a></li><li><a href="/a-z/">Retailers A-Z</a></li><li><a href="/newest/">Newest retailers</a></li><li><a href="/faster-paying-retailers/">Faster Paying retailers</a></li></ul></div></div><div class="component"><div class="responsive-component-title"><h5 class="hidden-xs">Hot offers</h5><div data-toggle="collapse" data-target="#hotOffers_footer" class="visible-xs"><h5>Hot offers<span class="icon-white-expand-bg"><i class="icon-white-expand"></i></span></h5></div></div><div id="hotOffers_footer" class="responsive-component-body hidden-xs"><ul class="list-unstyled"><li><a href="/hot-offers/">Hottest</a></li><li><a href="/top-cashback/">Top cashback deals</a></li><li><a href="/top-voucher-codes/">Top voucher codes</a></li><li><a href="/mobile-in-store-offers/">Mobile &amp; In-store</a></li><li><a href="/free-cashback/">Free cashback</a></li><li><a href="/hidden-gems/">Hidden gems</a></li></ul></div></div></div><div class="col-xs-12 col-sm-4 col-md-3"><div class="component"><div class="responsive-component-title"><h5 class="hidden-xs">Support</h5><div data-toggle="collapse" data-target="#support_footer" class="visible-xs"><h5>Support<span class="icon-white-expand-bg"><i class="icon-white-expand"></i></span></h5></div></div><div id="support_footer" class="responsive-component-body hidden-xs"><ul class="list-unstyled"><li><a href="/help/all/">FAQs</a></li><li><a href="/help/">Contact Quidco Support</a></li><li><a href="/accessibility/">Accessibility</a></li></ul></div></div><div class="component"><div class="responsive-component-title"><h5 class="hidden-xs">Apps, Tools &amp; Features</h5><div data-toggle="collapse" data-target="#usefulFeatures_footer" class="visible-xs"><h5>Apps, Tools &amp; Features<span class="icon-white-expand-bg"><i class="icon-white-expand"></i></span></h5></div></div><div id="usefulFeatures_footer" class="responsive-component-body hidden-xs"><ul class="list-unstyled"><li><a href="/quidco-high-street/">Quidco High Street</a></li><li><a href="/clicksnap/">ClickSnap</a></li><li><a href="/quidco-compare/">Quidco Compare</a></li><li><a href="/app/">Quidco mobile app</a></li><li><a href="/opinions/">Quidco Opinions</a></li><li><a href="/cashback-reminder/">Quidco Cashback Reminder</a></li><li><a href="/referrals/">Refer Quidco</a></li></ul></div></div></div><div class="col-xs-12 col-sm-4 col-md-3"><div class="component"><div class="responsive-component-title"><h5 class="hidden-xs">About Quidco</h5><div data-toggle="collapse" data-target="#company_footer" class="visible-xs"><h5>About Quidco<span class="icon-white-expand-bg"><i class="icon-white-expand"></i></span></h5></div></div><div id="company_footer" class="responsive-component-body hidden-xs"><ul class="list-unstyled"><li><a href="/how-it-works/" target="_blank">How Quidco Works</a></li><li><a href="https://www.maplesyrupmedia.com/what-we-do/" target="_blank">Advertising &amp; Partnerships</a></li><li><a href="/promote/">Affiliates</a></li><li><a href="/discover/media-centre/" target="_blank">Media Centre</a></li><li><a href="https://www.maplesyrupmedia.com/careers/" target="_blank">Careers</a></li><li><a href="/sitemap/">Site map</a></li><li><a href="http://www.maplenerds.com/blog/" target="_blank">Developers</a></li></ul></div></div><div class="component"><div class="responsive-component-title"><h5 class="hidden-xs">Policies</h5><div data-toggle="collapse" data-target="#policies_footer" class="visible-xs"><h5>Policies<span class="icon-white-expand-bg"><i class="icon-white-expand"></i></span></h5></div></div><div id="policies_footer" class="responsive-component-body hidden-xs"><ul class="list-unstyled"><li><a href="/quidco-account-holder-agreement/">Quidco Account Holder
-                      Agreement</a></li><li><a href="/privacy-policy/">Privacy Policy</a></li></ul></div></div></div><div class="col-xs-12 col-sm-12 col-md-3"><div class="component footer-social-numbers"><ul class="list-unstyled"><li class="member-count"><div class="icon"><svg class="social-icon"><use xlink:href="#icon-q-ident"></use></svg></div><div class="text">7 million members</div></li><li class="twitter-count"><a href="http://www.twitter.com/quidco"><div class="icon"><svg class="social-icon"><use xlink:href="#icon-social-twitter"></use></svg></div><div class="text">51,616 followers</div></a></li><li class="facebook-count"><a href="http://www.facebook.com/quidco"><div class="icon"><svg class="social-icon"><use xlink:href="#icon-social-facebook"></use></svg></div><div class="text">160,163 fans</div></a></li><li class="discover-icon"><a href="/discover"><div class="icon"><svg class="social-icon"><use xlink:href="#icon-proposition-discover"></use></svg></div><div class="text">Discover</div></a></li></ul></div></div></div>         <div class="row footer-foot">
+           <div class="row"><div class="col-xs-12 col-sm-4 col-md-3"><div class="component"><div class="responsive-component-title"><h5 class="hidden-xs">Browse Quidco</h5><div data-toggle="collapse" data-target="#browse_footer" class="visible-xs"><h5>Browse Quidco<span class="icon-white-expand-bg"><i class="icon-white-expand"></i></span></h5></div></div><div id="browse_footer" class="responsive-component-body hidden-xs"><ul class="list-unstyled"><li><a href="/browse/">All categories</a></li><li><a href="/a-z/">Retailers A-Z</a></li><li><a href="/newest/">Newest retailers</a></li><li><a href="/faster-paying-retailers/">Faster Paying retailers</a></li></ul></div></div><div class="component"><div class="responsive-component-title"><h5 class="hidden-xs">Hot offers</h5><div data-toggle="collapse" data-target="#hotOffers_footer" class="visible-xs"><h5>Hot offers<span class="icon-white-expand-bg"><i class="icon-white-expand"></i></span></h5></div></div><div id="hotOffers_footer" class="responsive-component-body hidden-xs"><ul class="list-unstyled"><li><a href="/hot-offers/">Hottest</a></li><li><a href="/top-cashback/">Top cashback deals</a></li><li><a href="/top-voucher-codes/">Top voucher codes</a></li><li><a href="/mobile-in-store-offers/">Mobile &amp; In-store</a></li><li><a href="/free-cashback/">Free cashback</a></li><li><a href="/hidden-gems/">Hidden gems</a></li></ul></div></div></div><div class="col-xs-12 col-sm-4 col-md-3"><div class="component"><div class="responsive-component-title"><h5 class="hidden-xs">Support</h5><div data-toggle="collapse" data-target="#support_footer" class="visible-xs"><h5>Support<span class="icon-white-expand-bg"><i class="icon-white-expand"></i></span></h5></div></div><div id="support_footer" class="responsive-component-body hidden-xs"><ul class="list-unstyled"><li><a href="https://support.quidco.com/categories">FAQs</a></li><li><a href="https://support.quidco.com/">Contact Quidco Support</a></li><li><a href="/accessibility/">Accessibility</a></li></ul></div></div><div class="component"><div class="responsive-component-title"><h5 class="hidden-xs">Apps, Tools &amp; Features</h5><div data-toggle="collapse" data-target="#usefulFeatures_footer" class="visible-xs"><h5>Apps, Tools &amp; Features<span class="icon-white-expand-bg"><i class="icon-white-expand"></i></span></h5></div></div><div id="usefulFeatures_footer" class="responsive-component-body hidden-xs"><ul class="list-unstyled"><li><a href="/quidco-high-street/">Quidco High Street</a></li><li><a href="/clicksnap/">ClickSnap</a></li><li><a href="/quidco-compare/">Quidco Compare</a></li><li><a href="/app/">Quidco mobile app</a></li><li><a href="/cashback-reminder/">Quidco Cashback Reminder</a></li><li><a href="/referrals/">Refer Quidco</a></li></ul></div></div></div><div class="col-xs-12 col-sm-4 col-md-3"><div class="component"><div class="responsive-component-title"><h5 class="hidden-xs">About Quidco</h5><div data-toggle="collapse" data-target="#company_footer" class="visible-xs"><h5>About Quidco<span class="icon-white-expand-bg"><i class="icon-white-expand"></i></span></h5></div></div><div id="company_footer" class="responsive-component-body hidden-xs"><ul class="list-unstyled"><li><a href="/how-it-works/" target="_blank">How Quidco Works</a></li><li><a href="https://www.maplesyrupmedia.com/what-we-do/" target="_blank">Advertising &amp; Partnerships</a></li><li><a href="/promote/">Affiliates</a></li><li><a href="/discover/media-centre/" target="_blank">Media Centre</a></li><li><a href="https://www.maplesyrupmedia.com/careers/" target="_blank">Careers</a></li><li><a href="/sitemap/">Site map</a></li><li><a href="http://www.maplenerds.com/blog/" target="_blank">Developers</a></li></ul></div></div><div class="component"><div class="responsive-component-title"><h5 class="hidden-xs">Policies</h5><div data-toggle="collapse" data-target="#policies_footer" class="visible-xs"><h5>Policies<span class="icon-white-expand-bg"><i class="icon-white-expand"></i></span></h5></div></div><div id="policies_footer" class="responsive-component-body hidden-xs"><ul class="list-unstyled"><li><a href="/quidco-account-holder-agreement/">Quidco Account Holder
+                      Agreement</a></li><li><a href="/privacy-policy/">Privacy Policy</a></li><li><a href="/cookies/">Cookie Policy</a></li></ul></div></div></div><div class="col-xs-12 col-sm-12 col-md-3"><div class="component footer-social-numbers"><ul class="list-unstyled"><li class="member-count"><div class="icon"><svg class="social-icon"><use xlink:href="#icon-q-ident"></use></svg></div><div class="text">7 million members</div></li><li class="twitter-count"><a href="http://www.twitter.com/quidco"><div class="icon"><svg class="social-icon"><use xlink:href="#icon-social-twitter"></use></svg></div><div class="text">52,965 followers</div></a></li><li class="facebook-count"><a href="http://www.facebook.com/quidco"><div class="icon"><svg class="social-icon"><use xlink:href="#icon-social-facebook"></use></svg></div><div class="text">160,163 fans</div></a></li><li class="discover-icon"><a href="/discover"><div class="icon"><svg class="social-icon"><use xlink:href="#icon-proposition-discover"></use></svg></div><div class="text">Discover</div></a></li></ul></div></div></div>         <div class="row footer-foot">
       <div class="col-xs-12">
                   <p class="copyright">
             <small>
-              © Copyright 2017,
+              © Copyright 2018,
               <a href="https://www.maplesyrupmedia.com/" target="_blank">Maple Syrup Media Ltd.</a> Registered in England and
               Wales, No. 05498276 | Registered Address: 4th Floor, 76-80 Great Eastern Street, London, EC2A 3JL |
-              Registered under the Data Protection Act No. Z9450695 | Authorised and regulated by the Financial Conduct
-              Authority for General Insurance mediation under register number 533105 and holds Interim Permission as a
-              Credit Broker permission number: 659018 | Complaints contact:
-              <a href="mailto:members@quidco.com">members@quidco.com</a>
+              Registered under the Data Protection Act No. Z9450695 |  Complaints contact:
+              <a href="mailto:complaints@quidco.com">complaints@quidco.com</a>
             </small>
           </p>
               </div>
@@ -3205,8 +3204,18 @@ $('.search-panel').on('click', '.mixpanel-search-merchant-link', function () {
 </div>
 
 
-<!-- 797e8e6e8be2b581b5e83b139491ec683d988dc1 -->
-      <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c66c45f7cc","applicationID":"9408023","transactionName":"ZFZTYRNUC0RQAUYIWl0cckASQQpaHhJACENSUEgYEVoJXlIbHQ==","queueTime":0,"applicationTime":81,"atts":"SBFEF1tOGBsTAxBbTk5O","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<!-- dde01d3ad129fe420156b5350633b6095f717e7c -->
+        
+<script>
+var readyData = {
+  loggedIn: false,
+  userId: 0,  merchantId: false,
+  excludeBanner: false
+}
+</script>
+<script src="//quidco.digitalwithready.com/script.js?v=1.3"></script>
+  
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c66c45f7cc","applicationID":"143730152","transactionName":"ZFZTYRNUC0RQAUYIWl0cf1oTWARbWBhXBXZGQEVaDBpP","queueTime":0,"applicationTime":153,"atts":"SBFEF1tOGBsTAxBbTk5O","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 
 </body></html>
