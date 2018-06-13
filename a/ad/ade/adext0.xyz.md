@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adext0.xyz privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225014146id_/http%3A//adext0.xyz/install/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adext0.xyz privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613193951id_/http%3A//adext0.xyz/install/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
