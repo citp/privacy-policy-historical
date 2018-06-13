@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volt.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208102714id_/http%3A//www.volt.com/uploadedFiles/Legal/Volt%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volt.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613134959id_/http%3A//www.volt.com/uploadedFiles/Legal/Volt%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # In the course of its business, the Company collects personal information, which was given to or made available to the Company for an intended business function or purpose. The information may include a name combined with a unique identification number, including a social security and/or national identification number, home address, mailing address, e-mail address, social media identifier,
 
