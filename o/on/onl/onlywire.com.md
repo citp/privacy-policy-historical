@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlywire.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122213752id_/http%3A//onlywire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlywire.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613205701id_/http%3A//www.onlywire.com/privacy-policy) for the most accurate reproduction.*
 
 # OnlyWire | Social Media Auto-Submission
 
@@ -18,8 +18,6 @@ In accordance with the Federal Children's Online Privacy Protection Act of 1998 
 
 Other than as disclosed in this Privacy Policy, at no time will OnlyWire share, rent or sell your identifiable personal information to any third parties without your express consent. 
 
-OnlyWire will be permitted to display an active customer's corporate logo on its website for the purpose of promoting both the customer and OnlyWire. 
-
 ##### **Cookies**
 
 OnlyWire uses cookies to store and track information about your usage of our services. Cookies are encrypted and unidentifiable bits of information sent to your browser from a web server that is stored on your computer's hard drive. Cookies are set each time you register, or log in or log out of OnlyWire. Cookies may be used to store your username and password so that you don't have to re-enter it each time you visit https://www.onlywire.com. We may also use cookies to gather aggregated information about user habits on our website and services. For example, we may use cookies to estimate the number of concurrent users, estimate the total number of users, measure traffic statistics and to better understand how our users are using our services. We may share this data, in its aggregate form, with advertisers, affiliates and partners who may advertise on our website and services. 
@@ -38,4 +36,10 @@ OnlyWire stores its servers in a highly secure server environment with 24 X 7 mo
 
 We cannot guarantee the security of your data while it is being transmitted over the Internet and through servers that are out of our control. We strive to protect your personal information but OnlyWire cannot ensure or warrant the security of any information you transmit to our website or services. Any data transmissions you make over the internet are done so at your own risk. Once we receive the data transmission, we make our best efforts to ensure its security and privacy on our systems. 
 
-Further Questions If you have further questions about our Privacy Policy, email us at [support@onlywire.com](https://web.archive.org/contact). 
+##### **GDPR**
+
+In accordance with the European Union General Data Protection Regulation (GDPR) OnlyWire does not intentionally collect personally identifiable information from nor solicit children under the age of sixteen (16) years of age. 
+
+##### **Further Questions**
+
+If you have further questions about our Privacy Policy, email us at [support@onlywire.com](https://web.archive.org/contact). 
