@@ -1,83 +1,253 @@
-> *The following text is extracted and transformed from the commandersofevony.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208152338id_/http%3A//www.ucool.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commandersofevony.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613122139id_/http%3A//www.ucool.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Ucool
 
-uCool Privacy Policy 
+UCOOL
 
-YOUR USE OF THE UCOOL SITES AND SERVICES IS SUBJECT TO YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY.
+PRIVACY POLICY
 
-uCool, Inc. and its related licensees and licensors (collectively "uCool") respect the privacy of its on-line visitors and recognize the importance of providing a secure and safe environment for them. In meeting this goal, we instituted an On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how uCool safeguards the privacy of its on-line visitors and applies to all services which are offered on uCool internet sites.
+This is the privacy policy (“Privacy Policy”) that governs how uCool, Inc. and our affiliated companies ("uCool", "we", "our" or "us"), use Personal Data (defined below) that we collect, receive and store about you in connection with your use of our website: <http://ucool.com/> and any other website or application that we operate, or our partners operate on our behalf, (each, together with its sub-domains, content and services, a "Site").
 
-If you have any questions, complaints, or comments regarding our privacy policy statement or policies, please contact our Privacy Policy Administrator at [legal@ucool.com](mailto:legal@ucool.com).
+You may choose whether or not to provide or disclose Personal Data in connection with your use of our Site. If you choose not to provide the Personal Data we request, you may still visit and use parts of our Site, but may be unable to access or use certain features, options, programs, and services. Our Site may contain links to third-party websites and services that are not owned or controlled by uCool. We are not responsible for the privacy practices or the content of third party websites, services and advertisements, and you visit them at your own risk.
 
-What personal information is collected from you directly?
+1\. Introduction. 
 
-uCool only collects information that personally identifies you ("Personal Information") from you when you: (1) register to use a Game; (2) contact us; (3) order products and services from us; and (4) participate in our surveys or promotional activities. All Personal Information provided is voluntary and is limited to contact Data (such as your name and email address); If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards, or forums, or otherwise complete online forms, surveys, or Tournament entries, any information provided in such communication may be collected as Personal Information.
+We are committed to respecting privacy and recognize the need for appropriate protection and management of any Personal Data that is shared with us as part of using our Site. As used in this Privacy Policy, "Personal Data" means any information that may be used, either alone or in combination with other information, to personally identify an individual.
 
-What other types of information may we collect?
+2\. Changes to this Privacy Policy.
 
-Your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to uCool and/or the Games being played. uCool may use this information to generate aggregate statistics about our user community. In addition, uCool may use such information for security, system integrity (the prevention of hacking, cheats, etc.), or IP protection or enforcement purposes.
+We reserve the right, at our discretion, to change the terms of this Privacy Policy at any time. You can see when this Privacy Policy was last updated by reviewing the “Last Updated” legend on the top of this page. We may provide you with notice of material changes to the Privacy Policy as appropriate under the circumstances. UNLESS OTHERWISE INDICATED, ANY CHANGES TO THIS PRIVACY POLICY WILL APPLY IMMEDIATELY UPON POSTING TO THE SITE.
 
-How do we use the information you provide?
+3\. Personal Data Collected.
 
-We use your information in order to constantly improve our range of services to satisfy the user's needs. The information you provide uCool will allow us to process payment orders, alert you of new products or services, features, or enhancements; handle/route your customer service or technical support questions or issues; and/or notify you of upgrade opportunities, contests, promotions, or special events and offers. You will be informed as part of these communications that you may cancel notifications at any time.
+3.1. Personal Data You Provide To Us On Our Site.
 
-Lastly, we may use your information for internal marketing, profiling, or demographic purposes, so we can adapt our products and services to better suit your needs. We do this to better understand and serve our customers.
+a) Types of Personal Data. We and our service providers collect the Personal Data set forth below in order to provide the Site to you, or because we are legally required to do so. If you do not provide the Personal Data we request, we may not be able to provide you with the Site. The Personal Data we and our service providers collect includes but is not limited to:
 
-Please be advised that personal information submitted by individuals acting solely in a business capacity (e.g., personal information contained in job applicant's resume) is not subject to the uses set forth above or to any other practices stated in this Privacy Policy.
+Email address;
 
-Third-party web sites and companies with links to and from the uCool Sites and Services, including Facebook, may collect personally identifiable information about users. You should be aware that these third-party web sites or links may have their own information collection practices and privacy policies. We do not control the privacy policies of third parties that have web sites linked to the uCool Sites and Services. If you are utilizing such a site or click on a third-party advertisement or link, the privacy policies of the third-party web site that you are using or link to will govern the use of your information by that web site’s operator. uCool’s Privacy Policy does not extend to these external web sites and companies. Please refer directly to these companies and web sites regarding their privacy policies. We assume no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, please make sure you are aware of and comfortable with the privacy policies of any third-party web sites to which you follow a link.
+Payment information;
 
-With whom may your information be shared?
+Phone number;
 
-uCool may need to disclose your account information to third party vendors to fulfill purchase orders or prizes, to process mailings, or to process, analyze, and/or store data. We will attempt to ensure that these entities do not use your account information for any other purpose.
+Communications you send to us.
 
-uCool may disclose your account information or otherwise use such information to communicate with you if required or permitted to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process or any governmental request; (b) protect and defend the rights or property of uCool or its licensees or licensors; (c) enforce the Terms of Service or any applicable License Agreements; or (d) protect the personal safety or interests of uCool employees, users of uCool products or services, or members of the public in urgent circumstances. We also may disclose your account information to a third-party that alleges that you have infringed their intellectual property rights, subject to reasonable verification of such claims.
+b) When Personal Data is Collected. You may be required to provide us with certain information that may constitute Personal Data in the following ways: 
 
-From time to time, uCool may provide online in-game chat rooms and/or forums to users. Any information that is disclosed in these chat rooms and forums is public information and users should exercise caution when deciding to disclose personal information in such chat rooms and forums. If you voluntarily disclose information in a public area of the uCool Sites and Services, such as a forums post or text chat room, that information may be collected and used by a third-party to send you unsolicited messages, advertisements or for other purposes. We do not control the actions of these third parties in public areas of the uCool Sites and Services, so if you disclose information in a public area, you do so at your own risk.
+Contact Information.
 
-What about Children?
+In various areas of the Site, we provide you the opportunity to submit a form with basic contact information, such as your email and payment information. With your permission, uCool uses such information to inform you of new products, technical information and services, and upcoming events that may be of interest. If you no longer wish to receive these emails, the opt-out process is described in Section 7.2 of this Privacy Policy.
 
-Please note that all persons under the age of majority in their jurisdiction are required to have a parent or guardian read and accept this Agreement and our Privacy Policy on their behalf. Parents are encouraged to spend time online with their children under the age of 18 and to become familiar with the types of content available in uCool products and the Internet in general. Parents should regularly oversee their childrens' use of e-mail and other online communications and transactional features. Control tools are available from online services and software manufacturers that can help provide a safe online environment for children. You can find out about software that protects your kids at <http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm> and at <http://kids.getnetwise.org/tools/>
+In addition, if you choose, you may participate in an uCool e-mail list server by subscribing within the Site or by contacting uCool staff directly. You may unsubscribe from these e-mail list servers by following the unsubscribe instructions found within the list email.
 
-If uCool elects to begin sharing such information and if at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from uCool (via e-mail at [legal@ucool.com](mailto:legal@ucool.com)) about new products, services, or promotions, you may do so. You may contact us at uCool, Inc., Attn: Legal, 8 Faneuil Hall, 3rd Floor, Boston, Ma 02109. You can also contact us by e-mailing us at [legal@ucool.com](mailto:legal@ucool.com). Please indicate what publications or services you no longer wish to receive so that we may better address your needs.
+Member Login Information.
 
-_Children Under 13_
+We process your username and password to enable you to securely log into the Site, and we process information regarding your role with uCool to appropriately control access to restricted content. We process this Personal Data only as necessary to provide you services on the Site under our [Terms of Use](https://web.archive.org/legal/3rd-parties) and to further our legitimate interests in protecting the Site and content.
 
-Children under the age of 13 should not use our websites or games at any time. In the event that we are able to confirm that we have inadvertently gathered personal information from children under the age of 13, we will take reasonable measures to promptly remove such information from our records.
+Payment Information.
 
-_Note to Parents_
+When you purchase services or products from us, third-party service providers acting on our behalf process payment information, including payment card details and billing addresses, to help us fulfill your orders. Any Personal Data collected by such third party will be subject to the third party’s privacy policy, rather than this Privacy Policy.
 
-We recognize a special obligation to protect personal information about young children. We urge parents to instruct their children to never give out their real names, addresses, or phone numbers, without permission, when on-line. Teenagers under the age of 17 and over the age of 12 should encourage their parents to review this policy and to contact us if they would like to evoke our opt-out policy or to raise any concerns.
+Information Collected through Various Forms.
 
-What are cookies and how are they used?
+We and our service providers may collect Personal Data in a variety of ways, including: (i) through use of the Site, e.g., when you sign up for a gaming service, forum community, or make a purchase; or (ii) from other sources, such as public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected) and from other third parties. 
 
-Cookies are a feature of your Web browser that allows Web sites to transfer bits of information to your computer for record-keeping purposes. A cookie stored on your computer can be used to "remember" things like your password, or that you have already registered. This allows us to speed up your future activities, saving the time you would normally spend entering information such as your password or registration. In addition, uCool may use cookies to retrieve user information for promotional, marketing, or security purposes.
+Personal Data You Disclose Relating to Others.
 
-What is my Internet protocol addresses?
+If you disclose any Personal Data relating to other people to us or to our service providers in connection with the Site, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
 
-An Internet protocol ("IP") address is the unique number assigned to your server or Internet Service Provider ("ISP"). uCool may track such IP addresses for system administration, to report aggregate information, site tracking, security purposes, or to prevent our servers from being abused.
+3.2. Personal Data You Provide To Third Parties On Our Site.
 
-What do I do if I want to close my account?
+Please note that we use certain third party service providers on our Site to enhance your experience or deliver certain services. These providers may collect Personal Data about you in performing their services and/or functions on our Site. For a complete list of our service providers, please [ click here](https://web.archive.org/legal/3rd-parties).
 
-Should you wish to stop playing a uCool game at any time and have connected the same to your Facebook account, you can remove yourself from the application by “unliking” it in your Facebook Privacy settings. Should you “unlike” your account, the account will be permanently deleted along with any activity on the same. Should you be concerned regarding any personal information you have provided to payment portals for purchases, you should contact said payment portal provider directly.
+3.3. Information Collected Automatically
 
-How secure is my account information?
+Certain information on our Site is collected automatically by means of various software tools. We have a legitimate interest in using such information to assist in log-in, systems administration purposes, information security and abuse prevention, to track user trends, and to analyze the effectiveness of our Site. Alone or in combination with other information, such automatically collected information may constitute Personal Data. Some of our service providers (described in Section 5, below) may use cookies or other methods to gather information regarding your use of our Site. Such third parties may use these cookies or other tracking methods for their own purposes by relating information about your use of our Site with any Personal Data about you that they may have. The use of such information by a third party depends on the privacy policy of that third party. 
 
-Account information may be stored and processed in the United States or any other country in which uCool or its affiliates, subsidiaries or agents maintain facilities, and by using the uCool Sites and Services, you consent to any such transfer of information outside of your country. uCool will take reasonable steps to protect the information users share with us. We use a variety of security technologies and procedures to help protect your account information from unauthorized access, use or disclosure.
+a) Log Files On Our Site. The information inside the log files includes internet protocol (“IP”) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, clicked pages and any other information your browser may send to us.
 
-Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure. Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control.
+b) Cookies. We use cookies to make interactions with our Site easy and meaningful. When you visit our Site, our servers may send a cookie to your computer. Standing alone, cookies do not personally identify you; they merely recognize your web browser. Unless you choose to identify yourself to us, either by responding to a promotional offer, opening an account, or filling out a web form, you remain anonymous to us.
 
-We process the information collected from you according to United States data protection law. All employees are obliged and have been advised to maintain data confidentiality and privacy obligations.
+We may use cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. Please note that if you disable your web browser’s ability to accept cookies, you will be able to navigate our Site, but you may not be able to successfully use all of the features of our Site.
 
-What if I have a question or complaint?
+The following sets out how we may use different categories of cookies and your options for managing cookies’settings:
 
-If you have any questions or wish to file a complaint, please feel free to e-mail us at [legal@ucool.com](mailto:legal@ucool.com), or send a letter addressed to uCool, Inc., Attn: Legal, 8 Faneuil Hall, 3rd Floor, Boston, MA 02109.
+Type of Cookies | Description | Managing Settings  
+---|---|---  
+Required cookies | 
 
-For persons in European Union countries, as used herein, terms such as “personal information” refer to “personal data” as defined by the Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (“Directive”). uCool will not collect any personal data from you at any time.
+Required cookies enable you to navigate our Site and use its features, such as accessing secure areas of our Site and using our services.
 
-By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the uCool website will signify your acceptance of these changes.
+If you have chosen to identify yourself to us, we use cookies containing encrypted information to allow us to uniquely identify you. Each time you log into our Site, a cookie containing an encrypted, unique identifier that is tied to your account is placed on your browser. These cookies allow us to uniquely identify you when you are logged into our Site and to process your online transactions and requests.
 
-This Privacy Policy was last updated on **November 2, 2013**.
+| 
 
-Copyright ©2011-2016 uCool, Inc. All rights reserved.
+Because required cookies are essential to operate our Site, there is no option to opt out of these cookies.  
+  
+Performance cookies | 
+
+These cookies collect information about how you use our Site, including which pages you go to most often and if they receive error messages from certain pages. These cookies do not collect information that individually identifies you. All information these cookies collect is aggregated and anonymous. It is only used to improve how our Site functions and performs.
+
+From time-to-time, we may engage third parties to track and analyze usage and volume statistical information from individuals who visit our Site. We may also utilize Flash cookies for these purposes.
+
+| 
+
+To learn how to opt out of performance cookies using your browser settings [click here](http://www.aboutcookies.org/).
+
+To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).  
+  
+Functionality cookies | 
+
+Functionality cookies allow our Site to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features. These cookies also enable you to optimize your use of our Site after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize.
+
+We may use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our Site to personalize your visit.
+
+| 
+
+To learn how to opt out of functionality cookies using your browser settings [click here](http://www.aboutcookies.org/).
+
+To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).  
+  
+Targeting or Advertising cookies | 
+
+From time-to-time, we may engage third parties to track and analyze usage and volume statistical information from individuals who visit our Site. We sometimes use cookies delivered by third parties to track the performance of our advertisements. For example, these cookies remember which browsers have visited our Site. The information provided to third parties does not include Personal Data, but this information may be re-associated with Personal Data after we receive it.
+
+By way of example, as you browse our Site, advertising cookies may be placed on your computer so that we can understand what you are interested in. Our advertising partners then enable us to present you with retargeted advertising on other sites based on your previous interaction with our Site.
+
+We also contract with third-party advertising networks and similar partners that collect IP addresses and other information from web beacons (see below) on our Site, from emails, and on third-party sites. Ad networks follow your online activities over time by collecting Site Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other websites. This process also helps us manage and track the effectiveness of our marketing efforts.
+
+Third parties, with whom we partner to provide certain features on our Site or to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.
+
+| 
+
+To learn more about these and other advertising networks and their opt out instructions, [click here](http://www.networkadvertising.org/choices/). 
+
+To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).  
+  
+c) Other Tracking Technologies.
+
+When you visit our Site, we may collect your IP address to track and aggregate non-Personal Data. For example, we may use IP addresses to monitor the regions from which you navigate our Sites. 
+
+We may also use web beacons alone or in conjunction with cookies to compile information about your usage of our Site and interaction with emails from us. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular site tied to the web beacon. For example, we may place web beacons in marketing emails that notify us when you click on a link in the email that directs you to our Site. We may use web beacons to operate and improve our Site and email communications.
+
+d) Analytics Software Tools.
+
+We use Google Analytics on our Site to help us analyze the traffic on our Site. For more information on Google Analytics’ processing of Personal Data, please see <http://www.google.com/policies/privacy/partners/>. By using a browser plugin <http://www.google.com/ads/preferences/plugin/> provided by Google, you can opt out of Google Analytics. 
+
+4\. The Purposes For Which We Use Personal Data. 
+
+If you submit or we collect Personal Data through our Site, then such Personal Data may be used in the following ways: (i) to provide, analyze, administer, and improve our Site and services, (ii) to contact you in connection with our Site and certain services, notifications, events, programs or offerings that you may have registered for, (iii) to send you updates and promotional materials that you have registered for, (iv) to identify and authenticate your access to the parts of our Site and services that you are authorized to access; (v) for recruiting and human resources administration purposes, and (vi) to protect our rights and/or our property and to ensure the technical functionality and security of our Site.
+
+5\. How We Disclose Personal Data. 
+
+We do not sell, lease, rent or otherwise disclose the Personal Data collected from our Site to third parties unless otherwise stated below or with your consent.
+
+5.1. Our Third Party Providers.
+
+We transfer Personal Data to our third party service providers to perform tasks on our behalf and to assist us in providing our Site, as more fully described in Section 3.2. We use commercially reasonable efforts to only engage or interact with third party service providers and partners that post a privacy policy governing their processing of Personal Data. Notwithstanding the foregoing, we will comply with applicable laws regarding Personal Data transfers as well as any transfer restriction that is specified in an agreement between uCool and a customer.
+
+5.2. Social Media Services.
+
+Third-party social networks that provide interactive plug-ins or social networking features (for example, to allow you to "Like" a page on our Site) on the Site, may use cookies or other methods (for example, web beacons) to gather information regarding your use of our websites and apps. The use of such information by a third party depends on the privacy policy available on that social network’s website, which we encourage you to carefully review. Such third parties may use these cookies or other tracking methods for their own purposes by relating information about your use of our site with any of your Personal Data that they may have.
+
+5.3. Advertising.
+
+We engage advertising services to assist us in advertising our brand and Site. From time to time, those services target advertisements on third-party websites based on cookies or other information indicating previous interaction with our Site.
+
+5.4. Business Partners
+
+From time to time, we may partner with other companies to jointly offer products or services. For example, we partner with various game development and design studios to deliver you gaming services. If you purchase or specifically express interest in a jointly-offered product or service from us, we may share Personal Data collected in connection with your purchase or expression of interest with our joint promotion partner(s). We do not control our business partners’ use of Personal Data we collect, and their use of the information will be in accordance with their own privacy policies.
+
+5.5. In the Event of Merger, Sale, or Change of Control. 
+
+We may transfer or assign this Privacy Policy and any Personal Data to a third party entity that acquires or is merged with us as part of a merger, acquisition, sale, or other change of control.
+
+5.6. Other Disclosures.
+
+We may disclose Personal Data about you if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our terms of use, including investigations of potential violations thereof; (iii) detect, prevent, or otherwise address fraud or security issues; or (iv) protect against harm to the rights, property or safety of uCool, our users, or the public.
+
+6\. Retention of Personal Data.
+
+We reserve the right to retain any Personal Data as long as the Personal Data are needed to: (i) fulfill the purposes that are described in Section 4 (The Purposes For Which We Use Personal Data), and (ii) comply with applicable law.
+
+7\. Your Rights.
+
+7.1 Personal Data.
+
+If you have an account on our Site, we provide access to—and the ability to edit or delete—certain categories of Personal Data through the account. 
+
+If you would like to access, amend, erase, export (i.e., data portability), or object to or restrict the processing of Personal Data collected via our Site, you may submit a request to legal@ucool.com or write to us at:
+
+uCool, Inc. 
+
+Attn: Legal 
+
+5201 Great American Parkway
+
+Suite 320
+
+Santa Clara, CA, 95054
+
+Depending on where you live, you may have a right to lodge a complaint with a supervisory authority or other regulatory agency if you believe that we have violated any of the rights concerning Personal Data about you. We encourage you to first reach out to us at legal@ucool.com so we have an opportunity to address your concerns directly before you do so.
+
+7.2. Opting-Out of Promotional Emails.
+
+You may choose not to receive future promotional or advertising emails from us by selecting an unsubscribe link at the bottom of each email that you receive from us, or by responding to the emails directly and requesting removal if such a link is not available. Additionally, you may send a request specifying your communications preferences to legal@ucool.com. Customers cannot opt out of receiving transactional emails related to their account with us or our services. Please note that even if you opt out of receiving the foregoing emails, we may still send you a response to any "Contact Us" request as well as administrative, maintenance and operational emails (for example, in connection with a password reset request).
+
+8\. Personal Data Transferred from the EU or Switzerland To The United States.
+
+uCool complies with the EU-US Privacy Shield Framework and Swiss-US Privacy Shield Framework (collectively, “Privacy Shield”) as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Data from European Union (the “EU”) member countries and Switzerland. uCool has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. A violation of our commitment to Privacy Shield may be investigated by the Federal Trade Commission and/or the United States Department of Commerce. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, to the extent available, please visit https://www.privacyshield.gov.
+
+In compliance with the Privacy Shield Principles, uCool commits to resolve complaints about your privacy and our collection or use of Personal Data about you. Persons from the EU or Switzerland who have inquiries or complaints regarding this Privacy Policy should first contact us via email at: legal@ucool.com.
+
+uCool has committed to refer unresolved privacy complaints under the Privacy Shield Principles to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit https://www.jamsadr.com/eu-us-privacy-shield for more information and to file a complaint.
+
+These recourse mechanisms are available at no cost to you. Damages may be awarded in accordance with applicable law. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the Privacy Shield, uCool is potentially liable.
+
+9\. Data Security. 
+
+The security of Personal Data is important to us. We follow generally accepted industry standards to protect the Personal Data submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect Personal Data, we cannot guarantee its absolute security.
+
+10\. Children's Privacy. 
+
+10.1. Children Under 13.
+
+Children under the age of 13 should not use our websites or games at any time. In the event that we are able to confirm that we have inadvertently gathered personal information from children under the age of 13, we will take reasonable measures to promptly remove such information from our records. We do not knowingly collect or store any Personal Data from children under 13. If parents believe that we have unintentionally collected their children’s’ Personal Data, they may request the deletion of the information by contacting us at: 
+
+uCool, Inc. 
+
+Attn: Legal 
+
+5201 Great American Parkway
+
+Suite 320
+
+Santa Clara, CA, 95054
+
+They may also e-mail us at legal@ucool.com.
+
+10.2. Note to Parents.
+
+We recognize a special obligation to protect Personal Data about young children. We urge parents to instruct their children to never give out their real names, addresses, or phone numbers, without permission, when on-line. Teenagers under the age of 17 and over the age of 12 should encourage their parents to review this Privacy Policy and to contact us if they would like to evoke our opt-out policy or to raise any concerns. 
+
+11\. How We Respond to Do Not Track Signals. 
+
+uCool does not track Site users over time and across third party websites to provide targeted advertising. Accordingly, we do not currently respond or take any action with respect to web browser "do not track" signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of Personal Data about an individual consumer's online activities over time and across third-party web sites or online services.
+
+12\. Your California Privacy Rights. 
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of Personal Data about you by uCool to third parties for the third parties’ direct marketing purposes. To make such a request, please send an email to legal@ucool.com or write to us:
+
+uCool, Inc. 
+
+Attn: Legal 
+
+5201 Great American Parkway
+
+Suite 320
+
+Santa Clara, CA, 95054
+
+13\. Contacting Us. 
+
+Any comments, concerns, complaints, or questions regarding our Privacy Policy may be addressed to legal@ucool.com.
