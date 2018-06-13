@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanka-ads.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206065450id_/http%3A//lanka-ads.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanka-ads.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613033524id_/http%3A//lanka-ads.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Lanka ads
 
@@ -93,7 +93,7 @@ We will use reasonable security measures to protect your personal information fr
 
 **Your access to your personal information**
 
-You are entitled to know what personal information We hold about you. You are also entitled to update or correct your personal information. If you would like to contact us in relation to your personal information, please do so by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bcd4d9d0ccfcd0ddd2d7dd91ddd8cf92dfd3d1). Any access request may be subject to a fee of £10 to meet Our costs in providing you with details of the information We hold on you.
+You are entitled to know what personal information We hold about you. You are also entitled to update or correct your personal information. If you would like to contact us in relation to your personal information, please do so by email to [help@lanka-ads.com](mailto:help@lanka-ads.com). Any access request may be subject to a fee of £10 to meet Our costs in providing you with details of the information We hold on you.
 
 **Third party websites**
 
@@ -105,4 +105,4 @@ Any changes We may make to our privacy policy in the future will be posted on th
 
 **Contact**
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#49212c253909252827222864282d3a672a2624).
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [help@lanka-ads.com](mailto:help@lanka-ads.com).
