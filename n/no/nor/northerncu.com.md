@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northerncu.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703125523id_/https%3A//www.northerncu.com/true-north-strong/about-us/online-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerncu.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613150732id_/http%3A//www.northerncu.com/true-north-strong/about-us/online-policies/privacy) for the most accurate reproduction.*
 
 # Northern Credit Union - Privacy
 
@@ -21,7 +21,7 @@ We collect only the personal information we need to know:
   * To determine what products and services are best for you;
   * To evaluate credit standing and exchange information with credit reporting agencies;
   * To detect and prevent fraud and safeguard the financial interests of you and Northern Credit Union;
-  * To meet our legal and regulatory requirements. 
+  * To meet our legal and regulatory requirements.
 
 
 
