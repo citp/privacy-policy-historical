@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbc12.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121045846id_/http%3A//www.nbc12.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc12.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613205425id_/http%3A//www.nbc12.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NBC12 - WWBT - Richmond, VA News On Your Side
 
