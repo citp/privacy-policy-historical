@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jobsonline.net privacy policy that was archived on 2017-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171205000532id_/http%3A//www.jobsonline.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobsonline.net privacy policy that was archived on 2018-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180613215607id_/https%3A//www.jobsonline.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
 	<meta charset="utf-8">
@@ -17,6 +17,8 @@
 	<script src="//bat.bing.com/bat.js" async=""></script><script src="https://use.fontawesome.com/661102db58.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Hind:400,500,600,700|Montserrat:400,700" rel="stylesheet">
 	<link href="http://www.jobsonline.com/css/style.css" rel="stylesheet">
+	<!-- Pushnami reference -->
+	<link rel="manifest" href="http://www.jobsonline.com/js/pushnami/manifest.json">
 		
 <style type="text/css">
 .header .logo-container {background-image: url(/images/logos/logo-white-trim.png);}
@@ -168,7 +170,7 @@ pageTracker._trackPageview();
 				</ul>
 			</div>
 			<div class="seg-1 copyright-seg">
-				Copyright © JobsOnline 2017 All Rights Reserved.
+				Copyright © JobsOnline, LLC 2018 All Rights Reserved.
 			</div>
 		</div>
 	</footer>
@@ -180,7 +182,7 @@ pageTracker._trackPageview();
 				</button>
 				<form class="seg-1 filter-form">
 					<div class="seg-1 no-padding filter-modal-title-container text-center">
-						<h3><i class="fa fa-filter" aria-hidden="true"></i> Filter Your Results</h3>
+						<h3><i class="fa fa-filter" aria-hidden="true"></i> Set search distance</h3>
 					</div>
 					<div class="seg-1 filter-modal-content-seg">
 						<div class="seg-1 filter-modal-group distance-filter">
@@ -202,7 +204,7 @@ pageTracker._trackPageview();
 								<label for="20">20 Miles</label>
 							</div>
 							<div class="seg-4 radius-option-seg">
-								<input type="radio" name="distanceFilter" value="25" id="" checked="checked">
+								<input type="radio" name="distanceFilter" value="25" id="">
 								<label for="25">25 Miles</label>
 							</div>
 							<div class="seg-4 radius-option-seg">
@@ -219,7 +221,8 @@ pageTracker._trackPageview();
 							</div>
 						</div>
 						<div class="seg-1 filter-modal-group distance-filter text-center">
-							<button class="btn-large custom-form-button modal-btn filter-button" type="button"><span>Apply Filters</span><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></button>
+							<button class="btn-large custom-form-button modal-btn filter-button" type="button" onclick="$('.header-search-form').submit();">
+								<span>Apply</span></button>
 						</div>
 					</div>
 				</form>
