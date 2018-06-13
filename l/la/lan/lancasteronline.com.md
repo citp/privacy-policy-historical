@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lancasteronline.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909215522id_/https%3A//steinmancommunications.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancasteronline.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613140508id_/https%3A//steinmancommunications.com/your-privacy-rights) for the most accurate reproduction.*
 
 # Your Privacy Rights - Steinman Communications
 
@@ -24,7 +24,7 @@ Steinman Communications is an innovative multi-channel communications group that
 
 ## The Information We Collect
 
-At some of our sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. When you apply for an account, place an order, or when you submit a question, comment, or request for information to the Site, you are providing us with certain personal information about you or your business. Such personal information may include your name, username, password, postal address, telephone number, mobile phone number, fax number, gender, birth year, e-mail address and this information may also include credit card information and other billing and financial information. We use this information only for the purpose of establishing and administering your account, processing your orders, and otherwise responding to your inquiries or requests for information. We will never sell or rent your personal information to any third party, unless you previously consent, or unless we are required to do so by a court or other legal authority.
+We collect non-personally identifiable information to be used to tailor interest-based advertising. We also may collect some personally identifiable information. At some of our sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. When you apply for an account, place an order, or when you submit a question, comment, or request for information to the Site, you are providing us with certain personal information about you or your business. Such personal information may include your name, username, password, postal address, telephone number, mobile phone number, fax number, gender, birth year, e-mail address and this information may also include credit card information and other billing and financial information. We use this information only for the purpose of establishing and administering your account, processing your orders, and otherwise responding to your inquiries or requests for information. We will never sell or rent your personal information to any third party, unless you previously consent, or unless we are required to do so by a court or other legal authority.
 
 We may collect information about you during your use of the Services and information you provide or post on our Services when you do certain things, such as:
 
@@ -66,14 +66,15 @@ A representative list of the types of non-personally identifiable information co
 
 
 
-### User Registration
+To learn more about managing your preference related to interest-based advertising, go here: <http://optout.networkadvertising.org/?c=1#!/>
+
+## User Registration
 
 To access some of the resources the Site has to offer, you may be asked to provide registration details. It is a condition of use of this Site that all the details you provide be correct, current, and complete. If we believe the details are not correct, current, or complete, we have the right to refuse access to the Site, or any of its resources, and to terminate or suspend your account.
 
 ## How We Use the Information
 
-We receive and store any Personal Information you enter during registrations, account creation or any information you voluntarily provide us in any other way. You can choose not to provide certain Personal Information, but then you might not be able to take advantage of many of our features. We use the Personal Information that you provide to us for such purposes as responding to your requests, customizing your experience, improving our products and services, and communicating with you to inform you of other products or services available from the Site, its affiliates and Advertisers. We may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
-
+We receive and store any Personal Information you enter during registrations, account creation or any information you voluntarily provide us in any other way. You can choose not to provide certain Personal Information, but then you might not be able to take advantage of many of our features. We use the Personal Information that you provide to us for such purposes as responding to your requests, customizing your experience, improving our products and services, and communicating with you to inform you of other products or services available from the Site, its affiliates and Advertisers. We may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.  
 We collect Personal and Non-Personal Information to assist us in delivering a superior level of product and service. We collect such information to gain a better understanding of your needs and what types of features, activity or content are most popular with users, and thus provide a better experience for you. Reviewing your information and use of our Services enables us to give you convenient access to our products and services, focus on categories of greatest interest to you, keep you posted on the latest product announcements, updates, special offers, promotions, and events that you might like to hear about.
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, to offer you other products, programs or services that we believe may be of interest to you, to enforce the legal terms that govern your use of our sites, and/or for the purposes for which you provided the information.
@@ -82,8 +83,7 @@ We sometimes use this information to communicate with you, such as to notify you
 
 The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, services or customized experiences.
 
-We use the non-personally identifiable information that we collect to improve the design and content of our sites, to deliver more relevant marketing messages and advertisements and to enable us to personalize your Internet experience. We also may use this information to analyze usage of our sites or content, as well as to offer you products, programs, or services.
-
+We use the non-personally identifiable information that we collect to improve the design and content of our sites, to deliver more relevant marketing messages and advertisements and to enable us to personalize your Internet experience. We also may use this information to analyze usage of our sites or content, as well as to offer you products, programs, or services.  
 When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our applications or websites, (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards, and (4) enable you to share your experience and content via social networking sites. By doing so, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an application, on our sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
 
 ## Information Sharing and Disclosure
@@ -96,13 +96,13 @@ Our agents and contractors who have access to personally identifiable informatio
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this privacy statement.
 
-We do not disclose personally identifiable information to third parties whose practices are not covered by this privacy statement (e.g. other marketers, magazine publishers, retailers, participatory databases and non-profit organizations) that want to market products or services to you.  We may send you offers occasionally on behalf of a third party, but in so doing we never disclose your personally identifiable information to that third party.
+We do not disclose personally identifiable information to third parties whose practices are not covered by this privacy statement (e.g. other marketers, magazine publishers, retailers, participatory databases and non-profit organizations) that want to market products or services to you. We may send you offers occasionally on behalf of a third party, but in so doing we never disclose your personally identifiable information to that third party.
 
 If you have signed up to receive our e-mails and prefer not to receive marketing information from this site, follow the “unsubscribe” instructions provided on any marketing e-mail you receive from this site.
 
 To provide visitors with additional or more relevant product and service opportunities, we may share non-personally identifiable information with third parties.
 
-### Use of Cookies, Web Beacons and Other Technology
+## Use of Cookies, Web Beacons and Other Technology
 
 Our Sites and certain other Services will passively collect Personal and Non-Personal Information via cookies, web beacons and other similar technology. This information reveals the frequency with which you visit our Services, the times and dates of your visits, the pages or features and activities you reviewed, and other information, including your IP Address and UDID. We also use navigational data, including log files and click-stream data, to identify information about your web browser and operating system, and the time period in which you visit our Sites or select pages or areas of our Sites. This information is also used to improve our Site’s content and is retained anonymously, meaning that it does not identify an individual user. This information is also used to improve our software and services by providing personalized content recommendations, location customization, and/or personalized help and instructions. In addition, we track content accesses and downloads for the purpose of paying royalties and license fees to third party providers, such as record labels, advertisers and other copyright holders and content distributors.
 
@@ -118,23 +118,29 @@ From time to time, we may make mobile device application and mobile marketing ca
 
 Our goal is to provide you with ads that are relevant to you. Advertising enables us to provide the rich content for which our sites are known. Often our ads are based on the content of pages you are viewing, but we also provide ads tailored to your interests. Our hope is that by presenting ads tailored to your interests, we will enhance your experience across our diverse websites.
 
-Google is one of the companies that serve advertisements onto our sites. It uses the DFP cookie to serve ads based on your visit to our sites and other sites on the Internet. You may opt out of the use of the DFP cookie by visiting the Google ad and content network privacy policy.
+Google is one of the companies that serve advertisements onto our sites. It uses the DFP cookie to serve ads based on your visit to our sites and other sites on the Internet. You may opt out of the use of the DFP cookie by visiting the Google ad and content network privacy policy.
 
 Your access to our websites should not be affected if you do not accept cookies served by third parties.
 
 We use third party analytics vendors, including Google, to evaluate and provide us with information about the use of our Sites and viewing of our content. Some of the ads you see on our Sites are customized based on automated predictions about your interests, which predictions are generated from your visits over time and across different websites, using tools such as Google Analytics. This information allows us to create content of greater interest to you and can also be used to serve ads based on your past visits to our Sites. You can opt out of a third-party vendor’s use of cookies, including use by Google, by visiting the Google opt-out page (<https://tools.google.com/dlpage/gaoptout/>).
 
-### How to Opt-Out of Google Advertising Features
+## How to Opt-Out of Advertising Features
 
-You may opt-out of these features in one of two ways: 1) By installing the Google Analytics opt-out browser add-on located at <https://tools.google.com/dlpage/gaoptout/>, 2) using your browser’s Do Not Track (DNT) settings to indicate that you do not wish to receive targeted advertising based on your overall internet usage. For more information about DNT and how it works, please visit the Future of Privacy Forum’s website: <http://www.allaboutdnt.com/>.
+You may opt-out of the Google advertising features described above in one of two ways: 1) By installing the Google Analytics opt-out browser add-on located at <https://tools.google.com/dlpage/gaoptout/>, 2) using your browser’s Do Not Track (DNT) settings to indicate that you do not wish to receive targeted advertising based on your overall internet usage. For more information about DNT and how it works, please visit the Future of Privacy Forum’s website: <http://www.allaboutdnt.com/>.
 
 We will make a good faith reasonable effort to honor your DNT browser settings for opting out of receiving targeted third party advertising based on your overall Internet usage. Please note that various browsers frequently update technology or change their settings and business practices without advance notice, and we may not have the latest information on how to honor your preferences.
+
+To learn more about managing your preference related to interest-based advertising, go here: <http://optout.networkadvertising.org/?c=1#!/>
 
 ## Children’s Privacy Policy
 
 Although people of all ages may visit our Site and other Services and participate in activities that do not require the collection of Personal Information, we do not knowingly or intentionally collect Personal Information from children under the age of 13, and in some cases (as specified on the home page of the Site) we discourage participation by anyone under the age of 18. Except for the limited circumstances listed below, we will automatically reject and delete (to the extent technically feasible) the registration or entry of any person we believe in good faith to be underage unless such information meets an exception under the Children’s Online Privacy Protection Act (“COPPA”) or pertains to the programming or operations of Site. Online or offline correspondence from children that pertains to the programming or operations of Site is subject to Federal Communications Commission (“FCC”) regulations that require broadcast licenses to post such correspondence in the applicable Site’s FCC Public Inspection File. We retain the right to block out or edit the postal and email address, text number and/or name of the child. Except to meet FCC regulations, other applicable laws, or other regulatory and legal purposes, we will not knowingly use, distribute or disclose any child’s Personal Information to third parties without prior parental consent.
 
 Any false or fraudulent registration or entry from a minor (a person under the age of 18) will be deemed to be ineligible and will disqualify the minor from the receipt of a prize, benefit, or other participation. Unless we are required to retain a minor’s Personal Information for regulatory, tax or other legal purposes, we will promptly remove such information from our database (to the extent technically feasible) if a parent withdraws his or her consent to our use of the minor’s Personal Information.
+
+## Our Prohibited Use
+
+This Site is not intended for use by persons located within the European Economic Area (EEA). We do not request or accept personal information concerning or supplied by persons who are located within the EEA at the time they access this Site. If you have accessed this Site from within the EEA, you should immediately discontinue your use. If you have supplied personal information to us in violation of this provision, whether through the registration of new user accounts or otherwise, please contact us at [digital@LNPnews.com](mailto:digital@LNPnews.com).
 
 ## Our Commitment to Security
 
