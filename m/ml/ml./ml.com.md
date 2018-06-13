@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ml.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221145845id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ml.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613205333id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -16,13 +16,7 @@ U.S. Consumer Privacy  Notice**
 
 The Bank of America U.S. Consumer Privacy Notice explains our privacy commitment and practices. It identifies the personal information that we collect and hold, and describes how we use, share and secure it.
 
-**  
-Privacy Notice for Clients of Non-U.S. Bank of America Companies**
-
-The Bank of America Privacy Notice for Clients of Non-U.S. Bank of America Companies explains our privacy commitment and practices. It identifies the personal information that we collect and hold, and describes how we use, share and secure it. View a listing of our [affiliate companies](https://web.archive.org/privacy-and-security-center/non-us-consumer-customers.html) that may receive or share customer information.
-
-**  
-Cookie Guide:**
+**Cookie Guide:**
 
 The use of cookies and similar technologies is a common Internet practice. We have developed a Cookie Guide to provide very general information on cookies and similar technologies.
 
