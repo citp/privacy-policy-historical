@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the gossiponthis.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203063253id_/http%3A//gossiponthis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossiponthis.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614014909id_/http%3A//gossiponthis.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Gossip On This
 
 **GossipOnThis.com  
 Privacy  Policy**
 
-Revised and posted as of August 25, 2013
+Revised and posted as of May 18, 2018
 
 This Privacy Policy applies only to _Gossip On This_ (however accessed and/or used, whether via personal computers, mobile devices, or otherwise), or other interactive features that are accessible or downloadable through _Gossip On This_ and that post a link to this Privacy Policy (collectively, the “Web Site”). This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected at any other web site or offline by _Gossip On This_ (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Site, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.
 
@@ -35,11 +35,14 @@ _The information you provide to us may be used to:_
 
 
 
-Moreover, if you submit to _Gossip On This_ and/or the Web Site comments, photographs, videos, music, text or other content, it maybe published online or offline (including on-air, on a CD or DVD, through wireless distribution, and transmission of soft copies, or any other media or format currently existing or hereafter developed), and we may publish your name, voice, likeness and other personal information in connection with publishing the content or a portion of the content, and we may use the content and any excerpt from the content in connection with advertising, marketing, publicity and promotional activities. Please also see “Information You Submit” in our Terms of Use, which governs any content you submit through the Web Site.  
+Moreover, if you submit to _Gossip On This_ and/or the Web Site comments, photographs, videos, music, text or other content, it maybe published online or offline (including on-air, on a CD or DVD, through wireless distribution, and transmission of soft copies, or any other media or format currently existing or hereafter developed), and we may publish your name, voice, likeness and other personal information in connection with publishing the content or a portion of the content, and we may use the content and any excerpt from the content in connection with advertising, marketing, publicity and promotional activities. Please also see “Information You Submit” in our Terms of Use, which governs any content you submit through the Web Site.
+
 Please note that information submitted to the Web Site via a “contact us,” or other similar features will not necessarily receive a response. We will not use any such information you provide to contact you for marketing purposes unrelated to your submission.
 
 **THIRD PARTY AD SERVING & AUDIENCE AND TRAFFIC MEASUREMENT SERVICES**  
 The Web Site may use third party network advertisers to serve advertisements on the Web Site and may use a traffic measurement service to analyze traffic on the Web Site. Network advertisers are third parties that display advertisements based on your visits to the Web Site and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Web Site, the Web Site’s third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser or they may otherwise have access to information. These third party cookies, are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party’s specific privacy policy, not this one.
+
+We use Clicky to monitor and study traffic patterns to help better understand how you use our website so that we can improve your user experience. You can read their specific Privacy Policy [here](https://clicky.com/terms/privacy).
 
 **WITH WHOM INFORMATION MAY BE SHARED**  
 We do not share your personal information with third parties for those third parties’ marketing purposes unless you opt-in to such sharing at the time you provide your personal information. We may share non-personal information, such as aggregate user statistics, demographic information, and web site usage information with third parties. In addition, we may share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances:  
