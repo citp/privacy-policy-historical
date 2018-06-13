@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the max.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025002616id_/https%3A//max.com/marketing/pdf/privacy-policy/privacy-policy-1-28-2015_en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the max.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613134339id_/https%3A//max.com/marketing/pdf/privacy-policy/privacy-policy-1-28-2015_en.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
