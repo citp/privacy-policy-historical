@@ -1,126 +1,285 @@
-> *The following text is extracted and transformed from the theguardian.pe.ca privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527210351id_/http%3A//tctranscontinental.com/privacy-policy%3Fp_p_id%3D82%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_82_struts_action%3D%252Flanguage%252Fview%26_82_redirect%3D%252Fprivacy-policy%26languageId%3Den_CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theguardian.pe.ca privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613133926id_/http%3A//saltwire.com/saltwire_privacy_policy.pdf) for the most accurate reproduction.*
 
-# Privacy Policy - TC Transcontinental
+# 
 
-**GENERAL**
-
-Transcontinental Inc. and its [affiliated entities](http://tctranscontinental.com/affiliated-companies) (collectively, "TC Transcontinental", "we" or "us") are committed to maintaining the privacy, security and accuracy of the Personal Information (as such term is defined below) under our care and control. This Privacy Policy informs you of our privacy practices with respect to our collection, use and disclosure of Personal Information.
-
-This Privacy Policy does not apply to the Personal Information of our temporary or permanent employees and other staff members, our consultants or other individuals assigned to TC Transcontinental, or to any information that is not Personal Information.
-
-  
-**ACCOUNTABILITY**
-
-TC Transcontinental is responsible for Personal Information under its care and control and has designated a Chief Privacy Officer who is accountable for our compliance with this Privacy Policy and applicable privacy laws. If you have any concerns, questions, requests or complaints about this Privacy Policy or the processing of your Personal Information, please contact our Chief Privacy Officer by email at [chiefprivacyofficer@tc.tc](mailto:chiefprivacyofficer@tc.tc) or by fax at  
-(514) 954-2802. Alternatively, you can contact our Chief Privacy Officer by mail at:
-
-Chief Privacy Officer  
-Transcontinental Inc.  
-1 Place Ville Marie, Suite 3315  
-Montréal, Québec H3B 3N2  
-Canada
-
-  
-**COLLECTION, USE AND DISCLOSURE OF PERSONAL INFORMATION**
-
-**Personal Information**
-
-The types of Personal Information that we may collect from time to time may include your name, address, telephone number, e-mail address, contact details, financial, credit and billing information and other personally identifiable information ("Personal Information"). 
-
-**Collection, Use and Disclosure**
-
-Personal Information is collected namely through your voluntary disclosure, your use of our services or websites, your purchase of our products, your subscription to our publications, through our registration or subscription forms, by means of surveys, as part of any entry to a contest or other promotion, through third party agents, contractors, vendors or suppliers who provide products and services to us ("Service Providers"), as well as through our third party business partners to whom we provide our products and services.
-
-We may collect, use and/or disclose your Personal Information for the following purposes:
-
-  * to create and maintain client accounts;
-  * to provide the product, service or information you requested;
-  * to communicate with you regarding the products and services you order and to respond to your requests and inquiries;
-  * to process payments and collect unpaid accounts;
-  * to detect and protect against error, fraud, theft and other illegal activity;
-  * to better understand your needs and preferences;
-  * to engage in business transactions;
-  * to provide customer service;
-  * to organize and administer contests and/or surveys;
-  * to inform you of special offers and promotions;
-  * to meet legal requirements; and/or
-  * for any other purpose for which you otherwise provide your consent.
+Introduction
+Effective January 1, 2004, private sector organizations must follow a code for the protection of
+personal information in accordance with the Personal Information Protection and Electronic
+Documents Act (PIPEDA).
+A full list of SaltWire Network Inc. publications is available by visiting saltwire.com.
+Customer Personal Information Defined
+Personal information includes any factual or subjective information about an identifiable
+individual. For SaltWire Network Inc. publications’ purposes this includes but is not limited to
+name, address, telephone number, comments, transactions, credit information, Visa, MasterCard
+or banking information.
+Personal information does not include that which is collected for journalistic purposes or that
+information that may be contained in a business card, such as the name, title, business address and
+telephone number of an employee of an organization.
+Ten Principles of Fair Information Practices
+There are ten (10) principles of fair information practices. These principles form the ground rules
+for the collection, use and disclosure of the personal information of our customers. As a private
+sector organization, we are responsible for the protection of personal information and the fair
+handling of that information at all times.
+The ten (10) principles that SaltWire Network Inc. publications must follow are:
+              SaltWire.com · 2717 Joseph Howe Drive, PO Box 610, Halifax, NS, B3J 2T2
 
 
+1. Accountability
+SaltWire Network Inc. publications are responsible for personal information that is under its
+control. The individual responsible for SaltWire Network Inc. publications' compliance with
+respect to the principles of fair information practices is Sheryl Grant, Senior Director of Digital
+Content. SaltWire Network Inc. publications are responsible for personal information in its
+possession, including information that has been sent to a third party for processing. SaltWire
+Network Inc. publications shall use contractual means to provide a comparable level of protection
+while the information is being processed by a third party.
+2. Identifying Purposes
+SaltWire Network Inc. publications shall identify the purpose for which personal information is
+collected at or before the time that the information is collected. In compliance with the Openness
+principle and the Individual Access principle, purposes for which personal information is collected
+include but are not limited to:
+     •   To communicate delivery information to a newspaper carrier;
+     •   To process payment of a Classified advertisement, a newspaper subscription in either
+         hard-copy or on-line version, archived information in CD-ROM form, reprinted
+         newspaper photographs;
+     •   To communicate subscription renewal or other information to the customer.
+     •   In accordance with the Limiting Collection principle, only that information necessary to
+         fulfill the identified purposes shall be collected.
+The identified purpose should be specified to the individual from whom the information is
+collected at or before the time the personal information is collected.
+This may be done orally or in writing.
+When collected personal information is to be used for a new purpose not previously identified, the
+new purpose shall be identified prior to use of the information. Unless the new purpose is required
+by law, consent of the individual is required before the information can be used for that purpose.
 
-**Disclosure to TC Transcontinental**
 
-We may disclose your Personal Information within our organization in order to better serve you and to provide you with information about TC Transcontinental's products and services.
+Whoever is collecting the personal information should be able to explain the collection purpose to
+the individual from whom the information is collected.
+3. Consent
+Consent and knowledge of the individual is required, except where inappropriate, for the
+collection, use and disclosure of their personal information.
+Except for purposes provided for in exceptions to consent, personal information may not be
+collected, used, or disclosed without knowledge and consent of the individual.
+A reader who enters a newspaper contest would reasonably expect that his or her relevant
+contact information would be collected and used to identify the reader if and when he or she was
+selected as a contest winner. The reader would not reasonably expect that this information would
+be used for a purpose other than the administration of the contest without the reader's
+knowledge and consent.
+A newspaper subscriber would reasonably expect that SaltWire Network Inc. publications, in
+addition to using the individual's name and address for mailing and billing purposes, would also
+contact the subscriber to solicit the renewal of his or her subscription.
+Exceptions to consent include:
+     •   If it is clearly in the individuals interest and consent is not available in a timely manner;
+     •   If knowledge and consent would compromise the availability or accuracy of the
+         information and collection is required to investigate a breach of an agreement or
+         contravention of a provincial or federal law;
+     •   For journalistic, artistic or literary purposes;
+     •   If the information is publicly available;
+     •   To collect a debt the individual owes to a SaltWire Network Inc. publication;
+     •   To comply with a subpoena, warrant or court order;
 
-When you provide Personal Information to us with respect to employment opportunities including, but not limited to, your resume, we will treat such Personal Information on a confidential basis and use it only (i) to consider you for current or future employment opportunities within TC Transcontinental and (ii) to contact you with respect to such employment opportunities. We will retain your Personal Information for further employment opportunities that may arise within TC Transcontinental, unless you inform us that you no longer wish us to retain your information.  
 
-**Disclosure to Service Providers**
+      •    To a government body that suspects the information relates to national security or the
+           conduct of international affairs or for the purpose of administering any provincial or
+           federal
+      •    In an emergency where an individual's life, health or security are threatened.
+           Consent may be obtained orally when information is collected over the telephone, in
+           writing or in person.
+We collect, use and disclose your personal information with your consent or as permitted or
+required by applicable law. Your consent may be express or implied, depending on the
+circumstances and applicable laws. If you provide personal information about another person to
+us, we assume you have the valid consent of that individual to enable us to collect, use or disclose
+such information in accordance with this Privacy Policy.
+Any electronic communication that we may send to you, whether on our behalf or on behalf of our
+third party business partners, will include instructions on how to unsubscribe from any such future
+communications as per Canada’s Anti-Spam Legislation (CASL).
+4. Limiting Collection
+SaltWire Network Inc. publications will limit collection of personal information to that which is
+necessary for the purpose of collection and shall do so using fair and lawful means.
+SaltWire Network Inc. publications shall not collect personal information indiscriminately.
+SaltWire Network Inc. publications will not deceive or mislead customers about the reasons for
+collecting their personal information.
+The amount and type of information gathered will be limited to that which is necessary in order to
+fulfill the identified purpose.
 
-TC Transcontinental has operations in both Canada and the United States. We may transfer your Personal Information to Service Providers acting on our behalf for purposes mentioned in this Privacy Policy. Note that some of our Service Providers who process or handle Personal Information on our behalf may be located in a foreign jurisdiction.
 
-We take reasonably necessary steps to ensure that your data is treated in an appropriate and secure manner and in accordance with this Privacy Policy, subject however to the legal requirements of the relevant foreign jurisdiction.
+5. Limiting Use, Disclosure and Retention
+SaltWire Network Inc. publications shall not use or disclose personal information for any purpose
+other than that for which the information was collected unless consent is provided by the
+customer or the use or disclosure is authorized by the Act.
+Use of Personal Information
+The information shall not be used for purposes other than those made known at the time of
+collection of the personal information. Personal information that has been collected during the
+course of past activities does not need to be recollected. In order to continue to use or disclose it,
+however, consent is required. Customers must be notified about what is done with their
+information, to whom it is disclosed and they must be given the option to object to these ongoing
+uses or disclosures.
+ Disclosure of Personal Information
+Personal information may be disclosed only for the purpose for which it was collected. SaltWire
+Network Inc. publications may disclose the contact information of their customers to a third party
+for the following purposes:
+     •   To facilitate newspaper delivery;
+     •   To encourage subscription renewal;
+     •   To prepare bulk mailings of information to customers pertinent to their newspaper
+         delivery or newspaper subscription;
+     •   To third party service providers communicating with customers, on behalf of SaltWire
+         Network Inc. publications, regarding their subscription account status.
+     •   Such third parties shall be contractually bound to protect this personal contact
+         information in accordance with the policies and procedures of SaltWire Network Inc.
+         publications.
+SaltWire Network Inc. publications will not sell, lease or trade the personal information of their
+customers to third parties unless express consent is obtained from the customer.
 
-**Disclosure in Business Transactions**
 
-TC Transcontinental may be involved in the sale, merger or restructuring of some or all of our business or assets. In the course of such transaction, TC Transcontinental may disclose your Personal Information to the purchaser or new corporate entity. In such case, TC Transcontinental will require such third parties to agree to protect the privacy of your Personal Information in a manner that is consistent with this Privacy Policy and in accordance with applicable privacy laws.
+Retention of Personal Information
+A customer is no longer a customer seven years past their most recent business transaction and
+their personal information will be destroyed in accordance with the Safeguards principle.
+6. Accuracy
+SaltWire Network Inc. publications will keep personal information as accurate, complete and up-
+to-date as is necessary and will take into account its use and the interests of the customer.
+Personal information will not be routinely updated and will be updated only when necessary in
+order to fulfill the identified purpose or upon request by the customer.
+Unless there are clearly set out limits, frequently used information will be kept as accurate and up-
+to-date as is necessary for the identified purpose.
+7. Safeguards
+Personal information of customers shall be protected regardless of its format. SaltWire Network
+Inc. publications shall safeguard the information from unauthorized access, disclosure, copying,
+modification, loss or theft.
+If necessary to transport personal information, it shall be contained in a sealed envelope and
+transported personally. Interoffice mail distribution is not acceptable.
+Credit cardholder data received by regular mail shall be processed in a restricted area and only
+authorized staff may access this data.
+Credit cardholder data may be received by fax machine to a fax machine located in a restricted
+area with limited authorized access. Authorized staff must be accountable for all documents
+containing cardholder information.
 
-We make reasonable efforts to ensure that your Personal Information is used and disclosed as provided for in this Privacy Policy, unless we have obtained your consent for any other purposes, or as otherwise required or permitted by applicable laws.
 
-  
-**CONSENT**
+Telephone orders that include credit card payment are permitted; however, telephone
+representatives must not record the credit cardholder information in any form other than that
+necessary to process the payment. If recorded in hardcopy form, the form must be appropriately
+destroyed upon processing of the payment.
+Personal information shall be stored in locked cabinets or password protected electronic files at
+all times unless it is being used for an identifiable purpose.
+No personal information shall be left unattended at any time that it is not contained within a
+locked cabinet or password protected electronic file.
+Personal information may be kept only as long as necessary to satisfy the purpose for which it was
+collected.
+All hard-copy reports or documents containing customer information shall identify the customer
+only by an account number.
+Destruction of Personal Information
+All hard-copy forms, records, papers or other document containing personal information shall be
+shredded once the information is no longer required for an identified purpose.
+All computerized records containing personal information shall be purged once the information is
+no longer required for an identified purpose.
+Access to Personal Information
+Access to customer personal information is on a "need-to-know" basis only. Personal information
+that has no relevance to the transaction is to be masked or removed when copies of information is
+provided to others.
 
-We collect, use and disclose your Personal Information with your consent or as permitted or required by applicable law. Your consent may be express or implied, depending on the circumstances and applicable laws. If you provide Personal Information about another person to us, we assume you have the valid consent of that individual to enable us to collect, use or disclose such information in accordance with this Privacy Policy. Any electronic communication that we may send to you, whether on our behalf or on behalf of our third party business partners, will include instructions on how to unsubscribe from any such future communications. If you do not consent, please do not provide your Personal Information or, where applicable, exercise opt-out options offered, or send an e-mail to [unsubscribe@tc.tc](mailto:unsubscribe@tc.tc) .
 
-Note that if you withdraw your consent to certain uses of your Personal Information, we may no longer be able to provide you with certain of our services.
+8. Openness
+SaltWire Network Inc. publications shall make its privacy policy understandable and easily
+available to its customers.
+The following information will be readily available on the saltwire.com website:
+      •   The name, title and address of SaltWire Network Inc. publications' privacy compliance
+          officer;
+      •   A copy of SaltWire Network Inc. publications’ Privacy Policy;
+      •   The name, title and address of the person to whom access to information requests
+          should be sent;
+      •   The procedure for a customer to gain access to their personal information;
+      •   A description of that personal information which is made available to third parties and
+          the purpose for which it is disclosed.
+9. Individual Access
+Upon request, the customer shall be informed of any personal information we have about them as
+well as its use and disclosure. An opportunity shall be extended to correct or amend any personal
+information if its accuracy and completeness is challenged or incorrect.
+Except when SaltWire Network Inc. publications are required by law to not disclose personal
+information to the individual, should a customer request a copy of their personal information, the
+request shall be complied with within thirty days. The 30-day response time limit may be extended
+if: responding to the request within the original 30 days would unreasonably interfere with
+SaltWire Network Inc. publications’ business activities; if additional time is necessary to convert
+the personal information to an alternate format; or, if additional time is necessary to conduct
+consultations. If an extension to the original 30 days is required, SaltWire Network Inc.
+publications will notify the customer of their right to complain to the Privacy Commissioner of
+Canada.
 
-  
-**PRIVACY PROTECTION AND OUR WEBSITES**
 
-TC Transcontinental sometimes collects Personal Information through its various websites. In this section, we provide you with additional information regarding such collection.
+Access to a customer's personal information shall be provided at minimal or no cost. If cost is
+necessary, the customer will be advised of the approximate cost prior to processing the request.
+In order to ensure that information within a customer record is easily understood, any acronym,
+abbreviation or code used within the customer's personal information shall be explained to the
+customer.
+Where appropriate, amended customer information will be forwarded to any third party that has
+access to the information.
+If it is necessary to refuse access, the customer will be informed in writing and will be advised of
+reasons and any possible recourse.
+SaltWire Network Inc. publications must refuse access to personal information in the following
+circumstances:
+       •   If it would reveal personal information about another individual that cannot be removed
+           unless consent is provided by the other individual or if a life-threatening situation exists;
+       •   If a SaltWire Network Inc. publication had disclosed information to a government body
+           for law enforcement or national security reasons and that body has instructed a
+           SaltWire Network Inc. publication to refuse access or to not reveal that the information
+           has been released;
+       •   Solicitor-client privilege;
+       •   If it was collected without the individual’s knowledge or consent to ensure its availability
+           and accuracy and the collection was required to investigate a breach of an agreement or
+           contravention of a provincial or federal law;
+       •   If the information was generated in the course of a formal dispute resolution process.
+10. Challenging Compliance
+A customer may address a challenge concerning compliance with the principles of the Personal
+Information Protection and Electronic Documents Act (PIPEDA) to SaltWire Network Inc.
+publications’ privacy compliance officer.
 
-**Cookies**
 
-By using a browser feature called a "cookie" and other methods, TC Transcontinental and our third party Service Providers may gather non-personal information when you visit our websites such as data about the frequency of your visits to our websites, the duration of your visits, the number of pages you view and the type of Internet browser and operating system you use. A cookie is a small text file containing a unique identification number that identifies the visitor's browser, but not necessarily the visitor, to our computers each time our websites are visited. Website visitor information is collected on an anonymous basis, which means that no Personal Information is associated with such data, unless a visitor specifically provides us with such information (e.g. by enrolling to our services or by sending us a message from our websites).
+The customer shall be made aware of SaltWire Network Inc. publications’ Privacy Policy and that
+it is in place for protection of their personal information. The customer shall be offered a copy of
+this policy.
+The customer shall be provided with the name, title and address of the person accountable for
+SaltWire Network Inc. publications’ privacy policies and practices. This person is presently Sheryl
+Grant, Senior Director of Digital Content, SaltWire Network Inc., P O Box 610, Halifax, NS, B3J
+2T2. Phone: (902) 426-2811, Fax: (902)426-0449, Email: sgrant@herald.ca.
+All complaints shall be investigated and the customer will be advised of the outcome. If a
+complaint is justified, SaltWire Network Inc. shall take appropriate steps to resolve the complaint
+including but not limited to amendment of SaltWire Network Inc. publications’ policies and
+procedures.
+ In the event the complaint is not resolved to the customer's satisfaction, the customer may have
+ recourse to additional remedies through the Office of the Privacy Commissioner of Canada, 112
+ Kent Street, Place de Ville, Tower B, 3rd Floor, Ottawa, Ontario, K1A 1H3, or toll-free at 1-800-
+ 282-1376, www.priv.gc.ca/.
+Collection and Use of Cookies
+A cookie is a small text file, which often includes an anonymous unique identifier, that is sent to
+the user's web browser from a website's computers and is stored on the user's computer's hard
+drive. Cookies cannot be used to run programs or deliver viruses to a user's computer.
+SaltWire Network Inc. publications may use cookies to:
+       •   Improve the operation and performance of their respective websites to make them
+           easier and more convenient to use. For example, cookies help SaltWire Network Inc.
+           publications to provide more personalized services by recalling user preferences on
+           subsequent visits (e.g. relevant advertising). Cookies also allow SaltWire Network Inc.
+           publications to save passwords and preferences for a user so that the user will not have
+           to re-enter them on the next visit to a SaltWire Network Inc. publication website;
 
-In addition to the identified purposes described in this Privacy Policy, we may use information obtained from our websites and share it with other organizations with whom we have a commercial relationship to measure the use of our websites and to improve the functionality and content of our websites. TC Transcontinental and our third party Service Providers may also use cookies and invisible web beacons to deliver interest-based advertisements that are relevant and targeted to the visitors of our websites.  
 
-You can manage your cookies by installing a third party program or by configuring your web browser. Most web browsers are initially set up to accept cookies; however, you can delete or disable cookies by modifying your settings. If you decide to disable cookies on our websites, you may not be able to take full advantage of all website features once you have done so.
-
-**Online Communications**
-
-If you are known to TC Transcontinental as a registered user of an online service that we offer, we may combine and store information about your use of our websites and the online information that you have provided us with along with other online and offline information we may have collected.
-
-**Public Forums**
-
-Some of TC Transcontinental's websites offer chat rooms and other public forums. Your voluntary disclosure of Personal Information on such forums is not governed by this Privacy Policy. TC Transcontinental is not responsible for any information disclosed in our chat rooms and other public forums. Any such voluntary disclosures become public and are made at your own risk. Although it is prohibited to use our forums as a source for collecting e‑mail addresses for sending unfounded or unsolicited messages or spamming, others may still capture your e‑mail address and send you messages if you provide your e-mail address; we cannot control such actions by others. We advise you to remain prudent and attentive at all times when using the Internet. 
-
-**Searches**
-
-For your convenience, search functions are sometimes provided on our websites. We keep records of the words searched to learn more about what kind of information our visitors are seeking, and thus improve our products and services.
-
-**Hyperlinks**
-
-For your convenience, TC Transcontinental's websites may contain hyperlinks to websites operated by third parties. When you click on one of these hyperlinks, you will be transferred from TC Transcontinental's websites and be connected to a third party site, which may have different privacy policies and practices in place. This Privacy Policy is no longer applicable when you leave our websites. You should consult the privacy policies of these other entities before providing any Personal Information on their websites. TC Transcontinental is not responsible, nor do we accept any liability, for the Personal Information collection, use and disclosure practices of other entities to which our websites may link.
-
-**Individuals Under 18**
-
-No Personal Information should be submitted or posted on our websites by individuals under 18 years of age without their parent's or legal guardian's permission. We may request the Personal Information of an individual under 18 years of age for contest administration purposes. In the event we do so, we will request such individual's parent or legal guardian to consent prior to collecting such information.
-
-  
-**SECURITY**
-
-TC Transcontinental has implemented reasonable security measures to safeguard the Personal Information under our care and control. Any Personal Information maintained by TC Transcontinental is archived in a reasonably secured environment based on the nature of the information.  Credit card information is processed using industry-standard encryption technology. TC Transcontinental limits the collection of Personal Information to that which is necessary for the purpose(s) identified by TC Transcontinental unless otherwise required or permitted by law. Any credit card information submitted to TC Transcontinental will be used only to complete the purchase and arrange for shipping (where applicable) and/or for credit verification purposes (where applicable). Our security policies and procedures are periodically reviewed and enhanced as necessary.
-
-Only authorized employees, agents, partners and Service Providers may have access to Personal Information under our care and control. We instruct all of our authorized employees, agents, partners and Service Providers who have access to Personal Information to use appropriate privacy and security precautions when processing such information.
-
-  
-**ACCURACY AND ACCESS**
-
-We use reasonable efforts to ensure that your Personal Information is kept as accurate, complete and up-to-date as possible. We do not routinely update your Personal Information, unless such a process is necessary. In order to help us maintain and ensure that your Personal Information is accurate and up to date, please inform us as soon as possible of any changes to your Personal Information so that we can update our records.
-
-If you wish to request access to, or correction of, your Personal Information that is in our care and control, please make your request in writing to our Chief Privacy Officer at the address or numbers above. All requests to access information or change information will be treated in accordance with applicable law.
-
-  
-**CHANGES TO THIS PRIVACY POLICY**
-
-TC Transcontinental reserves the right to modify this Privacy Policy at any time. All such changes will be posted on TC Transcontinental websites, which will be effective immediately upon posting. We will take reasonable measures to advise affected individuals of any material changes, if necessary. You may contact our Chief Privacy Officer at the address or numbers above to obtain a current copy of this Privacy Policy.
+    •   Measure aggregate user traffic and demographic statistics related to SaltWire Network
+        Inc. publications and advertisements (e.g. number of users, average time spent, average
+        age and similar statistics). This information helps SaltWire Network Inc. publications to
+        better understand when to update, change or offer new services and provides SaltWire
+        Network Inc. publications with details as to the performance of Third Party
+        advertisements and content. This information may be reported, in aggregate form only,
+        to SaltWire Network Inc. publications’ current and prospective sponsors, advertisers
+        and business partners. No Personal Information will be disclosed in such reports;
+    •   Display advertisements. SaltWire Network Inc. publications and Third Party advertising
+        providers may use cookies when serving advertisements on SaltWire Network Inc.’s
+        publication websites. Anonymous data based on cookies and user IP Addresses may be
+        used to deliver advertisements that are likely to be of interest to the applicable users
+        ("Interest-based Advertising"). In some cases, advertisements from Third Party
+        advertisers are delivered to users (in conjunction with SaltWire Network Inc.
+        publications) by such Third Party advertisers, or by separately contracted advertising
+        providers on their behalf, and not by SaltWire Network Inc. publications; as such, the
+        Third-party advertisers' use of cookies is subject to their own privacy policies, not that of
+        SaltWire Network Inc. publications, and users should consult the privacy policies of such
+        Third Party advertisers.
+Most browsers are initially set up to accept cookies. If a user prefers, the user can reset his/her
+browser either to notify the user when the user has received a cookie, or to refuse to accept
+cookies. The user should understand that while SaltWire Network Inc. publications do not
+require a user to use cookies, certain aspects of their websites will not function properly if a user
+sets his/her browser to not accept cookies.
