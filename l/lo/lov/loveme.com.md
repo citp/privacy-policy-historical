@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveme.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204191308id_/http%3A//loveme.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveme.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613072638id_/http%3A//loveme.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,9 +46,4 @@ _Page last updated March 16, 2017_
 [](https://web.archive.org/invar/sendmess/index.php)  
 ---  
   
-
-
-THIS PROGRAM IS THE SOLE PROPERTY OF **A FOREIGN AFFAIR** AND MAY NOT BE COPIED   
-IN ANY WAY OR FORM WITHOUT EXPRESS PERMISSION FROM **A FOREIGN AFFAIR**. 
-
-© COPYRIGHT 1996-2017 - ALL RIGHTS RESERVED. 
+Copyright © 1995-2018 
