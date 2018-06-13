@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quickanddirtytips.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017134922id_/http%3A//www.quickanddirtytips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickanddirtytips.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613174240id_/https%3A//www.quickanddirtytips.com/cookie-and-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Quick and Dirty Tips ™
+# Cookie and Privacy Policy :: Quick and Dirty Tips ™
 
-**EFFECTIVE DATE: 4/1/2014**
+**Modified: 10/2017**
 
-We at Quick and Dirty Tips, a division of Macmillan Holdings, LLC ("we" or "QDT") respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect through http://www.quickanddirtytips.com, how we may use that information, and with whom we may share it.   This Privacy Notice also describes the measures we take to protect the security of information we collect through this website.  In addition, we describe the choices you can make about how we use the information you provide to us. We also tell you how you can reach us to update your contact information, contact us with general questions or comments, inquire about our company and its products and services, or answer any questions you may have about our privacy practices.
+We at Quick and Dirty Tips, a division of Macmillan Holdings, LLC ("we" or "QDT") respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect through https://www.quickanddirtytips.com, how we may use that information, and with whom we may share it.   This Privacy Notice also describes the measures we take to protect the security of information we collect through this website.  In addition, we describe the choices you can make about how we use the information you provide to us. We also tell you how you can reach us to update your contact information, contact us with general questions or comments, inquire about our company and its products and services, or answer any questions you may have about our privacy practices.
 
 **How We Use Information We Collect**
 
@@ -60,15 +60,25 @@ When you visit our website, your browser automatically sends us certain Internet
 
 (6) ) to personalize our website for you, including targeting advertisements which may be of particular interest to you. 
 
-**Third party cookies and web beacons:  **When you use our website, you may also be sent cookies by third-party advertisers and service providers. For example, collection of site usage information is performed on our behalf by a third party service provider. In addition to cookies, such third parties may use web beacons to obtain notification of web page access by visitors. Such third parties may retain usage information they obtain from these cookies or web beacons for their own purposes, including, without limitation: 
+**Online Tracking**
 
-(1) to track your browser across multiple websites 
+We use third-party web analytics services on our website, such as Google Analytics. These service providers help us analyze how users use our website. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. To learn more about opting out of data collection through Google Analytics, click this link: [ _Google Analytics._](http://tools.google.com/dlpage/gaoptout)
 
-(2) to build a profile of your web surfing 
+On the Site, we may collect information about your online activities for use in providing you with advertising about products and services tailored to your individual interests. This section of our Online Privacy Notice provides details and explains how to exercise your choices.
 
-(3) to target advertisements which may be of particular interest to you. 
+You may see certain ads on other websites based on your visits to our Site because we participate in advertising networks administered by third-party vendors, such as Google Adwords. Ad networks allow us to target our messaging to users considering demographic data, users’ inferred interests and browsing context. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs and web beacons. The networks use this information to show you advertisements that are tailored to your individual interests, to track your browser across multiple websites, and to build a profile of your web surfing. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors’ advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our Site and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
 
-The “help” portion of the toolbar on most browsers or mobile devices will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies.  Remember, though, if you disable all cookies, you may not be able to take advantage of all features of this website. To learn more about how third-party, non-personally identifiable data gathering works and your options for opting out, visit http://www.networkadvertising.org/choices/
+To learn more about how to opt out of ad network interest-based advertising, [ _click here._](http://www.aboutads.info/choices)
+
+This Site is not designed to respond to “do not track” signals received from browsers.
+
+QDT is partnered with a content recommendation software company that collects and uses only the below data in connection with its presence on the site. It does not receive any end user personal data from QDT. All personal data is collected directly by the company's technology.
+
+  * IP address
+  * User agent information (i.e. browser and device type identification)
+  * Repeat viewer identification information from a cookie the ZergNet unit drops
+
+
 
 **How We Share Information**
 
