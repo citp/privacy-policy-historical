@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211173115id_/http%3A//www1.uwe.ac.uk/about/websiteinformation/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613121821id_/http%3A//www1.uwe.ac.uk/about/websiteinformation/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - UWE Bristol: Website information
 
 The University of the West of England (UWE Bristol) respects the privacy of users of its website.
 
-This privacy policy applies to any UWE Bristol website from which it is linked. Also outlined are special terms that apply only to Blackboard (the University's virtual learning environment). Users of myUWE should also consult our advice on [protecting your privacy in myUWE](http://info.uwe.ac.uk/myuwe/guidance/protectingprivacy.asp).
+  * This privacy policy applies to any UWE Bristol website from which this policy is linked.
+  * Also outlined are special terms that apply only to Blackboard (the University's virtual learning environment).
+  * Users of myUWE should also consult our advice on [protecting your privacy in myUWE](http://info.uwe.ac.uk/myuwe/guidance/protectingprivacy.asp).
+  * See additional information about UWE Bristol's [Data Management](https://web.archive.org/about/corporateinformation/datamanagement.aspx) and [GDPR statement](https://web.archive.org/about/corporateinformation/datamanagement/gdprstatement.aspx).
+
+
 
 ## Cookies
 
@@ -14,7 +19,7 @@ Please see [the University's cookie policy](https://web.archive.org/about/websit
 
 As you use this website, you may be asked to provide personal information by entering it on a web page and submitting it to the University by clicking a button or link (this includes discussion boards and feedback forms). Generally, this information will be requested to help us provide a service. However, whenever you enter such information on a web page, the University has legal obligations to you about the ways in which it may use and store the data you provide.
 
-We will treat that data in accordance with current legislation and aim to follow best Internet practice. The data will not be supplied to anyone outside the University without your consent unless required by law, and when stored in a database, this will be in accordance with the Data Protection Act 1998. Email addresses supplied to the University as part of an enquiry may be used in conjunction with remarketing services (read more about remarketing). Enquiries to the University by international students are currently managed by [UniQuest](http://www.uni-quest.co.uk/).
+We will treat that data in accordance with current legislation and aim to follow best Internet practice. The data will not be supplied to anyone outside the University without your consent unless required by law, and when stored in a database, this will be in accordance with the General Data Protection Regulation as applied, enacted and amended in UK law. Email addresses supplied to the University as part of an enquiry may be used in conjunction with remarketing services (read more about remarketing). Enquiries to the University by international students are currently managed by [UniQuest](http://www.uni-quest.co.uk/).
 
 ## Information we gather
 
@@ -28,6 +33,7 @@ To maintain and improve the quality of our website we use the web metrics servic
 
   * Google Analytics is a web analytics service provided by Google, Inc. ("Google") which records how visitors use the website using cookies.
   * If you visit our website by following a Google Adwords link, Google will set a cookie to confirm that you have used their service. The UWE Bristol website will support confirmation that the Adword has been used.
+  * Hotjar is an analysis tool that records the behaviour of website visitors. Please see the [Hotjar privacy policy](https://www.hotjar.com/privacy) for more information about how this service collects information.
 
 
 
@@ -51,7 +57,7 @@ Blackboard is a web-based learning environment used by staff and students at the
 
 If you are enrolled in a module which uses Blackboard your use of that site may be logged. Your module leader and system administrators are able to access such information as the number of times you logged onto the site, the pages you visited, and the dates and times that you visited them. Where your tutor intends to use the tracking information created by Blackboard for the purposes of assessment he/she must advise you in advance. You may wish to seek the advice of your tutor if in doubt.
 
-Please note that for the purposes of the Data Protection Act 1998 by logging on to Blackboard you consent to the University of the West of England (UWE Bristol) holding and processing information relating to your use of that system. This processing takes effect subject to this Privacy Policy and is conducted in accordance with the Data Protection Act.
+Please note that for the purposes of the General Data Protection Regulation as applied, enacted and amended in UK law by logging on to Blackboard you consent to the University of the West of England (UWE Bristol) holding and processing information relating to your use of that system. This processing takes effect subject to this Privacy Policy and is conducted in accordance with the General Data Protection Regulation as applied, enacted and amended in UK law.
 
 This statement should be read in conjunction with the University's IT Monitoring Statement.
 
