@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptcevolution.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225001340id_/http%3A//www.ptcevolution.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptcevolution.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613055108id_/http%3A//ptcevolution.com/privacy) for the most accurate reproduction.*
 
 # PTCEvolution.com - Innovative GPT Software - PTC Script
 
