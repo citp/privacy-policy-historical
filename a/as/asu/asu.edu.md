@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206222823id_/https%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613205829id_/https%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statements
 
@@ -7,6 +7,8 @@
 This Arizona State University ( **ASU** ) Privacy Statement provides information required by Arizona law about ASU’s online information gathering and dissemination practices. Individual pages on ASU websites may provide additional information. 
 
 In addition to the information in this Privacy Statement, [ASU’s Terms of Use](https://web.archive.org/tou/) and [Computer, Internet, and Electronic Communications Information Management Policy](https://www.asu.edu/aad/manuals/acd/acd125.html) set forth requirements that you must follow when using ASU’s websites and technology network. 
+
+If you are in the European Union, please also review ASU’s Supplemental Privacy Provisions for Persons in the European Union. These EU Supplemental Privacy Provisions provide additional information regarding ASU’s processing of personal data you submit or disclose to ASU (or to a third party that transfers it to ASU for processing) while you are in the European Union.
 
 We encourage you to periodically review this Privacy Statement because we may update it from time to time. 
 
@@ -34,7 +36,7 @@ ASU does not disclose confidential information we collect online to individuals 
 
 **Student Records.** Certain records of students are protected by the federal [Family Educational Rights and Privacy Act (FERPA)](https://students.asu.edu/policies/ferpa), Arizona law, and ASU Policy. Information about students’ access to their education records and protection of education records is available in ASU’s [Student Services Manual in Section 107-01](https://www.asu.edu/aad/manuals/ssm/ssm107-01.html). This policy also provides information on students’ rights to limit access to their directory information. ASU may disclose confidential student information with the consent of the student, under subpoena or court order, or in other limited circumstances as permitted by FERPA. 
 
-**Employee Records.** Access to ASU personnel records is governed by ABOR Policy [6-912](http://www.abor.asu.edu/1_the_regents/policymanual/chap6/6-912.pdf), [ACD 811](https://www.asu.edu/aad/manuals/acd/acd811.html), [SPP 1101](https://www.asu.edu/aad/manuals/policyarchives/SPP/Mar2008/spp1101.html), and Arizona law. 
+**Employee Records.** Access to ASU personnel records is governed by [ABOR Policy 6-912](http://www.azregents.edu/privacy-policy), [ACD 811](https://www.asu.edu/aad/manuals/acd/acd811.html), [SPP 1101](https://www.asu.edu/aad/manuals/policyarchives/SPP/Mar2008/spp1101.html), and Arizona law. 
 
 **Public Records Laws.** ASU may be required to provide access to ASU records to third parties pursuant to Arizona’s public records laws [ARS §§ 39-121 through 39-161](http://www.azleg.gov/arsDetail/?title=39). Additional information about Arizona’s public records laws is available at [ogc.asu.edu/public-records/](https://ogc.asu.edu/public-records/). 
 
@@ -48,48 +50,133 @@ ASU does not allow any non-ASU entities to collect information from ASU’s tech
 
 ASU takes steps to ensure that confidential information collected online is secure. These steps include: ongoing User education; using tools in an effort to restrict unauthorized access, viruses, phishing, and hacking attempts; and monitoring activity to identify potential system threats. ASU routinely assesses and enhances tools and processes available to strengthen our online security.
 
-The ASU Alumni Association is committed to protecting your privacy by employing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the ASU Alumni Association website and governs data and usage. By using the ASU Alumni Association website, you consent to the data practices described in this statement.
+Effective: 8.9.2001  
+Revised: 5.25.2018
 
-### Collection of your Personal Information
+### Supplemental ASU Privacy Provisions for Persons in the European Union
 
-ASU Alumni Association collects personally identifiable information, such as your email address, name, home address, work address or telephone number. The Alumni Association also collects anonymous demographic information, which is not unique to you, such as your zip code, age, gender, preferences, activity participation and interests.
+#### A. Applicability and Definitions
 
-There is also information about your computer hardware and software that is automatically collected by the ASU Alumni Association. This information can include: your IP address browser type, domain names, access times and referring websites addresses. This information is used by the ASU Alumni Association for the operation of service, to maintain quality of service, and to provide general statistics regarding use of the ASU Alumni Association website.
+These Supplemental Privacy Provisions for Persons in the European Union ( **EU Privacy Provisions** ) are provided pursuant to Regulation (EU) 2016/679 (“Regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data”) (the **GDPR** ), effective May 25, 2018.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through ASU Alumni Association public message boards, this information may be collected and used by others.
+These EU Privacy Provisions supplement ASU’s Privacy Statement, and should be read together with ASU’s Privacy Statement. These EU Privacy Provisions are intended to be consistent with the GDPR principles of privacy, fairness, lawfulness, transparency, purpose limitation, accuracy, storage limitation, integrity, and accountability. For more information regarding the GDPR and these principles, the [full text of the GDPR is available here](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en#legislation). Terms in these EU Privacy Provisions are used consistent with their definitions in the GDPR.
 
-The ASU Alumni Association encourages you to review the privacy statements of websites you choose to link to, so that you can understand how those websites collect, use or share your information. The ASU Alumni Association is not responsible for the privacy statements or other content on websites outside of the ASU Alumni Association and the ASU Alumni Association family of websites.
+These EU Privacy Provisions apply to you only if and to the extent ASU is Processing your EU Personal Data, where the Processing is related to ASU offering goods or services to you, or ASU is monitoring your behavior in the EU (e.g., through online course proctoring, or location tracking).
 
-### Use of Your Personal Information
+**Personal Data** means any information, recorded in any form, relating to you that can identify you, directly or indirectly, such as your name, date of birth, addresses (including email addresses), identification numbers, location data, online identifiers, or factors specific to your physical, physiological, genetic, mental, economic, cultural, or social identity.
 
-The ASU Alumni Association collects and uses your personal information to operate the ASU Alumni Association website and to deliver the services that you have requested. The Association also uses your personally identifiable information to inform you of other products or services available from the Association or its affiliates. The association may also contact you via surveys to conduct research about your opinion of services or of potential new services that may be offered.
+**EU Personal Data** means Personal Data you submit or disclose to ASU (or to a third party that transfers it to ASU for Processing) while you are in the European Union ( **EU** ).
 
-The ASU Alumni Association provides non-confidential alumni mailing information to its affinity partners so that they may contact you about a particular offering that may be of interest to you. These partners are prohibited from using your personal information for anything other than the agreed upon message and may use the information for a limited time only. They are required to maintain the confidentiality of your information. Should you wish to opt out of such disclosures, please click here OPT OUT FORM LINK. Confidential information protected by FERPA or by other laws or ASU Alumni Association policies will not be disclosed to third parties.
+**Processing** (and **Process** ) includes collecting, recording, organizing, storing, transferring, sharing, disclosing, erasing, or destroying your EU Personal Data, whether or not via ASU’s technology network.
 
-The association does not provide alumni email addresses to third parties, however, the association may contact you via email on behalf of a partner with a special offering. In addition, the ASU Alumni Association shares statistical data with trusted partners to help us to perform statistical analysis, send you email or postal mail, provide customers support or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to the ASU Alumni Association and they are required to maintain the confidentiality of your information.
+ASU may Process your EU Personal Data in accordance with these EU Privacy Provisions, [ASU’s Terms of Use](https://web.archive.org/tou/), ASU’s Privacy Statement, and as permitted or required by law. If you do not agree with these EU Privacy Provisions, please do not provide any EU Personal Data to ASU. If you choose not to provide any EU Personal Data that is necessary for ASU to provide you with specific products or services, ASU may not be able to provide those products or services to you.
 
-The ASU Alumni Association does not disclose sensitive personal information such as race, religion, or political affiliations, without your explicit consent.
+#### B. EU Personal Data ASU Collects and How We Use It
 
-The ASU Alumni Association keeps track of the websites and pages our customers visit within the ASU Alumni Association’s website, in order to determine what services are most popular. This data is used to deliver customized content and advertising within the ASU Alumni Association websites to customers whose behavior indicates that they are interested in a particular subject area.
+**Collection of Your EU Personal Data.** ASU collects EU Personal Data from you:
 
-Our websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served upon the ASU Alumni Association or the site (b) protect and defend the rights and property of the ASU Alumni Association; and (c) act under exigent circumstances to protect the personal safety of users of the ASU Alumni Association’s website, or the public.
+  * When you apply for admission to ASU from the EU
+  * When you enroll or participate, from the EU, in classes or programs given by ASU, online or in person
+  * When you register from the EU for an online account from ASU, or update or change, from the EU, information for your account
+  * When you participate from the EU in ASU classes or programs using ASU’s websites and technology network, such as when you turn in assignments and projects online, use online courseware or proctoring services, participate in online discussions and forums, and communicate with ASU faculty and staff
+  * When you send ASU emails and other communications from the EU
+  * When you inquire about or apply for employment with ASU from the EU
+  * When you, from the EU, complete a survey for, submit information to, or request information from, ASU
+  * When you are working for ASU in the EU
 
-### Use of Cookies
 
-The ASU Alumni Association website uses “cookies” to help personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-One of the primary purposes of the cookie is to provide a convenience feature to save you time. The purpose of the cookie is to tell the web server that you have returned to a specific page. For example, if you personalize the ASU Alumni Association pages, or register with the ASU Alumni Association site or services, a cookie helps the ASU Alumni Association to recall your specific information on subsequent visits. This simplifies the process for recording your personal information, such as billing addresses, shipping addresses and so on. When you return to the same ASU Alumni Association site, the information you previously provided can be retrieved, so you can easily use the ASU Alumni Association features that you customized.
+**Use of Your EU Personal Data.** ASU may use your EU Personal Data to respond to your questions, provide you specific courses, services, products, programs and/or services you select, satisfy our contractual obligations to you, send you updates and information regarding ASU, send you email messages about maintenance or updates of ASU’s technology network, and to support of ASU’s alumni relations and fundraising. We may also: archive your EU Personal Data; use it for research and analytics purposes; use it for future communications with you; use it to establish, exercise, and defend legal claims; use it for reasons of substantial public interest, including archiving purposes; use it for historical, scientific, research, or statistical purposes, subject to appropriate safeguards; and use it for the legitimate interests of ASU or any third party to whom ASU discloses your EU Personal Data, if your fundamental rights and freedoms do not override those interests.
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can suually modify your browser setting to decline cookies, if you prefer. If you choose to decline cookies, you may not be able to fully epxeriecne the interactive features of the ASU Alumni Association services or websites that you visit.
+**Lawfulness of Processing.** ASU’s Processing of your EU Personal Data for the interdependent purposes set out in these EU Privacy Provisions is necessary for one or more of the following:
 
-### Security of Your Personal Information
+  * Pursuing ASU’s legitimate interests 
+  * Carrying out a task in the public interest 
+  * Exercising ASU’s official authority as a constitutionally created institution governed by the Arizona Board of Regents, a body corporate of the sovereign State of Arizona, in the United States of America
+  * Performing a contract with you, or to take steps at your request prior to contracting with you
+  * Protecting your vital interests or the interests of another person
+  * Complying with ASU’s legal obligations
 
-The ASU Alumni Association secures your personal information from unauthorized access, use or disclosure. The Association secures the personally identifiable information that you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. When personal information (such as credit card number) is transmitted to other websites, it is protected through the use of encryption, such as Secure Socket Layer (SSL) protocol.
 
-### Changes to this Statement
 
-The ASU Alumni Association will occasionally update this Statement of Privacy to reflect company and customer feedback. The ASU Alumni Association encourages you to periodically review this statement to be informed of how the association is protecting your information.
+#### C. Specific Guidance
 
-### Contact information
+In addition to the information provided above, this Section provides additional information regarding how ASU Processes your EU Personal Data in specific situations.
 
-The ASU Alumni Association welcomes your comments regarding this Statement of Privacy. If you believe that the ASU Alumni Association has not adhered to this statement, please contact the ASU Alumni Association at [alumni@asu.edu](mailto:alumni@asu.edu). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+**Applications for Student Admissions from the EU.** This part applies if, while you are in the EU, you apply for admission as a student to ASU (including as an exchange or visiting student), whether you intend to attend ASU online, remotely, or on campus, and whether you submit your application through ASU’s online student application portals ([Undergraduate](https://students.asu.edu/apply), [Graduate](https://students.asu.edu/graduate/apply-graduate-admission)), through a third party such as the [Common Application](https://students.asu.edu/apply), or directly via communications with an ASU department, program, or school. ASU may use the details you provide on your application, together with any supporting documents you submit, additional details and documents provided by any references or third parties, including education records and financial aid applications and records, and any records made by ASU during the application process.
+
+In addition to the uses described in Part B above, we will process the EU Personal Data obtained during your application process for the purposes of identifying you, processing your application, verifying the information provided, deciding whether to offer you admission, and communicating that outcome. We may also use or disclose this information for the following statutory or public interest purposes: to prevent or detect fraud; for disciplinary or academic integrity proceedings; to meet reporting obligations, such as to state or federal Departments of Education; to help us to make reasonable decisions regarding accommodations for a disability, as requested by you; and for research and statistical purposes, but none of your EU Personal Data that can identify you will be published.
+
+We consider the Processing of your EU Personal Data in connection with your student application process to be necessary for us to take steps with a view to creating a contractual relationship with you (e.g., to assess your application to study with us), necessary for compliance with a legal obligation, or necessary for the performance of tasks we carry out in the public interest (e.g., admissions research). We require you to provide ASU the information we request during the application process to assess your application properly.
+
+As well as circulating your application and related materials to the appropriate people at ASU, we may share your EU Personal Data, as relevant and necessary, with your references, with entities that provide services to, or on behalf of, ASU, and with governmental organizations. If you are accepted, ASU will include in your ASU student files the EU Personal Data collected during your application process.
+
+**Enrollment and Participation in Programs and Courses while in the EU - Overview.** ASU offers the opportunity to participate in ASU courses and programs while you are in the EU, including while traveling, and online through ASU’s technology network. If you desire to participate in an ASU course or program in the EU, you will be asked to provide certain Personal Data necessary for admission, registration, enrollment, and participation in the course or program. This information may include, among other things, your name, email address, date of birth, and registration information. Enrollment and participation in ASU courses and programs and receipt of related services while you are in the EU is a contractual obligation between ASU and you, and ASU will need your EU Personal Data to deliver these services to you.
+
+In addition to the uses described in Part B above, we use the EU Personal Data we collect from you when you enroll and participate in ASU courses or programs while in the EU for Processing purposes, including tracking attendance, progress, and completion of a course or program. We may also share your EU Personal Data and your performance in a course or program with the instructors, teaching assistants, and other individuals designated by ASU to assist with the creation, modification, or operation of the courses or programs, and for research and statistical purposes, but none of your EU Personal Data that can identify you will be published.
+
+_Online._ If you participate in courses or programs while in the EU on or through ASU’s technology network, we will collect from you certain student-generated content, such as assignments you submit to instructors, peer-graded assignments and peer grading student feedback. We also collect course data, such as student responses to in-video quizzes, stand-alone quizzes, exams, and surveys, online proctoring data and information, and other course, program, and degree related information.
+
+_Study or Travel Abroad._ ASU travel and study abroad programs include academic and other ASU programs (such as travel with an ASU team). If you are an ASU student participating in an ASU travel or study abroad program, ASU requires that you sign a GDPR Contract and Consent before your leave the United States. ASU’s Contract and Consent allows ASU to use your Personal Data collected while you are in the EU. ASU also needs to be able to Process your Personal Data regarding your coursework as necessary to maintain your educational and degree records consistent with ASU policies, legitimate pedagogical purposes, and any applicable laws, rules, regulations, and policies.
+
+**Disclosure of Student Personal Data.** The United States Family Educational Rights and Privacy Act (FERPA), Arizona law, and ASU policy provide ASU students with the right to limit access to their Personal Data. Due to the GDPR's requirements, if you are participating in ASU courses or programs on or through ASU's technology network while you are in the EU, ASU will endeavor to restrict third parties from access to your EU Personal Data that is directory information, as described and defined in ASU's [Student Services Manual in Section 107-01](https://www.asu.edu/aad/manuals/ssm/ssm107-01.html). ASU may disclose EU Personal Data that is confidential student information with your consent, under subpoena or court order, or to comply with other legal obligations to which ASU is subject.
+
+**ASU Employment in the EU.** If you are an ASU employee who is working for ASU while in the EU, ASU will maintain, retain, protect, and Process your personnel records as described in [ACD 811](https://www.asu.edu/aad/manuals/acd/acd811.html) and [SPP 1101](https://www.asu.edu/aad/manuals/spp/spp1101.html), as applicable. If you request in writing to [ASU’s Human Resources Department](https://cfo.asu.edu/hr), ASU will endeavor to withhold from publication in the ASU Directory your EU Personal Data that is ”Directory Information." Directory Information is defined in SPP 1101 and ACD 811 as your name, title, academic unit or department, campus location, and campus telephone number. ASU may disclose your EU Personal Data as described in SPP 1101 and ACD 811, which includes disclosure with your consent, under subpoena or court order, or to comply with other legal obligations to which ASU is subject.
+
+Employment with ASU while you are in the EU is a contractual obligation between ASU and you, and ASU’s duties as an employer are subject to Arizona laws, and ASU and Arizona Board of Regents Policies. ASU will need your Personal Data to comply with applicable laws, rules, regulations, and policies, as well as to fulfill ASU’s contractual obligations to you.
+
+In addition to the uses described in Part B above, ASU may use an ASU employee's EU Personal Data to carry out specific rights and obligations in the context of employment law or laws relating to social security and employee benefits, to protect your vital interests or the vital interests of another person if you are incapable of giving consent, to carry out public functions, and for research and statistical purposes.
+
+**Applications for ASU Employment from the EU.** If, while you are in the EU, you apply for a position with ASU through ASU’s [online employment portal](https://www.asu.edu/asujobs), or directly via communications with an ASU department or school, ASU may use the details you provide on your application form, together with any supporting documents you submit, additional details and documents provided by any references, and any records made by ASU during the employment process. If you are required to undergo additional background checks or procedures as part of the employment process (e.g., criminal convictions checks or visa application procedures), we will collect and use this information as well. Specifics regarding what background checks and other documentation and information ASU may require can be found at the [Human Resource Website](https://cfo.asu.edu/background-fingerprints) [or by contacting [HRESC@asu.edu](mailto:HRESC@asu.edu)].
+
+In addition to the uses described in Part B above, ASU will process your EU Personal Data obtained during your employment process for the purposes of identifying you, processing your application, verifying the information provided, assessing your suitability for the position, deciding whether to offer you a job, and communicating that outcome. We may also use or disclose this information for the following statutory or public interest purposes: to prevent or detect fraud; to help us to make decisions regarding accommodations for a disability that are requested by you; and for research and statistical purposes, but no EU Personal Data that can identify you will be published in connection with research or for statistical purposes.
+
+We consider the Processing of your EU Personal Data in connection with the employment process to be necessary for us to take steps with a view to creating a contractual relationship with you (e.g., to assess your application for employment), necessary for compliance with legal obligations (e.g., equal opportunity monitoring, or disability accommodations), or necessary for the performance of tasks we carry out in the public interest. We require you to provide us with the information we ask for during the employment process to assess your application properly.
+
+As well as circulating your application and related materials to the appropriate people at ASU, we may share your EU Personal Data, as relevant and necessary, with your references, and with entities that provide services to, or on behalf of, ASU, such as background checks. If you are hired, ASU will include in your personnel employment files EU Personal Data collected as part of your employment process.
+
+**ASU Alumni in the European Union.** Developing a better understanding of our alumni allows ASU to keep in touch, to keep alumni apprised of ASU’s activities and developments, to provide services to alumni, and to identify ways alumni can support ASU, through donations or other forms of financial and non-financial support. For information regarding how ASU uses alumni EU Personal Data, please refer to the Guidance at [alumni.asu.edu](https://alumni.asu.edu/).
+
+**Identity Verification.** ASU may require or offer you the ability to verify your identity before we provide certain services (such as resetting passwords, or releasing certain information), or for selected classes and programs. To verify your identity, ASU may require you to provide EU Personal Data, such as your name, address, date of birth, a headshot taken using a webcam, a photo identification document, and a sample of your typing patterns. We use the Personal Data we collect for verifying your identity, and for authenticating that submissions made on ASU's technology network were made by you.
+
+**Enrollment Sponsors.** ASU may share your EU Personal Data with your employer, government programs, institutions, or other enterprises that sponsor your enrollment in a course or program for training or other educational purposes. If an entity pays for or otherwise sponsors your course or program participation, ASU will share information with the entity as needed to confirm your enrollment, participation, progress, and completion status in that course.
+
+**Research.** As a Tier 1 Research University, the conduct of research is a fundamental part of ASU’s mission. Research at ASU is supported by ASU’s Office of Knowledge Enterprise Development [researchadmin.asu.edu](https://researchadmin.asu.edu/), consistent with applicable research grants and agreements, to ensure compliance with applicable laws, rules, regulations, and policies. Terms and conditions of ASU research projects are negotiated before acceptance to ensure the ability to comply, including with the GDPR.
+
+ASU may use your EU Personal Data for research, analytics, and statistical purposes, but no EU Personal Data that can identify you will be published in connection with research or for statistical purposes.
+
+**ASU Service Providers.** ASU may contract with non-ASU service providers, vendors, and contractors ( **Contractors** ) to assist ASU in providing services. These Contractors may have access to and may collect or otherwise Process your EU Personal Data as necessary to perform the services for ASU. These Contractors, for example, may provide ASU with network, website, platform, server, technology, services, course and program content and delivery, and administrative and student-related services, such as those related to providing ASU study abroad or other courses or programs offered to individuals in the EU. Access to your EU Personal Data by these Contractors is limited to the information reasonably necessary to perform their contracted functions. ASU requires Contractors to protect Personal Data on our behalf. We do not permit third parties to sell Personal Data we have shared with them.
+
+**Transfer to Third Parties.** ASU will transfer your EU Personal Data to third parties only where ASU is comfortable that they will protect your EU Personal Data. Where we know that a third party we have provided EU Personal Data to is Processing that EU Personal Data in a manner contrary to the GDPR, we will take reasonable steps to prevent or terminate Processing by that third party unless and until the third party can Process EU Personal Data in compliance with the GDPR.
+
+**Government Authorities, Legal Rights and Actions.** ASU may share your EU Personal Data with various government authorities in response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. ASU also may share your EU Personal Data when we believe it is appropriate to investigate, prevent, or take action regarding unlawful or suspected illegal activities; to protect and defend the rights, property, or safety of ASU, ASU's technology network, ASU's students, employees, and others.
+
+**ASU Server Locations.** ASU's websites, technology network, and online course platforms that contain your EU Personal Data are primarily operated and managed on servers located within the United States.
+
+**EU Personal Data Retention and Storage.** ASU may permanently store and maintain, among other things, your name, subject(s), enrollment, registration and graduation details, unique ASU identification number, date of birth, verification, residency, affidavits, financial aid, grades, classes, courses, transcripts, disciplinary, and degree and employment related records containing your EU Personal Data: (i) to comply with ASU's obligations to you, including taking steps to enter into an employment, enrollment, or other contract with you; (ii) to comply with ASU's legal obligations; (iii) for reasons that are in the public interest; (iv) to comply with ASU's records retention policies <https://apps.azlibrary.gov/records/general.aspx>; or (v) in ASU's exercise of its authority as an Arizona University governed by the Arizona Board of Regents. If you exercise your right to erasure, we will continue to maintain a core set of your EU Personal Data, to ensure we do not contact you inadvertently in the future, to maintain your academic record for reference and archival purposes, and to meet our legal obligations.
+
+#### D. Your Rights Regarding Your EU Personal Data
+
+You have certain rights regarding your EU Personal Data, subject to certain exclusions as described in the GDPR. Your rights include:
+
+  * The right to be informed of how your EU Personal Data are being used – this information is set forth in these EU Privacy Provisions and any documents linked to these EU Privacy Provisions
+  * The right of access to your EU Personal Data
+  * The right to have your inaccurate EU Personal Data rectified
+  * The right to have your EU Personal Data erased
+  * The right to restrict the Processing of your EU Personal Data pending its verification or correction
+  * The right to object to the Processing of your EU Personal Data
+  * The right to receive copies of your EU Personal Data
+  * The right to file a complaint with an EU supervisory authority
+  * The right to object to using your EU Personal Data for direct marketing, data mining, or research purposes where the research is not in the public interest
+
+
+
+A response to a rights request needs to be sent within one month. However, nearly all of your rights are qualified in various ways and there are numerous specific exemptions (for example, almost all of the rights do not apply if your EU Personal Data are being processed solely in an academic research context).
+
+**Contact Information, Rights Requests.** If you wish to exercise any of your rights regarding your EU Personal Data, please contact ASU’s GDPR data protection team ([privacy@asu.edu](mailto:privacy@asu.edu)). You may also file a complaint concerning your EU Personal Data Processing with the applicable EU Supervisory Authority. The Supervisory Authority Contact Information for all EU countries is at: <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>.
+
+If you have specific requests relating to how ASU Processes your EU Personal Data, we will endeavor to resolve these, but there may be circumstances where ASU cannot comply with specific requests.
+
+We will publish on our website any changes we make to these EU Privacy Provisions.
+
+Effective: 5.25.2018
