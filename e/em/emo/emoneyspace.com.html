@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emoneyspace.com privacy policy that was archived on 2017-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171226230151id_/https%3A//www.emoneyspace.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emoneyspace.com privacy policy that was archived on 2018-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180613104423id_/https%3A//www.emoneyspace.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <meta http-equiv="content-type" content="text/html;charset=UTF-8">
@@ -22,9 +22,39 @@ _atrk_opts = { atrk_acct:"FDSvp1IW1d10vg", domain:"emoneyspace.com",dynamic: tru
 </script>
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=FDSvp1IW1d10vg" style="display:none" height="1" width="1" alt="" /></noscript>
 
+<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+<style>
+	#captchactr>div{margin:auto;}
+
+	#rc_rb{
+	width: 200px;
+	height: 35px;
+	border: 0px;
+	background: url(/static/images/ca_bt_bg.png) 0px 0px no-repeat;
+	text-indent: -9999px;
+	}
+</style>
+<script type="text/javascript">
+	var loginCaptchaID = null;
+	var registerCaptchaID = null;
+
+	function renderRegisterReCaptcha() {
+		return grecaptcha.render('captchactr', {
+            'sitekey' : '6Lck50wUAAAAAMtKNsK_hfkVDyVIhMUbNzhI9oCd',
+            'size': 'compact'
+          });
+	}
+
+	window.onload = function() {
+		loginCaptchaID = grecaptcha.render('rc_lb', {
+            'sitekey' : '6Lc6Qk0UAAAAACYUCEen9Jk-i_YxLYVmbR5XdmIX',
+            'callback' : loginReCaptcha
+          });
+	};
+</script>
 </head>
 <body>
-<script type="text/javascript" src="static/js/member_tools.js?15"></script>
+<script type="text/javascript" src="static/js/member_tools.js?18"></script>
 <div id="create_account" class="hide">
 <div id="er_msg_1" class="er_msg_1 hide"><div><span class="text"></span><a href="./" onclick="$(this).parents('.er_msg_1').fadeOut();return false;">Close</a></div></div>
 <div class="ca_box">
@@ -34,11 +64,9 @@ _atrk_opts = { atrk_acct:"FDSvp1IW1d10vg", domain:"emoneyspace.com",dynamic: tru
 <div class="cut"></div>
 <input type="text" class="m_e fita gblue" value="Email" onfocus="if($(this).val() == 'Email' ) {$(this).removeClass('gblue fita');$(this).val('');}" onblur="if($(this).val() == '' ) {$(this).addClass('gblue fita');$(this).val('Email');}">
 <div class="cut"></div>
-<div class="captcha"><img class="m_c_i" src="captcha.php?1514329312"></div>
+<div id="captchactr" style="height:144px;"></div>
 <div class="cut"></div>
-<input type="text" class="m_c fita gblue" value="Captcha" onfocus="if($(this).val() == 'Captcha' ) {$(this).removeClass('gblue fita');$(this).val('');}" onblur="if($(this).val() == '' ) {$(this).addClass('gblue fita');$(this).val('Captcha');}">
-<div class="cut"></div>
-<input type="submit" value="" onclick="create_account(this);">
+<input id="rc_rb" type="submit" value="" onclick="create_account_recaptcha(this)">
 </div>
 </div>
 <div id="forgot_password" class="hide">
@@ -47,7 +75,7 @@ _atrk_opts = { atrk_acct:"FDSvp1IW1d10vg", domain:"emoneyspace.com",dynamic: tru
 <input type="text" class="m_e fita gblue" value="Enter Your Email" onfocus="if($(this).val() == 'Enter Your Email' ) {$(this).removeClass('gblue fita');$(this).val('');}" onblur="if($(this).val() == '' ) {$(this).addClass('gblue fita');$(this).val('Enter Your Email');}">
 <div class="cut"></div>
 <input type="submit" class="lp" value="" onclick="reset_password(this);">
- </div>
+</div>
 </div>
 <div id="header">
 <div class="logo flleft"><a href="./">eMoneySpace</a></div>
@@ -58,9 +86,9 @@ _atrk_opts = { atrk_acct:"FDSvp1IW1d10vg", domain:"emoneyspace.com",dynamic: tru
 <div class="cut"></div>
 <input type="password" class="input grey" id="l_p" value="Password" onfocus="if($(this).val() == 'Password' ) {$(this).removeClass('grey');$(this).val('');}" onblur="if($(this).val() == '' ) {$(this).addClass('grey');$(this).val('Password');}">
 </div>
-<div class="flright"><button onclick="login();"></button></div>
+<div class="flright"><button id="rc_lb"></button></div>
 <div class="clear"></div>
-<div class="flleft link"><a href="./" id="lp_bt">Forgot?</a></div><div class="flright link"><a href="./" id="ca_bt">Create Account</a></div> <div class="clear"></div>
+<div class="flleft link"><a href="./" id="lp_bt">Forgot?</a></div><div class="flright link"><a href="javascript:void(0)" id="ca_bt">Create Account</a></div> <div class="clear"></div>
 </div>
 <div class="menu">
 <div class="lc"></div><div class="rc"></div>
@@ -111,7 +139,7 @@ This document was last updated on <b>July 30, 2014</b>
 <li class="f"><a href="./">Home</a></li>
 <li><a href="terms.php">Terms Of Service</a></li>
 <li><a href="privacy_policy.php">Privacy Policy</a></li>
-<li>© 2017</li>
+<li>© 2018</li>
 </ul>
 <div class="clear"></div>
 <div class="banner_ad flleft">
@@ -122,9 +150,9 @@ This document was last updated on <b>July 30, 2014</b>
 </div>
 <div class="live">
 <h2>Latest Forum Topic</h2>
-<div class="topics"><a href="/forum/index.php/topic,444484.msg4056415.html#new">Powerful advertising, get your offers seen!</a></div><br>
+<div class="topics"><a href="/forum/index.php/topic,453902.msg4103469.html#new">Re: Errors with Aurora script SDR2E with New Ho...</a></div><br>
 <h2>Online Forum Members</h2>
-<div class="members"><a href="forum/index.php?action=profile;u=448130">Yasmin786</a>, <a href="forum/index.php?action=profile;u=475892">DoctorMoney</a>, <a href="forum/index.php?action=profile;u=53285" style="color: #339933;">davidbugs</a>, <a href="forum/index.php?action=profile;u=9744">darwin</a>, <a href="forum/index.php?action=profile;u=479889">Realfungi</a>, <a href="forum/index.php?action=profile;u=479651">upd1975</a>, <a href="forum/index.php?action=profile;u=258475">galylio</a>, <a href="forum/index.php?action=profile;u=476525">natika</a></div></div>
+<div class="members"><a href="forum/index.php?action=profile;u=458292" style="color: #993300;">Eindhart</a>, <a href="forum/index.php?action=profile;u=10955" style="color: #FF0000;">Mak</a>, <a href="forum/index.php?action=profile;u=467822">zeus2222</a>, <a href="forum/index.php?action=profile;u=451255" style="color: #3F679E;">Freelance42 Developers</a>, <a href="forum/index.php?action=profile;u=465082">khalil23</a>, <a href="forum/index.php?action=profile;u=6774" style="color: #339933;">Vegas58</a>, <a href="forum/index.php?action=profile;u=430330">Brasel</a>, <a href="forum/index.php?action=profile;u=61636">moliaa</a>, <a href="forum/index.php?action=profile;u=265675">winspiral</a>, <a href="forum/index.php?action=profile;u=394683">AveryWeb</a>, <a href="forum/index.php?action=profile;u=382776" style="color: #5C7A2F;">JyothiPrasad</a>, <a href="forum/index.php?action=profile;u=473367">justforptc</a>, <a href="forum/index.php?action=profile;u=467620">iCallina</a>, <a href="forum/index.php?action=profile;u=395567">heath1968</a></div></div>
 <div class="clear"></div>
 </div>
 
