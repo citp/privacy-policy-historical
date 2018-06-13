@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyrecipes.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912130127id_/http%3A//www.simplyrecipes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyrecipes.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613214135id_/https%3A//www.simplyrecipes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SimplyRecipes.com
 
@@ -24,7 +24,7 @@ In operating the Site, Simply Recipes may include registration, comment forms, o
 
 **Device  Addresses.** Each user’s computer IP address, device MAC address, or similar address (“device address”) is logged with each visit and each action performed on the Simply Recipes Site. This information is never provided to third parties, except as otherwise stated in this Privacy Policy, and is logged only for a temporary period of time. Device address information is linked to personal information and may be used in an effort to block a “banned” user from accessing the Site.
 
-**Do Not Track.** California law requires that operators of websites and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personal information about an individual’s online activities from their website or service. Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, we do not currently respond to Do Not Track signals. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals.
+**Web Beacons.**  Small graphic images or other web programming code called web beacons (also known as “1×1 GIFs” or “clear GIFs”) may be included in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Websites, to monitor how users navigate the Websites, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed.
 
 **Advertising; Third Party Cookies.** We use third-party advertising companies to serve ads when you visit our Site. These third parties include business partners and advertising networks, which collect information about your interests when you view or interact with one of their advertisements or with a social sharing button displayed on our Site. These third parties use cookies and other technologies to collect information about your use of the Site. The information gathered by these third parties is used to make predictions about your interest or preferences so that they can display advertisements or promotional material on this Site and on other sites across the Internet tailored to your apparent interests. These companies may have access to information about your device (such as IP or MAC address) and may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
@@ -33,6 +33,12 @@ We do not have access to, or control over, the technologies that these third par
 For more information about this practice and to understand whether and how you may prevent the use of interest based advertising and your opt-out choices, please click here: <http://www.networkadvertising.org/choices/>.
 
 Google, as a third-party vendor, uses cookies to serve ads on this Site. Google’s use of the DART cookie enables it to serve ads based on your visit to this Site and other websites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+#### California Privacy Rights
+
+**Do Not Track.**  California law requires that operators of websites and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personal information about an individual’s online activities from their website or service. Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, we do not currently respond to Do Not Track signals. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals.
+
+**3rd Party Information.**  Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information using the email address provided in the Section entitled “Contact Us”.
 
 #### How Your Information Will Be Used:
 
@@ -68,12 +74,18 @@ If you are visiting our Site from outside the United States, please be aware tha
 
 The Simply Recipes Site may contain social buttons, links, graphics, or banners that link to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
 
+#### Additional Information for European Visitors:
+
+If you use or interact with our Site then the data controller will be Simply Recipes, Inc. The contact details for this entity are provided in the “Contacting Us” section above.  
+We process your information to meet our legitimate interests when we use your information to provide you with our content, products and/or services, to communicate with you, for our advertising and marketing purposes and in the context of a corporate transaction. To accomplish our legitimate interests, we may share your information with our corporate affiliates, service providers and business partners (including for our advertising and marketing purposes) and in the context of a corporate transaction.  
+In certain circumstances, you may have a right to access or object to the use of personal information held about you. You may also ask us to rectify, update, erase, restrict or to share your information in a usable format with another company, in each case subject to applicable law. We encourage you to contact us to update or correct your information.
+
 #### Contacting Us:
 
-This site is operated by Simply Recipes, Inc. If you have any questions about this policy, our practices related to this site, please feel contact us at the following email address: elise AT simplyrecipes DOT com.
+This site is operated by Simply Recipes, Inc. If you have any questions about this policy, our practices related to this site, please feel contact us at the following email address: privacy AT simplyrecipes DOT com.
 
 #### Updates and Changes:
 
 We reserve the right, at any time, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you or as required by applicable laws. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Privacy Policy from time to time to ensure that you continue to agree with all of its terms.
 
-_This policy was last updated on March 29, 2016._
+_This policy was last updated on March 27, 2018._
