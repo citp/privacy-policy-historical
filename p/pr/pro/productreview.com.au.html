@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the productreview.com.au privacy policy that was archived on 2017-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171220233928id_/https%3A//www.productreview.com.au/i/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the productreview.com.au privacy policy that was archived on 2018-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180613064733id_/https%3A//www.productreview.com.au/i/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" class="no-js"><!--<![endif]--><head>
         <meta charset="UTF-8">
@@ -7,7 +7,7 @@
         <meta name="description" content="ProductReview.com.au is a website devoted to providing consumer opinions on products, services and businesses in Australia.">
         <meta name="keywords" content="review, reviews, products, services, consumer opinion">
         <meta name="robots" content="index, follow">
-
+        
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=003361650787787341744:smnuvutjqce"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
@@ -23,7 +23,34 @@
         <script>
             pbjs.que.push(function () {
                 pbjs.setConfig({
-                    priceGranularity: "dense"
+                    priceGranularity: {
+                        buckets: [
+                            {
+                                precision: 2,
+                                min: 0,
+                                max: 3,
+                                increment: 0.01
+                            },
+                            {
+                                precision: 2,
+                                min: 3.05,
+                                max: 8,
+                                increment: 0.05
+                            },
+                            {
+                                precision: 2,
+                                min: 8.50,
+                                max: 20,
+                                increment: 0.50
+                            },
+                            {
+                                precision: 2,
+                                min: 21,
+                                max: 45,
+                                increment: 1
+                            }
+                        ]
+                    }
                 });
 
                 pbjs.enableAnalytics({
@@ -36,10 +63,10 @@
         </script>
 
                                                     <!--[if lt IE 9]><link href="/assets/css/generated/frontend.css" type="text/css" rel="stylesheet" media="screen"><![endif]-->
-                <!--[if IE 9]><link href="/assets/css/generated/frontend.css?171219" type="text/css" rel="stylesheet" media="screen"><![endif]-->
-                <!--[if !IE]><!--><link href="/assets/css/generated/frontend.css?171219" type="text/css" rel="stylesheet" media="screen"><!--<![endif]-->
+                <!--[if IE 9]><link href="/assets/css/generated/frontend.css?180608" type="text/css" rel="stylesheet" media="screen"><![endif]-->
+                <!--[if !IE]><!--><link href="/assets/css/generated/frontend.css?180608" type="text/css" rel="stylesheet" media="screen"><!--<![endif]-->
                     
-        <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico?171219">
+        <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico?180608">
 
                 <!--[if lt IE 9]>
             <script src="/assets/js/bootstrap/html5shiv.js"></script>
@@ -51,6 +78,7 @@
                 
         
         <script>
+            var bidExchangeRate = 1.34;
             var googletag = googletag || {};
             googletag.cmd = googletag.cmd || [];
             googletag.cmd.push(function() {
@@ -61,22 +89,22 @@
                 pbjs.bidderSettings = {
                     districtmDMX: {
                         bidCpmAdjustment : function(bidCpm, bid){
-                            return bidCpm * 1.3;
+                            return bidCpm * bidExchangeRate;
                         }
                     },
                     sovrn: {
                         bidCpmAdjustment : function(bidCpm, bid){
-                            return bidCpm * 1.3;
+                            return bidCpm * bidExchangeRate;
                         }
                     },
                     appnexusAst: {
                         bidCpmAdjustment : function(bidCpm, bid){
-                            return bidCpm * 1.3;
+                            return bidCpm * bidExchangeRate;
                         }
                     },
                     pubmatic: {
                         bidCpmAdjustment : function(bidCpm, bid){
-                            return bidCpm * 1.3;
+                            return bidCpm * bidExchangeRate;
                         }
                     }
                 };
@@ -129,12 +157,6 @@
                 googletag.pubads().collapseEmptyDivs(true);
                 googletag.enableServices();
 
-                googletag.pubads().addEventListener('slotRenderEnded', function (event) {
-                    if (event.isEmpty == false && pr_view_port_width >= 1199) {
-                        $('#' + event.slot.getSlotElementId()).prepend('<span class="text-muted" style="display:block;">Advertisement</span>');
-                    }
-                });
-
                 googletag.pubads().addEventListener('slotVisibilityChanged', function (event) {
                     var slotInfo = event.slot.getResponseInformation();
                                         if (slotInfo.campaignId == 123044549 || slotInfo.campaignId == 2107088617 || slotInfo.campaignId == 458333069 || slotInfo.campaignId == 2178172685) {
@@ -183,7 +205,6 @@
             }, 30000);
         </script>
 
-
         <!-- Facebook Pixel Code -->
         <script>
             !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -193,7 +214,14 @@
                     document,'script','https://connect.facebook.net/en_US/fbevents.js');
             fbq('init', '174197049686832');
             fbq('track', 'PageView');
-                    </script>
+            
+            fbq('track', 'V1PageData', {
+                route: 'pr_front_static_privacy',
+                category: '',
+                brand: '',
+                listing: ''
+            });
+        </script>
         <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=174197049686832&ev=PageView&noscript=1"/></noscript>
         <!-- DO NOT MODIFY -->
         <!-- End Facebook Pixel Code -->
@@ -233,8 +261,8 @@
             </button>
 
             <a class="navbar-brand" data-gae="{&quot;act&quot;:&quot;HeaderLogo&quot;,&quot;cat&quot;:&quot;Category&quot;}" href="/">
-                <!--[if lt IE 10]><img src="/assets/images/frontend/logo.png?171219" alt="ProductReview.com.au" class="img-responsive"><![endif]-->
-                <!--[if !IE]><!--><img src="/assets/images/frontend/logo.svg?171219" alt="ProductReview.com.au" class="img-responsive"><!--<![endif]-->
+                <!--[if lt IE 10]><img src="/assets/images/frontend/logo.png?180608" alt="ProductReview.com.au" class="img-responsive"><![endif]-->
+                <!--[if !IE]><!--><img src="/assets/images/frontend/logo.svg?180608" alt="ProductReview.com.au" class="img-responsive"><!--<![endif]-->
             </a>
         </div>
 
@@ -571,10 +599,10 @@
     <div class="container">
     <div class="disclaimer">
         <a href="https://www.productreview.com.au/" class="footer-logo">
-            <!--[if lt IE 10]><img src="/assets/images/frontend/logo-footer.png?171219" alt="ProductReview.com.au" class="img-responsive"><![endif]-->
-            <!--[if !IE]><!--><img src="/assets/images/frontend/logo-footer.svg?171219" alt="ProductReview.com.au" class="img-responsive"><!--<![endif]-->
+            <!--[if lt IE 10]><img src="/assets/images/frontend/logo-footer.png?180608" alt="ProductReview.com.au" class="img-responsive"><![endif]-->
+            <!--[if !IE]><!--><img src="/assets/images/frontend/logo-footer.svg?180608" alt="ProductReview.com.au" class="img-responsive"><!--<![endif]-->
         </a>
-        <p>© 2017 ProductReview.com.au Pty. Ltd. All Rights Reserved.<span> General disclaimer: All third party trademarks, images and copyrights on this page are used for the purpose of comparative advertising, criticism or review. This is a public forum presenting user opinions on selected products and businesses, and as such the views expressed do not reflect the opinion of ProductReview.com.au. Further details in the <a href="/i/disclaimer.html">disclaimer</a>.</span></p>
+        <p>© 2018 ProductReview.com.au Pty. Ltd. All Rights Reserved.<span> General disclaimer: All third party trademarks, images and copyrights on this page are used for the purpose of comparative advertising, criticism or review. This is a public forum presenting user opinions on selected products and businesses, and as such the views expressed do not reflect the opinion of ProductReview.com.au. Further details in the <a href="/i/disclaimer.html">disclaimer</a>.</span></p>
     </div>
 </div>
 </footer>
@@ -653,7 +681,7 @@
     _gaq.push(['_trackPageview']);
 </script>
 
-            <script type="text/javascript" src="/assets/js/generated/optimised.js?171219"></script>
+            <script type="text/javascript" src="/assets/js/generated/optimised.js?180608"></script>
     
 
 <script type="text/javascript">
@@ -665,6 +693,16 @@
 </script>
 
 
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1000343323;
+        var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
 <script>
     (function(SearchSuggestion) {
         var suggestion = new SearchSuggestion();
