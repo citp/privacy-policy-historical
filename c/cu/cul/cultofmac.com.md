@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cultofmac.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226230715id_/https%3A//www.cultofmac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultofmac.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613110436id_/https%3A//www.cultofmac.com/privacy-policy) for the most accurate reproduction.*
 
 # Cult of Mac's privacy policy | Cult of Mac
 
@@ -9,7 +9,7 @@ _Photo: Ste Smith/Cult of Mac_
 
 ### Your privacy is important to us
 
-At _Cult of Mac_ , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by our website and how it is used.
+At [_Cult of Mac_](http://www.cultofmac.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by our website, located at https://www.cultofmac.com,  and how it is used.
 
 **General**  
 In general, _Cult of Mac_ collects some non-identifiable information about visitors to our site that we sometimes share with third parties to perform services on our behalf, and we obtain consent for such sharing where legally required. The third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
@@ -25,7 +25,7 @@ Google, our primary third-party advertising vendor, uses [DoubleClick cookies](h
 
 Some of our other advertising partners, including Digital Trends, may use cookies and web beacons on our site. (We also utilize affiliate links, which you can read about on the [_Cult of Mac_ reviews policy page](http://www.cultofmac.com/cult-of-mac-reviews-policy/), and these affiliate vendors may use cookies as well.)
 
-These third-party ad servers automatically receive your IP address from your web browser when you visit our site. Other technologies (such as cookies, JavaScript and web beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content you see. 
+These third-party ad servers automatically receive your IP address from your web browser when you visit our site. Other technologies (such as cookies, JavaScript and web beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content you see.
 
 These technologies collect information that is not personally identifiable (e.g., the pages you visit, which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our website.
 
@@ -33,7 +33,7 @@ These companies may use the information outlined above (which does not include y
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
 
-_Cult of Mac_ has no access to or control over cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices, as well as for instructions about how to opt-out of certain practices. 
+_Cult of Mac_ has no access to or control over cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices, as well as for instructions about how to opt-out of certain practices.
 
 _Cult of Mac’_ s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
 
