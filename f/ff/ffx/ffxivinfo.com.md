@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ffxivinfo.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211202213id_/http%3A//www.ffxivinfo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffxivinfo.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613152946id_/http%3A//www.ffxivinfo.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FFXIV Info (FF14, Final Fantasy XIV)
-
-If you are looking for **THE FASTEST WAY** to reach the level cap with any class or job within 7 days, this [_**FFXIV Leveling Guide**_](http://roia.biz/ts/n/Y8pDvq1BAANLKGM1ODYAQgAAaydmMQA-A/) by **Killer Guides** is a definite must have! It comes with step-by-step leveling tips, quest walkthroughs, detailed primal battle strategies, extensive dungeon guides, and more.
-
-[Advertisement]
 
 FFXIV Info takes privacy very seriously to ensure the safety of your data. We will only store the data that you provide to us. 
 
