@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uline.ca privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226003601id_/https%3A//www.uline.ca/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uline.ca privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613022811id_/https%3A//www.uline.ca/CustomerService/PolicyPrivacy.htm) for the most accurate reproduction.*
 
 # Uline: Privacy Policy
 
@@ -14,4 +14,4 @@ If users provide their email or mailing address, Uline will send notifications, 
 
 In the future, Uline may update this privacy policy to reflect unanticipated practices not outlined in this policy. These changes will be posted to the website, and users are invited to occasionally review the privacy policy.
 
-12/25/2017 06:36:01 PM; CNWEB3 -23450723-0/0.00-1
+06/12/2018 09:28:11 PM; CNWEB3 -24656057-0/0.00-1
