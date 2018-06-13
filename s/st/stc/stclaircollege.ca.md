@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stclaircollege.ca privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121015401id_/http%3A//www.stclaircollege.ca/policies/docs/scc_policy_2-16.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stclaircollege.ca privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613142900id_/http%3A//www.stclaircollege.ca/policies/docs/scc_policy_2-16.pdf) for the most accurate reproduction.*
 
 # 2.16 Freedom of Information and Protection of Privacy Act
 
@@ -198,10 +198,10 @@ Procedure
 1.1   Submit written request to access information under FIPPA,            Requester
       including those from the Ministry or other government Agency
       to:      Freedom of Information Officer
-               Vice President, Academic
-               2000 Talbot Rd.
-               Windsor, Ontario N9A 6S4
-               Telephone: 519-972-2702
+               Vice President, College Communications and
+               Community Relations
+               2000 Talbot Rd., Windsor, Ontario N9A 6S4
+               Telephone: 519-972-2762
 1.2   With the written request, include sufficient details to identify the Requester
       record being sought and pay the prescribed fee of $5.00
 1.3   Log the request from the date the College has received it            Assistant to FOI Officer
