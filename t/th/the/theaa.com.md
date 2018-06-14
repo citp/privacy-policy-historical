@@ -1,242 +1,303 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426205216id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614105506id_/https%3A//www.theaa.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy policy | AA
+# Privacy notice | AA
 
-  * Introduction
-  * How we use your information
-  * Your consent
-  * Cookies
-  * How we use cookies
-  * Links to other sites
-  * How you can control cookies
-  * Disclosure of information to third parties, and cross-border transfers
-  * Employees and employees' spouses or partners
-  * Data Protection Act marketing consent
-  * Amendment and retention of information
-  * Subject access requests
-  * Your choice of information
-  * Changes to our privacy policy
-  * Tell us what you think
-  * Printable privacy policy
+## 1\. Background
 
+This privacy notice lets you know what happens to any personal data that you give to us, or any that we may collect from or about you. It applies to all products and services, and instances where we collect your personal data.
 
+This privacy notice applies to personal information processed by or on behalf of The AA Group. 
 
-###  Introduction
+For AA DriveTech, please refer to the following separate privacy notice:
 
-The AA Group ('we' 'us') means AA plc, together with any entity in which AA plc directly or indirectly has at least a 50% shareholding. The AA Group use a variety of well known brand and trading names including, but not limited to, AA, BSM, Go Travel Insurance, 1Stop Travel Insurance and Peak Performance. We may transfer your personal information among the members of the AA Group for the purposes contemplated in this privacy policy. You can obtain details of the relevant members by writing to the AA Data Protection Officer, The AA, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
+[AA DriveTech privacy policy](https://www.drivetech.co.uk/home/privacy-notice)
 
-The AA Group are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998, and aim to maintain best-practice standards in our processing of personal and/or sensitive personal data.
+Use the links below to find out more about how we use your personal information:
 
-We may provide more specific information about how we use personal and/or sensitive personal data in our product or service specific documentation, such as any policy documentation or literature. If there is any inconsistency or conflict between this privacy policy and that product or service specific documentation, that specific documentation will prevail.
+  * Who are we and how do you contact us and our Data Protection Officer?
+  * What kinds of personal information about you do we process?
+  * What is the source of your personal information?
+  * What are the legal grounds for our processing of your personal information (including when we share it with others)?
+  * What should you do if your personal information changes?
+  * For how long is your personal information retained by us?
+  * What are your rights under data protection laws?
+  * How can you opt out of marketing communications?
 
-Back to top
 
-###  How we use your information
 
-We use the information we receive from you, together with information we have obtained in the course of our relationship with you (including in relation to goods and/or services we provide to you, and/or your use of those goods and/or services), to provide goods and/or services that you request, to communicate with you, and to personalise information sent to you and for other purposes specified in this privacy policy. Examples of how we may personalise information include using your information in generating an insurance quote for you or notifying you when we will be delivering certain products in your area.
+**Changes to this privacy notice**
 
-We do not sell your personal information to third parties for marketing purposes, but we may share your information with third parties so they can market AA branded products and services (even where those products and services are provided by a third party).
+We may change this privacy notice from time to time by updating this page in order to reflect changes in the law and/or our privacy practices. We encourage you to check this privacy notice for changes whenever you visit our website – https://www.theaa.com/.
 
-We store the information you provide to us, including information provided via forms you complete on our website, and information which we may collect from your browsing. Our servers, in common with nearly all web servers, log each page that is downloaded from the site.
+**The AA plc and our Data Protection Officer**
 
-Any new information you provide to us may be used to update an existing record we hold for you. If you provide a work email address we will not be responsible for third parties who are authorised to access your work email address having access to any communications we send.
+We’re the AA PLC, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA. We are a data controller of your personal data. The AA company or companies which provide your product or service are named at the start of these terms and conditions. The AA Group of companies means AA PLC, together with any entity in which AA PLC directly or indirectly has at least a 50% shareholding and where we act in support of the AA Charitable Trust for Road Safety and the Environment. 
 
-To help us prevent fraud and money laundering, your details may be submitted to fraud prevention agencies and other organisations where your records may be searched. We will also conduct a search with a credit reference bureau to assist us in providing a quote, and to check which payment options we can make available to you. A copy of this search will be left on your credit file but will not affect your credit score. Where we are providing a motor insurance quotation this search will be noted on your credit file and may be reflected in your credit score. We may carry out similar credit searches before sending you information about our products and services, to ensure that we only send you information about products and services that is likely to be of interest to you.
+We have a dedicated data protection officer (“DPO”). You can contact the DPO using the details below or by writing to the above address, marking it for the attention of the DPO or going to [Contact Us](https://web.archive.org/help-support/contact-us).
 
-If you apply for one of our insurance or financial services products (such as a credit card or loan), we, or the supplier of the product, will search your record at a credit reference agency and may check your details with fraud prevention agencies. The precise nature of these processes is explained fully when you apply.
+* * *
 
-Third parties may deliver some of our products to you, or provide all or part of the service requested by you. In these instances, while the information you provide will be disclosed to them, it will only be used for the administration and provision of the relevant product or service (including, for example, verification of any quote given to you, and claims processing), underwriting and pricing purposes as appropriate, testing, and to maintain management information for business analysis.
+## 2\. What kinds of personal information about you do we process?
 
-We ask for your home, mobile phone number, and email address to enable us to contact you in relation to an enquiry you have made, to contact you about relevant products or services, to contact you if there is a problem with your order, or there is another reasonable reason for doing so.
+Personal information that we’ll process in connection with all of our products and services, if relevant, includes: 
 
-We make outbound phone calls for a number of reasons relating to our many products and services, including breakdown cover and insurance. We are fully committed to the regulations set out by Ofcom and follow strict processes to ensure we comply with them.
+  * **Personal and contact details** , such as title, full name, contact details and contact details history
+  * **Your date of birth, gender and/or age**
+  * **Your nationality** , if needed for the product or service
+  * **Details of beneficiaries** , such as joint policy holders, named drivers, beneficiaries of our products or services
+  * **Family members** (if relevant to the product or service)
+  * **Records of your contact with us** such as via the phone number of our breakdown service and, if you get in touch with us online using our online services or via our smartphone app, details such as your mobile phone location data, IP address and MAC address
+  * **Products and services** you hold with us, as well as have been interested in and have held and the associated payment methods used
+  * **The usage of our products and services** , any call outs and claims and whether those claims were paid out or not (and details related to this)
+  * **Marketing to you and analysing data** , including history of those communications, whether you open them or click on links, and information about products or services we think you may be interested in, and analysing data to help target offers to you that we think are of interest or relevance to you. Offers may include our car, insurance, financial services, connected car, travel and any of our other products and services
+  * **Vehicle information** , such as make and model, faults, repairs and repair costs. Offers may include our car, insurance, financial services, connected car, travel and any of our other products and services
+  * **Telematics and driving information** about your vehicle (including assessing and predicting faults or issues), driving style (including recommending improvements and assessing risk associated with your driving style), location and routes taken (for example, if you have Car Genie)
+  * **Driving school assessment** , including feedback and analysis of your instructor
+  * **Information about your use of products or services held with our business partners** , such as insurance policies, mortgage, savings or financial services and products
+  * **Information we obtained from third parties** , including information about insurance risk, pricing, claims history, instances of suspect fraud and usage history
+  * **Personal information which we obtain from Credit Reference Agencies and Fraud Prevention Agencies** (see the section on ‘Fraud Prevention Agencies’ below), including public (for example, defaults, CCJs) and shared credit history, financial situation and financial history
+  * **Fraud, debt and theft information** , including details of money you owe, suspected instances of fraud or theft, and details of any devices used for fraud
+  * **Criminal records information** , including alleged offences, for example if you apply for car insurance
+  * **Information about your health or if you are a vulnerable customer**
+  * **Information about your property** , such as location, value, number of rooms, property type and building work you’ve had done
+  * **Financial details about you** , such as your salary and details of other income, details of your savings, details of your expenditure, and payment method(s)
+  * **Details about all of your existing borrowings and loans** , if relevant
+  * **Information about your employment status** , if relevant
+  * **Information about your property occupier status** , such as whether you are a tenant, live with parents or are an owner occupier of the property where you live at the time of your application
+  * **Your residency and/or citizenship status** , if relevant, such as your nationality, your length of residency in the UK and/or whether you have the permanent right to reside in UK
+  * **Your marital status, family, lifestyle or social circumstances** , if relevant to the product (for example, the number of dependents you have or if you are a widow or widower)
+  * **Information we buy or rent from third parties** , including demographic information, vehicle details, details of outstanding finance, vehicle claims history, marketing lists, publicly available information, and information to help improve the relevance of our products and services
+  * **Insights about you and our customers** gained from analysis or profiling of customers
+  * Where relevant, **information about any guarantor** which you provide in any application
+  * **Third party transactions** ; such as where a person other than the account holder uses the service, information about that person and the transaction
+  * **Tax information** , if relevant (for example, for savings accounts)
 
-If you provide us with credit or debit card details in order to pay for a product or service, we will keep such details secure and ensure that the details are only used further with your consent and/or for the purposes of any appropriate refunds.
 
-If you use your AA card to obtain discounts from third party organisations, we may receive information from those organisations about your purchases. We may use this information for market research and analysis purposes, and to send you marketing we think you'll find of interest (in accordance with your marketing preferences).
 
-When you enter a contest or other promotional feature, we may ask for your name, address, phone numbers and email address so we can administer the contest and notify winners.
+* * *
 
-We may also use the information we collect to notify you by post, phone, mobile phone, email and SMS about new or existing services, products and special offers we think you'll find of interest (in accordance with your marketing preferences).
+## 3\. What is the source of your personal information?
 
-Generally, by providing the requested data you consent to us using that data for administrative purposes and for informing you of other products and services by letter, SMS, phone and/or email. We may also use the information we collect to occasionally notify you about important functionality changes to the website.
+We’ll collect personal information from the following general sources:
 
-If you make a donation to the AA Charitable Trust, your data will not be used for marketing purposes.
+  * From you directly, and any information from family members, associates or beneficiaries of products and services
+  * Information generated about you when you use our products and services
+  * From a broker or other intermediary (for example, comparison site) who we work with to provide products or services or quote to you
+  * AA Group companies if you already have a product with them, have applied for one or have held a one previously
+  * Business partners (for example, financial services institutions, insurers), account beneficiaries, or others who are a part of providing your products and services or operating our business
+  * From other sources such as Fraud Prevention Agencies, Credit Reference Agencies, other lenders, HMRC, DWP, publically available directories and information (for example, telephone directory, social media, internet, news articles), debt recovery and/or tracing agents, other organisations to assist in prevention and detection of crime, police and law enforcement agencies
+  * We buy or rent information about you or customers generally from third parties including demographic information, vehicle details, claims history, fraud information, marketing lists, publicly available information and other information to help improve our products and services or our business
 
-Each time you receive electronic marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an 'opt-out'.
 
-If you wish to exercise the opt-out for receiving marketing information from the AA, please use the option in the relevant electronic message or write to AA Data Protection Officer, The AA, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
 
-If you have more than one address or email address, please make sure to notify any changes to your preferences for each address or email address you have registered with us.
+* * *
 
-We may use your information (and contact details) for market research and analysis in order to evaluate, assess and improve the products and services we provide, and to identify trends and popular products and services. This may include contacting you to take part in customer satisfaction and feedback surveys.
+## 4\. What do we use your personal data for?
 
-As required by the Data Protection Act 1998, we follow strict security procedures in the storage and disclosure of information you have given to us.
+We use your personal data, including any of the personal data listed in section 1 above, for the following purposes:
 
-If we provide information to a third party (either a provider of a product or service, or an external data processing agency such as a mailing house) we will exercise strict control over the third party contractually, typically requiring it and any of its agents and/or suppliers to:
+  * Assessing an application for a product or service, including considering whether or not to offer you the product or service, the price, the risk of doing so, availability of payment method and the terms
+  * Managing the product or service you have with us
+  * Updating your records, tracing your whereabouts and recovering debt
+  * Managing any aspect of the product or service
+  * To make automated decisions on whether to offer you a product or service, or the price, payment method, risk or terms of it
+  * To perform and/or test the performance of, our products, services and internal processes
+  * To improve the operation of our business and that of our business partners
+  * To follow guidance and best practice under the change to rules of governmental and regulatory bodies
+  * For management and auditing of our business operations including accounting
+  * To carry out checks at Credit Reference and Fraud Prevention Agencies pre-application, at application, and periodically after that
+  * To monitor and to keep records of our communications with you and our staff (see below)
+  * To administer our good governance requirements and those of other members of our AA Group, such as internal reporting and compliance obligations or administration required for Annual General Meeting (“AGM”) processes
+  * For market research and analysis and developing statistics
+  * Assessing and profiling aspects of your vehicle (including faults), driving style (including recommending improvements), location and routes taken (if relevant to your product or service)
+  * For direct marketing communications and related profiling to help us to offer you relevant products and service, including deciding whether or not to offer you certain products and service. We’ll send marketing to you by SMS, email, phone, post, social media and digital channels (for example, using Facebook Custom Audiences and Google Custom Match). Offers may relate to any of our products and services such as cars, roadside assistance, money and financial services, insurance, travel, member offers ("Member Benefits") as well as to any other offers and advice we think may be of interest
+  * To provide personalised content and services to you, such as tailoring our products and services, our digital customer experience and offerings, and deciding which offers or promotions to show you on our digital channels
+  * To develop new products and services and to review and improve current products and services
+  * To comply with legal and regulatory obligations, requirements and guidance
+  * To provide insight and analysis of our customers both for ourselves and for the benefit of business partners either as part of providing products or services, helping us improve products or services, or to assess or improve the operating of our businesses
+  * To share information, as needed, with business partners (for example, financial services institutions, insurers), account beneficiaries, service providers or as part of providing and administering our products and services or operating our business
+  * To facilitate the sale of one or more parts of our business
+  * To enable other AA Group companies to perform any of the above purposes 
+  * To process any donations made to the AA Charitable Trust
 
-  * maintain the security and confidentiality of the information, and restrict access to those of its own employees
-  * only use the data for the purpose agreed with us, and prevent it being used for any other purpose by any other party
-  * refrain from communicating with you other than concerning the product or service in question
-  * return the data to us at the conclusion of any contract term, and destroy or delete any copies made of all or any part of the information unless copies are needed to be kept to comply with applicable law or regulations
 
 
+* * *
 
-In addition, we will restrict the information disclosed to the absolute minimum necessary, for example, to provide the product or service.
+## 5\. What are the legal grounds for our processing of your personal information (including when we share it with others)?
 
-Our own security procedures mean that we may occasionally have to request proof of identity or check your presence on the electoral roll.
+We rely on the following legal bases to use your personal data:
 
-In the event of phone calls from you, we also reserve the right to ask security questions (which we in our sole discretion deem appropriate) in order to satisfy ourselves that you are who you say you are.
+  1. **Where it is needed to provide you with our products or services** , such as:
 
-If you contact us electronically we may collect your electronic identifier, eg Internet protocol (IP) address or phone number supplied by your service provider. This is to identify any repeat website visits, fraudulent behaviour or mystery shoppers using our websites.
+a) Assessing an application for a product or service you hold with us, including consider whether or not to offer you the product, the price, the payment methods available and the conditions to attach  
+b) Managing products and services you hold with us, or an application for one  
+c) Updating your records, tracing your whereabouts to contact you about your account and doing this for recovering debt (where appropriate)  
+d) Sharing your personal information with business partners and services providers when you apply for a product to help manage your product  
+e) All stages and activities relevant to managing the product or service including enquiry, application, administration and management of accounts, illustrations, requests for transfers of equity, setting up/changing/removing guarantors  
+f) For some of our profiling and other automated decision making to decide whether to offer you a product and/or service, particular payment method and the price or terms of this
 
-Back to top
+  2. Where **it is in our legitimate interests to do so** , such as:
 
-###  Your consent
+a) Managing your products and services relating to that, updating your records, tracing your whereabouts to contact you about your account and doing this for recovering debt (where appropriate)  
+b) To perform and/or test the performance of, our products, services and internal processes  
+c) To follow guidance and recommended best practice of government and regulatory bodies  
+d) For management and audit of our business operations including accounting  
+e) To carry out searches at Credit Reference Agencies pre-application, at the application stage, and periodically after that. Where you have been introduced to us by a broker or other intermediary they may do these searches on our behalf  
+f) To carry out monitoring and to keep records of our communications with you and our staff (see below)  
+g) To administer our good governance requirements and those of other members of our Group, such as internal reporting and compliance obligations or administration required for AGM processes  
+h) For market research and analysis and developing statistics  
+i) For direct marketing communications and related profiling to help us to offer you relevant products and services, including deciding whether or not to offer you certain products and service. We will send marketing to you by SMS, email, phone, post and social media and digital channels (for example, using Facebook Custom Audiences and Google Custom Match  
+j) Subject to the appropriate controls, to provide insight and analysis of our customers to business partners either as part of providing products or services, helping us improve products or services, or to assess or to improve the operating of our businesses  
+k) For some of our profiling and other automated decision making  
+l) Where we need to share your personal information with people or organisations in order to run our business or comply with any legal and/or regulatory obligations
 
-When you provide any data to us we will endeavour to make it clear why we need it, and, where required by law, obtain your consent to our use of it. Sometimes we may need to process sensitive personal data about you (examples include medical history and motoring convictions). When this is required we will (to the extent required by law) obtain your consent to that processing.
+  3. To comply with our **legal obligations**
+  4. With your **consent or explicit consent** :
 
-Where we deem appropriate, we may allow a customer to give their spouse's, partner's or other relevant person's consent. If you provide consent on behalf of another person, you must ensure that you have their authorisation to do so; we reserve the right to request confirmation or to otherwise verify that you have that authorisation.
+a) For some direct marketing communications  
+b) For some of our profiling and other automated decision making  
+c) For some of our processing of special categories of personal data such as about your health, if you are a vulnerable customer or some criminal records information
 
-Subsequent to your purchase of a product or service, we may enter into an arrangement for that product or service to be provided by a new third party. If this happens, the terms and conditions of your contract with us will provide that you consent to the transfer to and processing of personal and/or sensitive personal data by the new provider, subject to the requirements of the Data Protection Act 1998 and associated regulations.
+  5. For a **public interest** , such as:
 
-If you are entitled to breakdown service under AA membership, you consent to the AA Group keeping you up to date with the AA Rewards discount scheme or similar scheme available from time to time. Under this scheme, as part of the benefit of being a member, the AA Group will, through the AA members' magazine, email or otherwise, give you membership information and details of any discounts or offers it may negotiate from time to time on behalf of its members. You will continue to receive this information even if you opt-out of marketing generally.
+a) Processing of your special categories of personal data such as about your health, criminal records information (including alleged offences), or if you are a vulnerable customer
 
-Back to top
 
-###  Cookies
 
-From offers and promotions to sound and video, the aim of this website is to be interesting, helpful and informative. We're keen to find out what you like and dislike – your feedback plays a key role in helping us improve this site. We use many techniques to follow your use of the site and provide you with a customised experience. The main and best known technique is by using what are known as 'cookies'.
 
-**What are cookies?** Cookies are small data files that a website will put on your device. The data contained in the cookie can be retrieved by that website (or another website that can read the cookie) when you visit the relevant site. Cookies cannot affect your device, but they do collect information that can be used to enhance the site. For example, a cookie can remember the items that you have placed into your shopping basket, or it can ensure you get the offer you requested. Typically, these will be 'session' cookies, which expire as soon as you leave the site.
+* * *
 
-Other cookies can tell us if you come back. These are 'persistent cookies', which expire after a period of time unless you delete them from your device. We use them to help customise the site and to do things such as display relevant advertising on the websites you visit based on your visit to our website.
+## 6\. When do we share your personal information with other organisations?
 
-Some cookies enable sites to work, while others help us learn about what people are browsing for.
+We may share information with the following third parties for the purposes listed above:
 
-Back to top
+  * AA Group companies and service providers
+  * Business partners (for example, financial services institutions, insurers), account beneficiaries, or others who are a part of providing your products and services or operating our business
+  * Governmental and regulatory bodies such as HMRC, the Financial Conduct Authority, the Prudential Regulation Authority, the Ombudsman, the Information Commissioner’s Office and under the Financial Services Compensation Scheme
+  * Other organisations and businesses who provide services to us such as debt recovery agencies, back up and server hosting providers, IT software and maintenance providers, document storage providers and suppliers of other back office functions
+  * Credit Reference and Fraud Prevention Agencies (see below)
+  * Market research organisations who help us to develop and improve our products and services
 
-###  How we use cookies
 
-We use cookies to ensure you get the most from your visit. They improve your experience of the site because certain features work best with cookies. Feedback and information from the cookies can also help make the site better. By visiting and using this site, you agree to our use of cookies and other similar technologies.
 
-Here are the main types of  cookies we use on our site and what they do:
+* * *
 
-**1.  ** **Strictly necessary**  
- **In brief** These cookies enable you to get the information or service you've asked for. They're essential – without them, some services may not work.
+## 7\. How and when can you withdraw your consent?
 
-**For example** We use these cookies to enable you to use shopping baskets, which remember your choices as you navigate our site and enable you to buy.
+Where we’re relying upon your consent to process personal data, you can withdraw this at any time by contacting us using the details below.
 
-**2.  ** **Performance cookies**  
- **In brief** These cookies collect information about the pages you visit, where you go most often and whether you see error messages. The information is only used to ensure our website works well.
+* * *
 
-**For example** We gather information to diagnose problems and issues. We then use it to make improvements and fix errors.
+## 8\. Is your personal information transferred outside the UK or the EEA?
 
-**3\. Functional cookies**  
- **In brief** These cookies remember choices you’ve made to personalise the site. They may remember where you are so you can get tailored information, or remember changes you have made to help you browse, such as increasing the text size.
+We’re based in the UK but sometimes your personal information may be transferred outside the European Economic Area. If we do so we’ll make sure that suitable safeguards are in place, for example by using approved contractual agreements, unless certain exceptions apply. 
 
-**For example** If you ask for services based on your location, we sometimes store a cookie so that next time you visit you won’t have to tell us your location again.
+* * *
 
-**4\. Targeting or advertising cookies**  
- **In brief** These cookies collect information about your browsing habits (including details of the websites you have visited) which is then used to ensure you receive advertising relevant to you.
+## 9\. How do we share your information with credit reference agencies?
 
-**For example** These cookies may be used by us (or third parties and advertising networks on our behalf) to serve advertisements relevant to you across the internet (including on other sites you visit) based on your interaction with our website and your browsing history.
+To process your application, we’ll perform credit and identity checks on you with one or more credit reference agencies **(CRAs)**. Where you take insurance, financial or credit services from us we may also make periodic searches at CRAs to manage your account with us. To do this we’ll supply your personal information to CRAs and they will give us information about you. This will include information from your credit application and about your financial situation and financial history. CRAs will supply to us both public (including the electoral register) and shared credit, financial situation and financial history information and fraud prevention information. 
 
-Back to top
+We’ll use this information to:
 
-###  Links to other sites
+  * Assess your creditworthiness and whether you can afford to take the product
+  * Verify the accuracy of the data you have provided to us
+  * Prevent criminal activity, fraud and money laundering
+  * Manage your account(s)
+  * Assess payment methods available to you
+  * Trace and recover debts
+  * Make sure any offers provided to you are appropriate to your circumstances
 
-We often link off to other sites to help provide you with extra information or services. For example, to make it easy for you to share information with your family and friends, we provide links to Twitter, Facebook and other popular social media or book-marking sites.
 
-But remember, these sites may use cookies that we do not control. So be sure to check how they use your information.
 
-Back to top
+We’ll continue to exchange information about you with CRAs while you have a relationship with us. We’ll also notify the CRAs about your settled accounts. If you borrow and don’t repay in full and on time, CRAs will record the outstanding debt. This information may be given to other organisations by CRAs. **The identities of the CRAs, their role as fraud prevention agencies, the data they hold, the ways in which they use and share personal information, data retention periods and your data protection rights with the CRAs are explained in more detail on our website.**
 
-###  How you can control cookies
+When CRAs receive a search from us they will place a search footprint on your credit file that may be seen by other lenders.
 
-You can restrict, remove or block cookies through your browser settings at any time. For more information about how to do this, and about cookies in general, you can visit [allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org") and [youronlinechoices.eu](http://www.youronlinechoices.eu/ "www.youronlinechoices.eu"). Certain cookies may be set as soon as you visit our website, but you can remove them using your browser settings. If cookies are disabled on your device you will still be able to use most of this site. However it may limit what you can do.
+If you’re making a joint application, or tell us that you have a spouse or financial associate, we’ll link your records together, so you should make sure you discuss this with them, and share with them this information, before lodging the application. CRAs will also link your records together and these links will remain on your and their files until such time as you or your partner successfully files for a disassociation with the CRAs to break that link.
 
-Back to top
+* * *
 
-###  Disclosure of information to third parties, and cross-border transfers
+## 10\. How do we share your information with Fraud Prevention Agencies?
 
-As previously mentioned, we do not sell your personal information to third parties for marketing purposes, but we may share your information with third parties so they can market AA branded products and services (even where those products and services are provided by a third party).
+There are more details about how credit reference and fraud agencies use your personal data [here](https://web.archive.org/~/media/the-aa/pdf/credit-reference-agency-information-notice.pdf?la=en).
 
-We may disclose your personal data to third parties in the following circumstances:
+* * *
 
-a) to fulfil your orders for a product or service or information in the event that third parties deliver the relevant product or service or information. For example, if you take out an insurance policy provided by a third party, they will need your details in order to administer the policy, verify the quote given to you and process any claims;
+## 11\. What should you do if your personal information changes?
 
-b) where third parties administer or provide part or all of a product or service. For example, if you take out an insurance policy provided by a third party, we may pass your personal information to that party in connection with the continued provision of the policy;
+You should tell us so that we can update our records using the details in the Contact Us section of our website. We’ll then update your records if we can. 
 
-c) for underwriting, pricing, insurance rating analysis and testing purposes, and to maintain management information for business analysis;
+* * *
 
-d) where the third party provides services to us; or
+## 12\. Do you have to provide your personal information to us?
 
-e) where we provide products or services to you pursuant to or in connection with your relationship with a third party, in which case we may share information about you with the third party. For example, if you receive breakdown cover as part of an added value bank account, we may share your personal information with the bank.
+We’re unable to provide you with our products or services if you do not provide certain information to us. In cases where providing some personal information is optional, we’ll make this clear.
 
-In connection with the above disclosures and data sharing arrangements, we may receive personal information about you from these third parties and supplement our own records with this information, and use this information for the purposes contemplated in this privacy policy.
+* * *
 
-In the event that we sell or buy any business or assets, we may disclose personal information held by us about our members and customers to the prospective seller or buyer of such business or assets. If we or substantially all of our assets are acquired by a third party (or subject to a corporate reorganisation), personal information held by us about will be one of the transferred assets.
+## 13\. Do we do any monitoring involving processing of your personal information? 
 
-Additionally, we may be required to pass on your information to the police or any other statutory or regulatory authority, and, in some cases, exemptions may apply under the Data Protection Act 1998 whereby we can legitimately release personal data, eg to prevent or detect crime or in connection with legal proceedings.
+In this section monitoring means any: listening to, recording of, viewing of, intercepting of, or taking and keeping records (as the case may be) of calls, email, text messages, social media messages, in person (face to face) meetings and other communications. 
 
-See also **How we use your information** above for information on how we may exchange personal data with third parties to help us prevent fraud and money laundering, to assist us in providing a quote, or to check which payment options we can make available to you, and (where appropriate) to ensure that we only send you information about products and services that is likely to be of interest to you.
+We may monitor where permitted by law and we’ll do this where the law requires it, or to comply with regulatory rules, to prevent or detect crime, in the interests of protecting the security of our communications systems and procedures and for quality control and staff training purposes. This information may be shared for the purposes described above.
 
-**Cross-border transfers of information**  
-From time to time the AA Group may use service providers and organisations outside the European Economic Area (EEA) to process personal information for the purposes contemplated by this privacy policy. The laws of some non-EEA countries do not provide the same level of protection for personal data as the laws of the UK.
+* * *
 
-Where we transfer your personal data to such countries, we will take steps to ensure appropriate protections are in place to safeguard your personal data as required by the Data Protection Act 1998.
+## 14\. What about other automated decision making? 
 
-Back to top
+We sometimes make decisions about you using only technology, where none of our employees or any other individuals have been involved. For instance, we may do this to decide: whether to offer you a product or service, to determine the risk of doing so, the price we will offer, whether to offer you credit, what terms and conditions to offer you, assess lending, insurance and business risks, or to assess what payment methods we can offer you. We may also do this using data from other parts of the AA, including product or services details (including usage of them or claims made) and telematics data captured including on your vehicle, driving behaviour and location information. 
 
-###  Employees and employees' spouses or partners
+We’ll do this where it is necessary for entering into or performing the relevant contract, is authorised by laws that apply to us, or is based on your explicit consent. 
 
-Personal and/or sensitive personal data of an employee and his or her spouse or partner who take out a product and/or service may be shared with any group company for the purpose of operation of the product or service or for administrative reasons (including but not limited to claim administration, which may be assisted by the employee's department personnel). By accepting or purchasing the product or service the employee and his or her spouse or partner provide the necessary consent for this transfer and use of data.
+* * *
 
-Back to top
+## 15\. For how long is your personal information retained by us?
 
-###  Data Protection Act marketing consent
+Unless we explain otherwise to you, we’ll hold your personal information based on the following criteria:
 
-The AA Group have adopted the following procedure in gaining your consent to be placed on their marketing lists.
+  * For as long as we have reasonable business needs, such as managing our relationship with you and managing our operations
+  * For as long as we provide goods and/or services to you and then for as long as someone could bring a claim against us; and/or
+  * Retention periods in line with legal and regulatory requirements or guidance.
 
-When you first make an enquiry of or buy a product or service from the AA Group, you consent to receiving marketing from us. Your details are placed on our marketing list for the AA Group. Each time you receive electronic marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an 'opt-out'. You can also opt-out of receiving marketing information from us by writing to AA Data Protection Officer, The AA, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
 
-Back to top
 
-###  Amendment and retention of information
+* * *
 
-Please advise us in writing as to any changes in your circumstances. Obviously it is preferable for us to retain up to date information. We will amend details as required.
+## 16\. What are your rights under data protection laws?
 
-We are obliged and permitted by law and regulation to retain certain types of data for a minimum period of time. The minimum period of time tends to be for six years, but can be longer if the statute or regulation requires or permits.
+Here is a list of the rights that all individuals have under data protection laws. They don’t apply in all circumstances. If you wish to use any of them, we’ll explain at that time if they are engaged or not. The right of data portability is only relevant from May 2018.
 
-Back to top
+  * The right **to be informed** about the processing of your personal information
+  * The right to have your personal information **corrected if it is inaccurate** and to have **incomplete personal information completed**
+  * The right **to object** to processing of your personal information
+  * The right **to restrict processing** of your personal information
+  * The right **to have your personal information erased** (the “right to be forgotten”)
+  * The right to **request access** to your personal information and to obtain information about how we process it
+  * The right to **move, copy or transfer your personal information** (“data portability”)
+  * Rights in relation to **automated decision making which has a legal effect or otherwise significantly affects you**
 
-###  Subject access requests
 
-You have a statutory right of access to personal and/or sensitive personal data that we hold about you. In order to exercise this right, please write to the AA Data Protection Officer, The AA, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
 
-Please refer to the information you wish to see giving dates if possible, and enclose a cheque for £10 payable to Automobile Association Developments Limited.
+You have the right to complain to the Information Commissioner’s Office which enforces data protection laws: https://ico.org.uk/. You can contact us using the details below. 
 
-We will not administer Subject Access Requests made by a third party unless accompanied by a written authority of the individual who is the subject of the request.
+* * *
 
-Back to top
+## 17\. Your right to object
 
-###  Your choice of information
+You have the right to object to certain purposes for processing, in particular to data processed for direct marketing purposes and to data processed for certain reasons based on our legitimate interests. You can contact us by going to the [Contact Us](https://web.archive.org/help-support/contact-us) section of our website to exercise these rights.
 
-You may change the type of material sent to you at any time. The AA Group allows you to select which products and services you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this please write to the AA Data Protection Officer, The AA, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
+* * *
 
-Back to top
+## 18\. What are your marketing preferences and what do they mean?
 
-###  Changes to our privacy policy
+We may use your home address, phone numbers, email address and social media or digital channels (for example, Facebook, Google and message facilities in other platforms) to contact you according to your marketing preferences. 
 
-If we decide to change our privacy policy, we will update all relevant documentation and post any changes on our websites so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+You can **opt out** of any email or text marketing by following the unsubscribe links. If you receive a marketing call from us, you can ask the person who called you to opt you out. You can also write to us at AA PLC, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA, marking it for the attention of the DPO. Or [send us an email ](https://www.theaa.com/help-support/contact-us)on our Contact Us page - choose ‘Using our services’ and then ‘I want to opt out of marketing messaging’.
 
-Back to top
+* * *
 
-###  Tell us what you think
+## Contact Us
 
-We welcome your questions and comments about privacy.
-
-Please write to The AA Data Protection Officer, The AA, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
-
-Back to top
+If you have any questions about this privacy notice, or if you wish to exercise your rights or contact the DPO, you can contact us by going to the [Contact Us](https://web.archive.org/help-support/contact-us) section of our website. Alternatively, you can write to AA PLC, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA, marking it for the attention of the DPO. 
