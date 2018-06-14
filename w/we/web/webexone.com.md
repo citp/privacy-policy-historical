@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webexone.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223230136id_/http%3A//www.cisco.com/web/siteassets/legal/privacy_full.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webexone.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614041236id_/https%3A//www.cisco.com/c/en/us/about/legal/privacy-full.html) for the most accurate reproduction.*
 
 # Cisco Online Privacy Statement - Cisco
 
@@ -50,7 +50,7 @@ back to top
 
 We need your help in keeping your personal information accurate and up to date. We provide a number of options to access, correct, suppress, or delete your personal information:
 
-  * You can view or edit your Cisco.com personal information and preferences online by using the [Cisco Profile Management Tool](https://web.archive.org/web/siteassets/account/index.html).
+  * You can view or edit your Cisco.com personal information and preferences online by using the [Cisco Profile Management Tool](https://web.archive.org/c/en/us/about/account.html).
   * Some Cisco entities may act as or be considered "data controllers". When a Cisco entity is acting as a data controller, you can exercise your rights of access and request corrections, suppression, or deactivations under applicable data protection laws directly with that Cisco entity as described in the specific Solution documentation.
   * If you need additional assistance, or help with accessing, correcting, suppressing, or deleting your personal information, please feel free to contact us directly. We make good faith efforts to honor reasonable requests to access, delete, update, suppress, or correct your data. We will respond to your request within 30 days. If we are unable to honor your request, we will provide you with an explanation.
 
@@ -86,7 +86,7 @@ We may share personal information in the following ways:
   * In connection with, or during negotiations of, any merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or to another company.
   * In response to a request for information by a competent authority if we believe disclosure is in accordance with, or is otherwise required by, any applicable law, regulation or legal process.
   * With law enforcement officials, government authorities, or other third parties as necessary to comply with legal process or meet national security requirements; protect the rights, property, or safety of Cisco, its business partners, you, or others; or as otherwise required by applicable law.
-  * In aggregated and/or anonymized form which cannot reasonably be used to identify you.
+  * In aggregated, anonymized, and/or de-identified form which cannot reasonably be used to identify you.
   * If we otherwise notify you and you consent to the sharing.
 
 
@@ -171,6 +171,12 @@ Cisco is responsible for the processing of personal data it receives, under thes
 
 With respect to personal data received or transferred pursuant to these Privacy Shield Frameworks, Cisco is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
+  * #### EU Binding Corporate Rules - Controller
+
+Cisco’s global privacy program and policies have been approved by the Dutch, Polish, Spanish, and other relevant European privacy regulators as providing adequate safeguards for the protection of privacy, fundamental rights, and freedoms of individuals for transfers of personal information protected under European law.  Cisco’s Binding Corporate Rules – Controller (BCR-C) provide that transfers made by Cisco worldwide of European personal information benefit from adequate safeguards.
+
+A copy of our BCR-C can be found [here](https://web.archive.org/c/en/us/about/trust-center/customer-data-privacy-policy.html). More information about BCRs can be found [here](http://ec.europa.eu/justice/data-protection/international-transfers/binding-corporate-rules/index_en.htm).
+
 
 
 
@@ -198,6 +204,6 @@ back to top
 
 We may update this Privacy Statement from time to time. If we modify our Privacy Statement, we will post the revised version here, with an updated revision date. You agree to visit these pages periodically to be aware of and review any such revisions. If we make material changes to our Privacy Statement, we may also notify you by other means prior to the changes taking effect, such as by posting a notice on our websites or sending you a notification. By continuing to use our website after such revisions are in effect, you accept and agree to the revisions and to abide by them.
 
-### The Cisco Privacy Statement was revised and posted as of April 12, 2017.
+### The Cisco Privacy Statement was revised and posted as of April 20, 2018.
 
 Click here for the [previous version of the privacy statement](https://web.archive.org/c/en/us/about/legal/privacy-full/previous.html).
