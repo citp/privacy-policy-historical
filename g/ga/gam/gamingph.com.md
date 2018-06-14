@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamingph.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902170707id_/https%3A//gamingph.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingph.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614024418id_/https%3A//gamingph.com/privacy-policy) for the most accurate reproduction.*
 
-# GamingPH.com Privacy Policy | GamingPH.com
+# Privacy Policy – GamingPH.com
 
-Here on GamingPH.com (“Company”, “GamingPH”, “We” or “Us”) we take care data privacy seriously. This privacy policy page is made to demonstrate how we collection information
+Here on GamingPH.com (“Company”, “GamingPH”, “Gaming.PH”, “GamingPH.com”, “We” or “Us”) we take care data privacy seriously. This privacy policy page is made to demonstrate how we collection information
 
 **What information do we collect from visitors?**
 
@@ -12,7 +12,7 @@ We don’t collect any user personal information from users when visiting our 
 
 **Do GamingPH.com uses Cookies?**
 
-Yes, some of our third party application like Google Analytics uses cookies to determine site performance.
+Yes, some of our third party application like Google Analytics uses cookies to determine site performance. For more information, please check our [Cookies Policy](https://gamingph.com/cookies-policy/) page.
 
 **Do GamingPH.com disclose any personal  information from user to outside parties?**
 
@@ -36,4 +36,7 @@ If we decided to change our privacy policy, we will update this post and marked 
 
 **Contacting Us**
 
-You may reach us via [admin@gamingph.com](mailto:admin@gamingph.com).
+You may reach us via [contact@gamingph.com](mailto:contact@gamingph.com).
+
+  
+
