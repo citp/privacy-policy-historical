@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pimboo.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203145429id_/http%3A//www.pimboo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimboo.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614110316id_/http%3A//pimboo.com/privacy-policy) for the most accurate reproduction.*
 
 # Pimboo - Privacy Policy
 
