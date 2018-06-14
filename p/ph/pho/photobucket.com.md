@@ -1,93 +1,151 @@
-> *The following text is extracted and transformed from the photobucket.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230040914id_/http%3A//photobucket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobucket.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614114156id_/http%3A//photobucket.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Photobucket
 
-## Last revised May 26, 2015
+Thank you for visiting Photobucket.com (the "Site") and reviewing the Privacy Policy of Photobucket.com, Inc. ("Photobucket" or "we" or "us"). We are a company headquartered in the United States of America but our Site may be accessed in any country where it is legal to do so.
 
-Thank you for visiting Photobucket.com (the "Site") and reviewing the Privacy Policy of Photobucket.com, Inc. ("Photobucket" or "we" or "us"). It is important to us that you understand what information we collect when you visit the Site either from a computer or a mobile device and what we may do with that information, so we have laid it all out here for you. This Privacy Policy also covers the collection of data from applications on mobile devices.
+It is important to us that you understand what information we collect when you visit the Site either from a computer or a mobile device and what we may do with that information, so we have laid it all out here for you. This Privacy Policy also covers the collection of data from applications on mobile devices. It sets out the conditions under which we may process any information that we collect from you, or that you provide to us. It covers information that could identify you (“personal information”) and information that could not. In the context of the law and this notice, “process” means collect, store, transfer, use or otherwise act on information.
 
-By using this Site you consent to the terms of this Privacy Policy, and you signify your assent to all of the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/terms). If you do not agree with any terms of this Privacy Policy or our [Terms of Use](https://web.archive.org/terms), please do not use this Site or submit any personal information. Please take care to read our Privacy Policy to be sure you are informed about how your information may be used. Please also read our [Terms of Use](https://web.archive.org/terms).
+By using this Site you consent to the terms of this Privacy Policy, and you signify your assent to all of the terms of this Privacy Policy and our [Terms of Use](http://photobucket.com/terms). **If you do not agree with any terms of this Privacy Policy or our  **[Terms of Use](http://photobucket.com/terms) **, please do not use this Site or submit any personal information.** Please take care to read our Privacy Policy to be sure you are informed about how your information may be used. Please also read our [Terms of Use](http://photobucket.com/terms).
 
-### Getting to Know You
+**We take seriously our obligation to protect your privacy. We understand that all visitors to our website are entitled to know that their personal data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party.**
 
-We collect and store a wide variety of information you submit to Photobucket or give us in the other ways described below. Some is personal information and some isn't.
+Our policy complies with the EU General Data Protection Regulation (GDPR). This law requires us to tell you about your rights and our obligations in regard to the processing and control of your personal data. If you want to read more about your rights and our obligations, please review the information provided at [www.knowyourprivacyrights.org](http://www.knowyourprivacyrights.org/).
 
-  * **What Is "Personally Identifiable Information" (or PII)?** Information that identifies you, such as your name, email address or image, or that can be used to identify you when combined with other information, is "personally identifiable information."
-  * **When Do We Ask for PII?**
-    * If you choose to register to use the Site, we may collect your name, email address, and date of birth during the registration process.
-    * Photobucket may ask you for other PII from time to time, such as contact information (like your mailing address and phone number), or demographic information (like your zip/postal code or region, hometown, gender, or education level). We may ask for this information from you in order for you to use the Site beyond just browsing, or for the purposes disclosed to you at the time such other PII is collected.
-  * **What Isn't Personal Information?** Information we can gather from your visit that doesn't identify you personally, like your IP address, your operating system, your browser type and language, the date and time of your visit, as well as information about your ISP, referring URL, the search term that led you to the Site, your geographic region, the type of content you view, etc. We may do this by assigning your computer one or more cookies which may collect information about how you use Photobucket; we may use standard Internet tools, such web beacons or cookies, which collect non-PII and track your use of our website.
-  * **Do I Have A Choice?** While you're not required to provide PII to visit the Site, many of our cool features may not be available to you if you choose not to create an account with us or, at other times, not to provide requested information.
+  
 
 
+## **Why Do We Collect & Process Information About You?**
 
-### How We Use What We Know
-
-  * **How Do We Use PII?** We use the PII we request at registration in order to provide you with the services offered on the Site, including image hosting and sharing. There are some circumstances when we will share PII with trusted third party business partners, which may include advertisers, and others: 
-    * Photobucket may share PII with our trusted third party business partners. They are obligated to keep your information confidential. They may present you with offers pertaining to products and services which you may have requested or other offers for products and services that you will find of interest.
-    * To our trusted service providers working on Photobucket's behalf to deliver services, such as sending emails related to the Site or your account. These service providers are under confidentiality obligations with Photobucket, and do not have any independent right to share this information;
-    * With other companies within our corporate family; and
-    * Photobucket may disclose your PII: (a) when we are legally required to do so; (b) to protect the interests or safety of Photobucket or Site users; (c) to another company if we are bought, or if we discontinue operations.
-  * **How Do We Use Your Email Address?** Photobucket will use your email address to contact you to manage your account. Unless you tell us not to, Photobucket will also: send you marketing and promotional materials regarding Photobucket and its features; and send you marketing and promotional materials that promote third party products, including from affiliates, third parties and trusted marketing partners with whom we have shared your PII.
-  * **What If I Don't Want Email From Photobucket?** If you don't want to get emails from us (except related to customer service or account issues), you may uncheck the "Allow Photobucket to send me newsletter updates" box in Account Settings under Privacy Settings. You may also simply click the "unsubscribe" link in any of the emails you receive.
-  * **What if I Don't Want Email From Third Parties?** If you would like to opt-out from Photobucket sharing your PII with third party business partners for email marketing purposes, please go to your Account settings or [click here](https://web.archive.org/settings/notifications) and un-check the box for 3rd party marketing emails.
-  * **How Do We Use Your Information For Advertising?** Photobucket will target advertising based on personal information provided by users and inferred from site usage. We may also work with companies that use cookies to help provide better-targeted advertising. This may include gender, age, or geographic data. Photobucket does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. These advertisers may place or utilize their own unique cookies, pixels, or web beacons, and may collect non-PII about your visit to the Site, such as your IP address and the number of times your have viewed an ad. Photobucket is not responsible for the collection of these cookies and is not responsible for what the ad service providers do with the information they collect. We may bundle and share the non-personal information we collect from you and other users with advertisers, third parties, trusted partners and affiliates so that they display advertising that better suits the interests of users of our Site. We may aggregate your PII with information about others. In that case we will make your information non-personally identifiable by removing your name and other characteristics that would identify it as you. We may use and/or share the resulting non-PII with third parties.
-  * **Do We Use Analytics Companies?** We may provide some non-personal information to others who help us understand how you use the Site.
-  * **Do We Use Cookies?** We use both HTTP (or HTML) cookies and Flash cookies to collect non personal information, help smooth the upload process, remember you on future visits, better understand how users engage with the Site so we can enhance the user experience, and maintain volume on video playback. Most browsers accept HTTP cookies automatically, but allow you to disable them. You can manage Flash cookies with a tool found on [Adobe's web site](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). However, if you disable cookies on your browser, you will not be able to log in to the Site.
-  * **How Can I Opt-Out of Having Non-PII Shared?** You may choose to opt-out from allowing Photobucket to provide non-PII to certain partners. Visit networkadvertising.org, aboutads.info, http://liveramp.com/opt_out/, youronlinechoices.com, and [Truste](http://mobile.truste.com/mobile/preferences/0/?pid=millennial01&aid=millennial02\)) to make informed decisions about your online and mobile privacy and to opt-out of sharing your non-PII.
+  * ### ****We have a contractual right or obligation****
 
 
 
-### Going Public and Being Social
 
-There are some things you may choose to do on or by accessing the Site which may be public. Here are some examples:
+When you create an account on our Site, buy a product or service from us, or otherwise agree to our Terms of Use, a contract is formed between you and us. In order to carry out our obligations under that contract we must process the information you give us. Some of this information may be personal information. We may use it in order to: (a) verify your identity for security purposes; and (b) sell products and provide services to you. We process this information on the basis there is a contract between us, or that you have requested we use the information before we enter into a legal contract. Additionally, we may aggregate this information in a general and anonymous way and use it to monitor our performance with respect to a particular service we provide. We shall continue to process this information until the contract between us ends or is terminated by either party under the terms of the contract.
 
-  * **Public Postings.** Photographs and videos which you submit for use on public areas on Photobucket are considered public information and may be copied or further distributed by others in accordance with the Terms of Use. If you submit any personal or PII for display in public areas, other people who visit the Site may see it. If geotags are included in your postings, those will be viewable, too, but we offer you the ability to disable this information in the Account Settings of your account. Alternatively, if the option exists, you might want to disable the location settings on your camera or phone.
-  * **Public Comments.** Your comments may be seen by others. If you submit any personal or PII in a comment, other people who visit the Site may see it.
-  * **Connecting With Social Media.** If you link your Photobucket account to or sign in to your account through third-party social networking sites, such as Facebook, or third-party social media plug-ins and applications, you are allowing us to have access to both PII and non-PII from your social media profile. That PII **may be publicly viewed and may possibly be used by other members of these sites.**
-  * **Clicking Through.** This Privacy Policy applies to Photobucket and our Site only. Our Site contains links to or integrations with other sites, whose information practices may be different than ours. Before you click through to another site, you should read that site's privacy notice, since we have no control over and take no responsibility for information that is submitted to, or collected by other sites.
-  * **Ad Postings.** The Site may feature ads, including ads served by others to our Site. These advertisers and ad servers may place or utilize their own unique cookies, pixels or web beacons, and may collect non-PII about your visit to the Site, such as your IP address and the number of times you have viewed the ad. Photobucket is not responsible for the collection of these cookies and is not responsible for what the ad service providers do with the information they collect.
+  * ### ****We have your consent****
 
 
 
-### Is There Anything Else I Need to Know?
 
-  * **Non-US Users.** Your information may be stored in the United States or other countries where the data protection and other laws may not be as comprehensive as those in your country (especially for users in the EEA). By using this site you consent to your information being collected, used and transferred as set forth in this Privacy Policy. Information transferred to or stored in the United States may be subject to access requests from U.S. governments, courts, law enforcement officials and national security authorities in the United States according to United States laws.
-  * **13 and Up.** If you are under the age of 13, we're sorry, but you can't register at the Site. On the bright side, Photobucket will never knowingly collect personal information from children under the age of 13. If a child under 13 has provided us with personal information, his or her parent or guardian may contact us for the purpose of deleting this information.
-  * **Changing Our Policy.** This Privacy Policy is subject to change. We will prominently post a notice on the Site when there are material changes in the way we treat PII. You should periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and with whom we share it.
+When you browse our Site, such as when you search and view user images or ask us to provide you more information about our products and services, you provide your consent to us to process information that may be personal information. Wherever possible, we will attempt to obtain your explicit consent to process this information, for example, by asking you to agree to our use of cookies. If you have given us explicit permission to do so, we may from time to time provide your name and contact information to selected partners whom we believe may provide services or products you would find useful. Sometimes you may give implicit consent, such as when you send us a message through our support desk or by e-mail to which you would reasonably expect us to reply. Except where you have consented to our use of your information for a specific purpose, we do not use your information in any way that would identify you personally. We may aggregate it in a general and anonymous way to do such things as monitor the performance of a particular page on our website.
 
+We continue to process your information on the above basis until you withdraw your consent or it can be reasonably assumed that your consent no longer exists. You may withdraw your consent at any time by contacting us at [support@photobucket.com](mailto:support@photobucket.com). However, if you do so, you will not be able to use our Site or our services in the future.
 
-
-### Security Measures
-
-While Photobucket has security measures to help protect the information under our control, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure.
-
-  * Photobucket tries to protect your personal information and ensure the security of your communications on our systems, by maintaining physical, organizational and technological safeguards (appropriate to the sensitivity of such information) designed to protect it against unauthorized use, disclosure or access of the personal information we collect on this Site. However, we cannot ensure or warrant that any information you transmit to us will stay safe and secure and you do so at your own risk.
-  * Your information may be stored in whole or in part on equipment or in facilities leased or licensed from others. Although Photobucket tries to keep your information safe, it relies on the statements of those vendors regarding the safety and security of their storage equipment and services as part of its evaluation. **By using the Site, you agree that Photobucket is not responsible if the storage equipment and services provided by others aren't working like they are supposed to, and that you will have to seek any remedies from those providers, not Photobucket.**
+  * ### ****We have a legitimate reason to do so****
 
 
 
-### Retention and Deletion
 
-We keep your personal information only so long as we need it for the purposes for which it was collected, for the products and services that you are using, or to meet any legal requirements. We have retention standards, which meet these requirements. We destroy your personal information when it is no longer needed.
+We may process information on the basis there is a legitimate reason, either to you or to us, of doing so. Where we process your information on this basis, we do after having given consideration to: (a) whether the same objective could be achieved through other means; (b) whether processing (or not processing) might cause you harm; and (c) whether you would expect us to process your data, and whether you would reasonably expect us to do so. For example, we may process your data on this basis for the purposes of: (i) record-keeping purposes; (ii) responding to unsolicited communication from you to which we believe you would expect a response; (iii) protecting and asserting our legal rights; and (iv) protecting your interests where we believe we have a duty to do so.
 
-### Contact Us
-
-Don't Be Shy! If you have any questions regarding this Privacy Policy or information that you have submitted to us or if you would like to do any of the following:
-
-  * see personal information that you have already sent us so that you can correct or update it, or delete your personal information from our files;
-  * if your child under 13 has sent us personal information, delete that personal information from our files;
-  * ask that we not send you mailings or otherwise contact you; or
-  * report any violation of this Privacy Policy
+  * ### ****We have a legal obligation****
 
 
 
-you can contact us at:
 
-  * **URL:** <http://support.photobucket.com/home>
-  * **Email:** [support@photobucket.com](mailto:support@photobucket.com)
-  * **Address:** Photobucket.com, Inc. 2399 Blake St. Suite 160, Denver, CO 80205
+We will process your information when necessary to comply with a legal, statutory or administrative obligation. For example, we may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order. This may include your personal information.
 
+  * ### ****You have asked us to charge your preferred payment method****
 
 
-[View our Terms of Use here](https://web.archive.org/terms)
+
+
+Your payment information is never taken by us or transferred to us either through our Site or otherwise. Our employees and contractors never have access to it. At the point of payment, you are transferred to a secure page on the website of Jet-Pay, Braintree, PayPal or some other reputable payment service provider. Their pages may be branded to look like a page on our Site, but are not controlled by us.
+
+  * ### ****You sent a message to our customer support team****
+
+
+
+
+When you contact us, whether through our website or by e-mail, we collect the data you have given to us in order to reply with the information you need. We record your request and our reply in order to increase the efficiency of our company. We may keep personally identifiable information associated with your message, such as your name and email address so as to be able to track our communications with you to provide a high quality service.
+
+  * ### ****You have made a complaint or notified us of potential instances of copyright infringement****
+
+
+
+
+When we receive a complaint or take down request, we record all the information you have given to us. We use that information to resolve your complaint or request. If your complaint reasonably requires us to contact some other person, we may decide to give to that other person some of the information contained in your complaint or request. We do this as infrequently as possible, but it is a matter for our sole discretion as to whether we do give information, and if we do, what that information is. We may also compile statistics showing information obtained from this source on an anonymous basis to assess the level of service we provide.
+
+  
+
+
+## **How Do We Collect Information Other Than When You Provide It To Us?**
+
+  * ### ****Cookies****
+
+
+
+
+Cookies are small text files that are placed on your computer's hard drive by your web browser when you visit any website. They allow information gathered on one web page to be stored until it is needed for use on another, allowing a website to provide you with a personalised experience and the website owner with statistics about how you use the website so that it can be improved. Some cookies may last for a defined period of time, such as one day or until you close your browser. Others last indefinitely. Your web browser should allow you to delete any you choose. It also should allow you to prevent or limit their use.
+
+Our Site uses cookies. They are placed by software that operates on our servers, and by software operated by third parties whose services we use. If you choose not to use cookies or you prevent their use through your browser settings, you will not be able to use all the functionality of our Site. We use cookies in the following ways: (a) to track how you use our Site; (b) to record whether you have seen specific messages we display on our Site; (c) to keep you signed in our Site; and (d) to record your answers to surveys and questionnaires on our Site while you complete them.
+
+  * ### ****Personal identifiers obtained from browsing****
+
+
+
+
+Requests by your web browser to our servers for web pages and other content on our Site are recorded. We record information such as your geographical location, your Internet service provider and your IP address. We also record information about the software you are using to browse our Site, such as the type of computer or device and the screen resolution. We use this information in aggregate on an anonymous basis to assess the popularity of the webpages on our Site and how we perform in providing services to you.
+
+If combined with other information we know about you from previous visits, the data possibly could be used to identify you personally, even if you are not signed into your user account on our Site.
+
+  * ### ****Our use of re-marketing****
+
+
+
+
+Re-marketing involves placing a cookie on your computer when you browse our Site in order to be able to serve to you an advert for our products or services when you visit another website that is not owned or controlled by us. We may use a third party to provide us with re-marketing services from time to time. If so, then if you have consented to our use of cookies by continuing to use our Site, you may see advertisements for our products and services on other websites.
+
+  * ### ****Information we obtain from third parties****
+
+
+
+
+Although we do not disclose your personal information to any third party (except as set out in this notice), we sometimes receive data that is indirectly made up from your personal information from third parties whose services we use.
+
+  * ### ****Third party advertising on our website****
+
+
+
+
+Third parties advertise on our Site. In doing so, those parties, their agents or other companies working for them may use technology that automatically collects information about you when their advertisement is displayed on our Site. They may also use other technology such as cookies or JavaScript to personalise the content of, and to measure the performance of their advertisements. We do not have control over these technologies or the data that these parties obtain. Accordingly, this privacy notice does not cover the information practices of these third parties.
+
+  
+
+
+## **What Do We Do With Information We Collect on the Site?**
+
+Except as set out below, we do not share, or sell, or disclose to a third party, any information collected through our Site.
+
+Our Site allows you to post images and information that, by the act of posting, you intend to be read, copied, downloaded, or used by other people, such as: (a) tagging describing or commenting on images, whether such images are posted by you or someone else; (b) making comments on a forum; or (c) clicking on an icon next to another user's image or comment to convey your agreement, disagreement or thanks. We will store your information and we reserve a right to use it in the future in any way we decide.
+
+When posting images or other personal information, it is up to you to satisfy yourself about the privacy level of every person who might use it. Once your information enters the public domain, we have no control over what any individual third party may do with it. We accept no responsibility for their actions at any time.
+
+At any time you may review or update personally identifiable information that we hold about you, by signing in to your account on our Site and accessing your user profile.
+
+You may send us a request at [support@photobucket.com](mailto:support@photobucket.com) if you wish for us to remove your personal information. Provided your request is reasonable and there is no legal basis for us to retain it, then at our discretion we may agree to your request to delete your personal information. When we receive any request to access, edit or delete personal identifiable information we shall first take reasonable steps to verify your identity before granting you access or otherwise taking any action. This is important to safeguard your information. Such removal may make it impossible for you to continuing using the Site.
+
+Our Site is hosted in the United States of America. If you are located in the European Union, please be aware that your data will be processed outside the European Union.
+
+  
+
+
+## **How Long Do We Retain Your Personal Data?**
+
+Except as otherwise mentioned in this privacy notice, we keep your personal information only for as long as required by us: (a) to provide you with the services you have requested; (b) to comply with applicable law; and (c) to support a claim or defense in court.
+
+  
+
+
+## **How Do We Notify You Of Changes To This Policy?**
+
+We may update this privacy policy from time to time as we may deem necessary. The terms that apply to you are those posted here so please check back often to view any changes. Should we make any major changes to this privacy policy, we will endeavour to provide you with notification via on Site messaging and/or by e-mail to e-mail address you provided to us when creating your user account. We advise you to print a copy for your records.
+
+  
+
+
+## **How Do You Contact Us With Questions Or A Request?**
+
+If you have any question regarding our privacy policy, please contact us at: [support@photobucket.com](mailto:support@photobucket.com).
