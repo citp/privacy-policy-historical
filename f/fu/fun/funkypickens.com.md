@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funkypickens.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227220505id_/http%3A//www.funkypickens.com/wordpress/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkypickens.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614092713id_/http%3A//www.funkypickens.com/wordpress/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Funky Pickens
 
