@@ -1,14 +1,30 @@
-<!--The following is the downloaded HTML source of the mindat.org privacy policy that was archived on 2017-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119210543id_/https%3A//www.mindat.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindat.org privacy policy that was archived on 2018-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180614045330id_/https%3A//www.mindat.org/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<link rel="SHORTCUT ICON" href="/favicon.ico">
-<link rel="stylesheet" href="/mindat.css?revision=2017111502" type="text/css">
+<link rel="apple-touch-icon" sizes="57x57" href="/fav/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/fav/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/fav/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/fav/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/fav/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/fav/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/fav/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/fav/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/fav/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/fav/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/fav/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/fav/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/fav/favicon-16x16.png">
+<link rel="stylesheet" href="/mindat.css?revision=2018052201" type="text/css">
 
 
 <title>Privacy policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
+<meta name="theme-color" content="#128397">
+<!-- Windows Phone -->
+<meta name="msapplication-navbutton-color" content="#128397">
+<!-- iOS Safari -->
+<meta name="apple-mobile-web-app-status-bar-style" content="#128397">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0,
   minimum-scale=1.0, maximum-scale=4.0">
@@ -23,11 +39,79 @@
 <script src="/js/jjquery.cookie-modified.js"></script>
 <script src="/js/jquery.autocomplete-min.js"></script>
 <script src="/cform/cform_client.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/js/cookieconsent.min.css">
+<script src="/js/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#32AE90",
+	  "text": "#ffffff"
+    }
+	
+  },
+  "content": {
+    "href": "/privacy.php"
+	}
+})});
+</script>
+
+
 <script>
 if (parent.frames.length > 0)  parent.location.href = self.document.location;
+
 </script>
-</head>
-<body>
+<script>
+$(function() 
+{
+	fixfooter();
+	$(window).resize(function() { fixfooter(); });
+	
+	
+});
+
+var origheight = 0;
+
+
+function fixfooter()
+{
+	// I know this can be done in pure CSS, but this
+	// is needed to avoid regenerating old cached footer content
+var $el2 = $(".centerer");
+if(origheight) $el2.height(origheight);
+var $el = $("#footertext");
+if($el.position())
+{
+var bottom = $el.position().top + $el.outerHeight(true);
+var gap = $(window).height() - bottom;
+if(gap>0)
+{
+	
+	
+	var ht = $el2.height();
+	if(!origheight) origheight=ht;
+	$el2.css("min-height",ht+gap+1);
+}
+}
+}
+
+</script><style></style></head>
+
+<body><div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-banner cc-type-info cc-theme-block cc-bottom cc-color-override-1878389772 " style=""><!--googleoff: all--><span id="cookieconsent:desc" class="cc-message">This website uses cookies to ensure you get the best experience on our website. <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="/privacy.php" target="_blank">Learn more</a></span><div class="cc-compliance"><a aria-label="dismiss cookie message" role="button" tabindex="0" class="cc-btn cc-dismiss">Got it!</a></div><!--googleon: all--></div>
+<script>
+if (navigator.userAgent.indexOf("Trident") !== -1)
+{
+	document.write("<div id='browserbad'><b>Sorry - you are using an old, incompatible browser. Internet Explorer and older browser versions are not supported and may not display correctly.</b><br><br>Please try <a href='https://www.microsoft.com/en-gb/windows/microsoft-edge'>Microsoft Edge</a>, <a href='https://www.google.com/chrome/'>Google Chrome</a> or <a href='https://www.mozilla.org/en-GB/firefox/'>Mozilla Firefox</a>.</div>");
+}
+</script>
+
+
+
 
 <div id="ndtitlearea">
 
@@ -35,12 +119,12 @@ if (parent.frames.length > 0)  parent.location.href = self.document.location;
 		
 	
 	
-	<a href="/"><img id="mindatlogo" src="/img/mindat2017.png" alt="Mindat Logo"></a>
+	<a href="/" id="mindatlogo"></a>
 
 
 
 <div id="ndusermenu">
-<span class="fpdonate hidetablet hidephone"><a href="/campaign.php">Donate now to keep mindat.org alive!</a></span><span class="hidepc"><a href="/campaign.php">Help mindat.org</a><span class="vbar">|</span></span><a href="/login.php">Log In</a><span class="vbar">|</span><a href="/register.php">Register</a><span class="vbar">|</span>
+<a href="/login.php">Log In</a><a href="/register.php">Register</a>
 <div id="languageselector">
 <label for="langsel">Language:</label>
 <select name="langsel">
@@ -71,7 +155,7 @@ $("#languageselector SELECT").change(
 
 </div>
 <div id="ndmainmenu">
-<a id="aboutmenuctrl" href="javascript:openexpander('aboutmenu','');">About Mindat</a><a id="supportmenuctrl" href="javascript:openexpander('supportmenu','');">Support Us</a><a id="photomenuctrl" href="javascript:openexpander('photomenu','');">Photos</a><a href="/forum.php">Messageboard</a><a id="searchmenuctrl" href="javascript:openexpander('searchmenu','');">Search</a><a id="learnmenuctrl" href="javascript:openexpander('learnmenu','');">Learn</a><a id="moremenuctrl" href="javascript:openexpander('moremenu','');">More</a>
+<a id="aboutmenuctrl" href="javascript:openexpander('aboutmenu','');">About</a><a id="supportmenuctrl" href="javascript:openexpander('supportmenu','');">Support Us</a><a id="photomenuctrl" href="javascript:openexpander('photomenu','');">Photos</a><a href="/forum.php">Messageboard</a><a id="searchmenuctrl" href="javascript:openexpander('searchmenu','');">Search</a><a id="learnmenuctrl" href="javascript:openexpander('learnmenu','');">Learn</a><a id="moremenuctrl" href="javascript:openexpander('moremenu','');">More</a>
 <form method="get" action="/search.php">
 <input type="text" placeholder="Search Mindat" id="ndsearchmin" name="search">
 <input type="submit" value="Go">
@@ -83,33 +167,21 @@ $("#languageselector SELECT").change(
 </div>
 
 </div>
+
+
 <div id="mainwrap">
 
 
 <script>
-	
-
+var searchmenuon = 0;
 function openexpander(nm,suf)
 {
 	if($("#"+nm+suf+"ctrl").hasClass("expandselect"+suf)) return;
 	$(".expandselect"+suf).removeClass("expandselect"+suf);
 	$("#"+nm+suf+"ctrl").addClass("expandselect"+suf);
+
 	
-	/*
-	if(suf=='')
-	{
-		var topshift = "45px";
-		if(nm=="searchmenu") topshift="250px";
-		if($(".centerer").css("padding-top")!=topshift)
-		{
-			$(".centerer").animate({ "padding-top": topshift},500);
-			
-		}
-	} else
-	{
-		$("#expanderarea"+suf).animate({ "padding-top": "45px"},500);
-	}
-	*/
+	
 	$(".expandmenu"+suf).hide();
 	$("#"+nm).fadeIn(500);
 
@@ -118,15 +190,16 @@ function openexpander(nm,suf)
 
 
 <div class="expandmenu" id="aboutmenu">
-<a href="/">Home Page</a><a href="/newslist.php">Mindat News</a><a href="/a/mindatmanual">The Mindat Manual</a><a href="/article.php/1026/Mindat.org+-+10+years+online+today">History of Mindat</a><a href="/copyrights.php">Copyright Status</a><a href="/management_list.php">Management Team</a><a href="/contact.php">Contact Us</a><a href="/directory_upgrade.php">Advertise on Mindat</a></div>
+<a href="/">Home Page</a><a href="/a/about">About Mindat</a><a href="/a/mindatmanual">The Mindat Manual</a><a href="/a/history">History of Mindat</a><a href="/copyrights.php">Copyright Status</a><a href="/a/whoweare">Who We Are</a><a href="/contact.php">Contact Us</a><a href="/directory_upgrade.php">Advertise on Mindat</a></div>
 
 <div class="expandmenu" id="supportmenu">
-<a href="/donate.php">Donate to Mindat</a><a href="/article.php/308/Sponsorship">Sponsor a Page</a><a href="/sponsored.php">Sponsored Pages</a><a href="/topforsponsor.php">Top Available Pages</a><a href="/advertisers.php">Mindat Advertisers</a><a href="/directory_upgrade.php">Advertise on Mindat</a></div>
+<a href="/donate.php">Donate to Mindat</a><a href="/a/corporate_sponsorship">Corporate Sponsorship</a><a href="/article.php/308/Sponsorship">Sponsor a Page</a><a href="/sponsored.php">Sponsored Pages</a><a href="/advertisers.php">Mindat Advertisers</a><a href="/directory_upgrade.php">Advertise on Mindat</a></div>
 
 <div class="expandmenu" id="learnmenu">
-<a href="/a/common_minerals">The most common minerals on earth</a><a href="/photography.php">Mineral Photography</a><a href="/elements.php">The Elements and their Minerals</a></div>
+<a href="/a/learn">Learning Center</a><a href="/a/what_is_a_mineral">What is a mineral?</a><a href="/a/common_minerals">The most common minerals on earth</a><a href="/a/educators">Information for Educators</a></div>
+
 <div class="expandmenu" id="searchmenu">
-<a href="/fullsearch.php">Minerals by Properties</a><a href="/chemsearch.php">Minerals by Chemistry</a><a href="/advlocsearch.php">Advanced Locality Search</a><a href="/randommin.php">Random Mineral</a><a href="/minid.php">Search by minID</a><a href="/nearestlocs.php">Localities Near Me</a><a href="/articlelist.php">Search Articles</a><a href="/glossary.php">Search Glossary</a><a href="/searchmenu.php">More Search Options</a><div id="searchmenuform">
+<a href="/fullsearch.php">Minerals by Properties</a><a href="/chemsearch.php">Minerals by Chemistry</a><a href="/advlocsearch.php">Advanced Locality Search</a><a href="/randommin.php">Random Mineral</a><a href="/random_locality.php">Random Locality</a><a href="/minid.php">Search by minID</a><a href="/nearestlocs.php">Localities Near Me</a><a href="/articlelist.php">Search Articles</a><a href="/glossary.php">Search Glossary</a><a href="/searchmenu.php">More Search Options</a><div id="searchmenuform">
 
 <script>
 function usearch(ctrl)
@@ -208,9 +281,11 @@ function usearch(ctrl)
 
 
 <div class="expandmenu" id="moremenu">
-<a href="/stats.php">Statistics</a><a href="/elements.php">The Elements</a><a href="/listusers.php">Member List</a><a href="/mindat_books.php">Books &amp; Magazines</a><a href="/museums/">Mineral Museums</a><a href="/eventlist.php">Mineral Shows &amp; Events</a><a href="/directory.php">The Mindat Directory</a><a href="/device_settings.php">Device Settings</a></div>
+<a href="/stats.php">Statistics</a><a href="/elements.php">The Elements</a><a href="/listusers.php">Users</a><a href="/mindat_books.php">Books &amp; Magazines</a><a href="/museums/">Mineral Museums</a><a href="/eventlist.php">Mineral Shows &amp; Events</a><a href="/directory.php">The Mindat Directory</a><a href="/device_settings.php">Device Settings</a></div>
 <div class="expandmenu" id="photomenu">
 <a href="/photoscroll.php">Photo Search</a><a href="/gallery_list.php">Photo Galleries</a><a href="/gallery.php?d=today">New Photos Today</a><a href="/gallery.php?d=yesterday">New Photos Yesterday</a><a href="/picusers.php">Members' Photo Galleries</a><a href="/gallery.php?potd=1">Past Photo of the Day Gallery</a></div>
+
+
 
 
 
@@ -222,12 +297,12 @@ function usearch(ctrl)
 <div id="topmainbannertablet"></div>
 <div id="topmainbannerphone"></div>
 <div class="fpbox990nl">
-<h1>Privacy Policy - Last updated 6th January 2015</h1>
+<h1>Privacy Policy - Last updated 18th April 2018</h1>
 <p>Mindat.org is a scientifc database based on the contributions of its members. As these contributions become part of the permanent record of the mindat.org database, and because
 everything must be attributable to those who entered it, it is very important that you understand what information we capture, what information you voluntarily give us, and how
 that information is used and your rights in removing such information in the future.</p>
 <p><b>Use of Cookies</b></p>
-<p>Mindat.org uses cookies to store personal preferences relating to the use of the website. We do not use cookies in any way to track your activities. This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information - http://www.google.com/privacy.html
+<p>Mindat.org uses cookies to store personal preferences relating to the use of the website. We do not use cookies in any way to track your activities. This website uses tracking software to monitor its visitors to better understand how they use it. To learn more about cookies and the implications of their use please visit this page on the website of the <a href="https://ico.org.uk/for-the-public/online/cookies/">Information Commissioner's Office (UK)</a>.<br><br>This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information - <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>.
 </p><p><b>Information that we collect</b></p>
 <p>We collect information in two ways, information that you provide yourself when registering or entering data into the site, and information that is collected automatically.</p>
 <p>In some cases third parties may provide information about you, including your name (for example, if you are the author of a scientific paper).</p>
@@ -252,7 +327,8 @@ experience for you.</p>
 <p>No personal information will be sold or provided to any third party organization.</p>
 <p>Although this website only looks to include quality, safe and relevant external links, users are advised adopt a policy of caution before clicking any external web links mentioned throughout this website.</p>
 <p>We reserve the right to update and/or replace this privacy policy at any time without warning. We advise you to regularly check this page and cease using the site should you feel unhappy with any of the terms included.</p>
-</div>
+<p>If you have any concerns please feel free to <a href="contact.php">contact us</a>.
+</p></div>
 <div id="backdropad" class="hidetablet hidephone"></div>
 <div id="backdroptext" class="hidetablet hidephone"></div>
 <div id="backdropadt" class="hidephone hidepc"></div>
@@ -262,6 +338,8 @@ experience for you.</p>
 <video id="backdropvid"></video>
 <div id="backdropfade"></div>
 </div><div id="bformblock">
+<img id="bfimg1">
+<img id="bfimg2">
 <form class="flatform" method="get" action="/nsearch.php">
 Mineral 
  <input name="name" style="width: 137px;">
@@ -271,18 +349,22 @@ and/or Locality <input name="loc" style="width: 137px;">&nbsp;<input type="submi
 
 
 <div id="footertext">
-Mindat.org is an outreach project of the Hudson Institute of Mineralogy, a 501(c)(3) not-for-profit organization.<br>Copyright © mindat.org and the Hudson Institute of Mineralogy 1993-2017, except where stated. Mindat.org relies on the contributions of thousands of members and supporters. 
+Mindat.org is an outreach project of the Hudson Institute of Mineralogy, a 501(c)(3) not-for-profit organization.<br>Copyright © mindat.org and the Hudson Institute of Mineralogy 1993-2018, except where stated. Mindat.org relies on the contributions of thousands of members and supporters. 
 <br><a href="/privacy.php">Privacy Policy</a> - <a href="/terms.php">Terms &amp; Conditions</a> -
 <a href="/contact.php">Contact Us</a>
 	
 	
-<span style="float: right">Current server date and time: November 19, 2017 21:05:44
+<span style="float: right">Current server date and time: June 14, 2018 05:53:31
 
 </span>
 
-<div class="clearer"></div><div><a href="javascript:scroll(0,0)">Go to top of page</a></div>
-</div>
-<script>
+<div class="clearer"></div>
+<div>
+				
+				
+
+<a href="javascript:scroll(0,0)">Go to top of page</a></div>
+</div><script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
 	ga('create', 'UA-41671786-1', 'mindat.org');
