@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedbox.info privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023184014id_/http%3A//feedbox.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedbox.info privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614212229id_/http%3A//feedbox.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FeedBox.info
 
