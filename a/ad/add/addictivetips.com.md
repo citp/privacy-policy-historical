@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the addictivetips.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235916id_/https%3A//www.addictivetips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictivetips.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614193928id_/https%3A//www.addictivetips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AddictiveTips
 
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of AddictiveTips.
 
 AddictiveTips will never ask for Credit Card details and request that you do not enter it on any of the forms on AddictiveTips.
-
-AddictiveTips does not use affiliate links on the site and request that you notify us immediately if you come across any.
 
 AddictiveTips uses Google Adsense to display advertisement and Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to AddictiveTips users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
