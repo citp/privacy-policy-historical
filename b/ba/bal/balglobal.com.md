@@ -1,160 +1,245 @@
-> *The following text is extracted and transformed from the balglobal.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224193416id_/http%3A//www.balglobal.com/terms-of-use-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balglobal.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614205415id_/http%3A//www.balglobal.com/terms-of-use-and-privacy-policy) for the most accurate reproduction.*
 
 # Terms of use and privacy policy | B A L | Berry Appleman & Leiden LLP
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=cd0ba536-08d1-4698-891f-37acbfdde3eb "TRUSTe Privacy Certification")
 
-**Privacy and Cookies Policy**
+**PRIVACY AND COOKIES POLICY**
 
-Effective October 6, 2017
+Effective Date: 05/30/2018
 
-**Privacy and Cookies Policy**
+**1\. Who we are**
 
 Berry Appleman and Leiden LLP is a limited liability partnership organized under the laws of the State of California and has offices in Austin, Boston, Dallas, Houston, McLean, Va., San Francisco and Washington D.C. Berry Appleman and Leiden LLP has affiliate firms, Berry Appleman & Leiden Limited (England), Berry ** ** Appleman & Leiden Consultoria e Assessoria de Imigração Ltda. (Brazil), Berry Appleman & Leiden (Shanghai) Co., Ltd (China), Berry Appleman & Leiden MENA DMCC (United Arab Emirates), Berry Appleman & Leiden Asia Pacific Pte Ltd (Singapore) and Berry Appleman & Leiden Pty Ltd (Australia) (together referred to as “ **BAL** ” or “ **we** ”, “ **our** ”, or “ **us** ”).
 
-This Privacy and Cookies Policy describes how BAL collects certain personal information through various means, including questionnaires and its website, [ **www.balglobal.com**](http://www.balglobal.com/) (the “Website”) and BAL’s use of that information.
+This Privacy and Cookies Policy describes how BAL collects Personal Data (defined below) through various means, including questionnaires, [**www.balglobal.com**](http://www.balglobal.com/) (the “Website”) and its secured access sites, including, but not limited to **cobalt.balglobal.com** **(the “Secured Access Sites”),** and BAL’s use of that Personal Data. This Privacy and Cookies Policy applies to Personal Data collected by BAL and its affiliate firms including, but not limited to all Websites and/or Secured Access Sites that post a link to this Privacy and Cookies Policy.
 
-Information may be shared between Berry Appleman and Leiden LLP and its affiliate firms. In relation to the processing of information in the context of Berry Appleman & Leiden Limited, a company incorporated under the laws of England and Wales, for the purposes of the UK Data Protection Act 1998, the data controller is Berry Appleman & Leiden Limited which is registered under that Act under registration number ZA102963.
+Personal Data means any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to physical, psychological, genetic, mental, economic, cultural or social identity of that natural person.  Sensitive Personal Data means information that reveals racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, data concerning health and data concerning a natural person’s sex life or sexual orientation.
 
-BAL is committed to ensuring that your privacy is protected. The following describes what information is collected and explains how that information may be used and shared with third parties and secures the personal information you provide. It also describes your choices regarding use, access and correction of your personal information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged BAL. By visiting the Website you are accepting and consenting to BAL’s collection and use of personal data as described in this Privacy and Cookies Policy.
+This Privacy and Cookies Policy applies to Personal Data BAL collects: (i) under the direction of its clients, both from the client itself and directly from individuals (known as the client employee or beneficiary) (“Client Personal Data”); and (ii) otherwise than under the direction of its clients, for example, from visitors to its Website (“Visitor Personal Data”).
 
-  1. **Information we may collect from you**
+Personal Data may be shared between Berry Appleman and Leiden LLP and its affiliate firms. Where BAL collects and uses Personal Data about individuals in the European Union (“EU”), it will comply with all applicable data protection laws as they may vary from time to time (including, but not limited to, the UK Data Protection Act 1998 (the “Act”) and the General Data Protection Regulation (Regulation (EU) 2016/679 (“GDPR”)) (“Applicable Data Protection Laws”).
 
+In relation to Client Personal Data, BAL is a “Processor” for the purposes of the Applicable Data Protection Laws.  This means BAL will only process the Personal Data it collects concerning a client, client employees and client employees’ dependants, in accordance with written instructions from its client, which is the “Controller” for the purposes of the Applicable Data Protection Laws.
 
+In relation to Visitor Personal Data, BAL is the “Controller” for the purposes of Applicable Data Protection Laws.  Berry Appleman & Leiden Limited, a company incorporated under the laws of England and Wales, is registered as a “Controller” under the Act under registration number ZA322857.
 
-We may collect and process the following information about you:
+BAL has appointed a Data Protection Officer who can be contacted at privacy@balglobal.com
 
-  * **Information** **you give us**  by submitting online forms on our websites [ **balglobal.com/**](http://www.balglobal.com/en-us/home.aspx), [ **www.balglobal.com/cims**](http://www.balglobal.com/cims), cobalt.balglobal.com and [ **www.balglobal.com/statuschek**](http://www.balglobal.com/statuschek). You may use an online form, for example, to register for a seminar sponsored by BAL or to receive news. The information you enter may include, for example, your name, title, company, address, telephone number and e-mail address. If BAL is handling your visa or immigration matter, the information you provide may include your personal and family information, educational background, and employment history.
-  * **Information we collect about you** with regard to each of your visits to the Website, including: 
+BAL is committed to ensuring that your privacy is protected. The following describes what Personal Data is collected and explains how that Personal Data may be used and shared with third parties and how BAL secures the Personal Data you provide us. It also describes the rights you have in relation to the collection and use of your Personal Data.
+
+**2\. The Personal Data we collect**
+
+The types of Personal Data we collect and how we use it depends on why and how you provide it to us.
+
+We may collect and process the following Personal Data about you:
+
+  * **Personal Data you give us.** You may give us Personal Data in two ways: 
+    * First, by submitting online forms on the Website, for example, to register for a seminar sponsored by BAL or to receive news. The Personal Data you enter may include, for example, your name, title, company, address, telephone number, and e-mail address.  This is considered Visitor Personal Data.
+    * Second, if BAL is handling your visa or immigration matter, you may give us Personal Data by submitting online forms on the Secured Access Sites. This may include your personal and family information, educational background, employment history, and Sensitive Personal Data.  This is considered Client Personal Data.
+  * **Personal Data we collect about you** with regard to each of your visits to the Website (which is considered Visitor Personal Data), including: 
     * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; and
     * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from the Website (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. The automatically collected information is stored in log files. We do not link this collected data to other information we collect about you.
+  * **Personal Data we get from third parties and public sources.** If BAL is handling your visa or immigration matter, we may obtain Personal Data about you from your employer, our client, and from public sources.  Such public sources may include, but are not limited to, social media sites such as LinkedIn, Facebook and Instagram, Google Scholar and other internet searches.  This is considered Client Personal Data. The Client Personal data about you that we may obtain and process will depend on the specific nature of an engagement and the services we are providing including, but not limited to: 
+    * Names;
+    * Addresses, telephone numbers, email addresses, and other contact details;
+    * Age/Date of birth
+    * Nationality and country of residence;
+    * Gender;
+    * Familial/relationship situation;
+    * Information relating to educationand qualifications;
+    * Information relating to employment;
+    * Ethnicity;
+    * Other information connected to health; and
+    * Criminal records or similar details.
 
 
-  2. **Use of your information**
+
+We do not alter our data collection and use practices in response to Do Not Track signals.
+
+**3\. How we use your Personal Data**
+
+The legal basis that we rely upon to process your Personal Data may depend on how it is collected and used.  In most cases, the legal basis will fall into one of the following categories:
+
+  * Where you have provided consent for us to use your Personal Data;
+  * Where the processing is necessary for the performance of a contract with you and/or your employer and us;
+  * Where the processing is necessary for compliance with a legal obligation we have; and
+  * Where the processing is necessary for our legitimate interests.
 
 
 
-We do not sell your personal information to third parties. BAL will not share the information with any third party, except as otherwise set forth in this Privacy and Cookies Policy.
+In relation to Client Personal Data, the use of Personal Data collected through our service shall be limited to the purpose of providing the service for which our client has engaged us.
 
-BAL may share the information:
+We may use your Personal Data for the following purposes:
+
+  * **Personal Data you give us.** We will use this Personal Data: 
+    * To provide immigration services to you and your family;
+    * To carry out our obligations arising from any contracts entered into between you and/or your employer and us; and
+    * To provide you with the information and services that you request from us.
+  * **Personal Data we collect about you.** We will use this Personal Data: 
+    * To administer the Website and/or Secured Access Sites and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+    * To improve the Website and/or Secured Access Sites to ensure that content is presented in the most effective manner for you and for your computer or device;
+    * To allow you to participate in interactive features of our service, when you choose to do so;
+    * As part of our efforts to keep the Website and/or Secured Access Sites safe and secure;
+    * To measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and
+    * To make suggestions and recommendations to you and other users of the Website and/or Secured Access Sites about goods or services that may interest you or them.
+  * **Personal Data we get from third parties and public sources.** We will use this Personal Data: 
+    * To provide immigration services to you and your family;
+    * To carry out our obligations arising from any contracts entered into between you and/or your employer and us; and
+    * To provide you with the information and services that you request from us.
+
+
+
+BAL would also like to use your Personal Data to communicate with you directly via e-mail or direct mail, such as to inform you about newsworthy topics and upcoming events that may be of interest to you, or to confer with you regarding your immigration case. For example, BAL would like to use your e-mail address to send you the firm's Legal Update newsletter, to send you an announcement concerning an upcoming seminar, or to send you questions or drafts relating to your immigration case. When collecting your Personal Data BAL will seek your consent to being contacted in this way.
+
+If, after agreeing to be contacted in the manner described above, you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or by contacting us at [ **help@balglobal.com**](mailto:help@balglobal.com).
+
+**4\. With whom we will share your Personal Data**
+
+We do not sell your Personal Data to third parties. BAL does not share your Personal Data with third parties for those third parties’ direct marketing use. BAL will not share your Personal Data with any third party, except as otherwise set forth in this Privacy and Cookies Policy.
+
+BAL may share your Personal Data:
 
   * To complete your request or as necessary to provide immigration services to you and your family, including disclosure to government agencies in the form of applications and petitions for immigration benefits.
-  * To companies that provide services to help us with our business activities such as offering
+  * To third party service providers who perform services and functions on our behalf to assist us with our business activities and to support our interactions with you including, for example, processing immigration documentation or customer service.  These third party service providers are authorized to use your Personal Data only as necessary to provide these services to us and on our behalf.
+  * As permitted or required by law. For example, BAL may provide the Personal Data in response to a subpoena, bankruptcy proceedings, a law enforcement or governmental agency request, or a court order or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or other legitimate purpose.
+  * In the event that we sell or buy any business or assets, in which case we may disclose your Personal Data to the prospective seller or buyer of such business or assets.
+  * If BAL or any of its affiliates or substantially all of its or its affiliates’ assets are acquired by a third party, in which case Personal Data held by it about its clients, client employees and employees’ dependents will be one of the transferred assets.
+  * In the event our client wishes to engage alternative legal advisors, we may transfer your Personal Data to those advisors.
 
 
 
-  customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+**5\. Where we will store your** **Personal Data**
 
-  * As permitted or required by law. For example, BAL may provide the information in response to a subpoena, bankruptcy proceedings, a law enforcement or governmental agency request, or a court order or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud.
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If BAL or any of its affiliates or substantially all of its or its affiliate’s assets are acquired by a third party, in which case personal data held by it about its clients will be one of the transferred assets.
+The Personal Data that you give us, that we collect from you and that we get from third parties may be transferred to, and stored at, a destination within the United States or where our affiliate firms are located.  This Personal Data may be processed by staff operating at such destinations.  We will take all steps reasonably necessary to ensure that your Personal Data is treated securely, and in accordance with this Privacy and Cookies Policy, and to prevent unauthorized disclosure of Personal Data.
 
+Please be aware that the United States, and other countries in which our affiliate firms are located, may not provide the same level of protections as the laws of your country.  BAL is certified under the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework.  Please see Section 10 below for more information about this.
 
+**6\. Security**
 
-BAL may also use the information to communicate with you directly via e-mail or direct mail, such as to inform you about newsworthy topics and upcoming events that may be of interest to you, or to confer with you regarding your immigration case. For example, BAL may use your e-mail address to send you the firm's Legal Update newsletter, to send you an announcement concerning an upcoming seminar, or to send you questions or drafts relating to your immigration case. If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or by contacting us at [ **help@balglobal.com**](mailto:help@balglobal.com). To guard your nonpublic personal information, we maintain physical, electronic and procedural safeguards. After our services conclude, Berry Appleman & Leiden LLP will, as a courtesy to you, retain the personal data you have provided for a period of seven (7) years. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. At the end of such period, we may, at our discretion, destroy such personal data without notice to you.
+To guard your Personal Data, we maintain physical, electronic
 
-  3. **Updating/Accessing/Amending/Correcting Personally Identifiable Information**
+and procedural safeguards.
 
+BAL may implement security features to prevent the unauthorized release of Personal Data. Please note, however, that BAL cannot guarantee the confidentiality of any communication or material transmitted to/from BAL via the Website or email. Accordingly, BAL is not responsible for the security of Personal Data transmitted via the Internet and any transmission is at your own risk.
 
+When you enter any Sensitive Personal Data (such as your legal status) on the Website and/or Secured Access Sites, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-Upon request BAL will provide you with information about whether we hold any of your personal information. If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, or deactivate it by making the change on our member information page or by emailing our Customer Support at [ **help@balglobal.com**](mailto:help@balglobal.com) or by contacting us by telephone or postal mail at the contact information listed below. We will endeavour to respond to your request within a reasonable timeframe.
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website and/or Secured Access Sites, you are responsible for keeping this password confidential.  We ask you not to share your password with anyone.
 
-**Information Related to Data Collected for our Clients**  
-BAL collects information under the direction of its Clients/Employers and also the individual directly, known as the client employee or beneficiary. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
+**7\. Links to other websites**
 
-BAL acknowledges that you have the right to access your personal information. An individual who has a relationship with BAL through their employer “BAL’s Client” and who therefore is the employee/beneficiary, who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the BAL team working on their case, or [ **help@balglobal.com**](mailto:help@balglobal.com). In the event that you would like data to be removed from BAL’s systems the individual should contact their employer BAL’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
+The Website and/or Secured Access Sites includes links to other websites whose privacy practices may differ from those of BAL. If you submit Personal Data to any of those websites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit. We are not responsible for the privacy practices of others. Any link to a website owned by a third party does not constitute an endorsement, approval, association, sponsorship or affiliation with the linked site unless specifically stated.
 
-We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. BAL will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. This same process also applies to any service provider that was engaged with in order to render the service to you.
+The Website includes Social Media Features, such as the Facebook Like button and Widgets, such as the “Share this” button or interactive mini-programs that run on the Website. These features may collect your IP address, which page you are visiting on the Website, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on the Website. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-  4. **Links to other websites**
+**8\. Children’s Privacy**
 
+The Website and/or Secured Access Sites are general audience sites not directed at children under the age of 13.  If we obtain actual knowledge that any Personal Data we collect has been provided by a child under the age of 13, we will promptly delete that information.
 
+**9\. Personal Data retention**
 
-The Website includes links to other websites whose privacy practices may differ from those of BAL. If you submit personal information to any of those websites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit. We are not responsible for the privacy practices of others. Any link to a website owned by a third party does not constitute an endorsement, approval, association, sponsorship or affiliation with the linked site unless specifically stated.
+In relation to Visitor Personal Data, we will retain your Personal Data for as long as it is required to fulfil the purposes for which it was collected, and/or for as long as is necessary for the protection and pursuit of our legal rights and obligations under any laws that are applicable to our operations.  After that time, we will destroy your Personal Data without notice to you and request that anyone to whom we have transferred your Personal Data to also destroy it.
 
-The Website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on the Website. These features may collect your IP address, which page you are visiting on the Website, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on the Website. Your interactions with these features are governed by the privacy policy of the company providing it.
+In relation to Client Personal Data, we will retain Personal Data we process on behalf of our clients for as long as needed to provide services to our clients, and/or for as long as is necessary for the protection and pursuit of our legal rights and obligations under any laws that are applicable to our operations.  After that time, we will destroy your Personal Data without notice to you and request that anyone to whom we have transferred your Personal Data also destroy it.
 
-  5. **Cookies and Other Tracking Technologies**
+**  10. ** **Your rights**
 
+If you are in the EU or UK, you have a number of rights under Applicable Data Protection Laws, which include the right to:
 
-
-Within our pubic website [ **www.balglobal.com**](http://www.balglobal.com/), we and our marketing partners, affiliates, or analytics or service providers, use technologies such as cookies, beacons, tags, scripts, and other similar technologies to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. Within the secured sites access cobalt.balglobal.com, [ **www.balglobal.com/cims**](http://www.balglobal.com/cims) and [ **www.balglobal.com/statuschek**](http://www.balglobal.com/statuschek) we use cookies only for session and authentication purposes as well as preference and profile information.
-
-In order to improve the Website, we may use small files commonly known as “cookies”. A cookie is a small amount of data which often includes a unique identifier that is sent to your computer, tablet or mobile phone (referred to in this Privacy and Cookies Policy as a ‘device’) from the Website and is stored on your device’s hard drive.
-
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. We may use third party cookies placed on our Sites by third parties acting on our behalf.
-
-How can you control the use of cookies from the Website?
-
-If you don't want us to use cookies when you use the Website, you can adjust your internet browser settings not to accept cookies. Your web browser's help function should tell you how to do this. Alternatively, to find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit the website: [ **http://www.allaboutcookies.org**](http://www.allaboutcookies.org/). This website will also explain how you can delete cookies which are already stored on your device.
-
-We currently set the following cookies:
-
-[**http://www.balglobal.com/home/tracker.aspx**](http://www.balglobal.com/en-us/home/tracker.aspx)
-
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking  **[here](http://preferences-mgr.truste.com/)**  (or if located in the European Union click  **[here](http://www.youronlinechoices.eu/)).** Please note this does not opt you out of being served ads. You will continue to receive generic ads.
-
-When you download and use BAL Cobalt mobile application, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID").
-
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
-
-  6. **Security of information and transmission via the internet**
+  * Access a copy of the Personal Data BAL holds about you;
+  * Correct any inaccuracies in the Personal Data BAL holds about you;
+  * In certain circumstances, request that BAL erase the Personal Data we hold about you;
+  * Restrict how BAL may process your Personal Data;
+  * Object to your Personal Data being used for direct marketing;
+  * Request that the Personal Data BAL holds about you be transferred to another entity; and
+  * Withdraw any consent you have given to BAL to process your Personal Data.
 
 
 
-BAL may implement security features to prevent the unauthorized release of personal information. Please note, however, that BAL cannot guarantee the confidentiality of any communication or material transmitted to/from BAL via the Website or email. Accordingly, BAL is not responsible for the security of information transmitted via the Internet and
+If you would like a copy of the Personal Data BAL holds about you, please send a description of the Personal Data you would like to access and proof of your identity to our Customer Support team by emailing [**help@balglobal.com**](mailto:help@balglobal.com) or by contacting us by telephone or postal mail at the contact information listed below.
 
-any transmission is at your own risk.
+If you would like to invoke any of your other rights, you can either make the appropriate change on our member information page or you can email our Customer Support at [ **help@balglobal.com**](mailto:help@balglobal.com) or contact us by telephone or postal mail at the contact information listed below.
 
-When you enter any sensitive information (such as your legal status) on the Website, we encrypt the transmission of that information using secure socket layer technology (SSL).
+**If you would like to invoke any of your rights with respect to Client Personal Data, you should contact your employer, BAL’s client (the Controller).**
 
-By submitting your e-mail address to BAL, you opt-in to receiving e-mail from BAL. You may opt-out of receiving further e-mail by following the unsubscribe instructions included in the email or by contacting [ **privacy@balglobal.com**](mailto:privacy@balglobal.com).
+**11\. Privacy Shield**
 
-  7. **Right of access**
+BAL LLP participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  BAL is committed to subjecting all Personal Data received from EU member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at  **<https://www.privacyshield.gov/list>.**
 
+BAL is responsible for the processing of Personal Data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  BAL complies with the Privacy Shield Principles for all onward transfers of Personal Data from the EU and Switzerland, including the onward transfer liability provisions.
 
+With respect to Personal Data received or transferred pursuant to the Privacy Shield Frameworks, BAL is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, BAL may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Upon request, and subject to any exemptions which may apply, we will grant you reasonable access to personal information that we hold about you within a reasonable period of time from the date of the request.
-
-Any access request may be subject to a reasonable fee to meet our costs in providing you with details of the information we hold about you.
-
-  8. **Transfer, storage, and processing of information**
-
-
-
-The information that you give us or that we collect from you may be transferred to, and stored at, a destination within the United States or where our affiliate firms are located. This data may be processed by staff operating at such destinations. We endeavor to ensure appropriate security measures are in place to prevent unauthorized disclosure of personal information. By submitting your personal data, you agree to this transfer, storing, or processing.
-
-  9. **Privacy Shield**
-
-
-
-BAL LLP participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  BAL is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
-
-BAL is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  BAL complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, BAL is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, BAL may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at **https://feedback-form.truste.com/watchdog/request**.
 
 Under certain conditions, more fully described on the Privacy Shield website at ** **[ **https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint**](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-  10. **Changes to this Privacy and Cookies Policy**
+**12\. Cookies and Other Tracking Technologies**
 
+This section explains how and why cookies, web beacons, pixels, clear gifs, and other similar technologies (collectively “Cookies and Other Tracking Technologies”) may be stored on and accessed from your device.
 
+**_What are Cookies and Other Tracking Technologies?_**
 
-Any changes to this Privacy and Cookies Policy will be made through a revised posting on the website. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Website prior to the change becoming effective.
+A cookie is a small text file that can be stored on and accessed from your device when you visit the Website and/or Secured Access Sites, to the extent you agree.  The other tracking technologies work similarly to cookies and place small data files on your devices or monitor your website activity to enable us to collect information about how you use the Website and/or Secured Access Sites. This allows the Website and/or Secured Access Sites to recognize your device from those of other users of the Website and/or Secured Access Sites. The information provided below about cookies also applies to these other tracking technologies. You can find more information at [**www.allaboutcookies.org**](http://www.allaboutcookies.org/) and [**www.youronlinechoices.eu**](http://www.youronlinechoices.eu/).
 
-  11. **Contact us**
+_How does the Website and/or Secured Access Sites use cookies?_
 
+BAL uses cookies to identify you and your interests, to remember your preferences, and to track your use of the Website and/or Secured Access Sites. We also use cookies to control access to certain content on the Website and/or Secured Access Sites, protect the Website and/or Secured Access Sites, and to process any requests that you make of us.
 
+To administer the Website and/or Secured Access Sites and for research purposes, BAL has also contracted with third-party service providers to track and analyze usage and volume statistical information from users of the Website and/or Secured Access Sites. These third-party service providers use persistent cookies to help us to improve the user experience, manage the content on our Website and/or Secured Access Sites, and analyze how users navigate and utilize the Website and/or Secured Access Sites.
 
-If you have any concerns, questions or complaints regarding BAL’s privacy policy or practices, please contact BAL at [**privacy@balglobal.com**](mailto:privacy@balglobal.com).
+_First and third-party cookies_
+
+“First party cookies” are cookies that belong to BAL and that BAL places on your device. “Third-party cookies” are cookies that another party places on your device through our Site. BAL also contracts with third-party service providers to send e-mails to users who have provided us with their contact information. To help measure and improve the effectiveness of our e-mail communications, to determine whether messages have been opened and links clicked on, the third-party service providers place cookies on the devices of these users.  All Personal Data collected by this third-party service provider on behalf of BAL is used solely by or on behalf of BAL and is shared externally only on an anonymous, aggregated basis.
+
+For more information on how these companies collect and use information on our behalf, please refer to their privacy policies.
+
+We use the following types of cookies:
+
+**Persistent Cookies**. We use persistent cookies to improve your experience of using the Website and/or Secured Access Sites. This includes recording your acceptance of our cookie policy to remove the cookie message which first appears when you use the site.
+
+**Session Cookies**. These cookies are temporary and deleted from your machine when your web browser closes. We use session cookies to help us track internet usage as described above.
+
+You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of the Website and/or Secured Access Sites. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to the Website and/or Secured Access Sites.
+
+The Personal Data collected by the Website and/or Secured Access Sites through cookies that may be placed on your computer will not be kept for longer than is necessary to fulfil the purposes mentioned above. In any event, such Personal Data may not be kept for longer than one year.
+
+Our cookies are used for the following purposes:
+
+**Cookie Type** | **Purpose**  
+---|---  
+Strictly necessary/ Technical | These cookies are necessary to allow us to operate the Website and/or Secured Access Sites so you may access them as you have requested. These cookies, for example, let us recognize that you have created an account and have logged into that account to access content on the Website and/or Secured Access Sites. They also include cookies that enable us to remember your previous actions within the same browsing session and secure the Website and/or Secured Access Sites.  
+Analytical /Performance | These cookies are used by us or our business partners to analyze how the Website and/or Secured Access Sites are used and how they are performing. For example, these cookies track what pages are most frequently visited, and what locations our visitors come from. If you subscribe to a newsletter or otherwise register with the Website and/or Secured Access Sites, these cookies may be correlated to you. These cookies include, for example, Google Analytics cookies.  
+Functionality | These cookies let us operate the Website and/or Secured Access Sites in accordance with the choices you make. These cookies permit us to "remember" you in-between visits. For instance, we will recognize your user name and remember how you customized the Website and/or Secured Access Sites and services, for example by adjusting text size, fonts, languages and other parts of web pages that are alterable, and provide you with the same customizations during future visits.  
+Third-Party Advertising | We may allow our business partners to use cookies on our Website and/or Secured Access Sites for the same purposes identified above, including collecting information about your online activities over time and across different websites. The business partners that generate these cookies, such as Adobe and Google, have their own privacy policies, and may use their cookies to target advertising to you on other websites, based on your visit to the Website and/or Secured Access Sites.  
+  
+For more information about cookies, please see the Information Commissioner's website home page or the [**Interactive Advertising Bureau**](https://www.iab.net/privacymatters/index.php).
+
+_How do I refuse or withdraw my consent to the use of cookies?_
+
+If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’ / ‘tool’ or ‘edit’ section or see **www.allaboutcookies.org**.  Please note that if you use your browser settings to block all cookies (including strictly necessary cookies) you may not be able to access or use all or parts or functionalities of the Website and/or Secured Access Sites.
+
+If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent the Website and/or Secured Access Sites from placing further cookies on your device unless and until you adjust your Internet browser setting as described above.
+
+For more information on the development of user-profiles and the use of targeting/advertising cookies, please see **www.youronlinechoices.eu** if you are located in Europe or **www.aboutads.info/choices if in the United States**.
+
+**13.** **Changes to this Privacy and Cookies Policy**
+
+Any changes to this Privacy and Cookies Policy will be made through a revised posting on the Website. If we make any material changes to this Privacy Policy that increase our rights to use Personal Data we have previously collected about you, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Website prior to the change becoming effective.
+
+**14\. Contact us**
+
+If you have any concerns, questions or complaints regarding BAL’s privacy policy or practices, please contact BAL at [ **privacy@balglobal.com**](mailto:privacy@balglobal.com).
 
 Berry Appleman & Leiden LLP  
-555 Mission Street, Suite 900  
+555 Mission Street  
+Suite 900  
 San Francisco  
 California  
 94105  
-Tel: (855) 225-4570
+Tel: (415) 398-1800
+
+If any complaint remains unresolved you have the right to lodge a complaint with an appropriate supervisory authority or the U.S. Department of Commerce.
 
 ##### __Show {{ isHidden ? 'More' : 'Less'}}
