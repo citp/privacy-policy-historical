@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idiva.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206224544id_/https%3A//www.idiva.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idiva.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614200836id_/https%3A//www.idiva.com/privacypolicy) for the most accurate reproduction.*
 
 # Women's Beauty, Style, Fitness, Entertainment, Lifestyle, Relationships, Careers | iDiva
 
