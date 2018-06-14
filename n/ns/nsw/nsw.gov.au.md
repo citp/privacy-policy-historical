@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228010105id_/https%3A//www.nsw.gov.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614194013id_/https%3A//www.nsw.gov.au/privacy-statement) for the most accurate reproduction.*
 
 # NSW Government Website Privacy Statement » NSW Government
 
@@ -15,7 +15,7 @@ Ph: (02) 9228 5555
 
 Users of this site are entitled to expect that any information collected as a result of that use will be treated within the terms of the New South Wales Government's privacy responsibilities and obligations.  The New South Wales Government's privacy practices are regulated by the New South Wales Privacy and Personal Information Protection Act 1998.
 
-## What information do we collect?
+### What information do we collect?
 
 When you look at the pages on this site, our computers automatically record information that identifies, for each page accessed:
 
@@ -37,13 +37,13 @@ They record your preferences in relation to your use of the site and provide us 
 
 The cookies on this site do not read the information on your hard drive. They do not make your computer perform any actions or make your computer send information to any other computer via the internet. The Department of Premier and Cabinet makes no attempt to associate cookies with users' names or identities. Our server cannot find out your name or email address, or anything about your computer, by using cookies.
 
-## How do we use the information collected?
+### How do we use the information collected?
 
 The information collected during each visit is aggregated with similar logged information and published in reports in order for Department of Premier and Cabinet to identify patterns of usage of the site. This will assist us in improving this site and the services offered on it.
 
 The Department of Premier and Cabinet will not disclose or publish information that identifies individual machines, or potentially identifies sub-groupings of addresses, without consent or otherwise in accordance with the New South Wales Privacy and Personal Information Protection Act 1998.
 
-## What exceptions are there to this rule?
+### What exceptions are there to this rule?
 
 The Department of Premier and Cabinet will collect, use and disclose more extensive information than stated above in the following circumstances:
 
@@ -60,11 +60,11 @@ The Department of Premier and Cabinet reserves the right to make disclosures to 
 
 In the event of an investigation, the Department of Premier and Cabinet will provide access to data to any law enforcement agency that may exercise a warrant to inspect our logs.
 
-## Is the information stored securely?
+### Is the information stored securely?
 
 Yes. Information collected is stored in an appropriately secure format and held by the Department of Premier and Cabinet for archival purposes. When the information is no longer required for the purposes for which it was collected it is deleted.
 
-## What will we do with information provided as feedback?
+### What will we do with information provided as feedback?
 
 The Department of Premier and Cabinet provides feedback facilities on this site to allow users to provide input into the future development of the site and to comment on the provision of service by the Department.
 
@@ -72,7 +72,7 @@ Users provide personal details for the purpose of receiving a reply to their fee
 
 The Department of Premier and Cabinet may publish aggregated information about feedback on the site, to the extent that it does not identify or cannot be used to identify individual users.
 
-## Newsletter subscriptions
+### Newsletter subscriptions
 
 The Department of Premier and Cabinet is requesting this information from you so that we can provide you with regular updates about NSW Government activities through an email newsletter.
 
@@ -86,7 +86,7 @@ The email newsletter is offered as an ‘opt in’ subscription. You can 'opt ou
 
 You may request access to your information at any time. To access or update your personal information, or for more information on our privacy obligations, ask to speak to our Privacy Officer.
 
-## Who else has access to information within the Department?
+### Who else has access to information within the Department?
 
 The Communications and Engagement Branch captures this information on its own computers and through the use of third-party analytical software such as Google Analytics. Access to the raw data is restricted to a limited number of officers in Communications and Engagement Branch, ServiceFirst - our Hosts, and the Department of Premier and Cabinet for the purpose of analysis and to report on the success of the site in meeting the Department's communication and access objectives. If you would like to access information held about you by ServiceFirst please contact:
 
@@ -97,6 +97,8 @@ Sydney NSW 2001
 
 Ph: (02) 9228 5555
 
-## Will this policy be updated over time?
+### Will this policy be updated over time?
 
 Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time. The amended policy will be posted to this site and will operate from the time it is posted.
+
+Published 8th March, 2017 
