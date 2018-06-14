@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primatelabs.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210051236id_/http%3A//www.primatelabs.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primatelabs.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614071111id_/http%3A//www.primatelabs.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
