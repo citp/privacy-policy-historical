@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220233758id_/https%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614024214id_/https%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - CodeProject
 
-Last updated: Tuesday, May 10, 2011
+Last updated: Wednesday, May 23, 2018
 
 CodeProject is committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience.
 
@@ -62,7 +62,7 @@ Of course, any time you choose to post an editorial, or other message on the Sit
 
 ### Cookies
 
-We use cookies, a piece of text stored on a user’s computer by their web browser, to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process. We also use a session cookie, meaning it expires soon after you leave the registration process and is not placed on your hard drive, to store your session information during your visit to the Site.
+We use cookies, a piece of text stored on a user’s computer by their web browser, to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process. We also use a session cookie, meaning it expires soon after you leave the registration process and is not placed on your hard drive, to store your session information during your visit to the Site. Read our [Cookie Policy](https://web.archive.org/web/20180614024214id_/https%3A//www.codeproject.com/info/Cookies.aspx) for more information.
 
 ### Anonymous Information
 
@@ -105,9 +105,10 @@ Except as specifically provided for in this privacy policy, we do not disclose a
   1. To conform to the edicts of the law or comply with legal process served to CodeProject, or the Site; 
   2. protect and defend the rights or property of CodeProject and our family of Web sites, including without limitation investigating potentially fraudulent or questionable activities regarding your account(s) or the use of the Site; 
   3. To act in urgent circumstances to protect the personal safety of users of CodeProject, our Web sites, or the public;
-  4. To offer you related products and services that might benefit you; 
-  5. In anticipation of and in the course of an actual or potential sale, reorganization, consolidation, merger or amalgamation of our business; and
-  6. Otherwise as permitted or required by law.
+  4. To offer you related products and services that might benefit you (see below); 
+  5. As part of a single-sign on solution from providers such as GitHub and Google;
+  6. In anticipation of and in the course of an actual or potential sale, reorganization, consolidation, merger or amalgamation of our business; and
+  7. Otherwise as permitted or required by law.
 
 
 
@@ -116,6 +117,8 @@ The type of information we are legally required to disclose may relate to crimin
 In addition, CodeProject occasionally hires other companies to provide limited services on our behalf, including packaging, mailing and delivering prizes, answering customer questions about products and services, sending postal mail, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service, and they are prohibited from using that information for any other purpose. 
 
 You may be offered the option to provide your information to certain third parties as part of an advertising promotion, special section, sponsored download, or other area on the Site. You will be made aware of the use of your information before you provide it, and the use thereof will be limited to the use to which you agreed. 
+
+Finally, for your convenience, we offer single sign-on solutions for account login. These these third parties (including GitHub and Google, among others) may receive information from these services when you elect to use them.
 
 ### Email Addresses
 
@@ -137,7 +140,7 @@ Electronic customer files are kept in a highly secured environment with restrict
 
 We manage our server environment appropriately and our firewall infrastructure is strictly adhered to. Our security practices are reviewed on a regular basis and we routinely employ current technologies to ensure that the confidentiality and privacy of your information is not compromised.
 
-Our web site uses Secure Socket Layer (SSL) and 128 bit encryption technologies to enhance security when you visit the secured areas of these sites. SSL is the industry standard tool for protecting and maintaining the security of message transmissions over the Internet. When you access your accounts or send information from secured sites, encryption will scramble your data into an unreadable format to inhibit unauthorized access by others. 
+Our web site uses Transport Layer Security (TLS) and 256 bit encryption technologies to enhance security when you visit the secured areas of these sites. TLS is the industry standard tool for protecting and maintaining the security of message transmissions over the Internet. When you access your accounts or send information from secured sites, encryption will scramble your data into an unreadable format to inhibit unauthorized access by others. 
 
 ### Our Employees and your Personal Information:
 
