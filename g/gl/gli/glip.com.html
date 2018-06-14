@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the glip.com privacy policy that was archived on 2017-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171226213300id_/https%3A//www.ringcentral.com/legal/privacy-notice.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the glip.com privacy policy that was archived on 2018-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180614192928id_/https%3A//www.ringcentral.com/legal/privacy-notice.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta name="Content-Type" content="text/html; charset=UTF-8">
@@ -15,14 +15,14 @@
 <link href="/content/dam/ringcentral/images/favicon.ico" type="image/vnd.microsoft.icon" rel="icon">
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
-    <link rel="stylesheet" href="/etc/designs/ringcentral/clientlibs.min.css" type="text/css">
+    <link rel="stylesheet" href="/etc/designs/ringcentral/clientlibs.min.8e968cfc086055f5c126269f281cd9d9.css" type="text/css">
 <meta name="page_brand" content="">
 <meta name="page_section" content="">
 <meta name="page_type" content="">
 <meta name="page_level_1" content="">
 <meta name="page_level_2" content="">
-<link rel="stylesheet" href="/etc/designs/ringcentral/clientlibs_features.min.css" type="text/css">
-<link rel="stylesheet" href="/etc/designs/ringcentral/clientlibs_legal.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/ringcentral/clientlibs_features.min.d6216b269cc127d1e95b72aedcaecbd9.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/ringcentral/clientlibs_legal.min.59546e32682effeb3aae2d59ffb20c13.css" type="text/css">
 <link href="/etc/designs/ringcentral.css" rel="stylesheet" type="text/css">
 <!--link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:400,700,300,300italic,400italic,700italic" /-->
 
@@ -45,74 +45,309 @@
     </script>
     <!-- AB test -->
 
-    <script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js"></script>
-<script type="text/javascript" src="/etc/designs/ringcentral/clientlibs.min.js"></script>
-<script type="text/javascript" src="/etc/designs/ringcentral/components/videoApi/clientlibs.min.js"></script>
+    <script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.min.9b99a59f2b9044b36d6f8914bce2a34c.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.min.0c5bacf31f611604d5973c1fb9d3bc36.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.b09e67739aad739f61ec0f0e17c9870b.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.dd9b395c741ce2784096e26619e14910.js"></script>
+<script type="text/javascript" src="/etc/designs/ringcentral/clientlibs.min.e250883041ab1a5443a56b04051c3d18.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
-	<link rel="stylesheet" href="/etc/designs/ringcentral/clientlibs_responsive.min.css" type="text/css">
-<script type="text/javascript" src="/etc/designs/ringcentral/clientlibs_responsive.min.js"></script>
-<style>
-	ul.cstm-list-contacts, .responsivePage .id-rc-textimage .text_bl ul.cstm-list-contacts {
-		padding-left: 0;
-		margin-left: 0;
-	}
-	ul.cstm-list-contacts li, .rc-content .id-rc-expandlist ul.cstm-list-contacts li, .rc-content .text_bl ul.cstm-list-contacts li {
-		padding-bottom: 0;
-		margin-left: 0;
-		padding-left: 0;
-	}
+	<link rel="stylesheet" href="/etc/designs/ringcentral/clientlibs_responsive.min.c81275b375aeebe19ef3507345f4eddf.css" type="text/css">
+<script type="text/javascript" src="/etc/designs/ringcentral/clientlibs_responsive.min.277301abcf586818b71482ceb9bb22a8.js"></script>
+<script>
+        if(typeof window.gw_rc === 'undefined') window.gw_rc = {};
+        window.gw_rc.adobeTarget = {
+            profile: {
+                skiptest: skipTargetTests()
+			}
+        };
 
-	ul.no-img-list li, .rc-content .id-rc-expandlist ul.no-img-list li, .rc-content .text_bl ul.no-img-list li {
-		background: none;
-	}
-	ul.no-img-list li::before, .rc-content .id-rc-expandlist ul.no-img-list li::before, .rc-content .text_bl ul.no-img-list li::before {
-		display: none;
-	}
-</style><!-- Redesign AB test -->
+        function skipTargetTests(){
+            var testLaunch = true, i = 0;
+            var cookies = ['offermatica_campaign'];
+            for(i; i < cookies.length; i++){
+                if(document.cookie.indexOf(cookies[i]) !== -1) {
+                    testLaunch = false;
+                    break;
+                }
+            }
+            return !testLaunch;
+        }
+        function targetPageParamsAll() {
+            return {
+                profile: window.gw_rc.adobeTarget.profile
+            };
+        }
+	</script>
+
+	<!-- Redesign AB test -->
 	<script>
         (function(){
-            // remove gw_redesign cookie if user is not entered ab test
+            var v;
+            // remove gw_redesign cookies if user has not entered ab test, or subdomain has been loaded
+            var exceptions = [
+                'servicestatus.ringcentral.com',
+                'compare.ringcentral.com'
+            ];
             if(
-                !!CookiesManager.getCookie('gw_oppid') ||
-                !!CookiesManager.getCookie('gw_otm') ||
-                !!CookiesManager.getCookie('offermatica_campaign') ||
-                /(^|; )gw_active_user=1(;|$)/.test(document.cookie) ||
-                (/(^|; )VISITOR=0(;|$)/.test(document.cookie))
+                skipTargetTests() ||
+                exceptions.some(function(domain){
+                    return location.host.match(domain)
+                })
             ){
+                CookiesManager.delCookie("gw_redesign", "/");
+                CookiesManager.delCookie("gw_redesign_segment", "/");
                 CookiesManager.delCookie("gw_redesign", "/", ".ringcentral.com");
+                CookiesManager.delCookie("gw_redesign_segment", "/", ".ringcentral.com");
                 return false;
             }
             var redirects = {
                 '/solutions/small-business.html': '/small-business_b.html',
-                '/office/how-it-works.html': '/office/smb.html',
                 '/solutions/enterprise-business.html': '/enterprise-business_b.html'
             };
-            if(!!CookiesManager.getCookie('gw_redesign')) {
-                //  inside ab test: redirect user to redesign pages from relevant old pages
-                if(typeof redirects[location.pathname] !== 'undefined'){
+            var hp_redirect = {
+                'b': '/home.html',
+                'c': '/home_c.html',
+                'e': '/home_b.html',
+                'f': '/home_e.html'
+            };
+            var hiw = {
+                'old': '/office/how-it-works.html',
+                'small': '/office/smb.html',
+                'enterprise': '/office/ent.html'
+            };
+            var gw_redesign_cookie = CookiesManager.getCookie('gw_redesign');
+            if(!!gw_redesign_cookie) {
+                // inside ab test:
+                // set cookie depended on selected segment
+                if(location.pathname === '/small-business_b.html' || location.pathname === hiw.small){
+                    setSegmentCookie('small');
+                } else if(location.pathname === '/enterprise-business_b.html' || location.pathname === hiw.enterprise){
+                    setSegmentCookie('enterprise');
+                }
+
+                var segment = CookiesManager.getCookie('gw_redesign_segment');
+
+                // redirect from old HP to redesigned HP
+                if(location.pathname === '/') {
+                    for (v in hp_redirect) {
+                        if (!hp_redirect.hasOwnProperty(v)) continue;
+                        if (gw_redesign_cookie === v) {
+                            location.href = hp_redirect[v];
+                        }
+                    }
+                    // redirect from old HIW page to redesigned HIW depended on selected segment
+                } else if(location.pathname === hiw.old){
+                    if(segment === 'enterprise'){
+                        location.href = hiw.enterprise;
+                    } else {
+                        location.href = hiw.small;
+                    }
+                    //  redirect user to redesign pages from relevant old pages
+                } else if(typeof redirects[location.pathname] !== 'undefined'){
                     location.href = redirects[location.pathname];
                 }
-                
-                // inside ab test: add className to html tag on old pages
+
+                // add className to html tag on old pages
                 document.documentElement.className += " force-redesign";
-				
+
+                $('html').attr('data-segment', segment);
             } else {
                 // outside ab test: add gw_redesign cookie on first user's visit to splash page (enter point to ab test)
-                if(location.pathname === '/home.html'){
-                    CookiesManager.setCookie('gw_redesign', '1', 30, '/', '.ringcentral.com');
+                for(v in hp_redirect){
+                    if(!hp_redirect.hasOwnProperty(v)) continue;
+                    if(location.pathname === hp_redirect[v]){
+                        CookiesManager.setCookie('gw_redesign', v, 30, '/');
+                    }
                 }
                 // outside ab test: add gw_start_from_secondary_page cookie if user comes to secondary page first - to avoid ab test
-                else if(location.pathname !== '/' && !CookiesManager.getCookie("gw_start_from_secondary_page")){
-                    CookiesManager.setCookie('gw_start_from_secondary_page', '1', 30, '/', '.ringcentral.com');
+                if(location.pathname !== '/' && !CookiesManager.getCookie('gw_redesign') && !CookiesManager.getCookie("gw_start_from_secondary_page")){
+                    CookiesManager.setCookie('gw_start_from_secondary_page', '1', 30, '/');
                 }
             }
+
+            function setSegmentCookie(value){
+                CookiesManager.setCookie('gw_redesign_segment', value, 30, '/');
+            }
+
         })();
+        $(document).ready(function (e) {
+            var gw_redesign_cookie = CookiesManager.getCookie('gw_redesign');
+
+            if(!!gw_redesign_cookie) {
+            	$('[onclick]').each(function (e) {
+                    if($(this).attr('onclick').indexOf('gotoSecure') != -1){
+                        var onclickValue = $(this).attr('onclick');
+                        var regexp = /.*gotoSecure\(\s*(?:"|')([^'"]+)(?:"|')[^()]+\).*/g;
+                        var findText = regexp.exec(onclickValue);
+                        var newValueForOnclick = findText[1];
+
+                        if(newValueForOnclick.indexOf('?') != -1){
+                            onclickValue = onclickValue.replace(newValueForOnclick, newValueForOnclick + '&skipsecuretest=1');
+                        }else{
+                            onclickValue = onclickValue.replace(newValueForOnclick, newValueForOnclick + '?skipsecuretest=1');
+                        }
+                        $(this).attr('onclick', onclickValue);
+                    }
+				})
+			}
+		});
+
 	</script>
 <script>
+	(function(){
+	    if(!!CookiesManager.getCookie('gw_redesign')){
+            CookiesManager.delCookie("gw_redesign", "/");
+            CookiesManager.delCookie("gw_redesign", "/", ".ringcentral.com");
+		}
+        setRedesignClass();
+	    $(window).on('resize', function(){
+            setRedesignClass();
+		});
+        if(location.pathname === '/solutions/small-business.html' || location.pathname === '/office/how-it-works.html'){
+            setSegmentCookie('small');
+        } else if(location.pathname === '/solutions/enterprise-business.html' || location.pathname === '/office/ent.html'){
+            setSegmentCookie('enterprise');
+        }
+        var segment = CookiesManager.getCookie('gw_redesign_segment');
+        $('html').attr('data-segment', segment);
+
+        function setSegmentCookie(value){
+            CookiesManager.setCookie('gw_redesign_segment', value, 30, '/');
+        }
+        function setRedesignClass(){
+            if(window.matchMedia('(max-width: 979px)').matches){
+                $('html').removeClass("force-redesign");
+            } else {
+                $('html').addClass("force-redesign");
+            }
+		}
+	})();
+</script>
+<style>
+.force-redesign .footerBlock:first-child .container {
+    width: auto;
+}
+</style><link rel="alternate" hreflang="en" href="https://www.ringcentral.com/legal/privacy-notice.html">
+<link rel="alternate" hreflang="en-ca" href="https://www.ringcentral.ca/legal/privacy-notice.html">
+<link rel="alternate" hreflang="en-gb" href="https://www.ringcentral.co.uk/legal/privacy-notice.html">
+<link rel="alternate" hreflang="fr" href="https://www.ringcentral.fr/legal/privacy-policy.html">
+<link rel="alternate" hreflang="en-ie" href="https://www.ringcentral.ie/legal/privacy-notice.html">
+<link rel="alternate" hreflang="en-nl" href="https://www.ringcentral.nl/en/legal/privacy-notice.html">
+<link rel="alternate" hreflang="en-au" href="https://www.ringcentral.com.au/legal/privacy-notice.html">
+<style>
+	ul.cstm-list-contacts, .responsivePage .id-rc-textimage .text_bl ul.cstm-list-contacts {
+		padding-left: 0;
+		margin-left: 0;
+		}
+	ul.cstm-list-contacts li, .rc-content .id-rc-expandlist ul.cstm-list-contacts li, .rc-content .text_bl ul.cstm-list-contacts li {
+		padding-bottom: 0;
+		margin-left: 0;
+		padding-left: 0;
+		}
+
+	ul.no-img-list li, .rc-content .id-rc-expandlist ul.no-img-list li, .rc-content .text_bl ul.no-img-list li {
+		background: none;
+		}
+	ul.no-img-list li::before, .rc-content .id-rc-expandlist ul.no-img-list li::before, .rc-content .text_bl ul.no-img-list li::before {
+		display: none;
+		}
+</style><script>
+        (function(){
+            if (/(^|; )VISITOR=0(;|$)/.test(document.cookie)) {
+                var domain = get_domain_cookie();
+                var exp = (new Date( (new Date()).getTime() + 30*24*60*60*1000) ).toUTCString();
+                CookiesManager.setCookie('gw_active_user', 1, exp, '/', domain);
+            }
+        })();
+    </script>
+<script>
     window.dataLayer = {};
+    window.dataLayer.utils = {
+        loggingCookieName: 'gw_datalayer_info',
+        formatString: function(str, format){
+            if(typeof format !== 'string') return str;
+            switch (format){
+                case 'uppercase':
+                    return str.toUpperCase();
+                    break;
+                case 'lowercase':
+                    return str.toLowerCase();
+                    break;
+                case 'capitalize':
+                    return str.charAt(0).toLowerCase() + str.slice(1).toLowerCase();
+                    break;
+                case 'capitalize-all':
+                    var words = str.split(' ');
+                    var wordFormatted = '', strFormatted = '';
+                    for(var i = 0; i < words.length; i++){
+                        wordFormatted = words[i].charAt(0).toUpperCase() + words[i].slice(1).toLowerCase();
+                        words[i] = wordFormatted;
+                    }
+                    strFormatted = words.join(' ');
+                    return strFormatted;
+                    break;
+                default:
+                    return str;
+            }
+        },
+
+        setLogging: function(value){
+            if(value){
+                CookiesManager.setCookie(this.loggingCookieName, 1, 30, "/");
+            } else {
+                CookiesManager.delCookie(this.loggingCookieName, "/");
+            }
+        },
+
+        logEvent: function(event, data){
+            var self = this;
+            var eventTextStyle = "font-weight: bold; color: green;";
+            var dataTextStyle = "font-weight: normal; color: black;";
+            var msg = "Data Layer << " + event + " event:";
+            var log = "%c" + msg.toUpperCase() + " %c%s";
+            if(!!CookiesManager.getCookie(self.loggingCookieName)){
+                data = self.parseNotEmptyData(data);
+                data !== null && console.log(log, eventTextStyle, dataTextStyle, JSON.stringify(data));
+            }
+        },
+
+        logStaticLayer: function() {
+            var self = this;
+            if(!!CookiesManager.getCookie(self.loggingCookieName)) {
+                var data = {
+                    guid: window.dataLayer.eventer.generateGUID(),
+                    eVar9: window.dataLayer.eVar9,
+                    page: window.dataLayer.page,
+                    marketingIDs: window.dataLayer.marketingIDs,
+                    user: window.dataLayer.user,
+                    product: window.dataLayer.product
+                };
+                data = self.parseNotEmptyData(data);
+                data !== null && console.log("Data Layer %s", JSON.stringify(data));
+            }
+        },
+
+        parseNotEmptyData: function(data){
+            var result = null;
+            var isZero = function(data) {
+                return data === 0;
+            };
+
+            if(typeof data === 'object'){
+                for(var prop in data){
+                    if(!data.hasOwnProperty(prop)) continue;
+                    var parsedData = this.parseNotEmptyData(data[prop]);
+                    if(parsedData !== null) {
+                        if(result === null) result = {};
+                        result[prop] = parsedData;
+                    }
+                }
+            } else {
+                if( data || isZero(data) ) result = data;
+            }
+            return result;
+        }
+    };
     window.dataLayer.eventer = {
 
         generateGUID: function () {
@@ -140,7 +375,7 @@
         getComponentId: function(el) {
             var result = this.getWrapperId(el, 'CId-');
             if (!result) {
-                this.DataLayerEventerException("Couldn't get a 'component'", el);
+                this.dataLayerEventerException("Couldn't get a 'component'", el);
             }
             return result;
         },
@@ -148,7 +383,7 @@
         getInstanceId: function(el) {
             var result = this.getWrapperId(el, 'IId-');
             if (!result) {
-                this.DataLayerEventerException("Couldn't get an 'instance'", el);
+                this.dataLayerEventerException("Couldn't get an 'instance'", el);
             }
             return result;
         },
@@ -170,22 +405,31 @@
                 }
             }
             if (!result) {
-                this.DataLayerEventerException("Couldn't get an 'element'", el);
+                this.dataLayerEventerException("Couldn't get an 'element'", el);
             }
             return result;
         },
 
         getName: function(el) {
-            var result = $(el).attr('data-dtm-name') || $(el).attr('name') || $(el).attr('title') || $(el).attr('alt');
+            var result = '';
+            var textAsName = $(el).data('dtm-text-as-name');
+            var nameFormat = $(el).data('dtm-name-format');
+            if(typeof textAsName !== 'undefined') result = $(el).text();
+            if (!result || !result.length) {
+                result = $(el).attr('data-dtm-name') || $(el).attr('title') || $(el).attr('alt') || $(el).attr('name');
+            }
             if (!result) {
-                if ($(el).prop('tagName') == 'A' || $(el).data('dtm-text-as-name')) {
+                if ($(el).prop('tagName') == 'A') {
                     result = $(el).text();
                 }
             }
             if (result) {
                 result = result.trim().replace(/\s+/g, ' ');
+                if(typeof nameFormat !== 'undefined'){
+                    result = window.dataLayer.utils.formatString(result, nameFormat);
+                }
             } else {
-                this.DataLayerEventerException("Couldn't get a 'name'", el);
+                this.dataLayerEventerException("Couldn't get a 'name'", el);
             }
             return result;
         },
@@ -197,7 +441,7 @@
                     result = $(el).attr('href');
                     if(!!result){
                         var filesMatching = result.match(/(?:[^/]+\.)+([^/.]+)$/);
-                        var allowedExtensions = ['pdf', 'pkg', 'exe', 'msi'];
+                        var allowedExtensions = ['pdf', 'pkg', 'exe', 'msi', 'zip'];
                         if(filesMatching !== null && allowedExtensions.indexOf(filesMatching[1]) !== -1){
                             result = filesMatching[0];
                         }
@@ -209,19 +453,20 @@
 
         getAdditionalInfo: function(el){
             var result = null,
-                attrPrefix = 'data-dtm-additional-';
-            if(el.hasAttributes()){
-                var attributes = el.attributes;
-                for (var key in attributes) {
-                    if(!attributes.hasOwnProperty(key)) continue;
-                    var attr = attributes[key];
-                    if(attr.name.indexOf(attrPrefix) === 0){
-                        var prop = attr.name.replace(attrPrefix, '');
-                        if(result == null) result = {};
-                        result[prop] = attr.value.trim().replace(/\s+/g, ' ');
-                    }
+                attrPrefix = 'data-dtm-additional-',
+                formatPostfix = '-format';
+            $.each(el.attributes, function(i, attr){
+                if(attr.name.indexOf(attrPrefix) !== 0) return true;
+                if(attr.name.indexOf(formatPostfix) === attr.name.length - formatPostfix.length) return true;
+                if(result === null) result = {};
+                var prop = attr.name.replace(attrPrefix, '');
+                var propValue = attr.value.trim().replace(/\s+/g, ' ');
+                var formatAttr = $(el).attr(attr.name + formatPostfix);
+                if(typeof formatAttr !== 'undefined'){
+                    propValue = window.dataLayer.utils.formatString(propValue, formatAttr);
                 }
-            }
+                result[prop] = propValue
+            });
             return result;
         },
 
@@ -238,8 +483,22 @@
             var additionalInfo = this.getAdditionalInfo(el);
             if(additionalInfo) result.additional = additionalInfo;
             window.dataLayer.events[event] = result;
-            console.log("Data Layer << %s event: %s", typeof eventName !== 'undefined' ? eventName : event, JSON.stringify(result));
+            window.dataLayer.utils.logEvent(typeof eventName !== 'undefined' ? eventName : event, result);
             return result;
+        },
+
+        createCustomEvent: function(eventName){
+            if(typeof eventName !== 'string') {
+                this.dataLayerEventerException("Custom event name is not defined");
+            } else {
+                var result = {
+                    guid: this.generateGUID(),
+                    name: eventName
+                };
+                window.dataLayer.events.custom = result;
+                window.dataLayer.utils.logEvent('custom', result);
+                return result;
+            }
         },
 
         elementToString: function(el){
@@ -249,12 +508,12 @@
             return (tagName + id + classes);
         },
 
-        DataLayerEventerException: function(message, el) {
+        dataLayerEventerException: function(message, el) {
             var exception = {
                 message: message,
                 element: this.elementToString(el)
             };
-            console.log("Data Layer exception: %s", JSON.stringify(exception));
+            console.warn("Data Layer exception: %s", JSON.stringify(exception));
         },
 
         createPopupEvent: function(params) {
@@ -268,19 +527,7 @@
                 data.name = this.getName(arguments[1]);
             }
             window.dataLayer.events.popup = data;
-            console.log("Data Layer << popup show event: %s", JSON.stringify(data));
-        },
-
-        logStaticLayer: function() {
-            var data = {
-                guid: this.generateGUID(),
-                page: window.dataLayer.page,
-                marketingIDs: window.dataLayer.marketingIDs,
-                user: window.dataLayer.user,
-                product: window.dataLayer.product
-            };
-            if(!!window.dataLayer.eVar9) $.extend(data, {eVar9: window.dataLayer.eVar9});
-            console.log("Data Layer %s", JSON.stringify(data));
+            window.dataLayer.utils.logEvent('popup show', data);
         },
 
         formTrackingWrapper: function(params) {
@@ -311,7 +558,7 @@
                 };
                 data = $.extend({}, data, formData);
                 window.dataLayer.events.form.start = data;
-                console.log("Data Layer << form start event: %s", JSON.stringify(data));
+                window.dataLayer.utils.logEvent('form start', data);
             };
             this.trackError = function(formData){
                 var data = {
@@ -323,7 +570,7 @@
                 };
                 data = $.extend({}, data, formData);
                 window.dataLayer.events.form.error = data;
-                console.log("Data Layer << form error event: %s", JSON.stringify(data));
+                window.dataLayer.utils.logEvent('form error', data);
             };
             this.trackSuccess = function(formData){
                 var data = {
@@ -331,11 +578,12 @@
                     name: this.name,
                     url: this.url,
                     component: this.component,
-                    instance: this.instance
+                    instance: this.instance,
+                    transactionId: CookiesManager.getCookie('gw_ttmeta_id') || ''
                 };
                 data = $.extend({}, data, formData);
                 window.dataLayer.events.form.success = data;
-                console.log("Data Layer << form success event: %s", JSON.stringify(data));
+                window.dataLayer.utils.logEvent('form success', data);
             }
         },
 
@@ -352,7 +600,7 @@
                     section: this.section
                 };
                 window.dataLayer.events.video.play = playEvent;
-                console.log("Data Layer << video play event: %s", JSON.stringify(playEvent));
+                window.dataLayer.utils.logEvent('video play', playEvent);
             };
 
             this.trackStop = function(videoDuration, watchedTime) {
@@ -374,7 +622,7 @@
                     progress: milestone
                 };
                 window.dataLayer.events.video.stop = stopEvent;
-                console.log("Data Layer << video stop event: %s", JSON.stringify(stopEvent));
+                window.dataLayer.utils.logEvent('video stop', stopEvent);
             };
         },
 
@@ -400,13 +648,14 @@
             marketingIDs: {
                 aid: CookiesManager.getCookie('gw_aid') || '',
                 bmid: CookiesManager.getCookie('gw_bmid') || '',
+                bmid_lead: CookiesManager.getCookie('gw_bmid_lead') || '',
                 cid: CookiesManager.getCookie('gw_cid') || '',
                 oid: GetParamsManager.is_set('oid') || '',
                 pid: CookiesManager.getCookie('gw_pid') || '',
                 vid: CookiesManager.getCookie('vid') || ''
             },
             user: {
-                NotActiveUser: CookiesManager.getCookie('gw_active_user') != 1,
+                NotActiveUser: (CookiesManager.getCookie('gw_active_user') != 1).toString(),
                 role: window.dataLayer.eventer.getUserRole()
             },
             product: {
@@ -493,25 +742,41 @@
                         ls: '',
                         result: '',
                         component: '',
-                        instance: ''
+                        instance: '',
+                        transactionId: CookiesManager.getCookie('gw_ttmeta_id') || ''
                     }
+                },
+                search: {
+                    // Required
+                    guid: '',
+                    component: '',
+                    instance: '',
+                    url: '',
+                    additional: {
+                        query: '',
+                        quantity: ''
+                    }
+                },
+                custom: {
+                    guid: '',
+                    name: ''
                 }
             }
         };
         $.extend(window.dataLayer, dataLayerProperties);
     })();
 
-    window.dataLayer.eventer.logStaticLayer();
+    window.dataLayer.utils.logStaticLayer();
 
     $(function(){
         var hoverTimeout = null;
         var hoverDTMDelay = 500;
         $(document)
             .on("click", "[data-dtm-element], a:not([data-dtm-element])", function(e) {
-                if($(this).is('[data-dtm-events-hover]') || $(this).is('[href^=tel]') || $(this).is("[data-dtm-element='number']")) return;
+                if($(this).is('[data-dtm-events-hover]') || $(this).is('[href^=tel]') || $(this).is("[data-dtm-element='number']") || $(this).is("#demandbase-autocomplete a")) return;
                 var event = window.dataLayer.eventer.createBasicEvent(this, 'click');
                 var regexp = /^((https?:\/\/)|(\/\/?))/i;
-                if (event.tag == 'A' && (this.getAttribute('target') != '_blank') && !e.ctrlKey && regexp.test(event.url) && !e.isDefaultPrevented()) {
+                if (event.tag == 'A' && (this.getAttribute('target') != '_blank') && !e.ctrlKey && !e.metaKey && regexp.test(event.url) && !e.isDefaultPrevented()) {
                     e.preventDefault();
                     var url = this.getAttribute('href');
                     setTimeout(function() {
@@ -545,7 +810,9 @@
 
 </script>
 <script src="//assets.adobedtm.com/7618e9029c8436bd1b1d926078af6c171547716a/satelliteLib-6a2174b97a08b9aec9b3d70c6730208f9350651c.js"></script>
-</head><body class="basepage IId-basepage--1434517338 CId-basepage--1520584481 page  grey_body    lang-en_us responsivePage">
+
+                    <script async="" src="https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"477666",ustr:"",originlat:"0",clientrtt:"3",ghostip:"173.245.199.73",ipv6:false,pct:"10",clientip:"207.241.229.64",requestid:"41d51a67",region:"13698",protocol:"",blver:14,akM:"c",akN:"ae",akTT:"O",akTX:"1",akTI:"41d51a67",ai:"342485",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head><body class="basepage page IId-basepage--1434517338 CId-basepage--1520584481  grey_body    lang-en_us responsivePage">
 <div class="bodyWrapper">
     <!-- BEGIN AfterBodyStartArea -->
 <!-- END AfterBodyStartArea -->
@@ -570,7 +837,7 @@ function getCookie(name){
 	})
 	</script>
 <!-- END AfterPropertyBodyStartArea -->
-<div class="CId-rc-navigationPrimary-mobile--1133174743 rc-navigationPrimary-mobile IId-rc-navigationPrimary-mobile--654060492"><script>
+<div class="rc-navigationPrimary-mobile CId-rc-navigationPrimary-mobile--1133174743 IId-rc-navigationPrimary-mobile--654060492"><script>
  $(function() {
 		 $('.sideMenu li > a,.sideMenu .demo, .sideMenu .free-trial-button').on('click',function(){
 			var linkText = $(this).attr('title');
@@ -582,16 +849,18 @@ function getCookie(name){
 			$('body').removeClass('mobileMenuOpened');
 		})
 	});
-</script><link rel="stylesheet" href="/etc/designs/ringcentral/components/rc-navigationPrimary-mobile/clientlibs.min.css" type="text/css">
-<nav class="sideMenu"><a class="logo"></a><ul><li class="parent_products sub expandable" title="Products"><p>Products</p><ul class="subList"><li><a title="RingCentral Office" class="ico ico-office" href="/office/how-it-works.html">RingCentral Office<br><span class="subtitle">Cloud Phone System</span></a></li><li><a title="RingCentral Contact Center" class="ico ico-contactCenter" href="/contact-center/overview.html">RingCentral Contact Center<br><span class="subtitle">Contact Center Solutions</span></a></li><li><a title="RingCentral Glip" class="ico ico-glip" href="/teams/overview.html">RingCentral Glip<br><span class="subtitle">Team Messaging &amp; Collaboration</span></a></li><li><a title="RingCentral Professional " class="ico ico-pro" href="/pro/features/how-it-works.html">RingCentral Professional <br><span class="subtitle">Inbound Call Management</span></a></li><li><a title="RingCentral Fax" class="ico ico-fax" href="/fax/features/how-it-works.html">RingCentral Fax<br><span class="subtitle">Complete Fax Solution</span></a></li></ul></li><li class="parent_technology sub expandable" title="Technology"><p>Technology</p><ul class="subList"><li><a title="Overview" class="" href="/technology/overview.html">Overview</a></li><li><a title="Reliability" class="" href="/technology/reliability.html">Reliability</a></li><li><a title="Security" class="" href="/technology/security.html">Security</a></li><li><a title="Quality of Service" class="" href="/technology/qos.html">Quality of Service</a></li><li><a title="User Experience" class="" href="/technology/user-experience.html">User Experience</a></li><li><a title="Integrations &amp; APIs" class="" href="/technology/integrations-apis.html">Integrations &amp; APIs</a></li></ul></li><li class="parent_apps sub expandable" title="Apps"><p>Apps</p><ul class="subList"><li><a title="RingCentral Mobile App" class="mobileAppLink" href="/office/features/rcmobile/overview.html">RingCentral Mobile App</a></li><li><a title="RingCentral Meetings" class="meetingsAppLink" href="/office/features/online-meetings/overview.html">RingCentral Meetings</a></li><li><a title="RingCentral Glip" class="glipAppLink" href="/teams/overview.html">RingCentral Glip</a></li></ul></li><li class="parent_support sub expandable" title="Support"><p>Support</p><ul class="subList"><li><a title="Customer Care Center" class="blank" href="https://success.ringcentral.com/" target="_blank">Customer Care Center</a></li><li><a title="Learning Center" class="" href="/resources/learning-center.html">Learning Center</a></li><li><a title="Professional Services" class="" href="/solutions/professional-services.html">Professional Services</a></li><li><a title="Community" class="" href="/community/index.html">Community</a></li></ul></li><li class="parent_about sub expandable" title="About us"><p>About us</p><ul class="subList"><li><a title="Company" class="" href="/whyringcentral/company.html">Company</a></li><li><a title="Careers" class="" href="/company/careers/overview.html">Careers</a></li><li><a title="Blog" class="" href="/blog/">Blog</a></li><li><a title="Contact Us" class="" href="/whyringcentral/contactus.html">Contact Us</a></li></ul></li></ul><div class="free-trial-block">
+</script><link rel="stylesheet" href="/etc/designs/ringcentral/components/rc-navigationPrimary-mobile/clientlibs.min.39d21b27d24f777e0d7167d35c6a2a30.css" type="text/css">
+<nav class="sideMenu"><a class="logo" data-dtm-name="Logo"></a><ul><li class="parent_products sub expandable" title="Products"><p>Products</p><ul class="subList"><li><a title="RingCentral Office" class="ico ico-office" href="/office/how-it-works.html">RingCentral Office<br><span class="subtitle">Cloud Phone System</span></a></li><li><a title="RingCentral Meetings" class="ico ico-meetings" href="/online-meetings/overview.html">RingCentral Meetings<br><span class="subtitle">HD Audio and Video Conferencing</span></a></li><li><a title="RingCentral Contact Center" class="ico ico-contactCenter" href="/contact-center/overview.html">RingCentral Contact Center<br><span class="subtitle">Contact Center Solutions</span></a></li><li><a title="RingCentral Glip" class="ico ico-glip" href="/teams/overview.html">RingCentral Glip<br><span class="subtitle">Team Messaging &amp; Collaboration</span></a></li><li><a title="RingCentral Professional " class="ico ico-pro" href="/pro/features/how-it-works.html">RingCentral Professional <br><span class="subtitle">Inbound Call Management</span></a></li><li><a title="RingCentral Fax" class="ico ico-fax" href="/fax/features/how-it-works.html">RingCentral Fax<br><span class="subtitle">Complete Fax Solution</span></a></li></ul></li><li class="parent_technology sub expandable" title="Technology"><p>Technology</p><ul class="subList"><li><a title="Overview" class="" href="/technology/overview.html">Overview</a></li><li><a title="Reliability" class="" href="/technology/reliability.html">Reliability</a></li><li><a title="Security" class="" href="/technology/security.html">Security</a></li><li><a title="Quality of Service" class="" href="/technology/qos.html">Quality of Service</a></li><li><a title="User Experience" class="" href="/technology/user-experience.html">User Experience</a></li><li><a title="Integrations &amp; APIs" class="" href="/technology/integrations-apis.html">Integrations &amp; APIs</a></li></ul></li><li class="parent_apps sub expandable" title="Apps"><p>Apps</p><ul class="subList"><li><a title="RingCentral Mobile App" class="mobileAppLink" href="/office/features/rcmobile/overview.html">RingCentral Mobile App</a></li><li><a title="RingCentral Meetings" class="meetingsAppLink" href="/office/features/online-meetings/overview.html">RingCentral Meetings</a></li><li><a title="RingCentral Glip" class="glipAppLink" href="/teams/overview.html">RingCentral Glip</a></li></ul></li><li class="parent_support sub expandable" title="Support"><p>Support</p><ul class="subList"><li><a title="Customer Care Center" class="blank" href="https://success.ringcentral.com/" target="_blank">Customer Care Center</a></li><li><a title="Learning Center" class="" href="/resources/learning-center.html">Learning Center</a></li><li><a title="Professional Services" class="" href="/solutions/professional-services.html">Professional Services</a></li><li><a title="Community" class="" href="/community/index.html">Community</a></li></ul></li><li class="parent_about sub expandable" title="About us"><p>About us</p><ul class="subList"><li><a title="Company" class="" href="/whyringcentral/company.html">Company</a></li><li><a title="Careers" class="" href="/company/careers/overview.html">Careers</a></li><li><a title="Blog" class="" href="/blog/">Blog</a></li><li><a title="Contact Us" class="" href="/whyringcentral/contactus.html">Contact Us</a></li></ul></li></ul><div class="free-trial-block">
 		<a href="/office/plansandpricing.html#mobileOfficeForm" data-dtm-element="button" class="free-trial-button" title="Free Trial">Free trial</a>
 	</div>
-	<div class="demo_button demo" data-dtm-element="button" title="View Demo"><p>View Demo</p></div><div class="CId-rc-countrySelector--335825299 IId-rc-countrySelector--555716684 rc-countrySelector"><div class="countriesNav expandable"><p class="blockHeader listHeader"><b>Country: </b> <span class="defaultCountry" id="header_country">United States</span></p><ul class="countriesList subList"><li><a title="RingCentral Canada - Virtual Office Phone System" href="https://www.ringcentral.ca"><span>Canada</span><span class="lng">En</span></a></li><li><a title="RingCentral France - Virtual Office Phone System" href="https://www.ringcentral.fr/"><span>France</span><span class="lng">Fr</span></a></li><li><a title="RingCentral Ireland - Virtual Office Phone System" href="https://www.ringcentral.ie/"><span>Ireland</span><span class="lng">En</span></a></li><li><a title="RingCentral Netherlands - Virtual Office Phone System" href="https://www.ringcentral.nl/en/"><span>Netherlands</span><span class="lng">En</span></a></li><li><a title="RingCentral Singapore - Virtual Office Phone System" href="https://www.ringcentral.com/sg/"><span>Singapore</span><span class="lng">En</span></a></li><li><a title="RingCentral UK - Virtual Office Phone System" href="https://www.ringcentral.co.uk/"><span>United Kingdom</span><span class="lng">En</span></a></li><li><a title="RingCentral US - Virtual Office Phone System" class="currentRegion" href="/"><span>United States</span><span class="lng">En</span></a></li></ul></div></div>
+	<div class="demo_button demo" data-dtm-element="button" title="View Demo"><p>View Demo</p></div><div class="rc-countrySelector CId-rc-countrySelector--335825299 IId-rc-countrySelector--555716684"><div class="countriesNav expandable"><p class="blockHeader listHeader"><b>Country: </b> <span class="defaultCountry" id="header_country">United States</span></p><ul class="countriesList subList">
+		<li><a title="RingCentral Australia - Virtual Office Phone System" href="https://www.ringcentral.com.au/" data-dtm-name="Australia"><span>Australia</span><span class="lng">En</span></a></li>
+		<li><a title="RingCentral Canada - Virtual Office Phone System" href="https://www.ringcentral.ca" data-dtm-name="Canada"><span>Canada</span><span class="lng">En</span></a></li><li><a title="RingCentral France - Virtual Office Phone System" href="https://www.ringcentral.fr/" data-dtm-name="France"><span>France</span><span class="lng">Fr</span></a></li><li><a title="RingCentral Ireland - Virtual Office Phone System" href="https://www.ringcentral.ie/" data-dtm-name="Ireland"><span>Ireland</span><span class="lng">En</span></a></li><li><a title="RingCentral Netherlands - Virtual Office Phone System" href="https://www.ringcentral.nl/en/" data-dtm-name="Netherlands"><span>Netherlands</span><span class="lng">En</span></a></li><li><a title="RingCentral Singapore - Virtual Office Phone System" href="https://www.ringcentral.sg/" data-dtm-name="Singapore"><span>Singapore</span><span class="lng">En</span></a></li><li><a title="RingCentral UK - Virtual Office Phone System" href="https://www.ringcentral.co.uk/" data-dtm-name="United Kingdom"><span>United Kingdom</span><span class="lng">En</span></a></li><li><a title="RingCentral US - Virtual Office Phone System" class="currentRegion" href="/" data-dtm-name="United States"><span>United States</span><span class="lng">En</span></a></li></ul></div></div>
 <br><br><br><br><br><br></nav>
 </div>
 <div class="wholePageWrapper">
         <span id="pageTopAnchor"></span>
-        <div class="rc_addthis IId-rc-addthis--626880582 CId-rc-addthis-44098455 rc-addthis"></div>
+        <div class="rc_addthis rc-addthis IId-rc-addthis--626880582 CId-rc-addthis-44098455"></div>
 <div class="bg_wrapper">
             <div class="rc-wrapper">
                 <header class=" CId-header--1 IId-header--1">
@@ -615,19 +884,159 @@ function getCookie(name){
 					<span class="sideMenuOpen responsive-mobile">
 						menu</span>
 				</span>
-			<div class="nov_head">
-				<a href="/" class="logo" title="RingCentral Virtual PBX, Phone and Internet Fax Service and Software" data-dtm-name="Logo"><span></span><b>RingCentral</b></a>
-				<div class="loginBlock">
-						<a class="login" href="//service.ringcentral.com/" rel="nofollow" data-trackname="Site Header|Login"> Login</a>
-					</div>
-					<div class="contactUsBlock">
-							<a href="/feedback/sales-contact.html" class="contactUsLink" data-trackname="Site Header|Request a Quote">Request a Quote</a>
+			<div class="nov_head main-head">
+						<a href="/" class="logo" title="RingCentral Virtual PBX, Phone and Internet Fax Service and Software" data-dtm-name="Logo"><span></span><b>RingCentral</b></a>
+						<div class="loginBlock">
+								<a class="login" href="//service.ringcentral.com/" rel="nofollow" data-trackname="Site Header|Login"> Login</a>
+							</div>
+							<div class="contactUsBlock">
+									<a href="/feedback/sales-contact.html" class="contactUsLink" data-trackname="Site Header|Request a Quote">Request a Quote</a>
+								</div>
+							<div class="chatBlock">
+								<div class="livepersonblock white homepage" data-trackname="Chat|Chat Start" data-dtm-element="chat-button" title="Sales Chat">
+										<span>Sales </span>Chat</div>
+							</div>
+						<p class="sale_phones">
+							<a href="tel:8005745290" class="office_phone dynamicNumber" id="DinOfficePhone">800 574 5290</a>
+						</p>
+						<div class="countriesNav IId-header--9093023747">
+								<span>Country: </span> <span class="arrow" id="header_country">United States</span>
+								<ul class="submenuNav">
+									<li>
+											<a title="RingCentral Australia - Virtual Office Phone System" href="https://www.ringcentral.com.au/" data-dtm-name="Australia">
+												<span>Australia</span>
+												<span class="lng">En</span>
+											</a>
+										</li>
+									<li>
+										<a title="RingCentral Canada - Virtual Office Phone System" href="https://www.ringcentral.ca/" data-dtm-name="Canada">
+											<span>Canada</span>
+											<span class="lng">En</span>
+										</a>
+									</li>
+									<li>
+										<a title="RingCentral France - Virtual Office Phone System" href="https://www.ringcentral.fr/" data-dtm-name="France">
+											<span>France</span>
+											<span class="lng">Fr</span>
+										</a>
+									</li>
+									<li>
+										<a title="RingCentral Ireland - Virtual Office Phone System" href="https://www.ringcentral.ie/" data-dtm-name="Ireland">
+											<span>Ireland</span>
+											<span class="lng">En</span>
+										</a>
+									</li>
+									<li>
+										<a title="RingCentral Netherlands - Virtual Office Phone System" href="https://www.ringcentral.nl/en/" data-dtm-name="Netherlands">
+											<span>Netherlands</span>
+											<span class="lng">En</span>
+										</a>
+									</li>
+									<li>
+										<a title="RingCentral Singapore - Virtual Office Phone System" href="https://www.ringcentral.sg/" data-dtm-name="Singapore">
+											<span>Singapore</span>
+											<span class="lng">En</span>
+										</a>
+									</li>
+									<li>
+										<a title="RingCentral UK - Virtual Office Phone System" href="https://www.ringcentral.co.uk/" data-dtm-name="United Kingdom">
+											<span>United Kingdom</span>
+											<span class="lng">En</span>
+										</a>
+									</li>
+									<li>
+										<a class="currentRegion" title="RingCentral US - Virtual Office Phone System" href="https://www.ringcentral.com/" data-dtm-name="United States">
+											<span>United States</span>
+											<span class="lng">En</span>
+										</a>
+									</li>
+								</ul>
+							</div>
 						</div>
-					<div class="chatBlock">
-						<div class="livepersonblock white homepage" data-trackname="Chat|Chat Start" data-dtm-element="chat-button" title="Sales Chat">
-								<span>Sales </span>Chat</div>
-						<!--  WAIT LIVE CHAT POPUP -->
-<link rel="stylesheet" href="/etc/designs/ringcentral/clientlibs_livechat.min.css" type="text/css">
+					<div class="nov_head force-head">
+							<a href="/" class="logo" title="RingCentral Virtual PBX, Phone and Internet Fax Service and Software" data-dtm-name="Logo"><span></span><b>RingCentral</b></a>
+							<div class="loginBlock">
+								<a class="login" href="//service.ringcentral.com/" rel="nofollow" data-trackname="Site Header|Login" title="Login"> Login</a>
+							</div>
+							<div class="supportBlock">
+								<a href="https://success.ringcentral.com/" target="_blank" data-trackname="Site Header|Support" class="supportLink" title="Support">
+								<span class="svgBlock">
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.56 19.98">
+										<path d="M20.76 10.45a1.47 1.47 0 0 1-1.47 1.47h-.49V8.53h.49A1.47 1.47 0 0 1 20.76 10zM3.82 11.92h-.55a1.47 1.47 0 0 1-1.47-1.47V10a1.47 1.47 0 0 1 1.47-1.47h.55zM20 6.8a8.94 8.94 0 0 0-17.4 0A3.27 3.27 0 0 0 0 10v.45a3.27 3.27 0 0 0 3.27 3.27h.55a1.8 1.8 0 0 0 1.8-1.8V8.53a1.8 1.8 0 0 0-1.07-1.65A7 7 0 0 1 18 6.91a1.8 1.8 0 0 0-1 1.62v3.39a1.8 1.8 0 0 0 1.07 1.64A5.52 5.52 0 0 1 13.26 17a.75.75 0 0 0-.14 0 2 2 0 1 0 0 1.82.89.89 0 0 0 .2 0h.09a7.46 7.46 0 0 0 6.64-5.27 3.27 3.27 0 0 0 2.48-3.16V10A3.27 3.27 0 0 0 20 6.8z"></path>
+									</svg>
+								</span>
+										Support</a>
+							</div>
+							<div class="contactUsBlock">
+								<a href="/feedback/sales-contact.html" class="contactUsLink" data-trackname="Site Header|Request a Quote" title="Request a Quote">
+										Request a Quote</a>
+							</div>
+							<p class="sale_phones">
+								<b>Sales: </b>
+								<a href="tel:8005745290" class="office_phone dotted dynamicNumber">800 574 5290</a>
+								<span class="or">
+									or
+								</span>
+									<span class="livepersonblock white homepage" data-trackname="Chat|Chat Start" data-dtm-element="chat-button" title="Chat">
+										Chat
+								</span>
+								</p>
+							<div class="countriesNav IId-header--9093023747">
+								<span>Country: </span> <span class="arrow">United States</span>
+								<ul class="submenuNav">
+									<li>
+											<a title="RingCentral Australia - Virtual Office Phone System" href="https://www.ringcentral.com.au/" data-dtm-name="Australia">
+												<span>Australia</span>
+												<span class="lng">En</span>
+											</a>
+										</li>
+									<li>
+										<a title="RingCentral Canada - Virtual Office Phone System" href="https://www.ringcentral.ca/" data-dtm-name="Canada">
+											<span>Canada</span>
+											<span class="lng">En</span>
+										</a>
+									</li>
+									<li>
+										<a title="RingCentral France - Virtual Office Phone System" href="https://www.ringcentral.fr/" data-dtm-name="France">
+											<span>France</span>
+											<span class="lng">Fr</span>
+										</a>
+									</li>
+									<li>
+										<a title="RingCentral Ireland - Virtual Office Phone System" href="https://www.ringcentral.ie/" data-dtm-name="Ireland">
+											<span>Ireland</span>
+											<span class="lng">En</span>
+										</a>
+									</li>
+									<li>
+										<a title="RingCentral Netherlands - Virtual Office Phone System" href="https://www.ringcentral.nl/en/" data-dtm-name="Netherlands">
+											<span>Netherlands</span>
+											<span class="lng">En</span>
+										</a>
+									</li>
+									<li>
+										<a title="RingCentral Singapore - Virtual Office Phone System" href="https://www.ringcentral.sg/" data-dtm-name="Singapore">
+											<span>Singapore</span>
+											<span class="lng">En</span>
+										</a>
+									</li>
+									<li>
+										<a title="RingCentral UK - Virtual Office Phone System" href="https://www.ringcentral.co.uk/" data-dtm-name="United Kingdom">
+											<span>United Kingdom</span>
+											<span class="lng">En</span>
+										</a>
+									</li>
+									<li>
+										<a class="currentRegion" title="RingCentral US - Virtual Office Phone System" href="https://www.ringcentral.com/" data-dtm-name="United States">
+											<span>United States</span>
+											<span class="lng">En</span>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					<!--  WAIT LIVE CHAT POPUP -->
+<link rel="stylesheet" href="/etc/designs/ringcentral/clientlibs_livechat.min.f8f6945c83ffd324054c12a3e1a0e19b.css" type="text/css">
 <div id="chatButtonPopupBlock" class="block-window-popup">
 	<div class="opacity-bg"></div>
 	<div class="livechat-wait-popup">
@@ -651,6 +1060,31 @@ function getCookie(name){
 	<div id="chatOfflineButton" style="display: none"></div>
 </div>
 <!-- invisible chat buttons FINISH -->
+
+<!--chat ABtest START -->
+<script>
+	(function() {
+		var exclude = [
+			'/office/index_b.html',
+			'/lp/800numbers.html',
+			'/fax/default.html'
+		];
+		var currentPage = window.location.pathname.toLowerCase();
+		if (
+			-1 != exclude.indexOf(currentPage)
+		) {
+			return;
+		}
+		
+		var testLaunch = false;
+		if (!(!!CookiesManager.getCookie('gw_oppid')) && !(!!CookiesManager.getCookie('gw_otm')) && !(!!CookiesManager.getCookie('offermatica_campaign'))) {
+			testLaunch = true;
+		}
+		mboxCreate('prechattest2018', 'conditionsMet=' + testLaunch);
+	})();
+		
+</script>
+		<!--chat ABtest FINISH -->
 
 <!-- chat config data START -->
 <script>
@@ -732,7 +1166,7 @@ function getCookie(name){
 		gw_rc['salesChat']['phoneNumber'] = null;//dynamic number
 		gw_rc['salesChat']['delay'] = 5000;//wait for dynamic phone number
 		gw_rc['salesChat']['abtest'] = '';//remains empty if no abtest
-		gw_rc['salesChat']['automatedinviteabtest'] = 'a';//default a value
+		gw_rc['salesChat']['automatedinviteabtest'] = '';//default empty value
 		gw_rc['salesChat']['abtestDelay'] = 0;//remains zero if no abtest
 		gw_rc['salesChat']['firedWith'] = '';
 		gw_rc['salesChat']['errorWith'] = null;
@@ -767,7 +1201,7 @@ function getCookie(name){
 		}
 		
 		if (-1 != document.cookie.indexOf('gw_chatisdevuatbox8=')) {
-			gw_rc['salesChat']['manualTeamId'] = '57380000000CaZS';
+			gw_rc['salesChat']['manualTeamId'] = '57380000000CaZN';
 			gw_rc['salesChat']['automatedTeamId'] = '57334000000GnN2';
 			gw_rc['salesChat']['deploymentId'] = '572800000008OQQ';
 			gw_rc['salesChat']['accountId'] = '00D4F0000008awg';
@@ -928,7 +1362,21 @@ function getCookie(name){
 			liveagent.addCustomDetail('ref', referer);
 			gw_rc['salesChat']['ref'] = referer;
 			liveagent.addCustomDetail('phone', gw_rc['salesChat']['phoneNumber']);
-			liveagent.addCustomDetail('invite', gw_rc['salesChat']['automatedinviteabtest']);
+			liveagent.addCustomDetail('invite', 'Version' + gw_rc['salesChat']['automatedinviteabtest'].toUpperCase());
+			
+			var metaTarget = CookiesManager.getCookie('gw_ttmeta');
+			var metaHistory = CookiesManager.getCookie('gw_ttmeta_history');
+			var metaId = CookiesManager.getCookie('gw_ttmeta_id');
+			if (
+				metaTarget
+				&& metaHistory
+				&& metaId
+			) {
+				liveagent.addCustomDetail('Adobe_Target_Id__c', metaTarget);
+				liveagent.addCustomDetail('Adobe_Target_Id_History__c', metaHistory);
+				liveagent.addCustomDetail('Transaction_Id__c', metaId);
+			}
+			
 			gw_rc['salesChat']['phone'] = gw_rc['salesChat']['phoneNumber'];
 			liveagent.addButtonEventHandler(gw_rc['salesChat']['manualTeamId'], gw_rc['salesChat']['onGetManualChatStatus']);
 			liveagent.addButtonEventHandler(gw_rc['salesChat']['automatedTeamId'], gw_rc['salesChat']['onGetAutoChatStatus']);
@@ -1123,69 +1571,14 @@ function getCookie(name){
 	}
 </style>
 <!-- SF CHAT FINISH -->
-</div>
-				<p class="sale_phones">
-					<a href="tel:8005745290" class="office_phone dynamicNumber" id="DinOfficePhone">800 574 5290</a>
-				</p>
-				<script>
-					dynamicNumber.insertNumber();
-				</script>
-				<div class="countriesNav">
-						<span>Country: </span> <span class="arrow" id="header_country">United States</span>
-						<ul class="submenuNav">
-								<li>
-									<a title="RingCentral Canada - Virtual Office Phone System" href="https://www.ringcentral.ca/">
-										<span>Canada</span>
-										<span class="lng">En</span>
-									</a>
-								</li>
-							<li>
-								<a title="RingCentral France - Virtual Office Phone System" href="https://www.ringcentral.fr/">
-									<span>France</span>
-									<span class="lng">Fr</span>
-								</a>
-							</li>
-							<li>
-								<a title="RingCentral Ireland - Virtual Office Phone System" href="https://www.ringcentral.ie/">
-									<span>Ireland</span>
-									<span class="lng">En</span>
-								</a>
-							</li>
-							<li>
-								<a title="RingCentral Netherlands - Virtual Office Phone System" href="https://www.ringcentral.nl/en/">
-									<span>Netherlands</span>
-									<span class="lng">En</span>
-								</a>
-							</li>
-								<li>
-									<a title="RingCentral Singapore - Virtual Office Phone System" href="https://www.ringcentral.com/sg/">
-										<span>Singapore</span>
-										<span class="lng">En</span>
-									</a>
-								</li>
-								<li>
-									<a title="RingCentral UK - Virtual Office Phone System" href="https://www.ringcentral.co.uk/">
-										<span>United Kingdom</span>
-										<span class="lng">En</span>
-									</a>
-								</li>
-								<li>
-									<a class="currentRegion" title="RingCentral US - Virtual Office Phone System" href="https://www.ringcentral.com/">
-										<span>United States</span>
-										<span class="lng">En</span>
-									</a>
-								</li>
-						</ul>
-					</div>
-				</div>
-			<div class="id-rc-searchbox CId-id-rc-searchbox--1153630715 searchbox IId-id-rc-searchbox--1484520198" itemscope="itemscope" itemtype="https://schema.org/WebSite"><meta itemprop="url" content="//www.ringcentral.com/">
+<div class="searchbox id-rc-searchbox CId-id-rc-searchbox--1153630715 IId-id-rc-searchbox--1484520198" itemscope="itemscope" itemtype="https://schema.org/WebSite"><meta itemprop="url" content="//www.ringcentral.com/">
 <form itemprop="potentialAction" itemscope="itemscope" itemtype="https://schema.org/SearchAction" class="search" action="/search.html" method="get">
 	<meta itemprop="target" content="https://www.ringcentral.com/search.html?Submit=Search&amp;q={q}">
 	<input class="submit_search" type="submit" value="Search" name="Submit">
 	<input itemprop="query-input" type="text" class="input" name="q" value="" placeholder="Search">
 	<script>String.prototype.trim=function(){return(this.replace(/(^\s+)|(\s+$)/g, ""))}</script>
 </form></div>
-<div class="rc-navigationPrimary-static CId-rc-navigationPrimary-static--956801547 IId-rc-navigationPrimary-static--477687296"><link rel="stylesheet" href="/etc/designs/ringcentral/components/FlatYoutubeThumbnail/clientlibs.min.css" type="text/css">
+<div class="rc-navigationPrimary-static CId-rc-navigationPrimary-static--956801547 IId-rc-navigationPrimary-static--477687296"><link rel="stylesheet" href="/etc/designs/ringcentral/components/FlatYoutubeThumbnail/clientlibs.min.8f06799eeb06a517592bf931c8acee24.css" type="text/css">
 <!-- use /css/optimized/topmenu.css -->
 
 <script>
@@ -1243,6 +1636,9 @@ function getCookie(name){
 										<a class="ico ico-office" href="/office/how-it-works.html" title="RingCentral Office">RingCentral Office<br><span class="subtitle">Cloud Phone System</span></a>
 									</li>
 								<li>
+										<a class="ico ico-meetings" href="/online-meetings/overview.html" title="RingCentral Meetings">RingCentral Meetings<br><span class="subtitle">HD Audio and Video Conferencing</span></a>
+									</li>
+								<li>
 										<a class="ico ico-contactCenter" href="/contact-center/overview.html" title="RingCentral Contact Center">RingCentral Contact Center<br><span class="subtitle">Contact Center Solutions</span></a>
 									</li>
 								<li>
@@ -1288,6 +1684,9 @@ function getCookie(name){
 										<a class="" href="/office/integrations/overview.html" title="Integrations">Integrations</a>
 									</li>
 								<li class="br"></li>
+								<li class="title">
+										<a class="" href="/online-meetings/overview.html" title="Meetings">Meetings<sup>NEW!</sup><span></span></a>
+									</li>
 								<li class="title">
 										<a class="" href="/contact-center/overview.html" title="Contact Center">Contact Center<span></span></a>
 									</li>
@@ -1335,7 +1734,7 @@ function getCookie(name){
 								</ul>
 						<ul class="rightSub">
 							<li class="title">
-										<a class="" target="_blank" href="https://developer.ringcentral.com/app-gallery.html#/apps" title="Apps">Apps<span></span></a>
+										<a class="" target="_blank" href="//www.ringcentral.com/apps/" title="Apps">Apps<span></span></a>
 									</li>
 								<li>
 										<a class="" href="/office/features/desktop-apps/overview.html" title="Desktop App">Desktop App</a>
@@ -1470,7 +1869,7 @@ function getCookie(name){
 						</div>
 			</li>
 	<li class="link_to_apps" data-dtm-events-hover="true" data-dtm-name="APPS" data-dtm-element="dropdown">
-			<a target="_blank" class="navLink " href="//developer.ringcentral.com/app-gallery.html/apps?compatibility=ringcentral" title="APPS" data-trackname="Top nav|APPS">
+			<a target="_blank" class="navLink " href="//www.ringcentral.com/apps/" title="APPS" data-trackname="Top nav|APPS">
 				<span>APPS</span>
 			</a>
 			</li>
@@ -1485,19 +1884,30 @@ function getCookie(name){
 </nav>
 
 
-<nav class="topmenu_b">
+<nav class="topmenu_b CId-rc-navigationPrimary-static--1 IId-rc-navigationPrimary-static--1">
+
+		<ul class="segment-links-block">
+			<li class="segment-links-item segment-small">
+				<a class="segment-link" href="/solutions/small-business.html" title="Small Business">Small Business</a>
+			</li>
+			<li class="segment-links-item segment-enterprise">
+				<a class="segment-link" href="/solutions/enterprise-business.html" title="Enterprise">Enterprise</a>
+			</li>
+		</ul>
 		<ul class="topmenuList clearfix">
-			<li class="navItem  hasDropdown">
+			<li class="navItem  hasDropdown" data-dtm-element="dropdown" data-dtm-name="Products" data-dtm-events-hover="true" data-firetext="Products">
 					<div class="navItemLinkBlock">
-						<a href="/office/how-it-works.html" title="Products" class="navItemLink" data-firetext="Products">
-									Products</a>
+
+						<a href="/all-products.html" title="Products" data-dtm-name="Products" class="navItemLink" data-firetext="Products">
+										Products</a>
+
 							</div>
 					<div class="dropdownBlock">
 						<div class="dropdown">
 							<div class="container">
 								<div class="sectionsBlock">
 									<div class="section">
-										<a href="/office/how-it-works.html" title="Office" class="sectionLinkWrap" data-firetext="Office">
+										<a href="/office/how-it-works.html" title="Office" data-dtm-name="Products - Office" class="sectionLinkWrap" data-firetext="Office">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
 													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg--695351226" viewBox="0 0 36.91 25" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
@@ -1507,27 +1917,37 @@ function getCookie(name){
 											<span class="sectionLinkBlock">
 												<span class="sectionLink">Office</span>
 											</span>
-											<span class="sectionLinkDesc">All-in-one phone, meetings, and messaging</span>
+											<span class="sectionLinkDesc">All-in-one phone, meetings &amp; messaging</span>
 											</a>
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="/office/how-it-works.html" title="Overview" class=" sectionItemLink" data-firetext="Overview">Overview</a>
+													<a href="/office/how-it-works.html" title="Overview" data-dtm-name="Products - Office - Overview" class=" sectionItemLink" data-firetext="Overview">Overview</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/office/phone-system-features.html" title="Features" class=" sectionItemLink" data-firetext="Features">Features</a>
+													<a href="/office/phone-system-features.html" title="Features" data-dtm-name="Products - Office - Features" class=" sectionItemLink" data-firetext="Features">Features</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/office/product-how-it-works.html" title="How it Works" class=" sectionItemLink" data-firetext="How it Works">How it Works</a>
+													<a href="/office/product-how-it-works.html" title="How it works" data-dtm-name="Products - Office - How it works" class=" sectionItemLink" data-firetext="How it Works">How it works</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/office/plansandpricing.html" title="Plans &amp; Pricing" class=" sectionItemLink" data-firetext="Plans &amp; Pricing">Plans &amp; Pricing</a>
+													<a href="/office/plansandpricing.html" title="Plans and Pricing" data-dtm-name="Products - Office - Plans and Pricing" class=" sectionItemLink" data-firetext="Plans &amp; Pricing">Plans and Pricing</a>
+														</li>
+												<li class="sectionItem ">
+													<a href="/office/voip-phone.html" title="Phones and Headsets" data-dtm-name="Products - Office - Phones and Headsets" class=" sectionItemLink">Phones and Headsets</a>
+														</li>
+												<li class="sectionItem ">
+													<a href="/office/features/rcmobile/overview.html" title="Mobile Apps" data-dtm-name="Products - Office - Mobile Apps" class=" sectionItemLink">Mobile Apps</a>
+														</li>
+												<li class="sectionItem moreLink">
+													<a href="/all-products.html" title="See All Products" data-dtm-name="Products - Office - See All Products" class=" sectionItemLink">See All Products</a>
 														</li>
 												</ul>
 										</div>
 										</div>
+									<div class="sectionsWrap">
 									<div class="section">
-										<a href="/teams/overview.html" title="Glip" class="sectionLinkWrap" data-firetext="Glip">
+										<a href="/teams/overview.html" title="Glip" data-dtm-name="Products - Glip" class="sectionLinkWrap" data-firetext="Glip">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
 													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-1345219414" viewBox="0 0 32 30.48" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
@@ -1537,57 +1957,21 @@ function getCookie(name){
 											<span class="sectionLinkBlock">
 												<span class="sectionLink">Glip</span>
 											</span>
-											<span class="sectionLinkDesc">Team messaging and collaboration</span>
+											<span class="sectionLinkDesc">Team messaging &amp; collaboration</span>
 											</a>
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="/teams/overview.html" title="Overview" class=" sectionItemLink">Overview</a>
+													<a href="/teams/overview.html" title="Overview" data-dtm-name="Products - Glip - Overview" class=" sectionItemLink">Overview</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/teams/overview.html#file-sharing" title="File Sharing" class=" sectionItemLink">File Sharing</a>
-														</li>
-												<li class="sectionItem ">
-													<a href="/teams/overview.html#task-management" title="Task Management" class=" sectionItemLink">Task Management</a>
-														</li>
-												<li class="sectionItem ">
-													<a href="//glip.com/pricing" title="Plans &amp; Pricing" class=" sectionItemLink" target="_blank">Plans &amp; Pricing</a>
+													<a href="//glip.com/product" title="Features" data-dtm-name="Products - Glip - Features" class=" sectionItemLink" target="_blank">Features</a>
 														</li>
 												</ul>
 										</div>
 										</div>
 									<div class="section">
-										<a href="/contact-center/overview.html" title="Contact Center" class="sectionLinkWrap" data-firetext="Contact Center">
-											<span class="sectionIconBlock">
-												<span class="sectionIcon">
-													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-1244791084" viewBox="0 0 37 34.3" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
-  <path d="M33.58 13.55a15.49 15.49 0 0 0-4.69-8 1.49 1.49 0 0 0-.17-2.1l-.07-.06a16.92 16.92 0 0 0-20.31 0A1.49 1.49 0 0 0 8 5.48l.05.06a15.49 15.49 0 0 0-4.69 8A4 4 0 0 0 0 17.49v3a4 4 0 0 0 4 4h2v-11H5a14 14 0 0 1 4.16-6.88l.1.1a1.5 1.5 0 0 0 1.94.15 12.4 12.4 0 0 1 14.6 0 1.5 1.5 0 0 0 1.94-.15l.1-.1A14 14 0 0 1 32 13.49h-1v11h1.43c-.47 2.06-2.57 7.28-11.65 8a2.38 2.38 0 1 0-1.25 1.56h.31c11.51-.46 13.73-7.58 14.16-9.7a4 4 0 0 0 3-3.86v-3a4 4 0 0 0-3.42-3.94zM4.5 22.99H4a2.5 2.5 0 0 1-2.5-2.5v-3a2.5 2.5 0 0 1 2.5-2.5h.5zM26.68 5.65a13.9 13.9 0 0 0-16.36 0L9.24 4.58a15.42 15.42 0 0 1 18.51 0zM18.5 33.14a1.15 1.15 0 1 1 1.15-1.15 1.15 1.15 0 0 1-1.15 1.15zm1.16.88zM35.5 20.49a2.5 2.5 0 0 1-2.5 2.5h-.5v-8h.5a2.5 2.5 0 0 1 2.5 2.5z"></path>
-</svg></span>
-											</span>
-											<span class="sectionLinkBlock">
-												<span class="sectionLink">Contact Center</span>
-											</span>
-											<span class="sectionLinkDesc">Omnichannel contact center</span>
-											</a>
-											<div class="sectionListBlock">
-											<ul class="sectionList clearfix">
-												<li class="sectionItem ">
-													<a href="/contact-center/overview.html" title="Overview" class=" sectionItemLink">Overview</a>
-														</li>
-												<li class="sectionItem ">
-													<a href="/contact-center/workforce-optimization.html" title="Workforce Optimization" class=" sectionItemLink">Workforce Optimization</a>
-														</li>
-												<li class="sectionItem ">
-													<a href="/contact-center/integrations.html" title="Integrations" class=" sectionItemLink">Integrations</a>
-														</li>
-												<li class="sectionItem ">
-													<a href="/contact-center/plans-and-pricing.html" title="Plans" class=" sectionItemLink">Plans</a>
-														</li>
-												</ul>
-										</div>
-										</div>
-									<div class="section">
-										<a href="/pro/features/how-it-works.html" title="Professional" class="sectionLinkWrap" data-firetext="Professional">
+										<a href="/pro/features/how-it-works.html" title="Professional" data-dtm-name="Products - Professional" class="sectionLinkWrap" data-firetext="Professional">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
 													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-316676913" viewBox="0 0 28.93 37" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
@@ -1597,27 +1981,18 @@ function getCookie(name){
 											<span class="sectionLinkBlock">
 												<span class="sectionLink">Professional</span>
 											</span>
-											<span class="sectionLinkDesc">Virtual attendant and inbound call routing</span>
+											<span class="sectionLinkDesc">Virtual attendant &amp; inbound call routing</span>
 											</a>
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="/pro/features/how-it-works.html" title="How it Works" class=" sectionItemLink">How it Works</a>
-														</li>
-												<li class="sectionItem ">
-													<a href="/pro/features.html" title="Features" class=" sectionItemLink">Features</a>
-														</li>
-												<li class="sectionItem ">
-													<a href="/pro/features/faq.html" title="FAQs" class=" sectionItemLink">FAQs</a>
-														</li>
-												<li class="sectionItem ">
-													<a href="/pro/plansandpricing.html" title="Plans &amp; Pricing" class=" sectionItemLink">Plans &amp; Pricing</a>
+													<a href="/pro/features/how-it-works.html" title="Overview" data-dtm-name="Products - Professional - Overview" class=" sectionItemLink">Overview</a>
 														</li>
 												</ul>
 										</div>
 										</div>
 									<div class="section">
-										<a href="/fax/features/how-it-works.html" title="Fax" class="sectionLinkWrap" data-firetext="Fax">
+										<a href="/fax/features/how-it-works.html" title="Fax" data-dtm-name="Products - Fax" class="sectionLinkWrap" data-firetext="Fax">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
 													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-654038143" viewBox="0 0 35 32" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
@@ -1632,68 +2007,107 @@ function getCookie(name){
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="/fax/features/how-it-works.html" title="Overview" class=" sectionItemLink">Overview</a>
+													<a href="/fax/features/how-it-works.html" title="Overview" data-dtm-name="Products - Fax - Overview" class=" sectionItemLink">Overview</a>
+														</li>
+												</ul>
+										</div>
+										</div>
+									<div class="section">
+										<a href="/online-meetings/overview.html" title="Meetings" data-dtm-name="Products - Meetings" class="sectionLinkWrap" data-firetext="Meetings">
+											<span class="sectionIconBlock">
+												<span class="sectionIcon">
+													<svg contentscripttype="text/ecmascript" zoomAndPan="magnify" xmlns:xlink="http://www.w3.org/1999/xlink" contentstyletype="text/css" id="svg-1108088653" style="enable-background:new 0 0 28 17.7;" version="1.1" xml:space="preserve" preserveAspectRatio="xMidYMid meet" viewBox="0 0 28 17.7" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px">
+<path d="M26.4,1.4c-0.3,0-0.6,0.1-0.8,0.3l-4,2.9C21.2,4.9,21,5.3,21,5.8v6.4c0,0.5,0.2,0.9,0.6,1.2l4,2.9c0.2,0.2,0.5,0.3,0.8,0.3  c0.2,0,0.4,0,0.6-0.2c0.5-0.3,0.8-0.8,0.8-1.3V2.9c0-0.5-0.3-1-0.8-1.3C26.8,1.5,26.6,1.4,26.4,1.4 M26.4,2.9v12.3l-4-2.9V5.8  L26.4,2.9 M16,0.5H3.2c-1.7,0-3,1.4-3,3.1v10.8c0,1.7,1.3,3.1,3,3.1H16c1.7,0,3-1.4,3-3.1V3.6C19,1.9,17.6,0.5,16,0.5 M16,1.9  c0.9,0,1.6,0.7,1.6,1.6v10.9c0,0.9-0.7,1.6-1.6,1.6H3.2c-0.9,0-1.6-0.7-1.6-1.6V3.6c0-0.9,0.7-1.6,1.6-1.6H16"></path>
+</svg></span>
+											</span>
+											<span class="sectionLinkBlock">
+												<span class="sectionLink">Meetings<sup> NEW!</sup></span>
+											</span>
+											<span class="sectionLinkDesc">The complete video conferencing solution</span>
+											</a>
+											<div class="sectionListBlock">
+											<ul class="sectionList clearfix">
+												<li class="sectionItem ">
+													<a href="/online-meetings/overview.html" title="Overview" data-dtm-name="Products - Meetings - Overview" class=" sectionItemLink">Overview</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/fax/features.html" title="Features" class=" sectionItemLink">Features</a>
+													<a href="/online-meetings/features.html" title="Features" data-dtm-name="Products - Meetings - Features" class=" sectionItemLink">Features</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/fax/features/faq.html" title="FAQs" class=" sectionItemLink">FAQs</a>
+													<a href="/online-meetings/plansandpricing.html" title="Plans and Pricing" data-dtm-name="Products - Meetings - Plans and Pricing" class=" sectionItemLink">Plans and Pricing</a>
+														</li>
+												</ul>
+										</div>
+										</div>
+									<div class="section">
+										<a href="/contact-center/overview.html" title="Contact Center" data-dtm-name="Products - Contact Center" class="sectionLinkWrap" data-firetext="Contact Center">
+											<span class="sectionIconBlock">
+												<span class="sectionIcon">
+													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-1244791084" viewBox="0 0 37 34.3" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
+  <path d="M33.58 13.55a15.49 15.49 0 0 0-4.69-8 1.49 1.49 0 0 0-.17-2.1l-.07-.06a16.92 16.92 0 0 0-20.31 0A1.49 1.49 0 0 0 8 5.48l.05.06a15.49 15.49 0 0 0-4.69 8A4 4 0 0 0 0 17.49v3a4 4 0 0 0 4 4h2v-11H5a14 14 0 0 1 4.16-6.88l.1.1a1.5 1.5 0 0 0 1.94.15 12.4 12.4 0 0 1 14.6 0 1.5 1.5 0 0 0 1.94-.15l.1-.1A14 14 0 0 1 32 13.49h-1v11h1.43c-.47 2.06-2.57 7.28-11.65 8a2.38 2.38 0 1 0-1.25 1.56h.31c11.51-.46 13.73-7.58 14.16-9.7a4 4 0 0 0 3-3.86v-3a4 4 0 0 0-3.42-3.94zM4.5 22.99H4a2.5 2.5 0 0 1-2.5-2.5v-3a2.5 2.5 0 0 1 2.5-2.5h.5zM26.68 5.65a13.9 13.9 0 0 0-16.36 0L9.24 4.58a15.42 15.42 0 0 1 18.51 0zM18.5 33.14a1.15 1.15 0 1 1 1.15-1.15 1.15 1.15 0 0 1-1.15 1.15zm1.16.88zM35.5 20.49a2.5 2.5 0 0 1-2.5 2.5h-.5v-8h.5a2.5 2.5 0 0 1 2.5 2.5z"></path>
+</svg></span>
+											</span>
+											<span class="sectionLinkBlock">
+												<span class="sectionLink">Contact Center</span>
+											</span>
+											<span class="sectionLinkDesc">Omnichannel contact center</span>
+											</a>
+											<div class="sectionListBlock">
+											<ul class="sectionList clearfix">
+												<li class="sectionItem ">
+													<a href="/contact-center/overview.html" title="Overview" data-dtm-name="Products - Contact Center - Overview" class=" sectionItemLink">Overview</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/plansandpricing/ringcentralfax.html" title="Plans &amp; Pricing" class=" sectionItemLink">Plans &amp; Pricing</a>
+													<a href="/contact-center/products.html" title="Products" data-dtm-name="Products - Contact Center - Products" class=" sectionItemLink">Products</a>
+														</li>
+												<li class="sectionItem ">
+													<a href="/contact-center/plans-and-pricing.html" title="Plans" data-dtm-name="Products - Contact Center - Plans" class=" sectionItemLink">Plans</a>
 														</li>
 												</ul>
 										</div>
 										</div>
 									</div>
+									</div>
 							</div>
 						</div>
 					</div>
 					</li>
-			<li class="navItem  hasDropdown">
+			<li class="navItem  hasDropdown" data-dtm-element="dropdown" data-dtm-name="Solutions" data-dtm-events-hover="true">
 					<div class="navItemLinkBlock">
-						<a href="javascript:void(0)" title="Solutions" class="navItemLink">
-									Solutions</a>
+
+						<a href="/all-solutions.html" title="Solutions" data-dtm-name="Solutions" class="navItemLink">
+										Solutions</a>
+
 							</div>
 					<div class="dropdownBlock">
 						<div class="dropdown">
 							<div class="container">
 								<div class="sectionsBlock">
 									<div class="section">
-										<div title="Business Need" class="sectionLinkWrap">
+										<div title="Company size" class="sectionLinkWrap" data-dtm-name="Solutions - Company size">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
-													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg--1540075035" viewBox="0 0 37 30.01" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
-  <path d="M6 12.58a.92.92 0 1 0 .92.92.92.92 0 0 0-.92-.92zM22.92 3.5a.92.92 0 1 0-.92.92.92.92 0 0 0 .92-.92zM35.15 0H8.85A1.86 1.86 0 0 0 7 1.85v6.39h1.5V1.85a.36.36 0 0 1 .35-.35h26.3a.36.36 0 0 1 .35.35v18.32H12v-8.32A1.86 1.86 0 0 0 10.15 10h-8.3A1.86 1.86 0 0 0 0 11.85v16.3A1.86 1.86 0 0 0 1.85 30h8.3A1.86 1.86 0 0 0 12 28.15V27h23.15A1.86 1.86 0 0 0 37 25.15V1.85A1.86 1.86 0 0 0 35.15 0zM10.5 28.15a.36.36 0 0 1-.35.35h-8.3a.36.36 0 0 1-.35-.35v-2.73h9zm0-4h-9v-12.3a.36.36 0 0 1 .35-.35h8.3a.36.36 0 0 1 .35.35zm25 1a.36.36 0 0 1-.35.35H12v-4.08h23.5zm-8.83 3.6h-9.34a.63.63 0 0 0-.16 1.25h9.49a.63.63 0 0 0 .16-1.25h-.15z"></path>
+													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg--771431589" viewBox="0 0 32 36.66" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
+  <path d="M19.5 8.66h-7a2.59 2.59 0 0 0-2.5 2.67v10.21a3.63 3.63 0 0 0 1.88 3.16l.84 9.48a2.54 2.54 0 0 0 2.58 2.48h1.53a2.52 2.52 0 0 0 2.58-2.43l.84-9.53A3.67 3.67 0 0 0 22 21.49V11.33a2.59 2.59 0 0 0-2.5-2.67zm1 12.83a2.18 2.18 0 0 1-1 1.92 1.5 1.5 0 0 0-.73 1.16l-.84 9.53v.14a.86.86 0 0 1-.26.59 1.16 1.16 0 0 1-.82.33h-1.54a1 1 0 0 1-1.08-.92v-.25l-.84-9.48a1.5 1.5 0 0 0-.75-1.17 2.14 2.14 0 0 1-1.12-1.86V11.33a1.09 1.09 0 0 1 1-1.17h7a1.09 1.09 0 0 1 1 1.17zM16 7.34a3.67 3.67 0 1 0-3.67-3.67A3.68 3.68 0 0 0 16 7.34zm0-5.85a2.17 2.17 0 1 1-2.17 2.17A2.18 2.18 0 0 1 16 1.49zM8.63 23.27a1.5 1.5 0 0 0-.72 1.15l-.77 8.85v.13a.7.7 0 0 1-.22.49.91.91 0 0 1-.65.27H4.86a.84.84 0 0 1-.87-.8v-.13l-.77-8.8a1.5 1.5 0 0 0-.74-1.17 1.89 1.89 0 0 1-1-1.64v-9.48a.91.91 0 0 1 .79-1h6.25a4.29 4.29 0 0 1 .32-1.49H2.29A2.39 2.39 0 0 0 0 12.14v9.48a3.38 3.38 0 0 0 1.72 2.93l.77 8.8a2.34 2.34 0 0 0 2.37 2.3h1.4a2.33 2.33 0 0 0 2.37-2.25l.77-8.85h.06a5 5 0 0 1-.7-1.35zM5.5 8.49a3.35 3.35 0 1 0-3.35-3.35A3.35 3.35 0 0 0 5.5 8.49zm0-5.37a2 2 0 1 1-2 2 2 2 0 0 1 2-2zm21 5.37a3.35 3.35 0 1 0-3.35-3.35 3.35 3.35 0 0 0 3.35 3.35zm0-5.37a2 2 0 1 1-2 2 2 2 0 0 1 2-2zm3.21 6.53h-6.54a4.29 4.29 0 0 1 .32 1.49h6.23a.91.91 0 0 1 .79 1v9.48a1.89 1.89 0 0 1-1 1.64 1.5 1.5 0 0 0-.74 1.17L28 33.22v.13a.84.84 0 0 1-.87.8h-1.4a.91.91 0 0 1-.65-.27.7.7 0 0 1-.22-.49v-.13l-.77-8.85a1.5 1.5 0 0 0-.72-1.15l-.13-.11a5.14 5.14 0 0 1-.67 1.37l.77 8.85a2.33 2.33 0 0 0 2.37 2.25h1.4a2.34 2.34 0 0 0 2.37-2.3l.77-8.8a3.38 3.38 0 0 0 1.75-2.9v-9.48a2.39 2.39 0 0 0-2.29-2.48z"></path>
 </svg></span>
 											</span>
 											<span class="sectionLinkBlock">
-												<span class="sectionLink">Business Need</span>
+												<span class="sectionLink">Company size</span>
 											</span>
 											</div>
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="/office/voip-phone.html" title="Phone Systems" class=" sectionItemLink">Phone Systems</a>
+													<a href="/solutions/small-business.html" title="Small Business" data-dtm-name="Solutions - Company size - Small Business" class=" sectionItemLink">Small Business</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/office/features/online-meetings/overview.html" title="Online Meetings" class=" sectionItemLink">Online Meetings</a>
-														</li>
-												<li class="sectionItem ">
-													<a href="/teams/overview.html" title="Team Messaging" class=" sectionItemLink">Team Messaging</a>
-														</li>
-												<li class="sectionItem ">
-													<a href="/contact-center/overview.html" title="Contact Center" class=" sectionItemLink">Contact Center</a>
-														</li>
-												<li class="sectionItem ">
-													<a href="/fax/features/how-it-works.html" title="Fax" class=" sectionItemLink">Fax</a>
+													<a href="/solutions/enterprise-business.html" title="Enterprise" data-dtm-name="Solutions - Company size - Enterprise" class=" sectionItemLink">Enterprise</a>
 														</li>
 												</ul>
 										</div>
 										</div>
 									<div class="section">
-										<a href="/office/industry-solutions/overview.html" title="Industry" class="sectionLinkWrap" data-firetext="Industry">
+										<a href="/office/industry-solutions/overview.html" title="Industry" data-dtm-name="Solutions - Industry" class="sectionLinkWrap" data-firetext="Industry">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
 													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg--106384024" viewBox="0 0 36 32.16" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
@@ -1707,25 +2121,25 @@ function getCookie(name){
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="/office/industry-solutions/healthcare-communications-cloud-phone-systems.html" title="Healthcare" class=" sectionItemLink">Healthcare</a>
+													<a href="/office/industry-solutions/overview.html" title="Overview" data-dtm-name="Solutions - Industry - Overview" class=" sectionItemLink">Overview</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/office/industry-solutions/business-communications-for-financial-services.html" title="Financial Services" class=" sectionItemLink">Financial Services</a>
+													<a href="/office/industry-solutions/healthcare-communications-cloud-phone-systems.html" title="Healthcare" data-dtm-name="Solutions - Industry - Healthcare" class=" sectionItemLink">Healthcare</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/office/industry-solutions/real-estate-professionals-cloud-phone-systems.html" title="Real Estate" class=" sectionItemLink">Real Estate</a>
+													<a href="/office/industry-solutions/business-communications-for-financial-services.html" title="Financial services" data-dtm-name="Solutions - Industry - Financial services" class=" sectionItemLink">Financial services</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/office/industry-solutions/retail-business-cloud-phone-systems.html" title="Retail" class=" sectionItemLink">Retail</a>
+													<a href="/office/industry-solutions/real-estate-professionals-cloud-phone-systems.html" title="Real estate" data-dtm-name="Solutions - Industry - Real estate" class=" sectionItemLink">Real estate</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/office/industry-solutions/overview.html" title="More..." class=" sectionItemLink">More...</a>
+													<a href="/office/industry-solutions/retail-business-cloud-phone-systems.html" title="Retail" data-dtm-name="Solutions - Industry - Retail" class=" sectionItemLink">Retail</a>
 														</li>
 												</ul>
 										</div>
 										</div>
 									<div class="section">
-										<a href="//developer.ringcentral.com/app-gallery.html/apps" title="Apps &amp; Platform" class="sectionLinkWrap" target="_blank" data-firetext="APPS">
+										<a href="//www.ringcentral.com/apps/" title="Apps &amp; Platform" data-dtm-name="Solutions - Apps &amp; Platform" class="sectionLinkWrap" target="_blank" data-firetext="APPS">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
 													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-327530502" viewBox="0 0 32 29" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
@@ -1739,42 +2153,51 @@ function getCookie(name){
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="/office/features/desktop-apps/overview.html" title="Desktop App" class=" sectionItemLink" data-firetext="Desktop App">Desktop App</a>
+													<a href="/office/features/desktop-apps/overview.html" title="Desktop app" data-dtm-name="Solutions - Apps &amp; Platform - Desktop app" class=" sectionItemLink" data-firetext="Desktop App">Desktop app</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/office/features/rcmobile/overview.html" title="Mobile App" class=" sectionItemLink" data-firetext="Mobile App">Mobile App</a>
+													<a href="/office/features/rcmobile/overview.html" title="Mobile app" data-dtm-name="Solutions - Apps &amp; Platform - Mobile app" class=" sectionItemLink" data-firetext="Mobile App">Mobile app</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/office/features/online-meetings/overview.html" title="Meetings App" class=" sectionItemLink" data-firetext="Meetings App">Meetings App</a>
+													<a href="/office/features/online-meetings/overview.html" title="Meetings app" data-dtm-name="Solutions - Apps &amp; Platform - Meetings app" class=" sectionItemLink" data-firetext="Meetings App">Meetings app</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="//developer.ringcentral.com/app-gallery.html/apps" title="Apps &amp; Integrations" class=" sectionItemLink" target="_blank">Apps &amp; Integrations</a>
+													<a href="//www.ringcentral.com/apps/" title="Apps and Integrations" data-dtm-name="Solutions - Apps &amp; Platform - Apps and Integrations" class=" sectionItemLink" target="_blank">Apps and Integrations</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="//developer.ringcentral.com/" title="Developer Platform" class=" sectionItemLink" target="_blank">Developer Platform</a>
+													<a href="//developer.ringcentral.com/" title="Developer platform" data-dtm-name="Solutions - Apps &amp; Platform - Developer platform" class=" sectionItemLink" target="_blank">Developer platform</a>
 														</li>
 												</ul>
 										</div>
 										</div>
 									<div class="section">
-										<div title="Company Size" class="sectionLinkWrap">
+										<div title="Business need" class="sectionLinkWrap" data-dtm-name="Solutions - Business need">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
-													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg--771431589" viewBox="0 0 32 36.66" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
-  <path d="M19.5 8.66h-7a2.59 2.59 0 0 0-2.5 2.67v10.21a3.63 3.63 0 0 0 1.88 3.16l.84 9.48a2.54 2.54 0 0 0 2.58 2.48h1.53a2.52 2.52 0 0 0 2.58-2.43l.84-9.53A3.67 3.67 0 0 0 22 21.49V11.33a2.59 2.59 0 0 0-2.5-2.67zm1 12.83a2.18 2.18 0 0 1-1 1.92 1.5 1.5 0 0 0-.73 1.16l-.84 9.53v.14a.86.86 0 0 1-.26.59 1.16 1.16 0 0 1-.82.33h-1.54a1 1 0 0 1-1.08-.92v-.25l-.84-9.48a1.5 1.5 0 0 0-.75-1.17 2.14 2.14 0 0 1-1.12-1.86V11.33a1.09 1.09 0 0 1 1-1.17h7a1.09 1.09 0 0 1 1 1.17zM16 7.34a3.67 3.67 0 1 0-3.67-3.67A3.68 3.68 0 0 0 16 7.34zm0-5.85a2.17 2.17 0 1 1-2.17 2.17A2.18 2.18 0 0 1 16 1.49zM8.63 23.27a1.5 1.5 0 0 0-.72 1.15l-.77 8.85v.13a.7.7 0 0 1-.22.49.91.91 0 0 1-.65.27H4.86a.84.84 0 0 1-.87-.8v-.13l-.77-8.8a1.5 1.5 0 0 0-.74-1.17 1.89 1.89 0 0 1-1-1.64v-9.48a.91.91 0 0 1 .79-1h6.25a4.29 4.29 0 0 1 .32-1.49H2.29A2.39 2.39 0 0 0 0 12.14v9.48a3.38 3.38 0 0 0 1.72 2.93l.77 8.8a2.34 2.34 0 0 0 2.37 2.3h1.4a2.33 2.33 0 0 0 2.37-2.25l.77-8.85h.06a5 5 0 0 1-.7-1.35zM5.5 8.49a3.35 3.35 0 1 0-3.35-3.35A3.35 3.35 0 0 0 5.5 8.49zm0-5.37a2 2 0 1 1-2 2 2 2 0 0 1 2-2zm21 5.37a3.35 3.35 0 1 0-3.35-3.35 3.35 3.35 0 0 0 3.35 3.35zm0-5.37a2 2 0 1 1-2 2 2 2 0 0 1 2-2zm3.21 6.53h-6.54a4.29 4.29 0 0 1 .32 1.49h6.23a.91.91 0 0 1 .79 1v9.48a1.89 1.89 0 0 1-1 1.64 1.5 1.5 0 0 0-.74 1.17L28 33.22v.13a.84.84 0 0 1-.87.8h-1.4a.91.91 0 0 1-.65-.27.7.7 0 0 1-.22-.49v-.13l-.77-8.85a1.5 1.5 0 0 0-.72-1.15l-.13-.11a5.14 5.14 0 0 1-.67 1.37l.77 8.85a2.33 2.33 0 0 0 2.37 2.25h1.4a2.34 2.34 0 0 0 2.37-2.3l.77-8.8a3.38 3.38 0 0 0 1.75-2.9v-9.48a2.39 2.39 0 0 0-2.29-2.48z"></path>
+													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg--1540075035" viewBox="0 0 37 30.01" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
+  <path d="M6 12.58a.92.92 0 1 0 .92.92.92.92 0 0 0-.92-.92zM22.92 3.5a.92.92 0 1 0-.92.92.92.92 0 0 0 .92-.92zM35.15 0H8.85A1.86 1.86 0 0 0 7 1.85v6.39h1.5V1.85a.36.36 0 0 1 .35-.35h26.3a.36.36 0 0 1 .35.35v18.32H12v-8.32A1.86 1.86 0 0 0 10.15 10h-8.3A1.86 1.86 0 0 0 0 11.85v16.3A1.86 1.86 0 0 0 1.85 30h8.3A1.86 1.86 0 0 0 12 28.15V27h23.15A1.86 1.86 0 0 0 37 25.15V1.85A1.86 1.86 0 0 0 35.15 0zM10.5 28.15a.36.36 0 0 1-.35.35h-8.3a.36.36 0 0 1-.35-.35v-2.73h9zm0-4h-9v-12.3a.36.36 0 0 1 .35-.35h8.3a.36.36 0 0 1 .35.35zm25 1a.36.36 0 0 1-.35.35H12v-4.08h23.5zm-8.83 3.6h-9.34a.63.63 0 0 0-.16 1.25h9.49a.63.63 0 0 0 .16-1.25h-.15z"></path>
 </svg></span>
 											</span>
 											<span class="sectionLinkBlock">
-												<span class="sectionLink">Company Size</span>
+												<span class="sectionLink">Business need</span>
 											</span>
 											</div>
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="/solutions/small-business.html" title="Small Business" class=" sectionItemLink">Small Business</a>
+													<a href="/office/voip-phone.html" title="Phone systems" data-dtm-name="Solutions - Business need - Phone systems" class=" sectionItemLink">Phone systems</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/solutions/enterprise-business.html" title="Enterprise" class=" sectionItemLink">Enterprise</a>
+													<a href="/office/features/online-meetings/overview.html" title="Online meetings" data-dtm-name="Solutions - Business need - Online meetings" class=" sectionItemLink">Online meetings</a>
+														</li>
+												<li class="sectionItem ">
+													<a href="/teams/overview.html" title="Team collaboration" data-dtm-name="Solutions - Business need - Team collaboration" class=" sectionItemLink">Team collaboration</a>
+														</li>
+												<li class="sectionItem ">
+													<a href="/contact-center/overview.html" title="Contact Center" data-dtm-name="Solutions - Business need - Contact Center" class=" sectionItemLink">Contact Center</a>
+														</li>
+												<li class="sectionItem ">
+													<a href="/fax/features/how-it-works.html" title="Fax" data-dtm-name="Solutions - Business need - Fax" class=" sectionItemLink">Fax</a>
 														</li>
 												</ul>
 										</div>
@@ -1784,17 +2207,19 @@ function getCookie(name){
 						</div>
 					</div>
 					</li>
-			<li class="navItem  hasDropdown">
+			<li class="navItem  hasDropdown" data-dtm-element="dropdown" data-dtm-name="Support" data-dtm-events-hover="true" data-firetext="Support">
 					<div class="navItemLinkBlock">
-						<a href="//success.ringcentral.com" title="Support" class="navItemLink" target="_blank" data-firetext="Support">
-									Support</a>
+
+						<a href="//success.ringcentral.com/" title="Support" data-dtm-name="Support" class="navItemLink" target="_blank" data-firetext="Support">
+										Support</a>
+
 							</div>
 					<div class="dropdownBlock">
 						<div class="dropdown">
 							<div class="container">
 								<div class="sectionsBlock">
 									<div class="section">
-										<a href="//success.ringcentral.com" title="Customer Support" class="sectionLinkWrap" target="_blank">
+										<a href="//success.ringcentral.com/" title="Customer Support" data-dtm-name="Support - Customer Support" class="sectionLinkWrap" target="_blank">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
 													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-1112994666" viewBox="0 0 27.24 37" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
@@ -1808,19 +2233,19 @@ function getCookie(name){
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="//success.ringcentral.com" title="Customer Care" class=" sectionItemLink" target="_blank">Customer Care</a>
+													<a href="//success.ringcentral.com/" title="Customer care center" data-dtm-name="Support - Customer Support - Customer care center" class=" sectionItemLink" target="_blank">Customer care center</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/solutions/professional-services.html" title="Professional Services" class=" sectionItemLink" data-firetext="Professional Services">Professional Services</a>
+													<a href="/solutions/professional-services.html" title="Professional services" data-dtm-name="Support - Customer Support - Professional services" class=" sectionItemLink" data-firetext="Professional Services">Professional services</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/community/index.html" title="Community" class=" sectionItemLink" data-firetext="Community">Community</a>
+													<a href="/community/index.html" title="Community" data-dtm-name="Support - Customer Support - Community" class=" sectionItemLink" data-firetext="Community">Community</a>
 														</li>
 												</ul>
 										</div>
 										</div>
 									<div class="section">
-										<a href="/resources/learning-center.html" title="Resources" class="sectionLinkWrap" data-firetext="Resources">
+										<a href="/resources/learning-center.html" title="Resources" data-dtm-name="Support - Resources" class="sectionLinkWrap" data-firetext="Resources">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
 													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-2035106439" viewBox="0 0 37 30.88" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
@@ -1834,19 +2259,19 @@ function getCookie(name){
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="/whyringcentral/casestudies.html" title="Case Studies" class=" sectionItemLink">Case Studies</a>
+													<a href="/whyringcentral/casestudies.html" title="Case studies" data-dtm-name="Support - Resources - Case studies" class=" sectionItemLink">Case studies</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/resources/learning-center.html#videos" title="Videos" class=" sectionItemLink" data-firetext="Videos">Videos</a>
+													<a href="/resources/learning-center.html#videos" title="Videos" data-dtm-name="Support - Resources - Videos" class=" sectionItemLink" data-firetext="Videos">Videos</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/resources/learning-center.html#webinars" title="Webinars" class=" sectionItemLink">Webinars</a>
+													<a href="/resources/learning-center.html#webinars" title="Webinars" data-dtm-name="Support - Resources - Webinars" class=" sectionItemLink">Webinars</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/blog/" title="Blog" class=" sectionItemLink" data-firetext="Blog">Blog</a>
+													<a href="/blog/" title="Blog" data-dtm-name="Support - Resources - Blog" class=" sectionItemLink" data-firetext="Blog">Blog</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/resources/learning-center.html#whitepapers" title="White Papers" class=" sectionItemLink" data-firetext="White Papers">White Papers</a>
+													<a href="/resources/learning-center.html#whitepapers" title="White Papers" data-dtm-name="Support - Resources - White Papers" class=" sectionItemLink" data-firetext="Whitepapers">White Papers</a>
 														</li>
 												</ul>
 										</div>
@@ -1856,17 +2281,19 @@ function getCookie(name){
 						</div>
 					</div>
 					</li>
-			<li class="navItem  hasDropdown">
+			<li class="navItem  hasDropdown" data-dtm-element="dropdown" data-dtm-name="About Us" data-dtm-events-hover="true" data-firetext="About Us">
 					<div class="navItemLinkBlock">
-						<a href="/whyringcentral/company.html" title="About Us" class="navItemLink" data-firetext="About Us">
-									About Us</a>
+
+						<a href="/whyringcentral/company.html" title="About Us" data-dtm-name="About Us" class="navItemLink" data-firetext="About Us">
+										About Us</a>
+
 							</div>
 					<div class="dropdownBlock">
 						<div class="dropdown">
 							<div class="container">
 								<div class="sectionsBlock">
 									<div class="section">
-										<a href="/whyringcentral/company.html" title="Company" class="sectionLinkWrap" data-firetext="Company">
+										<a href="/whyringcentral/company.html" title="Company" data-dtm-name="About Us - Company" class="sectionLinkWrap" data-firetext="Company">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
 													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-631226335" viewBox="0 0 37 31.32" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
@@ -1880,22 +2307,22 @@ function getCookie(name){
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="/whyringcentral/leadership.html" title="Leadership" class=" sectionItemLink" data-firetext="Leadership">Leadership</a>
+													<a href="/whyringcentral/leadership.html" title="Leadership" data-dtm-name="About Us - Company - Leadership" class=" sectionItemLink" data-firetext="Leadership">Leadership</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/whyringcentral/inthenews.html" title="In the News" class=" sectionItemLink" data-firetext="In the News">In the News</a>
+													<a href="/whyringcentral/inthenews.html" title="In the news" data-dtm-name="About Us - Company - In the news" class=" sectionItemLink" data-firetext="In the News">In the news</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="http://ir.ringcentral.com/CorporateProfile.aspx?iid=4406983" title="Investor Relations" class=" sectionItemLink" target="_blank">Investor Relations</a>
+													<a href="http://ir.ringcentral.com/CorporateProfile.aspx?iid=4406983" title="Investor Relations" data-dtm-name="About Us - Company - Investor Relations" class=" sectionItemLink" target="_blank">Investor Relations</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/company/careers/overview.html" title="Careers" class=" sectionItemLink" data-firetext="Careers">Careers</a>
+													<a href="/company/careers/overview.html" title="Careers" data-dtm-name="About Us - Company - Careers" class=" sectionItemLink" data-firetext="Careers">Careers</a>
 														</li>
 												</ul>
 										</div>
 										</div>
 									<div class="section">
-										<a href="/technology/overview.html" title="Benefits" class="sectionLinkWrap">
+										<a href="/technology/overview.html" title="Benefits" data-dtm-name="About Us - Benefits" class="sectionLinkWrap">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
 													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-1159443270" viewBox="0 0 37 33" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
@@ -1909,22 +2336,22 @@ function getCookie(name){
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="/technology/reliability.html" title="Reliability" class=" sectionItemLink" data-firetext="Reliability">Reliability</a>
+													<a href="/technology/reliability.html" title="Reliability" data-dtm-name="About Us - Benefits - Reliability" class=" sectionItemLink" data-firetext="Reliability">Reliability</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/technology/security.html" title="Security" class=" sectionItemLink" data-firetext="Security">Security</a>
+													<a href="/technology/security.html" title="Security" data-dtm-name="About Us - Benefits - Security" class=" sectionItemLink" data-firetext="Security">Security</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/technology/qos.html" title="Quality" class=" sectionItemLink">Quality</a>
+													<a href="/technology/qos.html" title="Quality" data-dtm-name="About Us - Benefits - Quality" class=" sectionItemLink">Quality</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/technology/user-experience.html" title="User Experience" class=" sectionItemLink" data-firetext="User Experience">User Experience</a>
+													<a href="/technology/user-experience.html" title="User Experience" data-dtm-name="About Us - Benefits - User Experience" class=" sectionItemLink" data-firetext="User Experience">User Experience</a>
 														</li>
 												</ul>
 										</div>
 										</div>
 									<div class="section">
-										<a href="/partner/overview.html" title="Partner Programs" class="sectionLinkWrap">
+										<a href="/partner/overview.html" title="Partner programs" data-dtm-name="About Us - Partner programs" class="sectionLinkWrap">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
 													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-255880798" viewBox="0 0 37.02 29.96" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
@@ -1932,31 +2359,34 @@ function getCookie(name){
 </svg></span>
 											</span>
 											<span class="sectionLinkBlock">
-												<span class="sectionLink">Partner Programs</span>
+												<span class="sectionLink">Partner programs</span>
 											</span>
 											</a>
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="/partner/overview.html" title="Overview" class=" sectionItemLink">Overview</a>
+													<a href="/partner/overview.html" title="Overview" data-dtm-name="About Us - Partner programs - Overview" class=" sectionItemLink">Overview</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/partner/agent.html" title="Channel Partners" class=" sectionItemLink">Channel Partners</a>
+													<a href="/partner/service-providers.html" title="Service Providers" data-dtm-name="About Us - Partner programs - Service Providers" class=" sectionItemLink">Service Providers</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/partner/alliance_partners.html" title="Technology Alliances" class=" sectionItemLink">Technology Alliances</a>
+													<a href="/partner/agent.html" title="Channel partners" data-dtm-name="About Us - Partner programs - Channel partners" class=" sectionItemLink">Channel partners</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="/partner/isvreseller.html" title="Platform Partners" class=" sectionItemLink">Platform Partners</a>
+													<a href="/partner/connectivity-partners.html" title="Connectivity partners" data-dtm-name="About Us - Partner programs - Connectivity partners" class=" sectionItemLink">Connectivity partners</a>
 														</li>
 												<li class="sectionItem ">
-													<a href="//partners.ringcentral.com/" title="Partner Portal Login" class=" sectionItemLink" target="_blank">Partner Portal Login</a>
+													<a href="/partner/isv.html" title="Partner platform" data-dtm-name="About Us - Partner programs - Partner platform" class=" sectionItemLink">Partner platform</a>
+														</li>
+												<li class="sectionItem ">
+													<a href="//partners.ringcentral.com/" title="Partner program login" data-dtm-name="About Us - Partner programs - Partner program login" class=" sectionItemLink" target="_blank">Partner program login</a>
 														</li>
 												</ul>
 										</div>
 										</div>
 									<div class="section">
-										<a href="/whyringcentral/contactus.html" title="Contact Us" class="sectionLinkWrap" data-firetext="Contact Us">
+										<a href="/whyringcentral/contactus.html" title="Contact us" data-dtm-name="About Us - Contact us" class="sectionLinkWrap" data-firetext="Contact Us">
 											<span class="sectionIconBlock">
 												<span class="sectionIcon">
 													<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-476581749" viewBox="0 0 37 25" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
@@ -1964,19 +2394,19 @@ function getCookie(name){
 </svg></span>
 											</span>
 											<span class="sectionLinkBlock">
-												<span class="sectionLink">Contact Us</span>
+												<span class="sectionLink">Contact us</span>
 											</span>
 											</a>
 											<div class="sectionListBlock">
 											<ul class="sectionList clearfix">
 												<li class="sectionItem ">
-													<a href="/whyringcentral/contactus.html" title="Phone &amp; Email" class=" sectionItemLink">Phone &amp; Email</a>
+													<a href="/feedback/sales-contact.html" title="Phone &amp; email" data-dtm-name="About Us - Contact us - Phone &amp; email" class=" sectionItemLink">Phone &amp; email</a>
 														</li>
 												<li class="sectionItem ">
-													<span title="Chat with Sales" data-trackname="data-trackname=Chat|Chat Start" class="sectionItemLink livepersonblock">Chat with Sales</span>
+													<span title="Chat with sales" data-trackname="data-trackname=Chat|Chat Start" data-dtm-element="link" data-dtm-name="About Us - Contact us - Chat with sales" class="sectionItemLink livepersonblock">Chat with sales</span>
 														</li>
 												<li class="sectionItem ">
-													<a href="//success.ringcentral.com/RCContactSupp" title="Chat with Support" data-trackname="data-trackname=Chat|Chat Start" class=" sectionItemLink" target="_blank">Chat with Support</a>
+													<a href="//success.ringcentral.com/RCContactSupp" title="Chat with support" data-dtm-name="About Us - Contact us - Chat with support" data-trackname="data-trackname=Chat|Chat Start" class=" sectionItemLink" target="_blank">Chat with support</a>
 														</li>
 												</ul>
 										</div>
@@ -1987,6 +2417,12 @@ function getCookie(name){
 					</div>
 					</li>
 			</ul>
+		<div class="search-link-block">
+			<a class="search-link IId-rc-navigationPrimary-static--78442158977511" href="/search.html" data-dtm-name="Search">
+				<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg--397698766" viewBox="0 0 18 18" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
+    <path d="M17.76 16.6l-6-6.05a6.56 6.56 0 1 0-1.16 1.16l6 6.05a.82.82 0 0 0 1.16-1.16M1.64 6.55a4.91 4.91 0 1 1 4.91 4.91 4.91 4.91 0 0 1-4.91-4.91"></path>
+</svg></a>
+		</div>
 	</nav>
 <script>
 	(function(){
@@ -2021,7 +2457,6 @@ function getCookie(name){
 				var links = data.links + ' - Hover';
 
 				if(!!links){
-					console.log(links);
 					omnitureFireLink('event31', {'eVar51': links}, {doneAction: function(){return true;}}, link[0]);
 				}
 			}, 500);
@@ -2102,13 +2537,26 @@ function getCookie(name){
 			}
 			CookiesManager.delCookie(currentLinkCookieName, '/', '.ringcentral.com');
 		}
+        changeLink()
+		function changeLink() {
+            var currentLinkCookie = CookiesManager.getCookie('gw_redesign_segment');
+            $('.topmenu_b a[data-change-href="true"]').each(function () {
+                var urlAction = $(this).attr('data-small').trim();
+                if(currentLinkCookie != null){
+                    urlAction = $(this).attr('data-'+currentLinkCookie).trim();
+                    $(this).attr('href',urlAction)
+				}else{
+                    $(this).attr('href',urlAction)
+				}
+            })
+        }
 	})();
 </script></div>
 </header>
 <div class="sprytab_container">
                     </div>
                 <div class="borderTopLine"></div>
-<div class="CId-parsys--623511223 IId-parsys-1585956314 parsys par_heroimage">
+<div class="par_heroimage parsys CId-parsys--623511223 IId-parsys-1585956314">
 </div>
 <div class="rc-content">
 	<div class="rc-content2">
@@ -2117,7 +2565,7 @@ function getCookie(name){
 				<div class="formated clearfix">
 
                     <!-- CONTENT GOES HERE -->					
-					<div class="id-rc-headline CId-id-rc-headline--1071086926 IId-id-rc-headline-2143267897 rc_headline"><div class="headlineWrapper noImage">
+					<div class="rc_headline id-rc-headline CId-id-rc-headline--1071086926 IId-id-rc-headline-2143267897"><div class="headlineWrapper noImage">
 	<div class="headlineWidth">
 <div id="headline">
 		<div class="leftMenuTarget"></div>
@@ -2130,76 +2578,122 @@ function getCookie(name){
 	</div>
 </div>
 </div>
-<div class="par CId-parsys--623511223 parsys IId-parsys-1547258808"><div class="id-rc-textimage parbase CId-id-rc-textimage-334577456 IId-id-rc-textimage--169693171 section"><div class="content_bl  content_">
+<div class="par parsys CId-parsys--623511223 IId-parsys-1547258808"><div class="id-rc-textimage parbase CId-id-rc-textimage-334577456 IId-id-rc-textimage--169693171 section"><div class="content_bl  content_">
 	<div class="text_bl">
-				<p class="upd_str"><i>Last Updated:</i> September 11, 2017</p>
-<p>RingCentral, Inc. and its worldwide subsidiaries are committed to protecting your privacy. This Privacy Notice (“<b>Notice</b>”), (“<b>RingCentral</b>”, “<b>us</b>”, “<b>we</b>”, “<b>our</b>”) explains our privacy practices and provides information on how and why we collect, use and share your personal information when you visit our websites, available at <a href="/">www.ringcentral.com</a>, <a href="https://www.ringcentral.ca" target="_blank">www.ringcentral.ca</a>, <a href="https://www.ringcentral.co.uk" target="_blank">www.ringcentral.co.uk</a>, www.ringcentral.cn, <a href="http://www.ringcentral.sg" target="_blank">www.ringcentral.sg</a> and its sub-domains ("<b>Website</b>"), our mobile application ("<b>App</b>") or use our unified cloud communications and collaboration platform ("<b>Plan Services</b>"). The policy also describes your choices regarding use, access and correction of your personal information.</p>
-<h2>INFORMATION WE COLLECT</h2>
-<p><i>Information which you provide to us</i></p>
-<p>We collect information which our customers and users provide directly to us when they use our Website, App or Plan Services. The types of personal information we may collect directly from customers and users include email addresses, postal addresses, phone numbers, employee names, usernames, information about the type of service required, marketing preferences, job titles, credit card payment information, transactional information (including Plan Services purchased), as well as any contact or other information customers choose to provide for us to undertake the Plan Services.</p>
-<p>When you provide personal information about a customer’s or User’s contacts, we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at <a href="mailto:privacy@ringcentral.com">privacy@ringcentral.com</a>.</p>
-<p><i>Information we collect automatically when you visit our Website or App or use our Plan Services</i></p>
-<p>Usage information – We keep track of customer and user activity in relation to the Website, App or Plan Services, the configuration of their computers, and performance metrics related to their use of the Website, App or Plan Services. Log information – We log information about our customers and their Users when they use the Website or App including Internet Protocol ("<b>IP</b>") address, Internet Service Provider ("<b>ISP</b>"), browser type, referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site. Device information – We collect your mobile phone number and other information related to your mobile device like its operating system and model if you use our Plan Services via our App. Information collected by cookies and other similar technologies. We use various technologies to collect information which may include saving cookies to Users' computers.</p>
-<p><i>Information we collect from third parties</i></p>
-<p>In the U.S. and Canada, we may collect the names, e-mail addresses, postal addresses and city of residence of individuals from third parties in order to market our products / services to these individuals. This collection of information and marketing is always carried out in compliance with applicable law.</p>
-<p>We may receive personal information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you.</p>
-<h2>INFORMATION WE USE</h2>
-<p>We may use the information we collect from customers and users for a range of purposes, including to:</p>
-<ul class="list-sml-lft-mrg">
-<li>Provide, operate and maintain the Website, App or Plan Services;</li>
-<li>Process and complete transactions, and send related information, including transaction confirmations and invoices;</li>
-<li>Manage our customers' and users' use of the Website, App or Plan Services, respond to enquiries and comments and provide customer service and support;</li>
-<li>Analyze customers' and users' use of the Website, App or Plan Services for trend monitoring, marketing and advertising purposes;</li>
-<li>Prepare and provide customer and user testimonials regarding the Website, App and / or Plan Services;</li>
-<li>Improve the Website, App or Plan Services;</li>
-<li>Send customers technical alerts, updates, security notifications, and administrative communications;</li>
-<li>Investigate and prevent fraudulent activities, unauthorized access to the Website, App or Plan Services, and other illegal activities; and</li>
-<li>For any other purposes about which we notify and receive express consent from customers and users.</li>
+				<p class="btm-align-text">We updated the RingCentral Privacy Policy on May 22, 2018. These changes will be effective June 22, 2018, to customers who signed up for RingCentral service before May 22, 2018. View a record of the previous <a href="/legal/privacy-notice_09112017.html">Privacy Notice</a>.</p>
+<p>RingCentral, Inc. and its worldwide subsidiaries are committed to protecting your privacy. This Privacy Notice (“<b>Notice</b>”), (“<b>RingCentral</b>”, “<b>us</b>”, “<b>we</b>”, “<b>our</b>”) explains our privacy practices and provides information on how and why we collect, use and share your personal data through our interaction with you and through our products and services and. when you visit our international websites, available at <a href="/">www.ringcentral.com</a>, <a href="https://www.ringcentral.ca" target="_blank">www.ringcentral.ca</a>, <a href="https://www.ringcentral.co.uk" target="_blank">www.ringcentral.co.uk</a>, <a href="//www.ringcentral.sg" target="_blank">www.ringcentral.sg</a>, <a href="https://www.ringcentral.fr" target="_blank">www.ringcentral.fr</a>, <a href="https://www.ringcentral.ie" target="_blank">www.ringcentral.ie</a>, <a href="https://www.ringcentral.nl" target="_blank">www.ringcentral.nl</a>, <a href="https://www.ringcentral.au" target="_blank">www.ringcentral.au</a>, and its sub-domains ("<b>Website</b>"), our desktop, IP desk phone, and mobile applications ("<b>App</b>") or use our unified cloud communications and collaboration platform ("<b>Services</b>"). The policy also describes your choices regarding use, access, deletion and correction of your personal information.</p>
+<p>RingCentral’s Privacy Notice applies to Customers (including Customer’s End Users) and Users (all other individuals who use the RingCentral products or website) provide directly to us when they use our Website, Apps, or Services.</p>
+<h2>QUICK LINKS</h2>
+<p>We recommend that you read this Notice in full to ensure you are fully informed. However, if you only want to access a particular section of this Notice, then you can click on the relevant link below to jump to that section.</p>
+<ul class="list-sml-lft-mrg bl-quick-links">
+<li><a href="#1">Information we collect</a></li>
+<li><a href="#2">Information we use</a></li>
+<li><a href="#3">Sharing and disclosure of information to third parties</a></li>
+<li><a href="#4">Your privacy rights</a></li>
+<li><a href="#5">Third-party sites</a></li>
+<li><a href="#6">Blogs and forums</a></li>
+<li><a href="#7">Security</a></li>
+<li><a href="#8">Data retention</a></li>
+<li><a href="#9">International data transfers</a></li>
+<li><a href="#10">Children`s privacy</a></li>
+<li><a href="#11">Changes to notice</a></li>
+<li><a href="#12">Contact Us</a></li>
 </ul>
-<p>We and our third party marketing service providers may also use the information customers and users send to us for our marketing purposes, if this is in accordance with your marketing preferences and applicable law. However, you may opt out of our marketing. For further information, see the "<i>Unsubscribe from Our Mailing List</i>" section below.</p>
-<h2>SHARING AND DISCLOSURE OF INFORMATION TO THIRD PARTIES</h2>
-<p>We may share and disclose information we collect from customers and users with the following third parties:</p>
+<h2 id="1">INFORMATION WE COLLECT</h2>
+<p><i>Information which you provide to us</i></p>
+<p>We collect information which you provide directly to us when you use our Website, Apps or Services. The types of personal information we may collect directly from you include email addresses, postal addresses, phone numbers, employee names, usernames, information about the type of service required, marketing preferences, job titles, credit card payment information, transactional information (including Services purchased), as well as any communications, inquiries, contact or other information you choose to provide during your use of the Services.</p>
+<p>When you provide personal information we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at <a href="mailto:privacy@ringcentral.com" target="_blank">privacy@ringcentral.com</a>.</p>
+<p><i>Information we collect automatically when you visit our Website or Apps or use our Services</i></p>
+<p>When you visit our Website, or use our Apps or Services, we may collect certain information automatically from your device. In some countries, including in the European Economic Area, this information may be considered personal data under applicable data protection laws:</p>
+<p>Usage information – We keep track of your activity in relation to the Website, Apps or Services, the configuration of their computers, and performance metrics related to their use of the Website, Apps or Services. For example, when you use our Services, we may collect:</p>
+<ul class="no-img-list">
+<li>1. Traffic data about the communications that take place through our platform (such as calls, team chat, video conferencing, SMS,) to enable us to transmit those communications effectively and efficiently;</li>
+<li>2. Network Monitoring data to enable us to maintain the security and agility of our internal networks;</li>
+<li>3. Log data about you when they use the Services, Website or Apps including Internet Protocol ("<b>IP</b>") address, Internet Service Provider ("<b>ISP</b>"), browser type, referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site;</li>
+<li>4. Device data about any device including mobile phone number and other information related to mobile devices like operating system and model if you use our Services via our Apps. For other devices information collected by cookies and other similar technologies. We use various technologies to collect information which may include saving cookies to your computers;</li>
+<li>5. Call Detail Records of data record produced by a telephone call or other telecommunications transactions. The record contains various attributes of the call, such as time, duration, completion status, source number and destination number;</li>
+<li>6. Meta data, which is data created about other data which can include size, formatting, other characteristics of a data item;</li>
+<li>7. Emails/Communications with us; and</li>
+<li>8. Billing data, which includes any payment data.</li>
+</ul>
+<p>Cookies and other similar technologies – We use various technologies to collect information which may include cookies when you visit our Website, or use our Apps or Services. Please see the <a href="/cookies.html">RingCentral Cookies Notice</a> for further information.</p>
+<p><i>Information we collect from third parties</i></p>
+<p>We may collect the names, e-mail addresses, postal addresses and city of residence of individuals from third parties to market our products / services to these individuals. This collection of information and marketing is always carried out in compliance with applicable law.</p>
+<p>We may receive personal information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you, in accordance with applicable laws. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you.</p>
+<p>We may collect personal information about you from other applications you may use if you choose to integrate RingCentral Apps or Services with other Apps or Services.</p>
+<h2 id="2">INFORMATION WE USE</h2>
+<p>We may use the information we collect from you for a range of purposes, including to:</p>
+<ul class="list-sml-lft-mrg">
+<li>Administer, operate, protect and maintain the Website, Apps or Services;</li>
+<li>Process and complete transactions, and send related information, including transaction confirmations and invoices;</li>
+<li>Manage and improve your use of the Website, Apps or Services;</li>
+<li>Prepare and provide you testimonials regarding the Website, Apps and / or Services;</li>
+<li>To help deliver our Website, Apps, or Services to Customers for service and support;</li>
+<li>Investigate and prevent fraudulent activities, unauthorized access to the Website, Apps or Services, and other illegal activities; and</li>
+<li>For any other purposes about which we notify and receive your consent from you;</li>
+<li>To help personalize your experience and retarget you for advertising purposes;</li>
+<li>Respond to inquiries and equests and to provide you with information and access to resources that you have requested;</li>
+<li>Analyze and aggregate your and use of the Website, Apps or Services for trend monitoring, marketing advertising purposes; and</li>
+<li>Send you technical alerts, updates, security notifications, and administrative communications.</li>
+</ul>
+<p>We and our third-party marketing service providers may also use the information Customers send to us for our marketing purposes, if this is in accordance with your marketing preferences and applicable law. However, you may opt out of our marketing. For further information, see the "<i><a href="https://go.ringcentral.com/unsubscribepage.html" target="_blank">Unsubscribe</a> from Our Mailing List"</i> section below.</p>
+<p><i>Legal basis for processing personal information (EEA only)</i></p>
+<p>If you are from the European Economic Area (EEA), our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.</p>
+<p>However, we will normally collect personal information from you only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect the personal information in question.</p>
+<p>If we ask you to provide personal information to comply with a legal requirement or enter into a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).</p>
+<p>Similarly, if we collect and use your personal information in reliance on our or a third party's legitimate interests and those interests are not already listed above (see "Information We Use" section), we will make clear to you at the relevant time what those legitimate interests are.</p>
+<p>If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the "Contact Us" section below.</p>
+<h2 id="3">SHARING AND DISCLOSURE OF INFORMATION TO THIRD PARTIES</h2>
+<p>We may share and disclose your information we collect with the following third parties:</p>
 <ul class="list-sml-lft-mrg">
 <li>RingCentral or any of its worldwide affiliates consistent with this Notice for data processing;</li>
 <li>Business partners, contractors, vendors, and authorized third party agents, to:<ul>
-<li>enable us to provide our services;</li>
-<li>provide your company with information about RingCentral products and services of potential interest to your company, where permitted by law; and</li>
-<li>analyze and maintain RingCentral networks;</li>
+<li>Operate, deliver, improve and customize our Services</li>
+<li>Provide support and technical services;</li>
+<li>Send marketing and other communications related to business;</li>
+<li>Enforce our acceptable use policy;</li>
+<li>Law enforcement agencies, regulatory or governmental bodies, or other third parties in order to respond to legal process, comply with any legal obligation; protect or defend our rights, interests or property or that of third parties; prevent or investigate wrongdoing in connection with the Website, Apps or our Services;</li>
+<li>Any third parties in connection with prospective or actual, sale, merger, acquisition, financing or reorganization of our business.</li>
 </ul>
 </li>
-<li>Law enforcement agencies, regulatory or governmental bodies, or other third parties in order to respond to legal process, comply with any legal obligation; protect or defend our rights, interests or property or that of third parties; prevent or investigate wrongdoing in connection with the Website, App or our Plan Services; and</li>
-<li>Any third parties in connection with a prospective or actual sale, merger, acquisition, financing or reorganization of all or parts of our business.</li>
 </ul>
-<h2>YOUR PRIVACY RIGHTS</h2>
+<h2 id="4">YOUR PRIVACY RIGHTS</h2>
 <p><i>Update and access to your information</i></p>
-<p>Where we process personal information collected via our Website or App or via our Plan Services for our own account management, billing or marketing purposes and where required by applicable law, we provide individuals with the opportunity to access, review, modify, and delete any such personal information that was previously provided. You can send an email to <a href="mailto:privacy@ringcentral.com">privacy@ringcentral.com</a>. We will respond within a reasonable time frame. If you make a request to access your personal information, we may charge you a fee where permitted by applicable law.</p>
-<p>In general, when processing personal information to provide our Plan Services, we do so only on behalf of our customers and in accordance with their instructions. This means that if you wish to access, review, modify or delete any personal information we process on behalf of a RingCentral customer, you should contact that customer with your request. We will then help them to fulfill that request in accordance with their instructions.</p>
+<p>Where we process personal information collected via our Website or Apps or via our Services for our own account management, billing or marketing purposes and where required by applicable law, we provide individuals with the opportunity to access, review, modify, and delete any such personal information that we process.</p>
+<p><i>Your Privacy Rights as an EEA Person</i></p>
+<p>In addition, if you are from the EEA, you may have broader rights to access and delete your personal information, to object to or restrict processing of your personal information, or request portability of your personal information.</p>
+<p>To make such requests, you can send an email to <a href="mailto:privacy@ringcentral.com">privacy@ringcentral.com</a> or write to us at the mailing address in the "Contact Us" section below. We will consider and handle all requests in accordance with applicable laws.</p>
+<p>If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.</p>
+<p>You also have the right to complain to your local data protection authority at any time.</p>
+<p>In general, when processing personal information to provide our Services, we do so only on behalf of our EEA Customers and in accordance with their instructions. This means that if you wish to access, review, modify or delete any personal information we process on behalf of a RingCentral Customer, under applicable EEA law or otherwise, you should contact that Customer with your request. We will then help them to fulfill that request in accordance with their instructions.</p>
 <p><i>Your Privacy Rights as a California Resident</i></p>
-<p>If you are a California resident and receive RingCentral Plan Services or visit our Website or App solely as a private individual—in other words, not as the member or representative of a company or other organization—you may have the right to receive a free, yearly accounting of:</p>
+<p>If you are a California resident and receive RingCentral Services or visit our Website or Apps solely as a private individual—in other words, not as the member or representative of a company or other organization—you may have the right to receive a free, yearly accounting of:</p>
 <ul class="no-img-list">
-<li>(1) information identifying each third party company to whom we may have disclosed, within the past year, personal information pertaining to you for that company’s direct marketing purposes; and</li>
+<li>(1) information identifying each third party company to whom we may have disclosed, within the past year, personal information pertaining to you for our direct marketing purposes; and</li>
 <li>(2) a description of the categories of personal information disclosed.</li>
 </ul>
 <p>If you are a California resident who qualifies to receive such an accounting and would like to make one, please email <a href="mailto:privacy@ringcentral.com">privacy@ringcentral.com</a></p>
 <p><i>Unsubscribe from our mailing list</i></p>
 <p>You may at any time ask us to remove you from our mailing list by sending us an email at <a href="mailto:unsubscribe@ringcentral.com">unsubscribe@ringcentral.com</a> or by visiting&nbsp;<a href="https://go.ringcentral.com/unsubscribepage.html" target="_blank">https://go.ringcentral.com/unsubscribepage.html</a>, or by clicking "Unsubscribe" in any e-mail communications or push notification we send you. We will remove you from our mailing list in accordance with applicable laws.</p>
-<p>To request that your phone number be removed from future sales calls, please email <a href="mailto:unsubscribe@ringcentral.com">unsubscribe@ringcentral.com.</a></p>
-<h2>THIRD-PARTY SITES</h2>
+<p>To request that your phone number be removed from future sales calls, please email <a href="mailto:unsubscribe@ringcentral.com">unsubscribe@ringcentral.com</a>.</p>
+<h2 id="5">THIRD-PARTY SITES</h2>
 <p>This Notice does not apply to, nor are we responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Website links including but not limited to social media sites. The inclusion of a link on the Website does not imply our endorsement of the linked site or service.</p>
-<h2>BLOGS AND FORUMS</h2>
-<p>Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas is public and may be read, collected, and used by others who access them and may remain on the public forum indefinitely. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:privacy@ringcentral.com">privacy@ringcentral.com</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. We encourage all users to exercise caution when providing personal information in blogs and community forums.</p>
-<h2>SECURITY</h2>
-<p>Keeping your information secure is important to us. We maintain a variety of appropriate technical and organizational safeguards to protect your personal information both during transmission and once it is received. RingCentral has no control over or responsibility for the security or privacy policies or practices of other sites on the Internet you might visit, interact with, or from which you might buy products or Plan Services, even if you visit them using links from our Website.</p>
-<p>Please note that no website, mobile app or service is completely secure and so, while we endeavor to protect our customers' information using the measures described above, we cannot guarantee that unauthorized access, hacking, data loss or a data breach will not occur.</p>
-<h2>DATA RETENTION</h2>
+<h2 id="6">BLOGS AND FORUMS</h2>
+<p>Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas is public and may be read, collected, and used by others who access them and may remain on the public forum indefinitely. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:privacy@ringcentral.com">privacy@ringcentral.com</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. We encourage all Users to exercise caution when providing personal information in blogs and community forums.</p>
+<h2 id="7">SECURITY</h2>
+<p>Keeping your information secure is important to us. We maintain a variety of appropriate technical and organizational safeguards to protect your personal information both during transmission and once it is received. RingCentral has no control over or responsibility for the security or privacy policies or practices of other sites on the Internet you might visit, interact with, or from which you might buy products or Services, even if you visit them using links from our Website.</p>
+<p>Please note that no website, mobile app or service is completely secure and so, while we endeavor to protect our Customers' information using the measures described above, we cannot guarantee that unauthorized access, hacking, data loss or a data breach will not occur.</p>
+<h2 id="8">DATA RETENTION</h2>
 <p>We will retain your personal information for no longer than is necessary to fulfill the purposes for which the information was originally collected unless a longer retention period is required or permitted by law, for legal, tax or regulatory reasons, or other legitimate and lawful business purposes.</p>
-<h2>INTERNATIONAL DATA TRANSFERS</h2>
-<p>Information collected outside the United States, including in the European Economic Area ("<b>EEA</b>"), may be transferred to the United States. Your information may be stored on our servers in the United States, Switzerland, and Netherlands, and potentially in other countries whose data protection laws may be different to the laws in your country. We will protect your information in accordance with this Notice wherever it is processed. In addition, RingCentral has self-certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. Please <a href="/legal/privacy-shield-notice.html"><u><b>click here</b></u></a> to view our Privacy Shield Notice.</p>
-<h2>CHILDREN'S PRIVACY</h2>
+<p>Where we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it.</p>
+<h2 id="9">INTERNATIONAL DATA TRANSFERS</h2>
+<p>Your personal information may be transferred to, and processed in, countries other than the country in which you are resident. Specifically, information collected outside the United States, including in the European Economic Area ("<b>EEA</b>"), may be transferred to and stored on our servers in the United States, Switzerland, and Netherlands, and potentially in other countries where our group companies and third party service providers and partners operate. These countries may have data protection laws that are different to the laws in your country (and in some cases, may not be as protective).</p>
+<p>However, we have taken appropriate safeguards to ensure that your personal information will remain protected in accordance with this Notice and applicable laws. For example, in respect of personal information originating from the EU and Switzerland, RingCentral has self-certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. Please <a href="/legal/privacy-shield-notice.html">click here</a> to view our Privacy Shield Notice.</p>
+<h2 id="10">CHILDREN'S PRIVACY</h2>
 <p>RingCentral does not provide products or services that are designed for use by children under the age of 16, or knowingly collect personal information from or about children under the age of 16. If you believe that a child under the age of 16 has disclosed personal information to RingCentral, please contact <a href="mailto:privacy@ringcentral.com">privacy@ringcentral.com</a>.</p>
-<h2>CHANGES TO NOTICE</h2>
-<p>If we change our Notice, we will post those changes on this page in addition to updating the "Last Updated" date at the top of this webpage. If we make material changes, we will notify you more directly, for example by posting a notification or message on the Website or by emailing you prior to such changes taking effect. We encourage you to review this Notice regularly to stay informed of the latest modifications.</p>
-<h2>CONTACT US</h2>
+<h2 id="11">CHANGES TO NOTICE</h2>
+<p>If we change our Notice, we will post those changes on this page in addition to updating the "Last Updated" date at the top of this webpage. If we make changes, we will notify you more directly, for example by posting a notification or message on the Website or by emailing you prior to such changes taking effect. We encourage you to review this Notice regularly to stay informed of the latest modifications.</p>
+<h2 id="12">CONTACT US</h2>
 <p>If you have any questions, comments or concerns about this Notice, please e-mail us at <a href="mailto:privacy@ringcentral.com">privacy@ringcentral.com</a>. Or, you can write to us at:</p>
 <ul class="cstm-list-contacts no-img-list">
 <li>RingCentral, Inc.</li>
@@ -2207,9 +2701,6 @@ function getCookie(name){
 <li>20 Davis Drive,</li>
 <li>Belmont, California</li>
 </ul>
-<p class="btm-align-text">RingCentral<sup>®</sup>&nbsp;Privacy Notice<br>
-Updated<br>
-The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy_11282013.html">https://www.ringcentral.com/legal/privacy-policy_11282013.html</a></p>
 </div>
 		</div>
 </div>
@@ -2217,7 +2708,7 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
 </div>
 </div></div>
 		<aside class="rc-sidebar" role="complementary">
-				<div class="rc_left_menu_static CId-rc-left-menu-static-1863362558 IId-rc-left-menu-static--1679502725 rc-left-menu-static"><div class="over_nav legal">
+				<div class="rc_left_menu_static rc-left-menu-static CId-rc-left-menu-static-1863362558 IId-rc-left-menu-static--1679502725"><div class="over_nav legal">
                 <div id="left-nav">
                     <ul>
                         <li class="li-top no_sub_m"><a href="/legal.html"><span>Legal Overview</span></a></li>
@@ -2226,7 +2717,9 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
                                     <ul class="menu zoomMenu">
                                         <li><a href="/legal/eulatos.html">RingCentral Terms of Service</a></li>
                                             <li><a href="/legal/cc-eulatos.html">Contact Center End User License Agreement</a></li>
+                                            <li><a href="/legal/rcmeetings-tos.html">RingCentral Meetings Terms of Service</a></li>
                                             <li><a href="/legal/tou.html">Website Terms of Use</a></li>
+                                            <li><a href="/legal/acceptable-use-policy.html">Acceptable Use Policy</a></li>
                                             <li><a href="/legal/privacy-notice.html">Privacy Notice</a></li>
                                             <li><a href="/legal/privacy-shield-notice.html">Privacy Shield Notice</a></li>
                                             <li><a href="/legal/apilitos.html">API License Agreement</a></li>
@@ -2249,8 +2742,8 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
                             <li>
                                     <a href="#" class="notToTop"><span>Policies</span></a>
                                     <ul class="menu zoomMenu">
-                                        <li><a href="/legal/policies/esignatures.html">Electronic Disclosure and Consent (e-Signature)</a></li>
-                                            <li><a href="/legal/policies/porting.html">Number Porting Policy</a></li>
+                                        <li><a href="/legal/policies/technical-sufficiency-criteria.html">Technical Sufficiency Criteria</a></li>
+                                            <li><a href="/legal/policies/numbering-policy.html">Numbering Policy</a></li>
                                             <li><a href="/legal/emergency-services.html">Emergency Services</a></li>
                                             <li><a href="/legal/policies/data-request-guidelines.html">RingCentral Data Request Guidelines</a></li>
                                             </ul>
@@ -2286,14 +2779,14 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
         </div>
 <!-- parsys fix, makes it appear below this component -->
 				<div style="clear:both"></div>
-            	<div class="CId-rc-key-assets-static--1283686430 rc_key_assets_static rc-key-assets-static IId-rc-key-assets-static--1276866555"></div>
+            	<div class="rc_key_assets_static rc-key-assets-static CId-rc-key-assets-static--1283686430 IId-rc-key-assets-static--1276866555"></div>
 <div style="clear:both"></div>
-				<div class="IId-rc-faxtestdrive-static-741178961 CId-rc-faxtestdrive-static--1808847976 rc-faxtestdrive-static rc_fax_testdrive"></div>
+				<div class="rc_fax_testdrive rc-faxtestdrive-static IId-rc-faxtestdrive-static-741178961 CId-rc-faxtestdrive-static--1808847976"></div>
 <br>
 			</aside>
 		<div class="rc-content5"></div>
 			<div id="bloks_conteiner" class="clearfix">
-	<div class="CId-parsys--623511223 IId-parsys-1917930704 parsys par_fullwidth">
+	<div class="par_fullwidth parsys CId-parsys--623511223 IId-parsys-1917930704">
 </div>
 </div></div>
 	</div>
@@ -2302,8 +2795,10 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
             </div>
         <div class="footer_wrap IId-footer--1 CId-footer--1">
                 <footer>
-	<div class="CId-rc-footer-mobile-2070946796 rc-footer-mobile IId-rc-footer-mobile-1554614465"><link rel="stylesheet" href="/etc/designs/ringcentral/components/rc-footer-mobile/clientlibs.min.css" type="text/css">
-<div class="CId-rc-countrySelector--335825299 IId-rc-countrySelector-100224519 rc-countrySelector"><div class="countriesNav expandable"><p class="blockHeader listHeader"><b>Country: </b> <span class="defaultCountry" id="header_country">United States</span></p><ul class="countriesList subList"><li><a title="RingCentral Canada - Virtual Office Phone System" href="https://www.ringcentral.ca"><span>Canada</span><span class="lng">En</span></a></li><li><a title="RingCentral France - Virtual Office Phone System" href="https://www.ringcentral.fr/"><span>France</span><span class="lng">Fr</span></a></li><li><a title="RingCentral Ireland - Virtual Office Phone System" href="https://www.ringcentral.ie/"><span>Ireland</span><span class="lng">En</span></a></li><li><a title="RingCentral Netherlands - Virtual Office Phone System" href="https://www.ringcentral.nl/en/"><span>Netherlands</span><span class="lng">En</span></a></li><li><a title="RingCentral Singapore - Virtual Office Phone System" href="https://www.ringcentral.com/sg/"><span>Singapore</span><span class="lng">En</span></a></li><li><a title="RingCentral UK - Virtual Office Phone System" href="https://www.ringcentral.co.uk/"><span>United Kingdom</span><span class="lng">En</span></a></li><li><a title="RingCentral US - Virtual Office Phone System" class="currentRegion" href="/"><span>United States</span><span class="lng">En</span></a></li></ul></div></div>
+	<div class="rc-footer-mobile CId-rc-footer-mobile-2070946796 IId-rc-footer-mobile-1554614465"><link rel="stylesheet" href="/etc/designs/ringcentral/components/rc-footer-mobile/clientlibs.min.e06285ee0e6db50b055b4ad95f1ccaa3.css" type="text/css">
+<div class="rc-countrySelector CId-rc-countrySelector--335825299 IId-rc-countrySelector-100224519"><div class="countriesNav expandable"><p class="blockHeader listHeader"><b>Country: </b> <span class="defaultCountry" id="header_country">United States</span></p><ul class="countriesList subList">
+		<li><a title="RingCentral Australia - Virtual Office Phone System" href="https://www.ringcentral.com.au/" data-dtm-name="Australia"><span>Australia</span><span class="lng">En</span></a></li>
+		<li><a title="RingCentral Canada - Virtual Office Phone System" href="https://www.ringcentral.ca" data-dtm-name="Canada"><span>Canada</span><span class="lng">En</span></a></li><li><a title="RingCentral France - Virtual Office Phone System" href="https://www.ringcentral.fr/" data-dtm-name="France"><span>France</span><span class="lng">Fr</span></a></li><li><a title="RingCentral Ireland - Virtual Office Phone System" href="https://www.ringcentral.ie/" data-dtm-name="Ireland"><span>Ireland</span><span class="lng">En</span></a></li><li><a title="RingCentral Netherlands - Virtual Office Phone System" href="https://www.ringcentral.nl/en/" data-dtm-name="Netherlands"><span>Netherlands</span><span class="lng">En</span></a></li><li><a title="RingCentral Singapore - Virtual Office Phone System" href="https://www.ringcentral.sg/" data-dtm-name="Singapore"><span>Singapore</span><span class="lng">En</span></a></li><li><a title="RingCentral UK - Virtual Office Phone System" href="https://www.ringcentral.co.uk/" data-dtm-name="United Kingdom"><span>United Kingdom</span><span class="lng">En</span></a></li><li><a title="RingCentral US - Virtual Office Phone System" class="currentRegion" href="/" data-dtm-name="United States"><span>United States</span><span class="lng">En</span></a></li></ul></div></div>
 <nav class="footerMenu"><ul><li class="parent_features sub expandable"><p class="listHeader">Phone System Features</p><ul class="subList"><li><a class="" href="/office/features/toll-free-numbers/overview.html" title="Toll-Free Numbers">Toll-Free Numbers</a></li><li><a class="" href="/business-phone-system.html" title="Business Phone">Business Phone</a></li><li><a class="" href="/office/features/call-forwarding/overview.html" title="Call Forwarding">Call Forwarding</a></li><li><a class="" href="/office/features/call-logs/overview.html" title="Call Logs">Call Logs</a></li><li><a class="" href="/office/features/online-meetings/overview.html" title="Online Meetings">Online Meetings</a></li><li><a class="" href="/office/features/softphone/overview.html" title="Softphone">Softphone</a></li><li><a class="" href="/fax/features.html " title="Fax">Fax</a></li></ul></li><li class="parent_helpful sub expandable"><p class="listHeader">Helpful Links</p><ul class="subList"><li><a class="" href="/whyringcentral/company.html" title="About Us">About Us</a></li><li><a class="" href="/whyringcentral/contactus.html" title="Contact Us">Contact Us</a></li><li><a class="blank" href="https://success.ringcentral.com/" target="_blank" title="Support">Support</a></li></ul></li><li class="break"></li><li class="parent_list sub"><ul class="subList"><li><a class="" href="/legal.html" title="Legal">Legal</a></li><li><a class="" href="/legal/privacy-notice.html" title="Privacy Notice">Privacy Notice</a></li><li><a class="" href="/sitemap.html" title="Sitemap">Sitemap</a></li></ul></li><li class="parent_list socials sub"><ul class="subList"><li><a class="socialIcon socialIcon-linkedin responsive-tablet blank" href="https://touch.www.linkedin.com/mainsite?sessionid=1813639164067840&amp;redirect_url=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fringcentral%3F_mSplash%3D1&amp;rs=false" target="_blank" title="LinkedIn"></a></li><li><a class="socialIcon socialIcon-google responsive-tablet blank" href="https://plus.google.com/+ringcentral" target="_blank" title="Google+"></a></li><li><a class="socialIcon socialIcon-twitter blank" href="https://mobile.twitter.com/ringcentral" target="_blank" title="Twitter"></a></li><li><a class="socialIcon socialIcon-facebook responsive-tablet blank" href="https://m.facebook.com/ringcentral?refsrc=http%3A%2F%2Fwww.ringcentral.com%2F&amp;_rdr" target="_blank" title="Facebook"></a></li></ul></li></ul>
 </nav></div>
 <div class="rc_global_footer rc-global-footer-static CId-rc-global-footer-static-1569928286 IId-rc-global-footer-static--1393427854"><div class="foot_images clearfix">
@@ -2315,7 +2810,7 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
 		<a href="javascript:window.open('https://www.bbb.org/online/consumer/cks.aspx?id=104091615355746208','','width=350,height=500,status=no,scrollbars=yes,resizable=yes'); void('');" title="BBB Accredited Business" data-dtm-url="https://www.bbb.org/online/consumer/cks.aspx?id=104091615355746208">
 		    		<span class="footer-logo footer-logo--bbb"></span>
 		    	</a>
-				<a class="skyhigh_enterprise_logo" title="Skyhigh Enterprise-ready" target="_blank" href="http://www.skyhighnetworks.com/enterprise-ready/" rel="nofollow">
+				<a class="skyhigh_enterprise_logo" title="Skyhigh Enterprise-ready" target="_blank" href="https://www.skyhighnetworks.com/cloud-trust-program/" rel="nofollow">
 					<span class="footer-logo footer-logo--skyhigh"></span>
 				</a>
 				<a href="javascript:void('');" tooltip="linkalert-tip" onclick="javascript:window.open('https://sealserver.trustkeeper.net/compliance/cert.php?code=331bb3cfa0cf06b30cd5fafd57e7188e', 'hATW', 'location=no, toolbar=no, resizable=no, scrollbars=yes, directories=no, status=no, width=520, height=335'); return false;" oncontextmenu="alert('Copying Prohibited by Law - Trusted Commerce is a Service Mark of TrustWave Holdings, Inc.');return false" title="Trustwave Trusted Commerce" data-dtm-url="https://sealserver.trustkeeper.net/compliance/cert.php?code=331bb3cfa0cf06b30cd5fafd57e7188e">
@@ -2325,7 +2820,7 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
 </div>
 <div class="line_separator">&nbsp;</div>
 <p class="foot_menu clearfix">
-<span class="rc_copyright">© 1999-2017 RingCentral, Inc. All rights reserved.</span>
+<span class="rc_copyright">© 1999-2018 RingCentral, Inc. All rights reserved.</span>
 <span class="rc_footer_links aligntoright">
 	<a href="/lp/business-toll-free.html">Business Toll Free</a> | 
 						<a href="/fax/features/whitepaper.html">Computer Fax</a> | 
@@ -2354,7 +2849,7 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
 		<div class="container">
 			<div class="logoPhoneContainer">
 				<div class="logoBlock">
-					<a href="/">
+					<a href="/" title="RingCentral Virtual PBX, Phone and Internet Fax Service and Software" data-dtm-name="Logo">
 						<svg>
 	<use xlink:href="#svg-825961021"></use>
 </svg>
@@ -2365,10 +2860,336 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
 				</div>
 			</div>
 			<div class="topListBlock clearfix">
-				</div>
+				<div class="halfBlock">
+							<div class="sectionTitle CId-footer--888 IId-footer--889">
+
+								<a href="/solutions/small-business.html" title="For small business" data-dtm-name="Small" data-dtm-element="button" data-omni-value="Small">
+									For small business</a>
+							</div>
+							<div class="listBlock clearfix">
+								<div class="thirdBlock">
+										<div class="title">
+											<a href="/technology/overview.html" title="Why RingCentral">
+												Why RingCentral</a>
+										</div>
+										<div class="listItems">
+											<div class="item">
+													<a href="/technology/reliability.html" title="Reliability">
+															Reliability</a>
+												</div>
+											<div class="item">
+													<a href="/technology/security.html" title="Security">
+															Security</a>
+												</div>
+											<div class="item">
+													<a href="/office/features/rcmobile/overview.html" title="Mobility">
+															Mobility</a>
+												</div>
+											<div class="item">
+													<a href="//www.ringcentral.com/apps/" title="Integrations and APIs" target="_blank">
+															Integrations and APIs</a>
+												</div>
+											<div class="item">
+													<a href="https://www.ringcentral.com/small-business/blog/" title="Small business blog" target="_blank">
+															Small business blog</a>
+												</div>
+											</div>
+									</div>
+								<div class="thirdBlock">
+										<div class="title">
+											<a href="/all-products.html" title="Products">
+												Products</a>
+										</div>
+										<div class="listItems">
+											<div class="item">
+													<a href="/office/how-it-works.html" title="Office">
+															Office</a>
+												</div>
+											<div class="item">
+													<a href="/pro/features/how-it-works.html" title="Professional">
+															Professional</a>
+												</div>
+											<div class="item">
+													<a href="/online-meetings/overview.html" title="Meetings">
+															Meetings</a>
+												</div>
+											<div class="item">
+													<a href="/teams/overview.html" title="Glip team collaboration">
+															Glip team collaboration</a>
+												</div>
+											<div class="item">
+													<a href="/fax/features/how-it-works.html" title="Fax">
+															Fax</a>
+												</div>
+											<div class="item">
+													<a href="/contact-center/overview.html" title="Contact Center">
+															Contact Center</a>
+												</div>
+											<div class="item">
+													<a href="https://www.ringcentral.com/apps/" title="App Gallery" target="_blank">
+															App Gallery</a>
+												</div>
+											<div class="item">
+													<a href="/all-products.html" title="All products">
+															All products</a>
+												</div>
+											<div class="item">
+													<a href="/office/plansandpricing.html" title="Pricing">
+															Pricing</a>
+												</div>
+											<div class="item">
+													<a href="/releases/" title="Releases">
+															Releases</a>
+												</div>
+											</div>
+									</div>
+								<div class="thirdBlock">
+										<div class="title">
+											<a href="/office/phone-system-features.html" title="Features">
+												Features</a>
+										</div>
+										<div class="listItems">
+											<div class="item">
+													<a href="/office/features/toll-free-numbers/overview.html" title="Phone numbers">
+															Phone numbers</a>
+												</div>
+											<div class="item">
+													<a href="/office/features/virtual-pbx/overview.html" title="Cloud PBX">
+															Cloud PBX</a>
+												</div>
+											<div class="item">
+													<a href="/office/voip-phone.html" title="Phones and headsets">
+															Phones and headsets</a>
+												</div>
+											<div class="item">
+													<a href="/virtual-phone-system.html" title="Call management">
+															Call management</a>
+												</div>
+											<div class="item">
+													<a href="/teams/overview.html" title="Collaboration">
+															Collaboration</a>
+												</div>
+											<div class="item">
+													<a href="/office/features/voicemail/overview.html" title="Voicemail and greetings">
+															Voicemail and greetings</a>
+												</div>
+											<div class="item">
+													<a href="/office/features/internet-fax-service/overview.html" title="Internet fax">
+															Internet fax</a>
+												</div>
+											</div>
+									</div>
+								</div>
+						</div>
+					<div class="halfBlock">
+							<div class="sectionTitle CId-footer--888 IId-footer--890">
+
+								<a href="/solutions/enterprise-business.html" title="For Enterprise" data-dtm-name="Enterprise" data-dtm-element="button" data-omni-value="Enterprise">
+									For Enterprise</a>
+							</div>
+							<div class="listBlock clearfix">
+								<div class="thirdBlock">
+										<div class="title">
+											<a href="/technology/overview.html" title="Why RingCentral">
+												Why RingCentral</a>
+										</div>
+										<div class="listItems">
+											<div class="item">
+													<a href="/technology/reliability.html" title="Reliability">
+															Reliability</a>
+												</div>
+											<div class="item">
+													<a href="/technology/security.html" title="Security">
+															Security</a>
+												</div>
+											<div class="item">
+													<a href="/technology/user-experience.html" title="User experience">
+															User experience</a>
+												</div>
+											<div class="item">
+													<a href="https://www.ringcentral.com/apps/" title="Integrations and APIs" target="_blank">
+															Integrations and APIs</a>
+												</div>
+											<div class="item">
+													<a href="https://www.ringcentral.com/enterprise/blog/" title="Enterprise blog" target="_blank">
+															Enterprise blog</a>
+												</div>
+											</div>
+									</div>
+								<div class="thirdBlock">
+										<div class="title">
+											<a href="/solutions/enterprise-business.html" title="Solutions">
+												Solutions</a>
+										</div>
+										<div class="listItems">
+											<div class="item">
+													<a href="/office/ent.html" title="Office for enterprise">
+															Office for enterprise</a>
+												</div>
+											<div class="item">
+													<a href="/office/industry-solutions/overview.html" title="By industry">
+															By industry</a>
+												</div>
+											<div class="item">
+													<a href="/whyringcentral/casestudies.html" title="Customer case studies">
+															Customer case studies</a>
+												</div>
+											<div class="item">
+													<a href="https://www.ringcentral.com/apps/" title="App Gallery" target="_blank">
+															App Gallery</a>
+												</div>
+											<div class="item">
+													<a href="/contact-center/overview.html" title="Contact Center solution">
+															Contact Center solution</a>
+												</div>
+											<div class="item">
+													<a href="https://developer.ringcentral.com" title="Developer platform" target="_blank">
+															Developer platform</a>
+												</div>
+											</div>
+									</div>
+								<div class="thirdBlock">
+										<div class="title">
+											<a href="/partner/overview.html" title="Partner Programs">
+												Partner Programs</a>
+										</div>
+										<div class="listItems">
+											<div class="item">
+													<a href="/partner/service-providers.html" title="Services providers">
+															Services providers</a>
+												</div>
+											<div class="item">
+													<a href="/partner/agent.html" title="Channel partners">
+															Channel partners</a>
+												</div>
+											<div class="item">
+													<a href="/partner/isv.html" title="Platform partners">
+															Platform partners</a>
+												</div>
+											<div class="item">
+													<a href="https://partners.ringcentral.com/" title="Partner portal" target="_blank">
+															Partner portal</a>
+												</div>
+											</div>
+									</div>
+								</div>
+						</div>
+					</div>
 			<div class="bottomListBlock">
 				<div class="listBlock clearfix">
-					</div>
+					<div class="thirdBlock">
+								<div class="title">
+									<a href="/whyringcentral/company.html" title="About us">
+											About us</a>
+								</div>
+								<div class="listItems clearfix">
+									<div class="item halfBlock">
+											<a href="/whyringcentral/leadership.html" title="Leadership">
+												Leadership</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="/whyringcentral/company/pressreleases.html" title="Press">
+												Press</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="/whyringcentral/awards.html" title="Awards">
+												Awards</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="/whyringcentral/company.html" title="Company">
+												Company</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="/whyringcentral/analysts.html" title="Analysts">
+												Analysts</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="/resources/learning-center.html#webinars" title="Events">
+												Events</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="http://ir.ringcentral.com/CorporateProfile" title="Investor relations" target="_blank">
+												Investor relations</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="/whyringcentral/inthenews.html" title="In the news">
+												In the news</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="/company/careers/overview.html" title="Careers">
+												Careers</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="/feedback/sales-contact.html" title="Contact us">
+												Contact us</a>
+										</div>
+									</div>
+							</div>
+						<div class="thirdBlock">
+								<div class="title">
+									<a href="/resources/learning-center.html" title="Resources">
+											Resources</a>
+								</div>
+								<div class="listItems clearfix">
+									<div class="item halfBlock">
+											<a href="/resources/learning-center.html" title="Overview">
+												Overview</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="https://www.ringcentral.com/blog/" title="Blog" target="_blank">
+												Blog</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="/whyringcentral/casestudies.html" title="Case studies">
+												Case studies</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="/resources/learning-center.html#webinars" title="Webinars">
+												Webinars</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="/resources/learning-center.html#videos" title="Videos">
+												Videos</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="/university.html" title="RingCentral University">
+												RingCentral University</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="/resources/learning-center.html#whitepapers" title="Analyst reports">
+												Analyst reports</a>
+										</div>
+									<div class="item halfBlock">
+											<a href="https://developer.ringcentral.com" title="Developer tools" target="_blank">
+												Developer tools</a>
+										</div>
+									</div>
+							</div>
+						<div class="thirdBlock">
+								<div class="title">
+									<a href="https://success.ringcentral.com/" target="_blank" title="Support">
+											Support</a>
+								</div>
+								<div class="listItems ">
+									<div class="item ">
+											<a href="https://success.ringcentral.com/" title="Customer support" target="_blank">
+												Customer support</a>
+										</div>
+									<div class="item ">
+											<a href="/solutions/professional-services.html" title="Professional Services">
+												Professional Services</a>
+										</div>
+									<div class="item ">
+											<a href="https://developer.ringcentral.com/support.html" title="Developer support" target="_blank">
+												Developer support</a>
+										</div>
+									<div class="item ">
+											<a href="/community/index.html" title="Community">
+												Community</a>
+										</div>
+									</div>
+							</div>
+						</div>
 			</div>
 		</div>
 	</div>
@@ -2379,14 +3200,42 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
 					<div class="leftSide">
 						<div class="socialBlock">
 							<ul>
-								</ul>
+								<li class="facebook">
+											<a href="https://www.facebook.com/ringcentral?refsrc=http%3A%2F%2Fwww.ringcentral.com%2F&amp;_rdr" title="Facebook" target="_blank">
+												<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-638540368" viewBox="0 0 8.36 18" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0"><path d="M8.36 5.83H5.52V4a.76.76 0 0 1 .79-.87h2V0H5.55a3.51 3.51 0 0 0-3.77 3.77v2.06H0V9h1.78v9h3.74V9H8z"></path></svg></a>
+										</li>
+									<li class="twitter">
+											<a href="https://twitter.com/ringcentral" title="Twitter" target="_blank">
+												<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg--689552683" viewBox="0 0 19 15.44" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0"><path d="M19 1.83a7.76 7.76 0 0 1-2.24.61A3.91 3.91 0 0 0 18.47.28a7.79 7.79 0 0 1-2.47.95 3.9 3.9 0 0 0-6.64 3.56 11.06 11.06 0 0 1-8-4.07 3.9 3.9 0 0 0 1.21 5.2A3.88 3.88 0 0 1 .8 5.43 3.9 3.9 0 0 0 3.89 9.3a3.92 3.92 0 0 1-1 .14 3.86 3.86 0 0 1-.73-.07 3.9 3.9 0 0 0 3.64 2.71 7.83 7.83 0 0 1-4.84 1.67 8 8 0 0 1-.96-.06 11.09 11.09 0 0 0 17.07-9.34v-.5a7.91 7.91 0 0 0 1.95-2"></path></svg></a>
+										</li>
+									<li class="linkedIn">
+											<a href="https://www.linkedin.com/company-beta/60868/?pathWildcard=60868" title="LinkedIn" target="_blank">
+												<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg--607292280" viewBox="0 0 18.89 18" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0"><path d="M2.36 0A2.25 2.25 0 0 0 0 2.12a2.24 2.24 0 0 0 2.36 2.11 2.24 2.24 0 0 0 2.35-2.11A2.24 2.24 0 0 0 2.36 0zM14.3 5.63a4.3 4.3 0 0 0-3.82 2V6H6.26v12h4.22v-6.52c0-1.37.66-2.72 2.24-2.72s2 1.34 2 2.69V18h4.21v-6.82c0-4.74-2.85-5.55-4.6-5.55zM.24 18h4.22V6H.24z"></path></svg></a>
+										</li>
+									<li class="googlePlus">
+											<a href="https://plus.google.com/+ringcentral" title="Google+" target="_blank">
+												<svg contentscripttype="text/ecmascript" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentstyletype="text/css" id="svg-684221277" viewBox="0 0 19.36 17.55" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0"><path d="M9.23 9.71A3.45 3.45 0 0 1 8 8.43c0-.36 0-.53.84-1.16a3.86 3.86 0 0 0 1.62-3 4 4 0 0 0-.85-2.59h.42a.41.41 0 0 0 .24-.08l1.16-.84a.41.41 0 0 0-.21-.76H6a5.26 5.26 0 0 0-1.71.29 4.45 4.45 0 0 0-3.17 3.92 4.16 4.16 0 0 0 4.24 4.17 2.21 2.21 0 0 0-.07.55 2 2 0 0 0 .28 1H5.5a5.66 5.66 0 0 0-5.19 2.82A3.09 3.09 0 0 0 0 14.1a2.48 2.48 0 0 0 .32 1.22 4.62 4.62 0 0 0 3 1.95 9.73 9.73 0 0 0 2.38.28 7.62 7.62 0 0 0 2.12-.29 4.22 4.22 0 0 0 3.38-3.85 4 4 0 0 0-1.97-3.7zm-6.55 3.83c0-1.22 1.55-2.29 3.31-2.29H6a4 4 0 0 1 1.11.17l.35.24c.82.56 1.36.92 1.51 1.51a1.91 1.91 0 0 1 .05.44c0 1.52-1.13 2.29-3.36 2.29-1.66.01-2.98-1.03-2.98-2.36zM4.29 2a1.35 1.35 0 0 1 1-.48c1.15 0 2.24 1.31 2.44 2.85a2.77 2.77 0 0 1-.51 2.16 1.35 1.35 0 0 1-.96.47C5.12 7 4 5.68 3.8 4.14A2.68 2.68 0 0 1 4.29 2zM19 7.35a.41.41 0 0 1 .41.41v.84A.41.41 0 0 1 19 9h-3v3a.41.41 0 0 1-.41.41h-.84a.41.41 0 0 1-.41-.41V9h-2.93a.41.41 0 0 1-.41-.4v-.84a.41.41 0 0 1 .41-.41h2.95V4.41a.41.41 0 0 1 .4-.41h.84a.41.41 0 0 1 .41.41v2.95z"></path></svg></a>
+										</li>
+									</ul>
 						</div>
 						<div class="footLink">
 							<ul>
-								</ul>
+								<li>
+											<a href="/legal.html" title="Legal">
+													Legal</a>
+										</li>
+									<li>
+											<a href="/legal/privacy-notice.html" title="Privacy Notice">
+													Privacy Notice</a>
+										</li>
+									<li>
+											<a href="/sitemap.html" title="Site Map">
+													Site Map</a>
+										</li>
+									</ul>
 						</div>
 						<div class="copyright">
-							© 1999-2017 RingCentral, Inc. All rights reserved.
+							© 1999-2018 RingCentral, Inc. All rights reserved.
 						</div>
 					</div>
 				</div>
@@ -2394,12 +3243,12 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
 					<div class="rightSide">
 						<ul>
 							<li class="accreditedBusiness">
-								<a href="javascript:window.open('https://www.bbb.org/online/consumer/cks.aspx?id=104091615355746208','','width=350,height=500,status=no,scrollbars=yes,resizable=yes'); void('');"></a>
+								<a title="BBB Accredited Business" href="javascript:window.open('https://www.bbb.org/online/consumer/cks.aspx?id=104091615355746208','','width=350,height=500,status=no,scrollbars=yes,resizable=yes'); void('');" data-dtm-url="https://www.bbb.org/online/consumer/cks.aspx?id=104091615355746208"></a>
 							</li>
 							<li class="skyHighEnterpriseLogo">
-								<a href="http://www.skyhighnetworks.com/enterprise-ready/" target="_blank" rel="nofollow"></a>
+								<a title="Skyhigh Enterprise-ready" href="https://www.skyhighnetworks.com/cloud-trust-program/" target="_blank" rel="nofollow"></a>
 							</li>
-							<li class="trustWave"><a href="#" onclick="javascript:window.open('https://sealserver.trustkeeper.net/compliance/cert.php?code=331bb3cfa0cf06b30cd5fafd57e7188e', 'hATW', 'location=no, toolbar=no, resizable=no, scrollbars=yes, directories=no, status=no, width=520, height=335'); return false;"></a></li>
+							<li class="trustWave"><a href="#" title="Trustwave Trusted Commerce" onclick="javascript:window.open('https://sealserver.trustkeeper.net/compliance/cert.php?code=331bb3cfa0cf06b30cd5fafd57e7188e', 'hATW', 'location=no, toolbar=no, resizable=no, scrollbars=yes, directories=no, status=no, width=520, height=335'); return false;" data-dtm-url="https://sealserver.trustkeeper.net/compliance/cert.php?code=331bb3cfa0cf06b30cd5fafd57e7188e"></a></li>
 						</ul>
 					</div>
 				</div>
@@ -2407,17 +3256,33 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
 		</div>
 	</div>
 </div></div>
-        </div>
-    <div class="bg_video stopVideo overlayLayer" href="#stop-video"></div>
+        <script>
+    $('.bl-quick-links a').on('click',function(e){
+        e.preventDefault();
+        var anchor = $(this).attr('href');
+        console.log(anchor)
+        $('html, body').animate({
+            scrollTop: $(anchor).offset().top
+        }, 500);
+    })
+</script></div>
     <div class="bg_demo" href="#stop-video"></div>
     <div class="change_cont"></div>
-    <div class="video_pop_up_hp popupVideo" style=" position:fixed;">
-        <div class="insert_video_pop">
-            <div class="close_video stopVideo">Close X</div>
-            <div id="ytplayer"></div>
-        </div>
-    </div>
-    <!-- automated chat invitation START -->
+
+    <div class="youtube-video IId-youtube-video-633935784 CId-youtube-video-254586742"><script>
+        var youtubeVideoListJsonUrl = "/services/SimpleEntities?entity=youtube-video";
+	</script>
+	<div class="ytPopup">
+		<div class="ytVideoOverlay" onclick=""></div>
+		<div class="ytPlayerBlock">
+			<div class="ytPlayerWrapper">
+				<div class="ytClose">Close X</div>
+				<div id="ytplayer"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- automated chat invitation START -->
 <style>
 	.proactive-popup {
 		margin: 0;
@@ -2660,7 +3525,7 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
 	}
 	</script>
 <!-- automated chat invitation FINISH -->
-<script type="text/javascript" src="/etc/designs/ringcentral/clientlibs_leadform.min.js"></script>
+<script type="text/javascript" src="/etc/designs/ringcentral/clientlibs_leadform.min.9834750d7d44de23e163d6fc3af368a7.js"></script>
 <script>
     $(function () {
 
@@ -2882,7 +3747,7 @@ The previous privacy policy is available at:&nbsp;<a href="/legal/privacy-policy
 	</p>
 </div>
 </div><!-- OFFLINE FORM END -->
-    <script type="text/javascript" src="/etc/designs/ringcentral/components/BeforeBodyEndArea/clientlibs.min.js"></script>
+    <script type="text/javascript" src="/etc/designs/ringcentral/components/BeforeBodyEndArea/clientlibs.min.0451aeb249e3c6c89d5e476793ad305b.js"></script>
 <!-- BEGIN BrightTag code -->
 		<script type="text/javascript">
 		(function () {
@@ -2945,7 +3810,8 @@ s.linkDownloadFileTypes.split(',').forEach(function(e){
             }
 
         </script>
-    <div class="servicecomponents IId-servicecomponents--1987718166 cloudservices CId-servicecomponents--255170799"><script type="text/javascript">_satellite.pageBottom();</script>
+    <script type="text/javascript" src="/etc/designs/ringcentral/clientlibs_dialog_tech.min.b41723f9a99164d4f1fad68d7b911f10.js"></script>
+<div class="cloudservices servicecomponents IId-servicecomponents--1987718166 CId-servicecomponents--255170799"><script type="text/javascript">_satellite.pageBottom();</script>
 </div>
 
 </body></html>
