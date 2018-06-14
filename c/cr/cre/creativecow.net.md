@@ -1,60 +1,111 @@
-> *The following text is extracted and transformed from the creativecow.net privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234956id_/https%3A//www.creativecow.net/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativecow.net privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614104602id_/https%3A//www.creativecow.net/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Creative COW Privacy Policy
 
-Effective: April 11, 2001  
-Latest amendment or update: January 25, 2011 **Table Of Contents:**
+**Email Addresses In Creative COW:** We _never_ make nor do we encourage our member email addresses to be made public. If you ever see any email addresses in a forums post or in a blog, etc., at Creative COW, the user in question has volunteered the information, as we do not in any area of our site encourage users to make their emails public. _Even if a member chooses to use our Services Offered section to promote their business, we use a system that converts their email address to a graphic so that spam web crawlers are at a disadvantage to harvest the information._
 
-> > > > > • Our Commitment To Privacy  
->  • The Information We Collect  
->  • How We Use Information  
->  • Our Commitment To Data Security  
->  • Our Commitment To Children's Privacy  
->  • How To Access Or Correct Your Information  
->  • How To Contact Us
->> 
->>   
->  _**A Note Regarding Privacy from the Site Founders and Directors:** Before we get into the legal policies below, the founders and directors of Creative COW would like to say to our members that in the nearly 15 years that we have been building communities for film, broadcast, and video media professionals online, we have never sold or rented our users information to anyone. Many magazines in our industry have a "list sales manager" whose responsibility is to sell their membership lists. We do not have one, as we do not sell our list. We do have an opt-in list (it is not mandatory that you be a part of that list) from which we do send sponsored 3rd party advertising messages that relate to the tools, systems and related products that are a part of our industry, but they come from us and your information was never given to our advertisers. We take our commitment to our members very seriously and we strive to maintain your trust. Creative COW would not be the incredible success that it is, were we to violate that trust. This said, here's what our lawyers would have us say about your privacy while visiting and participating in Creative COW..._
+ **Furthermore, for technical reasons and to comply with legal requirements of proving we are working within the legal construct, data may be collected by our website when you register with us** , such as the date and time of registration, the IP of the referring website, the authorization date, ID code and log-in, which validate your membership and prove it was a legal request. (The data mentioned above is hereafter collectively referred to as personal data.) This data is not used to create ever-growing user profiles based on every click and visit, as is the case in some social networks.) We do not work nor do we have systems in place that are designed to watch our members.
 
-**Our Commitment To Privacy.  
-**To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available at the bottom of our homepage and nearly every page within Creative COW and at every point where personally identifiable information may be requested of you. Creative COW does not provide any outside party your information in any way wherein your individual information is given. Only aggregate data which does not expose a member's personal information -- such as how many pages on average, the type of tools used, the average time spent in our network, etc. -- is ever given to outside parties. Your privacy is paramount with us.
+**Our members may cancel their memberships and remove themselves from our system completely, at any time. Doing so will wipe out all trace of your account, as if you were never a member of Creative COW.**
 
-**The Information We Collect:  
-**This notice applies to all information collected or submitted on the Creative COW website and the ancillary sites which comprise the CreativeCOW.net network of sites such as our forums, our podcasts, our tutorials library, our video support service, our newsletters, our store, our training products, etc.
+2\. USE AND DISCLOSURE OF YOUR PERSONAL DATA  
+  
+Creative COW may collect, process and use your personal data to:
 
-> On some pages, you can register and participate as a part of our interactive peer-to-peer support community. Elsewhere within our site, you can order products and register to receive information and other materials. The types of personal information collected at these pages may include some or all of the following: Name, Address, Email address, Phone number, Credit/Debit Card Information, (etc.)
-> 
-> On some pages, you can submit information about other people. For example, if you order a gift magazine subscription or DVD online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: Name, Address, Phone Number, (etc.)
-> 
-> **PLEASE NOTE:** Those who order the electronically downloadable versions of our Creative COW Master Series™ training titles please be advised that our download versions are sold and serviced by Leaping Brain, a California company, who has their own privacy policies available to you before you place an order with them. To preview Leaping Brain's privacy policy, please visit <http://leapingbrain.com/privacy-policy/>. We have never known of an instance wherein Leaping Brain sold customer information to anyone, but Creative COW LLC cannot and does not assume responsibility for information gathered by Leaping Brain. Please be aware of this when placing an order for Creative COW downloadable electronic training tools serviced by Leaping Brain. We directly sell and service the physical DVD versions of the Creative COW Master Series but we have opted to use a service for electronic versions.
+  * fulfill its obligations under the member agreements between you and Creative COW;
+  * provide assistance and service, including services in connection with the business operations of Creative COW, such as support on software or hardware issues;
+  * obtain your opinion on Creative COW products and services and conduct product surveys;
+  * simplify and process your search transactions and your requests for data and for the products and services of Creative COW;
+  * provide you with the latest information on Creative COW products and services, including suggestions and special offers that you may be interested in;
+  * improve Creative COW’s products and services for you;
+  * conduct competitions, contests and other promotional offers and marketing activities;
+  * ensure that you are able to access this website by means of the interface provided by Creative COW for this purpose.
 
-**The Way We Use Information:  
-**For our peer-to-peer forums support members: the information that you give us is used to make your experience of using our system more rewarding and interactive, as we do track the things you visit and the search terms you use, etc. The items we track are never given or sold to anyone outside of Creative COW in any way in which individual user information can be and the information is only used to allow our system to better serve you during your visits.
 
-For customers who purchase a product from us: We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+Creative COW stores your personal data solely in order to fulfill the purpose for which it was originally collected or in order to comply with the provisions of applicable laws and regulations.
 
-You can register with our website if you would like to receive information, such as our own newsletters and the 3rd party newsletters we send on behalf of our sponsors to the people that opt-in to this list. You can also register for updates on our new products and services. Information you submit on our website will not be used for this purpose unless you specify that you would like to receive information when you complete the registration form.
+Creative COW has never directly shared personal data with other Creative COW affiliated companies or advertisers in the USA, Europe or elsewhere in the world, personal data may be made available to them by advertising tracking technology resident within their advertising on our site. You may elect to use one of many ad blockers available online to protect your privacy. Search Google for "ad blockers" available for your computer system.
 
-**What We Do and Do Not Share With Our Advertisers and Partners:  
-**We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+It may be necessary for us to access your personal data or disclose your personal data in order to comply with the provisions of applicable laws or court proceedings or to assert our rights or defend ourselves against legal claims. We will disclose personal data and all other available information if necessary in order to investigate unlawful activities, suspected fraud, potential threats to the corporeal integrity of persons or violations of the conditions of use specified by Creative COW, or to take preventive measures or countermeasures in this regard. Data may additionally be conveyed for other reasons to the extent required or permitted by law.  
+  
+3\. HOW CREATIVE COW COLLECTS PERSONAL DATACreative COW collects data about you in various ways. For example, we request your contact data when you correspond with Creative COW, register with us to create a membership account, or register in order to join an online contest, gain peer-to-peer support, or sign up for materials available for downloading, including our member and third-party newsletters.
 
-**Our Commitment To Data Security:**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We do not maintain any credit card information online when you place an order with us. We use a major bank, the Royal Bank of Scotland's RBS World Pay credit card processing service, so our members and customers can be assured that their information is handled with the utmost care and data integrity available online today.
+[](https://newsletters.creativecow.net/sponsors/2018/05-01/index.html)  
 
-**Our Commitment To Children's Privacy:**  
-We are a "family friendly" site and work hard to moderate and remove things that might be posted that would be offensive or inappropriate for children. Protecting the privacy of the very young is especially important to us and for that reason, we never collect or maintain information at our website from those we actually know to be under 13, and no part of our website is purposely structured to attract anyone under 13. That said, we do serve many schools around the world and we do know of some elementary schools that use our site as part of their curriculum in training their students in media production techniques, etc. We take this trust very seriously and therefore strive to maintain a site that serves even its youngest members with respect, integrity and privacy.
 
-**How You Can Access Or Correct Your Information:**  
-You can access all your personally identifiable information that we collect online and maintain byvisiting yopur user profile log-in, found in the upper-right of our interface. Should you have forgotten your password, our mechanism will send you your password if you request it, when you attempt to log-in to your user profile. If your user profile is tied to an old email that is no longer active, please contact us at 
+The most common examples of how Creative COW collects your personal data are:
 
-[privacy-issue@creativecow.net](mailto:privacy-issue@creativecow.net?=Privacy%20Issue) and we will work with you to update your account so that you may edit it appropriately. We want to safeguard your information and we take service to our audience very seriously. You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+  * When you register at Creative COW, we collect your name, email address, and other contact data you may wish to volunteer beyond the basic name and email needed to officially open an account with us.
+  * When you request help from our forums, we use cookies and javascripts to compile user profiles that our members can visit, so that our leaders and members can get to know one another better and hopefully help one another more effectively.
 
-**How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please call us between 9am to 5pm California time, or leave us a voicemail during non-available hours, at (805) 239-5645 or send us an email at [privacy-issue@creativecow.net](mailto:privacy-issue@creativecow.net?=Privacy%20Issue). We will contact you within 24 hours, often far less.
 
-Respectfully,
 
-Ronald Lindeboom  
-CEO, Creative COW LLC
+Creative COW strives to respect the various preferences you have expressed at various times in order to process and manage your data appropriately. If you ever believe we have incorrect data for whatever reason, please contact Creative COW in order to correct the situation.  
+  
+4\. SECURITY OF COLLECTED PERSONAL DATA  
+  
+Creative COW takes due care to protect your personal data against loss and misuse. Creative COW strives to the best of its ability to take all suitable technical and organisational measures and precautionary measures in order to protect personal data against unauthorised access, improper use, changes, loss or destruction. These measures comprise: 
+
+  * Restricting access to personal data. Only employees who need to know the data are allowed access.
+  * Using physical, electronic and process-based security mechanisms conforming to regulations in order to protect your personal data.
+  * Secure Sockets Layer (SSL) encryption for the collection and transmission of all sensitive data, including posts in our forums, in our blogs, our Services Offered and Job Board sections, and any other area of our site which might otherwise compromise our member private data.
+  * To guard your private data, we employ Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), as our backbone provider because of their industry-leading technical abilities in security and systems support. Our website and web-associated online services are hosted at AWS and you can learn more about them at [https://aws.amazon.com](https://aws.amazon.com/ "Amazon Web Services").
+
+
+
+5\. COOKIES  
+  
+We use cookies to expand the functional scope of our web content and make it easier for you to use the site. These cookies can be used to store data on your computer when you visit our website and view our online content. It is possible to prevent the storage of cookies on your computer by configuring the settings of your browser accordingly, although this may restrict the functional scope of our website content.
+
+6\. GOOGLE ANALYTICSThis website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses "cookies," which are text files placed on your computer that enable an analysis of your use of the website. The information generated by the cookie about your use of this website is generally transmitted to and stored on a Google server in the United States. In case of activation of IP anonymization on this website, Google will, however, truncate your IP address beforehand within Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a Google server in the United States and truncated there. On behalf of the operator of this website, Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity and providing the website operator with other services relating to website and Internet use. The IP address transmitted by your browser within the scope of Google Analytics will not be associated with any other data held by Google.
+
+You may refuse the use of cookies by selecting the appropriate settings in your browser; however, please note that if you do so, you may not be able to use the full functionality of this website. Furthermore, you can prevent Google’s collection and use of data generated by the cookie and related to your use of the website (including your IP address) by downloading and installing the browser plug-in available at (<http://tools.google.com/dlpage/gaoptout?hl=en>).
+
+For further information on terms of use and data protection/privacy, please see [www.google.com/analytics/terms/us.html or www.google.com/analytics/learn/index.html](http://www.google.com/analytics/terms/us.html). Please note that on this website, Google Analytics has been supplemented by the code "gat._anonymizeIp();" in order to ensure anonymized collection of IP addresses ("IP masking").
+
+7\. SOCIAL NETWORKSThis website uses plugins/functions from the Facebook and Twitter social networks. These are disabled by default for data protection reasons and must be activated explicitly by you to be used. Before activation, please note the following information on individual service providers:
+
+Facebook  
+This website uses social plugins from the facebook.com social network provided by Facebook Inc., 1601 South California Avenue, Palo Alto, CA 94304, USA. You can recognize the plugins by the Facebook logo and/or “Like” button. Provided you access a page with such a plugin when visiting this website, your Internet browser will establish a direct connection to the servers of Facebook Inc. The content of the plugin is transferred to your Internet browser and integrated by it into the page shown. At the same time, the information that you visited this website is transferred to Facebook Inc. If you are logged into your personal Facebook user account when accessing the relevant page, Facebook Inc. will assign the website visit to your user account.
+
+When you use the plugin, e.g. by clicking on the “Like” button, this information is directly transferred to Facebook Inc. and stored there. In this way, Facebook can assign the information when you visit our pages to your user account. If you would like to prevent such data from being transferred, you must log out of your Facebook user account before visiting our Internet website.
+
+Please note that we, as a provider of the pages, are not informed of the content of the transferred data and its use by Facebook. The active use of the plugin is subject to the data protection conditions and the terms of use of Facebook Inc. For more information on the collection, storage and use of your data by Facebook Inc., please see the Facebook data protection policies (<https://www.facebook.com/policy.php>) and the privacy policy (<https://www.facebook.com/privacy/explanation>.)
+
+Twitter  
+With Twitter and Retweet functions, we use plugins from twitter.com provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA.
+
+If you use the Retweet functions, the websites you visit are disclosed to third parties and are connected to your Twitter account. In the process, data is also transferred to Twitter.
+
+Please note that we, as a provider of the pages, are not informed of the content of the transferred data and its use by Twitter. For information on the way your data is handled by Twitter Inc. as well as on your rights and setting options for the protection of your personal data, please refer to the data protection advice from Twitter (<http://twitter.com/privacy>). You can change your data protection settings at Twitter under account settings.
+
+8\. MAILCHIMP MAIL SERVICES
+
+For dispatching our newsletters, we use MailChimp, a service of The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA. 
+
+MailChimp offers extensive analytics tools for analyzing how the newsletters are opened and used. In addition, MailChimp uses the web analytics tool Google Analytics incorporating it into newsletters.
+
+You can revoke your consent to storage of data, the e-mail address as well as its use, by our newsletter, at any time. The revocation can be made via the unsubscribe notice at the bottom link in the newsletters themselves or by notifying our direct contact email at [contact@creativecow.net](mailto:contact@creativecow.net).
+
+9\. RIGHT TO RECEIVE INFORMATION, CORRECT, BLOCK, AND DELETE YOUR PERSONAL DATAOn request and with no need to state a reason, you may at any time receive information concerning your data stored by us. You may at any time block, correct or delete your data collected by us. You may at any time revoke the declaration of consent given to us for the collection, processing and use of personal data, with no need to state a reason. To do so, please contact Creative COW by email at [gdprdelete@creativecow.net](mailto:gdprdelete@creativecow.net) or by letter to Creative COW LLC, 1308 Stockton Hill Rd #321, Kingman, AZ 86401 USA.
+
+On request, you will receive confirmation regarding the processing of your personal data with regard to modification, blocking or deletion. Creative COW will do everything within its power to fulfil these requests as quickly as possible.
+
+If you wish to be deleted from an e-mail distribution list (such as for a newsletter), please use the Unsubscribe link and/or follow the instructions that are (normally) included in the footer of the e-mail message, or contact Creative COW by email, telephone or post.
+
+10\. LINKS TO OTHER SITES
+
+Some Creative COW websites contain links to other websites that are not administered by Creative COW. Your personal data is not shared with these websites. Although Creative COW strives to offer only links to sites that comply with the high standards of Creative COW in regard to personal privacy, Creative COW does not bear any responsibility for the content, security or privacy practices of other sites and expressly disavows any liability in connection with the use of other sites and the content found on other sites.
+
+11\. CHILD PROTECTION (children aged 14 years or less)Creative COW does not knowingly acquire or collect personal data from children or about children (aged 14 years or less) without the permission of their parents or guardians, and Creative COW does not knowingly market any products or services to children. If Creative COW becomes aware that a person whose personal data has been submitted via an Creative COW website is a child, Creative COW will do everything in its power to delete this personal data as quickly as possible. Creative COW will do everything in its power to ensure that this personal data is not used for any purpose or disclosed to other parties.
+
+12\. CONTACTIf you need additional assistance or wish to submit a comment, request or declaration, please contact us at the following address or by means of one of the contact options stated below:
+
+Address:  
+Creative COW LLC  
+1308 Stockton Hill Rd #321  
+Kingman, AZ 86401  
+USA
+
+Last updated: May 15, 2018
