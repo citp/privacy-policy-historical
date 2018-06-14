@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the momalwaysfindsout.com privacy policy that was archived on 2017-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171208031537id_/http%3A//www.momalwaysfindsout.com/disclosure-policy/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the momalwaysfindsout.com privacy policy that was archived on 2018-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180614224104id_/http%3A//www.momalwaysfindsout.com/disclosure-policy/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
@@ -17,12 +17,11 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy - Mom Always Finds Out">
-<meta property="og:description" content="What information do we collect? We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. Google, as a...Read More »">
+<meta property="og:description" content="Mom Always Finds Out is found at http://www.momalwaysfindsout.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”). We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies...Read More »">
 <meta property="og:url" content="http://www.momalwaysfindsout.com/disclosure-policy/privacy-policy/">
 <meta property="og:site_name" content="Mom Always Finds Out">
 <meta property="article:publisher" content="http://facebook.com/momalwaysfindsout">
 <meta property="article:author" content="http://facebook.com/momalwaysfindsout">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PBN79J&amp;l=dataLayerCBias"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.momalwaysfindsout.com\/","name":"Mom Always Finds Out","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.momalwaysfindsout.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 
 <link rel="dns-prefetch" href="//scripts.mediavine.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -30,8 +29,11 @@
 <link rel="alternate" type="application/rss+xml" title="Mom Always Finds Out » Feed" href="http://www.momalwaysfindsout.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Mom Always Finds Out » Comments Feed" href="http://feeds.feedburner.com/momalwaysfindsout/JbKz">
 
-<script type="text/javascript" data-cfasync="false">
-		var disableStr = 'ga-disable-UA-21070989-1';
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PBN79J&amp;l=dataLayerCBias"></script><script async="" src="//load.sumo.com/" data-sumo-site-id="06b3b0971b7509d2cd28784bb51c660814a0cd4e59682bb28acd44e79629c3b2" data-sumo-platform="wordpress"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" data-cfasync="false">
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-21070989-1';
 
 	/* Function to detect opted out users */
 	function __gaTrackerIsOptedOut() {
@@ -48,20 +50,67 @@
 	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
 	  window[disableStr] = true;
 	}
+	
+	if ( mi_track_user ) {
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
 
-	__gaTracker('create', 'UA-21070989-1', 'auto');
-	__gaTracker('set', 'forceSSL', true);
-	__gaTracker('send','pageview');
+		__gaTracker('create', 'UA-21070989-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('set', 'anonymizeIp', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
 </script>
 
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.momalwaysfindsout.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.8"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.momalwaysfindsout.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.8" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.momalwaysfindsout.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.momalwaysfindsout.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.6" type="text/javascript" defer=""></script>
 <style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -80,12 +129,13 @@ img.emoji {
 <style id="foodie-pro-theme-inline-css" type="text/css">
 .genesis-nav-menu > li > a{color:#d9a53a;}body{font-family:"Source Sans Pro","Helvetica Neue",sans-serif;font-size:18px;}input, select, textarea, .wp-caption-text, .site-description, .entry-meta, .post-info, .post-meta{font-family:"Droid Serif","Helvetica Neue",sans-serif;}h1, h2, h3, h4, h5, h6, .site-title, .entry-title, .widgettitle{font-family:"Source Sans Pro","Helvetica Neue",sans-serif;}
 </style>
-<link rel="stylesheet" id="aalb_basics_css-css" href="http://www.momalwaysfindsout.com/wp-content/plugins/amazon-associates-link-builder/css/aalb_basics.css?ver=1.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="tm_clicktotweet-css" href="http://www.momalwaysfindsout.com/wp-content/plugins/click-to-tweet-by-todaymade/assets/css/styles.css?ver=4.7.8" type="text/css" media="all">
-<link rel="stylesheet" id="wordpress-popular-posts-css-css" href="http://www.momalwaysfindsout.com/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.0.13" type="text/css" media="all">
-<link rel="stylesheet" id="wpurp_style_minified-css" href="http://www.momalwaysfindsout.com/wp-content/plugins/wp-ultimate-recipe/assets/wpurp-public-forced.css?ver=3.8.0" type="text/css" media="all">
-<link rel="stylesheet" id="wpurp_style1-css" href="http://www.momalwaysfindsout.com/wp-content/plugins/wp-ultimate-recipe/vendor/font-awesome/css/font-awesome.min.css?ver=3.8.0" type="text/css" media="all">
-<link rel="stylesheet" id="wpurp_style2-css" href="https://fonts.googleapis.com/css?family=Open+Sans&amp;ver=3.8.0" type="text/css" media="all">
+<link rel="stylesheet" id="aalb_basics_css-css" href="http://www.momalwaysfindsout.com/wp-content/plugins/amazon-associates-link-builder/css/aalb_basics.css?ver=1.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="bcct_style-css" href="http://www.momalwaysfindsout.com/wp-content/plugins/better-click-to-tweet/assets/css/styles.css?ver=3.0" type="text/css" media="all">
+<link rel="stylesheet" id="tm_clicktotweet-css" href="http://www.momalwaysfindsout.com/wp-content/plugins/click-to-tweet-by-todaymade/assets/css/styles.css?ver=4.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="wordpress-popular-posts-css-css" href="http://www.momalwaysfindsout.com/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.1.0" type="text/css" media="all">
+<link rel="stylesheet" id="wpurp_style_minified-css" href="http://www.momalwaysfindsout.com/wp-content/plugins/wp-ultimate-recipe/assets/wpurp-public-forced.css?ver=3.11.0" type="text/css" media="all">
+<link rel="stylesheet" id="wpurp_style1-css" href="http://www.momalwaysfindsout.com/wp-content/plugins/wp-ultimate-recipe/vendor/font-awesome/css/font-awesome.min.css?ver=3.11.0" type="text/css" media="all">
+<link rel="stylesheet" id="wpurp_style2-css" href="https://fonts.googleapis.com/css?family=Open+Sans&amp;ver=3.11.0" type="text/css" media="all">
 <link rel="stylesheet" id="google-fonts-css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro%3Aregular%2Citalic%2C700%2C200%2C300%2C300italic%2C900%7CDroid+Serif%3Aregular%2Citalic%2C700%26subset%3Dlatin%2C&amp;ver=2.1.4" type="text/css" media="all">
 <link rel="stylesheet" id="simple-social-icons-font-css" href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/css/style.css?ver=2.0.1" type="text/css" media="all">
 <link rel="stylesheet" id="slider_styles-css" href="http://www.momalwaysfindsout.com/wp-content/plugins/genesis-responsive-slider/style.css?ver=0.9.5" type="text/css" media="all">
@@ -94,17 +144,17 @@ img.emoji {
 var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/www.momalwaysfindsout.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.2.6"></script>
-<script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" src="//scripts.mediavine.com/tags/mom-always-finds-out.js?ver=4.7.8"></script>
+<script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.0.6"></script>
+<script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" src="//scripts.mediavine.com/tags/mom-always-finds-out.js?ver=4.9.6"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpp_params = {"sampling_active":"","sampling_rate":"100","ajax_url":"http:\/\/www.momalwaysfindsout.com\/wp-admin\/admin-ajax.php","action":"update_views_ajax","ID":"2958","token":"169f7002d1"};
+var wpp_params = {"rest_api":"1","sampling_active":"0","sampling_rate":"100","ajax_url":"http:\/\/www.momalwaysfindsout.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts\/","action":"update_views_ajax","ID":"2958","token":"d1b3d7f76a","debug":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-content/plugins/wordpress-popular-posts/public/js/wpp.js?ver=4.0.13"></script>
+<script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.1.0.min.js?ver=4.1.0"></script>
 <script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-content/themes/genesis/lib/js/skip-links.js?ver=4.7.8"></script>
+<script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-content/themes/genesis/lib/js/skip-links.js?ver=4.9.6"></script>
 <!--[if lt IE 9]>
 <script type='text/javascript' src='http://www.momalwaysfindsout.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
 <![endif]-->
@@ -121,14 +171,14 @@ var wpp_params = {"sampling_active":"","sampling_rate":"100","ajax_url":"http:\/
     overflow: hidden;
     position: absolute;
     top: -1000em;
-    width: 1px; } </style><script data-cfasync="false" src="//load.sumome.com/" data-sumo-platform="wordpress" data-sumo-site-id="06b3b0971b7509d2cd28784bb51c660814a0cd4e59682bb28acd44e79629c3b2" async=""></script><link rel="icon" href="http://www.momalwaysfindsout.com/wp-content/themes/foodiepro/images/favicon.ico">
+    width: 1px; } </style><link rel="icon" href="http://www.momalwaysfindsout.com/wp-content/themes/foodiepro/images/favicon.ico">
 <link rel="pingback" href="http://www.momalwaysfindsout.com/xmlrpc.php">
 <style type="text/css">.site-header { background: url(http://www.momalwaysfindsout.com/wp-content/themes/foodiepro/images/header.png) no-repeat !important; }</style>
 <style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #d9a53a !important; border-radius: 3px; color: #ffffff !important; border: 0px #ffffff solid !important; font-size: 18px; padding: 9px; }  .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #666666 !important; border-color: #ffffff !important; color: #ffffff !important; }  .simple-social-icons ul li a:focus { outline: 1px dotted #666666 !important; }</style><style type="text/css" id="custom-background-css">
 body.custom-background { background-image: url("http://www.momalwaysfindsout.com/wp-content/uploads/2016/11/concrete_seamless.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
 </style>
 </head>
-<body class="page-template-default page page-id-2958 page-child parent-pageid-718 custom-background header-full-width content-sidebar theme-pinkgray foodie-pro" itemscope="" itemtype="http://schema.org/WebPage"><div class="before-header"><section id="simple-social-icons-5" class="widget simple-social-icons"><div class="widget-wrap"><ul class="alignright"><li class="ssi-facebook"><a href="https://facebook.com/momalwaysfindsout" class="external" rel="nofollow"><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xlink:href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-gplus"><a href="https://plus.google.com/+NicoleBangerter" class="external" rel="nofollow"><svg role="img" class="social-gplus" aria-labelledby="social-gplus"><title id="social-gplus">Google+</title><use xlink:href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-gplus"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/momfindsout" class="external" rel="nofollow"><svg role="img" class="social-instagram" aria-labelledby="social-instagram"><title id="social-instagram">Instagram</title><use xlink:href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://pinterest.com/momfindsout" class="external" rel="nofollow"><svg role="img" class="social-pinterest" aria-labelledby="social-pinterest"><title id="social-pinterest">Pinterest</title><use xlink:href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/momfindsout" class="external" rel="nofollow"><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xlink:href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/user/momalwaysfindsout" class="external" rel="nofollow"><svg role="img" class="social-youtube" aria-labelledby="social-youtube"><title id="social-youtube">YouTube</title><use xlink:href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<body class="page-template-default page page-id-2958 page-child parent-pageid-718 custom-background header-full-width content-sidebar theme-pinkgray foodie-pro" itemscope="" itemtype="http://schema.org/WebPage"><div class="before-header"><section id="simple-social-icons-5" class="widget simple-social-icons"><div class="widget-wrap"><ul class="alignright"><li class="ssi-email"><a href="http://eepurl.com/dvoWjT" class="external" rel="nofollow"><svg role="img" class="social-email" aria-labelledby="social-email"><title id="social-email">Email</title><use xlink:href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-email"></use></svg></a></li><li class="ssi-facebook"><a href="https://facebook.com/momalwaysfindsout" class="external" rel="nofollow"><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xlink:href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-gplus"><a href="https://plus.google.com/+NicoleBangerter" class="external" rel="nofollow"><svg role="img" class="social-gplus" aria-labelledby="social-gplus"><title id="social-gplus">Google+</title><use xlink:href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-gplus"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/momfindsout" class="external" rel="nofollow"><svg role="img" class="social-instagram" aria-labelledby="social-instagram"><title id="social-instagram">Instagram</title><use xlink:href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://pinterest.com/momfindsout" class="external" rel="nofollow"><svg role="img" class="social-pinterest" aria-labelledby="social-pinterest"><title id="social-pinterest">Pinterest</title><use xlink:href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/momfindsout" class="external" rel="nofollow"><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xlink:href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/user/momalwaysfindsout" class="external" rel="nofollow"><svg role="img" class="social-youtube" aria-labelledby="social-youtube"><title id="social-youtube">YouTube</title><use xlink:href="http://www.momalwaysfindsout.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
 </div><div class="site-container"><section><h2 class="screen-reader-text">Skip links</h2><ul class="genesis-skip-link"><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to content</a></li><li><a href="#genesis-sidebar-primary" class="screen-reader-shortcut"> Skip to primary sidebar</a></li><li><a href="#genesis-footer-widgets" class="screen-reader-shortcut"> Skip to footer</a></li></ul></section>
 <header class="site-header" itemscope="" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://www.momalwaysfindsout.com/">Mom Always Finds Out</a></p></div></div></header><h2 class="screen-reader-text">Main navigation</h2><nav class="nav-primary" itemscope="" itemtype="http://schema.org/SiteNavigationElement" id="genesis-nav-primary" aria-label="Main navigation"><div class="wrap"><ul id="menu-main-nav" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-15038" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15038"><a href="http://momalwaysfindsout.com/" itemprop="url"><span itemprop="name">Home</span></a></li>
 <li id="menu-item-16985" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-16985"><a href="http://momalwaysfindsout.com/pr-friendly/" itemprop="url"><span itemprop="name">About Me/Contact</span></a>
@@ -145,109 +195,126 @@ body.custom-background { background-image: url("http://www.momalwaysfindsout.com
 <ul class="sub-menu">
 <li id="menu-item-19086" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19086"><a href="http://www.momalwaysfindsout.com/category/technology/" itemprop="url"><span itemprop="name">Tech</span></a></li>
 <li id="menu-item-22485" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22485"><a href="http://www.momalwaysfindsout.com/category/childrens-books/" itemprop="url"><span itemprop="name">Children’s Books</span></a></li>
+<li id="menu-item-30258" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30258"><a href="http://www.momalwaysfindsout.com/category/pets/" itemprop="url"><span itemprop="name">Pets</span></a></li>
 </ul>
 </li>
 <li id="menu-item-19076" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19076"><a href="http://www.momalwaysfindsout.com/category/crafts/" itemprop="url"><span itemprop="name">Crafts</span></a></li>
 <li id="menu-item-19087" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19087"><a href="http://www.momalwaysfindsout.com/category/travel/" itemprop="url"><span itemprop="name">Travel</span></a></li>
-<li id="menu-item-25647" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25647"><a href="http://www.momalwaysfindsout.com/category/health/" itemprop="url"><span itemprop="name">Health/Wellness</span></a></li>
+<li id="menu-item-25647" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25647"><a href="http://www.momalwaysfindsout.com/category/health/" itemprop="url"><span itemprop="name">Health &amp; Beauty</span></a></li>
 </ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><article class="post-2958 page type-page status-publish entry" itemscope="" itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Privacy Policy</h1>
-</header><div class="entry-content" itemprop="text"><div style="font-family: verdana;"><strong>What information do we collect?</strong></div>
-<p>We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form.</p>
-<p>When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.</p>
-<p>Google, as a third party vendor, uses cookies to serve ads on your site.<br>
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.<br>
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..</p>
-<p><strong>What do we use your information for?</strong></p>
-<p>Any of the information we collect from you may be used in one of the following ways:</p>
-<p>; To personalize your experience<br>
-(your information helps us to better respond to your individual needs)</p>
-<p>; To improve our website<br>
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)</p>
-<p>; To process transactions</p>
-<blockquote><p>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</p></blockquote>
-<p>; To administer a contest, promotion, survey or other site feature</p>
-<p><strong>Do we use cookies?</strong></p>
-<p>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information</p>
-<p>We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
-<p><strong>Do we disclose any information to outside parties?</strong></p>
-<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
-<p><strong>Third party links</strong></p>
-<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
-<p><strong>California Online Privacy Protection Act Compliance</strong></p>
-<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
-<p><strong>Childrens Online Privacy Protection Act Compliance</strong></p>
-<p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
-<p><strong>Online Privacy Policy Only</strong></p>
-<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
-<p><strong>Your Consent</strong></p>
-<p>By using our site, you consent to our <a style="text-decoration: none; color: #3c3c3c;" href="http://www.freeprivacypolicy.com/" target="_blank" class="external" rel="nofollow">online privacy policy</a>.</p>
-<p><strong>Changes to our Privacy Policy</strong></p>
-<p>If we decide to change our privacy policy, we will post those changes on this page.</p>
-<p><strong>N</strong><b>otice Regarding Online Behavioral Advertising</b></p>
-<p>We allow third party companies to serve ads and/or collect certain anonymous information<br>
-when you visit our Web site.&nbsp;&nbsp;These companies may use non-personally identifiable information<br>
-(e.g. click stream information,&nbsp;browser type,&nbsp;time and date,&nbsp;subject of advertisements clicked<br>
-or scrolled over) during your visits to this and other Web sites in order to provide<br>
-advertisements about goods and services likely to be of greater interest to you.&nbsp;&nbsp;These<br>
-companies typically use a cookie or third party web beacon to collect this information.&nbsp;&nbsp;To learn<br>
-more about this behavioral advertising practice visit the NAI at<a class="txtPink external" href="http://www.networkadvertising.org/" target="_blank" rel="nofollow">http://www.networkadvertising.org</a>.&nbsp;&nbsp;To<br>
-opt-out of this type of advertising,&nbsp;you can visit<a class="txtPink external" href="http://www.aboutads.info/choices" target="_blank" rel="nofollow">http://www.aboutads.info/choices</a>.</p>
-<p>&nbsp;</p>
-<p><span style="font-size: 13px; line-height: 19px;">This policy was last modified on 06/11/15.</span></p>
-<p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="335e5c5e525f44524a40555a5d57405c464773545e525a5f1d505c5e">[email&nbsp;protected]</a></p>
-<p>This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to <a style="color: #000; text-decoration: none;" href="http://www.rhinosupport.com/kayako.htm" target="_blank" class="external" rel="nofollow">kayako Supportsuite</a> and save!</p>
+</header><div class="entry-content" itemprop="text"><p>Mom Always Finds Out is found at http://www.momalwaysfindsout.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).</p>
+<p>We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.</p>
+<p>WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?</p>
+<p>Information You Voluntarily Submit to the Website: We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.</p>
+<p>Information We Collect from Others: We may receive information about you from other sources. You may link your Facebook, Instagram, and/or Google accounts to your user profile. If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account. The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.</p>
+<p>Automatically-Collected Information: We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.</p>
+<p>Cookies: We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.</p>
+<p>HOW YOUR INFORMATION MAY BE USED</p>
+<p>We may use the information collected in the following ways:</p>
+<p>To operate and maintain the Website;<br>
+To create your account, identify you as a user of the Website, and customize the Website for your account;<br>
+To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;<br>
+To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;<br>
+To respond to your comments or inquiries;<br>
+To provide you with user support;<br>
+To track and measure advertising on the Website;<br>
+To protect, investigate, and deter against unauthorized or illegal activity.<br>
+THIRD-PARTY USE OF PERSONAL INFORMATION</p>
+<p>We may share your information with third parties when you explicitly authorize us to share your information.</p>
+<p>Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.</p>
+<p>The Website currently uses the following third-party service providers:</p>
+<p>Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.</p>
+<p>MailChimp – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. Please refer to MailChimp’s privacy policy for further information.</p>
+<p>Rafflecopter – a free online tool used to run giveaways in which a randomly selected entrant will win prizes.&nbsp;Entrants to giveaways consentually provide information that may be publicly announced.</p>
+<p>At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.</p>
+<p>Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.</p>
+<p>ANONYMOUS DATA</p>
+<p>From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.</p>
+<p>PUBLICLY VISIBLE INFORMATION</p>
+<p>If you create a user profile on the Website or leave a comment, certain information may be publicly visible. To create a user profile, you must choose a username and password and input your email address for profile confirmation. Your email address will never be available publicly. At your option, you may also add an avatar, a profile description, and a link to your website.</p>
+<p>You may also choose to link your Facebook, Instagram, and Google Account.</p>
+<p>Users may see your username, avatar, profile description and website information.</p>
+<p>COOKIES</p>
+<p>The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.</p>
+<p>Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.</p>
+<p>ADVERTISING</p>
+<p>Display Ads</p>
+<p>We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.</p>
+<p>Retargeting Ads</p>
+<p>From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.</p>
+<p>Affiliate Program Participation</p>
+<p>The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.</p>
+<p>Mom Always Finds Out is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.</p>
+<p>Mom Always Finds Out is a participant in the Share-a-Sale Affiliate Marketing Network, an affiliate advertising program designed to provide a means for sites to earn commission fees by linking to various websites which sell products and services. As part of the Share-a-Sale program, the Website will post customized links to track the referrals to those websites for the purposes of assigning commissions on sales.</p>
+<p>Newsletters</p>
+<p>On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.</p>
+<p>RIGHTS RELATED TO YOUR PERSONAL INFORMATION</p>
+<p>Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at momalwaysfindsout@gmail.com to be removed from our mailing list.</p>
+<p>Access – You may access the personal information we have about you by submitting a request to momalwaysfindsout@gmail.com.</p>
+<p>Amend – You may contact us at momalwaysfindsout@gmail.com to amend or update your personal information.</p>
+<p>Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to momalwaysfindsout@gmail.com.</p>
+<p>Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.</p>
+<p>SENSITIVE PERSONAL INFORMATION</p>
+<p>At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.</p>
+<p>CHILDREN’S INFORMATION</p>
+<p>The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at momalwaysfindsout@gmail.com and we will use our best efforts to promptly remove such information from our records.</p>
+<p>CONTACT INFORMATION</p>
+<p>At any time, please contact Nicole at momalwaysfindsout@gmail.com for questions related to this Privacy Policy.</p>
+<p>Mom Always Finds Out reserves the right to make changes to this Privacy Policy. Last updated: May 23, 2018.</p>
 </div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope="" itemtype="http://schema.org/WPSideBar" id="genesis-sidebar-primary"><h2 class="genesis-sidebar-title screen-reader-text">Primary Sidebar</h2><section id="text-52" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">The Ultimate Guide to Kids’ Monthly Boxes</h3>
 <div class="textwidget"><center><a href="http://www.momalwaysfindsout.com/2014/11/monthly-subscription-boxes/"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/2014/11/The-ULTIMATE-Guide-e1416979308129.png"><kids monthly="" subscription="" boxes=""></kids></a></center></div>
 </div></section>
-<section id="search-9" class="widget widget_search"><div class="widget-wrap"><form class="search-form" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" method="get" action="http://www.momalwaysfindsout.com/" role="search"><meta itemprop="target" content="http://www.momalwaysfindsout.com/?s={s}"><label class="search-form-label screen-reader-text" for="searchform-5a2a03d87e160">Search this website</label><input itemprop="query-input" type="search" name="s" id="searchform-5a2a03d87e160" placeholder="Search this website …"><input type="submit" value="Search"></form></div></section>
-<section id="text-92" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">Enter My Giveaways!</h3>
-<div class="textwidget"><p><a href="http://www.momalwaysfindsout.com/time-for-kids/" <="" a="">TIME For Kids (2 Fun Facts Books) ends 12/11</a></p>
-<p>Coming Soon! Y Glider XL Giveaway<br>
-</p>
-</div>
-</div></section>
-
+<section id="search-9" class="widget widget_search"><div class="widget-wrap"><form class="search-form" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" method="get" action="http://www.momalwaysfindsout.com/" role="search"><meta itemprop="target" content="http://www.momalwaysfindsout.com/?s={s}"><label class="search-form-label screen-reader-text" for="searchform-5b22ef00a8ffe">Search this website</label><input itemprop="query-input" type="search" name="s" id="searchform-5b22ef00a8ffe" placeholder="Search this website …"><input type="submit" value="Search"></form></div></section>
 <section id="wpp-2" class="widget popular-posts"><div class="widget-wrap">
 <h3 class="widgettitle widget-title">Popular Posts</h3>
+
 <ul class="wpp-list wpp-list-with-thumbnails">
-<li>
-<a href="http://www.momalwaysfindsout.com/diy-bath-salts/" title="DIY Bath Salts with Epsom Salt (Customize with Essential Oils!)" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/25113-featured-50x50.jpg" width="50" height="50" alt="DIY Bath Salts with Epsom Salt (Customize with Essential Oils!)" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
-<a href="http://www.momalwaysfindsout.com/diy-bath-salts/" title="DIY Bath Salts with Epsom Salt (Customize with Essential Oils!)" class="wpp-post-title" target="_self">DIY Bath Salts with Epsom Salt (Customize with Essential Oils!)</a>
-</li>
-<li>
-<a href="http://www.momalwaysfindsout.com/cindy-lou-hair-do/" title="How To Do Cindy Lou Hair Style (Dr. Seuss Character)" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/12104-featured-50x50.png" width="50" height="50" alt="How To Do Cindy Lou Hair Style (Dr. Seuss Character)" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
-<a href="http://www.momalwaysfindsout.com/cindy-lou-hair-do/" title="How To Do Cindy Lou Hair Style (Dr. Seuss Character)" class="wpp-post-title" target="_self">How To Do Cindy Lou Hair Style (Dr. Seuss Character)</a>
-</li>
 <li>
 <a href="http://www.momalwaysfindsout.com/mopping-solution/" title="DIY Mopping Solution (Works great on tile and laminate floors!)" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/20019-featured-50x50.jpg" width="50" height="50" alt="DIY Mopping Solution (Works great on tile and laminate floors!)" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
 <a href="http://www.momalwaysfindsout.com/mopping-solution/" title="DIY Mopping Solution (Works great on tile and laminate floors!)" class="wpp-post-title" target="_self">DIY Mopping Solution (Works great on tile and laminate floors!)</a>
 </li>
 <li>
-<a href="http://www.momalwaysfindsout.com/holiday-crafts-with-fingerprints/" title="Holiday Crafts with Fingerprints &amp; Footprints" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/plugins/wordpress-popular-posts/no_thumb.jpg" width="50" height="50" alt="Holiday Crafts with Fingerprints &amp; Footprints" class="wpp-thumbnail wpp_def_noPath wpp_featured"></a>
-<a href="http://www.momalwaysfindsout.com/holiday-crafts-with-fingerprints/" title="Holiday Crafts with Fingerprints &amp; Footprints" class="wpp-post-title" target="_self">Holiday Crafts with Fingerprints &amp; Footprints</a>
+<a href="http://www.momalwaysfindsout.com/harry-potter-birthday-party-food/" title="Harry Potter Birthday Party Food Ideas" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/29890-featured-50x50.png" width="50" height="50" alt="Harry Potter Birthday Party Food Ideas" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
+<a href="http://www.momalwaysfindsout.com/harry-potter-birthday-party-food/" title="Harry Potter Birthday Party Food Ideas" class="wpp-post-title" target="_self">Harry Potter Birthday Party Food Ideas</a>
 </li>
 <li>
-<a href="http://www.momalwaysfindsout.com/p-king-duckling-is-now-streaming/" title="P. King Duckling Is Now Streaming on Netflix! Plus $25 GC Giveaway (4 Winners)" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/29354-featured-50x50.jpg" width="50" height="50" alt="P. King Duckling Is Now Streaming on Netflix! Plus $25 GC Giveaway (4 Winners)" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
-<a href="http://www.momalwaysfindsout.com/p-king-duckling-is-now-streaming/" title="P. King Duckling Is Now Streaming on Netflix! Plus $25 GC Giveaway (4 Winners)" class="wpp-post-title" target="_self">P. King Duckling Is Now Streaming on Netflix! Plus $25 GC Giveaway (4 Winners)</a>
+<a href="http://www.momalwaysfindsout.com/water-gun-games/" title="Beat the Heat With Water Gun Games | Outdoor Fun For Kids of All Ages" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/22808-featured-50x50.png" width="50" height="50" alt="Beat the Heat With Water Gun Games | Outdoor Fun For Kids of All Ages" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
+<a href="http://www.momalwaysfindsout.com/water-gun-games/" title="Beat the Heat With Water Gun Games | Outdoor Fun For Kids of All Ages" class="wpp-post-title" target="_self">Beat the Heat With Water Gun Games | Outdoor Fun For Kids of All Ages</a>
+</li>
+<li>
+<a href="http://www.momalwaysfindsout.com/tub-cleaner/" title="DIY Tub and Shower Cleaner (Amazing results, just 2 ingredients!)" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/19750-featured-50x50.jpg" width="50" height="50" alt="DIY Tub and Shower Cleaner (Amazing results, just 2 ingredients!)" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
+<a href="http://www.momalwaysfindsout.com/tub-cleaner/" title="DIY Tub and Shower Cleaner (Amazing results, just 2 ingredients!)" class="wpp-post-title" target="_self">DIY Tub and Shower Cleaner (Amazing results, just 2 ingredients!)</a>
+</li>
+<li>
+<a href="http://www.momalwaysfindsout.com/velveeta-chicken-rotel-spaghetti/" title="Velveeta Chicken Rotel Spaghetti Recipe" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/12984-featured-50x50.png" width="50" height="50" alt="Velveeta Chicken Rotel Spaghetti Recipe" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
+<a href="http://www.momalwaysfindsout.com/velveeta-chicken-rotel-spaghetti/" title="Velveeta Chicken Rotel Spaghetti Recipe" class="wpp-post-title" target="_self">Velveeta Chicken Rotel Spaghetti Recipe</a>
 </li>
 <li>
 <a href="http://www.momalwaysfindsout.com/muddy-buddies-recipe/" title="Chex Muddy Buddies Recipe for Baby Showers (Pink and Blue!)" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/22299-featured-50x50.png" width="50" height="50" alt="Chex Muddy Buddies Recipe for Baby Showers (Pink and Blue!)" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
 <a href="http://www.momalwaysfindsout.com/muddy-buddies-recipe/" title="Chex Muddy Buddies Recipe for Baby Showers (Pink and Blue!)" class="wpp-post-title" target="_self">Chex Muddy Buddies Recipe for Baby Showers (Pink and Blue!)</a>
 </li>
 <li>
-<a href="http://www.momalwaysfindsout.com/monthly-subscription-boxes/" title="The Ultimate Guide to Monthly Subscription Boxes For Kids" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/20808-featured-50x50.png" width="50" height="50" alt="The Ultimate Guide to Monthly Subscription Boxes For Kids" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
-<a href="http://www.momalwaysfindsout.com/monthly-subscription-boxes/" title="The Ultimate Guide to Monthly Subscription Boxes For Kids" class="wpp-post-title" target="_self">The Ultimate Guide to Monthly Subscription Boxes For Kids</a>
+<a href="http://www.momalwaysfindsout.com/diy-bath-salts/" title="DIY Bath Salts with Epsom Salt (Customize with Essential Oils!)" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/25113-featured-50x50.jpg" width="50" height="50" alt="DIY Bath Salts with Epsom Salt (Customize with Essential Oils!)" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
+<a href="http://www.momalwaysfindsout.com/diy-bath-salts/" title="DIY Bath Salts with Epsom Salt (Customize with Essential Oils!)" class="wpp-post-title" target="_self">DIY Bath Salts with Epsom Salt (Customize with Essential Oils!)</a>
 </li>
 <li>
-<a href="http://www.momalwaysfindsout.com/tub-cleaner/" title="DIY Tub and Shower Cleaner (Amazing results, just 2 ingredients!)" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/19750-featured-50x50.jpg" width="50" height="50" alt="DIY Tub and Shower Cleaner (Amazing results, just 2 ingredients!)" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
-<a href="http://www.momalwaysfindsout.com/tub-cleaner/" title="DIY Tub and Shower Cleaner (Amazing results, just 2 ingredients!)" class="wpp-post-title" target="_self">DIY Tub and Shower Cleaner (Amazing results, just 2 ingredients!)</a>
+<a href="http://www.momalwaysfindsout.com/thumbprint-art/" title="Spring Crafts For Kids Thumbprint Art Painted Flower Pots" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/24908-featured-50x50.png" width="50" height="50" alt="Spring Crafts For Kids Thumbprint Art Painted Flower Pots" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
+<a href="http://www.momalwaysfindsout.com/thumbprint-art/" title="Spring Crafts For Kids Thumbprint Art Painted Flower Pots" class="wpp-post-title" target="_self">Spring Crafts For Kids Thumbprint Art Painted Flower Pots</a>
+</li>
+<li>
+<a href="http://www.momalwaysfindsout.com/how-to-make-crayons/" title="How To Make Crayons in Fun Shapes Kids Love (Star Shaped Crayons Craft)" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/28670-featured-50x50.png" width="50" height="50" alt="How To Make Crayons in Fun Shapes Kids Love (Star Shaped Crayons Craft)" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
+<a href="http://www.momalwaysfindsout.com/how-to-make-crayons/" title="How To Make Crayons in Fun Shapes Kids Love (Star Shaped Crayons Craft)" class="wpp-post-title" target="_self">How To Make Crayons in Fun Shapes Kids Love (Star Shaped Crayons Craft)</a>
+</li>
+<li>
+<a href="http://www.momalwaysfindsout.com/easy-braided-updo/" title="Healthy Hair Tips with Suave + Fishtail Braid Bun Tutorial (Easy Braided Updo)" target="_self"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/wordpress-popular-posts/30418-featured-50x50.png" width="50" height="50" alt="Healthy Hair Tips with Suave + Fishtail Braid Bun Tutorial (Easy Braided Updo)" class="wpp-thumbnail wpp_cached_thumb wpp_featured"></a>
+<a href="http://www.momalwaysfindsout.com/easy-braided-updo/" title="Healthy Hair Tips with Suave + Fishtail Braid Bun Tutorial (Easy Braided Updo)" class="wpp-post-title" target="_self">Healthy Hair Tips with Suave + Fishtail Braid Bun Tutorial (Easy Braided Updo)</a>
 </li>
 </ul>
 </div></section>
-</aside></div></div><div class="footer-widgets" id="genesis-footer-widgets"><h2 class="genesis-sidebar-title screen-reader-text">Footer</h2><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="text-90" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget"><p><left><em><bold>Hi! I’m Nicole…it's nice to meet you! I am a mom to four awesome boys who are growing up way too fast. MOM ALWAYS FINDS OUT is just a tiny peek into our lives. I love to share my favorite products and brands with you, too!</bold></em></left></p><em>
-</em><p><em>To work with Mom Always Finds Out on sponsored posts, travel opportunities, or media invites please contact Nicole at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cba6a4a6aaa7bcaab2b8ada2a5afb8a4bebf8baca6aaa2a7e5a8a4a6">[email&nbsp;protected]</a></em></p>
-</div>
-</div></section>
+</aside></div></div><div class="footer-widgets" id="genesis-footer-widgets"><h2 class="genesis-sidebar-title screen-reader-text">Footer</h2><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget">Hi! I’m Nicole…it's nice to meet you! I am a mom to four awesome boys who are growing up way too fast. MOM ALWAYS FINDS OUT is just a tiny peek into our lives. I love to share my favorite products and brands with you, too! <br>
+<br>
+To work with Mom Always Finds Out on sponsored posts, travel opportunities, or media invites please contact Nicole at momalwaysfindsout@gmail.com
+</div></div></section>
 </div><div class="footer-widgets-2 widget-area"><section id="text-87" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">Home Matters Linky Party</h3>
 <div class="textwidget"><center><a href="http://www.momalwaysfindsout.com/home-matters-linky-party-98/"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/2016/08/HMLP-Im-A-Co-Host-Button-2015-e1470372115698.png"><home matters="" linky="" party=""></home></a></center></div>
 </div></section>
@@ -261,7 +328,7 @@ opt-out of this type of advertising,&nbsp;you can visit<a class="txtPink externa
 </div><div class="footer-widgets-3 widget-area"><section id="text-42" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget"><p><a href="http://clevergirlscollective.com" target="_blank" class="cgc-badge external" rel="nofollow"><img src="https://s3.amazonaws.com/static.clevergirlscollective.com/images/badgev3.png" class="cgc-badge external"></a><br>
 <a href="http://momitforward.com" class="external" rel="nofollow"><img src="http://momitforward.com/wp-content/uploads/2012/11/Bloggernetwork_button-234x60.jpg" width="234" height="60" alt="Blogger Network"></a></p><center><a href="http://www.usfamilyguide.com/" class="external" rel="nofollow"><br>
 <img src="http://www.usfamilyguide.com/graphics/USFGmemberbadge.png" width="125" height="175" alt="USFamilyGuide.com"><br>
-<script data-cfasync="false" src="/cdn-cgi/scripts/af2821b0/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://s3.amazonaws.com/cgc-badge-v2/load.min.js"></script><script type="text/javascript" src="https://s3.amazonaws.com/cgc-badge-v2/common.js"></script><script type="text/javascript" src="https://badge.clevergirlscollective.com/v2/QCSI1SrC0o6WdXzzS13j4a2Cp7Y0p1wG.js"></script><br>
+<script type="text/javascript" src="https://s3.amazonaws.com/cgc-badge-v2/load.min.js"></script><script type="text/javascript" src="https://s3.amazonaws.com/cgc-badge-v2/common.js"></script><script type="text/javascript" src="https://badge.clevergirlscollective.com/v2/QCSI1SrC0o6WdXzzS13j4a2Cp7Y0p1wG.js"></script><br>
 </a><br>
 </center><br>
 <center><a href="http://www.orientaltrading.com/" class="external" rel="nofollow"><img src="http://www.momalwaysfindsout.com/wp-content/uploads/2017/03/OTC-Blog-Badge.png" alt="Oriental Trading"></a></center><br>
@@ -270,7 +337,7 @@ opt-out of this type of advertising,&nbsp;you can visit<a class="txtPink externa
 </div></section>
 <section id="text-77" class="widget widget_text"><div class="widget-wrap"> <div class="textwidget">This website, Mom Always Finds Out, is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.</div>
 </div></section>
-</div></div></div><footer class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter"><div class="wrap"><p>Copyright ©&nbsp;2017 · <a href="http://shaybocks.com/foodie-pro/" class="external" rel="nofollow">Foodie Pro Theme</a> by <a href="http://shaybocks.com/" class="external" rel="nofollow">Shay Bocks</a> · Built on the <a href="http://www.studiopress.com/" class="external" rel="nofollow">Genesis Framework</a> · Powered by <a href="http://wordpress.org/" class="external" rel="nofollow">WordPress</a></p></div></footer></div><script type="text/javascript">jQuery(document).ready(function($) {$(".flexslider").flexslider({controlsContainer: "#genesis-responsive-slider",animation: "slide",directionNav: 1,controlNav: 1,animationDuration: 800,slideshowSpeed: 4000    });  });</script><script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+</div></div></div><footer class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter"><div class="wrap"><p>Copyright ©&nbsp;2018 · <a href="http://shaybocks.com/foodie-pro/" class="external" rel="nofollow">Foodie Pro Theme</a> by <a href="http://shaybocks.com/" class="external" rel="nofollow">Shay Bocks</a> · Built on the <a href="http://www.studiopress.com/" class="external" rel="nofollow">Genesis Framework</a> · Powered by <a href="http://wordpress.org/" class="external" rel="nofollow">WordPress</a></p></div></footer></div><script async="">(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='06b3b0971b7509d2cd28784bb51c660814a0cd4e59682bb28acd44e79629c3b2';j.dataset.sumoPlatform='wordpress';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script><script type="text/javascript">jQuery(document).ready(function($) {$(".flexslider").flexslider({controlsContainer: "#genesis-responsive-slider",animation: "slide",directionNav: 1,controlNav: 1,animationDuration: 800,slideshowSpeed: 4000    });  });</script><script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"></script>
@@ -280,18 +347,18 @@ opt-out of this type of advertising,&nbsp;you can visit<a class="txtPink externa
 <script type="text/javascript">
 /* <![CDATA[ */
 var wpurp_servings = {"precision":"2","decimal_character":"."};
-var wpurp_print = {"ajaxurl":"http:\/\/www.momalwaysfindsout.com\/wp-admin\/admin-ajax.php?wpurp_ajax=1","nonce":"feeb28c228","custom_print_css":"","coreUrl":"http:\/\/www.momalwaysfindsout.com\/wp-content\/plugins\/wp-ultimate-recipe","premiumUrl":"","title":"Mom Always Finds Out","permalinks":"\/%postname%\/"};
+var wpurp_print = {"ajaxurl":"http:\/\/www.momalwaysfindsout.com\/wp-admin\/admin-ajax.php?wpurp_ajax=1","nonce":"9ad35f5061","custom_print_css":"","coreUrl":"http:\/\/www.momalwaysfindsout.com\/wp-content\/plugins\/wp-ultimate-recipe","premiumUrl":"","title":"Mom Always Finds Out","permalinks":"\/%postname%\/"};
 var wpurp_responsive_data = {"breakpoint":"550"};
 var wpurp_sharing_buttons = {"facebook_lang":"en_US","twitter_lang":"en","google_lang":"en-US"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-content/plugins/wp-ultimate-recipe/assets/wpurp-public.js?ver=3.8.0"></script>
+<script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-content/plugins/wp-ultimate-recipe/assets/wpurp-public.js?ver=3.11.0"></script>
 <script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1"></script>
 <script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.5"></script>
 <script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.4.2"></script>
 <script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-content/themes/foodiepro/assets/js/general.js?ver=1.0.0"></script>
 <script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-content/plugins/genesis-responsive-slider/js/jquery.flexslider.js?ver=0.9.5"></script>
-<script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-includes/js/wp-embed.min.js?ver=4.7.8"></script>
+<script type="text/javascript" src="http://www.momalwaysfindsout.com/wp-includes/js/wp-embed.min.js?ver=4.9.6"></script>
 <script type="text/javascript">
     /*Google Tag Manager for Collective Bias*/
 
