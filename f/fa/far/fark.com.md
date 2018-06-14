@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226215501id_/https%3A//www.fark.com/farq/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614202530id_/https%3A//www.fark.com/farq/legal) for the most accurate reproduction.*
 
 # FARK.com: Frequently Asked Questions: Legal Stuff
 
@@ -31,7 +31,7 @@
 > 
 
 > 
-> Our Copyright Agent for notice of claims of copyright infringement on Fark.com is Drew Curtis, who can be reached through farkback at: <http://www.fark.com/feedback/legal>
+> Our Copyright Agent for notice of claims of copyright infringement on Fark.com is Drew Curtis, who can be reached through farkback at: <https://www.fark.com/feedback/legal>
 > 
 > Fark, TotalFark, Foobies, Fark This, and the Fark, TotalFark, and Foobies logos, are registered trademarks of Fark, Inc. Farked is a trademark of Fark, Inc. 
 > 
@@ -146,7 +146,7 @@
 > 
 > This information is aggregated so we can see general patterns. None of the information you provide on sign-up or while using the site is ever provided. 
 > 
-> One of these analytics products is Google Analytics. We send the Fark Account Number assigned to you at sign-up time to Google Analytics to understand how our users use Fark across different devices. Google has no way to associate this with any other personally identifiable information inside of Analytics. If you don't want us to send your Fark Account Number to Google Analytics, you can check the box in your [Preferences](http://www.fark.com/users/0/prefs) that says "Don't send my Fark Account Number to Google Analyics". 
+> One of these analytics products is Google Analytics. We send the Fark Account Number assigned to you at sign-up time to Google Analytics to understand how our users use Fark across different devices. Google has no way to associate this with any other personally identifiable information inside of Analytics. If you don't want us to send your Fark Account Number to Google Analytics, you can check the box in your [Preferences](https://www.fark.com/users/0/prefs) that says "Don't send my Fark Account Number to Google Analyics". 
 > 
 > **Policy updates**
 > 
