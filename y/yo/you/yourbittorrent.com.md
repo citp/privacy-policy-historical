@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbittorrent.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002705id_/https%3A//yourbittorrent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbittorrent.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614123857id_/https%3A//yourbittorrent.com/privacy.html) for the most accurate reproduction.*
 
 # YourBittorrent - Privacy Policy
 
@@ -8,7 +8,7 @@ Your IP Address is  .   Location is
 
 Your Internet Provider and Government can track your download activities! Hide your IP ADDRESS with a VPN!
 
-**We** strongly recommend using SpyOFF VPN to anonymize your Downloading. **It's FREE!**
+**We** strongly recommend using NordVPN to anonymize your Downloading. **It's FREE!**
 
 START YOUR FREE TRIAL NOW!
 
