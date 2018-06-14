@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ty.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209233859id_/http%3A//www.ty.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ty.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614035633id_/http%3A//www.ty.com/Privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
