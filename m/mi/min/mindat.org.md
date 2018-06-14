@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindat.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119210543id_/https%3A//www.mindat.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindat.org privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614045330id_/https%3A//www.mindat.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,7 +6,9 @@ Mindat.org is a scientifc database based on the contributions of its members. As
 
 **Use of Cookies**
 
-Mindat.org uses cookies to store personal preferences relating to the use of the website. We do not use cookies in any way to track your activities. This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information - http://www.google.com/privacy.html 
+Mindat.org uses cookies to store personal preferences relating to the use of the website. We do not use cookies in any way to track your activities. This website uses tracking software to monitor its visitors to better understand how they use it. To learn more about cookies and the implications of their use please visit this page on the website of the [Information Commissioner's Office (UK)](https://ico.org.uk/for-the-public/online/cookies/).
+
+This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information - <https://policies.google.com/privacy>. 
 
 **Information that we collect**
 
@@ -47,3 +49,5 @@ No personal information will be sold or provided to any third party organization
 Although this website only looks to include quality, safe and relevant external links, users are advised adopt a policy of caution before clicking any external web links mentioned throughout this website.
 
 We reserve the right to update and/or replace this privacy policy at any time without warning. We advise you to regularly check this page and cease using the site should you feel unhappy with any of the terms included.
+
+If you have any concerns please feel free to [contact us](https://web.archive.org/web/20180614045330id_/https%3A//www.mindat.org/contact.php). 
