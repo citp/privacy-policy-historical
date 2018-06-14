@@ -1,190 +1,224 @@
-> *The following text is extracted and transformed from the allhomes.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181443id_/https%3A//www.allhomes.com.au/ah/ah0120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhomes.com.au privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190719id_/https%3A//www.domain.com.au/group/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | allhomes
+# Privacy Policy - Domain Group
 
-## About this policy:
+You have come through to this page from a website or app which is published by Domain Holdings Australia Limited (ABN 43 094 154 364) of 1 Darling Island Road, Pyrmont NSW 2009 ( **Domain** ) or one of its subsidiaries.
 
-This privacy policy applies to the collection, storage, use and disclosure of personal information by or on behalf of All Homes Pty Ltd ACN 093 012 652 (referred to in this policy as "allhomes", "our", "we" or "us") in connection with our publication of residential and commercial property listings information via our website ([www.allhomes.com.au](https://www.allhomes.com.au/)) ('website'), print-based publications, and mobile apps. Please read it carefully. 
+In this Privacy Policy, **Domain Group** , **us** , **we** or **our** means Domain and its related bodies corporate, partnerships and joint venture entities. Domain Group is the operator of the network (which includes our website and apps) and the data controller for the personal data collected and processed via the network.
 
-## Our commitment to protecting your privacy:
+This Privacy Policy sets out:
 
-We are committed to protecting your personal information, and ensuring its privacy, accuracy and security. We handle your personal information in a responsible manner in accordance with the Privacy Act 1988 (Act) and the Australian Privacy Principles (APPs). 
+  * what is considered personal information;
+  * what personal information we collect and hold;
+  * how we collect, hold, use or disclose personal information;
+  * the purposes for which we collect personal information;
+  * what happens if we are not able to collect personal information;
+  * how to seek access to and correct your personal information;
+  * whether we disclose personal information outside Australia; and
+  * how to contact us.
 
-By using any of our products or services, visiting our website ([www.allhomes.com.au](https://www.allhomes.com.au/)) or giving us your personal information, you agree to your information being collected, stored, used and disclosed as set out in this Privacy Policy. 
 
-## Personal information:
 
-'Personal information' means information or an opinion about an identified individual, or an individual who is reasonably identifiable, whether true or not, and whether or not recorded in a material form. 
+We are bound by the Australian Privacy Principles contained in the _Privacy Act 1988_ (Cth) ( **Privacy Act** ) (subject to exemptions that apply to us under that Act) and any other applicable data protection laws, including the EU General Data Protection Regulation ( **GDPR** ). However, due to the nature of some of our business activities, from time to time, we will handle personal information relying on the media exemption in the Privacy Act where appropriate. Where we do so, we will ensure that we comply with the Australian Press Council Privacy Standards. We may also rely on related bodies corporate, employee records and other exemptions in the Privacy Act. If you require more information on the collection and use of personal information in the course of journalism, please visit the Australian Press Council Privacy Standards at[ www.presscouncil.org.au/privacy-principles](http://www.presscouncil.org.au/privacy-principles?Embed=Y).
 
-'Sensitive information' (a type of personal information), means information or an opinion about an individual’s race or ethnic origins, political opinions and associations, religious beliefs or affiliations, philosophical beliefs, sexual preferences or practices, trade or professional associations and memberships, union membership, criminal record, health or genetic information or biometric information. 
+We may, from time to time, review and update this Privacy Policy, including taking account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recent updated Privacy Policy. Your privacy matters to us, so whether you are new to Domain Group or are a long time user, please take the time to get to know our practices.
 
-## Whose personal and other information do we collect?
+**What is Personal Information**
 
-We may collect your personal and other information from a range of sources, including from you, recruitment agencies, contractors, business partners and government agencies. For example, we may collect your personal and other information when you request or acquire a product or service from us, provide a service or product to us, apply for employment with us or communicate with us via our website, by e-mail, telephone or in writing. 
+When used in this Privacy Policy, the term “personal information” has the meaning given to it in the Privacy Act or any other applicable data protection law. In general terms, it is any information that can be used to personally identify you. This may include (but is not limited to) your name, age, gender, postcode and contact details (including phone numbers and email addresses) and possibly financial information, including your credit card, direct debit or PayPal account information. If the information we collect personally identifies you, or you are reasonably identifiable from it, the information will be considered personal information.
 
-Wherever reasonable and practicable, we collect personal information from the individual to whom the information relates. If you provide personal information about someone other than yourself, you agree that you have that person’s consent to provide the information for the purpose for which you provide it to us. You also agree that you have told the person about this Privacy Policy and where to find it. 
+**What Personal Information Do We Collect and Hold**
 
-## What types of personal and other information do we collect and hold?
+We may collect the following types of personal information;
 
-Allhomes collects personal and other information including: 
+  * name;
+  * mailing or street address;
+  * email address;
+  * telephone number;
+  * age or birth date;
+  * profession, occupation or job title;
+  * details of the products and services you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services and to respond to your enquiries;
+  * any additional information relating to you that you provide to us directly through our network or indirectly through use of our network or online presence through our representatives or otherwise;
+  * information you provide to us through our service centre, customer surveys or visits by our representatives from time to time.
 
-  * information about the sale, lease, and share of residential properties, and the sale and lease of commercial properties;
-  * names, addresses, e-mail addresses, phone numbers, payment details, occupation and other information to assist us in conducting our business, providing and marketing our products and services; 
-  * information about staff and directors, as required in the normal course of human resource management and the operation of a business; and
-  * information about current and previous allhomes suppliers and clients with whom allhomes has dealings.
 
 
+**Cookies**
 
-In particular, allhomes collects the following types of personal and other information from the following sources: 
+In some cases we may also collect your personal information through the use of cookies and other tracking devices. When you access our website, we may send a “cookie” (which is a small summary file containing a unique ID number) to your computer. This enables us to recognise your computer and greet you each time you visit our website, without bothering you with a request to register or log-in. It also helps us keep track of products or services you view, so that we can send you news about those products or services. We also use cookies to measure traffic patterns, to determine which areas of our websites have been visited, and to measure transaction patterns in the aggregate. We use this to research our users’ habits so that we can improve our online products and services. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them. We may also log IP addresses (the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track user movements, and gather broad demographic information.
 
-  * From listing agents: For the purpose of displaying listings for sale, lease, or share, allhomes collects the street address and listing price for the property, and a description, and commentary regarding the features, of the property. Allhomes also collects the listing agent’s name, telephone number, address, picture, and agency and email address. Allhomes also collects information concerning the property such as the asking price, property type, floor area, block size, unimproved land value, number and type of rooms, floors, car parking, and energy efficiency. 
+We may also collect anonymous data (which is not personal information) relating to your activity on our websites (including IP addresses) via cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information because it does not identify you or anyone else, the Australian Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever.
 
-Allhomes collects information about the transfer of properties agents list. After a transfer, listing agents provide to allhomes information including the addresses of properties, sale dates, proposed settlement date, and sale prices, or in the case of a lease the address of a leased property and the amount payable. Agents may provide information relating to commission. 
+**How We Collect Personal Information**
 
-If listing agents or agencies wish to open accounts with allhomes, allhomes collects the agency name, contact details, the names of the real estate agent licence holder and principal, a street address, an email address, and a website address. 
+We collect your personal information directly from you unless it is unreasonable or impractical to do so. We do this in ways including:
 
-  * From State and Territory Governments: Allhomes has licence agreements with the Australian Capital Territory and the states of New South Wales and Tasmania under which allhomes is provided information. 
+  * through your access and use of our network or sending SMS/MMS to us;
+  * during conversations between you and our representatives; 
+  * when you complete an application or make a listing enquiry; and
+  * data sharing between our related bodies corporate, partnerships and joint venture entities.
 
-    * ACT: allhomes collects data regarding transferred properties, including division names, block and section numbers, street addresses, volume and folio identifiers, lease purpose codes, dates of transfer, sale prices, sale dates, and block areas. The ACT also provides valuation data to allhomes including rateable values and unit entitlements / aggregates.
-    * NSW: allhomes collects information published in the 'Spatial Information eXchange' ('SIX') database, including cadastral, topographic, addressing, vegetation, boundaries, and survey control data, satellite imagery, and current and historical aerial photography. Allhomes also receives property sales information, including (where applicable) record type, district code, submitter’s user ID, a property ID, sale counter, property name, unit number, house number, street name, locality, post code, area, area type, contract date, settlement date, purchase price, zoning, nature of property, primary purpose, strata lot number, percent interests of sale, dealing number, property legal description, purchaser-vendor information, owner type, owner interest, owner surname and first initial, owner title, and total records.
-    * Tasmania: allhomes collects data regarding transferred properties, including property IDs municipality codes, unit numbers, street numbers, streets, street types, localities, states, postcodes, sale dates, sale prices, capital values, land areas, land use codes, room counts, building areas, construction years, wall construction codes, and roof construction codes (where available).
-  * From private customers: Where allhomes accepts a private listing (from the owner or lessor of property ('Customer')), allhomes collects the Customer’s first name and last name, email address, telephone numbers, credit card details, and the address of the property, and may also collect a description of the relevant property and its features, photographs of the property, documents concerning the property (like EER reports). Allhomes also collects information about the property including asking price, property type, floor area, block size, unimproved land value, number and type of rooms, floors, car parking, and energy efficiency. 
 
-  * From site users generally: Users of our website may choose to create a user account to take advantage of the website’s features (including property alerts, watch lists, etc.) In order to create an account allhomes collects a first and last name, State or Territory of residence, and an email address. Users also have the option of providing telephone contact details. 
 
-Users are able to submit online enquiries to allhomes. In this case, allhomes collects a contact name, contact email, a description of the user as being a member of the public, real estate agent, advertiser, or "other", and the nature of the enquiry. Users may also choose to provide a work or mobile phone number. When you submit an online enquiry it generates an email which is forwarded to our customer support email address. We keep a record of enquiries and details you submitted. 
+We may also collect personal information from third parties including:
 
-  * From job applicants: Allhomes advertises job vacancies on its website. Allhomes will ordinarily collect from an applicant (whether pursuant to an advertisement or unsolicited) a name and street address, contact details, details of current and former employment and education, referee details, and other kinds of information commonly included in curricula vitae. We keep a record of your job enquiry and all details you submitted with it. 
+  * third party companies such as credit reporting agencies, law enforcement agencies and other government entities;
+  * advertisers;
+  * mailing lists;
+  * recruitment agencies;
+  * contractors and business partners; and/or
+  * through someone else who has provided us with your information (e.g. a real estate agent or a friend referral).
 
-  * Other: We may collect personal information from you, including your name, address and/or other contact information, gender, occupation, email address and any other information that is relevant to our functions and activities that you choose to give us when you use our website, services, or products. 
 
-In addition to those matters expressly set out above, we may also collect personal information from service providers and other third parties. In particular, allhomes uses the Google Analytics Demographics and Interest Reporting feature. That enables Google to collect data about visitors to the allhomes website via Google advertising cookies and anonymous identifiers. That information includes your age group, interests (based on web history), and location, information about your use of the allhomes website (including pages visited, pageviews, and session duration), and information about the software and hardware that the visitor is using to visit the website (“the Google information”). The Google Information is anonymised and allhomes does not merge it with any personally-identifiable information. You can opt out of the Google Analytics Demographics and Interest Reporting feature by clicking this link: [opt out](https://tools.google.com/dlpage/gaoptout/)
 
+**Why Do We Collect, Hold, Use and Disclose Personal Information**
 
+The primary purpose for which we collect information about you is to enable us to perform our business activities and functions and to provide best possible quality of customer experience. We collect, hold, use and disclose your personal information for the following purposes:
 
+  * to provide products and services to you;
+  * to provide you with news, information or advice about our existing and new products and services;
+  * to communicate with you, including but not limited to, by email, mail, SMS or telephone;
+  * to manage and enhance our products and services;
+  * to personalise and customise your experience;
+  * to provide you with access to protected areas of our websites;
+  * to conduct competitions or promotions on behalf Domain Group and selected third parties;
+  * to verify your identity;
+  * to provide as part of business data to third parties if you have authorised us to do so;
+  * to conduct business processing functions for operation of our websites or our business;
+  * for our administrative, marketing (including direct marketing), promotional, planning, product/service development, quality control and research purposes, or those of our contractors or external service providers;
+  * to provide your updated personal information to us, our contractors or external service providers;
+  * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or
+  * as required or permitted by any law (including the Privacy Act).
 
-We will only collect your sensitive information if you have consented to us doing so – for example, as part of information collected about directors and employees for company and human resource management purposes; or where required or permitted by law. 
 
-## How do we collect personal and other information?
 
-We only collect personal and other information by lawful and fair means. We usually collect personal and other information from: 
+Your personal information will not be shared, sold, rented or disclosed other than as described in this Privacy Policy.
 
-  * face-to-face meetings, interviews and telephone calls; 
-  * business cards; 
-  * electronic communications – for example, e-mails and attachments; forms filled out by people, including as part of acquiring a product or service from us; 
-  * third parties – for example, from listing agents, State and Territory Governments, recruitment agencies and your representatives or agents, and, in the case of the Google Information, from Google (see above under ' What types of personal and other information do we collect and hold?'); and
-  * our website, including if you use it to contact us.
+**What Happens if We can’t Collect Your Personal Information**
 
+The provision of your personal data is neither required by a statutory nor a contractual obligation. The provision of your personal data is, however, necessary to receive our services/products as requested by you. The provision of your personal data is voluntary. If you do not provide us with the personal information described in this Privacy Policy, some or all of the following may happen:
 
+  * we may not be able to provide you with the products or services you requested, either to the same standard, or at all (for example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members only);
+  * we may not be able to provide you with information about products and services that you may want, including information about discounts sales or special promotions; or
+  * we may be unable to tailor the content of our network to your preferences and your experience of our network may not be as enjoyable or useful.
 
-## Why do we collect personal and other information?
 
-We collect the personal and other information (including the Google Information): to enable us to publish residential and commercial property listings information via our website and mobile apps; necessary for us to provide you with the products and services you have requested from us; for marketing purposes and to provide you with information about products and services that may be of interest to you; to improve the products and services we provide; and to enable us to conduct our business, including meeting our legal and regulatory obligations. If you do not provide your personal information, we may not be able to supply the requested product or service, employ you or otherwise deal with you. 
 
-## How we deal with unsolicited personal information?
+**How Do We Disclose Your Personal Information**
 
-If we receive personal information about you that we have not requested, and we determine that we could not have lawfully collected that information under the APPs had we asked for it, we will destroy or de-identify the information if it is lawful and reasonable to do so. 
+We may disclose your personal information to:
 
-## Do you have to disclose your identity when dealing with us?
+  * our employees, related bodies corporate, partnerships, joint venture entities, contractors or external service providers for the operation of our network or our business, fulfilling requests by you, and otherwise provide products and services to you, including without limitation, web hosting providers, IT systems administrators, mailing houses, newsagents, couriers, payment processors, photographic analysers, data entry service providers, electronic network administrators, debt collectors, and professional advisers such as accountants, solicitors, business advisors and consultants;
+  * our existing or potential agents and/or business partners;
+  * our sponsors, or promoters of any competition that we conduct or promote via our services;
+  * specific third parties authorised by you to receive information held by us;
+  * the police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary; or
+  * as required or permitted by any law (including the Privacy Act).
 
-Where lawful and practicable, we will give you the option of interacting with us anonymously or using a pseudonym. 
 
-## Use of personal and other information:
 
-We only use your personal and other information for the purpose for which it was provided to us, for related purposes or as required or permitted by law. Such purposes include: 
+**Direct Marketing Materials**
 
-  * in the ordinary course of conducting our business. For example, publishing residential and commercial property listings information via our website and mobile apps, supplying or acquiring products and services, responding to your enquiries and feedback, and providing information about our events, news, publications and products and services that may be of interest to you; 
-  * market research and product and service development, so that we are able to better understand our customers’ needs and tailor our future products and services accordingly; 
-  * performing general administration, reporting and management functions. For example, invoicing and account management, payment processing, risk management, training, quality assurance and managing suppliers; 
-  * employment-related purposes, such as recruiting and providing services to staff; 
-  * as part of a sale (or proposed sale) of all or part of our business, or a sale (or proposed sale) of shares in allhomes; and
-  * other purposes related to or in connection with our business, including meeting our legal and contractual obligations to third parties and for internal corporate governance purposes.
+We may send you direct marketing communications and information about products and services that we consider may be of interest to you. These communications may be sent in various forms, including mail, SMS or email, in accordance with applicable marketing laws, such as the _Spam Act 2003_ (Cth). If you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so.
 
+In addition, at any time, you may opt-out of receiving marketing communications from us by contacting us (details below) or by using the opt-out facilities provided (e.g.an unsubscribe link), or by updating your personal details on our “MyAccount” webpage. We will then ensure that your name is removed from our mailing list. We do not provide your personal information to other organisations for the purpose of direct marketing unless expressly authorised by you.
 
+If you receive communications from us that you believe have been sent to you other than in accordance with this Privacy Policy, or in breach of any law, please contact us using the details provided below.
 
-## Disclosure of personal and other information:
+**Accessing and Correcting Your Personal Information**
 
-We may disclose, and you consent to us disclosing, your personal and other information to third parties: 
+You may request access to any personal information we hold about you at any time by contacting us (details below). Where we hold information that you are entitled to access, we will try and provide you with suitable means of accessing it (for example, by mailing or emailing it to you). We will not charge for simply making a request and will not charge for making any corrections to your personal information. If you make an access request, we will ask you to verify your identity. There may be instances where we cannot grant you access to the personal information we hold. For example, we may need to refuse access if granting access would interfere with the privacy of others, or if it would result in a breach of confidentiality. If that happens, we will give you written reasons for any refusal.
 
-  * to the extent that a website user collects residential and commercial property listings information from our website;
-  * engaged by us to provide products or services, or to undertake functions or activities, on our behalf. For example, processing payment information, managing databases, marketing, research and advertising; 
-  * that are authorised by you to receive information we hold; 
-  * that are our business partners, joint venturers, partners or agents; 
-  * as part of a sale (or proposed sale) of all or part of our business, or a sale (or proposed sale) of shares in allhomes. For example, we may disclose information to our external advisers, to potential and actual bidders and to their external advisors;
-  * such as our external advisers, and government agencies. For example, where disclosure is reasonably required to obtain advice, prepare legal proceedings or investigate suspected unlawful activity or serious misconduct; or 
-  * as required or permitted by law.
+If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request us to amend it. We will consider if the information requires amendment. If we do not agree that there are grounds for amendment, then we will add a note to the personal information stating that you disagree with it.
 
+Members of our websites will generally be able to access and update their membership details online. We request that you keep your information as current as possible so that we may continue to improve our service to you.
 
+**How You can Complain about a Breach of Privacy**
 
-We may disclose, and you consent to us disclosing, your personal and other information to any of our related bodies corporate whether located in Australia or overseas. If we disclose your personal information to a related body corporate, your information will be collected, stored, used and disclosed in accordance with this Privacy Policy and the APPs. 
+If you believe your privacy has been breached by us, have any questions or concerns about our Privacy Policy please, contact us using the contact information below and provide details of the incident so that we can investigate it.
 
-## Marketing use and disclosure:
+We have a formal procedure for investigating and dealing with privacy breaches. Once the Privacy Officer receives a complaint, whether it is in writing or verbal means, the Privacy Officer will commence an investigation with the relevant business unit from which the alleged breach stemmed. The investigator will endeavour to determine the nature of the breach and how it occurred. We may contact you during the process to seek further clarification if necessary. If a breach is found, the Privacy Officer will escalate the matter to management so that the process can be rectified to prevent any further breaches from taking place. We will also contact you to inform you of the outcome of the investigation. We will endeavour to resolve all investigations within a reasonable time.
 
-We may use and disclose your personal and other information (other than sensitive information) to provide you with information about our products and services that we consider may be of interest to you. You may opt out at any time if you do not, or no longer, wish to receive marketing and promotional material. You may do this by: contacting us via e-mail or in writing at the address below and requesting that we no longer send you marketing or promotional material; or where applicable, clicking the "Unsubscribe" button. 
+We will treat your requests or complaints confidentially. Our representatives will contact you within a reasonable time after receipt of your complaint to discuss your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in a timely and appropriate manner.
 
-## Use or disclosure of sensitive information:
+Please contact our Privacy Officer at:
 
-We will only use or disclose your sensitive information for the purpose for which it was initially collected or for a directly related purpose, as required or permitted by law, or where you consent to the use or disclosure. 
+Privacy Officer  
+Domain Holdings Australia Limited  
+55 Pyrmont Street  
+Pyrmont NSW 2009
 
-## Disclosure of personal and other information overseas:
+Tel: 02 9254 3000
 
-From May 2014, allhomes will have disaster recovery support including use of servers physically located in a data centre in Hong Kong. Information that allhomes collects is backed up to, stored on, and retrieved from, those servers. 
+Email: privacy@domain.com.au
 
-Also, allhomes’ electronic mail capability is provided by Google, and email is stored on Google’s servers. Google has data centres in the United States, Finland, Belgium, Taiwan, Singapore, and Ireland. Any personal or other information contained in email will be stored in a data centre in one or more of those countries. 
+**Disclosure of Personal Information Outside Australia**
 
-Any overseas disclosure does not affect our commitment to safeguarding your personal or other information. Where reasonable in the circumstances, our contracts with overseas recipients oblige them to comply with the APPs and the Act. However, you acknowledge that, in agreeing to the disclosure of your information to overseas recipients, we will no longer be required to take reasonable steps to ensure overseas recipients’ compliance with the APPs in relation to your information and we will not be liable to you for any breach of the APPs by those overseas recipients. On this basis, you consent to such disclosure. 
+We may disclose personal information to our related bodies corporate, partnerships, joint venture entities and external service providers located overseas for some of the purposes listed above. We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information.
 
-## How is my personal and other information kept secure?
+We may disclose your personal information to entities located outside of Australia, including the following:
 
-We take reasonable steps to protect your personal information from misuse, interference, loss and unauthorised access, modification and disclosure. Such steps include: physical security over paper-based and electronic data storage and premises; computer and network security measures, including use of firewalls, password access and secure servers; restricting access to your personal information to employees and those acting on our behalf who are authorised and on a 'need to know' basis; retaining your personal information for no longer than it is reasonably required, unless we are required by law to retain it for longer; and entering into confidentiality agreements with staff and third parties. 
+  * our related bodies corporate partnerships and joint venture entities, located in New Zealand and South East Asia;
+  * our data hosting and Cloud-based IT service providers;
+  * other external service providers located in the Philippines and U.S.; and
+  * other third parties operating in jurisdictions including China, India, Indonesia, New Zealand, Hong Kong and the United States where you have authorised us to do so.
 
-Allhomes uses a hosting provider for the storage of its information. The hosting provider uses a primary server room in Canberra and a secondary server room in Sydney. From May 2014, allhomes’ hosting provider’s primary server room will be in Sydney and its secondary server room will be in Hong Kong. Secure access to physical servers is controlled by allhomes’ hosting provider. Access to the information stored on the servers is protected by username/password authentication authorisation schemes. 
 
-Data transmissions between allhomes’ servers and its hosting provider’s servers is encrypted using Secure Sockets Layer ("SSL") security mechanisms. 
 
-Allhomes uses network vulnerability testers to ensure the security of its data. Allhomes also uses monitoring devices within its network infrastructure to notify of incursion or attempted incursion. 
+**GDPR**
 
-Where we no longer require your personal information, including where we are no longer required by law to keep records relating to you, we will ensure that it is de-identified or destroyed. 
+If the European General Data Protection Regulation ( **GDPR** ) applies in respect of any of the personal information we collect, for the purposes of such applicable data protection laws, we are the controller.
 
-## Data quality:
+In respect of residents of the European Economic Area ( **EEA** ), references to personal information in this Privacy Policy means any information that (either in isolation or in combination with other information) enables you to be identified directly or indirectly.
 
-We take reasonable steps to ensure that your personal information is accurate, complete and up-to-date. However, we rely on you to advise us of any changes or corrections to the information we hold about you. If you consider that the information we hold about you is not accurate, complete or up-to-date, or if your information has changed, please let us know as soon as possible. 
+In some instances, we may combine other information with personal information. If other information is combined with personal information or is used to build a profile of an individual (in a way which could be reasonably used to identify that individual), the combined information will be treated by us as personal information for so long as it remains combined.
 
-## Access:
+If you are a resident in the EEA, you have the following rights in relation to your personal information (where applicable):
 
-You may request access to the personal information we hold about you by contacting us. We will respond to your request within a reasonable time. We will provide you with access to the information we hold about you unless otherwise permitted or required by law. If we deny you access to the information, we will notify you of the basis for the denial unless an exception applies. Where reasonable and practicable, we will provide access to the information we hold about you in the manner you request. No fee applies for requesting access to information we hold about you. However, we reserve the right to charge a reasonable fee where we do provide access. 
+(a)     **Access**. As provided by applicable data protection law, you have the right to obtain from us confirmation as to whether or not personal data concerning you is being processed, and, where that is the case, to request access to the personal data. This access information includes – inter alia – the purposes of the processing, the categories of personal data concerned, and the recipients or categories of recipient to whom the personal data have been or will be disclosed. However, this is not an absolute right and the interests of other individuals may restrict your right of access. You may have the right to obtain a copy of the personal data undergoing processing free of charge. For further copies requested by you, we may charge a reasonable fee based on administrative costs.
 
-Information we hold about current residential and commercial property listings is freely available via our website and mobile apps. 
+(b)    **Rectification**. As provided by applicable data protection law, you have the right to have incomplete or inaccurate personal information that we process about you rectified.
 
-## Correction:
+(c)    **Deletion**. As provided by applicable data protection law, you have the right to request that we delete personal information that we process about you, except we are not obliged to do so if we need to retain such data in order to comply with a legal obligation or to establish, exercise or defend legal claims or if other statutory restrictions apply.
 
-If you believe that personal information we hold about you is incorrect, incomplete or not current, you may request that we update or correct your information by contacting us. We will deal with your request within a reasonable time. If we do not agree with the corrections you have requested (for example, because we consider that the information is already accurate, up‑to‑date, complete, relevant and not misleading), we are not required to make the corrections. However, where we refuse to do so, we will give you a written notice setting out the reasons. 
+(d)    **Restriction**. Depending on the circumstances and as provided by applicable data protection law, you have the right to restrict our processing of your personal information where you believe such data to be inaccurate; our processing is unlawful; or that we no longer need to process such data for a particular purpose or where other legal grounds to request restriction apply unless we are not able to delete the data due to a legal or other obligation or because you do not wish for us to delete it or because other statutory restrictions apply.
 
-## Identifiers:
+(e)    **Portability**. Depending on the circumstances and as provided by applicable data protection law, you have the right to obtain personal information we hold about you, in a structured, electronic format, and to transmit such data to you or another data controller, where this is (i) personal information which you have provided to us, and (ii) if we are processing that data on the basis of your consent or to perform a contract with you.
 
-We do not adopt, use or disclose government related identifiers except as required or permitted by law. 
+(f)     **Objection**. Under certain circumstances, you have the right to object, on grounds relating to your particular situation, at any time to the processing of your personal data by us and we are required to no longer process your personal data. Such right to object especially applies if we collect and process your personal data for profiling purposes in order to better understand your interests in our products and services or for certain types of direct marketing. If you have a right to object and if you exercise this right, your personal data will no longer be processed for such purposes by us. You may exercise this right by contacting the Privacy Officer. Such a right to object may, in particular, not exist if the processing of your personal data is necessary to take steps prior to entering into a contract or to perform a contract already concluded.
 
-## Complaints:
+(g)    **Withdrawing Consent**. If you have consented to our processing of your personal information, you have the right to withdraw your consent at any time, free of charge. Such a withdrawal will not affect the lawfulness of the processing prior to the consent withdrawal. You can withdraw your consent by sending your request to the Privacy Officer.
 
-If you have a complaint in relation to the collection, storage, use or disclosure of your personal information, please contact our Privacy Officer using the details below. You will need to provide us with details of your complaint, as well as any supporting evidence and information. We will review all complaints received and our Privacy Officer will respond to you. If you are not satisfied with our response, you may discuss your concerns with or complain to the Australian Privacy Commissioner via www.oaic.gov.au. 
+You can make a request to exercise any of these rights in relation to your personal information by sending the request to the Privacy Officer on the contact details provided above.
 
-## Changes to this Privacy Policy:
+**Metadata**
 
-We reserve the right to revise this Privacy Policy or any part of it from time to time. Please review this Policy periodically for changes. Any revised policy will be placed on our website at [ http://www.allhomes.com.au/ah/act/info/privacy-statement/view](https://www.allhomes.com.au/ah/act/info/privacy-statement/view). Your continued use of our website, products or services, requesting our assistance, or the provision of further personal information to us after this Privacy Policy has been revised, constitutes your acceptance of the revised Privacy Policy. 
+You may use the website without providing any personal data about you. In this case, we will collect metadata that results from your usage of the website including: browser type and version, operating system and interface, website from which you are visiting us (referrer URL), webpage(s) you are visiting on our website, date and time of accessing our website, and internet protocol (IP) address. The metadata, will be used to improve the quality and services of our website and services by analysing the usage behavior of our users in anonymised form and to prevent fraud, misuse of our IT systems, as well as to ensure physical, IT and network security. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
 
-## How to contact us:
+If you have a complaint and you are based in, or the issue you would like to complain about took place in the EEA, please click[ here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080) for a list of local data protection authorities in EEA countries.
 
-If you have any questions about this Privacy Policy, please contact Allhomes’ Privacy Officer: 
+**Retention**
 
-  1. by email to [support@allhomes.com.au](mailto:support@allhomes.com.au)
-  2. by writing to: 
-    * Privacy Officer
-    * All Homes
-    * PO Box 4930
-    * Kingston ACT 2604
-  3. by telephone: 1300 ALL HOMES (1300 255 466)
-  4. by fax: 02 6296 4818
+Your personal data will be retained as long as necessary to provide you with the services and products requested. Once you have deleted your account or otherwise ended your relationship with us, we will remove your personal data from our systems and records and/or take steps to properly anonymise it so that you can no longer be identified from it (unless we need to keep your information to comply with legal or regulatory obligations to which Domain Group is subject e.g. taxation purposes).
 
+Personal data will in principle be deleted 10 years after the last interaction and business contact between you and Domain Group. However, we will retain your contact details and interests in our products or services for a longer period of time if Domain Group is allowed to send you marketing materials. Also, we typically delete contracts, communications, and business letters, including any personal data contained therein, 10 years after their termination or creation, as such data may be subject to statutory retention requirements, which often require retention of up to 10 years.
 
+We may also retain your personal data after the termination of the contractual relationship if your personal data are necessary to comply with other applicable laws or if we need your personal data to establish, exercise or defend a legal claim, on a need to know basis only. To the extent possible, we will restrict the processing of your personal data for such limited purposes after the termination of the contractual relationship.
 
-Effective date: 26 June 2014 
+**Security**
+
+We will take all reasonable steps to protect the personal information that we hold from misuse, loss or unauthorised access, including by means of firewalls, password access, secure servers and encryption of credit card transactions.
+
+If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately.
+
+**Links**
+
+Our website may contain links to other websites operated by third parties. We make no representations or warranties in relation to the privacy practices of any third party website and we are not responsible for the privacy policies or the content of any third party website. Third party websites are responsible for informing you about their own privacy practices.
+
+**Changes to Our Privacy Policy**
+
+We may change this Privacy Policy from time to time. Any updated versions of this Privacy Policy will be posted on our website. This Privacy Policy was last updated in May 2018.
+
+**Tracking and Targeting**
+
+[Tracking and Targeting Policy](https://www.domain.com.au/group/tracking-and-targeting/)
