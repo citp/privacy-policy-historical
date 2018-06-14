@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpob.gov.my privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109203325id_/http%3A//www.mpob.gov.my/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpob.gov.my privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614233534id_/http%3A//www.mpob.gov.my/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,9 +24,11 @@ If this privacy policy changes in any way, it will be updated on this page. Regu
 
 ### Visitors
 
-**Visitor :  
-  
-since May 1,2000**
+**Visitor : 9, 566, 859
+
+since May 1,2000
+
+**
 
 Best Viewed In **1024 x 768** pixel resolutions and above, and compatible with the following browsers:  
 | You may need the followings to view certain areas of the portal:  
