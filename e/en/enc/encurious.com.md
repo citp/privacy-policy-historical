@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encurious.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209113450id_/http%3A//encurious.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encurious.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614143004id_/http%3A//encurious.com/privacy) for the most accurate reproduction.*
 
 # Encurious
 
