@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heraldgoa.in privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902162801id_/https%3A//www.heraldgoa.in/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldgoa.in privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614112337id_/https%3A//www.heraldgoa.in/Privacy-Policy) for the most accurate reproduction.*
 
 # Herald: Privacy Policy
 
@@ -65,6 +65,10 @@ We reserve the right to disclose your personally identifiable information as req
 We use cookies on the website but do not link the information we store in cookies to any personally identifiable information you submit while on our website. We do not set cookies to store your passwords. If you reject cookies, you will still use our website.
 
 We have no access to or control over third party cookies and we don't store any cookies and just use the facility of .net framework for page output cache. This privacy statement does not cover the use of cookies by any advertisers.
+
+For web and mweb:<https://www.colombiaonline.com/privacy-policy>
+
+For iOS and Android App: <https://www.colombiaonline.com/privacy-policy?app=1>
 
 **Changing Your Personal Information:**  
 You can access and modify your personal information by signing on to the website. We will not modify the information provided by you. However, you must update your personal information as soon as such changes are necessitated.
