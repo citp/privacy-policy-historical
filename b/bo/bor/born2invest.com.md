@@ -1,33 +1,83 @@
-> *The following text is extracted and transformed from the born2invest.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002022100id_/https%3A//born2invest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the born2invest.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614151022id_/https%3A//born2invest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Born2Invest
 
-Born2Invest recognizes that personal privacy is an important issue, so we design, maintain, and operate our services with the protection of individual privacy as one of our utmost concerns. Our readership and subscriber databases are securely maintained for the proprietary publication and distribution of selected newsletters, financial and economic data and timely news reports and notices.
+#### WE ARE COMMITTED TO PROTECTING YOUR PRIVACY
 
-In this recently revised and expanded Privacy Policy, we set out examples of the types of information we collect and how we may possibly share that information and with whom. These examples are provided for illustration purposes and should not be considered a complete and exhaustive listing of our information collection, use and sharing practices.
+This is the privacy policy for [http://born2invest.com](http://born2invest.com/). Born2Invest recognizes that personal privacy is an important issue, so we design, maintain, and operate our services with the protection of individual privacy as one of our utmost concerns. 
 
-**Information Obtained.** When you register to receive any of our publications, we usually obtain, at the minimum, your name, your e-mail address and zip code. When you elect to “contact us,” we may obtain additional information including your name, e-mail address, phone number, address and company name. We utilize this information to respond to individual inquiries as appropriate and to send you selected newsletters, financial data and timely news reports and notices. From time to time, we may forward additional information to you including special offers from Born2Invest or specially selected partners who offer products, services, or information which we believe may be of interest to our readership. By providing your contact information and/or registering to receive any of our publications and/or viewing our web and e-mail information, you consent to the establishment of an ”opt-in business relationship” between you and Born2Invest.
+In this privacy policy, we explain how we collect, store, and use information as defined under the General Data Protection Regulation (GDPR). 
 
-Born2Invest also collects limited non-personally identifying information your browser customarily makes available whenever you visit any website on the internet or open an e-mail. this information may include your Internet Protocol address, browser type, browser language, the date and time of your access and one or more cookies that may uniquely identify your browser. We use this information on an aggregate basis, to analyze the readership trends of our e-mails and access to our publishing services.
+Whenever you visit the Born2Invest website and view the content we publish, you accept and consent to our practices that we describe below. 
 
-Some of our newsletters, reports and notices as well as our website may include ads from third parties. In order to measure advertising effectiveness, we may employ cookies or action tags (also known as single pixel gifs or web beacons). Any information that is collected via cookies and action tags is maintained under the same security measures as employed for personal information.
+#### ON COLLECTING YOUR INFORMATION
 
-**Third Party Information Gathering.** From time to time, ads or messages we send to you or that we post to our website may contain links that take you away from the Born2Invest message or website, to third party landing pages or websites that we do not control. We are not liable for any information you may choose to share with any third parties on their landing pages or websites; we are not liable for and do not control how they might share the information that they collect from you.
+**I. As provided by you.** When viewing the content on our website, you may elect to subscribe to and receive any of our publications (e.g. online newsletter), express an opinion via the comments section, or subscribe to our website push notifications. Through any of these actions, we usually obtain, at the minimum, your e-mail address. Moreover, when you contact us, we also receive additional information that you freely provide, which may include but are not limited to your name, phone number, address and company name. 
 
-**Advertising Choices.** We use third-party advertising companies to serve ads and collect information when you visit Born2Invest. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third-party advertisers’ use of cookies is subject to their own privacy policies, not the Born2Invest Privacy Policy. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/).
+**II. As collected from you.** In order to improve our services and understand our readership better, our service providers, advertisers, and other technical partners may use automated means to collect limited, non-personally identifying information your browser customarily makes available whenever you visit any website on the internet or open an e-mail. This may include but are not limited to the devices you used to access our website, the type of browser and operating system you have, pages within our website that you have visited, sections within our website that you have clicked or forwarded, date and time of your access, length of your visit, downtime errors, page response times, etc. 
 
-**Information Sharing.** We are required by law to provide information in response to subpoenas, court orders, or legal process, from law enforcement agencies or state and federal regulators. If we sell or otherwise transfer substantially all of our assets related to this website, we will contractually require such third parties to honor our current Privacy Policy, until the third party provides you with notice of changes to the Privacy Policy and permits you to exercise any nondisclosure rights you may have under applicable law.
+Please see our [Born2Invest Cookie Policy](https://born2invest.com/cookie-policy/) to know more about the cookies that may uniquely identify your browser, and how we collect and use that information.
 
-_We do not sell Born2Invest’s subscribers’ e-mail addresses to third parties._ We may, however, provide selected information that we have obtained on a confidential basis to certain non-affiliated companies who are considered to be joint venture or strategic partners, advisors, contractors or consultants who are working with Born2Invest. Information will be shared with such third parties only to the extent reasonably necessary, and pursuant to confidentiality obligations.
+**III. As collected by other third-party platforms.** The Born2Invest website uses third-party platforms to further engage with our readership. This may include but are not limited to social media plugins and share buttons for services like Facebook, Twitter, and more. These tools may collect information about your activities, such as the number of shares and clicks you made on an individual post. Moreover, when you use these tools and integrate them to your own personal acccount in order to share content from our website, you may be allowing these third-party platforms to have access to your profile information in particular, which may include your name, e-mail address, location, and more. 
 
-Non-personal information may be compiled for statistical purposes and provided to third parties. However, none of this non-personal data will include individually identifiable information.
+#### ON USING YOUR INFORMATION
 
-**Information  Security.** Born2Invest diligently works to ensure the integrity and security of our network and systems. Born2Invest, however, cannot guarantee that our security measures will totally prevent third-party “hackers” from illegally obtaining access to such information.
+We use the information we have collected to perform the following actions:
 
-**Opting Out.** We hope you value the unique and insightful publications and information we publish. You can, however, choose to opt-out of individual communications at any time by following the simple instructions provided in each e-mail.
+  1. We protect the privacy and safety of our readership and subscriber database.
+  2. We deliver the latest content from the Born2Invest website according to your viewing preference.
+  3. We analyze our readership trends and behavior in order to improve our website content.
+  4. We troubleshoot and test operations on our backend in order to improve our website performance.
+  5. We create reports and study these analytics in order to improve our content, marketing, and advertising strategies.
+  6. We notify you about any changes to our policies and services.
+  7. We respond to any of your inquiries, which may include but are not limited to story feedback and corrections, content partnership offers, contributor opportunities, and technical support when viewing and accessing our website.
+  8. We may send you selected e-mail newsletters about financial and economic data, or timely news reports and notices, as well as a digest of our recently published website content. 
+  9. We may forward additional information to you including special offers from Born2Invest or specially selected partners who offer products, services, or information, which we believe may be of interest to our readership.
+  10. We may customize the content and/or advertisements you see on our website based on how you use or share the content that we publish.
 
-**Changes to This Policy.** This Privacy Policy may be updated at any time, at Born2Invest’s sole discretion. We expect that most changes will be minor. However, from time to time the changes can be significant. In either case, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice on our website home page. The date of the last revision to our Privacy Policy appears at the end of this notice.
 
-If you have any questions regarding our website or this Privacy Policy, please e-mail [dom@born2invest.com](mailto:dom@born2invest.com).
 
-_Updated as of December 2016._
+#### ON SHARING YOUR INFORMATION
+
+**I. Concerning your privacy.** _We do not sell the information we have collected from Born2Invest’s readership and subscriber database to third parties._
+
+We may, however, provide selected information that we have obtained on a confidential basis to certain, trusted non-affiliated companies who are considered to be joint venture or strategic partners, advisors, contractors or consultants who are working with Born2Invest. Information will be shared with such third parties only to the extent reasonably necessary, and pursuant to confidentiality obligations. 
+
+Non-personal information may be compiled for statistical purposes and provided to third parties. However, none of this non-personal data will include individually identifiable information.
+
+We will keep a note of any information shared with third parties as well as a justification of why that information was shared, in compliance with the GDPR. 
+
+**II. Concerning your consent.** We hope you value the unique and insightful content we publish. You can, however, choose to opt-out of individual communications and any messages we send you at any time by getting in touch with us via [support@born2invest.com](mailto:support@born2invest.com). Our online newsletters, which are delivered via a third-party service, also have an unsubscribe option, as well as a way to modify your privacy settings.
+
+**III. Concerning legal purposes.** We are required by law to provide information in response to subpoenas, court orders, or legal process, from law enforcement agencies or state and federal regulators. 
+
+If we sell or otherwise transfer substantially all of our assets related to this website, we will contractually require such third parties to honor our current privacy policy, until the third party provides you with notice of changes to the privacy policy and permits you to exercise any nondisclosure rights you may have under applicable law.
+
+**IV. Concerning information security.** Born2Invest diligently works to ensure the integrity and security of our network and systems. Born2Invest, however, cannot guarantee that our security measures will totally prevent third-party “hackers” from illegally obtaining access to such information. In an event of a data breach (loss, unauthorised access and disclosure of, modification and misuse of personal information), we will take the urgent, necessary steps to contain the breach, as well as conduct a thorough investigation and audit. We will also follow the notification and communication protocols as prescribed by the GDPR. 
+
+**V. Concerning third-party platforms.** We strongly encourage reading the respective privacy policies of third-party platforms that we employ on our website, such as social media and other sharing networks, to know more about their own coverage. You can modify the privacy settings of your accounts in these sites for your own protection. Born2Invest is not responsible for any information you choose to provide to these services.
+
+From time to time, advertisements or messages we send to you or that we post to the Born2Invest website may contain links that take you away and lead you to third-party landing pages or other websites that we do not control. We are not liable for any information you may choose to share with any third parties on their landing pages or websites. We are also not liable for and do not control how they might share the information that they collect from you.
+
+**VI. Concerning advertising choices.** We use third-party advertising companies to serve advertisements and collect information when you visit Born2Invest. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third-party advertisers’ use of cookies is subject to their own privacy policies, and not the Born2Invest Privacy Policy. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/).
+
+#### OTHER IMPORTANT INFORMATION
+
+**I. Access to your personal information.** You have the right to access your personal information that Born2Invest has collected through means described in this privacy policy. 
+
+**II. Changes to this policy.** This privacy policy may be updated at any time, at Born2Invest’s sole discretion. We expect that most changes will be minor. However, from time to time the changes can be significant. In either case, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice on our website home page. The date of the last revision to our privacy policy appears at the end of this notice.
+
+**III. Other policies.** By using our website, you agree to be bound by our [Privacy Policy](https://born2invest.com/privacy-policy/), [Disclaimer Policy](https://born2invest.com/disclaimer-policy), [Cookie Policy](https://born2invest.com/cookie-policy/), and [Terms of Use](https://born2invest.com/terms-of-use/).
+
+**IV. Getting in touch with Born2Invest.** If you feel that your information is being used incorrectly, or if you have any questions regarding our website or this Privacy Policy, please contact us at [support@born2invest.com](mailto:support@born2invest.com). We can also be reached at the following:
+
+**M6 Limited – Born2Invest**  
+153 Coleherne Court  
+London, SW5 0DY  
+United Kingdom
+
+Phone: 1-310-383-8200
+
+—
+
+_This privacy policy was last updated on May 24, 2018._
