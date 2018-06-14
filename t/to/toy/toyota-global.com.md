@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota-global.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211132750id_/http%3A//www.toyota-global.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota-global.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614215233id_/http%3A//www.toyota-global.com/privacy_statement) for the most accurate reproduction.*
 
 # Toyota Global Site | Privacy Policy
 
