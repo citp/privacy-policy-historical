@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228012034id_/https%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherspayteachers.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614204239id_/https%3A//www.teacherspayteachers.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teachers Pay Teachers
 
@@ -155,7 +155,7 @@ E. SERVICE PROVIDERS AND PARTNERS
 
 TpT engages the services of third party companies (“Service Providers”) to support and help provide certain features of our Services such as payment processing, customer support, data storage and analysis, visitor tracking and user testing, email messaging, advertising, surveys, Site security, and other services. TpT shares data with these Service Providers so that they can perform their services which help deliver our Services more securely, efficiently, and effectively. Service Providers may have access to certain Personal Information in the course of providing their service. Service Providers’ access to your Personal Information is limited to the purpose of providing the services contracted for. Service Providers are not permitted to disclose information to other parties or use your Personal Information for any other purpose. 
 
-From time to time, we may partner with other companies or organizations (“Partners’) to offer additional products and services (“Partner Content”). When you buy Partner Content, we may share information with our Partners about your order and your account solely for the purposes of facilitating purchases of Partner Content and ensuring delivery of Partner Content to you.
+From time to time, we may partner with other companies or organizations (“Partners’) to offer additional products and services (“Partner Content”). When you buy or use Partner Content, we may share information with our Partners about your order and your account for the purposes of facilitating your use of Partner Content and ensuring delivery of Partner Content to you.
 
 TpT may from time to time share aggregate user data with business partners, Service Providers, or other third parties to identify or share trends, usage statistics, and so on. Sharing data in an aggregate form means that no Personal Information, which would allow the recipient of the data to identify you personally, will be shared.  
 
