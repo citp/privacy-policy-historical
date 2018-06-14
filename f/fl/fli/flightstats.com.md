@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flightstats.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223133747id_/http%3A//www.flightstats.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightstats.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614220237id_/https%3A//www.flightstats.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – FlightStats, Inc.
 
-The [FlightGlobal Privacy Policy](https://www.flightglobal.com/privacy-policy) describes how we collect and treat personal information when you use FlightGlobal websites, mobile applications and other services, including the FlightStats website and applications. This FlightStats privacy policy describes additional privacy practices that are specific to the websites, mobile applications and other services of FlightStats, Inc.
+The [Reed Business Information Privacy Policy](https://www.reedbusiness.com/privacy-policy/) describes how we collect and treat personal information when you use FlightGlobal websites, mobile applications and other services, including the FlightStats website and applications. This FlightStats privacy policy describes additional privacy practices that are specific to the websites, mobile applications and other services of FlightStats, Inc.
 
 **Subscriptions**  
 When you subscribe to use our services, registration may require that you submit some (or all) of the following personal information: name, company name, mailing address, email address, telephone number, fax number, date of birth, frequent flyer number, flight details, username and password, and billing information.
