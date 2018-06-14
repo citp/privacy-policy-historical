@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmfreshtoyou.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213013352id_/http%3A//www.farmfreshtoyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmfreshtoyou.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614041424id_/http%3A//www.farmfreshtoyou.com/privacy-policy) for the most accurate reproduction.*
 
 # Farm Fresh To You - Privacy Policy
 
@@ -26,7 +26,7 @@ If you post comments or articles to any forum, blog or message board on this Web
 
 The Company does not share your personally identifiable information (such as name or email address) with other third-party companies for their commercial or marketing use.
 
-The Company provides personally identifiable information and non-personally identifiable information to affiliated companies or other businesses or persons for the purpose of processing such information on our behalf. The Company requires that these parties agree to process such information in compliance with the Company’s Privacy Policy, and the Company uses reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+The Company provides personally identifiable information and non-personally identifiable information to affiliated companies or other businesses or persons for the purpose of processing such information on our behalf. This includes the use of third-party vendors to serve ads to our customers on our behalf across the Internet or to send direct to customers whom we think may be interested in our products or services. To do this, the vendors will collect non-personally identifiable information about your visits to our Web site and your interaction with our products and services. This non-personally identifiable information is collected through the use of a cookie or pixel tag – industry standard technology used by most major Web sites. They may also pool the non-personally identifiable information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving direct mail. The Company requires that these parties agree to process such information in compliance with the Company’s Privacy Policy, and the Company uses reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
 
 The Company does share non-personally identifiable information (such as anonymous user usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions and/or functionality on the Website.
 
@@ -37,6 +37,12 @@ The Company also reserves the right to disclose personally identifiable informat
 ### YOUR CHOICES
 
 You may, of course, decline to submit personally identifiable information through the Website, in which case, the Company may not be able to provide certain services to you. You may update or correct your personal information and email preferences at any time by visiting your Account Profile page.
+
+If you do not wish for cookies or pixel tags to be placed on your computer, most commercially available web browsers permit you to prevent that from taking place.
+
+To opt out of receiving promotional emails, you may send us an email at [policies@farmfreshtoyou.com](mailto:policies@farmfreshtoyou.com) or click the "unsubscribe" link in any email sent by the Company or by replying to any email sent by the Company and entering the word UNSUBSCRIBE in the subject line. The Company may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Website changes or for customer service purposes).
+
+To opt out of receiving our direct mail, you may send us an email at [policies@farmfreshtoyou.com](mailto:policies@farmfreshtoyou.com) or call us at 1.800.796.6009. To opt out of receiving direct mail on our behalf from a third-party vendor, you may contact the Direct Marketing Association's (DMA) Mail Preference Service (MPS) at [www.dmachoice.org](http://www.dmachoice.org/).
 
 To protect your privacy and security, the Company takes reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
