@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakwheels.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624201054id_/https%3A//www.pakwheels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakwheels.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614212708id_/https%3A//www.pakwheels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PakWheels
 
