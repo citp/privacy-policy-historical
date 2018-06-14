@@ -1,152 +1,119 @@
-> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926224726id_/http%3A//www.steadyhealth.com/polices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614101205id_/https%3A//www.steadyhealth.com/polices/privacy) for the most accurate reproduction.*
 
 # SteadyHealth.com
 
   * [About Us](https://web.archive.org/polices/aboutus/)
   * [Medical Team](https://web.archive.org/polices/medical-team/)
-  * [Terms of Use](https://web.archive.org/polices/terms-of-use/)
+  * [Terms of Service](https://web.archive.org/polices/registration-terms/)
   * [Privacy Policy](https://web.archive.org/polices/privacy/)
   * [Advertising Policy](https://web.archive.org/polices/advertising/)
   * [FAQ](https://web.archive.org/faq)
 
 
 
-SteadyHealth.com is firmly committed to Your privacy.
+LifeForm, Inc. ("LifeForm" "we," or "us") makes this Privacy Policy available to its users in order to inform you about the way in which we collect, use, disclose, and protect the data you share with SteadyHealth.com.
 
-The following discloses our information gathering and dissemination practices for this website, SteadyHealth.com, as well as any other software or services we provide through site (e.g. SteadyHealth Facebook App).
+### Introduction
 
-The protection of your privacy is very important to us, given the nature of health oriented online community, so this is why we have adopted the following practices to safeguard the confidentiality of your personally identifiable information.
+LifeForm provides an online public health-related community platform, SteadyHealth (www.steadyhealth.com), on which users are able to register a username and log in to participate in conversations with other registered and unregistered visitors of our website. By using our platform, software and website (collectively the "Service"), users indicate that they understand and consent to the terms of this Privacy Policy. You additionally indicate that you understand that the Service can, as a public platform, be accessed by any Internet user, who can read, repost, and search for any of the User Content (as defined in this Privacy Policy) users create.
 
-## Security and Liability
+### What information we collect
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. This site maintains a dedicated server with restricted access only to authorized user accounts.
+When you register to use the Service, you understand that we may collect Personally Identifiable Information including but not limited to your email address, username, and account ID as well as Non-Personally Identifiable Information such as your IP address, device ID, browser information, unique device identifiers ("UID"), and information about the website that referred you to SteadyHealth. We may likewise collect data related to your use of the Service, such as information about the content you viewed or interacted with, what pages you clicked on, and what images or articles you viewed.
 
-The webmaster, administrator and moderators cannot be held responsible if data integrity on the site becomes compromised. While we cannot guarantee that no accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use of your information will occur, we try to prevent such occurrences.
+Personally Identifiable Information is collected when you share such information in connection with the Service, by registering with the Service or sending us an email. Users accessing the Service through third-party connections or log-ins including Facebook Connect, Google or Twitter, or who "follow," "like," or link such accounts to the Service, understand that the relevant third parties may pass Personally Identifiable Information to us.
 
-## Children Privacy
+It is possible that we will automatically collect and use Non-Personally Identifiable Information by means of tracking technologies such as cookies and log files when users interact with the Service.
 
-SteadyHealh is not intended for use by the children under the age of 13. We will not collect any personally identifiable information from anyone we know is a child under the age of 13, or allow them to participate on SteadyHealth discussion boards.
+### Purposes for using information
 
-If we become aware that person under the age of 13 has submitted personal information or any other form of content to SteadyHealth, that becomes a reason for immediate account suspension, without any prior notice.
+We use information about you as mentioned above and for the purposes listed below:
 
-## Privacy in Public
+  * To be able provide our Services – for example, setting up and maintaining your account;
+  * To continue developing and improving our Services – for example by adding new features we believe our users will enjoy or to help them use our Services more effectively;
+  * To monitor and analyze trends and improve our understanding of how users interact with our Services, which helps us improve our Services and make them easier to use;
+  * To measure and improve the effectiveness of our advertising, and better understand user retention and attrition;
+  * To monitor and prevent any problems with our Services, protect the security of our Services, detect and prevent abuse and other illegal activities, fight spam, and protect the rights and property of SteadyHealth and others, which may result in us declining the use of our Services;
+  * To communicate with you, for example by email
 
-Any information disclosed on the SteadyHealth Discussion Boards or comments, replies in other sections becomes public information. We advise you to keep in mind that all discussion board posts are subject to search engines with world-wide access to any reader. Do not post or offer your real name, email address, home address, telephone number, or any other contact information.
 
-Email addresses can attract spammers that are difficult to control. If you want to exchange your personal contact information with other members, please use our Private Messaging system. But we strongly advise you against any form of sharing personal information with people you have only met online.
 
-We also recommend that you do not register your real name, your unique email address, or the name of a website, as a potential username. In case you decide to post some for you personally embarrassing or sensitive content, in order to seek help or share information, please consider that even using your casual username which could be interconnected indirectly with you by your friends and family. The best practice is to use username that cannot be linked to you.
+We may access, store, and disclose your Personally Identifiable Information, account information, and User Content (as defined below) where we believe it is required or appropriate to comply with law enforcement requests. We may also access, preserve, and disclose your Personally Identifiable Information, account information, and User Content if we believe such disclosure, in good faith, to be necessary to protect the rights, safety, or property of any relevant party, or in order to investigate fraud.
 
-Keep your username anonymous.
+Service user information may be sold or transferred, in accordance with the law, in case of a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider.
 
-Information including, but not limited to, email addresses, mailing addresses, telephone numbers, names, websites or links, personal profile settings, signature, posts, surveys, polls, private messages, websites, and research studies will be removed without any prior notice, as defined in our Terms of Use.
+### Cookies and logs
 
-## What Information do you Gather Automatically from Visitors?
+When you visit or use the Service, we may use persistent cookies, which remain on your hard drive after you close your browser, as well as session cookies which terminate when you close your browser. This allows our Service to recognize you, making it possible for you to log you in faster and enhancing your navigation through the site. Cookies may be disabled, but some features of the Service may not function properly if you choose to do this.
 
-We use your IP address (the series of numbers associated with your individual computer) to help us maintain our site and identify problems with our server. Your IP address does not disclose any personally revealing information about you.
+Your browser automatically reports log file information every time you access a web page, and our servers may automatically record relevant log file information, including but not limited to your web request, IP address, browser type, and referring pages and URLs.
 
-We do use cookies to identify traffic that comes through advertising and to facilitate a more user friendly experience. Cookies are small pieces of information that a web site places on your computer's hard drive so we know it's you when you visit. This helps us to create a personalized experience for you when you visit our site. The use of cookies is a very common practice on the Internet. If you are uncomfortable with this, you can disable all cookies through your browser settings. Your enjoyment of our site won't be affected if you have set your browser to reject cookies.
+### Advertising and analytics
 
-## What Information Will you Ask me for?
+In order to comply with recent GDPR compliance we also updated our Advertising policy. Please check our [Advertising Policy](https://www.steadyhealth.com/polices/advertising) to learn more.
 
-When you register to use any SteadyHealth.com website or specific service, you will be asked for some general identifying information which will enable us to provide you with this individualized service. Should you choose to register to our site using SteadyHealth Facebook App, we collect only the basic personal information you made available in your Facebook Account Privacy Settings.
+### User content
 
-We gather contact information (like your email address), demographic information (like your city of residence or age). We may share some of this information for our own research purposes with our professional advisors or consultants and third party partners. However, the shared information will be limited to non-personally identifying demographic information shared under cover of a confidentiality agreement. We will only use this information in the course of providing our service to you.
+We may collect and retain any posts, comments or other content you share through the Service ("User Content"). We treat this information as Personally Identifiable Information when it is combined and stored with Personally Identifiable Information. In all other cases, we treat it as Non-Personally Identifiable Information, even where the User Content itself may identify you.
 
-Once you have registered, you will be given the option of editing of your profile (personal description, password and contact information).
+Should you terminate or deactivate your account with the Service, we may retain and continue to use the information we have collected from you, including User Content, indefinitely.
 
-SteadyHealth does not send promotional or commercial emails to its users without permission. SteadyHealth may email its users periodically to inform them about the status of the website or of upcoming changes to the site, and for feedback on satisfaction questionnaires. Additionally, we inform users about changes to our privacy policy via email.
+User Content posted to the Service is available to the public and may be viewed and used by others. We are unable to control such uses of your User Content, and by using the Service you assume the risk that your User Content may be viewed and used by third parties.
 
-## SteadyHealth.com Facebook App Privacy
+If you do not want people to be able to see any Personally Identifiable Information, such as your username, through the Service, you can request the anonymization and removal of your account by going to your Profile page, clicking on Edit Profile, and selecting the **close account, anonymize my content, or close account and anonymize my content button** at the bottom of the edit profile page. Please note that while the removal and anonymization of your account will remove any Personally Identifiable Information from your content, anyone who visits a page where you left a post will still be able to see your posts in an anonymized form.
 
-Steadyhealth.com may collect any Facebook Information you have made visible to "Everyone" on Facebook, as well as the information Facebook designates as your publicly available information, possibly including your name, profile picture, gender, e-mail address, birthday, websites, networks, list of friends or any other information you’ve made public.
+LifeForm reserves the right to monitor, moderate, and delete the User Content you post on the Service for any or no reason. This includes deleting material that violates or may violate the Service’s Terms of Service or the law, and removing content to protect or defend our rights or property or those of any third party. LifeForm also reserves the right to remove information upon the request of any third party.
 
-To protect your personally identifiable information once you login on SteadyHealth.com, you will be automatically offered an option to “anonymize” your username. This means your real Facebook name and profile picture will not appear across Discussion Boards or in the comments section.
+### Privacy in public
 
-You may change your Information, including your name and profile picture, in your profile settings on the Steadyhealth.com site at any time.
+Any information disclosed on the Service becomes public information. We advise you to keep in mind that all discussion board posts are subject to search engines with world-wide access to any reader. Do not post or offer your real name, email address, home address, telephone number, or any other contact information.
 
-### How will we use your Information
+Publicly sharing email addresses with people you have met online, including in private messages, can attract spammers that are difficult to control, so we emphatically advise you against doing this. We also recommend that you do not designate your real name, your unique email address, or the name of a website, as a your username. Should you decide to post personally embarrassing or sensitive content, in order to seek help or share information, please consider the possibility your username or the personal details you provide in your content could still be attributed to you indirectly by your friends, family, or potential employers. The best practice is to choose a username that cannot be linked to you. Keep your username anonymous.
 
-Steadyhealth.com will only use information assotieted with your Facebook account for the following purposes:
+Information including, but not limited to, email addresses, mailing addresses, telephone numbers, names, websites or links, personal profile settings, signature, posts, surveys, polls, private messages, websites, and research studies will be removed without any prior notice, as defined in our Terms of Service.
 
-  * to enable you to use the Steadyhealth.com site
-  * to enable you to share content posted on Steadyhealth.com site on the Facebook
-  * to periodically send emails to you on the email address you have provided, if you opt-in to receive them
+### Your choices regarding collection of your information
 
+All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing the "user preferences" in their account. You will find these options at the bottom of your profile page in edit mode:
 
+  * **Close my account:** If you close your account, your SteadyHealth profile will be deleted. Content you wrote will still be visible under your username.
+  * **Anonymize my content:** If you anonymize your content, your username will be removed from all the content you created up to this point. You can continue to write content, but your username will be attached to any future content you create.
+  * **Close account and anonymize my content:** If you close your account and anonymize your content, your SteadyHealth profile will be deleted. Any content that you submitted will no longer be published under your username.
 
-### Links to other websites
 
-Steadyhealth.com Apps may contain links to other websites. However, once you have used these links to leave our site, you should be aware that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement.
 
-### Your privacy rights and choices
+However, you understand and agree that we are not able to remove your Personally Identifiable Information from the records of any third party who has previously been provided with your information.
 
-You may stop the Steadyhealth.com from using your Information at any time by uninstalling the Steadyhealth Facebook Application through your Facebook account. Keep in mind that you will still have to follow the procedure for SteadyHealth account removal, as defined in our [Terms of Service](http://www.steadyhealth.com/polices/registration-terms/).
+You will continue to see targeted ads (interest-based ads) from our advertising partners. You can opt out of targeted advertising from third parties if they are members of the Network Advertising Initiative (NAI) or Participate in the Digital Advertising Alliance's Ad Choices Tool (DAA) by visiting the respective opt-out pages on the NAI or DAA websites.
 
-## How Will this Information be Used and Who has Access to it?
+You may opt out of receiving subscription emails from us at any time by using the opt-out mechanism contained in such emails (the "unsubscribe" feature). You may also unsubscribe or manage your email subscription in Notification settings in the edit section of your Profile. Please note that unsubscribing from LifeForm emails will unsubscribe your from notification emails and digest emails. You will still receive transactional emails necessary for the LifeForm Service to function. These include, but may not be limited to, emails confirming the creation of a new account, emails helping you reset your password, etc.
 
-If you choose to have them sent to you, we may use your contact information to send you valuable updates and timely notices of promotions and mailbox status reports. Our site provides you with the opportunity to opt-in to receiving different types of communications from us at the point where we request registration information. You may modify this choice at any time by selecting "Profile" from the top user menu. We reserve the right to use your contact information at any time to advise you of any updates that may materially affect your rights or status on our site.
+If you do not want to accept our cookies, you can adjust your browser settings to decline cookies. You should note, however, that certain areas of the Site may not operate properly if you decide not to accept cookies.
 
-Your non-personally identifying demographic information is used to personalize your experience, allow other members to find you through a search, to compose your personal profile - which is associated with a pseudonymous identity you have created (username). Your contact information are available to other members only if you pre-set this options, otherwise our default setting will allow other users to see your contact information only, without demographic characteristics. Non-registered users (visitors) have ability to send you personal message but they are not able to see your contact information until they subscribe and become a valid SteadyHealth.com community member. In the event that you decide to buy one of our products or services, you will be asked for your financial information (like credit card number) which cannot be read by others when you initiate your order through a secured system.
+### Security
 
-The specific information we collect is not shared with other organizations and we will never release your personally identifiable information to an external organization without your prior consent except for the purposes of validating credit information and collecting debts.
+LifeForm uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service, thereby safeguarding your safety and privacy. We take reasonable steps, such as requesting a unique password and requesting email verification, before granting you access to your account. Users themselves are responsible for maintaining the secrecy of their unique password and account information, and for controlling access to their email communications from LifeForm.
 
-We may disclose your personally identifiable information if we reasonably believe we are required to do so by operation of law, which may include, but is not limited to a judicial proceeding, court order, or legal process served on SteadyHealth.com.
+We use secure socket layer technology (SSL) to encrypt sensitive information, such as your username and password. Despite these measures, LifeForm is unable to guarantee that any information you transmit to LifeForm through the Service cannot be accessed, disclosed, altered, or destroyed. Your privacy settings may additionally be altered by accessing the Service through a third parties such as social networks. LifeForm is not responsible for the functionality or security measures of any third party.
 
-Although SteadyHealth.com makes use of up to date technology in order to protect your pictures, audio and video recordings from being copied or captured by unauthorized third parties, please keep in mind that we cannot ensure complete protection.
+### Children's privacy
 
-## Who Will be Able to See my SteadyHealth User Profile?
+The Service is not intended for use by children under the age of 13. We do not knowingly permit children under the age of 13 to register an account, nor knowingly collect personal information from such persons. Should we learn that we have collected personal information from a child under the age of 13, we will delete it. If you believe that we might have collected personal information from a child under 13, please contact using the information below.
 
-All the information you submit on your user profile, such as username, avatar, date of birth, online status or your activity on SteadyHealth.com is completely under your control. In your profile settings, Profile Privacy control enables you to make your profile visible only to the registered members, or to keep the information completely private.
+### International data transfers
 
-SteadyHealth Administrators will only override the privacy setting you’ve chosen in case there is potential breach of [Terms of Service](http://www.steadyhealth.com/polices/registration-terms/).
+Personally Identifiable Information and Non-Personally Identifiable Information that LifeForm collects may be transferred to and stored and processed in countries other than the country in which you reside, which means that laws different from the laws in your country may apply. LifeForm may transfer Personally Identifiable Information and Non-Personally Identifiable Information to Canada. By using the LifeForm Service, you consent to the transfer of your Personally Identifiable Information and Non-Personally Identifiable Information to other countries including Canada.
 
-## Email Notifications
-
-SteadyHealth does not send promotional or commercial emails to its users without permission or prior terms compliance. SteadyHealth may email its users periodically to inform them about the status of the website or of upcoming changes to the site, and for feedback on satisfaction questionnaires.
-
-Additionally, we inform users about changes to our privacy policy via email.
-
-Your email address may also be used to confirm your registration details and password (and for sending new passwords should you forget your current one).
-
-Further, SteadyHealth may email a user at any time regarding issues with his/her account.
-
-Confidential, private or semi-private information included in the content of emails received from or sent to you will not be disclosed to anyone at any time unless required by law.
-
-## How Long do You Keep the Information I've given You?
-
-We keep the information you have given us for as long as you are a member on the site or for as long as we are required to do so by law, whichever is longer.
-
-## Can I Change the Information I have Already given You?
-
-You can always verify or request the removal of the personally identifiable information we have collected and change your registration information by selecting "Profile" from the main menu on the site.
-
-## Do You Monitor Online Behavior?
-
-This is a community site where the members communicate to share the information using our discussion boards. Also, our members communicate with each other through instant private messages. We do not, as a rule, monitor members' private message exchanges, but we reserve the right to do so if user is using our service for the purpose of solicitation or any other violation of our Terms of Use or Privacy Policy.
-
-Member submissions that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site.
-
-Members may choose to participate in community polls. The results of these polls do not reveal any personal identifiable information linked to the individual voters.
-
-## What Security Features do You Have?
-
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). SSL is the leading security protocol on the Internet, it ensures that information being transferred over the network is private through a process called encryption. Once encrypted the information is an unintelligible code until it is decoded upon arrival at the authorized destination.
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-## Advertisers
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
-
-All information about Advertisements and Advertising on SteadyHealth.com is strictly defined in [Advertising Policy](http://www.steadyhealth.com/polices/advertising/).
-
-### Updates to this Privacy Policy
-
-Steadyhealth.com may change this policy from time to time by updating this page. You should check this page periodically to ensure that you are informed about any changes made.
+European Union residents have the right to access, correct, or have removed from our systems any of your EU Personal Information that LifeForm may store. You may make such a request by contacting us only (link to form), or by postal mail to one of the addresses listed below, and we will respond to your requests in a timely manner.
 
 ### Contact
 
-If you have any questions or comments about this Privacy Policy or Steadyhealth.com Apps, please [Contact Us](http://www.steadyhealth.com/contact).
+Users with any questions about this LifeForm Privacy Policy can contact us via the [contact form](https://www.steadyhealth.com/contact).
 
-**Last updated on April, 17th 2012.**
+### Changes to Privacy Policy
+
+LifeForm may, at its sole discretion, modify or update this Privacy Policy from time to time, so you should review this page periodically. When we change our policy, we will update the "last modified" date at the bottom of this page. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.
+
+This Privacy Policy was last modified on  May, 24th 2018.
+
+Click here to view the [Terms of Service](https://www.steadyhealth.com/polices/registration-terms).
