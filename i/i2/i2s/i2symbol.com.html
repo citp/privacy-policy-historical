@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the i2symbol.com privacy policy that was archived on 2017-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171209085816id_/http%3A//www.i2symbol.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the i2symbol.com privacy policy that was archived on 2018-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180614104144id_/http%3A//www.i2symbol.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -17,7 +17,7 @@
                    
   <link rel="shortcut icon" href="/css/i2symbol.ico" type="image/x-icon">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-          <link href="/mob/css/master.css?3" rel="stylesheet"><link rel="stylesheet" href="/mob/css/etc.css?1" type="text/css">            
+          <link href="/mob/css/master.css?4" rel="stylesheet"><link rel="stylesheet" href="/mob/css/etc.css?1" type="text/css">            
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="/mob/js/jquery.js"></script>
           <script src="/mob/js/master.js"></script>
   <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
@@ -39,6 +39,30 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
 
+  <link rel="stylesheet" href="/mob/css/cookie.min.css?1" type="text/css">  
+        <script type="text/javascript" src="/mob/js/cookie.min.js?1"></script>
+        <script>
+        window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+          "palette": {
+            "popup": {
+              "background": "#314062",
+              "text": "#eeeeee"
+            },
+            "button": {
+              "background": "#62ffaa"
+            }
+          },
+          "showLink": true,
+          "position": "bottom-right",
+          "content": {
+            "message": "This site uses cookies to deliver our services and to ensure you get the best experience. By continuing to use this site, you consent to our use of cookies and acknowledge that you have read and understand our ",
+            "dismiss": "Accept",
+            "link": "Privacy Policy, Cookie Policy, and Terms",
+            "href": "/privacy"
+          }
+        })});
+        </script>
   
 <!-- Facebook Pixel Code -->
 <script>
@@ -73,22 +97,23 @@ src="https://www.facebook.com/tr?id=1722106101443373&ev=PageView&noscript=1"
     google_ad_client: "ca-pub-5930435762906662",
     enable_page_level_ads: true
   });
-</script>
+</script>  
 
   <script type="text/javascript">                 
     //<![CDATA[
     $(document).ready(function(){
 
       
+        $("#cookieconsent:desc").html();
         $("a.translate").bind("click", function() {                        
             var lang = $(this).attr("data-lang"); 
-            setCookie("i2lang", lang);
+            setCookie("i2lang", lang);            
         });                
     });
     //]]>
   </script>
-  </head>
-  <body id="page-top"><div id="navDesktop"></div>
+  <style></style></head>
+  <body id="page-top"><div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-floating cc-type-info cc-theme-block cc-bottom cc-right cc-color-override--831684192 " style=""><!--googleoff: all--><span id="cookieconsent:desc" class="cc-message">This site uses cookies to deliver our services and to ensure you get the best experience. By continuing to use this site, you consent to our use of cookies and acknowledge that you have read and understand our  <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="/privacy" target="_blank">Privacy Policy, Cookie Policy, and Terms</a></span><div class="cc-compliance"><a aria-label="dismiss cookie message" role="button" tabindex="0" class="cc-btn cc-dismiss">Accept</a></div><!--googleon: all--></div><div id="navDesktop"></div>
   
     
     <!-- Navigation -->    
@@ -158,7 +183,7 @@ src="https://www.facebook.com/tr?id=1722106101443373&ev=PageView&noscript=1"
                 Draw
                 <span class="caret"></span>
               </a>
-              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu"><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/mogibrush">Emoji Brush</a></li></ul>
+              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu"><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/mogibrush">Emoji Brush</a></li><li style="float:left;" role="presentation"><a role="menuitem" tabindex="-1" href="/ascii-art">Draw With Ascii</a></li></ul>
                   </div></li><li style="float:left;"><div class="dropdown">
               <a class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="true" style="padding:13px; border:none;">
                 Cool Text
@@ -185,13 +210,38 @@ src="https://www.facebook.com/tr?id=1722106101443373&ev=PageView&noscript=1"
     
     <section id="portfolio">        
         <div class="container">            
-        <h3>Privacy</h3>
-        <div class="longText">
+        
+        
+<ul class="nav nav-tabs">
+  <li role="presentation" class="active"><a href="/privacy"><h4>Privacy</h4></a></li>
+  <li role="presentation" class=""><a href="/cookies"><h4>Cookies</h4></a></li>
+  <li role="presentation" class=""><a href="/terms"><h4>Terms</h4></a></li>
+</ul><div class="longText">
 
 <div class="legal_p">This Privacy 
 Policy covers i2Symbol treatment of personal information that i2symbol
 gathers when you are on the i2symbol website and when you use i2symbol 
 services.</div>
+
+
+<div class="legal_title">PERSONAL IDENTIFICATION INFORMATION</div>
+<div class="legal_p">
+A user can use the entire website anonymously. However, he may prefer to create an account to access a custom service or feature such as add to favorites. During registration, users are asked to provide an email, username, and a password. We do not share the user email with any third party company. The email is used to communicate with the user whenever necessary. We adopt appropriate processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information and data stored on our Site.
+</div>
+
+<div class="legal_title">NON-PERSONAL IDENTIFICATION INFORMATION</div>
+<div class="legal_p">
+We may collect non-personal identification information about users whenever they interact with our website through cookies. For example, basic demographic information, type of connecting device, operating system, Internet service providers, date and time of visit, referring URL, browser type, etc. The information we collect about your acitivity is not personal date and will remains anonymous.
+</div>
+
+
+<div class="legal_title">COOKIES</div>
+<div class="legal_p">
+This website uses cookies. Cookies are small text files stored in your browser which help us to understand how the website is used by you and hence be able to provide you with personalized, responsive, and great user experience. 
+We use third-party advertising companies to serve ads when you visit the website. These companies may collect information about your visit to websites in order to provide advertisements that may be of interest to you. The IP address they collect is not personally identifiable. It can only identify your basic demographic information.
+Our third party advertisers include Google Adsense which may employ cookies on our site to serve ads. You may wish to visit Google Adsense for additional information about their privacy policies. Any user may opt out of Google's cookies by visiting: http://www.google.com/privacy_ads.html. Users can block or restrict cookies from the website through their internet browser settings. For more information please visit our <a href="/cookies">Cookie Policy</a>.
+</div>
+
 
 <div class="legal_title">E-MAIL COMMUNICATIONS</div>
 <div class="legal_p">
@@ -199,27 +249,16 @@ i2Symbol is very concerned about your privacy and we will never provide your ema
 to a third party. i2Symbol may send out e-mails with i2symbol-related news. 
 You may also receive notification e-mails from i2Symbol, which inform you of 
 new page contents or comments you already subscribed on. If you do not want to 
-receive notification e-mail from us, please unsubscribe whatever service from 
-your profile page. However, please note that in all cases you will continue to 
+receive notification e-mail from us, please unsubscribe. However, please note that in all cases you will continue to 
 receive all system e-mails (e.g. those regarding forgotten user passwords) and 
 legal notices from us.
 </div>
 
-<div class="legal_title">COOKIES</div>
+<div class="legal_title">CONTACTING US</div>
 <div class="legal_p">
-Cookies are alphanumeric identifiers 
-that we transfer to your computer hard drive through your Web browser to let your 
-design be memorized among multiple i2symbol pages, as well as enable other cool i2symbol features. i2Symbol cookies do not 
-collect personal information, and we do not combine information collected 
-through cookies with other personal information to tell us who you are or what 
-your screen name or e-mail address is.
-
-The "help" portion of the toolbar on 
-the majority of browsers will direct you on how to prevent your browser from 
-accepting new cookies, how to command the browser to tell you when you receive a 
-new cookie, or how to fully disable cookies. We recommend that you leave the 
-cookies activated because cookies allow you to use some of i2symbol coolest 
-features.</div>
+If you have any questions about this Privacy Policy or our use of your information, please contact us by admin@sciweavers.org or write to us at:
+16228 Serenity Lane, Eden Prairie, MN, 55347
+</div>
 
 <div class="legal_title">CHANGES TO THIS PRIVACY POLICY</div>
 <div class="legal_p">
@@ -231,9 +270,19 @@ always aware of what information we collect, how we use it, and under what
 circumstances if any, it is disclosed.
 </div>
 
+<div class="legal_title">YOUR ACCEPTANCE OF THESE TERMS</div>
+<div class="legal_p">
+By using this website, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our website. Your continued use of the website following the posting of changes to this policy will be deemed your acceptance of those changes.
+</div>
+
+<div class="legal_title">CHANGES TO PRIVACY POLICY</div>
+<div class="legal_p">
+In order to keep up with changing legislation and how we process your personal data, this Privacy Policy may be revised at any time without notice by posting an updated version on this website. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+</div>
+
 <div class="legal_title">EFFECTIVE DATE OF THIS PRIVACY POLICY</div>
 <div class="legal_p">
-This Privacy Policy is effective as of July 1st, 2012.
+This Privacy Policy is effective as of 20 May 2018.
 </div>
 
 <div class="clear"></div></div>
@@ -264,7 +313,7 @@ This Privacy Policy is effective as of July 1st, 2012.
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright © i2Symbol 2008 - 2017 <span style="font:normal 11px tahoma; color:#ddd;">172</span></span>
+                    <span class="copyright">Copyright © i2Symbol 2008 - 2017 <span style="font:normal 11px tahoma; color:#ddd;">173</span></span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
@@ -277,6 +326,7 @@ This Privacy Policy is effective as of July 1st, 2012.
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
                       <li class="info_lbox"><a href="/privacy">Privacy</a></li>
+                      <li class="info_lbox"><a href="/cookies">Cookies</a></li>
                       <li class="info_lbox"><a href="/terms">Terms</a></li>
                       <li class="info_lbox"><a href="/subscribe">Subscribe</a></li>
                       <li class="info_lbox"><a href="/contact">Contact</a></li>
