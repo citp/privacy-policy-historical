@@ -1,0 +1,583 @@
+<!--The following is the downloaded HTML source of the webtrafficextreme.com privacy policy that was archived on 2018-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180614190250id_/http%3A//webtrafficextreme.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link rel="SHORTCUT ICON" href="/favicon.ico">
+<title>Web Traffic Extreme!  Free Traffic Exchange | Free Advertising Free Web Traffic</title>
+<meta name="keywords" content="Worldprofit Web Traffic Extreme">
+<meta name="description" content="The most awesome Web Traffic Extreme advertising network in the world. Instant ad placements; banner">
+<meta name="robots" content="FOLLOW,INDEX">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="theme-color" content="#ffffff">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(/images/bg.jpg);
+	background-attachment: fixed;
+	background-repeat: repeat-x;
+	background-color: #E8E8E8;
+}
+-->
+</style>
+
+
+<script type="text/javascript"> 
+
+function loadBanners() {
+  $('#banner1').load('/banners.php', 'banner_ajax=1');
+  if($('#banner2').length) $('#banner2').load('/banners.php', 'banner_ajax=1');
+
+};
+
+$(document).ready(function() {
+
+ setInterval(loadBanners, 14*1000);
+}); 
+
+</script>
+<!-- Start EZ Share Generator HEAD Code -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+
+<style type="text/css">
+#backgroundPopup{
+display:none;
+position:fixed;
+_position:absolute; /* hack for internet explorer 6*/
+height:100%;
+width:100%;
+top:0;
+left:0;
+background:#000000;
+border:1px solid #cecece;
+z-index:1;
+}
+#popup{
+display:none;
+position:fixed;
+_position:absolute; /* hack for internet explorer 6*/
+width:550px;
+background: #FFFFFF;
+border: 4px solid #CC0000;
+z-index:2;
+padding:12px;
+font-size:13px;
+}
+#popupClose{
+font-size:14px;
+line-height:14px;
+right:6px;
+top:4px;
+position:absolute;
+color:#6fa5fd;
+font-weight:700;
+display:block;
+font-family:arial,sans-serif;
+}
+#button{
+text-align:center;
+}
+</style>  
+  
+<script type="text/javascript">
+var myWidth = 0;
+var myHeight = 0;
+var opened = false;
+var is_in = false;
+
+
+//SETTING UP OUR POPUP
+//0 means disabled; 1 means enabled;
+var popupStatus = 0;
+
+//loading popup with jQuery magic!
+function loadPopup(){
+  //loads popup only if it is disabled
+  if(popupStatus==0){
+   $("#backgroundPopup").css({
+     "opacity": "0.7"
+    });
+   $("#backgroundPopup").fadeIn("slow");
+   $("#popup").fadeIn("slow");
+   popupStatus = 1;
+  }
+}
+
+//disabling popup with jQuery magic!
+function disablePopup(){
+  //disables popup only if it is enabled
+  if(popupStatus==1){
+   $("#backgroundPopup").fadeOut("slow");
+    $("#popup").fadeOut("slow");
+    popupStatus = 0;
+  }
+}
+
+function mmove(e)
+{
+  if(opened) return true;
+ if( typeof( window.innerWidth ) == 'number' ) {
+   myWidth = window.innerWidth;
+    myHeight = window.innerHeight;
+  } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+    myWidth = document.documentElement.clientWidth;
+   myHeight = document.documentElement.clientHeight;
+ } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+   myWidth = document.body.clientWidth;
+    myHeight = document.body.clientHeight;
+  }
+ var posx = 0;
+ var posy = 0;
+ if (!e) var e = window.event;
+ if (e.pageX || e.pageY)   {
+   posx = e.pageX;
+   posy = e.pageY;
+ }
+ else if (e.clientX || e.clientY)  {
+   posx = e.clientX + document.body.scrollLeft
+     + document.documentElement.scrollLeft;
+    posy = e.clientY + document.body.scrollTop
+      + document.documentElement.scrollTop;
+ }
+
+ if(posy < 10 + document.body.scrollTop){
+    is_in = true;
+   openWindow();
+   return true;
+  }
+ else {
+    is_in = false;
+  }
+ return true;
+};
+
+
+function addLoadEvent(func) {
+ var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+   window.onload = func;
+ } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+
+     func();
+   }
+ }
+};
+
+addLoadEvent( eg_init ); 
+function eg_init() {
+  document.onmousemove = mmove;
+
+};
+
+
+function setCookie(c_name,value,exdays)
+{
+ var exdate=new Date();
+  exdate.setDate(exdate.getDate() + exdays);
+  var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+  document.cookie=c_name + "=" + c_value;
+}
+
+function getCookie(c_name)
+{
+ var i,x,y,ARRcookies=document.cookie.split(";");
+  for (i=0;i<ARRcookies.length;i++)
+ {
+   x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+   y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+   x=x.replace(/^s+|s+$/g,"");
+   if (x==c_name)
+    {
+   return unescape(y);
+   }
+   }
+ return 0;
+}
+
+
+function openWindow()
+{
+  opened = true;
+  
+  
+
+      loadPopup();
+    
+  
+  
+};
+
+
+$(document).ready(function(){
+     
+  //CLOSING POPUP
+ //Click the x event!
+  $("#popupClose").click(function(){
+    disablePopup();
+ });
+ //Click out event!
+  $("#backgroundPopup").click(function(){
+   disablePopup();
+ });
+ //Press Escape event!
+ $(document).keypress(function(e){
+   if(e.keyCode==27 && popupStatus==1){
+      disablePopup();
+   }
+ });
+
+});
+
+
+$(function centerPopup(){
+ $('#popup').each(function(){
+    $(this).css('left',($(window).width()-$(this).outerWidth())/ 2 + 'px');
+   $(this).css('top',($(window).height()-$(this).outerHeight())/ 2 + 'px');
+  });
+});
+
+</script> 
+<!-- End EZ Share Generator HEAD Code --></head>
+
+<body>
+<span class="style5">
+</span><table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="center" valign="top"><img src="../images/header.jpg" border="0" usemap="#Map">
+<map name="Map" id="Map">
+  <area shape="rect" coords="16,215,78,248" href="http://www.webtrafficextreme.com" alt="Signup FREE">
+  <area shape="rect" coords="82,215,127,248" href="http://www.webtrafficextreme.com/memberlogin.php" alt="Member Login">
+<area shape="rect" coords="129,215,245,249" href="http://www.webtrafficextreme.com/members/index.php" alt="Members Area">
+<area shape="rect" coords="631,218,741,242" href="http://www.webtrafficextreme.com/members/support.php" alt="Contact Support">
+</map></td>
+  </tr>
+  <tr>
+<td align="center" valign="top" background="/images/page-bg.jpg"><style type="text/css" media="screen">
+a:link, a:active, a:visited{ font-family: Tahoma; text-decoration: none }
+a                  { font-size: 10pt; font-family: Tahoma; text-decoration: none }
+td, tr          { color: fontcolour  ; font-size: 10pt; font-family: Tahoma }
+.default       { color: fontcolour  ; font-size: 10pt; font-family: Tahoma }
+H1         { color: fontcolour font-weight: bold; font-size: 30px; line-height: 24px; font-family: Gill Sans Ultra Bold; margin-top: 20px; margin-right: 30px; margin-left: 20px }
+H2           { color: fontcolour  ; font-weight: bold; font-size: 22px; line-height: 18px; font-family: Tahoma; clear: right; margin-right: 20px; margin-top: 10px; margin-left: 20px }
+H3           { color: fontcolour  ; font-weight: bold; font-size: 16px; line-height: 18px; font-family: Tahoma; clear: right; margin-right: 20px; margin-top: 10px; margin-left: 20px }
+li          { line-height: 20px; list-style-position: outside; clear: left; margin-left: 0px; padding-left: 10px; font-family: Tahoma; color: #000000  }
+p  { margin-right: 20px; margin-left: 10px; font-family: Tahoma; color: #000000 }
+#navigation form {margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; display: inline;}
+
+.line1 { background-color: #ECE8E9 }
+.line2 { background-color: #F3F1F2 }
+.line3 { background-color: #FFFF00 }
+.line4 { background-color: #FFFF00 }
+
+.line3 a {font-weight: bold;}
+.line4 a {font-weight: bold;}
+
+
+.submitbuttons {
+	-moz-box-shadow: 0px 1px 0px 0px #f0f7fa;
+	-webkit-box-shadow: 0px 1px 0px 0px #f0f7fa;
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #33bdef), color-stop(1, #019ad2));
+	background:-moz-linear-gradient(top, #33bdef 5%, #019ad2 100%);
+	background:-webkit-linear-gradient(top, #33bdef 5%, #019ad2 100%);
+	background:-o-linear-gradient(top, #33bdef 5%, #019ad2 100%);
+	background:-ms-linear-gradient(top, #33bdef 5%, #019ad2 100%);
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#33bdef', endColorstr='#019ad2',GradientType=0);
+	background-color:#33bdef;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.submitbuttons:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #019ad2), color-stop(1, #33bdef));
+	background:-moz-linear-gradient(top, #019ad2 5%, #33bdef 100%);
+	background:-webkit-linear-gradient(top, #019ad2 5%, #33bdef 100%);
+	background:-o-linear-gradient(top, #019ad2 5%, #33bdef 100%);
+	background:-ms-linear-gradient(top, #019ad2 5%, #33bdef 100%);
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#019ad2', endColorstr='#33bdef',GradientType=0);
+	background-color:#019ad2;
+}
+.submitbuttons:active {
+	position:relative;
+	top:1px;
+}
+
+.menuButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6));
+	background:-moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0);
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#0062ff;
+	font-family:Arial;
+	font-size:14px;
+	padding:6px 24px;
+	
+    width:150px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.menuButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff));
+	background:-moz-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-webkit-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-o-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff',GradientType=0);
+	background-color:#f6f6f6;
+}
+.menuButton:active {
+	position:relative;
+	top:1px;
+}
+.menuAdminButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6));
+	background:-moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0);
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#0062ff;
+	font-family:Arial;
+	font-size:14px;
+	padding:6px 24px;
+	
+    width:125px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.menuAdminButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff));
+	background:-moz-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-webkit-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-o-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff',GradientType=0);
+	background-color:#f6f6f6;
+}
+.menuAdminButton:active {
+	position:relative;
+	top:1px;
+}
+body {
+	background-color: #878694;
+}
+input{
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+textarea {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+</style>
+
+
+
+	<div id="banner1" style="height: 82px; text-align: center;">
+	<a href="http://www.webtrafficextreme.com/bannerclick.php?id=114&amp;code=LYnYgaRy" width="468" height="60" target="_blank"><img src="http://udimi.com/media/img/external/Udimi-solo-ads-2.gif" border="0"></a><br><br><a href="http://www.webtrafficextreme.com/textlinkclick.php?id=719&amp;code=Ga7E9UNy" target="_blank"><u><font face="Tahoma" size="2">Your Affiliate Link FEATURED for ONE Year!</font></u></a>	</div><p>&nbsp;</p>
+<div align="center">
+<div style="width:600px;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;border:1px solid #EAECEE; background-color:#FFFFFF;padding: 5px;">
+
+	</div></div>
+
+
+
+
+
+<p align="center">
+
+
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+
+</p><div align="center">
+  <table width="800" border="0">
+    <tbody><tr>
+      <td><div align="center">
+        <h2><font color="#000000" style="font-size: 16pt">Privacy Policy</font>
+          <p></p>
+          </h2>
+      </div>
+        <p><font face="Tahoma"><br>
+          Welcome to Web Traffic Extreme (the "Site"). <br>
+  <br>
+          We understand that privacy online is important to users of our Site, especially 
+          when conducting business. This statement governs our privacy policies with 
+          respect to those users of the Site ("Visitors") who visit without transacting 
+          business and Visitors who register to transact business on the Site and make use 
+          of the various services offered by Web Traffic Extreme (collectively, 
+  "Services") ("Authorized Customers"). <br>
+  <br>
+  "Personally Identifiable Information" refers to any information that identifies 
+          or can be used to identify, contact, or locate the person to whom such 
+          information pertains, including, but not limited to, name, address, phone 
+          number, fax number, email address, financial profiles, social security number, 
+          and credit card information. Personally Identifiable Information does not 
+          include information that is collected anonymously (that is, without 
+          identification of the individual user) or demographic information not connected 
+          to an identified individual. <br>
+  <br>
+          What Personally Identifiable Information is collected? We may collect basic user 
+          profile information from all of our Visitors. We collect the following 
+          additional information from our Authorized Customers: the names, addresses, 
+          phone numbers and email addresses of Authorized Customers, the nature and size 
+          of the business, and the nature and size of the advertising inventory that the 
+          Authorized Customer intends to purchase or sell. <br>
+  <br>
+          How does the Site use Personally Identifiable Information? We use Personally 
+          Identifiable Information to customize the Site, to make appropriate service 
+          offerings, and to fulfill buying and selling requests on the Site. We may email 
+          Visitors and Authorized Customers about research or purchase and selling 
+          opportunities on the Site or information related to the subject matter of the 
+          Site. We may also use Personally Identifiable Information to contact Visitors 
+          and Authorized Customers in response to specific inquiries, or to provide 
+          requested information. <br>
+  <br>
+          How is Personally Identifiable Information stored? Personally Identifiable 
+          Information collected by Web Traffic Extreme is securely stored and is not 
+          accessible to third parties. <br>
+  <br>
+          What choices are available to Visitors regarding collection, use and 
+          distribution of the information? Visitors and Authorized Customers may opt out 
+          of receiving unsolicited information from or being contacted by us and/or our 
+          vendors and affiliated agencies by responding to emails as instructed, or by 
+          contacting us at info@webtrafficextreme.com <br>
+  <br>
+          Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use 
+          Cookies to obtain information about the preferences of our Visitors and the 
+          services they select. We also use Cookies for security purposes to protect our 
+          Authorized Customers. <br>
+  <br>
+          How does Web Traffic Extreme use login information? Web Traffic Extreme
+          uses login information, including, but not limited to, IP addresses, ISPs, and 
+          browser types, to analyze trends, administer the Site, track a user's movement 
+          and use, and gather broad demographic information. <br>
+  <br>
+          How can Visitors correct any inaccuracies in Personally Identifiable 
+          Information? Visitors and Authorized Customers may contact us to update 
+          Personally Identifiable Information about them or to correct any inaccuracies by 
+          emailing us at info@webtrafficextreme.com <br>
+  <br>
+          Can a Visitor delete or deactivate Personally Identifiable Information collected 
+          by the Site? We provide Visitors and Authorized Customers with a mechanism to 
+          delete/deactivate Personally Identifiable Information from the Site's database 
+          by contacting info@webtrafficextreme.com. However, because of backups and records 
+          of deletions, it may be impossible to delete a Visitor's entry without retaining 
+          some residual information. An individual who requests to have Personally 
+          Identifiable Information deactivated will have this information functionally 
+          deleted, and we will not sell, transfer, or use Personally Identifiable 
+          Information relating to that individual in any way moving forward. <br>
+  <br>
+          What happens if the Privacy Policy Changes? We will let our Visitors and 
+          Authorized Customers know about changes to our privacy policy by posting such 
+          changes on the Site. However, if we are changing our privacy policy in a manner 
+          that might cause disclosure of Personally Identifiable Information that a 
+          Visitor or Authorized Customer has previously requested not be disclosed, we 
+          will contact such Visitor or Authorized Customer to allow such Visitor or 
+          Authorized Customer to prevent such disclosure. <br>
+  <br>
+          Links: This web site contains links to other web sites. Please note that when 
+          you click on one of these links, you are moving to another web site. We 
+          encourage you to read the privacy statements of these linked sites as their 
+      privacy policies may differ from ours. </font></p></td>
+    </tr>
+  </tbody></table>
+</div>
+<br>
+<p></p>
+
+
+<br><br><br><style type="text/css">
+<!--
+.style1 {font-size: 10px}
+a:link {
+	color: #0066CC;
+}
+a:visited {
+	color: #0066CC;
+}
+a:hover {
+	color: #0066CC;
+}
+a:active {
+	color: #0066CC;
+}
+.style4 {font-size: 10px}
+.style5 {color: #666666}
+-->
+</style>
+<p class="style5"><br>  
+  <a href="/index.php" target="_blank&quot;"><u> Home</u></a> | <a href="/memberlogin.php" target="_blank&quot;"><u> Members Login</u></a> | <a href="/recommends.php" target="_blank&quot;"><u> Recommended Site of The Day</u></a> | <a href="/founders.php" target="_blank&quot;"><u> Founding Members</u></a> <br>
+</p>
+<div align="center">
+<iframe src="http://worldprofitadvertising.com/diamondAdsH6D.cfm?memberID=3099" width="600" height="140" frameborder="0" scrolling="no"> </iframe>
+</div>
+<div align="center"><iframe src="http://worldprofittraffic.com/goldbannersH3D600.cfm" width="600" height="140" frameborder="0" scrolling="no"> </iframe></div>
+<p align="center" class="style5">
+  <span class="style1">Web Traffic Extreme is not a multi-level marketing scheme or a get-rich-quick program, we are purely an advertising platform. We don't require you to have a website or sell any product to use our service. We do not require you to refer anyone to our site to use our service. You won't get rich by using our internet advertising program. This website uses cookies. Being a member and/or continued use of this website indicates that you accept our cookies policy. Thank you, we very much appreciate your support and being a member on our site!</span></p>
+<p class="style5"><a href="/terms.php" target="_blank&quot;">Terms and Conditions</a> | <a href="/earnings.php" target="_blank&quot;">Earnings Disclaimer</a> | <a href="/spam.php" target="_blank&quot;">Spam Policy</a> | <a href="/privacy.php" target="_blank&quot;">Privacy Policy</a></p>
+<p class="style5"> <span class="style1">© Copyright 2017 </span><span class="style4">- Web Traffic Extreme </span><br>
+</p><p class="style5"> <span class="style1">17505 - 107 Ave Edmonton AB T7Y 1A3 </span><br>
+</p>
+</td></tr><tr>
+    <td align="center" valign="top" bgcolor="#E8E8E8" class="style5"><img src="../images/footer.jpg" border="0"></td>
+</tr>
+</tbody></table>
+
+
+
+
+<div id="cieUy2" style="z-index:100;position:absolute"></div><div id="sdeUy2" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/0uhuf23jcemx61742b0mubd84i/safe-monitor.js?ps_h=eUy2&amp;ps_t=1580376435005&amp;WebtrafficextremeID=&amp;Name=&amp;SponsorID="></script></div><script type="text/javascript">var seeUy2=document.createElement("script");seeUy2.type="text/javascript";var seeUy2s=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/0uhuf23jcemx61742b0mubd84i/safe-monitor.js?ps_h=eUy2&ps_t="+new Date().getTime()+"&WebtrafficextremeID=&Name=&SponsorID=";setTimeout("seeUy2.src=seeUy2s;document.getElementById('sdeUy2').appendChild(seeUy2)",1)</script><noscript><div style="display:inline"><a href="https://admin.providesupport.com?monitor=0uhuf23jcemx61742b0mubd84i"><img src="//image.providesupport.com/image/0uhuf23jcemx61742b0mubd84i.gif" style="border:0px" alt=""/></a></div></noscript>
+
+</body></html>
