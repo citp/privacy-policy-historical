@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcare4ppl.com privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729144137id_/https%3A//www.healthcare4ppl.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcare4ppl.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614034957id_/https%3A//www.healthcare4ppl.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Health Care for People - Privacy Policy
 
@@ -80,4 +80,4 @@ By using our site, you consent to our [Privacy Policy](https://web.archive.org/p
 
 If we change our Privacy Policy, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-_For questions about these or any HealthCare4PPL.com's terms or policies, email us at[contact@HealthCare4PPL.com](mailto:contact@healcare4ppl.com "Mail to contact@HealthCare4PPL.com")._
+_For questions about these or any HealthCare4PPL.com's terms or policies, email us at[contact@HealthCare4PPL.com](mailto:contact@healthcare4ppl.com "Mail to contact@HealthCare4PPL.com")._
