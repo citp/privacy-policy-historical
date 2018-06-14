@@ -1,17 +1,33 @@
-> *The following text is extracted and transformed from the vpsfast.net privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625221923id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpsfast.net privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614162948id_/https%3A//vpsfast.net/privacy-policy) for the most accurate reproduction.*
 
-# Legal
+# Privacy Policy - VPSFAST
 
-* * *
+VPSFast considers it essential to safeguard its clients identities and other personal information. We ensure that all personal information collected from our customers remains private. The following policy defines how we handle your privacy. This policy is applicable for information collected by us from you online; it does not apply to information collected offline. By using the VPSFast.us website, you are accepting this privacy policy.
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+### Collecting information
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+We save your information when you register an account, when you send us an email and when you enquire about a product or solution over the phone. This information includes your name, email address and phone number.
 
+### Utilization
 
+The information we collect is only used in certain circumstances. Here are a few examples of how your information may be used.
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+### Communication
+
+By default, all account-related communication is sent to your email address. Technical, billing and other queries will also be responded to by email. Important announcements and newsletters (if you have subscribed) will be sent to your email address.
+
+### Customer Relationship
+
+From time to time, our customer relations team may get in touch with you by telephone or email. Please note that if we phone you, we will never ask you to share your credit card or bank details.
+
+### Information Protection
+
+VPSFast has proper tools and processes in place to ensure that your personal information is safe. In the event of an account being compromised (password sharing or malicious software installed on the user’s computers that steals information), VPSFast cannot be held responsible for any breach of security or theft of information.
+
+### Cookies
+
+Cookies are installed on your browsers when you access a website. They identify your browser and remember values that you’ve entered when previously visiting the site. Cookies are only used to improve your browsing experience. The information they collect is not shared with others, and you can, at any time, change your browser settings to stop cookies from sending data to us. VPSFast does not share your information with any third parties. If the need arises, we will do so only after obtaining your express permission. However, in certain instances, if governmental or regulatory bodies request information, we are bound by law to provide it.
+
+### Changes and Updates
+
+Parts or the whole of this privacy policy may be modified from time to time. Changes will be updated on the website without notification. We request that you check this page periodically to stay updated on our privacy policy.
