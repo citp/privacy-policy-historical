@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsdomination.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226211014id_/https%3A//dsdomination.com/show/page/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsdomination.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190233id_/https%3A//dsdomination.com/show/page/privacyPolicy) for the most accurate reproduction.*
 
 # DS Domination
 
