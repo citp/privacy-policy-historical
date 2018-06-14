@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228053606id_/https%3A//www.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190603id_/https%3A//www.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -102,7 +102,7 @@ Experts Exchange is liable for appropriate onward transfers of personal EU and S
 
 ## 8\. Our storage of your personal information
 
-We will hold your personal information on our systems for as long as you use the services you have requested. If your membership with Experts Exchange lapses, we will maintain your information for a reasonable period of time after it lapses to permit you re-establish your membership and maintain any benefits you accrued while your prior membership was in effect. In some circumstances it may be necessary to retain your personal information to deal with any disputes. Accordingly, Experts Exchange may store messaging transcript data (including message content, member names, times and dates) arising from the use of Experts Exchange Community services for a period necessary to fulfill such purpose. We will ensure that all personal information supplied is held securely. In accordance with the EU-US Privacy Shield Framework, European Union individuals who wish to delete their personal information may contact Experts Exchange, LLC via the contact information listed in Section 14 of this Privacy Policy. Your contribution to information exchanges on Experts Exchange, may be maintained indefinitely by Experts Exchange in order to serve the site's intended purpose.
+We will hold your personal information on our systems for as long as you use the services you have requested. If your membership with Experts Exchange lapses, we will maintain your information for a reasonable period of time after it lapses to permit you re-establish your membership and maintain any benefits you accrued while your prior membership was in effect. In some circumstances it may be necessary to retain your personal information to deal with any disputes. Accordingly, Experts Exchange may store messaging transcript data (including message content, member names, times and dates) arising from the use of Experts Exchange Community services for a period necessary to fulfill such purpose. We will ensure that all personal information supplied is held securely. In accordance with the EU-US Privacy Shield Framework and other privacy regulations, in certain circumstances, European Union individuals have the right to access the personal data we hold, to correct or delete information, to request that we cease processing your data, to object to profiling or solely automated processing, and to request that your data be transferred to another party. To exercise any or all of these rights please contact Experts Exchange, LLC via the contact information listed in Section 14 of this Privacy Policy. Your contribution to information exchanges on Experts Exchange, may be maintained indefinitely by Experts Exchange in order to serve the site's intended purpose.
 
 Your personal data will be stored on our backup system, which is kept in case of loss of data. It may be that where data is lost, the personal data held on you as part of our backup system is used to restore your account to its status before the loss of data. All personal data (including communication data) stored on the backup system shall be held in a secure manner in compliance with applicable law. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features that are designed to prevent unauthorized access.
 
@@ -114,9 +114,9 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 This site contains links to other sites. Experts Exchange is not responsible for the privacy practices or the content of such websites. Therefore, if you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-## 10\. Users under age 13
+## 10\. Children
 
-If you are under the age of 13, you are not permitted to register as a user of the Experts Exchange Web site. A Note for Parents Concerning Privacy. Experts Exchange is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13. Experts Exchange seeks to encourage children to consult with their parents before submitting their data. However, Experts Exchange believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a safe online environment for children to work within. These tools can also prevent children from disclosing personal information without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the Direct Marketing Association home page which can be found at [www.the-dma.org.](https://thedma.org/)
+If you are under the age of 13, you are not permitted to register as a user of the Experts Exchange Web site (In some countries, stricter age limits may apply). A Note for Parents Concerning Privacy. Experts Exchange is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13. Experts Exchange seeks to encourage children to consult with their parents before submitting their data. However, Experts Exchange believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a safe online environment for children to work within. These tools can also prevent children from disclosing personal information without parental permission. For additional information about parental control tools, please consult the "Consumer Assistance" page of the Direct Marketing Association home page which can be found at [www.the-dma.org.](https://thedma.org/)
 
 ## 11\. Ownership Changes
 
@@ -136,7 +136,7 @@ Email: [privacy@experts-exchange.com](mailto:privacy@experts-exchange.com)
 
 Telephone: 805.787.0603
 
-You have the right to request a copy of the personal information Experts Exchange holds about you and to have any inaccuracies corrected. There may be a small charge for such administration requests. All such enquiries should be sent to our Chief Privacy Officer. Additionally, you may at any time change your information by updating your profile and/or settings.
+You have the right to request a copy of the personal information Experts Exchange holds about you and to have any inaccuracies corrected. All such enquiries should be sent to our Chief Privacy Officer. Additionally, you may at any time change your information by updating your profile and/or settings.
 
 ## 14\. Privacy Complaints by European Union and Swiss Citizens, Recourse, Enforcement and Liability
 
@@ -155,4 +155,4 @@ This service verifies adherence to the EU Privacy Shield Policy by means of in-h
 Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
 
   
-_This policy was last modified on 12 October, 2017_
+_This policy was last modified on 21 May, 2018_
