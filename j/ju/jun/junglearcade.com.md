@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junglearcade.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207144028id_/http%3A//www.junglearcade.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junglearcade.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614161141id_/http%3A//www.junglearcade.com/Privacy) for the most accurate reproduction.*
 
 # Jungle Arcade - Privacy
 
@@ -9,11 +9,11 @@ You acknowledge that this Privacy Policy is designed to be read in connection 
 We reserve the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by placing a prominent notice on our site and by updating any privacy information on this page. Your continued use of the Site after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) your agreement to abide and be bound by that Policy. 
 
   
-If you have any questions about this Policy, please feel free to contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Policy, please feel free to contact us at: support@junglearcade.com 
 
 **California Privacy Rights – Shine the Light Law**
 
-California Civil Code Section § 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+California Civil Code Section § 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to support@junglearcade.com 
 
   1. **Types of Information We Collect**
 
@@ -83,7 +83,7 @@ We may also provide Aggregate Information about our customers' sales, traffic pa
 
 
   
-We believe you should have the ability to access and edit the PII that you have provided to us. You may access and correct your personal information and privacy preferences by emailing us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We believe you should have the ability to access and edit the PII that you have provided to us. You may access and correct your personal information and privacy preferences by emailing us at: support@junglearcade.com. 
 
 Please include your name, address, and/or email address when you contact us. 
 
@@ -112,7 +112,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 
   
-Our Site is not intended for persons under 18 years of age. No one under age 18 may provide any information to or on the Site. We do not knowingly collect personal information from persons under 18. If you are under 18, do not use or provide any information on this Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a person under 18 without verification of parental consent, we will delete that information if applicable law requires us to do so. If you believe we might have any information from or about a person under 18, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Our Site is not intended for persons under 18 years of age. No one under age 18 may provide any information to or on the Site. We do not knowingly collect personal information from persons under 18. If you are under 18, do not use or provide any information on this Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a person under 18 without verification of parental consent, we will delete that information if applicable law requires us to do so. If you believe we might have any information from or about a person under 18, please contact us at support@junglearcade.com. 
 
   
-If you have any questions, concerns or inquiries about our Privacy Policy, or our use of your PII, or our privacy practices, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions, concerns or inquiries about our Privacy Policy, or our use of your PII, or our privacy practices, please contact us at: support@junglearcade.com. 
