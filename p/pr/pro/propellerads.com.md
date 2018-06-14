@@ -1,153 +1,353 @@
-> *The following text is extracted and transformed from the propellerads.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001228id_/https%3A//propellerads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propellerads.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614194250id_/http%3A//www.propellerads.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Propeller Ads
 
-Propeller Ads Limited (the, “ **Propeller Ads** ”, “ **Propeller** ”, “ **We** ”, etc.) is committed to compliance with data protection laws and this policy (Privacy Policy) sets out our personal information gathering and sharing practices for www.PropellerAds.com (the, “ **Website** ”, “ **Platform** ”) and the services we provide to Advertisers and Publishers (the, “ **You** ”, “ **Your** ”, etc.). Accordingly, we take commercially reasonable measures to adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information.
+Propeller Ads (referred to as “Propeller Ads” or “we” or “us” or “our”)is committed to protecting and respecting your privacyand handling your personal data in an open and transparent manner. The personal data that we collect and process may vary depending on the service we provide to you.
 
-This Privacy Statement presents our privacy policy, including our privacy practices. Below is information regarding commitment to protecting the privacy of Internet users. The purpose of this Privacy Policy is to provide users with clear and complete notice about the user information we may collect in connection with our Services and on our corporate website.
+This privacy policy:
 
-By submitting your information to us, you agree to the processing set out in this Privacy Policy. Further notices highlighting certain uses we wish to make of your personal information together with the ability to opt in or out of selected uses may also be provided to you when we collect personal information from you.
+  * provides an overview of how Propeller Ads collects and processes your personal data, and informs you about your rights under the EU General Data Protection Regulation (“GDPR”) and any national law supplementing or implementing the GDPR,
+  * contains important information about, among others, the collection and use of personal data; the legal grounds for the processing of that data; disclosures of that personal data to third parties and the use of cookies on the Website.
 
-This Website may contain links to other third party websites. If you follow a link to any of those third party websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for their policies or processing of your personal information. Please check these policies before you submit any personal information to such third party websites.
 
-Propeller Ads may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2017.
 
-For the purposes of this Privacy Policy, definitions but not otherwise defined in this Privacy Policy shall have the meanings given to them in Advertiser and Publisher Agreement as displayed on the Website.
+For the purposes of this privacy policy:
 
-This Privacy Policy is intended to explain our privacy practices and covers the following areas:
+  * when we refer to “personal data” we mean data which identifies or may identify you and which may include, for example, your name, address, identification number, telephone number, date of birth, occupation and family status,
+  * when we refer to “processing” we mean the handling of your personal data by us, including collecting, protecting and storing your personal data, and
+  * when we refer to our “Website” or our “Platform” we mean www.PropellerAds.com.
 
-  1. What personal information about you we may collect
-  2. How we may use your personal information
-  3. Who we may disclose your personal information to
-  4. How we protect your personal information
-  5. Contacting us & your rights to prevent marketing and to access and update your personal information
-  6. Our Cookies Policy
-  7. How changes to this Privacy Policy and the Cookies Policy will be made
 
 
+### Who we are
 
-### 1\. Information we may collect about you
+Propeller Ads Ltd is a company registered in the Republic of Cyprus, under registration number HE353513 as a limited liability company having its registered office at 15, Karaiskaki Street, 3032, Limassol, Cyprus.
 
-1.1. We may collect and process the following data about you:
+Propeller Ads Limited is a company registered in the Isle of Man, under registration number 011883V as a limited liability company having its registered office at First Floor, Jubilee Buildings, 26-28 Athol Street, Douglas, IM1 2SH, Isle of Man.
 
-a) Information you give us. This is information about you that you give us by filling in forms on our Website or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you register to use our Website, subscribe to our services, search for a product, place an order on our site, or other activities commonly carried out on the Website and when you report a problem with our Website. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph, and any other information.
+This Privacy Policy will apply to both Propeller Ads Ltd in Cyprus and Propeller Ads Limited in the Isle of Man.
 
-b) Information we may collect about you. With regard to each of your visits to our Website or Platform we may automatically collect the following information:
+### Our Data Protection Principles
 
-  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, and other information;
-  * information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our Website (including date and time), products you viewed or searched for’, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page, any phone number used to call our customer service number, and other information.
+We adhere to the principles relating to processing of personal data set out in the GDPR which require personal data to be:
 
+  1. Processed lawfully, fairly and in a transparent manner (Lawfulness, Fairness and Transparency).
 
-  * Information we receive from other sources. This is information we receive about you if you use any of the other websites we operate or the other services we provide. We are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies). We may notify you when we receive information about you from them and the purposes for which we intend to use that information.
 
+  2. Collected only for specified, explicit and legitimate purposes (Purpose Limitation).
 
 
-## 2\. Uses made of your personal information and justification of uses
+  3. Adequate, relevant and limited to what is necessary in relation to the purposes for which it is Processed (Data Minimisation).
 
-**2.1. We may use your personal information in the ways listed below. Use of personal information under EU data protection laws must be justified under one of a number of legal “grounds” and we are required to set out the ground in respect of each use in this policy. These are the principle grounds that justify Our use of your information:**
 
-a) **Consent:** where you have consented to our use of your information (you will have been presented with a consent form in relation to any such use and may withdraw your consent by notifying us);  
-b) **Contract performance:** where your information is necessary to enter into or perform our contract with you;  
-c) **Legal obligation:** where we need to use your information to comply with our legal obligations;  
-d) **Legitimate interests:** where we use your information to achieve a legitimate interest and our reasons for using it outweigh any prejudice to your data protection rights; and  
-e) **Legal claims:** where your information is necessary for us to defend, prosecute or make a claim against you or a third party.
+  4. Accurate and where necessary kept up to date (Accuracy).
 
-2.2 We may use your personal information in the following ways. For each use, we note the grounds we use to justify each use of your personal information:
 
-a) to on-board you onto the Platform. Where you are a designated contact of an Ad Network, you will create an account by providing the relevant information as specified in paragraph 1.1.(a) above. Where you are a representative of a Publisher, you will create an account by providing the relevant information as specified in paragraph 1.1.(b) above
+  5. Not kept in a form which permits identification of data subjects for longer than is necessary for the purposes for which the data is Processed (Storage Limitation).
 
-**Use justification:** consent, contract performance, legitimate interests (to allow is to on-board you as a user);
 
-b) as part of the on-boarding process described in paragraph 2.1(a) above, where you are a designated contact of a Publisher, we will conduct KYC, AML and other checks to decide whether to on-board you on to the Platform. We may disclose such information to third party credit reference and fraud agencies for the purposes of credit analysis and detecting and preventing fraud and crime – please see paragraph 3.5. below).
+  6. Processed in a manner that ensures its security using appropriate technical and organisational measures to protect against unauthorised or unlawful processing and against accidental loss, destruction or damage (Security, Integrity and Confidentiality).
 
-**Use justification:** consent, contract performance, legal obligations, legitimate interests (including to ensure you fall within our acceptable risk profile);
 
-c) to provide you with updates and offers, where you have chosen to receive these (please see the section titled “Marketing” below)
+  7. Not transferred to another country without appropriate safeguards being in place (Transfer Limitation).
 
-**Use justification:** consent;
 
-d) to ensure that content from our Website is presented in the most effective manner for you and for your computer
+  8. Made available to data subjects and data subjects allowed to exercise certain rights in relation to their Personal Data (Data Subject’s Rights and Requests).
 
-**Use justification:** consent, contract performance, legitimate interests (to allow us to provide you with the content and services on the Website);
 
-e) to analyse it to develop our products, services and systems and to understand our users’ requirements
+  9. We are responsible for and must be able to demonstrate compliance with the data protection principles listed above (Accountability).
 
-**Use justification:** legitimate interests (to allow us to improve our services);
 
-f) to notify you about changes to our service
 
-**Use justification:** contract performance, legitimate interests (to allow us to continuously develop our services).
+_Date  May 25, 2018 _
 
-#### Marketing
+#### **1\. Data Controller**
 
-We may use your information for marketing our own services to you by email, through the Platform and by post, and, where required by law, we will ask for your consent at the time we collect your data to conduct any of these types of marketing.
+1.1 This privacy policy applies where we are acting as a data controller with respect to your personal data and therefore determine the purposes and means of the processing of that personal data.
 
-**Use justification:** consent (which can be withdrawn at any time – please see paragraph 5.1. below)
+1.3 We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our Website. 
 
-We will provide an option to unsubscribe or opt-out of further communication on any electronic marketing communication sent to you or you may opt out by contacting us as set out in paragraph 5.4. below.
+1.4 Our Website incorporates privacy controls you can use to specify whether you would like to receive marketing, limit the publication or any other use of your information. You can access such privacy controls via contact.us@propellerads.com.
 
-### 3 Disclosures to third parties and justification of uses
+#### **2\. How we collect your personal data**
 
-3.1. We may permit selected third parties such as business partners, suppliers, service providers, agents and contractors to use your personal information, for the purposes set out in paragraph 2 above who will be subject to obligations to process such information in compliance with the same safeguards that we deploy.
+2.1 We obtain your personal data mainly through any information you provide directly to us or through information provided by third parties. Below is a list of ways in which we collect your personal data.
 
-**Use justification:** contract performance, legitimate interests (to enable us to effectively provide our services to you)
+Personal data collected directly from you, including:
 
-3.2. We may disclose your personal information to third parties, the court service and/or regulators or law enforcement agencies in connection with proceedings or investigations anywhere in the world where compelled to do so. Where permitted, we will direct any such request to you or notify you before responding unless to do so would prejudice the prevention or detection of a crime.
+  * when you complete our Publisher or Advertiser registration forms, which are available on our Website, 
 
-**Use justification:** legal obligation, legal claims, legitimate interests (to cooperate with law enforcement and regulatory authorities);
+  * when you enter and use our Website, and/or performing contractual obligations, and
 
-3.3. In the event that we (or a part thereof) are (i) subject to negotiations for the sale of its business or (ii) is sold to a third party or (iii) undergoes a reorganisation, you agree that any of your personal information which We hold may be transferred to that re-organised entity or third party and used for the same purposes as set out in this policy, or for the purpose of analysing any proposed sale or re-organisation. We will ensure that no more of your information is transferred than necessary.
+  * when you contact us for any enquiries, complaints or for any other reason. 
 
-**Use justification:** legitimate interests (to allow us to change our business).
 
-#### AML/KYC/other checks
 
-3.4. We and other organisations may also access and use your personal information to conduct KYC checks, credit checks and checks to prevent fraud and money laundering. If false or inaccurate information is provided and fraud is identified or suspected, details may be passed to the relevant authorities including credit reference agencies and fraud prevention agencies. We will also record this. Law enforcement agencies may access and use this information. We, and other organisations that may access and use information recorded by such agencies, may do so from other countries.
 
-**Use justification:** legal obligation, legal claims, legitimate interests (to assist with the prevention of crime and fraud)
+Personal data collected from other sources, including:
 
-### 4\. Transmission, storage and security of your personal information
+  * via third parties including our business partners, contractors and/or vendors in a manner that is permitted, 
 
-#### Security over the internet
+  * through tags in websites you use and/or manage or control. 
 
-4.1. No data transmission over the Internet or website can be guaranteed to be secure from intrusion; any transmission is at your own risk. However, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your personal information in accordance with data protection legislative requirements.
 
-4.2. All information you provide to us is stored on our or our subcontractors’ secure servers and accessed and used subject to our security policies and standards. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website, you are responsible for keeping this password confidential and for complying with any other security procedures that we notify you of. We ask you not to share a password with anyone.
 
-4.3. In accordance with the recommendations of Payment Card Industry Security Standards Council, customer card details are protected using Transport Layer encryption — TLS 1.2 and application layer with algorithm AES and key length 256 bit.
 
-#### Export outside the EEA
+#### **3\. Personal Data We Use, Purposes and Legal Grounds**
 
-4.3. Your personal information may be accessed by staff or suppliers in, transferred to, and/or stored at, a destination outside the European Economic Area (EEA) in which data protection laws may be of a lower standard than in the EEA. Regardless of location or whether the person is an employee or contractor we will impose the same data protection safeguards that we deploy inside the EEA.
+We may collect the following personal data from you depending on the service we provide to you. We will only process your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
-4.4. Certain countries outside the EEA have been approved by the European Commission as providing essentially equivalent protections to EEA data protection laws and therefore no additional safeguards are required to export personal information to these jurisdictions. If we decide that, staff in those countries which have not had these approvals, will have access to your personal information,, we will either ask for your consent to the transfer or transfer it subject to European Commission approved contractual terms that impose equivalent data protection obligations directly on the recipient unless we are permitted under applicable data protection law to make such transfers without such formalities.
+**Type of information** | **Purpose** | **Legal basis of processing**  
+---|---|---  
+  
+**Data about your use of our Website.**
 
-#### Storage limits
+IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation paths, timing, frequency, pattern of your service use.
 
-4.6. We will retain your personal information for as long as is necessary for the processing purpose(s) for which it was collected and any other permitted linked purpose (for example certain transaction details and correspondence may be retained until the time limit for claims in respect of the transaction has expired or in order to comply with regulatory requirements regarding the retention of such data). So if information is used for two purposes we will retain it until the purpose with the latest period expires; but we will stop using it for the purpose with a shorter period one that period expires.
+| 
 
-We restrict access to your personal information to those persons who need to use it for the relevant purpose(s). Our retention periods are based on business needs and your information that is no longer needed is either irreversibly anonymised (and the anonymised information may be retained) or securely destroyed.
+To analyse the operation of our Website and services.
 
-### 5\. Your rights & contacting us
+| 
 
-#### Marketing
+Legitimate interests in monitoring and improving our Website and services.  
+  
+Profile data.
 
-5.1. You have the right to ask us not to process your personal data for marketing purposes. You can exercise the right at any time by contacting us in accordance with Section 5.4.
+Your name, address, telephone number, email address, gender, date of birth.
 
-#### Updating information
+| 
 
-5.2. We will use reasonable endeavours to ensure that your personal information is accurate. In order to assist us with this, you should notify us of any changes to the personal information that you have provided to us by updating your details on the Platform or by contacting us as set out in paragraph 5.4. below.
+Operating our Website, providing our services, communicating with you. Fulfilment of KYC/AML procedures.
 
-#### Contacting us
+| 
 
-5.3. Propeller Ads Limited is responsible for and is the “data controller” of your personal information processed by us under this Privacy Policy.
+Legitimate interests in the proper administration of our Website.
 
-5.4. We can be contacted in relation to your rights or any questions you may have in respect of this Privacy Policy or our processing of your personal information by email [contact.us@propellerads.com](mailto:contact.us@propellerads.com)
+Performing the contract we have with you.   
+  
+Publication data.
 
-### 6\. Cookies
+Information that you post for publication on our Website or through our services.
 
-Our Website uses cookies to distinguish you from other users of the Website. This helps us provide you with a good experience when you browse our Website and also allows us to improve our Website. For detailed information on the cookies we use and the purposes for which we use them, please see our [Cookies Policy](https://propellerads.com/cookies/).
+| 
 
-### 7\. Changes to our Privacy Policy and/or Cookies Policy
+The publication data may be processed for the purposes of enabling such publication and administering our Website and services.
 
-We may change the content of our website or services without notice, and consequently our Privacy Policy and/or Cookies Policy may change at any time in the future. We therefore encourage you to review it from time to time to stay informed of how we are using personal information.
+| 
+
+Legitimate interests for the proper administration of our Website and business. 
+
+Performing the contract we have with you.   
+  
+Inquiry data.
+
+| 
+
+The inquiry data may be processed for the purposes of fulfilment of our KYC and AML obligations. The proper performance of our payment obligations to you.
+
+| 
+
+Performing the contract we have with you.   
+  
+Transaction data.
+
+The transaction data your contact details, your card details and the transaction details.
+
+| 
+
+The transaction data may be processed for the purpose of payments and keeping proper records of those transactions.
+
+| 
+
+Performing the contract we have with you.   
+  
+Notification data.
+
+| 
+
+The notification data may be processed for the purposes of sending you the relevant notifications and/or newsletters.
+
+| 
+
+Consent. Performing the contract we have with you.  
+  
+Correspondence data.
+
+The communication content and metadata associated with the communication.
+
+| 
+
+The proper performance of our contractual obligation before you.
+
+| 
+
+Consent. Performing the contract we have with you.  
+  
+Any of your personal data identified in this policy.
+
+| 
+
+Exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure, the protection and assertion of our legal rights, your legal rights and the legal rights of others.
+
+| 
+
+Our legitimate interests.   
+  
+Any of your personal data identified in this policy
+
+| 
+
+The obtaining or maintaining insurance coverage, managing risks, or obtaining professional advice.
+
+| 
+
+Our legitimate interests.  
+  
+#### **4\. Information We May Provide to Third Parties**
+
+We may disclose your personal data to the third parties listed below.When we do so, we require those third parties to have appropriate technical and organisational measures in place to protect your personal data. We will not share any of your personal data for any purpose other than the purposes described in this privacy policy, nor will we sell your personal data to anyone.
+
+4.1 Any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this privacy policy.
+
+4.2 To our insurers and/or professional advisers insofar as reasonably necessary for the purposes of managing risks, obtaining professional advice, or the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+
+4.3 Payment services providers we have chosen to support us with financial transactions relating to our Website. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. 
+
+4.4 Governmental and regulatory bodies, including law enforcement authorities, in connection with enquiries, proceedings or investigations by such parties or in order to enable Propeller to comply with its legal and regulatory requirements.
+
+4.5 Partners, contractors and/or vendors in order to perform contract we have with you.
+
+#### **5\. Your data protection rights**
+
+You have the following rights in terms of the personal data we hold about you:
+
+The right to be informed.
+
+| Propeller Ads is publishing this privacy policy to keep you informed as to what we do with your personal data. You can ask us for information regarding any data of yours that we keep at any time. This information concerns, among other things, the data categories we process, for what purposes we process them, the origin of the data if we did not acquire them directly from you and, if applicable, the recipients to whom we have sent your data.   
+---|---  
+  
+The right to access.
+
+| This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it. You can obtain a copy of your data from us free of charge. If you are interested in other copies, we reserve the right to charge for the additional copies.  
+  
+The right to correction (rectification).
+
+| You can request that we correct your data. We will initiate appropriate measures to keep the data of yours that we continuously process correct, complete, and up to date, based the latest information available to us.  
+  
+The right to erasure 
+
+(The right to be forgotten).
+
+| You can request that we delete your data provided the legal requirements have been met. In accordance with Article 17 the GDPR, this can be the case if:
+
+  * the data are no longer required for the purposes they were acquired or otherwise processed;
+  * you revoke your consent, which is the basis of the data processing, and there is no other legal basis for the processing;
+  * you object to the processing of your data and there are no legitimate reasons for the processing or you object to data processing for the purposes of direct advertising;
+  * the data have been processed illegally.
+
+
+
+Where the processing is not necessary:
+
+  * To ensure adherence to a legal obligation that requires us to process your data
+  * In particular with regard to legal retention periods
+  * To assert, exercise or defend against legal claims
+
+  
+  
+The right to restrict processing.
+
+| 
+
+You can request that we restrict the processing of your data if
+
+  * You dispute the correctness of the data – for the period of time we need to check the correctness of the data;
+
+  * The processing is illegal but you do not wish to have your data deleted and request a restriction of use instead;
+
+  * We no longer need your data, but you need them to assert, exercise or defend against legal claims;
+
+  * You have filed an objection to the processing, though it has not yet been decided whether our legitimate grounds outweigh yours.
+
+
+  
+  
+The right to data portability.
+
+| 
+
+At your request, we will transfer your data– where technically possible – to another responsible entity.
+
+However, this right only applies if the data processing is based on your consent or is required to fulfill a contract. Instead of receiving a copy of your data, you can ask us to send the data directly to another responsible entity that you specify.  
+  
+The right to object.
+
+| 
+
+You can object to the processing of your data at any time for reasons that arise from your special situation provided the data processing is based on your consent or our legitimate interest or that of a third party. In this case, we will no longer process your data. The latter does not apply if we are able to prove there are compelling, defensible reasons for the processing that outweigh your interests or we require your data to assert, exercise or defend against legal claims.  
+  
+The right to withdraw consent.
+
+| 
+
+Withdraw the consent you gave us with regard to the processing of your personal data for certain purposes, such as to allow us to promote our products and services to you.  
+  
+The right to complain.
+
+| 
+
+Propeller Ads takes your rights very seriously. However, if you are of the opinion that we have not dealt with your complaints adequately, you have the right to submit a complaint to the data privacy protection authorities responsible. You can visit their website to find out how to submit a complaint ([http://www.dataprotection.gov.cy](http://www.dataprotection.gov.cy/)).  
+  
+We endeavour to address all of your requests promptly.
+
+#### **6\. International Transfers of Your Personal Data**
+
+6.1 We may transfer your personal data to our offices in the Isle of Man, where the European Commission has determined that the territory provides adequate protection for the privacy rights of individuals. We will only do so when it is necessary for one of the purposes set out in this Privacy Policy. 
+
+6.2 We do not envisage that any of your personal data will be transferred to any other countries outside the European Economic Area (EEA) as our offices, facilities, subcontractors and other third parties with which we work are all located within the EEA. 
+
+6.3 In the event that this changes in the future and one or more recipients of your personal data are located outside the EEA, where data protection laws may be of a lower standard than in the EEA, we will impose the same data protection safeguards that we deploy inside the EEA to ensure that your personal data are always protected.
+
+#### **7\. Retaining and Deleting Personal Data**
+
+7.1 We will keep your personal data for as long as is necessary for the purpose for which we initially collected them. Once such period has ended, we will keep your personal data for the longest of the following periods: a) any retention period set out in our retention policy which is in line with regulatory requirements relating to retention; or (b) the end of the period in which legal action or investigations might arise in respect of the services provided.
+
+7.2 Once the retention period of your personal data lapses, we will ensure that your personal data are either irreversibly anonymised or securely destroyed.
+
+#### **8\. Confidentiality and Security**
+
+8.1 We deploy various security measures such as encryption and authentication tools in line with the current state of the art to protect and maintain the security, integrity and availability of your personal data. 
+
+8.2 100% protection against unauthorised access in the case of data transfers across the internet or a website cannot be guaranteed, but we and our service providers and business partners do our utmost to protect your personal data in line with the prevailing data protection legislation by means of physical and electronic physical precautions. Among other things, we use the following measures:
+
+  * Strict criteria for authorisation to access your personal data on a “need-to-know” basis only and exclusively for the specified purpose;
+
+  * Transfer of acquired data in secured form;
+
+  * Storage of confidential data in our secure servers;
+
+  * Firewall safeguarding of IT systems to provide protection against unauthorised access, and 
+
+  * Continuous monitoring of access to IT systems to detect and prevent the misuse of personal data. 
+
+
+
+
+8.3 If you have received a password from us in order to be able to access certain parts of our Website, you are responsible for keeping this password confidential and for compliance with all other security procedures which we make you aware from time to time. We ask you not to share your password with anyone. 
+
+#### **9.  Cookies**
+
+9.1 Our Website uses cookies to distinguish you from other users of the Website and provide contractual obligations in a high quality level. This helps us to ensure its smooth operation in order to improve your experience. For detailed information on the cookies we use and the purposes for which we use them, please see our [Cookies Policy](https://propellerads.com/cookies/) at https://propellerads.com/cookies/
+
+#### **10\. Changes to this privacy policy**
+
+10.1 We may update this privacy policy from time to time by publishing a new version on our Website. 
+
+10.2 We will notify you appropriately when we make changes to the privacy policy and we will amend its revision date so that you know when we last amended it. We do however encourage you to review this statement periodically so as to always be informed about how we are processing and protecting your personal information. 
+
+10.3 We may notify you of changes to this policy by email or through the private messaging system on our Website.
+
+#### **11 Contacts**
+
+11.1 If you have any questions about our privacy policy or wish to obtain more details in relation to the personal data we process about you or wish to exercise any of your rights set out in Section 5, please contact us via email at: contact.us@propellerads.com
