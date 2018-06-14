@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candycrush-cheats.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206212256id_/http%3A//candycrush-cheats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candycrush-cheats.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614115701id_/http%3A//candycrush-cheats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Candy Crush Cheats
 
@@ -6,7 +6,7 @@ Omada Digital Privacy Policy
 
 As used in this Privacy Policy, “Omada Digital” refers to all websites, mobile sites, applications, and other properties or services owned or operated by Omada Digital.
 
-By visiting http://candycrush-cheats.com, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+By visiting , you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 What This Privacy Policy Covers
 
