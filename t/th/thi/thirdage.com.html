@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thirdage.com privacy policy that was archived on 2017-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171229235236id_/http%3A//thirdage.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thirdage.com privacy policy that was archived on 2018-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180614113821id_/http%3A//thirdage.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><head>
     <title>Privacy Policy | thirdAGE | healthy living  for women + their families</title>
@@ -9,19 +9,21 @@
 		<meta name="viewport" content="width=device-width, initial-scale=0.95">
         <!-- pinterest validation -->
         <meta name="p:domain_verify" content="6f9715137a67596faad7c349e027b019">
-        <link rel="canonical" href="http://thirdage.com">
-        <link rel="shortcut icon" href="http://thirdage-assets.thirdage.com/field/image/thirdage-favicon2.png">
+        <link rel="canonical" href="https://thirdage.com">
+        <link rel="shortcut icon" href="https://thirdage-assets.thirdage.com/field/image/thirdage-favicon2.png">
 
         <!-- typekit fonts -->
-        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4&amp;appId=120236528068816"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://use.typekit.net/ngx5ybr.js"></script>
+        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4&amp;appId=120236528068816"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://use.typekit.net/ngx5ybr.js"></script>
         <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
 		<link href="http://thirdage.com/wp-content/themes/3rdAge/css/bootstrap.min.css" rel="stylesheet" media="screen">
 		<link href="http://thirdage.com/wp-content/themes/3rdAge/css/mark.css" rel="stylesheet" media="screen">
-		<link href="http://thirdage.com/wp-content/themes/3rdAge/style.css?v=1.0066" type="text/css" rel="stylesheet" media="screen, projection">
+		<link href="http://thirdage.com/wp-content/themes/3rdAge/style.css?v=1.0082" type="text/css" rel="stylesheet" media="screen, projection">
 <!--		<link href="--><!--?v=1.0062" type="text/css" rel="stylesheet" media="screen, projection" />-->
         <link rel="stylesheet" href="http://thirdage.com/wp-content/themes/3rdAge/owlcarousel/dist/assets/owl.carousel.min.css">
 
+      <link rel="stylesheet" type="text/css" href="http://thirdage.com/wp-content/themes/3rdAge/slick/slick/slick.css">
+      <link rel="stylesheet" type="text/css" href="http://thirdage.com/wp-content/themes/3rdAge/slick/slick/slick-theme.css">
 
         
         
@@ -45,19 +47,11 @@
 
 
 
-<!-- Asynchronous loading of GPT lib -->
-<script type="text/javascript">
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-    (function(){
-        var gads = document.createElement('script');
-        gads.async = true;
-        gads.type = "text/javascript";
-        var useSSL = "https:" == document.location.protocol;
-        gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-        var node = document.getElementsByTagName("script")[0];
-        node.parentNode.insertBefore(gads, node);
-    })();
+<!-- Start GPT Async Tag -->
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+    var gptadslots = [];
+    var googletag = googletag || {cmd:[]};
 </script>
 
 <script type="text/javascript">
@@ -349,9 +343,6 @@
                 .setTargeting('con',""); //this needs to be defined in PHP
 
             
-            //googletag.pubads().enableSyncRendering(); //this is necessary for interstitials
-            //googletag.pubads().collapseEmptyDivs();
-
 
             //register viewable event handler
             googletag.pubads().addEventListener('impressionViewable', function(e){
@@ -359,6 +350,9 @@
                 window.apViewability.registerViewableImp(slot.getSlotElementId());
             });
 
+
+            googletag.pubads().collapseEmptyDivs();
+            googletag.pubads().enableSingleRequest();
             googletag.enableServices();
 
             window.apViewability.googletag = googletag;
@@ -433,18 +427,18 @@
         '//context.adprimemedia.net/ct/?url=' + encodeURIComponent(ap_url) + '&callback=ap_onCTServiceResponse';
 
     //synchronous loading of CT
-    document.write('<scr' + 'ipt src=\"' + src + '\"></scr' + 'ipt>');
+    //document.write('<scr' + 'ipt src=\"' + src + '\"></scr' + 'ipt>');
 
     setTimeout(function(){
         ap_onCTServiceResponse({
             "keywords":[],
             "urlwords": []
         });
-    },1500);
+    },100);
 
 
 
-</script><script src="https://context.adprimemedia.net/ct/?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20171229235236id_%2Fhttp%253A%2F%2Fthirdage.com%2Fprivacy-policy&amp;callback=ap_onCTServiceResponse"></script>
+</script>
 <!-- END data Controltag -->
 
 
@@ -455,7 +449,7 @@
 	<meta name="keywords" content="to,the,and,thirdAGE,healthy living,women + their families,third age,family,healthy women,condition centers,healthy slideshows,slideshows,healthy videos,video,condition videos,recipes,healthy recipes">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Privacy Policy">
-	<meta property="og:url" content="http://thirdage.com/privacy-policy/">
+	<meta property="og:url" content="https://thirdage.com/privacy-policy/">
 	<meta property="og:site_name" content="thirdAGE">
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@ThirdAge">
@@ -488,7 +482,7 @@ img.emoji {
 <link rel="stylesheet" id="simple-favorites-css" href="http://thirdage.com/wp-content/plugins/favorites/assets/css/simple-favorites.css?ver=1.2.3" type="text/css" media="all">
 <link rel="stylesheet" id="printomatic-css-css" href="http://thirdage.com/wp-content/plugins/print-o-matic/css/style.css?ver=1.2" type="text/css" media="all">
 <link rel="stylesheet" id="taxonomy-image-plugin-public-css" href="http://thirdage.com/wp-content/plugins/taxonomy-images/css/style.css?ver=0.9.6" type="text/css" media="screen">
-<link rel="stylesheet" id="font-awesome-css" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=2c57b0593a108fa5b69df1169ca78719" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=2c57b0593a108fa5b69df1169ca78719" type="text/css" media="all">
 <link rel="stylesheet" id="flex-style-css" href="http://thirdage.com/wp-content/themes/3rdAge/css/flexslider.css?ver=2c57b0593a108fa5b69df1169ca78719" type="text/css" media="all">
 <link rel="stylesheet" id="owl-style-css" href="http://thirdage.com/wp-content/themes/3rdAge/css/owl.carousel.css?ver=2c57b0593a108fa5b69df1169ca78719" type="text/css" media="all">
 <link rel="stylesheet" id="meks-author-widget-css" href="http://thirdage.com/wp-content/plugins/meks-smart-author-widget/css/style.css?ver=1.0.8" type="text/css" media="all">
@@ -500,21 +494,27 @@ img.emoji {
 <script type="text/javascript" src="http://thirdage.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var simple_favorites = {"ajaxurl":"http:\/\/thirdage.com\/wp-admin\/admin-ajax.php","favorite":"<i class=\"sf-icon-star-empty\"><\/i>","favorited":"<i class=\"sf-icon-star-full\"><\/i>","includecount":"","indicate_loading":"","loading_text":"Loading","loading_image":"","loading_image_active":"","loading_image_preload":""};
+var simple_favorites = {"ajaxurl":"https:\/\/thirdage.com\/wp-admin\/admin-ajax.php","favorite":"<i class=\"sf-icon-star-empty\"><\/i>","favorited":"<i class=\"sf-icon-star-full\"><\/i>","includecount":"","indicate_loading":"","loading_text":"Loading","loading_image":"","loading_image_active":"","loading_image_preload":""};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://thirdage.com/wp-content/plugins/favorites/assets/js/simple-favorites.min.js?ver=1.2.3"></script>
 <script type="text/javascript" src="http://thirdage.com/wp-content/plugins/print-o-matic/printomat.js?ver=1.8.4"></script>
-<script type="text/javascript" src="http://thirdage.com/wp-content/plugins/simp-modal-window/js/smp-modal-min.js?ver=1.6"></script>
+<script type="text/javascript" src="https://thirdage.com/wp-content/plugins/simp-modal-window/js/smp-modal-min.js?ver=1.6"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var count_click_object = {"ajaxurl":"https:\/\/thirdage.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://thirdage.comArray?ver=2c57b0593a108fa5b69df1169ca78719"></script>
 <script type="text/javascript" src="http://thirdage.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.2"></script>
-<link rel="https://api.w.org/" href="http://thirdage.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thirdage.com/xmlrpc.php?rsd">
+<link rel="https://api.w.org/" href="https://thirdage.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thirdage.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thirdage.com/wp-includes/wlwmanifest.xml"> 
 
-<link rel="canonical" href="http://thirdage.com/privacy-policy/">
-<link rel="shortlink" href="http://thirdage.com/?p=3001694">
-<link rel="alternate" type="application/json+oembed" href="http://thirdage.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthirdage.com%2Fprivacy-policy%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://thirdage.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthirdage.com%2Fprivacy-policy%2F&amp;format=xml">
+<link rel="canonical" href="https://thirdage.com/privacy-policy/">
+<link rel="shortlink" href="https://thirdage.com/?p=3001694">
+<link rel="alternate" type="application/json+oembed" href="https://thirdage.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthirdage.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://thirdage.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthirdage.com%2Fprivacy-policy%2F&amp;format=xml">
 <script type="text/javascript">
 (function(url){
 	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
@@ -546,7 +546,7 @@ var simple_favorites = {"ajaxurl":"http:\/\/thirdage.com\/wp-admin\/admin-ajax.p
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//thirdage.com/?wordfence_logHuman=1&hid=2A39469ED9B22B79422FD445F8F16648');
+})('//thirdage.com/?wordfence_logHuman=1&hid=A3A82D0565342A078B084B533870FDF4');
 </script>        <script type="text/javascript" charset="utf-8">
             jQuery(window).load(function() {
 
@@ -634,7 +634,7 @@ jQuery('.next').on('click', function(){
 						  ? new XMLHttpRequest()
 						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
 						url = 'http://thirdage.com/wp-admin/admin-ajax.php',
-						params = 'action=update_views_ajax&token=a7c26c2b20&wpp_id=3001694';
+						params = 'action=update_views_ajax&token=90df559d45&wpp_id=3001694';
 						/* Set request method and target URL */
 						xhr.open( "POST", url, true );
 						/* Set request header */
@@ -669,7 +669,7 @@ jQuery('.next').on('click', function(){
  
 	ga('send', 'pageview');
 </script>
-<style type="text/css">.smp-overlay {width:100%; height:100%; position:fixed; top:0; left:0; text-align:center; z-index:9998; display:none;} .smp-overlay * {box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;} .smp-modal {display:inline-block; margin:1em; position:relative; text-align:left; vertical-align:middle; opacity:0; z-index:9999; cursor:auto;} .smp-close {height:24px; width:24px; position:absolute; cursor:pointer;} .smp-counter {position:absolute; font-size:10px;} .smp-modal iframe {border:none;} .simp-scaleUp, .simp-scaleDown {transition:all .5s ease; -moz-transition:all .5s ease; -webkit-transition:all .5s ease; -ms-transition:all .5s ease;} .simp-scaleUp {transform:scale(.1); -moz-transform:scale(.1); -webkit-transform:scale(.1); -ms-transform:scale(.1);} .simp-scaleDown {transform:scale(2);  -moz-transform:scale(2); -webkit-transform:scale(2); -ms-transform:scale(2);} .simp-noScale {transform:scale(1); -moz-transform:scale(1); -webkit-transform:scale(1); -ms-transform:scale(1);}#smp-overlay3057156 {background:rgba(0,0,0,.5);} #smp-overlay3057156 .smp-modal {max-width:; max-height:; background:;} #smp-overlay3057156 .smp-close { top:-8px; left:-8px; background:url(http://thirdage.com/wp-content/plugins/simp-modal-window/images/close4.png) 0 0 no-repeat;}   .smp-overlay .mc4wp-form{
+<style type="text/css">.smp-overlay {width:100%; height:100%; position:fixed; top:0; left:0; text-align:center; z-index:9998; display:none;} .smp-overlay * {box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;} .smp-modal {display:inline-block; margin:1em; position:relative; text-align:left; vertical-align:middle; opacity:0; z-index:9999; cursor:auto;} .smp-close {height:24px; width:24px; position:absolute; cursor:pointer;} .smp-counter {position:absolute; font-size:10px;} .smp-modal iframe {border:none;} .simp-scaleUp, .simp-scaleDown {transition:all .5s ease; -moz-transition:all .5s ease; -webkit-transition:all .5s ease; -ms-transition:all .5s ease;} .simp-scaleUp {transform:scale(.1); -moz-transform:scale(.1); -webkit-transform:scale(.1); -ms-transform:scale(.1);} .simp-scaleDown {transform:scale(2);  -moz-transform:scale(2); -webkit-transform:scale(2); -ms-transform:scale(2);} .simp-noScale {transform:scale(1); -moz-transform:scale(1); -webkit-transform:scale(1); -ms-transform:scale(1);}#smp-overlay3057156 {background:rgba(0,0,0,.5);} #smp-overlay3057156 .smp-modal {max-width:; max-height:; background:;} #smp-overlay3057156 .smp-close { top:-8px; left:-8px; background:url(https://thirdage.com/wp-content/plugins/simp-modal-window/images/close4.png) 0 0 no-repeat;}   .smp-overlay .mc4wp-form{
     width:100%
   }
 
@@ -742,7 +742,7 @@ var easy_fancybox_auto = function(){
         <nav class="navbar nav" role="navigation">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div id="sb-search" class="sb-search">
-        <form method="get" action="http://thirdage.com/" role="search">
+        <form method="get" action="https://thirdage.com/" role="search">
             <input type="text" class="field sb-search-input" name="s" value="" id="s" placeholder="Search by topic or keyword...">
             <input type="submit" class="submit sb-search-submit" name="submit" id="searchsubmit" value="Search">
             <span class="sb-icon-search"><i class="glyphicon glyphicon-search"></i></span>
@@ -754,17 +754,17 @@ var easy_fancybox_auto = function(){
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="http://thirdage.com"><img src="http://thirdage.com/wp-content/themes/3rdAge/img/logo.png" width="250" height="56"></a>
+        <a class="navbar-brand" href="https://thirdage.com"><img src="http://thirdage.com/wp-content/themes/3rdAge/img/logo.png" width="250" height="56"></a>
         </div>
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse navmenu-fixed-left offcanvas">
 
-	  <ul id="menu-main-navigation" class="nav navbar-nav navbar-right"><li id="menu-item-3001703" class="health-az menu-item menu-item-type-post_type menu-item-object-page menu-item-3001703"><a href="http://thirdage.com/health/">Health A-Z</a></li>
-<li id="menu-item-3001949" class="living-well menu-item menu-item-type-post_type menu-item-object-page menu-item-3001949"><a href="http://thirdage.com/living-well/">Living Well</a></li>
-<li id="menu-item-3001948" class="food menu-item menu-item-type-post_type menu-item-object-page menu-item-3001948"><a href="http://thirdage.com/food/">Food</a></li>
-<li id="menu-item-3001700" class="fitness menu-item menu-item-type-post_type menu-item-object-page menu-item-3001700"><a href="http://thirdage.com/fitness/">Fitness</a></li>
-<li id="menu-item-3001946" class="family menu-item menu-item-type-post_type menu-item-object-page menu-item-3001946"><a href="http://thirdage.com/family/">Family</a></li>
-<li id="menu-item-3051910" class="video menu-item menu-item-type-post_type menu-item-object-page menu-item-3051910"><a href="http://thirdage.com/videos/">Video</a></li>
+	  <ul id="menu-main-navigation" class="nav navbar-nav navbar-right"><li id="menu-item-3001703" class="health-az menu-item menu-item-type-post_type menu-item-object-page menu-item-3001703"><a href="https://thirdage.com/health/">Health A-Z</a></li>
+<li id="menu-item-3001949" class="living-well menu-item menu-item-type-post_type menu-item-object-page menu-item-3001949"><a href="https://thirdage.com/living-well/">Living Well</a></li>
+<li id="menu-item-3001948" class="food menu-item menu-item-type-post_type menu-item-object-page menu-item-3001948"><a href="https://thirdage.com/food/">Food</a></li>
+<li id="menu-item-3001700" class="fitness menu-item menu-item-type-post_type menu-item-object-page menu-item-3001700"><a href="https://thirdage.com/fitness/">Fitness</a></li>
+<li id="menu-item-3001946" class="family menu-item menu-item-type-post_type menu-item-object-page menu-item-3001946"><a href="https://thirdage.com/family/">Family</a></li>
+<li id="menu-item-3051910" class="video menu-item menu-item-type-post_type menu-item-object-page menu-item-3051910"><a href="https://thirdage.com/videos/">Video</a></li>
 </ul>    	<ul id="menu-sub">
         
             <li class="health-az" style="display:none;">
@@ -774,145 +774,145 @@ var easy_fancybox_auto = function(){
 
                                                 <div class="hcNav health-headlines">
                             <h3>Health Centers</h3>
-                            <div class="menu-health-a-z-submenu-container"><ul id="menu-health-a-z-submenu" class="menu"><li id="menu-item-3001955" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001955"><a href="http://thirdage.com/category/health/womens-health/">Women’s Health</a>
+                            <div class="menu-health-a-z-submenu-container"><ul id="menu-health-a-z-submenu" class="menu"><li id="menu-item-3001955" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001955"><a href="https://thirdage.com/category/health/womens-health/">Women’s Health</a>
 <ul class="sub-menu">
-	<li id="menu-item-3002026" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002026"><a href="http://thirdage.com/category/health/womens-health/breast-cancer-womens-health/">Breast cancer</a></li>
-	<li id="menu-item-3002027" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002027"><a href="http://thirdage.com/category/health/womens-health/menopause/">Menopause</a></li>
-	<li id="menu-item-3002028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002028"><a href="http://thirdage.com/category/health/womens-health/overactive-bladder-oab-incontinence/">Overactive Bladder (OAB) &amp; Incontinence</a></li>
-	<li id="menu-item-3002029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002029"><a href="http://thirdage.com/category/health/womens-health/polycystic-ovarian-syndrome-pcos/">Polycystic Ovarian Syndrome (PCOS)</a></li>
-	<li id="menu-item-3002030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002030"><a href="http://thirdage.com/category/health/womens-health/vaginal-infections/">Vaginal Infections</a></li>
+	<li id="menu-item-3002026" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002026"><a href="https://thirdage.com/category/health/womens-health/breast-cancer-womens-health/">Breast Cancer</a></li>
+	<li id="menu-item-3002027" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002027"><a href="https://thirdage.com/category/health/womens-health/menopause/">Menopause</a></li>
+	<li id="menu-item-3002028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002028"><a href="https://thirdage.com/category/health/womens-health/overactive-bladder-oab-incontinence/">Overactive Bladder (OAB) + Incontinence</a></li>
+	<li id="menu-item-3002029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002029"><a href="https://thirdage.com/category/health/womens-health/polycystic-ovarian-syndrome-pcos/">Polycystic Ovarian Syndrome (PCOS)</a></li>
+	<li id="menu-item-3002030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002030"><a href="https://thirdage.com/category/health/womens-health/vaginal-infections/">Vaginal Infections</a></li>
 </ul>
 </li>
-<li id="menu-item-3001985" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001985"><a href="http://thirdage.com/category/health/heart-health/">Heart Health</a>
+<li id="menu-item-3001985" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001985"><a href="https://thirdage.com/category/health/heart-health/">Heart Health</a>
 <ul class="sub-menu">
-	<li id="menu-item-3002020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002020"><a href="http://thirdage.com/category/health/heart-health/congestive-heart-failure/">Congestive Heart Failure</a></li>
-	<li id="menu-item-3002016" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002016"><a href="http://thirdage.com/category/health/heart-health/atrial-fibrillation/">Atrial Fibrillation</a></li>
-	<li id="menu-item-3002017" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002017"><a href="http://thirdage.com/category/health/heart-health/coronary-artery-disease/">Coronary Artery Disease</a></li>
-	<li id="menu-item-3002018" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002018"><a href="http://thirdage.com/category/health/heart-health/high-blood-pressure-hypertension/">High blood pressure / hypertension</a></li>
-	<li id="menu-item-3002019" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002019"><a href="http://thirdage.com/category/health/heart-health/high-cholesterol/">High Cholesterol</a></li>
+	<li id="menu-item-3002020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002020"><a href="https://thirdage.com/category/health/heart-health/congestive-heart-failure/">Congestive Heart Failure</a></li>
+	<li id="menu-item-3002016" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002016"><a href="https://thirdage.com/category/health/heart-health/atrial-fibrillation/">Atrial Fibrillation</a></li>
+	<li id="menu-item-3002017" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002017"><a href="https://thirdage.com/category/health/heart-health/coronary-artery-disease/">Coronary Artery Disease</a></li>
+	<li id="menu-item-3002018" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002018"><a href="https://thirdage.com/category/health/heart-health/high-blood-pressure-hypertension/">High Blood Pressure / Hypertension</a></li>
+	<li id="menu-item-3002019" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002019"><a href="https://thirdage.com/category/health/heart-health/high-cholesterol/">High Cholesterol</a></li>
 </ul>
 </li>
-<li id="menu-item-3001988" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001988"><a href="http://thirdage.com/category/health/mental-emotional-health/">Mental &amp; Emotional Health</a>
+<li id="menu-item-3001988" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001988"><a href="https://thirdage.com/category/health/mental-emotional-health/">Mental + Emotional Health</a>
 <ul class="sub-menu">
-	<li id="menu-item-3002021" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002021"><a href="http://thirdage.com/category/health/mental-emotional-health/adhd/">ADHD</a></li>
-	<li id="menu-item-3002022" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002022"><a href="http://thirdage.com/category/health/mental-emotional-health/anxiety-panic-disorders-phobias/">Anxiety (Panic Disorders, Phobias)</a></li>
-	<li id="menu-item-3002023" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002023"><a href="http://thirdage.com/category/health/mental-emotional-health/bipolar-disorder/">Bipolar disorder</a></li>
-	<li id="menu-item-3002024" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002024"><a href="http://thirdage.com/category/health/mental-emotional-health/eating-disorders-anorexiabulemia-hypergymnasia-etc/">Eating Disorders (anorexia/bulemia, hypergymnasia, etc.)</a></li>
-	<li id="menu-item-3002025" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002025"><a href="http://thirdage.com/category/health/mental-emotional-health/stress-management/">Stress Management</a></li>
+	<li id="menu-item-3002021" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002021"><a href="https://thirdage.com/category/health/mental-emotional-health/adhd/">ADHD</a></li>
+	<li id="menu-item-3002022" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002022"><a href="https://thirdage.com/category/health/mental-emotional-health/anxiety-panic-disorders-phobias/">Anxiety (Panic Disorders, Phobias)</a></li>
+	<li id="menu-item-3002023" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002023"><a href="https://thirdage.com/category/health/mental-emotional-health/bipolar-disorder/">Bipolar Disorder</a></li>
+	<li id="menu-item-3002024" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002024"><a href="https://thirdage.com/category/health/mental-emotional-health/eating-disorders-anorexiabulemia-hypergymnasia-etc/">Eating Disorders (Anorexia, Bulimia, Hypergymnasia, etc.)</a></li>
+	<li id="menu-item-3002025" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002025"><a href="https://thirdage.com/category/health/mental-emotional-health/stress-management/">Stress Management</a></li>
 </ul>
 </li>
-<li id="menu-item-3001991" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001991"><a href="http://thirdage.com/category/health/skin-health/">Skin Health</a>
+<li id="menu-item-3001991" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001991"><a href="https://thirdage.com/category/health/skin-health/">Skin Health</a>
 <ul class="sub-menu">
-	<li id="menu-item-3002036" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002036"><a href="http://thirdage.com/category/health/skin-health/toe-nail-fungus-onychomycosis/">Toe Nail Fungus (Onychomycosis)</a></li>
-	<li id="menu-item-3002038" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002038"><a href="http://thirdage.com/category/health/skin-health/psoriasis/">Psoriasis</a></li>
-	<li id="menu-item-3002040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002040"><a href="http://thirdage.com/category/health/skin-health/rashes-and-other-skin-problems-dermatitis-eczema-rashes/">Rashes and other Skin Problems (dermatitis, Eczema, rashes)</a></li>
-	<li id="menu-item-3002039" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002039"><a href="http://thirdage.com/category/health/skin-health/malignant-melanoma-skin-health/">Malignant Melanoma</a></li>
-	<li id="menu-item-3002037" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002037"><a href="http://thirdage.com/category/health/skin-health/skin-cancer-skin-health/">Skin cancer</a></li>
+	<li id="menu-item-3002036" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002036"><a href="https://thirdage.com/category/health/skin-health/toe-nail-fungus-onychomycosis/">Toe Nail Fungus (Onychomycosis)</a></li>
+	<li id="menu-item-3002038" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002038"><a href="https://thirdage.com/category/health/skin-health/psoriasis/">Psoriasis</a></li>
+	<li id="menu-item-3002040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002040"><a href="https://thirdage.com/category/health/skin-health/rashes-and-other-skin-problems-dermatitis-eczema-rashes/">Rashes + Skin Problems (Dermatitis, Eczema, Rashes)</a></li>
+	<li id="menu-item-3002039" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002039"><a href="https://thirdage.com/category/health/skin-health/malignant-melanoma-skin-health/">Malignant Melanoma</a></li>
+	<li id="menu-item-3002037" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002037"><a href="https://thirdage.com/category/health/skin-health/skin-cancer-skin-health/">Skin Cancer</a></li>
 </ul>
 </li>
-<li id="menu-item-3001990" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001990"><a href="http://thirdage.com/category/health/sexual-health/">Sexual Health</a></li>
-<li id="menu-item-3001951" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001951"><a href="http://thirdage.com/category/health/bone-health/">Bone and Joint Health</a>
+<li id="menu-item-3001990" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001990"><a href="https://thirdage.com/category/health/sexual-health/">Sexual Health</a></li>
+<li id="menu-item-3001951" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001951"><a href="https://thirdage.com/category/health/bone-health/">Bone + Joint Health</a>
 <ul class="sub-menu">
-	<li id="menu-item-3002041" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002041"><a href="http://thirdage.com/category/health/bone-health/back-pain/">Back Pain</a></li>
-	<li id="menu-item-3002042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002042"><a href="http://thirdage.com/category/health/senior-health/hip-health/">Hip Health</a></li>
-	<li id="menu-item-3056766" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3056766"><a href="http://thirdage.com/category/health/bone-health/hip-health-bone-health/hip-replacement/">Hip Replacement</a></li>
-	<li id="menu-item-3002043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002043"><a href="http://thirdage.com/category/health/bone-health/knee-pain/">Knee Pain</a></li>
-	<li id="menu-item-3056765" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3056765"><a href="http://thirdage.com/category/health/bone-health/osteoarthritis-bone-health/">Osteoarthritis</a></li>
-	<li id="menu-item-3002044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002044"><a href="http://thirdage.com/category/health/senior-health/osteoporosis-senior-health/">Osteoporosis</a></li>
-	<li id="menu-item-3056767" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3056767"><a href="http://thirdage.com/category/health/bone-health/rheumatoid-arthritis/">Rheumatoid Arthritis</a></li>
-	<li id="menu-item-3002045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002045"><a href="http://thirdage.com/category/health/senior-health/spinal-fracture/">Spinal Fracture</a></li>
+	<li id="menu-item-3002041" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002041"><a href="https://thirdage.com/category/health/bone-health/back-pain/">Back Pain</a></li>
+	<li id="menu-item-3002042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002042"><a href="https://thirdage.com/category/health/senior-health/hip-health/">Hip Health</a></li>
+	<li id="menu-item-3056766" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3056766"><a href="https://thirdage.com/category/health/bone-health/hip-health-bone-health/hip-replacement/">Hip Replacement</a></li>
+	<li id="menu-item-3002043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002043"><a href="https://thirdage.com/category/health/bone-health/knee-pain/">Knee Pain</a></li>
+	<li id="menu-item-3056765" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3056765"><a href="https://thirdage.com/category/health/bone-health/osteoarthritis-bone-health/">Osteoarthritis</a></li>
+	<li id="menu-item-3002044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002044"><a href="https://thirdage.com/category/health/senior-health/osteoporosis-senior-health/">Osteoporosis</a></li>
+	<li id="menu-item-3056767" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3056767"><a href="https://thirdage.com/category/health/bone-health/rheumatoid-arthritis/">Rheumatoid Arthritis</a></li>
+	<li id="menu-item-3002045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002045"><a href="https://thirdage.com/category/health/senior-health/spinal-fracture/">Spinal Fracture</a></li>
 </ul>
 </li>
-<li id="menu-item-3001952" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001952"><a href="http://thirdage.com/category/health/cancer-center/">Cancer Center</a>
+<li id="menu-item-3001952" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001952"><a href="https://thirdage.com/category/health/cancer-center/">Cancer Center</a>
 <ul class="sub-menu">
-	<li id="menu-item-3002012" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002012"><a href="http://thirdage.com/category/health/cancer-center/colon-and-rectal-cancer/">Colon and rectal cancer</a></li>
-	<li id="menu-item-3002011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002011"><a href="http://thirdage.com/category/health/cancer-center/lung-cancer/">Lung cancer</a></li>
-	<li id="menu-item-3002009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002009"><a href="http://thirdage.com/category/health/cancer-center/non-hodgkin-lymphoma/">Non-Hodgkin Lymphoma</a></li>
-	<li id="menu-item-3002013" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002013"><a href="http://thirdage.com/category/health/cancer-center/ovarian-cancer/">Ovarian Cancer</a></li>
-	<li id="menu-item-3002010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002010"><a href="http://thirdage.com/category/health/cancer-center/skin-cancer/">Skin cancer</a></li>
-	<li id="menu-item-3002014" class="bold menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002014"><a href="http://thirdage.com/category/health/cancer-center/">See All &gt;</a></li>
+	<li id="menu-item-3002012" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002012"><a href="https://thirdage.com/category/health/cancer-center/colon-and-rectal-cancer/">Colon + Rectal Cancer</a></li>
+	<li id="menu-item-3002011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002011"><a href="https://thirdage.com/category/health/cancer-center/lung-cancer/">Lung Cancer</a></li>
+	<li id="menu-item-3002009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002009"><a href="https://thirdage.com/category/health/cancer-center/non-hodgkin-lymphoma/">Non-Hodgkin’s Lymphoma</a></li>
+	<li id="menu-item-3002013" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002013"><a href="https://thirdage.com/category/health/cancer-center/ovarian-cancer/">Ovarian Cancer</a></li>
+	<li id="menu-item-3002010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002010"><a href="https://thirdage.com/category/health/cancer-center/skin-cancer/">Skin Cancer</a></li>
+	<li id="menu-item-3002014" class="bold menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002014"><a href="https://thirdage.com/category/health/cancer-center/">See All &gt;</a></li>
 </ul>
 </li>
-<li id="menu-item-3001987" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001987"><a href="http://thirdage.com/category/health/mens-health/">Men’s Health</a></li>
-<li id="menu-item-3001954" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001954"><a href="http://thirdage.com/category/health/senior-health/">Senior Health</a>
+<li id="menu-item-3001987" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001987"><a href="https://thirdage.com/category/health/mens-health/">Men’s Health</a></li>
+<li id="menu-item-3001954" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001954"><a href="https://thirdage.com/category/health/senior-health/">Senior Health</a>
 <ul class="sub-menu">
-	<li id="menu-item-3002046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002046"><a href="http://thirdage.com/category/health/brain-health/alzheimers-disease-and-other-dementias-brain-health/">Alzheimer’s Disease and other Dementias</a></li>
-	<li id="menu-item-3002052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002052"><a href="http://thirdage.com/category/health/senior-health/hearing-loss/">Hearing Loss</a></li>
-	<li id="menu-item-3002053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002053"><a href="http://thirdage.com/category/health/senior-health/osteoporosis-senior-health/">Osteoporosis</a></li>
-	<li id="menu-item-3002054" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002054"><a href="http://thirdage.com/category/health/senior-health/parkinsons-disease/">Parkinson’s Disease</a></li>
-	<li id="menu-item-3002055" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002055"><a href="http://thirdage.com/category/health/brain-health/memory-loss-brain-health/">Memory Loss</a></li>
+	<li id="menu-item-3002046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002046"><a href="https://thirdage.com/category/health/brain-health/alzheimers-disease-and-other-dementias-brain-health/">Alzheimer’s Disease + Dementias</a></li>
+	<li id="menu-item-3002052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002052"><a href="https://thirdage.com/category/health/senior-health/hearing-loss/">Hearing Loss</a></li>
+	<li id="menu-item-3002053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002053"><a href="https://thirdage.com/category/health/senior-health/osteoporosis-senior-health/">Osteoporosis</a></li>
+	<li id="menu-item-3002054" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002054"><a href="https://thirdage.com/category/health/senior-health/parkinsons-disease/">Parkinson’s Disease</a></li>
+	<li id="menu-item-3002055" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002055"><a href="https://thirdage.com/category/health/brain-health/memory-loss-brain-health/">Memory Loss</a></li>
 </ul>
 </li>
-<li id="menu-item-3001986" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001986"><a href="http://thirdage.com/category/health/kids-teen-health/">Kid’s &amp; Teen Health</a></li>
-<li id="menu-item-3001984" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001984"><a href="http://thirdage.com/category/health/brain-health/">Brain Health</a>
+<li id="menu-item-3001986" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001986"><a href="https://thirdage.com/category/health/kids-teen-health/">Kid’s &amp; Teen Health</a></li>
+<li id="menu-item-3001984" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001984"><a href="https://thirdage.com/category/health/brain-health/">Brain Health</a>
 <ul class="sub-menu">
-	<li id="menu-item-3002047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002047"><a href="http://thirdage.com/category/health/brain-health/concussions-and-other-common-head-injuries/">Concussions and other common head injuries</a></li>
-	<li id="menu-item-3002051" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002051"><a href="http://thirdage.com/category/health/brain-health/alzheimers-disease-and-other-dementias-brain-health/">Alzheimer’s Disease and other Dementias</a></li>
-	<li id="menu-item-3002048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002048"><a href="http://thirdage.com/category/health/brain-health/migraine/">Migraine</a></li>
-	<li id="menu-item-3002049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002049"><a href="http://thirdage.com/category/health/brain-health/parkinsons-disease-brain-health/">Parkinson’s Disease</a></li>
-	<li id="menu-item-3002050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002050"><a href="http://thirdage.com/category/health/heart-health/stroke/">Stroke</a></li>
+	<li id="menu-item-3002047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002047"><a href="https://thirdage.com/category/health/brain-health/concussions-and-other-common-head-injuries/">Concussions + Common Head Injuries</a></li>
+	<li id="menu-item-3002051" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002051"><a href="https://thirdage.com/category/health/brain-health/alzheimers-disease-and-other-dementias-brain-health/">Alzheimer’s Disease + Dementias</a></li>
+	<li id="menu-item-3002048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002048"><a href="https://thirdage.com/category/health/brain-health/migraine/">Migraine</a></li>
+	<li id="menu-item-3002049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002049"><a href="https://thirdage.com/category/health/brain-health/parkinsons-disease-brain-health/">Parkinson’s Disease</a></li>
+	<li id="menu-item-3002050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002050"><a href="https://thirdage.com/category/health/heart-health/stroke/">Stroke</a></li>
 </ul>
 </li>
-<li id="menu-item-3001989" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001989"><a href="http://thirdage.com/category/health/pain-management/">Pain Management Center</a></li>
-<li id="menu-item-3001953" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001953"><a href="http://thirdage.com/category/health/digestive-health/">Digestive Health</a>
+<li id="menu-item-3001989" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001989"><a href="https://thirdage.com/category/health/pain-management/">Pain Management Center</a></li>
+<li id="menu-item-3001953" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001953"><a href="https://thirdage.com/category/health/digestive-health/">Digestive Health</a>
 <ul class="sub-menu">
-	<li id="menu-item-3002031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002031"><a href="http://thirdage.com/category/health/digestive-health/constipation/">Constipation</a></li>
-	<li id="menu-item-3002032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002032"><a href="http://thirdage.com/category/health/digestive-health/crohns-disease/">Crohn’s disease</a></li>
-	<li id="menu-item-3002033" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002033"><a href="http://thirdage.com/category/health/digestive-health/ibs/">IBS</a></li>
-	<li id="menu-item-3002034" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002034"><a href="http://thirdage.com/category/health/digestive-health/ulcerative-colitis/">Ulcerative colitis</a></li>
-	<li id="menu-item-3002035" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002035"><a href="http://thirdage.com/category/health/digestive-health/ulcers/">Ulcers</a></li>
+	<li id="menu-item-3002031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002031"><a href="https://thirdage.com/category/health/digestive-health/constipation/">Constipation</a></li>
+	<li id="menu-item-3002032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002032"><a href="https://thirdage.com/category/health/digestive-health/crohns-disease/">Crohn’s Disease</a></li>
+	<li id="menu-item-3002033" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002033"><a href="https://thirdage.com/category/health/digestive-health/ibs/">IBS</a></li>
+	<li id="menu-item-3002034" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002034"><a href="https://thirdage.com/category/health/digestive-health/ulcerative-colitis/">Ulcerative Colitis</a></li>
+	<li id="menu-item-3002035" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002035"><a href="https://thirdage.com/category/health/digestive-health/ulcers/">Ulcers</a></li>
 </ul>
 </li>
-<li id="menu-item-3001992" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001992"><a href="http://thirdage.com/category/health/vision-health/">Eye Health</a></li>
+<li id="menu-item-3001992" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001992"><a href="https://thirdage.com/category/health/vision-health/">Eye Health</a></li>
 </ul></div>                        </div>
                         <div class="hcNav top-conditions">
                             <h3>Top Conditions</h3>
-                            <div class="menu-health-a-z-top-conditions-container"><ul id="menu-health-a-z-top-conditions" class="menu"><li id="menu-item-3017051" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-has-children menu-item-3017051"><a href="http://thirdage.com/condition/diabetes-2/">Diabetes</a>
+                            <div class="menu-health-a-z-top-conditions-container"><ul id="menu-health-a-z-top-conditions" class="menu"><li id="menu-item-3017051" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-has-children menu-item-3017051"><a href="https://thirdage.com/condition/diabetes-2/">Diabetes</a>
 <ul class="sub-menu">
-	<li id="menu-item-3017054" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017054"><a href="http://thirdage.com/condition/diabetic-retinopathy-2/">Diabetic Retinopathy</a></li>
-	<li id="menu-item-3017055" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017055"><a href="http://thirdage.com/condition/diabetes-2/">Diabetes Overview</a></li>
-	<li id="menu-item-3017052" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017052"><a href="http://thirdage.com/condition/type-1-diabetes/">Type 1 Diabetes</a></li>
-	<li id="menu-item-3017053" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017053"><a href="http://thirdage.com/condition/type-2-diabetes/">Type 2 Diabetes</a></li>
+	<li id="menu-item-3017054" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017054"><a href="https://thirdage.com/condition/diabetic-retinopathy-2/">Diabetic Retinopathy</a></li>
+	<li id="menu-item-3017055" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017055"><a href="https://thirdage.com/condition/diabetes-2/">Diabetes Overview</a></li>
+	<li id="menu-item-3017052" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017052"><a href="https://thirdage.com/condition/type-1-diabetes/">Type 1 Diabetes</a></li>
+	<li id="menu-item-3017053" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017053"><a href="https://thirdage.com/condition/type-2-diabetes/">Type 2 Diabetes</a></li>
 </ul>
 </li>
-<li id="menu-item-3017057" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-has-children menu-item-3017057"><a href="http://thirdage.com/condition/rheumatoid-arthritis-3/">Arthritis</a>
+<li id="menu-item-3017057" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-has-children menu-item-3017057"><a href="https://thirdage.com/condition/rheumatoid-arthritis-3/">Arthritis</a>
 <ul class="sub-menu">
-	<li id="menu-item-3017058" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017058"><a href="http://thirdage.com/condition/rheumatoid-arthritis-3/">Rheumatoid Arthritis</a></li>
-	<li id="menu-item-3017056" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017056"><a href="http://thirdage.com/condition/osteoarthritis-4/">Osteoarthritis</a></li>
+	<li id="menu-item-3017058" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017058"><a href="https://thirdage.com/condition/rheumatoid-arthritis-3/">Rheumatoid Arthritis</a></li>
+	<li id="menu-item-3017056" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017056"><a href="https://thirdage.com/condition/osteoarthritis-4/">Osteoarthritis</a></li>
 </ul>
 </li>
-<li id="menu-item-3017059" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-has-children menu-item-3017059"><a href="http://thirdage.com/condition/multiple-sclerosis/">Multiple Sclerosis</a>
+<li id="menu-item-3017059" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-has-children menu-item-3017059"><a href="https://thirdage.com/condition/multiple-sclerosis/">Multiple Sclerosis</a>
 <ul class="sub-menu">
-	<li id="menu-item-3017060" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017060"><a href="http://thirdage.com/condition/multiple-sclerosis/">Multiple Sclerosis Overview</a></li>
-	<li id="menu-item-3017061" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017061"><a href="http://thirdage.com/condition/rrms-2/">RRMS</a></li>
+	<li id="menu-item-3017060" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017060"><a href="https://thirdage.com/condition/multiple-sclerosis/">Multiple Sclerosis Overview</a></li>
+	<li id="menu-item-3017061" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017061"><a href="https://thirdage.com/condition/rrms-2/">RRMS</a></li>
 </ul>
 </li>
-<li id="menu-item-3017065" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017065"><a href="http://thirdage.com/condition/insomnia-4/">Insomnia</a></li>
-<li id="menu-item-3017062" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017062"><a href="http://thirdage.com/condition/alzheimers-disease-2/">Alzheimer’s Disease</a></li>
-<li id="menu-item-3017063" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017063"><a href="http://thirdage.com/condition/depression-3/">Depression</a></li>
-<li id="menu-item-3017064" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017064"><a href="http://thirdage.com/condition/aidshiv-2/">AIDS/HIV</a></li>
-<li id="menu-item-3017068" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-has-children menu-item-3017068"><a href="http://thirdage.com/?post_type=conditions&amp;p=3012386">Hepatitis</a>
+<li id="menu-item-3017065" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017065"><a href="https://thirdage.com/condition/insomnia-4/">Insomnia</a></li>
+<li id="menu-item-3017062" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017062"><a href="https://thirdage.com/condition/alzheimers-disease-2/">Alzheimer’s Disease</a></li>
+<li id="menu-item-3017063" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017063"><a href="https://thirdage.com/condition/depression-3/">Depression</a></li>
+<li id="menu-item-3017064" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017064"><a href="https://thirdage.com/condition/aidshiv-2/">AIDS/HIV</a></li>
+<li id="menu-item-3017068" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-has-children menu-item-3017068"><a href="https://thirdage.com/?post_type=conditions&amp;p=3012386">Hepatitis</a>
 <ul class="sub-menu">
-	<li id="menu-item-3017066" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017066"><a href="http://thirdage.com/condition/hepatitis-b-2/">Hepatitis B</a></li>
-	<li id="menu-item-3017067" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017067"><a href="http://thirdage.com/?post_type=conditions&amp;p=3012386">Hepatitis-C</a></li>
+	<li id="menu-item-3017066" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017066"><a href="https://thirdage.com/condition/hepatitis-b-2/">Hepatitis B</a></li>
+	<li id="menu-item-3017067" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017067"><a href="https://thirdage.com/?post_type=conditions&amp;p=3012386">Hepatitis-C</a></li>
 </ul>
 </li>
-<li id="menu-item-3017069" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-has-children menu-item-3017069"><a href="http://thirdage.com/condition/breast-cancer-4/">Breast Cancer</a>
+<li id="menu-item-3017069" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-has-children menu-item-3017069"><a href="https://thirdage.com/condition/breast-cancer-4/">Breast Cancer</a>
 <ul class="sub-menu">
-	<li id="menu-item-3017070" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017070"><a href="http://thirdage.com/condition/breast-cancer-4/">Breast Cancer</a></li>
-	<li id="menu-item-3017071" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017071"><a href="http://thirdage.com/condition/metastatic-breast-cancer-2/">Metastatic Breast Cancer</a></li>
+	<li id="menu-item-3017070" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017070"><a href="https://thirdage.com/condition/breast-cancer-4/">Breast Cancer</a></li>
+	<li id="menu-item-3017071" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017071"><a href="https://thirdage.com/condition/metastatic-breast-cancer-2/">Metastatic Breast Cancer</a></li>
 </ul>
 </li>
-<li id="menu-item-3004635" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3004635"><a href="http://thirdage.com/?post_type=conditions&amp;p=3001869">Heart Attack</a></li>
-<li id="menu-item-3017072" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-has-children menu-item-3017072"><a href="http://thirdage.com/condition/menopause-3/">Menopause</a>
+<li id="menu-item-3004635" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3004635"><a href="https://thirdage.com/?post_type=conditions&amp;p=3001869">Heart Attack</a></li>
+<li id="menu-item-3017072" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-has-children menu-item-3017072"><a href="https://thirdage.com/condition/menopause-3/">Menopause</a>
 <ul class="sub-menu">
-	<li id="menu-item-3017074" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017074"><a href="http://thirdage.com/condition/perimenopause-2/">Perimenopause</a></li>
-	<li id="menu-item-3017073" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017073"><a href="http://thirdage.com/condition/menopause-3/">Menopause</a></li>
-	<li id="menu-item-3017075" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017075"><a href="http://thirdage.com/condition/postmenopause-2/">Postmenopause</a></li>
+	<li id="menu-item-3017074" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017074"><a href="https://thirdage.com/condition/perimenopause-2/">Perimenopause</a></li>
+	<li id="menu-item-3017073" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017073"><a href="https://thirdage.com/condition/menopause-3/">Menopause</a></li>
+	<li id="menu-item-3017075" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017075"><a href="https://thirdage.com/condition/postmenopause-2/">Postmenopause</a></li>
 </ul>
 </li>
-<li id="menu-item-3017076" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017076"><a href="http://thirdage.com/condition/heartburngerd-2/">Heartburn/GERD</a></li>
-<li id="menu-item-3002015" class="bold menu-item menu-item-type-post_type menu-item-object-page menu-item-3002015"><a href="http://thirdage.com/conditions/">VIEW ALL &gt;</a></li>
+<li id="menu-item-3017076" class="menu-item menu-item-type-post_type menu-item-object-conditions menu-item-3017076"><a href="https://thirdage.com/condition/heartburngerd-2/">Heartburn/GERD</a></li>
+<li id="menu-item-3002015" class="bold menu-item menu-item-type-post_type menu-item-object-page menu-item-3002015"><a href="https://thirdage.com/conditions/">VIEW ALL &gt;</a></li>
 </ul></div>                        </div>
                         
                     </div>
@@ -921,39 +921,39 @@ var easy_fancybox_auto = function(){
                 
 
 
-                                                <h3>Health Headlines<a href="http://thirdage.com/health/" class="see-all">See all</a></h3>
+                                                <h3>Health Headlines<a href="https://thirdage.com/health/" class="see-all">See all</a></h3>
                         
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/experts-disagree-on-value-of-a-genetic-test-for-breast-cancer-patients/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/DNA-illustration-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="DNA illustration" srcset="http://thirdage-assets.thirdage.com/field/image/DNA-illustration-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/DNA-illustration-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/DNA-illustration-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="https://thirdage.com/what-caregivers-must-know-about-dental-needs-after-a-loved-one-has-a-stroke/"><img width="226" height="226" src="http://thirdage-assets.thirdage.com/field/image/dental-care-226x226.jpg" class="attachment-sq-thumb size-sq-thumb wp-post-image" alt="dental-care" srcset="http://thirdage-assets.thirdage.com/field/image/dental-care-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/dental-care-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/dental-care-150x150.jpg 150w" sizes="(max-width: 226px) 100vw, 226px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <a href="http://thirdage.com/category/health/health-headlines/"><h6 class="topic bg-health bg-health-headlines bg-">Health Headlines</h6></a>
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/experts-disagree-on-value-of-a-genetic-test-for-breast-cancer-patients/">Experts Disagree on Value of A Genetic Test for Breast-Cancer Patients</a></h2>
-                                    <div class="authorInfo">December 29, 2017 by <a href="http://thirdage.com/author/jane-farrell/" class="author-name">Jane Farrell</a> <img src="http://2.gravatar.com/avatar/242ba8207cc08bf737e4e70f06c9115c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
-                                <p>The American Society of Clinical Oncology (ASCO) recently updated its guideline on biomarkers with regard to the MammaPrint genetic test, … <strong><a href="http://thirdage.com/experts-disagree-on-value-of-a-genetic-test-for-breast-cancer-patients/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <a href="https://thirdage.com/category/family/caregiving/"><h6 class="topic bg-family bg-caregiving bg-">Caregiving</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="https://thirdage.com/what-caregivers-must-know-about-dental-needs-after-a-loved-one-has-a-stroke/">What Caregivers Must Know About Dental Needs After a  Loved One Has a Stroke</a></h2>
+                                    <div class="authorInfo">June 14, 2018 by <a href="https://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://1.gravatar.com/avatar/714c6ce22ddc83301c49c269c3399ace?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>Dentistry isn’t normally on the priority list for caregivers of stroke patients, but it should be. The person in recovery … <strong><a href="https://thirdage.com/what-caregivers-must-know-about-dental-needs-after-a-loved-one-has-a-stroke/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
 
                                                           <div class="vidTease" style="padding-top:20px;margin-top:10px;border-top:solid thiN #CCC;">
-                                                                                <h3>Videos<a href="http://thirdage.com/videos/" class="see-all">See all</a></h3>
+                                                                                <h3>Videos<a href="https://thirdage.com/videos/" class="see-all">See all</a></h3>
 
                       							<div class="row">
                             <div class="col-sm-4 secImg">
 
                             <div class="vidContThumb2">
-                    <a href="http://thirdage.com/video/what-is-depression/"></a>
-                    <div class="pImage"> <span class="playBtn"></span> <img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/01.What-Is-Depression-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="01-what-is-depression" srcset="http://thirdage-assets.thirdage.com/field/image/01.What-Is-Depression-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/01.What-Is-Depression-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/01.What-Is-Depression-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></div>
+                    <a href="https://thirdage.com/video/what-is-depression/"></a>
+                    <div class="pImage"> <span class="playBtn"></span> <img src="http://thirdage-assets.thirdage.com/field/image/Depression.jpg" class="attachment-sq-thumb size-sq-thumb wp-post-image" alt="depression"></div>
 
                 </div>
                             </div>
                             <div class="col-sm-8 category-content">
-                            <a href="http://thirdage.com/video_categories/depression/"><h6 class="topic bg-http://thirdage.com/video_categories/depression/ bg-health">Depression</h6></a>
-                            <h2 class="sub-title category-title"><a href="http://thirdage.com/video/what-is-depression/">What Is Depression?</a></h2>
-                                <p>Depression is a common and serious mental health condition, which can negatively affect how you feel, how you think, and … <strong><a href="http://thirdage.com/video/what-is-depression/">Watch Video<span class="meta-nav">→</span></a></strong></p>
+                            <a href="https://thirdage.com/video_categories/mental-health/"><h6 class="topic bg-https://thirdage.com/video_categories/mental-health/ bg-health">Mental Health</h6></a>
+                            <h2 class="sub-title category-title"><a href="https://thirdage.com/video/what-is-depression/">What Is Depression?</a></h2>
+                                <p>Depression is a common and serious mental health condition, which can negatively affect how you feel, how you think, and … <strong><a href="https://thirdage.com/video/what-is-depression/">Watch Video<span class="meta-nav">→</span></a></strong></p>
 
                             </div>
 
@@ -978,26 +978,26 @@ var easy_fancybox_auto = function(){
 
                                                 <div class="hcNav">
                             <h3>What's Popular</h3>
-                            <div class="menu-living-well-submenu-container"><ul id="menu-living-well-submenu" class="menu"><li id="menu-item-3001956" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001956"><a href="http://thirdage.com/category/living-well/aging-well/">Aging Well</a></li>
-<li id="menu-item-3001980" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001980"><a href="http://thirdage.com/category/living-well/sex/">Sex</a></li>
-<li id="menu-item-3001957" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001957"><a href="http://thirdage.com/category/living-well/beauty-style/">Beauty &amp; Style</a>
+                            <div class="menu-living-well-submenu-container"><ul id="menu-living-well-submenu" class="menu"><li id="menu-item-3001956" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001956"><a href="https://thirdage.com/category/living-well/aging-well/">Aging Well</a></li>
+<li id="menu-item-3001980" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001980"><a href="https://thirdage.com/category/living-well/sex/">Sex</a></li>
+<li id="menu-item-3001957" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001957"><a href="https://thirdage.com/category/living-well/beauty-style/">Beauty + Style</a>
 <ul class="sub-menu">
-	<li id="menu-item-3002003" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002003"><a href="http://thirdage.com/category/living-well/skin/">Skin</a></li>
-	<li id="menu-item-3002002" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002002"><a href="http://thirdage.com/category/living-well/hair/">Hair</a></li>
-	<li id="menu-item-3002004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002004"><a href="http://thirdage.com/category/living-well/style/">Style</a></li>
+	<li id="menu-item-3002003" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002003"><a href="https://thirdage.com/category/living-well/skin/">Skin</a></li>
+	<li id="menu-item-3002002" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002002"><a href="https://thirdage.com/category/living-well/hair/">Hair</a></li>
+	<li id="menu-item-3002004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002004"><a href="https://thirdage.com/category/living-well/style/">Style</a></li>
 </ul>
 </li>
-<li id="menu-item-3001982" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001982"><a href="http://thirdage.com/category/living-well/travel/">Travel</a></li>
-<li id="menu-item-3001983" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001983"><a href="http://thirdage.com/category/living-well/well-being/">Well-being</a></li>
-<li id="menu-item-3001981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001981"><a href="http://thirdage.com/category/living-well/spiritual-health/">Spiritual Health</a></li>
-<li id="menu-item-3001958" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001958"><a href="http://thirdage.com/category/living-well/money-matters/">Money Matters</a>
+<li id="menu-item-3001982" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001982"><a href="https://thirdage.com/category/living-well/travel/">Travel</a></li>
+<li id="menu-item-3001983" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001983"><a href="https://thirdage.com/category/living-well/well-being/">Well-Being</a></li>
+<li id="menu-item-3001981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001981"><a href="https://thirdage.com/category/living-well/spiritual-health/">Spiritual Health</a></li>
+<li id="menu-item-3001958" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001958"><a href="https://thirdage.com/category/living-well/money-matters/">Money Matters</a>
 <ul class="sub-menu">
-	<li id="menu-item-3002007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002007"><a href="http://thirdage.com/category/living-well/money-matters/retirement/">Retirement</a></li>
-	<li id="menu-item-3002006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002006"><a href="http://thirdage.com/category/living-well/money-matters/wills-estates/">Wills &amp; Estates</a></li>
-	<li id="menu-item-3002005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002005"><a href="http://thirdage.com/category/living-well/work/">Work</a></li>
+	<li id="menu-item-3002006" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002006"><a href="https://thirdage.com/category/living-well/money-matters/wills-estates/">Wills + Estates</a></li>
+	<li id="menu-item-3002007" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002007"><a href="https://thirdage.com/category/living-well/money-matters/retirement/">Retirement</a></li>
+	<li id="menu-item-3002005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002005"><a href="https://thirdage.com/category/living-well/work/">Work</a></li>
 </ul>
 </li>
-<li id="menu-item-3002008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002008"><a href="http://thirdage.com/category/living-well/stress-free-living/">Stress-Free Living</a></li>
+<li id="menu-item-3002008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002008"><a href="https://thirdage.com/category/living-well/stress-free-living/">Stress-Free Living</a></li>
 </ul></div>                        </div>
                         
                     </div>
@@ -1010,14 +1010,14 @@ var easy_fancybox_auto = function(){
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/asset-location-a-strategy-to-cut-taxes-is-often-overlooked/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/cutting-taxes-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="cutting-taxes" srcset="http://thirdage-assets.thirdage.com/field/image/cutting-taxes-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/cutting-taxes-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/cutting-taxes-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="https://thirdage.com/retirees-with-a-guaranteed-income-are-happier-live-longer/"><img width="226" height="226" src="http://thirdage-assets.thirdage.com/field/image/Happy-retirees-226x226.jpg" class="attachment-sq-thumb size-sq-thumb wp-post-image" alt="happy-retirees" srcset="http://thirdage-assets.thirdage.com/field/image/Happy-retirees-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/Happy-retirees-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/Happy-retirees-150x150.jpg 150w" sizes="(max-width: 226px) 100vw, 226px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <a href="http://thirdage.com/category/living-well/money-matters/"><h6 class="topic bg-living-well bg-money-matters bg-">Money Matters</h6></a>
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/asset-location-a-strategy-to-cut-taxes-is-often-overlooked/">Asset Location, A Strategy to Cut Taxes, Is Often Overlooked</a></h2>
-                                    <div class="authorInfo"> by <a href="http://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://thirdage-assets.thirdage.com/field/image/Sondra_Forsyth.jpeg" width="25" height="25" alt="Sondra Forsyth" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 alignnone photo">                                </div>
-                                <p>A new tax law may call for tweaking strategy but probably not big changes Asset allocation comes first, then comes … <strong><a href="http://thirdage.com/asset-location-a-strategy-to-cut-taxes-is-often-overlooked/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <a href="https://thirdage.com/category/living-well/money-matters/"><h6 class="topic bg-living-well bg-money-matters bg-">Money Matters</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="https://thirdage.com/retirees-with-a-guaranteed-income-are-happier-live-longer/">Retirees With a Guaranteed Income Are Happier &amp; Live Longer</a></h2>
+                                    <div class="authorInfo">June 12, 2018 by <a href="https://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://1.gravatar.com/avatar/714c6ce22ddc83301c49c269c3399ace?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>Retirees who are surrounded by their family and friends – and who also have a substantial check coming in every … <strong><a href="https://thirdage.com/retirees-with-a-guaranteed-income-are-happier-live-longer/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
@@ -1035,14 +1035,14 @@ var easy_fancybox_auto = function(){
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/can-loss-of-sense-of-smell-be-repaired/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/older-man-smelling-grapes-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="older-man-smelling-grapes" srcset="http://thirdage-assets.thirdage.com/field/image/older-man-smelling-grapes-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/older-man-smelling-grapes-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/older-man-smelling-grapes-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="https://thirdage.com/improving-heart-health-could-prevent-frailty-in-old-age/"><img width="226" height="226" src="http://thirdage-assets.thirdage.com/field/image/heart-health-226x226.jpg" class="attachment-sq-thumb size-sq-thumb wp-post-image" alt="heart-health" srcset="http://thirdage-assets.thirdage.com/field/image/heart-health-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/heart-health-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/heart-health-150x150.jpg 150w" sizes="(max-width: 226px) 100vw, 226px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <a href="http://thirdage.com/category/living-well/aging-well/"><h6 class="topic bg-living-well bg-aging-well bg-">Aging Well</h6></a>
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/can-loss-of-sense-of-smell-be-repaired/">Can Loss of Sense of Smell Be Repaired?</a></h2>
-                                    <div class="authorInfo">December 20, 2017 by <a href="http://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://thirdage-assets.thirdage.com/field/image/Sondra_Forsyth.jpeg" width="25" height="25" alt="Sondra Forsyth" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 alignnone photo">                                </div>
-                                <p>Researchers at Tufts University School of Medicine, led by Dr. James E. Schwob, are examining the behavior of adult stem … <strong><a href="http://thirdage.com/can-loss-of-sense-of-smell-be-repaired/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <a href="https://thirdage.com/category/living-well/aging-well/"><h6 class="topic bg-living-well bg-aging-well bg-">Aging Well</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="https://thirdage.com/improving-heart-health-could-prevent-frailty-in-old-age/">Improving Heart Health Could Prevent Frailty in Old Age</a></h2>
+                                    <div class="authorInfo">June 6, 2018 by <a href="https://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://1.gravatar.com/avatar/714c6ce22ddc83301c49c269c3399ace?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>Research done in 2018 has shown that older people with very low heart disease risks also have very little frailty, … <strong><a href="https://thirdage.com/improving-heart-health-could-prevent-frailty-in-old-age/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
@@ -1065,11 +1065,11 @@ var easy_fancybox_auto = function(){
 
                                                 <div class="hcNav">
                             <h3>What's Popular</h3>
-                            <div class="menu-food-submenu-container"><ul id="menu-food-submenu" class="menu"><li id="menu-item-3051224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3051224"><a href="http://thirdage.com/healthy-recipes/">Healthy Recipes</a></li>
-<li id="menu-item-3001963" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001963"><a href="http://thirdage.com/category/food/diet-nutrition/">Diet &amp; Nutrition</a></li>
-<li id="menu-item-3001966" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001966"><a href="http://thirdage.com/category/food/weight-loss/">Weight Loss</a></li>
-<li id="menu-item-3001965" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001965"><a href="http://thirdage.com/category/food/vitamins-supplements/">Vitamins + Supplements</a></li>
-<li id="menu-item-3001979" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001979"><a href="http://thirdage.com/category/food/food-allergies-intolerance/">Food Allergies &amp; Intolerance</a></li>
+                            <div class="menu-food-submenu-container"><ul id="menu-food-submenu" class="menu"><li id="menu-item-3051224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3051224"><a href="https://thirdage.com/healthy-recipes/">Healthy Recipes</a></li>
+<li id="menu-item-3001963" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001963"><a href="https://thirdage.com/category/food/diet-nutrition/">Diet + Nutrition</a></li>
+<li id="menu-item-3001966" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001966"><a href="https://thirdage.com/category/food/weight-loss/">Weight Loss</a></li>
+<li id="menu-item-3001965" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001965"><a href="https://thirdage.com/category/food/vitamins-supplements/">Vitamins + Supplements</a></li>
+<li id="menu-item-3001979" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001979"><a href="https://thirdage.com/category/food/food-allergies-intolerance/">Food Allergies + Intolerance</a></li>
 </ul></div>                        </div>
                         
                     </div>
@@ -1082,14 +1082,14 @@ var easy_fancybox_auto = function(){
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/your-mood-depends-on-the-food-you-eat-and-what-you-should-eat-changes-as-you-get-older/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/older-people-eating-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="older people eating" srcset="http://thirdage-assets.thirdage.com/field/image/older-people-eating-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/older-people-eating-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/older-people-eating-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="https://thirdage.com/how-music-volume-affects-whether-you-order-a-cheeseburger-or-a-salad/"><img width="226" height="226" src="http://thirdage-assets.thirdage.com/field/image/cheeseburger-or-salad-226x226.jpg" class="attachment-sq-thumb size-sq-thumb wp-post-image" alt="cheeseburger-or-salad" srcset="http://thirdage-assets.thirdage.com/field/image/cheeseburger-or-salad-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/cheeseburger-or-salad-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/cheeseburger-or-salad-150x150.jpg 150w" sizes="(max-width: 226px) 100vw, 226px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <a href="http://thirdage.com/category/food/diet-nutrition/"><h6 class="topic bg-food bg-diet-nutrition bg-">Diet &amp; Nutrition</h6></a>
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/your-mood-depends-on-the-food-you-eat-and-what-you-should-eat-changes-as-you-get-older/">Your Mood Depends on the Food You Eat, and What You Should Eat Changes as You Get Older</a></h2>
-                                    <div class="authorInfo">December 29, 2017 by <a href="http://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://thirdage-assets.thirdage.com/field/image/Sondra_Forsyth.jpeg" width="25" height="25" alt="Sondra Forsyth" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 alignnone photo">                                </div>
-                                <p>Diet and dietary practices differentially affect mental health in young adults versus older adults, according to research from Binghamton University, … <strong><a href="http://thirdage.com/your-mood-depends-on-the-food-you-eat-and-what-you-should-eat-changes-as-you-get-older/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <a href="https://thirdage.com/category/food/diet-nutrition/"><h6 class="topic bg-food bg-diet-nutrition bg-">Diet &amp; Nutrition</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="https://thirdage.com/how-music-volume-affects-whether-you-order-a-cheeseburger-or-a-salad/">How Music Volume Affects Whether You Order a Cheeseburger or a Salad</a></h2>
+                                    <div class="authorInfo">June 13, 2018 by <a href="https://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://1.gravatar.com/avatar/714c6ce22ddc83301c49c269c3399ace?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>A study done at the University of South Florida and published in May 2018 in the&nbsp;Journal of the Academy of … <strong><a href="https://thirdage.com/how-music-volume-affects-whether-you-order-a-cheeseburger-or-a-salad/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
@@ -1107,14 +1107,14 @@ var easy_fancybox_auto = function(){
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/tried-and-true-tips-for-dealing-with-holiday-weight-gain/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/mans-feet-on-scale-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="mans-feet-on-scale" srcset="http://thirdage-assets.thirdage.com/field/image/mans-feet-on-scale-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/mans-feet-on-scale-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/mans-feet-on-scale-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="https://thirdage.com/turn-up-the-volume-on-the-volumetrics-diet/"><img width="226" height="226" src="http://thirdage-assets.thirdage.com/field/image/fruits-and-vegetables-226x226.jpg" class="attachment-sq-thumb size-sq-thumb wp-post-image" alt="fruits-and-vegetables" srcset="http://thirdage-assets.thirdage.com/field/image/fruits-and-vegetables-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/fruits-and-vegetables-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/fruits-and-vegetables-150x150.jpg 150w" sizes="(max-width: 226px) 100vw, 226px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <a href="http://thirdage.com/category/food/weight-loss/"><h6 class="topic bg-food bg-weight-loss bg-">Weight Loss</h6></a>
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/tried-and-true-tips-for-dealing-with-holiday-weight-gain/">Tried and True Tips for Dealing With Holiday Weight Gain</a></h2>
-                                    <div class="authorInfo">December 28, 2017 by <a href="http://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://thirdage-assets.thirdage.com/field/image/Sondra_Forsyth.jpeg" width="25" height="25" alt="Sondra Forsyth" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 alignnone photo">                                </div>
-                                <p>According to the U.S. Department of Health and Human Services, over 60% of adult women in the country are considered … <strong><a href="http://thirdage.com/tried-and-true-tips-for-dealing-with-holiday-weight-gain/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <a href="https://thirdage.com/category/food/diet-nutrition/"><h6 class="topic bg-food bg-diet-nutrition bg-">Diet &amp; Nutrition</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="https://thirdage.com/turn-up-the-volume-on-the-volumetrics-diet/">Turn Up the Volume on the Volumetrics Diet</a></h2>
+                                    <div class="authorInfo">June 6, 2018 by <a href="https://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://1.gravatar.com/avatar/714c6ce22ddc83301c49c269c3399ace?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>I don’t like the concept of “going on a diet”. This suggests something temporary! In fact, my concept of dieting … <strong><a href="https://thirdage.com/turn-up-the-volume-on-the-volumetrics-diet/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
@@ -1137,10 +1137,10 @@ var easy_fancybox_auto = function(){
 
                                                 <div class="hcNav">
                             <h3>What's Popular</h3>
-                            <div class="menu-fitness-submenu-container"><ul id="menu-fitness-submenu" class="menu"><li id="menu-item-3001959" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001959"><a href="http://thirdage.com/category/fitness/exercise/">Exercise</a></li>
-<li id="menu-item-3001962" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001962"><a href="http://thirdage.com/category/fitness/mindbody-wellness/">Mind/Body Wellness</a></li>
-<li id="menu-item-3001961" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001961"><a href="http://thirdage.com/category/fitness/injury-prevention-treatment/">Injury Prevention &amp; Treatment</a></li>
-<li id="menu-item-3001960" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001960"><a href="http://thirdage.com/category/fitness/health-fitness/">Health &amp; Fitness</a></li>
+                            <div class="menu-fitness-submenu-container"><ul id="menu-fitness-submenu" class="menu"><li id="menu-item-3001959" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001959"><a href="https://thirdage.com/category/fitness/exercise/">Exercise</a></li>
+<li id="menu-item-3001962" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001962"><a href="https://thirdage.com/category/fitness/mindbody-wellness/">Mind/Body Wellness</a></li>
+<li id="menu-item-3001961" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001961"><a href="https://thirdage.com/category/fitness/injury-prevention-treatment/">Injury Prevention + Treatment</a></li>
+<li id="menu-item-3001960" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001960"><a href="https://thirdage.com/category/fitness/health-fitness/">Health + Fitness</a></li>
 </ul></div>                        </div>
                         
                     </div>
@@ -1153,13 +1153,14 @@ var easy_fancybox_auto = function(){
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/motivating-others-to-be-physically-active/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/Mature-women-in-gym-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="mature-women-in-gym" srcset="http://thirdage-assets.thirdage.com/field/image/Mature-women-in-gym-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/Mature-women-in-gym-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/Mature-women-in-gym-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="https://thirdage.com/vigorous-exercise-can-slow-down-hearts-aging/"><img width="226" height="226" src="http://thirdage-assets.thirdage.com/field/image/senior-woman-runner-226x226.jpg" class="attachment-sq-thumb size-sq-thumb wp-post-image" alt="senior-woman-runner" srcset="http://thirdage-assets.thirdage.com/field/image/senior-woman-runner-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/senior-woman-runner-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/senior-woman-runner-150x150.jpg 150w" sizes="(max-width: 226px) 100vw, 226px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/motivating-others-to-be-physically-active/">Motivating Others to Be Physically Active</a></h2>
-                                    <div class="authorInfo">December 20, 2017 by <a href="http://thirdage.com/author/jane-farrell/" class="author-name">Jane Farrell</a> <img src="http://2.gravatar.com/avatar/242ba8207cc08bf737e4e70f06c9115c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
-                                <p>From the experts at Go4Life, a division of the National Institute on Aging, some tips on how to get a … <strong><a href="http://thirdage.com/motivating-others-to-be-physically-active/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <a href="https://thirdage.com/category/fitness/exercise/"><h6 class="topic bg-fitness bg-exercise bg-">Exercise</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="https://thirdage.com/vigorous-exercise-can-slow-down-hearts-aging/">Vigorous Exercise Can Slow Down Heart’s Aging</a></h2>
+                                    <div class="authorInfo">June 8, 2018 by <a href="https://thirdage.com/author/jane-farrell/" class="author-name">Jane Farrell</a> <img src="http://2.gravatar.com/avatar/242ba8207cc08bf737e4e70f06c9115c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>To keep your heart young, it’s necessary to exercise four to five days per week, according to new research published … <strong><a href="https://thirdage.com/vigorous-exercise-can-slow-down-hearts-aging/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
@@ -1177,14 +1178,14 @@ var easy_fancybox_auto = function(){
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/3-tips-to-avoid-the-er-due-to-common-mistakes-at-the-gym/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/Back-ache-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="back-ache" srcset="http://thirdage-assets.thirdage.com/field/image/Back-ache-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/Back-ache-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/Back-ache-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="https://thirdage.com/five-tips-for-body-trust-connection-and-acceptance/"><img width="226" height="226" src="http://thirdage-assets.thirdage.com/field/image/woman-meditating-on-beach-226x226.jpg" class="attachment-sq-thumb size-sq-thumb wp-post-image" alt="woman-meditating-on-beach" srcset="http://thirdage-assets.thirdage.com/field/image/woman-meditating-on-beach-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/woman-meditating-on-beach-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/woman-meditating-on-beach-150x150.jpg 150w" sizes="(max-width: 226px) 100vw, 226px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <a href="http://thirdage.com/category/fitness/injury-prevention-treatment/"><h6 class="topic bg-fitness bg-injury-prevention-treatment bg-">Injury Prevention &amp; Treatment</h6></a>
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/3-tips-to-avoid-the-er-due-to-common-mistakes-at-the-gym/">3 Tips to Avoid the ER Due to Common Mistakes at The Gym</a></h2>
-                                    <div class="authorInfo">December 12, 2017 by <a href="http://thirdage.com/author/jane-farrell/" class="author-name">Jane Farrell</a> <img src="http://2.gravatar.com/avatar/242ba8207cc08bf737e4e70f06c9115c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
-                                <p>As 2017 comes to a close, it’s only natural that we’re starting to think about getting fitter, healthier, more mindful, … <strong><a href="http://thirdage.com/3-tips-to-avoid-the-er-due-to-common-mistakes-at-the-gym/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <a href="https://thirdage.com/category/fitness/mindbody-wellness/"><h6 class="topic bg-fitness bg-mindbody-wellness bg-">Mind/Body Wellness</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="https://thirdage.com/five-tips-for-body-trust-connection-and-acceptance/">Five Tips for Body Trust, Connection and Acceptance</a></h2>
+                                    <div class="authorInfo">June 4, 2018 by <a href="https://thirdage.com/author/jane-farrell/" class="author-name">Jane Farrell</a> <img src="http://2.gravatar.com/avatar/242ba8207cc08bf737e4e70f06c9115c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>Body Trust involves developing a deep connection with your body so that you can make choices around food, exercise, sleep, … <strong><a href="https://thirdage.com/five-tips-for-body-trust-connection-and-acceptance/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
@@ -1207,21 +1208,21 @@ var easy_fancybox_auto = function(){
 
                                                 <div class="hcNav">
                             <h3>What's Popular</h3>
-                            <div class="menu-family-submenu-container"><ul id="menu-family-submenu" class="menu"><li id="menu-item-3001970" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001970"><a href="http://thirdage.com/category/family/relationships-love/">Relationships &amp; Love</a>
+                            <div class="menu-family-submenu-container"><ul id="menu-family-submenu" class="menu"><li id="menu-item-3001970" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3001970"><a href="https://thirdage.com/category/family/relationships-love/">Relationships + Love</a>
 <ul class="sub-menu">
-	<li id="menu-item-3001995" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001995"><a href="http://thirdage.com/category/family/relationships-love/dating/">Dating</a></li>
-	<li id="menu-item-3002000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002000"><a href="http://thirdage.com/category/family/relationships-love/marriage/">Marriage</a></li>
-	<li id="menu-item-3001996" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001996"><a href="http://thirdage.com/category/family/relationships-love/divorce/">Divorce</a></li>
-	<li id="menu-item-3002001" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002001"><a href="http://thirdage.com/category/family/relationships-love/widowhood/">Widowhood</a></li>
-	<li id="menu-item-3001999" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001999"><a href="http://thirdage.com/category/family/relationships-love/loneliness/">Loneliness</a></li>
-	<li id="menu-item-3001998" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001998"><a href="http://thirdage.com/category/family/relationships-love/living-single/">Living Single</a></li>
-	<li id="menu-item-3001997" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001997"><a href="http://thirdage.com/category/family/relationships-love/friendship/">Friendship</a></li>
+	<li id="menu-item-3001995" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001995"><a href="https://thirdage.com/category/family/relationships-love/dating/">Dating</a></li>
+	<li id="menu-item-3002000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002000"><a href="https://thirdage.com/category/family/relationships-love/marriage/">Marriage</a></li>
+	<li id="menu-item-3001996" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001996"><a href="https://thirdage.com/category/family/relationships-love/divorce/">Divorce</a></li>
+	<li id="menu-item-3002001" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002001"><a href="https://thirdage.com/category/family/relationships-love/widowhood/">Widowhood</a></li>
+	<li id="menu-item-3001999" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001999"><a href="https://thirdage.com/category/family/relationships-love/loneliness/">Loneliness</a></li>
+	<li id="menu-item-3001998" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001998"><a href="https://thirdage.com/category/family/relationships-love/living-single/">Living Single</a></li>
+	<li id="menu-item-3001997" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001997"><a href="https://thirdage.com/category/family/relationships-love/friendship/">Friendship</a></li>
 </ul>
 </li>
-<li id="menu-item-3001969" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001969"><a href="http://thirdage.com/category/family/parenting/">Parenting</a></li>
-<li id="menu-item-3001968" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001968"><a href="http://thirdage.com/category/family/grandparenting/">Grandparenting</a></li>
-<li id="menu-item-3001967" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001967"><a href="http://thirdage.com/category/family/caregiving/">Caregiving</a></li>
-<li id="menu-item-3001978" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001978"><a href="http://thirdage.com/category/family/pets/">Pets</a></li>
+<li id="menu-item-3001969" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001969"><a href="https://thirdage.com/category/family/parenting/">Parenting</a></li>
+<li id="menu-item-3001968" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001968"><a href="https://thirdage.com/category/family/grandparenting/">Grandparenting</a></li>
+<li id="menu-item-3001967" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001967"><a href="https://thirdage.com/category/family/caregiving/">Caregiving</a></li>
+<li id="menu-item-3001978" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3001978"><a href="https://thirdage.com/category/family/pets/">Pets</a></li>
 </ul></div>                        </div>
                         
                     </div>
@@ -1234,14 +1235,14 @@ var easy_fancybox_auto = function(){
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/be-prepared-6-tips-for-caregivers/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/Caregiver-with-loved-one-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="caregiver-with-loved-one" srcset="http://thirdage-assets.thirdage.com/field/image/Caregiver-with-loved-one-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/Caregiver-with-loved-one-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/Caregiver-with-loved-one-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="https://thirdage.com/what-caregivers-must-know-about-dental-needs-after-a-loved-one-has-a-stroke/"><img width="226" height="226" src="http://thirdage-assets.thirdage.com/field/image/dental-care-226x226.jpg" class="attachment-sq-thumb size-sq-thumb wp-post-image" alt="dental-care" srcset="http://thirdage-assets.thirdage.com/field/image/dental-care-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/dental-care-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/dental-care-150x150.jpg 150w" sizes="(max-width: 226px) 100vw, 226px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <a href="http://thirdage.com/category/family/caregiving/"><h6 class="topic bg-family bg-caregiving bg-">Caregiving</h6></a>
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/be-prepared-6-tips-for-caregivers/">Be Prepared: 6 Tips for Caregivers</a></h2>
-                                    <div class="authorInfo">December 28, 2017 by <a href="http://thirdage.com/author/jane-farrell/" class="author-name">Jane Farrell</a> <img src="http://2.gravatar.com/avatar/242ba8207cc08bf737e4e70f06c9115c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
-                                <p>Here, from the federal Food and Drug Administration (FDA), a caregiving list that can prove lifesaving: 1. Keep a list … <strong><a href="http://thirdage.com/be-prepared-6-tips-for-caregivers/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <a href="https://thirdage.com/category/family/caregiving/"><h6 class="topic bg-family bg-caregiving bg-">Caregiving</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="https://thirdage.com/what-caregivers-must-know-about-dental-needs-after-a-loved-one-has-a-stroke/">What Caregivers Must Know About Dental Needs After a  Loved One Has a Stroke</a></h2>
+                                    <div class="authorInfo">June 14, 2018 by <a href="https://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://1.gravatar.com/avatar/714c6ce22ddc83301c49c269c3399ace?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>Dentistry isn’t normally on the priority list for caregivers of stroke patients, but it should be. The person in recovery … <strong><a href="https://thirdage.com/what-caregivers-must-know-about-dental-needs-after-a-loved-one-has-a-stroke/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
@@ -1259,14 +1260,14 @@ var easy_fancybox_auto = function(){
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/the-pros-and-cons-of-marijuana-as-a-mother/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/Marijuana-1-1-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Marijuana Motherhood" srcset="http://thirdage-assets.thirdage.com/field/image/Marijuana-1-1-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/Marijuana-1-1-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/Marijuana-1-1-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="https://thirdage.com/hot-cars-can-kill-children-within-an-hour/"><img width="226" height="226" src="http://thirdage-assets.thirdage.com/field/image/hot-sun-226x226.jpg" class="attachment-sq-thumb size-sq-thumb wp-post-image" alt="hot-sun" srcset="http://thirdage-assets.thirdage.com/field/image/hot-sun-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/hot-sun-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/hot-sun-150x150.jpg 150w" sizes="(max-width: 226px) 100vw, 226px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <a href="http://thirdage.com/category/health/alternative-health/"><h6 class="topic bg-health bg-alternative-health bg-">Alternative Health</h6></a>
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/the-pros-and-cons-of-marijuana-as-a-mother/">The Pros and Cons of Marijuana as a Mother</a></h2>
-                                    <div class="authorInfo">December 18, 2017 by <a href="http://thirdage.com/author/k-gramesadprimemedia-com/" class="author-name">Katherine Grames</a> <img src="http://0.gravatar.com/avatar/c5b79c60906d37e006ce5d06d4f7429c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
-                                <p>Though marijuana is often considered a drug for the young and rebellious, the Centers for Disease Control (CDC) recently reported … <strong><a href="http://thirdage.com/the-pros-and-cons-of-marijuana-as-a-mother/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <a href="https://thirdage.com/category/family/childrens-health/"><h6 class="topic bg-family bg-childrens-health bg-">Children's Health</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="https://thirdage.com/hot-cars-can-kill-children-within-an-hour/">Hot Cars Can Kill Children within An Hour</a></h2>
+                                    <div class="authorInfo">June 12, 2018 by <a href="https://thirdage.com/author/jane-farrell/" class="author-name">Jane Farrell</a> <img src="http://2.gravatar.com/avatar/242ba8207cc08bf737e4e70f06c9115c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>Researchers from University of California San Diego School of Medicine and Arizona State University found that if a car is … <strong><a href="https://thirdage.com/hot-cars-can-kill-children-within-an-hour/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
@@ -1289,18 +1290,16 @@ var easy_fancybox_auto = function(){
 
                                                 <div class="hcNav">
                             <h3>What's Popular</h3>
-                            <div class="menu-video-submenu-container"><ul id="menu-video-submenu" class="menu"><li id="menu-item-3051856" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051856"><a href="http://thirdage.com/video_categories/anxiety-disorders/">Anxiety Disorders</a></li>
-<li id="menu-item-3051857" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051857"><a href="http://thirdage.com/video_categories/bipolar-disorders/">Bipolar Disorders</a></li>
-<li id="menu-item-3051859" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051859"><a href="http://thirdage.com/video_categories/depression/">Depression</a></li>
-<li id="menu-item-3051860" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051860"><a href="http://thirdage.com/video_categories/diabetes/">Diabetes</a></li>
-<li id="menu-item-3051861" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051861"><a href="http://thirdage.com/video_categories/fibromyalgia/">Fibromyalgia</a></li>
-<li id="menu-item-3051862" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051862"><a href="http://thirdage.com/video_categories/fitness/">Fitness</a></li>
-<li id="menu-item-3051863" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051863"><a href="http://thirdage.com/video_categories/menopause/">Menopause</a></li>
-<li id="menu-item-3051864" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051864"><a href="http://thirdage.com/video_categories/multiple-sclerosis/">Multiple Sclerosis</a></li>
-<li id="menu-item-3051865" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051865"><a href="http://thirdage.com/video_categories/pregnancy/">Pregnancy</a></li>
-<li id="menu-item-3051866" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051866"><a href="http://thirdage.com/video_categories/rheumatoid-arthritis/">Rheumatoid Arthritis</a></li>
-<li id="menu-item-3051867" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051867"><a href="http://thirdage.com/video_categories/sex-health/">Sex Health</a></li>
-<li id="menu-item-3051868" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051868"><a href="http://thirdage.com/video_categories/womens-health/">Womens Health</a></li>
+                            <div class="menu-video-submenu-container"><ul id="menu-video-submenu" class="menu"><li id="menu-item-3051856" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051856"><a href="https://thirdage.com/video_categories/anxiety-stress-management/">Anxiety + Stress Management</a></li>
+<li id="menu-item-3051859" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051859"><a href="https://thirdage.com/video_categories/mental-health/">Mental Health</a></li>
+<li id="menu-item-3051860" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051860"><a href="https://thirdage.com/video_categories/diabetes-information/">Diabetes Information</a></li>
+<li id="menu-item-3051861" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051861"><a href="https://thirdage.com/video_categories/pain-management/">Pain Management</a></li>
+<li id="menu-item-3051862" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051862"><a href="https://thirdage.com/video_categories/fitness-nutrition/">Fitness + Nutrition</a></li>
+<li id="menu-item-3051863" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051863"><a href="https://thirdage.com/video_categories/womens-health/">Women’s Health</a></li>
+<li id="menu-item-3051864" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051864"><a href="https://thirdage.com/video_categories/multiple-sclerosis-information/">Multiple Sclerosis Information</a></li>
+<li id="menu-item-3051865" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051865"><a href="https://thirdage.com/video_categories/pregnancy/">Pregnancy</a></li>
+<li id="menu-item-3051866" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051866"><a href="https://thirdage.com/video_categories/bone-joint-health/">Bone + Joint Health</a></li>
+<li id="menu-item-3051867" class="menu-item menu-item-type-taxonomy menu-item-object-video_categories menu-item-3051867"><a href="https://thirdage.com/video_categories/sexual-health/">Sexual Health</a></li>
 </ul></div>                        </div>
                         
                     </div>
@@ -1313,13 +1312,13 @@ var easy_fancybox_auto = function(){
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/video/understanding-ptsd/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Man Looking in Mirror" srcset="http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD-226x226.jpg 226w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="https://thirdage.com/video/detecting-lung-cancer/"><img width="226" height="226" src="http://thirdage-assets.thirdage.com/field/image/Detecting_060418-226x226.jpg" class="attachment-sq-thumb size-sq-thumb wp-post-image" alt="Detecting_060418.jpg" srcset="http://thirdage-assets.thirdage.com/field/image/Detecting_060418-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/Detecting_060418-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/Detecting_060418-150x150.jpg 150w" sizes="(max-width: 226px) 100vw, 226px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/video/understanding-ptsd/">Understanding PTSD</a></h2>
-                                    <div class="authorInfo">September 6, 2016 by <a href="http://thirdage.com/author/gavino-gonzalez/" class="author-name">thirdAGE</a> <img src="http://2.gravatar.com/avatar/5516ad6a2afe91aa2861c536738e94da?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
-                                <p>Traumatic events, like war, assault, or disaster, can lead to Posttraumatic Stress Disorder, or PTSD, is an anxiety disorder. It … <strong><a href="http://thirdage.com/video/understanding-ptsd/">Watch Video<span class="meta-nav">→</span></a></strong></p>
+                                                                        <h2 class="sub-title category-title"><a href="https://thirdage.com/video/detecting-lung-cancer/">Detecting Lung Cancer</a></h2>
+                                    <div class="authorInfo">June 5, 2018 by <a href="https://thirdage.com/author/apta_admin/" class="author-name">thirdAGE</a> <img src="http://0.gravatar.com/avatar/c91dd6de038241d7efcb6fd2971fc1a9?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>Simple blood test shows promise in detecting early-stage lung cancer, study finds.</p>
                             </div>
 
                         </div>
@@ -1337,13 +1336,13 @@ var easy_fancybox_auto = function(){
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/video/when-someone-you-love-suffers-10-tips-for-fibromyalgia-caregivers/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/11.When-Someone-You-Love-Suffers_10-Tips-for-Fibromyalgia-Caregivers-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Heart Sign" srcset="http://thirdage-assets.thirdage.com/field/image/11.When-Someone-You-Love-Suffers_10-Tips-for-Fibromyalgia-Caregivers-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/11.When-Someone-You-Love-Suffers_10-Tips-for-Fibromyalgia-Caregivers-226x226.jpg 226w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="https://thirdage.com/video/antidepressants-and-weight/"><img width="226" height="226" src="http://thirdage-assets.thirdage.com/field/image/Antidepressants_052518-226x226.jpg" class="attachment-sq-thumb size-sq-thumb wp-post-image" alt="Antidepressants_052518.jpg" srcset="http://thirdage-assets.thirdage.com/field/image/Antidepressants_052518-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/Antidepressants_052518-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/Antidepressants_052518-150x150.jpg 150w" sizes="(max-width: 226px) 100vw, 226px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/video/when-someone-you-love-suffers-10-tips-for-fibromyalgia-caregivers/">When Someone You Love Suffers: 10 Tips for Fibromyalgia Caregivers</a></h2>
-                                    <div class="authorInfo">August 31, 2016 by <a href="http://thirdage.com/author/gavino-gonzalez/" class="author-name">thirdAGE</a> <img src="http://2.gravatar.com/avatar/5516ad6a2afe91aa2861c536738e94da?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
-                                <p>Caring for someone with fibromyalgia can be fulfilling–and sometimes exhausting. Learn more about how to keep your energy and spirits … <strong><a href="http://thirdage.com/video/when-someone-you-love-suffers-10-tips-for-fibromyalgia-caregivers/">Watch Video<span class="meta-nav">→</span></a></strong></p>
+                                                                        <h2 class="sub-title category-title"><a href="https://thirdage.com/video/antidepressants-and-weight/">Antidepressants and Weight</a></h2>
+                                    <div class="authorInfo">May 29, 2018 by <a href="https://thirdage.com/author/apta_admin/" class="author-name">thirdAGE</a> <img src="http://0.gravatar.com/avatar/c91dd6de038241d7efcb6fd2971fc1a9?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>Commonly prescribed antidepressants increase the risk of weight gain for years, study finds.</p>
                             </div>
 
                         </div>
@@ -1375,6 +1374,8 @@ var easy_fancybox_auto = function(){
 
     <div id="main-container" class="container">
 
+
+
 <div class="row">
 	
 	<div class="col-sm-8 col-md-8 content">
@@ -1404,13 +1405,14 @@ var easy_fancybox_auto = function(){
                                         googletag.cmd.push(function() {
                                             googletag.display("div-gpt-ad-7992");
                                         });
-
-
                                     };
 
-
                                     if (!document.hidden) {
-                                        leaderDisplay();
+
+                                        setTimeout(function(){
+                                            leaderDisplay();
+                                        }, 200);
+
                                     } else {
                                         $(window).one('focus', function (e) {
                                             leaderDisplay();
@@ -1522,7 +1524,11 @@ New York, NY 10005</p>
                                     };
 
                                     if (!document.hidden) {
-                                        sidebar1Display();
+
+                                        setTimeout(function(){
+                                            sidebar1Display();
+                                        }, 200);
+
                                     } else {
                                         $(window).one('focus', function (e) {
                                             sidebar1Display();
@@ -1566,7 +1572,6 @@ New York, NY 10005</p>
                                             }
 
                                             if (registerViewable) {
-                                                console.log('registered');
                                                 window.apViewability.registerDisplayCall("div-gpt-ad-16");
                                             }
 
@@ -1575,7 +1580,11 @@ New York, NY 10005</p>
                                             });
                                         };
                                         if (!document.hidden) {
-                                            sidebar2Display(true);
+
+                                            setTimeout(function(){
+                                                sidebar2Display(true);
+                                            }, 200);
+
                                         } else {
                                             $(window).one('focus', function (e) {
                                                 sidebar2Display(true);
@@ -1595,34 +1604,33 @@ New York, NY 10005</p>
                             
         
 </div>
+		</div><div id="text-20" class="widget widget_text">			<div class="textwidget"><!--<div class=“newsletter-list”>
+<br>
+ <a href=tiffany-contest target=_blank>
+  <img src=https://gallery.mailchimp.com/6eb064ac96de04601f4b18fda/images/dd5a8cd9-5119-46fd-8c5a-1f11673ac574.jpg>
+ </a>
+</div>--></div>
 		</div><div id="text-17" class="widget widget_text"><h4>Featured Video</h4>			<div class="textwidget"><div class="side-post slideshow">
 
     <div class="vidContThumb2">
-        <a href="http://thirdage.com/video/understanding-ptsd/"></a>
-        <div class="pImage"> <span class="playBtn"></span> <img width="1920" height="1080" src="http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD.jpg" class="attachment-full size-full wp-post-image" alt="Man Looking in Mirror" srcset="http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD.jpg 1920w, http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD-220x124.jpg 220w, http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD-500x281.jpg 500w" sizes="(max-width: 1920px) 100vw, 1920px"></div>
-       <p><a href="http://thirdage.com/video/understanding-ptsd/" class="ttl">Understanding PTSD</a></p>
+        <a href="https://thirdage.com/video/detecting-lung-cancer/"></a>
+        <div class="pImage"> <span class="playBtn"></span> <img width="425" height="239" src="http://thirdage-assets.thirdage.com/field/image/Detecting_060418.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://thirdage-assets.thirdage.com/field/image/Detecting_060418.jpg 425w, http://thirdage-assets.thirdage.com/field/image/Detecting_060418-220x124.jpg 220w, http://thirdage-assets.thirdage.com/field/image/Detecting_060418-175x98.jpg 175w" sizes="(max-width: 425px) 100vw, 425px"></div>
+       <p><a href="https://thirdage.com/video/detecting-lung-cancer/" class="ttl">Detecting Lung Cancer</a></p>
      </div>
 
 </div>
-<br><br><br><br>
 
  <div class="cta-line"><a href="/videos" class="cta-btn side-cta-btn-yellow">See All Videos</a></div></div>
 		</div><div id="text-16" class="widget widget_text"><h4>Featured Slideshow</h4>			<div class="textwidget"><div class="side-post slideshow">
 
               
 <ul class="latest-list">
- <li><span class="side-blog-slideshow"><a href="http://thirdage.com/slideshow/foods-that-will-keep-your-skin-thriving-through-winter/"><img width="1000" height="667" src="http://thirdage-assets.thirdage.com/field/image/1.-skin-in-winter.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://thirdage-assets.thirdage.com/field/image/1.-skin-in-winter.jpg 1000w, http://thirdage-assets.thirdage.com/field/image/1.-skin-in-winter-220x147.jpg 220w, http://thirdage-assets.thirdage.com/field/image/1.-skin-in-winter-728x486.jpg 728w, http://thirdage-assets.thirdage.com/field/image/1.-skin-in-winter-147x98.jpg 147w" sizes="(max-width: 1000px) 100vw, 1000px"></a></span> <p><a href="http://thirdage.com/slideshow/foods-that-will-keep-your-skin-thriving-through-winter/" class="ttl">Foods That Will Keep Your Skin Thriving Through Winter</a></p></li>
+ <li><span class="side-blog-slideshow"><a href="https://thirdage.com/slideshow/healthy-food-tips-to-help-fight-dehydration-this-summer/"><img width="1000" height="667" src="http://thirdage-assets.thirdage.com/field/image/1.-dehydration.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://thirdage-assets.thirdage.com/field/image/1.-dehydration.jpg 1000w, http://thirdage-assets.thirdage.com/field/image/1.-dehydration-220x147.jpg 220w, http://thirdage-assets.thirdage.com/field/image/1.-dehydration-728x486.jpg 728w, http://thirdage-assets.thirdage.com/field/image/1.-dehydration-147x98.jpg 147w" sizes="(max-width: 1000px) 100vw, 1000px"></a></span> <p><a href="https://thirdage.com/slideshow/healthy-food-tips-to-help-fight-dehydration-this-summer/" class="ttl">Healthy Food Tips to Help Fight Dehydration This Summer</a></p></li>
 </ul>
 
  </div>
 
  <div class="cta-line"><a href="/slideshows" class="cta-btn side-cta-btn">See All Slideshows</a></div></div>
-		</div><div id="text-20" class="widget widget_text">			<div class="textwidget"><!--<div class=“newsletter-list”>
-<br>
- <a href=amazon-giftcard-giveaway target=_blank>
-  <img src=https://gallery.mailchimp.com/6eb064ac96de04601f4b18fda/images/75b82bd5-0db2-440c-835d-111b87bdeb8b.jpg>
- </a>
-</div>--></div>
 		</div><div id="text-22" class="widget widget_text"><h4>Healthy Recipes</h4>			<div class="textwidget"><div class="“newsletter-list”">
 <br>
  <a href="http://thirdage.com/healthy-recipes/" target="_blank">
@@ -1655,18 +1663,16 @@ New York, NY 10005</p>
 <div id="newsletterSignup2" style="background-image: url('http://thirdage-assets.thirdage.com/field/image/Newsletter-Sign-Up-Homepage.jpg'); max-width:100%; height:240px">
    <input type="email" name="EMAIL" class="newletterEmail" placeholder="  Email Address" required="" style="position:absolute; left:15%; bottom:10%; width:50%; height:29px; border: 1px solid #000000; color:#959595; font-size:11px; font-family:Avenir LT W01_55 Roman1475520;">
    <input type="image" style="position:absolute;  bottom:10%;left:65%; height:29px; width:76px; padding:0" src="http://thirdage-assets.thirdage.com/field/image/Join-Button.jpg">
-</div><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1514591556"><input type="hidden" name="_mc4wp_form_id" value="3019084"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></div>
+</div><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1528976300"><input type="hidden" name="_mc4wp_form_id" value="3019084"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></div>
 		</div><div id="text-18" class="widget widget_text"><h4>Featured Blogs</h4>			<div class="textwidget"><div class="side-post slideshow">
 
      <div class="vidContThumb2">
-         <a href="http://thirdage.com/blog/hormone-therapy-and-heart-health/"></a>
-         <div class="pImage"> <img width="1000" height="667" src="http://thirdage-assets.thirdage.com/field/image/heart-health.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://thirdage-assets.thirdage.com/field/image/heart-health.jpg 1000w, http://thirdage-assets.thirdage.com/field/image/heart-health-220x147.jpg 220w, http://thirdage-assets.thirdage.com/field/image/heart-health-728x486.jpg 728w, http://thirdage-assets.thirdage.com/field/image/heart-health-147x98.jpg 147w" sizes="(max-width: 1000px) 100vw, 1000px"></div>
-        <p><a href="http://thirdage.com/blog/hormone-therapy-and-heart-health/" class="ttl">Hormone Therapy and Heart Health</a></p>
+         <a href="https://thirdage.com/blog/life-without-guilt/"></a>
+         <div class="pImage"> <img width="1000" height="665" src="http://thirdage-assets.thirdage.com/field/image/life-change.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://thirdage-assets.thirdage.com/field/image/life-change.jpg 1000w, http://thirdage-assets.thirdage.com/field/image/life-change-220x146.jpg 220w, http://thirdage-assets.thirdage.com/field/image/life-change-728x484.jpg 728w, http://thirdage-assets.thirdage.com/field/image/life-change-147x98.jpg 147w" sizes="(max-width: 1000px) 100vw, 1000px"></div>
+        <p><a href="https://thirdage.com/blog/life-without-guilt/" class="ttl">Life Without Guilt</a></p>
      </div>
 
-<p><br>
-</p></div>
-<br><br><br><br>
+</div>
 
  <div class="cta-line"><a href="/blogs" class="cta-btn side-cta-btn">See All Blogs</a></div></div>
 		</div><div id="text-7" class="widget widget_text"><h4>For Men</h4>			<div class="textwidget"><ul class="latest-list side-blog-men">
@@ -1676,6 +1682,11 @@ New York, NY 10005</p>
    </div>
 		</div><div id="text-9" class="widget widget_text">			<div class="textwidget"><div style="clear:both">
 </div></div>
+		</div><div id="text-23" class="widget widget_text">			<div class="textwidget">
+<br>
+ <a href="http://primehealth.leadspediatrack.com/?c=824" target="_blank">
+  <img src="https://gallery.mailchimp.com/6eb064ac96de04601f4b18fda/images/61267656-c952-47e3-9afd-1d5f7e3c75e7.jpg">
+ </a></div>
 		</div>	
 	</div>
 
@@ -1683,6 +1694,193 @@ New York, NY 10005</p>
 
 
 </div> <!-- close main container -->
+
+
+<div class="row">
+    <h3 id="may-like-head" class="background"><span>you may also like</span></h3>
+    <div class="col-sm-12">
+        <div class="row container" id="may-like-body">
+                            <div class="col-lg-3 col-sm-12 col-xs-12">
+                    <div class="row">
+                        <div class="col-lg-12 col-sm-6 col-xs-6">
+                            <a href="https://thirdage.com/health-care-starting-a-conversation-between-millennials-and-baby-boomers/">
+                                <img src="http://thirdage-assets.thirdage.com/field/image/HealthCareConvosOpeningPic-236x139.jpg" id="widget_post_img_3061163">
+                                <img id="postTypeImg" src="http://thirdage-assets.thirdage.com/field/image/Article-Icon.png">
+                            </a>
+                         </div>
+                        <div class="col-lg-12 col-sm-6 col-xs-6">
+                            <a href="https://thirdage.com/health-care-starting-a-conversation-between-millennials-and-baby-boomers/"><h6 id="widget_post3061163">Health Care: Starting A Conversation Between Millennials and Baby Boomers</h6></a>
+                        </div>
+                    </div>
+                </div>
+
+                <script>
+                    jQuery("#widget_post_img_3061163").click(function(e){
+                        jQuery.post({
+                            url: count_click_object.ajaxurl,
+                            data: {
+                                'action': 'count_click_request',
+                                'post_id': 3061163                            },
+                            success: function (response) {
+                                console.log('The server responded: ', response);
+                            },
+                            error: function (errorThrown) {
+                                console.log(errorThrown);
+                            }
+                        });
+                    });
+
+                </script>
+
+                            <div class="col-lg-3 col-sm-12 col-xs-12">
+                    <div class="row">
+                        <div class="col-lg-12 col-sm-6 col-xs-6">
+                            <a href="https://thirdage.com/want-to-do-better-than-bonds-consider-fixed-indexed-annuities-and-fixed-rate-annuities/">
+                                <img src="http://thirdage-assets.thirdage.com/field/image/annuity-236x139.jpg" id="widget_post_img_3061114">
+                                <img id="postTypeImg" src="http://thirdage-assets.thirdage.com/field/image/Article-Icon.png">
+                            </a>
+                         </div>
+                        <div class="col-lg-12 col-sm-6 col-xs-6">
+                            <a href="https://thirdage.com/want-to-do-better-than-bonds-consider-fixed-indexed-annuities-and-fixed-rate-annuities/"><h6 id="widget_post3061114">Want to Do Better Than Bonds? Consider Fixed Indexed Annuities and Fixed-rate  Annuities</h6></a>
+                        </div>
+                    </div>
+                </div>
+
+                <script>
+                    jQuery("#widget_post_img_3061114").click(function(e){
+                        jQuery.post({
+                            url: count_click_object.ajaxurl,
+                            data: {
+                                'action': 'count_click_request',
+                                'post_id': 3061114                            },
+                            success: function (response) {
+                                console.log('The server responded: ', response);
+                            },
+                            error: function (errorThrown) {
+                                console.log(errorThrown);
+                            }
+                        });
+                    });
+
+                </script>
+
+                            <div class="col-lg-3 col-sm-12 col-xs-12">
+                    <div class="row">
+                        <div class="col-lg-12 col-sm-6 col-xs-6">
+                            <a href="https://thirdage.com/mental-health-treatments-could-make-many-teen-drivers-safer/">
+                                <img src="http://thirdage-assets.thirdage.com/field/image/Young-woman-at-wheel-of-car-236x139.jpg" id="widget_post_img_3061168">
+                                <img id="postTypeImg" src="http://thirdage-assets.thirdage.com/field/image/Article-Icon.png">
+                            </a>
+                         </div>
+                        <div class="col-lg-12 col-sm-6 col-xs-6">
+                            <a href="https://thirdage.com/mental-health-treatments-could-make-many-teen-drivers-safer/"><h6 id="widget_post3061168">Mental Health Treatments Could Make Many Teen Drivers Safer</h6></a>
+                        </div>
+                    </div>
+                </div>
+
+                <script>
+                    jQuery("#widget_post_img_3061168").click(function(e){
+                        jQuery.post({
+                            url: count_click_object.ajaxurl,
+                            data: {
+                                'action': 'count_click_request',
+                                'post_id': 3061168                            },
+                            success: function (response) {
+                                console.log('The server responded: ', response);
+                            },
+                            error: function (errorThrown) {
+                                console.log(errorThrown);
+                            }
+                        });
+                    });
+
+                </script>
+
+                            <div class="col-lg-3 col-sm-12 col-xs-12">
+                    <div class="row">
+                        <div class="col-lg-12 col-sm-6 col-xs-6">
+                            <a href="https://thirdage.com/can-a-mediterranean-diet-pattern-slow-aging/">
+                                <img src="http://thirdage-assets.thirdage.com/field/image/Mediterranean-diet-meal-236x139.jpg" id="widget_post_img_3061158">
+                                <img id="postTypeImg" src="http://thirdage-assets.thirdage.com/field/image/Article-Icon.png">
+                            </a>
+                         </div>
+                        <div class="col-lg-12 col-sm-6 col-xs-6">
+                            <a href="https://thirdage.com/can-a-mediterranean-diet-pattern-slow-aging/"><h6 id="widget_post3061158">Can A Mediterranean Diet Pattern Slow Aging?</h6></a>
+                        </div>
+                    </div>
+                </div>
+
+                <script>
+                    jQuery("#widget_post_img_3061158").click(function(e){
+                        jQuery.post({
+                            url: count_click_object.ajaxurl,
+                            data: {
+                                'action': 'count_click_request',
+                                'post_id': 3061158                            },
+                            success: function (response) {
+                                console.log('The server responded: ', response);
+                            },
+                            error: function (errorThrown) {
+                                console.log(errorThrown);
+                            }
+                        });
+                    });
+
+                </script>
+
+            
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <h3 id="recipes-we-love-head" class="background"><span>Recipes We <span>❤</span></span></h3>
+    <div class="col-sm-12">
+        <div class="row container" id="recipes-we-love-body">
+                        <div class="col-lg-12 col-sm-12 col-xs-12">
+        <div class="row">
+            <div class="col-lg-6 col-sm-6 col-xs-6">
+                <a href="https://thirdage.com/recipe/tembleque/">
+                    <img src="http://thirdage-assets.thirdage.com/field/image/tembleque-6-feature-680x453.jpg">
+                </a>
+            </div>
+            <div class="col-lg-6 col-sm-6 col-xs-6">
+                <a href="https://thirdage.com/recipe/tembleque/"><h6>Tembleque</h6></a>
+                <a href="https://thirdage.com/recipe/tembleque/"><p>Thanksgiving was not always a traditional holiday in Puerto Rico – but as more Puerto Rican families called  ...</p></a>
+            </div>
+        </div>
+    </div>
+            <div class="col-lg-12 col-sm-12 col-xs-12">
+        <div class="row">
+            <div class="col-lg-6 col-sm-6 col-xs-6">
+                <a href="https://thirdage.com/recipe/oyster-dressing/">
+                    <img src="http://thirdage-assets.thirdage.com/field/image/20151102-oyster-dressing-vicky-wasik-12-1.jpg">
+                </a>
+            </div>
+            <div class="col-lg-6 col-sm-6 col-xs-6">
+                <a href="https://thirdage.com/recipe/oyster-dressing/"><h6>Oyster Dressing</h6></a>
+                <a href="https://thirdage.com/recipe/oyster-dressing/"><p>Oyster dressing – as strange as it might sound (possibly conjuring images of the bivalve dressed up with a b ...</p></a>
+            </div>
+        </div>
+    </div>
+            <div class="col-lg-12 col-sm-12 col-xs-12">
+        <div class="row">
+            <div class="col-lg-6 col-sm-6 col-xs-6">
+                <a href="https://thirdage.com/recipe/cilantro-pineapple-margarita/">
+                    <img src="http://thirdage-assets.thirdage.com/field/image/CilantroPineappleMargaritaB.jpg">
+                </a>
+            </div>
+            <div class="col-lg-6 col-sm-6 col-xs-6">
+                <a href="https://thirdage.com/recipe/cilantro-pineapple-margarita/"><h6>Cilantro Pineapple Margarita</h6></a>
+                <a href="https://thirdage.com/recipe/cilantro-pineapple-margarita/"><p>Cilantro is an amazing detoxifying herb – and it also has fantastic flavor. It pairs perfectly with pine ...</p></a>
+            </div>
+        </div>
+    </div>
+
+</div>
+</div>
+</div>
 
 <div class="dash-line dash-line-footer"></div>
 
@@ -1695,17 +1893,17 @@ New York, NY 10005</p>
             
                 <div class="col-md-3">
                 <nav class="navbar navbar-default" role="navigation">
-                    <a class="footer-brand" href="http://thirdage.com"><img src="http://thirdage.com/wp-content/themes/3rdAge/img/logo.png" width="200"></a>
+                    <a class="footer-brand" href="https://thirdage.com"><img src="http://thirdage.com/wp-content/themes/3rdAge/img/logo.png" width="200"></a>
                 </nav>
                 </div>
                 
                 <div class="col-md-9">
-                	<div class="nav-footer"><div class="menu-main-navigation-container"><ul id="menu-main-navigation-1" class="menu"><li class="health-az menu-item menu-item-type-post_type menu-item-object-page menu-item-3001703"><a href="http://thirdage.com/health/">Health A-Z</a></li>
-<li class="living-well menu-item menu-item-type-post_type menu-item-object-page menu-item-3001949"><a href="http://thirdage.com/living-well/">Living Well</a></li>
-<li class="food menu-item menu-item-type-post_type menu-item-object-page menu-item-3001948"><a href="http://thirdage.com/food/">Food</a></li>
-<li class="fitness menu-item menu-item-type-post_type menu-item-object-page menu-item-3001700"><a href="http://thirdage.com/fitness/">Fitness</a></li>
-<li class="family menu-item menu-item-type-post_type menu-item-object-page menu-item-3001946"><a href="http://thirdage.com/family/">Family</a></li>
-<li class="video menu-item menu-item-type-post_type menu-item-object-page menu-item-3051910"><a href="http://thirdage.com/videos/">Video</a></li>
+                	<div class="nav-footer"><div class="menu-main-navigation-container"><ul id="menu-main-navigation-1" class="menu"><li class="health-az menu-item menu-item-type-post_type menu-item-object-page menu-item-3001703"><a href="https://thirdage.com/health/">Health A-Z</a></li>
+<li class="living-well menu-item menu-item-type-post_type menu-item-object-page menu-item-3001949"><a href="https://thirdage.com/living-well/">Living Well</a></li>
+<li class="food menu-item menu-item-type-post_type menu-item-object-page menu-item-3001948"><a href="https://thirdage.com/food/">Food</a></li>
+<li class="fitness menu-item menu-item-type-post_type menu-item-object-page menu-item-3001700"><a href="https://thirdage.com/fitness/">Fitness</a></li>
+<li class="family menu-item menu-item-type-post_type menu-item-object-page menu-item-3001946"><a href="https://thirdage.com/family/">Family</a></li>
+<li class="video menu-item menu-item-type-post_type menu-item-object-page menu-item-3051910"><a href="https://thirdage.com/videos/">Video</a></li>
 </ul></div></div>
 				</div>
                 
@@ -1718,11 +1916,11 @@ New York, NY 10005</p>
                 <div class="col-sm-6 col-md-6">
                     <div class="menu-left">
                         <h5 class="menu-title"><span class="">third</span>AGE</h5>
-                        <div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-3001974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3001974"><a href="http://thirdage.com/about-us/">About Us</a></li>
-<li id="menu-item-3001994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3001994"><a href="http://thirdage.com/meet-the-team/">Meet The Team</a></li>
-<li id="menu-item-3001973" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3001694 current_page_item menu-item-3001973"><a href="http://thirdage.com/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-3001972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3001972"><a href="http://thirdage.com/terms-of-use/">Terms of Use</a></li>
-<li id="menu-item-3001971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3001971"><a href="http://thirdage.com/advertising/">Advertising</a></li>
+                        <div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-3001974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3001974"><a href="https://thirdage.com/about-us/">About Us</a></li>
+<li id="menu-item-3001994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3001994"><a href="https://thirdage.com/meet-the-team/">Meet The Team</a></li>
+<li id="menu-item-3001973" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3001694 current_page_item menu-item-3001973"><a href="https://thirdage.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-3001972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3001972"><a href="https://thirdage.com/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-3001971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3001971"><a href="https://thirdage.com/advertising/">Advertising</a></li>
 </ul></div>                    </div>
                     
 				</div>
@@ -1731,8 +1929,8 @@ New York, NY 10005</p>
                     <div class="menu-right">
                         <h5 class="menu-title">Connect</h5>
                         <div class="menu-social-media-container"><ul id="menu-social-media" class="menu"><li id="menu-item-3001975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3001975"><a target="_blank" href="https://www.facebook.com/ThirdAgers">Facebook</a></li>
-<li id="menu-item-3001976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3001976"><a target="_blank" href="http://www.twitter.com/thirdage">Twitter</a></li>
-<li id="menu-item-3001730" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3001730"><a target="_blank" href="http://www.youtube.com/user/thirdagemedia">YouTube</a></li>
+<li id="menu-item-3001976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3001976"><a target="_blank" href="//www.twitter.com/thirdage">Twitter</a></li>
+<li id="menu-item-3001730" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3001730"><a target="_blank" href="//www.youtube.com/user/thirdagemedia">YouTube</a></li>
 </ul></div>                    </div>
                 </div>
             
@@ -1791,7 +1989,7 @@ var mc4wp_forms_config = [];
 <script type="text/javascript" src="http://thirdage.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.0.13"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var mc4wp_ajax_vars = {"loading_character":"\u2022","ajax_url":"http:\/\/thirdage.com\/wp-admin\/admin-ajax.php?mc4wp-form","error_text":""};
+var mc4wp_ajax_vars = {"loading_character":"\u2022","ajax_url":"https:\/\/thirdage.com\/wp-admin\/admin-ajax.php?mc4wp-form","error_text":""};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://thirdage.com/wp-content/plugins/mc4wp-premium/ajax-forms/assets/js/ajax-forms.min.js?ver=3.1"></script>
@@ -1811,7 +2009,7 @@ var mc4wp_ajax_vars = {"loading_character":"\u2022","ajax_url":"http:\/\/thirdag
 <script type='text/javascript' src='http://thirdage.com/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.0.13'></script>
 <![endif]-->
 <!-- SIMP MODAL --> 
-<div class="smp-overlay" id="smp-overlay3057156"><div class="smp-modal" data-id="3057156" data-method="loadxs" data-track="1000" data-opening="fadeIn" data-closing="fadeOut" data-openspeed="100" data-closespeed="100" data-bgclose="false" data-cookie=""><script type="text/javascript">(function() {
+<div class="smp-overlay" id="smp-overlay3057156"><div class="smp-modal" data-id="3057156" data-method="loadxs" data-track="1000" data-opening="fadeIn" data-closing="fadeOut" data-openspeed="100" data-closespeed="100" data-bgclose="false" data-cookie="1528979900"><script type="text/javascript">(function() {
 	if (!window.mc4wp) {
 		window.mc4wp = {
 			listeners: [],
@@ -1829,16 +2027,12 @@ var mc4wp_ajax_vars = {"loading_character":"\u2022","ajax_url":"http:\/\/thirdag
 </script><!-- MailChimp for WordPress v4.0.13 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-2" class="mc4wp-form mc4wp-form-3056671 mc4wp-ajax" method="post" data-id="3056671" data-name="newsletter popup 3.0"><div class="mc4wp-form-fields"><div id="pop">
   <div id="input">
      <input type="email" name="EMAIL" id="subscriber" placeholder=" YOUR EMAIL" required="" style="position:absolute; left:-20% ; width:50%; height:29px; border: 1px solid #000000; color:#959595; font-size:11px; font-family:Avenir LT W01_55 Roman1475520;">
-     <input type="image" src="http://thirdage-assets.thirdage.com/field/image/F-Join-1.png" id="submitSubscriber" style="position: absolute; left:30%;" onclick="closeSubscribeForm();">
+     <input type="image" src="https://thirdage-assets.thirdage.com/field/image/F-Join-1.png" id="submitSubscriber" style="position: absolute; left:30%;" onclick="closeSubscribeForm();">
   </div>
 </div>
-<script type="text/javascript" src="http://thirdage.com/wp-content/themes/3rdAge/js/popup.js?v=1.2" defer=""></script>
+<script type="text/javascript" src="https://thirdage.com/wp-content/themes/3rdAge/js/popup.js?v=1.5" defer=""></script>
 
-<div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1514591556"><input type="hidden" name="_mc4wp_form_id" value="3056671"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->
-
-
-
-<span class="smp-close"></span></div></div>
+<div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1528976300"><input type="hidden" name="_mc4wp_form_id" value="3056671"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --><span class="smp-close"></span></div></div>
 
 <script type="text/javascript">
 (function($) { $(".smp-modal").each(function() { var modal = $(this), method = modal.data("method"), track = modal.data("track"), hash = window.location.hash; $(document).ready(function() { if (method == "click") { $(track).on("click", function(e) { modal.simpModal(); e.preventDefault(); }); } if (method == "loadxs" && track > 0) { var delayTime = setTimeout(function() { modal.simpModal(); clearTimeout(delayTime); }, track); } }); if (method == "load") { $(window).on("load", modal.simpModal()); } if (method == "hash" && hash == track) { $(window).on("load", modal.simpModal()); } if (method == "unload") { var visited = 0; $(window).on("beforeunload", function(ue) { if (visited == 0) { ue.preventDefault(); ue.stopPropagation(); ue.stopImmediatePropagation(); modal.simpModal(); visited++; return track; } }); } }); })(jQuery);
@@ -1859,7 +2053,11 @@ jQuery(document).on('ready',easy_fancybox_auto);</script>
         })(jQuery);
     </script>
 
+
+
 <script src="http://thirdage.com/wp-content/themes/3rdAge/owlcarousel/dist/owl.carousel.min.js"></script>
+<script src="http://thirdage.com/wp-content/themes/3rdAge/slick/slick/slick.min.js"></script>
+<script src="http://thirdage.com/wp-content/themes/3rdAge/jquery.lazy-master/jquery.lazy.min.js"></script>
 
 
 
@@ -1869,4 +2067,4 @@ jQuery(document).on('ready',easy_fancybox_auto);</script>
 
 Content Delivery Network via Amazon Web Services: S3: thirdage-assets.thirdage.com
 
- Served from: thirdage.com @ 2017-12-29 18:52:36 by W3 Total Cache --></body></html>
+ Served from: thirdage.com @ 2018-06-14 07:38:20 by W3 Total Cache --></body></html>
