@@ -1,92 +1,198 @@
-> *The following text is extracted and transformed from the relayforlife.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628021917id_/https%3A//www.cancer.org/about-us/policies/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relayforlife.org privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191957id_/https%3A//www.cancer.org/about-us/policies/privacy-statement.html) for the most accurate reproduction.*
 
-# Offline Privacy Policy
+# Privacy Statement
 
-Please also see our [Internet Privacy Policy](https://web.archive.org/about-us/policies/internet-privacy-policy.html)
+Last Modified: February 7, 2018
 
-## Our commitment to privacy
+The American Cancer Society, Inc. (the “Society”) values your trust, and we understand the importance of protecting your privacy. We want to make sure that you understand how your information is collected and used by the Society. This privacy statement (“Privacy Statement”) describes what information we collect about you, including when and how we collect it; how we use it; with whom we may share it; and what choices you have regarding our use of your information.
 
-The American Cancer Society, Inc. is committed to maintaining the highest level of confidentiality regarding the constituent information that we collect, use, maintain, and disclose. This privacy standard protects the privacy of constituent information in accordance with federal and state privacy laws, the Society’s contractual obligations, and our constituents’ reasonable expectations of privacy.
+This Privacy Statement applies to all information collected through your communications with the Society, whether electronic, written or oral; information collected through Society mobile applications (“Apps”) or Society websites (“Sites”) that include a link to this Privacy Statement; as well as any other information about you that we may collect offline or receive from third-parties (collectively, Apps, Sites, and offline or third-party information are referred to as the “Services”). By accessing our Services or providing your information to us, you accept and agree to the practices described in this Privacy Statement.
 
-Constituent information is used and disclosed only for the Society’s mission-related activities and operations, and in other limited circumstances such as when required for law enforcement or for public health activities. In addition, use and disclosure of constituent information is limited to a “minimum necessary” standard, except in certain situations specified by law. Other uses and disclosures of constituent information, including disclosures to third parties, shall not generally occur unless the constituent provides their consent. Constituents may exercise the rights granted to them under this privacy policy free from any intimidating or retaliatory acts.
+This Privacy Statement describes our privacy practices. The links below go straight to more detailed information on that topic.
 
-### What does the Society collect?
+  * What types of personal information we collect about you
+  * How we collect personal information about you
+  * How we may use your personal information
+  * With whom we may share your personal information
+  * Other information collected
+  * Our data security protections
+  * Your privacy options and access
+  * Notices and Disclosures
+  * How to contact us
+  * Updates to this privacy statement
 
-The Society collects personal information whenever you call our National Cancer Information Center, when you visit a local office, when you use Society products or services, when you visit Society Web pages or the pages of certain Society partners, when you make a donation to the Society and when you register for Society events. We also collect personal information when you are referred to us by your health provider, health plan or caregiver for support services.
 
-Below are general categories of information that we collect. All information that you provide to the Society is voluntary.
 
-**Contact information.** We may ask for contact information such as your name, address, telephone number, email address, and contact preferences. We collect this information so that we may: keep you informed about the Society, invite you to upcoming Society events in your area (such as Relay For Life®), or inform you of volunteer or other opportunities to support the Society’s mission. We may also use this information to provide you with patient-related cancer information or to follow-up on a request for services from the Society. We consider this information private and limit how it is used and disclosed.
+## What types of personal information we collect about you
 
-**Demographic information**. We may ask for limited demographic information such as your gender, race or ethnicity, marital status, or primary language. This information is used to help us to better understand the individuals we serve or to better communicate with you. We consider this information private and limit how it is used and disclosed.
+When you engage with the Society or visit or use our Services, we collect a variety of information. In general, the type and amount of information we collect on you will depend on how you choose to interact with the Society. For instance, if you are a patient or caregiver contacting us for assistance, we will need different information to assist you than if you are using our website to gather information on cancer-related topics or donate to the Society.
 
-**Health information**. If you contact the Society seeking cancer information, request support from the Society, or attend a Society event, then we may ask for limited health information such as your relationship to cancer, type of cancer, date of diagnosis, stage, current treatment(s), and date of treatment(s). We use this information to help us better serve you and to match you with appropriate cancer resources and support services. We treat this information as confidential.
+The Society collects information that identifies you as an individual or information which is linked or linkable to you as an individual, which will collectively be referred to throughout this Privacy Statement as “Personal Information”: including contact information, demographic information, health and financial information, as well as call recordings and transcripts.
 
-**Financial information.** If you make a donation to the Society, then we may ask for financial information such as a credit card number or financial account numbers. This information allows us to process your donation. We consider this information confidential.
+**Contact Information and Preferences.** We may request contact information such as your name, mailing address, telephone number, e-mail address, and your preferences for how you would like to be contacted by the Society.
 
-**Research information.** If you inquire about (or enroll in) a Society research study, then we may collect information from you related to the study or studies. Research participant data is maintained in a secure, restricted environment and can only be accessed for research purposes. We treat this information as confidential.  
-Other information. Depending on the reason for your communication with the Society, we may collect other personal information from you. For example, if you seek assistance with obtaining health insurance, then we may ask for your insurance information. Or, if you contact the Society to donate your automobile under our Cars For a Cure® program, then we may ask for your vehicle’s identification number. We consider this information private and limit its access, use, and disclosure to those parties who are related to the program or service.
+**Demographic Information.** We may request limited demographic information such as your gender, race or ethnicity, marital status, geographic location and/or primary language.
 
-**Personal Information on Minors**. The Society does not intentionally collect personal information from children under the age of thirteen (13). The Society will delete any personal information collected that we later determine to be from an individual younger than the age of thirteen (13) if written parental consent has not been obtained.
+**Health Information.** We may request limited health information about you such as your relationship to cancer or, if applicable, your type of cancer, date of diagnosis, stage, or current treatment. For instance, this information may be needed to assist you if you contact the Society seeking cancer information or requesting support from the Society. If you register to participate in a Society event, we may ask you about your relationship to cancer so that we can let you know about special activities for caregivers and survivors. This health information may be transmitted electronically for the uses and/or disclosures described in this Privacy Statement.
 
-### How does the Society protect your information?
+**Financial Information.** If you make a donation to the Society or make a retail purchase on a Society Site, we will collect payment information such as your credit card number to process your transaction. We may use a third-party payment service to process payments made through the Services. We will retain your credit card information only for as long as necessary to process the transaction.
 
-The Society has adopted a number of recognized standards to protect the privacy of your information, and we have provided a description and an example of these standards below. However, not every particular use or disclosure in every category will be listed.
+**Call Recordings and Chat Transcripts.** If you contact the Society for information or assistance by calling our National Cancer Information Center or online via the “Contact Us” chat feature, we may record your call or maintain a transcript of the chat for training and quality assurance purposes. The information contained in these transcripts will depend on what you voluntarily provide to the Society.
 
-**We restrict and protect how your information is used.** We have guidelines which limit access only to those who have a reasonable need to use your information. We will use your information for purposes related to your original inquiry or request. For example, if you ask for patient-related cancer information to be mailed to you, then we will use your name and address to mail the information to you. In addition, we may also use your information for mission-related activities, management and administration, or to carry out our legal responsibilities. For example, we may use your information to identify a local event that we believe may be of interest to you and invite you to that event. We may also contact you to inform you of additional programs and services available to you or of to inform you of volunteer or other opportunities, including fundraising, to support the Society’s mission.
+## How we collect personal information about you
 
-If you are referred to the Society through your hospital and/or health plan, we will use your information only to provide you with the programs or services you have requested, unless you consent to receiving communication(s) regarding additional resources or opportunities. However, if you have an existing relationship with the Society at the time of referral, we will honor your current contact preferences.
+The Society and its service providers may collect Personal Information in a variety of instances. For example, we may collect information about you in the following circumstances:
 
-**We restrict and protect how your information is disclosed.** On occasion, we may have a need to disclose your information to third parties. We make every attempt to protect these disclosures. For example, we may hire other companies to provide limited services on our behalf, such as an order fulfillment company to mail you cancer related information or products you have ordered. Or, if you request transportation, then we may disclose your information to a taxi service so that they can provide you with the transportation to your health provider. When we do share with third parties, we only provide those companies or individuals the information that they need to deliver the service. We prohibit them from using that information for any other purpose. We also require them to have strong privacy protections for the information that we disclose to them
+**Requests for Information and Resources.** The Society’s National Cancer Information Center (“NCIC”) is available to answer your questions 24/7, 365 days a year. When you contact NCIC or your local Society office for information and resources, we will collect the Personal Information you provide in order to assist you.
 
-The Society also reserves the right to share your information with governmental agencies or other companies if needed to assist us in electronic crimes investigation. We would only do so when permitted or required by law and we are trying to protect against or prevent actual or potential unauthorized access to your data or investigating unauthorized access which has already taken place.
+**Patient Support Services.** The Society offers many free or reduced cost programs and services to help cancer patients and their caregivers manage cancer treatment and recovery and find the emotional support they need. For example, the Society provides transportation and lodging assistance to help cancer patients overcome barriers to treatment. If you contact the Society to utilize these support services, we may ask you for contact and demographic information as well as limited health information.
 
-**We Value our Donors.** The Society respects the privacy of its donors and is committed to protecting the security of donor information and to honoring our donors’ choices for the use of their information. This policy applies to all donor information received by the Society, both online and offline, on any Society Web site or mobile application, as well as any electronic, written, or oral communications.
+**Site and App Use.** We may collect Personal Information through your use of the Sites and Apps, including the Society’s online public forums, discussion boards, or chat rooms. If you become a registered user of a Site or App, we will collect login and profile information and may also collect information about your areas of interest. Please note that any information you post within these public forums will become public and may be read, collected, and used by anyone. Please exercise caution when deciding whether to disclose your Personal Information in public forums.
 
-When you make a donation to the Society, we collect personal information from you that may include: your name, address, telephone number, and/or e-mail address. We use this information for purposes such as sending you a receipt and thanking you for your donation as well as informing you about news, upcoming fundraising events and other activities of the Society.
+**Donations.** If you make a donation to the Society, we will collect Personal Information from you that may include: your name, address, telephone number, and/or e-mail address so that we can send you a receipt and thank you for your donation. We may also collect limited financial information to process your donations.
 
-The Society also may receive financial information such as a credit card number or financial account numbers necessary to process your donation. We process your donation securely using measures that comply with the Payment Card Industry Data Security Standard ("PCI DSS"), the credit card industry's most stringent security standard. Examples of our security measures include: physical, electronic, and procedural safeguards; sophisticated security monitoring tools; documented security policies; use of strong encryption (e.g., TLS) for credit card processing; restricted access to personally identifiable information; and we perform, periodic security audits to confirm the strength of our security program.
+**Volunteer Participation.** If you seek employment with the Society or volunteer for the Society, we will collect information related to your role. For instance, we will collect employment history information if you submit a resume to the Society. If you are volunteering to provide peer-to-peer support for cancer patients, we may ask about the languages you speak. Or, if you are volunteering to provide transportation assistance through our Road to Recovery program, we will collect information on your driving history.
 
-On occasion, we may share donor contact information with third party companies that are conducting charitable sales promotions to benefit the Society. These third party companies may use your contact information for communications and marketing purposes that support our mission and activities. You are under no obligation to respond and the companies are restricted from using your contact information for any other purpose. No health information is used or disclosed in connection with these promotions.
+**Research Participation.** If you inquire about (or enroll in) a Society research study, we may collect information from you related to the study or studies, which may include health information. Research participant data is maintained in a secure, restricted environment and is accessed only for research purposes.
 
-From time to time, the Society may also share donor names and mailing addresses with other reputable nonprofit organizations on a limited basis in exchange for limited access to the names and addresses of their constituents. We have found this to be a cost effective method of reaching additional potential constituents. These organizations will not have continued access to your name and address unless you choose to respond to their initial mailing. We do not share email addresses or health related data in connection with this list exchange.
+**Event Registration.** If you register to participate in a Society event, such as Relay For Life® or Making Strides Against Breast Cancer®. We may also ask about your relationship to cancer, but you are not required to provide this information to participate in Society events. This information, however, is useful for event purposes and helps us let you know about special activities for caregivers and survivors.
 
-We respect our donors’ choices and control over their information. You, as a donor may, at any time, have your name excluded from any donor list exchange activity. To ask that your name be excluded from list exchange activity or to otherwise change how the Society contacts you, please email us at [privacyrequest@cancer.org](mailto:privacyrequest@cancer.org) or complete our online opt out form by clicking on the following link: [Opt Out Form](https://web.archive.org/about-us/policies/opt-out-form.html)
+**Health Provider, Health Plan or Caregiver Referral.** Your healthcare provider or health plan may put you in touch with the Society if they believe we have information or resources that can assist you with your care or cancer journey. These referrals may occur through the Society’s Clinician’s Portal, fax or another referral method. If you are referred to the Society through a healthcare provider or health plan, we will receive contact and demographic information, as well as limited health information from the healthcare provider or health plan.
 
-Aside from the disclosures described in this Privacy Statement, the Society will only disclose your information to third parties upon your consent or at your direction.
+**Third-party Fundraising Campaigns, Promotions or Events.** We may use or interact with third-parties to conduct fundraising campaigns, promotions or events, including online platforms such as Crowdrise or PledgeIt. In these instances, we may receive access to donor reports which includes donor name, contact information and donation amount. We also may receive your Personal Information if you respond to a cause-related marketing campaign or other promotion benefitting the Society that is conducted by a corporate partner.
 
-**We have strong computer security protections.** For our electronic data, we have “industry standard” physical, technical, and procedural safeguards to protect your information. These standards meet our legal or contractual requirements and ensure your electronic data is as secure as practical.
+**Social Media Interfaces.** If you elect to connect your social media account to your Site account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles; in addition, if you log-in to our website using your social media account, use a “like” button or use other social media features while visiting our website, those social media companies may collect information about you. Your interactions with social media companies and the use of their features are governed by their privacy policies.
 
-**We conduct privacy training and education programs.** We require all staff to receive training on privacy and how to protect your information. We also require staff to sign a pledge of confidentiality to further support our commitment to privacy. In many cases, we extend this requirement to our volunteers.
+**Other Sources.** We may receive your Personal Information from **** other sources, including Society affiliates that you engage with such as the American Cancer Society Cancer Action Network, Inc. [“ACS CAN,” our nonprofit, nonpartisan advocacy affiliate and the nation’s leading voice advocating for public policies that are helping to defeat cancer and make cancer a top national priority”]; third-party organizations we collaborate with to provide support services and information to cancer patients and their caregivers; or supplemental data sources to supplement or link the information we collect from you.
 
-**We mitigate (lessen the harm of) any breach of privacy/confidentiality.** We have a data incident response process to reduce any harm to you resulting from a breach of your privacy.
+## How we may use your personal information
 
-### What are your rights?
+We and our service providers may use Personal Information for the following purposes:
 
-**The right to access your information**. Under our privacy policy, you have the right to (upon request) see your contact and other information that we maintain about you. The description will be sent via postal mail which we believe is the most secure method of communication. Further, we will respond to requests for updates or changes to your personal information. Contact us by email or in writing at the address below.
+**Mission Delivery and Support Operations.** We will use your Personal Information to respond to your inquiries and to provide you with the information, resources and support services you request. We may use your Personal Information to help us better understand the individuals we serve, to better communicate with you, and to better serve you and your community with relevant programs, services and information. We may also use your Personal Information to develop, evaluate and improve our programs and services. For instance, we may contact you with a survey seeking voluntary feedback on services you have received.
 
-**The right to request restrictions.** We recognize that you may wish to limit the ways in which we contact you, and we offer the following options for restricting internal and external sharing of your contact information:
+We may use your Personal Information to keep you informed about cancer-related news developments, to notify you of Society services that may be of interest to you, to invite you to upcoming Society events in your area (such as Relay For Life®), to request voluntary time or monetary contributions to the Society, or to request your participation in a Society research study.
 
-1\. Do not contact me by telephone.  
-2\. Do not contact me by postal mail.  
-3\. Do not contact me by email.  
-4\. Do not share my contact information with other nonprofit organizations.  
-5\. Do not contact me for fundraising requests supporting the American Cancer Society.  
-6\. Do not contact me.
+If you are referred to the Society through your healthcare provider and/or health plan, we will use and disclose your Personal Information as necessary, including electronically, to provide you with the assistance, programs or services you have requested, as well as program follow up and evaluation. For example, if you need lodging assistance related to your treatment, your healthcare provider may provide your information to the Society so that we can evaluate eligibility and availability for placement in one of the Society’s Hope Lodge facilities or through our Hotel Partners Program.
 
-To inform us of any desired restrictions, please click on the following link: [Opt Out Form](https://web.archive.org/about-us/policies/opt-out-form.html). If you contact us with an opt-out request, all reasonable efforts will be taken to ensure that you will not receive any of the selected communications from us in the future.
+_If a patient referral is your first interaction with the Society, we will limit our contact with you to the provision of services and follow up, unless you consent to receiving communication(s) regarding additional resources, opportunities or engagement. If you have an existing relationship with the Society at the time of referral, we will maintain your current contact preferences and apply them to the information we receive from your referring provider or health plan. If you choose to later engage with the Society in another way, like by participating in a Society event, volunteering for the Society, or donating to the Society, we may use your Personal Information and/or contact you for purposes related to that engagement._
 
-If you opt back into a specific service, you will receive communication in that manner regardless of your overall opt out selections. For example, if you request a newsletter subscription, we will provide you that subscription, even if you previously asked us not to contact you at all. Or if you ask us a question using the “Contact Us,” feature of the website, we may respond via email, even if you had had previously asked us not to contact you by email. We will take all reasonable efforts to ensure that your opt out selections are otherwise honored. In addition, if you are an active participant in a Society event, such as Relay For Life®, you may to receive emails related to that event regardless of your overall opt out selections. If you do not wish to receive emails about that event, please opt out using the “unsubscribe” link provided in the communication.
+**Data Analytics**. We also perform data analysis and research activities to gain a greater general understanding of cancer, cancer treatment and the related needs of patients and their caregivers. This analysis can help us improve patient experiences, mission delivery, and support.
 
-### For more Information or to report a problem
+**Other Business Purposes**. We may use Personal Information for other business purposes, such as conducting audits, fraud monitoring and prevention, developing new services, enhancing, improving or modifying our programs and our Services, identifying usage trends, determining the effectiveness of fundraising campaigns and mission activities, and updating and expanding our business activities.
 
-If you have a question, wish to notify us of any desired restrictions, or believe your privacy rights have been violated, then submit your inquiry or file your complaint with us using the contact information below. To protect your privacy and security, we will take reasonable steps to verify your identity before providing information or making corrections. There will be no retaliation for filing a complaint.
+**With your consent**. In addition to the other uses described in this section, we may also use your information as you expressly authorize us to do so.
 
-**Telephone:** 1-800-227-2345  
-**Email:  **[privacyrequest@cancer.org](mailto:privacyrequest@cancer.org)  
-**Postal Mail:** Security and Privacy Requests  
-American Cancer Society Shared Services Business Center  
+## With whom we may share your personal information
+
+Your Personal Information may be shared with:
+
+**Third-Party Service Providers**. We may need to share Personal Information with third-parties that provide operational services on our behalf (such as website hosting, information technology and infrastructure, data analytics, email delivery, order fulfillment, auditing or other services) or that assist the Society in providing you with support and resources.
+
+**Society Affiliates.** We may provide your information to affiliated organizations that share a common mission with the Society, such as ACS CAN. Use of your information by ACS CAN is governed by ACS CAN’s Privacy Statement available at [acscan.org/privacy-policy](https://www.acscan.org/privacy-policy).
+
+**Referring Health Care Providers and Health Care Plans.** We may also report back to your referring provider regarding your usage of Society programs and services or to coordinate treatment-related services.
+
+**Mission Collaborators**. We may also collaborate with organizations to provide or improve the Society’s services and operations. For example, we may share with organizations that are working with the Society to provide free or discounted transportation or lodging services to our constituents or with organizations to conduct data analytics projects that allow us to better understand the use of our services.
+
+**Third-Party Charitable Promotions.** We may also share your Personal Information, excluding health information, with third-party companies that are conducting charitable sales promotions to benefit the Society. You are under no obligation to respond to those promotions, and if you choose not to, the company is restricted from using your contact information for any other purpose.
+
+**Nonprofit List Exchange.** From time to time, the Society may also share donor names and mailing addresses with other nonprofit organizations on a limited basis in exchange for limited access to the names and addresses of their constituents. We do not share health-related data in connection with this list exchange. You, as a donor may, at any time, have your name excluded from any donor list exchange activity. To ask that your name be excluded from list exchange activity or to otherwise change how the Society contacts you, please email us at [privacyrequest@cancer.org](mailto:privacyrequest@cancer.org) or complete our [Opt Out Form](https://web.archive.org/about-us/policies/opt-out-form.html).
+
+**Social Media**. You may share Personal Information with your friends associated with your social media account, to other website users and to your social media account provider, in connection with your social sharing activity. By connecting your Society account with your social media account, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media provider’s privacy policy. Please note that any information you post within these public forums or social media pages may become public and may be read, collected, and used by anyone. Please exercise caution when deciding whether to disclose your Personal Information in these forums.
+
+**Other Uses or Disclosures of Personal Information.** We may also use and disclose your Personal Information as we believe to be necessary or appropriate: (a) to comply with applicable law, which may include laws outside your country of residence, to respond to requests from public and government authorities, which may include authorities outside your country of residence, to cooperate with law enforcement, or for other legal reasons; (b) to enforce our Terms of Use; (c) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (d) under circumstances we believe appropriate to coordinate treatment related services with your provider or health plan, or for permissible public health purposes such as cancer surveillance. In addition, the Society may use, disclose or transfer your information to a third-party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our organization (including in connection with any bankruptcy or similar proceedings).
+
+**Your Consent**. In addition to the other disclosures described in this section, we may also disclose your information as you expressly authorize us to do so.
+
+## **Other information collected**
+
+The Society may also collect information that does not reveal your specific identity or does not directly relate to an identifiable individual, referred to throughout this Privacy Statement as “Other Information,” including browser and device information, App usage data, Internet Protocol address, information collected through cookies, pixel tags and other technologies. Other Information also includes information that has been anonymized or aggregated in a manner that it no longer reveals your specific identity.
+
+If we are required to treat Other Information as Personal Information under applicable law, then we may use and share it for the purposes for which we use and share Personal Information as detailed in this Privacy Statement.
+
+**Browser and Device Information.** Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Mac), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.
+
+**Society App Usage Data.** When you download and use Society Apps, we and our service providers may track and collect App usage data, such as the date and time your device accesses our servers and what information and files have been downloaded to the App based on your device number.
+
+**Internet Protocol Address.** Your IP address is automatically assigned to your computer by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications, and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location from your IP address.
+
+**Web Server Traffic Pattern Information and Browsing History.** We collect standard web server traffic pattern information and your browsing history. General traffic, Site usage, browser information and length of stay information is collected and stored in log files.
+
+**Cookies.** We use “cookies,” small files that are sent to your web browser and stored on your computer's hard drive, to enhance your online experience. The cookies collect information about your use of our Services, such as the type of browser you use (such as Google Chrome or Internet Explorer), your home domain or Internet service provider, your referrer URL (which is the URL for the website that you were viewing prior to visiting the website), how you were directed to the Services, which specific pages you accessed, how long you view each page, the time and date you access our Services and anonymous traffic data. If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>. If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services.
+
+**Using pixel tags and other similar technologies.** Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates.
+
+**Targeted Outreach and Advertising**. We may work with third-party service providers to target advertisements and outreach to you based on your preferences or other information, in some cases combining data we collect from you through online cookies and other technologies with other de-identified data (such as a hashed, non-readable email or postal address). In addition, we may use third-party service providers to display content-specific advertisements to you after you have left our Sites when you go to other websites. These third-party service providers may use cookies, web beacons or similar technologies to tailor advertisements to interests shown by browsing our Sites or other by visiting other websites. We do not control the third-party service providers' tracking technologies or how they may be used. The collection of your information or use of technologies by third-party service providers is subject to those third-parties’ privacy policies, not the Society’s. For more information on these practices or to learn how to opt-out of receiving targeted advertising from many service providers, please visit <http://optout.aboutads.info/#!/> and <http://optout.networkadvertising.org/>.
+
+**Do Not Track.** Some browsers have a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. We do not currently respond to browser do-not-track signals.
+
+**Analytics.** We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about the use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps, and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/‌partners/](https://www.google.com/policies/privacy/partners/) and opt-out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
+
+**Physical Location.** We may collect the physical location of your device by, for example, using satellite, cell phone tower or Wi-Fi signals. We may use your device’s physical location to provide you with personalized location-based services and content. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we may not be able to provide you with the applicable personalized services and content.
+
+**Anonymous or Aggregate Information.** We use Anonymous Information and Aggregate Information for activities including data analysis and research to gain a greater general understanding of cancer, cancer treatment and the related needs of patients and their caregivers. “Anonymous Information” means information where identifiers have been removed so that it does not directly or indirectly identify, and cannot reasonably be used to identify an individual. “Aggregate Information” means information about groups or categories of individuals which does not identify and cannot reasonably be used to identify an individual. For example, we may use Aggregate Information to compare the types of services our constituents utilize in one geographic location with another to understand how the two groups are different or similar.
+
+**Uses and Disclosures of Other Information.** We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information. If we do this, we will treat the combined information as Personal Information. For example, we may work with data providers to tailor our communications to you, including fundraising and outreach communications, based on your areas of interest and other information about you. To do this, we may place cookies on your browser and combine IP address or browsing history with other de-identified data (such as a hashed, non-readable e-mail or postal address). We may then communicate with you through mail, email, or other channels.
+
+## Our data security protections
+
+We seek to use reasonable organizational, technical and administrative measures reasonably designed to secure the information to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the _“How To Contact Us”_ section below.
+
+## Your privacy options and access
+
+**Contact Preferences and Restrictions.** We respect your privacy and recognize that you may wish to limit the ways in which we contact you and/or share your Personal Information, including for fundraising purposes. The Society offers the following options for restricting use and disclosure of your Personal Information:
+
+  1. Do not contact me by postal mail.
+  2. Do not contact me by telephone.
+  3. Do not contact me by e-mail.
+  4. Do not share my contact information with other nonprofit organizations.
+  5. Do not contact me with fundraising requests supporting the Society.
+  6. Do not contact me.
+
+
+
+To inform us of any desired restrictions, please complete our [Opt Out Form](https://web.archive.org/about-us/policies/opt-out-form.html). If you contact us with an opt-out request, we will honor the request in accordance with timelines set forth in applicable law. Please note that if you opt-out of receiving e-mails, we may still send you important administrative messages, from which you cannot opt-out.
+
+**Registrations and Subscriptions.** If you register for a Society event or sign up for a newsletter or similar subscription, you will receive communications related to that service, regardless of your prior opt-out selections. For instance, if you register as a participant in a Relay For Life® or Making Strides Against Breast Cancer® event, you will receive e-mails related to that event regardless of your overall opt-out selections. If you no longer wish to receive event e-mails or other e-mail subscriptions, please opt-out using the “unsubscribe” link provided in the e-mail communication.
+
+**Mobile Applications**. You can stop collection of information by mobile applications easily by uninstalling the application. You may use the standard uninstall processes available as part of your mobile device or network. To discontinue the collection of geolocation data, you can modify your privacy settings on your mobile device.
+
+**To Request a Copy of your Personal Information.** You may request that the Society provide you with a copy of Personal Information that we maintain such as contact information you have provided, contact preferences you have selected, your donation history, your volunteer activity, etc. To make such a request, please submit an [Information Request Form](https://web.archive.org/content/dam/cancer-org/online-documents/en/pdf/forms/Constituent%20Information%20Request.pdf) or contact us using one of the methods provided in “How to Contact Us” below.
+
+In your request, please make clear what Personal Information you would like to review. For your protection, we may only implement requests with respect to the Personal Information associated with the email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable, consistent with applicable law.
+
+## Notices and Disclosures
+
+**Children’s Privacy**. The Society does not knowingly request or collect information from any person under 13 years of age without parental consent. If you believe that your child has submitted Personal Information to the Society without your consent and you would like this info restricted or removed, please contact us using one of the methods provided in “How to Contact Us” below.
+
+**Links to Third-Party Websites.** Our Services may contain links to third-party websites, whose privacy practices may be different from the Society’s. This Privacy Statement does not address, and we are not responsible for, the privacy, information or other practices of any third-parties, including any third-party operating any website or service to which the Services link. Links to other sites do not imply the Society’s endorsement of the products or services or privacy or security practices of those websites. In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Sites or our Social Media Pages.
+
+**For California Residents**. California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of Personal Information to third-parties for their direct marketing purposes during the preceding calendar year. To make such a request, please submit an [Information Request Form](https://web.archive.org/content/dam/cancer-org/online-documents/en/pdf/forms/Constituent%20Information%20Request.pdf) or contact us using one of the methods provided in “How to Contact Us” below. In addition, if you are a California resident under the age of 18 and a registered user of the Services, you may ask us to remove content or information that you have posted to the Sites. To request removal, please contact us using one of the methods provided in “How to Contact Us” below. We will respond to your request consistent with applicable law. Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user.
+
+**Jurisdiction and Cross-Border Transfer**. The Services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country, or territory other than that of the United States. Your Personal Information may be stored and processed in the United States where our servers are located and our central database is operated. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities may be entitled to access your Personal Information.
+
+**Information on Third-parties.** If you disclose any Personal Information relating to other people to us, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Statement.
+
+## How to contact us
+
+**Privacy Questions and Requests.** If you have any questions about this Privacy Statement, wish to notify us of any desired restrictions, or believe your privacy rights may have been violated, please contact us at:
+
+**Telephone:** 1-800-ACS-2345
+
+**Postal Mail:**  
+American Cancer Society, Inc.  
+ATTN: Security and Privacy Requests  
+Shared Services Business Center  
 8400 Silver Crossing  
-Oklahoma City, OK 73132    
+Oklahoma City, OK 73132
 
-Last Updated: 1/25/2016
+**E-mail:** [privacyrequest@cancer.org](mailto:privacyrequest@cancer.org)
+
+**Security Breach or Fraud Notification.** If you witness or become aware of any suspected privacy or security breach of Society constituent data (i.e., mishandling, theft, loss, or improper disclosure of personal information) or potentially fraudulent activity, please call our toll-free hotline at 1-800-539-7202 or report online at <https://secure.ethicspoint.com/domain/media/en/gui/22719/index.html>. The hotline is available 24 hours a day and is managed by an independent organization.
+
+## Updates to this privacy statement
+
+The Society may modify this Privacy Statement at any time. When changes are made, we will update the “last modified” section at the top of our Privacy Statement. Your use of the Society’s Services following these changes means that you accept the revised Privacy Statement.
+
+Last Modified: February 7, 2018
