@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arlo.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630173230id_/http%3A//www.netgear.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arlo.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614202146id_/http%3A//www.netgear.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | NETGEAR
 
@@ -6,7 +6,7 @@
   * [Investor Relations](http://investor.netgear.com/)
   * [Careers](https://web.archive.org/about/careers)
   * [Press Releases](https://web.archive.org/about/press-releases)
-  * [In the News](https://web.archive.org/about/in-the-news)
+  * [Press Room](http://pressroom.netgear.com/)
   * [Environment](https://web.archive.org/about/environment)
   * [Regulatory/Export Compliance](https://web.archive.org/about/regulatory)
   * [Corporate Social Responsibility](https://web.archive.org/about/corporate-social-responsibility)
@@ -14,8 +14,10 @@
   * [NETGEAR Gives Back](https://web.archive.org/about/netgear-gives-back)
   * [Trademarks](https://web.archive.org/about/trademarks)
   * [Events](https://web.archive.org/about/events)
+  * [Webinars](https://web.archive.org/about/events/webinars/)
   * [Partners](https://web.archive.org/about/partners)
   * [Privacy Policy](https://web.archive.org/about/privacy-policy)
+  * [Privacy Governance](https://web.archive.org/about/privacy-policy/governance/)
   * [Terms and Conditions](https://web.archive.org/about/terms-and-conditions)
   * [Ad & Cookie Policy](https://web.archive.org/about/ad-cookie-policy)
   * [Warranty Information](https://web.archive.org/about/warranty)
@@ -44,7 +46,7 @@ This policy describes how NETGEAR, Inc. and its subsidiaries and affiliates ("NE
 
 **We collect information from you passively** . We use tracking tools like cookies and web beacons. To learn more about how we use these tools, click [here](https://web.archive.org/about/ad-cookie-policy/) . We collect information about users over time when you use this website. We may have third parties collect personal information this way. We also collect information from our devices like the Usage Information described above. 
 
-**We combine information.** For example, we may combine information we get from a third party with information we already have.
+**We combine information.** For example, we may combine information we get from a third party with information we already have. 
 
 ##### We use information as disclosed and described in this document.
 
@@ -84,15 +86,11 @@ This policy describes how NETGEAR, Inc. and its subsidiaries and affiliates ("NE
 
 **You can choose not to install our applications or fill out a warranty card**. This choice may limit your warranty service. 
 
-##### We participate in the U.S.-EU and U.S.-Swiss Safe Harbor Programs
-
-NETGEAR, Inc. participates in the U.S.-E.U. and U.S.-Swiss Safe Harbor Programs. We have certified that we comply with the Safe Harbor Privacy Principles, as set forth by the U.S. Department of Commerce, regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. For more information about the Safe Harbor program and to view our certification, click [here](http://www.export.gov/safeharbor/).
-
 ##### These sites and children. 
 
 Our sites and apps are meant for adults. We do not knowingly collect personally identifiable from children under 13 without permission from a parent or guardian. If you are a parent or guardian and you think your child under 13 has given us information, please [contact us](mailto:privacy.policy@netgear.com). 
 
-Parents, you can learn more about how to protect children’s privacy on-line [here](http://onguardonline.gov/articles/0031-kids%E2%80%99-privacy). 
+Parents, you can learn more about how to protect children’s privacy on-line [here](https://www.consumer.ftc.gov/articles/0031-kids-privacy). 
 
 Certain of NETGEAR’s products are also equipped with parental control features. To learn more about them, click [here](https://web.archive.org/lpc).
 
@@ -115,8 +113,6 @@ If you click on a link to a third party site, you will be taken to websites we d
 You can reach us by using the information on our contact us page, or by email at [privacy.policy@netgear.com](mailto:privacy.policy@netgear.com).
 
 If you want to correct or update your information with NETGEAR, Inc., please email us at [privacy.policy@netgear.com](mailto:privacy.policy@netgear.com).
-
-If contacting us does not resolve the issue, you can raise the issue with the JAMS [SafeHarbor@jamsadr.com](https://web.archive.org/web/20170630173230id_/http%3A//www.netgear.com/about/SafeHarbor@jamsadr.com).
 
 ##### We may update this policy.
 
