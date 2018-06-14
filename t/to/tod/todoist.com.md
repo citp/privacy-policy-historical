@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the todoist.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234926id_/https%3A//todoist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todoist.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614100530id_/https%3A//todoist.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Todoist
 
-## Effective Date: November 10th, 2016
+## Effective Date: May 15th, 2018
 
 ### Information gathering and usage
 
 When registering for Todoist we ask for information such as your name and email address. For Todoist Premium we also store your PayPal email and mobile phone number. Your information is only used internally and won't be shared with others.
 
-Todoist collects the email addresses of those who communicate with us via email, and information submitted through voluntary activities such as site registrations or participation in surveys. Todoist also collects aggregated, anonymous user data regarding app usage. The user data we collect is never personally identifiable and is used to improve Todoist and the quality of our service.
+Todoist collects the email addresses of those who communicate with us via email, and information submitted through voluntary activities such as site registrations or participation in surveys. Todoist also collects aggregated, anonymous user data regarding app usage. The user data we collect is used to improve Todoist and the quality of our service. We only collect personal data that is required to provide our services, and we only store it insofar that it is necessary to deliver these services.
 
 ### Your data
 
-Todoist uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Todoist. Although Todoist owns the code, databases, and all rights to the Todoist application, you retain all rights to your data. We will never share your personal data with a 3rd party without your prior authorization, and we will never sell data to 3rd parties.
+Todoist uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Todoist. Although Todoist owns the code, databases, and all rights to the Todoist application, you retain all rights to your data. We will never share your personal data with a 3rd party without your prior authorization, and we will never sell data to 3rd parties. We process data inside of the United States. We transfer data with third-parties necessary to our ability to provide our services, all of whom are GDPR-compliant and provide the necessary safeguards required if they are outside of the EU.
 
 ### Cookies
 
