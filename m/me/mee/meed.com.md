@@ -1,89 +1,89 @@
-> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223004223id_/https%3A//www.meed.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615011317id_/https%3A//www.meed.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies | Meed
 
-MEED and Emap Limited (Emap) are committed to protecting your privacy and security. From time to time we may invite you to supply personal information in order for us to provide you with services (such as access to subscriber-only services, our bulletin board, email newsletters and competitions).
+This Privacy Policy sets out how Meed Media FZ LLC collects and uses information from users (“User” or “you”) of our website and/or any website which is operated by Meed Media FZ LLC (“Meed Media FZ LLC”, “our”, “we” or “us”). This Privacy Policy applies to the Website and all products and services offered by Meed Media FZ LLC.
 
-In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to affiliates of Emap for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy [“Who Else Will We Tell About You”](https://www.meed.com/privacy-policy-cookies/#who) section below.
+### What Information Do We Collect?
 
-This Policy only applies to the use that we make of data provided to us via the Internet and email. Other uses may be made of data provided to Emap in correspondence, by telephone or by other means not detailed in this Policy.
+### We may collect the following information:
 
-### Why We Need To Collect Information From You
+(a) personal information from Users in a variety of ways, including, but not limited to, when Users visit our Website, register on the Website, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Website. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Website anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Website related activities.
 
-We will notify you as to the types of information we are collecting about you as well as the uses we intend to make of that information. We may use the information we collect about you to notify you from time to time about important new features and changes to our online services or special offers, competitions or promotions we think you will find of interest.
+(b) non-personal information about Users whenever they interact with our Website. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Website, such as the operating system and the Internet Service Provider’s utilised and other similar information.
 
-### Who Else Will We Tell About You?
+(c) cookies and log files may be used on our Website to enhance User experience. A cookie is a small text file written to an individual’s hard drive that contains the user ID. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies at being sent. If they do so, note that some parts of the Website may not function properly. You can find out more about the use of cookies and how you can remove them by going to [http://allaboutcookies.org](http://allaboutcookies.org/) or [http://www.cookiecentral.com](http://www.cookiecentral.com/).
 
-Subject to what we say below, we will not pass on your personal details to any third party, including site sponsors or advertisers, without your consent. We may provide aggregate statistics about our users, sales, traffic patterns and related site information to Our third-party partners (if any), but these statistics will not contain any information about you from which you could be identified.
+### How we use collected information
 
-If you enter any competitions on this Web site it may be necessary for us to provide your personal information to the promoters of the competition or to others that are involved in the organisation of the competition or the prize-giving.
+Any personal data that you give us will be treated with the utmost care and security. The personal data we collect is used to provide you with the service that you have requested or to respond to an enquiry that you have made.
 
-Of course, if you post any personal information to any bulletin boards or forums, this information will immediately be made available to other users throughout the world. Also, we may transfer your personal information to purchasers or subsidiaries (and potential purchasers or subsidiaries) if MEED or Emap acquires, or is acquired by or merged with, another company. This will enable you, for example, to continue your relationship with MEED despite a change of ownership.
+Meed Media FZ LLC uses User personal information we have collected for the following purposes:
 
-We may also need to provide your data to our subscription and other fulfilment agents in order to provide goods or services to you.
-
-Finally, Emap is not responsible for all of the web sites that are referred to, or linked to, in this Web site. When you visit these other web sites your personal information might be used by others in ways that do not conform to the terms of this Policy.
-
-### Security and possibility of international transfer.
-
-Please note that countries outside the EEA may not have the same level of protection as countries within the EEA, but We always demand that those parties to whom We transfer data adhere to the same security procedures that We follow ourselves. By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information.
-
-### Cookies
-
-When you visit an Emap website(s), Emap uses “cookie” technology try to make that experience simple, personalised and meaningful. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart phone, tablet or other mobile device when you visit a website and which store and sometimes track information about you’re use of the website. A number of cookies Emap use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer.
-
-Emap use cookies to:
-
-  * create a specific log-in session for a visitor to an Emap website in order that page requests by that visitor are delivered in an effective, secure and consistent manner;
-  * recognise when a visitor to an Emap website has visited before; this means we can identify the number of unique visitors we receive to the website and allows us to make sure we have enough capacity for the number of users that we get;
-  * customise elements of the promotional layout and/or content of the pages of the website;
-  * store your product selections to the shopping basket;
-  * collect statistical information about how our visitors use the website(s) so that we can improve the website(s) and learn which parts are most popular to visitors; and
-  * Gather information through our advertising partners, about the pages on the Emap website(s) that you visit, and also other information about other websites that you visit, so as to place you in a “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest based advertising, and about how to turn this feature off please visit[ www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) or follow the link to the website of our advertising partners shown below. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
+  * to personalise User experience: we may use information individually or aggregated to understand how our Users use the services and resources provided on our Website.
+  * to improve our Website: we continually strive to improve our Website offerings based on the information and feedback we receive from you.
+  * to improve customer service: your information helps us to more effectively respond to your customer service requests and support needs.
+  * to process transactions: we may use the information Users provide when placing an order to service that order, as well as provide relevant information about our other products. We do not automatically share this information with third parties except to the extent necessary to provide the service or when explicitly given permission by the User. The User can at any time change its preferences by contacting us via our Website.
+  * to administer Website features: such as content, promotions and surveys
 
 
 
-Some of the cookies used by Emap websites are set by us, and some are set by third parties who are delivering services on our behalf.
+and to send Users information they agreed to receive about topics we think will be of interest to them.
 
-Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting[ www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on an Emap website(s) you may not be able to take full advantage of the website(s) if you do so.
+  * to send periodic emails: the email address Users provide will be used to send them information and updates pertaining to their orders as well as (a) respond to their inquiries and requests or (b) provide relevant information about our other products.
 
-a)  _Our cookies_
 
-We have described the main cookies we use and what we use these for below:
 
-**Cookie name** | **Purpose** | **More Information**  
----|---|---  
-.ASPXAUTH | ASP Authentication – A cookie used to determine if a user is authenticated | [www.meed.com](https://www.meed.com/)  
-uid | Cookie used to tracking what is being copied from the site | [www.tynt.com/about-tynt/privacy-policy](http://www.tynt.com/about-tynt/privacy-policy)  
-SSOEX_1477230 | Concurrency cookie – manages the number of active sign ins to the site | [www.meed.com](https://www.meed.com/)  
-SSOEX_1477876 | Concurrency cookie – manages the number of active sign ins to the site | [www.meed.com](https://www.meed.com/)  
-emapauth | Login for MEED.com | [www.meed.com](https://www.meed.com/)  
-tempid | Single sign-on | [www.meed.com](https://www.meed.com/)  
-  
-b)  _Third party cookies_
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Website.
 
-Certain cookies are either set by third parties on the Website or these are set by us using the third parties cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website.
+### User’ right to Opt-out
 
-**Cookie name** | **Purpose** | **More Information**  
----|---|---  
-__uuc2 | Cookie for tracking ‘Editors Choice’, ‘Also on MEED’ and ‘twitter’ widgets blocks on MEED.com | [www.flite.com/privacy-policy/](http://www.flite.com/privacy-policy/)  
-__utma | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [www.google.co.uk/intl/en/analytics/privacyoverview.html](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
-__utmb  
-__utmc  
-__utmz  
-WT_FPC | WebTrends uses a cookie to track the number of unique users of this website. It basically tells us whether the website has a small number of regular visitors or a large number of infrequent visitors. The cookie only relates to what goes on in this website. | <http://webtrends.com/privacy-policy/>  
-ACOOKIE  
-uid | Social sharing tracking for user ID and login time | [www.addthis.com/privacy](http://www.addthis.com/privacy)  
-uvc | Social sharing tracking | [www.addthis.com/privacy](http://www.addthis.com/privacy)  
-uit | Social sharing tracking for user ID and login time | [www.addthis.com/privacy](http://www.addthis.com/privacy)  
-psc | View counter cookie | [www.addthis.com/privacy](http://www.addthis.com/privacy)  
-  
-In addition to cookies, tracking gifs may be set by us or third parties in respect of your use of the Site. Tracking gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand which parts of the website are visited or whether particular content is of interest.
+If you do not want to continue to receive e-mail communications from us please let us know by sending an e-mail to [unsubscribe@meed.com](https://www.globaldata.com/privacy-policy/unsubscribe@globaldata.com). Should you request that we amend or suppress records containing your personal data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
 
-### Feedback, Comments & Suggestions
+### How we protect your information
 
-If you have any queries about Our Privacy Policy or any queries about the protection of personal information we hold about you, please do not hesitate to contact us. Our address is  **Digital Department, MEED, 20th Floor, Al Thuraya Tower 1, Dubai Media City, UAE PO Box 25960.**
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorised access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Website.
 
-### Finally
+Sensitive and private data exchange between the Website and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Website is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-If you do not agree with this Privacy Policy you should not submit your personal information on this website. Please refer to the sites [Terms & Conditions Of Use.](https://www.meed.com/meed-terms-conditions-use/)
+### Sharing your personal information
+
+Unless we are given explicit permission to do so; we do not sell, trade, or rent Users personal information. We may without consent share generic aggregated information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Website or administer activities on our behalf, such as sending out newsletters or surveys.
+
+### List of our websites
+
+www.meed.com  
+www.meedprojects.com  
+buy.meed.com
+
+### Third party websites
+
+Users may find advertising or other content on our Website that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Website, is subject to that website’s own terms and policies.
+
+### Advertising
+
+Ads appearing on our Website may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognise your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+### Changes/Updates to Privacy Policy
+
+In order to keep up with changing legislation and best practice, we may revise this privacy policy at any time. When we do, we will post a notification on the main page of our Website. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Website, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Website. Your continued use of the Website following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Contact us
+
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at unsubscribe@meed.com or alternatively:
+
+Data Protection Officer
+
+Meed Media FZ LLC
+
+John Carpenter House
+
+John Carpenter Street
+
+London EC4Y 0AN
+
+United Kingdom
