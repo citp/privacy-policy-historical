@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the forexpeacearmy.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227220452id_/http%3A//www.forexpeacearmy.com/community/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexpeacearmy.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614092831id_/http%3A//www.forexpeacearmy.com/community/help/privacy) for the most accurate reproduction.*
 
-# Privacy and Legal | Forex Peace Army - Your Forex Trading Forum
+# Privacy-Legal-Cookies | Forex Peace Army - Your Forex Trading Forum
 
 ### Privacy Policy
 
-This privacy policy sets out how ForexPeaceArmy.com uses and protects any information that you may give while using this website. ForexPeaceArmy.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. ForexPeaceArmy.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from July 31, 2015.
+_Updated May 23rd, 2018_
+
+This privacy policy sets out how ForexPeaceArmy.com uses and protects any information that you may give while using this website. ForexPeaceArmy.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. ForexPeaceArmy.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 24th, 2018.
 
 **What we collect.** We may collect the following information:  
 
@@ -13,13 +15,15 @@ This privacy policy sets out how ForexPeaceArmy.com uses and protects any inform
   * contact information including email address
   
 
-  * demographic information such as geo-locations, preferences and interests other information relevant to customer surveys and/or offers
+  * demographic information such as geo-locations from IP addresses, preferences, interests, and other information relevant to customer surveys and/or offers
 
 
+
+Please be aware that we use MailChimp as our mailing automation platform. By agreeing to these terms, you acknowledge that the username and email address you provide and the IP used to signup will be sent to MailChimp for processing in accordance to their Privacy Policy and Terms.
 
 **What we do with the information we gather.**
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: internal record keeping, products or services reviews authentication and verification, as well as scam incidents investigations . We may use the information to improve our products and services. We may periodically send promotional emails about new products, special offers or other information, which we think you may find interesting using the email address, which you have provided. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, (phone, fax or mail when available). We may use the information to customize the website according to your interests.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: internal record keeping, products or services reviews authentication and verification, as well as scam incidents investigations. We may use the information to improve our products and services. We may periodically send promotional emails about new products, special offers or other information, which we think you may find interesting using the email address, which you have provided. From time to time, we may also use your information to contact you for market research purposes. We only contact regular members by email. We may try to contact companies or company representatives by other methods available on those companys' websites or from other online sources. We may use the information to customize the website according to your interests.
 
 ### Security.
 
@@ -33,11 +37,11 @@ ForexPeaceArmy.com users that don't want their data reported by the Google can i
 
 ### Links to other websites.
 
-Our website contains links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other websites. Therefore, we cannot be responsible for the protection and privacy of any information, which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Our website contains links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over the content or safety of other websites. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 ### Controlling your personal information.
 
-You may choose to restrict the collection or use of your personal information by not filling any forms on this website. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us using contact us form at the bottom of the site pages with the request to modify or delete your personal information previously submitted to ForexPeaceArmy.com.
+You may choose to restrict the collection or use of your personal information by not filling any forms on this website. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting unsubscribing from one or more of our mailing lists in the link provided in such emails. If you wish to modify your account preferences, please login to your forums account. If you want to change your username, please [CLICK HERE](http://www.forexpeacearmy.com/community/threads/how-do-i-change-my-username-in-the-forex-peace-army-forums.42837/) and proivide the requested information. If you want your user account and associated information deleted, please [CLICK HERE](http://www.forexpeacearmy.com/community/threads/i-want-to-delete-my-forums-account-how-do-i-do-that.55632/) and send the request form.
 
 ### How to Unsubscribe from our list.
 
@@ -45,17 +49,17 @@ If you no longer wish to receive communications from ForexPeaceArmy.com, it’s 
 
 ### Details of Personal Information.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties, which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please send us a message using contact us form at the bottom of the site pages. If you believe that any information we are holding on you is incorrect or incomplete, please contact us as soon as possible. We will promptly correct any information found to be incorrect.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties, which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please [CLICK HERE ](http://www.forexpeacearmy.com/community/threads/what-information-does-the-fpa-have-about-me.55633/) and fill out the request form. If you believe that any information we are holding on you is incorrect or incomplete, please contact us as soon as possible. We will promptly correct any information found to be incorrect.
 
 ### Exceptions to the Above Policy.
 
 In order to defend the integrity of the Forex Peace Army's forums and reviews against spam and deliberately misleading information, we reserve the right reveal the location information, user ID, email address, IP(s), and other available information of any site users who engage in the following activities:
 
   1. By promoting external products or services in the forums outside of areas that explicitly permit commercial postings.
-  2. External company representatives posting as if they are customers in the forums and/or reviews.
+  2. External company representatives or hired freelancers posting as if they are customers in the forums and/or reviews.
   3. External company representatives providing potentially misleading location information.
-  4. External company representatives posting as if they are not affiliated with a company in ways that appear to be meant to disrupt or cast doubt a client's complaint about the company.
-  5. External company representatives posting as clients to attack competing companies.
+  4. External company representatives or hired freelancers posting as if they are not affiliated with a company in ways that appear to be meant to disrupt or cast doubt a client's complaint about the company.
+  5. External company representatives or hired freelancers posting as clients to attack competing companies.
   6. Users found to be controlling multiple forums account without prior authorization from Forex Peace Army management.
 
 
@@ -64,7 +68,7 @@ In order to defend the integrity of the Forex Peace Army's forums and reviews ag
 
 **Governing Law.** All terms and conditions of this website are subject to and to be interpreted by the laws of the United States of America and the State of California. Any disputes arising with regard to this website or its content will be brought only in the courts of the State of California or the United States District Court for the Central District of California.
 
-Per Forex Peace Army policy, any legal threats or implied legal threats made against the Forex Peace Army by any means may be published in part or in whole, including the contents of any email message headers. We reserve the right to edit these, and may include the name, IP, location, and other contact information of the person making the threat. We are always willing to discuss how to deal with any incorrect information that may get posted on our site. Please use the "Contact Us" link and open a civilized dialog with us instead of making threats. We greatly prefer to see problems between companies and clients get resolved. If you see that someone has made a post about you or your company that you feel violates the law, contact us and we'll let you know what you can do about it. If there is an illegal copy of your company's products on our site, let us know and we'll take care of the situation.
+Per Forex Peace Army policy, any legal threats or implied legal threats made against the Forex Peace Army by any means may be published in part or in whole, including the contents of any email message headers. We reserve the right to edit these, and may include the name, IP, location, and other contact information of the person making the threat. We are always willing to discuss how to deal with any incorrect information that may be posted on our site. Please [CLICK HERE](http://www.forexpeacearmy.com/community/threads/how-can-negative-reviews-and-forums-posts-at-the-forex-peace-army-be-removed.42569/), read the post, and fill out the form to open a civilized dialog with us instead of making threats. We greatly prefer to see problems between companies and clients get resolved. If you see that someone has made a post about you or your company that you feel violates the law, contact us and we'll let you know what you can do about it. If there is an illegal copy of your company's products on our site, [CLICK HERE](http://www.forexpeacearmy.com/community/threads/someone-posted-my-copyrighted-material-at-the-fpa.42834/) to let us know and we'll work with you to take care of the situation.
 
 Any threats of an illegal nature against ForexPeaceArmy.com or its employees will also be considered to be a waiver of privacy rules. In addition to everything that may be done with a legal threat, these may also be reported to law enforcement and financial regulators.
 
