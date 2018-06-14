@@ -1,179 +1,257 @@
-> *The following text is extracted and transformed from the agoda.net privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912053653id_/https%3A//www.agoda.com/info/agoda-privacy.html%3Fckuid%3D7052b5a4-5fce-4dcc-9f0a-e37ea04cff00) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agoda.net privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614234726id_/https%3A//www.agoda.com/info/agoda-privacy.html) for the most accurate reproduction.*
 
 # Agoda Privacy Policy
 
 Agoda Privacy Policy
 
- **Introduction**
+**Introduction**
 
-Last Updated in August 2017
+Last Updated in May 2018
 
-Agoda.com is owned and operated by Agoda Company Pte. Ltd. ("Agoda" or "we"), a company registered in Singapore. The following Privacy Policy describes how we as a data controller collect, use, disclose, and otherwise process personally identifiable information that we collect about individuals ("Personal Data") in connection with the services available from Agoda through the website located at **[www.agoda.com](https://www.agoda.com/)** ("Site"). References to the Site are deemed to include derivatives thereof, including but not necessarily limited to mobile websites and applications. By visiting the Site, you are consenting to the collection, use, disclosure and processing of your Personal Data as described in this Privacy Policy.
+This Privacy Policy describes how Agoda Company Pte. Ltd. (30 Cecil Street, Prudential Tower #19-08, Singapore 049712) ("Agoda," "we," "us," "our") collects, uses, and shares information about you when you visit and interact on our website (mobile and desktop) and mobile app (collectively, "Site"). Below is a summary of our privacy practices. Our full Privacy Policy is available below, or you can click the links on any of the points detailed in the summary table for further details.
 
-On occasion, Agoda may revise this Privacy Policy to reflect changes in the law, our Personal Data collection and use practices, the features of our Site, or advances in technology. If we make revisions that change the way we collect or use your Personal Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of this Privacy Policy. Therefore, you should review this Privacy Policy periodically so that you are up to date on our most current policies and practices. Agoda will also prominently post such material changes prior to implementing the change. If you do not agree with any changes or modifications to the Privacy Policy, please do not continue using the Site. You will be deemed to have consented to any modification of the Privacy Policy when you use the Site after the effective date of the modification.
+1\. Collection| We may collect information about you, such as your name, phone number, email address, and credit card details through your use of the Site.  
+---|---  
+2\. Use| We may use your information to provide the requested services, maintain and improve the Site, and send you marketing communications.  
+3\. Mobile Devices| With your consent, we may send you push notifications with information about your reservations and Agoda programs of your choosing.  
+4\. Sharing| We may share your information with suppliers, service providers, and our affiliates.  
+5\. Privacy Rights| You have rights related to requesting information regarding how we share with third parties.  
+6\. Cookies| We may use cookies and similar technologies to help provide our Site, understand and customize your preferences, and display relevant advertising.  
+7\. Opting out of Marketing Emails| You may opt-out of Agoda's email marketing communications by using the unsubscribe link in our marketing emails or by changing your account settings.  
+8\. International Transfers| We maintain appropriate protections for cross-border transfers as required by law for international data transfers.  
+9\. Information from Other Partners| We may collect information from affiliated entities, business partners, or other third party providers and you may opt-out of this collection.  
+10\. Security| We maintain reasonable security measures to protect your information and require our service providers to do the same.   
+11\. Access Rights| You may exercise certain rights of access, correction, deletion, portability, or object to certain processing of your information.   
+12\. Updates to Privacy Policy| We will notify you of any material changes by posting the updated version of this Privacy Policy and taking other steps as needed.   
+13\. Third Party Links| We may provide links to Third Party Websites that are not owned or controlled by us, and are governed by separate user terms and privacy statements.   
+14\. Additional Considerations| Information related to minors, policy language, and Terms of Use.  
+15\. Contacting Us| Please contact us with any questions about this Privacy Policy or our privacy practices as detailed below.  
+  
+**1\. Information We Collect**
 
-**Information We Collect**
+We collect Information about you that you provide to us when using the Site, such as your name, address, phone number, credit card details, e-mail address, accommodation name, accommodation location and/or length of stay, and your Agoda account password.
 
-We collect Personal Data about you that you provide to us when using the Site. Personal Data may include your name, address, phone number, credit card details, e-mail address, accommodation name, accommodation location and/or length of stay. In addition to this, when using our Site, even if you do not make a reservation, we may collect other certain information, such as your IP address, geographic data, your nationality and password, search preferences related to specific searches, which browser you’re using, and information about your computer’s operating system, application version, language settings and pages that have been shown to you. If you are using a mobile device, we might also collect data that identifies your mobile device, device-specific settings and characteristics and latitude/longitude details, and if you participate in an Agoda program there may be limited additional data that we may collect from the accommodation about your stay, for example, a list of charges (anonymized) as part of the Agoda Reception program. When you make a reservation, our system registers through which means and from which websites you have made your reservation.
+By visiting our Site, we may also automatically collect certain usage information, such as your IP address, geographic data, country, search preferences related to specific searches, browser, and information about your device's operating system, application version, language settings, and pages that have been shown to you. If you are using a mobile device to access our mobile app or mobile optimized Site, we might also collect information that identifies your mobile device, such as the device ID, location of the device (with your consent), and device-specific settings and characteristics.
 
-Pre-reservation chat support: in certain circumstances we may provide Agoda customers with pre-reservation chat support. The purpose of this support is to help customers with any pre-reservation questions that they may have but should a customer decide to proceed with the reservation on the Site, the customer will be expected to follow the normal reservation procedure him or herself. As such, we will generally not ask customers for any Personal Data e.g. no credit card numbers or customer email addresses but in case any information a customer provides to Agoda is deemed by law to be Personal Data or if the customer decides to disclose Personal Data to Agoda or where such Personal Data is required to be collected in order to provide pre-reservation chat support, then this Privacy Policy will apply to such Personal Data collected.
+If you participate in an Agoda program, there may be limited additional information that we may collect from the accommodation about your stay; for example, a list of charges (anonymized) as part of the Agoda Reception program. When you make a reservation, our system registers through which means and from which websites you have made your reservation. We may also collect certain information through cookies, tags, and similar technologies as detailed below.
 
-**Protecting Your Personal Data**
+Where required by law, we rely on the following legal bases to process information about you:
 
-To prevent unauthorized access, we maintain reasonable physical, electronic and organizational procedures to protect Personal Data against accidental or unlawful destruction or accidental loss, alteration, or unauthorized disclosure or access. To protect credit card transactions, Agoda.com currently uses Secure Socket Layer technology to encrypt credit card information during transit.
+  * Necessity to Perform Contract with You - we need to process your information in order to provide our travel reservation services to you, answer questions and requests from you, and provide customer support;
+  * Our Legitimate Interests - we process your information for security and safety; to detect and prevent fraud; to protect and defend the rights or property of others, or our own rights and interests; to customize and provide our reservation travel services to you; and to respond to lawful requests, court orders, and legal process;
+  * Compliance with Legal Obligations - we need to process your information to comply with relevant laws and regulatory requirements;
+  * Consent for Direct Marketing Communications and Non-Essential Cookies - we rely on your consent to send direct marketing and to use/allow non-essential cookies. You can unsubscribe from direct marketing at any time by following the instructions set out in this Privacy Policy; and
+  * Protect Vital Interest - we may need to process your information in case of emergency involving an individual's life or health.
 
-**How We Use the Information We Collect– Credit Card on File**
 
-i) General Use: We use Personal Data and other information collected through the Site to (a) register you with the Site and create your user account, (b) provide you with the requested services (mainly to process and confirm your reservation with the accommodation provider or other supplier) after verifying your credentials, (c) provide you with information about our services on the Site or on other websites and to communicate with you to the extent necessary to provide such requested services, (d) build features that will make the services available on the Site easier to use, (e) for an improved user experience, internal training and general optimization purposes, (f) for the detection and prevention of fraud and other illegal or unwanted activities or (g) contact you in case there is any issue with your booking. This includes faster purchase requests, better customer support and timely notice of new services and special offers.
 
-ii) Marketing Activities & Reminders: We also use your information for marketing activities, as permitted by law. For example: 
+**2\. How We Use the Information We Collect**
 
-* When you make a reservation with us, set up a user account, complete or enter details into a booking form, or provide us with your contact details we may use your contact information to send you news of products and services relevant and useful for travellers. With your consent – if consent is required under local law – we may also send you other regular newsletters by email. You can opt out, or unsubscribe, from marketing communications at any time using the "Unsubscribe" link in each newsletter or communication, or you can administer your subscriptions through your account (if you've created one).
-* Based on the information you share with us, individualized offers may be shown to you on the Site, in mobile apps or on third-party websites, including social media sites. These might be offers that you can book directly on the Site, or third-party offers or products we think you might find interesting.
-* If you have not finalized a reservation online, we may send you a reminder to continue with your reservation. We believe that this additional service is useful to you because it allows you to carry on with a reservation without having to search for the accommodation again or fill in all the reservation details from scratch.
-* Please see the section below titled “Cookies, Page Tags and Data Use” on how we use this data for advertising purposes.
+We may use information collected through the Site to:
+
+  * Provide you with the requested services, such as creating a user account, processing and confirming your reservation, and communicating with you about services requested (e.g., pre-reservation or post booking chat support (excluding credit card number), special request, cancellations, rewards
+  * Send you email marketing communications about products and services that may be relevant to you
+  * Conduct surveys or provide you with information about our services on our Site or on other websites you may visit
+  * Maintain and improve the Site, tailor the user experience, and for internal training
+  * Protect the security of you and the Site
+  * Exercising a right or obligation conferred or imposed by law, including responding to request and legal demands
+
+
+
+When you make a reservation on one of our business partners’ websites or apps, we may also receive certain information such as your name and reservation information, including the accommodation reserved, in order to process your reservation and identify which channel your reservation has originated from.
+
+If you have not finalized a reservation online, we may send you a reminder to continue with your reservation. We believe that this additional service is useful to you because it allows you to carry on with a reservation without having to search for the accommodation again or fill in all the reservation details from scratch. You may opt-out of receiving these reminders as detailed below under "Opting Out of Marketing Communications from Us."
 
 Please note that the confirmation emails and text messages sent after your booking, as well as the guest review emails sent after your departure, are not marketing messages. These messages are part of your accommodation reservation process. Respectively, they contain information for you to check in at your booked accommodation, and tools to optionally rate that accommodation after your stay. You will continue to receive them, even if you have opted out of our marketing messages. Similarly, opting into receiving Price Alerts will not affect any other choices you have made regarding receiving communications from us. If you elect to receive Price Alerts, you will be able to opt out of receiving the same by clicking on the “turn off price alerts” or a similar message found in the Price Alert sent to you.
 
-iii) Credit Card on File: When logging in, you will have the ability to save credit card details to your personal account for faster future bookings and payments. Your card details are always secure using strong encryption and you can always log in to your personal account to delete, edit or add certain credit card details. For security reasons, the number cannot be edited (but the card details can be deleted). When viewing card details, only the last 4 digits of the number will be visible. Please note that we will store the last 4 digits of your credit card securely upon any booking made (this is required to manage any refund requests for that booking).
+Moreover, and as further described in the Terms of Use, if you are completing the booking for another person who will stay at the reserved accommodation, you also have the option to insert the guest’s email address for the purpose that the guest will receive the reservation confirmation and a separate invitation to complete a guest review. You are required to ensure that you are permitted to share the guest’s email address with Agoda for this purpose.
 
-**Sharing Your Personal Data**
+ _Communications on the Site_
 
-Agoda may share your Personal Data with suppliers such as accommodation properties, third party accommodation suppliers like Booking.com and other third parties we appoint to perform services on our behalf, such as third party loyalty programs, web hosting, data analysis, marketing (also on websites of such third parties), customer care, credit card and payment services and related services. If you are enrolled in the Agoda Reception program as detailed in Terms of Use, Agoda may share your credit card data that you may have on file with Agoda with the property you have booked at but only to the extent necessary to allow the functioning of the Agoda Reception program and the charging by the accommodation for charges incurred by you at the relevant property. All such third parties will be under an obligation to maintain the security and confidentiality of the Personal Data, and to process the Personal Data only in accordance with our instructions.
+We offer you and accommodation partners various means to communicate about accommodations and existing reservations, directing the communications through the Site. You can contact us with questions about your reservation or about your accommodation via the Site, and via other channels that we may make available.
 
-As mentioned in our Terms of Use and in order for Agoda to offer the best in class inventory to customers, Agoda may source accommodation from third party accommodation suppliers and as a result Agoda may share your Personal Data with such third party accommodation suppliers which may include other entities within the Priceline Group of companies e.g. Booking.com but only to the extent necessary to ensure that your Agoda reservation is reserved with the relevant accommodation. Further, and for the same purposes, such third party accommodation suppliers may also share your Personal Data to the same extent with the relevant accommodation that it has contracted with directly. In such case Agoda will continue to provide you with reservation and other support services in respect of such accommodation that you have reserved on an Agoda platform. 
+We may access communications and may use automated systems to review, scan, and analyze communications for security purposes; fraud prevention; compliance with legal and regulatory requirements; investigations of potential misconduct; product development and improvement; research; customer engagement, including to provide you with information and offers that we believe may be of interest to you; and customer or technical support. We reserve the right to block the delivery of or review communications that we, in our sole discretion, believe may contain malicious content, spam, or may pose a risk to you or, accommodation partners, us, or others. Note, all communications sent or received using the Site’s communication tools will be received and stored by us. Business partners through whose platform you made the reservation and accommodation partners may choose to communicate with you directly via email or other channels that we do not control.
 
-In some cases, Agoda may require that you transact directly with a third party to obtain services, or when you use the Site to reserve an accommodation room or obtain another service (such as points under a third-party loyalty program), we may provide your Personal Data to that accommodation property or other involved third party.
+ **3\. Mobile Devices**
 
-Agoda may propose other services (typically “add-ons”) to help plan your trip, to offer certain benefits (e.g. get points for third party loyalty or mileage programs) or for another purpose that may interest you. These services are offered by third party providers. As stated above, relevant data about this service may be shared with such third party providers to ensure optimal service.
+With your consent, we may send you push notifications with information about your reservation, potential future stays, or as part of any Agoda programs that you participate in, including coupons. You may grant us access to your location information or contact details in order to provide services requested by you. When you upload a picture from your mobile device, your picture may also be tagged with your location information. Please read the instructions of your mobile device to understand how to change the settings and enable the sharing of such information or the receipt of (or opt out of receiving) push notifications (including Software Development Kit ("SDK") and push token data). Different device operating systems may have different default settings, so please familiarize yourself with such settings governing push notifications.
 
-Business partners: We work with many business partners around the world. Some of these business partners distribute or advertise our services, as well as help our other business partners distribute and advertise their own travel-related services. These business partners may also include the Priceline corporate group, a group which includes agoda.com. This may mean that their services are integrated into our website/apps, they have been enabled to show you a customized advertisement, or the agoda.com online reservation services are integrated in their websites and/or apps. 
+ **4\. Sharing Your Information**
 
-When you make a reservation on one of our business partners’ websites or apps, certain personal data that you give them will be forwarded to us. If customer service is provided by the business partner, agoda.com will share details relevant to your reservation with the business partners (as and when needed) in order to provide you with appropriate and efficient support. When you make a reservation through one of our business partners’ websites, the business partners may receive certain parts of your personal data related to the specific reservation. This is for their own internal purposes (such as analytical purposes) and, if requested by you, for the administration of loyalty programs or marketing.
+In connection with your visit to our Site and use of our services, we may share your information as follows:
 
-When you make a reservation on a business partners’ website, please also take the time to read their privacy policies if you wish to understand how these business partners may process your personal data. When we offer you other travel-related products and/or services, your information may be shared with the offering business partners to handle or administer your request. For fraud detection and prevention purposes and as strictly necessary, we may also exchange information about our users with business partners.
+  * _Suppliers_ \- such as accommodation properties (e.g., the specific accommodation that you have requested us to reserve) and/or third party accommodation suppliers (e.g., Booking.com) in order to finalize your reservation. If you are enrolled in our Agoda Reception Program, we may share your credit card information with suppliers in order to provide the program and cover charges incurred. Suppliers also include transportation providers that you have booked through our Site in order to confirm your transportation booking.
+  *  _Third Party Service Providers_ \- such as third party loyalty programs, web hosting, data analysis, marketing (also on websites of such third parties), customer care, credit card and payment services, and other add-on (e.g., mileage program, trip planning) service providers we appoint to perform services on our behalf.
+  *  _Our Affiliated Group Companies_ \- our affiliated (group) companies' employees who have access to this information with our permission and who need to know or have access to this information to perform the service requested by you (including customer services) and internal (audit/compliance) investigations.
+  *  _Where Required or Permitted by Law_ \- such as to protect ourselves against liability, to respond to subpoenas, judicial processes, legitimate requests, warrants or equivalent by law enforcement officials or authorities, to investigate fraud or other wrongdoing or as otherwise required or necessary in order to comply with applicable law, protect our legitimate interests or to the purchasers in connection with any sale, assignment, or other transfer of all or a part of our business or company. We may also, in compliance with applicable law, disclose your information to enforce or apply the terms and conditions applicable to our services or to protect the rights, property, or safety of Agoda, our users, or others.
+  *  _Business Reorganization_ \- such as part of any sale, assignment or other transfer of our business, or transition of service to another provider. We will ask for your consent if required by applicable law.
 
-Save for disclosures mentioned in this Privacy Policy or as required or permitted by law in any relevant jurisdiction as mentioned below and the disclosure of your Personal Data and information required for completing your booking with the relevant accommodation of your choice and the sharing of certain Personal Data with selected partners where relevant (your details will be used for reporting and analysis purposes only), we will not disclose your Personal Data to third parties without your consent. However, we reserve the right to disclose your Personal Data to our affiliated (group) companies (in and outside your home country), including our affiliated (group) companies' employees and our trusted agents and representatives who have access to this information with our permission and who need to know or have access to this information to perform the service requested by you (including customer services) and internal (audit/compliance) investigations.
 
-Agoda may, in compliance with applicable law, disclose Personal Data to protect ourselves against liability, to respond to subpoenas, judicial processes, legitimate requests, warrants or equivalent by law enforcement officials or authorities, to investigate fraud or other wrongdoing or as otherwise required or necessary in order to comply with applicable law, protect our legitimate interests or to the purchasers in connection with any sale, assignment, or other transfer of all or a part of our business or company. We may also, in compliance with applicable law, disclose Personal Data to enforce or apply the terms and conditions applicable to our services or to protect the rights, property or safety of Agoda, our users or others.
 
-In the situations described above, the recipient of the Personal Data may be located in a jurisdiction that may have different standards of data protection compared to the laws in your home jurisdiction.
+We provide appropriate protections for such sharing as required by applicable law to prohibit third parties from using your information for their own purposes, and to address the security and confidentiality of your information. Except as disclosed in this Privacy Policy or as required or permitted by applicable law, we will not disclose your information to third parties without your consent.
 
-**Our Policy Concerning Cookies, Page Tags and others**
+ **5\. Privacy Rights**
 
-By visiting our Site, you consent to the usage of cookies, tags, pixels, software development kits (“SDKs”) and application program interfaces (“APIs”) as described below. Our Site uses session and persistent cookies as well as page tags to collect and store certain information about you. A cookie is a small piece of data that is sent to your computer from the Site and stored on your computer’s hard drive. A page tag is a piece of code which reads and writes cookie data. Cookies or page tags may be from Agoda and/or third party vendors we have chosen to work with. Session cookies disappear from your computer when you close the browser. Persistent cookies remain on your computer after the browser has been closed, but can be deleted at any time through your browser settings. The use of these cookies and page tags may vary, and are described in the appropriate sections below.
+ _California Privacy Rights_
 
-_Opting Out_
+If you are a California resident, you have the right to request information from us about how we may share certain categories of your information with third parties, for the third parties' direct marketing purposes. To exercise this right, please contact us at [dpo@agoda.com](mailto:dpo@agoda.com) with "California Privacy Rights" in the subject line to receive such information.
 
-If you want to prevent your browser from accepting cookies, if you want to be informed whenever a cookie is stored on your computer or if you want to delete cookies from your computer, please make the necessary changes in your Internet browser settings, typically under the sections “Help” or “Internet Options”. If you disable or delete cookies in your Internet browser settings, you might not be able to access or use important functions or features of this Site, and you will be required to re-enter your log-in details. Please also note that opting out of a third party cookie (see below) does not mean that you will no longer receive or be subject to online advertising or marketing analysis. It means that the network from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns. Please also note that if you clear all cookies on your browser, or use a different browser or computer, you will need to complete the opt-out procedure again.
+ _South Korea Privacy Rights_
 
-_Informational and Opt Out Tools_
+If you are a South Korean resident, you may request information from us about how we may share certain categories of your information with third parties. Agoda may provide third parties with your information as set forth below:
 
-If you would like more information about the information collection practices of third-party advertising companies and your choices about not having this information used by these companies, or you would like to opt out of online preference marketing, you have the following opt-out options:
+Third Party Recipients | Information Collected, Purposes, and Retention  
+---|---  
+_Suppliers (e.g., Lotte Hotels & Resorts  
+The Shilla Seoul  
+Shilla Stay Hotels  
+The Plaza Seoul  
+Skypark Hotels  
+Sejong Hotel Seoul Myeongdong  
+The Grand Hyatt Hotel  
+Novotel Ambassador Seoul  
+Ramada Seoul Hotel  
+Oakwood Premier Coex Center)_| Process reservation details (e.g., name, email address, phone number, and credit card number (for Agoda Reception Program participants) in connection with finalizing your reservation. Please see the section " **Data Retention**" below for details on how long we may retain your information.  
+  
+We also entrust the processing of your information as provided below, accompanying such entrustment with contractual safeguards to protect your information:
 
-_NAI behavioural advertising program:_
+Name of Trustee | Entrusted Functions  
+---|---  
+Data Warehousing Trustee| Hosting databases used to maintain customers' information.  
+Payment Processing Trustee| Processing customers' credit/debit card information.  
+Direct Marketing Trustee| Managing Agoda's direct (e.g., email) marketing program.  
+Customer Care Trustee| Responding to customers' inquires about Agoda's Site and services.  
+Loyalty Program Trustee| Managing Agoda's customer loyalty program.  
+Analytics and Interest Based Advertising Trustees| Assessing how customers interact with the Site and third party websites, in order to improve the Site and services and tailor marketing to customers.  
+Mileage Program Trustee| Managing customers' mileage program participation.  
+  
+As described in more detail under the section " **How You Can Access or Change Your Information**," you may have certain data subject rights under local law.
 
-<http://www.networkadvertising.org/consumer/opt_out.asp>;
+For further information including the name of the third party recipients and trustees that we may share your information with, please contact the Agoda Data Governance Officer at [dpo@agoda.com](mailto:dpo@agoda.com) with "South Korean Privacy Matter" in the subject line to request such further information. You may also contact your local authorities (local numbers provided):
 
-and with regard to our mobile apps, you can use the following opt-out options:
+  * Privacy Invasion Reporting Center ([privacy.kisa.or.kr](http://privacy.kisa.or.kr/) / dial 118)
+  * High-Tech Crime Investigation Division, Supreme Prosecutors’ Office ([www.spo.go.kr](http://www.spo.go.kr/) / dial 1301)
+  * Korean National Police Agency Cyber Bureau ([http://cyberbureau.police.go.kr](http://cyberbureau.police.go.kr/) / dial 182) 
 
-<http://www.google.com/ads/preferences/html/intl/en/mobile-about.html>;
 
-by emailing appsflyer at: _privacy@appsflyer.com_
 
-To opt out of analytics programs, you can use the following tools:
+However, please note that as set out in our Terms of Use, Agoda Company Pte. Ltd. in Singapore provides the services to you, and there is currently no entity in South Korea providing reservation services to South Korean residents.
 
-<https://tools.google.com/dlpage/gaoptout?hl=en>;
+We will retain your information for the period necessary to fulfil the purposes outlined in this Privacy Policy and internal company policies. When Agoda no longer needs to use your information, we will remove your information from our systems and records and/or take steps to properly anonymize it so that you can no longer be identified from it, unless we need to keep your information to carry out corporate tasks and achieve our business objectives or to comply with applicable legal or regulatory obligations.
 
-<http://www.microsoft.com/en-us/privacystatement/default.aspx>;
+ _China Privacy Rights_
 
-<https://help.yahoo.com/kb/SLN4525.html>;
+If you are a Chinese resident, please note the following regarding the cross-border transfer/sharing of your information.
 
-<http://help.yahoo.co.jp/common/sys/sys-26.html>;
+ _Disclosure / Transfer of Information_
 
-<http://www.baidu.com/duty/safe_control.html>
+We will maintain the confidentiality of your information, but may provide or transfer your information to third parties as detailed above under "Sharing Your Information," which may include transferring your information to persons to whom we are required to make disclosures to under applicable law within or outside China
 
-Agoda may add other relevant links from time to time to support your privacy rights.
+ _Transfer of Information Overseas_
 
-**Cookies, Page Tags and Data Use**
+We will generally maintain your information on servers in Hong Kong and Singapore, or any other data centers outside the PRC. However, we may transfer your information to third parties mentioned above who may be located outside the China.
 
-_Agoda Cookies_
+ **6\. Cookies**
 
-Agoda uses a session cookie to keep you logged in throughout your visit to the Site.
+Our Site uses and allows third parties to place cookies (session and persistent), pixels/tags, SDKs, application program interfaces (" **APIs** "), and other technologies (collectively, " **Cookies** ") on our Site that collect and store certain information about you. Some of these Cookies are necessary to provide, secure, and maintain the Site to you, such as to keep you logged in while your visit our Site, while other Cookies are used to provide you with a better user experience, such as:
 
-Agoda uses persistent cookies to "personalize" the Site for each user by remembering information about the user's visit to and activities on the Site, e.g., the language you selected, or your log-in details so that you do not need to re-enter them at your next visit to the Site.
+  * To personalize the Site by remembering information about your activities on the Site (e.g., the language you selected or your log-in details);
+  * Perform website analytics, such as impression reporting, demographic reporting and interest reporting to improve our Site and services; and
+  * To provided you advertising tailored to your interest (see below for details)
 
-Agoda also uses persistent cookies or page tags to analyze your surfing behavior and your visit to the Site enabling us to improve the Site and our services and to tailor our advertising (via email, on our Site, and on other websites) according to the interests of our users. Such cookies and page tags gather information about the pages you visited on the Site and the searches you performed.
 
-_Website analytics_
 
-Third party companies may use persistent cookies to analyze your surfing behavior on and your visit to this Site as well as other web sites enabling us to improve the Site and our services. Website analytics platforms may be used to collect unidentifiable information for reports such as impression reporting, demographic reporting and interest reporting. To opt out of collection of information by third parties for analytic purposes, please click on one or more of the third party links in the above “Opt Out Tools” section.
+_Interest Based Advertising_
 
-_Third Party Cookies, Page Tags and Hashed Data_
+We may also allow certain third parties to place Cookies on our Site in order to collect information about your online activities on our Site (e.g., pages visited on the Site and searches you performed) and over time and across different websites you may visit. This information is used to provide advertising tailored to your interests from us (via email, on our Site, and on other websites) and by third parties on other websites you may visit, also known as interest based advertising, and to analyze the effectiveness of such interest based advertising. We may also share one-way hashed information with third party partners (e.g., Facebook) who may combine hashed information with other identifiers in order to serve custom Agoda advertisements on other websites or mobile apps based on your prior visits to the Site. Agoda neither supports nor endorses the goals, causes, or statements of any websites or mobile apps that display our advertisements.
 
-Our third party advertising companies may place cookies or page tags on some of the pages you visit on the Site. These cookies or page tags are designed to collect non-personally identifiable information in order to analyze your interests and searches when visiting our Site and to serve you advertisements specifically tailored to your interests and searches when you are visiting our Site or other websites or when using mobile applications. The non-personally identifiable information collected through cookies and page tags may be shared with other third parties for purpose of managing and targeting advertisements and for market research analysis. In addition, we may share one-way hashed (undecipherable) data with third party vendors using advertisement targeting products. Such third party vendors typically use hashed device identifiers to link such identifiers to their own users and to serve custom ads based on users' prior visits to the Site. As a consequence, third party vendors may show our and/or our partners’ads on other websites or mobile apps.
+ _Cross-Device Tracking_
 
-_Advertising_
+We may also combine information collected through Cookies and certain usage information from a particular browser or mobile device with another computer or device that may be linked to you (cross-device tracking) in order to optimize our services and provide tailored Agoda communications and advertisements to you. If you do not want Agoda to combine such information for its optimization of communications to you please unsubscribe from the Agoda communications i.e. the newsletter.
 
-Agoda may use a combination of the above cookies and page tags to tailor your experience with our Site, our mobile application and our ads to your preferences. We use display and search remarketing to tailor ad content for a better experience.
+ _Your Choices_
 
-Where other advertising may not require the use of cookies or page tags, third party data is used to determine when an Agoda ads will be shown.
+Please review your Internet browser settings, typically under the sections "Help" or "Internet Options," to exercise choices you have for certain Cookies. If you disable or delete certain Cookies in your Internet browser settings, you might not be able to access or use important functions or features of this Site, and you may be required to re-enter your log-in details.
 
-Agoda takes reasonable efforts to not collect, and to prevent the use of, personally identifiable information in third party advertising solutions, unless you have authorized this. To opt out of collection of information by third parties for advertising purposes, please click on one or more of the third party links in the above “Opt Out Tools” section.
+To learn more about certain Cookies used for interest based advertising (including through cross-device tracking) and to exercise certain opt-out choices you may have regarding Cookies, please visit the [Digital Advertising Alliance](http://optout.aboutads.info/#!/), [Network Advertising Initiative](http://optout.networkadvertising.org/#/), [Digital Advertising Alliance-Canada](http://youradchoices.ca/choices), [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/) or your device settings for our mobile app.
 
-_Advertising and content on other websites_
+Please also visit the following third parties' websites to exercise certain opt-out choices over Cookies:
 
-Agoda uses 3rd party tools to distribute ads on a variety of websites. Agoda neither supports nor endorses the goals, causes or statements of the websites which display our advertisements.
+  * Google Analytics - <https://tools.google.com/dlpage/gaoptout?hl=en>
+  * Appsflyer (mobile app analytics) - By emailing appsflyer at: [privacy@appsflyer.com](mailto:privacy@appsflyer.com)
+  * Baidu - <http://www.baidu.com/duty/safe_control.html>
+  * Apple - <https://support.apple.com/en-us/HT202074>
+  * Facebook - <https://www.facebook.com/ads/settings>
+  * Google Ads - <https://adssettings.google.com/>
 
-_Information from other partners_
 
-On occasions affiliated entities, business partners or other third party providers may share information with us. One example, is if you access or sign in to our Site through social media such as Facebook, we may collect information from you such as your user name, image, list of friends and other information made available to us via such services. In general, the ability to provide such information is through the service provider themselves and dependent upon using the service provider’s single sign in application or other similar service. In general, we may work with our partners to use this information to improve and personalize your use of our Site in accordance with this policy. 
 
-We have partnered with Facebook to provide personalized content on Agoda for members of Facebook. If you are a Facebook and Agoda user and you have signed into Agoda via the Facebook single sign on feature, then our Site will be personalized for you to display information/stays of your Facebook friends at accommodations in the past and also future stays at accommodations bookable through the Site, that is unless you have opted out of the same (see more information below). The information that may be displayed include name, the name of the accommodation, the data of stay, the location of the accommodation, your review of past accommodation, the hotel room and price of the hotel room. (“Stay Information”), and such information may be shown and personalized to you on the search pages of the accommodation on the Site, and the search calendar amongst other places. Further, your Stay Information will also be displayed to your Facebook friends who are also Agoda customers and who have signed in through the Facebook single sign on feature on the Site, as displayed on their search pages described above within the Site and updated each time you make a booking through Agoda.
+By exercising such choice regarding interest based advertising, you may still receive advertisements, but the network from which you opted out will no longer deliver ads tailored to your interests. You should also know that logging out of your user account will not actually mean that you opt out of personalized advertisements.
 
-How to opt out: Agoda has made it simple for you to opt out of this feature at any time by: toggling “no” on i) the thank you page after you make a booking, and ii) in your manage my booking page on the Site. Further, if you need help to opt out you may contact our customer experience team at any time. 
+You may need to make such choices on each browser and device you may use to exercise choice regarding certain Cookies. Lastly, at this time the Site is not configured to honor browsers' "Do Not Track" signals.
 
-**How You Can Access or Change Your Personally Identifiable Information**
+ **7\. Opting Out of Marketing Communications from Us**
 
-If you wish to update any Personal Data you have previously provided, or to exercise any right of access, correction, rectification, deletion, or opposition to the processing of your Personal Data that you may have under applicable law, please contact us via our [Customer Support page](https://www.agoda.com/info/contact-agoda.html). To protect your privacy and security, we will verify your identity before granting access or making changes to your Personal Data. Any request to access your Personal Data will be answered within a reasonable timeframe. You may also object to the processing of your Personal Data for purposes of advertising and market and opinion research. We reserve the right to charge a reasonable fee for such access in accordance with applicable laws.
+You can opt out of receiving marketing communications from us at any time by using the "Unsubscribe" link in each newsletter or communication, or through your Agoda account (if you've created one) - the email subscriptions settings is under "Profile".
 
-If you wish to contact the Agoda Data Protection Officer or our customer service representatives about privacy issues via email, you may send an email to:
+ **8\. International Transfers**
 
-dpo@agoda.com
+In connection with the purposes described above, your information may be stored in locations outside of your home country, which may have different standards of data protection than your home country. We provide appropriate protections for cross-border transfers as required by law for international data transfers, including information transferred to third parties. With respect to such transfers from the European Economic Area (" **EEA** ") to the United States and other non-EEA jurisdictions, we may rely on the EU Model Clauses and/or the need to process your information in order to provide the requested services (performance of a contract) to transfer your information. As permitted by applicable law, you may request details about the suitable safeguards we have in place by contacting us as detailed below. For Chinese residents, please see the details provided above under " _China Privacy Rights_."
 
-Alternatively, you may send a registered letter to the Data Protection Officer of Agoda at the following address:
+ **9\. Information from Other Partners**
 
-Agoda Company Pte. Ltd.  
-c/o Data Protection Officer  
-30 Cecil Street  
-Prudential Tower #19-08  
-Singapore 049712
+On occasion, affiliated entities, business partners, or other third party providers may share information with us. One example is if you access or sign in to our Site through social media, such as Facebook Connect, we may collect information from you such as your username, and other information made available to us via such services. In general, your ability to provide such information is through the service provider themselves and you can change those settings in your account settings of the relevant service provider. In general, we may work with our partners to improve and personalize your use of our website in accordance with this policy.
 
-You may also contact our Data Protection Officer at the following dedicated number:  
-+65 641 552 90 (Singapore, charges apply) or any other number that we may advise from time to time.
+We have partnered with Facebook to provide personalized content on Agoda for members of Facebook. If you are a Facebook and Agoda user and you have signed into Agoda via the Facebook single sign on feature, then our Site will be personalized for you to display information/stays of your Facebook friends at accommodation in the past and also future stays at accommodation bookable through the Site. The information that may be displayed include the name of the accommodation, the date of stay, the location of the accommodation, your review of past accommodation, the hotel room and price of the hotel room (" **Stay Information** "), and such information may be shown and personalized to you on the search pages of the accommodation on the Site, and the search calendar amongst other places. Further, your Stay Information will also be displayed to your Facebook friends who are also Agoda customers and who have signed in through the Facebook single sign on feature on the Site, as displayed on their search pages described above within the Site and updated each time you make a booking through Agoda.
 
-**Mobile Devices**
+ _How to opt out_ : Agoda has made it simple for you to opt out of this feature at any time by toggling "no" through (i) the thank you page after you make a booking, and (ii) your "Manage My Booking" page on the Site. Further, if you need help to opt out you may contact our customer experience team at any time.
 
-We have free apps for a variety of mobile devices and use versions of our regular website that have been optimized for mobile and tablet browsing. These apps and mobile websites process the personal details you give us in much the same way as our website does – and they also allow you to use location services to find accommodations nearby. With your consent, we may send you push notifications with information about your reservation, potential future stays or as part of any Agoda programs that you participate in, including coupons. You may grant us access to your location data or contact details in order to provide services requested by you. When you upload a picture from your mobile device, your picture may also be tagged with your location information. Please read the instructions of your mobile device to understand how to change the settings and enable the sharing of such data or the receipt of (or opt out of receiving) push notifications (including SDK and push token data). Different device operating systems may have different default settings, so please familiarize yourself with such settings governing push notifications.
+ **10\. Protecting Your Information**
 
-**Cross Device Tracking**
+We maintain reasonable physical, electronic, and organizational security measures to protect your information against accidental or unlawful destruction or accidental loss, alteration, or unauthorized disclosure or access. We use Secure Socket Layer technology to encrypt credit card information during transit. Through your personal account, you also have the ability to save credit card details for faster future bookings and payments. Your card details are encrypted and you can always log in to your personal account to delete, edit, or add certain credit card details. For security reasons, the number cannot be edited (but the card details can be deleted). When viewing card details, only the last 4 digits of the number will be visible. Please note that we will store the last 4 digits of your credit card securely upon any booking made (this is required to manage any refund requests for that booking).
 
-We may make use of something known as cross-device tracking in order to optimize our services and marketing activities. This may be done with or without the use of cookies. For more information about cookies and other similar technologies, please see our Cookie paragraph above. With cross-device tracking, Agoda is able to track user behaviour across multiple devices. As part of cross-device tracking, Agoda may combine data collected from a particular browser or mobile device with another computer or device linked to the computer or device from which the data was collected. 
+ _Data Retention_
 
-In order to optimize the content of Agoda communications to you, Agoda combines the searches and reservations you have made from different computers and devices. If you do not want Agoda to combine such data for its optimization of communications to you please unsubscribe from the Agoda communications i.e. the newsletter. 
+We will retain your information for the period necessary to fulfil the purposes outlined in this Privacy Policy and internal company policies. When Agoda no longer needs to use your information, we will – unless we need to keep your information to comply with applicable legal or regulatory obligations or the information is required to carry out corporate tasks and achieve our business objectives – remove it from our systems and records and/or take steps to properly anonymize it so that you can no longer be identified from it.
 
-Personalized advertisements shown to you on other websites or in apps, can be offered based on your activities on linked computers and devices. By opting out of the NAI behavioural advertising program (see in our Cookie paragraph above), you can opt out of cross-device tracking for advertisement purposes. You should know that logging out of your user account will not actually mean that you opt out of personalized advertisements. 
+ **11\. How You Can Access or Change Your Information**
 
-We may also use cross device tracking to optimize the content you view on our websites and/or apps. By opting out of the NAI behavioural advertising program (see in our Cookie paragraph above) and by logging out of your device or computer, you can opt out of cross-device tracking for these purposes.
+If you wish to update your information, or in certain circumstances exercise rights to access, correct, delete, restrict, or object to processing of your information, as well as the right to revoke consent for certain processing or to exercise the right to data portability, please contact us via our [Customer Support page](https://www.agoda.com/info/contact_agoda.html?asq=%2bgjATXCOYWsyt2fxmtYmSM9ssPMWx4G%2f9wRRoLH4Rsk%3d). You can easily correct your name of your account, the booking holder name (subject to cancellation policy attached to the booking) and contact number at any time by signing in to your account on the website.
 
-**A Special Note About Minors**
+To protect your privacy and security, we will verify your identity before responding to such request, and your request will be answered within a reasonable timeframe. To the extent permitted by applicable law, we reserve the right to charge a reasonable fee for such access. We may need to retain certain information for recordkeeping purposes, to complete any transactions that you began prior to your request, or for other purposes as required or permitted by applicable law.
 
-Persons under the age of 18 are not eligible to use the accommodation reservation services on our Site. Minors can normally accompany their parent(s) or legal custodian(s) who have booked an accommodation, except where indicated otherwise in the accommodation property policies.
+ **12\. Updates to Privacy Policy**
 
-**Language**
+On occasion, Agoda may revise this Privacy Policy to reflect changes in the law, our information collection and use practices, the features of our Site, or advances in technology. If we make revisions that change the way we collect or use your information, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of this Privacy Policy. Therefore, you should review this Privacy Policy periodically so that you are up to date on our most current policies and practices. Agoda will also prominently post such material changes prior to implementing the change, and ask for your consent if required by law.
+
+ **13\. Links to Third Party Websites**
+
+We may provide links to other websites that are not owned or operated by us (" **Third Party Websites** "). When you use a link online to visit a Third Party Website, you will be subject to that website’s privacy and security practices, which may differ from ours. You should familiarize yourself with the privacy policy, terms of use and security practices of the linked Third Party Website before providing any information on that website.
+
+ **14\. Additional Considerations**
+
+ _A Special Note About Minors_
+
+Our Site is not directed to minors under the age of 18. However, minors can normally accompany their parent(s) or legal custodian(s) who have booked an accommodation, unless prohibited by an accommodation property's policies.
+
+ _Language_
 
 This Privacy Policy has originally been drawn up in the English language. Translations in other languages are available for your convenience. In case of conflict between the English language version and a translated version, the English language version shall prevail.
 
-**Terms of Use**
+ _Terms of Use_
 
-Please consult the Agoda [Terms of Use](https://www.agoda.com/info/agoda-termsofuse.html) for more details on using our Site. This Privacy Policy forms an integral part of our Terms of Use.
+Please review the Agoda [Terms of Use](https://www.agoda.com/info/agoda_termsofuse.html?asq=%2bgjATXCOYWsyt2fxmtYmSM9ssPMWx4G%2f9wRRoLH4Rsk%3d) for more details on using our Site. This Privacy Policy forms an integral part of our Terms of Use.
+
+ **15\. Contacting Us**
+
+If you have any questions about this Privacy Policy or our privacy practices, please contact our Agoda Data Governance Officer by email at [dpo@agoda.com](mailto:dpo@agoda.com), phone at **_+65  641 552 90_** (Singapore, charges apply) or by sending a registered letter to the address at:
+
+Agoda Company Pte. Ltd.   
+c/o Data Governance Officer   
+30 Cecil Street   
+Prudential Tower #19-08   
+Singapore 049712
+
+If you reside in the EU, you may also contact our local representative, Agoda International Pte. Ltd. (UK Branch) 9th Floor North, The Metro Building, 1 Butterwick, Hammersmith, London W6 8DL, United Kingdom, or your local data protection authority with any questions or complaints about our privacy practices.
+
+***
