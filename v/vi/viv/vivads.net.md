@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivads.net privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209092904id_/http%3A//vivads.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivads.net privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614122506id_/http%3A//vivads.net/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -119,7 +119,7 @@ You don’t need an account to create Vivads Links and you can use many of the f
 
 If you are a registered user, you can access information associated with your Account by logging into the Site. This information includes a history of the URLs you have shortened, and access to the metrics pages for those URLs. You can deactivate your Account at any time through your Account settings page. If you deactivate your Account, you will no longer be able to access or use the Services.
 
-Please note that in the interest of ensuring that existing Vivads Links continue to function for all of our users, the Vivads Links that you have created and shared cannot be deleted or disabled (even if your Account is deactivated), and any shortening and sharing activity that has already occurred on your Account also cannot be deleted (but your user history can be set to private from within your Account settings). If you have concerns about any unauthorized usage of your Account, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9d0d7dfd6cdf9efd0cfd8ddca97d7dccd) and we will disable future shortening activity on your Account.
+Please note that in the interest of ensuring that existing Vivads Links continue to function for all of our users, the Vivads Links that you have created and shared cannot be deleted or disabled (even if your Account is deactivated), and any shortening and sharing activity that has already occurred on your Account also cannot be deleted (but your user history can be set to private from within your Account settings). If you have concerns about any unauthorized usage of your Account, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#70191e161f04302619061114035e1e1504) and we will disable future shortening activity on your Account.
 
 If you are not a registered user, you can access the metrics pages for your Vivads Links by adding the “+” symbol to the end of the URL.
 
@@ -129,4 +129,4 @@ Vivads may amend this Privacy Policy from time to time. Use of information we co
 
 ### WHAT IF I HAVE QUESTIONS OR CONCERNS?
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e78e898188a7918e91868394c9898293). We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#61080f070e211708170005124f0f0415). We will make every effort to resolve your concerns.
