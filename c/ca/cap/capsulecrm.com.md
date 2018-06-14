@@ -1,115 +1,149 @@
-> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122205243id_/https%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191633id_/https%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Capsule CRM
 
-Zestia Limited ("We") is committed to protecting and respecting your privacy.
+Zestia Limited (" **We** ") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://capsulecrm.com/terms/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. It also sets out your responsibilities for your processing of personal data when using our Service (as defined below). Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it, and your data protection obligations in respect of your use of the Service. In the event of a conflict or disagreement between this Privacy Policy and the terms of use, the [terms of use](https://capsulecrm.com/terms/) will prevail. 
+This privacy policy (“ **Privacy Policy** ”), together with our [Customer Terms](https://web.archive.org/terms) and any other documents referred to in this Privacy Policy, sets out the basis on which any personally identifiable information (“ **Personal Data** ”) we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your Personal Data and how we will treat it in respect of your use of capsulecrm.com (“ **the Service** ”). 
 
-### Information We collect from you
+By using the Service, you are accepting the terms of this Privacy Policy. In the event of a conflict between the terms of this Privacy Policy and the Customer Terms, the Customer Terms will prevail. 
 
-If you decide to register with and use capsule.com (the “Service”) you will be asked to provide certain information about yourself including your name and contact details. By submitting your personal information, you consent to the collection, use and transfer of your information in accordance with the terms of this privacy policy.
+### Information we may collect from you
 
-We may also collect information about your usage of the Service, as well as information about you, from emails phone calls or letters that you send to us or form information you post on our Website. We only use this information in accordance with this privacy policy.
+We may collect and process the following information about you.
 
-### Use of your personal information
+**Information you give us.** If you decide to register with or use the Service you will be asked to provide certain information about yourself. You will voluntarily provide us with Personal Data which includes your name, email address and contact details when you: 
 
-We will only use your personal information for the following purposes:
+  * Purchase or register to use the Service.
+  * Sign up to use the Services via an integrated service, such as Google.
+  * Request and receive Customer Support.
+  * Provide billing and payment information.
+  * Register for offers or events.
+  * Post comments on our website.
+  * Participate in discussion boards or other social media functions on our website.
 
-  * to enable us to provide you with access to the Website and to use the Service and to enable you to download information and materials from the Website; the registration form, to contact you with our newsletter and other email updates;
-  * to make you aware of other products or services offered by us from time to time;
-  * to produce reports, statistics and analysis of the types of people who access the Website;
-  * to contact you for your views on the Website and to notify you occasionally about important changes or developments to the Website; and
-  * to administer, support, improve and develop Our Website.
+
+
+**Information we collect about you.** Each time you use the Service we may automatically collect the following information: 
+
+  * Technical information that your browser sends whenever you visit a website or your mobile app sends when you are using it. This log data may include your Internet Protocol (IP) address, the address of the web page you visited before using the Service, your browser type and settings, the date and time of your use of the Service, information about your browser configuration and plug-ins, language preferences and cookie data. 
+  * Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number. 
+  * We may also collect publicly accessible data about you from social media websites that you visit when using the Service. 
+  * We may also collect non-personally identifiable information (e.g. gender and location) to assist in providing the Service to you. Non-personally identifiable information by itself cannot be used to identify or contact you. However, this information may be combined with other identifiers in a way that enables you to be identified. 
 
 
 
-If you change your mind about being contacted in the future, please let us know and we will remove you from our mailing list.
+By submitting your Personal Data and non-personally identifiable information, you consent to the collection, use and transfer of your information in accordance with the terms of this Privacy Policy. 
 
-We reserve the right to use the name and/or logo of the company you work for in publicity material, advertising or marketing collateral, unless you specifically tell us otherwise. Your name, address details and all other personal information will remain confidential at all times.
+**Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected via the Service. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them. 
 
-### We do not store your credit card details
+### Use of cookies
 
-If you choose to pay for the Service using a Credit Card, your credit card details are not stored by us and cannot be used by our staff.
+We use cookies on our website to distinguish you from other users of our website and Service. This helps us to provide you with a good experience when you browse our website and also allows us to improve the website and Service. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://web.archive.org/privacy/cookie/). 
 
-Your credit card details are encrypted and securely stored by Sage Pay, a division of Sage (UK) Limited to enable us to automatically bill your credit card on a recurring basis. A copy of [SagePay security policy is available here.](http://www.sagepay.com/security_policy)
+### If you are under 16 years of age
 
-### You can opt-out of any email communications
+If you're under the age of 16, you may not have an account on the Service. We do not knowingly collect information from or direct any of our content specifically to children under 16. If we learn or have reason to suspect that you are a user who is under the age of 16, we will unfortunately have to close your account. Please see our [Customer Terms](https://web.archive.org/terms/) for information about account termination. 
 
-We send billing information, product information, service updates and regular customer newsletters to registered users via email.
+### Uses made of Information
 
-Where appropriate email communication will contain clear and obvious instructions describing how the user can opt to be removed from the mailing list. We will promptly remove any user upon request.
+We will only use information held about you for the following purposes.
+
+**Information you give to us:** We will use this information: 
+
+  * To understand and improve our Services to you.
+  * To ensure that content from our Service is presented in the most effective manner for you and for your computer.
+  * To communicate with you by responding to your requests and sending you emails and messages about invoicing and account management. 
+  * To administer your account and keep track of billing and payments.
+  * To keep the Service secure by investigating and preventing abuse and fraud.
+  * To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us.
+  * To provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about.
+  * To notify you about changes to our Service.
+
+
+
+**Information we collect about you.** We will use this information: 
+
+  * To administer our Service and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
+  * To improve our Service to ensure that content is presented in the most effective manner for you and for your computer.
+  * To allow you to participate in interactive features of our Service, when you choose to do so.
+  * To measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you.
+  * To make suggestions and recommendations to you and other users of our Service about services that may interest you or them.
+
+
+
+By using the Service, you agree that we can access, aggregate and use non-personally identifiable data we have collected from you. This data will in no way identify you or any other individual. We may use this aggregated non-personally identifiable data to: 
+
+  * Assist us to better understand how our customers are using the Service.
+  * Provide our customers with further information regarding the uses and benefits of the Service.
+  * Provide useful business insights from the aggregated data.
+
+
+
+**Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive). By using the Service, you consent to Personal Data being collected, held and used in this way and for any other use you authorize. 
 
 ### Disclosure of your information
 
-We follow strict guidelines in the storage and disclosure of information which you have given us, to prevent unauthorised access. We comply with the laws of the countries from which we operate.
+We may share your Personal Data with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. 
 
-We do not disclose your personal data to any third party except to the extent that we may disclose your personal data to third parties (whether in the UK or elsewhere) for the purposes of providing Services from us. They supply the hardware infrastructure, storage and associated services necessary for us to provide the Service. All data submitted to third parties will be encrypted using SSL technology.
+**Information we share with third parties.** We may share your information with selected third parties including: 
 
-We may also disclose your personal information to third parties:
-
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Zestia Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://capsulecrm.com/terms/) and other agreements; or to protect the rights, property, or safety of Zestia Limited, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you and for the purposes of providing part of the Service to you. Such third parties supply the hardware infrastructure, storage and associated services necessary for us to provide the Service. All information submitted to third parties will be encrypted using SSL technology. By using our websites and/or the Service you consent to our third party service partners having access to your Personal Data.
+  * Analytics and search engine providers that assist us in the improvement and optimization of our Service.
 
 
 
-Please note that this may include the transfer of your personal data to one or more countries outside the UK.
+**Personal Data we disclose to third parties.** We follow strict guidelines in the storage and disclosure of information which you have given us, to prevent unauthorized access. We comply with the laws of the countries from which we operate. We may disclose your Personal Data to third parties: 
 
-By using the Website and/or the Service you consent to our third party service partners having access to your personal data, including those outside the European Economic Area (EEA). We always ensure that your data is only transferred in full accordance with UK data protection laws. In particular, this means that your data will only be transferred to a country that provides an adequate level of protection (for example, because the European Commission has determined that a country provides an adequate level of protection). It may also be processed by staff operating outside the EEA who work for one of our suppliers. Such staff maybe engaged in, among other things, the processing of your payment details and the storage of your personal data. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. You agree to keep confidential and not to disclose to any other individual or individuals for all time the user name and password related to your Capsule account.
+  * In the event that we sell or buy any business or assets, in which case we may disclose your Personal Data to the prospective seller or buyer of such business or assets.
+  * If Zestia Limited or substantially all of its assets are acquired by a third party, in which case Personal Data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your Personal Data in order to comply with any legal obligation, or in order to enforce or apply our Customer Terms and/or any other agreements; or to protect the rights, property, or safety of Zestia Limited, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
 
-### About Cookies
-
-A cookie is a text-only string of information that is stored by your browser when you navigate around a website. Cookies are required to use the Capsule CRM service and are used in the following ways:
-
-  * To keep a session open after a user logs in.
-  * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.
-  * When a user has enabled 'Remember Me on This Computer' a cookie allows the user to access their account without logging in each time. This cookie is removed when the user explicitly logs out.
+In complying with court orders and similar legal processes, we strive for transparency. When permitted, we will make a reasonable effort to notify users of any disclosure of their information, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances. 
 
 
 
-These cookies contain no personal information, but clearly users shouldn't enable 'Remember Me' when using a publicly-accessible computing device or terminal.
 
-### You own your data
+### Your rights
 
-Our Service, Capsule, is an online customer relationship management system which stores information as provided or entered by you (company or individual). We will only store information that is entered by the users of your organization, or automatically imported at a user’s instruction. The data entered, or imported on instruction, by the users of an organisation remains the property of you and we will not use nor make available for use any of this information without permission of you.
+**Consent.** If you wish to subscribe to our marketing communications, we will use your name and email address to send communications to you. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You may elect to stop receiving our marketing emails by following the unsubscribe instructions included in such emails. 
 
-### You control who has access to your data
+We send push notifications from time to time in order to update you about any Service updates, events and promotions we may be running. If you no longer wish to receive these communications, please disable these in the settings on your device. If you change your mind about being contacted in the future, please click on the opt out options included in emails or the Service and we will remove you from our mailing lists. 
 
-The data entered, or imported on instruction, by the users of your organization is stored securely in a database and is only accessible to the approved users of your organisation. Your administrator (the “Administrator”) will have full control over who is invited to be a user. A user name and password is required in order to access your information in the Service.
+**Access to information.** You have the right to access information held about you. 
 
-It is the user’s responsibility to keep their passwords safe. It is the Administrator’s responsibility to ensure that any users that are invited to use the Service have permission to view the your information stored in the Service. Neither our staff nor our third party service partners have access to any user passwords and are therefore unable to access the organization’s account or data without receiving an invitation from the Administrator.
+**Right to deletion, rectification and data export.** We permit you to delete, rectify and export information you have provided to us, subject to the conditions of our Customer Terms and our legal obligations set out below. 
 
-You represent, warrant and undertake that when using the Service you will at all times comply with all applicable local and national laws including but not limited to those relating to privacy and the processing of personal data and other information. You agree to promptly comply with any request from us requiring you to amend, transfer and/or delete any information recorded by you on our Service. You also agree to provide us with full co-operation and assistance in relation to any complaint, notice or communication which relates directly or indirectly to the processing of personal data or other information or to your compliance with any applicable local and national laws.
+**Retention.** We retain Personal Data for as long as we provide the Services to you or your account remains open. However, we may keep some data after your account is closed or you cease using the Service, for the purposes set out below. 
 
-You agree to indemnify us and keep us indemnified and defend us at your own expense against all costs, claims, damages or expenses incurred by us or for which the we may become liable due to any failure by you (or your employees or agents (where applicable)) to comply with your obligations under this Privacy Policy.
+After you have closed your account we may retain Personal Data where reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, maintain security, prevent fraud and abuse, resolve disputes, enforce our Customer Terms, offer new features you may be interested in, or fulfil your request to “unsubscribe” from further messages from us. If none of these obligations apply we will delete Personal Data within 12 months of your account being closed. 
 
-### Your data is sent securely across the internet
+We will retain de-personalised information after your account has been closed. 
 
-Our servers use SSL security certificates so all data transferred between your users and our servers is encrypted. However, the internet is not in itself a secure environment. Users should only enter, or instruct the importation of, data to the database within a secure environment. This means that the user’s browser must support the encryption security used in connection with our servers.
+**Complaints:** If you have any complaints about our use of your information please contact us as set out at the end of this Privacy Policy or contact the UK supervisory authority – The Information Commissioner’s Office (“ **ICO** ”). 
 
-### We will give you access to your data at any time
+### Applicable Data Protection Law
 
-On request, we will provide the Administrator with a full export of your data in a common file format determined by us.
+For the purpose of the General Data Protection Regulation (EU) 2016/679, the data controller is Zestia Limited, a private limited company registered in England with number 06418281 whose registered office is at 20 Dale St, Manchester, M1 1EZ. 
 
-Your data may be permanently deleted by us after you stop paying to use the Service, or at the Administrator’s request.
+### Where we store your Personal Data for EU Customers only
 
-### We monitor system usage
+The Personal Data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the provision of support services. By submitting your Personal Data, you agree to this transfer, storing or processing outside of the EEA. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. 
 
-We have access to and may use aggregate information such as number of associated users, number of transactions and billing information for the purpose of billing and monitoring server and software performance as well as for other internal purposes.
+We always ensure that your information is only transferred in full accordance with UK data protection laws and/or applicable EU data protection law. In particular, this means that your information will only be transferred to a country that provides an adequate level of protection (for example, because the European Commission has determined that a country provides an adequate level of protection) or the recipient is bound by standard contractual clause according to conditions provided by the European Commission (“ **EU Model Clauses** ”). You are responsible for checking the privacy policy of any third party websites we link to. 
 
-We will never access the details of any information entered and stored in the Service. We will never access system usage history for a specific identifiable user, except where granted permission by the user to assist with resolution of a system issue or error.
+Our Service is accessible via the Internet and may potentially be accessed by any user around the world. Other users may access the Service from outside the EEA. This means that where you chose to upload your data to the Service, it could be accessed from anywhere around the world and therefore a transfer of your data outside of the EEA may be deemed to have occurred. You consent to such transfer of your data for and by way of this purpose. 
 
-Our staff may access non-identifying and aggregated usage information and transaction volumes in order to better understand how our customers are using the Service so we can improve the system design and where appropriate have the system prompt users with suggestions on ways to improve their own use of the system. All aggregated usage information is stored in a secure data warehouse facility.
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Service, you are responsible for keeping this password confidential. We ask you not to share any password with anyone. 
 
-### You are responsible for checking the privacy policy of any third-party websites we link to
+Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your Personal Data, we cannot guarantee the security of your data transmitted to our Service; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
 
-Our Website may contain links to third-party websites. We take no responsibility for the privacy practices or content of these websites.
+The Service may contain links to and from third party websites of our partners, networks, advertisers and affiliate. If you follow a link to any of these websites, please note that these websites have their own privacy policies and we do not accept any responsibility or liability for the privacy practices or content of these websites. 
 
-### This policy may be updated from time to time
+### Changes To This Privacy Policy
 
-We reserve the right to change this policy at any time and any amended policy will be posted on our Website.
+We reserve the right to change this Privacy Policy at any time and any amended Privacy Policy will be posted on our websites and notified to you by email, where appropriate. Please check back frequently to see any updates or changes to our Privacy Policy. This Privacy Policy was last updated on 25 May 2018 and replaces any other Privacy Policy previously applicable from this date. 
 
-For the purpose of the Data Protection Act 1998, the data controller is Zestia Limited, a private limited company registered in England with number 06418281 whose registered office is at 20 Dale St, Manchester, M1 1EZ.
+### Contact Us
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be forwarded by email to [info@zestia.com](mailto:info@zestia.com). 
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be forwarded by email to: [info@zestia.com](mailto:info@zestia.com). 
