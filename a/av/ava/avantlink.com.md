@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the avantlink.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235150id_/http%3A//www.avantlink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avantlink.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614112502id_/https%3A//www.avantlink.com/privacy) for the most accurate reproduction.*
 
 # AvantLink - Privacy Policy
 
-This privacy policy is intended to explain to you how we intend to collect, store and use your personal information and to inform you of your rights under the Privacy Act 1988 (as amended) ( **Act** ).
+This privacy policy is intended to explain to you how we intend to collect, store and use your personal information and to inform you of your rights under the Privacy Act 1988 (as amended) ( **Act** ) and the **GDPR**.
 
 This privacy policy is supplemental to the general privacy policy published on our website.
 
-We adhere to the Australian Privacy Principles ( **APPs** ) set out in the Act. The APPs regulate the manner in which organisations like ours can collect, use, keep secure and disclose personal information.
+We adhere to the Australian Privacy Principles ( **APPs** ) set out in the Act as well as the principles set out in the GDPR. The APPs and GDPR regulate the manner in which organisations like ours can collect, use, keep secure and disclose personal information.
 
 **1\. Definitions**
 
@@ -17,6 +17,8 @@ In this Privacy Policy:
 **APPs** means the Australian Privacy Principles set out in the Act, as amended from time to time.
 
 **Affiliate** has the same meaning as in our terms of use published on the Website.
+
+**GDPR** means the General Data Protection Regulation.
 
 **Group Entity** means Dynamic Web Source (Australia) Pty Ltd ACN 168 681 525 ( **DWS** ), Dynamic Web Source, Inc., Dynamic Web Source (Canada), Inc. and any company which is a related entity within the meaning of the Corporations Act 2001 (Cth) to any of them.
 
@@ -33,13 +35,21 @@ In this Privacy Policy:
 
 **2\. Collection Methods and Purposes**
 
-We collect personal information about our clients, potential clients, employees, potential employees, contractors and others in order for us to properly represent our clients and to carry out our business functions and activities. Where it is reasonably practicable for us to do so, we collect personal information directly from you by asking you for it. Sometimes we receive and collect personal information about you from third parties, for example from a recruitment firm (in respect of an application for employment). We may also collect personal information from publicly available sources.
+We collect personal information about our clients, potential clients, employees, potential employees, contractors and others for legitimate business interests including:
 
-The kinds of personal information we collect may include:
+  * to properly represent our clients and to carry out our business functions and activities;
+  * provide accurate sales referral tracking;
+  * fraud prevention;
+  * network security.
+
+
+
+Where it is reasonably practicable for us to do so, we collect personal information directly from you by asking you for it. Sometimes we receive and collect personal information about you from third parties, for example from a recruitment firm (in respect of an application for employment). We may also collect personal information from publicly available sources. The kinds of personal information we collect may include:
 
   * your name, address, occupation, and contact information;
   * if you are applying for employment by us, opinions about you, including your business or professional experience;
   * information about a person’s dealings with us, any Merchant or Affiliate, which may include financial records, bank account or credit card details, insurance policies, taxation information;
+  * IP address, web browser and device information;
   * in some circumstances, your ABN.
 
 
@@ -48,7 +58,7 @@ Where possible, we de-identify the personal information we collect, store, use a
 
 **3\. Cookies**
 
-The Website may utilize "cookies" to collect information about how the Website is used. The cookies are designed to help DWS and other Group Entities determine that a particular user had visited the Website previously, and save any preferences that may have been set while the user was browsing the Website. The cookies cannot retrieve any other data from a user’s hard drive or obtain a user’s e-mail address. If a user is simply browsing the Website, a cookie may be used to identify the user’s browser as one that has visited the Website before.
+The Website may utilize "cookies" to collect information for legitimate business interests. The cookies are designed to help DWS and other Group Entities determine that a particular user had visited the Website previously, and save any preferences that may have been set while the user was browsing the Website. The cookies cannot retrieve any other data from a user’s hard drive or obtain a user’s e-mail address. If a user is simply browsing the Website, a cookie may be used to identify the user’s browser as one that has visited the Website before.
 
 DWS may also make use of memory-based cookies in support of authenticating the user of certain web applications. Similarly, if you are a registered user of a service provided or facilitated by DWS (and have a user ID and password), DWS or any Group Entity operating the Website may use cookies so that we can provide personalized information based on preferences you have indicated while using the Website. Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize DWS services which require registration if you reject cookies.
 
@@ -116,11 +126,13 @@ We may hold your information in either electronic or hard copy form.
 
 **8\. Access and Correction**
 
-You may request access to the personal information we hold about you at any time by contacting our Privacy Officer (contact details below). We may charge a fee to cover the costs of retrieval and copying. We may deny access to personal information where the Act allows us to do so.
+You have the right of access to your personal data at any time and may demand correction.
 
-If you establish that personal information we hold about you is not accurate, complete or up-to-date, we will take reasonable steps to correct the information.
+You have the right to object to this processing of personal information if you wish.
 
-We will always provide reasons for denial of access or refusal to correct personal information.
+If you are registered as an Affiliate or Merchant client, you may access your personal information via your account interface and modify/update the data yourself.
+
+If additional help is needed to access, modify, delete or block personal information, please email [privacy@avantlink.com](mailto:privacy@avantlink.com)
 
 **9\. Sensitive Information**
 
@@ -151,8 +163,8 @@ By using our Website, registering as an Affiliate or Merchant, applying for empl
 
 We review our policies regularly and occasionally may need to change or update them. Any updated versions of this privacy policy will be posted on our website and will be effective from the date of posting.
 
-This policy is was last updated on 16 July 2014.
+This policy is was last updated on 15 May 2018.
 
 **14\. DWS Privacy Officer**
 
-For all queries regarding personal information and to access your personal information, please contact our Privacy Officer by clicking here privacy@avantlink.com.au, by writing to the Privacy Officer, [ PO Box 683351 Park City, UT 84068 ].
+For all queries regarding personal information and to access your personal information, please contact our Privacy Officer by clicking here [privacy@avantlink.com](mailto:privacy@avantlink.com), by writing to the Privacy Officer, [ PO Box 683351 Park City, UT 84068 ].
