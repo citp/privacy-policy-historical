@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babypips.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228020228id_/https%3A//www.babypips.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babypips.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614214531id_/https%3A//www.babypips.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -111,7 +111,7 @@ We may use third parties, such as advertising networks and exchanges, to allow u
 
 BabyPips.com will not disclose any personally identifiable information about individual users, except as described in this Privacy Statement. We do not give, rent, lend, or sell individual information to our advertisers, although we do provide aggregate information. For example, we might tell an advertiser that there are 20,000 registered email subscribers in Gotham City, but we will not tell them that Batman is one of them, nor will we tell them that his email address is bruce@statelywaynemanor.com.
 
-If you post content to our site on our forums or through any commenting systems, other site users will be able to see your posted content and may communicate with you.  If you send communications through our site using our forums Messaging feature, the recipients of your communications along with our site administrators will be able to see your communications.  If you do not want others to see your posted information or correspondence, or communicate with you, please do not post anything to or through our site.
+If you post content to our site on our forums or through any commenting or messaging systems, other site users will be able to see your posted content and may communicate with you.  If you send communications through our site using our forums Message feature, the recipients of your communications, and anyone they send your communication to, along with our site administrators will be able to see your communications.  If you do not want others to see your posted information or correspondence, or communicate with you, please do not post anything to or through our site.
 
 We reserve the right to transfer any and all information that we collect from visitors, or that we otherwise collect concerning or in connection with the Site, to a third party in the event of a sale or other transfer of assets or of any portion of our business. In the event BabyPips.com enters a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information may be among the assets transferred.
 
