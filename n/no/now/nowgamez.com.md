@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowgamez.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214023705id_/http%3A//www.nowgamez.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowgamez.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614215717id_/http%3A//www.nowgamez.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy NowGamez.com
 
