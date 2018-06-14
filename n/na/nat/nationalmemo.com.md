@@ -1,63 +1,292 @@
-> *The following text is extracted and transformed from the nationalmemo.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126093500id_/http%3A//www.nationalmemo.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmemo.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614095944id_/http%3A//www.nationalmemo.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - The National Memo - Smart. Sharp. Funny. Fearless.
 
-Eastern Harbor Media LLC is the owner of NationalMemo.com and affiliated websites (EHM). We take the private nature of your personal information very seriously. This Privacy Statement describes how we treat the information we collect when you register for and view emails from us or visit our Web Site. Please read this notice carefully. By using EHM’s websites, you agree to our privacy practices outlined here.
+Effective date: May 25, 2018
 
-**Personal Information**
+Eastern Harbor Media, LLC (“us”, “we”, or “our”) operates the Http://www.nationalmemo.com website (the “Service”).
 
-To receive e-mails from us, we require your e-mail address. We may also request your name, telephone number and other personal information, including credit card and payment information. EHM does not collect any information that identifies you or is identifiable to you (Personal Information) that you do not knowingly provide. EHM may use your Personal Information to provide and market products and services from us and third parties to you, to display content and advertising that are customized to you and otherwise operate our Web Site. EHM may share your Personal Information with service providers for the purpose of operating our Web Site and delivering our e-mails or other products or services to you. Each of these service providers is subject to obligations to keep your data confidential and use it only for the purpose for which we provide it to them. EHM is not responsible for any further use or disclosure of your Personal Data by service providers. We may also share your Personal Information with others as required by law or as necessary to protect the interests of EHM or related parties.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-**Public Forums and Activities**
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from Http://www.nationalmemo.com
 
-Any information you disclose in public forums or otherwise disclose to third parties through our Web Site, including any image or photo, becomes public and may be used by us for online and offline promotional or commercial uses in any and all media. If you chose to engage in our forums or other public activities, you should be aware that any information you submit there can be read, collected, or used by others, and could be used to send you unsolicited messages or for other unintended purposes. We are not responsible for the information you choose to submit and we have no responsibility to publish, take down, remove or edit any of your submissions or public activities.
+## Definitions
 
-**Aggregate and Demographic Information**
+  * **Service**
 
-In addition to collecting Personal Information, EHM or others acting on our behalf may also collect survey and other demographic data that is not Personal Information. We may also collect and develop aggregate information about our subscribers’ and their use of our emails and Web Site. This information will only be used to find out more about our subscriber base (but not in a manner that could identify you or be identified to you) and how subscribers use our emails, Web Site and products and services. For example, this information will tell us how often users open emails from us, how much time users spend on our site, from which other sites subscribers came, and to what other sites subscribers go. It also allows us to, among other things, prepare for traffic load demands and efficiently deliver your emails.
+Service is the Http://www.nationalmemo.com website operated by Eastern Harbor Media, LLC
 
-**Review and Access**
+  * **Personal Data**
 
-Upon your request, we will provide you with a summary of the information we collect about you. You will have an opportunity to correct, update or modify this information.
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-**How to Unsubscribe**
+  * **Usage Data**
 
-You can unsubscribe from receiving EHM emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any EHM email or on the bottom of the EHM homepage and following the instructions. If for any reason you want to leave us and have trouble doing so please email [info@EHM.com](mailto:info@EHM.com).
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
-**Choice/Opt-Out**
+  * **Cookies**
 
-If we ever send you information by email concerning new products or services from us or third parties that you did not expressly request, we will provide you with an email address or other mechanism by which you may reject receipt of similar future notices.
+Cookies are small pieces of data stored on your device (computer or mobile device).
 
-**Third Party Advertising**
+  * **Data Controller**
 
-Some of the ads appearing on our emails and Web Site may be delivered to you by our advertising partner or partners. Information about your visit to a partner site or sites, such as number of times you have viewed an ad (but not your name, address, or other Personal Information), is used to provide ads to you.
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
 
-Occasionally, you’ll get emails, alerts or other mailings, which include advertisements or offers from or information about third parties. EHM does not endorse any products or services available from such third parties. Materials from those third parties, regardless of their relationship with us, are provided merely for information purposes and users should make their own judgments and evaluation of any services or products available on any other web sites. You can unsubscribe from receipt of this content. Please see “How to Unsubscribe.”
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
 
-**Tracking**
+  * **Data Processors (or Service Providers)**
 
-Like most sites, EHM makes use of browser “cookies.” Cookies are small text files placed on your computer’s hard disk. They allow us to quickly recognize you and simplify your user experience. EHM will never use cookies to retrieve information from your computer that is unrelated to our site or services. In the course of providing advertisements to this site, our third-party advertisers may also place or recognize a unique cookie on your browser. EHM also uses transparent GIF images to track the emails that we send.
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
 
-**Links to Other Sites**
+We may use the services of various Service Providers in order to process your data more effectively.
 
-We may provide links allowing you to access third party sites. EHM is not responsible for the content that appears on those sites and does not endorse them. Please consult those sites’ individual [privacy policies](http://www.consumerprivacy.us/) in order to determine how they treat user information as EHM is not responsible for their privacy policies or any use of your information by them.
+  * **Data Subject (or User)**
 
-**Security**
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
 
-We maintain physical, electronic and procedural measures to help maintain the security of your Personal Information. Despite these measures, neither we nor any third party can guarantee the security of Personal Information you provide to us.
 
-**No Use by Children under Age of 13**
 
-We do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. If you are under 13, please do not provide any Personal Information to us. If we discover that someone was not 13 at the time they provided Personal Information to us, we will delete that data from our records.
 
-**Export of Personal Information**
+## Information Collection and Use
 
-Personal Information provided by you is stored and processed in the United States and possibly other countries, which may not afford the same level of protection of your data as laws of the country in which you are located.
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-**Modification to this Policy**
+### Types of Data Collected
 
-EHM may change this policy, but we’ll post any changes here and the date the latest changes were made, so be sure to check back for future information. The effective date of this version of the privacy statement is June 10, 2011.
+#### Personal Data
 
-**Contact Us**
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-If you have any questions about this policy, our emails or our site in general, please email [info@EHM.com](mailto:info@ehm.com).
+  * Email address
+  * First name and last name
+  * Address, State, Province, ZIP/Postal code, City
+  * Cookies and Usage Data
+
+
+
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+#### Usage Data
+
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+#### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+  * **Advertising Cookies.** Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+
+
+## Use of Data
+
+Eastern Harbor Media, LLC uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), Eastern Harbor Media, LLC legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Eastern Harbor Media, LLC may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+## Retention of Data
+
+Eastern Harbor Media, LLC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Eastern Harbor Media, LLC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Eastern Harbor Media, LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure of Data
+
+### Business Transaction
+
+If Eastern Harbor Media, LLC is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+### Disclosure for Law Enforcement
+
+Under certain circumstances, Eastern Harbor Media, LLC may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Legal Requirements
+
+Eastern Harbor Media, LLC may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Eastern Harbor Media, LLC
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## “Do Not Track” Signals
+
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Eastern Harbor Media, LLC aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+  * **The right to object.** You have the right to object to our processing of your Personal Data.
+  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where Eastern Harbor Media, LLC relied on your consent to process your personal information.
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+
+
+
+### Advertising
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+
+  * **Google AdSense & DoubleClick Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+
+
+
+
+### Behavioral Remarketing
+
+Eastern Harbor Media, LLC uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+  * **Google AdWords**
+
+Google AdWords remarketing service is provided by Google Inc.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+  * **Facebook**
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
+
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: <https://www.facebook.com/privacy/explanation>
+
+
+
+
+### Payments
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+  * **PayPal or Braintree**
+
+Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+
+
+
+
+## Links to Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: Privacy@nationalmemo.com
+
+
