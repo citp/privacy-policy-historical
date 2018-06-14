@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsolutiontips.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228194537id_/http%3A//www.techsolutiontips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsolutiontips.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614061152id_/http%3A//www.techsolutiontips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Technology Solution Tips & Tech Geeks Free Online Resource
 
@@ -80,3 +80,5 @@ It’s also important to note that we do not allow third party behavioral tracki
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the [contact form](http://www.techsolutiontips.com/contact-us-2/). This privacy policy may change from time to time. We will inform you by email in case of any important changes of our privacy policy.
+
+### You May Also Like 
