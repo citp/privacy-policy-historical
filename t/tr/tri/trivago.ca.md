@@ -1,91 +1,274 @@
-> *The following text is extracted and transformed from the trivago.ca privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719135717id_/http%3A//company.trivago.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trivago.ca privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614195101id_/https%3A//www.trivago.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Canada
+# trivago.ca - Privacy Policy
 
-trivago continually strives to comply with all data protection requirements. For all data processing activities (such as collection, processing and transmission), we proceed according to legal provisions. The following information should give you an overview of the type of data that trivago GmbH, as owner of the website, collects, saves and processes when you use our websites and our apps and how this protection of your personal rights and privacy is guaranteed. Personal data is collected, processed and used by trivago GmbH exclusively in accordance with this privacy policy. Should you require further information or have questions about privacy, you should contact customer support.
+This privacy statement is valid for all the websites hosted by trivago (such as the hotel search websites, the magazine room5.trivago.co.uk/, company.trivago.com, the Talent Community talent.trivago.com, the Hotel Manager etc.) and the trivago App. 
 
-### General Information about Privacy and Purpose of Storage
+In the following, we provide information about the collection of personally identifiable information while using our website. Personally identifiable information is all data that relates to you personally, such as name, address, e-mail addresses or user behaviour. The protection of your personally identifiable information is very important to us. If you have any questions or would like more information about trivago's data protection, please contact info@trivago.com. 
 
-We collect data so that we can continually improve the deals and services that we offer you.
+Continuous technological development, changes in our services or the legal situation, and other reasons may require adjustments to our data protection notice. We therefore reserve the right to change this privacy statement at any time and ask that you regularly keep yourself informed of the current state. 
 
-### What data is collected?
+### 1 Party responsible for data processing
 
-  * Contact
+The responsible party, according to Article 4 (7) of the EU General Data Protection Regulation (GDPR), is trivago N.V., Bennigsen-Platz 1, 40474 Düsseldorf, Germany, telephone: + 49-211-3876840000, E-mail: info@trivago.com. 
+
+### 2 Data protection officer point of contact
+
+You can reach our data protection officer at info@trivago.com or our mailing address by adding “Datenschutz / Data Privacy”. 
+
+### 3 Your rights
+
+You have the following rights with respect to the personally identifiable information concerning you: 
+
+#### 3.1 General rights
+
+You have the right to information, correction, deletion, limitation of processing, opposition to processing and data portability. If processing is based on your consent, you have the right to revoke it with effect for the future. 
+
+#### 3.2 Rights in the processing of data based on legitimate interests
+
+According to Article 21 (1) of the GDPR, you have the right to file an objection at any time for reasons arising out of your particular situation against the processing of personally identifiable information relating to you, pursuant to Article 6 (1) of the GDPR (data processing in the public interest) or Article 6 par. 1 f GDPR (data processing for the protection of a legitimate interest); this also applies to a profiling based on this provision. In the event of your objection, we will no longer process your personally identifiable information unless we can establish compelling and legitimate grounds for processing that outweigh your interests, rights and freedoms, or if the processing aids the enforcing, exercising or defending of legal claims. 
+
+#### 3.3 Rights in direct advertising
+
+If we process your personally identifiable information for the purpose of direct advertising, you have the right according to Article 21 par. 2 GDPR to object at any time to the processing of personally identifiable information relating to you for the purpose of such advertising; this also applies to profiling, where appropriate, insofar as it is associated with such direct advertising. 
+
+In the event of your objection to processing for the purpose of direct advertising, we will no longer process your personally identifiable information for these purposes. 
+
+#### 3.4 Right to complain to a supervisory authority
+
+You also have the right to complain to a relevant data protection supervisory authority about our processing of your personally identifiable information. 
+
+### 4 The collection of personally identifiable information when visiting our website
+
+If you are only using the website for informational purposes, i.e., if you do not enroll or otherwise provide us with information, we will only collect the personally identifiable information that your browser transmits to our server. If you wish to view our website, we collect the following data that is technically necessary for us to display our website and ensure its stability and security. Only in the case of suspected misuse in connection with bookings would we use this link information to facilitate the identification of the person responsible. The legal basis for this is Article 6 (1) (f) GDPR: 
+
+–IP address, date and time of the inquiry, time difference to Greenwich Mean Time (GMT), content of the request (concrete page), access status/HTTP status code, amount of data transferred in each case, website that receives the request, browser, operating system and its interface, language, and browser software version. 
+
+### 5 Contact by e-mail or contact form
+
+When you contact us by e-mail or through a contact form, we will store the data you provide (your e-mail address, possibly your name and telephone number) so we can answer your questions. Insofar as we use our contact form to request entries that are not required for contacting you, we have always marked these as optional. This information serves to substantiate your enquiry and improve the handling of your request. A statement of this information is expressly provided on a voluntary basis and with your consent, Art. 6 par. 1a GDPR. As far as this concerns information about communication channels (such as your e-mail address or telephone number), you also agree that we may also, where appropriate, contact you via this communication channel to answer your request. You may of course revoke this consent for the future at any time. 
+
+We delete the data that arises in this context after saving is no longer required, or limit processing if there are statutory retention requirements. 
+
+### 6 Newsletter
+
+#### 6.1 General information
+
+With your consent under Art. 6 par. 1a GDPR, you can opt in to our newsletter, which will inform you about our current deals.  
+To sign up for our newsletter, we use the “double opt-in” method. This means that after you have signed up, we will send you an e-mail to the e-mail address specified, in which we ask you to confirm that you wish to receive the newsletter. If you do not confirm your sign-up within [24 hours], your information will be locked and automatically deleted after one month. 
+
+In addition, we save the IP addresses you used and the times of sign-up and confirmation. The purpose of the procedure is to verify your sign-up and, if necessary, to inform you about possible misuse of your personal data. 
+
+The only requirement for sending the newsletter is your email address. The specification of additional, separately marked data is voluntary and will be used to address you personally. After your confirmation, we will save your e-mail address for the purpose of sending you the newsletter. The legal basis is Art. 6 par. 1a GDPR. 
+
+You may revoke your consent to the sending of the newsletter at any time and opt out of the newsletter. You can declare the revocation by clicking the link provided in each newsletter e-mail or by contacting the aforementioned data protection officer. 
+
+#### 6.2 Newsletter Tracking
+
+Please note that we evaluate your user behaviour when sending the newsletter. For this evaluation, the emails sent include “web beacons” or tracking pixels, which are stored on our website. For the evaluations, we link the data mentioned and the web beacons with your e-mail address and an individual ID. 
+
+With the data obtained in this way, we generate a user profile to tailor the newsletter to your individual interests. In doing so, we record when you read our newsletters, which links you click on in them and deduce your personal interests. We link this data with actions you have taken on our website. 
+
+You can object to this tracking at any time by clicking on the separate link provided in each e-mail. The information will be saved as long as you have opted in to the newsletter. After you log out, we save the data purely statistically and anonymously. 
+
+Also, such tracking is not possible if you've deactivated image viewing by default in your e-mail application. In this case, the newsletter will not be displayed in full and you won’t be able to use all the features. If you display images manually, the above tracking will take place. 
+
+### 7 Account
+
+You have the opportunity to enrol with us and create a user account. We collect and save the following data for enrolment: 
+
+  * \- E-mail
+  * \- Password
 
 
 
-You can send us general inquiries on the page “Contact Us”. To process this data, we collect your contact details (name and email address). This data, as well as any correspondence that is exchanged, will be saved and used by us to improve the services trivago offers you.
+The specification of the aforementioned data is compulsory; all other information you can provide voluntarily by using our portal. 
 
-  * Internet Connection Information
+After enrolment, you will receive personal, password-protected access and can view and manage the data you have stored. Enrolment is voluntary but may be required to use our services. 
 
+If you decide to be an active participant in the trivago Community, e.g., by uploading photos or creating texts such as review ratings and descriptions, you decide yourself which personally identifiable information is visible to trivago N.V. and all the visitors on the platform. You can modify these settings at any time. trivago does not publish any personally identifiable information without receiving your express consent to do so. If you participate in the trivago Content Community, your bank account details will be needed in order to pay out the miles you’ve earned. We need these so we can disburse the equivalent of the accumulated miles at your request. Alternatively, you can select PayPal or Skrill as payment options. trivago user accounts and the information contained therein are password-protected so that only the user has access to this personally identifiable information. Users can change their user profiles at any time. 
 
+We will save this information until you permanently delete your access. We will still save the data that you provided on a voluntary basis for the time of your use of the portal, if you do not delete this in advance. You can manage and modify all information in your protected user account. The legal basis is Article 6, par. 1a, b, and f of the GDPR. 
 
-When you visit a page from trivago GmbH, we may collect your IP address, the date and time of your visit, the retrieved data and the version of your browser, as well as any information that is submitted by default. Identifying a single person using the collected data is not possible. We use this data to prevent errors as well as to improve our services.
+### 8 “Hotel Manager” function
 
-  * Community
+Hoteliers can manage their hotel using the “Hotel Manager” function. You must enrol in order to use this function. We collect and save the following data for enrolment: 
 
-
-
-If you decide to actively participate in the trivago Community, such as uploading photos or creating texts such as reviews and descriptions, you decide what personal data is visible for all platform users and for trivago GmbH. Data that is visible at all times are username, age and residence. You can change these settings at any time. trivago does not publish any personal data unless you have specifically given us consent to do so.
-
-Should you participate in the trivago Content Community, your bank details are required for paying out the miles you earned if you select a direct transfer for your payment type. If you do not select a direct transfer, you can use the services from PayPal or Skrill. We require this information in order to disburse the miles you have earned and traded for cash starting at 10.00€ at your request. The trivago user account and the information held therein are password-protected so that only the user has access to this personal information. The user can edit this member profile at any time. We strongly recommend that you do not give your password to any third parties. trivago will never ask you for your password in unexpected or unsolicited emails. Remember to log out of your trivago member account and close your browser window after you end your session. This ensures that no one else can access your personal information and your correspondence if you share a computer with multiple people or you use a computer in public areas like internet cafes or university computing centers.
-
-  * Email Advertisements
-
-
-
-If you have agreed to receive our newsletter, your email address will be saved and used for personal email advertisements until you unsubscribe from the newsletter. Your consent is given through the confirmation email sent by trivago. Your registration for receiving the newsletter is complete when you confirm your subscription via the link in the email. You may unsubscribe at any time by sending an email to [info@trivago.ca](mailto:info@trivago.ca) without incurring costs other than the transmission costs at the basic rates of your internet provider.
-
-  * App
+  * \- Personal title
+  * \- First and Last Name
+  * \- Business e-mail
+  * \- Business phone number
+  * \- Password
 
 
 
-By using our app, we may collect information about what mobile device you use to visit the site. We receive this information through your mobile device’s UDID (unique device identifier). This is a code that is unique and only attributable to your device. Likewise, we collect information such as your IP address, your operating system and the browser you are using and how you use your apps.
+The specification of the aforementioned data is compulsory; all other information you can provide voluntarily by using our portal. 
 
-If you allow GPS positioning on your mobile device, your GPS data can be used to determine your exact location and to show you nearby hotels. You can prevent access to your GPS data by selecting the appropriate settings on your mobile device.
+After enrolment, you will receive personal, password-protected access and can view and manage the data you have stored. The data collected will be used solely for implementing the contractual relationship between trivago and the respective hotelier. Data will not be shared with third parties. The legal basis for data processing is Article 6, par. 1a and b of the GDPR. 
 
-In the event that the app crashes, you can send the respective error report by which we constantly try to improve the usage of the app. The type of mobile device you use, your UDID, the time of the error, the used feature and the status of the app in case of failure will be transmitted via such reports. It is also possible that your personal settings will be transmitted to us, though you can change this in your mobile device’s settings at any time.
+### 9 Use of social plug-ins
 
-### Data Transfer
+This website uses the provider’s social plug-ins 
 
-In the following cases, your data may be passed on to the relevant authorities/courts:
-
-  * In some cases, disclosure to national and international authorities and/or courts due to prior administrative or judicial order is required by law. In these cases, the transfer is made in compliance with the legal requirements and only if the disclosure is necessary.
-  * Insofar this is necessary to prevent illegal or suspected illegal activities, to protect the rights, property or safety of trivago GmbH, the website or the website’s users and to protect in a legally permissible manner.
-  * In connection with a corporate transaction, such as the sale of a branch or division, a merger, consolidations or a sale of assets, or, in the unlikely event of insolvency, we may transfer your data to the responsible authorities, the appointed insolvency administrator and/or the potential transaction partners.
-
-
-
-There is no further transfer to third parties.
-
-### Cookies
-
-So-called cookies are used on the trivago homepage. Cookies are text files that are saved on the user’s computer when visiting an internet site.
-
-We use so-called session cookies, which, depending on what settings you have in your browser, will be deleted when you close your browser.
-
-Additionally, we also use cookies that are used beyond the session (“trans-session cookies”). In particular, these cookies are used to make our services user-friendly, more effective and more secure. Thanks to these files it is possible for you to see specific information tailored to your interests on the site. Thus the sole purpose is to offer our services to suit users’ needs and to create a comfortable surfing experience.
-
-You may refuse the use of cookies by blocking their installation on your browser. How to block cookies is dependent on which browser you use.
-
-### Social Media
-
-  * Facebook
+  * \- Facebook (operator: Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA)
+  * \- Twitter (operator: Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA)
+  * \- Google+ (operator: Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA)
+  * \- Pinterest (operator: Pinterest Inc., 635 High Street, Palo Alto,CA, 94301, USA)
 
 
 
-On our website we have a link to the company Facebook Inc., 1601 S. California Ave., Palo Alto, CA 94304, USA (“Facebook”) via a link (the “Like” button). By clicking on this button, a connection is automatically created through your browser to the Facebook servers and the company Facebook receives the relevant information.If you are logged in to Facebook while visiting our site or have saved cookies from Facebook in your browser during a visit to our site, Facebook can recognize your visit to our site and possibly show your activities on your Facebook profile. You can prevent this from happening by logging out of Facebook before you visit our site and by deleting the Facebook cookies in your browser. For more information about the use of other websites in connection to Facebook, see the terms and conditions and privacy policy from Facebook.
+These plug-ins typically collect data from you as standard, and transmit it to the respective vendor’s server. We have taken technical measures to ensure the protection of your privacy, which guarantee that your data cannot be collected by the vendors of the respective plug-ins without your consent. These will initially be deactivated when you visit a site connected to the plug-ins. The plug-ins will not be activated until you click on the respective symbol, and by doing so, you give your consent to have your data transmitted to the respective vendor. The legal basis for plug-in use is Article 6, par. 1a and f of the GDPR. 
 
-  * Google
+Once activated, the plug-ins also collect personally identifiable information, such as your IP address, and send it to the respective vendor’s server, where it is saved. Activated social plug-ins also set a cookie with a unique identifier when you visit the respective website. This allows the vendor to generate profiles of your user behaviour as well. This occurs even if you are not a member of the respective vendor’s social network. If you are a member of the vendor’s social network and you are logged into the website during your visit, your data and information about your visit to the website can be linked with your profile on the social network. We do not have any influence over the exact extent to which your data is collected by the respective vendor. For more information about the extent, nature and purpose of data processing and about the rights and setting options for protecting your privacy, please see the data protection notices for the respective social network vendor. These can be found at the following addresses: 
+
+  * Facebook: <https://www.facebook.com/policy.php>
+  * Twitter: <https://twitter.com/en/privacy>
+  * Google+: <https://privacy.google.com/intl/en/index.html#>
+  * Pinterest: <https://about.pinterest.com/en/privacy-policy>
 
 
 
-On our website we have a link to the company Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”) to Google+. By clicking on this button, a connection is automatically created through your browser to the Google servers and the company Google receives the relevant information.If you are logged in to Google+ while visiting our site or have saved cookies from Google in your browser during a visit to our site, Google can recognize your visit to our site and possibly show your activities on your Google+ profile. You can prevent this from happening by logging out of Google+ before you visit our site and by deleting the Google cookies in your browser. For more information about the use of other websites in connection to Google and Google+, see the terms and conditions and privacy policy from Google and Google+.
+### 10 Facebook Connect
 
-Even if you do not have a user account on a social network (e.g. Facebook), are not logged in to the provider of the plug-in or have not clicked on the plug-in, it is still possible that the social network saves information like your IP address and other data such as a website’s URL that you have visited.
+We offer you the option of enrolling and signing in through your Facebook account. If you enrol via Facebook, Facebook will ask you for your permission to release certain data in your Facebook account to us. This may include your first name, last name and e-mail address so your identity and gender can be verified, as well as general location, a link to your Facebook profile, your time zone, your date of birth, your profile picture, your “Like” information and your friends list. 
 
-### Information, Revocation, Cancellation
+This data will be collected by Facebook and transmitted to us in compliance with the policies in the [Facebook privacy policy](https://facebook.com/privacy/explanation). You can control the information that we receive from Facebook through the privacy settings in your Facebook account. 
 
-Under the German Federal Privacy Act, you have the right to free information about your saved data, as well as the right to rectification, blocking or deletion of this data. You can object to the use, processing and transfer of your personal data at any time by sending a notification in the mail or by sending an email to [privacy@trivago.ca](mailto:privacy@trivago.ca). After receiving your objection, we will not use, process or transfer the affected data for purposes other than for completing your request and discontinuing the sending of advertising material to you. However, this does not apply to data which are necessary for processing your request or for data that trivago is required to save due to statutory provisions.
+This data will be used to establish, provide and personalise your account. The legal basis is Article 6, par. 1a, b, and f of the GDPR. 
 
-The German translation takes precedence.
+If you enrol with us through Facebook, your account will automatically be connected to your Facebook account and information about your activities on our website, if applicable, will be shared on Facebook and published on your timeline and news feed. 
+
+### 11 Google+
+
+You can also enrol and sign in through your Google+ account. If you enrol through Google+, Google will ask you for your permission to release certain data from your Google+ account to us. This may include your first name, last name and e-mail address so your identity and gender can be verified, as well as a link to your Google+ profile, your profile picture and your friends list. This data will be collected by Google and transmitted to us in compliance with the policies in the [Google privacy statement](https://www.google.com/intl/en/policies/privacy/). 
+
+If you enrol with us through Google+, information related to your activities on our websites will be visible on Google to everyone in your Google+ circles as standard, and will be shared with Google in accordance with [Google’s terms and conditions of use](https://policies.google.com/terms?hl=en) and [Google’s privacy statement](https://www.google.com/intl/en/policies/privacy/). You can find more information about managing the activities that are shared in your Google+ account on [Google’s support page](https://support.google.com/plus/answer/2980762?hl=en). You can determine which people within your Google+ circles can see your activities on our website from the settings page on the Google+ app. 
+
+This data will be used to establish, provide and personalise your account. The legal basis is Article 6, par. 1a, b and f of the GDPR. 
+
+### 12 Use of cookies
+
+Cookies will be stored on your device during the use of our website. Cookies are small text files that are stored on your hard drive assigned to the browser you use, and through which the place where the cookie is set accrues certain information. Cookies cannot run any programmes or transmit any viruses to your device. They serve to make the website more user-friendly and efficient overall. We also use cookies to be able to identify you in subsequent visits. 
+
+This website uses the following types of cookies, whose extent and function are explained in the following: 
+
+#### 12.1 Transient cookies
+
+These cookies are automatically deleted when you close your browser. This includes session cookies in particular. These save a “session ID” with which different requests from your browser can be assigned to the joint session. This allows your device to be recognised again when you return to our website. Session cookies are deleted when you log out or close your browser. 
+
+#### 12.2 Persistent cookies
+
+These cookies are automatically deleted after a set duration that can vary depending on the cookie. You can delete cookies in your browser security settings at any time. 
+
+#### 12.3 Flash cookies
+
+Flash cookies used are not collected through your browser, but through your Flash plug-in. In addition, we use HTML5 storage objects that are stored on your terminal. These objects save the necessary data independent of the browser you use and have no automatic expiration date. If you do not want Flash cookies processed, you must install a suitable add-on, such as “Better Privacy” for Mozilla Firefox (<https://addons.mozilla.org/en-US/firefox/extensions/privacy-security/>) or Adobe Flash Killer Cookie for Google Chrome. You can prevent the use of HTML5 storage objects by setting your browser to private mode. We also recommend that you manually delete your cookies and browser history on a regular basis. 
+
+#### 12.4 Preventing cookies
+
+You can configure your browser and App settings as you wish and, for example, decline to accept third-party or all cookies. Please note that you may not be able to use all of the website’s functions in this case. 
+
+#### 12.5 Legal bases and storage period
+
+The legal bases for possible processing of personally identifiable information and its storage period vary and are described in the following sections. 
+
+### 13 Analysis
+
+For the purposes of analysing and optimising our websites, we use different services that are described in the following. This allows us to analyse, for example, how many users visit our site, which information is requested the most, and how users find the website. The data that we collect includes the websites from which a person in question arrives at a website (“referrer”), which sub-pages on the website are accessed and how often, and the length of time for which a sub-page is viewed. This helps us to develop and improve our website to be more user-friendly. The data collected does not serve to personally identify individual users. Anonymous or highly pseudonymous data will be collected. The legal basis for this is Article 6, par. 1f of the GDPR. 
+
+#### 13.1 Google Analytics
+
+This website uses Google Analytics, a web analysis service of Google Inc (1600 Amphitheatre Parkway Mountain View, CA 94043, USA). This use covers the Universal Analytics operating mode. This makes it possible to assign data, sessions and interactions across multiple devices to a pseudonymous user ID and thus analyse a user’s activities across devices. 
+
+Google Analytics uses cookies that allow your use of the website to be analysed. The information generated by the cookie through your use of this website is generally transmitted to a Google server in the USA and stored there. If IP anonymisation is activated on this website, however, your IP address will be truncated in advance within the member states of the European Union or other contracting states party to the Agreement on the European Economic Area. Only in exceptional circumstances will the full IP address be transmitted to a Google server in the USA and truncated there. The IP address transmitted from your browser in the context of Google Analytics will not be conflated with other Google data. Google will use this information in this website operator’s order to evaluate your use of the website so that reports about website activity can be compiled and other services connected to website and internet use can be rendered for the website operator. Our legitimate interest in data processing is also for these purposes. The legal basis for the use of Google Analytics is Article 6, par. 1f of the GDPR. The data sent by us and connected to cookies, user information (such as user ID) and promotional IDs are deleted after 14 months after the last use of our services. Data whose storage period has expired is automatically deleted once a month. More information on the terms and conditions of use and data protection can be found at <https://www.google.com/analytics/terms/us.html> and <https://policies.google.com/?hl=en>
+
+You can prevent cookies from being stored through the relevant setting in your browser software; however, please note that if you do so, not all functions of the website may be able to be used to their full extent. You can also prevent the data generated by the cookie and related to your use of the website (including your IP address) from being collected and processed by Google by downloading and installing <https://tools.google.com/dlpage/gaoptout?hl=en>. Opt-out cookies prevent the future collection of your data when visiting this website. To prevent Universal Analytics collection across various devices, you must perform the opt-out on all systems in use. Set the opt-out cookie by clicking here: Deactivate Google Analytics 
+
+#### 13.2 Google Tag Manager
+
+For transparency reasons, we would like to mention that we use Google Tag Manager. Google Tag Manager does not itself collect any personally identifiable information. Tag Manager makes it easier for us to incorporate and manage our tags. Tags are small elements of code that serve to measure traffic and user behaviour, record the effects of online advertising and social channels, establish re-marketing and focus on target groups, and test and optimise websites, among other things. If you have deactivated, this will be taken into account by Google Tag Manager. For more information about Google Tag Manager, see: <https://www.google.com/analytics/tag-manager/use-policy/>
+
+#### 13.3 etracker
+
+Data is collected and stored for marketing and optimisation purposes on this website using technologies from etracker GmbH (<https://www.etracker.com/en/>). This data can be used to generate usage profiles under a pseudonym. Cookies may be used for this purpose. The data collected with etracker technologies is not used for the purpose of personally identifying visitors to this website and will not be conflated with personally identifiable information about the bearer of the pseudonym without the explicit consent of the individual in question. You may object to the collection and storage of data at any time with effect for the future. [Please exclude me from the etracker count](https://www.etracker.de/privacy?et=V23Jbb). 
+
+We use etracker so we can analyse the use of our website and make regular improvements. The statistics we gather allow us to improve our website and develop it to be more interesting for you as a user. The data collected will be stored permanently and analysed under a pseudonym. The legal basis for the use of etracker is Article 6, par. 1f of the GDPR. Third party partner information: etracker GmbH, Erste Brunnenstraße 1, 20459 Hamburg; <https://www.etracker.com/en/data-privacy/>. 
+
+#### 13.4 Hotjar
+
+Data is collected and stored for optimisation purposes on this service using technologies from Hotjar Ltd. (<https://www.hotjar.com/> ). This data can be used to generate usage profiles under a pseudonym. Cookies may be used for this purpose. The data collected with Hotjar technologies is not used for the purpose of personally identifying visitors to this website and will not be conflated with personally identifiable information about the bearer of the pseudonym without the explicit consent of the individual in question. You may opt out from having Hotjar collect your information when visiting a Hotjar Enabled Site at any time by visiting the Hotjar Opt-out page <https://www.hotjar.com/legal/compliance/opt-out> and clicking ‘Disable Hotjar’ or enabling Do Not Track (DNT) in your browser. 
+
+### 14 Advertising
+
+We use cookies for marketing purposes to approach our users with advertising that is more tailored to their interests. We also use cookies to reduce the likelihood of ads playing and to measure the effectiveness of our advertising measures. This information may also be shared with third parties, such as ad networks. The legal basis for this is Article 6, par. 1a and f of the GDPR. The goals intended in data processing serve the legitimate interest of direct marketing. You are entitled to file an objection to the processing of your data for the purposes of such advertising at any time. We provide the following opt-out options for the respective services for this purpose. Alternatively, you can prevent cookies from being set in your browser- and App settings 
+
+We use Google AdSense, a service for integrating ads. Google AdSense uses cookies and web beacons (invisible graphics). These web beacons allow the analysis of information such as visitor traffic on the pages of this website. The information generated by cookies and web beacons via the use of this website (including user IP addresses) and the distribution of ad formats is transferred to a Google server in the USA and stored there. Google can pass this information on to their affiliates. However, Google will not conflate your IP address with your other stored data. Users can prevent cookies from being installed through the relevant setting in their browser software and App settings; however, please note that if this is done, not all functions of the website may be able to be used to their full extent. By using this website, the user agrees to the processing of their data collected by Google in the manner and for the purpose described above. 
+
+#### 14.1 Google AdWords and Conversion Tracking
+
+To draw attention to our services, we place Google AdWords display ads and, within this context, use Google conversion tracking for the purposes of personalised online ads based on interests and location. The option to anonymise IP addresses is controlled through Google Tag Manager, via an internal setting that is not visible in the source of this page. This internal setting is set so that the anonymisation required by privacy laws covers IP addresses. 
+
+Ads are displayed based on search requests on websites in the [Google ad network](https://support.google.com/adwords/answer/1752334?hl=en). We have the ability to combine our ads with certain search terms. With the use of cookies, we are able to place ads based on previous user visits to our website. 
+
+When a user clicks on an ad, Google places a cookie on the user’s device. For more information on the cookie technology used, please see Google’s statements on [website statistics](https://services.google.com/sitestats/en.html) and their [data privacy policy](https://policies.google.com/privacy?hl=en). 
+
+With the use of this technology, Google, and we as their customer, receive the information that a user has clicked on an ad and was redirected to our websites. The information acquired this way is solely used for statistical analysis related to ad optimisation. We do not receive any information that would allow us to personally identify a visitor. The statistics provided to us by Google include the total number of users who have clicked on one of our ads and, where applicable, whether they were redirected to a page on our website that has a conversion tag. These statistics allow us to track which search terms most often lead to our ads receiving clicks, and which ads lead to the user contacting us via the contact form.  
+If you do not want this, you can prevent the storage of the cookies required for this technology by, for example, using the settings in your browser or your App. Should you do so, your visit will not be incorporated into user statistics. 
+
+You also have the option to choose the types of Google ads or deactivate interest-based ads on Google through [ad settings](http://www.google.com/settings/ads/anonymous?hl=en&sig=ACi0TCieanLYmh5z6f0nAvdRR5C77eYP-0u7ANbEvIfPnHAGEbE_80av9bi62phgM3urdlD9BNgLLd2eAYbdr6i1EUuQB_siUg). Alternatively, you can deactivate third-party use of cookies by using the Network Advertising Initiative’s [opt-out tool](http://www.networkadvertising.org/choices/). 
+
+However, we and Google will still receive statistical information about how many users visit this site and when. If you do not want to be included in these statistics either, you can prevent this by using additional programmes for your browser (such as the Ghostery add-on). 
+
+#### 14.2 Google DoubleClick
+
+We use DoubleClick, a service of Google Inc. DoubleClick uses cookies to place user-based web ads. The cookies detect which ads have already appeared in your browser and whether you visited a website via an ad placed. In doing so, the cookies do not collect any personally identifiable information, nor are they able to link to any. 
+
+If you do not want to receive any user-based advertising, you can disable the placement of ads by using Google’s [ad settings](https://www.google.com/settings/ads?hl=en&sig=ACi0TCjI5hVNakEbjhKGL0UQgoPkbvsZOsNxgHSH_uQJ6BF7k61gB9Vfsif8Bea_M125z5O55lMM2WrcMEHAPPu5Wt_ivgnGH2acDYNKbfT25KcYG4icn_tmy3eR_AzqzxtaU5stfYJnuVOwdh2n64U8r51ZQLfryUGZrQIA9OGJQYCzvsf4vTsyWjFiNyQitJMlphcwPSK9). 
+
+For more information about how Google cookies are used, please refer to Google’s [privacy statement](https://policies.google.com/privacy?hl=en). 
+
+#### 14.3 Google Dynamic Re-marketing
+
+We use the dynamic re-marketing function of Google AdWords on our website. This technology allows us to place automatically generated ads oriented towards target groups after you visit our website. Ads are oriented towards products and services that you clicked on during your last visit to our website. 
+
+Google uses cookies to generate interest-based ads. Cookies are small text files that are stored in your browser when you visit our website. In this process, Google typically stores information such as your web request, IP address, browser type, browser language, and the date and time of your request. This information only serves the purpose of mapping the web browser to a specific device. It cannot be used to identify an individual. 
+
+If you do not want to receive user-based advertising from Google, you can disable the placement of ads by using Google’s [ad settings](https://www.google.com/settings/ads?hl=en&sig=ACi0TCjI5hVNakEbjhKGL0UQgoPkbvsZOsNxgHSH_uQJ6BF7k61gB9Vfsif8Bea_M125z5O55lMM2WrcMEHAPPu5Wt_ivgnGH2acDYNKbfT25KcYG4icn_tmy3eR_AzqzxtaU5stfYJnuVOwdh2n64U8r51ZQLfryUGZrQIA9OGJQYCzvsf4vTsyWjFiNyQitJMlphcwPSK9). 
+
+For more information about how Google cookies are used, please refer to Google’s [privacy statement](https://policies.google.com/privacy?hl=en). 
+
+#### 14.4 AppNexus
+
+This website uses AppNexus, a service of the AppNexus Inc. company, 28 W 23rd Street, 4th floor, New York, New York – 10010, USA. Among other things, AppNexus uses cookies, which are stored on your device and enable analysis of website use, and beacons. During use, data including the user’s IP address and activities is transmitted to an AppNexus Inc. server and stored there. AppNexus Inc. will transmit this information to third parties where necessary if this is prescribed by law or if this data is processed by third parties. You can prevent personally identifiable information (especially your IP address) from being collected and forwarded or processed by disabling JavaScript in your browser or installing a tool like “NoScript.” You can find more information in AppNexus’s [privacy statement](http://www.appnexus.com/en/company/platform-privacy-policy). You can also set an [opt-out for AppNexus](http://www.appnexus.com/platform-policy#choices). 
+
+#### 14.5 Criteo
+
+Information about the user’s surfing behaviour is collected for marketing purposes and cookies are set for this, solely in anonymised form, on our websites and online content using technology from Criteo (Criteo GmbH, Unterer Anger 3, 80331 Munich). This allows Criteo to analyse surfing behaviour and then display targeted product recommendations as a relevant banner ad when other websites are visited. Anonymised data cannot be used to personally identify visitors to the website under any circumstances. The data collected by Criteo will only be used to improve promotional content. A small “i” (for information) can be found on each banner displayed; if you hover over this and click on it, a page will open that explains the system and offers an opt-out. Clicking “opt out” will set an opt-out cookie that will prevent this banner from being displayed in the future. It will not be used in any other way or forwarded to third parties. You can learn more about Criteo and object to the anonymous analysis of your surfing behaviour at <http://www.criteo.com/en/privacy/>. 
+
+#### 14.6 OpenX
+
+This website uses OpenX, a service of the company OpenX GmbH, Maximilianstrasse 35a, 80539 Munich, Germany. Among other things, OpenX uses cookies, which are stored on your device and enable analysis of website use. During use, data including the user’s IP address and activities is transmitted to an OpenX GmbH server and stored there. OpenX GmbH will transmit this information to third parties where necessary if this is prescribed by law or if this data is processed by third parties. You can prevent personally identifiable information (especially your IP address) from being collected and forwarded or processed by disabling JavaScript in your browser. More information about data protection with the use of OpenX can be found in their [privacy statement](https://www.openx.com/legal/ad-exchange-privacy-principles/). You can also set an [opt-out](http://www.youronlinechoices.com/). 
+
+#### 14.7 Rubicon
+
+This website uses the JavaScript code of the Rubicon company, The Rubicon Project, Inc., 12181 Bluff Creek Drive, 4th Floor, Playa Vista, CA, 90094, USA. If JavaScript is activated in your browser and no JavaScript blocker is installed, your browser will transmit personally identifiable information to Rubicon as applicable. More information on Rubicon’s use of data and data protection can be found in Rubicon’s [privacy statement](https://www.rubiconproject.com/privacy/). To completely prevent Rubicon’s code from running, you can [object](https://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/) here. 
+
+#### 14.8 Facebook Custom Audiences
+
+The product Facebook Custom Audiences (Facebook Custom Audiences 1601 S. California Avenue, Palo Alto, CA, 94304) is also used as part of usage-based online advertising. An irreversible and non-personally identifiable checksum (hash total) is essentially generated by your usage data, which can be transmitted to Facebook for analysis and marketing purposes. A Facebook cookie is set in this process. In doing so, information about your activities on the website (such as surfing behaviour, sub-pages visited, etc.) is collected. Your IP address is stored and used for geographical modulation. 
+
+For more information about the purpose and extent of data collection and further processing and use of data, as well as privacy settings, please refer to Facebook’s [privacy policy](https://www.facebook.com/ads/website_custom_audiences/). 
+
+### 15 Data transmission
+
+Your data will not be transmitted to third parties as a general rule unless we are legally obligated to do so or the transfer of data is necessary for implementing the contractual relationship or you have given prior express consent to have your data transferred. 
+
+External service providers and affiliated companies, such as online payment vendors or shipping companies tasked with delivery, will only receive your data to the extent necessary to process your order. In these cases, however, the extent of data transmitted is kept to the necessary minimum. If our service providers come into contact with your personally identifiable information, we will make sure that this complies with the regulations of data protection laws in the same way through the course of processing the order in accordance with Article 28 of the GDPR. Please note the vendor’s respective data privacy policy as well. The respective vendor is responsible for the content of third-party services, although we review services for compliance with legal requirements to a reasonable extent. 
+
+We emphasise processing your data within the EU/EEA. However, it may happen that we use service providers who process data outside the EU/EEA. In these cases, we make sure that a reasonable level of data protection is established with the recipient before transmitting your personally identifiable information. This means that a level of data protection is reached through EU standard contracts or an adequacy decision that is comparable to the standard within the EU. 
+
+### 16 Data security
+
+We have taken extensive technical and operational security precautions to protect your data from being accidentally or intentionally manipulated, lost, destroyed or accessed by unauthorised persons. Our security measures are reviewed regularly and updated in keeping with technological advances. 
+
+Last updated April 2018 
