@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jagranjosh.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128073526id_/http%3A//www.jagranjosh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jagranjosh.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614201540id_/https%3A//www.jagranjosh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Center- Jagranjosh.com Privacy Policy
 
-Jagranjosh.com recognises the importance of maintaining your privacy. We value your privacy and appreciate your trust in us. This Policy describes how we treat user information we collect on [http://www.jagranjosh.com](http://www.jagranjosh.com/) and other offline sources. 
+Jagranjosh.com recognises the importance of maintaining your privacy. We value your privacy and appreciate your trust in us. This Policy describes how we treat user information we collect on [https://www.jagranjosh.com](https://www.jagranjosh.com/) and other offline sources. 
 
 This Privacy Policy applies to current and former visitors to our website. By visiting and/or using our website, you agree to this Privacy Policy. We recommend you to read this privacy policy so that you understand our approach towards the use of your personal data.
 
