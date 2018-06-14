@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hiretouch.com privacy policy that was archived on 2017-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171209220001id_/http%3A//www.imagetrend.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hiretouch.com privacy policy that was archived on 2018-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180614025206id_/http%3A//www.imagetrend.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head>
     <meta charset="UTF-8">
@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	<link href="https://fonts.googleapis.com/css?family=Oswald:400,700,300|Roboto+Condensed:400,300,700" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" type="text/css" href="/css/1140.css">
+    <link rel="stylesheet" type="text/css" href="/css/1140.css">	
 	<link rel="stylesheet" href="/css/articulate.css">
     <link rel="stylesheet" type="text/css" href="/css/IT-main.css">
     <link rel="stylesheet" type="text/css" href="/css/IT-mediaQueries.css">
@@ -32,8 +32,7 @@
 	<script src="/scripts/modernizr.js"></script>
 	<script src="/scripts/main.js"></script>
 	
-  <!--  <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js'></script>
-	<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>-->
+ 
 		
 	<script src="/umbraco_client/application/jquery/jquery.validate.min.js" type="text/javascript"></script>
 	<script src="/umbraco_client/application/jquery/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
@@ -113,28 +112,7 @@
 		}
 	</script>
 		
-	<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-	<script language="JavaScript" type="text/javascript">
-		function checkformsearch(form){
-			
-			if(form.searchBox.value==""){
-				form.searchBox.focus();
-				form.searchBox.value="";
-				return false;
-			}
-				return true;
-		}
-		
-		function searchChange(){
-			var availableTags = [];			
-				
-			$("#search-form-area").autocomplete({
-				autoFocus: false,
-			  	source: availableTags,
-				select: function(event, ui){ $("input#search-form-area").val(ui.item.value);$("#search-form").submit();}								
-			});				
-		}
-	</script>
+	
 
 
 <!-- Google Analytics -->
@@ -164,6 +142,10 @@
 Lakeville, MN 55044</div>
                 	<div class="column6 right">
                     	<ul>
+							<li id="hdrSearch"><form action="/it-search.aspx" method="get" id="search-form" class="right" onsubmit="return checkformsearch(this);">  
+			<input type="search" id="search-form-area" name="searchBox" autocomplete="off" placeholder="Search imagetrend.com" onkeyup="searchChange();" onpaste="searchChange();" oncut="searchChange();">
+			<input type="submit" value="">
+		</form>	</li>
                         	<li><a href="/our-community-contact-info/">Contact Us</a></li>
                             <li><a href="/our-community-careers/">Jobs</a></li>
                             <li><a href="/resources-support/">Support</a></li>
@@ -203,6 +185,7 @@ Lakeville, MN 55044</div>
                                 <li><a href="/solutions-license-management/">License Management</a></li>
                                 <li><a href="/solutions-complete-picture/">The Complete Picture</a></li>
 								<li><a href="/solutions-corrections/">Corrections</a></li>
+								<li><a href="/solutions-mental-health-for-first-responders/">Mental Health For First Responders</a></li>
     						</ul>
     					</li>
   						<li><a href="#0" class="topNavcursor contains-sub multi">Our Community</a>
@@ -242,10 +225,11 @@ Lakeville, MN 55044</div>
     </header>
 		
 		
-	<form action="/it-search.aspx" method="get" id="search-form" class="right" onsubmit="return checkformsearch(this);">  
-			<input type="search" id="search-form-area" name="searchBox" autocomplete="off" placeholder="search imagetrend.com" onkeyup="searchChange();" onpaste="searchChange();" oncut="searchChange();">
-			<input type="submit" value="">
-	</form>	
+	<!--<form action="/it-search.aspx" method="get" id="search-form" class="right" onsubmit="return checkformsearch(this);" >  
+			<input type="search" id="search-form-area" name="searchBox" autocomplete="off" placeholder="search imagetrend.com"
+				onkeyup="searchChange();" onpaste="searchChange();" oncut="searchChange();" />
+			<input type="submit" value="" />
+	</form>-->
 							
 				
 							
@@ -352,12 +336,13 @@ Lakeville, MN 55044</div>
 							
 	<section id="footer">
     	<div class="contact">
-        	<div class="container12">
+        	<div itemscope="" itemtype="http://schema.org/Organization" class="container12">
+					<link itemprop="url" href="http://www.imagetrend.com">
             		<div class="column1"><a href="https://www.facebook.com/ImageTrendEDS" target="_blank"><img src="/media/1507/facebook.jpg" alt="FaceBook"></a></div>
-                    <div class="column1"><a href="https://twitter.com/ImageTrendInc" target="_blank"><img src="/media/1040/twitter.jpg" alt="Twitter"></a></div>
-                    <div class="column1"><a href="https://www.youtube.com/user/ImageTrendInc" target="_blank"><img src="/media/1041/youtube.jpg" alt="Youtube"></a></div>
-                	<div class="column1"><a href="https://www.linkedin.com/company/imagetrend" target="_blank"><img src="/media/1285/linkedin.jpg" alt="LinkedIn"></a></div>
-					<div class="column1"><a href="https://plus.google.com/+Imagetrend/" target="_blank"><img src="/media/1286/googleplus.jpg" alt="Google+"></a></div>
+                    <div class="column1"><a itemprop="sameAs" href="https://twitter.com/ImageTrendInc" target="_blank"><img src="/media/1040/twitter.jpg" alt="Twitter"></a></div>
+                    <div class="column1"><a itemprop="sameAs" href="https://www.youtube.com/user/ImageTrendInc" target="_blank"><img src="/media/1041/youtube.jpg" alt="Youtube"></a></div>
+                	<div class="column1"><a itemprop="sameAs" href="https://www.linkedin.com/company/imagetrend" target="_blank"><img src="/media/1285/linkedin.jpg" alt="LinkedIn"></a></div>
+					<div class="column1"><a itemprop="sameAs" href="https://plus.google.com/+Imagetrend/" target="_blank"><img src="/media/1286/googleplus.jpg" alt="Google+"></a></div>
 					<div class="column1 omega"><img class="opacity50" src="/media/1795/phone_img.png" alt="Contact"></div>
                     <div class="column3 alpha"><p>Sales: <a href="tel:+18884697789">1-888-469-7789</a><br>
 Support: <a href="tel:+18887303255">1-888-730-3255</a></p></div>
@@ -507,7 +492,28 @@ $(window).scroll(function() {
     });
   </script>
 
-								
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js" integrity="sha256-xNjb53/rY+WmG+4L6tTl9m6PpqknWZvRt0rO1SRnJzw=" crossorigin="anonymous"></script>
+	<script language="JavaScript" type="text/javascript">
+		function checkformsearch(form){
+			
+			if(form.searchBox.value==""){
+				form.searchBox.focus();
+				form.searchBox.value="";
+				return false;
+			}
+				return true;
+		}
+		
+		function searchChange(){
+			var availableTags = [];			
+				
+			$("#search-form-area").autocomplete({
+				autoFocus: false,
+			  	source: availableTags,
+				select: function(event, ui){ $("input#search-form-area").val(ui.item.value);$("#search-form").submit();}								
+			});				
+		}
+	</script>								
                           				
 <!----------Net-Results------------->					
 <script id="__maSrc" type="text/javascript" data-pid="13864">
@@ -518,7 +524,6 @@ $(window).scroll(function() {
     p=d.getElementsByTagName(t)[0];p.parentNode.insertBefore(c,p);
 }());
 </script> 
-
-				 
+ 			 
       
       </body></html>
