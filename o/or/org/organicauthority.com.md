@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the organicauthority.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210224320id_/http%3A//www.organicauthority.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicauthority.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614171220id_/http%3A//www.organicauthority.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Organic Authority
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](http://g.ezoic.net/privacy/organicauthority.com).  
+
 
 This is the web site of **OrganicAuthority.com**.
 
@@ -10,7 +14,7 @@ Our postal address is:
 **9854 National Blvd. #413  
 Los Angeles, CA 90034**
 
-We can be reached via e-mail at [[email protected]](https://web.archive.org/mailto:liveorganic@organicauthority.com)  
+We can be reached via e-mail at [[email protected]](http://www.organicauthority.com/mailto:liveorganic@organicauthority.com)  
 or you can reach us by telephone at 310-694-8306
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
@@ -47,4 +51,6 @@ We do not provide site visitors with access to information that we have collecte
 
 Access to this website and its content is provided without charge to users “AS IS” and without warranty of any kind. We shall bear no responsibility or liability for any damages of any kind arising out or in connection with, the use copying or display of content from this website.
 
-The opinions and views expressed by the authors at Organic Authority in blogs and on social media and more, are theirs alone and do not necessarily reflect the views, opinions or position of Organic Authority, Inc  and do not necessarily represent the views of Organic Authority sponsors and/or partners. Organic Authority content is for informational and entertainment purposes, and any views expressed should not be accepted as a substitute for qualified expertise. Though we make every effort to provide accurate information, it is up to you, the reader, to use Organic Authority’s content responsibly; in return, we promise to publish responsibly. We stand by our content, our writers, and our editors. If we make a mistake, we will take whatever reasonable course of action we can to acknowledge and correct it. (Fortunately, this doesn’t happen too often.) We appreciate our readers keeping us sharp, and take our role in informing, sharing and expressing seriously. We value your trust.
+The opinions and views expressed by the authors at Organic Authority in blogs and on social media and more, are theirs alone and do not necessarily reflect the views, opinions or position of Organic Authority, Inc  and do not necessarily represent the views of Organic Authority sponsors and/or partners. Organic Authority content is for informational and entertainment purposes, and any views expressed should not be accepted as a substitute for qualified expertise. Any highlighted alternative studies are intended to spark conversation and are for information purposes only. We are not here to diagnose or treat any health or medical conditions, nor should this be relied upon as a substitute for professional medical advice, diagnosis or treatment, even if it features the advice of medical practitioners and physicians. When making any lifestyle or health changes, consult your primary care physician.
+
+Though we make every effort to provide accurate information, it is up to you, the reader, to use Organic Authority’s content responsibly; in return, we promise to publish responsibly. If we make a mistake, we will take whatever reasonable course of action we can to acknowledge and correct it. (Fortunately, this doesn’t happen too often.) We appreciate our readers keeping us sharp, and take our role in informing, sharing and expressing seriously. We value your trust.
