@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the peoplefinders.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235106id_/https%3A//www.peoplefinders.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplefinders.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190326id_/https%3A//www.peoplefinders.com/about/privacy) for the most accurate reproduction.*
 
 # PeopleFinders Privacy Policy Keeps Your Personal Information Safe
 
   
-_Last Updated: June 22, 2016_
+_Last Updated: June 4, 2018_
 
-This page summarizes the key highlights from our Privacy Policy. For more information, read our full Privacy Policy. 
+This page summarizes the key highlights from our Privacy Policy. For more information, read our full Privacy Policy. If you are currently located within the European Economic Area or Switzerland (collectively, the “EU”), this policy does not apply; instead please see our [EU Privacy Policy](https://web.archive.org/about/gdpr-privacy). 
 
 Personal information collected
 
@@ -36,11 +36,12 @@ You can:
 Review and edit your personal information through your My Account page   
 ---  
 Control the messages you receive from PeopleFinders and other third parties   
+Contact us to withdraw your consent subject to any limitations set forth below   
 Tell us to close your account   
   
 PEOPLEFINDERS’ PRIVACY POLICY 
 
-_Last Updated: June 22, 2016 (Reviewed)_
+_Last Updated: June 4, 2018_
 
 Confi-Chek, Inc. (“PeopleFinders”, "us", "our" or "we") who owns and controls the website found at [www.peoplefinders.com](https://web.archive.org/) has developed this Privacy Policy which details important information regarding the use and disclosure of user information collected on [www.peoplefinders.com](https://web.archive.org/), and any successor websites, (collectively, the “Site”), and other interactive properties, including but not limited to our mobile applications and mobile-focused websites (the Site and other PeopleFinders’ interactive properties are collectively referred to herein as the “PeopleFinders Applications"). This Privacy Policy also applies to our offline collection of information. PeopleFinders provides this Privacy Policy to help you make an informed decision about whether to use or continue to use the services provided by PeopleFinders ("Services"). 
 
@@ -162,4 +163,4 @@ Customer Service
 1821 Q Street  
 Sacramento, CA 95811 
 
-Copyright ©2016 Confi-Chek, Inc. All rights reserved. 
+Copyright ©2018 Confi-Chek, Inc. All rights reserved. 
