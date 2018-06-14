@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the palms.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315054442id_/http%3A//www.palms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palms.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614114243id_/http%3A//www.palms.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 ###  Intro
 
-We’re great at keeping secrets and strive to keep your personal information confidential. By ensuring that you’re aware of and understand the Palms Website Privacy Policy, we can provide you with better service.
+We’re great at keeping secrets and strive to keep your personal information confidential. By ensuring that you’re aware of and understand Palms Website Privacy Policy, we can provide you with better service.
 
-Below are the privacy policies that govern the official websites for the Palms Hotel & Casino, namely palms.com, palmsgirl.com, studioatthepalms.com, palmsplace.com and others (collectively, the “Website”). Please take a moment to see how we collect and use your personal information.
+Below are the privacy policies that govern the official websites for Palms Casino Resort, namely palms.com, studioatthepalms.com, palmsplace.com and others (collectively, the “Website”). Please take a moment to see how we collect and use your personal information.
 
 ###  General
 
@@ -18,9 +18,9 @@ Every visitor is invited to sign up for a Club Palms Account, through which you 
 
 ###  Online Reservations
 
-Visitors to the Website have the ability to search for rates and availability at the Palms without ever providing any personal information. However, once you have decided on an available reservation, you will be asked to provide personal information. This will include your name, address, and other contact information, as well a credit card number, billing address, and the card’s expiration date. The credit card number will be used solely to secure your reservation as detailed in the reservation process. The Palms will create a private account for you based on the information you have provided as part of the reservation process. If you need to access and/or modify any information in this account, including your travel plans, you may contact the Palms’ reservation center toll free at 1-866-725-6773. The Palms will also combine this information with any other data we have collected about you using our offline resources.
+Visitors to the Website have the ability to search for rates and availability at Palms without ever providing any personal information. However, once you have decided on an available reservation, you will be asked to provide personal information. This will include your name, address, and other contact information, as well a credit card number, billing address, and the card’s expiration date. The credit card number will be used solely to secure your reservation as detailed in the reservation process. Palms will create a private account for you based on the information you have provided as part of the reservation process. If you need to access and/or modify any information in this account, including your travel plans, you may contact Palms’ reservation center toll free at 1-866-725-6773. Palms will also combine this information with any other data we have collected about you using our offline resources.
 
-The Palms takes reasonable steps to ensure that the reservations page on the Website is secure. For more information about our secure certificates, please click on the gold “Verisign” seal located on each reservations page. For more information about our current security methods, please see the “Our Security Practices” section below.
+Palms takes reasonable steps to ensure that the reservations page on the Website is secure. For more information about our secure certificates, please click on the gold “Verisign” seal located on each reservations page. For more information about our current security methods, please see the “Our Security Practices” section below.
 
 ###  Information Collection
 
@@ -36,21 +36,19 @@ We may share aggregated demographic information with third parties, but this inf
 
 ###  Business Transfers
 
-As time passes, the Palms may be sold along with its assets, or other transactions may occur in which customer information is one of the business assets transferred. In such a case, the customer information which we have gathered may be one of the business assets we transfer.
+As time passes, Palms may be sold along with its assets, or other transactions may occur in which customer information is one of the business assets transferred. In such a case, the customer information which we have gathered may be one of the business assets we transfer.
 
 ###  Disclosure for Legal Purposes
 
 The law requires that we may be required to share your personal information and non-personal information (see “Cookies” section above for examples of non-personal information) pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use and disclose share your personal and non-personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Website’s Terms of Use, or as otherwise required by law.
 
-###  Security Practices
+### Security Practices
 
 In certain areas, we use industry-standard SSL encryption to protect data transmissions.
 
 ###  Reviewing Personal Information
 
 Except as otherwise stated, the Website does not offer a way for you to review the personal information you provided in applying for a Club Palms account, or otherwise. If you want to review this information, call Palms Customer Service at 866-942-7777. If you want to revise the personal information you provided in applying for a Club Palms account and whether you want to continue to receive special offers from us, go to the “Gaming” menu bar, click on “Club Palms” and fill out a new application with the revised information. If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact the Palms Customer Service at 866-942-7777.
-
-With regard to the palmsgirl.com website, you can review the personal information you provided by logging in to your account at any time. You may revise any of the personal information in your account by simply typing the new information in the correct field and clicking on the “Continue” button.
 
 ###  Choice
 
@@ -62,7 +60,7 @@ Our Website contains links to other sites owned or operated by the Palms, affili
 
 ###  Children and Privacy
 
-The Palms Websites do not target and are not intended to attract children under the age of 13. The Palms does not knowingly solicit personal information from children, send them requests for personal information or distribute their personal information to third parties without parental consent.
+Palms Websites do not target and are not intended to attract children under the age of 13. The Palms does not knowingly solicit personal information from children, send them requests for personal information or distribute their personal information to third parties without parental consent.
 
 ###  Notification of Changes
 
