@@ -1,75 +1,90 @@
-> *The following text is extracted and transformed from the project-syndicate.org privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905175215id_/https%3A//www.project-syndicate.org/pages/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the project-syndicate.org privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614025243id_/https%3A//www.project-syndicate.org/pages/terms-and-privacy) for the most accurate reproduction.*
 
-# Terms and Privacy - Project Syndicate
+# Privacy Policy - Project Syndicate
 
-## What information do we collect?
-
-We collect information from you when you register on our site or subscribe to our newsletter. 
-
-When ordering or registering on our site, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously. 
-
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy page:[ http://google.com/privacy/ads/](http://google.com/privacy/ads/). 
-
-## What do we use your information for?
-
-Any of the information we collect from you may be used in one of the following ways: 
-
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
+Privacy for our clients and other individuals is a priority for us, and we are committed to ensuring that all personal data is processed with the upmost respect for the rights of the individual. This privacy policy explains how The Project Syndicate, o.p.s., with its registered office at Na Kozačce 7, Prague 2 – Vinohrady, Postal Code: 120 21, Id. No.: 28249429, registered in the Commercial Register maintained by the Municipal Court in Prague, Section O, Insert 555 (“Project Syndicate” or “we”) processes personal data.  
 
 
+We only collect, use, and process your personal information in accordance with actual data protection legislation. This includes but is not limited to Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) and applicable national data protection legislation. 
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions. 
+Your personal data are usually obtained directly from you. In this case, you provide your personal data on a voluntary basis. Specific cases of non-disclosure of personal data may affect the ability of Project Syndicate to properly provide services, or properly perform contractual obligations. 
 
-## How do we protect your information?
+Project Syndicate acts on behalf of its subscribers and other clients in the capacity of a data controller. 
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+## For what purposes are personal data processed? 
 
-## Do we use cookies?
+Project Syndicate processes your personal data as needed for the following purposes: 
 
-Yes. Cookies are small files that a site or its service provider transfers, if you allow, to your computer's hard drive through your web browser. Cookies enable the site's or service provider's systems to recognize your browser and capture and remember certain information. 
+  * (i) Provision of services – this includes the creation and management of your user account or delivery of digital content (legal basis: processing necessary for contractual performance or for the implementation of measures taken before a contract is concluded); 
+  * (ii) Processing payments – this includes the maintenance of payments, together with payment processors (legal basis: processing necessary for contractual performance); 
+  * (iii) Marketing activities – this includes the delivery of personalized content, targeting of advertising or the sending of newsletters (legal basis: legitimate interest); 
+  * (iv) Determination and enforcement of Project Syndicate’s legal claims (legal basis: legitimate interest); and 
+  * (v) Compliance with legislation. 
 
-## Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe it is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-## Third party links
+If necessary, Project Syndicate will ask you for permission to process your personal data. 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+## What categories of personal data do we process? 
 
-## California Online Privacy Protection Act Compliance
+Using the services provided by Project Syndicate may require the following data: 
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
+  * (i) Name, surname, and date of birth; 
+  * (ii) Username and password; 
+  * (iii) Address, telephone number, and email; 
+  * (iv) Payment details (payment card information); 
+  * (v) Your preferences and opinions on products and services, comments on specific articles; and 
+  * (vi) Your browsing activity on our website. 
 
-## Childrens Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of the COPPA (Childrens Online Privacy Protection Act). Our website, products and services are all directed to people who are at least 13 years or older. 
 
-## Online Privacy Policy Only
+## When do we collect data? 
 
-This online privacy policy applies only to information collected through our website and not to information collected online. 
+All data that we receive is obtained directly or indirectly from you when you choose to use our services. This includes the following situations: 
 
-## Terms and Conditions
+  * (i) When you register on our website; 
+  * (ii) When you subscribe to our newsletter; 
+  * (iii) When you pay for premium services or donate; 
+  * (iv) When you browse our website; 
+  * (v) When you share content from our website or when you comment on our articles; or 
+  * (vi) When you interact with us via social media platforms. 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.project-syndicate.org/termsandconditions 
 
-## Your Consent
 
-By using our site, you consent to our online privacy policy. 
+## Who do we share personal data with? 
 
-## Changes to our Privacy Policy
+In order to provide you with the services you request, your personal data may be provided to: 
 
-If we decide to change our privacy policy, we will post these change on this page, and/or update the Privacy Policy modification date below. 
+  * (i) Selected employees of Project Syndicate; 
+  * (ii) Service providers – those ensuring provision of the services provided by Project Syndicate, in particular software services providers, marketing providers, customer service providers, and distributors of marketing and other materials such as newsletters, including employees of such entities; 
+  * (iii) Tax advisors, professional advisers (e.g. auditors, lawyers), including employees of such entities; 
+  * (iv) Entities providing payment services; and 
+  * (v) Social media providers – using the services of Project Syndicate together with a social network may require Project Syndicate to share your personal data with social media providers.
 
-This policy was last modified on August 9, 2011. 
 
-## Contact Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+## How long are your data retained? 
 
-www.project-syndicate.org  
-P.O. Box 130  
-Prague 2 120 21  
-Czech Republic  
-digital@project-syndicate.org 
+We keep your data for the period of time necessary to fulfill the purposes of processing as defined above; however, this data will be erased after the deletion of your user account or, if you do not have a user account, when you stop interacting with Project Syndicate (i.e. after delivery of a particular service or after a reasonable expiration period that is no longer than three years, unless Project Syndicate has a legitimate interest in keeping the personal data longer (for example to protect Project Syndicate’s legal claims). This would be the case if Project Syndicate had a legal obligation to keep your data for a longer period of time (for example, based on applicable accounting rules), or in cases where applicable law obliges us to keep such records for a longer period. 
+
+## Are your personal data secured? 
+
+We store electronic and in some cases physical copies of your personal data. In accordance with best practices, we maintain security safeguards that protect your data. We strictly limit who is allowed to access the information and we keep this number to a minimum. In addition, we maintain physical and cyber safeguards, such as partial anonymization of data, server protection devices, and software to minimize possible loss, misuse, or alteration of your data. 
+
+Your personal data may be stored and processed in countries where Project Syndicate carries out business or where its service providers are located. These countries may apply different privacy rules than the Czech Republic, the European Union, or the European Economic Area (EEA). Project Syndicate has put in place appropriate contractual and other measures to protect your personal data when personal data are transferred to related parties or third parties located in other countries. 
+
+In the case of cross-border transmission of data from the EEA to countries where the European Commission recognizes an insufficient level of protection of personal data, the controller ensures that appropriate measures are taken, including ensuring that data recipients are bound by EU standard contractual clauses to protect your personal data. A copy of these measures can be requested from the administrator via email at: [support@project-syndicate.org](mailto:support@project-syndicate.org). To learn more about such contractual clauses, please visit the [European Commission information website](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en "European Commission information website").
+
+## What are your rights? 
+
+You have the following rights in relation to your data: 
+
+  * (i) To request access in order to correct or delete your personal data, as well as to restrict its processing; however, your right to delete or restrict processing is applicable only if Project Syndicate is not required to process it on another legal basis (i.e. compliance with a legal obligation); 
+  * (ii) Depending on the extent of processing of your data in order to manage your user account and comply with purchase or other contracts, you are entitled to the portability of your personal data; and 
+  * (iii) To object to the processing of your personal data processed with a legitimate interest, as well as against processing for marketing purposes. 
+
+
+
+If you wish to exercise your rights above or have any questions regarding the processing of your personal data, please contact the administrator by email at: [support@project-syndicate.org](mailto:support@project-syndicate.org). You are also entitled to file a complaint with the [Office for Personal Data Protection](https://www.uoou.cz/ "Office for Personal Data Protection"), which is the relevant data protection authority in the Czech Republic. 
+
+The information that Project Syndicate is required to provide to you regarding the processing of your personal data may change over time or become outdated. For this reason, Project Syndicate reserves the right to modify and change these conditions at any time. If these conditions are changed, Project Syndicate will alert you, e.g. by a general announcement on this website, by email, or through your user account.
