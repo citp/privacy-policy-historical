@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125073951id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614200714id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy - myDr.com.au
 
   1. ## We care about your privacy.
 
-At Dr Me, we‘re committed to protecting your personal information. That’s why we’ve put together this policy. It explains in simple terms what kind of personal information we collect, how we use it and whether we disclose it to anyone else. And because we take privacy seriously, it’s been designed with careful reference to the Australian Privacy Principles (APPs) and related privacy laws.
+At Tonic Digital Media, we‘re committed to protecting your personal information. That’s why we’ve put together this policy. It explains in simple terms what kind of personal information we collect, how we use it and whether we disclose it to anyone else. And because we take privacy seriously, it’s been designed with careful reference to the Australian Privacy Principles (APPs) and related privacy laws.
 
-This policy applies to the Dr Me Group Companies, including Dr Me Pty Ltd (“Dr Me”, “we”, “us”, “our”) and its related bodies corporate.
+This policy applies to the Tonic Digital Media Group Companies, including Tonic Digital Media Pty Ltd (“Tonic Media”, “we”, “us”, “our”) and its related bodies corporate.
 
   2. ## Collection of personal information
 
@@ -26,7 +26,7 @@ We will do our utmost to ensure that your personal information is only used and/
 
 From time to time we may need to disclose personal information to, or collect information about individuals from various third parties, including:
 
-    * other companies within the Dr Me group of companies
+    * other companies within the Tonic Digital Media group of companies
     * credit providers (disclosed and undisclosed)
     * information technology providers
     * data processing and payment providers
@@ -52,12 +52,12 @@ Every now and again you may be contacted by mail, SMS, telephone, email or onlin
 
   5. ## Our use of Cookies and other technologies
 
-Cookies are pieces of information that a website transfers to your computer’s hard disk for record keeping purposes. Most web browsers are set to accept cookies. Dr Me uses cookies to make your use of our websites and services as convenient as possible. Cookies in and of themselves do not personally identify users, although they do identify a user’s browser. Cookies are useful to estimate our number of users and determine overall traffic patterns through our website. Dr Me also uses other technologies such as Catchbot to collect data. Bots are a type of web crawler that browse the internet for the purpose of web indexing and updating web content.
+Cookies are pieces of information that a website transfers to your computer’s hard disk for record keeping purposes. Most web browsers are set to accept cookies. Tonic Digital Media uses cookies to make your use of our websites and services as convenient as possible. Cookies in and of themselves do not personally identify users, although they do identify a user’s browser. Cookies are useful to estimate our number of users and determine overall traffic patterns through our website. Tonic Digital Media also uses other technologies such as Catchbot to collect data. Bots are a type of web crawler that browse the internet for the purpose of web indexing and updating web content.
 
-If you do not wish to receive any cookies or bots you may set your browser to refuse cookies or bots. This may mean you will not be able to take full advantage of Dr Me’s services.
+If you do not wish to receive any cookies or bots you may set your browser to refuse cookies or bots. This may mean you will not be able to take full advantage of Tonic Digital Media’s services.
 
  **Google cookies**  
-Dr Me uses Google Analytics features (including Google Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager and Google Analytics Demographics and Interest Reporting) on our website. We, and some third parties (including Google), use both first party and third party cookies to record standard internet traffic information to optimise ad selection based on age, gender, interests and past visits to our site; evaluate your interactions with ad services on our site; and serve targeted advertising on sites across the Internet.
+Tonic Digital Media uses Google Analytics features (including Google Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager and Google Analytics Demographics and Interest Reporting) on our website. We, and some third parties (including Google), use both first party and third party cookies to record standard internet traffic information to optimise ad selection based on age, gender, interests and past visits to our site; evaluate your interactions with ad services on our site; and serve targeted advertising on sites across the Internet.
 
 We, and some third parties (including Google), also use first and third party cookies to optimise advertising on our websites.
 
@@ -69,7 +69,7 @@ If you do not wish to receive any cookies you may set your browser to refuse coo
 
   6. ## Security of personal information
 
-Once we have collected your personal information, we’ll take reasonable steps to ensure it is protected against misuse, loss, interference, unauthorised access, modification and disclosure. We do this in a variety of ways, including maintaining physical security of paper and electronic data stores (such as locks, security systems) and appropriate computer and network security (such as firewalls, user identification policies, encryption, password controls). Your personal information is stored and held securely by third party data storage providers used by Dr Me.
+Once we have collected your personal information, we’ll take reasonable steps to ensure it is protected against misuse, loss, interference, unauthorised access, modification and disclosure. We do this in a variety of ways, including maintaining physical security of paper and electronic data stores (such as locks, security systems) and appropriate computer and network security (such as firewalls, user identification policies, encryption, password controls). Your personal information is stored and held securely by third party data storage providers used by Tonic Digital Media.
 
   7. ## Destruction of personal information
 
@@ -99,11 +99,11 @@ For more information about our privacy practices, make a complaint or lodge a re
 
 The Privacy Officer
 
-Dr Me Pty Limited  
-Phone: 1300 88 60 77  
-Email: privacyofficer@drme.com.au  
-Mail: Dr Me Pty Limited,  
-Level 2, 105-115 Dover Street, Cremorne VIC 3121
+Tonic Digital Media Pty Limited  
+Phone: 02 9211 4749  
+Email: privacyofficer@tonichealthmedia.com.au  
+Mail: Tonic Digital Media Pty Limited,  
+Suite 702, Level 7, 10-14 Waterloo Street, Surry Hills, NSW 2010
 
 We will endeavour to respond to your request or complaint within 30 days. If you are still not satisfied, you may take your complaint to the OAIC.
 
