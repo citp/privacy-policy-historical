@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatic.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221004921id_/https%3A//templatic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatic.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614203127id_/https%3A//templatic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Templatic
 
@@ -114,6 +114,6 @@ If there are any questions regarding this privacy policy, you may contact us usi
 
 > [Contact us](https://templatic.com/contact/)
 
-Last Edited on 2016-10-20
+Last Edited on May 25, 2018
 
-Posted on [October 20, 2016](https://templatic.com/privacy-policy/)
+Posted on [January 1, 2018](https://templatic.com/privacy-policy/)
