@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netzerosearch.net privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228051728id_/http%3A//www.netzero.net/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netzerosearch.net privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615002847id_/http%3A//www.netzero.net/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
 
 # NetZero - Value-priced Internet Service Provider - ISP - Free, low-cost and HiSpeed Internet Access. - Privacy and Security
 
