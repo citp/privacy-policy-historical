@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etrade.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235536id_/https%3A//us.etrade.com/l/f/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etrade.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191710id_/https%3A//us.etrade.com/l/f/privacy-statement) for the most accurate reproduction.*
 
 # E*TRADE Privacy Statement
 
@@ -6,7 +6,7 @@ Last Updated: August 10, 2017
 
 ### Privacy Policy
 
-This Privacy Policy ("Policy") covers the following affiliated companies in the E*TRADE family of companies: E*TRADE Financial Corporation, E*TRADE Securities LLC, E*TRADE Futures LLC, E*TRADE Capital Management, LLC, E*TRADE Insurance Services, Inc., E*TRADE Financial Corporate Services, Inc., E*TRADE Bank, E*TRADE Savings Bank, and ETRADE Securities (Hong Kong) Limited (including its Singapore branch office). These entities are collectively referred to as "affiliated companies," "we," "us," and "our" throughout this Policy
+This Privacy Policy ("Policy") covers the following affiliated companies in the E*TRADE family of companies: E*TRADE Financial Corporation, E*TRADE Securities LLC, E*TRADE Futures LLC, E*TRADE Capital Management, LLC, E*TRADE Insurance Services, Inc., E*TRADE Financial Corporate Services, Inc., E*TRADE Bank, E*TRADE Savings Bank, and ETRADE Securities (Hong Kong) Limited (including its Singapore branch office). These entities are collectively referred to as "affiliated companies," "we," "us," and "our" throughout this Policy.
 
 ### Privacy is our priority.
 
@@ -41,7 +41,7 @@ We may disclose your personal information to the following entities:
   * non-affiliated third parties in order to protect against actual or potential fraud or unauthorized transactions, and to protect the security of our records and systems, unless prohibited by law;
   * non-affiliated third parties at your direction or for which you have provided your express consent (for example, banking or financial institutions and professional service providers);
   * non-affiliated third parties in connection with E*TRADE Financial Corporate Services, Inc.’s provision of services to employee stock plan sponsors, but only in connection with activities associated with your E*TRADE Securities Stock Plan account; and
-  * non-affiliated third parties in connection with the proposed or actual financing, insuring, sale, securitization,assignment, or other disposal of all or part of our business or assets (including accounts) for the purposes of evaluating and performing the proposed transaction.
+  * non-affiliated third parties in connection with the proposed or actual financing, insuring, sale, securitization, assignment, or other disposal of all or part of our business or assets (including accounts) for the purposes of evaluating and performing the proposed transaction.
 
 
 
@@ -119,7 +119,7 @@ We may update this Policy from time to time, and will review it at least annuall
 
 California law requires that we obtain your affirmative consent before we share your non-public personal information with non-affiliated third parties for their own marketing purposes. However, because we do not currently share personal information about you with any non-affiliated third party in a manner that would trigger this requirement, there is no need at this time for us to seek your consent.
 
-#### To limit the sharing of your personal information
+### To limit the sharing of your personal information
 
 If you wish to opt-out of our sharing your personal information with our affiliated companies for marketing purposes, please contact us by telephone or mail:
 
