@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialexpress.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228005732id_/http%3A//www.financialexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialexpress.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614195748id_/http%3A//www.financialexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # OUR ONLINE PRESENCE - The Financial Express
 
@@ -19,5 +19,39 @@ Our website(s) sometimes contain links to other websites whose privacy policies 
 
 We also use a reputable third party to serve the advertisements that you see on our pages. In the course of serving advertisements, our third-party advertiser may place or recognise a unique “cookie” on your browser and may use information (not including your name, address, e-mail address) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
+**Opting out**
+
+If a user opts out using the [Ads Settings](https://www.google.com/ads/preferences), the unique DoubleClick cookie ID on the user’s browser is overwritten with the phrase “OPT_OUT”. Because there is no longer a unique cookie ID, the opt-out cookie can’t be associated with a particular browser.
+
 **Links to Other Sites**  
-Our website(s) has links to other website(s) in the World Wide Web. The privacy policies of these website(s) is not under our control. Once you leave our servers, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. It is advisable to read their privacy policies for further information. 
+Our website(s) has links to other website(s) in the World Wide Web. The privacy policies of these website(s) is not under our control. Once you leave our servers, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. It is advisable to read their privacy policies for further information.
+
+**QUESTIONS/ GRIEVANCE REDRESSAL**
+
+Redressal Mechanism: Any complaints, abuse or concerns with regards to the processing of information provided by you or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to grievanceofficer@expressindia.com 
+
+Ms. Monika Bansal  
+Grievance Officer, (financialexpress.com)  
+Express Building,  
+B1/B, Sector 10  
+Ph: +91-120-665 1500
+
+We request you to please provide the following information in your complaint:
+
+1\. Full name along with postal residential address, email id and cell number
+
+2\. Title & date/ link of news report, article or content which is the subject matter of the complaint including identification of information provided by you.
+
+3\. Clear Statement as to whether the information is personal or sensitive personal information
+
+4\. Specify what supporting documents if any are relied upon and attached
+
+5\. A declaration that whatever information and/or documents are submitted with the complaint are true, complete and current in all respects and nothing therein is false.
+
+6\. A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.
+
+7\. You may also contact us in case you have any questions/ suggestions about the Privacy Policy using the contact information mentioned above.
+
+The company shall not be responsible for any communication, if addressed, to any non designated person in this regard.
+
+Please note that complaint must be from someone personally and directly affected by the matter which forms the subject matter of the complaint. It must not be vexatious, trivial or argumentative. 
