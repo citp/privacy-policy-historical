@@ -1,144 +1,77 @@
-> *The following text is extracted and transformed from the theplatform.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616191939id_/https%3A//www.theplatform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theplatform.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615003436id_/https%3A//www.xfinity.com/corporate/legal/privacyStatement) for the most accurate reproduction.*
 
-# thePlatform Privacy Policy | thePlatform
+# Privacy Statement
 
-_Effective August 10, 2015_
+## **The Comcast Services Covered by this Privacy Policy**
 
-## thePlatform Privacy Policy (“Privacy Policy”)
+This Privacy Policy applies to the website at [corporate.comcast.com](https://corporate.comcast.com/) and to other the Comcast or Xfinity-branded websites that link to this Privacy Policy, including [www.xfinity.com](https://www.xfinity.com/). The privacy policy that applies to Comcast’s television, Internet, voice, and home security services is available at: [ www.xfinity.com/Corporate/Customers/Policies/CustomerPrivacy](https://www.xfinity.com/Corporate/Customers/Policies/CustomerPrivacy); the privacy policy for Xfinity web services, which includes [my.xfinity.com](https://my.xfinity.com/) and Xfinity mobile apps, is available at [my.xfinity.com/privacy](https://my.xfinity.com/privacy); and the privacy policy that applies to Xfinity Mobile is available at [www.xfinity.com/mobile/policies/privacy-policy](https://www.xfinity.com/mobile/policies/privacy-policy). 
 
-As the Internet and the World Wide Web accelerate the exchange of information between businesses and their clients, privacy and the safeguarding of information become increasingly important concerns. This Privacy Policy describes how thePlatform collects and uses the personal information you provide on our Website, [www.thePlatform.com](https://www.theplatform.com/) and within our Media Publishing System console, Community Manager, Support, and Technical Resource Center (“Service Portals”). We occasionally ask you to give us information that helps us learn your requirements so that we can refine both our web site and our product offerings to better match your specific needs. Because we know how important it is to handle any information about you responsibly, we follow a policy that protects your privacy and makes sure that any information you trust us with is used to help us form a business relationship with you that benefits both your company and thePlatform for Media, Inc. (“thePlatform,” “us,” “we,” or “our”) – a wholly owned subsidiary of Comcast Corp.
+## **The Categories of Data That Comcast Collects When You Use This Website**
 
-thePlatform has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+Comcast collects the following types of data from users of this website: (1) the data visitors and users voluntarily submit (such as through order forms to purchase products and services, or by providing an e-mail address to receive newsletters, for example); and (2) connection, activity, and usage data, which Comcast records when visitors and users navigate to and around this website. Some of this data is personal data that identifies a particular person like an e-mail address or telephone number. But most of this data is not personal and identifies connections and devices by, for example, by Internet protocol addresses and cookies.
 
-The TRUSTe certification covers our collection, use and disclosure of information we collect through our website [www.thePlatform.com](https://web.archive.org/web/20160616191939id_/https://www.theplatform.com/privacy-policy/www.theplatform.com/) and our service the Service Portals. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged thePlatform.
+If you initially purchase products and services on [www.xfinity.com](https://www.xfinity.com/), we collect your first and last name, e-mail address, street address, zip code, and phone number. We may also collect payment card data and ask for your social security number in order to run a credit check. On other Comcast websites, we only request your e-mail address so that we can send newsletters to you.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+## **How Comcast Uses the Data It Collects**
 
-We may amend this Privacy Policy from time to time, consistent with any changes to our business practices. The revised policy will take effect the date they are posted on this web site. If we materially change our practices with regard to personal information collected under a prior Privacy Policy, we will endeavor to notify you at the contact email that we have and give you the opportunity to opt out of changes with regard to that previously collected information. At the minimum we will place a prominent notice on our web site. Your continued use of this web site shall be deemed to be your acceptance of the modified terms. Please review these posted terms on a regular basis.
+Comcast uses collected data, including personal data, to determine which products and services to offer to you and on what terms. This data also helps us to offer you more personalized features, complete the particular function of the website you are using, and tailor the website to your interests to make it more useful to you. We also use your personal data to fulfill your orders for products and services.
 
-### Safe Harbor
+Whenever you provide personal data through this website, Comcast will use that personal data for: (1) the purposes we disclose on the website when Comcast asks you to submit the data (such as, for example, to process your purchase of a new subscription to Comcast’s services or to send you e-mail newsletters); or (2) to send you marketing communications, promotions, or other communications about Comcast’s products and services.
 
-thePlatform complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding both the E.U. and Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>.
+## **How Comcast Shares and Discloses Personal Data**
 
-Please note that we only collect information from users in the European Union and Switzerland if our online console for media publishing is configured by our customer to do so or otherwise at our customer’s request.
+Comcast considers the personal data it collects on this website to be confidential. Comcast may sometimes provide personal data to its affiliates or to third-party service providers that help Comcast provide this website to you. When Comcast shares personal data with third parties, it requires them to keep personal data confidential and to use the data only to provide the services to which you subscribe and to provide support for this website.
 
-## INFORMATION COLLECTION AND USE ON OUR WEB SITE
+To make Comcast’s website more valuable to users, Comcast may offer some features in conjunction with other providers. For example, when you click on certain functions on this website, such as to log-in to a shareholder account, you may be re-directed to a website that is not operated by Comcast and may be subject to a privacy policy that is different than this one. Once you leave this website, any information you provide is governed by the privacy policies that appear on the website to which you have navigated. You should read those privacy policies to understand how those sites use your information.
 
-When you request information from us, we may ask you to fill out a form soliciting information about you, your company, or your business. We might ask for contact information, such as your name, telephone number, address, e-mail address, and we may request that you create a username and password to log into the site. We might also ask you to tell us what your job function is or what digital media management solutions your company uses or plans to use. In most cases, the information is required, and you can’t receive the information if you don’t fill out the form.
+Comcast may be required by law or legal process to disclose certain personal data to Comcast’s lawyers, to third parties in connection with litigation, or to law enforcement personnel. Comcast will disclose personal data in compliance with applicable laws. We may provide this information without your consent and without notice to you when we are required to do so in order to comply with a valid legal process such as a subpoena, court order, or search warrant.
 
-We use the information we collect to build strong business relationships with our customers. We want your business, so we want our sales team to contact you. But when they do, we want them to know your needs and business requirements so they can offer you solutions that help your business succeed. We also use your contact information to send you information that we hope will help you make sound purchasing decisions – white papers discussing industry trends; customer newsletters; invitations to events such as seminars, Webcasts, and user conferences; and product announcements and upgrades. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@theplatform.com](mailto:info@theplatform.com). In addition, we use the information we collect for business purposes, including without limitation: (i) managing your on-line experiences (including verifying your authority to enter thePlatform’s web site or Service Portals); (ii) delivering requested services and information to you; and (iii) for business-related purposes permitted and/or required under applicable law or regulation.
+## **Cookies and Site Analytics**
 
-### Public Forums
+Comcast and its service providers use technologies such as cookies and similar methods to collect information on this website. A cookie is a small file stored on your computer or device that is used by your browser or Adobe Flash Player, for example. Cookies enable Comcast to perform various functions on this website, such as to track the number of visitors to the website, analyze how well our website is performing, make sure this website is running properly, and to allow you to use the shopping cart when you order products and services. You can control most cookies and similar technologies through your browser by adjusting its privacy and security settings. If you block or restrict cookies, some functionality on this website may not work properly.
 
-Our web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@theplatform.com](mailto:info@theplatform.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We may also use software technology on this website called clear gifs (sometimes referred to as "web beacons") to help us collect data about user activity. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to HTTP cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence.
 
-### Customer Testimonials/Comments/Reviews
+## **Do Not Track Disclosure**
 
-From time to time we may post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial.
+The World Wide Web Consortium (W3C) currently is engaged in a process to develop a “Do Not Track” Standard. Comcast’s websites do not currently respond to “Do Not Track” signals sent from browsers.
 
-### Access to Information Collected on Web Site
+## **Marketing**
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, or request deletion by contacting us at [safeharborcontact@theplatform.com](mailto:safeharborcontact@theplatform.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within thirty (30) days.
+Comcast, or its third party service providers, may automatically deliver marketing, promotions, and offers for Comcast’s products and services to users of this website based on data such as: (i) the Internet protocol address associated with your computer for purposes of determining your approximate geographic location; (ii) the type of web page that is being displayed, such as a page about Xfinity Internet or a page about Xfinity Mobile; or (iii) the content on the page that is shown. This activity automatically applies to all users and is purely contextual, so it cannot be customized or managed by individual users.
 
-### **Retention of Information Collected on Web Site**
+Sometimes Comcast offers different subscription plans in different areas of the country for our products and services. When you visit this website, we may use the IP address associated with your computer to determine your general geographic location so that we can show you offers for products and services available in your region. When you are interested in a specific product or service, we may also ask you to enter an address or zip code to determine exactly which offer, product, or service is available to you.
 
-We will retain your personal information for as long as it is reasonably useful for commercial purposes.  We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+## **Choices You May Make About Collection, Use, and Sharing of Personal Data**
 
-## COLLECTION/USE OF PERSONAL DATA RECEIVED FROM CUSTOMERS WITHIN SERVICE PORTALS
+Some Comcast websites that link to this Privacy Policy may allow you to submit your e-mail address for the purpose of receiving newsletters from Comcast. Most e-mail newsletters that you receive will include an “unsubscribe” function that allows you to ask Comcast to stop sending the e-mail newsletters to you. In addition, you may choose to opt-in or opt-out of receiving promotional e-mails about Comcast’s products and services by going to the web page located at [www.comcast.com/preferences](https://www.comcast.com/preferences) and following the instructions there. You may also opt-out of receiving marketing or promotional postal mail from Comcast if you contact Comcast at 1-800-COMCAST and ask us to put your name on our “do not mail” list.
 
-With regard to personal information that we receive regarding our Customers’ end-users while on our Service Portals, we collect such information only where we process it on behalf of our customers. We do not collect such information unless authorized by our Customers, nor do we disclose this information except as directed by our Customers. Our Customers maintain their own privacy policies applicable to the use and disclosure of end-user information.
+## **Security**
 
-We use Customer Personal Data for business purposes, including without limitation: (1) delivering requested goods, services, or information to you; or (2) for business-related purposes permitted and/or required under applicable local law and regulation.
+Comcast follows generally-accepted industry standards to protect the personal data submitted to Comcast, both during transmission and once Comcast receives it. However, no method of transmission over the Internet or method of electronic storage is entirely secure.
 
-### Your Choices About How We Handle Your Personal Data
+As an additional security precaution, neither Comcast nor any of our authorized service providers will ask you for your Comcast password in an email, over the telephone, or in an online support forum or chat. Do not give your Comcast password to anyone in any of these places.
 
-We collect information for our Customers, if you are an end-user of one of our Customers and would no longer like to be contacted by one of our Customers that use our service, please contact the Customer that you interact with directly. If you are a Customer and would like to update your account please contact us at [support@thePlatform.com](mailto:support@theplatform.com).
+## **Changes to Personal Data**
 
-### Service Provider, Sub-Processors/Onward Transfer
+If you have submitted personal data on Comcast’s investor information page at [www.cmcsa.com/alerts.cfm?](http://www.cmcsa.com/alerts.cfm?) to receive alerts and information, you may visit that page to update or edit your personal data.
 
-thePlatform may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Privacy Policy regarding notice and choice and the service agreements with our Customers.
+## **Users Outside of the United States**
 
-If we learn that one of our sub-processors/service providers is using or disclosing Personal Data in a manner contrary to this Privacy Policy, we will take necessary steps to prevent or stop the use or disclosure.
+The websites that link to this Privacy Policy are for users located in the United States. If you use this website from outside of the United States, then by providing any data to Comcast over this website or through another direct communication with Comcast, you understand and consent to the collection, use, processing, sharing, and disclosure of your personal data as described in this Privacy Policy. You also consent to the transfer of your personal data to the United States for this collection, use, processing, and disclosure. The European Commission has determined that the United States does not provide an adequate level of protection to personal data and it may not offer the same level of data protection as the country in which you reside, whether that country is in the European Economic Area or elsewhere outside of the United States.
 
-### Sensitive Data
+## **Children**
 
-We do not request and we do not believe we maintain sensitive data about our Customers. If you provide us with any sensitive data such as financial information or health information about your end-users, you are responsible for giving any required notice and obtaining any required consent for the collection, use, and disclosure of such sensitive data.
+Comcast does not knowingly collect personal data from anyone under the age of 13 through this website, and this website is not directed to children under the age of 13. Children should always get permission from a parent or legal guardian before sending any information about themselves (such as their names, email addresses, and telephone numbers) over the Internet, to Comcast, or to anyone else.
 
-### Right to Access, Change, or Delete Personal Data
+## **Change of Ownership or Other Business Transition**
 
-Upon reasonable request and to the extent the request does not compromise the protections set forth in this Privacy Policy, we allow Data Subjects reasonable access to their Personal Data [including any Sensitive Data] that we may maintain. Individuals have the right to receive confirmation from us about the data relating to them that we store in our files and may request that we correct, amend, or delete that information when it is inaccurate. Customers should direct any such request to the Chief Legal Counsel at the address listed below. In the event we are unable to fulfill the request, we recommend the Data Subject to contact the Customer that the Data Subject interacts directly with (the Data Controller).
+If Comcast enters into a business transition, such as a merger, acquisition, or the sale of all or part of its assets, your personal data will likely be part of the assets transferred. We will notify you if this happens if we have a means to contact you and we are required to provide you with notice.
 
-We will respond to all access requests to view, modify, or delete Personal Data within thirty (30) days.
+## **Changes to this Privacy Policy**
 
-### **Retention of Personal Data**
+Comcast reserves the right to change this Privacy Policy. When we change it, we will make a copy of it available to you by posting it at [corporate.comcast.com](https://corporate.comcast.com/) and at [www.xfinity.com](https://www.xfinity.com/), or through other methods. If we make material changes to this Privacy Policy, we will make you aware of them where we post the updated policy and may also notify you by other reasonable methods that we select. If we make material changes to this Privacy Policy that will result in a new use, disclosure, or permission of access to your personal data that we previously collected and stored, we will obtain any consent that may be required by law.
 
-We will retain Personal Data we process on behalf of our Clients for as long as needed to provide services to our Client. thePlatform will also retain Personal Data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+You understand and agree that if you use this website after the effective date of the updated Privacy Policy, Comcast considers your use as acceptance of it.
 
-### Data Integrity
-
-Customers are responsible for the accuracy of the data they provide to us. We will use reasonable efforts to maintain the accuracy and integrity of any Personal Data we receive and update it as appropriate.
-
-We do not, as a matter of business practices, maintain Personal Data longer than necessary for the purposes stated, unless otherwise agreed to by the Customer.
-
-## GENERAL PRIVACY PRACTICES: All Users
-
-### Disclosure of Personal Information
-
-We do not sell or exchange the personal information you share with us with other parties except as described in this Privacy Policy (see “Business Transitions” below). We may disclose it if required to do so by applicable law, to comply with legal process, or in the event of a sale of the assets of our company. Of course, if you post information on any of the blogs, forums, or other editorial sections of our web site, any information you submit there can be read, collected, or used by anyone. Any information you post could be used to contact you. We are not responsible for information you choose to submit through these features.
-
-Note that we may provide aggregated data regarding usage of our site and other non-personally identifying information to third parties. The statistics we compile regarding usage of the web site are provided only in aggregate form, contain no personal information and cannot be used to discern such information.
-
-We use other third parties such as our hosting provider and marketing partners to provide services on our behalf. Our service providers will only use the information shared with them to provide the services we have contracted them for. Our service providers may not use your information for their own marketing purposes.
-
-### Business Transitions
-
-In the event thePlatform goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email or prominent notice on our Web site for thirty (30) days following the transaction of any such change in ownership or control of your personal information, as well as any choices you may have regarding your personally information.
-
-### Tracking Technologies
-
-Technologies such as: cookies, beacons, tags and scripts are used by thePlatform and our product partners, affiliates, or analytics or video service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. Our systems are not set up to track, collect or distribute personal information about you automatically or without your knowledge. Our systems do recognize the home server of users of the web site, but not their email addresses. For example, our computer servers can tell which Internet Service Provider visitors to our web sites use, and the IP addresses associated with users’ computers, but not the names, addresses or other information that would allow us to identify particular users of our sites. The non-personal information collected by our servers is used for internal purposes only (such as to ensure the smooth functioning of our web sites and efficient delivery of content on the sites, for example knowledge of the web browser used allows content to be displayed in the manner best suited for that web browser) by thePlatform’s technical support staff.
-
-In addition, our third party tracking utility partners and thePlatform’s servers track information about the visits to our web sites using log files. For example, we compile statistics that show the daily number of visitors to our sites, the daily requests we receive for particular files on our sites and what countries those requests come from. These aggregated statistics are used internally to provide better services to our web site users. These log files are not tied to personally identifiable information.
-
-### Links to Third Party Sites
-
-This Privacy Policy applies only to information you supply directly to thePlatform via the thePlatform web site, or via e-mail in response to offers and promotions on the thePlatform web site or the Service Portals. As you explore thePlatform.com, you may find links to other web resources – partner and customer sites and professional resources such as organizations and publications. Our Privacy Policy does not apply to these web sites, and you should check the policies of any linked site before offering information to the sponsor of the site.
-
-### Security
-
-We use appropriate industry practices to safeguard the confidentiality of your account information and to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information as described in this Privacy Policy. However, no data transmitted over the Internet is 100% secure. When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL). If you have any questions about security on our web site, you can contact [info@thePlatform.com](mailto:info@theplatform.com).
-
-### California Privacy Rights
-
-California law permits its residents to request and receive information about a business’ disclosure of certain categories of personal information to other companies for their use in direct marketing. If you are a California resident and a user of this web site, you can request a copy of this information from us by sending an email to [info@thePlatform.com](mailto:info@theplatform.com) or a letter to us at 1000 Second Ave Suite 1000, Seattle, WA, 98104. Please include your name and email address in email requests, and your name and physical address in mail request.
-
-### Children’s Privacy
-
-Our web site and services are not intended for anyone under the age of 13. We do not knowingly collect personal information from anyone under the age of 13. If we find out we have collected personal information from anyone under the age of 13, we will delete this information immediately.
-
-### Contact Information
-
-Customers may contact thePlatform with questions or complaints concerning this Privacy Policy at the following address:
-
-Tina Santos  
-Chief Legal Counsel  
-1000 Second Avenue  
-Suite 1000  
-Seattle WA 98104  
-Phone: 206.436.7900  
-Fax: 206.213.0606  
-[info@thePlatform.com](mailto:info@theplatform.com)
-
-## Definitions
-
-Capitalized terms in this Policy have the following meanings:
-
-“Data Subject” means an identified or identifiable natural living person. An identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, psychological, mental, economic, cultural, or social identity. For purposes of this Policy, “Data Subject” means our Customers.
-
-“European Affiliate” means our affiliate(s) located in Switzerland, the EU, or EEA.
-
-“Customer” means any individual that is a prospective, current, or past Customer of thePlatform who is also a resident of Switzerland, the EU, or EEA.
-
-“Personal Data” means data that personally identifies a Data Subject or that may be used to personally identify a Data Subject (such as an identification number that identifies a Data Subject). Personal Data includes data such as an individual’s name, country of birth, marital status, emergency contact, salary information, terms of employment, job qualifications (such as educational degrees earned), address, phone number, e-mail address, user ID and password. Personal Data does not include data that is encoded or anonymized, or publicly available information that has not been combined with non-public Personal Data.
-
-[](https://privacy.truste.com/privacy-seal/Comcast-Cable-Communications-Management,-LLC/validation?rid=f95d6332-842a-40d1-af95-a880a13746ae "TRUSTe European Safe Harbor certification")
+**Effective Date: December 19th, 2017**
