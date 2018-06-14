@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandraandwoo.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214004932id_/http%3A//www.sandraandwoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandraandwoo.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614131713id_/http%3A//www.sandraandwoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Sandra and Woo » Privacy Policy | The comedy webcomic
 
