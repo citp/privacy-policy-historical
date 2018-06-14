@@ -1,0 +1,467 @@
+<!--The following is the downloaded HTML source of the serprobot.com privacy policy that was archived on 2018-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180614042314id_/https%3A//www.serprobot.com/info.php%23privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en-GB"><!--<![endif]--><head>
+	<meta charset="utf-8">
+	<!--<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>-->
+	<title>Free SERP checker - google ranking check | serprobot.com</title>
+	<meta name="description" content="Free SERP check, track and monitor your search engine keyword ranking quickly and accurately">
+	<meta name="keywords" content="serp checker, keyword tool, seo serp, seo tool, serp history, serp page rank">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="referrer" content="origin">
+	<meta name="google-site-verification" content="krhS1AIq7Zi-_vOZ_RlIQVExs0C5pmHM4s1b1tLtLew">
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.serprobot.com/favicon.ico">
+    <link rel="apple-touch-icon" href="https://www.serprobot.com/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.serprobot.com/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.serprobot.com/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.serprobot.com/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.serprobot.com/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www.serprobot.com/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.serprobot.com/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.serprobot.com/apple-touch-icon-152x152.png">
+    
+	<style>
+		a.btn-info{
+			color: #fff !important;
+		}
+        #sponsors table td,
+        #sponsors table img,
+        #sponsors table,
+        .sponsors table td,
+        .sponsors table img,
+        .sponsors table{
+            width: 100% !important;
+        }
+		#countdown-clock{
+			width: 460px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		#countdown-clock.flip-clock-wrapper{
+			zoom: 0.5;
+			-moz-transform: scale(0.5);
+		}
+		.col-xs-15 {
+			width: 20% !important;
+			float: left;
+		}
+		@media (min-width: 768px) {
+			.col-sm-15 {
+				width: 20% !important;
+				float: left;
+			}
+		}
+		@media (min-width: 992px) {
+			.col-md-15 {
+				width: 20% !important;
+				float: left;
+			}
+		}
+		@media (min-width: 1200px) {
+			.col-lg-15 {
+				width: 20% !important;
+				float: left;
+			}
+		}
+		.break-any {
+			word-break: break-all;
+		}
+		.tag.off,
+		.tagToggle.off{
+			opacity: 0.3;
+		}
+		.tagToggle.on{
+			border: solid thin red;
+		}
+		.margin-top-10{
+			margin-top: 10px;
+		}
+		.announcement{
+			background: #b9e7ee;
+			padding: 12px 0;
+			color: #fff;
+			text-align: center;
+			font-weight: 500;
+		}
+		.announcement a, .announcement a:visited, .announcement a:active{
+			color: #428bca;
+		}
+		@media (max-width: 992px) {
+			.announcement{
+				margin-top: 45px;
+			}
+		}
+    </style>
+	
+        	<link href="https://www.serprobot.com/css/main8.min.css" rel="stylesheet">
+	<!--<link href="//fonts.googleapis.com/css?family=Cabin:400,500,600,700" rel="stylesheet">-->
+	<link href="//fonts.googleapis.com/css?family=Cabin" rel="stylesheet">
+	<link rel="stylesheet" href="https://www.serprobot.com/css/justVector.css">
+            	
+	<script type="text/javascript" async="" src="//www.projectwonderful.com/pwa.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="https://www.serprobot.com/js/vendor/jquery-1.10.2.min.js"><\/script>')</script><script src="https://www.serprobot.com/js/vendor/jquery-1.10.2.min.js"></script>
+			
+			<script>
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+							(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+						m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+				ga('create', 'UA-27241194-7', 'auto');
+				ga('require', 'displayfeatures');
+				ga('require', 'linkid');
+				ga('send', 'pageview');
+			</script>
+		
+		        <script>var test_system = false;</script>
+        <script>var timezone_offset = 0;</script>
+    		<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+	<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+	<script>
+        window.addEventListener("load", function(){
+            if(window.cookieconsent){
+                window.cookieconsent.initialise({
+                    "palette": {
+                        "popup": {
+                            "background": "#eaf7f7",
+                            "text": "#5c7291"
+                        },
+                        "button": {
+                            "background": "#56cbdb",
+                            "text": "#ffffff"
+                        }
+                    }
+                });
+            }
+        });
+	</script>
+</head>
+<body>
+
+<!-- Project Wonderful Ad Box Loader -->
+<script type="text/javascript">
+    (function(){function pw_load(){
+      if(arguments.callee.z)return;else arguments.callee.z=true;
+      var d=document;var s=d.createElement('script');
+      var x=d.getElementsByTagName('script')[0];
+      s.type='text/javascript';s.async=true;
+      s.src='//www.projectwonderful.com/pwa.js';
+      x.parentNode.insertBefore(s,x);}
+    if (window.attachEvent){
+        window.attachEvent('DOMContentLoaded',pw_load);
+        window.attachEvent('onload',pw_load);}
+    else{
+        window.addEventListener('DOMContentLoaded',pw_load,false);
+        window.addEventListener('load',pw_load,false);}})();
+</script>
+<!-- End Project Wonderful Ad Box Loader -->
+
+
+<div class="announcement">
+	<strong>News:</strong> SERPLAB.co.uk is now SERPROBOT.com! - <a href="/info.php#news">more information</a></div>
+
+
+<div class="container">
+	<ul id="log-in-header">
+					<li><form action="https://www.serprobot.com/login.php" style="display:inline-block;"><button type="submit" class="btn btn-default navbar-btn" title="Welcome back!">Log in</button></form>
+				<form action="https://www.serprobot.com/register.php" style="display:inline-block;"><button type="submit" class="btn btn-danger navbar-btn" title="It's free, why not?">Sign up</button></form>
+			</li>
+			</ul>
+	<ul id="support-header">
+			<li><form action="https://www.serprobot.com/support.php" style="display:inline-block;"><button type="submit" class="btn btn-success navbar-btn" title="Make your SERP bot smile!">Support us</button></form>
+			</li>
+	</ul>
+	<div class="row" id="header">
+		<a href="https://www.serprobot.com" id="logo" title="SERPROBOT - the best free SERP checker!"><span id="beta">BETA</span></a>
+	</div>
+
+	<div class="row">
+		<div class="col-md-12 text-center">
+			<h1>SERPROBOT Info</h1>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-4">
+			<ul class="nav nav-pills nav-stacked" id="myTab">
+				<li class="active"><a href="#serp" data-toggle="tab">What is SERP?</a></li>
+				<li><a href="#news" data-toggle="tab">News</a></li>
+				<li><a href="#improve" data-toggle="tab">Improving SERP</a></li>
+				<li><a href="#cookies" data-toggle="tab">Cookie Policy</a></li>
+				<li><a href="#terms" data-toggle="tab">Terms and Conditions</a></li>
+				<li><a href="#privacy" data-toggle="tab">Privacy Policy</a></li>
+			</ul>
+		</div>
+		<div class="col-md-8">
+			<div class="tab-content">
+				<div class="tab-pane active" id="serp">
+					<h2>What is SERP ranking and why should I care?</h2>
+					<h3>What is SERP ranking</h3>
+					<p>SERP ranking or <strong><i>Search Engine Results Page</i></strong> ranking is basically the position a website appears in a search engines results page.</p>
+					<h3>What types of SERP rankings are there?</h3>
+					<p>There are many different types of SERPS but three main categories</p>
+					<ul style="list-style: circle">
+						<li><strong>Organic SERPS</strong> These are the natural results that the search engine has selected as being the most relevant to your search query and the most useful to the user</li>
+						<li><strong>Paid SERPS</strong> These are paid for by site owners and provide an easy way to jump the natural selection process and become more prominent to the searcher. Usually there is a charge for each click that the advertiser receives and the site willing to pay the most per click will gain the highest position.</li>
+						<li><strong>Contextual SERPS</strong> These are generated by the context that the search keywords provide and can come in many forms like maps, for a local search, hotel reviews for a booking related query, images for a visual related search or even business reviews for a specific service query.</li>
+					</ul>
+					<h3>Why is my ranking important?</h3>
+					<p>If you are running a website then most of your potential visitors will be provided by search engines and the better your SERP ranking then the more visitors you will receive.</p>
+					<p>It has been shown in a great number of user tests that just the top 3 SERP positions get over 35% of the search traffic and 75% of users never click past the first page</p>
+					<div class="col-md-6">
+						<h4>Google Search User Heatmap</h4>
+						<img src="/img/google-heat-map.jpg" alt="google search heat map" title="top 3 SERP positions get over 35% of traffic">
+					</div>
+					<div class="col-md-6">
+						<h4>Some Search Statistics</h4>
+						<ol>
+							<li>93% of websites visits are referrals from a search engine.</li>
+							<li>70% of the links search users click on are organic.</li>
+							<li>70-80% of users completely ignore the paid ads, simply focusing on the organic results.</li>
+							<li>75% of users never view past the first page of search results.</li>
+							<li>Google has shown that 18% of clicks go to the first SERP position, 10% of clicks go to the second position, and 7% of organic clicks go to the third position.</li>
+							<li>Bing claims that 9.7% of organic clicks go to #1, 5.5% go to #2, and 2.7% #3.</li>
+							<li>There are more than 100 billion searches being conducted each month globally.</li>
+						</ol>
+					</div>
+					<div class="clearfix"></div>
+					<h3>How are organic SERP rankings generated?</h3>
+					<p>All the major search engines have vast amounts of data about the sites they index and for each search query they must rank these sites according to 100's of different criteria to provide what they see as the best and most useful results.<br>They deliberately don't disclose how their ranking methods work to prevent manipulation and are constantly changing or fine tuning the weight of criteria to produce more relevant results.<br> However over years of careful study, the online community has managed to narrow down the most important and influential factors:
+					</p><ul style="list-style: circle">
+						<li>Search keywords or terms related in the pages title, heading tags, image tags etc.</li>
+						<li>Relevant, original body content including search keywords or terms related.</li>
+						<li>Not over optimised with a high proportion of keywords within the overall site (somewhere between 2 to 5% is best).</li>
+						<li>Enough content to be valuable - over 200 words is mostly classed as acceptable.</li>
+						<li>The quantity and quality of incoming links using the search keywords as anchor text.</li>
+						<li>Rich media such as images or video to improve user experience.</li>
+					</ul>
+				</div>
+				<div class="tab-pane" id="news">
+					<h2>News</h2>
+					<h2>SERPLAB rebranding to SERPROBOT <small>4 June, 2018</small></h2>
+					<p>In December we were notified by a company that they had registered our name "SERPLAB" as a trademark in the UK and informed us that we needed to stop using it!</p>
+					<p>After getting legal advice we decided that rather than risk the service in a long legal dispute possibly costing 1000's of $ and countless hours of stress over just a name, it would make more sense to focus on important things (like finishing the final version) and agreed to rebrand.</p>
+					<p>As of the 7th of June we will be changing to the domain <a href="https://www.serprobot.com">https://www.serprobot.com</a> and our name will switch to SERPROBOT - Everything else will stay the same!</p>
+					<p>We will be redirecting anyone who visits <a href="http://www.serplab.co.uk">www.serplab.co.uk</a> so even if you forget you will still be able to find us :-)</p>
+					<p>All APIs will continue to work on the old domain (serplab.co.uk) and on the new one so your existing integrations won't break and will not need updating.</p>
+					<p>If you would like more information then just email us as usual on <a href="mailto:info@serplab.co.uk">info@serplab.co.uk</a> (soon to be <a href="mailto:info@serprobot.com">info@serprobot.com</a>)</p>
+				</div>
+				<div class="tab-pane" id="improve">
+					<h2>How Can I Improve My SERP Ranking?</h2>
+					<p>SEO or <strong><i>Search Engine Optimisation</i></strong> is a vast topic and there are many theories on how to achieve the coveted #1 search engine position, but basically it boils down to two distinct areas: <strong>on page optimisation</strong> and <strong>link building</strong></p>
+					<h4>On Page Optimisation</h4>
+					<p>This is the process of creating a well designed, user friendly, relevant and useful site which is targeted towards a specific niche and targeting specific terms i.e. "SERP CHECKING".<br> There are specific best practices to be observed and basic guidelines to be followed which are beyond the scope of this but you can find more info and a good free site test at <a href="http://woorank.com" rel="nofollow" title="SEO checker">WooRank SEO checker</a> - N.B these are just guidelines and provide basic a benchmark to ensure no grave mistakes have been made, a site can rank #1 with many items these testing sites flag as major problems.</p>
+					<h4>Link Building</h4>
+					<p>Search engines treat incoming links to your site as votes for how relevant it is. The text used for these links is the strongest signal all search engines use to rate your sites relevance to search queries.<br> Links are rated by the relevance and authority the linking site has and the more relevance the link will pass. So good high quality links are by far the best way to get a SERP ranking position.</p>
+					</div>
+				<div class="tab-pane" id="cookies">
+					<h2>How And Why We Use Cookies</h2>
+					<p>Cookies are very small text files which are stored on your computer when you visit most websites.</p>
+					<p>We use cookies to help identify the usage patterns of our site so we can improve and customise your user experience and save the details of your last SERP search (so you don't have to keep entering the keywords!).
+					</p><p>You can clear cookies already stored on your computer and set your browsers security settings to not accept any new cookies, this will clear any saved information and you will have to reenter your details on each visit to this site.</p>
+					<h3>Cookies are necessary for the correct operation of our website to allow us to:</h3>
+					<ol>
+					<li>Remember that you are logged in and that your session is secure.</li>
+					<li>Track the sites performance and pages of this site you visit via analytics software.</li>
+					<li>Allow you to share pages with social networks such as Facebook or Twitter.</li>
+					</ol>
+				</div>
+				<div class="tab-pane" id="terms"><h2>Terms and Conditions for use of www.serprobot.com</h2>
+					<p>These terms of use govern your use of our site. Please read these terms in full before you use this Website. If you do not accept these terms of use, please do not use this Website. Your continued use of this site confirms your acceptance of these terms.</p>
+					<p>This website is operated as SERPROBOT by MDE Multiple Digital Establishment. Throughout the site, the terms “we”, “us” and “our” refer to SERPROBOT operated by MDE Multiple Digital Establishment. MDE Multiple Digital Establishment offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.<br>
+						By visiting our site you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply  to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content.<br>
+						Please read these Terms of Service carefully before accessing or using our website. By accessing or using any part of the site, you agree to be bound by these Terms of Service. If you do not agree to all the terms and conditions of this agreement, then you may not access the website or use any services. If these Terms of Service are considered an offer, acceptance is expressly limited to these Terms of Service.<br>
+						Any new features or content which are added to the current site shall also be subject to the Terms of Service. You can review the most current version of the Terms of Service at any time on this page. We reserve the right to update, change or replace any part of these Terms of Service by posting updates and/or changes to our website. It is your responsibility to check this page periodically for changes. Your continued use of or access to the website following the posting of any changes constitutes acceptance of those changes.
+					</p>
+					<h3>WEB SITE ACCESS</h3>
+					<p><strong><i>1.1</i></strong> It is not necessary to register with us in order to use parts of this Website. [However, particular areas of this Website will only be accessible only if you have registered.]</p>
+					<h3>USE OF WEBSITE</h3>
+					<p><strong><i>1.2</i></strong>	This Website may be used for your own private purposes and in accordance with these terms of use.</p>
+					<p><strong><i>1.3</i></strong>	You may print and download material from this Website provided that you do not modify or reproduce any content without our prior written consent.</p>
+					<h3>SITE UPTIME</h3>
+					<p><strong><i>1.4</i></strong>	All reasonable measures are taken by us to ensure that this Website is operational all day, every day. However, occasionally technical issues may result in some downtime and accordingly we will not be liable for any lost revenue or business, inconvenience or costs incurred if this website is unavailable at any time.</p>
+					<p><strong><i>1.5</i></strong>	Where possible we always try to give advance warning of maintenance issues that may result in Website down time but we shall not be obliged to provide such notice.</p>
+					<h3>VISITOR PROVIDED MATERIAL</h3>
+					<p><strong><i>1.6</i></strong>	Any material that a visitor to this Website sends or posts to this Website shall be considered non-proprietary and non confidential. We shall be entitled to copy, disclose, distribute or use for such other purpose as we deem appropriate all material provided to us, with the exception of personal information, the use of which is covered under our Privacy Policy.</p>
+					<p><strong><i>1.7</i></strong>	When using this website you shall not post or send to or from this Website any material:</p>
+					<ol>
+					<li>for which you have not obtained all necessary copyright or consents;</li>
+					<li>that is discriminatory, obscene, pornographic, defamatory, liable to incite racial hatred, in breach of confidentiality or privacy, which may cause annoyance or inconvenience to others, which encourages or constitutes conduct that would be deemed a criminal offence, give rise to a civil liability, or otherwise is contrary to the law in Liechtenstein;</li>
+					<li>which is harmful in nature including, and without limitation, computer viruses, Trojan horses, corrupted data, or other potentially harmful software or data.</li>
+					</ol>
+					<p><strong><i>1.8</i></strong> We will fully co-operate with any law enforcement authorities or court order requiring us to disclose the identity or other details of any person posting material to this website in breach of Paragraph 1.7.</p>
+					<h3>LINKS TO AND FROM OTHER WEBSITES</h3>
+					<p><strong><i>1.9</i></strong>	Throughout this Website you may find links to third party websites. The provision of a link to such a website does not mean that we endorse that website.  If you visit any website via a link on this Website you do so at your own risk.</p>
+					<p><strong><i>1.10</i></strong>	Any party wishing to link to this website is entitled to do so provided that the conditions below are observed:</p>
+					<ol>
+					<li>you do not seek to imply that we are endorsing the services or products of another party unless this has been agreed with us in writing;</li>
+					<li>you do not misrepresent your relationship with this website; and</li>
+					<li>the website from which you link to this Website does not contain offensive or otherwise  controversial content or, content that infringes any intellectual property rights or other rights of a third party.</li>
+					</ol>
+					<p><strong><i>1.11</i></strong>	By linking to this Website in breach of clause 5.2 you shall indemnify us for any loss or damage suffered to this Website as a result of such linking.</p>
+					<h3>DISCLAIMER</h3>
+					<p><strong><i>1.12</i></strong>	Whilst we do take all reasonable steps to make sure that the information on this website is up to date and accurate at all times we do not guarantee that all material is accurate and ,or up to date.</p>
+					<p><strong><i>1.13</i></strong>	All material contained on this Website is provided without any or warranty of any kind. You use the material on this Website at your own discretion.</p>
+					<h3>EXCLUSION OF LIABILITY</h3>
+					<p><strong><i>1.14</i></strong>	We do not accept liability for any loss or damage that you suffer as a result of using this Website.</p>
+					<p><strong><i>1.15</i></strong>	Nothing in these Terms of Use shall exclude or limit liability for death or personal injury caused by negligence which cannot be excluded or under the law of the Liechtenstein.</p>
+					<h3>TERMINATION OF SERVICE</h3>
+					<p><strong><i>1.16</i></strong>	We reserve the right to terminate your service at any time for any reason we see fit and may take steps to prevent further access if required to safeguard the continued service for other users.</p>
+					<h3>FAIR USAGE</h3>
+					<p><strong><i>1.17</i></strong>	Access to this website and all parts of the service are subject to a fair usage policy and if we deem that your access contravenes this, for whatever reason, then we may take steps to restrict or prevent further access in order to safeguard the continued service for other users.</p>
+					<h3>DATA OWNERSHIP</h3>
+					<p><strong><i>1.18</i></strong>	All data stored or generated by this website and service is the property of the website and may be removed or modified without notification.</p>
+					<h3>FREE USEAGE</h3>
+					<p><strong><i>1.19</i></strong>	Parts of this website and service may be offered for free use however this is restricted only one account per user/entity.</p>
+					<p><strong><i>1.20</i></strong> Any free usage quotas or functionality may be restricted or changed without notice.</p>
+					<h3>PRIVACY</h3>
+                    <p><strong><i>1.21</i></strong>	We will never share any personal information without your consent unless forced to by law.</p>
+					<h3>PRICING</h3>
+					<p><strong><i>1.22</i></strong>	We reserve the right to change our fees or pricing at any time, upon notice to you if such change may affect your existing or future subscriptions.</p>
+					<h3>PAYPAL</h3>
+					<p><strong><i>1.23</i></strong>	If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.</p>
+					<h3>CHANGES TO TERMS OF SERVICE</h3>
+					<p><strong><i>1.24</i></strong> You can review the most current version of the Terms of Service at any time at this page. We reserve the right, at our sole discretion, to update, change or replace any part of these Terms of Service by posting updates and changes to our website. It is your responsibility to check our website periodically for changes. Your continued use of or access to our website or the Service following the posting of any changes to these Terms of Service constitutes acceptance of those changes.
+					</p><h3>CONTACT INFORMATION</h3>
+					<p><strong><i>1.25</i></strong> Questions about the Terms of Service should be sent to us at info@serprobot.com.</p>
+					<h3>GOVERNING LAW</h3>
+					<p><strong><i>1.26</i></strong> These Terms of Service and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of Liechtenstein.</p>
+				</div>
+				<div class="tab-pane" id="privacy">
+					<h2>Privacy Policy <small>Last Updated May 22, 2018</small></h2>
+					<p>This Privacy Policy describes how SERPROBOT operated by MDE Multiple Digital Est. and its affiliates ("SERPROBOT ," "we," "our" or "us") collect, use, and share information in connection with your use of our websites (including www.serprobot.com), services, and applications (collectively, the "Services"). This Privacy Policy (the "Privacy Policy") does not apply to information our customers may process when using our Services.</p>
+					<p>We may collect and receive information about users of our Services ("users," "you," or "your") from various sources, including: (i) information you provide through your user account on the Services (your "Account") if you register for the Services; (ii) your use of the Services; and (iii) from third-party websites, services, and partners.</p>
+					<p>We recommend that you read this Privacy Policy in full to ensure you are fully informed. If you have any questions about this Privacy Policy or SERPROBOT's data collection, use, and disclosure practices, please contact us at info@serprobot.com.</p>
+					<h4>1. INFORMATION WE COLLECT</h4>
+					<h5>Information You Provide</h5>
+					<ol>
+						<li>Account Registration. When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.</li>
+						<li>Payment Information. When you add your financial account information to your Account, that information is directed to our third-party payment processor. We do not store your financial account information on our systems; however, we have access to, and may retain, subscriber information through our third-party payment processor.</li>
+						<li>Communications. If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. We may also receive a confirmation when you open an email from us.</li>
+					</ol>
+					<p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
+					<h5>Information We Collect When You Use Our Services.</h5>
+					<ol>
+						<li>Cookies and Other Tracking Technologies. As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. To collect this information, a cookie may be set on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognize you. We store information that we collect through cookies, log files, and/or clear gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area ("EEA"), the information referenced above in this paragraph may be considered personal information under applicable data protection laws.</li>
+						<li>When you use our Services, we may collect information about your engagement with our website. We use this data to operate the Services, maintain and improve the performance and utilization of the Services, develop new features, protect the security and safety of our Services and our customers, and provide customer support. We also use this data to develop aggregate analysis and business intelligence that enable us to operate, protect, make informed decisions, and report on the performance of our business.</li>
+					</ol>
+					<h4>2. HOW WE USE INFORMATION</h4>
+					<p>We use the information we collect in various ways, including to:</p>
+					<ol>
+						<li>Provide, operate, and maintain our Services</li>
+						<li>Improve, personalize, and expand our Services</li>
+						<li>Understand and analyze how you use our Services</li>
+						<li>Develop new products, services, features, and functionality</li>
+						<li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the Service, and for marketing and promotional purposes</li>
+						<li>Process your transactions</li>
+						<li>Find and prevent fraud</li>
+						<li>For compliance purposes, including enforcing our Terms of Service, or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process or governmental agency.</li>
+					</ol>
+					<h4>3. HOW WE SHARE INFORMATION</h4>
+					<p>We may share the information we collect in various ways, including the following:</p>
+					<ol>
+						<li><strong>Advertising.</strong> We work with third-party advertising partners to show you ads that we think may interest you. These advertising partners may set and access their own cookies, pixel tags, and similar technologies on our Services, and they may otherwise collect or have access to information about you which they may collect over time and across different online services. Some of our advertising partners are members of the Network Advertising Initiative or the Digital Advertising Alliance. To learn more about these programs, or opt-out of personalized ads, visit the Digital Advertising Alliance’s Self-Regulatory program for Online Behavioral Advertising at <a href="http://www.aboutads.info" target="_blank">www.aboutads.info</a>, or the Network Advertising Initiative at <a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>.</li>
+						<li><strong>Analytics.</strong> We use analytics providers such as Google Analytics. Google Analytics uses cookies to collect non-identifying information. Google provides some additional privacy options regarding its Analytics cookies at <a href="http://www.google.com/policies/privacy/partners/">http://www.google.com/policies/privacy/partners/</a>.</li>
+						<li><strong>Business Transfers.</strong> Information may be disclosed and otherwise transferred to any potential acquirer, successor, or assignee as part of any proposed merger, acquisition, debt financing, sale of assets, or similar transaction, or in the event of insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets.</li>
+						<li><strong>As Required By Law and Similar Disclosures.</strong> We may also share information to (i) satisfy any applicable law, regulation, legal process, or governmental request; (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof; (iii) detect, prevent, or otherwise address fraud, security, or technical issues; (iv) respond to your requests; or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.</li>
+						<li><strong>With Your Consent.</strong> We may share information with your consent.</li>
+					</ol>
+					<h4>4. LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION</h4>
+					<p>Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.</p>
+					<p>However, we will normally collect personal information from you only (i) where we need the personal information to perform a contract with you; (ii) where the processing is in our legitimate interests and not overridden by your rights; or (iii) where we have your consent to do so.  We have a legitimate interest in operating our Services and communicating with you as necessary to provide these Services, for example when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities.</p>
+					<p>In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person.</p>
+					<p>If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).</p>
+					<h4>5. THIRD-PARTY SERVICES</h4>
+					<p>You may access other third-party services through the Services, for example by clicking on links to those third-party services from within the Services. We are not responsible for the privacy policies and/or practices of these third-party services, and we encourage you to carefully review their privacy policies.</p>
+					<h4>6. DATA RETENTION</h4>
+					<p>We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax, or accounting requirements).</p>
+					<p>When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.</p>
+					<h4>7. ACCESS</h4>
+					<p>If you are a registered user, you may access certain information associated with your Account by logging into our Services or emailing info@serprobot.com. If you terminate your Account, any public activity on your Account prior to deletion may remain stored on our servers and may remain accessible to the public.</p>
+					<p>To protect your privacy and security, we may also take reasonable steps to verify your identity before updating or removing your information. The information you provide us may be archived or stored periodically by us according to backup processes conducted in the ordinary course of business for disaster recovery purposes. Your ability to access and correct your information may be temporarily limited where access and correction could: inhibit SERPROBOT's ability to comply with a legal obligation; inhibit SERPROBOT's ability to investigate, make or defend legal claims; result in disclosure of personal information about a third party; or result in breach of a contract or disclosure of trade secrets or other proprietary business information belonging to SERPROBOT or a third party.</p>
+					<h4>8. YOUR DATA PROTECTION RIGHTS UNDER THE GENERAL DATA PROTECTION REGULATION (GDPR)</h4>
+					<p>If you are a resident of the EEA, you have the following data protection rights:</p>
+					<ol>
+						<li>If you wish to access, correct, update, or request deletion of your personal information, you can do so at any time by emailing info@serprobot.com.</li>
+						<li>In addition, you can object to the processing of your personal information, ask us to restrict the processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by emailing info@serprobot.com.</li>
+						<li>You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the "unsubscribe" or "opt-out" link in the marketing emails we send you. To opt-out of other forms of marketing, please contact us by emailing info@serprobot.com.</li>
+						<li>Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.</li>
+						<li>You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.</li>
+					</ol>
+					<p>We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.</p>
+					<h4>9. YOUR CHOICES</h4>
+					<p>You can use some of the features of the Services without registering, thereby limiting the type of information that we collect.</p>
+					<p>You may unsubscribe from receiving certain promotional emails from us. If you wish to do so, simply follow the instructions found at the end of the email. Even if you unsubscribe, we may still contact you for informational, transactional, account-related, or similar purposes.</p>
+					<p>Many browsers have an option for disabling cookies, which may prevent your browser from accepting new cookies or enable selective use of cookies. Please note that, if you choose not to accept cookies, some features and the personalization of our Services may no longer work for you. You will continue to receive advertising material but it will not be tailored to your interests.</p>
+					<h4>10. CHILDREN'S PRIVACY</h4>
+					<p>SERPROBOT  does not knowingly collect information from children under the age of 13, and children under 13 are prohibited from using our Services. If you learn that a child has provided us with personal information in violation of this Privacy Policy, you can alert us at info@serprobot.com.</p>
+					<h4>11. CHANGES TO THIS PRIVACY POLICY</h4>
+					<p>This Privacy Policy may be modified from time to time, so please review it frequently. Changes to this Privacy Policy will be posted on our websites. If we materially change the ways in which we use or share personal information previously collected from you through our Services, we will notify you through our Services, by email, or other communication.</p>
+					<h4>12. INTERNATIONAL DATA TRANSFERS</h4>
+					<p>SERPROBOT  is a global business. We may transfer personal information to countries other than the country in which the data was originally collected. These countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your personal information to other countries, we will protect that information as described in this Privacy Policy.</p>
+					<h4>Contact Us</h4>
+					<p>If you have any questions or concerns about this Privacy Policy, please feel free to email us at info@serprobot.com.</p>
+					<p>The data controller of your personal information is SERPROBOT operated by MDE Multiple Digital Est.</p>
+				</div>
+			</div>
+		</div>
+	</div><!-- END row -->
+	<script>
+        $(function () {
+            $('#myTab a:first').tab('show');
+        });
+        $(function(){
+            var hash = window.location.hash;
+            hash && $('#myTab a[href="' + hash + '"]').tab('show');
+        });
+	</script>
+
+<div class="row text-center bordered-center">
+	<div id="first" class="col-md-4">
+		<h2>Sharing Is Caring</h2>
+		<p>If you like this tool then <strong>PLEASE</strong> spread the word and let your friends know just how <strong>great</strong> this is.</p>
+		<div id="social" class="text-center">
+			<a href="https://www.facebook.com/serprobot" id="fb" target="_blank" title="facebook"></a>
+			<a href="https://twitter.com/serplab" id="twitter" target="_blank" title="twitter"></a>
+		</div>
+		<p><br>- p.s. its good karma too ;-)</p>
+	</div>
+
+	<div id="second" class="col-md-4">
+		<h2>How It Works</h2>
+		<p>All your <strong>SERP</strong> related questions answered, further information about how we check your rankings and make sure you get the most accurate results.<br>
+			<a href="https://www.serprobot.com/info.php">SERP Info</a></p>
+		<a href="#" title="Find out how our SERP bot works"><img src="https://www.serprobot.com/img/SERP-bot.png" class="alignleft" alt="SERP bot" id="serp-bot" title="Our SERP bot"></a>
+	</div>
+
+	<div id="third" class="col-md-4">
+		<h2>Tell Us About It</h2>
+		<p>It has taken our blood sweat and tears to bring you <strong>the best SERP checking tool</strong> we could make, but if you think we could improve something or you just want to say thanks then leave us a message.</p>
+		<form action="#" id="newsletter-form" method="get" accept-charset="UTF-8">
+			<fieldset>
+				<textarea name="karma" placeholder="Enter a message" id="subscribe" style="width:235px;"></textarea>
+				<input type="button" value="Go" onclick="send_feedback()">
+			</fieldset>
+		</form>
+	</div>
+</div>
+</div><!-- .container -->
+<footer>
+	<div id="footer">
+		<div id="footer-wrap" class="container">
+			<a href="#header" id="top-arrow" class="center" title="Go to Top"></a>
+						<div class="row" id="copyright">
+				<div class="col-md-10">
+					<p><a href="/">Copyright © 2018 SERPROBOT.COM All Rights Reserved</a> created by multiple digital EST &nbsp;&nbsp;/ <a href="https://www.serprobot.com/pricing.php">Pricing</a> / <a href="https://www.serprobot.com/info.php#terms">Terms</a> / <a href="https://www.serprobot.com/info.php#cookies">Cookie Policy</a> / <a href="https://www.serprobot.com/info.php#privacy">Privacy Policy</a> / <a href="https://www.serprobot.com/info.php#news">NEWS</a></p>
+				</div>
+				<div class="col-md-2">
+					<img class="pull-right" src="https://www.serprobot.com/img/logo-footer-serprobot.png" alt="SERPROBOT the best free SERP checker">
+				</div>
+			</div><!-- END copyright-->
+		</div><!-- END footer-wrap -->
+	</div><!-- END footer-->
+</footer>
+<script src="https://www.serprobot.com/js/vendor/uri.js"></script>
+<script src="https://www.serprobot.com/js/vendor/punnycode.min.js"></script>
+<script src="https://www.serprobot.com/js/vendor/js.extras.min.js"></script>
+<script src="https://www.serprobot.com/js/main4.min.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7dd7bb05e5","applicationID":"134434647","transactionName":"MQBSYBBYDxVTUUZfCwhKZUYLFggIVF0cRgwW","queueTime":0,"applicationTime":2,"atts":"HUdRFlhCHBs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
