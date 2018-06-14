@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxbusiness.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214024643id_/http%3A//www.foxbusiness.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxbusiness.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191405id_/https%3A//www.foxbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fox Business
 
@@ -6,7 +6,7 @@
 
 Fox News Network, LLC ("Fox News" or "we") wants you to be familiar with how we collect, use and disclose information from and about you.This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "Fox News Services"). By using Fox News Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies ("Company Affiliates") is available at [www.21cf.com](http://www.21cf.com/).
 
-As set forth in our [Terms of Use](http://www.foxbusiness.com/terms-of-use.html), the Fox News Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
+As set forth in our [Terms of Use](https://web.archive.org/terms-of-use), the Fox News Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
 This Privacy Policy applies to all users, including both those who use the Fox News Services without being registered with or subscribing to a Fox News Service and those who have registered with or subscribed to a Fox News Service. This Privacy Policy applies to Fox News’ collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox News’ practices for handling non-personal information (for example, interests, demographics and services usage).
 
