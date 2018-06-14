@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the autozone.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000824id_/http%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autozone.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614110123id_/https%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.*
 
 # AutoZone.com | Privacy Policy
 
-Last Modified: June 13,2013 \- Effective Date: June 13,2013 
+Last Modified: April 12, 2018 \- Effective Date: April 12, 2018 
 
 AutoZone knows that you care how information about you is used and shared. As part of its commitment to customer service, AutoZone strives to make you feel safe and comfortable doing business with AutoZone. Here are some guidelines AutoZone follows to keep your personal information private. AutoZone reserves the right to modify this Privacy Policy at any time in our sole discretion without notice. 
 
@@ -12,7 +12,7 @@ AutoZone may collect certain personally identifiable information, including but 
 
 The Web Site may use third party products and services to gather anonymous traffic statistics using cookies and web beacons. A cookie is a small piece of information stored with your browser that helps web sites and multiple servers recognize you. AutoZone and its third party service providers may also use pixels, or transparent GIF files, for web site management and user tracking. 
 
-AutoZone transmits non-personally identifiable user information about visitors to the servers of reputable third parties for the purpose of targeting its internet banner advertisements on other sites. To do this, AutoZone uses web beacons in conjunction with cookie level data. To opt out of having non-personal information or cookies used to target ads to you by the party service providers, please  [Click Here ](http://www.networkadvertising.org/managing/opt_out.asp).
+AutoZone transmits non-personally identifiable user information about visitors to the servers of reputable third parties for the purpose of targeting its internet banner advertisements on other sites. To do this, AutoZone uses web beacons in conjunction with cookie level data. AutoZone may also use third party companies to provide advertising services and/or to collect certain information when you visit and interact with the Web Site. These third-party companies may collect and use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visit to the Web Site and/or other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These third-party companies may use cookies and other technologies to recognize your browser to collect and record information about your web surfing activity including your activities on the Web Site. To opt out of having non-personal information or cookies used to target ads to you by the party service providers, please  [Click Here ](http://www.networkadvertising.org/managing/opt_out.asp).
 
 #### Information Use 
 
