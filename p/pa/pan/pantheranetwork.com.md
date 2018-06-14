@@ -1,96 +1,170 @@
-> *The following text is extracted and transformed from the pantheranetwork.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224093010id_/http%3A//www.pantherainteractive.com/PantheraNetwork/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantheranetwork.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190350id_/http%3A//www.pantherainteractive.com/PantheraNetwork/privacy.html) for the most accurate reproduction.*
 
 # Panthera Network: Performance Based Online Advertising
 
-  
+This Privacy Policy governs the manner in which Panthera Interactive, LLC (referred to herein as “We”, “Us,” or Panthera”) collects, uses, maintains and discloses information collected from users of the www.pantheranetwork.com website (“Website”). This Privacy Policy applies to the website and all mobile applications, products and services offered by PantheraNetwork.com (collectively, the “Site”). By visiting or using the Site, you accept the practices described in this Privacy Policy. Users of the Site include consumers who visit the Site and affiliates and advertisers who work with Panthera via the Site and provide us with personal information.
 
+##### INFORMATION WE COLLECT
 
-##### Updated March 1, 2007
-
-This privacy statement covers the site www.pantheranetwork.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices.
-
-##### Information Collection
-
-Panthera Network ("Company") is the sole owner of the information collected on www.pantheranetwork.com. The Company collects information from our users at several different points on our Web site.
+We may collect personal information from users in a variety of ways in connection with activities, services, features or resources we make available on our Site.
 
   
 
 
-##### Information Use
+##### PERSONAL INFORMATION 
 
-##### Profile
+Users may visit our Site anonymously. We will collect personal identification information from users only if they voluntarily submit such information to us. Users can always refuse to supply personal information, except that it may prevent them from engaging in certain Site related activities and our being able to provide certain services to users and to interact with users, such as in an affiliate or advertiser relationship with us. For visitors to the Site who do not share any information with us, we collect only the domain name and IP address, but not the e-mail address of such visitors to our Site. 
 
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to help us target and deliver more targeted advertisement to end users. A profile is stored information that we keep on individual users that detail their viewing dislikes/likes of any ads. Consequently, collected information is tied to the user's personally identifiable information to provide offers more relevant to them. This profile is used enhance a level of targeting for the end user, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties. 
+##### AFFILIATES AND ADVERTISERS
 
-##### Cookies
+We may collect personal information when you (i) register on the Site, (ii) fill out forms or fields on the Site, (iii) complete an application for a product or service available through the Site; and (iv) communicate with us by email, mail, text, telephone, facsimile or other electronic means. Personal information in this context may include: your name, email address, postal address, phone number, Messenger ID, social media account details, IP address, tax ID/social security number, and banking/financial information.
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information on our ad server. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. By setting a cookie on our site it would enable us to track and target the interests of our users to more relevant advertising.
+We may also collect non-personal identification information about users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about users’ means of connection to our Site, such as the operating system, the Internet service providers utilized and other similar information, your mobile device type, your device’s unique identifier and your mobile network information.
 
-##### Third Party Advertising
+##### OTHER USERS
 
-The ads appearing on this Web site are delivered to users by DirectTrack. Information about users' visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. This privacy statement covers the use of cookies by DirectTrack only and does not cover the use of cookies by any advertisers or ad servers. 
+For other users of the Site (non-affiliates and non-advertisers), we collect information such as IP addresses and information regarding your browser name, the type of computer and technical information about users’ means of connection to our Site, such as the operating system, the Internet service providers utilized and other similar information, your mobile device type, your device’s unique identifier and your mobile network information.
 
-##### Log Files
+We collect personal information if you provide information such as your name, e-mail or telephone number in the context of making an inquiry through our Site. 
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. IP addresses are tied to personally identifiable information to enable our Web-based service. We use a tracking utility called Wedbtrends that uses log files to analyze user movement. 
+##### WEB BROWSER COOKIES
 
-##### Clear Gifs (Web Beacons/Web Bugs)
+Our Site may use “cookies” to enhance user’s experience. We use cookies to store visitors’ preferences, record session information, such as recording user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our Site, record past activity at a Site in order to provide better service when visitors return to our Site, ensure that visitors are not repeatedly completing the same offer unless otherwise allowed, customize Web page content based on visitors' browser type or other information that the visitor sends. 
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence.
+User’s web browsers place cookies on their hard drive for record-keeping purposes and sometimes to track information about them. A user may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If you do refuse cookies, please note that some parts of the Site may not function properly. 
 
-Clear Gifs can "work with" existing cookies on a computer if they are both from the same Web site or advertising company. That means, for example, that if a person visited "www.company.com", which uses an advertising company's clear gif, the Web site would match the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company.
+##### DO NOT TRACK
 
-In addition, we use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section. 
+“Do-Not-Track” is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third-parties. We do not currently respond to Do-Not-Track signals.
 
-##### Special Offers and Updates
+##### HOW WE USE THE INFORMATION WE COLLECT
 
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications.
+The information we collect is used to improve the content of our Site, used to customize the content and/or layout of our Site for each individual visitor, used to notify users about updates to our Site, and marketing offers. More specifically, we may also use your information:
 
-##### Newsletter
+**\- To serve your requests and offer our services**
 
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications.
+**\- To improve customer service**
 
-##### Service Announcements
+  
+Information you provide helps us respond to your customer service requests, fulfill your requests, and support needs more efficiently.
 
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+**\- To personalize user experience**  
+We may use information individually or in the aggregate to understand how our users individually or as a group use the services and resources provided on our Site.
 
-##### Customer Service
+**\- To improve our Site**  
+We may use feedback you provide to improve our products and services.
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the user's wishes.
+**\- To send periodic emails, mailings, and contact you telephonically**  
+We may use your contact information to respond to your inquiries, questions, and/or other requests and to send you promotions or other offers that may be of interest to you
+
+**\- To protect against certain activities**  
+We may use your information to protect our Site, our partners and affiliates, you, other users, and the public against potentially prohibited or illegal activities, including fraud.
+
+**\- To fulfill legal requirements**  
+We may use your information to fulfill applicable legal requirements, such as responding to subpoenas seeking user information
+
+**\- To conduct research**   
+We may use your information to conduct research and analysis for a variety of purposes, including to better understand our customers, to assist with our current and future service offerings, and to understand our website visitors better.
+
+**\- To manage and protect our information technology infrastructure and security**   
+We may use your information to help manage, secure and protect the security of our Site.
+
+**\- For any other purpose with your consent**  
+We may share with third parties the information we collect regarding IP addresses and information regarding browser name, the type of computer and technical information about users’ means of connection to our Site, such as the operating system, the Internet service providers utilized and other similar information, your mobile device type, your device’s unique identifier and your mobile network information. 
+
+##### OPTING-OUT
+
+If you supply us with your e-mail address, you may receive periodic e-mails from us with information on new products and services or upcoming events. If you do not want to receive e-mails from us in the future, you may use the opt-out feature at the bottom of our email communications or let us know by sending us e-mail to: [ privacy@pantherainteractive.com](mailto:privacy@pantherainteractive.com). However, we may still contact you concerning administrative or transactional matters.
+
+If you supply us with your postal address, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by writing to us at the below address, or e-mailing us at [ privacy@pantherainteractive.com](mailto:privacy@pantherainteractive.com).
+
+Persons who supply us with their telephone numbers may receive telephone contact from us with information regarding new products and services, upcoming events, and account verification. If you do not wish to receive such telephone calls, please let us know by writing to us at the below address, or e-mailing us at [ privacy@pantherainteractive.com](mailto:privacy@pantherainteractive.com) or by deleting your phone number within your publisher and/or advertiser account. 
+
+##### HOW WE SHARE THE INFORMATION WE COLLECT
+
+We may share generic aggregated demographic information not linked to any personal information regarding visitors and users with our business partners, trusted affiliates and advertisers or any other party for any purposes including the purposes outlined above. In addition, we may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. In addition, we may share personal information:
+
+\- To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Panthera’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which information held by Panthera Interactive is among the assets transferred;  
+\- To fulfill any purpose or effect the action for which you provide the information;  
+\- To any third party with your consent;  
+\- To comply with any court order, law, legal process, including responding to any government or regulatory request;  
+\- To enforce or apply our terms of use and other agreements, including for collections purposes and disbursements; or  
+\- If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Panthera, our customers or others. This includes exchanging information with other organizations for the purposes of fraud protection.
+
+Upon request we provide site visitors with access to information that we have collected and that we maintain about them. 
+
+##### HOW WE PROTECT YOUR INFORMATION
+
+We adopt reasonable data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Sensitive and private data exchange between the Site and its users happens over a SSL secured communication channel. 
+
+You should note that the security of your personal information also depends on you. Please do not communicate any information to us through unsecured channels, such as when you are in public areas. Where we have provided you or you have chosen a password, access code, or similar security feature, you must keep the password, access code or security feature confidential. Please do not share your password with anyone. If you believe your password or account has been compromised, please contact us immediately at [ privacy@pantherainteractive.com](mailto:privacy@pantherainteractive.com).
+
+Please note that the transmission of information via the Internet or other means of communication is not completely secure. Although we take reasonable measure to secure your information, we cannot guarantee the security of your information transmitted to our Site or through other means of communication. Any transmission of information is at your own risk. We are not responsible for the circumvention of any privacy setting or security measures contained on any of our systems, including but not limited to our Site. 
+
+##### INDIVIDUAL RIGHTS
+
+Under the General Data Protection Regulation (GDPR), individuals (also known as end users or data subjects) have the right to access, correct, and export their personal data. This includes the right to erasure and the right to be forgotten. The right to erase and/or to be forgotten will be processed within 30 days as stated in the GDPR regulations. To request your personal data to be corrected or deleted, you may send us an email at [ privacy@pantherainteractive.com](mailto:privacy@pantherainteractive.com) or write a letter to the below mailing address.
+
+Panthera Interactive, LLC  
+C/O Data Protection Officer  
+2831 St Rose Parkway  
+Suite 232  
+Henderson, NV 89052  
+USA
+
+Please note we may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect or misleading. 
+
+##### CHILDREN UNDER 13
+
+Our Site and products or services available through this Site are not intended for children under 13 years-old. We do not knowingly solicit data online from or market online to children under 13 years-old. If we knowingly receive a child’s personally identifiable information, we will immediately delete it from our system. If you are the parent or legal guardian of a child under 13 years old and you believe we have received personal information from your child, please contact us at [ privacy@pantherainteractive.com](mailto:privacy@pantherainteractive.com).
 
   
 
 
-##### Sharing
+##### LINKS TO THIRD PARTY WEBSITES
 
-##### Legal Disclaimer
+The Site may include links to other websites or mobile applications whose privacy practices may differ from ours. We are not responsible for any practices employed on third-party websites or applications, including the information and content contained on the website or application. If you submit information to a third-party website or application, your information is governed by the third party’s privacy policy. We encourage you to carefully read the privacy policy of any website or application you visit, access or use.
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+##### ONWARD TRANSFERS
 
-##### Aggregate Information (non-personally identifiable)
+To effectively serve the needs of our clients, Panthera may need to share that data with certain third parties or sub-processors. In such instances, Panthera will ensure that any third-party agents that it engages to process personal data does so in a manner that is consistent with the Privacy Shield Principles. 
 
-We share aggregated demographic information with our advertisers
+##### EU-U.S. PRIVACY SHIELD FRAMEWORK
 
-##### Third Party Advertisers
+Panthera Interactive, LLC complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, please visit <https://www.privacyshield.gov/>.
 
-The Company shares Web site usage information for the purpose of targeting our Internet banner advertisements on various sites. For example, [XYZ Company] uses cookies and clear GIFs on this site, which allow them to recognize a user's cookie when a user visits this site. The information they collect and share through this technology is not personally identifiable.
+In compliance with the Privacy Shield Principles, Panthera commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Panthera at: [ privacy@pantherainteractive.com](mailto:privacy@pantherainteractive.com)
 
-##### Business Transitions
+Panthera has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU. 
 
-In the event the Company goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email as well as a prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+##### CHANGES TO THIS PRIVACY POLICY
 
-##### Links
+Panthera has the discretion to update this Privacy Policy at any time. When we do, we will revise the updated date at the bottom of this page. In the event that we modify this Privacy Policy, we will communicate these changes to you by posting them on this Website and/or by notifying you via e-mail prior to the change becoming effective in the event of any substantive or material changes. We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and to review our emails regarding substantive or material modifications.
 
-This Web site contains links to other sites. Please be aware that we, Panthera Network, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+##### YOUR ACCEPTANCE OF THESE TERMS
 
-##### Refer-a-Publisher
+By using this Site, you signify your acceptance of this Policy. If you do not agree to this Policy, please do not use our Site. Your continued use of the Site following the posting of changes to this Policy will be deemed your acceptance of those changes. 
 
-If a user elects to use our referral service for informing a friend about our network, we ask them for the friend's name and email address. The Company will automatically send the friend a one-time email inviting them to visit the site. The Company stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact the Company at help@PantheraInteractive.com to request the removal of this information from our database.
+##### CONTACT INFORMATION
 
-##### Notification of Changes
+We can be reached at the following address:  
+Panthera Interactive, LLC  
+2831 St Rose Parkway  
+Suite 232  
+Henderson, NV 89052  
+USA
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Any posted changes will take effect immediately. We will use information in accordance with the privacy policy under which the information was collected. 
+To contact us by phone, please call: 702-202-4740
 
-##### Contact Information
+To contact us by e-mail, please contact us at [ privacy@pantherainteractive.com](mailto:privacy@pantherainteractive.com). 
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at: [privacy@pantherainteractive.com](mailto:privacy@pantherainteractive.com)
+##### DPO (DATA PROTECTION OFFICER)
+
+In addition and in line with new GDPR compliance guidelines going into effect on May 25, 2018, Panthera has assigned the role of DPO (Data Protection Officer) to the below individual. 
+
+Name: Asish Dasgupta  
+Email: dpo@pantherainteractive.com
+
+**EFFECTIVE DATE: May 25th, 2018**
