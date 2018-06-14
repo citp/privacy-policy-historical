@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001224id_/https%3A//www.threadless.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191927id_/https%3A//www.threadless.com/info/privacy) for the most accurate reproduction.*
 
 # Shop Threadless tees and other products
 
@@ -66,6 +66,7 @@ Children Under 13
     * We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, or legal process served on our Website.
     * We may share Personal Information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Threadless.com"s Terms of Use, or as otherwise required by law.
     * In the event SkinnyCorp, LLC goes through a business transaction, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
+    * For the purposes of European law, these third parties are independent controllers of data, which means that they are responsible for providing and complying with their own policies relating to any personal information they obtain.
   * Keep in mind that any personal information, or comments that you voluntarily disclose on the Website, for example on comment pages, or on the blog forums, becomes publicly available. Your account name is displayed to other Users when you send and/or post messages through the Website. Please note that any comment or other content you post or send to the Website becomes published content and is not considered personally identifiable information subject to this Privacy Policy. Your messages and other information you make available in public areas of the Threadless.com website will be seen by people and organizations not related to or controlled by Threadless.com, and may be used by others to contact you.
   * If you use a blog on www.threadless.com, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these blogs, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs.
   * We post customer news and/or events on our website which may contain personally identifiable information. We do obtain the customer’s consent via email prior to posting the news and/or event to post their name along with their news and/or event.
@@ -98,7 +99,8 @@ If you have any questions about security on our Website, you can send us an emai
 
 ### 5\. Your Ability to Edit and Delete Your Account Information
 
-  * If your personally identifiable information changes, or if you no longer desire to maintain an account on Threadless.com, you may correct, update, amend, delete/remove or deactivate it by making the desired changes on account profile page (http://www.threadless.com/account) or by emailing our customer support at [info@threadless.com](mailto:info@threadless.com). We will respond to your request to access within 30 days.
+  * If your personally identifiable information changes, or if you no longer desire to maintain an account on Threadless.com, you may correct, update, amend, delete/remove or deactivate it by making the desired changes on account profile page (<http://www.threadless.com/account>) or by emailing our customer support at [info@skinnycorp.com](mailto:info@skinnycorp.com). We will respond to your request to access within 30 days.
+  * Depending on your location, you may also have certain additional rights with respect to your information, such as: obtaining a copy of your personal data you've provided to Threadless; updating your personal data; deleting your personal data (except information we are required to retain, by emailing us at [info@skinnycorp.com](mailto:info@skinnycorp.com)); and withdrawal of consent or objection to processing.
 
 
 
@@ -116,7 +118,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### 8\. Effective Date
 
-This Privacy Policy was last modified December 2016.
+This Privacy Policy was last modified May 25, 2018.
 
 ### 9\. Contact Information
 
@@ -125,6 +127,6 @@ If you have any questions or comments about this Privacy Policy, you can contact
 Privacy Policy
 
 Threadless.com  
-406 N Sangamon, 3rd Floor  
-Chicago, IL 60642  
+955 W. Fulton Market, Unit 3  
+Chicago, IL 60607  
 privacypolicy@threadless.com
