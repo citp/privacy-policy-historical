@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portableapps.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227225958id_/https%3A//portableapps.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portableapps.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614095847id_/http%3A//portableapps.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | PortableApps.com - Portable software for USB, portable and cloud drives
 
@@ -26,7 +26,7 @@ We do not share, sell or otherwise give away your personal information such as y
 
 The information we collect is disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
 
-We have a relationship with Google to place ads on and handle analytics for our web pages. As a result of your visit to our site, Google may collect information such as your domain type, your IP address and clickstream information. For further information, consult the [Google Privacy Center](https://www.google.com/privacy.html). You can also read more about ['How Google uses data when you use our partners' sites or apps'](https://www.google.com/policies/privacy/partners/). We do not share any information you provide us with Google or other advertisers.
+We have a relationship with Google to place ads on and handle analytics for our web pages. As a result of your visit to our site, Google may collect information such as your domain type, your IP address and clickstream information. For further information, consult the [Google Privacy Center](https://www.google.com/privacy.html). You can also read more about ['How Google uses data when you use our partners' sites or apps'](https://policies.google.com/technologies/partner-sites). We do not share any information you provide us with Google or other advertisers.
 
 ## Policy Changes
 
