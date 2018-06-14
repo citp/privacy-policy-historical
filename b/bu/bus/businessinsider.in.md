@@ -1,100 +1,90 @@
-> *The following text is extracted and transformed from the businessinsider.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045547id_/http%3A//www.businessinsider.in/privacypolicy.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsider.in privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614221602id_/https%3A//www.businessinsider.in/privacypolicy.cms) for the most accurate reproduction.*
 
-# Privacy Policy | Business Insider India
+# Privacy Policy
 
-Effective Date: This policy was last updated on 12/09/2013.
+Effective on: May 25, 2018
 
-**Overview**
+This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of your information by Insider Inc., which powers / manages the website Business Insider India and all platforms (web, apps, emails).
 
-This privacy policy applies to Business Insider India ([www.businessinsider.in](http://www.businessinsider.in/)) on all platforms (web, mobile web, apps, emails).
+Insider Inc. respects the privacy of its users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users Insider Inc. offers a vast repository of Online Sites and variety of community services. The information about the user as collected by Insider Inc. is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
-Business Insider India contains links to other sites and we are not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects Personally Identifiable Information (PII).
+By using Insider Inc.'s website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
 
-Business Insider India takes privacy concerns seriously. This privacy policy outlines what information is collected when you visit our site.
+ **USER INFORMATION**
 
-Business Insider India gathers information about its users mainly to enhance their experience on the site and on email newsletters. This information is used to bring you content that is relevant to your interests. Additionally, Business Insider India, along with our advertising partners, gather information about you anonymously to provide you with more targeted advertising messages that are catered to your location and interests. You can opt out of information gathering for advertising purposes below.
+  * To avail certain sites / services on our websites, users are required to provide certain information for the registration process that may include but not limited to :- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience.
 
-**Information Collected**
 
-**_Personal Information/ Information You Directly Provide To Business Insider (BI):_**
+  * All required information is service dependent and Insider Inc. may use the above said user information to, maintain, protect, and improve its services (including advertising services) and for developing new services
 
-When registering, commenting, or signing up for newsletters, you may provide Business Insider India with personal information, including but not limited to:
 
-* Personal contact information (name, zip code, e-mail address, phone numbers)
-* Comments
-* User names (including social media user names)
-* Correspondence with Business Insider staff
-* Billing Information (for paid Business Insider products)
+  * Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005, any rules made there under or any other law for the time being in force.
 
-You are not required to provide Business Insider India with any personal information in order to use the site. All information that is collected is the sole property of the site, and that information is not distributed outside of the site unless required by law.
 
-**_Non-Personal Information Automatically Collected_**
 
-This type of information is collected anonymously through the use of tracking technology using third-party cookies, web beacons, and other similar methods. No Personally Identifiable Information (PII) is collected through this methodology. This information may include, but is not limited to:
+ **COOKIES  
+**
 
-* Hardware/software information (geographic location, IP address, browser type, device type, operating system, bandwidth, etc.)
-* Analytics information (time spent on site, number of pages viewed, referring web page, browsing information, etc.)
-* Advertising information (type of ads seen, number of times ads were served, pages where the ads were served)
-* Information collected through HTML cookies, web beacons, and similar technologies.
+  * To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a user identification (User ID) to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
 
-**_Information Collected Through Third-Party Sources_**
 
-This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any PII. This type of information includes but is not limited to:
+  * Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come.
 
-* Demographic information (gender, age, HHI, job title, interests, etc.)
-* Advertising information (clicks, interactions, post-impression performance data)
-* Social networking information (Facebook, Twitter, LinkedIn, etc.)
-* Research information (data collected from partners such as Nielsen, Comscore, Quantcast, etc.)
 
-**What Is Done With The Collected Information?**
 
-_Email Communications_ : Business Insider India may use the information that you submit to send you email communications, such as newsletters, breaking news, information about the site, alerts, and promotional messages from advertising partners.
+ **LINK TO THIRD PARTY SITES**
 
-_Site Analysis:_ Business Insider India uses the information collected through third-party sources to learn and analyze how the site is used. We use this information to enhance the site by making improvements based on the data collected.
+  * Insider Inc. includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
 
-_Advertising_ : Display Ads are delivered from our adserver, DoubleClick, powered by WPP's Real Media Group. At times third-party information is used to deliver targeted ads to you, your location, and your interests. We also use Third-Party Ad Platforms (such as Google AdSense) to deliver ads on our site. No PII is exchanged with any type of advertising message on Business Insider India.
 
-**How We Share Information Collected**
+  * When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with Insider Inc., we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you.
 
-There are very few specific circumstances when your information is shared outside of the company, these circumstances include but are not limited to:
 
-* If you comment or use the Facebook app on Business Insider India, the information you submit (including your social media user name, etc) is viewable to the public.
-* Business Insider India may need to disclose personal information to comply with a judicial proceeding, a court order, or any other legal process.
-* We employ third-party services to distribute email newsletters and these third-parties have access to specific information only for the purposes of fulfilling contracts on our behalf
-* In the event Business Insider India goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
 
-**Email Policy**
+ **INFORMATION SHARING  
+**
 
-Business Insider India does not allow any third-party company to use your email address for commercial purposes without your expressed permission. We will send you newsletter communications, partner sponsorship messages, account alerts, and any other emails you have requested to receive. If you would like to opt-out of any specific newsletters or mailings, please [login](https://www.businessinsider.in/) to your profile to change your newsletter settings.
+  * Insider Inc. shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:
+  * a) When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.
+  * b) Insider Inc. proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-**Notices**
 
-_Children Under 13_ : Business Insider India does not knowingly target adverting to, or collect information from children under the age of 13.
 
-_Data Retention_ : Your personal information is retained for as long as necessary to fulfill the purposes outlined in this privacy policy.
+ **ACCESSING AND UPDATING PERSONAL INFORMATION**
 
-_Security_ : Business Insider uses all reasonable means to safeguard data against unauthorized use and theft.
+  * When you use Insider Inc.'s websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.  
+ **  
+**
 
-_Changes to This Policy_ : Business Insider India may at any time change this Privacy Policy to reflect any changes in our practices, service offerings, or market regulations. If the policy is updated, we will update the Effective Date at the top of the policy.
 
-_Questions/Suggestions_ : If you have any questions or suggestions for this Privacy Policy, please contact the editor of Business Insider India or email questions to [feedback@businessinsider.in](mailto:feedback@businessinsider.in). You can also reach us by mail at
 
-Times Internet Limited Plot No. 391, Udyog Vihar, Phase - III, Gurgaon-122016 Haryana Phone: 0124-4518550
+ **INFORMATION SECURITY**
 
-**Cookies**
+  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
 
-A cookie (otherwise known as an HTTP cookie) is a small piece of code which can be sent from a web site or banner ad and stored on a user's web browser. The cookie stores data such as preferences, previous activity, and other information. For more information on HTTP cookies and other online advertising definitions please visit the [IAB's web site](http://www.iab.net/insights_research/1494).
 
-**For More Information**
+  * All information gathered on Insider Inc. is securely stored within the Insider Inc. controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
 
-Below are links to the privacy policies of some of our partners and links to advertising opt outs.  
-[Real Media](http://www.realmedia.com/en-us/pages/privacy_policy.html)'s DoubleClick technology powers the adserving on Business Insider India.
 
-**Contact Us**
+  * However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
 
-If you have questions about privacy or any grievance relating to the processing of information provided by you, you may please contact us at [grievance.tgp@timesinternet.in](mailto:grievance.tgp@timesinternet.in) or write to us at
 
-Ms. Debdatta Das  
-**_Grievance Redressal Officer_**  
-[_www.businessinsider.in_](http://www.businessinsider.in/)  
-Times Internet Limited Plot No. 391, Udyog Vihar, Phase - III, Gurgaon-122016 Haryana Phone: 0124-4518550
+  * We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or request or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to grievance.tgp@timesinternet.in.
+
+
+  *  **Grievance Redressal**
+  * Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to .
+
+
+
+ _Grievance Redressal Officer  
+_ _[www.businessinsider.in](http://www.businessinsider.in/)  
+_ Times Internet Limited Plot No. 391, Udyog Vihar, Phase - III, Gurgaon-122016 Haryana Phone: 0124-4518550
+
+We request you to please provide the following information in your complaint:-  
+a) A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.  
+b) Identification of the copyrighted work claimed to have been infringed.  
+c) Identification of the material on our website that is claimed to be infringing or to be the subject of infringing activity.  
+d) The address, telephone number or e-mail address of the complaining party.  
+e) A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.  
+f) A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
