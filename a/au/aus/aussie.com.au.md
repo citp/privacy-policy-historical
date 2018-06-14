@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165433id_/https%3A//www.aussie.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614054352id_/https%3A//www.aussie.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Aussie
 
@@ -46,7 +46,7 @@ Please [email us](mailto:privacy@aussie.com.au) with your privacy request.
 
 ## Why do we exchange your information with another organisation?
 
-At Aussie, we want to provide our customers with the very best products and services. At times, we may partner with another organisation to support the products and services we offer (for example, credit cards). In these situations we will need to provide our partners with the personal information you have given us.
+At Aussie, we want to provide our customers with the right products and services. At times, we may partner with another organisation to support the products and services we offer (for example, insurance partners). In these situations we will  need to provide our partners with the personal information you have given us.
 
 As you will appreciate, in certain circumstances we may be compelled by law to disclose your personal information to various authorities. For instance, we may be required under the _Anti-Money Laundering and Counter-Terrorism Financing Act_ to disclose details of financial transactions and we may also be compelled under tax laws to provide such information to regulators.
 
@@ -147,7 +147,3 @@ Aussie
 LOCKED BAG 19 ROYAL EXCHANGE NSW 1225
 
 Please [email us](mailto:privacy@aussie.com.au) with your privacy request.
-
-## RMG Privacy Policy
-
-[__Click here](https://web.archive.org/content/dam/aussie/documents/Aussie-RMG-Privacy-Policy.pdf) to read the RMG Privacy Policy and to request access to personal information.
