@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228005100id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614113246id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · Guardian Liberty Voice
+# Privacy Policy – Guardian Liberty Voice
 
 We collect information from you when you register on our site, place an order, respond to a survey or fill out a form.
 
