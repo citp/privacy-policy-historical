@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartrade.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228031428id_/https%3A//www.cartrade.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartrade.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614221050id_/https%3A//www.cartrade.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CarTrade
 
@@ -10,13 +10,13 @@ _**Use of Site Browsing History**_
 
 By using CarTrade.com, You consent to the collection, storage, and use of your browsing history on this website. We share this information with trusted 3rd parties that use it to show your marketing communications of interest. While no Personally Identifiable Information is shared, we respect your right to privacy and hence provide this transparent disclosure. In addition, selected 3rd parties also provide You the right to opt out. To opt out from all 3rd parties that make use of Adobe technology, please click on the link below and select the appropriate option on the destination page.
 
-Click [here](https://www.adobe.com/in/privacy/opt-out.html?button=Opt-Out) to opt out of Adobe programmes.
+Click [here](https://www.adobe.com/in/privacy/opt-out.html?button=Opt-Out "click") to opt out of Adobe programmes.
 
 _**Opt Out Page**_
 
 You can also opt out of several similar programs by visiting the Network Advertising Initiative gateway opt-out site. In addition, You may also setup your browser software to reject 3rd party cookies.
 
-Click [here](http://www.networkadvertising.org/choices/) for the Network Advertising opt-out site.
+Click [here](http://www.networkadvertising.org/choices/ "click") for the Network Advertising opt-out site.
 
 _**Visitor Profiling**_
 
@@ -60,4 +60,4 @@ By registering yourself at CarTrade.com you authorize us & both our current and 
 
 Furthermore, third parties may use Non-Personal Information in order to display advertising that reflects the interests and preferences of our user community.
 
-If You have any questions about our Privacy Policy, please contact us on [privacy@cartrade.com](mailto:privacy@cartrade.com).
+If You have any questions about our Privacy Policy, please contact us on [privacy@cartrade.com](mailto:privacy@cartrade.com "privacy").
