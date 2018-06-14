@@ -1,131 +1,224 @@
-> *The following text is extracted and transformed from the entropay.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235141id_/https%3A//www.entropay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entropay.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614100536id_/https%3A//entropay.com/privacy-policy) for the most accurate reproduction.*
 
 # Entropay | Privacy Policy
 
-Last modified: Seventh of February 2017 (07/02/2017 - UK date format)
+This Notice was last revised on 24 May 2018.
 
-Ixaris Systems Limited ("We") are committed to protecting and respecting your privacy.
+## 1 Introduction
 
-This policy (together with our terms of use at [](https://secure2.entropay.com/static/pages/terms.general.html)[](https://www.entropay.com/website-terms-of-use)<https://www.entropay.com/website-terms-of-use> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [https://www.entropay.com](https://www.entropay.com/) (our site) you are accepting and consenting to the practices described in this policy.
+Entropay is committed to respecting our customers' privacy and protecting their personal information from misuse or un-authorised disclosure and complying with privacy laws. Entropay values its reputation and aims to maintain high ethical standards in the conduct of our business affairs.
 
-For the purpose of the Data Protection Act 1998 (the  **Act** ), the data controller is Ixaris Systems Limited of 10 Midford Place, London, W1T 5AE, United Kingdom.
+This privacy policy explains how we use any personal information we collect about you when you use this website.
 
-## Information we may collect from you
+## 2 Business Summary
 
-We may collect and process the following data about you:
+Entropay is a Card Payments Services company, specialising in virtual, disposable prepaid Visa cards, instant and global money transfers. Entropay also offers businesses white label solutions and facilitates corporate purchasing.
 
-  * **Information you give us.**  You may give us information about you by filling in forms on our site or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, or open an account and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, personal description, financial and credit or debit card information.
-  *  **Information we collect about you.**  With regard to each of your visits to our site we may automatically collect the following information:
-    * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
-    * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
-  *  **Information we receive from other sources.**  We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
+Organisation Size 50-70  
+Locations London and Malta
 
+## 3 Organisation Contact Details
 
+Data Controller Details  
+Email Address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+Telephone Number: 00356 2131 4514
 
-## Tracking technologies
+Postal Address 10 Midford Place  
+London  
+UK  
+W1T 5AE
 
-Technologies such as cookies, beacons, tags and scripts or similar technologies are used by Ixaris Systems Limited and it's partners on its online services.
+Data Protection Officer Details  
+Name: Denise Vella   
+email Address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+Telephone Number: 00356 27330092
 
-We may use Cookies for a variety of purposes and to enhance your online experience, for example, by remembering your log-in status and viewing preferences from a previous use of an online service, for when you later return to that online service.
+## 4 Description of Processing
 
-For more information on the types of Cookies that are used by our services refer to our Cookie Policy which is available at: [](https://secure2.entropay.com/static/pages/cookieSettings.html)<https://www.entropay.com/entropay-cookie-policy>.
+The following is a very broad description of the way this organisation/data controller processes personal information. To understand how your own personal information is processed you may need to refer to any personal communications you have received, check any privacy notices the organisation has provided or contact the organisation directly to ask about your personal circumstances
 
-Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+We process personal information to enable us 
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click here: <http://preferences-mgr.truste.com/> (or if located in the European Union click here <http://www.youronlinechoices.eu/>). Please note you will continue to receive generic ads.
-
-## Analytics/Log Files
-
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
-
-We do not link this automatically collected data to other information we collect about you.
-
-## Uses made of the information
-
-We use information held about you in the following ways:
-
-  * **Information you give to us.**  We will use this information:
-    * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
-    * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
-    * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box on the form on which we collect your data;
-    * to notify you about changes to our service; you may also choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page, or you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd8e888d8d928f89bd9893898f928d9c84d39e9290).
-    * to ensure that content from our site is presented in the most effective manner for you and for your computer.
-  *  **Information we collect about you.**  We will use this information:
-    * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-    * to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
-    * to allow you to participate in interactive features of our service, when you choose to do so;
-    * as part of our efforts to keep our site safe and secure;
-    * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
-    * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
-  *  **Information we receive from other sources.**  We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+  * to provide payment and associated services
+  * to maintain our accounts and records
+  * to promote our services
+  * to correspond with you and offer support
+  * to comply with legal obligations
+  * to prevent malicious activity
 
 
 
-## Disclosure of your information
+## 5 Data We Collect - Online Services
 
-We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. We will share your personal information with third parties only in the ways that are described in this privacy policy or otherwise notified to you. We do not sell your personal information to third parties.
+This Privacy Policy relates to our use of any personal information we collect from you via the following online services
 
-We may share your information with selected third parties including:
+From our website:  
+[www.Entropay.com](http://www.entropay.com/)
 
-  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you. These companies are authorized to use your personal information  _only as necessary to provide_  these services to us.
-  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
-  * Analytics and search engine providers that assist us in the improvement and optimisation of our site.
-  * Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.
+From our website's contact forms:  
+[http://support.entropay.com/cu...](http://support.entropay.com/customer/portal/emails/new)
+
+Sign Up forms:  
+[https://secure2.entropay.com/c...](https://secure2.entropay.com/consumer/u/registration?_=)
+
+From our Careers page:  
+[https://careers.Entropay.com/c...](https://careers.entropay.com/contact)
+
+Job Application Forms:  
+[https://Entropay.bamboohr.co.u...](https://entropay.bamboohr.co.uk/jobs/)
+
+From our email addresses:   
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Depending on which of our services you use we may collect the following information:
+
+  * First Name, Last Name
+  * Email Address
+  * Your Company/Organization details
+  * Information you may enter or attach on our contact form regarding your inquiry.
 
 
 
-We may disclose your personal information to third parties:
+From people who are interested in a career at Entropay we will also collect your name, address, CV, and any information it contains and your desired remuneration as well as information you may enter on “How did you hear about this job?” form
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Ixaris Systems Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
-  * In certain situations, Ixaris Systems Limited may be required to disclose personal data in response to lawful requests by public authorities. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation and/or process, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Ixaris Systems Limited our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+From our job application page, we may also collect any links you send us to any Website, Blog, portfolio, and LinkedIn link.
+
+From any emails you send to our contact or support email addresses we will collect all the information you write or attach in the email.
+
+For visitors who go on to register for one of our services we may collect:
+
+  * Account information: Credentials, Account currency
+  * User details: First name, Last name, Email address, Date of birth, Full residential address, Mobile number
+  * Language preference
+  * Pay-out email addresses
+  * Credit card and bank account details 
+  * Full KYC documentation (including identity and residential documents)
+  * Merchant(s) where user is spending using Entropay virtual card
+  * Support information sent by the user to our support team
+  * Session information: Login attempts, Login IP address(es), Login browser user agent(s)
 
 
 
-## Where we store your personal data
+For business Users we may collect: 
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+  * Business details: Business name, Business address, Business Category, Business website
+  * Credit card and bank account details
+  * Pay-out email addresses
+  * Full KYB documentation (including identity and residential documents) 
+  * Merchant(s) referring user to Entropay (if applicable)
+  * Merchant(s) where the business is spending using an Entropay virtual card
 
-All information you provide to us is stored on our secure servers. Any payment transactions or transmission of sensitive information such as credit card and bank account numbers will be encrypted using secure socket layer technology (SSL). Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-## Your rights
+## 6 When, Why and How we gain Consent (Legal Basis)
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us as indicated on our Site.
+We will not collect any information about you without your explicit consent.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+We will ask your consent every time we need to collect personal information about you unless you are signing up to one of our services when we will then have a contractual obligation to collect this data. 
 
-## Access to information
+We will explain in clear and simple terms why we want to collect your information and what we will do with it before seeking your consent, so you are fully informed, and you will be given a clear and unambiguous option to opt in to any communications or services we might want to offer you.
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+## 7 Why we Collect Personal Data
 
-Upon request Ixaris Systems Limited will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove by emailing our Customer Support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#abd8dedbdbc4d9dfebcec5dfd9c4dbcad285c8c4c6) or by contacting us by postal mail at the contact information listed below. We will respond to your request within two (2) business days.
+We collect information about you to process the financial services provided by Entropay, such as fund transfers to and from your credit card. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We collect information about you to manage your account and to protect your account against malicious activity. 
 
-## Social media widgets
+We may collect and analyse information for the purpose of providing personalised products.
 
-Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+We also use it to recommend things we think you will like or to notify you about things you’ve told us you like.
 
-## Single sign-on
+We also use your information for business, regulatory and legal purposes such as dealing with any requests you make or content you submit.
 
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+Getting in touch if we need to tell you about something, like a change to our policies or issues with a service.  
+We also collect information for employment purposes.
 
-## Changes to our Privacy Policy
+## 8 Who Processes the Data We Collect (Who are the recipients of your data)
 
-Any changes we may make to our privacy policy in the future will be posted on this page. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Please check back frequently to see any updates or changes to our privacy policy.
+We will store and process your data following industry best practice and security.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+Some of that processing takes place at Entropay in London and Malta
 
-## Contact
+Some of the processing may take place in areas outside of the UK and Malta but within the EEA and covered by GDPR.
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to: 
+Where processing takes place by one of our trusted data processors, we ensure that our contracts with those 3rd parties contain the appropriate GDPR model clauses and that all our 3rd parties are also compliant with the GDPR, this affords your data the same protection away from our organisation, as it does within it.
 
-Entropay Services Limited   
-The Penthouse — Suite 1   
-Capital Business Center   
-Triq Taz-Zwejt   
-San Gwann SGN 3000   
-Malta   
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5a6a0a5a5baa7a195b0bba1a7baa5b4acfbb6bab8).
+Some of the processing may take place outside of the EEA. Where processing takes place by one of our trusted data processors, we ensure that our contracts with those 3rd parties contain the appropriate GDPR model clauses and that all our 3rd parties are also compliant with the GDPR, this affords your data the same protection away from our organisation, as it does within it.
+
+The data we collect through our online services may be processed by one or more of the following:
+
+  * Trusted service providers such as technology, support, marketing, and sales service providers
+  * Auditors
+  * Financial Institutions 
+  * Money Laundering prevention companies
+  * HR partners 
+  * Other companies within the group
+
+
+
+## 9 Where we might send your personal data (Geographically)
+
+We process data within the EEA and countries deemed by the European Union as having adequate safeguards for protecting personal data. These countries are recognised by the EU as having suitable safeguards for the rights and freedoms of individuals and recourse processes by which data subjects can exercise their rights.
+
+We will only consider transferring your data outside of the EU if the following conditions are met. 
+
+A transfer, or set of transfers, may be made where the transfer is:
+
+Made with your explicit informed consent;  
+Necessary for the performance of a contract between the you and this organisation or for pre-contractual steps we need to take at your request;  
+Necessary for the performance of a contract made in your interest between this organisation and another person;  
+Necessary for important reasons of public interest;  
+Necessary for the establishment, exercise or defence of legal claims;  
+Necessary to protect your vital interests or those of other persons, where you are physically or legally incapable of giving consent;
+
+or
+
+Made from a register which under UK or EU law is intended to provide information to the public (and which is open to consultation by either the public in general or those able to show a legitimate interest in inspecting the register).
+
+## 10 How long do we keep your data
+
+We keep your information in line with our data retention policy. For example:
+
+  * we keep transaction information for a period of seven years from the end of our relationship with you; 
+  * we keep your personal account information for a period of five years from closure of account; 
+  * when you apply for a job with us, we keep your resume and correspondence for a period of one year. 
+
+
+
+This enables us to comply with legal and regulatory requirements or use it where we need to for our legitimate purposes such as managing your account and dealing with any disputes or concerns that may arise. We may need to retain your information for a longer period where we need the information to comply with regulatory or legal requirements or where we may need it for our legitimate business purposes, such as to respond to queries or complaints, fighting fraud and financial crime and responding to requests from regulators. Information that exceeds the retention periods is deleted or removed using industry best practices. 
+
+## 11 Our Rights as an Individual in Respect of the Data We hold
+
+We respect the rights and freedoms of individuals and as such we would like to make you aware of the following. You have the:
+
+  * Right to access – you can ask us whether we’re processing your personal data, including where and for what purpose. You can also request an electronic copy of your personal data free of charge
+  * Right to restrict processing – in certain circumstances, you can ask us to restrict our use of your personal data
+  * Right to rectification – you can already ask us to correct inaccurate personal data we hold about you
+  * Right to erasure (right to be forgotten) – in certain circumstances, you can ask us to erase your personal data
+  * Right to data portability – you can ask us to provide you with a copy of your personal data in a commonly used electronic format so that you can transfer it to other businesses
+  * Right to object to automated decision-making – in certain circumstances, you can ask us not to make automated decisions about you based on your personal data that produce significant legal effects
+  * Right to lodge a complaint – you can lodge a complaint with us or your local data protection authority  
+To exercise your rights above please contact our Data Protection Officer, Data Controller or Company representative via any of the channels provided.
+
+
+
+You also have the right to lodge a complaint with our supervisory authority. Entropay’s main establishment is Malta, thus its supervisory authority is the IDPC in Malta. Their contact details are as follows: 
+
+[https://idpc.org.mt/en/Pages/c...](https://idpc.org.mt/en/Pages/contact/complaints.aspx)
+
+Quick Links for exercising your rights
+
+DPO email Address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+DPO phone number: 00356 27330092  
+Controller email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Controller phone number: 00356 2131 4514
+
+## 12 Data Sources - where did you get my data
+
+Any and all data in respect of - Data We Collect, is collected directly from you, the individual.
+
+We do not collect any of your personal data from any other sources. This included any publicly accessible list and or data sources, whether in the public domain or if we have a legitimate interest to be able to access those sources legally.
