@@ -1,152 +1,345 @@
-> *The following text is extracted and transformed from the snapfish.com.au privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117042541id_/https%3A//www.snapfish.com.au/store/privacy-overlay) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfish.com.au privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614193255id_/https%3A//www.snapfish.com.au/store/privacy-overlay) for the most accurate reproduction.*
 
 # privacy-overlay Snapfish
 
-## Privacy Statement
+Effective Date: 21/05/2018
 
-Snapfish takes your privacy very seriously. This Privacy Policy describes exactly how Snapfish uses the Customer Information, defined below, that we collect from our customers. For the purposes of this Privacy Policy, "Snapfish" means Snapfish2 LLC and any successors to the assets or business of Snapfish2 LLC and a "customer" is a person who uses the Snapfish Service (as defined below) or engages with us via our web site, located at [www.snapfish.com.au](http://www.snapfish.com.au/), our native apps and any mobile platform (the "Site"). If you have questions or concerns regarding this statement, you should first contact our [Customer Service](https://support.snapfish.com/hc/en-us?c=snapfishau) department. This Privacy Policy is effective as of June 1, 2015.
+**At Snapfish, we help you bring your photos to life. If you are a new snapper or a professional photographer, a proud parent or imaginable teenager, a passionate pet owner or an avid outdoor enthusiast, your privacy is important to us.**
 
-By using the services made available by Snapfish via the Site ("Snapfish Service"), you consent to the collection, use and disclosure of information in the manner described below. If we decide to change the manner in which we use Customer Information, we will notify you via a post on this page. Please check this page from time to time for changes to make sure you are kept up-to-date on our use of the information collected from our customers.
+This Privacy Notice explains what information Snapfish, LLC (“Snapfish,” “we,” “us,” or “our”) collects, uses, shares, retains, and protects, and the choices you have. This Privacy Notice applies only to the websites, online services, and mobile applications (collectively the “Services”) where this Privacy Notice is posted. Your use of the Services is also subject to our [Terms of Use](https://web.archive.org/store/tac-overlay).
 
-###### 1\. What Customer Information does Snapfish collect?
+We encourage you to read this Privacy Notice AND THE TERMS OF USE in full to understand our privacy practices before using our WEBSITE, products, and services. BY USING OUR WEBSITE, PRODUCTS, AND SERVICES, YOU ACKNOWLEDGE YOU HAVE READ AND UNDERSTOOD THE PRACTICES DESCRIBED IN THIS Privacy Notice.
 
-Customer Information is defined as identifiable information regarding our customers, such as name, address, or email address. The type of information we request depends upon the type of service you are using.
+###### What Kind of Information does Snapfish Collect and Why?
 
-For example:
+We want to help you tell your story of the people, places, and memories you cherish. We are dedicated to helping you turn your photos into beautiful, personal décor, photo books, mugs, prints, gifts, and more that you’ll be proud to share and can treasure for years to come. When you use Snapfish products and services, we collect certain information about you and your online habits. The type of information we collect depends on the type of products and services you use. For example:
 
-When you want to upload digital pictures or view others' pictures on the Site, we will ask you to provide your first and last name, an email address and a password. We will use this information to create your account so that you can maintain all of your Snapfish activity in a centralized area.
+  * **Information about You and Your Snapfish Account:** When you want to upload digital photos or view others’ photos on the Services, you may provide us with: ****
+    * Your first and last name
+    * Your email address
+    * A password
 
-We will collect the pictures that you upload from your computer or from your social media pages, as well as the information about your social media pages.
 
-When you want to share your pictures with others ("Invitees"), we will ask for email addresses and mobile phone numbers of your Invitees. You must ensure that all images shared comply with our [Terms of Use](https://web.archive.org/web/20171117042541id_/https%3A//www.snapfish.com.au/store/termsandconditions). Namely, you must only share photos where you have the appropriate rights to the images and you have reasonable grounds for believing that the people pictured in the photos would consent to their images being shared. Further, you must only provide the email addresses and mobile phone numbers of your Invitees when you have the Invitees' consent or your relationship is such that the Invitee would consent to receiving the email or being contacted by phone.
 
-When you complete a purchase from Snapfish, we will ask you to provide shipping and billing information so that we can fulfill your request.
+This information is mandatory to create and use your Snapfish account so that you can maintain all of your digital photos and other Snapfish activities in one place. We use your information to help verify your identity, account, and account activities to ensure the safety and security of your transactions.
 
-When you contact us, we will collect your name and e-mail address in order to respond to your questions or concerns.
+If you choose to purchase our products and/or use our services, we will collect and analyze your information and information about your use of our products and services to develop and improve our products and services. We use the data we have about you to provide and personalize, including with the help of automated systems, our Services, so that they can be more relevant and useful to you.
 
-You also give information when you answer survey questions and organize your photos on Snapfish with titles, captions, categories, etc.
+  * **Information about Your Invitees:** An “Invitee” is defined as anyone (i.e., your friends, family, colleagues) who is invited to the Services to see an album. There are four ways in which you can share your photos with Invitees: ****
+    * By email. We will ask for email addresses of your Invitees. The email address is mandatory to share your Snapfish photos with Invitees on our Services via email. However, the Invitee will need to have an account to view the shared album(s).
+    * On our mobile app. If you want to share your photos with Invitees via your mobile phone using SMS/text, we will ask for mobile phone numbers of your Invitees. If you select this option, you will need to enter a phone number of an Invitee from your mobile phone contact list, select the photo(s) you want to share, and send these photos to the selected Invitee. When you choose to share your photo(s) using SMS/text, the Invitee gets a text with the photo you shared; they will not see the album.
+    * With a link. You can also share your photo(s) and/or album(s) via a link, but please note that anyone with this link will be able to view your photo(s) and/or album(s).
+    * Through Facebook. You can also share your photo(s) and/or album(s) through Facebook, but please note that anyone with access to your Facebook post will be able to view your photo(s) and/or album(s).
 
-We or our service providers may also collect information relating to your devices, including your device model, operating system, browser type, unique device identifier, IP address, mobile phone number, mobile network carrier, location, and event information (such as application installations). This information may be personally identifiable, or non-personally identifiable.
 
-Snapfish may receive information about you from third parties. For example, if you access the Site through a third-party connection or log in, for example, that third party may pass certain information about your use of its service to Snapfish. As mentioned below, any information that you submit to a third party would be subject to the policies of that party.
+
+If you share your photos/albums using our website, your Invites will see only photos and/or albums you shared with them, your name and contact information; they will not see your other photos and albums.
+
+Before providing us with email addresses and mobile phone numbers of your Invitee, please ensure you have the Invitee’s consent or your relationship is such that the Invitee would consent to receiving the email or being contacted by phone.
+
+  * **Your Contact Information:** When you contact us, we may collect: ****
+    * Your first and last name
+    * Your e-mail address
+    * Your phone number
+
+
+
+We use this information to verify your identity and respond to your questions or concerns. In addition to your first name, last name, and email address, we may ask to verify your phone number and/or the date of your last transaction in order to ensure your proper identity.
+
+We will also use your contact information to send you newsletters, share news about new Snapfish products, features, and services, respond to your requests and inquiries, or reach out to you about issues and questions about your account.
+
+  * **Information You Provide to Us when Completing Our Surveys:** If you choose to complete our survey, you share: ****
+    * Your contact information, such as name and email address
+    * Your age and gender
+    * Your answers to our survey questions
+    * Any other information that you may choose to provide to us in the comment field
+
+
+
+Our surveys are designed to collect your feedback in order for us to continually improve our Services. Participation in these surveys is completely voluntary and you have a choice whether or not to disclose this information. We may use a third-party service provider to conduct these surveys. If you outline any issues and/or request our help with our surveys, we may reach out to you to resolve your concern.
+
+  * **Public Posting Area:** ****
+
+Please note that any information you include in a message you post to any chat room, forum, or other public posting area is available to anyone with Internet access. This includes, for example, any comments you post on our website’s blog, TrustPilot page, or on our Facebook activities. If you don't want people to know your personal or other information, don't include it in any message you post publicly.
+
+PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, FORUMS, AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS.
+
+  * **Your Social Media Information:** If you choose to upload photos into your Snapfish account using your social media account, we will collect: ****
+    * Your social media public profile information, including, but not limited to: 
+      * Your first and last name
+      * Your email
+      * Gender
+      * Age
+      * Location
+      * Other information you have voluntarily shared on your social media public profile
+**  
+**
+    * Your social media photos you choose to transfer to your Snapfish account
+
+
+
+This information is mandatory to verify your social media account and upload your photos from your social media pages directly to your Snapfish account.
+
+We may also collect this and additional information about you and your social media account and activities when you interact with Snapfish through various social media, for example, by liking us on Facebook or following us on Twitter. The information we receive from your social network depends on your privacy settings. Please review, and, if you prefer, adjust your privacy settings on third-party social media websites before linking or connecting them to your Snapfish account.
+
+  * **Your Photos:** When you decide to upload photos to the Services and/or create projects, whether signed in to an account or not, we will collect: ****
+    * Photos that you upload **  
+**
+
+Note: you may include photo titles, captions, categories, the location of a photo, and/or the date a file was created
+
+
+
+
+Titles, captions, categories, the location of photos, and/or the date a file was created are not required to upload your photos; they are designed for your convenience. We may also use your photos in emails we send to you to inspire you to rediscover past memories or explore new creative ideas. You can object to receiving these emails at any time through the unsubscribe link within each email or by contacting us at the address listed at the end of this Privacy Notice.
+
+  * **Your Financial Information:** When you complete a purchase or similar transaction with Snapfish, we will ask you to provide: ****
+    * Your payment information
+    * Your shipping and billing information
+    * Your phone number
+
+
+
+This information is mandatory to fulfill your order. We use this information to make your shopping experience easy and effective. For example, we may print your phone number on the shipping label of your package so that the courier may contact you in the event there’s a difficulty delivering your package. Also, if you give us permission to keep your billing information, you won’t have to fill out the shipping and billing address every time you purchase.
+
+  * **Your Device Information:** When you use our Services, we also collect the following information relating to your device(s): ****
+    * Your device model
+    * Operating system
+    * Browser type
+    * Unique device identifier
+    * IP address
+    * Event information (such as application installations)
+
+
+
+This information is mandatory, and we collect this information automatically when you use our Services. We use this information to make our Services easier to use and navigate as well as to personalize the content provided on our Services.
+
+We will also use your information to conduct audits and troubleshooting activities. We do that with cookies and other tracking technologies. For more information about cookies and other tracking technologies, please refer to our [Cookie Notice](https://web.archive.org/store/cookienotice).
+
+  * **Your Browsing History:** We also collect the following information about how you use our Services: ****
+    * Customer traffic, for example, what types of Snapfish content you view or engage with
+    * Site usage, for example, the frequency and duration of your Snapfish activities
+
+
+
+This information is not mandatory, but it is necessary to improve our functionality, generate web analytics, improve our products and services, and troubleshoot problems.
+
+  * **Your Geolocation:** When you download our mobile app or use the mobile browser to access your Snapfish account and have consented to location services, we will collect: ****
+    * Your geolocation
+    * Your mobile device, including a unique identifier for your device
+
+
+
+This information will be collected only when you consent to location services. We need this information to provide you with location-based services, such as retail store locations near you to order prints or other personalized content. Some of our services may not function as designed if location services are disabled.
+
+  * **Information about You Collected through the Snapfish Mobile App:** If you choose to download and use the Snapfish mobile app, in addition to the information provided above, we will collect the following information from, or access information stored on, your mobile device to provide products and services: ****
+    * Your camera roll
+    * Your contacts
+    * Your geolocations
+    * Wi-Fi connection
+    * Your device’s ID
+    * Your phone number
+
+
+
+This information is not mandatory and will be collected with your permission only. We will need access to your camera roll in order to display photos in our Services. We may need access to your contacts in order to get the address for your mail order. We will ask to access your geolocation in order to display retail store locations near you and other personalized content. If your mobile device is connected to Wi-Fi, we will use the Wi-Fi connection instead of the mobile carrier connection to ensure we deliver high-quality, uninterrupted Services. We will need your device’s ID and phone number to create a guest account and enable your access to saved albums and projects, as well as to send push notifications.
+
+We may also use this information to send you push notifications to remind you about your unfinished transaction, unused credits, or order status. Depending on your device, push notifications may be turned on by default. You can opt-out of push notifications at any time by adjusting your device settings.
+
+  * **Information about You Collected from Third-Parties:** We do not sell or purchase data from data brokers. We receive information about you and your activities on our Services from other third-party providers, and, with your consent, combine this information with information we already have about you. This helps us to update, expand, and analyze our records; identify new customers; and create more tailored advertising to provide products and services that may be of interest to you. ****
+  * **Your Employment Information (for Job Applicants only):** When you decide to apply for a job with Snapfish, we will re-direct you to another website. We do not collect your employment information on our Website. ****
+
+
 
 Back to top
 
-###### 2\. How does Snapfish use Customer Information?
+###### Does Snapfish Use Your Information for Marketing?
 
-Our primary goal in collecting your Customer Information is to provide you with a personalized, relevant, user-friendly experience. Here are the ways we use Customer Information to enhance this experience:
+A simple answer is “Yes.” Snapfish uses your information and information about you to:
 
-**Complete a Transaction: We use Customer Information to complete a transaction requested by you or perform after-sales services.** We also may use this information to keep track of your purchases or notify you of any product or service that we believe may be of interest to you.
+  * Send you marketing communications via email, postal mail, and/or text. ****
+  * Show you our ads online and on social media. ****
+    * Advertising by means of tracking technologies: We use so-called tracking tools on our Services to better understand your preferences by analyzing your behavior and offering you products and services more in line with your interests. If you would like to learn more about this practice and your choices, including how to opt-out of interest-based advertising, please visit the Network Advertising Initiative website [here](https://www.networkadvertising.org/understanding-online-advertising). Please also see our [Cookie Notice](https://web.archive.org/store/cookienotice) for more information.
+**  
+**
+  * Generate web analytics and conduct marketing research and analysis so we can suggest products and services that we believe may be of interest to you. ****
+    * Analytics: We collect statistical information about the usage of our Services to design them to be more user-friendly and to perform reach measurements and market research. For these purposes, we use the analytics tools described in our [Cookie Notice](https://web.archive.org/store/cookienotice). You may be able to avoid the creation of usage profiles by tracking technologies such as cookies by generally deactivating cookie usage. Please see our [Cookie Notice](https://web.archive.org/store/cookienotice) for more information.
+**  
+**
+  * Run contests and sweepstakes.
 
-**Customer Communication: We use Customer Information to communicate with you and we consider this communication to be an integral part of the Snapfish Service.** We use your email, mailing address and mobile number to inform you of Site improvements, feature announcements, newsletters, Snapfish promotional offers, and occasional third-party promotional offers that may be of interest to you. We use mobile phone numbers to share pictures to mobile phones or to enable access to customer accounts from mobile phones. Only Snapfish (or agents working on behalf of Snapfish under confidentiality agreements) will send you these mailings or use your mobile phone numbers for these purposes.
-
-**Customer Satisfaction: We use Customer Information to make your Snapfish experience enjoyable.** For example, because we know who you are after you log in, we can present you with the right set of albums in your password-protected account. We also know where to email you to let you know your photos are ready for viewing online. In addition, we may use your photos in emails we send to you to inspire you to explore old or discover new creative ideas.
-
-**Social Media: We may use Customer Information to connect you with external applications, such as social media web sites or platforms.**
-
-**Customer Convenience: We use Customer Information to provide you with the convenience of easy access to the services you request.** We may collect information during the shopping experience to make purchasing an easier and better experience for you. For example, if you give us permission to keep your billing information, you won't have to fill out the shipping and billing address each and every time you purchase. For a merchandise purchase, we will ask for final confirmation before charging your credit card.
-
-Back to top
-
-###### 3\. With whom does Snapfish share Customer Information?
-
-Snapfish shares Customer Information with third party intermediaries (for example, credit card authorization companies, photo processing labs, merchandise distributors, vendors processing our outbound email communication, etc.) who help us run the Snapfish Service and Site. Your Customer Information is provided to these third parties solely for the purpose of providing you the services you request at the time that you request them. Third party intermediaries do not store, retain, access or otherwise use your Customer Information other than as necessary to provide you with the Snapfish Service. In the case where Snapfish operates a "co-branded" website or marketing initiative with a Partner, which may be a third party that is joining Snapfish on a customer offer, then Snapfish reserves the right to share basic information such as email address and other contact information with the Partner.
-
-We may disclose Customer Information to a third party to (a) comply with laws or respond to lawful requests and legal process, (b) to protect Snapfish, and our agents, customers, and others from legal claims or actions, including claims of fraud or to enforce our agreements, policies and terms of use or (c) in the good faith belief that disclosure is needed to respond to an emergency, or protect the personal safety of any person.
-
-From time to time, the Site may include collaboration features that by their nature support sharing Customer Information with Invitees that you identify. Those users can see your name, email address, information you add to your profile, and any files you choose to share; and they can post comments and email you.
-
-We may share Customer Information in connection with an acquisition, merger, or sale of all or a substantial portion of our business, with or to another company. In any such event, you will receive notice if your Customer Information is transferred and becomes subject to a substantially different privacy policy. In the event that all or part of our assets are sold or acquired by another party, or in the event of a merger, you grant us the right to assign the Customer Information collected via the Site.
-
-We may have to share your Customer Information with unaffiliated third-party service providers, agents or independent contractors who help us maintain the Site and provide other administrative services to us (including, but not limited to providing customer service, maintaining and analyzing data, sending customer communications on our behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the Customer Information for any other purpose than to provide the administrative services for which they are responsible.
-
-Other than as described in the previous paragraphs, Snapfish will not sell, rent or otherwise share Customer Information with a third party without your knowledge and consent. If you do not want your Customer Information shared in such an instance we will provide you with the option of telling us not to share it.
-
-Back to top
-
-###### 4\. Who sees your photos after they have been posted online? 
-
-You, your Invitees and their Invitees can see your albums online. An "Invitee" is defined as anyone who is invited to the Site to see an album. Anyone who is invited to see an album online must provide an email address and a password to access the Site and view a shared album. When you choose to share your online images with Invitees, those individuals will be able to view your album. If you don't want your Invitees to invite other people to see the album, you can restrict their ability to do so on the album invitation. That will prohibit them from re-sharing the album from within their account on the Site. However, as with any email, your Invitees could forward the email invitation to others, who will then be able to click on the link to the album within the email, and see the pictures too.
-
-Snapfish employees or employees of partner companies that provide services to Snapfish may see your photos while they printed and packaged. In addition, your photos or personal account information may be seen by Snapfish employees or service providers in order to evaluate, validate, or correct problems with your account.
-
-Back to top
-
-###### 5\. Does Snapfish send text messages?
-
-Yes! By using the Site and providing your mobile phone number, you hereby consent to receive autodialed and/or pre-recorded text messages from or on behalf of us at the mobile number that you provide at sign-up. You understand that consent to receiving messages on your mobile device is not a condition of purchase and understand that message and data rates may apply. Additionally, should you choose to stop receiving such messages, you can contact [Customer Service](https://support.snapfish.com/hc/en-us?c=snapfishau) or reply STOP to a text messages once it is received. However, you hereby consent to receiving a confirmatory message in response to your STOP request.
-
-Back to top
-
-###### 6\. Does Snapfish use non-personally identifiable information?
-
-Yes, Snapfish uses non-personally identifiable information as follows:
-
-_**IP Addresses:**_ An IP address is literally your computer's address and is a unique identifier, allowing online information to be sent to the right place. We use IP addresses to better understand the customer database. We use your IP address to help diagnose problems with our server and to administer the Site. Your IP address is also used to gather broad demographic information such as geographic distribution of our members. We do not intentionally link your IP address to your personally identifiable information.
-
-_**Snapfish Cookies:**_ The job of a cookie is to record only information you volunteer to us upon registering or visiting the site. Cookies are tiny files placed onto the hard drive of your computer the first time you visit the Site that enable our server to recognize or "remember" who you are next time you come back. Snapfish cookies are not tied to personally identifiable information. Currently, Snapfish intends to make only limited use of cookies for the purpose of delivering content and ads specific to your interests. For instance cookies may be used to retain your personal preferences, hold session information for a "shopping cart" or save your password so it doesn't have to be re-entered each time you log in.
-
-_Advice on Limiting Cookies:_ You have a choice with respect to cookies. By modifying your browser preferences, you can accept all cookies, be notified when a cookie is set or reject all cookies. If you choose to reject all cookies, you may be unable to use certain services. Please consult your browser instructions for information on how to modify your choices about cookies.
-
-**Clear Gifs (Web Beacons/Web Bugs):** We use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) to help us better manage content on the Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier that are used to track the online movements of Web users. Clear gifs are not tied to users' personally identifiable information.
-
-**Non Personally Identifiable Information used through Affiliate Programs.** Snapfish uses clear gifs in combination with cookies to support affiliate programs administered by 3rd party companies. These programs allow other web services to offer special Snapfish deals to their customers. When a customer signs-up for the Snapfish service via an affiliate link on a non-Snapfish web site, we display a clear gif which causes a cookie to be passed to the 3rd party administrator for accounting purposes.
-
-That means, for example, that if a person visited "www.companyX.com" and from "www.companyX.com" clicked on a "Sign-up for Snapfish" link and completed the Snapfish sign-up process, we would display a clear gif causing a cookie to be transferred to the affiliate program administrator. This cookie contains an ID number that tells the 3rd party administrator that a new user was sent to Snapfish from "www.companyX.com" The clear gif and the cookie are not tied to users' personally identifiable information.
-
-**HTML Newsletters**  
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section.
-
-**Device Identifiers**  
-When you access the service through a mobile device, we may access, collect, monitor and/or remotely store such device identifiers as "universally unique identifiers (UUID)". These are small data files stored on or associated with your mobile device. This may be used to help you log in faster and enhance your navigation of the Snapfish Service.
-
-Back to top
-
-###### 7\. What are the safeguards and security procedures in place to protect your information from loss, misuse, or alteration?
-
-Your Customer Information on the Snapfish Service is password-protected. We strongly recommend that you do not give your password to anyone and that you change it every 3 months. You may edit your Snapfish account information by using your Snapfish member name and password.
-
-If you are using a public computer (public library, school computer, etc.) or a shared computer (family computer, roommate's computer, etc.), we strongly recommend that you sign out of your Snapfish account and close your browser before getting up and moving away from the computer. This will prevent others from accessing your account and personal information. Please note that because our company is particularly sensitive to protecting information about children on the Internet, kids under 13 are not eligible to be members of Snapfish. However, we encourage parents to use our service as a family activity with their children and to carefully monitor any Internet activities (including use of the Snapfish Service) engaged in by their kids. Snapfish employs SSL - a specialized encryption and security technology -- to protect your Customer Information. We understand that this is especially important when there is an exchange of credit card, billing and password information. In addition, we limit access of Customer Information to only those employees who need it to carry out their jobs.
-
-**Snapfish will never ask you for your password in an unsolicited phone call, an unsolicited email, or SMS.** You will only be asked for your member name and password when you initiate the contact and only if the member name and password are necessary to correct a service problem.
-
-Back to top
-
-###### 8\. How can you update or correct Customer Information?
-
-Customer Information that you provide during registration is available in your Snapfish online account. To edit your Customer Information, you must enter your email address and password to access your account. You may edit your account information at any time.
-
-You can also cancel your Snapfish membership by contacting [Customer Support](https://support.snapfish.com/hc/en-us?c=snapfishau). If you request cancellation of your account, Snapfish may (but is not required to) remove any and all content (photos) or other personal information from the Site, and your photos may not be accessible to you even if you choose to rejoin or reactivate your account at a later date. Information necessary for the purposes of maintaining business records regarding a cancelled account, including records of credit transactions and account ownership, will be retained in accordance with applicable law.
-
-Back to top
-
-###### 9\. What about International visitors or transfers of information?
-
-If you choose to provide us with your Customer Information, Snapfish may transfer that information to affiliates, partners, or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your Customer Information to the United States which does not have the same data protection laws as the EU and by providing your Customer Information you consent to:
-
-  * the use of your Customer Information for the uses identified above in accordance with this privacy policy; and
-the transfer of your Customer Information to the United States as indicated above.
 
 
 Back to top
 
-###### 10\. Other Information for our visitors:
+###### On What Legal Basis Do We Process Your Personal Information?
 
-**Links from the Snapfish Site:** If you leave the Site to visit the site of any third party advertiser or sponsor, you may be asked for your credit card or other personal information in order to purchase or use products and services offered. These companies have their own privacy and data collection practices. As described above, Snapfish has no responsibility or liability for these independent policies. You should therefore review their privacy policies carefully if you have concerns about how your information may be used.
+We process personal information per applicable law and with transparency and fairness. Our processing activities are conducted:
 
-**How We Respond To Do Not Track Signals:** Please note that the Site does not support "Do Not Track" browser settings and we do not currently participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your information.
+  * With your consent;
+  * In order to fulfill our contractual obligations to you;
+  * For the legitimate purpose of operating our business, including to improve and develop our services, for fraud prevention purposes, and to improve user experience; and/or
+  * As otherwise in compliance with law.
 
-**Notification of Change:** If we are going to use your Customer Information in a manner that is materially different from that stated at the time of collection, we will notify you via email. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will notify you of the change. In some cases where we post the notice, we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-**Choice of Law & Arbitration: **This Privacy Policy is governed by and construed in accordance with the laws of the State of California, in the United States, exclusive of its choice of law rules. Further, except where prohibited, you agree that: (1) any and all disputes, claims and causes of action arising out of your use of this Privacy Policy will be resolved individually, without resort to any form of class action, and shall be submitted to the alternative dispute resolution service, JAMS, for binding arbitration under its rules then in effect in the California area and determined by one (1) arbitrator to be mutually agreed upon by both parties, with the parties agreeing to share equally in the arbitration costs; (2) any and all claims, judgments and awards shall be limited to actual out-of-pocket costs incurred, including costs associated with use of the Snapfish web site and services, but in no event attorneys' fees; and (3) under no circumstances will you be permitted to obtain awards for, and, by using the Snapfish web site and services, you waive all rights to claim, indirect, punitive, incidental and consequential damages and any other damages, other than for actual out-of-pocket expenses, and any and all rights to have damages multiplied or otherwise increased. Please note that this arbitration provision shall survive the termination of your relationship with us. If, for any reason, this arbitration provision is not upheld, the exclusive forum and venue to resolve any disputes arising out of or otherwise relating to this Privacy Policy or the Snapfish web site or services will be in the state and federal courts of California.
 
-**Contacting Snapfish:** If you have any questions about our Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact us at:
+Back to top
 
-Snapfish Privacy  
-303 Second Street  
-South Tower, Suite 500  
-San Francisco, CA 94107
+###### How does Snapfish share Your information?
 
-[Customer Service](https://support.snapfish.com/hc/en-us?c=snapfishau)
+  * **Third-Party Service Providers:** You love your photos; so do we. They tell your story and connect you to people, places, and memories you cherish. In order to turn your images into beautiful products, we use third-party providers such as payment processing companies, marketing companies, photo processing labs, and merchandise distributors. We use third-party service providers who act on our behalf. Except as otherwise provided herein, your information is shared with these third parties solely for the purpose of providing and improving our services and products. A complete list of data processors may be requested by contacting us at the address below. ****
+  * **Partners:** We also work with other third-parties who act as our partners to offer you joint products and services. If you decide to use such products or services, we will share certain information about you with our partners in accordance with this Privacy Notice, our Terms and Conditions, and any applicable provisions of our partner agreements, so that they may appropriately provide services and support to you or so that we may appropriately provide services and support to them as required by our agreements. ****
+  * **Invitees:** Our Services have a feature allowing you to share your photos with your friends and families (“Invitees”). If you decide to use this feature, Invitees will see your name, email address, and the photos/albums that you choose to share, including titles, captions, categories, location, and/or date of creation if you have provided this information. In some situations, Invitees may download and/or re-share your photos with others. If you don’t want your Invitees to invite other people to see your photos, you can restrict their ability to do so on the album invitation. That will prohibit them from re-sharing the album from within their Snapfish account. However, as with any email, your Invitees could forward the email invitation to others, who will then be able to click on the link to the album within the email, and see the photos too. ****
+  * **Other Third-Parties:** We share your information with unaffiliated third-parties (including social media platforms and apps), agents, and/or independent contractors who help us maintain the Services and provide other services including, but not limited to customer service, data analytics, marketing and advertisement, customer communications, research and surveys, entry collection, contests, sweepstakes and other promotions. We seek to ensure that these unaffiliated third-parties will not use your information for any other purpose than to provide the services for which they are responsible. Our website uses social plug-ins by the following providers: ****
+    * [Facebook](https://www.facebook.com/privacy/explanation)
+    * [Twitter](https://twitter.com/en/privacy)
+    * [Instagram](https://help.instagram.com/155833707900388)
+    * [Pinterest](https://policy.pinterest.com/en/privacy-policy)
+    * [YouTube](https://policies.google.com/privacy?hl=en)
+    * [Google+](https://policies.google.com/privacy?hl=en)
+**  
+**
+  * **Snapfish Affiliates and Subsidiaries:** We share your information with our affiliates and subsidiaries as business necessitates. ****
+  * **Legal Needs:** We may also disclose personal information about visitors to our Services: ****
+    * As required by law, such as to comply with a subpoena or similar legal process
+    * When we believe in good faith that disclosure is necessary to protect our rights or property, protect your health and safety or the health and safety of others, investigate fraud or respond to a government request
+    * If Snapfish is involved in a merger, acquisition or sale of all or a portion of its assets
+
+
+
+Back to top
+
+###### Does Snapfish Use Cookies and Tracking Technologies?
+
+We use cookies and other tracking technologies to collect your information when you are using our Services. We use such information to analyze trends, remember user settings, administer our Services, track user movements, and market our products and services. We may obtain reports based on the use of these technologies on an individual and/or aggregated basis. For more information about cookies and other tracking technologies we use, please refer to our [Cookie Notice](https://web.archive.org/store/cookienotice).
+
+###### What Choices Do You Have?
+
+Where appropriate or legally required, we will describe how we use information collected, so you can make choices about how your information is used. You can notify us of your preferences during the information collection process, and change your selection at any time by contacting us directly. Also, when you are tasked to provide your information, you may decline. However, please note that if you choose to decline, you may not be able to use some of our products and services.
+
+  * **Marketing Emails:** Depending on where you live, you may be automatically subscribed to, or need to actively opt-in to receiving marketing emails. You can choose to opt-out of such communications by following the unsubscribe instructions included in these emails or by contacting us at the address in this Privacy Notice. You can also edit your marketing email preferences through your Snapfish account settings page. Snapfish is not responsible for marketing emails sent by our partners and other third-parties.
+  * **Transactional Emails:** From time to time, we send transactional emails notifying you about your payments, information about changes to our products and services, and other disclosures as required by law. You may not opt-out of such transactional service messages.
+
+
+  * **Postal Mail Marketing:** Depending on where you live, you may receive Snapfish marketing postal mail communications, and you can choose to stop receiving such communications by contacting our [Customer Support](https://support.snapfish.com/hc/en-us?c=snapfishau). 
+  * **SMS Marketing:** After you opt-in to receive Snapfish SMS messaging, you can opt-out of receiving them by replying to the text message with the word “STOP.” Please note that opting-out of receiving SMS messaging related to the use of our Services may impact the functionality of our Services.
+  * **Third-Party Marketing, Advertising, and Other Communications:** You may opt-in to receive emails or other communications from our partners, vendors, or affiliates. If you do opt-in, you may be subject to the third-party’s separate Privacy Notice. You are responsible for managing your email preferences subject to that statement. Please note that some advertising companies may gather information about your visit to the Services through cookies, web beacons, and other technologies in order to enable advertising companies to market products or services to you, to monitor which ads have been served to your browser, and which webpages you were viewing when such ads were delivered. If you would like to learn more about this practice, and know your choices with respect to it, please click here visit [here.](http://www.networkadvertising.org/choices/) ****
+  * **Push Notifications:** You can opt-out of receiving Snapfish push notifications through your mobile application or device settings. Please note that opting-out of receiving push notifications may impact the functionality of our Services. ****
+  * **Snapfish Account:** You can stop Snapfish from collecting information through your Snapfish account by ceasing to use our products and services and/or deleting your account. Please contact [Snapfish Customer Support](https://support.snapfish.com/hc/en-us?c=snapfishau) to delete your account at the address listed at the end of this Privacy Notice.
+
+
+
+We will process your opt-out requests as soon as possible, but please note that it may take us up to 30 days to process your request and you may receive a few more messages until your request is processed.
+
+Back to top
+
+###### What About Children’s Personal Information?
+
+Snapfish online services are for everyone except children under the age of 13, or 16 in the European Union (“EU”). Snapfish is particularly sensitive to protecting information about children on the Internet; therefore, kids under 13, or 16 in the EU, are not eligible to use Snapfish Services.
+
+However, we encourage parents to use our Services as a family activity with their children and to carefully monitor any Internet activities (including use of the Snapfish Services) engaged in by their kids.
+
+We do not knowingly collect information from any child under the age of 13, or 16 in the EU, without parental consent. If we do receive such information, we delete it as soon as we discover it.
+
+Back to top
+
+###### How Does Snapfish Protect Your Information?
+
+We use reasonable and appropriate physical, technical, and administrative industry safeguards to protect information from unauthorized access, use, loss, misuse or unauthorized alteration. We will make reasonable efforts to protect personal information stored on our servers from unauthorized access using commercially available computer security products (for example, firewalls), as well as carefully developed security procedures and practices. Notwithstanding our security safeguards, it is impossible to guarantee 100% security in all circumstances. If you have any questions about our security practices, you can contact Snapfish at the address listed below. Also, it is important that you protect and maintain the security of your account credentials and notify us immediately of any unauthorized use of your account.
+
+If you are using a public computer (public library, school computer, etc.) or a shared computer (family computer, roommate’s computer, etc.), we strongly recommend that you sign out of your Snapfish account and close your browser before getting up and moving away from the computer. This will prevent others from accessing your account and information.
+
+Back to top
+
+###### How Can You Manage or Delete Your Information?
+
+Information that you provide during registration is available in your Snapfish online account. To edit your information, you must enter your email address and password to access your account. You may edit your account information at any time by entering your login credentials.
+
+We store your information as long as it is necessary to provide our products and services to you. Your information will be kept as long as you maintain Active Participation in the Services. Active Participation is defined as purchasing or ordering photo or video merchandise, including reprints and enlargements, through the Services at least once every 365 days. You can cancel or delete your Snapfish account by contacting our [Customer Support](https://support.snapfish.com/hc/en-us?c=snapfishau). If you request your account to be cancelled or deleted, Snapfish will satisfy your request within 30 days. If Snapfish requires more time to process your request, we will notify you about the delay.
+
+  * **Account Cancellation:** If you request to cancel your Snapfish account, we will disable all access to your account. Your account and photos will not be accessible to you, but we will archive your photos and account in case you want to rejoin or re-activate your account in the future. Please note that we will permanently delete your photos and account after 1 year.
+
+
+  * **Account Deletion:** If you request to delete your Snapfish account, we will permanently remove all photos and other information from your account. Your photos will not be accessible to you even if you choose to rejoin or reactivate your account at a later date.
+
+
+
+Information necessary for the purposes of maintaining business records regarding a deleted and cancelled account, including records of credit transactions and account ownership, will be retained in accordance with applicable law.
+
+Back to top
+
+###### International Transfers
+
+If you choose to provide us with your information as described in this Privacy Notice, Snapfish may transfer that information to affiliates, partners, or other third-parties, as described above, located outside of your home country, for the purposes described in this Privacy Notice. If you are visiting from the EU or other regions with laws governing data collection and use that may differ from the United States (“US”) law, please note that you are transferring your information to the US, which does not have the same data protection laws as the EU. We utilize standard contract clauses approved by the European Commission to legitimize data transfers from the EU to the US and other countries.
+
+With knowledge of these risks, by providing your personal information you understand: (i) your personal information will be used for the uses identified above in accordance with this Privacy Notice; and (ii) your personal information will be transferred to the US as indicated above.
+
+Back to top
+
+###### If You Are a Resident of California, what are Your California Privacy Rights?
+
+California Civil Code Section 1798.83 permits visitors to the Services who are California residents to request certain information regarding our disclosure of their personal information to third-parties for their direct marketing purposes. To make such a request, please contact us at the address mentioned below. We do not share your information with third parties for their direct marketing purposes unless you consent to such disclosure, typically by “opting in” to receive information from a third-party that is participating in a sweepstakes or other promotion. If you do ask us to share your information with a third-party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third-party (other than our service providers) on a continual basis.
+
+###### If You Are an EU Resident, what are Your Rights?
+
+  * You have a right to lodge a complaint with the EU supervisory authority where your information has been processed in a way that does not comply with the laws and regulations.
+
+
+  * You have a right of access to information undergoing processing; Snapfish may charge a reasonable, administrative fee, if further copies of information are requested.
+
+
+  * You have a right to rectify inaccuracies in information held about you in your Snapfish account. As we stated earlier, if your information is incomplete or inaccurate, you can update your information directly in your Snapfish account, contact [Customer Support](https://support.snapfish.com/hc/en-us?c=snapfishau).
+
+
+  * You have a right to require your information to be provided to you or another company in a commonly used electronic form. You can download your photos using your Snapfish account settings.
+
+
+  * You have a right to object to specific types of processing, such as direct marketing, processing based on legitimate interests or performance of a task in the public interest/ exercise of official authority, and processing for research or statistical purposes.
+
+
+  * In certain situations, you have a right to have your information ‘erased’ or restrict processing of your information.
+
+
+  * When we process your information, we do so with your consent, and/or as necessary to provide the products and services, operate our business, fulfill our contractual obligations, protect the security of our systems and our customers, or fulfill other legitimate interests. If the processing of your information is based on your consent, you have a right to withdraw consent at any time for future processing.
+
+
+
+Back to top
+
+**For French residents only,** you have the right to give directives relating to the disposal of your personal information after your death.
+
+If you want to exercise one or more of the above rights, you can contact us at the address listed below.
+
+###### How Does Snapfish Respond To “Do Not Track” Signals?
+
+Please note that we do not support “Do Not Track” browser settings and we do not currently participate in any “Do Not Track” frameworks.
+
+###### What is Snapfish’s Data Retention Practices?
+
+We store your information as long as it is necessary to provide our products and services and fulfill the transactions you requested. Typically, we keep your information as long as you maintain Active Participation in the Services. Projects you have created while not signed in to an account and projects you have purchased while signed in to an account will remain on our servers for as long as reasonably necessary for our business purposes. Where appropriate or legally required, we retain your information on our servers even after deletion of your Snapfish account for other essential purposes such as complying with our legal obligations, resolving disputes, enforcing our agreements, or as reasonably necessary for other business purposes.
+
+Back to top
+
+###### Does this Privacy Notice Apply to Third-Party Links from the Snapfish Services?
+
+A simple answer is “No”. Our Services have seals, buttons, and content links to other third-party websites (for example, Facebook, Pinterest, and Walgreens). If you leave the Snapfish Services to visit the site of any third-party, you may be asked for your credit card or other information in order to purchase or use products and services offered. These companies have their own privacy and data collection practices. We are not responsible for the privacy practices of these third-party services or applications. We recommend carefully reviewing the user terms and Privacy Notice of each third-party service, website, and/or application prior to use.
+
+###### How will Snapfish Notify You of Changes to this Privacy Notice?
+
+We periodically update this Privacy Notice to account for changed legal and operational circumstances and to describe new features, products, or services, and how those changes affect our use of your information. We encourage you to review this Privacy Notice each time you visit the Services. If we are going to use information in a manner that is materially different from that stated at the time of collection or make any material changes in our privacy practices, we will notify you. We will post those changes through a prominent notice on our Services. If you do not agree to the changes made to this Privacy Notice, we recommend that you stop using our services.
+
+Back to top
+
+###### How Can You Contact Snapfish?
+
+If you have any questions or concerns about our Privacy Notice or our privacy practices, please contact us at [privacy@snapfish.com ](mailto:privacy@snapfish.com) or mail us at:
+
+Attn: Snapfish Privacy
+
+Snapfish
+
+100 Montgomery Street, 10th Floor
+
+San Francisco, CA USA 94104
 
 Back to top
