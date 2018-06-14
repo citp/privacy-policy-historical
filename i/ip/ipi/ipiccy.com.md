@@ -1,66 +1,197 @@
-> *The following text is extracted and transformed from the ipiccy.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630142842id_/http%3A//ipiccy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipiccy.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190612id_/https%3A//ipiccy.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms of service iPiccy.com
+# Privacy Policy - iPiccy - Online photo editor
 
-_Last Updated: February 1, 2012_
+_Last Updated: May 24, 2018_
 
-iPiccy, Inc. ( **"iPiccy"** ) has created this privacy policy (the **"Policy"** ) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed and protected with respect to our services (" **Service** ") and Web site ( **"Site"** ) located at **http://www.ipiccy.com**. By using the Service, you consent to the privacy practices described in this Policy. 
+iPiccy collects, uses and processes personal information for the purposes of making iPiccy better, faster, or more convenient for you. When you use our www.iPiccy.com and/or our related websites and applications (together the "Websites"), and use the services provided through the Websites, including our photo editing and design services (the "iPiccy Services"), iPiccy may collect, use and disclose your personal information in the manner described in this Privacy and Cookies Policy.
 
-We reserve the right to change this Policy at any time. If we make any material changes to our Policy, we will post a new policy on our Site and update the "last updated" date set forth above. Therefore, we encourage you to check our Policy whenever you use the Service to see if it has been updated since your last visit. 
+Personal information is information that identifies you or can be used to identify you. In order for us to provide the Websites and iPiccy Services to you, we need to collect and process your personal information. If you do not provide the information we need, we may not be able to provide the iPiccy Services to you. We will tell you when we ask for information which is a contractual requirement or needed to comply with our legal obligations.
 
-#### Information about you
+This Privacy and Cookies Policy will apply to your personal information collected through the Websites. It also applies to any third parties whose personal information you provide to us through the Websites.
 
-We collect two basic types of information with our Service, namely personal information and aggregate information. Personal information is information that is directly associated with a specific person or entity such as a user's e-mail address and user-chosen ID and password. 
+### Who is responsible for your personal information and where you can contact us if you have any questions
 
-Our definition of personal information does not include "aggregate" information. Aggregate information is data we collect about a group or category of services or users from which individual user identities have been removed. In other words, information on how you use our Service may be collected and combined with information about how others use the Service, but no personal information will be included in the resulting data. Aggregate data helps us understand trends in our users' needs so that we can better consider new features or otherwise tailor our Service. We may share aggregate information about our users with third parties for various purposes, including to help us better understand and improve our Service, and for advertising and marketing purposes. These third parties are required to comply with our privacy practices. 
+iPiccy INC of 901 N. Pitt Street, Suite 320, Alexandria, VA 22314, United States ("iPiccy", "we", "us", "our") is responsible for your personal information. If you have any questions about this Privacy and Cookies Policy or your personal information, you can contact us in 901 N. Pitt Street, Suite 320, Alexandria, VA 22314, United States. You can also contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-Those are the types of personal and other information we collect. You should refer to the rest of this Policy to see how we use, disclose and protect this information: 
+### Information we collect
 
-#### Information You Give Us
+We collect the following information about you:
 
-We collect information you give us at various times when you register with us and use our Service. Examples include the following: 
+Basic registration / services information: You may give us information about you by filling in forms on our Websites, registering to use the Websites or through other contact with us in relation to the services provided on the Websites. The information that we collect on or through our Websites will include your name, e-mail address, other email addresses you associate with your personal account, User ID, device type and location. If you contact us we may also keep a record of that correspondence (including e-mail addresses). 
 
-**Registration and Transaction Information.** When you register to use the Service, we may collect various kinds of contact information about you including, for example, your e-mail address, images, pictures or data files that could reasonably be used to identify you, and written descriptions that could be used to describe you. You will also be asked to create a user-chosen ID and password for your use when accessing the Service. 
+Usage information: Like many websites, we use cookies and similar technologies to collect additional website usage data and to improve our Websites, but we do not require cookies for many parts of our Websites. iPiccy may use both session cookies and persistent cookies to better understand how you interact with our Websites (including the collection of your IP address), to monitor aggregate usage by our users and web traffic routing on our Websites, for advertising, and to customize and improve our Websites. For this purpose, we use Google Analytics, a third party vendor. Information about your visit to the Websites will be shared with Google Analytics on an anonymized basis.
 
-**Submissions and Customer Service.** From time-to-time we may post surveys, contests or sweepstakes on our Service, which may request demographic information and customer feedback. Participation in these requests is completely voluntary and with each request you will have the choice of whether or not to participate and disclose information. Please do not post any information that you expect to keep private. In addition, we may collect and retain information that identifies you personally when you send us comments, questions or suggestions. 
+Although most web browsers automatically accept cookies, some browsers' settings can be modified to decline cookies or alert you when a website is attempting to place a cookie on your computer. However, the Websites may not function properly if you disable cookies. Users can opt-out of cookies by utilizing the settings provided in their browsers.
 
-#### Automatically Collected Information
+Information about you from other sources: We may receive personal information about you from third party websites, application programs and/or devices that you may elect to use in connection with the Websites (including Facebook, Pinterest, Twitter or any other third party applications listed on the Websites from time to time). Information from these third party websites will consist of the profile information you have provided to these third party websites (e.g. your Facebook profile). This will include photographs, email addresses, passwords and user IDs. If you elect to use any third party application in connection with the Websites, you should review their third party privacy policies in relation to any information transferred to us.
 
-We automatically receive certain types of information whenever you interact with us. For example, when you use the Service, our systems may automatically collect your IP address and the type of operating system or browser you use. 
+Social Media Features: Our Websites include social media features which are either hosted by a third party social media provider (e.g. Facebook) or hosted directly on our Websites. Your interactions with these social media features are governed by the privacy policy of the company providing it. Third parties, including Facebook, may collect or receive information from your app and other apps and use that information to provide measurement services and targeted ads. Users can opt out of the collection and use of information for ad targeting <https://www.facebook.com/ads/preferences>
 
-We may use cookie technology to collect information so that we can improve our Site by seeing which areas and features are most popular; to personalize the Site and improve the Site experience; and to allow you to visit the Site without re-entering your member ID and/or password. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. If you decide not to accept our cookies or those of our third party advertisers, you may not be able to use some of the Site's features or services, and you may have a less satisfactory experience. 
-
-#### Use of personal information
-
-**Internal Use of Personal Information.** All contact information submitted by you is stored in our database and may be archived elsewhere. Our records are stored indefinitely, as are our archival backup copies. 
-
-Access to your personal information will be limited to the core developers of iPiccy. In general, we may use personal information internally to serve our users and enable them to take maximum advantage of our Service. For example, personal information may be used to conduct marketing analysis, to provide customized services or complete transactions you have requested, to anticipate and resolve problems with our Service, and to create and inform you of new services from iPiccy that better meet your needs. By registering with our Service, you give consent for us to communicate with you via e-mail for any of the aforementioned purposes. 
-
-You should review the following section to understand when iPiccy discloses personal information to non-affiliated third parties. 
-
-**Disclosure of Personal Information.** We do not rent, sell, or share personal information about you with other people or non-affiliated companies except (i) as may be necessary to perform business functions, (ii) as part of a business transfer, or (iii) when required by law or permitted to protect our rights, property, or safety. The following section describes these disclosure circumstances more fully. 
-
-  * **Consent.** Unless you choose to do so, we will not disclose your personal information to third parties for their direct marketing purposes. With your consent, we may disclose your personal information to third parties so that they may provide you with services that you have requested. Please note that third parties with whom aggregate information is shared are required to comply with our privacy practices. 
-  * **Business Functions.** We may share personal information with third party vendors who assist us in performing internal functions necessary to operate our business. In the event that we use third party vendors to assist us in performing these functions, the third parties may not use or disclose your personal information for any other purpose. In addition, these third parties must comply with our privacy practices. 
-  * **Business Transfers.** Information about our users and the Service is one of our most important business assets. Therefore, information about our users, including personal information, will be disclosed as part of any merger or acquisition, creation of a separate business to provide the Service or fulfill products, sale or pledge of company assets as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company. 
-  * **Protection of iPiccy and Others.** We may release personal information in the good faith belief that release is appropriate and necessary to comply with legal process or authority (e.g., a lawful subpoena, warrant or court order); to enforce or apply our policies; to initiate, render, bill, and collect for amounts owed to us; to protect our rights, property, or personal safety of iPiccy, our users, our employees, or the public; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. 
+  
 
 
+### How we use your information and how this use is lawful
 
-#### Third party sites
+Reason for processing personal information
 
-Please be aware that we may provide links to third party Web sites as a service to our users and we are not responsible for the content or information collection practices of those sites. Please also note that these Web sites' privacy policies will differ from those of iPiccy. Therefore, we encourage you to review and understand their privacy practices before providing them with information or visiting their sites. 
+| 
 
-#### Network and information security
+Legal basis for processing your personal information  
+  
+---|---  
+  
+To provide the iPiccy Services, including providing image editing services and support services.
 
-We use commercially reasonable efforts to protect your personal information, including the use of a storage facility with access limited to authorized personnel. While we have taken efforts to guard your personal information, we cannot guarantee that your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. 
+| 
 
-Your account information and access to our Service is accessible only through the use of an individual user ID and password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Site and Service by any person using your account user ID and password. Please advise us immediately if you believe your account user ID and password have been misused. 
+Contractual obligation: when you sign up to use the iPiccy Services, we have a contract with you to provide the iPiccy Services. It is necessary for us to use your personal information to carry out this contract, or to take steps at your request before we enter into a contract for iPiccy Services with you.  
+  
+To provide you with information on the services available on or through our Websites;
 
-#### International users
+To provide you information on services we offer that are similar to those that you have already purchased or enquired about;
 
-By using our Site and providing us with data, you acknowledge and agree that due to the international dimension of iPiccy, we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. Please note that your personal information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country. If you object to your personal information being transferred or used as described in this Policy, please do not register for the Service. 
+and To provide you with information about services we feel may interest you.
 
-#### Updating this policy
+| 
 
-We may revise and update this Policy if our practices change, as technology changes, or as we add new services or change existing ones. Any changes will be posted to this document so that you will always know what information we gather and how we use it. If we make any material changes to our Policy or how we handle your personal information, we will post an updated Policy on our site and change the date of the Policy. If we are going to use any personal information in a manner that is materially different from that stated in our Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. We will use information in accordance with the most current privacy policy. 
+Legitimate interests: we have a legitimate business interest in responding to customer requests for information, and in promoting and advertising our business, products and services. It is necessary to use your personal information to carry out this legitimate business interest. In doing so, we will also comply with the applicable rules for direct marketing under data protection law.
+
+We have carried out a balancing test to ensure that your interests do not override this legitimate business interest of ours. For more information on this balancing test, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Note: you have the right, at any time, to object to the use of your personal information for this purpose. You can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to exercise this right.  
+  
+Website maintenance: to administer the Websites and for internal operations, including troubleshooting;
+
+Website data analysis: to carry out analysis of usage of the Websites and iPiccy Services;
+
+Website security: to keep the Websites safe and secure;
+
+Website quality: to improve the Websites to ensure that content is presented in the most effective manner for you and for your computer and to deliver relevant advertising to you.
+
+| 
+
+Legitimate interests: we have a legitimate business interest in maintaining the Websites, carrying out data analysis on the Websites, and ensuring the security and quality of the Websites in order to improve product and service performance and to provide the best version of the Websites and a quality user experience for our customers and all visitors to the Websites.
+
+We have carried out a balancing test to ensure that your interests do not override this legitimate business interest of ours. For more information on this balancing test, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Note: you have the right, at any time, to object to the use of your personal information for this purpose. You can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to exercise this right.  
+  
+Your personal information will only be processed to the extent necessary as set out above. We will also process personal information as may be necessary to comply with legal obligations. We will inform you in advance if we intend to further process your personal information for a purpose other than as set out above. We may also seek your specific consent to the processing of personal information for other specific purposes. You will have the right to withdraw such consent at any time.
+
+### Will any of my personal information be shared with Third parties?
+
+We disclose your personal information to the following third parties:
+
+  * our vendors who provide us with customer support assistance, customer account history support, customer relationship management support, web services, services related to customer experience data and services, email marketing services, including Amazon Web Services (AWS);
+
+
+  * web analytics vendors who assist us in the improvement and use of the Websites, including Google Analytics and Mode Analytics;
+
+
+  * other third parties who need to know such information to support our permitted use of information, including marketing partners and storage partners;
+
+
+  * Facebook, where you elect to log into the Websites using Facebook authentication 
+
+
+  * social media platforms, websites or applications such as Facebook, Pinterest or Twitter where you elect to share your iPiccy photographs to these platforms, websites or applications;
+
+
+  * third parties who are required in order to assist with the defence of legal claims, including insurance providers and legal services providers;
+
+
+  * advertisers and advertising networks that require the data to select and serve relevant adverts to you and others – we don't disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users.
+
+
+
+We will also need to disclose your personal information if we are required to comply with any applicable law, a summons, a warrant, a court or regulatory order, or other statutory requirement.
+
+We reserve the right to transfer any personal information we have about you in the event we sell or transfer all or a portion of our business or assets. If iPiccy is ever acquired, we will provide notice before any personal information is transferred and becomes subject to a different privacy policy. It's not our goal to be acquired, but we feel that it's prudent to be clear about your rights if it happens. Your ongoing support of iPiccy will ensure that we will never have to sell to another company.
+
+We take all reasonable steps, as required by law, to ensure the safety, privacy and integrity of your personal information and, where appropriate, enter into contracts with such third parties to protect the privacy and integrity of such data and any information supplied.
+
+### Where is your information stored or transferred?
+
+The personal information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"), including the United States, for the purposes described above. To ensure that your personal information receives an adequate level of protection and is treated securely, we have put the appropriate safeguards in place to protect the privacy and integrity of such personal information when being transferred outside the EEA in the form of EU-approved Standard Contractual Clauses. These are standard clauses in our contracts with third parties situated in non-EEA countries to ensure that any personal information leaving the EEA will be transferred in compliance with EU data-protection law. Copies of our current Standard Contractual Clauses are available on request using the contact details listed above.
+
+### How long do we keep your information?
+
+We will keep your personal information only for so long as is necessary to carry out the purposes set out above and in accordance with our data retention procedures. We will not keep your personal information after you delete your iPiccy account. It may be necessary to keep your personal for longer in certain limited circumstances, including where we need it to comply with any legal obligations, including in relation to requests from legal or regulatory authorities or to defend legal claims. In any event, we will not keep your personal information longer than 7 years following your last transaction on the Websites. IP addresses which are collected are not retained for longer than 30 days.
+
+### What Rights Do I Have?
+
+If you are located in the EEA, you have a right to obtain a copy of, and the right to rectify any inaccuracies in, the personal information we hold about you by making a request to us in writing. You also have the right to request erasure, restriction, portability or object to the processing of your personal information or not to be subject to a decision based on automated processing, including profiling. You should inform us of any changes to your personal information. Any requests made under this section can be made using the contact details set out above. If you wish to exercise any of your rights in this regard please contact us at contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will respond to your request in writing, or orally if requested, as soon as practicable and in any event not more than one month after receipt of your request.
+
+However, these rights may not be exercised in certain circumstances, such as when the processing of your data is necessary to comply with a legal obligation or for the exercise or defence of legal claims.
+
+You have the right to lodge a complaint with the data protection supervisory authority in the country where you live if you are unhappy with how your personal information is being handled. 
+
+If we are relying on your consent to allow us to process your personal information, you can withdraw your consent at any time. From that point on we would no longer be able to carry out the processing we were carrying out with your consent. Any processing we carried out before you withdrew your consent would remain valid. We do not generally rely on consent for processing personal information.
+
+### Data Security
+
+As you will know, the nature of the internet is such that we cannot guarantee the security of the information that you send to us. This isn’t unique to iPiccy though because no data that is sent over the internet can be guaranteed to be 100% secure. We do, however, take all reasonable steps as required by data protection law to ensure the safety, privacy and integrity of your personal information.
+
+### So, does iPiccy use cookies?
+
+Yes, iPiccy does set cookies to make your experience better. Cookies are small data files that are stored in your web browser on your device when you visit a website. Cookies serve a number of purposes like letting you navigate between pages efficiently, remembering your preferences, interests or log in details, and generally improving your website experience. Most internet browsers automatically accept cookies. You can instruct your browser to stop accepting cookies or to prompt you before accepting a cookie from any website you visit. If you do this, it's possible that iPiccy might not work as well.
+
+### What types of cookies do we use?
+
+#### 1\. Necessary Cookies
+
+These cookies are essential in order to enable you to navigate the Websites and use the Websites’ features, such as accessing secure areas of the Websites. Without these cookies, certain services you have asked for cannot be provided.
+
+#### 2\. Session Cookies
+
+We use session cookies, which are temporary cookies that aid your navigation through the pages on the Websites, and will remember preferences you have selected during the session. These cookies are deleted when the browser is closed.
+
+#### 3\. Performance Cookies
+
+These cookies collect information about how you use the Websites, for instance which pages of the Websites you most often use. These cookies may be used to monitor usage by our users and web traffic routing on our website and for advertising purposes.
+
+#### 4\. Targeting Cookies
+
+Please note: If you are located in the EEA, we will not use targeting cookies or allow our partners to use them on you, unless we have your consent. We will ask for your consent before using targeting cookies on you. The following section will only apply to website users located in the EEA who have given this consent.
+
+For website users located outside the EEA, we use targeting cookies to record your visit to our Website, the pages you have visited and the links you have followed. We will also use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+
+Trusted partners like Google and DoubleClick help us serve advertising on and off the iPiccy Website, and analytics companies like Google Analytics may also place cookies on your device. Please read our partners’ privacy and cookies policies (linked below) to ensure that you’re comfortable with how they use cookies:
+
+  * [Google Analytics](https://www.google.com/intl/en/policies/privacy/)
+  * [Type of Google Cookies](https://www.google.com/policies/technologies/types/)
+  * [DoubleClick](http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/)
+
+
+
+We also use Google Analytics to help monitor and analyze use of the Websites. Google Analytics is a type of performance cookie, which collects standard internet log information and visitor behavior information in an anonymous form. The information collected by this cookie is transmitted to Google who then used it to evaluate visitors’ use of the Websites and to compile statistical reports on the Websites activity. These cookies remain on your device even after you have logged out of the session. To opt out of being tracked by Google Analytics across all websites visit [DoubleClick opt-out.](https://support.google.com/ads/answer/2662922).
+
+We use DoubleClick cookies to monitor our online advertisements and to help us see which advertisements visitors click on and interact with. Google provides a method of permanently opting out of DoubleClick cookies. If you opt out in this way you will also be opting out for any other sites that use DoubleClick tags. These cookies remain on your device even after you have logged out of the session. To permanently opt out of being tracked by Double Click visit [DoubleClick opt-out.](https://support.google.com/ads/answer/2662922)
+
+We may partner with third party advertising companies to better provide advertisements about our goods and services that may be of interest to you. These third party advertisers may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Websites. They may collect information about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based advertising or other targeted content. These online advertising partners do not have access to or use your name, address, e-mail address, telephone number or other personally identifiable information from us, without your consent. They may, however, use persistent identifiers to anonymously track your Internet usage across other websites in their networks beyond these Websites. While we restrict their further use of such information, such third parties may, with sufficient data from other sources, be able to personally identify you, unknown to us. We may add or change the list of third party ad servers from time to time and we encourage you to check this section for changes. You can learn more about online advertising at [www.aboutads.info/consumers](https://www.aboutads.info/consumers).
+
+Many of the third party advertisers that place tracking tools on our Websites are members of programs that offer you additional choices regarding the collection and use of your information. You can learn more about online advertising at www.aboutads.info/consumers. You can also learn more about the options available to limit these third parties’ collection and use of your information by visiting the websites for the Network Advertising Initiative and the Digital Advertising Alliance.
+
+### Disabling Cookies
+
+You can opt-out of cookies by utilizing the settings provided in your browser. If you use more devices and/or browsers you will need to disable cookies on each device and on each browser separately. Here are the locations of the cookie settings for all major web browsers:
+
+  * Internet Explorer \- Tools > Internet Options > Privacy tab.
+  * Mozilla Firefox \- Tools > Options > Privacy menu.
+  * Safari Users \- Edit > Preferences > Privacy menu.
+  * Chrome Users \- Settings > Content Settings > Privacy > Cookies.
+
+
+
+### Are the images I upload to iPiccy public?
+
+No. All images located on your computer and never goes to our servers.
+
+### Can anyone use my image?
+
+No , only you own your images! The copyright for the image remains with you even after you use iPiccy. We will never use your images without your consent otherwise than for the purposes of providing services to you via the Websites or otherwise in accordance with our Terms of Use (please see further details in the Terms of Use attached <https://ipiccy.com/terms>). For example, if we want to feature one of your public images on our blog, or use your photography on our site, the iPiccy will contact you before ever publishing your work.
+
+### Will this Privacy and Cookies Policy change?
+
+We reserve the right to modify this Privacy and Cookies Policy at any time. Any changes to this Privacy and Cookies Policy will be posted on the Websites so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
