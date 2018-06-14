@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizard101.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000016id_/https%3A//www.wizard101.com/game/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizard101.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191027id_/https%3A//www.wizard101.com/game/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Wizard101 Wizard Online Game
 
@@ -98,8 +98,8 @@ This Site may also include forums, chat functionality or other features where yo
 If you have any questions, comments, or concerns about this Privacy Policy, please contact us at: 
 
 KingsIsle Entertainment, Inc.   
-P.O. Box 82543   
-Austin TX USA, 78708   
+P.O. Box 5997   
+Round Rock TX USA, 78664   
 E-Mail: Privacy@KingsIsle.com 
 
 **EFFECTIVE DATE; CHANGES**
