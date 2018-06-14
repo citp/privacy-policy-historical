@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004848id_/https%3A//www.sierratradingpost.com/lp2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614210851id_/https%3A//www.sierratradingpost.com/lp2/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy Ad
 
 This policy will be effective starting February 11, 2013
 
@@ -87,8 +87,7 @@ To update your preferences, ask us to remove your information from our mailing l
 
 You can opt out of receiving promotional e-mail and/or postal mail from us by doing the following: 
 
-  * If you originally signed up for Sierra Trading Post e-mail, you can opt out from that e-mail by going to this page: <http://www.sierratradingpost.com/dealflyer/dffrequency/>. You then must enter your e-mail address, select the "Unsubscribe" option, and **click the "Save Changes" button**. Please be sure to enter the same e-mail address you provided when you signed up, otherwise it may not be possible to comply with your request.
-  * If you have received an e-mail from Sierra Trading Post, you can opt out from receiving further e-mails by **following the opt-out or "unsubscribe" instructions provided in the e-mail you received**.
+  * If you have received an e-mail from Sierra Trading Post, you can opt out from receiving further e-mails by **clicking on the unsubscribe link at the bottom of any Sierra Trading Post email you have received.**.
   * If you have an online account, you can login and manage your subscription preferences in My Account.
   * Contact us if you do not want to receive promotional e-mail and/or postal mail communications from us in the future. Please specify if you would like to opt out of e-mail, or postal mail, or both. If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, and e-mail and/or postal mail addresses under which you have been receiving communications from us.
 
