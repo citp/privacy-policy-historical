@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynameguide.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216134839id_/http%3A//www.babynameguide.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynameguide.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614222634id_/http%3A//www.babynameguide.com/policy.html) for the most accurate reproduction.*
 
 # Baby Name Guide - Privacy Policy
 
@@ -70,14 +70,14 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 08/12/09
+This policy was last modified on 04/26/18
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.babynameguide.com  
-727 South Main St  
-Butler, PA 16001  
+135 Lentz Rd  
+Latrobe, PA 15650  
 United States  
 info@babynameguide.com
