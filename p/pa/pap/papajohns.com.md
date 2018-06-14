@@ -1,96 +1,144 @@
-> *The following text is extracted and transformed from the papajohns.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025013528id_/http%3A//www.papajohns.com/policy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614191337id_/https%3A//www.papajohns.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Papa John's: Better Ingredients. Better Pizza.
+# Privacy Policy| Papa John's Pizza
 
-##  Your privacy is important to us. 
+Effective Date Jan. 1, 2012 (last updated March 1, 2016)
 
-Safeguarding your privacy and the security of your personal information is important to us. Please take a few minutes to read the following policy so that you understand how we treat your personal information. As we continuously improve and expand our services, this policy might change. So please check it out periodically. If you have questions about our policy, please click on our customer feedback page to contact us via our electronic feedback form.
+### This Privacy Policy applies to the sites and apps where it appears.
 
-How we collect information about you. We collect information in three ways:
+This Policy describes how we treat personal information on the websites where it is located. This includes [www.papajohns.com](https://www.papajohns.com/ "Papa John's Home Page"). It also applies to our mobile sites and apps. By interacting with us on our sites and platforms, you agree to the terms in this Policy.
 
-  1. We collect information that our customers supply to us.
-  2. We collect information from emails and other contacts sent to us by our customers and users of our website.
-  3. We collect information electronically on all users of our website, including customers, by means of cookies.
+### We collect information from and about you.
+
+**We collect contact information.** For example, we might collect your name and street address if you register on our site. We might also collect your phone number or email address.
+
+**We collect payment information.** For example, we collect your credit card number if you make a purchase.
+
+**We collect information you submit or post.** We collect the information you post in a public space on our site. We also collect information when you contact us.
+
+**We collect demographic information.** We may collect information like your gender and age. We may also collect your zip or postal code. We might collect this when you contact us or enter a promotion.
+
+**We collect other information.** If you use our website, we may collect information about your mobile device, operating system, or web browser you’re using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location. We might look at how often you use the app and where you downloaded it.
+
+### We collect information in different ways.
+
+**We collect information directly from you.** For example, if you register with us, sign up for our emails or enter a promotion. We also collect information if you contact us. We collect information if you submit orders through our websites or mobile apps.
+
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. To learn more about these tools and how you can control them, [click here](https://www.google.com/policies/technologies/ads/ "Advertising – Privacy & Terms – Google"). We collect information about users over time when you use this website. We may have third parties collect personal information this way. We also collect information from our mobile apps.
+
+**We get information about you from third parties.** For example, our business partners may give us information about you. Social media platforms may also give us information about you.
+
+**We combine information.** For example, we may combine information that we have collected offline with information we collect online. Or we may combine information we get from a third party with information we already have.
+
+### We use information as disclosed and described here.
+
+**We use information to respond to your requests or questions.** For example, we might use your information to respond to your customer feedback. We may use your information to contact you about your orders or rewards.
+
+**We use information to improve our products and services.** We may use your information to make our website and products better. We might use your information to customize your experience with us.
+
+**We use information for security purposes.** We may use information to protect our company, our customers, and our websites.
+
+**We use information for marketing purposes.** For example, we might provide you with information about new products, restaurants in your area, and special offers. We might also use your information to serve you ads about products and offers. We might tell you about new features or updates. These might be third party offers or products we think you might find interesting. We may also use push notifications on our mobile apps.
+
+**We use information to communicate with you about your account or our relationship.** We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms of Use.
+
+We use information as otherwise permitted by law or as we may notify you.
+
+### We may share information with third parties.
+
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who send emails for us. We may also share information with companies that operate our websites or run a promotion.
+
+**We will share information with third parties for marketing purposes.** For example, we share information with third parties, like corporate affiliates and franchisees, for their marketing purposes.
+
+**We will share information with our business partners.** For example, we will share information with third parties who co-sponsor a promotion. These partners may send you information about events and products by mail or email.
+
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may share it if a government agency, investigatory body, or law enforcement requests it. We might share information when we are investigating potential fraud.
+
+**We may share information with any successor to all or part of our business.** For example, if part of our business was sold we may give our customer list as part of that transaction.
+
+**We may share information for other reasons we may describe to you.**
+
+### You have certain choices about how we use your information.
+
+**You can opt out of receiving our marketing emails and/or text messages.** To stop receiving our promotional emails or text messages, log in to your account and change your settings or follow the instructions in any promotional message you get from us. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.
+
+**You can control cookies and tracking tools.** To learn how to manage how we - and our vendors - use cookies and other tracking tools, please click here.
+
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone.
+
+### Your California privacy rights.
+
+If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email to [privacy@papajohns.com](mailto:privacy@papajohns.com "Open your email client to email privacy@papajohns.com"), or write to us at the address listed below. Indicate in your letter that you are a California resident making a "Shine the Light" inquiry.
+
+**Consumer Services Team** Attention: Privacy Officer P.O. Box 99900 Louisville, Kentucky 40269-0900
+
+### These sites and apps are not intended for children.
+
+Our sites and apps are meant for adults. We do not knowingly collect personal information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us. You can also write to us at the address listed at the end of this Policy. Please mark your inquiries "COPPA Information Request." Parents, you can learn more about how to protect children's privacy on-line [here](https://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html).
+
+### We use standard security measures.
+
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+
+We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+
+### We store information both within and outside the United States.
+
+Information we maintain may be stored both within and outside of the United States. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
+
+### We may link to other sites or apps or have third party services on our platforms we don’t control.
+
+If you click on a third party link, you will be taken to platforms we do not control. This Policy does not apply to the privacy practices of those platforms. Read the other companies’ privacy policies carefully. We are not responsible for these third parties.
+
+Our site may also serve third party content that contains their own cookies or tracking technologies. To learn more, click here. We do not control the use of those technologies.
+
+### Feel free to contact us if you have more questions.
+
+If you have any questions about this Policy or want to correct or update your information, please email us at [privacy@papajohns.com](mailto:privacy@papajohns.com "Open your email client to email privacy@papajohns.com").
+
+You can also write to us or call at:  
+Papa John's International, Inc.  
+P.O. Box 99900  
+Louisville, Kentucky 40269-0900  
+[1-877-547-PAPA (7272)](tel:+1-877-547-7272 "Call 1-877-547-7272")
+
+### We use common tracking technologies.
+
+We collect personal information about users over time and across different websites when you use this website or service. We also have third parties that collect personal information this way. To do this, we use several common tracking tools. Our vendors may also use these tools. These may include browser cookies. We may also use web beacons, flash cookies, and similar technologies. 
+
+### We use tracking technologies for a variety of reasons.
+
+We use tracking tools:
+
+  * To recognize new or past customers.
+  * To store your password if you are registered on our site.
+  * To improve our website.
+  * To serve you with interest-based or targeted advertising (see below for more on interest-based advertising). 
+  * To observe your behaviors and browsing activities over time across multiple websites or other platforms. 
+  * To better understand the interests of our customers and our website visitors.
 
 
 
-**Further details are provided below.**
+### We engage in interest-based advertising.
 
-What personal information we collect from our users.
+We and our partners display interest-based advertising using information gathered about you over time across multiple websites or other platforms. This might include apps.
 
-When you set up an account at papajohns.com to use our online ordering service, you are required to provide us with your full legal name, email address, full street address including city, state and zip code, and telephone number. You must also choose your Username and Password and provide those to us.
+Interest-based advertising or "online behavioral advertising" includes ads served to you after you leave our website, encouraging you to return. They also include ads we think are relevant based on your shopping habits or online activities. These ads might be served on websites or on apps. They might also be served in emails. We might serve these ads, or third parties may serve ads. They might be about our products or other companies’ products.
 
-Every time you use our service, we collect information about the Papa John's restaurants you select and the orders you place.
+### How do we gather relevant information about you for interest-based advertising?
 
-When you place an order with us by telephone or means other than our online ordering service, you may be required to provide us with your full legal name, full street address including city, state and zip code, and telephone number. Every time you place an order, we will collect information about the Papa John's restaurants you select and the orders you place.
+To decide what is relevant to you, we use information you make available to us when you interact with us, our affiliates, and other third parties. We gather this information using the tracking tools described above. For example, we or our partners might look at your purchases or browsing behaviors. We might look at these activities on our platforms or the platforms of others.
 
-Children's Privacy
+We work with third parties who help gather this information. These third parties might link your name or email address to other information they collect. That might include past purchases made offline or online. Or, it might include online usage information.
 
-Online ordering, customer registration for on-line ordering, and customer feedback pages of this website are directed toward and designed for use by persons aged 13 or older. We do not establish or maintain registrations for any child whom we know to be under the age of 13. We do not solicit or knowingly collect personally identifiable information from children under the age of 13. If we discover that we have received personally identifiable information from an individual who indicates that he or she is, or whom we otherwise have reason to believe is, under the age of 13, we will delete such information from our systems.
+### You can control tracking tools.
 
-We collect additional information about how you use our website and service.
+Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html "Adobe - Flash Player : Settings Manager - Website Storage Settings panel"). Why? Because flash cookies cannot be controlled through your browser settings.
 
-If you contact us by letter, phone, or email through the contact information on the "[Customer Feedback](https://web.archive.org/web/20131025013528id_/http%3A//www.papajohns.com/feedback/)" page, we will collect your sender information and may collect the other information you voluntarily disclose to us.
+**Our Do Not Track Policy: Some websites have "do not track" features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals.** If you block cookies, certain features on our sites may not work. If you block or reject cookies, not all of the tracking described here will stop.
 
-Our use of cookies.
+Options you select are browser and device-specific.
 
-Like many websites on the Internet, our website uses cookies. Cookies are small strings of data placed on users' personal computer hard drives during the exchange of data that happens when your browser points to our website. Cookies enable a website to identify a user's browser as a previous visitor by means of a unique string of numbers assigned on a previous visit. Our cookies assist us in collecting information on what pages of our website you access or visit, and in recording any preferences you indicate on our website. We also use cookies to make your experience on papajohns.com more personalized, and convenient. To opt-out from having your cookie information regarding papajohns.com visits stored [click here](http://tools.google.com/dlpage/gaoptout). 
+### You can opt-out of online behavioral advertising.
 
-The site analytics cookie information may be examined in concert with data from online ads served through the DoubleClick for Advertisers platform. This is to help us understand how anonymous users interact with the website after seeing advertisements online, and this data may be used to optimize ad campaigns. To opt-out of tracking from DoubleClick for Advertisers [click here](http://www.google.com/privacy/ads/).
-
-Our cookies cannot and do not retrieve any other data from your hard drive or pass on computer viruses. If you are just browsing our website, a cookie identifies your browser and user id (and not your identity). If you place orders with us, we use cookies to assist in storing your preferences and recording other session information (a "session" is a single visit by you to our website).
-
-How we store the information we collect.
-
-We store the information you provide to us and the information we collect electronically in our computer databases. We own, maintain and operate our computer servers containing our databases. Access to our computer servers is controlled by firewalls and security gatekeepers.
-
-How we use the information we collect.
-
-We use the personal information about you stored in our member database in various ways. First, the next time you use our online ordering service and enter your User ID and Password, we will call up your information from our database to make processing your order faster and easier. 
-
-When you use your papajohns.com account, we also keep track of your food preferences and restaurant choices and analyze that information. We do so in order to be able to email to you special advertisements, offers and notices regarding foods and restaurants that seem to fit with your preferences. 
-
-We also use the personal information about you stored in our customer database through telephone and other non-online orders in various ways. Each time you place an order, we will call up your information from our database to make processing your order faster and easier. We also may keep track of your food preferences and restaurant choices and analyze that information in order to be able mail to you special advertisements, offers and notices regarding foods and restaurants that seem to fit with your preferences. We may also use the information to contact you concerning your level of satisfaction with our products and services, to verify incomplete orders, rectify problems or delays with your order or otherwise communicate with you concerning your transactions with us.
-
-We may provide your personal information to our restaurant affiliates and franchisees in order to enable your local Papa John's restaurant(s) to better serve you. We also aggregate information about how our online ordering service is used (without specific identification to any particular user) to be able to improve our service and make it more responsive to our customers' preferences. We also make such aggregate information (without identification to any specific individual) available to our restaurant affiliates and other affiliates in order to obtain information about products, services, offers and notices which we believe will be useful and informative to our website users.
-
-If you use our website to purchase Papa Cards without setting up a papajohns.com account, your personal information is used solely to process and confirm your transaction.
-
-Third party vendors, including Google, use cookies to serve ads based on users prior visits to papajohns.com. To learn more about opting out of third party vendor cookies please visit the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
-
-Promotions and Prizes
-
-We search for merchants who sponsor promotions, offer prizes (Contests), give our customers great discounts or make available other valuable offers that we believe may be of interest to our customers. When we find such merchants, we may provide to them the means via our website, mail, or email to contact you about their offers. However, if you have opted not to receive e-mails or other communications from us (See "You can control how information about you is used" below), will not provide your e-mail address, mailing address or other data or information to any third party for promotional or other commercial purposes, except with your prior consent.
-
-You are under no obligation to respond to any offer or promotion but if you do , you may be required to provide additional information, such as your birth date and whether you or anyone in your household is employed by the merchant who is extending the offer , in order to verify your eligibility for accepting the offer or participation in the Contest. If you do respond to an offer or promotion of one of these merchants, your provision of information to the merchant will be governed by the merchant's privacy policy, not the Papa John's privacy policy.
-
-You can control how information about you is used.
-
-You can also limit our communications directly to you. If you have a papajohns.com account and do not want to receive emails from us telling you about great eDeals, Contests or other promotional offers in the future, please let us know. You can change your preferences, or opt out of receiving emails from us, at any time (except when you are in the process of placing an order) by going to My Account Information on the log in page. There, you can update your email address, phone numbers, password, address and you can uncheck the _"Send me special offers from Papa John's"_ box. Our emails to you will stop within 5 business days and we will not thereafter provide other merchants the means to contact you by e-mail about their Contests or other offers.
-
-Papa John's may from time to time send nonpromotional email to all registered users of our online ordering service for the purpose of gathering and dispersing data to provide better services to our customers. Except for provision of additional information necessary to complete a transaction initiated by a registered user, registered users will be under no obligation to reply or answer questions in said nonpromotional email. Nonpromotional email may include, but will not be limited to, surveys, maintenance notices, system updates and confirmation or other notices in connection with completion of a transaction initiated by a registered user.
-
-If you would rather not receive offers or mailings other than e-mails from us or other merchants that we select, please use the [Customer Feedback](https://web.archive.org/web/20131025013528id_/http%3A//www.papajohns.com/feedback/) link on our website or send your name and address to:
-
-> **Consumer Services Team**  
->  Attention: Privacy Officer  
->  P.O. Box 99900  
->  Louisville, Kentucky 40269-0900 
-
-Our policies may change.
-
-This is our current privacy and security policy, but we reserve the right to change our website and this policy at any time. You should check this privacy policy periodically. If our policies regarding collection, storage and use of your information change, the information collected under prior policies will continue to be governed by those policies, unless we obtain your consent to use that information in new ways.
-
-You can access your information.
-
-Upon your request, we will provide you with access to your unique account-related information and information from contacts that we maintain about you. In your request, please provide us with your current specific contact information so that we can accurately check our records.
-
-How is my information protected?
-
-Your information is password-protected. In order to maintain this protection, we caution you not to provide your password to anyone. We do not give your password to anyone. We recommend that, if you share your computer with other people, you close your browser window when your session is completed. Signing off will protect your information if you share a computer with someone else or are using a computer in a public place like a library.
-
-Please contact us with any questions or comments.
-
-We want you to enjoy your use of papajohns.com's service. If you have any questions, or believe that a violation of this policy may have occurred, please let us know. Our complete contact information is provided on the [Customer Feedback](https://web.archive.org/web/20131025013528id_/http%3A//www.papajohns.com/feedback/) link on our website at [www.papajohns.com](http://www.papajohns.com/).
-
-[**Terms & Conditions**](https://web.archive.org/terms_conditions.shtm)
+The Self-Regulatory Program for Online Behavioral Advertising program provides consumers with the ability to opt-out of having their online behavior recorded and used for advertising purposes. To opt out of having your online behavior collected for advertising purposes, [click here](https://www.aboutads.info/choices/ "Opt Out From Online Behavioral Advertising By Participating Companies \(BETA\)"). Choices you make are both browser and device-specific. 
