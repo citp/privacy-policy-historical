@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairmixer.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625155606id_/http%3A//www.modiface.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairmixer.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614083511id_/http%3A//modiface.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ We also collect some anonymous (non-personal) information from visitors to our w
 
 **How do we protect your personal information?**
 
-We collect your personal information onto servers hosted by a reputable third party website hosting company and are restricted access servers. If you wish to obtain further information about our hosting company and its security measures, please email privacy@modiface.com.
+We collect your personal information onto servers hosted by a reputable third party website hosting company and are restricted access servers. If you wish to obtain further information about our hosting company and its security measures, please email info@modiface.com.
 
 **With whom do we share your personal information?**
 
@@ -48,6 +48,6 @@ Attention: Modiface Privacy Department
 
 Modiface Inc.
 
-77 Bloor Street West, Unit 1107 Toronto, Ontario, Canada, M5S 1M2 
+7 St. Thomas Street, Unit 502 Toronto, Ontario, Canada, M5S 2B7 
 
-privacy@modiface.com
+info@modiface.com
