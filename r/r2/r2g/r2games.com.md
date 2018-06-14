@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the r2games.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226233532id_/http%3A//www.r2games.com/public/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r2games.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614190524id_/http%3A//www.r2games.com/public/privacy-policy.html) for the most accurate reproduction.*
 
 # R2Games-home
 
@@ -51,8 +51,6 @@ R2Games is not liable for losses or damages resulting from or associated with th
 
 We are committed to safeguarding your Personal Information. It is important that you change your password regularly, make it difficult to guess, and do not write it down or give it to anyone. R2Games maintains reasonable technical and physical safeguards to protect your Personal Information against loss, unauthorized access or alteration, misuse, and all other unlawful forms of processing of the information in our possession. However, we are not responsible for any loss or damage due to unauthorized access to communications or data transmitted through the Services by other parties.
 
-If you require account deletion, **** please email [privacy@r2games.com](mailto:support@r2games.com) with the subject “I hereby request deletion of my account information”.
-
  **6.  Privacy of Children**
 
 Our products are designed for a mature audience and you must be at least 13 years old to access and use the Services. R2Games does not knowingly collect or store information from children under the age of 13. If we learn that we have inadvertently collected the Personal Information of a child under 13, or if you become aware that a child under 13 has provided Personal Information to us, we will take steps to delete the information as soon as possible.
@@ -63,7 +61,7 @@ Our products are designed for a mature audience and you must be at least 13 year
 
  **8.  Contact Us**
 
-The Policy and your use of the Services shall be governed by and construed and take effect in accordance with the laws of Hong Kong. With respect to any questions, disputes, suits, action or proceedings arising out of or in connection with the Policy, you irrevocably submit to the exclusive jurisdiction of the courts of Hong Kong. If you have any questions about the Policy, or the practices mentioned within, please send an email to **privacy@r2games.com** ****.
+The Policy and your use of the Services shall be governed by and construed and take effect in accordance with the laws of Hong Kong. With respect to any questions, disputes, suits, action or proceedings arising out of or in connection with the Policy, you irrevocably submit to the exclusive jurisdiction of the courts of Hong Kong. 
 
 Room 1910G,
 
