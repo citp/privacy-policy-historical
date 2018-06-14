@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the times-news.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223054307id_/http%3A//www.times-news.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times-news.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614035215id_/http%3A//www.times-news.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | times-news.com
 
@@ -58,6 +58,10 @@ We have policies and procedures in place to protect the privacy and confidential
 
 Beginning January 1, 2005, California law permits customers who are California residents to request once in any calendar year certain information regarding our disclosure of personal information to third parties for marketing purposes. To make such a request, please contact us by e-mail at: digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104.
 
+ **Prohibited Uses**
+
+This Site is not intended for use by persons located within the European Economic Area (EEA). We do not request or accept personal information concerning or supplied by persons who are located within the EEA at the time they access this Site. If you have accessed this Site from within the EEA, you should immediately discontinue your use. If you have supplied personal information to us in violation of this provision, whether through the registration of new user accounts or otherwise, please contact us at digital@cnhi.com. If you continue to use this Site in violation of this provision, your continued use, including the collection of any data, will be governed by US law.
+
  **Access and Corrections**
 
 We strive to keep your Personal Information accurate. You can access and update the Personal Information that you have provided to us at any time. If you wish to update Personal Information provided to us, please access your account where you may view, update or correct your information online. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access to your data or enabling you to make corrections.
@@ -70,4 +74,10 @@ This Site uses services provided by AP News Registry. AP News Registry collects 
 
 If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
 
-[](https://visitor.r20.constantcontact.com/d.jsp?llr=a9oml49ab&p=oi&m=1128481045312&sit=5x6vgcwlb&f=3c6c3271-851a-44ca-9254-3eff502dcb8c)
+  * [ TETER, Mary Helene Aug 13, 1925 - Jun 6, 2018](http://obituaries.times-news.com/obituary/mary-helene-teter-1925-2018-1064549065)
+  * [ SMITH, Larry Aug 31, 1946 - Jun 12, 2018](http://obituaries.times-news.com/obituary/larry-smith-1946-2018-1064547320)
+  * [ KEISTER, Elaine Jul 2, 1930 - Jun 11, 2018](http://obituaries.times-news.com/obituary/elaine-keister-1930-2018-1064547966)
+  * [ Riggleman, Sr., Glenn](http://obituaries.times-news.com/obituary/glenn-riggleman-sr-1931-2018-1064549575)
+  * [ COYLE, Richard Aug 28, 1935 - Feb 21, 2017](http://obituaries.times-news.com/obituary/richard-coyle-1935-2017-1064546861)
+
+
