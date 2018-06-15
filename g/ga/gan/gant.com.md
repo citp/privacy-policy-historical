@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gant.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206073247id_/http%3A//www.gant.com/privacy-cookies-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gant.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615225557id_/http%3A//www.gant.com/privacy-cookies-information) for the most accurate reproduction.*
 
 # Privacy and Cookies Information for Gant Official Site
 
@@ -7,6 +7,10 @@
 ### Privacy Policy
 
 GANT USA Corporation ("we", "us" or the "Company") collects customer information to improve our customers' shopping experience and to share with our customers, our products, services and promotions. This Privacy Policy describes the types of information we may collect from you when you visit our website, http://gant.com (the **"Website** "), and our practices for collecting, using, maintaining, protecting and disclosing that information. This policy also applies to information we collect from you in e-mail or by other electronic means, such as text messages, and to information we collect through your use of mobile applications. This policy does not apply to information you send to us or that we collect through other means, such as via telephone, or through the use of the mail, and it does not apply to information collected by third parties. The Website is operated by GANT USA Corporation.
+
+#### Website Accessibility Notice
+
+Gant USA Corporation is committed to making the information on its website accessible to all, including  individuals with disabilities, and to ensuring its website complies with Title III of the Americans with Disabilities Act by using World Wide Web Consortium's (W3C) Web Content Accessibility Guidelines (WCAG) 2.0 Level A Success Criteria.  Please keep in mind that our efforts are ongoing, therefore, there may be certain areas of our website that achieve increased accessibility at a rate different than others during a given period of time.   If you would like to report any concern or difficulty accessing information on our website, or request access to content that is currently unavailable to you, please contact our website administrator at +1 (646) 367-5416.
 
 #### What information do we collect?
 
