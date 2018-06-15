@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thebiglead.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227104713id_/http%3A//thebiglead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiglead.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615031538id_/https%3A//thebiglead.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Big Lead
 
-Last Updated: April 8th, 2013
+Last Updated: April 12th, 2018
 
 We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
 This Privacy Notice discloses the privacy practices of our website, mobile site or app (the “Site”). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](http://www.indystar.com/section/terms). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we’ll post the revised Privacy Notice on this website and update the “Last Updated” date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
+Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](http://www.indystar.com/section/terms). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we’ll post the revised Privacy Notice on this website and update the “Last Updated” date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
 
 ### Your California Privacy Rights
 
@@ -17,6 +17,7 @@ California Civil Code Section 1798.83, also known as the “Shine The Light” l
 Mark Faris  
 Online Privacy Coordinator
 
+[URL]  
 Gannett Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
@@ -33,7 +34,7 @@ The information we collect may be collected directly by us, or it may be collect
 
 We also may use “cookies” and other similar technologies on the Site. Cookies are small files that are placed on your hard drive for record-keeping purposes and to enhance your experience with the Site. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
-### How Information is Used
+How Information is Used
 
 We use the information we collect from you while you are using the Site in a variety of ways, including, for example, for the purpose for which the information was submitted, to process your registration request, to provide you with services and communications that you have requested, to send you email updates and other communications, customize features and advertising that appear on the Site, to deliver our Site content to you, to measure Site traffic, measure user interests and traffic patterns, and to improve the Site and the services and features offered via the Site.
 
@@ -45,13 +46,15 @@ In addition, we may use any information submitted by or collected from you via t
 
 **Your Choices.** When we request information from you on the Site, you may always choose not to provide us with that information. But if you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.
 
-If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. If you would like more information on how to opt out of information collection practices by many third parties, visit the Digital Advertising Alliance’s website at [www.aboutads.info](http://www.aboutads.info/).
+If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. Our Site does not collect personally identifiable information or persistent identifiers from, deliver a personalized experience to, or otherwise track or monitor, persons reasonably identified as visiting our Site from the European Union.
+
+If you would like more information on how to opt out of information collection practices by many third parties, visit the Digital Advertising Alliance’s website at [www.aboutads.info](http://www.aboutads.info/).
 
 ### How Information is Shared
 
 **Sharing with Affiliates, Partners and Third Party Service Providers.** We may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf. Policy.
 
-If you do not wish certain information to be shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Notice.
+If you do not wish certain information to be shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Notice.
 
 We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner’s use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information.
 
@@ -60,7 +63,7 @@ We also make some content, products and services available through our Site thro
 Unless you affirmatively provide information within an ad, the data collected in connection with the ads, ad serving and ad targeting on our Site does not include your name, address, email address or telephone number, but it may include the device unique identifier, IP address, MAC address and location information of your computer or device. The use and collection of information by third-party advertising service providers is governed by the relevant third party’s privacy policy and is not covered by our Privacy Notice
 
 For information about use of your information by us and by third-party advertising service providers for advertising, see the section “Data Collected in Connection with Ad Serving and Targeting.”  
-**Sharing with Third Parties for Other Purposes.** Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](http://www.indystar.com/section/terms); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+**Sharing with Third Parties for Other Purposes.** Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](http://www.indystar.com/section/terms); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
 
@@ -74,13 +77,13 @@ We also may use third-party service providers, to target and serve some of the a
 
 Unless you affirmatively provide information, the data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include device identifying information such as the IP address, MAC address, cookie or other device-specific unique alphanumerical ID of your computer.
 
-The use and collection of information by third-party advertising service providers are governed by the relevant third party’s Privacy Notice and are not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, go to [www.aboutads.info](http://www.aboutads.info/). You can opt out of the use of cookies by DoubleClick, one of our service providers, by visiting <http://www.google.com/intl/en/policies/privacy>. Additionally, many of our advertising service providers are members of the Network Advertising Initiative (“NAI”). You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI’s website at <http://www.networkadvertising.org/managing/opt_out.asp>. If you would like more information on how to opt out of information collection practices, go to [www.aboutads.info](http://www.aboutads.info/).
+The use and collection of information by third-party advertising service providers are governed by the relevant third party’s Privacy Notice and are not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, go to[www.aboutads.info](http://www.aboutads.info/). You can opt out of the use of cookies by DoubleClick, one of our service providers, by visiting<http://www.google.com/intl/en/policies/privacy>. Additionally, many of our advertising service providers are members of the Network Advertising Initiative (“NAI”). You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI’s website at <http://www.networkadvertising.org/managing/opt_out.asp>.If you would like more information on how to opt out of information collection practices, go to [www.aboutads.info](http://www.aboutads.info/).
 
 ### Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas
 
 Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online – for example on blogs, discussion forums, or other community posting or social networking areas of our Site – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
-### Children’s Privacy Statement
+Children’s Privacy Statement
 
 This site is not intended for children under the age of 13. We do not knowingly collect any Personal Information from a child under 13. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Site, we will delete such information from our records.
 
@@ -101,7 +104,7 @@ Our Site also includes links to other websites and provides access to products a
 If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:
 
 Mark Faris  
-Online Privacy Coordinator  
+Online Privacy Coordinator[URL]  
 Gannett Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
