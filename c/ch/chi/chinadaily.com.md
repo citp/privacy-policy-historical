@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinadaily.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212063842id_/http%3A//classifieds.chinadaily.com/about/policy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinadaily.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615194927id_/http%3A//classifieds.chinadaily.com/about/policy/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
