@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driveragentplus.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201135942id_/http%3A//driveragentplus.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driveragentplus.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615072156id_/http%3A//driveragentplus.com/privacy-policy.php) for the most accurate reproduction.*
 
 # DriverAgent Plus Privacy Policy | Terms of Use & Tracking Cookies Explained - DriverAgentPlus.com
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
 #### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [our EULA](https://web.archive.org/web/20171201135942id_/http%3A//driveragentplus.com/end-user-license-agreement)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [our EULA](https://web.archive.org/web/20180615072156id_/http%3A//driveragentplus.com/end-user-license-agreement)
 
 #### Your Consent
 
@@ -76,4 +76,4 @@ If there are any questions regarding this privacy policy, or if you would like t
 
 <http://esupport.com/>  
 120 Water St., North Andover, MA 01845, USA  
-[sales@esupport.com](mailto:sales@esupport.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1360727f76605376606663637c61673d707c7e)
