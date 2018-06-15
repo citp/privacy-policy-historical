@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driftin.io privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231035955id_/http%3A//driftin.io/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driftin.io privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615041649id_/http%3A//www.driftin.io/privacy.txt) for the most accurate reproduction.*
 
 # 
 
