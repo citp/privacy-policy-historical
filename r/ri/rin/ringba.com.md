@@ -1,199 +1,123 @@
-> *The following text is extracted and transformed from the ringba.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630234913id_/http%3A//www.google.com/intl/en/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringba.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615145403id_/https%3A//www.ringba.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Privacy & Terms – Google
+# Privacy Policy - Ringba | Enterprise Call Tracking Software.
 
-There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you [more relevant search results](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/more-relevant-search-results.html) and ads, to help you [connect with people](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/connect-with-people.html) or to make [sharing with others quicker and easier](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/sharing-with-others.html). As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
+1 Introduction
 
-Our Privacy Policy explains: 
+Ringba provides a call tracking and telecommunications platform through a Software as a Service model (“SaaS”). At Ringba, the privacy and security of our customers and consumers are of the utmost importance. Ringba is committed to protecting and securing the data that you share with us. This privacy policy explains how Ringba processes information that can be used to directly or indirectly identify an individual (“Personal Data”) collected through the use of its website and platform.
 
-  * What information we collect and why we collect it. 
-  * How we use that information. 
-  * The choices we offer, including how to access and update information.
+For the purpose of this policy, Ringba defines the term “User” as an entity with which Ringba has an established relationship, the term “Consumer” as any individual who calls a phone number issued by Ringba, and the term “Visitor” as an individual that visits our front-end website, or a website with our JavaScript tags placed on it. (for example: www.ringba.com)
 
+Any information stored on Ringba’s platform is treated as confidential. All information is stored securely and is accessed by authorized personnel only. Ringba implements and maintains industry standard and state of the art technical, security, and organization measure to protect Personal Data against unauthorized or unlawful processing and use, and against accidental loss, destruction, damage, theft, or disclosure.
 
+2 Collection and Use
 
-We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://support.google.com/policies/troubleshooter/2990837?hl=en). 
+2.1 General
 
-## Information we collect
+The following sections cover the specifics of the three groups from which data is collected: website Visitors, Consumers, and Users.
 
-We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/ads-youll-find-most-useful.html), [the people who matter most to you online](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/the-people-who-matter-most.html), or which YouTube videos you might like. 
+2.2 Website Visitors
 
-We collect information in the following ways: 
+If you are a Visitor to our website only, and not a Consumer who has called a phone number controlled by Ringba or a user of our platform, then this section is relevant for you.
 
-  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or [credit card](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/credit-card.html) to store with your account. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](https://support.google.com/accounts/answer/112783?hl=en), which may include your name and photo. 
+By visiting this website, you consent to the collection and use of your Personal Data as described herein. If you do not agree with the terms set out herein, please do not visit this website. If required by applicable law, we will seek your explicit consent to process Personal Data collected on this website or volunteered by you. Kindly note that any consent will be entirely voluntary. However, if you do not grant the requested consent to the processing of your Personal Data, the use of this website may not be possible.
 
-  * **Information we get from your use of our services.** We [collect information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/collect-information.html) about the services that you use and how you use them, like when you watch a video on YouTube, visit a website that uses our advertising services, or [view and interact with our ads](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/view-and-interact-with-our-ads.html) and content. This information includes: 
+Ringba may collect, record and analyze information of Visitors to its website. We may record your IP address and use cookies. Ringba may add information collected by way of pageview activity. Furthermore, Ringba may collect and process any Personal Data that you volunteer to us in our website’s forms, such as when you request a demo or sign up for information and newsletters. If you provide Ringba with your social media details, Ringba may retrieve publicly available information about you from social media.
 
-    * **[Device information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-device)**
+Such Personal Data may comprise your IP address, first and last name, your postal and email address, your telephone number, your job title, data for social networks, your areas of interest, interest in Ringba products, and certain information about the company you are working for (company name and address), the referring site that lead you to our page or a page with Ringba’s JavaScript placed on it, user agent string, browser type and version, device type, operating system type and version, as well as information as to the type of relationship that exists between Ringba and yourself. Ringba may also use your IP address to extrapolate your approximate geographic location, internet service provider, and other location based data.
 
-We collect [device-specific information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/device-specific-information.html) (such as your hardware model, operating system version, [unique device identifiers](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-unique-device-id), and mobile network information including phone number). Google may associate your [device identifiers](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/device-identifiers.html) or [phone number](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/phone-number.html) with your Google Account. 
+Ringba gathers data about visits to the website, including numbers of Visitors and visits, length of time spent on the site, pages clicked on or where Visitors have come from.
 
-    * **Log information**
+2.2.1 Purpose of Processing Personal Data
 
-When you use our services or view content provided by Google, we automatically collect and store certain information in [server logs](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This includes: 
+Ringba uses the collected data to communicate with Visitors, to customize content for Visitors, to show ads on other websites to Visitors, and to improve its website and 3rd party websites that use the Ringba JavaScript by analyzing how Visitors navigate its website.
 
-      * details of how you used our service, such as your search queries. 
-      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
-      * [Internet protocol address](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip). 
-      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
-      * cookies that may uniquely identify your browser or your Google Account.
-    * **Location information**
+2.2.2 Sharing Personal Data
 
-When you use Google services, we [may collect and process information about your actual location](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/may-collect-and-process-information.html). We use various technologies to determine location, including IP address, GPS, [and other sensors](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/sensors.html) that may, for example, provide Google with information on nearby devices, [Wi-Fi access points and cell towers](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/wifi-access-points-and-cell-towers.html). 
+Ringba may also share such information with service vendors, clients, or contractors in order to provide a requested service or transaction or in order to analyze the Visitor behavior on its website.
 
-    * **Unique application numbers**
+2.2.3 Cookies
 
-Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
+Cookies are small pieces of information sent by a website to a Visitor’s hard disk. Cookies cannot be used to run programs or deliver viruses to your computer. By continuing to visit the website, you agree to the placement of cookies on your device. If you choose not to accept our cookies, we cannot guarantee that your experience will be as fulfilling as it would otherwise be. We may also place cookies from third parties for functional and marketing purposes. The use of cookies is widespread and benefits the surfer.
 
-    * **Local storage**
+2.2.4 Links to Other Sites
 
-We may collect and store information (including personal information) locally on your device using mechanisms such as [browser web storage](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-browser-storage) (including HTML 5) and [application data caches](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-application-data-cache). 
+Please be aware that while visiting our site, Visitors can follow links to other sites that are beyond our sphere of influence. Ringba is not responsible for the content or privacy policy of these other sites.
 
-    * **Cookies and similar technologies**
+2.3 Consumers
 
-We [and our partners](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/our-partners.html) use various technologies to collect and store information when you visit a Google service, and this may include using [cookies or similar technologies](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie) to identify your browser or device. We also use these technologies to collect and store information when you interact with services we offer to our partners, such as [advertising services](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/advertising-services.html) or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyze the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is [linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html).
+Consumers should be aware that in calling phone numbers issued by Ringba, they could be disclosing information that could make them personally identifiable to Ringba Users. The security and privacy protection implemented on Ringba’s platform does not cover this type of transfer or disclosure of personal information. Consumers calling a phone number that may be issued by Ringba and licensed to a Ringba User should be aware that they are making themselves personally identifiable by their phone number’s ‘Caller ID’ and that they are solely responsible for their actions while on the phone with whatever party they requested to speak with. For more detailed information concerning the protection of privacy when calling a Ringba issued phone number may contact the entity they requested to speak with. It is the User’s responsibility to ensure that collection and processing of data is done in accordance with applicable law.
 
+2.3.1 Inquiries
 
+If you wish to inquire about your Personal Data that may have been collected in a phone call through Ringba, we recommend that you contact the entity that you called and spoke with. As Ringba is a Processor in this regard, it does not control the Personal Data used or stored from the call, but processes it on behalf of its User.
 
+2.4 Users
 
-Information we collect when you are signed in to Google, in addition to information we obtain about you from partners, may be associated with your Google Account. When information is associated with your Google Account, we treat it as personal information. For more information about how you can access, manage or delete information that is associated with your Google Account, visit the Transparency and choice section of this policy. 
+2.4.1 General
 
-## How we use information we collect
+In order to provide services to its Users, Ringba collects certain types of data from them. Furthermore, Ringba’s Users collect information from Consumers when call a number issued to a Ringba User. This section will describe how these two types of data are collected and used by Ringba as well as geographical differences that effect this policy. Data entered or transferred into Ringba by Users such as campaign names, target names, publisher names, sub-account information, etc., remains the property of the User and may not be shared with a third party by Ringba without express consent from the User.
 
-We use the information we collect from all of our services to [provide](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/provide-services.html), [maintain](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/maintain-services.html), [protect](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/protect-services.html) and improve them, to [develop new ones](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/develop-new-ones.html), and to [protect Google and our users](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/protect-google-and-our-users.html). We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
+2.4.2 Collection of User Data
 
-We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
+During a User’s registration and later on Ringba’s platform, they provide information such as name, company name, email, address, telephone, credit-card number and other relevant data. This information is used by Ringba to identify the User and provide them with support, services, mailings, sales and marketing actions, billing and to meet contractual obligations.  
+Ringba Users can at any time access and edit, update or delete their contact details by logging in with their username and password to Ringba’s platform. Ringba Users may create more Users with different privilege levels within their account. It is the responsibility of the User that creates other User accounts, to choose the level of access each User should have. Once these new Users log into Ringba, they meet the definition of User in this policy. Ringba will not retain User data longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations.
 
-If you have a Google Account, we may display your Profile name, Profile photo, and actions you take on Google or on third-party applications connected to your Google Account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts. We will respect the choices you make to [limit sharing or visibility settings](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/limit-sharing-or-visibility-settings.html) in your Google Account. 
+2.4.3 Collection of Consumer Data
 
-When you contact Google, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
+Users may issued phone numbers to be used on their behalf or by making them available to relevant businesses, organizations, and individuals. It is the User’s responsibility to ensure that collection and processing of data is done in accordance with applicable law. Ringba will not process Personal Data for other purposes or by other means than instructed by its Users.
 
-We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel), to [improve your user experience](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/improve-your-user-experience.html) and the overall quality of our services. One of the products we use to do this on our own services is Google Analytics. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with [sensitive categories](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-categories), such as those based on race, religion, sexual orientation or health. 
+Consumer data includes data from individuals who called a phone number issued by Ringba, ‘Caller ID’ numbers from Consumers who may have called, and meta-data collected by Ringba JavaScript in some cases. Personal Data may include, personal contact information such as IP address, geographic location information such as country, region, city, state, postal code, latitude, and longitude, internet service provider data, referring URLs, browser header data, user-agent strings, device type, browser type, operating system type, phone provider carrier data and other sensitive Personal Data. Consumers may also disclose personal data inside of a call recording, should a User instruct Ringba to record a call. Call recordings are the property of Ringba Users and should you have questions about the contents of a call recording, please contact the party in which you called.
 
-Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection. 
+The purpose of collecting Personal Data as part of a phone call will vary depending on the User, as set up by Ringba’s Users. As Ringba provides phone numbers to a wide group of customers and businesses, the purpose may vary greatly. For Users in the EEA, or for Users issued phone numbers in the EEA, the User will be the “controller”, as defined in the Directive and the GDPR. The purpose will consequently be defined by Ringba’s User.
 
-We may [combine personal information from one service with information, including personal information, from other Google services](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/combine-personal-information.html) – for example . Depending on [your account settings](https://myaccount.google.com/?hl=en), [your activity on other sites and apps](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/your-activity-on-other-sites-and-apps.html) may be associated with your personal information in order to improve Google’s services and the ads delivered by Google. 
+If you or your organization are required under the European Union’s General Data Protection Regulation (GDPR) to enter into a contract, or other binding legal act under EU or Member State law, with your data processors, review and accept Ringba’s Data Processing Agreement in your Ringba account.
 
-We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
+2.4.4 Geographical Location
 
-Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
+Ringba offers a number of data regions. A Ringba “Data Region” is a set of data centers located within a defined geographical area where User and Consumer data is stored, maintained by Ringba or a 3rd party service provider that acts as Ringba’s data processor. Personal Data is not transmitted between Data Regions. For Ringba Users with accounts located in Ringba’s European Data Region, all Personal Data is processed in the EEA. For Users with accounts in the Data Regions: United States of America (US) and Canada, all Personal Data is processed solely in the respective country. For Users with accounts in our Asia Pacific Data Region, all Personal Data is processed in Singapore.
 
-## Transparency and choice
+2.4.4.1 Processing in the European Economic Area (EEA)
 
-People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
+For Users with accounts located in Ringba’s European Data Region, all processing of Personal Data is performed in accordance with privacy rights and regulations following the EU Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 (the Directive), and the implementations of the Directive in local legislation. From May 25th, 2018, the Directive and local legislation based on the Directive will be replaced by the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data, known as the General Data Protection Regulation (GDPR), and Ringba’s processing will take place in accordance with the GDPR.
 
-  * [Review and update your Google activity controls](https://myaccount.google.com/privacy?hl=en#accounthistory) to decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services. You can also visit these [controls](https://myaccount.google.com/privacy?hl=en#toolsyoucanusenow) to manage whether certain activity is stored in a cookie or similar technology on your device when you use our services while signed-out of your account. 
-  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
-  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also opt out of certain Google advertising services here. 
-  * [Adjust](https://support.google.com/plus/answer/1355890?hl=en) how the Profile associated with your Google Account appears to others. 
-  * [Control](https://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with through your Google Account. 
-  * [Take information](http://www.dataliberation.org/) associated with your Google Account out of many of our services. 
-  * [Choose](https://plus.google.com/settings/endorsements?hl=en) whether your Profile name and Profile photo appear in shared endorsements that appear in ads.
+2.4.4.1.1 Controller
 
+Ringba processes Personal Data both as a Processor and as a Controller, as defined in the Directive and the GDPR:  
+The Ringba entity which you as a User entered an agreement with when using Ringba’s platform, will be the Controller for User data, as outlined above in “Collection of User data” section.
 
+For Consumer data, as outlined in the “Collection of Consumer Data” section, the User will be the Controller in accordance with Directive and GDPR, and Ringba will be the Processor.
 
-You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services [may not function properly](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/may-not-function-properly.html) if your cookies are disabled. For example, we may not remember your language preferences. 
+Ringba adheres to the Directive of 1995 and the GDPR from May 25th, 2018. Consequently, Ringba processes all data provided by its Users with accounts in its European Data Region, in the European Economic Area (EEA) only.
 
-## Information you share
+All data collected by Ringba Users will be stored exclusively in secure hosting facilities provided by Amazon Web Services, Plivo, and Twilio. Ringba has a data processing agreement in place with its providers, ensuring compliance with the Directive. All hosting is performed in accordance with the highest security regulations. All transfers of data internally in the EEA is done in accordance with this data processing agreement.
 
-Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on [sharing](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/sharing.html) and [removing your content](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/removing-your-content.html). 
+2.4.4.2 Processing in North America
 
-## Accessing and updating your personal information
+For Users with accounts in the Ringba North America Data Region, Ringba processes data solely in data centers located in the US. Ringba has adopted reasonable physical, technical and organizational safeguards which substantially mirror the EU safeguards against accidental, unauthorized or unlawful destruction, loss, alteration, disclosure, access, use or processing of the User’s data in Ringba’s possession. Ringba will promptly notify the User in the event of any known unauthorized access to, or use of, the User’s data.
 
-Whenever you use our services, we aim to provide you with [access to your personal information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/access-to-your-personal-information.html). If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
+All data collected by Ringba Users will be stored exclusively in secure hosting facilities provided by Amazon Web Services, Plivo, or Twilio. Ringba’s contract with its hosting provider ensures that all hosting is performed in accordance with the highest security regulations. Ringba’s policy is to protect and safeguard any personal information obtained by Ringba in accordance with United States state or federal laws governing the protection of personal information and data. Accordingly, Ringba adheres to practices and policies that aim to safeguard the data.
 
-We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems). 
+2.4.4.4 Processing in Other Regions
 
-Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+For Users with accounts in our Asian Pacific Data Region, Ringba processes data in data centers throughout Asia, and in the US. Ringba has adopted reasonable physical, technical and organizational safeguards which substantially mirror the EU safeguards against accidental, unauthorized or unlawful destruction, loss, alteration, disclosure, access, use or processing of the Users data in Ringba’s possession. Ringba will promptly notify the User in the event of any known unauthorized access to, or use of, the User’s data.
 
-## Information we share
+All data collected by Ringba Users will be stored exclusively in secure hosting facilities provided by Amazon Web Services, Plivo, or Twilio. Ringba’s contract with its hosting provider ensures that all hosting is performed in accordance with the highest security regulations. Accordingly, Ringba adheres to practices and policies that aim to safeguard the data.
 
-We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies: 
+3 Retention and Deletion
 
-  * **With your consent**
+Ringba will not retain data longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations. For Consumer data, Ringba’s Users have control of the purpose for collecting data, and the duration for which the Personal Data may be kept. For Consumer data, Users with an active account will therefore have the responsibility to delete data when required. When a users’s account is terminated or expired, all Personal Data collected through the platform will be deleted, as required by applicable law.
 
-We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info). 
+4 Acceptance of these Conditions
 
-  * **With domain administrators**
+We assume that all Visitors of our website, Consumers calling phone numbers issued by Ringba and users of Ringba’s platform have carefully read this document and agree to its contents. If someone does not agree with this privacy policy, they should refrain from using our website and platform. We reserve the right to change our privacy policy as necessity dictates. Continued use of Ringba’s website and platform after having been informed of any such changes to these conditions implies acceptance of the revised privacy policy. This privacy policy is an integral part of Ringba’s terms of use.
 
-If your Google Account is managed for you by a [domain administrator](https://support.google.com/a/answer/178897?hl=en) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+5 Our Legal Obligation to Disclose Personal Information
 
-    * view statistics regarding your account, like statistics regarding applications you install. 
-    * change your account password. 
-    * suspend or terminate your account access. 
-    * access or retain information stored as part of your account. 
-    * receive your account information in order to satisfy applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/legal-process.html). 
-    * restrict your ability to delete or edit information or privacy settings.
+We will reveal a user’s personal information without their prior permission only when we have reason to believe that the disclosure of this information is required to establish the identity of, to contact or to initiate legal proceedings against a person or persons who are suspected of infringing rights or property belonging to Ringba or to others who could be harmed by the user’s activities or of persons who could (deliberately or otherwise) transgress upon these rights and property. We are permitted to disclose personal information when we have a good reason to believe that this is legally required.
 
-Please refer to your domain administrator’s privacy policy for more information. 
+6 Contact Ringba Legal Department
 
-  * **For external processing**
+If you have any further questions regarding the data Ringba collects or how we use it, please feel free to contact us by email at: legal@ringba.com or using this contact form.
 
-We provide personal information to our [affiliates](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-affiliates) or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
-
-  * **For legal reasons**
-
-We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
-
-    * meet any applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/legal-process.html). 
-    * enforce applicable Terms of Service, including investigation of potential violations. 
-    * detect, prevent, or otherwise address fraud, security or technical issues. 
-    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
-
-
-
-[non-personally identifiable information](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly [to show trends](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/example/to-show-trends.html) about the general use of our services. 
-
-If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
-
-## Information security
-
-We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
-
-  * We encrypt many of our services [using SSL](https://support.google.com/websearch/answer/173733?hl=en). 
-  * We offer you [two step verification](https://www.google.com/intl/en/landing/2step/) when you access your Google Account, and a [Safe Browsing feature](https://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
-  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
-  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
-
-
-
-## When this Privacy Policy applies
-
-Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
-
-Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
-
-## Compliance and cooperation with regulatory authorities
-
-We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
-
-## Changes
-
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
-
-## Specific product practices
-
-The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
-
-  * [Chrome and Chrome OS](https://www.google.com/chrome/intl/en/privacy.html)
-  * [Play Books](https://play.google.com/books/intl/en/privacy.html)
-  * [Payments](https://wallet.google.com/files/privacy.html?hl=en)
-  * [Fiber](https://fiber.google.com/legal/privacy.html)
-  * [Project Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
-  * [Google Apps for Education](https://www.google.com/work/apps/terms/education_privacy.html)
-
-
-
-For more information about some of our most popular services, you can visit the [Google Product Privacy Guide](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/technologies/product-privacy/). 
-
-Further useful privacy and security related materials can be found through Google’s [policies and principles pages](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/), including: 
-
-  * Information about our [technologies and principles](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/technologies/), which includes, among other things, more information on 
-    * [how Google uses cookies](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/technologies/cookies/). 
-    * technologies we use for [advertising](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/technologies/ads/). 
-    * how we [recognize patterns like faces](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/technologies/pattern-recognition/).
-  * A [page](https://web.archive.org/web/20160630234913id_/https://www.google.com/intl/en/policies/privacy/partners/) that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products. 
-  * The [Privacy Checkup](https://myaccount.google.com/privacycheckup/1?hl=en) tool, which makes it easy to review your key privacy settings. 
-  * Google’s [safety center](https://www.google.com/intl/en/safetycenter/), which provides information on how to stay safe and secure online.
-
-
+_Last Updated: May 25, 2018_
