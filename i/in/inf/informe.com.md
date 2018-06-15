@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informe.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221175203id_/http%3A//informe.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informe.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615182928id_/http%3A//informe.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Informe
 
