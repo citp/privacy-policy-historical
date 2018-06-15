@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highfashionhome.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002616id_/http%3A//www.highfashionhome.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highfashionhome.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615233254id_/http%3A//www.highfashionhome.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ High Fashion Home is commited to protecting the privacy and security of your per
 
 **Information Collection and Use**
 
-In subscribing for a newsletter, you agree that High Fashion Home may use the data you entered to inform you by email about the contents and/or products selected by you. You may revoke your consent at any time with the effect for the future, either by written notice or by email us via our [Contact Us](http://www.highfashionhome.com/customer-care.html "Contact Us Customer Care") form. You may also unsubscribe from any newsletter via the link provided at the end of each newsletter. We transfer your data to our service preoviders only for data administration and hosting purposes.
+In subscribing for a newsletter, you agree that High Fashion Home may use the data you entered to inform you by email about the contents and/or products selected by you. You may revoke your consent at any time with the effect for the future, either by written notice or by email us via our [Contact Us](https://www.highfashionhome.com/customer-care.html) form. You may also unsubscribe from any newsletter via the link provided at the end of each newsletter. We transfer your data to our service preoviders only for data administration and hosting purposes.
 
 High Fashion Home will not collect any personally identifiable information from you except when specifically provided by you. Information will be collected, but not is not limited to the following:
 
@@ -57,7 +57,7 @@ High Fashion Home
 Houston, TX 77006  
   
 **By email** : | [Contact Us  
-](http://www.highfashionhome.com/customer-care.html)  
+](https://www.highfashionhome.com/customer-care.html)  
   
 If our information practices change in the future, we'll post an updated policy on our website. 
 
