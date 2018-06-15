@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the joann.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228142904id_/http%3A//www.joann.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joann.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615113550id_/http%3A//www.joann.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | JOANN
 
-### Privacy Policy
+At JOANN, your trust and satisfaction is a priority. We know that your privacy is important, and that is why we take care to safeguard the confidentiality and security of your information. This Privacy Policy is intended to inform you of our policies and practices regarding our use and disclosure of the information that you submit to us, and the information that we collect from you through our web site, our mobile applications, and in our retail stores.
 
-At Jo-Ann Fabric and Craft Stores™, your trust and satisfaction is a priority. We know that your privacy is important, and that is why we take care to safeguard the confidentiality and security of your information. This Privacy Policy is intended to inform you of our policies and practices regarding our use and disclosure of the information that you submit to us, and the information that we collect from you through our web site, our mobile applications, and in our retail stores.
-
-Whenever we use the words "we" or "us" or “Jo-Ann,” or or “JOANN,” we are referring to Jo-Ann Stores LLC, (doing business as Jo-Ann Fabric and Craft Stores™), and to other affiliates and parent companies of Jo-Ann Stores, LLC, including Joann.com, LLC, which is a wholly owned subsidiary of Jo-Ann Stores, LLC. Whenever we use the words "our web site," we are referring to [http://www.joann.com](http://www.joann.com/).
+Whenever we use the words "we" or "us" or “JOANN,” we are referring to Jo-Ann Stores LLC, (doing business as JOANN), and to the affiliates and parent companies of Jo-Ann Stores, LLC, including Joann.com, LLC, which is a wholly owned subsidiary of Jo-Ann Stores, LLC. Whenever we use the words "our web site," we are referring to [http://www.joann.com](http://www.joann.com/), [http://plus.joann.com](http://plus.joann.com/), and to our mobile application(s) (“app”).
 
 This Privacy Policy is divided into the following sections:
 
@@ -16,7 +14,7 @@ This Privacy Policy is divided into the following sections:
   4. How We Use Personal Information
   5. Our Disclosure of Your Personal Information
   6. Advertising
-  7. Social Network Widgets
+  7. Social Network Widgets; External Ad Blocking
   8. Mobile Applications
   9. How You Can Stop Receiving Communications
   10. Information From Children Under 13
@@ -37,11 +35,11 @@ This Privacy Policy is divided into the following sections:
 
 "Cookies" are small pieces of information that a web site, including our web site, sends to your computer or to your mobile device while you are viewing a web site. We use both session Cookies (which expire after you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personalized and interactive experience on our web site. Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to disable Cookies, some areas of our web site may not work properly.
 
-An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. In some cases, your IP Address stays the same from browser session to browser session, but if you use a consumer internet service provider, your IP Address probably varies from session to session. We track IP Addresses in conjunction with session Cookies to analyze our web page traffic flow and also to identify location of the computer.
+An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer, tablet or other device when you use the Internet / world wide web. In some cases, your IP Address stays the same from browser session to browser session, but if you use a consumer internet service provider, your IP Address probably varies from session to session. We track IP Addresses in conjunction with session Cookies to analyze our web page traffic flow and also to identify location of the computer.
 
-"Personal Information" is information about you that is linked to you as an individual, such as your name, postal address, email address, phone number, full credit card number and expiration date, account username and log-in password to our web site. Personal Information does not include technical information such as unique device identifiers, randomly assigned unique identifiers in cookies, mobile device name, or IP addresses.
+"Personal Information" is information about you that is linked to you as an individual, such as your name, postal address, email address, phone number, full credit card number and expiration date, account username and log-in password to our web site. Personal Information does not include technical information such as unique device identifiers, randomly assigned unique identifiers in cookies, mobile device name or identifier, or IP addresses, unless that technical information is linked to you personally as an identifiable individual by associating the technical information with other Personal Information.
 
-As detailed below, we and our business partners obtain and keep Personal Information when you send us an email, order or purchase product in our stores or on our web site, sign up for one of our preferred customer programs, VIP program, text messaging program or other various programs, supply information to our Career Center, or communicate with us.
+As detailed below, we and our business partners obtain and keep Personal Information when you send us an email, order or purchase product in our stores or on our web site, sign up for one of our preferred customer programs, VIP program, text messaging (SMS) program or other various programs, supply information to our Career Center, or communicate with us.
 
 Back to top
 
@@ -63,7 +61,7 @@ Back to top
 
 The Personal Information that we gather from you helps us learn about our customers and our potential customers. We use this Personal Information to better tailor the features, performance and support of our products, services, stores and web site, and to offer you additional information, if you have consented to receive it.
 
-We (or our business partners, on our behalf) collect and keep Personal Information that you submit to us voluntarily to our web site, through our mobile apps, to our customer service center, in our stores by purchasing product or when enrolling in classes, or through third party websites or emails, in the following ways:
+We (and our business partners, on our behalf) collect and keep Personal Information that you submit to us voluntarily to our web site, through our mobile apps, to our customer service center; in our stores, through so-called "beacon" and other technology, or when you are purchasing product or enrolling in classes; and through third party websites or emails, in the following ways:
 
   * When you register and set up an account on our web site, we collect your name, postal address (shipping address and billing address), telephone number(s), your account username, password, email address, and credit card information (number, type of card [Visa, MasterCard, etc.] and expiration date). 
   
@@ -100,15 +98,18 @@ We (or our business partners, on our behalf) collect and keep Personal Informati
 
   * When you call, email or chat with our customer service, we may collect all or some of the following: name, email address, postal address (shipping address and billing address), telephone number(s), credit card information (number, type of card [Visa, MasterCard, etc.] and expiration date, order number, merchandise to be purchased, other information that you provide during the interaction.
   
+
+  * When you use a mobile telephone in or near our stores, or near a cellular communications tower or other facility or apparatus, we collect the unique identifier of that mobile telephone, the geographic location of the mobile telephone, and any other information associated with that mobile telephone (or mobile telephone number).
+  
   
 
 
-On our web site, we (or our business partners, on our behalf) also collect other information from you automatically, through the use of technology, without you taking steps to submit that information, whenever you use our website for any purpose (shopping, submitting a request to customer service, researching projects and merchandise, searching the career center, etc.), in the following ways:
+On our web site, we (and our business partners, on our behalf) also collect other information from you automatically, through the use of technology, without you taking steps to submit that information, whenever you use our website for any purpose (shopping, submitting a request to customer service, researching projects and merchandise, searching the career center, etc.), in the following ways:
 
   * As you navigate our web site, we collect information including your IP address, browser type, domain names, access times, operating system, and other device identification information.
   
 
-  * We also use Cookies (described in Section 1, “Definitions”), pixels, and navigational data like uniform resource locators (URL) to collect information regarding the date and time of your visit, the products for which you searched and viewed, and the other resources on our web site that you used or visited. In addition, our web site and emails from JOANN may contain code or pixels that cause Cookies to be placed in, or read or modified from, a user's or email recipient's browser cache.
+  * We also use Cookies (described in Section 1), pixels, and navigational data like uniform resource locators (URL) to collect information regarding the date and time of your visit, the products for which you searched and viewed, and the other resources on our web site that you used or visited. In addition, our web site and emails from JOANN may contain code or pixels that cause Cookies to be placed in, or read or modified from, a user's or email recipient's browser cache.
   
 
   * When you access our web site from mobile devices (such as smart phones or tablets), we collect information including access times, the operating system, the products for which you searched and viewed, and the other resources on our web site that you used or visited.
@@ -119,7 +120,7 @@ On our web site, we (or our business partners, on our behalf) also collect other
   
 
 
-In our stores, we (or our business partners, on our behalf) also collect other information from you automatically, through the use of technology, without you taking steps to submit that information, as follows:
+In and near our stores, we (and our business partners, on our behalf) also collect other information from you automatically, through the use of technology, without you taking steps to submit that information, as follows:
 
   * When you enter our store with a mobile device (phone), we collect the following information: the presence of the mobile device, its Media Access Control (MAC) address, the mobile device’s manufacturer (Samsung, LG, Apple, etc.), the mobile device’s signal strength (RSS), and if the device is currently connected to a Wi-Fi network, the name of the network.
   
@@ -140,7 +141,7 @@ Back to top
 
 We use your Personal Information to respond to requests that you make, to help us serve you better, to provide advertisements and marketing to you, and to provide you with a personalized web site experience. If you have signed up to receive email from us or for text messages, we also use your Personal Information to provide you with promotional emails and text messages for our products, and for other marketing and advertising purposes.
 
-For example, based on your shopping habits when you visit our web site (what items you browse, what items you place in your shopping cart, and what items you purchase), or based on your shopping habits when you purchase items in our store, we and our marketing partner(s), on our behalf, may send you personalized advertisements that identify products we think you may be interested in. See Section 6, “Advertising” for more information. We may also use your shopping habits to send you personalized email or text message product alerts.
+For example, based on your shopping habits when you visit our web site (what items you browse, what items you place in your shopping cart, and what items you purchase), or based on your shopping habits when you purchase items in our store, we and our marketing partner(s), on our behalf, may send you personalized advertisements that identify products we think you may be interested in. See Section 6 for more information. We may also use your shopping habits to send you personalized email or text message product alerts.
 
 Personal Information that we collect from a particular browser or device, including a mobile device, may be used with another computer or device that we have linked to the original browser or device, including a mobile device, on which such Personal Information was collected.
 
@@ -162,7 +163,7 @@ We reserve the right to share some or all of your Personal Information with our 
 
 Regardless of any choices you make regarding your Personal Information, we may disclose your Personal Information if we believe in good faith that disclosure is necessary to (a) comply with laws or to respond to subpoenas or other judicial orders served on us, or (b) to protect and defend the rights or property of JOANN or third parties.
 
-To provide offers that are of interest to you, we may allow other companies to place advertisements and other technology on our web site. As a result of your visit to our web site, advertisement server companies may collect information such as your domain type, your IP address, and clickstream information.
+To provide offers that are of interest to you, we may allow other companies to place advertisements and other technology on our web site. As a result of your visit to our web site, advertisement server companies may collect information such as your domain type, your IP address, and clickstream information. See Section 6 for more information.
 
 We may also use and disclose Personal Information for fraud detection and prevention. Personal Information and device identification information may be combined with information from other sources and used by us, or by a third party retained by us, to help detect and prevent fraud, credit card fraud, or other illegal or illegitimate activity. All or part of your Personal Information or device identification information may be kept by us or kept by the third parties involved in fraud detection, and used in future fraud prevention efforts. Information that is believed to be fraudulent may be shared with other retailers, banks, and law enforcement to help prevent illegal activity.
 
@@ -174,17 +175,19 @@ Back to top
 
 ## **6\. Advertising**
 
-We use "interest-based" advertisements, also known as "online behavioral advertising." Online behavioral advertising is advertising that is directed to you based, at least in part, on your Internet browsing behavior. We may share Personal Information with the third parties that conduct advertising campaigns for us. Third parties and their affiliates collect certain information as a result of their "tags" being on our website. The information that they collect includes the name (URL) of the web pages you view while on our site, your IP address, time of visit, information about your browser software, information about your device, and randomly-assigned identifiers stored in Cookies, which they use to target and serve advertising to you. We will use all this information to serve advertising to you.
+We use "interest-based" advertisements, also known as "online behavioral advertising." Online behavioral advertising is advertising that is directed to you based, at least in part, on your Internet browsing behavior. We share Personal Information with the third parties that conduct advertising campaigns for us. Third parties and their affiliates collect certain information as a result of their "tags" and other automated technology being on our website. The information that they collect includes the name (URL) of the web pages you view while on our site, your IP address, time of visit, information about your browser software, information about your device, and randomly-assigned identifiers stored in Cookies, which they use to target and serve advertising to you. We will use all this information to serve advertising to you.
 
-In connection with online behavioral advertising, some third parties involved in advertising operations may maintain their own proprietary consumer databases that allow them to personally identify or track website visitors. Other third parties have proprietary technologies to determine what additional devices you may use, and they may then display advertisements on those additional devices.
+In connection with online behavioral advertising, some third parties involved in advertising may maintain their own proprietary consumer databases that allow them to personally identify or track website visitors. Other third parties have proprietary technologies to determine what additional devices you may use, and they may then display advertisements on those additional devices.
 
 Do-Not-Track is a public-private initiative that has developed a “flag” or signal that an internet user may activate in the user’s browser software to notify websites that the user does not wish to be “tracked” by third parties as defined by the initiative. For more information, visit [http://www.w3.org/](http://www.w3.org/).  As explained below, some web sites, including our web site, will ignore a “do-not-track” signal.
 
-As required by Section 22575 of the California Business and Professions Code, the following disclosure is made to California residents and to residents of other states: Our web site does not alter its behavior or change its services when it receives a “do-not-track” flag or signal from your browser. As described in Section 3, “How We Collect Personal Information,” we use Cookies and other tools to collect information about you when you visit our web site to better tailor the features, performance and support of our products, services, stores, and web site. After you leave our web site, we do not track your online activity on other web sites, but third parties (and their affiliates) may track your online activity to offer you advertisements.
+As required by Section 22575 of the California Business and Professions Code, the following disclosure is made to California residents and to residents of other states: Our web site does not alter its behavior or change its services when it receives a “do-not-track” flag or signal from your browser. As described in Section 3, we use Cookies and other tools to collect information about you when you visit our web site to better tailor the features, performance and support of our products, services, stores, and web site. After you leave our web site, we do not track your online activity on other web sites, but third parties (and their affiliates) may track your online activity to offer you advertisements.
 
-You can make decisions about your privacy and the ads you receive. You can control whether companies serve you on-line behavioral advertising by visiting the Digital Advertising Alliance website and using its opt-out: [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/). The DAA opt-out requires that cookies not be blocked in your browser. As explained in section 11, we do not represent or warrant that the actions taken on other web sites will be effective.
+You can make decisions about your privacy and the ads you receive. To some extent you can control whether companies serve you on-line behavioral advertising by visiting the Digital Advertising Alliance website and using its opt-out: [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/). The DAA opt-out requires that cookies not be blocked in your browser. You may also visit the web site of the Network Advertising Initiative and use its opt-out: https://www.networkadvertising.org/. Different companies may belong to one or more advertising organizations, and opting out from one or more groups may not stop all interest-based advertisements. As explained in Section 11, we do not represent or warrant that the actions taken on other web sites will be effective or that all advertisements will be blocked.
 
-For mobile devices and applications, you can visit the following website to opt-out of behavioral advertising: [http://www.aboutads.info/appchoices](http://www.aboutads.info/appchoices). As explained in section 11, we do not represent or warrant that the actions taken on other web sites will be effective.
+For mobile devices and applications, you can visit the following website to opt-out of behavioral advertising: [http://www.aboutads.info/appchoices](http://www.aboutads.info/appchoices). As explained in Section 11, we do not represent or warrant that the actions taken on other web sites will be effective or that all advertisements will be blocked. See also Section 8 for more information on mobile applications, geo-location tracking, and opt-outs.
+
+Opt-outs are unique to each mobile device or web browser. An opt-out completed on a specific web browser will not transfer to other browsers or to your mobile device. An opt-out completed on your mobile device will not transfer to a different mobile device or to web browsers.
 
 As an alternative to the DAA opt-out, you can also elect to block all Cookies from first parties (such as those from our website) and Cookies from third parties (such as advertisers) by using the cookie blocking options built into your browser software. For example, in Internet Explorer 9, you can block both first-party and third-party cookies by selecting those options at Tools/Internet Options/Privacy/Settings-Advanced/Override Automatic Cookie Handling. Also, if you are using Firefox 25, you can "uncheck" Accept All Cookies under Firefox Preferences/Privacy-Use Custom Settings For History/Accept Cookies from Sites. If you block Cookies, some parts of our website may not function correctly. We do not represent or warrant that these actions will be effective to accomplish their purpose.
 
@@ -194,9 +197,11 @@ Back to top
 
 * * *
 
-## **7\. Social Network Widgets**
+## **7\. Social Network Widgets; External Ad Blocking**
 
 Our website may include social network or other third–party plug–ins and widgets that may provide information to their associated social networks or third-parties about your interactions with our web pages that you visit, even if you do not click on or otherwise interact with the plug-in or widget. Information is transmitted from your browser and may include an identifier assigned by the social network or third party, information about your browser type, operating system, device type, IP address, and the URL of the web page where the plug-in or widget appears. If you use social network tools or visit social networking sites, you should read their privacy disclosures, to learn what information they collect, use, and share.
+
+Our website includes an external advertisement blocking service that attempts to block advertisements and other “pop-ups” that are not authorized by us when visitors come to our web site. We apologize for any inconvenience this may cause you while visiting our web site. We make no representation or warranty that the service will stop any or all unauthorized advertisements or pop-ups while visiting our web site.
 
 Back to top
 
@@ -204,7 +209,7 @@ Back to top
 
 ## **8\. Mobile Applications**
 
-In order to improve your shopping experience and to make shopping with coupons and locating our stores easier, we make mobile applications available. In addition to collecting and sharing information as described in this Privacy Policy, we also collect information you provide through the mobile app when you log in, such as your email address. We also collect information regarding the type of mobile device, operating system version, IP address, geo-location, device name, and unique device identifiers. See also Section 3 for additional information that we collect.
+In order to improve your shopping experience and to make shopping with coupons and locating our stores easier, we make mobile applications available. In addition to collecting and sharing information as described in this Privacy Policy, we also collect information you provide through the mobile app when you log in, such as your email address. We also collect information regarding the type of mobile device, operating system version, IP address, geo-location, device name, and unique device identifiers. See also Section 3 for additional information that we collect. If you do not want your geo-location information to be collected, you can go to “settings” or similar function of your mobile device and disable the location feature. In addition, you can visit the following website and opt-out of some geo-location tracking by the participating companies: [https://optout.smart-places.org/](https://optout.smart-places.org/).
 
 Back to top
 
@@ -220,7 +225,7 @@ On our web site, you may change any of the Personal Information in your account 
 
 If you need help please contact us.
 
-Jo-Ann Fabric and Craft Stores  
+JOANN  
 Attn: Manager of Customer Service  
 5555 Darrow Road  
 Hudson, OH 44236  
@@ -252,7 +257,7 @@ Back to top
 
 ## **12\. Security**
 
-Our web site has implemented electronic means of protecting your Personal Information. Even though we have taken steps to ensure that your Personal Information is not accessed, used, or disclosed by unauthorized persons, you should know that we cannot fully eliminate security risks associated with Personal Information. Please [click here](http://www.joann.com/safe-shopping.html) to see information about safe shopping on our web site.
+Our web site has implemented electronic means of protecting your Personal Information. Even though we have taken steps to ensure that your Personal Information is not accessed, used, or disclosed by unauthorized persons, we cannot fully eliminate security risks associated with Personal Information. Please [click here](http://www.joann.com/safe-shopping.html) to see information about safe shopping on our web site.
 
 Back to top
 
@@ -270,7 +275,7 @@ Back to top
 
 If you have questions regarding this Privacy Policy, please contact us at:
 
-Jo-Ann Fabric and Craft Stores  
+JOANN  
 Attn: Senior Legal Counsel  
 5555 Darrow Road  
 Hudson, OH 44236  
@@ -292,6 +297,6 @@ Back to top
 
 This Privacy Policy is subject to revision and changes. If you object to any changes, you must stop doing business with us, including business on our web site. Your continued use of our web site, or your continued business with us at our stores, will indicate your acknowledgment of the changes and agreement to be bound by the terms and conditions of the Privacy Policy, as revised.
 
-This policy was last updated inOctober, 2016.
+This policy was last updated in January, 2018.
 
 Back to top
