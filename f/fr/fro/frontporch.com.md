@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214125110id_/http%3A//www.frontporch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615112031id_/http%3A//www.frontporch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Telecom Subscriber Engagement Solutions
 
@@ -40,10 +40,6 @@ Our web site is not intended for use by children under the age of 13.  We do no
 
 Front Porch, Inc. has put in place reasonable physical, administrative and technical security measures to help prevent unauthorized access to the information we collect online.  However, no web site or data system can be completely secure.  Although we take reasonable steps to secure your information, we do not guarantee and you should not expect that your personal information, searches, or other communications will always remain secure.
 
-#### Website Publisher’s Choice
-
-As the owner or the webmaster of a domain, you can determine if Internet provider messages to their subscribers can be served alongside your content. To learn more or activate that choice, [click here](https://web.archive.org/web/20171214125110id_/http://www.frontporch.com/publishers-choice "Website Publisher’s Choice").
-
 #### Changes to this Policy
 
 Front Porch, Inc. may modify this Privacy Policy at any time.  Changes to this Policy will be posted on the Front Porch, Inc. web site and we will revise the “effective date” at the top of this Policy.
@@ -57,5 +53,5 @@ California residents, like all Front Porch, Inc. web site users, may request tha
 If you have questions, comments, or concerns regarding our Privacy Policy, please write to us:
 
 Front Porch, Inc.  
-14520 Mono Way, Suite 200  
+905 Mono Way  
 Sonora, CA 95370
