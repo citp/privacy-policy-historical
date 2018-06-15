@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joketoyou.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206073118id_/http%3A//www.joketoyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joketoyou.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616004151id_/http%3A//www.joketoyou.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Joke To You
 
