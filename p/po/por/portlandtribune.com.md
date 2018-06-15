@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222224918id_/http%3A//pamplinmedia.com/component/content/article/113-internal-information/contact-us/111170-pamplin-media-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandtribune.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616011729id_/http%3A//pamplinmedia.com/component/content/article/113-internal-information/contact-us/111170-pamplin-media-group-privacy-policy) for the most accurate reproduction.*
 
 # Pamplin Media Group - Pamplin Media Group
 
