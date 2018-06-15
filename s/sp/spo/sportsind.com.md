@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sportsind.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107171125id_/http%3A//www.sportsind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsind.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615140843id_/http%3A//sportsind.com//privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the exact manner in which our site **Sports Ind**  ** ** uses, collects, maintains and discloses the information gathered from the readers (each, a “User”) of the http://www.sportsind.com/ website (“Site”). This privacy policy applies to the entire website and all products and services offered by the **Sports Ind** **.**
+This Privacy Policy governs the exact manner in which our site **Sports Ind**  ** ** uses, collects, maintains and discloses the information gathered from the readers (each, a “User”) of the http://sportsind.com// website (“Site”). This privacy policy applies to the entire website and all products and services offered by the **Sports Ind** **.**
 
 **What information do we gather from our readers?**
 
