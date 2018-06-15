@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themighty.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231105347id_/https%3A//themighty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themighty.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616002403id_/https%3A//themighty.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Mighty
 
@@ -18,7 +18,7 @@ Like many websites, we use “cookies” to collect information. A cookie is a s
 We also may use the services of third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/optout_nonppii.asp.
 
 Children’s Privacy  
-We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact community@themighty.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
 
@@ -57,4 +57,4 @@ LINKS TO OTHER SITES
 The Site and Services may contain links to other websites. If you choose to visit an advertiser by “clicking on” any type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present an advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
 CONTACT US  
-If you have any questions about this Privacy Policy you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You may also contact us by mail at 4834 Cheryl Ave., La Crescenta CA 91214.
+If you have any questions about this Privacy Policy you can contact us at community@themighty.com You may also contact us by mail at 4834 Cheryl Ave., La Crescenta CA 91214.
