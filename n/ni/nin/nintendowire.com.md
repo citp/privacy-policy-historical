@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendowire.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831030400id_/https%3A//nintendowire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendowire.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615035604id_/https%3A//nintendowire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Nintendo Wire
 
@@ -25,12 +25,14 @@ Google is one of a third-party vendor on our site. It also uses cookies, known a
 Some of the advertisers on our site may use cookies and web beacons. Our advertising partners include:
 
   * Google
+  * Amazon
+  * CJ Affiliates (ThinkGeek and Build-A-Bear)
 
 
 
 Each of our advertising partners has its own Privacy Policy for their website. For easier access, an updated and hyperlinked resource is maintained here:
 
-Nintendo Wire is also a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.
+Nintendo Wire is also a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon. 
 
 ### Privacy Policies
 
