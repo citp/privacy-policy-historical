@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crytek.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224142755id_/http%3A//crytek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crytek.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615092143id_/http%3A//www.crytek.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Crytek
 
@@ -7,6 +7,8 @@
 ### I. CRYTEK Privacy Policy: Introduction
 
 CRYTEK GmbH and its subsidiary companies (CRYTEK) respect the privacy rights of consumers and recognize the importance of protecting the information collected about you. We have adopted this global Privacy Policy to explain how we store and use personal and non-personal information we collect online on our websites, during your use of our online products and/or services (including online game play) and on mobile platforms.
+
+Controller in Terms of Art. 4No. 7 General Data Protection Regulation (GDPR) is: Crytek GmbH, Hugo-Junkers-Str. 3, 60386 Frankfurt am Main, Germany, Managing Directors: Avni Yerli, Faruk Yerli, Ahmet Sahin, phone number available on request, Fax: 00 49 69 - 219 7766 – 99, [http://www.crytek.com](http://www.crytek.com/ "http://www.crytek.com"), infocrytek.de.
 
 ### II. What is Personal Information and when does CRYTEK collect It?
 
@@ -109,3 +111,27 @@ Members may register for other services from our site(s). Certain products and/o
 ### XI. Contact Information
 
 If you have questions or concerns regarding this statement, you should contact the CRYTEK Privacy Policy Administrator at [](mailto:privacy@crytek.de)[privacy[at]crytek.de](mailto:privacy@crytek.de).
+
+### XII. Your Rights
+
+At any time you have the right to:
+
+Request a copy of the data we have stored for your person, for the receiver or category of receivers of your transmitted personal for the purpose of storing.
+
+Request that your data be deleted or corrected, in the case that you have changed your mind or the data is incorrect (as far as possible according to applicable law).
+
+Object to the further processing or demand a restriction concerning the processing of your personal data.
+
+Withdraw a given consent.
+
+Request to port your personal data.
+
+Lodge a complaint with a supervisory authority.
+
+To contact us about any of these things, please email our Data Protection Officer: [privacy[at]crytek.de](mailto:privacy@crytek.de)
+
+PLEASE NOTE: If you object, restrict, or otherwise refuse the processing of your personal data mentioned above and/or ask us for a deletion, the use of our website may be restricted.
+
+VIII. Contact Information
+
+If you have questions or concerns regarding this statement, please contact the Crytek Data Protection Officer at [privacy[at]crytek.de](mailto:privacy@crytek.de).
