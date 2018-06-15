@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the celebjihad.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830223603id_/https%3A//www.celebjihad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebjihad.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615194014id_/https%3A//www.celebjihad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This “Privacy Policy” describes what information is collected, and how it is used, when you visit CelebJihad.com.  
+This “Privacy Policy” is provided by **Celeb Jihad’s owner** to describe what information is collected, and how it is used, when you visit CelebJihad.com.  
 
 
   
