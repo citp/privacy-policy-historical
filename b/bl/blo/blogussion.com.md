@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogussion.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009034755id_/http%3A//www.blogussion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogussion.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615163025id_/http%3A//www.blogussion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
