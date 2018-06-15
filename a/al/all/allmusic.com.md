@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114135551id_/http%3A//www.allmusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615231948id_/https%3A//www.allmusic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllMusic
 
@@ -155,6 +155,14 @@ Your personal information may be used by us and our affiliates, subsidiaries and
 BACK TO TOP
 
 ## Your Rights
+
+### GDPR Rights.
+
+Users residing in certain countries, including the EU, are afforded certain rights regarding their personal information. Except where an exception or exemption applies, these rights include the ability to access and request deletion of your personal information. While these rights are not applicable globally, users from the EU can manage their personal information by following the links below.
+
+[Delete/Opt-Out](https://web.archive.org/opt-out)
+
+[Access/Retrieve Personal Information](https://web.archive.org/retrieval)
 
 ### Your European Privacy Rights.
 
