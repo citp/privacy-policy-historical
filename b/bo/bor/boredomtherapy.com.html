@@ -1,30 +1,30 @@
-<!--The following is the downloaded HTML source of the boredomtherapy.com privacy policy that was archived on 2017-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171230055238id_/http%3A//boredomtherapy.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boredomtherapy.com privacy policy that was archived on 2018-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180615210924id_/http%3A//boredomtherapy.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--TWIG BASED--><head>
     <meta charset="UTF-8">
     
     <title>Privacy Policy | Boredom Therapy</title>
-                <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
-                (function () {
-                    var a = document.createElement('a');
-                    a.href = document.referrer;
-                    var referrer = a.hostname;
-
-                    var hosts = JSON.parse('[]')
-
-                    for (host in hosts) {
-                        if (host == referrer) {
-                            var url = window.location.href.split('?')[0] + '?as=' + hosts[host];
-                            window.location.assign(url);
-                        }
-                    }
-                })();
-            </script>
-            <script type="text/javascript">var adblock = true;</script>
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var adblock = true;</script>
 <script type="text/javascript" src="http://boredomtherapy.com/wp-content/themes/boredom/modules/front/js/btAdBlockDetector/adframe.js"></script>
+            <script>
+              (function () {
+                var a = document.createElement('a');
+                a.href = document.referrer;
+                var referrer = a.hostname;
 
-<meta id="bt_version" bt_server="web12" bt_version="1.138.2.1" bt_date="2017-12-30 05:52:38" pas="844425199633184_69475394125836_8972015000092672_41903533903977" cache="file" tbc="78066" db_server="Prod Master DB2">
+                var hosts = JSON.parse('{"aol.com":"70","w.main.welcomescreen.aol.com":"70","facebook.com":"6","www.facebook.com":"6","m.facebook.com":"6"}')
+
+                for (host in hosts) {
+                  if (host == referrer) {
+                    var url = window.location.href.split('?')[0] + '?as=' + hosts[host];
+                    window.location.assign(url);
+                  }
+                }
+              })();
+            </script>
+            
+<meta id="bt_version" bt_server="web15" bt_version="1.162.3" bt_date="2018-06-15 21:09:24" pas="844425203827488_69475394125828_8972015000092672_4545503161274473_6755399441055744_1" cache="file" tbc="83534" db_server="Prod Slave DB3">
 <!-- This site is optimized with the Yoast SEO plugin v5.8 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://boredomtherapy.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
@@ -43,9 +43,9 @@
 
 <link rel="dns-prefetch" href="//boredomtherapy.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="Boredom Therapy » Privacy Policy Comments Feed" href="http://boredomtherapy.com/privacy-policy/feed/">
 <script>
 window.bt = window.bt || {};
+bt.page = '1';
 function matchDeviceType(deviceType) {
  var s = (window.innerWidth > screen.width ? screen.width : window.innerWidth);
  var isMobile = (s < 768);
@@ -70,15 +70,27 @@ function getDeviceNameOrLetter(n) {
     if (bt.isDesktopX) return n ? 'desktopx' : 'DX';
     if (bt.isDesktop) return n ? 'desktop': 'D';
 }
+bt.byDevice = function(m,t,d) {return bt.isMobile ? m : bt.isDesktop ? d : t;}
 bt.deviceLetter = getDeviceNameOrLetter(false);
 bt.deviceFullName = getDeviceNameOrLetter(true);
+bt.devNamL = bt.byDevice('M','T','D');
 bt.playWire = { 
     mobile: '',
     desktop: '',
     tablet: ''
 };
 
-</script>
+</script>    <script type="text/javascript" src="//cloudfront.loggly.com/js/loggly.tracker-latest.min.js" async=""></script>
+    <script>
+      var _LTracker = _LTracker || [];
+//      _LTracker.push({
+//        'logglyKey': 'fcca4085-03cb-4d8b-baf2-e541b5dd7ebd',
+//        'sendConsoleErrors': true,
+//        'tag': 'loggly-jslogger'
+//      });
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="Boredom Therapy » Privacy Policy Comments Feed" href="http://boredomtherapy.com/privacy-policy/feed/">
+
 <script type="text/javascript">
 window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 function sendPrebidGA(uval) {
@@ -93,14 +105,18 @@ var s = (window.innerWidth > screen.width ? screen.width : window.innerWidth);
     var myAdblock = String(adblock);
     var referrer = document.referrer || 'Direct';
     var isPlayWire = ((bt.playWire.mobile && bt.isMobile) || (bt.playWire.desktop && bt.isDesktop) || (bt.playWire.tablet && tabletMode)) ? 'true' : 'false';
+    var cr = ((false && !bt.isMobile) || (false && bt.isMobile) || (false && !bt.isMobile) || (false && bt.isMobile) || (false && !bt.isMobile)) ? 'yahoo' : 'none';
+    var presentationMode = bt.fbs ? 'single' : 'article';
+    var storyType = (bt.fbns && (bt.fbscr || bt.fbs)) ? 'Infinite Stories' : 'Single Story';
     ga('create', 'UA-47763670-1', 'auto');    
 
     
     
     
-    var dimensions = ['default','z','844425199633184_69475394125836_8972015000092672_41903533903977','empty','','','','1.138.2.1',referrer,'none',
+    var dimensions = ['high','z','844425203827488_69475394125828_8972015000092672_4545503161274473_6755399441055744_1','empty','','','','1.162.3',referrer, cr,
         'empty','empty','','1',bt.deviceFullName,'non-hidden','7518',myAdblock,'',canonical,
-        'empty','NAT','07/27/14','false','','article', '', isPlayWire, 'No_Prebid'];
+        'empty','NAT','07/27/14','false','',presentationMode, '', isPlayWire, 'No_Prebid', 'not_assigned',
+        'not_assigned', 'not_assigned', 'not_assigned', 'no_ad', storyType, '1'];
     dimensions.forEach(function(dim,i){
         if (dim !== '') {ga('set','dimension'+(i+1),dim);} 
     });
@@ -124,13 +140,23 @@ var s = (window.innerWidth > screen.width ? screen.width : window.innerWidth);
     	<meta property="article:category" content="Video">
 	
 <script data-cfasync="false" id="bt-js-obj">
+function applySpinner(divId) {
+  if (!bt.adSp) {
+     bt.adSp = [] 
+  }
+  bt.adSp.push(divId)
+}
 function hideAll(adId,divId) {
  var el = document.getElementById(divId);
  if (el) {el.style.display = 'none';}
  hideRels(adId);
 }
 function hideOrShowAd(adId,divId) {
- if (bt['pa' + adId]){googletag.cmd.push(function(){googletag.display(divId);});return;}
+ if (bt['pa' + adId]) {
+    applySpinner(divId);
+    googletag.cmd.push(function(){googletag.display(divId);});
+    return;
+  }
  //else
  hideAll(adId,divId);
 }
@@ -152,10 +178,8 @@ bt.isHcDesign = false;
 bt.isBtDesign = true;
 bt.isAggr = false;
 bt.isSlideShow = false;
-bt.devNamL = bt.isMobile ? 'M' : bt.isTablet ? 'T' : 'D';
-
 bt.isTrackShares = true;
-bt.isAppendParamLogicForTrackShares = false; 
+bt.isAppendParamLogicForTrackShares = true; 
 bt.ajaxurl = "http://boredomtherapy.com/wp-admin/admin-ajax.php";
 bt.isFirstGalPage = false;
 bt.gamesTracker = '1';
@@ -215,6 +239,30 @@ bt.refSNames = [
     "486572204d6f6d656e7473",
     "4c696b6520537769667479"
 ];
+//Cookies.js
+bt.getCookie = function (cname) {
+    var name = cname + '=';
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') c = c.substring(1);
+        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+    }
+    return '';
+}
+
+bt.setCookie = function (cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires=" + d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires;;
+}
+
+bt.deleteCookie = function (cname) {
+    bt.setCookie(cname, '', -1);
+}
+
+
 //first-page.js
 bt.isFirstPage = function () {//if no path, no as source, no pg or pg is 1
     var pgparam = getUrlParam('pg');
@@ -329,15 +377,15 @@ window.getUrlParByPref = function (prefix){ //get url parameter name value by na
 };
 
 function getAllUrlParams() {
-    var queryParams = ['pas', 'as', 'as-source', 'shr', 'crf', 'bdk', 'adv_txt', 'adv_img', 'utm_'];
+    var queryParams = ['pas', 'as', 'as-source', 'shr', 'crf', 'bdk', 'adv_txt', 'adv_img', 'utm_', 'ch', 'bt_debug', 'adsbox'];
     var queryString = location.search.slice(1);
     var queryParamFiltering = function(prev, curr) {
         var kvp = curr.split('=');
         var key = kvp[0];
-        var val = decodeURIComponent(kvp[1]);
+        var val = (kvp.length > 1) ? decodeURIComponent(kvp[1]) : '';
         var index = queryParams.indexOf(key);
         var isNoUtmParamInUrl = (key.indexOf('utm_') === -1);
-        if (kvp.length !== 2 || (index === -1 && isNoUtmParamInUrl)) { return prev; }
+        if ((kvp.length !== 2 && curr !== 'adsbox') || (index === -1 && isNoUtmParamInUrl)) { return prev; }
         // else
         if (key === 'crf' && val.indexOf('src_') === -1) { val = 'src_' + val; }
         // else
@@ -368,11 +416,10 @@ bt.gs.pageSpeedOpti.check = function(section, feature){
 };
 bt.getUrlparamValue = getUrlparamValue;
 bt.getUrlParByPref = getUrlParByPref;
-bt.page = '1';
 bt.showBigFacebookBtn = '';
 bt.affiliateDomains = 'shapr,amazon,anrdoezrs,performance,clickbank,c1224xv6gode1wb9thgdmehn75,shareasale,pntrac,joyus,shop,games,facebook,games.boredomtherapy';
 bt.crNewTab = '';
-bt.estTime = String((0 % 2 == 0) ? 0 : 0 - 1);
+bt.estTime = String((17 % 2 == 0) ? 17 : 17 - 1);
 bt.permalink = 'http://boredomtherapy.com/privacy-policy/';
 var refs = '';
 function conv( str ) { return String.fromCharCode(parseInt( str, 16 )); }
@@ -397,9 +444,12 @@ function getUrlPathSection(sectionIndex) {
 </script>
     <link rel="icon" href="//boredomtherapy.com/wp-content/themes/mainsite/images/favicon.png?ver=1.1" type="image/x-icon">
     <link rel="apple-touch-icon" href="//boredomtherapy.com/wp-content/themes/mainsite/images/favicon.png?ver=1.1">
-    <link rel="stylesheet" id="bt-site-style-css" href="http://boredomtherapy.com/wp-content/themes/mainsite/css/style.css?ver=1.138.2.1" type="text/css" media="all">
+    <link rel="stylesheet" id="bt-site-style-css" href="http://boredomtherapy.com/wp-content/themes/mainsite/css/style.css?ver=1.162.3" type="text/css" media="all">
 <script type="text/javascript">
  
+bt.idsPa = function(ar){return ar.filter(function(id){return bt["pa" + id];})}
+bt.adsAFX = function(s,idsF){return idsF.map(function(id){var o = bt[s+id];if (!o){return null} return o}).filter(function(o){return o})}
+
 bt.hbQ = [];
 bt.hbOn = function(){
  bt.inHb = true;
@@ -411,6 +461,9 @@ bt.hbOff = function(){
   setTimeout(fun,1);
  }
 };
+bt.setToHbOff = function(){
+  setTimeout(bt.hbOff,1);
+};
 bt.canHbOrQ = function(fun){
  if (!bt.inHb){ return true}
  if (fun){bt.hbQ.push(fun);} 
@@ -420,12 +473,14 @@ bt.canHbOrQ = function(fun){
 </script>
 <script type="text/javascript" id="bts_dfp">
 bt_site_id = 0;window.googletag = window.googletag || {};googletag.cmd = googletag.cmd || [];
+bt.idsA=[];bt.oA={};bt.dI={};
+bt.aR = function(ar){var is1=!ar; googletag.pubads().refresh(ar)};
 function setC(n,s,d,c,id,out) {
   var o = null;
   if (out) {o = googletag.defineOutOfPageSlot(n,d);}
   else {o = googletag.defineSlot(n,s,d);}
   if (!o) {return null;}
-  bt['a' + id] = o;  o.addService(googletag.pubads());
+  if (!bt['a' + id]){bt['a' + id] = o;bt['d' + id] = d;bt.idsA.push(id);}bt.oA[d]=o;bt.dI[d]=id;var cc = bt['cc'+id];if(cc&&cc.sf){cc.sf(d)}   o.addService(googletag.pubads());
   switch(c) {
     case 1:
         o.setCollapseEmptyDiv(true,true);
@@ -442,13 +497,12 @@ function setC(n,s,d,c,id,out) {
   return o;
 }
 
-function resetFresh(isF) {
+function resetFresh() {
   bt.fresh = false;
   bt.pReady = false;
   bt.aReady = true;
-  bt.isAF = isF;
 }
-resetFresh(false);
+resetFresh();
 
 function onTimeoutNoHB(){
 
@@ -465,14 +519,16 @@ setTimeout(onTimeoutNoHB,1000);
 })();
 </script>
 <script type="text/javascript" src="http://boredomtherapy.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="http://boredomtherapy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://boredomtherapy.com/wp-content/themes/boredom/js/common.js?ver=1.138.2.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var api_dialog = {"is_error_php":"0","is_error_js":"0","is_on":"1","home":"http:\/\/boredomtherapy.com\/wp-content\/themes\/mainsite","facebook":{"is_on":0,"id":"810246545721499","url":"https:\/\/www.facebook.com\/BoredomTherapy\/","facebook_popup":{"after_share":{"is_on":1,"displayed_already":0,"times_popped":0},"after_video_end":{"is_on":1,"displayed_already":0,"times_popped":0},"after_video_pause":{"is_on":0,"displayed_already":0,"times_popped":0}}},"google":{"data":{"layout_listener":{"is_on":0}}}};
+var api_dialog = {"is_error_php":"0","is_error_js":"0","is_on":"1","ui_settings":{"letter_spacing":{"mobile":[0,"off"],"desktop":[0,"off"]},"font_size_post_content":{"mobile":[0,"off"],"desktop":[0,"off"]},"font_size_post_title":{"mobile":[0,"off"],"desktop":[0,"off"]},"font_size_post_image":{"mobile":[0,"off"],"desktop":[0,"off"]}},"home":"http:\/\/boredomtherapy.com\/wp-content\/themes\/mainsite","facebook":{"is_on":0,"id":"810246545721499","url":"https:\/\/www.facebook.com\/BoredomTherapy\/","facebook_popup":{"after_share":{"is_on":1,"displayed_already":0,"times_popped":0},"after_video_end":{"is_on":1,"displayed_already":0,"times_popped":0},"after_video_pause":{"is_on":0,"displayed_already":0,"times_popped":0}}},"google":{"data":{"layout_listener":{"is_on":0}}},"htp_social_disable":{"is_on":0}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://boredomtherapy.com/wp-content/themes/boredom/modules/classes/btYoutube/youtube-twig-events.js?ver=1.138.2.1"></script>
+<script type="text/javascript" src="http://boredomtherapy.com/wp-content/themes/boredom/js/common.js?ver=1.162.3"></script>
+<script type="text/javascript" src="http://boredomtherapy.com/wp-content/themes/boredom/modules/js/in_viewport.min.js?ver=1.162.3"></script>
+<script type="text/javascript" src="http://boredomtherapy.com/wp-content/themes/boredom/modules/js/in-view.js?ver=1.162.3"></script>
+<script type="text/javascript" src="http://boredomtherapy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://boredomtherapy.com/wp-content/themes/boredom/modules/classes/btYoutube/youtube-twig-events.js?ver=1.162.3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black">
 <link rel="https://api.w.org/" href="http://boredomtherapy.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://boredomtherapy.com/xmlrpc.php?rsd">
@@ -482,15 +538,12 @@ var api_dialog = {"is_error_php":"0","is_error_js":"0","is_on":"1","home":"http:
 <link rel="alternate" type="application/json+oembed" href="http://boredomtherapy.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fboredomtherapy.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://boredomtherapy.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fboredomtherapy.com%2Fprivacy-policy%2F&amp;format=xml">
 			<meta property="fb:pages" content="200990963441531">
-			
-<script>
-bt.stickySidebarBottomSelector = '.footer-mailing-wrap';
-</script>
-            <style>
-                .post-content.post-excerpt label {
-                    color: #2980CE                }
-            </style>
-			<meta name="visibility_mode" content="non-hidden"><meta name="google-site-verification" content="g1qylpDKApP5cN9-UdjZc6itH9508rvR5NplNDGouKU">
+			    <style id="dynamic-css"></style>
+    <meta name="visibility_mode" content="non-hidden">        <style>
+            .post-content.post-excerpt label {
+                color: #2980CE            }
+        </style>
+        <meta name="google-site-verification" content="g1qylpDKApP5cN9-UdjZc6itH9508rvR5NplNDGouKU">
 
 <script>
 jQuery().ready(function($) {
@@ -498,11 +551,10 @@ jQuery().ready(function($) {
     // else
 //    $('.bottom-share').appendTo('.header-bg');
     
-    $('.bottom-share').clone().show().appendTo('.header-bg')
+    $('.bottom-share').clone().removeClass('fb-bottom-share').show().appendTo('.header-bg')
 });
 </script>
-
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:'ca-pub-8364108255499500',enable_page_level_ads:true,inserts:{google_ad_channel: '8002428675'}});</script>	<script>
+	<script>
 		if ((screen.width >= 768) && (screen.width < 1110)) {
 			viewport = document.querySelector("meta[name=viewport]");
 			viewport.setAttribute('content', 'width=device-width, initial-scale=1'/*+screen.width/1110*/);
@@ -513,146 +565,141 @@ var boredom_permalink = 'http://boredomtherapy.com/privacy-policy/';
 var boredom_title = 'Privacy Policy';
 	</script>
 
-		<script>
+	
+<script>
+bt.stickySidebarBottomSelector = '.footer-mailing-wrap';
+</script>
+    <script>
 
-        var bt_fb_app_id = '810246545721499';
-        var bt_twitter_account = 'boredomtherapy';
-        
-        function loadSocial() {
-            var WaitForFunction = function (func, todo) {
-                if (!$.isFunction(func)) {
-                    setTimeout(WaitForFunction, 100);
-                    return;
-                } else todo;
-            }
-            
-            window.fbAsyncInit = function () {
-                FB.init({
-                    appId: 810246545721499,
-                    status: true,
-                    xfbml: true,
-                    version: 'v2.4'
-                });
-                jQuery(document).trigger('fb-load');  //Trigger facebook load
+      var bt_fb_app_id = '810246545721499';
+      var bt_twitter_account = 'boredomtherapy';
 
-                if (typeof(FB) != 'undefined') {
-                    FB.Event.subscribe('xfbml.render', function () {
-                        //console.log('facebook is ready');
-
-                        if (!bt.themeManageGa) {
-                            FB.Event.subscribe('edge.create', function (targetUrl, element) {
-                                var likeid = 'unknown like';
-                                if (element.hasAttribute("data-like-id")) { // a like that we don't know about?
-                                    likeid = 'like_' + element.getAttribute("data-like-id");
-                                }
-                                ga('send', 'social', 'facebook', likeid);
-                                //console.log("LIKE " + targetUrl + " " + likeid);
-                            });
-
-
-                            FB.Event.subscribe('edge.remove', function (targetUrl, element) {
-                                var likeid = 'unknown unlike';
-                                if (element.hasAttribute("data-like-id")) { // a like that we don't know about?
-                                    likeid = 'unlike_' + element.getAttribute("data-like-id");
-                                }
-
-                                ga('send', 'social', 'facebook', likeid);
-                                //console.log("UNLIKE " + targetUrl + " " + likeid);
-                            });
-                        }
-
-                        FB.Event.subscribe('message.send', function (targetUrl) {
-                            ga('send', 'social', 'facebook', 'send', targetUrl);
-                        });
-                    });
-                }
-
-            };
-            
-            function go() {
-                var s = 'script';
-                var js, fjs = document.getElementsByTagName(s)[0], load = function (url, id) {
-                    if (document.getElementById(id)) {
-                        return;
-                    }
-                    js = document.createElement(s);
-                    js.src = url;
-                    js.id = id;
-                    fjs.parentNode.insertBefore(js, fjs);
-                };
-
-                jQuery('iframe').each(function () {
-                    jQuery(this).attr('src', jQuery(this).attr('data-src'));
-                });
-
-                //Facebook
-                load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk');
-                // Youtube
-                //load('//apis.google.com/js/platform.js', 'youtube');
-                //Google+
-                load('//apis.google.com/js/plusone.js', 'gplus1js');
-                //Twitter
-                load('//platform.twitter.com/widgets.js', 'tweetjs');
-                //Pinterest
-                load('//assets.pinterest.com/js/pinit.js', 'pinitjs');
-            }
-
-            go();
+      function loadSocial() {
+        var WaitForFunction = function (func, todo) {
+          if (!$.isFunction(func)) {
+            setTimeout(WaitForFunction, 100);
+            return;
+          } else todo;
         }
-        
-		function checkLive(mobile, desktop) {
-			var rn = desktop;
-			var isMobile = window.matchMedia("only screen and (max-width: 640px)");
-			if (isMobile.matches)
-				rn = mobile;
-			var rand = Math.random() * 100;
-			if (rand < rn)
-				ret = true;
-			else
-				ret = false;
-			return ret;
-		}
-		
-//		(function (d, s, id) {
-//			var js, fjs = d.getElementsByTagName(s)[0];
-//			if (d.getElementById(id)) return;
-//			js = d.createElement(s);
-//			js.id = id;
-//			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
-//			fjs.parentNode.insertBefore(js, fjs);
-//		}(document, 'script', 'facebook-jssdk'));
 
-		window.sticky_top_offset = 0;
-	</script>
-			<!-- Facebook Pixel Code -->
-		<script id="bts_fb_pixel_code">
-			!function (f, b, e, v, n, t, s) {
-				if (f.fbq)return;
-				n = f.fbq = function () {
-					n.callMethod ?
-						n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-				};
-				if (!f._fbq)f._fbq = n;
-				n.push = n;
-				n.loaded = !0;
-				n.version = '2.0';
-				n.queue = [];
-				t = b.createElement(e);
-				t.async = !0;
-				t.src = v;
-				s = b.getElementsByTagName(e)[0];
-				s.parentNode.insertBefore(t, s)
-			}(window,
-				document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+        window.fbAsyncInit = function () {
+          FB.init({
+            appId: 810246545721499,
+            status: true,
+            xfbml: true,
+            version: 'v2.4'
+          });
+          jQuery(document).trigger('fb-load');  //Trigger facebook load
 
-			fbq('init', '780958225275101');
-			fbq('track', 'PageView');
-		</script>
-		<noscript><img height="1" width="1" style="display:none"
-		               src="https://www.facebook.com/tr?id=780958225275101&ev=PageView&noscript=1"
-			/></noscript>
-		<!-- End Facebook Pixel Code -->
-			<style type="text/css">
+          if (typeof(FB) != 'undefined') {
+            FB.Event.subscribe('xfbml.render', function () {
+              //console.log('facebook is ready');
+
+              if (!bt.themeManageGa) {
+                FB.Event.subscribe('edge.create', function (targetUrl, element) {
+                  var likeid = 'unknown like';
+                  if (element.hasAttribute("data-like-id")) { // a like that we don't know about?
+                    likeid = 'like_' + element.getAttribute("data-like-id");
+                  }
+                  ga('send', 'social', 'facebook', likeid);
+                  //console.log("LIKE " + targetUrl + " " + likeid);
+                });
+
+
+                FB.Event.subscribe('edge.remove', function (targetUrl, element) {
+                  var likeid = 'unknown unlike';
+                  if (element.hasAttribute("data-like-id")) { // a like that we don't know about?
+                    likeid = 'unlike_' + element.getAttribute("data-like-id");
+                  }
+
+                  ga('send', 'social', 'facebook', likeid);
+                  //console.log("UNLIKE " + targetUrl + " " + likeid);
+                });
+              }
+
+              FB.Event.subscribe('message.send', function (targetUrl) {
+                ga('send', 'social', 'facebook', 'send', targetUrl);
+              });
+            });
+          }
+
+        };
+
+        function go() {
+          var s = 'script';
+          var js, fjs = document.getElementsByTagName(s)[0], load = function (url, id) {
+            if (document.getElementById(id)) {
+              return;
+            }
+            js = document.createElement(s);
+            js.src = url;
+            js.id = id;
+            fjs.parentNode.insertBefore(js, fjs);
+          };
+
+          jQuery('iframe').each(function () {
+            jQuery(this).attr('src', jQuery(this).attr('data-src'));
+          });
+
+          //Facebook
+          load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk');
+          // Youtube
+          //load('//apis.google.com/js/platform.js', 'youtube');
+          //Google+
+          load('//apis.google.com/js/plusone.js', 'gplus1js');
+          //Twitter
+          load('//platform.twitter.com/widgets.js', 'tweetjs');
+          //Pinterest
+          load('//assets.pinterest.com/js/pinit.js', 'pinitjs');
+        }
+
+        go();
+      }
+
+      function checkLive(mobile, desktop) {
+        var rn = desktop;
+        var isMobile = window.matchMedia("only screen and (max-width: 640px)");
+        if (isMobile.matches)
+          rn = mobile;
+        var rand = Math.random() * 100;
+        if (rand < rn)
+          ret = true;
+        else
+          ret = false;
+        return ret;
+      }
+      
+      window.sticky_top_offset = 0;
+    </script>
+        <!-- Facebook Pixel Code -->
+    <script id="bts_fb_pixel_code">
+      !function (f, b, e, v, n, t, s) {
+        if (f.fbq)return;
+        n = f.fbq = function () {
+          n.callMethod ?
+            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq)f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+      }(window,
+        document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+      fbq('init', '780958225275101');
+      fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=780958225275101&ev=PageView&noscript=1"
+        /></noscript>
+    <!-- End Facebook Pixel Code -->
+    		<style type="text/css">
 			.pagefair-acceptable {
 				display: none;
 			}
@@ -666,8 +713,8 @@ bt.cutST = function(s){return s.toString().replace(/-.*/,'')};
 
 //START GOOGLETAG.PUSH
 googletag.cmd.push(function () {
-googletag.pubads().setTargeting(dfp_prefix + 'dvc', bt.deviceFullName);googletag.pubads().setTargeting("site_name", "BoredomTherapy");googletag.pubads().setTargeting(dfp_prefix + 'format', 'none');googletag.pubads().setTargeting("rubicon","false");googletag.pubads().setTargeting("Matomy","false");googletag.pubads().setTargeting("33across","false");googletag.pubads().setTargeting("criteo","false");googletag.pubads().setTargeting("altitude","false");googletag.pubads().setTargeting("medianet","false");googletag.pubads().setTargeting("switch","false");googletag.pubads().setTargeting('ad_h',(new Date).getUTCHours().toString());googletag.pubads().setTargeting('ad_p','1');googletag.pubads().setTargeting(dfp_prefix + 'flaf', "" + bt.deviceLetter);
-googletag.pubads().setTargeting('adq', 'default');
+googletag.pubads().setTargeting(dfp_prefix + 'dvc', bt.deviceFullName);googletag.pubads().setTargeting("site_name", "BoredomTherapy");googletag.pubads().setTargeting(dfp_prefix + 'format', 'none');googletag.pubads().setTargeting("rubicon","false");googletag.pubads().setTargeting("Matomy","false");googletag.pubads().setTargeting("33across","false");googletag.pubads().setTargeting("criteo","false");googletag.pubads().setTargeting("altitude","false");googletag.pubads().setTargeting("medianet","false");googletag.pubads().setTargeting("switch","false");googletag.pubads().setTargeting('ad_h',(new Date).getUTCHours().toString());googletag.pubads().setTargeting('ad_p','1');googletag.pubads().setTargeting(dfp_prefix + 'flaf', '');
+googletag.pubads().setTargeting('adq', 'high');
 bt_categories = [];
 bt_tags = false;
 bt_i = bt_categories.length;
@@ -698,31 +745,34 @@ if (bt_as_share !== false) { googletag.pubads().setTargeting(dfp_prefix+'as-shar
             googletag.pubads().setTargeting(dfp_prefix + utm, urlParams[utm]);
         };
         Object.keys(urlParams).forEach(loopOverUrlParamsAndCallGoogletag);
-    googletag.pubads().enableSingleRequest();
+     googletag.pubads().enableSingleRequest();
 googletag.pubads().collapseEmptyDivs();
 googletag.pubads().enableAsyncRendering();
-googletag.enableServices();});
+googletag.enableServices();
+var event = new CustomEvent("triggerAdsOnPrepare");
+document.dispatchEvent(event);
+});
 //END GOOGLETAG.PUSH
 
 sendPrebidGA();</script>
 <!--DFP END-->
-		
+        <script>
+            var cloudflareTestOn = false;
+            var cookieValue = bt.getCookie('_bt_test');
+
+            if(!cloudflareTestOn) {
+                if(cookieValue!='')
+                    bt.deleteCookie('_bt_test');
+            }
+            else if (cookieValue=='') {
+                bt.setCookie('_bt_test', '1', 1);
+            }
+        </script>
+    
 <style id="bt-dynamic-css">
 
 @media (max-width:640px) {
-    
-.single_title,
-h1.single-title,
-h2.single-title {
-    font-size: 28px !important;  
-}
-
-.single_title,
-h1.single-title,
-h2.single-title {
-    line-height: 34px !important;  
-}
-.big_cont_widget.botscrollhead.hideonloadmore,           
+    .big_cont_widget.botscrollhead.hideonloadmore,           
 	.sidebar .sidebar_top .widget-title,
 	.sidebar-posts-widget.cat .category-name span,
 	.sidebar_list .widget-title, 
@@ -734,19 +784,7 @@ h2.single-title {
 	}
 }
 @media (min-width:641px) and (max-width: 1024px) {
-    
-.single_title,
-h1.single-title,
-h2.single-title {
-    font-size: 30px !important;  
-}
-
-.single_title,
-h1.single-title,
-h2.single-title {
-    line-height: 38px !important;  
-}
-.big_cont_widget.botscrollhead.hideonloadmore,           
+    .big_cont_widget.botscrollhead.hideonloadmore,           
 	.sidebar .sidebar_top .widget-title,
 	.sidebar-posts-widget.cat .category-name span,
 	.sidebar_list .widget-title, 
@@ -758,19 +796,7 @@ h2.single-title {
 	}
 }
 @media (min-width: 1025px) {
-    
-.single_title,
-h1.single-title,
-h2.single-title {
-    font-size: 30px !important;  
-}
-
-.single_title,
-h1.single-title,
-h2.single-title {
-    line-height: 38px !important;  
-}
-.big_cont_widget.botscrollhead.hideonloadmore,           
+    .big_cont_widget.botscrollhead.hideonloadmore,           
 	.sidebar .sidebar_top .widget-title,
 	.sidebar-posts-widget.cat .category-name span,
 	.sidebar_list .widget-title, 
@@ -786,9 +812,8 @@ h2.single-title {
 
 </head>
 
-<body id="blog" class="page-template-default page page-id-7518 main paged-1 slideshow-button-mobile gal-only-next-mobile add-page-to-next-mobile gal-only-next-tablet add-page-to-next-tablet gal-only-next-desktop add-page-to-next-desktop mobile-sidebar-top-items-2 mobile-sidebar-bottom-items-2 has-sidebar-tablet body--no-static-skyscraper" itemscope="" itemtype="http://schema.org/WebPage">
-
-<div id="div-gpt-ad-1420466308609-0" style="display: none;"><!--Pixel_Tracker--><script type="text/javascript">hideOrShowAd(24,'div-gpt-ad-1420466308609-0');</script></div><div class="header-spacer"></div>
+<body id="blog" class="page-template-default page page-id-7518 main paged-1 mobile-sidebar-top-items-2 mobile-sidebar-bottom-items-2 slideshow-button-mobile gal-only-next-mobile add-page-to-next-mobile gal-only-next-tablet add-page-to-next-tablet gal-only-next-desktop add-page-to-next-desktop has-sidebar-tablet body--no-static-skyscraper" itemscope="" itemtype="http://schema.org/WebPage">
+<div class="header-spacer"></div>
 <div class="header-bg">
     <div class="header-wrap wrap">
     <div class="v-center">
@@ -801,7 +826,7 @@ h2.single-title {
             <div class="menu-item mobile-show mobile-search">
                 <form class="header-bg_search-box_form" action="/">
                     <input name="s" class="header-bg_search-box_input" type="text" placeholder="SEARCH HERE">
-                    <a target="_blank" class="mobile-header-icon-search" href="#">
+                                        <a target="_blank" class="mobile-header-icon-search" href="#">
                         <img src="/wp-content/themes/mainsite/assets/icon-search-grey.png">
                     </a>
                 </form>
@@ -833,7 +858,7 @@ h2.single-title {
 <div class="header-bg_search-box">
     <div class="wrap">
         <form class="header-bg_search-box_form" action="/">
-            <input name="s" class="header-bg_search-box_input" type="text" placeholder="SEARCH HERE">
+                        <input name="s" class="header-bg_search-box_input" type="text" placeholder="SEARCH HERE">
         </form>
     </div>
 </div>
@@ -867,7 +892,12 @@ h2.single-title {
 </script></div>
         <div class="wrap main-wrap">
         <div class="content ">
-                                    <h1 class="single_title">Privacy Policy</h1>
+                                    
+
+<h1 class="single_title">Privacy Policy</h1>
+
+
+
 
 
 
@@ -875,30 +905,34 @@ h2.single-title {
 <div class="single-meta">
         </div>
 
-    <div class="post-content">
+
+    
+    <div class="post-content feed-post-content" data-next-post-url="http://boredomtherapy.com/dmca-policy/">
         <!--the content start--> <p>Your privacy is very important to us at Boredom Therapy, and so we have a few fundamental principles that we follow in order to protect it:</p>
 <ol>We don’t ask you for personal information unless we truly need it.</ol>
 <ol>We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</ol>
 <ol>We don’t store personal information on our servers unless required for the on-going operation of our site.</ol>
 <p>This Privacy Policy describes the policies and procedures Boredom Therapy (“we”, “our” or “us”) uses regarding the collection, use and disclosure of&nbsp;any&nbsp;information&nbsp;that you give us when&nbsp;you use www.boredomtherapy.com (the “Website”) and the services, features, content or applications we offer (collectively with the Website, the “Services”).&nbsp;We are committed to ensuring that your privacy is protected. When we ask you to provide certain information when using the Website, you can be assured that it will only be used in accordance with this privacy policy.&nbsp;By using this Website, you agree to this privacy policy.</p>
 <p>We may change this policy from time to time by posting changes to this page. You can occasionally check to make sure that you are happy with any changes. This policy&nbsp;was last modified on July 27, 2014.</p>
-<p class="btcaption"><strong>What Information Do We Collect?</strong></p>
+<p><strong>What Information Do We Collect?</strong></p>
 <p>We collect information from you when you register on our site, subscribe to our newsletter (from which you can unsubscribe at any time), respond to a survey or fill out a form.&nbsp;You may be asked to enter your name or e-mail address. You may always, however, visit our site anonymously.</p>
-<p class="btcaption"><strong>Your Information Is Protected:&nbsp;</strong></p>
+<p><strong>Your Information Is Protected:&nbsp;</strong></p>
 <p>We are committed to ensuring that your personal information is secure. In order to prevent unauthorized access or disclosure we have put in place a variety of physical, electronic and managerial security measures to safeguard and secure the information we collect online.</p>
-<p class="btcaption"><strong>How We Use Cookies:</strong></p>
+<p><strong>How We Use Cookies:</strong></p>
 <p>Cookies are small files that a site or its service provider places on your computer’s hard drive (if you allow it), that enable the sites or service providers systems to recognize your browser and capture and remember certain information.&nbsp;Cookies allow websites to respond to you as an individual. The website provider can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
 <p>We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</p>
 <p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us</p>
 <p>You can choose to accept or decline cookies. Most web browsers automatically accept them, but you can change your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the website.</p>
-<p class="btcaption"><strong>Third Party Vendors:</strong></p>
-<p>Third party vendors, including Google, use cookies to serve ads to you based on a your prior web site visits to Boredom Therapy and/or other websites.&nbsp;You may opt out of the use of the Google cookie for interest-based advertising by visiting&nbsp;<a href="http://www.google.com/ads/preferences/">Ads Settings</a>.</p>
-<p class="btcaption"><strong>Links To Third Party Websites:</strong></p>
+<p><strong>Third Party Vendors:</strong></p>
+<p>We use third party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a href="http://www.networkadvertising.org/managing/opt_out.asp">here</a>.</p>
+<p>Third party advertising companies, including Google, use cookies to serve ads to you based on a your prior web site visits to Boredom Therapy and/or other websites.&nbsp;You may opt out of the use of the Google cookie for interest-based advertising by visiting&nbsp;<a href="http://www.google.com/ads/preferences/">Ads Settings</a>.</p>
+<p><strong>Links To Third Party Websites:</strong></p>
 <p>We may sometimes include on our website links to other websites that may be of interest to you. You should note that these third party sites have separate and independent privacy policies, and&nbsp;that we do not have any control over those other websites. Therefore, we have no responsibility or liability for the protection and privacy of any information which you provide while visiting such sites, or for the content and activities of those sites. You should exercise caution and review the privacy policies applicable to the website in question.</p>
-<p class="btcaption"><strong>Childrens Online Privacy Protection Act Compliance:</strong></p>
+<p><strong>Childrens Online Privacy Protection Act Compliance:</strong></p>
 <p>Our website, products and services are all directed to people who are at least 13 years old or older.&nbsp;We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), and do not collect any information from anyone under 13 years of age.</p>
 
     </div>
+    
     
     
     
@@ -923,23 +957,23 @@ h2.single-title {
     </div>
     <div class="widget-header-red_stripes" style="background-image: url('http://boredomtherapy.com/wp-content/themes/mainsite/assets/red-widget-title-stripes.png' )"></div>
 
-    </div>                                    <div class="post-widget" id="post-175129">
-    <a href="http://boredomtherapy.com/missing-foster-care-teens/">
+    </div>                                    <div class="post-widget" id="post-204416">
+    <a href="http://boredomtherapy.com/objects-worn-away-by-time/">
         <div class="thumbnail-wrap">
-            <div class="thumbnail" style="background-image: url(http://boredomtherapy.com/wp-content/uploads/2017/12/missing-foster-kids-1-768x510.jpg);"></div>
+            <div class="thumbnail" style="background-image: url(http://boredomtherapy.com/wp-content/uploads/2018/06/hats.jpg);"></div>
         </div>
         <div class="title">
-                        70 Foster Kids In Kansas Go Missing Before Police Even Realize There's A Problem
+                        20 Fascinating Photos Of Everyday Objects That Were Gradually Worn Down Over A Long Time
         </div>
     </a>
 </div>
-                                    <div class="post-widget" id="post-165978">
-    <a href="http://boredomtherapy.com/kids-vs-parent-selfies/">
+                                    <div class="post-widget" id="post-203871">
+    <a href="http://boredomtherapy.com/man-loses-life-by-lovers-ex/">
         <div class="thumbnail-wrap">
-            <div class="thumbnail" style="background-image: url(http://boredomtherapy.com/wp-content/uploads/2016/09/buds.png);"></div>
+            <div class="thumbnail" style="background-image: url(http://boredomtherapy.com/wp-content/uploads/2018/06/murderous-ex-1.jpg);"></div>
         </div>
         <div class="title">
-                        Sons Send Mom An 'Epic' Selfie But Are Blown Away By What They Receive In Return
+                        Woman Wakes To Chilling Sound Just Days Before She's Set To Marry The Man Of Her Dreams
         </div>
     </a>
 </div>
@@ -948,7 +982,8 @@ h2.single-title {
         
 
         
-                    <div class="widget content-recs-bot">
+                    
+            <div class="widget content-recs-bot">
                 <div class="widget-header widget-header-red">
     <div class="widget-title-skew">
         <div class="widget-title">
@@ -957,47 +992,48 @@ h2.single-title {
     </div>
     <div class="widget-header-red_stripes" style="background-image: url('http://boredomtherapy.com/wp-content/themes/mainsite/assets/red-widget-title-stripes.png' )"></div>
 
-    </div>                                    <div class="post-widget" id="post-174924">
-    <a href="http://boredomtherapy.com/denver-airport-conspiracies/">
+    </div>                                    <div class="post-widget" id="post-203711">
+    <a href="http://boredomtherapy.com/coffeemaker-bacteria/">
         <div class="thumbnail-wrap">
-            <div class="thumbnail" style="background-image: url(http://boredomtherapy.com/wp-content/uploads/2017/12/Denver-Airport-Conspiracy-1-768x484.jpg);"></div>
+            <div class="thumbnail" style="background-image: url(http://boredomtherapy.com/wp-content/uploads/2018/06/cof1.jpg);"></div>
         </div>
         <div class="title">
-                        15 Unsettling Facts About The Denver International Airport Conspiracy
+                        After Getting Sick Every Morning For Months, Woman Uncovers Dreadful Sight In Her Coffee Pot
         </div>
     </a>
 </div>
-                                    <div class="post-widget" id="post-174844">
-    <a href="http://boredomtherapy.com/miracle-baby-mother-in-coma/">
+                                    <div class="post-widget" id="post-183227">
+    <a href="http://boredomtherapy.com/mom-of-two-missing/">
         <div class="thumbnail-wrap">
-            <div class="thumbnail" style="background-image: url(http://boredomtherapy.com/wp-content/uploads/2017/12/1-coma-baby-gemma-holmes-1-768x424.jpg);"></div>
+            <div class="thumbnail" style="background-image: url(http://boredomtherapy.com/wp-content/uploads/2018/06/lisa-stebic-3.jpg);"></div>
         </div>
         <div class="title">
-                        Woman Finally Wakes Up From A Coma Only To Hear Doctors Deliver Impossible News
+                        After Mom Of Two Goes Missing, Cops Note Important Step Her Husband 'Forgot' To Take
         </div>
     </a>
 </div>
-                                    <div class="post-widget" id="post-160735">
-    <a href="http://boredomtherapy.com/escape-from-zip-ties-how-to/">
+                                    <div class="post-widget" id="post-203523">
+    <a href="http://boredomtherapy.com/radioactive-everyday-objects/">
         <div class="thumbnail-wrap">
-            <div class="thumbnail" style="background-image: url(http://boredomtherapy.com/wp-content/uploads/2016/04/escape-from-zip-ties-1.png);"></div>
+            <div class="thumbnail" style="background-image: url(http://boredomtherapy.com/wp-content/uploads/2018/06/Nuts_edit.jpg);"></div>
         </div>
         <div class="title">
-                        Here's The Incredibly Simple Way To Escape From A Zip Tie That Everyone Should Know
+                        Everyday Things That Expose Us To Way More Radiation Than Anybody Thinks
         </div>
     </a>
 </div>
-                                    <div class="post-widget" id="post-165379">
-    <a href="http://boredomtherapy.com/weird-and-creepy-photos/">
+                                    <div class="post-widget" id="post-201886">
+    <a href="http://boredomtherapy.com/ways-you-waste-money/">
         <div class="thumbnail-wrap">
-            <div class="thumbnail" style="background-image: url(http://boredomtherapy.com/wp-content/uploads/2016/08/panic.png);"></div>
+            <div class="thumbnail" style="background-image: url(http://moneyversed.com/wp-content/uploads/sites/11/2017/07/money-toilet-1.png);"></div>
         </div>
         <div class="title">
-                        25 Photos That Seem Totally Normal Until A Closer Look Reveals The Disturbing Truth
+                        10 Ways People Throw Away Thousands Of Dollars Every Year Without Even Trying
         </div>
     </a>
 </div>
                             </div>
+            
                     </div>
 
 <script>
@@ -1008,23 +1044,11 @@ h2.single-title {
         var $sidebar_fb = $(".sidebar .facebook-page-widget");
 
         $sidebar_fb.insertAfter($sidebar_1);
-        console.log('here');
     });
 
 </script>        
     </div><!--.main-wrap-->
-            <script>
-        (function ($) {
-            let sidebar = $('.sidebar');
-            sidebar.removeClass('sticky');
-            window.onload = function () {
-                console.log('load fuinc');
-                $(window).scrollTop(10);  //your current y position on the page
-                $(window).scrollTop(0);
-            };
-        })(jQuery);
-    </script>
-<div class="footer-mailing-wrap">
+        <div class="footer-mailing-wrap">
     <div class="wrap">
         <h4>Join our mailing list!</h4>
         <form class="newsletter-form" action="//boredomtherapy.us3.list-manage2.com/subscribe/post?u=4382f4e5fc3e80c6a22c6a208&amp;id=b6f2776b7d" method="post" novalidate="">
@@ -1060,7 +1084,7 @@ h2.single-title {
             <p>We reach millions of website visitors, Facebook fans, and newsletter subscribers every day.</p>
             <p class="footer-logo-holder">- The <img class="footer-logo-white" width="172" src="http://boredomtherapy.com/wp-content/themes/mainsite/assets/footer-logo-white.png" alt=""> team
             </p>
-            <p class="copyright">Boredom Therapy © 2017</p>
+            <p class="copyright">Boredom Therapy © 2018</p>
         </div>
     </div>
 </div>
@@ -1079,13 +1103,7 @@ jQuery(document).ready(function($) {
         btn.get(0).click(); // delegate click event to link -> common.js
     });
 });
-</script>
-<style>
-[id^='rcjsload_'] .row-item{
-	background-color: transparent !important
-}
-</style>
-        <script>
+</script>        <script>
             (function() {
                 if (!adblock) { return; }
                 // else
@@ -1108,7 +1126,36 @@ jQuery(document).ready(function($) {
                 fbPixelCallback();
             })();
         </script>
-        
+        	<script>
+        (function ($) {
+            bt.remPB = function(sel) {
+                var s = 'p:has(br), p:empty';
+                var e = sel ? $(sel).find(s) : $(s);
+                e.each(function() {
+                    var $this = $(this);
+                    var html = $this.html().replace('<br>','');
+                    html = html.replace('&nbsp;','');
+                    if (/^[\s\n\r]*$/.test(html)) {$this.remove()}
+                });
+            }
+            $(window).load(function () {
+                bt.remPB(null);
+            });
+        })
+        (jQuery);
+	</script>
+	
+<script id="bts_fb_setaudience">
+jQuery(bt).on('fb-share', function(){
+	console.log('BT_sharepost');
+	fbq('track', 'ViewContent', {
+		content_name: 'BT_sharepost',
+		value: 0.00,
+		currency: 'USD'
+	});
+});
+</script>
+
 <script id="template-home-single-infi" type="text/plain">
 <div class="archive-post ">
     <div class="thumbnail-wrap">
@@ -1124,18 +1171,119 @@ jQuery(document).ready(function($) {
     <a href="{{url}}"></a>
 </div>
 </script>
+    <script>
+        (function ($) {
 
-<script id="bts_fb_setaudience">
-jQuery(bt).on('fb-share', function(){
-	console.log('BT_sharepost');
-	fbq('track', 'ViewContent', {
-		content_name: 'BT_sharepost',
-		value: 0.00,
-		currency: 'USD'
-	});
-});
-</script>
+            // Get IE or Edge browser version
+            var version = detectIE();
 
+            /**
+             * detect IE
+             * returns version of IE or false, if browser is not Internet Explorer
+             */
+            function detectIE() {
+                var ua = window.navigator.userAgent;
+                var msie = ua.indexOf('MSIE ');
+
+                if (msie > 0) {
+                    // IE 10 or older => return version number
+                    return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+                }
+
+                var trident = ua.indexOf('Trident/');
+                if (trident > 0) {
+
+                    if (bt. sitePrefix === 'OMG'){
+                        $('#exit_intent_dialog article').css({ maxWidth: 'auto!important' });
+                    }
+
+                    if (!bt.isHcDesign) {
+                        $('.popup-content').css({width: '100%'});
+                    } else {
+                        $(window).load(function () {
+                            var $element = $('.sidebar');
+                            var $mainWrap = $('.main-wrap');
+                            var lastHeight = $element.css('height');
+
+                            $element.css('width', '310px');
+                            if ($mainWrap.css('height') < lastHeight){
+                                $mainWrap.css('height', lastHeight);
+                            }
+                            //need listener since sidebar changes after load in single, about is a page of its own.
+                            var heightChange = function checkForChanges() {
+                                if ($element.css('height') !== lastHeight) {
+                                    console.log('height changed, ET to the rescue');
+                                    lastHeight = $element.css('height');
+                                    if ($mainWrap.css('height') < lastHeight){
+                                        $mainWrap.css('height', lastHeight);
+                                    }
+                                }
+                                setTimeout(checkForChanges, 2000);
+                            };
+                            heightChange();
+                        });
+
+                    }
+                    $('.wrap > strong').css('width','309px');
+                    $('#top-banner').css('display','block');
+
+                    /*normalizing menu items by text size*/
+
+                    var $menu_text = $('.main-menu > .menu-item:not(.more, .css-icon-exit) a');
+                    var cutoff = 10.5;
+
+                    $.each($menu_text, function (index, item) {
+                        if (item.text.length > cutoff) {
+                            var currentSize = parseFloat($(item).css('font-size'));
+                            var reduction_by_size = (currentSize * cutoff / item.text.length).toFixed(1);
+                            $(item).css({fontSize: reduction_by_size + 'px'});
+                        }
+                    });
+
+                    $('.archive-image').css('overflow', 'hidden');
+
+                    if (bt.isBtDesign) {
+                        $('.three-d-slider').css('display', 'none');
+                    }
+
+                    if (bt.sitePrefix === 'HM') {
+                        $('.image-spacer').css('display', 'none');
+                    }
+                    if (bt.sitePrefix === 'WF') {
+                        $('.submit-video').css({width: 'auto', padding: "0 10px"});
+                    }
+
+                    /*BT footer*/
+                    if (bt.sitePrefix === 'BT' && !bt.isMobile) {
+                        $('.footer-mailing-wrap .newsletter-form').css({float: 'none', });
+                        $('.footer-mailing-wrap h4').css({float: 'none', margin: 'auto 30px' });
+                        $('.footer-mailing-wrap form .mail-message').css({margin: 'auto', display: 'none' });
+
+
+                    }
+
+                    /*HTP mobile only rules*/
+                    if (bt.isHtpDesign && bt.isMobile) {
+
+                    }
+                    /*HTP non-mobile only rules*/
+                    if (bt.isHtpDesign && !bt.isMobile) {
+                        $('.sidebar-posts-widget .img-ph-wrap img').css('max-height', 0)
+
+                    }
+                }
+
+                var edge = ua.indexOf('Edge/');
+                if (edge > 0) {
+                    // Edge (IE 12+) => return version number
+                    return parseInt(ua.substring(edge + 5, ua.indexOf('.', edge)), 10);
+                }
+                // other browser
+                return false;
+            }
+        })(jQuery);
+    </script>
+	
 <script>
     jQuery(document).ready(function($) {
         if (!bt.isMobile) { return; }
@@ -1147,9 +1295,9 @@ jQuery(bt).on('fb-share', function(){
         }
         
         windowJquery.scrollLeft(1);
-        if (windowJquery.scrollLeft() > 0) {
+/*        if (windowJquery.scrollLeft() > 0) {
             ga('send', 'event', 'MobileScrollIssue', 'Debug', 'length=' + contentWidth + ';screen=' + innerDeviceWidth);  
-        }
+        }*/
         windowJquery.scrollLeft(0);
     });
 </script>
@@ -1178,14 +1326,18 @@ jQuery(bt).on('fb-share', function(){
                 </div>
             </noscript>
             <!-- End Quantcast tag -->
-            <script type="text/javascript">
+            
+<style>
+[id^='rcjsload_'] .row-item{
+	background-color: transparent !important
+}
+</style>
+<script type="text/javascript">
 /* <![CDATA[ */
 var wpcf7 = {"apiSettings":{"root":"http:\/\/boredomtherapy.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://boredomtherapy.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.1"></script>
-<script type="text/javascript" src="http://boredomtherapy.com/wp-content/themes/boredom/modules/front/js/dynamic_css_fixer/singlebotad_css_fixer.js?ver=1.138.2.1"></script>
-<script type="text/javascript" src="http://boredomtherapy.com/wp-content/themes/boredom/modules/front/js/dynamic_css_fixer/wrap_ios_issue.js?ver=1.138.2.1"></script>
 <script type="text/javascript" src="http://boredomtherapy.com/wp-includes/js/wp-embed.min.js?ver=4.8"></script>
 
 <!--twig js modules-->
@@ -1337,7 +1489,7 @@ var facebookSharePopup = function (shareid, href, pic) {
         jQuery(cta).trigger('fb-share');
         jQuery(bt).trigger('fb-share');
         var  facebook_like_popup_status = api_dialog.facebook.facebook_popup.after_share.is_on;
-        console.log('this is beginstate: ' + facebook_like_popup_status);
+        //console.log('this is beginstate: ' + facebook_like_popup_status);
         if(facebook_like_popup_status){
             document.body.classList.add("facebook_like_popup");
         }else{
@@ -1411,7 +1563,21 @@ socialBindObjectsList.forEach(function (socialItem) {
 });
 
 //module sticky-sidebar.js
+var ua = window.navigator.userAgent;
+var IE = ((ua.indexOf('Trident/') >= 0) || (ua.indexOf('MSIE ') >= 0));
+
+(function($) {
+    if (bt.isHtpDesign && IE){
+        $('.sidebar-fb').css('display', 'block');
+        document.querySelector('style').textContent +=
+            "@media screen and (min-width:768px) { .sidebar { display: block; }}";
+    }
+    return false;
+}(jQuery));
+
+// The global jQuery object is passed as a parameter
 window.stickySidebar = function () {
+
 
     var $sidebar = $('.sidebar');
     var height = $sidebar.outerHeight();
@@ -1432,15 +1598,7 @@ window.stickySidebar = function () {
         $sidebar.addClass('sticky');
     }
 
-
-/*    if ($sidebar + ':visible'){
-        console.log('sidebar is visible');
-    } else{
-        console.log('sidebar is NOT visible');
-
-    }*/
-        $(".main-wrap").css("min-height", height);
-
+    $(".main-wrap").css("min-height", height);
 
     var offsetBottomWindow = $(window).scrollTop() + window.innerHeight;
     var padding = parseInt($sidebar.css("padding-top"), 10) + parseInt($sidebar.css("padding-bottom"), 10);
@@ -1453,6 +1611,7 @@ window.stickySidebar = function () {
     }
 
     var $body = $('body');
+
     if (footerTop < offsetBottomWindow) {
         $sidebar.addClass('reached-bottom');
         $body.addClass('scroll-reached-footer');
@@ -1462,8 +1621,11 @@ window.stickySidebar = function () {
     }
 };
 
-$(window).on("scroll resize", stickySidebar);
-stickySidebar();
+if (!IE) {
+    $(window).on("scroll resize", stickySidebar);
+    stickySidebar();
+}
+
 
 
 });
@@ -1844,7 +2006,22 @@ jQuery(document).ready(function () {
 
 </script>
 <!--/js modules-->
-
+	<!-- Begin comScore Tag -->
+	<script id="bts_comscore">
+		var _comscore = _comscore || [];
+		_comscore.push({c1: "2", c2: "19750771"});
+		(function () {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+			s.async = true;
+			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		})();
+	</script>
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&c2=19750771&cv=2.0&cj=1"/>
+	</noscript>
+	<!-- End comScore Tag -->
+	
 <script id="ajax_infi_template" type="text/plain">
 	<div class="archive-item format-">
 		<div class="archive-item-link-wrap" href="#text">
@@ -1889,8 +2066,8 @@ jQuery(document).ready(function () {
 jQuery(document).ready(function($){
     var pathName = (window.location.pathname === '/') ? '__x__' : window.location.pathname.slice(1);
     var search = window.location.search;
-    var abPas = 'abpas=844425199633184_69475394125836_8972015000092672_41903533903977';
-    var monitor = '_server=web12&_ctime=369&_timestamp=1514613158.1975';
+    var abPas = 'abpas=844425203827488_69475394125828_8972015000092672_4545503161274473_6755399441055744_1';
+    var monitor = '_server=web15&_ctime=436&_timestamp=1529096964.774';
 	var localPath = pathName + search;
 	if (abPas.length && /[?&]as=|as-source=src/.test(search)) {
 	    localPath += '&' + abPas;
@@ -1906,26 +2083,11 @@ jQuery(document).ready(function($){
 <img src="https://sp.analytics.yahoo.com/spp.pl?a=10000&amp;.yp=10018916">
 <script>
 jQuery(document).ready(function($){
-    var arNotDef = [11,22,9,23,27,28,29,30,31,32,45,15,6,36,35,2,44,43,38,24,5,34,46,47,48,49,14,1,20,7,12,26,3,25,19,16,4];
+    var arNotDef = [11,22,9,23,50,27,28,29,30,31,32,45,15,6,36,35,2,44,43,38,24,5,34,46,47,48,49,14,1,20,7,12,26,3,25,19,16,4];
     arNotDef.forEach(hideRels);
 });
 </script>
-	<!-- Begin comScore Tag -->
-	<script id="bts_comscore">
-		var _comscore = _comscore || [];
-		_comscore.push({c1: "2", c2: "19750771"});
-		(function () {
-			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
-			s.async = true;
-			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-			el.parentNode.insertBefore(s, el);
-		})();
-	</script>
-	<noscript>
-		<img src="http://b.scorecardresearch.com/p?c1=2&c2=19750771&cv=2.0&cj=1"/>
-	</noscript>
-	<!-- End comScore Tag -->
-	<div class="yt-popup">
+<div class="yt-popup">
     <div class="yt-popup__popup">
         <img src="http://boredomtherapy.com/wp-content/themes/mainsite/assets/bt-icon-popup.png?v=2">
         <div class="yt-popup__close">✖</div>
