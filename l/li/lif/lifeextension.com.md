@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lifeextension.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213110327id_/http%3A//www.lifeextension.com/Legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeextension.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615143316id_/http%3A//www.lifeextension.com/Legal/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Life Extension
 
-Effective Date: 08/01/2015
+REVISION Date: June 5, 2018
 
-This website is owned and operated by Life Extension (“We”). LifeExtension.com (“Website”) is committed to protecting your privacy. This Privacy Policy describes what information we collect, how we collect information, the steps we take to protect your information, and what we do with the information that we collect. By using the LifeExtension.com Website, you signify that you have read, understand, and agree to be bound by this Privacy Policy. We may change this Policy from time to time, and the changes are effective upon posting. Please review our Privacy Policy regularly. Your continued use of the Website after changes are posted constitutes your agreement to the changes. If you do not agree to the changes, please discontinue your use of the Website. 
+This website is owned and operated by Life Extension (“We”). LifeExtension.com (“Website”) is committed to protecting your privacy. This Privacy Policy describes what information we collect, how we collect information, the steps we take to protect your information, and what we do with the information that we collect. By using the LifeExtension.com Website, you signify that you have read, understand, and agree to be bound by this Privacy Policy. We may change this Policy from time to time, and the changes are effective upon posting. Please review our Privacy Policy regularly. Your continued use of the Website after changes are posted constitutes your agreement to the changes. If you do not agree to the changes, please discontinue your use of the Website.
 
 ## Collection of Data
 
@@ -22,25 +22,25 @@ The Website uses small files called “cookies,” which are pieces of informati
 
 ## What We Do With Data
 
-The information we receive allows us to tailor our product offer and improve your shopping and browsing experience, making your experience easier and more enjoyable. It also enables us to process your purchases, confirm your orders, customize the content and layout of our pages, notify you about updates to our Website and products, and provide you with marketing information.
+The information we receive allows us to tailor our product offer and improve your shopping and browsing experience, making your experience easier and more enjoyable. It also enables us to process your purchases, confirm your orders, customize the content and layout of our pages, notify you about updates to our Website and products, and provide you with marketing information. 
 
 ## How We Share Data
 
-We may enter into relationships with advertisers or other companies that provide products or services that we believe may be of interest to you. In order to do so, we may share information like your name and postal address so you can receive the materials. We won’t disclose other information, such as your credit card account number, telephone number or email address. We just want you to continue to stay healthy and live better!
+We may enter into relationships with advertisers or other companies that provide products or services that we believe may be of interest to you. In order to do so, we may share information like your name and postal address so you can receive the materials. We won’t disclose other information, such as your credit card account number, telephone number or email address. We just want you to continue to stay healthy and live better! 
 
-We may also disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person and violations of LifeExtension.com’s Terms of Use. Finally, we may transfer information, including any personal information, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change regarding our Website.
+We may also disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person and violations of LifeExtension.com's Terms of Use. Finally, we may transfer information, including any personal information, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change regarding our Website. 
 
 ## Security
 
-We take reasonable and appropriate measures to help prevent the loss, misuse, and alteration of your information by carefully limiting access to the database in which your personal information is stored. Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect and we cannot promise, and you should not expect, that your information will be secure in all circumstances.
+We take reasonable and appropriate measures to help prevent the loss, misuse, and alteration of your information by carefully limiting access to the database in which your personal information is stored. Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect and we cannot promise, and you should not expect, that your information will be secure in all circumstances. 
 
 ## How We Respond to “Do-Not-Track” Signals
 
-We may partner with ad networks and other ad serving providers (“Advertising Providers”) who serve ads on behalf of us and others on non-affiliated sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information Advertising Providers collect about your visits to this site and elsewhere over time. You may visit [www.aboutads.info](http://www.aboutads.info/) to learn more about this type of advertising and how to opt-out of this form of advertising by companies participating in the Digital Advertising Alliance (“DAA”) self-regulatory program. Note that electing to opt out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. In addition, note that if you use a different browser or erase cookies from your browser, you may need to renew your opt-out choice.
+We may partner with ad networks and other ad serving providers (“Advertising Providers”) who serve ads on behalf of us and others on non-affiliated sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information Advertising Providers collect about your visits to this site and elsewhere over time. You may visit [www.aboutads.info](http://www.aboutads.info/) to learn more about this type of advertising and how to opt-out of this form of advertising by companies participating in the Digital Advertising Alliance (“DAA”) self-regulatory program. Note that electing to opt out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. In addition, note that if you use a different browser or erase cookies from your browser, you may need to renew your opt-out choice. 
 
 ## Children 
 
-The Life Extension Website is not directed to children under the age of 13, and we do not knowingly collect personal information from children under 13 years old.
+The Life Extension Website is not directed to children under the age of 13, and we do not knowingly collect personal information from children under 13 years old. 
 
 ## Foreign Users
 
@@ -48,11 +48,11 @@ Life Extension makes no claims that this Website is appropriate or may be access
 
 ## Third Party Websites
 
-Our Website may contain links to sites outside our control. This Privacy Policy does not cover any personal information that you provide to the owner of a third party website, and we are not responsible for the privacy practices of these external websites. Please be aware that other sites operate under their own privacy policies and that these sites may collect your personal information. Thus, you should consult each site's privacy policy.
+Our Website may contain links to sites outside our control. This Privacy Policy does not cover any personal information that you provide to the owner of a third party website, and we are not responsible for the privacy practices of these external websites. Please be aware that other sites operate under their own privacy policies and that these sites may collect your personal information. Thus, you should consult each site's privacy policy. 
 
-## Opt-Out
+## Opt-Out 
 
-All Life Extension e-mail correspondences offer recipients a link to opt out of future mailings, or you may [click here](https://mycart.lifeextension.com/Account/ContactPreferences) to opt-out. You may also choose to block all Life Extension e-mails by calling our Customer Service department at 1-800-678-8989. However, if you opt out, we may still send you non-promotional emails, such as emails about your purchases or account.
+All Life Extension e-mail correspondences offer recipients a link to opt out of future mailings, or you may [click here](https://mycart.lifeextension.com/Account/ContactPreferences) to opt-out. You may also choose to block all Life Extension emails, as well as postal mailings, by calling our Customer Service department at 1-800-678-8989 or by logging in to your account online.  However, if you opt out, we may still send you non-promotional emails, such as emails about your purchase or account, as well as promotional information contained in packages of products you order from us.
 
 ## Contact Us
 
