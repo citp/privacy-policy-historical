@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mouthshut.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222175946id_/http%3A//www.mouthshut.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouthshut.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615075053id_/https%3A//www.mouthshut.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MouthShut.com
 
