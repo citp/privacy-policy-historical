@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the kakuroconquest.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212032058id_/http%3A//www.kakuroconquest.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kakuroconquest.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615171538id_/http%3A//www.kakuroconquest.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - KakuroConquest.com
-
-## Free online kakuro puzzles
-
-Kakuro is like a crossword puzzle with numbers. Each "word" must add up to the number provided in the clue above it or to the left. Words can only use the numbers 1 through 9, and a given number can only be used once in a word. Every [kakuro puzzle](http://www.kakuroconquest.com/) has one and only solution, and can be solved through logic alone.
-
-Kakuro Hint: Did you know that you can use the arrow keys on your keyboard to move up and down, left and right?
-
-Also try [**sudoku**](http://www.sudokuconquest.com/) and [**hitori**](http://www.hitoriconquest.com/)
-
-© 2006-2013, [Performant Design, LLC](http://www.performantdesign.com/).
-
-All Rights Reserved.
-
-[privacy](http://www.kakuroconquest.com/privacy.php)    [terms](http://www.kakuroconquest.com/terms.php)
 
 **What information do we collect?**
 
