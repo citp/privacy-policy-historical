@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investingchannel.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213112052id_/http%3A//investingchannel.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investingchannel.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615144615id_/http%3A//investingchannel.com/policy) for the most accurate reproduction.*
 
 # InvestingChannel.com Marketplace
 
@@ -86,7 +86,18 @@ In compliance with Children’s Online Privacy Protection Act (“COPPA”), thi
 
 * * *
 
-## 6\. UPDATES AND CHANGES TO PRIVACY POLICY
+## 6\. PRIVACY NOTICE FOR EEA INDIVIDUALS
+
+This section covers disclosures on the General Data Protection Regulation (GDPR) for users residing within EEA only. GDPR replaces the existing Directive 95/46/ec, and aims at harmonizing data protection laws in the EU that are fit for purpose in the digital age. The primary objective of the GDPR is to give citizens back control of their personal data. Please follow the link below to access InvestingChannel’s General Data Protection Notice.   
+[ http://media.investingchannel.com/gdpr-notice/ ](http://media.investingchannel.com/gdpr-notice/)
+
+We and our partners use technology such as cookies on our site to personalize content and ads, provide social media features, and analyze traffic. Click on the button below to change your consent to the use of this technology by us across this website. You can change your consent choices at anytime by returning to this webpage.
+
+Change Consent 
+
+* * *
+
+## 7\. UPDATES AND CHANGES TO PRIVACY POLICY
 
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
 
