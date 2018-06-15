@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiksilverpro.com.au privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013073721id_/http%3A//www.quiksilver.com/customer-service-safety-security-and-privacy-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiksilverpro.com.au privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616003558id_/http%3A//www.quiksilver.com/customer-service-safety-security-and-privacy-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Quiksilver
 
