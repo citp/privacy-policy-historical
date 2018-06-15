@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proactiveinvestors.com.au privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213143841id_/http%3A//www.proactiveinvestors.com.au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiveinvestors.com.au privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615092929id_/http%3A//www.proactiveinvestors.com.au/pages/privacy) for the most accurate reproduction.*
 
 # Proactive Investors Limited - Leading source of Financial News, Investor Forums, CEO Interviews, Financial Columnists, Stock Information - Privacy Policy
 
