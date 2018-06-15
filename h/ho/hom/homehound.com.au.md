@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homehound.com.au privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213225700id_/http%3A//www.homehound.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homehound.com.au privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615100724id_/http%3A//www.homehound.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Homehound
 
@@ -8,7 +8,7 @@ Australian privacy laws have recently changed. As a result of the changes, we ha
 
 ## 2 RELATIONSHIP TO AGREEMENTS
 
-To the extent that it is incorporated by reference into any agreement between you and us, such as our website terms and conditions, the terms of this policy form part of that agreement (Independent Digital Media Agreement).
+To the extent that it is incorporated by reference into any agreement between you and us, such as our website terms and conditions, the terms of this policy form part of that agreement (ReNet Agreement).
 
 ## 3 COLLECTION
 
@@ -32,8 +32,8 @@ We collect Personal Information about you:
 (b) Specifically, we collect Personal Information (as relevant):
 
   * to enable us or third parties to lawfully communicate information to you regarding their products and services;
-  * to enter into contractual relations with you, eg the Independent Digital Media Agreement;
-  * to identify you as a party to the Independent Digital Media Agreement;
+  * to enter into contractual relations with you, eg the ReNet Agreement;
+  * to identify you as a party to the ReNet Agreement;
   * to enable us or third parties to supply services to you;
   * to enable you to use any goods we or third parties may supply;
   * to assist our customers to improve our services;
@@ -46,7 +46,7 @@ We collect Personal Information about you:
 
 ### 3.4 Collecting entity
 
-The entity collecting Personal Information is Independent Digital Media Pty Ltd (ABN 93 082 246 384) of Level 1, Building 1, 85 O’Riordan Street, Alexandria NSW Australia 2015.
+The entity collecting Personal Information is ReNet Pty Ltd (ABN 96 099 866 878) of 16 First Avenue, Sawtell NSW 2452, Australia.
 
 ## 4 USE OF PERSONAL INFORMATION
 
@@ -98,7 +98,7 @@ We may, and likely will, transfer your Personal Information to a person or organ
 
   * if doing so would have an unreasonable impact on the privacy of other individuals;
   * if the request for access is frivolous or vexatious;
-  * giving access would reveal evaluative information generated within Independent Digital Media or one of our customers in connection with a commercially sensitive decision-making process; or
+  * giving access would reveal evaluative information generated within ReNet or one of our customers in connection with a commercially sensitive decision-making process; or
   * for Legal Reasons or similar reasons.
 
 
@@ -132,10 +132,10 @@ We may, and likely will, transfer your Personal Information to a person or organ
 (a) If you wish to complain about a potential breach of the APPs by us, please write to our Privacy Co-ordinator at:
 
 > Online Privacy Manager  
->  Independent Digital Media Pty Ltd (ABN 93 082 246 384)  
->  PO Box 7160  
->  Fax: 02 94695493  
->  Email: privacy@idmco.com.au
+>  ReNet Pty Ltd (ABN 96 099 866 878)  
+>  PO Box 242, Sawtell NSW 2452  
+>  Fax: 02 6658 8767  
+>  Email: info@homehound.com.au
 
 (b) If we receive a complaint from you, we will handle the complaint in the following way:
 
@@ -194,11 +194,11 @@ In this policy, unless expressly to the contrary and as appropriate in the conte
 
 (g) use may include to disclose or transfer.
 
-(h) we means Independent Digital Media Pty Ltd.
+(h) we means ReNet Pty Ltd.
 
 (i) you means:
 
-  * the individual who has entered into the relevant Independent Digital Media Agreement or, if the person who has entered into the Independent Digital Media Agreement is an entity (eg a company) and not an individual, then in this policy you means any individual connected with the entity and who supplies Personal Information to us in the course of the entity’s performance of the Independent Digital Media Agreement; or
+  * the individual who has entered into the relevant ReNet Agreement or, if the person who has entered into the ReNet Agreement is an entity (eg a company) and not an individual, then in this policy you means any individual connected with the entity and who supplies Personal Information to us in the course of the entity’s performance of the ReNet Agreement; or
   * the individual reading this policy, if that individual is also an individual in relation to whom we must, pursuant to the Privacy Act 1988 (Cth), abide by this policy.
 
 
