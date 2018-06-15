@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terrificshoper.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227023543id_/http%3A//terrificshoper.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrificshoper.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616013842id_/http%3A//www.terrificshoper.com/privacy-policy.html) for the most accurate reproduction.*
 
 # TerrificShoper
 
