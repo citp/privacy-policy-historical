@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypal.ca privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026222838id_/https%3A//www.paypal.com/ca/webapps/mpp/ua/privacy-full%3Flocale.x%3Den_CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal.ca privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615234936id_/https%3A//www.paypal.com/ca/webapps/mpp/ua/privacy-full%3Flocale.x%3Den_CA) for the most accurate reproduction.*
 
 # PayPal
 
