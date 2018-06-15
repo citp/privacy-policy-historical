@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the ourstage.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227053450id_/http%3A//ourstage.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourstage.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615052746id_/http%3A//ourstage.com/about/privacy) for the most accurate reproduction.*
 
 # OurStage | OurStage Cookies and Privacy Policy
 
 This Privacy Policy describes the information collection and use procedures at this website, located at OurStage.com ("Site"), operated on behalf of the Amazing Media Group Ltd. This notice describes our online information collection and use practices at this Site.
 
-This privacy policy is effective as of April, 2008. In the future, our Site or our practices may change, and if appropriate, we will revise this Privacy Policy accordingly, and post the update version here. If we alter our practices in a manner that will significantly impact the treatment of information you have already provided, we will send you a notice of our new practices. If you do not agree with the privacy practices described in this Privacy Policy, you should not provide us with information.
+This privacy policy is effective as of 25th May, 2018. In the future, our Site or our practices may change, and if appropriate, we will revise this Privacy Policy accordingly, and post the updated version here. If we alter our practices in a manner that will significantly impact the treatment of information you have already provided, we will send you a notice of our new practices. If you do not agree with the privacy practices described in this Privacy Policy, you should not provide us with information.
 
 ###  Information Collection and Use
 
-There are several interactive features this Site, including the ability to register, upload content, create your own "fan club," rank and review user-submitted content and participate in competitions. Information collected on this Site includes email address, name, street address, PayPal® information (if you are electing features such as "Get Paid When You Win!"), as well as other information.
+There are several interactive features this Site, including the ability to register, upload content, create your own "fan club," rank and review user-submitted content and participate in competitions. Information collected on this Site includes email address, name, street address and, PayPal® information (if you are electing features such as "Get Paid When You Win!").
 
-Information you submit will be used to respond to your request. Additionally, if you are the winner of a contest, OurStage will disclose your information as part of a publicly available winners' list, which may be posted on this Site or otherwise disclosed elsewhere, such as advertising and promotional materials. We may also use your information for other legitimate business purposes, including sending you notices about OurStage, its products and services, or asking for your input and feedback on our products and services. If you register for the first time on OurStage as an artist or as a fan in a sponsored channel, we will share your username, email address and zip code with the channel sponsor. If you previously registered on OurStage and then enter into a sponsored channel competition or sponsored channel sweepstakes, we will share your username, email address and zip code with the channel sponsor.
+Information you submit will be used to respond to your request. Additionally, if you are the winner of a contest, OurStage will disclose your information as part of a publicly available winners' list, which may be posted on this Site or otherwise disclosed elsewhere, such as advertising and promotional materials. We may also use your information for other legitimate business purposes, including sending you notices about OurStage, its products and services, or asking for your input and feedback on our products and services unless you have chosen to opt-out.. If you register for the first time on OurStage as an artist or as a fan in a sponsored channel, we will share your username, email address and zip code with the channel sponsor. If you previously registered on OurStage and then enter into a sponsored channel competition or sponsored channel sweepstakes, we will share your username, email address and zip code with the channel sponsor.
 
-As part of our regular business conduct, and regardless of whether you have opted out of having your information shared, we share information with third parties who help us deliver your requested services. We also will share your information in the event that there is a change of corporate ownership. We may also share information with government officials in order to cooperate with a legitimate investigation. We may also combine the information you submit to us with information we have collected from you in other forums, such as through emails or offline, or with publicly available information or information we obtain from third parties.
+As part of our regular business conduct we share information with third parties who help us deliver your requested services. We ensure that these 3rd parties are commited to GDPR compliance as per the new regulations. We will share your information in the event that there is a change of corporate ownership. We may also share information with government officials in order to cooperate with a legitimate investigation.
 
 Some of your user information, including your user name, will be accessible to other registered users, for example, on your "fan club" page, on other "fan club" pages should you choose to join their club, and on content comment pages. If you do not wish to have your information shared with other users, you should deactivate your account and cease use of the Site.
 
@@ -21,6 +21,32 @@ You may send messages to friends about Site by using the "send to a friend" feat
 This Site also uses passive tracking technologies to log non-identifiable information such as IP address, browser type and Site usage. The information collected in this manner is used for site maintenance and development. We may also employ "cookies" or similar technologies provide additional functionality to the Site and help us analyze Site usage more accurately. Some of the features on our Site will only function if your browser is set to accept cookies. Thus, if you decline to accept cookies, certain features of our Site may not operate properly.
 
 OurStage uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie in your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to [DoubleClick's Privacy Page](http://www.doubleclick.net/us/corporate/privacy).
+
+###  Your Rights
+
+As part of an ongoing commitment to being compliant with the new GDPR regulations this section details some of the rights that you have over your data.
+
+  * You have the right, in some circumstances, to have your personal data removed. Contact us at [support@ourstage.com](mailto:support@ourstage.com) with your request and providing there is no lawful basis against the request, we will make all reasonable effort to comply.
+
+
+  * Where your consent is solely our legal basis for processing your data you can request a copy, transfer or moving of the data in a machine-readable form such as a CSV file.  This can be supplied to you or another provider at your request. Requests should be sent to [support@ourstage.com](mailto:support@ourstage.com) and if technically possibly we will take all reasonable steps to fulfil your request.
+
+
+  * A copy of the personal information that we hold on you is available to you upon your request as long as it does not compromise the confidentiality of any other individuals.  Please send any requests to [support@ourstage.com](mailto:support@ourstage.com)
+
+
+  * In some circumstances you have the right object to processing of your personal data.  This can be done by sending your objection to [support@ourstage.com](mailto:support@ourstage.com) Once your objection has been received we will temporarily suspend processing your data in-line with your objection whilst we carry out an investigation.  Once the investigation has been completed we will either permanently stop processing data as you requested or let you know why your objection was not successful and we will continue to process as normal.  Please note that you can unsubscribe from direct emailing using the unsubscribe feature on our sites or within emails.
+
+
+  * If you have previously given us consent to process your data you have the right to withdraw that consent at any time.  You can unsubscribe within your account or within emails from us.  At any time you can opt back in.  Should you opt out or unsubscribe this will only take effect from that date and will not have any impact on historic data processing.
+
+
+  * When the personal data we have is inaccurate or incomplete you have the right for it to be updated or completed.  You can review your data in your account settings and if you do no have the ability to change it yourself then let us know on [support@ourstage.com](mailto:support@ourstage.com) and we can do it for you.
+
+
+  * When you believe our processing of your data is unlawful or we are investigating a previous objection you have the right to restrict the processing of your personal information unless there is a legal basis for us doing so.   
+
+
 
 ###  Children on This Site
 
