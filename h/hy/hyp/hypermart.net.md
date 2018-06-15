@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypermart.net privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206053202id_/http%3A//www.hypermart.net/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypermart.net privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615162937id_/http%3A//www.hypermart.net/about/privacy.bml) for the most accurate reproduction.*
 
 # HyperMart's Privacy Policy
 
@@ -47,7 +47,7 @@ To ensure you receive the information you need to manage your account and protec
 
 
 
-**This file was last modified on August 24, 2017.**
+**This file was last modified on May 22, 2018.**
 
  ****  
 ---|---
