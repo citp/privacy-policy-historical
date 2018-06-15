@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getspool.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213213236id_/http%3A//blog.getspool.com/privacy-policy-spool) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getspool.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615080554id_/http%3A//blog.getspool.com/privacy-policy-spool) for the most accurate reproduction.*
 
-# Privacy Policy of Spool | GetSpool 2017 - Jailbreak Tweaks, iOS News
+# Privacy Policy of Spool | GetSpool 2018 - Jailbreak Tweaks, iOS News
 
 **GetSpool** consider your privacy seriously. The privacy of our visitors to our site is important to us. This privacy policy describes what personal information we collect and how we use it and how we safeguard your information. This privacy policy document outlines the types of personal information is received and collected by us. We never sell your personal information to third parties.
 
