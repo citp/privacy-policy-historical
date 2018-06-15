@@ -1,11 +1,24 @@
-> *The following text is extracted and transformed from the homestead.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230072933id_/http%3A//www.homestead.com/legal/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestead.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615121902id_/http%3A//www.homestead.com/legal/legal_privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Homestead
+
+  
+**Homestead Technologies, Inc.**  
+10 Corporate Drive  
+Burlington, MA 01803
+
+This Privacy Policy applies to all users before May 23, 2018.  Beginning on May 23, 2018, our [new Privacy Policy ](https://endurance.com/privacy/privacy)will apply to all new users and all users in the EU/EEA member countries.  The new Privacy Policy will be effective on June 23, 2018 for users outside the EU/EEA member countries who signed up for services before May 23, 2018.  The legacy version of the Privacy Policy will remain posted here until July 23, 2018 for your reference.
+
+ **PRIVACY POLICY**
 
   
 Your privacy is very important to Homestead Technologies, Inc. and its parent company Endurance International Group - West, Inc. (collectively referred to as "Homestead"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Homestead collects information from all end users of Homestead's Internet services (the "Services") including those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a service fee to subscribe to the Services ("Users"). We also describe what we do with the information we collect and the choices Visitors and Users have concerning the collection and use of such information. Homestead requests that you read this Privacy Policy carefully.
+
+The information that Homestead Technologies, Inc. collects in connection with the Services is hosted on servers located in the United States (U.S.), unless otherwise provided.
+
+By using the Services, you freely and expressly give Homestead Technologies, Inc. your consent to export your information and data to the U.S.
 
   1.  **INTRODUCTION**. Homestead collects information in different ways from Visitors and Users who access the various parts of our Services and the network of websites accessible through our Services. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required or permitted by law or other special cases described below.
 
