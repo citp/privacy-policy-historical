@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arabsexposed.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224124914id_/http%3A//arabsexposed.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabsexposed.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615173107id_/http%3A//arabsexposed.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
