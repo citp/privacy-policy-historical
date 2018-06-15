@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardoll.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628022843id_/https%3A//www.stardoll.com/en/help/termsOfUse.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardoll.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615030155id_/https%3A//www.stardoll.com/en/help/termsOfUse.php%23privacy) for the most accurate reproduction.*
 
 # Membership Agreement - Stardoll | English
 
@@ -29,8 +29,8 @@ For citizens in the US, the Children’s Online Privacy Protection Act rules app
 If you would like to see what information Stardoll has about your child, you can contact Stardoll at the same e-mail address indicated above: [parentalrights@stardoll.com](mailto:parentalrights@stardoll.com) or send us a letter to:
 
 STARDOLL AB  
-Luntmakargatan 26  
-S 111 37 Stockholm  
+Rosenlundsgatan 29C,  
+SE-118 63 Stockholm  
 SWEDEN  
 or fax at one of the following numbers:  
 Fax number: USA (+1 - 212 - 208 4566)  
@@ -40,12 +40,6 @@ Fax number: Argentina (+54 - 11 - 40321600)
 If your child has become a member of Stardoll and if you do not accept this Agreement please contact us at: parentalrights@stardoll.com. 
 
 For the security of our members Stardoll retains the right to require the identification of parents. We are not entitled to disclose other children's/members' personal data to you as a parent. Stardoll can only disclose personal data belonging to children other than your own if a legal and/or police obligation exists to do so.
-
-##### Privo's Privacy Assurance Program
-
-Stardoll AB (http://www.stardoll.com) is a Member of the PRIVO’s PRIVO-Cert™ Safe Harbor Certification Program (“the Program”). As a participating member in the Program, Stardoll AB adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third-party organization committed to safeguarding children's personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that Stardoll AB has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at privacy@stardoll.com. If you have further concerns after you have contacted Stardoll, you can contact PRIVO directly at privacy@privo.com.
-
-[](http://privo.com/privo-site-validation/?company=361)
 
 ##### 3\. Personal data and Privacy Policy (including Kid’s Privacy Policy)
 
@@ -193,10 +187,10 @@ When Stardoll cannot deliver products that have been ordered in the desired amou
 
 ##### 20\. General
 
-This Service is operated by Stardoll AB from its office in Stockholm, Sweden.  
-Stardoll AB   
-Luntmakargatan 26   
-S 111 37 Stockholm   
+This Service is operated by Glorious Games AB from its office in Stockholm, Sweden.  
+Glorious Games AB   
+Rosenlundsgatan 29C   
+S 118 63 Stockholm   
 Sweden   
 E-mail: [info@stardoll.com](mailto:info@stardoll.com)  
 Fax number: USA (+1 - 212 - 208 4566)  
