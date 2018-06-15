@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the animeboston.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228231243id_/http%3A//animeboston.com/registration/registration_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeboston.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615155718id_/http%3A//www.animeboston.com/registration/registration_privacy_policy) for the most accurate reproduction.*
 
 # Anime Boston - The Northeast's Largest Anime Convention
 
 This policy applies to all personal information we collect as part of the Registration process.
 
 **Who Collects Your Information:**  
-Information is collected on this website, particularly through our registration form, by Registration on behalf of Anime Boston and the New England Anime Society. 
+Information is collected on this website, particularly through our registration form, by Registration on behalf of Anime Boston and the New England Anime Society.
 
 **What Information is Collected:**  
-We gather full name, mailing address, emergency contact phone number, email address, a badge name (nickname), gender, and date of birth. 
+We gather full name, mailing address, emergency contact phone number, email address, a badge name (nickname), gender, and date of birth.
 
 **How this Information is Used:**  
-We use this information solely for planning and managing Anime Boston. 
+We use this information solely for planning and managing Anime Boston.
 
   * Mailing address and email address are collected to contact members regarding any problems with registration or payment and to verify admission.
   * Date of birth is required to verify eligibility for reduced rates for child admissions.
@@ -22,12 +22,12 @@ We use this information solely for planning and managing Anime Boston.
 
 
 **How This Information is Shared and Protected:**  
-_Anime Boston and the New England Anime Society will not distribute your information to outside parties_ , except as specifically required to achieve the uses stated above. 
+_Anime Boston and the New England Anime Society will not distribute your information to outside parties_ , except as specifically required to achieve the uses stated above.
 
   * Anime Boston Registration Customer Service and Outreach Staff and Anime Boston Executives have access to pre-registration information which is required to perform their staff duties.
   * Our pre-registration database is stored with our hosting provider, Expologic. They do not share any information with third parties.
   * Expologic provides our on-site registration services. Anime Boston retains full ownership of all registration information and will not permit subcontractors to distribute any information.
-  * Your emergency contact phone number may be provided to police and EMS if they have need to communicate with your emergency contact. Your emergency contact phone number will be removed from the Anime Boston database within seven (7) days of Anime Boston 2018.
+  * Your emergency contact phone number may be provided to police and EMS if they have need to communicate with your emergency contact. Your emergency contact phone number will be removed from the Anime Boston database within seven (7) days of Anime Boston .
   * Your birthdate is used to determine your membership rate, required registration information, and for demographic purposes. Your age is stored, but not your birthdate.
   * Your gender is used solely for demographic purposes.
   * As enumerated above in "How This Information is Used," limited information may be provided to the general public.
@@ -37,14 +37,15 @@ _Anime Boston and the New England Anime Society will not distribute your informa
 
 
 **How to Have Your Information Removed:**  
-[Contact Registration Customer Service](https://web.archive.org/coninfo/contact/127) to have all personal information purged from our database. _Please note that having your personal information purged will result in the loss of your pre-registration for Anime Boston, with no refund provided._
+[Contact Registration Customer Service](https://web.archive.org/coninfo/contact/127) to have all personal information purged from our database.
+
+_Please note that having your personal information purged will result in the loss of your pre-registration for Anime Boston, with no refund provided._
 
 **Special Considerations for Child Attendees:**  
-Children under the age of 13 are given special rates for admission to Anime Boston. Their information is also treated differently. 
+Children under the age of 13 are given special rates for admission to Anime Boston. Their information is also treated differently.
 
-  * All child attendees must submit a permission form, which is provided in the registration process. A parent or legal guardian must sign to confirm permission to use the child's personal data as outlined in this policy.
-  * Sixty days after the conclusion of Anime Boston 2018, the first name, last name, street address (but not city), and email address for any child attendee will be wiped from our database.
+All child attendees must submit a permission form, which is provided in the registration process. A parent or legal guardian must sign to confirm permission to use the child's personal data as outlined in this policy.
 
-
+Sixty days after the conclusion of Anime Boston , the first name, last name, street address (but not city), and email address for any child attendee will be wiped from our database.
 
 **Registrations are non-refundable, non-replaceable, and non-transferable.** See our [Registration Policies](https://web.archive.org/registration/registration_policy/) for details. Pre-registrants will receive their badges at the convention. Bring a photo ID (driver's license, passport, etc.) to the convention when you pick up your badge. Hotel accommodations are not included with registration - [contact the hotel directly](https://web.archive.org/location/hotel_info/) to reserve a room.
