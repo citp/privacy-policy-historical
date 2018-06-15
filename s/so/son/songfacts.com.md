@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songfacts.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208200956id_/http%3A//www.songfacts.com/blog/pages/songfacts_privacy_policy_and_legal_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songfacts.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615233746id_/http%3A//www.songfacts.com/blog/pages/songfacts_privacy_policy_and_legal_notice) for the most accurate reproduction.*
 
 # Songfacts Privacy Policy and Legal Notice : Songfacts Pages
 
@@ -15,7 +15,7 @@ If you have any questions about this Privacy Policy or don't see your concerns a
 
 **What Information Is Collected and Stored?**
 
-We don't sell, barter, give away, or rent your personal information to any outside company. We like you, but there's only so much we want to know about you: For purposes of registration, we collect some identifiable information such as your first name, email address, and location. We also may collect your browser type, domain name, access times and referring websites addresses.
+We don't sell, barter, give away, or rent your personal information to any outside company. We like you, but there's only so much we want to know about you: For purposes of registration, we collect some identifiable information such as your first name, email address, and location, which stays on our secure server. All of our partners are GDPR compliant.
 
 **Do I Have To Register?**
 
@@ -34,8 +34,6 @@ Also, like many Websites, we use "cookies", which are small text files that are 
 You may occasionally get cookies from companies advertising on our behalf. We do not control these cookies, and these cookies are not subject to this cookie policy.
 
 You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/)
-
-Like some Websites, we may use web beacons. A web beacon is an invisible graphic on a web page that is programmed to collect non-personally identifiable information about your use of a given website. Like cookies, web beacons allow Songfacts and its technology providers to summarize overall usage patterns for our analysis and provide personalized services. We do not share or provide personally identifiable information we may collect through such web beacons, such as names, e-mail addresses and phone numbers with our advertisers without your express permission.
 
 We work with third-party advertising companies on this Website. These companies may use information about your visits to this Website (not including your name, address, or other personally identifiable information) to provide advertisements on this Website, other websites and other media about goods and services that may be of interest to you. If you would like more information about these practices and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
