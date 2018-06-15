@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exametc.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126231903id_/http%3A//www3.exametc.com/ppolice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exametc.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615073859id_/http%3A//www.exametc.com/ppolice.php) for the most accurate reproduction.*
 
 # Exametc.com - Browse all India examination results and notifications of Secondary board, Higher secondary board, university, competitive examination and entrance examination
 
