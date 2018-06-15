@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the srmehranclub.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003083151id_/https%3A//srmehranclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srmehranclub.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616010613id_/https%3A//srmehranclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Srmehranclub.com
 
-Privacy Policy  2017-08-07T01:54:19+00:00 
+Privacy Policy  2018-05-19T12:27:28+00:00 
 
 We’ve created this privacy statement in order to show our commitment to our and your privacy. This page discloses the information gathering and dissemination practices for the website srmehranclub.com
 
@@ -31,12 +31,3 @@ This site has security measures in place to protect the loss, misuse, and altera
 ### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact srmehranclub.com by emailing admin AT srmehranclub DOT com.
-
-×
-
-## Get 10% off by liking our SRmehranclub Facebook Page!
-
-Please like our Facebook page and get 10% off from your cart.  
-All you have to do is to like our Facebook Page and confirm it with your email.
-
-Note: The generated coupon number will be valid only after you confirm your email ownership.
