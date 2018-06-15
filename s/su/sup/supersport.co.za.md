@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersport.co.za privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009011017id_/http%3A//www.dstv.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersport.co.za privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615092241id_/http%3A//www.dstv.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # DStv Website Privacy Policy
 
