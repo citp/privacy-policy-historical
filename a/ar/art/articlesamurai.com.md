@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesamurai.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235409id_/http%3A//www.noblesamurai.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesamurai.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615100914id_/http%3A//www.noblesamurai.com/privacy.php) for the most accurate reproduction.*
 
 # Noble Samurai - Privacy Policy
 
