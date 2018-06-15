@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examone.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225010031id_/http%3A//questdiagnostics.com/home/privacy-policy/online-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examone.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615122217id_/http%3A//questdiagnostics.com/home/privacy-policy/online-privacy.html) for the most accurate reproduction.*
 
 # Online Privacy Policy : Online Privacy Policy
 
@@ -8,8 +8,8 @@ Quest Diagnostics and its wholly-owned subsidiaries (collectively "Quest Diagnos
 
 Quest Diagnostics   
 Attention: Privacy Officer   
-1290 Wall Street West   
-Lyndhurst, NJ 07071
+500 Plaza Drive   
+Secaucus, NJ 07094
 
 You can also call us at 800-222-0446, ext. 8954.
 
@@ -126,7 +126,7 @@ UWAGA: Jeżeli mówisz po Polsku(Polish), możesz skorzystać z bezpłatnej pomo
 
 注意事項：日本語(Japanese)を話される場合、無料の言語支援をご利用いただけます。1.844.698.1022 まで、お電話にてご連絡ください。
 
-Date: September 1, 2017    
+Date: April 12, 2018    
  
 
   
