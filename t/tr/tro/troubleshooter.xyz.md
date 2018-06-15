@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troubleshooter.xyz privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207094641id_/http%3A//troubleshooter.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troubleshooter.xyz privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615065645id_/http%3A//troubleshooter.xyz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Troubleshooter
 
@@ -43,6 +43,16 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 When you visit our websites we use cookies. Cookies allow us to identify the computer or device you’re using to access our websites – but it won’t affect the user’s experience.  **This website uses “persistent” cookies. Cookies help us to store a bit of website data on your device, which helps the site to load fast in successive sessions.**
 
+### Log Files
+
+As with most other websites, we collect and use the data contained in log files. The information in the log files includes your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Chrome or Firefox), the time you visited our site and which pages you visited throughout our site.
+
+### Cookies and Web Beacons
+
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+
+We also use third party advertisements on troubleshooter.xyz to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.
+
 ### Use of cookies for Analytics
 
 We use _Google Analytics_ to analyze the use of this website. _Google Analytics_ generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. _Google_ will store this information. _Google_ ‘s privacy policy is available [here](https://www.google.com/policies/privacy/).
@@ -69,7 +79,7 @@ Gautam Budh Nagar
 India  
 Uttar Pradesh  
 201008  
-[[email protected]](http://troubleshooter.xyz/cdn-cgi/l/email-protection#ed8c898499948c8b8c9f9f8c89ad8a808c8481c38e8280)
+[[email protected]](http://troubleshooter.xyz/cdn-cgi/l/email-protection#0b6a6f627f726a6d6a79796a6f4b6c666a626725686466)
     
     
     **Last updated: 17th Nov 2016**
