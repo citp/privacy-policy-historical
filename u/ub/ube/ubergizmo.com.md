@@ -1,20 +1,28 @@
-> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226212005id_/http%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615140010id_/http%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ubergizmo
 
-### Ubergizmo.com Privacy Statement
+This statement covers the site located at [http://www.ubergizmo.com](http://www.ubergizmo.com/) (Ubergizmo). The Service is intended for visitors located within the United States.  Sites located on sub-domains may be managed by 3rd-party franchisees established in different geographical areas.
 
-This statement covers the site www.ubergizmo.com (Ubergizmo).
+Please read this statement carefully before using proceeding to access Ubergizmo. Your use of Ubergizmo indicates your agreement to abide by the Terms in effect.
 
-lease read this statement carefully before using proceeding to access Ubergizmo. Your use of Ubergizmo indicates your agreement to abide by the Terms in effect.
+## Information Collection
 
-### Information Collection
+Ubergizmo may collect information from our users at several different points on our Web site, including IP addresses present on our server log files (see below). If you do not provide Personal Information when requested by www.ubergizmo.com, you may not be able to utilize the Service if that information is necessary for us to to provide you with the service or if we are legally required to collect it.
 
-Ubergizmo is the sole owner of the information collected on www.ubergizmo.com. Ubergizmo may collect information from our users at several different points on our Web site, including IP addresses present on our server log files (see below).
+We collect Personal Information from you when you register on our site, connect your social media accounts to www.ubergizmo.com, communicate with www.ubergizmo.com, subscribe to our newsletter, respond to a survey, fill out a form, or otherwise when you directly provide it to us. We also collect information automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies and other tracking technologies.
 
 ### Mailing List
 
 In order to sign up to receive regular emails from this mailing list, users must submit information including a valid email address. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization than the third party service that hosts the newsletter service.
+
+### Cookies and Related Technologies
+
+Like many websites, we also use “cookie” technology to collect additional website usage data and to improve the Site and our Service. A cookie is a small data file that we transfer to your computer’s hard disk. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. We may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our Service.
+
+We may also automatically record certain information from your device by using various types of technology, including “clear gifs” or “web beacons.” This automatically collected information may include your IP address or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after you use the Service, the pages or other content you view or otherwise interact with on the Service, and the dates and times that you visit, access, or use the Service. We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message, to the extent permitted under applicable law.
+
+You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential.
 
 ### Third Party Cookies
 
@@ -22,7 +30,7 @@ Some of our business partners may use cookies on our site (for example, advertis
 
 ### Third Party Advertising
 
-The ads appearing on this Web site are delivered to users by [Google](http://www.ubergizmo.com/what-is/google-company-quick-facts/), among other services. Information about users’ visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, please click here.
+We use many third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 ### Log Files
 
@@ -39,14 +47,6 @@ In the event Ubergizmo goes through a business transition, such as a merger, acq
 ### Links
 
 The Ubergizmo web site contains links to other sites. Please be aware that we, Ubergizmo, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Ubergizmo.
-
-### Third Party Advertising
-
-We use many third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
-
-### Third Party Cookies
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 ### Notification of Changes
 
