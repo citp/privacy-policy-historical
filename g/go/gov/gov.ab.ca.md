@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gov.ab.ca privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215180505id_/https%3A//www.alberta.ca/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.ab.ca privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615180517id_/https%3A//www.alberta.ca/privacystatement.aspx) for the most accurate reproduction.*
 
-# Privacy | alberta.ca
+# Privacy | Alberta.ca
 
 The Government of Alberta is committed to ensuring your privacy while you visit this site. 
 
 ## Collection of information
 
-All information is collected in compliance with section 33 (c) of the Freedom of Information and Protection of Privacy (FOIP) Act.
+All information is collected in compliance with section 33 (c) of the _Freedom of Information and Protection of Privacy (FOIP) Act_.
 
 When you visit this site, our web server automatically collects a limited amount of standard information essential to the operation and evaluation of the site. This information is not used to identify individuals who come to the site, nor is it disclosed to other public bodies or individuals.
 
@@ -47,7 +47,13 @@ This site uses a number of third party products. Read their privacy statements t
 
 [Crazy Egg privacy statement](http://www.crazyegg.com/privacy)
 
+[Facebook cookie policy](https://www.facebook.com/policies/cookies/)
+
 [Google Analytics privacy statement](https://www.google.com/policies/privacy/)
+
+[Google AdWords cookie usage](https://www.google.com/policies/technologies/ads/)
+
+[Twitter cookie policy](https://help.twitter.com/en/rules-and-policies/twitter-cookies)
 
 ## Security
 
