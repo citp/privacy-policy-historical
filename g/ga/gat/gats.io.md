@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gats.io privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221000346id_/http%3A//stats.gats.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gats.io privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615093327id_/http%3A//stats.gats.io/privacy) for the most accurate reproduction.*
 
 # Stats | gats.io - Player Stats | Customize - Upgrade - Compete
 
@@ -32,7 +32,7 @@ You have a right to access your personal information, subject to exceptions allo
 
 **Contacting us**
 
-Gats.io welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fa9995948e9b998eba9d9b8e89d49395c5a98f98909f998ec7aa88938c9b9983)
+Gats.io welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5c3f3332283d3f281c3b3d282f723533630f293e36393f28610c2e352a3d3f25)
 
 **About us**
 
