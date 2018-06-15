@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renovopower.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227183930id_/http%3A//renovopower.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renovopower.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615122151id_/http%3A//renovopower.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
