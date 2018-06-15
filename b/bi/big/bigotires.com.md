@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigotires.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114184229id_/http%3A//www.bigotires.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigotires.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616001157id_/http%3A//bigotires.com/Privacy) for the most accurate reproduction.*
 
 # Big O Tires - Privacy Policy
 
-### Big O Tires Privacy Pledge
+## Big O Tires Privacy Pledge
 
 We value the trust you place in Big O Tires. Therefore, at Big O Tires and bigotires.com the protection of your privacy is critical to us and we understand that it is vital to the continued trust you place in our company. We do not sell, rent or relinquish customer names, addresses, email addresses or customer-identifiable information of any kind to anyone. All information is stored in a secure location. 
 
