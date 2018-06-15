@@ -1,41 +1,135 @@
-> *The following text is extracted and transformed from the autospectator.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024133313id_/http%3A//www.autospectator.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autospectator.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615094529id_/http%3A//autospectator.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Forum Autospectator
 
-**Privacy Policy  
-[autospectator.com](http://autospectator.com/) **
+### AutoSpectator.com Privacy Policy
 
-**Privacy**
+#### Effective Date: July 16, 2017
 
-Internet user privacy and confidentiality are of the utmost importance to autospectator.com. All visitors to autospectator.com retain complete anonymity. As content or ads are delivered, we do not acquire or collect any personal information about you. Your name, address, phone number, and email address all remain your private properties. autospectator.com does, however, collect information which is specific to how you use the Internet. We note non-personally identifying details such as, but not limited to, the server you are logged onto, the geographic location of the ISP you use, the type of browser you use, and your IP address. This information is obtained solely for the purpose of evaluating site traffic in general terms. We do not share any of the information we may collect with any other parties.
+#### Introduction
 
-**Cookies**
+Thank you for your interest in AutoSpectator.com, a website owned and operated by CPO Economics SRL. We respect the privacy of our users when they use our websites, mobile and other online applications and products and services (collectively, the “AutoSpectator.com Industry Sites”). By using AutoSpectator.com Industry Sites, you consent to the use of your information and information about you in accordance with this Privacy Statement. 
 
-autospectator.com may use cookies to improve your web browsing experience. We neither collect nor share any information from cookies used in autospectator.com web applications.
+When we refer to AutoSpectator.com within this Privacy Statement, we are referring to AutoSpectator.com, Inc. This Privacy Statement applies to information collected through the AutoSpectator.com Industry Sites and does not describe the collection, use and disclosure practices of any of our corporate affiliates or third parties. The AutoSpectator.com Industry Sites are intended for employees and representatives of motor vehicle dealerships, manufacturers and other industry business entities. For information on the collection, use and disclosure practices of any company with whom you are doing business, whether or not affiliated with AutoSpectator.com, please review their privacy policies. 
 
-If you wish to disable cookies, you may do so by changing settings on your Internet browser. This may disrupt certain aspects of your web browsing experience.
+Services offered by AutoSpectator.com are not directed to individuals under the age of eighteen (18). If you are under eighteen (18), you should not provide any personal information to us. 
 
-You may also choose to opt out from specific advertising networks by visiting the Network Advertising Initiative pages [here](http://www.networkadvertising.org/).
+#### Information We Collect
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/).
+Information is gathered from the AutoSpectator.com Industry Sites by us, our service providers, advertisers, sponsors and partners. 
 
-**Advertising Networks**
+**Information You Provide.** We may collect information that you choose to provide on the AutoSpectator.com Industry Sites in a variety of ways, such as when you: 
 
-This site may be a member of several internet advertising networks. Ads served by these networks and displayed on this website are subject to the privacy policies of those respective networks. For more information, please refer to the links below:
+  1. register for, or request a demonstration of, one of our products or services. This information may include your name, address, telephone number, email address, dealer ID and register for an event;
+  2. make information available to us via social networking logins, such as Facebook or Twitter;
+  3. participate in chats, web forums or other interactive sessions;
+  4. subscribe to newsletters or provide feedback; and
+  5. participate in surveys, sweepstakes or other promotions.
 
-* [Google](http://www.google.com/privacy.html)  
-* [ValueClick, Inc. ](http://www.valueclick.com/privacy.html)
 
-* Google, as a third party vendor, uses cookies to serve ads on this site.  
-* Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.  
-* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-**Third Party Cookies**
+**Automated Information.** Information regarding your use of the AutoSpectator.com Industry Sites may be collected and/or aggregated through the use of automated means. This automatically collected information may include information such as: 
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.If you would like more information about opting out of any third party data collection activities, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+  1. your IP address, the type of browser and operating system used;
+  2. date and time you access the AutoSpectator.com Site and pages you visit, and if you linked from or to another website, the address of that website;
+  3. email you open and links you click on within those emails; and
+  4. your ISP or mobile carrier, and the type of handheld or mobile device that you used.
 
-autospectator.com reserves the right to change our policy from time to time.
 
-Return to:
 
-| [autospectator.com](http://www.autospectator.com/) | 
+**Data Technologies.** Various technologies are used to automatically collect information, such as cookies, local shared objects, and web beacons (generally referred to as “Data Technologies”). “Cookies” are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. “Local shared objects,” sometimes known as Flash cookies, may be used to store your preferences or display content based upon what you have viewed on various websites to personalize your visit. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies. Anonymous advertising identifiers are increasingly being used on mobile devices and otherwise in a manner similar to cookies. When we refer to Data Technologies, we are including all current and similar future technologies. 
+
+One or more Data Technologies may be used on the AutoSpectator.com Industry Sites and other websites and mobile applications (that may not be the AutoSpectator.com Industry Sites) by us, by another party on our behalf, or by third parties in accordance with their privacy policies. Data Technologies may be used by us and others, on your behalf and on their own behalf, to transmit information to you or about you and connect information about you from different sources, websites, devices, and mobile applications. 
+
+**Videos.** We may target and track the videos you view onAutoSpectator.com Industry Sites. You consent to our tracking of your video viewing through the AutoSpectator.com Industry Sites or a third party social media site as permitted by applicable law. 
+
+**Location Information.** When you download or use the AutoSpectator.com Industry Sites, we may collect physical location information that is sufficiently precise to allow us to locate a specific person or device (“Location Information”). We only collect Location Information with your permission (e.g., such as when you agree to provide it to us after you initially access or download the AutoSpectator.com Industry Sites). We may use Location Information and provide it to third parties to provide you with content and services that are relevant to a particular location, such as advertising and directions. 
+
+**Publicly Posted Information.** Information that you make available to us and others via social media networks, forums, blogs, list serves, chat rooms or similar functionality is public information that we or others may share or use in accordance with the law. 
+
+**Combined Information and Information from Other Sources.** We may combine information that you provide to us with information we receive from our affiliates and other sources, as well as with other information that is automatically collected. The combined information may include information about your use of the AutoSpectator.com Industry Sites, your use of other websites, devices and mobile applications and information from our affiliates and other sources. 
+
+#### How We May Use the Information We Collect
+
+We may use information we collect for the following purposes: 
+
+  1. for everyday business purposes, such as establishing and managing your user account, providing products and services you request, and providing customer support;
+  2. to create listings and advertisements for any cars and other vehicles that you list for sale with us. These lists and advertisements may appear on the AutoSpectator.com.com and other websites, mobile applications or services of third parties;
+  3. to offer our other products or services and/or the products or services of others to you;
+  4. to communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes and other offers or promotions;
+  5. to enable you to interact with AutoSpectator.com and our users, dealers, manufacturers and others through various means, such as through our message boards, blogs and social media;
+  6. to evaluate and improve our business, including developing new products and services and analyzing the effectiveness of products, services, applications and websites;
+  7. to diagnose and address technical and service problems;
+  8. to perform data analyses, including market and consumer research, trend analysis, demographic analysis and financial analysis;
+  9. to deliver content (including advertising) correlating to your interests and browsing and usage history, both within the AutoSpectator.com Industry Sites and on other websites and applications;
+  10. to comply with applicable legal requirements and our policies; and
+  11. to contact you via telephone, text or chat. We will obtain your consent to contact you when and in the manner required by law.
+
+
+
+#### Applications, Widgets and Social Media
+
+We may include applications or widgets from social media providers that allow interaction or content sharing by their users. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the web page you visit. Integration between the AutoSpectator.com Industry Sites and social media networks such as Facebook, Twitter and others may allow social media networks in which you participate to collect information about you, even when you do not explicitly activate the network’s application or widget. Please visit the applicable social media network’s privacy policy to better understand their data collection practices and choices they make available to you. The privacy policy of the social media network controls the collection, use and disclosure of all personal information transmitted to that network. 
+
+#### Advertising Networks
+
+Advertising that is customized based on predictions generated over time from your visits across different websites, devices and mobile applications is sometimes called “online behavioral” or “interest-based” advertising. We may partner with advertising networks, which are companies that deliver targeted advertisements to consumers and generate statistics and metrics related to the delivery of interest-based advertisements. They may utilize information collected through a variety of Data Technologies to provide customization, auditing, research and reporting for us, our affiliates and other advertisers. This data collection takes place both on the AutoSpectator.com Industry Sites and on third-party’s websites and mobile applications. This process allows AutoSpectator.com and third parties to deliver targeted advertising, enhance marketing programs and help track the effectiveness of such efforts. Our advertising networks also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences and measuring the effectiveness of their advertising in accordance with their privacy policies. 
+
+We do not provide information that is directly associated with a specific person (such as name and address) to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the advertiser may make an assumption that you are interested in the subject matter of the advertisement. 
+
+#### Information We Share
+
+We do not sell or otherwise share information about you that we collect or receive, except as described below: 
+
+  1. **Affiliates.** We may share information about you, including personal information, with our corporate affiliates, who will use it in accordance with their privacy policies.
+  2. **Our Service Providers.** We may engage third parties to provide the services offered through or in connection with the AutoSpectator.com Industry Sites on our behalf. We require such providers to maintain information about you as confidential and to use the information only to perform the services specified by us in a manner consistent with this Privacy Statement.
+  3. **Corporate and Asset Transactions.** If we sell all or substantially all of our business or sell or transfer all or a material part of our assets, or are otherwise involved in a merger or transfer of all or a substantial part of our business, we may transfer all information we have collected and stored, including personal information, to the party or parties involved in the transaction as part of that transaction.
+  4. **Other.** We may access or disclose information, including personal information, to: 
+    * _a._ protect or defend our interests and the legal rights or property of AutoSpectator.com and our affiliates;
+    * _b._ protect the rights, interests, safety and security of users of the AutoSpectator.com Industry Sites or members of the public;
+    * _c._ protect against fraud or for risk management purposes; or
+    * _d._ comply with prudent legal practice as we may determine, and applicable law or legal process.
+
+
+
+#### Your Choices
+
+You are entitled to make certain choices about how we communicate with you. 
+
+  1. You may choose not to provide personal information, even though that might impact your ability to register or receive a particular product or service.
+  2. If you do not want to receive marketing email from us, you can follow the unsubscribe link provided in those emails.
+  3. If you do not want to receive interest-based advertisements, you can opt out as discussed in the “Advertising Networks” section above.
+  4. You have a number of choices regarding certain Data Technologies. Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or opting out at ghosteryenterprise.com or the website of the technology provider. If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result. You may be able to adjust the use of advertising identifiers on mobile devices through the settings on your device.
+  5. If you do not want us to use Location Information, you can decline our initial invitation to provide that information, or opt out by changing the location services settings on your mobile device. However, please note that certain features may not function properly or at all as a result if you opt out.
+
+
+
+#### Your California Privacy Rights
+
+California Civil Code Section 1798.83 entitles California users to request information concerning whether a business has disclosed certain information about you to any third parties for the third parties’ direct marketing purposes. California users who wish to request further information in compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the “How to Contact Us” section below. 
+
+Online Tracking Policy for California Residents. As of the effective date of this Privacy Statement, there is no commonly accepted response for Do Not Track signals initiated by browsers, therefore we do not respond to them. 
+
+#### Access and Correction
+
+Access to information that we collect and maintain about you may be available to you. For example, if you created a password-protected account within the AutoSpectator.com Industry Sites, you can access that account to update the information you previously provided. Additionally, if you believe that information we maintain about you is inaccurate, subject to applicable law, you may request that we correct or amend the information by contacting us as indicated in the “How to Contact Us” section below. 
+
+#### Links
+
+The AutoSpectator.com Industry Sites may contain links to websites not operated by us, as well as third party widgets and applications discussed above. Once you leave the AutoSpectator.com Industry Sites, we suggest that you review the applicable privacy policy of the third-party website or application. We are not responsible for the content or use of any websites or applications other than on the AutoSpectator.com Industry Sites or the privacy practices of those websites or applications. 
+
+#### Data Security
+
+We use commercially reasonable administrative, technical, personnel, and physical security measures designed to safeguard information about you in our possession against loss, theft and unauthorized use, disclosure or modification. Of course, despite these measures, we cannot guarantee perfect security of networks, servers and databases we operate or that are operated on our behalf. 
+
+#### Disputes
+
+If you choose to visit the AutoSpectator.com Industry Sites, your visit and any dispute regarding privacy is subject to this Privacy Statement and our Visitor Agreement, including limitations on damages, resolution of disputes, and application of the law of the state of Georgia. 
+
+#### Updates to this Privacy Statement
+
+We may update this Privacy Statement to provide clarification or notice of changes to our practices. If we make changes, we will revise the date at the top of this Privacy Statement. We will provide you with additional notice of material changes by posting notice of the changes for thirty (30) days before we implement those changes. 
+
+#### How to Contact Us
+
+If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us by email at contact @ AutoSpectator.com. 
