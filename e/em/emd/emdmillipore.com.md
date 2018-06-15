@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emdmillipore.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225153448id_/http%3A//www.emdmillipore.com/US/en/legal/privacy-statement/Y.2b.qB.iJsAAAFA8iYQWTDS%2Cnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emdmillipore.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615185814id_/http%3A//www.emdmillipore.com/US/en/legal/privacy-statement/Y.2b.qB.iJsAAAFA8iYQWTDS%2Cnav) for the most accurate reproduction.*
 
 # Privacy Statement | MilliporeSigma
 
