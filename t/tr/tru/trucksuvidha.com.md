@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trucksuvidha.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218214747id_/http%3A//trucksuvidha.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trucksuvidha.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615052610id_/http%3A//trucksuvidha.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy, Load/Cargo/Freight, Truck/Lorry, TruckSuvidha
 
@@ -47,7 +47,7 @@ We value the trust you place on us. That's why we insist upon the highest standa
 
 ### Grievance Officer 
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20171218214747id_/http%3A//trucksuvidha.com/ContactUs.aspx "Get in touch with TruckSuvidha") using the information below or drop us a mail with subject line-PRIVACY POLICY:
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20180615052610id_/http%3A//trucksuvidha.com/ContactUs.aspx "Get in touch with TruckSuvidha") using the information below or drop us a mail with subject line-PRIVACY POLICY:
 
 **Sarvodaya Infotech Pvt. Ltd.**  
 **Address:** 2nd Floor, Kamla Nagar, Jagadhri Road, Near Telephone Exchange, Yamunanagar, Haryana, India,135001   
