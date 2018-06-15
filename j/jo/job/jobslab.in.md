@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobslab.in privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118063949id_/http%3A//www.jobslab.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobslab.in privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615224031id_/http%3A//www.jobslab.in/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Jobs Lab
+# Privacy Policy - JobsLab
 
 The privacy of our visitors is important to us.
 
