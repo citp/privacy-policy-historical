@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebiesfrenzy.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204130520id_/http%3A//freebiesfrenzy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebiesfrenzy.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615162508id_/http%3A//freebiesfrenzy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
