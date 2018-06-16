@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keybase.io privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717074717id_/https%3A//keybase.io/docs/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keybase.io privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616084421id_/https%3A//keybase.io/docs/privacypolicy) for the most accurate reproduction.*
 
 # Keybase
 
@@ -12,7 +12,7 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE SERVICE. It describes
 
 We reserve the right, at our sole discretion, to modify or replace this Privacy Policy at any time in accordance with Section 9 ( **“Changes to this Privacy Policy”** ). Access to the Service is offered to you conditioned on your acceptance without modification of this Privacy Policy.
 
-By using the Service, you consent to the collection, use and disclosure of information in accordance with this Privacy Policy. IF YOU DO NOT ACCEPT THIS PRIVACY POLICY, DO NOT USE THE SERVICE. If you have any questions, please contact us by sending an email to privacy@keybase.io or writing to Keybase, Inc., 85 Broad St., 18th Floor - NY, NY 10004.
+By using the Service, you consent to the collection, use and disclosure of information in accordance with this Privacy Policy. IF YOU DO NOT ACCEPT THIS PRIVACY POLICY, DO NOT USE THE SERVICE. If you have any questions, please contact us by sending an email to [privacy@keybase.io](mailto:privacy@keybase.io) or writing to Keybase, Inc., 85 Broad St., 18th Floor - NY, NY 10004.
 
   1. Collection of Information
   2. How We Use and Share Your Information
@@ -95,7 +95,7 @@ If you choose to share any other information with a third party, such as Faceboo
 
 Deleting Your Information. The record of your published information and Actions from the Directory and the Bitcoin Blockchain cannot be deleted. If you wish to change the Directory, you must revoke the prior information provided using the process described above under “Disclosure of Your Information”.
 
-Other Issues. To contact us about any other issue with the Service, please email us at privacy@keybase.io.
+Other Issues. To contact us about any other issue with the Service, please email us at [privacy@keybase.io](mailto:privacy@keybase.io).
 
 ### 4\. COOKIES
 
@@ -105,7 +105,7 @@ Keybase may use both persistent and session cookies; persistent cookies remain o
 
 ### 5\. CHILDREN
 
-We do not allow persons under 13 to register for the Service, and we do not knowingly collect any Personal Information from persons under the age of 13. We do not direct any of our business practices or system outputs towards children under the age of thirteen. If we are notified or have any other reason to believe that we have collected Personal Information from or about a child under the age of thirteen, we will purge all of the data and information collected from that user. Keybase cannot remove partial data or information regarding a specific user. As such, if a user’s data or information must be removed pursuant to this section, the entire record of such user’s data or information will be purged from the Service. If you believe Keybase has information from or about a child less than thirteen years of age, please contact us at privacy@keybase.io. If you are between 13 and 18 years of age, you must have your parent or legal guardian’s permission to use the Services. You must not access our website, use the Service or accept our Terms of Service if you are a person who is either barred or otherwise legally prohibited from receiving or using the Service.
+We do not allow persons under 13 to register for the Service, and we do not knowingly collect any Personal Information from persons under the age of 13. We do not direct any of our business practices or system outputs towards children under the age of thirteen. If we are notified or have any other reason to believe that we have collected Personal Information from or about a child under the age of thirteen, we will purge all of the data and information collected from that user. Keybase cannot remove partial data or information regarding a specific user. As such, if a user’s data or information must be removed pursuant to this section, the entire record of such user’s data or information will be purged from the Service. If you believe Keybase has information from or about a child less than thirteen years of age, please contact us at [privacy@keybase.io](mailto:privacy@keybase.io). If you are between 13 and 18 years of age, you must have your parent or legal guardian’s permission to use the Services. You must not access our website, use the Service or accept our Terms of Service if you are a person who is either barred or otherwise legally prohibited from receiving or using the Service.
 
 ### 6\. USERS FROM OUTSIDE OF THE UNITED STATES
 
@@ -113,7 +113,7 @@ If you’re outside the United States, your information will be sent to and stor
 
 ### 7\. YOUR CALIFORNIA PRIVACY RIGHTS
 
-California Civil Code Section 1798.83 permits users who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. If you are a California resident, you will be pleased to hear we’d sooner light our servers on fire than sell your data for direct marketing purposes. To make such a request, please contact us at legal@keybase.io.
+California Civil Code Section 1798.83 permits users who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. If you are a California resident, you will be pleased to hear we’d sooner light our servers on fire than sell your data for direct marketing purposes. To make such a request, please contact us at [legal@keybase.io](mailto:legal@keybase.io).
 
 ### 8\. SECURITY
 
@@ -133,4 +133,4 @@ We may update this Privacy Policy from time to time. If we make any material cha
 
 ### 10\. CONTACT US
 
-If you have any questions about this privacy policy, please email us at privacy@keybase.io.
+If you have any questions about this privacy policy, please email us at [privacy@keybase.io](mailto:privacy@keybase.io).
