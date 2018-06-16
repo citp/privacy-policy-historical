@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the icoupon365.com privacy policy that was archived on 2017-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171212135629id_/http%3A//www.icoupon365.com/page/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icoupon365.com privacy policy that was archived on 2018-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180616084434id_/http%3A//www.icoupon365.com/page/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" lang="en"><!--<![endif]--><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -26,12 +26,12 @@
 
 
 
-<script type="text/javascript" async="" src="https://js.srvtrck.com/v1/js?api_key=a257d4fd0d63c649f5b5afe5b9be5a1b&amp;site_id=395309b4525d4e1db1c3e6a4dcf30dda"></script></head>
+</head>
 <body>
 <noscript>
     <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N9JMGS" height="0" width="0" style="display:none;visibility:hidden"></iframe>
 </noscript>
-<script type="text/javascript" async="" src="//cdn.viglink.com/api/vglnk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N9JMGS"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N9JMGS"></script><script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N9JMGS"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N9JMGS"></script><script>
     (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -159,7 +159,7 @@ Last Updated on June 1st, 2013            </div>
             <li class="item"><a href="/page/terms">Terms &amp; Conditions</a></li>
             <li class="item"><a href="http://storeviews.net/" title="storeviews">Storeviews</a></li>
         </ul>
-        <div class="copyright">© 2011-2017 iCoupon365.com</div>
+        <div class="copyright">© 2011-2018 iCoupon365.com</div>
     </div>
 </div>
 <div class="container"><div class="span4 offset4">
@@ -294,7 +294,14 @@ Last Updated on June 1st, 2013            </div>
                 hideControlOnEnd: false,
                 auto: true
             });
-        })
+        });
+        $('.coupon-code').on('click touch',function (event) {
+            var $aux = $('<input/>').val($(this).find('.code-text').html());
+            $(event.currentTarget).after($aux);
+            $aux[0].select();
+            document.execCommand("copy");
+            $aux.remove();
+        });
     });
 </script>
 
@@ -321,63 +328,6 @@ Last Updated on June 1st, 2013            </div>
 </script>
 <script type="text/javascript" src="http://static.icoupon365.com/min/g=icoupon365.js&amp;21"></script>
 <script type="text/javascript" src="/static/christmasV2/js/main.js"></script>
-<script type="text/javascript">
-    var clip = null;
-    var href = '';
-    var last_href = '';
-    var glue_id = '';
-
-    ZeroClipboard.setMoviePath('http://static.icoupon365.com/static/zc/ZeroClipboard.swf');
-    if (typeof $.flash != 'undefined' && true == $.flash.available) {
-        clip = new ZeroClipboard.Client();
-        clip.setHandCursor(true);
-        //clip.setCSSEffects(true);
-        clip.addEventListener('mouseOut', function(client) {
-            $('#coupon-' + glue_id + ' .coupon-code .code').trigger('mouseout');
-            clip.hide();
-        });
-        clip.addEventListener('complete', function(client) {
-            var old_width = $(".tooltip .tooltip-inner").css('width');
-            $(".tooltip .tooltip-inner").html('Code Copied');
-            $(".tooltip .tooltip-inner").css('width', old_width);
-
-                        var child = window.open (href);
-            if(child == null || child == undefined){
-            } else {
-                child.blur();
-                window.focus();
-                event.preventDefault();
-            }
-                    });
-        clip.addEventListener('mouseOver', function(client) {
-            $('#coupon-' + glue_id + ' .coupon-code .code').trigger('mouseover');
-        });
-        //clip.receiveEvent('mouseOver',  null);
-    }
-    (function($){
-        $.fn.click2copy = function(){
-            if (typeof $.flash != 'undefined' && true == $.flash.available) {
-                $(this).mouseover(function(){
-                    glue_id = $(this).closest('.coupon-item').attr('data-coupon-id');
-                    href = $(this).attr('href');
-                    clip.setText( $("span.code-text",this.parentNode).text());
-                    if (last_href != href) {
-                        last_href = href;
-                        $(".code-hint .tooltip-inner").html('Click to Copy Code');
-                        $(".code-hint").css('margin-left', '-88px');
-                    }
-                    if (clip.div) {
-                        clip.reposition(this);
-                    } else {
-                        clip.glue(this);
-                    }
-                });
-            }
-        };
-
-                $('.code').click2copy();
-            })(jQuery);
-</script>
 
 
   <!-- Google Tag Manager -->
@@ -392,27 +342,6 @@ Last Updated on June 1st, 2013            </div>
 
 
 
-
-<script type="text/javascript">
-    var vglnk = { key: 'ba46b57df5593509dbd93d27e752ff96' };
-
-    (function(d, t) {
-        var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
-        s.src = '//cdn.viglink.com/api/vglnk.js';
-        var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
-    }(document, 'script'));
-</script>
-
-<script type="text/javascript">
-    (function () {
-        var scriptProto = 'https:' == document.location.protocol ? 'https://' : 'http://';
-        var script = document.createElement('script');
-        script.type = 'text/javascript';
-        script.async = true;
-        script.src = scriptProto+'js.srvtrck.com/v1/js?api_key=a257d4fd0d63c649f5b5afe5b9be5a1b&site_id=395309b4525d4e1db1c3e6a4dcf30dda';
-        (document.getElementsByTagName('head')[0] || document.body).appendChild(script);
-    })();
-</script>
 
 
 
