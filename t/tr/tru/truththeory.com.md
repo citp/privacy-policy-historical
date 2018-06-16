@@ -1,22 +1,23 @@
-> *The following text is extracted and transformed from the truththeory.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902121326id_/https%3A//truththeory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truththeory.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616104359id_/https%3A//truththeory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TruthTheory
 
-**Introduction**
+**(Updated May 2018)  
+Introduction**
 
-As a company processing some personal data, we are regulated by the Data Protection Act. This page is intended to keep you informed about what we do with the personal data we process. ‘Personal data’, for the purposes of the Act, means any information which can be used to identify an individual person; it includes things like your name, e-mail address, delivery address, billing address, telephone number and IP address. 
+As a company processing some personal data, we are regulated by the Data Protection Act we also intend to be GDPR compliant. This page is intended to keep you informed about what we do with the personal data we process. ‘Personal data’, for the purposes of the Act, means any information which can be used to identify an individual person; it includes things like your name, e-mail address, delivery address, billing address, telephone number and IP address. 
 
-We are committed to protecting your privacy. We will endeavour to ensure that the information you provide us with is kept private and confidential and is only used to provide the services you request. **By using this website (the “Site”) and/or our services,** **you confirm that you accept this privacy policy and consent to our using your personal data as set out in this Privacy Policy.**
+We are committed to protecting your privacy. We will endeavour to ensure that the information you provide us with is kept private and confidential and is only used to provide the services you request. **By using this website (the “Site”) and/or our services,** **you confirm that you accept this privacy policy and consent to our using your personal data as set out in this Privacy Policy.   We operate Truththeory.com and Truththeory.org. **
 
 We are the data controller for the Site.
 
 **Information we collect**
 
-If you use the Site just to browse the content, we will not collect, store or process any personal data of yours. 
+If you wish to post a comment, you will need to be signed into a Facebook account and the account name will be displayed above your comment. Your data needed for posting comments on Truth Theory is stored by Facebook and subject to their privacy policy.
 
-If you wish to post a comment, you will need to be signed into a Facebook account and the account name will be displayed above your comment. That name will be stored in our servers for the purpose of such display.
+If you submit material to us as a contributor, we will store your name, email address and any other personal information that you supply, for administrative and contact purposes. However, we do not require you to submit any personal information other than your name and email address. If we reject your contribution, we will store our email correspondence only in our mailbox. 
 
-If you submit material to us as a contributor, we will store your name, email address and any other personal information that you supply, for administrative and contact purposes. However, we do not require you to submit any personal information other than your name and email address. If we reject your contribution, we will store your name and email address for a period of up to one year, for archival purposes. 
+We aggregate personal, anonymized data we collect, using tools like Google Analytics, such as the number and frequency of your visits, location, demographics, type of device used, to our sites, to produce metrics and statistical information. We may share this data with third parties to improve our services.
 
 **Cookies**
 
@@ -26,7 +27,7 @@ This site uses cookies to distinguish you from other users of the Site. This hel
 
 We are registered as required under the Data Protection legislation, and we will only process your personal information in line with the principles set out in the Act. 
 
-We will process your personal data carefully and lawfully, and will only share them within our organisation and among our employees and appointed representatives, except where we have your explicit consent.
+We will process your personal data carefully and lawfully, and will only share them within our organisation and among our employees and appointed representatives and/or our contractors (this is only done to improve our services). 
 
 **Security**
 
@@ -44,15 +45,9 @@ We will not share your personal information with advertisers. However, some of t
 
 **Purpose and Duration**
 
-We will use your personal data to: 
+We will use your personal data to:
 
-  1. For **users who do not leave comments** on the Site, we will not store any personal information of yours.
-
-  2. For **users who leave comments** on the Site, we will not use or disclose your personal information (that is, your email address) but will store it for as long as your comment is displayed below the article under which you left it.
-
-  3. For **contributors** , we will use your personal information:
-
-
+**For contributors, we will use your personal information:**
 
   * to send and respond to emails from you
 
@@ -67,7 +62,20 @@ We will use your personal data to:
 
 
 
-We will hold your personal information for as long as we need to in order to comply with our legal obligations. You may request for your personal information to be deleted at any time by emailing truththeorycom@gmail.com. Deleted content may persist in backup copies for up to one year, but will not be available to third parties. 
+We will hold your personal information for as long as we need to in order to comply with our legal obligations. You may request for your personal information to be deleted at any time by emailing truththeorycom@gmail.com. Deleted content may persist in backup copies for up to one year, but will not be available to third parties.
+
+**Data We Collect When You Sign Up To Our Email List (Newsletter)  **
+
+You give us permission to do the following and you acknowledge that:
+
+  1. We will collect your email address, your name and your IP address and your location (city and country) for the purpose of sending you our email updates
+  2. The content we will be emailing to you can vary, this can include things like updates about new content published or produced by Truth Theory. The occasional product offers from us or our partners. Updates about Truth Theory’s activities or our partner’s activities. The emails you will be receiving from us might contain links to external websites and social media profiles.
+  3. We will send emails to you when we feel there is anything important that we want to share, this can be few times per month or few times per week.
+  4. You can unsubscribe at any time by opening one of the emails from us and clicking on the unsubscribe option and we will delete the data we hold about you.
+  5. We use services like Aweber where we store your data, we might hold a copy of your data in our own database as well. Aweber can track email open rate, click rate and other similar data.
+  6. Our contractors occasionally might access the data we collect solely, for the purpose of performing tasks related to improving our services.
+
+
 
 **General**
 
@@ -77,7 +85,11 @@ We reserve the right to change this privacy policy at any time. However, we will
 
 **COOKIE POLICY**
 
-This website uses cookies to distinguish you from other users of this website. This helps us to provide you with an enhanced user experience when you browse this website and improve this websites functionality. 
+This website uses cookies to distinguish you from other users of this website. This helps us to provide you with an enhanced user experience when you browse this website and improve this websites functionality.
+
+We partner with third party ad networks like Google Adsense and Marfeel to display advertising on our Web site. Our ad network partners use cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.
+
+Users may opt out of personalised advertising by Google by visiting [Ads Settings](https://www.google.co.uk/settings/ads).
 
 **What are cookies?**
 
@@ -90,5 +102,3 @@ There are different types of cookies. Essential cookies have functions like reco
 You can block cookies by setting your browser preferences, but this will usually affect how and whether you are able to access the website, especially the restricted areas. 
 
 [Terms & Conditions](https://truththeory.com/terms-conditions-2/)
-
-[Skimlinks Test](http://test.skimlinks.com/)
