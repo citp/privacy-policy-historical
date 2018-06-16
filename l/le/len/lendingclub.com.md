@@ -1,243 +1,130 @@
-> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002172532id_/https%3A//www.lendingclub.com/public/privacy-policy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034342id_/https%3A//www.lendingclub.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LendingClub
+# Legal Agreements | Save with LendingClub
 
-**Effective Date:** 12/15/2016
+This Privacy Notice is effective immediately for new users, and from 6/20/2018 for existing users.   
+[Downloadable Version](https://www.lendingclub.com/asset/ls/cms/company/pdfs/privacy-notice-20180514.pdf?v=cf3eae64-8f60-4200-b267-5905c8ac8e06)
 
-This policy describes how Lending Club collects, aggregates, and uses the information provided by you through our website, [www.lendingclub.com](http://www.lendingclub.com/), as well as information collected offline. We take your privacy and the security of your information seriously. This policy explains:
+### Online Privacy Policy
 
-  * What information we collect and aggregate, and how we use it
-  * Choices you can make about the way your information is collected, aggregated, and used
-  * How we protect personal information electronically and physically
+This Online Privacy Policy is effective immediately for new users, and from 6/20/2018 for existing users. 
 
+**1\. WHAT INFORMATION DO WE COLLECT?**
 
+The types of personal information we collect depends on the products and services you request and use.  The categories of information we collect can include:
 
-**This policy is incorporated into and a material term of your registration and/or use of Lending Club’s products and services, including our website, www.lendingclub.com.**
+  * **Information you provide to us directly.** We may collect personal information, such as your name, phone number, location, email address, business information, payment and bank account information, social security number, wire transfer information, vehicle information, employment and income information and additional information to verify your identity when you register for our Service, apply for a loan or to be an investor, sign up for our mailing list, or otherwise communicate with us.  We may also collect any communications between you and LendingClub and any other information you provide to LendingClub.
+  * **Information we receive from third parties.** We may receive information about you from third parties, including information we request from credit reporting agencies such as TransUnion, Equifax, and/or Experian, and from other partners.  We will collect information, which may include your credit history and credit scores, from credit bureaus and other partners to determine your creditworthiness if you are a borrower, assess risks related to your potential loan, and to help investors determine whether to commit to your loan.  If you consent to have Lending Club request your financial data directly from your financial institution, we may work with a third party, such as Plaid, to access and collect such data on our behalf.  **By providing your information to the third party, you acknowledge and agree that** information accessed, collected, or transmitted by the third party for this purpose will be governed by the privacy policy of the third party. Plaid’s privacy policy is available at [https://plaid.com/legal](https://protect-us.mimecast.com/s/GfGnCwpr1OTApPO2hB7bPW?domain=urldefense.proofpoint.com).
+  * **Information you may provide and that we receive through referral activities.** With your permission, we may access and import your contact list available through your email accounts, so that we may invite your friends and contacts to connect with our Service. When you provide us with personal information about your contacts, we will use this information only for the specific reason for which it is provided.
 
-### Go to:
 
-  * Privacy Notice
-  * Security Notice
-  * Online Privacy Notice
 
-  
+**2\. HOW WE USE INFORMATION**
 
+  * **To process your transaction** _._ If you register as a borrower, we will use information about you to facilitate your loan request.  If you register as an investor, we will use information about you to facilitate investing.  For example, we may use such information to create your borrower or investor profile and account, process your loan application or transaction, and enable payments and fund transfers with financial institutions.  Certain personal information must be supplied during the investor and/or borrower registration processes in order to meet our legal obligations, verify your identity, determine eligibility for credit, protect against fraud and complete your transaction.
+  * **To maintain and improve our Service** _._ We use the information to operate, maintain, improve and provide to you the features and functionality of the Service.
+  * **To communicate with you** _._ We use the information to communicate directly with you, such as to send you direct mail and email marketing messages.  We may also send you Service-related emails or messages (e.g., account verification, change or updates to features of the Service, technical and security notices).  For more information about your communication preferences, see “Control Over Information” below.
 
-### Privacy Notice
 
-Effective Date: 12/15/2016
 
-**What does Lending Club do with your personal information?**
+**3\. HOW WE USE COOKIES AND OTHER TRACKING TECHNOLOGY TO COLLECT INFORMATION.**
 
-Why?
+Like most websites and online services, we and our third-party partners automatically collect certain types of usage information when you visit our Service, read our emails, or otherwise engage with us.  We typically collect this information through a variety of tracking technologies, which could include cookies, web beacons, Flash cookies (locally stored objects), embedded scripts, location-identifying technologies, and similar technology (collectively, “tracking technologies”).  These tracking technologies collect information about how you use the Service (e.g., the pages you view, the links you click, and other actions you take on the Service), information about your browser and online usage patterns (e.g., IP address, browser type, browser language, referring / exit pages and URLs, pages viewed, whether you opened an email, links clicked), and information about the device(s) you use to access the Service (e.g., mobile device identifier, mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, and depending on your mobile device settings, your geographical location data (which could include GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device), or we may be able to approximate a device’s location by analyzing other information, like an IP address.  We, or our third-party partners, may link your various devices so that content you see on one device can result in relevant advertising and content displayed on another device, and so that we may recognize and contact you on the various devices you may use.  We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service.  Although we do our best to honor the privacy preferences of our visitors, we are not able to respond to Do Not Track signals from your browser at this time.
 
-Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. 
+Our website includes social media features, such as the Facebook Like button.  These features may collect your IP address and other information such as the page(s) you are visiting on our website, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our website.  Your interactions with these features are governed by the privacy policy of the company providing it.
 
-What?
+We use or may use the data collected through tracking technologies to (a) remember information so that you will not have to reenter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including targeted content and advertising; (c) recognize and contact you across multiple devices; (d) provide and monitor the effectiveness of our Service; (e) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website; (f) diagnose or fix technology problems; and (g) otherwise to plan for and enhance our Service.
 
-The types of personal information we collect and share depend on the product or service you have or access through us. This information can include: 
+If you would prefer not to accept cookies, most browsers will allow you to adjust your browser settings to: (i) notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies.  Blocking or deleting cookies may negatively impact your experience using the Service, as some features and services on our Service may not work properly.  Depending on your mobile device and operating system, you may not be able to delete or block all cookies.  You may also set your email options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it.  Deleting cookies does not delete Local Storage Objects (LSOs) such as Flash objects and HTML5.  You can learn more about Flash objects—including how to manage privacy and storage settings for Flash cookies—on Adobe’s website or by [clicking here](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).  If you choose to delete Flash objects from our sites, then you may not be able to access and use all or part of the sites or benefit from the information and services offered.
 
-  * Social Security number
-  * Credit history and credit scores
-  * Income and employment information
-  * Wire transfer instructions
+We and our third-party partners may also use cookies and tracking technologies for advertising purposes.  For more information about tracking technologies, please see “Third-Party Tracking and Online Advertising” below.
 
+**4\. SHARING OF INFORMATION**
 
+We may share personal information about you in the instances described below.  For further information on your choices regarding information about you, see the “Control Over Information” section below.
 
-How?
+We may share personal information about you with:
 
-All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Lending Club chooses to share; and whether you can limit this sharing.
+  * Other companies and brands owned or controlled by LendingClub and other companies owned by or under common ownership as LendingClub, which also includes our subsidiaries (i.e., any organization we own or control) or our ultimate holding company (i.e., any organization that owns or controls us) and any subsidiaries it owns. These companies will use information about you in the same way as we can under this Policy;
+  * Third-party vendors and other service providers that perform services on our behalf. We work with a number of service providers who support our operations, including but not limited to electronic payment service providers and customer support call centers.  We share information with these third parties to process the transactions you initiate or to perform other specific services on our behalf, such as collections or identity verification, or creating and providing targeted advertisements.  Our service providers are legally required to keep personal information private and secure and adhere to applicable state and federal laws and regulations;
+  * Third parties at your request. For example, if we are unable to offer you a loan, you may be given the option to allow us to share personal information about you to third parties who may be interested in offering you a loan. We will only share this information with your consent and at your direction;
+  * Originating banks that process your loan. If you request a loan, you are also providing information to the potential originating bank, and additional information may be provided to that bank after your loan originates. The use of information about you by your originating bank is governed by that bank’s privacy policy;
+  * Purchasers of your loan to process your loan. If we sell your loan originated through our Service, we may provide the purchaser of your loan with information about you and credit information.  The information we share about you will be subject to the purchaser’s privacy policy in addition to our own;
+  * Purchasers of your loan for their direct marketing purposes. To opt-out of such sharing, please see Section 5 below;
+  * Credit bureaus. We may share personal information about you with credit bureaus to meet our credit reporting obligations;
+  * Other parties in connection with a company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party, or in the event of a bankruptcy or related or similar proceedings; and
+  * Third parties as required by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](https://web.archive.org/legal/terms-of-use) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of LendingClub, our visitors, or others.
 
-  
 
 
-Reasons we can share your personal information | Does Lending Club share? | Can you limit this sharing?  
----|---|---  
-**For our everyday business purposes -**   
-such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
-**For our marketing purposes-**   
-to offer our products and services to you | Yes | No  
-**For joint marketing with other financial companies** | Yes | Yes  
-**For our affiliates' everyday business purposes -**   
-information about your transactions and experiences | Yes | No  
-**For our affiliates' everyday business purposes -**   
-information about your creditworthiness | Yes | Yes  
-**For our affiliates to market to you** | Yes | Yes  
-**For nonaffiliates to market to you** | Yes | Yes  
-  
-  
+We may also share information with others in an aggregated or otherwise anonymized form that does not reasonably identify you directly as an individual.
 
+**5\. CONTROL OVER INFORMATION**
 
-To limit our sharing
+**Data sharing settings and modifying or deleting information about you:**   You can access and modify information about you (such as name, email address, and mailing address) that we collect online and maintain by visiting your profile in your Account Summary on our website.  This section of the website is password protected to better safeguard information about you.  As a registered user, you can update your password, email address, physical address, phone number, and bank account information at any time on the website.  Requests to change any other information in your profile or remove your name or comments from our website or publicly displayed content can be sent to us at [support@lendingclub.com](mailto:support@lendingclub.com).  We will respond to your request within a reasonable timeframe.  We may not be able to modify or delete information in all circumstances.  Due to the regulated nature of our industry, we are under legal requirements to retain data and are generally not able to delete consumer transactional data upon request.  Certain regulations issued by state and/or federal government agencies may require us to maintain and report demographic information on the collective activities of our membership.  We may also be required to maintain information about you for at least seven years to be in compliance with applicable federal and state laws regarding recordkeeping, reporting, and audits.
 
-  * Call 888-596-3157
-  * Contact us at [privacy@lendingclub.com](mailto:privacy@lendingclub.com)
+**Opt-out from third-party sharing for direct marketing purposes** :  As set forth in Section 10 below, if you are a resident of California and have previously opted in to have personal information about you shared with third parties for their direct marketing purposes, but no longer wish to have such information shared, please email us at [privacy@lendingclub.com](mailto:privacy@lendingclub.com) to request to not have your information shared in this manner.
 
+**How to control your communications preferences:**   You can update your email preferences and stop receiving promotional email communications from us by clicking on the “Unsubscribe” link provided in such communications.  We make every effort to process all unsubscribe requests within a reasonable amount of time.  You may not opt out of service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices).
 
+**6\. THIRD-PARTY TRACKING AND ONLINE ADVERTISING**
 
-**Please note:**   
-If you are a new customer, we can begin sharing your information 30 days from the date we provided this notice. When you are no longer our customer, we continue to share your information as described in this notice.
+**Interest Based Advertising.** We participate in interest-based advertising and use third-party advertising companies to serve you targeted advertisements based on your browsing history.  We may share, or we may permit third-party online advertising networks, social media companies and other third-party services, to collect, information about your use of our website over time so that they may play or display ads on our Service, on other devices you may use, and on other websites, apps or services.  Typically, though not always, the information we share is provided through cookies or similar tracking technologies, which recognize the device you are using and collect information, including click stream information, browser type, time and date you visited the site and other information.  We and our third-party partners may combine this information with information collected offline or from other sources.  We and our third-party partners use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research.  
 
-  
+**Social Media Widgets and Advertising.** Our Service may include social media features, such as the Facebook Like button, Google Plus, Twitter or other widgets.  These social media companies may recognize you and collect information about your visit to our Service, and they may set a cookie or employ other tracking technologies.  Your interactions with those features are governed by the privacy policies of those companies.
 
+We display targeted advertising to you through social media platforms, such as Facebook, Twitter, Google+ and others.  These companies have interest-based advertising programs that allow us to direct advertisements to users who have shown interest in our Service while those users are on the social media platform, or to groups of other users who share similar traits, such as likely commercial interests and demographics.  These advertisements are governed by the privacy policies of those social media companies that provide them.
 
-Who we are  
----  
-**Who is providing this notice?** | LendingClub Corporation  
-  
-  
+**Cross-Device Linking.   **We, or our third-party partners, may link your various devices so that content you see on one device can result in relevant advertising on another device.  We do this by collecting information about each device you use when you are logged in to our Service.  We may also work with third-party partners who employ tracking technologies, or the application of statistical modeling tools, to determine if two or more devices are linked to a single user or household.  We may share a common account identifier (such as an email address or user ID) with third-party advertising partners to help recognize you across devices.  We, and our partners, can use this cross-device linkage to serve interest-based advertising and other personalized content to you across your devices, to perform analytics and to measure the performance of our advertising campaigns.
 
+**Your Choices:**
 
-What we do  
----  
-**How does Lending Club protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
-**How does Lending Club collect my personal information?** | We collect your personal information, for example, when you 
+  * **Interest-based advertising.** To learn about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Network Advertising Initiative (NAI) online resources, at <http://www.networkadvertising.org/choices>, and/or the Digital Advertising Alliance (DAA) resources at <http://www.aboutads.info/choices>.
+  * **Cross-device linking.** Please note that opting-out of receiving interest-based advertising through the NAI’s and DAA’s online resources will only opt-out a user from receiving interest-based ads on that specific browser or device, but the user may still receive interest-based ads on his or her other devices.  You must perform the opt-out on each browser or device you use.
+  * **Mobile advertising.** You may also be able to limit interest-based advertising through the settings on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest based ads” (Android).  You may also be able to opt-out of some – but not all – interest-based ads served by mobile ad networks by visiting http://youradchoices.com/appchoices and downloading the mobile AppChoices app.    
+  * Some of these opt-outs may not be effective unless your browser is set to accept cookies. If you delete cookies, change your browser settings, switch browsers or computers, or use another operating system, you will need to opt-out again.
 
-  * Open an account
-  * Give us your contact information
-  * Give us your income information
-  * Show your government-issued ID
-  * Buy securities from us
 
-We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
-**Why can't I limit all sharing?** | Federal law gives you the right to limit only 
 
-  * Sharing for affiliates' everyday business purposes-information about your creditworthiness
-  * Affiliates from using your information to market to you
-  * Sharing for nonaffiliates companies to market to you
+Google Analytics and Advertising. We use Google Analytics to recognize you and link the devices you use when you visit our website or Service on your browser or mobile device, login to your account on our Service, or otherwise engage with us. We may share a unique identifier, like a user ID or hashed email address, with Google to facilitate the Service. Google Analytics allows us to better understand how our users interact with our Service and to tailor our advertisements and content to you.  For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google's site “How Google uses data when you use our partners' sites or apps” located at <https://www.google.com/policies/privacy/partners/>.  You can learn about Google Analytics’ currently available opt-outs, including the Google Analytics Browser Ad-On here <https://tools.google.com/dlpage/gaoptout/>.
 
-State laws and individual companies may give you additional rights to limit sharing.  
-**What happens when I limit sharing for an account I hold jointly with someone else?** | Your choices will apply to everyone on your account - unless you tell us otherwise.  
-  
-  
+We may also utilize certain forms of display advertising and other advanced features through Google Analytics, such as Remarketing with Google Analytics, Google Display Network Impression Reporting, the DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Doubleclick advertising cookie) or other third-party cookies together to inform, optimize, and display ads based on your past visits to the Service. You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at <https://google.com/ads/preferences> or by vising NAI’s online resources at <http://www.networkadvertising.org/choices>.
 
+**7\. HOW WE PROTECT AND STORE INFORMATION ABOUT YOU**
 
-Definitions  
----  
-**Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
+**Keeping information safe:**   As a financial services company, LendingClub understands that the information collected and shared with us by our borrowers, investors and business partners contains sensitive data.  We take our role in safeguarding information about you seriously. We maintain a security program that draws on industry standards and best practices.  We take a defensive, in-depth approach to implementing physical, administrative, and technical safeguards to protect information against unauthorized access or misuse.  The safeguards include preventive, detective, and corrective controls, for example: physical safeguards like access badges and a video monitoring system; administrative safeguards like an employee security training program, employment background checks, and access controls; and technical safeguards like perimeter security, encryption, two-factor authentication, and regular security monitoring with layered and complementary controls.  In addition, we use:
 
-  * Our affiliates include Springstone Financial, LLC; LC Advisors, LLC; and RV MP Fund GP, LLC.
+  * _Encryption & website certificates_.  Encryption protects the information you share with us from the moment it leaves your computer until it reaches our systems. Look for the secure locked padlock on your browser, which signifies a secure web connection.  Consult your web browser documentation for more information.
+  * _Session time-outs_.  We employ session time-outs that will log you out of the website automatically after a period of inactivity. This reduces the risk of others being able to access your account if you leave your computer unattended.
+  * _Passwords_.  You should never share your password with anyone. Your password is not known to any LendingClub employee or third party, and we will never ask for your password by phone or email.  If you ever receive a communication claiming to be from LendingClub that asks for your password, you should immediately report it by contacting us at [security@lendingclub.com](mailto:security@lendingclub.com).
+  * _Identity theft protection_.  In order to protect your identity at LendingClub, we have developed and implemented an identity theft prevention and response program that is designed to detect, prevent, and mitigate identity theft when borrowing or investing through the LendingClub platform. We utilize authentication technology to verify the identities of our investors and borrowers, and have established processes, procedures, and training for LendingClub employees to identify and respond appropriately to identity theft indicators.  Under our agreements with investors, we are obligated to repurchase loans in cases of confirmed borrower identity theft.
 
-  
-**Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
 
-  * Nonaffiliates with whom we share can include other financial services companies, lenders, insurance companies, retailers, membership clubs, or other consumer service providers.
 
-  
-**Joint marketing** | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
+We also periodically review and adjust security safeguards as the threat landscape evolves.  Ultimately no security system is impenetrable, and we cannot guarantee the security of our systems 100%.  In the event that any information under our control is compromised as a result of a breach of security, our policy is to take reasonable steps to investigate the situation and, where appropriate, communicate with affected individuals.
 
-  * Our joint marketing partners include other financial services companies, banks, lenders, insurance companies, or other consumer service providers.
+**Data storage and transfer** :  Information collected through our website may be stored and processed in the United States or any other country in which we or our affiliates or service providers maintain facilities.  If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which we or our parent, subsidiaries, affiliates, or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 
-  
-  
-  
+**8\. CHILDREN’S PRIVACY**
 
+We do not knowingly collect or solicit any information from anyone under the age of 13 on this Service.  In the event that we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any information from a child under 13, please contact us at [privacy@lendingclub.com](mailto:privacy@lendingclub.com).
 
-Other important information  
----  
-**Telephone communications** | For quality assurance purposes, we and our authorized partners may monitor or record all telephone communications.  
-**For California residents** | We will not share information we collect about you with nonaffiliated third parties, except as permitted by California law, such as to process your transactions or to maintain your account. We will limit sharing within our corporate family to the extent required by California law.   
-**For Vermont residents** | We will not share information we collect about you with nonaffiliated third parties, except as permitted by Vermont law, such as to process your transactions or to maintain your account. We will not share information about your creditworthiness within our corporate family except with your authorization, but we may share information about our transactions or experiences with you within our corporate family without your consent.  
-**For Nevada residents** |  We provide you this notice under Nevada state law. You may be placed on our internal Do-Not-Call List by calling us at 888-596-3157, emailing us at [privacy@lendingclub.com](mailto:privacy@lendingclub.com), or writing us at:   
-LendingClub Corporation   
-Attn: Compliance Department   
-71 Stevenson Street, Suite 300   
-San Francisco, CA 94105 
+**9\. LINKS TO OTHER WEBSITES AND SERVICES**
 
-Nevada law also requires us to provide you the following to obtain additional information:   
-Office of the Attorney General   
-100 North Carson Street   
-Carson City, NV 89701   
-Telephone: 775-684-1100   
-Email: [AgInfo@ag.state.nev.us](mailto:AgInfo@ag.state.nev.us) .   
-  
-### Security Notice
+The Service may contain links to and from third-party websites of our business partners, advertisers, and social media sites and our users may post links to third-party websites.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies.  We strongly recommend that you read their privacy policies and terms and conditions of use to understand how they collect, use, and share information. We are not responsible for the privacy practices or the content on third-party websites.
 
-**How does Lending Club protect your personal information?**
+**10\. YOUR CALIFORNIA PRIVACY RIGHTS**
 
-Why?
+In California, you may opt-in to have personal information about you shared with third parties for their direct marketing purposes. Consistent with California Civil Code Section 1798.83, if you no longer wish to have personal information about you shared with third parties for their direct marketing purposes, please email us at [privacy@lendingclub.com](mailto:privacy@lendingclub.com) to request to not have your information shared in this manner.
 
-As a financial services company, Lending Club understands that the information collected and shared with us by our borrowers and investors contains highly sensitive data with the potential to cause significant harm if it falls in the wrong hands. We take our role in safeguarding your information seriously. 
+**11\. HOW TO CONTACT US**
 
-What?
+If you have any questions about this Privacy Policy or the website, please contact us at [privacy@lendingclub.com](mailto:privacy@lendingclub.com).
 
-We maintain a comprehensive security program based on industry standards and best practices. We take a defensive, in-depth approach to implementing rigorous physical, administrative, and technical safeguards to ensure your information is safe from unauthorized access or misuse. The safeguards include preventive, detective, and corrective controls. 
+If you have a privacy or data use concern, please contact us first at [privacy@lendingclub.com](mailto:privacy@lendingclub.com).  If we have not addressed your privacy or data use concern satisfactorily, please contact our U.S.-based, privacy and data usage third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-How?
+[](https://privacy.truste.com/privacy-seal/validation?rid=0d4bc5b7-541f-4001-9127-c33007c2c86c)
 
-Physical safeguards like access badges and a video monitoring system protect Lending Club from unauthorized access. Administrative safeguards like a security training program, employment background checks, and access controls ensure that your information is accessed only by trained and trusted staff based on business needs to provide services to you. Technical safeguards like perimeter security, industry standard encryption, two-factor authentication, and continuous monitoring ensure that your information is protected with layered and complementary controls. We review and adjust security safeguards periodically based on ongoing risk assessment. However, despite our substantial investment in protecting your personal information, ultimately no institution can guarantee its absolute security.
+**12\. CHANGES TO OUR PRIVACY POLICY**
 
-  
-
-
-Methods of protecting your personal information  
----  
-**Encryption & website certificates** | Industry standard encryption protects the information you share with us from the moment it leaves your computer until it reaches our systems. Look for the secure locked padlock on your browser, which means you are using a secure web connection. Consult your web browser documentation for more information.   
-**Session time-outs** | We employ session time-outs to protect your account. You will be logged out of the website automatically after a period of inactivity. This reduces the risk of others being able to access your account if you leave your computer unattended.   
-**Passwords** | You should never share your password with anyone. Your password is not known to any Lending Club employee or third party, and we will never ask for your password by phone or email. If you ever receive a communication claiming to be from Lending Club that asks for your password, you should immediately report it by contacting us at [security@lendingclub.com](mailto:security@lendingclub.com) .   
-**Identity theft protection** | We have developed and implemented an identity theft prevention and response program that is designed to detect, prevent, and mitigate identity theft when borrowing or investing through the Lending Club platform. We utilize authentication technology to verify the identities of our investors and borrowers, and have established processes, procedures, and training for Lending Club employees to identify and respond appropriately to identity theft red flags. Under our agreements with investors, we are obligated to repurchase loans in cases of confirmed borrower identity theft. Additionally, we will work with law enforcement authorities as appropriate to track down and prosecute anyone who has committed identity theft on the Lending Club platform.   
-  
-  
-
-
-Disclosure of Information  
----  
-**Service providers** | We work with a number of service providers who support our operations, including but not limited to, credit bureaus, collection agencies, electronic payment service providers, customer support call centers, and other nonaffiliated third parties. We share information with these third parties only to the extent necessary for us to process the transactions you initiate or to perform other specific services, like collections or identity verification. Our service providers are legally required to keep your information private and secure and adhere to applicable state and federal laws and regulations.   
-**Third-party websites and services** | Additionally, we may provide you with links to third-party websites and services. Those websites and services will have different security and privacy practices, so you should review them when visiting a third-party website or using a third-party service. Lending Club is ultimately not responsible for the information practices employed by sites or services linked to or from our website. In most cases, we provide those links as a way to obtain information on products and topics that may be useful to you.   
-**Questions?** | Contact us at [security@lendingclub.com](mailto:security@lendingclub.com) .   
-  
-  
-
-
-Other important information  
----  
-**Correcting or deleting information** | Upon written request, Lending Club will provide you with information about whether we hold any of your personal information. You can access your personal information (such as name, email address, and mailing address) that we collect online and maintain by visiting your profile in your Account Summary on our website. This section of the website is password-protected to better safeguard your information. As a registered user, you can update your password, email address, physical address, phone number, and bank account information at any time on the website, and if you need to change any other information in your profile, you can contact us at [support@lendingclub.com](mailto:support@lendingclub.com) . We will respond to your request within a reasonable timeframe. Due to the regulated nature of our industry, we are under legal requirements to retain data and are generally not able to delete consumer transactional data upon request. Certain regulations issued by state and/or federal government agencies may require us to maintain and report demographic information on the collective activities of our membership. We may also be required to maintain your personal information for at least seven years to be in compliance with applicable federal and state laws regarding recordkeeping, reporting, and audits. You may sign up to receive newsletter or other communications from us. If you would like to discontinue receiving this information, you may update your email preferences by using the **Unsubscribe** link found in emails we send to you or by contacting us at [privacy@lendingclub.com](mailto:privacy@lendingclub.com) .   
-**Law enforcement or other government sharing** | We may share your information with law enforcement or other government agencies as required by law. For example, to comply with a subpoena; respond to lawful requests by public authorities, including to meet national security or law enforcement requirements, judicial proceedings, court order, bankruptcy proceedings, or similar legal process; or for the purposes of limiting fraud.  
-**Privacy dispute resolution** | If you have a privacy or data use concern, please contact us first at [privacy@lendingclub.com](mailto:privacy@lendingclub.com) .   
-If we have not addressed your privacy or data use concern satisfactorily, please contact our U.S.-based, privacy and data usage third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request> . 
-
-[ ](https://privacy.truste.com/privacy-seal/validation?rid=0d4bc5b7-541f-4001-9127-c33007c2c86c)  
-  
-**Social media widgets** | Our website includes social media features, such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.  
-  
-### Online Privacy Notice
-
-**How does Lending Club utilize web-related information collection?**
-
-Why?
-
-We and our partners use technologies such as cookies or similar technologies. As is true of most websites, we also gather certain information automatically and store it in log files. We may combine this automatically collected log information with other information we collect about you. We use this technology to analyze trends, administer our website, track users’ movements around the website, and gather demographic information about our user base as a whole. We do this to improve services we offer you, to improve analytics, and to enhance website functionality. 
-
-What?
-
-Log file information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring and exit pages, operating system, date and time stamp, and/or clickstream data. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. 
-
-How?
-
-We may combine log file information with other information we collect about you. 
-
-  
-
-
-To limit advertisement data collection
-
-We may partner with third-party ad networks to either display advertising on our website or to manage our advertising on other websites. Our ad network partners use cookies and beacons to collect non-personally identifiable information about your activities on this and other websites to provide you or others targeted advertising based upon your interests. 
-
-To opt out
-
-If you wish to not have this information used for the purpose of serving you targeted ads, you may opt out by clicking [here](http://www.aboutads.info/choices) . Please note this does not opt you out of being served advertising. You will continue to receive generic ads.   
- 
-
-  
-
-
-Other important information  
----  
-**Referral activities** |  We may also collect from you the following personal information about your contacts: 
-
-  * Email address in order to refer our products or services
-  * Through our "import contacts" feature, we may collect the email address of your contacts to refer our products or services
-
-When you provide us with personal information about your contacts, we will use this information only for the specific reason for which it is provided.   
-  
-By registering and/or using Lending Club’s products and services, including our website, [www.lendingclub.com](http://www.lendingclub.com/), you expressly authorize and consent to Lending Club’s collection, aggregation, and use of your information as set forth herein. This includes Lending Club’s aggregation and use of your personal information for future marketing purposes, such as determining your current and future eligibility for products and services and continued verification of your eligibility for participation in any program offered by Lending Club or one of its marketing partners, now or in the future.
+We may amend this Privacy Policy at any time by posting a revised version on our website.  The revised version will be effective as of the published effective date.  If revisions include substantial changes, we will provide you with notice 30 days prior to the effective date which we will post in our Policy Update page of our website.  After the 30-day notice, your continued use of the Service constitutes express acceptance to all changes to the Privacy Policy. 
