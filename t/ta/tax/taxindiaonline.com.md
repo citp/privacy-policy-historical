@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxindiaonline.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228144010id_/http%3A//www.taxindiaonline.com/RC2/inside2.php3%3Ffilename%3Dolinks/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxindiaonline.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616060007id_/http%3A//taxindiaonline.com/RC2/inside2.php3%3Ffilename%3Dolinks/privacy.htm) for the most accurate reproduction.*
 
 # TIOL - Tax News, GST, Income Tax, Service Tax, Customs, Central Excise, International Taxation, Fiscal Policy, Monetary Policy, Economy, Revenue, Judicial Decisions, Tax Rulings & Tax Video
 
@@ -20,7 +20,7 @@ The kind of information that is gathered automatically include browser type of t
 
 **Collection of information by third-party websites**
 
-TIOL website(s) may contain links to other websites whose privacy policies may be different to TIOL's. Visitors should consult the other sitesâ€™ privacy notices as TIOL website(s) has no control over information that is submitted to, or collected by, these third parties.
+TIOL website(s) may contain links to other websites whose privacy policies may be different to TIOL's. Visitors should consult the other sites' privacy notices as TIOL website(s) has no control over information that is submitted to, or collected by, these third parties.
 
 TIOL website(s) use third party like Google and other companies of repute to serve advertisements. While serving advertisements, the third-party advertiser may place or recognise a unique "cookie" on the user's browser and may use information (not including name, address, e-mail address) about the users' visits to this and other websites in order to provide advertisements about goods and services of interest to the user.
 
