@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109080758id_/https%3A//www.pier1.com/privacy_policy.html%3Ficid%3Demail_signup_modal_test-privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616143739id_/https%3A//www.pier1.com/privacy_policy.html%3Ficid%3Dfooter-nav-privacy_policy%23nav%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Pier 1 Imports
 
-Effective Date: This Privacy Policy was last revised on February 2, 2017
+Effective Date: This Privacy Policy was last revised on December 1, 2017
 
 ## Introduction and Overview
 
@@ -27,10 +27,11 @@ It is important that you read and understand the entire Privacy Policy before us
   3. Sharing of Information with Third Parties
     1. When You Request We Share With Third Parties
     2. Third Parties Providing Services to Pier 1 Imports
-    3. To Protect the Rights of Pier 1 Imports and our Users
-    4. Affiliates and Business Transfer
-    5. Sweepstakes, Contests and Promotions
-    6. Co-Branded Areas
+    3. Adobe Marketing Cloud Device Co-op
+    4. To Protect the Rights of Pier 1 Imports and our Users
+    5. Affiliates and Business Transfer
+    6. Sweepstakes, Contests and Promotions
+    7. Co-Branded Areas
   4. Information You Disclose Publicly
     1. User Content and Public Information
     2. Name and Likeness
@@ -42,7 +43,7 @@ It is important that you read and understand the entire Privacy Policy before us
   10. How Long Is My Personal Information Retained
   11. Updating Your Information and Choices
   12. Changes to the Privacy Policy
-  13. Applicable Law 
+  13. Applicable Law
   14. Langauge
 
 
@@ -140,21 +141,25 @@ We may share information with third parties at your request. In the event we do 
 
     2. **Third Parties Providing Services to Pier 1 Imports.**
 
-We may use third party service providers to perform certain services, such as: (a) to assist us in e-commerce operations; (b) to manage a database of customer information; (c) hosting the Site; (d) designing and/or operating the Site’s features; (e) tracking the Site’s activities and analytics; (f) enabling us to send you special offers or perform other administrative services; (g) to allow you to participate in live chat on the Site; and (h) other services designed to assist us in maximizing our business potential. We may provide third parties with access to your information to carry out the services they are performing for us. Third-party analytics and other service providers such as Google Analytics may set and access their own technologies on your Device and they may otherwise collect or have access to information about you. These service providers use the technology described above to help us analyze how users use the Site. We are not responsible for those third party technologies or activities arising out of them. However, some third parties may offer you certain choices regarding their practices. For example, to learn about opting out of Google Analytics, please [click here](https://tools.google.com/dlpage/gaoptout). To learn about opting out of the use of Adobe cookies for analytics and on-site personalization, please [click here](http://www.adobe.com/privacy/opt-out.html#4). We are not responsible for the effectiveness of or compliance with any third parties’ opt-out options.
+We may use third party service providers to perform certain services, such as: (a) to assist us in e-commerce operations; (b) to manage a database of customer information; (c) hosting the Site; (d) designing and/or operating the Site’s features; (e) tracking the Site’s activities and analytics; (f) enabling us to send you special offers or perform other administrative services; (g) to allow you to participate in live chat on the Site; and (h) other services designed to assist us in maximizing our business potential. We may provide third parties with access to your information to carry out the services they are performing for us. Third-party analytics and other service providers such as Google Analytics may set and access their own technologies on your Device and they may otherwise collect or have access to information about you. These service providers use the technology described above to help us analyze how users use the Site. We are not responsible for those third party technologies or activities arising out of them. However, some third parties may offer you certain choices regarding their practices. For example, to learn about opting out of Google Analytics, please click [here](https://tools.google.com/dlpage/gaoptout). To learn about opting out of the use of Adobe cookies for analytics and on-site personalization, please click [here](http://www.adobe.com/privacy/opt-out.html#4). We are not responsible for the effectiveness of or compliance with any third parties’ opt-out options.
 
-    3. **To Protect the Rights of Pier 1 Imports and our Users.**
+    3. **Adobe Marketing Cloud Device Co-op.**
+
+Pier 1 Imports participates in the Adobe Marketing Cloud Device Co-op to better understand how you use our Site and apps across the various devices you use, and to deliver tailored promotions. To learn more about how Adobe does this, click [here](https://cross-device-privacy.adobe.com/). **Please note, We are not responsible for Adobe’s compliance with Adobe’s privacy policy.**
+
+    4. **To Protect the Rights of Pier 1 Imports and our Users.**
 
 We may disclose your Personal Information if we believe in good faith that doing so is necessary or appropriate to: (i) protect or defend the rights, safety or property of Pier 1 Imports or third parties (including through the enforcement of this Policy, our [Terms of Use](https://www.pier1.com/terms_and_conditions.html), and other applicable agreements and policies); or (ii) comply with legal and regulatory obligations (e.g., pursuant to law enforcement inquiries, subpoenas or court orders).
 
-    4. **Affiliates and Business Transfer.**
+    5. **Affiliates and Business Transfer.**
 
 We may share your information with our parent, subsidiaries and affiliates. We also reserve the right to disclose and transfer all such information: (i) to a subsequent owner, co-owner or operator of the Site and/or our Stores; or (ii) in connection with a merger, consolidation, restructuring, the sale of substantially all of our interests and/or assets or other corporate change, including during the course of any due diligence process.
 
-    5. **Sweepstakes, Contests and Promotions.**
+    6. **Sweepstakes, Contests and Promotions.**
 
 We may offer sweepstakes, contests, and other promotions (any, a **“Promotion”** ) through the Site, in the Stores or through one of our social media pages that may require registration. By participating in a Promotion, you are agreeing to official rules that govern that Promotion, which may contain specific requirements of you, including, allowing the sponsor of the Promotion to use your name, voice and likeness in advertising associated with the Promotion. If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules, such as on a winner’s list.
 
-    6. **Co-Branded Areas.**
+    7. **Co-Branded Areas.**
 
 Certain areas of the Site may be provided to you in association with third parties ( **“Co-Branded Areas”** ) such as co-promotional partners and may require you to disclose Personal Information to them. Such Co-Branded Areas will identify the third party and indicate if they have a privacy policy that applies to their collection and use of your information. If you elect to register for products and/or services, communicate with such third parties or download their content or applications, you may be providing your information to both us and the third party. Further, if you sign-in to a Co-Branded Area with a username and password obtained on the Site, your Personal Information may be disclosed to the identified third parties for that Co-Branded Area. An example of a Co-Branded Area is the Pier 1 Rewards Card. We are not responsible for such third party’s data collection or practices and you should look to such third party privacy policies for more information.
 
@@ -169,9 +174,9 @@ We may also publish your name, voice, likeness and other Personal Information th
 
   5. **Interest-Based Advertising**
 
-You may see certain ads on other websites because we participate in advertising networks administered by third parties. These networks track your online activities over time and across third party websites and online services by collecting information through automated means, including through the use of the technologies described in the “Information We Collect When You Use the Site” Section above, and they use this information to show you advertisements that are tailored to your individual interests. The information they collect includes information about your visits to our Site, such as the pages you have viewed. This collection and ad targeting takes place both on our Site and on third-party websites that participate in the ad network. This process also helps us track the effectiveness of our marketing efforts. We and our service providers, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as a DoubleClick cookie) together to report how our internet advertising methods are related to your related to visits to the Site.
+You may see certain ads on other websites because we participate in advertising networks administered by third parties. These networks track your online activities over time and across third party websites and online services by collecting information through automated means, including through the use of the technologies described in the “Information We Collect When You Use the Site” Section above, and they use this information to show you advertisements that are tailored to your individual interests. The information they collect includes information about your visits to our Site, such as the pages you have viewed. This collection and ad targeting takes place both on our Site and on third-party websites that participate in the ad network. This process also helps us track the effectiveness of our marketing efforts. We and our service providers, including Google and Adobe, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as a DoubleClick cookie) together to report how our internet advertising methods are related to your related to visits to the Site.
 
-To learn more about how to opt out of DoubleClick’s use of cookies, visit the DoubleClick opt-out page, [here](https://www.google.com/settings/ads?hl=en&sig=ACi0TCi3R4mL7qb_WRaELD5Z_YPR5O5InCvFFgPTJ5jcWbHaE2tb_jOvoIkA5pP6F9oEvdNnVsMQuwj5HJV2Pg-6RADnzbP9mI_0dcxfwak_4v1_JeRylUrylqkCThZSDLaaI0iKKqsfaEE9pvltfXxOZH9ZarVDcsj6b7B5xIgS7XgzMgJjPq6m-L38v01JOJumwnkQh8Kt). To learn more about ad networks, including how to opt-out, please [click here](http://www.aboutads.info/choices).
+To learn more about how to opt out of DoubleClick’s use of cookies, visit the DoubleClick opt-out page, [here](https://www.google.com/settings/ads?hl=en&sig=ACi0TCi3R4mL7qb_WRaELD5Z_YPR5O5InCvFFgPTJ5jcWbHaE2tb_jOvoIkA5pP6F9oEvdNnVsMQuwj5HJV2Pg-6RADnzbP9mI_0dcxfwak_4v1_JeRylUrylqkCThZSDLaaI0iKKqsfaEE9pvltfXxOZH9ZarVDcsj6b7B5xIgS7XgzMgJjPq6m-L38v01JOJumwnkQh8Kt). To learn more about ad networks, including how to opt-out, please click [here](http://www.aboutads.info/choices).
 
 Also, some third parties, such as companies that offer Internet browsers, have developed signals (e.g., browser do not track signals) that give you a choice regarding the collection of information about your online activities over time and across third-party websites or online services. Currently, we do not monitor or take any action with respect to these signals or other mechanisms offered by Internet browsers. If you would like more information on self-regulatory programs that permit you to exercise choice, click on the ad networks link in the paragraph above.
 
@@ -221,7 +226,7 @@ The Privacy Policy will be governed by and construed in accordance with the laws
 
   14. **Language**
 
-The parties have requested that this Privacy Policy and all related documents be drawn up in English only. Les parties aux présentes ont exigé que le présent contrat et tous les documents qui s'y rattachent soient rédigés en anglais seulement.
+The parties have requested that this Privacy Policy and all related documents be drawn up in English only. _Les parties aux présentes ont exigé que le présent contrat et tous les documents qui s'y rattachent soient rédigés en anglais seulement._
 
 
 **Your California Privacy Rights**
