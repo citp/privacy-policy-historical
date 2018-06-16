@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thcfinder.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210160521id_/http%3A//thcfinder.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thcfinder.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616181537id_/http%3A//thcfinder.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - - Dispensaries - Legal Marijuana Dispensary and THC Finder
 
