@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timesleader.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122210920id_/http%3A//www.timesleader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesleader.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616102803id_/http%3A//www.timesleader.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Times Leader
+# Privacy Policy | Times Leader
 
 We consider your privacy important. We do not sell or rent your personal information to third parties without your explicit consent. Please read this Privacy Policy that you may understand how we use and protect your personal information.
 
