@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the downloadmaar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131819id_/http%3A//www.downloadmaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadmaar.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616223350id_/http%3A//www.downloadmaar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Download Maar
+
+[](http://www.downloadmaar.com/ "Variety to Download") DownloadMaar Provides a Variety of things to Download easily such as Games, Softwares, Movies, Tutorials and many more . . .
 
 At ‘DownloadMaar.com’ we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘DownloadMaar.com’, and how we safeguard your information.
 
