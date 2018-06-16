@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the accessdomain.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229021141id_/https%3A//mediatemple.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessdomain.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034022id_/https%3A//mediatemple.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Media Temple
 
-Effective Date: 06/20/2016
+Effective Date: 05/24/2018
 
 This Privacy Policy ("Policy") applies to www.mediatemple.net (the “Site” or “Media Temple”) owned and operated by Go Daddy Operating Company LLC. It describes how Media Temple collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=97e75c6a-f9e7-467c-aa50-37378aff5354)
 
-### **EU-U.S. Privacy Shield**
+### **EU-U.S. & Swiss-U.S. Privacy Shield**
 
-Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Wild West Domains, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Locu, Inc. and Mad Mimi, Inc.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Go Daddy Operating Company, LLC is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's [Privacy Shield List.](https://www.privacyshield.gov/list)
+Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Wild West Domains, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Locu, Inc., Media Temple, Inc. and Mad Mimi, Inc.) participates in and has certified its compliance with the EU-U.S. and the Swiss-U.S. Privacy Shield Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certifications, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/).
 
-Media Temple is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Media Temple complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Media Temple is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Media Temple complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Media Temple is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Media Temple may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -24,9 +24,23 @@ Under certain conditions, more fully described on the [Privacy Shield website](h
 
 Media Temple typically receives specific data about its website visitors only when such information is provided voluntarily, such as when our visitors request information, purchase or enroll for services, open a customer support inquiry ticket, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you make a purchase, use a credit card to pay for services, submit your resume, or request certain types of information. When you provide personally-identifiable information to Media Temple through one of our websites, it will be used to fulfill your specific request. In most cases, you will be given the opportunity to select whether you do, or do not, want Media Temple to use this information for additional purposes.
 
-Media Temple will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others. In certain situations, Media Temple may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+Media Temple will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others.
 
 We may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+
+We may share your information with third parties who provide services on our behalf to help with our business activities. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+#### These services may include:
+
+  * Fulfilling orders
+  * Payment processing
+  * Providing customer service
+  * Sending marketing communications
+  * Fulfilling subscription services
+  * Conducting research and analysis
+  * Providing cloud computing infrastructure
+
+
 
 The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [legal.notices@mediatemple.net](mailto:legal.notices@mediatemple.net).
 
@@ -40,29 +54,55 @@ Absent any instructions from you, Media Temple may use information you provide t
 
 In order to provide certain services to you, we may on occasion supplement the personally identifiable information you submit to us with information from third party sources (e.g., information from our strategic partners, service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
-#### **Opt-out**
+#### **Communicating with you**
 
-Media Temple customers control how and when we contact you by logging into the [Account Center](https://ac.mediatemple.net/) and changing your preferences. Media Temple reserves the right, in its discretion, to send you bulletins and other important information about your Media Temple services. If you are not a Media Temple customer and wish not to be emailed about our services, please click the unsubscribe link in the email you have received.
+We may contact you directly or through a third party service provider regarding products or services you have signed up or purchased from us, such as necessary to deliver transactional or service related communications. We may also contact you with offers for additional services we think you’ll find valuable if you give us consent, or where allowed based upon legitimate interests. You don’t need to provide consent as a condition to purchase our goods or services. These contacts may include:
 
-### **B. Non Personally-Identifiable (Generic) Information:**
+  * Email
+  * Text (SMS) messages
+  * Telephone calls
+  * Automated phone calls or text messages
 
-In general, Media Temple gathers some generic information automatically. Generic information does not reveal the identity of the visitor. It usually includes information about the Internet address assigned to your computer, the number and frequency of visitors, and the Media Temple sites visited. Media Temple gathers this information for the limited purpose of determining customer service and website needs. Our Site uses cookies to identify you so you don't need to log in each time you visit our Site. The cookies are linked to your customer identifier, which is associated with the information in your account. If you reject cookies, you may still use our Site and applications, but your ability to use some features or areas may be limited.
 
-Within our Site we and our partners, affiliates, and/or analytics or service providers use technologies such as cookies, beacons, tags and scripts to analyze trends, administer the Site, track users' movements around the Site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual or aggregated basis.
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and/or clickstream data. We use this information gathered about you from our Site to help personalize search results, diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+You may update your contact preferences with respect to receiving communications from us by signing into your Account Center and visiting "Contacts" page.
 
-We also use tracking technologies such as: CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes, attached to purchases at an item level, used to determine where within the application a product was added). We report this data back to our Media Temple web services. These results are not shared with any third parties and are used solely for deciding when to retire SDKs/OS versions and to identify characteristics of major users so that we may optimize our applications and services for those user types.
+### **B. Website Analytics:**
 
-With your express consent, we may access and track location data from your mobile device in order to personalize results such as user favorite domain name selections. We do not tie any personally identifiable information about you to any of the location tracking technologies that we use.
+We use multiple web analytics tools provided by service partners such as Google Analytics to collect information about how you interact with our website or mobile applications, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use and network and IP information. We use the information provided by these tools to improve our Services. These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (ex: Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. Though information collected does not include personal data such as name, address, billing information, etc., the information collected is used and shared by these service providers in accordance with their individual privacy policies. You can control the technologies we use by utilizing settings in your browser or third-party tools, such as [Disconnect](https://disconnect.me/disconnect "Disconnect"), [Ghostery](https://www.ghostery.com/ "Ghostery") and others.
 
-You can set your browser to notify you when you receive a cookie and you can refuse it; this may however reduce functionality of certain website features such as the order system and the [Account Center](https://ac.mediatemple.net/).
+**Cookies and similar technologies** on our websites and our mobile applications allow us to track your browsing behavior, links clicked, items purchased, your device type, and to collect various data, including analytics, about how you use and interact with our Services. This allows us to provide you with more relevant product offerings, a better experience on our sites and mobile applications, and to collect, analyze and improve the performance of our Services. We may also collect your location (IP address) so that we can personalize our Services.
+
+You may block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) it may limit your use of certain features or functions on our website or service. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit our site.
+
+Internet browsers allow you to change your cookie settings. These settings are usually found in the 'options' or 'preferences' menu of your internet browser. In order to understand these settings, the following links may be helpful. Otherwise you should use the 'Help' option in your internet browser for more details.
+
+  * [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies "Cookie settings in Internet Explorer")
+  * [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences "Cookie settings in Firefox")
+  * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en "Cookie settings in Chrome")
+  * [Cookie settings in Safari](https://support.apple.com/kb/ph19214?locale=en_US "Cookie settings in Safari")
+
+
+
+If you wish to withdraw your consent at any time, you will need to delete your cookies using your internet browser settings.
+
+#### **More information about cookies**
+
+  * Useful information about cookies, including information about deleting or blocking cookies, can be found at: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies")
+  * A guide to behavioral advertising and online privacy has been produced by the internet advertising industry which can be found at: [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/ "Your Online Choices")
+  * Information on the ICC (UK) UK cookie guide can be found on the ICC website section: <http://www.international-chamber.co.uk/our-expertise/digitaleconomy>
+
+
+
+#### **Do Not Track notifications**
+
+Some browsers allow you to automatically notify websites you visit not to track you using a “Do Not Track” signal. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit <http://www.allaboutdnt.com/>.
 
 ### **C. Your (mt) Media Temple hosted website, server, bulletin boards, forum, Third-Party Sites:**
 
 Information that you disclose in a public space, including on any blog, bulletin board, chat room, or website Media Temple may host for you as part of your Media Temple services, is available to anyone else who visits that space. Media Temple cannot safeguard any information you disclose in these locations. Additionally, Media Temple websites contain links to sites that belong to third parties unrelated to Media Temple. Media Temple cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit.
 
-On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, Media Temple will treat that portion of the information as non-confidential and nonproprietary and, except as otherwise expressed in this Policy, Media Temple assumes no obligation to protect such information from disclosure. To request removal of your personal information from our blog or community forum, contact us at [legal.notices@mediatemple.net](mailto:legal.notices@mediatemple.net). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, Media Temple will treat that portion of the information as non-confidential and nonproprietary and, except as otherwise expressed in this Policy, Media Temple assumes no obligation to protect such information from disclosure. To request removal of your personal information from our blog, contact us at [legal.notices@mediatemple.net](mailto:legal.notices@mediatemple.net). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 #### **Lucky Orange Web Analytics Service**
 
@@ -76,14 +116,28 @@ Notwithstanding the foregoing and in compliance with applicable laws, Media Temp
 
 If you are visiting this site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries. By visiting this site and communicating electronically with us, you consent to such transfers.
 
-### **F. Access:**
+### **F. Access, Update or Delete Data:**
 
-Upon request we will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [legal.notices@mediatemple.net](mailto:legal.notices@mediatemple.net).
+To easily access, view, update, or close your account, or to update your contact preferences, please sign into your Account Center and visit Contacts and Billing.
 
-You may also correct or request deletion of your personal information by contacting us at [legal.notices@mediatemple.net](mailto:legal.notices@mediatemple.net) or through the (mt) Account Center (for instructions, [ click here](https://mediatemple.net/community/products/dv/204643030/managing-your-contact-information#/Adding_and_modifying_Contacts).)
+To request a copy of your account data (EU customers only) or delete your account, please contact us at [legal.notices@mediatemple.net](mailto:legal.notices@mediatemple.net). If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements.
+
+If you are unable for any reason to access your Account Center, you may also contact us by one of the methods described in the “Contact Us” section below.
 
 We will respond to these requests within a reasonable timeframe.
 
-### **G. Updates:**
+### **G. Data Protection Authority:**
+
+If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, the UK's Information Commissioner’s Office, as noted below:
+
+[www.ico.org.uk](https://www.ico.org.uk/ "Information Commissioner's Office website")
+
+Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
+
+Phone: 0303 123 1113
+
+### **H. Updates:**
 
 We may update this Policy to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+Our site uses cookies. By agreeing to use our site, you are agreeing to our cookie [privacy policy](https://web.archive.org/legal/privacy-policy/).
