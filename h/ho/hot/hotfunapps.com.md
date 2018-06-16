@@ -1,74 +1,178 @@
-> *The following text is extracted and transformed from the hotfunapps.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209190112id_/https%3A//hotfunapps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfunapps.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616161541id_/https%3A//hotfunapps.com/privacy.php) for the most accurate reproduction.*
 
-# Terms & Conditions - Hot Fun Apps on Facebook
+# Privacy Policy - Hot Fun Apps on Facebook
 
-## Hot Fun Apps - Privacy Policy
-
-  
-
-
-The text below shows Privacy Policy for the Apps that you use on Hot Fun Apps. This privacy policy sets out how Hot Fun Apps uses and protects any information that you give for Hot Fun Apps Applications when you use them. Hot Fun Apps is committed to ensuring that your privacy is protected. When we ask you to provide certain information while authenticating the app and issuing certain permission by which you can be identified while using Applications, then you can be assured that it will only be used in accordance with this privacy statement. 
-
-HotFunApps may change this policy from time to time by updating this section. This privacy policy was last updated on 2nd June 2013. If we make any material changes to our policies, then we will either put message on our website or you need to check this section in order to comply with our policies. 
-
-#### _What Data we collect?_
-
-We may collect the following data from your profile: 
-
-  * We are collecting your basic profile information mainly your facebook profile photo, name, country, location.
+##  Privacy Policy
 
   
 
 
-#### _What we do with the Data we collected?_
+**Privacy Policy Last updated on 28th May 2018**
 
-We require this data to understand your needs and provide you with a good experience while using our Apps, and in particular way for the reasons below: 
+The text below shows Privacy Policy & Consent for the Apps that you use on Hot Fun Apps. This privacy policy sets out how Hot Fun Apps uses and protects any information that you give for Hot Fun Apps Applications when you use them. Hot Fun Apps is committed to ensuring that your privacy is protected. 
 
-  * We use your basic informations to create funny photos which can be download! 
-  * We require your certain information for the application you use to work
+**We ensure you that:**
 
-  
-
-
-#### _How do we protect your information?_
-
-We ensures at it best to keep your information secure. The use of this information is done while processing or using this Apps and which is temporary. 
-
-  * We never get any sensitive details such as passwords.
-  * We never store any details of facebook users.
-
-  
-
-
-#### _Do we disclose any information to outside parties?_
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. None of your informations are stored in our database.   
-Hot Fun Apps will not be responsible for any illegal activities on facebook. We never upload any data to facebook. By using our site, you consent to our privacy policy.  
-
-####  _3rd Party Advertisements and their Cookies:_
-
-Ad companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity. Third Party companies have their own Privacy Policies, Click to see company privacy policies: 
-
-  * [LifeStreet Media Privacy Policy](http://lifestreetmedia.com/privacy/)
+  * We DO NOT use your Data without your permission. Your data belongs to you.
+  * We only gather data which we need to create a tailor-made content and experience for you.
+  * We DO NOT sell your data to third parties.
+  * We are subject to strict EU/UK data protection law.
+  * You have full control over your data and can unsubscribe at any time.
+  * Your data must be secure: That's why we have implemented comprehensive security measures as well as technical and organizational measures to protect your data.
+  * We comply with strict legal data protection requirements as well as Facebook policies.
+  * If you have any queries,questions. Please contact us if you have any questions, Email on [care@webitnation.com](mailto:care@webitnation.com) or visit [http://startup.webitnation.com](http://startup.webitnation.com/)
 
 
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting link below. 
+####  1\. Objective and Responsible Authority 
 
-  * [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
+  * 1.1. This Privacy Policy clarifies the nature, scope and purpose of collecting, processing (hereinafter referred to as "processing") and using data within our services and the connected websites, functions and contents (hereinafter referred to as "Service" or "Website"), independent of the domains, systems, platforms and devices (e.g. desktops or portable devices) used to operate our Service. 
+  * 1.2. Service provider and the authority responsible for data processing is **M/s WebIT Nation** , Reliance Magnum Building, Margao, Goa,India (hereinafter referred to as "we" or "us").
+  * 1.3. The term "user" means all customers and visitors of our online offers and Service. The terms used here, e.g. "user", are gender neutral.
+  * 1.4. If the Privacy Policy contains consent clauses, these are to be highlighted.
+  * 1.5. In addition to this Privacy Policy our Terms of Service apply: <http://startup.webitnation.com/terms.html>
 
 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the link below. 
+####  2\. Definitions 
 
-  * <http://www.networkadvertising.org/managing/opt_out.asp>
+  * 2.1. Personally Identifiable Data - This kind of data can be used to uniquely identify, contact, or locate a single person or can be used with other sources to uniquely identify a single individual (e.g. names, e-mail-addresses).
+2.2. Pseudonymous Data - The pseudonymous data identifies a holder, that is, one or more human beings who possess but do not disclose their true full names (e.g. "user1234"). 
+  * 2.3. Cookies - A cookie is a small piece of data sent from a website and stored in a user's web browser while a user is browsing a website. When the user browses the same website in the future, the data stored in the cookie can be retrieved by the website to notify the website of the user's previous activity. We use Cookies in order to improve the usability of our services as well as for analyzing and personalizing purposes. Most browsers automatically accept cookies, but you can usually refuse cookies or selectively accept certain cookies by adjusting the preferences in your browser. If you turn off cookies, there may some features of our site that will not be available to you and some web pages may not display properly. You may opt-out from many ad-serving cookies by using the services provided by [http://www.aboutads.info/choice/](http://www.aboutads.info/choices) or <http://www.youronlinechoices.com/uk/your-ad-choices> for users form the European Union or <http://youradchoices.ca/choices> for users from Canada or [http://youronlinechoices.com.au](http://youronlinechoices.com.au/) for users from Australia.
+  * 2.4. Web beacons - Web beacons (also known as Pixel Tags) are small strings of code that provide a method for delivering a graphic image on a web page for the purpose of transferring information, such as the IP address of the computer that downloaded the page on which the Web beacon appears, the URL (uniform resource locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server. 
+  * 2.5. IP Address - An Internet Protocol address (IP address) is a numerical label assigned to each device (e.g., computer, smartphone) participating in the Internet. We store the IP address only, if it is necessary to provide a service or if may be legally necessary.
+
+
+
+####  3\. Essential Information for Data Processing and Security 
+
+  * 3.1. We will process personally identifiable data within the scope of the law and not without your required further consent only to the extent necessary for the conclusion and execution of our contractual relationship.
+  * 3.2. We take organizational, contractual and technical security measures to ensure that the provisions of data privacy laws are complied with and, as a result, the data managed by us is protected from accidental or intentional manipulations, loss, destruction or access by unauthorized persons. These security measures are monitored on a regular basis and updated according to industry standard as necessary.
+  * 3.3. If, within the framework of this Privacy Policy, contents, tools or other means and mediums are used by other providers (hereinafter referred to collectively as "Third-party Providers”) and whose registered office is abroad, it is assumed that a data transfer to the countries where those registered offices of the Third-party Providers are located takes place. The transmission of data to third-party countries is either based on legal authorization, user consent or specific clauses in the contract, which provide for legally required data security.
+
+
+
+####  4\. Processing of Personal Data 
+
+  * 4.1. Personal data, in addition to the use expressly named in this agreement and allowed by law, is used for the following purposes:   
+> The provision, maintenance, security and execution of our Service.  
+> Ensuring effective customer Service and technical support.  
+
+  * 4.2. Upon contacting us, information is saved for the purpose of processing the request and for the event that follow-up questions arise.
+
+
+
+####  5\. Registration through Authentication Services of Third Parties 
+
+  * 5.1. Users can register and log in by using authentication services of Third-party Providers, as far as these are available (hereinafter referred to as "authentication by a third-party"). Particularly Facebook, Google or Twitter can be possible authentication service providers.
+  * 5.2. As requirement for the authentication through a Third-party Provider, users should be registered at the respective Third-party Provider and enter the necessary login details in the appropriate web formula or should be already logged in to the Third-party Provider.
+  * 5.3. In the context of a registration, we receive a user ID with the information under which the user with this user ID is logged in and an ID that cannot be further used by the Service Provider (so called "user handle”). Whether we receive further data depends only on the user who uses the authentication by a Third-party Provider, the data that is selected to be released in the context of the authentication, and which data has been authorized by the user in the privacy or other settings of the user account at the Third-party Provider. The data can differ, depending on the provider and the selections of the user; normally these are the e-mail address and the user name. In case of Facebook, this is also the - so called - Public Profile Information, that can be seen by everyone. This includes the name, profile and cover picture, gender, networks (i.e. school or working place), user name (Facebook URL) and user identification number (Facebook ID).
+  * 5.4. The password that has been entered in the context of the authentication by a Third-party Provider cannot be seen by us, neither can it be saved by us or the Service Provider.
+  * 5.5. The users are asked to keep in mind that their data, which we save, can be compared and synchronized with their user account at the Third-party Provider automatically. There is no obligation however for us to update the data.
+  * 5.6. In the case that users decide that they do not wish to further use the connection of their user account at the Third-party Provider for the authentication by a Third-party Provider, they must close this connection within their user account at the Third-party Provider. If the users wish to delete their data we save, they must cancel their account at our Service.
+  * 5.7. During the use of authentication by a third party, the users are asked to keep in mind the applicable Terms of Use, as well as the Rules for Data Use of the third party and their policies. These can be found: Twitter ( <https://twitter.com/tos>, <https://twitter.com/privacy>), Google ( [http://www.google.com/intl/en/policies/](https://www.google.com/intl/en/policies/)), Facebook ( <https://www.facebook.com/policies/>). 
+
+
+
+#### 6\. Newsletter and Personalization
+
+  * 6.1. Newsletters and further electronically sent information (hereafter uniformly referred to as "newsletter”) that are not service-related, are not fulfilling our duties to perform our Service and contain advertisement will only be sent to you, if you have given us your prior consent or if it is permitted by law. 
+  * 6.2. We may ask you for an opt-in within our Service and sent you an email asking you to confirm your registration (so called double-opt-in). 
+  * 6.3. Non-promotional and thus no newsletter information includes notifications that are sent within the scope of the contract or business relations. This includes, for example, the sending of service emails with technical or organizational information within the framework of our provision of services, billing information, information concerning technical and legal changes, and questions regarding orders. 
+  * 6.4. If you no longer want to receive our newsletter you can opt to stop receiving it at any time. Opt-out possibilities are included in each mail and may also be changed within your account settings. 
+  * 6.5. You also give us the consent to store your IP addresses and the timestamp as part of the sign-up process. We are legally bound to record the log-on process so as to be able to verify that logging on is done in accordance with regulations. 
+  * 6.6. In order to tailor our newsletter to your interests and to avoid contents that are irrelevant for you or to adjust the frequency of our information (i.e. lower the sending frequency, if you open them less), we measure whether you open our newsletter (this with help of a Web Beacon, a small image within the content of the newsletter) and which links you click (this by a link redirection via our servers). We do not use this information for other purposes and we will delete the personally to you related measurement data as soon, as you opt out from receiving our newsletter. This consent applies within the countries of European Union only after an explicit consent was given within a permission dialogue. The same is true for other jurisdictions, where an explicit consent is required. 
+
+
+
+#### 7\. Browser notifications
+
+  * 7.1. We enable users to obtain information about our Service and its contents through messages that are shown by their browsers (so called "push notifications”). In order to do this, we currently use the services provided by OneSignal Inc., 201 San Antonio Rd #140, Mountain View, CA 94040, USA. 
+  * 7.2. The push notifications are set up with the users’ consent and the users’ browser must support such push notifications. In order to be able to display push notifications, OneSignal is required to store an identifying feature of the browser, which is then used for push notifications only. 
+  * 7.3. Users can find more information about push notifications in OneSignal’s privacy policy: <https://onesignal.com/privacy_policy>
+  * 7.4. Users may object to the further use of our push notifications at any time by disabling the function in their browser settings on desktop or smartphone browser. 
+
+
+
+#### 8\. Google Analytics and User ID
+
+  * 8.1. We use Google Analytics, a Google Inc. ("Google") web analysis service. Google uses cookies, text files that are saved on users' computers and allow the use of our Service to be analyzed. The information generated on the user's use of our Service by the cookie is generally transferred to a Google server in the US where it is saved. 
+  * 8.2. We also use the function User ID in order to track data on user interaction with our Service. This User ID is anonymized and encrypted and will be except for its pseudonymous use not be processed with other data of a user in a way that makes the user identifiable. 
+  * 8.3. Google will use this information on our behalf in order to assess users' use of our Service, in order to compile reports on the activities within our Service and in order to render additional services for us associated with the use of our Service and Internet use. 
+  * 8.4. We only use Google Analytics with activated IP anonymization. This means that Google shortens user IP addresses within an EU member state or in other contractual states of the Agreement on the European Economic Area. Only in exceptional cases is the full IP address transferred to a Google server in the US where it is shortened. 
+  * 8.5. We use the Analytics features for remarketing, Google Display Network impressions, DoubleClick Campaign Manager integration and Google Analytics reports on demographics and user interests. You can prevent Google from using Google Analytics for display ads and customize ads on the Google Display Network at:<https://www.google.com/settings/ads>
+  * 8.6. The IP address transferred by the user's browser is not linked to other Google data. Users can prevent cookies being saved through the appropriate setting on their browser software; users can also prevent the acquisition of the data generated by the cookie and related to the use of our Service in addition to the processing of this data by Google by downloading and installing the available browser plug-in at the following link: [http://tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout?hl=en)
+  * 8.7. You can find further information on Google’s use of data for marketing purposes on the site map: <https://www.google.com/policies/technologies/ads>, Google’s privacy policy can be viewed at <https://www.google.com/policies/privacy>. If you wish to object to the collection of data by Google Marketing Services, you can use the settings and opt-out functions provided by Google: [http://www.google.com/ads/preferences](https://www.google.com/ads/preferences). 
+
+
+
+#### 9\. Server Log Files 
+
+  * 9.1. During every visit of our Service information about IP address, access-provider, referring URL, date/time, browser type and version and operating system, amount and state of transferred data is stored in the web server log files. 
+  * 9.2. We use the log data without any other personal or pseudonymous profiling as required by law only for the purpose of the operation, security and optimization of our servers. 
+
+
+
+#### 10\. General information on usage of Facebook 
+
+  * 10.1. If the Service is carried out as a Facebook application and/or if authentication through Facebook is used, the permission of users is required for us to access their stored data on Facebook. 
+  * 10.2. Users are expressly referred in the context of the Facebook consent dialog to this data collection and the data shared by Facebook with us (e.g. public profile, friends list, e-mail address and "Like" information) through the Service. 
+  * 10.3. We may use the requested data anonymously for statistical purposes. I.e., if we may access the data on user's facebook chronic, posts or likes, we may evaluate how often a posting was shared or liked in order to help us improve our Services and its contents like our Quizzes and personality tests. We perform the evaluation anonymously, meaning independently of users' Personally Identifiable Data we received with the consent of the user (e.g. without the Facebook-ID). These evaluations are just for us only, without any transfers of this data to third parties.
+  * 10.4. Users are referred to Facebook’s privacy policy <https://www.facebook.com/about/privacy/your-info-on-other> for more information about the consent process, consent granted and ways of revoking such consent within their Facebook profile. 
+  * 10.5. Users have the option in the Facebook application settings to end their use of the Service at any time: <https://www.facebook.com/settings?tab=applications>. 
+
+
+
+#### 11\. Content Adjustment for Individuals 
+
+  * 11.1. We use the information we receive on the user in order to adjust our Service and its contents with user’s demands, expectations or interests, whereby user profiles may be created. For this purpose, we use the data that we receive on users as described within this Privacy Policy and then analyze it via algorithmical functions. 
+  * 11.2. This processed information includes data we receive from users during the registration procedure (e.g. a user, gender, name or country), as well as the data we receive on a user’s use of our Service (e.g. which parts of our Service are preferably used, recommended, favored or shared with other users). 
+
+
+
+####  12\. Use of Facebook Social Plugins
+
+  * 12.1. Our Service uses social plugins ("plugins") provided by the social network Facebook, which is operated by Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA, or if you live in the European Union, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland ("Facebook"). The plugins are usually identifiable by a Facebook logo (e.g. letter f on blue background or a thumb up icon). For a full list of all social Plugins please see <https://developers.facebook.com/docs/plugins/>
+  * 12.2. When you visit a page of our Service that contains a social plugin, your browser establishes a direct connection to Facebook servers. Facebook directly transfers the plugin content to your browser that embeds the latter into the Service, enabling Facebook to receive information about you having accessed the respective page of our Service. Thus, we have no influence on the data gathered by the plugin and inform you according to our state of knowledge: The embedded plugins provide Facebook with the information that you have accessed the corresponding page of our Service. If you are logged into Facebook, your visit can be assigned to your Facebook account. If you interact with the plugins, for example by clicking "Like”, or entering a comment, the corresponding information is transmitted from your browser directly to Facebook and stored by it. Even if you are not logged into Facebook, there is possibility that the plugins transmit your IP-address to Facebook. 
+  * 12.3. For the information on the purpose and scope of data collection and procession by Facebook, as well as your rights in this respect and settings options for protecting your privacy please visit Facebook’s privacy policy: <https://www.facebook.com/about/privacy/>
+  * 12.4. In case you want to opt out of being subject to Facebook's use of your data for marketing purposes please use Facebook's opt-out settings provided within your user profile: <https://www.facebook.com/settings?tab=ads> or the opt-out possibilities on the websites <http://www.aboutads.info/choices> or for users from the EU [http://www.youronlinechoices.com](http://www.youronlinechoices.com/). Your choices are irrespective of platforms and devices and will be considered while using desktop or mobile devices. 
+
+
+
+####  13\. Third-Party Content and Service Provider 
+
+  * 13.1. We are using third-party content and service providing services in order to embed their contents like quizzes, tests, games, texts, images or fonts within our Website (hereinafter jointly referred to as the "Content”). This always pre-supposes that the Third-party Provider uses the user’s IP address. This is because without the IP address, they cannot send the Content to the respective user’s browser. The IP address is thus required for displaying this Content. We endeavor only to use Content of which the respective Third-party Provider uses the IP address only for distributing the Content. Third-party Providers might also use Pixel-Tags (small invisible images, also known as "Web Beacons") to collect information for statistical or marketing purposes. Through the use of Pixel-Tags simple actions such as the visitor traffic to the Website can be pseudonymously recorded and collected, whereby user profiles may be created. The pseudonymous information might also be stored in cookies on your device, includes technical information like your Browser or OS, details of how you used our Service and interacted with Contents displayed by the Third-party Provider. This information might be combined with such data collected on other sources. 
+  * 13.2. In in the following, we will inform you on the Third-party Provider we work with, their privacy policy with detailed information on their data collection and ways to opt-out from their data collection. 
+    * Cloudflare, Inc., 101 Townsend St, San Francisco, CA 94107, USA, <https://www.cloudflare.com/>, a Content Delivery Network (CDN), which helps us to deliver contents of our Service faster, especially big media files like images or scripts using a world-wide distributed server network. Cloudflare also helps us to determine on the basis of the IP-address the probable country of a user, in order to adjust our Service and contents to the local requirements (e.g. customs or legal needs). Privacy Policy: <https://www.cloudflare.com/security-policy/>. 
+
+
+
+#### 14\. Third Party Advertisements and their Cookies:
+
+  * 14.1 Ad companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity. Third Party companies have their own Privacy Policies, Click to see company privacy policies:
+    * [LifeStreet Media Privacy Policy](http://lifestreetmedia.com/privacy/)
+  * 14.2 Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting link below. 
+    * [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
+  * 14.3 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the link below.
+    * <http://www.networkadvertising.org/managing/opt_out.asp>
 
  
 
-####  _Contact:_
+####  15\. Service, Notices and Deletion of Data
 
-If you have any questions regarding privacy policy or queries please contact us via email at playadda@gmail.com  
+  * 15.1. In compliance with legal requirements we will at any time provide you with information on your personally identifiable data stored by us, free of charge and without undue delay. Please refer to the contact information on our Website. 
+  * 15.2. Furthermore, you are free to revoke the approvals granted by confirming this Privacy Policy, to complain to the competent supervisory authority, as well as correct, erase or block your personally identifiable data at any time and with future effect. 
+  * 15.3. We delete the stored personal data, as soon as it is not needed for its purposes anymore and as this is in compliance with all legal storage obligations.
 
-#####  **Last Updated: 21st January 2016**
 
- 
+
+####  16\. Amendments of this Privacy Policy
+
+  * 16.1. We may change the Privacy Policy in order to adapt it to changed legal situations or to changes in the Service and in the data processing. However, this only applies to declarations concerning data processing. If users' consent is required or if elements of the Privacy Policy contain provisions concerning the contractual relationship with the users, the changes are only made with the consent of the users. 
+  * 16.2. Please check back periodically, and especially before you provide any new personally identifiable information. 
+
+
+
+#### _Contact:_
+
+If you have any questions regarding privacy policy or queries please contact us via email at [care@webitnation.com](mailto:care@webitnation.com) or visit [http://startup.webitnation.com](http://startup.webitnation.com/)
