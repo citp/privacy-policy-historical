@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stack.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226044838id_/http%3A//www.stack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stack.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616235219id_/http%3A//www.stack.com/privacy-policy) for the most accurate reproduction.*
 
 # Get Bigger, Stronger, Better, Faster | STACK
 
@@ -12,7 +12,9 @@ Please note that any video, image, or other content posted at the direction of M
 
 ### Personally Identifiable Information
 
-You provide certain personally identifiable information (such as your name and email address) to STACK when choosing to participate in various activities on the STACK Websites such as registering, creating a public profile, uploading videos, posting messages, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
+You provide certain personally identifiable information (such as your name and email address) to STACK when choosing to participate in various activities on the STACK Websites such as registering, creating a public profile, uploading videos, posting messages, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, watching videos, or subscribing to newsletters or other mailing lists.
+
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>.
 
 ### Cookies Information
 
