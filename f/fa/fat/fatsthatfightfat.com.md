@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatsthatfightfat.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213220419id_/http%3A//www.fatsthatfightfat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatsthatfightfat.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616115624id_/http%3A//fatsthatfightfat.com/privacy-policy) for the most accurate reproduction.*
 
 # Fats That Fight Fat - Privacy Policy
 
