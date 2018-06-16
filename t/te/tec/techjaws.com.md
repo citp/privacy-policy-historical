@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the techjaws.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212062226id_/http%3A//www.techjaws.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techjaws.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616230318id_/https%3A//www.techjaws.com/privacy-policy) for the most accurate reproduction.*
 
-# TechJaws – Technology Blog | Privacy Policy - TechJaws - Technology Blog
+# Privacy Policy - TechJaws - SEO, Computer Security, Technology
 
-## Privacy Policy
-
-This Privacy Policy governs the manner in which TechJaws collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.techjaws.com](https://web.archive.org/web/20171212062226id_/http%3A//) website (“Site”). This privacy policy applies to the Site and all products and services offered by TechJaws.
+This Privacy Policy governs the manner in which TechJaws collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.techjaws.com](https://web.archive.org/web/20180616230318id_/https%3A//) website (“Site”). This privacy policy applies to the Site and all products and services offered by TechJaws.
 
 **Personal identification information**
 
@@ -68,10 +66,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[TechJaws](https://web.archive.org/web/20171212062226id_/http%3A//)  
-[http://www.techjaws.com](https://web.archive.org/web/20171212062226id_/http%3A//)  
-1502 Canterfield Parkway W  
-West Dundee, IL 60118  
+[TechJaws](https://web.archive.org/web/20180616230318id_/https%3A//)  
+[https://www.techjaws.com](https://web.archive.org/web/20180616230318id_/https%3A//)  
+775 Silver Cloud Circle  
+Lake Mary, FL 32746  
 boscony@yahoo.com
 
-This document was last updated on March 04, 2011﻿
+This document was last updated on March 04, 2011
