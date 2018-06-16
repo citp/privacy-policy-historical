@@ -1,27 +1,47 @@
-> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001319id_/https%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034722id_/https%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
 
 # TripleClicks Privacy Policy
 
-TripleClicks holds the privacy and security of our site visitors in the highest regard. The following information explains the type of information gathered on our sites and how that information is used.
+## TripleClicks Privacy Policies
 
-#####  **What's collected and what's not?**
+#### TripleClicks Members
 
-You can visit our site without telling us who you are or revealing any personal information. While IP addresses (the Internet address of a computer) are logged to track a user's session, the user remains anonymous. Tracking IP addresses gives us an idea of the areas on our site users are visiting and how long they spend there. We do not link IP addresses to anything personally identifiable. Again, this means that a user's session is tracked, but the user is anonymous. The user's browser also lets us know the type of computer and operating system being used. IP addresses are used in conjunction with completed orders to track and prevent fraudulent transactions.
+[View the TripleClicks Member Privacy Policy here](https://zing.network/PrivacyPolicy).
 
-E-mail addresses are gathered from only those who have purchased products from us and those who sign up for one or more of our mailing lists.
+* * *
 
-#####  **How is e-mail information used?**
+#### TripleClicks E-Commerce Associate Privacy Policy
 
-E-mail addresses are used to send you information that you requested or to confirm orders. We NEVER sell, rent, or loan our e-mail lists to ANY third party. If you order a product or service sold by one of our E-Commerce Associates, they will be provided your e-mail address in case they need to contact you about your order.
+[Carson Services, Inc.](http://carsonsi.com/), parent company of TripleClicks, holds the privacy and security of our site visitors in the highest regard. The following information explains the type of information gathered on our sites and how that information is used.
 
-#####  **How do I remove my name from mailing lists to which I previously subscribed?**
+When you become a TripleClicks ECA, we collect the following information:
 
-Just follow the simple removal directions always provided at the bottom of e-mails you receive from us.
+First Name  
+Last Name  
+Your position at the company  
+E-Mail Address  
+Password  
+Street Address  
+City  
+State/Province  
+Country  
+Fax Number  
+Company Name  
+Currency Used  
+Business Description  
+Business URL  
+Business Details/Preferences  
+Category of business  
 
-#####  **Is supplied credit card information retained?**
 
-We retain this information for a period of time to allow for the possibility of a credit being posted to your credit card for a product being returned.
+**How is your account information used?**
 
-#####  **What about phone numbers and addresses?**
+Your name, business address, contact person information, business category, descriptions, optional business details and preferences you input, and phone numbers are used to facilitate communication with you, process your transactions, ensure accurate placement within the TripleClicks search engine, and to customize your TripleClicks account pages. E-mail addresses are used to send you messages regarding your business's transactions, ECA account, promotional messages about TripleClicks, and other relevant communications.
 
-We request a phone number on order forms in case we need to contact you about your order. We NEVER sell, rent, or loan our list of customer phone numbers, nor any other information about customers. If you order a product or service sold by one of our E-Commerce Associates, they will be provided your phone number in case they need to contact you about your order. They are, of course, also provided your shipping address.
+We NEVER sell, rent, or loan our e-mail lists or any other personal information to third parties. Period!
+
+NOTES:
+
+Upon request, you may request (free of charge) your personal data TripleClicks has collected and stored. This information will be provided in a timely manner in a common readable format file.
+
+Should you decide to opt out of the TripleClicks ECA program entirely, you may also request the complete erasure of all personal information (including name, photo, profile information, etc.) pertaining to you on our servers.
