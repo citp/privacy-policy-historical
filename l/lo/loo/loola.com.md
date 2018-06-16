@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the loola.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230164902id_/http%3A//kizi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loola.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616035053id_/http%3A//kizi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | kizi.com
 
 Kizi® is committed to protecting your privacy online. To further this commitment, we have adopted an online privacy policy that guides how we collect, store, and use information collected about you online. 
 
 **What information does Kizi.com collect?**  
-Kizi® may request and/or collect non-private information from you when you use Kizi.com and/or register. For the protection of your privacy, we ask that you avoid sending us any and all personally identifiable information. 
+Kizi® may request and/or collect non-private information from you when you use Kizi.com and/or register. For the protection of your privacy, we ask that you avoid sending us any and all personally identifiable information.  
+In any case, we don't collection personally identifiable information for people under the age of 13. 
 
   
 
