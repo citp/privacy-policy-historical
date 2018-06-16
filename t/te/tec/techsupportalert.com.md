@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115211207id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616053809id_/https%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # This Site's Privacy Policy | Gizmo's Freeware
 
@@ -76,7 +76,7 @@ Our Privacy Policy may be reviewed periodically and we reserve the right to chan
 
 This Privacy Policy was last updated on Tuesday, June 21 2011..  
   
-  * [Printer-friendly version](https://web.archive.org/print/privacy-policy.htm "Display a printer-friendly version of this page.")
+  * [Printer-friendly version](https://web.archive.org/print/privacy_policy.htm "Display a printer-friendly version of this page.")
 
 
 
