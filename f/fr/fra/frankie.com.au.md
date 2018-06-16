@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frankie.com.au privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216074925id_/http%3A//www.frankie.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankie.com.au privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616180058id_/http%3A//www.frankie.com.au/privacy) for the most accurate reproduction.*
 
 # privacy | frankie magazine
 
@@ -17,8 +17,8 @@ With regards to our website, when you look at our site, our Internet service pro
 \- your top-level domain name (eg. .com, .au, .gov, .uk etc).  
 No attempt will be made to identify you or your browsing activity except, in the unlikely event of an investigation, where a law enforcement agency may produce a warrant to inspect our ISP's logs.
 
-  Our Privacy Policy and our approach to privacy adheres to the Australian Government's National Privacy Principles contained within the new Privacy Amendment (Private Sector) Act 2000.
+  Our Privacy Policy and our approach to privacy adheres to the Australian Government's National Privacy Principles contained within the new Privacy Amendment (Private Sector) act March 12, 2014 and is GDPR compliant.
 
-If you have a question about our Privacy Policy, or would like to gain access to information we might hold about you, please contact us on phone +(61) 3 9214 2721.
+If you have a question about our Privacy Policy, would like to gain access to information we might hold about you, or would like us to delete your information from our records, please contact us at hello@frankiepress.com.au.
 
 You can obtain more information on Australia's approach to privacy from the Australian Privacy Commissioner's website.
