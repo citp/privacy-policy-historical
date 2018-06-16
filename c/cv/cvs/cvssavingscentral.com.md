@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cvssavingscentral.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001113id_/http%3A//www.cvs.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvssavingscentral.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034839id_/https%3A//www.cvs.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # CVS pharmacy
 
-Effective Date: June 13, 2017
+Effective Date: April 10, 2018
 
 This Privacy Policy describes how CVS Pharmacy, Inc. ("CVS," "we" or "us") may collect information about you through your interactions with us in our stores, or on our websites and mobile applications (collectively, the "Services"). By using the Services, you agree to the terms of this Privacy Policy. If you have any questions or concerns about this Privacy Policy, or about the way your information is collected and used, please call us toll-free at (888) 607-4287.
 
@@ -55,7 +55,7 @@ We may combine the information collected from you through the Services with info
 
 ## Use and Disclosure of Personal Information
 
-We use your personal information to respond to your requests, such as to fulfill your order, contact you with information about your order, send you email alerts, send you newsletters, and to provide you with related customer service. We may also use your information to send marketing communications and administrative information to you, including through the use of push notifications in our apps.
+We use your personal information to respond to your requests, such as to fulfill your order, contact you with information about your order, send you email alerts, send you newsletters, and to provide you with related customer service. We may also use your information to send marketing communications and administrative information to you, including through the use of push notifications in our apps. Manage subscription services, including order management, billing, improving reorder experiences, communicate with you about your account, and offer other products and services that may be of interest to you.
 
 We may use your personal information to personalize your experience shopping and interacting with us, including by presenting products and offers tailored to you, and for our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing our Services and new products and services, determining the effectiveness of our promotional campaigns, and operating and expanding our business activities.
 
@@ -119,6 +119,24 @@ You are responsible for maintaining the confidentiality of your Services access 
   
 
 
+## Telephone, Text and Fax Policy
+
+By providing your residential or wireless phone and/or fax number(s) to CVS, you expressly consent to receive marketing and non-marketing autodialed and/or prerecorded calls, text messages and faxes (including fax advertisements) from or on behalf of CVS at the number(s) provided. Your consent to receive calls or texts on your wireless device is not a condition of any purchase. Consent may be revoked at any time by calling the toll-free number at 1-800-SHOPCVS or faxing your opt-out request to 1-401-652-0893. You may also send an opt-out request via email to do_not_call@cvscaremark.com with the phone and/or fax number you wish to opt-out. Your wireless carrierâ€™s standard message and data rates may apply.
+
+  
+
+
+## Text Messaging Terms and Conditions
+
+CVS Pharmacy, Inc., or one or more of its affiliates (CVS) offers access to pharmacy and healthcare service messages via recurring SMS (Short Message Service) and MMS (Multimedia Message Service) text alerts. Enrollment in text alerts requires a patient to provide his or her own mobile phone number with an area code within the 50 United States or the District of Columbia. By enrolling to receive CVS text alerts, you agree to these terms and conditions, which become effective upon your enrollment. You may be asked to verify your mobile phone number before the service will start. This requires responding to a text alert sent to your mobile phone confirming your enrollment in this Service.
+
+You acknowledge that text alerts will be sent to the mobile phone number you provide to CVS. Such alerts may include limited personal information about your prescriptions, and whoever has access to the mobile phone or carrier account will also be able to see this information. Once you enroll, the frequency of text alerts we send to you will vary. You will typically receive text alerts when we have information for you about your prescriptions or other healthcare information. CVS Pharmacy does not impose a separate charge for text alerts; however, your mobile carrier's message and data rates may apply depending on the terms and conditions of your mobile phone contract. You are solely responsible for all message and data charges that you incur. Please contact your mobile service provider about such charges. The following carriers are supported: AT&T, Sprint, Boost, Verizon Wireless, U.S. Cellular®, T-Mobile®, Cincinnati Bell, Alltel, Virgin Mobile USA, Cellular South, Unicel, Centennial and nTelos. You may opt out of CVS text alerts at any time. To stop receiving text alerts, text STOP to CVSTXT (287898). Texting STOP to CVSTXT (287898) will opt you out of any and all future CVS text messages. After you submit a request to unsubscribe, you will receive one final text alert from CVS confirming that you will no longer receive text alerts. No additional text alerts will be sent unless you re-activate your enrollment. For questions about text alerts, text the word Help to CVSTXT (287898) or contact CVS at 1-877-833-9620. You also can change your text alert preferences on CVS.com if you have an account with prescription management. Sign in and go to your pharmacy main page. Click on the On/Off button in the Pharmacy Messages section to change your preferences.
+
+The CVS text alert programs are offered on an "as is" basis and: (1) may not be available in all areas at all times; and (2) may not continue to work in the event of product, software, coverage or other service changes made by your wireless carrier. CVS may change or discontinue any of its text alert programs without notice or liability to you. CVS and its related companies and each of their respective officers, directors and employees are not responsible and shall not be liable for any losses or injuries of any kind resulting, directly or indirectly, from any CVS text alert program or from technical failures or delays of any kind. CVS reserves the right to cease delivery of text alerts to any person at anytime in its sole discretion.
+
+  
+
+
 ## Cookies and Other Technologies
 
 Like many other websites and online services, we collect information about Services traffic and usage patterns through the use of cookies, Web server logs, and other, similar technologies. We use this information for various purposes, such as to ensure that the Services function properly, to facilitate navigation, to personalize your experience, to understand use of the Services, to diagnose problems, to measure the success of our marketing campaigns, and to otherwise administer the Services.
@@ -149,6 +167,8 @@ We may use analytics providers that use cookies, pixel tags and other, similar t
 
 We and our service providers may collect the physical location of your device by, for example, using satellite, cell phone tower, WiFi signals, beacons, Bluetooth, and near field communication protocols, when you are in or near a CVS store. We may use your device's physical location to provide you with personalized location-based services and content, including for marketing purposes. We may also use such information to understand traffic patterns in, near, and across our store locations. We may share aggregated statistics derived from the location and other information we collect with advertisers and other third parties. You may be permitted to allow or deny such collection of your device's location, such as through the settings on your mobile device and/or, to avoid the collection of location by beacons, by disabling Bluetooth. If you choose to deny such collection, we and our service providers may not be able to provide you with certain personalized services and content. We use cameras in and around our stores for security purposes and for operational purposes. These cameras may provide us with your location.
 
+For example, precise geo-location can be used to identify your deviceâ€™s latitude and longitude or your deviceâ€™s location capabilities (e.g., GPS or Wi-Fi) to help you find nearby CVS stores. Or, in-store location through the use of your phoneâ€™s blue tooth signal, LED light chip technologies or other technologies will permit CVS to provide additional services to you.
+
   
 
 
@@ -170,6 +190,10 @@ You can take yourself off our email list for promotional offers at any time by u
 You may stop the receipt of push notifications through your mobile device settings.
 
 You can request the removal or modification of the personal information you have provided to us by sending an email to the appropriate area under "Contact Us". For your protection, we may only implement requests with respect to the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity and obtain information on the context in which you provided your personal information before implementing your request. We will try to accommodate your request as soon as reasonably practicable.
+
+You can stop all further collection of information by a CVS mobile application by uninstalling the CVS mobile application. You may use the standard uninstall process available as part of your mobile device or via the mobile application marketplace or network.
+
+Note: If you uninstall the mobile application from your device, the CVS unique identifier associated with your install and/or device might continue to be stored. If you re-install the application on the same device, CVS might be able to re-associate this identifier to your previous transactions and activities.
 
 Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion. There may also be residual information that will remain within our databases and other records, which will not be removed.
 
