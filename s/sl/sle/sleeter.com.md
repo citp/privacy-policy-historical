@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeter.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725123613id_/http%3A//www.divcom.com/images/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeter.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616081830id_/http%3A//www.divcom.com/images/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy and Your Privacy Rights
 
