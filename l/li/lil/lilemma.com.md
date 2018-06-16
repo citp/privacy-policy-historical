@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilemma.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214222710id_/http%3A//www.lilemma.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilemma.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616125540id_/http%3A//lilemma.com/privacy.html) for the most accurate reproduction.*
 
 # Lil Emma : The Official Website of the Sexy Teen Nextdoor!
 
