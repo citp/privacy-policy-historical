@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendodsi.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213231638id_/http%3A//www.nintendo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendodsi.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616170127id_/https%3A//www.nintendo.com/privacy-policy) for the most accurate reproduction.*
 
 # Nintendo Privacy Policy - Official Site
 
@@ -82,6 +82,6 @@ This privacy policy and the certification seal located on our websites that link
 
 If you have any questions, concerns or comments regarding this privacy policy, or any of our privacy practices, please contact us via email at privacypolicy@noa.nintendo.com, via phone at 1-888-977-7627, or via regular mail at Nintendo of America Inc., Attn: Privacy Administrator, 4600 150th Avenue NE, Redmond, WA 98052, U.S.A.
 
-You may also contact ESRB Privacy Certified via email at privacy@esrb.org, or via regular mail at ESRB Privacy Certified, Attn: Privacy Certified Program, 420 Lexington Avenue, Suite 2024, New York, NY 10170.
+You may also contact ESRB Privacy Certified via email at privacy@esrb.org, or via regular mail at ESRB Privacy Certified, Attn: Privacy Certified Program, 420 Lexington Avenue, Suite 2240, New York, NY 10170.
 
 END
