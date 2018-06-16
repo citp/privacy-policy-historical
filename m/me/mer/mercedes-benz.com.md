@@ -1,93 +1,129 @@
-> *The following text is extracted and transformed from the mercedes-benz.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624082123id_/https%3A//www.mercedes-benz.com/en/mercedes-benz/providerprivacy-statement/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedes-benz.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616221103id_/https%3A//www.mercedes-benz.com/en/mercedes-benz/providerprivacy-statement/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Mercedes-Benz
 
-### Privacy Statement
+Controller within the meaning of the General Data Protection Regulation (“GDPR”) is:  
+Daimler AG („We“)  
+Mercedesstraße 137  
+70327 Stuttgart  
+Deutschland   
+Email: [data.protection@daimler.com](mailto:data.protection@daimler.com)
 
-Daimler appreciates your interest in its products and your visit to this website. We take the protection of your data seriously and we want you to feel comfortable visiting our site. Protecting your privacy when processing personal data is very important to us and we take account of this in our business processes. Personal data collected during visits to our websites is processed by us according to the legal provisions valid for the countries in which the websites are maintained. Our data protection policy is also based on the data protection policy applicable to Daimler. 
+Data Protection Officer:  
+Dr. Joachim Rieß  
+Daimler AG  
+CDP  
+HPC G353  
+70546 Stuttgart  
+Deutschland   
+E-Mail: [data.protection@daimler.com](mailto:data.protection@daimler.com)
 
-[Daimler privacy policy.](http://www.daimler.com/dokumente/konzern/sonstiges/daimler-datenschutzrichtlinie-de.pdf).
+We are pleased about your visit on our web pages and your interest in our offers. The protection of your personal data is an important concern for us. In these Privacy Statement we explain how we collect your personal data, what we do with it, for what purposes and on what legal basis this is done, and which rights and claims are associated with it for you. In addition, we refer to the Daimler Data Protection Policy:
 
-Daimler websites may include links to websites of other providers that are not covered by this privacy statement. 
+[Daimler Data Protection Policy](http://www.daimler.com/data-protection-policy)
 
-#### Collection and processing of personal data
+Our Privacy Statement for the use of our websites and the Data Protection Policy of Daimler AG do not apply to your activities on the websites of social networks or other providers that you can reach via the links on our websites. Please check the websites of these providers for their data protection regulations.
 
-When you visit our website, our web servers will normally store details of your browser and operating system, the website from which you visit our website, the pages that you visit on our website, the date of your visit, and, for security reasons, e.g. to identify attacks on our website, the IP address assigned to you by your internet service provider; this IP address is stored for seven days. Apart from the IP address, personal data is only stored if you choose to submit it to us, e.g. when registering, in a survey, in a competition or in connection with the performance of an agreement. 
+#### Collection and processing of your personal data
 
-####  Use and passing on of personal data and limitation of use to specific circumstances 
+When you visit our website, we store certain information about the browser and operating system you use, the date and time of your visit, the access status (e.g. whether you were able to access a website or received an error message), the use of website functions, the search terms you may have entered, the frequency with which you access individual websites, the designation of files accessed, the amount of data transferred, the website from which you accessed our websites and the website which you visit from our websites, either by clicking on links on our websites or by entering a do-main directly in the input field of the same tab (or the same window) of your browser in which you opened our websites. We also store your IP ad-dress and the name of your Internet service provider for seven days for security reasons, in particular to prevent and detect attacks on our websites or attempts at fraud.
 
-Daimler uses your personal data only to the extent necessary for the technical administration of the website, for customer management, for product surveys, and for marketing purposes. 
+We only store other personal data if you provide this data, e.g. as part of a registration, a contact form, a survey, a price competition or for the execution of a contract, and even in these cases only insofar as this is permitted to us on the basis of a consent given by you or in accordance with the applicable legal provisions (further information on this can be found below in the section “Legal basis of processing”).
 
-Personal data is transferred to state organizations and authorities only to the extent required by mandatory national provisions of law. We have placed our employees, agencies and dealers under a duty of confidentiality. 
+You are not legally or contractually obliged to make available your personal data. However, it is possible that certain functions of our websites depend on the availability of personal data. If you do not make available personal data in these cases, this may result in functions not being available or only being available to a limited extent.
 
-#### Opt-out
+#### Purposes of use 
 
-We would like to use your data to enable us to inform you about our products and services and, if applicable, to ask you about them. Of course, participation in such activities is voluntary. If you do not wish to take part, you can notify us at any time so that we can exclude your data accordingly. You can find further information on the relevant page of the website. 
+We use the personal data collected when you visit our website in order to operate it in the most convenient manner for your use and to protect our IT systems from attacks and other illegal activities.
 
-#### Newsletters
+If you provide us with further personal data, e.g. within the scope of a registration, a contact form, a survey, a price competition or for the execution of a contract, we use this data for the purposes mentioned, for the purposes of customer administration and – if necessary – for the purposes of processing and accounting of any business transactions, in each case to the extent required for this.
 
-You can also subscribe to newsletters on our website. The data provided during newsletter registration will be used only for the purposes of sending out the newsletter, provided you have not consented to other uses. You can cancel the subscription at any time by using the unsubscribe option provided in the newsletter. 
+#### Transfer of personal data to third parties; social plug-ins 
 
-#### Central Daimler AG access service
+Our websites may also contain offers of third parties. If you click on such an offer, we transfer data to the respective provider to the required extent (e.g. information that you have found this offer with us and, if applicable, further information that you have already provided on our websites for this purpose).
 
-The central Daimler AG access service enables you to create a single user account to log in to all websites and applications of the Daimler Group and its brands that are linked to this service. Click on the following link to read the terms and conditions of use for the central Daimler AG access service: 
+When we use social plug-ins on our websites from social networks such as Facebook, Twitter and Google+, we integrate them as follows: When you visit our websites, the social plug-ins are deactivated, i.e. no data is transmitted to the operators of these networks. If you want to use one of the networks, click on the respective social plug-in to establish a direct connection to the server of the respective network.
 
-[Conditions of use for the central Daimler AG access service](https://login.secure.mercedes-benz.com/profile/terms?app-id=VHDEMO)
+If you have a user account on the network and are logged in when you activate the social plug-in, the network can associate your visit to our websites with your user account. If you want to avoid this, please log out of the network before activating the social plug-in. A social network cannot associate a visit to other Daimler websites until you have activated an existing social plug-in. When you activate a social plug-in, the network transfers the content that becomes available directly to your browser, which integrates it into our websites. In this situation, data transmissions can also take place that are initiated and controlled by the respective social network. Your connection to a social network, the data transfers taking place between the network and your system, and your interactions on that platform are governed sole-ly by the privacy policies of that network. The social plug-in remains active until you deactivate it or delete your cookies.
 
-#### Social plugins
+Cookie Statement
 
-Daimler uses so-called social plugins (‘buttons’) for social networks such as Facebook, Google+ and Twitter. 
+If you click on the link to an offer or activate a social plug-in, personal data may reach providers in countries outside the European Economic Area that, from the point of view of the European Union (“EU”), may not guarantee an “adequate level of protection” for the processing of personal data in accordance with EU standards. Please remember this fact before clicking on a link or activating a social plug-in and thereby triggering a transfer of your data. 
 
-When you visit our websites these buttons are deactivated by default, i.e. without your intervention they will not send any data to the respective social networks. Before you are able to use these buttons, you must activate them by clicking on them. They then remain active until you deactivate them again or delete your cookies (please refer to ‘Cookies’). 
+#### Analysis of usage data; use of analysis tools
 
-Cookies
+We would like to tailor the content of our websites as precisely as possible to your interests and in this way improve our offer for you. In order to identify usage preferences and particularly popular areas of the websites, we use the following analysis tool(s): Google Analytics, Adobe Analytics. 
 
-Once activated, a direct link to the server of the respective social network is established. The contents of the button are then transmitted from the social network directly to your browser which incorporates it in the website. 
+When using these analysis tools, data may be transferred to servers located in the USA and processed there. Please note the following: In the USA, the European Union considers that there is no “adequate level of protection” for the processing of personal data in accordance with EU standards. However, this level of protection can be replaced for individual companies by certification according to the so-called “EU-U.S. Privacy Shield”. 
 
-Once a button is activated, the social network can retrieve data, independently of whether you interact with the button or not. If you are logged on to a social network, the network can assign your visit to the website to your user account. A social network cannot assign a visit to other Daimler websites unless and until you activate the respective button there as well. 
+If you do not want us to collect and analyze information about your visit to our website using the analysis tools mentioned above, you can object to this at any time with effect for the future (“opt-out”). We implement your objection by setting an opt-out cookie in your browser. This cookie is only used to associate your objection. Please note that for technical reasons, an opt-out cookie only works in the browser in which it was set. If you delete the cookies or use a different browser or device, please opt-out again.
 
-If you are a member of a social network and do not wish it to combine data retrieved from your visit to our websites with your membership data, you must log out from the social network concerned before activating the buttons. 
+d. Below you will find information on the providers of the analysis tools we use and the respective opt-out options:
 
-We have no influence on the scope of data that is collected by the social networks through their buttons. The data use policies of the social networks provide information on the purpose and extent of the data that they collect, how this data is processed and used, the rights available to you and the settings that you can use to protect your privacy. 
+Google Inc. („Google“):  
+Google is certified according to the EU-U.S. Privacy Shield.  
+You can prevent the transfer of your data and its collection and processing by Google. Google informs about this via the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>. 
 
-#### Use of cookies
+Adobe Systems Inc. (“Adobe“)  
+Adobe is certified according to the EU-U.S. Privacy Shield.  
+To object to the analysis through the product Adobe Analytics, you can follow this link: <http://www.adobe.com/mena_en/privacy/opt-out.html>. 
 
-Daimler uses cookies to optimize the design of its website and to provide you with information adapted to your interests and based on your usage. By using the website, you consent to the use of cookies. 
+YouTube  
+Our website uses plugins from the Google-powered YouTube page. Site operator is YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. When you visit one of our YouTube plug-in-enabled sites, you will be connected to the servers of YouTube. It tells the YouTube server which of our pages you’ve visited. If you’re logged into your YouTube account, YouTube will allow you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your YouTube account. The use of YouTube is in the interest of an attractive presentation of our online offers. This constitutes a legitimate interest within the meaning of Art. 6 para. 1 lit. f GDPR. For more information about how to handle user data, please refer to the YouTube Privacy Policy at <https://www.google.com/intl/en/policies/privacy>.
 
-Cookies
-
-#### Analysis of usage data & interest-related information (retargeting) on Mercedes-Benz websites
-
-We use Adobe Analytics and Google Analytics products to identify visitor preferences and particularly popular areas of our internet presence. This allows us to adapt the content of our website more specifically to your needs and thereby improve what we offer you. 
-
-To enable us to show you content relevant to your needs and interests on Mercedes-Benz websites from Daimler AG, Mercedes-Benz Bank, Mercedes-Benz Accessories, and from authorized sales and service partners (collectively referred to as ‘Mercedes Benz websites’ below), we also employ retargeting technology. This uses cookies to store details of your interest in our products and services. These cookies are read when you visit a Mercedes-Benz website. The process is anonymized, i.e. you cannot be identified through retargeting. If you do not wish Daimler to collect, store, and analyze statistical data related to your visit, or you do not want to receive information relevant to your interests on Mercedes Benz websites you may object to the future use of your data at any time (opt-out). For the technical implementation of your objection it is necessary to install an opt-out cookie on your browser. This cookie will only indicate that you have opted out. Please note that for technical reasons the opt-out cookie will only affect the browser you object from. If you delete the cookies in your browser or use a different end device or browser, you will need to opt out again. 
-
-[ Click here to install the cookie to opt out of usage data analysis and of retargeting on Mercedes-Benz websites. ](http://daimlerag.d2.sc.omtrdc.net/optout.html?locale=de_DE&optout=1&confirm_change=1)
-
-Click here to prevent your data from being recorded via Google Tag Manager.
+Google Maps  
+This site uses the mapping service Google Maps via an API. Provider is Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043, USA. To use the features of Google Maps, it is necessary to save your IP address. This information is usually transmitted to and stored on a Google server in the United States. The provider of this site has no influence on this data transfer. The use of Google Maps is in the interest of an attractive presentation of our online offers and an easy findability of the places we have indicated on the website. This constitutes a legitimate interest within the meaning of Art. 6 para. 1 lit. f GDPR. For more information on how to handle user data, please refer to Google’s Privacy Policy: <https://www.google.com/intl/en/policies/privacy/>.
 
 #### Usage-based information (targeting and retargeting)
 
-We also employ retargeting technology to allow us to adapt our online marketing (e.g. banner ads) on the websites of our retargeting partners (Flashtalking, Google Adwords, Google Doubleclick and Vivaki) more specifically to your needs and interests. This uses cookies to store details of your interest in our products and services. These cookies are read and used when you visit other websites that cooperate with our retargeting partners, to provide you with information that is as relevant as possible to your interests. The process is anonymized, i.e. you cannot be identified through retargeting.
+In order to be able to tailor our online marketing (e.g. banner advertising) on the websites of our retargeting partners (Flashtalking, Google Adwords, Google Doubleclick and Vivaki) more specifically to your needs and interests, we use so-called retargeting technologies. Your interest in our products and services is stored in cookies. These cookies are read and used when visiting other websites that work together with our retargeting partners in order to be able to inform you as focused on your interests as possible. This is done anonymously, i.e. you cannot be identified by retargeting. If you do not want Daimler and its retargeting partners to collect, store and analyze information about your visit and to tailor banner advertising to your interests, you can object to this at any time with effect for the future (opt-out). An opt-out cookie is placed in your browser to technically implement your objection. This cookie is used exclusively for the association of your objection. Please note that for technical reasons, an opt-out cookie can only be used for the browser from which it was set. If you delete the cookies or use another browser or another terminal device, please opt-out again. You can manage and disable the use of cookies by third parties on the following website:
 
-If you do not wish Daimler and its retargeting partners to collect, store, and analyze statistical data related to your visit, or to adapt banner ads to your interests, you may object to the future use of your data at any time (opt-out).
-
-For the technical implementation of your objection it is necessary to install an opt-out cookie on your browser. This cookie will only indicate that you have opted out. Please note that for technical reasons the opt-out cookie will only affect the browser you object from. If you delete the cookies in your browser or use a different end device or browser, you will need to opt out again. The following website allows you to control and deactivate the use of third-party cookies: http://www.youronlinechoices.com/de/praferenzmanagement
+<http://www.youronlinechoices.com/uk/your-ad-choices>
 
 #### Security
 
-Daimler uses technical and organizational security measures to protect the data supplied by you and managed by us against manipulation, loss, destruction, and access by third parties. Our security measures are continually improved in line with technological developments. 
+We use technical and organisational security measures to protect your data managed by us against manipulation, loss, destruction and against access by unauthorised persons. We are constantly improving our security measures in line with technological developments.
 
-#### Right to information
+#### Legal bases of processing
 
-On request, Daimler or the representative responsible for you will inform you in writing as soon as possible and in accordance with applicable law whether and what personal data relating to you has been stored by us. If you are registered as a user, we also enable you to view the data yourself and, if applicable, to delete or amend it. If incorrect information is stored despite our efforts to ensure that data is accurate and up to date, we will correct it at your request. 
+Insofar as you have given us your consent for the processing of your personal data, that consent is the legal basis for the processing (Art. 6 para. 1 letter a GDPR).
 
-If you have any questions about the processing of your personal data, you can contact our Group Data Protection Officer, who, along with his team, is also available should you have any requests for information, suggestions or complaints. 
+For the processing of personal data for the purposes of initiating or fulfilling a contract with you, Art. 6 para. 1 letter b GDPR is the legal basis.
 
-Group Data Protection Officer
+Insofar as the processing of your personal data is necessary for the fulfilment of our legal obligations (e.g. for the retention of data), we are authorized to do so pursuant to Art. 6 para. 1 letter c GDPR.
 
-Dr. Joachim Rieß  
-Daimler AG  
-HPC 0518  
-70546 Stuttgart, Germany  
+In addition, we process personal data for the purposes of safeguarding our legitimate interests and the legitimate interests of third parties pursuant to Art. 6 para. 1 letter f GDPR. Maintaining the functionality of our IT systems, marketing our own and third-party products and services as well as documenting business contacts as required by law are such legitimate interests.
 
+#### Deletion of your personal data
+
+Your IP address and the name of your Internet service provider, which we only store for security reasons, will be deleted after seven days. Otherwise, we delete your personal data as soon as the purpose for which we have collected and processed the data ceases to apply. Beyond this point in time, data is only stored if this is required by the laws, regulations or other legal provisions of the European Union or of a member state of the European Union to which we are subject.
+
+#### Rights of the data subject
+
+As a data subject, you have the right of access (Art. 15 GDPR), right to rectification (Art. 16 GDPR), right to erasure (Art. 17 GDPR), right to restriction of processing (Art. 18 GDPR) and right to data portability (Art. 20 GDPR).
+
+If you have consented to the processing of your personal data by us, you have the right to revoke your consent at any time. The legality of processing your personal data before revocation remains unaffected. We may further process such data pursuant to another applicable legal basis, e.g. for the fulfilment of our legal obligations (cf. section “Legal bases of processing”).
+
+Right to object You have the right to object at any time to the processing of your personal data pursuant to Art. 6 para. 1 letter e GDPR (data processing in the public interest) or Art. 6 para. 1 letter f GDPR (data processing on the basis of a balance of interests) on grounds relating to your particular situation. If you object, we will only process your personal data if we can prove compelling legitimate reasons that outweigh your interests, rights and freedoms, or for the establishment, exercise or defence of legal claims.
+
+We ask you to address your claims or declarations to the following contact address if possible: [data.protection@daimler.com](mailto:data.protection@daimler.com).
+
+If you believe that the processing of your personal data violates legal requirements, you have the right to lodge a complaint with a competent data protection supervisory authority (Art. 77 GDPR)
+
+#### Newsletter
+
+If you subscribe to a newsletter offered on our website, the data provided in the newsletter subscription will only be used for sending the newsletter, unless you agree to further use. You can unsubscribe at any time using the unsubscribe option provided in the newsletter.
+
+#### Central Access Service of Daimler AG
+
+With the central access service of Daimler AG you can register for all websites and applications of Daimler Group and its brands that are connected to that service. The terms and conditions of use of the central access service of Daimler AG can be called up under the following link:
+
+[Terms of Use of the Central Access Service of Daimler AG](https://login.secure.mercedes-benz.com/profile/terms?app-id=VHDEMO)
+
+#### Cookies
+
+Information on the cookies we use and their functions can be found in our Cookie Statement.
+
+Cookie Statement
+
+Status: May 2018
