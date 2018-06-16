@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qu.edu.qa privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621042031id_/http%3A//www.qu.edu.qa/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qu.edu.qa privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617015157id_/http%3A//www.qu.edu.qa/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Qatar University
+# Privacy Policy | Qatar Univeristy
 
 ### Information about the Website
 
@@ -79,6 +79,3 @@ Hyperlinks to third-party websites may exist on the Website for information only
 ### Applicable law
 
 The Website is governed only by the laws of Qatar.
-
-  
-
