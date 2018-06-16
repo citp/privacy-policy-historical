@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wastedtalent.ca privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128133957id_/http%3A//www.wastedtalent.ca/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wastedtalent.ca privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616183618id_/http%3A//www.wastedtalent.ca/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wasted Talent
 
