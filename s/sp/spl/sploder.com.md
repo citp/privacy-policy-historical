@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sploder.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209205104id_/http%3A//www.sploder.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sploder.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616164136id_/http%3A//www.sploder.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Make your own Games Online for Free
 
@@ -56,5 +56,9 @@ Registered users may also choose to disallow all user-to-user communication in t
 #### Security
 
 We use industry-standard encryption technologies when transferring and receiving client data exchanged with our site.
+
+#### Deleting your account.
+
+Registered users may permanently delete their account and account data at any time from the account management interface.
 
 If you feel that this site is not following its stated information policy, you may contact us via our [contact form](https://web.archive.org/contact.php).
