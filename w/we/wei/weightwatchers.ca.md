@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.ca privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723071630id_/https%3A//www.weightwatchers.com/ca/en/politique-de-confidentialite) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.ca privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616131213id_/https%3A//www.weightwatchers.com/ca/en/politique-de-confidentialite) for the most accurate reproduction.*
 
 # Privacy Policy | Weight Watchers Canada
 
@@ -54,6 +54,8 @@ You do not have to accept cookies to use our Website, however, you may not be ab
 For example, third-party ad servers such as DoubleClick and Atlas may track anonymous website usage through action tags on our Website and other websites. They do this by setting a cookie (or reading a cookie previously placed by them) on users' computers to track the activities of users who view a web page that contains action tags. DoubleClick and Atlas may use information about your visits to this Website and other websites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by one of these companies, please refer to its respective Privacy Policy. Many Internet users already have a DoubleClick and/or Atlas cookie on their computer today, and tracking through the use of action tags is considered common practice in the industry. Periodically, upon our request, DoubleClick and/or Atlas may report the anonymous data that they collect on our behalf back to us for our internal use and analysis and our treatment of this anonymous data is governed by the terms of this Privacy Policy. 
 
 Similarly, we use Omniture, Inc. to help us track and analyze usage of our Website, using cookies and action tags. All data collected by Omniture on our behalf is owned by us and used to better understand our users and improve our Website. More information can be found in [Omniture’s Privacy Policy](http://www.omniture.com/en/privacy). 
+
+Our web site may use SessionCam for analysis. SessionCam is a product that has been developed by SessionCam LTD. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. The information collected does not include bank details or any sensitive personal data. Data collected by SessionCam from Weight Watchers Canada, Ltd. website is for Weight Watchers Canada, Ltd. internal use only. The information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting.
 
 By using cookies and action tags together, we are able to gain valuable information to improve our Website and our Online Products and measure the effectiveness of our advertising and marketing campaigns. We do not disclose any of your Personally Identifiable Information to our advertising partners through the use of cookies or action tags. 
 
@@ -176,4 +178,4 @@ Attn: Privacy Coordinator
 
  **BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
 
-Last modified as of July 8, 2010 
+Last modified as of May 11, 2018 
