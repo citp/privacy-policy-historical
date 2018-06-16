@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the persopo.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209154555id_/http%3A//info.persopo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the persopo.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616215102id_/http%3A//info.persopo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Persopo People Search
 
@@ -30,8 +30,7 @@ Las Vegas, NV 89107
 
 This privacy policy is effective as of February 21st, 2014.
 
-Persopo's goal is to provide easy online access to public record information in a fast, safe, and affordable manner. Because Persopo is not a Consumer Reporting Agency as defined by the Fair Credit Reporting Act (FCRA), you must not use this site if you are searching for a person because you are considering them for employment, credit or insurance eligibility, tenancy, or any other reason that would require FCRA compliance. Learn more by visiting our [Terms of Service](https://web.archive.org/terms-of-service.html) and [Privacy Policy.](https://web.archive.org/privacy-policy.html)  
-
+Persopo's goal is to provide easy online access to public record information in a fast, safe, and affordable manner. Because Persopo is not a Consumer Reporting Agency as defined by the Fair Credit Reporting Act (FCRA), you must not use this site if you are searching for a person because you are considering them for employment, credit or insurance eligibility, tenancy, or any other reason that would require FCRA compliance. Learn more by visiting our [Terms of Service](https://web.archive.org/terms-of-service.html) and [Privacy Policy.](https://web.archive.org/privacy-policy.html)
 
 © 2020 Persopo.com. All Rights Reserved.
 
