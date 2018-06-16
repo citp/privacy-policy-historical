@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warriorplus.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235906id_/https%3A//warriorplus.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warriorplus.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616033626id_/https%3A//warriorplus.com/legal/privacy.php) for the most accurate reproduction.*
 
-# WarriorPlus
+# Privacy Policy | WarriorPlus
 
   
 WarriorPlus.com ("Site" or "WarriorPlus") cares about your privacy. Actually our lawyer made us say that, since all internet marketers are little data hoarders. Anyway, we collect personal information that may be used for many purposes, including, but not limited to, product and service fulfillment, to communicate with members and potential members of our website, and to make it a better online experience for all of our users. We may allow some third-party advertisers ("third party" or "third parties") to collect and use personal information for many purposes including fulfilling WSO orders, or sending you to a third party page to view their offers. These advertisers may have a separate privacy policy to cover the use of this information on their separate websites which you are responsible for.
