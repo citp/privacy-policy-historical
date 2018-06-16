@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kiosked.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220143505id_/http%3A//www.kiosked.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiosked.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616182517id_/http%3A//www.kiosked.com/privacy-policy) for the most accurate reproduction.*
 
 # Kiosked | Kiosked Privacy Policy
 
-LAST UPDATED October 21th, 2015
+Kiosked Privacy Policy is under review due to General Data Protection Regulation, GDPR, and will be updated soon. In any privacy matters please contact Kiosked by email at [privacy@kiosked.com](mailto:privacy@kiosked.com).
 
 ### Privacy Policy in a nutshell
 
@@ -165,3 +165,5 @@ Tammasaarenkatu 3
 Finland
 
 We seek to swiftly answer your questions and resolve any concerns you may have.
+
+Kiosked Privacy Policy is under review due to General Data Protection Regulation, GDPR, and will be updated soon. In any privacy matters please contact Kiosked by email at [privacy@kiosked.com](mailto:privacy@kiosked.com).
