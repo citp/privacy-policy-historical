@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinbase.org privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128123428id_/http%3A//skinbase.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinbase.org privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616124907id_/http%3A//skinbase.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
