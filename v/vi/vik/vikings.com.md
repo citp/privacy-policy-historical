@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vikings.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209145639id_/http%3A//www.vikings.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikings.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616192905id_/http%3A//www.vikings.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Minnesota Vikings | Privacy Policy
 
@@ -107,8 +107,8 @@ We will retain your information for as long as your account is active or as need
 
 A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes. As explained in this privacy policy, whenever you agree to let us collect personal information about you, we will always provide you with an option to prevent this information from being shared for non-administrative purposes with third parties. You can exercise this option at any time by following the steps outlined above.
 
-  Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.  
-If you are a California resident and have questions about our compliance with this law, please send an email to website@vikings.nfl.com or write to us at: CA Privacy Rights, Minnesota Vikings, 9520 Viking DriveEden Prairie MN 55344.
+Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.  
+If you are a California resident and have questions about our compliance with this law, please send an email to website@vikings.nfl.com or write to us at: CA Privacy Rights, Minnesota Vikings, 2600 Vikings Circle, Eagan, MN 55121.
 
 If you have any questions about this privacy policy or the privacy practices of this Website, contact the Minnesota Vikings at [website@vikings.nfl.com](mailto:website@vikings.nfl.com).  
  
@@ -116,5 +116,5 @@ If you have any questions about this privacy policy or the privacy practices of 
 Questions regarding this statement should be directed to:  
 Attn: Website Privacy Policy  
 Minnesota Vikings  
-9520 Viking Drive  
-Eden Prairie MN 55344
+668 Oneill Drive  
+Eagan, MN 55121
