@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the restorationhardware.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229033735id_/https%3A//www.restorationhardware.com/customer-service/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restorationhardware.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616052745id_/https%3A//www.restorationhardware.com/customer-service/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | RH
 
-#### _Last Updated:_ November 18, 2015
+_Last Updated:_ November 18, 2015
 
-## **RH Privacy Policy**
+### **RH Privacy Policy**
 
 Restoration Hardware, Inc. (" **RH** " or " **we** ") values its customers and respects your privacy, and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through our websites and mobile software applications operated by or on behalf of RH, including the websites located at [https://www.restorationhardware.com](https://www.restorationhardware.com/) (and also accessible through <http://www.rh.com/>), [https://www.rhmodern.com](https://www.rhmodern.com/), [https//www.rhbabyandchild.com](https://www.rhbabyandchild.com/) and [https://www.rhteen.com](https://www.rhteen.com/), the mobile apps currently entitled "Restoration Hardware Source Books", "RH Modern Source Book", "Restoration Hardware Baby & Child" and "RH Teen Source Book", and other websites and mobile applications that we own and control and which contain a link to this Privacy Policy. Such websites and mobile apps are referred to collectively in this Privacy Policy as the "RH Online Properties". This Privacy Policy applies to the RH Online Properties regardless of the applicable RH brand (e.g., RH, RH Modern, RH Baby and Child, RH Teen, RH Outlet, RH Clearance Centers, RH Contract and RH Trade), but, for clarity, this Privacy Policy does not apply to the RH Contemporary Art brand or to [https://www.rhcontemporaryart.com](http://www.rhcontemporaryart.com/) or any related mobile apps.
 
@@ -12,11 +12,11 @@ This Privacy Policy does not apply to information collected through any means ot
 
 We encourage you to read this Privacy Policy before using the RH Online Properties or providing information to us. By using the RH Online Properties or providing information to us, you acknowledge that we may collect, use and disclose your information in accordance with this Privacy Policy.
 
-## **Updates to This Policy**
+### **Updates to This Policy**
 
 We may change this Privacy Policy at any time. Please take a look at the " _Last Updated_ " legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective on the " _Last Updated_ " date indicated above. By using the RH Online Properties or providing information to us following such changes, you will have accepted the revised Privacy Policy.
 
-## **Personal Information**
+### **Personal Information**
 
 ### _Personal Information We Collect_
 
@@ -73,7 +73,7 @@ Your Personal Information may be disclosed:
   
 
 
-## Other Information
+### **Other Information**
 
 ### _Other Information We Collect_
 
@@ -110,7 +110,7 @@ We and our third-party service providers may collect Other Information in a vari
 
 We may use and disclose Other Information for any purpose. In some instances, we may combine Other Information with Personal Information (such as combining your zip code with your name). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information while it is so combined.
 
-## Third Parties and Third Party Sites
+### Third Parties and Third Party Sites
 
 To the extent that you submit any Personal Information to any third party (for example, via a third-party software application or service ? including any social media service – that is included in, available through or linked to from the RH Online Properties), such third party’s collection, use and disclosure of such information may be governed by its privacy policy, and not by our Privacy Policy. We recommend that you familiarize yourself with the privacy policies and practices of any such third parties.
 
@@ -118,21 +118,21 @@ Please note that RH credit cards are issued by Comenity Bank, NA. RH is not resp
 
 WE ARE NOT RESPONSIBLE FOR THE INFORMATION COLLECTION, USAGE, DISCLOSURE OR OTHER PRIVACY PRACTICES OF ANY THIRD PARTIES, INCLUDING OUR AFFILIATES, THIRD-PARTY SERVICE PROVIDERS, ANY THIRD-PARTY SOCIAL MEDIA PLATFORM (SUCH AS FACEBOOK INC.), ANY THIRD PARTY MAKING AVAILABLE THE DEVICES OR OPERATING SYSTEMS FOR WHICH CERTAIN RH ONLINE PROPERTIES ARE AVAILABLE (SUCH AS APPLE INC. OR GOOGLE INC.) AND ANY THIRD PARTY OPERATING ANY SITE TO WHICH THE RH ONLINE PROPERTIES CONTAIN A LINK. THE INCLUSION OF A LINK ON THE RH ONLINE PROPERTIES DOES NOT IMPLY ENDORSEMENT OF THE LINKED SITE BY US OR BY OUR AFFILIATES.
 
-## Third Party Advertisers
+### Third Party Advertisers
 
 We may use third-party advertising companies to serve ads when you visit the RH Online Properties. Please note that these companies may use information about your visit to the RH Online Properties to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the RH Online Properties, these companies may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://networkadvertising.org/optout_nonppii.asp>.
 
-## Do Not Track Signals
+### Do Not Track Signals
 
 We note that the RH Online Properties will continue to operate as described in this Privacy Policy, whether or not a "Do Not Track" signal or similar mechanism is received from your browser.
 
-## Security
+### Security
 
 We seek to use reasonable organizational, technical and administrative measures to protect Personal Information under our control. For example, we seek to use Secure Sockets Layer ("SSL") technology for the placement of orders. Unfortunately, no data storage system or data transmission over the Internet can be guaranteed to be 100% secure. Please also be aware that we may use third-party cloud service providers that provide hosting, data storage and other services pursuant to standard terms and conditions that may be non-negotiable; these service providers have informed us or the general public that they apply security measures they consider adequate for the protection of information within their system, or they have a general reputation for applying such measures.
 
 Please exercise caution in submitting Personal Information via the RH Online Properties, especially if you are accessing the RH Online Properties using a WiFi hotspot or public network. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account that you might have with us has been compromised, or if you are unable to utilize our SSL technology in connection with the RH Online Properties), please immediately notify us of the problem and place any orders with us over the telephone or in person, instead of using the RH Online Properties. You may contact us in such circumstances in accordance with the "Contacting Us" section below.
 
-## Choices and Access
+### Choices and Access
 
 ### _Your Choices Regarding Our Use and Disclosure of Your Personal Information_
 
@@ -149,15 +149,15 @@ We will try to comply with your request(s) as soon as reasonably practicable. Pl
 
 We welcome your willingness to update your information with us. You may review or ask us to update your Personal Information by contacting us in accordance with the "Contacting Us" section below. In your request, please make clear what information you would like to have changed. We will try to comply with your request as soon as reasonably practicable. We are not responsible for changing information in the databases of Affiliates, Promotional Partners and other third parties with whom we have already shared your Personal Information.
 
-## Use of RH Online Properties by Minors
+### Use of RH Online Properties by Minors
 
 The RH Online Properties are not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the RH Online Properties.
 
-## Jurisdictional Issues
+### Jurisdictional Issues
 
 The RH Online Properties are controlled and operated by us from the United States, and is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.
 
-## Contacting Us
+### Contacting Us
 
 If you have any questions about this Privacy Policy, or to make choices about receiving promotional communications, to update your Personal Information, or to place an order, please contact the appropriate RH brand as follows:
 
