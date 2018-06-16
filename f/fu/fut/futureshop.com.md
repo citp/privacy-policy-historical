@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futureshop.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228011852id_/https%3A//www.bestbuy.ca/en-CA/help/privacy-policy/hc1139.aspx%3FNVID%3Dfooter%3Blegal%3Bprivacy%3Ben) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futureshop.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616044427id_/https%3A//www.bestbuy.ca/en-CA/help/privacy-policy/hc1139.aspx%3FNVID%3Dfooter%3Blegal%3Bprivacy%3Ben) for the most accurate reproduction.*
 
 # Privacy Policy - Best Buy Canada
 
@@ -76,10 +76,6 @@ Listed here are some further examples of the ways that we collect personal infor
 > 
 > When you apply for a Best Buy credit card, certain contact and financial information is collected and reviewed by our credit card provider, Fédération des Caisses Desjardins du Québec (“Desjardins”), to approve, establish and maintain credit card accounts. Desjardins has its own privacy policy, available at https://www.desjardins.com/ca/privacy/ which governs its relationship with you. We also encourage you to read their privacy statement provided with your credit card application.
 > 
-> **Applying for a Reward Zone VISA Credit Card**
-> 
-> When you apply for a Reward Zone VISA, certain contact and financial information is collected and reviewed by our credit card provider, Desjardins to approve, establish and maintain your VISA account. Desjardins has its own privacy policy, available at https://www.desjardins.com/ca/privacy/ which governs its relationship with you. We also encourage you to read their privacy statement provided with your credit card application terms and conditions.
-> 
 > **ReClaim Insurance Replacement**
 > 
 > When working with our ReClaim Consultants to replace goods that are covered under your insurance policy, we will need some basic information, such as your contact information, insurance claim number, and the name of your claim adjuster, so we can process your quote in a timely manner and bill your insurance company directly for you.
@@ -104,7 +100,7 @@ Listed here are some further examples of the ways that we collect personal infor
 > 
 > **Sign-Up for Newsletters or Updates**
 > 
-> Best Buy offers a variety of newsletters and promotional communications. You may choose to stop receiving these communications at any time. Each marketing or promotional email we send to you will include a link or other method to quickly and easily unsubscribe and decline further similar emails. You may also use the unsubscribe link included below under the heading "Unsubscribe.” For Reward Zone communications please refer to the "Reward Zone Membership" section below. Our subscriber list is never sold or rented to other parties. 
+> Best Buy offers a variety of newsletters and promotional communications. You may choose to stop receiving these communications at any time. Each marketing or promotional email we send to you will include a link or other method to quickly and easily unsubscribe and decline further similar emails. You may also use the unsubscribe link included below under the heading "Unsubscribe.”
 > 
 > **Participate in a Contest or Promotion**
 > 
@@ -113,10 +109,6 @@ Listed here are some further examples of the ways that we collect personal infor
 > **Email a Friend**
 > 
 > While visiting our Web Sites you may choose to use the "Email a Friend" tool which allows you to inform a friend about products of interest to you. The information you provide will be used to send a one-time email to your friend, inviting them to our Web Sites. We will not add your friend to a mailing list and will not send them further email unless they choose to receive such communications from us. When using the "Email a Friend" tool you are contacting your friend directly and as such you acknowledge that you are responsible for this correspondence and not Best Buy. If you provide us with personal information concerning another individual (e.g., email address), you represent and warrant that you have obtained all necessary consents from that individual to enable us to use that personal information for the identified purpose.
-> 
-> **Reward Zone Membership**
-> 
-> Loyalty and rewards programs, such as Reward Zone, include a component where we ask for your contact information so we can administer the program. Your membership application information, information about your transactions and redemptions, and any other information you provide from time to time will be used to administer your membership, communicate with you about your membership, and to better understand your preferences and eligibility for Best Buy’s products and services. Membership in Reward Zone will result in certain membership-related communications (such as notification of reward certificates, statement updates, and program updates). On occasion Best Buy may also use this information to provide you with additional personalized marketing, notifications of sales and special events, and other exclusive member-only offers. If you do not wish to receive these additional special offers and notifications, you may so indicate on your online enrolment form or by updating your preferences in your Reward Zone profile.
 > 
 > **Subscription Services and Activations**
 > 
@@ -164,8 +156,7 @@ Best Buy may use your personal information for a number of different business pu
   * establish and manage your accounts with us;
   * track and confirm online orders;
   * deliver or install products;
-  * manage our Reward Zone program;
-  * process Best Buy credit card or Reward Zone Visa applications;
+  * process Best Buy credit card applications;
   * track and analyze your purchases and preferences to better understand your product and service needs and eligibility;
   * market and advertise products and services;
   * communicate things like special events, promotions and surveys;
@@ -312,7 +303,7 @@ When returning products which may contain stored or recorded personal informatio
 
 **Unsubscribe**
 
-If you no longer wish to be contacted regarding promotions, new product and entertainment releases and how to make the most of the latest technology [click here.](https://www-ssl.bestbuy.ca/en-CA/secure/newsletter-unsubscribe.aspx)
+If you no longer wish to be contacted regarding promotions, new product and entertainment releases and how to make the most of the latest technology [click here.](https://www-ssl.bestbuy.ca/en-CA/secure/newsletter-unsubscribe.aspx) To opt out of certain types of interest-based advertising, [click here](http://youradchoices.ca/choices/).
 
 Top↑
 
@@ -342,6 +333,6 @@ Please remember that email sent over the public Internet is not secure. If you s
 
 Best Buy, bestbuy.ca, Geek Squad, and geeksquad.ca are divisions of Burnaby-based Best Buy Canada Ltd., a wholly-owned subsidiary of Best Buy Co., Inc.
 
-**Last Update: November 2016**
+**Last update: January 2018**
 
 To accommodate changes in our services, changes in technology, and legal developments, this Privacy Policy may change over time without notice to you. We may add, change, or remove portions of the Privacy Policy when we feel it is appropriate to do so. We encourage you to review our Privacy Policy periodically. Each time you submit personal information or use our services you agree to be bound by the then current terms of the Privacy Policy. Whenever we update the Privacy Policy we will change the date to indicate when the changes were made.
