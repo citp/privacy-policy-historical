@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestgfx.biz privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235435id_/http%3A//bestgfx.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestgfx.biz privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034051id_/http%3A//www.bestgfx.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Free Download AE Project Vector Stock Web Template Photoshop Via Torrent Zippyshare
 
@@ -61,6 +61,6 @@ We may share information with governmental agencies or other companies assisting
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
 
-By e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9dad6d7cdd8dacdf9dbdccacddedfc197dad6d4)
+By e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d8bbb7b6acb9bbac98babdabacbfbea0f6bbb7b5)
 
 We reserve the right to make changes to this policy without notice. 
