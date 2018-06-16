@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgovernmentjobs.in privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203015456id_/http%3A//allgovernmentjobs.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgovernmentjobs.in privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616051138id_/http%3A//allgovernmentjobs.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -109,6 +109,8 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://allgovernmentjobs.in/contact-us/  
+> [Contact us](http://allgovernmentjobs.in/contact-us/)
+
+  
 Hyderabad, Telangana 500082  
 India
