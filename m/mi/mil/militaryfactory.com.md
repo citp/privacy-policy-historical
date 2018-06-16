@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the militaryfactory.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630000048id_/http%3A//www.militaryfactory.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militaryfactory.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616221221id_/https%3A//www.militaryfactory.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - MilitaryFactory.com
+
+Updated 05/15/2018
 
 Stat Tracking  
 For your information, the following are some examples of the information we collect during a typical visit to our website:
 
-  
 • Browser Type and Resolution  
 • Operating System  
 • IP Address  
 • Entry Page, Pages Visited in Order of Visit and Exit Page  
-• Inbound Links from whence you came to our website (if coming from another website's link)
-
-For a real-time example of some of what is tracked and what isn't, you can always visit our publicly-displayed traffic stats information [here](http://extremetracking.com/open;unique?login=m1l1fact).
+• Inbound Links from where you came to our website (if coming from another website's link)
 
 3rd Party Advertisements - Google Adsense  
  Some of these advertisers may use technology such as cookies when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and sometimes whether you have the Flash player installed or not.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
@@ -21,9 +20,10 @@ In the case of Google Adsense ads, this ad server uses the DoubleClick DART cook
 
 • Google, as a third party vendor, uses cookies to serve ads on this website (www.MilitaryFactory.com).  
 • Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-• Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+• Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)  
+• Information on how Google manages data in its ad products [can be found here](https://www.google.com/policies/technologies/partner-sites/ "Information on Google ad data management").
 
 You can chose to disable or selectively turn off cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.
 
-3rd Party Advertisements - TribalFusion  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+3rd Party Advertisements  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](https://www.networkadvertising.org/managing/opt_out.asp).
