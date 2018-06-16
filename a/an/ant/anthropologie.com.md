@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anthropologie.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129204906id_/http%3A//anthropologie.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthropologie.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616145854id_/https%3A//www.anthropologie.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Anthropologie
 
 ## United States Privacy & Security
 
@@ -66,7 +66,7 @@ Feel free to contact us with any questions about our Privacy & Security Policy.
 
 ### Email
 
-[service@anthropologie.com](https://web.archive.org/web/20161129204906id_/http%3A//anthropologie.com/help/service@anthropologie.com)
+[service@anthropologie.com](mailto:service@anthropologie.com)
 
 ### Phone
 
