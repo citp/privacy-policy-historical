@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blackenterprise.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123190606id_/http%3A//www.blackenterprise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackenterprise.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616103617id_/http%3A//www.blackenterprise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Black Enterprise
 
 This is the Website of **BLACK ENTERPRISE**.
 
-Our postal address is **260 Madison Avenue, 11th fl., New York, NY 10016**
+Our postal address is 260 Madison Avenue, 11th fl., New York, NY 10016
 
 We can be reached via e-mail at [eprise@blackenterprise.com](mailto:eprise@blackenterprise.com) or you can reach us by telephone at (212) 242-8000.
 
@@ -32,7 +32,7 @@ Persons who supply us with their telephone numbers online may receive telephone 
 
 Please provide us with your name and phone number. We will be sure to remove your name from the lists we share with other organizations.
 
-**With Respect to Ad Servers:** To try and bring you offers that are of interest to you, we have relationships with other companies we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. For further information, consult the privacy policies of Double Click, LLC; Google;and  Yahoo!
+**With Respect to Ad Servers:** To try and bring you offers that are of interest to you, we have relationships with other companies we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. For further information, consult the privacy policies of Double Click, LLC; Google;and Yahoo!
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. Customers may prevent their information from being used for purposes other than those for which it was originally collected by requesting to have their name put on our do-not-share list or unsubscribing from our mailing lists.
 
@@ -41,3 +41,10 @@ Upon request we provide site visitors with access to a description of informatio
 **With Respect to Security:** We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, and The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+
+#### CONTACT US
+
+260 Madison Avenue, 11th Floor, New York, NY 10016  
+p: 212-242-8000  
+f: 212-886-9618  
+e: [benyc_ads@blackenterprise.com](mailto:benyc_ads@blackenterprise.com)
