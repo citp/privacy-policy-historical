@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showmelocal.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229020747id_/http%3A//www.showmelocal.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmelocal.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616035349id_/http%3A//www.showmelocal.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # ShowMeLocal.com - Privacy Policy
 
@@ -8,43 +8,42 @@ We collect the following personal information from you:
 
   * Contact Information such as name, email address, mailing address, phone number 
   * Billing Information such as credit card number, and billing address 
-  * Financial Information such as bank or brokerage account numbers, types of investments 
-  * Unique Identifiers such as user name, account number, password 
-  * Preferences Information you provide such as product or content interests, or communication or marketing preferences 
-  * Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our site you visited. 
+  * Unique Identifiers such as user name, account number, password
+  * Preferences Information you provide such as product or content interests, or communication or marketing preferences
+  * Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our site you visited
 
 
 
 We also collect the following information from you: 
 
-  * Information about your business such as company name, company size, business type 
-  * Demographic information such as household income, age, education, gender, interests, and zip code 
+  * Information about your business such as company name, company size, business type
+  * Demographic information such as household income, age, education, gender, interests, and zip code
 
 
 
 As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We use this information to: 
 
-  * Fulfill your order 
-  * Send you an order confirmation 
-  * Assess your needs to determine suitable products or services 
-  * Send you requested product or service information 
-  * Send product updates or warranty information 
-  * Respond to customer service requests 
-  * Administer your account 
-  * Send you a newsletter 
-  * Send you marketing communications 
-  * Administer contests and sweepstakes you entered, and notify you if you won 
-  * Improve our Web site and marketing efforts 
-  * Conduct research and analysis 
-  * Respond to your questions and concerns 
-  * List you in our publicly accessible member directory. If you do not want to be listed in our directory contact us at support@showmelocal.com 
+  * Fulfill your order
+  * Send you an order confirmation
+  * Assess your needs to determine suitable products or services
+  * Send you requested product or service information
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Send you marketing communications
+  * Administer contests and sweepstakes you entered, and notify you if you won
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
+  * Respond to your questions and concerns
+  * List you in our publicly accessible member directory. If you do not want to be listed in our directory contact us at support@showmelocal.com
 
 
 
 **Choice/Opt-Out**   
 You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at support@showmelocal.com. 
 
-Social Networks 
+Social Features 
 
 We enable you to create a profile, and share information such as messages, photos, and videos with others within your network. We cannot control the actions of others with whom you may choose to share your pages and information. Also we cannot guarantee that the content you post on our site will not be viewed by others outside your network. Information Obtained from Third Parties 
 
@@ -55,10 +54,7 @@ If you provide us personal information about others, or if others give us your i
 We will share your information with third parties only in the ways that are described in this privacy statement.   
 We may disclose your personal information 
 
-  * as required by law, such as to comply with a subpoena, or similar legal process 
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if ShowMeLocal Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so. 
+  * as required by law, such as to comply with a subpoena, or similar legal process< when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, if ShowMeLocal Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so.
 
 
 
@@ -81,7 +77,7 @@ We will retain your information for as long as your account is active or as need
 
 ## Other Information
 
-Our Web site includes third party hosted widgets, which are interactive mini-programs that run on our site to provide single-purpose services (e.g. sharing of articles, videos, etc.). Personal information, like your email address, may be collected and cookies may be set so the widget can work properly. The information through the widget is subject to the widget providerâ€™s privacy policy 
+Our Web site includes third party hosted widgets, which are interactive mini-programs that run on our site to provide single-purpose services (e.g. sharing of articles, videos, etc.). Personal information, like your email address, may be collected and cookies may be set so the widget can work properly. The information through the widget is subject to the widget provider’s privacy policy. 
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@showmelocal.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so. 
 
@@ -92,6 +88,10 @@ To review and update your personal information to ensure it is accurate, contact
 **Notification of Privacy Statement Changes**
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+## Cookie Poilicy
+
+Please review our cooking policy [here](https://web.archive.org/web/20180616035349id_/http%3A//www.showmelocal.com/cookie-policy.aspx). 
 
 ## Feedback
 
