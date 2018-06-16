@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperlessemployee.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005133151id_/https%3A//www.paperlessemployee.com/%23privacyModal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperlessemployee.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616104116id_/https%3A//www.paperlessemployee.com/%23privacyModal) for the most accurate reproduction.*
 
 # Default - PaperlessEmployee.com
 
