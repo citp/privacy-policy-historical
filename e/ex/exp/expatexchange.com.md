@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the expatexchange.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225181140id_/http%3A//www.expatexchange.com/ee.cfm%3Fpageid%3D56%26networkid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatexchange.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617010408id_/http%3A//www.expatexchange.com/privacypolicy) for the most accurate reproduction.*
 
-# Expat Exchange Privacy Policy - Expats - Moving Overseas - International Living - International Jobs - Expatriate
+# Privacy Policy | Expat Exchange
 
 [ ](http://www.expatexchange.com/click.cfm?bannerid=840)
 
-At ExpatExchange.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ExpatExchange.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [help@expatexchange.com](mailto:help@expatexchange.com). 
+At ExpatExchange.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by ExpatExchange.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [help@expatexchange.com](mailto:help@expatexchange.com). 
 
-ExpatExchange.com collects your personal information when you register to use our message boards, answer one of our surveys or reports, fill out other forms or request information about our services. Additionally, we use cookies and collect your IP address (for security and management of proper message board decorum). 
+ExpatExchange.com collects your personal information when you register to use our message boards, post on our message boards, answer one of our surveys or reports, fill out other forms or request information about our services. 
 
-ExpatExchange.com uses this information to improve our service, enhance security, ensure we answer your requests to our satisfaction and to conduct accurate research and reporting of an anonymous nature. 
+You are entitled to change or delete your private information contained in your profile at any time. Other information you post on ExpatExchange.com can be deleted or made anonymous upon request (please send us an email at [help@expatexchange.com](mailto:help@expatexchange.com)). 
 
-ExpatExchange.com does not distribute your personal information to any third party for any purpose without your permission. This includes selling, renting or sharing of this information. The only exceptions are as follows: 
+Advice you offer in Message Board posts, surveys, or reports may be highlighted elsewhere on our website or in newsletters. 
+
+We use cookies and collect your IP address (for security and management of proper message board decorum). (Also see more about our Cookies below.) 
+
+ExpatExchange.com uses this information to improve our service, enhance security, ensure we answer your requests and to conduct accurate research and reporting of an anonymous nature. 
+
+ExpatExchange.com does NOT distribute your personal information to any third party for any purpose without your permission. This includes selling, renting or sharing of this information. The only exceptions are as follows: 
 
 To investigate fraud or other illicit activities. This includes the investigation of physical threats against any person, the violation of ExpatExchange.com's privacy policy or member agreement, or any other situation in which ExpatExchange.com or Burlingame Interactive is required by law. 
 
@@ -20,44 +26,26 @@ To Defend ExpatExchange.com and Burlingame Interactive against any legal actions
 
 In the event ExpatExchange.com is acquired by or merged with another legal entity, we will attempt to notify you via e-mail before any information is transferred to that legal entity and is governed by a new privacy policy. 
 
-ExpatExchange.com does not currently offer any services to children under the age of 13, and we have no desire to collect any information from anyone under the age of 18. 
+ExpatExchange.com does not currently offer any services to children under the age of 18, and we have no desire to collect any information from anyone under the age of 18. 
 
-ExpatExchange.com does NOT include selling, renting or sharing your information with third parties. 
+Log Files 
 
-## Log Files
+Like many other Web sites, ExpatExchange.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are NOT linked to any information that is personally identifiable. 
 
-Like many other Web sites, ExpatExchange.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Cookies 
 
-## Cookies and Web Beacons
+We use cookies to make our site function, analyze our traffic with Google Analytics, and for marketing purposes. 
 
-ExpatExchange.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Cookies are small text files that can be used by websites to make a user's experience more efficient. 
 
-## DoubleClick DART Cookie
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission. 
 
-  * Google, as a third party vendor, uses cookies to serve ads on ExpatExchange.com.
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to ExpatExchange.com and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. 
 
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages. 
 
+Statistic cookies (we use Google Anayltics) help website owners to understand how visitors interact with websites by collecting and reporting information anonymously. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... 
+Marketing cookies enable website owners to properly place advertisements. ExpatExchange.com does not use marketing cookies that customize ads or content for individual users. 
 
-Google Adsense
-
-Commission Junction
-
-Clickbank
-
-Chitika
-
-Linkshare
-
-Amazon
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on ExpatExchange.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
-
-ExpatExchange.com has no access to or control over these cookies that are used by third-party advertisers. 
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. ExpatExchange.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+If you have any questions or requests about your privacy on ExpatExchange.com, please send us an email at [help@expatexchange.com](mailto:help@expatexchange.com). 
