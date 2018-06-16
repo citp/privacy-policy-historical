@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasti.cc privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228160638id_/http%3A//fantasti.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasti.cc privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616151535id_/http%3A//fantasti.cc/privacy) for the most accurate reproduction.*
 
 # Fantasti.cc - The Best Adult Entertainment
 
@@ -6,9 +6,9 @@
 
 #### **Created: May 16, 2015**
 
-#### **Last Updated: April 22, 2016**
+#### **Last Updated: May 24, 2018**
 
-Okeanus Finance Limited, a British Virgin Islands corporation (the **“Company”** ), respects your privacy and is committed to protecting it through this privacy policy (the **“policy”** ). This policy describes the types of information the Company may collect from you or that you may provide when you visit the website located at www.fantasti.cc (the **“Website”** ) and the Company’s practices for collecting, using, keeping, protecting, and disclosing that information.
+Okeanus Finance Limited, a British Virgin Islands corporation (the **“Company”** ), respects your privacy and is committed to protecting it through this privacy policy (the **“policy”** ). This policy describes the types of information the Company may collect from you or that you may provide when you visit the website located at www.fantasti.cc (the **“Website”** ) and the Company’s practices for collecting, using, keeping, protecting, and disclosing that information. The Privacy Policy below is GDPR compliant.
 
 This policy applies to information the Company collects: 
 
