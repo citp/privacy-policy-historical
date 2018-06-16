@@ -1,59 +1,204 @@
-> *The following text is extracted and transformed from the deneysreitz.co.za privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114052506id_/http%3A//deneysreitz.co.za/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deneysreitz.co.za privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616155201id_/http%3A//deneysreitz.co.za/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | Global law firm | Norton Rose Fulbright
 
-Norton Rose Fulbright refers to Norton Rose Fulbright US LLP, Norton Rose Fulbright LLP, Norton Rose Fulbright Australia, Norton Rose Fulbright Canada LLP and Norton Rose Fulbright South Africa Inc, each of which is a separate legal entity, and their respective affiliates.
+Norton Rose Fulbright takes data privacy seriously. We recognise and value the trust that individuals place in us when providing us with personal data and we are committed to safeguarding the privacy and security of personal data we may collect from visitors to our websites and/or the clients to whom we provide legal and other services.
 
-This Privacy Notice aims to help you understand how we may use personal information collected when you visit our website. It does not apply to, and Norton Rose Fulbright is not responsible for, any third party websites which may be accessible through links from this website.
+This Privacy notice aims to help you understand our personal data collection, usage and disclosure practices by explaining:
 
-### What personal information does Norton Rose Fulbright collect?
-
-When you visit our website or request a service from us Norton Rose Fulbright may collect personal information such as your name, company and title or position, contact details such as telephone number and postal or email address, and any other information relating to you which you may provide.
-
-### How do we use this information?
-
-Your personal information will normally be retained in a database and used by Norton Rose Fulbright for purposes such as:
-
-  * administering our relationship with you, providing services, and responding to enquiries
-  * processing applications for employment
-  * business development including sending legal updates, publications, and details of events
-  * providing and administering legal services
-  * meeting legal or other regulatory obligations imposed on us
-  * auditing usage of our websites
-
+  1. Who we are and what we do
+  2. What personal data we collect about you
+  3. How we obtain the personal data about you
+  4. How we use your personal data
+  5. Who we share your personal data with
+  6. Which countries we transfer your personal data to
+  7. How long we keep your personal data
+  8. How we protect your personal data
+  9. What rights you have in relation to your personal data
+  10. Who is the data controller for your personal data
+  11. How we use cookies and similar technologies
+  12. How you can contact us
+  13. How we will update this Privacy notice
 
 
-Occasionally Norton Rose Fulbright may gain assistance from others to provide our services but your personal data will not be disclosed to them unless we have your approval or where that is necessary to fulfil our obligations to you.
 
-In providing services we may need to transfer data to another Norton Rose Fulbright office in another country. This does not diminish your rights; we will take all reasonable steps necessary to ensure transferred information is kept secure as required by applicable data privacy laws. By submitting your personal information to Norton Rose Fulbright you agree that you do not object to any such transfer, processing or storage. We may also pass on your details if we merge, combine or divest a part of our business unless prohibited from doing so by law or applicable professional rules.
+By providing your personal data to us (whether via one of our websites, by email, in person or over the phone), you agree to the processing set out in this Privacy notice. Further notices highlighting certain uses we wish to make of your personal data together with the ability to opt in or out of selected uses may also be provided to you when we collect personal data from you.
 
-### Business development and marketing
+**Please note:** This Privacy notice does not apply to, and Norton Rose Fulbright is not responsible for, any third party websites which may be accessible through links from this website. If you follow a link to any of these third party websites, they will have their own privacy policies and you will need to check these policies before you submit any personal data to such third party websites.
 
-Occasionally we may use personal information to send you details of new services, legal updates, and invites to seminars and events, however, we will only do this where you consent to being contacted in this way. If you prefer not to receive promotional material from Norton Rose Fulbright email us at [privacypolicy@nortonrosefulbright.com](mailto:privacypolicy@nortonrosefulbright.com) and put “unsubscribe” in the subject line together with the name of the publication you wish to unsubscribe from. Our marketing communications will also include an “unsubscribe” link.
+### 1\. Who we are and what we do
 
-If your personal information changes and you wish us to amend it please let us know by sending an email to the same email address and we will update our records.
+Norton Rose Fulbright is a global law firm structured as a Swiss Verein, the members of which are Norton Rose Fulbright US LLP, Norton Rose Fulbright LLP, Norton Rose Fulbright Australia, Norton Rose Fulbright Canada LLP and Norton Rose Fulbright South Africa Inc (each of which is a separate legal entity) and their respective affiliates. Norton Rose Fulbright provides the world’s preeminent corporations and financial institutions with a full business law service **.**
 
-### How we use cookies and similar technologies
+Please see “Who is the data controller of your personal data” below for more information on the entities that control and process personal data within Norton Rose Fulbright.
 
-When you visit our websites we may send a ‘cookie’ to your computer. This is a small data file stored by your computer to help improve functionality or tailor information to provide visitors with more relevant pages. For details of the cookies employed by us please see our [cookies policy](https://web.archive.org/cookies-policy/), which forms part of this Privacy Policy. We may also analyse website traffic to identify what visitors find most interesting so we can tailor our websites accordingly.
+### 2\. What personal data we collect about you
 
-### Agreement to terms of privacy policy
+We may collect and process different types of personal data in the course of operating our business and providing our services. These include:
 
-By using this website and/or providing information to us, you accept and agree to the collection and use of your personal data for the purposes described. We review our policies regularly and occasionally may need to change or update them. This Privacy Notice was last reviewed and updated on 1 June 2013.
+  * Basic personal details such as your name and job title;
+  * Contact data such as your telephone number and postal or email address;
+  * Financial data such as payment related information or bank account details;
+  * Demographic data such as your address, preferences or interests;
+  * Website usage and other technical data such as details of your visits to our websites (including our HighQ portals, Dealrooms and the Institute) or information collected through cookies and other tracking technologies;
+  * Personal data provided to us by or on behalf of our clients or generated by us in the course of providing our services, which may, where relevant, include special categories of personal data;
+  * Identification and other background verification data such as a copy of passports or utility bills or evidence of beneficial ownership or the source of funds to comply with client due diligence/”know your client”/anti-money laundering laws and collected as part of our client acceptance and ongoing monitoring procedures;
+  * Recruitment related data such as your curriculum vitae, your education and employment history, details of professional memberships and other information relevant to potential recruitment to Norton Rose Fulbright;
+  * Data that you may provide to us in course of registering for and attending events or meetings, including access and dietary requirements; and
+  * Any other personal data relating to you that you may provide.
 
-### Contact information
 
-Requests for further information about this Privacy Notice or about how we process personal information can be sent by email to: [privacypolicy@nortonrosefulbright.com](mailto:privacypolicy@nortonrosefulbright.com) or by writing to:
 
+### 3\. How we obtain the personal data about you
+
+We may collect or receive your personal data in a number of different ways:
+
+  * Where you provide it to us directly, for example by corresponding with us by email, or via other direct interactions with us such as completing a form on our website or registering for and using one of our online tools such as the HighQ portals;
+  * Where we monitor use of, or interactions with, our websites, any marketing we may send to you, or other email communications sent from or received by Norton Rose Fulbright;
+  * Third party sources, for example, where we collect information about you to assist with “know your client” checks as part of our client acceptance procedures or where we receive information about you from recruitment agencies for recruitment purposes; or
+  * Publicly available sources - we may, for example, use such sources to help us keep the contact details we already hold for you accurate and up to date or for professional networking purposes, e.g. LinkedIn.
+
+
+
+### 4\. How we use your personal data
+
+We will only use your personal data where we are permitted to do so by applicable law. Under EU data protection law, the use of personal data must be justified under one of a number of legal grounds. The principal legal grounds that justify our use of your personal data are:
+
+**Contract performance** : where your information is necessary to enter into or perform our contract with you.  
+  
+---  
+  
+**Legal obligation** : where we need to use your information to comply with our legal obligations.  
+  
+**Legitimate interests** : where we use your information to achieve a legitimate interest and our reasons for using it outweigh any prejudice to your data protection rights.  
+  
+**Legal claims** : where your information is necessary for us to defend, prosecute or make a claim against you, us or a third party.  
+  
+**Consent** : where you have consented to our use of your information (you will have been presented with a consent form or facility in relation to any such use and may withdraw your consent through an unsubscribe or similar facility).  
+  
+We may use your personal data in the following ways. In each case, we note the grounds that we rely on to use your personal data.
+
+  * **To provide our legal and other services to you and to conduct our business** – to administer and perform our services, including to carry out ourobligationsarisingfromanyagreements entered into betweenyouand us (please note that our [Standard Terms of Engagement](http://www.nortonrosefulbright.com/files/norton-rose-fulbright-standard-terms-of-engagement-25513.pdf) apply where we provide legal services);  
+ **Legal grounds:** contract performance, legitimate interests (to enable us to perform our obligations and provide our services to you), consent.
+
+  * **To facilitate use of our websites and to ensure content is relevant** – to respond to requests for information or enquiries from visitors to our websites and to ensure that content from our websites is presented in the most effective manner for you and for your device;  
+ **Legal grounds:** legitimate interests (to allow us to provide you with the content and services on the websites), consent, contract performance.
+
+  * **For marketing and business development purposes** –to provide you with details of new services, legal updates and invites to seminars and events where you have chosen to receive these. We will provide an option to unsubscribe or opt-out of further communication on any electronic marketing communication sent to you or you may opt out by contacting us as set out in section 12 below;  
+ **Legal grounds:** legitimate interests, consent.
+
+  * **For research and development purposes** – analysis in order to better understand your and our clients’ services and marketing requirements and to better understand our business and develop our services and offerings;  
+ **Legal grounds:** legitimate interests (to allow us to improve our services).
+
+  * **For recruitment purposes** –to enable us to process applications for employment submitted via the Careers section of our website and to assess your suitability for any position for which you may apply at Norton Rose Fulbright;  
+ **Legal grounds:** legitimate interests (to ensure that we can make the most appropriate recruitment decisions for Norton Rose Fulbright), contract performance (in order for us to take steps at your request to enter into a contract with you). 
+
+  * **To fulfil our legal, regulatory, or risk management obligations** – to comply with our legal obligations (performing client due diligence/”know your client”, anti-money laundering, anti-bribery, sanctions or reputational risk screening, identifying conflicts of interests); for the prevention of fraud and/or other relevant background checks as may be required by applicable law and regulation and best practice at any given time (if false or inaccurate information is provided and fraud is identified or suspected, details may be passed to fraud prevention agencies and may be recorded by us or by them); to enforce our legal rights, to comply with our legal or regulatory reporting obligations and/or to protect the rights of third parties;  
+ **Legal grounds:** legal obligations, legal claims, legitimate interests (to cooperate with law enforcement and regulatory authorities, to ensure that you fall within our acceptable risk profile and to assist with the prevention of crime and fraud). Where we process special categories of personal data we may also rely on substantial public interest (prevention or detection of crime) or legal claims. 
+
+  * **To ensure that we are paid** – to recover any payments due to us and where necessary to enforce such recovery through the engagement of debt collection agencies or taking other legal action (including the commencement and carrying out of legal and court proceedings);   
+**Legal grounds:** contract performance, legal claims, legitimate interests (to ensure that we are paid for our services). ** **
+
+  * **To inform you of changes** – to notify you about changes to our services or our Standard Terms of Engagement for legal services or this Privacy notice;  
+ **Legal grounds:** legitimate interests (to ensure we can notify you about changes to our service, Standard Terms of Engagement etc). 
+
+  * **To reorganise or make changes to our business** -In the event that we are undergo a re-organisation (for example if we merge, combine or divest a part of our business), we may need to transfer some or all of your personal data to the relevant third party (or its advisors) as part of any due diligence process or transfer to that re-organised entity or third party your personal data for the same purposes as set out in this Privacy notice or for the purpose of analysing any proposed re-organisation;  
+ **Legal grounds:** legitimate interests (in order to allow us to change our business).
+
+
+
+
+### 5\. Who we share your personal data with
+
+Norton Rose Fulbright is a global law firm and as such any personal data that we collect or you provide to us may be shared with and processed by any Norton Rose Fulbright entity among our global network. Please [click here](http://www.nortonrosefulbright.com/about-us/global-coverage/) for a full list of our entities and locations.
+
+We may also share your personal data with a variety of the following categories of third parties:
+
+  * Our professional advisors (e.g. legal, financial, business, risk management or other advisors), bankers and auditors;
+  * Our insurers and insurance brokers;
+  * Third party service providers, including a service center based in the Philippines that is operated by Accenture UK Limited, to whom we outsource certain functions such as information and document management, office support, technology and IT services, word processing, photocopying and translation services (we have agreements in place with these service providers to protect the confidentiality and security of information (including personal data) shared with them);
+  * Other third party external advisors or experts engaged in the course of the services we provide to our clients and with their prior consent, such as barristers, local counsel and technology service providers such as eDiscovery and document review platforms.
+
+
+
+We may also process your personal data to comply with our regulatory requirements or in the course of dialogue with our regulators as applicable, which may include disclosing your personal data to government, regulatory or law enforcement agencies in connection with enquiries, proceedings or investigations by such parties anywhere in the world or where compelled to do so. Where permitted, or unless to do so would prejudice the prevention or detection of a crime, we will direct any such request to you or notify you before responding.
+
+### 6\. Which countries we transfer your personal data to
+
+As a global law firm, we cannot limit our processing of an individual’s personal data to the country in which that individual is based. In the course of providing our services, we will likely need to transfer personal data to locations outside the jurisdiction in which you provide it or where you are viewing our website. If you are based in the European Economic Area (EEA), this will mean that your personal data may be transferred to, accessible from, and/or stored at, a destination outside the EEA in which data protection laws may not be as comprehensive as in the EEA.
+
+Regardless of the location of our processing, we will impose the same data protection safeguards that we deploy inside the EEA and implement appropriate measures to ensure that your personal data is protected in accordance with applicable data protection laws. Norton Rose Fulbright has a data sharing agreement in place signed by all Norton Rose Fulbright entities which includes EU standard contractual clauses. Similarly, where a third party service provider processes the personal data of EEA residents on our behalf, we will ensure that appropriate measures are in place to ensure an adequate level of protection for your personal data, usually by including EU standard contractual clauses in our agreements with such third party service providers.
+
+Please contact us as directed below if you would like to see a copy of the specific safeguards applied to the export of your personal data.
+
+### 7\. How long we keep your personal data
+
+We will retain your personal data for as long as is necessary to fulfil the purpose for which this data was collected and any other permitted linked purpose (for example certain transaction details and correspondence related to any legal services we provide may be retained until the time limit for claims in respect of the transaction has expired or in order to comply with regulatory requirements regarding the retention of such data). If your personal data is used for two purposes we will retain it until the purpose with the latest period expires; but we will stop using it for the purpose with a shorter period once that period expires. Our retention periods are also based on our business needs and good practice.
+
+### 8\. How we protect your personal data
+
+We recognise that information security is an integral element of data privacy. While no data transmission (including over the Internet or any website) can be guaranteed to be secure from intrusion, we implement a range of commercially reasonable physical, technical and procedural measures to help protect personal data from unauthorised access, use, disclosure, alteration or destruction in accordance with data protection law requirements.
+
+Information that you provide to us is stored on our or our service providers’ secure servers and accessed and used subject to our security policies and standards, or those agreed with our service providers. Norton Rose Fulbright LLP has held the ISO/IEC 27001:2013 (ISO 27001) accreditation for its UK IT operations since 2011 and we align our other IT operations globally to these standards. ISO27001 is an internationally recognised certification that information security is managed in line with best practice.
+
+Everyone at Norton Rose Fulbright and any third party service providers we may engage that process personal data on our behalf (for the purposes listed above) are also contractually obligated to respect the confidentiality of personal data.
+
+Alongside our role, please also note that where we have given you (or where you have chosen) a password which enables you to access certain parts of our websites or online services, you are responsible for keeping this password confidential and for complying with any other security procedures that we notify you of. We ask you not to share a password with anyone.
+
+### 9\. What rights you have in relation to your personal data
+
+If you have any questions about our use of your personal data, you should first contact us via the details provided in section 12 below. Under certain circumstances and in accordance with EU or other applicable data protection laws, you may have the right to require us to:
+
+  * provide you with further details on the use we make of your information
+  * provide you with a copy of information that we hold about you;
+  * update any inaccuracies in the personal data we hold;
+  * delete any personal data that we no longer have a lawful ground to use;
+  * where processing is based on consent, to withdraw your consent so that we stop that particular processing;
+  * object to any processing based on the legitimate interests ground unless our reasons for undertaking that processing outweigh any prejudice to your data protection rights; and
+  * restrict how we use your information whilst a complaint is being investigated.
+
+
+
+You may also ask us not to process your personal data for marketing purposes. We will inform you if we intend to disclose your information to any third party service provider for this purpose. As indicated in section 4 above, you can exercise your right to prevent such processing at any time by using an unsubscribe facility or contacting us at [privacypolicy@nortonrosefulbright.com](mailto:privacypolicy@nortonrosefulbright.com).
+
+We are also required to take reasonable steps to ensure that your personal data remains accurate. In order to assist us with this, please let us know of any changes to the personal data that you have provided to us by contacting us at [privacypolicy@nortonrosefulbright.com](mailto:privacypolicy@nortonrosefulbright.com) or by using any relevant facilities (such as Manage your communications) that we provide.
+
+While it is our policy to respect the rights of individuals, please be aware that your exercise of these rights is subject to certain exemptions to safeguard the public interest (e.g. the prevention or detection of crime), our interests (e.g. the maintenance of legal privilege) and some of these rights may be limited (for example the right to withdraw consent) where we are required or permitted by law to continue processing your personal data to defend our legal rights or meet our legal and regulatory obligations.
+
+If you contact us to exercise any of these rights we will check your entitlement and respond in most cases within a month.
+
+If you are not satisfied with our use of your personal data or our response to any exercise of these rights, you have the right to complain to the relevant Supervisory Authority (data protection regulator).
+
+### 10\. Who is the data controller of your personal data
+
+As indicated above, Norton Rose Fulbright is made up of a number of different entities. Depending on where you are located and the location from which legal or other services are provided, the data controller of your personal data processed by us under this Privacy notice will be different. Please [click here](http://www.nortonrosefulbright.com/about-us/global-coverage/) for details of which Norton Rose Fulbright entities will be data controllers in which countries and, where necessary, please note any local country-specific privacy notices (links to these additional notices are included at the bottom of this Privacy notice).
+
+### 11\. How we use cookies and similar technologies
+
+When you visit our websites we may send a cookie to your computer. This is a small data file stored by your computer to help improve functionality or tailor information to provide visitors with more relevant pages. For details of the cookies employed by us, please see our [Cookie Policy](http://www.nortonrosefulbright.com/cookies-policy/), which forms part of this Privacy notice. We may also analyse website traffic to identify what visitors find most interesting so we can tailor our websites accordingly.
+
+### 12\. How you can contact us
+
+If you have any questions about this Privacy notice or how we process your personal data, please contact us by sending an email to: [privacypolicy@nortonrosefulbright.com](mailto:privacypolicy@nortonrosefulbright.com) or by writing to:
+
+Data Protection Officer  
 Norton Rose Fulbright LLP  
 3 More London Riverside  
 London, SE1 2AQ  
 United Kingdom
 
+### 13\. How we may update this Privacy notice
+
+We may change the content of our websites and how we use cookies without notice and consequently our Privacy notice and Cookie Policy may change from time to time in the future. We therefore encourage you to review them when you visit the website to stay informed of how we are using personal data.
+
+This Privacy notice was last updated in **May 2018**.
+
+Please see details below of our further country-specific notices.
+
 ### Australia
 
-In Australia certain additional restrictions apply – please see our [Australian policy](https://web.archive.org/au/privacy-notice/).
+In Australia certain additional restrictions apply – please see our [Australian policy](http://www.nortonrosefulbright.com/au/privacy-notice/).
 
 ### Mexico
 
-[Mexico City privacy statement](https://web.archive.org/mx/privacy-statement/).
+[Mexico City privacy statement](http://www.nortonrosefulbright.com/mx/privacy-statement/).
