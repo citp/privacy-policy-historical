@@ -1,12 +1,19 @@
-> *The following text is extracted and transformed from the visitmusiccity.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132036id_/http%3A//www.visitmusiccity.com/visitors/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmusiccity.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616221202id_/http%3A//www.visitmusiccity.com/privacypolicy) for the most accurate reproduction.*
 
-# Nashville Privacy Policy
+# Privacy Policy | Visit Nashville, TN - Music City
 
-**Privacy Policy**
+The Nashville Convention & Visitors Corp (NCVC) is committed to protecting your privacy online.
 
- ****
+#### Information Provided by Your Website Activity
 
-**The Nashville Convention & Visitors Bureau (NCVB) is committed to protecting your privacy online. The NCVB may use the information provided by you to contact you regarding promotional updates, specials, new additions to the NCVB website or your online experience.**
+To help us serve you better, we may use cookies on visitmusiccity.com. These cookies help us administer this website by providing analytics on website activity and usage. This non-personally identifiable information may include IP address, date, time, location, and page(s) you visited on our site, and the browser and operating system you used. By extracting and analyzing this information, we can create a more positive user experience by delivering interesting content, ensuring optimum site performance, and offering more quality information and actions. 
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [ Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to enhance the user experience on visitmusiccity.com.  
-You can choose to disable the Service at [ http://www.clicktale.net/disable.html](http://www.clicktale.net/disable.html).
+#### Information Provided by You
+
+This website offers multiple methods to share your information, including signing up to receive a Nashville Visitors Guide, Meeting Planning Guide, Amplify email, or entering a sweepstakes or promotion. Each point of entry offers specific details and options to share your personal information relative to that point of entry. The NCVC may use the information provided by you to contact you regarding promotional updates, specials, special events, Nashville news, or new additions to the NCVC website.
+
+#### We Do Not Share Your Information
+
+Unless you specifically opt in to receive information from a third-party (for example: opting in to receive more information from a hotel or special event when entering a sweepstakes), **we do not share your information** with third parties.
+
+If you have any questions about this Privacy Policy, please contact nashvillenews@visitmusiccity.com.
