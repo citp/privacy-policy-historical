@@ -1,20 +1,14 @@
-> *The following text is extracted and transformed from the gameslikefinder.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701081313id_/http%3A//gameslikefinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameslikefinder.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616142116id_/http%3A//gameslikefinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games Finder
 
 **What information do we collect?**
 
-We collect basic information from you when you fill out a form on our website (comment or game rating).
+We collect basic information from you when you use our website, the triggers for such collection of information are: 1) commenting on a respective review or rating other comments; and 2) casting a vote for a game review. This basic information is limited to your IP address to prevent spamming of our services and the name or alias you provide and does not leave our website and is retained indefinitely unless you inform us otherwise. Should you wish us to remove your stored IP information please contact us.
 
-As appropriate, you may be asked to enter your: e-mail address. You may, however, use our site anonymously.
+Amazon, a third party, uses cookies to collect information. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
-Google, as a third party vendor, uses cookies to serve ads on our site and collect user information. The use of DoubleClick cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. Read more about Google’s cookies: <http://www.google.com/policies/technologies/ads/>
-
-You may opt out of these cookies by visiting your personal ad management centre: <http://www.google.com/ads/preferences/>
-
-Amazon, a third party, uses cookies to collect information. Games Like Finder is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com
-
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies. We have no access or control over these cookies that may be used by third party advertisers.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies. We have no access or control over these cookies that may be used by third party advertisers. For users within the EU region our third party provider of advertising assumes no consent to use any personal information for the purposes of adserving.
 
  **What do we use your information for?**
 
@@ -38,9 +32,11 @@ Yes, cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
+Site traffic tracking utilises Google Analytics (via Google Analytic default cookies) with IP Anonymization active, data is retained for 26 months. The data within Google Analytics is not shared with other parties.
+
  **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
 
  **Third party links**
 
@@ -59,6 +55,6 @@ All media items on our website are used according to a Fair Use policy and are u
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on 2 January 2015
+This policy was last modified on 3 May 2018
 
 Please direct all enquiries to <http://gameslikefinder.com/contact>
