@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latex-project.org privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109003501id_/https%3A//www.latex-project.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latex-project.org privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616032205id_/https%3A//www.latex-project.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,33 +6,31 @@
 
 This privacy statement explains to users the nature, extent and purpose, the collection and use of personal data by the responsible provider (The LaTeX Project, see contact page) on this website (referred to as “the offer” below).
 
-The legal basis of data protection can be found in the Federal Data Protection Act (BDSG) and the Telemedia Act (TMG) of the Federal Republic of Germany.
+The legal basis of data protection can be found in the Federal Data Protection Act (BDSG) and the Telemedia Act (TMG) of the Federal Republic of Germany and the General Data Protection Regulation (GDPR) of the European Union.
 
 ### Access data / Server logs
 
-The provider (or his internet provider) collects access data on each access to the offer (so-called server log files).
+The provider (or his internet provider) collects access data on each access to the offer (so-called server log files). The collected access data includes the retrieved Web page name or file, the date and time of access, the transferred data volume, report of successful retrieval, browser type/version, operating system of the user, referrer URL (previously visited page), IP address and the requesting provider. The provider uses the data for statistical analysis, for the purpose of the operation, safety and optimization of the offer. However, the provider reserves the right to check the log data later if there is reasonable suspicion of unlawful use due to concrete indications.
 
-The collected access data includes the retrieved Web page name or file, the date and time of access, the transferred data volume, report of successful retrieval, browser type/version, operating system of the user, referrer URL (previously visited page), IP address and the requesting provider.
-
-The provider uses the data for statistical analysis, for the purpose of the operation, safety and optimization of the offer.
-
-However, the provider reserves the right to check the log data later if there is reasonable suspicion of unlawful use due to concrete indications.
+_The collected data is typically stored for about 2 weeks in the server logs._
 
 ### Handling of personal data
 
 Personal information is information that will help to make a person identifiable, i.e., data that can be traced back to a person. This includes the name, email address or telephone number. However, other data such as preferences, memberships or which web pages were viewed by someone can count among personal data.
 
-#### Getting in touch
-
-While contacting the provider (for example, using a contact form or e-mail) the details of the user are stored for editing the request and for the case that follow-up questions arise.
+_The LaTeX Project does not collect or store personal information (with the exception of IP addresses stored in server logs) unless you explicitly share such information with us by contacting us personally via email. In that case we store the data you shared with us in order to communicate with you._
 
 #### Comments and posts
 
 When users leave comments or other contributions, their IP addresses are stored. This is done for the safety of the provider, in case someone writes illegal content in comments and contributions (insults, banned political propaganda, etc.). In this case, the provider may be held responsible even for the comment or post and is therefore interested in the identity of the author.
 
+_At the current point in time the website of the LaTeX Project does not offer any comment or contribution possibilities other than contact by email. If we change this policy and offer possibilities for commentaries this section will be updated._
+
 #### Integration of services and content of third parties
 
 It is possible that within this online offer content from third parties such as YouTube videos, PDF documents from or graphics are integrated from other websites. This always requires that the provider of such content (hereinafter referred to as “third-party”) obtains the IP address of the user. Without this IP address they could not provide the content back to the browser of the user. We have no control over the use of the IP address by the third-party, e.g., for statistical purposes.
+
+_We try to ensure that we only link to content of reputable providers that offer adequate data protection. We have, however, no control over their use of your IP address._
 
 #### Cookies
 
@@ -44,9 +42,19 @@ This site uses a number of Google services, such as a local search facility, lin
 
 In particular this website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. In case of activation of the IP anonymization, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. On behalf of the website provider Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage to the website provider. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website. Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by [downloading and installing the browser plug-in available from google](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
 
+_The LaTeX Project website uses Google Analytics to gather some statistics about which part of the the offer is relevant for users but we use IP anonymisation so that there is no directly identifiable information shared with Google. We also display ads on some pages using Google Adsense. Again the settings are such that Google is directed not to track users to personalize ads even if the user has a google account and is logged on the the browser used. For details on what Google collects and how to customize or prevent this collection refer to the links given in the above section._
+
+#### VG Wort
+
+On some pages and contributions, counting pixels of the “Verwertungsgesellschaft WORT” (VG WORT) are incorporated. This function is offered by Verwertungsgesellschaft WORT, Rechtsfähiger Verein kraft Verleihung, Goethestraße 49, 80336 Munich. The VG WORT society manages royalties from secondary exploitation rights of linguistic works on behalf of authors. The distribution of royalties for online texts is linked to certain criteria (e.g., text length, minimum number of visitors per year). So in order to obtain such royalties it is necessary to count the number of downloads in a “provable” way.
+
+The so-called counting pixels of VG WORT are invisible graphics (beacons). In addition, “cookies” are used in the measuring process and stored in the form of a text file on your computer. As a result, information about the traffic with respect to certain pages/documents can be evaluated. The anonymous data thus obtained is used by VG WORT to determine whether the respective text has reached royalty-relevant thresholds in the calendar year.
+
 #### Flattr
 
 Some pages of this offer integrate “Flattr” buttons of the micropayment service Flattr that is operated by the company Flattr Network Ltd. with seat in 2nd Floor, White bear yard 114A, Clerkenwell Road, London, Middlesex, England, EC1R 5DF, United Kingdom. If you visit these pages a connections to servers operated by Flattr is initiated. If you have a Flattr account and you are logged into the service and interact with the button then information is passed to Flattr for billing purposes in accordance with the Flattr service. Even if you are not logged into the service it is possible that usage data is collected and saved. How your data will be processed precisely when the Flattr button is clicked can be found in the [Flattr privacy statement](https://flattr.com/privacy/).
+
+_If you have a Flattr account (or obtain one because you like the concept) and you click on one of the Flattr buttons you make a small contribution to the work of the LaTeX Project. Thank you for that._
 
 #### Amazon associate program
 
@@ -54,11 +62,15 @@ Frank Mittelbach is a participant in the Amazon US and EU associate program thro
 
 For more information on data usage by Amazon, refer to the privacy policy of the company: [Amazon DE](http://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=3312401) and [Amazon US](http://www.amazon.com/gp/help/customer/display.html/ref=help_search_1-9?ie=UTF8&nodeId=468496).
 
+_If you buy a book through one of the links on this website that refer you to Amazon you make a small contribution to the work of the LaTeX Project (even if the book is not from some of the project members). Thank you for that._
+
 #### Rakuten Linkshare associate program
 
 Frank Mittelbach is a participant in the Rakuten Linkshare associate program through which advertising fees can be earned by placing links to participating third-party offers. Rakuten Linkshare uses cookies to trace the origin of orders initiated in this way. Among other things, Rakuten Linkshare may be able to realize that you have clicked on an affiliate link on this website.
 
 For more information on data usage by Rakuten Linkshare, refer to the privacy policy of the company: [Rakuten privacy policy](http://marketing.rakuten.com/affiliate-privacy-policy).
+
+_This service is used for books from Pearson/Addison-Wesley, e.g., The LaTeX Companions. If you buy such a book through one of the links on this websitethat point to Pearson you make a small contribution to the work of the LaTeX Project. Thank you for that._
 
 #### Revocation, changes, corrections and updates
 
