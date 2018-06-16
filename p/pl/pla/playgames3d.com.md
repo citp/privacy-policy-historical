@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the playgames3d.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213233419id_/http%3A//www.playgames3d.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgames3d.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616165401id_/http%3A//www.playgames3d.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
 **PRIVACY POLICY**
 
-This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to our websites and to all games and other activities that are offered through our websites. (Our websites, all the web pages that are part of the websites, and such games and activities are hereafter collectively referred to as the "Websites.") Playgame Network, (hereafter referred to as "PGN"), may use affiliates' or reputable 3rd parties' services for the processing of personal data collected on or through the Websites. By using or accessing our Websites, you are accepting the practices described in this Privacy Policy. 
+This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to our websites and to all games and other activities that are offered through our websites. (Our websites, all the web pages that are part of the websites, and such games and activities are hereafter collectively referred to as the "Websites.") Playgame Network, (hereafter referred to as "PGN"), may use affiliates' or reputable 3rd parties' services for the processing of personal data collected on or through the Websites. By using or accessing our Websites, you are accepting the practices described in this Privacy Policy.   
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](http://g.ezoic.net/privacy/playgames3d.com).  
+
 
 1.  About Our Websites   
 1.1    Our Websites offer online games created by independent developers and PGN partners. Players can access our Websites to play games without registering; however, they may choose to register to create a public or semi-public profile and to comment on games. Also, visitors to the Websites will be able to hear about newly added games.   
