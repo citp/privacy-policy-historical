@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danceworld.ie privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216114244id_/http%3A//www.danceworld.ie/section/Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danceworld.ie privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616182640id_/http%3A//www.danceworld.ie/section/Policy) for the most accurate reproduction.*
 
 # Policy | Danceworld
 
@@ -77,7 +77,7 @@ Also, please note that Dance World is not responsible for the content or privacy
 
 **Returns Policy**
 
-Customers who are unhappy with a purchase for any reason may return them for an exchange or refund provided that they are still in their original condition, in their original packaging and are returned within 30 days. 
+Customers who are unhappy with a purchase for any reason may return them for an exchange or refund provided that they are still in their original condition, in their original packaging and are returned within 28 days. 
 
 There is no refund or exchange on tights or socks for hygiene reasons, this does not affect your statutory rights. 
 
