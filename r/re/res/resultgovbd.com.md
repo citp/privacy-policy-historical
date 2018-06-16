@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resultgovbd.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227104951id_/http%3A//resultgovbd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultgovbd.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616140258id_/http%3A//resultgovbd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Page of resultgovbd.com
+# Privacy Policy Page of resultgovbd.com | Result Gov BD
 
 Privacy Policy for **http://resultgovbd.com**
 
@@ -124,6 +124,4 @@ Bangladesh
 
 8801675418893
 
-### You have come here for
-
-DU admission test question ka unit com;
+[ ](https://www.dmca.com/Protection/Status.aspx?ID=17652271-2343-4884-a314-195ff29dbe12 "DMCA.com Protection Status")
