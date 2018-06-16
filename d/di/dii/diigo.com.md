@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diigo.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002326id_/https%3A//www.diigo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diigo.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616033557id_/https%3A//www.diigo.com/privacy) for the most accurate reproduction.*
 
 # Diigo.com Privacy Policy
 
-Sep 7, 2016
+May 25, 2016
 
 Diigo recognizes that privacy is extremely important. For example, we do not record users' browsing history, except for the pages you specifically bookmark to our servers, which are located in the United States of America.
 
@@ -10,40 +10,32 @@ Further details of the Diigo's privacy policy are outlined below.
 
 ### Children
 
-  * For children under 13, Diigo offers a limited feature set and website experience. We require consent from a teacher when children under the age of 13 want to register on Diigo, and offer a limited version of the website that removes certain social features, such as public profile. The only identifiable information we collect from children under 13 is an email address input teachers.
-
-
-
+For children under 13, Diigo offers a limited feature set and website experience. We require consent from a teacher when children under the age of 13 want to register on Diigo, and offer a limited version of the website that removes certain social features, such as public profile. The only identifiable information we collect from children under 13 is an email address input teachers.
 
 ### Information We Collect
 
-  * When the "view mode" for annotation is disabled, or when you are not logged in the Diigo service, the Diigo Toolbar does not send any information about the web pages you visit. Otherwise, the Diigo toolbar sends the URL of the page you visit to our servers for the sole purpose of looking up annotations on that page. Such information is not recorded on our servers.
-
+  * Diigo collects email address when you register for a Diigo service or otherwise voluntarily provide such information. We don't collect other personal information.
+  * Diigo's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request. Generally, these information is considered as log information, not personal information .
+  * If you choose to display annotation you made on a webpage automatically, the Diigo Extension sends the URL of the page you visit to our servers for the sole purpose of looking up annotations on that page. Such information is not recorded on our servers.
   * When you bookmark, annotate or forward a page, the URL and the associated annotations you submit will be saved on our servers.
-
   * The Diigo Toolbar contacts our servers periodically in order to obtain automatic updates to the latest customizing information and options, and automatic updates to the latest version.
-
-  * Diigo collects personal information when you register for a Diigo service or otherwise voluntarily provide such information.
-
   * Diigo uses cookies and other technologies to enhance your online experience and to learn about how you use Diigo services in order to improve the quality of our services.
 
-  * Diigo's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request.
+
+
+### Use
+
+  * The log information is mainly used for usage analysis in Google Analytics, such as how many users access X feature etc.
+  * We may use your bookmarks to provide the services you've requested, including services that display customized content and advertising.
+  * We may also use log information and bookmark information for auditing, research and analysis to operate and improve Diigo technologies and services.
+  * If information is used in any way other than indicated above, it will be in the aggregated form, and with all personal identifications removed.
+  * Except as otherwise described in this privacy statement, Diigo will not disclose information users store in the servers to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by Diigo, whether or not a response is required by applicable law; (2) to enforce the Diigo Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. Diigo reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of Diigo or substantially all of its assets to that successor in interest.
 
 
 
+### GDPR compliance
 
-### Uses
-
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising.
-
-  * We may also use personal information for auditing, research and analysis to operate and improve Diigo technologies and services.
-
-  * If personal information is used in any way other than indicated above, it will be in the aggregated form, and with all personal identifications removed.
-
-  * Except as otherwise described in this privacy statement, Diigo will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by Diigo, whether or not a response is required by applicable law; (2) to enforce the Diigo Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. Diigo reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of Diigo or substantially all of its assets to that successor in interest.
-
-
-
+We updated our Privacy Policy to comply with requirements of General Data Protection Regulation (GDPR) which is the European Union data protection law that goes into effect May 25, 2018.
 
 ### Security
 
