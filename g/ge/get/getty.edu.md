@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229220638id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616044206id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement | The Getty
 
@@ -6,7 +6,7 @@
 
 The J. Paul Getty Trust is committed to protecting your privacy. We do not collect your personal information, such as your name, mailing address, or e-mail address, unless you knowingly provide it to us.
 
-Most pages of our Web site contain a link to this privacy policy, which describes what information we collect and how we use it. By using the Getty's Web site or communicating with us by e-mail, you agree to the terms and conditions of this privacy policy.
+Most pages of our Web site contain a link to this privacy policy, which describes what information we collect and how we use it. By using any Getty Web site or app or communicating with us by e-mail, you agree to the terms and conditions of this privacy policy.
 
 **General Policy on Collection of Information**  
 We only collect personally identifiable information if you knowingly provide it to us.
@@ -15,7 +15,7 @@ We may record your e-mail address if you e-mail us, submit an online form that c
 
 We will never share your e-mail address with anyone.
 
-Our Web server automatically records the IP addresses of visitors to our site. This information is used in aggregate form to helps us understand how visitors use the Getty online environment. The servers at this site also collect connection-related technical data. The data entries in these logs are used for server and network operation and maintenance and to help us understand general usage patterns.
+Our systems automatically records the IP addresses of visitors to our site. This information is used in aggregate form to helps us understand how visitors use the Getty online environment. The servers at this site also collect connection-related technical data. The data entries in these logs are used for server and network operation and maintenance and to help us understand general usage patterns.
 
 **Blogs**  
 The Getty provides blogs on this site. You are welcome to post comments to these blogs. You may post comments anonymously or under your name or alias. Names and aliases are publicly displayed. We do not sell or share commenters' names or e-mail addresses; we do save commenters' e-mail addresses and will use them only to contact you if we have questions about or direct replies to the contents of your comments.
@@ -35,8 +35,6 @@ You can view GRI e-News online, without submitting your e-mail address, at [http
 You can view GCI e-Bulletin online, without submitting your e-mail address, at [http://www.getty.edu/conservation/publications/bulletin/current.html](https://web.archive.org/conservation/publications/bulletin/current.html).
 
 You can view Exploring Antiquity online, without submitting your e-mail address, at [http://www.getty.edu/egetty/villa/index.html](https://web.archive.org/egetty/villa/index.html).
-
-You can view the Getty Teacher Update newsletter online, without submitting your e-mail address, at [http://www.getty.edu/egetty/getty_teacher_update/getty_teacher_update.html](https://web.archive.org/egetty/getty_teacher_update/getty_teacher_update.html).
 
 You can view Getty Foundation News online, without submitting your e-mail address, at [http://www.getty.edu/foundation/news/foundation_news/current.html](https://web.archive.org/foundation/news/foundation_news/current.html).
 
@@ -75,13 +73,13 @@ You do not have to accept any Getty cookies to enjoy and use the Getty website; 
 Your iOS or Android device may provide a "Limit Ad Tracking" or "Opt out of interest-based advertising" setting that you can enable if you would like to limit ad tracking from pixel tags on mobile devices.
 
 **Third-Party Service Providers**  
-The Getty engages reputable third-party vendors in order to help us manage the Getty website and mobile applications, process transactions, better respond to the needs of our visitors, and enhance our marketing efforts. This includes third-party e-commerce service providers who collect personal information necessary to process transactions, and may use the collected information to improve the services they provide. It also includes third-party marketing partners who serve advertisements across the Internet and sometimes on the Getty website and mobile applications on the Museum's behalf. These marketing partners may use information about your visits to the Getty website and mobile applications and other sites to personalize advertisements.
+The Getty engages reputable third-party vendors in order to help us manage the Getty website and mobile applications, process transactions, better respond to the needs of our visitors, and enhance our marketing efforts. This includes third-party e-commerce service providers who collect personal information necessary to process transactions, and may use the collected information to improve the services they provide. It also includes third-party marketing partners who serve advertisements across the Internet and sometimes on the Getty website and mobile applications on the Getty's behalf. These marketing partners may use information about your visits to the Getty website and mobile applications and other sites to personalize advertisements.
 
 **Links to Other Web Sites**  
 This Web site contains links to other sites that are not owned or controlled by the Getty. We are not responsible for the content or privacy practices of other sites. This privacy statement applies only to this Web site.
 
 **Children Under 13 Years of Age**  
-The Getty's Web site is not specifically dedicated to children and we do not actively solicit information from children. Children age 12 or under are required to obtain permission from a parent or guardian before submitting information to this Web site.
+Unless otherwise explicitly stated, Web sites and apps maintained by the Getty are not specifically dedicated to children and we do not actively solicit information from children. Children age 12 or under must obtain permission from a parent or guardian before submitting information to this Web site.
 
 **Changes in This Privacy Statement**  
 We reserve the right to modify this privacy statement at any time. Please visit this page periodically to check our current policy.
@@ -89,4 +87,4 @@ We reserve the right to modify this privacy statement at any time. Please visit 
 **Contact Us**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at [web@getty.edu.](mailto:web@getty.edu)
 
-Effective Date: June 30, 2011
+Effective Date: June 30, 2011 (last updated June 7, 2018)
