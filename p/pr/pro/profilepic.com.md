@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the profilepic.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119112818id_/https%3A//www.profilepic.com/page/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profilepic.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616210920id_/https%3A//www.profilepic.com/page/terms) for the most accurate reproduction.*
 
-# ProfilePic.com - Free Dating Site
+# ProfilePic.com - Find and chat with Single Girls or Single Guys
 
 ### This Application collects some Personal Data from its Users.
 
-Last updated Thursday 23rd October 2014 01:23 AM 
+Policy Date - **25th May 2018 00:01 AM** (GDPR Compliance).   
+Revision 2018.A - **3rd June 2018 at 01:54 AM**
 
-Christopher James McGough sumitgoood @ icloud.com 
+Christopher James McGough <sumitgood[/at/]icloud.com>
 
 ### Cookies Policy
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. 
-
-Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users that are based on their visit to your sites and/or other sites across the Internet. 
-
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.   
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users that are based on their visit to your sites and/or other sites across the Internet.   
 Users may opt out of using the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://aboutads.info/).) 
 
 ### Types of Data collected
@@ -30,34 +29,24 @@ Place The Data is processed at the Data Controller's operating offices and in an
 
 The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request the Data Controller for their suspension or removal. The use of the collected Data The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Access to third party services' accounts. The Personal Data used for each purpose is outlined in the specific sections of this document. 
 
-### Facebook permissions asked by this Application
+### Information we ask of our users during sign-up and or during use of our service
 
-This Application may ask some Facebook permissions allowing it to perform actions with the User's Facebook account and to retrieve information, including Personal Data, from it. For more information about the following permissions, refer to the Facebook permissions documentation and to the Facebook privacy policy. The permissions asked are the following: Basic information By default, this includes certain User(s) such as id, name, picture, gender, and their locale. Certain connections of the User, such as the Friends, are also available. If the user has made more of their data public, more information will be available. 
+* marks as non-public information. 
 
-  * ### Access Friend Lists
-
-Provides access to any friend lists the user created
-
-  * ### Birthday
-
-Provides access to the birthday 
-
-  * ### Contact email
-
+  * **Access Friend/Email Contacts***  
+Provides access to any friend or Email contacts the user created
+  * **Birthday***  
+Provides access to the birthday. While birthday is non-public, your age will be visible to other users. 
+  * **Contact email***  
 Access the user's contact email address. 
-
-  * ### Hometown
-
-Provides access to the user's hometown. 
-
-  * ### Photos
-
-Provides access to the photos the user has uploaded, and photos the user has been tagged in. 
-
-  * ### Share
-
-Share items on the user's behalf.
-
+  * **City/Country**  
+Provides access to the user's city/country. Publicly displayed. 
+  * **Photos**   
+Provides access to the photos the user has uploaded. Publicly Displayed 
+  * **Share**   
+Users may share content on or from our service. We hold no liability for content shared either on site or off site. 
+  * **Favourite Music Video/Youtube Video**   
+Users may choose to share a music video or youtube video on their profile page which will be public. 
 
 
 
@@ -69,7 +58,7 @@ The User's Personal Data may be used for legal purposes by the Data Controller, 
 
 ### System Logs and Maintenance
 
-For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address). 
+For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address) and cross-referenced associated ISP / Network to aid spam-bot / rogue actor removal during picture approval processes. 
 
 ### Information not contained in this policy
 
@@ -83,5 +72,17 @@ Users have the right, at any time, to know whether their Personal Data has been 
 
 The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request the Data Controller to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. Information about this privacy policy 
 
-  
+### GDPR Compliance
+
+In order for this service to be GDPR compliant the following are in effect since 25th of may 2018. 
+
+\- ALL users must opt-in to e-mail marketing with the option of opting-out. 
+
+\- Accounts may be deleted at user discretion and information will be held for purpose of crime prevention only. 
+
+\- ALL users have the option to opt-in or opt-out personlized advertising.   
+
+
+EOF 
+
 [Back](https://web.archive.org/)
