@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralxfiles.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206163041id_/http%3A//www.viralxfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralxfiles.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616071337id_/http%3A//www.viralxfiles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Viral X Files
+# Privacy Policy – Viral X Files
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](http://www.viralxfiles.com/contact-us/).
 
