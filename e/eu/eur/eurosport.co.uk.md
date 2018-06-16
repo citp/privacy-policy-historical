@@ -1,301 +1,855 @@
-> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228032324id_/http%3A//www.eurosport.co.uk/eurosport/eurosport-privacy-policy_sto4264003/story.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616042143id_/https%3A//www.eurosport.co.uk/eurosport/eurosport-privacy-policy_sto4264003/story.shtml) for the most accurate reproduction.*
 
 # EUROSPORT PRIVACY POLICY - Eurosport - Eurosport UK
 
-This information supplements our General Terms and Conditions of Use (“GTCU”), and all terms used herein with an initial capital letter have the meaning ascribed to them in the GTCU. 
+**EUROSPORT**
 
-**LEGAL FRAMEWORK**
+**PRIVACY POLICY**
 
-We comply with the European and French rules on the protection of individuals with respect to the processing of personal data and on the free movement of such data. 
+Revised May 2018 
 
-The reference texts are: 
+We are committed to protecting and respecting your privacy. This Privacy Policy explains the types of personal information we collect via our websites at eurosport.com and eurosportplayer.com (the "Sites"), our Apps for various devices and through our provision of entertainment services, video and digital content on our own and third-party platforms (the "Eurosport Services"), how we use that information, who we share it with, and how we protect that information. 
 
-the French Data Protection Act, as amended, transposing the EU Data Protection Directive into French law; and 
+Please read the following carefully to understand our views and practices regarding your personal information, and how we will treat it. By continuing to use our websites, Apps and Eurosport services or by signing up to our services, you confirm that you have read and understood this privacy policy in its entirety. 
 
-the French Digital Economy Trust Act incorporating into French law the EU e-Commerce Directive and the EU e-Privacy Directive, as amended by the European Cookie Directive. 
+**Overview**
 
-All processing of personal data by Eurosport and/or its subsidiaries has been reported to the French data protection authority: Commission Nationale de l'Informatique et des Libertés – CNIL – www.cnil.fr. 
+We respect your right to privacy and we will not request or collect more information than we need to supply you with the services that you request. Our overall aim is to ensure that our collection and use of personal information is appropriate to the provision of services to you, and is in accordance with applicable data protection laws. 
 
-This Privacy Policy does not apply to services provided by any third parties whatsoever, including, but not limited to, privative companies (whether or not partners of Eurosport) and administrative or judicial authorities. 
+Further details of how we do so is set out in each section of our privacy policy as follows: 
 
-**When you access or use the Services, Eurosport may collect and use information about you: personal data you provide by filling in forms (see I), and navigation data, which are collected by cookies (see II).**
+Who we are 
 
-**I. YOUR PERSONAL DATA**
+Information covered by this Privacy Policy 
 
-Personal data are information that enables you to be identified as an individual or recognised directly or indirectly. Personal data include at least some of the following: surname, given name, date of birth, sex, postal address, email address, computer IP address, phone number, credit card number, photograph, videos, and comments giving your contact details or personal and confidential login and password. 
+Children 
 
-You may be asked to provide personal data when you access our Services, for instance if and when you: 
+The personal information we collect about you 
 
-create an account to join the Eurosport Community, 
+How do we use your personal information? 
 
-sign up for a newsletter, 
+How we share your personal information and who we share it with 
 
-subscribe to one of our Services, 
+International transfers 
 
-make a purchase, e.g. a subscription to Eurosport Player, 
+Cookies 
 
-enter an online competition run by us, 
+Security 
 
-complete a survey, or 
+Data Retention 
 
-forward a link or content from our Services to one of your contacts. 
+Your rights 
 
-Providing personal data may be mandatory for the use of some of our Services. 
+Third party sites 
 
-We collect and process personal data for the purposes of: 
+Changes to this Privacy Policy 
 
-\- creating and managing your account, 
+Complaints, questions and suggestions 
 
-\- enabling you to take advantage of features available on or through our Services, 
+**Who we are**
 
-\- contacting you to notify you of any prize won by you in our competitions, 
+We are: 
 
-\- dealing with your enquires and requests, 
+DPlay Entertainment Limited of Chiswick Park Building 2, 566 Chiswick High Road, London W4 5YB, United Kingdom (registered company number 09615785) (provider of the Eurosport Player part of Eurosport Services); and 
 
-\- providing you with information about the services we offer, 
+Eurosport, SAS of 3 rue Gaston et René Caudron, 92798 Issy les Moulineaux Cedex 9, France (registered company number: 353 735 657) (provider of the Eurosport.com part of Eurosport Services), 
 
-\- compiling statistics on visits to the various parts of our Services, 
+(together referred to in this Privacy Policy as "Eurosport", "we", "us" or "our"). 
 
-\- complying with the applicable legislation if you post comments or upload materials to contribution areas that are moderated _ex post facto_ (forums, opinions, loading of any digital material, etc.), 
+We are the joint data controllers of the personal information that we collect from you. 
 
-\- identifying improper use of our Services. 
+Our Data Protection Officer can be contacted at _DPO@discovery.com_. 
 
-**Who may use your personal data?**
+**Information covered by this Privacy Policy**
 
-Your personal data are collected when you subscribe to our Services. Your personal data are intended for Eurosport, and may be disclosed to third parties under certain conditions. 
+This Privacy Policy covers all personal information collected and used by Eurosport. 
 
-**Eurosport**
+When we talk about "personal data" or "personal information" we mean information that (either in isolation or in combination with other information held by us) enables you to be identified as an individual (either directly or indirectly). Personal information may include your name, date of birth, postal address, e-mail address, computer IP address, phone number, payment card details number, user-generated content or login information, and technical information from the devices you use to receive Eurosport Services. Please see ' _Information you give us_ ' and ' _Information we collect about you_ ' for further information on what personal information we collect depending on how you use the Eurosport Services. 
 
-Your personal data may be used by Eurosport for the purposes of: 
+**Children**
 
-providing you with the Services for which you have registered and: 
+You must be aged 18 or over to subscribe to our services. Our Sites and services are not directed at children and we do not knowingly collect any personal information from children. 
 
-sending you any useful information about the Services via the contact details you provided, 
+If you are a child and we learn that we have inadvertently obtained personal information from you from our Sites then we will delete that information as soon as possible. 
 
-informing you of the terms and conditions of provision of our Services, 
+Please contact our Data Protection Officer at _DPO@discovery.com_ if you are aware that we may have inadvertently collected personal information from a child. 
 
-confirming receipt of your requests, or your registration for a Service, or the performance, billing or completion of a Service; and 
+**What information do we collect from you?**
 
-sending you offers and news about our Services (including Services other than those, if any, to which you have subscribed) that we think might interest you, unless you choose to opt-out of receiving all or some of this information by following the opt-out instructions described below. 
+We collect information about you from different sources. 
 
-Your personal data may be: 
+**Information you give us**
 
-disclosed and transferred by Eurosport to its subsidiaries, including foreign subsidiaries, in order to enable you to access the Services and conduct the above-mentioned activities; provided, however, that any transfer to a foreign jurisdiction will be carried out in accordance with the applicable legislation in order to ensure that your personal data is given a sufficient level of protection; and transmitted to any contractor engaged now or in the future by Eurosport to assist it in providing Services to you or to achieve one or more of the purposes described above; provided, however, that your personal data will remain under the control and direction of Eurosport. 
+When you access or use the Eurosport Services, such as when you: 
 
-**Our partners, subject to your consent**
+create an account to subscribe to the Eurosport Services; 
 
-Third parties may use your personal data, but only with your consent. 
+sign up for a newsletter; 
 
-If you have opted in to receive offers from our selected partners by ticking a box or otherwise manifesting your explicit willingness to receive such offers, your data will be transmitted to the relevant partners so that they may send you their product or service offers by email or, if applicable, SMS, and continue to do so unless and until you opt-out of receiving such offers by following opt-out instructions provided by the individual partners. 
+purchase a Eurosport Pass or Eurosport Bundled Pass (including through third parties); 
 
-These partners are solely responsible for (i) the processing of your personal data once they have been transmitted to them with your consent, (ii) complying with all applicable legal requirements, and (iii) taking account of your rights and dealing with any requests you make. 
+enter an online competition run by us; or 
+
+complete a survey, 
+
+then we will collect personal information from you. 
+
+When you create an account to use the Eurosport Services, the personal information that you give us includes your: 
+
+name; 
+
+e-mail address; 
+
+Eurosport Services password; 
+
+favourite sports; 
+
+language; and 
+
+if you use the Eurosport Player part of the Eurosport Services (for example, purchase a Eurosport Pass or Eurosport Bundled Pass), billing address and country and payment information. 
+
+It is necessary for you to provide this personal information in order to use the Eurosport Services. If you cannot provide any of this personal information, we will not be able to provide the Eurosport Services that require an account to you. 
+
+When you sign up for a newsletter, we will collect your: 
+
+\- name; and 
+
+\- email address. 
+
+When you enter into an online competition run by us or complete a survey, we will collect the personal information that is collected in the online forms provided by us. 
+
+**Information we collect about you**
+
+When you visit our Sites, whether you are using a Eurosport Service account or not, we use cookies and other technologies to automatically collect the following information: 
+
+Technical information, including your IP address, your login information, browser type and version, device identifier, location and time zone setting, browser plug-in types and versions, operating system and platform, page response times, and download errors; 
+
+Information about your visit, including the websites you visit before and after our website and products you viewed or searched for; 
+
+Length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouseovers) and methods used to browse away from the page. 
+
+If you use the Eurosport Player part of Eurosport Services, we will collect information about how you use the Eurosport Player, including but not limited to your video consumption and playback, sign-in and sign-out, playback error and browsing information. 
+
+To learn more about how we use cookies and how to control which cookies are used, please see our Cookie Policy below. 
+
+**If you fail to provide personal data**
+
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you Eurosport Services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time. 
+
+**How do we use your personal information? How do we use personal information for this purpose? What is the legal basis for us processing your information in this way?**
+
+**We may use your personal information to:**
+
+**Create and manage your account.**
+
+We need to use your personal information (such as your e-mail address) to set up and manage your account (for example by sending you password reminders or notifications of changes to your account details). 
+
+**Using your personal information in this way is necessary for us to perform our contractual obligations where you have purchased a Eurosport access pass.**
+
+**Provide you with access to Eurosport content you have purchased.**
+
+We will need to use your personal information where this is necessary for us to perform our obligations under a contract with you, for example where you have purchased a Eurosport access pass and we need to ascertain your eligibility and provide you with the content that you validly requested. 
+
+Using your personal information in this way is necessary for us to perform our contractual obligations where you have purchased a Eurosport access pass. 
+
+**Contact you to notify you of any prize won by you in our competitions.**
+
+We will need to use your contact information (such as your e-mail address or postal address) to inform you if you have won a prize after entering our competitions. 
+
+Using your personal information in this way is necessary for us to perform our contractual obligations where you have entered into a competition and it is also in our legitimate interests in administering the promotion that you entered and we do not believe that your interests or fundamental rights override (or outbalance) our legitimate interests. 
+
+**Deal with your enquiries and requests.**
+
+We will need to use your personal information (such as your contact details) to assist you with enquiries and requests, for example if you were to call customer services to ask for help and assistance then we would need to process your contact details and certain information about your account. 
+
+Using your personal information in this way is in our legitimate interests in responding to your enquiries and requests and we do not believe that your interests or fundamental rights override (or outbalance) our legitimate interests. 
+
+**Provide you with marketing information about the Eurosport Services (provided you have consented to this).**
+
+We will need to use your personal information (such as your e-mail address or other contact details) to send you information about Eurosport content that you may be interested in, or to offer you opportunities to participate in competitions or surveys. 
+
+We need to use your contact information to send you details of Eurosport content, competitions and surveys that may be of interest to you. 
+
+We will ask for your consent before processing your information in this way. 
+
+**Combine information we receive and collect (e.g. from your browsing behaviour and purchase history) to understand your interests and preferences.**
+
+We may combine the information we receive and collect about you to better understand your interests and preferences, so that we can provide you with an experience that is tailored to those interests and preferences. For example, we may do this by offering you Eurosport access passes that you are most likely to be interested in, or sending you personalised offers or promotions by e-mail (where you have agreed to receive our e-mails), or offering you advertising content that is relevant to your interests either on our Sites or Eurosport Services or on other websites and we will use a range of technologies to achieve this. This may include, for example, tailoring our advertising to ensure that certain advertising plays out when a particular audience is most likely to be watching, or in relation to Facebook, using the Facebook Custom Audiences service by sharing your email address in a protected format with Facebook so that we can include you in a custom audience that we will serve relevant advertising content to on Facebook or creating an audience of other Facebook users based on the information in your Facebook profile. You can opt-out from Facebook Custom Audiences in your Facebook privacy settings or by contacting our Data Protection Officer at DPO@discovery.com. 
+
+It is in our legitimate interest to look at your preferences that we derive from your browsing behaviour and purchases so that we can personalise our service and our advertising for you, to better meet your needs as a customer, provided this is in line with your marketing choices (please see the section below on preventing our use of your personal information for direct marketing purposes) and we do not believe that your interests or fundamental rights override (or outbalance) our legitimate interests. 
+
+**Comply with legal requirements.**
+
+We may sometimes need to process personal information to comply with legal requirements to which we are subject (for example tax or financial reporting requirements). 
+
+We need to handle your personal information for the purposes of complying with legal requirements to which we are subject. 
+
+**Process your payments and protect against fraudulent transactions.**
+
+We need to process your personal information to allow you to pay for any subscriptions and/or redeem a voucher for a subscription and in order to keep your payments safe and secure and protect against fraudulent transactions. 
+
+It is in our legitimate interests to process personal information to process payments and keep our customers' payments secure and we do not believe that your interests or fundamental rights override (or outbalance) our legitimate interests. 
+
+**Process your personal information where this is necessary to keep our websites safe and secure.**
+
+We need to process your personal information in order to keep our websites safe and secure and protect against illegal or fraudulent activity such as cyber-attacks. 
+
+It is in our legitimate interests to monitor how our websites are used to detect and prevent fraud, other crimes and the misuse of our websites. This helps us to ensure that you can safely use our websites and we do not believe that your interests or fundamental rights override (or outbalance) our legitimate interests. 
+
+**Keep an up to date suppression list where you have asked not to be contacted, so we do not inadvertently re-contact you.**
+
+We understand that you may prefer for us not to contact you with details of our products, service, or promotions. We keep records of your preferences to ensure that we do not contact you if you have asked us not to. We may need to process some of your personal information (such as your name and e-mail address) in order to do this. 
+
+It is in our legitimate interests to process personal information in order to maintain an up to date suppression list and ensure that we do not contact you where you have asked us not to and we do not believe that your interests or fundamental rights override (or outbalance) our legitimate interests. 
+
+**Ensure that we serve you the correct content based on your location.**
+
+We use your location information to ensure that we serve you the correct content based on your location (e.g. where we only have rights to show certain content in certain countries or where we direct you to the country specific version of our Eurosport Services). 
+
+It is in our legitimate interests to process personal information in order to ensure that we show you content that is specific to your location and we do not believe that your interests or fundamental rights override (or outbalance) our legitimate interests. 
+
+**If you live in the EU you are entitled to watch your Eurosport Services when you're visiting another country in the EU provided that we have verified your country of residence.**
+
+If you live in the EU, we will use information including your IP address and payment information to ascertain whether you have the right to watch your Eurosport Services when you're visiting another country in the EU. 
+
+If you live in the EU you are entitled to watch your Eurosport Services when you're visiting another country in the EU provided that we have verified your country of residence and we are legally required to process your information for this purpose. It is also in our legitimate interest to process your personal information in this way and we do not believe that your interests or fundamental rights override (or outbalance) our legitimate interests. 
+
+**Update and improve the Eurosport Services, including but not limited to our content, features, scheduling, technology and products.**
+
+We analyse your video consumption, playback and general viewing habits and aggregate your personal information with the personal information of other users in order to understand viewership, such as audience profiles and top programmes or content. 
+
+It is in our legitimate interests to process personal information in order to update and improve the Eurosport Services and we believe that the benefits of this outweigh and do not unduly prejudice your rights and interests. 
+
+**Who may use your personal information?**
+
+Your personal information is collected when you subscribe to the Eurosport Services. Your personal information is intended for Eurosport, and is shared with third parties in certain circumstances. 
+
+Our website will, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we have no control over how they may use your personal information. You should check the privacy policies of third party websites before you submit any personal information to them. 
+
+We share your personal information with the following types of third party organisations: 
+
+**Eurosport family of companies**
+
+We share your personal information among our family of companies, including our subsidiaries and holding companies, in order to provide you with customer support, process your payments, understand your preferences, send you information about products and services that may be of interest to you (provided that this is in line with your marketing choices) and conduct the other activities described in this Privacy Policy. 
+
+**Our service providers**
+
+We use other companies, agents or contractors ("Service Providers") to perform services on our behalf or to assist us with the provision of the Eurosport Services to you. For example, we engage Service Providers to: 
+
+**provide marketing, advertising, communications, infrastructure and IT services;**
+
+**personalise and optimise our service;**
+
+**process credit card transactions or other payment methods;**
+
+**provide customer service;**
+
+**collect debts;**
+
+**analyse and enhance data (including data about users' interactions with our service); and**
+
+**process and administer consumer surveys.**
+
+**In the course of providing such services, these Service Providers may have access to your personal information. However, we will only provide our Service Providers with the information that is necessary for them to perform the services, and they are only authorised to use your personal information in accordance with our instructions.**
 
 **Third parties permitted by law**
 
-In certain circumstances provided for by law, your personal data may be disclosed to third parties permitted by law on a specific request basis (e.g. judicial or administrative authorities, your Internet service provider or a third party (e.g. an advertising sales house, or another publisher) that has placed a cookie in the browser directory of your computer’s hard drive. 
+In certain circumstances, we are required to disclose or share your personal information in order to comply with a legal or regulatory obligation (for example, where we have to disclose information to the police, or to judicial or administrative authorities). 
 
-We may also disclose your personal data to third parties where disclosure is both legally permissible and necessary to protect or defend our rights, enforce our GTCU or protect your rights of those of the public. 
+**We will also disclose your personal information to third parties where disclosure is both legally permissible and necessary to protect or defend our rights, enforce our Terms of Use or protect your rights or those of the public.**
 
-Should Eurosport be sold, in whole or in part, to a third party, we reserve the right to transfer your personal information as part of the assets transferred. 
+**Third parties connected with business transfers**
 
-**How can you access, change or delete your personal data?**
+We may need to transfer your personal information to third parties in connection with a reorganisation, restructuring, merger, acquisition or transfer of assets, provided that the receiving party agrees to treat your personal information in a manner consistent with this Privacy Policy. If we are involved in such a business transfer, you will be notified afterwards via e-mail and/or a prominent notice on our Sites of any change in ownership or uses of personal information as well as any choices that you may have regarding your personal information. 
 
-You have the statutory right to access information about you that is held on a computer, to object to the processing of such information and to have it corrected or deleted. 
+We will not sell your personal information to third parties. 
 
-The simplest way to exercise these rights is to send us an online request. You can at any time access your personal information, change it or have it deleted by: 
+**Where we store your personal information**
 
-\- logging in to your account with your user name and password and clicking on the “My Profile” link; or 
+The personal information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA") (for example, in the USA). It may also be processed by staff operating outside the EEA who work for us (please see Annex 2 for a list of all the countries where we offer Eurosport Services) or for one of our Service Providers (such as our group companies based in the USA). 
 
-\- [sending us an email ](https://web.archive.org/contactus.shtml)
+Please be aware that countries which are outside the European Economic Area may not offer the same level of data protection as in the European Union, although our collection, storage and use of your personal data will continue to be governed by this privacy policy. 
 
-\- clicking on a dedicated hypertext link in the messages we send you. 
+When transferring personal information outside the EEA, we will: 
 
-If you are unable to access, change or delete your personal information by the above online methods, you may make your request by letter to: 
+include the standard contractual data protection clauses approved by the European Commission for transferring personal information outside the EEA into our contracts with those third parties (these are the clauses approved under Article 46.2 of the General Data Protection Regulation (GDPR)); or 
 
-Eurosport 
+(where relevant and where the third party is based in the US), ensure that they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US; or 
 
-Service Juridique - Nouveaux Médias 
+ensure that the country in which your personal information will be handled has been deemed "adequate" by the European Commission under Article 45 of the GDPR. 
 
-3 Rue Gaston et René Caudron 
+You can find out further information about the rules on data transfers outside the EEA, including the mechanisms that we rely upon, on the European Commission website here. 
 
-92798 Issy les Moulineaux Cedex 9 
+**Your rights**
 
+You have the legal right to: 
+
+• gain access to any personal information we hold about you; 
+
+• update any of your personal information which is out of date or incorrect; 
+
+• delete any personal information which we are holding about you; 
+
+• restrict the way that we process your personal information; 
+
+• prevent the processing of your personal information for direct-marketing purposes; 
+
+• provide your personal information to a third-party provider of services; 
+
+• provide you with a copy of any personal information which we hold about you; 
+
+• object to our use of your personal information; or 
+
+give instructions on the management of your personal information after your death. 
+
+If you would like further information in relation to these or would like to exercise any of them, please contact our Data Protection Officer at DPO@discovery.com at any time. We will consider all such requests and provide our response within a reasonable period (and in any event within any time period required by applicable law). Please note, however, that certain personal information may be exempt from such requests in certain circumstances. 
+
+If an exception applies, we will tell you this when responding to your request. We may request you provide us with information necessary to confirm your identity before responding to any request you make. 
+
+**Your right to access the information we hold about you**
+
+You can request access to the information we hold about you by contacting us using the contact details set out below. Our file of your information will usually be made available to you within 30 days, although occasionally we may not be able to give you access to the personal information we hold about you (for example, we may not be able to give you access if it would unreasonably affect someone else's privacy or if giving you access poses a serious threat to someone's life, health or safety). Please note that we may apply an administrative charge for providing access to your information in certain circumstances where permitted by the relevant law. Please note that if you request a copy of your data using electronic means (such as e-mail), then we will provide a copy of your information in electronic form unless you ask us to do otherwise. 
+
+**Your right to have your information corrected, updated or deleted**
+
+If you have an account with us, you can sign into that account to update or delete some of your personal information. 
+
+If you have problems updating the information on your account or if you would like us to update or delete your information, please e-mail your request to our Data Protection Officer at DPO@discovery.com and we will action it as soon as possible. 
+
+Where we need to collect your personal data by law, or under the terms of a contract we have with you and you want to delete your personal information then we may not be able to perform the contract we have (for example, to provide you with Eurosport Services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time. 
+
+**Your right to object to us processing your personal information**
+
+You have the right to ask us to stop processing your personal information, even where that processing is necessary for our legitimate interests (for example, where the processing is necessary for the commercial objectives we pursue in the course of our business), including the profiling we undertake to send you personalised offers, product recommendations and similar content. We will consider all such requests and provide our response within a reasonable period (and in any event within any time period required by applicable law). Please note, however, that certain personal information may be exempt from such requests in certain circumstances. 
+
+**Your right to stop us from processing your personal information for direct-marketing purposes**
+
+You also have the right to ask us to stop processing your personal information for direct marketing purposes, including any profiling we undertake for the purposes of direct marketing. If you want to opt-out of our targeted advertising then please contact our DPO at DPO@discovery.com at any time. 
+
+We will in any case only send you marketing communications if you have previously agreed to this, but if you change your mind you can easily unsubscribe from our marketing communications at any time by following the instructions included in these marketing communications. 
+
+**Your right to have your personal information transmitted to another organisation**
+
+Where we hold personal information about you with your consent or for the performance of a contract with you, you also have the right to ask us to provide you with the personal information we hold about you in a structured, commonly used and machine-readable format and, where technically feasible, to transmit that personal information to another organisation. 
+
+**Your right to provide us with instructions on the management of your personal information after your death**
+
+You have the right to provide us with instructions on the management (e.g., retention, erasure and disclosure) of your data after your death. You can change or revoke your instructions at any time. Please contact our Data Protection Officer at DPO@discovery.com to provide us with instructions. 
+
+**Making a complaint**
+
+You have the right to lodge a complaint with a local data protection authority in the European Economic Area (EEA) if you believe that we have not complied with applicable data protection laws. 
+
+The local data protection authority will differ depending on the country you are in. Please see the Annex to this Privacy Policy for a list of local data protection authorities in the EEA countries in which we operate. 
+
+**Contacting us**
+
+If you have any questions or concerns about how we treat your personal information, you wish to ask us to stop processing your personal information, or you would like to request a copy of the personal information we hold about you, or to exercise any of the rights listed above, please contact our Data Protection Officer at DPO@discovery.com or by writing to our Data Protection Officer at: 
+
+Data Protection Officer  
+Privacy Office  
+Eurosport Player  
+c/o Dplay Entertainment Limited  
+Chiswick Park Building 2  
+566 Chiswick High Road  
+London W4 5YB  
+United Kingdom 
+
+or 
+
+Data Protection Office  
+Privacy Office  
+Eurosport  
+c/o Eurosport SAS  
+3 rue Gaston et René Caudron  
+92798 Issy les Moulineaux Cedex 9  
 France 
 
-Your written request should be (i) signed, (ii) accompanied by a photocopy of your passport or other official identity document bearing your signature and (iii) include your reply address. A reply will be sent to you within two months from receipt of your request. 
-
-N.B. We remind you that _our partners_ are responsible for taking account of your rights, including your right to opt-out of receiving offers from them. 
-
-You may, however, at any time opt-out of receiving offers from third parties by logging in to your user account and changing the settings. If you had previously opted in, your personal data will cease to be transmitted to our partners from the time your request is processed. Your request will not, however, apply retroactively to data transmissions carried out before your request. In such case, you should contact the relevant third parties directly. 
+Please include your reply address when you write to us. 
 
 **How long do we keep your personal information?**
 
-Your personal Information is stored by us and/or any contractors of our choosing, strictly for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the information is collected, in accordance with the applicable regulations, e.g. no more than three years for information about customers and prospects as per Simplified Standard No 48 adopted by the CNIL by Resolution 2012-209 of 21 June 2012, and one year for information about content creators. 
+Your personal Information is stored by us and/or our Service Providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the information is collected, in accordance with applicable data protection laws. When we no longer need to use your information, we will remove it from our systems and records and/or take steps to properly anonymise it so that you can no longer be identified from it (unless we need to keep your information to comply with legal or regulatory obligations to which we are subject). This means that, if you no longer have a live and valid entitlement to Eurosport Services and you have not logged into our service for 5 years then we will take steps to delete or anonymise your personal information. 
 
-Beyond those time frames, your personal data will be kept solely for statistical purposes and will not be put to any use whatsoever. 
+**How do we keep your personal information secure?**
 
-**How do we protect your personal information?**
+Your personal information is collected via a secure server. The secure server software encrypts the information provided before transmitting it to us. In addition, we have security procedures in place to protect the storage of and prevent unauthorised access to your personal information. As part of our security measures, we may sometimes require you to give proof of your identity before we disclose personal information to you. 
 
-Your personal information is collected via a secure server. The secure server software encrypts the information provided before transmitting it to us. In addition, we have security procedures in place to protect the storage of and prevent unauthorized access to your personal information, as required by the French Data Protection Act. As part of our security measures, we may require you to give proof of your identity before we disclosure any private information to you. 
+**Changes to this Privacy Policy**
 
-**II. YOUR NAVIGATION DATA**
+We may update this Privacy Policy from time to time in response to changing legal, regulatory or operational requirements. We will notify you of any such changes (including when they will take effect). 
 
-**What are navigation data?**
+**Annex 1**
 
-Your navigation data do not allow you to be identified personally. They only allow the terminal you use to be identified. 
+**List of data protection authorities (EEA countries)**
+
+You have the right to lodge a complaint with local data protection authorities in the EEA if you believe we have not complied with applicable data protection laws. 
 
-Navigation data are information associated with the equipment, or terminal, you use (computer, smartphone, tablet, etc.), which can be collected and stored in “cookie” files, according to your choices, as and when you access and use the Services. 
+The local authority differs depending on the country. Please see below for details of the local data protection authorities in the EEA countries in which we operate. 
 
-**What is a cookie?**
+**Country**
 
-A cookie is a small file of letters and numbers downloaded on to your computer when you access certain websites. Like virtual door keys, cookies unlock a computer's memory and allow a website to recognise users when they return to a site by opening doors to different content or services. Like a key, a cookie itself does not contain information, but when it is read by a _browser_ it can help a website improve the service delivered. 
+**Data protection authority**
+
+Austria 
 
-Cookie files are automatically lodged into the _cookie file_ \- the memory of your browser - and each one typically contains: 
+**Österreichische Datenschutzbehörde**   
+Hohenstaufengasse 3  
+1010 Wien  
+Tel. +43 1 531 15 202525   
+Fax +43 1 531 15 202690  
+e-mail: _dsb@dsb.gv.at_   
+Website: _http://www.dsb.gv.at/_
+
+Belgium 
+
+**Commission de la protection de la vie privée**   
+Rue de la Presse 35  
+1000 Bruxelles  
+Tel. +32 2 274 48 00   
+Fax +32 2 274 48 10  
+e-mail: _commission@privacycommission.be_   
+Website: _http://www.privacycommission.be/_
+
+Bulgaria 
+
+**Commission for Personal Data Protection**   
+2, Prof. Tsvetan Lazarov blvd.  
+Sofia 1592  
+Tel. +359 2 915 3523  
+Fax +359 2 915 3525  
+e-mail: _kzld@cpdp.bg_   
+Website: _http://www.cpdp.bg/_
+
+Croatia 
+
+**Croatian Personal Data Protection Agency**   
+Martićeva 14  
+10000 Zagreb  
+Tel. +385 1 4609 000   
+Fax +385 1 4609 099  
+e-mail: _azop@azop.hr_ or _info@azop.hr_   
+Website: _http://www.azop.hr/_
+
+Cyprus 
+
+**Commissioner for Personal Data Protection**   
+1 Iasonos Street,  
+1082 Nicosia  
+P.O. Box 23378, CY-1682 Nicosia  
+Tel. +357 22 818 456   
+Fax +357 22 304 565  
+e-mail: _commissioner@dataprotection.gov.cy_   
+Website: _http://www.dataprotection.gov.cy/_
+
+Czech Republic 
+
+**The Office for Personal Data Protection**   
+Urad pro ochranu osobnich udaju  
+Pplk. Sochora 27  
+170 00 Prague 7  
+Tel. +420 234 665 111   
+Fax +420 234 665 444  
+e-mail: _posta@uoou.cz_   
+Website: _http://www.uoou.cz/_
+
+Denmark 
+
+**Datatilsynet**   
+Borgergade 28, 5  
+1300 Copenhagen K  
+Tel. +45 33 1932 00   
+Fax +45 33 19 32 18  
+e-mail: _dt@datatilsynet.dk_   
+Website: _http://www.datatilsynet.dk/_
+
+Estonia 
+
+**Estonian Data Protection Inspectorate (Andmekaitse Inspektsioon)**   
+Väike-Ameerika 19  
+10129 Tallinn  
+Tel. +372 6274 135   
+Fax +372 6274 137  
+e-mail: _info@aki.ee_   
+Website: _http://www.aki.ee/en_
+
+Finland 
+
+**Office of the Data Protection Ombudsman**   
+P.O. Box 315  
+FIN-00181 Helsinki  
+Tel. +358 10 3666 700   
+Fax +358 10 3666 735  
+e-mail: _tietosuoja@om.fi_   
+Website: _http://www.tietosuoja.fi/en/_
+
+France 
+
+**Commission Nationale de l'Informatique et des Libertés - CNIL**   
+3 Place de Fontenoy - TSA 80715  
+75334 PARIS CEDEX 07  
+Tel. +33 1 53 73 22 22  
+Fax +33 1 53 73 22 00  
+Website: _http://www.cnil.fr/_
+
+Germany 
+
+**Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit**   
+Husarenstraße 30  
+53117 Bonn  
+Tel. +49 228 997799 0; +49 228 81995 0  
+Fax +49 228 997799 550; +49 228 81995 550  
+e-mail: _poststelle@bfdi.bund.de_   
+Website: _http://www.bfdi.bund.de/_
+
+The competence for complaints is split among different data protection supervisory authorities in Germany.  
+Competent authorities can be identified according to the list provided under  
+ _https://www.bfdi.bund.de/bfdi_wiki/index.php/Aufsichtsbeh%C3%B6rden_und_Landesdatenschutzbeauftragte_
+
+Greece 
+
+**Hellenic Data Protection Authority**   
+Kifisias Av. 1-3, PC 11523  
+Ampelokipi Athens  
+Tel. +30 210 6475 600  
+Fax +30 210 6475 628  
+e-mail: _contact@dpa.gr_   
+Website: _http://www.dpa.gr/_
+
+Hungary 
+
+**Data Protection Commissioner of Hungary**   
+Szilágyi Erzsébet fasor 22/C  
+H-1125 Budapest  
+Tel. +36 1 3911 400  
+e-mail: _peterfalvi.attila@naih.hu_   
+Website: _http://www.naih.hu/_
+
+Iceland 
+
+**The Icelandic Data Protection Authority**   
+Rauðarárstígur 10, 105 Reykjavík, Iceland  
+Tel. +354-510-9600  
+e-mail: _postur@personuvernd.is_   
+Website: _https://www.personuvernd.is/_
+
+Ireland 
+
+**Data Protection Commissioner**   
+Canal House  
+Station Road  
+Portarlington  
+Co. Laois  
+Lo-Call: 1890 25 22 31  
+Tel. +353 57 868 4800   
+Fax +353 57 868 4757  
+e-mail: _info@dataprotection.ie_   
+Website: _http://www.dataprotection.ie/_
+
+Italy 
+
+**Garante per la protezione dei dati personali**   
+Piazza di Monte Citorio, 121  
+00186 Roma  
+Tel. +39 06 69677 1  
+Fax +39 06 69677 785  
+e-mail: _garante@gdpt.it_   
+Website: _http://www.garanteprivacy.it/_
+
+Latvia 
+
+**Data State Inspectorate**   
+Director: Ms Signe Plumina  
+Blaumana str. 11/13-15  
+1011 Riga  
+Tel. +371 6722 3131  
+Fax +371 6722 3556  
+e-mail: _info@dvi.gov.lv_   
+Website: _http://www.dvi.gov.lv/_
+
+Liechtenstein 
+
+**Datenschutzstelle**
+
+**Kirchstrasse 8  
+Postfach 684  
+9490 Vaduz  
+Tel: _+423 236 60 90_  
+e-mail: _info.dss@llv.li_  
+Website: _http://www.llv.li/#/1758/datenschutzstelle_**
+
+Lithuania 
+
+**State Data Protection**   
+Žygimantų str. 11-6a  
+011042 Vilnius  
+Tel. + 370 5 279 14 45   
+Fax +370 5 261 94 94  
+e-mail: _ada@ada.lt_   
+Website: _http://www.ada.lt/_
+
+Luxembourg 
+
+**Commission Nationale pour la Protection des Données  
+1, avenue du Rock’n’Roll  
+L-4361 Esch-sur-Alzette  
+Tel. +352 2610 60 1  
+Fax +352 2610 60 29  
+e-mail: _info@cnpd.lu_   
+Website: _http://www.cnpd.lu/_**
+
+Malta 
+
+**Office of the Data Protection Commissioner**   
+Data Protection Commissioner: Mr Joseph Ebejer  
+2, Airways House  
+High Street, Sliema SLM 1549  
+Tel. +356 2328 7100   
+Fax +356 2328 7198  
+e-mail: _commissioner.dataprotection@gov.mt_   
+Website: _http://www.dataprotection.gov.mt/_
+
+Netherlands 
+
+**Autoriteit Persoonsgegevens**   
+Prins Clauslaan 60  
+P.O. Box 93374  
+2509 AJ Den Haag/The Hague  
+Tel. +31 70 888 8500  
+Fax +31 70 888 8501  
+e-mail: _info@autoriteitpersoonsgegevens.nl_   
+Website: _https://autoriteitpersoonsgegevens.nl/nl_
+
+Norway 
+
+**Datatilsynet**   
+Postboks 8177 Dep.  
+0034 Oslo  
+Tel: +47 22 39 69 00  
+e-mail: _postkasse@datatilsynet.no_
+
+Website: _https://www.datatilsynet.no/English/_
+
+Poland 
+
+**The Bureau of the Inspector General for the Protection of Personal Data - GIODO**   
+ul. Stawki 2  
+00-193 Warsaw  
+Tel. +48 22 53 10 440  
+Fax +48 22 53 10 441  
+e-mail: _kancelaria@giodo.gov.pl_ ; _desiwm@giodo.gov.pl_   
+Website: _http://www.giodo.gov.pl/_
+
+Portugal 
+
+**Comissão Nacional de Protecção de Dados - CNPD**   
+R. de São. Bento, 148-3°  
+1200-821 Lisboa  
+Tel. +351 21 392 84 00   
+Fax +351 21 397 68 32  
+e-mail: _geral@cnpd.pt_   
+Website: _http://www.cnpd.pt/_
+
+Romania 
+
+**The National Supervisory Authority for Personal Data Processing**   
+President: Mrs Ancuţa Gianina Opre  
+B-dul Magheru 28-30  
+Sector 1, BUCUREŞTI  
+Tel. +40 21 252 5599   
+Fax +40 21 252 5757  
+e-mail: _anspdcp@dataprotection.ro_   
+Website: _http://www.dataprotection.ro/_
 
-The name of the _server_ the cookie was sent from 
+Slovakia 
 
-The lifetime of the cookie 
+**Office for Personal Data Protection of the Slovak Republic**   
+Hraničná 12  
+820 07 Bratislava 27  
+Tel.: + 421 2 32 31 32 14  
+Fax: + 421 2 32 31 32 34  
+e-mail: _statny.dozor@pdp.gov.sk_   
+Website: _http://www.dataprotection.gov.sk/_
 
-A value - usually a randomly generated unique number 
+Slovenia 
 
-The website server which sent the cookie uses this number to recognise you when you return to a site or browse from page to page. Only the server that sent a cookie can read, and therefore use, that cookie. 
+**Information Commissioner**   
+Ms Mojca Prelesnik  
+Zaloška 59  
+1000 Ljubljana  
+Tel. +386 1 230 9730  
+Fax +386 1 230 9778  
+e-mail: gp.ip@ip-rs.si  
+Website: _https://www.ip-rs.si/_
 
-**Source: _ _http://www.allaboutcookies.org/uk__**
+Spain 
 
-Navigation data mainly consist of the type and version of the browser used by your equipment (Chrome, Internet Explorer, Safari, Firefox, Opera, etc.), the preferred language of the browser software installed on your equipment, the type of operating system used (Windows, Mac Os, Linux, etc.), the IP (Internet Protocol) address of a connected terminal, the URL (often beginning with http://www.) of a web page specific to a particular terminal’s use of a service, the identification and content of a cookie file stored in a terminal, the date, time and duration of a terminal’s connection to an element of a Service (a page, content, section, user account, etc.). 
+**Agencia de Protección de Datos**   
+C/Jorge Juan, 6  
+28001 Madrid  
+Tel. +34 91 266 35 17  
+e-mail: _internacional@agpd.es_  
+Website: _https://www.agpd.es/_  
+Also: https://sedeagpd.gob.es/sede-electronica-web/  
 
-Some navigation data, such as your equipment’s IP address, are _essential for communication on the Internet_. 
 
-Other navigation data must by law be kept by us to _ensure the security of our Services_ , to detect, prevent or track intrusion attempts and other malicious activities, or breaches of our GTCU, or to respond to requests from third parties permitted by law to request or require disclosure of navigation and personal data of users of our Services. Such data may be, for instance, an IP address, the date, time and duration of a terminal’s connection, the Service used, the content accessed or downloaded, or a click on a feature our Services. 
+Sweden 
 
-Lastly, the recording of some navigation data helps us to _tailor our Services to your equipment and usage_ by adapting the content or display of the Services to your equipment or preferences. 
+**Datainspektionen**   
+Drottninggatan 29  
+5th Floor  
+Box 8114  
+104 20 Stockholm  
+Tel. +46 8 657 6100   
+Fax +46 8 652 8652  
+e-mail: _datainspektionen@datainspektionen.se_   
+Website: _http://www.datainspektionen.se/_
 
-**Who is likely to place cookies in your terminal, and for what purpose?**
+UK 
 
-**Eurosport**
+**The Information Commissioner’s Office**   
+Water Lane, Wycliffe House   
+Wilmslow - Cheshire SK9 5AF   
+Tel. +44 1625 545 745   
+e-mail: _international.team@ico.org.uk_   
+Website: _https://ico.org.uk_
 
-Eurosport may place cookies in your terminal for various purposes: to help you to navigate our Services more easily, to administer and provide our Services to you and to deliver better and more personalised Services. 
+**Annex 2**
 
-The cookies we place enable us for instance: 
+AUSTRIA (AT) 
 
-\- to adapt the display format of the content and Services to your terminal, 
+BELGIUM (BE) 
 
-\- to track your navigation in order to identify your preferences in terms of content, 
+BULGARIA (BG) 
 
-\- to offer you customised content based on your preferences identified via your navigation data, 
+CZECH REPUBLIC (CZ) 
 
-\- to display the items you have placed in your shopping basket, and 
+DENMARK (DK) 
 
-\- to recognise your terminal, so that you do not have to re-enter the same information each time you access our Services. 
+FAROE ISLANDS (FO) 
 
-We collect your navigation data as and when you access and use our Services. These data are intended for us and may therefore be used by us and/or our subsidiaries and/or our contractors on our behalf, in accordance with the confidentiality and security obligations prescribed by law. 
+GREENLAND (GL) 
 
-**Third parties: service providers, partners, advertisers, advertising sales houses**
+FINLAND (FI) 
 
-Third parties are likely to place cookies in your terminal. 
+FRANCE (FR) 
 
-We do not control the placing and use of cookies by third party companies. These companies have their own privacy policies and data collection practices. Please refer to each company’s privacy policy to better understand the controls available to you. 
+GUYANE (GF) 
 
-The purpose of the third party cookies of which we are aware is to provide audience-measurement and social-sharing functions and to customise content or advertising. 
+FRENCH POLYNESIA (PF) 
 
-**Measurement: audience, traffic, technique**
+GUADELOUPE (GP) 
 
-Audience-measurement cookies are used by third parties for us to obtain information about your browsing patterns, so as to (among other things): 
+MARTINIQUE (MQ) 
 
-\- understand how you arrive at a website, and reconstruct your path; 
+MAYOTTE (YT) 
 
-\- count the number of visitors to a Service, website page and/or Service content, with a view, in particular, to improving the content we offer; 
+MONACO (MC) 
 
-\- compile traffic and/or conversion statistics; 
+NEW CALEDONIA (NC) 
 
-\- follow up on invoicing by our partners (advertisers and SEM and Affiliate Marketing firms) on our Service; and 
+REUNION (RE) 
 
-\- access your user account. 
+SAINT PIERRE AND MIQUELON (PM) 
 
-These tools use technologies for tracking website users and associating a ‘referrer’ or campaign with a unique identifier. 
+GERMANY (DE) 
 
-**Social media share buttons**
+GREECE (GR) 
 
-We offer you the possibility to share content of the Services with other people or render public your viewing or appreciation of such content by clicking on [social media sharing buttons] such as Recommend (Facebook, Google+), Tweet (Twitter) or Send by email. 
+HUNGARY (HU) 
 
-Even if you do not use social media share buttons when visiting our Services, the social networks that provided the buttons can identify you through them. Indeed, the mere fact that your account with a social network is activated on your terminal (open session) when you browse our Services can allow the that network to monitor your navigation of our Services. 
+IRELAND (IE) 
 
-**Advertising spaces**
+ISRAEL (IL) 
 
-Cookies are likely to be placed in your terminal through advertising spaces on our Services. 
+VATICAN CITY STATE (VA) 
 
-These cookies may be set at the level of the advertising content displayed in our advertising spaces either by the _advertisers_ themselves, or by their ad serving providers ( _third party ad servers_ ) such as communications consultancies, audience measuring firms and targeted advertising providers: the cookies are associated with the advertising content. 
+ITALY (IT) 
 
-The main purposes for which advertisers and third party ad servers use cookies are: 
+SAN MARINO (SM) 
 
-\- to count the number of displays of advertising content in our advertising spaces, identify the advertisements displayed and calculate the amounts payable to the various advertising stakeholders (communications agency, advertising sales house, publishing medium, etc.); 
+LUXEMBOURG (LU) 
 
-\- to compile statistics; 
+NETHERLANDS (NL) 
 
-\- to collect navigation data on terminals browsing the Services and, for instance, limit the number of times an advertisement is displayed and/or enable advertisements to appear in a precise order; 
+NORWAY (NO) 
 
-\- to recognise your terminal if and when you subsequently browse any third party website or service on which these advertisers third party ad servers also issue cookies and, if applicable, adapt these third party websites and services, or the advertisements they show, to any navigation data from your terminal that may be known to them; and 
+POLAND (PL) 
 
-\- to determine whether a particular advertising campaign has produced the desired results by keeping track of how many people clicked on the advertising content or visited the advertiser’s website after seeing the advertisement on our Services. 
+PORTUGAL (PT) 
 
-Cookies may also be placed in our advertising spaces by the company in charge of managing our advertising spaces: the _advertising sales house_. These cookies enable the advertising sales house: 
+ROMANIA (RO) 
 
-\- to do the counting necessary to calculate the amounts to be paid to the various advertising stakeholders and to compile statistics; 
+RUSSIAN FEDERATION (RU) 
 
-\- to customise the advertising spaces managed by it to your display preferences on your terminal; 
+ANDORRA (AD) 
 
-\- to customise the advertising content displayed on your terminal through our advertising spaces to your browsing patterns and geographic location; 
+SPAIN (ES) 
 
-\- to customise the advertising content displayed on your terminal through our advertising spaces to your browsing patterns on third party websites. 
+SWEDEN (SE) 
 
-**How long do cookies last?**
+SWITZERLAND (CH) 
 
-There are two types of cookies: _session cookies_ and _persistent cookies_. Session cookies are created temporarily in your browser's subfolder while you are visiting a website and are automatically deleted when you leave the site. Conversely, persistent cookies are re-activated when you return to the same website, and remain in your browser's subfolder until they expire. 
+TURKEY (TR) 
 
-Generally, cookies have a maximum lifespan of 13 months. 
+UNITED KINGDOM (GB) 
 
-**How can you consent or object to cookies being placed in your terminal?**
+GIBRALTAR (GI) 
 
-Cookies can be generated in various ways: depending on your preferences, you can authorise, refuse or disable cookies. If you disable a cookie already installed on your browser, it will not be active any more; however will disappear from your browser only at the end of its lifespan. Please note that blocking all cookies can render some of our Services unavailable to you or have a negative effect on the performance, efficiency or customization of our Services. 
+GUERNSEY (GG) 
 
-**You can express your choices and change your wishes regarding cookies, via your browser**
+ISLE OF MAN (IM) 
 
-Each browser is configured differently. You should follow the instructions given by the publisher of your browser. As of the date of revision of this Privacy Policy, these instructions are available through the following links: 
+JERSEY (JE) 
 
-If you use Internet Explorer: 
+WALLIS AND FUTUNA (WF) 
 
-_http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies_
+ALBANIA (AL) 
 
-If you use Safari: 
+ARMENIA (AM) 
 
-_http://support.apple.com/kb/PH11913_
+AZERBAIJAN (AZ) 
 
-If you use Firefox: 
+BELARUS (BY) 
 
-_https://support.mozilla.org/en-US/kb/settings-privacy-browsing-history-do-not-track_
+BOSNIA AND HERZEGOVINA (BA) 
 
-If you use Chrome: 
+CROATIA (HR) 
 
-_https://support.google.com/chrome/answer/95647?hl=en &hlrm=en_
+CYPRUS (CY) 
 
-If you use Opera: 
+ESTONIA (EE) 
 
-_http://help.opera.com/Windows/10.00/en/cookies.html_
+GEORGIA (GE) 
 
-If you use different terminals, make sure you configure the settings of the corresponding browser according to your preferences. 
+ICELAND (IS) 
 
-**Social media sharing buttons.** The data protection policies of social networks should allow you to exercise your choices regarding cookies, notably by configuring your user account settings on each such network. 
+KAZAKSTAN (KZ) 
 
-**To find out more** about cookies and obtain cookie management tools, please visit the following websites: 
+LATVIA (LV) 
 
-_http://www.cnil.fr/vos-droits/vos-traces/_
+LIECHTENSTEIN (LI) 
 
-_http://www.allaboutcookies.org/manage-cookies/_
+LITHUANIA (LT) 
 
-_https://www.ghostery.com/en/_
+MACEDONIA (MK) 
 
-_http://www.iab.net/privacymatters/4.php_
+MALTA (MT) 
 
-_http://www.youronlinechoices.com/uk/your-ad-choices/_
+MOLDOVA (MD) 
 
-_http://www.aboutads.info/choices/_
+MONTENEGRO (ME) 
+
+SERBIA (RS) 
+
+SLOVAKIA (SK) 
+
+SLOVENIA (SI) 
+
+UKRAINE (UA) 
+
+BRITISH INDIAN OCEAN TERRITORIES (IO) 
+
+FRENCH SOUTHERN TERRITORIES (TF) 
+
+SAINT-HELENE (SH) 
