@@ -1,167 +1,165 @@
-> *The following text is extracted and transformed from the sproutsocial.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223064705id_/https%3A//sproutsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sproutsocial.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616034218id_/https%3A//sproutsocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sprout Social
 
-Sprout Social™ is committed to the privacy of our customers and their data. Our Privacy Policy applies to all users of Sprout Social™ websites and services, including but not limited to [www.sproutsocial.com](https://www.sproutsocial.com/), [www.getbambu.com](https://www.getbambu.com/), and [www.mustbepresent.com](https://www.mustbepresent.com/) (depending on your use, the “Site”). Depending on the Sprout Social service you are using, the Sprout Social Terms of Service or the service-specific Terms of Service (respectively, the “Terms”) is incorporated herein by reference. Our Terms of Service are available at: 
+**Last updated: 05/2/2018**
 
-  * Sprout Social: <https://sproutsocial.com/terms>
+Sprout Social™ respects your right to privacy. This Privacy Policy explains who we are, how we collect, share and use personal information about you and how you can exercise your privacy rights.
+
+Our Privacy Policy applies to all users of Sprout Social websites and services, including but not limited to www.sproutsocial.com, www.getbambu.com, and www.simplymeasured.com (depending on your use, the “Site” and/or the “Service”). For further information on the terms which govern your use of the respective Service, see the following links:
+
+  * Sprout Social: <https://sproutsocial.com/terms/>
   * Bambu: <https://getbambu.com/terms/>
-  * Landscape: <https://sproutsocial.com/landscape/terms>
-  * Mustbepresent: <https://mustbepresent.com/#!tos/>
+  * Simply Measured: <https://simplymeasured.com/subscription-agreement/>
 
 
 
-All defined terms in the Privacy Policy have the same meaning as defined in the respective Terms. Sprout Social™ adheres to the following policies with regards to Your privacy. 
+If you have any questions or concerns about our use of your personal information, then please contact us using the contact details provided in the “How to Contact Us” section of this Privacy Policy.
 
-  1. ## Information Collected
+  1. ## What does Sprout Social do?
 
-When You enter the Site, We automatically collect information such as Your browser type and IP address. To offer You meaningful products and services and for the reasons set forth in this policy, We collect information about you, including Personally Identifiable Information, from the following sources: 
+Sprout Social is a US headquartered provider of software for social media-related management, social advocacy, social analytics, and social listening. For more information about Sprout Social, please see the “About Us” section of our Site at [https://sproutsocial.com/about](https://web.archive.org/about). Simply Measured, Inc. is a subsidiary of Sprout Social, Inc.
 
-    * **Information We Collect Directly from You:** The type of information that we collect directly from you varies based on your interaction with our Site and our Services. We collect information directly from You when you complete an application or other forms on the Site and/or Software. We also collect information that you send us via any medium, including, but not limited to email, telephone, and social media interaction; or 
-    * **Information We Collect Automatically:** If You use a mobile device platform to access the Services or communicate with Sprout Social™, information transmitted from Your mobile device; or 
-    * **Information We Purchase:** Information purchased from third parties. 
-    1. #### Registration
+  2. ## Information Collected
 
-Sprout Social™ may request information from you during the registration process including, but not limited to: name, email address, company name and address, phone number, payment information, and/or social media profile information and authorization. Sprout Social™ may request other information from You during or after the registration process that Sprout Social™ uses to provide better and more customized services to Users. You acknowledge that this information is personal to You, and by creating an account on Sprout Social™, You may allow others, including Sprout Social™, to identify You and to allow Sprout Social™ to use Your information in accordance with the Terms. 
+We collect information about visitors to our Sites, employees of our customers and users of our customer’s social media pages / properties.
 
-    2. #### Customer Service
+Such information is collected about you, including personal information, from the following sources:
 
-We collect information when You interact with Sprout Social’s customer service in order to accurately categorize and respond to customer inquiries and investigate breaches of Our terms. 
+    * Information We Collect Directly from You: The type of information that we collect directly from you varies based on your interaction with our Site and our Service. We collect information directly from you when you register an account with us, liaise with us on a customer service issue, complete an application or other forms on the Site and/or software. We also collect information that you send us via any medium, including, but not limited to email, telephone, as well as social media interactions like your social media handle, username, profile, and messages with our customers; or
+    * Information We Receive from Customers: We may receive information from customers in order to provide our Service. Such information may include a user’s social media handle, username, profile, biography and messages or communications with our customers. We collect information from individuals employed by our customers such as their contact information in order to provide our Service.
+  3. ## Information Collected Automatically
 
-    3. #### Using Third Party Services and Visiting Third Party Sites
+When you visit our Site or use our Service, we may collect certain information automatically from your device. In some countries, including countries in the European Economic Area, this information may be considered personal information under applicable data protection laws.
 
-Information You provide to third-party sites/websites through the Service are not within the control of Sprout Social™ and You provide such information at Your own risk. The terms and conditions of use and the privacy policies of those websites that You provide information to through the Service will govern their use of such information. Any information You share with a third-party site through the Service will be collected by Sprout Social™. Sprout Social™ will use such information in compliance with this Privacy Policy. 
+Specifically, the information we collect automatically may include information like your IP address, device type, unique device identification numbers, browser-type, broad geographic location (e.g. country or city-level location), third party webpages accessed via the Service and other technical information. We may also collect information about how your device has interacted with our Site, including the pages accessed and links clicked, or Service, including content accessed.
 
-    4. #### Information Collected Automatically
+Collecting this information enables us to better understand the visitors who come to our Site or use our Service, where they come from, and what content and functionality is of interest to them. We use this information for our internal analytics purposes and to improve the quality and relevance of our Site and/or Service to our visitors and users.
 
-Use of Cookies. The Site may send a cookie to Your computer. Cookies allow us to recognize You as a user when You return to the Sprout Social™ website using the same computer and web browser and to monitor how you use the Site. We use cookies to identify which areas of Our site You have visited, so the next time You visit the site, those pages may be readily accessible. We also may use this information to better personalize the content that You see on the Site. We also use cookies to automatically capture activity on the Site, such as where You click, how You scroll through the Site, or what fields you enter text into (without seeing the actual text you enter). Most browser software can be set to reject Cookies. However, if You reject Our Cookies, certain functionality on the Site may not work correctly or at all. 
+Some of this information may be collected using cookies and similar tracking technology, as explained further under the heading “Cookies and similar tracking technology” below and in our [Cookie Notice](https://web.archive.org/cookie-notice/).
 
-We may allow authorized third parties to place or recognize a unique cookie on Your browser. Sprout Social™ does not store unencrypted personally identifiable information in the cookies. 
+  4. ## Do-Not-Track
 
-If You send us notice that you object to our use of cookies, a “disagree” cookie will be stored in your browser and Sprout Social™ will not collect any session data. You can object to the collection and analysis of this anonymous data by emailing Your request to opt out to [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com). 
+Currently, our systems do not recognize browser “do-not-track” requests. You may, however, disable certain tracking as discussed in this Privacy Policy (e.g., by disabling cookies, or using ‘private’ browsing modes).
 
-    5. #### Web Beacons
+  5. ## Use of Personal Information
 
-Sprout Social™ also may use web beacons, pixels, anonymous ad network tags, and cookies to collect information about Your use of the Site and the websites of selected sponsors and advertisers, to collect anonymized, aggregated auditing, research and reporting for advertisers, and to collect data related to Your use of special promotions or newsletters. The information collected by Web Beacons also allows us to statistically monitor how many people open Our emails and for what purposes these actions are being taken. Our Web Beacons are not used to track Your activity outside of the Site or the websites of Our sponsors. However, because Your web browser requests advertisements and web beacons directly from ad network servers, these networks can view, edit or set their own cookies, just as if You had requested a web page from their site. If You are a non-registered Visitor to the Site, the only information We collect will be Non-Personal Information through the use of cookies or web beacons. 
+Sprout Social processes your personal information for the following purposes:
 
-    6. #### Log files, IP Addresses and information about Your computer and mobile device
-
-Due to the communications standards on the internet, when You visit the Site We automatically receive the URL of the site from which You came and the site to which You are going when You leave Sprout Social’s Site. Sprout Social™ also receives the internet protocol (“IP”) address of Your computer (or the proxy server You use to access the World Wide Web), Your computer operating system and type of web browser You are using, email patterns, Your mobile device (including Your UDID or Vendor Identification) and mobile operating system (if You are accessing the Site using a mobile device), as well as the name of Your ISP or Your mobile carrier. Sprout Social™ may also receive location data passed to it from third-party services or GPS-enabled devices that You have enabled. Also, as described above in Section 1.D. Sprout Social™ receives information when You access third-party web pages through the Service. The link between Your IP address and Your personally identifiable information is not shared with third parties without Your permission, except as described in Section 8. ("When We May Disclose Your Information"), below. 
-
-  2. ## Do-Not-Track
-
-Currently, our systems do not recognize browser “do-not-track” requests. You may, however, disable certain tracking as discussed in this Privacy Policy (e.g., by disabling cookies, or using ‘private’ browsing modes). 
-
-  3. ## Exemptions from Privacy Policy
-
-Our Privacy Policy does not apply to any information You may send to Sprout Social™ by email or instant messaging programs (i.e. AOL, Yahoo, etc.), as email and instant messages are not recognized as secure communication forms. As such, We request that You do not send any information, which You consider private, to us by email or instant message. Furthermore, Our Privacy Policy does not apply to any information You post from Our Software to other websites (i.e. Twitter, Facebook, etc.), due to the public nature of such postings. 
-
-  4. ## Use of Personally Identifiable Information
-
-Sprout Social™ uses and/or intends to use Personally Identifiable Information to:
-
-    * Operate and improve the Site;
-    * Provide Users with the Service and other products and services that a User may request or that a User has expressed interest in;
+    * Operate and improve the Site and Service;
+    * Provide users or customers with the Service and other products and services that a user or customer may request or that a user or customer has expressed interest in;
     * Facilitate subscription processing, reviews and analysis;
-    * Evaluate User interest and needs in order to improve the Service and make available other offers, products or services;
-    * Evaluate the types of offers, products or services We make available to Users and potential Users;
-    * Track use of the Services;
+    * Evaluate user interest and needs in order to improve the Service and make available other offers, products or services;
+    * Evaluate the types of offers, products or services we make available to users or customers and potential users or customers;
+    * Monitor use of the Service;
     * Provide customer support;
-    * Communicate and provide additional information that may be of interest to Users through email or other means, such as special offers, announcements, and marketing materials;
-    * Send You reminders, technical notices, updates, security alerts and support and administrative messages, service bulletins, or marketing;
-    * Provide advertisements to You through email messages; and
-    * Manage Our everyday business needs such as Site administration, forum management, fulfillment, analytics, fraud prevention, enforcement of Our corporate reporting obligations, Terms of Use or to comply with the law.
-  5. ## Links/Postings to Other Sites
+    * Communicate and provide additional information that may be of interest to users through email or other means, such as special offers, announcements, and marketing materials;
+    * Conduct online research surveys regarding the Site and/or Service;
+    * Combine datasets to create aggregated data for internal evaluation and analysis;
+    * Share anonymised or personalised tokens across the Sprout Social and Simply Measured platforms in order to provide the Service;
+    * Send you reminders, technical notices, updates, security alerts and support and administrative messages, service bulletins, or marketing;
+    * Provide advertisements to you through email messages; and
+    * Manage our everyday business needs such as Site and/or Service administration, forum management, fulfillment, analytics, fraud prevention, enforcement of our corporate reporting obligations, Terms of Use and any other contractual agreement relating to our Service or to comply with the law.
+  6. ## To Whom We May Disclose Your Information
 
-The Site and/or Software may contain links to other websites. Sprout Social™ is not responsible for the actions, practices, or content of such websites linked to or from the Site and/or Software. You understand that such websites may have their own legal documents to which You must agree to prior to using and that We have no control over these legal documents. As always, You understand that it is Your responsibility to verify Your legal use of a website as well as use of information from the website with the corresponding website owner 
+We may disclose your information, including personal information, to the following categories of recipients:
 
-  6. ## Market Research
+    * to our affiliates third party services providers and partners who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help to enhance the security of our Site or Service), or who otherwise process personal information for purposes that are described in this Privacy Policy or notified to you when we collect your personal information. In a limited number of countries and only where permitted by applicable law we provide contact information of customers / potential customers to a reseller to market our Service.
+    * to any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or court order or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person;
+    * to a potential buyer (and its agents and advisers) in connection with any proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use your personal information only for the purposes disclosed in this Privacy Policy;
+    * to any other person with your consent to the disclosure.
 
-Sprout Social™ may conduct online research surveys in order to gather feedback about the Site and opinions on important issues, through email invitations. When participating in a survey, We may ask You to submit Personally Identifiable Information. This Personally Identifiable Information is used for research purposes, and is not used for sales solicitations. Personally Identifiable Information collected through market research will be used only by Sprout Social™ and will not be given or sold to a third party without Your consent or as otherwise permitted by this Privacy Policy. 
+We do not share personal information with third parties for their own marketing purposes.
 
-  7. ## Use of Aggregate Data
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Sprout Social™ may combine information You provide through the Site with information from other users to create aggregate data that may be disclosed to third parties. Aggregate information does not contain Your personal contact information. 
+Sprout Social is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Sprout Social complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-  8. ## When We May Disclose Your Information
+  7. ## Legal basis for processing personal information (EEA visitors / users only)
 
-We do not share Personally Identifiable Information with third parties for their own marketing purposes. We may disclose your information, including Personally Identifiable Information, for the following purposes: 
+If you are a visitor or user from the European Economic Area, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
 
-    1. We may share Personally Identifiable Information with Our contractors and service providers that perform services on Our behalf, including, but not limited to, operation of the Site technology, marketing services, and other related services. Access to Your Personally Identifiable Information by such contractors and service providers is limited to the information reasonably necessary for the contractor to perform its limited function for Sprout Social™. We also contractually require that such contractors and service providers: 1) protect the privacy of Your Personally Identifiable Information consistent with this Privacy Policy, and 2) not use or disclose Your Personally Identifiable Information for any purpose other than providing us with products and services as required by law. 
-    2. We may share Personally Identifiable Information We collect, as permitted by law, with companies such as credit reporting agencies, or servicing and processing companies, or when required or advised to do so in response to a valid legal requirement to release this information such as a state or federal law, regulation, search warrant, subpoena, or court order; or (2) in special cases, such as in response to a physical threat to You or others, to protect property, or defend or assert legal rights, to defend ourselves in litigation. In the event that We are legally compelled to disclose Your Personally Identifiable information to a third party, We will attempt to notify You unless doing so would violate the law or court order. 
-    3. Finally, Sprout Social™ may provide content and services to You through websites other than Our own. Sprout Social™ will not disclose Your Personally Identifiable Information to these 3rd party websites without Your consent, but You should be aware that any information You disclose on such sites is NOT subject to this Privacy Policy. 
+However, we will normally collect personal information from you only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information from you.
 
-If you request that we do not share Your personal data with a third-party, that request may result in your inability to use some or all of a Sprout Social™ service. If Your access to the Service is terminated based upon Your request that We do not share Your personal data with a third-party and that requests results in Your inability to use some or all of the Service, Your resulting inability to use the Service shall not be a basis for a refund or to avoid charges for the Service that You previously agreed to. 
+If we ask you to provide personal information to comply with a legal requirement or to perform a contact with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
 
-  9. ## Access, Correction and Deletion of Personally Identifiable Data
+Similarly, if we collect and use your personal information in reliance of our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are.
 
-You may request access to a report of the Personally Identifiable Information we maintain concerning Your use of the Service and you may request that the Personally Identifiable Information that we have collected and maintain be corrected or deleted. In order to make this request, please contact us at [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com). Please be aware that if you request that we delete Your Personally Identifiable Information, You may no longer have access to the Service. If Your access to the Service is terminated based upon Your request that We delete Your Personally Identifiable Information, please be advised that Your resulting inability to use the Service shall not be a basis for a refund or to avoid charges for the Service that You previously agreed to. 
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the “How to Contact Us” heading below.
 
-  10. ## Security Policy & User ID/Password
+  8. ## Cookies and similar tracking technology
 
-Our site utilizes various information security measures such as internet firewalls, an intrusion detection system, encrypted data transmission, and operating procedures that are designed to protect Your personal data, accounts, passwords, etc. You should protect Your user ID and password and NOT share it with anyone. If You believe Your user ID and password have been compromised and You have trouble changing your user ID/password on the Site or within the application, please contact Our technical support department ([support@sproutsocial.com](mailto:support@sproutsocial.com)). 
+We use cookies and similar tracking technology (collectively, “Cookies”) to collect and use personal information about you, including to serve interest-based advertising. For further information about the types of Cookies we use, why, and how you can control Cookies, please see our [Cookie Policy](https://web.archive.org/cookie-notice/).
 
-  11. ## CAN-SPAM Compliance Notice
+  9. ## Your Data Protection Rights
 
-We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any Services you have requested or received from us. 
+You have the following data protection rights:
 
-  12. ## Transfer of Ownership
+    * If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us using the contact details provided under the “How to Contact Us” heading below. Note that if you submit a request to delete your personal information, this may prohibit you using the Site and/or Service.
+    * In addition, if you are a resident of the European Union, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. Again, you can exercise these rights by contacting us using the contact details provided under the “How to Contact Us” heading below. Note that if you submit such a request, this may prohibit you using the Site and/or Service.
+    * You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing emails we send you. To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided under the “How to Contact Us” heading below.
+    * Similarly, if we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+    * You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
 
-If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company. In any such transfer of information, Your user information would remain subject to the promises of Our then current Privacy Policy. 
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. Where we process your personal information solely on behalf of a customer, we may be legally required to forward your request directly to our customer and social media business partners for their review / handling.
 
-  13. ## Notice to Residents of Countries outside of the United States of America
+  10. ## Security & User ID/Password
 
-Sprout Social™ is headquartered in the United States of America. Personally Identifiable Information may be accessed by us or transferred to us in the United States or to Our affiliates, business partners, merchants, or service providers elsewhere in the world. By providing us with Personally Identifiable Information, You consent to this transfer in compliance with applicable law (in the case of data transfers from the EEA or Switzerland, these data transfers are covered under the Privacy Shield Framework). We will protect the privacy and security of Personally Identifiable Information according to Our Privacy Policy, regardless of where it is processed or stored. See below for additional information about our participation in the Privacy Shield program. 
+Our Site and/or Service utilizes various appropriate technical and organizational security measures, which include, but are not limited to, network and host security controls (e.g., firewalls, intrusion detection systems, etc.), data encryption (both at rest and during transmission), and operating procedures that are designed to protect your personal information. You should protect your user ID and password and NOT share it with anyone. Additionally, enabling two-step verification, where available, is also recommended. If you believe your user ID and password have been compromised or you have trouble changing your user ID/password on the Site or Service, please contact our technical support department ([support@sproutsocial.com](mailto:support@sproutsocial.com)).
 
-  14. ## California Privacy Rights
+  11. ## Data retention
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personally Identifiable Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personally Identifiable Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by Sprout Social™ pursuant to Section 1798.83 of the California Civil Code, please contact us via email to [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com). 
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).
 
-  15. ## EU - US Privacy Shield Framework and Swiss—US Privacy Shield Framework
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, in the limited circumstances where this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-Sprout Social complies with the EU—U.S. Privacy Shield Framework and the Swiss—U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Sprout Social has certified to the Department of Commerce that it adheres to that its processing of Personally Identifiable Information from EU member countries, European Economic Area and Switzerland is in accordance with the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability (the “Principles”). If there is any conflict between the terms in this privacy policy and the Principles, the Principles shall govern. To learn more about the Privacy Shield program and to view our certification, please visit <https://www.privacyshield.gov/list>. Sprout Social is subject to the investigatory and enforcement authority of the Federal Trade Commission. 
+  12. ## CAN-SPAM Compliance Notice (U.S. and Canadian users only)
 
-**Information We Process.** We collect, in accordance with the Privacy Shield principles, the categories of information described in Section 1 (Information Collected) above. We process this information for the purposes described in Sections 4 (Use of Personally Identifiable Information), 6 (Market Research) and 7 (Use of Aggregate Data). 
+We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the unsubscribe or opt-out instructions contained in the email. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you emails about your account or any Service you have requested or received from us.
 
-**Accessing Personally Identifiable Information.** The Privacy Shield Principles provide individuals located in the EU and Switzerland whose Personally Identifiable Information we process with the right to access their Personally Identifiable Information in order to review, correct, amend or delete information processed under the Principles. EU and Swiss individuals that are Sprout customers who would like to access their Personally Identifiable Information may contact us at [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com). If your Personally Identifiable Information was provided to Sprout Social by one of our customers (where Sprout Social serves as a data processor), you should contact our customer directly to access your information. 
+  13. ## California Privacy Rights
 
-**Transfers to Third Parties.** As described in Section 8 (When We May Disclose Your Information) above, we transfer Personally Identifiable Information from the EU and Switzerland to our third party data processors. We contractually require third parties to which we transfer Personally Identifiable Information to provide the same level of protections as the Principles. Sprout Social remains responsible for the Personally Identifiable Information we receive and transfer under Privacy Shield. 
+Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personally Identifiable Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personally Identifiable Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by Sprout Social pursuant to Section 1798.83 of the California Civil Code, please contact us via email at [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com).
 
-In accordance with our legal obligations, we also may transfer, subject to a lawful request, Personally Identifiable Information to public authorities in the US or the EU and Switzerland for law enforcement or national security purposes. 
+  14. ## International Transfers
 
-**Contacting Us, Complaints and Dispute Resolution.** EU and Swiss individuals who have questions or complaints about how we process their Personally Identifiable Information may contact us at [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com). We will work to resolve your issue and will respond within 45 days of receipt. 
+Your personal information may be transferred to, and processed in, countries other than the country in which you are resident. These countries may have data protection laws that are different to the laws of your country.
 
-Sprout Social has further committed to refer unresolved privacy complaints under the EU-U.S. and Swiss—U.S Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. 
+Specifically, our servers are located in the United States, and our group companies and third party service providers and partners operate around the world. This means that when we collect your personal information we may process it in any of these countries.
 
-Individuals may also submit complaints through their local Data Protection Authority (DPA). We will work with the Department of Commerce to resolve any complaints forwarded by a DPA. Finally, if we are unable to resolve any complaints through any of the above methods, an EU or Swiss individual may invoke binding arbitration in accordance with the Privacy Shield Framework. 
+However, we have taken appropriate safeguards to ensure that your personal information will remain protected in accordance with this Privacy Policy. These include our participation in the E.U. – U.S. Privacy Shield Framework, additional details of which are set out below.
 
-  16. ## Privacy Complaints in Brazil
+  15. ## EU – US Privacy Shield Framework and Swiss—US Privacy Shield Framework
 
-In circumstances in which Brazil law is controlling, We commit to resolve complaints about Your privacy and Our collection or use of Your Personally Identifiable Information. We have further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism. 
+Sprout Social complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield.  Sprout Social has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
-  17. ## Information and Other Rights, Contact
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Sprout Social is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission.
 
-Upon written request, We would be happy to provide You with information as to whether – and if so, which – personal data We store in relation to You. Should Your personal data be incorrect, You may have this rectified immediately. Any such information or modification is free of charge. 
+  16. ## Contacting Us, Complaints and Dispute Resolution
 
-Moreover, You are entitled to revoke Your consent to use of data in the future, in whole or in part. Should You desire this, We will delete or block your relevant data; however, doing so may result in Your inability to use the Service in whole or in part. 
+In compliance with the Privacy Shield Principles, Sprout Social, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield.  European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact us by email at [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com). We will work to resolve your issue and will respond within 45 days of receipt.
 
-In order to assert such rights, please contact Sprout Social at [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com). 
+Sprout Social has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you.
 
-  18. ## Sprout’s Access to Your Account
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
-You agree that Sprout Social™ can access Your account information in order to respond to Your service requests and/or as necessary, in Our sole discretion, to provide You with the Services. 
+  17. ## Privacy Complaints in Brazil
 
-  19. ## Your Acceptance of This Privacy Policy
+In circumstances in which Brazil law is controlling, we commit to resolve complaints about your privacy and our collection or use of your personal information. We have further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism.
 
-This is Our entire Privacy Policy and it supersedes any earlier version. You agree to it every time You use the Site and/or Software. 
+  18. ## Children
 
-If We make any material changes to this Privacy Policy, We will notify You by email or by posting a prominent notice on the Site prior to the change becoming effective. We encourage You to periodically review this page for the latest information on Our privacy practices. Your continued use of the Site or Service constitutes Your agreement to be bound by such changes to this Policy. Your only remedy, if You do not accept the terms of this Policy, is to discontinue use of the Site and Service. 
+Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requiring parental consent. Any person who provides their personal information to us through our Site or Service represents that they are older than 12 years of age.
 
-  20. ## Questions About This Privacy Policy
+  19. ## Updates to this Privacy Policy
 
-Should You have a privacy question about the Site and/or Software, please email Our customer service department ([support@sproutsocial.com](mailto:support@sproutsocial.com)). 
+We may update this Privacy Policy from time to time in response to changing legal, technical or business developments. When we update our Privacy Policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Policy changes if and where this is required by applicable data protection laws.
+
+You can see when this Privacy Policy was last updated by checking the “last updated” date displayed at the top of this Privacy Policy.
+
+  20. ## How to Contact Us
+
+If you have any questions or concerns about our use of your personal information, please contact us using the following details: [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com).
 
 
 
-
-Effective: June 28, 2017
