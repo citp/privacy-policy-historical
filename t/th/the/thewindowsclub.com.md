@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the thewindowsclub.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125003512id_/http%3A//www.thewindowsclub.com/tag/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewindowsclub.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616103935id_/http%3A//www.thewindowsclub.com/tag/privacy) for the most accurate reproduction.*
 
 # Privacy Archives - The Windows Club
+
+Privacy is the most looked feature in web browsers by modern internet users. Most of the website track you online to provide you relevant suggestions on products that you can buy. Not just that, your information can be used to […]
+
+Cortana is the defacto personal assistant Windows 10 comes with, and its used for many things apart from using it for search. That said, Microsoft also collects data from Cortana to improve the user experience. It includes voice, interests, and […]
+
+Today, we are talking about another plugin for your browser which can make sure that you are not tracked across the internet. It is easy to figure out if you are being tracked. If you get to see similar advertisements […]
+
+Advertisements are one of the major factors which drive the internet. It helps publishers & websites make money as they provide great content free to the visitors. What gets annoying about these is when they track you everywhere. If you […]
+
+Typically, whenever we set up a new device, we configure Windows settings. However, they need to be modified from time to time. Interestingly, Windows 10 v1803 makes it easier than before while adding more options for privacy. These options have […]
+
+As more and more services are going online, it has become essential to maintain online privacy. While you use more and more applications on your computer, there are increased chances of getting your personal information exposed. There are quite a […]
+
+The Internet has blended into our lifestyles so well that we take it for granted. Most of us use a series of gadgets that make use of the internet for various needs. With the advent of social media and live […]
+
+In our earlier post on how to manage Windows 10 Telemetry and Data Collection settings, we have seen how to configure and turn off or disable Windows 10 Telemetry & Data Collection for the entire system or for individual components […]
+
+Detoxification is important, be it your body or your digital accounts. Purposely or not, we often create so many accounts on various websites, leave our credentials there and forget. We hardly remember those less important accounts we have made over […]
 
 What if I tell you that there are big companies out there in the market whose names you are yet to hear, but they know you very well, in fact, more than what you can think of. They are termed […]
 
@@ -23,24 +41,6 @@ Windows 10 collects Telemetry that it sends back to its servers. Microsoft says 
 Wikileaks, an international non-profit organization that publishes secret information, fired a fresh salvo. The website that apparently got access to secret documents of U.S. Central Intelligence Agency (CIA) disclosed ingenious hacking techniques employed by the CIA for hacking everything from […]
 
 The redesigned and upgraded Microsoft Trust Center website now looks like a treasure trove of security information. This time it seems Microsoft has attempted to give more importance to the cloud, which means that website would actively address the security […]
-
-There’s something many computer users might not have known about their precious devices. You see, the computer you’re using right now to read this article is unique in its own way. It’s like you where a fingerprint can set you […]
-
-The Internet is definitely not a secure place for exchanging information. There are many prying eyes on you trying to get a piece of your secret information. In this era of free-flowing data; most of us use the Internet connection […]
-
-Microsoft Edge may not come with loads of features but this is still fast loading, secure and a good solution for regular web browsers. Edge takes care of the users’ privacy very well. Having said that, you also need to […]
-
-Has the point that Windows 10 is constantly collecting user data and sending it to Microsoft ever worried you? Although it is claimed that the data is collected to further improve user experience and solve genuine problems but some Windows […]
-
-Of late, we have been seeing a growing nexus between the companies that offer “always-on” devices that listen for our voice commands, and advertisers or marketers that unknowingly follow us around the web to create personalized user profiles. The symbiotic […]
-
-Microsoft has made some changes to how it collects personal data of users, and how users manage what the company collects. It’s a whole new web-based Privacy Dashboard that works and probably works better than what was available before. For […]
-
-Recently, Nvidia’s behavioral change in handling user’s data has caused concerns amongst Windows users. It was found that the graphics card maker’s latest driver package was installing unwanted telemetry elements. Telemetry, in layman’s terms, means monitoring data, a process of […]
-
-This post shows you how to configure Windows 10 Privacy settings & options using the built-in Windows Settings app, with a special focus on the new settings introduced under the General tab in Windows 10 Anniversary Update v1607. Windows 10 users […]
-
-Facebook is getting smarter in the way it interacts with people. You might have noticed the “People you may know” feature wherein Facebook suggests some random persons across the globe whom you may know directly or indirectly. You might as well wonder […]
 
 ### Post navigation
 
