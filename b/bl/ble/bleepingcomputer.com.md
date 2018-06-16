@@ -1,89 +1,202 @@
-> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231084756id_/https%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616041234id_/https%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-###### Updated January 24, 09, 2014
+_Effective May 24, 2018_    
+You can view our previous privacy policy (last updated December 2nd, 2017) [here](https://www.bleepingcomputer.com/previous-policy/).
 
-##### 1\. Overview
+### Table of Contents
 
-**Bleeping Computer** ® is strongly committed to protecting the privacy of consumers of its services and of visitors to its site. We want to contribute to providing a safe and secure environment for our members. This privacy policy (" **Privacy Policy** ") is designed to inform you about the type of information that Bleeping Computer LLC (" **BleepingComputer** ", " **we** " and " **us** " ) may gather or collect from you in connection with your use of this site (this " **Site** "). It also explains the conditions under which we use and disclose that information, and your rights in relation to that information.
-
-**BY ACCESSING THIS SITE, YOU AGREE TO BE BOUND BY THIS POLICY. IF YOU DO NOT AGREE TO THIS POLICY, IF YOU ARE UNDER 18 YEARS OF AGE, OR IF YOU ARE NOT PERMITTED BY LAW TO ENTER INTO LEGAL OBLIGATIONS, YOU SHOULD NOT USE THE SITE. WE MAY MODIFY THE POLICY FROM TIME TO TIME AND POST THOSE MODIFICATIONS HERE. EACH TIME YOU USE THE SITE, THE CURRENT VERSION OF THE PRIVACY POLICY WILL APPLY. ACCORDINGLY, WHEN YOU USE THE SITE, YOU SHOULD CHECK THE DATE OF THIS POLICY (WHICH APPEARS AT THE TOP) AND REVIEW ANY CHANGES SINCE THE LAST VERSION. YOUR CONTINUED USE OF THE SITE AFTER ANY SUCH MODIFICATION CONSTITUTES YOUR ACCEPTANCE OF THE MODIFIED POLICY.**
-
-##### 2\. Overview of the information we collect.
-
-A. Personally Identifiable Information
-
-BleepingComputer will collect personally identifiable information (e.g., name, e-mail address, postal address), from you when you voluntarily provide such information. For example, you may submit personally identifiable information (i) to register with the Site or use interactive parts of our Site where users can provide content and suggestions or participate in interactive discussions and/or (ii) to participate in optional events, sweepstakes, contests or promotion registrations.
-
-B. Aggregate Information
-
-Aggregate information is non-personally identifiable/anonymous information, such as type of web browser used, type of operating system, the domain name of your Internet Service Provider (ISP), and Internet Protocol (IP) addresses. Each time a visitor (whether they are registered or not) connects to a page on the Site, we log that visitor's IP address in our web server's log files. This is a common practice used by almost all sites and is used to track which pages visitors access and how much time is spent on a page.
-
-BleepingComputer also uses cookies to enhance user experience on the Site. Cookies are small text files that a web site sets on your computer's hard drive in order to recognize you in the future. Cookies make using our Site easier, as they allow you to register an account, stay logged in as you traverse the Site, and save your password for future visits. Third parties may use cookies as described in Section 4 below.
-
-You may disable cookies at any time. But, if you do not allow cookies from BleepingComputer, then you may not be able to use certain features of the Site.
-
-Certain web pages may contain invisible images, sometimes called web beacons that allow a web site to count users who have visited that page. BleepingComputer will only use web beacons within its Site for statistical purposes. Third parties may use web beacons as described in Section 4 below.
-
-##### 3\. Use and Disclosure of information collected by BleepingComputer
-
-A. Personally Identifiable Information
-
-We may use personally identifiable information for the following purposes: (i) validation of a user's registration, (ii) topic and forum subscription notifications, (iii) for Site administrators to contact a particular user, (iv) to notify a user that he or she won a contest, (v) performing customer service activities, (vi) making available services to you or notifying you about new services or offers you may find valuable, (vii) marketing materials. If you wish to opt-out of receiving marketing materials from us, please follow the instructions at the bottom of each email for opting out. Personally identifiable information will not be disclosed to any third parties, except as follows:
-
-  1. We may disclose personally identifiable information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the products or services of third parties, we may supply your contact information to third parties such data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. We may use data we have about you (such as the experience you have or the interests and preferences you have expressed) to determine whether you might be interested in the products or services of a particular third-party.
-  2. We may disclose personally identifiable information to companies and individuals we employ to perform functions on our behalf ( third party service providers ). Examples of such third party service providers may include companies who host our Web servers, analyze our data, provide marketing assistance, process credit card payments. These third party service providers will have access to your personally identifiable information only as necessary to perform their functions, but they are not authorized to retain, share, store or use your personally identifiable information for any purpose other than completion of the services for which they were hired.
-  3. We may disclose personally identifiable information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect the rights or property of BleepingComputer or its affiliated companies; (c) investigate or prevent a crime or protect national security or cooperate in investigating any incident in which we believe that you have abused the Site by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws; or (d) protect the personal safety of users or the public.
-  4. BleepingComputer may from time to time allow public visibility of user profiles. These profiles may contain personally identifiable information volunteered by its users. All information that may be publicly visible is provided entirely by the member and can be changed by the users when or if they edit their personal forum profile. (Please see Section 6 below for directions on how to edit your profile.)
-  5. From time to time Bleeping Computer may offer surveys, optional events, sweepstakes, contents, and promotions to members and/or visitors to the Site. Any personally identifiable information that is collected during these events will only be shared with another company for the purposes of delivery of a prize. By participating in a survey, event, sweepstakes, contest or promotion and by completing the submission you acknowledge that Bleeping Computer has hereby notified you and that you expressly agreed to the sharing of your submitted personally identifiable information.
-  6. We reserve the right to transfer all personally identifiable information in our possession to a successor entity in the event of a merger, acquisition, bankruptcy, creation of a new business entity, or other sale of all or a portion of our assets. Other than to the extent ordered by a court, the use and disclosure of all transferred personally identifiable information will be subject to this Privacy Policy, or to a new privacy policy. In the event of a new privacy policy, you will be notified of such and given the right to affirmatively opt-in to accept the new policy. Personally identifiable information submitted and/or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor entity.
+  1. Who We Are & Privacy Policy Overview
+  2. Registering an account at BleepingComputer
+  3. What data BleepingComputer collects from you
+  4. What data third-parties may collect
+  5. The rights you have to your data
+  6. Reasons BleepingComputer will contact you
+  7. How to contact BleepingComputer regarding privacy concerns
 
 
 
-B. Aggregate Information
+## About Us & Privacy Policy Overview
 
-BleepingComputer uses aggregate information for the purpose of operating and improving the Site, fostering a positive user experience and delivering the products and services that we offer. We may sell, share or trade compiled aggregate information with third parties. As stated earlier, no single person can be identified by such aggregate information.
+**BleepingComputer** ® is a news and support site with technology news, tutorials, tips, reviews, and support forums to receive help from volunteers. BleepingComputer was founded in 2004 by Lawrence Abrams and the site is located at the URL https://www.bleepingcomputer.com. We are physically located in the United States of America.
 
-##### 4\. Do any third parties collect information about me on the Site?
+**BleepingComputer** is strongly committed to protecting the privacy of it's visitors and members. This privacy policy (" **Privacy Policy** ") is designed to inform you about the type of information that Bleeping Computer LLC (" **BleepingComputer** ", " **we** " and " **us** " ) may gather or collect from you in connection with your use of this site (" **Website** ", " **site** "). It also explains the conditions under which we use and disclose that information, and your rights in relation to that information.
 
-BleepingComputer uses Crowd Science to deliver surveys where we may ask generic questions of to our users. These surveys allow us to collect non-personally identifiable information about our visitors in order to create interesting and quality content and advertising campaigns. Under no circumstances will any personally identifiable information be asked of you during these surveys. These surveys will be displayed to randomly-selected registered or unregistered members and appear as a small prompt at the bottom of a page on the Site. If you do not wish to take part in the survey, you can either decline or ignore the message and it will disappear shortly. If you choose to participate in a survey, you will be issued a cookie from Crowd Science so that you are not prompted to participate in another survey for 3 months. This cookie will not be used for any other reason.
+As a rule, BleepingComputer does not collect personally identifiable information other than IP addresses unless you register for an account on the site. If you register for an account, you will be required to provide a display name and login name of your choice (we suggest that you do not use your real names), and an email address. There are also fields for specifying your location, birthday, and gender, but these are optional.
 
-We use third party advertising companies as providers of ads. These third party ads will be reasonably identifiable as coming from a third party. Third-party advertisers may use cookies (as defined in the preceding paragraph) or web beacons to collect non-personally identifiable information such as IP address and pages viewed. If a conversion occurred during your visit to this third party website or third-party advertiser, this information may be used to show third party advertisements that are likely to be more interesting to you. To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+We also work with third-parties to display advertisements, social sharing links, article comments, affiliate marketing, and analytics. All third party partners have assured BleepingComputer that they are working within the laws and guidelines of a BleepingComputer visitor's country. All third party partners will be outlined later in this document.
 
-We do not have access to or control over web beacons or cookies that third-party companies may use, and the information practices of third-party companies we use are not covered by this Privacy Policy but are covered by each company's privacy policies. To review how they use cookies and web beacons and to manage your cookies, please see the following privacy policy links that belong to our third-party providers and advertisers:
+We are also committed to offering [GDPR](https://www.eugdpr.org/) compliance, allowing our users to opt out of data collection, and to understand their rights. As GDPR goes live, more information becomes available, and policies are further defined, we will modify this policy accordingly.
 
-> Google's privacy policy is located at: <http://www.google.com/privacy_ads.html>.
-> 
-> Crowd Science's privacy policy is located at: <http://www.crowdscience.com/privacy-policy-opt-out>.
-> 
-> Ziff Davis' privacy policy is located at: <http://www.ziffdavis.com/privacy-policy>.
+This policy will be updated from time to time in order to list new features on the site, new third-party services that we use, or updates to comply with privacy regulations. When changes are made we will update the date at the top of this Privacy Policy and retain a link to the previous policy. It is advised that you periodically check this policy to see if anything has been changed.
+
+## Registering an account at BleepingComputer
+
+BleepingComputer provides the ability for visitors to register a free account so that they can make comments to news articles or make posts in the forums. When registering an account it is required to provide an email address, a login name, and a display name that is publicly visible. When selecting the Display Name, you should not use your real name unless you do not care if it is publicly displayed.
+
+In addition to this information, in order to register an account you will be required to validate your account's email address, agree to BleepingComputer's [User Agreement](https://www.bleepingcomputer.com/user-agreement/), provide consent to this privacy policy, and agree to our [Forum Rules](https://www.bleepingcomputer.com/forum-rules/).
+
+It should be noted that when you register an account, you agree to allow BleepingComputer to display your forum posts indefinitely. We will be happy to remove any personal information or disassociate posts with an account at the request of the member.
+
+As a benefit of registering an account, you will no longer see advertisements on the site when you are logged in.
+
+## What data we collect and how we use it
+
+When you use BleepingComputer, there is certain data that is automatically collected by our server and web site. As previously stated, if you decide to register an account, additional data is also collected in order to create the account. This data is necessary for the proper operation of the site and to provide the features you would expect from it. We have described what data is collected by BleepingComputer below.
+
+### Registration Information
+
+When a user registers an account on the site to become a member, they must provide a login name, display name, and email address. When registering, their IP address at the time of the registration will be associated with the account for security purposes. This IP address is not publicly displayed.
+
+Once registered, a member can optionally add their birthday, gender, location, and other information. This information can be removed at any time.
+
+### Forum Posts & Status Updates
+
+A registered and logged in member may create new topics or reply to existing topics in the forums. When posting to the forums, their IP address is associated with the post for security reasons, such as the proper operation of spam filters and moderation tools. This IP address is not publicly displayed.
+
+Any data that is posted to the site is completely up to the member and should be sanitized of all personal data. If a member posts content that contains personal information by accident they can edit the post and remove the personal information themselves within 24 hours. Otherwise they need to [contact us](https://www.bleepingcomputer.com/contact/) to edit the post and remove the personal information.
+
+Registered members also have the ability to post status updates in their user profiles. Like posts, what content is posted is up to the user. Status replies can be removed by the member or they can [contact us](https://www.bleepingcomputer.com/contact/) to have it removed.
+
+### Images, Documents, and Attachments
+
+If you register an account and make a post in our forums, depending on the forum you may have the ability to upload images, data files, and text files. This is completely optional and up to the member, but if a member does upload content, they should make sure to strip any personal information from it. Members can [manage their attachments](https://www.bleepingcomputer.com/forums/index.php?app=core&module=usercp&tab=core&area=attachments) and delete any that they wish.
+
+### Contact Information
+
+When registering an account or using the [Contact Us](https://www.bleepingcomputer.com/contact/) form on the site, users may provide contact information such as their name, address, and email address. This information is used only to contact the member as necessary and is never shared with third parties.
+
+Registered members have the ability to subscribe to articles, topics, or forums to receive notifications when new content has been posted to BleepingComputer.com. BleepingComputer will send these notifications to the email address associated with the account. Users can disable these notifications at any time in [their settings](https://www.bleepingcomputer.com/forums/index.php?app=core&module=usercp).
+
+From time to time, BleepingComputer may host contests that requires personal information to be submitted. This information will only be shared as needed to enter the contest and send a prize if the member wins.
+
+### Comments
+
+We use a custom commenting system for some of our articles and [Disqus](https://disqus.com/) for others. For our custom commenting system, only registered and logged in users may post a comment. When doing so, they can edit their comment within 24 hours of its creation and must [contact us](https://www.bleepingcomputer.com/contact/) afterwards to delete it.
+
+### Embedded 3rd party content
+
+BleepingComputer, and its users, may embed content such as images, Tweets, videos, and more from third-party sites into articles, forum posts, tutorials, and other user submitted content. When a visitor browses to a page that contains embedded content it will be retrieved from a third-party site. BleepingComputer has no control over what tracking and cookies these third-party sites may utilize.
+
+### Analytics and Server Logs
+
+When anyone, regardless of whether you are a member or guest, visits BleepingComputer, our server will automatically record the IP address of the user and save it to our server logs. This is common practice for all web servers and we only use this information for security reasons or when required to legally. These logs are only saved for 30 days.
+
+BleepingComputer also uses [Google Analytics](https://www.google.com/analytics/) to provide anonymized and aggregated data about our visitors. This allows us to see what content our visitors like the most, what sections get the most traffic, and allow us to provide the experience you expect to receive from BleepingComputer.com. In order to anonymize the collection of data in Analytics, we have enabled the "[IP Anonymization](https://support.google.com/analytics/answer/2763052?hl=en)" feature and disabled the "Remarketing" and "Advertising Reporting Features" features.
+
+### Cookies
+
+We now get to the everyone's favorite snack, but biggest annoyance when it comes to browsing the web. 
+
+When it comes to browser cookies, BleepingComputer only sets cookies that are required for the proper operation of the site. This includes cookies that keep track of what forums you have read, session cookies that allow you to stay logged into the site as you browse it, cookies related to [Children's Online Privacy Protection Rule ("COPPA")](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule), and cookies that provide information needed by various sections of the site. None of these cookies, though, are used to track you on the site.
+
+There are other cookies, though, that will be added to your browser through third-parties. These third-party cookies are described in the next section.
+
+## What data third-parties may collect
+
+It is important to note that BleepingComputer does not share your data with anyone unless to comply with the law. We do, though, work with third party services that may collect data from users that visit BleepingComputer.com and place their own cookies in a visitor's browser. 
+
+Below we have outlined each of the companies we work with and how they may collect data as you use the site.
+
+### Advertising
+
+In order to continue providing the terrific news and support you have come to love, we need to pay the bills and therefore display ads. The good news is that if you do not want to see any ads, just register a free account, login to the site, and *poof* they are gone :)
+
+The advertisers we are currently working with, their privacy policies, and any opt-out information is below:
+
+  * [Google Adsense](https://www.google.com/adsense/) \- [Privacy Policy](https://policies.google.com/technologies/ads) · [Opt Out of User-based Advertising](https://support.google.com/adsense/answer/142293?hl=en)
+  * [Google Ad Exchange](https://www.doubleclickbygoogle.com/solutions/digital-marketing/ad-exchange/)
+  * [Ziff Davis](http://www.ziffdavistech.com/) \- [Privacy Policy](https://www.ziffdavis.com/privacy-policy)
+  * [Sovrn](https://www.sovrn.com/) \- [Privacy Policy](https://www.sovrn.com/privacy-policy/) · [Cookie Information](https://www.sovrn.com/about-our-cookies/)
+  * [First Impression](https://www.firstimpression.io/) \- [Privacy Policy](https://publishers.firstimpression.io/#FI/privacy-policy)
+  * [Disqus](https://disqus.com/) \- [Privacy Policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy) · [Opt in or out of of Data Sharing](https://disqus.com/data-sharing-settings/)
+
+
 
 Google specific cookie information:
 
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
-  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google's Ads Settings](http://www.google.com/ads/preferences/) page .
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.
+  * Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).)
 
 
 
-If you would like more information about Google's use of cookies and to understand your choices, click [here](http://www.google.com/privacy/ads/).
+If you would like more information about Google's use of cookies and to understand your choices, you can read the <https://policies.google.com/technologies/partner-sites> page.
 
-##### 5\. How does BleepingComputer protect and secure my information?
+The other advertisers may drop their own cookies, including tracking cookies, use tracking pixels, or perform interest based advertising as allowed in a visitor's country.
 
-BleepingComputer follows generally accepted industry standards to protect your sensitive information from unauthorized access. Any data that is stored on our servers is treated as confidential and is not made generally available to the public. Our servers are protected by firewalls and are located in secure data facilities to further increase security. Please keep in mind, however, that despite these reasonable efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure. Therefore, while we strive to protect your personal data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party.
+### Affiliate Marketing
 
-##### 6\. How can I update or change my personal information?
+BleepingComputer also uses affiliate links, which allow BleepingComputer to earn a commission if you purchase a product from an affiliate linked page. While we have many affiliate partnerships, the main ones that we work with are:
 
-You can update almost all information about your account by logging in and clicking on My Settings found under your User Name. From the My Settings you can edit your profile and manage other profile settings. If there is information that you can not change with this method, please contact us by using this [feedback form](https://www.bleepingcomputer.com/contact/) with all relevant information.
+  * [Skimlinks](https://skimlinks.com/) is used in the forums. - [Privacy Policy](https://skimlinks.com/privacy-policy) · [Cookie Opt-out](https://optout.skimlinks.com/)
+  * [Amazon](https://affiliate-program.amazon.com/) is used in tutorials, articles, and forums. - [Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496)
+  * [StackCommerce](https://www.stackcommerce.com/) runs our deals store at [https://deals.bleepingcomputer.com](https://deals.bleepingcomputer.com/). - [Privacy Policy](https://www.stackcommerce.com/privacy/)
+  * [Cleverbridge](https://www.cleverbridge.com/) is used with some of our downloads.- [Privacy Policy](https://www.cleverbridge.com/corporate/privacy-policy/)
 
-##### 7\. Policies for individuals under 13 (COPPA)
 
-We are concerned about the safety of children when they use the Internet, and understand that children may not understand all the provisions of our Privacy Policy or make informed decisions about the choices that are made available to adult users of the Site. We encourage parents and guardians to spend time with their children online and to be familiar with the sites their children visit. BleepingComputer is not intended for children under 13 years of age, and we will never request personally identifiable information from anyone whom we know to be under the age of 13 without verifiable parental consent.
 
-##### 8\. How to Unsubscribe from BleepingComputer
+The above companies may drop their own cookies to track which affiliate referred a user to a product page or site.
 
-If you are a member of BleepingComputer.com, and would like to unsubscribe, you can [contact us](https://www.bleepingcomputer.com/contact/) and provide your login name and E-mail address. We will then verify via e-mail that you are indeed the owner of the account and remove or deactivate it per your instructions.
+### Analytics 
 
-If at any time you would like to communicate with us about your privacy concerns, please contact us using this [feedback form](https://www.bleepingcomputer.com/contact/).
+As previously described, BleepingComputer uses Google Analytics to provide anonymized and aggregated statistics about how visitors use the site. Google Analytics will place cookies that allow it to track how a user uses the site, but these cookies are not shared with any third-parties.
+
+###  Social Sharing
+
+We use [AddThis ](https://www.addthis.com/)to provide a method for our visitors to share content on various social networks or via email. AddThis may store their own cookies in our visitor's browsers. AddThis provides opt out choices through their [Privacy Policy](https://www.addthis.com/privacy).
+
+### Comments
+
+While we have our own commenting system for our news articles that does not use cookies, we also utilize [Disqus](https://disqus.com/) for our [Download](https://www.bleepingcomputer.com/download/) and [Tutorial](https://www.bleepingcomputer.com/tutorials/) sections. Disqus may drop their own cookies as described in their [Privacy Policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy).
+
+### Web Site Security and Content Delivery
+
+We use [Cloudflare](https://www.cloudflare.com/) for DDoS attack mitigation, web site security, and as a Content Delivery Network (CDN). When our traffic flows through their service, Cloudflare will add cookies to a visitor's browser in order for some of their security features to work. You can read about their cookies [here](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-).
+
+In order to stay compliant with current regulations, BleepingComputer has entered into a EU GDPR Data Processing Addendum with Cloudflare, which can be [read here](https://www.cloudflare.com/media/pdf/cloudflare-customer-dpa-20180402.pdf).
+
+### Law Enforcement
+
+We may disclose personally identifiable information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect the rights or property of BleepingComputer or its affiliated companies; (c) investigate or prevent a crime or protect national security or cooperate in investigating any incident in which we believe that you have abused the Site by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws; or (d) protect the personal safety of users or the public.
+
+Don't do anything wrong and we won't have to worry about the above :)
+
+## The rights you have to your data
+
+There is no data that we keep for those who have not registered an account on the site.
+
+If you have registered as a member then you have access to all of your posted data by viewing your profile, [examining your preferences](https://www.bleepingcomputer.com/forums/index.php?app=core&module=usercp), [seeing the content you follow](https://www.bleepingcomputer.com/forums/index.php?app=core&module=search&do=followed), [viewing your posts and topics](https://www.bleepingcomputer.com/forums/index.php?app=core&module=search&do=user_activity), [viewing your personal messages](https://www.bleepingcomputer.com/forums/index.php?app=members&module=messaging), and [viewing your subscribed news articles](https://www.bleepingcomputer.com/subscribed-articles/). 
+
+In the near future, we will provide a tool that you can use to download all of your data in one archive.
+
+It should be noted that as a member, you agreed to allow BleepingComputer to indefinitely display any posts or topics you created in the forums. With that said, we do not want you to be concerned about any personally identifiable information and if you find any, you can always [contact us](https://www.bleepingcomputer.com/contact/) and request that we remove the personal information. 
+
+Any submitted content will be associated with your profile until you either delete it or we delete your account. When an account is deleted, your submitted content may stay on the site, but be shown as if it was from a guest.
+
+## Reasons BleepingComputer will contact you
+
+BleepingComputer will only contact you for the following reasons:
+
+  * Service updates and policy changes
+  * Breach notifications will be sent to all registered users within 72 hours of the incident.
+  * New topic, reply, or forum subscription notifications will be sent if a user requested them.
+  * Newsletters will be sent only to those who subscribed to our newsletter.
+  * Marketing content will be sent to members who opt into it during registration. This is disabled by default.
+
+
+
+## How to contact BleepingComputer with privacy concerns
+
+We are committed to protecting your data and addressing any privacy concerns that you may have. You can always contact us using our [Contact Us form](https://www.bleepingcomputer.com/contact/) or you can snail mail us at:
+
+Bleeping Computer, LLC.  
+273 Walt Whitman Road  
+#255  
+Huntington Station, NY 11746  
+Tel: 631-920-0683 
+
+## Final thoughts
+
+If you actually read this whole thing, then you deserve a !
