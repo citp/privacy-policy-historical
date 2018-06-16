@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207210105id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616045317id_/https%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Charles Schwab
 
-[View this notice in PDF format](http://www.schwab.com/public/file?cmsid=P-974035&cv3)  
+[View this notice in PDF format](https://www.schwab.com/public/file?cmsid=P-974035&cv3)  
 
 
 Rev. July 2017
