@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pbwiki.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbwiki.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616032506id_/http%3A//www.pbworks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/index.html)
 
 Non-binding English Summary
 
@@ -48,6 +46,12 @@ Accessing, Correcting, and Deleting Your Personal Data
 
 If you would like to modify or delete from our database any Personal Data you previously submitted to us, please let us know by accessing and updating your profile on our site or by sending us an [email](mailto:privacy@pbworks.com) to privacy (at) pbworks (D0T) com. (please send your request from the email address associated with your account and clearly state what Personal Data you would like modified or deleted). Please note that sometimes these requests may take up to ten business days to process, that any Personal Data that we have copied may remain in back-up storage for some period of time after your request, and that if you delete certain information (e.g., your billing address or credit card number) you may not be able to purchase products in the future without re-submitting such information. Also, please note that we will maintain information about you in our database whenever we are required to do so by law.
 
+Privacy Shield Framework
+
+PBworks adheres to the Privacy Shield 1.8.2016 EN Official Journal of the European Union L 207/55 Principles. The EU-US and Swiss-US Privacy Shield frameworks provide a mechanism to comply with data protection requirements when transferring personal data from the European Union and Switzerland to the United States in support of transatlantic commerce. The program is described at U.S. government privacy shield website ([www.privacyshield.gov](http://www.privacyshield.gov/)); a program overview and links to FAQ’s is provided at: [www.privacyshield.gov/Program-Overview](http://www.privacyshield.gov/Program-Overview).
+
+We use the European Data Protection Authorities (DPA) as the independent recourse mechanism described by the Privacy Shield frameworks. The individual authority within each country that is a participant in the frameworks, along with contact information, is provided here: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
+
 Security
 
 We have implemented reasonable measures to help protect your Personal Data from loss, misuse, or unauthorized access or disclosure. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, we cannot guarantee its security.
@@ -63,15 +67,3 @@ We may update this privacy policy from time to time. If under any such update we
 Questions
 
 If you have any questions about this privacy policy, please feel free to contact us by [email](mailto:privacy@pbworks.com) at privacy (at) pbworks (D0T) com.
-
-©2016 PBworks, Inc. Project Hub, Agency Hub, New Business Hub, Legal Hub, Business Hub, Wiki Hub and Edu Hub are trademarks of PBworks, Inc.  All other trademarks and registered trademarks are the property of their respective owners.
-
-[](http://fb.com/pbworks) [](http://twitter.com/pbworks) [](http://blog.pbworks.com/) [](https://docs.pbworks.com/w/page/42027927/Overview) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/products.html) [](http://edumanual.pbworks.com/w/page/58006589/Home) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/case-studies.html) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/terms-of-service.html) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/articles.html) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/privacy-policy.html) [](https://attendee.gotowebinar.com/rt/5861681573187652866) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/security.html) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/about-us.html) [](https://secure.pbworks.com/dmca/) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/news.html) [](https://secure.pbworks.com/api_v2) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/contact-us.html) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/jobs.html)
-
-Need something else?
-
-Contact us for a custom price quote.
-
-Sales line: 415.963.4369
-
-Email: [sales@pbworks.com](mailto:sales@pbworks.com)
