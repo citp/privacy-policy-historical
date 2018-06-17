@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the follows.com privacy policy that was archived on 2017-09-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170929005557id_/https%3A//follows.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the follows.com privacy policy that was archived on 2018-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180617132739id_/https%3A//follows.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -28,7 +28,7 @@
 			<a href="/twitter">Pricing</a>
 			<a href="/free-followers">Free Followers</a>
 			<a href="/faq">FAQ</a>
-			<a href="http://follows.com/blog/">Blog</a>
+			<a href="https://follows.com/blog/">Blog</a>
 		
 		</div>
 		
@@ -184,50 +184,49 @@
 	</div><!-- container2 -->
 	
 		<div id="footer">
-	
+
 		<div id="footer-left">
-			
+
 			<span class="footer-title">Navigation</span>
-			
+
 			<div id="footer-col1">
 				<a href="/">Home</a><br>
 				<a href="/twitter">Twitter Followers</a><br>
 				<a href="/instagram">Instagram Followers</a><br>
 				<a href="/facebook">Facebook Followers</a>
 			</div>
-			
+
 			<div id="footer-col2">
 				<a href="/free-followers">Free Followers</a><br>
 				<a href="/faq">FAQ</a><br>
-				<a href="http://follows.com/blog/">Blog</a><br>
+				<a href="https://follows.com/blog/">Blog</a><br>
 				<a href="/contact">Contact</a>
 			</div>
-		
+
 		</div>
-		
+
 		<div id="footer-right">
-			
+
 			<span class="footer-title">Terms and Privacy</span>
-			
-			<p class="footer-p">We are not affiliated with Twitter, Instagram, or Facebook. The Twitter logo, the Instagram logo, and the Facebook 
-			logo are all registered trademarks of their respective owners. By using Follows.com, you agree to our <a href="/terms">Terms</a> and our 
-			<a href="/privacy">Privacy Policy.</a></p>
-		
+
+			<p class="footer-p">We are not affiliated with Twitter, Instagram, or Facebook. The Twitter logo, the Instagram logo, and the Facebook
+			logo are all registered trademarks of their respective owners. By using Follows.com, you agree to our <a href="/terms">Terms</a> and our <a href="/privacy">Privacy Policy.</a></p>
+
 		</div>
-		
-		<div id="copyright">Copyright 2017 Follows.com. All rights reserved.</div>
+
+		<div id="copyright">Copyright 2018 Follows.com. All rights reserved.</div>
 		<div id="social">
-		
+
 		</div>
-	
+
 </div><!-- footer -->
 
     <link href="//follows.com/css/animate.css" rel="stylesheet" type="text/css">
     <link href="//follows.com/css/style.css" rel="stylesheet" type="text/css">
 
 
-    <div class="overCls" style="">
-        <div class="myPopPage">
+    <div class="overCls" id="authorizenetOverCls" style="">
+        <div class="myPopPage" id="authorizenetpopup">
 
             <div class="myPopBg"><div class="popClJs">&nbsp;</div>
                 <!-- all content here -->
@@ -295,6 +294,50 @@
             </div><!--myPopBg-->
         </div><!--myPopPage-->
     </div>
+
+    <div class="overCls" id="cryptoOverCls" style="">
+        <div class="myPopPage" id="cryptopopup">
+
+            <div class="myPopBg"><div class="popClJs">&nbsp;</div>
+                <!-- all content here -->
+                <div class="look1">
+                    <div class="poHd txtXa">
+                        <div class="plgo">&nbsp;</div>
+                        <h1 id="crypto-header-service-name"></h1>
+                        <h2 id="crypto-header-service-description"></h2>
+                    </div>
+                    <form id="crypto-form" name="crypto-form" method="post" action="../../crypto-payment.php">
+                    <div class="boxaAa"> <div class="ofLy"></div>
+
+
+
+                        <div class="rwBx">
+                            <input class="infX infXa infXi" type="email" id="customer_email2" name="crypto_customer_email" placeholder="Email" autocomplete="off" required="">
+                            <input class="infX infXb" type="text" name="customer_first_name" placeholder="First name" autocomplete="off" required="">
+                            <input class="infX infXc" type="text" name="customer_last_name" placeholder="Last name" autocomplete="off" required="">
+                        </div>
+                        <input class="infX infXc" type="hidden" name="crypto-service-price" id="crypto-service-price">
+                        <input class="infX infXc" type="hidden" name="crypto-service-name" id="crypto-service-name">
+                        <input class="infX infXc" type="hidden" name="crypto-service-desc" id="crypto-service-desc">
+                        <input class="infX infXc" type="hidden" name="crypto-service-quantity" id="crypto-service-quantity">
+                        <input class="infX infXc" type="hidden" name="crypto-service-url" id="crypto-service-url">
+                        <div class="pyBtn">
+                            <button class="btnPa" id="crypto-amount-text" type="submit"></button>
+
+                        </div>
+
+                    </div>
+                    </form>
+                </div>
+
+
+
+
+                <!-- all content end here -->
+            </div><!--myPopBg-->
+        </div><!--myPopPage-->
+    </div>
+
     <div class="card-wrapper"></div>
 
     <script src="//follows.com/js/bootstrap.min.js"></script>
@@ -389,6 +432,15 @@
         });
     </script>
 
+	<script>
+	$('.pricing-code input').on('keyup keypress', function(e) {
+	  var keyCode = e.keyCode || e.which;
+	  if (keyCode === 13) {
+	    e.preventDefault();
+	    return false;
+	  }
+	});
+	</script>
 	
 </div><!-- container bg -->
 
