@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hikersbay.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129032920id_/http%3A//hikersbay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hikersbay.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617042045id_/http%3A//hikersbay.com/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [hikersbay.com/contact](mailto:octopus@hikersbay.com).
 
 At hikersbay.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by hikersbay.com on website and mobile apps and how we use it. 
 
@@ -28,7 +26,7 @@ Hikersbay mobile apps and website does not knowingly collect any personally iden
 
 #### Our Advertising Partners
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include : 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: 
 
   * Google
   * Commission Junction
@@ -67,7 +65,9 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
 #### Update
 
-This Privacy Policy was last updated on: Saturday, March 15th, 2014. 
+This Privacy Policy was last updated on: April 10th, 2018. 
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [hikersbay.com/contact](mailto:octopus@hikersbay.com).
 
 We created these website Privacy Policy using the TOS/T&C generator available from [Privacy Policy Online](http://www.privacypolicyonline.com/). 
 
