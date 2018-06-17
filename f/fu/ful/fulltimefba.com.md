@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltimefba.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230062225id_/http%3A//www.fulltimefba.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltimefba.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617144547id_/http%3A//www.fulltimefba.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Full-Time FBA
 
@@ -30,4 +30,4 @@ Stephen Smotherman
 
 stephen@fulltimefba.com
 
-**Full-Time FBA © 2016**
+**Full-Time FBA © 2018**
