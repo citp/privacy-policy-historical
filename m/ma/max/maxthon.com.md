@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxthon.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107154525id_/http%3A//www.maxthon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxthon.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617112925id_/http%3A//www.maxthon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Maxthon Browser
 
@@ -6,19 +6,19 @@
 
 We, at Maxthon, highly value your privacy and it is one of our top priorities. We strictly protect the security of your data and protect it from disclosure, with certain exceptions only granted when requested by law or court order.
 
-This privacy statement is intended to help you understand what data we collect, how and why we collect it and how we use it. However, this Policy only applies to Maxthon’s browser products and our own websites. We encourage you to refer to the privacy statements of the third-party links, websites and apps/products that you may access and use from Maxthon’s browser products or our own website.
+This privacy statement is intended to help you understand what data we collect, how and why we collect it and how we use it. However, this Policy only applies to Maxthon's browser products and our own websites. We encourage you to refer to the privacy statements of the third-party links, websites and apps/products that you may access and use from Maxthon's browser products or our own website.
 
 This is important. We hope you take time to read it carefully.
 
-## Maxthon’s Websites
+## Maxthon's Websites
 
-When you visit Maxthon’s websites, we may collect visitor statistics. These may include information about the visitors’ IP-addresses, usage patterns, the time at which users visit our page, and information about the browser and operating system used. This information is solely for statistical purpose and is not used to identify individuals. We use these statistics to improve and optimize the usability of our products and services for our users. They help us determine where we need to improve and prioritize our resources accordingly. We may also share these statistics with our partners to show them our users’ behavior at a macro level.
+When you visit Maxthon's websites, we may collect visitor statistics. These may include information about the visitors' IP-addresses, usage patterns, the time at which users visit our page, and information about the browser and operating system used. This information is solely for statistical purpose and is not used to identify individuals. We use these statistics to improve and optimize the usability of our products and services for our users. They help us determine where we need to improve and prioritize our resources accordingly. We may also share these statistics with our partners to show them our users' behavior at a macro level.
 
 Our websites may use cookies. A cookie is a tiny data file that resides on your computer, mobile phone, or other device, and allows us to recognize you as a visitor when you return to the website using the same computer and web browser. This allows us to provide a more customized experience for our visitors. You can remove or block cookies using the settings in your browser. 
 
-Maxthon and our partners may use cookies, “Web Beacon”, “Clear GIF” and other technologies to analyze if our users have seen relevant content (such as ads) and how they react to the content. But we won’t collect personal identifiable information about you.
+Maxthon and our partners may use cookies, “Web Beacon”, “Clear GIF” and other technologies to analyze if our users have seen relevant content (such as ads) and how they react to the content. But we won't collect personal identifiable information about you.
 
-## Maxthon’s Browser Products
+## Maxthon's Browser Products
 
 ### How do we learn information about you?
 
@@ -66,7 +66,7 @@ To communicate with you;
 To verify your email address to help block spam, junk and ads;  
 To inform you of our products and services updates and some marketing initiatives, unless you unsubscribe;  
 To display in your profile and sync it across devices;  
-To help you fill out forms or sign in to sites you’ve visited before if you allow us to save and remember them.   
+To help you fill out forms or sign in to sites you've visited before if you allow us to save and remember them.   
   
 Notes, passwords, private information, collected content, and forms
 
@@ -110,7 +110,7 @@ URLs |
 
 If you enabled Secure URLs Scan, we will scan and check the security of the website you visit and send notifications or alerts for malicious websites. 
 
-We don’t store the websites scanned and we don’t share that information with any third parties. 
+We don't store the websites scanned and we don't share that information with any third parties. 
 
 Because of this security check, we have prevented our users from visiting millions of fake and malicious websites since 2005.   
   
@@ -128,7 +128,7 @@ Private session |
 
 In private session, you may limit the data that our browser collects and stores about you, including, but not limited to: basic browsing history and download history. 
 
-**Cookies:** In private session, Maxthon doesn’t share cookies stored with new websites. These websites may generate new cookies in your system but will only be stored and uploaded after the private session is closed. 
+**Cookies:** In private session, Maxthon doesn't share cookies stored with new websites. These websites may generate new cookies in your system but will only be stored and uploaded after the private session is closed. 
 
 **Browser settings modification:** The modifications you make to the browser settings will be saved. These modifications are not affected by private sessions. 
 
@@ -138,13 +138,13 @@ Guest Mode |
 
 **Auto sync:** In Guest Mode, user data auto-sync is not available. All your data will only be saved to your local account. You may import your local data to MX5 after registering and signing into a more reliable online account. 
 
-**Profile data:** In Guest Mode, you won’t have access to any data from your registered account such as Maxnote notes and Passkeeper passwords.   
+**Profile data:** In Guest Mode, you won't have access to any data from your registered account such as Maxnote notes and Passkeeper passwords.   
   
 ### How do we protect your information?
 
 We are committed to protecting your data once we have it. We implement physical and technical security measures designed especially for that. 
 
-Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps. But over the 10 years of Maxthon’s presence in this industry, there has NEVER been one privacy leak incident, not once. 
+Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps. But over the 10 years of Maxthon's presence in this industry, there has NEVER been one privacy leak incident, not once. 
 
 ### Access
 
@@ -164,4 +164,4 @@ This Privacy Statement may be updated or changed. When we post changes to this P
 
 ### Contact information
 
-If you have any questions about this Privacy Statement, or privacy on our Websites, we can be reached at[international@maxthon.com](mailto:international@maxthon.com).
+If you have any questions about this Privacy Statement, or privacy on our Websites, we can be reached at [international@maxthon.com](mailto:international@maxthon.com).
