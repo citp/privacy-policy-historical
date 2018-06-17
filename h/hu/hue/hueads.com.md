@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hueads.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203195804id_/http%3A//hueads.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hueads.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617140913id_/http%3A//www.hueads.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Hueads | Privacy Policy
 
