@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the poolhost.com privacy policy that was archived on 2017-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171215084350id_/http%3A//www.poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the poolhost.com privacy policy that was archived on 2018-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180617160431id_/http%3A//poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta charset="utf-8">
@@ -7,7 +7,7 @@
 
 <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,700" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" type="text/css" href="/css/ph.css?ver=1.32">
+<link rel="stylesheet" type="text/css" href="/css/ph.css?ver=1.39">
 <style type="text/css">
 <!--
     html, body
@@ -400,6 +400,9 @@ a.poolhead:hover
 <script type="text/javascript" src="/js/jquery.columnmanager.pack.js"></script>
 <script type="text/javascript" src="/js/jquery.dropmenu.min.js"></script>
 <script type="text/javascript" src="/js/jquery.countdown.min.js"></script>
+<script type="text/javascript" src="/js/poolhost.js"></script>
+<script type="text/javascript" src="/js/ph.formatDateTime.js"></script>
+<script type="text/javascript" src="/js/ph.gamestatus.js?ver=1.6"></script>
 <!-- <li nk rel="stylesheet" type="text/css" href="/css/dropmenu.css"> -->
 <link rel="stylesheet" href="/css/colorbox.css">
 <link rel="stylesheet" href="/css/jquery.countdown.css">
@@ -429,6 +432,7 @@ a.poolhead:hover
 <link href="/assets/layouts/layout3/css/layout.min.css" rel="stylesheet" type="text/css">
 <link href="/assets/layouts/layout3/css/themes/default.min.css" rel="stylesheet" type="text/css" id="style_color">
 <link href="/assets/layouts/layout3/css/custom.css?v=1.4" rel="stylesheet" type="text/css">
+
 <!-- END THEME LAYOUT STYLES -->
 
 
@@ -549,7 +553,7 @@ a.poolhead:hover
 				
 						<a href="default.asp">
                     
-                          <img src="/images/ph_logo_fb.png" alt="logo" class="logo-default" style="height: 60px; margin: 5px 0px 0px 0px;"></a>
+                          <img src="/images/ph_be_logo_bracket.png" alt="logo" class="logo-default" style="height: 60px; margin: 5px 0px 0px 0px;"></a>
                     
      				</div>
 			   
@@ -986,7 +990,7 @@ a.poolhead:hover
                     <!-- BEGIN INNER FOOTER -->
                     <div class="page-footer">
 
-                        <div class="container" style="text-align: center;"> 2000-2017 © <a href="http://www.poolhost.com">PoolHost.com</a>
+                        <div class="container" style="text-align: center;"> 2000-2018 © <a href="http://www.poolhost.com">PoolHost.com</a>
 						FOR ENTERTAINMENT USE ONLY.<br>
 PoolHost.com is not affiliated in any way with the NFL, NBA, NHL, MLB, NCAA, UFC or any other professsional or collegiate sports team, league or association.
 Any league, association or team names/logos are copyright of their respective owners. 
@@ -1098,8 +1102,8 @@ Any league, association or team names/logos are copyright of their respective ow
 				<p>  </p>
 			</div>
 			<div class="modal-footer">
-				<button data-dismiss="modal" class="btn red">Cancel</button>
-				<button name="btnConfirm" data-dismiss="modal" id="btnConfirm" class="btn green">Confirm</button>
+				<button name="btnCancel" id="btnCancel" data-dismiss="modal" class="btn red">Cancel</button>
+                <button name="btnConfirm" data-dismiss="modal" id="btnConfirm" class="btn green">Confirm</button>
 		</div>
 	</div>
 </div>
@@ -1122,6 +1126,21 @@ function showConfirm(body,title,fnConfirmCallback){
 	$("#confirmModal").modal('show');
 	$("#btnConfirm").click(fnConfirmCallback);
 	//$("#btnConfirm").click(function(){alert();});
+}
+
+function showConfirmCancel(body,title,fnConfirmCallback, fnCancelCallBack){
+	if(title == null || title == "")
+		title = "Alert";
+	$("#confirmModal").find(".modal-body").find("p").html(body);
+	$("#confirmModal").find(".modal-title").html(title);
+	$("#confirmModal").modal('show');
+	$("#btnConfirm").click(fnConfirmCallback);
+	$("#btnCancel").click(fnCancelCallBack);
+}
+
+if (($("#top_leader").css("display") != "none") && ($("#top_leader").length>0)) {
+    //...
+	//alert('visible');
 }
 </script>
   
