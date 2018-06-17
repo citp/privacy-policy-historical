@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228040929id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617143513id_/https%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Tmart: Thousands of Products, Manufacturer Price, Free Shipping Worldwide
 
