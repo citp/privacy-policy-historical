@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessvoip.me privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115054652id_/http%3A//businessvoip.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessvoip.me privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617170742id_/http%3A//businessvoip.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Business Voip
 
