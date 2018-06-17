@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopee.sg privacy policy that was archived on 2017-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170821133228id_/http%3A//shopee.sg/legaldoc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopee.sg privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617192416id_/http%3A//shopee.sg/legaldoc/privacy) for the most accurate reproduction.*
 
 # Shopee: Buy and sell on mobile
 
@@ -232,9 +232,9 @@ Your personal data and/or information may be transferred to, stored or processed
 
 Please contact us through email with your complaint or grievance: 
 
-E-mail: [dpo@shopeemobile.com](mailto:dpo@shopeemobile.com) and Attention it to the "Personal Data Protection Officer". 
+E-mail: [dpo@shopee.com](mailto:dpo@shopeemobile.com) and Attention it to the "Personal Data Protection Officer". 
 
-Please send all legal notices to [legal@shopeemobile.com](mailto:legal@shopeemobile.com) and Attention it to the “General Counsel”. 
+Please send all legal notices to [legal@shopee.com](mailto:legal@shopeemobile.com) and Attention it to the “General Counsel”. 
 
 19.3 Where it is an email or a letter through which you are submitting a complaint, your indication at the subject header that it is a Privacy Law complaint would assist us in attending to your complaint speedily by passing it on to the relevant staff in our organisation to handle. For example, you could insert the subject header as “Privacy Complaint”. 
 
