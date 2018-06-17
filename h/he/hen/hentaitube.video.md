@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaitube.video privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119230053id_/http%3A//hentaitube.video/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaitube.video privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617030413id_/http%3A//hentaitube.video/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
