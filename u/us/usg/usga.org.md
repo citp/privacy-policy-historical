@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usga.org privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201145102id_/http%3A//www.usga.org/content/usga/home-page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usga.org privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617204754id_/http%3A//www.usga.org/content/usga/home-page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -114,7 +114,7 @@ If you desire to have access to certain restricted sections of our Services, you
 
 Depending on your profile settings (if applicable), the USGA may display your profile to other registered users to enable you to connect with them on the USGA’s network, if such a feature is available. You may be able to access and control the information included in your profile and decide whether you want your profile made visible to other registered users and perhaps the general public. Our default privacy setting with respect to your profile is set to make your profile “publicly” available, unless and until you choose otherwise, which you can do by opting out in the account preferences area of your Web Site account (if applicable), or by contacting us using the information set forth in the Contact Us section of this Privacy Policy below.
 
-To deactivate your user account, you may **** email [membership@usga.org](mailto:membership@usga.org), call us at (908) 234-2300, or write us at the United States Golf Association, P.O. Box 746, Far Hills, New Jersey 07931, or follow the procedures in the Contact Us section of this Privacy Policy. We will remove your profile but may retain any record of your information and User Content that is necessary to comply with applicable federal, state, or local law. The information and User Content retained will generally not be available to other users of the Services. However, if you made use of communication features, e. g. , sending a personal message, or using community tools (such as posting on message boards or other publicly accessible forums, to share information or User Content with other individuals on any of the Services), such communications are generally not removable. By registering for a user account, you acknowledge and consent that, even after removal of your profile and Personal Information from our Web Sites, your information and User Content may remain viewable in cached and archived pages of individuals who have copied or stored such information or content. 
+To deactivate your user account, you may **** email [membership@usga.org](mailto:membership@usga.org), call us at (908) 234-2300, or write us at the United States Golf Association, P.O. Box 746, Liberty Corner, New Jersey 07938, or follow the procedures in the Contact Us section of this Privacy Policy. We will remove your profile but may retain any record of your information and User Content that is necessary to comply with applicable federal, state, or local law. The information and User Content retained will generally not be available to other users of the Services. However, if you made use of communication features, e. g. , sending a personal message, or using community tools (such as posting on message boards or other publicly accessible forums, to share information or User Content with other individuals on any of the Services), such communications are generally not removable. By registering for a user account, you acknowledge and consent that, even after removal of your profile and Personal Information from our Web Sites, your information and User Content may remain viewable in cached and archived pages of individuals who have copied or stored such information or content. 
 
 **Links to Other Web Sites**
 
@@ -131,14 +131,14 @@ Children under the age of 13 years may not provide any Personal Information, inc
 When you give your personally identifiable information to the USGA through the Services, it may be collected and used by the USGA and its affiliates for the purposes of, for example, providing you services and sending you correspondence, and additionally may be transferred to entities other than the USGA’s affiliates, which entities may be located in countries outside the European Economic Area (“EEA”), including the United States. Each of these countries has different privacy laws that afford varying levels of protection for your personally identifiable information, and such laws may not be as comprehensive as those that exist in the EEA. By registering on the Services or otherwise using their services, you consent to the USGA’s and its affiliates’ transmission to, and collection and processing of your information in, any jurisdiction, in accordance with its Privacy Policy. You can obtain details of the companies and countries in which your data has been collected and to which your data has been transferred by contacting us at:
 
 United States Golf Association  
-P.O. Box 708  
-Far Hills, NJ 07931  
+P.O. Box 780  
+Liberty Corner, NJ 07938  
 908-234-2300  
 Fax: 908-234-9687
 
 **Change Information**
 
-You can access, view and change your preferences, profile, and other information by visiting [www.usga.org](http://www.usga.org/) or emailing [membership@usga.org](mailto:membership@usga.org "membership@usga.org"), calling us at (908) 234-2300, or writing us at the United States Golf Association, P.O. Box 746, Far Hills, New Jersey 07931. You may also inform us of such changes by following the procedures described in the Contact Us section of this Privacy Policy, and the USGA will take reasonable steps to correct any information about you that is incorrect.
+You can access, view and change your preferences, profile, and other information by visiting [www.usga.org](http://www.usga.org/) or emailing [membership@usga.org](mailto:membership@usga.org "membership@usga.org"), calling us at (908) 234-2300, or writing us at the United States Golf Association, P.O. Box 780, Liberty Corner, New Jersey 07938. You may also inform us of such changes by following the procedures described in the Contact Us section of this Privacy Policy, and the USGA will take reasonable steps to correct any information about you that is incorrect.
 
 **Opt Out**
 
@@ -150,4 +150,4 @@ Please note that your choice to change your information or opt out may affect th
 
 **Contact Us**
 
-The USGA welcomes your questions and comments about privacy. Please feel free to contact us for any reason, including a request to be added to or taken off a marketing list or to prevent sharing your Personal Information with third parties, by sending an e-mail to membership@usga.org, calling us at (908) 234-2300, or writing us at the United States Golf Association, P.O. Box 746, Far Hills, New Jersey 07931.
+The USGA welcomes your questions and comments about privacy. Please feel free to contact us for any reason, including a request to be added to or taken off a marketing list or to prevent sharing your Personal Information with third parties, by sending an e-mail to membership@usga.org, calling us at (908) 234-2300, or writing us at the United States Golf Association, P.O. Box 780, Liberty Corner, New Jersey 07938.
