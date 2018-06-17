@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bharatvyapar.in privacy policy that was archived on 2017-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171210102325id_/http%3A//www.bharatvyapar.in/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bharatvyapar.in privacy policy that was archived on 2018-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180617175248id_/http%3A//www.bharatvyapar.in/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -49,10 +49,7 @@
     
     <script src="/bv_theme/js/jquery.easing.min.js"></script>
     <script src="/bv_theme/js/lightslider.js"></script>
-
-
-
-
+   
 
     <script type="text/javascript">
         var $ = jQuery.noConflict();
@@ -108,9 +105,6 @@
                                 window.location.replace('http://dir.bharatvyapar.in/' + val.Producturl);
                             });
                        });
-
-                    
-
                 },
                 open: function () {
                     $(this).addClass("loading");
@@ -360,6 +354,44 @@
                 }
             });
         });
+
+        function onlyAlphabets(e, t) {
+            try {
+                if (window.event) {
+                    var charCode = window.event.keyCode;
+                }
+                else if (e) {
+                    var charCode = e.which;
+                }
+                else { return true; }
+                if (charCode == 8 || charCode == 0 || charCode == 32 || (charCode > 64 && charCode < 91) || (charCode > 96 && charCode < 123))
+                    return true;
+                else
+                    return false;
+            }
+            catch (err) {
+                alert(err.Description);
+            }
+        }
+
+        function onlyNumbers(e, t) {
+            try {
+                if (window.event) {
+                    var charCode = window.event.keyCode;
+                }
+                else if (e) {
+                    var charCode = e.which;
+                }
+                else { return true; }
+                if (charCode == 8 || charCode == 0 || charCode == 32 || charCode == 45 || charCode == 40 || charCode == 41 || charCode == 43 || (charCode >= 48 && charCode <= 57))
+                    return true;
+                else
+                    return false;
+            }
+            catch (err) {
+                alert(err.Description);
+            }
+        }
     </script>
 
     
@@ -525,7 +557,7 @@
                                             <div class="col-md-6 div1">
                                                 <div class="form-group1">
                                                     <label for="NameTop">Name *</label>
-                                                    <input type="text" id="NameTop" class="form-control" placeholder="Enter your Name *" required="">
+                                                    <input type="text" id="NameTop" class="form-control" maxlength="100" onkeypress="return onlyAlphabets(event,this);" placeholder="Enter your Name *" required="">
                                                     <input type="hidden" id="AppUserIDTop" value="0">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
@@ -541,7 +573,7 @@
                                             <div class="col-md-12 div1">
                                                 <div class="form-group1">
                                                     <label for="MobileNoTop">Mobile No*</label>
-                                                    <input type="text" id="MobileNoTop" maxlength="15" onkeypress="return (event.charCode >= 48 &amp;&amp; event.charCode <= 57) || event.charCode == 32 || event.charCode == 43 || event.charCode == 45 || event.charCode == 0  " class="form-control" placeholder="Enter your Mobile *" required="">
+                                                    <input type="text" id="MobileNoTop" maxlength="15" onkeypress="return onlyNumbers(event,this);" class="form-control" placeholder="Enter your Mobile *" required="">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
@@ -818,11 +850,10 @@
             <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
                 <h5 class="n2">Contact Bharat Vyapar</h5>
                 <p class="n1">
-                    205, Ashirwad Paras - 1, Near Jaguar Showroom, Sarkhej - 
-                        Gandhinagar High Way, Makarba, Ahmedabad - 51. Gujarat, India.
+                    204, Skylar, Corporate Road, Prahlad Nagar, Ahmedabad - 15. Gujarat, India.
                 </p>
                 <address class="n1">
-                    <a class="n1">+91 79 4005 8928</a><br>
+                    <a class="n1">Bharat Vyapar Contact No +91 79 4890 6896</a><br>
                     <a class="n1" href="mailto:info@bharatvyapar.in">info@bharatvyapar.in</a>
                     <!-- <h5 class="n2">Follow Us</h5> -->
                     <p class="n2">Follow Us :</p>
@@ -843,7 +874,7 @@
         <div class="container">
             <div class="row foot_1">
                 <div class="col-md-8 col-sm-8">
-                    <p class="copyright">Copyright © 2014-2017 Bharat Vyapar, All Rights Reserved. </p>
+                    <p class="copyright">Copyright © 2014-2018 Bharat Vyapar, All Rights Reserved. </p>
                 </div>
                 <div class="col-md-4 col-sm-4">
                     <ul class="list-inline foot_menu">
@@ -910,7 +941,7 @@
                                                         <option value="3">Quaterly</option>
                                                         <option value="3">Yearly</option>
                                                     </select>
-                                                    <div class="help-block with-errors"></div>
+                                                    <div class="help-block with-errors"></div> 
                                                 </div>
                                             </div>
 
@@ -924,7 +955,7 @@
                                             <div class="col-md-6 div1">
                                                 <div class="form-group1">
                                                     <label for="MobileNoBulk">Mobile No*</label>
-                                                    <input type="text" id="MobileNoBulk" maxlength="15" onkeypress="return (event.charCode >= 48 &amp;&amp; event.charCode <= 57) || event.charCode == 32 || event.charCode == 43 || event.charCode == 45 || event.charCode == 0  " class="form-control" placeholder="Enter your Mobile *" required="">
+                                                    <input type="text" id="MobileNoBulk" maxlength="15" onkeypress="return onlyNumbers(event,this);" class="form-control" placeholder="Enter your Mobile *" required="">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
@@ -940,7 +971,7 @@
                                             <div class="col-md-6 div1">
                                                 <div class="form-group1">
                                                     <label for="NameBulk">Contact Person Name </label>
-                                                    <input id="NameBulk" type="text" class="form-control" placeholder="Enter Name *" required="">
+                                                    <input id="NameBulk" type="text" class="form-control" maxlength="100" onkeypress="return onlyAlphabets(event,this);" placeholder="Enter Name *" required="">
                                                     <div class="help-block with-errors"></div>
                                                 </div>
                                             </div>
