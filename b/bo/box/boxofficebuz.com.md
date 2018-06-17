@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boxofficebuz.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323022024id_/https%3A//boxofficebuz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficebuz.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617172635id_/https%3A//boxofficebuz.com/privacy) for the most accurate reproduction.*
 
 # None
 
-_This Privacy Policy governs the manner in which Geek Suite, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the[http://boxofficebuz.com](http://boxofficebuz.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Geek Suite, Inc._
+_This Privacy Policy governs the manner in which Geek Suite, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the[http://boxofficebuz.com](https://boxofficebuz.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Geek Suite, Inc._
 
 ## Personal identification information
 
@@ -67,6 +67,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 [Geek Suite, Inc.](http://geeksuite.net/)
 
-[Box Office Buz](http://boxofficebuz.com/contact)
+[Box Office Buz](https://boxofficebuz.com/contact)
 
 This document was last updated on September 1st, 2016
