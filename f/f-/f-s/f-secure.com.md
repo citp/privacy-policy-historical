@@ -1,79 +1,91 @@
-> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710134813id_/https%3A//www.f-secure.com/en/web/legal/privacy/website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618012007id_/https%3A//www.f-secure.com/en/web/legal/privacy/website) for the most accurate reproduction.*
 
 # Website privacy policy | F-Secure
 
-This policy describes the privacy practices on our website. Any personally identifiable data that you submit to us (e.g. via web forms) is processed according to the F-Secure [Personal data policy](https://web.archive.org/web/20170710134813id_/https%3A//www.f-secure.com/en/web/legal/privacy/services).
+## In brief
 
-When you access our website, it may place cookies on your computer. When accessing our site, you agree to accept such cookies. If you do not want to receive such cookies, we advise you to change your browser settings.
+  * We use cookies, web beacons, and other tracking technologies to learn how our websites are used and how they perform.
+  * We do this to improve your experience on the sites, and to be better able to market our products and services to you.
+  * The specific set of technologies used varies depending on the product, service, and site you are interested in or use.
 
-The purpose for data collection from our website is website personalization and development as well as web marketing activities.
 
-##  Website personalization and development
 
-To personalize and develop our website, we collect data on how you use it via cookies, web beacons and other customary means.
+## In full
 
-The information collected via cookies helps us to understand how our website visitors find and use our website and how long they stay. We use this information to improve the usefulness and overall usability of our website, to deliver you customized content, to test and optimize our website, and to locate any issues or problems with the website itself and your usage of it.
+This policy describes the privacy practices on our websites. By "websites" (or "sites") this description refers to groups of pages within the `f-secure.com` domain. For our personal data processing practices in general, please see the [F‑Secure privacy statement](https://web.archive.org/web/20180618012007id_/https%3A//www.f-secure.com/en/web/legal/privacy/services). If you are looking for information about how we process your data in a particular service, you may also find our service-specific privacy policies, e.g. that of [F‑Secure SAFE](https://web.archive.org/web/20180618012007id_/https%3A//www.f-secure.com/en/web/legal/privacy/safe), relevant to you.
 
-We do this user behavior analysis by way of aggregate statistics and/or by help of third party web analytic providers, which help us create user profiles based on pseudonyms. We also generate statistics and aggregate reports for internal use and share them with F-Secure group companies, partners and advertisers. Our third party web analytic providers may also create and publish aggregate reports on the data collected. The statistics and aggregate reports do not contain any data that could be linked to any individual website visitor.
+We use cookies on our websites to assist us in content personalization, website improvements and development, and to create relevant online marketing activities. When you visit our sites, you agree to the use of such cookies. If you do not want us to place cookies on your device, we recommend that you update your browser settings accordingly, use private browsing when visiting our site, or make use of tracking protection tools.
 
-We do not seek to use cookies to find out your identity. Nor do we connect your IP address to you or collect any information that directly identifies you unless you voluntarily submit such information to us. For example, you will need to submit personal information if you buy an F-Secure product, fill out a form or survey, enter a contest or sweepstakes, register your e-mail address with us, or e-mail us.
+Some cookies are required for proper functioning of the site or for security reasons, and are always set. For the sake of keeping this document relevant, such essential cookies are not discussed herein.
 
-###  Web marketing activities
+### Website personalization and development
 
-The data that we collect can also be used for marketing purposes. To identify products that may interest you, we may collect information about pages that you visited or products that you bought so that we can market relevant services to you.
+The information collected via cookies and other web technologies helps us understand when and how visitors discover, interact with, and leave our websites. We then use this information to
 
-We work with e-commerce sites to provide targeted advertising to our customers.
+  * improve the visibility and usability of our sites,
+  * locate and address technical issues you might experience,
+  * and to deliver customized and relevant content to you.
 
-When you visit our website, a third-party website (for example our partner's site), or click an advertisement for F-Secure services, your web activities may be tracked through cookies. The cookies are generated by our marketing partners to advertise our services on other websites. Our marketing partners may provide their own cookies to display personalized, F-Secure-related advertisements.
 
-These cookies typically collect data about e-commerce sites that you have visited, for example, the pages you viewed and the products you bought. This data is used for statistical purposes and will not be used to identify you.
 
-Our goal is to advertise our products and services based on what people have seen or intended to buy on e-commerce sites. We advertise these products and services through customized banners on our own and third-party websites. We may use information that you have submitted to us to market our services to you.
+We generate statistics and aggregate reports for internal use, as well as for sharing with F‑Secure group companies, partners, and subcontractors. Our third-party web analytic providers may also create and publish aggregate reports of the data collected. The statistics and aggregate reports do not contain any data that could be linked to an individual website visitor.
 
-We do not sell your personal data to third-party advertisers. Information that cannot be used to identify you may be shared with our advertising or business partners. They may also use cookies to track what ads you have seen and what ads you appear to be interested in.
+We do not use cookies to identify you as an individual, nor connect visitor IP addresses to individual users. However, if you have voluntarily submitted your contact information to F‑Secure — when purchasing a product, downloading a product trial, completing a survey or entering a contest, for example — we may, with your consent, tie your website usage to your individual record through the use of cookies. If you are a visitor interested in our corporate-oriented communication, this will also include your previous browsing on F‑Secure websites. If you already have a business relationship with F‑Secure, this will be combined with the pre-existing information we have about you stored in our Customer Relations Management platform. [Read more](https://web.archive.org/web/20180618012007id_/https%3A//www.f-secure.com/en/web/legal/corporate-personal-data-record).
 
-##  General information about cookies
+### Web marketing activities
 
-Cookies collect information about the use of our website. This information includes the type of Internet browser and operating system that you use, the domain name of the site from which you connect, the date, time and duration of your visit, number of visits, average time that you spend on our website, and the pages that you view. A cookie also contains a unique identification number that identifies your browser. This helps us recognize your browser when you visit our website again. We also track what searches people make on our website, and what browsers, computers and operating systems they use. We may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website.
+The data we collect can also be used for marketing purposes. Information about the pages you have visited or the products you bought in the past helps us market more relevant services to you in the future.
 
-We use both first-party (set by F-Secure) and third-party cookies (set by a domain other than F-Secure that convey information to that third party site upon your visit to F-Secure site).
+We also work with data aggregators and ecommerce sites to provide targeted advertising to our customers. In practice, this means that when you visit our site or a third-party website we have partnered with, or click an advertisement for F‑Secure products or services, your activity may be tracked through cookies. These cookies are generated by our marketing partners and used to display personalized F‑Secure-related advertisements on other websites.
 
-##  Third-party web analytic providers
+We do not sell your personal data to third-party advertisers. Information that is not personally identifiable may be shared with our advertising or business partners. They may also use cookies to track what advertisements you have seen and what products or services you appear to be interested in.
 
-We also use the following third-party service providers to achieve some of the above collection of data via cookies. In such an event, the collected data is transmitted to such third-party service providers for processing. The collection and processing of data from our sites by such third-party service providers is consistent with this privacy policy.
+### General information about cookies
 
-##  Opting out
+Cookies help us collect information about the use of our website. This information includes, among other things,
 
-Most Internet browsers automatically accept cookies. You can discontinue the data collection any time by adjusting your browser settings or by opting out at third-party web analytic providers' pages (see below). When adjusting, do note that some of the features in our website are dependent on cookies to function.
+  * the web browsers and operating systems used,
+  * the domains of referring sites (traffic origin),
+  * the date, time, number, and duration of visits,
+  * which pages or elements within pages were viewed,
+  * which links, buttons, or other items were clicked,
+  * and what was typed into text fields in forms.
 
-There are many sites that advise you on cookie settings and how to change them. For example; <http://www.aboutcookies.org/>.
 
-###  Opt-out links for third-party providers
 
-If you do not wish to disable tracking cookies overall (from your browser settings), you can use the links below to opt out from certain third-party providers.
+Cookies may contain IDs, typically random strings of numbers and letters, that are unique to your browser. This helps us recognize your browser when you visit our website again.
 
-Please note that these opt-out mechanisms work by placing a cookie in your browser. Therefore, your browser must be configured to accept cookies for your preference to take effect. If you delete or clear your cookies, or if you change which web browser you are using, you will need to set your preferences again.
+We use both first-party (set by F‑Secure) and third-party cookies (set by a vendor other than F‑Secure). Third-party cookies convey information to that third-party site upon your visit to an F‑Secure site.
 
-Adobe Analytics |  [Read more](http://www.adobe.com/privacy/analytics.html) |  [Opt out](http://www-stats-o.f-secure.com/optout.html)  
----|---|---  
-Adobe Target |  [Read more](http://www.adobe.com/privacy/analytics.html) |  [Opt out](http://fsecuregmbh.tt.omtrdc.net/optout)  
-Bing |  [Read more](https://help.bingads.microsoft.com/#apex/3/en/53056/2) |  [Opt out](http://choice.microsoft.com/en-us/opt-out)  
-DoubleClick |  [Read more](https://www.doubleclickbygoogle.com/) |  [Opt out](http://www.google.com/settings/ads)  
-Eloqua |  [Read more](http://www.oracle.com/us/legal/privacy/marketing-cloud-data-cloud-privacy-policy/) |  [Opt out](https://www.f-secure.com/documents/10192/1098040/optout.html)  
-Facebook Custom Audiences |  [Read more](https://www.facebook.com/about/ads/) |  [Opt out](https://www.facebook.com/help/247395082112892)  
-Google AdWords |  [Read more](https://www.google.com/adwords/) |  [Opt out](http://www.google.com/settings/ads)  
-Google Analytics |  [Read more](http://www.google.com/intl/en/analytics/learn/privacy.html) |  [Opt out](https://tools.google.com/dlpage/gaoptout)  
-Quantcast |  [Read more](https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy) |  [Opt out](https://www.quantcast.com/company/opt-out)  
-Twitter |  [Read more](https://ads.twitter.com/) |  [Opt out](https://twitter.com/settings/account)  
+Cookies are also used to track your reaction to emails sent to you, so that we know whether we have been successful in relaying the messaging to you.
+
+### Opting out
+
+You can discontinue cookie-based data collection at any time, by adjusting your browser settings or opting out on third-party provider pages (see the table below). Do note that some features of our website rely on cookies to function. There are many sites, such as [aboutcookies.org](http://www.aboutcookies.org/), that give advice related to cookie settings and how to change them.
+
+We use the following service providers to achieve some of the collection of data via cookies, as described above. If you do not wish to disable tracking cookies entirely (from your browser settings), you can follow the links below to opt out from individual third-party providers.
+
+Cookie provider | Cookie purpose | Read more | Opt out  
+---|---|---|---  
+Adobe Analytics | Website measuring and improvement | [Read more](http://www.adobe.com/privacy/analytics.html) | [Opt out](http://www-stats-o.f-secure.com/optout.html)  
+Adobe Target | Website improvement, personalization and testing | [Read more](http://www.adobe.com/privacy/analytics.html) | [Opt out](http://fsecuregmbh.tt.omtrdc.net/optout)  
+Bing | Providing relevant advertisements | [Read more](https://help.bingads.microsoft.com/#apex/3/en/53056/2) | [Opt out](http://choice.microsoft.com/en-us/opt-out)  
+DoubleClick | Providing relevant advertisements | [Read more](https://www.doubleclickbygoogle.com/) | [Opt out](http://www.google.com/settings/ads)  
+Eloqua | Website improvement and personalization | [Read more](http://www.oracle.com/us/legal/privacy/marketing-cloud-data-cloud-privacy-policy/) | [Opt out](https://www.f-secure.com/documents/10192/1098040/optout.html)  
+Facebook Custom Audiences | Providing relevant advertisements | [Read more](https://www.facebook.com/about/ads/) | [Opt out](https://www.facebook.com/help/247395082112892)  
+Google AdWords | Providing relevant advertisements | [Read more](https://www.google.com/adwords/) | [Opt out](http://www.google.com/settings/ads)  
+Google Analytics | Website measuring and improvement | [Read more](http://www.google.com/intl/en/analytics/learn/privacy.html) | [Opt out](https://tools.google.com/dlpage/gaoptout)  
+N.RICH | Providing relevant advertisements | [Read more](https://n.rich/privacy-notice) | [Opt out](https://n.rich/optout)  
+Xaxis | Providing relevant advertisements | [Read more](https://www.xaxis.com/privacy-policy/) | [Opt out](https://www.xaxis.com/opt-out/)  
   
-##  Third-party websites
+Please note that these opt-out mechanisms work by placing a cookie on your browser. Therefore, your browser must be configured to accept cookies for your preference to take effect. If you delete your cookies or switch to a different web browser, you will need to set your preferences again.
 
-We are not responsible for any third-party websites that you enter through our website. Our Personal data policy does not cover data collected by any third-party websites, so you should read the privacy statements of those websites carefully.
+### Third-party websites
 
-F-Secure does not control cookies from third-party websites. The third parties are responsible for how these cookies work and how the personal data is processed.
+We are not responsible for any third-party websites you enter via our website, and their practices are not covered by this policy. Our personal data policy does not cover data collected by any third-party websites, so you should read the privacy statements of those websites carefully.
 
-In particular; when using our F-Secure Search product, note that the feature runs on Google's search solution and you might be subjected to cookies that Google uses on its site. You can read more about Google's data collection practices on its website and disable such cookies through your browser settings.
+F‑Secure does not control cookies from third-party websites. The third parties are responsible for how these cookies work and how the personal data is processed.
 
-The practices on accepting or blocking third-party cookies vary by marketing campaign and are defined by the third party and applicable laws.
+The practices related to accepting or blocking third-party cookies vary by marketing campaign and are defined by the third party and applicable laws.
 
-_September 2016_
+_May 2018_
