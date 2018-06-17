@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sky-movies.in privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224005321id_/http%3A//sky-movies.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sky-movies.in privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617145117id_/http%3A//sky-movies.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,6 @@
 
 [ **Home**](https://web.archive.org/) » **Privacy Policy**
 
-##  [© SkyMovies 2017 ♥](https://web.archive.org/)
+##  [© SkyMovies 2018 ♥](https://web.archive.org/)
 
 [ ](https://web.archive.org/)
