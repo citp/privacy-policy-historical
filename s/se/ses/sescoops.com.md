@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211105207id_/http%3A//www.sescoops.com/site-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617215132id_/http%3A//www.sescoops.com/site-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEScoops
 
@@ -26,7 +26,10 @@ This site contains links to other sites. SEScoops.com is not responsible for the
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 **Data Quality/Access**  
-This site gives users the following options for changing and modifying information previously provided: You can send email to [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#04776177676b6b7477446369656d682a676b69).
+This site gives users the following options for changing and modifying information previously provided: You can send email to [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#8cefe3e2f8edeff8ccffe9ffefe3e3fcffa2efe3e1)
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact email [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#afdccadcccc0c0dfdcefc8c2cec6c381ccc0c2).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can reach us at [ **[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#e1828e8f95808295a1928492828e8e9192cf828e8c)
+
+**Exponential** :  
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
