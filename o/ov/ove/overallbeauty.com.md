@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928115733id_/http%3A//overallbeauty.com/homepage/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617041440id_/http%3A//overallbeauty.com/homepage/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice » OverallBeauty.com
 
