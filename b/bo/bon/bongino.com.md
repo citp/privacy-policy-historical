@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bongino.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215152321id_/http%3A//www.bongino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongino.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617095915id_/https%3A//www.bongino.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Dan Bongino
+
+## Privacy Policy
+
+Thank you for visiting bongino.com.  We are committed to protecting your personal information and your right to privacy.  If you have any questions about this policy, please contact us at [info@bongino.com](mailto:info@bongino.com).
 
 This Privacy Policy governs the manner in which we collect, use, maintain and disclose information collected from users of www.bongino.com (the “website”). This Privacy Policy applies to the website and all products and services offered.
 
@@ -10,14 +14,15 @@ If you visit our website to browse, read, or download information:
 
 Your web browser automatically sends us (and we may retain) information such as the:
 
-Internet domain through which you access the Internet (e.g., yourServiceProvider.com if you use a commercial Internet service provider, or yourSchool.edu if you use an Internet account from your school);
-
+  * Internet domain through which you access the Internet (e.g., yourServiceProvider.com if you use a commercial Internet service provider, or yourSchool.edu if you use an Internet account from your school);
   * Internet Protocol address of the computer you are using;
   * type of browser software and operating system you are using;
   * date and time you access our site; and
   * the Internet address of the site from which you linked directly to our site.
 
 
+
+We may also collect information through the use of cookies.
 
 We will use this information as aggregate data to help us maintain this site, e.g., to determine the number of visitors to different sections of our site, to ensure the site is working properly, and to help us make our site more accessible and useful.
 
@@ -29,7 +34,9 @@ We will not obtain personally-identifying information about you when you visit o
 
 If you choose to identify yourself (or otherwise provide us with personal information) when you use our online forms:
 
-We will collect (and may retain) any personally identifying information, such as your name, street address, email address, and phone number, and any other information you provide. We will use this information to try to fulfill your request and may use it to provide you with additional information at a later time. We may share your information with third parties.
+We will collect (and may retain) any personally identifying information, such as your name, street address, email address, phone number, and any other information you provide.
+
+We use the information we collect to inform you of new content, for marketing and promotional purposes, to provide targeted advertising and to improve our products and services.
 
 If you request information, services, or assistance, we may disclose your personal information to those third parties that (in our judgment) are appropriate in order to fulfill your request. If, when you provide us with such information, you specify that you do not want us to disclose the information to third parties, we will honor your request. Note, however, that if you do not provide such information, it may be impossible for us to refer, respond to or fulfill your request.
 
@@ -37,11 +44,11 @@ If your communication relates to a law enforcement matter, we may disclose the i
 
 **How Long We Keep Information**
 
-We may keep information that will collect for an unlimited period of time.
+We may keep the information that we collect for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law. You may unsubscribe from our communications or request that your information be deleted at any time by contacting us at [info@bongino.com](mailto:info@bongino.com).
 
 **Use of Cookies**
 
-Our website may use “cookies” to enhance your experience. Your web browser places cookies on its hard drive for record-keeping purposes and sometimes to track information about it. You may choose to set your web browser to refuse cookies, or to alert you when cookies are being sent. If you do so, note that some parts of the website may not function properly.
+Our website may use cookies and other tracking technologies (such as pixels and web beacons.) Your web browser places cookies on its hard drive for record-keeping purposes, to enhance your experience or to access or store information.  You may choose to set your web browser to refuse cookies, or to alert you when cookies are being sent. If you do so, note that some parts of the website may not function properly.
 
 **Google Analytics**
 
@@ -49,23 +56,23 @@ We use a tool called “Google Analytics” to collect information about use of 
 
 **Children’s Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), in that we do not knowingly collect or maintain personal information from anyone under 13 years of age. Our website, information and services are all directed to people who are at least 13 years of age or older.
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), in that we  do not knowingly collect Personal Information from children under the age of 18. If we become aware that we have inadvertently received Personal Information from a child under the age of 18, we will delete such information from our records.
+
+**Third-Party Providers**
+
+From time to time, we may establish a business relationship with other businesses whom we believe trustworthy and who we believe have privacy practices that are consistent with ours. For example, we may contract with Third-Party Providers to provide certain services, such as hosting, web maintenance and marketing and promotions. We only provide our Third-Party Providers with the information necessary for them to perform these services on our behalf. Each Service Provider is expected to use reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your Personal Information from unauthorized access, use or disclosure. Third-Party Providers are prohibited from using Personal Information other than as specified.
 
 **Your Access to and Control Over Information**
 
-You may opt out of any future contacts from us at any time by contacting us via the email address given on our website:
+You may opt out of any future contacts from us at any time by contacting us via email at [info@bongino.com](mailto:info@bongino.com).
 
 **Links to Other Websites**
 
-Our website may contain links to other websites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. This Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to from our website. We suggest you to learn about their privacy and security practices and policies before providing them with personal information.
+Our website may contain advertisement from third parties and links to other websites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. This Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to from our website. We suggest you to learn about their privacy and security practices and policies before providing them with personal information.
 
 **Security**
 
 We take reasonable precautions to protect your information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission that can be guaranteed against any interception or other type of misuse.
-
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
-
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
 **Changes to this Privacy Policy**
 
@@ -77,6 +84,6 @@ By using the website, you signify your acceptance of this policy. If you do not 
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact us at:
+If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact us at [info@bongino.com.](mailto:info@bongino.com) or at P.O.Box 1003, Palm City, FL, 34991
 
-[info@bongino.com](mailto:info@bongino.com)
+Last updated May 24, 2018.
