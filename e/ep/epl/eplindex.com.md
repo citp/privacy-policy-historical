@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eplindex.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929160508id_/http%3A//eplindex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eplindex.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617221112id_/http%3A//eplindex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EPL Index: Unofficial English Premier League Opinion, Stats & Podcasts
 
@@ -66,4 +66,4 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 
 **Contacting Us**
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [eplindex@gmail.com](mailto:eplindex@gmail.com).
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c796c7075727879645c7b717d7570327f7371).
