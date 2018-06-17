@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexmenu.org privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204194542id_/http%3A//sexmenu.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexmenu.org privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617065153id_/http%3A//sexmenu.org/privacy) for the most accurate reproduction.*
 
 # Privacy – SexMenu.ORG
 
@@ -51,17 +51,3 @@ SexMenu may at any time, without notice to you and in its sole discretion, amend
 ## Questions or Suggestions
 
 If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at privacy @SexMenu.com.
-
-#### Incoming search terms:
-
-  * Lovely indian pussy pics
-  * CHINESE NAKED SCHOOL GIRLS PICTURES
-  * chiana sex photo gril com
-  * photos school girls thailand sex
-  * South indian naked girl image
-  * leaked teens sex pics
-  * China school girls pussy leaking pics
-  * indian pregnant fuck photo
-  * photo of hairy pussy of schoolgirl
-
-
