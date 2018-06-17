@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saudia.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004850id_/http%3A//www.saudia.com/Header/About-Us/Legal-Terms-and-Conditions/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saudia.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618014443id_/http%3A//www.saudia.com/Header/About-Us/Legal-Terms-and-Conditions/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,6 +34,10 @@ We use personal identifying information sent to us via e-mail to respond to your
 ### Cookies
 
 SAUDIA uses cookies for anonymous visitor tracking. Our web server assigns each visitor a unique numerical ID so that we can determine how many unique visitors visited the site. Personal information based on the numerical IDs are not identified nor collected. Information entered in our inquiry and reservation are not linked or related to the cookie data.
+
+### Security
+
+We will take appropriate steps to protect the personal information you share with us. We have implemented technology and security features to safeguard the privacy of your personal information. We invest significant resources to protect your personal information, from loss, misuse, unauthorized access, modification or disclosure. However, no internet-based site can be 100% secure and we cannot be held responsible for unauthorized or unintended access that is beyond our control.
 
 By using this site, you signify your agreement with SAUDIA Privacy Policy. We reserve the right to change, revise, add or delete parts of this policy at any time. Your continued use of this website following said possible changes to these terms indicates acceptance of those changes.
 
