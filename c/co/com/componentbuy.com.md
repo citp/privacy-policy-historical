@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the componentbuy.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014131056id_/http%3A//www.componentbuy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the componentbuy.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617105459id_/http%3A//www.componentbuy.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Component Buy
 
 Componentbuy ("we" or "us") consider protection of your privacy and personal information with great regard. We have framed the privacy policy to inform you about Componentbuy practices. By visiting and using the Componentbuy services or registering with the Componentbuy and creating an account, you acknowledge that you accept the practices and policies outlined in this privacy policy ("Privacy Policy"). 
 
