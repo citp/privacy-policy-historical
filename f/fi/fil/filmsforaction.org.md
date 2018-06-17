@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmsforaction.org privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225234554id_/http%3A//www.filmsforaction.org/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmsforaction.org privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617201635id_/https%3A//www.filmsforaction.org/about/privacypolicy) for the most accurate reproduction.*
 
 # About Films For Action - Privacy Policy
 
@@ -79,7 +79,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.filmsforaction.org/About/SiteTerms/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.filmsforaction.org/About/SiteTerms/>
 
 **Your Consent**
 
@@ -94,4 +94,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions, comments or concerns regarding this privacy policy you may contact us using the information below. We have a great respect for our members privacy and have taken care to ensure our members privacy is protected. We welcome any suggestions to further improve the privacy options for members of the site.
 
   
-http://www.filmsforaction.org/Contact
+https://www.filmsforaction.org/Contact
