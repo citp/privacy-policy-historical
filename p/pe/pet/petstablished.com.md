@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petstablished.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023114409id_/http%3A//petstablished.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petstablished.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617083927id_/http%3A//petstablished.com/privacy) for the most accurate reproduction.*
 
 # Petstablished | Manage your Animal Welfare Organization (AWO) with our easy-to-use software.
 
@@ -38,7 +38,7 @@ The information we collect automatically is statistical data and does not includ
 
 The technologies we use for this automatic data collection may include cookies. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting, you may be unable to access certain parts of our Services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Services.
 
-Children Under the Age of 13. Our Services are not intended for children under 13 years of age. No one under age 13 may provide any personal information via our website. We do not knowingly collect personal information from children under 13. If you are under 13, do not register on our website, make any purchases through our website, use any of the interactive or public comment features of our website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at privacy@petstablished.com.
+Children Under the Age of 13. Our Services are not intended for children under 13 years of age. No one under age 13 may provide any personal information via our website. We do not knowingly collect personal information from children under 13. If you are under 13, do not register on our website, make any purchases through our website, use any of the interactive or public comment features of our website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at support@petstablished.com.
 
 ## How Do We Use Your Information?
 
@@ -58,7 +58,7 @@ We use information that we collect about you or that you provide to us, includin
 
 
 
-We may also use your information to contact you about our own and third parties' goods and services that we believe may be of interest to you. If you do not want us to use your information in this way, please send us an email at privacy@petstablished.com. For more information, see Choices About How We Use and Share Your Information below.
+We may also use your information to contact you about our own and third parties' goods and services that we believe may be of interest to you. If you do not want us to use your information in this way, please send us an email at support@petstablished.com. For more information, see Choices About How We Use and Share Your Information below.
 
 ## How Is Your Information Shared?
 
@@ -84,7 +84,7 @@ With your consent. We may also disclose your personal information:
 
 Other than as described above, we will never provide your information to anyone for any purpose under any circumstances.
 
-If you are a California resident, California law permits you to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacy@petstablished.com.
+If you are a California resident, California law permits you to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to support@petstablished.com.
 
 ## What Are Your Choices About How We Use and Share Your Information?
 
@@ -92,11 +92,11 @@ We strive to provide you with choices regarding the information you provide to u
 
 Tracking Technologies. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of our website may be inaccessible or not function properly.
 
-Promotional Offers from Petstablished. If you do not wish to have your contact information used by Petstablished to promote our own or third parties' products or services, you can opt-out by sending us an email stating your request to privacy@petstablished.com. If we have sent you a promotional email, the email will have an “unsubscribe” feature that will allow you to opt-out of receiving future email distributions. 
+Promotional Offers from Petstablished. If you do not wish to have your contact information used by Petstablished to promote our own or third parties' products or services, you can opt-out by sending us an email stating your request to support@petstablished.com. If we have sent you a promotional email, the email will have an “unsubscribe” feature that will allow you to opt-out of receiving future email distributions. 
 
 ## How Can You Access and Correct Your Information?
 
-You may send us an e-mail at privacy@petstablished.com to request access to, correct or delete any personal information that you have provided to us. We cannot delete all of your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may send us an e-mail at support@petstablished.com to request access to, correct or delete any personal information that you have provided to us. We cannot delete all of your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 If you delete your User Contributions from the Services, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Services users. Proper access and use of information provided on the Services, including User Contributions, is governed by our Terms of Use.
 
@@ -114,6 +114,6 @@ We post any changes we make to our Privacy Policy on this page. If we make mater
 
 ## What If You Have Questions or Comments?
 
-To ask questions or comment about this Privacy Policy and our privacy practices, you may contact us at privacy@petstablished.com. 
+To ask questions or comment about this Privacy Policy and our privacy practices, you may contact us at support@petstablished.com. 
 
 Updated: September 24, 2014
