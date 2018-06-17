@@ -1,10 +1,17 @@
-<!--The following is the downloaded HTML source of the componentbuy.com privacy policy that was archived on 2017-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171014131056id_/http%3A//www.componentbuy.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the componentbuy.com privacy policy that was archived on 2018-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180617105459id_/http%3A//www.componentbuy.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-	<title></title>
-	
+    
+    <title>Component Buy</title>
+   <meta http-equiv="PRAGMA" content="NO-CACHE">
+   <meta name="description" content="Component Buy.">
+    <meta name="keywords" content="Component Buy.">
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
+<link rel="shortcut icon" href="http://www.componentbuy.com/favicon.ico">
 <link href="http://www.componentbuy.com/assets/css/materialize.min.css" rel="stylesheet" type="text/css">
 <link href="http://www.componentbuy.com/assets/css/jquery-ui.css" rel="stylesheet" type="text/css">
 <!--    <link href="--><!--assets/assets/css/angucomplete.css" rel="stylesheet" type='text/css'>-->
@@ -20,6 +27,11 @@
 <link href="http://www.componentbuy.com/assets/css/font-awesome.min_new.css" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css">
 
+
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet" type="text/css">
+<link href="http://www.componentbuy.com/assets/css/jquery.toast.css" rel="stylesheet" type="text/css">
+
+
 <style>
     .ui-autocomplete {
         max-height: 100px;
@@ -33,7 +45,7 @@
     }
 </style>
 </head>
-<body>
+<body onload="DrawCaptcha();DrawCaptchas();">
 <!-- ======================================Header Starts===================================== -->
 <section style="background-color:#197abe;">
     <div class="container-fluid">
@@ -47,6 +59,9 @@
             <div class="col l2">
                 <!--for angular page values-->
                                 <!--ends-->
+                
+                    <input type="hidden" id="bomCartQty" value="0">
+                    
 
 
                                     <a href="http://www.componentbuy.com/login"> <p class="fn-text left">My Account</p></a>
@@ -65,8 +80,8 @@
                         <img src="http://www.componentbuy.com/assets/img/logo-white.png" class="responsive-img" style="margin-top:-10px;">
                     </a>
                 </div>
-                <div class="col s2">
-                    <div class="hide-on-large-only"><a href="#" data-activates="mobile-demo" class="button-collapse"><i class="fa fa-bars mbl_tg" aria-hidden="true"></i></a></div>
+                 <div class="col s2">
+                     <div class="hide-on-large-only"><a href="#" data-activates="mobile-demo" class="button-collapse"><i class="fa fa-bars mbl_tg" aria-hidden="true"></i></a></div>
                 </div>
                 <div class="col l6 s12 search_bar_static">
                     <form style="margin-top:10px;" action="http://www.componentbuy.com/searchdetail.php" method="get">
@@ -89,7 +104,7 @@
                 </div>
 
                 <div class="col l1 s6">
-                    <p class="txt-cnt1"><a href="http://www.componentbuy.com/addCart.php">
+                    <p class="txt-cnt1"><a href="http://www.componentbuy.com/addCart/">
                             <i class="fa fa-cart-arrow-down fn-cartcolor"></i>
                             <span class="fnt-cl">0 Items</span>
                         </a></p>
@@ -107,27 +122,27 @@
                 <ul id="nav-mobile" class="left hide-on-med-and-down">
                     <li><a href="http://www.componentbuy.com/category/" class="nwmtb">Category</a> </li>
                     <li><a href="http://www.componentbuy.com/manufacturers/">Manufacturer</a></li>
-                    <li><a href="http://www.componentbuy.com/bom/">Bom Upload</a> </li>
+                    <li><a href="http://www.componentbuy.com/bom//index.html">Bom Upload</a> </li>
                     <li><a href="http://www.componentbuy.com/quick-quote/">Quick quote</a> </li>
                     <li><a href="http://www.componentbuy.com/sample-buy/">Sample Buy</a> </li>
                 </ul>
                 <ul class="side-nav" id="mobile-demo">
-                    <li><a class="nwmtb">Category</a> </li>
-                    <li><a>Manufacture</a></li>
-                    <li><a>Bom Upload</a> </li>
-                    <li><a>Quick quote</a> </li>
-                    <li><a>Sample Buy</a> </li>
-                    <li class="dropdown">My Account
+                <li><a href="http://www.componentbuy.com/category/" class="nwmtb">Category</a> </li>
+                <li><a href="http://www.componentbuy.com/manufacturers/">Manufacturer</a></li>
+                <li><a href="http://www.componentbuy.com/bom//index.html">Bom Upload</a> </li>
+                <li><a href="http://www.componentbuy.com/quick-quote/">Quick quote</a> </li>
+                <li><a href="http://www.componentbuy.com/sample-buy/">Sample Buy</a> </li>
+                    <!-- <li class="dropdown">My Account
                         <ul class="left hide-on-med-and-down nav">
-                            <li><a> My Orders</a> </li>
-                            <!-- <li><a href="#">My Account</a> </li> -->
-                            <li><a>BOM Manager</a> </li>
-                            <li><a>Change Password</a> </li>
-                            <li><a>Logout</a> </li>
+                        <li><a href="http://www.componentbuy.com/myOrder/"> My Orders</a> </li>
+                            <li><a href="#">My Account</a> </li> 
+                            <li><a href="http://www.componentbuy.com/bom/">BOM Manager</a> </li>
+                            <li><a href="http://www.componentbuy.com/changepassword/">Change Password</a> </li>
+                            <li><a href="http://www.componentbuy.com/logout/" ?>Logout</a></li>
                         </ul>
-                    </li>
-                    <li><a>Register</a></li>
-                    <li><a>Login</a></li>
+                    </li> -->
+                    <li><a href="http://www.componentbuy.com/login">Register</a></li>
+                    <li><a href="http://www.componentbuy.com/login">Login</a></li>
                 </ul>
             </div>
         </div>
@@ -139,14 +154,15 @@
     <i class="fa fa-close email_verify_close"></i>
 </div> -->
 
-<div class="fixed_nav_bar hide_on_static">
+<div class="fixed_nav_bar hide_on_static navbar-fixed">
     <div class="row">
-        <div class="col m2 l2 fixed_logo">
+        <div class="col m2 l2 s8 fixed_logo">
             <a href="http://www.componentbuy.com/">
                 <img src="http://www.componentbuy.com/assets/img/logo-white.png" class="responsive-img fixed_nav_logo">
             </a>
         </div>
-        <div class="col m6">
+        <div class="col m2 l2 s4 hide-on-large-only"><a href="#" data-activates="mobile-demo" class="button-collapse"><i class="fa fa-bars mbl_tg" aria-hidden="true"></i></a></div>
+         <div class="col m6 hide-on-med-and-down">
             <ul class="fixed_nav_bar_menu">
                 <li><a href="http://www.componentbuy.com/category/" class="nwmtb">Category</a> </li>
                 <li><a href="http://www.componentbuy.com/manufacturers/">Manufacturer</a></li>
@@ -155,25 +171,25 @@
                 <li><a href="http://www.componentbuy.com/sample-buy/">Sample Buy</a> </li>
             </ul>
         </div>
-        <div class="col m4">
-            <div class="left fixed_search_box">
-                <form style="margin-top:10px;">
-                    <div class="input-field search_box">
-                        <input type="search" class="bdr fn-wt" required="">
-                    </div>
-                    <button type="submit" class="btn search_button">
-                        <i class="fa fa-search active prefix" style="color:#3498DB;"></i>
-                    </button>
-                    <div class="clear"></div>
-                </form>
-                <ul class="ac-menu" overflow-scroll="true">
-                    <!--  <li class="ac-menu-item  " style="height:30px;">
+        <div class="col m4 hide-on-med-and-down">
+             <div class="left fixed_search_box">
+             <form style="margin-top:10px;" action="http://www.componentbuy.com/searchdetail.php" method="get">
+             <div class="input-field search_box">
+                 <input type="search" class="bdr fn-wt" required="" placeholder="Search by part number" id="search_data" name="q">
+             </div>
+             <button type="submit" class="btn search_button">
+                 <i class="fa fa-search active prefix" style="color:#3498DB;"></i>
+             </button>
+             <div class="clear"></div>
+         </form>
+                <!-- <ul class="ac-menu" overflow-scroll="true">
+                     <li class="ac-menu-item  " style="height:30px;">
                      <span style="line-height: 30px;"></span>
-                     </li> -->
-                </ul>
-            </div>
+                     </li>
+                </ul> -->
+            </div> 
             <div class="left">
-                <p class="txt-cnt1"><a href="http://www.componentbuy.com/addCart.php">
+                <p class="txt-cnt1"><a href="http://www.componentbuy.com/addCart/">
                         <i class="fa fa-cart-arrow-down fn-cartcolor"></i>
                         <span class="fnt-cl">0 Items</span>
                     </a></p>
@@ -181,6 +197,25 @@
         </div>
     </div>
 </div>
+
+
+<script>
+    $(".button-collapse").sideNav();
+
+	$(window).scroll(function (event) {
+		var scroll = $(window).scrollTop();
+
+		if(scroll>120){
+			$('.fixed_nav_bar').addClass('show_menu');
+			$('.fixed_nav_bar').removeClass('hide_on_static');
+			$('.search_bar_static').addClass('hide_on_fixed');
+		}else{
+			$('.fixed_nav_bar').removeClass('show_menu');
+			$('.fixed_nav_bar').addClass('hide_on_static');
+			$('.search_bar_static').removeClass('hide_on_fixed');
+		}
+	});
+</script>
 
 <!-- ======================================Header Ends===================================== -->
 
@@ -237,7 +272,7 @@
           <a href="http://www.componentbuy.com/about-us/" class="collection-item">About Us</a>
           <a href="http://www.componentbuy.com/contact-us/" class="collection-item">Contact</a>
           <!--<a href="#!" class="collection-item">Support</a>-->
-          <a href="http://www.componentbuy.com/faq/" class="collection-item">FAQs</a>
+          <a href="http://www.componentbuy.com/faq" class="collection-item">FAQs</a>
           <a href="http://www.componentbuy.com/privacy-policy/" class="collection-item">Privacy Policy</a>
           <a href="http://www.componentbuy.com/terms-and-condition/" class="collection-item">Offers Terms /Conditions</a>
 	</div>
@@ -273,7 +308,7 @@
                             <li><a href="http://www.componentbuy.com/category/">Category</a> </li>
                             <li><a href="http://www.componentbuy.com/manufacturers/">Manufacturer</a> </li>
                             <li><a href="http://www.componentbuy.com/quick-quote/">Quick Quote</a> </li>
-                            <li><a href="http://www.componentbuy.com/bom/">BOM Upload</a> </li>
+                            <li><a href="http://www.componentbuy.com/bom/index.html">BOM Upload</a> </li>
                             <li><a href="http://www.componentbuy.com/sample-buy/">Sample Buy</a> </li>
                         </ul>
                     </div>
@@ -287,7 +322,7 @@
                         <li><a href="http://www.componentbuy.com/about-us/">About Us</a> </li>
                         <li><a href="http://www.componentbuy.com/contact-us/">Contact Us</a> </li>
                        
-                        <li><a href="http://www.componentbuy.com/faq/">FAQs</a> </li>
+                        <li><a href="http://www.componentbuy.com/faq">FAQs</a> </li>
                         <li><a href="http://www.componentbuy.com/privacy-policy/">Privacy Policy</a> </li>
                         <li><a href="http://www.componentbuy.com/terms-and-condition/">Terms and Condition</a> </li>
                     </ul>
@@ -297,19 +332,23 @@
                 <h6 class="footer-sub-title">NewsLetter</h6>
                 <p>Join Us</p>
                 <div>
-                    <form class="col s12" name="foot" id="newsemailid">
+                    <form class="col s12" name="foot" id="newsemailid" action="http://www.componentbuy.com/newsletter/index.php?action=newslettersubscibe" method="post">
                         <div class="row">
-                            <div class="input-field col s10 m10 newsemailid">
-                                    <input id="newsemail" name="email" type="email" class="validate newsemails" autocomplete="off" onkeypress="if(this.value.length==35) return false;" required="">
-                                    <!-- <div class="qtyerrors">Enter Valid Email Address</div> -->
+                            <div class="input-field col s10 m7 newsemailid">
+                            <label for="email">Email</label>
+                                    <input id="newsemail" name="newsemail2" type="email" class="validate newsemails" autocomplete="off" onkeypress="if(this.value.length==35) return false;" required="">
+                                  
                                     <span class="qtyerrorss">Invalid Email address</span>
-                                    <!-- <span class="qtyerrors">Invalid email address.</span> -->
-        
-                <label for="email">Email</label>
+                                  
                             </div>
-                            <div class="col s12 m2">
-                            <button class="waves-effect waves-light btn modal-trigger" href="#m1" disabled="">Submit</button>
+                            <div class="input-field col s10 m5 recaptchas " style="display:none">
+                            <input type="text" id="txtCaptcha" style="background-image:url(../assets/img/captcha-img.JPG);text-align:center; border:none;color:grey;
+                                        font-weight:bold; font-family:Modern" readonly="">
+                            <input type="button" id="btnrefresh" value="Refresh" onclick="DrawCaptcha();ValidCaptcha();">
+                                  
+                            <input type="text" id="txtInput" class="validate" autocomplete="off" placeholder="Enter Captcha‎" onkeypress="if(this.value.length==7) return false;" onkeyup="ValidCaptcha();" required="">    
                             </div>
+                            <button type="sumbit" class="waves-effect waves-light btn sbt right bopen" id="bopens" disabled="">Submit</button>
                         </div>
                     </form>
                 </div>
@@ -335,19 +374,19 @@
 
         </div>
     </div>
-    <div id="m1" class="modal fm">
-   <form name="verifyForm" action="http://www.componentbuy.com/newsletter/index.php/?action=newslettersubscibe" method="post">
+    <!-- <div id="m1" class="modal fm">
+   <form name="verifyForm" action="http://www.componentbuy.com/newsletter/index.php?action=newslettersubscibe" method="post">
     <div class="modal-content">
 <div class="row">
             <div class="col s12">
-                <input id="newsemail2" name="newsemail2" type="hidden">
+                <input id="newsemail2" name="newsemail2" type="hidden" >
                 <div class="g-recaptcha" data-sitekey="6LdEsyUTAAAAAM2Kq5Oifp5-jLqCphQuGLjkTpN0"></div>
                  <button type="submit" class="waves-effect waves-light btn sbt right ">Submit</button>
                 </div>
             </div>
         </div>
     </form>
-  </div>
+  </div> -->
 </div> 
 
 <!-- ======================================Footer Ends===================================== -->
@@ -361,7 +400,7 @@
   <script src="http://www.componentbuy.com/assets/js/scripts/xlsx.full.min.js"></script>
   <script src="//www.google.com/recaptcha/api.js"></script>
   <!--<script src="assets/js/scripts/base64.js"></script>-->
-  
+ <script src="http://www.componentbuy.com/assets/js/scripts/jquery.toast.js"></script>
 
 
 
@@ -431,11 +470,38 @@
 
     });
 </script>
+
+ <script>
+
+  /*   $.toast({
+         text: 'This will become the toast message',
+         position: 'top-right',
+         icon: 'success',
+         stack: false
+     })*/
+/*     $.toast({
+         heading: 'Positioning',
+         text: 'Use the predefined ones, or specify a custom position object.',
+         position: 'top-right',
+         icon: 'success',
+         stack: false
+     })*/
+ </script>
+<!-- <script>
+     $.toast({
+         heading: 'Positioning',
+         text: 'Use the predefined ones, or specify a custom position object.',
+         position: 'top-right',
+         icon: 'error',
+         stack: false
+     })
+ </script>-->
 <script>
  $(document).ready(function(){
     // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
     $('.modal-trigger').leanModal();
-        });
+
+  });
 
 </script>
 
@@ -449,7 +515,24 @@
 <script>
         //$('.carousel.carousel-slider').carousel({full_width: true});
         $('.slider').slider({full_width: true, indicators:true});
-</script> 
+        toastr.options = {
+            "closeButton": false,
+            "debug": false,
+            "newestOnTop": false,
+            "progressBar": true,
+            "positionClass": "toast-top-right",
+            "preventDuplicates": true,
+            "onclick": null,
+            "showDuration": "300",
+            "hideDuration": "1000",
+            "timeOut": "5000",
+            "extendedTimeOut": "1000",
+            "showEasing": "swing",
+            "hideEasing": "linear",
+            "showMethod": "fadeIn",
+            "hideMethod": "fadeOut"
+        }
+        </script> 
 <!--  <script>
 
  $(document).ready(function(){   
@@ -493,13 +576,13 @@
    })
 
  </script> -->
- <script>
+ <!-- <script>
   $('#newsemail').keyup(function(){
       var email = $('#newsemail').val()
       $("#newsemail2").val(email);
  });
  
- </script>
+ </script> -->
 
 
  <script>
@@ -526,6 +609,43 @@
          localStorage.setItem('bomData', JSON.stringify(bomData));
         }else{
 
+
+            localStorage.removeItem("bomData");
+
+            var bomData = {
+
+                'bomCartQty':bomUserQty
+
+            }
+            localStorage.setItem('bomData', JSON.stringify(bomData));
+
+           // localStorage.setItem('bomData','{}');
+
+
+
+        }
+     });
+
+
+ </script>
+
+
+
+<!--<script>
+     $(document).ready(function(){
+       
+        var bomUserQty=$("#bomCartQty").val();
+        
+
+        if(bomUserQty ){
+         var bomData = {
+            
+             'bomCartQty':bomUserQty        
+
+         }
+         localStorage.setItem('bomData', JSON.stringify(bomData));
+        }else{
+
             localStorage.removeItem("bomData");
             localStorage.setItem('bomData','{}');
             //localStorage.setItem('details','{}');
@@ -536,7 +656,7 @@
      });
 
 
- </script>
+ </script>-->
 <script>
 
     $('.newsemailid').keyup(function()
@@ -545,28 +665,120 @@
     var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
 
      var value = $(this).find('input.newsemails').val()
-
+    
+   
      if(value == null || value == '')
     {
             $(this).find('.qtyerrorss').hide()
-           
+            
     }
     else
     {
             if (reg.test(value) == false) 
         {
 			$(this).find('.qtyerrorss').show()
-            $('.modal-trigger').prop('disabled', true);
+            $('.recaptchas').hide()
+            $('.bopen').prop('disabled', true);
             return false;
         
         }
-        $(this).find('.qtyerrorss').hide()
-        $('.modal-trigger').prop('disabled', false);
-        return true;
+            $(this).find('.qtyerrorss').hide()
+            $('.recaptchas').show()
+            $('.bopen').prop('disabled', false);
+            return true;
     }         
     })
 
-</script> 
+   
+    
+</script>
+<script src="//code.tidio.co/6mufhq3w2z2nzsgbuebga5mjlyg3webe.js"></script>
+
+  
+<script type="text/javascript">
+
+   //Created / Generates the captcha function    
+    function DrawCaptcha()
+    {
+        var a = Math.ceil(Math.random() * 9)+ '';
+        var b = Math.ceil(Math.random() * 9)+ '';       
+        var c = Math.ceil(Math.random() * 9)+ '';  
+        var d = Math.ceil(Math.random() * 9)+ '';  
+        var e = Math.ceil(Math.random() * 9)+ '';  
+        var f = Math.ceil(Math.random() * 9)+ '';  
+        var g = Math.ceil(Math.random() * 9)+ '';  
+        var code = a + ' ' + b + ' ' + c + ' ' + ' ' + d + ' ' + e + ' '+ f + ' ' + g;
+        document.getElementById("txtCaptcha").value = code
+    }
+
+    // Validate the Entered input aganist the generated security code function   
+    function ValidCaptcha(){
+        var str1 = removeSpaces(document.getElementById('txtCaptcha').value);
+       
+        var str2 = removeSpaces(document.getElementById('txtInput').value);
+
+        if ((str1 == str2) == true){
+           
+           document.getElementById("bopens").disabled = false;
+            return true;
+           
+        }else{
+            document.getElementById("bopens").disabled = true;
+            return false;
+        }
+        
+    }
+
+    // Remove the spaces from the entered and generated code
+    function removeSpaces(string)
+    {
+        return string.split(' ').join('');
+    }
+    
+ 
+    </script>
+
+<script type="text/javascript">
+
+   //Created / Generates the captcha function    
+    function DrawCaptchas()
+    {
+        var a = Math.ceil(Math.random() * 9)+ '';
+        var b = Math.ceil(Math.random() * 9)+ '';       
+        var c = Math.ceil(Math.random() * 9)+ '';  
+        var d = Math.ceil(Math.random() * 9)+ '';  
+        var e = Math.ceil(Math.random() * 9)+ '';  
+        var f = Math.ceil(Math.random() * 9)+ '';  
+        var g = Math.ceil(Math.random() * 9)+ '';  
+        var code = a + ' ' + b + ' ' + c + ' ' + ' ' + d + ' ' + e + ' '+ f + ' ' + g;
+        document.getElementById("txtCaptchas").value = code
+    }
+
+    // Validate the Entered input aganist the generated security code function   
+    function ValidCaptchas(){
+        var str1 = removeSpacess(document.getElementById('txtCaptchas').value);
+        var str2 = removeSpacess(document.getElementById('txtInputs').value);
+        if ((str1 == str2) == true){
+            
+            document.getElementById("bopenss").disabled = false;
+             return true;
+            
+         }else{
+             document.getElementById("bopenss").disabled = true;
+             return false;
+         }       
+       
+        
+    }
+
+    // Remove the spaces from the entered and generated code
+    function removeSpacess(string)
+    {
+        return string.split(' ').join('');
+    }
+    
+ 
+    </script> 
 
 
 
