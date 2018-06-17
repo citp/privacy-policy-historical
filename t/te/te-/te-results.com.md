@@ -1,69 +1,90 @@
-> *The following text is extracted and transformed from the te-results.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212175838id_/http%3A//te-results.com/te-results_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the te-results.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617073433id_/http%3A//te-results.com/te-results_privacy_policy.php) for the most accurate reproduction.*
 
-# TE-Results - Traffic Exchange Results - Privacy Policy
+# Traffic Exchange Results (TE-Results.com) - Privacy Policy
 
 PC Support Services Ltd (Pete Tyson) operates the http://te-results.com website, which provides the SERVICE.
 
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at <http://te-results.com/te-results_termsandconditions.php>, unless otherwise defined in this Privacy Policy.
 
-**Information Collection and Use**
+**1\. Our Commitment to Privacy.**
 
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, IP Address and email address. The information that we collect will be used to contact or identify you.
+Our Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information (hereinafter defined) that you provide to us through our website. By visiting this website, you are accepting the practices described in this Privacy Policy.
 
-**Log Data**
+**2\. What Information is Collected**
 
-We want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer's Internet Protocol ('IP') address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
+(a) Information You Provide to Us:
 
-**Cookies**
+We collect the Personally Identifiable Information you choose to enter on various pages of our website, or that you may choose to give us in some other way (such as by email, physical mail, or by telephone). For example, you will be asked to provide Personally Identifiable Information when you register for access to certain portions of our website, sign up for newsletters or mailings, or make a purchase. 
 
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer's hard drive.
+The types of personal information that we seek to collect from you, for purposes of our website, include your first and last name, e-mail address, physical address, and telephone number, along with any other related relevant information (referred to herein collectively as "Personally Identifiable Information"). 
 
-Our website uses these 'cookies' to collect information and to improve our Service. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your computer. If you choose to refuse our cookies, you may not be able to use some portions of our Service.
+You can choose not to provide certain information, but you may not be able to take advantage of our services and features. 
 
-**Service Providers**
+(b) Automatic Information: 
 
-We may employ third-party companies and individuals due to the following reasons:
+When you visit a website, you disclose certain information, such as your Internet Protocol (IP) address and the time of your visit. This site, like many other sites, records this basic information about visits to our site. 
 
-  * To facilitate our Service;
-  * To provide the Service on our behalf;
-  * To perform Service-related services; or
-  * To assist us in analyzing how our Service is used.
+(c) “Cookies”:
 
+Cookies are pieces of information that are transferred to your computer from a web server.
 
+We use cookies to store visitor preferences, record session information (such as items that you add to your shopping cart), record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and customize Web page content based on visitors' browser type or other information that the visitor sends. 
 
-We want to inform our Service users that these third parties may have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie. You can also change your settings to refuse to accept cookies.
 
-**Advertising community**
+**3\. How and When the Information is Used**
 
-If you attempt to abuse our service, we will share your details and the details of the attempted abuse with the owners/administrators of other advertising sites. For example, abuse may include but is not limited to: 
+The information we collect is used for administering our business activities as follows: 
 
-  * Setting up multiple accounts
-  * Advertising content in violation of our terms
-  * Providing false information in your profile
-  * Attempting to cheat the surf timer or bot checks
-  * Attempting to use automated software to earn credits.
+(a) to improve the content of our website; 
 
+(b) to customize the content and/or layout of website pages for each individual visitor; 
 
+(c) to notify consumers about updates to our website; and 
 
-**Security**
+(d) to contact consumers for marketing purposes for our own business purposes. 
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+**4\. How We Protect Your Information.**
+
+The privacy and protection of your information is important to us. We offer some of our services in connection with other websites. The affiliated websites may have different privacy practices, and we encourage you to read their privacy policies. Your access to some services and content is password protected. We advise that you do not disclose your password to anyone. In addition, we recommend you sign out of password-protected services at the end of your session. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and the control of this policy, and you agree to waive any claim against us for liability arising from the foregoing activities. 
+
+Information about our users is important to us. Access to your information may be provided to third parties who help us perform the services on our website and third parties who provide technical support for the operation of our website. In addition, we may sell our business or buy, merge or partner with other companies or businesses. In such transactions, user information may be transferred along with other assets. We may also disclose your information in response to a court order, and we may disclose your information when we believe we are required to do so by law. We may disclose your information in connection with the collection of amounts you may owe to us and to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure.
+
+**5\. Methods We Use to Protect Your Information.**
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it.
+
+We use security software to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information and limit the use and disclosure of such information to authorized persons. 
 
 **Links to Other Sites**
 
 Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-**Children's Privacy**
+**6\. Children**
 
-Our Services do not address anyone under the age of 18. We do not knowingly collect personal identifiable information from children under 18. In the case we discover that a child under 18 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+This website does not provide services or sell products to children under the age of 18. 
 
-**Changes to This Privacy Policy**
+If we discover we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please contact us at the address listed below.
 
-We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+**7\. How You Can Access Your Information.**
+
+You can request access to all your Personally Identifiable Information maintained by us via [our help desk](http://te-results.com/helpdesk). Upon request we offer you the ability to have inaccuracies corrected in our records of your Personally Identifiable Information. You can have this information corrected by sending us amendments via [our help desk](http://te-results.com/helpdesk).
+
+**8\. Consent.**
+
+By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy.
+
+**9\. Changes to This Privacy Policy**
+
+If our Privacy Policy or procedures change, we will post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated.
+
+**10\. Effective Date.**
+
+This Privacy Policy is effective as of May 23, 2018
 
 **Contact Us**
 
