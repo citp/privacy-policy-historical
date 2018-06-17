@@ -1,93 +1,98 @@
-> *The following text is extracted and transformed from the livemint.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231061702id_/http%3A//www.livemint.com/Object/483E65M2lsKyJBVJaJtj3M/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemint.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617205320id_/https%3A//www.livemint.com/Object/483E65M2lsKyJBVJaJtj3M/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy & Policy - Livemint
 
-HT Media Ltd and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (personal information) you share with us 
+HT Digital Streams Limited (hereinafter referred as “HTDSL”) recognizes the importance of maintaining the privacy of every user who visits our website. We value your privacy and appreciate your trust in us. We are committed to be transparent about the data we collect about you, how it is used and with whom it is shared. 
 
-At HT Media Ltd we collect different types of information about our users for three main reasons: 
+This Privacy Policy applies when you use/visit our website, mobile or tablet application, or any other online service (collectively, the “Services”) that links or refers to it. It does not governs or apply to information collected or used by HTDSL or its group companies through any other means.
 
-1\. to help us to improve the services we offer 
+By visiting and/or using our website, you agree to this Privacy Policy. We strongly recommend you to read this privacy policy so that you understand our approach towards the use of your personal data.
 
-2\. to provide personalized services unique to individual users 
+HTDSL is a subsidiary of HT Media Ltd. It is licensed to operate and manage the websites of HT Media Ltd. and its subsidiaries (hereinafter referred as “Company”) . HTDSL manages hindustantimes.com, livehindustan.com, desimartini.com and livemint.com domains.
 
-3\. to use anonymous details about our users to sell appropriate advertising space on the site. This might mean showing an advertiser how many users we have on the site; it does not mean sharing an individual's details with an advertiser. Where we collect registration information from an individual, we will never share that individual’s information with a third party, including an advertiser, without that user’s explicit permission. 
+We reserve the right to modify this privacy statement at any time as in required. 
 
-**Cookies and Other Tracking Technologies**
+INFORMATION WE COLLECT
 
-Some of our Web pages utilize “cookies” and other tracking technologies. A “cookie” is a text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
+We collect information directly from user(s) , from third-parties and automatically through our websites/mobile applications.
 
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to block the cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site. 
+Registration for the Services may require that you supply certain personal information such as name, age, sex, contact number, email address and demographic information (area, location, IP address etc) to register. To aid convenience, users can sign up on any of our sites, and we extend the same login credentials to sign in to any of the other sites. (Single Sign-on feature). You may also register or link your account through third party accounts such as Facebook, Google etc.
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; click stream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allow us to improve our Web site and your Web experience. We may also analyze information that does not contain personal information for trends and statistics. 
+We collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. Your IP address does not identify you personally. We also collect and may store information that your computer or mobile device provides to us in connection with your use of our website/apps such as your browser type, type of computer or mobile device, browser language, IP address, mobile carrier, unique device identifier, location, and requested and referring URLs. We also receive information when you view content on or otherwise interact with our website/app/services, even if you have not created an account. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic on the website. This information may also be used by our advertisers/third party companies to personalize content, ads etc.
 
-To protect your privacy, we have adopted the following principles: 
+HOW WE COLLECT INFORMATION 
 
-  * Notice
-  * Choice
-  * Security
-  * Access/Accuracy
+  * a) We collect information directly from you when you register with us. 
+  * b) We collect information (whether you are registered or not registered with us) when you browse our sites/apps, open or respond to an email from us (promotional or informational), 
+  * c) When you post a comment on our website or raise a query/question to us through phone or email.
+  * d) We collect information from you when you register with us by linking your social media or third party accounts. By doing this, you are authorizing them to share with us certain information from such accounts, and authorizing us to collect, store, and use this in accordance with this Privacy Policy. 
+  * e) We collect information from you using third party tools, browser cookies and web beacons in order to improve user experience.
+  * f) Device Information We may collect non-personal information about the computer, mobile device or other device you use to access the service, such as IP address, geo-location information, unique device identifiers, browser type, browser language and other information for the purpose of providing customized information on the browser.
+  * g) Location Information Our mobile application and websites may capture your current location if you choose to enable GPS feature in the app or browser.
 
-**Notice**
 
-Where HT Media Ltd collects personal information on the Web, we intend to post a purpose statement that explains why personal information will be collected and whether we plan to share such personal information outside of HT Media Ltd or those working on HT Media Ltd’s behalf. HT Media Ltd does not intend to transfer personal information without your consent to third parties who are not bound to act on HT Media Ltd’s behalf unless such transfer is legally required. 
 
-**Choice**
+COOKIE POLICY , PIXELS AND TRACKING 
 
-You may choose whether or not to provide personal information to HT Media Ltd. The notice we intend to provide where HT Media Ltd collects personal information on the Web should help you to make this choice. If you choose not to provide the personal information we request, you can still visit most of HT Media Ltd’s Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you. 
+Cookies are small text files which contain a small amount of information that is downloaded to your computer or mobile device when you visit a website. When you visit the website again, or visit partner website which recognises that cookie, your device is able to communicate with our website and the website can read the information held in that cookie.
 
-If you chose to have a relationship with HT Media Ltd, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship. 
+We use Cookies to help you efficiently browse our websites and to save you time by not having to re-enter your details/preferences each time you visit. Cookies allow us to provide you with information and show you content relevant to you. We also use Cookies to analyse how our customers interact with our websites so we can improve the customer journey. 
 
-**Security**
+You can choose to accept or decline cookies in your browser settings. Most web browsers automatically accept cookies, but you can usually modify your browser setting to reject cookies if you prefer. You may find more help about managing cookies in your browser: [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en), [Internet Explorer](https://support.microsoft.com/en-in/help/17442/windows-internet-explorer-delete-manage-cookies), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) & [Safari](https://support.apple.com/kb/ph21411?locale=en_US). This may prevent you from having complete website experience by affecting the access to some of the links, services or features. Information collected by cookies and web beacons is not personally identifiable. 
 
-Wherever your personal information may be held within HT Media Ltd or on its behalf, we intend to take reasonable and appropriate steps to protect the personal information that you share with us from unauthorized access or disclosure. 
+HOW WE USE THE INFORMATION 
 
-**Third Party Services**
+**a) To Provide and Manage the Services You Request.** This includes, for example, processing your subscription, sending you electronic newsletters, or enabling you to participate in the features provided by the Services. It also includes providing personalized content and recommendations to you, including by email. Through such features, we are able to bring you information and content tailored to your individual interests and needs. 
 
-Third parties provide certain services available on scan.com on HT Media Ltd’s behalf. HT Media Ltd may provide information, including personal information that we collect on the Web to third-party service providers to help us deliver programmes, products, information, and services. Service providers are also an important means by which HT Media Ltd maintains its Web site and mailing lists. HT Media Ltd will take reasonable steps to ensure that these third-party service providers are obligated to protect personal information on HT Media Ltd’s behalf. 
+**b) To Reach You:** We may periodically contact you with offers and information about the Services and our affiliates, including in connection with your accounts, online surveys, legal notices, news stories, new features that you are entitled to access, and other important information. You may opt out of receiving commercial email messages from us by following the instructions contained in those email messages.
 
-HT Media Ltd does not intend to transfer personal information without your consent to third parties who are not bound to act on HT Media Ltd’s behalf unless such transfer is legally required. Similarly, it is against HT Media Ltd’s policy to sell personal information collected online without consent. 
+**c) To Customise Advertising.** We may use your information to facilitate the delivery of targeted ads, promotions, and offers to you, on behalf of ourselves and advertisers, on and off the Services. 
 
-**Your Consent**
+**d) Understand Our Readers and Users.** The Services conduct research on our users’ demographics, interests and behavior based on the information we collect. We do this to better understand and serve our users, and to improve our products and services.
 
-By using this Web site, you consent to the terms of our Terms of Use and to HT Media Ltd’s processing of personal information for the purposes given above as well as those explained where we collect personal information on the Web. Should there be changes to the Terms of Use, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our Web site for a reasonable period of time.
+**e) To Protect the Rights of the Services and others.** We may use your personal information as we believe is necessary or appropriate to protect, enforce, or defend the legal rights, privacy, safety, or property of the Services, its employees or agents, or other users and to comply with applicable law. 
 
-**Information security**
+**f) Consent.** We may otherwise use your information with your consent or at your direction.
 
-  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
-  * We restrict access of your personal information to our employees who need to know that information in order to operate, develop or improve our services.
+HOW WE SHARE YOUR INFORMATION 
 
-**Updating your information**
+The following provides information about entities with which we may share information. Our practices vary depending on the type of information.
 
-  * We provide mechanisms for updating and correcting your personal information for our services. For more information, please see the help pages for each service.
+**a) Logging In Through Social Media Services:** If you log into the Services with a social media service or if you connect a social media account with the Services, we may share your information with that social media service. The social media services’ use of the shared information will be governed by the social media services’ privacy policy and your social media account settings. If you do not want your information shared in this way, do not connect your social media service account with your Services.
 
-**Children**
+**b) Business Partners:** We may also share your information with business partners to provide you with services that you request. 
 
-  * HT Media Ltd will not contact children under age 13 about special offers or for marketing purposes without a parent’s consent
-  * HT Media Ltd does not solicit personal information from a child under age 13 in any given activity or promotion.
+**c) Service Providers:** We may share information with vendors providing contractual services to us, such as hosting vendors, advertising service providers, and list managers. We also may share your information, including your payment information, as appropriate to process your payments for the Services or complete a transaction.
 
-**Information Sharing and Disclosure**
+**d) Other Parties When Required by Law or As Necessary to Protect Our Users and Services:** We may share your personal information as we believe is necessary or appropriate to protect, enforce, or defend the legal rights, privacy, safety, or property of the Services, our employees or agents or users or to comply with applicable law or legal process, including responding to requests from public and government authorities.
 
-  * HT Media Ltd does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-    * We provide the information to trusted partners who work on behalf of or with HT Media Ltd under confidentiality agreements. These companies may use your personal information to help HT Media Ltd communicate with you about offers from HT Media Ltd and our marketing partners. However, these companies do not have any independent right to share this information. 
-    * We require a parent’s permission to share the information if the user is a child under age 13. Parents have the option of allowing HT Media Ltd to collect and use their child’s information without consenting to HT Media Ltd sharing this information with people and companies who may use this information for their own purposes.
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of HT Media Ltd’s terms of use, or as otherwise required by law. 
-    * We transfer information about you if HT Media Ltd is acquired by or merged with another company. In this event, HT Media Ltd will notify you before information 
-    * about you is transferred and becomes subject to a different privacy policy. 
-  * HT Media Ltd displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area.
-    * HT Media Ltd does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-    * HT Media Ltd advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
-  * HT Media Ltd works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed reference links.
+**e) Affiliates:** We may share information within our family of affiliated companies and business associates.
 
-**Confidentiality and Securit**
+**f) Third Parties that Provide Content, Advertising, or Functionality :** When you use our Services, third parties may collect or receive certain information about you and/or your use of the Services (e.g., hashed data, click stream information, browser type, time and date, information about your interactions with advertisements and other content), including through the use of cookies, beacons, mobile ad identifiers, and similar technologies, in order to provide content, advertising, or functionality or to measure and analyze ad performance, on our Services or other websites or platforms. This information may be combined with information collected across different websites, online services, and other linked or associated devices. These third parties may use your information to improve their own services and consistent with their own privacy policies.
 
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-  * We have physical, electronic, and procedural safeguards that comply with the laws prevalent in India to protect personal information about you. We seek to ensure compliance with the requirements of the Information Technology Act, 2000 and rules made thereunder to ensure the protection and preservation of your privacy
+**g) Other Parties in Connection With a Corporate Transaction :** We reserve the right to transfer any information we have about you in the event that we sell or transfer all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition, or in connection with a bankruptcy reorganization.
 
-**Changes to this Privacy Policy**
+**h) Otherwise With Your Consent or At Your Direction :** In addition to the sharing described in this Privacy Policy, we may share information about you with third parties whenever you consent to or direct such sharing.
 
-HT Media Ltd reserves the right to update, change or modify this policy at any time. The policy shall come to effect from the date of such update, change or modification. 
+**i)** We also may share other information with third parties in a manner that does not identify particular users, including, for example, aggregated data about how users are using our Services.
 
-**Contact Information**
+**j) Links to Third-Party Sites :** Our Services may link to third-party websites and services that are outside our control. We are not responsible for the security or privacy of any information collected by other websites or other services. You should exercise caution, and review the privacy statements applicable to the third-party websites and services you use.
 
-HT Media Ltd welcomes your comments regarding this privacy statement at the contact address given at the website. Should there be any concerns about contravention of this Privacy Policy, HT Media Ltd will employ all commercially reasonable efforts to address the same. 
+ACCESS TO PERSONAL INFORMATION
+
+You may access or modify your personal information by signing on to the website. We will not modify the information provided by you. However, you must update your personal information as soon as such changes are necessitated. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law(s). However, we will retain the required personal information from closed accounts to comply with law, Avoid/check illegal and/or potentially prohibited activities and to enforce User Agreements; Comply with any court judgment / decree / order / directive / legal & government authority /applicable law; Investigate potential violations or applicable national & international laws; Investigate deliberate damage to the website/services or its legitimate operation; Detect, prevent, or otherwise address security and/or technical issues; safeguard p the rights, property or safety of company and/or its Directors, employees and the general public at large; Respond to Claims of third parties; and take such other actions as may be permitted by law
+
+SHOULD YOU WANT TO OPT OUT
+
+If we possess your contact information, we may want to keep you posted about our products, services and events, through email. Should you prefer not to keep up to date with company related news and latest information on services and receive such marketing materials, please click on the unsubscribe link in the communication that you recieve. Further, a user may withdraw the consent given to the company on the website by communicating the same to us in writing on the email provided in the contact us section of the website. However, such withholding of information or withdrawal of consent may result in company not being able to provide services and facilities. We will update your preferences as soon as reasonably practical. However, do note, if you opt out of the companies emailing list, as described here, we will not be able to remove your personal information from the databases of affiliates, franchisees or business partners with which we have already shared your personal information, prior to the date of your opt-out request.
+
+REACH OUT TO US
+
+For any complaint related to our services or content of the website the aggrieved person may raise the query/complaint within a period of 7 (seven) days from the date of first publication to the email id mentioned herein:   
+Email: [privacymanager@hindustantimes.com](mailto:privacymanager@hindustantimes.com)
+
+HT Digital Streams Ltd.
+
+Corporate Office: 2nd Floor 18-20 KG Marg   
+New Delhi-110001  
+Phone: + 91 11 66561123 
