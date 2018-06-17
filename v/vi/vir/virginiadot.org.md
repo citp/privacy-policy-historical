@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginiadot.org privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226060903id_/http%3A//www.virginiadot.org/info/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginiadot.org privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618011116id_/http%3A//www.virginiadot.org/info/legal.asp) for the most accurate reproduction.*
 
 # Legal
 
@@ -77,4 +77,4 @@ In general, you can tell if you are on a secure page by looking at the symbol at
 
 If you have questions about this privacy statement, the practices of this site, or your interaction with this Web site, please contact us.
 
-Page last modified: Oct. 14, 2012
+Page last modified: Jan. 26, 2018
