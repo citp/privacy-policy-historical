@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicbricks.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212232718id_/http%3A//property.magicbricks.com/terms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicbricks.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617204149id_/http%3A//property.magicbricks.com/terms/privacy-policy.html) for the most accurate reproduction.*
 
 # Buy, Sell, Rent Property in India - Magicbricks.com
 
@@ -14,6 +14,9 @@ To avail certain sites / services on our websites, users are required to provide
 All required information is service dependent and MBRSL may use the above said User information to, maintain, protect, and improve its services (including advertising services) and for developing new services
 
 Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force.
+
+**PERSONAL INFORMATION COLLECTED**  
+We use third party services for the Chat offering on our Magicbricks App. For the same, Your email is shared with third party service provider to provide you services of the chat. Your personal information is safe with us and third party service provider. It is only needed to authorise you to use Chat functionality on our platform. We handle the user data securely. 
 
 **COOKIES**  
 To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. 
