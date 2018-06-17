@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the talkclassical.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118210734id_/http%3A//www.talkclassical.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkclassical.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617230728id_/http%3A//www.talkclassical.com/privacy.php) for the most accurate reproduction.*
 
 # Talk Classical - Privacy Policy
 
-  * [](http://www.talkclassical.com/index.php)
+  * [](https://www.talkclassical.com/index.php)
   * **PRIVACY POLICY**
 
 
@@ -20,9 +20,9 @@ Because we gather certain types of information about our users, we feel you shou
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
 
 FREDERIK MAGLE, c/o Det Danske Filmstudie, Blomstervænget 52, DK-2800 Lyngby, Denmark.  
-Or, you may contact us by using the [contact form](http://www.talkclassical.com/sendmessage.php) or via Private Message.
+Or, you may contact us by using the [contact form](https://www.talkclassical.com/sendmessage.php) or via Private Message.
 
-Additional Information: [Terms of Service](http://www.talkclassical.com/faq.php?faq=policies)
+Additional Information: [Terms of Service](https://www.talkclassical.com/faq.php?faq=policies)
 
 **INFORMATION THIS SITE GATHERS AND TRACKS**
 
