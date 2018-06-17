@@ -1,78 +1,179 @@
-> *The following text is extracted and transformed from the tinychat.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211222131id_/https%3A//tinychat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinychat.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617194658id_/https%3A//tinychat.com/privacy.html) for the most accurate reproduction.*
 
 # Live video chat rooms, simple and easy. - Tinychat
 
-## Privacy Policy
+## TinyChat Privacy Policy
 
-Tinychat provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.tinychat.com (this **“Site”** ) or the software or mobile application on which this Privacy Policy is presented (the Site and such applications and software referred to herein, as the **“Tinychat Platform”** ). This Privacy Policy applies only to information that you provide to us through this Tinychat Platform. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the portion of the Tinychat Platform applicable to you. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in the Tinychat [Terms of Service](https://tinychat.com/terms).
+Effective May 25, 2018
 
-As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+TinyChat values our users privacy and protection of their data, we build our apps and operate our business with this in mind.
 
-### Information Collection and Use
+TinyChat is a property of PeerStream Inc. who also operates Camfrog, TinyChat, FirstMet, 50more, Ribbit, Pack, Firetalk, and Vumber. Your services are provided by Peerstream Inc. who also acts as a data controller for your information.
 
-Our primary goals in collecting information are to provide and improve our Tinychat Platform, services, features and content, to administer your Membership (together, the **“Service”** ) and to enable users to enjoy and easily navigate the Tinychat Platform.
+This privacy policy applies to all of TinyChat’s services. By using TinyChat you agree to this Privacy Policy as well as our [Terms of Service](https://tinychat.com/terms.html).
 
-### Personally Identifiable Information.
+As part of providing a great experience for you this sometimes requires us to collect personal information from you. We have done our best to give you control and access to your data where possible and we want you to be aware how that data is being used. This policy will cover:
 
-  * When you register with us through the Tinychat Platform, as a Tinychat Member or when you choose to create your own profile webpage on the Tinychat Platform we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you ( **“Personal Information”** ). Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information, email address, home and business postal addresses, as well as any personally identifiable information that you provide during your video or chat sessions via the Service (e.g, images and identifications of yourself). We use your Personal Information mainly to provide the Service and administer your inquiries.
-  * We also collect the other information that you provide as part of registration and the administration and personalization of your profile webpage (e.g., without limitation, zip code (on its own), age, gender, and individual preferences) ( **“Non-Identifying Information”** ). 
-  * We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service, complete your transactions, and administer your inquiries.
-  * Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Tinychat Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Tinychat Platform and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.
-  * We also use your Personal Information to contact you with Tinychat newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “user preferences” information. (See **“Changing or Deleting Information,”** below.) 
-  * As a Member, you will have the option of granting Tinychat access to your account(s) with certain third-party social media and networking sites (each, an **“SNS”** ). By granting Tinychat access to your SNS account(s), you understand that Tinychat will access, render and store content from your SNS account(s), including Personal Information about you, so that it is available and viewable through the Service. In some instances, information (including Personal Information) that you post to your SNS account(s) will be viewable via the Service. We encourage you to read the privacy policies or statements of the other online services you use. You have the ability to disable the connection between the Service and an SNS, at any time, via the “Settings” section of the Site.
+  * What information we may collect about you
+  * What we may do with the information we collect about you
+  * Whether we share your information with anyone else
+  * How we use cookies on our site
+  * Where we store your information
+  * How we keep your information secure
+  * Your rights in relation to your information
 
 
 
-Log Data. When you visit the Site, whether as a Tinychat Member or a non-registered user just browsing (any of these, a **“Tinychat User”** ), our servers automatically record information that your browser sends whenever you visit a website ( **“Log Data”** ). This Log Data may include information such as your computer’s Internet Protocol ( **“IP”** ) address, browser type or the webpage you were visiting before you came to our Site, pages or portions of our Tinychat Platform that you visit or click on, the time spent on those pages, information you search for on the Tinychat Platform, access times and dates, and other statistics. We use this information to monitor and analyze use of the Tinychat Platform and the Service and for the Tinychat Platform’s technical administration, to increase the Tinychat Platform’s functionality and user-friendliness, and to better tailor it to our visitors’ needs. For example, some of this information is collected so that when you visit the Tinychat Platform again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Tinychat Platform meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
+At PeerStream Inc. we take your privacy seriously. We operate on the principle that your personal information belongs to you and only you can decide who you want to share it with and why. This is fundamental to the way we work and we’re committed to providing a secure environment for you to store your personal information and share it with others when you want to.
 
-### Cookies
+### 1\. Information you voluntarily provide
 
-Like many websites, we use **“cookies”** to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Tinychat Platform. Second, we utilize session ID cookies to enable certain features of the Tinychat Platform, to better understand how you interact with the Tinychat Platform and to monitor aggregate usage by Tinychat Users and web traffic routing on the Tinychat Platform. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Tinychat Platform and Service and then close your browser. Third party advertisers on the Tinychat Platform may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Tinychat Platform or all functionality of the Service.
+To register and interact with members on the site, many times you will be prompted to share information with us to improve your experience while using the product. Some of the information you may share with us includes:
 
-### Emailing Via a Tinychat Account
+  * User nickname
+  * E-mail address
+  * Address or location information
+  * Birthdate
+  * Gender
+  * Interests
+  * Payment information
+  * Photos
+  * Personal description
+  * Shared social network details
+  * Information to customer support
+  * Mobile Number
+  * Name
+  * Real time or recorded video and audio
 
-As part of the Service, Tinychat Users may communicate with other Tinychat Users through use of their accounts. Where Tinychat Users have selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from Tinychat to those email addresses on their behalf. These email addresses will be stored in the address book the Tinychat User creates and will be used only for the purpose of sending the email communication to the addressee.
 
-### Phishing
 
-Identity theft and the practice currently known as **“phishing”** are of great concern to Tinychat. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
+We primarily use this information to help other users find and connect with you, if you want to update this information you can visit [TinyChat Settings](https://tinychat.com/settings/profile) at any time to do so. If you specifically desire, we will use your social networking data to allow you to create an account with data you have on another site. Your payment information is used when you decide to purchase premium parts of the Service. Information shared with customer support will be used solely to address the issue(s) you have brought to our attention.
 
-### Information Sharing and Disclosure
+### 2\. Information we collect about you and your device
 
-Tinychat Members. When you register through the Tinychat Platform and submit your Personal Information to create a profile webpage, Tinychat Users and users of certain third-party websites will see your **“Screen Name”** ( **“Required Member Identifiers”** ). You can choose what other Personal Information or other information to provide as part of your profile or through your video or chat sessions ( **“Other Member Information”** ) and in some cases you can choose whether to share your profile information publicly on the Tinychat Platform by making selections via the **“user preferences”** section of your profile webpage. Providing Other Member Information is voluntary and should correlate with the degree of interaction you want to have with Tinychat Users. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your **“Screen Name,”** since that would allow others to identify you. You can review and revise your profile information at any time.
+When you use TinyChat and interact with our services, we may use technology to collect information about your activity. Some of the data that is collected while using the website and mobile/desktop clients may include:
 
-Aggregate Information and Non-Identifying Information. We may share aggregated information that includes your Personal Information, Non-Identifying Information and Log Data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services. You will have the opportunity to opt out of the sharing of your information described in this paragraph. If you would like us to opt out of sharing your information for such purposes, please contact us at privacy@tinychat.com with a request that we not share your information with third parties.
+  * IP address
+  * Type of browser you use
+  * Number of sessions per browser/client on each device
+  * Type of device and operating system
+  * Referrer information
+  * Local language
+  * Actions taken while in the client or on the website
+  * Device identifiers
 
-Service Providers. We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Tinychat Platform-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Tinychat Platform’s features) or to assist us in analyzing how our Tinychat Platform and Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications.
 
-Compliance with Laws and Law Enforcement. Tinychat cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Tinychat or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical, offensive or legally actionable activity.
 
-Video Broadcasts. Video and chat sessions may be broadcast live, or recorded and re-broadcast, through third party websites. We recommend that you exercise caution in disclosing any information, personal or otherwise, during a video or chat session. Such information will be broadcast along with the relevant video or chat session to other users and third parties viewing such videos or chat sessions through the Tinychat Platform and third party websites.
+We use this information to help tailor your experience for your device/language. We also use this information to help prevent fraud as well as identify service issues.
 
-Business Transfers. Tinychat may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. [You will have the opportunity to opt out of any such transfer if the new Tinychat's planned processing of your information differs materially from that set forth in this Privacy Policy.]
+### THIS IS WHAT WE DO WITH THE INFORMATION WE COLLECT ABOUT YOU
 
-### Changing or Deleting Your Information
+We use the information you provide to us to:
 
-All Tinychat Members may review, update, correct or delete the Personal Information in their registration profile by visiting the account settings and profile settings features on the Tinychat Platform. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us at privacy@Tinychat.com with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+  * Enable us to provide the Services
+  * Ensure that our apps/website are presented in an effective manner for you and for your device
+  * Provide you with marketing information about us and our services [Opt out here](https://tinychat.com/settings/account)
+  * Notify you about changes to TinyChat
+  * Carry out our obligations arising out of the Terms of Service
+  * Defend our servers against malicious attacks
 
-### Security
 
-Tinychat is very concerned with safeguarding your information. The security of your personal information is important to us. But remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. When you enter sensitive information (such as credit card number or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). In some cases, we also encrypt sensitive information where it is stored on our systems.
 
-We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored **“personal data”** (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Tinychat Platform in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+We try to be as careful as possible when using your data. Anywhere we take in personal data or perform actions we feel may be optional or objectionable to you, we will ask for your consent which can also be revoked at a later date. We are always looking to improve and as we identify data that falls into this category will will continue to add new messaging to you so you are always aware of when we take in your data and how we process it.
 
-### International Transfer
+### OUR USE OF AGGREGATED AND ANONYMIZED INFORMATION
 
-Your information may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Tinychat transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+We may share anonymized usage data which does not identify you specifically with third parties. We may combine your data with those of other users of PeerStream Inc. and share this information in aggregated and anonymized form with third parties to help us improve the design and delivery of our software tools, increasing the effectiveness for all users.
 
-### Links to Other Sites
+### THIS IS WHO WE SHARE YOUR INFORMATION WITH
 
-The Tinychat Platform contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you may be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+We work with 3rd parties to help with many things including sharing information with you, helping us support you, preventing fraud, protecting our infrastructure, and providing a better experience for you.
 
-### Our Policy Toward Children
+We are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation or request, and/or to protect the safety of our other users.
 
-The Tinychat Platform is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at Privacy@Tinychat.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+Some of our advertising partners may deploy their own tracking or cookies not administered by PeerStream Inc. These technologies are subject to our advertisers’ Privacy Policies. You can learn more about this below under the Cookies, Pixels and Local Storage section.
 
-### Contacting Us
+Below is a non-exhaustive list of third parties we work with. We may work with third parties not listed below or stop working with the third parties listed below.
 
-If you have any questions about this Privacy Policy, please contact us at [support@tinychat.com](mailto:support@tinychat.com).
+  * Facebook
+  * Google
+  * Google Analytics
+  * Twitter
+  * VWO
+  * Intercom
+  * Sift Science
+  * Stripe
+
+
+
+### OUR USE OF COOKIES, PIXELS AND LOCAL STORAGE
+
+Cookies are small pieces of data that are stored on your computer, mobile phone or other device. Pixels are small blocks of code on web pages that do things like allow another server to measure viewing of a web page and are often used in connection with cookies. HTML5 Local Storage is a small database located inside your browser which web pages can use to store data to speed up their processing. We may use all three technologies from time to time to help improve your browsing experience.
+
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, storing your preferences, and generally improving your experience on TinyChat Cookies make the interaction between you and TinyChat faster and easier. Cookies and other things like local storage also help us authenticate you to deliver personalized content to you.
+
+Please refer to your device’s help material to learn what controls you can use to remove or block cookies. **Please remember that if you do this, it may affect your ability to use TinyChat**. As you use your device, you will encounter third parties that make use of cookies and similar technologies. We are not responsible for those third parties or what they may place on your device or in your browser.
+
+If you are a user who is protected under the European GDPR you have the ability to manage your cookies here.
+
+### KEEPING INFORMATION SECURE
+
+Information you provide to us is stored on servers owned and operated by Amazon Web Services, Inc. More information on this provider is available at [https://aws.amazon.com](https://aws.amazon.com/). We use many best practice security measures to keep this data safe including private networking, firewalling, role based access controls, authentication, backups and monitoring. When your data is moved off of our servers for any reason we leverage the best means available to us to make sure your data is secure in transit.
+
+### HERE ARE YOUR RIGHTS
+
+We think it is important that you are able to control your personal information.
+
+For our European users who are protected by the GDPR:
+
+You have the right to ask us not to process your personal information for marketing purposes. You can exercise your right to prevent such processing at any time by contacting us [HERE](https://app-eu.onetrust.com/app/#/webform/3ed1a211-ee01-4dd3-8dba-363031672b13).
+
+The law gives you the right to request a copy of the personal information we hold about you. We may request additional information about you to verify your identity before we do such. We will supply, correct or delete personal information about you on our files. In addition, you may request rectification or erasure of personal information as well as the restriction of processing of your personal information. We will comply with your requests in accordance with the applicable law.
+
+If you wish to complain about the processing of your personal information then please contact us first, but if we do not satisfactorily deal with your complaint, then you may contact the Information Commissioner.
+
+For our users not covered under GDPR:
+
+You may contact our support staff [here](https://help.tinychat.com/) who will work with you to answer questions and take action to protect your privacy.
+
+### THIRD PARTY PROPERTIES ACCESSED FROM TinyChat
+
+TinyChat may contain links to and from the online properties of third parties. If you follow a link to any of these online properties, please note that these online properties have their own privacy policies which will govern use of any personal information that they process. Please check these policies carefully before you click on any links and/or submit any personal information to these online properties.
+
+### CHANGE OF CONTROL
+
+If the ownership of our business changes, we may transfer your information to the new owner so they can continue to operate TinyChat and provide services. The new owner will be obliged to comply with this Policy.
+
+### CHANGES TO OUR POLICY
+
+Any changes we may make to this Policy will be posted on this page. Where it makes sense because the changes are material, we will notify you by e-mail or in another appropriate manner such as when you next interact with TinyChat.
+
+### SURVEYS AND PROMOTIONS
+
+From time-to-time we may request information from you via surveys, contests or sweepstakes. Participation is completely voluntary. Information collected in any sweepstakes or contest may be used as set forth in this Policy and as described in the official rules, such as to notify the winners, award prizes and file winners’ information, as required by law. Survey information will be used for the purposes of the survey.
+
+### ARBITRATION
+
+Any disputes under this Privacy Policy will be resolved in accordance with binding arbitration as outlined in the [Terms of Service](https://tinychat.com/terms.html).
+
+### TARGETING AND TRACKING
+
+We may use Tracking Technologies to deliver content, including ads, relevant to your interests on the Services and third party sites based on how you interact with our advertisements or content, and to track the content you access.
+
+To better understand your purchasing preferences, we may also use third party vendors that provide tracking tools that recognize and collect usage and interest information across the sites you’ve visited from your various Devices. When you visit the Services on a specific Device, a unique ID is created for that Device which may be based on your hashed (de-identified) email address. This allows us and our third party vendors to deliver relevant product recommendations, personalized content and advertising to you based on your interests gathered across multiple sites. This data may be combined with the same information from another browser or Device if you use multiple browsers or Devices. Third party tracking tools might also obtain information about other applications that you have downloaded to your mobile Device, the websites you visit and other information about you or your Device in order to analyze and serve anonymous targeted advertising on the Services and elsewhere.
+
+### INTERNET ADVERTISING
+
+We or our advertising partners may use Tracking Technologies to collect Information about your visits over time and across the Services and other third-party websites, and combine that information with other information received from other sources, in order to serve more targeted advertising to you. For example, we use Google interest based cookies to serve personalized ads to you. Our ad partners automatically receive your IP address or Device identifier when this happens. Their tools may also limit the number of times you see the same ad and help measure the effectiveness of our advertising campaigns. These third parties may also use information gathered from your use of the Services to serve targeted, interest based advertisements from other advertisers to you on third-party websites and applications.
+
+The Digital Advertising Alliance (“DAA”) has also made available for consumers tools on which you can register your choices not to be tracked by participating advertising networks or companies in the collection and use of your online activities. These are (1) [The DAA Consumer Choice Page for Mobile Web](http://www.aboutads.info/choices/) and (2) [DAA AppChoices](http://www.aboutads.info/appchoices), which is a mobile app that allows you to opt out of the collection and use of cross-app data, other than for permitted uses, by listed third-party AppChoices participants. You may opt out of mobile-app targeted advertising ads from any or all of the listed participating advertising networks. You can download the free mobile app from an app store available on your mobile platform. When you opt out with a particular participating advertising network, the mobile app adds your device identifier to that participant’s opt-out list. The participant advertising network is then notified to block the device identifiers on the opt-out list. You can also prevent your receipt of interest-based ads on websites by deleting and declining cookies in your browser(s). Note that your opt-out choice is applied only to the browser from which you make the choice.
+
+Some newer mobile device operating systems allow you to limit the use of information to deliver interest-based advertising in mobile applications, or your mobile web browser may provide a “Do Not Track” browser setting which will notify those ad servers and networks who recognize the signals to refrain from sending you interest based ads to your mobile device. You can check the settings on your device for such options in your device’s operating system. Alternatively, you may wish to download the TrustE mobile application and/or the Digital Alliance “App Choices” mobile application and follow the instructions provided.
+
+If you opt-out of receiving targeted ads on our Services, you may continue to receive advertising and promotional messages after you opt-out, but they will not be customized or personalized to you based on your use of our Services.
+
+We disclaim the accuracy and reliability of third-party notices and choice mechanisms. We disclaim responsibility for noncompliance of others.
+
+### CONTACTING US IS EASY AND WE WANT TO HEAR FROM YOU
+
+We really do welcome any questions, comments and requests you may have regarding this Policy. You can contact us by visiting our [Help Center](https://help.tinychat.com/).
