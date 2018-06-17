@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gturls.com privacy policy that was archived on 2017-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171222003619id_/http%3A//gturls.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gturls.com privacy policy that was archived on 2018-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180617145108id_/http%3A//gturls.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8"><title>Privacy Policy</title>
@@ -19,6 +19,15 @@
 <![endif]-->
 </head>
 <body class="inner-page">
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-104306879-1"></script>
+<script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
+
+   gtag('config', 'UA-104306879-1');
+ </script>
 
 <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
 <div class="container">
@@ -54,14 +63,12 @@
 <a href="/member/dashboard">Sign In</a>
 </li>
 <li class="dropdown language-selector">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-language"></i> <span class="caret"></span></a>
+ <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-language"></i> <span class="caret"></span></a>
 <ul class="dropdown-menu">
- <li>
+<li>
 <a href="/pages/privacy?lang=ar_EG">العربية (مصر)</a> </li>
 <li>
 <a href="/pages/privacy?lang=en_US">English (United States)</a> </li>
-<li>
-<a href="/pages/privacy?lang=es_ES">español (España)</a> </li>
 <li>
 <a href="/pages/privacy?lang=fr_FR">français (France)</a> </li>
 </ul>
@@ -121,7 +128,7 @@
 </ul>
 </div>
 <div class="col-sm-4 copyright">
-<div>Copyright © Gturls™ 2017</div>
+<div>Copyright © Gturls™ 2018</div>
 </div>
 </div>
 </div>
@@ -146,7 +153,7 @@
     app_vars['captcha_signup'] = 'yes';
     app_vars['captcha_forgot_password'] = 'yes';
     app_vars['captcha_contact'] = 'yes';
-    app_vars['counter_value'] = '7';
+    app_vars['counter_value'] = '10';
     app_vars['counter_start'] = 'load';
     app_vars['get_link'] = 'Get Link';
     app_vars['getting_link'] = 'Getting link...';
@@ -157,6 +164,15 @@
 </script>
 <script src="http://gturls.com/js/ads.js"></script><script src="http://gturls.com/vendor/jquery.min.js?ver=4.5.1"></script><script src="http://gturls.com/vendor/bootstrap/js/bootstrap.min.js?ver=4.5.1"></script><script src="http://gturls.com/vendor/owl/owl.carousel.min.js?ver=4.5.1"></script><script src="http://gturls.com/vendor/wow.min.js?ver=4.5.1"></script><script src="http://gturls.com/vendor/clipboard.min.js?ver=4.5.1"></script><script src="http://gturls.com/modern_theme/js/front.js?ver=4.5.1"></script><script src="http://gturls.com/js/app.js?ver=4.5.1"></script>
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadRecaptchaCallback&amp;render=explicit" async="" defer=""></script>
+<script>
+      $(document).ready(function() {
+          $('#referNav a').on('click', changeClass);
+      });
+
+      function changeClass() {
+         $('#referNav a').removeClass('acttive');
+      }
+      </script>
 
 
 </body></html>
