@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the preachingtoday.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123044630id_/http%3A//www.christianitytoday.org/help/permissionsandprivacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preachingtoday.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617094204id_/https%3A//www.christianitytoday.org/help/permissionsandprivacy/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Help | Christianity Today
+# Privacy Policy | ChristianityToday.org
 
 Thank you for visiting a website of Christianity Today (CT). Protecting your privacy is very important to us. To assure you of your privacy, we provide this notice to help you understand our commitment to security, what kinds of information we may gather about you when you visit our websites, how we may use that information, and how you can correct the information.
 
@@ -40,13 +40,13 @@ If you wish to opt out of the use of your PII for marketing purposes, please let
 
 Cookies are a technology that helps us serve you better. Our cookies collect no personally identifiable information. We use cookies to help us know when and how many people visit our websites; to store your personal preferences for paid online subscription services you may subscribe to, in order to provide you with the best experience possible; and to record session information, such as items that you add to your shopping cart.
 
-For example, we may use Google Analytics and Advertising cookies to perform statistical, demographic, interest and marketing analyses for product development, to generally inform advertisers about the nature of our customers and to improve customer relationships. This information is not personally identifiable and is only used in aggregate.
+For example, we may use Google Analytics and Advertising cookies to perform statistical, demographic, interest and marketing analyses for product development, to generally inform advertisers about the nature of our customers and to improve customer relationships. We may also use these cookies to deliver more relevant advertising through Facebook or Google’s Display Network, but this information is not personally identifiable and is only used in aggregate.
 
 Our third party service providers and advertisers may also use cookies to manage and measure the performance of advertisements displayed on or delivered by or through our websites and to provide more relevant advertising. See "Collection of Information by Third-Parties, Ad Servers, and Sponsors" below for more information.
 
-CT, our third party service providers or advertisers may use web beacons (clear .gifs) or similar technologies, which are small pieces of code placed on a web page or in an email newsletter, to monitor the behavior and collect data about the visitors viewing the web page or email newsletter. For example, web beacons may be used to count the users who visit a web page, open an email newsletter or deliver a cookie to the browser of a visitor viewing a web page.
+Our third party service providers or advertisers may use web beacons (clear .gifs) or similar technologies, which are small pieces of code placed on a web page or in an email newsletter, to monitor the behavior and collect data about the visitors viewing the web page or email newsletter. For example, web beacons may be used to count the users who visit a web page, open an email newsletter or deliver a cookie to the browser of a visitor viewing a web page.
 
-You have the choice to set your browser to accept all cookies, notify you when a cookie is set, delete cookies periodically, or reject all cookies. You may also [opt-out of Google Analytics’ cookies here](https://tools.google.com/dlpage/gaoptout/). Generally, deleting or rejecting cookies also disables web beacons. Please be aware that rejecting all cookies may prevent you from enjoying the full features offered through CT's and other websites. Check the "Help" section of your browser for more information.
+You have the choice to set your browser to accept all cookies, notify you when a cookie is set, delete cookies periodically, or reject all cookies. You may also [opt-out of Google Analytics’ cookies here](https://tools.google.com/dlpage/gaoptout/), [Facebook’s cookies here,](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen) and [Hotjar’s cookies and services here](http://www.hotjar.com/legal/compliance/opt-out). Generally, deleting or rejecting cookies also disables web beacons. Please be aware that rejecting all cookies may prevent you from enjoying the full features offered through CT's and other websites. Check the "Help" section of your browser for more information.
 
 #### Collection of Information by Third Parties, Sponsors and Ad Servers
 
@@ -61,6 +61,8 @@ CT sometimes partners with third parties that operate websites and services you 
 > A contest or sweepstakes may be sponsored by or co-sponsored with third parties as identified in the contest or sweepstakes' Official Rules. By virtue of these relationships, the third parties may obtain PII that visitors voluntarily submit to participate in the website activity. We have no control over these third parties' use of this information. Consult the Official Rules to determine whether these third parties will obtain such information.
 
 > CT provides readers the convenience of signing onto our websites using third-party social login credentials for accounts such as Facebook, Twitter, Linked-In or Google. This allows you to link your existing social profile to your CT account. Once connected, you will be able to post content directly on our websites or share content to social networks from our websites. Our websites may also access certain information from your third-party social profile such as your name, profile picture, gender, and email address.
+
+We use [Hotjar](https://www.hotjar.com/) in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device's IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy). You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site, and Hotjar’s use of tracking cookies on other websites by following this [opt-out](https://www.hotjar.com/legal/compliance/opt-out) link.
 
 #### Ad Choices
 
@@ -102,7 +104,7 @@ If you do not want to receive email from us in the future, please contact us via
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. We will post any such policy changes on our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check our website periodically.
 
-The Privacy Policy posted on this website was updated on or about January 1, 2014.
+The Privacy Policy posted on this website was updated on or about May 17, 2018.
 
 We welcome your comments regarding this Privacy Policy. If you have any questions or comments, please feel free to [contact us](https://web.archive.org/myaccount/?page=contact).
 
