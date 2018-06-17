@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the twitonomy.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208042311id_/http%3A//www.twitonomy.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitonomy.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617143733id_/http%3A//www.twitonomy.com/content/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy // Twitonomy
 
-Twitonomy.com is a service brought to you by Diginomy Pty Ltd (ACN 162 821 954) ("we" or "us" or "Twitonomy" or "Diginomy"). We collect and manage user data according to the following Privacy Policy. This document is part of our [Terms of Service](https://www.twitonomy.com/content/terms.php), and by using Diginomy services and Twitonomy.com (the “Service” or the "Website"), you agree to the terms of this Privacy Policy and the Terms of Service.
+Twitonomy.com is a service brought to you by Diginomy Pty Ltd (ACN 162 821 954) ("we" or "us" or "Twitonomy" or "Diginomy"). We collect and manage user data according to the following Privacy Policy. This document is part of our [Terms of Service](https://www.twitonomy.com/content/terms.php), and by using Diginomy services and Twitonomy.com (the "Service" or the "Mobile Application" or the "Website"), you agree to the terms of this Privacy Policy and the Terms of Service.
 
-Diginomy analyzes Twitter data that is made available publicly through the Internet in order to provide the Service. We present some of this data on the Website and may share it with our third party partners (as described in more details below). Diginomy does not analyze non-public data from private networks.
+Diginomy analyzes Twitter data that is made available publicly through the Internet in order to provide the Service. We present some of this data on the Website or the Mobile Application and may share it with our third party partners (as described in more details below). Diginomy does not analyze non-public data from private networks.
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations).
 
-The information we collect is used to provide the Service, to improve the content of our Website and the quality of our Service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+The information we collect is used to provide the Service, to improve the content of our Website or our Mobile Application and the quality of our Service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
   * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
   * We transfer information about you if Diginomy is acquired by or merged with another company. In this event, Diginomy will notify you before information about you is transferred and becomes subject to a different privacy policy.
@@ -31,13 +31,13 @@ Diginomy is committed to abide by Twitter’s rules regarding Third Party applic
 
 At any time you can revoke Twitonomy's access to your Twitter account from your settings page on Twitter. However revoking our access to your Twitter account will prevent you from using the Service.
 
-Diginomy operates from Australia and France. By using the Service, you acknowledge and agree that your Personal Information may be transferred, processed and stored in these countries. You also understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
+Diginomy operates from Australia and the United States of America. By using the Service, you acknowledge and agree that your Personal Information may be transferred, processed and stored in these countries. You also understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
 
-When you interact with the Website or use the Service, our servers automatically receive and store certain information ("Log Data"). This Log Data is collected passively and may include information such as, but not limited to, your IP address, browser type, the Website pages you visit, the search terms you use. For most users accessing the Internet from an Internet service provider, the IP address will be different every time you log on. We use Log Data to provide you with the Service and pool it with other information to monitor the use of the Service, and for the administration and improvement of the Service.
+When you interact with the Website, the Mobile Application or use the Service, our servers automatically receive and store certain information ("Log Data"). This Log Data is collected passively and may include information such as, but not limited to, your IP address, browser type, device type, the Website pages you visit, the search terms you use. For most users accessing the Internet from an Internet service provider, the IP address will be different every time you log on. We use Log Data to provide you with the Service and pool it with other information to monitor the use of the Service, and for the administration and improvement of the Service.
 
 ## Cookies
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser or device from a web site's computers and stored on your device's storage space.
 
 Cookies are required to use Diginomy’s services.
 
