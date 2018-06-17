@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the checkiday.com privacy policy that was archived on 2017-09-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170901153625id_/https%3A//www.checkiday.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the checkiday.com privacy policy that was archived on 2018-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180617223134id_/https%3A//www.checkiday.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -83,17 +83,17 @@
 <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script defer="" src="//cdnjs.cloudflare.com/ajax/libs/material-design-lite/1.3.0/material.min.js"></script>
 
 <!-- jQuery -->
-<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 <!-- Moment.JS -->
-<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
-<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.13/moment-timezone-with-data-2012-2022.min.js"></script>
+<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js"></script>
+<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.17/moment-timezone-with-data-2012-2022.min.js"></script>
 
 <!-- Cookies -->
-<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.4/js.cookie.min.js"></script>
+<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
 
 <!-- Copy to clipboard -->
-<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
+<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.1/clipboard.min.js"></script>
 
 <script>
   // Google Analytics
@@ -273,8 +273,11 @@
       <a href="https://play.google.com/store/apps/details?id=com.westy92.checkiday" class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect android">
         <i class="fa fa-android"></i>
       </a>
-      <a href="/updates.php#ios" class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect apple">
+      <a href="https://itunes.apple.com/app/checkiday/id1392571763" class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect apple">
         <i class="fa fa-apple"></i>
+      </a>
+      <a href="https://assistant.google.com/services/a/id/7e9850127c09d095/" class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect google-assistant">
+        <img src="https://static.checkiday.com/img/google_assistant_logo.png" alt="Google Assistant Logo" style="width: 24px">
       </a>
       <a href="/updates.php#windows" class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect windows">
         <i class="fa fa-windows"></i>
@@ -322,6 +325,8 @@
         <li><a href="https://twitter.com/checkiday">Twitter</a></li>
         <li><a href="https://checkiday.tumblr.com/">tumblr</a></li>
         <li><a href="https://www.pinterest.com/checkiday/holidays/">Pinterest</a></li>
+        <li><a href="https://www.instagram.com/checkidayofficial/">Instagram</a></li>
+        <li><a href="/updates.php#email">Email</a></li>
         <li><a href="/updates.php#rss">RSS</a></li>
         <li><a href="/updates.php#ical">iCal</a></li>
       </ul>
@@ -333,12 +338,11 @@
       <ul class="mdl-mega-footer__link-list">
         <li><a href="https://play.google.com/store/apps/details?id=com.westy92.checkiday">Android</a></li>
         <li><a href="/updates.php#ios">iOS</a></li>
-        <li><a href="/updates.php#email">Email</a></li>
+        <li><a href="https://assistant.google.com/services/a/id/7e9850127c09d095/">Google Assistant</a></li>
         <li><a href="/updates.php#bookmark">Bookmark</a></li>
         <li><a href="/updates.php#windows">Windows</a></li>
         <li><a href="/widget.php">Widget</a></li>
         <!--<li><a href="/updates.php#echo">Amazon Alexa</a></li>-->
-        <!--<li><a href="/updates.php#google_home">Google Home</a></li>-->
       </ul>
     </div>
 
@@ -346,7 +350,6 @@
       <input class="mdl-mega-footer__heading-checkbox" type="checkbox" checked="">
       <h3 class="mdl-mega-footer__heading">Fan Pages</h3>
       <ul class="mdl-mega-footer__link-list">
-        <li><a href="https://www.instagram.com/checkidayofficial/">Instagram</a></li>
         <li><a href="https://plus.google.com/+Checkiday">Google+</a></li>
         <li><a href="https://www.linkedin.com/company/checkiday.com">LinkedIn</a></li>
       </ul>
@@ -355,7 +358,7 @@
   </div>
 
   <div class="mdl-mega-footer__bottom-section">
-    <div class="mdl-logo">Copyright © 2017 <a href="http://www.westy92.com/">Westy92 LLC</a>.</div>
+    <div class="mdl-logo">Copyright © 2018 <a href="http://www.westy92.com/">Westy92 LLC</a>.</div>
     <ul class="mdl-mega-footer__link-list">
       <li><a href="/privacy.php">Privacy Policy</a></li>
     </ul>
@@ -458,12 +461,15 @@
     });
 
     // Copy to clipboard
-    var clip = new Clipboard('.clip');
+    var clip = new ClipboardJS('.clip');
     clip.on('success', function() {
       snackbar.push({
         message: 'Copied to clipboard.',
       });
     });
+
+    // Add target="_blank" to all external links without a target
+    $("a[href^='http']").not("a[href^='https://www.checkiday.com']").not('a[target]').attr('target', '_blank');
   });
 </script>
       </main>
