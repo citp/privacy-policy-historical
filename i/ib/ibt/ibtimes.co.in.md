@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibtimes.co.in privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228005226id_/http%3A//www.ibtimes.co.in/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibtimes.co.in privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618014102id_/https%3A//www.ibtimes.co.in/corporate/privacy-policy) for the most accurate reproduction.*
 
 # International Business Times India ::: Privacy & Policy
 
@@ -90,7 +90,7 @@ You may review and update the personally identifiable information that you have 
 
 ###  PLEASE ALSO VISIT THE BELOW MENTIONED GOOGLE WEB PAGE
 
-[How Google uses data when you use our partners' sites or apps](http://www.google.com/intl/en/policies/privacy/partners/)
+[How Google uses data when you use our partners' sites or apps](https://www.google.com/intl/en/policies/privacy/partners/)
 
 Subscribers to International Business Times Online  
 may contact Customer Service at [info@ibtimes.co.in](mailto:info@ibtimes.co.in) Most subscribers to International Business Times Online may also update their information by going to Member Center. 
