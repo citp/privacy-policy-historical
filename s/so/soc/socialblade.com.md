@@ -1,8 +1,26 @@
-> *The following text is extracted and transformed from the socialblade.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228000837id_/https%3A//socialblade.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialblade.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617025823id_/https%3A//socialblade.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Blade
 
 ## Privacy Policy
+
+### The Easy To Read Version
+
+Please read the full terms below, but in order to simplify things here are a couple of bullet points to understand our privacy policy and how we handle data
+
+\- We automate things, but at the end of the day, pretty much all data you see on Social Blade is akin to going to your public profile on a social media site and writing down your follower count/etc. We don't store, show or share private information unless explicitly stated and requested and permission is granted. Furthermore, we feel our job is a bit like a journalist. We want to be a trusted source of information and that means not accepting requests to remove or change information we have listed unless there is something inaccurate with it. The world comes to us to see transparent follower/etc numbers to see if there is any "fishy business" going on. If we remove this data when requested it ruins our credibility. As the data we are displaying is public data anyone could have gotten from visiting your profile anyway we don't feel like this should raise any privacy concerns.
+
+\- Just like the rest of the Internet we use cookies. Cookies aren't evil, they're the way you can log into a website once and stay logged in until you log out instead of typing your login/password on every page.
+
+\- We provide our services for the most part free of charge. Servers cost money though as well as the team to program them. For this reason we monetize the site via ads. If you don't like them we do offer a paid subscription to remove them.
+
+\- Social Blade is a respected site that brands and companies use on a daily basis so we do have services for them to help them find users who they may be interested in working with. We may in the future develop a way on site to allow them to communicate with you directly if you are interested (i.e. opt in to brand deal/etc communication), but for now we simply provide them a list of names and statistics. Even if we have your email address or personal information we never share this, only public information.
+
+\- You come to Social Blade for analytics. Analytics also helps us know how many people are using the site, which parts of the site you use the most often, etc. It helps us build out things you're interested in and not focus on things you're not. Google Analytics and other analytics tools we may use from time to time also aren't evil. Without things like this we wouldn't know how to help you!
+
+\- Lastly just a word about passwords. If you create an account on Social Blade you need to create a password. This password encrypted in our database in a way that no one can see what it is, not even us. That said we recommend you don't use the same password you use on other sites. Also, if you authenticate your account from a third party with us we never store nor even have access to your password on third party services.
+
+\- We hope this more informal, yet also more informative privacy policy helped. Again see below the more "legal" version but there shouldn't be anything surprising there if you read this section.
 
 ### The Privacy Policy and What it Means to You
 
@@ -16,7 +34,7 @@ You may use our site without registering for our Services, which would not provi
 
 The SB website may use cookies to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by the web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-Information gathered from third parties includes data and statistics from YouTube, Twitch, and Instagram. This data is PUBLIC INFORMATION. If you do not want to have this information shared on Social Blade, you will have to adjust your privacy settings on YouTube, Twitch, and/or Instagram. SOCIAL BLADE WILL NOT REMOVE PUBLIC INFORMATION FROM IT’S WEBSITE WITHOUT A LEGALLY BINDING ORDER TO DO SO.
+Information gathered from third parties includes data and statistics from YouTube, Twitch, Mixer, Daily Motion, and Instagram. This data is PUBLIC INFORMATION. If you do not want to have this information shared on Social Blade, you will have to adjust your privacy settings on YouTube, Twitch, Mixer, Daily Motion and/or Instagram. SOCIAL BLADE WILL NOT REMOVE PUBLIC INFORMATION FROM IT’S WEBSITE WITHOUT A LEGALLY BINDING ORDER TO DO SO.
 
 Social Blade uses technology to collect information about your use of our Site and Services through cookies and third party tracking technologies. These include your domain name, your device ID, your operating system, your browser type, web pages you view on our website, links you click, your IP address, the length of time you use our Site and/or use our Services, and the referring URL that led you to our Site.
 
@@ -40,7 +58,7 @@ Social Blade uses third-party analytic tools to evaluate the use of our Site and
 
 ### User-Generated Content
 
-You are welcome to post content on our Forum, Chat, or other Services. If you post content, all the information posted and the username you identify yourself with will be available to the Public. Social Blade cannot prevent your posting from being used in a manner that would violate this Policy, the law, or your personal privacy.
+You are welcome to post content on our Discord Chat, or other Services. If you post content, all the information posted and the username you identify yourself with will be available to the Public. Social Blade cannot prevent your posting from being used in a manner that would violate this Policy, the law, or your personal privacy.
 
 ### Third-Party Links
 
@@ -48,10 +66,10 @@ Social Blade’s Site includes links to third-party websites. Access to and use 
 
 ### Data Sources
 
-In order to keep statistical data updated, Social Blade utilizes API services of third parties including but not limited to Facebook, Instagram, Twitch, Twitter, and [YouTube](https://www.youtube.com/t/terms). Unless specific access is asked for at time of use (i.e. to validate your identity), we are only gathering publicly available data from each of the API services, not anything private about your account.
+In order to keep statistical data updated, Social Blade utilizes API services of third parties including but not limited to Facebook, Instagram, Twitch, Twitter, Daily Motion, Mixer and [YouTube](https://www.youtube.com/t/terms). Unless specific access is asked for at time of use (i.e. to validate your identity), we are only gathering publicly available data from each of the API services, not anything private about your account.
 
 ### CONTACT US
 
 If you have questions about either our Agreement or Policy, or would like to make a complaint, please file a support ticket.
 
-This Document is Effective as of March 20th, 2013. Last Updated: September 15th, 2017.
+This Document is Effective as of March 20th, 2013. Last Updated: May 15, 2018.
