@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the graysonline.com.au privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215033450id_/http%3A//www.graysonline.com/content.aspx%3Fblock%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graysonline.com.au privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617100937id_/http%3A//www.graysonline.com/content.aspx%3Fblock%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy sets out how Eclipx Group, which includes Fleet Partners Pty Ltd, Fleet NZ Limited, Eclipx Fleet Holding (NZ) Limited, NZGT (FP) Trustee Limited in its capacity as trustee of any trust, Eclipx NZ Limited, Eclipx Leasing Finance (NZ) Limited, FleetPlus Pty Limited, Fleet Choice Pty Ltd, FleetPlus Limited (NZ), CarLoans.com.au Pty Ltd, CarLoans.co.nz Limited, CarInsurance.com.au Pty Ltd, Eclipx Commercial Pty Ltd, Right2Drive Pty Ltd, Right2Drive (New Zealand) Limited and Grays (NSW) Pty Ltd, aims to protect the privacy of your personal information, your rights in relation to your personal information managed by us and the way in which we collect, hold, use and disclose your personal information.
+This Privacy Policy sets out how Eclipx Group, which includes, but is not limited to the following subsidiaries, Fleet Partners Pty Ltd, Fleet NZ Limited, Eclipx Fleet Holding (NZ) Limited, Eclipx Leasing Finance (NZ) Limited, NZGT (FP) Trustee Limited in its capacity as trustee of any trust, FleetPlus Pty Limited, Fleet Choice Pty Ltd, FleetPlus Limited (NZ), CarLoans.com.au Pty Ltd, CarLoans.co.nz Limited, CarInsurance.com.au Pty Ltd,  Eclipx Commercial Pty Ltd, Right2Drive Pty Ltd, Right2Drive (New Zealand) Limited and the Grays eCommerce Group of Companies, including Grays (NSW) Pty Ltd, aims to protect the privacy of your personal information, your rights in relation to your personal information managed by us and the way in which we collect, hold, use and disclose your personal information.  
 
-In handling your personal information, Eclipx Group will comply with the Australian Privacy Act 1988, including the 13 Australian Privacy Principles), and/or the New Zealand Privacy Act 1993 (as applicable), and all other relevant laws, regulations and codes relating to privacy and personal information (' **Privacy Law** ').
+
+In handling your personal information, Eclipx Group will comply with the Australian Privacy Act 1988, including the 13 Australian Privacy Principles), and/or the New Zealand Privacy Act 1993 (as applicable), and all other relevant laws, regulations and codes relating to privacy and personal information (‘ **Privacy Law** ’).
 
 Unless stated otherwise, this Privacy Policy is relevant to the personal information of individuals who are our current or former customers, as well as any other individuals we may deal with (for example, our customers’ guarantors, directors and shareholders or individuals we deal with in other capacities as part of our business).
 
@@ -22,60 +23,66 @@ The kinds of personal information Eclipx Group collects and holds varies accordi
   4. other details relating to your relationship with us, including if we deal with you in a capacity other than a customer (for example, information about agreements or other arrangements or transactions you may have with us, billing information including your credit card details, your purchasing preferences and history, and any information contained in correspondence between us); and
   5. any other information lawfully obtainable under relevant Privacy Law.
 
-  
-In some circumstances, Eclipx Group may collect sensitive information about you, for example in relation to insurance claims. Sensitive information is a type of personal information and includes health information and information about racial or ethnic origin, political opinions, membership of a trade union or political association, religious beliefs or affiliations, philosophical beliefs, sexual preferences and criminal record. We will only collect sensitive information about you where we are permitted to do so by law.
 
-**How do we collect your personal information?**
+
+In some circumstances, Eclipx Group may collect sensitive information about you, for example in relation to insurance claims.  Sensitive information is a type of personal information and includes health information and information about racial or ethnic origin, political opinions, membership of a trade union or political association, religious beliefs or affiliations, philosophical beliefs, sexual preferences and criminal record.  We will only collect sensitive information about you where we are permitted to do so by law.
+
+ **How do we collect your personal information?**
 
 Where practicable we aim to collect your personal information directly from you. The circumstances in which we may do so will vary depending on the context in which we are dealing with you (for example, if you are a customer, according to the specific product or service we are providing) but can include, for example, when you are:
 
-  1. registering for one of our websites or services or logging in to use one of our websites;
-  2. submitting applications and other forms through our online services, by email, verbally and/or in hard copy;
-  3. subscribing to receive alerts/e-brochures and filling in surveys or research, or participating in promotions and competitions we offer;
-  4. contacting us for any reason including, but not limited to, reporting a problem with one of our services or websites, requesting further services, updating your personal information or otherwise seeking our assistance;
-  5. posting or contributing material on our websites; and
-  6. using our services and any credit provided by us in connection with those.
+  * registering for one of our websites or services or logging in to use one of our websites;
+  * submitting applications and other forms through our online services, by email, verbally and/or in hard copy;
+  * subscribing to receive alerts/e-brochures and filling in surveys or research, or participating in promotions and competitions we offer;
+  * contacting us for any reason including, but not limited to, reporting a problem with one of our services or websites, requesting further services, updating your personal information or otherwise seeking our assistance;
+  * posting or contributing material on our websites; and
+  * using our services and any credit provided by us in connection with those.
 
-  
+
+
 There may be occasions when we collect your personal information from other sources, such as from:
 
-  1. a public or commercial information services provider (such as providers of government, business or credit information);
-  2. social media platforms, if you choose to interact with us via your social media account;
-  3. a third party assisting us to process an application or other transaction, confirming information in an application or other request or assisting us to locate or communicate with you;
-  4. vehicle dealers and other businesses involved in dealings with you and us;
-  5. your employer, such as where we are providing a novated lease, salary packaging services or fleet services.
+  * a public or commercial information services provider (such as providers of government, business or credit information);
+  * social media platforms, if you choose to interact with us via your social media account;
+  * a third party assisting us to process an application or other transaction, confirming information in an application or other request or assisting us to locate or communicate with you;
+  * vehicle dealers and other businesses involved in dealings with you and us;
+  * your employer, such as where we are providing a novated lease, salary packaging services or fleet services.
 
-  
+
+
 Generally, Eclipx Group will only collect your personal information from sources other than you if:
 
-  1. it is unreasonable or impracticable to collect the personal information from you; and
-  2. the collection of that personal information complies with all relevant Privacy Law.
+  * it is unreasonable or impracticable to collect the personal information from you; and
+  * the collection of that personal information complies with all relevant Privacy Law.
 
 
 
-**How we use your personal information?**
+**  
+How we use your personal information**
 
 We collect, hold, use and disclose your personal information where it is reasonably necessary for the purposes of providing our products and services, for our other business purposes and for any necessary related purposes. These purposes include, but are not limited to:
 
   1. provision of commercial and consumer vehicle leasing arrangements, including accident replacement vehicle services;
-  2. registering you to use one of our websites;
-  3. processing a product application or service or purchase request;
-  4. managing our products and services or other relationships and arrangements;
-  5. processing receipts, invoices and payments and servicing customer accounts, including determining liability for payment;
-  6. responding to customer enquiries about applications, accounts, products or services;
-  7. understanding customer needs and offering products and services to meet those needs;
-  8. assessing, processing and investigating insurance risks or claims;
-  9. accounting, billing and other internal administrative purposes;
-  10. identifying and informing customers of products and services that may be of interest;
-  11. notifying you about changes to our products and services;
-  12. considering, and contacting you about, any application you make for a job with us;
-  13. any other legal and regulatory requirements. Various laws may expressly require us to collect your personal information, or we may need to do so in order to be able to comply with other obligations under those laws: 
-    1. In Australia such laws include the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (for example, to comply with identity verification requirements), the Personal Property Securities Act 2009 and State and Territory real property and security interests laws (for example, to register and search for security interests), the National Consumer Credit Protection Act 2009 (for example, to comply with responsible lending requirements), the Financial Sector (Collection of Data) Act 2001, the Corporations Act 2001 and other regulatory legislation (for example, requiring us to maintain client and transaction records, or to make reports and provide other information to regulators such as ASIC) and the Taxation Administration Act 1953, the Income Tax Assessment Act 1997 and other taxation laws (for example, to comply with information requests issued by the Commissioner of Taxation). 
-    2. In New Zealand such laws include the Anti-Money Laundering and Countering Financing of Terrorism Act 2013 (for example, to comply with identity verification requirements), the Tax Administration Act 1993 (for example, to comply with record keeping requirements) and, to the extent necessary, the Credit Contracts and Consumer Finance Act 2003 (for example, to comply with the Responsible Lending Code);
-  14. enforcing our rights, including undertaking debt collection activities and legal proceedings; and
-  15. undertaking business funding and development activities.
+  2. sourcing credit products from lenders and other credit providers in relation to car loans;
+  3. registering you to use one of our websites;
+  4. processing a product application or service or purchase request;
+  5. managing our products and services or other relationships and arrangements;
+  6. processing receipts, invoices and payments and servicing customer accounts, including determining liability for payment;
+  7. responding to customer enquiries about applications, accounts, products or services;
+  8. understanding customer needs and offering products and services to meet those needs;
+  9. assessing, processing and investigating insurance risks or claims;
+  10. accounting, billing and other internal administrative purposes;
+  11. identifying and informing customers of products and services that may be of interest;
+  12. notifying you about changes to our products and services;
+  13. considering, and contacting you about, any application you make for a job with us;
+  14. any other legal and regulatory requirements. Various laws may expressly require us to collect your personal information, or we may need to do so in order to be able to comply with other obligations under those laws: 
+    1. In Australia such laws include the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (for example, to comply with identity verification requirements), the Personal Property Securities Act 2009 and State and Territory real property and security interests laws (for example, to register and search for security interests), the National Consumer Credit Protection Act 2009 (for example, to comply with responsible lending requirements), the Financial Sector (Collection of Data) Act 2001, the Corporations Act 2001 and other regulatory legislation (for example, requiring us to maintain client and transaction records, or to make reports and provide other information to regulators such as ASIC) and the Taxation Administration Act 1953, the Income Tax Assessment Act 1997 and other taxation laws (for example, to comply with information requests issued by the Commissioner of Taxation).
+    2. In New Zealand such laws include the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (for example, to comply with identity verification requirements), the Tax Administration Act 1994 (for example, to comply with record keeping requirements) and, to the extent necessary, the Credit Contracts and Consumer Finance Act 2003 (for example, to comply with the Responsible Lending Code);
+  15. enforcing our rights, including undertaking debt collection activities and legal proceedings; and
+  16. undertaking business funding and development activities.
 
-  
+
+
 Where personal information is used and disclosed, we take steps reasonable in the circumstances to ensure the personal information is relevant to the purposes for which it is to be used and disclosed. You are under no obligation to provide your personal information to us. However, without certain information from you, we may not be able to provide our services to you or any other relevant customer.
 
 **Disclosures of your personal information**
@@ -99,10 +106,11 @@ Third parties to whom we may disclose your personal information include:
   13. debt collectors and investigators; and
   14. in connection with an application for a vehicle leasing arrangement, credit reporting bodies and other information providers.
 
-  
+
+
 **Credit reporting**
 
-When you apply for, or we provide, vehicle leasing arrangements, we may access credit-related personal information about you through the credit reporting system.
+We may access credit-related personal information about you through the credit reporting system in relation to any application for credit products and services.
 
 We comply with all Privacy Law that applies to the collection, use and disclosure of credit information, including the Australian Credit Reporting Privacy Code and the New Zealand Credit Reporting Privacy Code 2004 (as applicable) in our handling of your credit-related personal information.
 
@@ -115,21 +123,23 @@ Credit-related personal information is a type of personal information which incl
   5. contained in a credit report about you which is obtained by us from a credit reporting body ( **CRB** ); and
   6. about your creditworthiness that has been derived by us from such a credit report about you.
 
-  
+
+
 Credit-related personal information that we may collect and hold includes:
 
-  1. your name, address and date of birth, occupation (including the name of your employer or organisation, and any previous employers) and your driver’s licence number;
-  2. your banking or credit card details and certain financial information about you including a statement of your assets and liabilities;
-  3. the fact that you have applied for consumer credit, or you are a guarantor in respect of that credit application and we have accessed your credit report to assess that application;
-  4. the fact that your organisation has applied for commercial credit, or you are a guarantor in respect of that credit application, and we have accessed your credit report to assess that credit application;
-  5. the fact that we provide goods and services on credit terms to your organisation;
-  6. certain publicly available information that relates to your activities in Australia and New Zealand, and your creditworthiness;
-  7. information that, in our opinion, you have committed a serious credit infringement or credit non-compliance action (that is, acted fraudulently or shown an intention not to comply with your credit obligations);
-  8. insolvency information, including adjudications, discharges, suspensions of discharges and annulments of bankruptcy, and entry into, and termination and discharge from, the no asset procedure.
-  9. assessments, evaluations, scores, ratings, summaries and other information relating to your creditworthiness which is derived by a CRB or us, wholly or partly based on the above; and
-  10. administrative information relating to credit provided by us.
+  * your name, address and date of birth, occupation (including the name of your employer or organisation, and any previous employers) and your driver’s licence number;
+  * your banking or credit card details and certain financial information about you including a statement of your assets and liabilities;
+  * the fact that you have applied for consumer credit, or you are a guarantor in respect of that credit application and we have accessed your credit report to assess that application;
+  * the fact that your organisation has applied for commercial credit, or you are a guarantor in respect of that credit application, and we have accessed your credit report to assess that credit application;
+  * the fact that we provide goods and services on credit terms to your organisation;
+  * certain publicly available information that relates to your activities in Australia and New Zealand, and your creditworthiness;
+  * information that, in our opinion, you have committed a serious credit infringement or credit non-compliance action (that is, acted fraudulently or shown an intention not to comply with your credit obligations);
+  * insolvency information, including adjudications, discharges, suspensions of discharges and annulments of bankruptcy, and entry into, and termination and discharge from, the no asset procedure.
+  * assessments, evaluations, scores, ratings, summaries and other information relating to your creditworthiness which is derived by a CRB or us, wholly or partly based on the above; and
+  * administrative information relating to credit provided by us.
 
-  
+
+
 We collect your credit-related personal information through your dealings with us or from those acting on your behalf. We may also obtain credit-related personal information from CRBs, who may include this information in reports provided to credit providers to assist them to assess your credit worthiness.
 
 We collect, hold, use and disclose your credit-related personal information as reasonably necessary for our business purposes and as permitted by law, including:
@@ -141,7 +151,8 @@ We collect, hold, use and disclose your credit-related personal information as r
   5. to undertake debt recovery and enforcement activities; or
   6. to deal with serious credit infringements.
 
-  
+
+
 We may disclose your credit-related personal information to:
 
   1. CRBs, such as Equifax and Dun & Bradstreet;
@@ -155,14 +166,73 @@ We may disclose your credit-related personal information to:
   9. organisations involved in securitisation arrangements or debt assignments; and
   10. administrative service providers, such as providers of credit assessment, management and debt collection services.
 
-  
-We may disclose to Equifax, Dun & Bradstreet, or any other CRB, any failure by you to meet your payment obligations in relation to consumer credit and the fact that you have committed fraud or other serious credit infringement. Equifax and Dun & Bradstreet may include information which we provide in reports to other credit providers to assist them to assess your creditworthiness. These CRBs’ policies about the management of credit-related personal information may be obtained by contacting them on the below details:
 
+
+We may disclose to Equifax, Dun & Bradstreet, or any other CRB, any failure by you to meet your payment obligations in relation to consumer credit and the fact that you have committed fraud or other serious credit infringement. Equifax and Dun & Bradstreet may include information which we provide in reports to other credit providers to assist them to assess your creditworthiness.  These CRBs’ policies about the management of credit-related personal information may be obtained by contacting them on the below details:
+
+**Equifax**
+
+| 
+
+**Dun & Bradstreet**  
+  
+---|---  
+  
+**Australia**
+
+PO Box 964
+
+NORTH SYDNEY  NSW  2059
+
+138 332
+
+[**www.equifax.com.au**](http://www.equifax.com.au/)
+
+| 
+
+**Australia**
+
+PO Box 7405, St Kilda Road
+
+MELBOURNE  VIC  3004
+
+13 23 33
+
+pacaustral@dnb.com.au
+
+dnb.com.au  
+  
+**New Zealand**
+
+Private Bag 92156
+
+Auckland Mail Centre  AUCKLAND  1142
+
+0800 692 733
+
+publicaccess.nz@equifax.com
+
+www.equifax.co.nz
+
+| 
+
+**New Zealand**
+
+PO Box 9589
+
+Newmarket  AUCKLAND  1031
+
+0800 362 222
+
+pacnz@dnb.co.nz
+
+dnb.co.nz  
+  
 In Australia, you can ask a CRB not to use or disclose your credit-related personal information for a period of 21 days without your consent if you believe on reasonable grounds that you are, or are likely to be, a victim of fraud, including identity fraud.
 
 In New Zealand, you can ask a CRB not to use or disclose your credit-related personal information for a period of 10 working days without your consent if you believe on reasonable grounds that you are, or are likely to be, a victim of fraud, including identity fraud.
 
-CRBs may use credit-related personal information they hold to respond to requests from us or other credit providers to "pre-screen" you for direct marketing. You can ask a CRB not to do this.
+CRBs may use credit-related personal information they hold to respond to requests from us or other credit providers to “pre-screen” you for direct marketing. You can ask a CRB not to do this.
 
 **Overseas disclosures**
 
@@ -202,14 +272,15 @@ To obtain access to your personal information:
   2. we request that you be reasonably specific about the information you require; and
   3. we may charge you a reasonable administration fee which reflects the cost to us for providing access in accordance with your request. We will not charge you for making the request.
 
-  
+
+
 If we refuse your request to access or correct your personal information, we will provide you with written reasons for the refusal and details of the ways in which you can make a complaint. We will also take steps reasonable in the circumstances to provide you with access to your personal information in a manner that meets yours and our needs.
 
 If you are dissatisfied with a refusal of a request to access or correct your credit information, you may make a complaint to the Australian Information Commissioner / New Zealand Privacy Commissioner or to an applicable external dispute resolution scheme if the Eclipx Group entity you are dealing with is a member (we will provide details of any such scheme in our response to such a request for access or correction).
 
 In the event that we correct your personal information previously disclosed to another entity and you request that other entity to be notified of the correction, we will take reasonable steps in the circumstances to do so unless impracticable or unlawful.
 
-Complaints and Disputes
+**Complaints and Disputes**
 
 If you wish to complain about the way in which we collect or handle your personal information, including your credit-related personal information, or if you believe we have breached any Privacy Law, you can contact our Privacy Officer using the details below.
 
@@ -220,10 +291,11 @@ Following a complaint, our Privacy Officer will commence an investigation into y
   3. will be dealt with in a confidential manner; and
   4. will not affect your existing obligations or impact on the commercial arrangements between you and us.
 
-  
+
+
 In the event you are dissatisfied with the outcome of your complaint, you may refer the complaint to the Australian Information Commissioner / New Zealand Privacy Commissioner or an applicable external dispute resolution scheme if relevant to the complaint and the Eclipx Group entity you are dealing with is a member (we will provide details of any such scheme in our response to such a request for access or correction).
 
-How to contact us
+**How to contact us**
 
 Please direct all privacy queries and complaints to our Privacy Officer at:
 
@@ -234,4 +306,4 @@ Level 32
 Sydney NSW 2000  
 Australia
 
-Email: [privacy.officer@eclipxgroup.com](mailto:privacy.officer@eclipxgroup.com)
+Email: [**privacy.officer@eclipxgroup.com**](mailto:privacy.officer@eclipxgroup.com)
