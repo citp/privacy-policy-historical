@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agnesgames.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231224909id_/https%3A//www.agnesgames.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agnesgames.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617062802id_/https%3A//www.agnesgames.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
