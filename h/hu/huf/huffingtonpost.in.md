@@ -1,147 +1,120 @@
-> *The following text is extracted and transformed from the huffingtonpost.in privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206035124id_/http%3A//www.huffingtonpost.in/p/huffpost-india-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huffingtonpost.in privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617141203id_/https%3A//www.huffingtonpost.in/p/huffpost-india-privacy-policy.html) for the most accurate reproduction.*
 
-# HuffPost India Privacy Policy
+# Welcome to the Oath Privacy Center | Oath Policies
 
-**The Huffington Post India Privacy Policy**
+_In June 2017, we announced that Yahoo and AOL had joined together to become Oath, a digital and mobile media company and part of[Verizon](http://www.verizon.com/about/privacy/).  We’re now bringing Oath and Yahoo together under a single privacy policy.  Some things haven’t changed, such as the control tools we provide to help you manage your experience with us.  If you have an existing Yahoo or AOL account, you will need to agree to this Privacy Policy.  If you have not yet agreed to this Privacy Policy, the [legacy Yahoo Privacy Policy](https://policies.yahoo.com/in/en/yahoo/privacy/index.htm?redirect=no) or [legacy Oath Privacy Policy (for AOL)](http://privacy.aol.com/legacy) still apply to your account.  For Oath products or services that are accessed without signing in to an account, this Privacy Policy applies to those products and services as of 25 May 2018.  If you are creating a new account, the terms below apply as of today.  _
 
-The Huffington Post India, in association with The Times of India, takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Huffington Post India sites and applications (the "Site"); how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you use Huffington Post India mobile applications or sites, [additional terms apply](http://www.huffingtonpost.in/p/huffpost-india-supplemental.html). If you have any questions about this privacy policy, please contact our privacy team at privacy@huffingtonpost.com.
+_Last updated: April 2018_
 
-**1\. Scope**
+#### Our Privacy Pledge
 
-This privacy policy applies only to the Site. This policy does not apply to information collected through any other website or to the practices of companies that the Huffington Post India does not control. Please note that the Site may contain links to other websites. For example, if you click on an advertisement on the Site and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit.
+Our commitment is to put users first.  We strive to be transparent about how we collect and use your information, to keep your information secure and to provide you meaningful choices.  This Privacy Policy is meant to help you understand what information Oath, its [affiliates](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/definitions/index.html) and its house of global [brands](https://www.oath.com/our-brands/) (‘Oath’, ‘us’, ‘our’ or ‘we’) collect, why we collect it and what we do with it. This policy applies to Oath [brands](https://www.oath.com/our-brands/), websites, apps, advertising services, products, services or technologies (we’ll collectively refer to these as ‘Services’).  Additional privacy practices for certain Services can be found in Details for specific products and services.  
 
-**2\. What information the Site collects**
+#### Your Controls 
 
-**Information you provide directly to us:**  
-You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including:  
-• contact information, such as name, email address, postal address, phone number, and mobile number;  
-• username and password;  
-• information posted in community discussions and other interactive online features;  
-• search queries conducted on the Site; and  
-• correspondence you send to us.
+We believe you should have tools to control your information. You can find controls to manage or review your account information, marketing preferences, location data and search history at [Privacy Controls](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/controls/index.html). Some of our Services provide additional controls and privacy practices. ( See Details for specific products and Services)
 
-**Information automatically collected when you visit and interact with the Site:**  
-When you visit and interact with the Site, certain information may be collected automatically, including:  
-• your computer's Internet Protocol (IP) address;  
-• your browser type and operating system;  
-• the web pages you were visiting immediately before and after you came to the Site;  
-• activities within community discussions;  
-• web pages and advertisements that you view, and links that you click on, within the Site;  
-• your bandwidth speed and information about the software programs that are installed on your computer;  
-• aggregated data about email click-through rates and user video viewing;  
-• standard server log information; and  
-• information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of [cookies and other technologies](http://www.huffingtonpost.in/p/huffpost-india-cookies.html).
+Information Collection and Use - General
 
-**Information we collect from other sources:**  
-We may access information about you from third-party sources and platforms (such as social networking sites, databases, online marketing firms, and ad targeting firms), including:  
-• if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services;  
-• demographic data, such as age range, gender, and interests;  
-• advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and  
-• unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.  
-• Please note that the Site may combine the information that we collect with information we obtain from[ third-party sources](http://www.huffingtonpost.in/p/huffpost-india-third-party.html).
+We may collect and combine information when you interact with Oath Services including:
 
-**3\. How we use the information that we collect**
+  * **Information You Provide to Us.** We may collect the information that you provide to us, such as: 
+    * When you create an account with an Oath Service or brand. (Please note, when your use our Services, we may recognize you or your devices even if you are not signed in to our Services.)  Oath may use device IDs, cookies, and other signals, including information obtained from third parties, to associate accounts and/or devices with you.  
+    * When you use our Services to communicate with others or post, upload or store content (such as comments, photos, voice inputs, videos, emails, messaging services and attachments).
+    * Oath analyzes and stores all communications content, including email content from incoming and outgoing mail.  This allows us to deliver, personalize and develop relevant features, content, advertising and Services.
+    * When you otherwise use our Services, such as title queries, watch history, page views, search queries, view the content we make available and install any Oath software such as plugins.
+    * When you sign up for paid Services, use Services that require your financial information or complete transactions with us or our business partners, we may collect your payment and billing information.
+  * **Device Information.**  We collect information from your devices (computers, mobile phones, tablets, etc.), including information about how you interact with our Services and those of our third-party partners and information that allows us to recognize and associate your activity across devices and Services.  This information includes device specific identifiers and information such as [IP address](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/ipaddress/index.html), [cookie information](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/cookies/index.html), mobile device and advertising identifiers, browser version, operating system type and version, mobile network information, device settings, and software data.  We may recognize your devices to provide you with personalized experiences and advertising across the devices you use. 
+  * **Location Information.**  We collect location information from a variety of sources.  You can learn more about and manage your location permissions on our [Locations page](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/location/index.html) and by visiting the location settings tool on your devices.  
+  * **Information from Cookies and Other Technologies**. 
+    * We collect information when you access content, [advertising](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/adserving/index.html), sites, interactive widgets, applications, and other products (both on and off of our Services) where Oath’s data collection technologies (such as [web beacons](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/webbeacons/index.html), development tools, [cookies and other technologies](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/cookies/index.html), etc.) are present. These data collection technologies allow us to understand your activity on and off our Services and to collect and store information when you interact with Services we offer to partners.
+    * This information includes the kind of content or ads served, viewed or clicked on; the frequency and duration of your activities; the sites or apps you used before accessing our Services and where you went next; whether you engaged with specific content or ads; and whether you went on to visit an advertiser's website, downloaded an advertiser’s app, purchased a product or service advertised, or took other actions. 
+  * **Information from others.**  We collect information about you when we receive it from other users, third parties and [affiliates](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/definitions/index.html), such as: 
+    *  When you connect your account to third-party services or sign in using a third-party partner (like Facebook or Twitter).
+    * From publicly-available sources.
+    * From advertisers about your experiences or interactions with their offerings.
+    * When we obtain information from third-parties or [other companies](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/appenddata/index.html), such as those that use our Services. This may include your activity on other sites and apps as well as information those third-parties provide to you or us. 
+    * Information we receive from Verizon will be used consistently with Verizon’s privacy policy.
 
-**Email Communications:**  
-We may use the information that we collect to send you e-mail communications, such as editorial updates, information about your account or changes to the Site, and promotional messages about our own or our marketing partners' products and services. If you signed up for one of our email newsletters, we also will send you the newsletter that you requested.
 
-**Mobile Communications:**  
-With your consent, we may use your mobile number to send you promotions, notifications, or other services.
 
-**Advertising:**  
-In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other technologies](http://www.huffingtonpost.in/p/huffpost-india-cookies.html).
+#### How We Use This Information
 
-Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on third party advertising. Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy.
+We are able to deliver, personalise and improve our Services by combining and using the information that we have about you (including information that we receive on and off our Services) to understand how you use and interact with our Services and the people or things that you’re connected to and interested in. We also may use the information that we have about you for the following purposes: 
 
-**User Accounts:**  
-To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we keep track of the ratio of how many flagged comments are eventually deleted in order to award badges to our most effective comment moderators. For more information on this process, please see our [FAQs](http://www.huffingtonpost.in/p/huffpost-india-faqs.html) about comment moderation guidelines.
+  * Provide, maintain, improve, and develop relevant features, content, and Services.  
+  * Analyze your content and other information (including emails, instant messages, posts [photos, attachments, and other communications](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/products/communications/faq)).  You can review and control certain types of information tied to your Oath account by using [Privacy Controls](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/controls/index.html). 
+  * Fulfill your requests and when authorized by you. 
+  * Help advertisers and publishers connect to offer relevant advertising in their apps and websites.
+  * Match and serve targeted advertising (across devices and both on and off of our Services) and provide [targeted advertising](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/adserving/index.html) based on your device activity, inferred interests and location information.  
+  * Contact you with information about your account or with marketing messages, which [you can also control](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/controls/index.html). 
+  * Associate your activity across our Services and your different devices as well as associate any accounts you may use across Oath Services together. We may associate activity and accounts under a single user ID. 
+  * Carry out or support [promotions](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/products/promotions/index.html).
+  * Conduct research and support innovation. 
+  * Create analytics and reports for external parties, including partners, publishers, advertisers, apps, [third-parties](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/thirdparties/index.html) and the public regarding the use of and trends within our Services and ads, including showing trends to partners regarding general preferences, the effectiveness of ads and information on user experiences. These analytics and reports may include aggregate or pseudonymized information.
+  * Provide location-based Services, advertising, search results, and other content consistent with your [location settings](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/controls/index.html).
+  * Combine information we have about you with information we obtain from business partners or [other companies](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/appenddata/index.html), such as your activities on other sites and apps.
+  * Detect and defend against fraudulent, abusive, or unlawful activity.
 
-**Request Fulfillment:**  
-We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer service requests or to enable you to participate in features on the Site such as surveys, polls, sweepstakes, and message boards.
 
-**Statistical Analysis:**  
-In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site's functionality, and to better tailor our content and design to suit our visitors' needs.
 
-**Enforcement:**  
-We may use the information that we collect to prevent illegal activities, to enforce the Site's [Terms and Conditions](http://www.huffingtonpost.in/p/huffpost-india-terms.html), and to otherwise protect our rights and the rights of our users.
+We provide you with controls to manage your experience with us.  For example, you can review or edit your [account information](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/controls/index.html), manage your [marketing preferences](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/controls/index.html), or [opt out of targeted ads](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/controls/index.html).  If you opt out, you will continue to see ads, but they may not be as relevant or useful to you. 
 
-In addition to the uses identified above, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
+#### How We Share This Information
 
-**4\. Information Sharing**
+Oath shares information within its affiliated brands and companies and with Verizon. We also share information that we have about you for the purposes described in this Privacy Policy, including to provide Services that you have requested (including when you connect with [third-party apps and widgets](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/thirdparties/index.html)). We do not sell, license or share information that individually identifies our customers with companies, organisations or individuals outside of Oath unless one of the following circumstances applies:
 
-The Huffington Post India values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:
+  * **With Your Consent.** We will share information with companies, organizations or individuals outside of Oath when we have your consent. 
+  * **With Verizon.** As part of Verizon, Oath and its [affiliates](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/definitions/index.html) may, to the extent permitted by law and in accordance with user controls, share information with Verizon and Verizon affiliates. This information will be used in accordance with [Verizon’s privacy policy](http://www.verizon.com/about/privacy/privacy-policy-summary).    
+  * **Within** **Oath**. Information may also be shared within Oath, including with other Oath Services and [affiliates](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/definitions/index.html). Oath affiliates may use the information in a manner consistent with their privacy policies.
+  * **With Partners.** We may share your information with nonaffiliated companies who are: 
+    * **Trusted partners.**  We provide user information to trusted partners who work on behalf of or with Oath based on our directions and in compliance with appropriate confidentiality measures. [Learn more](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/thirdparties/index.html). 
+    * **Advertising, analytics and business partners (limited to non-personally identifiable information).** We may share aggregated or [pseudonymous](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/definitions/index.html) information (including demographic information) with partners, such as publishers, advertisers, measurement analytics, apps or [other companies](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/thirdparties/index.html). For example, we may tell an advertiser how its ads performed or report how many people installed an app after seeing a promotion. We do not share information that personally identifies you (personally identifiable information includes your name or email address) with these partners, such as publishers, advertisers, measurement analytics, apps or [other companies](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/thirdparties/index.html).   
+When you use third-party apps, websites or other products integrated with our Services, they may collect information about your activities subject to their own terms and privacy policies.   
+We allow [other companies](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/thirdparties/index.html) that show advertisements on our webpages or apps to collect information from your browsers or devices. Other companies' use of cookies and other data collection technologies are subject to their own privacy policies, not this one. Like many companies, we may allow cookie matching with select partners. But, these parties are not authorized to access Oath cookies.  
+  * **For legal purposes.**  We may access, preserve and disclose information to investigate, prevent or take action in connection with: (i) legal process and legal requests; (ii) enforcement of the [Terms](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/terms/otos/index.html); (iii) claims that any content violates the rights of third parties; (iv) requests for customer service; (v) technical issues; (v) protecting the rights, property or personal safety of Oath, its users or the public; (vi) establishing or exercising our legal rights or defending against legal claims; or (vii) as otherwise required by law. 
+    * This may include responding to lawful governmental requests. Learn more about how we [evaluate and respond to these requests](https://transparency.yahoo.com/principles).  
+  * **New Ownership.**  If the ownership or control of all or part of Verizon, Oath or a specific Services changes as a result of a merger, acquisition or sale of assets, we may transfer your information to the new owner. 
 
-• We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site.  
-• We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.  
-• If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions.  
-• We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place. However, the Site will notify you by placing a prominent notice on our site or sending a notice to the primary email address specified in your account before your information is transferred and becomes subject to a different privacy policy.  
-• We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site's Terms and Conditions, or as otherwise required by law.  
-• We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.  
-• In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on [cookies and other technologies](http://www.huffingtonpost.in/p/huffpost-india-cookies.html) and [third party advertising](http://www.huffingtonpost.in/p/huffpost-india-third-party.html).
 
-**5\. Third-party services**
+#### Details for specific products and services 
 
-To customize your experience on the Site and to simplify the Site's registration process, we provide you with the opportunity to access or interact with third-party services, such as Facebook and Twitter. When you connect to the Site through these third-party services, we may share information about you with these third-party service providers and they may share data about you with us.
+  * Additional privacy practices for certain Oath Services are included [here](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/products/index.html).
 
-When you allow us to access your data through a third-party service to create a Site profile, we may use this data for several purposes, including:
 
-• Creating relationships automatically within our system. For example, if you connect to us via a service with a public friend list, like Twitter, we may check to see if any people you follow on Twitter are also Site members. If we find a match, we will replicate your Twitter relationship with those members, setting them to be fans, followers, or friends on our Site.  
-• Suggesting relationships. For example, if you connect via a service that has a private contact list (like Google and Yahoo!), we check for people in your contacts who are Site members and suggest that you become a fan of these users. This process is not automatic; you must affirmatively choose to become a fan of these suggested users.  
-• Populating a list of potential friends to whom you can send emails. When users share content with their friends using, for example, the forward-to-a-friend feature on the Site, we may use friend lists from third-party services to create a list of contacts to whom you may choose to send the email message.  
-• Populating a list of potential friends to whom you can send service-specific messages. For example, we may use friend lists from a third-party service to create a list of contacts to whom you may choose to send an invitation to view an interactive slideshow.  
-• To enhance and personalize your experience on the Site. When you are connected via a third-party service, we may access certain account information, such as your profile picture, what stories are popular in your network, and what your friends are saying about certain articles or blog posts, in order to enhance and personalize your experience on the Site.
 
-In addition, if you connect to a Facebook account, your experience on the Site may be personalized. For example, you may automatically see what stories are popular in your network, and what your friends are saying about particular stories.
+**Information Security and Data Retention**  
+Oath has technical, administrative and physical safeguards in place to help protect against unauthorized access, use or disclosure of customer information we collect or store.      
+To learn more about security, including the steps we have taken and steps you can take, please read [Security ](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/security/index.html)[at](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/security/index.html)[ Oath](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/security/index.html).
 
-Please note that you may disconnect third party accounts at any time. [Click here](http://www.huffingtonpost.com/?auth=login) for a link to your social profile, where you may set your privacy preferences or disconnect all of your third-party service accounts. You also may be able to modify your privacy settings directly with the third-party service. To modify your Facebook privacy settings, [click here](https://www.facebook.com/settings/?tab=privacy). To modify your Twitter privacy settings, [click here](https://twitter.com/settings/account).
+#### Protecting Children’s Privacy
 
-Please remember that we do not control the privacy practices of these third-party services. We encourage you to read the privacy policies of all third-party service providers.
+Our Services are for a general audience. We do not knowingly collect, use or share information that could reasonably be used to identify children under the age of 13 without prior parental consent or consistent with applicable law. With parental permission, a child under the age of 13 might have an Oath family account.
 
-**6\. Your choices**
+Data Processing and Transfers
 
-**Deactivating your account**  
-You can deactivate your account at any time by visiting the [preferences page](http://www.huffingtonpost.com/?auth=login) for your profile. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our [Terms and Conditions](http://www.huffingtonpost.in/p/huffpost-india-terms.html).
+When you use or interact with any of our Services, you consent to the data processing, sharing, transferring and uses of your information as outlined in this Privacy Policy.  Regardless of the country where you reside, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with Services.  Some of these countries may not have the same data protection safeguards as the country where you reside. 
 
-**Cookies and other technologies**  
-As discussed in the sections on [cookies and other technologies](http://www.huffingtonpost.in/p/huffpost-india-cookies.html) and third party advertising, some information is collected about you automatically through cookies and other technologies.
+Oath may process information related to individuals in the EU/EEA and may transfer that information from the EU/EEA through various compliance mechanisms, including data processing agreements based on the EU/EEA Standard Contractual Clauses.  By using our Services, you consent to us transferring information about you to these countries.  For more information, please visit our [Data Transfer](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/topics/datatransfer/index.html) page.
 
-• Cookies. You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. In addition, many third-party advertising networks are members of the Network Advertising Initiative ("NAI"). To opt out of having information collected by NAI member companies used for behavioral advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp.).  
-• Flash Cookies. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located here. Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) to automatically delete your Flash cookies every time you close your browser.
+Other Important Information
 
-If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests.
+**This Privacy Policy Applies Only to Oath.** This Privacy Policy does not apply to the practices of companies that Oath does not own or control, or to people that Oath does not employ or manage. In addition, some [affiliated products](https://web.archive.org/web/20180615091536id_/https://policies.oath.com/in/en/oath/privacy/definitions/index.html) (such as Tumblr) may have different privacy policies and practices that are not subject to this Privacy Policy. 
 
-Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on third party advertising and visit the [NAI's website](http://www.networkadvertising.org/choices/).
+#### Changes
 
-**7\. Access**
+We may update this Privacy Policy from time to time, so you should check it periodically.  If we make changes that are material we will provide you with appropriate notice before such changes take effect.  
 
-If you choose to share contact information with us, you may update or amend this information by contacting us at privacy@huffingtonpost.com.
+Questions & Suggestions
 
-**8\. Confidentiality and security**
+If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](https://io.help.yahoo.com/contact/index?page=contactform&locale=en_TH&token=Zh%2FBBVqXzLHlIbokbUqVWTUbuuQeXGkGnZzhKR2JQ4O6mMQdy9JSWfJCJWvc4C3%2F4ml2UKrHQ0nko7rLtSR524MJxCBJKi0QupzNgfCBznvn27xUEp0LLP5v6N84OyIWfjF0v%2BzoPso6e%2F64KJ%2FpFyU2mT99MquR&selectedChannel=email-icon) or you can contact us at:
 
-We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration.
-
-Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us.
-
-**9\. Visitors from outside the United States**
-
-If you visit the site from outside the United States, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States. European Union Residents: AOL adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program.
-
-**10\. Children under 13**
-
-We do not knowingly collect personal information from children under 13. If you believe that we may have collected information from a child under 13, please contact us at[privacy@huffingtonpost.com](mailto:privacy@huffingtonpost.com).
-
-**11\. Changes to the privacy policy**
-
-We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the "Effective Date." We will notify you of any material changes in the way we treat your information by placing a prominent notice on our site or sending a notice to the primary email address specified in your account.
-
-**12\. Questions and suggestions**  
-If you have questions about this privacy policy, please contact our privacy team at[privacy@huffingtonpost.com](mailto:privacy@huffingtonpost.com).
-
-**13\. Terms of this Privacy Policy**
-
-Huffington Post India reserves the right to terminate or disallow user rights or access as specified herein upon violation or non-compliance with the terms of the Privacy Policy as amended from time to time.
-
-  
-**Effective Date: December 8, 2014**
+Yahoo India Private Limited  
+(CIN: U72900MH2000PTC138698)  
+Unit No. 304, 3rd Floor  
+Satellite Gazebo, East Wing  
+Guru Hargovindji Marg, (A G Link Road)  
+Andheri (East), Mumbai – 400093, India  
+Phone: +91 22 3308 9600  
+Fax: +91 22 3308 9700
