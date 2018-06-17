@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scootersoftware.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203092010id_/http%3A//www.scootersoftware.com/index.php%3Fzz%3Dkb_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scootersoftware.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617083331id_/http%3A//www.scootersoftware.com/index.php%3Fzz%3Dkb_privacy) for the most accurate reproduction.*
 
 # Scooter Software: Home of Beyond Compare
 
