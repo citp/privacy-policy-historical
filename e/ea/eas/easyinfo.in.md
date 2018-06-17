@@ -1,61 +1,45 @@
-> *The following text is extracted and transformed from the easyinfo.in privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618201950id_/http%3A//easyinfo.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyinfo.in privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618005058id_/http%3A//easyinfo.in/privacy-policy-ftc-disclosure) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy & FTC Disclosure – Easy Info
 
-**General Policies**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:privacy@easyinfo.in).
 
- **Use of Links**
+At http://easyinfo.in we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://easyinfo.in and how we use it.
 
-Throughout our Web pages, we provide links to other servers which may contain information of interest to our readers. The Easy Info takes no responsibility for, and exercises no control over, the organizations, views, or accuracy of the information contained on other servers.
+**Log Files**  
+Like many other Web sites, http://easyinfo.in makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Creating a text link from your Web site to the Easy Info Web site does not require permission. If you have a link you'd like us to consider adding to the Easy Info Web site, please send e-mail to webmaster@easyinfo.co.in with the subject "Link request."
+**Cookies and Web Beacons**  
+http://easyinfo.in uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
- **Using Text and Images**
+**DoubleClick DART Cookie**
 
-If you would like to publish information that you find on the Easy Info Web site, please send your request to webmaster@easyinfo.co.in. Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.
+→ Google, as a third party vendor, uses cookies to serve ads on http://easyinfo.in.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://easyinfo.in and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-Information about using the Easy Info logo and images is available in Media Resources. Easy Info Web banner ads and buttons, along with instructions for their use, also are available.
+**Our Advertising Partners**
 
- **Accessibility**
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-This Web site is designed to be accessible to visitors with disabilities, and to comply with federal guidelines concerning accessibility. We welcome your comments. If you have suggestions on how to make the site more accessible, please contact us at webmaster@easyinfo.co.in.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:  [Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of http://easyinfo.in._
 
- **Privacy Policy**
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://easyinfo.in and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-Easy Info has created this statement in order to demonstrate our firm commitment to your privacy. The Easy Info does not collect personally identifying information about you when you visit our site, unless you choose to provide such information to us. Providing such information is strictly voluntary. This policy is your guide to how the Easy Info will handle information we learn about you from your visit to our Web site.
+http://easyinfo.in has no access to or control over these cookies that are used by third-party advertisers.
 
- **Reading or Downloading**
+**Third Party Privacy Policies**
 
-In order to help make our Web site more useful to visitors, we utilize web measurement technologies to collect information on the number of visitors to the different sections of our site. Specifically, we use persistent cookie technology to measure multiple session traffic to our domain, easyinfo.in and compile reports with Google Analytics and MediaMind. We do not collect any personally identifiable information and collect and store only the following information about you: the name of the domain from which you access the Internet ; the date and time you access our site; the Internet address of the Web site from which you linked to our site, and select browser information including version number, Java and Flash support level, screen resolution and language.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://easyinfo.in’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-Easy Info will only use this information internally to analyze current Web site usage and determine the most effective way to customize and deliver our online content. We will not disclose this information to others. For data protection, we set first-party cookies and send information only to the servers of our domain, ensuring that the information cannot be altered or retrieved by any service on another domain. Additionally, all persistent cookies are set to expire within one year, consistent with OMB guidelines.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-By default, most browsers enable persistent cookies. If you wish to opt-out of our web measurement you may do so by disabling persistent cookies in your browser. General instructions on how to alter the settings of commonly used web browsers may be found at http://www.usa.gov/optout_instructions.shtml. Opting-out of our web measurement will still permit you to access all of our Web site content.
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://easyinfo.in does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://easyinfo.in has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
- **Online Application**
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-To request an application to the Easy Info, you may fill out our Preliminary Data Page and share your personally identifying information. This information will be used only to determine your interest in Easy Info programs and related Volunteer programs.
-
-We may use your contact information to send further information about the Easy Info or to contact you when necessary. You may opt-out of receiving future mailings; see the "Opt Out" section below.
-
- **Sending Us an E-mail**
-
-You also may decide to send us personally identifying information, for example, in an electronic mail message containing a question or comment, or by filling out a Web form that provides us this information. We use personally identifying information from e-mail primarily to respond to your requests. We may forward your e-mail to other Easy Info employees who are better able to answer you questions. We may also use your e-mail to contact you in the future about Easy Info programs that may be of interest.
-
-We want to be very clear: We will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us. Providing such information is strictly voluntary. Except as might be required by law, we do not share any information we receive with any outside parties.
-
-If you sign up for one of our e-mail lists, we'll only send you the kinds of information you've requested. We won't share your name or e-mail address with any outside parties.
-
- **Kids and Privacy**
-
-For children who visit our site, special rules apply. We do not request personal information about children, such as first and last name or street address and city. When kids send e-mail to us, their online contact information (e-mail address) is not used to re-contact them and is not maintained in retrievable form.
-
- **Opt Out or Change Your Contact Information**
-
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications. These same options may be used to change or modify information previously provided to us.
-
-Questions About Our Policies
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at:
-
-webmaster@easyinfo.co.in
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
