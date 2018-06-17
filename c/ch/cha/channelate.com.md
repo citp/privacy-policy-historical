@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the channelate.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220083559id_/http%3A//www.channelate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelate.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617121130id_/http%3A//www.channelate.com/privacy-policy) for the most accurate reproduction.*
 
-# Channelate - Privacy Policy
+# Privacy Policy – Channelate
 
 **What information do we collect?**
 
