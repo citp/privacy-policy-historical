@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emibazaar.com privacy policy that was archived on 2017-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171211043359id_/http%3A//www.emibazaar.com/Pages/Privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emibazaar.com privacy policy that was archived on 2018-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180617141958id_/http%3A//emibazaar.com/Pages/Privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy : EMI Online Shopping: Shop Online for Mobiles,Laptops,Cameras,Watches with EMI on Debit card,Credit card &amp; Consumer Durable Loans
@@ -17,124 +17,130 @@ body {
 </style>
 <script type="text/javascript">
 <!--
-    var timeout = 500;
-    var closetimer = 0;
-    var ddmenuitem = 0;
+var timeout         = 500;
+var closetimer		= 0;
+var ddmenuitem      = 0;
 
-    // open hidden layer
-    function mopen(id) {
-        // cancel close timer
-        mcancelclosetime();
+// open hidden layer
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
 
-        // close old layer
-        if (ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
 
-        // get new layer and show it
-        ddmenuitem = document.getElementById(id);
-        ddmenuitem.style.visibility = 'visible';
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
 
-    }
-    // close showed layer
-    function mclose() {
-        if (ddmenuitem) ddmenuitem.style.visibility = 'hidden';
-    }
+}
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
 
-    // go close timer
-    function mclosetime() {
-        closetimer = window.setTimeout(mclose, timeout);
-    }
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
 
-    // cancel close timer
-    function mcancelclosetime() {
-        if (closetimer) {
-            window.clearTimeout(closetimer);
-            closetimer = null;
-        }
-    }
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
 
-    // close layer when click-out
-    document.onclick = mclose;
-    // -->
+// close layer when click-out
+document.onclick = mclose; 
+// -->
 </script>
 
    <script type="text/javascript">
-       //<![CDATA[
+    //<![CDATA[
 
-       var tabLinks = new Array();
-       var contentDivs = new Array();
+    var tabLinks = new Array();
+    var contentDivs = new Array();
 
-       function init() {
+    function init() {
 
-           // Grab the tab links and content divs from the page
-           var tabListItems = document.getElementById('tabs').childNodes;
-           for (var i = 0; i < tabListItems.length; i++) {
-               if (tabListItems[i].nodeName == "LI") {
-                   var tabLink = getFirstChildWithTagName(tabListItems[i], 'A');
-                   var id = getHash(tabLink.getAttribute('href'));
-                   tabLinks[id] = tabLink;
-                   contentDivs[id] = document.getElementById(id);
-               }
-           }
+      // Grab the tab links and content divs from the page
+      var tabListItems = document.getElementById('tabs').childNodes;
+      for ( var i = 0; i < tabListItems.length; i++ ) {
+        if ( tabListItems[i].nodeName == "LI" ) {
+          var tabLink = getFirstChildWithTagName( tabListItems[i], 'A' );
+          var id = getHash( tabLink.getAttribute('href') );
+          tabLinks[id] = tabLink;
+          contentDivs[id] = document.getElementById( id );
+        }
+      }
 
-           // Assign onclick events to the tab links, and
-           // highlight the first tab
-           var i = 0;
+      // Assign onclick events to the tab links, and
+      // highlight the first tab
+      var i = 0;
 
-           for (var id in tabLinks) {
-               tabLinks[id].onclick = showTab;
-               tabLinks[id].onfocus = function () { this.blur() };
-               if (i == 0) tabLinks[id].className = 'selected';
-               i++;
-           }
+      for ( var id in tabLinks ) {
+        tabLinks[id].onclick = showTab;
+        tabLinks[id].onfocus = function() { this.blur() };
+        if ( i == 0 ) tabLinks[id].className = 'selected';
+        i++;
+      }
 
-           // Hide all content divs except the first
-           var i = 0;
+      // Hide all content divs except the first
+      var i = 0;
 
-           for (var id in contentDivs) {
-               if (i != 0) contentDivs[id].className = 'tabContent hide';
-               i++;
-           }
-       }
+      for ( var id in contentDivs ) {
+        if ( i != 0 ) contentDivs[id].className = 'tabContent hide';
+        i++;
+      }
+    }
 
-       function showTab() {
-           var selectedId = getHash(this.getAttribute('href'));
+    function showTab() {
+      var selectedId = getHash( this.getAttribute('href') );
 
-           // Highlight the selected tab, and dim all others.
-           // Also show the selected content div, and hide all others.
-           for (var id in contentDivs) {
-               if (id == selectedId) {
-                   tabLinks[id].className = 'selected';
-                   contentDivs[id].className = 'tabContent';
-               } else {
-                   tabLinks[id].className = '';
-                   contentDivs[id].className = 'tabContent hide';
-               }
-           }
+      // Highlight the selected tab, and dim all others.
+      // Also show the selected content div, and hide all others.
+      for ( var id in contentDivs ) {
+        if ( id == selectedId ) {
+          tabLinks[id].className = 'selected';
+          contentDivs[id].className = 'tabContent';
+        } else {
+          tabLinks[id].className = '';
+          contentDivs[id].className = 'tabContent hide';
+        }
+      }
 
-           // Stop the browser following the link
-           return false;
-       }
+      // Stop the browser following the link
+      return false;
+    }
 
-       function getFirstChildWithTagName(element, tagName) {
-           for (var i = 0; i < element.childNodes.length; i++) {
-               if (element.childNodes[i].nodeName == tagName) return element.childNodes[i];
-           }
-       }
+    function getFirstChildWithTagName( element, tagName ) {
+      for ( var i = 0; i < element.childNodes.length; i++ ) {
+        if ( element.childNodes[i].nodeName == tagName ) return element.childNodes[i];
+      }
+    }
 
-       function getHash(url) {
-           var hashPos = url.lastIndexOf('#');
-           return url.substring(hashPos + 1);
-       }
+    function getHash( url ) {
+      var hashPos = url.lastIndexOf ( '#' );
+      return url.substring( hashPos + 1 );
+    }
 
-       //]]>
+    //]]>
     </script>
 </head>
 <body>
     <form name="aspnetForm" method="post" action="Privacypolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAw9kFgYCAQ8PFgQeBFRleHQFBUxvZ2luHgtDb21tYW5kTmFtZQUFTG9naW5kZAIFDw8WAh8ABQ1XZWxjb21lIEd1ZXN0ZGQCBw8PFgIfAAUHMCBJdGVtc2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ9jdGwwMCRidG5TZWFyY2h7wjYWxzAbzKpflZOe5zOSahfrGp7Wh50uKJzfY2iwAg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAw9kFgYCAQ8PFgQeBFRleHQFBUxvZ2luHgtDb21tYW5kTmFtZQUFTG9naW5kZAIFDw8WAh8ABQ1XZWxjb21lIEd1ZXN0ZGQCBw8PFgIfAAUHMCBJdGVtc2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ9jdGwwMCRidG5TZWFyY2jGDrpwqWjQ+3NaLHNcidxnpa/3JA==">
 
-<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="dfwx8GH3HPppfnDs9p0kIMPlifNkryPy56pnSXJzXSr-vxOVYWyS1Dd5GKQNOqyOgs9V6enwG3N5FPx_R9BBHcL5F0HxIlAy1MLyVOMxW19zG-TlZDaxBnEbTHbgpr8M0">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUlcT3GOeZ6ueo9UhBH26nlSRZVUtO1aEx/UVNm/L2iDaB+WHUewCuP8yRZZR8pawnj7dallA1vzavOzYqdPeuHVXpGQB+5+uolroumqcYWC5aiePA3xrpmST6TsPmoZqZ0erH2TE3cxFXUQnL7ep+n">
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="82959E0B">
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="y0qfFQ8--MIE_NP5kmEH_Imn2-3OaCEM3RFy9Ckly5Lkmal9RlPi9zfUOUX823CjOr1cfuulmQJIHELwGmRQQ_OmBB5exQg75pj4QYcEUo_TPxIA0">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKFvJL+DgLnrI+ZDwL/pMzhBwLE5ML0AgL9n+COAp3eBBr4YihRYTActIYA7f/c9J4v">
     <div>
 <table width="1024" border="0" align="center" cellpadding="0" cellspacing="0" class="boarder">
   <tbody><tr>
@@ -175,8 +181,9 @@ body {
         <tbody><tr>
           <td width="10" height="50"></td>
           <td width="430"><a href="../Pages/Home.aspx"><img src="../Images/EmibzrLogo.jpg"></a></td>
+          <td width="134">
           
-            <td width="134"></td>
+          </td>
           <td width="260" class="WelcmTxt">
               &nbsp;<span id="ctl00_btnWelcome">Welcome Guest</span></td>
           <td width="80" align="right"><a href="../Pages/ShoppingCart.aspx"><img src="../Images/cart.gif"></a></td>
@@ -208,38 +215,72 @@ body {
         <tbody><tr>
           <td width="180" height="35" class="MenuTxt">                  
                 <div class="dropdown" style="z-index:2">
-                  <button class="dropbtn">ELECTRONICS</button>
+                  <button class="dropbtn">Computer</button>
                   <div class="dropdown-content">
-                    <a href="../Pages/Products.aspx?CatId=8">MOBILES</a>
-                    <a href="../Pages/Products.aspx?CatId=9">TABLETS</a>
-                    <a href="../Pages/Products.aspx?CatId=10">CAMERAS</a>                    
-                    <a href="../Pages/Products.aspx?CatId=11">LAPTOPS</a>
-                    <a href="../Pages/Products.aspx?CatId=12">TVS</a>
-                    <a href="../Pages/Products.aspx?CatId=13">HOME THEATRE</a>
-                    <a href="../Pages/Products.aspx?CatId=14">ACCESSORIES</a>                                   
+                    <a href="../Pages/Products.aspx?CatId=5">Eeebook</a>
+                    <a href="../Pages/Products.aspx?CatId=6">Laptop</a>                             
                   </div>
                 </div>                              
           </td>
           <td width="1" bgcolor="#cac9c7"></td>
-
-          <td width="175" class="MenuTxt"><a href="../Pages/Products.aspx?CatId=5" class="MenuTxt">Lifestyle </a></td>
+          <td width="175" class="MenuTxt">
+                <div class="dropdown" style="z-index:2">
+                  <button class="dropbtn">Furniture</button>
+                  <div class="dropdown-content">
+                    <a href="../Pages/Products.aspx?CatId=7">Bean Bag</a>
+                    <a href="../Pages/Products.aspx?CatId=8">Bed</a>
+                    <a href="../Pages/Products.aspx?CatId=9">Centre Table</a>
+                    <a href="../Pages/Products.aspx?CatId=10">Computer table</a>
+                    <a href="../Pages/Products.aspx?CatId=11">Dining Set</a>
+                    <a href="../Pages/Products.aspx?CatId=12">Dressing Table</a>
+                    <a href="../Pages/Products.aspx?CatId=13">Garden Furnityre</a>
+                    <a href="../Pages/Products.aspx?CatId=14">Recliners</a>
+                    <a href="../Pages/Products.aspx?CatId=15">Rocking Chair</a>
+                    <a href="../Pages/Products.aspx?CatId=16">Shoe Cabinet</a>
+                    <a href="../Pages/Products.aspx?CatId=17">Side Table</a>
+                    <a href="../Pages/Products.aspx?CatId=18">Sofa 1 seater</a>
+                    <a href="../Pages/Products.aspx?CatId=19">Sofa 3 Seater</a>
+                    <a href="../Pages/Products.aspx?CatId=20">TV stand</a>
+                    <a href="../Pages/Products.aspx?CatId=21">Wardrobe</a>
+                  </div>
+                </div>   
+          </td>
           <td width="1" bgcolor="#cac9c7"></td>
           <td width="180" class="MenuTxt">
           
                 <div class="dropdown">
-                  <button class="dropbtn">HOME APPLIANCES</button>
+                  <button class="dropbtn">Home Appliance</button>
                   <div class="dropdown-content">
-                    <a href="../Pages/Products.aspx?CatId=15">KITCHEN APPLIANCES</a>
-                    <a href="../Pages/Products.aspx?CatId=16">SMALL HOME APPLIANCES</a>
-                    <a href="../Pages/Products.aspx?CatId=17">LARGE HOME APPLIANCES</a>                                  
+                    <a href="../Pages/Products.aspx?CatId=22">Direvt Cool Fridge</a>
+                    <a href="../Pages/Products.aspx?CatId=23">Forst Free Fridge</a>
+                    <a href="../Pages/Products.aspx?CatId=24">Fully Auto Matic Washing Machine</a>
+                    <a href="../Pages/Products.aspx?CatId=25">Fully Auto Matic Washing MachineFLT</a>
+                    <a href="../Pages/Products.aspx?CatId=26">Microwave Oven Convection</a>
+                    <a href="../Pages/Products.aspx?CatId=27">Microwave Oven Grill</a>
+                    <a href="../Pages/Products.aspx?CatId=28">Semi Auto Matic Washing Machine</a>
+                    <a href="../Pages/Products.aspx?CatId=29">Split Airconditioner</a>                               
                   </div>
                 </div>
                 
           </td>
           <td width="1" bgcolor="#cac9c7"></td>
-          <td width="180" class="MenuTxt"><a href="../Pages/Products.aspx?CatId=3" class="MenuTxt">HEALTH &amp; BEAUTY</a>          
-                            
+          <td width="180" class="MenuTxt">   
+                <div class="dropdown">
+                  <button class="dropbtn">Mobile</button>
+                  <div class="dropdown-content">
+                    <a href="../Pages/Products.aspx?CatId=30">Smart Phone</a>                             
+                  </div>
+                </div>                          
           </td>
+          <td width="1" bgcolor="#cac9c7"></td>
+          <td width="180" class="MenuTxt">   
+                <div class="dropdown">
+                  <button class="dropbtn">Camera</button>
+                  <div class="dropdown-content">
+                    <a href="../Pages/Products.aspx?CatId=32">DSLR</a>                             
+                  </div>
+                </div>                          
+          </td>          
           <td width="1" bgcolor="#cac9c7"></td>
   
           <td width="300">
@@ -297,7 +338,8 @@ body {
             </tr>
             <tr>
               <td height="15">&nbsp;</td>
-              <td class="runtxt">We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Royal Images Catalogue Company. The following discloses our Privacy Policy.<br></td>
+              <td class="runtxt">We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Royal Images Catalogue Company. The following discloses our Privacy Policy.
+              </td>
               <td>&nbsp;</td>
             </tr>
             <tr>
@@ -306,9 +348,9 @@ body {
               <td></td>
             </tr>
             <tr>
-              <td height="15">&nbsp;</td>
-              <td class="BtmTextBD">What information are you collecting and how are you collecting it?</td>
-              <td>&nbsp;</td>
+              <td style="height: 19px">&nbsp;</td>
+              <td class="BtmTextBD" style="height: 19px">What information are you collecting and how are you collecting it?</td>
+              <td style="height: 19px">&nbsp;</td>
             </tr>
             <tr>
               <td height="5"></td>
@@ -317,7 +359,7 @@ body {
             </tr>
             <tr>
               <td height="15">&nbsp;</td>
-              <td class="runtxt">Every computer connected to the Internet is given an "Internet Protocol" IP address. When a visitor requests a page from anywhere within the emibazaar website, our servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our servers do not record e-mail addresses of the visitors and the only email addresses collected are those submitted by a visitor upon becoming a member of emibazaar, which are required for membership, however these are not used for anything other than the normal purposes of being a emibazaar member, such as our infrequent newsletters, competition results and the likes, no email address would ever be used for any other purpose.</td>
+              <td class="runtxt">Every computer connected to the Internet is given an "Internet Protocol" IP address. When a visitor requests a page from anywhere within the emibazaar website, our servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our servers do not record e-mail addresses of the visitors and the only email addresses collected are those&nbsp; submitted by a visitor upon becoming a member of emibazaar, which are required for membership, however these are not used for anything other than the normal purposes of being a emibazaar member, such as our infrequent newsletters, competition results and the likes, no email address would ever be used for any other purpose.</td>
               <td>&nbsp;</td>
             </tr>
             <tr>
@@ -337,7 +379,7 @@ body {
             </tr>
             <tr>
               <td height="15">&nbsp;</td>
-              <td class="runtxt">A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies do not damage your computer system. The only cookie system emibazaar implements is in the form of a hit counter in order to see how many daily visitors we have, some of our advertisers may also implement cookie systems, to identify which areas of our websites you have visited, so that the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers may use this information to better personalize the content, banners, and promotions that you see on our Sites. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at other web sites may be diminished and some features may not work as intended.</td>
+              <td class="runtxt">A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies do not damage you computer system. The only cookie system emibazaar implements is in the form of a hit counter in order to see how many daily visitors we have, some of our advertisers may also implement cookie systems, to identify which areas of our websites you have visited, so that the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers may use this information to better personalize the content, banners, and promotions that you see on our Sites. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose no not to accept these cookies, your experience at other web sites may be diminished and some features may not work as intended.</td>
               <td>&nbsp;</td>
             </tr>
             <tr>
@@ -376,9 +418,9 @@ body {
               <td></td>
             </tr>
             <tr>
-              <td height="25">&nbsp;</td>
-              <td class="BtmTextBD">What information do you collect when I purchase something?</td>
-              <td>&nbsp;</td>
+              <td style="height: 25px">&nbsp;</td>
+              <td class="BtmTextBD" style="height: 25px">What information do you collect when I purchase something?</td>
+              <td style="height: 25px">&nbsp;</td>
             </tr>
             <tr>
               <td height="5"></td>
@@ -387,7 +429,7 @@ body {
             </tr>
             <tr>
               <td height="25">&nbsp;</td>
-              <td class="runtxt">If you purchase anything from emibazaar website, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. However, the credit card number and other details will not be stored by us, they will be used by our Payment Gateway providers to fulfill your online transation on our website.<br></td>
+              <td class="runtxt">If you purchase anything from emibazaar website, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. However, the credit card number and other details will not be stored by us, they will be used by our Payment Gateway providers to fulfill your online transation on our website.</td>
               <td>&nbsp;</td>
             </tr>
             <tr>
@@ -417,10 +459,14 @@ body {
             </tr>
             <tr>
               <td height="25">&nbsp;</td>
-              <td class="runtxt">Conform to the edicts of the law or comply with a legal process served on an emibazaar website.<br>
-                Protect and defend the rights or property of emibazaar, or visitors to an emibazaar website.<br>
-                Identify persons who may be violating the law, the legal notice, or the rights of third parties.<br>
-                Cooperate with the investigations of purported unlawful activities.<br>
+              <td class="runtxt">Conform to the edicts of the law or comply with a legal process served on an emibazaar website.
+                  <br>
+                Protect and defend the rights or property of emibazaar, or visitors to an emibazaar website.
+                  <br>
+                Identify persons who may be violating the law, the legal notice, or the rights of third parties.
+                  <br>
+                Cooperate with the investigations of purported unlawful activities.
+                  <br>
                 emibazaar uses reasonable precautions to keep the information disclosed to us secure. emibazaar reserves the right to transfer information in connection with the sale of all or part of emibazaar's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. emibazaar also links to a wide variety of other sites and contains advertisements owned by third parties. We are not responsible for their privacy policies or how they treat information about their users See below</td>
               <td>&nbsp;</td>
             </tr>
@@ -511,7 +557,7 @@ body {
             </tr>
             <tr>
               <td height="25" class="runtxt">&nbsp;</td>
-              <td class="runtxt">We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.<br></td>
+              <td class="runtxt">We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</td>
               <td>&nbsp;</td>
             </tr>
             <tr>
@@ -519,34 +565,25 @@ body {
               <td class="runtxt"></td>
               <td></td>
             </tr>
-            <tr style="display:none;">
+            <tr>
               <td height="25" class="runtxt">&nbsp;</td>
               <td class="runtxt"><strong>How can you make changes to any inaccurate information on our website?</strong></td>
               <td>&nbsp;</td>
             </tr>
             <tr>
-              <td height="5"></td>
-              <td></td>
-              <td></td>
+              <td style="height: 19px"></td>
+              <td style="height: 19px"></td>
+              <td style="height: 19px"></td>
             </tr>
-            <tr style="display:none;">
-              <td height="25" class="runtxt">&nbsp;</td>
-              <td class="runtxt">To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can use any of the following options:</td>
-              <td>&nbsp;</td>
+            <tr>
+              <td class="runtxt" style="height: 30px"></td>
+              <td class="runtxt" style="height: 30px">To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can use the following option:
+                  Send an e-mail to cservice@emibazaar.com&nbsp;
+              </td>
+              <td style="height: 30px"></td>
             </tr>
             <tr>
               <td height="5"></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td height="25">&nbsp;</td>
-              <td class="runtxt">Send an e-mail to cservice@emibazaar.com <br>
-                You can reach us at: +91 (44) 2433 2455. Toll free: 1800-102-2770.</td>
-              <td>&nbsp;</td>
-            </tr>
-            <tr>
-              <td height="15"></td>
               <td></td>
               <td></td>
             </tr>
@@ -592,11 +629,15 @@ body {
             </tr>
             <tr>
               <td height="25">&nbsp;</td>
-              <td class="runtxt">EMIBAZAAR<br>
-                ROYAL IMAGES CATALOGUE PVT LTD, <br>
-                NO.165 ALSA REGENCY,ELDAMS ROAD, <br>
-                Chennai - 600018 Tamilnadu, <br>
-                India. Tel:+91 (44) 2433 2455.<br>
+              <td class="runtxt">EMIBAZAAR
+                  <br>
+                  ROYAL IMAGES CATALOGUE PVT LTD,&nbsp;
+                  <br>
+                  NO.165 ALSA REGENCY,ELDAMS ROAD,&nbsp;<br>
+                Chennai - 600018 Tamilnadu, 
+                  <br>
+                India. Tel:+91 (44) 2434 2236.
+                  <br>
                 Email:cservice@emibazaar.com</td>
               <td>&nbsp;</td>
             </tr>
@@ -639,16 +680,22 @@ body {
                         <td></td>
                         <td><span class="BtmMenu"><a href="../Pages/Privacypolicy.aspx" class="BtmMenu">Privacy Policy</a></span></td>
                         <td></td>
-                        <td><span class="BtmMenu"><a href="../Pages/Returnpolicy.aspx" class="BtmMenu" style="display:none;">Return Policy</a></span></td>
+                        <td><span class="BtmMenu"><a href="../Pages/Returnpolicy.aspx" class="BtmMenu">Return Policy</a></span></td>
                       </tr>
                     </tbody></table>
                     </td>
                     <td width="20" align="left"><img src="../Images/verline.jpg" width="1" height="70"></td>
-                    <td width="604">
-                        Powered by  &nbsp;&nbsp;<img src="../Images/kisshtlogo.png">
-                        
-
-                    </td>
+                    <td width="604"><table width="654">
+                      <tbody><tr>
+                        <td width="198">
+                            <img src="../Images/EasyEMI.jpg"></td>
+                        <td width="10">&nbsp;</td>
+                          <td colspan="3">
+                            
+                              &nbsp;<img src="../Images/FREE.jpg"></td>
+                        <td width="50">&nbsp;</td>
+                      </tr>
+                    </tbody></table></td>
                   </tr>
                 </tbody></table>                  
                   </td>
@@ -657,7 +704,9 @@ body {
               <td height="1" colspan="7" bgcolor="#969595"></td>
               </tr>              
 
-           
+            <tr>
+              <td colspan="7" align="center" bgcolor="#eeeeee"><img src="../Images/LogoBtm.jpg" width="1024" height="133"></td>
+            </tr>
             <tr>
               <td colspan="7" align="center" bgcolor="#eeeeee"><table width="1024" class="BtmGray">
                 <tbody><tr>
@@ -691,7 +740,7 @@ body {
         <tr>
           <td><table width="1010" align="center">
             <tbody><tr>
-              <td class="BtmText"><span class="BtmTextBD">Top Online Shopping Stores: Mobiles:</span> Smartphones | Android Mobiles | iPad | Tablets | Mobile Accessories, Phone Brands - Samsung Mobile | Nokia | Apple | Sony | HTC | LG | Blackberry | HCL Mobiles <span class="BtmTextBD">Cameras:</span> Point &amp; Shoot | SLR | Camcorders | Binoculars, Digital Camera Brands – Nikon Camera | Canon Camera | Sony Camera | Olympus | Samsung | Panasonic | Fujifilm Camera <span class="BtmTextBD">Computers:</span> Laptops | Ipad | Disk &amp; Drive | Printers &amp; Scanners | Computer Accessories, Laptop Brands – Apple | Acer Laptop | HP Laptop | HCL | Lenovo Laptop | Sony Laptop | Toshiba Laptops <span class="BtmTextBD">Electronics:</span> TV | Video Player | Speakers | Electronic accessories, Electronic Brands – Sony TV | Philips | Apple ipods | JBL<span class="BtmTextBD"> Lifestyle:</span> Watches | Men’s Watch | Women’s Watch | Sunglasses | Hand Bags | Wallets | Perfumes, Brands – Casio Watch | Citizen | Titan | Reebok Sunglasses | Fastrack Watches <span class="BtmTextBD">Home Appliances:</span> AC | Refrigerators | Washing Machines | Home Utilities | Kitchen Appliances | Brands – Philips | Morphy Richards | Oster | Bajaj | Skil | Bosch | Zain | Havells | USHA<span class="BtmTextBD"> Travel:</span> Luggage | Laptop Bags | Back Pack | Hand Bags | Jewelry Cases | Wallets | Toilet Cases | Accessories, Brands – American Tourister | Holii | Fastrack | Wildcraft Bags <span class="BtmTextBD">Health &amp; Beauty:</span> Men’s Grooming | Women’s Grooming | Health Care | Fitness Equipment | Perfumes, Brands – Philips | Panasonic | Dr.Morepen | Braun | 4Sure <span class="BtmTextBD">Toys &amp; Gifts:</span> Kids Electronic Toys | Jewellery | Gift Voucher | Education | Utility | Home Decor | Unique Products | Pens, Brands – Barbie, Jpearls <span class="BtmTextBD">Books &amp; Magazines, Sales</span></td>
+              <td class="BtmText"><span class="BtmTextBD">Top Online Shopping Stores : Mobiles:</span> Smartphones | Android Mobiles. <span class="BtmTextBD"> Digital Cameras :</span> Nikon | Canon. <span class="BtmTextBD">Computers :</span> Laptops | Eebook. <span class="BtmTextBD">Home Appliances :</span> AC | Refrigerators | Washing Machines | Home Utilities | Kitchen Appliances.</td>
             </tr>
           </tbody></table></td>
         </tr>
@@ -707,7 +756,16 @@ body {
         <tr>
           <td height="15" align="center"><table width="1010" align="center">
             <tbody><tr>
-              <td class="BtmText">© 2017 emibazaar.com. ALL RIGHTS RESERVED. Emibazaar.com is a fast growing e-commerce company which offers customers the convenience of shopping online or ordering on phone. We are India’s leading online shopping portal offering great discounts and products on easy installments not only on credit cards, but also EMI without credit cards &amp; EMI on debit cards to customers. Our easy EMI options make aspirations affordable to all. You can shop online at Emibazaar.com using credit cards as well as debit cards from all leading Banks including HDFC, HSBC, CITI Bank, Kotak, IndusInd, ICICI, Axis, Standard Chartered, SBI Bank &amp; RBL Bank. We are also partnered with NBFC’s like Bajaj FinServ to satisfy the needs of non-credit card holders. We hold a diverse mix of products across popular categories ranging from mobiles, computers, cameras, home/kitchen appliances to health and grooming products, watches, perfumes, bags and toys, all at competitive prices and Easy EMIs to make online shopping convenient. The top-selling brands that we provide are Samsung, Nokia, Blackberry, Apple, Dell, Toshiba, Sony, Canon, Nikon, Panasonic, Philips, Bajaj, Jaipan, BPL, Braun, Skullcandy, Casio, Citizen, Reebok, Tag Heuer, Calvin Klein, Lavie and American Tourister. One of the fastest growing online shopping portals, Emibazaar.com offers a hassle-free experience of shopping online by offering 15-days money-back guarantee and free all-India delivery. With a wide range of products and convenient EMIs on debit cards and credit cards, get set to enjoy a simple, stress-free and smart online shopping experience with Emibazaar.com.</td>
+              <td class="BtmText">©2018 emibazaar.com. ALL RIGHTS RESERVED. Emibazaar.com is a fast growing e-commerce company which offers customers the convenience of shopping online     		
+We are India’s leading online shopping portal offering great discounts and products on easy installments only on credit cards to the customers.		
+Our easy EMI options make aspirations affordable to all. You can shop online at Emibazaar.com using credit cards  from all leading&nbsp;
+Banks including HDFC, HSBC, CITI Bank, Kotak, IndusInd, ICICI, Axis, Standard Chartered, SBI Bank &amp; RBL Bank. 		
+We hold a diverse mix of products across popular categories ranging from mobiles, laptops, eebook, refrigerators, washing machines and furnitures.		
+all at competitive prices and Easy EMIs to make online shopping convenient. The top-selling brands that we provide are		
+Asus, Samsung, Nilkamal and Whirlpool and other brands		
+One of the fastest growing online shopping portals, Emibazaar.com offers a hassle-free experience of shopping online by offering                  		
+free all-India delivery. With a wide range of products and convenient EMIs  on credit cards, get set to enjoy a simple, stress-free and smart&nbsp;
+online shopping experience with Emibazaar.com.		</td>
             </tr>
           </tbody></table></td>
         </tr>
@@ -734,14 +792,14 @@ body {
     </form>
     		<!-- Google Code for All Visitors Remarketing List -->
 		<script type="text/javascript">
-		    /* <![CDATA[ */
-		    var google_conversion_id = 968457540;
-		    var google_conversion_language = "en";
-		    var google_conversion_format = "3";
-		    var google_conversion_color = "666666";
-		    var google_conversion_label = "4-ikCNzgiwMQxPrlzQM";
-		    var google_conversion_value = 0;
-		    /* ]]> */
+			/* <![CDATA[ */
+			var google_conversion_id = 968457540;
+			var google_conversion_language = "en";
+			var google_conversion_format = "3";
+			var google_conversion_color = "666666";
+			var google_conversion_label = "4-ikCNzgiwMQxPrlzQM";
+			var google_conversion_value = 0;
+			/* ]]> */
 		</script>
 
 </body></html>
