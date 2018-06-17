@@ -1,35 +1,29 @@
-> *The following text is extracted and transformed from the matrixwarehouse.co.za privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120072453id_/http%3A//www.matrixonlineshop.co.za/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixwarehouse.co.za privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617141521id_/https%3A//matrixwarehouse.co.za/content/12-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice | Matrix Warehouse
+# Privacy policy - Matrix
 
-Matrix Warehouse Group respects your privacy This statement discloses the privacy practices for both our web site and email system.
+Matrix Warehouse shall take all reasonable steps to protect your personal information. This personal information includes but is not limited to you:
 
-We have designed Matrix Warehouse Group so that no personal identifying information is displayed online or is accessible to the general public. We do not sell or rent our customer information to any outside parties.
+  * name and surname;
+  * email address;
+  * physical address;
+  * gender;
+  * mobile number; and
+  * date of birth.
 
- **Described below is our privacy policy in these areas:**
 
-   1\. Use of Your Email Address  
-   2\. Registration  
-   3\. Sharing of Information  
-   4\. "Cookies"  
-   5\. Updating Your Customer Information
 
- **Use of Your Email Address**
+You hereby grant Matrix Warehouse permission to electronically collect, store and use your personal information provided by you for the following purposes:
 
-If you provide us with your email address, register as a customer or make a purchase from us, we will occasionally send you email with recommendations or notices of new products and prices. This email may include paid advertisements from third parties. To block future email of this type, simply follow the instructions at the bottom of the message. 
+  * to contact you regarding current or new goods or services or any other goods offered by us
+  * inform you of new products, special offers and promotional competitions offered by us
+  * to compile non-personal statistical information about browsing habits, click-patterns and access to our Facebook page or website;
 
-Separately, we send email to keep you informed about the status your orders. These messages cannot be blocked.  
-Registration 
 
-During the Matrix Warehouse Group registration process, we ask you to provide us with contact information, such as name, billing address, shipping address, email address, and telephone number. We use this information to verify your account and to process your orders.  
-Sharing of Information 
 
-We do not sell, rent or share any customer information, except for transactions involving third parties. In such cases, we provide only the information required to complete the transaction. By contract, the third party is not permitted to sell, rent or share this information. 
+Matrix Warehouse shall not disclose your personal information unless:
 
-For advertising purposes, visitor and customer information is statistically aggregated and reported to advertisers. However, we do not disclose to these entities any information that could be used to personally identify you, such as your name, account, password, credit card number, or transaction history.  
-Cookies 
+  * you consent thereto; or
+  * through due legal process.
 
-Matrix Warehouse Group uses software tags called "cookies" to identify customers when they visit our site. They help us understand your buying preferences and customize our service to your needs. By understanding which areas of the site you visit, cookies allow us to present information, products and specials that are of personal interest. The information we collect with cookies is not sold, rented or shared with any outside parties.  
-Updating Customer Information 
 
-At any time you may update your Matrix Warehouse Group customer account information by going to the customer zone and clicking on "Edit Personal Details". Here you may update your name, password, billing address, shipping address, and telephone number.
