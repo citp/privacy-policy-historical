@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8tube.xxx privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210123130id_/http%3A//www.8tube.xxx/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8tube.xxx privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617122439id_/http%3A//www.8tube.xxx/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 8tube.xxx
 
@@ -31,4 +31,4 @@ Any future changes We make to this Privacy Policy and the way We use cookies at 
 
 ## Questions
 
-Questions regarding the information Lilly Devine SA has stored about You should be in writing, for address details go to our contact page, or send us an email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4b3b39223d2a28320b27222727322f66382a65282426).
+Questions regarding the information Lilly Devine SA has stored about You should be in writing, for address details go to our contact page, or send us an email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7d0d0f140b1c1e043d111411110419500e1c531e1210).
