@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activly.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230170543id_/http%3A//activly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activly.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617060830id_/http%3A//activly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Activly
 
@@ -63,10 +63,3 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 This Privacy Policy was last updated on: Wednesday, May 11th, 2016.
 
 Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
-
-  
-
-
-* * *
-
-ADVERTISEMENT:
