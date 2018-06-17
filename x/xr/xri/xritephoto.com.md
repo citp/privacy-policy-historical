@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xritephoto.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222161713id_/http%3A//xritephoto.com/ph_home.aspx%3FShow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xritephoto.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617034249id_/http%3A//www.xritephoto.com/ph_home.aspx%3FShow%3Dprivacy) for the most accurate reproduction.*
 
 # X-Rite: Privacy Policy
 
