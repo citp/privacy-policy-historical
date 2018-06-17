@@ -1,34 +1,34 @@
-> *The following text is extracted and transformed from the html5video.org privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616034426id_/http%3A//corp.kaltura.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html5video.org privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617212438id_/http%3A//corp.kaltura.com/privacy) for the most accurate reproduction.*
 
-# Kaltura Privacy Notices | Kaltura br
+# Kaltura Privacy Notices | Kaltura
 
 These privacy notices provide important information about how Kaltura, Inc. (“ **Kaltura** ”) collects, uses, processes, protects, and discloses information when you use the Kaltura Websites and the Kaltura Platform.
 
-Our Privacy Notice for the Kaltura Websites details the kinds of Personal Information we collect when you visit the various websites that we operate and how we manage and use that information.
+Our _Privacy Notice for the Kaltura Websites  _details the kinds of Personal Information we collect when you visit the various websites that we operate and how we manage and use that information.
 
-Our Privacy Notice for the Kaltura Platform details the kinds of Personal Information that are collected when you use or interact with the Kaltura Platform through an Account Owner’s account.
+Our _Privacy Notice for the Kaltura Platform  _details the kinds of Personal Information that are collected when you use or interact with the Kaltura Platform through an Account Owner’s account.
 
 These notices include legal information about your privacy rights, how you can exercise your legal rights, and how to contact Kaltura.
 
-Kaltura may update these Privacy Notices at any time without prior notice. Any such changes will become effective prospectively from the date of publication. These Privacy Notices were last updated on November 7, 2016. We encourage you to check this page frequently for any changes to our Privacy Notices.
+Kaltura may update these Privacy Notices at any time without prior notice. Any such changes will become effective prospectively from the date of publication. These Privacy Notices were last updated on November 21, 2017. We encourage you to check this page frequently for any changes to our Privacy Notices.
 
 Any inquiries, concerns, or requests regarding the use or disclosure of your Personal Information should be directed to Kaltura’s data protection officer at: [legal@kaltura.com](mailto:legal@kaltura.com).
 
-## **Privacy Notice** **for the Kaltura Websites**
+**Privacy Notice for the Kaltura Websites**
 
 This privacy notice contains important information about how Kaltura, Inc. (“ **Kaltura** ”) collects, uses, processes, protects, and discloses information when you use the Kaltura Websites.
 
-Please visit the [Terms of Use](http://corp.kaltura.com/tandc) for further conditions governing your use of the Kaltura Websites.
+Please visit the [Terms of Use](https://corp.kaltura.com/tandc) for further conditions governing your use of the Kaltura Websites.
 
 **What this Privacy Notice covers**
 
 This policy describes how Kaltura treats Personal Information that we collect, receive, process, store, distribute, and display via the Kaltura Websites, including email, text, and other electronic communications between you and Kaltura.
 
-For our privacy notice on information collected on the Kaltura Platform visit: Privacy Notice for the Kaltura Platform.
+For our privacy notice on information collected on the Kaltura Platform visit: _Privacy Notice for the Kaltura Platform_ _._
 
 In this policy, “ **you** ” means any person or organization that is authorized to use the Kaltura Platform or Website; “ **we** ” or “ **us** ” means Kaltura, including our subsidiaries and affiliates.
 
-The “ **Kaltura Websites** ” or “ **Websites** ” are websites and apps belonging to Kaltura. .
+The “ **Kaltura Websites** ” or “ **Websites** ” are websites and apps belonging to Kaltura.
 
 “ **Marketing Partners”** are trusted third parties providing us with services and data for marketing purposes, or conducting joint marketing activities with us.
 
@@ -64,14 +64,17 @@ Although some information collected automatically is not personally identifiable
 
 We use your Personal Information from the Kaltura Websites solely for the following general purposes:
 
-  1. Contacting you and sending you promotional e-mails.
-  2. Providing you the information you request on our Websites and communicating with you.
-  3. Remembering information you entered on our Websites.
-  4. Improving our Websites, services, and products.
-  5. Customizing the advertising and content you see.
-  6. Conducting research and providing anonymous statistical reporting for internal and external clients.
+a.    Contacting you and sending you promotional e-mails.
 
+b.    Providing you the information you request on our Websites and communicating with you.
 
+c.    Remembering information you entered on our Websites.
+
+d.    Improving our Websites, services, and products.
+
+e.    Customizing the advertising and content you see.
+
+f.     Conducting research and providing anonymous statistical reporting for internal and external clients.
 
 **Children**
 
@@ -79,17 +82,17 @@ The Kaltura Websites are not intended for children and we do not permit children
 
 If we become aware that we have inadvertently received or collected Personal Information pertaining to a child under the age of consent in the country where the child is located without valid consent, we will delete such information from our records.
 
-**Sharing information with Marketing Partners**
+**Sharing information with Strategic Partners**
 
-We may share Personal Information with our Marketing Partners who work on our behalf under confidentiality agreements for our marketing purposes. Our Marketing Partners may use your Personal Information to help Kaltura communicate with you about offers from Kaltura and our Marketing Partners. However, these Marketing Partners do not have any independent right to share your information with other parties or use it for other purposes.
+We may share certain Personal Information with trusted strategic partners who work on our behalf under confidentiality agreements for marketing and other purposes. Our Marketing Partners may use your Personal Information to help Kaltura communicate with you about offers from Kaltura and our Marketing Partners. However, these Marketing Partners do not have any independent right to share your information with other parties or use it for other purposes.
 
-Kaltura may display targeted advertisements based on Personal Information. Ad serving companies may make inferences based on this information in order to provide targeted ads to people who meet the targeting criteria—for example, advertisers may presents certain ads only to women aged 18-24 from a particular geographic area.
+Kaltura may display targeted advertisements based on Personal Information. Ad serving companies may make inferences based on this information in order to provide targeted ads to people who meet the targeting criteria—for example, advertisers may present certain ads only to women aged 18-24 from a particular geographic area.
 
 Kaltura does not provide any Personal Information directly to the advertiser of a targeted ad when you visit our Websites. However, ad networks that provide targeted advertisements may collect and aggregate information about you and use that information to serve targeted ads to you.  
 
-Kaltura and its affiliates are located in different regions around the world, and Kaltura works with Marketing Partners across different industries, categories of business, and in many different regions. By accessing the Kaltura Websites, your information may be transferred outside of your local jurisdiction.
+Kaltura and its affiliates are located in different regions around the world, and Kaltura works with strategic partners across different industries, categories of business, and in many different regions. By accessing the Kaltura Websites, your information may be transferred outside of your local jurisdiction.
 
-For more information regarding Kaltura and our Marketing Partners please contact us at [info@kaltura.com](mailto:info@kaltura.com).
+For more information regarding Kaltura and our strategic partners, please contact us at [info@kaltura.com](mailto:info@kaltura.com).
 
 California Civil Code Section 1798.83 permits California residents that use the Kaltura Websites to request certain information regarding disclosure of their Personal Information to third parties for such third parties’ direct marketing purposes. To make such a request, please send us an email at [legal@kaltura.com](mailto:legal@kaltura.com) with "California Privacy Rights" in the heading.
 
@@ -119,20 +122,20 @@ We do not sell, disclose, or share Personal Information about you with third par
 
   * When we have your permission to provide you with services you requested and to carry out your instructions.
   * When required by law to respond to subpoenas, court orders, or legal process by public authorities, including disclosures required by national security or law enforcement agencies.
-  * When we need to establish or exercise our legal rights, or to defend against legal claims, or when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, data breaches, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Kaltura's [Terms of Use](http://corp.kaltura.com/tandc), or as otherwise required by law.
+  * When we need to establish or exercise our legal rights, or to defend against legal claims, or when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, data breaches, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Kaltura's [Terms of Use](https://corp.kaltura.com/tandc), or as otherwise required by law.
   * We may transfer your Personal Information if Kaltura is acquired by or merged with another company, to ensure the continuity of our business and services. In such an event, Kaltura will make a public announcement before information about you becomes subject to a different privacy policy.
   * When we conduct joint webinars or marketing events with business partners, we may share participant contact information with such business partners for their marketing use.
-  * With our trusted Marketing Partners, as described above.
+  * With our trusted strategic partners, as described above.
 
 
 
 **Retention of information**
 
-We may retain your information (including Personal Information) for any lawfully permitted period of time, and as necessary to comply with our legal and contractual obligations and policies, enforce our agreements, and enable us to investigate events and resolve disputes.
+We may retain your information (including Personal Information) for any lawfully permitted period of time, and as necessary to comply with our legal and contractual obligations, enforce our agreements, and enable us to investigate events and resolve disputes.
 
 **Kaltura blogs and discussion forums**
 
-If you participate in a Kaltura blog, discussion forum, or other parts of our Websites that allow you to post your comments, you should be aware that the information you provide there may be made broadly available to others, potentially inside and outside Kaltura, who have access to that blog or discussion forum. Blogs and discussion forums are monitored by Kaltura and reserve the right to remove your content at our discretion. Each participant's opinion on a blog or discussion forum is his or her own.
+If you participate in a Kaltura blog, discussion forum, or other parts of our Websites that allow you to post your comments, you should be aware that the information you provide there may be made broadly available to others, potentially inside and outside Kaltura, who have access to that blog or discussion forum. Blogs and discussion forums are monitored by Kaltura and we reserve the right to remove your content at our discretion. Each participant's opinion on a blog or discussion forum is his or her own.
 
 **Confidentiality, security, and data integrity**
 
@@ -156,7 +159,7 @@ You will have a right to demand rectification of inaccurate Personal Information
 
 You will have the right to object to unlawful data processing under certain conditions.
 
-You will have the right to erasure of past data about you (your “the right to be forgotten”) under certain conditions.
+You will have the right to erasure of past data about you (your “right to be forgotten”) under certain conditions.
 
 You will have the right to demand that we restrict processing of your Personal Information, under certain conditions, if you believe we have exceeded the legitimate basis for processing, processing is no longer necessary, are processing, or believe your Personal Information is inaccurate.
 
@@ -168,11 +171,16 @@ You will have a right to complain to a data protection supervisory authority in 
 
 Kaltura’s representative in the EU for the purposes of compliance with the GDPR will be Kaltura Europe Limited, Kaltura’s UK-based subsidiary, which may be contacted at:
 
-Kaltura Europe Limited  
-4th Floor, Northumberland House  
-303-306 High Holborn  
-London, WC1V 7JZ  
-Phone: +44 (0) 203 116 7700  
+Kaltura Europe Limited
+
+4th Floor, Northumberland House 
+
+303-306 High Holborn
+
+London, WC1V 7JZ
+
+Phone: +44 (0) 203 116 7700
+
 D / A / CH Phone: +49 176 31373206
 
 To learn more about your rights under the GDPR you can visit the European Commission’s page on Protection of Personal Data, at: <http://ec.europa.eu/justice/data-protection/index_en.htm>
@@ -181,9 +189,9 @@ To learn more about your rights under the GDPR you can visit the European Commis
 
 Kaltura is a global organization headquartered in the United States and has legal entities, business functions, and systems in countries around the world.
 
-We may share your Personal Information within Kaltura and transfer it to countries in the world where we do business, including outside of the EU/EEA and Switzerland. Other countries have privacy laws that are different from privacy laws in your country. Regardless of location, Kaltura handles Personal Information as described here, and we take care to ensure that our employees, agents and Marketing Partners in other countries act in a manner consistent with this privacy notice.  
+We may share your Personal Information within Kaltura and transfer it to countries in the world where we do business, including outside of the EU/EEA and Switzerland. Other countries have privacy laws that are different from privacy laws in your country. Regardless of location, Kaltura handles Personal Information as described here, and we take care to ensure that our employees, agents and strategic partners in other countries act in a manner consistent with this privacy notice.  
 
-Kaltura is committed to upholding the US-EU Privacy Shield Principles for all Personal Information it receives from the EU. Kaltura is registered and self-certifies compliance with the U.S. Department of Commerce's Privacy Shield Program. For more information about the Privacy Shield visit: [www.privacyshield.gov](http://www.privacyshield.gov/). 
+Kaltura complies with the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively.  Kaltura has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 If you are in the European Union, you have a right to access your Personal Information. If you wish to access your information held by Kaltura, please follow the contact information at the end of this notice.
 
@@ -191,24 +199,21 @@ Kaltura may be liable for onward transfers to third parties in violation of the 
 
 We will investigate and attempt to resolve requests, complaints, and disputes regarding use and disclosure of your information in accordance with this Privacy Notice, and may require further information from you in order to identify you and to address the matter at issue.  
 
-People in the European Union, EEA, and Switzerland may submit unresolved complaints to binding arbitration in front of the American Arbitration Association (“AAA”) under certain conditions. Information about AAA services can be found at its website: <http://info.adr.org/safeharbor>. The exclusive location for such arbitration shall be New York, NY, United States.
+People in the European Union, EEA, and Switzerland may submit unresolved complaints to binding arbitration in front of the American Arbitration Association (“AAA”) under certain conditions. Information about AAA services can be found at its website: <http://go.adr.org/privacyshield.html>. The exclusive location for such arbitration shall be New York, NY, United States.
 
 Kaltura is subject to the regulatory authority of the U.S. Federal Trade Commission. The Federal Trade Commission may be contacted at the following address:
 
-Federal Trade Commission  
-Attn: Consumer Response Center  
-600 Pennsylvania Avenue NW  
-Washington, DC 20580   
-Email: [consumerline@ftc.gov](mailto:consumerline@ftc.gov)  
+Federal Trade Commission
+
+Attn: Consumer Response Center
+
+600 Pennsylvania Avenue NW
+
+Washington, DC 20580
+
+Email: [consumerline@ftc.gov](mailto:consumerline@ftc.gov)
+
 www.ftc.gov
-
-People in the European Union (EU Data Subjects) can invoke binding arbitration as stipulated in the EU-U.S. Privacy Shield Agreement, Annex I, for some residual claims not resolved by other redress mechanisms.
-
-**U.S-Swiss Safe Harbor Framework**
-
-Kaltura is registered and certifies its compliance with the U.S.-Swiss Safe Harbor Framework for any personally identifiable information it receives from Switzerland.
-
-The U.S.-Swiss Safe Harbor List may be visited at: [https://safeharbor.export.gov](https://safeharbor.export.gov/).
 
 **Contacting Kaltura about this Privacy Notice**
 
@@ -216,13 +221,11 @@ Any inquiries, concerns, or requests regarding the use or disclosure of your Per
 
 **Changes to this Privacy Notice**
 
-Kaltura may update this Privacy Notice at any time without prior notice. Any such changes will become effective prospectively from the date of publication. This Privacy Notice was last updated on November 7, 2016. We encourage you to check this page frequently for any changes to our Privacy Policy.
-
-The previous version of our Privacy Policy is found here: Privacy Policy. 
+Kaltura may update this Privacy Notice at any time without prior notice. Any such changes will become effective prospectively from the date of publication. This Privacy Notice was last updated on November 21, 2017. We encourage you to check this page frequently for any changes to our Privacy Policy.
 
 This privacy notice explains how Kaltura, Inc. (“ **Kaltura** ”) collects, uses, processes, protects, and discloses information on the Kaltura Platform.
 
-Please visit the [Terms of Use](http://corp.kaltura.com/tandc) for further conditions governing your use of the Kaltura Websites.
+Please visit the [Terms of Use](https://corp.kaltura.com/tandc) for further conditions governing your use of the Kaltura Websites.
 
 **What this Privacy Notice covers**
 
@@ -263,7 +266,7 @@ When you interact with the Kaltura Platform through an Account Owner’s account
   * Interacting with the Kaltura APIs.
   * Opening a free trial account or other partner account for the Kaltura Platform.
   * Downloading a Kaltura application from sites like the Apple App Store and Google Play.
-  * Interacting With Kaltura on behalf of an Account Owner (for example, if you are an Account Owner’s account or business administrator or a technical contact you may provide your contact information to Kaltura for service or billing purposes).
+  * Interacting with Kaltura on behalf of an Account Owner (for example, if you are an Account Owner’s account or business administrator or a technical contact you may provide your contact information to Kaltura for service or billing purposes).
 
 
 
@@ -271,25 +274,31 @@ When you interact with the Kaltura Platform through an Account Owner’s account
 
 When you use the Kaltura Platform as a User through an Account Owner’s account, the following categories of Personal Information may be collected and processed:
 
-  1. _Information you upload_ – If you are authorized to upload videos to a Kaltura account, the video content and metadata that you upload may potentially include Personal Information about you and/or other third parties.
-  2. _Information provided by the Account Owner_ – The Account Owner may enter or create Personal Information about you on its account. For example, your information may be included in the Account Owner’s authorized User lists, access permissions, or in content metadata.
-  3. _Traffic information, instructions, and activity on the Kaltura Platform_ – When you interact with the Kaltura Platform, the system collects the traffic information needed to deliver your actions and instructions over the Internet. Personal Information about you may include IP addresses, and URLs used to deliver content to you, and the Kaltura Platform may collect other system information such as MAC addresses to allow the system to recognize your devices, The Kaltura Platform uses cookies to remember your preferences and/or support the use of digital rights management systems.
-  4. _Passwords and login credentials –_ When you log in to the Kaltura Platform, we collect the user IDs and passwords used in order to access the Kaltura Platform. When you log in to other Account Owner systems that are connected to the Kaltura Platform (such as single sign-on systems or third party portals), depending on the configuration of those systems, the Kaltura Platform may receive user login credentials or an anonymous identifier or token.
-  5. _Contact and billing information_ – If you are a Kaltura Account Owner, we collect your contact and billing information.
+a.    _Information you upload_ – If you are authorized to upload videos to a Kaltura account, the video content and metadata that you upload may potentially include Personal Information about you and/or other third parties.  
 
+b.    _Information provided by the Account Owner_ – The Account Owner may enter or create Personal Information about you on its account. For example, your information may be included in the Account Owner’s authorized User lists, access permissions, or in content metadata.
 
+c.    _Traffic information, instructions, and activity on the Kaltura Platform_ – When you interact with the Kaltura Platform, the system collects the traffic information needed to deliver your actions and instructions over the Internet. Personal Information about you may include IP addresses, and URLs used to deliver content to you, and the Kaltura Platform may collect other system information such as MAC addresses to allow the system to recognize your devices. The Kaltura Platform uses cookies to remember your preferences and/or support the use of digital rights management systems.
+
+d.    _Passwords and login credentials –_ When you log in to the Kaltura Platform, we collect the user IDs and passwords used in order to access the Kaltura Platform. When you log in to other Account Owner systems that are connected to the Kaltura Platform (such as single sign-on systems or third party portals), depending on the configuration of those systems, the Kaltura Platform may receive user login credentials or an anonymous identifier or token.
+
+e.    _Contact and billing information_ – If you are a Kaltura Account Owner, we collect your contact and billing information.
 
 **How we use your Personal Information**
 
 We use your information solely for the following purposes:
 
-  1. Provide the services and functions you requested from the Account Owner and performing your actions and instructions on the Kaltura Platform through the Account Owner’s account.  
-  2. Providing support, service notices, billing, and other account-relevant information to Account Owners.
-  3. We use the Account Owner’s contact and billing address to send Account Owners offers and promotional information.
-  4. Creating aggregate statistics and analytics information for Kaltura’s own use and our Account Owners’ respective use.
-  5. We may use content on an Account Owner’s account to troubleshoot and resolve service issues on that Account Owner’s account, and to test and improve the Kaltura Platform.
+1.    Provide the services and functions you requested from the Account Owner and performing your actions and instructions on the Kaltura Platform through the Account Owner’s account.   
 
+2.    Providing support, service notices, billing, and other account-relevant information to Account Owners.
 
+3.    We use the Account Owner’s contact and billing address to send Account Owners offers and promotional information.
+
+4.    Creating aggregate statistics and analytics information for Kaltura’s own use and our Account Owners’ respective use.
+
+5.    We may use content on an Account Owner’s account to troubleshoot and resolve service issues on that Account Owner’s account.
+
+6.    We use traffic information and aggregated user information to better monitor the performance of the Kaltura Platform, track account usage, and test and improve the Kaltura Platform.
 
 **Audit logs**
 
@@ -299,11 +308,11 @@ We use commercially reasonable methods to keep production logs secure and do not
 
 **Sharing information with Partners**
 
-We rely on certain trusted third-party Partners to provide part of the services that make up the Kaltura Platform. For example, we transmit video content via third party content delivery networks (CDNs).
+We rely on certain trusted third-party Partners to provide part of the services and functions that make up the Kaltura Platform. For example, we transmit video content via third party content delivery networks (CDNs).
 
-Kaltura does not share your information, including Personal Information, with any third parties beyond our Partners except in the limited circumstances detailed below. Our Partners do not have permission to use your Personal Information for any purpose other than to provide to Kaltura the services we require to serve our Account Owners.
+Kaltura does not share your information, including Personal Information, with any third parties other than our Partners except in the limited circumstances detailed below. Our Partners do not have permission to use your Personal Information for any purpose other than to provide to Kaltura the services we require to serve our Account Owners.
 
-The Kaltura Platform is designed to interoperate with different system.  Our Account Owners may choose to integrate the Kaltura Platform with their own systems or with other third-party services of their designation. Kaltura is not responsible for systems connected to the Kaltura Platform that are not under our control.  
+The Kaltura Platform is designed to interoperate with different systems.  Our Account Owners may choose to integrate the Kaltura Platform with their own systems or with other third-party services of their designation. Kaltura is not responsible for systems connected to the Kaltura Platform that are not under our control.  
 
 **Cookies and other activity tracking technologies**
 
@@ -311,7 +320,7 @@ The Kaltura Platform uses certain persistent first-party cookies to provide the 
 
 The Kaltura Platform does not place third-party cookies on your devices. However, elements of the Kaltura Platform, such as the Kaltura player may send information about your activities on the Kaltura Platform to cookies placed by others (such as ad networks) on your devices through web beacons, VAST tags, and other technologies. Other parties’ cookies are subject to their own privacy policies.
 
-Most Internet browsers have options for controlling, disabling, and deleting cookies on your computer. In addition, many ad networks have joined the Digital Advertising Alliance’s self-regulatory program to provide a single opt-out tool at: [http://www.aboutads.info](http://www.aboutads.info/) and at the European Interactive Digital Advertising Alliance (EDAA) website: [http://youronlinechoices.eu](http://youronlinechoices.eu/). However, Kaltura does not guarantee that using these tools will prevent online behavioral tracking using cookies through our Websites.
+Most Internet browsers have options for controlling, disabling, and deleting cookies on your computer. In addition, many ad networks have joined the Digital Advertising Alliance’s self-regulatory program to provide a single opt-out tool at: [http://www.aboutads.info](http://www.aboutads.info/) and at the European Interactive Digital Advertising Alliance (EDAA) website: [http://youronlinechoices.eu](http://youronlinechoices.eu/). However, Kaltura does not guarantee that using these tools will prevent online behavioral tracking using cookies through the Kaltura Platform.
 
 **Disclosure of Personal Information to third parties**
 
@@ -319,7 +328,7 @@ Your Personal Information on a Kaltura Platform account is controlled by the Acc
 
   * When we have the Account Owner’s permission, in order to provide the Account Owner with services it requests.
   * When required by law to respond to subpoenas, court orders, or legal process by public authorities, including disclosures required by national security or law enforcement agencies.
-  * When we need to establish or exercise our legal rights, or to defend against legal claims, or when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, data breaches, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Kaltura's [Terms of Use](http://corp.kaltura.com/tandc), or as otherwise required by law.
+  * When we need to establish or exercise our legal rights, or to defend against legal claims, or when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, data breaches, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Kaltura's [Terms of Use](https://corp.kaltura.com/tandc), or as otherwise required by law.
   * If Kaltura is acquired by or merged with another company, the Kaltura Platform (including the information stored on Account Owner’s respective accounts) may be transferred to another entity.
   * With our Partners, as described above.
 
@@ -333,7 +342,7 @@ We may retain your information (including Personal Information) on the Kaltura P
 
 We take great precautions to protect the integrity of your Personal Information. However, no data transmission over the Internet or any other network can be guaranteed to be 100% secure. While we strive to protect information on the Kaltura Platform, we cannot and do not guarantee the security of any information you transmit.
 
-To learn more about security, including the security measures we have taken and steps you can take to enhance the security of your information when using the Kaltura Websites, please contact us at [security@kaltura.com](mailto:security@kaltura.com).
+To learn more about security, including the security measures we have taken and steps you can take to enhance the security of your information when using the Kaltura Platform, please contact us at [security@kaltura.com](mailto:security@kaltura.com).
 
 **Rights of European Data Subjects under the General Data Protection Regulation (GDPR)**
 
@@ -351,7 +360,7 @@ To learn more about your rights under the GDPR you can visit the European Commis
 
 The Kaltura Platform hosts and processes information in the United States, and our staff accesses the Kaltura Platform in other countries where we conduct business operations.
 
-Kaltura is committed to upholding the US-EU Privacy Shield Principles for all Personal Information it receives from the EU. Kaltura is registered and self-certifies compliance with the U.S. Department of Commerce's Privacy Shield Program. For more information about the Privacy Shield visit: [www.privacyshield.gov](http://www.privacyshield.gov/). 
+Kaltura complies with the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively.  Kaltura has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 If you are in the European Union, you have a right to access your Personal Information. If you wish to access your information held on a Kaltura Account, please contact the relevant Account Owner (the data controller).
 
@@ -361,7 +370,7 @@ Kaltura may be liable for onward transfers to third parties in violation of the 
 
 We will investigate and attempt to resolve requests, complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Notice which have not been resolved by the Account Owner. We may require further information from you in order to identify you and address the matter at issue. 
 
-People in the European Union, EEA, and Switzerland may submit unresolved complaints to binding arbitration in front of the American Arbitration Association (“AAA”) under certain conditions. Information about AAA services can be found at its website: <http://info.adr.org/safeharbor>.  The exclusive location for such arbitration shall be New York, NY, United States.
+People in the European Union, EEA, and Switzerland may submit unresolved complaints to binding arbitration in front of the American Arbitration Association (“AAA”) under certain conditions. Information about AAA services can be found at its website: <http://go.adr.org/privacyshield.html>.  The exclusive location for such arbitration shall be New York, NY, United States.
 
 Kaltura is subject to the regulatory authority of the U.S. Federal Trade Commission. The Federal Trade Commission may be contacted at the following address:
 
@@ -376,14 +385,6 @@ Washington, DC 20580
 Email: [consumerline@ftc.gov](mailto:consumerline@ftc.gov)
 
 www.ftc.gov
-
-People in the European Union (EU Data Subjects) can invoke binding arbitration as stipulated in the EU-U.S. Privacy Shield Agreement, Annex I, for some residual claims not resolved by other redress mechanisms.
-
-**U.S-Swiss Safe Harbor Framework**
-
-Kaltura is registered and certifies its compliance with the U.S.-Swiss Safe Harbor Framework for any personally identifiable information it receives from Switzerland.
-
-The U.S.-Swiss Safe Harbor List may be visited at: [https://safeharbor.export.gov](https://safeharbor.export.gov/).
 
 **Contacting Kaltura about this Privacy Notice**
 
@@ -391,199 +392,4 @@ Any inquiries, concerns, or requests regarding the use or disclosure of your Per
 
 **Changes to this Privacy Notice**
 
-Kaltura may update this Privacy Notice at any time without prior notice. Any such changes will become effective prospectively from the date of publication. This Privacy Notice was last updated on November 7, 2016. We encourage you to check this page frequently for any changes to our Privacy Policy.
-
-The previous version of our Privacy Policy is found here: _Privacy Policy_ _._
-
-**THIS PRIVACY POLICY IS NO LONGER IN EFFECT. IT HAS BEEN REPLACED WITH THE PRIVACY NOTICES POSTED ABOVE THAT WERE PUT INTO EFFECT ON 8/1/2016 AND UPDATED 11/7/2016**
-
-This Privacy Policy explains how Kaltura, Inc. (“ **Kaltura** ”) collects, uses, processes, protects, and discloses information when you use the Kaltura Platform or Kaltura Websites. By using the Kaltura Platform or Websites or services, you consent to this Privacy Policy.
-
-**What This Privacy Policy Covers**
-
-This policy describes how Kaltura treats Personal Information that it collects, receives, processes, stores, distributes, and displays via the Kaltura Platform and on the Kaltura Websites.
-
-“ **Personal Information** ” is information about you that is personally identifiable by name or can be linked to you through a personal identifier like your address, e-mail address, phone number, or location, and which is not otherwise publicly available.
-
-In this policy, “ **you** ” means any person or organization that is authorized to use the Kaltura Platform or Website; “ **we** ” means Kaltura, including our subsidiaries and affiliates.
-
-“ **Partner** ” or “ **Kaltura Partner** ” means trusted third parties and business associates that provide us with some of the services that we provide to you. For example, our Partners include content distribution networks (CDNs), third-party platforms that are integrated with the Kaltura Platform via APIs or plug-ins, third-party services you can access through the Kaltura Platform, and marketing partners.
-
-“ **Customer** ” or “ **Kaltura Customer** ” means individuals or organizations that have permission to use the Kaltura Platform to provide services and distribute video content.
-
-The “ **Kaltura Platform** ” means any of the cloud-based hosted services, APIs, plug-ins, apps, custom websites, and storage provided by Kaltura to its Customers. 
-
-The “ **Kaltura Websites** ” are websites and apps belonging to Kaltura that link to this Privacy Policy.
-
-**When Does Kaltura Collect Personal Information?**
-
-In general, Kaltura collects Personal Information about you in the following situations:
-
-  * When you purchase services or software from Kaltura
-
-
-  * When you use the Kaltura Platform to store and provide content to members of your organization, your employees, affiliates, viewers, or any other third parties authorized by you to use the Kaltura Platform or access your media content (collectively, your “ **Users** ”)
-
-
-  * When you interact with the Kaltura Platform via a Kaltura Customer
-
-
-  * When you visit the Kaltura Websites
-
-
-  * When you register with Kaltura through one of the Kaltura Websites or otherwise contact Kaltura
-
-
-  * When you enter promotions and contests offered by Kaltura
-
-
-
-**Information Collected from your Activity on the Kaltura Platform**
-
-_What Personal Information we collect:_
-
-When you use the Kaltura Platform as a Kaltura Customer to process and provide information and content to your Users, or interact with the Kaltura Platform as a User, or the following Personal Information may be collected and processed:
-
-  1. _Information you upload_ – The Kaltura Platform can be used to store media content and metadata that you upload, which may potentially include Personal Information about you, your Users, and other third parties.
-  2. _Information provided by you_ – You may enter or create Personal Information when you use certain functions of the Kaltura Platform, like managing user lists and permissions and adding metadata to content.
-  3. _Traffic information, activity,_ _and login credentials_ – When you interact with the Kaltura Platform, the system collects the traffic information needed to deliver your actions and requests over the internet, such as IP addresses, and URLs. The Kaltura Platform uses cookies and may collect other system information such as MAC addresses to allow the system to recognize you, remember your preferences, and/or support the use of digital rights management systems. The Kaltura Platform also collects the user IDs and passwords used in order to access the Kaltura Platform.
-  4. _Contact and billing information_ – When you become a Kaltura Customer, we collect your contact and billing information.
-
-
-
-_How we use your Personal Information_
-
-Kaltura does not share your information, including Personal Information, with any third parties except our trusted Partners (as explained below).
-
-We use your information solely for the following purposes:
-
-  1. Providing you, as a Customer or User, with the services, functions, and actions you request from us and from our trusted Partners.
-  2. Providing support, service notices, and billing to our Customers.
-  3. Sending you offers and promotional information.
-  4. Creating aggregate statistics and analytics information for our Customers’ use.
-
-
-
-The production activity on the Kaltura Platform is logged within the system for the purpose of providing Kaltura Customers and Partners with statistical analysis of use, to enable system monitoring, security auditing, error tracking, and reporting of activity via the system, and to comply with data retention rules and internal policies that apply to Customer data. We use commercially reasonable methods to keep production logs secure and do not use them for any other purpose or share them with third parties (except in cases where disclosure is required by law).
-
-**Disclosures of Information under Customer Control**
-
-Please be aware that our Customers use the Kaltura Platform to store, process and distribute videos and other information belonging to them or their Users through  websites, apps, or other means. Depending on the configuration of the Kaltura Platform by the Customer and Users, videos and other information on the Kaltura Platform may be viewable to the general public or to limited audiences. We encourage Kaltura Customers to learn how to use the permission controls and content distribution features of the Kaltura Platform and exercise good care and judgment when sharing information through the Kaltura Platform. As the controller of Personal Information on the Kaltura Platform, our Customers are responsible for maintaining the privacy of Personal Information pertaining to their Users.   **Kaltura is not responsible for disclosures of information made by our Customers and Users through their or your use of the Kaltura Platform.**
-
-**Your Activity on the Kaltura Platform via Kaltura Customers**
-
-We provide the Kaltura Platform to our Customers, who use the Kaltura Platform to process and distribute content and other services to their Users.  **This Privacy Policy does not apply to the collection, use, and disclosure of Personal Information by our Customers using the Kaltura Platform.   If we process your Personal Information on behalf of a Customer, it is that Customer’s responsibility to protect your privacy. **
-
-If you are concerned about your privacy while using service provided by a Kaltura Customer, you should address requests and inquiries relating to your Personal Information directly to that Customer. We may forward requests or inquiries you send to the Customer on whose behalf we are collecting or processing your Personal Information.
-
-**Your Activity on Kaltura Websites**
-
-_What Personal Information we collect_
-
-Like most other websites, when you visit any of the Kaltura Websites Kaltura automatically receives and records information from a variety of sources, such as information from your browser, Kaltura and third-party Cookie information, web beacons, VAST tags, pixel tags, social media buttons, URL links, and other methods.
-
-When you register with Kaltura we ask for information such as your name, email address, birth date, gender, ZIP code, website, and personal interests. When you register with Kaltura and sign in to the Kaltura Website, you are not anonymous to us.
-
-_How we use your Personal Information_
-
-We use your information solely for the following general purposes:
-
-  1. Performing your actions and providing you with the services you request via the Kaltura Platform.
-  2. Contacting you and sending you promotional e-mails.
-  3. Remembering information you entered on our Websites.
-  4. Improving our Websites, services and products.
-  5. Customizing the advertising and content you see.
-  6. Conducting research and providing anonymous statistical reporting for internal and external clients.
-
-
-
-Although most information collected automatically is not personally identifiable, we or our Partners may aggregate or combine this information with other information making it identifiable as Personal Information.
-
-Please visit the [Terms of Use](http://corp.kaltura.com/tandc) for further conditions governing your use of the Kaltura Websites.
-
-_Children_
-
-We do not permit children under the age of 13 to register with Kaltura.
-
-If we become aware that we have inadvertently received Personal Information from a child under the age of 13, or information pertaining to such a child, we will delete such information from our records.
-
-_Sharing information with trusted business Partners and marketing_
-
-We may share Personal Information with our Partners who work on our behalf under confidentiality agreements. These Partners may use your Personal Information to help Kaltura communicate with you about offers from Kaltura and our marketing Partners. However, these Partners do not have any independent right to share your information with other parties or use it for other purposes.
-
-Kaltura may display targeted advertisements based on Personal Information. Ad serving companies may make inferences based on this information in order to provide targeted ads to people who meet the targeting criteria—for example, advertisers may presents certain ads only to women aged 18-24 from a particular geographic area.
-
-Kaltura does not provide any Personal Information directly to the advertiser of a targeted ad when you visit our Websites. However, ad networks that provide targeted advertisements may collect and aggregate information about you and use that information to serve targeted ads to you.  
-
-Kaltura and its affiliates are located in different regions around the world, and Kaltura works with Partners across different industries, categories of business, and in many different regions. By accessing the Kaltura Websites, you consent to the transfer of your information outside of your local jurisdiction. For more information regarding Kaltura and our Partners and providers of products or services that you have requested please contact us at [info@kaltura.com](mailto:info@kaltura.com).
-
-_Cookies and other activity tracking technologies_
-
-When you visit Kaltura Websites, we may set and access Kaltura cookies on your computer and access web beacons, VAST tags, and other technologies that tell us how you interact with our Websites, e-mails, and media players.
-
-Kaltura allows other companies that show advertisements on the Websites to set and access their cookies on your computer. Other companies' cookies may be subject to their own privacy policies.
-
-Most Internet browsers have options for controlling, disabling, and deleting cookies on your computer. In addition, many ad networks have joined the Digital Advertising Alliance’s self-regulatory program to provide a single opt-out tool at: [http://www.aboutads.info](http://www.aboutads.info/) and at the European Interactive Digital Advertising Alliance (EDAA) website: [http://youronlinechoices.eu](http://youronlinechoices.eu/). However, Kaltura does not guarantee that using these tools will prevent online behavioral tracking using cookies through our website.
-
-At present, Kaltura and our third-party Partners do not honor Do Not Track signals set by some browsers. If you wish to avoid behavioral tracking by ad networks, please choose from the available methods for doing so or refrain from using the Kaltura Websites.
-
-**Editing and Deleting Your Account Information and Preferences**
-
-If you have an account with Kaltura, you can review, correct, edit, or delete the Kaltura account information that you provided to us at any time by logging in to your account online. You may also send us an e-mail request at [support@kaltura.com](mailto:support@kaltura.com). Please note that we may need to verify your identity before acting on your request. You may elect to “opt out” of receiving direct marketing or being included in market research information. This means we assume you consent to us collecting and using your information in accordance with this Privacy Policy unless you take affirmative action to opt out of collection. You may opt out at any time by sending an e-mail request to [support@kaltura.com](mailto:support@kaltura.com) (please indicate “Opt Out” in the subject line). 
-
-Please note that new categories of communication and notification might be added to the Preferences page from time to time. You can opt out of receiving future communications from these new categories or you can unsubscribe and block future messages by following instructions through the unsubscribe option in those messages.  If you are a Kaltura Customer you will continue to receive certain communications pertaining to your Kaltura Customer account such as service announcements and administrative messages even if you opt out of marketing communications from Kaltura.
-
-You can suspend your Kaltura account on the Kaltura Websites at any time by following the instructions on the relevant section of the Kaltura Websites.
-
-While we will try to comply with any request pertaining to your Personal Information in accordance with applicable law, but please be aware that we may not be able to fulfill requests pertaining to information already shared with third parties. Some information may be retained on our systems for recordkeeping purposes, and some residual digital information cannot be removed or changed.
-
-**Disclosure of Personal Information**
-
-We do not sell, disclose, or share Personal Information about you with third parties except under the following circumstances:
-
-  * To provide products and services, or to perform actions you request.
-  * When we have your permission.
-  * When required by law to respond to subpoenas, court orders, or legal process.
-  * When we need to establish or exercise our legal rights, or to defend against legal claims, or when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Kaltura's [Terms of Use](http://corp.kaltura.com/tandc), or as otherwise required by law.
-  * We may transfer information about you if Kaltura is acquired by or merged with another company. In such an event, Kaltura will make a public announcement before information about you becomes subject to a different privacy policy.
-  * With our trusted business Partners and marketers, as described above.
-
-
-
-**Retention of Information**
-
-We may retain your information (including Personal Information) for any lawfully permitted period of time, and as required by applicable laws and statutes.
-
-**Confidentiality and Security**
-
-We take great precautions to protect Personal Information about you. However, no data transmission over the Internet or any other network can be guaranteed to be 100% secure. While we strive to protect information transmitted on or through our Website or the Kaltura Platform, we cannot and do not guarantee the security of any information you transmit.
-
-To learn more about security, including the security measures we have taken and steps you can take to enhance the security of your information when using the Kaltura Platform and websites, please contact us at [security@kaltura.com](mailto:security@kaltura.com).
-
-**European Union and Swiss Residents**
-
-For European Union and Swiss Residents, by choosing to provide us with your Personal Information, you consent to the storage and processing of that information on our servers located in the United States.
-
-Kaltura certifies compliance with the US-EU Safe Harbor and US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program (<http://www.export.gov/safeharbor>).
-
-If you use the Kaltura Platform to process Personal Information pertaining to data subjects in the European Economic Area (EEA) or are located there yourself, you are designated as the data controller, and we are designated as a data processor, unless we have agreed with you otherwise in writing.
-
-Any questions or concerns regarding the use or disclosure of your information should be directed to Kaltura by e-mailing us at [legal@kaltura.com](mailto:legal@kaltura.com). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For European Union and Swiss Residents, unresolved complaints shall be submitted to binding arbitration in front of the American Arbitration Association (“AAA”). Information about AAA services can be found at its website: www.adr.org. The exclusive location for such arbitration shall be New York, NY, United States.
-
-Kaltura is subject to the regulatory authority of the U.S. Federal Trade Commission. The Federal Trade Commission may be contacted at the following address:
-
-Federal Trade Commission
-
-Attn: Consumer Response Center
-
-600 Pennsylvania Avenue NW
-
-Washington, DC 20580
-
-Email: [consumerline@ftc.gov](mailto:consumerline@ftc.gov)
-
-www.ftc.gov
-
-**Changes to this Privacy Policy**
-
-Kaltura may update this Privacy Policy at any time without prior notice, provided that any such changes will become effective prospectively from the date of publication. This Privacy Policy was last updated on February 1, 2015. We encourage you to check this page frequently for any changes to our Privacy Policy. Your continued use of the Kaltura Websites after the effective date of the change constitutes your acceptance of such change.
+Kaltura may update this Privacy Notice at any time without prior notice. Any such changes will become effective prospectively from the date of publication. This Privacy Notice was last updated on November 21, 2017. We encourage you to check this page frequently for any changes to our Privacy Policy.
