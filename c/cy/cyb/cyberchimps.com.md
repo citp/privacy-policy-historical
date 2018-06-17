@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cyberchimps.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225234037id_/https%3A//cyberchimps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberchimps.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617201556id_/https%3A//cyberchimps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_This policy was last modified on March 5, 2012._
+_This policy was last modified on May 4, 2018._
 
 **What information do we collect?**
 
@@ -42,6 +42,12 @@ We implement a variety of security measures to maintain the safety of your perso
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**We use Hotjar**
+
+We use Hotjar in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device’s IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on this link.
+
+You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this [opt-out link](https://www.hotjar.com/opt-out). 
 
 **Do we use cookies?**
 
