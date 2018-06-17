@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the leadid.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208210250id_/https%3A//www.jornaya.com/client-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadid.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617172910id_/https%3A//www.jornaya.com/client-privacy-policy) for the most accurate reproduction.*
 
 # Client Privacy Policy | Jornaya
 
-[Download a copy here](https://www.jornaya.com/hubfs/legal/Privacy%20Policy%20-%20Clients%20FINAL%20download%20copy%20-%20UPDATED%2011.15.16.pdf?t=1512743167652)
+[Download a copy here](https://www.jornaya.com/hubfs/legal/Privacy%20Policy%20-%20Clients%20FINAL%20download%20copy%20-%20UPDATED%2011.15.16.pdf?t=1529065889257)
 
 This Privacy Policy for Clients (“Client Privacy Policy”) is provided by Lead Intelligence, Inc. d/b/a Jornaya (“Jornaya,” “we,” “us,” or “our”) to let you, as our Clients (i.e., Publishers, Queriers, and Partners, as further defined below), know what information is collected through our Platform, how it’s collected, and how we protect it, use it, and share it with others.  Unless otherwise defined in this Client Privacy Policy, terms used in this Client Privacy Policy have the same meanings as in our [Terms of Use](https://www.jornaya.com/terms-of-use). 
 
