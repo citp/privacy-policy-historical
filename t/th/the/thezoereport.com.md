@@ -1,73 +1,143 @@
-> *The following text is extracted and transformed from the thezoereport.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221103939id_/http%3A//thezoereport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezoereport.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617133037id_/http%3A//thezoereport.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Zoe Report
 
-### Introduction
+This Privacy Policy describes the policies and procedures of BDG Media Inc. (“we”, “our” or “us”) on the collection, use and disclosure of your information on [www.thezoereport.com](https://thezoereport.com/) (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
-Zoe Media Group strongly respects each individual’s right to personal privacy and we will only collect and use information through [TheZoeReport.com](https://web.archive.org/web/20171221103939id_/http%3A//thezoereport.com/thezoereport.com) (the “Web Site” or “TheZoeReport.com”) or our on-line newsletters (“The Zoe Report and The Zoe Report Beauty”) for the purposes set forth in this policy. 
+### What Does This Privacy Policy Cover?
 
-Note: This statement applies solely to information collected at or through the Web Site. However, we will frequently link to other glamorous online destinations, so we advise you carefully review their respective privacy policies. Please be aware that Zoe Media Group is not responsible for the contents and the privacy practices of such other sites.
+This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners.
 
-### Information Collection and Usage
+This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
 
-In compliance with our mission statement to glamorize your internet and e-mail experience, Zoe Media Group collects personal information through the Web Site at several points. For instance, to subscribe to The Zoe Report and The Zoe Report Beauty, we require your e-mail address and zip code (this trade-off is truly bananas). Rest-assured, Zoe Media Group does not collect any personal information that you do not expressly provide and will not sell, rent, or share your personal information to any third party for marketing purposes without your consent (that would be tacky).
+### What Information Do We Collect?
 
-When you visit our site, we also collect anonymous information such as your IP address or domain name to analyze site traffic, but this information is not personally identifiable. We will use this information to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users.
 
-If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a web site that does not seem to be affiliated with the Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at [ [email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#e58c8b838aa59784868d80899f8a80cb868a88)
+### Account Information:
 
-###  Third Party Account Information 
+When you create an Account, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. If you access the Services through Facebook credentials, we may automatically collect certain information that could be Personal Information, such as your name, picture, and email address. We will use all information available through Facebook in accordance with Facebook’s policies and your preferences selected through Facebook. We may use your contact information to send you information about our Services, but only rarely when we feel such information is important. You may unsubscribe from these messages through your Account settings, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.
 
-If you provide or connect your third-party account credentials to an account with our Website, some content and/or information in those accounts may be transmitted into your account with us. For example, when you connect with Facebook, we receive and collect your name, email address and profile photo. 
+### User Content:
 
-###  Enforcement of Terms and Policies 
+Some features of the Services allow you to provide content to the Services, such as written comments. All content submitted by you to the Services may be retained by us indefinitely, even after you terminate your account. We may continue to disclose such content to third parties in a manner that does not reveal Personal Information, as described in this Privacy Policy.
 
-We may share your information to enforce or apply our Privacy Policy, Terms of Service or our other policies or agreements.
+### IP Address Information and Other Information Collected Automatically:
 
-### Review and Access
+We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on).
 
-Upon your request, we will provide you with a summary of the information we collect about you. You will have an opportunity to correct, update, or modify this information.
+Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
 
-### How to Unsubscribe
+### Email Communications: 
 
-You can unsubscribe from receiving Zoe Media Group emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any Zoe Media Group email and following the instructions. You can also unsubscribe by clicking on the “Unsubscribe” link on the bottom of the Zoe Media Group homepage and following the instructions. 
+We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
 
-### Third Party Advertising
+### Information Collected Using Cookies:
 
-Some of the window dressing appearing on our site may be delivered to you by our Web advertising partner or partners. Information about your visit to a partner site or sites, such as number of times you have viewed an ad (but not your name, e-mail, or other personal information), is used to serve ads to you. 
+Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the Internet.
 
-### Cookies
+Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services and may associate that information with your Account if you have one.
 
-Not to be confused with the chocolate chip variety (which we LOVE), an internet “cookie” is a small file which is placed on the user’s hard drive when you visit our site. It helps us learn which areas of our site are useful and which areas need some polishing. We also use cookies and the information we collect to show you relevant content and advertising. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our site may be diminished and some features may not work as they were intended.
+Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the Services.
 
-### Third Party Cookies
+This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+### Information Related to Advertising and the Use of Web Beacons:
 
-### Payment Card Information
+To support and enhance the Services, we may serve advertisements, and also allow third parties to serve advertisements, through the Services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called “ad networks.” Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms.
 
-To use certain aspects of our e-commerce Services, such as subscribing to our membership services, we may require credit or debit card account information. By submitting your credit or debit card account information through the Services, you expressly consent to the sharing of your information with third party merchants, subscription and billing processors, and payment processors. These third parties may store your credit or debit card account information so you can use our Services in the future. We do not have your complete credit or debit card account information, store your credit or debit card account information, or have direct control over or responsibility for your credit or debit card account information. While we require that such third party merchants, subscription and billing processors, and payment processors use reasonable procedures to help protect your credit or debit card information, we cannot guarantee that transmissions of your credit or debit card account information or personal information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by us or our third-party service providers. We assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control.
+Advertisements served through the Services may be targeted to users who fit a certain general profile category may be based on anonymized information inferred from information provided to us by a user, including Personal Information (e.g., gender or age), may be based on the Services usage patterns of particular users, or may be based on your activity on Third Party Services. We do not provide Personal Information to any ad networks for use outside of the Services.
 
-### Security
+To increase the effectiveness of ad delivery, we may deliver a file (known as a “web beacon”) from an ad network to you through the Services. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.
 
-All of the information collected by Zoe Media Group is locked away safely with our Birkin collection, and also on our restricted database server.
+### Aggregate Information:
 
-### Modifications
+We collect statistical information about how both unregistered and registered users, collectively, use the Services (“Aggregate Information”). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you, your Account or your web browser.
 
-### California Marketing
+### How, and With Whom, Is My Information Shared?
 
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to:[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#543d3a323b142635373c31382e3b317a373b39). 
+The Services are designed to help you share information with others. As a result, some of the information generated through the Services is shared publicly or with third parties.
 
-### Do Not Track
+### Public Information about Your Activity on the Services:
 
-We currently do not participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your information. We may engage third parties, such as marketing or analytics partners, who may collect information about your online activities over time and across different websites when you use our website.
+Some of your activity on and through the Services is public by default. This may include, but is not limited to, content you have posted publicly on the Site or otherwise through the Services, such as written posts, comments, or other submissions by you to the Site.
 
-### Services Not Directed at Children
+Registered users may have some of this information associated with their Accounts. Unregistered users will not have this association, but information concerning their use of the Services (such as what pages they have visited) may be tracked anonymously through the use of cookies and stored by us.
 
-The Website services are not directed to children under 13. We do not knowingly collect or solicit personally identifiable information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Website services or send any information about yourself to us. If a parent or guardian becomes aware of his or her child has provided us with personal information without their consent, please contact us at:[ [email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#fd94939b92bd8f9c9e959891879298d39e9290). 
+Please also remember that if you choose to provide Personal Information using certain public features of the Services, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Services.
 
-Zoe Media Group may make changes to this policy in the future. We will reflect those changes in this statement, so please check back periodically.
+### IP Address Information:
 
-### Contact Us
+While we collect and store IP address information, that information is not made public. We do at times, however, share this information with our partners, service providers and other persons with whom we conduct business, and as otherwise specified in this Privacy Policy.
 
-If you have questions about this policy, or about the site, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c5acaba3aa85b7a4a6ada0a9bfaaa0eba6aaa8).
+### Information You Elect to Share:
+
+You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services’ privacy policies. This Privacy Policy only governs information collected on the Services.
+
+### Aggregate Information:
+
+We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non Personal Information about you that they have independently developed or acquired.
+
+### Email Communications with Us:
+
+As part of the Services, you may occasionally receive email and other communications from us, such as communications relating to your Account. Communications relating to your Account will be sent for purposes important to the Services, such as password recovery. We may use your email address to contact you for editorial purposes, to advise you of any changes to our Site, and to send you messages about our marketing partners’ products.
+
+### User Profile Information:
+
+User profile information including your username and other information you enter may be displayed to other users to facilitate user interaction within the Services. We will not directly reveal user email addresses to other users.
+
+### Information Shared with Our Agents:
+
+We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share Personal Information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
+
+### Information Disclosed Pursuant to Business Transfers:
+
+In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy.
+
+### Information Disclosed for Our Protection and the Protection of Others:
+
+We also reserve the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
+
+### Information We Share With Your Consent:
+
+Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+
+### Is Information About Me Secure?
+
+Your Account information will be protected by a password for your privacy and security. You need to prevent unauthorized access to your Account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account.
+
+We seek to protect Account information to ensure that it is kept private; however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+
+We otherwise store all of our information, including your IP address information, using industry-standard techniques. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personal Information or otherwise.
+
+### What Information of Mine Can I Access?
+
+If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
+
+California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 315 Park Ave S, 11th Floor New York, NY 10010, USA.
+
+### How Can I Delete My Account?
+
+Should you ever decide to delete your Account, you may do so by emailing . If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
+
+### What Choices Do I Have Regarding My Information?
+
+You can use many of the features of the Services without registering, thereby limiting the type of information that we collect.
+
+You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features.
+
+You can delete your Account. Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible.
+
+### What Happens When There Are Changes to this Privacy Policy?
+
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
+
+### What If I Have Questions or Concerns?
+
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#533a3d353c13312620273f367d303c3e). We will make every effort to resolve your concerns.
+
+### How to Opt-Out of third party data targeting
+
+If you prefer not to receive interest-based content and ads enabled by Quantcast, you can opt-out by clicking on the “Opt Out” link at either Network Advertising Initiative (NAI) (<http://optout.networkadvertising.org/#/>) or Digital Advertising Alliance’s (DAA) (<http://optout.aboutads.info/#/>) . Quantcast is a member of the Network Advertising Initiative (NAI) and participate in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program. Each of these programs provides an opt-out feature where consumers can choose not to receive targeted advertising from any NAI or DAA affiliate. These links will take you to the NAI opt out (<http://www.networkadvertising.org/managing/opt_out.asp>) and the DAA opt out (<http://www.aboutads.info/choices/>) . If you are located in the European Union, you may prefer to use the EDAA opt out (<http://www.youronlinechoices.eu/>) . After you opt-out, Quantcast will place a cookie on your browser that identifies you as having opted out. Then you will not receive interest-based content or advertisements enabled by Quantcast and Quantcast will not log your pattern of website visits or other online media consumption. Because the opt-out is cookie-based, your browser must be set to accept third party cookies. If you use multiple devices or browsers, you’ll have to opt out on each. If you delete the cookie, you will need to opt-out again.
+
+Last modified: May 2, 2018
