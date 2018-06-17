@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126165805id_/http%3A//www.newsminer.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617054150id_/http%3A//www.newsminer.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | newsminer.com
 
@@ -75,3 +75,7 @@ Your personal information is stored on servers located in the United States of A
  **9\. Notice of Policy Amendment.**
 
 We reserve the right to amend this Privacy Policy at any time by posting the amended terms on this website(s). All amended terms shall automatically be effective after they are initially posted.
+
+ **10\. GDPR update: Prohibited Uses**
+
+This Site is not intended for use by persons located within the European Economic Area (EEA). We do not request or accept personal information concerning or supplied by persons who are located within the EEA at the time they access this Site. If you have accessed this Site from within the EEA, you should immediately discontinue your use. If you have supplied personal information to us in violation of this provision, whether through the registration of new user accounts or otherwise, please contact us at digital@newsminer.com.
