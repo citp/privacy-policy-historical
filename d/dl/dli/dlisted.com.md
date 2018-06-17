@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlisted.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225232726id_/http%3A//dlisted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlisted.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617195221id_/http%3A//dlisted.com/privacy) for the most accurate reproduction.*
 
 # Dlisted | Privacy
 
