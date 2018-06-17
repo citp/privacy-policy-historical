@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalshiksha.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216161456id_/http%3A//www.globalshiksha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalshiksha.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617134306id_/http%3A//www.globalshiksha.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Globalshiksha.com
 
@@ -21,9 +21,9 @@ GlobalShiksha.com and its affiliates will share some or all of your personal inf
 Our site links to other websites that may collect personally identifiable information about you. GlobalShiksha.com is not responsible for the privacy practices or the content of those linked websites. 
 
 **5\. Opt-Out**  
-GlobalShiksha.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. If you want to remove your contact information from all GlobalShiksha.com lists and newsletters, please write to us at [info@globalshiksha.com](mailto:info@globalshiksha.com)
+GlobalShiksha.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account. If you want to remove your contact information from all GlobalShiksha.com lists and newsletters, please write to us at [[email protected]lshiksha.com](https://web.archive.org/cdn-cgi/l/email-protection#d8b1b6beb798bfb4b7bab9b4abb0b1b3abb0b9f6bbb7b5)
 
 **6\. Advertisements on GlobalShiksha.com**  
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (but not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
-**For any Questions** write to [info@globalshiksha.com](mailto:info@globalshiksha.com)
+**For any Questions** write to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f29b9c949db2959e9d90939e819a9b99819a93dc919d9f)
