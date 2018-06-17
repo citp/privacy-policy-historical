@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collider.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001044id_/http%3A//collider.com/collider-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collider.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617025656id_/http%3A//collider.com/collider-privacy-policy) for the most accurate reproduction.*
 
 # Collider Privacy Policy |
 
-This Privacy Policy describes how Complex Media, Inc., together with its parents, partners and affiliates (collectively, “ **Complex** ,” “ **we** ”, “ **us** ” and “ **our** ”) collects, uses, and discloses your information when you visit websites (including mobile-optimized versions) and applications which have an authorized link to this Privacy Policy (each a “ **Site** ” and collectively, “ **Sites** ”).
+This Privacy Policy describes how Collider.com discloses your information when you visit websites (including mobile-optimized versions) and applications which have an authorized link to this Privacy Policy (each a “ **Site** ” and collectively, “ **Sites** ”).
 
 We receive information about you from various sources, including via your use of the Sites and via your use of various third party websites and social media. When you visit the Sites, you are agreeing to the terms of this Privacy Policy, and are expressly consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
@@ -33,7 +33,6 @@ If you post material to any forums or participate in social networking features 
 _Information We Collect About You:_
 
   * _Site Usage Information.   _We automatically collect certain types of information about activities on our Sites, such as the numbers and frequency of visitors to our Sites.  This information is aggregated and anonymized or de-identified, and does not identify individual users such as yourself.  We use Google Analytics to collect this type of information, so Google may also have access to this information.  You may read Google’s Privacy Policy (including any opt-out mechanisms that Google offers) [here](https://www.google.com/policies/privacy/) and [here](https://support.google.com/analytics/answer/6004245?hl=en).
-  * _Financial Information._  If you conduct a transaction through the [Complex Shop](https://shop.complex.com/#/), you must provide certain types of Personally Identifiable Information in order to complete the transaction, including financial information related to your payment method (for example, valid credit card number, type, expiration date or other financial information). We do not collect the financial information you provide.  This information is collected and stored by our third party payment processing company, Shopify (the “Payment Processor”), and use and storage of that information is governed by the Payment Processor’s [terms of service](https://www.shopify.com/legal/terms) and [privacy policy](https://www.shopify.com/legal/privacy).
   * _Third Party Services.   _As mentioned above, we may allow you to link your accounts with Third Party Services such as Facebook, Google+ and Twitter to our Sites (“ **Social Network Accounts** ”).  If you link your Social Network Accounts to our Sites, we may receive information from the Third Party Service about you.  Any information we receive from the Third Party Service will be governed by the terms and conditions of the Third Party Service and by the privacy controls you have set on your Social Network Account with that Third Party Service.  The Third Party Service may also have access to information you provide to us or activities that you carry out on our Sites while logged into your Social Network Account with that Third Party Service, and this access will be governed by the terms and conditions of the Third Party Service and by the privacy controls you have set on your Social Network Account with that Third Party Service.  We encourage you to review the policies of your Third Party Service before linking your Social Network Account.
   * _Email Communications._ If you send us an email that we reply to, or have subscribed to our newsletter or a similar service that allows us to send you emails, we may receive email activity data from your email provider. We use this data to understand and enhance our email communications and the Sites. If you do not want to receive email from us, you can unsubscribe by clicking the “unsubscribe” link in any email we send to you. Please note that you cannot unsubscribe from certain communications from us, such as administrative information regarding the Sites.
   * _Third Party Companies._   We may obtain demographic and interest data from third party companies who specialize in collecting such consumer information.  We use this data and combine it with other information we have about you to help us predict your preferences, to better direct the marketing efforts of us and our business partners, to improve our product development, and to help us better analyze user information for internal business purposes.
@@ -69,7 +68,6 @@ We use information we collect from you to provide you with access to the Sites a
   * Delivering advertising content shown on the Sites and managing the type of advertising content you see and the frequency with which you see it
   * Administering to advertising, marketing, and promotional campaigns (run by us or by our business partners) for which you sign up or otherwise consent to participate in, such as sweepstakes, surveys, and special offers or announcements offered by us or by our business partners
   * Responding to user feedback and other user inquiries, such as employment applications or informational inquiries
-  * Processing a transaction that you initiate with us or with our business partners through the Sites (for example, a purchase from the [Complex Shop](https://shop.complex.com/#/))
   * Internal uses such as market and content offering analysis
   * Assessing and tracking effectiveness of our advertising campaigns and the campaigns of our business partners
 
@@ -80,8 +78,6 @@ We use information we collect from you to provide you with access to the Sites a
 We neither rent nor sell your Personally Identifiable Information to anyone. We may share your Personally Identifiable Information only as described in this Privacy Policy, in the privacy policy for specific parts of our Sites (if those parts have a separate privacy policy), or in accordance with your consent, if we have separately obtained your consent.  By using the Sites, you expressly authorize and consent to our sharing of your Personally Identifiable Information as described in this Privacy Policy.
 
 We share your Personally Identifiable Information with:
-
-_Our Corporate Parents and Affiliates_.  We may share your Personally Identifiable Information with our Affiliates and with our parent companies (Verizon and Hearst) and any of their affiliates.
 
 _Third Party Services_. As discussed above, you may connect your Social Networking Account with certain Third Party Services to our Sites. If you do so, information collected while you are logged into your Social Networking Account is no longer under our control and is subject to the terms of use and privacy policies of such third parties.
 
@@ -137,7 +133,7 @@ Please note that some of the opt-outs described above use browser cookies or dev
 
 California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personally identifiable information to third parties for the third parties’ direct marketing purposes.  Alternatively, such businesses may have in place a policy not to disclose personally identifiable information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information sharing.  This Privacy Policy explain our practices and how you can opt-out of having your information shared with third parties for the third parties’ direct or indirect marketing purposes.
 
-In addition to reviewing this Privacy Policy, if you wish to find out about any rights you may have under California Civil Code section 1798.83, you may contact us at [legal@complex.com](http://legal@complex.com/).  Canadian residents also have certain rights to know how their information may be shared with third parties who engage in direct marketing activities.   For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users.
+In addition to reviewing this Privacy Policy, if you wish to find out about any rights you may have under California Civil Code section 1798.83, you may contact us at email@collider.com.  Canadian residents also have certain rights to know how their information may be shared with third parties who engage in direct marketing activities.   For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users.
 
 **Non-U.S. Users**
 
@@ -149,6 +145,7 @@ We may amend this Privacy Policy from time to time. Use of Personally Identifiab
 
 **Questions or Concerns**
 
-If you have any questions or concerns regarding privacy while using the Sites, you may contact us at [legal@complex.com](mailto:legal@complex.com).  We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy while using the Sites, you may contact us at email@collider.com  We will make every effort to resolve your concerns.
 
-_Effective Date: May 16, 2017_
+_Effective Date: February 20th, 2018  
+_
