@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the indiafreestuff.in privacy policy that was archived on 2017-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228013007id_/http%3A//indiafreestuff.in/pages/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indiafreestuff.in privacy policy that was archived on 2018-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180618183452id_/https%3A//www.indiafreestuff.in/pages/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -197,7 +197,7 @@
 <i class="icon-footer-icon-02"></i>
 </div>
 <div class="counter-word">
-<h2> 265+</h2>
+<h2> 270+</h2>
 <p> Online Stores</p>
 </div>
 </div>
@@ -208,7 +208,7 @@
 <i class="icon-footer-icon-03"></i>
 </div>
 <div class="counter-word">
-<h2> 52675+</h2>
+<h2> 67730+</h2>
 <p>Deals listed </p>
 </div>
 </div>
@@ -219,7 +219,7 @@
 <i class="icon-footer-icon-04"></i>
 </div>
 <div class="counter-word">
-<h2> 106015+</h2>
+<h2> 106850+</h2>
 <p>Happy Members</p>
 </div>
 </div>
@@ -281,7 +281,7 @@
 <li> <a href="#">rss-feed</a></li>
 <li> <a href="https://www.indiafreestuff.in/newsarticleslisting">News &amp; Articles</a></li>
 </ul>
-<p class="copy-bar">Copyright 2017 Powered by indiafreestuff. All Rights Reserved.</p>
+<p class="copy-bar">Copyright 2018 Powered by indiafreestuff. All Rights Reserved.</p>
 </div>
 <div class="follow-us-wrap">
 <ul class="follow-icon">
@@ -294,6 +294,9 @@
 </li>
 <li>
 <a href="https://plus.google.com/indiafreestuff" class="twitter" target="_blank"><i class="icon-googleplus"></i></a>
+</li>
+<li>
+<a href="https://feeds.feedburner.com/indiafreestuff" class="Rss" target="_blank"><i class="icon-rss"></i></a>
 </li>
 </ul>
 </div>
@@ -329,12 +332,19 @@
 </div>
 
 <a href="javascript:void(0);" class="bottom-to-top ripplelink"><i class="fa fa-angle-up"></i></a>
-<input value="1514424626" id="superdeals_publishtime" type="hidden">
-<input value="1514424626" id="trending_publishtime" type="hidden">
+<input value="1529346979" id="superdeals_publishtime" type="hidden">
+<input value="1529346979" id="trending_publishtime" type="hidden">
+<input value="0" id="countrefresh" type="hidden">
 <script data-cfasync="false">
 	
 	
 	function countrefresh(){
+		countre = $('#countrefresh').val();
+		$('#countrefresh').val(++countre);
+		count = $('#superdealcount').val();
+		count = parseInt(count);
+		max= 50;
+		if(count+1  > max){ return false;}
 		if($('#superdeals_publishtime').val() != 'undefined' && $('#trending_publishtime').val() != 'undefined')
 		$.ajax({
 			dataType:"html",
@@ -345,16 +355,32 @@
 				obj = jQuery.parseJSON(data);
 				superdeal = obj.superdeal;
 				trending = obj.trending;
+				if(countre == '1'){
+					pagetitle = document.title;
+				}
+				total = superdeal+trending;
+				if(total>0){
+					if(total > max){ total = max+'+';}
+					if(pagetitle != '') document.title = '('+total+') '+ pagetitle;
+				}
 				if(superdeal && superdeal > 0){
 					$('#superdealcount').css('display','inline-block');
+					if(superdeal >= max){ superdeal = max+'+';}
 					$('#superdealcount').text(superdeal);
+				}else{
+					$('#superdealcount').css('display','none');
+					$('#superdealcount').text('');
 				}
 				if(trending && trending > 0){
 					$('#trendingcount').css('display','inline-block');
 					
 				//	if(trending != superdeal){ trending = (trending - superdeal); }
+					if(trending >= max){ trending = max+'+';}
 					$('#trendingcount').text(trending);
 
+				}else{
+					$('#trendingcount').css('display','none');
+					$('#trendingcount').text('');
 				}
 			},
 			url:"https://www.indiafreestuff.in/newsuperdeals"
@@ -379,7 +405,7 @@
 		setTimeout(function(){ 
 			trendingurl = "https://www.indiafreestuff.in/deals/trending";
 			getdealsdata(trendingurl, 'trending');
-			setInterval(function(){ countrefresh(); }, 30000);
+			setInterval(function(){ countrefresh(); }, 120000);
 		 }, 3000);
 		
 		
@@ -548,6 +574,11 @@ $(document).ready(function(){
         document.cookie = "Afterlogin.triggerclass=;" + expires + ";path=/";
    });
 });
+</script>
+<script data-cfasync="false">
+$(window).load(function(){
+   window.scrollTo(0,5);
+   });
 </script>
 <script src="/js/jquery.rateyo.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
