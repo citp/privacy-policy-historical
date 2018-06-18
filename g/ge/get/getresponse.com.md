@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getresponse.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227191121id_/https%3A//www.getresponse.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getresponse.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618153252id_/https%3A//www.getresponse.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - email marketing - GetResponse
 
@@ -26,12 +26,12 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 This Website is not intended for children, especially kids under 13. Children may use this Website only with the direct supervision of their parent.
 
- **Customer Data Processing**
+**Customer Data Processing**
 
 GetResponse collects personal information from Customers who visit the Website and register with our Service. GetResponse is the data controller with respect to the Customer’s personal data. When the Customer registers with our Service, we require: (i) username, (ii) password, (iii) email address, (iv) first and last name, (v) zip code, (vi) country and (vii) billing information such as billing address and credit card number (ix) tax id number. We may also ask Customers to provide additional personal information such as (i) company name, (ii) title, (iii) education institution and (iv) other company and (v) personal details that the Customer may opt out of by not entering data when asked. We use the Customers' registration information to authenticate users and provide access to the Service. We also use the email addresses used in the registration information to communicate with our Customers. From time to time, GetResponse may contact you via email to notify you of changes to its Service, scheduled maintenance, information about GetResponse and promotional material from GetResponse. The Customer is obliged to update the data provided in the registration form as soon as any change in these data has occurred. We will retain your information for as long as needed to provide you the Service. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.   
 Provision of personal data in connection with your use of the Service is voluntary. Note, however, that the refusal to provide certain data may make it impossible for you to use all or part of the Service functionalities.
 
- **Outsourcing of Subscribers Personal Data Processing**
+**Outsourcing of Subscribers Personal Data Processing**
 
 GetResponse recognizes the importance of respecting the privacy of Subscribers who decided to entrust their sensitive information with you. We make every effort to safeguard their security. GetResponse will never use the information about the Subscribers you collect within our Service to send any information other than expressly provided by you, nor will we share it with or sell it to anyone else for such use. 
 
@@ -53,7 +53,7 @@ GetResponse also ensures the implementation of legal notices in accordance with 
 
 After removal of the Customer’s Account from the Service, GetResponse shall store information related to the Customer and the Subscriber, as well as any statistical data concerning the Account for a period of no less than 60 days (in the case of a free of charge Test Account) or 90 days (in the case of a payable Account). The processing of personal data by GetResponse after the removal may only involve holding of the same, unless performance of other operations on the data has been imposed on GetResponse by applicable regulations or competent authorities. 
 
-GetResponse will store personal data in accordance with the clause above solely for the purposes of (i) possible reactivation of the Account pursuant to Clause 9 of the Terms of Service and (ii) performance of its duties as specified in the applicable regulations or as imposed by the competent authorities. 
+GetResponse will store personal data in accordance with the clause above solely for the purposes of (i) possible reactivation of the Account pursuant to Clause 9 of the Terms of Service and (ii) performance of its duties as specified in the applicable regulations or as imposed by the competent authorities.
 
 After the periods mentioned above (60 or 90 days respectively), the data will be permanently erased from the Service and their recovery will not be feasible. Subscribers database may be returned to the Customer at its request made within 7 days of erasure of the data from the Service. 
 
@@ -71,11 +71,11 @@ These third parties are prohibited from using your personal information for prom
 
 If GetResponse is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on the Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
- **Passwords**
+**Passwords**
 
 Customer’s GetResponse account information, username, password and profile are password-protected so that you have secure access to entering and editing personal data. It is the Customers’ responsibility to protect the security of their passwords. Access to the Service is protected by a unique username and password that is known to you only. GetResponse has designed internal security processes that encrypt Customer's password to protect it from being divulged or accessed by anyone other than you. Neither GetResponse employees nor any of its contractors can obtain or access your password. Neither GetResponse employees nor any of its contractors will ask you for your password via mail, email, telephone or in any other unsolicited manner.
 
- **Website Use Information**
+**Website Use Information**
 
 Our servers automatically collect site use information, each time you visit the Website.
 
@@ -97,11 +97,11 @@ We will use this information solely for processing payments for the Service that
 
 GetResponse collects only personal information that you choose to provide voluntarily registering to our Service. GetResponse shall advise you which information is mandatory to provide and what you do not have to enclose.
 
-We [GetResponse] and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level. 
+We [GetResponse] and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
 
- **Mailing Policy**
+**Mailing Policy**
 
 When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply for any future correspondence. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use.
 
@@ -121,7 +121,7 @@ When we request Customers to enter sensitive information, such as credit card nu
 
 All of our Customers' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (e.g. our billing clerk or a customer service representative) are personally granted access to sensitive information.
 
- **Security**
+**Security**
 
 GetResponse stores its servers in a highly secure server environment, with surveillance and support to prevent unauthorized access and data security.
 
@@ -129,27 +129,27 @@ We cannot guarantee the security of your data while it is being transmitted over
 
 Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want your personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy statement.
 
- **Facebook Connect or other OpenID provider**
+**Facebook Connect or other OpenID provider**
 
 You can log in to the Website using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on the Website to your profile page to share with others within your network.
 
- **Social Media Widgets**
+**Social Media Widgets**
 
 The Website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on the Website. These Features may collect your IP address, which page you are visiting on the Website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on the Website. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
- **Contests**
+**Contests**
 
 From time-to-time we may provide you the opportunity to participate in contests on the Website. If you participate, we will request certain personal information from you. Participation in these contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). We use this information to be able to send the prize to the winner of the contest.
 
- **Customer Testimonials/Reviews**
+**Customer Testimonials/Reviews**
 
 We post customer testimonials/reviews on the Website which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial/review to post their name along with their testimonial/review. If you wish to update or delete your testimonial, you can contact us using our [feedback form](https://app.getresponse.com/feedback.html).
 
- **View, Change or Remove Information**
+**View, Change or Remove Information**
 
 Upon request GetResponse will provide you with information about whether we hold any of your personal information. You may change or delete your profile information at any time by going to your profile page and clicking ['My Account'](https://www.getresponse.com/my_account.html) option from the menu, then the information will be updated. Please contact us using our [feedback form](https://app.getresponse.com/feedback.html) if you need assistance in updating or reviewing your information. GetResponse will respond to you to review the information within 20 days.
 
- **Other Terms**
+**Other Terms**
 
 We may change this Privacy Policy at any time. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. If we make changes to this Privacy Policy we will notify you by publication here prior to the changes taking effect.
 
