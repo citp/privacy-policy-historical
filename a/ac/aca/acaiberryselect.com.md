@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acaiberryselect.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222024515id_/http%3A//www.healthbuy.com/tos.php%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acaiberryselect.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618204305id_/http%3A//www.healthbuy.com/tos.php%23pp) for the most accurate reproduction.*
 
 # Health & Beauty
 
@@ -130,70 +130,293 @@ Statements made by Company have not been evaluated by the food and drug administ
 
 Privacy Policy
 
-EFFECTIVE DATE: November 30, 2010
+Last Updated on May 25, 2018
 
-This Privacy Policy (Policy) discloses the practices of Company concerning personal information we obtain about you. By using Company, in any way accessing Company, or using other services of Company (collectively the Services), you are accepting the practices described in this Policy.
+We (and our affiliates) are committed to protecting your privacy. This Privacy Policy applies to all our websites ("Websites") and our services ("Service").
 
-This Policy notifies you of: (a) what personal information of yours is collected when you access Company and/or use the Services or purchase any product; (b) how the information is collected; (c) how the information is used and shared; (d) our efforts to maintain the security of Sensitive Information; and (e) other details concerning your personal information and our policies.
+This Privacy Policy governs our data collection, processing and usage practices. It also describes your choices regarding use, access and correction of your personal information. If you do not agree with the data practices described in this Privacy Policy, you should not use the Websites or the Service.
 
-This Policy does not apply to the practices of companies that Company does not own or control, or to people that we do not employ or manage.
+We periodically update this Privacy Policy. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice by sending you an email notification.
 
-**Information Collection and Use**  
-Information collected by Company is stored in a single, secure database, accessible only by Company. Company collects information from our paying customers or other persons who use, attempt to use, or purchase Company products or the services at several different points and from different sources, all or some of which may apply to you.
+While we will notify you of any material changes to this Privacy Policy, we encourage you to review this Privacy Policy periodically.
 
-*** Registration**  
-When you sign up as a customer or potential customer, we ask for, and you are required to give, your name, address, zip code, telephone number, email address, credit card or checking account number, and credit card expiration date. Once you register as a customer with us, you are not anonymous to us.
+  1. Information we collect about you
+  2. How and why we use your personal data
+  3. How we use your personal data for marketing
+  4. How we share your data with third parties
+  5. How we protect your data
+  6. How long we keep your personal data
+  7. Your rights
+  8. Contact us
+  9. Cookies
 
-*** Cookies**  
-Cookies are alphanumeric identifiers that we transfer to your computers hard drive through your Web browser.
 
-*** Log Files**  
-Company automatically receives and records information on its server logs from your Web browser, including your IP address, cookie information, and the page you requested. We use IP addresses and cookies to analyze trends, administer the site, track members and users movements, and gather broad demographic information for aggregate use. IP addresses are not linked to your personal information.
 
-*** Information from Other Sources**  
-for reasons such as improving personalization of our Service (for example, providing better product recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to our account information. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
+#### 1\. Information we collect about you
 
-**Use of Information**  
-Information we collect is generally used for the following purposes:
+Personal and contact information including your name, age, telephone number, postal address, email address, username and social media username(s). We may collect some of that contact information when you interact with us including via our Customer Care Team.
 
-1\. To build features that will make the services available on our site easier to use. This includes faster search requests, better member support and timely notice of new services and special offers.
+Details (and copies) of your communications and interactions with us via our Customer Care Team or otherwise, including by email, telephone (voice recordings), post and online via webchat, the feedback button or on social media channels.
 
-2\. To improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize our sites content, layout, and services. These uses improve our Services and better tailor them to meet your needs.
+Copies of documents you provide to prove your identity (including driving license and passport) when there is a legal reason to request this from you.
 
-3\. To resolve disputes, troubleshoot problems and enforce our Terms and Conditions of Use. At times, we may look across multiple members or users to identify problems or resolve disputes, and in particular we may examine your information to identify members using multiple Member Ids or aliases.
+Transaction details including payments from you for subscription or purchase of the Service.
 
-4\. Sharing of Information. We may use the personal information that you supply to us and we will bring selected retail opportunities to you via direct mail, email, online and telemarketing. Company may sell or rent aggregated statistical information and user, member or former member specific information, including name, address, telephone number and payment information, to our marketing partners or other third-parties. If you want Company to stop sharing information it has about you in the future, you may notify us of this fact by contacting Company's Member Services department.
+Your financial information including your payment card information when you make a purchase or subscribe to the Service.
 
-We reserve the right to disclose personal information, including Sensitive Information, when we believe that such disclosure is appropriate to comply with the law or a request by a government official, to protect the rights or property of Company, or to enforce our Terms and Conditions of Use. In the event that Company or substantially all of its assets are acquired by a third party, member information and Sensitive Information may be some of the transferred assets.
+Information about how you use our Websites, and which websites you came to us from.
 
-**Use of Data Collected**  
-We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, send SMS alerts or notification, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
+Technical information about your device or browser when you use our Websites, including geolocation data to determine what country you are accessing our Websites from, your internet protocol (IP) address, device ID, browser type and version and time zone setting, which may in some circumstances be personal data.
 
-**SMS Offering and Opt-out rights**  
-By completing or submitting a registration form or partial registration form you are consenting to receive SMS, wireless or other mobile offering to your cell phone. You understand that your wireless carrier's standard charges and rates apply to these messages. For SMS text messages, you may remove your information by replying "STOP", "END", or "QUIT" to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request.
+We may also receive personal data directly from you or from various third parties and public sources, including from social media channels (if you interact with us through those channels), or other third parties.
 
-**Agents**  
-We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from member lists, analyzing data, providing marketing assistance, processing credit card payments, and providing member services. They have access to personal and Sensitive Information needed to perform their functions, but may not use it for other purposes.
+#### 2\. How and why we use your personal data
 
-**Special Offers and Announcements**  
-Active customers and former customers will occasionally receive information on products, services, special deals, and a newsletter.
+Below, we set out all of the ways we use your personal data, and why. We have also identified what our legitimate interests are where appropriate. 
 
-**Security**  
-Company takes every precaution to protect our users and members Sensitive Information, both online and offline. Your Sensitive Information is password-protected for your privacy and security. Sensitive Information is encrypted and is protected online with the best encryption software in the industry - SSL.
+It is sometimes necessary for us to process your personal data in order to enter into a contract with you, or to satisfy a contractual requirement (referred to as "performance of a contract with you" below), or to comply with a statutory requirement. In those circumstances, if you do not provide the personal data we require, we will be unable to provide our services to you. 
 
-Sensitive Information is also protected offline in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or member services representative) are granted access to Sensitive Information. Furthermore, all employees are kept up-to-date on our security practices and changes in those practices. Finally, the servers that we store Sensitive Information on are kept in a secure environment. If you have any questions about the security at our website, you can send an email to us using Company online contact form.
+_Registration_
 
-**Other Sites**  
-Company forwards users and members to other sites. Please be aware that Company is not responsible for the business and privacy practices of these other sites. We encourage you to be aware of this when you leave our site and to read the legal notices and privacy policies of each and every website you visit.
+| How:| We use your personal and contact information to register you as a new customer/client. We collect financial information if you register payment card information when purchasing or subscribing to one of our services.  
+---|---  
+Why:| Necessary for the performance of a contract with you.  
+  
+_Accessing Website content_
 
-**Correction/Updating Personal Information**  
-If a members personal information changes we will endeavor to provide a way to correct or update that members personal data provided to us. Visit our [Customer Care](http://www.websupportcenter.com/) section to update
+How:| We use the personal and contact information provided by you and the transaction details about your purchases, to provide our services to you.  
+---|---  
+Why:| Necessary for the performance of a contract with you.  
+  
+_Managing your account_
 
-**Notification of Changes**  
-If we decide to change our Policy, we will post these changes on our Homepage or provide other notification of our revised Policy so our users and members are always aware of what information we collect, how we use it, and when we disclose it.
+How:| We use your personal and contact information, financial information, and transaction details about your purchases, to manage your account.  
+---|---  
+Why:| Necessary for the performance of a contract with you.  
+  
+_Communicating with you_
 
-**Childrens Online Privacy Protection**  
-Company serves general users of the World Wide Web. We support and comply with the Childrens Online Protection Act (COPPA) and we do not knowingly collect information from children under the age of 13, nor do we share such information with third parties. Children under the age of 18 may use Company only with the involvement of a parent or guardian.
+How:| We use the personal and contact information provided by you, copies of your communications with us and, in some circumstances, transaction details, to manage our relationship with you. For example: 
 
-**Special Notification for California Residents, Your California Privacy Rights**  
-Individual customers who reside in California and have provided their personal information to Company may request information about our disclosures of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to us using Company online contact form. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
+  * to notify you about changes to our Account Terms or Privacy Policy;
+  * to communicate with you in response to any query, request or complaint you may have including by email, telephone and in web chat whether relating to any services that you have purchased from us or otherwise.
+
+  
+---|---  
+Why:| Necessary for the performance of a contract with you.  
+Necessary to comply with a legal obligation.  
+Necessary for our legitimate interests (to keep our records updated and to study the services we provide).  
+  
+_Staff training_
+
+How:| We may use copies of your communications with us (including voice recordings) in order to train our staff.  
+---|---  
+Why:| Necessary for our legitimate interests (to ensure that we are able to provide the best service to you).  
+  
+_Market research_
+
+How:| We may use the personal and contact information you have provided to ask you to take part in market research or a survey. We also use the results of any surveys or market research that you undertake to improve our Websites and services.  
+---|---  
+Why:| Necessary for our legitimate interests (to assess and improve our services and business).  
+  
+_Technical issues_
+
+How:| If you contact us about an issue, we may use technical information, and personal and contact information to administer and protect our business and Website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data).  
+---|---  
+Why:| Necessary for our legitimate interests (for providing our services, the provision of administration and IT services, security and fraud prevention). Necessary to comply with a legal obligation.  
+  
+_Experience_
+
+How:| We use information about your use of our Websites, together with technical information about your device and (in some circumstances) your personal and contact information, and other relevant information that we receive from you or third parties (including aggregated information that we combine with your personal data), to deliver relevant website content and other marketing to you, and to manage the delivery of that content. For example, we may automatically display relevant advertisements to you based on your use of our Websites.  
+---|---  
+Why:| Necessary for our legitimate interests (to ensure that you are shown relevant content based on your use of our Websites).  
+  
+_Advertising effectiveness_
+
+How:| We use information about your use of our Websites and, in some circumstances, personal and contact information about you, to measure or understand the effectiveness of the advertising we serve to you.  
+---|---  
+Why:| Necessary for our legitimate interests (to determine how effective advertising is in order to improve advertising, its relevance and in order to fulfil contracts we have with our marketing partners).  
+  
+_Analytics_
+
+How:| We use information about your use of our Websites and technical information, including about your device or where you are accessing our Websites from, to optimize our service and to improve our app, Website, services, direct marketing, student relationships, behavior profiling and experiences.  
+---|---  
+Why:| Necessary for our legitimate interests (to measure the interactions with our Websites, to keep our Websites updated and relevant, to develop our business and to improve our marketing strategy).  
+  
+_Publicity_
+
+How:| We may use your personal and limited contact information in any publicity materials provided that you have given your consent.   
+---|---  
+Why:| Necessary for our legitimate interests (to develop our business and to improve our marketing strategy).  
+  
+_Regulatory compliance_
+
+How:| We may use your personal and contact information, financial information, information about any transaction between you and us, information about your use of our Websites, or technical information, to enable us to comply with our legal and regulatory obligations.  
+---|---  
+Why:| Necessary to comply with a legal obligation.  
+  
+_Fraud prevention_
+
+How:| We may use your personal and contact information, financial information, information about any transaction between you and us, information about your use of our Websites, or technical information, in order to undertake analysis for the purposes of identifying and dealing with any fraud or fraudulent activity.  
+---|---  
+Why:| Necessary to comply with a legal obligation. Necessary for our legitimate interests (to ensure that transactions and interactions with us are not fraudulent).  
+  
+_Queries_
+
+How:| We may use your personal and contact information, financial information, information about any transaction between you and us, information about your use of our Websites, or technical information for the purpose of dealing with any request, complaint or query from you.  
+---|---  
+Why:|  Necessary to comply with a legal obligation. Necessary for our legitimate interests (to respond to you and to deal with any request you may have).  
+  
+We use your personal data to create aggregated data sets. You are not identifiable from that aggregated data and it is not considered personal data.
+
+However, if we combine or connect aggregated data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this Privacy Policy.
+
+#### 3\. How we use your personal data for marketing
+
+We send you marketing communications through a number of different channels. You may receive newsletters, email notifications and other marketing communications that either you request from us or which you consent to by opting in when completing a registration form on our service., and/or have not asked us to stop sending marketing by email to you.
+
+How to opt out of this marketing
+
+You may opt out from receiving such marketing communications and notifications from us at any time. There are several ways you can do this. To stop receiving marketing by email, either:
+
+  * Click "unsubscribe" or update preferences in any email communication we send;
+  * Contact us in writing; or
+  * Email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+
+
+#### 4\. How we share your data with third parties
+
+We sometimes share the data we collect from you with the following trusted third parties:
+
+  * Banks and payment providers - to set up and/or to obtain payment of any amounts due to us.
+  * Our IT system providers - in order to provide software to set up your account, to communicate with you via webchat and other communications providers and to provide our systems to us, including for the purposes of hosting, support and software licensing.
+  * Social media platforms - for the purpose of fulfilling the service and targeted advertising.
+  * Online survey companies and market research agencies - to undertake surveys (including for example, our Websites satisfaction survey) and other market research and to analyze the results.
+  * Digital analytics companies - for the purposes of website analytics and reporting in respect of our analytics and marketing.
+  * Professional advisers including lawyers, bankers, auditors and insurers - for the purposes of providing consultancy, banking, legal, insurance and accounting services.
+  * Police or other such regulatory authority - as part of an investigation or otherwise for legal or regulatory purposes.
+  * Auditors - to audit our systems and transactions for the purposes of ensuring efficiency, or regulatory or contractual compliance.
+  * We will disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation or request. We do this in order to protect our rights, property or safety or of our clients, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection.
+
+
+
+How to opt out of this marketing
+
+You may opt out from receiving such marketing communications and notifications from us at any time. There are several ways you can do this. To stop receiving marketing by email, either:
+
+  * Click "unsubscribe" or update preferences in any email communication we send;
+  * Contact us in writing; or
+  * Email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+
+
+#### 5\. How we protect your data
+
+We have put various measures in place to protect your personal data:
+
+  * All of your shopping cart checkout information is processed on our secure servers. You can see this via the https:// in the url as well as your browser showing the site listed as "Secure" in the address bar. This means that all of the data is encrypted while it is being transmitted for security purposes.
+  * When your data is received and processed, it is stored on secured servers with restricted access with all necessary and reasonable safeguards put in place to protect said information.
+  * In some cases, we may disclose your personal data to third parties. If and when we do so, we make every effort to ensure the third party takes all necessary steps to secure the information and protect your data. However, in some cases we may be required by law to disclose your information to a third party and may not always have control over how that information is secured.
+  * Your personal data may be processed by our staff or one of the referenced third parties. At such times only the minimum amount of data needed to perform their given duties is accessed. Such staff may exist outside of the EEA (European Economic Area.)
+
+
+
+#### 6\. How long we keep your personal data
+
+We will only keep your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+At the end of that retention period, your data will either be deleted or anonymized (so that it can no longer be associated with you) for research or statistical purposes.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+In some circumstances, you may be entitled to ask us to delete your data: see "Your rights" below for further information.
+
+#### 7\. Your rights
+
+You have the right:
+
+  * to ask us not to use your personal data for marketing;
+  * to ask us not to process your personal data where it is processed on the basis of legitimate interests, if there are no compelling reasons for that processing;
+  * to request from us access to personal information held about you (see below);
+  * to ask for the information we hold about you to be rectified if it is inaccurate or incomplete;
+  * to ask that we stop any consent-based processing of your personal data after you withdraw that consent;
+  * to ask, in certain circumstances, to delete the personal data we hold about you;
+  * to ask, in certain circumstances, for the processing of that information to be restricted; and
+  * to ask, in certain circumstances, for data portability.
+
+
+
+#### 8\. Contact us
+
+If you have any questions about our Privacy Policy, including any requests to exercise your rights, please contact the Data Protection Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+In order to request a copy of the personal data that we hold about you, please send your request in writing to the Data Protection Officer at the above address. To enable us to verify your identity and process your request, you must include all of the following information and documentation with your request:
+
+  * your full name;
+  * the email address registered to your account;
+  * a description of the data that you are requesting, including a date range;
+  * proof of your ID;
+  * the date of the request.
+
+
+
+If you are unhappy with our processing of your personal data, you have the right to complain at any time. We would, however, appreciate the chance to deal with any concerns before you approach the appropriate authority, so please contact the Data Protection Officer by email in the first instance.
+
+#### 9\. Cookies
+
+We use cookies and similar technologies to recognize you, your browser and your device. We also allow carefully selected third parties to use cookies, pixels and ad tags while you are browsing our Websites. These collect information about your browsing habits and usage and allow us to show you ads while you are browsing our Websites and other sites on the internet. All of our advertising cookies used are described in the cookie list below.
+
+There are four main types of cookies and technology. Here's how and why we use them:
+
+_Strictly necessary cookies_
+
+These are cookies that are required for the operation of our Websites. Without these cookies, you will not be able to use some functionality on our Websites, such as signing into your account.
+
+_Performance cookies_
+
+These cookies collect information about how you use our Websites and help us improve the way our Websites work by making it easier for you to navigate to and complete various tasks.
+
+_Functionality cookies_
+
+These cookies allow us to identify whether you are logged into your Figure Eight Training portal and to remember choices you make and your preferences, in order to improve your experience of our Websites.
+
+_Advertising cookies and pixels_
+
+Our carefully selected media partners place third party cookies, pixels and ad tags onto our Websites on our behalf. These cookies record your visit to our Websites, the pages you have visited and the links you have followed.
+
+We use this information to make our Websites, and the content displayed on them, more relevant to you. They are also used to limit the number of times you see certain content, as well to measure the effectiveness of our digital campaigns.
+
+We may share this analytics information with third parties for these purposes. You can delete these cookies and still continue to use our Websites.
+
+More information about these types of cookies and opt out information can be found in Manage your cookies.
+
+_Managing your cookies_
+
+For more information about cookies, how to opt out and the steps you can take to protect your privacy on the internet, go tohttp://www.youronlinechoices.com- the guide to online behavioral advertising and privacy. This website is operated by the Internet Advertising Bureau, the industry body for online advertising. On here you'll find information about how behavioral advertising works, how to opt out, further information about cookies and the steps you can take to protect your privacy on the internet.
+
+If you'd prefer to restrict, block or delete cookies from our Websites, you can do so in your browser settings. If you choose to disable cookies, then please note that this may limit the way you use our Websites. For example, you may have to re-enter information that would have ordinarily been stored as a cookie.
+
+_How to control cookies on your desktop_
+
+[Internet Explorer cookies information](https://support.microsoft.com/en-gb/help/278835/how-to-delete-cookie-files-in-internet-explorer)
+
+[Safari cookies information](https://support.apple.com/kb/PH21411?locale=en_US)
+
+[Chrome cookies information](https://support.google.com/chrome/answer/95647?hl=en-GB)
+
+[Firefox cookies information](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
+
+[Opera cookies information](https://www.opera.com/help/tutorials/security/privacy/)
+
+_How to control cookies on your mobile device_
+
+[Apple iOS Safari](https://support.apple.com/en-gb/HT201265)
+
+[Android Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=en)
+
+#### Changes to this Privacy Policy
+
+Any changes that we may make to our Privacy Policy in the future will be posted on our Websites. Where appropriate, we will notify you of the changes periodically.
+
+Copyright 2018 | Last Updated on May 25, 2018 | All Rights Reserved
