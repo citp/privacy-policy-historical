@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928095628id_/https%3A//www.swimsuitsforall.com/help/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618125849id_/https%3A//www.swimsuitsforall.com/help/privacyPolicyPopup.php) for the most accurate reproduction.*
 
-# Swimsuits For All | Privacy Policy
+# 
+
+### PRIVACY POLICY
 
 Privacy Policy Last updated on: July 25, 2017
 
