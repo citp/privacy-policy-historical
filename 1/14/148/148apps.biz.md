@@ -1,81 +1,88 @@
-> *The following text is extracted and transformed from the 148apps.biz privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223071004id_/http%3A//www.pocketgamer.biz/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 148apps.biz privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618151827id_/http%3A//www.pocketgamer.biz/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pocket Gamer.biz | PGbiz
 
-This Steel Media website (the “Website“) and any information obtained through all Steel Media Websites or from other sources is stored on servers operated and maintained by or on behalf of Steel Media Limited (“Steel Media“, “we” or “us“).
+This website is owned and operated by Steel Media Limited.
 
- **How we use your information**  
-This Privacy Policy tells you what to expect when Steel Media collects personal information. It applies to information we collect about:
+Steel Media Ltd is registered in England under company number 04352070 and our registered office is at The  
+House, Kelston Park, Bath, BA1 9AE, United Kingdom. For the purposes of the Data Protection Act 1998 and the incoming General Data Protection Regulation (GDPR) from May 25, 2018, we are the data controller.
 
-Visitors to our websites;Individuals who have created profiles through our website log in system;People who use our services, eg. who subscribe to our newsletters or request information from us or generally conduct business with us;Individuals within companies that we wish to conduct business with, run promotions or contact in the course of our business activities.
+We are registered as a data controller with the Information Commissioner's Office under registration number  
+Z9825553.
 
- **Visitors to our websites**  
-When someone visits any of Steel Media’s websites we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting any of our websites. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it. (eg. when you register or log in to our websites)
+This privacy policy covers all of Steel Media’s websites and any information obtained through all Steel Media websites or from other sources stored on servers operated and maintained by or on behalf of Steel Media Limited, and has been prepared to meet the requirements of the UK's Data Protection Act 1998 and the incoming General Data Protection Regulation (GDPR). It’s intended to help you understand our practices relating to the collection, protection, disclosure and use of any personal data that you provide to us, or that we collect from you, whilst you visit our sites. By "personal data", we mean any information about you that could be used to help identify you.  
+Nothing in this privacy policy limits your legal rights in relation to your personal data.
 
- **Use of cookies by Steel Media**  
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
+By providing your personal data to us, you agree that we may collect and use the personal data you provide in the ways described in this privacy policy. Please read each of the following sections carefully to understand our views and practices. If you do not agree with the terms of this privacy policy, please do not provide any personal data to us.
 
-Cookies can be deleted from your hard drive or you can configure your web browser so that it rejects cookies. To learn more about cookies and how to reject them, visit www.aboutcookies.org.
+Please note that we may need to update this privacy policy from time to time to reflect changes in our practices and the law. We recommend that you check this page regularly to ensure that you have read the most recent version and that you are happy with any changes.
 
+ **INFORMATION WE COLLECT**  
+We may collect and process the following personal data about you:
+
+  1. Information about your use of our sites including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data, operating system and other communication data.
+  2. Information provided voluntarily by you. For example, when you create an account or engage our services you may need to provide your name, address, email address, telephone number and company name.
+  3. Information provided when you order an admission ticket/pass for any of our parties or networking events.
+  4. Information that you provide when you communicate with us by any means, including when you comments on our site, respond to our marketing communications, enter our competitions, complete our voluntary surveys or report a problem with our site.
+  5. Your email address when you subscribe to receive information about our website news, offers and competitions.
+
+
+
+ **USE OF COOKIES**  
+Our sites use cookies to distinguish you from other visitors. This can help us to provide you with a more personalised experience when you browse the sites and also allows us to improve our site.  
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. Cookies can be deleted from your hard drive or you can configure your web browser so that it rejects cookies. To learn more about cookies and how to reject them, visit www.aboutcookies.org.  
 Many of the cookies we use are essential for parts of the site to operate correctly and has already been set. You may delete and block all cookies from this site, but parts of the site will not work as a result.
 
- **Data Protection Act**  
-Steel Media is committed to protecting your privacy and we take our responsibilities regarding the security of information you provide to us very seriously. We are signed up to the Data Protection Act to illustrate our commitment to this.
+ **USE OF YOUR INFORMATION**  
+We use the information that we collect from you for one or more of the following purposes:
 
-The purpose of this Privacy Policy is to inform you, as a visitor of Steel Media websites, what kinds of information we may gather about you when you visit the Website, how we may use that information, whether we disclose it to anyone, the choices you have regarding our use of that information and how you can correct that information. If you have any concerns, questions or comments about this Privacy Policy or Steel Media Websites you can contact us at privacy@steelmedia.co.uk.
+  1. To provide the products and services you order from us and to carry out our obligations and exercise our rights arising from those orders.
+  2. To provide information to you that you request from us relating to our products or services.
+  3. To inform you of any changes to our site and/or our products and services.
+  4. To administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
+  5. To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  6. To provide you with information about news, products and services we offer that we feel may interest you by email and/or SMS. We will send that information by electronic mail (including email and/or SMS) only if: a) you have consented to this, for example by opting in at the time you create an account, place an order or complete an email subscription form on our sites; or b) the information is about our events and services similar to those which were the subject of a previous provision to you and you have not opted out of receiving such marketing messages; or c) where we are permitted to do so by law without consent. If you do not want us to use your personal data in this way, please let us know using our contact details at the end of this privacy policy.
+  7. If you have a Facebook account, we may provide you with information about our events and services through Facebook, using Facebook's "Custom Audience" feature. This feature allows us to ensure that you are receiving advertising from us that is most appropriate to you. To do this, we send your email address to Facebook in "hashed" form, which means we convert it into a string of numbers that cannot be reversed to reveal your email address. When Facebook receives the hashed data, it matches it against its own list of hashed data and if it has a hash which corresponds to your email address it will present our advertisement to you. Learn more about Custom Audiences at https://en-gb.facebook.com/business/help/341425252616329. If you do not wish to receive information about our products and services through Facebook, you can opt out at any time by contacting us using our details at the end of this privacy policy.
 
- **Steel Media’s Use of Information**  
-In order to make use of certain services provided through the Website such as commenting, the forums, email newsletters, competitions and polls, you will need to register a profile with us. When you do so, you will provide us with information about yourself and you will be able to select how we use your information for marketing purposes. You can update your marketing preferences at any time by following the instructions to amend your details in the profile registration section. We will only use your information in accordance with your instructions and as set out in this Privacy Policy.
 
-If you ask us to provide goods or services to you, we will use your information to provide those goods or services to you and to monitor our provision of those goods or services. We may also share your information with associated companies for marketing purposes. We or associated companies may contact you by mail, telephone, email or by other electronic means with offers of goods and services or information that may be of interest to you. By providing us with your email address you consent to being contacted by these methods for these purposes. If you do not want to receive marketing information from us or associated companies you can notify us of this as part of the registration process.
 
-You can stop receiving this information at any time by following the unsubscribe instructions on the correspondence you receive, by amending your marketing preferences in your profile, or by emailing privacy@steelmedia.co.uk, giving your username and email address and details of the information you no longer wish to receive.
+ **STORING YOUR PERSONAL DATA**  
+We will only retain and use your personal information for as long as we need it for the purposes set out in this privacy policy or as otherwise required by law.  
+All information you provide to us is stored on our secure servers. We have in place a level of security appropriate to the nature of the information stored and the harm that might result from a breach of security.  
+Unfortunately the sending of information via the internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically and therefore sending such information is entirely at your own risk.  
+The information that we collect from you may be transferred to a destination outside the European Economic Area ("EEA"), where it will be stored by us or by one of our suppliers. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such suppliers and staff may be engaged in, among other things, the provision of support services. We will take reasonable steps to ensure adequate security for any of your information transferred outside the EEA, but please be aware that destinations outside the EEA to which your information may be transferred may have data protection laws which do not offer the same level of protection for your information as those in force in the EEA. By using our site and submitting your information to us, you agree to the transfer, storing and processing of such information outside the EEA as set out in this privacy policy. By using the website and submitting your personal information, you agree to this transfer, storing or processing of such personal information outside the EEA as set out in this privacy policy
 
-By providing us with your personal information, you consent to us processing your information as set out in this Privacy Policy, to our processing your sensitive personal data, such as health data and you also consent to our transferring your information to countries or jurisdictions which do not provide the same level of data protection as the UK, if necessary for these purposes. If we do make such a transfer, we will, if appropriate, put a contract in place to ensure that your information is protected.
+ **DISCLOSING YOUR INFORMATION**  
+We may share your personal data with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 ("Group").  
+We will not disclose your personal information to any other party other than in accordance with this privacy policy and in the circumstances detailed below:
 
-If you wish to take part in any poll or survey run through the Website, we will also use your information for the purposes specified in the poll or survey. We may also disclose non-personal, aggregated information we collect through the poll or survey to third parties.
+  1. We may disclose your personal data to our subcontractors and other suppliers and service providers who we engage to assist with our administrative or business functions and to deal with any other matters in connection with our sites, our events and services and any agreements we enter into with you.
+  2. We may disclose your personal data to analytics and search engine providers that assist us in the improvement and optimisation of our site.
+  3. We may disclose your personal data to advertisers and advertising networks that require anonymised data to select and serve relevant adverts to you and others. We may provide them with aggregate information about our users (for example, we may inform them that 100 women aged 18-30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, men in a particular location). We may make use of the information we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+  4. In the event that we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer.
+  5. If Steel Media Limited, or substantially all of its or their assets, are acquired by a third party, in which case personal data held by it about its or their clients/users may be one of the transferred assets.
+  6. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions and other agreements; or to protect the rights, property, or safety of Steel Media Limited or any member of the company or others.
+  7. Where we have obtained explicit consent from you, at time of entry or order, to disclose your details to competition sponsors or event sponsors.
 
-If you wish to take part in any promotion or competition run through the Website, we will also use your information for the purposes specified in the promotion or competition, to make sure you are eligible to enter the promotion or competition, to contact you if you have won a prize and for publicity purposes.
 
- **Disclosure to third parties**  
-We will only pass your information on to associated third parties for the purpose of enabling them to send you information which may be of interest to you if you have indicated you are happy for us to do so in your marketing preferences.
 
-If any third party is organising and/or managing any promotion, competition, survey or poll run through the Website on our behalf, we may disclose your information to that third party to enable them to do so but they will be prohibited from using your information for any other purpose, unless you have given them specific consent.
+ **THIRD PARTY LINKS**  
+This privacy policy only covers Steel Media owned sites. On occasion we include links to third parties on our sites. Where we provide a link it does not mean that we endorse or approve that site's policy towards visitor privacy. You should review their privacy policy and consider their reputation before sending them any personal data.
 
-Please note that if you upload or post any information to a public part of the Website, we may use it in accordance with our terms and conditions of use and it may be viewed and used by others.
+ **OPTING OUT OF MARKETING**  
+You have the right to ask us not to process your personal data for marketing purposes. If you would like to do so, just let us know using our contact details at the end of this privacy policy. However, if you exercise your right to opt-out of receiving marketing messages from us, please be aware that you may continue to receive certain non-marketing communications from us. For example, we may still need to contact you about important changes to our events, services or site that affect you or about any agreements we may have entered into with you.
 
- **Maintenance and storage of information**  
-Your information is collected and stored on servers which are owned and maintained by or on behalf of Steel Media. We may keep your information for a reasonable period for the purposes set out in this Privacy Policy.
+ **COMPETITIONS**  
+By entering a Steel Media website competition you are agreeing for your name, email and answers to be recorded for the purpose of contacting you with news, information and offers which we feel would be of interest to you, and for contacting you in the event that you are a finalist or winner. You may be disqualified from being eligible from winning the Competition if you have not supplied those details either at the time of entry or via updating your profile/user page. You can opt out of receiving newsletters by sending an email to privacy@steelmedia.co.uk, giving them your email address and details of the email newsletter you no longer wish to receive. We do not pass your details on to any third party unless we have explicitly declared this at the time of entry and in this instance will be as a term of entry specified by the Competition sponsor.
 
- **Our email newsletters**  
-If you subscribe to receive one or more of our email newsletters you will need to register an account with us. We will provide those newsletter(s) to you free of charge, unless otherwise stated.
+ **ACCESS TO INFORMATION**  
+In accordance with the Data Protection Act 1998 and the GDPR you have the right to see a record of any personal data that we hold relating to you. Please note that we reserve the right to charge a fee of GBP 20.00 to cover costs incurred by us in providing you with the information. If you would like a copy of this information, please write to us at the address below providing as much detail as possible to ensure we can locate the correct information.
 
-Our newsletters may contain promotions or advertisements relating to goods or services provided by us and associated third parties from time to time. If at any time you wish to unsubscribe from an email newsletter you may do so by following the unsubscribe instructions on the newsletter, on the Website, or by emailing privacy@steelmedia.co.uk, giving them your email address and details of the newsletter you no longer wish to receive.
+ **CONTACTING US**  
+Please do not hesitate to contact us regarding any matter relating to this privacy policy.  
+Questions, comments and requests regarding this privacy policy are welcomed and should be sent to us by email at legal@steelmedia.co.uk or by post to Steel Media Ltd, The House, Kelston Park, Bath, BA1 9AE, United Kingdom.
 
- **Forums**  
-Please be aware that when you post public information to any forums, chat rooms, blogs, or message boards on or through the Website, that information can be accessed by the public and used to send you unsolicited communications. Steel Media accepts no responsibility for this.
-
- **Third party sites**  
-The Website contains links to third party websites. We may, on occasion, disclose non-personal aggregated information to the owners or providers of those third party websites. We link to a wide variety of other websites and we display advertisements from third parties on our Website. We may monetise some of these links through the use of third party affiliate programmes. Notwithstanding such affiliate programmes, we are not responsible for the content or privacy policies of these websites or for third party advertisers, nor for the way in which information about their users is treated. In particular, unless expressly stated, we are not agents for those sites or advertisers nor are we authorised to make representations on their behalf.
-
- **Competitions**  
-By entering a Steel Media competition you are agreeing for your name, email and answers to be recorded for the purpose of contacting you with news, information and offers which we feel would be of interest to you, and for contacting you in the event that you are a winner. You can opt out of this by sending by emailing privacy@steelmedia.co.uk, giving them your email address and details of the email newsletter you no longer wish to receive. We do not pass your details on to any third party unless we have explicitly declared this at the time of entry and in this instance will be as a term of entry specified by the Competition sponsor.
-
- **Security**  
-In accordance with our requirements under the Data Protection Act 1998, we will adopt appropriate security procedures to help prevent unauthorised access to your information. Steel Media shall not be liable for any attempt to hack or crack or otherwise gain access to any part of this Website including any of your information.
-
- **Usage of information**  
-We may use your information as set out in this Privacy Policy and in any other manner you expressly consent to us doing so, we may also use your information for any purpose if we are required to do so by any law or other regulatory or government authority, to enforce the terms of use or to enforce our rights, or to protect the safety of others. In particular, we may collect and use personal information for the purposes of investigating and, if necessary, removing any content about which we receive a complaint.
-
- **Policy changes**  
-By using any Steel Media website you agree to the terms of this Privacy Policy and our terms of use. We may amend this Privacy Policy and the terms of use from time to time. If we do so, we will post an updated version on the Website. You will be bound by the new terms upon your continued use of the Website.
-
- **Contact details**  
-If you have any questions about this Privacy Policy, you can contact us at:  
-Steel Media Ltd, The House, Kelston Park, Kelston, Bath, BA1 9AE, United Kingdom  
-email: privacy@steelmedia.co.uk
-
- **Updated: March 2014**
+ **Updated: May 2018**
 
   
 
