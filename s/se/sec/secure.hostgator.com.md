@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the secure.hostgator.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230162049id_/http%3A//www.hostgator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure.hostgator.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618071712id_/https%3A//www.hostgator.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - HostGator
+# Privacy Policy
 
 We, HostGator.com LLC. ("HostGator"), are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. The purpose of this Privacy Policy is to enable you to understand what personal information of yours is collected, how and when we might use or share your information, and how you can correct any inaccuracies in the information. This Privacy Policy also explains our online information practices and the choices you can make about the way your information is collected and used.  
 
