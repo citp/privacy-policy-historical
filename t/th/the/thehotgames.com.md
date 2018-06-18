@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehotgames.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215112549id_/http%3A//thehotgames.com/Public/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehotgames.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618203902id_/http%3A//thehotgames.com/Public/privacy.html) for the most accurate reproduction.*
 
 # TheHotGames.Com - The Hot Games Around The World
 
@@ -48,6 +48,6 @@ Upon your request, we will
 
 
 
-You can make these requests at the customer information section, or by telephoning, or emailing your request to Thehotgames’s Customer Support department at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#593d2b3c38343e2b3c382d2e362b353d193e34383035773a3634). 
+You can make these requests at the customer information section, or by telephoning, or emailing your request to Thehotgames’s Customer Support department at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8fece0e1fbeeecfbcffbe7eae7e0fbe8eee2eafca1ece0e2). 
 
 Please do not email your credit card number or other sensitive information. 
