@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solochecker.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216234107id_/https%3A//www.solochecker.com/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solochecker.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619002502id_/http%3A//www.solochecker.com/cms/privacy) for the most accurate reproduction.*
 
 # Solochecker :: Privacy Policy
 
@@ -36,9 +36,23 @@ This online privacy policy applies only to information collected through our web
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at https://www.solochecker.com/cms/termsandconditions.   
 **Your Consent**
 
-By using our site, you consent to our privacy policy.   
+By using our site, you consent to our privacy policy.
+
+ **General Data Privacy Regulation (GDPR)**
+
+The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union (EU) citizens.
+
+While our company markets its services online we do not specifically target the EU or conduct business in or to the EU in any meaningful way. If the data that you provide through the use of our site, content, products and/or services is governed by GDPR, we will abide by the relevant portions of the Regulation.
+
+If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.”
+
+#### **Children's privacy**
+
+This is a general audience website and does not offer services directed to children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information.
+
+  
 **Changes to our Privacy Policy**   
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. This policy was last modified on 19th September 2013  
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. This policy was last modified on 25 May 2018.  
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. [http://support.solochecker.com](http://support.solochecker.com/)  
