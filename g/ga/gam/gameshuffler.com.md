@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameshuffler.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222550id_/http%3A//gameshuffler.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshuffler.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618161252id_/http%3A//gameshuffler.com/privacy/index.html) for the most accurate reproduction.*
 
 # Attention Users: We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it
 
@@ -35,5 +35,5 @@ Registration is not required to enter our site. However, subscription to certain
 
 
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement. We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact via our contact form. If site users have any questions or suggestions regarding our privacy policy, please contact us via our [contact page](http://www.freeonlinegames.com/contact/). For the amusement and greater good of all the gamers of Gameshuffler.com:  
+If we decide to change our privacy policy, we will post those changes to this privacy statement. We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact via our contact form. If site users have any questions or suggestions regarding our privacy policy, please contact us via our [contact page](http://gameshuffler.com/index.php?task=contact). For the amusement and greater good of all the gamers of Gameshuffler.com:  
 We reserve the right to publish any of the reviews or member content  we please. If you are not happy about that please refrain from posting or joining this site- thank you.
