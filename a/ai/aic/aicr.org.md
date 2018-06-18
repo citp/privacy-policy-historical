@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aicr.org privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011162855id_/http%3A//www.aicr.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aicr.org privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618115203id_/http%3A//www.aicr.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | American Institute for Cancer Research (AICR)
 
@@ -22,13 +22,12 @@ At AICR, we are committed to protecting your privacy. We use the information you
 Our postal address is:
 
 **American Institute for Cancer Research**  
- **1759 R Street NW**  
- **Washington, DC 20009**
+PO Box 97167  
+Washington, DC 20090-7167
 
 We can be reached via email at [aicrweb@aicr.org](mailto:aicrweb@aicr.org).
 
-Reach us by telephone at 1-800-843-8114.  
-(DC area 202-328-7744)
+Reach us by telephone at 1-800-843-8114.
 
 ## **What information do we collect and how do we use it?**
 
