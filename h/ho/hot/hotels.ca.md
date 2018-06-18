@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the hotels.ca privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231042328id_/https%3A//ca.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.ca privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618075825id_/https%3A//ca.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
 
 # Hotels.com - Deals & Discounts for Hotel Reservations from Luxury Hotels to Budget Accommodations
-
-Privacy Policy
-
-Print all sections
 
 Below you will find the updated Privacy Policy for Hotels.com, which applies to any information provided or collected through this Hotels.com website and/or any Hotels.com application, including the Hotels.com mobile and tablet applications or any application on a social media or other website (each an "App"), each of which are provided by Hotels.com, L.P. 5400 LBJ Freeway, Suite 500, Dallas, Texas 75240, USA (“Hotels.com”, “we”, or “us”).
 
