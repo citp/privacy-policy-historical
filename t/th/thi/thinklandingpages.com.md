@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinklandingpages.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017031936id_/http%3A//www.thinklandingpages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinklandingpages.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618101537id_/http%3A//www.thinklandingpages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Think Landing Pages
 
@@ -31,3 +31,9 @@ Think Industries, LLC will disclose your personal information, without notice, o
 **Use of Cookies**
 
 Think Industries, LLC may use cookies on its websites.
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+
+
