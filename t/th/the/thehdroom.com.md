@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehdroom.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130171857id_/http%3A//www.thehdroom.com/privacy-policy-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehdroom.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618160704id_/http%3A//www.thehdroom.com/privacy-policy-terms-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - TheHDRoom
 
@@ -9,6 +9,8 @@ This website may be taken down for maintenance or other reasons, or an unplanne
 Giveaway promotions at TheHDRoom require the submission of name and email address to enter. This information is not provided or sold to third-party marketing services, but may be used for TheHDRoom.com marketing communications.
 
 Original written materials and creative assets published at this website are protected by copyright laws, and may not be reproduced, republished, distributed, transmitted, resold, displayed, broadcast, or otherwise exploited in any manner without the express written consent of TheHDRoom.com or a third-party license holder. 
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, [please review their privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com).
 
 ***Disclosure***
 
