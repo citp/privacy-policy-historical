@@ -1,83 +1,100 @@
-> *The following text is extracted and transformed from the onekingslane.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228005909id_/https%3A//www.onekingslane.com/c/customer%2Bservice/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onekingslane.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618181307id_/https%3A//www.onekingslane.com/c/customer%2Bservice/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy | One Kings Lane
 
-This Privacy Policy (“Policy”) explains how information about you is collected, used and disclosed by One Kings Lane and its subsidiaries and affiliated companies (collectively, “OKL”). This Policy applies to the information we collect when you use our websites, mobile applications and other online products and services (collectively, “the “Services”) or when you otherwise interact with us as described below.
+This policy describes how One Kings Lane and its affiliates collect, use, and share personal information, unless a particular affiliate has a different privacy policy posted on its website, in which case that privacy policy shall describe that affiliate’s collection, use, and sharing of personal information. The “affiliates” referred to in this privacy policy mean Bed Bath & Beyond, buybuy BABY, Christmas Tree Shops And That!, Harmon and Harmon Face Values, Cost Plus and Cost Plus World Market, PersonalizationMall.com, PMall, Of a Kind, Decorist, Chef Central and such other affiliates as we may acquire or launch from time to time.
 
-We may change this Policy from time to time. If we make changes, we will notify you by revising the date at the top of the Policy, and in some cases, we may provide you with additional notice (such as adding a statement to the homepages of our websites or sending you a notification). We encourage you to review the Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
+## Types of Data We Collect.
 
-## Information you Provide to Us
+Personal information means information that allows someone to identify or contact you. Non-personal information means information that does not directly identify you. We collect both types of information about you.
 
-We collect information you provide directly to us. For example, we may collect information when you create an account, use the interactive areas and features of our Services, invite a friend to use our Services, make a purchase, communicate with us via third party social media sites, participate in a contest or promotion, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, phone number, billing and shipping addresses, credit card information, shopping preferences, demographic information and any other information you choose to provide. In some cases, we may also collect information you provide about others. For example, we may ask you to provide the email address of the friend who invited you to join our Services.
+The following provides examples of the types of data that we collect about you and how we use the information.
 
-## Information We Collect Automatically
+Context | Types of Data and Purpose for Collection  
+---|---  
+Account Registration | We may collect your name and contact information when you create an account.   
+Demographic Information | We may collect personal information from you, such as your age or location.  
+Distance Information | When you use one of our Apps we may collect your location from the GPS, Wi-Fi, and/or cellular technology in your device to determine your distance from a store.  
+Email Interconnectivity | If you receive email from us, we may use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases.  
+Employment | If you apply for a job posting, or become an employee, we may collect personal information necessary to process your application. This may include, among other things, your Social Security Number.  
+Feedback/Support | If you provide us feedback or contact us for support we will collect your name and e-mail address and possibly other personal information, as well as any other content that you send to us in order to reply.  
+Mailing List | When you sign up for one of our mailing lists we may collect your email address or postal address.  
+Mobile Devices | We may collect information from your mobile device such as unique identifying information broadcast from your device when visiting our website or when visiting one of our stores.  
+Order Placement | We may collect your name, billing address, shipping address, e-mail address, phone number, and payment card information when you place an order.  
+Partner Promotion | We may collect information that you provide as part of a co-branded promotion with another company.  
+Surveys | When you participate in a survey we may collect additional information that you provide through the survey. If the survey is provided by a third party service provider, the third party’s privacy policy applies to the collection, use, and disclosure of your information.  
+Sweepstakes or contests | When you participate in a sweepstakes or contest we may collect information about you which includes contact information to notify you if you are selected.  
+Third Party Tracking | We participate in behavior-based advertising. This means that a third party may use technology (e.g., a cookie (further described below)) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests. That advertising may appear either on our websites, or on other websites. You can opt-out of receiving advertising based upon your browsing behavior from some network advertising companies by going to the [Network Advertising Initiative](http://optout.networkadvertising.org/#!/) and the [Digital Advertising Alliance](http://optout.aboutads.info/#!/) websites, although to completely prevent advertising based upon your browsing behavior you should also disable the cookies on your browser.  
+Web logs | We may collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet), domain name, click-activity, referring website, and/or a date/time stamp for your visit. In addition to information stored by our servers, we may also use cookies and clear GIFs. Cookies may be removed by following instructions provided by your browser.  
+Cookies | We may use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to your device while you are viewing a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your device until you delete them). Among other things, cookies allow us to provide you with a more personal and interactive experience tailored to your interests and to improve our marketing efforts. Persistent cookies may be removed by following instructions provided by your browser. If you choose to disable cookies some areas or features of our websites may not work properly.  
+Wedding, baby, and/or Gift Registry | We may collect your name, contact information, shipping address, and information about an event for which you are registering.  
+  
+In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources.
 
-When you access or use the Services, we automatically collect information about you, including:
+## Use and Processing of Your Information.
 
-  * **Log Information:** We log information about your use of the Services, including your access times, pages viewed, Internet Protocol (“IP”) address, browser type and language and the website you visited before navigating to our Services. We may also infer your geographic location based on your IP address.
-  * **Device Information:** We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and mobile network information.
-  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to, among other things, improve our Services and your experience, see which areas and features of our Services are popular and count visits. We may also collect information using web beacons (also known as “tracking pixels”). Web beacons are electronic images that may be used on our Services or in our emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine if an email has been opened and acted upon. For more information about cookies, and how to disable them, please see Your Choices below.
+In addition to the uses described above, we use your personal information in the following ways:
 
-
-
-## Information We Collect from Other Sources
-
-We may also obtain information from other sources and combine that with the information we collect through our Services. For example, if you create or log into your OKL account through a third party social media site, we will have access to certain information from that site, such as your name, email address, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
-
-We may use infomration you for various purposes, including to:
-
-  * operate and improve the Sites and our services;
-  * provide the products, services and information you request, process transactions and send you related information, including confirmations and receipts;
-  * send you technical notices, updates, security alerts and support and administrative messages;
-  * respond to your comments and questions and provide customer service;
-  * confirm orders attributable to your account and track the results of invitation referrals;
-  * monitor and analyze trends, usage and activities in connection with the Services;
-  * personalize and improve the Services and provide advertisements, content or features that match your profile and interests;
-  * process and deliver contest entries and rewards;
-  * communicate with you about new products, services, contests, promotions, rewards, special offers, upcoming events and other news about OKL and our selected partners;
-  * link or combine with other information we receive from third parties to help understand your needs and provide you with better service; and
-  * carry out any other purpose for which the information was collected.
+  * To identify you when you visit our websites or our stores.
+  * To provide the products and services you request, or to process returns.
+  * To improve our services and product offerings.
+  * To streamline your checkout process.
+  * To conduct analytics.
+  * To respond to your inquiries related to support, employment opportunities, or other requests.
+  * To send marketing and promotional materials, including information relating to products, services, sales, or promotions.
+  * For internal administrative purposes, as well as to manage our relationship with you.
 
 
 
-OKL may store and process personal information in the United States and in other countries.
+## Sharing of Personal Data.
 
-The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+In addition to the specific situations discussed elsewhere in this policy, we disclose personal information in the following situations:
 
-We may also allow others to serve advertisements on our behalf across the Internet and to provide analytics services.
+  1. **Affiliates and Acquisitions.** We may share your personal information with our corporate affiliates (e.g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control). If another company acquires our company, business, or our assets, we will also share your personal information with that company.
+  2. **Other Disclosures with Your Consent.** We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy.
+  3. **Other Disclosures without Your Consent.** We may disclose personal information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws. We may also share your personal information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies, or to comply with your request for the shipment of products to or the provision of services by a third party intermediary.
+  4. **Public.** Some of our websites provide the opportunity to post comments, or reviews, in a public forum. If you decide to submit information on these pages, that information may be publically available.
+  5. **Partner Promotion.** We may offer contests, sweepstakes, or other promotions with third party partners. If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third party partner the information that you provide will be shared with us and with them. Their use of your information is not governed by this privacy policy.
+  6. **Service Providers.** We may share your personal information with service providers. Among other things service providers may help us to administer our website, conduct surveys, provide technical support, and assist in the fulfillment of orders.
+  7. **Wedding, Baby, and/or Gift Registry.** Some of our websites provide the opportunity to create public registries where you can indicate to others what types of products you might be interested in receiving. We share the information that you provide about your event (e.g., name, date, location, etc.) with the public to permit others to search for that information. In some cases we may provide you with options to restrict the extent to which that information will be shared. We may also share your information with third party wedding and gift registry portal sites. Among other things this provides your guests with additional means of finding your registry and coordinating gifts.
 
-Some of these entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by OKL and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices) and [www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
-We may also work with third parties to serve ads to a customized group of users on other websites or platforms, unless you notify us that you prefer not to have information about you used in this way.
 
-OKL takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+## Your Choices.
 
-## Account Information
+You can make the following choices regarding your Personal Data:
 
-You may update, correct or delete information about you at any time by logging into your online account or sending an email with your request to [customercare@onekingslane.com](mailto:customercare@onekingslane.com). If you wish to deactivate your account, please email us at [customercare@onekingslane.com](mailto:customercare@onekingslane.com), but note that we may retain certain information about you as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+  1. **Promotional Emails.** You may choose to provide us with your email address for the purpose of allowing us to send free newsletters, surveys, offers, and other promotional materials to you, as well as targeted offers from third parties. You can stop receiving promotional emails by following the unsubscribe instructions in e-mails that you receive. Although we will remove your name from our mailing list after receiving your request within the timeframe permitted by law, you may still receive mailings from us that had been initiated prior to your name being removed. If you decide not to receive promotional emails, we may still send you transactional communications, such as those about your account, to fulfill orders you have made, to ask you to rate the product you purchased, or other service-related communications.
+  2. **Promotional Mailings.** If at any time you do not want to receive catalogs and/or other promotional pieces of mail from One Kings Lane you can remove yourself from our mailing lists by emailing us (our contact information is below) with “REMOVE FROM MAILING LIST” in the subject line along with your name, address, and zip code. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed.
+  3. **Changes To Your Personal Information.** We rely on you to update and correct your personal information. Most of our websites allow you to modify your account profile. Note that we may keep historical information in our backup files as permitted by law.
+  4. **Deletion Of Your Personal Data.** Typically we retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law. You may, however, request that we delete your personal information. All requests must be directed to the contact in the “Contact Information” section below. We may also decide to delete your data if we believe that the data is incomplete, inaccurate, or that our continued use and storage are contrary to our obligations to other individuals or third parties. When we delete personal information it will be removed from our active database, but it may remain in archives where it is not practical or possible to delete it. In addition, we may keep your personal information as needed to comply with our legal obligations, resolve disputes, and/or enforce any of our agreements.
+  5. **Revocation Of Consent.** We rely on the processing of personal information that you have provided. If you revoke your consent for the processing of personal information then we may no longer be able to provide you services. In some cases, we may limit or deny your request to revoke consent if the law permits or requires us to do so, or if we are unable to adequately verify your identity.
+  6. **Access To Your Personal Data.** If required by law, upon request, we will grant reasonable access to the personal information that we hold about a user. All requests must be directed to the contact in the “Contact Information” section.
+  7. **Online Tracking.** We do not currently recognize automated browser signals regarding tracking mechanisms, which may include “Do Not Track” instructions.
+  8. **California Residents.** California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing. If you are a California resident and would like a copy of such notice, please submit a written request to us using the information in the “Contact Information” section below.
 
-## Cookies
 
-Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
 
-## Promotional Communications
+## How We Protect Personal Information.
 
-You may opt out of receiving promotional communications from OKL at any time by following the instructions in those messages or by contacting [customercare@onekingslane.com](mailto:customercare@onekingslane.com). If you opt out, we may still send you non-promotional communications, such as emails about your account and our ongoing business relations. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request.
+No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information. In the event that we are required by law to inform you of any unauthorized access to your personal information we may notify you electronically, in writing, or by telephone, if permitted to do so by law.
 
-## Push Notifications/Alerts
+Some of our websites permit you to create an account. When you do you will be prompted to create a password. You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else that has obtained your password, whether or not such access or use has been authorized by you. You should notify us of any unauthorized use of your password or account.
 
-With your consent, we may send push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+## Miscellaneous.
 
-## Your California Privacy Rights
+The following additional information relates to our privacy practices:
 
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please write to One Kings Lane, Attn: Legal, 315 Hudson Street, 8th Floor, New York, NY 10013.
+  * **Transmission Of Data To Other Countries.** If you are a Customer located outside the United States, please be aware that your personal information may be processed in the United States, where privacy laws may be less stringent than the laws in your country. By submitting your personal information to us you agree to the transfer, storage, and processing of your information in the United States.
+  * **Third Party Applications/Websites.** We have no control over the privacy practices of websites or applications that we do not own.
+  * **Contact Information.** If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below. We will attempt, where practical, to respond to your requests and to provide you with additional privacy-related information. 
 
-If you have any questions about this Privacy Policy, please contact us at:
-
+[customercare@onekingslane.com](mailto:customercare@onekingslane.com)  
 One Kings Lane  
-315 Hudson Street  
-8th Floor  
-New York, NY  
-10013  
-[info@onekingslane.com](mailto:info@onekingslane.com)  
-TOLL-FREE 855-746-7655 (855-SHOP-OKL)
+Attn: Customer Service – Privacy  
+315 Hudson Street, 8th Floor  
+New York, NY 10013 
+
+  * **Changes To This Privacy Policy.** We may change our privacy policy and practices over time. To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information.
+
+
