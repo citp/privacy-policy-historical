@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadestreet.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229141947id_/http%3A//www.arcadestreet.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadestreet.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618155322id_/http%3A//www.arcadestreet.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - ArcadeStreet.com
 
@@ -28,9 +28,9 @@ To learn more about ValueClick, go to http://www.valueclick.com/privacy.html.
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.   
   
-Welcome to ArcadeStreet.com - Your one and only source for **[free games](http://arcadestreet.com/)**. We have over 3,000 **free online games** and we consistently bring you new **games** as soon   
+Welcome to ArcadeStreet.com - Your one and only source for **[free games](http://www.arcadestreet.com/)**. We have over 3,000 **free online games** and we consistently bring you new **games** as soon   
 as they come out. Our selection of **online games** includes action, arcade, [dress up games](http://www.dressandplay.com/), racing, shooting, strategy and puzzle games. 
 
-We also feature a **[free games](http://arcadestreet.com/)** such as Mario and Sonic which you may embed in your own website.
+We also feature a **[free games](http://www.arcadestreet.com/)** such as Mario and Sonic which you may embed in your own website.
 
 You may contact us by sending us an e-mail to support[at]arcadestreet.com 
