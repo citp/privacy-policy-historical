@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viewlorium.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110071449id_/http%3A//viewlorium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewlorium.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618120720id_/http%3A//viewlorium.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ViewLorium
+# Privacy Policy for Online Movies | ViewLorium
 
 #### Flashback Privacy Policy
 
