@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chillingeffects.org privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904154244id_/https%3A//lumendatabase.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chillingeffects.org privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618021759id_/https%3A//www.lumendatabase.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy :: Lumen
 
