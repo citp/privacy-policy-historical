@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowebook.org privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123101610id_/http%3A//www.wowebook.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowebook.org privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618080249id_/http%3A//www.wowebook.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • WOW! eBook
 
@@ -12,11 +12,11 @@ While using our Site, we may ask you to provide us with certain personally ident
 
 **Log Data**
 
-Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”).
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may be collected for the purpose of Interest-Based Advertising.
 
-This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+This Log Data that is collected from users for the purpose of Interest-Based Advertising may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze the traffic sources of our site.
+In addition, the collected data will be transferred third parties and services such as Google Analytics for the purposes to collect, monitor and analyze the traffic sources of our site and also for the purposes of Interest-Based Advertising.
 
 **Communications**
 
@@ -42,4 +42,4 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us via  **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#7910171f16390e160e1c1b16161257160b1e)**
+If you have any questions about this Privacy Policy, please contact us via  **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#157c7b737a55627a6270777a7a7e3b7a6772)**
