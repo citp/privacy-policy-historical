@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unfriendtracker.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029070533id_/http%3A//www.unfriendtracker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfriendtracker.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618174159id_/http%3A//www.unfriendtracker.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-UnfriendTracker's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using UnfriendTracker, located at www.unfriendtracker.com and its directly associated domains (collectively, "UnfriendTracker" or "Website"). By using or accessing UnfriendTracker, you are accepting the practices described in this Privacy Policy. 
+UnfriendTracker's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using UnfriendTracker, located at www.unfriendtracker.me and its directly associated domains (collectively, "UnfriendTracker" or "Website"). By using or accessing UnfriendTracker, you are accepting the practices described in this Privacy Policy. 
 
 1\. The Information We Collect
 
@@ -72,4 +72,4 @@ Your use of UnfriendTracker, and any disputes arising from it, is subject to thi
 
 Contacting the Web Site
 
-If you have any questions about this privacy policy, please visit our [contact page](https://web.archive.org/contact). You may also contact us by mail at 5400 Glenridge Drive, #420813, Atlanta, Ga. 30342. 
+If you have any questions about this privacy policy, please visit our [contact page](https://web.archive.org/contact). You may also contact us by mail at 5400 Glenridge Drive, #420962, Atlanta, 30342. 
