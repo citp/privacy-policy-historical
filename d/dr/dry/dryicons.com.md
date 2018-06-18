@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dryicons.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228051548id_/http%3A//dryicons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dryicons.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618181826id_/http%3A//dryicons.com/privacy) for the most accurate reproduction.*
 
 # DryIcons.com — Icons and Vector Graphics
 
@@ -24,4 +24,4 @@ We reserve the right to modify our Privacy Policy at any time. If we make signif
 
 ## Questions
 
-Any questions you may have about our Privacy Policy should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Any questions you may have about our Privacy Policy should be addressed to contact@dryicons.com 
