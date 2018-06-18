@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetimes.co.za privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231140639id_/https%3A//www.timeslive.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimes.co.za privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618024745id_/https%3A//www.timeslive.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-We are committed to protecting your privacy. We promise to use your personal information only in ways that are compatible with this privacy policy, which is in effect for the web pages, newsletters, applications and opt-in announcement lists owned and operated by Tiso Blackstar Group’s TimesLIVE website, which includes the Sunday Times website and the TshisaLIVE web page.
+We are committed to protecting your privacy. We promise to use your personal information only in ways that are compatible with this privacy policy, which is in effect for the web pages, newsletters, applications and opt-in announcement lists owned and operated by Tiso Blackstar Group’s TimesLIVE website, which includes the [Sunday Times](http://www.timeslive.co.za/sundaytimes/) and Times Select websites and the [TshisaLIVE](https://www.timeslive.co.za/tshisa-live/tshisa-live/) web page.
 
 ### What information do you collect and how are you collecting it?
 
