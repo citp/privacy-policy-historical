@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kjrocker.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214132251id_/http%3A//www.kjrocker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kjrocker.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618031526id_/http%3A//www.kjrocker.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,3 +62,28 @@ Kj Rocker F.Z.E
 SM-Office - H1-115B Ajman Free Zone authority , Ajman,UAE  
 042 737274  
 contact@kjrocker.com
+
+## Rights to Your Information According to GDPR
+
+GDPR stands for the General Data Protection Regulation (EU) 2016/679, which is a European Union law governing privacy and data protection for all residents of the EU. The provisions of GDPR can be also applied to how data is processed and verified (more on that later) outside the European Union.
+
+Generally speaking, the GDPR represents a new set of rules intended to empower the citizens of the European Union to control their personal information. In accordance with the applicable laws, users are authorized to access and modify their own data held by the companies, which includes data collection, ad tracking, surveys, cookies, location data, and every other bit of a user’s “digital footprint”. Users are also entitled to transmit their personal details to other organizations. The GDPR also enforces companies to determine their in-house data security policies.
+
+At any time through the web interface provided as part of the Services or via [contact us](https://www.kjrocker.com/contact/) page you have the right:
+
+  * to access your personal information that we hold;
+  * to request the rectification of your personal information that we hold;
+  * to request the erasure of your personal information that we hold;
+  * to request to restrict processing of your personal information;
+  * to object to processing of your personal information by us;
+  * to request to transfer your personal information that we hold (e.g. data portability);
+  * to file a complaint to a supervisory authority in your jurisdiction; and
+  * to withdraw any consent related to your personal information given by you.
+
+
+
+We will process your requests to us within 30 days. We will also notify you within and a relevant supervisory authority within 72 hours from a breach related to your personal information that we hold.
+
+We have assigned a Data Protection Officer (DPO) who may be reached via dpo@kjrocker.com. Our DPO is tasked with ensuring that we acknowledge and abide by our data protection responsibilities.
+
+We will not store personal information for more than 6 months from the date of your last active session on the Site or for more than 6 months from the date of termination of an agreement between Kjrocker and you (whichever is earlier).
