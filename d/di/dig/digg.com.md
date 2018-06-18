@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231184558id_/https%3A//digg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618203650id_/http%3A//digg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Digg
 
+**Updated:** May 24, 2018.
+
 You care about how your personal information is used and shared. Digg takes your privacy very seriously. Please read the following to learn more about the privacy policies of Digg.
 
-News.me is the company that operates the various Digg sites, apps, services, content, features, and related products, such as the Digg homepage, Digg Video, Digg Reader, the Daily Digg, Digg Dialog, and Digg’s mobile applications. Collectively, in this document, we’ll refer to the suite of Digg products and services as “Digg”.
+Digg Holdings, LLC is the company that operates the various Digg sites, apps, services, content, features, and related products, such as the Digg homepage, Digg Video, Digg Reader, the Daily Digg, Digg Dialog, and Digg’s mobile applications. Collectively, in this document, we’ll refer to the suite of Digg products and services as “Digg”.
 
-This Privacy Policy describes the policies and procedures of News.me Inc. on the collection, use and disclosure of your information on Digg. In connection with your use of Digg, we receive information about you from various sources, including: (i) through your Digg user account (your "Account"); (ii) your use of Digg generally; and (iii) from third party websites and services. When you use Digg, you are consenting to the collection, transfer, manipulation, storage, transmission, disclosure and other uses of your information as described in this Privacy Policy. In this document, we’ll refer to the information associated with your use of Digg as “Usage Data”.
+This Privacy Policy describes the policies and procedures of Digg Holdings, LLC on the collection, use and disclosure of your information on Digg. In connection with your use of Digg, we receive information about you from various sources, including: (i) through your Digg user account (your "Account"); (ii) your use of Digg generally; and (iii) from third party websites and services. When you use Digg, you are consenting to the collection, transfer, manipulation, storage, transmission, disclosure and other uses of your information as described in this Privacy Policy. In this document, we’ll refer to the information associated with your use of Digg as “Usage Data”.
 
 ##### What Does This Privacy Policy Cover?
 
 This Privacy Policy covers the treatment of personally identifiable information ("Personal Information") we gather when you are using or accessing Digg. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners.
 
-This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third-party websites, content sources, services and applications ("Third Party Services") that you choose to access through Digg, or to individuals that we do not manage or employ. Basically, our Privacy Policy applies to the thing we control; others’ privacy policies apply to the things they control.
+This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third-party websites, content sources, services and applications ("Third Party Services") that you choose to access through Digg, or to individuals that we do not manage or employ. Basically, our Privacy Policy applies to the things we control; others’ privacy policies apply to the things they control.
 
 While we endeavor to facilitate access only to Third Party Services that share our respect for your privacy, we can’t, and don’t, take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access via Digg.
 
@@ -138,6 +140,14 @@ Regardless of whether you decide to receive the above mentioned email alerts, yo
 
 We may receive a confirmation when you open an email from us. We use this confirmation to improve email deliverability and/or our customer service. You may wish to read the [policy for use of cookies and other technologies](http://www.sailthru.com/legal/#cookies) used by Sailthru, our email provider. If you do not wish to receive emails from Digg, you may unsubscribe from individual email communications through your settings page, or click the unsubscribe link in any email to cease all further email correspondence from Digg.
 
+###### Use of the Service and Transfer of Information Outside the United States:
+
+The Services are hosted and operated in the United States and elsewhere by us and our authorized Third Party Services. Use of the Services is governed by United States law. If you are accessing our Services while you are domiciled outside of the United States, laws in the United States may differ from laws where you reside, which may include but not be limited to the European Union’s General Data Protection Regulation (“GDPR”).
+
+You acknowledge that the Personal Information you are providing us may be collected and stored in the United States and elsewhere and therefore consent to the transfer of information to and storage of the information outside of your domiciled country and in the United States.
+
+If you are covered by the GDPR, please note the following: You may access, correct or update certain Personally Information as described under “What Information Is Collected by Digg?” above. You may remove cookies. To request deletion, withdraw consent to use of or request other restrictions on your Personally Information, you may contact us as described under "What If I Have Questions or Concerns?" below. Please note that withdrawing your consent will not affect the legality of any processing conducted prior to your withdrawal or at any time on grounds other than consent. If you need further assistance, please contact us as described under "What If I Have Questions or Concerns?" below.
+
 ##### Is Information About Me Secure?
 
 Your Account information (including your Twitter, Facebook, Google or other third-party logins) is protected for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your passwords appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
@@ -168,4 +178,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 If you have any questions or concerns regarding privacy using Digg, please send us a detailed message to: [support@digg.com](mailto:support@digg.com). We will make every effort to resolve your concerns.
 
-**Effective Date:** October 9, 2015.
+\- END -
