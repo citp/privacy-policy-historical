@@ -1,13 +1,324 @@
-<!--The following is the downloaded HTML source of the payentry.com privacy policy that was archived on 2017-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171221075627id_/http%3A//info.payentry.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the payentry.com privacy policy that was archived on 2018-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180618101920id_/http%3A//info.payentry.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" itemscope="" itemtype="http://schema.org/Article" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]--><head>
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-		<link rel="profile" href="http://gmpg.org/xfn/11">
+	    <meta name="theme-color" content="#1087e5">	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="http://info.payentry.com/xmlrpc.php">
-	<title>Privacy | Payentry</title>
-<script type="text/javascript" async="" src="http://info.payentry.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+            <script type="text/javascript" async="" src="http://info.payentry.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+            var originalAddEventListener, oldWidth;
+
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                originalAddEventListener = EventTarget.prototype.addEventListener;
+                oldWidth = window.innerWidth;
+
+                EventTarget.prototype.addEventListener = function (eventName, eventHandler) {
+                    if (eventName === "resize" && oldWidth === window.innerWidth) {
+                        return;
+                    }
+                    else if (eventName === "resize" && oldWidth !== window.innerWidth) {
+                        oldWidth = window.innerWidth;
+                    }
+                    originalAddEventListener.call(this, eventName, eventHandler);
+                };
+            }
+        </script>
+		<title>Privacy | Payentry</title>
+	
+	<style>
+		.wpcf7-submit{
+			display:none;
+		}
+		.recaptcha-btn{
+			display:block;
+		}
+		.grecaptcha-badge {display: none;} 		
+	</style>
+	<script type="text/javascript">
+		var contactform = {};
+		
+		var renderGoogleInvisibleRecaptcha = function() {
+			//jQuery(document).ready(function(){
+				
+				// prevent form submit from enter key
+				jQuery("input[name=_wpcf7]").attr("class","formid");
+					jQuery('.wpcf7-form').on('keyup keypress', "input", function(e) {
+					  var keyCode = e.keyCode || e.which;
+					  if (keyCode === 13) { 
+						e.preventDefault();
+						return false;
+					  }
+					});
+			
+				jQuery('.wpcf7-submit').each(function(index){
+					
+					var checkexclude = 0;
+					var form = jQuery(this).closest('.wpcf7-form');
+					var value = jQuery(form).find(".formid").val();
+					// check form exclude from invisible recaptcha
+										if(checkexclude == 0){
+						var ajax_nonce = "4bf53df1a3";
+						var ajaxurl = "http://info.payentry.com/wp-admin/admin-ajax.php";
+						// Call ajax for get contact form messages
+						jQuery.ajax({
+							url: ajaxurl, 
+							type: 'POST',
+							data: {'postId':value,'action':"vsz_cf7_contact_message","ajax_nonce":ajax_nonce},
+							success: function(data){
+								var contacid = value;
+								contactform[contacid] = JSON.parse(data);	
+							}
+						});
+						// Hide the form orig submit button
+						form.find('.wpcf7-submit').hide();
+
+						// Fetch class and value of orig submit button
+						btnClasses = form.find('.wpcf7-submit').attr('class');
+						btnValue = form.find('.wpcf7-submit').attr('value');
+
+						// Add custom button and recaptcha holder
+						
+						form.find('.wpcf7-submit').after('<input type="button" id="wpcf-custom-btn-'+index+'" class="'+btnClasses+'  recaptcha-btn recaptcha-btn-type-css" value="'+btnValue+'" title="'+btnValue+'" >');
+						form.append('<div class="recaptcha-holder" id="recaptcha-holder-'+index+'"></div>');
+						// Recaptcha rendenr from here
+						var holderId = grecaptcha.render('recaptcha-holder-'+index,{
+									'sitekey':'6LeqlSQUAAAAAEZpXfAY3fuE63xkvGtk8JZf1Zpk',
+									'size': 'invisible',
+									'badge' : 'bottomright', // possible values: bottomright, bottomleft, inline
+									'callback' : function (recaptchaToken) {
+										//console.log(recaptchaToken);
+										var response=jQuery('#recaptcha-holder-'+index).find('.g-recaptcha-response').val();
+										//console.log(response);
+										//Remove old response and store new respone 
+										jQuery('#recaptcha-holder-'+index).parent().find(".respose_post").remove();
+										jQuery('#recaptcha-holder-'+index).after('<input type="hidden" name="g-recaptcha-response"  value="'+response+'" class="respose_post">')
+										grecaptcha.reset(holderId);
+										
+										if(typeof customCF7Validator !== 'undefined'){
+											if(!customCF7Validator(form)){
+												return;
+											}
+										}
+										// Call default Validator function
+										else if(contactFormDefaultValidator(form)){
+											return;
+										}
+										else{
+											// hide the custom button and show orig submit button again and submit the form
+											jQuery('#wpcf-custom-btn-'+index).hide();
+											form.find('input[type=submit]').show();
+											form.find("input[type=submit]").click();
+											form.find('input[type=submit]').hide();
+											jQuery('#wpcf-custom-btn-'+index).attr('style','');
+										}
+									}
+							},false);
+							
+						// action call when click on custom button
+						jQuery('#wpcf-custom-btn-'+index).click(function(event){
+							event.preventDefault();
+							// Call custom validator function
+							if(typeof customCF7Validator == 'function'){
+								if(!customCF7Validator(form)){
+									return false;
+								}
+							}
+							// Call default Validator function
+							else if(contactFormDefaultValidator(form)){
+								return false;
+							}
+							else if(grecaptcha.getResponse(holderId) != ''){
+								grecaptcha.reset(holderId);
+							}
+							else{
+								// execute the recaptcha challenge
+								grecaptcha.execute(holderId);
+							}
+						});
+					}
+					
+				});
+			//});		
+				
+		};
+		// Default validator function
+		function contactFormDefaultValidator(objForm){
+			var formid=jQuery(objForm).find(".formid").val();
+			var havingError = false;
+			// Fetch each validation field one by one
+			objForm.find('.wpcf7-validates-as-required').each(function(){
+				jQuery(this).parent().find('.wpcf7-not-valid-tip').remove();
+				// Check if empty or checkbox checked or not
+				if(!jQuery(this).hasClass('wpcf7-checkbox')){
+					if(!jQuery(this).val()){
+						jQuery(this).val('');
+						jQuery(this).parent().find('.wpcf7-not-valid-tip').remove();
+						jQuery(this).after('<span class="wpcf7-not-valid-tip" role="alert">'+contactform[formid]['invalid_required']+'</span>');
+						havingError = true;
+					}
+					// Check if not valid email address entered
+					else{			
+						if(jQuery(this).attr('class').indexOf("wpcf7-validates-as-email") >= 0){
+							var emailField = jQuery(this).val();
+							if(!validateCustomFormEmail(emailField)){
+								jQuery(this).parent().find('.wpcf7-not-valid-tip').remove();
+								jQuery(this).after('<span role="alert" class="wpcf7-not-valid-tip">'+contactform[formid]['invalid_email']+'</span>');
+								havingError = true;
+							}
+						}
+						// Check if not valid url entered
+						else if(jQuery(this).attr('class').indexOf("wpcf7-validates-as-url") >= 0){
+							var urlField = jQuery(this).val();
+							if(!validateCustomFormurl(urlField)){
+								jQuery(this).parent().find('.wpcf7-not-valid-tip').remove();
+								jQuery(this).after('<span role="alert" class="wpcf7-not-valid-tip">'+contactform[formid]['invalid_url']+'</span>');
+								havingError = true;
+							}
+						}
+						// Check if not valid telephone entered
+						else if(jQuery(this).attr('class').indexOf("wpcf7-validates-as-tel") >= 0){
+							var telField = jQuery(this).val();
+							if(!validateCustomFormtel(telField)){
+								jQuery(this).parent().find('.wpcf7-not-valid-tip').remove();
+								jQuery(this).after('<span role="alert" class="wpcf7-not-valid-tip">'+contactform[formid]['invalid_tel']+'</span>');
+								havingError = true;
+							}
+						}
+						// Check if not valid number entered
+						else if(jQuery(this).attr('class').indexOf("wpcf7-validates-as-number") >= 0){
+							var numField = jQuery(this).val();
+							var min = jQuery(this).attr('min');
+							var max = jQuery(this).attr('max');
+							var testnum = validateCustomFormnum(numField,min,max);
+							if(testnum != 0){
+								jQuery(this).parent().find('.wpcf7-not-valid-tip').remove();
+								if(testnum ==1){
+									jQuery(this).after('<span role="alert" class="wpcf7-not-valid-tip">'+contactform[formid]['invalid_number']+'</span>');
+								}
+								if(testnum ==2){
+									jQuery(this).after('<span role="alert" class="wpcf7-not-valid-tip">'+contactform[formid]['invalid_too_long']+'</span>');
+								}
+								if(testnum ==3){
+									jQuery(this).after('<span role="alert" class="wpcf7-not-valid-tip">'+contactform[formid]['invalid_too_short']+'</span>');
+								}
+								havingError = true;
+							}
+						}
+						// Check if not valid date entered
+						else if(jQuery(this).attr('class').indexOf("wpcf7-validates-as-date") >= 0){
+							var date = jQuery(this).val();
+							if(!validateCustomFordate(date)){
+								jQuery(this).parent().find('.wpcf7-not-valid-tip').remove();
+								jQuery(this).after('<span role="alert" class="wpcf7-not-valid-tip">'+contactform[formid]['invalid_date']+'</span>');
+								havingError = true;
+							}
+						}
+					}
+				}
+				else{
+					var checkselected = 0; 
+					jQuery(this).find('input').each(function(){
+						if(jQuery(this).prop('checked') == true){
+							checkselected++;
+						}
+					});
+					if(checkselected == 0){
+						jQuery(this).parent().find('.wpcf7-not-valid-tip').remove();
+						jQuery(this).after('<span class="wpcf7-not-valid-tip" role="alert">'+contactform[formid]['invalid_required']+'</span>');
+						havingError = true;
+					}
+				}
+			});
+			//for acceptance validation 
+			if(jQuery(objForm).find('.wpcf7-acceptance').length > 0){
+				if(jQuery(objForm).find('.wpcf7-acceptance').hasClass('wpcf7-invert')){
+					if(jQuery(objForm).find('.wpcf7-acceptance').prop('checked') == true){
+						jQuery(objForm).find('.wpcf7-acceptance').parent().find('.wpcf7-not-valid-tip').remove();
+						jQuery(objForm).find('.wpcf7-acceptance').after('<span class="wpcf7-not-valid-tip" role="alert">'+contactform[formid]['accept_terms']+'</span>');
+						havingError = true;
+					}
+					else{
+						jQuery(objForm).find('.wpcf7-acceptance').parent().find('.wpcf7-not-valid-tip').remove();
+					}
+				}
+				else{
+					if(jQuery(objForm).find('.wpcf7-acceptance').prop('checked') == false){
+						jQuery(objForm).find('.wpcf7-acceptance').parent().find('.wpcf7-not-valid-tip').remove();
+						jQuery(objForm).find('.wpcf7-acceptance').after('<span class="wpcf7-not-valid-tip" role="alert">'+contactform[formid]['accept_terms']+'</span>');
+						havingError = true;
+					}
+					else{
+						jQuery(objForm).find('.wpcf7-acceptance').parent().find('.wpcf7-not-valid-tip').remove();
+					}
+				}
+			}		
+		
+			return havingError;
+		}
+		//email validation function
+		function validateCustomFormEmail(email) {
+			var expr = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,10}|[0-9]{1,3})(\]?)$/;
+			return expr.test(email);
+		}
+		//url validation function
+		function validateCustomFormurl(url) {
+			if(url){
+				return true;		
+			}
+			else{
+				return false;
+			}
+		}
+		//telephone validation function
+		function validateCustomFormtel(number){
+			var phoneno = /[a-zA-Z]/;  
+			if(number.match(phoneno)) {  
+				return false;  
+			}  
+			else {  
+				return true;  
+			}  
+		}
+		//number filed validation function
+		function validateCustomFormnum(number,min,max){
+			if (isNaN(number) ) {
+				return 1;
+			}
+			else {
+				if(min){
+					if(number < min){
+						return 3;
+					}				
+				}
+				if(max){
+					if(number > max){
+						return 2;
+					}				
+				}
+				return 0;
+			}
+		}
+		//date filed validation function
+		function validateCustomFordate(input) {
+			var status = false;
+			if (!input || input.length <= 0) {
+			  status = false;
+			} 
+			else {
+			  var result = new Date(input);
+			  if (result == 'Invalid Date') {
+				status = false;
+			  } 
+			  else {
+				status = true;
+			  }
+			}
+			return status;		
+		}
+		
+	</script>
+	<script src="https://www.google.com/recaptcha/api.js?onload=renderGoogleInvisibleRecaptcha&amp;render=explicit" async="" defer=""></script><script type="text/javascript">
 function createCookie(a,d,b){if(b){var c=new Date;c.setTime(c.getTime()+864E5*b);b="; expires="+c.toGMTString()}else b="";document.cookie=a+"="+d+b+"; path=/"}function readCookie(a){a+="=";for(var d=document.cookie.split(";"),b=0;b<d.length;b++){for(var c=d[b];" "==c.charAt(0);)c=c.substring(1,c.length);if(0==c.indexOf(a))return c.substring(a.length,c.length)}return null}function eraseCookie(a){createCookie(a,"",-1)}
 function areCookiesEnabled(){var a=!1;createCookie("testing","Hello",1);null!=readCookie("testing")&&(a=!0,eraseCookie("testing"));return a}(function(a){var d=readCookie("devicePixelRatio"),b=void 0===a.devicePixelRatio?1:a.devicePixelRatio;areCookiesEnabled()&&null==d&&(createCookie("devicePixelRatio",b,7),1!=b&&a.location.reload(!0))})(window);
 </script><meta property="og:locale" content="en_US">
@@ -16,7 +327,7 @@ function areCookiesEnabled(){var a=!1;createCookie("testing","Hello",1);null!=re
 <meta property="og:url" content="http://info.payentry.com/privacy/">
 <meta property="og:site_name" content="Payentry">
 
-<!-- All in One SEO Pack 2.3.16 by Michael Torbert of Semper Fi Web Design[678,709] -->
+<!-- All in One SEO Pack 2.5 by Michael Torbert of Semper Fi Web Design[1405,1436] -->
 <link rel="canonical" href="http://info.payentry.com/privacy/">
 <meta property="og:title" content="Privacy | Payentry">
 <meta property="og:type" content="article">
@@ -31,15 +342,22 @@ function areCookiesEnabled(){var a=!1;createCookie("testing","Hello",1);null!=re
 <meta itemprop="image" content="http://info.payentry.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png">
 <!-- /all in one seo pack -->
 <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
-<link rel="dns-prefetch" href="//www.google.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//apis.google.com">
+<link rel="dns-prefetch" href="//google-analytics.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//ssl.google-analytics.com">
+<link rel="dns-prefetch" href="//youtube.com">
+<link rel="dns-prefetch" href="//s.gravatar.com">
 <link rel="alternate" type="application/rss+xml" title="Payentry » Feed" href="http://info.payentry.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Payentry » Comments Feed" href="http://info.payentry.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/info.payentry.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://info.payentry.com/wp-includes/js/wp-emoji-release.min.js?ver=4.8.2" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/info.payentry.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://info.payentry.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.5" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -54,37 +372,63 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="layerslider-css" href="http://info.payentry.com/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.6.9" type="text/css" media="all">
+<link rel="stylesheet" id="ai1ec_style-css" href="//info.payentry.com/wp-content/plugins/all-in-one-event-calendar/public/themes-ai1ec/vortex/css/ai1ec_parsed_css.css?ver=2.5.30" type="text/css" media="all">
+<link rel="stylesheet" id="layerslider-css" href="http://info.payentry.com/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.7.1" type="text/css" media="all">
 <link rel="stylesheet" id="ls-google-fonts-css" href="http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&amp;subset=latin%2Clatin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://info.payentry.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://info.payentry.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-css" href="http://info.payentry.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox.min.css?ver=1.3.9" type="text/css" media="screen">
 <link rel="stylesheet" id="go-pricing-styles-css" href="http://info.payentry.com/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css?ver=3.3.7" type="text/css" media="all">
 <link rel="stylesheet" id="tp_twitter_plugin_css-css" href="http://info.payentry.com/wp-content/plugins/recent-tweets-widget/tp_twitter_plugin.css?ver=1.0" type="text/css" media="screen">
-<link rel="stylesheet" id="rs-plugin-settings-css" href="http://info.payentry.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://info.payentry.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.6.3.1" type="text/css" media="all">
 <style id="rs-plugin-settings-inline-css" type="text/css">
 #rs-demo-id {}
 </style>
-<link rel="stylesheet" id="wth-frontend.css-css" href="http://info.payentry.com/wp-content/plugins/was-this-helpful/assets/css/wth-frontend.css?ver=4.8.2" type="text/css" media="all">
-<link rel="stylesheet" id="videolinkstyle-css" href="http://info.payentry.com/wp-content/plugins/vc-video-link-media-grid-item//style.css?ver=4.8.2" type="text/css" media="all">
-<link rel="stylesheet" id="parent-theme-css" href="http://info.payentry.com/wp-content/themes/dt-the7/style.css?ver=4.8.2" type="text/css" media="all">
-<link rel="stylesheet" id="easy-social-share-buttons-css" href="http://info.payentry.com/wp-content/plugins/easy-social-share-buttons3/assets/css/easy-social-share-buttons.min.css?ver=5.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="js_composer_front-css" href="http://info.payentry.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.2.1" type="text/css" media="all">
-<link rel="stylesheet" id="js_composer_custom_css-css" href="//info.payentry.com/wp-content/uploads/js_composer/custom.css?ver=5.2.1" type="text/css" media="all">
-<link rel="stylesheet" id="dt-web-fonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%7CRoboto%3A400%2C500%2C600%2C700&amp;ver=4.8.2" type="text/css" media="all">
-<link rel="stylesheet" id="dt-main-css" href="http://info.payentry.com/wp-content/themes/dt-the7/css/main.min.css?ver=5.5.0.1" type="text/css" media="all">
-<!--[if lt IE 10]>
-<link rel='stylesheet' id='dt-old-ie-css'  href='http://info.payentry.com/wp-content/themes/dt-the7/css/old-ie.min.css?ver=5.5.0.1' type='text/css' media='all' />
-<![endif]-->
-<link rel="stylesheet" id="dt-awsome-fonts-css" href="http://info.payentry.com/wp-content/themes/dt-the7/fonts/FontAwesome/css/font-awesome.min.css?ver=5.5.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="dt-fontello-css" href="http://info.payentry.com/wp-content/themes/dt-the7/fonts/fontello/css/fontello.min.css?ver=5.5.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="dt-arrow-icons-css" href="http://info.payentry.com/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/style.min.css?ver=5.5.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="videolinkstyle-css" href="http://info.payentry.com/wp-content/plugins/vc-video-link-media-grid-item//style.css?ver=4.9.5" type="text/css" media="all">
+<link rel="stylesheet" id="parent-theme-css" href="http://info.payentry.com/wp-content/themes/dt-the7/style.css?ver=4.9.5" type="text/css" media="all">
+<link rel="stylesheet" id="easy-social-share-buttons-css" href="http://info.payentry.com/wp-content/plugins/easy-social-share-buttons3/assets/css/easy-social-share-buttons.min.css?ver=5.4" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="http://info.payentry.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.5" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_custom_css-css" href="//info.payentry.com/wp-content/uploads/js_composer/custom.css?ver=5.4.5" type="text/css" media="all">
+<link rel="stylesheet" id="dt-web-fonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%7CRoboto%3A400%2C500%2C600%2C700&amp;ver=4.9.5" type="text/css" media="all">
+<link rel="stylesheet" id="dt-main-css" href="http://info.payentry.com/wp-content/themes/dt-the7/css/main.min.css?ver=6.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="dt-awsome-fonts-css" href="http://info.payentry.com/wp-content/themes/dt-the7/fonts/FontAwesome/css/fontawesome-all.min.css?ver=6.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="dt-fontello-css" href="http://info.payentry.com/wp-content/themes/dt-the7/fonts/fontello/css/fontello.min.css?ver=6.4.0" type="text/css" media="all">
 <link rel="stylesheet" id="the7pt-static-css" href="http://info.payentry.com/wp-content/themes/dt-the7/css/post-type.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="dt-custom-old-ie-css" href="http://info.payentry.com/wp-content/uploads/the7-css/custom-old-ie.css?ver=4cc200ac1b30" type="text/css" media="all">
-<link rel="stylesheet" id="dt-custom-css" href="http://info.payentry.com/wp-content/uploads/the7-css/custom.css?ver=4cc200ac1b30" type="text/css" media="all">
-<link rel="stylesheet" id="dt-media-css" href="http://info.payentry.com/wp-content/uploads/the7-css/media.css?ver=4cc200ac1b30" type="text/css" media="all">
-<link rel="stylesheet" id="dt-legacy-css" href="http://info.payentry.com/wp-content/uploads/the7-css/legacy.css?ver=4cc200ac1b30" type="text/css" media="all">
-<link rel="stylesheet" id="the7pt.less-css" href="http://info.payentry.com/wp-content/uploads/the7-css/post-type-dynamic.css?ver=4cc200ac1b30" type="text/css" media="all">
-<link rel="stylesheet" id="style-css" href="http://info.payentry.com/wp-content/themes/dt-the7-child/style.css?ver=5.5.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="dt-custom-css" href="http://info.payentry.com/wp-content/uploads/the7-css/custom.css?ver=079b2f3d91b9" type="text/css" media="all">
+<link rel="stylesheet" id="dt-media-css" href="http://info.payentry.com/wp-content/uploads/the7-css/media.css?ver=079b2f3d91b9" type="text/css" media="all">
+<link rel="stylesheet" id="dt-legacy-css" href="http://info.payentry.com/wp-content/uploads/the7-css/legacy.css?ver=079b2f3d91b9" type="text/css" media="all">
+<link rel="stylesheet" id="the7pt.less-css" href="http://info.payentry.com/wp-content/uploads/the7-css/post-type-dynamic.css?ver=079b2f3d91b9" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="http://info.payentry.com/wp-content/themes/dt-the7-child/style.css?ver=6.4.0" type="text/css" media="all">
 <style id="style-inline-css" type="text/css">
+/*--- 2 Column Form Styles Start ---*/
+ 
+#left {
+    width: 47%;
+    float: left;
+    margin-right:6%;
+}
+ 
+#right {
+    width: 47%;
+    float: left;
+}
+ 
+.clearfix:after {
+    content:"\0020";
+    display:block;
+    height:0;
+    clear:both;
+    visibility:hidden;
+    overflow:hidden;
+    margin-bottom:0px;
+}
+ 
+.clearfix {
+    display:block;
+}
+ 
+/*--- 2 Column Form Styles End ---*/
+
+
 .menu-button {
     display: inline-block;
     color: #fff;
@@ -144,6 +488,11 @@ width: 100% !Important;
 .single .content .post.format-standard {
   margin-bottom: 2em;
 }
+
+.fa {
+    display: inline-block;
+    font-family: FontAwesome !important;
+}
 @media all and (max-width: 768px) {
   .essb_fullwidth_20_100_100 li {
     width: 100% !important;
@@ -152,12 +501,10 @@ width: 100% !Important;
 
 
 </style>
-<link rel="stylesheet" id="custom-css" href="http://info.payentry.com/wp-content/themes/dt-the7-child/custom.css?version=1.17&amp;ver=4.8.2" type="text/css" media="all">
-<link rel="stylesheet" id="sass-custom-css" href="http://info.payentry.com/wp-content/themes/dt-the7-child/css/style.css?ver=4.8.2" type="text/css" media="all">
-<link rel="stylesheet" id="bsf-Defaults-css" href="http://info.payentry.com/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=4.8.2" type="text/css" media="all">
-<link rel="stylesheet" id="ultimate-style-min-css" href="http://info.payentry.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min.css?ver=3.16.17" type="text/css" media="all">
-<link rel="stylesheet" id="cp-perfect-scroll-style-css" href="http://info.payentry.com/wp-content/plugins/convertplug/admin/assets/css/perfect-scrollbar.min.css?ver=4.8.2" type="text/css" media="all">
-<link rel="stylesheet" id="fancybox-css" href="http://info.payentry.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min.css?ver=1.6" type="text/css" media="screen">
+<link rel="stylesheet" id="custom-mpay-css" href="http://info.payentry.com/wp-content/themes/dt-the7-child/custom.css?version=1.19&amp;ver=4.9.5" type="text/css" media="all">
+<link rel="stylesheet" id="sass-custom-css" href="http://info.payentry.com/wp-content/themes/dt-the7-child/css/style.css?ver=4.9.5" type="text/css" media="all">
+<link rel="stylesheet" id="bsf-Defaults-css" href="http://info.payentry.com/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=4.9.5" type="text/css" media="all">
+<link rel="stylesheet" id="ultimate-style-min-css" href="http://info.payentry.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min.css?ver=3.16.22" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
 var slide_in = {"demo_dir":"http:\/\/info.payentry.com\/wp-content\/plugins\/convertplug\/modules\/slide_in\/assets\/demos"};
@@ -165,47 +512,45 @@ var slide_in = {"demo_dir":"http:\/\/info.payentry.com\/wp-content\/plugins\/con
 </script>
 <script type="text/javascript" src="http://info.payentry.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://info.payentry.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var LS_Meta = {"v":"5.6.9"};
+var LS_Meta = {"v":"6.7.1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.9"></script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.9"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.7.1"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.7.1"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.11.2/TweenMax.min.js"></script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.5.2"></script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.5.2"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.6.3.1"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.6.3.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var dtLocal = {"themeUrl":"http:\/\/info.payentry.com\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"2264","ajaxurl":"http:\/\/info.payentry.com\/wp-admin\/admin-ajax.php","contactNonce":"9a8529f411","contactMessages":{"required":"One or more fields have an error. Please check and try again."},"ajaxNonce":"dc6f69cc93","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#1087e5"},"floatingHeader":{"showAfter":120,"showMenu":true,"height":80,"logo":{"showLogo":true,"html":"<img class=\" preload-me\" src=\"http:\/\/info.payentry.com\/wp-content\/uploads\/2017\/04\/Payentry-40px.png\" srcset=\"http:\/\/info.payentry.com\/wp-content\/uploads\/2017\/04\/Payentry-40px.png 160w, http:\/\/info.payentry.com\/wp-content\/uploads\/2017\/04\/Payentry_retina.png 320w\" width=\"160\" height=\"40\"   sizes=\"160px\" alt=\"Payentry\" \/>","url":"http:\/\/info.payentry.com\/"}},"mobileHeader":{"firstSwitchPoint":780,"secondSwitchPoint":700},"content":{"textColor":"#5f676c","headerColor":"#242e35"},"stripes":{"stripe1":{"textColor":"#f9f9f9","headerColor":"#ffffff"},"stripe2":{"textColor":"#ffffff","headerColor":"#ffffff"},"stripe3":{"textColor":"#ffffff","headerColor":"#ffffff"}}},"VCMobileScreenWidth":"768"};
+var dtLocal = {"themeUrl":"http:\/\/info.payentry.com\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"2264","ajaxurl":"http:\/\/info.payentry.com\/wp-admin\/admin-ajax.php","contactMessages":{"required":"One or more fields have an error. Please check and try again."},"ajaxNonce":"cb8231c31b","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#1087e5"},"desktopHeader":{"height":80},"floatingHeader":{"showAfter":120,"showMenu":true,"height":80,"logo":{"showLogo":true,"html":"<img class=\" preload-me\" src=\"http:\/\/info.payentry.com\/wp-content\/uploads\/2017\/04\/Payentry-40px.png\" srcset=\"http:\/\/info.payentry.com\/wp-content\/uploads\/2017\/04\/Payentry-40px.png 160w, http:\/\/info.payentry.com\/wp-content\/uploads\/2017\/04\/Payentry_retina.png 320w\" width=\"160\" height=\"40\"   sizes=\"160px\" alt=\"Payentry\" \/>","url":"http:\/\/info.payentry.com\/"}},"mobileHeader":{"firstSwitchPoint":780,"secondSwitchPoint":700,"firstSwitchPointHeight":80,"secondSwitchPointHeight":80},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"http:\/\/info.payentry.com\/wp-content\/uploads\/2017\/04\/Payentry-40px.png\" srcset=\"http:\/\/info.payentry.com\/wp-content\/uploads\/2017\/04\/Payentry-40px.png 160w, http:\/\/info.payentry.com\/wp-content\/uploads\/2017\/04\/Payentry_retina.png 320w\" width=\"160\" height=\"40\"   sizes=\"160px\" alt=\"Payentry\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"http:\/\/info.payentry.com\/wp-content\/uploads\/2017\/04\/Payentry-40px.png\" srcset=\"http:\/\/info.payentry.com\/wp-content\/uploads\/2017\/04\/Payentry-40px.png 160w, http:\/\/info.payentry.com\/wp-content\/uploads\/2017\/04\/Payentry_retina.png 320w\" width=\"160\" height=\"40\"   sizes=\"160px\" alt=\"Payentry\" \/>"}},"content":{"textColor":"#5f676c","headerColor":"#242e35"},"stripes":{"stripe1":{"textColor":"#f9f9f9","headerColor":"#ffffff"},"stripe2":{"textColor":"#ffffff","headerColor":"#ffffff"},"stripe3":{"textColor":"#ffffff","headerColor":"#ffffff"}}},"VCMobileScreenWidth":"768"};
 var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Tweet","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp","google":"Share on Google Plus","download":"Download image"},"overlayOpacity":"85"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=5.5.0.1"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=6.4.0"></script>
 <script type="text/javascript" src="http://info.payentry.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate.min.js?ver=3.16.17"></script>
-<meta name="generator" content="Powered by LayerSlider 5.6.9 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.">
-<!-- LayerSlider updates and docs at: https://kreaturamedia.com/layerslider-responsive-wordpress-slider-plugin/ -->
+<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate.min.js?ver=3.16.22"></script>
+<meta name="generator" content="Powered by LayerSlider 6.7.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.">
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
 <link rel="https://api.w.org/" href="http://info.payentry.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://info.payentry.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://info.payentry.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.8.2">
+<meta name="generator" content="WordPress 4.9.5">
 <link rel="shortlink" href="http://info.payentry.com/?p=2264">
 <link rel="alternate" type="application/json+oembed" href="http://info.payentry.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Finfo.payentry.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://info.payentry.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Finfo.payentry.com%2Fprivacy%2F&amp;format=xml">
 <script type="text/javascript">
-var tminusnow = '{"now":"12\/21\/2017 02:56:27"}';
+var tminusnow = '{"now":"6\/18\/2018 06:19:19"}';
 </script><meta property="og:site_name" content="Payentry">
 <meta property="og:title" content="Privacy">
 <meta property="og:url" content="http://info.payentry.com/privacy/">
 <meta property="og:type" content="article">
 
-<script type="text/javascript">var essb_settings = {"ajax_url":"http:\/\/info.payentry.com\/wp-admin\/admin-ajax.php","essb3_nonce":"93c4a28e37","essb3_plugin_url":"http:\/\/info.payentry.com\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":true,"essb3_ga":true,"essb3_ga_mode":"simple","blog_url":"http:\/\/info.payentry.com\/","essb3_postfloat_stay":false,"post_id":2264};</script><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://info.payentry.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.5.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
-<style type="text/css">.grecaptcha-badge {
-  bottom: 120px !important;
-}</style><!-- icon -->
+<script type="text/javascript">var essb_settings = {"ajax_url":"http:\/\/info.payentry.com\/wp-admin\/admin-ajax.php","essb3_nonce":"f7f1cb725c","essb3_plugin_url":"http:\/\/info.payentry.com\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":true,"essb3_ga":true,"essb3_ga_mode":"simple","blog_url":"http:\/\/info.payentry.com\/","essb3_postfloat_stay":false,"post_id":2264};</script><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://info.payentry.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.6.3.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<!-- icon -->
 <link rel="icon" href="http://info.payentry.com/wp-content/uploads/2017/04/Payentry-logo-16px-1.png" type="image/png">
 <link rel="shortcut icon" href="http://info.payentry.com/wp-content/uploads/2017/04/Payentry-logo-16px-1.png" type="image/png">
 <script type="text/javascript">function setREVStartSize(e){
@@ -213,24 +558,6 @@ var tminusnow = '{"now":"12\/21\/2017 02:56:27"}';
 					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
 				}catch(d){console.log("Failure at Presize of Slider:"+d)}
 			};</script>
-
-<!-- Easy FancyBox 1.6 using FancyBox 1.3.8 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var fb_timeout = null;
-var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'showCloseButton' : true, 'width' : 1080, 'height' : 720, 'margin' : 20, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
-var easy_fancybox_handler = function(){
-	/* Inline */
-	jQuery('a.fancybox-inline, area.fancybox-inline, li.fancybox-inline a').fancybox( jQuery.extend({}, fb_opts, { 'type' : 'inline', 'autoDimensions' : true, 'scrolling' : 'no', 'easingIn' : 'easeOutBack', 'easingOut' : 'easeInBack', 'opacity' : false, 'hideOnContentClick' : false }) );
-	/* iFrame */
-	jQuery('a.fancybox-iframe, area.fancybox-iframe, li.fancybox-iframe a').fancybox( jQuery.extend({}, fb_opts, { 'type' : 'iframe', 'width' : '70%', 'height' : '90%', 'titleShow' : false, 'titlePosition' : 'float', 'titleFromAlt' : true, 'allowfullscreen' : false }) );
-}
-var easy_fancybox_auto = function(){
-	/* Auto-click */
-	setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);
-}
-/* ]]> */
-</script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -245,6 +572,21 @@ var easy_fancybox_auto = function(){
   jQuery(function () {
     jQuery('.outbound-link a, a.outbound-link').on('click', function () {
       ga('send', 'event', 'Outbound', 'click', this.href);
+    });
+    jQuery('.get-pricing-button').on('click', function () {
+      var buttonID = jQuery(this).attr('id').replace('default-btn-', '');
+      ga('send', 'event', 'Get Pricing Button', 'click', this.href, buttonID);
+      console.log('pricing button clicked' + buttonID);
+    });
+    jQuery('.get-a-demo-button').on('click', function () {
+      var buttonID = jQuery(this).attr('id').replace('default-btn-', '');
+      ga('send', 'event', 'Get a Demo Button', 'click', this.href, buttonID);
+      console.log('demo button clicked' + buttonID);
+    });
+    jQuery('.benefits-video-button').on('click', function () {
+      var buttonID = jQuery(this).attr('id').replace('default-btn-', '');
+      ga('send', 'event', 'Benefits Video Button', 'click', this.href, buttonID);
+      console.log('benefits video button clicked' + buttonID);
     });
     jQuery('.download-link').on('click', function () {
       ga('send', 'pageview', this.pathname);
@@ -277,13 +619,13 @@ var easy_fancybox_auto = function(){
 .panel-faded {
   min-height: 535px !important;
 }</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1496692709852{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1496691849336{background-position: center;background-repeat: no-repeat;background-size:cover !important;}.vc_custom_1496159983423{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1496329744256{margin-top: 35px !important;margin-bottom: 35px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1496329344918{padding-right: 45px !important;padding-left: 45px !important;}.vc_custom_1496160562700{margin-top: 0px !important;background-color: #043f94 !important;}.vc_custom_1496347471197{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #d01010 !important;}.vc_custom_1495664000057{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1496329317565{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1496329300875{margin-top: 0px !important;border-top-width: 0px !important;padding-top: 0px !important;}.vc_custom_1496329308886{margin-bottom: 0px !important;border-bottom-width: 0px !important;padding-bottom: 0px !important;}.vc_custom_1496182436923{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1480458980683{padding-top: 0px !important;}.vc_custom_1480970145587{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1480970145587{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
-<body class="page-template-default page page-id-2264 image-blur disabled-hover-icons dt-responsive-on srcset-enabled btn-flat custom-btn-color custom-btn-hover-color outlines-bullets light-icons phantom-sticky phantom-shadow-decoration phantom-main-logo-on floating-mobile-menu-icon top-header first-switch-logo-center first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on wpb-js-composer js-comp-ver-5.2.1 vc_responsive">
-<!-- The7 5.5.0.1 -->
+<body class="page-template-default page page-id-2264 image-blur disabled-hover-icons dt-responsive-on srcset-enabled btn-flat custom-btn-color custom-btn-hover-color light-icons phantom-sticky phantom-shadow-decoration phantom-main-logo-on floating-mobile-menu-icon top-header first-switch-logo-center first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style the7-ver-6.4.0 wpb-js-composer js-comp-ver-5.4.5 vc_responsive">
+<!-- The7 6.4.0 -->
 
 <div id="page">
 	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
-<div class="masthead inline-header right dt-parent-menu-clickable" role="banner">
+<div class="masthead inline-header right small-mobile-menu-icon mobile-menu-icon-bg-on dt-parent-menu-clickable" role="banner">
 
 	
 	<header class="header-bar">
@@ -292,36 +634,34 @@ var easy_fancybox_auto = function(){
 					<div id="site-title" class="assistive-text">Payentry</div>
 					<div id="site-description" class="assistive-text">Payroll &amp; Employer Solutions</div>
 					<a href="http://info.payentry.com/"><img class=" preload-me" src="http://info.payentry.com/wp-content/uploads/2017/04/Payentry-40px.png" srcset="http://info.payentry.com/wp-content/uploads/2017/04/Payentry-40px.png 160w, http://info.payentry.com/wp-content/uploads/2017/04/Payentry_retina.png 320w" width="160" height="40" sizes="160px" alt="Payentry"></a>				</div>
-		<ul id="primary-menu" class="main-nav outside-item-remove-margin" role="menu"><li class="next-gen menu-item menu-item-type-post_type menu-item-object-page menu-item-4615 first"><a href="http://info.payentry.com/payentry-next-gen/" data-level="1"><span class="menu-item-text"><span class="menu-text">Payentry Next Gen</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3105 has-children"><a href="#" data-level="1"><span class="menu-item-text"><span class="menu-text">Services</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3604 first"><a href="http://info.payentry.com/talent-management/" data-level="2"><span class="menu-item-text"><span class="menu-text">Talent Management</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4238"><a href="http://info.payentry.com/time-labor/" data-level="2"><span class="menu-item-text"><span class="menu-text">Time &amp; Labor</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2976"><a href="http://info.payentry.com/payroll/" data-level="2"><span class="menu-item-text"><span class="menu-text">Payroll Services</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3582"><a href="http://info.payentry.com/financial-services/" data-level="2"><span class="menu-item-text"><span class="menu-text">Financial Services</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1778"><a href="http://info.payentry.com/hr/" data-level="2"><span class="menu-item-text"><span class="menu-text">Human Resources</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3586"><a href="http://info.payentry.com/employee-services/" data-level="2"><span class="menu-item-text"><span class="menu-text">Employee Services</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4280"><a href="http://info.payentry.com/get-pricing/" data-level="1"><span class="menu-item-text"><span class="menu-text">Get Pricing</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3210 has-children"><a href="/resources" data-level="1"><span class="menu-item-text"><span class="menu-text">Resources</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3285 first"><a href="http://info.payentry.com/feature-updates/" data-level="2"><span class="menu-item-text"><span class="menu-text">Feature Updates</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3209"><a href="http://info.payentry.com/support/" data-level="2"><span class="menu-item-text"><span class="menu-text">Support</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4201"><a href="http://info.payentry.com/video-library/" data-level="2"><span class="menu-item-text"><span class="menu-text">Video Library</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4355"><a href="http://info.payentry.com/about-mpay/" data-level="2"><span class="menu-item-text"><span class="menu-text">About MPAY</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4354"><a href="http://info.payentry.com/careers/" data-level="2"><span class="menu-item-text"><span class="menu-text">Careers</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4361 has-children"><a href="http://info.payentry.com/contact/" data-level="1"><span class="menu-item-text"><span class="menu-text">Contact</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4279 first"><a href="http://info.payentry.com/process/" data-level="2"><span class="menu-item-text"><span class="menu-text">Request a Demo</span></span></a></li> </ul></li> </ul>
+		<ul id="primary-menu" class="main-nav outside-item-remove-margin" role="menu"><li class="next-gen menu-item menu-item-type-post_type menu-item-object-page menu-item-4615 first"><a href="http://info.payentry.com/payentry-next-gen/" data-level="1"><span class="menu-item-text"><span class="menu-text">Payentry Next Gen</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3105 has-children"><a href="#" data-level="1"><span class="menu-item-text"><span class="menu-text">Services</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3604 first"><a href="http://info.payentry.com/talent-management/" data-level="2"><span class="menu-item-text"><span class="menu-text">Talent Management</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4238"><a href="http://info.payentry.com/time-labor/" data-level="2"><span class="menu-item-text"><span class="menu-text">Time &amp; Labor</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2976"><a href="http://info.payentry.com/payroll/" data-level="2"><span class="menu-item-text"><span class="menu-text">Payroll Services</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3582"><a href="http://info.payentry.com/financial-services/" data-level="2"><span class="menu-item-text"><span class="menu-text">Financial Services</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1778"><a href="http://info.payentry.com/hr/" data-level="2"><span class="menu-item-text"><span class="menu-text">Human Resources</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3586"><a href="http://info.payentry.com/employee-services/" data-level="2"><span class="menu-item-text"><span class="menu-text">Employee Services</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6310"><a href="http://info.payentry.com/get-pricing/" data-level="1"><span class="menu-item-text"><span class="menu-text">Get Pricing</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3210 has-children"><a href="/resources" data-level="1"><span class="menu-item-text"><span class="menu-text">Resources</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3209 first"><a href="http://info.payentry.com/support/" data-level="2"><span class="menu-item-text"><span class="menu-text">Support</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4201"><a href="http://info.payentry.com/video-library/" data-level="2"><span class="menu-item-text"><span class="menu-text">Video Library</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3285"><a href="http://info.payentry.com/feature-updates/" data-level="2"><span class="menu-item-text"><span class="menu-text">Feature Updates</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5760"><a href="http://info.payentry.com/blog/" data-level="2"><span class="menu-item-text"><span class="menu-text">Payentry Blog</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4355"><a href="http://info.payentry.com/about-mpay/" data-level="2"><span class="menu-item-text"><span class="menu-text">About MPAY</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5658"><a href="http://info.payentry.com/events-calendar/" data-level="2"><span class="menu-item-text"><span class="menu-text">Events Calendar</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4354"><a href="http://info.payentry.com/careers/" data-level="2"><span class="menu-item-text"><span class="menu-text">Careers</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4361 has-children"><a href="http://info.payentry.com/contact/" data-level="1"><span class="menu-item-text"><span class="menu-text">Contact</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4279 first"><a href="http://info.payentry.com/process/" data-level="2"><span class="menu-item-text"><span class="menu-text">Request a Demo</span></span></a></li> </ul></li> </ul>
 		
 	</header>
 
 </div><div class="dt-close-mobile-menu-icon"><span></span></div>
 <div class="dt-mobile-header">
 	<ul id="mobile-menu" class="mobile-main-nav" role="menu">
-		<li class="next-gen menu-item menu-item-type-post_type menu-item-object-page menu-item-4615 first"><a href="http://info.payentry.com/payentry-next-gen/" data-level="1"><span class="menu-item-text"><span class="menu-text">Payentry Next Gen</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3105 has-children"><a href="#" data-level="1"><span class="menu-item-text"><span class="menu-text">Services</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3604 first"><a href="http://info.payentry.com/talent-management/" data-level="2"><span class="menu-item-text"><span class="menu-text">Talent Management</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4238"><a href="http://info.payentry.com/time-labor/" data-level="2"><span class="menu-item-text"><span class="menu-text">Time &amp; Labor</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2976"><a href="http://info.payentry.com/payroll/" data-level="2"><span class="menu-item-text"><span class="menu-text">Payroll Services</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3582"><a href="http://info.payentry.com/financial-services/" data-level="2"><span class="menu-item-text"><span class="menu-text">Financial Services</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1778"><a href="http://info.payentry.com/hr/" data-level="2"><span class="menu-item-text"><span class="menu-text">Human Resources</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3586"><a href="http://info.payentry.com/employee-services/" data-level="2"><span class="menu-item-text"><span class="menu-text">Employee Services</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4280"><a href="http://info.payentry.com/get-pricing/" data-level="1"><span class="menu-item-text"><span class="menu-text">Get Pricing</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3210 has-children"><a href="/resources" data-level="1"><span class="menu-item-text"><span class="menu-text">Resources</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3285 first"><a href="http://info.payentry.com/feature-updates/" data-level="2"><span class="menu-item-text"><span class="menu-text">Feature Updates</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3209"><a href="http://info.payentry.com/support/" data-level="2"><span class="menu-item-text"><span class="menu-text">Support</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4201"><a href="http://info.payentry.com/video-library/" data-level="2"><span class="menu-item-text"><span class="menu-text">Video Library</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4355"><a href="http://info.payentry.com/about-mpay/" data-level="2"><span class="menu-item-text"><span class="menu-text">About MPAY</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4354"><a href="http://info.payentry.com/careers/" data-level="2"><span class="menu-item-text"><span class="menu-text">Careers</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4361 has-children"><a href="http://info.payentry.com/contact/" data-level="1"><span class="menu-item-text"><span class="menu-text">Contact</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4279 first"><a href="http://info.payentry.com/process/" data-level="2"><span class="menu-item-text"><span class="menu-text">Request a Demo</span></span></a></li> </ul></li> 	</ul>
+		<li class="next-gen menu-item menu-item-type-post_type menu-item-object-page menu-item-4615 first"><a href="http://info.payentry.com/payentry-next-gen/" data-level="1"><span class="menu-item-text"><span class="menu-text">Payentry Next Gen</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3105 has-children"><a href="#" data-level="1"><span class="menu-item-text"><span class="menu-text">Services</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3604 first"><a href="http://info.payentry.com/talent-management/" data-level="2"><span class="menu-item-text"><span class="menu-text">Talent Management</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4238"><a href="http://info.payentry.com/time-labor/" data-level="2"><span class="menu-item-text"><span class="menu-text">Time &amp; Labor</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2976"><a href="http://info.payentry.com/payroll/" data-level="2"><span class="menu-item-text"><span class="menu-text">Payroll Services</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3582"><a href="http://info.payentry.com/financial-services/" data-level="2"><span class="menu-item-text"><span class="menu-text">Financial Services</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1778"><a href="http://info.payentry.com/hr/" data-level="2"><span class="menu-item-text"><span class="menu-text">Human Resources</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3586"><a href="http://info.payentry.com/employee-services/" data-level="2"><span class="menu-item-text"><span class="menu-text">Employee Services</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6310"><a href="http://info.payentry.com/get-pricing/" data-level="1"><span class="menu-item-text"><span class="menu-text">Get Pricing</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3210 has-children"><a href="/resources" data-level="1"><span class="menu-item-text"><span class="menu-text">Resources</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3209 first"><a href="http://info.payentry.com/support/" data-level="2"><span class="menu-item-text"><span class="menu-text">Support</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4201"><a href="http://info.payentry.com/video-library/" data-level="2"><span class="menu-item-text"><span class="menu-text">Video Library</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3285"><a href="http://info.payentry.com/feature-updates/" data-level="2"><span class="menu-item-text"><span class="menu-text">Feature Updates</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5760"><a href="http://info.payentry.com/blog/" data-level="2"><span class="menu-item-text"><span class="menu-text">Payentry Blog</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4355"><a href="http://info.payentry.com/about-mpay/" data-level="2"><span class="menu-item-text"><span class="menu-text">About MPAY</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5658"><a href="http://info.payentry.com/events-calendar/" data-level="2"><span class="menu-item-text"><span class="menu-text">Events Calendar</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4354"><a href="http://info.payentry.com/careers/" data-level="2"><span class="menu-item-text"><span class="menu-text">Careers</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4361 has-children"><a href="http://info.payentry.com/contact/" data-level="1"><span class="menu-item-text"><span class="menu-text">Contact</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4279 first"><a href="http://info.payentry.com/process/" data-level="2"><span class="menu-item-text"><span class="menu-text">Request a Demo</span></span></a></li> </ul></li> 	</ul>
 	<div class="mobile-mini-widgets-in-menu"></div>
 </div>
-	
-	
-	<div id="main" class="sidebar-none sidebar-divider-vertical">
 
-		
-		<div class="main-gradient"></div>
-		<div class="wf-wrap">
-			<div class="wf-container-main">
 
-				
+<div id="main" class="sidebar-none sidebar-divider-vertical">
+
 	
-		
-			<div id="content" class="content" role="main">
+    <div class="main-gradient"></div>
+    <div class="wf-wrap">
+    <div class="wf-container-main">
 
-			
-					
-					<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1496692709852 vc_row-has-fill vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 125px"><span class="vc_empty_space_inner"></span></div>
-</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><!-- Row Backgrounds --><div class="upb_bg_img" data-ultimate-bg="url(http://info.payentry.com/wp-content/uploads/2017/05/PeopleWorkingAtADesk.jpg)" data-image-id="id^3855|url^http://info.payentry.com/wp-content/uploads/2017/05/PeopleWorkingAtADesk.jpg|caption^Business people doing paperwork in office.|alt^null|title^Business people working|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="0" data-bg_img_attach="fixed" data-upb-overlay-color="" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="5.2.1" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="1.1" data-vc-parallax-image="http://info.payentry.com/wp-content/uploads/2017/05/PeopleWorkingAtADesk.jpg" class="vc_row wpb_row vc_row-fluid vc_custom_1496691849336 vc_row-has-fill vc_row-o-content-middle vc_row-flex vc_general vc_parallax vc_parallax-content-moving"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 125px"><span class="vc_empty_space_inner"></span></div>
+	
+
+
+    <div id="content" class="content" role="main">
+
+		<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1496692709852 vc_row-has-fill vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 125px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><!-- Row Backgrounds --><div class="upb_bg_img" data-ultimate-bg="url(http://info.payentry.com/wp-content/uploads/2017/05/PeopleWorkingAtADesk.jpg)" data-image-id="id^3855|url^http://info.payentry.com/wp-content/uploads/2017/05/PeopleWorkingAtADesk.jpg|caption^Business people doing paperwork in office.|alt^null|title^Business people working|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="0" data-bg_img_attach="fixed" data-upb-overlay-color="" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="5.4.5" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="1.1" data-vc-parallax-image="http://info.payentry.com/wp-content/uploads/2017/05/PeopleWorkingAtADesk.jpg" class="vc_row wpb_row vc_row-fluid vc_custom_1496691849336 vc_row-has-fill vc_row-o-content-middle vc_row-flex vc_general vc_parallax vc_parallax-content-moving"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 125px"><span class="vc_empty_space_inner"></span></div>
 </div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1496159983423 vc_row-has-fill vc_row-o-content-middle vc_row-flex"><div class="center wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1495664000057"><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 5px"><span class="vc_empty_space_inner"></span></div>
-</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><!-- Row Backgrounds --><div class="upb_color" data-bg-override="0" data-bg-color="#043f94" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="5.2.1" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1496329744256 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1496329317565"><div class="wpb_wrapper"><h1 style="color: #000000;text-align: center" class="vc_custom_heading vc_custom_1496329300875">Privacy</h1>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><!-- Row Backgrounds --><div class="upb_color" data-bg-override="0" data-bg-color="#043f94" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="5.4.5" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1496329744256 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1496329317565"><div class="wpb_wrapper"><h1 style="color: #000000;text-align: center" class="vc_custom_heading vc_custom_1496329300875">Privacy</h1>
 	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1496329308886">
 		
 		<figure class="wpb_wrapper vc_figure">
@@ -383,25 +723,21 @@ Email: <a href="mailto:publicrelations@mpay.com">publicrelations@mpay.com</a> (N
 
 		</div>
 	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div><!-- Row Backgrounds --><div class="upb_bg_img" data-ultimate-bg="url(http://info.payentry.com/wp-content/uploads/2014/03/BackgroundPattern-1.jpg)" data-image-id="id^3525|url^http://info.payentry.com/wp-content/uploads/2014/03/BackgroundPattern-1.jpg|caption^null|alt^null|title^BackgroundPattern|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="0" data-bg_img_attach="fixed" data-upb-overlay-color="rgba(255,255,255,0.33)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="5.2.1" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(255,255,255,0.33)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1496160562700 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1480458980683"><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div><!-- Row Backgrounds --><div class="upb_bg_img" data-ultimate-bg="url(http://info.payentry.com/wp-content/uploads/2014/03/BackgroundPattern-1.jpg)" data-image-id="id^3525|url^http://info.payentry.com/wp-content/uploads/2014/03/BackgroundPattern-1.jpg|caption^null|alt^null|title^BackgroundPattern|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="0" data-bg_img_attach="fixed" data-upb-overlay-color="rgba(255,255,255,0.33)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="5.4.5" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(255,255,255,0.33)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1496160562700 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1480458980683"><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
 </div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="center wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1480970145587"><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
 </div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1496347471197 vc_row-has-fill vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="center wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1480970145587"><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 5px"><span class="vc_empty_space_inner"></span></div>
 </div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
 <span class="cp-load-after-post"></span>
-					
-					
-					
+    </div><!-- #content -->
 
-				
-			
-			</div><!-- #content -->
+	
 
-			
-		
 
 			</div><!-- .wf-container -->
 		</div><!-- .wf-wrap -->
 	</div><!-- #main -->
+
+	
 
 	
 	<!-- !Footer -->
@@ -411,137 +747,196 @@ Email: <a href="mailto:publicrelations@mpay.com">publicrelations@mpay.com</a> (N
 			<div class="wf-wrap">
 				<div class="wf-container-footer">
 					<div class="wf-container">
-
 						<section id="text-5" class="widget widget_text wf-cell wf-1-2"><div class="widget-title">Contact Us</div>			<div class="textwidget"><span class="color-title">Email:</span>
 <a href="mailto:info@payentry.com">info@payentry.com</a>
 <br>
 <span class="color-title">Phone:</span>
 <a href="tel:888-632-2940">(888) 632-2940</a></div>
-		</section><section id="presscore-contact-info-widget-2" class="widget widget_presscore-contact-info-widget wf-cell wf-1-2"><div class="soc-ico"><p class="assistive-text">Find us on:</p><a title="Facebook" href="https://www.facebook.com/payentry" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook</span></a><a title="Twitter" href="https://twitter.com/payentry" target="_blank" class="twitter"><span class="soc-font-icon"></span><span class="screen-reader-text">Twitter</span></a><a title="Linkedin" href="https://www.linkedin.com/company/mpay-inc" target="_blank" class="linkedin"><span class="soc-font-icon"></span><span class="screen-reader-text">Linkedin</span></a><a title="Vimeo" href="https://vimeo.com/payentry" target="_blank" class="vimeo"><span class="soc-font-icon"></span><span class="screen-reader-text">Vimeo</span></a></div></section>
-					</div><!-- .wf-container -->
+		</section><section id="presscore-contact-info-widget-2" class="widget widget_presscore-contact-info-widget wf-cell wf-1-2"><div class="soc-ico"><p class="assistive-text">Find us on:</p><a title="Facebook" href="https://www.facebook.com/payentry" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook</span></a><a title="Twitter" href="https://twitter.com/payentry" target="_blank" class="twitter"><span class="soc-font-icon"></span><span class="screen-reader-text">Twitter</span></a><a title="Linkedin" href="https://www.linkedin.com/company/mpay-inc" target="_blank" class="linkedin"><span class="soc-font-icon"></span><span class="screen-reader-text">Linkedin</span></a><a title="Vimeo" href="https://vimeo.com/payentry" target="_blank" class="vimeo"><span class="soc-font-icon"></span><span class="screen-reader-text">Vimeo</span></a></div></section>					</div><!-- .wf-container -->
 				</div><!-- .wf-container-footer -->
 			</div><!-- .wf-wrap -->
 
 		
 <!-- !Bottom-bar -->
-<div id="bottom-bar" class="solid-bg" role="contentinfo">
+<div id="bottom-bar" class="solid-bg logo-left" role="contentinfo">
 	<div class="wf-wrap">
 		<div class="wf-container-bottom">
-			<div class="wf-table wf-mobile-collapsed">
 
-				<div id="branding-bottom" class="wf-td"><a href="http://info.payentry.com/"><img class=" preload-me" src="http://info.payentry.com/wp-content/uploads/2017/04/Payentry-40px.png" srcset="http://info.payentry.com/wp-content/uploads/2017/04/Payentry-40px.png 160w, http://info.payentry.com/wp-content/uploads/2017/04/Payentry_retina.png 320w" width="160" height="40" sizes="160px" alt="Payentry"></a></div>
-					<div class="wf-td">
-						<div class="wf-float-left">
+				<div id="branding-bottom"><a href="http://info.payentry.com/"><img class=" preload-me" src="http://info.payentry.com/wp-content/uploads/2017/04/Payentry-40px.png" srcset="http://info.payentry.com/wp-content/uploads/2017/04/Payentry-40px.png 160w, http://info.payentry.com/wp-content/uploads/2017/04/Payentry_retina.png 320w" width="160" height="40" sizes="160px" alt="Payentry"></a></div>
+					<div class="wf-float-left">
 
-							<span style="padding-left:3em">© 2017 Payentry</span>
-						</div>
+						<span style="padding-left:3em">© 2017 Payentry</span>
 					</div>
 
 				
-				<div class="wf-td">
+				<div class="wf-float-right">
 
-					<div class="mini-nav wf-float-right"><ul id="bottom-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2270 first"><a href="http://info.payentry.com/" data-level="1"><span class="menu-item-text"><span class="menu-text">Payentry | Payroll &amp; Employer Solutions</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2271"><a href="http://info.payentry.com/legal-notice/" data-level="1"><span class="menu-item-text"><span class="menu-text">Legal Notice</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2264 current_page_item menu-item-2272 act"><a href="http://info.payentry.com/privacy/" data-level="1"><span class="menu-item-text"><span class="menu-text">Privacy</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4618"><a href="http://info.payentry.com/contact/" data-level="1"><span class="menu-item-text"><span class="menu-text">Contact</span></span></a></li> </ul><div class="menu-select"><span class="customSelect1"><span class="customSelectInner">Useful Links</span></span></div></div>
-				</div>
-
+					<div class="mini-nav"><ul id="bottom-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2271 first"><a href="http://info.payentry.com/legal-notice/" data-level="1"><span class="menu-item-text"><span class="menu-text">Legal Notice</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2264 current_page_item menu-item-2272 act"><a href="http://info.payentry.com/privacy/" data-level="1"><span class="menu-item-text"><span class="menu-text">Privacy</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4618"><a href="http://info.payentry.com/contact/" data-level="1"><span class="menu-item-text"><span class="menu-text">Contact</span></span></a></li> </ul><div class="menu-select"><span class="customSelect1"><span class="customSelectInner">Useful Links</span></span></div></div>
 				
-			</div>
+
+								</div>
+
 		</div><!-- .wf-container-bottom -->
 	</div><!-- .wf-wrap -->
 </div><!-- #bottom-bar -->
 	</footer><!-- #footer -->
 
 
-
 	<a href="#" class="scroll-top"><span class="screen-reader-text">Go to Top</span></a>
 
 </div><!-- #page -->
-	            <script type="text/javascript" id="modal">
-				jQuery(window).on( 'load', function(){
-					startclock();
-				});
-				function stopclock (){
-				  if(timerRunning) clearTimeout(timerID);
-				  timerRunning = false;
-				  document.cookie="time=0";
-				}
-				function showtime () {
-				  var now = new Date();
-				  var my = now.getTime() ;
-				  now = new Date(my-diffms) ;
-				  document.cookie="time="+now.toLocaleString();
-				  timerID = setTimeout('showtime()',10000);
-				  timerRunning = true;
-				}
-				function startclock () {
-				  stopclock();
-				  showtime();
-				}
-				var timerID = null;
-				var timerRunning = false;
-				var x = new Date() ;
-				var now = x.getTime() ;
-				var gmt = 1513842987 * 1000 ;
-				var diffms = (now - gmt) ;
-				</script>
-	            	            <script type="text/javascript" id="info-bar">
-				jQuery(window).on( 'load', function(){
-					startclock();
-				});
-				function stopclock (){
-				  if(timerRunning) clearTimeout(timerID);
-				  timerRunning = false;
-				  document.cookie="time=0";
-				}
-				function showtime () {
-				  var now = new Date();
-				  var my = now.getTime() ;
-				  now = new Date(my-diffms) ;
-				  document.cookie="time="+now.toLocaleString();
-				  timerID = setTimeout('showtime()',10000);
-				  timerRunning = true;
-				}
-				function startclock () {
-				  stopclock();
-				  showtime();
-				}
-				var timerID = null;
-				var timerRunning = false;
-				var x = new Date() ;
-				var now = x.getTime() ;
-				var gmt = 1513842987 * 1000 ;
-				var diffms = (now - gmt) ;
-				</script>
-	            	            <script type="text/javascript" id="slidein">
-				jQuery(window).on( 'load', function(){
-					startclock();
-				});
-				function stopclock (){
-				  if(timerRunning) clearTimeout(timerID);
-				  timerRunning = false;
-				  document.cookie="time=0";
-				}
 
-				function showtime () {
-				  var now = new Date();
-				  var my = now.getTime() ;
-				  now = new Date(my-diffms) ;
-				  document.cookie="time="+now.toLocaleString();
-				  timerID = setTimeout('showtime()',10000);
-				  timerRunning = true;
-				}
-
-				function startclock () {
-				  stopclock();
-				  showtime();
-				}
-				var timerID = null;
-				var timerRunning = false;
-				var x = new Date() ;
-				var now = x.getTime() ;
-				var gmt = 1513842987 * 1000 ;
-				var diffms = (now - gmt) ;
+    <script>
+        document.addEventListener( 'wpcf7submit', function( event ) {
+                            if ( 6262 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Get NextGen eBrochure', 'Contact Form Submission', '6262');
+                    		                                    }
+            	                        if ( 6251 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Get Enrollment Solution Guide', 'Contact Form Submission', '6251');
+                    		                                    }
+            	                        if ( 6232 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Request Pricing', 'Contact Form Submission', '6232');
+                    		                                    }
+            	                        if ( 5800 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Contact Us', 'Contact Form Submission', '[_url]', '5800');
+                    		                                    }
+            	                        if ( 5798 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Contact Us', 'Contact Form Submission', '[_url]', '5798');
+                    		                                    }
+            	                        if ( 5753 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Contact Us', 'Contact Form Submission', '[_url]', '5753');
+                    		                                    }
+            	                        if ( 6131 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Get a Demo - Brokers', 'Contact Form Submission', '6131');
+                    		                                    }
+            	                        if ( 6075 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Get a Demo', 'Contact Form Submission', '6075');
+                    		                                    }
+            	                        if ( 6073 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Request a Demo', 'Contact Form Submission', '[_url]', '6073');
+                    		                                    }
+            	                        if ( 4357 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Get Support', 'Contact Form Submission', '4357');
+                    		                                    }
+            	                        if ( 4246 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Request Pricing', 'Contact Form Submission', '[_url]', '4246');
+                    		                                    }
+            	                        if ( 3168 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Request a Demo', 'Contact Form Submission', '[_url]', '3168');
+                    		                                    }
+            	                        if ( 3102 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Request a Demo', 'Contact Form Submission', '[_url]', '3102');
+                    		                                    }
+            	                        if ( 3101 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Request a Demo', 'Contact Form Submission', '[_url]', '3101');
+                    		                                    }
+            	                        if ( 2785 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Request a Demo', 'Contact Form Submission', '[_url]', '2785');
+                    		                                    }
+            	                        if ( 2701 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Request a Demo', 'Contact Form Submission', '[_url]', '2701');
+                    		                                    }
+            	                        if ( 2698 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Request a Demo', 'Contact Form Submission', '[_url]', '2698');
+                    		                                    }
+            	                        if ( 2696 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Request a Demo', 'Contact Form Submission', '[_url] - Footer', '2696');
+                    		                                    }
+            	                        if ( 2683 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Request a Demo', 'Contact Form Submission', '[_url]', '2683');
+                    		                                    }
+            	                        if ( 4 == event.detail.contactFormId ) {
+                		                            ga('send', 'event', 'Contact Us', 'Contact Form Submission', '[_url]', '4');
+                    		                                    }
+            	        }, false );
+    </script>
+				<script type="text/javascript" id="modal">
+					jQuery(window).on( 'load', function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1529317159 * 1000 ;
+					var diffms = (now - gmt) ;
 				</script>
-	            <script>
+								<script type="text/javascript" id="info-bar">
+					jQuery(window).on( 'load', function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1529317159 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+								<script type="text/javascript" id="slidein">
+					jQuery(window).on( 'load', function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						document.cookie="time=0";
+					}
+
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1529317159 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+				<script>
 jQuery( document ).ready(function() {
   if(window.location.hash) {
     var target = jQuery(window.location.hash);
@@ -622,7 +1017,7 @@ jQuery( document ).ready(function() {
 </div><script>
   jQuery(document).ready(function() {
     var toReplace = 'http://info.payentry.com/templatera/social';
-    var currentPage = 'http://info.payentry.com/privacy';    var pageTitle = 'Privacy';    var links = jQuery('.essb_links a');
+    var currentPage = 'http://info.payentry.com/privacy';    var pageTitle = 'Contact+Us';    var links = jQuery('.essb_links a');
     if (links.length) {
       //console.log(links);
       jQuery.each(links, function(index, value) {
@@ -637,79 +1032,57 @@ jQuery( document ).ready(function() {
       });
     }
   });
-</script><script type="text/javascript" src="http://info.payentry.com/wp-content/themes/dt-the7/js/main.min.js?ver=5.5.0.1"></script>
+</script><link rel="stylesheet" id="wth-frontend-css" href="http://info.payentry.com/wp-content/plugins/was-this-helpful-pro//assets/css/common.css?ver=4.9.5" type="text/css" media="all">
+<script type="text/javascript" src="http://info.payentry.com/wp-content/themes/dt-the7/js/main.min.js?ver=6.4.0"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wpcf7 = {"apiSettings":{"root":"http:\/\/info.payentry.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox.min.js?ver=1.3.9"></script>
+<script type="text/javascript">
+var fb_timeout=null;
+var fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'width':1080,'height':780,'margin':20,'enableEscapeButton':true };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery('.nofancybox,a.pin-it-button,a[href*="pinterest.com/pin/create"]').addClass('nolightbox');
+/* Inline */
+jQuery('a.fancybox-inline,area.fancybox-inline,li.fancybox-inline a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'inline','autoDimensions':true,'scrolling':'no','easingIn':'easeOutBack','easingOut':'easeInBack','opacity':false,'hideOnContentClick':false}))});
+/* iFrame */
+jQuery('a.fancybox-iframe,area.fancybox-iframe,li.fancybox-iframe a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'iframe','width':'70%','height':'90%','titleShow':false,'titlePosition':'float','titleFromAlt':true,'allowfullscreen':false}))});};
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);
+</script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min.js?ver=3.1.13"></script>
 <script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/go_pricing/assets/js/go_pricing_scripts.js?ver=3.3.7"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var tCountAjax = {"ajaxurl":"http:\/\/info.payentry.com\/wp-admin\/admin-ajax.php","countdownNonce":"69a489a6d7"};
+var tCountAjax = {"ajaxurl":"http:\/\/info.payentry.com\/wp-admin\/admin-ajax.php","countdownNonce":"0c9331ce87"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/jquery-t-countdown-widget/js/jquery.t-countdown.js?ver=1.5.12"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/jquery-t-countdown-widget/js/jquery.t-countdown.js?ver=2.4.0"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/themes/dt-the7/js/legacy.min.js?ver=6.4.0"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/themes/dt-the7/js/post-type.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-includes/js/wp-embed.min.js?ver=4.9.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wth_js_lang = {"ajax_url":"http:\/\/info.payentry.com\/wp-admin\/admin-ajax.php","nonce":"ec31125997","confirm":"Are you sure to delete item?","positive_feedback":null,"negative_feedback":null,"wth_title_nothank":null,"wth_title_yesthank":null,"wth_thank_you":"Thank You for your feedback.","submit_text":"Submit"};
-var wth_js_lang = {"ajax_url":"http:\/\/info.payentry.com\/wp-admin\/admin-ajax.php","nonce":"ec31125997","confirm":"Are you sure to delete item?","positive_feedback":null,"negative_feedback":null,"wth_title_nothank":null,"wth_title_yesthank":null,"wth_thank_you":"Thank You for your feedback.","submit_text":"Submit"};
+var wth_js_lang = {"ajax_url":"http:\/\/info.payentry.com\/wp-admin\/admin-ajax.php","nonce":"704942a1cf","confirm":"Are you sure to delete item?","positive_feedback":"true","positive_feedback_option":"feedback_messege","positive_feedback_required":null,"negative_feedback":"true","negative_feedback_required":null,"wth_title_nothank":"What was wrong? Please help us.","wth_title_yesthank":"Great! Please leave your positive feedback.","wth_thank_you":"Thank You for your feedback.","submit_text":"Submit","wth_ga_enable":"","wth_ga_category":"Was This Helpful?","wth_ga_positive":"Positive Reviews","wth_ga_negative":"Negative Reviews","wth_share_ask":"Awesome, share it:","wth_fb_share":"Share","wth_twitter_share":"Tweet"};
+var wth_js_lang = {"ajax_url":"http:\/\/info.payentry.com\/wp-admin\/admin-ajax.php","nonce":"704942a1cf","confirm":"Are you sure to delete item?","positive_feedback":"true","positive_feedback_option":"feedback_messege","positive_feedback_required":null,"negative_feedback":"true","negative_feedback_required":null,"wth_title_nothank":"What was wrong? Please help us.","wth_title_yesthank":"Great! Please leave your positive feedback.","wth_thank_you":"Thank You for your feedback.","submit_text":"Submit","wth_ga_enable":"","wth_ga_category":"Was This Helpful?","wth_ga_positive":"Positive Reviews","wth_ga_negative":"Negative Reviews","wth_share_ask":"Awesome, share it:","wth_fb_share":"Share","wth_twitter_share":"Tweet"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/was-this-helpful/assets/js/wth-frontend.js?ver=4.8.2"></script>
-<script type="text/javascript">
-var renderInvisibleReCaptcha = function() {
-
-    for (var i = 0; i < document.forms.length; ++i) {
-        var form = document.forms[i];
-        var holder = form.querySelector('.inv-recaptcha-holder');
-
-        if (null === holder) continue;
-		holder.innerHTML = '';
-
-        (function(frm){
-			var cf7SubmitElm = frm.querySelector('.wpcf7-submit');
-            var holderId = grecaptcha.render(holder,{
-                'sitekey': '6LeqlSQUAAAAAEZpXfAY3fuE63xkvGtk8JZf1Zpk', 'size': 'invisible', 'badge' : 'bottomright',
-                'callback' : function (recaptchaToken) {
-					((null !== cf7SubmitElm) && (typeof jQuery != 'undefined')) ? jQuery(frm).submit() : HTMLFormElement.prototype.submit.call(frm);
-                },
-                'expired-callback' : function(){grecaptcha.reset(holderId);}
-            });
-
-            frm.onsubmit = function (evt){evt.preventDefault();grecaptcha.execute(holderId);};
-
-			if(null !== cf7SubmitElm && (typeof jQuery != 'undefined') ){
-				jQuery(cf7SubmitElm).one('click', function(clickEvt){
-					clickEvt.preventDefault();
-					grecaptcha.execute(holderId);
-				});
-			}
-
-        })(form);
-    }
-};
-</script>
-<script type="text/javascript" async="" defer="" src="https://www.google.com/recaptcha/api.js?onload=renderInvisibleReCaptcha&amp;render=explicit"></script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/themes/dt-the7/js/legacy.min.js?ver=5.5.0.1"></script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/themes/dt-the7/js/post-type.js?ver=1.0.0"></script>
-<script type="text/javascript" src="http://info.payentry.com/wp-includes/js/wp-embed.min.js?ver=4.8.2"></script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.2.1"></script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.min.js?ver=5.2.1"></script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min.js?ver=1.6"></script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/easy-fancybox/js/jquery.easing.min.js?ver=1.4.0"></script>
-<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min.js?ver=3.1.13"></script>
-<script type="text/javascript">
-jQuery(document).on('ready post-load', function(){ jQuery('.nofancybox,a.pin-it-button,a[href*="pinterest.com/pin/create/button"]').addClass('nolightbox'); });
-jQuery(document).on('ready post-load',easy_fancybox_handler);
-jQuery(document).on('ready',easy_fancybox_auto);</script>
-<div class="essb_mailform"><div class="essb_mailform_content"><p>Send this to a friend</p><label class="essb_mailform_content_label">Your email</label><input type="text" id="essb_mailform_from" class="essb_mailform_content_input" placeholder="Your email"><label class="essb_mailform_content_label">Recipient email</label><input type="text" id="essb_mailform_to" class="essb_mailform_content_input" placeholder="Recipient email"><div class="essb_mailform_content_buttons"><button id="essb_mailform_btn_submit" class="essb_mailform_content_button" onclick="essb_mailform_send();">Send</button><button id="essb_mailform_btn_cancel" class="essb_mailform_content_button" onclick="essb_close_mailform(); return false;">Fill captcha code</button></div><input type="hidden" id="essb_mail_salt" value="2056408199"><input type="hidden" id="essb_mail_instance" value=""><input type="hidden" id="essb_mail_post" value=""></div></div><div class="essb_mailform_shadow"></div><link rel="stylesheet" id="essb-cct-style" href="http://info.payentry.com/wp-content/plugins/easy-social-share-buttons3/lib/modules/click-to-tweet/assets/css/styles.css" type="text/css" media="all"><script type="text/javascript">
+<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/was-this-helpful-pro//assets/js/frontend.js?ver=4.9.5"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.5"></script>
+<script type="text/javascript" src="http://info.payentry.com/wp-content/plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.min.js?ver=5.4.5"></script>
+<div class="essb_mailform"><div class="essb_mailform_content"><p>Send this to a friend</p><label class="essb_mailform_content_label">Your email</label><input type="text" id="essb_mailform_from" class="essb_mailform_content_input" placeholder="Your email"><label class="essb_mailform_content_label">Recipient email</label><input type="text" id="essb_mailform_to" class="essb_mailform_content_input" placeholder="Recipient email"><div class="essb_mailform_content_buttons"><button id="essb_mailform_btn_submit" class="essb_mailform_content_button" onclick="essb_mailform_send();">Send</button><button id="essb_mailform_btn_cancel" class="essb_mailform_content_button" onclick="essb_close_mailform(); return false;">Cancel</button></div><input type="hidden" id="essb_mail_salt" value="2056408199"><input type="hidden" id="essb_mail_instance" value=""><input type="hidden" id="essb_mail_post" value=""></div></div><div class="essb_mailform_shadow"></div><link rel="stylesheet" id="essb-cct-style" href="http://info.payentry.com/wp-content/plugins/easy-social-share-buttons3/lib/modules/click-to-tweet/assets/css/styles.css" type="text/css" media="all"><script type="text/javascript">
 				(function() {
 				var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;;
 				po.src = 'http://info.payentry.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js';
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-		})();</script><script type="text/javascript">var essb_handle_stats = function(oService, oPostID, oInstance) { var element = jQuery('.essb_'+oInstance); var instance_postion = jQuery(element).attr("data-essb-position") || ""; var instance_template = jQuery(element).attr("data-essb-template") || ""; var instance_button = jQuery(element).attr("data-essb-button-style") || ""; var instance_counters = jQuery(element).hasClass("essb_counters") ? true : false; var instance_nostats = jQuery(element).hasClass("essb_nostats") ? true : false; if (instance_nostats) { return; } var instance_mobile = false; if( (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i).test(navigator.userAgent) ) { instance_mobile = true; } if (typeof(essb_settings) != "undefined") { jQuery.post(essb_settings.ajax_url, { 'action': 'essb_stat_log', 'post_id': oPostID, 'service': oService, 'template': instance_template, 'mobile': instance_mobile, 'position': instance_postion, 'button': instance_button, 'counter': instance_counters, 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { }},'json'); } };var essb_mailform_opened = false; function essb_open_mailform(unique_id) { jQuery.fn.extend({ center: function () { return this.each(function() { var top = (jQuery(window).height() - jQuery(this).outerHeight()) / 2; var left = (jQuery(window).width() - jQuery(this).outerWidth()) / 2; jQuery(this).css({position:'fixed', margin:0, top: (top > 0 ? top : 0)+'px', left: (left > 0 ? left : 0)+'px'}); }); } }); if (essb_mailform_opened) { essb_close_mailform(unique_id); return; } var sender_element = jQuery(".essb_"+unique_id); if (!sender_element.length) return; var sender_post_id = jQuery(sender_element).attr("data-essb-postid") || ""; jQuery("#essb_mail_instance").val(unique_id); jQuery("#essb_mail_post").val(sender_post_id); var win_width = jQuery( window ).width(); var win_height = jQuery(window).height(); var doc_height = jQuery('document').height(); var base_width = 300; if (win_width < base_width) { base_width = win_width - 30; } var height_correction = 20; var element_class = ".essb_mailform"; var element_class_shadow = ".essb_mailform_shadow"; jQuery(element_class).css( { width: base_width+'px'}); var popup_height = jQuery(element_class).outerHeight(); if (popup_height > (win_height - 30)) { jQuery(element_class).css( { height: (win_height - height_correction)+'px'}); } jQuery("#essb_mailform_from").val(""); jQuery("#essb_mailform_to").val(""); if (jQuery("#essb_mailform_c").length) jQuery("#essb_mailform_c").val(""); jQuery(element_class_shadow).css( { height: (win_height)+'px'}); jQuery(element_class).center(); jQuery(element_class).slideDown(200); jQuery(element_class_shadow).fadeIn(200); essb_mailform_opened = true; essb_tracking_only("", "mail", unique_id); }; function essb_close_mailform() { var element_class = ".essb_mailform"; var element_class_shadow = ".essb_mailform_shadow"; jQuery(element_class).fadeOut(200); jQuery(element_class_shadow).fadeOut(200); essb_mailform_opened = false; }; function essb_mailform_send() { var sender_email = jQuery("#essb_mailform_from").val(); var recepient_email = jQuery("#essb_mailform_to").val(); var captcha_validate = jQuery("#essb_mailform_c").length ? true : false; var captcha = captcha_validate ? jQuery("#essb_mailform_c").val() : ""; var custom_message = jQuery("#essb_mailform_custom").length ? jQuery("#essb_mailform_custom").val() : ""; if (sender_email == "" || recepient_email == "" || (captcha == "" && captcha_validate)) { alert("Please fill all fields in form!"); return; } var mail_salt = jQuery("#essb_mail_salt").val(); var instance_post_id = jQuery("#essb_mail_post").val(); console.log("mail salt = " + mail_salt); if (typeof(essb_settings) != "undefined") { jQuery.post(essb_settings.ajax_url, { "action": "essb_mail_action", "post_id": instance_post_id, "from": sender_email, "to": recepient_email, "c": captcha, "cu": custom_message, "salt": mail_salt, "nonce": essb_settings.essb3_nonce }, function (data) { if (data) { console.log(data); alert(data["message"]); if (data["code"] == "1") essb_close_mailform(); }},'json'); } };</script>
+		})();</script><script type="text/javascript">var essb_handle_stats = function(oService, oPostID, oInstance) { var element = jQuery('.essb_'+oInstance); var instance_postion = jQuery(element).attr("data-essb-position") || ""; var instance_template = jQuery(element).attr("data-essb-template") || ""; var instance_button = jQuery(element).attr("data-essb-button-style") || ""; var instance_counters = jQuery(element).hasClass("essb_counters") ? true : false; var instance_nostats = jQuery(element).hasClass("essb_nostats") ? true : false; if (instance_nostats) { return; } var instance_mobile = false; if( (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i).test(navigator.userAgent) ) { instance_mobile = true; } if (typeof(essb_settings) != "undefined") { jQuery.post(essb_settings.ajax_url, { 'action': 'essb_stat_log', 'post_id': oPostID, 'service': oService, 'template': instance_template, 'mobile': instance_mobile, 'position': instance_postion, 'button': instance_button, 'counter': instance_counters, 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { }},'json'); } };var essb_mailform_opened = false; function essb_open_mailform(unique_id) { jQuery.fn.extend({ center: function () { return this.each(function() { var top = (jQuery(window).height() - jQuery(this).outerHeight()) / 2; var left = (jQuery(window).width() - jQuery(this).outerWidth()) / 2; jQuery(this).css({position:'fixed', margin:0, top: (top > 0 ? top : 0)+'px', left: (left > 0 ? left : 0)+'px'}); }); } }); if (essb_mailform_opened) { essb_close_mailform(unique_id); return; } var sender_element = jQuery(".essb_"+unique_id); if (!sender_element.length) return; var sender_post_id = jQuery(sender_element).attr("data-essb-postid") || ""; jQuery("#essb_mail_instance").val(unique_id); jQuery("#essb_mail_post").val(sender_post_id); var win_width = jQuery( window ).width(); var win_height = jQuery(window).height(); var doc_height = jQuery('document').height(); var base_width = 300; if (win_width < base_width) { base_width = win_width - 30; } var height_correction = 20; var element_class = ".essb_mailform"; var element_class_shadow = ".essb_mailform_shadow"; jQuery(element_class).css( { width: base_width+'px'}); var popup_height = jQuery(element_class).outerHeight(); if (popup_height > (win_height - 30)) { jQuery(element_class).css( { height: (win_height - height_correction)+'px'}); } jQuery("#essb_mailform_from").val(""); jQuery("#essb_mailform_to").val(""); if (jQuery("#essb_mailform_c").length) jQuery("#essb_mailform_c").val(""); jQuery(element_class_shadow).css( { height: (win_height)+'px'}); jQuery(element_class).center(); jQuery(element_class).slideDown(200); jQuery(element_class_shadow).fadeIn(200); essb_mailform_opened = true; essb.tracking_only("", "mail", unique_id); }; function essb_close_mailform() { var element_class = ".essb_mailform"; var element_class_shadow = ".essb_mailform_shadow"; jQuery(element_class).fadeOut(200); jQuery(element_class_shadow).fadeOut(200); essb_mailform_opened = false; }; function essb_mailform_send() { var sender_email = jQuery("#essb_mailform_from").val(); var recepient_email = jQuery("#essb_mailform_to").val(); var captcha_validate = jQuery("#essb_mailform_c").length ? true : false; var captcha = captcha_validate ? jQuery("#essb_mailform_c").val() : ""; var custom_message = jQuery("#essb_mailform_custom").length ? jQuery("#essb_mailform_custom").val() : ""; if (sender_email == "" || recepient_email == "" || (captcha == "" && captcha_validate)) { alert("Please fill all fields in form!"); return; } var mail_salt = jQuery("#essb_mail_salt").val(); var instance_post_id = jQuery("#essb_mail_post").val(); console.log("mail salt = " + mail_salt); if (typeof(essb_settings) != "undefined") { jQuery.post(essb_settings.ajax_url, { "action": "essb_mail_action", "post_id": instance_post_id, "from": sender_email, "to": recepient_email, "c": captcha, "cu": custom_message, "salt": mail_salt, "nonce": essb_settings.essb3_nonce }, function (data) { if (data) { console.log(data); alert(data["message"]); if (data["code"] == "1") essb_close_mailform(); }},'json'); } };</script>
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="pswp__bg"></div>
     <div class="pswp__scroll-wrap">
@@ -750,8 +1123,10 @@ jQuery(document).on('ready',easy_fancybox_auto);</script>
 </div>
 
 
-<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Page Caching using disk: enhanced
+Page Caching using disk: enhanced 
 
- Served from: info.payentry.com @ 2017-12-21 02:56:27 by W3 Total Cache --></body></html>
+Served from: info.payentry.com @ 2018-06-18 06:19:19 by W3 Total Cache
+--></body></html>
