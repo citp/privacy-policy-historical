@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkedmag.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228010709id_/http%3A//www.inkedmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkedmag.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618182612id_/http%3A//www.inkedmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inked Magazine
 
@@ -66,6 +66,9 @@ Inked Magazine and Quadra Media L.L.C. processes personal information in accorda
 **Accessing and updating personal information**
 
 When you use Inked Magazine and Quadra Media L.L.C. services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information.
+
+**GDPR Rights to Personal Data Collection**  
+Personal Data collected from EU citizens (“PD”) is collected only for legally necessary data retention and legitimate business purposes, which are our legitimate interests. PD is not stored or sold for commercial or profitability purposes unless you have expressed your consent. PD is not retained for any longer than it is necessary. PD is only accessed by personnel under confidentiality agreements with the necessary clearances. We have balanced the collection of your personal data, and our use thereof, against your interests, rights and freedoms and have chosen the least intrusive methods in order to satisfy our legitimate interest. You have the right to contact us to see what PD we have collected, to have that PD corrected and/or have it deleted.
 
 ENFORCEMENT
 
