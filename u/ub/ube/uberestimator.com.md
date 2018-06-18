@@ -1,29 +1,79 @@
-> *The following text is extracted and transformed from the uberestimator.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217145309id_/http%3A//uberestimator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberestimator.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618231742id_/https%3A//uberestimator.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The privacy of our visitors to uberestimator.com is important to us. 
+At uberestimator.com, accessible from https://uberestimator.com/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by uberestimator.com and how we use it.
 
-At uberestimator.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit uberestimator.com, and how we safeguard your information. We never sell your personal information to third parties. 
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at hello@uberestimator.com
+
+## General Data Protection Regulation (GDPR)
+
+We are a Data Controller of your information.
+
+uberestimator.com legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect the information:
+
+  * uberestimator.com needs to perform a contract with you
+  * You have given uberestimator.com permission to do so
+  * Processing your personal information is in uberestimator.com legitimate interests
+  * uberestimator.com needs to comply with the law
+
+
+
+uberestimator.com will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * The right to access, update or to delete the information we have on you.
+  * The right of rectification.
+  * The right to object.
+  * The right of restriction.
+  * The right to data portability
+  * The right to withdraw consent
+
+
 
 ## Log Files
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Chrome, Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+uberestimator.com follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
 
 ## Cookies and Web Beacons
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
+Like any other website, uberestimator.com uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
 
-We also use third party advertisements on uberestimator.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
+## Google DoubleClick DART Cookie
 
-## DoubleClick DART cookies
+Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <https://policies.google.com/technologies/ads>
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). 
+## Our Advertising Partners
 
-The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. 
+Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
 
-You can opt-out of this ad serving on all sites using this advertising by visiting [doubleclick.com](http://www.doubleclick.com/privacy/dart_adserving.aspx). 
+  * Google: <https://policies.google.com/technologies/ads>
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+
+## Privacy Policies
+
+You may consult this list to find the Privacy Policy for each of the advertising partners of uberestimator.com.
+
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on uberestimator.com, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+
+Note that uberestimator.com has no access to or control over these cookies that are used by third-party advertisers.
+
+## Third Pary Privacy Policies
+
+uberestimator.com's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
+
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?
+
+## Children's Information
+
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+uberestimator.com does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+## Consent
+
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.
