@@ -1,201 +1,164 @@
-> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619111706id_/http%3A//www.knowledgetree.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618225138id_/http%3A//savogroup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy | KnowledgeTree
+# Privacy Policy - SAVO Sales Enablement
 
-Last updated: 12/8/2016
+**Effective Date: November 14, 2017**
 
-KnowledgeTree, Inc. (“KT”) is committed to protecting the privacy and security of personal information that we collect. This Privacy Policy discloses our information gathering and dissemination practices for our publicly available website at [www.knowledgetree.com](http://www.knowledgetree.com/ "www.knowledgetree.com") for our commercial KnowledgeTree on-demand document management service, which is accessed through the internet (the “Service”). The Service is available only to users authorized by organizations and individuals that have entered into an online or written signed agreement with KT for the Service (“Service Agreement”). Nothing in this Privacy Policy should be interpreted to modify, delete or add terms to the Service Agreement.
+SAVO Group (“SAVO” or the “Company”) is committed to protecting the privacy of your information. This Privacy Policy describes SAVO’s information practices.
 
-In compliance with the Privacy Shield Principles, KnowledgeTree commits to resolve complaints about our collection or use of your personal information.  EU individuals with inquiries or complaints regarding our Private Shield policy should first contact KnowledgeTree at:
+SAVO Group is committed to protecting the privacy of your information. This Privacy Policy describes SAVO’s information practices. This Privacy Policy covers our collection, use, and disclosure of information collected on our web site [www.savogroup.com](http://www.savogroup.com/), and through our SaaS Service Platforms located at [www.gosavo.com](https://www.gosavo.com/) and [www.savoinspire.com](https://www.savoinspire.com/) and our mobile application SAVO Sales Pro. The use of information collected through our services shall be limited to the purpose of providing the service for which the Client has engaged SAVO.
 
-[privacy@knowledgetree.com](mailto:privacy@knowledgetree.com)
+SAVO Group participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  SAVO Group is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
 
-or  +1 919-747-8270
+SAVO Group is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  SAVO Group complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-KnowledgeTree has further committed to refer unresolved Privacy Shield complaints to **American Arbitration Association,** an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit **American Arbitration Association** for more information or to file a complaint.  The services of **American Arbitration Association** are provided at no cost to you.
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, SAVO Group is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, SAVO Group may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-You can submit an arbitration case [from here](https://www.adr.org/aaa/faces/services/fileacase).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
+Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at the contact information set forth below.
+  1.  **Web Sites**
 
-Individuals may, under certain circumstances, invoke binding arbitration.
 
-KT complies with the EU / US Privacy Shield Framework (pending approval of self-certification) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. KT has certified that it adheres to the Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield program, and to view KT’s certification (pending approval), please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/)
 
-If you have any complaints regarding our compliance with the Privacy Shield you should first contact us (as provided below).
+SAVO’s Digital Properties may contain links to other web sites. SAVO takes reasonable measures to ensure that SAVO’s Digital Properties is free of malware, but SAVO is not responsible for the information practices, content, or terms of service of such other web sites. The Company encourages you to review the privacy policies of other web sites to understand their information practices and terms of service.
 
-Information Collected
+  2.  **Personally Identifiable Information Collected**
 
-Visitors to the Public Site are not required to reveal any personally identifiable information to KT. Visitors to the Public Site who wish to receive information regarding KT products or services may provide us with certain contact information including telephone number, fax number, email address, and mailing address.
 
-Through use of the Service, you may provide certain personal information for use and handling by KT solely for provision and maintenance of the Service.
 
-When you visit the Public Site, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer that uniquely identifies your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Public Site may not function properly if the ability to accept cookies is disabled.
+SAVO offers a variety of services that are collectively referred to as the “Service.” SAVO collects information from individuals who simply visit the Company’s Digital Properties and/or who wish to obtain additional information about the Service (“Visitors”) and individuals registered to use the Service (“Customers”).
 
-For more details how we use cookies, our Cookie Policy is published below.
+When expressing an interest in obtaining additional information about the Service or registering to use the Service, SAVO requires you to provide the Company with contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Service, SAVO requires you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Service (“Billing Information”). SAVO may also ask you to provide additional information, such as annual revenues, number of employees, or industry (“Optional Information”). Required Contact Information, Billing Information and Optional Information are referred to collectively as “Data About SAVO Customers”.
 
-In addition, when you use the Public Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+As you navigate the Company’s Digital Properties, SAVO may also collect information through the use of commonly-used tracking technologies, such as cookies and web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your web browser (such as browser type, browser version, and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Digital Properties (such as the web pages viewed and the links clicked).  For more information, please see Section 4 Web Site Navigational Information below.
 
-Use of Information and Choice
+When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or “UDID”).
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. We may use your personal information to provide you with information about KT’s services, business partners, promotions, and events. Marketing emails from KT will contain instructions on how to opt out of receiving further marketing emails from KT. You will also have the right to opt out of any disclosure of your personal information to a third party or use of your personal information for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by you.
+We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our mobile application or Services.
 
-You acknowledge and agree that KT may use personally identifiable information input by you as necessary to provide the Service. This information may include e-mail address, business or home address, social media user names, employer/affiliated organization, telephone numbers, reasons for accessing site, and intended usage of requested information. We may also use your email address or phone (if provided by you) to contact you regarding Service changes; system maintenance and outage issues; account issues; or to otherwise troubleshoot problems.
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
-KT provides sales enablement and document management services as part of the Service. KT does not access or review any contents of any documents uploaded as a part of the Services, unless you give specific permission to such access and/or use in connection with KT’s handling of a support issue. In no event does KT collect or use any personal information that you may include in any such documents. Also, you acknowledge and agree that you or your employer may enable various other users to access documents containing your personally identifiable information. KT is not responsible for how such parties may use your personally identifiable information.
+  3.  **Use of Information Collected**
 
-Onward transfer of Information
 
-Except as set forth in this Privacy Policy, KT will not disclose any personally identifiable information provided by a visitor to the Public Site to a third party unless the visitor has consented to such disclosure. In particular KT does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes.
 
-We may provide personally identifiable information to our subsidiaries, affiliated companies, and contractors for the purpose of providing and maintaining the Service and for responding to your requests. We require that these parties agree to use such information solely for this purpose, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+The Company uses Data About SAVO Customers to perform requested Service, and for other internal product development efforts. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Service.
 
-We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state, federal and international laws or respond to a court order, subpoena, or search warrant.
+The Company may also use Data About SAVO Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in SAVO, the Service, and to send you information regarding the Company and its partners, such as information about promotions or events.
 
-KT also reserves the right to disclose personally identifiable information and/or other information about users that KT believes, in good faith, is appropriate or necessary to enforce its agreements, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our Service, and to protect the rights, property, or personal safety of KT, our users or others.
+SAVO uses Web Site Navigational Information to operate and improve the Company’s Digital Properties. The Company may also use Web Site Navigational Information in combination with Data About SAVO Customers to provide Visitors and Customers with personalized information about the Company.
 
-KT will not disclose any personally identifiable information to a third party unless (i) the individual has consented to such disclosure and (ii) KT has ascertained that the third party either subscribes to the Privacy Shield principles or has entered into an agreement with KT that is consistent with the Privacy Shield principles.
+SAVO will use Data About SAVO Customers and Web Site Navigational Information only for the purposes described above and, except as noted in this Privacy Policy, will not disclose or distribute such information to third parties other than its agents, partners and service providers.
 
-Aggregate information of KT client data, not containing any personally identifiable information, may be provided to KT clients or prospects or disclosed in KT materials.
+  4.  **Web Site Navigational Information**
 
-Knowledge Tree remains responsible and liable under the Privacy Shield Principles if third parties engaged by Knowledge Tree process the personal information in a manner inconsistent with the Principles, unless Knowledge Tree proves that it is not responsible for the event giving rise to the damage.
 
-Access
 
-An individual wishing to review or update personally identifiable information stored in KT’s systems should contact KT by sending an e-mail to KT as described below. We will respond to your request for access within 30 days.  
-We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+SAVO collects Web Site Navigational Information as you navigate the Company’s Digital Properties. This section describes the types of Web Site Navigational Information the Company may collect, typical methods used for collection of such information, and how the Company may use this information.
 
-Security and Data Integrity
+ **Tracking Technologies**
 
-KT takes reasonable technical, administrative and physical steps to protect against unauthorized access to and disclosure of personally identifiable information. KT uses computer security mechanisms including firewalls, monitoring software, and passwords to protect client data stored on KT computer systems. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). KT provides information and training to all employees who have access to data maintained on behalf of KT clients and prospective clients, and KT employees are responsible for the internal security of such information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at the contact information set forth here.
+Technologies such as: cookies, beacons, tags, scripts or similar technologies are used by SAVO and our third party partners such as our marketing partners, analytics, and customer support service providers.  These technologies are used to make interactions with the Company’s Digital Properties easy and meaningful.  We also use technologies for analyzing trends, administering the site, tracking users’ movements around these properties and to gather demographic information about our user base as a whole.  We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-KT will not process personally identifiable information in any way that is incompatible or inconsistent with the purpose for which such information was collected. KT takes all reasonable measures to ensure that such information is reliable for its intended use, and is accurate, complete and current.
+We use cookies to make your interactions with the Company’s Digital Properties easy and meaningful such as to remember users’ settings (e.g. language preference) and for authentication. We may use information cookies in combination with Data About SAVO Customers to provide you with information about the Company and the Service. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-Blogs, Widgets and Links to Other Sites
+ **Log Files**
 
-If you make a comment on our blog or on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, please contact us. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. SAVO uses this information for various purposes such as tracking and monitoring Customers and Visitors activities on Company’s Digital Properties.   For example, SAVO uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Digital Properties and to authenticate Customers credential as part of its security features.  We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, and site functionality.
 
-Widgets
+ **Behavioral Targeting / Re-Targeting**
 
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through Widgets. Cookies may also be set by Widgets to enable them to function properly. Information collected by Widgets is governed by the privacy policy of the company(ies) that created them.
+We partner with a third party ad network to either display advertising on the Company’s Digital Properties or to manage our advertising on other sites.  Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests.  If you wish not to have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of KT If you submit personal information to any of those sites, your information is governed by their privacy policys. We encourage you to carefully read the privacy policy of any Web site you visit.
+  5.  **Public Forums, Refer a Friend, and Customer Testimonials**
 
-Enforcement
 
-KT will periodically review its privacy and security practices to verify that KT is meeting its obligations under this Privacy Policy. Please contact KT at the e-mail below if you have any concerns or complaints regarding KT’s compliance with this Privacy Policy. KT will investigate and attempt to resolve your concern or complaint.
 
-Our organization may be subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+SAVO may provide blog or forum on the Company’s Digital Properties. Any personally identifiable information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. SAVO is not responsible in any respect for the personally identifiable information you choose to submit in these forums, and urges you not to submit any personally identifiable information to any such forum. To request removal of your personally identifiable information from our blog or community forum, contact us at supportdesk@savogroup.com.  In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
 
-Children
+ _We may also collect, from you, the following personal information about your contacts:_
 
-The Service and Site are not intended for use by children under the age of 18 without parental supervision.
+  * [Name and email address], in order to refer our products or services
 
-Sensitive Demographic Information
 
-KT does not intentionally collect any sensitive information through the KT website or the Service unless legally required to do so. Sensitive information includes but is not limited to race or ethnic origin, political opinions, religious or other beliefs, and physical or mental health. KT suggests that you refrain from providing such information, but you agree that by doing so you will be deemed as providing your explicit consent for KT to use the information for the specified purposes for which it was supplied.
 
-Additional Terms
+When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided.
 
-KT intends to protect your privacy to the fullest extent possible as described in this Policy while also fulfilling our responsibility to uphold all applicable laws and regulations. Due to potential legal requirements and other possible circumstances, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed or accessed in ways not otherwise described in this policy.
+If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [supportdesk@savogroup.com](mailto:supportdesk@savogroup.com).
 
-You agree that we may transfer your information to the purchaser of the portion of our business to which the information relates, or to an affiliated company. You will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information.
+SAVO posts testimonials on the Company’s Digital Properties that contain information such as Customer names and titles. SAVO obtains the consent of each Customer prior to posting any information on such a list or posting testimonials within the log in to the client area.  If you wish to update or delete your testimonial, you can contact us at supportdesk@savogroup.com.
 
-You acknowledge and agree that KT may transfer personally identifiable information across state and country borders for the purposes of data consolidation, storage, and simplified information management.  
-Upon request, KT will correct any of your personally identifiable information held by us that you state is incorrect.  
-You acknowledge and agree that KT cannot verify or guarantee that all of its privacy and security practices will be foolproof.
+  6.  **Sharing of Information Collected**
 
-We may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-We may provide personally identifiable information to our subsidiaries, affiliated companies, and contractors for the purpose of providing and maintaining the Service and for responding to your requests. We require that these parties agree to use such information solely for this purpose, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
 
-Updates to Privacy Policy
+SAVO reserves the right to disclose personally identifiable information of the Company’s Customers or Visitors if: requests by public authorities, including to meet national security or law enforcement requirements; required by law; if the Company reasonably believes that disclosure is necessary to protect the Company’s rights, protect your safety or the safety of others, and to investigate fraud; if necessary to perform credit checks or collect or report debts owed to us; and/or to comply with a judicial or other government subpoenas, warrants, court orders or other legal process (collectively, such laws, rights and proceedings, orders and processes are referred to below as “Legal Processes”).
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+SAVO reserves the right to transfer any personally identifiable information we have about you in the event of a merger, acquisition, or sale of all or a portion of our business or assets. Should such a transfer occur, we will use reasonable efforts to try to require that the transferee use personally identifiable information you have provided through our Company’s Digital Properties in a manner that is consistent with this Privacy Policy.
 
-Cookies
+SAVO may also share personally identifiable information of the Company’s Customers or Visitors with persons who perform certain services for us, such as our accountants, auditors, attorneys and the like, but only to the extent necessary for them to perform their services to us. We expect such service providers to comply with our privacy and information security standards.
 
-Cookie Policy
+  7.  **Communications Preferences**
 
-Last Updated: 09/03/2013
 
-KnowledgeTree, Inc. (“KT”) Public Site uses cookies, as almost all websites do, to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites  
-Our cookies help us in the following ways:
 
-  * Make our website work as you’d expect
-  * Remember your settings during and between visits
-  * Improve the speed/security of the site
-  * Allow you to share pages with social networks like LinkedIn, Google+, Twitter and Facebook
-  * Continuously improve our website for you
-  * Make our marketing more efficient helping us to offer the service we do at the price we do.
+SAVO offers Customers and Visitors who provide contact information a means to choose how SAVO uses the information provided. You may manage receipt of email communications from SAVO by clicking on the “to manage your subscriptions or to unsubscribe, click here” link located on the bottom of the SAVO’s emails. Additionally, you may send a request specifying your communications preferences to [marketing@savogroup.com](mailto:marketing@savogroup.com).  If you no longer wish to allow us to share your information with third parties, you may opt-out from such sharing by contacting that third party directly.
 
+  8.  **Correcting and Updating Your Information**
 
 
-We do not use cookies to:
 
-  * Collect any personally identifiable information (without your express permission)
-  * Collect any sensitive information (without your express permission)
-  * Pass personally identifiable data to third parties
-  * Pay sales commissions
-  * Granting us permission to use cookies
+Upon request Savo Group will provide you with information about whether we hold any of your personal information.
 
+SAVO is committed to ensuring that the personally identifiable information that it collects regarding its Customers and Visitors is reliable for its intended uses and is accurate, complete, and current. If SAVO discovers that corrections are necessary with respect to any such information, it will promptly update its records. Customers may also update or change their registration information by editing their user or organization record. To update a user profile or billing information, please email supportdesk@savogroup.com or call (312) 506-1700. Visitors may update or change their personal information by clicking [here](http://discover.savogroup.com/email-preference-center). Requests to access, change, or delete your information will be handled within 90 days. We will respond to your access request within 30 days.
 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us as described below. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If the settings on your software that you are using to view this website (your browser) are adjusted to accept cookies we take this, and your continued use of our website, to mean that you are fine with this. Should you wish to remove or not use cookies from our site you can learn how to do this below, however doing so will likely mean that our site will not work as you would expect.
+  9.  **Customer Data**
 
-We use cookies to make our website work including: • Determining if you are logged in or not, Allowing you to add comments to our site, Remembering if we have already asked you certain questions.
 
-There is no way to prevent these cookies being set other than to not use our site.
 
-Clear Gifs (Web Beacons/Web Bugs)
+SAVO Customers use the Service to host data and information (“Customer Data”). SAVO will not review, share, distribute, or reference any such Customer Data except as provided in the SAVO Application Services Agreement (or similar services agreement), or as may be required by Legal Processes, and will host Customer Data solely to facilitate the processing and use of the Customer Data by its Customers. Individual records of Customer Data may be viewed or accessed by SAVO only for the purpose of resolving a problem, support issues, or suspected violation of the SAVO Application Services Agreement, or as may be required by Legal Processes. Customers are responsible for maintaining the security and confidentiality of their SAVO usernames and passwords. Customers maintaining Customer Data that constitutes personally identifiable information subject to the protections of the European Union’s Data Protection Directive will remain responsible for such information vis-à-vis the individual in accordance with the relevant EU provisions, although, as set forth in the SAVO Application Services Agreement, SAVO will cooperate with the Customer as may be necessary to ensure that individuals’ rights to access and correct such information are respected. SAVO permanently deletes or destroys Customer Data residing on its servers promptly upon the termination of a Customer relationship.
 
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+ **Information Related to Data Collected for our Clients**
 
-Third party functions
+SAVO Group acknowledges that you have the right to access your personal information.   SAVO collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes.  If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly.  We may transfer personal information to companies that help us provide our service.  Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
-Our Public Site, like most websites, includes functionality provided by third parties. Disabling these cookies will likely break the functions offered by these third parties
+ **Access and Retention of Data Controlled by our Clients**
 
-Examples of third party applications on our Public Site include Slideshare for infographics and case studies, Vimeo and YouTube for embedded video. Our site includes the following types of cookies:
+SAVO has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his or her query to SAVO’s Client (the data controller).  If the Client requests SAVO to remove the data, we will respond to their request within 30 days.
 
-Social Website Cookies
+We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client.  SAVO will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-These Cookies allow you to ‘Like’ or share our content on sites like LinkedIn, Google+, Facebook and Twitter.  
-The privacy implications on this will vary from social network to social network and will be dependent on the privacy settings you have chosen on these networks.
+ **Security**
 
-Site Improvement Cookies
+SAVO uses industry standard security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. The Service can be accessed only by Internet Explorer version 8.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, because these browsers permit the use of Transport Layer Security (“TLS”) technology (formerly Secure Socket Layer or SSL technology) that protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. SAVO also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its SAVO Digital Properties in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. SAVO also offers enhanced security features within the Service that permit Customers to configure security settings to the level they deem necessary.
 
-We occasionally test new designs or site features on our site. We do this by showing slightly different versions of our website to different people and anonymously monitoring how our site visitors respond to these different versions. Ultimately this helps us to offer you a better website.
+Because the Company uses the Service to maintain data about Visitors, Data About SAVO Customers and Web Site Navigational Information, this information is secured in the same manner as described above for Customer Data. To the extent that SAVO provides Data About SAVO Customers and Web Site Navigational Information to its agents, partners or service providers, as described in Section 6 of this Privacy Policy, SAVO takes commercially reasonable steps to ensure that its agents, partners or service providers either abide by SAVO’s privacy practices as reflected in this Privacy Policy or by substantially equivalent policies.
 
-Visitor Statistics Cookies
+Although we strive to make security a priority, note that no method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.  If you have any questions about security on the Company’s Digital Properties, you can contact supportdesk@savogroup.com.
 
-We use cookies to compile visitor statistics such as how many people have visited our website, what type of technology they are using (e.g. Mac or Windows which helps to identify when our site isn’t working as it should for particular technologies), how long they spend on the site, what page they look at etc. This helps us to continuously improve our website. These analytics programs also tell us if how people reached this site (e.g. from a search engine) and whether they have been here before helping us to put more money into developing our services for you instead of marketing spend.
+  11.  **Social Media Widgets**
 
-Advertising Cookies
 
-Remarketing Cookies: You may notice that sometimes after visiting a site you see increased numbers of adverts from the site you visited. This is because advertisers, including ourselves pay for these adverts. The technology to do this is made possible by cookies and as such we may place a so called ‘remarketing cookie’ during your visit. We use these adverts to offer special offers etc to encourage you to come back to our site. We are unable to proactively reach out to you as the whole process is entirely anonymised. You can opt out of these cookies at anytime as explained below.
 
-Marketing Automation Cookies
+Our Company’s Digital Properties include Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-Like most website offering a product or service for sale, our Public Site uses marketing automation software to help us understand what content visitors are interested in and to assist us to target relevant information at sales leads and prospects. This functionality helps us to keep our marketing costs manageable and therefore satisfy our customers. The information gathered from is not shared with any other company.
+  12.  **Changes to this Privacy Policy**
 
-Our marketing automation software tracks the following activities:  
-Web visits, Web activity, such as pages visited on our website, content downloaded, and forms completed, Email open rate, Email clickthroughs.
 
-How to Control Cookies
 
-You can control cookies by adjusting your browser settings to manage whether you accept or reject all or certain types of cookies (Learn how here). Doing so however will likely limit the functionality of our Public Site and a large proportion of the world’s websites as cookies are a standard part of most modern websites.
+SAVO reserves the right to change this Privacy Policy, with the prior approval of TRUSTe. SAVO will provide notification of the material changes to this Privacy Policy through the Company’s Digital Properties at least thirty (30) calendar days prior to the change taking effect.
 
-The cookie information text on this site was derived in part from content provided by Attacat Internet Marketing
+  13.  **Contacting Us**
 
-<http://www.attacat.co.uk/>.
 
-Contacting KT
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with KT software or services, you can contact KT at:  
-[privacy@knowledgetree.com](mailto:privacy@knowledgetree.com)
+Questions regarding this Privacy Policy or the information practices of the Company’s Digital Properties should be directed to SAVO Privacy by emailing supportdesk@savogroup.com or by mailing SAVO Privacy and Security, 222 W Merchandise Mart Plaza, Suite 1710, Chicago, IL 60654.
 
-3210 Hillsborough St.
+  14.  **Your California Privacy Rights**
 
-Raleigh, NC USA 27607
 
-1 877.900.0350 (US).
+
+Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, California residents have the right under certain circumstances to request, once per year, information regarding our disclosure of personal information to third parties for direct marketing purposes, including a list of the categories of information we have shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year.  To make such a request, please contact us by emailing supportdesk@savogroup.com or by mailing SAVO Privacy and Security, 222 W Merchandise Mart Plaza, Suite 1710, Chicago, IL 60654.
