@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpegmovieheaven.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122114722id_/http%3A//www.mpegmovieheaven.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpegmovieheaven.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619014141id_/http%3A//www.mpegmovieheaven.com/privacy.html) for the most accurate reproduction.*
 
 # MpegMovieHeaven | Our Commitment To Privacy
 
