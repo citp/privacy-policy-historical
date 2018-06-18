@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micromaxinfo.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228004358id_/http%3A//www.micromaxinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micromaxinfo.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618191156id_/http%3A//www.micromaxinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Micromax India | Smartphones, Mobile Phones, Tablets, Laptops, LED TV, Data Card
 
@@ -60,4 +60,4 @@ It has come out to our notice that some unscrupulous persons are sending bulk SM
 
 ## Feedback
 
-At **MICROMAX** , we welcome your questions and comments regarding our privacy policy. You may contact at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#127b7c747d527f7b71607d7f736a7b7c747d3c717d7f)
+At **MICROMAX** , we welcome your questions and comments regarding our privacy policy. You may contact at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1b72757d745b7672786974767a6372757d7435787476)
