@@ -1,204 +1,121 @@
-> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229103207id_/http%3A//www.vault.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vault.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618232404id_/http%3A//www.vault.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy|Vault.com
 
-**Vault.com Website Privacy Policy**
+## Vault Data Security and Privacy Policy
 
-Vault.com Inc. (referred to as "Vault," "we," "us," "our" and other similar pronouns) makes available this Web site and all site-related services (collectively, the "Site" or "Web site"). We are committed to protecting the privacy of the information of our Site visitors and Members (including all visitors or Members that are entities, individuals, employers, job candidates and general visitors of the Site) (individually and collectively referred to herein as "you"). We also want to provide you with a more rewarding Internet experience by making the advertising and content you see on the Site relevant to you, based on who you are and where your interests lie. Your loyalty as either a visitor or a Member (i.e., an individual who registers on the Site for access to one or more Site services) is important, and we hope that our concerns regarding your privacy, as described in this policy (the "Privacy Policy" or "Policy"), demonstrate our commitment to making your Vault experience an enjoyable and useful one.
+Vault is strongly committed to protecting your privacy and providing a safe online experience for all of our users while offering the highest quality educational material to them. Because we gather certain types of information about and from users so that we can fulfill your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This privacy statement discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline.
 
-Note that, by using the Site, you confirm your agreement to this Privacy Policy. If you do not agree to this Policy, you may not use the Site. Your continued use of the Site subsequent to changes to this Policy will mean that you accept the changes; therefore, please bookmark this page and review it frequently. If you have any questions regarding this Privacy Policy, the Site, or Vault, please go to the [contact us](https://web.archive.org/contact-us.aspx) page. If we change the way we use your personally identifiable information in a material, adverse, retroactive manner, we will notify you by email and await your response for 20 days before making the change.
+This Data Security and Privacy Policy is effective as of our last updated date of May 22, 2018 for all users to coincide with the enhanced data protection rights required by the EU General Data Protection Regulation (GDPR). This includes, but is not limited to, the "EEA Resident Rights" section added below.
 
-**We will not share your personal information with third parties for their marketing use, except when you register to participate in a Vault Career Event and consent to have your personal information made available to participating employers, recruiters and sponsors for that event. Please see the "Opt-In Services Involving Third Parties" and "Choice/Opt Out" sections below for more information about Vault Career Events and how to opt out of the information sharing involved therewith.**
+**What Information Do We Collect About You?**
 
-**I. The Information We Gather**
+You can visit our online products without giving us any personally identifiable information. However, for many of our products we request and collect information about you in certain circumstances so that we can provide our users with the most efficient, enhanced, and personalized service.
 
-**A. Personally Identifiable Information**
+**Information Users Volunteer**
 
-Although many parts of the Site do not require you to submit any "personally identifiable information," some areas of the Site may, including, for example and without limitation: (a) when registering on the Site to become a Member; (b) when making a purchase on the Site; (c) when using the My Vault Account area of the Site; and (d) when participating in various activities on or in connection with the Site, such as surveys. As used herein, "personally identifiable information" means information that relates to an identified individual or can be used to identify or contact an individual, including, for example, an individual's name, home address, email address, telephone number, text message address, email address of a wireless device, credit card information, age, gender and other demographic information, or any other information that can be used to identify or contact an individual, whether online or offline. We also collect educational, employment and/or occupation-related information (but we generally do not consider such information to be "personally identifiable information" where it is not identifiable to an individual user or associated with any other information that would cause it to be identifiable to an individual).
+We collect personally identifiable information such as names, mailing addresses, and/or email addresses when you create an optional user account through our online products. Our registration forms will indicate what information is required and what information (if any) is optional. Users may opt to receive email updates, newsletters, and job alerts, as well as emails from selected Vault partners.
 
-Your personally identifiable information may be used to contact you when necessary. You may opt out of receiving future promotional mailings, and for more information about how to do so, see the "Choice/Opt Out" section below. We also may use this data to tailor your experience at our Site, showing you content that we think you might be interested in, and displaying the content according to your preferences. We also may use demographic information to target advertisements to users from specific demographics.
+When you fill out registration forms, submit your resume, or provide us with other personal information, we collect that information for processing and use in accordance with this Policy. The options you have to provide us with personal information may change, but here are some examples of situations in which you will have the opportunity to provide personal information to us:
 
-You may be able to send information about our products and services (e.g., through "Email-A-Friend" and other sharing tools), online cards, or gift certificates to friends and family members. If so, you may be required to provide us with your friend's or family member's personally identifiable information. Such information will be treated in accordance with this Privacy Policy. You also confirm that you give us consent, on behalf of your friend or family member, to receive an e mail from Vault about the relevant product or service.
+  * Creating an account
+  * Signing up for email alerts
+  * Completing a form related to one of our products or services
+  * Uploading a resume
+  * Filling out a profile
+  * Contacting us for technical support or customer service
 
-**B. Other Information**
 
-Vault also collects non-personally identifiable information (that is, information that does not identify a specific individual), such as aggregate use statistics for the Site, for both Site visitors and Members. We collect such non-personally identifiable information through various means, as further explained below. Additionally, any or all of the below-described activities with respect to non-personally identifiable information may be performed on our behalf by our services providers.
 
-**1\. Cookies**
+Your saved profile can be viewed by prospective employers and recruiters if that option is selected for your account.
 
-We collect non-personally identifiable information in part through the use of "cookies" – that is, small data files placed on your computer's hard drive. Cookies track where you travel on the Site and what you look at or purchase. They may store the information in your shopping cart, and/or your screen name and/or password. Cookies may enable us to relate your use of our Site to other information about you, including your personally identifiable information. Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Site or certain areas or features of the Site.
+We also collect and store certain information associated with actions you take. For example, we store information about the job postings you apply to.
 
-**2\. Clear GIFs**
+If you connect to the Platform using Facebook, Google+, or another social networking site (each a "Social Networking Site"), we will receive information that you authorize the Social Networking Site to share with us, which may include public profile information, email address, and locale. When we receive this information, it becomes Vault account information for purposes of your use of the Platform. This information also constitutes personal information and is therefore subject to this Policy. Any information that we collect from your Social Networking Site account may depend on the privacy settings you have set with the Social Networking Site, so please consult the Social Networking Site's privacy and data practices. You have the ability to disconnect your Social Networking Site account from your Vault account by adapting the privacy settings in your Social Networking Site account. If you come to the Platform through a Social Networking Site, from other websites or with devices that enable third parties to collect information from or about you, such third parties receive information about you subject to their privacy policies. 
 
-We may use "clear GIFs" (aka, "Web beacons" or "pixel tags") or similar technologies, in the Site and/or in our communications with you to enable us to know whether you have visited a Web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a Web page or in an email or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual's viewing or receipt of a Web page or message. A clear GIF may enable us to relate your viewing or receipt of a Web page or message to other information about you, including your personally identifiable information.
+**Information Collected Automatically**
 
-**3\. IP Address and Clickstream Data**
+We also may collect your IP address, browser type, access times and referring website address. This helps facilitate your online experience at our website. In addition, we may use cookies to track usage patterns at our site. See below for more detail on cookies.
 
-We collect some basic information about your computer and Internet connections, including:
+**What Do We Do With Collected Information?**
 
-  1. your IP address (i.e., a number that's automatically assigned to your computer by your Internet service provider whenever you're on the Internet);
-  2. your operating system (e.g., Windows or Mac);
-  3. your browser software (e.g., Netscape or Internet Explorer);
-  4. your Internet Service Provider (e.g., AOL or AT&T); and
-  5. your geographic location (e.g., New York, NY).
+We use information you provide to fulfill your requests and improve our products. We use personal information so that we may display or send custom, personalized content to our website visitors and to send newsletters, mail, emails, features, surveys or other updates to our users. A user may, at any time, opt out of receiving such information. We also use collected information to evaluate and administer our products and services, fulfill customer requests, respond to any problems that may arise (such as delivery issues, difficulties in navigating our sites or accessing certain features), as well as to gauge user trends to determine what products and services are most popular with users. 
 
+**How Do We Share Personal Information?**
 
+Personal information is available to Vault and its technical and fulfillment agents and consultants who make our websites and our products and services available to you. Vault sub-contractors do not have access to protected user data. They perform all operations on an offline development system with sample data.
 
-Our servers may also record the referring page that linked you to us (e.g., another Web site or a search engine); the pages you visit on this Site; the Web site you visit after this Site; the ads you see and/or click on; any search terms you have entered on this Site or a referral site; and other Web usage activity and data logged by our Web servers. Collecting this information helps us streamline your experience on the Site - for example, helping us diagnose problems with our server, administering our Web site, by "automatically" filling out forms for you, or keeping track of the contents of your online shopping cart. We may also link this information with your personally identifiable information for various purposes.
+**Vault and Its Agents**
 
-**4\. Third-Party Advertisers**
+All companies working for Vault must comply with our information collection, use and disclosure policies, and are not permitted to sell your information to third parties or to use it except as authorized by us and you, or as permitted or required by law. All Vault agents are provided with training on federal and state laws governing confidentiality of user data. 
 
-The Site includes banner advertising that links to third-party sites. Our advertisers and their designees, as well as other third parties, may collect information about you through cookies or other technologies when you visit their Web site(s) through their ads. Third-party advertising companies also may employ clear GIF technologies (as described above) to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, and the IP address. This information can also be used for online preference marketing purposes.
+We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our site and our property; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation.
 
-Vault currently uses several third parties, (including, for example, 24/7 Real Media and others), to serve the advertisements that you may see on the pages of our Site. Additionally, Google, as another third party vendor to Vault, uses cookies (including the "DART" cookie) to serve ads on the Site. Google's use of the "DART" cookie enables it to serve ads to you based on your visit to the Site and other sites on the Internet. You may find out more about how Google uses these "DART" cookies and you may opt out of the use of the "DART" cookie by visiting the Google ad and content network privacy policy.
+**How Do We Use Cookies?**
 
-Some of these third party companies (like the ad networks) are members of the industry group, the Network Advertising Initiative, which offers a single location to opt out of their cookies. If you would like more information about this practice and to know your choices about not having your information used by these companies, we encourage you to visit the [Network Advertising Initiative's consumer web site](http://www.networkadvertising.org/consumer/).
+Your Web browser offers so-called "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a website. Cookies assist us in tracking which of our features you like best. Cookies also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our websites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some features or offerings will not be available to you.
 
-**II. Where We Collect Information**
+**How We Work with Third-Party Partners**
 
-Vault collects various types of information from users in various areas of the Site, including, for example and without limitation, in connection with the following areas and activities on the Site:
+Vault works with third parties, such as DoubleClick for Publishers, to provide you with personalized, interest-based advertising. Vault also works with Google Analytics, to provide analytics services that use the Cookies set on your device to measure the performance of advertising and track traffic to Vault generally. We have also implemented Google Analytics Demographics and Interest Reporting, which categorizes Cookie information so that we and third-party service providers can better deliver advertisements that are relevant and useful to you on the Platform and various websites across the internet.
 
-**A. Site-Wide**
+For more information about how Google uses data from sites that use their services, see <https://policies.google.com/technologies/partner-sites>
 
-Throughout the Site, including, for example, on message board postings, we collect your IP address, as well as other personally identifiable information and non-personally identifiable information, depending on the nature of your use and the types of services and activities in which you may participate.
+We work with AddThis, a third party, to provide sharing tools and analytics services. AddThis uses Cookies. To learn more about AddThis's privacy policy and opt-out options, see <http://www.addthis.com/privacy> and <http://www.addthis.com/privacy/opt-out>.
 
-**B. Membership**
+You are also able to opt out of other third-party advertiser and ad network placement of Cookies or targeted advertising generally by visiting the following links: [Network Advertising Initiative](http://www.networkadvertising.org/choices/); [Digital Advertising Alliance; European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/) (for users in the EU); or [The Digital Advertising Alliance of Canada](http://youradchoices.ca/choices) (for users in Canada);
 
-In the registration process, information such as email address, ZIP code, current industry and current occupation (as well as other personally identifiable information) may be requested of users who wish to become Vault Members. This profile information may be accessed and modified by you at any time in the My Vault Account area on the Site. Employers and managers who wish to take advantage of Vault's recruiting services such as our Job Board are also asked to provide information about their company, such as company size and name.
+**How Can You Control Your Personal Information?**
 
-**C. Newsletter subscription boxes**
+We believe that choice in how and when you are contacted is key to customer satisfaction, so we offer several ways for you to update your contact information or change your preferences. If you are a registered user at our websites, you will be able to log in and update or change your contact or account information. You may unsubscribe to any of our online email updates by following the unsubscribe instructions in the body of any message. You may write to us and update your contact information or ask that we not share your personal contact information with third parties at: Vault, c/o Privacy Coordinator, 132 West 31st Street, New York, NY 10001. In those instances, we will retain your information in a "do not promote" file in our database. You may also contact us at [support@Vault.com](mailto:support@vault.com "Vault Data Security and Privacy Policy"). We will take commercially reasonable steps to implement your opt-out requests promptly.
 
-From various areas of the Site, for example in connection with the registration process, users may be able to submit their email addresses to receive free Vault newsletters. Typically, a user must register to bbecome a Member of the Site in order to receive such newsletters, but it also may be possible to request newsletters by just submitting your email address with no other information required.
+**Security Of Your Personal Information**
 
-**D. Store checkout process & Other purchasing**
+We use Secure Sockets Layer (SSL) technology to encrypt important information, such as your credit card data, in an effort to prevent unauthorized access during transmission of your orders over the Internet. We incorporate standard industry practices internally and with our service providers suitable to the degree of sensitivity of the information involved to maintain the security of your personal information and to avoid its disclosure except as described in this policy.
 
-When purchasing items on the Site (including books, Gold Membership, Career Services and other offerings) through Vault's store, users must provide certain shipping and billing information (which may include, for example, name, address, phone number and credit card or other payment information).
+Your personal information will also be protected by the password you created when you registered at our website. The confidentiality of any password is yours to protect. You may change it anytime by following the instructions on the website. Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions cannot be assured. Vault employees are made aware of its privacy practices through periodic communications and training. We limit access to personal data only to those employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled, secure and encrypted environments. To maintain the highest level of security, we conduct internal reviews of our security measures on a regular basis. When an agreement expires client data will be purged from our systems upon request from the institution.
 
-**E. Vault Reviews**
+Vault agrees to limit internal access to education records to those individuals that are determined to have legitimate educational interests.
 
-Users who opt to submit employer, profession and school reviews may be asked for varied information depending on the review type, including both personally identifiable information and non-personally identifiable information.
+**Potential Breach of Security**
 
-**III. Third Parties**
+Vault agrees to notify its clients in the event that customer data is accessed by any breach of security resulting in an unauthorized release of client data. Vault implements reasonable technical, physical and administrative safeguards to ensure the protection of personal information against unauthorized use or access.
 
-**A. Third-Party Linked-To Websites**
+**Network Monitoring**
 
-The Site contains links to other third party Web sites, including co-branded or other affiliated sites which may or may not be owned or operated by or in conjunction with Vault. You acknowledge that we do not monitor or control the information collection or privacy practices of any third parties, and are not responsible for their practices or the content of their Web sites, including their use of any information (such as IP address, browser type, or operating system) collected when visitors or Members follow links to their sites or view advertisements served by them on their behalf. Even though certain information collected by such third parties might not identify you personally, we strongly encourage you to become familiar with their privacy practices, and to contact such third parties if you have any questions about their respective privacy policies.
+Vault's network activity is continually monitored and tested by our staff and multiple service providers to improve product delivery and maintain scalability. These audits and reviews may trigger design changes and/or the deployment of new regional data centers to handle new or unusual client traffic.
 
-**B. Opt-In Services Involving Third Parties**
+**Parental Rights**
 
-For certain opt-in services, user information may be shared with third parties. These services and third parties include:
+In compliance to the Children's Online Privacy Act (COPPA) and The Family Educational Rights and Privacy Act (FERPA), Vault will not require a child to disclose more information than is reasonably necessary to participate in an activity. Parents can review their child's personal information, direct us to delete it, and refuse to allow any further collection or use of the child's information. Any such information will not be disclosed to third parties. Access to primary content and features is entirely possible with generic, non-specific user information.
 
-  * Billing information may be shared with a company fulfilling magazine subscriptions or other product purchases as required to ship the item purchased to you.
-  * Billing information may be sent to third-party payment processors for verification.
-  * Contact information may be sent to featured vendors as a user requests for shipping purposes and otherwise in connection with such transactions (as further described in Section IV(c)(3) of this Privacy Policy.
-  * Job description information, (industry, location, nature of job, etc.), and contact information (email or fax required, other contact information optional) are sent to job posting media.
-  * When you register to participate in a Vault Career Event, the personally identifiable information you provide will be made available to participating employers, recruiters and sponsors for that event. "Vault Career Events" include in-person gatherings and "virtual" events in which employers and recruiters review resume database information to identify potential candidates. If you do not want your personally identifiable information shared with employers, recruiters and sponsors of Vault Career Events, you should not register for any such Vault Career Events. See the "Choice/Opt Out" section below for more.
+**EEA Resident Rights**
 
+If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us at [support@Vault.com](mailto:support@vault.com "Vault Data Security and Privacy Policy").
 
+  
+In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. Again, you can exercise these rights by contacting us at [support@Vault.com](mailto:support@vault.com "Vault Data Security and Privacy Policy").
 
-**IV. How We Use (and do not use) the Information We Gather**
+  
+You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the "unsubscribe" or "opt-out" link in the marketing emails we send you. Registered users can manage their account settings and email marketing preferences. If you are an unregistered user, or to opt-out of other forms of marketing (such as postal marketing or telemarketing), you may contact us at [support@Vault.com](mailto:support@vault.com "Vault Data Security and Privacy Policy").
 
-Please take some time to familiarize yourself with the different ways we may use the information we gather on or in connection with the Site.
+  
+Similarly, if we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-**A. Choice/Opt Out**
+  
+You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
 
-Vault provides you the opportunity to opt out of receiving most communications from Vault, and/or, if applicable, its affiliates, advertisers, and other business partners in My Vault Account. You have the option to remove your information from our database and to not receive future promotional communications from Vault or to no longer receive our service altogether (i.e., end or cancel your Membership). We also give you the option to change or modify the information you have previously provided to us. To exercise any of the foregoing options, you can visit My Vault Account to adjust your preferences, or:
+  
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. Notwithstanding the foregoing, we reserve the right to keep any information in our archives that we deem necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-  * Go to the [contact us](https://web.archive.org/contact-us.aspx) page.
-  * You can send mail to the following postal address: Vault.com Inc. 132 W. 31st St, 16th Floor, New York, NY 10001.
+**Changes To Our Privacy Policy**
 
+We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the policy when you visit our site to be sure you are aware of and understand our current policy. If we make material changes to this policy or in how we will use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make material changes in how we handle previously collected personal information that have retroactive effect unless legally required to do so, and we will email registered website visitors information on material changes to this policy.
 
+**Contact Information**
 
-If you have registered for a Vault Career Event (as described above), and you no longer want Vault to share your personally identifiable information with such Vault Career Event employers, recruiters and sponsors, you can send an email containing your preferences to [support@vault.com](mailto:support@vault.com).
+If you have any questions about this Privacy Policy or our privacy practices, please email us at [support@Vault.com](mailto:support@vault.com "Vault Data Security and Privacy Policy"). Please include the URL of the website and/or name of the publication/product involved in your request.
 
-Note that, because Vault will occasionally need to send you certain email messages in connection with your use of the Site, such as announcements, system status updates or order confirmations, you will not be able to opt out of receiving such types of messages (unless you cancel your membership altogether). Also, if you have granted us permission to share your personally identifiable information with third parties for their marketing use, such third parties' practices with respect to such information will be subject to their privacy policies. You should contact those entities directly regarding any communications you may receive from them, including if you later decide that you no longer want that third party to use your information.
+Or you can contact us by mail at:
 
-**B. How We Use (and do not use) Non-Personally Identifiable Information**
-
-We use non-personally identifiable information in aggregate form to build higher-quality, more useful services by performing statistical analyses of the collective characteristics and behavior of our visitors and Members, and by measuring demographics and interests regarding specific areas of the Site. We may provide such aggregate, statistical information based on this data to advertisers, other current and potential business partners and other third parties.
-
-**C. How We Use (and do not use) Personally Identifiable Information**
-
-**1\. Vault's Uses in General**
-
-Vault uses your personally identifying information in several ways:
-
-  * to help customize various aspects of the Site to your preferences;
-  * to help determine which advertisements or sponsor messages will appear during your Site visits;
-  * to send you Vault solicitations, product announcements, and the like that we feel may be of interest to you (you may opt out of receiving these materials, as described above in the "Choice/Opt Out" section); and
-  * as may be necessary to support the operation of the Site, such as for billing, account maintenance, and record-keeping purposes.
-
-
-
-**2\. Communication with Users**
-
-Vault communicates with its users primarily through email, and for a variety of purposes. These communications include opt-in subscription services, such as emailed newsletters, emailed job postings, and other notifications of personalized content. You can opt out of our promotional emails by following the directions in the "Choice/Opt Out" section of this Privacy Policy. We also may send the following types of communications:
-
-  * Emailed confirmations upon successful registration as Members.
-  * Emailed notifications that job listings a user has posted are about to expire.
-  * Emailed confirmations about orders users have placed on our site through our store.
-  * Occasional emails to be informed of changes and new features at Vault.
-  * Invitations to complete registration if a user began registration but did not complete it.
-
-
-
-**3\. Sharing with Third Parties**
-
-In addition to other circumstances as described in this Privacy Policy, Vault may disclose your personally-identifiable information to third parties as follows:
-
-Vault reserves the right to disclose personally identifiable information submitted by or concerning any visitor or Member as we reasonably feel is necessary to protect our systems or business. Specifically, but without limitation, we reserve the right to disclose such information when a visitor or Member is in violation of our Terms of Use or other published guidelines, or partakes (or is reasonably suspected of partaking) in any harmful, infringing or illegal activity, even without a subpoena, warrant, or other court order, and to disclose such information in response to court and governmental orders, civil subpoenas, discovery requests, and as otherwise required by law, as well as in response to allegations of infringement.
-
-We will cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity and disclose personally identifiable information to law enforcement bodies for investigation or prosecution, or to suspend or terminate your membership in connection with any suspected illegal or infringing activity.
-
-We may use third parties to help operate our Site and deliver the Site, and we may share your information with our affiliates, service providers and other third parties that provide products or services for or through this Site or for our business (such as Web site or database hosting companies, address list hosting companies, email service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf). Similarly, Vault may disclose personally identifiable information to our contractors and consultants and professional advisors who help us operator the Website and our business (such as attorneys, accountants), but only to the extent necessary for them to perform services on our behalf, and only under reasonable disclosure restrictions.
-
-In the event that Vault, or a substantial portion of its assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, personally identifiable information may be one of the transferred assets.
-
-With your authorization, such as when you click on a "submit order" or similar button when placing an order, your personally identifiable information may be shared with the merchant advertising the good or service you wish to purchase, so that such merchant may complete the transaction and ship the items(s) you have purchased.
-
-**4\. Credit Card Information**
-
-If you provide us with your credit card information, we will not release that information to third parties unless necessary to complete a transaction between you and such a third party. (Credit card transactions may be handled by a third-party financial institution, which receives the credit card number and other personal identifying information only to verify the credit card numbers and process transactions.)
-
-**5\. International Transfers**
-
-Vault (or third parties acting on our behalf) may also store or process your information in countries outside the European Economic Area, which may have different standards of data protection. However we will use reasonable efforts to ensure that this information is held securely.
-
-**V. Surveys and Sweepstakes**
-
-Occasionally, Vault may conduct surveys in order to better deliver advertisements and content and to better understand your needs relating to the Site. We will not share your survey information with any third party, except in aggregate form. Also, if and when we sponsor sweepstakes or other promotions, or third parties sponsor such promotions in conjunction with us, either we or the third party co-sponsor will post relevant privacy information in the official rules and/or registration area for the sweepstakes or promotion. That privacy information, to the extent it conflicts with this Policy, will govern that particular promotion or sweepstakes - please remember to read it carefully. These surveys and sweepstakes are always optional.
-
-**VI. Public Forums**
-
-Vault makes message boards ("Discussions"), blogs, chat services, commenting functionality ("Comments"), Forums and other community areas and interactive features available to its users. Please remember that because of the nature of these types of areas and activities, any information that is disclosed in these areas may become public information and you should exercise caution when deciding to disclose your personal or confidential information, or that of any other person. Vault reserves the right (but does not have an obligation) to monitor and read any or all Discussions, Comments and other user-generated content.
-
-**VII. Age**
-
-Vault's web site does not target children under the age of 13. In the event that we discover that personally identifiable information has been collected from a child under 13, we will delete that information from our systems.
-
-**VIII. Accessing, Changing or Deleting Personal Information**
-
-You may view and, if you wish, change certain personally identifiable information in My Vault by logging in to the Site in My Vault Account. For security reasons, we obscure your credit card number (if you have supplied one) and password and you will therefore not be able to see passwords or credit card numbers. You may also view and, if you wish, change information you submitted as part of the registration process, while navigating the site and using the "Save" feature, or in My Vault Account. If you are in the European Union, you also have the right to ask us what information we hold about you (for which we will charge you an administration fee) and to ask us to remove or correct any inaccurate information.
-
-**IX. Contacting the Web Site**
-
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, [contact us](https://web.archive.org/contact-us.aspx) through our site or write to us at:
-
-Vault.com, LLC  
-132 W. 31st St, 16th Floor  
-New York, NY 10001  
-USA
-
-212-366-4212
-
-**X. Security**
-
-While Vault will endeavor to protect the security and integrity of sensitive personally identifiable information provided to this Site, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. If you contact us by email or a "contact us" form or similar feature on our Site, you should be aware that your transmission might not be secure. If you create an account on our Site with a password, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Services by you or any person or entity using your password. You agree to immediately notify Vault of any unauthorized use of your password or account or any other breach of security. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
-
-In the unlikely event that we believe that the security of your personally identifiable information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email. Unless you notify us and provide us with alternative contact information (which you are free to do at any time through the [contact us](https://web.archive.org/contact-us.aspx) page), you consent to our use of email as the means of such notification.
-
-**XI. Consent to Processing**
-
-By providing personally identifiable information to this Site, you understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories.
-
-**Effective Date:** April 19, 2009.
+_Privacy Coordinator Vault 132 West 31st Street New York, NY 10001_
