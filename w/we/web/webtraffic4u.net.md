@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webtraffic4u.net privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212151240id_/http%3A//webtraffic4u.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtraffic4u.net privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618171436id_/http%3A//webtraffic4u.net/privacy.php) for the most accurate reproduction.*
 
 # Web Traffic 4 U! Free Traffic Exchange | Free Advertising Free Web Traffic
 
-Verified Members: **1795**
+Verified Members: **1787**
 
 Web Traffic 4 U Privacy Policy
 
