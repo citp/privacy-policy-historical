@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterbutter.in privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207045330id_/http%3A//betterbutter.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterbutter.in privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618182855id_/http%3A//www.betterbutter.in/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 Thank you for reviewing our privacy policy. BetterButter.in is owned by Better Butter Internet Private Limited (“BetterButter”, “Better Butter”, “Us”, “We”, “Our”). Any reference to our website in the agreement below is not limited to BetterButter.in and also refers to access through our mobile application and access to our platform in any form or format.
 
-Protecting your personal information and your privacy is really important to us. This Privacy Policy details how we gather and utilize your personal details. For any clarifications please contact us and we will get back you immediately: contactus@betterbutter.in.
+Protecting your personal information and your privacy is really important to us. This Privacy Policy details how we gather and utilize your personal details. For any clarifications please contact us and we will get back you immediately: chef@betterbutter.in.
 
  **Information collected**
 
@@ -44,6 +44,8 @@ We treat your privacy with the utmost seriousness and make every endeavor on an 
 
  **Validity of this Privacy Policy**
 
-Updates to the privacy policy of Better Butter Internet Private Limited may take place at our sole discretion. Any changes are posted on this page with the latest revision date mentioned on top. Information is collected in accordance with the Privacy Policy of that time on a best efforts basis, subject to technical and legal constraints. Any material change will result in us placing a notice notifying you of the change. If you have not consented within 30 days to a change which affects how your individually relevant information is treated, your account will be suspended automatically, and your individually relevant information will continue to be treated according to the earlier privacy policy in place, till the time that you may choose to consent to the change. **Dispute resolution**
+Updates to the privacy policy of Better Butter Internet Private Limited may take place at our sole discretion. Any changes are posted on this page with the latest revision date mentioned on top. Information is collected in accordance with the Privacy Policy of that time on a best efforts basis, subject to technical and legal constraints. Any material change will result in us placing a notice notifying you of the change. If you have not consented within 30 days to a change which affects how your individually relevant information is treated, your account will be suspended automatically, and your individually relevant information will continue to be treated according to the earlier privacy policy in place, till the time that you may choose to consent to the change.
+
+ **Dispute resolution**
 
 Any dispute or claim relating to this privacy policy or its prior version shall be resolved as provided in our Terms of Service Agreement. This privacy policy is governed by the terms of the BetterButter Terms of Service Agreement, available for review here.
