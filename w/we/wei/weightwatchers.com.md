@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129112348id_/https%3A//www.weightwatchers.com/us/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618234412id_/https%3A//www.weightwatchers.com/us/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Weight Watchers
 
@@ -30,7 +30,7 @@ Please remember that this Privacy Policy applies only to information collected b
 ###  **WHAT INFORMATION IS COLLECTED ABOUT YOU IS COLLECTED ON OUR WEBSITE OR THROUGH OUR ONLINE PRODUCTS?**  
 
 
-We collect two types of information: personally identifiable information and non-personally identifiable information. 
+We collect personally identifiable information. 
 
 ###  **_Personally Identifiable Information._**  
 
@@ -39,10 +39,7 @@ Personally identifiable information is information that identifies you or can be
 
 You do not have to provide us with any Personally Identifiable Information to visit our Website. However, if you choose to withhold requested information, you may not be able to visit all sections of our Website or use all of our Online Products, such as subscribing to our online weight-loss tools or posting content to any Community Area on our Website. A "Community Area" means any blog, personal page, group page, chat room, message board, bulletin board, recipe swap, or similar activity. In addition, we may not be able to provide you with some of the other Online Products dependent upon the collection of such information, such as a personalized WeightWatchers.com home page. 
 
-###  **_Non-Personally Identifiable Information._**  
-
-
-When you become a registered user of our Website, subscribe to one of our current Online Products, or in connection with other Online Products we may make available on our Website from time to time, we also may collect information that by itself cannot be used to identify or contact you, such as demographic information like age, profession or gender ("Non-Personally Identifiable Information"). Non-Personally Identifiable Information may also include user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of our Website. Non-Personally Identifiable Information is used to help us understand who uses our Website and to improve and market our Website in general and our Online Products in particular.
+When you become a registered user of our Website, subscribe to one of our current Online Products, or in connection with other Online Products we may make available on our Website from time to time, we also may collect information that by itself cannot be used to identify or contact you.
 
 ###  **_Information from Other Sources._**  
 
@@ -96,7 +93,7 @@ Our Website offers you the option to connect your Weight Watchers account with t
 ###  **_Referral Programs._**  
 
 
-Through third party referral program operators and others, we offer referral programs whereby referral websites can earn commissions through the referral of subscribers or other purchasers to our Website. To track the earning of such commissions, and to determine the effectiveness of the referral programs, the users who become subscribers to our Online Products or purchasers through such referral websites are tracked using technologies that do not include Personally Identifiable Information (such as cookies and/or action tags). Our program operators and the referral websites themselves can only access non-Personally Identifiable Information such as data relating to the number of impressions served, the number of transactions completed, and their resulting earnings. They cannot access our customers' personal data. 
+Through third party referral program operators and others, we offer referral programs whereby referral websites can earn commissions through the referral of subscribers or other purchasers to our Website. To track the earning of such commissions, and to determine the effectiveness of the referral programs, the users who become subscribers to our Online Products or purchasers through such referral websites are tracked using technologies that do not include Personally Identifiable Information (such as cookies and/or action tags). Our program operators and the referral websites themselves can only access information such as data relating to the number of impressions served, the number of transactions completed, and their resulting earnings. They cannot access our customers' personal data. 
 
   
 If you choose to apply to be a referral website, we use the data you provide strictly for conducting business with you. We have entered into certain agreements with third party program operators for the purpose of administering our referral programs. Should you become a referral website of ours through one of our third party program operators, any information you provide to them is subject to their privacy policies. 
@@ -109,7 +106,7 @@ We collect information, some of which may be Personally Identifiable Information
 ###  **_Handheld Products._**  
 
 
-Information is also collected when you use our Handheld Products, including the software application needed to utilize the Handheld Products on your handheld device (the "Application"). During the installation of the Application and subsequent synchronizations, we collect Non-Personally Identifiable Information concerning your device (such as the specific type of operating system and hardware you have, and the amount of free and total memory) and the Application's files on your device.  
+Information is also collected when you use our Handheld Products, including the software application needed to utilize the Handheld Products on your handheld device (the "Application"). During the installation of the Application and subsequent synchronizations, we collect information concerning your device (such as the specific type of operating system and hardware you have, and the amount of free and total memory) and the Application's files on your device.  
 Our Handheld Products also collect information about your usage of the Application (such as the dates you last synced with the Internet or the dates you last used certain features). When you sync your device with the Website, we store some of this information. 
 
 ###  **_Public Forums and the Public Profile Feature._**  
@@ -124,7 +121,7 @@ You should be aware that any information shared in a public forum such as a mess
 ###  **_Log Files._**  
 
 
-We also collect Non-Personally Identifiable Information through our Internet log files, which record data such as user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of our Website. This information may be used to analyze trends, to administer the Website, to monitor our Website's use, and to gather general demographic information. We may link this information to Personally Identifiable Information for these and other purposes such as personalizing your experience on our Website and evaluating our Online Products in general.
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser types, domain names, and other anonymous statistical data involving the use of our Website. This information may be used to analyze trends, to administer the Website, to monitor our Website's use, and to gather general demographic information. We may link this information to Personally Identifiable Information for these and other purposes such as personalizing your experience on our Website and evaluating our Online Products in general.
 
 ###  **_Email or Refer a Friend._**  
 
@@ -233,11 +230,11 @@ Or, fax our Privacy Coordinator at:
 (212) 589-2601  
 Attn: Privacy Coordinator 
 
-**EU-U.S. Privacy Shield**
+**EU-U.S. Privacy Shield and Swiss-U.S Privacy Shield**
 
-WeightWatchers.com, Inc., Weight Watchers International, Inc. and Weight Watchers North America, Inc. participate in and have certified its compliance with the EU-U.S. Privacy Shield Framework.  WeightWatchers.com, Inc. is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's [Privacy Shield List](https://www.privacyshield.gov/list). 
+WeightWatchers.com, Inc., Weight Watchers International, Inc. and Weight Watchers North America, Inc. participate in and have certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. WeightWatchers.com, Inc. is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Frameworks, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce's [Privacy Shield List](https://www.privacyshield.gov/list). 
 
-WeightWatchers.com, Inc.is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. WeightWatchers.com, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
+WeightWatchers.com, Inc.is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. WeightWatchers.com, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. 
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, WeightWatchers.com, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, WeightWatchers.com, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
 
@@ -245,13 +242,4 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) , you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
-###  **_U.S.-Swiss Safe Harbor._**  
-
-
-We continue to comply with the principles that were previously recommended by the U.S.-Swiss Safe Harbor Framework as set forth below and as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the Switzerland.  We have certified that we adhere to these principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. 
-
-BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES. 
-
-Last modified as of September 28, 2016 
-
-[Print](https://web.archive.org/web/20170129112348id_/https%3A//www.weightwatchers.com/us/privacy/window.print\(\);)
+Last modified as of March 16, 2018 
