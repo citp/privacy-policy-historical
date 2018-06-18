@@ -1,54 +1,49 @@
-> *The following text is extracted and transformed from the historytoday.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528003307id_/http%3A//www.historytoday.com/MainArticle.aspx%3Fm%3D32159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historytoday.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618053607id_/https%3A//www.historytoday.com/privacy-policy) for the most accurate reproduction.*
 
-# History Today - Privacy Policy & Disclaimer :
+# Privacy Policy | History Today
 
-**General**
+Your personal information is being processed by History Today Ltd (“we”). We are committed to managing your personal information in accordance with current legislation and best practice. Our aim is to be responsible, relevant and secure when using your data. You can find out more about us by visiting [www.historytoday.com/about-us](https://www.historytoday.com/about-us).
 
-Thank you for visiting historytoday.com.
+Whenever you provide personal information we will treat that information in accordance with this Notice. We endeavour at all times to keep your data accurate and secure, and to honour your data preferences with regard to receipt of direct marketing e.g. email, mobile messaging and mobile telephone calls.
 
-Your privacy is important to us. We provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.History Today Ltd owns and operates historytoday.com. All the information you give will be treated as confidential and is stored in a secure server, with only authorised individuals approved by History Today Ltd having access.
+History Today Ltd publishes History Today magazine, the website [www.historytoday.com](http://www.historytoday.com/) and the History Today app for Apple, Android and Kindle Fire, all of which are governed by this Privacy Notice. 
 
- **Collection and use of your details**
+### **What information we collect**
 
-The types of information that may be collected via the registration and purchase transactions include: name, postal address, e-mail address, telephone number and credit card information. This information will be used in transaction processes, to fulfil any other requests for our products, programs and services, and used to update you on any important changes to the website and its functionality. We will also use this information to inform you of other products and services that we feel may be of interest to you. If you do not wish to be contacted for this purpose, please express your preferences on the registration page.
+To provide you with the best possible customer experience we may ask you to submit personal information such as your name, postcode, email address and mobile phone number. Providing this personal information helps us to provide you with a better experience e.g. not having to login to websites each time you visit and showing you content that really interests you.
 
-To enable History Today to improve our service to you we may ask for additional details with regard to competitions, other features and offers, and online surveys.
+Additionally we use web technologies e.g. cookies and web beacons, to automatically track and log limited personal data and link this with information you or other suppliers have provided. See our [cookies policy](https://www.historytoday.com/cookies-policy) for more. For detailed information on Cookies and how you can choose to allow or prevent sites accessing cookies, see [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
- **Change My Profile**
+Anonymous data will be recorded for the purpose of reporting web traffic statistics, advertisement 'click-throughs', and/or other activities on our sites.
 
-To change any of your details please log-on to the website and click on Edit Profile. Magazine subscribers should use the [Contact Us](https://web.archive.org/dm_linkinternal.aspx?amid=12111) form to notify us of any address changes.
+History Today Ltd may sometimes use cookie technology to help improve its digital marketing campaigns and improve user experience across its products. This technology allows History Today Ltd to target relevant adverts to you across a number of other websites that share the same advertising technology platforms. Third party vendors including partners like Google serve advertising across the Internet based on cookies which are left on your device when you visit a website. These cookies help target relevant advertising to our users based on previous visits and behaviour. You can opt out of Google’s use of cookies by visiting Google’s Ads Settings or you can opt out of additional third-party vendor cookies by visiting the Network Advertising Initiative opt out page.
 
- **Purchase transaction details**
+Our iPad, Android and other apps may collect user data which we use to learn about our readers and improve the app. 
 
-To complete purchase transactions History Today will use credit or debit card details, and billing or delivery address information provided by you. SSL (Secure Socket Layer), encrypts all ordering information so that no part of your order - including your name, address, and credit card number - can be read by a third party. Consequently, your credit card number is safer when you order online through SSL than when you make a credit card purchase in a restaurant or a store! 
+### **How we use your data**
 
-All payment details are stored by WorldPay systems. The banking authorities, to ensure a secure transaction environment, regularly audit data storage on WorldPay systems, and the communication between WorldPay and the worldwide banking networks. 
+The personal information we obtain will be used for the following purposes.
 
-**‘Cookies’ Policy**
+We may use third party suppliers to provide part of our service to you. In some circumstances these providers may be based in countries outside the European Economic Area whose laws provide for a different standard of protection for your personal information than that provided under UK Law. In such circumstances we will have in place strict contractual arrangements that will require your information is processed securely, at least to a standard equivalent to the UK Data Protection Act 1998.
 
-A cookie is a small file, which is placed on the user's hard drive during a historytoday.com visit. This file allows the user to move quickly and easily around our site. It is used to identify returning users and to identify subscribers and registrants. This means that if you are a registrant or subscriber, you will not have to login each time you visit. We also use a cookie to track a user's sessions. We use this information to find out what site features are most popular so that we can develop historytoday.com. We will also use cookies and the information we collect to show you relevant content and advertising. The information we gather by use of cookies does not include personally identifying information.For more information on how to manage your cookies please click here.  
-[ __](http://www.allaboutcookies.org/manage-cookies/index.html) _[http://www.allaboutcookies.org/manage-cookies/index.html](http://www.allaboutcookies.org/manage-cookies/index.htmlThird-party)_ **Third-party** **partners**
+Your personal data will not be disclosed to state institutions and authorities except if required by law or other regulation. Before we release data on this basis, we will ensure that the information is being provided to a genuine and properly authorised investigation. If we are not satisfied that there are valid grounds for releasing the information, the Data Protection Act does not oblige us to do so. If we refuse to release the information, law enforcement agencies may obtain a court order requiring us to provide it.
 
-Third-party partners of historytoday.com and other websites you may link to via historytoday.com have different privacy policies and are not subject to the privacy policy of History Today. We recommend that you read the privacy statement of each external website. **Access to Data**
+### **Access to Personal Information**
 
-Under the latest Data Protection Acts you have the right to be told what personal information History Today hold about you on our databases. Please write to us at:
+If you wish, you can obtain a copy of any personal information we have about you by sending your request to The Data Controller, History Today Ltd, 2nd Floor, 9 Staple Inn, London WC1V 9DT, United Kingdom. We will provide you, at no charge, with a hard copy of the personal data that we keep about you within 30 days, although we will require proof of your identity. If you consider that the information we hold about you is incorrect, you may where appropriate, have the data erased, amended or updated.
 
-Database Enquiries  
-c/o History Today  
-20 Old Compton Street  
-London W1D 4TW  
-UK **Changes to Privacy Policy**
+### **Personal information security**
 
-Any changes to the privacy policy will be posted here. To send any comments or questions regarding this website or privacy policy please click on contact us. 
+History Today Ltd security policies, rules and technical measures have been implemented to protect your personal information from unauthorised or improper use and from accidental loss.
 
-**Copyright**
+All our employees and data processors that have access to, and are associated with, the processing of your personal information are legally obliged to respect the confidentiality of your data and are bound by contract to do so.
 
-Copyright, database rights and other rights relating to all historytoday.com content is owned by History Today Ltd, unless otherwise stated. No material appearing on historytoday.com may be reproduced, copied or transmitted on any other website or intranet without permission of historytoday.com. For any queries or questions regarding this please _contact us_. **Disclaimer**
+Note that some of our websites provide forums where you can post information. When you do so, be aware that other visitors may collect any information you make public.
 
-The name History Today, History Review, historytoday.com, historytoday.co.uk, historymagazine.co.uk, historytodaynews.com and all logos herein are trademarks of History Today Ltd. It is not permitted to reproduce these trademarksWith regard to the quality, operation or functionality of historytoday.com, we reserve the right to restrict, interrupt or delay access. The content appearing on the site is not guaranteed by History Today Ltd to be accurate, up-to-date, and complete or to be used for any particular purpose.
+### **Privacy Support**
 
-Within the law, historytoday.com disclaims all responsibility for any damages or losses arising in contract, tort or otherwise from the use of or any content on historytoday.com. This also includes any actions or decision made as a result of using historytoday.com. Historytoday.com is not responsible for external links from this site and historytoday.com takes no responsibility, liability (or for negligence) in relation to this website’s content.
+If you have an enquiry or concern about our Privacy Notice, please contact: The Data Controller, History Today Ltd, 2nd Floor, 9 Staple Inn, London WC1V 9DT, United Kingdom. If you are not satisfied with our response you may wish to contact the Information Commissioner via their website
 
- **Protection Rights**
+If we decide to change our Privacy Notice we will post these changes on this page so that you are always aware of what information we collect, how we use it and in what circumstances we disclose it.
 
-The name History Today, History Review, historytoday.com, historytoday.co.uk, historymagazine.co.uk, historytodaynews.com and all logos herein are trademarks of History Today Ltd. It is not permitted to reproduce these trademarks.
+In the event of any part of History Today Ltd either being sold or going into receivership, we reserve the right to continue to share your data to third parties in accordance with the latest preferences you have provided. You will be informed should any change of ownership occur, and the new owner will manage your personal information preferences.
