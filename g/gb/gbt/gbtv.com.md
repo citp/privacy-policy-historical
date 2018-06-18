@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gbtv.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230023456id_/http%3A//www.theblaze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gbtv.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618081013id_/http%3A//www.theblaze.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – TheBlaze
+# Privacy Policy | TheBlaze
 
 [ ](https://web.archive.org/)
 
@@ -153,7 +153,7 @@ _Last Updated: April 13, 2017_
 
 ### Community Rules
 
-Speak your mind. Please be respectful of our rules and community. Asking people to upvote you or your post are not allowed. No spam, abuse, obscenities, off-topic comments, racial or ethnic slurs, threats, hate, comments that incite violence or excessive use of flagging permitted.
+Speak your mind. Please be respectful of our rules and community. No spam, abuse, obscenities, off-topic comments, racial or ethnic slurs, threats, hate, comments that incite violence or excessive use of flagging permitted.
 
 Please be respectful of our community and spread some love. Any of the following may result in a permanent ban:
 
@@ -166,7 +166,6 @@ Please be respectful of our community and spread some love. Any of the following
   * Threats of any kind
   * Hate messages
   * Excessive use or the flagging (report as spam) feature
-  * Asking people to upvote your comments or posts
 
 
 
