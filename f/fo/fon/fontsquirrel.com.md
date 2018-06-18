@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontsquirrel.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230071132id_/https%3A//www.fontsquirrel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontsquirrel.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619010426id_/https%3A//www.fontsquirrel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Font Squirrel
 
@@ -6,7 +6,7 @@
 
 **Information You Provide.** We receive and store information you enter. For example, when you search for or buy a product or service, or when you supply information such as your address, phone number or credit card. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you. In addition, if you opt-in, we may share your information with other companies who provide goods or services that you are interested in. 
 
-**Cookies.** Like many websites, we use "cookies". Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience. If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the “help” button. Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie. In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies.
+**Cookies.** Like many websites, we use "cookies". Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience. If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the “help” button. Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie. In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies. 
 
 **Other Information:** Every computer has an IP (Internet Protocol) address. IP addresses of computers used to visit this site are noted. In addition, we automatically collect other information such as email addresses, browser types, operating systems, and the URL addresses of sites clicked to and from this site.
 
@@ -19,6 +19,8 @@
 **Agents.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
 **Special Offers.** We may send you special offers from time to time, unless you choose to “opt-out” of receiving such offers. In addition, we may also send you special offers from other companies. Again, you may “opt-out”.
+
+**Advertising.** We use your data for advertising purposes. We use third-party advertising companies who serve ads to help keep content free. For these partners, we put additional restrictions on how your data can be used to prevent it from misuse. For instance, we do not allow these partners to take your information for profiling and personalizing ads on other sites. Please review the following for a full list of partners and purposes: [PubGalaxy (Titan Gate AD)](https://www.pubgalaxy.com/privacy-policy.html). 
 
 ### How Do We Protect the Security of Your Information?
 
