@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231191911id_/http%3A//www.washingtontimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618023937id_/https%3A//www.washingtontimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Washington Times
 
-**Effective Date: February 25, 2015**
+**Effective Date: May 22, 2018**
 
 The Washington Times LLC (“TWT”, “we” or “us”) recognizes the importance of protecting the information it collects from users in the operation of its Web site, washingtontimes.com (“TWT’s Web site”) as well as other activities. As such, TWT takes reasonable steps to maintain the security, integrity and privacy of this information.
 
@@ -24,7 +24,7 @@ We may collect and store information that you voluntarily supply to us while on 
 
 
 
-You are not required to provide information about yourself to visit our site.  However, if you wish to receive any of our newsletters, you will be required to provide us the email address to which you want us to send the newsletters as well as your name, the country in which you reside, and, where applicable, your postal code.  If you wish to participate in any of the interactive features of our site – for example, by posting comments, voting in a poll, viewing additional information about a story, or viewing premium content, you may be required to register with Disqus.  When you register with Disqus, you’ll be asked you for your email address or Web site address.  You’ll also have to provide a username and a password. 
+You are not required to provide information about yourself to visit our site.  However, if you wish to receive any of our newsletters, you will be required to provide us the email address to which you want us to send the newsletters as well as your name, the country in which you reside, and, where applicable, your postal code.  If you wish to participate in any of the interactive features of our site – for example, by posting comments, voting in a poll, viewing additional information about a story, or viewing premium content, you may be required to register with Spot.IM.  When you register with Spot.IM, you’ll be asked for your email address or Web site address.  You’ll also have to provide a username and a password. With Spot.IM you have the choice of registering your account with an email address, or by using your Facebook, Google, Twitter, or Disqus credentials. You may view Spot.IM’s privacy policy at <https://www.spot.im/disclaimer/privacy/index.html>.
 
  ** _Information That Is Collected Automatically_**
 
@@ -38,7 +38,7 @@ Providers of email transmission services use pixel tags to record whether an ema
 
 We also may use cookies to record certain preferences that you enter or set while using the site.  For example, if you are a registered user and you opt to have the site “remember you,” we’ll use cookies to automatically store your log-in information so that you won’t have to re-enter it the next time you visit.
 
-The help function on most Web browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely.  However, if you don’t accept cookies, you won’t be able to take advantage of various features on our site that are available to other visitors.  For example, we won’t be able to store your log-in information, so that you don’t have to log in each time you visit, unless you accept cookies.
+The help function on most Web browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely.  However, if you don’t accept cookies, you won’t be able to take advantage of various features on our site that are available to other visitors.  For example, we won’t be able to store your log-in information, so that you don’t have to log in each time you visit, unless you accept cookies. 
 
  **HOW WE USE COLLECTED INFORMATION**
 
@@ -58,19 +58,17 @@ When you purchase any product or service on our site, we collect the information
 
 Advertisers that display Ads on our site (and other advertising services) may use cookies and pixel tags of their own to record your Web browser’s interaction with a given Ad.  This technique allows the Advertiser (and its providers of ad serving and other advertising services) to track how Ads are displayed, and which are clicked on, and to limit the number of times a given Ad is shown to you.  The use of cookies and pixel tags may also enable these Advertisers (and their providers of ad serving and other advertising services) to serve ads to our users based on their perceived interests as gleaned from their visits to this and other Web sites.  For example, DoubleClick, a provider of ad serving and other advertising services, may set cookies in connection with Ads displayed on our Web site through our relationship with Google.  For a detailed description of Google’s interest-based advertising program, or to opt out of receiving interest-based ads from Google, [ **click here**](https://www.google.com/policies/technologies/ads/).
 
- Similarly, LiveRamp, another provider of advertising services, may set cookies in connection with Ads displayed on our Web site, and may use behavioral targeting methods to select which ads to display. These cookies contain no personally identifiable information.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, which we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to:  <https://www.aboutads.info/choices>. Another provider of advertising services, Nativo, may collect certain information, through the use of cookies, about the Web site and its users. To opt-out of this data collection please go to: <https://www.nativo.net/>.
+ Similarly, LiveRamp, another provider of advertising services, may set cookies in connection with Ads displayed on our Web site, and may use behavioral targeting methods to select which ads to display. These cookies contain no personally identifiable information.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, which we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to: [http://optout.aboutads.info/](http://optout.aboutads.info/?c=2#!/). Another provider of advertising services, Nativo, may collect certain information, through the use of cookies, about the Web site and its users. To opt-out of this data collection please go to: [https://www.nativo.net/](https://www.nativo.net/).
 
  ** **  If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by e-mailing us at [**privacypolicy@washingtontimes.com**](mailto:privacypolicy@washingtontimes.com "privacypolicy@washingtontimes.com"). If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, (3) correct, supplement or modify your information, you may either send an e-mail to [**privacypolicy@washingtontimes.com**](mailto:privacypolicy@washingtontimes.com "privacypolicy@washingtontimes.com"), or a written request to:
 
- The Washington Times LLC, Attn: Privacy Policy, 3600 New York Avenue, NE, Washington, D.C., 20002
+The Washington Times LLC, Attn: Privacy Policy/ Data Protection Officer, 3600 New York Avenue, NE, Washington, D.C., 20002
 
  ** _Data Collected in Connection with Emails_**
 
-Email newsletters you elect to receive from us are transmitted through Marketo. Marketo uses pixel tag technology to determine whether an email has been opened. In addition, when you click on any link in an email newsletter or marketing message you have elected to receive, Marketo recognizes that fact. This information is used in the aggregate to measure the rate at which emails are opened and various links are clicked, to measure user interests and traffic patterns, and to improve the content of the email newsletters and the services and features offered through the email newsletter and marketing messages.
+Email newsletters you elect to receive from us are transmitted through Boomtrain, a Zeta Global Company. Boomtrain uses pixel tag technology to determine whether an email has been opened. In addition, when you click on any link in an email newsletter or marketing message you have elected to receive, Boomtrain recognizes that fact. This information is used in the aggregate to measure the rate at which emails are opened and various links are clicked, to measure user interests and traffic patterns, and to improve the content of the email newsletters and the services and features offered through the email newsletter and marketing messages.
 
-Because some of this information is linked to individual email addresses, it is personally identifiable. You can view Marketo’s privacy policy at <https://legal.marketo.com/privacy/>.
-
-Our email newsletters contain advertisements, some of which are supplied by a company named LiveIntent, and are from companies that comply with the Digital Advertising Alliance Principles and the Newspaper Association of America, as well as the Network Advertising Initiative and the Online Behavioral Advertising self-regulatory program. LiveIntent is the first email ecosystem company to implement AdChoices. AdChoices is a self-regulatory system that gives the user the ability to:
+Because some of this information is linked to individual email addresses, it is personally identifiable. You can view Boomtrain/ Zeta Global’s privacy policy at <https://zetaglobal.com/privacy-policy/>. Our email newsletters contain advertisements, some of which are supplied by a company named LiveIntent, and are from companies that comply with the Digital Advertising Alliance Principles and the Newspaper Association of America, as well as the Network Advertising Initiative and the Online Behavioral Advertising self-regulatory program. LiveIntent is the first email ecosystem company to implement AdChoices. AdChoices is a self-regulatory system that gives the user the ability to:
 
 1\.    See who served the ad
 
@@ -98,7 +96,13 @@ Please keep in mind that whenever you make your personal information or other in
 
 The information that we collect through TWT’s Web site is stored within databases that we control (or databases hosted on our behalf) on servers maintained in protected environments within the United States.  Any credit card information you provide on our site is secured for transmission over the Internet using industry-standard secure sockets layer (SSL) encryption.  However, no physical or electronic security system is impenetrable.  We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us or our third-party service providers over the Internet.
 
-  **PROTECTING THE PRIVACY OF CHILDREN**
+ ** _GDPR Compliance_**
+
+The General Data Protection Regulation (“GDPR”), which takes effect on May 25, 2018, is a new version of the existing data protection laws defined and enforced by the European Union. The GDPR imposes new rules regarding the processing of personal data of data subjects’ located in the EU. TWT is fully committed to comply with GDPR prior to its effective date.
+
+We may engage secure third-party companies to store or process your personal data in the United States or in other countries. If you are a resident of the European Economic Area ( **“EEA”** ) we will take appropriate measures to ensure that your personal data receives an adequate level of data protection upon its transfer outside of the EEA. If you are a resident of a jurisdiction where transfer of your personal data requires your consent, then your consent to this Privacy Policy includes your express consent for such transfer of your data.
+
+ **PROTECTING THE PRIVACY OF CHILDREN**
 
 Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else.  Our Web site is not directed at children under the age of 13 and we won’t knowingly allow anyone under the age of 13 to provide us any personal information.  If you’re under 13, please don’t provide any information about yourself on this Web site. 
 
