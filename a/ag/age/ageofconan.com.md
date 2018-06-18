@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ageofconan.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221222430id_/http%3A//www.ageofconan.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ageofconan.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618103753id_/http%3A//www.ageofconan.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Age of Conan | Funcom
 
@@ -56,7 +56,8 @@ Funcom does not sell your information to third parties.
 
 In the event Funcom decides to change the Privacy Policy you will receive notice, either by e-mail or the Funcom website. You will have the opportunity to terminate if you do not agree to the change.
 
-Funcom Oslo AS,   
-Bestumstubben 11   
-N-0281 Oslo   
-Norway
+Funcom
+
+Kirkegata 15,
+
+N-0153 Oslo Norway
