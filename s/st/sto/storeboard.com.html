@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the storeboard.com privacy policy that was archived on 2017-09-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170903023938id_/https%3A//www.storeboard.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the storeboard.com privacy policy that was archived on 2018-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180618122857id_/https%3A//www.storeboard.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Language" content="en-us">
@@ -17,7 +17,7 @@
     document.domain = "storeboard.com";
 </script>
 <link rel="stylesheet" type="text/css" href="/css/master_css.asp?id=1">
-<link href="https://r.storeboard.com/bundles/main-css?v=hW7n6rh6V97b_8nZ6EY3gh-WCSf2gVg_N9rL6wcHdAI1" rel="stylesheet">
+<link href="/bundles/main-css?v=uHPVXAGVHaxCZOl7LlpSmxGJWXErwt52CFzYR9m0-vg1" rel="stylesheet">
 
 <link rel="stylesheet" type="text/css" href="/css/tooltip.asp">
 
@@ -28,8 +28,8 @@
 <!--JS FROM NEW LAYOUT:BEGIN -->
 <script src="https://r.storeboard.com/bundles/jquery-new-version?v=qw4kDmaGOm3kPJDbYz4hcV-chOiCEnAicByEoxjs5uc1"></script>
 <script src="https://r.storeboard.com/bundles/jquery-mCustomScrollbar-plugin?v=Ehemc1A-438qtBwjYC0jtC5HLX6NfK2hdUWrRG3k0pA1"></script>
-<script src="https://r.storeboard.com/bundles/jquery-fancybox?v=p4VQeSf-G-Q0dqHy_wabF_rysguF11-8xyiapAtVkHU1"></script>
-<script src="https://r.storeboard.com/bundles/jquery-custom-scripts-whiteLayout?v=pJRYfOOPD-dxoaSj3kOS0LydCD7y-hfqJcejrRDrny81"></script>
+<script src="/bundles/jquery-fancybox?v=p4VQeSf-G-Q0dqHy_wabF_rysguF11-8xyiapAtVkHU1"></script>
+<script src="https://r.storeboard.com/bundles/jquery-custom-scripts-whiteLayout?v=g0OLmXNWCXkNrIifZhCrcjB3XcqrPXFbekc9QyqlIpE1"></script>
 
 
 <!--JS FROM NEW LAYOUT:END -->
@@ -38,7 +38,7 @@
 
   
 <!--CSS FROM NEW LAYOUT:BEGIN -->
-<link href="https://r.storeboard.com/bundles/main-header-whiteLayout-css?v=roZMDAFs2dMVRAGfbL0iukPsbjhS727nWAwQA1iOkdQ1" rel="stylesheet">
+<link href="https://r.storeboard.com/bundles/main-header-whiteLayout-css?v=vmCLJffPrHEmKWPLrfyj7gm67s0ldCTt9cDiGiBQNlQ1" rel="stylesheet">
 
 <!--CSS FROM NEW LAYOUT:END -->
 
@@ -428,6 +428,11 @@
                         <div class="search-ddl">
                             <span class="search-ddl_label" id="HdrSearchDDL">Members</span>
                             <ul>
+                                     <li>
+                                        <span onclick="searchByTagManager.showHideSearchInput_Header($('#SitsIconInTheHeader'))">
+                                                SB Tag
+                                        </span>
+                                    </li>
                                 <li>
                                     <span data-nosearchurl="/members/" data-keysearchurl="/members/" data-formurl="/members/" onclick="searchByTagManager.hideSearchInputAndPopup_Header()">
                                         Members
@@ -468,11 +473,7 @@
                                         Products
                                     </span>
                                 </li>
-								<li>
-                                    <span onclick="searchByTagManager.showHideSearchInput_Header($('#SitsIconInTheHeader'))">
-                                        SB Tag
-                                    </span>
-                                </li>
+								
                             </ul>
                         </div><!--
                     --><input type="text" name="tbSearchQuery" placeholder="What are you looking for?" onkeypress="return MainSearchEnter(this,event)"><!--
@@ -659,18 +660,49 @@
     </ul>
 </div><div class="main-left-nav" style="width:193px;z-index:2;position: relative; top: 0px" id="LogOut_CP">
                   <ul class="panel-group nav-menu-wrp" id="ControlPanel"> 
-                    <li class="panel panel-default">
+                      <li class="panel panel-default js-menu-item">
                         <div class="panel-heading nav-menu_heading">
                             <h4 class="panel-title">
                                 <a href="/members/" class="members-nav">Members</a>
                             </h4>
                         </div>
-                        <div id="MenuItem_Members" class="nav-menu_link-list panel-collapse collapse">
-                            <div class="panel-body">
-                                Members
-                            </div>
+                          <div class="nav-menu_link-list panel-collapse collapse js-sub-menu">                          
+                            <ul>
+                                <li>
+                                    <a href="/business-networks/">View Business Networks</a>
+                                </li>
+                                <li> 
+                                    <a href="/members/default.asp">View All Members</a> 
+                                </li>   
+                                 <li> 
+                                    <a href="/members/locations.asp">View By Location</a> 
+                                </li> 
+                                <li> 
+                                    <a href="/members/business_categories.asp">View By Category</a> 
+                                </li>  
+                              
+                            </ul>
                         </div>
-                    </li>                   
+
+
+
+                    </li> 
+                      
+                    <li class="panel panel-default js-menu-item">
+                        <div class="panel-heading nav-menu_heading">
+                            <h4 class="panel-title">
+                                <a href="/stepinsidethestore/signup" class="store-nav" title="Set Up Your Store">Store</a>
+                            </h4>
+                        </div>
+                         <div class="nav-menu_link-list panel-collapse collapse js-sub-menu">
+                                <ul> 
+                                    <li><a href="/stepinsidethestore/subscribe">Subscribe</a></li> 
+                                    <li><a href="/what-is-step-inside-the-store">Learn More</a></li>  
+                                </ul>
+                         </div>
+
+                         </li>  
+                                        
                     <li class="panel panel-default js-menu-item">
                         <div class="panel-heading nav-menu_heading">
                             <h4 class="panel-title">
@@ -869,14 +901,15 @@
                                 <a href="/profile/board_list.asp" class="board-nav">Board</a>
                             </h4>
                         </div>                        
-                    </li>  
-                    <li class="panel panel-default" style="display:none">
+                    </li> 
+                          
+                    <li class="panel panel-default js-menu-item">
                         <div class="panel-heading nav-menu_heading">
-                            <h4 class="panel-title">
-                                <a href="/my-adverts" class="advert-nav">Ads</a>
+                              <h4 class="panel-title">
+                                <a href="/my-adverts" class="advert-nav">Advertise</a>
                             </h4>
                         </div>    
-                        <div class="nav-menu_link-list panel-collapse collapse js-sub-menu">                            
+                       <div class="nav-menu_link-list panel-collapse collapse js-sub-menu">                               
                             <ul id="AdvertWrp">                                                                              
                                 <li>
                                     <span data-toggle="modal" data-target="#SigninPopupPanel" onclick="SignInPopup.updateLoginReasonMessage($(this))" class="cp-menu-item">Add An Ad</span>                                    
@@ -951,7 +984,7 @@ function googleTranslateElementInit() {
         </div>
         <div class="footer-bottom">
             <div class="footer_links col-xs-8">
-                COMPANY &nbsp;|&nbsp; <a href="https://www.storeboard.com/about/">About</a> &nbsp;|&nbsp;&nbsp;<a href="https://www.storeboard.com/press/">Press</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.storeboard.com/premiumpackages/">Advertising</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://newyork.storeboard.com/blogs/storeboard/storeboards-guiding-principles/237487">Guiding Principles</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.storeboard.com/blogs/storeboard/storeboard-as-an-investment-opportunity/257835" target="_blank">Investors</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.storeboard.com/terms/">Terms and Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.storeboard.com/privacy/">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.storeboard.com/contact-us/">Contact Us</a>
+                <a href="https://www.storeboard.com/about/">About</a> &nbsp;|&nbsp;&nbsp;<a href="https://www.storeboard.com/press/">Press</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.storeboard.com/manage-advert">Advertising</a>  |&nbsp;&nbsp;<a href="https://storeboard.com/what-is-step-inside-the-store">Step Inside The Store</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://newyork.storeboard.com/blogs/storeboard/storeboards-guiding-principles/237487">Guiding Principles</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://bronx.storeboard.com/blogs/storeboard/storeboardcom-investment-opportunity/821039" target="_blank">Investors</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.storeboard.com/terms/">Terms and Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.storeboard.com/privacy/">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.storeboard.com/contact-us/">Contact Us</a>
             </div>
             <div class="footer_law-text "><span>Copyright © 2016-2017 Storeboard - All Rights Reserved</span></div>
         </div>
