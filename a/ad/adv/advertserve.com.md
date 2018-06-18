@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advertserve.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222012304id_/http%3A//www.advertserve.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertserve.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619012456id_/http%3A//www.advertserve.com/privacy.html) for the most accurate reproduction.*
 
 # AdvertServe :: Privacy Policy
 
@@ -6,39 +6,7 @@ Ad Serving Privacy Policy
 
 * * *
 
-Beacons
-
-Renegade Internet uses beacons, which are also commonly referred to as "impression beacons" or "tracking pixels", in combination with cookies to measure the effectiveness of advertising campaigns. Advertisers may place beacons on their contact form and/or order form "thank you" pages to identify leads and sales as resulting from an advertising campaign. The beacon does NOT collect your name, address, phone number, email address, or any other information that may personally identify you. 
-
-Cookies
-
-Renegade Internet uses cookies to measure the effectiveness of advertising campaigns. Cookies are small text files created and stored on your computer by your web browsing software (i.e. Internet Explorer or Firefox) on behalf of web sites that you visit. While cookies have many applications, we use them only to assign an anonymous and unique ID number to you when you view, click, or interact in some way with one of our client's advertisements. The cookie does NOT include your name, address, phone number, email address, or any other information that may personally identify you. 
-
-To opt out of cookies from AdvertServe, please [click here](https://web.archive.org/cgi-bin/optout.pl)
-
-Internet Protocol Address
-
-Renegade Internet uses Internet protocol (IP) addresses to measure the effectiveness of advertising campaigns. Through the use of IP mapping technology, we are able to translate your IP address into a geographic location, which may include a close approximation of your Continent, Country, State/Province, City, Postal/Zip Code, Designated Marketing Area, ISP and Current Weather. This technology does NOT provide us with your street address, telephone number, or any other information that may personally locate you. 
-
-Mobile Advertising ID
-
-Renegade Internet does not utilize mobile Advertising IDs (AAID/IDFA) at this time. Both Android and iOS provide options for limiting and opt-ing out of such tracking though. Android users can [Opt Out of Interest-Based Ads](https://support.google.com/ads/answer/2662922?hl=en) and iOS users can enable [Limit Ad Tracking](https://support.apple.com/en-us/HT205223) if desired. 
-
-Referrer URL
-
-Renegade Internet uses Referrer URLs to measure the effectiveness of advertising campaigns. By examining the Referrer URL, we are able to determine which web site is displaying one of our client's advertisements. We are also able to extract keywords from STATIC page content, however this is NOT performed on pages which are dynamically generated (i.e. with a query string) or for any pages that exist behind a user-login form so that we avoid extracting any information that may personally identify you. 
-
-Third-Party Data
-
-We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by Renegade Internet. 
-
-User-Agent
-
-Renegade Internet uses User-Agent to determine Device Type (i.e. Desktop, Tablet or Mobile), Browser, Operating System and Language Preferences. 
-
-Guidelines
-
-For guidelines concerning the acceptable use of Renegade Internet ad serving technology, including but not limited to activities related to SPAM and spyware, please review our [acceptable use policy](https://web.archive.org/acceptableuse.html). 
+Please visit the [AdvertServe Privacy Shield](https://privacy.advertserve.com/) web site to review our ad serving privacy policy and manage your advertising preferences. 
 
 Web Site Privacy Policy
 
@@ -50,11 +18,15 @@ When you submit an inquiry or place an order through our web site, Renegade Inte
 
 Cookies
 
-Renegade Internet uses anonymous cookies, which contain no personally identifiable information, on this web site to track the effectiveness of advertising campaigns. 
+Renegade Internet uses anonymous cookies, which contain no personally identifiable information, on this web site to facilitate logging into our chat and support ticket systems. Cookies are also used in the demonstrations and examples on this site. Those cookies are governed by our ad serving privacy policy, which can be viewed on the [AdvertServe Privacy Shield](https://privacy.advertserve.com/) web site. 
 
 Internet Protocol Address
 
 Renegade Internet uses Internet protocol (IP) addresses to verify the geographic locations that inquiries and orders originate from in an effort to protect ourselves from fraud and our customers from information theft. 
+
+User-Agent
+
+Renegade Internet uses User-Agent to determine Device Type (i.e. Desktop, Tablet or Mobile), Browser, Operating System and Language Preferences. 
 
 Disclaimers
 
