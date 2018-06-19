@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmoviebro.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219115915id_/http%3A//coolmoviebro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmoviebro.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620012331id_/http%3A//coolmoviebro.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Cool Movie Bro
 
