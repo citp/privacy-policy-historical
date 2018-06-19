@@ -1,48 +1,68 @@
-> *The following text is extracted and transformed from the cultofpedagogy.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119003903id_/https%3A//www.cultofpedagogy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultofpedagogy.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619145148id_/https%3A//www.cultofpedagogy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cult of Pedagogy
 
-We collect information from you when you register on our site, respond to a survey, fill out a form or comment on a post. When ordering or registering on our site, as appropriate, you may be asked to enter your name and e-mail address. You may, however, visit our site anonymously.
+## Who we are
 
-As a third party vendor, Google uses cookies to serve ads on the site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Our website address is: https://www.cultofpedagogy.com.
 
-## What do we use your information for?
+## What personal data we collect and why we collect it
 
-Any of the information we collect from you may be used in one of the following ways:
+### Comments
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
+When visitors leave comments on this site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+
+### Contact forms
+
+If you submit a contact form on the Contact page of this site, you must enter a name, email address, and a message. Once that form is submitted, the email address is kept in our email system, where we only use it to respond to your inquiry. The email address is kept in our email archives as a record of our communication, but we can remove it if you request that from us. You can do this by simply replying to the email we send or by submitting another contact form asking us to remove your email from our system.
+
+Names and email addresses submitted through contact forms are never used for marketing purposes, and they they are never shared with anyone outside of Cult of Pedagogy.
+
+### Cookies
+
+If you leave a comment on our site you are required to leave your name and email address. For your convenience, we save this information in cookies so that you do not have to fill in your details again when you leave another comment. Your email address will not be visible to other readers. If you would like your email address removed, please contact us using our [contact form](https://www.cultofpedagogy.com/contact/) and we can manually remove the email address from our system.
+
+### Email subscriptions
+
+When you subscribe to our email list, we collect your email address so we can send you emails. You may opt out of this list at any time by sending us a request via email, through our [contact form](https://www.cultofpedagogy.com/contact/), or by simply clicking the unsubscribe link that appears at the bottom of every email we send.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+  * We use a tool called Google Analytics to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) (as amended for government websites) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](https://www.usa.gov/optout_instructions.shtml) on your browser.
+  * Information about your visit to Cult of Pedagogy is collected through the [Facebok Pixel](https://www.facebook.com/business/help/742478679120153), which is equivalent to a cookie. This allows Facebook to help us  customize the advertisements we might want to show you on Facebook. When we want to place an advertisement on Facebook for a particular product, the Pixel can help us determine which visitors to our site might be interested in that product based on the pages they visited here.​
 
 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+## How long we retain your data
 
-## Do we use cookies?
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+For users that register on the Forums of our website, we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-## Do we disclose any information to outside parties?
+## What rights you have over your data
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us, through our [contact form](https://www.cultofpedagogy.com/contact/). You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-## Third Party Links
+## Where we send your data
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Visitor comments may be checked through an automated spam detection service.
 
-## Online Privacy Policy Only
+## How Your Data is Shared With Other Sites
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-## Your Consent
-
-By using our site, you consent to our [website’s privacy policy](http://www.freeprivacypolicy.com/).
+Cult of Pedagogy is a participant in several affiliate programs, which allows us to earn a referral fee for sales made on other sites through our referral links. When you visit those sites through our links, those other sites establish a cookie that will remember which site referred you for a set period of time. If you make a purchase during that time, Cult of Pedagogy will receive a referral fee. As of May 2018, the affiliate programs we participate in are as follows: Amazon Associates Program, the 40 Hour Teacher Workweek Club, and Blend Education.
 
 ## Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on August 25, 2013.
+This policy was last modified on May 19, 2018.
 
-_This policy is powered by Free Privacy Policy and Rhino Support help desk software._
+* * *
