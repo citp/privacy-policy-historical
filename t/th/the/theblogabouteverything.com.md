@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theblogabouteverything.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017133021id_/http%3A//theblogabouteverything.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogabouteverything.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619122940id_/http%3A//theblogabouteverything.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Blog About Everything
 
