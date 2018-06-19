@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satac.edu.au privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224120616id_/http%3A//www.satac.edu.au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satac.edu.au privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619061049id_/http%3A//www.satac.edu.au/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - SATAC
 
@@ -217,7 +217,7 @@ Click the link below to download the privacy policy in PDF format.
 
 ##  Copyright
 
-© South Australian Tertiary Admissions Centre (SATAC) 2017 (ABN 22 613 691 526). Unless expressly stated otherwise, SATAC claims copyright ownership of all material on this website. You may download, display, print and reproduce this material in unaltered form (attaching a copy of this notice) for your personal, non-commercial use. SATAC reserves the right to revoke such permission at any time. Apart from this permission and uses permitted under the Copyright Act 1968, all other rights are reserved. Requests for further authorisations, including authorisations to use material on this website for commercial purposes, should be directed to SATAC.
+© South Australian Tertiary Admissions Centre (SATAC) 2018 (ABN 22 613 691 526). Unless expressly stated otherwise, SATAC claims copyright ownership of all material on this website. You may download, display, print and reproduce this material in unaltered form (attaching a copy of this notice) for your personal, non-commercial use. SATAC reserves the right to revoke such permission at any time. Apart from this permission and uses permitted under the Copyright Act 1968, all other rights are reserved. Requests for further authorisations, including authorisations to use material on this website for commercial purposes, should be directed to SATAC.
 
 ##  Disclaimer
 
