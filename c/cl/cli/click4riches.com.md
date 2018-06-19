@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click4riches.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219065406id_/http%3A//click4riches.com/hosting/staticpages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click4riches.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619145454id_/http%3A//click4riches.com/hosting/staticpages/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
