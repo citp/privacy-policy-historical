@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnscu.edu privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222150613id_/http%3A//mnscu.edu/system/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnscu.edu privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619164133id_/http%3A//minnstate.edu/system/privacy.html) for the most accurate reproduction.*
 
 # Minnesota State - Online Privacy Statement
 
@@ -28,4 +28,4 @@ We use this information to determine the number of visitors to the site and to d
 
 If you wish to visit our site anonymously, there are services for this available on the Internet. For more information, search for "anonymous web surfing" using your favorite Internet search engine or directory.
 
-If you have further questions related to data privacy, please contact us at [websupport@so.mnscu.edu](mailto:websupport@so.mnscu.edu).
+If you have further questions related to data privacy, please contact us at the [Minnesota State IT Service Desk](https://servicedesk.minnstate.edu/).
