@@ -1,34 +1,31 @@
-> *The following text is extracted and transformed from the wkrb13.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517041130id_/http%3A//www.wkrb13.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkrb13.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619035126id_/https%3A//www.wkrb13.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WKRB News
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us using any of the methods listed on our contact page
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may collect and use information about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media, such as mobile apps, about goods and services that may be of interest to you, and to understand how users respond to advertising on our website and other websites. These companies may collect this information using technologies such as cookies and pixels. We may also share personal information such as your email address in hashed non-human readable form with these advertising companies. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.networkadvertising.org_managing_opt-5Fout.asp&d=CwMFAg&c=XRWvQHnpdBDRh-yzrHjqLpXuHNC_9nanQc6pPG_SpT0&r=g3oaDsRBobxWPv7kusJizmKv_KyKj40UA0HhKo2OeS8&m=G0-xsNI-wGWMCi5s2iZTGG3g-lZUq6p8nV4yLStnOqY&s=rL_E93oOvKDNSIzCq1tkNbVmgZW_-rWzhQvH4ceKlgg&e=).
 
-The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by this website and how it is used.
+**WKRB News** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
-**Log Files**
+## Routine Information Collection
 
-Like many other Web sites, this website makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-**Cookies and Web Beacons**
+## Cookies and Web Beacons
 
-This website does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+Where necessary, WKRB News uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-DoubleClick DART Cookie  
-– Google, as a third party vendor, uses cookies to serve ads on this website.  
-– Google’s use of the DART cookie enables it to serve ads to users based on their visit to this website and other sites on the Internet.  
-– Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: Google AdSense, Tribal Fusion, AdBlade, NewsMax and Vibrant Media
+## Controlling Your Privacy
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on this website send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://cybec.com/web-browser-privacy-management/) links may also be useful.
 
-This website has no access to or control over these cookies that are used by third-party advertisers.
+## Special Note About Google Advertising
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This website’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+## Contact Information
 
-**Third-Party Advertising Notice**
+Concerns or questions about this privacy policy can be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for further clarification.
 
-We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+This privacy policy was generated by the [Privacy Policy for WordPress](http://cybec.com/privacy-policy-plugin-for-wordpress/) plugin.
