@@ -1,61 +1,199 @@
-> *The following text is extracted and transformed from the portraitprofessional.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118070404id_/http%3A//www.portraitprofessional.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portraitprofessional.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619063728id_/http%3A//www.portraitprofessional.com/privacy) for the most accurate reproduction.*
 
 # PortraitPro - Privacy Policy
 
-#### The Information We Collect
+Your privacy and the security of your personal data is important to us. This policy sets out how we handle your personal data. 
 
-At some Anthropics Technology Limited sites, you can order and download products, upload images and text, vote in polls or otherwise express an opinion, participate in one of our online forums or communities or otherwise interact with us. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, payment information, and information about your interests in and use of various products, programs, and services.
+We are Anthropics Technology Limited, based at A16 Block A, 56 Wood Lane, London W12 7SB. 
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Internet Explorer, Mozilla Firefox), the type of operating system you are using, (e.g., Windows 10 or Mac OS), your IP address and the domain name of your Internet service provider.
+#### Your rights
 
-Our websites may use “cookies” and other technologies such as pixel tags and web beacons. These technologies help us understand user behaviour, track which parts of our website have been visited, and facilitate and measure the effectiveness of ads. Refer to your web browser for instructions on how to disable cookies if you prefer not to allow them.
+Your privacy is protected by law. We are only allowed to use personal data if we have a lawful reason to do so. We must have one or more of the following reasons: 
 
-* * *
+* When we have a legal duty.
+* To fulfil a contract with you.
+* When it is in our legitimate interests, the data processing is necessary to achieve those interests and our interests are not overridden by your interests or fundamental rights and freedoms.
+* With your consent.
 
-#### How We Use the Information
+You have various rights in relation to our use of your data:
 
-We may notify you about new programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
+* You have the right to ask us to correct personal data we hold about you. 
+* In many cases, you have the right to ask us to delete data held about you. 
+* In cases where we are relying on your consent to process data, you have the right to withdraw your consent.
+* Where we are relying on our legitimate interests to process data, you have the right to object to such processing. We will then only process data if there are compelling legitimate grounds for further processing which override your interests, rights and freedoms. This will never apply if the processing is for direct marketing purposes.
+* You have the right to access the personal data we hold about you, and information about the processing we perform with that data. 
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, upgrades or services.
+If you want to exercise any of these rights, please contact us. 
 
-If you choose to submit content for publication (e.g. before and after pictures, software usage tips), we may publish your submitted name and approximate geographical location such as country, county or state.
+#### The personal data we collect
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to run advertisements via other channels and to offer you products, programs, upgrades or services.
+The types of personal data that may be collected include: name, address, e-mail address, payment information, IP address and information about your interests in and use of our products, programs, and services. We may also have other personal data if you submit it to us, for example via support messages, forums or surveys. 
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we are acquired by or merged with another company.
-
-Agents and contractors of Anthropics Technology Limited who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Anthropics Technology Limited.
-
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
-
-Anthropics Technology Limited sites covered by this Privacy Notice will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
-
-* * *
-
-#### Collection of Information by Third-Party Sites, Ad Servers, partners and Sponsors
-
-Some of our sites contain links to other sites whose information practices may be different from ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
-
-The Anthropics Technology Limited sites covered by this Privacy Notice sometimes may offer content (e.g., contests or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Anthropics Technology Limited has no control over these third parties' use of this information.
-
-Some of the Anthropics Technology Limited sites covered by this Privacy Notice may use a reputable third party to present or serve advertisements. These third party ad servers may use cookies, web beacons, tracking pixels or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by this Privacy Notice.
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Internet Explorer, Mozilla Firefox), the type of operating system you are using, (e.g., Windows 10 or Mac OS) and the domain name of your internet service provider. 
 
 * * *
 
-#### Our Commitment to Security
+#### Cookies and similar technologies
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+Our websites may use cookies and other technologies such as pixel tags and web beacons. These technologies allow our websites to function and help us understand user behaviour, track which parts of our website have been visited, and facilitate and measure the effectiveness of advertising on third party websites. 
+
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set, visit   
+[www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+If you are in the EU, you can opt out of online behavioural advertising here:   
+[www.youronlinechoices.com/](http://www.youronlinechoices.com/). 
+
+To opt out of being tracked by Google Analytics across all websites, visit   
+[tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout). 
 
 * * *
 
-#### How to Contact Us
+#### Where we collect personal data
 
-If you have any questions or concerns about the Anthropics Technology Ltd online policy for this site or its implementation you may contact us at [info@anthropics.com](mailto:info@anthropics.com)
+Personal data may be collected:
+
+* When you try or buy one of our products (for example: your name and email address)
+* When you browse our websites (for example: your IP address being recorded in our web logs)
+* When you participate in a forum or survey (for example: your username or posts, if these could identify you)
+* When you contact us (for example, via our support pages)
 
 * * *
 
-#### Updates & Effective Date
+#### How we process your data
 
-From time to time we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
+This table sets out how we process personal data, and our basis for processing in each case.
 
-The Privacy Notice posted on this site was updated on or about 7 April 2017.
+Processing | Lawful basis | Legitimate interests  
+---|---|---  
+  
+To process purchases of our products.
+
+To provide support for our products.
+
+To respond to and resolve complaints.
+
+To provide forums for discussion about our products and services.
+
+To process results from surveys and other requests for information.
+
+| 
+
+Fulfil contract.
+
+Legal duty.
+
+Consent.
+
+Legitimate interests.
+
+| 
+
+Providing our products and services.
+
+Being able to provide relevant support for our products.
+
+Developing our products.  
+  
+To analyse the use of our products and services.
+
+For marketing activities, such as emails, or advertisements on third party platforms.
+
+To create and manage accounts for use of our products and services.
+
+| 
+
+Fulfil contract.
+
+Legitimate interests.
+
+| 
+
+Understanding which products and services may interest you and promoting them to you.
+
+Developing better products and services.
+
+Identifying possible markets for our products or services.
+
+Seeking your consent when necessary to contact you.  
+  
+To obey laws and regulations applying to us.
+
+To manage our business, for example managing our finances, planning or carrying out audits.
+
+| 
+
+Legal duty.
+
+Legitimate interests.
+
+| 
+
+Complying with legal requirements.
+
+Proper planning and administration of our business.  
+  
+To exercise rights from contracts.
+
+| 
+
+Fulfill contract.
+
+|   
+  
+* * *
+
+#### Who we share personal data with
+
+We use external companies to process personal data. This includes:
+
+* Payment processors, to take payment when you buy our products and services (such as PayPal or Stripe).
+* Email sending services, who send emails on our behalf.
+* Analytics providers to understand how our services are being used (like Google Analytics).
+* Social media and other advertising platforms, where we use personal data to target advertisements to those most likely to be interested (like Facebook and Google AdWords).
+
+If you would prefer us not to share your personal data for these purposes, please Contact Us. 
+
+* * *
+
+#### Sending data outside the EEA
+
+We will only transfer your data outside the EEA where there are adequate safeguards for your personal data, such as: 
+
+* The country where the data is transferred has privacy laws with the same protection as the EEA, as adjudged by the European Commission.
+* We have a contract with the recipient that means they must protect personal data to the same standard as in the EEA.
+* The recipient is certified under the Privacy Shield, which sets privacy standards for data sent between the US and EU.
+
+#### If you decide not to give personal data
+
+We may not be able to provide you with our products and services if you choose not to provide your personal data. For example, we require an email address in order to provide you with the details of a purchase, or your payment details to process a payment. 
+
+#### Marketing
+
+We may use your personal data to tell you about product updates or promotions, target advertisements or send newsletters. 
+
+The personal data we have is made up of what you tell us and data we collect when you use our services, or from third parties we work with. 
+
+We use this data to promote our products and services to those who may be interested. For example, if you are a customer of one of our products, we may email you to tell you about an upgrade to that product, or to show an advertisement to you on a social media site announcing the upgrade. 
+
+We only use your personal data for marketing with your consent or if we have a legitimate interest which is not overridden by your rights. 
+
+Please contact us if you do not want us to market to you in future. 
+
+#### How long we keep your personal data
+
+We hold different personal data for different lengths of time. For example: 
+
+* Data relating to a purchase may be held indefinitely unless you tell us you want us to delete it. If we delete the data, we would be unable to provide any further support for your purchase.
+* Marketing lists on third party platforms built using information about use of our sites may persist for up to 540 days.
+
+#### How to contact us or complain
+
+If you have any questions or concerns about this policy, the best way to contact us to message us via our [support website](http://support.anthropics.com/). We will do our best to help you. 
+
+If you are unhappy with our response, you have the right to complain to a supervisory authority. As a UK company, our supervisory authority is the Information Commissioner’s Office. 
+
+#### Updates and effective date
+
+From time to time we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
+
+The Privacy Notice posted on this site was updated on or about May 9, 2018 
