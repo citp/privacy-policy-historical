@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverfinderpro.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217195833id_/http%3A//driverfinderpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverfinderpro.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619111928id_/http%3A//driverfinderpro.com/privacy.php) for the most accurate reproduction.*
 
 # DriverFinder - Privacy Policy
 
@@ -46,8 +46,8 @@ Registration means that the Visitor, Member or Customer takes active, positive s
 
 For Customer Support registration instances, data is collected by:  
 DeskToolsSoft at the [DeskToolsSoft/DriverFinder Customer Support Portal](http://desktoolssoft.com/support/).  
-548 Market Street  
-San Francisco, CA 94104  
+340 S Lemon Ave #7353  
+Walnut, CA 91789  
 E-mail: info[at]desktoolssoft[dot]com 
 
 For Product Registration instances, data is collected by:  
@@ -56,9 +56,9 @@ For Product Registration instances, data is collected by:
 E-mail: customersupport[at]safecart[dot]com 
 
 For general inquiries, data is collected by:  
-DriverFinder at the [DriverFinder Contact Us form](https://web.archive.org/web/20171217195833id_/http%3A//driverfinderpro.com/contact.php).  
-548 Market Street  
-San Francisco, CA 94104  
+DriverFinder at the [DriverFinder Contact Us form](https://web.archive.org/web/20180619111928id_/http%3A//driverfinderpro.com/contact.php).  
+340 S Lemon Ave #7353  
+Walnut, CA 91789  
 E-mail: info[at]driverfinderpro[dot]com 
 
 ### Commitment to Data Security
