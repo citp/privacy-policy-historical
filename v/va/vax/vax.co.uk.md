@@ -1,107 +1,114 @@
-> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214205030id_/http%3A//www.vax.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vax.co.uk privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619081511id_/http%3A//www.vax.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # VAX Ltd Privacy Policy & Data Handling Terms
 
-This privacy statement is provided by Vax Limited (referred to as 'Vax' in these terms) for the information of visitors ('you' or 'your') to its vax.co.uk website. Vax Limited is committed to ensuring that your privacy is protected. This privacy statement explains how Vax uses the information collected about you and how you can instruct Vax if you prefer to limit the use of that information. In these terms, 'third parties' means persons, firms or companies that are not subsidiary or associated or joint venture companies of Vax Limited.
+Vax Limited, with registered address is at 2 Colmore Square 5th Floor, 38 Colmore Circus Queensway, Birmingham, B4 6BN (“we” or “us”) is committed to protecting and respecting your privacy.
 
-By placing an order on this site, you consent to the collection, use and transfer of your information under the terms of this policy.
+This Privacy Statement sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-## WHO WE ARE
+**INFORMATION WE COLLECT FROM YOU  & HOW WE USE SUCH INFORMATION**
 
-  1. This website is controlled by Vax Limited (Registered in England No. 1341840) and the terms of use are set out in its legal notice. 
+We will collect and process the following data about you:
 
-Registered Office address:  
-Vax Limited, Unit 302, Pointon Way, Stonebridge Cross, Hampton Lovett, Droitwich Spa, Worcestershire, WR9 0LW, United Kingdom.
-
+  * **Information you give us.** This is information about you that you give us by filling in forms on [http://www.vax.co.uk](http://www.vax.co.uk/) ,or by corresponding with us by e-mail or otherwise. It includes information you provide when you register to use our site, subscribe to our service, search for a product, place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photographs. We will only request information, which is required for the specific purpose.
 
 
 
-## INFORMATION GATHERED BY VAX
+By submitting this data, you give your consent that we collect and process the data to provide you with the information, products and services that you requested from us. You have the right to withdraw this consent at any time. We may also use this data to carry out our obligations arising from any contracts entered between you and us. We store your personal data only as long as we need them to provide the information, services or offers you requested or to carry out our obligations arising from any contracts.
 
-  2. When you order products or services on www.vax.co.uk, you will be asked to provide certain information about yourself including your name, address and credit or debit card information. Vax may also collect information about you from emails or letters that you send to Vax or from telephone calls with you.
-  3. The information that you provide enables Vax to supply you with further information about Vax's company, products, services and any future competitions. It also helps Vax to contact you if you have requested further information or logged an enquiry.
-  4. Vax may on occasion, collect additional personal information from any competitions that you may enter through the website.
-  5. Vax may also use collected information and statistics for the purposes of monitoring website usage and its services and it may also provide such information to third parties. You cannot be personally identified by this information. See section on[ cookies](http://www.vax.co.uk/cookies-terms-and-conditions "Cookie").
+  * **Information we collect about you.** Regarding each of your visits to our site we will automatically collect the following information:
 
 
+    * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, device types, operating system and platform;
 
-## DATA PROTECTION ACT 1998
 
-  6. Vax has notified the Data Protection Commissioner under the terms of the Data Protection Act 1998 that the information may be obtained about individuals
+    * information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time), products you viewed, searched for or purchased, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse the website, and any phone number used to call our customer service number.
 
 
 
-## [COOKIES](http://www.vax.co.uk/cookies-terms-and-conditions "Cookies")
+This information is stored exclusively by us to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes and for the control of illegal acts. We reserve the right to check these log files and data retroactively if there is reasonable suspicion of an illegal act due to concrete indications. As far as personal data are processed, we do so solely to protect our legitimate interest to control illegal acts particular in connection with our website.
 
-  7. Cookies are small amounts of information that we store on your computer. Unless you have indicated your objection when disclosing your details, Vax's system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow Vax to monitor website traffic and to personalise site content for you. A cookie will not allow a website operator to obtain information of a personal nature that will identify you to us, such as your name and address. Vax will only be aware of such information if you provide the information, or if you have set the preferences in your browser to provide this information automatically. You may set up your computer to reject cookies although, in that case, you may not be able to use certain features on the Vax site. You can withdraw you consent to the use of the cookie at any time. To see definitions of Vax cookies please [click here](http://www.vax.co.uk/cookies-terms-and-conditions "Cookies").
-
-
-
-## DISTRIBUTION OF DATA
-
-  8. Any information that is gathered from visitors to our website is used by us and possibly third parties unless you send us an email as mentioned in paragraph 12.
-  9. If our business or any part of the business is sold or integrated with another business your data and information may be disclosed to our advisors and any prospective purchasers and their advisors and may be passed on to the new owners of the business or relevant part of the business who may use such data and information for the various purposes given in this privacy statement
+  * **Information we receive from other sources.** This is information we receive about you if you use any of the other websites we operate or the other services we provide. We are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies). We will notify you when we receive information about you from them and the purposes for which we intend to use that information as well as the legal basis for such processing.
 
 
 
-## CONSENT
+**COOKIES**   
 
-  10. By visiting vax.co.uk, you consent to the use of your information as set out in this privacy statement. Vax may change its privacy statement at any time. If Vax changes its privacy statement, it will post the changes on this website, so that you may be aware of the information it collects and how Vax uses it at all times. Vax will also contact you should it make any changes so that you may have the opportunity to object to the changes so far as they relate to your data and information.
-  11. Owing to the global nature of the Internet infrastructure, there is a possibility that your information may be transferred to countries outside the European Economic Area. By submitting your information to us you consent to these transfers.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Statement <http://www.vax.co.uk/cookies-terms-and-conditions/>.
 
+Most of the cookies we use are so-called "session cookies". They are automatically deleted after your visit to our website. Other cookies remain on your device until you delete them. These cookies allow us to recognize your browser at the next visit.
 
+As far as personal data is processed in this regard, we carry out such processing on basis of our legitimate interest to improve our website for users. We only process pseudonymised data in this regard upon your visit of our website. You can delete cookies on your device at any time and once they are deleted we cannot process any information contained in a cookie.  
 
-## USE OF YOUR INFORMATION
+ You can further adjust your browser so that you are informed about the setting of cookies and only allow cookies on an individual basis, exclude accepting cookies for specific cases or in general, and activate the automatic deletion of cookies when you close your browser.
 
-  12. Your information will enable Vax to supply the goods you have requested. It will also enable Vax to bill you and to contact you where necessary concerning your orders. Vax will also use and analyse the information collected to administer, support, improve and develop our business.
+ The functionality of this website may be restricted when cookies are deactivated.
 
+F **URTHER USES MADE OF THE INFORMATION  FOR MARKETING PURPOSES**
 
+We use information held about you in the following ways:
 
-## DISCLAIMER
-
-  13. Vax will not be held liable for any breach of security not caused by Vax's negligence which results in loss to the consumer.
-
-
-
-## ACCESSING AND UPDATING
-
-  14. You are entitled to see the information held about you and you may ask Vax to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please write to Vax at the address in paragraph 1. Vax is entitled by law to charge a fee to meet its costs in providing you with details of the information it holds about you.
+  * to provide you with information about other goods and services we offer that are like those that you have already purchased about. You have the right to opt-out of receiving communications from us at any time by contacting [info@vax.co.uk](mailto:info@vax.co.uk) or by clicking the unsubscribe link contained in any such email;
+  * if you have provided your consent for the use of your data for marketing purposes, we will contact you by electronic means (e-mail or SMS) or by direct mail with information about goods and services like those which were the subject of such consent. You have the right to withdraw this consent at any time by contacting [info@vax.co.uk](mailto:info@vax.co.uk) or by clicking the unsubscribe link contained in any such email; 
+  * if you have provided your consent, to permit selected third parties to use your data, to contact you by electronic means and/or by direct mail. You have the right to withdraw this consent at any time by contacting [info@vax.co.uk](mailto:info@vax.co.uk) or by clicking the unsubscribe link contained in any such email; 
+  * in the cases where you have consented to the use of your data for profiling purposes, such data may be used to predict what you might be interested in and improve our product and service offerings. This includes customised messaging in accordance with your communication preferences. You have the right to withdraw this consent at any time by contacting info@vax.co.uk.
 
 
 
-## DISCLOSURE OF YOUR INFORMATION
+**SECURITY**
 
-  15. The information you provide to Vax will be held on its computers in the UK and accessed by or given to its staff working within the UK. Those parties process information, fulfil and deliver orders, process credit card payments and provide support services on its behalf. Vax will only disclose this information to third parties for the purposes of validating your credit card.
-  16. Unless required to do so by law, Vax will not otherwise share, sell or distribute any of the information you provide to Vax without your consent.
+All personal information you provide to us is stored on our secure servers. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
+**TRANSFER TO THIRD PARTIES**
 
+We only transfer your data to third-parties where you have given your consent to such transfer or if such transfer if legally required. In addition, we may instruct third parties to process your data under our authority.
 
-## LIMITATION OF LIABILITY
+In this regard your data may also be processed by third parties and staff operating outside the European Economic Area who work for us or for one of our suppliers. This includes third parties and staff engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services.
 
-  17. If you request Vax to remove your personal information from its databases or you wish Vax to amend or change the information held about you on its database, Vax will remove or amend any such information on your request. Such requests should be made by email to [info@vax.co.uk](mailto:info@vax.co.uk) or by letter to the address in paragraph 1.
+  **RETENTION PERIOD & YOUR RIGHTS**  
 
+ We will retain your personal information for the period necessary to fulfil the purposes outlined in this Privacy Statement unless a longer retention period is required or permitted by applicable law.
 
+** ** As a data subject, you have the right to assert the rights of the data subject vis-à-vis us at any time. In particular, you have the following rights:
 
-## SECURITY AND DATA RETENTION
-
-  18. Vax employs security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. Vax will retain your information for a reasonable period or as long as the law requires.
-
-
-
-## CHANGES TO OUR PRIVACY POLICY
-
-  19. Any changes to our privacy policy in the future will be posted to the site.
-
-
-
-## CONTACT VAX
-
-  20. If you have any questions about this privacy statement, how Vax runs its website or your dealings with Vax, please send an email to [info@vax.co.uk](mailto:info@vax.co.uk).
+  * You have the right to obtain information whether and if applicable to which extent we process personal data concerning you or not.
+  * In the case of processing of personal data concerning you, you have the right to access information, in particular, the following information: stored data concerning you, purpose(s) of the processing, categories of data, recipients to whom we disclose data, duration of the storage.
+  * You have the right to request the rectification of your data without undue delay, as far as they are inaccurate or incomplete.
+  * You have the right to request the deletion of your personal data from us without undue delay.
+  * You have the right to withdraw your consent given vis-à-vis us concerning the processing of your data at any time.
+  * You have the right to let the processing of your personal data be restricted.
+  * You have the right to receive the personal data concerning you which you had provided to us in a structured, standard and machine-readable format, and to transmit these data to another controller.
+  * You may assert your rights by contacting us under the contact details listed below.
 
 
 
-## APPLICABLE LAW AND JURISDICTION
+******YOUR RIGHT TO OBJECT**
 
-  21. The terms of this privacy statement shall be governed by and construed in accordance with the laws of England and Wales and be subject to the exclusive jurisdiction of the Courts of England and Wales.
+You have the right to object, on grounds relating to your particular situation, at any time to processing of personal data concerning you, with effect for the future; this also applies to a profiling (which we only carry out where you have given your consent) based on these provisions.
 
+******THIRD-PARTY WEBSITES**
 
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+**CHANGES TO OUR PRIVACY STATEMENT**   
+
+Any changes we make to our Privacy Statement in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our Privacy Statement.
+
+******CONTACT**   
+
+Questions, comments and requests regarding this Privacy Statement are welcomed and should be addressed to
+
+Vax Limited
+
+2 Colmore Square
+
+5th Floor, Colmore Circus Queensway
+
+Birmingham
+
+B4 6BN
+
+  
+info@vax.co.uk  ****
+
+Submit a Data Subject Access Request here [Web Form](https://app-eu.onetrust.com/app/#/webform/01b8607b-2d15-405f-b6ab-7aeabc11d420).
