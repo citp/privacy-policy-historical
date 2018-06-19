@@ -1,59 +1,756 @@
-<!--The following is the downloaded HTML source of the blizzardwatch.com privacy policy that was archived on 2017-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170920182448id_/http%3A//blizzardwatch.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blizzardwatch.com privacy policy that was archived on 2018-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180619130105id_/https%3A//blizzardwatch.com/privacy-policy) for the most accurate reproduction.-->
 
-<html><head><title>Privacy Policy | Blizzard Watch</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script async="" src="http://cdn.blizzardwatch.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload.1.0.5.min.js"></script><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><meta name="viewport" content="width=device-width"><link rel="icon" type="image/gif" href="http://blizzardwatch.com/wp-content/themes/blizzardwatch/static/img/blizzard-watch-icon.png"><link href="/wp-content/themes/blizzardwatch/static/css/bootstrap.min.css" rel="stylesheet" type="text/css"><link href="http://fonts.googleapis.com/css?family=Lato:300,400,700|Droid+Serif:400,700" rel="stylesheet" type="text/css"> <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script> <script src="/wp-content/themes/blizzardwatch/static/js/jquery.waypoints.min.js"></script> <script src="/wp-content/themes/blizzardwatch/static/js/bootstrap.min.js"></script> <script src="/wp-content/themes/blizzardwatch/static/js/megamenu.js"></script> <script src="/wp-content/themes/blizzardwatch/static/js/jquery.hoverIntent.minified.js"></script> <link href="/wp-content/themes/blizzardwatch/static/css/featherlight.min.css" rel="stylesheet" type="text/css"><link href="/wp-content/themes/blizzardwatch/static/css/megamenu-style.css" rel="stylesheet" type="text/css"><link href="/wp-content/themes/blizzardwatch/static/css/ionicons.min.css" rel="stylesheet" type="text/css"> <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <script>(adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-2714419851433424",
-            enable_page_level_ads: true
-          });</script> <script>$( document ).ready(function() {
+<!DOCTYPE html><html><head>
+<title>Privacy Policy | Blizzard Watch</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width">
+<link rel="icon" type="image/gif" href="//cdn.blizzardwatch.com/wp-content/themes/blizzardwatch/static/img/blizzard-watch-icon.png">
+<link href="/wp-content/themes/blizzardwatch/static/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700|Droid+Serif:400,700" rel="stylesheet" type="text/css">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="/wp-content/themes/blizzardwatch/static/js/jquery.waypoints.min.js"></script>
+<script src="/wp-content/themes/blizzardwatch/static/js/bootstrap.min.js"></script>
+<script src="/wp-content/themes/blizzardwatch/static/js/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials.min.js"></script>
+<script src="https://use.fontawesome.com/7d99be1acd.js"></script>
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials.css">
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.4.0/jssocials-theme-flat.css">
+<link href="//cdn.blizzardwatch.com/wp-content/themes/blizzardwatch/static/css/featherlight.min.css" rel="stylesheet" type="text/css">
+<link href="//cdn.blizzardwatch.com/wp-content/themes/blizzardwatch/static/css/ionicons.min.css" rel="stylesheet" type="text/css">
+<script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-59192487-1', 'auto');
+        ga('send', 'pageview');
+        </script>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+            var event_sent = false;
+
+            function is_backer( ) {
+                var backer = false;
+
+                if( Cookies.get("bw_supporter_email_hash") !== undefined ) {
+                    backer = true;
+                }
+
+                if( Cookies.get("bw_patron_pledge") !== undefined ) {
+                    if( parseInt( Cookies.get("bw_patron_pledge") ) >= 500 ) {
+                        if( ! event_sent ) {
+                            ga( 'send', 'event', 'ads-status', 'ads-disabled-patreon-pageview' );
+                            event_sent = true;
+                        }
+                        
+                        backer = true;
+                    } else {
+                        if( ! event_sent ) {
+                            ga( 'send', 'event', 'ads-status', 'ads-patreon-potential-upgrade' );
+                            event_sent = true;
+                        }
+                    }
+                }   
+
+                return backer;
+            }
+
+            $( document ).ready(function() {
+
+                $('.wp_rp_content a').click( function() {
+                    ga( 'send', 'event', 'related-posts', 'click' );
+                });
+
+                if( $('#main-container').length ) {
+                    var waypoint = new Waypoint({ 
+                    element: document.getElementById('main-container'),
+                    handler: function(direction) {
+                        if( direction == 'down' ) {
+                            //console.log( 'collapse nav bar' );
+                            $("<style>")
+                                .prop("type", "text/css")
+                                .prop("id", "desktop-collapsed-nav" )
+                                .html( ".navbar-header{float:none}.navbar-left,.navbar-nav,.navbar-right{float:none!important}.navbar-toggle{display:block}.navbar-collapse{border-top:1px solid transparent;box-shadow:inset 0 1px 0 rgba(255,255,255,.1)}.navbar-fixed-top{top:0;border-width:0 0 1px}.navbar-collapse.collapse{display:none!important}.navbar-nav{margin-top:7.5px}.navbar-nav>li{float:none}.navbar-nav>li>a{padding-top:10px;padding-bottom:10px}.collapse.in{display:block!important}" )
+                                .appendTo( "head" );
+
+                            $( '#next-link' ).css( {
+                                display : 'inline',
+                            } );
+                        } else {
+                            //console.log( 'expand nav bar' );
+                            $("#desktop-collapsed-nav").remove();
+                            $( '#next-link' ).css( 'display', 'none' );
+                        }
+                        
+                    }
+                    });
+                }
+
                 if( $('#bw_affixed_ad').length ) {
                     var offset = $('#bw_affixed_ad').offset();
                     var y_pos = offset.top;
 
                     var bottom_offset = $( document ).height() - 200;
 
+                    var the_bottom = 50;
+
+                    
                     $('#bw_affixed_ad').affix({
                           offset: {
                             top: y_pos,
-                            bottom: 150
+                            bottom: the_bottom
                           }
                     }); 
-
                 }
 
-                if( is_backer() ) {
-                    ga( 'send', 'event', 'ads-status', 'ads-disabled-pageview' );
+                $("#share-icons").jsSocials({
+                    shares: ["email", "twitter", "facebook", "pinterest" ],
+                    showCount: false,
+                    shareIn: "popup"
+                });
+
+                if( $("#expac_name").length ) {
+                    var expansions = ["Vanilla WoW", "The Burning Crusade", "Wrath of the Lich King", "Cataclysm", "Mists of Pandaria", "Warlords of Draenor", "Legion", "Battle for Azeroth"];
+
+                    var pick = Math.floor( Math.random() * 8 );
+
+                    $("#expac_name").html( expansions[ pick ] );
                 }
 
-            });</script> <style>@media (min-width: 979px){#bw_affixed_ad.affix-top{position:static;margin-top:0px;width:338px}#bw_affixed_ad.affix{position:fixed;top:0px;width:338px}#bw_affixed_ad.affix-bottom{position:absolute;width:338px}}.affix,.affix-top{position:static}}</style> <script type="text/javascript">var ajaxurl = 'http://blizzardwatch.com/wp-admin/admin-ajax.php';</script> <link rel="canonical" href="http://blizzardwatch.com/privacy-policy/"><meta property="og:locale" content="en_US"><meta property="og:type" content="article"><meta property="og:title" content="Privacy Policy | Blizzard Watch"><meta property="og:description" content="This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person,..."><meta property="og:url" content="http://blizzardwatch.com/privacy-policy/"><meta property="og:site_name" content="Blizzard Watch"><meta property="DC.date.issued" content="2015-02-09T22:58:41-05:00"><link rel="dns-prefetch" href="//cdn.jsdelivr.net"><link rel="dns-prefetch" href="//cdn.blizzardwatch.com"><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="dns-prefetch" href="//s.w.org"><link rel="alternate" type="application/rss+xml" title="Blizzard Watch » Privacy Policy Comments Feed" href="http://blizzardwatch.com/privacy-policy/feed/"> <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/cdn.blizzardwatch.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script><script src="http://cdn.blizzardwatch.com/wp-includes/js/wp-emoji-release.min.js?ver=4.8.2" type="text/javascript" defer=""></script> <style type="text/css">img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
-.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
-!important}</style><link rel="stylesheet" id="main-style-css" href="http://cdn.blizzardwatch.com/wp-content/cache/min/1/402309855fa4b47c3bfcb764a8aeb17c.css" type="text/css" media="all" data-minify="1"><link rel="stylesheet" id="slider_css-css" href="http://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css?ver=4.8.2" type="text/css" media="all"><link rel="stylesheet" id="blizzard-quotes-custom-css-css" href="http://cdn.blizzardwatch.com/wp-content/cache/min/1/08b689cfde85ef5abf559bf238ac242a.css" type="text/css" media="all" data-minify="1"><link rel="stylesheet" id="sharify-css" href="http://cdn.blizzardwatch.com/wp-content/cache/min/1/a4a6f1db8c82c734c9742ab99ab78ed7.css" type="text/css" media="all" data-minify="1"><link rel="stylesheet" id="sharify-icon-css" href="http://cdn.blizzardwatch.com/wp-content/cache/min/1/f08fdc08f30ec1ac93d2e78b7476d52d.css" type="text/css" media="all" data-minify="1"><link rel="stylesheet" id="sharify-font-css" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400" type="text/css" media="all"><link rel="stylesheet" id="wp-discord-css" href="http://cdn.blizzardwatch.com/wp-content/cache/min/1/e26f3f21dbd6d06ce702656890371087.css" type="text/css" media="all" data-minify="1"><link rel="stylesheet" id="scss-css" href="http://cdn.blizzardwatch.com/wp-content/cache/min/1/04edfe2d5eab99bc2431b4f369d92ac6.css" type="text/css" media="all" data-minify="1"> <script type="text/javascript" src="http://cdn.blizzardwatch.com/wp-content/cache/min/1/caeeaf91855e1491b5538a8727c776dd.js" data-minify="1"></script> <script type="text/javascript" src="http://cdn.blizzardwatch.com/wp-content/cache/min/1/403f54b18dde28c68f8879627f00c379.js" data-minify="1"></script> <script type="text/javascript" src="http://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js?ver=4.8.2"></script> <script type="text/javascript" src="http://cdn.blizzardwatch.com/wp-content/cache/min/1/81d8c694aa9bbea370b1c1950a3cb384.js" data-minify="1"></script> <script type="text/javascript" src="http://cdn.blizzardwatch.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script> <script type="text/javascript" src="http://cdn.blizzardwatch.com/wp-content/cache/min/1/56a44b1c840edb24e1731f15b2513c1f.js" data-minify="1"></script> <link rel="https://api.w.org/" href="http://blizzardwatch.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blizzardwatch.com/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blizzardwatch.com/wp-includes/wlwmanifest.xml"><meta name="generator" content="WordPress 4.8.2"><link rel="shortlink" href="http://blizzardwatch.com/?p=482"> <script type="text/javascript">window._wp_rp_static_base_url = 'https://wprp.zemanta.com/static/';
-	window._wp_rp_wp_ajax_url = "http://blizzardwatch.com/wp-admin/admin-ajax.php";
-	window._wp_rp_plugin_version = '3.6.4';
-	window._wp_rp_post_id = '482';
-	window._wp_rp_num_rel_posts = '6';
-	window._wp_rp_thumbnails = true;
-	window._wp_rp_post_title = 'Privacy+Policy';
-	window._wp_rp_post_tags = [];
-	window._wp_rp_promoted_content = true;</script> <link rel="stylesheet" href="http://cdn.blizzardwatch.com/wp-content/cache/min/1/9600954fe551c3bb81336a38289a920e.css" data-minify="1"><style type="text/css">.related_post_title{color:#545454;font-size:15pt;font-weight:bold}ul.related_post{}ul.related_post
-li{}ul.related_post li
-a{}ul.related_post li
-img{}</style> <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script type="text/javascript">var ajaxurl = 'http://blizzardwatch.com/wp-admin/admin-ajax.php';</script> <link rel="amphtml" href="http://blizzardwatch.com/privacy-policy/amp/"> <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-59192487-1', 'auto');
-  ga('set', 'dimension2', 'Adam Holisky');
-  ga('send', 'pageview');</script> <script data-no-minify="1" data-cfasync="false">(function(w,d){function a(){var b=d.createElement("script");b.async=!0;b.src="http://cdn.blizzardwatch.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload.1.0.5.min.js";var a=d.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)}w.attachEvent?w.attachEvent("onload",a):w.addEventListener("load",a,!1)})(window,document);</script> </head><body class="page-template-default page page-id-482"> <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script> <script>var googletag = googletag || {};
-          googletag.cmd = googletag.cmd || [];</script> <script>if( !is_backer() ) { 
+            });
+
+            window.onload = function(){
+              setTimeout(showAdblockImage, 3000); 
+            };
+            function showAdblockImage(){
+                var adsList = document.querySelectorAll("ins.adsbygoogle");
+                var adam = false;
+
+                if(!adsList){ return;}
+                for(var i=0; i<adsList.length;i++){
+                    if(adsList[i].innerHTML.replace(/\s/g, "").length != 0){
+                        ga( 'send', 'event', 'ads-status', 'ads-enabled-pageview' );
+                        //AdBlock is not active, hence exit
+                        break;
+                    }
+
+                    if( ! is_backer() ) {
+                        //apply inline css to force display
+                        adsList[i].style.cssText = 'display:block !important; text-decoration: none !important;';
+                        //modify html content of element
+                        adsList[i].innerHTML="<div style=\"background: black; color: white; text-align: center; max-width: 300px; margin: 0 auto; font-family: Lato; padding: 3px;\"><p>We noticed you are running an ad blocker. We hate ads too! Unfortunately ads are neccessary for us to survive, we are small business with no corporate backers.</p><p>Would you consider whitelisting us or <a href=\"https://patreon.com/blizzardwatch\" target=\"_blank\" style=\"color: #f55c0f; font-weight: bold;\" onclick=\"ga( 'send', 'event', 'ads-status', 'patreon-link-click' );\">supporting us on Patreon</a>? Thank you!</p></div>";
+
+                        if( adam == false ) {
+                            ga( 'send', 'event', 'ads-status', 'ads-disabled-pageview' );
+                            adam = true;
+                        }
+                    }
+                } 
+            }
+
+        </script>
+<style>
+            @media (min-width: 979px) {
+                  #bw_affixed_ad.affix-top {
+                    position: static;
+                    margin-top: 50px;
+                    width: 338px;
+                  }
+                  
+                  #bw_affixed_ad.affix {
+                    position: fixed;
+                    top: 50px;
+                    width: 338px;
+                  }
+
+                  #bw_affixed_ad.affix-bottom {
+                    position: absolute;
+                    width: 338px;
+                  }
+            }
+
+            .affix,.affix-top {
+               position:static;
+            }
+
+            .bw_login_container {
+                max-width: 1125px;
+                margin: 0 auto 4px;
+                height: 25px;
+            }
+
+            .bw_login_box {
+                color: white;
+                background: #3a7abe;
+                float: right;
+                padding: 3px 5px 3px 7px;
+                font-size: 12px;
+                font-family: 'lato';
+                letter-spacing: 1px;
+                font-weight: bold;
+            }
+
+            .bw_login_box>a {
+                color: white;
+                text-decoration: none;
+            }
+
+            .bw_login_box>a:hover {
+                color: white;
+                text-decoration: underline;
+            }
+
+            .bw_login_box>a:visited {
+                color: white;
+                text-decoration: none;
+            }
+
+            .bw_login_box>a:active {
+                color: white;
+                text-decoration: none;
+            }
+
+            #wp-discord .wpd-info a {
+                background: #3a7abe !important;
+            }
+
+            .bw_standard_border_radius {
+                border-radius: 9px;
+            }
+
+            .bw-button {
+                background: #3a7abe !important;
+                color: white !important;
+            }
+
+            .bw-button>a {
+                background: #3a7abe !important;
+                color: white !important;
+            }
+
+            .bw-button>a:hover {
+                background: #3a7abe !important;
+                color: white !important;
+            }
+
+            .bw-button>a:visited {
+                background: #3a7abe !important;
+                color: white !important;
+            }
+
+            .bw-button>a:active {
+                background: #3a7abe !important;
+                color: white !important;
+            }
+
+            .patreon-sidebar {
+                margin-top: 15px;
+                background: #3a7abe;
+                padding: 5px;
+                font-family: 'lato';
+                color: white;
+            }
+
+            .patreon-sidebar a {
+                color: white;
+                font-weight: bold;
+                text-decoration: none;
+            }
+
+            .patreon-sidebar a:hover {
+                color: white;
+                font-weight: bold;
+                text-decoration: underline;
+            }
+
+            .patreon-sidebar a:visited {
+                color: white;
+                font-weight: bold;
+                text-decoration: none;
+            }
+
+            .patreon-sidebar a:active {
+                color: white;
+                font-weight: bold;
+                text-decoration: none;
+            }
+
+            #wp-discord {
+                -webkit-border-radius: 0 !important;
+                -moz-border-radius: 0 !important;
+                border-radius: 0 !important;
+            }
+        </style>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+          var googletag = googletag || {};
+          googletag.cmd = googletag.cmd || [];
+        </script>
+<script>
           googletag.cmd.push(function() {
-            googletag.defineSlot('/314521528/SidebarUpper300x250', [300, 250], 'div-gpt-ad-1497058309703-0').addService(googletag.pubads());
-            googletag.defineSlot('/314521528/Leaderboard728x90', [728, 90], 'div-gpt-ad-1497059973225-0').addService(googletag.pubads());
-            googletag.defineSlot('/314521528/Mobile300x50', [320, 50], 'div-gpt-ad-1497060315967-0').addService(googletag.pubads());
+
+            var leaderboard_mapping = googletag.sizeMapping().
+            addSize([0, 0], [320,50]).
+            addSize([728, 600], [728, 90]).
+            addSize([1024, 728], [[728,90],[970,250]]).
+            build();
+
+            googletag.defineSlot('/314521528/Leaderboard', [[728, 90], [970, 250], [320, 50]], 'div-gpt-ad-1526530006041-0').defineSizeMapping(leaderboard_mapping).addService(googletag.pubads());
+            googletag.defineSlot('/314521528/SidebarUpper300x250', [[300, 250],[336,280]], 'div-gpt-ad-1526504740336-0').addService(googletag.pubads());
+            googletag.defineSlot('/314521528/Sidebar1300x600', [[300, 600], [300, 250], [300, 1050]], 'div-gpt-ad-1526565485994-0').addService(googletag.pubads());
+            googletag.defineSlot('/314521528/Sidebar2300x600', [[300, 600], [300, 250], [300, 1050]], 'div-gpt-ad-1526532657038-0').addService(googletag.pubads());
+            googletag.defineSlot('/314521528/in_article_1', [300, 250], 'div-gpt-ad-1528056411209-0').addService(googletag.pubads());
+            googletag.defineSlot('/314521528/in_article_2', [300, 250], 'div-gpt-ad-1528055989182-0').addService(googletag.pubads());
+            googletag.defineSlot('/314521528/in_article_3', [300, 250], 'div-gpt-ad-1528056959953-0').addService(googletag.pubads());
+            googletag.defineSlot('/314521528/river_1', [300, 250], 'div-gpt-ad-1528057459727-0').addService(googletag.pubads());
+            googletag.defineSlot('/314521528/river_2', [300, 250], 'div-gpt-ad-1528057479214-0').addService(googletag.pubads());
+            googletag.pubads().disableInitialLoad();
             googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
             googletag.enableServices();
           });
-        }</script> <div class="container-fluid"><div class="row blizzardwatch-row blizzardwatch-row-space"><div class="col-md-12 header-ad-container"> <a href="/"><img class="site-logo" src="http://cdn.blizzardwatch.com/wp-content/themes/blizzardwatch/static/img/blizzard-watch.png"></a><div id="bw-top-a"><div class="bw_header_ad"> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-2714419851433424" data-ad-slot="3051413579"></ins> <script>if( !is_backer() ) { (adsbygoogle = window.adsbygoogle || []).push({}); }</script></div></div></div></div></div><div class="container-fluid" style="margin-top: -15px;"><div class="row blizzardwatch-row header-tablet-row"><div class="menu-container"><div class="menu"><ul id="menu-top-menu" class="menu"><li><a>Games</a><ul class="sub-menu"><li><a href="http://blizzardwatch.com/category/diablo/">Diablo</a></li><li><a href="http://blizzardwatch.com/category/hearthstone/">Hearthstone</a></li><li><a href="http://blizzardwatch.com/category/heroes-of-the-storm/">Heroes of the Storm</a></li><li><a href="http://blizzardwatch.com/category/overwatch/">Overwatch</a></li><li><a href="http://blizzardwatch.com/category/starcraft/">StarCraft</a></li><li><a href="http://blizzardwatch.com/category/world-of-warcraft/">World of Warcraft</a></li></ul></li><li><a>Guides</a><ul class="sub-menu"><li><a href="http://blizzardwatch.com/warcraft-lore-books-guide/">Chronological Guide to WoW Lore</a></li><li><a href="http://blizzardwatch.com/diablo/">Diablo 3</a></li><li><a href="http://blizzardwatch.com/hearthstone/">Hearthstone</a></li><li><a href="http://blizzardwatch.com/heroes-of-the-storm/">Heroes of the Storm</a></li><li><a href="http://blizzardwatch.com/overwatch/">Overwatch</a></li><li><a href="http://blizzardwatch.com/legion/">World of Warcraft: Legion</a></li></ul></li><li><a>Classes</a><ul class="sub-menu"><li><a href="http://blizzardwatch.com/category/world-of-warcraft/death-knight/">Death Knight</a></li><li><a href="http://blizzardwatch.com/category/world-of-warcraft/demon-hunter/">Demon Hunter</a></li><li><a href="http://blizzardwatch.com/category/world-of-warcraft/druid/">Druid</a></li><li><a href="http://blizzardwatch.com/category/world-of-warcraft/hunter/">Hunter</a></li><li><a href="http://blizzardwatch.com/category/world-of-warcraft/mage/">Mage</a></li><li><a href="http://blizzardwatch.com/category/world-of-warcraft/wow-monk/">Monk</a></li><li><a href="http://blizzardwatch.com/category/world-of-warcraft/paladin/">Paladin</a></li><li><a href="http://blizzardwatch.com/category/world-of-warcraft/priest/">Priest</a></li><li><a href="http://blizzardwatch.com/category/world-of-warcraft/rogue/">Rogue</a></li><li><a href="http://blizzardwatch.com/category/world-of-warcraft/shaman/">Shaman</a></li><li><a href="http://blizzardwatch.com/category/world-of-warcraft/warlock/">Warlock</a></li><li><a href="http://blizzardwatch.com/category/world-of-warcraft/warrior/">Warrior</a></li></ul></li><li><a>Columns</a><ul class="sub-menu"><li><a href="http://blizzardwatch.com/category/breakfast-topic/">Breakfast Topic</a></li><li><a href="http://blizzardwatch.com/category/blizzcaps/">BlizzCaps</a></li><li><a href="http://blizzardwatch.com/category/blizzcrafts/">BlizzCrafts</a></li><li><a href="http://blizzardwatch.com/tag/deck-list/">Hearthstone Decks</a></li><li><a href="http://blizzardwatch.com/category/know-your-lore/">Know Your Lore</a></li><li><a href="http://blizzardwatch.com/tag/machinima/">Machinima</a></li><li><a href="http://blizzardwatch.com/newsletter/">Newsletter</a></li><li><a href="http://blizzardwatch.com/category/officers-quarters/">Officers’ Quarters</a></li><li><a href="http://blizzardwatch.com/tag/pet-battles/">Pet Battles</a></li><li><a href="http://blizzardwatch.com/tag/blizzard-watch-podcast/">Podcasts</a></li><li><a href="http://blizzardwatch.com/category/role-play/">Role Play</a></li><li><a href="http://blizzardwatch.com/category/the-queue/">The Queue</a></li><li><a href="http://blizzardwatch.com/category/wow-archivist/">WoW Archivist</a></li><li><a href="http://blizzardwatch.com/tag/WoW-Rookie/">WoW Rookie</a></li></ul></li><li><a href="http://blizzardwatch.com/about/">About</a><ul class="sub-menu"><li><a href="http://blizzardwatch.com/comments-community-guidelines/">Community Guidelines</a></li><li><a href="https://www.patreon.com/blizzardwatch">Donate Now via Patreon</a></li><li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=YPK84TKRCYX96">Donate Now via PayPal</a></li><li><a href="http://blizzardwatch.com/support/">How To Support</a></li><li><a href="http://blizzardwatch.com/product/">Open Source</a></li><li><a href="http://blizzardwatch.com/supporter-benefits/">Supporter Benefits</a></li><li><a href="http://blizzardwatch.com/about/">Who We Are</a></li></ul></li><li><a href="/discord">Discord</a></li><li><a href="/forums">Forums</a></li></ul></div></div></div></div><div class="container-fluid"><div class="row blizzardwatch-row blizzardwatch-row-single main-content-area"><div class="row blizzardwatch-row article-content-area"><div class="col-md-8 col-sm-7"> <article class="single"><div class="image-container"></div><h1 class="article-title">Privacy Policy</h1><div class="content"><div id="ppBody"><div class="innerText">This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.</div><div class="innerText"></div><div class="grayText"><strong>What personal information do we collect from the people that visit our blog, website or app?</strong></div><div class="innerText">When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.</div><div class="innerText"></div><div class="grayText"><strong>When do we collect information?</strong></div><div class="innerText">We collect information from you when you subscribe to a newsletter, fill out a form or enter information on our site.</div><div class="innerText"></div><div class="grayText"><strong>How do we use your information?</strong></div><div class="innerText">We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To improve our website in order to better serve you.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To allow us to better service you in responding to your customer service requests.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To administer a contest, promotion, survey or other site feature.</div><div class="innerText"></div><div class="grayText"><strong>How do we protect visitor information?</strong></div><div class="innerText">Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.</div><div class="innerText">We use regular Malware Scanning.</div><div class="innerText">We do not use an SSL certificate</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.</div><div class="innerText"></div><div class="grayText"><strong>Do we use ‘cookies’?</strong></div><div class="innerText">Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</div><div class="innerText"></div><div class="innerText"><strong>We use cookies to:</strong></div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Understand and save user’s preferences for future visits.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Keep track of advertisements.</div><div class="innerText">You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.</div><div class="innerText">If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.</div><div class="innerText">However, you can still place orders .</div><p>&nbsp;</p><div class="grayText"><strong>Third Party Disclosure</strong></div><div class="innerText">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<p></p></div><p>&nbsp;</p><div class="grayText"><strong>Third party links</strong></div><div class="innerText">Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</div><p>&nbsp;</p><div class="blueText"><strong>Google</strong></div><div class="innerText">Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en</div><div class="innerText">We use Google AdSense Advertising on our website.</div><div class="innerText">Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</div><div class="innerText"></div><div class="innerText"><strong>We have implemented the following:</strong></div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Remarketing with Google AdSense</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Google Display Network Impression Reporting</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Demographics and Interests Reporting</div><div class="innerText"></div><div class="innerText">We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.</div><div class="innerText">Opting out:<br> Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.</div><p>&nbsp;</p><div class="blueText"><strong>California Online Privacy Protection Act</strong></div><div class="innerText">CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf</div><div class="innerText"><strong>According to CalOPPA we agree to the following:</strong></div><div class="innerText">Users can visit our site anonymously</div><div class="innerText">Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.</div><div class="innerText">Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.</div><div class="innerText">Users will be notified of any privacy policy changes:</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> On our Privacy Policy Page</div><div class="innerText">Users are able to change their personal information:</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> By emailing us</div><div class="innerText"></div><div class="innerText"></div><p>&nbsp;</p><div class="blueText"><strong>COPPA (Children Online Privacy Protection Act)</strong></div><div class="innerText">When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.</div><div class="innerText">We do not specifically market to children under 13.</div><p>&nbsp;</p><div class="blueText"><strong>Fair Information Practices</strong></div><div class="innerText">The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.</div><div class="innerText"><strong>In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:</strong></div><div class="innerText">We will notify the users via in site notification</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Within 1 business day</div><div class="innerText">We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.</div><p>&nbsp;</p><div class="blueText"><strong>CAN SPAM Act</strong></div><div class="innerText">The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.</div><div class="innerText"><strong>We collect your email address in order to:</strong></div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Send information, respond to inquiries, and/or other requests or questions.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Market to our mailing list or continue to send emails to our clients after the original transaction has occurred</div><div class="innerText"><strong>To be in accordance with CANSPAM we agree to the following:</strong></div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> NOT use false, or misleading subjects or email addresses</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Identify the message as an advertisement in some reasonable way</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Include the physical address of our business or site headquarters</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Monitor third party email marketing services for compliance, if one is used.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Honor opt-out/unsubscribe requests quickly</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Allow users to unsubscribe by using the link at the bottom of each email</div><div class="innerText"><strong><br> If at any time you would like to unsubscribe from receiving future emails, you can</strong></div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Follow the instructions at the bottom of each email.</div><p>and we will promptly remove you from <strong>ALL</strong> correspondence.</p></div><p>&nbsp;</p><div class="blueText"><strong>Contacting Us</strong></div><p>&nbsp;</p><div class="innerText">If there are any questions regarding this privacy policy you may contact us using the information below.</div><div class="innerText">adam@blizzardwatch.com</div><div class="innerText">Last Edited on 2015-02-09</div></div> </article></div><div class="col-md-4 col-sm-5 sidebar"><div class="bw_sidebar_ad_top"> <ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2714419851433424" data-ad-slot="2164666374"></ins> <script>!function(e,t,r,n,c,a,l){function i(t,r){return r=e.createElement('div'),r.innerHTML='<a href="'+t.replace(/"/g,'&quot;')+'"></a>',r.childNodes[0].getAttribute('href')}function o(e,t,r,n){for(r='',n='0x'+e.substr(t,2)|0,t+=2;t<e.length;t+=2)r+=String.fromCharCode('0x'+e.substr(t,2)^n);return i(r)}try{for(c=e.getElementsByTagName('a'),l='/cdn-cgi/l/email-protection#',n=0;n<c.length;n++)try{(t=(a=c[n]).href.indexOf(l))>-1&&(a.href='mailto:'+o(a.href,t+l.length))}catch(e){}for(c=e.querySelectorAll('.__cf_email__'),n=0;n<c.length;n++)try{(a=c[n]).parentNode.replaceChild(e.createTextNode(o(a.getAttribute('data-cfemail'),0)),a)}catch(e){}}catch(e){}}(document);</script><script>if( !is_backer() ) { (adsbygoogle = window.adsbygoogle || []).push({}); }</script></div><div class="container-fluid"><div class="row"><div class="col-md-12 hidden-xs hidden-sm social-icons"> <a href="http://www.twitter.com/blizzardwatch"><img src="http://www.blizzardwatch.com/wp-content/themes/BlizzardWatch/static/img/twitter.png"></a> <a href="https://www.facebook.com/blizzardwatch"><img src="http://www.blizzardwatch.com/wp-content/themes/BlizzardWatch/static/img/facebook.png"></a> <a href="http://twitch.tv/blizzardwatch"><img src="http://www.blizzardwatch.com/wp-content/themes/BlizzardWatch/static/img/twitch.png"></a> <a href="https://www.youtube.com/channel/UClbKrhdkjIvzxzA9ktrCsfg"><img src="http://www.blizzardwatch.com/wp-content/themes/BlizzardWatch/static/img/youtube.png"></a> <a href="/rss"><img src="http://www.blizzardwatch.com/wp-content/themes/BlizzardWatch/static/img/rss.png"></a></div></div></div><div style="text-align: center; margin-top: 15px; background: #f55c0f; border-radius: 9px; padding: 5px;"><a href="https://www.patreon.com/blizzardwatch" onclick="ga('send', 'event', 'patreon', 'sidebar-ask');"><img src="http://cdn.blizzardwatch.com/wp-content/uploads/2015/04/patreon-logo.png" style="width: 300px;"><p style="margin-top: 7px; color: white; font-weight: bold;">Support Blizzard Watch on Patreon</p></a></div><div class="container-fluid"><div class="row blizzardwatch-row blizzardwatch-row-space" style="margin-top: 25px; margin-bottom: 0;"><div class="col-md-12"><form action="/" method="get"><div class="form-group has-feedback has-feedback-left"> <input type="text" name="s" class="form-control" placeholder="Search..."> <span class="glyphicon glyphicon-search form-control-feedback search-icon-fix"></span></div></form></div></div></div><div id="wp-discord" class="wpd-dark"><div class="wpd-head"> <img src="http://cdn.blizzardwatch.com/wp-content/plugins/wp-discord/includes/../public/img/icon.png" class="wpd-icon"> <img src="http://cdn.blizzardwatch.com/wp-content/plugins/wp-discord/includes/../public/img/discord.png" class="wpd-name"><h3>blizzardwatch</h3></div><div class="wpd-info"> <span><strong>305</strong> User(s) Online</span> <a href="https://discordapp.com/invite/6UQt49" target="_blank">Join Server</a></div></div><div class="bw_sidebar_ad"> <ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-2714419851433424" data-ad-slot="7435042374"></ins> <script>if( !is_backer() ) { (adsbygoogle = window.adsbygoogle || []).push({}); }</script></div><li id="text-15" class="widget widget_text"><div class="widget-title"><div class="widget-line"><hr></div><div class="widget-text"><h3>Podcasts</h3></div></div><div class="textwidget"><a href="https://itunes.apple.com/us/podcast/blizzard-watch/id964696892?mt=2"><img src="http://cdn.blizzardwatch.com/wp-content/uploads/2015/08/podcast_pinbox_temp.jpg" style="width: 100%;"></a><br><br> <a href="https://itunes.apple.com/us/podcast/lore-watch/id1023224738?mt=2"><img src="http://cdn.blizzardwatch.com/wp-content/uploads/2015/08/lorewatch_pinbox.jpg" style="width: 100%;"></a><p>&nbsp;</p></div></li><div class="bw_sidebar_ad" id="bw_affixed_ad"><p>&nbsp;</p><p><br> <ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-2714419851433424" data-ad-slot="9748197175"></ins><br> <script>if( !is_backer() ) { (adsbygoogle = window.adsbygoogle || []).push({}); }</script></p></div></div></div></div></div><div class="container-fluid"><div class="row blizzardwatch-row" style="color: #e6e6e6;"><div class="col-md-12 footer-col"><div class="textwidget"><a href="/about">About Blizzard Watch</a> | <a href="/contact">Contact Us</a> | <a href="/comments-community-guidelines">Community Guidelines</a> | <a href="/advertise-with-us">Advertise With Us</a> | <a href="/privacy-policy">Privacy Policy</a> <br><br></div><div class="bw_footer_1"></div></div></div></div><div class="copyright-notice">© 2017 Interastrum, L.L.C. All rights reserved.</div> <script type="text/javascript" src="http://static.wowhead.com/widgets/power.js"></script><script>var wowhead_tooltips = { "colorlinks": false, "iconizelinks": true, "renamelinks": false }</script> <script type="text/javascript" src="http://static-storm.cursecdn.com/current/js/syndication/tt.js"></script> <script type="text/javascript">var _qevents = _qevents || [];
+        </script>
+<script>
+            //load the apstag.js library
+            !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+            //initialize the apstag.js library on the page to allow bidding
+            apstag.init({
+                 pubID: '18959297-93b1-4ecd-98e4-717f2cc96a22', //enter your pub ID here as shown above, it must within quotes
+                 adServer: 'googletag'
+            });
+            apstag.fetchBids({
+                 slots: [{
+                     slotID: 'div-gpt-ad-1526530006041-0', //example: 'div-gpt-ad-1475102693815-0'
+                     slotName: '/314521528/Leaderboard', //example: '12345/box-1'
+                     sizes: [[728, 90], [970, 250], [320, 50]] //example: [[300,250], [300,600]]
+                 },
+                 {
+                     slotID: 'div-gpt-ad-1526504740336-0', //example: 'div-gpt-ad-1475185990716-0'
+                     slotName: '/314521528/SidebarUpper300x250', //example: '12345/leaderboard-1'
+                     sizes: [[300,250],[336,280]] //example: [[728,90]]
+                 },
+                 {
+                     slotID: 'div-gpt-ad-1526565485994-0', //example: 'div-gpt-ad-1475102693815-0'
+                     slotName: '/314521528/Sidebar1300x600', //example: '12345/box-1'
+                     sizes: [[300, 600], [300, 250], [300, 1050]] //example: [[300,250], [300,600]]
+                 },
+                 {
+                     slotID: 'div-gpt-ad-1526532657038-0', //example: 'div-gpt-ad-1475102693815-0'
+                     slotName: '/314521528/Sidebar2300x600', //example: '12345/box-1'
+                     sizes: [[300, 600], [300, 250], [300, 1050]] //example: [[300,250], [300,600]]
+                 }],
+                 timeout: 2e3
+            }, function(bids) {
+                 // set apstag targeting on googletag, then trigger the first DFP request in googletag's disableInitialLoad integration
+                 googletag.cmd.push(function(){
+                     apstag.setDisplayBids();
+                     googletag.pubads().refresh();
+                 });
+            }); 
+            </script>
+<link rel="canonical" href="https://blizzardwatch.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | Blizzard Watch">
+<meta property="og:description" content="Updated May 20, 2018: Blizzard Watch fully complies with the GDPR. Here is how your data is used: Any WordPress Cookies are necessary for the operation of the site. If you are a user that is logged in to view member-only content, you may remove your data completely by logging out. We do not store...">
+<meta property="og:url" content="https://blizzardwatch.com/privacy-policy/">
+<meta property="og:site_name" content="Blizzard Watch">
+<meta property="DC.date.issued" content="2015-02-09T22:58:41-05:00">
+<link rel="amphtml" href="https://blizzardwatch.com/privacy-policy/amp/"><link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="dns-prefetch" href="//cdn.blizzardwatch.com">
+<link rel="alternate" type="application/rss+xml" title="Blizzard Watch » Privacy Policy Comments Feed" href="https://blizzardwatch.com/privacy-policy/feed/">
+<link rel="stylesheet" id="main-style-css" href="https://blizzardwatch.com/wp-content/themes/blizzardwatch/static/css/main.css?v=12345&amp;ver=4.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="main-style-new-css" href="https://blizzardwatch.com/wp-content/themes/blizzardwatch/static/css/new-bw-css.css?v=2&amp;ver=4.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="slider_css-css" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css?ver=4.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="blizzard-quotes-custom-css-css" href="https://blizzardwatch.com/wp-content/plugins/blizzard-quotes/css/style.css?ver=4.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="cookielawinfo-style-css" href="https://blizzardwatch.com/wp-content/plugins/cookie-law-info/css/cli-style.css?ver=1.5.4" type="text/css" media="all">
+<link rel="stylesheet" id="wp-discord-css" href="https://blizzardwatch.com/wp-content/plugins/wp-discord/public/css/wp-discord.css?ver=0.4.3" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack-widget-social-icons-styles-css" href="https://blizzardwatch.com/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506" type="text/css" media="all">
+<link rel="stylesheet" id="scss-css" href="https://blizzardwatch.com/wp-content/cache/busting/1/sccss.css?ver=1528401490" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="https://blizzardwatch.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.1.1" type="text/css" media="all">
+<script type="text/javascript" src="https://blizzardwatch.com/wp-content/themes/BlizzardWatch/static/js/bw-ads.js?ver=4.9.6"></script>
+<script type="text/javascript" src="https://blizzardwatch.com/wp-content/themes/BlizzardWatch/static/js/js.cookie.js?ver=4.9.6"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js?ver=4.9.6"></script>
+<script type="text/javascript" src="https://blizzardwatch.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://blizzardwatch.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":null};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://blizzardwatch.com/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?ver=1.5.4"></script>
+<script type="text/javascript" src="https://blizzardwatch.com/wp-content/plugins/wp-discord/public/js/wp-discord.js?ver=0.4.3"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blizzardwatch.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blizzardwatch.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 4.9.6">
+<link rel="shortlink" href="https://wp.me/P9XXSt-7M">
+<meta property="fb:pages" content="439979076150475">
+
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/blizzardwatch.com\/privacy-policy\/"},"url":"https:\/\/blizzardwatch.com\/privacy-policy\/","headline":"Privacy Policy","datePublished":"2015-02-09T22:58:41+00:00","dateModified":"2018-05-20T11:04:47+00:00","publisher":{"@type":"Organization","@id":"https:\/\/blizzardwatch.com\/#organization","name":"Blizzard Watch","logo":{"@type":"ImageObject","url":"https:\/\/blizzardwatch.com\/wp-content\/uploads\/2017\/11\/Twitter-Icon.jpg","width":600,"height":60}},"description":"Updated May 20, 2018: Blizzard Watch fully complies with the GDPR. Here is how your data is used: Any WordPress Cookies are necessary for the operation of the site. If you are a user that is logged in to view member-only content, you may remove your data completely by","author":{"@type":"Person","name":"Adam Holisky","url":"https:\/\/blizzardwatch.com\/author\/adam\/","description":"Adam has been publishing content about World of Warcraft for over seven years. Besides talking about dragons on the internet, he's also an accomplished software developer and enjoys flying around in small planes. He resides in Minneapolis, MN with his wife and two cats.","sameAs":["http:\/\/www.twitter.com\/adamholisky"]}}</script>
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<style type="text/css">img#wpstats{display:none}</style><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script type="text/javascript">var ajaxurl = 'https://blizzardwatch.com/wp-admin/admin-ajax.php';</script>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script> <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://cdn.blizzardwatch.com/");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '45408ec9-0362-4d6c-af61-ebd5571bd6bf';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['httpPermissionRequest'] = { };
+oneSignal_options['httpPermissionRequest']['enable'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['subdomainName'] = "blizzardwatch";
+oneSignal_options['promptOptions'] = { };
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://blizzardwatch.com",
+                "name": "Home"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://blizzardwatch.com/privacy-policy/",
+                "name": "Privacy Policy"
+            }
+        }
+    ]
+}</script>
+ </head>
+<body class="page-template-default page page-id-482" style="padding-top: 80px;">
+<div class="container-fluid">
+<div class="row blizzardwatch-row blizzardwatch-row-space">
+<div class="col-md-12">
+<div class="bw_header_ad">
+<div id="div-gpt-ad-1526530006041-0">
+<script>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1526530006041-0'); });
+					</script>
+</div></div> </div>
+</div>
+</div>
+<nav class="navbar navbar navbar-fixed-top" style="background: #222222; padding: 5px; max-width: 1125px; margin: 0 auto; ">
+<div class="container-fluid" style="margin: 0 auto; max-width: 1150px;">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" style="margin-right: 15px;">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="/" style="padding: 7px 15px; margin-left: 5px;"><img src="//cdn.blizzardwatch.com/wp-content/uploads/2018/06/bw-pride-2018-logo.png" style="width: 75px;"></a>
+<p class="navbar-text" id="next-link" style="display: none; letter-spacing: 1px; font-family: 'Lato';">
+</p>
+</div>
+<div class="collapse navbar-collapse hidden-xs hidden-sm" id="bs-example-navbar-collapse-1" style="text-transform: uppercase; letter-spacing: 1px; font-family: 'Lato'; ">
+<ul id="menu-top-menu" class="nav navbar-nav"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class=" dropdown"><a title="Games" href="#" data-toggle="dropdown" class="dropdown-toggle" data-hover="dropdown" aria-haspopup="true" onclick="ga('send', 'event', 'menu', '#');">Games <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Diablo" href="https://blizzardwatch.com/category/diablo/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/diablo/');">Diablo</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Hearthstone" href="https://blizzardwatch.com/category/hearthstone/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/hearthstone/');">Hearthstone</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Heroes of the Storm" href="https://blizzardwatch.com/category/heroes-of-the-storm/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/heroes-of-the-storm/');">Heroes of the Storm</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Overwatch" href="https://blizzardwatch.com/category/overwatch/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/overwatch/');">Overwatch</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="StarCraft" href="https://blizzardwatch.com/category/starcraft/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/starcraft/');">StarCraft</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="World of Warcraft" href="https://blizzardwatch.com/category/world-of-warcraft/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/world-of-warcraft/');">World of Warcraft</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Class Guides" href="/world-warcraft-class-guides/" onclick="ga('send', 'event', 'menu', '/world-warcraft-class-guides/');">Class Guides</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class=" dropdown"><a title="Class News" href="#" data-toggle="dropdown" class="dropdown-toggle" data-hover="dropdown" aria-haspopup="true" onclick="ga('send', 'event', 'menu', '#');">Class News <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Death Knight" href="https://blizzardwatch.com/category/world-of-warcraft/death-knight/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/world-of-warcraft/death-knight/');">Death Knight</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Demon Hunter" href="https://blizzardwatch.com/category/world-of-warcraft/demon-hunter/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/world-of-warcraft/demon-hunter/');">Demon Hunter</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Druid" href="https://blizzardwatch.com/category/world-of-warcraft/druid/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/world-of-warcraft/druid/');">Druid</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Hunter" href="https://blizzardwatch.com/category/world-of-warcraft/hunter/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/world-of-warcraft/hunter/');">Hunter</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Mage" href="https://blizzardwatch.com/category/world-of-warcraft/mage/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/world-of-warcraft/mage/');">Mage</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Monk" href="https://blizzardwatch.com/category/world-of-warcraft/wow-monk/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/world-of-warcraft/wow-monk/');">Monk</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Paladin" href="https://blizzardwatch.com/category/world-of-warcraft/paladin/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/world-of-warcraft/paladin/');">Paladin</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Priest" href="https://blizzardwatch.com/category/world-of-warcraft/priest/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/world-of-warcraft/priest/');">Priest</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Rogue" href="https://blizzardwatch.com/category/world-of-warcraft/rogue/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/world-of-warcraft/rogue/');">Rogue</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Shaman" href="https://blizzardwatch.com/category/world-of-warcraft/shaman/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/world-of-warcraft/shaman/');">Shaman</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Warlock" href="https://blizzardwatch.com/category/world-of-warcraft/warlock/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/world-of-warcraft/warlock/');">Warlock</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Warrior" href="https://blizzardwatch.com/category/world-of-warcraft/warrior/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/world-of-warcraft/warrior/');">Warrior</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class=" dropdown"><a title="Columns" href="#" data-toggle="dropdown" class="dropdown-toggle" data-hover="dropdown" aria-haspopup="true" onclick="ga('send', 'event', 'menu', '#');">Columns <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Breakfast Topic" href="https://blizzardwatch.com/category/breakfast-topic/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/breakfast-topic/');">Breakfast Topic</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="BlizzCaps" href="https://blizzardwatch.com/category/blizzcaps/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/blizzcaps/');">BlizzCaps</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="BlizzCrafts" href="https://blizzardwatch.com/category/blizzcrafts/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/blizzcrafts/');">BlizzCrafts</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Hearthstone Decks" href="http://blizzardwatch.com/tag/deck-list/" onclick="ga('send', 'event', 'menu', 'http://blizzardwatch.com/tag/deck-list/');">Hearthstone Decks</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Know Your Lore" href="https://blizzardwatch.com/category/know-your-lore/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/know-your-lore/');">Know Your Lore</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Machinima" href="http://blizzardwatch.com/tag/machinima/" onclick="ga('send', 'event', 'menu', 'http://blizzardwatch.com/tag/machinima/');">Machinima</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Newsletter" href="https://blizzardwatch.com/newsletter/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/newsletter/');">Newsletter</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Officers' Quarters" href="https://blizzardwatch.com/category/officers-quarters/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/officers-quarters/');">Officers’ Quarters</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Pet Battles" href="http://blizzardwatch.com/tag/pet-battles/" onclick="ga('send', 'event', 'menu', 'http://blizzardwatch.com/tag/pet-battles/');">Pet Battles</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Podcasts" href="http://blizzardwatch.com/tag/blizzard-watch-podcast/" onclick="ga('send', 'event', 'menu', 'http://blizzardwatch.com/tag/blizzard-watch-podcast/');">Podcasts</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="The Queue" href="https://blizzardwatch.com/category/the-queue/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/the-queue/');">The Queue</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="WoW Archivist" href="https://blizzardwatch.com/category/wow-archivist/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/category/wow-archivist/');">WoW Archivist</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="WoW Rookie" href="http://blizzardwatch.com/tag/WoW-Rookie/" onclick="ga('send', 'event', 'menu', 'http://blizzardwatch.com/tag/WoW-Rookie/');">WoW Rookie</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class=" dropdown"><a title="Podcasts" href="#" data-toggle="dropdown" class="dropdown-toggle" data-hover="dropdown" aria-haspopup="true" onclick="ga('send', 'event', 'menu', '#');">Podcasts <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Lorewatch" href="/podcast/#lorewatch" onclick="ga('send', 'event', 'menu', '/podcast/#lorewatch');">Lorewatch</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="The Blizzard Watch Podcast" href="/podcast/#blizzardwatchpodcast" onclick="ga('send', 'event', 'menu', '/podcast/#blizzardwatchpodcast');">The Blizzard Watch Podcast</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class=" dropdown"><a title="About" href="#" data-toggle="dropdown" class="dropdown-toggle" data-hover="dropdown" aria-haspopup="true" onclick="ga('send', 'event', 'menu', '#');">About <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Community Guidelines" href="https://blizzardwatch.com/comments-community-guidelines/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/comments-community-guidelines/');">Community Guidelines</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Discord" href="/discord" onclick="ga('send', 'event', 'menu', '/discord');">Discord</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Donate Now via Patreon" href="https://www.patreon.com/blizzardwatch" onclick="ga('send', 'event', 'menu', 'https://www.patreon.com/blizzardwatch');">Donate Now via Patreon</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Donate Now via PayPal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=YPK84TKRCYX96" onclick="ga('send', 'event', 'menu', 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=YPK84TKRCYX96');">Donate Now via PayPal</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="How To Support" href="https://blizzardwatch.com/support/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/support/');">How To Support</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Supporter Benefits" href="https://blizzardwatch.com/supporter-benefits/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/supporter-benefits/');">Supporter Benefits</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a title="Who We Are" href="https://blizzardwatch.com/about/" onclick="ga('send', 'event', 'menu', 'https://blizzardwatch.com/about/');">Who We Are</a></li>
+</ul>
+</li>
+</ul> </div>
+</div>
+</nav>
+<div class="bw_login_container">
+<div class="bw_login_box">
+<a href="/login" onclick="ga( 'send', 'event', 'auth', 'login-click', 'patreon' );">Login Patreon</a> | <a href="/login-paypal" onclick="ga( 'send', 'event', 'auth', 'login-click', 'paypal' );">Login PayPal</a> </div>
+</div>
+<div class="container-fluid">
+<div class="row blizzardwatch-row blizzardwatch-row-single main-content-area">
+<div class="row blizzardwatch-row article-content-area">
+<div class="col-md-8 col-sm-7">
+<article class="single">
+<div class="image-container">
+</div>
+<h1 class="article-title">Privacy Policy</h1>
+<div class="content"><div id="ppBody">
+<h2><strong>Updated May 20, 2018:</strong></h2>
+<div>Blizzard Watch fully complies with the GDPR. Here is how your data is used:</div>
+</div>
+<ul>
+<li>Any WordPress Cookies are necessary for the operation of the site.</li>
+<li>If you are a user that is logged in to view member-only content, you may remove your data completely by logging out. We do not store personal data of users that are logged in or their status after they are logged out, all information is stored in a cookie.</li>
+<li>Most site ads are served through Google AdSense. To remove ad personalization, please visit this page:&nbsp;<a href="https://policies.google.com/technologies/partner-sites">https://policies.google.com/technologies/partner-sites</a>. For ads that are delivered through Google’s Doubleclick For Publishers, citizens of the EU will be shown non-personalized ads and no tracking information will be included.</li>
+<li>Our site uses Google Analytics to track website usage. If you prefer not to have your usage of the site tracked, Google recommends you install the <a href="https://tools.google.com/dlpage/gaoptout">Google Analytics Opt-Out Browser Addon</a>.</li>
+<li>Blizzard Watch does not store, process, or track data of people who support our website financially. This is done through Patreon. You can read their Privacy Policy and opt-out of collection or remove your data from them if you are a Patreon Supporter. More information can be found on their <a href="https://www.patreon.com/privacy">Patreon Privacy Policy page</a>.</li>
+<li>Blizzard Watch does not store, process, or track data of people who comment on our website. This is done through Disqus. You can read more about them and <a href="https://blog.disqus.com/update-on-privacy-and-gdpr-compliance">take action on your global profile</a>.</li>
+<li>For concerns, please reach out to adam &lt;at&gt; blizzardwatch.com.</li>
+</ul>
+<h2><strong>Privacy Policy</strong></h2>
+<div id="ppBody">
+<div class="innerText">This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.</div>
+<div class="innerText"></div>
+<div class="grayText"><strong>What personal information do we collect from the people that visit our blog, website or app?</strong></div>
+<div class="innerText">When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.</div>
+<div class="innerText"></div>
+<div class="grayText"><strong>When do we collect information?</strong></div>
+<div class="innerText">We collect information from you when you subscribe to a newsletter, fill out a form or enter information on our site.</div>
+<div class="innerText"></div>
+<div class="grayText"><strong>How do we use your information?</strong></div>
+<div class="innerText">We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:</div>
+<div class="innerText"><strong>•</strong> To improve our website in order to better serve you.</div>
+<div class="innerText"><strong>•</strong> To allow us to better service you in responding to your customer service requests.</div>
+<div class="innerText"><strong>•</strong> To administer a contest, promotion, survey or other site feature.</div>
+<div class="innerText"></div>
+<div class="grayText"><strong>How do we protect visitor information?</strong></div>
+<div class="innerText">Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.</div>
+<div class="innerText">We use regular Malware Scanning.</div>
+<div class="innerText">We do not use an SSL certificate</div>
+<div class="innerText"><strong>•</strong> We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.</div>
+<div class="innerText"></div>
+<div class="grayText"><strong>Do we use ‘cookies’?</strong></div>
+<div class="innerText">Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</div>
+<div class="innerText"></div>
+<div class="innerText"><strong>We use cookies to:</strong></div>
+<div class="innerText"><strong>•</strong> Understand and save user’s preferences for future visits.</div>
+<div class="innerText"><strong>•</strong> Keep track of advertisements.</div>
+<div class="innerText">You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.</div>
+<div class="innerText">If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.</div>
+<div class="innerText">However, you can still place orders .</div>
+<p>&nbsp;</p>
+<div class="grayText"><strong>Third Party Disclosure</strong></div>
+<div class="innerText">
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+</div>
+<p>&nbsp;</p>
+<div class="grayText"><strong>Third party links</strong></div>
+<div class="innerText">Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</div>
+<p>&nbsp;</p>
+<div class="blueText"><strong>Google</strong></div>
+<div class="innerText">Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en</div>
+<div class="innerText">We use Google AdSense Advertising on our website.</div>
+<div class="innerText">Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</div>
+<div class="innerText"></div>
+<div class="innerText"><strong>We have implemented the following:</strong></div>
+<div class="innerText"><strong>•</strong> Remarketing with Google AdSense</div>
+<div class="innerText"><strong>•</strong> Google Display Network Impression Reporting</div>
+<div class="innerText"><strong>•</strong> Demographics and Interests Reporting</div>
+<div class="innerText"></div>
+<div class="innerText">We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.</div>
+<div class="innerText">Opting out:<br>
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.</div>
+<p>&nbsp;</p>
+<div class="blueText"><strong>California Online Privacy Protection Act</strong></div>
+<div class="innerText">CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf</div>
+<div class="innerText"><strong>According to CalOPPA we agree to the following:</strong></div>
+<div class="innerText">Users can visit our site anonymously</div>
+<div class="innerText">Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.</div>
+<div class="innerText">Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.</div>
+<div class="innerText">Users will be notified of any privacy policy changes:</div>
+<div class="innerText"><strong>•</strong> On our Privacy Policy Page</div>
+<div class="innerText">Users are able to change their personal information:</div>
+<div class="innerText"><strong>•</strong> By emailing us</div>
+<div class="innerText"></div>
+<div class="innerText"></div>
+<p>&nbsp;</p>
+<div class="blueText"><strong>COPPA (Children Online Privacy Protection Act)</strong></div>
+<div class="innerText">When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.</div>
+<div class="innerText">We do not specifically market to children under 13.</div>
+<p>&nbsp;</p>
+<div class="blueText"><strong>Fair Information Practices</strong></div>
+<div class="innerText">The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.</div>
+<div class="innerText"><strong>In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:</strong></div>
+<div class="innerText">We will notify the users via in site notification</div>
+<div class="innerText"><strong>•</strong> Within 1 business day</div>
+<div class="innerText">We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.</div>
+<p>&nbsp;</p>
+<div class="blueText"><strong>CAN SPAM Act</strong></div>
+<div class="innerText">The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.</div>
+<div class="innerText"><strong>We collect your email address in order to:</strong></div>
+<div class="innerText"><strong>•</strong> Send information, respond to inquiries, and/or other requests or questions.</div>
+<div class="innerText"><strong>•</strong> Market to our mailing list or continue to send emails to our clients after the original transaction has occurred</div>
+<div class="innerText"><strong>To be in accordance with CANSPAM we agree to the following:</strong></div>
+<div class="innerText"><strong>•</strong> NOT use false, or misleading subjects or email addresses</div>
+<div class="innerText"><strong>•</strong> Identify the message as an advertisement in some reasonable way</div>
+<div class="innerText"><strong>•</strong> Include the physical address of our business or site headquarters</div>
+<div class="innerText"><strong>•</strong> Monitor third party email marketing services for compliance, if one is used.</div>
+<div class="innerText"><strong>•</strong> Honor opt-out/unsubscribe requests quickly</div>
+<div class="innerText"><strong>•</strong> Allow users to unsubscribe by using the link at the bottom of each email</div>
+<div class="innerText"><strong><br>
+If at any time you would like to unsubscribe from receiving future emails, you can</strong></div>
+<div class="innerText"><strong>•</strong> Follow the instructions at the bottom of each email.</div>
+<p>and we will promptly remove you from <strong>ALL</strong> correspondence.</p>
+</div>
+<p>&nbsp;</p>
+<div class="blueText"><strong>Contacting Us</strong></div>
+<p>&nbsp;</p>
+<div class="innerText">If there are any questions regarding this privacy policy you may contact us using the information below.</div>
+<div class="innerText"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d9b8bdb8b499bbb5b0a3a3b8abbdaeb8adbab1f7bab6b4">[email&nbsp;protected]</a></div>
+<div class="innerText">Last Edited on 2015-02-09</div></div>
+</article>
+</div>
+<div class="col-md-4 col-sm-5 sidebar">
+<div class="bw_sidebar_ad_top">
+<div id="div-gpt-ad-1526504740336-0">
+<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>
+if( !is_backer() ) { googletag.cmd.push(function() { googletag.display('div-gpt-ad-1526504740336-0'); }); }
+</script>
+</div></div>
+<div class="patreon-sidebar">
+<div style="text-align: center;">
+<a href="https://www.patreon.com/blizzardwatch" onclick="ga('send', 'event', 'patreon', 'sidebar - ask');">
+<img src="//cdn.blizzardwatch.com/wp-content/uploads/2017/12/patreon-logo-new.png" style="width: 100%;">
+<p>Support Blizzard Watch on Patreon</p>
+<p>Disable ads, get exclusive content, and more!</p>
+</a>
+</div></div>
+<div class="row" style="margin: 10px auto; max-width: 250px;">
+<div class="hidden-xs hidden-sm social-icons">
+<a href="http://www.twitter.com/blizzardwatch"><img src="//cdn.blizzardwatch.com/wp-content/themes/BlizzardWatch/static/img/twitter.png"></a>
+<a href="https://www.facebook.com/blizzardwatch"><img src="//cdn.blizzardwatch.com/wp-content/themes/BlizzardWatch/static/img/facebook.png"></a>
+<a href="http://twitch.tv/blizzardwatch"><img src="//cdn.blizzardwatch.com/wp-content/themes/BlizzardWatch/static/img/twitch.png"></a>
+<a href="/rss"><img src="//cdn.blizzardwatch.com/wp-content/themes/BlizzardWatch/static/img/rss.png"></a>
+</div>
+</div><div id="wp-discord" class="wpd-dark">
+<div class="wpd-head">
+<img src="https://blizzardwatch.com/wp-content/plugins/wp-discord/includes/../public/img/icon.png" class="wpd-icon">
+<img src="https://blizzardwatch.com/wp-content/plugins/wp-discord/includes/../public/img/discord.png" class="wpd-name">
+<h3>blizzardwatch</h3>
+</div>
+<div class="wpd-info">
+<span><strong>301</strong> User(s) Online</span>
+<a href="https://discordapp.com/invite/MMCD5h" target="_blank">Join Server</a>
+</div>
+</div>
+<li id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
+<div id="div-gpt-ad-1526565485994-0">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1526565485994-0'); });
+</script>
+</div></div></li><li id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div style="margin-top: 10px;">
+&nbsp;
+</div>
+<a href="//blizzardwatch.com/podcast/#blizzardwatchpodcast"><img src="//cdn.blizzardwatch.com/wp-content/uploads/2015/08/podcast_pinbox_temp.jpg" style="width: 100%;"></a><br><br>
+<a href="https://blizzardwatch.com/podcast/#lorewatch"><img src="//cdn.blizzardwatch.com/wp-content/uploads/2015/08/lorewatch_pinbox.jpg" style="width: 100%;"></a>
+<p>&nbsp;</p>
+</div></li><div class="bw_sidebar_ad" id="bw_affixed_ad"><p></p>
+<div id="div-gpt-ad-1526532657038-0">
+<script>
+if( !is_backer() ) { googletag.cmd.push(function() { googletag.display('div-gpt-ad-1526532657038-0'); }); }
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid">
+<div class="row blizzardwatch-row" style="color: #e6e6e6;">
+<div class="col-md-12 footer-col">
+<div class="textwidget"><a href="/about">About Blizzard Watch</a> |
+<a href="/contact">Contact Us</a> |
+<a href="/comments-community-guidelines">Community Guidelines</a> |
+<a href="/advertise-with-us">Advertise With Us</a> |
+<a href="/privacy-policy">Privacy Policy</a>
+<br><br>
+<i style="font-size: 8pt;">We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.</i></div>
+<div class="bw_footer_1"></div> </div>
+</div>
+</div>
+<div class="copyright-notice">© 2018 Blizzard Watch. All rights reserved.</div>
+<script async="" src="//wow.zamimg.com/widgets/power.js"></script><script>var whTooltips  = { "colorlinks": false, "iconizelinks": true, "renamelinks": false }</script>
+
+<script type="text/javascript">
+		var _qevents = _qevents || [];
 
 		(function() {
 		var elem = document.createElement('script');
@@ -66,9 +763,84 @@ img{}</style> <script async="" src="//pagead2.googlesyndication.com/pagead/js/ad
 
 		_qevents.push({
 		qacct:"p-g2vj_vShnbqsE"
-		});</script> <noscript><div style="display:none;"> <img src="//pixel.quantserve.com/pixel/p-g2vj_vShnbqsE.gif" border="0" height="1" width="1" alt="Quantcast"/></div> </noscript> <script>var amzn_ps_tracking_id = 'blizwatc-20';</script> <script async="true" type="text/javascript" src="//ps-us.amazon-adsystem.com/scripts/US/studio.js" charset="UTF-8"></script> <script type="text/javascript" src="http://static-hearth.cursecdn.com/current/js/syndication/tt.js"></script> <script>if( !is_backer() ) { 
+		});
+		</script>
+<noscript>
+		<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel/p-g2vj_vShnbqsE.gif" border="0" height="1" width="1" alt="Quantcast"/>
+		</div>
+		</noscript>
+
+<script>
+        //$(".dropdown").hoverIntent( dropdown );
+        </script>
+<div id="cookie-law-info-bar"><span>Blizzard Watch uses minimal cookies to improve your experience and is in full compliance with the GDPR. By accepting you agree to our privacy policy. <a href="#" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button">Accept</a>
+To remove any data, please visit our Privacy Policy <a href="https://blizzardwatch.com/privacy-policy" id="CONSTANT_OPEN_URL" target="_blank" class="medium cli-plugin-button cli-plugin-main-link">Read More</a>.</span></div><div id="cookie-law-info-again"><span id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div>
+<script type="text/javascript">
+			//<![CDATA[
+			jQuery(document).ready(function() {
+				cli_show_cookiebar({
+					settings: '{"animate_speed_hide":"500","animate_speed_show":"500","background":"#fff","border":"#444","border_on":true,"button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#1e73be","button_1_as_button":true,"button_2_button_colour":"#000000","button_2_button_hover":"#000000","button_2_link_colour":"#1e73be","button_2_as_button":true,"button_3_button_colour":"#000000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":true,"font_family":"Helvetica, Arial, sans-serif","header_fix":false,"notify_animate_hide":true,"notify_animate_show":true,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"accept_close_reload":false,"showagain_tab":true,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":false,"show_once":"10000"}'
+				});
+			});
+			//]]>
+		</script>
+<script>if( !is_backer() ) { 
 			//[].forEach.call(document.querySelectorAll(".adsbygoogle"), function(){
 			    //(adsbygoogle = window.adsbygoogle || []).push({});
 			//});
-		}</script><script type="text/javascript" src="http://cdn.blizzardwatch.com/wp-content/cache/min/1/c969060de0f203ee43a2e777357da283.js" data-minify="1"></script> <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5279827d23","applicationID":"7557717","transactionName":"YgBWMRRUWxBQW0AMX1tKdQYSXFoNHkhVAlU=","queueTime":0,"applicationTime":729,"atts":"TkdVR1xOSB4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me --></body></html>
+		}</script><script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201825"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201825.js" async="async" defer="defer"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.1.1',blog:'147278549',post:'482',tz:'-5',srv:'blizzardwatch.com'} ]);
+	_stq.push([ 'clickTrackerInit', '147278549', '482' ]);
+</script>
+<script>(function(w, d){
+	var b = d.getElementsByTagName("body")[0];
+	var s = d.createElement("script"); s.async = true;
+	var v = !("IntersectionObserver" in w) ? "8.7.1" : "10.5.2";
+	s.src = "https://blizzardwatch.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload-" + v + ".min.js";
+	w.lazyLoadOptions = {
+		elements_selector: "img, iframe",
+		data_src: "lazy-src",
+		data_srcset: "lazy-srcset",
+		skip_invisible: false,
+		class_loading: "lazyloading",
+		class_loaded: "lazyloaded",
+		threshold: 300,
+		callback_load: function(element) {
+			if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+				if (element.classList.contains("lazyloaded") ) {
+					if (typeof window.jQuery != "undefined") {
+						if (jQuery.fn.fitVids) {
+							jQuery(element).parent().fitVids();
+						}
+					}
+				}
+			}
+		}
+	}; // Your options here. See "recipes" for more information about async.
+	b.appendChild(s);
+}(window, document));
+
+// Listen to the Initialized event
+window.addEventListener('LazyLoad::Initialized', function (e) {
+    // Get the instance and puts it in the lazyLoadInstance variable
+	var lazyLoadInstance = e.detail.instance;
+
+	var observer = new MutationObserver(function(mutations) {
+		mutations.forEach(function(mutation) {
+			lazyLoadInstance.update();
+		} );
+	} );
+	
+	var b      = document.getElementsByTagName("body")[0];
+	var config = { childList: true, subtree: true };
+	
+	observer.observe(b, config);
+}, false);
+</script><script async="" src="https://blizzardwatch.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload-10.5.2.min.js"></script>
+
+
+</body></html>
