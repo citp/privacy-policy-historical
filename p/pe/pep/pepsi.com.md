@@ -1,72 +1,109 @@
-> *The following text is extracted and transformed from the pepsi.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302054507id_/http%3A//www.pepsi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepsi.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619230909id_/http%3A//policy.pepsi.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# PepsiCo Privacy Policy
 
-**Pepsi-Cola Company -- Privacy Policy, effective 2012** The web site you have entered is operated by or on behalf of Pepsi-Cola Company ("Pepsi"), a division of PepsiCo, Inc. To learn more about Pepsi's products, click [here](http://www.pepsicobeveragefacts.com/). Pepsi is committed to protecting your personal privacy. This Privacy Policy outlines the types of information that are collected by Pepsi on its web sites, and how we use and protect it. This Policy also explains the choices that you can make about the way your information is collected and used. This Policy applies only to Pepsi web sites and social network sites (the "Sites"), and it does not apply to banners, sweepstakes and other advertisements or promotions that we may sponsor or participate in on web sites owned by third parties. 
+Effective 2012 (Last updated February 4, 2016)
 
-Our Privacy Policy includes the following topics. For specific information regarding any particular topic, please click on the link below: 
+## This Privacy Policy applies to our sites and apps.
 
-  * Your Consent to this Privacy Policy
-  * The Information We Collect
-  * The Way We Use Personal Information
-  * Collection and Use of Other Information; Use of Cookies
-  * With Whom We May Share Information
-  * Manage Your Personal Information; Unsubscribe
-  * Data Protection and Security
-  * Important Note about Children's Information
-  * Changes to Our Privacy Policy
-  * Links to Other Web Sites
-  * How to Contact Us
-  * Applicable Web Sites
-  * Important Note Regarding U.S. Law
+This Policy describes how we treat personal information on the websites where the policy is located. It also applies to our mobile and social media apps and interactive emails we may send.
 
+This policy does not apply to the websites and practices of other members of the PepsiCo family like Frito-Lay, Gatorade, Quaker, or the PepsiCo Inc. corporate privacy policy. Please visit their websites and read their privacy policies for information on how they use information.
 
+[To download a full copy of this Privacy Policy, click [here](https://web.archive.org/privacy.pdf).] 
 
-**Your Consent to This Privacy Policy** By using our web and social network sites, you signify that you agree with the terms of our current Privacy Policy as posted on our sites as well as the terms of our [Terms and Conditions](https://web.archive.org/terms-conditions). If you do not agree with any term in this Policy or our [Terms and Conditions](https://web.archive.org/terms-conditions), please do not use this site or provide any Personal Information to us. 
+## We collect information from and about you.
 
-**The Information We Collect** As used in this Privacy Policy, "Personal Information" means any information that is linked to your identity such as your name, street address, telephone number, mobile number, screen name, age and/or email address. The site you entered may collect some or all of these types of Personal Information through a sweepstakes, contest, game, survey, questionnaire or promotion, or a registration form. Some of our sites may require registration and disclosure of particular information such as street address in order for you to participate in sweepstakes, games or other activities. In order to register on our sites, we require you to disclose your name, zip code, email address, birth date and gender and in some cases your mobile number. Pepsi will not collect any Personal Information from your visits to our sites unless you provide your Personal Information to us voluntarily, and we will not require you to provide more information than is necessary to participate in our sites' activities. We also do not collect financial or other sensitive data information about our users. 
+Contact information. For example, we might collect your name, address, zip code or email address. We might also collect your phone number or other information linked to your identity. 
 
-When you provide us with Personal Information, you are authorizing us to use that information in accordance with the terms of this Privacy Policy, which includes your right to limit our use of your Personal Information as described in this Policy. 
+Information you submit or post. We collect the information you post on our websites or our platforms on third party sites or apps. We also collect information you submit to us.
 
-The site you entered may also collect Personal Information from you about a third party (e.g., the site might allow you to send an email or message to a friend, in which case we will need that person's name and email address). Please note that we use such information only for the specified purpose (e.g., to deliver the email message) and we will not contact the third party again by email unless and until the third party contacts us or provides permission to do so. 
+Demographic information. We may collect information like your gender and age when you sign up on our websites or register for a promotion. 
 
-**The Way We Use Personal Information** When you supply Personal Information at a Pepsi site, we will consolidate such Personal Information and use it for the purpose for which it was collected (e.g., to enter you in a sweepstakes or to fulfill the delivery of a sweepstakes prize or product order) in accordance with the terms of this Privacy Policy. We may also use it to contact you regarding Pepsi's products or promotions as well as other products and services, which may be requested by or otherwise of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such future contact by unsubscribing from our database by following the unsubscribe instructions included in each promotional email or by changing your preferences in your account (See “Manage Your Personal Information: Unsubscribe” below). We also use Personal Information to keep track of a user's activities on our sites, to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our site features, design and content and to refine our marketing strategies. 
+Other information. If you use our website, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location. We might look at how often you use the app and where you downloaded it.
 
-We may also enhance your Personal Information by linking it to data obtained from third parties, such as non-personally identifiable information (e.g., demographic and geographic characteristics) as well as other publicly available data such as census information. Such enhanced information allows us to provide our users with a more customized experience. 
+Information about third parties. We might allow you to send an email or message to a friend. In that case, we will need that person's name and email address. 
 
-Pepsi's primary goal in collecting and using Personal Information is to give you a meaningful and customized experience while you are using our sites as well as to promote our products in a cost effective and efficient manner. 
+## We collect information in different ways.
 
-**Collection and Use of Other Information; Use of Cookies** You may have heard of "cookies," which are small files or pieces of information that are stored by your browser on your computer's hard drive when you visit a site. The use of cookies is an industry standard and you will find them at most sites. Pepsi may use cookies to collect other information during your visit to our sites, such as the particular site areas you visit and the activities in which you participate at our sites. Pepsi does not automatically collect any Personal Information, but we may combine non-personal information collected automatically (through cookies) with voluntarily submitted Personal Information. Such link may occur only if you provide Pepsi with Personal Information on our sites. This practice allows Pepsi to keep track of items such as sweepstakes participation, email and advertising interaction levels, survey responses, online coupon redemption and other site activity in order to better tailor our sites and our products to your interests and needs. Cookies may also be used to help speed up your future activities at our sites -- the computer can remember that you have already provided Personal Information to us and not request that you provide any a second time. 
+We collect information directly from you. For example, if you sign up for our emails or enter a sweepstakes. We also collect information if you make a purchase or fill out an online survey. 
 
-Anonymous information about your computer, such as your IP address (a number assigned to your computer whenever you surf the Internet), the type of Internet browser you are using, and the type of computer operating system you are using may also be collected by us using cookies. Web servers, the computers that "serve up" web pages, automatically identify your computer by its IP address. When you request a page from this site, our servers log your IP address. 
+We collect information passively from you. We use tracking tools like browser cookies and web beacons. We collect information from our mobile apps. We may also collect information about promotion participation or how you interact with our marketing emails. 
 
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. Refusal of cookies at the site you entered may result in an inability to visit certain areas of the sites or to receive personalized information when you visit the sites. 
+We get information about you from third parties. For example, our business partners may give us information about you. Social media platforms may also give us information about you. 
 
-**With Whom We May Share Information** In the course of doing business, we employ other companies to perform a variety of functions on our behalf. For example, at times we may retain third parties to analyze, update and correct data we collect on our sites, including Personal Information, to help us improve our products, our database and our sites. In addition, we may share Personal Information including email address with agents, suppliers, fulfillment houses and other service providers to allow delivery of prizes, information, products or services. These suppliers and other third parties may have access to your Personal Information if it is needed to perform their functions for Pepsi, but they are not authorized by us to use your Personal Information in any way other than the intended use including their own marketing purposes. We do not share your Personal Information including email address with any third parties who are not our agents or service providers. 
+We combine information. For example, we may combine information that we have collected offline with information we collect online. Or we may combine information we get from a third party with information we already have. 
 
-We also may share aggregate, non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. For example, we may tell a business partner the number of men and the number of women that entered a contest, but we do not disclose Personal Information about such contestants in violation of this Privacy Policy. 
+## We use information as disclosed and described here.
 
-Except as stated in this Privacy Policy, we do not sell, transfer or disclose your Personal Information without your prior consent. Our intention is to limit or prohibit the sharing of Personal Information provided to us in ways that are different than the ways described above without also providing you with an opportunity to "unsubscribe" or prohibit such unrelated uses. 
+We use information to respond to your requests or questions. For example, we might use your information to respond to your user feedback. We may use your friend's email address if you use our send-to- a-friend feature.
 
-We may also release your Personal Information including email address if required to do so by law, or by search warrant, subpoena or court order, or to a third party to which ownership of Pepsi is transferred via an acquisition, merger, sale of assets or otherwise. Pepsi-Cola Company currently contracts with online partners to help manage our Internet business. We use the services of a third party to help us understand how visitors use our site. To do this, we use Action Tags and cookies provided by such third party on this site. The information we collect helps us determine both group interests and unique individual interests. This information allows us to provide optimal content both on our sites and within our communications to consumers. We use these Action Tags in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these promotional emails, please follow the unsubscribe instructions in each email or change your email preferences on the site in your account. Although such third party collects this information on our behalf, we control how that data may and may not be used. 
+We use information to improve our products and services. We may use your information to make our website and products better. We might use your information to customize your experience with us. We use your information to track and analyze activity on our sites. This helps us improve our sites. 
 
-**Manage Your Personal Information; Unsubscribe** You are ultimately in control of the Personal Information that we collect and use. We want to keep your data complete, up to date and accurate. Pepsi provides its users with the following options to manage their Personal Information including email address that is in reasonably retrievable form in our database: 
+We use information for security purposes. We may use information to protect our company, our customers, and our websites.
 
-  * Online management: Visit [http://account.pepsiworld.com](http://account.pepsiworld.com/) where you can manage your Personal Information including email address and/or subscribe to or unsubscribe from our database. 
-  * In the event that a user unsubscribes from our database, we will retain a record of the Personal Information including email address and the unsubscribe action for our internal records as evidence of the action and our compliance with this Privacy Policy. 
+We use information for marketing purposes. For example, we might send you information about new products and special offers. We might tell you about new features or updates. These might be third party offers or products we think you might find interesting. If you subscribe with us, we'll enroll you in our email newsletter. We may also use push notifications on our mobile apps. 
 
+We use information to customize experiences with our brands. We may analyze information you provide or that we get elsewhere to customize your experience on our platforms and with our brands. To learn more about our targeting and customizing activities, click [here](https://web.archive.org/web/20180619230909id_/http%3A//policy.pepsi.com/aboutads.htm).
 
+We use information to communicate with you about your account or our relationship. We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms.
 
-**Data Protection and Security** We take commercially reasonable precautions to keep your Personal Information including email address secure. All access to the information we collect is subject to physical, electronic and managerial restrictions to prevent unauthorized access, modification or misuse. Notwithstanding the foregoing, we cannot guarantee the security of any information you disclose online, and you do so at your own risk. 
+We use information as otherwise permitted by law.
 
-**Important Note about Children's Information** Please note that we do not collect any Personal Information from any person under the age of thirteen (13) years of age. In addition, we reserve the right to limit participation in particular programs or promotions to visitors eighteen (18) years of age, twenty one (21) years of age, or older. 
+## We may share information with third parties.
 
-**Changes to Our Privacy Policy** Pepsi reserves the right to change or remove this Privacy Policy at our discretion. We will post any changes to this Policy including email practices or any new policy here and we encourage you to visit this area frequently to stay informed. If there is any material change in the type of information we collect or way in which we use such information including email address, then we will obtain your permission before we make any such change. 
+We will share information within the PepsiCo, Inc. family of brands. This also includes future subsidiaries, affiliates or brands. 
 
-**Links to Other Web Sites** Users should be aware that when you are on this site you could be directed to other sites that are beyond our control. There may be links to other sites that include links from advertisers, sponsors, and partners that may use the Pepsi family of brand or logos. These other sites may send their own cookies to users, or otherwise collect data or solicit Personal Information. Always be aware of where you are surfing on the Web. Check the linked site to locate and review its privacy policy, which may be different from this Privacy Policy. Pepsi does not endorse and makes no guarantee or representation as to the sufficiency, accuracy or completeness of the content or privacy policy of any third-party web site to which you may be linked from this site. 
+We will share information with third parties who perform services on our behalf. For example, we share information with vendors who send emails for us. We may also share information with companies that operate our websites or run a promotion. 
 
-**How to Contact Us** Should you have any questions or concerns about this Privacy Policy or the collection of information, please call us at 1-800-960-3602. For our address see: <http://pepsico.com/PEP_ContactUs/index.cfm>
+We will share information with our business partners. For example, we will share information with third parties who co-sponsor a promotion. These partners may send you information about events and products by mail or email. 
 
-**Applicable Web Sites** This Privacy Policy applies to the web and social network sites operated and managed by the Pepsi-Cola Company, including but not limited to: [www.pepsi.com](http://www.pepsi.com/); [www.dietpepsi.com](http://www.dietpepsi.com/); [www.pepsiworld.com](http://www.pepsiworld.com/); [www.mountaindew.com](http://www.mountaindew.com/); [www.sierramist.com](http://www.sierramist.com/); [www.mugrootbeer.com](http://www.mugrootbeer.com/); [www.wildcherrypepsi.com](http://www.wildcherrypepsi.com/); [www.aquafina.com](http://www.aquafina.com/); [www.ampenergy.com](http://www.ampenergy.com/), and others that may be added in the future. 
+We will share information if we think we have to in order to comply with the law or to protect ourselves. For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud. 
 
-**Important Note Regarding U.S. Law** Please note: The laws and regulations in different countries impose different (and even conflicting) requirements on the Internet and data protection. We are located in the USA, as are the servers that make this site available worldwide. All matters relating to this site are governed by the laws of the State of New York in the USA. If you are located in the European Economic Area and you contact us, please note that any information you provide will be transferred to the USA and by submitting the information you authorize this transfer. 
+We may share information with any successor to all or part of our business. For example, if part of our business was sold we may give our customer list as part of that transaction.
+
+We may share aggregated information. We may share collective information about our website users with third parties. This information is not personally identifiable. For example, we may tell a business partner how many men or women entered a promotion.
+
+We may share information for other reasons we may describe to you.
+
+## You have certain choices about sharing and marketing practices.
+
+You can opt out of receiving our marketing emails. Visit [http://account.pepsico.com](http://account.pepsico.com/) where you can manage your preferences. You can also opt-out by following the instructions you receive in any of our marketing emails. Even if you opt out of getting marketing messages, we will still send you messages about your questions and purchases.
+
+You can control cookies and tracking tools. To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click [here](http://policy.pepsico.com/aboutads.htm).
+
+You can control tools on your mobile devices. For example, you can turn off the GPS locator or push notifications on your phone. To modify the push notifications you get from our app, you can alter your preferences in your profile.
+
+We keep a record if you opt out. If you unsubscribe from our database, we keep a record of your information and the unsubscribe action. This is for our internal records. It is evidence of the action and our compliance with this policy.
+
+## We use standard security measures.
+
+We use standard security measures to secure your personal information. We encourage you to use caution when using the Internet. This includes not sharing your passwords. We cannot promise that your use of our site will be completely safe. You use our sites at your own risk.
+
+We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+
+## These sites and children.
+
+Our sites and apps are meant for adults. Please note that we do not knowingly collect any personally identifiable information from children under 13 without permission from a parent or guardian. We reserve the right to limit participation in particular programs or promotions to adults. If you are a parent or legal guardian and think your child under 13 has given us information, you can contact us through https://cu.pepsico.com/pepsi. You can also call us at the phone number at the end of this policy. Please mark your inquiries "COPPA Information Request."
+
+Parents, you can learn more about how to protect children's privacy online [here](http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html).
+
+## We may update this Policy.
+
+From time to time we may change this Privacy Policy. We will post an updated copy on our website. Please check our site periodically for updates. We will notify you if there is a material to our Policy as required by law. 
+
+## We may link to other sites or have third party services on our site we don't control.
+
+We include links to third party sites. This may include websites that use the PepsiCo family of brands or logos operated by our advertisers, sponsors, and partners. We do not control those websites. For example, we do not manage the website of The Pepsi Store available at [www.pepsistore.com](http://www.pepsistore.com/). This policy does not apply to the privacy practices of those websites. Read the privacy policy of those other websites carefully. We are not responsible for these third party practices.
+
+Our site may also serve third party content that contains its own cookies or tracking technologies. To learn more, click [here](https://web.archive.org/web/20180619230909id_/http%3A//policy.pepsi.com/aboutads.htm). We do not control the use of those technologies.
+
+## We store information in the United States.
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to United States laws. United States laws may not afford the same level of protection as those in your country. If you are located in the European Economic Area and you contact us, information you provide is transferred to the United States.
+
+## Feel free to contact us if you have more questions.
+
+If you have any questions about this Policy, please call us at 1-800-960-3602.
+
+Or you can email us using our online form: <https://cu.pepsico.com/pepsi>
