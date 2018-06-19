@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aww.com.au privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228062106id_/http%3A//www.bauer-media.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aww.com.au privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619225721id_/http%3A//www.bauer-media.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Bauer Media Group
 
