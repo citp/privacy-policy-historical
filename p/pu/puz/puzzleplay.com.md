@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puzzleplay.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217171407id_/http%3A//www.puzzleplay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzleplay.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620005031id_/http%3A//puzzleplay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
