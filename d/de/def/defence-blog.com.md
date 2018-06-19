@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the defence-blog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085212id_/http%3A//defence-blog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defence-blog.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619200223id_/http%3A//defence-blog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Defence Blog
+# Privacy Policy - Defence Blog
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -107,11 +107,9 @@ To be in accordance with CANSPAM we agree to the following:
 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at and we will promptly remove you from ALL correspondence.
 
-**Contacting Us**
+ **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Defence-blog.com  
-Kiyv, Ukraine  
-defenceblognews@gmail.com  
-+38 0972343366
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
