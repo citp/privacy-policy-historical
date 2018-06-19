@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kodi.tv privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220232816id_/https%3A//kodi.tv/kodi-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kodi.tv privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619051642id_/https%3A//kodi.tv/kodi-privacy-policy) for the most accurate reproduction.*
 
 # Kodi Privacy Policy | Kodi | Open Source Home Theater Software
 
@@ -35,7 +35,7 @@ Generally, we use your information to help us provide and improve our software a
 ## When do we share your information with others?
 
   * When we have asked and received your permission to share it.
-  * When we are fulfilling our [educational purpose](http://kodi.wiki/images/3/30/Delaware_Incorporation_Notice.pdf "XBMC Foundation Cert of Incorporation"). We sometimes publicly release information to make our software better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified. For example, here is [a blog post where we attempt to analyze from available data how many active users of XBMC existed at the time and share that info with the community](https://web.archive.org/xbmc-statistics "XBMC Statistics").
+  * When we are fulfilling our [educational purpose](https://kodi.wiki/images/3/30/Delaware_Incorporation_Notice.pdf "XBMC Foundation Cert of Incorporation"). We sometimes publicly release information to make our software better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified. For example, here is [a blog post where we attempt to analyze from available data how many active users of XBMC existed at the time and share that info with the community](https://web.archive.org/xbmc-statistics "XBMC Statistics").
   * When the law requires it. To date, this has never happened, and we do not anticipating it happening in the future, as the majority of the information we collect is already almost entirely anonymous and never shows unique user behavior, except in voluntarily submitted logs on our forum.
   * If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
 
