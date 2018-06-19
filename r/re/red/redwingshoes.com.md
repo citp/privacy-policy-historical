@@ -1,26 +1,153 @@
-> *The following text is extracted and transformed from the redwingshoes.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205113729id_/http%3A//www.redwingshoes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redwingshoes.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619021221id_/http%3A//redwingshoes.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Red Wing Shoe Company, Inc. Privacy Policy**
+Effective Date: May 25, 2018  
+Last Modified: May 23, 2018  
+Contact [dataprivacy@redwingshoes.com](mailto:dataprivacy@redwingshoes.com) for archived policies.
 
-The Red Wing Shoe Company has always enjoyed a close relationship with its customers. Listening to ideas and suggestions have helped us develop the best work related footwear. An integral part of this relationship is Red Wing Shoe Company's firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them. That is why we have adopted the following policy, which explains our position on information gathering and how we intend to use any user data we may collect.  
+Red Wing Shoe Company, Inc. and its subsidiaries respect your privacy and are committed to protecting it through our compliance with this policy. We collect information to better serve our customers by looking for areas we may be underserving and to guide us to what advertising you will find most useful. The information Red Wing Shoe Company, Inc. collects and how such information is used depends on:
 
-
-**Your Personal Information**
-
-Respecting our customer's privacy has never been an issue with us. You can visit this site without telling us who you are or revealing any information about yourself. We value your business and trust, which is why you never have to worry about Red Wing Shoe Company using your name or personal information inappropriately. We will not sell, exchange, rent or loan this information. Ever.   
-
-
-Red Wing Shoe Company does continue to gather information from our customers on a voluntary basis. This data is very critical in helping us learn more about what our customers expect and demand from their Red Wing products and services. This means that any information we receive from a customer implies consent for our use of their information. Red Wing Shoe Company honors and follows the international guidelines of the Direct Marketing Association for Privacy Practices. We thank our customers for their trust.   
+  * How you interact with us. For example, online.
+  * How you use our services. For example, purchasing work boots.
+  * How you manage your privacy controls. 
 
 
-RWSC acknowledges and supports our customer's right to direct the use of their personal data and will maintain an "opt-out" option, which allows you to request the removal of your name from any mailing or telephone list. To remove your name, you can email us [customer.service@redwingshoes.com](mailto:customer.service@redwingshoes.com) or write to us at:   
+
+**_  
+Information We Collect and How We Use It_**  
+We collect several types of information from and about users of our websites, including information:
+
+  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number, social media usernames, and shoe size (“personal information”).
+  * that is about you but individually does not identify you, such as aggregated or anonymized information.
+  * about your internet connection, the equipment you use to access our Website and usage details.
 
 
-**Red Wing Shoe Co.  
-Attn: Red Wing Shoes  
-314 Main Street  
-Red Wing, MN 55066-2337**
 
-We hope you visit us often! 
+This information may be provided directly from you to us, may be collected automatically as you navigate through our websites, and/or may come from our third-party business partners.    
+We use information that we collect about you or that you provide to us, including any personal information:
+
+  * To maintain and improve our websites and advertising materials.
+  * To develop new products and services.
+  * To provide personalized services, such as website content and advertising.
+  * To carry out our obligations and enforce our rights arising from any contracts between you and us, including for billing and collection.
+  * To fulfill any other purpose for which you provide it.
+
+
+
+We do not collect sensitive personal data, such as race, religion, sexual orientation, or health; however, in some cases we may collect your shoe size.
+
+**_Disclosure of Your Information_**  
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction  
+We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To contractors, service providers, and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Red Wing Shoe Company, Inc.’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Red Wing Shoe Company, Inc. about our websites’ users is among the assets transferred.
+  * To some trusted business partners whose products or services may be of interest to you. 
+  * To fulfill the purpose for which you provide it. 
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our Terms of Use and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Red Wing Shoe Company, Inc., our customers, or others. 
+
+
+
+**_  
+Data Security_**  
+We have implemented industry best practice measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. We also update and revise our security measures as necessary when new or unique risks develop. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that the data you have shared with us has been breached, please immediately notify us at dataprivacy@redwingshoes.com.
+
+**_California Privacy Rights_**  
+California Civil Code Section § 1798.83 permits users of our websites that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [dataprivacy@redwingshoes.com](mailto:dataprivacy@redwingshoes.com) or write us at: Internet Security, 314 Main Street, Red Wing, MN 55066.
+
+**_Children Under 13_** Our websites are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any personal information on our websites. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [dataprivacy@redwingshoes.com](mailto:dataprivacy@redwingshoes.com).
+
+**_Changes to Our Privacy Policy_**  
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you through a notice on the website’s home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our websites and this privacy policy to check for any changes.
+
+  
+
+
+## PRIVACY POLICY FOR INDIVIDUALS Subject to THE General data protection regulation.
+
+Effective Date:  May 25, 2018  
+Last Modified: May 23, 2017  
+Contact [dataprivacy@redwingshoes.com](mailto:dataprivacy@redwingshoes.com) for archived policies.
+
+**WE WANT YOU TO UNDERSTAND THE TYPES OF INFORMATION WE COLLECT.**  
+Red Wing Shoe Company, Inc. and its subsidiaries respect your privacy and are committed to protecting it through our compliance with this policy. We collect information to better serve our customers by looking for areas we may be underserving and to guide us to what advertising you will find most useful. The information Red Wing Shoe Company, Inc. collects and how such information is used depends on:
+
+  * How you interact with us. For example, online.
+  * How you use our services. For example, purchasing work boots.
+  * How you manage your privacy controls. 
+
+
+
+**  
+PERSONAL INFORMATION YOU PROVIDE TO US.**  
+When you buy shoes, apparel, or accessories from us, you provide some of your personal information to us.  For example, we may collect your name, shoe or apparel sizes, your address, your email address, and your phone number.  By using one of our websites, we may collect information regarding your apps, browsers, and devices, which help us to understand you better and provides us direction on what products may be of most interest to you.
+
+  
+The information we collect includes unique identifiers, browser settings, device settings, and operating systems. We also collect information about the interaction of your apps, browsers, and devices with our services such as our websites, including IP address, and the date, time, and referrer URL of your request. We may collect information about your location when you interact with our websites or retail stores, which helps us offer features like locating your nearest Red Wing Shoes® store. The types of location data we collect depend in part on your device and account settings.  You may change your account settings to control our collection of location data.
+
+  
+We may collect information about you from trusted business partners, including marketing partners who provide us with information about potential customers of our products and security partners who provide us with information to protect against abuse. We also receive information from advertisers to provide advertising and research services on their behalf.
+
+We use various technologies to collect, store, and process information, including cookies, pixel tags, and databases.
+
+**WE USE DATA TO BETTER SERVE OUR CUSTOMERS.**  
+We use the information we collect for the following purposes:
+
+  * To maintain and improve our websites and advertising materials.
+  * To develop new products and services.
+  * To provide personalized services, such as website content and advertising.
+  * To carry out our obligations and enforce our rights arising from any contracts between you and us, including for billing and collection.
+  * To fulfill any other purpose for which you provide it.
+
+
+
+Depending on your settings, we may also show you personalized ads based on your interests. You can control what information we use to show you ads by changing your ad settings.  
+We do not collect sensitive personal data, such as race, religion, sexual orientation, or health; however, in some cases we may collect your shoe or apparel size. We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to.
+
+**WE USE DATA TO MEASURE OUR PERFORMANCE.**  
+We use data for analytics and measurement to understand how our products and services are used. For example, we analyze data about your visits to our websites to do things like optimize product design and design ads you interact with to help advertisers understand the performance of our ad campaigns. We use a variety of tools to do this, including Google Analytics.
+
+**WE USE DATA TO COMMUNICATE WITH YOU.**  
+We use information we collect, like your email address and social media usernames, to interact with you directly.  
+We will ask for your consent before using your information for a purpose that is not covered in this Privacy Policy.
+
+**YOU CONTROL YOUR PRIVACY SETTINGS.**
+
+**_You Have Choices Regarding the Information We Collect and Process._**  
+You can manage, review, and update your information.  When you go to one of our websites you will be offered an opportunity to choose the information we collect and use.   
+You may contact [dataprivacy@redwingshoes.com](mailto:dataprivacy@redwingshoes.com) to get a copy of your information, to change your information, or to delete your information.  
+You have other ways to control the information we collect about you, including:
+
+  * Changing your browser settings to show when we set a cookie in your browser or configure your browser to block all cookies from our domain or all domains.  Please note that our websites rely on some cookies to function properly.
+  * Changing your device-level settings may allow you to control what information we collect about you.
+
+
+
+**  
+WE MAY SHARE YOUR INFORMATION UNDER CERTAIN CIRCUMSTANCES.**
+
+We do not share your personal information with companies, organizations, or individuals outside of Red Wing Shoe Company, Inc. except in the following circumstances:
+
+**_With your consent_**. We will share personal information outside of Red Wing Shoe Company, Inc. when we have your consent. We will ask for your explicit consent to share any sensitive personal information. ** __**  
+**_For external processing_.  **We will provide personal information to our trusted partners to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. ****  
+**_For legal reasons_.  **We will share personal information outside of Red Wing Shoe Company, Inc. if we have a good-faith belief that collection, access, processing, preservation, or disclosure of the information is reasonably necessary to comply with any applicable law, regulation, legal process, or enforceable governmental request; to detect, prevent, or address fraud, security, or technical issues; and to protect against harm to the rights, property or safety of our employees, our customers, or the public as permitted by law.  
+**_Where information is anonymized or pseudonymized_.** We may share information publicly and with our trusted business partners when the data is de-identified in a manner which prevents others from using the information to link data to an individual.  ****  
+**_For our legitimate business interests_.  **We may collect and use personal information that is necessary to further our legitimate business interests, except where such interests are overridden by your interests or fundamental rights and freedoms.
+
+**WE ARE COMMITTED TO PROTECTING YOUR INFORMATION.**
+
+We work hard to protect you and Red Wing Shoe Company, Inc. from unauthorized access, alteration, disclosure, or destruction of the information we control and process.  For example, we use encryption to keep your data private while in transit.  We audit our information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems.  We restrict access to personal information to Red Wing Shoe Company, Inc. employees, contractors, and agents who need your information to process it. Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations
+
+**CHILDREN UNDER 13**  
+Our websites are not intended for children under 13 years of age. No one under age 13 may provide any persona information to or on the websites. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any personal information on our websites. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [dataprivacy@redwingshoes.com](mailto:dataprivacy@redwingshoes.com).
+
+**THIS PRIVACY POLICY MAY CHANGE.**  
+We may change this Privacy Policy from time to time. We will not reduce your rights without your explicit consent. We will indicate the date the last changes were published, and we will offer access to archived versions for your review. If changes are significant, we will provide you a prominent notice.
