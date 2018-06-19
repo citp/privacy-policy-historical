@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216110830id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619150605id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Truth About Cars
 
@@ -79,8 +79,6 @@ Associate Editor
   * [Matt Posky](https://web.archive.org/about/)  
 Staff Writer and Multimedia 
   * [Jack Baruth](https://web.archive.org/about/)  
-Editor-at-Large 
-  * [Mark Stevenson](https://web.archive.org/about/)  
 Editor-at-Large 
   * [Murilee Martin](https://web.archive.org/about/)  
 Junkyard Finds Warlord 
