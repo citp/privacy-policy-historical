@@ -1,174 +1,87 @@
-> *The following text is extracted and transformed from the socialnature.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328231711id_/http%3A//socialnature.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialnature.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619072420id_/https%3A//www.socialnature.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Social Nature
 
-### DARK BLUE SEA - PRIVACY POLICY
+## Privacy Policy
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+* * *
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+Ethico Solutions Inc. (“Social Nature”, “Company”, “we” or “us”), the operator of this web site, is committed to preserving the privacy of those who visit our [www.SocialNature.com](http://www.google.com/url?q=http%3A%2F%2Fwww.socialnature.com&sa=D&sntz=1&usg=AFQjCNGq9xRka2ClOvFoJjOUIFUwv3u7mw)/.ca website (“Site”). Social Nature has created this Privacy Policy in order to demonstrate our firm commitment to helping you better understand what information we collect about you and what may happen to that information during your visit to the Site. This Privacy Policy applies solely to information collected at this Site. By using or accessing the Site, you signify your assent to our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.
 
-The Dark Blue Sea group comprises a number of companies that includes:
+Information Collected
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
+When using the Site, in order to utilize some of the services, you may be asked to provide, or you may choose to upload, certain personally identifiable information about yourself (“Personal Information”). Personal Information can include your name, occupation, photo, e-mail address, address, phone number(s), Facebook profile, Twitter handle, selected interests, or date of birth. Please note that Personal Information may also include personally identifiable information you voluntarily provide when you take a survey or a poll or enter a contest, sweepstakes or other promotion.
 
+In addition, we may also collect non-personally identifiable information, such as IP host address, pages viewed, browser type and other data, and may aggregate any Personal Information collected, such as demographic information, in a manner which does not identify any one person (“Aggregate Information”). Survey answers, Social Nature rewards and member advocacy scores that are not connected to Personal Information may also constitute Aggregate Information.
 
+Information Usage
 
-#### ABOUT THIS PRIVACY POLICY
+We may share your Personal Information with our clients, affiliates, technical consultants, third party auditors or other third parties,under confidentiality agreements, who compile the Aggregate Information, make our Site available, enhance its functionality or provide associated services and/or who process your orders and/or deliver content, samples, supplies, products, or services. For example, we may share your Personal Information with a vendor to fulfill any incentive or reward which you have elected to receive and that vendor may forward your email address to a third party to redeem any rewards. You may opt-out at any time in accordance with the “Terminating Membership” section below.
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+We may use your Aggregate Information to do such things as operate our Site, enhance our Site, and for market research purposes. We may share Aggregate Information with our clients, affiliates, charity partners and other third parties for advertising, promotional and other purposes. Individual answers from you to questions within Programs marked as “confidential” may be shared with our affiliates, clients and business partners but those answers will not be labeled with, or linked to, your Personal Information.
 
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
+Your user name, city, Social Nature profile photo, publicly declared preferences (those “wants” not otherwise made specifically private), and some of your activity may be shared with other Social Nature users within the Site, including without limitation publication in a live feed of ongoing activities and leader boards. You may also see such information related to other Social Nature Members when logged into the Site.
 
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
+On the Site, Social Nature, its clients and some of its business partners will have the ability to contact You regarding “Product Invites” or Rewards for which you qualify. We hereby disclaim all responsibility and liability should a client contact You directly by virtue of your posting of Personal Information on the Site in a section of the Site where it was not explicitly requested, or outside the Site, which is viewable and/or accessible by clients of Social Nature (e.g., contact information listed within feedback you provide, information on your Facebook profile linked to your Social Nature account, an email address you provided directly to one of Social Nature’s clients).
 
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
+We will never rent or sell your Personal Information to any third party without your consent. Please note that we reserve the right to and may disclose Personal Information about you in response to (a) requests from local, provincial/state or federal law enforcement officials; (b) any judicial, administrative or similar proceeding or order, such as subpoena; (c) if required by law; or (d) to investigate suspected fraud, harassment, physical threats, or other violations of any law, rule or regulation, the Site rules or policies, or the rights of third parties or to investigate any suspected conduct which we deem improper. Please also note that we do reserve the right to transfer your personally identifiable information and other information to our successors in business and purchasers of site assets. Information obtained in connection with the Site may be intermingled with and used by us in conjunction with information obtained through sources other than the Site, including both offline and online sources.
 
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
+Registration
 
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
+In order to use the Site, a member must first provide the information requested on the “Registration” page. During registration, a member may be required to provide their contact information (including, but not limited to, name, e-mail address, and postal address), Facebook user information, additional psychographic information, and information needed for delivering Social Nature Product Invitations once accepted. This information is used to notify the member about new Product Invitations to which they qualify, Social Nature Product Invitations, and changes in Social Nature offerings. In addition, we may ask members to provide legitimate mailing addresses. Proof of address is required in order to guard Social Nature from fraudulent activities. This information is also used for shipping purposes.
 
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+Your Account
 
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+To login to your account on Social Nature you must use Facebook Connect. You are responsible for maintaining the confidentiality of your Facebook username and password which may be used through Facebook Connect. Therefore, we do not recommend that you disclose such password or account information to any third parties. If you choose to share this information with third parties, you are responsible for all actions taken with your account information and password and therefore should review each third party’s privacy policy. If you lose control of your account password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to immediately notify Social Nature of any unauthorized use of your account or any other breach of security known to you.
 
-In order to do this, we share your personal information with our related companies.
+Cookies
 
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
+The Site uses cookies to keep track of your activity on the Site and enhance your experience on the Site. We also use cookies to save your account information and password. If you wish to disable these cookies, the “help” portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas or functions on the Site.
 
-#### HOW WE COLLECT INFORMATION
+Clickstream
 
-**Personal Information provided to us**
+As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as “clickstream data”, can be collected and stored by a web site’s server. Clickstream data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Site. We may collect and use clickstream data as a form of Aggregate Information to anonymously determine how much time visitors spend on each page of our Site, how visitors navigate throughout the Site and how we may tailor our web pages to better meet the needs of visitors. This information will be used to improve our Site and our services. Any collection or use of clickstream data will be anonymous and aggregate, and will not intentionally contain any Personal Information.
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+Security
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+Social Nature will not be liable for disclosures of your Personal Information due to errors in transmission or unauthorized acts of third parties. We have undertaken all commercially reasonable efforts to prevent unauthorized Internet access to visitor data retained in our servers, however, due to the inherent open nature of the Internet, Social Nature cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. You must accept all risks associated with any data transmission, including the risk that their personal information may be intercepted in transit. You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you are online.
 
-**Website activity, cookies and related technology**
+Product Invitations and e-mail
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+Established members will occasionally receive e-mails containing information regarding new Product Invitations, Social Nature Offers, and directives from Social Nature if they have opted-in. “Opted-in” means the member has approved certain e-mails to be sent to them from Social Nature. Established members may opt-out of these emails by unsubscribing or emailing us at [hello@socialnature.com](mailto:hello@socialnature.com) to unsubscribe. 
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+Social Nature Site and Service Announcements
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+Under certain circumstances Social Nature may need to contact specific or all members in order to make an important announcement about the Site or service changes. Members are not able to unsubscribe, or “opt-in/opt-out” of these announcements because they may contain very important information regarding their accounts. Before these measures are taken, however, Social Nature will post information regarding changes directly on the Site. Social Nature reserves the right to contact members to correct account errors or to supply important information Social Nature deems relevant.
 
-**IP Addresses**
+Correction/Updating Personal Information
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
+Social Nature members are able to change their personal information at any time by editing the information entered on their profile page, or by removing Social Natureas a “Facebook Connect Application.”
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+Protection for Children Age/Residency Requirements
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+This Site is not intended for users under the age of 18, and we have no intention of collecting Personal Information from children under the age of 18. Where appropriate, we take reasonable measures to inform children not to submit such information to our Site. If a child has provided us with personally identifiable information, we will use all reasonable efforts to delete such information from our database. You must be at least 18 years old, be a Canadian or United States resident, have a valid Facebook account, and a valid e-mail address to register on Social Nature. Registration and participation in a Product Invitation is open to individuals only (no corporations or other legal entities). Each individual who registers on Social Nature or participates in a Product Invitation is responsible for providing the information requested and for updating any such information to insure its accuracy. Receipt of inaccurate or misleading information will adversely affect the ability of Social Nature to operate a Product Invitation and provide services to clients required by members and participants. In this regard, Social Nature reserves the right to terminate a member’s membership in Social Nature or participation in a Program if misleading or intentionally incorrect personal information is provided. Social Nature reserves the right to modify or discontinue a Product Invitation Program at any time with or without notice to members. Social Nature will not be liable to any member or any third party should Social Nature exercise its right to modify or discontinue a Program or membership.
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+Links to Third Party Sites
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+Our Site may contain links to other web sites, including our affiliated or co-branded web sites. Other web sites may also reference or link to our Site. These “other” domains (web sites) are not controlled by Social Nature. We encourage our users to be aware when they leave our Site to read the privacy policies of each and every web site that collects personally identifiable information. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other web sites. Visiting these other web sites is at your own risk.
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
+Export of Data
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
+Our Site is maintained in the United States of America. By using the Site, you authorize the export of Personal Information to the USA and its storage and use as specified in this policy.
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
+Changes to Policy
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+We reserve the right to change, add, or remove portions from this Privacy Policy at any time. All information posted on the Site is subject to change without notice. In addition, this Privacy Policy, including but not limited to, how we use your Personal Information, may be changed by us at any time without prior notice. We will make such changes by posting them here. You should check this page for such changes frequently. Your continued access of the Site after such changes are made conclusively demonstrates your acceptance of those changes. You may “opt out” of this Site, including, but not limited to, receiving communications from us and/or sharing your Personal Information with us, at any time. In Order to “opt out” please see the “Terminating Membership” section in this Policy. Please note that we are not responsible for removing your Personal Information from the lists of any third party who has previously been provided your information in accordance with this policy.
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+Terminating Membership
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+You or Social Nature may terminate your membership in the Service for any reason with or without cause at any time and effective immediately. Social Nature will not be liable to you or any third party for termination of the Service or Site. You may terminate your membership by contacting us at [hello@socialnature.com](mailto:hello@socialnature.com) or by using the “terminate membership” function if available. Upon terminating your membership, Social Nature will remove the following Personal Information from Social Nature active database: Social Nature password (if applicable), member profile, full name, address (except for postal/zip code), e-mail address, other contact information, Facebook account information, Twitter account information, and profile photo. Any of your Personal Information or activity history that is not deleted will be attached to either your username or a unique database ID, not to your personally identifiable information.
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
+Site Terms and Conditions
 
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
+Use of this Site is governed by, and subject to, the legal notices contained in Social Nature Terms of Service. Your use, or access, of the Site constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.
 
-#### EPP SHARING ARRANGEMENTS
+Comments and Questions: If you have any questions, comments or concerns about our Privacy Policy, you may contact us. By email at [privacy@socialnature.com](mailto:privacy@socialnature.com) or by MAIL Social Nature ℅ Ethico Solutions Inc. 811-402 West Pender Street, Vancouver, BC, V6B 1T6, Canada. 
 
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
-
-#### PROTECTING KIDS PRIVACY
-
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
-
-**Notice to Kids**
-
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
-
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
-
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
-
-**Notice to Parents**
-
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
-
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
-
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
-
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
-
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
-
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
-
-#### LINKS TO OTHER WEBSITES
-
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
-
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
-
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
-
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
-
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
-
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
-
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
-
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
-
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
-
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
-
-#### PRIVACY COMPLAINTS
-
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
-
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
-
-
-
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
-
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
-
-
-
-#### YOUR ACCEPTANCE OF THESE TERMS
-
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+Effective Date: This privacy policy is effective and was last updated on Oct 2, 2014.
