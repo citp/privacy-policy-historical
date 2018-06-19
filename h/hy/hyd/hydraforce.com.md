@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hydraforce.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217172645id_/http%3A//www.hydraforce.com/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hydraforce.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619175608id_/http%3A//hydraforce.com/privacy_policy/index.html) for the most accurate reproduction.*
 
 # HydraForce - Hydraulic Cartridge Valves, Custom Manifolds and Electro-Hydraulic Control Systems Warranty and Terms
 
@@ -62,13 +62,17 @@ If you send questions or comments to an e-mail address listed within this websit
 
 We may agree that e-mail has become a standard communication tool used by many different parties. Unfortunately by design standard Internet e-mail is not secure. For that reason, please do not use unsecured e-mail to communicate information to us that you may consider to be confidential.
 
+European Union (EU) General Data Protection Regulation (GDPR):
+
+Residents of the European Union (EU) , under the General Data Protection Regulation (GDPR) have the right to request to modify, delete or access data we collect about them. GDPR took effect on May 25, 2018. To make a request, contact HydraForce Marketing at [**HFMarketing@hydraforce.com**](mailto:HFMarketing@hydraforce.com?subject=Privacy%20Policy%20and%20Terms%20of%20Use). HydraForce will respond to these requests within 40 days. In case of a data breach, HydraForce will notify customers within 72 hours
+
 California privacy law:
 
 Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third-parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third-party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing by contacting the HydraForce Marketing at [**HFMarketing@hydraforce.com**](mailto:HFMarketing@hydraforce.com?subject=Privacy%20Policy%20and%20Terms%20of%20Use).
 
 Internet Privacy Statement changes:
 
-This Internet Privacy Statement is effective as of January 2011 and was last updated in August 2014. This Internet Privacy Statement is not intended to and does not create any contractual or other legal rights with or on behalf of any party.
+This Internet Privacy Statement is effective as of January 2011 and was last updated in May 2018. This Internet Privacy Statement is not intended to and does not create any contractual or other legal rights with or on behalf of any party.
 
 If we decide to change this website's privacy practices, we will post those changes to this Internet Privacy Statement, the home page, and other places that we deem appropriate so that you are aware of what information is being collected, how the information is being used, and under what circumstances, if any, the information may be disclosed. HydraForce reserves the right to modify this Internet Privacy Statement at any time, so please review it frequently. 
 
