@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prommanow.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123005621id_/http%3A//prommanow.com/advertise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prommanow.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619182239id_/http%3A//prommanow.com/advertise/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,4 +63,4 @@ If you decide to visit Pro MMA Now website, your visit and any possible dispute 
 
 Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of 6-7-13 and last updated 1-1-16.
+This Privacy Policy is effective as of 6-7-13 and last updated 6-12-18.
