@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soccer-picks.org privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616165420id_/http%3A//soccer-picks.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccer-picks.org privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619084600id_/http%3A//soccer-picks.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy of Soccer-Picks paid soccer tips services Football picks
 
-On Soccer-Picks.Org we are committed to protecting your privacy. These terms set out the basis on which we hold personal information about you. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. 
+On Soccer-picks.org we are committed to protect your privacy. These terms set out the basis on which we hold personal information about you. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. 
 
 ### Collection of Data
 
@@ -10,7 +10,15 @@ Our registration process requires a personal data. Providing us with other infor
 
 ### Use of Private Data
 
-We may use Data to customize and improve your user experience on this site. Your Data will not be provided to third parties. 
+We may use Data to customize and improve your user experience on this site. Your Data will not be provided to third parties except: \- if Soccer-picks.org is required to disclose such Personal Information by any applicable law, regulation or legal process. 
+
+### Protection of Privacy data
+
+All of your private data is secured on our website by our systems with strong passwords and custom made technology. 
+
+### Information and Deletion of Privacy data
+
+You have full right to know all of your private data that we save on our website/server. You can also force us to delete permanently all of your private data. Just send us e-mail on info@soccer-picks.org or use our contacts on the website. 
 
 ### No guarantees
 
@@ -23,11 +31,6 @@ If you have any questions about this Policy or our web site, please feel free to
 ### Your Consent
 
 By using our web site, you consent to our collection and use of your personal data for the purposes set out above. In the event that we decide to change our privacy policy we will post such changes on this page in order that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. 
-
-[](http://imstore.365sbaffiliates.com/Tracker.aspx?AffiliateId=31937&AffiliateCode=GM_00007271&CID=165&DID=27&TID=1&PID=148&LNG=1)
-
-  
-
 
 ### Useful information
 
@@ -66,4 +69,4 @@ By using our web site, you consent to our collection and use of your personal da
 
 Soccer live score  
 Enjoy our livescore service comprise all world leagues EPL,Seria A,Primera division, Bundesliga, Scotland, France, World Cup, Champions League.   
-[Reviews](http://soccer-picks.org/statii.php), [Analysis](http://soccer-picks.org/statii.php?art=833), [Bookmakers](http://soccer-picks.org/statii.php?id=165), [Interviews](http://soccer-picks.org/statii.php?id=81), [Statistics](http://soccer-picks.org/statii.php?id=78), [Information](http://soccer-picks.org/next-matches.php?id=66&sort=0), [Free predictions](http://free.soccer-picks.org/), [Free soccer tips](http://free2.soccer-picks.org/) [sport picks](http://www.sporttips.org/) etc. 
+[Reviews](http://soccer-picks.org/statii.php), [Analysis](http://soccer-picks.org/statii.php?art=833), [Bookmakers](http://soccer-picks.org/statii.php?id=165), [Interviews](http://soccer-picks.org/statii.php?id=81), [Statistics](http://soccer-picks.org/statii.php?id=78), [Information](http://soccer-picks.org/next-matches.php?id=66&sort=0), [Free predictions](http://free.soccer-picks.org/), [Free soccer tips](http://free2.soccer-picks.org/) sport picks etc. 
