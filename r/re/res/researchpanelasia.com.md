@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the researchpanelasia.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217095007id_/https%3A//www.d8aspring.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchpanelasia.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619172402id_/https%3A//www.d8aspring.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | dataSpring
 
-Effective Date: November 1, 2016
+Last Updated: February 26, 2018
 
 ## Introduction
 
@@ -49,6 +49,47 @@ If you have any questions about the security of our website or web applications,
 
 Our website may contain links to other third party websites. dataSpring is not responsible for the privacy policies and practices of such third party websites.
 
+## Our Cookie Policy
+
+### By using the Service, you consent to the use of cookies.
+
+Our Cookies Policy explains what cookies are, how we use cookies, how third-parties we may partner with may use cookies on the Service, your choices regarding cookies and further information about cookies.
+
+**What are cookies?**
+
+Cookies are small pieces of text sent by your web browser by a website you visit. A cookie file is stored in your web browser and allows the Service or a third-party to recognize you and make your next visit easier and the Service more useful to you.
+
+Cookies can be "session" or "persistent" cookies- see more information on them below.
+
+**How dataSpring uses cookies?**
+
+#### When you use and access the Service, we may place a number of cookies files in your web browser.
+
+We use cookies for the following purposes: to enable certain functions of the Service, to provide analytics, to store your preferences, to enable advertisements delivery, including behavioral advertising.
+
+On our site, we use two kinds of cookies called "session cookie" and "persistent cookie". Session cookies are a temporary cookie stored on your terminal until you close our site. Persistent cookies will remain on your device for a much longer period of time or until you manually delete them (the length of time cookies are stored on your terminal depends on the duration or "lifetime" of the cookie in question).
+
+**Third-party cookies**
+
+In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of the Service, deliver advertisements on and through the Service, and so on.
+
+**What are your choices regarding cookies?**
+
+If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser.
+
+If you use multiple different terminals to access our site (eg computer, smartphone, tablet etc.), each browser on each terminal needs to be adjusted to fit the cookie you want.
+
+Note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+
+**Where can you find more information about cookies?**
+
+You can learn more about cookies and the following third-party websites:
+
+  * AllAboutCookies: <http://www.allaboutcookies.org/>
+  * Network Advertising Initiative: <http://www.networkadvertising.org/>
+
+
+
 ## Changes to our Privacy Policy
 
 Please check this page periodically for changes as dataSpring reserves the right, at its discretion, to change, modify, add, or remove portions of the Privacy Policy and the website at any time.
@@ -57,7 +98,7 @@ Your continued use of the website following the posting of any changes to this P
 
 ## Contact Us
 
-Questions about our Privacy Policy may be emailed to us at [contact@d8aspring.com](mailto:contact@d8aspring.com) or you may send us your questions to:
+Questions about our Privacy Policy may be emailed to us at [contact@d8aspring.com](mailto:contact@d8aspring.com) or you may send us your questions to:
 
   * 7F KOSUGI Bldg., Shinjuku 1-28-11, Shinjuku-ku, Tokyo, Japan 160-0022
 
@@ -67,7 +108,7 @@ Questions about our Privacy Policy may be emailed to us at [contact@d8aspring.co
 
 Whether you are a client, prospect, visitor to our website, a user of our mobile app, and/ or a survey respondent, the following additional documentation may apply to your use of our Services:
 
-  * dataSpring Terms of Use: <https://www.d8aspring.com/static/terms>
+  * dataSpring Terms of Use: [https://www.d8aspring.com/static/terms](https://www.d8aspring.com/static/terms?hsLang=en-us)
   * surveyon Website Privacy Policy: <https://www.surveyon.com/static/privacy>
   * surveyon Website Terms & Conditions: <http://www.surveyon.com/static/terms>
   * surveyon Mobile App Privacy Policy: <https://www.surveyon.com/mobile_app/privacy>
