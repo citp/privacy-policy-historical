@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naiku.net privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215174633id_/http%3A//www.naiku.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naiku.net privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619085633id_/http%3A//www.naiku.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Naiku
 
-This Privacy Policy was last modified on: April 27, 2015.
+This Privacy Policy was last modified on: April 9, 2018 (updated Naiku address)
 
 Naiku is committed to the privacy and security of our participating users. Supplementing the various measures that each client takes to protect its own computing and user environment, Naiku guards the privacy and the security of your information.  This privacy policy applies to Web sites operated by Naiku (collectively, the “Sites”):
 
@@ -46,4 +46,4 @@ Naiku may modify or update this Privacy Policy from time to time so you should r
 If you don’t agree to any changes, then you must provide us with written notice to [support@naiku.net](mailto:support@naiku.net) and we will automatically delete your account (including all related information), unless you notify us otherwise.
 
 **Contact Us**  
-If you have any questions or concerns regarding this privacy statement, please contact us at: Naiku, 7805 Telegraph Road, Suite 111, Bloomington, MN 55438 or at [support@naiku.net](mailto:support@naiku.net).
+If you have any questions or concerns regarding this privacy statement, please contact us at: Naiku, 12100 Singletree Lane, Suite 185, Eden Prairie, MN 55344 or at [support@naiku.net](mailto:support@naiku.net).
