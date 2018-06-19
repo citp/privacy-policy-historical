@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u2ugsm.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231124459id_/http%3A//www.u2ugsm.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u2ugsm.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619102405id_/http%3A//www.u2ugsm.com/pp.php) for the most accurate reproduction.*
 
 # U2UGSM.COM :: Privacy Policy new
 
