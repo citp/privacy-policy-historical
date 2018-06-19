@@ -1,39 +1,36 @@
-<!--The following is the downloaded HTML source of the idateasia.com privacy policy that was archived on 2017-07-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170721082554id_/http%3A//www.idateasia.com/help/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idateasia.com privacy policy that was archived on 2018-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180619064846id_/http%3A//www.asiame.com/help/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-<title>iDateAsia Club -- Thai girls and Vietnamese women seeking single men for dating, romance, marriage , long-term relationship!</title>
-<meta name="Keywords" content="Thai women, Thai lady, Vietnamese women, Vietnamese girls, asian woman, thailand love, Thai lady, Vietnamese lady, asian woman, single, Asian dating club, Asian marriage, international dating service, matchmaking service, Thaimarriage service, Vietnamese online dating, men seeking Asian women, Vietnamese women seeking men, long-time relationships, lifetime partners, soul mates, pen pal clubs, singles club, romance, correspondence">
-<meta name="Description" content="Southeast Asian women are the most beautiful among all the asian woman. If single gentlemen want to find special Thai ladies or Vietnamese women as your soul mates and lifetime partners, please join free online idateasia.com club for marriage, dating, match making, pen pals, romance and relationships.">
+<title>Privacy Policy - See How to Protect Yourself When Dating Asian Girls on Asiame.com.</title>
+<meta name="Keywords" content="asian girls,asian ladies,chinese dating,asian dating site,thai dating,philippines girls,best dating sites">
+<meta name="Description" content="Asiame's Privacy Policy protects yourself when dating Asian women. Trouble free to post your free dating profile and enjoy safe online dating service now!">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TB4ZNC"></script><script type="text/javascript">
-	var the_date = new Date("December 1, 2016"); 
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W6WSMJ"></script><script type="text/javascript">
+	var the_date = new Date("December 1, 2017"); 
 	var the_cookie_date = the_date.toGMTString(); 
-	var the_cookie = "IDA_Change_Screen="+ screen.width; 
+	var the_cookie = "CL_Change_Screen="+ screen.width; 
 	var the_cookie = the_cookie + "; expires=" + the_cookie_date; 
 	document.cookie=the_cookie;
 </script>
 
 <script type="text/javascript">
-	var the_date = new Date("December 1, 2018"); 
+	var the_date = new Date("December 1, 2019"); 
 	var the_cookie_date = the_date.toGMTString(); 
-	var the_cookie = "IDA_Change_Screen="+ screen.width; 
+	var the_cookie = "CL_Change_Screen="+ screen.width; 
 	var the_cookie = the_cookie + "; expires=" + the_cookie_date + "; path=/;"; 
 	document.cookie=the_cookie;
 </script>
-<link href="/my/cssmmingid.css?2.61" rel="stylesheet" type="text/css">
+<link href="/my/cssmming.css?2.7" rel="stylesheet" type="text/css">
+
 <link href="/my/css2.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 <!--
-.STYLE1 {color: #333333;
-	font-size: 12px;
-	font-weight: bold;
-}
-.STYLE2 {color: #FF6600;
-	font-size: 18px;
-	font-weight: bold;
-}
+.rightborva{font:12px/16px Arial, Helvetica, sans-serif;}
+.rightborva ol li{font-weight:bold;list-style:none;margin:20px 0 0 0;}
+.rightborva ul{margin:0;padding:0 0 0 20px;}
+.rightborva ul li{font-weight:normal;list-style:disc;margin:0 0 0 0;}
 -->
 </style>
 </head>
@@ -63,9 +60,113 @@ with (window.document){
 
 <div class="divall">
 <script type="text/javascript">
+	var _version = '2015';
 	var header_profile_data = {};
 	function showhove1(){
+			if( typeof(header_profile_data.profile_finished_val)==='undefined' ){
+				$.ajax({
+					type : 'get',
+					url: "/my/ajax_header_data.php",
+					data: 'act=header_tips_data',
+					dataType :"json",
+					async: false,
+					success: function(Data){
+						header_profile_data = Data;
+					}
+				});
+			}else{
+				document.getElementById("drop_n1").style.display = "block";
+				return ;
+			}
+			var profile_result = header_profile_data.profile_check_result;
+			var expiring_voucher = header_profile_data.chat_ticket_expiring;
+			var expiring_vouchercam = header_profile_data.cam_ticket_expiring;
+			var expiring_coupon = header_profile_data.order_coupon_expiring;
+			var voucher_num = header_profile_data.chat_ticket_total;
+			var vouchercam_num = header_profile_data.cam_ticket_total;
 		
+			if (expiring_vouchercam.total)
+			{
+				if (typeof(expiring_voucher.type)==='undefined') expiring_voucher.total = expiring_voucher.total+expiring_vouchercam.total;
+				expiring_voucher.type =  expiring_voucher.total==expiring_vouchercam.total?'cam':'chat/cam';			
+				expiring_voucher.expired = Math.min(Math.abs(expiring_voucher.expired),Math.abs(expiring_vouchercam.expired)); 
+			}else{
+				expiring_voucher.type ='chat';
+			}
+			if (vouchercam_num) voucher_num = voucher_num+vouchercam_num;
+
+			$('#progress_bar_val').attr('style','width:'+ header_profile_data.profile_finished_val +'%');
+			$('#voucher_num').html(voucher_num);
+			
+			if($("#voucher_num").html()==0)
+			{
+				$("#vouchers_get").show();
+				$("#vouchers_chat").hide();
+				$("#vouchers_font_link").attr('href','/my/qpidnetwork.php?url=/profile/chat_vouchers.php');
+			}
+			else
+			{
+				if (voucher_num==vouchercam_num)
+				{
+					$("#vouchers_chat").attr('href','/my/camshare_ladies.php?filter=nevercam');
+				}
+				$("#vouchers_get").hide();
+				$("#vouchers_chat").show();
+				$("#vouchers_font_link").attr('href','/my/qpidnetwork.php?url=/profile/chat_vouchers.php');
+			}
+			if($("#integral_num").html()<10)
+			{
+				$("#points_font_link").attr('href','/my/qpidnetwork.php?url=/profile/profile_points.php');
+			}
+			else
+			{
+				$("#points_font_link").attr('href','/my/qpidnetwork.php?url=/profile/profile_points.php');
+			}
+
+			$("#points_font_link").mousemove(function(){
+				$(".my_points_tips").show();
+			});
+			
+			$(".new_intopva_cenlist").mouseout(function(){
+				$(".my_points_tips").hide();
+			});
+			$(".my_points_tips").mouseout(function(){
+				$(".my_points_tips").hide();
+			});
+			$(".my_points_tips").mousemove(function(){
+				$(".my_points_tips").show();
+			});
+
+
+			
+			if('1'==profile_result.email){
+				$('#icon_profile_email').attr({'src':'/my/images/email_sh_ico.png', 'title':'Your Email has been verified.'});
+			}else{
+				$('#icon_profile_email').attr({'src':'/my/images/email_shoff_ico.png', 'title':'Your Email is not verified. Verify Now!'});
+			}
+			if('1'==profile_result.phone){
+				$('#icon_profile_mobile').attr({'src':'/my/images/tel_sh_ico.png', 'title':'Your phone number has been verified.'});
+			}else{
+				$('#icon_profile_mobile').attr({'src':'/my/images/tel_shoff_ico.png', 'title':'Your phone number is not verified. Verify Now!'});
+			}
+			if('1'==profile_result.qpidseal){
+				$('#icon_profile_seal').attr({'src':'/my/images/seal_sh_ico.png', 'title':'Your account has been Qpid SEALed.'});
+			}else{
+				$('#icon_profile_seal').attr({'src':'/my/images/seal_shoff_ico.png', 'title':'Your account has not yet been Qpid SEALed. SEAL it now!'});
+			}
+			if(expiring_voucher.total>0){
+				$('#hd_voucher_tips').html('<font color="#ff6600">'+ expiring_voucher.total +'</font> '+expiring_voucher.type+' voucher(s) expiring in '+ expiring_voucher.expired +' days!<span><img src="/my/images/center_arrowup.png" width="13" height="7" /></span>');
+				$('#hd_voucher_tips').show();
+			}
+			if(expiring_coupon.save>0){
+				var lf_html = '';
+				if(expiring_coupon.expired<=7){
+					var lf_html = 'Only '+ expiring_coupon.expired +' days left!';
+				}
+				$('#hd_coupon_tips').html('Use code "'+expiring_coupon.coupon_code+'" to buy credits and save up to <font color="#ff6600;">$'+ expiring_coupon.save +'</font>. '+lf_html+'<span><img src="/my/images/center_arrowup.png" width="13" height="7" /></span>');
+				$('#hd_coupon_tips').show();
+			}
+
 		document.getElementById("drop_n1").style.display = "block";
 	}
 	function hidehove1(){
@@ -83,18 +184,30 @@ with (window.document){
 		document.getElementById("upload_m").style.display = "block";	
 		document.getElementById("upload_m").style.filter="Alpha(opacity=30)";
 		document.getElementById("upload_div").style.display = "block";
-	}
+		}
 	function uphove2(){
 		document.getElementById("upload_m").style.display = "none";	
 		document.getElementById("upload_m").style.filter="Alpha(opacity=0)";
 		document.getElementById("upload_div").style.display = "none";
-	}
-	
-	//pad设备中层的兼容处理.
+		}
+	//iPad设备--关闭弹出层的兼容处理.
 	var Browser_Agent = navigator.userAgent.toLowerCase();
 	if (Browser_Agent.indexOf("ipad")!=-1){
 		$("body").css("cursor","pointer");
-	}
+	}	
+	//ga打點
+	function ga_manager(point, redirect, target){
+        try{
+            dataLayer.push({'event':'eventTracking','ga-data':point});
+        }catch(e){}
+        if(typeof(redirect)!="undefined"){
+            if(typeof(target)!="undefined"){
+            	window.open(redirect);
+            }else{
+            	window.location.href=redirect;
+            }
+        }
+    }
 </script>
 <script type="text/javascript" src="/my/js/jquery-1.8.3.js"></script><script type="text/javascript" src="/js/orderpopup.js"></script>
 
@@ -106,53 +219,41 @@ with (window.document){
         <div class="intopva_dropdiv_n">
         <div class="intopva_dropdiv">
             <h3>More Qpid Network sites for more choice:</h3>
-             <ul>
-              
+             <ul>             
+             
 					  <li class="clearfix">
 					   <img src="/public/images/heard_drop_w1.jpg" width="80" height="80">
 					   <div class="fontinfo">
-						 <a href="/my/qpidnetwork_r.php?siteid=0&amp;url=/my/overview.php"><strong>ChnLove.com</strong></a>
-						 <p><font>- Meet beautiful singles from</font><br> <strong>China</strong> for romance</p>
-						 <span>Ladies online: <strong>5211</strong></span>
-					   </div>
-					   <div class="r_go_new clearfix">
-						  <a href="/my/qpidnetwork_r.php?siteid=0&amp;url=/my/overview.php"></a>
-					   </div>
-					  </li>
-					  <li class="clearfix">
-					   <img src="/public/images/heard_drop_w2.jpg" width="80" height="80">
-					   <div class="fontinfo">
-						 <a href="/my/qpidnetwork_r.php?siteid=4&amp;url=/my/overview.php"><strong>CharmDate.com</strong></a>
-						 <p><font>- Find gorgeous singles from</font><br> <strong>Russia and Ukraine</strong> for love</p>
-						 <span>Ladies online: <strong>1808</strong></span>
-					   </div>
-					   <div class="r_go_new clearfix">
-						  <a href="/my/qpidnetwork_r.php?siteid=4&amp;url=/my/overview.php"></a>
-					   </div>
-					  </li>
-					  <li class="clearfix">
-					   <img src="/public/images/heard_drop_w3.jpg" width="80" height="80">
-					   <div class="fontinfo">
-						 <h6>iDateAsia.com</h6>
-						 <p><font>- Date ladies from</font> <strong>Southeast Asia</strong> for exotic relationships</p>
-						 <span>Ladies online: <strong>1058</strong></span>
+						 <h6>AsiaMe.com</h6>
+						 <p><font>- Meet elite singles from</font> <br><strong>Asia</strong></p>
+						 <span>Members online: <strong>6983</strong></span>
 					   </div>
 					   <div class="r_go_new clearfix">
 						 You are here!
 					   </div>
 					  </li>
 					  <li class="clearfix">
+					   <img src="/public/images/heard_drop_w2.jpg" width="80" height="80">
+					   <div class="fontinfo">
+						 <a href="/my/qpidnetwork_r.php?siteid=4&amp;url=/my/overview.php"><strong>CharmDate.com</strong></a>
+						 <p><font>- Find your ideal partner from </font><strong>Russia &amp; Ukraine</strong></p>
+						 <span>Members online: <strong>1461</strong></span>
+					   </div>
+					   <div class="r_go_new clearfix">
+						  <a href="/my/qpidnetwork_r.php?siteid=4&amp;url=/my/overview.php"></a>
+					   </div>
+					  </li>
+					  <li class="clearfix">
 					   <img src="/public/images/heard_drop_w4.jpg" width="80" height="80">
 					   <div class="fontinfo">
 						 <a href="/my/qpidnetwork_r.php?siteid=5&amp;url=/my/overview.php"><strong>LatamDate.com</strong></a>
-						 <p><font>- Encounter your valentine from</font><br> <strong>Latin America</strong></p>
-						 <span>Ladies online: <strong>214</strong></span>
+						 <p><font>- Encounter your matches from </font><strong>Latin America</strong></p>
+						 <span>Members online: <strong>362</strong></span>
 					   </div>
 					   <div class="r_go_new clearfix">
 						  <a href="/my/qpidnetwork_r.php?siteid=5&amp;url=/my/overview.php"></a>
 					   </div>
-					  </li>          </ul>
-            
+					  </li>          </ul>            
       </div>
       </div>
       <div><img src="/public/images/heard_drop_foot.png" width="407" height="23"></div>
@@ -163,36 +264,90 @@ with (window.document){
 <div class="upload_m" id="upload_m"></div>
 <!--弹出层 end-->
 
-
 <div class="divtopallva">  
     <div class="divtopallvb">
 		<div class="intopdhall">
 
-
-        				<div class="intopva">	
+			<div class="intopva">	
             	<ul class="intopnav">
-								<li class="intopnavf"><a href="/my/p_login.php" rel="nofollow">Sign in</a> &nbsp;| <a href="/my/register_aff1.php" rel="nofollow">Sign up</a></li>
+								<li class="intopnavf"><a href="/my/p_login.php" rel="nofollow">Sign in</a> &nbsp;| <a href="/index.php" rel="nofollow">Sign up</a></li>
 								
-			</ul>
+				</ul>	
                 <div class="intopva_nright">
-                	<div class="dp1 intoop_a" onmouseover="showhove1()" onmouseout="hidehove1()"><b>Member Center</b>
-                     <span class="intopva_drop1" id="drop_n1" style="display:none" onmousemove="showhove1()">
-                        <h4>My Qpid Account</h4>
-                        <dl class="boder_b">
-                        	<dt><a href="/my/qpidnetwork.php?url=/index.php" target="_blank">Account Overview</a></dt>
-                        	<dt><a href="/my/qpidnetwork.php?url=/profile/my_account.php" target="_blank">Account Information</a></dt>
-                            <dt><a href="/my/qpidnetwork.php?url=/profile/verify_contact.php" target="_blank">Verify Contact Details</a></dt>
-                            <dt><a href="/my/qpidnetwork.php?url=/profile/profile_view.php" target="_blank">My Profile</a></dt>
-                            <dt><a href="/my/qpidnetwork.php?url=/profile/profile_photo.php" target="_blank">My Photo</a></dt>
-                            <dt><a href="/my/qpidnetwork.php?url=/profile/profile_seal.php?show_qpid_seal=no" target="_blank">My Qpid SEAL</a></dt>
-                        </dl>
-                        <h4>Qpid Credits</h4>
-                        <dl>
-                        	<dt><a ga-data="10203" href="/my/qpidnetwork.php?url=/payment/credits.php" target="_blank">Purchase Credits</a></dt>
-                            <dt><a href="/my/qpidnetwork.php?url=/payment/history.php" target="_blank">Credit History</a></dt>
-                        </dl>
-                	</span>
+                                
+                	<div class="right_item" onmouseover="$(this).find('.header_right_dropdown').show();" onmouseout="$(this).find('.header_right_dropdown').hide();">
+                    	<div class="item_label"><img src="/public/images/mobile_icon.png">App</div>
+                    	<div class="header_right_dropdown">
+                    	    <p><a href="http://www.ndating.net/member/ios_store/?formid=am" target="_blank"><img src="/public/images/mobile_appstore.png"></a></p>
+                            <p><a href="https://play.google.com/store/apps/details?id=com.qpidnetwork.dating&amp;hl=en" target="_blank"><img src="/public/images/mobile_googleplay.png"></a></p>
+                            <img src="/public/images/mobile_qrcode.png" style="margin-top:10px;">
+                        </div>
                     </div>
+                
+                	<div class="dp1 intoop_a" onmouseover="showhove1()" onmouseout="hidehove1()">
+                     <a href="/my/qpidnetwork.php?url=/profile/profile_photo.php" target="_blank" class="head_portrait"><img src="/my/images/profile_ico.png"></a><b></b>
+                     <span class="new_intopva_center" id="drop_n1" style="display:none;" onmousemove="showhove1()">
+               	 	 <div class="new_intopva_cenlist">
+                   	   <h1>Qpid Member Center <span>ID:</span></h1>
+                       	 <ul>
+                           	 <li>
+                             	<p>
+                                	<span class="pro_span_l">
+										<img src="/my/images/my_pro_ico.png" width="14" height="16" align="absmiddle">
+										<a href="/my/qpidnetwork.php?url=/profile/profile_view.php" target="_blank">My Profile</a>
+									</span>
+									<span class="pro_span_r">
+										<a href="/my/qpidnetwork.php?url=/profile/my_account.php" target="_blank"><img id="icon_profile_email" src="/my/images/email_sh_ico.png" width="20" height="20" border="0" align="absmiddle"></a>
+										<a href="/my/qpidnetwork.php?url=/profile/verify_contact.php" target="_blank"><img id="icon_profile_mobile" src="/my/images/tel_sh_ico.png" width="20" height="20" border="0" align="absmiddle"></a>
+										<a href="/my/qpidnetwork.php?url=/profile/profile_seal.php" target="_blank"><img id="icon_profile_seal" src="/my/images/seal_sh_ico.png" width="20" height="20" border="0" align="absmiddle"></a>
+									</span>
+								</p>
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0" class="complete_tab">
+                                  <tbody><tr>
+                                    <td width="64%">Complete my profile:</td>
+                                    <td width="36%">&nbsp;</td>
+                                  </tr>
+                                  <tr>
+                                    <td><p class="progress_bar"><span id="progress_bar_val" style="width:34%;"></span></p></td>
+                                    <td align="center"><a href="/my/qpidnetwork.php?url=/profile/profile_view.php" target="_blank">Edit profile</a></td>
+                                  </tr>
+                                </tbody></table>
+
+                             	
+                             </li>
+                                                          <li>
+                                 <p><img src="/my/images/qpid_ico.png" width="20" height="20" align="absmiddle"> <a ga-data="10202" href="/my/qpidnetwork.php?url=/payment/credits.php" target="_blank">Qpid Credit: </a><span class="qpid_member_num">0.00</span><i><a ga-data="10202" href="/my/qpidnetwork.php?url=/payment/credits.php" target="_blank" class="new_center_btn new_center_blubtn">Add More</a></i></p>
+                                 <div id="hd_coupon_tips" style="display:none" class="tip_d"></div>
+                             </li>
+                             <li>
+                             	<p><img src="/my/images/chat_vouchers_ico.png" width="20" height="20" align="absmiddle"> <a target="_blank" id="vouchers_font_link">Chat/Cam Vouchers: </a><span class="qpid_member_num" id="voucher_num">0</span>
+                                <i><a href="/my/qpidnetwork.php?url=/profile/about_vouchers.php" target="_blank" class="new_center_btn new_center_blubtn" id="vouchers_get" style="display:none;">Get More</a><a href="/my/online_ladies.php?act=never_chat" target="_blank" class="new_center_btn new_center_greenbtn" id="vouchers_chat" style="display:none;">Chat Free</a></i>
+                                </p>
+                                <div id="hd_voucher_tips" style="display:none" class="tip_d"></div>
+                           	 </li>
+                             <li>
+                             	<span class="my_points_tips">
+                                    <div class="my_points_tips_con">
+                                        * Points, or "Bonus Points", can be used to send First Introduction Mails to your favorite members. You can collect points when you use the service of Qpid Network sites. <a href="/my/qpidnetwork.php?url=/help/faqs.php#q16_t" target="_blank">(Updated Policy)</a><br>
+
+                                        <span><img src="/my/images/arrowup.gif" border="0"></span>
+                                    </div>
+                                </span>
+                             	<p><img src="/my/images/bonus_ico.png" width="20" height="20" align="absmiddle"> <a target="_blank" id="points_font_link">Bonus Points: </a><span class="qpid_member_num" id="integral_num"></span>
+                                	<i>
+										                                        <a href="/my/qpidnetwork.php?url=/profile/profile_points.php" target="_blank" class="new_center_btn new_center_blubtn" id="points_get">Get More</a>
+                                                                            </i>
+                                </p>
+                             </li>
+                             <li>
+                           	 	<p><img src="/my/images/seal_sh_ico.png" width="20" height="20" align="absmiddle"> <a href="/my/qpidnetwork.php?url=/profile/profile_seal.php" target="_blank">My Qpid Seal </a></p>
+                             </li>
+                             <li><img src="/my/images/signout_ico.png" width="20" height="20" align="absmiddle"> <a href="/logout.php">Sign Out</a></li>
+                         </ul>
+                       </div>
+                     </span>
+					</div>
+                    
                     
                     <div class="dp2 intoop_new newedit_bord2" onmouseover="showhove2()" onmouseout="hidehove2()" id="dp2_n">
                     	<b>Our Family Sites</b>
@@ -205,87 +360,80 @@ with (window.document){
 										  <li class="clearfix">
 										   <img src="/public/images/heard_drop_w1.jpg" width="80" height="80">
 										   <div class="fontinfo">
-											 <a href="/my/qpidnetwork_r.php?siteid=0&amp;url=/my/overview.php"><strong>ChnLove.com</strong></a>
-											 <p><font>- Meet beautiful singles from</font><br> <strong>China</strong> for romance</p>
-											 <span>Ladies online: <strong>5211</strong></span>
-										   </div>
-										   <div class="r_go_new clearfix">
-											  <a href="/my/qpidnetwork_r.php?siteid=0&amp;url=/my/overview.php"></a>
-										   </div>
-										  </li>
-										  <li class="clearfix">
-										   <img src="/public/images/heard_drop_w2.jpg" width="80" height="80">
-										   <div class="fontinfo">
-											 <a href="/my/qpidnetwork_r.php?siteid=4&amp;url=/my/overview.php"><strong>CharmDate.com</strong></a>
-											 <p><font>- Find gorgeous singles from</font><br> <strong>Russia and Ukraine</strong> for love</p>
-											 <span>Ladies online: <strong>1808</strong></span>
-										   </div>
-										   <div class="r_go_new clearfix">
-											  <a href="/my/qpidnetwork_r.php?siteid=4&amp;url=/my/overview.php"></a>
-										   </div>
-										  </li>
-										  <li class="clearfix">
-										   <img src="/public/images/heard_drop_w3.jpg" width="80" height="80">
-										   <div class="fontinfo">
-											 <h6>iDateAsia.com</h6>
-											 <p><font>- Date ladies from</font> <strong>Southeast Asia</strong> for exotic relationships</p>
-											 <span>Ladies online: <strong>1058</strong></span>
+											 <h6>AsiaMe.com</h6>
+											 <p><font>- Meet elite singles from</font> <br><strong>Asia</strong></p>
+											 <span>Members online: <strong>6983</strong></span>
 										   </div>
 										   <div class="r_go_new clearfix">
 											 You are here!
 										   </div>
 										  </li>
 										  <li class="clearfix">
+										   <img src="/public/images/heard_drop_w2.jpg" width="80" height="80">
+										   <div class="fontinfo">
+											 <a href="/my/qpidnetwork_r.php?siteid=4&amp;url=/my/overview.php"><strong>CharmDate.com</strong></a>
+											 <p><font>- Find your ideal partner from </font><strong>Russia &amp; Ukraine</strong></p>
+											 <span>Members online: <strong>1461</strong></span>
+										   </div>
+										   <div class="r_go_new clearfix">
+											  <a href="/my/qpidnetwork_r.php?siteid=4&amp;url=/my/overview.php"></a>
+										   </div>
+										  </li>
+										  <li class="clearfix">
 										   <img src="/public/images/heard_drop_w4.jpg" width="80" height="80">
 										   <div class="fontinfo">
 											 <a href="/my/qpidnetwork_r.php?siteid=5&amp;url=/my/overview.php"><strong>LatamDate.com</strong></a>
-											 <p><font>- Encounter your valentine from</font><br> <strong>Latin America</strong></p>
-											 <span>Ladies online: <strong>214</strong></span>
+											 <p><font>- Encounter your matches from </font><strong>Latin America</strong></p>
+											 <span>Members online: <strong>362</strong></span>
 										   </div>
 										   <div class="r_go_new clearfix">
 											  <a href="/my/qpidnetwork_r.php?siteid=5&amp;url=/my/overview.php"></a>
 										   </div>
-										  </li>                              </ul>
+										  </li>                              </ul>                                
                           </div>
                           </div>
                           <div><img src="/public/images/heard_drop_foot.png" width="407" height="23"></div>
                 		</div>
                     </div>
-				
 
-				<br clear="all">
-				</div>
-            </div>
+                <br clear="all">
+              </div>
+		  </div>  
 
-						<div class="onlinestatus" style="z-index:99;">
-								  <div align="right"><a href="/my/p_login.php" class="onlinelink" rel="nofollow">Sign in &gt;&gt;</a></div>
-
-							</div>
+		  <!--男士online-->
+                                    <div class="onlinestatus" style="z-index:99;">
+                                                  <div align="right"><a href="/my/p_login.php" class="onlinelink" rel="nofollow">Sign in &gt;&gt;</a></div>
+                            
+                                            </div>
+                                    
+            <!--男士online-->
 			
 			<div class="inlogo" style="z-index:98;">
-			    
 				<a href="/" class="logo_img"><img src="/my/images/logo.gif"></a>
-                <div class="qiehuan" onclick="uphove1()">[<b>Switch</b>]</div>
+				<div class="qiehuan" onclick="uphove1()">[<b>Switch</b>]
+                </div>
 							
-			</div>
-							<div class="dhtop">
+		  </div>
+          
+							<div class="dhtop" id="topdh_point_guide">
 
 					                	<div class="dhtop_piaoleft"></div>
                     <div class="dhtop_piaoright"></div>
 					<ul>
-					<li><a href="http://www.idateasia.com/my/overview.php" rel="nofollow"><b>HOME</b></a></li>
-<li><a href="http://www.idateasia.com/online_ladies/"><b>ONLINE</b></a></li>
-<li class="dhtopnone"><a href="http://www.idateasia.com/my/featured.php"><b>SEARCH</b></a></li>
-<li class="dhtopxz"><a href="http://www.idateasia.com/help/faqs.php"><b>FAQS</b></a></li>
-                     					</ul>
+					<li><a href="http://www.asiame.com/my/overview.php" rel="nofollow"><b>HOME</b></a></li>
+<li><a href="http://www.asiame.com/online_ladies/"><b>ONLINE</b></a></li>
+<li class="dhtopnone"><a href="http://www.asiame.com/newest_ladies/"><b>SEARCH</b></a></li>
+<li class="dhtopxz"><a href="http://www.asiame.com/help/faqs.php"><b>FAQS</b></a></li>
+                    					</ul>
 				</div>
 			            
-            		</div>
-	
-<script type="text/javascript">
-	var _hscreenW = '';
+            
+		</div>
+
+ <script type="text/javascript">
+ 	var _hscreenW = '';
 	var mouseX;
-	var mouseY;	
+	var mouseY;
 	function show(event) {
 		var isPad = checkPadSystem();		
 		if (isPad) return false;
@@ -333,20 +481,19 @@ with (window.document){
 		mouseX =  e.layerX || e.offsetX;
 		mouseY =  e.layerY || e.offsetY; 
 	}
-</script>      
+</script>   
 <div id="infoDiv" style="display: none; width:210px; height:auto; margin-top:2px; padding:10px 12px; position:absolute; background:#FFFFE7; border:1px #FC9 solid; border-radius:4px; box-shadow:2px 2px 2px #ccc; z-index:100; right:0;">
-	 <span id="js_head" style="position:absolute; right:20px; top:-7px; z-index:101;"><img src="/my/images/jt_head.png" border="0"></span>
+	<span id="js_head" style="position:absolute; right:20px; top:-7px; z-index:101;"><img src="/my/images/jt_head.png" border="0"></span>
 	<span style="font:normal 12px/16px Arial; color:#333;">Now invites from contacts will appear in the sidebar with the <img src="/my/images/icon_invite.png"> symbol.</span>
 </div>
-<!--2017Easter-->
+<!--2017christmas-->
 <div class="dhtopvb">
 </div>
 
-	</div>
+	</div>	
 </div>    <div class="divcent">
-    	 <div class="divleft">
-				
-<div class="menuall">
+		<div class="divleft">
+			<div class="menuall">
 	<div class="menuva">
 	 <div class="tdtitle"><img src="/my/images/icon_about.png" border="0">About</div>
      	 <table width="100%" border="0" cellpadding="0" cellspacing="0" class="faqs_list">
@@ -354,7 +501,7 @@ with (window.document){
             <td></td>
         </tr>
                 <tr>
-          <td><a href="/help/about_us.php" class="titleclick">About us</a></td>
+          <td><a href="/help/about_us.php" class="titleclick">About Us</a></td>
         </tr>
    
                 <tr>
@@ -362,11 +509,11 @@ with (window.document){
         </tr>
    
                 <tr>
-          <td><a href="/help/why_use.php" class="titleclick">Why us</a></td>
+          <td><a href="/help/why_use.php" class="titleclick">Why Us</a></td>
         </tr>
    
                 <tr>
-          <td><a href="/help/term.php" class="titleclick">Terms of use</a></td>
+          <td><a href="/help/term.php" class="titleclick">Terms of Use</a></td>
         </tr>
    
                 <tr>
@@ -385,89 +532,146 @@ with (window.document){
       </tbody></table>
 	<div style="height:12px"></div>
     </div>
-</div>		</div>
-        <div class="divright">		
-		<div class="divbti"><h2><a><b>Personal Privacy and Data Disposal Policy</b></a></h2></div>
-		<div class="rightborva">
-			<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-			  <td>The <a href="https://secure.qpidnetwork.com/help/privacy.php" target="_blank">Qpid Network Privacy Policy</a> describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use iDateAsia.com. The following describes our privacy practices that are specific to iDateAsia.com.<br><br>
-              Welcome to iDateAsia.com ("iDateAsia" or the "Site"). Your privacy is important to us. As such, we provide this Policy explaining our online information practices and the choices you can make about the way your information is collected, processed, maintained and disposed by iDateAsia, including any services owned, operated or offered by or on behalf of iDateAsia, and by third-party service providers if applicable.<br><br>
-              We understand that the privacy of our members, subscribers, guests and/or visitors ("Members", "you" or "your") is very important. We have developed this Policy to ensure that your privacy is protected while using iDateAsia. We reserve the right to change it at any time, and all changes are effective upon posting without notice to you.<br><br>
-              Owing to the global nature of iDateAsia's business conducted over the internet, it is practically impossible for us to comply with all applicable laws / rules / regulations (and the like) as may be prescribed by individual country / region / city. We endeavor to adopt internationally recommended “Best Practices” whilst adhering to the Personal Data (Privacy) Ordinance, laws of Hong Kong which you must agree to as the applicable law in case of dispute arising herefrom.<br><br>
-              Operationally we are in compliance with, though not bound to do so, the general requirements imposed by the Data Protection Principles generally recommended by the US-EU US-Swiss Safe Harbor Frameworks, Organisation for Economic Cooperation &amp; Development, and by the Asia Pacific Economic Cooperation. In particular, we carry out Privacy Compliance Assessment exercise periodically to ensure compliance in respect of notice, choice, onward transfer, security, data integrity, access and enforcement.<br><br>
-              This Privacy Policy applies to your use of iDateAsia. In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy policy to describe how iDateAsia processes personal information. Please review and agree to those Supplementary Privacy Policy.<br><br>
-				<ol>
-				  <br>
-				  <li><span><strong>About iDateAsia and Your Information We Collect</strong></span><br>
-					<br>
-					iDateAsia provides you with access to rich collection of resources, including without limitation various communication tools, products, contents, software, forums, services through its network of web sites (collectively "Services"). In order to provide a full range of services, we may ask you to create an iDateAsia Account (the “Account”) to be our member. In the course of these various offerings, we often seek to collect from you various forms of personal information. We may ask you to create a Personal Profile and it generally includes three sets of information :<br>
-					<br>
-					a) Personal Data<br>
-                    This includes your personal data such as your gender, first, middle and last names, date of birth and ethnicity. This information may be accessed and viewed by others, as determined by your agreement on the specific privacy practices with respect to certain Services.<br><br>
-                    b) Additional Information<br>
-                    You may elect to include your additional information, such as your height, weight, smoker or not, alcoholic or not, native / spoken language(s), education level, religion, profession, whether have children or not, current income range, your marital status, your ideal match age range. You may also include other content, such as a narrative description of yourself and photo(s). This information is stored on our systems, and may be displayed in your public profile on iDateAsia, or included in any communication between Members sent via iDateAsia and other Qpid Network Sites.<br><br>
-                    c) Contact Information<br>
-It consists of your email address, your postal address such as street address, city, state/province, residence country as well as postal code. Your telephone or fax number are required when filling in the registration form. Contact information will not be shown on your profile or other public places.<br>
-					<br>
-				  </li>
-				  <li><strong>How We Use Your Information</strong><br><br>
-					We may use the information you provide about yourself to fulfill your requests for our Services, to respond to your inquiries about our offerings, to offer you other products or services that we believe may be of interest to you, to enforce the legal obligations that govern your use of our Site, to identify problems, to resolve complaint, disputes and/or for the purposes for which you provided the information.<br><br>
-                    You agree that we may use your information to improve our marketing and promotional efforts, to analyze the web site usage, improve our content and product offerings, and customize iDateAsia's content, layout, and services. These uses can help us improve our Site and better tailor it to meet your needs.<br><br>
-				  </li>
-				  <li><strong>Cookies and Historical Information</strong><br>
-					<br>
-					Each time you access the Services, various information is gathered automatically, such as: domain, computer platform, browser type, IP address and place of origin. We gather this information in order to administer and optimize the Services for you and to diagnose problems with our Services and enhance your user experience.<br>
-					<br>
-                    </li>
-                    <li><strong>Your Card Details</strong><br><br>
-					  If you pay by card online, to protect your privacy we engage highly secured industry order processing provided by third-party billing companies such as PayPal. Those companies we cooperate enjoy good reputation and reliability in the industry of its kind. With use of the third-party card processors, your card information is processed through secure server(s), and transferred internally with the protection of powerful encryption tool available. Your customer details will not be sold or made available to anyone else and your card details are only known by our order processors.<br><br>
-					  </li>
-				  <li><strong>Communications</strong><br>
-					<br>
-					If you send us personal correspondence, such as emails or letters, or if other iDateAsia members or third parties send us correspondence about your activities or postings on iDateAsia, we may collect such information that is accessed only by authorized iDateAsia personnel or representatives. We may also collect other members' comments about you.<br>
-					<br>
-				  </li>
-				  <li><strong>Our Disclosure and/or Shared Use of Your Information</strong><br>
-					<br>
-					Under no circumstance will iDateAsia sell or transfer for monetary gains your information to any unrelated third party without your permission, but we may disclose your information to affiliates or unaffiliated third parties if we believe in good faith that such disclosure is necessary: (a) to comply with the law or in response to a subpoena, court order, government administrative request or other due process; (b) to protect the interests, rights, safety, or property of iDateAsia or others; (c) to enforce any terms of service of iDateAsia; (d) to provide you with the services or products requested by you, and to perform other activities related to such services and products, including billing and collection; (e) to provide you with information, special offers, or promotions from iDateAsia to which you consented. iDateAsia makes reasonable efforts to limit its designated service providers' disclosure of your information in the same manner as set forth in this paragraph.<br><br>
-                    Further use and/or disclosure of your information by third parties is not the responsibility of iDateAsia. Rather, such use and/or disclosure is governed by those parties’ policies.<br><br>
-                    As your iDateAsia Account is inter-linked with all our member sites (which means you can activate multiple memberships on those sites when you successfully obtain an Account), we may also share your information with those Sites when they are interested in serving you. You may notify us of your membership preferences any time in our member account settings area. Unless and until you choose to opt-out your membership on iDateAsia, your information may be used by iDateAsia for providing goods and services to you.<br><br>
-				  </li>
-				  <li><strong>Updating Your Information</strong><br><br>
-                  If you want to update or correct inaccuracies in your information, you can login to your account and modify it any time on your own initiative. In the unlikely event of certain information items you do not manage to update through our system, please contact our Customer Support Team for assistance.<br><br>
-                  </li>
-				  <li><strong>Deleting Your Account</strong><br><br>
-                  Gentleman members can require account deletion through submitting email request to our customer service team, specifying whether account deletion of iDateAsia or account deletion of the Qpid Network is needed. When iDateAsia account is deleted, members will not be able to log into iDateAsia and/or check usage history. When the Qpid Network account is deleted, members will not be able to log into all member sites under Qpid Network and use our Services any more.<br><br>
-                  </li>
-				  <li><strong>Technical and/or Operational Security</strong><br><br>
-                  We respect and recognize that personal data are vulnerable to security breach which, if taken place, may cause annoyance or even damages to you (conversely, our business reputation), thus we take reasonably practical measures to protect your personal data. However, given the realistic limitations (e.g. costs / timely delivery of security measures) and rapid revolution of technology, there is always the risk of such breach in which event we cannot be held liable.<br><br>
-                  iDateAsia has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. We use industry standard efforts to safeguard the confidentiality of your personal identity information such as encryption tools, secure server and firewall. While "absolutely fail-safe security" does not exist, our technical experts work hard to ensure your secure use of our services.<br><br>
-                  </li>
-				  <li><strong>Cross-border Transfer of Personal Information</strong><br><br>
-                  Some of the uses and disclosures mentioned in this Policy may involve the transfer of your information to various areas around the world that may have levels of privacy protection different from that of your residence country. By submitting your information via iDateAsia, you consent to such cross-border transfers notwithstanding the restrictions imposed by applicable law / rule / regulation to the contrary.<br><br>
-                  </li>
-				  <li><strong>Links To Third-Party Websites</strong><br><br>
-                  iDateAsia may provide links to third-party websites. Since we do not control third-party sites and are not responsible for any information you may provide while on such sites, we encourage you to read the privacy policies on those web sites before providing any of your personal information on such sites.<br><br>
-                  </li>
-				  <li><strong>Your Agreement to This Policy</strong><br><br>
-                  By using iDateAsia Services, you understand that this Policy applies solely to information collected by iDateAsia, and you agree to the collection, processing, retention and disposal of your information by iDateAsia as outlined herein.<br><br>
-                  </li>
-				</ol>			  </td>
-			  </tr>
-			</tbody></table>
-		</div>
-	</div>
-   </div> 
-	<div class="indnbottomva"></div>
 </div>
 
-<div class="inbotva">
-	<p>
-		<a href="/help/about_us.php">About Us</a><a href="/help/whatisnew.php">News &amp; Media</a><a href="/help/term.php" rel="nofollow">Terms of Use</a><a href="/help/privacy.php" rel="nofollow">Privacy Policy</a><a href="/help/client_protection_policy.php">Client Protection Policy</a><a href="/testimonials/testimonials.php" rel="nofollow">Testimonial</a><a href="/help/faqs.php">Help &amp; FAQs</a><a href="/help/contact_us.php">Contact Us</a><a href="/help/site_map.php">Site Map</a>
-	</p>
-	<p style="padding:5px">Copyright © 2017, Asia Maritus Limited. All Rights Reserved. <br>Best viewed with IE version 9.0 and above.</p>
+<!-- Safe & Secure Start -->
+<style type="text/css">
+	.popup_tips_box { display:inline-block; *display:inline; *zoom:1; font-family:Arial, Helvetica, sans-serif; text-align:center; width:220px; position:relative;}
+	.divleft{padding-bottom:90px;}
+	.arrowra{display:none;content:"";position:absolute;margin-left:-8px;top:68%;width:0px;height:0px;border-color:transparent;border-style:solid;border-width:8px 8px 8px 0;border-right-color:#fff;}
+	.arrowra:after {display:block;content:"";position:absolute;margin-left:-1px;top:-8px;width:0px;height:0px;z-index:-1;border-color:transparent;border-style:solid;border-width:8px 8px 8px 0;border-right-color:#ccc;}
+	.safe_close{background:url(/public/images/icon_close1.png) no-repeat;display:block;cursor:pointer;height:26px;width:26px;position:absolute;right:-12px;top:-12px;}
+	.popup_tips_box .popup_tips { display:none; position:absolute; margin-left:210px; top:-240px; font-size:12px; text-align:left; z-index:9; background:#fff; border:1px solid #ccc; box-shadow:0 0px 10px rgba(0,0,0,0.3);border-radius:6px; -webkit-border-radius:6px; -moz-border-radius:6px; -webkit-animation:bounceInCenter 0.2s both; animation:bounceInCenter 0.2s both;}
+	.popup_tips_box .popup_tips .title { color:#20b91b; font-size:14px; padding:12px 12px 0;}
+	.popup_tips_box .popup_tips .content { padding:6px 12px 15px 12px; color:#333; }
+	.popup_tips_box .popup_tips a:link, .popup_tips_box .popup_tips a:visited {color:#337b16;}
+	.popup_tips_box .popup_tips a:hover{color:#f75819;text-decoration:underline;}
+	.popup_tips_box .popup_tips p { margin-bottom:6px; color:#555; line-height:1.5em;}
+	.popup_tips_box .popup_tips ul{margin:0;padding:0;}
+	.popup_tips_box .popup_tips ul li{ background:url(/public/images/icon_right.jpg) no-repeat; list-style:none; padding-left:18px; margin-bottom:6px;}
+	.popup_tips_box.show .popup_tips { display:block; }
+</style>
+<script>
+$(document).ready(function() {
+	var safe_secure = "<div class='popup_tips_box'><a href='#' class='safeimg'><img src='/public/images/secure_banner.gif'></a><div class='popup_tips' style='margin-top:0;width:400px;animation:none;-webkit-animation:none;'><span class='arrowra'></span><a class='safe_close'></a><div class='title'>You deserve peace of mind when seeking online dating through AsiaMe.</div><div class='content'><p><strong>Your safety is secured by our advanced fraud-prevention system.</strong> We have received documentary evidence verifying the following for all the members on our site:</p><ul><li>1.Name</li><li>2.Photo Identity</li><li>3.Date of Birth</li></ul><p>Meanwhile, our Quality Control Department will conduct regular checks to protect our members' usage of the services.</p><p><strong>Your privacy is our first priority.</strong>  AsiaMe never shares your details with any 3rd party. </p><p><strong>Our safety system and online-purchasing system are protected by McAfee and GoDaddy,</strong> the world's leading certificate authorities. Your messages, contacts and transactions are in safe hands. </p><p>Also you can receive immediate support from our Customer Care to solve every concern in using the service. For more details please check our <a href='/help/client_protection_policy.php' target='_blank'>Client Protection Policy</a> and <a href='/help/safety_tips.php' target='_blank'>Safety Tips</a>.</p></div></div></div>";
+	$(".divleft").append(safe_secure);
+	$(".widgetpos").css("margin-bottom","10px");
+	$(".safe_close").click(function(){$(".popup_tips_box").removeClass("show");});
+	var popuptime;
+	$(".popup_tips_box .safeimg").click(function(e) {
+		$(".arrowra").css("display","block");
+        $(".popup_tips_box").addClass("show");
+		return false;
+    });
+	$(".popup_tips_box ").mouseenter(function() {
+		clearTimeout(popuptime);
+    }).mouseleave(function() {
+		var o = $(this);
+        popuptime = setTimeout(function(){ o.closest(".popup_tips_box").removeClass("show"); }, 300);
+    });
+})
+</script>
+<!-- Safe & Secure End -->
+		</div>
+		<div class="divright">
+			<div class="divbti"><h2><a><b>Personal Privacy and Data Disposal Policy</b></a></h2></div>
+			<div class="rightborva">
+				<p>Welcome to AsiaMe.com ("AsiaMe" or the "Site"). We understand that the privacy of our members, subscribers, guests and/or visitors ("Members", "you" or "your") is very important. As such, we provide this Privacy Policy explaining our online information practices and the choices you can make about the way your personal data is collected, processed, maintained and disposed by AsiaMe, a subsidiary site of Qpid Network. The&nbsp;<a href="https://secure.qpidnetwork.com/help/privacy.php" target="_blank">Privacy Policy</a>&nbsp;describes how we treat your Personal Information when you use AsiaMe.com, as part of Qpid Network services ("Services"). The following describes our privacy practices that are specific to AsiaMe.com and other Qpid Network sites. We reserve the right to update it at any time, and all changes are effective upon posting without notice to you. You are encouraged to revisit this page from time to time. Your use of the&nbsp;Site&nbsp;or our Services after such changes constitutes your agreement to such changes.</p>
+<ol>
+    <li><p>What Information We Collect</p></li>
+    <p>The types of Personal Information that we collect fall under two general categories: personally identifiable information (PII) and non-personally identifiable information (non-PII). PII consists of any information which can be used to specifically identify you as an individual, whereas non-PII consists of aggregate information or any information that does not reveal your identity. The following paragraphs explain what PII and non-PII we collect from you, and how we use such information.</p>
+    
+    <li><p>How We Collect and Use Information</p></li>
+        <ul>
+            <li><p><u>Cookies.</u>&nbsp;We use&nbsp;"cookies" to keep track of some types of information while you are visiting any of our Websites or using our services. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our websites and distinguish repeat visitors from new ones. They also allow us to save member preferences and track member trends. We rely on cookies for the proper operation of our Websites; therefore if your browser is set to reject all cookies, the Website(s) will not function properly and you may not enjoy all of our Services. Members who refuse cookies assume all responsibility for any resulting loss of functionality of our Websites. We do not link the cookies to any of our members’ PII.</p></li>
+            <li><p><u>Log Files.</u>&nbsp;Any time you visit any of our Websites, our servers automatically gather information from your browser (such as your IP addresses, browser type, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks) to analyze trends, administer our Websites, prevent fraud, track visitor movement in the aggregate, and gather broad visitor demographic information. For example, we may log your IP address for system administration purposes. IP addresses are logged to track a user’s session. This gives us an idea of which parts of our Websites our members are visiting. We do not share the log files externally.</p></li>
+            <li><p><u>Web Beacons.</u>&nbsp;"Web beacons" (also known as&nbsp;"clear gifs" and&nbsp;"pixel tags") are small transparent graphic images that are often used in conjunction with cookies in order to further personalize our Websites for our users and to collect a limited set of information about our visitors. We may also use web beacons in email communications sent to you in order to understand the behavior of our members. We do not link the web beacons to any of our members’ PII.</p></li>
+            <li><p><u>Mobile Analytics.</u> We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use our applications, the events that occur within the applications, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any of your submitted PII within the mobile application.</p></li>
+            <li><p><u>Your Information.</u>&nbsp;When you register or subscribe to any of our Services, we collect a wide variety of information about you. Your profile information, including non-PII about yourself (such as first name, nationality, profession, height, weight, etc.) will be used to build your "My Profile." We may also display your relationship status and other profile/account information to your matches. Finally, for interactive content, including but not limited to CharmLive, where you may choose to have a public profile, we may display your information to other members and visitors. You may choose to provide us with your photo(s) or video(s) and by providing us such content, you agree that we may make them available to your matches and users of our Services. Except as otherwise stated in this Privacy Policy, we do not disclose your PII to your matches or other users of our Services.</p></li>
+            <li><p><u>Purchase Information.</u>&nbsp;To process purchases, we may require your name, address, phone number, email address and credit card information. Such information is used primarily to process your order or as otherwise described herein. Credit card transactions are processed through industry standard Secure Socket Layer (SSL) and/or strong encryption (3DES) by a third party, which only uses your information for that purpose.</p></li>
+            <li><p><u>E-mails.</u>&nbsp;You are require to produce an e-mail address when you register for our Services. We use your e-mail for both transactional (e.g. order placement and confirmation, refund and renewal processing, notifying you of our suggested matches) and promotional (e.g., newsletters, new product offerings, special discounts, event notifications, special third-party offers) purposes. Our e-mail messages may contain codes that enable our database to track your usage of the e-mails, including whether the e-mail was opened and what links (if any) were opened. If you do not want to receive promotional e-mails from us, please see the section below labeled&nbsp;"Opt-Out". We reserve the right to send you certain communications relating to our Services, such as service announcements, terms and policies updates and administrative messages, without offering you the opportunity to opt out of receiving them. We may also contact you by email, tickets and/or telephone (including to any wireless number you may provide to us) solely in connection with our Services. If you would rather not receive emails, tickets or telephone calls from us, you may change or delete your number by contacting us for it to be removed from our contact list. </p></li>
+            <li><p><u>Mobile Device</u>&nbsp;If you use your mobile device to access our Websites or download any of our applications, we may collect device information (such as your mobile device ID, model and manufacturer), operating system information, IP address and etc. We collect your geolocation information only with your consent.</p></li>
+            <li><p><u>Demographic Data.</u>&nbsp;We collect demographic data from our members and visitors. We use this data to tailor your user experience at our Websites, showing you content that we think you might be interested in, and displaying the content according to your preferences. Some of this information may be shared with advertisers on a non-personally identifiable basis.</p></li>
+            <li><p><u>Online Survey Data.</u>&nbsp;We may periodically conduct voluntary member surveys. We encourage you to participate in such surveys to help us improve our Services. All responses are anonymous and do not involve any of your PII.&nbsp;</p></li>
+        </ul>
+    
+    <li><p>Mobile Device Additional Terms</p></li>
+        <ul>
+            <li><p><u>Mobile Device</u>&nbsp;If you use a mobile device to access our site or download any of our applications, we may collect device information (such as your mobile device ID, model and manufacturer), operating system and version information, and IP address.&nbsp;</p></li>
+            <li><p><u>Geo-Location Information.</u>&nbsp;We do not ask you for, access or track any location-based information from your mobile device at any time while downloading or using our mobile apps or our Services.</p></li>
+            <li><p><u>Push Notifications.</u>&nbsp;We send you push notifications if you choose to receive them for notifying you of our matching services, letting you know when someone has sent you a message, or for other related matters. If you wish to opt-out from receiving these types of communications you may turn them off at the device level.</p></li>
+        </ul>
+    
+    <li><p>Disclosure of Your Information</p></li>
+        <ul>
+            <li><p><u>Disclosure to Your Matches.</u>&nbsp;Our matching services remain an integral part of providing our Services which involves disclosing your profile information to your matches. Photos and other profile information posted by you will be available to other members matched with you. We never share your contact information with your matches without your consent.</p></li>
+            <li><p><u>Disclosure By Law.</u>&nbsp;You acknowledge and agree that we may disclose information you provide if required to do so by law, at the request of a third party, or if we, in our sole discretion, believe that disclosure is reasonable to (1) comply with the law, requests or orders from law enforcement, or any legal process (whether or not such disclosure is required by applicable law); (2) protect or defend our company’s rights, or a third party’s, rights or property; or (3) protect someone’s health or safety, such as when harm or violence against any person (including you) is threatened.</p></li>
+            <li><p><u>Disclosure to Protect Abuse Victims.</u>&nbsp;Notwithstanding any other provision of this Privacy Policy or our Terms of Use we reserve the right, but have no obligation, to disclose any information that you submit to the services, if in our sole opinion, we suspect or have reason to suspect, that the information involves a party who may be the victim of abuse in any form. Abuse may include, without limitation, bullying, elder abuse, child abuse, spousal abuse, neglect, or domestic violence. Information may be disclosed to authorities that we, in our sole discretion, deem appropriate to handle such disclosure. Appropriate authorities may include, without limitation, law enforcement agencies, child protection agencies, or court officials. You hereby acknowledge and agree that we are permitted to make such disclosure.</p></li>
+            <li><p><u>Disclosure to Trusted Third Parties By Us.</u>&nbsp;We may share your non-PII with our third parties, but not in a manner that would reveal your personal identity. We may share your PII, sometimes in conjunction with your non-PII, with service providers that may be associated with us to perform functions on our behalf. For example, outsourced translation agents or IT technology contractors may need access to your information to perform services for you. Your information will be treated as private and confidential by such service providers and will not used for any purpose other than those identified in the Terms of Use and this Privacy Policy.</p></li>
+            <li><p><u>Information Transferred As a Result of Sale of Business.</u>&nbsp;As we develop our business, we may buy or sell assets and, depending on the transaction, your PII may be one of the transferred assets. In the event that we are acquired by another company, your PII may be part of the assets transferred to the acquiring party. If this occurs, you will be notified if there are any material changes to the way your PII is collected or used.</p></li>
+        </ul>
+    
+    <li><p>Third-Party Advertising</p></li>
+        <p>We may use third-party advertising agencies or other service providers to serve ads on our website on behalf of Asiame.com or third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and web beacons to measure advertising effectiveness. Any information that these third parties collect via cookies and web beacons is completely anonymous.</p>
+    
+    <li><p>Age Restrictions</p></li>
+        <p>Our age restrictions are set forth in each applicable Terms of Use. We do not target our Websites or our Services to anyone under the age of 18, any information we may receive from any visitor we believe to be under the age of 18 will be deleted from our database.</p>
+    
+    <li><p>Security</p></li>
+        <p>We use encryption and authentication tools to guard against loss, misuse and alteration of our your information shared with us. Security measures include the use of Secure Socket Layer (SSL) and/or strong encryption (3DES) technology during credit card transactions and administrative access to site data, which are applied to all repositories and transfers of user information. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, we cannot guarantee or warrant the security of any information you transmit to or from our web sites, and you do so at your own risk. Once we receive your transmission, we will do our best to protect its security on our systems.</p>
+    
+    <li><p>Links to or Access from Other Sites</p></li>
+        <p>You may be able to access your account or content of your account from third party sites, such as social networking sites, by way of various applications. The privacy policies and practices of such sites which apply to information you provided to such sites may differ from our practices as set forth in this Privacy Policy. You are encouraged to review their policies and practices to ensure that your privacy is protected. Such sites may also place their cookies or other files on your computer and they may collect personal data or solicit other information from you. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any Personal Information on such site.</p>
+    
+    <li><p>Opt-Out</p></li>
+        <p>You may use the following options for removing your information, including any unauthorized profile, from our e-mail database if you wish to opt out of receiving promotional e-mails and newsletters.</p>
+        <p>1.Click on the "unsubscribe" link on the bottom of the e-mail;</p>
+        <p>2.Send ticket to us letting us know which promotional e-mails you wish to opt-out of; or</p>
+        <p>3.Select from our&nbsp;FAQs&nbsp;to find the answer you are looking for, or&nbsp;send us a ticket and our customer service team will be happy to assist you.</p>
+    
+    <li><p>Updating Your Personal Information</p></li>
+        <p>We provide users the following options for updating information previously submitted, including deletion of your Personal Information.</p>
+        <p>1.For account settings, you may change your personal information such as height, weight, ethnicity and other information from&nbsp;"My Profile" settings; or</p>
+        <p>2.You can send ticket to our customer service team to amend or delete your account information at any time. </p>
+    
+    <li><p>Data Retention</p></li>
+        <p>Because many of our members tend to use our Services at different points of their relationship-seeking life, we retain your Personal Information for continued service and convenience purposes until you advise us not to do so. Notwithstanding the foregoing, we may retain Personal Information in order to comply with applicable laws, keep accurate records, resolve disputes, prevent fraud, enforce our Terms of Use or other agreements, or for any other legally permissible purpose.</p>
+    
+    <li><p>Contacting Us</p></li>
+        <p>If you have any questions about this Privacy Policy, the practices of our Websites, or your dealings with any of our Websites, you can contact us at <img src="/public/web2018/images/help/email_csssupport.jpg" border="0" style="vertical-align:bottom;"></p>
+    
+    <li><p>Onward transfer and consent to international processing</p></li>
+        <p>We are a growing corporation with users and operations in multiple countries, including the European Union. We have developed data practices designed to assure information is appropriately protected but we cannot always know where Personal Information may be accessed or processed. In addition, we may employ other companies and individuals to perform functions on our behalf. If we disclose Personal Information to such authorised third party, we will seek assurances that any information we may provide to them is safeguarded adequately and in accordance with this Privacy Policy and the requirements of applicable privacy laws.</p>
+        <p>If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal data, including sensitive data, by us from your region to countries which do not have data protection laws that provide the same level of protection that exists in countries in the European Economic Area. By providing your Personal Information, you consent to any transfer and processing in accordance with this Privacy Policy.</p>
+    
+    <li><p>Acceptance of Privacy Policy</p></li>
+        <p>Your use of our Websites, including any dispute concerning privacy, is subject to this Privacy Policy and the applicable Terms of Use.&nbsp;<strong>BY USING OUR WEBSITES, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY AND THE APPLICABLE TERMS OF USE.</strong></p>
+        <p>If we decide to amend our Privacy Policy, we will post those changes on this page and additionally any other place on the Websites we deem appropriate so that you may become aware of it. We reserve our right to modify this Privacy Policy at any time, so please come and revisit this page frequently. If we make material changes to this Privacy Policy, we will notify you here, or by other means, such as e-mail, at our discretion.</p>
+        <p>Your continued use of any portion of our Websites following posting of our updated Privacy Policy will constitute your acceptance of the changes.</p>
+    
+    <li><p>Effective Date</p></li>
+        <p>This Privacy Policy was last revised on May 24, 2018.</p>
+        <p>Copyright © 1998-2018 Asia Maritus Limited. All Rights Reserved. Other trademarks and brands are the property of their respective owners.</p>
+    
+</ol>
+			</div>
+		</div>
+	</div>
+	<div class="indnbottomva"></div>	
 </div>
+
+
+<div class="inbot">
+    <div class="inbotva">
+        <p>
+			<a href="/help/about_us.php">About Us</a><a href="/help/whatisnew.php">News &amp; Media</a><a href="/help/term.php" rel="nofollow">Terms of Use</a><a href="/help/privacy.php" rel="nofollow">Privacy Policy</a><a href="/help/client_protection_policy.php">Client Protection Policy</a><!--<a href="/testimonials2_0_1.html" rel="nofollow">Testimonial</a>--><a href="/help/faqs.php">Help &amp; FAQs</a><a href="/help/contact_us.php">Contact Us</a>		</p>
+		<p style="padding-top:10px;">Copyright © 1998-2018 All Rights Reserved. <br>Best viewed with IE version 10 and above.</p>
+	</div>
+</div>
+<br>
+
+
+
 <div id="camshareoffshow" class="outlineshow_pop" style="display:none;">
 	<p class="pop_close"><a href="javascript:void(0);" title="Close" class="outlinepop_close" id="outlinepop_close" onclick="closeTipsCamoff()"></a></p>
 	<div class="outlinetop_con">
@@ -500,7 +704,7 @@ It consists of your email address, your postal address such as street address, c
 	 
     <div class="camoff_btn1" style="display:block;">
         <div class="outlines_word">
-         Sorry,  your current browser does not support CamShare service, you can chat with the lady using Live Chat.
+        Sorry,  your current browser does not support CamShare service, you can chat with the lady using Live Chat.
         </div>    
         <div>
             <a class="outlines_btn" onclick="javascript:closeTipsCamPad();StartChatWin(this.title,'',0);" title=""><img src="/my/images/chat_btn_ico.png" align="absmiddle">START LIVE CHAT</a>
@@ -508,19 +712,22 @@ It consists of your email address, your postal address such as street address, c
  	</div>
     
 </div>
-<div id="tipscamoff_popbg" class="regnew_popbg" style="display:none"></div> <!-- Google Tag Manager -->
+<div id="tipscamoff_popbg" class="regnew_popbg" style="display:none"></div>
+
+
+<!-- Google Tag Manager -->
 <script type="text/javascript">
 	_QPID_GA_UID="";
-	_QPID_GA_ULV="";
+    _QPID_GA_ULV="";
   monthGroup="";
 </script>
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TB4ZNC"
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W6WSMJ"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TB4ZNC');</script>
+})(window,document,'script','dataLayer','GTM-W6WSMJ');</script>
 <!-- End Google Tag Manager -->
 
 </body></html>
