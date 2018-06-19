@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the perfectaudience.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203121002id_/http%3A//www.perfectaudience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectaudience.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619042524id_/http%3A//www.perfectaudience.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Perfect Audience
 
 [Platform Opt-out](http://pixel-geo.prfct.co/coo)       [Partner Opt-out](http://ib.adnxs.com/optout)
+
+[Facebook Opt-out](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen)
 
 _Last updated July 27, 2012_
 
