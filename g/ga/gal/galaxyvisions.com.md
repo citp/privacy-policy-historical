@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galaxyvisions.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226195318id_/http%3A//www.galaxyvisions.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galaxyvisions.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619143530id_/http%3A//www.galaxyvisions.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # GalaxyVisions Privacy Policy
 
