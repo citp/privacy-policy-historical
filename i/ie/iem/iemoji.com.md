@@ -1,60 +1,62 @@
-> *The following text is extracted and transformed from the iemoji.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224004036id_/http%3A//www.iemoji.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iemoji.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619063219id_/http%3A//www.iemoji.com/help/privacy) for the most accurate reproduction.*
 
-# iEmoji.com - Lookup, Convert, and Tweet with iPhone Emoji!
+# 😍iEmoji.com - 👀Lookup, ✨Convert, and 💁Tweet with Emoji! 🔥
 
-Reputability is a very high concern of ours.
+[Click here to view the Site Terms and Conditions](https://web.archive.org/help/terms)
 
- **What information do we collect?**
+Questions? Contact: convert.emoji+contact@gmail.com
 
-We save only the Facebook uid number when an fb user logs into the site, and save the id uid of the friends the user's wall that they post to.No names or personal information. We save these things for the safety of all fb users that use our site in case of abuse or technical problems that arise. We save nothing else. 
+We promise to never store any of your personal information, ever. Our reputation is very important to us and we intend to earn and keep our solid reputation through demonstrated transparency, integrity, and consistency. The purpose of this Privacy Policy is to explain the collection, use, and disclosure of “personal information” by iEmoji.com. This Privacy Policy also explains our commitment to you with respect to our use and disclosure of non-personal browsing and site usage data that iEmoji.com collects. By accessing and using iEmoji.com, you are accepting and agreeing to the practices in this Privacy Policy. 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+This Privacy Policy does not apply to any of the websites operated by affiliates of iEmoji.com or any links to non-affiliated websites that may be provided through the Twitter.com tweets that we display. 
 
- **What do we use your information for?**
+### Personal Information
 
-Any of the information we collect from you may be used in one of the following ways: 
+Personal information means information that would allow a party to identify you such as, for example, your name, address or location, telephone number or email address. Generally, we do not ask for or collect personal information through iEmoji.com. However, part of our service is to provide access to and display public tweets made through Twitter.com. These public tweets are displayed the same as they are on Twitter.com and include the Twitter user name, a profile picture, and the information in the tweet itself. 
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+Our website also allows connection to Twitter. We save Twitter user ID numbers when a Twitter user logs into the site. We also save the Twitter screen name, name, the status text and metadata about the status that people post from iEmoji.com in order to properly display the tweet. We save Twitter ID numbers to address technical problems that can arise and monitor abuse of our website. 
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+We may also collect personal information when people send us an email or any other form of communication. 
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+### Disclosing of Personal Information
 
-; To process transactions
+In general, it is not iEmoji.com’s practice to disclose personal information to third parties without our consent. In addition, we store very limited non-public personal information and thus have very little if any personal information to disclose. That said, we may share personal information in two instances: 
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * First, iEmoji.com may share personal information with our contractors and service providers in order to maintain, enhance, or add to the functionality of the Websites or services.
+  * Second, we may disclose your personal information to third parties in a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Terms and Conditions of Use and Privacy Policy; (c) comply with legal process, such as a search warrant, subpoena, statute, or court order; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public.
 
-**How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-**Do we use cookies?**
+### Data Usage Policy: Non Personal Browsing and Site Usage Information
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Our Data Usage Policy covers how we maintain and use information about you that is collected by iEmoji.com and server logs.
 
-We use cookies to understand and save your preferences for future visits.
+Non Personal Browsing Information We Collect. When you use iEomji.com, our servers (which may be hosted by a third party service provider) may collect information indirectly and automatically (through, for example, the use of your “IP address”) about your activities while visiting iEmoji.com and information about the browser you are using.
 
- **Do we disclose any information to outside parties?**
+No Linking. We do not intentionally link browsing information or server logs to the personal information you submit to us. We use this information for internal purposes only, such as to help understand how iEomji.com is being used, to improve iEomji.com and the features we provide, and for systems administration purposes. We may use a third party analytics provider to help us collect and analyze non personal browsing information through operation of iEomji.com for those same purposes. For opt-out options view the Google Analytics [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+### Third-Party Advertising
 
- **California Online Privacy Protection Act Compliance**
+We sell advertising space on iEmoji.com and advertisers typically prefer to tailor the advertising experience for our users. This often requires the use of non-personal browsing data, which are obtained through cookies and other industry methods.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
- **Childrens Online Privacy Protection Act Compliance**
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. iEmoji.com also uses cookies to understand and save your preferences for future visits. Once again, for opt-out options view the Google Analytics [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+### Reorganization or Spin-Offs
 
- **Your Consent**
+iEmoji.com may transfer some or all of your personal and/or non-personal browsing information to a third party as a result of a reorganization, spin-off or similar transaction. Upon such transfer, the acquirer’s privacy policy will apply. 
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+California Online Privacy Protection Act Compliance Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. Childrens Online Privacy Protection Act Compliance  We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we will never knowingly request or collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
- **Changes to our Privacy Policy**
+### Third-Party Sites
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+iEmoji.com may include links to other websites or services. You should consult the respective privacy policies of these third-party sites and services. This Privacy Policy does not apply to, and we cannot control the activities of, such other websites and services. 
 
-This policy was last modified on 01/28/2011
+### Changes and Updates to this Privacy Policy
+
+We may occasionally update this Privacy Policy. When we do, we will also revise the Effective Date below. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of iEmoji.com constitutes your agreement to this Privacy Policy and any updates.
+
+If you have questions please contact us at convert.emoji+contact@gmail.com.
+
+Effective Date: November 21, 2013
