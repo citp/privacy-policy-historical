@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubebuddy.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829175331id_/https%3A//www.tubebuddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubebuddy.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619085123id_/https%3A//www.tubebuddy.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TubeBuddy
 
@@ -9,116 +9,126 @@ Media, Brands and Agencies.
 
 [Learn More](https://web.archive.org/enterprisecontact)
 
-**What information do we collect?**   
-We collect information from you when you place an order, link your YouTube channel or use our tools/features. 
+**Introduction**
 
-• Placing order  
-When placing your order, we may ask for your name, address, email address and credit card information. We do not save your credit card number or address.  
-All our payment processing is handled by BrainTree/Paypal. You can find information regarding their Privacy Policy here - [BrainTree/Paypal Privacy Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)
+TubeBuddy is aware of the privacy concerns of its customers. Our policy for collecting and using personal information is detailed below. 
 
-• Linking your YouTube channel  
-When linking your YouTube channel to your TubeBuddy account, we keep meta data and authorization data connected to your YouTube channel. We use this data to allow us to use the YouTube API (see below) to access your account when you authorize us to perform actions on your channel.
+**General Data Protection Regulation (“GDPR”)**
 
-• Using TubeBuddy tools/features  
-The primary purpose of TubeBuddy is to reduce the effort it takes you to manage your YouTube channel. In order for us to achieve this objective, we maintain certain Channel and TubeBuddy account data to perform the tasks you ask us to perform. We never perform any task unless you instruct us to do so.
+Privacy and data security are a top priority at TubeBuddy. We have implemented policies designed to address GDPR and help us better protect your information. 
 
-**What do we use your information for?**   
-Any of the information we collect from you may be used in one of the following ways: 
+This Privacy Policy describes how TubeBuddy collects, uses, and discloses certain personally identifiable information that we receive in the US. 
 
-• To process updates requested by you  
-(based on your request, we will update your channel or video information per your instructions)
+**Information Collected**
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+TubeBuddy collects information about its Customers from Customers. The data that we collect include: 
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-
-• Industry research studies  
-TubeBuddy teams up with industry experts from time to time on research studies. Authenticated channel data is used in these studies 100% anonymously, however you can always opt-out of the studdies on your Channel Settings page on TubeBuddy.com.
-
-• To process transactions  
-Identifiable information, whether public or private, will not be processed, sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
-  
-• To send periodic emails  
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-**How do we protect your information?**   
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. When linking your channel to TubeBuddy, the link is made via Google's secure OAuth 2.0 Protocol. Using this method of access results in us not needing to know or keep your user id or password. 
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-**We use YouTube API Services as part of our processing.**   
-YouTube provides an API (Application Programming Interface) that TubeBuddy uses to access your channel information. Information about the YouTube API services and Google's privacy policy can be found below.
-
-• YouTube API information: [YouTube API](https://developers.google.com/youtube/terms/developer-policies#definition-youtube-api-services)   
-• Google Privacy Policy: [Google Privacy Policy](http://www.google.com/policies/privacy)
-
-**How can you revoke TubeBuddy's access?**   
-TubeBuddy accesses your channel in 2 ways. If you no longer want TubeBuddy to access your channel information, it will require two steps.
-
-  1. Uninstall the TubeBuddy plugin:   
-[Chrome](https://support.google.com/chrome/answer/113907?hl=en)  
-[Firefox](https://support.mozilla.org/en-US/kb/disable-or-remove-add-ons#w_how-to-remove-extensions-and-themes)   
-[Safari](https://discussions.apple.com/thread/2523541?tstart=0)
-  2. Remove TubeBuddy's access to your channel via the YouTube API:   
-[Google security settings](https://security.google.com/settings/security/permissions)
+  * Payment information provided by the Customer is collected and processed by [Braintree](https://www.braintreepayments.com/) (a PayPal company) in accordance with PCI DSS guidelines and may be tokenized for future use depending on the services.
+  * TubeBuddy collects information that is not personally identifiable to the user, such as referring URL addresses, time spent in certain areas of TubeBuddy's website or plugin, actions taken while on TubeBuddy's website, and origination of the user.
+  * Certain information such as your IP address, browser type, and access times may also be collected.
+  * To receive products and services sold or provided by TubeBuddy, contact information is required for billing, communicating about the services, and to perform the services.
+  * TubeBuddy collects some data about your YouTube channel as permitted by [YouTube's](https://www.youtube.com/) Terms of Service for use by our tools.
 
 
 
-**Does TubeBuddy use Cookies?**   
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+**Information Usage**
 
-We use cookies to understand and save your preferences for future visits.
+We use information that we collect that Customer’s provide to us, including any personal information to: 
 
-By agreeing to our Terms of Use - [TubeBuddy Terms of use](https://security.google.com/settings/security/permissions) you are specifically consenting to our use of cookies on your PC **Do we disclose any information to outside parties?**
+  * Present our website and its contents to our Customers
+  * To provide you with information, products, or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between the Customer and us.
+  * To notify Customers of any changes to our website or any products and services that we offer or provide through it.
+  * To provide notifications regarding the Customer’s services, accounts, fulfillment of transactions, information about TubeBuddy’s websites, service changes, special offers, legal notices, and newsletters.
+  * To display your channel thumbnail, company logo, or name on our website or advertisements for marketing purposes (you may opt out by emailing [support@tubebuddy.com](mailto:support@tubebuddy.com) or updating your privacy settings on linked channels).
+  * For any other purposes with your consent.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+TubeBuddy may use the information and data submitted by users and customers for any other purposes related to TubeBuddy's business that are compatible with the purposes for which your information was collected by TubeBuddys, including, but not limited to, conducting market research, improving its products and services, sending surveys, and notifying customers of product upgrades and updates, new products, special offers, seminars and conventions and any other changes within TubeBuddy that may affect customers and users. 
 
-**California Online Privacy Protection Act Compliance**
+**Third parties with whom TubeBuddy Shares Information**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+TubeBuddy's policy in relation to information collected through registration, testing, and/or any other means is to respect and protect the privacy and confidentiality of our users. TubeBuddy does not disclose, rent, or sell email addresses or any other information that we may receive to any third party, unless: 
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+  * requested by the customer;
+  * in response to duly authorized information requests of governmental authorities or where required by law;
+  * in connection with any legal proceedings where disclosure of such data has been requested or required; or
+  * to an agent of TubeBuddy acting on behalf of TubeBuddy (e.g., for database hosting, data processing or mailing services). In this case, TubeBuddy will make certain that the agent complies with the GDPR and and our commitments in this policy.
+
+
+
+Privacy Policies of 3rd Parties We Integrate With
+
+  * Applies to All Customers - [YouTube API Terms of Service](https://developers.google.com/youtube/terms/developer-policies#definition-youtube-api-services)
+  * Applies to All Customers - [Google Privacy Policy](http://www.google.com/policies/privacy)
+  * Applies to Paying Customers - [BraintreePayments Privacy Policy](https://www.braintreepayments.com/legal/braintree-privacy-policy-us)
+  * Applies to Affiliates - [PayPal Privacy Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)
+  * Applies to Customers who opt in to AudioHero - [AudioHero Privacy Policy](http://www.audiohero.com/privacy-policy.html)
+  * Applies to Customers who opt in to 3PlayMedia - [3PlayMedia Privacy Policy](https://www.3playmedia.com/privacy-policy/)
+  * Applies to Customers who opt in to MagicLinks - [MagicLinks Privacy Policy](https://www.magiclinks.org/rewards/privacy/)
+  * Applies to Customers who opt in to Patreon - [Patreon Privacy Policy](https://www.patreon.com/privacy)
+
+
+
+**Access to Information**
+
+TubeBuddy understands the importance of maintaining accurate information. Data subjects may exercise the following rights:
+
+  * Right to Access – TubeBuddy will provide Customers with the Personal Data collected in association with their account.
+  * Right to Rectification – TubeBuddy allows Customers to update their information on the TubeBuddy website.
+  * Right to Erasure: Customers may choose to remove information collected by TubeBuddy
+  * Right to be informed – TubeBuddy will inform the Customer of the Personal Data collected by TubeBuddy.
+  * Right to Object – A contact at a Customer may object to TubeBuddy processing his/her data.
+  * Right to Restrict Processing – a contact at a Customer may restrict TubeBuddy's processing of personal data.
+  * Right to Data Portability – a contact at a Customer may request that their Personal Data be moved to another company.
+  * Right to be Informed – a contact at a Customer may request to be informed about the completion of rectification, erasure (before the erasure takes place), or restriction of processing within 30 days of the request.
+
+
+
+If you would like to exercise one of these rights, please contact us by email at [support@tubebuddy.com](mailto:support@tubebuddy.com) or in writing addressed to TubeBuddy, Inc., PO Box 3526, Pismo Beach, CA 93448. TubeBuddy will respond to the request within thirty (30) days. 
+
+**Retention**
+
+TubeBuddy retains information for as long as an account is active or as needed to provide the services requested by the Customer. TubeBuddy will also retain information as needed to comply with legal or tax obligations, comply with industry regulations, resolve disputes, and enforce agreements.
+
+**Privacy Questions or Complaints**
+
+You can direct any questions or complaints about the use or disclosure of your Personal Data to us at [support@tubebuddy.com](mailto:support@tubebuddy.com). We will investigate and attempt to resolve any complaints or disputes regarding the use or disclosure of your Personal Data within 30 days of receiving your complaint. 
+
+**Data Security**
+
+TubeBuddy maintains reasonable and appropriate security measures to protect Personal Data from loss, misuse, unauthorized access, disclosure, alteration, or destruction. 
+
+**Use of Cookies**
+
+TubeBuddy uses cookies to track how you interact with our website to optimize your experience with TubeBuddy. TubeBuddy does not sell cookies information to third parties or track you outside of TubeBuddy's website. 
+
+**Opt Out**
+
+If you do not wish to have your contact information used by TubeBuddy to promote our own products or services, you can opt-out by checking the relevant box located on the user profile page. If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions, or by following the opt-out instruction in the email. This opt out does not apply to information provided to TubeBuddy as a result of a(n) product purchase, account updates, product service experience, service expiration, or other transactions. 
 
 **Childrens Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+
+**Amendments**
+
+This privacy policy may be amended from time to time. We will post any revised policy on this website. 
 
 **Terms and Conditions**
 
 Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Use](https://web.archive.org/termsofuse)
 
-**Your Consent**
+**Contact**
 
-By using our site, you consent to our web site privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+To access your information, ask questions about our privacy practices, request to limit the disclosure of your personal information, or issue a complaint, contact us at:
 
 TubeBuddy  
 PO Box 3526  
-Pismo Beach, California, USA 93449  
+Pismo Beach, CA 93448  
 [support@tubebuddy.com](mailto:support@tubebuddy.com)  
-[Click link to contact us](https://www.tubebuddy.com/contact)
 
-Effective Date: July 13, 2017 
 
-**Summary**   
-We respect your privacy and use the most powerful security measures available to ensure information submitted on our site is safe. Your personal information will not be given out or sold to anyone under any circumstances. 
+Effective Date: May 23, 2018
