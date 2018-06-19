@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the minijobz.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216042906id_/http%3A//minijobz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minijobz.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620010939id_/http%3A//minijobz.com/privacy.php) for the most accurate reproduction.*
 
-# minijobz-Get your mini jobs done at low cost, Earn money advertising your services, Get paid to click...
+# Privacy Policy | Minijobz
 
 Privacy Policy
 
-Welcome to the Minijobz, a web service utility that connects employers and workers on a micro level. The Minijobz is operated by Minijobz, Inc. and its subsidiaries and affiliates ("us," "we",  "Minijobz", "site" or "Minijobz"). By using or accessing the Minijobz, you agree that you have read, understand and are bound by these Terms of Use ("Terms"). We reserve the right, at our sole discretion, to change or delete portions of these Terms at any time without further notice. Your continued use of the Minijobz after any such changes constitutes your acceptance of the new Terms.
+Welcome to the Minijobz, a web service utility that connects employers and workers on a micro level. The Minijobz is operated by Minijobz, Inc. and its subsidiaries and affiliates ("us," "we",  "Minijobz", "site" or "Minijobz"). By using or accessing the Minijobz, you agree that you have read, understand and are bound by these Terms of Use ("Terms"). We reserve the right, at our sole discretion, to change or delete portions of these Terms at any time without further notice. Your continued use of the Minijobz after any such changes constitutes your acceptance of the new Terms.
 
-Minijobz Principles
+Minijobz Principles
 
 We built Our website to make it easy to (a) advertise your product (b) find people who will be interested in helping you promote your website, product, etc. (c) find people who will help you do work for you - finish tasks you usually are not able to finish yourself or you want more people to work on a task (d) convert your work into earnings. We understand you may not want everyone in the world to access your personal information; that is why all personal information is hidden from other users. Our  privacy settings is very strict and does not allow other users to see any of your personal information except your member ID $ Name.
 
-Minijobz does not share information with other users. As employer you choose what information you put in response to replying to a worker. As a worker you choose what information you put in response to replying to an employer. We suggest you not to reply with any personal information such as your MSN ID, Skype ID, Email, phone number, etc.. There is no need to publish any of your personal information as all communication in Minijobz system is based upon user ID.
+Minijobz does not share information with other users. As employer you choose what information you put in response to replying to a worker. As a worker you choose what information you put in response to replying to an employer. We suggest you not to reply with any personal information such as your MSN ID, Skype ID, Email, phone number, etc.. There is no need to publish any of your personal information as all communication in Minijobz system is based upon user ID.
 
 If you are trying to submit finished task and campaign (job) is asking you to (requires you to)  enter personal information, credit card information or any other information about you, such campaign violates xxxxxxxx principles and you should not continue. We suggest you not to continue with that campaign and immediately report this violation to us. Use Contact us form or Plain Job's email and report campaign/job ID and disclose as many details as possible. We will make sure to immediately terminate campaigns that violates our rules.
 
@@ -94,7 +94,7 @@ Your use of xxxxxxxx, and any disputes arising from it, is subject to this Priva
 
 Contacting the Web Site
 
-If you have any questions about this privacy policy,   
+If you have any questions about this privacy policy,   
 please contact us through the Contact us form or via xxxxxxxx email published on the Site.
 
 Thank you  
