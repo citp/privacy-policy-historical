@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instem.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527073154id_/http%3A//www.instem.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instem.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619045127id_/http%3A//www.instem.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Instem - Privacy Policy
 
@@ -10,9 +10,9 @@ Instem plc and its group companies are committed to protecting your privacy.  T
 
 Please read this privacy policy carefully.  By using this website, you agree to the way in which your personal information will be used as set out in this policy.   
 
-### Information we may collect from you
+### Information we may collect from you and track
 
-When you use our website, we collect and process personal information about you.   
+When you use our website, we track, collect and process personal information about you.   
 
 This includes information which you may provide to us when you complete one of the forms on our website.  For example, you may do this to make an enquiry with us or to request further information from us about one of our products or services.  This might include a request for a quote or a virtual demonstration. 
 
@@ -24,13 +24,13 @@ The information which we may hold about you will usually include your name and j
 
 We may also hold information about interest which you have shown in any of our products and services and may also keep a record of correspondence which you have sent to us, including a record of any complaints.
 
-We may collect information about your computer, including if available, your IP address, operating system and browser type for system administration purposes.  We may also collect information about visits to our website including for example, traffic data, location data and other communications data. 
+Using certain secure technologies, we are often able to track what pages on our Web site you have visited, can confirm what business entity you are associated with and identify the general location (country, state) of your business. When receiving email from us, we are also able to confirm if you have read our messages and the type of device and browser you may have been using at that time.
 
 ### How we use your information
 
 Your personal data will be held on our records and used for the proper administration of our business, including by way of example, to deal with and process your enquiries and to provide you with any further information which you may have requested. 
 
-From time to time we may also contact you about our products and services and which we feel may be of interest to you.  If at any time you wish to stop receiving any such information from us then you can write to us at [info@instem.com](mailto:info@instem.com).  Similarly, when we send out our email marketing communications, you can click on the “unsubscribe” link which is included at the bottom of our email communications.  
+From time to time we may also contact you about our products and services and which we feel may be of interest to you.  You have the right to be removed from our mailing list (known as “opting out”). You also have the right to ask to be removed from our database and that all of your information be completely erased. To do so, you can write to us at [info@instem.com](mailto:info@instem.com).  Similarly, when we send out our email marketing communications, you can click on the “Subscription Preferences & Rights” link.
 
 Where you have sent information to us as part of an application for a vacancy or to enquire about work experience, we will use the personal information which you provide to assess your application.  We may also retain that information for future reference.
 
@@ -46,11 +46,13 @@ If at any time you need to give information to us about another person, for exam
 
 ### Cookies
 
-We use technologies called cookies to gather information about your computer use.  A cookie is a piece of text placed on your browser or hard drive. Further information about how we use cookies can be found in our [cookies statement](https://web.archive.org/web/20170527073154id_/http%3A//www.instem.com/legal/cookies.php).
+We use technologies called cookies to gather information about your computer use.  A cookie is a piece of text placed on your browser or hard drive. Further information about how we use cookies can be found in our [cookies statement](https://web.archive.org/web/20180619045127id_/http%3A//www.instem.com/legal/cookies.php).
 
 ### Your rights
 
 You have the right to ensure that any information which we hold about you is accurate and up to date.  If you believe that the information that we may hold on you is incorrect or is no longer up to date, then please tell us. Our contact details are set out below.
+
+You have the right to be removed from our mailing list (known as “opting out”); and you have the right to ask that all of your information be completely erased from our database.
 
 You also have a right to access the personal information held about you.  To obtain a copy of the information, please write to us at the address below.  We reserve the right to request payment of a £10 charge to cover the administration cost of dealing with your access request.
 
@@ -73,7 +75,7 @@ From time to time, we may make changes to this privacy policy in which case, a r
 
 ### Contact
 
-For the purposes of the Data Protection Act 1998, Instem Plc together with its subsidiary companies as appropriate, act as data controller. 
+For the purposes of the EU General Data Protection Regulation (GDPR), Instem Plc together with its subsidiary companies as appropriate, act as data controller. 
 
   
 
