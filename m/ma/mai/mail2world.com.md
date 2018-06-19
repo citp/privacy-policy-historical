@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the mail2world.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226211451id_/http%3A//www.mail2world.com/s/m2wpublic/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mail2world.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619094146id_/http%3A//mail2world.com/s/m2wpublic/policies/privacy.asp) for the most accurate reproduction.*
 
 # Mail2World Privacy Policy
 
   
-**[Conduct Policy](https://web.archive.org/web/20171226211451id_/http%3A//www.mail2world.com/s/m2wpublic/policies/conduct.asp)** **[Spam Policy](https://web.archive.org/web/20171226211451id_/http%3A//www.mail2world.com/s/m2wpublic/policies/spam.asp)**
+**[Conduct Policy](https://web.archive.org/web/20180619094146id_/http%3A//mail2world.com/s/m2wpublic/policies/conduct.asp)** **[Spam Policy](https://web.archive.org/web/20180619094146id_/http%3A//mail2world.com/s/m2wpublic/policies/spam.asp)**
 
-**[Fraud Policy](https://web.archive.org/web/20171226211451id_/http%3A//www.mail2world.com/s/m2wpublic/policies/fraud.asp)**
+**[Fraud Policy](https://web.archive.org/web/20180619094146id_/http%3A//mail2world.com/s/m2wpublic/policies/fraud.asp)**
 
-**[Privacy Policy](https://web.archive.org/web/20171226211451id_/http%3A//www.mail2world.com/s/m2wpublic/policies/privacy.asp)**
+**[Privacy Policy](https://web.archive.org/web/20180619094146id_/http%3A//mail2world.com/s/m2wpublic/policies/privacy.asp)**
 
-**[Terms of Service](https://web.archive.org/web/20171226211451id_/http%3A//www.mail2world.com/s/m2wpublic/policies/tos.asp)**
+**[Terms of Service](https://web.archive.org/web/20180619094146id_/http%3A//mail2world.com/s/m2wpublic/policies/tos.asp)**
+
+**[Cookies Policy](https://web.archive.org/web/20180619094146id_/http%3A//mail2world.com/s/m2wpublic/policies/CookiesPolicy.asp)**
 
 **[COPPA](http://www.cdt.org/legislation/105th/privacy/coppa.html)**
 
@@ -20,135 +22,209 @@
 **Mail2World Privacy Policy**  
 
 
-**Effective April 28, 2017**
+**Effective May 25, 2018**
 
-**Mail2World, Inc. TRUSTe Privacy Program.**  
-This privacy policy describes how Mail2World, Inc. (Mail2World) collects and uses the personally identifiable information you provide on our website [www.Mail2World.com](http://www.mail2world.com/). It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information. 
+**_Privacy at Mail2World_**
 
-**Mail2World, Inc. Privacy Shield compliance.**  
-Mail2World, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Mail2World, Inc. is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list). 
+When you use our services, you are trusting us with your information. We understand that this is a big responsibility and work hard to protect your information. This Privacy Policy is intended to help you understand what information we collect, why we collect it, and how you can update, manage, export and delete your information. 
 
-Mail2World, Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Mail2World, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Mail2World, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Mail2World, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
-
-Under certain conditions, more fully described on the [Privacy Shield](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
-
-**Third Party Advertising?**  
-We allow third-party companies to serve ads and/or collect certain information when you visit our web site. These companies may use automatically collected information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/) ). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
-
-**Cookies and other Tracking Technologies**  
-Mail2World Inc. and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. 
-
-**Log Files**  
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. 
-
-**Mail2World is committed to protecting your privacy.** We follow generally accepted standards to protect the personally identifiable information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personally identifiable information, you can contact us at support@mail2world.com. 
-
-To ensure that you, a registered user of Mail2World.com, receive top performance without compromising security and confidentiality, we are committed to the Mail2World Privacy Principles, which are as follows: 
-
-**Privacy Principles**
-
-**Principle 1.  We will limit the collection and use of customer information to the minimum required for us to deliver superior service to you. ** We will share your personally identifiable information with third parties only in the ways that are described in this privacy statement. Mail2World will explicitly ask for information that personally identifies you (Personally Identifiable Information), such as your first and last name, state and zip code,(or country and postal code for non-U.S. residents), billing information such as credit card information, gender, year of birth, and occupation. This information will be collected during the account registration process. You may update this information at any time from within your Mail2World account by clicking the 'Options' button on the navigation bar, and then clicking on the 'Profile' link. 
-
-We use this information to: 
-
-  * Fulfill your order
-  * Send you an order confirmation
-  * Assess the needs of your business to determine suitable products
-  * Send you requested product or service information
-  * Send product updates
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
-  * Respond to your questions and concerns
-  * Respond to your questions and concerns
-  * Conduct research and analysis
-  * Display content based upon your interests
-  * Facilitate your transactions with other users
-  * List you in our member directory made available only to other members 
+We follow generally accepted standards to protect your privacy rights and the personal data submitted to us, during transmission, processing or handling upon receipt. If you have any questions about the privacy of your personal data, you can contact us at support@mail2world.com. 
 
   
-**Principle 2.  You may access your Personally Identifiable Information at any time to make changes.** Upon request Mail2World will provide you with information about whether we hold any of your personal information. If your Personally Identifiable Information changes, you may update this information at any time from within your Mail2World account by clicking the 'Options' button on the navigation bar, and then clicking on the 'Profile' link. To change your email address, you must create a new account and select a new domain name, etc. If you no longer desire our service, please email your request to delete your email address and Personally Identifiable Information along with your username and password to our Customer Support Dept. at support@mail2world.com or by contacting us by postal mail at Customer Support Dept., Mail2World, Inc., 10960 Wilshire Boulevard, 9th Floor, Los Angeles, CA 90024. Or you may simply not use your email account, in which case it will automatically deactivate after 30 days of non-use. We will respond to your request within a reasonable timeframe. 
+**_EU-U.S. Privacy Shield_**
 
-We will retain your information for as long as your account is active and in good standing to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+Mail2World participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Mail2World is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. https://www.privacyshield.gov
 
-**Principle 3.  We will safeguard any information that you provide to us.** Your Personally Identifiable Information and email address is used only for demographic statistics, to display appropriate individualized advertisements, process credit card payments and purchase domain names. Mail2World keeps all of your Personally Identifiable Information and email addresses private, sharing that information only as necessary. We may share your information with third parties who provide services on our behalf to help with our business activities. These services may include fulfilling orders, payment processing and providing customer services. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us. Mail2World will not disclose your Personally Identifiable Information or email address unless acting under a good faith belief that such action is necessary to: (1) conform to legal requirements or comply with legal process; (2) protect and defend the rights or property of Mail2World; (3) enforce the Mail2World Terms of Service; or (4) act to protect the interests of its members or others. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
+Mail2World is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Mail2World complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-If you choose to use our referral service to tell a friend about our website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Mail2World does not store this information for the sole purpose of sending this one-time email. Your friend may contact us at policy@Mail2World.com to request that we remove this information from our database. 
+With respect to personal data received **** or **** transferred pursuant to the Privacy Shield Framework, Mail2World is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. Anent the discussion under the Legal heading above, in certain situations, Mail2World may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If Mail2World is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
 
-**Principle 4.  We will always maintain control over the confidentiality of our customer information. We may facilitate relevant offers from companies that you have expressed interest in.** Mail2World will not send you any unsolicited information, including email, except as mentioned below. New users will receive a Mail2World welcome letter explaining the features provided by the service. Under exigent circumstances, Mail2World may be required to send you information about the service or your account. As a feature of the service, Mail2World will provide customers with a membership email newsletter, upgrade notifications and other service-related information. Mail2World will not send you unsolicited email regarding any commercial offers or advertisements at any time. 
+Under certain conditions, more fully described on the Privacy Shield website, [https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-**Principle 5.  The Mail2World contains links to other web sites and assumes no responsibility for content or policies of those sites.** Please note that when you follow one of these links, you are entering another web site. We encourage you to read the Privacy Policies on the other sites, as their privacy policies may be different than ours. 
+**_Data Collection and Processing_**
 
-**Principle 6.  You may opt-out of receiving all Mail2World communications except the 'Site & Service' administrative notifications. Site & Service notifications are critical to your email service operation.** Other communications include the Mail2World Membership Newsletter. In the future, they may also include opt-in opportunities for you to receive information from other companies. You may opt out of receiving the newsletter by selecting 'Options' on the Mail2World site, clicking on 'Profile' to access your personal profile information, or you can contact us at support@mail2world.com and finally, deselecting the newsletter option (unchecking the checkbox) near the bottom of the registration page. 
+**Collection**
 
-**Principle 7.  You will be notified of any changes in our email practices, Personally Identifiable Information collection processes, the way we use that information or our privacy policy itself.** If we decide to make changes in our email practices, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to the way we use your email address, we will notify you here, by email, or by means of a notice on our home page, prior to the change becoming effective. If we are going to use your Personally Identifiable Information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change prior to it becoming effective. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+**Individual Services**
 
-**Principle 8.  Surveys and Contests will be featured from time to time on the Mail2World site. Mail2World will manage all information collected during those activities.** If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). There may be instances where when the information is shared with partners in specific projects (contests, for example, where a third-party becomes a substantial partner). These third parties will be prohibited from using our users' personally identifiable information for any other purpose. 
+When you register directly to use our services, the personal data you may be required to provide includes; name, billing address, organization name, your own domain name, IP address, browser user-agent and billing details for Platinum services (credit card, or PayPal account). 
 
-**Principle 9.  We will attempt to keep customer files complete, up-to-date, and accurate. We will inform our customers how to notify us about errors, which we will promptly correct.** If at any time you believe that Mail2World has not adhered to these principles, please notify us by email at policy@Mail2World.com, and we will use all commercially reasonable efforts to promptly determine and correct the problem. 
+We also collect the email content you create, upload, or receive from others when using our services. We use this information to deliver our services, like processing the terms you search for in order to return results or helping you add addresses to messages by suggesting recipients from your contacts.
 
-If you have questions about this policy, please email us at support@mail2world.com. For more information about our privacy policy, see the following Frequently Asked Questions (FAQs). 
+**Business Services**
 
-* * *
+When our service is provided by a business partners (including customers and vendors); they may require their employees or contacts, we may collect your business contact details including; name, work address, work email, work telephone numbers, job title for the purposes of issuing communications to you under the terms of this privacy policy.
 
-**Frequently Asked Questions**
+**Marketing**
 
-**What are Cookies?**
+When you sign up for our newsletters, we may collect your business contact details including; name, postal address, email address, telephone numbers, or job title and use only in accordance with your marketing and communications' preferences.
 
-Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Cookies can make a Website more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard, and many major web sites like Mail2World use them to provide useful features for their customers. 
+**Processing**
 
-Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set up to accept cookies. If you prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of a Web site if you do so. 
+When you connect to our service, we log the IP address, client identifier (browser or mail client information) and username. During use of our services, we log the email address you're using to send mail, the email address you're sending to, any actions related to mail in your mailbox, log the activities taken and for providing proof of delivery and fraud analysis. 
 
-Most browsers are initially set up to accept cookies. If you prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of a Web site if you do so. 
+Examples, 
 
-Once a user is logged into a Mail2World email account, our cookies tie in with that user's member ID, which is related to a username and email address. Personally identifiable Information is also tied to a user's IP address for security purposes, such as investigating illegal use of an email account or when a user asks us to find out if an intruder has accessed his or her account. 
+To identify and detect deliverability issues such as failures when sending email, we may detect through monitoring or ask if the email service is working properly. 
 
-Mail2World uses cookies so that you can maintain your identity (and thus, your privacy, personalization and preferences) throughout the site. For example, we identify you as a member, a system administrator or a content administrator, and those identities determine what you may do while on the site. In another example, we know which choices you made under the 'Options' section of the site, so those preferences will be carried along with your throughout the email service. Cookies enable Mail2World's privacy, personalization and preferences capabilities. 
+For spam or for other fraudulent purposes, we collect the IP address and username to help you validate if an unauthorized user has gained access and use to your account, to block spam and fraudulent content. 
 
-**How does Mail2World use my Contacts information?**
+We may receive and use information from third party services to assist us in identifying spam. 
 
-Mail2World stores, processes and maintains your Contacts data in order to provide the service to you. Any third-party contact's personally identifiable information that you may have entered into Contacts (e.g., friends, family, and coworkers) is private and is not used for any purpose by Mail2World. The information collected in our Add Contact form includes names, titles, email addresses, phone numbers, IM names, Skype names, mailing addresses, birthdays, anniversaries, names of spouses or partners, employer's company and department, professional titles, work addresses, work web site, work manager's name, fax number and pager number. 
+If you report a message to us, either through the service or via customer support, as spam or not spam, we may share that message with the third party service that flagged it to improve the accuracy of future filtering. 
 
-**When I import my address book from another email account, how is that information handled?**
+We will also share this information with your devices and external accounts where you have authorized us to do so. 
 
-Mail2World offers an Import Contacts feature to help you keep in touch with your contacts that you may have listed in other email address books. Through our Import/Export Wizard, we make it easy for you to manually step through the process of accessing your contact information (e.g., Gmail account, .CSV file, vCard), then the Wizard automatically imports the contact information (i.e., contact names, addresses, phone numbers, fax numbers, etc.) into your Mail2World Contacts. 
+If you are an individual user who is assigned an account on our platform by your company, your account is likely to be managed by an administrator. Alternative and/or additional terms may apply as determined by your company's privacy and other related policies, and your administrator may be able to access or disable your account.
 
-Mail2World's Contacts also allows you to request updates from your contacts by clicking the Request Update button in a contact's information panel. The invitation to update will be delivered in an email message displaying your "From" name, and the subject line will read: "[Contact's Name]: Update Your Contact Info." 
+**_Use of Personal Data and Information_**
 
-**Does Mail2World collect other forms of information about its users?**
+We use personal data and information to:
 
-In addition to the use of personally identifiable Information to operate the site, Mail2World also gathers automatically collected information, which may be used by Mail2World or shared with its advertisers. This information may be helpful for marketing purposes or for improving the services we offer. Generally, this information is collected through "traffic data" or "log files" and may entail the use of "IP addresses", "Protocol version", "Total access time", or other numeric codes used to identify a computer. No tracking technologies are used within email communications our users send out or on pages where email addresses are collected. 
+·         provide you with our services and to maintain, manage and improve our services;
 
-**How do I correct or change Personally identifiable Information that I have given to Mail2World?**
+·         help our services deliver more useful, customized content such as more accurate search results;
 
-You may update this information at any time from within your Mail2World account by clicking the 'Options' button on the navigation bar, and then clicking on the ‘Profile' link. 
+·         send you notifications when you receive new mail or events; we may also send you a notification if we detect suspicious activity, like an attempt to sign in to your account from an unusual location;
 
-**Is my Personally identifiable Information secure from others using the Mail2World site?**
+·         at your option, contact you to let you know about updates to our services or information we feel may be of interest to you;
 
-The security of your personally identifiable Information is important to us. When you enter sensitive information, such as a credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link. 
+·         provide you with customer support including technical support and troubleshooting (for example, to reset your password);
 
-Mail2World follows generally accepted industry standards to protect the Personally Identifiable Information and email addresses you submit to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100-percent secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security. 
+·         protect you and conduct security investigations and fraud and abuse analysis (including to help us flag spam mail);
 
-We limit access to Personally Identifiable Information and email addresses to employees whom we believe reasonably need to come into contact with that information. 
+·         comply with our legal obligations, for example when assisting governments and law enforcement agencies or regulators (as may be required by law);
 
-If you have any questions about security on the Mail2World Web site, you can send us an email at support@mail2world.com or click here to use our support form. 
+·         improve the safety and reliability of our services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm us, you, our users, or the general public.
 
-**How is Mail2World registration information used in the Mail2World Directory and how can I remove my name from the Directory?**
+Third Party Advertising:
 
-During the Mail2World registration process you are given the choice as to whether you want to be listed in the Mail2World Directory. If you did not make a choice during the initial registration process, your registered name and location is listed in the Mail2World Directory. At any time, you can change or remove your personally identifiable information from the Mail2World Directory by clicking the 'Options' button on the navigation bar, and then clicking on the 'Profile' link. 
+  
+We allow third-party companies to serve ads and/or collect certain information when you visit our web sites. These companies may use automatically collected information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. By default this information is not used for the purpose of serving you interest-based advertisements unless you have affirmatively checked the box to opt-in to this service. If you did opt-in to this service initially and wish to opt-out at a later date, you may opt-out by clicking [here](https://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
-Questions regarding this policy should be directed to [support@mail2world.com](mailto:support@mail2world.com) or contacting us by postal mail at: 
+  
+**_Sharing or Disclosure of Personal Data_**
+
+In this section you can find out more about how we share personal information:
+
+·         within Mail2World;
+
+·         with third parties that help us provide our products and services; and
+
+·         with government organizations and agencies, law enforcement and regulators.
+
+  
+We may share your personal information in the manner and for the purposes described below:
+
+·       **with third parties who help manage our business and deliver services**. These include service providers who help manage our systems. Some of these providers use “cloud based” IT applications or systems, which means that your Personal Information will be hosted on their servers, but under our control and direction. We require all our service providers and third parties to respect the confidentiality and security of Personal Information and our contracts with them generally include obligations for them to comply with applicable privacy laws and to use any personal information we share with them solely for the purpose of providing services to us.
+
+·       **with your consent or as necessary to complete any transaction or provide any product which you have requested or authorized**  — for example when sending emails to a friend, sharing photos or documents on shared drives, or linking accounts with another service from Mail2World. Or where you direct us to share your personal information with a third-party service provider in order to integrate our services with a service that they may provide, for example with a third-party calendar provider, mail provider or cloud file storage provider. Again, we require all our service providers and third parties to respect the confidentiality and security of Personal Information and our contracts with them generally include obligations for them to comply with applicable privacy laws and to use any personal information we share with them solely for the purpose of providing services to us. Any personal information which is provided directly by you and received by a third party directly may be stored and will be used by them according to their privacy policy;
+
+·         **with government organizations and agencies, law enforcement, regulators**  to comply with all applicable laws, regulations and rules, and requests of law enforcement, regulatory and other governmental agencies;), 
+
+·         **if, in the future, we sell or transfer some or all of our business or assets**  to a third party, we may disclose information to a potential or actual third party purchaser of our business or assets; and
+
+·         **we may share in aggregate, statistical form, non-personal information regarding the visitors**  to our website, traffic patterns, and website usage with our partners and affiliates.
+
+**_Choice:_**
+
+You have and can manage your choices regarding the personal data and information we collect and how it's used. You have an opportunity to review and adjust privacy settings in your account. Some of our products offer specific privacy settings. For example, you can manage your contact information, such as your name, email address, and phone number. You can also delete certain personal information, or your entire account should you wish to do so. 
+
+**_Business Partner Mail2World Accounts_**
+
+If you work for or are part of an organization that uses our services, your account administrators and/or resellers who manage your account will have access to your mail account. They may be able to:
+
+• access and retain information and your email stored in your account;
+
+• view statistics regarding your account;
+
+• change your account password
+
+• suspend or terminate your account access
+
+• receive your account information in order to satisfy applicable law, regulation, legal process, or enforceable governmental request
+
+• restrict your ability to delete or edit your information or your privacy settings
+
+**_Data Protection & Security_**
+
+  
+**Security**
+
+We store most of your personal data electronically. We implement and maintain appropriate technical and organizational security measures, policies and procedures designed to reduce the risk of accidental destruction or loss, misuse or interference or the unauthorized disclosure, access or modification to such information appropriate to the nature of the information concerned.
+
+The security of your information is paramount and a critical consideration for Mail2World in the provision of its services to you. Please see further information on the security measures we engage on our websites and platform and when you use any of our services.
+
+We work hard to protect you and Mail2World from unauthorized access, alteration, disclosure, or destruction of information we hold. Measures we take include:
+
+·         placing confidentiality requirements and restricted access protocols on our staff members and service providers who need access to your information in order to process it to provide our services to you;
+
+·         destroying your personal information if it is no longer needed to provide you with our service;
+
+·         destroying logging or other transactional information that may incidentally contain personal information in accordance with our schedules to clear such information;
+
+·         following strict security procedures in the access, storage and disclosure of your personal information to prevent unauthorized access to it; and
+
+·         using secure communication transmission software (known as "secure sockets layer" or "SSL") that encrypts all information you input on our website before it is sent to us. SSL is an industry standard encryption protocol and this ensure that the information is reasonably protected against unauthorized interception.
+
+As the security of information depends in part on the security of the computer and/or device you use to communicate with us and the security you use to protect your user IDs and passwords, please take appropriate measures to protect this information.
+
+**Data Retention and Right to be Forgotten (deletion)**
+
+We will store your personal data for as long as is reasonably necessary for the purposes for which it was collected, as explained in this privacy policy. Where your information is no longer needed, we will ensure that it is disposed of in a secure manner.
+
+In some circumstances we may store your personal data for longer periods of time, for instance where we are required to do so in accordance with legal, regulatory, tax, accounting requirements. Where we log information related to your IP address, we retain this information for approximately 90 days. This is for the purposes of fraud watch, as often users don’t check in with us in a timely fashion over whether their account is compromised. Being able to look at some amount of recent history and know what activity was taken by a legitimate user vs a malicious one is useful.
+
+We proscribe your primary email address, if it’s at one of our domains, for up to 6 six months after your account is closed, to reduce the risk of impersonation, should someone try to use the same email address as you in order to impersonate you.
+
+Where you request that we delete your account from our system, we will immediately lock the account and archive the information, then delete it from our severs within approximately 7 days from the date of your request. This archive window allows you to recover your information in the event of an accident or malicious deletion request.
+
+However, in specific limited circumstances we may store your personal data for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation relating to your personal data or dealings.
+
+**Children's data**
+
+When a Mail2World product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is necessary to provide the product.
+
+If a legal claim arises involving your data, we will store and disclose that data until the matter has resolved.
+
+Your right to ask for corrections, erasure, and export of your data. You have the right to control your personal data. Specifically, you have the following rights:
+
+  1. **The right to be informed  
+**We are informing you now with this privacy policy.
+  2. **The right of access  
+**We’ll provide you with a copy of your data that we have about you.
+  3. **The right to rectification**  
+Request we fix incorrect data about you.
+  4. **The right to erasure  
+**Request we erase certain data about you.
+  5. **The right to restrict processing  
+**Ask us to restrict certain type of processing of your personal data.
+  6. **The right to data portability  
+**Ask us to provide your personal data we have for export.
+  7. **The right to object**  
+Object to how your data is being processed.
+  8. **Rights in relation to automated decision making and profiling  
+**We don’t profile you, but keep in mind you have this right with other sites.
+
+
+
+Submitting a request for information to Mail2World is a simple process. In order for Mail2World to process a request for information users must submit an email to the Support Department at [support@mail2world.com](mailto:support@mail2world.com) with the following information:
+
+·         Your name
+
+·         Email address of the account in question
+
+·         An alternate email address for us to contact you
+
+To Learn More About Our Privacy Practices Click [Here](https://web.archive.org/web/20180619094146id_/http%3A//mail2world.com/s/m2wpublic/policies/privacy_more.asp)
+
+Questions regarding this policy should be directed to [support@mail2world.com](mailto:support@mail2world.com) or contacting us by postal mail at: 
 
 Customer Support Dept.  
 Mail2World, Inc.  
-10960 Wilshire Blvd.,9th Floor  
+10960 Wilshire Blvd., 9th Floor  
 Los Angeles, CA 90024
 
 | 
