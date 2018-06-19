@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corporateofficehq.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218010127id_/http%3A//corporateofficehq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporateofficehq.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619043743id_/http%3A//corporateofficehq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Corporate Offices & Headquarters
+# Privacy Policy - COHQ
 
 **Privacy Policy for CorporateOfficeHQ.com**
 
@@ -22,3 +22,14 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+###  FAQs
+
+**Question 1:** What is the phone number for ?   
+**Answer 1:** The phone number for is . 
+
+**Question 2:** Who is the CEO of ?   
+**Answer 2:** The CEO of is . 
+
+**Question 3:** Who founded ?   
+**Answer 3:** was founded by in . 
