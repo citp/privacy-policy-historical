@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconangle.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117145951id_/https%3A//siliconangle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconangle.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619152645id_/https%3A//siliconangle.com/privacy-policy) for the most accurate reproduction.*
 
 # SiliconANGLE
 
