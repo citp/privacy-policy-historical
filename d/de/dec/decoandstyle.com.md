@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decoandstyle.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219073617id_/http%3A//decoandstyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decoandstyle.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619075128id_/http%3A//decoandstyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Deco and Style
 
