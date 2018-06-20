@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fliptab.io privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230052715id_/http%3A//www.fliptab.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fliptab.io privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620021712id_/http%3A//www.fliptab.io/privacy) for the most accurate reproduction.*
 
 # Fliptab Privacy Policy
 
@@ -51,4 +51,8 @@ Web Beacons:
 
 Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
 
-Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. 
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.  
+For any concerns please contact us at:  
+fliptab.io@gmail.com   
+Str. Bacinschi, Nr 8, Iasi, Romania  
++40 373 782818
