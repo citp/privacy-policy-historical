@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetrysoup.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014062945id_/https%3A//www.poetrysoup.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetrysoup.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620172606id_/https%3A//www.poetrysoup.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - PoetrySoup
 
@@ -50,4 +50,6 @@ PoetrySoup will occasionally update this Statement of Privacy to reflect company
 
 ## Contact Information
 
-PoetrySoup welcomes your comments regarding this Statement of Privacy. If you believe that PoetrySoup has not adhered to this Statement, please [contact PoetrySoup](http://www.poetrysoup.com/contact_us.aspx). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+PoetrySoup welcomes your comments regarding this Statement of Privacy. If you believe that PoetrySoup has not adhered to this Statement, please [contact PoetrySoup](https://www.poetrysoup.com/contact_us.aspx). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+
+## Cookie Declaration
