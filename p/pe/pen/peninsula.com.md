@@ -1,206 +1,283 @@
-> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607023336id_/http%3A//www.peninsula.com/en/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620134558id_/http%3A//www.peninsula.com/en/privacy-security) for the most accurate reproduction.*
 
 # Data Privacy and Security Policy | The Peninsula Hotels
 
-**We Are Committed to Protect Your Privacy  **
+This Data Privacy and Security Policy ( **Privacy Policy** ) sets out how [The Hongkong and Shanghai Hotels, Limited and its group companies and affiliates](https://www.hshgroup.com/privacy-policy/Entities.ashx) ( **HSH Group** , **we** or **us** ) collects, stores and handles your personal data. The list of companies within the HSH Group is set out at <https://www.hshgroup.com/privacy-policy/Entities.ashx>
 
-The Hongkong and Shanghai Hotels, Limited, located at 8/F, St George’s Building 2 Ice House Street Central, Hong Kong and its group companies (“HSH Group”) have a strong commitment to provide quality service to our guests, patrons and potential customers and are further committed to protecting your privacy. 
+To ensure you can make informed decisions about supplying personal data relating to you when purchasing our products and using our services, we provide this policy ( **Privacy Policy** ) outlining our data collection practices and the choices you have concerning how the data is being collected and used.
 
-To ensure you can make informed decisions and feel confident about supplying personal data relating to you when purchasing our products and using our services, we provide this policy statement outlining our data collection practices and the choices you have concerning how the data is being collected and used. 
+You can find a Peninsula Hotel and/or restaurants or other goods and services operated and provided by the HSH Group from the following websites online: [www.peninsula.com](http://www.peninsula.com/), [residences.peninsula.com](http://residences.peninsula.com/), [zbarchicago.com](http://zbarchicago.com/), [www.peninsulalondonproject.co.uk](http://www.peninsulalondonproject.co.uk/), [www.peninsularesidences.london](http://www.peninsularesidences.london/),  [www.hshgroup.com](http://www.hshgroup.com/), [www.quaillodge.com](http://www.quaillodge.com/), [signatureevents.peninsula.com](http://signatureevents.peninsula.com/), [www.therepulsebay.com](http://www.therepulsebay.com/), [www.thepeak.com.hk](http://www.thepeak.com.hk/), [www.thelandmarkvietnam.com](http://www.thelandmarkvietnam.com/), [www.thaicountryclub.com](http://www.thaicountryclub.com/), [www.peninsulaboutique.com](http://www.peninsulaboutique.com/), [www.peninsulaboutique.com.tw](http://www.peninsulaboutique.com.tw/), and [www.peninsulaboutique.co.kr](http://www.peninsulaboutique.co.kr/), or from a web-enabled mobile device.
 
-The term “Data” refers to any personal information that can be used to identify you as an individual. It can include, among other things, your name, contact number, address, age, gender, passport or other identification document details, driver’s licence details, personal financial information, frequent flyer or travel partner information. 
+The websites are not intended for children and minors and we do not knowingly solicit or collect Personal Data from children and minors. As a parent or legal guardian, please do not allow your children to submit Personal Data without your permission.
 
-We limit the collection, use and retention of the Data to the specific information we need for legitimate purposes to administer our business, to provide you with quality service and offer various products or services from HSH Group companies that may be of interest to you. We take appropriate steps to protect Data collected against unauthorised access, disclosure or alteration, and to keep such Data up to date. 
+By submitting your personal data to us, you agree to the processing set out in this Privacy Policy. If there are any additional uses of your Personal Data, we will provide you with the ability to opt-in or out of those additional uses.
 
-In order to protect your Data, we will require that you prove your identity to us in relation to your request to access your Data, which may consist of a copy of a government-issued identification, your signature and correspondence address so we can check them against our records and satisfy ourselves as to your identity. The above information is required to create an audit trail of how the request has been handled. Where a request is made, any correspondence or application may be kept and added to your Data. 
+This Privacy Policy contains general and technical details about the steps we take to respect your privacy concerns. We have organised the Privacy Policy by major processes and areas so that you can review the information of most interest to you.
 
-This data privacy statement was written on 30 May 2011. In the future, we may need to make additional changes. All additional changes will be included in the latest data privacy statement published on this website, so that you will always understand our current practices with respect to the information we gather, how we might use that information and disclosures of that information to third parties. You can tell when this privacy statement was last updated by looking at the date at the top of the statement. Any changes to our statement will become effective upon posting of the revised statement on this site. We will seek your express consent to any changes to how we use or disclose your Data if requested by law but otherwise use of this site or our services following such changes constitutes your acceptance of the revised statement then in effect. 
+  1. 1\. Personal Data we collect
+  2. 2\. How we use Personal Data
+  3. 3\. How we share Personal Data 
+  4. 4\. How we transmit, protect and store Personal Data
+  5. 5\. Your rights
+  6. 6\. Contacting Us
+  7. 7\. Cookies
+  8. 8\. Changes to the Privacy Policy 
+  9. 9\. Other Sites
+  10. 10\. Careers
+  11. 
 
-This privacy statement contains numerous general and technical details about the steps we take to respect your privacy concerns. We have organised the privacy statement by major processes and areas so that you can review the information of most interest to you. 
 
-  1. Data we collect and how we use it
-  2. Internal Controls
-  3. How we store and transmit Data
-  4. How we track customer usage on our website
-  5. E-mails about Special Offers and Promotions and Opt-Out
-  6. How long will Data be retained for?
-  7. Notifications in the event of breach
-  8. Careers
-  9. Other Sites
-  10. Children’s Privacy
-  11. Legal Disclaimer
+## 1\. Personal Data we collect
 
+The term “Personal Data” refers to any personal data that can be used to identify you as an individual.
 
+1.1 We may collect and process the following Personal Data about you.
 
-## Data we collect and how we use it
+(a) **Personal information about you** : personal information that you provide to us, such as when you enrol for a My Peninsula account, or purchase Peninsula merchandise or tickets for the Peak Tram, including your name, telephone number, e-mail address and address (residential and/or delivery address);
 
-When you request a particular service from us or otherwise interact with the HSH Group, we will ask you to voluntarily provide us with Data that we need. For example, if you would like us to make a reservation at one of our hotels, we will request for Data such as your name, address, telephone number, e-mail address and credit card information for payment purposes (including credit card number, code and expiry date). We will use your e-mail address to send an e-mail confirmation of your booking and a pre-arrival message summarising your confirmation details and preferences. Such pre-arrival message will include other information about the hotel, the area and the weather. 
+(b) **Your payment information** : your payment information such as your credit card information (including credit card number, code and expiry date) and your bank account details;
 
-The same types of information would be requested when you complete any purchase of Peninsula gift certificates or merchandise, or make online enquiries. 
+(a) **Our correspondence** : if you contact us such as when you make enquiries, we may keep a record of that correspondence;
 
-For hotel reservations, we may also ask for your travel details (including flight number, arrival and departure dates and time, as well as country/point of origin and destination) and room preferences to better prepare ourselves for your arrival and to serve you better before your departure. 
+(b) **Survey information** : we may also ask you to complete surveys that we use for research purposes. In such circumstances we shall collect the information provided in the completed survey; and
 
-For non-hotel related operations provided by HSH Group companies including but not limited to residential and commercial leasing, and operation of airport lounges, clubs and food and beverage outlets, we may ask you for Data such as your name, address, telephone number, e-mail address, identity card or passport details, tenancy particulars, employment particulars, club membership particulars, bank account and credit card information (including credit card number, code and expiry date) for payment purposes. We collect and use such Data to administer our business, and to offer various related products or services that may be of interest to you as a patron, tenant or club member. 
+(c) **Your use of our website and mobile applications** : details of your visits to our website, mobile application and information collected through cookies and other tracking technologies including, but not limited to, your IP address and domain name, your browser version and operating system, traffic data, location data, web logs and other communication data, and the resources that you access.
 
-##### Browsing 
+(d) **Do-not-track** : Because there is not yet a consensus on how companies should respond to web browser-based do-not-track (DNT) mechanisms, we do not respond to web browser-based DNT signals at this time.
 
-When you browse this website, we do not collect Data unless you voluntarily and knowingly provide it to us, for example by accessing our website from a link in an e-mail that we send to you or where you have created a profile under My Peninsula and you log-in to your account. 
+**For our hotel related services only (for example when you make a hotel or spa reservation, or purchase a gift certificate from us)**
 
-##### Making a reservation and check-in at a Peninsula Hotel 
+(e) **Your travel details and preferences:** we may collect information such as your travel details (including flight number, arrival and departure dates and time, country/point of origin and destination), your frequent flyer information, your travel partner information, preferences about room, food and beverages and treatment, service requests, information relating to your dietary, access or treatment requirements. We may also need to collect information as required by local laws such as passport numbers, type of entry visa, and driver’s license;
 
-The Data that you provide to us for making a reservation is made available to the applicable hotel for the purpose of completing your reservation request. We may also need to collect information as required by local laws such as passport numbers, type of entry visa, and driver’s license. Upon check-in, your Data will be verified by our staff and you will be requested to indicate whether you wish to opt in and receive hotel promotional literature. At times, we may make certain Data available to strategic business partners such as mail houses and e-mail service providers for the sole purpose of mailing and dissemination of promotional materials for Peninsula Hotels and its related facilities only. Data will not be shared with third parties for their own marketing purposes. 
+(f) **Your transactions with us:** we collect your itemised spending to properly assemble your folio during your stay, which includes your room rate and other expenses billed to your room. 
 
-##### Making a reservation through our Global Customer Service Center or our Hotels 
+**For non-hotel related services only (for example residential and commercial leasing, and operation of residential clubs and food and beverage outlets and transport)**
 
-You can make a reservation by calling our Global Customer Service Center (GCSC) or by contacting a particular hotel. When making a reservation, you will be asked to provide Data such as your name, address, telephone number, address and method of payment, room preferences and special requests. Data obtained by GCSC will be sent in a secured environment to the relevant hotel. If you choose to provide us with your e-mail address, a confirmation and a pre-arrival message of your reservation will be sent to you by e-mail. 
+**Your transactions with us:** we may collect information such as identity card and passport details, tenancy particulars, employment particulars and club membership particulars. 
 
-#####  During your stay at a Hotel 
+1.2 We do not collect Personal Data when you apply for a Peninsula/American Express credit card. If you apply for a Peninsula/American Express credit card, you will be required to provide certain personal information as part of the credit card application process. We do not own any of the personal information supplied to American Express group of companies in connection with the Peninsula/American Express credit card application process. You can refer to American Express’ privacy statement posted on their website to understand how the information you supply will be used. American Express is the issuer of the credit card, and all terms and conditions of being a cardholder are dictated by American Express. 
 
-We record your itemised spending to properly assemble your folio during your stay, which includes your room rate and other expenses billed to your room. We also record this information to comply with financial reporting requirements and those imposed by our auditors and government authorities. In order to assure your future comfort and attention to your individual needs, other stay specific information may also be stored in the property management system at the particular hotel, such as your food and beverage preferences and other special requests. Certain information regarding your service preferences may be made available to other Peninsula Hotels through our central database. 
+1.3 We may collect your Personal Data from you directly. We may also collect Personal Data from third parties including agents and online service providers that make hotel, spa or restaurant reservations on your behalf , facilitate online payment or gift purchase or that are otherwise involved in the reservations process or delivering our services to you . 
 
-##### Making a purchase on our website 
+1.4 If you provide us with Personal Data about other individuals (e.g. family members or travel companions), regardless of whether you are travelling together, you must inform such individuals that you have provided us with their details and let them know where they can find a copy of this Privacy Policy. 
 
-When making a purchase such as a gift certificate or a Peninsula merchandise, you will be asked to complete a form that includes your name, e-mail address, delivery address and credit card details for payment purposes. When the form is complete, your credit card number will be verified using a checking sequence to complete the transaction. Credit card information and Data are transferred over a Secure Socket Layer (SSL) connection. Doing so protects the confidentiality of your Data while it is transmitted over the Internet. Purchasing transactions are assisted by third party processors who are required by contract to protect the privacy of your Data. SSL is an industry standard for encryption over the Internet to protect Data supplied to us. We will use that information to assist in any inquiries about your transaction. 
+_**Special Categories of Personal Data**_
 
-##### Accessing Our Website from a Web-enabled Mobile Devices
+1.5 “Special Categories of Personal Data” are a subset of Personal Data, and include Personal Data relating to your health, political opinions, religious beliefs, ethnicity and race, sex life, trade union membership and in some cases, criminal activity. 
 
-You can access our website from a web-enabled mobile device to find a Peninsula Hotel and/or restaurants operated by the HSH Group. In addition, you can download an application to your Apple iPhone/iPod/iPad with additional functionality. You can make a reservation from a web-enabled device. When you make a reservation, you may need to provide certain Data such as name, e-mail address and credit card information for guarantee purposes. You may also enrol in My Peninsula from a web-enabled device after completing an online room reservation on peninsula.com. 
+1.6 As a general rule, we do not process Special Categories of Personal Data. We may however process health/medical information in order to handle medical incidents and/or claims as per paragraph 2.1(i) below. Where we process Special Categories to handle medical incidents, we do so in order to protect the vital interests of you or another person, Where we process Special Categories to handle claims, we do so on the basis of establishing, exercising or defending legal claims or whenever courts are acting in their judicial capacity. In addition to paragraph 1.6 above, we may process Special Categories of Personal Data in limited circumstances where you have provided such Special Categories of Personal Data including health/medical information (e.g. allergies, disabilities, dietary requirements) so that we can provide our services safely to you (e.g. spa treatments and meals). 
 
-#####  Creating and updating your My Peninsula account information 
+1.7 Where we must process Special Categories of Personal Data mentioned at paragraph 1.7 above, we will only do so where you have given us your explicit consent for the collection, processing and disclosure of the Special Categories of Personal Data. Where you are providing Special Categories of Personal Data about a travel partner, you agree that you have procured their consent to our collection, processing and disclosure of their Special Categories of Personal Data.
 
-For hotel related services, upon completing an online room reservation, you can set up, review or update your My Peninsula information online. When enrolling in My Peninsula, you will be required to provide certain Data such as name, e-mail address, mailing address, room preferences and service requests. 
+## 2\. How we use Personal Data
 
-##### Food and Beverage Outlet Reservations 
+2.1 We may use your Personal Data in the following ways.
 
-We collect Data such as your name and phone number when you make a reservation at our food and beverage outlets. If you are a repeat guest at our food and beverage outlets or have filled out our food and beverage questionnaire, we may store your Data in our Customer Information System to serve you better upon your return. 
+ Please note that use of Personal Data under EU data protection laws must be justified under one of a number of legal “grounds” and we are required to set out the grounds in respect of each use in this Privacy Policy. An explanation of the scope of the grounds available can be found below.
 
-##### Spa Reservations 
+(a)  **To administer your reservations** : to process **** your reservation requests, which may be made via our website, mobile application, our Global Customer Service Centre ( **GCSC** ) or our third party service providers’ website and to confirm your booking. We may send a confirmation of your booking via email, SMS or other means and in the case of room reservations, a pre-arrival message summarising your confirmation details and preferences. In respect of hotel-related services, such pre-arrival message will include other information about the hotel, the area and the weather.
 
-We collect Data such as your name, contact details, and where necessary, credit card information for payment purposes when you make a spa reservation. In addition, we may also collect information relating to your health, allergies and treatment preferences before the spa treatment is commenced to ensure that your spa treatment is conducted under safe conditions. 
+**  Use justification:** contract performance, legitimate interests (to enable us to perform our obligations and provide services to you);
 
-#####  Peninsula/American Express Card
+(b)  **To provide you with services** : to provide and charge for (i) hotel related services, including but not limited to accommodation, food and beverages and spa treatment, and to facilitate any special requests or assistance that you have asked for, and (ii) non-hotel services including residential club, tenant leasing and transport services.
 
-If you apply for a Peninsula/American Express credit card, you will be required to provide certain Data as part of the credit card application process. We do not own any of the Data supplied to American Express group of companies in connection with the Peninsula/American Express credit card application process. You can refer to American Express’ privacy statement posted on their Web site to understand how the information you supply will be used. American Express is the issuer of the credit card, and all terms and conditions of being a cardholder are dictated by American Express. 
+**Use  justification:** contract performance, legitimate interests (to enable us to perform our obligations and provide services to you);
 
-##### Third Party Providers 
+(c)  **To complete your purchase** : to deliver your orders when you purchase a Peninsula gift certificate or merchandise.
 
-This policy statement does not apply to our processing of Data on behalf of, or at the direction of, third party providers (for example, airlines, car rental companies) who may collect Data from you and provide it to us. In this situation, we would merely act as a data processor and thus advise you to review applicable third party providers’ privacy policies before submitting Data. 
+**Use  justification:** contract performance, legitimate interests (to enable us to perform our obligations and provide services to you);
 
-##### Fraudulent e-mails 
+(d)  **To customize our services and products to you**: to assure your future comfort and attention to your individual needs, we collect and store specific information about you, such as your food and beverage preferences and other special requests. For example, if you are a repeat guest at our hotels or restaurants or have filled out our food and beverage questionnaire, we may store your Personal Data in our system to serve you better upon your return.
 
-Please note that the HSH Group companies will never send you an e-mail requesting your password, credit card number or passport, personal identity card or social security number. If you receive any suspicious e-mails that looks like it is from our group, but asks you for your credit card number or passport, personal identity card or social security number, it is a fraudulent e-mail, or “phishing”. We recommend that you do not reply to the e-mail or click onto any links or pop-up messages and report to the local authorities which handle fraudulent e-mails. If you believe “phishers” have gained access to your personal or financial information, we recommend that you also change your password(s), alert your credit card service provider and bank and review credit card and bank account statements to check for unauthorised charges. 
+**Use Justification:**  legitimate interests (to allow us to provide customized services and products to you);
 
-##### Unsecure communication 
+(e)  **To provide marketing materials to you** : to provide you with updates, offers, and subscriptions where you have chosen to receive these, or connected with us via social media platforms, such as WeChat. With your consent, we may send you information about The Peninsula Hotels, the Peak Tram, and restaurants and residential clubs operated by our group companies, including news, offers and promotions about our hotels and arcades, food and beverage, spa, merchandise, branded residences, touristic services and special events by us or our arcade partners by post, e-mail, telephone, SMS. You may also see these offers, promotions and information on social media platforms through which you have connected with us. Please note that this is subject to the terms and conditions of use of the relevant social media platform. It is however our intention to only send you communications that you may want to receive. When you opt-in to receiving promotional material either on a guest registration card or when you enrol in My Peninsula, or patronise our restaurants or sign up on our websites and provide your  details to us specifically and expressly in order to receive marketing communications specified above, we will periodically contact you via your preferred channel(s). We typically use third party e-mail service providers to send e-mails. These service providers are contractually prohibited from using your e-mail address for any purpose other than to send e-mails related to the HSH Group operations and any organised special events. Personal Data will not be shared with third parties for their own marketing purposes. We provide you with the ability to unsubscribe from all marketing communications. Every time you receive an e-mail, you will be provided with the choice to opt-out of future e-mails by following the instructions provided in the e-mail. You may also opt-out of receiving promotional materials by updating your My Peninsula account, or contacting us as set out in Section 6 below.
 
-It is important to note that all e-mail communication is not secure. There is a risk inherent in the use of e-mail. Please be aware of this when requesting information or sending forms to us by e-mail, for example, from the “Contact Us” section of our website. We recommend that you do not include any sensitive information including credit card details when using e-mail or using any public computers/public WIFI. Our e-mail responses to you may not include any sensitive or confidential information. Please bear in mind that no security system or system of transmitting information over the Internet is guaranteed to be secure. 
+**Use Justification:**  consent (which can be withdrawn at any time - please see paragraph 5.1 below);
 
-To be prudent, it is advisable to always close your browsers when you have finished completing a form or a reservation. Although the session will automatically terminate after a short period of inactivity, it is easier for a third party to gain access to your profile whilst you are logged onto our website and making a reservation. 
+(f)  **For analytics and profiling** : to tailor our marketing to you. In connection with our marketing activities, we analyse information that we collect about customers to determine what offers are most likely to be of interest to different categories of customers in different circumstances and at different times. To do this for hotel-related services, we combine Personal Data that we have collected about a customer from a Peninsula Hotel with Personal Data that we have collected from the same customer from another Peninsula Hotel. Such Personal Data include customer behavioural information such as transaction history, spending pattern, preferences, service requests and interactions with us. From time to time, we will assess the Personal Data that we hold about you.  in order to tailor our marketing communications to include offers and content that are relevant to you. We may also use this method to avoid sending you offers that are inappropriate or unlikely to be of interest to you. You have the right to opt-out of such analysis of your Personal Data at any time. You can exercise this right by contacting us as set out in section 6 below.
 
-## Internal Controls
+**Use Justification:**  consent (which can be withdrawn at any time - please see section 5.1 below); legitimate interests (to enable us to tailor our marketing to you); 
 
-The HSH Group companies train their employees and staff on the importance of Data privacy and protection. Our privacy policy is updated as required to reflect any changes in applicable laws and developments in best practice procedures. Further, we limit the number of individuals within the companies with access to Data to those directly involved in the process of providing quality service to you.
+(g)  **To comply with our legal obligations:**  to comply with our legal obligations such as financial reporting requirements imposed by our auditors and government authorities, and to cooperate with law enforcement agencies, government authorities, regulators and/or the court in connection with proceedings or investigations anywhere in the world where we are compelled to do so.
 
-## How we store and transmit Data
+**Use Justification:**  legal obligation, legal claims, legitimate interests (to cooperate with law enforcement and regulatory authorities); 
 
-##### At the Hotel and other group operations
+(h)  **To handle incidents and process any claims we receive** **:**  to handle any accidents and incidents such as liaising with emergency services, and to handle any claims made by customers such as personal injury claims. Please note that this may also require the processing of Special Categories of Personal Data – please see section 1.6 for further information about this.
 
-Your Data may be shared with companies forming part of the HSH Group. We have policies and procedures to limit access to Data to authorised personnel only.
+**Use Justification:**  vital interest (in relation to Special Categories of Persona Data), legal claims, legitimate interests (to ensure that incidents and accidents are handled appropriately and to allow us to assist our customers);
 
-##### Our Customer Information System and Reservation System
+(i)  **To improve our services and products** **:**  to assist in developing new services and products and to improve our existing services and products.
 
-We store certain customer information and reservation details in our Customer Information System and Reservation System. Both systems are secure customer databases stored on a dedicated server located in a data center in Hong Kong hosted by a third party service provider. The stored database includes Data such as guest name, address, phone numbers, position, company name and credit card information. We may also store other information such as your room, food and beverage, other service preferences and transaction history. This information may be shared within our group individual hotels to better anticipate your needs prior to and during your stay.
+**Use Justification:**  legitimate interests (to allow us to continuously improve and develop our services);
 
-Our server resides behind firewalls to protect the Data collected from you against unauthorised or accidental access. Because laws applicable to personal information vary by country, our hotels or other business operations may put in place additional measures that vary depending on the applicable legal requirements. 
+(j)  **To ensure our website and mobile application function correctly** **:**  to ensure that content from our website and mobile applications is presented in the most effective manner for you and for your computer.
 
-##### In our marketing database
+**Use Justification:**  contract performance, legitimate interests (to allow us to provide you with the content and services on the Website); and
 
-Some of our group operations maintain a database of customer information which is used for marketing, promotion and research, understanding and analysing customer behaviour and customer profiling to improve our services. You will receive marketing and promotional materials if you have already given your express and specific consent in some data collection forms. You may elect to unsubscribe from receiving future e-mail promotions at any time.
+(k)  **In connection with any reorganisation of our business** **:**  To analyse, or enable the analysis of, any proposed sale or reorganisation of our business.
 
-##### Secure transmission and storage of data
+**Use Justification:**  contract performance, legitimate interests (to allow us to continue providing services to you).
 
-We treat all Data that you provide to us as confidential information. To prevent Data from unauthorised access or leakage, we have adopted and regularly monitor our group’s security and data privacy policies and procedures. We use SSL protocol – an industry standard for encryption over the Internet, to protect the Data. When you type in sensitive information such as credit card details, it will be automatically encrypted and transferred over a SSL connection. This ensures that your sensitive Data is encrypted as it travels over the Internet. You will know that you are in a secure mode when the security icon (such as a lock) appears in the computer screen.
+**In respect of hotel-related services only**
 
-##### Data transmission across international borders 
+(a) **To register you as a user** : to create your My Peninsula account. You can set up, review or update your My Peninsula information (including your Personal Data) online upon completing an online room reservation.
 
-As a global company, we endeavor to provide you with the same outstanding service in Hong Kong, as you would find in New York or Tokyo. To achieve this goal, we have established a global network comprised of properties, offices, global customer service centers, data centers, trusted service providers, and trained associates around the globe. The nature of our business and our operations require us to transfer your Data to other group companies, properties, centers of operations, data centers, or service providers that may be located in c _ountries outside of your own*_ for the purposes mentioned in this Policy. Although the data protection and other laws of these various countries may not be as comprehensive as those in your own country, the HSH Group will take appropriate steps to ensure that your Data is protected and handled as described in this privacy statement. Therefore, in addition to the implementation of the present Policy, HSH will implement, where necessary appropriate measures, including contractual clauses, to secure the transfer of your Data to recipients (which may be internal or external to the HSH group) located in a country with a level of protection different from the one existing in the country in which your Data is collected.
+**Use Justification:**  contract performance, legitimate interests (to allow us to on-board you as a user);
 
-##### Disclosure of information to third parties 
+## 3\. How we share Personal Data 
 
-In addition to the required information sharing described above, we use the services of third party agents, such as e-mail service providers and mail houses for the purpose of mailing materials to our patrons. These parties are contractually prohibited from using Data for any purpose other than for the purpose specified in their respective contracts. We do provide non-personally identifiable information to certain service providers for their use on an aggregated basis for the purpose of performing their contractual obligations to us. We do not permit the sale of Data to entities outside of the HSH Group for any use unrelated to our group operations or use of Data by third party for their own purposes. HSH will implement, where necessary appropriate measures, including contractual clauses, to secure the transfer of your Data to the third party service providers located in a _country*_ with a level of protection different from the one existing in the country in which your Data is collected.
+3.1 We may share your Personal Data in the following ways.
 
-_*Guest data may be transferred to our headquarters in Hong Kong as well as other countries where we are present, including China, Japan, United States of America, Thailand, the Philippines and France. We also use third party service providers located in United States of America and Australia to process mailing, certain online bookings and purchases of gift cards._
+(a)  **Third party service providers who process Personal Data on our behalf to help us undertake the activities described in section 2  **: We may permit selected third parties such as service providers, agents, contractors, entities which may be the hotel owner, and other HSH Group companies to use your Personal Data for the purposes set out in section 2, including mail houses and e-mail service providers that we engage to send and disseminate promotional materials for the HSH Group, data centre providers that host our servers and third party agents that process mailing, online bookings and purchases of gift cards on our behalf. These parties are contractually prohibited from using Personal Data for any purpose other than for the purpose specified in their respective contracts, and will be subject to obligations to process Personal Data in compliance with the same safeguards that we deploy. We do not permit the sale of Personal Data to entities outside of the HSH Group for any use unrelated to our group operations or use of Personal Data by third parties for their own purposes.
 
-## How we track customer usage on our website
+**Use Justification:**  contract performance, legitimate interests (to allow us to effectively providing services to you and to run and manage our business);
 
-##### Cookies
+(b)  **Law enforcement agencies, government authorities, regulators and the court in order to comply with our legal obligations** **or to handle incidents/ claims** : We may disclose your Personal Data when required by relevant law or court order, or as requested by other government or law enforcement authorities to assist with proceedings or investigations. Where permitted, we will direct any such request to you or notify you before responding unless to do so would prejudice the prevention or detection of a crime. This also applies when we have reason to believe that disclosing the Personal Data is necessary to obtain legal advice, to identify, investigate, protect, contact, or bring legal action against someone who may be causing interference with our guests, visitors, associates, rights or properties, or to others, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
 
-Our website only uses “cookie” technology as a tracking tool. Cookies do not retain registered guests’ information provided during the online reservations or My Peninsula registration. Cookies identify your browser, rather than you and cannot be used by themselves to disclose your individual identity. Cookies enable us to track the number of page visits from the same computer or browser to be aggregated for statistical purposes.
+**Use Justification:**  legal obligation, legal claims, legitimate interests (to cooperate with law enforcement and regulatory authorities); and
 
-Cookies do not corrupt or damage your computer, programs, or computer files.
+(c)  **Third parties who require such data in connection with a change in the structure of our business** : In the event that we (or a part thereof) are (i) subject to negotiations for the sale of our business or (ii) sold to a third party or (iii) undergo a reorganisation, you agree that any of your Personal Data which we hold may be transferred to that re-organised entity or third party and used for the same purposes as set out in this Privacy Policy, or for the purpose of analysing any proposed sale or re-organisation. We will ensure that no more of your Personal Data is transferred than is necessary.
 
-The purpose for which cookies -- other than those which are either exclusively intended to enable or facilitate communication by electronic means or strictly necessary for the provision of an online communication service at your express request -- are used on our website is set forth in a banner appearing the first time you land on such website. By continuing to browse on the website, you consent to their use.
+**Use Justification:**  contract performance, legitimate interests (to allow us to run and manage our business).
 
-You may set your browser to block Cookies, although doing so will affect your ability to perform certain transactions, use certain functionality, and access certain content on our website. Procedures for managing your settings may differ depending on your browser. Please consult the instructions for your particular browser on how to do this. From commonly used browsers, please click the links below:
+3.2 This Privacy Policy does not apply to our processing of personal information on behalf of, or at the direction of, third party providers (for example, airlines, car rental companies, table booking websites) who may collect personal information from you and provide it to us. In this situation, we would merely act as a data processor and thus advise you to review applicable the third party provider’s privacy policy before submitting your personal information.
 
-  [Microsoft Windows Explorer](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)   
-[Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies)  
-[Mozilla Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)  
-[Apple Safari](http://support.apple.com/kb/PH5042)
+**___________________________**
 
-If you do not use any of the browsers listed above, choose the "Help" function, followed by "Cookies" to find out where your cookie folder is stored.
+**_Use justifications_**
 
-##### Pixel Tags
+_We note the grounds we use to justify each use of your Personal Data next to the use in the How we use Personal Data and How we share Personal Data sections of this Privacy Policy._
 
-Our group and our third-party service providers may use pixel tags (also known as “clear gifs”, “beacon gifs” etc.), tracking links and/or similar technology to:
+_These are the principal legal grounds that justify our use of your Personal Data:_
 
-  * Track customer response to The Peninsula Hotels advertisements and website content; 
-  * Determine your ability to receive HTML-based e-mail messages. Our e-mail service provider includes a pixel tag, which they refer to as a “coded sensor” in all of the HTML-based messages sent on our behalf. The sensor activates when the e-mail message is opened and flags the e-mail address of the user as one that is capable of receiving HTML-based e-mail messages. This capability helps our service provider to send the e-mail in a format you can read. The sensor does not collect or use any other information. If you cannot receive HTML, you will not receive a functioning sensor; 
-  * Know how many users open an e-mail and allow our service provider to compile aggregated statistics about an e-mail campaign for us; and 
-  * Allow us to better target interactive advertising, enhance customer support and site usability, and provide offers and promotions that we believe would be of interest to you. Your Data will not be collected apart from what you voluntarily provide us in your dealings with our group operations.
+**_Consent_** _: where you have consented to our use of your Personal Data (you will have been presented with a consent form in relation to any such use)_
 
+**_Contract performance_** _: where your Personal Data is necessary to enter into or perform our contract with you._
 
+**_Legal obligation_** _: where we need to use your Personal Data to comply with our legal obligations._
 
-## E-mails about Special Offers and Promotions and Opt-Out
+**_Legitimate interests_** _: where we use your Personal Data to achieve a legitimate interest and our reasons for using it outweigh any prejudice to your data protection rights._
 
-With your consent, we may send you information about The Peninsula Hotels, and restaurants and clubs operated by our group companies, including special offers on accommodation, food and beverage, spa and other hotel services by post or e-mail. It is however our intention to only send you mail and e-mail communications that you may want to receive. When you opt-in or do not opt-out from receiving promotional material either on a guest registration card or when you enrol in My Peninsula, or patronise our restaurants and provide your e-mail address to us specifically and expressly in order to receive marketing communications, we will periodically contact you via e-mail and provide information about special offers and promotions that may be of interest to you. These communications will relate to offers relating to The Peninsula Hotels, and restaurants and clubs operated by our group companies. We typically use third party e-mail service providers to send e-mails. These service providers are contractually prohibited from using your e-mail address for any purpose other than to send e-mails related to our group operations. Data will not be shared with third parties for their own marketing purposes. 
+**_Legal claims_** _: where your information is necessary for us to defend, prosecute or make a claim against you, us or a third party._
 
-We provide you the ability to unsubscribe from all marketing communications. Every time you receive an e-mail, you will be provided with the choice to opt-out of future e-mails by following the instructions provided in the e-mail. You may also opt-out of receiving promotional materials by updating your My Peninsula account, or sending a letter or fax to:
+**_Vital interest:_** _where we need to process your Personal Data to protect the vital interest of you or another natural person e.g. where you require urgent assistance._
 
-Data Privacy Team   
-The Hongkong and Shanghai Hotels, Limited   
-8/F St George’s Building   
-2 Ice House Street   
-Central   
+_These are the principal legal grounds that justify our use of your Special Categories of Personal Data:_
+
+**_Explicit consent:_** _You have given your explicit consent to the processing of those personal data for one or more specified purposes. You are free to withdraw your consent by_[ _contacting us_](mailto:privacy@peninsula.com) _. Where you do so, we may be unable to provide a service that requires the use of such data._
+
+**_Protection of vital interests of you or another person, where you are unable to consent:_** _Processing is necessary to protect the vital interests of you or of another natural person where you are physically or are legally incapable of giving consent._
+
+**___________________________**
+
+## 4\. How we transmit, protect and store Personal Data
+
+**Security of communications**  
+
+4.1 It is important to note that no security system or system of transmitting information over the Internet is guaranteed to be secure. There is a risk inherent in the submission of information online, use of e-mail and facsimile. Please be aware of this when requesting information or sending forms to us online or by e-mail or facsimile, for example, from the “Contact Us” section. We recommend that you do not include any sensitive information including credit card details when submitting information online, using e-mail, facsimile or when using any public computers/public WIFI.
+
+**Security controls**
+
+4.2 We maintain administrative, technical and physical safeguards designed to protect the personal data we maintain against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.  Despite such efforts, however, please note that no company can fully eliminate risks or guarantee the security of personal information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of information about you at any time, and we bear no liability for uses or disclosures of personal information or other data arising in connection with theft of the information or other malicious actions
+
+4.3 We store certain customer information and reservation details in our Customer Information System and Reservation System on our subcontractor’s secure servers. Our server resides behind firewalls to protect Personal Data collected from you against unauthorised or accidental access. Because laws applicable to personal information vary by country, our hotels or other business operations may put in place additional measures that vary depending on the applicable legal requirements.
+
+**Personal  Data transmission across international borders **
+
+4.4 As a global company, we endeavour to provide you with the same outstanding service in Hong Kong, as you would find in New York or Tokyo. To achieve this goal, we have established a global network comprised of properties, offices, global customer service centers, data centers, trusted service providers, and trained associates around the globe. The nature of our business and our operations require us to transfer your Personal Data to other group companies, properties, centers of operations, data centers, or service providers that may be located in countries outside of your own* for the purposes mentioned in this Privacy Policy. Although the data protection and other laws of these various countries may not be as comprehensive as those in your own country, the HSH Group will take appropriate measures, including contractual clauses, to secure the transfer of your Personal Data to recipients (which may be internal or external to the HSH group) located in a country with a level of protection different from the one existing in the country in which your Personal Data is collected.  
+_*Currently, guest data may be transferred to our headquarters in Hong Kong as well as other countries where we are present, including China, Japan, Vietnam, United Kingdom, United States of America, Thailand, the Philippines and France. We also use third party service providers which are located in countries such as United States of America and Australia to process mailing, certain online bookings and purchases of gift cards._
+
+4.5 Your Personal Data may be accessed by staff or suppliers, transferred, and/or stored outside the European Economic Area (EEA) including to countries which may have a lower level of data protection than under EU data protection law. We must comply with specific rules when we transfer Personal Data from inside the EEA to outside the EEA. When we do this, we will use appropriate safeguards to protect any Personal Data being transferred.  Where required, we will transfer your Personal Data subject to European Commission approved contractual terms that impose different data protection obligations directly on the recipient. Please contact us as set out in Section 6 below if you would like to see a copy of the specific safeguards we apply to the export of your Personal Data.
+
+4.6 Your Personal Data will be stored for the period of time required or permitted by law in the jurisdiction of the operation holding the information (for example certain transaction details and correspondence may be retained until the time limit for claims in respect of the transaction has expired or in order to comply with regulatory requirements regarding the retention of such data). So if information is used for two purposes we will retain it until the purpose with the latest period expires; but we will stop using it for the purpose with a shorter period once that period expires.
+
+4.7 Our retention periods are based on business needs and your Personal Data that is no longer needed is either irreversibly anonymised (and the anonymised information may be retained) or securely destroyed.
+
+## 5\. Your rights
+
+**Opt-out of marketing**
+
+5.1 You have the right to ask us not to process your Personal Data for marketing purposes at any time. You can exercise your right by checking certain boxes online or on the data collection forms, talking to us in person, or by contacting us as set out in section 6 below.
+
+**Other rights**
+
+5.2 Subject to various exceptions and data protection laws in your country, you may have the following rights:
+
+(a)  **Access** : you can ask us to provide you with further details on the use we make of your Personal Data and a copy of the Personal Data we hold about you;
+
+(b)  **Correction** : you can ask us to correct any inaccuracies in the Personal Data we hold about you;
+
+(c)  **Complaint** :if you are not satisfied with our use of your Personal Data or our response to any exercise of these rights, you have the right to complain to the data protection authority in your country;
+
+(d)  **Erasure** : you can ask us to delete your Personal Data if we no longer have a lawful ground for use;
+
+(e)  **Withdrawal of consent** : where processing is based on consent (e.g. marketing, or certain uses of Special Categories of Personal Data), you can withdraw your consent to processing and we will stop that particular processing;
+
+(f)  **Object to processing** : you have the right to object to other types of processing (e.g. analytics and profiling activities carried out in relation to your Personal Data), unless our reasons for undertaking that processing outweigh any prejudice to your data protection rights; 
+
+(g)  **Restriction:**  you can restrict how we use your Personal Data pending any investigation, for example whilst we are verifying the accuracy of your Personal Data or where we are verifying the grounds that we use as the basis of holding your Personal Data;
+
+(h)  **Portability:**  where technically feasible, you have the right to ask us to transmit the Personal Data that you have provided to us to a third party in a structured, commonly used and machine readable form.
+
+**Updating information**
+
+5.3 We will use reasonable endeavours to ensure that your Personal Data is accurate. In order to assist us with this, you should notify us of any changes to your Personal Data that you have provided to us by updating your details in your My Peninsula account or by contacting us as set out in section 6 below.
+
+**Notifications in the event of breach**
+
+5.4 In the unlikely event of a data breach, we are prepared to follow any laws and regulations which would require us to notify you of the disclosure of private information.
+
+**California Privacy Rights**
+
+5.5 Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer data which we share with our group companies, affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this information, please submit a written request to the address details in Section 6.
+
+## 6\. Contacting Us
+
+6.1 If you have any questions about this Privacy Policy or our processing of your Personal Data, please contact us at:
+
+Data Privacy Team
+
+The Hongkong and Shanghai Hotels, Limited   
+8/F St George’s Building   
+2 Ice House Street   
+Central   
 Hong Kong
 
 Fax: +852 2147 3720
 
-Please allow 10 business days for us to process your opt-out.
+Email: [privacy@peninsula.com](mailto:privacy@peninsula.com)
 
-## How long will Data be retained for?
+Alternatively, you can contact our Representative in the European Union at: 
 
-Your Data will be stored for the period of time required or permitted by law in the jurisdiction of the operation holding the information. However, information that is stored on My Peninsula may be edited and deleted by users of such service at any time.
+First European Data Rep BV
 
-Data may be stored by Peninsula Hotels and other group operations as long as required for the business purpose for which these Data are processed.
+WTC Amsterdam Airport 
 
-## Notifications in the event of breach
+Schiphol Boulevard 195
 
-In the unlikely event of a Data breach, we are prepared to follow any laws and regulations which would require us to notify you of the disclosure of private information.
+1118 BG Schiphol
 
-## Careers
+The Netherlands
 
-Our careers websites at [www.peninsula.com](http://www.peninsula.com/) and [www.hshgroup.com](http://www.hshgroup.com/) allow individuals that wish to be considered for potential employment to attach their curriculum vitae for consideration. We will not use the information you provide for any purpose other than to determine your qualifications for potential employment at the HSH Group.
+Attention: HSH Management Services Limited
 
-## Other Sites
+Phone: +31 20 3080 880 
 
-The HSH Group is only responsible for the privacy statement and content of this website. Our website may contain links to other sites of third parties. We are not responsible for the data collection and use practices, privacy policy or the use of cookies on other websites that you have accessed this website from and to the non-HSH Group websites that you may access from this website. We advise you to review the privacy policies of such third parties before submitting personal Data.
+Email: [hsh@eudatarep.com](mailto:hsh@eudatarep.com)
 
-## Children’s Privacy
+## 7\. Cookies
 
-This website is not intended for children and minors and we do not knowingly solicit or collect Data from children and minors. As a parent or legal guardian, please do not allow your children to submit Data without your permission.
+7.1 Our website uses cookies to distinguish you from other users of the Website. This helps us provide you with a good experience when you browse our website and also allows us to improve our Website. For detailed information on the cookies we use and the purposes for which we use them, please see our [Cookies Policy](http://www.peninsula.com/en/cookies-policy).
 
-## Legal Disclaimer
+## 8\. Changes to the Privacy Policy 
 
-This privacy statement complies with the Personal Data (Privacy) Ordinance of the Hong Kong Special Administrative Region as well as applicable local laws.
+8.1 In the future, we may need to make additional changes. All additional changes will be included in the latest Privacy Policy published on this website or mobile application, so that you will always understand our current practices with respect to the information we gather, how we might use that information and disclosures of that information to third parties. You can tell when this Privacy Policy was last updated by looking at the date at the bottom of the Privacy Policy. Any changes to our Privacy Policy will become effective upon posting of the revised Privacy Policy. We will seek your express consent to any changes to how we use or disclose your Personal Data if required by law but otherwise use of this website or our services following such changes constitutes your acceptance of the Privacy Policy then in effect.
 
-As an international business with operations in different parts of the world, we may need to disclose Data when required by relevant law or court order, or as requested by other government or law enforcement authorities. This also applies when we have reason to believe that disclosing the Data is necessary to identify, investigate, protect, contact or bring legal action against someone who may be causing interference with our guests, visitors, associates, rights or properties (including this site), or to others, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
+## 9\. Other Sites
+
+9.1 In the future, we may need to make additional changes. All additional changes will be included in the latest Privacy Policy published on this website or mobile application, so that you will always understand our current practices with respect to the information we gather, how we might use that information and disclosures of that information to third parties. You can tell when this Privacy Policy was last updated by looking at the date at the bottom of the Privacy Policy. Any changes to our Privacy Policy will become effective upon posting of the revised Privacy Policy. We will seek your express consent to any changes to how we use or disclose your Personal Data if required by law but otherwise use of this website or our services following such changes constitutes your acceptance of the Privacy Policy then in effect.
+
+## 10\. Careers
+
+10.1 Our careers websites at [www.peninsula.com](http://www.peninsula.com/) and [www.hshgroup.com](http://www.hshgroup.com/) allow individuals that wish to be considered for potential employment to attach their curriculum vitae for consideration. We will not use the information you provide for any purpose other than to determine your qualifications for potential employment at the HSH Group.
