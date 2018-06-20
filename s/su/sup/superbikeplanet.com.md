@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superbikeplanet.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210175300id_/http%3A//www.superbikeplanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbikeplanet.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620230111id_/http%3A//www.superbikeplanet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SuperbikePlanet
+# Privacy Policy – SuperbikePlanet
 
 We promise not to disclose your private information to any third party except if required to do so by law, or in the good faith belief that such action is necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of Superbikeplanet.com users or the public. We take all reasonable care in handling your personal information to ensure its security both offline and online.
 
