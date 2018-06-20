@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucbcomedy.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216055433id_/http%3A//www.ucbcomedy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucbcomedy.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620020727id_/http%3A//ucbcomedy.com/privacy) for the most accurate reproduction.*
 
 # UCBComedy
 
@@ -72,4 +72,4 @@ New York, NY
 10018 
 
 212-366-9176  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#88eafdeffbc8fdebeaebe7e5edecf1a6ebe7e5)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#81e3f4e6f2c1f4e2e3e2eeece4e5f8afe2eeec)
