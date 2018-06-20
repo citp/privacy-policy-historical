@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tappytoon.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206222533id_/http%3A//app.tappytoon.com/terms/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tappytoon.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620154557id_/http%3A//app.tappytoon.com/terms/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TappyToon
 
-##### This page is the Privacy Policy. To view the [Terms of Service, click here](https://web.archive.org/web/20171206222533id_/http%3A//app.tappytoon.com/terms/termsofservice.html).
+##### This page is the Privacy Policy. To view the [Terms of Service, click here](https://web.archive.org/web/20180620154557id_/http%3A//app.tappytoon.com/terms/termsofservice.html).
 
 ##  TappyToon User Privacy Policy  
 
@@ -25,7 +25,7 @@ We also process anonymous data, aggregated or not, in order to analyze and produ
 
 "Personally identifiable information" is information that can be used to uniquely identify a user such as name, email address and other relevant information that we may request. You may be asked to provide such personally identifiable information during the log in and sign up process, and then in connection with the use of our Service. While we collect personally identifiable information on a voluntary basis, for certain products and services our collecting of personally identifiable information may be a requirement for access to the Content or Service. 
 
-When you purchase Content offered in the Service using your account with a third party app store (including but not limited to the Apple iTunes App Store, Goole Play Store and similar) we do not collect the credit card information that you use for such transactions, and we are not responsible for the policies and practices of such app stores.
+When you purchase Content offered in the Service using your account with a third party app store (including but not limited to the Apple iTunes App Store, Google Play Store and similar) we do not collect the credit card information that you use for such transactions, and we are not responsible for the policies and practices of such app stores.
 
 ###  Use of Personally Identifiable Information
 
