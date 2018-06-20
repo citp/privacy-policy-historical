@@ -1,67 +1,158 @@
-<!--The following is the downloaded HTML source of the metaspoon.com privacy policy that was archived on 2017-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119041437id_/http%3A//www.metaspoon.com/privacy-policy-metaspoon) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metaspoon.com privacy policy that was archived on 2018-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180620183255id_/http%3A//www.metaspoon.com/privacy-policy-metaspoon) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js" lang="en-US" itemscope="" itemtype="http://schema.org/Article" prefix="og: http://ogp.me/ns#"><head>
+<!DOCTYPE html><html class="js" lang="en-US"><head>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=203185932151"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+
+        var screenW = window.innerWidth > screen.width ? screen.width  : window.innerWidth;
+
+        var deviceTest = 'd';
+        /* This decided what platform is being used depending on screensize and orientation */
+        if (screenW <= 480 && screenW >= 0 ){
+            deviceTest = 'm'; //sets platform as mobile
+        } else if (screenW <= 960 && screenW > 599){
+            deviceTest = 't'; //sets platform as tablet
+        } else {
+            deviceTest = 'd'; //sets platform as desktop
+        }
+
+        function escapeHtml(string) {
+            return String(string).replace(/[&<>"'\/]/g, function (s) {
+                return entityMap[s];
+            });
+        }
+
+        //Delete consent cookies, in case set its set before
+        function delete_cookie( name, path, domain ) {
+            document.cookie = name + '=;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+            // document.cookie = name + "=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+        }
+        delete_cookie('metaspoonConsent');
+        delete_cookie('metaspoonConsentAgreed');
+        delete_cookie('metaspoonGDPRUser');
+
+        var params = {};
+        if (location.search) {
+            var parts = location.search.substring(1).split('&');
+            for (var i = 0; i < parts.length; i++) {
+                var nv = parts[i].split('=');
+                if (!nv[0]) continue;
+                params[nv[0]] = nv[1] || true;
+            }
+        }
+
+        var testVarM = ["mv4-0", "mv4-1"];
+        var testVarD = ["dv3-0", "dv3-5", "dv3-7", "dv3-8"];
+
+        function setTestVar(urlToLoad, queryStr){
+            switch (deviceTest){
+                case 'm':
+                    randNumAlt = Math.floor(Math.random() * 10) + 1;
+                    if(randNumAlt === 10){
+                        randNumTestVar1 = Math.floor(Math.random() * 2) + 1;
+                        if (randNumTestVar1 === 1){
+                            randTestVar1 = testVarM[0];
+                        }else if(randNumTestVar1 === 2){
+                            randTestVar1 = testVarM[1];
+                        }
+                    }
+                    break;
+
+                case 'd':
+                    randNumTestVar1 = Math.floor(Math.random() * 4) + 1;
+                    if (randNumTestVar1 === 1){
+                        randTestVar1 = testVarD[0];
+                    } else if (randNumTestVar1 === 2){
+                        randTestVar1 = testVarD[1];
+                    } else if(randNumTestVar1 === 3){
+                        randTestVar1 = testVarD[2];
+                    } else if(randNumTestVar1 === 4){
+                        randTestVar1 = testVarD[3];
+                    }
+                    break;
+
+                default:
+                    break;
+            }
+
+            if(typeof randTestVar1 !== 'undefined' && randTestVar1 !== null){
+
+                if(queryStr !== ''){
+                    window.location = urlToLoad + "&testvar="+randTestVar1;
+                }else{
+                    window.location = urlToLoad + "?testvar="+randTestVar1;
+                }
+
+            }
+        }
+
+        if (!params.testvar) {
+
+            setTestVar(window.location.href, window.location.search);
+
+        } else{
+
+            var plainURL = window.location.href.split('?')[0];
+            var queryStr = "";
+            for(var key in params){
+                if(key !== 'testvar'){
+                    if (queryStr !== "") {
+                        queryStr += "&";
+                    }
+                    queryStr += key + "=" + encodeURIComponent(params[key]);
+                }
+            }
+
+            if((deviceTest === 'm' && testVarM.indexOf(params.testvar) <= -1) || (deviceTest === 'd' && testVarD.indexOf(params.testvar) <= -1)){
+
+                setTestVar(plainURL + (queryStr !== "" ? "?" + queryStr : ""), queryStr);
+
+            }else if(deviceTest === 't' && typeof params.testvar !== 'undefined'){
+
+                window.location = plainURL + (queryStr !== "" ? "?" + queryStr : "");
+
+            }
 
 
+        }
 
-        
-	<meta charset="UTF-8">
-	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
-	<!--[if IE ]>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    </script>
+<meta charset="UTF-8">
+
+<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4BWVdUGwAHVVJaAAg="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
 	<![endif]-->
-	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<title>Privacy Policy</title>
-		<link rel="icon" href="http://www.metaspoon.com/wp-content/uploads/2014/04/Logo_M_16x161.png" type="image/x-icon">
-<!--iOS/android/handheld specific -->
-<link rel="apple-touch-icon" href="http://www.metaspoon.com/wp-content/themes/truepixel/apple-touch-icon.png">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<title>Privacy Policy</title>
+<link rel="icon" href="http://www.metaspoon.com/wp-content/uploads/2018/01/favicon-32x32.png" type="image/x-icon">
+
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-	<link rel="pingback" href="">
-	
-<!-- All in One SEO Pack 2.4.2.1 by Michael Torbert of Semper Fi Web Design[409,442] -->
-<meta name="description" content="Metaspoon.com Privacy Policy This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information'">
+<meta itemprop="name" content="MetaSpoon">
+<meta itemprop="url" content="http://www.metaspoon.com">
+<meta itemprop="creator accountablePerson" content=" ">
+<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script>
 
+<meta name="description" content="This is Metaspoon's privacy policy. This document explains Metaspoon's policies for the collection, use and disclosure of personal information. Metaspoon abides">
 <link rel="canonical" href="http://www.metaspoon.com/privacy-policy-metaspoon">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://www.metaspoon.com/privacy-policy-metaspoon">
 <meta property="og:site_name" content="MetaSpoon">
 <meta property="fb:admins" content="100007998783380">
-<meta property="og:description" content="Metaspoon.com Privacy Policy This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. What personal information do we collect from the people that visit our blog, website or app? We do not collect information from visitors of our site. or other details to help you with your experience. When do we collect information? We collect information from you when you or enter information on our site. How do we use your information? We may use the information we">
-<meta property="article:published_time" content="2016-11-03T18:53:47Z">
-<meta property="article:modified_time" content="2017-10-12T13:01:35Z">
+<meta property="og:description" content="This is Metaspoon's privacy policy. This document explains Metaspoon's policies for the collection, use and disclosure of personal information. Metaspoon abides by applicable privacy legislation. Metaspoon provides social media websites. THE INFORMATION WE COLLECT Metaspoon collects information by various methods including information actively provided by its customers, and tools such as cookies to enhance the user's website experience. The types of personal information we collect include the user's name and contact information, IP address, as well as any information you voluntarily post on the website. HOW WE USE THIS INFORMATION This information is used to provide our web based services. Metaspoon may use aggregate or anonymous information which will not be linked to identified individuals for various other uses for itself and third parties. WHO WE SHARE THIS INFORMATION WITH Metaspoon does not share personal information with any third parties except as disclosed in this policy.">
+<meta property="article:published_time" content="2016-11-03T22:53:47Z">
+<meta property="article:modified_time" content="2018-05-24T17:38:41Z">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@MetaSpoon">
 <meta name="twitter:title" content="Privacy Policy">
-<meta name="twitter:description" content="Metaspoon.com Privacy Policy This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. What personal information do we collect from the people that visit our blog, website or app? We do not collect information from visitors of our site. or other details to help you with your experience. When do we collect information? We collect information from you when you or enter information on our site. How do we use your information? We may use the information we">
-<!-- /all in one seo pack -->
+<meta name="twitter:description" content="This is Metaspoon's privacy policy. This document explains Metaspoon's policies for the collection, use and disclosure of personal information. Metaspoon abides by applicable privacy legislation. Metaspoon provides social media websites. THE INFORMATION WE COLLECT Metaspoon collects information by various methods including information actively provided by its customers, and tools such as cookies to enhance the user's website experience. The types of personal information we collect include the user's name and contact information, IP address, as well as any information you voluntarily post on the website. HOW WE USE THIS INFORMATION This information is used to provide our web based services. Metaspoon may use aggregate or anonymous information which will not be linked to identified individuals for various other uses for itself and third parties. WHO WE SHARE THIS INFORMATION WITH Metaspoon does not share personal information with any third parties except as disclosed in this policy.">
+
 <link rel="dns-prefetch" href="//ajax.googleapis.com">
-<link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="MetaSpoon » Feed" href="http://www.metaspoon.com/feed">
-<link rel="alternate" type="application/rss+xml" title="MetaSpoon » Comments Feed" href="http://www.metaspoon.com/comments/feed">
-		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=203185932151"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.metaspoon.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.metaspoon.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9" type="text/javascript" defer=""></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="fontawesome-css" href="http://www.metaspoon.com/wp-content/themes/truepixel/css/font-awesome.min.css?ver=4.9" type="text/css" media="all">
-<link rel="stylesheet" id="stylesheet-css" href="http://www.metaspoon.com/wp-content/themes/truepixel/style.css?ver=4.9" type="text/css" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="http://www.metaspoon.com/wp-content/themes/truepixel/css/font-awesome.min.css?ver=4.9.6" type="text/css" media="all">
+<link rel="stylesheet" id="metaspoon-style-css" href="http://www.metaspoon.com/wp-content/themes/metaspoon/css/metaspoon.min.css?ver=1.0.37" type="text/css" media="all">
+<link rel="stylesheet" id="stylesheet-css" href="http://www.metaspoon.com/wp-content/themes/metaspoon/css/style.css?ver=1.0.37" type="text/css" media="all">
 <style id="stylesheet-inline-css" type="text/css">
 
 		body {background-color:#f9f9f9; }
@@ -74,11 +165,7 @@ img.emoji {
 		.flex-control-thumbs .flex-active{ border-top:3px solid #81d0e8;}
 		#tabber ul.tabs li a,.copyrights { border-color: #81d0e8; }
 		
-		.shareit { top: 332px; left: auto; z-index: 0; margin: 0 0 0 -140px; width: 90px; position: fixed; overflow: hidden; padding: 5px; border:none; border-right: 0; -moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3); -webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3); box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3); }
-		.share-item {margin: 2px;}
-        .fb-monkey { top: 191px; left: auto; z-index: 0; margin: 0 0 0 -140px; width: 90px; position: fixed; overflow: hidden;}
-        .fb-monkey img {border:0px;}
-        
+		
 		
 		.bypostauthor {padding: 3%!important; background: #FAFAFA; width: 94%!important;}
 		.bypostauthor:after { content: "Author"; position: absolute; right: -1px; top: -1px; padding: 1px 10px; background: #818181; color: #FFF; }
@@ -88,26 +175,29 @@ img.emoji {
 		
 			
 </style>
+<link rel="stylesheet" id="metaspoon-style-v-2.0.4-css" href="http://www.metaspoon.com/wp-content/themes/metaspoon/css/style-v-2.0.4.min.css?ver=1.0.37" type="text/css" media="all">
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<link rel="https://api.w.org/" href="http://www.metaspoon.com/wp-json/">
-<!--Theme by MyThemeShop.com-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var mts_customscript = {"responsive":"","nav_menu":"none"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.metaspoon.com/wp-content/themes/metaspoon/js/home.js?ver=1.0.37"></script>
 <link rel="shortlink" href="http://www.metaspoon.com/?p=16855">
-<link rel="alternate" type="application/json+oembed" href="http://www.metaspoon.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.metaspoon.com%2Fprivacy-policy-metaspoon">
-<link rel="alternate" type="text/xml+oembed" href="http://www.metaspoon.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.metaspoon.com%2Fprivacy-policy-metaspoon&amp;format=xml">
-<link href="http://fonts.googleapis.com/css?family=Oswald:normal|Roboto+Condensed:300|Roboto+Condensed:normal|PT+Sans:normal" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Oswald:normal|Roboto+Condensed:300|Roboto+Condensed:normal|PT+Sans:normal&amp;subset=latin" rel="stylesheet" type="text/css">
 <style type="text/css">
-#top-navigation .menu li a, nav #pull{ font-family: 'Oswald'; font-weight: normal; font-size: 16px; color: #ffffff; }
-#navigation .menu li, .total-comments{ font-family: 'Oswald'; font-weight: normal; font-size: 16px; color: #777777; }
-#logo.text-logo a{ font-family: 'Oswald'; font-weight: normal; font-size: 34px; color: #e03f00; }
-h1{ font-family: 'Roboto Condensed'; font-weight: 300; font-size: 30px; color: #555555; }
-h2{ font-family: 'Oswald'; font-weight: normal; font-size: 26px; color: #e03f00; }
-h3{ font-family: 'Roboto Condensed'; font-weight: normal; font-size: 22px; color: #81d0e8; }
-h4{ font-family: 'Roboto Condensed'; font-weight: normal; font-size: 20px; color: #81d0e8; }
-h5{ font-family: 'Oswald'; font-weight: normal; font-size: 18px; color: #e03f00; }
-h6{ font-family: 'Oswald'; font-weight: normal; font-size: 16px; color: #e03f00; }
-body{ font-family: 'PT Sans'; font-weight: normal; font-size: 17px; color: #5b5b5b; }
+#top-navigation .menu li a, nav #pull { font-family: 'Oswald'; font-weight: normal; font-size: 16px; color: #ffffff; }
+#navigation .menu li, .total-comments { font-family: 'Oswald'; font-weight: normal; font-size: 16px; color: #777777; }
+#logo.text-logo a { font-family: 'Oswald'; font-weight: normal; font-size: 34px; color: #e03f00; }
+h1 { font-family: 'Roboto Condensed'; font-weight: 300; font-size: 30px; color: #555555; }
+h2 { font-family: 'Oswald'; font-weight: normal; font-size: 26px; color: #e03f00; }
+h3 { font-family: 'Roboto Condensed'; font-weight: normal; font-size: 22px; color: #81d0e8; }
+h4 { font-family: 'Roboto Condensed'; font-weight: normal; font-size: 20px; color: #81d0e8; }
+h5 { font-family: 'Oswald'; font-weight: normal; font-size: 18px; color: #e03f00; }
+h6 { font-family: 'Oswald'; font-weight: normal; font-size: 16px; color: #e03f00; }
+body { font-family: 'PT Sans'; font-weight: normal; font-size: 17px; color: #5b5b5b; }
 </style>
-<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/,'js');</script>    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>    <script>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script> <script>
 
       window.OneSignal = window.OneSignal || [];
 
@@ -122,25 +212,16 @@ body{ font-family: 'PT Sans'; font-weight: normal; font-size: 17px; color: #5b5b
 
         oneSignal_options['wordpress'] = true;
 oneSignal_options['appId'] = '9720b3ed-a021-4628-9fc5-69840fac2ec9';
-oneSignal_options['autoRegister'] = true;
-oneSignal_options['httpPermissionRequest'] = { };
-oneSignal_options['httpPermissionRequest']['enable'] = true;
+oneSignal_options['autoRegister'] = false;
 oneSignal_options['welcomeNotification'] = { };
 oneSignal_options['welcomeNotification']['title'] = "";
 oneSignal_options['welcomeNotification']['message'] = "Thanks for subscribing. More great stories are coming your way! If you change your mind, you can unsubscribe by visiting metaspoon.com, clicking the Notificatiosn icon in the bottom right corner, and then selecting Unsubscribe.";
 oneSignal_options['subdomainName'] = "https://metaspoon.os.tc";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.1b1338f0-ae7a-49c0-a5a1-0112be9b9bea";
 oneSignal_options['promptOptions'] = { };
 oneSignal_options['promptOptions']['siteName'] = 'http://www.metaspoon.com';
-oneSignal_options['notifyButton'] = { };
-oneSignal_options['notifyButton']['enable'] = true;
-oneSignal_options['notifyButton']['position'] = 'bottom-right';
-oneSignal_options['notifyButton']['theme'] = 'default';
-oneSignal_options['notifyButton']['size'] = 'small';
-oneSignal_options['notifyButton']['prenotify'] = true;
-oneSignal_options['notifyButton']['showCredit'] = false;
-oneSignal_options['notifyButton']['text'] = {};
-              OneSignal.init(window._oneSignalInitOptions);
-                    });
+          /* OneSignal: Using custom SDK initialization. */
+                });
 
       function documentInitOneSignal() {
         var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
@@ -158,42 +239,40 @@ oneSignal_options['notifyButton']['text'] = {};
           });
       }
     </script>
-
-    <meta property="fb:pages" content="1389402008000409">
-    <meta property="fb:pages" content="1621622838049253">
-    <meta property="fb:pages" content="1852070731749154">
-
+<meta property="fb:pages" content="1389402008000409">
+<meta property="fb:pages" content="1621622838049253">
+<meta property="fb:pages" content="1852070731749154">
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=546399675493858&ev=PageView&noscript=1"
 /></noscript>
-    <meta property="fb:app_id" content="222437404630553">   
+<meta property="fb:app_id" content="222437404630553">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<script>
 
-                    <meta property="og:image:width" content="1200">
-        <meta property="og:image:height" content="630">
-
-     
-            
-    
-    
-                                <script type="text/javascript" src="http://www.metaspoon.com/wp-content/themes/truepixel/js/customscript.js?ver=4.6.2"></script>
-        
-        <script>
-        
             screenwidth = $(window).width();
-                
-          function v1(gstate,event){ if (event.data == YT.PlayerState.ENDED) { if ( window.screen.width > 490 ){ launchModal(); } }} 
+            device = 'd';
+            /* This decided what platform is being used depending on screensize and orientation */
+            if (screenwidth <= 480 && screenwidth >= 0 ){
+                device = 'm'; //sets platform as mobile
+            }
+            else if (screenwidth <= 960 && screenwidth > 599){
+                device = 't'; //sets platform as tablet
+            }
+            else {
+                device = 'd'; //sets platform as desktop
+            }
+
+                      function v1(gstate,event){ if (event.data == YT.PlayerState.ENDED) { if ( window.screen.width > 490 ){ launchModal(); } }} 
           function stopv() { player.stopVideo(); if ( window.screen.width > 490 ){ launchModal(); } }       
         </script>
-
-        <script type="text/javascript" src="http://www.metaspoon.com/wp-content/themes/truepixel/js/bp.js?ver=3.9.1">    
-        </script>
-        <script>
+<script>
                         nativeTestNum = 0
         </script>
-          
-                <script>  
-                    nativeTestNum = Math.floor(Math.random() * 2) + 1  
-                    
+<script>  
+                    nativeTestNum = Math.floor(Math.random() * 5) + 1  
+                </script>
+<script>
                     //load revcontent header code
                     if (nativeTestNum == 1){
                         //none needed    
@@ -219,391 +298,255 @@ src="https://www.facebook.com/tr?id=546399675493858&ev=PageView&noscript=1"
                      
                     }
                 </script>
-        
-        
-        
-                               
- <script>
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-54025216-1', 'metaspoon.com');
+  ga('create', 'UA-54025216-1', 'auto');
+
   ga('require', 'displayfeatures');
   ga('send', 'pageview');
 
-
- ga('create', 'UA-48974933-1', {'name': 'global'});
- ga('global.send', 'pageview');
-
+  ga('create', 'UA-48974933-1', {'name': 'metaspooncom'});
+  ga('metaspooncom.send', 'pageview');
 
 </script>
-
-     
+<link rel="manifest" href="/manifest.json">
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+            OneSignal.init({
+                appId: "9720b3ed-a021-4628-9fc5-69840fac2ec9",
+            });
+        });
+    </script>
 </head>
 <body id="blog" class="page-template-default page page-id-16855 main" itemscope="" itemtype="http://schema.org/WebPage">
-	
-           <div class="main-container-wrap">  
-                <!-- Primary Navigation  -->    
-            <div class="top-navigation">                    <nav id="top-navigation" class="navigation">
-                    <span class="turn-on-mobile-menu"><span id="logo-top-navigation"> <span id="mobile_menu" onclick="openNav()">☰</span><span style="display:block;margin-top:7px;width:100%;text-align:center;"><a href="http://www.metaspoon.com" rel="nofollow" class="toggle-mobile-menu"><img src="/wp-content/themes/truepixel/images/metaspoon_logo-alt_nav-ml.png" srcset="/wp-content/themes/truepixel/images/metaspoon_logo-alt_nav-ml.png, /wp-content/themes/truepixel/images/metaspoon_logo-alt_nav-ml@2x.png 2x"></a></span></span></span>    
-                    <div class="container">
-                                                <ul class="menu clearfix">       
-                                                                               </ul>
-                                            </div>
-                </nav>
-                  
-                  <style>
-    
-                                        @media screen and (min-width: 865px) {
-                        #page {
-                            margin-top:50px;
-                                
-                        } 
-                    }
-                    @media screen and (max-width: 865px) {
-                        #page {
-                            margin-top:30px;
-                                
-                        } 
-                    }
-                    
-                    
-                    .top-navigation {
-                            position: fixed; 
-                            top: 0px; 
-                            width: 100%; 
-                            z-index: 2;
-                           
-                    }                  
-                                
-                    .sidenav {
-                        height: 100%;
-                        width: 0;
-                        position: fixed;
-                        z-index: 99;
-                        top: 0;
-                        left: 0;
-                        background-color: #111;
-                        overflow-x: hidden;
-                        transition: 0.5s;
-                        padding-top: 60px;
+<div class="main-container-wrap">
+
+<div class="top-navigation">
+<nav id="top-navigation" class="navigation">
+<div class="turn-on-mobile-menu">
+<span id="logo-top-navigation">
+<span id="mobile_menu" onclick="openNav()"></span>
+<span class="logo-container">
+<a id="mts-logo" href="http://www.metaspoon.com?pd=1" rel="nofollow" class="toggle-mobile-menu">
+<img src="http://www.metaspoon.com/wp-content/themes/metaspoon/images/revised/metaspoon_logo.svg" data-src-pin-off="http://www.metaspoon.com/wp-content/themes/metaspoon/images/revised/metaspoon_logo.svg" data-src-pin-on="http://www.metaspoon.com/wp-content/themes/metaspoon/images/revised/metaspoon_logo_mini.svg">
+</a>
+</span>
+<span id="follow-nav">
+<a href="https://www.facebook.com/meta.spoon/" rel="nofollow" title="Follow Facebook" target="_blank" class="btn btn-icon btn-fb">Facebook</a>
+<a href="https://www.instagram.com/metaspoon/" rel="nofollow" title="Follow Instagram" target="_blank" class="btn btn-icon btn-ig">Instagram</a>
+<a href="https://twitter.com/metaspoon" rel="nofollow" title="Follow Twitter" target="_blank" class="btn btn-icon btn-twt">Twitter</a>
+</span>
+</span>
+</div>
+</nav>
+</div>
+<div id="mySidenav" class="sidenav">
+<div id="mts-sidenav">
+<nav class="side-primary-menu"><a href="http://www.metaspoon.com/?use=menu&amp;pd=1" class="menu-item menu-item-type-custom menu-item-object-custom">Home</a>
+<a href="http://www.metaspoon.com/category/thearts?use=menu&amp;pd=1" class="menu-item menu-item-type-taxonomy menu-item-object-category">Entertainment</a>
+<a href="http://www.metaspoon.com/category/diy?use=menu&amp;pd=1" class="menu-item menu-item-type-taxonomy menu-item-object-category">DIY &amp; Hacks</a>
+<a href="http://www.metaspoon.com/category/food?use=menu&amp;pd=1" class="menu-item menu-item-type-taxonomy menu-item-object-category">Food</a>
+<a href="http://www.metaspoon.com/category/parenting?use=menu&amp;pd=1" class="menu-item menu-item-type-taxonomy menu-item-object-category">Life</a>
+<a href="http://www.metaspoon.com/category/humanspirit?use=menu&amp;pd=1" class="menu-item menu-item-type-taxonomy menu-item-object-category">News</a>
+<a href="http://www.metaspoon.com/category/animals?use=menu&amp;pd=1" class="menu-item menu-item-type-taxonomy menu-item-object-category">Animals</a>
+<a href="http://www.metaspoon.com/category/quiz?use=menu&amp;pd=1" class="menu-item menu-item-type-taxonomy menu-item-object-category">Quizzes</a>
+</nav>
+<nav class="side-secondary-menu"><a href="http://www.metaspoon.com/about?use=menu&amp;pd=1" class="menu-item menu-item-type-post_type menu-item-object-page">About Us</a>
+<a href="http://www.metaspoon.com/terms-of-use?use=menu&amp;pd=1" class="menu-item menu-item-type-post_type menu-item-object-page">Terms of Use</a>
+<a href="http://www.metaspoon.com/privacy-policy-metaspoon?use=menu&amp;pd=1" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16855 current_page_item">Privacy Policy</a>
+<a href="http://www.metaspoon.com/contact-us?use=menu&amp;pd=1" class="menu-item menu-item-type-post_type menu-item-object-page">Contact Us</a>
+</nav>
+<a class="mts-copyrights">
+<small>© 2018 Metaspoon. All Rights Reserved.</small>
+</a>
+</div>
+</div>
+<script>
+
+                var getQueryString = function ( field, url ) {
+                    var href = url ? url : window.location.href;
+                    var reg = new RegExp( '[?&]' + field + '=([^&#]*)', 'i' );
+                    var string = reg.exec(href);
+                    return string ? string[1] : null;
+                };
+
+                var getQstr = getQueryString('testvar');
+
+                function openNav() {
+
+                    var element = document.querySelector("#mySidenav");
+
+                    if(element.style.left === "0px"){
+                        closeNav();
+                    }else{
+
+                        var _root = document.getElementsByTagName( 'html' )[0];
+
+                        element.style.left = "0px";
+
+                        var menu, name, arr;
+                        menu = document.getElementById("mobile_menu");
+                        name = "menu-close";
+                        arr = menu.className.split(" ");
+                        if (arr.indexOf(name) === -1) {
+                            menu.className += " " + name;
+                        }
+
+                        _root.className += " nav-open";
                     }
 
-                    .sidenav a {
-                        padding: 8px 8px 8px 32px;
-                        text-decoration: none;
-                        font-size: 25px;
-                        color: #818181;
-                        display: block;
-                        transition: 0.3s;
-                    }
+                }
 
-                    .sidenav a:hover {
-                        color: #f1f1f1;
-                    }
+                function closeNav() {
 
-                    .sidenav .closebtn {
-                        position: absolute;
-                        top: 0;
-                        right: 25px;
-                        font-size: 36px;
-                        margin-left: 50px;
-                    }
-                    
-                    .turn-on-mobile-menu {
-                        display:none;
-                    }
-                    
-                    .sidenav {padding-top: 15px;}
-                    
-                    .sidenav a {font-size: 18px;}
-                    
-                    #mobile_menu {
-                        float:left;
-                        font-size:30px;
-                        cursor:pointer;
-                        z-index:9999;
-                        width:40px;
-                        margin-left:7px;
-                    }
-                    .turn-on-mobile-menu {
-                        display:unset;
-                    }
-                </style>
+                    document.getElementById("mySidenav").style.left = "-200px";
+                    var _root = document.getElementsByTagName( 'html' )[0];
+                    _root.classList.remove("nav-open");
 
-            </div>    
-            
-            
-    
+                    var menu = document.getElementById("mobile_menu");
+                    menu.className = menu.className.replace( /(?:^|\s)menu-close(?!\S)/ , '' );
 
-
-            <div id="mySidenav" class="sidenav">
-              <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-              <a href="/?use=menu">Home</a>
-              <a href="/category/animals?use=menu">Animals</a>
-              <a href="/category/artscrafts?use=menu">Arts</a>
-              <a href="/category/celebrities?use=menu">Celebrities</a>
-              <a href="/category/diy?use=menu">DIY</a>
-              <a href="/category/funny?use=menu">Funny</a>
-              <a href="/about/?use=menu">About Us</a>
-              <a href="/contact/?use=menu">Contact</a>
-            </div>
-
-            <script>
-            function openNav() {
-                document.getElementById("mySidenav").style.width = "250px";
-            }
-
-            function closeNav() {
-                document.getElementById("mySidenav").style.width = "0";
-            }
+                }
             </script>
-        
-
-		<div class="main-container clearfix">
-        
-        
+<div class="main-container clearfix">
 <div id="page" class="single">
-	<article class="article ">
-		<div id="content_box">
-							<div id="post-16855" class="g post post-16855 page type-page status-publish hentry">
-					<div class="single_page">
-												<header>
-							<h1 class="title">Privacy Policy</h1>
-						</header>
-						<div class="post-content box mark-links">
-							<div id="ppHeader">Metaspoon.com Privacy Policy</div>
-<div id="ppBody">
-<div></div>
-<div></div>
-<div class="innerText">This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.</div>
-<p><span id="infoCo"></span></p>
-<div class="grayText"><strong>What personal information do we collect from the people that visit our blog, website or app?</strong></div>
-<div class="innerText">We do not collect information from visitors of our site.</div>
-<p>or other details to help you with your experience.</p></div>
-<p>&nbsp;</p>
-<div class="grayText"><strong>When do we collect information?</strong></div>
-<p>&nbsp;</p>
-<div class="innerText">We collect information from you when you or enter information on our site.</div>
-<p><span id="infoUs"></span></p>
-<div class="grayText"><strong>How do we use your information?</strong></div>
-<p>&nbsp;</p>
-<div class="innerText">We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:<p></p>
+<article class="article ">
+<div id="content_box">
+<div id="post-16855" class="g post post-16855 page type-page status-publish hentry">
+<div class="single_page">
+<header>
+<h1 class="title">Privacy Policy</h1>
+</header>
+<div class="post-content box mark-links">
+<p>This is Metaspoon’s privacy policy. This document explains Metaspoon’s policies for the collection, use and disclosure of personal information. Metaspoon abides by applicable privacy legislation.</p>
+<p>Metaspoon provides social media websites.</p>
+<p><strong>THE INFORMATION WE COLLECT</strong></p>
+<p>Metaspoon collects information by various methods including information actively provided by its customers, and tools such as cookies to enhance the user’s website experience.</p>
+<p>The types of personal information we collect include the user’s name and contact information, IP address, as well as any information you voluntarily post on the website.</p>
+<p><strong>HOW WE USE THIS INFORMATION</strong></p>
+<p>This information is used to provide our web based services.</p>
+<p>Metaspoon may use aggregate or anonymous information which will not be linked to identified individuals for various other uses for itself and third parties.</p>
+<p><strong>WHO WE SHARE THIS INFORMATION WITH</strong></p>
+<p>Metaspoon does not share personal information with any third parties except as disclosed in this policy. Metaspoon may provide personal information to its consultants, subcontractors and professional advisers (which shall be bound by privacy obligations) to assist Metaspoon’s uses disclosed herein.</p>
+<p>If at any time we wish to disclose personal information to third parties for that third party’s use, we will obtain your explicit permission. If you do grant such permission, you may revoke it at any time.</p>
+<p>Our websites contain links to third party sites where you may purchase items. Metaspoon makes commissions from those sales, and does some tracking so the third party knows what site you came from, but Metaspoon does not provide your personal information to the third party.</p>
+<p><strong>ADVERTISERS</strong></p>
+<p>Each time you visit a Metaspoon website, third party advertisers and advertising companies, including Google, may collect personal and other information, through your IP address, and by using technology such as cookies. Advertisements appearing on the website are delivered to you by third party advertisers, often based on what you do on various websites. This is sometimes referred to as behavioural advertising, or contextual advertising. Third party advertisers and advertising companies use information about you (not including your name or email address), including your IP address and cookies collected through your use of websites, to provide advertisements on this website about goods and services that may be of interest to you. The use of this information collected by third party advertisers and advertising companies through this website is not covered by this privacy policy and Metaspoon is not responsible for the use of this information by third parties.</p>
+<p>You may opt out of the use of Google’s cookies for interest-based advertising by visiting the Google ads preference manager on the Google website. You may opt out of Google and other third-party’s use of cookies and other similar technology for interest-based advertising by visiting sites such as <a href="http://www.aboutads.info/">www.aboutads.info</a>&nbsp;or&nbsp;<a href="http://www.networkadvertising.org/">www.networkadvertising.org</a>. Your web browser also gives you options regarding cookies.</p>
+<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:&nbsp;<a href="http://www.networkadvertising.org/managing/opt_out.asp">www.networkadvertising.org/managing/opt_out.asp</a></p>
+<p><strong>YOUR PRIVACY CHOICES</strong></p>
+<p>Users may post information on the website (user registration may be required), which you may or may not want to share with certain other users. Users may make privacy choices by selecting options here. Users should keep the privacy choices they have made in mind and avoid posting information they do not want to be shared in light of those choices. User information is retained by Metaspoon for as long as you maintain a login ID and profile, and for a period of up to 2 years after you terminate your profile. Users may however choose to terminate their profile and require Metaspoon to delete all their personal information.</p>
+<p><strong>SECURITY</strong></p>
+<p>Personal information is protected by security measures appropriate to the nature of the information.</p>
+<p><strong>ACCESSING INFORMATION</strong></p>
+<p>If an individual believes that any of their personal information on the website is inaccurate, and it is information that the user cannot change, you can contact Metaspoon’s privacy officer to request appropriate corrections.</p>
+<p><strong>GENERAL</strong></p>
+<p>Metaspoon may amend this policy from time to time by posting an updated version on our website. If such amendments affect how Metaspoon uses or discloses personal information already held by Metaspoon in a material way, Metaspoon will obtain consent.</p>
+<p><strong>European Union Users</strong></p>
+<p>This Privacy Policy is not valid for users from the European Union. Users from the European Union must read the <a href="http://metaspoon.com/privacy-policy-eu">Privacy Policy (EU)</a>.</p>
+<p>This policy was last updated on May 24, 2018.</p>
+<p>Notwithstanding the general terms of this policy, the collection, use, and disclosure of personal information may be made outside of the terms herein to the extent provided for in any applicable privacy or other legislation in effect from time to time, or pursuant to court orders.</p>
+<p>Metaspoon may disclose personal information to another entity purchasing (including for diligence purposes prior to purchase) the assets of Metaspoon, provided that entity abides by this or a similar privacy policy.</p>
+<p><strong>CONTACT US</strong></p>
+<p>Metaspoon may be contacted at contact(at)metaspoon.com</p>
 </div>
-<p>&nbsp;</p>
-<div class="grayText"><strong>How do we protect your information?</strong></div>
-<p>&nbsp;</p>
-<div class="innerText">Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.<p></p>
 </div>
-<div class="innerText">We use regular Malware Scanning.<p></p>
 </div>
-<div class="innerText">We do not use an SSL certificate</div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.</div>
-<p>&nbsp;</p>
-<div class="grayText"><strong>Do we use ‘cookies’?</strong></div>
-<p>&nbsp;</p>
-<div class="innerText">Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</div>
-<div class="innerText">
-<strong>We use cookies to:</strong></div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Understand and save user’s preferences for future visits.</div>
-<div class="innerText">
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.</div>
-<p>&nbsp;</p>
-<div class="innerText">If you turn cookies off, some features will be disabled. It won’t affect the user’s experience that make your site experience more efficient and may not function properly.</div>
-<p>&nbsp;</p>
-<div class="innerText">However, you will still be able to place orders .</div>
-<p><span id="trDi"></span></p>
-<div class="grayText"><strong>Third-party disclosure</strong></div>
-<p>&nbsp;</p>
-<div class="innerText">We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.<p></p>
-<p>However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p></div>
-<p>&nbsp;</p>
-<div class="grayText"><strong>Third-party links</strong></div>
-<p>&nbsp;</p>
-<div class="innerText">Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</div>
-<p>&nbsp;</p>
-<div class="blueText"><strong>Google</strong></div>
-<p>&nbsp;</p>
-<div class="innerText">Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en<p></p>
-</div>
-<div class="innerText">We use Google AdSense Advertising on our website.</div>
-<div class="innerText">
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.</div>
-<div class="innerText">
-<strong>We have implemented the following:</strong></div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Google Display Network Impression Reporting</div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Demographics and Interests Reporting</div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> DoubleClick Platform Integration</div>
-<p>&nbsp;</p>
-<div class="innerText">We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.</div>
-<div class="innerText">
-<strong>Opting out:<br>
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.</strong></div>
-<p><strong><span id="calOppa"></span><br>
-</strong></p>
-<div class="blueText"><strong>California Online Privacy Protection Act</strong></div>
-<p><strong>&nbsp;</strong></p>
-<div class="innerText">CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf</div>
-<div class="innerText">
-<strong>According to CalOPPA, we agree to the following:</strong></div>
-<div class="innerText">Users can visit our site anonymously.</div>
-<div class="innerText">Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.</div>
-<div class="innerText">Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.</div>
-<div class="innerText">
-You will be notified of any Privacy Policy changes:</div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> On our Privacy Policy Page</div>
-<div class="innerText">Can change your personal information:</div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> By logging in to your account</div>
-<div class="innerText">
-<strong>How does our site handle Do Not Track signals?</strong></div>
-<div class="innerText">We don’t honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. We don’t honor them because:</div>
-<div class="innerText">All user data is anonymous.</div>
-<div class="innerText">
-<strong>Does our site allow third-party behavioral tracking?</strong></div>
-<div class="innerText">It’s also important to note that we allow third-party behavioral tracking</div>
-<p><strong><span id="coppAct"></span><br>
-</strong></p>
-<div class="blueText"><strong>COPPA (Children Online Privacy Protection Act)</strong></div>
-<p><strong>&nbsp;</strong></p>
-<div class="innerText">When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.<p></p>
-</div>
-<div class="innerText">We do not specifically market to children under the age of 13 years old.</div>
-<p><strong><span id="ftcFip"></span><br>
-</strong></p>
-<div class="blueText"><strong>Fair Information Practices</strong></div>
-<p><strong>&nbsp;</strong></p>
-<div class="innerText">The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.<p></p>
-</div>
-<div class="innerText"><strong>In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:</strong></div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Within 7 business days</div>
-<div class="innerText">We will notify the users via in-site notification</div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Within 7 business days</div>
-<div class="innerText">
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.</div>
-<p><strong><span id="canSpam"></span><br>
-</strong></p>
-<div class="blueText"><strong>CAN SPAM Act</strong></div>
-<p><strong>&nbsp;</strong></p>
-<div class="innerText">The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.<p></p>
-</div>
-<div class="innerText"><strong>We collect your email address in order to:</strong></div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Send information, respond to inquiries, and/or other requests or questions</div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.</div>
-<div class="innerText">
-<strong>To be in accordance with CANSPAM, we agree to the following:</strong></div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Not use false or misleading subjects or email addresses.</div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Identify the message as an advertisement in some reasonable way.</div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Include the physical address of our business or site headquarters.</div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Monitor third-party email marketing services for compliance, if one is used.</div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Honor opt-out/unsubscribe requests quickly.</div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Allow users to unsubscribe by using the link at the bottom of each email.</div>
-<div class="innerText"><strong><br>
-If at any time you would like to unsubscribe from receiving future emails, you can email us at</strong></div>
-<div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Follow the instructions at the bottom of each email.</div>
-<p><strong>and we will promptly remove you from ALL correspondence.<br>
-<span id="ourCon"></span><br>
-</strong></p>
-<div class="blueText"><strong>Contacting Us</strong></div>
-<p><strong>&nbsp;</strong></p>
-<div class="innerText">If there are any questions regarding this privacy policy, you may contact us using the information below.<p></p>
-</div>
-<div class="innerText">Metaspoon.com</div>
-<div class="innerText">371 Front Street W</div>
-<p><strong>Toronto, Ontario M5V 3S8</strong></p>
-<div class="innerText">Canada</div>
-<div class="innerText">contact AT metaspoon DOT COM</div>
-<div class="innerText">
-Last Edited on 2016-11-03</div>
-<p>&nbsp;</p>
-													</div><!--.post-content box mark-links-->
-					</div>
-				</div>
-				<!-- You can start editing here. -->
-<!-- If comments are closed. -->
+
+
 <p class="nocomments"></p>
-
-					</div>
-	</article>
-	<aside class="sidebar c-4-12">
-	<div id="sidebars" class="g">
-		<div class="sidebar">
-        			<ul class="sidebar_list">
-            
-            
-            <!--exp 2-->                                          
-                                        <div id="text-2" class="widget widget_text" style="">         
-                    <div class="textwidget">  
-                   
-                           <div onclick="track()" id="ad300x600"></div>
-                           <script>
-                           $("#ad300x600").load("http://www.metaspoon.com/wp-content/themes/truepixel/ad.php",{ad:2,screenwidth:screenwidth,furl:'/privacy-policy-metaspoon',exp:2,multi:0});
-                           </script>
-                     
-                   
-                                            </div>
-                            <br>   <br>
-                            <br><br>
-                     
-                     </div>
-                </ul></div>
-                            
-                            
-          
-                                
-            
-				<!-- fixed widget --><div id="text-2" class="widget widget_text">			<div class="textwidget"></div>
-		</div> 
-                
-                   
-
-                  
-                  
-			              
-		</div>
-	</aside></div><!--sidebars-->
-   
-	</div><!--#page-->
-</div><!--.main-container-->
-		<footer>    
-		
-        
-
-         
-        
-		<div class="copyrights">
-			<div class="container">
-            
-				  <span><a href="http://www.metaspoon.com/dmca-policy/" rel="nofollow">DMCA Removal</a> | <a href="http://www.metaspoon.com/contact/" rel="nofollow">Contact Us </a> | <a href="http://www.metaspoon.com/about/" rel="nofollow">About Us </a> | <a href="http://www.metaspoon.com/privacy-policy-metaspoon" rel="nofollow">Privacy Policy</a></span>
-			<br><!--start copyrights-->
-<div class="row" id="copyright-note">
-<span><a href="http://www.metaspoon.com/" title="Stories are best served with a spoon" rel="nofollow">MetaSpoon</a> Copyright © 2017.</span>
-<div class="top"></div>
-<div class="top"></div>
 </div>
-<!--end copyrights-->
- 
-            </div>
-		</div> 
-	</footer><!--footer-->
-		<script type="text/javascript">
-var q2w3_sidebar_options = new Array();
-q2w3_sidebar_options[0] = { "sidebar" : "sidebar", "margin_top" : 95, "margin_bottom" : 0, "stop_id" : "", "screen_max_width" : 0, "screen_max_height" : 0, "width_inherit" : false, "refresh_interval" : 1500, "window_load_hook" : false, "disable_mo_api" : false, "widgets" : ['text-2'] };
+</article>
+<script type="text/javascript">
+    if(typeof device === 'undefined' || device === null){
+        screenwidth = $(window).width();
+        device = 'd';
+        /* This decided what platform is being used depending on screensize and orientation */
+        if (screenwidth <= 480 && screenwidth >= 0 ){
+            device = 'm'; //sets platform as mobile
+        }
+        else if (screenwidth <= 960 && screenwidth > 649){
+            device = 't'; //sets platform as tablet
+        }
+        else {
+            device = 'd'; //sets platform as desktop
+        }
+    }
 </script>
-<script type="text/javascript" src="http://www.metaspoon.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.0.4"></script>
-<script type="text/javascript" src="http://www.metaspoon.com/wp-includes/js/wp-embed.min.js?ver=4.9"></script>
+<aside class="sidebar c-4-12">
+<div id="sidebars" class="g">
+<div class="sidebar">
+<ul class="sidebar_list">
+<div id="text-2" class="widget widget_text" style="">
+<div class="textwidget">
+<div onclick="track()" id="ad300x600"></div>
+<script>
+                                if(typeof device !== 'undefined' && (device === 't' || device === 'd') ) {
+                                    $("#ad300x600").load("http://www.metaspoon.com/wp-content/themes/metaspoon/ad.php", {
+                                        ad: 2,
+                                        screenwidth: screenwidth,
+                                        furl: '/privacy-policy-metaspoon',
+                                        exp:1,
+                                        multi:0});
+                                }
+                            </script>
+<br><br>
+<br><br>
+</div>
+</div>
+</ul>
+</div>
+</div>
+</aside>
+</div>
+</div>
+<footer>
+<div class="copyrights visible-tp">
+© 2018Metaspoon. All Rights Reserved. </div>
+<div class="copyrights hidden-tp">
+<div class="container">
+<span><a href="http://www.metaspoon.com/dmca-policy?pd=1" rel="nofollow">DMCA Removal</a> | <a href="http://www.metaspoon.com/contact-us?pd=1" rel="nofollow">Contact Us </a> | <a href="http://www.metaspoon.com/about?pd=1" rel="nofollow">About Us </a> | <a href="http://www.metaspoon.com/privacy-policy-metaspoon?pd=1" rel="nofollow">Privacy Policy</a></span>
+<br>
+<div class="row" id="copyright-note">
+<span><a href="http://www.metaspoon.com/" title="Stories are best served with a spoon" rel="nofollow">MetaSpoon</a> Copyright © 2018.</span>
+<div class="to-top"></div>
+</div>
 
+</div>
+</div>
+</footer>
+<script type="text/javascript">
+        if(typeof device !== 'undefined' && (device === 't' || device === 'm') ) {
+            (function ($) {
+                var sidebar = $('#sidebars .sidebar');
+                $(document).ready(function () {
+                    $(window).scroll(function () {
+                        if ($(window).height() < 700 && $('body').height() <= ($(window).height() + $(window).scrollTop())) {
+                            sidebar.css('bottom', '0');
+                        } else {
+                            sidebar.css('bottom', 'inherit');
+                        }
+                    });
+                });
 
-        <script>
+            })(jQuery);
+        }
+    </script>
+<script type="text/javascript" src="http://www.metaspoon.com/wp-content/themes/metaspoon/js/metaspoon.min.js?ver=1.0.37"></script>
+</div>
+<script>
             console.log("Log in the footer: " + nativeTestNum);
             if (nativeTestNum == 2){
                 window._taboola = window._taboola || [];
                 _taboola.push({flush: true});    
             }
         </script>
-
-
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -612,12 +555,6 @@ q2w3_sidebar_options[0] = { "sidebar" : "sidebar", "margin_top" : 95, "margin_bo
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=203185932151";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c5366c07ed","applicationID":"3713879","transactionName":"ZlUBY0NQWURVUUFYVl8fIlRFWFhZG0JUVlw=","queueTime":0,"applicationTime":296,"atts":"ShICFQtKSko=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-
-
-
-<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
-
-Page Caching using disk: enhanced
-
- Served from: www.metaspoon.com @ 2017-11-18 22:47:25 by W3 Total Cache --></body></html>
+</body></html>
