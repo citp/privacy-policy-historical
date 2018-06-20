@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adslot.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226003118id_/http%3A//www.adslot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adslot.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620113734id_/https%3A//www.adslot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adslot.
 
 _Adslot Technologies Pty Ltd ACN 123 931 804_ (We, us, our) understands the importance of protecting the privacy of an individual’s personal information.
 
-This policy sets out how we aim to protect the privacy of your personal information, your rights in relation to your personal information managed by us and the way we collect, hold, use and disclose your personal information. In handling your personal information, we will comply with the Privacy Act 1988 (Cth) ( **Privacy Act** ) and with the Australian Privacy Principles (APPs) in the Privacy Act, as well as this Privacy Policy.
+This policy sets out how we aim to protect the privacy of your personal information, your rights in relation to your personal information managed by us and the way we collect, hold, use and disclose your personal information. In handling your personal information, we will comply with the Privacy Act 1988 (Cth) ( **Privacy Act** ), the Australian Privacy Principles (APPs) in the Privacy Act, and the European Union General Data Protection Regulations (GDPR), as well as this Privacy Policy.
 
 We regularly review our practices and procedures in relation to the management of personal information. As a result, this policy may be updated from time to time. Any updated versions of this Privacy Policy will be made available on the website adslot2015.webfirmdemo.com and will also be available from Adslot on request.
 
@@ -13,13 +13,11 @@ We regularly review our practices and procedures in relation to the management o
 For the purposes of the Privacy Act, personal information is information or an opinion, whether true or not and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion.  
 We generally collect and hold the following kinds of information:
 
-(a) contact details such as your name, address, telephone number and email address;
+(a) contact details such as your name, address, telephone number and email address (as provided by you);
 
-(b) payment details, such as bank and credit card details (as provided by you);
+(b) details regarding the transactions you undertake or authorise using our websites, services and platforms; and
 
-(c) details regarding the transactions you undertake or authorise using our websites, services and platforms; and
-
-(d) aggregated statistical data, which is information relating to your use of our websites, services and products, including access to any online platforms available via those websites, such as traffic flow and demographics. We will not normally be able to identify you from such aggregated statistical data.
+(c) aggregated statistical data, which is information relating to your use of our websites, services and products, including access to any online platforms available via those websites, such as traffic flow and demographics. We will not normally be able to identify you from such aggregated statistical data.
 
 ### How do we collect and hold personal information?
 
@@ -97,7 +95,7 @@ While it is not practicable to list every country in which such recipients may b
 
 Under the Privacy Act, you have a right to request access to and correction of your personal information that is collected and held by us.
 
-If at any time you would like to request access to or correction of the personal information that we hold about you, or you would like more information on our approach to privacy, please contact our Privacy Compliance Officer.
+If at any time you would like to request access to or correction of the personal information that we hold about you, or you would like more information on our approach to privacy, please contact our Data Protection Officer.
 
 To obtain access to or correction of your personal information, you may have to provide us proof of identity. This is necessary to ensure that personal information is provided only to the correct individuals and that the privacy of others is protected.
 
@@ -107,26 +105,21 @@ If we refuse a request for access to or correction of personal information, writ
 
 If providing you with access requires a detailed retrieval of your personal information, a fee may be charged for the cost of retrieval and supply of information. This fee will not exceed the cost to us of retrieving and supplying the information and we will provide you with prior notice of the likely amount of the relevant fee.
 
-### Use of Cookies
+### GDPR Data Processing Addendum
 
-Adslot utilise cookies to collect anonymous statistical information on behalf of our clients to ensure online advertising campaigns are performing effectively. Cookies are not used for any behavioural profiling nor are they used to obtain any personally identifiable information.
+For European based clients our full Data Processing Addendum which details further information about the rights of European citizens can be found [here](https://www.adslot.com/wp-content/uploads/2018/05/Adslot-DPA.pdf).
 
-Adslot use several domains for the purpose of delivering online advertising, these are:
+### Data Subject Tool
 
-  * .ADSFAC.NET
-  * .ADSFAC.EU
-  * .ADSFAC.US
-  * .ADSFAC.SG
+If you do not wish to accept cookies from Adslot or its partners, you may choose to opt-out by clicking on one of the following links. Please note that Adslot will continue to collect and process personal information required for the of provision of our services.
 
+For European Users: [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 
-
-### Cookie Opt-Out
-
-If you do not wish to accept cookies from Adslot, you may choose to opt-out by clicking the following button. Opting out will place a cookie on your browser instructing Adslot not to collect anonymous information from you. Please note that you will continue to receive online advertising from Adslot even if you choose to opt-out.
+For Other Users: [preferences-mgr.truste.com](http://preferences-mgr.truste.com/)
 
 ### Privacy complaints
 
-If you believe that we have not dealt with your personal information in a manner that complies with the Privacy Act or the APPs, you can make a privacy complaint to us by submitting details of your complaint to our Privacy Compliance Officer using the contact details set out below. You will generally be required to put your complaint to our Privacy Compliance Officer in writing.
+If you believe that we have not dealt with your personal information in a manner that complies with the Privacy Act or the APPs, you can make a privacy complaint to us by submitting details of your complaint to our Data Protection Officer using the contact details set out below. You will generally be required to put your complaint to our Data Protection Officer in writing.
 
 Privacy complaints you make to us will:
 
@@ -143,10 +136,10 @@ In the event you are dissatisfied with the outcome of the complaint, you may ref
 
 ### How to contact us
 
-For further information or enquiries regarding your personal information (including to request access to or correction of your personal information or to make a privacy complaint), please contact our Privacy Compliance Officer at:
+For further information or enquiries regarding your personal information (including to request access to or correction of your personal information or to make a privacy complaint), please contact our Data Protection Officer at:
 
   * Email: [privacy@adslot.com](mailto:privacy@adslot.com)
   * Telephone: 03 8695 9100
-  * Postal address: Level 2, 85 Coventry St, South Melbourne Vic 3205
+  * Postal address: Level 2, 419 Collins St, Melbourne Vic 3000
 
 
