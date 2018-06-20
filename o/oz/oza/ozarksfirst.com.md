@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ozarksfirst.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227214931id_/http%3A//www.ozarksfirst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozarksfirst.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620044727id_/http%3A//www.ozarksfirst.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OzarksFirst | KOLR 10 and KOZL Z27
+# Privacy Policy - OZARKSFIRST
 
 **Updated: November 06, 2017**
 
