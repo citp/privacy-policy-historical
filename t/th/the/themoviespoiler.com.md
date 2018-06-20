@@ -1,25 +1,91 @@
-> *The following text is extracted and transformed from the themoviespoiler.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206120712id_/http%3A//www.themoviespoiler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoviespoiler.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620134308id_/http%3A//themoviespoiler.com/privacy.html) for the most accurate reproduction.*
 
-# The Movie Spoiler
+# None
 
-Privacy Policy Statement  
-This is the web site of The Movie Spoiler.
+At The Movie Spoiler, accessible from www.themoviespoiler.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by The Movie Spoiler and how we use it.
 
-Our postal address is   
-6111 97th Ave Ct W  
-University Place, WA 98467  
-We can be reached via e-mail [here](mailto:TheMovieSpoiler@mac.com)  
-or you can reach us by telephone at 2532099495
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at THEMOVIESPOILER@MAC.COM
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+## General Data Protection Regulation (GDPR)
 
-We collect aggregate information on what pages consumers access or visit.
+We are a Data Controller of your information.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor.
+The Movie Spoiler legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect the information:
 
-With respect to cookies: We do not set any cookies. 
+  * The Movie Spoiler needs to perform a contract with you
+  * You have given The Movie Spoiler permission to do so
+  * Processing your personal information is in The Movie Spoiler legitimate interests
+  * The Movie Spoiler needs to comply with the law
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
-With respect to Ad Servers: We partner with the following ad server companies.   
-[YieldSelect](http://yieldselect.com/), [Conversantmedia](http://www.conversantmedia.com/), [Lijit](https://meridian.sovrn.com/), [GoogleAdsense](https://www.google.com/adsense)
+
+The Movie Spoiler will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * The right to access, update or to delete the information we have on you.
+  * The right of rectification.
+  * The right to object.
+  * The right of restriction.
+  * The right to data portability
+  * The right to withdraw consent
+
+
+
+## Log Files
+
+The Movie Spoiler follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+
+## Google DoubleClick DART Cookie
+
+Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL  <https://policies.google.com/technologies/ads>
+
+## Our Advertising Partners
+
+Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
+
+  * Google
+
+<https://policies.google.com/technologies/ads>
+
+
+
+
+Yield Select  
+<http://yieldselect.com/>
+
+Conservant Media  
+<http://www.conversantmedia.com/>
+
+Ligit  
+[https://meridian.sovrn.com](https://meridian.sovrn.com/)
+
+## Privacy Policies
+
+You may consult this list to find the Privacy Policy for each of the advertising partners of The Movie Spoiler.
+
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on The Movie Spoiler, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+
+Note that The Movie Spoiler has no access to or control over these cookies that are used by third-party advertisers.
+
+## Third Pary Privacy Policies
+
+The Movie Spoiler's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
+
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?
+
+## Children's Information
+
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+The Movie Spoiler does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+## Online Privacy Policy Only
+
+This privacy policy ([GDPR Privacy Policy created at GDPRPrivacyNotice.com](https://gdprprivacynotice.com/)) applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in The Movie Spoiler. This policy is not applicable to any information collected offline or via channels other than this website.
+
+## Consent
+
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.
