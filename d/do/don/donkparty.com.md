@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the donkparty.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211123332id_/http%3A//donkparty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donkparty.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620123325id_/http%3A//donkparty.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy
 
 Your privacy is of utmost importance to us. This Privacy Policy (the "Policy") applies to Shooshtime.com (the "Company"). As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
 
