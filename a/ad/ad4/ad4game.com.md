@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ad4game.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231040111id_/https%3A//ad4game.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad4game.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620113723id_/https%3A//ad4game.com/privacy) for the most accurate reproduction.*
 
 # Ad4Game: Privacy Policy
 
-This Privacy Policy (together with our terms of use, which are available at [//www.ad4game.com/terms/](https://www.ad4game.com/terms/)) governs the manner in which Ad4Game Ireland Limited (“ **Ad4Game** ”) collects, uses, maintains and discloses personal data collected from users of the [//www.ad4game.com](https://www.ad4game.com/) website (the “ **Site** ”) as well as all websites working directly or indirectly with the Ad4Game Network. This privacy policy applies to the Site and all products and services offered by Ad4Game. Please read this policy carefully to understand the views and practices of Ad4Game regarding your personal data and how Ad4Game will treat it. 
+This Privacy Policy (together with our terms of use, which are available at [ad4game.com/terms](https://web.archive.org/terms)) governs the manner in which Ad4Game Ireland Limited ( **“Ad4Game”** ) collects, uses, maintains and discloses personal data collected from users of the [ad4game.com](https://ad4game.com/) website (the **“Site”** ) as well as all websites working directly or indirectly with the Ad4Game Network. This privacy policy applies to the Site and all products and services offered by Ad4Game. Please read this policy carefully to understand the views and practices of Ad4Game regarding your personal data and how Ad4Game will treat it. 
 
-### Personal Data
+### Personal Data on website
 
-Ad4Game fully respects your right to privacy and will collect personal data from you only if you voluntarily submit such information to us. Personal data that we collect about you may include your name, email address, telephone number, home/office address and bank details. Any personal data which you volunteer to Ad4Game will be treated strictly in accordance with the Data Protection Acts 1988 and 2003. You may refuse to supply personal data to us, except that it may prevent you from engaging in certain Site related activities. 
+Ad4Game fully respects your right to privacy and will collect personal data from you only if you voluntarily submit such information to us. Personal data that we collect about you may include your name, email address, telephone number, instant messenger, social account, home/office address and bank details. Any personal data which you volunteer to Ad4Game will be treated strictly in accordance with the Data Protection Acts 1988 and 2003. You may refuse to supply personal data to us, except that it may prevent you from engaging in certain Site related activities. 
 
 ### Non-personally identifiable information
 
@@ -27,8 +27,9 @@ We may use information in the aggregate to understand how our users as a group u
   * _\- Safety_  
 As part of our efforts to keep the Site safe and secure. 
   * _\- To send periodic emails_  
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or you may contact us via our Site at support@ad4game.com 
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or you may contact us via our Site at [support@ad4game.com](mailto:support@ad4game.com)
 
+  
 
 
 ### How we protect your information
@@ -46,7 +47,16 @@ We may disclose your personal data to third parties:
   * Where we engage trusted third parties to provide services in connection with the Site or our business, including sending out newsletters or surveys on our behalf. 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
   * If Ad4Game or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website terms of use ([//www.ad4game.com/terms/](https://www.ad4game.com/terms/)) and other agreements, or to protect the rights, property, or safety of Ad4Game, our customers or others. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website terms of use ([ad4game.com/terms](https://web.archive.org/terms)) and other agreements, or to protect the rights, property, or safety of Ad4Game, our customers or others. 
+
+
+
+We use the following third parties as data processors for the given reasons. Some of the information you provide will be transferred to them for processing in accordance with their Privacy Policy and Terms. 
+
+  * Close.io to improve and manage our sales processes ([Privacy Policy](https://www.iubenda.com/privacy-policy/87166246), [Terms](https://close.io/tos/)).
+  * Intercom to manage Customer communications and perform Customer Relationship Management tasks ([Terms & Policies](https://www.intercom.com/terms-and-policies)).
+  * MailChimp as our marketing automation platform ([Privacy Policy](https://mailchimp.com/legal/privacy/), [Terms](https://mailchimp.com/legal/terms/)).
+  * Zoho for invoicing and billing ([Privacy Policy](https://www.zoho.com/privacy.html), [Terms](https://www.zoho.com/terms.html)).
 
 
 
@@ -54,13 +64,39 @@ We may share your personal information with any member of our group, which means
 
 ### Advertising
 
-Ads appearing on our network may be delivered to you by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement and to compile non personally identifiable information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. Ad4Game fully complies and adheres to the principles of DAA (Digital Advertising Alliance) / NAI (Network Advertising Initiative) and we simply never store any personal information when showing our ads to any visitors. This explains why we do not offer you an opt-out link. 
+Ads appearing on our network may be delivered to you by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement and to compile non personally identifiable information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. 
+
+The cookies placed by Ad4Game are for attribution (conversion tracking) and frequency capping only. They automatically expire after 28 days. 
+
+Ad4Game fully complies and adheres to the principles of DAA (Digital Advertising Alliance) / NAI (Network Advertising Initiative) and we simply never store any personal information when showing our ads to any visitors for more than 9 months. 
+
+In order to prevent fraud and attribute clicks and conversions, we may collect certain device information including the following: 
+
+  * Name and properties of mobile applications/websites through which a consumer interacts with the Services; 
+  * Country;
+  * IP Address;
+  * Internet browser user-agent used to access the Services; and
+  * Identifier for advertisers (IFA).
+
+
+
+### Opt-Out:
+
+**All the data we collect is for fraud prevention and conversions attribution only. We do not use interest-based advertising nor retargeting.**
+
+To opt-out of our collection of information from mobile devices, please visit your device’s settings to set the “Limit Ad Track” or other similar feature on your device. You can also opt-out of our data collection and use through the process we described here  [ “Opt Out”](https://ads.ad4game.com/www/delivery/fc.php?ct=1&script=optOut:opt&key=buTumpozI0l1&out=1&response=redirect&redirect_url=https%3A%2F%2Fad4game.com%2Fopt-out%2Fsuccess). You can also make choices about data collection for certain companies by visiting [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/). 
+
+Note that if you opt-out you will still see advertising on your device. In addition, if you reset your device identifier or use a different device you may need to renew your opt-out. 
+
+### Children
+
+We do not knowingly collect personal information from children under the age of 16 through the Advertising Services and the Site. 
 
 We are not responsible for the content or privacy practices of other websites or our advertising partners. Please check their privacy policies before you submit any personal data to such websites or advertising partners. 
 
 ### Your Access and Amendment Rights
 
-You have the right, subject to certain exemptions, to obtain a copy of any personal data which we hold about you (for which we may charge you a small fee of €6.35) and to have inaccuracies in the information corrected. If you wish to avail of any of these rights, please write to us at support@ad4game.com. 
+You have the right, subject to certain exemptions, to obtain a copy of any personal data which we hold about you (for which we may charge you a small fee of €6.35) and to have inaccuracies in the information corrected and to request that we restrict or block the processing of your personal data. If you wish to avail of any of these rights, please contact our data protection officer at [dataprotection@ad4game.com](mailto:dataprotection@ad4game.com). 
 
 ### Changes to this privacy policy
 
@@ -70,15 +106,12 @@ Your continued use of the Site after any change in this Privacy Policy will cons
 
 ### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of and consent to the practices described in this policy and terms of use ([//www.ad4game.com/terms/](https://www.ad4game.com/terms/)). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+By using this Site, you signify your acceptance of and consent to the practices described in this policy and terms of use ([ad4game.com/terms](https://web.archive.org/terms)). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
 ### Contacting us
 
-If you have any questions, comments or requests in relation to this Privacy Policy, the practices of the Site, or your dealings with the Site, please contact us at: 
+If you have any questions, comments or requests in relation to this Privacy Policy, the practices of the Site, or your dealings with the Site, please contact us at:  
+[Ad4Game Ireland Limited](https://ad4game.com/)  
+6-9 Trinity Street, Dublin 2, Ireland support@ad4game.com
 
-[Ad4Game Ireland Limited](https://www.ad4game.com/)  
-6-9 Trinity Street, Dublin 2, Ireland  
-[support@ad4game.com](mailto:support@ad4game.com)  
-
-
-This document was last updated on 5 May 2016
+This document was last updated on May 18th 2018. 
