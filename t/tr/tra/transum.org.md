@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the transum.org privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207165650id_/http%3A//www.transum.org/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transum.org privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621004429id_/http%3A//www.transum.org/Privacy.asp) for the most accurate reproduction.*
 
-# Transum
+# Privacy
+
+Transum is passionate about the learning of Mathematics and providing teachers with fresh, colourful and interesting resources to use in the classroom. In order to facilitate the use of some resources a limited amount of personal data may be collected and the following statements explain how this data is used and how your privacy is protected.
+
+For 'Transum Trophies' you are invited to enter your email address simply because that is a guaranteed unique identifier. Email addresses entered will not be used for any other purpose. An alternative option of choosing a Transum username is also available for those who do not wish to use their email addresses.
+
+Teachers using Class Admin or Random Students applications are advised to use student first names or nick names to further protect privacy/anonimity.
+
+Transum subscriber's data remains in the live database for a period of time after the expiry of the subscription period in case a resubscription is later considered.
 
 ## Cookies
 
@@ -16,9 +24,18 @@ On some pages we use third-party advertising companies to serve ads when you vis
 
 
 
-## Privacy
+## GDPR
 
-For 'Transum Trophies' you are invited to enter your email address as a unique identifier. Email addresses entered will not be used for any other purpose. An alternative option of choosing a Transum username is also available.
+The General Data Protection Regulation (GDPR) legislation lays out six principles for processing of personal data. These are:
+
+  * **Lawfulness, fairness and transparency.** This covers the primary areas of concern that data should be gathered and used in a way that is legal, fair and understandable. The public have the right to know what is being gathered and have this corrected or removed. Transum will do the necessary correcting or removing of any relevant data within two working days of the request.
+  * **Purpose limitation.** Transum only uses data for legitimate purposes made clear at the time of collection. This data is not shared with third parties.
+  * **Data minimisation.** The data collected by Transum is limited only to what is required for the purpose stated. Transum does not collect data en masse without purpose.
+  * **Accuracy** Transum makes every effort to ensure that any data collected is accurate, kept up to date, and, if it is no longer accurate, is rectified or erased.
+  * **Storage limitation** Personal data is only stored online for as long as is necessary. Data may be archived securely and used for research purposes in the future. Where possible, the personally identifiable information is removed to leave anonymous data. The data entered into the database during a subscription request and subsequently by a subscriber into the Class Admin facility is deleted three years after the expiry of the subscription or earlier on request.
+  * **Integrity and confidentiality.** Personal data is held in a safe and secure way on the GoDaddy servers. This website hosting company and Transum take reasonable steps to ensure the security of this information and to avoid accidental loss, misuse or destruction.
+
+
 
 ## COPPA
 
