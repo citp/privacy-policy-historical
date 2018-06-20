@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scholastic.ca privacy policy that was archived on 2017-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171220211600id_/http%3A//www.scholastic.ca/aboutscholastic/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scholastic.ca privacy policy that was archived on 2018-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180620125536id_/http%3A//www.scholastic.ca/aboutscholastic/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="" lang="en"><!--<![endif]--><head> 
 
@@ -106,8 +106,8 @@
 	<div>
 		<button class="navbar-toggle" data-toggle="collapse" data-target="#navigation"> <span class="sr-only">Toggle Main Navigation</span> <span class="glyphicon glyphicon-menu-hamburger"></span> </button>
 	</div>
-    <div id="logo-60th"><a href="/60years/"><img src="/images/60th_logo.png" alt="60 Years Sharing Stories"></a></div>
-	<!--<div id="francais"><a href="/editions/">Site fran&ccedil;ais</a> <img src="/images/cdn_flag.gif" alt="Canada"></div>-->
+    <!--<div id="logo-60th"><a href="/60years/"><img src="/images/60th_logo.png" alt="60 Years Sharing Stories"></a></div>-->
+	<div id="francais" class="no-print"><a href="/editions/">Site français</a> <img src="/images/cdn_flag.gif" alt="Canada"></div>
 </header>
 <div class="clearfix headerclear"></div>
 <!-- //HEADER --> 
@@ -121,8 +121,8 @@
 				<li role="presentation" class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Teachers <span class="caret"></span></a>
 					<ul class="dropdown-menu">
 						<li><a href="/teachers/">Home</a></li>
-						<li><a href="https://canadaclubs.scholastic.ca/en/home" target="_blank">Reading Club Online</a></li>
-						<li><a href="https://scholasticteacherstore.ca/" target="_blank">Teacher Store</a></li>
+						<li><a href="https://canadaclubs.scholastic.ca/en/home" onclick="ga('send', 'event', 'RCO', 'Main Nav', 'Teacher Menu');" target="_blank">Reading Club Online</a></li>
+						<li><a href="https://scholasticteacherstore.ca/" onclick="ga('send', 'event', 'Teacher Store', 'Main Nav', 'Teacher Menu');" target="_blank">Teacher Store</a></li>
 						<li><a href="/bookfairs/">Book Fairs</a></li>
 						<li><a href="/books/">New Books</a></li>
 						<li><a href="/editions/">Éditions Scholastic</a></li>
@@ -133,8 +133,7 @@
 				<li role="presentation" class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Parents <span class="caret"></span></a>
 					<ul class="dropdown-menu">
 						<li><a href="/parents/">Home</a></li>
-						<!-- <li><a href="https://parentpay.scholastic.ca/pay" target="_blank">Parent Pay for Reading Club</a></li> // --> 
-						<li><a href="https://canadaclubs.scholastic.ca/en/home" target="_blank">Place Your Reading Club Order</a></li>
+						<li><a href="https://canadaclubs.scholastic.ca/en/home" onclick="ga('send', 'event', 'RCO', 'Main Nav', 'Parent Menu');" target="_blank">Place Your Reading Club Order</a></li>
 						<li><a href="/clubs/">About Reading Club</a></li>
 						<li><a href="/bookfairs/">Book Fairs</a></li>
 						<li><a href="/kids/thingstodo/">Things To Do</a></li>
@@ -189,8 +188,7 @@
 						<li><a href="/education/magazines/">Classroom Magazines</a></li>
 					</ul>
 				</li>
-                <li><a href="/editions/" class="frenchlink" style="margin-left: 30px;">Site français<img src="/images/cdn_flag.gif" alt="Canada" style="margin-left:6px;"></a></li>
-				<!--<li class="visible-xs visible-sm"><a href="/">English Site</a></li>-->
+                <li><a href="/editions/" class="frenchlink hidden-lg hidden-md">Site français</a></li>
 			</ul>
 			<div id="search" class="pull-right">
 				<form method="GET" action="/books/a-z">
@@ -412,7 +410,7 @@
 </div>
 <div class="clearfix"></div>
 <div id="copyright">
-	<p>TM &amp; © 1996 - 2017 Scholastic Canada Ltd. All rights reserved.</p>
+	<p>TM &amp; © 1996 - 2018 Scholastic Canada Ltd. All rights reserved.</p>
 </div>
 <!-- //FOOTER --> 
 
