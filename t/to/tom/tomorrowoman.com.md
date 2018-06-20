@@ -1,117 +1,84 @@
-> *The following text is extracted and transformed from the tomorrowoman.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216231038id_/http%3A//tomorrowoman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomorrowoman.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620223706id_/http%3A//tomorrowoman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TomorroWoman
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+Last Revised: April 30, 2018
 
-**What personal information do we collect from the people that visit our blog, website or app?  
-**  
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+Welcome to TomorroWoman (the “Website”, “our”, “we” or “us”). This Privacy Policy (the “Privacy Policy”) is intended to describe our practices regarding the information we may collect from you when you use the Website, the manners in which we may use such information, and the choices and rights available to you.
 
-**When do we collect information?**
+1\. YOUR CONSENT  
+BY ACCESSING THE WEBSITE, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY, INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW) IN THE EVENT YOU DECIDE TO PROVIDE US WITH SUCH. IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT ACCESS OR USE THE WEBSITE.  
+Please note: you are not obligated by law to provide us with any Personal Information. You hereby acknowledge and agree that you are providing us with Personal Information at your own free will. You hereby agree that we may collect and use such Personal Information pursuant to this Privacy Policy and any applicable laws and regulations.
 
-We collect information from you when you fill out a form or enter information on our site.
+2\. WHAT INFORMATION DO WE COLLECT FROM OUR USERS?  
+• Non-personal Information: Un-identified and non-identifiable information pertaining to Users, which may be made available to us, or collected automatically via their use of the Website. Such Non-personal Information does not enable us to identify the person from whom it was collected, and mainly consists of technical and aggregated usage information which is not linked to an identifiable individual, such as the identity and operation system and browser, smart-phone version, operating system version, duration of usage of the Website, User’s ‘click-stream’ activity, keyboard language, etc.  
+• Personal Information: Individually identifiable information, namely information that identifies an individual or may with reasonable efforts or together with additional information we have access to, enable the identification of an individual, or may be of private or sensitive nature. Such Personal Information that is collected by us consists of the following types of information: IP address, device identifier, personal details provided in connection with usage of the Website, including name, e-mail address, phone number, address.  
+We do not collect any Personal Information from you or related to you without your approval, which is obtained, inter alia, through your active acceptance to the Terms and the Privacy Policy.
 
-**How do we use your information?**
+3\. HOW DO WE COLLECT INFORMATION ON OUR USERS?  
+• We collect information through your use of the Website. In other words, we are aware of your usage of the Website and may gather, collect and record the information relating to such usage, including by using “cookies” and other tracking technologies, as further detailed in Section ‎7 below.  
+• We collect information which you provide us voluntarily. For example, we collect Personal information which you voluntarily provide when you use the Website or contact us.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+4\. WHY DO WE COLLECT INFORMATION ON OUR USERS?  
+• To provide and operate our Website and related services.  
+• To display or send to you marketing and advertising material and general and personalized content and advertisement.  
+• To be able to deliver and enhance the Website, provide the Users with technical assistance and support.  
+• To send you updates, notices, notifications, announcements, and additional information related to the Website and related services.  
+• To create cumulative statistical data and other cumulative information and/or other conclusive information that is non-personal, in which we and/or our business partners might make use of in order to operate and improve our Website and provide related services.  
+• To comply with any applicable rule or regulation and/or response or defend against legal proceedings versus us or our affiliates. 
 
-• To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
-• To improve our website in order to better serve you.  
-• To allow us to better service you in responding to your customer service requests.  
-• To administer a contest, promotion, survey or other site feature.  
-• To send periodic emails regarding your order or other products and services.
+5\. LAWFUL GROUNDS FOR COLLECTING INFORMATION ON OUR USERS  
+We collect and process your information for the purposes described in this policy, based at least on one of the following legal grounds:    
+• With your consent: We ask for your agreement to process your information for specific purposes and you have the right to withdraw your consent at any time. For example, we ask for your consent to provide you with personalized content and ads through the use of cookies;  
+• Legitimate interests: We process your information for our legitimate interests while applying appropriate safeguards that protect your privacy. This means that we process your information for things like detecting, preventing, or otherwise addressing fraud, abuse, security, usability, functionality or technical issues with our services, protecting against harm to the rights, property or safety of our properties, or our users, or the public as required or permitted by law; Enforcing legal claims, including investigation of potential violations of this Privacy Policy; in order to comply and/or fulfil our obligation under applicable laws, regulation, guidelines, industry standards and contractual requirements, legal process, subpoena or governmental request, as well as our Terms of Service. 
 
-**How do we protect visitor information?**
+6\. WHERE DO WE STORE USER’S PERSONAL INFORMATION?  
+Information regarding the Users will be maintained, processed and stored by us and our authorized affiliates and service providers in the United States, and as necessary, in secured cloud storage, provided by our third party service provider.  
+While the data protection laws in the above jurisdictions may be different than the laws of your residence or location, please know that we, our affiliates and our service providers that store or process your Personal Information on the our behalf are each committed to keep it protected and secured, pursuant to this Privacy Policy and industry standards, regardless of any lesser legal requirements that may apply in their jurisdiction.  
+You hereby accept the place of storage and the transfer of information as described above. 
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+7\. WHO DO WE SHARE USER INFORMATION WITH AND WHY?  
+We may share your Personal Information with third parties (or otherwise allow them access to it) only in the following manners and instances:  
+• To satisfy any applicable law, regulation, legal process, subpoena or governmental request, whenever we believes in good faith that it is legally bound to share such information  
+• To enforce this Privacy Policy and the Terms of Use including investigation of potential violations thereof  
+• To detect, prevent, or otherwise address fraud, security or technical issues  
+• To respond to User’s support requests  
+• To respond to claims that contact information or any other private or proprietary information (e.g. name, e-mail address, etc.) of a third-party has been used, posted or transmitted without their consent or as a form of harassment  
+• To protect the rights, property, or personal safety of us, our Users or the general public  
+• When we undergo any change in control, including by means of merger, acquisition or purchase of all or substantially all of its assets  
+• To collect, hold and/or manage Users’ Personal Information through our authorized third party service providers , as contemplated hereunder, who may be located outside of Israel (for example: Google Analytics, Amazon Web Services, Hotjar) Such third party services providers may receive or otherwise have access to our Users’ Personal Information, depending on each of their particular roles and purposes in facilitating and enhancing our Website and related services, namely to allow cloud hosting services, serving of personalized content and advertisement, analytics of the functionality and usability of our Website. and may only use it for such purposes  
+• Pursuant to your explicit approval prior to the disclosure.  
+For avoidance of doubt, we may share anonymized or de-identified information with any other third party, at our sole discretion.
 
-We do not use an SSL certificate  
-• We only provide articles and information, and we never ask for personal or private information
+8\. USING COOKIES AND OTHER TRACKING TECHNOLOGIES  
+We use certain monitoring and tracking technologies, including ones offered by third party service providers. These technologies are used in order to maintain, provide and improve our website on an ongoing basis, and in order to provide a better experience to our Users. For example, these technologies enable us to: (i) keep track of our Users’ preferences and authenticated sessions, (ii) secure our website by detecting abnormal behaviors, (iii) identify technical issues and improve the overall performance of our website, (iv) create and monitor analytics, and (v) deliver you targeted advertisements that are more tailored to you based on your browsing activities and inferred interests and track ad performance (For more information about this practice, click here: http://www.aboutads.info/choices/).  
+Please see our Cookie Policy at: <http://www.tomorrowoman.com/privacy-policy/>  
+Learn more about your choices and how to opt-out of tracking technologies:  
+In order to delete or block any tracking technologies, please refer to the “Help” area on your internet browser for further instructions, or You may also opt out of third party tracking technologies by following the instructions provided by each third party service provider in its privacy policy listed above or visiting www.youronlinechoices.eu. Please note however that deleting any of our tracking technologies or disabling future tracking technologies may prevent you from accessing certain areas or features of our website, or may otherwise adversely affect your user experience.
 
-**Do we use ‘cookies’?**
+9\. MINORS  
+To use our website, you must be over the age of sixteen (16). Therefore, we do not knowingly collect Personal Information from minors under the age of sixteen (16) and do not wish to do so. We reserve the right to request proof of age at any stage so that we can verify that minors under the age of sixteen (16) are not using the Website. 
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+10\. INFORMATION SECURITY  
+We employ industry standard procedures and policies to ensure the safety of its Users’ Personal Information, reduce the risks stemming from loss of information and prevent unauthorized use of any such information. However, no measure can provide absolute information security.
 
-We use cookies to:  
-• Keep track of advertisements.  
-• Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+11\. DATA RETENTION  
+We retain the Personal Information we collect only for as long as needed in order to provide you with our services and to comply with applicable laws and regulations. We then either delete from our systems or anonymize it without further notice to you.  
+If you withdraw your consent to us processing your Personal Information, we will delete your Personal Information from our systems (except to the extent such data in whole or in part to comply with any applicable rule or regulation and/or response or defend against legal proceedings versus us or our affiliates).
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+12\. UPDATING, OBTAINING A COPY OF, OR DELETING YOUR PERSONAL INFORMATION  
+If the law applicable to you grants you such rights, you may ask to access, correct, or delete your Personal Information that is stored in our systems. You may also ask for our confirmation as to whether or not we process your Personal Information.  
+Subject to the limitations in law, you may request that we update, correct, or delete inaccurate or outdated information. You may also request that we suspend the use of any Personal Information whose accuracy you contest while we verify the status of that data.  
+Subject the limitations in law, you may also be entitled to obtain the Personal Information you directly provided us (excluding data we obtained from other sources) in a structured, commonly used, and machine-readable format and may have the right to transmit such data to another party.  
+If you wish to exercise any of these rights, contact us at: [info@tomorrowoman.com](mailto:info@tomorrowoman.com). When handling these requests we may ask for additional information to confirm your identity and your request. Please note, upon request to delete your Personal Information, we may retain such data in whole or in part to comply with any applicable rule or regulation and/or response or defend against legal proceedings versus us or our affiliates  
+To find out whether these rights apply to you and on any other privacy related matter, you can contact your local data protection authority if you have concerns regarding your rights under local law.
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
+13\. UPDATES TO THIS PRIVACY POLICY  
+We reserve the right to change this policy at any time, so please re-visit this page frequently. We will notify you regarding substantial changes of this Privacy Policy by changing the link to the Privacy Policy in the Website. Such substantial changes will take effect seven (7) days after such notice was provided on our Website. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Website after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
 
-However, you can still place orders .
+14\. GENERAL INFORMATION  
+This Privacy Policy, its interpretation, and any claims and disputes related hereto, shall be governed by the laws of the State of Israel, without respect to its criminal law principles. Any and all such claims and disputes shall be brought in, and you hereby consent to them being litigated in and decided exclusively by a court of competent jurisdiction located in Tel Aviv, Israel.  
+This Privacy Policy was written in English, and may be translated into other languages for your convenience. If a translated (non-English) version of this Privacy Policy conflicts in any way with the English version, the provisions of the English version shall prevail.
 
-**Third Party Disclosure**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. 
-
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Opt-Out**  
-We partner with third party advertisers to serve and display advertising on the Services. These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://optout.networkadvertising.org/#!/). To serve and display advertising relevant to your location, the Services may also track your device’s precise geolocation by responding to beacons or inaudible signals sent to your device’s microphone. If you do not want the location of your device to be tracked by the Services, please opt-out using your device settings.
-
-**Google**
-
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
-
-We use Google AdSense Advertising on our website.
-
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-We have implemented the following:  
-• Remarketing with Google AdSense
-
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
-
-Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
-
-**California Online Privacy Protection Act**
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-According to CalOPPA we agree to the following:  
-Users can visit our site anonymously  
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.  
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
-
-Users will be notified of any privacy policy changes:  
-• On our Privacy Policy Page  
-Users are able to change their personal information:  
-• By logging in to their account
-
-How does our site handle do not track signals?  
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-
-Does our site allow third party behavioral tracking?  
-It’s also important to note that we allow third party behavioral tracking
-
-**COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under 13.
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
-We will notify the users via in site notification  
-• Within 7 business days
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-tomorrowoman.com
-
-Last Edited on 2014-10-20
+15\. HAVE ANY QUESTIONS?  
+If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email at: [info@tomorrowoman.com](mailto:info@tomorrowoman.com) and we will make an effort to reply within a reasonable timeframe.
