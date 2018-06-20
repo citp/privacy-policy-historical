@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the voidtools.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218081425id_/http%3A//www.voidtools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voidtools.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620085416id_/http%3A//www.voidtools.com/privacy) for the most accurate reproduction.*
 
 # Privacy - voidtools
 
 Your Internet Protocol (IP) address and browser type is logged when you visit voidtools.com
 
-Information is kept for the last 1000 requests.
+Information is kept for the last 1000 HTTP requests.
 
 Cookies may be used to uniquely identify your browser when visiting the forums.
 
@@ -45,7 +45,9 @@ This information is stored locally and is not sent anywhere remotely.
 The following information is logged by voidtools.com, if you have enabled [Check for updates on startup](https://web.archive.org/support/everything/options#check_for_updates_on_startup)
 
   * Your IP address
+
   * Version of "Everything" you are currently running
+
 
 
 
@@ -60,7 +62,9 @@ Windows will block these servers from remote access with the default firewall se
 The following information may be accessed by a user if an ETP/FTP/HTTP server is started:
 
   * Your IP address
+
   * Any file or folder "Everything" has indexed.
+
 
 
 
