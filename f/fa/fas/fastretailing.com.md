@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastretailing.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206223310id_/http%3A//www.fastretailing.com/eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastretailing.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620124835id_/http%3A//www.fastretailing.com/eng/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FAST RETAILING CO., LTD.
 
@@ -68,7 +68,7 @@ The Company does not share personal information with third parties, except in th
 (1)  When agreement has been obtained in advance from the individual concerned.
 
 (2)  In the case of joint usage by the Company's group companies.   
-The Company conducts joint operations with FAST RETAILING group companies (Related Companies) both within and outside of Japan as listed on the website ([www.fastretailing.com](http://www.fastretailing.com/)). For that reason, the Company may sanction joint usage with Related Companies of personal information acquired from customers, shareholders, job applicants and employees, but only for the purpose of achieving the utilization purposes noted in this policy. 
+The Company conducts joint operations with FAST RETAILING group companies (Related Companies) both within and outside of Japan as listed on the website ([www.fastretailing.com](https://web.archive.org/eng/)). For that reason, the Company may sanction joint usage with Related Companies of personal information acquired from customers, shareholders, job applicants and employees, but only for the purpose of achieving the utilization purposes noted in this policy. 
 
 (3)  Other cases recognized by law, including:  
   ・  When necessary to protect life, body or property and consent from the individual cannot   
