@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lcpdfr.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217133752id_/http%3A//www.lcpdfr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcpdfr.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620202533id_/http%3A//www.lcpdfr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LCPDFR.com
 
@@ -82,4 +82,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 This document was last updated on July 02, 2017 
 
-LCPDFR.com, G17 Media, Friedrichstr. 123, Berlin, 10117
+### Third Parties
+
+**Spam Defense**
+
+The IPS Spam Defense Service passes the email address and IP address of the registering member to the service to determine the likelihood a registering account is a spam source.
