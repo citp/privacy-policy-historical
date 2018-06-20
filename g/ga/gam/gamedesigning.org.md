@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamedesigning.org privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128122643id_/https%3A//www.gamedesigning.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedesigning.org privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620054739id_/https%3A//www.gamedesigning.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We have created this privacy statement for gamedesigning.org in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with [gamedesigning.org](http://gamedesigning.org/). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
+We have created this privacy statement for gamedesigning.org in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with [gamedesigning.org](https://www.gamedesigning.org/). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
  **We recognize the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
 
