@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loklist.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207045216id_/http%3A//www.loklist.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loklist.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621000756id_/http%3A//www.loklist.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Post Free classified ads India-Post Free ads-Classified sites in India
 
@@ -19,7 +19,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
-#### Copyright © 2017 LokList.com(100% free classified site). All Rights Reserved.
+#### Copyright © 2018 LokList.com(100% free classified site). All Rights Reserved.
 
 LokList.com – Post free classified ads in India
 
