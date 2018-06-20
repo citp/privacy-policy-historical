@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cartercenter.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120063815id_/https%3A//www.cartercenter.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartercenter.org privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620200632id_/https%3A//www.cartercenter.org/about/privacy.html) for the most accurate reproduction.*
 
 # Website Privacy Statement for The Carter Center, Inc.
 
-This section of the Carter Center's Privacy Statement relates specifically to website privacy. Read the Center's [Donor Privacy Statement here](https://web.archive.org/web/20171120063815id_/https%3A//www.cartercenter.org/about/donor-privacy.html).
+This section of the Carter Center's Privacy Statement relates specifically to website privacy. Read the Center's [Donor Privacy Statement here](https://web.archive.org/web/20180620200632id_/https%3A//www.cartercenter.org/about/donor-privacy.html).
 
 The Carter Center is committed to safeguarding the privacy of its visitors. Information provided by our visitors, or that derived from internal Web tracking, is not sold, rented, or shared with any individual or organization.
 
@@ -22,7 +22,7 @@ The Carter Center, Inc. will not license or provide visitors' personal informati
 Links to external websites included in The Carter Center, Inc. website are provided for the convenience of visitors. The Carter Center, Inc. is not responsible for the privacy practices or content of external websites, and any information provided by visitors to external sites is not subject to this Privacy Statement. The Carter Center, Inc. welcomes comments or complaints about external links accessed from our site: [info@cartercenter.org](mailto:info@cartercenter.org).
 
 **Security**  
-The Carter Center, Inc. treats visitors' personal information as an asset that must be protected against loss and unauthorized access. This website has information security measures in place to protect the loss, misuse, and alteration of the information under our control. We restrict access to our data center and servers to authorized personnel and limit access to personal information to those employees who have a legitimate business need to access such information. Despite these security measures, we do not represent or warrant that personal information will be protected against loss, misuse, or alteration by third parties.
+The Carter Center, Inc. treats visitors' personal information as an asset that must be protected against loss and unauthorized access. This website has information security measures in place to protect the loss, misuse, and alteration of the information under our control. We restrict access to our data center and servers to authorized personnel and limit access to personal information to those employees who have a legitimate business need to access such information. The Carter Center website has an Extended Validation SSL Certificate, which provides secure, encrypted communications and is used for HTTPS websites to verify and display the legal name controlling the site. Despite these security measures, we do not represent or warrant that personal information will be protected against loss, misuse, or alteration by third parties.
 
 **Privacy Policy Changes**  
 Revisions to The Carter Center, Inc. Website Privacy Statement may be made at any time and posted on the website. Visitors' use of the website constitutes acceptance of the provisions of this Website Privacy Statement and continued usage after such changes are posted constitutes acceptance of each revised Website Privacy Statement. Visitors who do not agree to the terms of the Website Privacy Statement, or any revised statement, are asked to exit the website immediately.
@@ -30,4 +30,4 @@ Revisions to The Carter Center, Inc. Website Privacy Statement may be made at an
 **Additional Information**  
 The Carter Center, Inc. welcomes all its visitors who agree to the terms of the Website Privacy Statement. This Privacy Statement is based on United States privacy policy standards, and, as such, this Website Privacy Statement applies only to United States visitors to The Carter Center, Inc. website. If you have any questions about this Website Privacy Statement, your personal information, the practices of this website, or your interaction with this website, please contact: [info@cartercenter.org](mailto:info@cartercenter.org).
 
-_Updated Feb. 29, 2016_
+_Updated March 22, 2018_
