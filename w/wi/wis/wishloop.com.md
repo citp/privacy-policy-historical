@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishloop.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220033140id_/http%3A//wishloop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishloop.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620161214id_/http%3A//wishloop.com/privacy.html) for the most accurate reproduction.*
 
 # Wishloop - The Website Conversion Engine
 
@@ -23,6 +23,8 @@ We collect information from visitors relating to:
   * email notifications
 
 
+  
+
 
   1. **Feedback.** If you provide feedback about the website through a contact form or via email we will only use this information for the purposes intended. You will not receive any subsequent unsolicited communication.
 
@@ -44,7 +46,7 @@ They improve things by:
 
 
     * remembering settings, so you don't have to keep re-entering them whenever you visit a new page
-    * remembering information you've given (e.g. your postcode) so you don't need to keep entering it
+    * remembering information you've given (e.g. forms you've submitted) so you don't need to keep completing them
     * measuring how you use the website so we can make sure it meets your needs
   
 Our cookies aren't used to identify you personally. They're just here to make the site work better for you. Indeed, you can manage and/or delete these small files as you wish. 
@@ -58,7 +60,9 @@ These are cookies that are set by this website directly.
 We use Google Analytics to collect information about how people use this site. We do this to make sure it’s meeting its users’ needs and to understand how we could do it better. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. We do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. 
   * **_Third Party Cookies_**
 
-These are cookies set on your machine by external websites whose services are used on this site. Cookies of this type are the sharing buttons across the site allow visitors to share content onto social networks. Cookies are currently set by Facebook, Twitter, Google+ and LinkedIn. 
+These are cookies set on your machine by external websites whose services are used on this site. Cookies of this type are the sharing buttons across the site allow visitors to share content onto social networks. Cookies are currently set by Facebook, Twitter, Google and LinkedIn. 
+
+We also offer live chat and web form functionality to allow prospects and customers to talk to us directly. This involves the use of third party scripts from Intercom and Active Campaign.
 
   * **_Log Files_**
 
@@ -66,3 +70,7 @@ Log files allow us to record visitors’ use of the site. These logs are automat
 
 
 
+
+More information about our approach to your personal data can be found in our [Statement of Data Processing Goals](http://wishloop.com/wishloop-data-protection-goals.pdf).
+
+For a complete (GDPR compliant) list of all our data processing activities for site visitors and Wishloop customers you can download our [Statement of Data Processing Activities](http://wishloop.com/wishloop-data-protection-activities.pdf).
