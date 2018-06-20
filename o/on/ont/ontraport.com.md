@@ -1,51 +1,21 @@
-> *The following text is extracted and transformed from the ontraport.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230052258id_/https%3A//ontraport.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontraport.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620112030id_/https%3A//ontraport.com/legal%23op-container--22) for the most accurate reproduction.*
 
-# ONTRAPORT | Legal – Privacy Policy
+# Privacy Policy, Terms of Service, Anti-Spam Policy, Copyright | ONTRAPORT Legal
 
-  * [Terms of Use](https://ontraport.com/legal-terms)
-  * [Privacy Policy](https://ontraport.com/legal-privacy)
-  * [Abuse Desk](https://ontraport.com/legal-abuse)
-  * [Partner Terms](https://ontraport.com/partner-terms-conditions)
+Responsibilities and Management  
+ONTRAPORT has designated our legal department to oversee compliance with the EU and Swiss Privacy Shield program and the GDPR. This team shall review and approve any material changes to this program as necessary. Any questions, concerns, or comments regarding this Policy also may be directed to [gdpr@ONTRAPORT.com](mailto:gdpr@ONTRAPORT.com). 
 
+ONTRAPORT will maintain, monitor, test, and upgrade information security policies, practices, and systems to assist in protecting the personal data that it collects. ONTRAPORT personnel will receive training, as applicable, to effectively implement this Policy. 
 
-  * Privacy Policy
+Collection and Use of Personal Data  
+ONTRAPORT provides various products services to its customers, some of whom are EU citizens. ONTRAPORT collects personal data from individuals when they purchase our products, fill out a form on our website, log in to their account, complete surveys, request information or otherwise communicate with us. For example, ONTRAPORT customers may choose to seek live support or post to a message board.
 
-### ONTRAPORT Privacy Policy
+The personal data that we collect may vary based on the customer’s interaction with our website and request for our services. Generally, ONTRAPORT collects contact information, including names, email and physical addresses, phone numbers, company names and more. We also collect payment information including credit card information. Customers have the option to log into their accounts online and to request service online, including through a live support option; we will collect information that they choose to provide to us through these portals.
 
-We collect the email addresses of those who communicate with us via email, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service. Itis not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
+When ONTRAPORT customers or non-customers use our services or website online, we will collect their IP address and browser type, along with contact information and any other information that the person chooses to submit through our website.
 
-It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
+The information that we collect from customers is used for selling the products and services they buy from us, managing transactions, reporting, invoicing, renewals, other operations related to providing services and products to our customers.
 
-We transfer information about you if ONTRAPORT is acquired by or merged with another company. In this event, ONTRAPORT will notify you before information about you is transferred and becomes subject to a different privacy policy.
+ONTRAPORT also serves its customers as a service provider. In our capacity as a service provider, we will receive, store, and/or process personal data. In such cases, we are acting as a data processor and will process the personal information on behalf of and under the direction of our partners and/or agents. The information that we collect from our customers in this capacity is used for managing transactions, reporting, invoicing, renewals, other operations related to providing services to our customers.
 
-### INFORMATION GATHERING AND USAGE
-
-When you register for ONTRAPORT we ask for information such as your name, company name, email address, billing address and credit card information. Members who sign up for the free account are not required to enter a credit card.
-
-ONTRAPORT uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
-
-### COOKIES
-
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a website’s computers and stored on your computer’s hard drive.  
-Cookies are required to use the ONTRAPORT service.
-
-We use cookies to record current session information, but do not use permanent cookies. You are required to log in to your ONTRAPORT account after a certain period of time has elapsed. This protects you against others accidentally accessing your account contents.
-
-### DATA STORAGE
-
-ONTRAPORT uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage and related technology required to run ONTRAPORT. Although ONTRAPORT owns the code, databases and all rights to the ONTRAPORT application, you retain all rights to your data.
-
-### DISCLOSURE
-
-ONTRAPORT may disclose personally identifiable information under special circumstances, such as complying with subpoenas or when your actions violate the Terms of Service.
-
-### CHANGES
-
-ONTRAPORT may periodically update this policy. We will notify you about significant changes in how we treat personal information by sending a notice to the primary email address specified for your ONTRAPORT primary account holder account or by placing a prominent notice on our site.
-
-### QUESTIONS
-
-Any questions about this Privacy Policy should be addressed to support at ONTRAPORT.com or by mail at: ONTRAPORT, 2040 Alameda Padre Serra, Ste. 220., Santa Barbara, CA 93103
-
-
-
+ONTRAPORT uses the personal data that we collect from our customers for the following business purposes, without limitation:
