@@ -1,179 +1,193 @@
-> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107222904id_/https%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620173629id_/https%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for HowStuffWorks.com | HowStuffWorks
 
-This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace Holdings LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
+Control Your User Privacy Preferences
 
-**A. Information Collected**
+Last modified: May 15, 2018
 
-This privacy policy applies only to information collected on the Sites and does not apply to information collected by HSW through any other means. For details on the information collected and used from children under the age of 13, see Section D below. We collect two types of information from visitors to the Sites: (1) Personally Identifiable Information; and (2) Non-Personally Identifiable Information, such as your IP address or cookies.
+**INTRODUCTION**
 
-**(1) Personally Identifiable Information**
+System1 LLC respects your privacy and we are committed to protecting it through our compliance with this policy. HowStuffWorks is a division of Infospace Holdings LLC, a System1 LLC subsidiary.
 
-"Personally Identifiable Information" is information that identifies you personally, such as your name, address, telephone number, email address, or company name. HSW collects and stores the personally identifiable information that you have provided to us. Here are some examples of manners in which we may collect your personally identifiable information on the Sites:
+Our services include our websites and applications that link to this privacy policy. This policy describes the types of information we may collect from you or that you may provide when you use our services and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-· We may collect your email address, first and last name and zip code if you sign up for an online newsletter;
+This policy applies to information we collect:
 
-· We may collect your email address if you contact us with a question;
+  * When you use or interact with our services.
+  * In your email, text, and other electronic messages with us.
+  * Through our mobile and desktop applications.
 
-· We may collect your first and last name, date of birth and email address if you choose to participate in a contest or sweepstakes.
 
-The above list provides an example of the personally identifiable information that may be collected on the Sites. If you do not want HSW to collect your personally identifiable information, please do not provide it to us.
 
-**(2) Non-Personally Identifiable Information**
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our services. By accessing or using our services, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of our services after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-"Non-Personally Identifiable Information" can be technical information or it can be demographic information, such as your age, gender or interests. Non-personally identifiable information does NOT identify you personally. Here are some examples of the non-personally identifiable information that is collected via the Sites and a description of how this information is used:
+**EU-US PRIVACY SHIELD AND SWISS-US PRIVACY SHIELD**
 
-· Internet Protocol (IP) address -- Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the webpages you view. We use this information to deliver our webpages to you upon request, to tailor our Sites to the interests of our users and to measure traffic within our Sites.
+System1 LLC, and certain of its controlled US affiliates, HowStuffWorks, a division of Infospace Holdings LLC, and Qool Media Holdings LLC, comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. System1 has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
 
-· Cookie -- A "cookie" is a small text file that may be used to collect information about your activity on the Sites. For example, when someone visits a page within the Sites, a cookie is placed on the user's machine (if the user accepts cookies) or is read if the user has visited the Sites previously. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Sites. Some of the cookies we use may be flash cookies or Adobe cookies. While they are harmless, they may contain Demographic Information (defined below) and depending on your browser these cookies may not normally be deleted when your cookies are deleted. Please check your browser to determine where these types of cookies are stored and how they may be deleted.
+To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
 
-· Web Beacons (also known as "clear gifs," "web bugs" or "pixel tags") -- "Web Beacons" are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of the Sites and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, web beacons can tell the sender whether and when the email has been opened. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on web pages.
+System1 is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
-· Demographic Information -- "Demographic Information" may be your gender, age, zip code and interests, which you voluntarily provide to us on the Sites. We use this information to provide you with personalized services and to analyze trends to ensure the information provided by the Sites meets your needs. Please note that we also consider aggregated information, which is not personally identifiable, to be non-personally identifiable information. The above list provides an example of the non-personally identifiable information that is collected via the Sites.
+**CHILDREN UNDER THE AGE OF 13**
 
-We collect the above non-personally identifiable information from all visitors to our Sites. If you do not want HSW to have access to this information, please do not visit our Sites.
+Our services are not intended for children under 13 years of age. No one under age 13 may provide any information to or through our services. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information through our services. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at:
 
-**B. Use of Information Collected Via the Sites**
+Attn: Privacy Officer
 
-**(1) Personally Identifiable Information**
+1501 Main Street
 
-We use your personally identifiable information that is collected on these Sites primarily for the following purposes:
+Suite 201
 
-· To deliver services, such as educational programs, information, newsletters or software you request or purchase;
+Venice, CA 90291
 
-· To alert you to special offers, updated information and other new services from HSW, or other third parties, or to forward promotional materials;
+[privacy@system1.com](mailto:privacy@system1.com)
 
-· To complete a transaction or service requested by you;
+**INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT**
 
-· To fulfill the terms of a promotion;
+We collect several types of information from and about users of our services, including information:
 
-· To ensure the Sites are relevant to your needs;
+  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number, or any other identifier by which you may be contacted online or offline ("personal information");
+  * that is about you but individually does not identify you, such as your IP address, referral data, and browser and platform type; and/or
+  * about your internet connection, the equipment you use to access our services and usage details.
 
-· To help us create and publish content most relevant to you;
 
-· To notify you about a material change to this privacy policy or the Visitor Agreement, if necessary;
 
-· To allow you access to limited-entry areas of the Sites; and
+We collect this information:
 
-· To contact you in response to sign up forms such as Contact Us.
+  * Directly from you when you provide it to us.
+  * Automatically as you use our services. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.
+  * From third parties, for example, our business partners.
 
-**(2) Non-Personally Identifiable Information**
 
-Non-personally identifiable information is used as described above and in other ways as permitted by applicable laws, including combining non-personally identifiable information with personally identifiable information (except with respect to non-personally identifiable information collected from children under the age of 13).
 
-**C. Sharing and Disclosure of Information**
+**_Information You Provide to Us._** The information we collect through our services may include:
 
-**(1) Personally Identifiable Information**
+  * Information that you provide by filling in forms through our services. This includes information provided at the time of registering to use our services, subscribing to our service, posting material, or requesting further services. We may also ask you for information when you report a problem with our services.
+  * Records and copies of your correspondence (including email addresses), if you contact us.
 
-We may share or disclose your personally identifiable information in the following instances:
 
-(i) To fulfill a service to you. For example, if you choose to watch an educational program on the Sites, we may share your personally identifiable information in order to provide the program to you. In addition, if you email us a question, we may use your email address to process your request and respond to your question. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion. This means that we may share the information for prize fulfillment purposes or mail carriers. We also may share your information with the co-sponsor of that promotion.
 
-(ii) To affiliates, strategic partners, agents, third party marketers or other unaffiliated parties who are offering products or services that we believe may be of interest to you or who require your personally identifiable information for research, administrative and/or internal business purposes. These parties may use your personally identifiable information to contact you with an offer or advertisement related to a product or service, or they may use such information for their own research, administration or business purposes. If you do not want us to share your personally identifiable information in this manner, please do not provide us with this information.
+**_Information We Collect Through Automatic Data Collection Technologies._** As you use our services, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
-(iii) To unaffiliated third-party service providers, agents or independent contractors who help us maintain our Sites and provide other administrative services to us (including, but not limited to, order processing and fulfillment, providing customer service, maintaining and analyzing data, sending customer communications on HSW's behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the personally identifiable information for any other purpose than to provide the administrative services for which they are responsible. Because such unaffiliated third-party service providers that help us administer our Sites will have access to users' personally identifiable information, if you do not wish for our unaffiliated third-party service providers to have access to your information, please do not register or submit any personally identifiable information to us.
+  * Details of your use of our services, including traffic data, location data, logs, and other communication data and the resources that you use on our services.
+  * Information about your computer and internet connection, including your IP address, operating system, and browser type.
 
-(iv) To comply with the law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or property, including the rights and property of HSW and its family of Sites or act in urgent circumstances to protect the personal safety of our end users.
 
-(v) To third parties as part of any corporate reorganization process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets.
 
-(vi) To track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
+We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).
 
-(viii) To protect against potential fraud, we may verify with third parties the information collected from these Sites. In the course of such verification, we may receive personally identifiable information about you from such services.
+The information we collect automatically is statistical data and does not include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our services and to deliver a better and more personalized service.
 
-Except as described in this Privacy Policy or at the time we request the information, we do not otherwise use, share or otherwise disclose your personally identifiable information to any third parties.
+The technologies we use for this automatic data collection may include:
 
-**(2) Non-Personally Identifiable Information**
+  * Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our services.
+  * Flash Cookies. Certain features of our services may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our services. Flash cookies are not managed by the same browser settings as are used for browser cookies.
+  * Web Beacons. Portions of our services may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that allow us, for example, to count users who have visited pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
-We use non-personally identifiable information collected on the Sites in the manner disclosed above, in the Section A (2). We may share this non-personal information with third parties.
 
-**D. Collection and Use of Information from Children Under the Age of 13**
 
-We do not request or knowingly collect personally identifiable information online or offline contact information from users under 13; or knowingly use or share personal information from users under 13 with third parties.
+We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
 
-It is possible that we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information.
+**_Third-Party Use of Cookies and Other Tracking Technologies_**
 
-Questions regarding privacy, including children's privacy should be directed to:
+Some content or applications, including advertisements, on our services are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our services. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-InfoSpace Holdings LLC
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see Choices About How We Use and Disclose Your Information.
 
-10900 NE 8th Street, Suite 800
+**HOW WE USE YOUR INFORMATION**
 
-Bellevue, WA 98004
+We use information that we collect about you or that you provide to us, including any personal information:
 
-Email: [hsw_privacy@infospace.com](mailto:hsw_privacy@infospace.com)
+  * To present our services and its contents to you.
+  * To provide you with information, products, or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To provide you with notices about your account, including expiration and renewal notices.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our services.
+  * To allow you to participate in interactive features on our services.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
 
-**E. International Transfer of Information**
 
-If you choose to provide us with personally identifiable information, HSW may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to:
 
-· the use of your personally identifiable information for the uses identified above in accordance with this privacy policy; and
+We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
-· the transfer of your personally identifiable information to the United States as indicated above.
+**DISCLOSURE OF YOUR INFORMATION**
 
-**F. Opt-Out**
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
-We communicate with users who subscribe to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional.
+We may disclose personal information that we collect or you provide as described in this privacy policy:
 
-However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on this Site or if you do not want us to share your personally identifiable information with third parties. The opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email.
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers, and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by us is among the assets transferred.
+  * To fulfill the purpose for which you provide it.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
 
-**G. Forums, Chat Rooms and Other Public Posting Areas**
 
-Please note that any information you include in a message you post to any chat room, forum or other public posting area is available to anyone with Internet access. If you don't want people to know your e-mail address, for example, don't include it in any message you post publicly. PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS.
 
-**H. Third Party Web Sites**
+We may also disclose your personal information:
 
-This statement applies solely to information collected on the Sites. The Sites may contain links to other web sites. We are not responsible for the privacy practices or the content of these other web sites.
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+  * If we believe disclosure is necessary or appropriate to protect our rights, property, or for our safety, and that of our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+  * Under certain circumstances, we may be required to disclose your personal information in response to valid requests by public authorities, including to meet national security or law enforcement requirements.
+  * System1’s accountability for data it receives pursuant to the EU-US and Swiss-US Privacy Shield and subsequent transfer of that data to third parties is detailed in the Privacy Shield Principles. In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-US or and Swiss-US Privacy Shield, System1 is potentially liable. In particular, System1 remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless System1 proves that it is not responsible for the event giving rise to the damage.
 
-**I. Third Party Advertisers**
 
-We may use advertisers, third party ad networks, and other advertising companies, to serve advertisements on the Sites. Please be advised that such advertising companies may gather information about your visit to the Sites or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. To find out more about third-party advertising networks and similar entities that use these technologies, see http://www.aboutads.info, and to opt-out of such advertising networks' and services' advertising practices, go to http://www.aboutads.info/choices.
 
-For some of our Sites, we use Google Analytics Advertising Features, including Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographic and Interest Reporting. For information about Google Analytics currently available opt-outs, please click [here](https://tools.google.com/dlpage/gaoptout/). Some of our products may include advertisements from Microsoft. To learn more about information collected by Microsoft, please click [here](http://www.microsoft.com/en-us/privacystatement/Default.aspx). You can opt-out of Microsoft's personalized advertising services by following the instructions found [here](http://choice.microsoft.com/).
+**CHOICES ABOUT HOW WE USE AND DISCLOSE YOUR INFORMATION**
 
-You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/opt_out.asp) or who follow the [Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/choices/) by visiting the opt-out pages on the NAI site and DAA site.
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-**J. Accessing Your Personally Identifiable Information and Privacy Preferences**
+  * You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * For some of our products, we use Google Analytics Advertising Features, including Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographic and Interest Reporting. For information about Google Analytics currently available opt-outs, please click [here](https://tools.google.com/dlpage/gaoptout/).
+  * Some of our products may include advertisements from Microsoft. To learn more about information collected by Microsoft, please click [here](http://www.microsoft.com/en-us/privacystatement/Default.aspx). You can opt-out of Microsoft’s personalized advertising services by following the instructions found [here,](http://choice.microsoft.com/).
+  * We do not control third parties' collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the [Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/choices/) by visiting the opt-out pages on the [NAI site](http://www.networkadvertising.org/managing/opt_out.asp) and DAA site.
+  * System1 acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them. An EU or Swiss individuals who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query to privacy@system1.com. If requested to remove data, we will respond within a reasonable timeframe.
+  * We will also provide an EU or Swiss individuals with opt-out or opt-in choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. 
+  * To limit the use and disclosure of your personal information, please submit a written request to [privacy@system1.com.](mailto:privacy@system1.com)
 
-We provide you with an opportunity to access your personally identifiable information to ensure it is correct, accurate and current. To change your privacy preferences for the Sites please contact us as described below.
 
-**K. Assignment**
 
-In the event that all or part of our assets or sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Sites.
+**ACCESSING AND CORRECTING YOUR INFORMATION**
 
-**L. Changes to this Privacy Policy**
+We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change, or remove the personal registration information you provide to us and that we control. To choose not to receive future communications from us, please Contact us.
 
-We reserve the right to change this privacy policy from time to time. When we do, we will also revise the "last update" date at the bottom of this privacy policy. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change by sending a notice to the primary email address specified in your account or by placing a prominent notice on the Sites.
+You may also send us an email at privacy@system1.com to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-We will also notify parents if we change the kinds of information that we collect from kids and materially alter our practices of sharing and using this information. We will not collect, use or share the information without parental consent.
+**DATA SECURITY**
 
-**M. Security**
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure.
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to HSW is done at your own risk.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our services. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the services.
 
-Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
+**DISPUTE RESOLUTION**
 
-If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using these Sites or providing personally identifiable information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of these Sites. We may post a notice on our Sites if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, System1 commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact System1 at: privacy@system1.com
 
-**N. Age Screening**
+System1 has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint.
 
-Some parts of the Sites require that personally identifiable information be submitted in order to participate. For example, if you want to receive one of our newsletters, you must give us your email address. Some parts of the Sites will have an age-screening mechanism to prevent kids from registering. We won't knowingly allow anyone under the age of thirteen to register with any of our Sites, or to access those features that require registration, except as explicitly disclosed herein. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen other than in a legally permissible situation, we will delete the information from our records as soon as we discover it.
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolutions procedures have been exhausted.
 
-**O. Contacting HSW**
+**CHANGES TO OUR PRIVACY POLICY**
 
-If you have any questions about this privacy policy or our privacy practices, please contact us at InfoSpace Holdings LLC, 10900 NE 8th Street, Suite 800, Bellevue, WA 98004. All information you provide in any written communication will also be covered by this policy.
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will let you know through a notice in our services. The date the privacy policy was last revised is found at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting this privacy policy to check for any changes.
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**
+**CONTACT INFORMATION**
 
-HSW does not support Do Not Track browser settings and does not currently participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information. Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding HSW's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
+To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
-InfoSpace Holdings LLC
+Attn: Privacy Officer
 
-10900 NE 8th Street, Suite 800
+1501 Main Street
 
-Bellevue, WA 98004
+Suite 201
 
-Email: [hsw_privacy@infospace.com](mailto:hsw_privacy@infospace.com)
+Venice, CA 90291
 
-Last Updated On: 08/10/2016
+[privacy@system1.com](mailto:privacy@system1.com)
+
+Last Updated On: 05/15/2018
