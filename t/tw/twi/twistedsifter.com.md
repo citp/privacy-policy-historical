@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the twistedsifter.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235422id_/http%3A//twistedsifter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistedsifter.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620025741id_/http%3A//twistedsifter.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY «TwistedSifter
 
+   
 **Privacy Policy for twistedsifter.com**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@twistedsifter.com.
@@ -14,12 +15,25 @@ Like many other Web sites, twistedsifter.com makes use of log files. The informa
 **Cookies and Web Beacons**  
 twistedsifter.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
+_Cookie Details for Exponential Interactive as follows:_  
+Cookie Name: ANON_ID  
+Sort by (Domain): tribalfusion.com  
+Function: The anonymous hashed id in the cookie links the web user’s browser to a profile which contains the behaviours the user has displayed  
+Party: Third  
+Class: Tracking  
+Type: Persistent  
+Expiry: 3 months
+
+This same information can be found in their [privacy policy](http://exponential.com/privacy/).
+
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on twistedsifter.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to twistedsifter.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Tribal Fusion, Criteo, Matchflow Media, Adiant and Snigel Web Services.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Exponential Interactive, Criteo, Adiant, Sortable and Snigel Web Services.
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com).
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on twistedsifter.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
