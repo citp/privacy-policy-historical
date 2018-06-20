@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223060702id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620040250id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : What is “personal” information?
 
@@ -85,7 +85,7 @@ What is the Online Marketing Program and how does it use information?
 
 Advertising is a reality in today’s online world, and people are finding that they receive ads that are irrelevant to them. With its online marketing program, Bell will work to ensure that the ads you do receive may be more relevant to you, rather than the random ads you may currently receive. In other words, you won't see more ads, just ads better suited to you.
 
-If you participate, Bell will be able to customize advertising based on your usage patterns, similar to the ways that companies like Google and Facebook have been doing for some time. Google and Facebook may sometimes use an individual's detailed URL and location info for marketing purposes and/or to limit the number of irrelevant ads a user might see. If you provide your express consent to participate in the Online Marketing Program and change your mind, you can opt-out at any time. [Learn more](http://www.bell.ca/online-marketing#ads-modal)
+If you participate, Bell will be able to customize advertising based on your usage patterns, similar to the ways that companies like Google have been doing for some time. These companies may sometimes use an individual's detailed URL and location info for marketing purposes and/or to limit the number of irrelevant ads a user might see. If you provide your express consent to participate in the Online Marketing Program and change your mind, you can opt-out at any time. [Learn more](http://www.bell.ca/online-marketing#ads-modal)
 
 * * *
 
@@ -281,7 +281,7 @@ Our Privacy Policy applies to all customers using our services and cannot be dec
 
 Additional questions or concerns about your privacy? 
 
-If you would like to view a copy of the previous version of our Privacy Policy, please [click here (PDF 162.71 KB)](https://web.archive.org/_web/guides/Common/Legal/bcfip\(en\).pdf)
+If you would like to view a copy of the previous version of our Privacy Policy, please [click here (PDF 78.18 KB)](https://web.archive.org/_web/guides/Common/Legal/bcfip\(en\).pdf)
 
 We'd be happy to discuss any questions or concerns you may still have about your privacy. To reach us, please visit our [contact us](http://support.bell.ca/Contact-us) section.
 
