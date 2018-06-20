@@ -1,307 +1,304 @@
-> *The following text is extracted and transformed from the mts.ca privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316142425id_/http%3A//about.mts.ca/legal/%23privacy-code) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mts.ca privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620040250id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy) for the most accurate reproduction.*
 
-# Legal Information - MTS
+# How does Bell respect my privacy? : What is “personal” information?
 
-## Privacy Code
+What is “personal” information? 
 
-### Introduction
+Your personal information is information about you as an identifiable individual. Personal information can include:
 
-Manitoba Telecom Services Inc. and its subsidiaries (hereafter the “Company”) provides a complete range of services to customers, including local and long distance voice and data, wireless, directory, Internet access, television and security alarm services in Canada.
+  * Your name, address email address and phone number(s).
+  * Other information about the Bell product(s) that you subscribe to, such as calling features or Bell TV programming.
+  * Your service usage such as cellular call records, long distance usage or Internet surfing habits.
+  * Account information such as the status of your account or your method of payment.
 
-The Company is committed to maintaining the accuracy, confidentiality, security and privacy of personal information of customers and employees. The Company’s “Privacy Code” is a formal statement of principles and guidelines concerning the minimum requirements for the protection of personal information provided by the Company to its customers and employees. The objective of the Privacy Code is to ensure responsible and transparent practices in the management of personal information, in accordance with the national standard and federal legislation. This version of the Privacy Code was updated in January 2016.
 
-The Company will review its Privacy Code at least every five years to ensure it is relevant and remains current with changing technologies and laws and the evolving needs of the Company, its customers and employees.
 
-### Summary of Principles
-
-#### **Principle 1 – Accountability**
-
-The Company is responsible for personal information under its control. The Privacy Officer for Manitoba Telecom Services Inc. is accountable for the Company’s compliance with the Company Privacy Code.
-
-#### **Principle 2 – Identifying Purposes for Collection of Personal Information**
-
-The Company shall identify the purposes for which personal information is collected at or before the time the information is collected. **  
-**
-
-#### **Principle 3 – Obtaining Consent for Collection, Use or Disclosure of Personal Information**
-
-The knowledge and consent of a customer or employee are required for the collection, use, or disclosure of personal information, except where inappropriate.
-
-**Principle 4 – Limiting Collection of Personal Information**
-
-The Company shall limit the collection of personal information to that which is necessary for the purposes identified by the Company. The Company shall collect personal information by fair and lawful means.
-
-#### **Principle 5 – Limiting Use, Disclosure, and Retention of Personal Information**
-
-The Company shall not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law. The Company shall retain personal information only as long as necessary for the fulfillment of the purposes for which it was collected.
-
-#### **Principle 6 – Accuracy of Personal Information**
-
-The personal information the Company maintains shall be as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be used.
-
-#### **Principle 7 – Security Safeguards**
-
-The Company shall protect personal information through the use of security safeguards appropriate to the sensitivity of the information.
-
-#### **Principle 8 – Openness Concerning Policies and Practices**
-
-The Company shall make readily available to customers and employees specific information about its policies and practices relating to its management of personal information.
-
-#### **Principle 9 – Customer and Employee Access to Personal Information**
-
-The Company shall inform a customer or employee of the existence, use, and disclosure of his or her personal information upon request and shall give the individual access to that information. A customer or employee shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
-
-#### **Principle 10 – Challenging Compliance**
-
-A customer or employee shall be able to address a challenge concerning compliance with the above principles to the person accountable for the Company’s compliance with this Privacy Code.
-
-### Scope and Application
-
-The ten principles that form the basis of the Company’s Privacy Code are interrelated and the Company shall adhere to the ten principles as a whole. Each principle must be read in conjunction with the accompanying commentary. As permitted by the _Personal Information Protection and Electronic Documents Act_ , the commentary in this Privacy Code has been tailored to reflect personal information issues specific to the Company.
-
-  1. The scope and application of the Privacy Code are as follows: The Privacy Code applies to Manitoba Telecom Services Inc. and its various subsidiaries offering communication and other services to customers, including local and long distance voice and data, wireless, directory, Internet access, television and security alarm services, and the Company’s various retail locations (and any successor company or companies of the above, as a result of corporate reorganization or restructuring). The Privacy Code applies to any business a customer does with the Company or anyone acting as an agent on the Company’s behalf.
-  2. The Privacy Code applies to personal information about the Company’s customers and employees that is collected, used, or disclosed by the Company.
-  3. The Privacy Code applies to the management of personal information in any form whether oral, electronic or written.
-  4. The Privacy Code does not impose any limits on the collections, use, or disclosure of the following information by the Company. 
-    * information that is publicly available, such as a customer’s name, address, telephone number and electronic address, when listed in a directory or made available through directory assistance; or
-    * the name, title or business address or telephone number of an employee of an organization; or
-    * other information about the customer or employee that is publicly available and is specified by regulation pursuant to the Personal Information Protection and Electronic Documents Act.
-  5. The Privacy Code does not apply to customers that are not individuals, such as corporate customers.  Information collected for such customers is protected by other Company policies and practices and by application contractual terms.
-  6. The application of the Company’s Privacy Code is subject to the requirements or provisions of Part I of the Personal Information Protection and Electronic Documents Act, the regulations enacted thereunder, and any other applicable legislation or regulation, including any applicable regulations of the Canadian Radio-television and Telecommunications Commission and the requirements of any applicable legislation, regulations, tariffs or agreements, such as collective agreements, or the order of any court, or other lawful authority.
-
-
-
-### Definitions
-
-**“collection”** – the act of gathering, acquiring, recording, or obtaining personal information from any source, including third parties, by any means.
-
-**“consent”** – voluntary agreement with the collection, use and disclosure of personal information for defined purposes. Consent can be either express or implied and can be provided directly by the individual or by an authorized representative. Express consent can be given orally, electronically or in writing, but is always unequivocal and does not require any inference on the part of the Company. Implied consent is consent that can reasonably be inferred from an individual’s action or inaction.
-
-**“customer”** – an individual who uses, or applies to use, the Company’s products or services or otherwise provides personal information to the Company in the course of the Company’s commercial activities or participating in Company’s contests and promotions.
-
-**“disclosure”** – making personal information available to a third party.
-
-**“employee”** – an employee or pensioner of the Company, and for the purpose of this Privacy Code only, includes independent and other contractors performing services within the Company.
-
-**“Company”** – Manitoba Telecom Services Inc. and its subsidiaries from time to time.
-
-**“personal information”** – information about an identifiable individual but not aggregated information that cannot be associated with a specific individual.
-
-For a **customer** , such information includes credit information, billing records, service and equipment, and any recorded complaints.
-
-For an **employee** , such information includes information found in personal employment files, performance appraisals, and medical and benefits information.
-
-**“third party”** – an individual other than the customer, or the customer’s agent, or organization outside the Company.
-
-**“use”** – the treatment, handling, and management of personal information by and within the Company.
-
-### The Privacy Code in Detail
-
-#### Principle 1 – Accountability
-
-_The Company_ _is responsible for personal information under its control. The Privacy Officer for Manitoba Telecom Services Inc. is accountable for the Company’s compliance with the Privacy Code._
-
-1.1  Other individuals within the Company may be delegated to act on behalf of the Privacy Officer or to take responsibility for the day-to-day collection and processing of personal information.
-
-1.2  The Company is responsible for personal information in its possession or custody, including information that has been transferred to a third party for processing or other purposes related to the Company’s business and operations. The Company shall use contractual or other means to provide a comparable level of protection while the information is in the possession of the third party. (See Principle 7)
-
-1.3  The Company has implemented policies and procedures to give effect to the Privacy Code, including:
-
-  * implementing procedures to protect personal information and to oversee the Company’s compliance with the Privacy Code;
-  * establishing procedures to receive and respond to inquiries or complaints;
-  * training and communicating to employees about the Company’s policies and practices; and
-  * developing public information to explain the Company’s policies and practices.
-
-
-
-#### Principle 2 – Identifying Purposes for Collection of Personal Information
-
-_The Company shall identify the purposes for which personal information is collected at or before the time the information is collected._
-
-2.1  The Company collects personal information only for the following purposes:
-
-  * to establish and maintain responsible commercial relations with customers and to provide ongoing service;
-  * to understand customer needs and preferences and determine eligibility for products and services;
-  * to recommend certain products and services to meet customer needs;
-  * to develop, enhance, market or provide products and services;
-  * to manage and develop the Company’s business and operations, including personnel and employment matters; and
-  * to meet legal and regulatory requirements.
-
-
-
-Further references to “identified purposes” in this Privacy Code mean the purposes identified in this Principle 2.
-
-2.2  The Company shall specify orally, electronically or in writing the identified purposes to the customer or employee at or before the time personal information is collected. Upon request, persons collecting personal information shall explain these identified purposes or refer the individual to a designated person within the Company who shall explain the identified purposes.
-
-2.3  Unless required or permitted by law, the Company shall not use or disclose for any new purpose personal information that has been collected without first identifying and documenting the new purpose and obtaining the consent of the customer or employee.
-
-#### Principle 3 – Obtaining Consent for Collection, Use or Disclosure of Personal Information
-
-_The knowledge and consent of a customer or employee are required for the collection, use, or disclosure of personal information, except where inappropriate._
-
-3.1  In certain circumstances personal information can be collected, used or disclosed without the knowledge and consent of the individual. For example, the Company may collect, use or disclose personal information without knowledge or consent if it is clearly in the interests of the individual and consent cannot be obtained in a timely way.
-
-The Company may also collect, use and disclose personal information without knowledge or consent if:
-
-  * seeking the consent of the individual might defeat the purpose of collecting the information, such as in the investigation of a breach of an agreement or a contravention of a federal or provincial law;
-  * there is an emergency where the life, health or security of an individual is threatened; or
-  * disclosure is to a lawyer representing the Company, to collect a debt, to comply with a subpoena, warrant or other court order, or otherwise required or permitted by law.
-
-
-
-3.2  In obtaining consent, the Company shall use reasonable efforts to ensure that a customer or employee would understand the nature, purpose and consequences of the collection, and use or disclosure, to which they are consenting.
-
-3.3  Generally, the Company shall seek consent to use and disclose personal information at the same time it collects the information. However, the Company may seek consent to use and disclose personal information after it has been collected, but before it is used or disclosed for a new purpose.
-
-3.4  The Company will require customers to consent to the collection, use or disclosure of personal information as a condition of the supply of a product or service only if such collection, use or disclosure is required to fulfill the identified purposes.
-
-3.5  In determining the appropriate form of consent, the Company shall take into account the sensitivity of the personal information and the reasonable expectations of its customers and employees.
-
-3.6  In general, the use of the Company’s products and services by a customer, or the acceptance of employment or benefits by an employee, constitutes implied consent for the Company to collect, use and disclose personal information for all identified purposes.
-
-3.7  A customer or employee may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. Customers and employees may contact the Company for more information regarding the implications of withdrawing consent.
-
-#### Principle 4 – Limiting Collection of Personal Information
-
-_The Company shall limit the collection of personal information to that which is necessary for the purposes identified by_ _the Company._
-
-The Company shall collect personal information by fair and lawful means.
-
-4.1  The Company collects personal information primarily from its customers or employees.
-
-4.2  The Company may also collect personal information from other sources including credit bureaus, employers or personal references, or other third parties that represent that they have the right to disclose the information.
-
-4.3  For safety, security and liability purposes, the Company may use cameras in its retail stores and adjoining areas such as exterior hallways and parking lots. Information recorded by such cameras is retained for a short period, unless needed in conjunction with an investigation.
-
-#### Principle 5 – Limiting Use, Disclosure, and Retention of Personal Information
-
-_The Company_ _shall not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law._
-
-The Company shall retain personal information only as long as necessary for the fulfillment of those purposes.
-
-5.1  In certain circumstances, personal information can be collected, used or disclosed without the knowledge and consent of the individual. (See Principle 3.1)
-
-5.2  In addition, the Company may disclose a customer’s personal information to
-
-  * another telecommunications company for the efficient and cost-effective provision of telecommunications services;
-  * a company involved in supplying the customer with communications or communications directory related services;
-  * a company or individual retained by the Company to perform functions on the Company’s behalf, such as research and data processing;
-  * another person for the development, enhancement, marketing or provision of any of the Company’s products or services;
-  * credit grantors and reporting agencies;
-  * an agent used by the Company to evaluate a customer’s credit worthiness or to collect the customer’s account;
-  * a public authority or agent of a public authority, if in the reasonable judgment of the Company, it appears that there is imminent danger to life or property which could be avoided or minimized by disclosure of the information;
-  * a person who, in the reasonable judgment of the Company, is seeking the information as an agent of the customer; and
-  * a third party or parties, where the customer consents to such disclosure or disclosure is required or permitted by law.
-
-
-
-5.3  The Company may disclose personal information about its employees:
-
-  * for normal personnel and benefits administration;
-  * in the context of providing references regarding current or former employees in response to requests from prospective employers; or
-  * where disclosure is required or permitted by law.
-
-
-
-5.4  Only those Company employees who require access for business reasons, or whose duties reasonably so require are granted access to personal information about customers and employees.
-
-5.5  The Company shall keep personal information only as long as it remains necessary or relevant for the identified purposes or as required by law. Depending on the circumstances, where personal information has been used to make a decision about a customer or employee, the Company shall retain, for a period of time that is reasonably sufficient to allow for access by the customer or employee, either the actual information or the rationale for making the decision.
-
-5.6  The Company shall maintain reasonable and systematic controls, schedules and practices for information and records retention and destruction which apply to personal information that is no longer necessary or relevant for the identified purposes or required by law to be retained. Such information shall be destroyed, erased or made anonymous.
-
-5.7  When outsourcing certain business or operational functions, the Company strives to minimize the personal information stored or processed outside of Canada. However, in some cases, personal information may be stored or processed outside of Canada to provide customer or employees with service or to support the Company’s operations, and therefore may be subject to the legal jurisdiction of such non-Canadian territory. The Company only provides this information to companies it outsources upon negotiating suitable contracts which stipulate, among other things, that the personal information may only be used for the purposes of providing the services in question.
-
-#### Principle 6 – Accuracy of Personal Information
-
-_The personal information the Company_ _maintains shall be as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be used._
-
-6.1  Personal information used by the Company shall be sufficiently accurate, complete, and up-to-date to minimize the possibility that inappropriate information may be used to make a decision about a customer or employee.
-
-6.2  The Company shall update personal information about customers and employees as and when necessary to fulfill the identified purposes or upon notification by the individual.
-
-#### Principle 7 – Security Safeguards
-
-_The Company shall protect personal information through security safeguards appropriate to the sensitivity of the information._
-
-7.1  The Company shall use appropriate security measures to protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction regardless of the format in which it is held. The Company shall use care in disposing of or destroying personal information to prevent unauthorized parties from gaining access to the information.
-
-7.2  The Company shall protect personal information disclosed to third parties by contractual agreements stipulating the confidentiality of the information, the purposes for which it is to be used, limits on the number of Company personnel or agents that access the information to those whose job functions require access to the information, and security measures required to safeguard such personal information.
-
-7.3  All employees of the Company, with access to personal information shall be required as an ongoing condition of employment to respect the confidentiality of personal information.
-
-#### Principle 8 – Openness Concerning Policies and Practices
-
-_The Company_ _shall make readily available to customers and employees specific information about its policies and practices relating to the management of personal information._
-
-8.1  The Company shall make information about its policies and practices easy to understand, including:
-
-  * The title and address of the person or persons accountable for the Company’s compliance with the Privacy Code and to whom inquiries or complaints can be forwarded;
-  * The means of gaining access to personal information held by the Company; and
-  * A description of the type of personal information held by the Company, including a general account of its use.
-
-
-
-8.2  The Company shall make available information to help customers and employees exercise choices regarding the use of their personal information and the privacy-enhancing services available from the Company.
-
-#### Principle 9 – Customer and Employee Access to Personal Information
-
-_The Company_ _shall inform a customer or employee of the existence, use, and disclosure of his or her personal information upon request and shall give the individual access to that information, except in certain circumstances._
-
-9.1  A customer or employee shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
-
-Upon request, the Company shall afford customers and employees a reasonable opportunity to review the personal information in the individual’s file. Personal information shall be provided in understandable form within a reasonable time and at a minimal or no cost to the individual.
-
-9.2  In certain situations, the Company may not be able to provide access to all of the personal information it holds about a customer or employee. The Company shall provide the reasons for denying access upon request. For example:
-
-  * if doing so would likely reveal personal information about a third party or could reasonably be expected to threaten the life or security of another individual;
-  * if disclosure would reveal confidential commercial information;
-  * if the information is protected by solicitor-client privilege;
-  * if the information was generated in the course of a formal dispute resolution process;
-  * if the information was collected in relation to the investigation of a breach of an agreement or a contravention of a federal or provincial law; or
-  * if the information is prohibitively costly to provide and it is reasonable for the Company to not provide the information on such basis.
-
-
-
-9.3  Upon request, the Company shall provide an account of the use and disclosure of personal information and, where reasonably possible, shall state the source of the information. In providing an account of disclosure, the Company shall provide a list of organizations to which it may have disclosed personal information about the individual when it is not possible to provide an actual list.
-
-9.4  In order to safeguard personal information, a customer or employee may be required to provide sufficient identification information to permit the Company to account for the existence, use and disclosure of personal information and to authorize access to the individual’s file. Any such information shall be used only for this purpose.
-
-9.5  The Company shall promptly correct or complete any personal information found to be inaccurate or incomplete. Any unresolved differences as to accuracy or completeness shall be noted in the individual’s file. Where appropriate, the Company shall transmit to third parties having access to the personal information in question any amended information or the existence of any unresolved differences.
-
-9.6  A customer can obtain information or seek access to his or her individual files by contacting a customer service representative.
-
-9.7  An employee can obtain information or seek access to his or her individual files by contacting his or her manager or Human Resources.
-
-#### Principle 10 – Challenging Compliance
-
-_A customer or employee shall be able to address a challenge concerning compliance with the above principles to_ _the Company’s Privacy Officer, the person accountable for the Company’s compliance with the Privacy Code._
-
-10.1  The Company shall maintain procedures for addressing and responding to all inquiries or complaints from its customers and employees about the Company’s handling of personal information.
-
-10.2  The Company shall inform its customers and employees about the existence of these procedures as well as the availability of complaint procedures.
-
-10.3  The person or persons accountable for compliance with the Privacy Code may seek external advice where appropriate before providing a final response to individual complaints.
-
-10.4  The Company shall investigate all complaints concerning compliance with the Privacy Code. If a complaint is found to be justified, the Company shall take appropriate measures to resolve the complaint including, if necessary, amending its policies and procedures. A customer or employee shall be informed of the outcome of the investigation regarding his or her complaint.
+If personal information is effectively de-identified so that it can no longer be linked to an identifiable individual, the information is no longer 'personal'. De-identification is an important tool for protecting privacy.
 
 * * *
 
-For more information on the Company’s commitment to privacy please feel free to contact us at [www.mts.ca](http://www.mts.ca/) or at 204-CALLMTS and our customer service representatives would be pleased to assist you.
+How and why do we collect personal information? 
 
-_For detailed inquiries or unresolved privacy concerns related to the Company including related to MTS, please contact:_
+We collect information during the application process, when communicating or transacting business with you, when you browse the Internet using your mobile device, laptop, computer or TV, and when providing you with service. Occasionally we collect information about you from third parties, such as credit grantors or consumer reporting agencies for credit checks.
 
-**MTS Privacy** **Officer  
-**[privacyoffice@mts.ca](mailto:privacyoffice@mts.ca) **  
-**[www.mts.ca  
-](http://www.mts.ca/)P.O. Box 6666  
-333 Main Street  
-Winnipeg, Manitoba R3C 3V6
+We collect information to:
 
-For a copy of the _Personal Information Protection and Electronic Documents Act,_ please contact the Privacy Commissioner of Canada web site at [www.privcom.gc.ca](https://www.priv.gc.ca/en/).
+  * Establish and maintain a responsible commercial relationship with you. For example, we may collect information to confirm your identity or to establish credit worthiness.
+  * Understand your needs and preferences to recommend relevant offers, products, services and bundled discounts on behalf of our companies.
+  * Understand who the people are that use our products and services, how they use them, and how we can improve them.
+  * Manage and develop our business and operations. For example, we monitor usage volumes in order to plan and provision our communications networks. We also track product sales to determine the success of features, promotions and pricing.
+  * Meet legal and regulatory requirements. For example, we may be required to collect information by a court order or to demonstrate compliance with a CRTC requirement.
 
-For a copy of the CSA Model Code for the Protection of Personal Information contact:
 
-**Canadian Standards Association  
-**178 Rexdale Blvd.  
-Toronto, Ontario M9W 1R3  
-[www.csagroup.org](http://www.csagroup.org/)
+
+Your personal information will not be used for any other purpose without your consent.
+
+* * *
+
+Do we store customer information outside of Canada? 
+
+In some cases, personal information collected by our companies may be stored and processed outside of Canada to provide you with service or to support operations.
+
+While the information may be subject to the legal jurisdictions of these countries, the companies that provide us with these services have obligations to protect such information. For example, the information is typically provided only after the companies that provide us with these services have agreed to be bound by contracts setting out detailed privacy safeguards.. Moreover, the information may only be used for the purposes of providing the services in question. 
+
+The use of customer information in this way is governed by our Privacy Policy.
+
+* * *
+
+Do we share personal information with outside organizations? 
+
+We do not provide personal information to any party outside of our family of companies except in limited circumstances in which it is necessary for us to do so. The third parties may we may provide with personal information include:
+
+  * Our agents acting on our behalf, such as a company hired to perform installation work on our behalf.
+  * Another communications service provider, in order to offer efficient and effective communications services (e.g., to provide mobile service while roaming in another company's coverage area) or as required by law.
+  * A collection agency, for the express purpose of the collection of past due bills.
+
+
+
+When we provide personal information to third parties, we give only the information that is required under the specific circumstances. That information is used only for the purpose stated and is subject to strict terms of confidentiality. The employees of the companies that we share this information with must meet and respect our privacy standards.
+
+**Directory listing information**
+
+Pursuant to federal legislation, publicly available information (including a directory listing of your name, address, email address and telephone number), may be collected, used and disclosed by organizations without your consent.
+
+If you prefer not to have your listing information provided to select organizations, please [contact us](https://web.archive.org/Contact-us).
+
+**Sharing information among our companies**
+
+Occasionally we may share information between our companies to help understand your information, communication and entertainment needs, and to provide you with relevant information to meet those needs.
+
+To manage your communications preferences: [bell.ca/marketingpreferences](http://www.bell.ca/marketingpreferences)
+
+**Legal and emergency exceptions**
+
+In certain urgent circumstances, we may collect, use or disclose personal information without your knowledge or consent. For example:
+
+  * During the investigation of potential fraud, a breach of an agreement or the breaking of provincial or federal laws.
+  * If we' re asked to comply with a subpoena, warrant, court order or other lawful request.
+  * If there is an emergency where someone' s life, health or security is threatened.
+
+
+
+* * *
+
+What is the Online Marketing Program and how does it use information? 
+
+Advertising is a reality in today’s online world, and people are finding that they receive ads that are irrelevant to them. With its online marketing program, Bell will work to ensure that the ads you do receive may be more relevant to you, rather than the random ads you may currently receive. In other words, you won't see more ads, just ads better suited to you.
+
+If you participate, Bell will be able to customize advertising based on your usage patterns, similar to the ways that companies like Google have been doing for some time. These companies may sometimes use an individual's detailed URL and location info for marketing purposes and/or to limit the number of irrelevant ads a user might see. If you provide your express consent to participate in the Online Marketing Program and change your mind, you can opt-out at any time. [Learn more](http://www.bell.ca/online-marketing#ads-modal)
+
+* * *
+
+What customer information verification protocols are used to protect my information? 
+
+We place great emphasis on the security of your personal information and have safeguards in place to ensure that it is not disclosed to an unauthorized third party which is why, when calling us, you'll be asked to confirm certain details regarding your account.
+
+This safeguard will help us prevent pre-texting, often referred to as “social engineering”, which refers to the fraudulent and illegal practice of misrepresenting who you are in order to obtain access to someone else' s information. We are aware that pre-texting, although illegal, has been a practice employed by unauthorized third parties trying to obtain access to customer information.
+
+The kinds of things we might ask you to confirm could include your account number, PIN or password associated with the account, details of your payment habits, service usage or identification that you might have provided when you first requested your service such as a provincial driver's licence number.
+
+We therefore ask for your patience and understanding when you are asked to confirm or provide such information as this process has been established to protect your personal account information.
+
+* * *
+
+Do we monitor our customers’ use of our services? 
+
+Similar to other service providers, we may monitor our customers’ use of our services from time to time in accordance with our acceptable use policy and applicable laws.
+
+For example, in the normal course of business, we may need to review certain aspects such as your bandwidth consumption. This is to ensure that our service is functioning properly, but it may also be to ensure your compliance with our [Terms of Service](http://www.bell.ca/Legal_residential_services).
+
+Some of the things that may trigger monitoring of your use include:
+
+  * Spamming
+  * Harassment of other users
+  * Uploading, downloading or otherwise transmitting materials which are protected by copyrights or other intellectual property rights
+  * Assisting or engaging in the fraudulent use of our services
+
+
+
+For additional information, please refer to the guidelines set out in your [Terms of Service](http://www.bell.ca/Legal_residential_services) regarding the responsible use of Bell Services.
+
+* * *
+
+Do we use cookies or other identifying technologies? 
+
+Yes. Most websites use cookies and most browsers will accept them. You can change the options on your browser to tell you when you have received one, or to refuse to accept them altogether. Bell may also use alternative technologies to ensure the websites are working at an optimum level, and to present you with information that will be of the most interest to you. See [Bell’s online Website Terms of Use](http://www.bell.ca/Legal_residential_services/Web_site.tab) for additional information.
+
+* * *
+
+Why do we record customer calls? 
+
+Because we are committed to continually improving our customer service, some customer calls may be recorded and used for the ongoing training and development of our employees. Consistent with federal privacy legislation, customers are informed by a pre-recorded message that their call may be recorded for quality assurance purposes. After hearing this message, should you decide to continue with the call, your consent to record the call is implied. Otherwise, you may contact a customer service representative through our [contact us](https://web.archive.org/Contact-us) section or by visiting a retail store in your area.
+
+We may also record outbound calls placed to our customers for similar purposes.
+
+* * *
+
+How do we use data analytics? 
+
+Analytics simply means the analysis of information, often aggregated, to get statistical insights. The insights gained from analytics can be used in a variety of ways.
+
+Some examples of how we use analytics in our operations to improve the quality and reliability of our services include: combining selected usage data of large number of customers to optimize our current network, detect areas of congestion or possible problems. We can even use analytics to help us make decisions about where we need to expand our facilities to meet future demands, what new services to develop and what broadcasting content our viewers will enjoy. 
+
+We may use information that has been securely aggregated and de-identified for analytics. Any personal information is de-identified so that customers cannot be identified as individuals. We use the most up-to-date de-identification methods and regularly review these methods to ensure your privacy is protected. We may use that de-identified information to improve our operations, to provide social benefits (such as assisting municipalities with traffic planning) and to develop analytic marketing reports for our use and for the use of our partners. 
+
+* * *
+
+How do we respect children’s privacy online? 
+
+We will request permission from a parent or legal guardian before intentionally collecting, using or disclosing any personally identifiable information about a child (e.g., for participation in contests and promotions) on any of our commercial websites or online services directed to children under 13 years of age.
+
+For more information regarding marketing to children, please visit the [Canadian Marketing Association's Special Considerations in Marketing to Children guidelines](http://www.the-cma.org/?WCE=C=47|K=225849#11), part of the CMA’s Code of Ethics and Standards of Practice.
+
+For more information about protecting children online, bell.ca offers some [information about parental controls and safe surfing](https://web.archive.org/Internet/Security/How-can-I-protect-my-kids-on-the-Internet) in our Internet support pages.
+
+* * *
+
+How can you reduce unwanted calls or text messages? 
+
+**National Do Not Call List**
+
+“Telemarketing” is when someone tries to contact you by phone or fax to sell, promote or market you products or services.
+
+To limit the phone or fax telemarketing calls you receive you can register your phone, wireless or fax numbers on the National Do Not Call List (NDNCL).
+
+You can register:
+
+  * Online at [lnnte-dncl.gc.ca](http://www.lnnte-dncl.gc.ca/)
+  * By phone at 1-866-580-DNCL (1-866-580-3625)
+  * Via TTY device at 1-888-362-5889; or
+  * By faxing your number to 1-888-362-5329
+
+
+
+If you’re registering by phone, you must call from the number you’re registering on the NDNCL.
+
+Telemarketers can register and obtain subscriptions to the NDNCL at [Innte-dncl.gc.ca](https://www.lnnte-dncl.gc.ca/index-eng).
+
+**Bell’s Telemarketing activities**
+
+If you wish to be added to Bell’s Internal Do Not Call list, please contact a Bell Customer Service Representative at 310-BELL (2355). In keeping with the CRTC’s Telemarketing Rules, all Bell marketing lists are updated within 14 days.
+
+**Complain or Report Caller**
+
+You can submit complaints about improper telemarketing to a telephone number on the National Do Not Call List at the NDNCL’s website ([Innte-dncl.gc.ca](https://www.lnnte-dncl.gc.ca/index-eng)) or by calling: 1-866-580-DNCL(3625).
+
+Report scams and fraud calls to the Canadian Anti-Fraud Centre at [www.antifraudcentre-centreantifraude.ca](http://www.antifraudcentre-centreantifraude.ca/).
+
+For information on the Unsolicited Telemarketing Rules, please visit the Canadian Radio-television and Telecommunications Commission (CRTC) website at [www.crtc.gc.ca](http://www.crtc.gc.ca/).
+
+* * *
+
+How can you help protect yourself against fraud? 
+
+Every day, scam artists from around the world are finding new ways, and using the latest technology, to break into office networks or personal computers, or invent new phone or online scams in order to steal information and money from unsuspecting consumers.
+
+Because of the variety and sheer volume of these activities, it is virtually impossible to track every incident or find the source of every fake marketing operation. As a result, more and more consumers and businesses are becoming victims of fraud and losing millions every year.
+
+**Education is your best protection**
+
+We encourage you to find out more about phishing (email fraud), telemarketing scams and other types of activities that can make you vulnerable. Below, are some examples of what you should be looking out for, as well as some tips that will help you stay safe online and offline.
+
+**Telemarketing or prize scams**
+
+Look out for aggressive marketing tactics, pressure to “act now,” instructions to pay administrative fees for the delivery of a prize or product, etc. Aggressive marketing tactics are often used in order to “close the deal”, enabling the scam artist to quickly obtain your money and important information such as your banking information or credit card number.
+
+**Important tip:** Watch out for “suspiciously generous” offers and make sure you are dealing with a legitimate business when you make a purchase over the phone or the Internet. Very short offer-expiry dates are often a sign of a scam. Short expiries reduce the risk of the fraudster being traced by authorities.
+
+Some of our customers have had calls from fraudulent telemarketing “operators” claiming to be from one of our companies. For example, the operators may try to sell new service plans (which are phony) or they may tell you that they’re updating your account and want you to “confirm” details. Their goal is to trick you into releasing personal information like credit card numbers or social insurance numbers, which can then be used for further fraud. Another example is the use of a pre-recorded message promising customers travel rewards or a $100 credit on their next bill and directing customers to a fake site that “looks” like a legitimate site or a 1-800 number to try to trick customers into disclosing their personal information.
+
+If you get a suspicious call:
+
+  * Do not give out your personal information. Legitimate companies will never call or email their customers requesting information such as passwords, bank account information or a credit card number, unless they are responding directly to an inquiry you know you have made.
+  * If you suspect that you are speaking with a fraudulent telemarketer, you should end the call and contact the business or organization through its regular channels, for example, **1 866 310-BELL (2355)**.
+  * Beware of being directed to websites that “look” like the sites from legitimate organizations – it is always best to access the site of a legitimate organization from its direct homepage, e.g. bell.ca.
+
+
+
+**Email fraud or phishing**
+
+This refers to the use of deceptive emails and fake websites using the brand name of a legitimate business or government agency in order to obtain the personal information of web users for purposes of identity theft and other types of fraud. For more information, go to our Internet support site [link]
+
+**Identity theft**
+
+Scam artists are now using a wide range of tactics in order to steal your information online and offline. In addition to phishing, your personal information may be pulled from social networking sites, such as Facebook and Instagram, your computer, your mailbox and even your recycling bin.
+
+**Important tips:**
+
+  * Be cautious about posting personal information on public websites, such as social networking sites, as those details can be used by fraudsters to convince you that they represent Bell or other companies.
+  * Keep your passwords, bank account information and social insurance number confidential at all times, and check your bank and credit card statements frequently.
+  * Buy a shredder so you can destroy personal documents that you no longer need. You can be targeted for identity theft by fraud artists who find credit-card bills, etc., in your recycling.
+
+
+
+**Toll fraud**
+
+Scam artists use creative schemes to steal your money by accessing your voice mail system, your calling card information or your Web browser and making sure the additional long distance fees are charged to you. Our Fraud Control Centre continuously monitors its networks and works diligently to protect our customers and our employees.
+
+For more useful tips on how to protect yourself from toll fraud, [visit our phone fraud page](https://web.archive.org/Home_phone/Phone_line/How_to_protect_against_phone_fraud).
+
+Remember, it is your responsibility to remain vigilant and adopt the simple, but important safeguards that can protect you from toll fraud.
+
+**Some important tips:**
+
+The following are some important tips to help protect you from fraudulent activities:
+
+  * Be cautious with the information you provide over the phone and make sure no one is watching when keying in your calling card PIN or any other PIN.
+  * Watch out for free downloads over the Web. Some sites will try to draw you in with free offers and then download programs that may be directing your Web browser to telephone an Internet service provider overseas. You could be charged the additional long distance fees.
+  * Always check your monthly statements carefully and look out for unusual charges.
+  * Beware of suspiciously generous offers or prizes from any company.
+  * Look out for aggressive marketing tactics, pressure to “act now,” instructions to pay administrative fees for the delivery of a prize or product, etc.
+  * Very short offer-expiry dates are often a sign of a scam. Short expiries reduce the risk of the fraudster being traced by authorities.
+  * Buy a shredder so you can destroy personal documents that you no longer need. You can be targeted for identity theft by fraud artists who find credit-card bills, etc., in your recycling.
+  * Be cautious about posting personal information on public websites as those details can be used by fraudsters to convince you that they represent Bell or other companies.
+  * Learn about [“phishing”](https://web.archive.org/internet/security/how-do-i-use-email-safely?step=4) and Internet fraud and take steps to protect yourself.
+
+
+
+**Who to contact for more information or to report fraud**
+
+If you think you may have given personal information to a fraud operator posing as one of our representatives, please [call](https://web.archive.org/Content/General/Pages/ContactUs_Landing.xml) us immediately. Give us as much information as possible including the exact date and time of the call.
+
+Otherwise, if you suspect you’ve been a target of any type of phone or Internet fraud and would like to report a problem, contact the Canadian Anti-Fraud Call Centre (formerly Phonebusters) at **1 888 495-8501** or go to [www.antifraudcentre.ca](http://www.antifraudcentre.ca/).
+
+To find out more about fraud prevention, go to [www.competitionbureau.gc.ca/fraud](http://www.competitionbureau.gc.ca/fraud).
+
+* * *
+
+What does “our companies” mean? 
+
+When it comes to your preferences for privacy and marketing, “our companies” refers to the following companies and brands as they may exist over time:
+
+**Bell Aliant, Bell Canada, Bell ExpressVu LP (Bell TV), Bell Media, Bell Mobility, Bell MTS, Cablevision du Nord, DMTS, KMTS, NorthernTel, Ontera, Solo Mobile and Télébec.**
+
+* * *
+
+Can you decline Bell’s Privacy Policy? 
+
+Our Privacy Policy applies to all customers using our services and cannot be declined. If you have questions or concerns on the updated Privacy Policy, please see the contact information listed below. We’re always happy to talk to our customers. 
+
+* * *
+
+Additional questions or concerns about your privacy? 
+
+If you would like to view a copy of the previous version of our Privacy Policy, please [click here (PDF 78.18 KB)](https://web.archive.org/_web/guides/Common/Legal/bcfip\(en\).pdf)
+
+We'd be happy to discuss any questions or concerns you may still have about your privacy. To reach us, please visit our [contact us](http://support.bell.ca/Contact-us) section.
+
+If you still have unresolved privacy concerns, you can write to the Bell Privacy Ombudsman at:
+
+The Office of the Bell Privacy Ombudsman  
+160 Elgin St., 19th floor  
+Ottawa ON K2P 2C4   
+Or by email at [privacy@bell.ca](mailto:privacy@bell.ca)
+
+If the Bell Privacy Ombudsman does not resolve the issue to your satisfaction, you may contact the Privacy Commissioner of Canada.
+
+Office of the Privacy Commissioner of Canada  
+30 Victoria Street  
+Gatineau, Québec  
+K1A 1H3  
+Phone: 1 800 282-1376  
+[www.priv.gc.ca](http://www.priv.gc.ca/)
+
+* * *
