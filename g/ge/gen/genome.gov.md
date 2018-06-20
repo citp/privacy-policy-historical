@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710232518id_/https%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621014901id_/https%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Website Privacy Policy - National Human Genome Research Institute (NHGRI)
 
@@ -97,7 +97,7 @@ Top of page
 
 #### P3P Compliance
 
-NHGRI's public websites comply with P3P (Platform for Privacy Preferences Project) protocols. Our machine-readable P3P policy can be viewed at [http://www.genome.gov/w3c/p3p.xml](https://web.archive.org/w3c/p3p.xml). Questions about NHGRI privacy policies should be sent to the NHGRI webmaster at: [Questions and Feedback](https://web.archive.org/10005049/Questions-and-Feedback).
+NHGRI's public websites comply with P3P (Platform for Privacy Preferences Project) protocols. Our machine-readable P3P policy can be viewed at [http://www.genome.gov/w3c/p3p.xml](https://web.archive.org/w3c/p3p.xml). Questions about NHGRI privacy policies should be sent to the NHGRI webmaster at: [Questions and Feedback](https://web.archive.org/10005049/questions-and-feedback/).
 
 Top of page
 
@@ -123,7 +123,7 @@ Top of page
 
 #### 3rd Party Websites and Applications
 
-##### [Read our External Link Disclaimer](https://web.archive.org/27546927/External-Link-Disclaimer)
+##### [Read our External Link Disclaimer](https://web.archive.org/27546927/external-link-disclaimer/)
 
 Third-party websites and applications (TPWA) are Web-based technologies that are not exclusively operated or controlled by NHGRI, such as non-.gov hosted applications and those embedded on an NHGRI Web pages that could cause personally identifiable information (PII) to become available or accessible to NHGRI, regardless of whether NHGRI solicits or collects it.
 
@@ -175,7 +175,13 @@ As part of the [Open Government Directive](http://www.whitehouse.gov/open/docume
 > ##### Flickr
 > 
 > NHGRI uses Flickr to upload and share photos and images related to the NHGRI mission and culture. NHGRI is responsible for the uploaded images on it's Flickr page - [Genomegov](https://www.flickr.com/photos/genomegov/) - and must ensure that the images assigned for posting meet the NIH quality standards and comply with all NIH, HHS, and federal policies. Images posted are produced by NHGRI, and may include medical illustrations and other scientific images. Photos posted may also include pre-approved photos of NIH employees at events or in labs for the purpose of promoting the NHGRI mission and culture. You do not need to register with Flickr to view the images on NHGRI Flickr sites, because all images posted on the Flickr are visible in the public domain. However, if you choose to register, you will not provide PII directly to NHGRI. NHGRI has disabled the commenting feature on its Flickr site. Therefore, PII cannot be collected or unintentionally received by NHGRI employees via the Flickr site. Review the [Flickr Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html). 
+> 
+> ##### Reddit
+> 
+> NHGRI participates in the Ask Me Anything (AMA) series - a unique format that allows scientists to speak about their work in a manner that is not possible within the confines of traditional communication practices. In this format, questions can be explained individually and follow-up questions or comments may be fielded so that the community has a clearer understanding of the research being discussed. NHGRI uses this platform as a way to discuss our intramural research, Extramural Research Programs, new initiatives in funding, or general issues related to genomics research and genomic medicine. In effort to bring science education to the public, Reddit Science has created an independent, science-focused AMA Series. The goal is to encourage discussion and facilitate outreach while helping to bridge the gap between scientists and the general public. You do not need to register with Reddit to view the discussions because questions and answers are visible in the public domain. 
+> 
+> If you choose to register with Reddit, you will be asked to provide a username, a password and an email address. If you log on to the Reddit site before participating in any discussions videos, Reddit may associate information about your site use with your Reddit account. Any personal information you included when registering for your account might be visible to to other users. If you do not log in before participating in discussions, your site use will not be associated with you or a Reddit account. Review the [Reddit.com Privacy Policy](https://www.reddit.com/help/privacypolicy/).
 
 Top of page
 
-_Last Updated: September 2, 2016_
+_Last Updated: January 8, 2018_
