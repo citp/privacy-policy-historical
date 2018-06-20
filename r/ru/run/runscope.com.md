@@ -1,96 +1,185 @@
-> *The following text is extracted and transformed from the runscope.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807115958id_/https%3A//www.runscope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runscope.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620173131id_/https%3A//www.runscope.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy · Runscope API Testing & Monitoring
+# Privacy Statement - CA Technologies
 
-## Runscope Privacy Policy
+At CA, Inc. and our global subsidiaries (“CA,” “our,” “us,” or “we”), we care about your privacy and we are committed to protecting your information.
 
-Welcome to Runscope, the website and online service of Runscope Inc. (“Runscope,” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information. This policy covers all web sites and apps operated by including runscope.com, runscope.net and [Runscope-owned "Community Projects"](https://web.archive.org/docs/community-projects).
+This Privacy Statement governs personal information CA collects from customers, attendees and online visitors (“you” or “your”) in connection with your use of CA’s websites and CA’s products, applications and services (including support and education), and corporate meetings and other events (collectively, the “Services”) where we post or link to this Privacy Statement, as well as information we automatically collect from your online visits (e.g. data collected via cookies).
 
-### Contents
+For the purposes of this Privacy Statement, “personal information” means any information that, by itself, can identify you or can be combined with other information to identify you.
 
-  1. How We Collect and Use Information
-  2. Sharing of Your Information
-  3. How We Store and Protect Your Information
-  4. Your Choices about Your Information
-  5. Children’s Privacy
-  6. Links to Other Websites and Services
-  7. How to Contact Us
-  8. Changes to Our Privacy Policy
+Your continued use of the website and/or the Services indicates your acceptance of the terms and conditions of this Privacy Statement.
+
+Please see our Code of Conduct for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
+
+### **What personal information does CA collect about you?**
+
+**Information You Provide**
+
+We may ask you to provide personal information when you:
+
+  * Purchase products or services;
+  * Register for webcasts, seminars, conferences or other events sponsored by us or a partner;
+  * Request quotes, services, product support, trials, white papers and related downloads or additional information;
+  * Join CA Communities;
+  * Register for courses or education;
+  * Subscribe to newsletters, promotional emails or other CA materials;
+  * Participate in surveys, sweepstakes or contests;
+  * Apply for a job and submit your resume/CV; or
+  * Contact us.
 
 
 
-### 1\. HOW WE COLLECT AND USE INFORMATION
+Personal information we request may include your name, email address, home address, phone number and other contact details. If you purchase a product or service or register for courses, we may also ask you for your credit card number or billing information.
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms). 
+When we ask you to provide your personal information, we will advise you upon collection whether the provision of your personal information is mandatory. If we ask for personal information through one of our registration pages on our website, you will have the option of not providing the information, in which case you may still be able to access other portions of the website, although you may not be able to access certain programs or services.
 
-We collect the following types of information about you:
+**Information from Other Sources**
 
-Information you provide us directly: We ask for certain information such as your organization or company name, first and last name, and e-mail address when you register for a Runscope account, or if you correspond with us. We may also retain any messages you send through the Service, and may collect information you provide in User Content you post to the Service. We use this information to operate, maintain, and provide to you the features and functionality of the Service.
+We may also obtain information about you from other sources and combine that with information we collect through our Services. For example, we may aggregate your personal information with information that you make publicly available on social media or third-party websites to better market our Services to you.
 
-Analytics information: We may directly collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser, including the pages you visit and other information that assists us in improving the Service. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
+**Information Automatically Collected**
 
-Cookies information: When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Runscope help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+When you visit our websites, we may automatically collect information about your visit, including pages you access, links you click and actions you take in connection with CA’s Services. We may also collect certain information from your web browser, such as your device’s operating system, application software, browser type and language, Internet Service Provider, Internet Protocol (IP) address, access times and the websites you visited before and after our website(s). For more information on information that we automatically collect, please see the “How does CA use cookies and other tracking technologies?” section.
 
-Log file information: Log file information is automatically reported by your browser each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
+### **How does CA use your personal information?**
 
-Clear gifs/web beacons information: We may use clear images in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information is allows for more accurate reporting and improvement of the Service.
+We may use your personal information for legitimate business purposes, including to:
 
-Commercial and marketing communications: We use the information we collect or receive to communicate directly with you. We may send you emails containing newsletters, promotions and special offers. If you do not want to receive such email messages, you will be given the option to opt out or change your preferences. We also use your information to send you Service-related emails (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). You may not opt out of Service-related e-mails.
+  * Provide and deliver the Services you request;
+  * Send you transaction information, including confirmations and transaction status, product and services information, updates, security alerts and support and administrative messages;
+  * Administer your account, including verifying your information;
+  * Respond to your comments and questions and provide customer support or other services;
+  * Offer Live Chat assistance to facilitate;
+  * Operate and improve our websites, products and services;
+  * Process and deliver sweepstakes and contest entries and rewards;
+  * Ask you to take part in surveys used to measure our performance and improve our products, services and customer experience;
+  * Communicate with you about new promotions and upcoming events;
+  * Provide you with information about products and services offered by CA and our selected partners;
+  * Plan and host corporate events, online forums, communities and social networks;
+  * Link or combine with other information we get from third parties, to help understand your needs, and customize our offerings and market our Services based on your needs; and
+  * Perform other functions or serve other purposes, as disclosed to you at the point of collection, or as otherwise required or allowed under applicable law.
 
-Use of certain service type information we collect about you: We use or may use cookies, log file and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; and (f) help you efficiently access your information after you sign in.
 
-### 2\. SHARING OF YOUR INFORMATION
 
-We will not rent or sell your information to third parties outside Runscope and its group companies (including any parent, subsidiaries and affiliates) without your consent, except as noted below:
+**Legal Basis of Processing**
 
-Who we may share your information with: We may share your information with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to your information as is reasonably necessary to deliver the Service, and we will require that such third parties comply with this Privacy Policy.
+In order to collect, use and otherwise process your personal information, CA may rely on any of the following legal bases:
 
-Who you may choose to share your User Content with: Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. To change your privacy settings on the Service, please change your profile settings. Subject to your profile and privacy settings, any User Content that you make public is searchable by other Users and subject to use under our Runscope API. Any party that uses any Runscope API is subject to that API's Terms of Service which incorporates the terms of this Privacy Policy. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
+  * CA’s legitimate interest in providing its websites and making the Services available to you, provided our interest is not outweighed by the risk of harm to your rights and freedoms.
+  * Your consent, where CA has obtained your consent to process your personal information for certain activities. You may withdraw your consent at any time by contacting [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com). However, please note that your withdrawal of consent will not affect the lawfulness of any use of your personal information by CA based on your consent prior to withdrawal.
+  * To fulfill any contractual obligations, such as where you have purchased a product or service from CA. For example, we may require your contact details in order to deliver your order if you have purchased a product from us.
+  * For compliance with CA’s legal obligations where applicable laws require CA to process your personal information.
 
-What happens in the event of a change of control: We may buy or sell/divest/transfer the Runscope (including any shares in the Runscope), or any combination of its products, services, assets and/or businesses. Your information such as customer names and email addresses, User Content and other user information related to the Service may be among the items sold or otherwise transferred in these types of transactions. We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the Runscope.
 
-Instances where we are required to share your information: Runscope will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Service or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Runscope, our Users or others.
 
-Sharing certain service type information we collect about you: We may share certain service type information, including information obtained through tools such as cookies, log files and clear images (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) with our third-party business partners for the purposes described in the section above on “How We Collect and Use Information.” We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
+If you have any questions or would like more information regarding the legal basis on which we collect your personal information, please contact us at [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com).
 
-### 3\. HOW WE STORE AND PROTECT YOUR INFORMATION
+**Retention of Data**
 
-Storage and Processing: Your information collected through the Service may be stored and processed in the United States or any other country in which Runscope or its subsidiaries, affiliates or service providers maintain facilities. Runscope may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Runscope or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+CA may retain your personal information data as long as is necessary to fulfill the purposes for which it was collected and in accordance with CA’s record retention policy and applicable law. CA’s Support Policy may include additional terms related to the collection of personal information or confidential data provided as part of the provision of customer support.
 
-Keeping your information safe: Runscope cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Runscope, at all times. However, Runscope cannot ensure or warrant the security of any information you transmit to Runscope or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of third party sites and services that you add to the Runscope Service, such as social networks. Runscope is not responsible for the functionality or security measures of any third party.
+**Cross-Border Data Transfers**
 
-Compromise of information: In the event that any information under our control is compromised as a result of a breach of security, Runscope will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+CA may transfer your personal information to other CA entities located in many different countries around the world if required for the purposes described in this Privacy Statement. This may include the transfer of your personal information to countries outside your home country, including outside the European Economic Area (EEA), which may not have the same level of protection as your home country. For example, since CA is headquartered in the United States (US), CA entities in the EEA may need to send your personal information to our servers located in the US for legitimate business purposes. In order to provide adequate protection for the transfer of your personal information, we rely on various mechanisms, including our Privacy Shield certifications, Binding Corporate Rules, EU Standard Contractual Clauses and/or the need to process your personal information in order to provide the requested products or services, as the bases for transferring your personal information. Please [click here for more information on CA’s data transfer mechanisms](https://web.archive.org/us/legal/privacy/data-transfers.html).
 
-### 4\. YOUR CHOICES ABOUT YOUR INFORMATION
+### **How does CA share your personal information?**
 
-You control your account information and settings: You may update your account information and email-communication preferences at any time by logging into your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at help@runscope.com.
+We may share your personal information with third parties for the purposes described below.
 
-Opting out of collection of your information for Tracking: Please refer to your browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your device. Note that disabling cookies and/or other tracking tools prevents Runscope or its business partners from tracking your browser’s activities in relation to the Service. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at help@runscope.com.
+  * _**CA Subsidiaries.**_ We may share your personal information with our subsidiaries worldwide in order to improve our website and/or the Services and to manage our customer relationships.
+  * **_Third-Party Vendors/Service Providers._** We may rely on third-party vendors, consultants and other service providers to perform functions on our behalf and under our instructions in order to make our websites and the Services available to you. For example, we may engage third parties to provide customer support relating to our products or cloud storage services or assist CA in protecting its systems.
+  * **_Business Partners._** We may share your information with third parties with whom we do business, including in connection with your purchase of a CA product through a business partner or attendance at an event jointly hosted by CA and business partner. Depending on CA’s business model and its regional coverage, CA may not be able to provide the products or services directly to you. In those instances, CA may disclose information to its business partners for reselling, marketing and other business purposes related to your demonstrated interest in our products and services. We will only share your personal information with business partners who agree to abide by applicable laws and to protect your personal information and use it solely for the purposes specified by CA.
+  * **_Legal Obligations and Rights._** We may disclose your personal information: (i) in connection with the establishment, exercise or defense of legal claims; (ii) to comply with laws or to respond to lawful requests or legal process; (iii) for fraud or security monitoring purposes (e.g., to detect and prevent cyberattacks); (iv) to protect the rights of CA or its employees; or (v) as otherwise permitted by applicable law.
+  * **_Business Reorganization._** We may share your personal information in connection with a sale or business transaction (e.g., merger or acquisition).
 
-How long we keep your User Content: Following termination or deactivation of your User account, Runscope may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.
 
-### 5\. CHILDREN’S PRIVACY
 
-Runscope does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at help@runscope.com.
+CA may also use or share aggregate data (data from which personal information has been removed) for any purpose.
 
-### 6\. LINKS TO OTHER WEB SITES AND SERVICES
+Except as described above, CA will not disclose your personal information to third parties for their own marketing purposes without your consent.
 
-We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible and we do not control over any third-parties that you authorize to access your User Content. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service.
+**EU-US and Swiss-US Privacy Shield**
 
-### 7\. HOW TO CONTACT US
+CA participates in and has certified its compliance with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework and is committed to subjecting all personal information received from the European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework’s applicable Principles. To learn more about the Privacy Shield program and to view CA’s certification page, please visit <https://www.privacyshield.gov/>.
 
-If you have any questions about this Privacy Policy or the Service, please contact us at help@runscope.com.
+CA is responsible for the processing of personal information that it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. CA remains liable for onward transfers of personal information to third parties who process personal information on its behalf in a manner that is inconsistent with the Privacy Shield Principles, unless CA proves that it is not responsible for the event(s) giving rise to the damage.
 
-### 8\. CHANGES TO OUR PRIVACY POLICY
+CA commits to resolve complaints about our collection or use of personal information under the Privacy Shield Frameworks and we are subject to the regulatory and enforcement powers of the Federal Trade Commission with respect to Privacy Shield. CA may be required, in certain circumstances, to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Runscope may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page.
+If you have a complaint about CA’s use of your personal information under either Privacy Shield Framework, you should first contact CA at [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our US-based third party dispute resolution provider (free of charge) at [BBB EU Privacy Shield](https://www.bbb.org/EU-privacy-shield/), operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint from us or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint.
 
-* * *
+If neither CA nor the Council of Better Business Bureaus resolves your complaint, you may have the possibility to engage in binding arbitration through the Privacy Shield Panel.
 
-#### Changelog
+### **How does CA protect your personal information?**
 
-August 7th, 2014 - Updated to broaden reference to all Runscope-owned Community Projects.
+CA takes all reasonable steps to protect your information from loss, misuse, unauthorized access or disclosure, alteration or destruction, including through the use of encryption when collecting or transferring sensitive data such as credit card information.
 
-July 10th, 2013 - Added coverage for community sites operated by Runscope: apichangelog.com, apidigest.com, api-jobs.com.
+[Click here](https://web.archive.org/content/dam/ca/us/files/supportingpieces/ca-information-security-practices.pdf) to learn more about how CA secures information.
 
-May 22nd, 2013 - Initial version.
+### **What rights and choices do you have regarding your personal information?**
+
+**Email and Marketing**
+
+In most instances, CA gives you options with regard to the personal information you provide, including choices with respect to marketing materials. You may manage your receipt of marketing and non-transactional communications by: (i) clicking on the “unsubscribe” link located at the bottom of CA marketing emails; or (ii) checking certain boxes on our preference center which can also be found on certain forms we use to collect personal information.
+
+**Exercising your Rights**
+
+Subject to applicable law in your jurisdiction (e.g. laws in the European Economic Area, United Kingdom and Switzerland), you may have certain rights with respect to your personal information that we are processing. These rights may include the right to access your personal data, correct inaccurate personal data, object to the processing of your personal data based on CA’s legitimate interests (e.g., direct marketing purposes), restrict or delete personal data that you have previously provided to us or to receive an electronic copy of your personal data for purposes of transmitting it to another company. Where the processing of your data is based on your consent, you have the right to withdraw your consent to data processing activities at any time, without affecting the lawfulness of processing based on consent before its withdrawal. If you would like to exercise any of these rights, please contact [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com) with the words “Data Subject Rights Request” in the subject line.
+
+### **How does CA use cookies and other tracking technologies?**
+
+**Cookies**
+
+CA uses “cookies” on its websites to enable you to sign in to CA’s services and personalize your online experience. A “cookie” is a small data file stored on your hard drive. By using cookies, the information you previously provided can be retrieved on your next visit to our website(s) so that your use of the website is more efficient.
+
+Cookies are either session-based (which disappear after you close your browser) or persistent (which remain on your computer after you close your browser or turn off your computer). CA may use any of the following types of cookies:
+
+  * Required cookies are essential to core website functionality.
+  * Performance cookies collect information about website visits to improve performance, but do not collect personal information.
+  * Functional cookies track your preferences, such as your preferred language or display settings, and customize the website to you. Some of these cookies may be required cookies.
+  * Analytics cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our websites and our marketing campaigns.
+  * Advertising cookies may be set through our website(s) by our advertising partners. Data may be collected by these companies that enable them to deliver customized advertisements on other websites that are relevant to your interests.
+
+
+
+**Web Beacons**
+
+CA also uses web beacons alone or in conjunction with cookies to compile information about your usage of our websites and interaction with emails from us. A web beacon is an electronic image that can be used to recognize a cookie on your computer when you view a web page or email message. Web beacons may help CA measure the effectiveness of our websites and our advertising in various ways. For example, web beacons may count the number of individual who visit a particular web page after viewing an advertisement or identify the number of individuals who opened or acted upon a marketing email message.
+
+Our third-party ad services providers may also use aggregated information collected through web beacons and cookies about your visit to the website(s) in order to deliver advertising relevant to your interests and to better understand the usage of our websites and the other sites tracked by these third parties. This Privacy Statement does not apply to, and we are not responsible for, third-party cookies, and CA encourages you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other tracking technologies.
+
+**Managing Cookie Preferences**
+
+Many web browsers are set to accept cookies by default, and only you can manage your browser settings. To may see the list of CA and selected partner cookies on our website(s) and make choices about those cookies, please [visit our Cookie Consent Tool here](http://info.evidon.com/pub_info/6457?v=1&nt=1&nw=false). In addition, the Help portion of your web browser, which is most often found on your browser’s toolbar, typically tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Please not that if you choose to decline cookies, you may not be able to get the benefit of some of the features of this website or other websites that you visit.
+
+**Do Not Track**
+
+Certain browsers like Internet Explorer, Firefox and Safari offer a “Do Not Track” or “DNT” option that sends a signal to websites visited by the user about the user’s browser DNT preference setting. Because uniform standards for “Do Not Track” have not been established, CA does not process or respond to “Do Not Track” signals.
+
+**Social Media Accounts**
+
+Portions of our websites make chat rooms, forums, blogs, message boards and/or news groups available to you. Please remember that any information that is disclosed in these areas could be made public so exercise caution when deciding to disclose any personal information. Also, please note that use of these portions of our website may be subject to additional terms. Additional information about community and support sites can be found at our [Terms for User Sites](https://web.archive.org/us/legal/terms-for-user-sites.html) on ca.com.
+
+In addition, CA’s website(s) may include social media features, including the Facebook “Like” button. These features may collect your IP address and identify the web page you are visiting on CA’s website and may set a cookie to enable the feature to function properly. You may be given the option by that social media site to post information about your activities on CA’s website(s) to your profile page on that social media site. Your interactions with these features are governed by the privacy policy of the company that is providing them.
+
+**Third-Party Websites**
+
+CA’s websites may contain links to other third-party websites. This Privacy Statement does not apply to, and CA is not responsible for, the privacy practices or the content of such third-party websites, including business partner websites, and their use of personal information will be governed by their own privacy policies.
+
+### **How will you be notified about changes to this Privacy Statement?**
+
+CA may modify or update this Privacy Statement at any time without prior notice. If we make any changes to this Privacy Statement, we will change the “Last Updated” date at the beginning of this Privacy Statement. If we make material changes to this Privacy Statement that may impact individual rights, CA will make prominent note of such change on its website at least one month prior to the change taking place.
+
+### **Who should you contact with inquiries?**
+
+If you have any questions, concerns or comments about this Privacy Statement or our privacy practices, please contact CA via email at [privacyhelpline@ca.com](mailto:privacyhelpline@ca.com) with the words “PRIVACY STATEMENT” in the subject line.
+
+You may also reach out by regular mail to:
+
+CA Technologies  
+520 Madison Ave  
+New York, NY 10022  
+Attention: Chief Privacy Officer
+
+EU residents may also lodge a complaint with the data protection authority in the EU member state where they live, work or where an alleged infringement of applicable data protection law occurred.
