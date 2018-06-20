@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wedotechreviews.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114091934id_/http%3A//www.wedotechreviews.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedotechreviews.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620111617id_/http%3A//www.wedotechreviews.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosure - We Do Tech Reviews
 
-Last updated: Wednesday, April 5, 2017
+Last updated: Thursday, May 24, 2018
 
 ####  **Introduction**
 
@@ -30,6 +30,8 @@ Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcook
 
 Please be aware that restricting cookies may impact on the functionality of this website.
 
+This site uses cookies – small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping carts, and provide anonymized tracking data to third party applications like Google Analytics. As a rule, cookies will make your browsing experience better. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or taking a look at the About Cookies website which offers guidance for all modern browsers.
+
 #### **Measuring Our Visitors**
 
 We measure visitors to our website using Google Analytics. This records what pages you view within our site, how you arrived at our site and some basic information about your computer. All of that information is anonymous – so we don’t know who you are; just that somebody visited our site.
@@ -38,9 +40,13 @@ The information we collect from analytics helps us understand what parts of our 
 
 You can learn more about [Google Analytics](https://support.google.com/analytics/answer/6004245) or [opt out if you wish](https://tools.google.com/dlpage/gaoptout).
 
+You can opt out of Google Analytics by installing [Google’s opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
+
 #### **Collected Contact Information**
 
 We will not sell or share your personal information with third parties. We will use the information to respond to inquiries. From time to time, we may contact you about new content, products, services or events that are relevant to your interests.
+
+You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
 #### **Legal Disclaimer**
 
@@ -64,4 +70,4 @@ Third party ads are generated based on blog content, but do not always reflect t
 
 All the information on this website is published in good faith and for general information purpose only. www.wedotechreviews.com does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (www.wedotechreviews.com), is strictly at your own risk. www.wedotechreviews.com will not be liable for any losses and/or damages in connection with the use of our website.
 
-_Last updated on Feb. 16, 2017_
+_Last updated on May 24, 2018_
