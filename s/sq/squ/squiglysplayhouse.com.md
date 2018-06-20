@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squiglysplayhouse.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215045339id_/http%3A//www.squiglysplayhouse.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiglysplayhouse.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620033003id_/http%3A//www.squiglysplayhouse.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Squigly's Playhouse
 
@@ -16,29 +16,23 @@ This information is used to measure the number of visitors to the different sect
 
 If a visitor arrives as a result of clicking on one of our ads on another web site, that fact is recorded in order to gauge the effectiveness of our ads.
 
-  2. If you send us e-mail via the [Write to Squigly](https://web.archive.org/web/20171215045339id_/http%3A//www.squiglysplayhouse.com/WriteToSquigly/index.php) form we record the following information (all fields are optional):
+  2. If you send us e-mail via the [Write to Squigly](https://web.archive.org/web/20180620033003id_/http%3A//www.squiglysplayhouse.com/WriteToSquigly/index.php) page we make note of the following information (all fields are optional):
 
-> Your **first name** is only recorded to personalize any respone and is then discarded. You are never required to enter your last name.
+> Your **name** is only used to personalize any response and is then discarded. You are never required to provide your last name.
 > 
-> Your **e-mail address** is only used if you are explicitly requesting a response from us. It is used to provide the requested response and is then discarded.
-> 
-> Your **country** is noted for statistical purposes and to assist in troubleshooting.
+> Your **e-mail address** is only used if you are explicitly requesting a response from us. It is used to provide the requested response and is then discarded. 
 
-No information received via this form is retained after we have appropriately responded.
+Your message (in its entirety is deleted after we have appropriately responded.
 
-  3. Our [Quick Poll](https://web.archive.org/Poll/ "Cast your vote in Squigly's Quick Poll") places a cookie on the user's computer for 24 hours to prevent "ballot stuffing." There is no personally identifying information contained in the cookie.
+  3. Our [Quick Poll](https://web.archive.org/Poll/ "Cast your vote in Squigly's Quick Poll") feature places a cookie on the user's computer for 24 hours to prevent "ballot stuffing." There is no personally identifying information contained in the cookie. Our Rate this Game feature uses IP Address for the same reason. Your IP address is recorded along with your chosen rating and this data set is not used for any other purpose.
 
-  4. We have contracted with Burst! and Casale Media to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, Burst! and Casale may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser and these advertisers do not perform bahavioural advertising in relation to visits to Squigly's Playhouse. For more information about how the information is collected and used by these companies please see their privacy policies by clicking on the appropriate link below.
+  4. We have contracted with Playwire to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, Playwire may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser and these advertisers do not perform behavioral advertising in relation to visits to Squigly's Playhouse. For more information about how the information is collected and used by this company please see their privacy policy by clicking on the appropriate link below. You may also contact [Playwire](https://www.playwire.com/contact/) directly.
 
-> [Rhythm One](https://www.rhythmone.com/privacy-policy)  
->  [Playwire Media](http://www.playwire.com/privacy-policy/)  
->  [Casale Media](http://casalemedia.com/privacy.html)  
->  [Google Adsense](http://www.google.com/intl/en/policies/privacy/)
+> [Playwire Media](http://www.playwire.com/privacy-policy/)
 
-  5. Squigly also features games by Big Fish Games. These games have advanced features that may require registration to activate. Please read their [privacy policy](http://www.bigfishgames.com/company/privacy.html). 
+  5. Squigly's Playhouse uses Google Analytics to track web site usage information. The information collected includes IP Address, pages visited by time and duration, web browser information and other relevant information. This information is not personally identifying and is used only to help us make Squigly's Playhouse a more enjoyable experience. Google now has a [unified privacy policy](https://www.google.com/intl/en/policies/privacy/) that you can review. IP addresses collected are shortened by removing the final set of digits immediately upon receipt and prior to recording to disk. This makes it impossible for your precise location to be determined by reverse lookup.
 
-  6. Squigly's Playhouse uses Google Analytics to track web site usage information. The information collected inludes IP Address, pages visited by time and duration, web browser information and other relevant information. This information is not personally identying and is used only to help us make Squigly's Playhouse a more enjoyable experience. Google now has a [unified privacy policy](https://www.google.com/intl/en/policies/privacy/).
-
+  6. Squigly's Playhouse contains links to other sites. SquiglysPlayhouse.com is not responsible for the privacy practices or the content of such web sites. We encourage you to be aware when you leave our site and to read the privacy policies of each and every site you visit. This privacy policy applies only to the information collected on this site.
 
 
 
