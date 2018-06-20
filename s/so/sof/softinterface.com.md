@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the softinterface.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231085103id_/http%3A//www.softinterface.com/SII_PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softinterface.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620052103id_/http%3A//www.softinterface.com/SII_PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Softinterface Privacy Policy Explained in detail.
 
 We respect the privacy of our visitors. We are gravely concerned about practices which violate the basic rights of choice and confidentiality. 
 
 Here is our covenant with those readers who trust us with their personal information.
-
-**Effective Date: 8/4/2014**
 
 This privacy notice discloses the privacy practices for www.Softinterface.com. This privacy notice applies solely to information collected by this website, except where stated otherwise. It will notify you of the following:
 
@@ -33,13 +31,21 @@ NOTE:  This site does not collect financial information such as credit card numb
 #### Your Access to and Control Over Information   
 
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us at via the email address or phone number provided on our [website](https://web.archive.org/web/20171231085103id_/http%3A//www.softinterface.com/SII_AboutUs.htm):
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us at via the email address or phone number provided on our [website](https://web.archive.org/web/20180620052103id_/http%3A//www.softinterface.com/SII_AboutUs.htm):
 
   * See what data we have about you, if any
   * Change/correct any data we have about you
   * Have us delete any data we have about you
   * Express any concern you have about our use of your data
 
+  
+
+
+#### Policy for Minors
+
+We do not knowingly solicit information from or market to non-adults (under the age of 18). If you become aware of any data we have collected from children under age 18, please contact us using the contact information provided below.
+
+  
 
 
 #### Security 
@@ -54,6 +60,7 @@ Notification of Changes
 
 You may check this URL for policy changes going forward.
 
-If you feel for any reason that your information has been compromised. Please contact Softinterface, personally, at:
-
+If you feel for any reason that your information has been compromised. Please contact Softinterface, personally, at:  
 [Support at Softinterface.com](mailto:support@softinterface.com?subject=Softinterface)
+
+**Last Modified Date: 5/12/2018**
