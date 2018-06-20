@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the unlockboot.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402210230id_/http%3A//www.unlockboot.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockboot.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620183646id_/https%3A//www.unlockboot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### UnlockBoot.Com Privacy Statement
 
-Privacy of our visitors is very important to us at UnlockBoot.Com. We recognize that privacy of your personal information is important. Here's info on what forms of personal information we receive and collect when you use and visit UnlockBoot.Com.
+Privacy of our visitors is very important to us at UnlockBoot.Com. We recognize that privacy of your personal information is important. Here’s info on what forms of personal information we receive and collect when you use and visit UnlockBoot.Com.
 
 ### Email Addresses
 
@@ -16,7 +16,7 @@ As with many other web sites, we collect and use the info contained in our log f
 
 ### Cookies, Web Beacons, and Similar Technologies
 
-UnlockBoot.Com may use cookies, web beacons, or similar technologies to control users' site preferences and ensure the the site is functionality.
+UnlockBoot.Com may use cookies, web beacons, or similar technologies to control users’ site preferences and ensure the the site is functionality.
 
 ### Third Party Cookies
 
@@ -30,8 +30,6 @@ UnlockBoot.Com frequently links to other websites. We are not responsible for th
 
 ### Contact Information
 
-If you have any questions regarding our privacy policy, please [Contact Us](http://www.unlockboot.com/p/contact.html).
+If you have any questions regarding our privacy policy, please [Contact Us](https://www.unlockboot.com/contact/).
 
-_Privacy Policy Last Changes: Jan. 28, 2013_
-
-| February 01, 2017
+ _Privacy Policy Last Changes: Jan. 28, 2013_
