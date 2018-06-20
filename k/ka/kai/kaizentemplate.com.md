@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaizentemplate.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216022941id_/http%3A//kaizentemplate.com/p/blog-page_6732.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaizentemplate.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620180236id_/http%3A//kaizentemplate.com/p/blog-page_6732.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kaizentemplate - Rebuild Another Awesome Blogger Templates
 
