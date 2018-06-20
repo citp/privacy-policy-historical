@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126194854id_/http%3A//m.moshtix.com.au/v2/faq/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620042035id_/http%3A//www.moshtix.com.au/v2/faq/faq-privacy-policy) for the most accurate reproduction.*
 
 # FAQ | moshtix
 
@@ -107,6 +107,6 @@ Please contact our Privacy Officer to ask for access to your information or if y
 
 TTG Privacy Officer
 
-Email: [help@tixsupport.com](mailto:help@tixsupport.com)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#452d20293505312c3d363035352a37316b262a28)
 
 Contact Address: PO Box 1272, Darlinghurst, NSW, 1300.
