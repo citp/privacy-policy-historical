@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextbigfuture.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914082858id_/https%3A//www.nextbigfuture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextbigfuture.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620063853id_/https%3A//www.nextbigfuture.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NextBigFuture.com
 
@@ -63,7 +63,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Foster City, CA
 
 6505395607
-
-blwang@gmail.com
 
 This document was last updated on November 19, 2014
