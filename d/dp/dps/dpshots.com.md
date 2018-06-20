@@ -1,41 +1,55 @@
-> *The following text is extracted and transformed from the dpshots.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231001014id_/http%3A//dpshots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpshots.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620112914id_/http%3A//dpshots.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – real-top-things.com
 
-Your privacy is critically important to us. At DPShots ( http://dpshots.com ) we have a few fundamental principles:
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-We don’t store personal information on our servers unless required for the on-going operation of one of our services. Like we might store information of User Behavior on our site so that we can tweak the User Interface of our site accordingly.
+**Information Collection And Use**
 
-We aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, phone number (“Personal Information”).
 
-Below is our privacy policy which incorporates these goals:
+**Log Data**
 
-## Website Visitors
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-Like most website operators, DPShots ( http://dpshots.com ) collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. DPShots ( http://dpshots.com )’s purpose in collecting non-personally identifying information is to better understand how DPShots ( http://dpshots.com )’s visitors use its website. From time to time, DPShots ( http://dpshots.com ) may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+**Cookies**
 
-DPShots ( http://dpshots.com ) also collects potentially personally-identifying information like Internet Protocol (IP) addresses. DPShots ( http://dpshots.com ) does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-## Gathering of Personally-Identifying Information
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-Certain visitors to DPShots ( http://dpshots.com )’s websites choose to interact with DPShots ( http://dpshots.com ) in ways that require DPShots ( http://dpshots.com ) to gather personally-identifying information. The amount and type of information that DPShots ( http://dpshots.com ) gathers depends on the nature of the interaction. However, DPShots ( http://dpshots.com ) does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+**Service Providers**
 
-Aggregated Statistics
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-DPShots ( http://dpshots.com ) may collect statistics about the behavior of visitors to its websites. For instance, DPShots ( http://dpshots.com ) may monitor thethe User Behavior on DPShots ( http://dpshots.com ).com, like what visitors View, what they click on etc. DPShots ( http://dpshots.com ) may display this information publicly or provide it to others. However, DPShots ( http://dpshots.com ) does not disclose personally-identifying information other than as described below.
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-Protection of Certain Personally-Identifying Information
+**Security**
 
-DPShots ( http://dpshots.com ) discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on DPShots ( http://dpshots.com )’s behalf or to provide services available at DPShots ( http://dpshots.com )’s website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using DPShots ( http://dpshots.com )’s websites, you consent to the transfer of such information to them. DPShots ( http://dpshots.com ) will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, DPShots ( http://dpshots.com ) discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when DPShots ( http://dpshots.com ) believes in good faith that disclosure is reasonably necessary to protect the property or rights of DPShots ( http://dpshots.com ), third parties or the public at large. If you are a registered user of an DPShots ( http://dpshots.com ) website and have supplied your email address, DPShots ( http://dpshots.com ) may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with DPShots ( http://dpshots.com ) and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. DPShots ( http://dpshots.com ) takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-Cookies
+**Links To Other Sites**
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. DPShots ( http://dpshots.com ) uses cookies to help DPShots ( http://dpshots.com ) identify and track visitors, their usage of DPShots ( http://dpshots.com ) website, and their website access preferences. DPShots ( http://dpshots.com ) visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using DPShots ( http://dpshots.com )’s websites, with the drawback that certain features of DPShots ( http://dpshots.com )’s websites may not function properly without the aid of cookies. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-Privacy Policy Changes
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-Although most changes are likely to be minor, DPShots ( http://dpshots.com ) may change its Privacy Policy from time to time, and in DPShots ( http://dpshots.com )’s sole discretion. DPShots ( http://dpshots.com ) encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+**Children’s Privacy**
+
+Our Service does not address anyone under the age of 13 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
+
+**Changes To This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us.
