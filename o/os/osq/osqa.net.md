@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osqa.net privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205154303id_/http%3A//dzonesoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osqa.net privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620072121id_/http%3A//dzonesoftware.com/privacy) for the most accurate reproduction.*
 
 # DZoneSoftware.com Privacy Policy
 
@@ -77,7 +77,7 @@ DZone will offer you the opportunity to choose (opt-out) whether their personal 
 
 **Opt-Out**
 
-You may opt-out of receiving certain marketing communications from us, by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) In addition, all marketing e-mails from DZone will provide you with the opportunity to unsubscribe from future marketing mailings. Even if you opt out of such mailings, however, we reserve the right to send you e-mail and other communications to disclose maintenance and other service-related issues.
+You may opt-out of receiving certain marketing communications from us, by emailing us at info@dzonesoftware.com. In addition, all marketing e-mails from DZone will provide you with the opportunity to unsubscribe from future marketing mailings. Even if you opt out of such mailings, however, we reserve the right to send you e-mail and other communications to disclose maintenance and other service-related issues.
 
 For sensitive personal information, DZone will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a third party (other than a DZone Agent) or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
 
@@ -114,6 +114,6 @@ If you have any questions regarding this Privacy Policy, please email us or writ
 DZone, Inc.   
 150 Preston Executive, Suite 201   
 Cary, NC 27513 USA   
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+privacy@dzonesoftware.com
 
-Last Revised: October 2017
+Last Revised: May 2018
