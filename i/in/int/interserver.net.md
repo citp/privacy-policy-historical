@@ -1,33 +1,59 @@
-> *The following text is extracted and transformed from the interserver.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202042831id_/https%3A//www.interserver.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interserver.net privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621051645id_/https%3A//www.interserver.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Interserver Privacy Policy Details
 
 ## This is the web site of InterServer, Inc.
 
-### Our postal address is
+InterServer respects the privacy of clients and users visiting our website. Personal information is collected in order to provider services such as web hosting, technical support and for data analytics and website security. Our privacy policy below outlines the information collected, reasons for collections, and how the data is used and may be disclosed. Our privacy policy may be modified and should the policy be modified, a notice will be displaced on this privacy policy URL, our forums and prominently on our website including the client portal.
 
-110 Meadowlands Pkwy   
-Secaucus, NJ   
-We can be reached via e-mail at support@interserver.net  
-or you can reach us by telephone at 877-NJ-COLO-1  
+### InterServer can be reached at the following postal address: 
+
+InterServer, Inc.  
+110 Meadowlands Pkwy Secaucus  
+Secaucus, NJ 07094  
+U.S.A   
+Or by email at support@interserver.net or you can reach us by telephone at **877-NJ-COLO-1**
+
+### Information Collected
+
+When accessing InterServer owned websites the page URL, referral, IP address, timestamp, browser, and operating system is collected. This information is used for security, logging and website data analytics. By placing an order, additional personal information is provided by your consent such as an email address.
+
+### Use of Information
+
+InterServer stores information such as email addresses in order to contact clients about orders, billing and invoices, technical support, order history and services announcements. Payment information such as credit cards may be provided for recurring billing. InterServer collects only the minimum amount of data needed in order to fulfill an order. Personal information such as IP addresses and IP location may be used in addition to create a fraud profile of an account in order to determine if an order will be accepted. Information provided for technical support including email address, domain name and information provided within a technical support ticket will be shared with InterServer employees whom are working on the technical support case. Additionally a survey may be emailed at the completion of a technical support ticket. Use of technical support is additionally covered under the technical support Terms of Use that is available on the client portal when opening a support request.
+
+### Security of personal information
+
+All connections to InterServer's order system are encrypted through the use of SSL. The data sent between the end user and InterServer's ordering system are encrypted. However, even with such encryption it is possible for a third party such as your ISP to see what URL is being accessed. When a credit card is submitted, the credit card data is encrypted before being stored within an internal database. InterServer's client portal system is additionally protected by Imperva Incapsula, a cloud based firewall and security system.
+
+### Third party access
+
+**InterServer protects personal information of clients. Data may be disclosed under the following circumstances:**
+
+  * If required by law due to a subpoena or court order.
+  * Information will be made available to InterServer employees to carry out normal task such as requested technical support or billing.
+  * Domain name registrations through InterServer will share the personal information such as email, address and phone number in order to register a domain name.
+  * Trusted third parties that are required for normal business activities such as processing credit card payments or affiliates.
+  * Business transfers such as a sale or merger.
 
 
-For each visitor to our Web page, our Web server automatically recognizes computer hostname and ip address.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. 
+**Only the minimum information necessary is shared with the third party.**
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page. 
+### Use of cookies
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart. 
+InterServer uses cookies for tracking of sessions across our website. These cookies identify your session and store information that may be required to fulfill an order. Cookies are also used to track referral links which may be used to track third party pages that led to a successful order of services. InterServer also utilizes third parties in order to show re-targeted advertisements on third party websites.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number. 
+### International Transfers
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
+If you are visiting InterServer from outside the United States, please be aware that personal information is being sent to the United States where our servers are located. Personal information including collection, storage and use will be governed by this privacy policy.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number. 
+### Data retention
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. 
+Personal data is kept as long as there is a business need to keep the data. Personal information like payment history is kept for tax and accounting purposes. 
 
-Interserver, Inc complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Interserver, Inc has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Interserver's certification, please visit <http://www.export.gov/safeharbor/>
+### User Control of Personal Information
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>
+Personal information can be controlled through InterServer's account portal at [https://my.interserver.net ](https://my.interserver.net/) under the update contact information section. If you are unable to make changes please contact InterServer support by using the contact page.
+
+InterServer honors requests to remove personal data, including content information to the extent allowed by law to InterServer's own websites. Please be aware this privacy policy only governs InterServer owned website, and does not cover websites not owned by InterServer that may be with in InterServer's network.
