@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrdonn.org privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218092032id_/http%3A//www.mrdonn.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrdonn.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622005014id_/http%3A//www.mrdonn.org/privacypolicy.html) for the most accurate reproduction.*
 
 # MrDonn.org - Privacy Policy
 
@@ -11,6 +11,8 @@ Google, as a third party vendor, uses cookies to serve ads on our site.
   * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. These ads are provided by [Google](http://www.google.com/) via the [Google AdSense program.](http://www.google.com/adsense) mrdonn.org does not select the ads or control the content of ads provided by Google via the Google AdSense program.
 
   * Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our site and/or other sites on the Internet.
+
+  * This link explains how Google manages data in its ad products: [ https://www.google.com/policies/technologies/partner-sites/](https://www.google.com/policies/technologies/partner-sites/)
 
   * Users may opt out of the use of the [DoubleClick cookie](http://www.google.com/ads/preferences/html/opt-out.html) for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
 
