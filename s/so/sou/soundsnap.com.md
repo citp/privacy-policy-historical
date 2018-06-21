@@ -1,54 +1,178 @@
-> *The following text is extracted and transformed from the soundsnap.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623075243id_/https%3A//www.soundsnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundsnap.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621110154id_/https%3A//www.soundsnap.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Sounds
+# Soundsnap Privacy Policy
 
-The SoundSnap website is publicly available on the world wide web and may be accessed by anyone who is online. 
+OJOO Limited  
+Bouboulinas 11  
+Nicosia 1060, Cyprus  
+Hello@Soundsnap.com 
 
-All visitors may listen to and download audio files according to the provisions set forward in the Terms of Use, Licence and Copyright Infringement Notice and according to all the laws and regulations that may apply.
+**PLEASE NOTE THAT OUR PRIVACY PRACTICES MAY DIFFER IN CERTAIN JURISDICTIONS, AS SET FORTH IN THIS PRIVACY POLICY.
 
-SoundSnap does not collect any personal information (with the exception of IP Address) from visitors who are not registered. Nevertheless, all the activity information that may be recorded during the browsing, listening and downloading by the non-member visitors is used for the internal organization and uninterrupted function of the website.
+Effective Date: May 25th, 2018 
 
-To support the community and networking aspects of SoundSnap we encourage visitors to provide profile information, such as geographic location, occupation, etc and become SoundSnap members. This information is provided voluntarily at the sole discretion of each member and in addition, a member has the ability to decline to submit, modify or delete their profile information. If a member decides to submit personally identifiable information, SoundSnap will use this information to operate, maintain, and provide visitors the features and functionality of SoundSnap.  
-Depending on how you use the Site, your user name may be displayed throughout the Site and is therefore available to the public. All of your activities on the Site, including the audio samples you provide, will be identifiable to your user name. Therefore, if you associate your name with your user name, the people you have revealed your name to will be able to personally identify your soundsnap.com activities.  
-SoundSnap will not use visitors’ contact details or other personal information to send commercial or marketing messages without consent. Furthermore, SoundSnap does not share any personal information with third party companies for their commercial or marketing use without the visitor’s consent. Nevertheless, SoundSnap may use a visitor’s email address without further consent for non-marketing or administrative purposes.  
-SoundSnap uses submitted and collected information to improve the quality and design of the SoundSnap platform, to provide custom, personalized content and information, to monitor statistics and to track members’ audio submissions. In doing so, SoundSnap may share personal information with its business partners and affiliates for the purposes of processing this information.
+Thank you for visiting www.soundsnap.com! This privacy policy governs and explains Soundsnap’s privacy policies and practices on our Site (the “Privacy Policy”).
 
-SoundSnap is based in the European Union and is intended for and directed to visitors within the geographical boundaries of the European Union. Visitors accessing the website from other locations with laws or regulations governing personal data collection, use, and disclosure, that differ from the European Union laws, accept the transfer of their personal information to the European Union. 
+This Privacy Policy is incorporated into our Terms and Conditions by reference and is made a part thereof. All capitalized terms contained in our Privacy Policy that are not defined will have the meaning given them in our Terms and Conditions. As stated in our Terms and Conditions, we do not allow users under eighteen (18) years old. If you are under the age of eighteen (18), you are not authorized to use our Site, or our Services and Products.
 
-Children under the age of 13 are not permitted to use SoundSnap and no part of the website is directed to children under the age of 13. If at any point SoundSnap becomes aware that a child under 13 years of age has posted personal information on the website, it will be deleted from our records.
+In this privacy policy, SoundSnap may be defined as either: "SoundSnap", "We", "Us" or "Our” as the context may require. 
 
-SoundSnap makes every reasonable and consistent effort to protect and secure all visitors’ personal information and stores all information in limited access servers. SoundSnap uses technical safeguards to preserve the integrity and security of information. 
+If you are a United States resident and/or are accessing, viewing, and/or using our Site in the United States, the following privacy terms will apply. 
 
-In order to ensure maximum protection for recurring accounts, Soundsnap uses a state-of-the art tokenization system to manage payment information for recurring payments. This system uses a cryptographic key to store payment information but no credit card information is stored on the server.
+## COLLECTION OF INFORMATION & DATA FROM OUR USERS
 
-However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. No security system is impenetrable and risks of breach exist in any system.
+## Personal Information
 
-If SoundSnap becomes aware of a security systems breach, then all necessary steps to correct such a breach will be taken and SoundSnap may attempt to notify visitors electronically so that they can take appropriate protective steps.
+We may collect personally identifiable information that you provide to us through the Site. This is done via registration forms, surveys, applications, billing process, input questions, and other online fields, including, but not limited to, your name, email address(es), your mailing address, VAT number(s), telephone number(s), username(s), profile photos and images you upload, and/or other relevant personal information (collectively, the “Personal Information”). You may be required to provide us with Personal Information to complete your registration profile, view any of our Products and Services, and/or to access, download, and purchase our Products and Services through our Site. Some of your Personal Information submitted by you and collected by us may be stored and maintained by third-party data processors, including, but not limited to, Google.
 
-SoundSnap automatically receives and records information on our server logs from visitor’s browsers, including IP address, requested pages, sounds downloaded, number of clicks, time spent on pages, date and time, and other related information. 
+## User Data
 
-In order to uniquely identify visitors, SoundSnap collects information using both session cookies and persistent cookies. It is possible to remove these cookies or to adjust your browser to refuse all cookies or to indicate when a cookie is being sent, however, some features of SoundSnap may not function properly if the ability to accept cookies is disabled.
+We also collect and track certain information about you that may not constitute Personal Information. This includes, but may not be limited to: 
 
-We use all this information for the collective benefit of our visitors, service improvements, research, anonymous reporting, and to make the site more efficient and convenient.
+  * Collecting and tracking your session ID; 
+  * Your server domain names; 
+  * Date and time of your visit(s) to our Site; 
+  * The originating IP address(es); 
+  * Files viewed and downloaded by you; 
+  * Search engine(s) used by you to find our Site; 
+  * The type of operating system you use; 
+  * Various information and data on how you use our Site, such as the page(s) visited within our site, and the type of Web browser(s) for Users of our Site; 
+  * The language you use in your web browser(s); 
+  * Operating system(s) on your computer(s); 
+  * Your mobile device type and related technical information; 
+  * Your geo-location data; 
+  * The state or country from which you access our Site; 
+  * The Web pages visited (including the date and the time of a visit) immediately before and after visiting the Site using cookies; 
+  * The number of links you click within our Site; 
+  * The functions you use on our Site; 
+  * The specific Products and Services that you access on our Site; 
+  * The data you view, save on, or download from our Site; 
+  * Http headers; 
+  * Facebook Pixel-specific data (such as Pixel ID Facebook Cookie); 
+  * Optional values such as custom data events and conversion values; 
+  * And/or the number of times you view any advertisement(s) on our Site (the “User Data”).
 
-SoundSnap may also allow third-party advertising companies to serve or track ads on the website. Such companies use technology (e.g. cookies) to send the advertisements and links that appear directly on visitors’ browsers and may use information (not including name, address, email address or telephone number) in order to measure advertising effectiveness and to provide advertisements about goods and services that may be of interest to the visitors. SoundSnap does not provide any personally identifiable information to these third-party ad servers or ad networks without visitors’ consent. However advertisers may use information regarding the use of SoundSnap, such as the number of times an ad was viewed or clicked on.
 
-SoundSnap is not responsible for the privacy practices, policies or content of such other websites. SoundSnap does not have access to, or control of, cookies and/or other data collection tools that may be placed on any advertisement by a third-party, and this Privacy Policy does not cover the use of cookies and/or other data collection tools by any third party. 
 
-From time to time SoundSnap may ask for visitors’ participation in promotions, questionnaires or surveys that collect information for marketing, research or other purposes. In such cases SoundSnap will ask for visitors’ consent before the collection of any personal information outlining the uses that will be made. SoundSnap will not share any personal information collected for these purposes with third parties or companies without providing the ability for users to opt-in or opt-out. 
+We also may aggregate any such User Data, which is typically collected, analyzed and maintained in aggregated and de-identified formats.
 
-The SoundSnap website may also contain links to other websites, including partner websites. SoundSnap is not responsible for the privacy practices, policies or content of such other websites and has no control over the personal information that is submitted to third party websites.
+## Opting Out
 
-Any personal information or file that you voluntarily submit or upload to the website forum as a comment or other public access areas of the website becomes publicly available and can be collected and used by others. SoundSnap may collect and use such information (including email addresses) in order to respond or send relevant information but may not restrict others from doing so as well. 
+If you do not wish to provide any of the Personal Information described above, and/or if you prevent us from collecting and storing the User Data in accordance with this Privacy Policy, you may be unable to view, access, use and/or to obtain our Services and/or view and access our Site. You may choose to opt-out of certain provisions of this Privacy Policy by submitting a request in writing to Hello@Soundsnap.com. Specifically, you may opt out of providing your mailing address and unsubscribe to our mail and email marketing lists. Please note that this opt-out process may take some time to complete, consistent with applicable law. 
 
-SoundSnap may use and disclose any personal or non-personally identifiable information, acting in good faith, when SoundSnap is required to do so. Such disclosure may be done in circumstances that would potentially mitigate its liability, or is necessary for SoundSnap to enforce its rights. Examples of these kind of circumstances would include the prevention or report of fraud and illegal activities, the resolution of disputes between members and third parties, the prevention of harm to any person, the enforcement of the SoundSnap Terms of Use, the protection of rights and property of its users etc. 
+## HOW WE COLLECT INFORMATION
 
-Furthermore, in some circumstances, the authorities may compel the disclosure of information. SoundSnap will provide such information if required by the law when it is necessary to comply with the demands/requirements of the authorities or to respond to a court order, subpoena or search warrant. 
+To collect User Data, we use Google Analytics tracking on our Site. By accessing, viewing, and using our site, you agree to the Google Analytics Terms of Service.
 
-SoundSnap reserves the right to sell, transfer, assign or otherwise reorganize a part or the whole of the Website or/and its assets, in which case all informtion that is attached to the Website will be transferred or reassigned accordingly. In the eventuality of bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+Using Google Analytics, we will collect Personal Information and User Data (collectively, the “Information”) about you with "cookies", or other electronic tools or other similar authenticating or tracking technologies on your computer’s and/or devices’ hard drive to collect traffic and User use information.
 
-This Privacy Policy may be updated from time to time for any reason. SoundSnap will notify visitors of any material changes by posting the new Privacy Policy on the website. Revised licences will be effective from the date of revision which appears within the Privacy Policy.
+If you prefer, you can usually set your browser to disable cookies, or to alert you when cookies are being sent. The help function on most browsers and mobile devices contains instructions on how to set your browser to notify you before accepting cookies, disable cookies entirely, or disable the collection of geo-location data. You may, at your option, disable cookies through each of your individual browsers. However, if you disable cookies or refuse to accept a request to place a cookie, it is possible that some parts of our Site, the data, information, content, materials and/or our Products and Services contained on or accessed through our Site, will not function properly. You agree that we are not liable for any portion of the Site that does not operate properly after you take these actions. 
 
-Your use of the SoundSnap website constitutes your acceptance of the Terms of Use and the Privacy Policy, as they may be amended or revised by use.
+## Other 3rd Party Processors and Collected Information
 
-Effective Date: June 30, 2007 
+We also use various other third party processors in order to provide you with our Products and Services, enhance your user experience on our Site, create user accounts, enable login functionality, provide you updates and various promotions and offers, provide receipts for Products and Services ordered, and enable our Site to function smoothly. These third party processors may at various times have access to, and store, Personal Information and User Data. Our processors currently are the following (“Processors”): FutureHosting, SiteGround, JCC, BrainTree, PayPal, Algolia, Google, Facebook, MailChimp, ExitBee, LinkedIn, ZenDesk, Zapier, Nexcess, and SingleHop. By accessing and viewing our Site, providing your Information, and accessing our Products and Services, you agree to each of our Processor’s privacy policies. 
+
+## OUR USE OF COLLECTED INFORMATION
+
+Other than to the Processors listed above, we do not sell or distribute your Personal Information or User Data to third parties. However, we will use the Information collected for the reasons listed above, as well as for other internal reasons, including, but not limited to:
+
+  * (a) monitoring, researching, and analyzing traffic flow on our Site;
+  * (b) better service provision for Users of our Site;
+  * (c) compilation and aggregation of anonymous information about usage of our Site and the Services;
+  * (d) provide announcements about Site features, products, and updates, and/or
+  * (e) provide various product and service promotions. In addition, we will use your Personal Information to maintain contact with you.
+
+
+
+## DISCLOSURE OF PERSONAL INFORMATION
+
+We will only share your Information with our Processors, partners, subsidiaries, affiliates, and parent companies on an anonymous and aggregate basis where possible. However, we may also disclose your Information to unaffiliated third parties if we believe in good faith that such disclosure is necessary, including, to: (a) comply with the law or in response to a subpoena, court order, government request, and/or other legal process; (b) produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, and/or other legal or administrative proceedings; and/or (c) protect the interests, rights, safety, or property of our Users or others. 
+
+## SECURITY OF PERSONAL INFORMATION
+
+Any Personal Information you provide to us is kept on secure servers. We use commercially reasonable administrative, technical, personnel, and physical measures and efforts: (a) to safeguard Personal Information against loss, theft, unauthorized use, disclosure, or modification; and (b) to ensure the integrity of the Personal Information. To help us protect your privacy, you should maintain the secrecy of any login ID(s) and password(s) you may have set up in connection with your viewing and access of our Site, and the use of our Services.
+
+Despite our efforts to protect your Personal Information, the confidentiality of any communication or material transmitted to or from us via our Site, the Services, or via e-mail cannot be, and is not, guaranteed. Accordingly, you agree that we are not responsible for the security of information transmitted to or from you via the Internet.
+
+In addition, to protect your Personal Information, never share your password and/or Personal Information with anyone. If you feel that your password or Personal Information has been discovered or compromised, you should change it immediately by logging onto our Site and accessing your profile to change your password. 
+
+## ACCESS TO, AND ABILITY TO CORRECT, PERSONAL INFORMATION
+
+You may modify, correct, change or update your Personal Information by contacting us at Hello@Soundsnap.com. We will make commercially reasonable efforts to accommodate your request and typically process requests within thirty (30) calendar days from receipt of your request(s). However, we reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by law. 
+
+## STORING & DELETING YOUR INFORMATION
+
+We store certain Information for various periods of time. Various data can be deleted by you in your account settings or by sending us a written request to Hello@Soundsnap.com. As stated above, we typically remove this information within thirty (30) calendar days from receipt of your request.  
+For:
+
+  * (a) Your username, email address, and Session ID(s) – we store this until you request we delete this information;
+  * (b) Your mailing address, and VAT number(s) (where applicable) – we store this until you either manually delete such information from your account settings, or until you request we delete this information;
+  * (c) The last four (4) digits of your credit card and credit card expiration date – we store until you request we delete this information; and
+  * (d) Billing address, email address, and PayPal recurring token for PayPal transactions - we store this until you request we delete this information.
+
+
+
+## FINANCIAL DATA
+
+Please note that all financial data for carrying out various transactions is conducted currently through JCC, and thus such credit card and related data is collected, stored, and used according to JJC’s terms and conditions, and privacy policy. We also are using Braintree and your credit card and related data is collected, stored, and used according to Braintree’s terms and conditions, and privacy policy. By continuing to use our services, accessing our Site, and purchasing our Products and Services, you agree that
+
+  * (a) we can transfer your credit card information, 
+  * (b) purchase history, and 
+  * (c) related data from JCC to Braintree, as well as to other third party credit card processors of our choosing from time to time.
+
+
+
+## RIGHT TO CHANGE PRIVACY POLICY
+
+If you choose to visit and/or use our Site in the United States, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms and Conditions, including, but not limited to, limitations on damages, resolution of disputes through arbitration, and application of the laws of the State of New York. If you have any concern about privacy on our Site and/or the Products and Services available on or through our Site, please contact us with a thorough description, and we will try to resolve it.
+
+Our business changes and both this Privacy Policy and our Terms and Conditions may change accordingly. We reserve the right to change this Privacy Policy at any time. Please check our Site and this Policy frequently to see any changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. Your continued use of our Site and/or the Services available on or through our Site will be interpreted as your acceptance of any such changes and updates to this Privacy Policy. 
+
+## YOUR CALIFORNIA PRIVACY RIGHTS
+
+If you are a California resident, California Civil Code Section 1798.83 provides you with the right to request certain information regarding disclosure of your Personal Information to third parties for direct marketing purposes, including a description of the categories of Personal Information, be disclosed. In order to obtain such information, please email your request to Hello@Soundsnap.com. 
+
+If you are a resident in, or a national of, the EU and/or the UK, you confirm your acceptance of the Privacy Policy statements set out above but only insofar as they are not altered, changed or enhanced by the following provisions required by the EU General Data Protection Regulation. 
+
+## THE LAWFUL BASIS FOR PROCESSING YOUR PERSONAL DATA
+
+In processing or holding your personal data in connection with the purposes set out in this Privacy Policy, We may rely on one or more of the following legal reasons, depending on the circumstances, where:
+
+  * We have obtained your prior informed consent to the processing (this legal basis is only used in relation to processing that is entirely voluntary, i.e it is not used for processing that is necessary or obligatory in any way) of your personal data;
+  * The processing is necessary in connection with any contract that you may enter into with Us;
+  * The processing is required by the applicable law;
+  * The processing is necessary to protect the vital interests of any individual; or
+  * We have a legitimate interest in carrying out the processing for the purpose of managing, operating or promoting Our business, and that legitimate interest is not overridden by your interests, fundamental rights, or freedoms.
+
+
+
+## ACCURACY OF PERSONAL DATA
+
+We take all reasonable steps to ensure that: your personal data held or processed by Us is accurate and up to date; and than any of your personal data that is inaccurate is rectified or erased without delay.  
+We may from time to time ask to you confirm the accuracy of your personal data.  
+You may, at any time, ask Us correct any of your personal data that is incorrect. 
+
+## STORING AND PROTECTING YOUR PERSONAL DATA
+
+We will store your personal data for as long as you hold an account with Us. After you have closed your account with Us we will store and keep you personal data for a reasonable period to maintain Our records and Our legal obligations to you.  
+We have implemented appropriate technical and organisational security measures designed to protect your personal data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure, unauthorised access, and other unlawful or unauthorised forms of Processing, in accordance with applicable law. You are however responsible for ensuring that any personal data sent by you to Us is sent securely. 
+
+## TRANSFER OF YOUR PERSONAL DATA
+
+Due to the nature of Our business we may need to transfer your personal data to other jurisdictions and or countries. Where such a transfer occurs your personal data will be treated with reciprocal rights to those granted to you under the General Data Protection Regulation. 
+
+## CONSENT, OPT IN and OPT OUT
+
+If you are an existing customer or user of Our services and/or our website and you continue to use Our services, following notice by Us of this revised Privacy Policy, your informed consent as to the new requirements set out herein is implied. As such if you wish to withdraw your consent then you can simply “opt out” as set out above.  
+If you are new user of Our services and/or our website then you are required to opt in and give your informed consent to Our use of your personal data in accordance with the purposes of this Privacy Policy. 
+
+## RIGHT TO WITHDRAW YOUR CONSENT
+
+Where you have given your consent to the processing of any of your personal data, you have the right to withdraw your consent at anytime for any reason, provided always that your account with Us is closed. 
+
+## LANGUAGE AND TRANSLATIONS
+
+This Privacy Policy has been drafted in the English language and any translation hereof shall be deemed to be for information purposes only.  
+In the event of any dispute arising in relation to any non-English translation of this Privacy Policy, the English language version shall prevail. 
+
+## END OF PRIVACY POLICY
