@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redlion.net privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220230244id_/http%3A//www.redlion.net/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlion.net privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621150313id_/http%3A//www.redlion.net/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | Red Lion
 
@@ -158,8 +158,8 @@ To learn more about how Google’s data collection, its further processing and t
 **LinkedIn**  
 The Red Lion website uses Social Plug-ins from the social network linkedin.com operated by LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA.
 
-**Marketo**  
-The Red Lion website uses a marketing automation system provided by Marketo Inc., 901 Mariners Island Boulevard, Suite #500, San Mateo, CA 94404, USA.. For more information regarding Marketo’s specific cookies, please refer to the [Marketo Cookies Policy](http://legal.marketo.com/cookies/) and to [Marketo Privacy Policy](http://legal.marketo.com/privacy/).
+**Act-on**  
+The Red Lion website uses a marketing automation system provided by Act-on Software, Inc., 121 SW Morrison St.,Suite 1600, Portland, OR 97204. For more information regarding Act-on’s specific cookies, please refer to the [ Act-on Privacy Policy.](https://www.act-on.com/privacy-policy/)
 
 **Twitter**  
 The Red Lion website uses the Twitter service buttons which are operated by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. They can be identified by terminology such as "Twitter" or "sequence", combined with a stylized blue bird. For more information please refer to the Twitter data protection statement at <http://twitter.com/privacy>.
@@ -202,9 +202,9 @@ Shanghai, P.R. China 200233
 [asia@redlion.net](mailto:asia@redlion.net)  
   
 **Responsible for content:    
-​Mrs. Jennifer Bentzel** |   | **Responsible for content:  
-Mrs. Esther Scheen** |   | **Responsible for content:    
-​Mrs. Celine Zhang**  
+​Laetitia Donovan** |   | **Responsible for content:  
+Esther Scheen** |   | **Responsible for content:    
+Celine Zhang**  
   
 **Chief executive: Mr. Jack Lee and Mr. Mike Evelhoch**  
 Registration number: 32089022
