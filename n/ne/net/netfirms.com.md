@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netfirms.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218062318id_/https%3A//www.netfirms.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netfirms.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621195243id_/https%3A//www.netfirms.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Netfirms' Privacy Policy
 
@@ -45,6 +45,6 @@ To ensure you receive the information you need to manage your account and protec
 
 
 
-**This file was last modified on August 24, 2017.**
+**This file was last modified on May 22, 2018.**
 
  ****
