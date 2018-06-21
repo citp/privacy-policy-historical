@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyneel.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911055143id_/https%3A//www.skyneel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyneel.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621230647id_/https%3A//www.skyneel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,6 +43,6 @@ Skyneel has the discretion to update this privacy policy at any time without any
 
 If you have any query regarding our privacy policy then you can directly deal with us on our website [www.skyneel.com](https://www.skyneel.com/) or write us on admin@skyneel.com for any clarification.
 
-This document was last updated on April 12, 2016
+This document was last updated on March 10, 2018
 
-© 2012-2016 by skyneel.com. All rights reserved
+© 2012-2018 by skyneel.com. All rights reserved.
