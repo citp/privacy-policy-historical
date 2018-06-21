@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opusdei.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220162303id_/http%3A//www.opusdei.org/en-us/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opusdei.org privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621225005id_/http%3A//opusdei.org/en-us/legal/%23privacy) for the most accurate reproduction.*
 
 # Opus Dei - Privacy policy and cookies - legal notice
 
@@ -58,15 +58,15 @@ You can allow, block or delete cookies installed on your computer by configuring
 
 \- [Internet Explorer](http://windows.microsoft.com/es-es/windows-vista/block-or-allow-cookies)
 
-\- [Mozilla Firefox](http://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we)
+\- [Mozilla Firefox](https://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we)
 
-\- [Google Chrome](http://support.google.com/chrome/answer/95647?hl=es)
+\- [Google Chrome](https://support.google.com/chrome/answer/95647?hl=es)
 
-\- [Chrome para Android](http://support.google.com/chrome/answer/2392971?hl=es)
+\- [Chrome para Android](https://support.google.com/chrome/answer/2392971?hl=es)
 
-\- [Safari](http://support.apple.com/kb/ph5042)
+\- [Safari](https://support.apple.com/kb/ph5042)
 
-\- [Safari para IOS](http://support.apple.com/kb/ht1677?viewlocale=es_es&locale=es_es) (iPhone y iPad)
+\- [Safari para IOS](https://support.apple.com/kb/ht1677?viewlocale=es_es&locale=es_es) (iPhone y iPad)
 
 You can still use the website if you chose to reject the installation of cookies, but the use of some services may be limited and therefore your experience on our website may be less satisfactory.
 
