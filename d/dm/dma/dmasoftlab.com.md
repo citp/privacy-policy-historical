@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmasoftlab.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223080741id_/http%3A//dmasoftlab.com/cont/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmasoftlab.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621065648id_/http%3A//dmasoftlab.com/privacy) for the most accurate reproduction.*
 
 # Radius, Mikrotik, Cisco, ChilliSpot, StarOS, pfSense, DD-WRT, DOCSIS (WLAN, PPPoE, VPN, Hotspot, Dialup) ISP billing
 
@@ -16,22 +16,29 @@ This notice applies to all information collected or submitted on the **dmasoftla
   * Address 
   * Email address 
   * Phone number 
-  * Credit/Debit Card Information 
-  * (etc.)
+  * etc.
 
 
 
 The Way We Use Information
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+We use the **information** you provide about yourself when placing an order only to **complete that order**. We **do not share** this information with **outside parties** except to the extent necessary to complete that order. 
 
 We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+We use return email addresses to answer the email we receive. Such addresses are not shared with outside parties. 
 
-You can register with our website if you would like to receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+Your **email address** can be used to **receive updates** on our new products and services. These email **notifications can be disabled** in our portal.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+You can **request deletion** of your **personal data** any time.
+
+You have the right to **access your information** via a subject access request which will be provided within a month. If any data is inaccurate, we'll correct it. 
+
+We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+
+Cookies
+
+The website www.dmasoftlab.com doesn't use tracking cookies.
 
 Our Commitment To Data Security
 
