@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swimoutlet.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628002641id_/https%3A//www.swimoutlet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimoutlet.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621031059id_/https%3A//www.swimoutlet.com/privacy-policy) for the most accurate reproduction.*
 
 # Private Policy at SwimOutlet.com
 
@@ -81,7 +81,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/term-of-use) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+Please also visit our [Terms and Conditions](https://web.archive.org/terms-of-use) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
 
 **Your consent**
 
