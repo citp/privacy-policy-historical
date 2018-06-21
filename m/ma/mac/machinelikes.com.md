@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinelikes.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214153520id_/http%3A//www.machinelikes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinelikes.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621081537id_/http%3A//www.machinelikes.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Machine Likes
 
