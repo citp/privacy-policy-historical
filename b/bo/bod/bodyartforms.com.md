@@ -1,94 +1,109 @@
-> *The following text is extracted and transformed from the bodyartforms.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230225905id_/http%3A//www.bodyartforms.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyartforms.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621204957id_/http%3A//bodyartforms.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
-  * Bodyartforms commitment to online security
-  * Personal information that Bodyartforms may collect online
-  * Security
-  * Information Sharing
-  * Help us keep your personal information accurate
-  * Marketing
-  * Cookies and Other Tracking Technologies
-  * Contact Information
+Last modified May 20th, 2018  
+Effective May 21st, 2018
+
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from Bodyartforms.com.
+
+Protecting your private information is our priority. This Statement of Privacy applies to [www.bodyartforms.com](https://web.archive.org/web/20180621204957id_/http%3A//bodyartforms.com/www.bodyartforms.com) and Bodyartforms, LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Bodyartforms, LLC include [www.bodyartforms.com](https://web.archive.org/web/20180621204957id_/http%3A//bodyartforms.com/www.bodyartforms.com) and Bodyartforms. The Bodyartforms website is an ecommerce site. By using the Bodyartforms website, you consent to the data practices described in this statement.
+
+Bodyartforms does not sell, rent or lease its customer lists to third parties.
+
+In order to better provide you with products and services offered on our Site, Bodyartforms may collect personally identifiable information, such as your:
+
+  * First and Last Name
+  * Shipping & Billing Addresses
+  * E-mail Address
+  * Phone Number
 
 
 
-Effective on March 17, 2011 
+If you purchase Bodyartforms's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction and anything else related to the purchase order, like refunds etc. Billing and credit card information securely passes directly to Authorize.net. They are a leading provider of payment management services and are PCI compliant. If you choose to save credit card/billing information it is stored with them. Bodyartforms does not  store any credit card information. We can only view the last four numbers of credit cards after an order has been placed.
 
-This privacy statement describes how Bodyartforms collects and uses the personal information you provide on our Web site: www.bodyartforms.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+Here is a link to Authorize.net’s privacy policy:   
+<https://www.authorize.net/company/privacy/>
 
-We collect the following personal information from you 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Bodyartforms's user submitted product reviews or photos, this information may be collected and used by others. We do not disclose your email publicly.
 
-  * Contact Information such as name, email address, mailing address, phone number 
-  * Billing Information such as credit card number, and billing address 
-  * Unique Identifiers such as user name, account number, password Preferences 
-  * Information such as product wish lists, order history, marketing preferences
+We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services available on the Site. These may include: (a) registering for an account on our Site; (b) sending us an email message; (c) submitting product reviews or photos; (d) submitting your credit card or other payment information when ordering and purchasing products and services on our Site. We will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.
 
+Bodyartforms collects and uses your personal information to operate its website(s) and deliver the services you have requested. Bodyartforms may also use your personally identifiable information to inform you of other products or services available from Bodyartforms.
 
+Bodyartforms does not sell, rent or lease its customer lists to third parties.
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. 
+Bodyartforms may share data with trusted partners to help perform statistical analysis, send you emails, provide customer support, upgrade website features & security, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Bodyartforms, and they are required to maintain the confidentiality of your information.
 
-We use this information to:
+SHARING YOUR PERSONAL INFORMATION
 
-  * Fulfill your order
-  * Send you an order confirmatio
-  * Assess the needs of your business to determine suitable products
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
-  * Administer contests and sweepstakes you entered, and notify you if you won
-  * Respond to your questions and concerns
-  * Improve our Web site and marketing efforts
-  * Conduct research and analysis
-  * Display content based upon your interests
-  * List you in our publicly accessible member directory. If you do not want to be listed in our directory contact us through [this page](https://web.archive.org/web/20171230225905id_/http%3A//www.bodyartforms.com/contact.asp).
+We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example we use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  [https://www.google.com/intl/en/policies/privacy/.](https://www.google.com/intl/en/policies/privacy/) You can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout.>
+
+Bodyartforms may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Bodyartforms or the site; (b) protect and defend the rights or property of Bodyartforms; and/or (c) act under exigent circumstances to protect the personal safety of users of Bodyartforms, or the public.
+
+We use Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+
+For example we use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  [https://www.google.com/intl/en/policies/privacy/.](https://www.google.com/intl/en/policies/privacy/)   
 
 
+You can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout.>
 
-**Choice/Opt-Out**  
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us through [this page](https://web.archive.org/web/20171230225905id_/http%3A//www.bodyartforms.com/contact.asp). 
+Bodyartforms may keep track of the websites and pages our users visit within Bodyartforms, in order to determine what Bodyartforms services are the most popular. This data is used to deliver customized content and advertising within Bodyartforms to customers whose behavior indicates that they are interested in a particular subject area.
 
-We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information. 
+Information about your computer hardware and software may be automatically collected by Bodyartforms. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Bodyartforms website.
 
-**Information Obtained from Third Parties**  
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+The Bodyartforms website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us using [this page](https://web.archive.org/web/20171230225905id_/http%3A//www.bodyartforms.com/contact.asp). 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Bodyartforms pages, or register with Bodyartforms site or services, a cookie helps Bodyartforms to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Bodyartforms website, the information you previously provided can be retrieved, so you can easily use the Bodyartforms features that you customized.
 
-We provide two means for you to make a purchase on our site. You can either use our shopping cart or a third party payment option (such as PayPal, Amazon payments, or Google payments). If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information. 
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Bodyartforms services or websites you visit.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [this page](https://web.archive.org/web/20171230225905id_/http%3A//www.bodyartforms.com/contact.asp). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. 
+Bodyartforms secures your personal information from unauthorized access, use, or disclosure. Bodyartforms uses the following methods for this purpose:
 
-We may also disclose your personal information:
-
-  * as required by law such as to comply with a subpoena, or similar legal process 
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if Bodyartforms is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
+  * SSL Protocol
 
 
 
-**PayPal**  
-If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site. 
+When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
 
-If your personal information changes or you would like to review the personal information we may have on file, just login into your account at the top of the page and make the necessary changes. 
+We strive to take appropriate security measures to protect against unauthorized access to or alteration of your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) security, integrity, and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed. 
 
-We utilize Google products which highlight user preferences in order to tweak our advertising to make it more effective. For example, we use Google Remarketing to show relevant products to some users who have purchased similar products, and Similar Audiences to find new audiences who are similar to the audience of our website. We use Audience Analysis to see demographic information about the users on our site. This gives us general information, such as the approximate percentage of users who are between the ages of 18-24. It does not give us any specific user information, and only displays data for groups of tens of thousands of users in a very general way. 
+We believe that users should be treated equally no matter where they are, and so we are making the following options to control your data available to all users, regardless of their location.You can update certain information by accessing your profile via “Your Profile.” You can also unsubscribe from certain emails by clicking the “unsubscribe” link they contain. Individuals in the European Economic Area, Canada, Costa Rica and some other jurisdictions outside the United States have certain legal rights to obtain confirmation of whether we hold personal data about them, to access personal data we hold about them (including, in some cases, in portable form), and to obtain its correction, update, amendment or deletion in appropriate circumstances. 
 
-All of these programs are entirely voluntary. You can opt out of any of them, or all of them by adjusting your [Google Ads settings](http://www.google.com/settings/ads). 
+How can I access the personal data you have about me?
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+If you would like to submit a data access request, you can do so from the “Contact Us” page located at the bottom left side of the website.
 
-**Web beacons**  
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. 
+<http://www.bodyartforms.com/contact.asp>
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used. 
+How do I correct, update, amend, or delete the personal data you have about me?
 
-**Links to Other Web Sites**  
-Our Site includes links to other Web sites whose privacy practices may differ from those of Bodyartforms. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+In addition to the functionality available through “My Profile”, in which you can correct, update, amend, or delete certain personal data, you can also request other modifications from us directly. Please contact us through the “Contact Us” page with the words “Personal Data Request” in the subject or body of your message, along with an explanation of what data subject right you are seeking to exercise. For your protection, we may take steps to verify identity before responding to your request.
 
-If you have a complaint about Bodyartforms compliance with this privacy policy, you may contact us through [this page](https://web.archive.org/web/20171230225905id_/http%3A//www.bodyartforms.com/contact.asp). 
+How do I object or restrict the manner in which Bodyartforms processes my personal data?
+
+You have a right to ask us to stop using or limit our use of your personal data in certain circumstances. Individuals in the European Economic Area have the right to opt out of all of our processing of their personal data for direct marketing purposes. To exercise this right, please click the “unsubscribe” link in any of our marketing emails.The rights and options described above are subject to limitations and exceptions under applicable law. We encourage you to contact us, and we will do our very best to resolve any of your concerns.
+
+Bodyartforms does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+
+From time to time, Bodyartforms may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication. In order to improve our Services, we may receive a notification when you open an email from Bodyartforms or click on a link therein.
+
+If you would like to stop receiving marketing or promotional communications via email from Bodyartforms, you may opt out of such communications by hitting the unsuscribe button in the email, or by contacting us at <http://www.bodyartforms.com/contact.asp>.
+
+We may store your data on servers provided by third party hosting vendors with whom we have contracted.
+
+Bodyartforms reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our site, and/or by updating any privacy information on this page. Your continued use of the Site and/or Services available through this Site after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.
+
+Bodyartforms welcomes your questions or comments regarding this Statement of Privacy. If you believe that Bodyartforms has not adhered to this Statement, please contact us at:
+
+Bodyartforms, LLC  
+1966 S Austin Ave  
+Georgetown, Texas 78626 
+
+Contact us via e-mail here:  
+<http://www.bodyartforms.com/contact.asp>
+
+Telephone number:  
+877-223-5005
