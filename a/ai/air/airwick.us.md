@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airwick.us privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919040855id_/http%3A//legal.rb.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airwick.us privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621132713id_/http%3A//legal.rb.com/us/privacy-policy) for the most accurate reproduction.*
 
 # 
 
