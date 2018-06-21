@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gajitz.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004232511id_/http%3A//gajitz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gajitz.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621140612id_/https%3A//gajitz.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Gadgets, Science & Technology
 
@@ -26,11 +26,11 @@ Visitor information described above under "Information that we collect and how w
 
 ### Your choices and access
 
-We want to keep your name and email address accurate. You can correct or update your name or email address that you have provided us. You may contact us through our [contact form](http://gajitz.com/contact/) to request such change.
+We want to keep your name and email address accurate. You can correct or update your name or email address that you have provided us. You may contact us through our [contact form](https://gajitz.com/contact/) to request such change.
 
 The Site may allow you to choose to receive or stop receiving communications from us. You may opt out of email programs at any time by following the opt out instructions provided in the email you receive. Detailed unsubscribe instructions are found at the bottom of each email.
 
-You can prevent further use of your name or email address by contacting us through our [contact form](http://gajitz.com/contact/).
+You can prevent further use of your name or email address by contacting us through our [contact form](https://gajitz.com/contact/).
 
 ### Links to other Web sites
 
@@ -46,11 +46,11 @@ Web beacons are small bits of code embedded in Web pages or in emails. Web beaco
 
 ### Google Analytics
 
-The Site uses Google Analytics to help improve the Web site and to help understand how visitors interact with the Web site so that the site can be improved. The Site allows Google to use only anonymous data of the type described above. You can read the [privacy policy for Google Analytics](http://www.google.com/intl/en/analytics/privacyoverview.html). You can chose not to have your data collected by Google Analytics by downloading their [opt-out browser add-on](http://tools.google.com/dlpage/gaoptout?hl=en).
+The Site uses Google Analytics to help improve the Web site and to help understand how visitors interact with the Web site so that the site can be improved. The Site allows Google to use only anonymous data of the type described above. You can read the [privacy policy for Google Analytics](https://www.google.com/intl/en/analytics/privacyoverview.html). You can chose not to have your data collected by Google Analytics by downloading their [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout?hl=en).
 
 ### Third Party Advertising
 
-We allow third parties to display advertising on the Site. Some third parties may place a cookie on your computer to recognize your computer each time they send you an online advertisement. This enables them to understand where you or others who are using your computer saw their advertisement and deliver ads that they believe are of interest to you. We do not control these third parties' use of cookies. Some of these third parties are members of the Network Advertising Initiative (NAI), which has a website to opt out of their cookies at <http://www.networkadvertising.org/managing/opt_out.asp>
+We allow third parties to display advertising on the Site. Some third parties may place a cookie on your computer to recognize your computer each time they send you an online advertisement. This enables them to understand where you or others who are using your computer saw their advertisement and deliver ads that they believe are of interest to you. We do not control these third parties' use of cookies. Some of these third parties are members of the Network Advertising Initiative (NAI), which has a website to opt out of their cookies at [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 ### Security
 
@@ -58,11 +58,11 @@ We take reasonable steps to protect personal information from loss and misuse. P
 
 ### Children's privacy
 
-The Site is not intended for use by children under the age of 13. We will not knowingly collect personal information from them. If we discover that a child has provided us with personal information, we will use reasonable efforts to delete this information. If you have reason to believe we may have accidentally received personal information from a child under the age of 13, please immediately contact us through our [contact form](http://gajitz.com/contact/).
+The Site is not intended for use by children under the age of 13. We will not knowingly collect personal information from them. If we discover that a child has provided us with personal information, we will use reasonable efforts to delete this information. If you have reason to believe we may have accidentally received personal information from a child under the age of 13, please immediately contact us through our [contact form](https://gajitz.com/contact/).
 
 ### Contact us
 
-If you have any questions about this Privacy Policy or any questions or concerns regarding your privacy, please contact us through our [contact form](http://gajitz.com/contact/).
+If you have any questions about this Privacy Policy or any questions or concerns regarding your privacy, please contact us through our [contact form](https://gajitz.com/contact/).
 
 ### Changes to this Privacy Policy
 
