@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theabsolutesound.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121134707id_/http%3A//www.theabsolutesound.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theabsolutesound.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621194020id_/http%3A//www.theabsolutesound.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Absolute Sound
 
@@ -54,7 +54,7 @@ We may collect other information that cannot be readily used to identify you, su
 
 theabsolutesound.com uses “cookies” to store personal data on your computer. We may also link information stored on your computer in cookies with personal data about specific individuals stored on our servers. If you set up your Web browser (for example, Internet Explorer or Firefox) so that cookies are not allowed, you might not be able to use some or all of the features of our Web site(s).
 
-External data storage sites
+###  External data storage sites
 
 We may store your data on servers provided by third party hosting vendors with whom we have contracted.
 
