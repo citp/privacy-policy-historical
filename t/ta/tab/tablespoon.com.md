@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tablespoon.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221014611id_/http%3A//generalmills.com/company/privacy-policies/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tablespoon.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621135529id_/http%3A//generalmills.com/company/privacy-policies/privacy-policy-us) for the most accurate reproduction.*
 
 # General Mills: Privacy policy
 
