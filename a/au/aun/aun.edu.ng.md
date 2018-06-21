@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aun.edu.ng privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216123715id_/http%3A//www.aun.edu.ng/about/524-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aun.edu.ng privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621072850id_/http%3A//www.aun.edu.ng/about/524-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - American University of Nigeria
+# Privacy Policy
 
 **Information that is gathered from visitors**
 
