@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the ericasrecipes.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221064647id_/http%3A//ericasrecipes.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericasrecipes.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622011038id_/http%3A//ericasrecipes.com/articles/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Erica's Recipes
 
 [](http://ericasrecipes.com/wp-content/uploads/2017/02/privacy1.jpg)
 
 This privacy policy sets out how Erica’s Recipes uses and protects any information that you give while using www.ericasrecipes.com.
 
 Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
-
-  
-
 
 Erica’s Recipes may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 06 February 2017.
 
@@ -47,7 +44,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 **Advertising**
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is http://www.gourmetads.com. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
 **Links to other websites**
 
@@ -61,9 +58,5 @@ whenever you are asked to fill in a form on the website, look for the box that y
 if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-**Opt Out**
-
-For information about opting out of Gourmet Ads and ad serving partners please visit [HERE](http://www.gourmetads.com/about/privacy-policy).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
