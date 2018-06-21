@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ambient-mixer.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721212353id_/https%3A//www.ambient-mixer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambient-mixer.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621181554id_/https%3A//www.ambient-mixer.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -10,7 +10,7 @@ When visiting ambient-mixer.com, the IP address used to access the site will be 
 
 ## 2\. Google Adsense and the DoubleClick DART Cookie
 
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL: http://www.google.com/privacy_ads.html . Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies. Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, picture upload has no access or control over these cookies that may be used by third party advertisers. 
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following URL: https://www.google.com/privacy_ads.html . Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies. Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, picture upload has no access or control over these cookies that may be used by third party advertisers. 
 
 ## 3\. Links to third party Websites
 
@@ -30,4 +30,4 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ## 7\. Display advertising
 
-We may have implemented Google Analytics features based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. 
+We may have implemented Google Analytics features based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Using the [Ads Settings](https://adssettings.google.com/), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. 
