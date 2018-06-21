@@ -1,115 +1,142 @@
-> *The following text is extracted and transformed from the thefunnybeaver.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207055313id_/http%3A//thefunnybeaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefunnybeaver.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621175046id_/http%3A//thefunnybeaver.com/privacy-policy) for the most accurate reproduction.*
 
 # TheFunnyBeaver – Privacy Policy
 
-## Privacy Policy
+**CRITIC INC. PRIVACY POLICY**
 
-The Funny Beaver recognizes that its customers, visitors, users, and others who use www.TheFunnyBeaver.com or other web Website owned or operated by TheFunnyBeaver (the “TheFunnyBeaver Website”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the TheFunnyBeaver Website. TheFunnyBeaver provides this Privacy Notice to help you make an informed decision about whether to use or continue using the TheFunnyBeaver Website.
+The Critic Inc. Privacy Policy was last updated on May 15, 2018.
 
-This Privacy Notice is incorporated into and is subject to the TheFunnyBeaver Terms of Use. Your use of the TheFunnyBeaver Website and any personal information you provide on the TheFunnyBeaver Website remains subject to the terms of this Privacy Notice and our TheFunnyBeaver Terms of Use.
+We, Critic Inc. and our corporate affiliates (“Critic”, “ **we** ” or “ **us** “), are committed to protecting and respecting your privacy.  _We believe in transparency, and we are committed to being upfront about our privacy practices.  _This Privacy Policy (“ **Policy** “) explains which information we collect from you, when you (“you” or “your”, the user of our Services) access and use our websites (including www.critic.media) (the “ **Site** “), as well as our platforms, widgets, analytics tools, and other technical applications that we may provide either through our Sites or through third-party websites  or other products and services provided by us (which, together, are referred to as the “ **Services** “), will be processed by us, and how we use such information and protect it. The Policy also wishes to make sure that you are aware of the options available to you when you access and use our Services.
 
-Please note that any video, image, or other content posted at the direction of Users onto the TheFunnyBeaver Website becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
+This Policy is a part of our Terms of Use found on our website. By using the Services, you consent to our collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this policy. This includes any information you choose to provide that is deemed sensitive under applicable law. This Policy only applies to Critic’s Services. We are not responsible for the content or the privacy policies of any third-party websites or apps.
 
-The Information TheFunnyBeaver Collects  
-User Provided Information: You provide certain personally identifiable information (such as your name and email address) to TheFunnyBeaver when choosing to participate in various activities on the TheFunnyBeaver Website such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
+**Contact Details  **
 
-Cookies Information: When you visit the TheFunnyBeaver Website, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser. TheFunnyBeaver uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the TheFunnyBeaver Website may not function properly if the ability to accept cookies is disabled.
+If you have any questions or concerns about Critic’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us at:
 
-Log File Information: When you use the TheFunnyBeaver Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+Critic Inc.
 
-Clear GIFs Information: When you use the TheFunnyBeaver Website, we may employ “clear GIFs” (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
+Email address: contact@critic.media
 
-The Way TheFunnyBeaver Uses Information  
-If you submit personally identifiable information to us through the TheFunnyBeaver Website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the TheFunnyBeaver Website.
+**Export of Data**
 
-Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the TheFunnyBeaver Website and other Users can contact you through messages and comments. Any videos that you submit to the TheFunnyBeaver Website may be redistributed through the internet and other media channels, and may be viewed by the general public.  
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major TheFunnyBeaver Site changes or for customer service purposes).
+By using the Services, you authorize Critic to transfer and use your information in USA and any other country where Critic operates. Please be aware that the privacy laws and standards in certain countries may differ from those applying in the country in which you reside. We will take steps to ensure that your information continues to enjoy appropriate protections.
 
-We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the TheFunnyBeaver Website and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.  
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the TheFunnyBeaver Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+**_The information we collect from your use of the Services and how we obtain it_**
 
-When TheFunnyBeaver Discloses Information  
-We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+When you use or interact with our Services, we automatically collect certain information, such as: (a) anonymous encrypted code representing your Internet protocol (IP) address or your device identifier (if using a mobile device) and being used as a persistent identifier, your browser type and version, time zone setting, browser plug-in types and versions, operating system and version, device information; as well as (b) information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for, the frequency and scope of your use of the Services, page interaction information (such as scrolling, clicks, and mouse-overs), the content you viewed (including advertisements you clicked on) and pages you visited, and cookie data.
 
-We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.  
-We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the TheFunnyBeaver Website.
+As such, the information we collect cannot be used to specifically identify you. Our Services do not collect any personal information, i.e. information about a natural person such as name, address, email address, phone number, or other identifier that permits direct or indirect identification of a specific individual.
 
-We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
+_Tracking Methods._  When you engage with advertisements that are displayed on the Services, Critic, third party advertisers and data service providers may use industry-wide tracking methods (e.g., cookies, web beacons, etc.) which store certain information (“ **Methods** ”) and which allow us or such third parties to collect certain data for the purpose of serving advertisements through the use of the Critic Services (including without limitation, serving advertisements that may be of interest to you). The Methods may store non-personal information as well as a persistent identifier. In such case, you will be subject to such third party advertisers’ privacy policy.
 
-TheFunnyBeaver also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that TheFunnyBeaver believes, in good faith, is appropriate or necessary to enforce our TheFunnyBeaver Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of TheFunnyBeaver, our Users or others.
+_Information collected by Cookies and similar technologies_  – A cookie is a small text file that is stored on a user’s device for record keeping purposes. Cookies can only be read by the server that sent them, and they cannot read data from the hard drive. We or our service providers may use cookies, web beacons and similar technologies to collect and store certain information, such as your registration information, language preferences and other account settings. On our Services, we use cookies from the entities that adhere to the Self-Regulatory Principles for Online Advertising of the Digital Advertising Alliance and that are listed under <http://optout.aboutads.info/?c=2#!/>
 
-Your Choices  
-You may, of course, decline to submit personally identifiable information through the TheFunnyBeaver Website, in which case TheFunnyBeaver may not be able to provide certain services to you. Please note that media files uploaded by Users to the TheFunnyBeaver Website cannot be removed and remain subject to our TheFunnyBeaver Terms of Use.
+We may also use these technologies to recognize your browser type as you navigate on the Internet and to collect aggregate and statistic information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site, all attributed to the persistent identifier in a manner that does not permit direct or indirect identification of you as a specific individual. This allows us to better serve you with more tailored information and facilitate your ongoing access to and use of the Services.
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.  
-Please contact TheFunnyBeaver with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices  
-Third-party Advertisers, Links to Other Website
+Any data that we store in such cookies are encrypted for security purposes. We may allow our authorized service providers to access the information collected by cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
 
-TheFunnyBeaver allows other companies, called third-party ad servers or ad networks, to serve advertisements within the TheFunnyBeaver Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the TheFunnyBeaver Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+To learn more about cookies, please visit <http://www.allaboutcookies.org/>. You may delete or decline cookies by changing your browser settings. The “Help” function in the toolbar of most browsers should indicate how you can set your browser to notify you before accepting cookies or to disable cookies entirely. However, if you refuse to accept cookies, you won’t be able to access and take advantage of many features of our Services properly.
 
-TheFunnyBeaver does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks TheFunnyBeaver to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the TheFunnyBeaver Website, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+_Collaboration with Google and other Third-party Ad Networks_.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. TheFunnyBeaver’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web Website.
+We may collaborate with Google or other third party vendors or advertising networks as business partners. Google uses cookies to help serve the ads it displays on the websites of its partners, such as websites displaying Google ads or participating in Google certified ad networks. When users visit a Google partner’s website, a cookie may be dropped on that end user’s browser.
 
-Our Commitment To Data Security  
-TheFunnyBeaver uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to TheFunnyBeaver and you do so at your own risk. Once we receive your transmission of information, TheFunnyBeaver makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-
-If TheFunnyBeaver learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. TheFunnyBeaver may post a notice on the TheFunnyBeaver Website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us.
-
-Our Commitment To Childrens’ Privacy  
-Protecting the privacy of young children is especially important. For that reason, TheFunnyBeaver does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the TheFunnyBeaver Website from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the TheFunnyBeaver Website at any time or in any manner. If TheFunnyBeaver learns that personally identifiable information of persons under 13 years of age has been collected on the TheFunnyBeaver Website without verified parental consent, then TheFunnyBeaver will take the appropriate steps to delete this information.
-
-Special Note to International Users  
-The TheFunnyBeaver Website is hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the TheFunnyBeaver Website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the TheFunnyBeaver Website, which are governed by Cypriot Law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
-
-In the Event of Merger, Sale, or Bankruptcy  
-In the event that TheFunnyBeaver is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
-
-Changes and updates to this Privacy Notice  
-This Privacy Notice may be revised periodically and this will be reflected by the “effective date” below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the TheFunnyBeaver Website constitutes your agreement to this Privacy Notice and any future revisions.  
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
-
-  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
-  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website or other websites.
+  * Google’s use of advertising cookies enables it and its partners to serve ads to you based on you visit to our sites and/or other sites on the Internet.
+  * You may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). Alternatively, you can opt out of some third-party vendor’s use of cookies for interest-based advertising by visiting [info](http://www.aboutads.info/).
 
 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+Please be advised that the cookies of other [third-party vendors or ad networks](https://www.google.com/support/dfp_sb/bin/answer.py?answer=94149) may also be used to serve ads on our website, and therefore, please be informed as follows:
 
-TheFunnyBeaver.Com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com
+  *     * Third-party vendors and ad networks may serve ads on our site.
+    * The links to the vendor and ad network websites are as follows: <http://optout.aboutads.info/?c=2#!/>
 
-Many websites use Google technologies to improve their content and keep it free. When you visit a website that uses our advertising products (like AdSense), social products (like the +1 button), or analytics tools (Google Analytics), your web browser automatically sends certain information to Google. This includes, for example, the web address of the page that you’re visiting and your IP address. We may also set cookies on your browser or read cookies that are already there.
 
-Similarly, apps that partner with Google can send us information such as the name of the app and an identifier that helps us to determine which ads we’ve served to other apps on your device. If you are signed in to your Google Account, and depending on your Account settings, we may add that information to your Account, and treat it as personal information.
-
-## How we use the information sent by your browser
-
-When you visit websites or use apps that use Google technologies, we may use the information we receive from those websites and apps to, for example:
-
-  * Make ads more effective
-  * Provide reports of ads activity to advertisers and websites hosting the ads, and to ensure payment to those website publishers
-  * Help website and app owners using Google Analytics to understand how visitors engage with their sites or apps
-  * Improve your Google+ experience
-  * Detect and defend against fraud and other security risks to protect users and partners
-  * Meet our legal duties
-  * Improve our products
+  * _You may visit the foregoing websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can opt out of some third-party vendor’s use of cookies for interest-based advertising by visiting  _[ _info_](http://www.aboutads.info/) _._
 
 
 
-## How you can control the information sent to Google
+_Information collected by third parties_. We may allow third parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Unless expressly stated otherwise, our website does not provide personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. [Some of these third party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers end users a single location to opt out of ad targeting from member companies ([www.networkadvertising.org)](about:blank).
 
-For tips and advice on staying safe and managing your data online, visit the [Google Safety Center.](https://www.google.com/safetycenter/)
+**_How we use the information we collect and store_**
 
-Here are some of the ways you can control the information that is shared by your web browser when you visit or interact with Google services on partners’ sites across the web:
+We respect your privacy. As explained above, Critic does not collect any personal data or information that can identify you. We generally use the information that we collect and process to provide and improve our services and products, for targeted online and offline marketing, and for general research and aggregate reporting.
 
-  * [Ads Settings](https://www.google.com/ads/preferences/?hl=en) helps you control the ads by Google that you see across the web. You can learn how ads are selected for you, opt out of Ads Personalization, and block specific advertisers. Learn more about [advertising](https://www.google.com/policies/technologies/ads/).
-  * If you are signed in to your Google Account, and depending on your Account settings, you can see and edit some of the information we collect from the sites and apps you have visited.
-  * Many sites across the web use Google Analytics to understand how visitors engage with their sites or apps. If you don’t want Analytics to be used in your browser, you can [install the Google Analytics browser add-on](https://tools.google.com/dlpage/gaoptout). Learn more about [Google Analytics and privacy](https://support.google.com/analytics/answer/6004245?hl=en).
-  * Google makes it easy for you to make recommendations for your friends – for example, by clicking the +1 button on content you like. Some of your +1s may show your name and Google+ profile photo in ads, but you can [opt out](https://plus.google.com/settings/endorsements) if you don’t want to appear in ads. You can also visit the +1 tab on your Google+ profile to review and manage all of your +1’s. [Learn more](https://support.google.com/plus/answer/1047397?hl=en) about how to get to your +1 tab.
-  * [Incognito mode in Chrome](https://support.google.com/chrome/answer/95464?hl=en) allows you to browse the web without recording webpages and files in your browser history. Cookies are deleted after you’ve closed all of your incognito windows and tabs, and your bookmarks and settings are stored until you delete them. Learn more about [cookies.](https://www.google.com/policies/technologies/cookies/)
+We use information in the following ways:
+
+  1. **Information we collect.**
 
 
+  *     * We use the information to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes and as part of our efforts to keep our site safe and secure.
+    * The information helps us measure and research the effectiveness of the Services’ features and offerings, advertisements, and e-mail communications, and to improve them when necessary.
+    * We may also use it to make suggestions and recommendations to you and other users of our site about services that may interest you or them.
 
-Contact Information:  
-Please contact TheFunnyBeaver with any questions or comments about this Privacy Notice
+
+  1. **Information we receive from other sources.  **We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+  2. **Storage of Information**. In addition, please be aware that we may host or store your data and information (including personally identifiable information) in the United States and other countries through certain third parties that we use to operate and manage the Site and Services, including, inter alia, Amazon Web Services (“ **AWS** ”). By using the Site, you acknowledge and expressly consent to the transfer and processing of your personally identifiable information in this way. We may store your information also after your membership has been terminated. Such information may be used for any internal purpose, such as quality control efforts or customer analysis.
+  3. Respond and handle your questions and requests. – no storage of any contact information.
+
+
+
+**_DISCLOSURE OF YOUR INFORMATION_**
+
+We only share information with third parties in the following instances:
+
+  1. When we received your consent. This includes sharing information with other service providers.
+  2. With our affiliates. This relates to companies that are legally part of the same group of companies that we are part of, or that become part of that group.
+  3. Third-Party Service Providers. We may make use of third party service providers in the course of collecting, storing and/or processing information. We use commercially reasonable efforts to engage with third-party service providers that post a privacy policy governing their collection, processing and use of non-personal and personal information. Please note, however, that we do not control such third party service providers.
+  4. Non-Personally Identifiable Information. We may also share non-personally identifiable information that we collect under any of the above circumstances with our business partners, affiliates or other third parties to develop and deliver targeted advertising on our websites and on websites of third parties. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find interesting and to customize content and advertising.
+
+
+
+We may disclose information to third parties:
+
+  1. If Critic or substantially all of its assets are acquired by a third party.
+  2. We may disclose information (i) as a response to a legal request (such as a court order, search warrant, or subpoena) if we believe that we are required to do so by applicable law; or (ii) when we believe that such disclosure or use is necessary in order to: reveal, prevent and address fraud, intellectual property infringement, piracy, or other illegal activities; enforce this Policy or our Terms of Use, including in order to investigate potential breaches; protect our rights, property or safety, or those of our users or from members of the public from harm, as required or permitted by law; and prevent death or imminent bodily harm. In such events, Critic may disclose a name, address, country, phone number, email address and company name.
+  3. Critic is affiliated with a variety of businesses and works closely with them. These businesses may offer promotions (including e-mail promotions) or sell items or services to you through our Services. When an affiliated business is associated with your transaction, we may share information related to the transaction with that affiliated business to facilitate your transaction.
+
+
+
+**_DATA RETENTION_**
+
+We retain aggregated or anonymous data, which cannot identify an individual or device and is used for purposes of reporting and analysis, for as long as commercially necessary.
+
+**_HOW DO WE SECURE YOUR INFORMATION?_**
+
+We consider data security a top priority and we do our best to keep your information secure. For that purpose, we:
+
+  1. Encrypt many of our services [using SSL](http://support.google.com/websearch/bin/answer.py?answer=173733&en).
+  2. Employ firewalls and intrusion detection systems.
+  3. Practice administrative, technical, and physical security procedures to help protect the information you provide us.
+
+
+
+Please keep in mind that no method of transmission over the Internet, or method of electronic storage, is 100% secure. As a result, although we strive to protect your information, we cannot promise or guarantee that such information will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
+
+Please also be aware that we may use third-party cloud service providers that provide hosting, data storage and other services pursuant to their standard terms and conditions that are generally non-negotiable; and accordingly, although we seek to conduct reasonable due diligence on such service providers, we may be unable to impose contractual obligations on them with respect to the measures they use to protect Personal Information.
+
+If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contact Us” section below.
+
+**PROTECTION OF CHILDREN’S PRIVACY**
+
+Our Services are not directed to children under 18.
+
+**_CHANGES TO OUR PRIVACY POLICY_**
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy. Your continued use of our Services following the posting of changes to this Policy or providing notice to you, whichever occurs first, means that you accept those changes.
+
+**_GENERAL_**
+
+We reserve the right to discontinue or modify any aspect of the Services at any time. This Policy, together with our Terms of Use and any other legal notices published by us on the Site and in the Platform, shall constitute the entire agreement between us concerning the Services. If any provision of this Policy is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Policy, which shall remain in full force and effect, provided, however, that in such event this Policy shall be interpreted so as to give effect, to the greatest extent consistent with, and permitted by, applicable law, to the meaning and intention of the excluded provision as determined by such court of competent jurisdiction.
+
+**_GOVERNING LAW AND JURISDICTION_**
+
+This Policy shall be governed by the laws of California, without respect to its conflict of laws principles. We each agree to submit to the personal and exclusive jurisdiction of the federal and state courts located in California, and waive any jurisdictional, venue, or inconvenient forum objections to such courts.
+
+Our Services are controlled and operated from California, and we make no representations that they are appropriate or available for use in other locations.
+
+**NOTE TO INTERNATIONAL USERS**
+
+We are a private company incorporated under the laws of Israel. If you are located elsewhere, the information you provide to us or that we collect will be transferred to the USA and governed by applicable laws and regulations and this Privacy Policy. Some of this information may be transferred to, processed and stored by our service providers in other countries.
