@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyerca.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220174518id_/http%3A//www.flyerca.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyerca.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621040910id_/http%3A//www.flyerca.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
