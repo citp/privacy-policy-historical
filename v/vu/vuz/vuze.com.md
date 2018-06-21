@@ -1,120 +1,94 @@
-> *The following text is extracted and transformed from the vuze.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215025400id_/http%3A//www.vuze.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuze.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621160133id_/http%3A//www.vuze.com/corp/privacy) for the most accurate reproduction.*
 
 # Vuze - Privacy
 
-## Vuze Platform Privacy Notice
+## VUZE PRIVACY POLICY
 
-Welcome to the Azureus Software, Inc. ("Vuze") applications, platform, web site (www.vuze.com), and any other web sites, applications, or services operated or produced by Vuze (collectively, the "Vuze Platform"). Vuze values the privacy of the users, subscribers, publishers, members, and others who visit and use the Vuze Platform (collectively or individually, "You" or "Users").
+**Updated as of May 9, 2018**
 
-By using the Vuze Platform, you expressly consent to the information handling practices described in this notice.
+Azureus Software, Inc ("Vuze" "we" or "us"), a Nevada company, has established this Privacy Policy to explain how we may collect, retain, process, share and transfer your Personal Data when you use our Software, and our Services, and to allow you to make an informed decision about how you will use our Services.
 
-This Privacy Notice is incorporated into and is subject to the Vuze Platform Terms of Service. Your use of the Vuze Platform and any personal information you provide through the Vuze Platform are subject at all time to this Privacy Notice and the Terms of Service.
+Our "Services" include the Software on this website, the services provided thereon, and all related services, applications, components, programs, software, listings, directories, tools, updates, databases and information made available and utilized. References to "you" or "user" in this Agreement means you, your duly authorized representatives and any entity you may represent in connection with your use of the Services. 
 
-  
+This Privacy Policy addresses only our practices with respect to information we collect in the course of using our Services and does not apply to information about you that might be collected by a third-party website or an offering linked to or otherwise accessible from our Services. Any information collected, obtained and/or used by any such third parties is subject to the privacy policies of those third parties. We encourage you to review the policies of such third parties. 
 
+### I. What Information Do We Collect? 
 
-### TABLE OF CONTENTS
+Vuze may collect information about you when you visit our Sites or use our Services, including the following: 
 
-  1. [The Information Vuze Collects](https://web.archive.org/web/20171215025400id_/http%3A//www.vuze.com/corp/privacy.php#1)
-  2. [The Way Vuze Uses Information](https://web.archive.org/web/20171215025400id_/http%3A//www.vuze.com/corp/privacy.php#2)
-  3. [(Additional)Information About Cookies, Web Beacons, Pixels](https://web.archive.org/web/20171215025400id_/http%3A//www.vuze.com/corp/privacy.php#3)
-  4. [When Vuze Discloses Information](https://web.archive.org/web/20171215025400id_/http%3A//www.vuze.com/corp/privacy.php#4)
-  5. [Your Choices](https://web.archive.org/web/20171215025400id_/http%3A//www.vuze.com/corp/privacy.php#5)
-  6. [Data Security](https://web.archive.org/web/20171215025400id_/http%3A//www.vuze.com/corp/privacy.php#6)
-  7. [Children's Privacy](https://web.archive.org/web/20171215025400id_/http%3A//www.vuze.com/corp/privacy.php#7)
-  8. [International Visitors](https://web.archive.org/web/20171215025400id_/http%3A//www.vuze.com/corp/privacy.php#8)
-  9. [In the Event of Merger or Sale](https://web.archive.org/web/20171215025400id_/http%3A//www.vuze.com/corp/privacy.php#9)
-  10. [Changes and Updates to this Privacy Notice](https://web.archive.org/web/20171215025400id_/http%3A//www.vuze.com/corp/privacy.php#10)
-  11. [Effective Date, Date Last Modified](https://web.archive.org/web/20171215025400id_/http%3A//www.vuze.com/corp/privacy.php#11)
-  12. [Vuze Contact Information](https://web.archive.org/web/20171215025400id_/http%3A//www.vuze.com/corp/privacy.php#12)
-
-  
-
-
-### 1\. The Information Vuze Collects:
-
-User-provided Information: You may provide to Vuze what is generally called "personally identifiable" information (such as your name, email address, postal mailing address, home/mobile telephone number, credit card number and billing information) if you upload, purchase, or download certain content or products from the Vuze Platform, enter contests or sweepstakes, or otherwise use the features and functionality of the Vuze Platform.
-
-"Cookies" Information: When you access the Vuze Platform, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. Vuze may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Vuze Platform. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings.
-
-"Automatically Collected" Information: When you access the Vuze Platform or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This "automatically collected" information may include Internet Protocol address ("IP Address"), a unique device or user ID, version of software installed, system type, the content and pages that you access on the Vuze Platform, and the dates and times that you visit the Vuze Platform.
-
-### 2\. The Way Vuze Uses Information:
-
-Vuze uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Vuze Platform as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.
-
-We will use your email address, without further consent, for administrative communications such as notifying you of major Vuze Platform updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from the Vuze Platform.
-
-Vuze uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Vuze Platform works and looks, and to create new features and functionality.
-
-Vuze may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the Vuze application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Vuze Platform; (c) monitor aggregate site usage metrics such as total number of visitors and pages accessed; and (d) track your entries, submissions, and status in any promotions or other activities.
-
-### 3\. (Additional)Information About Cookies, Web Beacons, Pixels:
-
-Like most sites, We, our analytics providers, and/or our content and ad providers may set or access cookies, web beacons & pixels on your computer (including "mobile" device). We may use such, including those for Google Analytics, to obtain information about your visits to &/or uses of our sites (sometimes referred to as a Platform, and including re-direct sites) and our offerings (including offer windows or pages that may open, including when you choose to start a download &/or installation process, and which may include interstitials or offers for Programs, services, &/or products not mentioned when you choose to learn more about or initiate a download of an offer, Program, product, or service), and other sites. We consider the interstitials/offer windows to be a page that is part of our site or Platform and covered by this Privacy Policy, unless indicated otherwise in connection with an interstitial/offer. Cookies, beacons & pixels help us, Google, partners, and ad networks understand how our visitors (you) engage with our or their properties, sites, pages, or Platforms, and other sites. They may collect information and report usage data without personally identifying you to Google, such as how often you visit this site (and other sites) and open or proceed with offers, what pages you visit when you do so, and what other sites you visited or used prior to and after coming to this and other sites (including offer windows/pages). We use the information we get from Google Analytics and our cookies, beacons & pixels to improve our sites, Platforms, offerings, and attempt to serve you more relevant ads. Although Google Analytics or we may place a cookie on your web browser or device to identify you as a unique user the next time you visit this site, or our other sites, or Platforms, the Google Analytics cookie cannot be used directly by anyone but Google, which allows us to access analytical information regarding our sites or Platforms. Google Analytics has its own [Privacy Policy](http://www.google.com/policies/privacy/) and [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/). You can stop cookies by disabling or removing them, however, this might log you out of websites or change website behavior. As is the case with most websites, simply visiting the website may be your consent to the automatic placing of cookies, pixels, and/or web beacons on your device, which you may clear by clearing your browser of cookies, history, etc. (Please consult the guide for your browser on how to do this.) You may read [here](http://www.google.com/policies/privacy/partners/) how Google uses data when you visit or use our or partners' sites (including offer windows or pages) and apps,. More information about what may be collected, used, and stored by Us or Google may be found elsewhere within this Privacy Policy (or Privacy Statement) as well as on Google's sites (including [here](https://www.google.com/intl/en/policies/technologies/types/) & [here](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage#gajs)). Google Analytics can also be used, together with some of the advertising cookies (which may be described elsewhere), to help show more relevant ads on Google properties (like Google Search) and across the web. 
-
-### 4\. When Vuze Discloses Information:
-
-Vuze does not share your personally identifiable information with other organizations for their marketing or promotional uses without your express consent. Please be aware, however, that any personally identifiable information that you voluntarily choose to display on the Vuze Platform - such as when you publish video credits or profile information - becomes publicly available and may be collected and used by others without restriction.
-
-We may disclose User information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; and assist Vuze in improving the Vuze Platform and creating new services features. We require that these parties process such information in compliance with this Privacy Notice, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.
-
-Vuze may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant. In some cases, we may make such disclosures without providing notice to Users.
-
-Vuze also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect Vuze from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Vuze Platform; or to protect the rights, property, or personal safety of Vuze, our Users, or others.
-
-### 5\. Your Choices:
-
-You may, of course, decline to share your personally-identifiable information with Vuze, in which case Vuze will not be able to provide to you some of the features and functionality found on the Vuze Platform. You may update, correct, or delete your user information and preferences at any time by following the directions here.
-
-To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.
-
-### 6\. Our Commitment to Data Security:
-
-Vuze uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Vuze, and you do so at your own risk. Once we receive your transmission of information, Vuze makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-
-If Vuze learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Vuze may post a notice on the Vuze Platform if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us [through our online web form](https://web.archive.org/corp/inquiry) or by mail.
-
-### 7\. Our Commitment to Children's Privacy:
-
-If you are under 18 years of age, then please do not use or access the Vuze Platform at any time or in any manner.
-
-Protecting the privacy of young children is especially important. For that reason, Vuze does not knowingly collect or maintain personally identifiable information from persons under 18 years-of-age. If Vuze learns that personally-identifiable information of persons less than 18-years-of-age has been collected on or through the Vuze Platform, then Vuze will take the appropriate steps to delete this information.
-
-If you are the parent or legal guardian of a child under 18 who has become Vuze Platform member, then please contact Vuze [through our online web form](https://web.archive.org/corp/inquiry) or by mail to have that child's account terminated and information deleted.
-
-The following are some resources that may help parents and legal guardians in monitoring and limiting your childrens' access to certain types of material on the Internet. While Vuze does not endorse these products, we provide information about them as a public service to our community.
-
-  * ["OnGuard Online," maintained by the Federal Trade Commission](http://onguardonline.gov/socialnetworking.html)
-  * [WiredSafety](http://www.wiredsafety.org/)
-  * [Netsmartz.org](http://www.netsmartz.org/)
-  * [The Child Safety Network](http://www.csn.org/)
-  * [Control Kids](http://www.controlkids.com/)
-  * [Cyber Sitter](http://www.solidoak.com/)
-  * [Net Nanny](http://www.netnanny.com/)
+  * Information you provide us. We collect the content, communications and other information you provide when you contact us, including your email address. 
+  * Information we get from your use of our services. We collect information about the services that you use and how you use them. This information includes: 
+    * **Device Information**  
+We collect device-specific information (such as your hardware model and operating system version).
+    * **Log Information**  
+When you use our Services or view content provided by Polarity, we automatically collect and store certain information in server logs. This includes:
+      * Internet protocol address ("IP Address")
+      * The type of browser you are using when using our Services, including your browser's "user agent" (e.g., Internet Explorer, Safari, and other browsers)
+      * Device event information such as crashes, system activity, hardware settings,
+      * Your geographic location
+      * The domain name of your Internet service provider 
 
 
 
-### 8\. International Visitors:
+### II. How Do We Use This Information? 
 
-For Users visiting the Vuze Platform from the European Economic Area or other non-U.S. territories, please note that any data you enter into the Vuze Platform will be transferred outside the European Economic Area or such other non-U.S. territory for use by Vuze and its affiliates for any of the purposes described herein. In addition, because Vuze operates globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the Vuze Platform, you hereby expressly consent to such transfers of your data to the United States or other countries.
+We are able to deliver, personalize, and improve our Services by combining and using the information that we have about you to understand how you use and interact with our Services. We also may use the information that we have about you for the following purposes: 
 
-### 9\. In the Event of Merger or Sale:
+  * Provide, maintain, improve, and develop relevant features, content, and Services.
+  * To communicate with you by responding to your requests, comments, and questions.
+  * Help advertisers and publishers connect to offer relevant advertising in their apps and websites.
+  * Create analytics and reports for internal purposes. These analytics and reports may include aggregate or anonymous information.
+  * Detect and defend against fraudulent, abusive, or unlawful activity.
 
-In the event that Vuze is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control.
 
-### 10\. Changes and Updates to this Privacy Notice:
 
-This Privacy Notice may be revised periodically without further notice to you and this will be reflected by a "last modified" date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information. Your continued use of the Vuze Platform constitutes your agreement to this Privacy Notice and any future revisions.
+### III. How Do We Share This Information? 
 
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.
+We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent. We do not sell, license or share information that individually identifies our users with companies, organizations or individuals outside of Polarity. We will share your information in the following ways:
 
-### 11\. Effective Date, Date Last Modified:
+  * **Our suppliers, subcontractors, and business partners ("service providers"):** We may share your data with our services providers who process your personal information to provide services to us or on our behalf. We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else or using it for other purposes.
+  * **Companies within Vuze's group of companies:** We may share your information with our parent company and our affiliates, which are entities under common ownership or control of our ultimate parent company.
+  * **Fraud prevention:** We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
+  * **Law enforcement purposes and public safety:** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims. We also may be required to disclose an individual's personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+  * **Sale or merger of our business:** We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+  * **Advertisers and advertising networks:** Advertisers and advertising networks place ads (including sponsored links in search results) on our site. These companies may collect information, such as your computer's IP address, browser information, as you use our Site and Services. They also may use cookies and other technologies to collect this information when you visit our site as described below.
 
-Privacy Notice effective as of December 13, 2006.
 
-Revised May 11th, 2016, by including clarifying information about Google Analytics, cookies, web beacons, pixels. Effective immediately.
 
-### 12\. Vuze Contact Information:
+### IV. How Do We Use Cookies and Tracking Technology?
 
-Please contact Vuze with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices [through our online web form](https://web.archive.org/corp/inquiry) or by mail at: 774 Mays Blvd., #10-568, Incline Village, NV 89451. We will respond to your inquiry as promptly as possible.
+We use cookies, pixel tags, web beacons, and similar files or technologies to collect and store the information we automatically collect about your computer, device, and product usage. We use the term "cookies" in this policy to refer to cookies and all such similar technologies that collect information automatically when you are using the Vuze Services, where this policy is posted. You can find out more about cookies our cookie policy here: [https://www.vuze.com/corp/cookie](https://www.vuze.com/corp/cookie.php). 
+
+### V. How Long Do We Keep the Information? 
+
+We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request. We may also choose to anonymize certain information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time. 
+
+### VI. How Do We Protect Your Personal Data? 
+
+We maintain technical, physical, and administrative security measures designed to provide reasonable protection for your personal data against loss, misuse, unauthorized access, disclosure, and alteration. The security measures include firewalls, data encryption, physical access controls to our data centers, and information access authorization controls. 
+
+### VII. Age Limitations. 
+
+The Sites and Services are not directed to children under the age of 13. We do not knowingly collect information, including personal data, from children or other individuals who are not legally able to use our Sites and Services. If we obtain actual knowledge that we have collected personal data from a child under the age of 13, we will promptly delete it, unless we are legally obligated to retain such data. Contact us if you believe that we have mistakenly or unintentionally collected information from a child under the age of 13. 
+
+### VIII. International Data Transfers 
+
+Vuze may transfer your personal data to countries other than the one in which you live. In particular, your personal data will be transferred to and processed in the United States where many of our central databases operate. By using the Services, you acknowledge that the data protection and other laws of other countries, such as the United States, may provide a less comprehensive or protective standard of protection than those in your country, and consent to your personal data being collected, processed and transferred as set forth in this Privacy Policy and US law. 
+
+### IX. Your Rights 
+
+Individuals located in certain countries, including the European Economic Area, have certain statutory rights in relation to their personal data. Subject to any exemptions provided by law, you may have the right to request access to your personal data, as well as to seek to update, delete or correct this information. If you wish to access, review, change, or delete personal data we have collected from you, please contact gdprcontact@vuze.com. To the extent that Vuze's processing of your personal data is subject to the General Data Protection Regulation, Vuze relies its legitimate interests. 
+
+### X. More Information. 
+
+For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org. In addition, the Federal Trade Commission Consumer Response Center offers a helpline at 1-877-FTC-HELP (1-877-382-4357) to allow consumers to make comments or inquiries regarding companies and business practices. We do not have a mechanism or process to respond to any "do not track" signals which a web browser may send or receive. However, if you have questions about this Privacy Policy, or if you would like access to personal information we may have about you in our files, to correct, update or to have us delete it, or if you would like to notify us of your choice to opt-out of any sharing of your personal information, please contact us at the address below. 
+
+### XI. Contact Us
+
+Please also feel free to contact Vuze if you have any questions about this Privacy Policy or Vuze's practices, or if you are seeking to exercise any of your statutory rights. 
+
+Azureus Software, Inc  
+774 Mays Blvd. #10-568  
+Incline Village, NV 89451 
+
+We use cookies to improve your experience. To learn more, click [here](https://web.archive.org/corp/cookie.php). By continuing to use our site, you accept our use of cookies and revised [Privacy Policy](https://web.archive.org/corp/privacy). OK
