@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideafit.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205085351id_/https%3A//www.ideafit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideafit.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621055936id_/https%3A//www.ideafit.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -16,8 +16,8 @@ We respect your choices. If you do not want us to share your name and address in
 
 Contact Us:  
 IDEA Health & Fitness Association  
-10455 Pacific Center Court  
-San Diego, CA 92121-4339
+10190 Telesis Court  
+San Diego, CA 92121
 
 E-mail: contact@ideafit.com 
 
