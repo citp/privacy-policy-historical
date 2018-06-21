@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowmagazine.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208152055id_/http%3A//www.snowmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowmagazine.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621055654id_/http%3A//www.snowmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -19,7 +19,7 @@ Double A Media Ltd will use the information which we collect from this website a
 -We respond to any legitimate request by authorities with which we must comply or legal process.
 
  **Access to Your Data**  
-You may request, at any time, a copy of the information we hold on you by writing to [This email address is being protected from spambots. You need JavaScript enabled to view it..">[admin@snowmagazine.com](mailto:admin@snowmagazine.com).](mailto:%3Cspan%20id=) You can also make changes to the information we hold by writing to us at [This email address is being protected from spambots. You need JavaScript enabled to view it..">[admin@snowmagazine.com](mailto:admin@snowmagazine.com).](mailto:%3Cspan%20id=)
+You may request, at any time, a copy of the information we hold on you by writing to [[admin@snowmagazine.com](mailto:admin@snowmagazine.com).](mailto:admin@active-traveller.com.) You can also make changes to the information we hold by writing to us at [[admin@snowmagazine.com](mailto:admin@snowmagazine.com).](mailto:admin@active-traveller.com.)
 
  **Cookies**  
 Our website uses cookies. These are small text files which your web browser stores on your computer. Cookies are used to identify your computer to our server and store your website preferences. Cookies do not contain any personally identifying information.
