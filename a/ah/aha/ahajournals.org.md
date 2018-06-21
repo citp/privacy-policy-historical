@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahajournals.org privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212222722id_/http%3A//www.heart.org/HEARTORG/General/Privacy-Policy_UCM_300371_Article.jsp%23.V0iVXfkrJpg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahajournals.org privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621085329id_/http%3A//www.heart.org/HEARTORG/General/Privacy-Policy_UCM_300371_Article.jsp%23.V0iVXfkrJpg) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -89,7 +89,7 @@ AHA may provide links to websites that are owned or operated by others ("third-p
 
 ## Updating Your Information and Contacting Us with Questions
 
-Keeping your account information and preferences up-to-date is very important.  You may review your information, change your permissions for use, or update certain account information by logging in and accessing the account profile section of each online service for which you have registered.  If you cannot locate, access or make changes to the information or permissions online, you may send an email to [Privacy@heart.org](mailto:Privacy@heart.org) or use the [Contact Us](https://web.archive.org/HEARTORG/General/Contact-Us_UCM_308813_Article.jsp) options on our site.  Of course, we cannot track down "de-identified" information to change it or undo any prior use of data we already used with your actual or implied consent. 
+Keeping your account information and preferences up-to-date is very important. You may review your information, request that we exclude your information from any donor list exchange activity, request that we stop using it, or update certain account information by logging in and accessing the account profile section of each online service for which you have registered. If you cannot locate, access or make changes to the information or permissions online, you may send a request using our [online form](https://web.archive.org/HEARTORG/General/Contact-Preference-Form_UCM_493953_Article.jsp) or use the [Contact Us](https://web.archive.org/HEARTORG/General/Contact-Us_UCM_308813_Article.jsp) options on our site. Of course, we cannot track down “de-identified” information to change it or undo any prior use of data we already used with your actual or implied consent.
 
 ## Changes to This Privacy Statement
 
@@ -99,4 +99,4 @@ We may change this Privacy Statement from time to time.  When we do, we will le
 
 This Privacy Statement describes our practices related to our most common data collection activities. We have other policies, procedures and statements that apply to other activities and programs.  If you have a question about privacy protections related to “offline” programs, please contact the program staff or use the contact options on our [Contact Us page](https://web.archive.org/HEARTORG/General/Contact-Us_UCM_308813_Article.jsp).
 
- _Last updated  August 18, 2017_
+_Last updated  December 15, 2017_
