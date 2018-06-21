@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellrizon.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014054729id_/http%3A//www.cellrizon.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellrizon.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621234032id_/https%3A//cellrizon.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – CELLRIZON
 
@@ -14,12 +14,7 @@ When you provide us with personal information to complete a transaction, verify 
 
 **How do I withdraw my consent?**
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at **info@cellrizon.com**  or mailing us at:
-
-Cellrizon    
-1711Cudaback Avenue (USA)    
-Mississauga Ontario    
-US 14303  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at **info@cellrizon.com**  
 
   
 **SECTION 3 - DISCLOSURE  **
@@ -53,10 +48,6 @@ We reserve the right to modify this privacy policy at any time, so please review
   
 **QUESTIONS AND CONTACT INFORMATION  **
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at **info@cellrizon.com**   or by mail at  
-
-Cellrizon [Re: Privacy Compliance Officer] 
-
-[1711 Cudaback Avenue (USA) Mississauga Ontario US 14303
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at **info@cellrizon.com**   
 
 \----
