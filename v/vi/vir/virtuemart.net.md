@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtuemart.net privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218171551id_/http%3A//www.virtuemart.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuemart.net privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621205209id_/http%3A//virtuemart.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ We take your right to privacy seriously and want you to feel comfortable using o
 
 Our registration process requires only a valid e-mail address and a unique user ID and password. Providing us with other information is at your option. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. Like many web sites, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site (if at all) is set forth below.
 
-To improve our Websites and Services we use the Piwik Webanalytics Service which is hosted on our own Servers.
+To improve our Websites and Services we use the Matomo Webanalytics Service which is hosted on our own Servers.
 
 #### **2\. Use of Data.**
 
