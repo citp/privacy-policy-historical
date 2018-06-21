@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guideline.gov privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119050510id_/http%3A//www.ahrq.gov/policy/electronic/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guideline.gov privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621152056id_/http%3A//www.ahrq.gov/policy/electronic/privacy/index.html) for the most accurate reproduction.*
 
 # AHRQ Privacy Policy Notice | Agency for Healthcare Research & Quality
 
@@ -74,8 +74,4 @@ Electronically submitted information is maintained and destroyed according to th
 
 Our Web site has links to other federal agencies. We also have selected links to other Web resources. The privacy policy described here does not necessarily apply to those other sites. Once you link to another site, you are subject to the privacy policy of that site.
 
-### More Information
-
-For more information and resources please see the [Privacy Act Information](https://web.archive.org/policy/electronic/privacy/privacy.html) page.
-
-Internet Citation: AHRQ Privacy Policy Notice. Content last reviewed July 2012. Agency for Healthcare Research and Quality, Rockville, MD. http://www.ahrq.gov/policy/electronic/privacy/index.html
+Internet Citation: AHRQ Privacy Policy Notice. Content last reviewed February 2018. Agency for Healthcare Research and Quality, Rockville, MD. http://www.ahrq.gov/policy/electronic/privacy/index.html
