@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809103335id_/https%3A//www.candymag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621052307id_/https%3A//www.candymag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Candy Magazine
 
