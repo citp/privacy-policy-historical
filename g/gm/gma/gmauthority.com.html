@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gmauthority.com privacy policy that was archived on 2017-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171208050114id_/http%3A//gmauthority.com/blog/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gmauthority.com privacy policy that was archived on 2018-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180621193402id_/http%3A//gmauthority.com/blog/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,9 +9,6 @@
 	// This function returns a normalized screen size to match the TypeGrid theme.
 	function get_ad_size($position) {
 		var $adsense_helper = 'src="https://pagead2.googlesyndication.com/pagead/show_ads.js"';
-		var $ynb_helper = 'src="https://contextual.media.net/nmedianet.js?cid=8CU1J6XKQ"';
-		var $aol_helper = 'src="https://uac.advertising.com/wrapper/aceUAC.js"';
-		var $adtech_helper = '';
 		switch($position) {
 			/*
 			The logo-center and bottom-center work together.  When the page is too small for the header,
@@ -25,16 +22,6 @@
 				else if ($width >= 800 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "4811202363";  google_ad_width = 468;  google_ad_height = 60;', $adsense_helper]; }
 				else { return ['','']; }
 				break;
-			case "header-bottom-center":
-				// Area under 2nd Menu.
-				var $width = window.innerWidth || document.documentElement.clientWidth;
-				//if ($width >= 728 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "3411313564";  google_ad_width = 728;  google_ad_height = 90;', $adsense_helper]; }
-				// else if ($width >= 468 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "4811202363";  google_ad_width = 468;  google_ad_height = 60;', $adsense_helper]; }
-				//Most recent: if ($width < 800 && $width >= 336 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "3401280366";  google_ad_width = 336;  google_ad_height = 280;', $adsense_helper]; }
-				//else if ($width < 336 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "2242304768";  google_ad_width = 300;  google_ad_height = 250;', $adsense_helper]; }
-				if ($width < 800 ) { return ['','src="https://adserver.adtechus.com/addyn|3.0|9994.1|3508064|0|170|ADTECH;loc=100;target=_blank;misc=[TIMESTAMP];rdclick="']; }
-				else { return ['','']; }
-				break;
 			/*
 			The home-featured and below-image-center displays an ad below the featured articles on the home page,
 				as well as an ad below the featured article on a post.
@@ -45,7 +32,6 @@
 				// Area under featured articles on home page and below article on single
 				var $addiv = document.getElementById("featured-image-wrapper").clientWidth;
 				if ($addiv >= 720 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "5181557166";  google_ad_width = 728;  google_ad_height = 90;', $adsense_helper]; }
-				// else if ($addiv >= 460 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "4811202363";  google_ad_width = 468;  google_ad_height = 60;', $adsense_helper]; }
 				else if ($addiv >= 328 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "3401280366";  google_ad_width = 336;  google_ad_height = 280;', $adsense_helper]; }
 				else if ($addiv < 328 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "2242304768";  google_ad_width = 300;  google_ad_height = 250;', $adsense_helper]; }
 				else { return ['','']; }
@@ -66,7 +52,6 @@
 				// Every 4 articles on home page
 				var $addiv = document.getElementById("ads-content-wrapper").clientWidth;
 				if ($addiv >= 720 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "5181557166";  google_ad_width = 728;  google_ad_height = 90;', $adsense_helper]; }
-				// else if ($addiv >= 460 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "4811202363";  google_ad_width = 468;  google_ad_height = 60;', $adsense_helper]; }
 				else if ($addiv >= 328 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "3401280366";  google_ad_width = 336;  google_ad_height = 280;', $adsense_helper]; }
 				else if ($addiv < 328 ) { return ['google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "2242304768";  google_ad_width = 300;  google_ad_height = 250;', $adsense_helper]; }
 				else { return ['','']; }
@@ -83,78 +68,6 @@
     document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
   })();
 </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-<script>
-	var $pageWidth = window.innerWidth || document.documentElement.clientWidth;
-	// var $contentWidth = 728; // document.getElementById("ads-content-wrapper").clientWidth;
-	
-	// Define article body slots according to screen size
-	// Screen is desktop, or right after the sidebar hides
-	if ( ( $pageWidth >= 1100 ) || ( $pageWidth <= 960 && $pageWidth >= 850 ) ) {
-		// Desktop sized screen
-		googletag.cmd.push(function() {
-			googletag.defineSlot('/102346917/gma_728_90', [728, 90], 'div-gpt-ad-content-three').addService(googletag.pubads());
-			googletag.defineSlot('/102346917/gma_728_90', [728, 90], 'div-gpt-ad-content-four').addService(googletag.pubads());
-			googletag.defineSlot('/102346917/gma_728_90', [728, 90], 'div-gpt-ad-content-five').addService(googletag.pubads());
-		});
-	// Screen is tablet, or while the sidebar is shown and a large ad won't fit
-  	} else if ( ( $pageWidth < 1100 && $pageWidth > 960 ) || ( $pageWidth >= 360 )) {
-  		// Tablet sized screen
-  		googletag.cmd.push(function() {
-  			googletag.defineSlot('/102346917/gma_336_280', [336, 280], 'div-gpt-ad-content-three').addService(googletag.pubads());
-  			googletag.defineSlot('/102346917/gma_336_280', [336, 280], 'div-gpt-ad-content-four').addService(googletag.pubads());
-			googletag.defineSlot('/102346917/gma_336_280', [336, 280], 'div-gpt-ad-content-five').addService(googletag.pubads());
-		});
-	// Screen size is too small for the 336 ad to display
-  	} else {
-  		// Mobile sized screen
-  		googletag.cmd.push(function() {
-  			googletag.defineSlot('/102346917/gma_300_250', [300, 250], 'div-gpt-ad-content-three').addService(googletag.pubads());
-  			googletag.defineSlot('/102346917/gma_300_250', [300, 250], 'div-gpt-ad-content-four').addService(googletag.pubads());
-			googletag.defineSlot('/102346917/gma_300_250', [300, 250], 'div-gpt-ad-content-five').addService(googletag.pubads());
-		});
-  	};
-  	
-  	// Define page body slots according to screen size
-	// Screen is desktop, or right after the sidebar hides
-	if ( $pageWidth >= 740 ) {
-		// Desktop sized screen
-		googletag.cmd.push(function() {
-			googletag.defineSlot('/102346917/gma_728_90', [728, 90], 'div-gpt-ad-footer').addService(googletag.pubads());
-		});
-	// Screen is tablet, or while the sidebar is shown and a large ad won't fit
-  	} else if ( $pageWidth >= 350 ) {
-  		// Tablet sized screen
-  		googletag.cmd.push(function() {
-  			googletag.defineSlot('/102346917/gma_336_280', [336, 280], 'div-gpt-ad-footer').addService(googletag.pubads());
-		});
-	// Screen size is too small for the 336 ad to display
-  	} else {
-  		// Mobile sized screen
-  		googletag.cmd.push(function() {
-  			googletag.defineSlot('/102346917/gma_300_250', [300, 250], 'div-gpt-ad-footer').addService(googletag.pubads());
-		});
-  	};
-  	
-  	
-  	// Sidebar ads.  These do not change in size
-	googletag.cmd.push(function() {
-		googletag.defineSlot('/102346917/gma_160_600', [160, 600], 'div-gpt-ad-sidebar-top-left').addService(googletag.pubads());
-		googletag.defineSlot('/102346917/gma_160_600', [160, 600], 'div-gpt-ad-sidebar-top-right').addService(googletag.pubads());
-		googletag.defineSlot('/102346917/gma_160_600', [160, 600], 'div-gpt-ad-sidebar-middle-left').addService(googletag.pubads());			
-		googletag.defineSlot('/102346917/gma_160_600', [160, 600], 'div-gpt-ad-sidebar-middle-right').addService(googletag.pubads());
-		googletag.defineSlot('/102346917/gma_300_250', [300, 250], 'div-gpt-ad-sidebar-bottom-one').addService(googletag.pubads());
-		googletag.defineSlot('/102346917/gma_300_250', [300, 250], 'div-gpt-ad-sidebar-bottom-two').addService(googletag.pubads());
-	});
-	
-	// Define how the DFP tags fire
-	googletag.cmd.push(function() {
-		// googletag.pubads().enableSingleRequest();
-		googletag.pubads().enableSyncRendering();
-		googletag.pubads().collapseEmptyDivs();
-		googletag.enableServices();
-	});
-
-</script>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
@@ -355,11 +268,6 @@ jQuery(function() {
 <li id="menu-item-78654" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78654"><a href="http://gmauthority.com/blog/category/gmc/acadia/" itemprop="url">Acadia</a></li> <li id="menu-item-78655" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78655"><a href="http://gmauthority.com/blog/category/gmc/acadia/acadia-denali/" itemprop="url">Acadia Denali</a></li> <li id="menu-item-78652" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78652"><a href="http://gmauthority.com/blog/category/gmc/terrain/" itemprop="url">Terrain</a></li> <li id="menu-item-78653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78653"><a href="http://gmauthority.com/blog/category/gmc/terrain/terrain-denali/" itemprop="url">Terrain Denali</a></li> <li id="menu-item-78656" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78656"><a href="http://gmauthority.com/blog/category/gmc/yukon/" itemprop="url">Yukon</a></li> <li id="menu-item-78658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78658"><a href="http://gmauthority.com/blog/category/gmc/yukon/yukon-xl/" itemprop="url">Yukon XL</a></li> <li id="menu-item-78657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78657"><a href="http://gmauthority.com/blog/category/gmc/yukon/yukon-denali/" itemprop="url">Yukon Denali</a></li> <li id="menu-item-78664" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78664"><a href="http://gmauthority.com/blog/category/gmc/canyon/" itemprop="url">Canyon</a></li> <li id="menu-item-78665" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78665"><a href="http://gmauthority.com/blog/category/gmc/canyon/canyon-denali/" itemprop="url">Canyon Denali</a></li> <li id="menu-item-78659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78659"><a href="http://gmauthority.com/blog/category/gmc/sierra/" itemprop="url">Sierra</a></li> <li id="menu-item-78660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78660"><a href="http://gmauthority.com/blog/category/gmc/sierra/sierra-denali/" itemprop="url">Sierra Denali</a></li> <li id="menu-item-78662" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78662"><a href="http://gmauthority.com/blog/category/gmc/sierra/sierra-hd/" itemprop="url">Sierra HD</a></li> <li id="menu-item-78661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78661"><a href="http://gmauthority.com/blog/category/gmc/sierra/sierra-hd/sierra-denali-hd/" itemprop="url">Sierra Denali HD</a></li> <li id="menu-item-78663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78663"><a href="http://gmauthority.com/blog/category/gmc/denali/" itemprop="url">Denali Sub Brand</a></li></ul>
 </li><li id="menu-item-41243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41243"><a href="http://gmauthority.com/blog/category/cadillac/" itemprop="url">Cadillac</a></li><li id="menu-item-41244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41244"><a href="http://gmauthority.com/blog/category/opel/" itemprop="url">Opel</a></li><li id="menu-item-41245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41245"><a href="http://gmauthority.com/blog/category/holden/" itemprop="url">Holden</a></li><li id="menu-item-41246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41246"><a href="http://gmauthority.com/blog/category/onstar/" itemprop="url">OnStar</a></li><li id="menu-item-41308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41308"><a href="http://gmauthority.com/blog/category/article-type/gma-special/review/" itemprop="url">Reviews</a></li><li id="menu-item-110134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-110134"><a href="http://gmauthority.com/blog/category/future-product/rumor/" itemprop="url">Rumors</a></li><li id="menu-item-41248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41248"><a href="http://gmauthority.com/blog/category/gma-special/opinion-desk/" itemprop="url">Opinions</a></li><li id="menu-item-109479" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-109479"><a href="http://gmauthority.com/blog/category/business/dealers/" itemprop="url">Dealer News</a></li><li id="menu-item-41250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41250"><a href="http://gmauthority.com/blog/category/fun-stuff/motorsports-racing/" itemprop="url">Racing</a></li><li id="menu-item-41317" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41317"><a href="http://gmauthority.com/blog/category/video/" itemprop="url">Video</a></li><li id="menu-item-93828" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93828"><a href="http://gmauthority.com/blog/category/article-type/gma-special/rpo-central/" itemprop="url">2018 Models</a></li></ul> </div>
 </nav>
-<div id="header-bottom-wrapper">
-
-
-
-</div>
 </div>
 </header>
 <div id="page">
@@ -369,16 +277,13 @@ jQuery(function() {
 <div class="content-part">
 <div class="pad">
 <article id="entry-136162" class="entry group post-136162 page type-page status-publish hentry">
-
 <ul id="breadcrumbs" class="fix"><li class="first"><a class="home" href="http://gmauthority.com/blog"><i class="icon-home"></i><span>Home</span></a><i class="icon-angle-right"></i></li><li><span>Privacy Policy</span></li></ul><br>
-<div id="ads-content-wrapper">
-<div id="ad-content-container">
+<div id="ads-header-wrapper">
+<div id="ad-header-container-center">
 <h3>Sponsored Links</h3>
-<div id="div-gpt-ad-content-three" ;'="">
-<script>
-							googletag.cmd.push(function() { googletag.display('div-gpt-ad-content-three'); });
-						</script>
-</div>
+<script>var ad_data = get_ad_size('below-content');
+							document.write('<script type="text/javascript"> ' + ad_data[0] + '<' + '\/script>'); </script><script type="text/javascript"> google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "3411313564";  google_ad_width = 728;  google_ad_height = 90;</script>
+<script> document.write('<script type="text/javascript" ' + ad_data[1] + '><' + '\/script>'); </script><script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 </div>
 </div>
 <br>
@@ -428,7 +333,7 @@ jQuery(function() {
 <div id="ads-header-wrapper">
 <div id="ad-header-container-center">
 <h3>Sponsored Links</h3>
-<script data-cfasync="false" src="/cdn-cgi/scripts/af2821b0/cloudflare-static/email-decode.min.js"></script><script>var ad_data = get_ad_size('below-content');
+<script>var ad_data = get_ad_size('below-content');
 							document.write('<script type="text/javascript"> ' + ad_data[0] + '<' + '\/script>'); </script><script type="text/javascript"> google_ad_client = "ca-pub-7194783345442697";  google_ad_slot = "3411313564";  google_ad_width = 728;  google_ad_height = 90;</script>
 <script> document.write('<script type="text/javascript" ' + ad_data[1] + '><' + '\/script>'); </script><script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 </div>
@@ -513,7 +418,7 @@ jQuery(function() {
 </div>
 <div id="footer-widgets" class="pad group">
 <div class="grid one-third">
-<ul><li id="wpb-tabs-3" class="widget widget_wpb_tabs"><h3 class="widget-title fix"><span>Fresh Off The Press</span></h3><ul class="wpb-tabs group tabs-3"><li class="wpb-tab-recent"><a href="#tab-recent-3" title="Recent Posts"><i class="icon-time"></i><span>Recent Posts</span></a></li><li class="wpb-tab-popular"><a href="#tab-popular-3" title="Most Popular"><i class="icon-star"></i><span>Most Popular</span></a></li><li class="wpb-tab-comments"><a href="#tab-comments-3" title="Comments"><i class="icon-comments-alt"></i><span>Comments</span></a></li></ul><ul id="tab-recent-3" class="list-recent wpb-tab"><li class="format- wpb-thumb-enabled group"><a title="Michael Cooper Given A Spot Driving The Callaway Corvette C7 GT3-R In PWC" href="http://gmauthority.com/blog/2017/12/michael-cooper-given-a-spot-driving-the-callaway-corvette-c7-gt3-r-in-pwc/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2015/10/Chevrolet-Corvette-C7-GT3-R-Callaway-10-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Chevrolet Corvette C7 GT3-R Callaway 10" srcset="http://gmauthority.com/blog/wp-content/uploads/2015/10/Chevrolet-Corvette-C7-GT3-R-Callaway-10-300x200.jpg 300w, http://gmauthority.com/blog/wp-content/uploads/2015/10/Chevrolet-Corvette-C7-GT3-R-Callaway-10-1024x683.jpg 1024w, http://gmauthority.com/blog/wp-content/uploads/2015/10/Chevrolet-Corvette-C7-GT3-R-Callaway-10-720x480.jpg 720w, http://gmauthority.com/blog/wp-content/uploads/2015/10/Chevrolet-Corvette-C7-GT3-R-Callaway-10-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2015/10/Chevrolet-Corvette-C7-GT3-R-Callaway-10-192x128.jpg 192w, http://gmauthority.com/blog/wp-content/uploads/2015/10/Chevrolet-Corvette-C7-GT3-R-Callaway-10.jpg 1200w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Michael Cooper Given A Spot Driving The Callaway Corvette C7 GT3-R In PWC</i><i class="meta">December 7, 2017</i></span></a></li><li class="format-video wpb-thumb-enabled group"><a title="Forza Motorsport 7 Adds 1955 Chevrolet 150 Sedan With New Car Pack" href="http://gmauthority.com/blog/2017/12/forza-motorsport-7-adds-1955-chevrolet-150-sedan-with-new-car-pack/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2017/12/1955-Chevy-150-Sedan-Forza-Motorsport-7-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="1955 Chevy 150 Sedan Forza Motorsport 7" srcset="http://gmauthority.com/blog/wp-content/uploads/2017/12/1955-Chevy-150-Sedan-Forza-Motorsport-7-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2017/12/1955-Chevy-150-Sedan-Forza-Motorsport-7-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"><i class="icon-thumb"></i></span><span class="wpb-text"><i class="title">Forza Motorsport 7 Adds 1955 Chevrolet 150 Sedan With New Car Pack</i><i class="meta">December 7, 2017</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="Opel Insignia Taxi Revealed In Country And Sports Tourer Guise" href="http://gmauthority.com/blog/2017/12/opel-insignia-taxi-revealed-in-country-and-sports-tourer-guise/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2017/12/Opel-Insignia-Sports-Tourer-Taxi-e1512678576964-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Opel Insignia now available as taxi" srcset="http://gmauthority.com/blog/wp-content/uploads/2017/12/Opel-Insignia-Sports-Tourer-Taxi-e1512678576964-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2017/12/Opel-Insignia-Sports-Tourer-Taxi-e1512678576964-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Opel Insignia Taxi Revealed In Country And Sports Tourer Guise</i><i class="meta">December 7, 2017</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="HSV Adds Chevrolet Silverado HD To Lineup, Sales Start Early 2018" href="http://gmauthority.com/blog/2017/12/hsv-adds-chevrolet-silverado-hd-to-lineup-sales-start-early-2018/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2016/06/2017-Chevrolet-Silverado-2500HD-exterior-001-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="2017 Chevrolet Silverado 2500HD exterior 001" srcset="http://gmauthority.com/blog/wp-content/uploads/2016/06/2017-Chevrolet-Silverado-2500HD-exterior-001-1024x681.jpg 1024w, http://gmauthority.com/blog/wp-content/uploads/2016/06/2017-Chevrolet-Silverado-2500HD-exterior-001-720x479.jpg 720w, http://gmauthority.com/blog/wp-content/uploads/2016/06/2017-Chevrolet-Silverado-2500HD-exterior-001-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2016/06/2017-Chevrolet-Silverado-2500HD-exterior-001-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">HSV Adds Chevrolet Silverado HD To Lineup, Sales Start Early 2018</i><i class="meta">December 7, 2017</i></span></a></li></ul><ul id="tab-popular-3" class="list-popular wpb-tab"><li class="format- wpb-thumb-enabled group"><a title="Poll: Should GM Bring Back Pontiac?" href="http://gmauthority.com/blog/2012/03/poll-is-it-time-to-start-talking-about-pontiac/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2012/03/Pontiac-G8-G3-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Pontiac G8 G3" srcset="http://gmauthority.com/blog/wp-content/uploads/2012/03/Pontiac-G8-G3-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2012/03/Pontiac-G8-G3-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Poll: Should GM Bring Back Pontiac?</i><i class="meta">March 28, 2012</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="GMT 900 GMC, Chevy Vehicles Subject To Frequently Cracking Dashboards" href="http://gmauthority.com/blog/2012/08/gmt-900-gmc-chevy-vehicles-subject-to-frequently-cracking-dashboards/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2012/08/Cracked-Dashboard-GMT900-trucks-and-suvs-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Cracked Dashboard - GMT900 trucks and suvs" srcset="http://gmauthority.com/blog/wp-content/uploads/2012/08/Cracked-Dashboard-GMT900-trucks-and-suvs-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2012/08/Cracked-Dashboard-GMT900-trucks-and-suvs-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">GMT 900 GMC, Chevy Vehicles Subject To Frequently Cracking Dashboards</i><i class="meta">August 11, 2012</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="GM Working On Software Update To Improve iPhone 5 Bluetooth Connectivity" href="http://gmauthority.com/blog/2012/11/gm-working-on-software-update-to-improve-iphone-5-bluetooth-connectivity/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2012/11/Apple-Siri-Eyes-Free-Chevrolet-MyLink-04-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Apple Siri Eyes Free - Chevrolet MyLink 04" srcset="http://gmauthority.com/blog/wp-content/uploads/2012/11/Apple-Siri-Eyes-Free-Chevrolet-MyLink-04-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2012/11/Apple-Siri-Eyes-Free-Chevrolet-MyLink-04-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">GM Working On Software Update To Improve iPhone 5 Bluetooth Connectivity</i><i class="meta">November 28, 2012</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="GM Offers Owners Bluetooth Update Via OnStar" href="http://gmauthority.com/blog/2012/08/gm-offers-owners-bluetooth-update-via-onstar/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2012/08/OnStar-mirror-plus-Bluetooth-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="OnStar mirror plus Bluetooth" srcset="http://gmauthority.com/blog/wp-content/uploads/2012/08/OnStar-mirror-plus-Bluetooth-720x479.jpg 720w, http://gmauthority.com/blog/wp-content/uploads/2012/08/OnStar-mirror-plus-Bluetooth-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2012/08/OnStar-mirror-plus-Bluetooth-192x128.jpg 192w, http://gmauthority.com/blog/wp-content/uploads/2012/08/OnStar-mirror-plus-Bluetooth.jpg 1000w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">GM Offers Owners Bluetooth Update Via OnStar</i><i class="meta">August 13, 2012</i></span></a></li></ul><ul id="tab-comments-3" class="list-comments wpb-tab"><li class="group wpb-thumb-enabled"><a title="Is The Lamborghini Urus A Threat To The Cadillac Escalade?" href="http://gmauthority.com/blog/2017/12/is-the-lamborghini-urus-a-threat-to-the-cadillac-escalade/#comment-720411"><span class="wpb-thumb"><img alt="" src="http://1.gravatar.com/avatar/df2796eabc3b093a345a8872fa00e6ac?s=128&amp;r=g" srcset="http://1.gravatar.com/avatar/df2796eabc3b093a345a8872fa00e6ac?s=256&amp;r=g 2x" class="avatar avatar-128 photo" height="128" width="128"></span><span class="wpb-text"><i class="meta">Bob Harlow on:</i><i class="title">Is The Lamborghini Urus A Threat To The Cadillac Escalade?</i></span></a></li><li class="group wpb-thumb-enabled"><a title="Dealership Creates Modern Chevrolet C10 Pickup From Silverado" href="http://gmauthority.com/blog/2017/12/dealership-creates-modern-chevrolet-c10-pickup-from-silverado/#comment-720410"><span class="wpb-thumb"><img alt="" src="http://1.gravatar.com/avatar/786bcc08fa3faa0252864e9d4b30c3ce?s=128&amp;r=g" srcset="http://1.gravatar.com/avatar/786bcc08fa3faa0252864e9d4b30c3ce?s=256&amp;r=g 2x" class="avatar avatar-128 photo" height="128" width="128"></span><span class="wpb-text"><i class="meta">Rich on:</i><i class="title">Dealership Creates Modern Chevrolet C10 Pickup From Silverado</i></span></a></li><li class="group wpb-thumb-enabled"><a title="Official: Chevrolet Camaro Heading To Australia Via HSV In July 2018" href="http://gmauthority.com/blog/2017/12/official-chevrolet-camaro-heading-to-australia-via-hsv-in-july-2018/#comment-720409"><span class="wpb-thumb"><img alt="" src="http://2.gravatar.com/avatar/eb27177ff811857c18e88fce443ab713?s=128&amp;r=g" srcset="http://2.gravatar.com/avatar/eb27177ff811857c18e88fce443ab713?s=256&amp;r=g 2x" class="avatar avatar-128 photo" height="128" width="128"></span><span class="wpb-text"><i class="meta">Rob on:</i><i class="title">Official: Chevrolet Camaro Heading To Australia Via HSV In July 2018</i></span></a></li><li class="group wpb-thumb-enabled"><a title="Dealership Creates Modern Chevrolet C10 Pickup From Silverado" href="http://gmauthority.com/blog/2017/12/dealership-creates-modern-chevrolet-c10-pickup-from-silverado/#comment-720408"><span class="wpb-thumb"><img alt="" src="http://0.gravatar.com/avatar/c7a9797767fc734ee2987d885d718e5b?s=128&amp;r=g" srcset="http://0.gravatar.com/avatar/c7a9797767fc734ee2987d885d718e5b?s=256&amp;r=g 2x" class="avatar avatar-128 photo" height="128" width="128"></span><span class="wpb-text"><i class="meta">scott3 on:</i><i class="title">Dealership Creates Modern Chevrolet C10 Pickup From Silverado</i></span></a></li></ul></li></ul>
+<ul><li id="wpb-tabs-3" class="widget widget_wpb_tabs"><h3 class="widget-title fix"><span>Fresh Off The Press</span></h3><ul class="wpb-tabs group tabs-3"><li class="wpb-tab-recent"><a href="#tab-recent-3" title="Recent Posts"><i class="icon-time"></i><span>Recent Posts</span></a></li><li class="wpb-tab-popular"><a href="#tab-popular-3" title="Most Popular"><i class="icon-star"></i><span>Most Popular</span></a></li><li class="wpb-tab-comments"><a href="#tab-comments-3" title="Comments"><i class="icon-comments-alt"></i><span>Comments</span></a></li></ul><ul id="tab-recent-3" class="list-recent wpb-tab"><li class="format- wpb-thumb-enabled group"><a title="2019 Silverado Diesel Spied Up Close And Personal In Colorado: Video" href="http://gmauthority.com/blog/2018/06/2019-silverado-diesel-spied-up-close-and-personal-in-colorado-video/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2018/06/2019-Chevrolet-Silverado-1500-Duramax-Diesel-Spy-Pictures-Colorado-June-2018-007-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="2019 Chevrolet Silverado 1500 Duramax Diesel - Spy Pictures - Colorado - June 2018 007" srcset="http://gmauthority.com/blog/wp-content/uploads/2018/06/2019-Chevrolet-Silverado-1500-Duramax-Diesel-Spy-Pictures-Colorado-June-2018-007-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2018/06/2019-Chevrolet-Silverado-1500-Duramax-Diesel-Spy-Pictures-Colorado-June-2018-007-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">2019 Silverado Diesel Spied Up Close And Personal In Colorado: Video</i><i class="meta">June 20, 2018</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="Chevrolet Teases Blazer With Fashion Photoshoot" href="http://gmauthority.com/blog/2018/06/chevrolet-teases-blazer-with-with-fashion/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2018/06/Chevrolet-Blazer-Teaser-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Chevrolet Blazer Teaser" srcset="http://gmauthority.com/blog/wp-content/uploads/2018/06/Chevrolet-Blazer-Teaser-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2018/06/Chevrolet-Blazer-Teaser-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Chevrolet Teases Blazer With Fashion Photoshoot</i><i class="meta">June 20, 2018</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="Mil-Spec Modernizes The Hummer H1" href="http://gmauthority.com/blog/2018/06/mil-spec-modernizes-the-hummer-h1/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2018/06/Mil-Spec-Hummer-H1-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Mil-Spec Hummer H1" srcset="http://gmauthority.com/blog/wp-content/uploads/2018/06/Mil-Spec-Hummer-H1-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2018/06/Mil-Spec-Hummer-H1-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Mil-Spec Modernizes The Hummer H1</i><i class="meta">June 20, 2018</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="Dealer Complains Of GM’s Meddling In Fixed Operations" href="http://gmauthority.com/blog/2018/06/dealer-complains-of-gms-meddling-in-fixed-operations/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2017/01/Buick-GMC-Dealer-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Buick GMC Dealer" srcset="http://gmauthority.com/blog/wp-content/uploads/2017/01/Buick-GMC-Dealer-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2017/01/Buick-GMC-Dealer-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Dealer Complains Of GM’s Meddling In Fixed Operations</i><i class="meta">June 20, 2018</i></span></a></li></ul><ul id="tab-popular-3" class="list-popular wpb-tab"><li class="format- wpb-thumb-enabled group"><a title="Poll: Should GM Bring Back Pontiac?" href="http://gmauthority.com/blog/2012/03/poll-is-it-time-to-start-talking-about-pontiac/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2012/03/Pontiac-G8-G3-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Pontiac G8 G3" srcset="http://gmauthority.com/blog/wp-content/uploads/2012/03/Pontiac-G8-G3-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2012/03/Pontiac-G8-G3-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Poll: Should GM Bring Back Pontiac?</i><i class="meta">March 28, 2012</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="GMT 900 GMC, Chevy Vehicles Subject To Frequently Cracking Dashboards" href="http://gmauthority.com/blog/2012/08/gmt-900-gmc-chevy-vehicles-subject-to-frequently-cracking-dashboards/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2012/08/Cracked-Dashboard-GMT900-trucks-and-suvs-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Cracked Dashboard - GMT900 trucks and suvs" srcset="http://gmauthority.com/blog/wp-content/uploads/2012/08/Cracked-Dashboard-GMT900-trucks-and-suvs-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2012/08/Cracked-Dashboard-GMT900-trucks-and-suvs-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">GMT 900 GMC, Chevy Vehicles Subject To Frequently Cracking Dashboards</i><i class="meta">August 11, 2012</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="Don Is Upset That Chevy Doesn’t Offer A CD Player In The Equinox: Mailbag" href="http://gmauthority.com/blog/2015/10/don-is-upset-that-chevy-doesnt-offer-a-cd-player-in-the-equinox-mailbag/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2015/02/2016-Chevrolet-Equinox-Live-2015-Chicago-Auto-Show-03-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="2016 Chevrolet Equinox Live - 2015 Chicago Auto Show 03" srcset="http://gmauthority.com/blog/wp-content/uploads/2015/02/2016-Chevrolet-Equinox-Live-2015-Chicago-Auto-Show-03-720x479.jpg 720w, http://gmauthority.com/blog/wp-content/uploads/2015/02/2016-Chevrolet-Equinox-Live-2015-Chicago-Auto-Show-03-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2015/02/2016-Chevrolet-Equinox-Live-2015-Chicago-Auto-Show-03-192x128.jpg 192w, http://gmauthority.com/blog/wp-content/uploads/2015/02/2016-Chevrolet-Equinox-Live-2015-Chicago-Auto-Show-03.jpg 850w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">Don Is Upset That Chevy Doesn’t Offer A CD Player In The Equinox: Mailbag</i><i class="meta">October 11, 2015</i></span></a></li><li class="format- wpb-thumb-enabled group"><a title="GM Working On Software Update To Improve iPhone 5 Bluetooth Connectivity" href="http://gmauthority.com/blog/2012/11/gm-working-on-software-update-to-improve-iphone-5-bluetooth-connectivity/"><span class="wpb-thumb"><img width="96" height="64" src="http://gmauthority.com/blog/wp-content/uploads/2012/11/Apple-Siri-Eyes-Free-Chevrolet-MyLink-04-96x64.jpg" class="attachment-size-thumbnail-tiny size-size-thumbnail-tiny wp-post-image" alt="Apple Siri Eyes Free - Chevrolet MyLink 04" srcset="http://gmauthority.com/blog/wp-content/uploads/2012/11/Apple-Siri-Eyes-Free-Chevrolet-MyLink-04-96x64.jpg 96w, http://gmauthority.com/blog/wp-content/uploads/2012/11/Apple-Siri-Eyes-Free-Chevrolet-MyLink-04-192x128.jpg 192w" sizes="(max-width: 96px) 100vw, 96px"></span><span class="wpb-text"><i class="title">GM Working On Software Update To Improve iPhone 5 Bluetooth Connectivity</i><i class="meta">November 28, 2012</i></span></a></li></ul><ul id="tab-comments-3" class="list-comments wpb-tab"><li class="group wpb-thumb-enabled"><a title="1990 GM Minivans See A Retro Review: Video" href="http://gmauthority.com/blog/2018/06/1990-gm-minivans-see-a-retro-review-video/#comment-739003"><span class="wpb-thumb"><img alt="" src="http://1.gravatar.com/avatar/727d0749ad632dab53fe5d2655709819?s=128&amp;r=g" srcset="http://1.gravatar.com/avatar/727d0749ad632dab53fe5d2655709819?s=256&amp;r=g 2x" class="avatar avatar-128 photo" height="128" width="128"></span><span class="wpb-text"><i class="meta">Rich on:</i><i class="title">1990 GM Minivans See A Retro Review: Video</i></span></a></li><li class="group wpb-thumb-enabled"><a title="Mid-Engine C8 Corvette Breaks Down At Fuel Station, Gets A Tow" href="http://gmauthority.com/blog/2018/06/mid-engine-c8-corvette-breaks-down-at-fuel-station-gets-a-tow/#comment-739002"><span class="wpb-thumb"><img alt="" src="http://1.gravatar.com/avatar/7829d472004a3e3f86fea97087411cd0?s=128&amp;r=g" srcset="http://1.gravatar.com/avatar/7829d472004a3e3f86fea97087411cd0?s=256&amp;r=g 2x" class="avatar avatar-128 photo" height="128" width="128"></span><span class="wpb-text"><i class="meta">Alex Luft on:</i><i class="title">Mid-Engine C8 Corvette Breaks Down At Fuel Station, Gets A Tow</i></span></a></li><li class="group wpb-thumb-enabled"><a title="Mid-Engine C8 Corvette Breaks Down At Fuel Station, Gets A Tow" href="http://gmauthority.com/blog/2018/06/mid-engine-c8-corvette-breaks-down-at-fuel-station-gets-a-tow/#comment-739001"><span class="wpb-thumb"><img alt="" src="http://1.gravatar.com/avatar/706de49f616b0762040818b63857f44c?s=128&amp;r=g" srcset="http://1.gravatar.com/avatar/706de49f616b0762040818b63857f44c?s=256&amp;r=g 2x" class="avatar avatar-128 photo" height="128" width="128"></span><span class="wpb-text"><i class="meta">Vanilla Ice on:</i><i class="title">Mid-Engine C8 Corvette Breaks Down At Fuel Station, Gets A Tow</i></span></a></li><li class="group wpb-thumb-enabled"><a title="2019 Silverado Diesel Spied Up Close And Personal In Colorado: Video" href="http://gmauthority.com/blog/2018/06/2019-silverado-diesel-spied-up-close-and-personal-in-colorado-video/#comment-739000"><span class="wpb-thumb"><img alt="" src="http://0.gravatar.com/avatar/6f4e53889dd932eccf010423ab846b98?s=128&amp;r=g" srcset="http://0.gravatar.com/avatar/6f4e53889dd932eccf010423ab846b98?s=256&amp;r=g 2x" class="avatar avatar-128 photo" height="128" width="128"></span><span class="wpb-text"><i class="meta">Andrew on:</i><i class="title">2019 Silverado Diesel Spied Up Close And Personal In Colorado: Video</i></span></a></li></ul></li></ul>
 </div>
 <div class="grid one-third">
 <ul><li id="text-65" class="widget widget_text"><h3 class="widget-title fix"><span>ABOUT GM AUTHORITY</span></h3> <div class="textwidget"><span style="color:#FFFFFF;">GM Authority is a must-read for <a href="http://gmauthority.com">GM news</a>, <a href="http://gmauthority.com/blog/category/gma-special/rumormill/">GM rumors</a>, <a href="http://gmauthority.com/blog/category/gma-special/review/">GM reviews</a>, and information about General Motors vehicles.<br><br>
@@ -525,6 +430,7 @@ We also encourage you to check out our sister publications:
 <li>- Fiat Chrysler Authority for the latest <a href="http://fcauthority.com">Fiat Chrysler News</a> and <a href="http://fcauthority.com/forum/">Fiat Chrysler Forums</a></li>
 </ul>
 </span></div>
+</li><li id="text-100" class="widget widget_text"> <div class="textwidget"><script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us2.list-manage.com","uuid":"fbb4437084c33acc25fbd24ca","lid":"ee2a2d8e48"}) })</script></div>
 </li></ul>
 </div>
 <div class="grid one-third last">
@@ -563,7 +469,7 @@ We also encourage you to check out our sister publications:
 <div class="bbp-submit-wrapper">
 <button type="submit" name="user-submit" id="user-submit" tabindex="104" class="button submit user-submit">Log In</button>
 <input type="hidden" name="user-cookie" value="1">
-<input type="hidden" id="bbp_redirect_to" name="redirect_to" value="http://gmauthority.com/blog/privacy-policy/"><input type="hidden" id="_wpnonce" name="_wpnonce" value="440c0b2d24"><input type="hidden" name="_wp_http_referer" value="/blog/privacy-policy/">
+<input type="hidden" id="bbp_redirect_to" name="redirect_to" value="http://gmauthority.com/blog/privacy-policy/"><input type="hidden" id="_wpnonce" name="_wpnonce" value="ee804c1bf9"><input type="hidden" name="_wp_http_referer" value="/blog/privacy-policy/">
 </div>
 <div class="bbp-login-links">
 <a href="http://gmauthority.com/blog/register/" title="Register" class="bbp-register-link">Register</a>
@@ -583,7 +489,7 @@ We also encourage you to check out our sister publications:
 <div id="footer-bottom">
 <div class="container">
 <div class="pad group">
-<p id="copyright">© COPYRIGHT 2017 POWERED BY LSX V8 ENGINES, LOVE &amp; REVERENCE.</p>
+<p id="copyright">© COPYRIGHT 2018 POWERED BY LSX V8 ENGINES, LOVE &amp; REVERENCE.</p>
 <a id="to-top" href="#"><i class="icon-angle-up"></i></a>
 </div>
 </div>
@@ -637,13 +543,13 @@ We also encourage you to check out our sister publications:
 <a class="lost" href="http://gmauthority.com/blog/lost-password/">Lost your password?</a>
 <input class="submit_button" type="submit" value="Login" name="submit">
 <div class="close">X</div>
-<input type="hidden" id="security" name="security" value="124a6fdf3d"><input type="hidden" name="_wp_http_referer" value="/blog/privacy-policy/"> </form>
+<input type="hidden" id="security" name="security" value="988b473c16"><input type="hidden" name="_wp_http_referer" value="/blog/privacy-policy/"> </form>
 <form id="search" action="/" method="get">
 <div class="close">X</div>
 <input id="mb-searcvhbox" type="text" placeholder="Search..." name="s" class="mtmb-searchbox" required="" autofocus="">
 <p class="search-label">Type Keyword(s) to search</p>
 </form>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201749"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201825"></script>
 <script type="text/javascript" src="http://gmauthority.com/blog/wp-includes/js/comment-reply.min.js?ver=76bf6ada53fa5f6b0c1295a41cc80c9d"></script>
 <script type="text/javascript" src="http://gmauthority.com/blog/wp-content/themes/typegrid11/js/jquery.jplayer.min.js?ver=2.1.0"></script>
 <script type="text/javascript" src="http://gmauthority.com/blog/wp-content/themes/typegrid11/js/jquery.flexslider.min.js?ver=2.1"></script>
@@ -659,10 +565,10 @@ var ajax_login_object = {"ajaxurl":"http:\/\/gmauthority.com\/blog\/wp-admin\/ad
 <script type="text/javascript" src="http://gmauthority.com/blog/wp-content/plugins/motrolix-top-menu-bar/inc/js/mtmb-ajax-login.js?ver=0.1.36"></script>
 <script type="text/javascript" src="http://gmauthority.com/blog/wp-content/plugins/motrolix-top-menu-bar/inc/js/fastclick.js?ver=0.1.36"></script>
 <script type="text/javascript" src="http://gmauthority.com/blog/wp-includes/js/wp-embed.min.js?ver=76bf6ada53fa5f6b0c1295a41cc80c9d"></script>
-<script type="text/javascript" src="http://stats.wp.com/e-201749.js" async="" defer=""></script>
+<script type="text/javascript" src="http://stats.wp.com/e-201825.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:3.9.7',blog:'10786057',post:'136162',tz:'-8',srv:'gmauthority.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.7',blog:'10786057',post:'136162',tz:'-7',srv:'gmauthority.com'} ]);
 	_stq.push([ 'clickTrackerInit', '10786057', '136162' ]);
 </script>
 <script type="text/javascript">
