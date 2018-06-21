@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222221427id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621171315id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PrimaryGames - Play Free Online Games
 
 **Privacy Policy**
 
-#### Effective: April 8, 2015
+#### Effective: May 6, 2018
 
-**PrimaryGames.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. PrimaryGames is intended to provide http://www.primarygames.com/science/farmanimals/games/catdragdrop/fun and educational resources for kids and teens to use under the guidance of their parents and teachers. As required by The Children's Online Privacy Protection Act ("COPPA"), we provide this privacy policy to inform parents and legal guardians (collectively, “Parents”) about our privacy practices on our site www.primarygames.com.
+**PrimaryGames.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. PrimaryGames is intended to provide fun and educational resources for kids and teens to use under the guidance of their parents and teachers. As required by The Children's Online Privacy Protection Act ("COPPA"), we provide this privacy policy to inform parents and legal guardians (collectively, “Parents”) about our privacy practices on our site www.primarygames.com.
 
 #### Information Automatically Logged
 
@@ -26,19 +26,11 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 You can view the privacy policies for each ad company by following the links below:
 
-BURST! Media: <http://www.burstmedia.com/privacy.html>
-
-Casale Media: <http://www.casalemedia.com/privacy.html>
-
 Google Adsense: <http://www.google.com/privacy.html>
 
 CPMStar: <http://www.cpmstar.com/privacyPolicy.html>
 
-Viacom Media Network Tribes: <http://www.viacom.com/privacypolicy/Pages/default.aspx>
-
 Optimatic: <http://www.optimatic.com/dev.optimatic.com/Files/privacy.htm>
-
-Glam Media: <http://www.glammedia.com/about_glam/legal/privacy-security/>
 
 Commission Junction: <http://www.cj.com/legal/privacy_web_user.html>
 
