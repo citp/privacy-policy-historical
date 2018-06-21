@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skisilverstar.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053120id_/http%3A//www.skisilverstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skisilverstar.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621021517id_/http%3A//www.skisilverstar.com/privacy-policy) for the most accurate reproduction.*
 
-# Silver Star Mountain Resort
+# Privacy Policy | Silver Star Mountain Resort
 
-Silver Star Ski Resort Ltd. (the “Organization”)
+SilverStar Ski Resort Ltd. (the “Organization”)
 
 1\. PURPOSES
 
@@ -56,4 +56,4 @@ g. Other Proceedings This process does not bar or prohibit individuals from acce
 
 10\. THE PERSONAL INFORMATION ADMINISTRATOR
 
-For the purposes set out herein and in the Act, the contact information for the Organization’s Personal Information Administrator is: Alicia McCool Controller Silver Star Ski Resort Ltd. PO Box 3002 Silver Star Mountain, BC V1B 3M1 Tel: 250-542-0224 Fax: 250-542-1236
+For the purposes set out herein and in the Act, the contact information for the Organization’s Personal Information Administrator is: Alicia McCool Controller SilverStar Ski Resort Ltd. PO Box 3002 SilverStar Mountain, BC V1B 3M1 Tel: 250-542-0224 Fax: 250-542-1236
