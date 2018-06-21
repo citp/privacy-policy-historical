@@ -1,11 +1,16 @@
-<!--The following is the downloaded HTML source of the corporationwiki.com privacy policy that was archived on 2017-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171201234335id_/https%3A//www.corporationwiki.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the corporationwiki.com privacy policy that was archived on 2018-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180621162736id_/https%3A//www.corporationwiki.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <meta property="env" content="web6">
+    <meta property="env" content="web2">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+    <!-- Ezoic Code 
+    <script>var ezoicId = 58206;</script>
+    <script type="text/javascript" src="//go.ezoic.net/ezoic/ezoic.js"></script>
+     Ezoic Code -->
 
     <link rel="canonical" href="https://www.corporationwiki.com/privacy-policy">
 
@@ -33,7 +38,7 @@
 <meta name="twitter:title" content="Privacy Policy">
 
 
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="application/ld+json">
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="application/ld+json">
     {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -52,8 +57,11 @@
 
 
 
-<script src="https://ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=9550929&amp;uid=corporationwiki" id="sBeacon"></script>
+<script>
+    var a = {}
+</script>
 
+<script src="https://ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=9550929&amp;uid=corporationwiki" id="sBeacon"></script>
 
 <script>
 
@@ -82,10 +90,13 @@
         //    bidCpmAdjustment : adjustBidCpm
         //},
         brealtime: {
-            bidCpmAdjustment : function(bidCpm){
-                var adjBidCpm = bidCpm * 0.8;
-                console.log('adjusting brealtime cpm from ' + bidCpm + " to " + adjBidCpm)
-                return adjBidCpm;
+            bidCpmAdjustment: function (bidCpm) {
+
+                if (bidCpm) {
+                    var adjBidCpm = bidCpm * 0.8;
+                    console.log('adjusting brealtime cpm from ' + bidCpm + " to " + adjBidCpm)
+                    return adjBidCpm;
+                }
             }
         }
     };
@@ -114,6 +125,39 @@
 
 </script>
 <!-- Prebid Config Section END -->
+
+
+<script>
+    var slots = [];
+
+
+    console.log('slots', slots)
+</script>
+
+<script>
+    //load the apstag.js library
+    !function (a9, a, p, s, t, A, g) { if (a[a9]) return; function q(c, r) { a[a9]._Q.push([c, r]) } a[a9] = { init: function () { q("i", arguments) }, fetchBids: function () { q("f", arguments) }, setDisplayBids: function () { }, targetingKeys: function () { return [] }, _Q: [] }; A = p.createElement(s); A.async = !0; A.src = t; g = p.getElementsByTagName(s)[0]; g.parentNode.insertBefore(A, g) }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js");
+
+    //initialize the apstag.js library on the page to allow bidding
+    apstag.init({
+        pubID: 'a055286f-41fb-4fae-9d92-1cf473be9793',
+        adServer: 'googletag'
+    });
+
+
+
+    apstag.fetchBids({
+        slots: slots,
+        timeout: 2e3
+    }, function (bids) {
+        // set apstag targeting on googletag, then trigger the first DFP request in googletag's disableInitialLoad integration
+        googletag.cmd.push(function () {
+            apstag.setDisplayBids();
+            //googletag.pubads().refresh();
+        });
+    });
+</script>
+
 <!-- Prebid Boilerplate Section START. No Need to Edit. -->
 <script type="text/javascript" src="/public/scripts/prebid.js" async=""></script>
 
@@ -121,11 +165,11 @@
 <script>
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
-    googletag.cmd.push(function() {
+    googletag.cmd.push(function () {
         googletag.pubads().disableInitialLoad();
     });
 
-    pbjs.que.push(function() {
+    pbjs.que.push(function () {
 
         pbjs.addAdUnits(adUnits);
         pbjs.setPriceGranularity({
@@ -142,12 +186,12 @@
     });
 
     function sendAdserverRequest() {
-        
+
         if (pbjs.adserverRequestSent) return;
 
         pbjs.adserverRequestSent = true;
-        googletag.cmd.push(function() {
-            pbjs.que.push(function() {
+        googletag.cmd.push(function () {
+            pbjs.que.push(function () {
 
                 pbjs.setTargetingForGPTAsync();
                 googletag.pubads().refresh();
@@ -155,7 +199,7 @@
         });
     }
 
-    setTimeout(function() {
+    setTimeout(function () {
         sendAdserverRequest();
     }, PREBID_TIMEOUT);
 
@@ -169,7 +213,7 @@
         gads.type = 'text/javascript';
         var useSSL = 'https:' == document.location.protocol;
         gads.src = (useSSL ? 'https:' : 'http:') +
-                '//www.googletagservices.com/tag/js/gpt.js';
+            '//www.googletagservices.com/tag/js/gpt.js';
         var node = document.getElementsByTagName('script')[0];
         node.parentNode.insertBefore(gads, node);
     })();
@@ -185,28 +229,15 @@
 
 
 
-
-
-
-
-
-        
-
         googletag.pubads().enableSingleRequest();
         googletag.enableServices();
 
     });
 
-    //pbjs.que.push(function () {
-    //    pbjs.enableAnalytics([{
-    //        provider: 'ga',
-    //        options: {
-    //            enableDistribution: false
-    //        }
-    //    }
-    //    ]);
-    //});
+
 </script>
+
+
 
 
 
@@ -432,21 +463,11 @@
 
             </div>
 
-            <div class="col-sm-6">
-                <div class="pull-right">
-                    <span class="">Follow us on</span>
 
-                    <a href="https://plus.google.com/102482929934812236764" rel="publisher"><span class="ico-gplus ico-blue"></span>Google+</a>
-                    |
-                    <a href="https://www.facebook.com/corporationwiki" data-original-title=""><span class="ico-facebook ico-blue"></span>Facebook</a>
-                    |
-                    <a href="https://twitter.com/corporationwiki" data-original-title=""><span class="ico-twitter ico-blue"></span>Twitter</a>
-                </div>
-            </div>
         </div>
         <div class="row-fluid">
             <div class="col-sm-12 muted">
-                <h6>Copyright © 2017 Corporation Wiki by Sagewire Research LLC all rights reserved.</h6>
+                <h6>Copyright © 2018 Corporation Wiki by Sagewire Research LLC all rights reserved.</h6>
             </div>
         </div>
         <div class="row-fluid">
