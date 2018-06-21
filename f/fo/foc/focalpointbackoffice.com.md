@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focalpointbackoffice.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904210855id_/http%3A//www.focalpointsystem.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focalpointbackoffice.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621202716id_/http%3A//www.focalpointsystem.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FocalPoint - Privacy Policy
 
@@ -72,6 +72,20 @@ As part of the California Online Privacy Protection Act, all users of our servic
 
 We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act); we do not knowingly collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. If a child under 13 submits personal information to FocalPoint and we learn that personal information is the information of a child under 13, we will attempt to delete the information as soon as possible.
 
+##### GDPR Compliance
+
+This affects our customers from the European Union (“EU”) and the European Economic Area (“EEA”). Information that we collect may be processed, transferred to, and stored at, a destination outside the EEA in and between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+
+If you are in the EU, information which you provide may be transferred to countries (including the United States, which do not have data protection laws equivalent to those in force in the European Union. You expressly agree to such transfers. These transfers are used for the purpose of providing you with exemplary service according to the information use cases outlined in this Privacy Policy.
+
+It may also be processed by staff operating outside the EEA who work for us, or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing.
+
+It is important to note that, where recipients of messages residing in the EU, sent through the FocalPoint system on behalf of our customers, are concerned, FocalPoint is the Processor, whereas the system user on whose behalf the message is being sent is the Controller of any personal data belonging to the recipient.
+
+Under the circumstances, to avoid GDPR violations, FocalPoint requires that all recipients of all messages being sent through the system that reside in the EU manually subscribe to the mailings via web form or other means, said subscription confirming their desire to receive communications from the Controller and/or the Processor, and granting the Controller and the Processor the consent to store and process any personal data in accordance with this privacy policy and the GDPR.
+
+FocalPoint expressly forbids the use of mailing lists or other mechanisms of acquiring recipient data for the purpose of sending messages to residents of the EU who have not expressed prior consent to receive such messages and to have their data stored and processed within the system. Any damages resulting from the violation of this policy and/or the GDPR will be passed on to the Controller in accordance with applicable laws.
+
 ##### Online Privacy Policy Only
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
@@ -88,7 +102,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will include those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 9/29/2014.
+This policy was last modified on 05/25/2018.
 
 ##### Contacting Us
 
@@ -96,7 +110,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 ### FocalPoint
 
-10 Corporate Place South, Suite 101  
+200 Centennial Ave, Suite 200 #248  
 Piscataway, NJ 08854
 
 [CustomerCare@FocalPointSystem.com](mailto:CustomerCare@FocalPointSystem.com) FocalPoint Sales:       (800) 363-5519 (Extension 1) Outside US/Canada:  (732) 582-0199 (Extension 1)
