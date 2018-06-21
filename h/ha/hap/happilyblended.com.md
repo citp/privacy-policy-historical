@@ -1,74 +1,34 @@
-> *The following text is extracted and transformed from the happilyblended.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220035446id_/http%3A//happilyblended.com/about-2/privay-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happilyblended.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621112757id_/http%3A//happilyblended.com/about-2/privay-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
-**What information do we collect?**
+## Happily Blended Privacy Policy
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
+In the light of General Data Protection Regulation (EU) 2016/679 (the GDPR), we have revised our privacy policy to protect your personal information provided to us through online, offline or website data collection. It is our foremost responsibility to comply with the laws and regulations set out for the residents of EU. The structure of our policy incorporates the additional specifications required by the GDPR for the disclosure of information and the dissemination practices used by our website.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number.
+Keeping the policy naturally understandable for you (our audience) as per the new regulations, here’s a disclosure of the revisions to our privacy policy.
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+### Third Party Advertising
 
-See [Google Adsense Privacy Policy here](http://www.google.com/intl/en/privacy/ads/privacy-policy.html), my website does have Google Ads on site, in addition Google Ads are found on my YouTube videos.
+We disclose aggregated information (excluding your name, address, email address or telephone number) to third party websites that advertise on our website. The information includes the number of visits to and from our website to advertise goods and services congruent to your interests. These third-party service providers can be our employees or contractors, our business partners, sponsors, courts or tribunals and data analysis sites like Google Analytics. These third-party websites use the information to make suggestions based on your likes and dislikes. For more information regarding this practice, click [here](http://optout.networkadvertising.org/?c=1#!/).
 
-**What do we use your information for?**
+By giving us your personal information, you agree to its dissemination to third parties. The third party can only process information in conformity with our written instructions. By ‘processing’ in this clause or in general across our Privacy Policy, we mean any procedure undertaken on personal information by automated means such as collecting, structuring, organizing, recording, retrieving or disseminating.
 
-Any of the information we collect from you may be used in one of the following ways:
+By giving us your personal information, you agree to the dissemination of your personal information to third parties.  
+Where the disclosure of your personal information is subject to GDPR, you acknowledge that there are risks if the third party outside the EEA engages in any act or practice that would contravene the GDPR and where there is no adequacy decision in place with the country outside the EEA or appropriate safeguards in place with the third party.
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+### Third Party Cookies
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+We may use cookies on our website occasionally. Cookies are files that are stored in your browser carrying the information regarding your preferences. Cookies, by default, don’t impart any kind of personally identifiable information. However, cookies inform us about your preferences that third-party websites like Google and Facebook use to make advertisements relative to them. If and when you decide to share information with us, the information shall be linked to the data in the cookie.
 
-• To administer a contest, promotion, survey or other site feature
+### Personal Information
 
-• To send periodic emails
+We are not in the practice of collecting your personal information or any information that gives out your identification or contact details. Since we do not collect any personal information on this Website, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+### External Links
 
-**How do we protect your information?**
+This site contains links to other sites. Happily Blended is not responsible for the privacy practices or the content of such Web sites.
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
+### Contacting the Web Site
 
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Your Consent**
-
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-http://www.happilyblended.com  
-, New Hampshire  
-United States  
-brandyellen@happilyblended.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact](http://www.wackyowl.com/contact/) us.
