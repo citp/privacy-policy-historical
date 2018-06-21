@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandmondial.eu privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220064235id_/http%3A//www.grandmondial.eu/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandmondial.eu privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621041723id_/http%3A//www.grandmondial.eu/en/privacy) for the most accurate reproduction.*
 
 # Security : Grand Mondial Casino Privacy Policy
 
@@ -36,6 +36,19 @@ Grand Mondial Casino website works by using cookies and Active X components for 
   7. **Grand Mondial Casino guarantees:**
     1. Not to sell, give away, or otherwise communicate your personal or corporate information to any other persons or companies. If you would like to unsubscribe from our mailing list please contact [The Casino Support Centre](mailto:support@crhelpdesk.com?subject=Grand%20Mondial%20Casino%20Website%20Contact).
     2. To use your personal data to provide you with information or materials only if you requested it.
+  8. **Verification Policy**
+    1. By registering an Account with Grand Mondial Casino, the Player is giving the Casino consent to conduct any verification as required.
+    2. Grand Mondial Casino reserves the right to ask Players for verification documents following deposits and/or prior to executing a withdrawal.
+    3. Where it is required for any fraud or anti-money laundering investigations, the Casino may request additional information to ascertain the Player’s source of funds and/or wealth.
+    4. For verification purposes, Grand Mondial Casino reserves the right to ask for a clear copy of (but is not limited to): 
+      1. Valid identity document (passport, national ID card or driver’s licence)
+      2. A copy of the card in question showing the card holder name, or evidence of the deposit method used (if applicable)
+      3. Documents confirming residence, such as a bank statement or utility bill, no older than 3 months
+    5. Should it be deemed necessary Grand Mondial Casino may also require these documents to be certified by a registered Notary.
+    6. Casino play at Grand Mondial Casino is available only to persons older than 18 years of age. Anyone using the casino software who is found to be under the age of 18 will have all game play voided and any winnings forfeited. Grand Mondial Casino may also report the matter to relevant authorities.
+    7. Grand Mondial Casino reserves the right to seek information about the extent of the Player’s intended gambling during the verification process.
+    8. Any documents provided to Grand Mondial Casino will be held in confidence and stored for five years from the date on which Player’s Account is closed (unless there is a regulatory reason which Casino must comply with which extends this period).
+    9. Grand Mondial Casino takes a Risk based approach to mitigate the presence of money laundering, fraud and criminal activity. A Player’s account may be frozen and any payment withheld, where the casino is unable to verify the Player’s identity.
 
 
 
