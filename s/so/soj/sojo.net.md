@@ -1,45 +1,48 @@
-> *The following text is extracted and transformed from the sojo.net privacy policy that was archived on 2011-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111022030758id_/http%3A//www.sojo.net/index.cfm%3Faction%3Dabout_us.privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sojo.net privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621030522id_/https%3A//sojo.net/privacy-policy) for the most accurate reproduction.*
 
-# Sojourners : About Us : Privacy Statement
+# Privacy Policy | Sojourners
 
-### Privacy Statement
+_Sojourners is committed to preserving your privacy and safeguarding your information. None of your personal data, including email address and physical address, is ever shared beyond our own platforms or sold.  The following statements describe our general information-gathering and usage practices:_
 
-_Sojourners is committed to preserving your privacy and safeguarding your information online. The following statement describes the general information-gathering and usage practices of our website:_
+**Magazine Subscriptions**  
+Personal identifying information (data about you) is collected when you subscribe, through the webpages hosted on our site. These webpages are hosted for Sojourners by our Circulation Service Provider, Cambey & West Inc.
 
-**E-mail Lists**   
-Sojourners will not sell, trade, or give away e-mail addresses that are subscribed to our e-mail lists - such as SojoMail, our weekly e-mail newsletter - to any other organization or entity without your consent. 
+This Personal identifying information (PII) includes your name, email address, mailing address, and phone number that you provided. You will have also provided a credit card to pay for your subscription, and while needed for processing your payment, the card number is not stored. Instead the transaction id received back from the card processor is stored. All of the PII data is stored within the Cambey & West system, which has been tested and verified to be PCI compliant as a Level 1 Service Provider by an independent agency. This is a thorough and rigorous testing of the security, proving the inability to penetrate and acquire any data stored within it.
 
-**Online Store and Resources**  
-Orders for our online store and resources are processed on our own  
-secure server and through a secure connection with eCommerce by  
-Volusion. Sojourners does not sell or trade names or other personal data  
-that we collect through the online store or resource sales. 
+When you submitted a subscription form hosted on our site, you entered into an agreement with us to provide you the subscription you requested in exchange for PII and the subscription fees. Your data will not be shared with any third parties without your express consent.Your PII is retained for the duration of your subscription.
 
-**Donations**   
-Online credit card donations to Sojourners are processed securely by our contracted e-commerce service. We maintain this information in our database of supporters in order to keep you abreast of our future work and related issues that may be of interest to you. If you do not want to receive materials from us, you can e-mail our development department at [donate@sojo.net](mailto:donate@sojo.net) or call 202-328-8842. 
+Since this is your data, at any point you have the right to:
 
-**Magazine Subscriptions**   
-Online subscription orders (including gift subscriptions and free trial issues) are securely processed by Kable News Company Inc. Read the "Personal Information" portion of their [privacy policy](http://www.kable.com/privacy.asp) for more information. 
-
-**How sojo.net uses cookies**   
-Certain parts of our site require a free registration process to view premium content. This registration process requires cookies to be enabled in order to function properly and so that you don't need to re-register with future visits. If you're concerned about using cookies because you've been told they're a security risk, let us explain how we use them: 
-
-  * We do not store any personally-identifiable information in cookies. 
-  * Our Web site only reads the cookies it creates. 
+  * access and review your data
+  * correct your data
+  * withdraw your consent
+  * be forgotten, erasure of your data.
 
 
 
-Having no ability to read personal information on your hard drive, our cookies are just a method of noting that you've registered for our site in the past - so that you don't have to register each time you visit us. The information you submit at the time of registration is not stored in the cookie, but in our secure SojoMail subscription database. If you unsubscribe from SojoMail, that personal information is wiped out, but your cookie will still tell our site that you've registered - so even though you've unsubscribed from SojoMail, you won't have to re-register to view our premium Web content. Rest assured, cookies aren't a way for us to track your movements on the Web or spy on your hard drive, we're just trying to make your experience on our Web site more convenient. 
+You can manage your subscription by logging in and [going here](https://sojo.net/magazine/subscribe/manage) or contact [sojourners@sojo.net](mailto:sojourners@sojo.net) / 202.328.8842 to request changes to your account. Requests will be addressed in 30 days or less.
 
-Most browsers have cookies enabled by default, but you may need to enable them manually. This process varies for different browsers. You may also have other security/utility software running which is blocking our use of cookies. Please see your software's documentation to determine how to enable cookies. 
+**Preaching the Word Subscriptions**  
+To ensure access to the Preaching the Word section of the website, we ask subscribers to create a user account, which requires collecting an email. Preaching the Word subscriptions are securely processed by our contracted vendor Recurly. See Recurly's Privacy Policy [here](https://recurly.com/legal/privacy). 
 
-You can also click on the links below for information on how to adjust your cookie preferences for these popular browsers: 
+**E-mail Lists**  
+Sojourners uses Blackbaud's Luminate program to manage emails gathered on the website. Read about Blackbaud's General Data Protection Regulation compliance [here](https://www.blackbaud.com/general-data-protection-regulation). 
 
-  * [Microsoft Internet Explorer](http://www.microsoft.com/info/cookies.htm)
-  * [Netscape Navigator](http://www.netscape.com/legal_notices/cookies.html)
-  * [Mozilla Firefox](http://texturizer.net/firefox/cookies.html)
-  * [Mozilla Suite](http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html)
+We ask for data, such as zip codes, so that we can send you the most relevant event announcements or opportunities for action. Sojourners will not sell, trade, or give away email addresses that are subscribed to our email lists — such as SojoMail, our weekly email newsletter — to any other organization or entity without your consent. 
 
+**User Accounts**  
+When a visitor registers for a user account on our website — to access the magazine or Preaching the Word content — we collect the user's email address to communicate any updates. [Mange your user account here](https://sojo.net/user?destination=home).
 
+**Cookies**  
+This website uses browser cookies to enhance your user experience and store display preferences.  We do not collect or store any personally identifying data and we certainly don't share or sell data collected in this manner.
 
-If you have further questions about this privacy policy, please contact us at [sojourners@sojo.net](mailto:sojourners@sojo.net) or call 202-328-8842. 
+**Google Analytics**  
+Sojourners uses Google Analytics to better understand our audience by anonymously tracking which pieces are the most read and most engaging, where our visitors come to us from, and to drive our strategy.
+
+As a 501(c)(3) nonprofit, we rely on the generous contributions of our supporters. We value the faithful support of our financial community and therefore take the privacy of our donors very seriously.
+
+Out of mutual respect we will not rent, sell, or exchange any personal donor information with outside parties, organizations, or individuals. This includes all relevant information obtained through online donation forms, dispatched appeals, phone calls, and in person solicitation. Online credit card donations are processed securely by our contracted e-commerce service. We maintain this information in our database in order to keep you up-to-date on our future work and related issues that may be of interest. If you wish to refrain from receiving our emails and/or direct mail solicitation, you can contact our office at [donate@sojo.net](mailto:donate@sojo.net) or call 202-328-8842.
+
+_If you have further questions about this privacy policy, please contact us at[sojourners@sojo.net](mailto:sojourners@sojo.net) or call 202-328-8842._
+
+## Subscribe
