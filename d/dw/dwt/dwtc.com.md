@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwtc.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220032843id_/http%3A//dwtc.com/en/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwtc.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621162048id_/http%3A//dwtc.com/en/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,6 +64,27 @@ Dubai World Trade Center L.L.C.
 P.O. Box 9292, Dubai, UAE 
 
 We will provide you with a readable copy of the personal data that we keep about you, within 40 days; subject to the provision of proof of your identity.
+
+**Rights for EEA Residents**  
+If you are a resident of the EEA, the new European Union law, called the General Data Protection Regulation or “GDPR” gives certain rights to individuals in relation to their personal data. Accordingly, we have implemented additional transparency to help users take advantage of those rights. As available and except as limited under applicable law, the rights afforded to individuals are:
+
+Right of Access – the right to be informed of and request access to the personal data we process about you;
+
+Right to Rectification – the right to request that we amend or update your personal data where it is inaccurate or incomplete;
+
+Right to Erasure – the right to request that we delete your personal data;
+
+Right to Restrict – the right to request that we temporarily or permanently stop processing all or some of your personal data;
+
+Right to Object – the right, at any time, to object to us processing your personal data on grounds relating to your particular situation or the right to object to your personal data being processed for direct marketing purposes;
+
+Right to Data Portability – the right to request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party’s service; and
+
+Right not to be subject to Automated Decision-making – the right to not be subject to a decision based solely on automated decision making, including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.
+
+Obligation to provide Personal Information- you do not need to provide Personal Information to use our Site. For use of our Platform you name, email and Company name may be required in order to use the software.
+
+Please email us at [data@dwtc.com](mailto:data@dwtc.com) for assistance with any of the above items. 
 
 **Disclosure and Visitor choice **  
 You may unsubscribe or opt-out of our services at any time. Where we disclose your personal data for those purposes stated, we provide you with the means to opt-out of disclosure by either indicating in a box at the point of the website where personal data is collected, by sending an email to data@dwtc.com or by sending postal mail to the following address:
