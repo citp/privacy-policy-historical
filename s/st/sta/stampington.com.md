@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stampington.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170905id_/https%3A//stampington.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stampington.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622123732id_/https%3A//stampington.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stampington & Company
 
@@ -47,7 +47,13 @@ You are not required to provide any Personal Information in order to have genera
 [BACK TO TOP](https://stampington.com/privacy-policy#top)
 
 **Email Communications**  
-You may be contacted via email by Stampington & Company regarding your order, your account, or certain other matters. Typically, we send two types of email communications. You may receive transactional emails that provide you with information about your order, such as order acknowledgements and confirmations, order numbers, access to the status of your order, notification of shipment and other related information, or other notifications concerning our business relationship. Since we need to communicate this information to you, you will not be able to opt out of such transactional emails. In addition to the transactional emails described above, you also may receive certain promotional email communications unless you have opted out of receiving them. All such promotional email communications will provide you with the option to opt out and thereby not receive such promotions and related promotional email communications in the future.
+
+
+You may be contacted via email by Stampington & Company regarding your order, your account, or certain other matters. Typically, we send two types of email communications. You may receive transactional emails that provide you withinformation about your order, such as order acknowledgements and confirmations, order numbers, access to the status of your order, notification of shipment and other related information, or notifications concerning our business relationship. Since we need to communicate this information to you, you will not be able to opt out of such transactional emails.
+
+In addition to the transactional emails described above, you also may receive certain marketing email communications, including content and newsletters you have signed up for. You can change your mind at any time by clicking the Unsubscribe link in the footer of any non-operational email you receive. 
+
+You will also be able to manage your preferences or choose which type of emails you would like to receive at the bottom of any marketing-related email. Please send an email to [marketing@stampington.com](mailto:marketing@stampington.com) if you need assistance.  
 
 [BACK TO TOP](https://stampington.com/privacy-policy#top)
 
