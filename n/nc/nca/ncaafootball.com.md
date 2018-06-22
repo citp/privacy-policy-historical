@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncaafootball.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109164127id_/http%3A//www.ncaafootball.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncaafootball.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622232632id_/http%3A//www.ncaafootball.com/privacy) for the most accurate reproduction.*
 
 # NCAA.com Privacy Statement | NCAA.com
 
