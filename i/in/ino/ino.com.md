@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ino.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217052806id_/http%3A//www.ino.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ino.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622160627id_/http%3A//www.ino.com/help/privacy.html) for the most accurate reproduction.*
 
 # INO.com Help - Privacy Policy
 
@@ -8,7 +8,11 @@ In the process of operating our various subscribers services, we collect persona
 
 The total information we receive enables INO.com to make improvements to all of our web properties for the benefit of all subscribers.
 
-Personal information tendered to INO.com is used for a number of reasons, including the fulfillment of orders, the fulfillment of subscriptions, delivery of customer-requested email services, design and maintenance of INO.com's custom portfolio services, and when you request information from one of our advertising clients. This can only happen when you click to accept a special offer in a promotional email from INO.com or sign up for a free offer with an advertiser sponsorship. This information is then passed along to our advertising clients in order for them to fulfill your order or request.
+Personal information tendered to INO.com is used for a number of reasons, including the fulfillment of orders, the fulfillment of subscriptions, delivery of customer-requested email services, design and maintenance of INO.com's custom portfolio services, and when you request information from one of our advertising clients. This can only happen when you click to accept a special offer in a promotional email from INO.com or sign up for a free offer with an advertiser sponsorship. This information is then passed along to our advertising client that you have selected in order for them to fulfill your order or request.
+
+**PRIVACY NOTICE FOR EEA INDIVIDUALS** : This section covers disclosures on the General Data Protection Regulation (GDPR) for users residing within EEA only. GDPR replaces the existing Directive 95/46/ec, and aims at harmonizing data protection laws in the EU that are fit for purpose in the digital age. The primary objective of the GDPR is to give citizens back control of their personal data. Please follow the link below to access our [General Data Protection Notice](https://web.archive.org/web/20180622160627id_/http%3A//www.ino.com/help/privacy-gdpr.html) and the [Notice of our Online Advertising Partner](http://stg.media.investingchannel.com/gdpr-notice/). 
+
+**Information about children** : Our websites are not intended for or targeted at children under 16, and we do not knowingly or intentionally collect information about children under 16. If you believe that we have collected information about a child under 16, please contact us at support@ino.com and we will delete the information
 
 Where custom portfolio services are concerned, the use of cookies may also be used to facilitate the login process. Please note that nothing in a cookie allows outside parties to identify you individually.
 
