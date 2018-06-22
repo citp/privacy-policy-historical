@@ -1,35 +1,109 @@
-> *The following text is extracted and transformed from the landlordreferencing.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063624id_/http%3A//www.landlordreferencing.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landlordreferencing.co.uk privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623003737id_/http%3A//www.landlordreferencing.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Landlord Referencing Services Privacy Policy | LandlordReferencing.co.uk
+# Landlord Referencing Services Privacy Policy
 
 ### **Our commitment to your privacy**
 
 At Landlord Referencing Services we are committed to protecting your privacy and we comply with the data protection laws applicable to the United Kingdom. This Privacy Policy outlines how your personal information is treated and forms part of our Conditions of Use.
 
-### **What information do we collect and how do we use it?**
+### Due to the nature of our business we have a legitimate interest requirement to collect various data about you to complete our services. The use of this data is dependent upon the services we are providing to you.
 
-We will not collect any personal information about you unless you have chosen to give it to us. If you require further information, wish to open an account or would like to contact us, we may ask for your name, address, e-mail address and telephone number so that we can contact you accordingly.
+Select the following option that best describes you and explains how the data we gather or hold is used.
 
-When you instruct us to carry our work we need to may need to know your name, e-mail address, delivery and billing addresses, credit or debit card number and the expiry date (if applicable). This allows us to process and fulfil your work and carry out credit checking. We also ask for your telephone number, which enables us to contact you urgently if there is a problem with your request.
+__Guest / Site Visitor __ __
 
-We may use the information provided by you to communicate with you, to provide a more personalised online experience, for record keeping purposes, and in aggregate (and therefore anonymously) for market research purposes, to track activity on our site, to publish trends and/or to improve usefulness and content. We may also use the information we collect to keep you updated with information about promotional offers and what is coming soon at Landlord Referencing Services. If you do not wish to receive this information please let us know.
+We will capture visitor information to help optimize our services. We will collect analytical data of which pages users visit as outlined in the services provided by Google Analytics. Your visit will involve a cookie on your local computer as detailed in our cookie notice.
 
-We may use other companies to provide services on our behalf. These services may include but are not limited to packaging, mailing and delivering purchases, answering customers questions about products or services, sending postal mail and e-mails, analysing data and processing credit or debit card payments. We will only provide those companies with the information they need to deliver the service and they are prohibited from using that information for any other purpose. We may undertake a search with a licensed credit reference agency for the purposes of verifying your identity and the details you have submitted before accepting or despatching your order. The credit reference agency may check the details you supply against any particulars on any database (public or otherwise) that they have access to. They may also use your details in the future to assist other companies for verification purposes. A record of the search will be retained.
+As part of our site we also partner with various advertisers to offer services to YOU that YOU may be interested in.
 
-**We never make your personal details available to companies outside Landlord Referencing Services for marketing purposes.**
+The advertisers we work with may store cookies on your machine to better understand your interests to provide suggestions of relevant services to you. Should you not wish to have these cookies on your computer you can use an ad-blocking service to achieve this, a web search could offer you some good suggestions. Some browsers also have this functionality built in. We hope you will allow these cookies as it helps to maintain our site and offer the informative posts, topics and forum content.
 
-### **How is customer information protected?**
+If you post as a guest on our forum any details you enter WILL be logged on our system for contacting purposes in relation to that post and for identification purposes should the post be held in moderation.
 
-Ordering online is protected by a secure server. The secure server uses industry-standard SSL encryption that encrypts all information you input before it is sent to us. We recommend you use an up to date internet browser which supports 128-bit encryption. Use of an out of date browser or one that does not support 128-bit encryption may compromise the level of security we are able to provide. Internally, we restrict access to personal information. Only employees who need the information in order to do their jobs have access to it.
+__Applicant Tenant / Guarantor (ALSO see Guest / Site Visitor for additional information) __ __
 
-### **Cookies**
+We will request and gather all information in relation to your property application on behalf of your new landlord or agent. This data is the property of your new landlord or agent and we will use it for analytical purposes in relation to processing your property application.
+
+The data we hold about YOU is the data YOU provide. The data provided by any third party eg. employer or agent/landlord references and an Equifax Tenant Verification Report (sometimes referred to as a financial report).
+
+The data submitted in relation to your reference is stored in the UK on a dedicated server. The dedicated server has a dedicated Cisco firewall and a software firewall to help keep your data secure. All responses, forms and database information is encrypted to the highest standards. All online forms and data viewing areas are under SSL (padlock in your address bar) connections (to confirm security in transit). All documents submitted are stored in hashed folder locations and URL manipulation is used to hide their location. ALL Data in relation to any references can ONLY be accessed by secure login. It can ONLY be accessed by your new landlord / agent and Landlord Referencing staff where required.
+
+In order to process your application Landlord Referencing makes use of the Google Suite of products. Any emails received, emailed documents and internal documents and spreadsheets are used within the Google Suite range of services. Due to this your data may be stored in a location outside of the EU. Google are committed to GDPR compliance and at Landlord Referencing we take full advantage of their expertise and security procedures, including account monitoring, 2 factor authentication for our team, suspicious login monitoring. File sharing limitations and group administration. Full details can be found in their[ whitepaper](https://services.google.com/fh/files/misc/gdprwhitepaperenglish.pdf).
+
+Any forms submitted shall be held on our system indefinitely until such time as your Landlord or Agent chooses to remove them. Any uploaded documents EXCEPT items uploaded to the ID FIELD on your evidence upload form (eg. images, pdfs) submitted in relation to your application shall be removed from our systems 6 months after submission. – This comes into affect as of 6 months from 25th May, applying to ALL historic data.
+
+Landlord Referencing offers a full Property Management system to our customers, your data in relation to your application for that specific address will stay on our customers file until THEY choose to remove it. This is separate to our referencing services.
+
+Landlord Referencing has always required our users to provide consent and does not believe in opt-out but rather opt-in practice. By supplying your information for your property application you understand and have agreed to the terms and conditions as listed on our application form. Should you wish your details to be removed you may request to your Landlord or Agent to remove them however you may find that our systems are more secure than an individuals personal computer should they need to keep local copies for their records.
+
+We use 3rd party service providers to fulfill some of our services and to automate our processes.  
+These services include:  
+**Zapier** – All information processed through Zapier is for integrating our services and allowing communication between our systems. This data is stored for a limited period solely for fault identifying purposes and expires from their system and all traces and records removed. – <https://zapier.com/help/gdpr/>[  
+](https://zapier.com/help/gdpr/)  
+**Mailchimp** – All subscribers are OPT-IN Only, If you join one of our mailing lists we will store your credentials on their systems for providing our email notifications and services. You may UNSUBSCRIBE from EACH list as you wish. <https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation>
+
+We may use ALL the data we gather for internal **  anonymous** analytical purposes to identify industry trends and improve our services. We will **NEVER** sell your data to anyone. No third party will have access to your data. Your data remains the property of your landlord or agent.
+
+HERE is a copy of the Terms and Conditions from the Application form you Have/Will have to agree to:
+
+————————————————————–  
+IMPORTANT – DATA PROTECTION
+
+I agree that you may process, use, record and disclose personal information as detailed. You may make such enquiries as you consider necessary in connection with this or any future application to, or agreement with, yourselves or any member of the Tenant Referencing UK.com Network. You may disclose information about any of my applications or agreements to any fraud avoidance scheme in which you participate or any credit reference agency which will keep details of searches and information about any accounts, including defaults, if applicable I recognise a Land Registry check may be conducted to verify home ownership. Such gathered information/documents may be shared with my landlord/agent/agents landlord in relation to the referencing procedure now or in future.
+
+You may disclose **limited** information about me and my application to organisations for the purpose of research or product development.
+
+Tenants only: If you selected that you want a utility/telecoms quotation. We may use software supplied by Tenant Shop Limited to notify the local council, water supplier(s) and the energy provider(s) in line with your tenancy start date and again on the tenancy end/vacating date.  
+We may ask Tenant Shop to contact you on our behalf by Text, Phone and/or Email to offer you Energy and Media comparisons for your new Tenancy.
+
+Call Centre comparisons are completely optional for you (the tenant) and you can opt out at any time by emailing customerservices@mytenantshop.co.uk  
+Tenant Shop Limited is fully compliant with the data protection act 1998 and a registered member of the Information Commissioners Office with registration number Z305733X and will only use your information for the purposes set out above
+
+By clicking submit you understand that automatic forms will be sent to the 3rd parties we require references from. This is taken from the email addresses you have provided. eg. Agent/Landlord, Accountant, Employer.  
+————————————————————-
+
+__Forum User / Customer (ALSO see Guest / Site Visitor for additional information) __ __
+
+When you joined our services you have given us **full opt-in consent** for us to contact you any time in relation to your account. As a registered customer we are committed to contacting you with any important site/product updates in relation to your account.
+
+We provide YOU with a full tenant and property management system currently FREE of charge. It is offered FREE as a gesture of using our services when you require them, this service may be amended as required by us. The tenant management system is an integral part of our Tenant History Reports.
+
+By using our Referencing or management services you hereby give full consent to share YOUR contact information (Name, Telephone Number and Email ONLY) with ANOTHER Landlord or Agent in the event of a MATCH when searching an applicant Tenants details (Consisting of a MINIMUM match criteria of First Name, Surname & Date of Birth), this information can then be used to contact each other to confirm identity of the applicant and confirm Rental History.
+
+We _**do not store any credit or debit card details**_ and should you wish to make additional purchases these details would be requested again to handle the transaction.
+
+The data submitted in relation to your references and databases is stored in the UK on a dedicated server. The dedicated server has a dedicated Cisco firewall and a software firewall to help keep your data secure. All responses, forms and database information is encrypted to the highest standards. All online forms and data viewing areas are under SSL (padlock in your address bar) connections (to confirm security in transit). All documents submitted are stored in hashed folder locations and URL manipulation is used to hide their location. ALL Data in relation to any references can ONLY be accessed by secure login. It can ONLY be accessed by your new landlord / agent and Landlord Referencing staff where required.
+
+In order to process your application Landlord Referencing makes use of the Google Suite of products. Any emails received, emailed documents and internal documents and spreadsheets are used within the Google Suite range of services. Due to this your data may be stored in a location outside of the EU. Google are committed to GDPR compliance and at Landlord Referencing we take full advantage of their expertise and security procedures, including account monitoring, 2 factor authentication for our team, suspicious login monitoring. File sharing limitations and group administration. Full details can be found in their[ whitepaper](https://services.google.com/fh/files/misc/gdprwhitepaperenglish.pdf).
+
+> Any forms submitted shall be held on our system **indefinitely** until such time as **YOU** choose to remove them. Any uploaded documents EXCEPT items uploaded to the ID FIELD on your evidence upload form (eg. images, pdfs) submitted in relation to your references whether Serviced Referencing OR DIY Referencing shall be **removed from our systems 6 months after submission.** – This comes into affect as of 6 months from 25th May, applying to **ALL historic data**.
+
+Landlord Referencing offers a full Property Management system to our customers, your data in relation to your application for that specific address will stay on our customers file until THEY choose to remove it. This is separate to our referencing services.
+
+Landlord Referencing has always required our users to provide consent and does not believe in opt-out but rather opt-in practice. By supplying your information for your property application you understand and have agreed to the terms and conditions as listed on our application form. Should you wish your details to be removed you may request to your Landlord or Agent to remove them however you may find that our systems are more secure than an individuals personal computer should they need to keep local copies for their records.
+
+We use 3rd party service providers to fulfill some of our services and to automate our processes.  
+These services include:  
+**Zapier** – All information processed through Zapier is for integrating our services and allowing communication between our systems. This data is stored for a limited period solely for fault identifying purposes and expires from their system and all traces and records removed. – <https://zapier.com/help/gdpr/>[  
+](https://zapier.com/help/gdpr/)  
+**Mailchimp** – All subscribers are OPT-IN Only, If you join one of our mailing lists we will store your credentials on their systems for providing our email notifications and services. You may UNSUBSCRIBE from EACH list as you wish. <https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation>
+
+In relation to Referencing please see the Tenant Tab to see the terms and conditions relating to their application and data if you require clarification. In order to get the notifications when 3rd parties reply, your email address is included in the reference requests unique links.  This will trigger the email to your account.
+
+###   **Cookies**
 
 Cookies are small files that a web site places on your hard disk to enable additional features of the web site to work. Our cookies do not contain any personally identifying information but they do enable us to provide a user-friendly experience. We do not use cookies to gather personal information such as a person’s name or e-mail address. In order to track usage on our web site, we may use cookies to identify repeat visitors to the web site and to determine the path visitors take on our site. Any information gathered by the use of cookies is compiled on an aggregate, anonymous basis.
 
+We use third party advertising services to promote products to our users/visitors. These third parties may also use cookies to store visitor data.
+
+Cookies are used to allow a user to login/logout of our system, these are known as “session” cookies and are present while logged in. Both out operating platform and our forum platform use different session cookies.
+
 Use of cookies is an industry standard and many web sites use them. Most internet browsers automatically accept cookies. If you do not wish to receive cookies, or want to be notified of when they are placed, you can set your internet browser to do so, if your browser so permits. Without cookies enabled you can still use some of the features of our site.
 
-**Landlord Referencing Services fully complies with the New EU cookie law (e-Provacy Directive).[read on.](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies.aspx)**
+**Landlord Referencing Services fully complies with the New EU cookie law (e-Provacy Directive).[read on.](https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies/)**
 
 ### **Changes to this Privacy Policy**
 
 If we decide to change our Privacy Policy we will post those changes on this page so that you are always aware of what information we collect and how we use it.
+
+Comments are disabled. 
