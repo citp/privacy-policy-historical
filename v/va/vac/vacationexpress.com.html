@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vacationexpress.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606121139id_/http%3A//www.vacationexpress.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vacationexpress.com privacy policy that was archived on 2018-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180622035539id_/http%3A//www.vacationexpress.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>Privacy Policy - Vacation Express</title>
@@ -180,7 +180,7 @@
         var strrespath = 'res/stwmain.aspx';
         var strmyaccounthtml = '';
         var strmycarthtml = '';
-        var strloginhtml = '<a href="https://www.vacationexpress.com/res/?Action=HOME">Login</a>';
+        var strloginhtml = '<a href="https://pro.vacationexpress.com/res/?Action=HOME">Login</a>';
         if (document.location.host.toLowerCase().indexOf("preview.vacationexpress.com") > -1) {
             strloginhtml = '<a href="https://preview.vacationexpress.com/res/?Action=HOME">Login</a>';
         } else if (document.location.host.toLowerCase().indexOf("localhost") > -1) {
@@ -206,7 +206,7 @@
                             $("#HedaerLogout").toggleClass("hidden");
                             $("#boxSignupFooter").parent().toggleClass("hidden");
 
-                            //$("#HedaerLogout a").append(" (" + user.userid + ")");
+                            $("#HedaerLogout a").append(" (" + user.userid + ")");
                         }
                     }
                 }
@@ -309,12 +309,20 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="topmenu">
                     <ul class="nav navbar-nav navbar-right">
-                        <li id="HeaderLogIn"><a href="https://pro.vacationexpress.com/res/stwmain.aspx?action=HOME" title="Sign In">Sign In</a></li>
+                        <li id="HeaderLogIn"><a id="signInLink" href="https://web.archive.org/res/stwmain.aspx?action=HOME" title="Sign In">Sign In</a></li>
+                        <script type="text/javascript">
+                            if (window.location.hostname.split('.')[0] === "www") {
+                                document.getElementById('signInLink').href = "https://pro.vacationexpress.com/res/stwmain.aspx?action=HOME"
+                            } else if (window.location.hostname === "localhost") {
+                                document.getElementById('signInLink').href = window.location.href.replace("https:", "http:")
+                            }else {
+                                document.getElementById('signInLink').href = "https://" + window.location.hostname + "/res/stwmain.aspx?action=HOME"
+                            }
+                        </script>
                         <li id="HeaderMyAccount" class="hidden"><a href="/res/stwmain.aspx?action=home" title="My Account">My Account</a></li>
                         <li id="HeaderMyCart" class="hidden"><a href="/res/stwmain.aspx?action=cart" title="My Cart">My Cart</a></li>
                         <li id="HedaerLogout" class="hidden"><a href="/res/stwmain.aspx?action=logout" title="Log Out">Log Out</a></li>
-                        <li class="hidden"><a href="javascript:void(0);" data-toggle="popover" data-placement="bottom" data-animation="true" data-html="true" aria-haspopup="true" data-content="<i class='fa fa-phone'></i> 1.800.309.4717">Contact Us <i class="fa fa-caret-down"></i></a></li>
-                        <li><a href="#" data-toggle="popover" data-placement="bottom" data-animation="true" data-html="true" aria-haspopup="true" data-content="<i class='fa fa-phone'></i> 1.800.309.4717" data-original-title="" title="" aria-describedby="popover935515">Contact Us <i class="fa fa-caret-down"></i></a><div class="popover fade bottom in hidden" role="tooltip" id="popover935515" style="top: 49px; left: -19.8281px; display: block;"><div class="arrow" style="left: 50%;"></div><h3 class="popover-title" style="display: none;"></h3><div class="popover-content"><i class="fa fa-phone"></i> 1.800.309.4717</div></div></li>
+                        <li id="HeaderPhone"><div style="padding:7px 8px;"><i class="fa fa-phone"></i>1.800.309.4717&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></li>
 						<li><a href="/manage-booking/" title="My Booking" class="mybooking">My Booking</a></li>
                     </ul>
                 </div>
@@ -322,7 +330,7 @@
             </nav>
         </div>
     </div>
-    <div class="bluebg">
+    <div class="bluebg" style="margin-top: 0;">
         <div class="container">
             <nav id="primary" role="navigation" aria-label="Main menu">
                 <ul class="nav navbar-nav">
@@ -344,7 +352,7 @@
                             <li><a href="/antigua/" title="Antigua Hotels">Antigua Hotels</a></li>
                             <li><a href="/aruba/" title="Aruba Hotels">Aruba Hotels</a></li>
                             <li><a href="/turks-caicos/" title="Turks &amp; Caicos Hotels">Turks &amp; Caicos Hotels</a></li>
-                            <li><a href="http://cuba.vacationexpress.com/" title="Cuba Hotels">Cuba Hotels</a></li>
+                            <li><a href="/st-lucia/" title="St. Lucia">St. Lucia Hotels</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
@@ -362,54 +370,30 @@
                             <li><a href="/antigua/" title="Antigua">Antigua</a></li>
                             <li><a href="/aruba/" title="Aruba">Aruba</a></li>
                             <li><a href="/turks-caicos/" title="Turks &amp; Caicos">Turks &amp; Caicos</a></li>
-                            <li><a href="http://cuba.vacationexpress.com/" title="Cuba">Cuba</a></li>
+                            <li><a href="/st-lucia/" title="St. Lucia">St. Lucia</a></li>
                             <li><a href="/destinations/" title="All Destinations">All Destinations</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="/mexico-caribbean-vacation-map.aspx/" title="Interactive Map">Interactive Map</a></li>
                         </ul>
                     </li>
                     <li><a href="/group-services/" title="Group Travel">Group Travel</a></li>
                     <li><a href="/wedding-honeymoon/" title="Weddings">Weddings</a></li>
+                   <!--DEALS MEGA MENU-->
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Deals <i class="fa fa-angle-down"></i></a>
-                        <ul class="dropdown-menu multi-column columns-3 push-right">
+                        <ul class="dropdown-menu multi-column columns-3">
                             <div class="row">
-                                                                <div class="col-sm-3">
-                                    <ul class="multi-column-dropdown">
-                                        <li class="dropdown-header">Last Minute Deals</li>
-                                        <li role="separator" class="divider"></li>
-										<li><a href="/atlanta-last-minute-deals/">             Atlanta, GA 	  </a></li>
-										<li><a href="/baltimore-last-minute-deals/">           Baltimore, MD    </a></li>
-                                        <li><a href="/boston-last-minute-deals/">              Boston, MA       </a></li>
-										<li><a href="/buffalo-last-minute-deals/">             Buffalo, NY	  </a></li>
-										<li><a href="/charlotte-last-minute-deals/">           Charlotte, NC    </a></li>
-                                        <li><a href="/chicago-last-minute-deals/">             Chicago, IL      </a></li>
-										<li><a href="/cincinnati-last-minute-deals/">          Cincinnati, OH   </a></li>
-										<li><a href="/cleveland-last-minute-deals/">           Cleveland, OH	  </a></li>
-										<li><a href="/columbus-last-minute-deals/">            Columbus, OH 	  </a></li>
-										<li><a href="/dallas-last-minute-deals/">              Dallas, TX 	  </a></li>
-                                        <li><a href="/detroit-last-minute-deals/ ">    Detroit, MI | Windsor, ON</a></li>
+                                <div class="col-sm-12" style="padding-left: 3%; padding-right: 3%;">
+                                    <ul class="multi-column-dropdown" style="border-bottom: 1px solid #fff;">
+                                        <li class="dropdown-header" style="text-align: left; padding-bottom: 1%;">DEALS</li>
                                     </ul>
                                 </div>
+                            </div>
+                            <div class="row">
                                 <div class="col-sm-3">
                                     <ul class="multi-column-dropdown">
-                                        <li class="dropdown-header">&nbsp;</li>
-                                        <li>&nbsp;</li>
-										<li><a href="/houston-last-minute-deals/">             Houston, TX 	  </a></li>
-										<li><a href="/indianapolis-last-minute-deals/">        Indianapolis, IN </a></li>
-                                        <li><a href="/memphis-last-minute-deals/">             Memphis, TN      </a></li>
-                                        <li><a href="/miami-last-minute-deals/">               Miami, FL        </a></li>
-                                        <li><a href="/nashville-last-minute-deals/">           Nashville, TN    </a></li>
-                                        <li><a href="/new-orleans-last-minute-deals/">         New Orleans, LA  </a></li>
-                                        <li><a href="/new-york-last-minute-deals/">            Newark, NJ | New York </a></li>
-                                        <li><a href="/philadelphia-last-minute-deals/">        Philadelphia, PA </a></li>
-                                        <li><a href="/pittsburgh-last-minute-deals/">          Pittsburgh, PA   </a></li>
-                                    </ul>
-                                </div>
-
-                                <div class="col-sm-3">
-                                    <ul class="multi-column-dropdown">
-                                        <li class="dropdown-header">Early Booking Deals</li>
-                                        <li role="separator" class="divider"></li>
                                         <li><a href="/atlanta-early-booking-deals/">Atlanta, GA</a></li>
+                                        <li><a href="/austin-early-booking-deals/">Austin, TX</a></li>
                                         <li><a href="/baltimore-early-booking-deals/">Baltimore, MD</a></li>
                                         <li><a href="/boston-early-booking-deals/">Boston, MA</a></li>
                                         <li><a href="/buffalo-early-booking-deals/">Buffalo, NY</a></li>
@@ -418,29 +402,53 @@
                                         <li><a href="/cincinnati-early-booking-deals/">Cincinnati, OH</a></li>
                                         <li><a href="/cleveland-early-booking-deals/">Cleveland, OH</a></li>
                                         <li><a href="/columbus-early-booking-deals/">Columbus, OH</a></li>
-                                        <li><a href="/dallas-early-booking-deals/">Dallas, TX</a></li>
-                                        <li><a href="/detroit-early-booking-deals/">Detroit, MI | Windsor, ON</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-sm-3">
                                     <ul class="multi-column-dropdown">
-                                        <li class="dropdown-header">&nbsp;</li>
-                                        <li>&nbsp;</li>
+                                        <li><a href="/dallas-early-booking-deals/">Dallas, TX</a></li>
+                                        <li><a href="/denver-early-booking-deals/">Denver, CO</a></li>
+                                        <li><a href="/detroit-early-booking-deals/">Detroit, MI</a></li>
+                                        <li><a href="/ft-lauderdale-early-booking-deals/">Ft. Lauderdale, FL</a></li>
+                                        <li><a href="/hartford-early-booking-deals/">Hartford, CT</a></li>
                                         <li><a href="/houston-early-booking-deals/">Houston, TX</a></li>
                                         <li><a href="/indianapolis-early-booking-deals/">Indianapolis, IN</a></li>
+                                        <li><a href="/kansas-city-early-booking-deals/">Kansas City, MO</a></li>
+                                        <li><a href="/los-angeles-early-booking-deals/">Los Angeles, CA</a></li>
                                         <li><a href="/memphis-early-booking-deals/">Memphis, TN</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-3">
+                                    <ul class="multi-column-dropdown">
                                         <li><a href="/miami-early-booking-deals/">Miami, FL</a></li>
+                                        <li><a href="/minneapolis-early-booking-deals/">Minneapolis, MN</a></li>
                                         <li><a href="/nashville-early-booking-deals/">Nashville, TN</a></li>
-                                        <li><a href="/newark-early-booking-deals/">Newark, NJ | New York</a></li>
                                         <li><a href="/new-orleans-early-booking-deals/">New Orleans, LA</a></li>
+                                        <li><a href="/new-york-early-booking-deals/">New York, NY</a></li>
+                                        <li><a href="/newark-early-booking-deals/">Newark, NJ</a></li>
+                                        <li><a href="/orlando-early-booking-deals/">Orlando, FL</a></li>
                                         <li><a href="/philadelphia-early-booking-deals/">Philadelphia, PA</a></li>
+                                        <li><a href="/phoenix-early-booking-deals/">Phoenix, AZ</a></li>
                                         <li><a href="/pittsburgh-early-booking-deals/">Pittsburgh, PA</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-3">
+                                    <ul class="multi-column-dropdown">
+                                        <li><a href="/portland-early-booking-deals/">Portland, OR</a></li>
+                                        <li><a href="/raleigh-early-booking-deals/">Raleigh, NC</a></li>
+                                        <li><a href="/richmond-early-booking-deals/">Richmond, VA</a></li>
+                                        <li><a href="/sacramento-early-booking-deals/">Sacramento, CA</a></li>
+                                        <li><a href="/san-diego-early-booking-deals/">San Diego, CA</a></li>
+                                        <li><a href="/san-francisco-early-booking-deals/">San Francisco, CA</a></li>
+                                        <li><a href="/seattle-early-booking-deals/">Seattle, WA</a></li>
+                                        <li><a href="/st-louis-early-booking-deals/">St. Louis, MO</a></li>
                                         <li><a href="/tampa-early-booking-deals/">Tampa, FL</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </ul>
                     </li>
+                    <!--DEALS MEGA MENU-->
                 </ul>
             </nav>
         </div>
@@ -450,8 +458,17 @@
     //call method to set the correct tab background colors
     SetTabs();
 </script>
-
-
+ <script type="text/javascript">
+     if (window.location.hostname.split('.')[0] === "www") {
+         //do nothing
+     } else if (window.location.hostname === "localhost") {
+         //do nothing
+     } else {
+         var sessid = QueryString("SessID");
+         $("form[name=main_form]").attr("action", "https://" + window.location.hostname.split('.')[0] + ".vacationexpress.com/res/stwmain.aspx?SessID=" + sessid + "&Action=SEQLIST");
+         document.getElementById('signInLink').href = "https://" + window.location.hostname + "/res/stwmain.aspx?action=HOME"
+     }
+</script>
     </header>
     <article>
 		<div class="container">
@@ -805,7 +822,7 @@
                     <h3 class="new">Full Privacy Policy</h3>
 					<p>
 						<span class="anchor-link"><a name="section1">1: Scope and Consent</a></span><br>
-						When you use the Site, you are contracting with Vacation Express located at Vacation Express, 3495 Piedmont Road, Building 11, Suite 400, Atlanta, GA 30305, USA. If you reside outside of the United States, Vacation Express is your data controller. By using the Site, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy, the <a href="/include/terms-use.aspx">Terms of Use</a>, <a href="/cookies-and-tracking-technologies/">Cookies and Tracking Technologies Policy</a>, and our <a href="/travel-agents/eft-terms/">Terms and Conditions for Electronic Funds Transfer Payment</a>.
+						When you use the Site, you are contracting with Vacation Express located at Vacation Express, 3500 Piedmont Road, Suite 600, Atlanta, GA 30305, USA. If you reside outside of the United States, Vacation Express is your data controller. By using the Site, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy, the <a href="/include/terms-use.aspx">Terms of Use</a>, <a href="/cookies-and-tracking-technologies/">Cookies and Tracking Technologies Policy</a>, and our <a href="/travel-agents/eft-terms/">Terms and Conditions for Electronic Funds Transfer Payment</a>.
 					</p>  
 
 					<p>
@@ -887,7 +904,7 @@
 								<strong>[a]</strong> <strong><u>Vacation Express:</u></strong> We may share the information we collect about you with affiliated entities. We will use this information to send you marketing communications and you will have the opportunity to opt-out in email communications. 
 							</li>
 							<li>
-								<strong>[b]</strong> <strong><u>Service Providers, Suppliers and Other Third-Parties:</u></strong> We may disclose your information to service providers under contract who help with our business operations [such as, but not limited to, fraud investigations, bill collection, payment processing, voucher certificate support, transportation, tour activities, webinars, cloud, ad service providers, site analytics and operations], suppliers such as hotels, flight operators, tour providers, insurance providers and similar entities that offer services that help us serve you better. We may also facilitate our Site to permit third-party service providers to collect information from you for security and fraud prevention purposes. Your information may be disclosed to service providers to: <strong>[i]</strong> provide joint content and our services [e.g., registration, transactions, analytics and customer support]; <strong>[ii]</strong> help detect and prevent potentially illegal acts, violations of our policies, fraud, and/or data security breaches; and <strong>[iii]</strong> guide decisions about Vacation Express or third-party products, sites, applications, services, tools, and communications. We may also work with suppliers [e.g., hotels] to deliver marketing opportunities to you that might be of most interest. If you have questions or want further information, please contact us per <a href="#section14">Section 14</a> of this Privacy Policy. 
+								<strong>[b]</strong> <strong><u>Service Providers, Suppliers and Other Third-Parties:</u></strong> We may disclose your information to service providers under contract who help with our business operations [such as, but not limited to, fraud investigations, bill collection, payment processing, voucher certificate support, transportation, tour activities, webinars, cloud, ad service providers, targeted advertising to provide offers that we think may be of most interest to you, site analytics and operations], suppliers such as hotels, flight operators, tour providers, insurance providers and similar entities that offer services that help us serve you better. We may also facilitate our Site to permit third-party service providers to collect information from you for security and fraud prevention purposes. Your information may be disclosed to service providers to: <strong>[i]</strong> provide joint content and our services [e.g., registration, transactions, analytics and customer support]; <strong>[ii]</strong> help detect and prevent potentially illegal acts, violations of our policies, fraud, and/or data security breaches; and <strong>[iii]</strong> guide decisions about Vacation Express or third-party products, sites, applications, services, tools, and communications. We may also work with suppliers [e.g., hotels] to deliver marketing opportunities to you that might be of most interest. If you have questions or want further information, please contact us per <a href="#section14">Section 14</a> of this Privacy Policy. 
 							</li>
 							<li>
 								<strong>[c]</strong> <strong><u>Other Entities with Your Consent:</u></strong> Other third-parties to whom you explicitly ask us to send your information [or about whom you are otherwise explicitly notified and consent to when using a specific service]. On the Site, you may have opportunities to express interest in or register for other services. If you do, we will provide information about you to those third-parties, or parties working on their behalf, to implement your request. 
@@ -957,7 +974,7 @@
 						<span class="anchor-link"><a name="section8">8: Notice to California Residents</a></span><br>
 						</p><ul class="list reset">
 							<li>
-								<strong>[a]</strong> <strong><u>Residents of the State of California:</u></strong> may request a list of all third-parties to which our online service has disclosed certain personal information [as defined by California law] during the preceding year for those third-parties’ direct marketing purposes. If you are a California resident and want such a list, please contact us at: Vacation Express, 3495 Piedmont Road, Building 11, Suite 400, Atlanta, GA, 30305, USA, Attn: Privacy Officer. For all requests, you must put the statement "Your California Privacy Rights" in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide enough information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, email or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information. 
+								<strong>[a]</strong> <strong><u>Residents of the State of California:</u></strong> may request a list of all third-parties to which our online service has disclosed certain personal information [as defined by California law] during the preceding year for those third-parties’ direct marketing purposes. If you are a California resident and want such a list, please contact us at: Vacation Express, 3500 Piedmont Road, Suite 600, Atlanta, GA, 30305, USA, Attn: Privacy Officer. For all requests, you must put the statement "Your California Privacy Rights" in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide enough information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, email or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information. 
 							</li>
 							<li>
 								<strong>[b]</strong> <strong><u>How We Respond to Do Not Track Signals for California Residents:</u></strong> California Business &amp; Professions Code Section 22575[b] [as amended effective January 1, 2014] provides that California residents are entitled to know how Vacation Express responds to "Do Not Track" browser settings. Vacation Express does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been adopted. We continue to review new technologies and may adopt a standard once it is uniformly accepted. 
@@ -1002,207 +1019,215 @@
 		</div>
 	</article>
 
-	<footer>
-	<div class="container">
-		<div class="row">
-			<div class="col-sm-3 legal">
-				<h4>General Info</h4>
-				<ul>
-					<li><a href="/about-vacation-express/" title="About Us">About Us</a></li>
-					<li><a href="/contact-us/" title="Contact Us">Contact Us</a></li>
-					<li><a href="/faq/" title="FAQs">FAQs</a></li>
-				</ul>
-			</div>
-			<div class="col-sm-3 legal">
-				<h4>Useful Links</h4>
-				<ul>
-					<li><a href="/online-brochures/order-brochure.aspx" title="Order Brochure">Order Brochure</a></li>
-					<li><a href="/flight-schedule/" title="Exclusive Non-Stop Flights">Exclusive Non-Stop Flights</a></li>
-					<li><a href="/airline-services/" title="Optional Airline Services">Optional Airline Services &amp; More</a></li>
-				</ul>
-			</div>
-			<div class="col-sm-3 legal">
-				<h4>Featured Deals</h4>
-				<ul>
-					<li><a href="/cheap-vacation-deals/" title="Cheap Vacations">Cheap Vacations</a></li>
-					<li><a href="/flight-deals/" title="Cheap Flights">Cheap Flights</a></li>
-					<li><a href="/hotels/" title="Hotel Deals">Hotel Deals</a></li>
-				</ul>
-			</div>
-			<div class="col-sm-3 legal">
-				<h4>Legal</h4>
-				<ul>
-					<li><a href="/privacy/" title="Privacy Policy">Privacy Policy</a></li>
-					<li><a href="/terms/" title="Terms and Conditions">Terms and Conditions</a></li>
+	<!-- TEMPLATE PATH: STRes/VacExpress/Main_FooterHomepage.htm START -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3 legal">
+                <h4>General Info</h4>
+                <ul>
+                    <li><a href="/about-vacation-express/" title="About Us">About Us</a></li>
+                    <li><a href="/contact-us/" title="Contact Us">Contact Us</a></li>
+                    <li><a href="/faq/" title="FAQs">FAQs</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3 legal">
+                <h4>Useful Links</h4>
+                <ul>
+                    <li><a href="/online-brochures/order-brochure.aspx" title="Order Brochure">Order Brochure</a></li>
+                    <li><a href="/flight-schedule/" title="Exclusive Non-Stop Flights">Exclusive Non-Stop Flights</a></li>
+                    <li><a href="/airline-services/" title="Optional Airline Services">Optional Airline Services &amp; More</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3 legal">
+                <h4>Featured Deals</h4>
+                <ul>
+                    <li><a href="/cheap-vacation-deals/" title="Cheap Vacations">Cheap Vacations</a></li>
+                    <li><a href="/flight-deals/" title="Cheap Flights">Cheap Flights</a></li>
+                    <li><a href="/hotels/" title="Hotel Deals">Hotel Deals</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3 legal">
+                <h4>Legal</h4>
+                <ul>
+                    <li><a href="/privacy/" title="Privacy Policy">Privacy Policy</a></li>
+                    <li><a href="/terms/" title="Terms and Conditions">Terms and Conditions</a></li>
                     <li><a href="/cookies-and-tracking-technologies/" title="Cookies and Tracking Technologies Policy">Cookies and Tracking Technologies Policy</a></li>
-				</ul>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-3 certified">
-				<h4>Certified by</h4>
-				<ul>
-					<li><a href="http://www.asta.org/MemberServices/content.cfm?ItemNumber=2326" title="ASTA TOP Member" rel="nofollow" target="_blank"><img src="/media/vacexpress/images/asta-logo.gif" alt="ASTA logo"></a></li>
-					<li><a href="#" title="$2 Million E&amp;O Policy"><img src="/media/vacexpress/images/lloyds-of-london-logo.jpg" alt="Lloyds of London logo"></a></li>
-				</ul>
-			</div>
-			<div class="col-sm-3 social">
-				<h4>Social media</h4>
-				<ul>
-					<li><a href="https://www.facebook.com/VacationExpress/" title="Like us on Facebook"><i class="fa fa-facebook-square"></i></a></li>
-					<li><a href="https://twitter.com/VacationExpress" title="Follow us on Twitter"><i class="fa fa-twitter-square"></i></a></li>
-					<li><a href="https://plus.google.com/+Vacationexpress/posts" title="Follow us on Google+"><i class="fa fa-google-plus-square"></i></a></li>
-					<li><a href="https://www.pinterest.com/vacationexpress/" title="Pin us on Pinterest"><i class="fa fa-pinterest-square"></i></a></li>
-					<li><a href="https://instagram.com/vacationexpress/" title="Follow us on Instagram"><i class="fa fa-instagram"></i></a></li>
-				</ul>
-			</div>
-			<div class="col-sm-6">
-				<h4>Get deals to your inbox</h4>
-				<!-- Requires BRAND json.js + availableAirports.js -->
-				<div id="boxSignupFooter">
-					<div id="sccSignupFooter"></div>
-					<div id="errSignupFooter"></div>
-					<div id="frmSignupFooter">
-						<form id="inboxdeals" href="#">
-							<input type="hidden" name="txtCountry" id="txtCountry" value="">
-							<input type="hidden" name="txtPreferredairportCode" id="txtPreferredairportCode" value="">
-							<input type="hidden" name="txtAlternatedairportCode" id="txtAlternateairportCode" value="">
-							<fieldset>
-								<div class="form-group">
-									<label for="firstname" class="">First name</label>
-									<input type="text" name="txtFirstname" id="txtFirstname">
-								</div>
-			
-								<div class="form-group">
-									<label for="lastname" class="">Last name</label>
-									<input type="text" name="txtLastname" id="txtLastname">
-								</div>
-			
-								<div class="form-group">
-									<label for="email" class="">Email address</label>
-									<input type="text" name="txtEmail" id="txtEmail">
-								</div>
-			
-								<div class="form-group">
-									<label for="zipcode" class="">ZIP code</label>
-									<input type="text" name="txtZipcode" id="txtZipcode">
-								</div>
-								<div class="form-group">
-									<label for="preferredairport" class="">Preferred Airport</label>
-									<input type="text" name="txtPreferredairport" id="txtPreferredairport">
-								</div>
-			
-								<div class="form-group">
-									<label for="alternateairport" class="">Alternate Airport</label>
-									<input type="text" name="txtAlternateairport" id="txtAlternateairport">
-								</div>
-								<div class="form-group">
-									<div class="checkbox">
-										<label for="receivepromos"><input id="receivepromos" type="checkbox" name="receivepromos" value="receivepromos"> I consent to receiving promotional emails from Vacation Express and its affiliated companies.</label>
-									</div>
-								</div><!--/checkboxes-->
-								<div class="form-group">
-									<button type="submit" value="Subscribe" class="form_btn arrow" onclick="javascript:SubmitSignupFooter(); return false;">Subscribe</button>
-								</div>
-							</fieldset>
-						</form>
-					</div>
-					<!-- START Sign up Form Footer submit Form -->
-					<script type="text/javascript">
-						function SubmitSignupFooter() {
-							$('#errSignupFooter').css('display', 'none');
-							$('input').removeClass('requiredField');
-							
-							var errMessage = '';
-							var dataMissing = false;
-							var brandID = 'VACEXPRESS'
-							
-							if ($('#txtFirstname').val() == '') { $('#txtFirstname').addClass('requiredField'); dataMissing = true; }
-							if ($('#txtLastname').val() == '') { $('#txtLastname').addClass('requiredField');  dataMissing = true; }
-							if ($('#txtEmail').val() == '') { $('#txtEmail').addClass('requiredField'); dataMissing = true; }
-							if ($('#txtZipcode').val() == '') { $('#txtZipcode').addClass('requiredField'); dataMissing = true; }
-							if ($('#txtPreferredairportCode').val() == '') { $('#txtPreferredairport').val(''); $('#txtPreferredairport').addClass('requiredField'); dataMissing = true; }
-							if ($('#txtAlternateairportCode').val() == '') { $('#txtAlternateairport').val(''); $('#txtAlternateairport').addClass('requiredField'); dataMissing = true; }
-							if (!$('#receivepromos').is(':checked')) { $('#receivepromos').addClass('requiredField'); dataMissing = true; }
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3 certified">
+                <h4>Certified by</h4>
+                <ul>
+                    <li><a href="#" title="$1 Million E&amp;O Policy">
+                        <img src="/media/vacexpress/images/lloyds-of-london-logo.jpg" alt="Lloyds of London logo"></a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3 social">
+                <h4>Social media</h4>
+                <ul>
+                    <li><a href="https://www.facebook.com/VacationExpress/" title="Like us on Facebook"><i class="fa fa-facebook-square"></i></a></li>
+                    <li><a href="https://twitter.com/VacationExpress" title="Follow us on Twitter"><i class="fa fa-twitter-square"></i></a></li>
+                    <li><a href="https://plus.google.com/+Vacationexpress/posts" title="Follow us on Google+"><i class="fa fa-google-plus-square"></i></a></li>
+                    <li><a href="https://www.pinterest.com/vacationexpress/" title="Pin us on Pinterest"><i class="fa fa-pinterest-square"></i></a></li>
+                    <li><a href="https://instagram.com/vacationexpress/" title="Follow us on Instagram"><i class="fa fa-instagram"></i></a></li>
+                </ul>
+            </div>
+            <div class="col-sm-6">
+                <h4>Get deals to your inbox</h4>
+                <!-- Requires BRAND json.js + availableAirports.js -->
+                <div id="boxSignupFooter">
+                    <div id="sccSignupFooter"></div>
+                    <div id="errSignupFooter"></div>
+                    <div id="frmSignupFooter">
+                        <form id="inboxdeals" href="#">
+                            <input type="hidden" name="txtCountry" id="txtCountry" value="">
+                            <input type="hidden" name="txtPreferredairportCode" id="txtPreferredairportCode" value="">
+                            <input type="hidden" name="txtAlternatedairportCode" id="txtAlternateairportCode" value="">
+                            <fieldset>
+                                <div class="form-group">
+                                    <label for="firstname" class="">First name</label>
+                                    <input type="text" name="txtFirstname" id="txtFirstname">
+                                </div>
 
-							if ($('#txtEmail').val() != '') {
-								if (!checkEmail()) {
-									dataMissing = true;
-									errMessage += 'A valid email address is mandatory.<br />';
-									$('#txtEmail').addClass('requiredField');
-								}
-							}
-							
-							if (dataMissing) {
-								errMessage += 'All fields are mandatory.<br />'
-								$('#errSignupFooter').css('display', 'block');
-								$('#errSignupFooter').html('<p>'+errMessage+'</p>');
-								return false;
-							}
-							
-							var qs = '';
-							qs = qs + '&Theme=VACEXPRESS'; // If used with other brand change to the brand. Also, script uses json.js located in /media/[[BRANDID]]/
-							qs = qs + '&txtEventCode=SIGNUPFOOTER';
-							qs = qs + '&txtFirstname=' + encodeURI($('#txtFirstname').val());
-							qs = qs + '&txtLastname=' + encodeURI($('#txtLastname').val());
-							qs = qs + '&txtEmail=' + encodeURI($('#txtEmail').val());
-							qs = qs + '&txtGateway=' + $('#txtPreferredairportCode').val();
-							qs = qs + '&txtZipCode=' + encodeURI($('#txtZipcode').val());
-							qs = qs + '&txtCountry=' + $('#countrycode').val();
-							qs = qs + '&txtAdditionalData=<PreferredAPT>' + $('#txtPreferredairportCode').val() + '</PreferredAPT><Comments><AlternateAirport>' + $('#txtAlternateairportCode').val() + '</AlternateAirport></Comments><MySource>'+brandID+'</MySource><UUID4>' + GetCookie('_UUID4') + '</UUID4>';
-							qs = qs + '&CONUPDATE=Y';
-					
-							try {
-								var resp = JSONGetData('transtype=SAVEEVENTREGISTRATION' + qs);
-								if (resp.response.iserror) {
-									$('#errSignupFooter').css('display', 'block');
-									$('#errSignupFooter').html('<p>An error has occurred. Please try later.</p>');
-									$('#frmSignupFooter').css('display', 'none');
-									return false;
-								}
-								else {
-									$('#sccSignupFooter').css('display', 'block');
-									$('#sccSignupFooter').html('<p>You have been subscribed successfully</p>');
-									dataLayer.push({ 'event': 'GAEvent', 'eventCategory': 'VACEXPRESS Forms', 'eventAction': 'Sign Up Footer', 'eventLabel': 'VACEXPRESS Forms - Sign Up Footer', 'eventValue': undefined });
-									$('#frmSignupFooter').css('display', 'none');
-									return false;
-								}
-							} catch(ex) {
-								$('#errSignupFooter').css('display', 'block');
-								$('#errSignupFooter').html('<p>An error has occurred. Please try later.</p>');
-								$('#frmSignupFooter').css('display', 'none');
-								return false;
-							}
-						}
-					
-						// Needs correction to work with new tlds
-						function checkEmail() {
-							var email = document.getElementById('txtEmail');
-							var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-							if (!filter.test(email.value)) {
-								email.focus;
-								return false;
-							} else {
-								return true;
-							}
-						}
-					</script>
-					<!-- END Sign up Form Footer submit Form -->
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="copyright" id="copyright">
-		<div class="container">
-			<div class="row">
-				<p>© 2017 Vacation Express — All rights reserved. Member of <a href="http://www.sunwingtravelgroup.com/en/our-brands/tour-operations/vacation-express.aspx" target="_blank" rel="nofollow">Sunwing Travel Group</a>. <a href="/state-registered-sellers-of-travel/">Click here</a> for state list of certified sellers of travel. <a href="/include/terms-use.aspx ">Terms of Use</a>.</p>
-				<!-- added only for Softrip driven templates -->
-				<p>&nbsp;</p>
-				<p>Powered by <br><a href="https://www.softrip.com/" rel="nofollow" target="_blank"><img src="/media/vacexpress/images/softrip.png"></a></p>
-			</div>
-		</div>
-	</div>
+                                <div class="form-group">
+                                    <label for="lastname" class="">Last name</label>
+                                    <input type="text" name="txtLastname" id="txtLastname">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="email" class="">Email address</label>
+                                    <input type="text" name="txtEmail" id="txtEmail">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="zipcode" class="">ZIP code</label>
+                                    <input type="text" name="txtZipcode" id="txtZipcode">
+                                </div>
+                                <div class="form-group">
+                                    <label for="preferredairport" class="">Preferred Airport</label>
+                                    <input type="text" name="txtPreferredairport" id="txtPreferredairport">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="alternateairport" class="">Alternate Airport</label>
+                                    <input type="text" name="txtAlternateairport" id="txtAlternateairport">
+                                </div>
+                                <div class="form-group">
+                                    <div class="checkbox">
+                                        <label for="receivepromos">
+                                            <input id="receivepromos" type="checkbox" name="receivepromos" value="receivepromos">
+                                            I consent to receiving promotional emails from Vacation Express and its affiliated companies.</label>
+                                    </div>
+                                </div>
+                                <!--/checkboxes-->
+                                <div class="form-group">
+                                    <button type="submit" value="Subscribe" class="form_btn arrow" onclick="javascript:SubmitSignupFooter(); return false;">Subscribe</button>
+                                </div>
+                            </fieldset>
+                        </form>
+                    </div>
+                    <!-- START Sign up Form Footer submit Form -->
+                    <script type="text/javascript">
+                        function SubmitSignupFooter() {
+                            $('#errSignupFooter').css('display', 'none');
+                            $('input').removeClass('requiredField');
+
+                            var errMessage = '';
+                            var dataMissing = false;
+                            var brandID = 'VACEXPRESS'
+
+                            if ($('#txtFirstname').val() == '') { $('#txtFirstname').addClass('requiredField'); dataMissing = true; }
+                            if ($('#txtLastname').val() == '') { $('#txtLastname').addClass('requiredField'); dataMissing = true; }
+                            if ($('#txtEmail').val() == '') { $('#txtEmail').addClass('requiredField'); dataMissing = true; }
+                            if ($('#txtZipcode').val() == '') { $('#txtZipcode').addClass('requiredField'); dataMissing = true; }
+                            if ($('#txtPreferredairportCode').val() == '') { $('#txtPreferredairport').val(''); $('#txtPreferredairport').addClass('requiredField'); dataMissing = true; }
+                            if ($('#txtAlternateairportCode').val() == '') { $('#txtAlternateairport').val(''); $('#txtAlternateairport').addClass('requiredField'); dataMissing = true; }
+                            if (!$('#receivepromos').is(':checked')) { $('#receivepromos').addClass('requiredField'); dataMissing = true; }
+
+                            if ($('#txtEmail').val() != '') {
+                                if (!checkEmail()) {
+                                    dataMissing = true;
+                                    errMessage += 'A valid email address is mandatory.<br />';
+                                    $('#txtEmail').addClass('requiredField');
+                                }
+                            }
+
+                            if (dataMissing) {
+                                errMessage += 'All fields are mandatory.<br />'
+                                $('#errSignupFooter').css('display', 'block');
+                                $('#errSignupFooter').html('<p>' + errMessage + '</p>');
+                                return false;
+                            }
+
+                            var qs = '';
+                            qs = qs + '&Theme=VACEXPRESS'; // If used with other brand change to the brand. Also, script uses json.js located in /media/[[BRANDID]]/
+                            qs = qs + '&txtEventCode=SIGNUPFOOTER';
+                            qs = qs + '&txtFirstname=' + encodeURI($('#txtFirstname').val());
+                            qs = qs + '&txtLastname=' + encodeURI($('#txtLastname').val());
+                            qs = qs + '&txtEmail=' + encodeURI($('#txtEmail').val());
+                            qs = qs + '&txtGateway=' + $('#txtPreferredairportCode').val();
+                            qs = qs + '&txtZipCode=' + encodeURI($('#txtZipcode').val());
+                            qs = qs + '&txtCountry=' + $('#countrycode').val();
+                            qs = qs + '&txtAdditionalData=<PreferredAPT>' + $('#txtPreferredairportCode').val() + '</PreferredAPT><Comments><AlternateAirport>' + $('#txtAlternateairportCode').val() + '</AlternateAirport></Comments><MySource>' + brandID + '</MySource><UUID4>' + GetCookie('_UUID4') + '</UUID4>';
+                            qs = qs + '&CONUPDATE=Y';
+
+                            try {
+                                var resp = JSONGetData('transtype=SAVEEVENTREGISTRATION' + qs);
+                                if (resp.response.iserror) {
+                                    $('#errSignupFooter').css('display', 'block');
+                                    $('#errSignupFooter').html('<p>An error has occurred. Please try later.</p>');
+                                    $('#frmSignupFooter').css('display', 'none');
+                                    return false;
+                                }
+                                else {
+                                    $('#sccSignupFooter').css('display', 'block');
+                                    $('#sccSignupFooter').html('<p>You have been subscribed successfully</p>');
+                                    dataLayer.push({ 'event': 'GAEvent', 'eventCategory': 'VACEXPRESS Forms', 'eventAction': 'Sign Up Footer', 'eventLabel': 'VACEXPRESS Forms - Sign Up Footer', 'eventValue': undefined });
+                                    $('#frmSignupFooter').css('display', 'none');
+                                    return false;
+                                }
+                            } catch (ex) {
+                                $('#errSignupFooter').css('display', 'block');
+                                $('#errSignupFooter').html('<p>An error has occurred. Please try later.</p>');
+                                $('#frmSignupFooter').css('display', 'none');
+                                return false;
+                            }
+                        }
+
+                        // Needs correction to work with new tlds
+                        function checkEmail() {
+                            var email = document.getElementById('txtEmail');
+                            var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+                            if (!filter.test(email.value)) {
+                                email.focus;
+                                return false;
+                            } else {
+                                return true;
+                            }
+                        }
+                    </script>
+                    <!-- END Sign up Form Footer submit Form -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright" id="copyright">
+        <div class="container">
+            <div class="row">
+                <p>© 2018 Vacation Express — All rights reserved. Member of <a href="http://www.sunwingtravelgroup.com/en/our-brands/tour-operations/vacation-express.aspx" target="_blank" rel="nofollow">Sunwing Travel Group</a>. <a href="/state-registered-sellers-of-travel/">Click here</a> for state list of certified sellers of travel. <a href="/include/terms-use.aspx ">Terms of Use</a>.</p>
+                <!-- added only for Softrip driven templates -->
+                <p>&nbsp;</p>
+                <p>Powered by
+                    <br>
+                    <a href="https://www.softrip.com/" rel="nofollow" target="_blank">
+                        <img src="/media/vacexpress/images/softrip.png"></a></p>
+            </div>
+        </div>
+    </div>
 </footer>
+<!-- TEMPLATE PATH: STRes/VacExpress/Main_FooterHomepage.htm END -->
 
 	
 
