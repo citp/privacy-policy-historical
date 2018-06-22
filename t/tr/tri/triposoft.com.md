@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the triposoft.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217211923id_/http%3A//www.triposoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triposoft.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622032928id_/http%3A//www.triposoft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy –
-
-  * [ ](https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.triposoft.com%2Fprivacy-policy%2F)
-  * [ ](https://twitter.com/intent/tweet?text=Privacy+Policy&url=http%3A%2F%2Fwww.triposoft.com%2Fprivacy-policy%2F)
-  * [ ](https://plus.google.com/share?url=http%3A%2F%2Fwww.triposoft.com%2Fprivacy-policy%2F)
-  * [ ](https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.triposoft.com%2Fprivacy-policy%2F&description=)
-
-
 
 **TripoSoft Privacy Policy**
 
