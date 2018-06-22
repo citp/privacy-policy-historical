@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228214209id_/https%3A//veteransunited.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622173248id_/https%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Veterans United Home Loans
 
@@ -37,7 +37,7 @@ For nonaffiliates to market to you | No | We Don't Share
 To limit our sharing  | 
 
   * Call 855-857-3933 — our menu will prompt you through your choices, or
-  * Visit us online: [www.VeteransUnited.com/opt-out/](https://www.veteransunited.com/opt-out/)
+  * Visit us online: [VeteransUnited.com/opt-out/](https://www.veteransunited.com/opt-out/)
 
 
 
@@ -111,7 +111,7 @@ Other important information
 
 **California Residents –** Except as permitted by law, we will not share information we collect about you with nonaffiliates or joint marketing partners while you are a resident of California. 
 
-**Nevada Residents –** Call 1-855-857-3933 to be placed on our Do-Not-Call list. For more information, mail Veterans United Home Loans Call Center, 1400 Veterans United Dr., Columbia, MO 65203 or email privacy@vu.com. You may also contact the Bureau of Consumer Protection, Office of theNevada Attorney General, 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101, call 702-486-3132, or email DBCPINFO@ag.state.nv.us. This notice is provided pursuant to state law.   
+**Nevada Residents –** Call 1-855-857-3933 to be placed on our Do-Not-Call list. For more information, mail Veterans United Home Loans Call Center, 1400 Veterans United Dr., Columbia, MO 65203 or email privacy@vu.com. You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101, call 702-486-3132, or email DBCPINFO@ag.state.nv.us. This notice is provided pursuant to state law.   
   
 [Click here to download a PDF copy of this Privacy Notice.](https://web.archive.org/assets/pdf/veterans-united-home-loans-privacy-notice.pdf)
 
@@ -153,7 +153,7 @@ We also collect Non-Personal information which includes, but is not limited to: 
 
       1. We use this information to improved our site and better accommodate our visitors. 
 
-      2. We utilize "cookies" throughout our site to improve your experience and to help us understand our visitors' needs. A "cookie" is a small text file that contains your anonymous information and is transferred onto your computer where it is stored, and then allows the website administrator to identify your computer and learn about how you use our web site. A "cookie" will not allow a web site to learn any personally identifiable information, like your name or address, that you otherwise would have disclosed. We use cookie information to identify and correct errors on our site and to determine the popularity of pages and to provide you with an excellent resource for VA loans on the internet.
+      2. We utilize "cookies" throughout our site to improve your experience and to help us understand our visitors' needs. A "cookie" is a small text file that contains your anonymous information and is transferred onto your computer where it is stored, and then allows the website administrator to identify your computer and learn about how you use our web site. A "cookie" will not allow a web site to learn any personally identifiable information, like your name or address, that you otherwise would have disclosed. We use cookie information to identify and correct errors on our site and to determine the popularity of pages and to provide you with an excellent resource for mortgage information on the internet.
 
       3. We collect other site usage information via Google Analytics and Google's DoubleClick cookie to serve ads over time based on a user's prior visits to our website. You may opt out of the DoubleClick cookie by visiting the Google advertising opt out page or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
 
@@ -165,7 +165,7 @@ We also collect Non-Personal information which includes, but is not limited to: 
 
   3. ###  How We Use Your Submitted Information 
 
-    1. As a result of submitting your telephone number and your request to receive more information on a loan, you will receive a call from a Home Loan Specialist. We may contact you directly by phone and/or email as a result of your request, even if the number you supplied is on the National Do Not Call registry. If, however, after you have submitted your information to us and you no longer wish that we contact you at the phone numbers provided, you may instruct us to place you on our internal "do not call" list by calling us at 1-800-884-5560. 
+    1. As a result of submitting your telephone number and your request to receive more information on a loan, you will receive a call from a Home Loan Specialist. You may be contacted directly by phone and/or email as a result of your request, even if the number you supplied is on the National Do Not Call registry. If, however, after you have submitted your information to us and you no longer wish to be contacted at the phone numbers provided, you may instruct us to place you on our internal "do not call" list by calling us at 1-800-884-5560. 
 
     2. You may choose what information to provide us. You may choose to withhold certain information, but this may affect your ability to use certain features of our website. We encourage consumers to disclose all pertinent information so we can provide a high level of customer service and offer the best products for you. 
 
