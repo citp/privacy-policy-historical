@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socyberty.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212203203id_/http%3A//socyberty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socyberty.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622023941id_/http%3A//socyberty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
