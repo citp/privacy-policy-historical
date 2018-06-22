@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mysmartprice.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228111230id_/http%3A//www.mysmartprice.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmartprice.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622220129id_/http%3A//www.mysmartprice.com/privacy.html) for the most accurate reproduction.*
 
 # MySmartPrice Privacy Policy Price
 
    
 We, **MySmartPrice Web Technology Pvt. Ltd.** , a private limited company incorporated under the Indian Companies Act, 1956, having its registered office at **4th floor, GNR's RV Insignia, Image Gardens Road, Madhapur, Hyderabad - 500081, Telangana, India** , (where such expression shall, unless repugnant to the context thereof, be deemed to include its respective legal heirs, representatives, administrators, permitted successors and assigns), the creator of this Privacy Policy ensure our steady commitment to Your privacy with regard to the protection of your invaluable information. This privacy policy contains information about Website (Desktop website, Browser Add-on and Mobile website) and Mobile Application 'MySmartPrice' (hereinafter referred to as 'Website / Application'). In order to provide You with uninterrupted use of Our services, We may collect and, in some circumstances, disclose information about you. To ensure better protection of Your privacy, We provide this notice explaining Our information collection and disclosure policies, and the choices You make about the way Your information is collected and used. 
 
-If You have any queries or concerns regarding this privacy policy, You should contact Our Customer Support Desk by emailing Us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If You have any queries or concerns regarding this privacy policy, You should contact Our Customer Support Desk by emailing Us at hi@mysmartprice.com.
 
 ANY CAPITALIZED WORDS USED HENCEFORTH SHALL HAVE THE MEANING ACCORDED TO THEM UNDER THIS AGREEMENT. FURTHER, ALL HEADINGS USED HEREIN ARE ONLY FOR THE PURPOSE OF ARRANGING THE VARIOUS PROVISIONS OF THE AGREEMENT. NEITHER THE USER NOR THE CREATORS OF THIS PRIVACY POLICY MAY USE THE HEADING TO INTERPRET THE PROVISIONS CONTAINED WITHIN IT IN ANY MANNER.  
   
@@ -45,6 +45,7 @@ We may collect the following information:
   * Your Contacts with whom you can share exciting offers as well as refer them to earn extra cashback.
   * Your application history which enables you to view our cashback offers and discount coupon codes and helps you get a better deal.
   * Access and use applications such as Your Calendar to inform you about upcoming sale events.
+  * Your email data from online shopping portals to provide you a comprehensive view of all your online transactions.
 
   
    
@@ -92,12 +93,12 @@ As a matter of policy, we do not sell or rent any Personal Information about You
   * **Law and Order:** We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can, and You so authorise Us, disclose Your Personal Information to law enforcement and other government officials as We, in Our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose Us/ Us or You to any legal liability.
 
 Any information that you make publically available on the site may be potentially viewed by any party, and by posting such material it is deemed that you consent to share such information with such parties.  
-You may request details of Your Personal Information collected and/ disclosed by Us. Such a request may be made under the Information Technology Act, 2000. If You would require such details, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+You may request details of Your Personal Information collected and/ disclosed by Us. Such a request may be made under the Information Technology Act, 2000. If You would require such details, please email us at hi@mysmartprice.com.   
    
   
 ####  **10.ACCESSING, REVIEWING AND CHANGING YOUR PROFILE:**  
   
-Following registration, You can review and change the information You submitted at the stage of registration. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We shall promptly correct any information found to be incorrect.  
+Following registration, You can review and change the information You submitted at the stage of registration. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at hi@mysmartprice.com. We shall promptly correct any information found to be incorrect.  
 We shall retain in Our files information You have requested to remove for certain circumstances, such as to resolve disputes, troubleshoot problems and enforce Our terms and conditions. Further, such prior information is never completely removed from Our databases due to technical and legal constraints, including stored 'back up' systems. Therefore, You should not expect that all of Your personally identifiable information shall be completely removed from our databases in response to Your requests.  
    
   
