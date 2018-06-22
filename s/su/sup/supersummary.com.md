@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersummary.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217171410id_/http%3A//www.supersummary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersummary.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622163741id_/http%3A//www.supersummary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SuperSummary
 
@@ -7,6 +7,9 @@ This privacy statement is intended to give you, the user of this website, an awa
 #### Third Party Advertising
 
 We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.jobhero.com/privacy#).
+
+  
+
 
 #### Logging and Statistics
 
