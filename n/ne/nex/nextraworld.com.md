@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextraworld.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228034012id_/http%3A//www.nextraworld.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextraworld.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622201511id_/http%3A//www.nextraworld.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Nextra World
 
@@ -25,3 +25,9 @@ In the course of using this website and/ or availing the Services, we may also c
 
 We are expanding our coverage continuously and will soon be coming to your location.   
 Please provide your contact details, we will revert to you when our services are available in your locality. 
+
+  * All plans are only for residential usage and cannot be used for any commercial purposes
+  * Nextra reserves the rights to disconnect or bar any user, if plan is used for any commercial purposes
+  * Data usage above 900 GB shall be considered for commercial purposes
+
+
