@@ -1,73 +1,105 @@
-> *The following text is extracted and transformed from the unica.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224454id_/http%3A//www.unica.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unica.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622185321id_/https%3A//www.ibm.com/privacy/us/en) for the most accurate reproduction.*
 
-# Interactive Marketing, Campaign Management, Web Analytics - Unica
+# IBM Privacy Statement - United States
 
-Your privacy is important to IBM; maintaining trust is paramount to us.
+## This Privacy Statement is effective as of May 2018.
 
-This Privacy Policy describes how IBM Unica ("Unica") collects, uses, transfers and discloses general and personal information obtained through this website at [http://www.unica.com](http://www.unica.com/) ("Website"). As a leading provider of enterprise marketing management software, Unica is committed to establishing and maintaining policies and procedures which protect the privacy of personal information gathered from our customers, prospects and other visitors to our Website and our product websites (which includes our on-demand product systems).  Unica will treat all personal information in accordance with this Privacy Policy or as you otherwise consent.   By using this Website or a product website, or by submitting any personal information to Unica, you acknowledge that you have read, understood, and agree to be bound by the Privacy Policy.  
+At IBM we recognize the importance of protecting your personal information and are committed to processing it responsibly and in compliance with applicable data protection laws in all countries in which IBM operates.
 
-**Generic Information  
-** Our Website is designed to provide visitors with useful news and information about Unica's products and services. Registration is not required in order to access the public areas of our Website. However visitors may, at their option, choose to register in order to access certain resources and areas of our Website. Unica does not collect personal information from individuals who choose to browse our site without registering.  We are committed to consistently improving the quality of our service, website performance, and providing more relevant content to you during your visits.   In order to do so we measure and analyze generic non-identifying, aggregate usage, patterns of traffic, and volume statistical information from all Website visitors.   Information we gather may include, but is not limited to, the activity of the visitor's browser, the visitors' internet service provider and host, the visitor's operating system, and the visitor's location.   
+This Privacy Statement describes IBM's general privacy practices that apply to personal information we collect, use and share about consumers and other individuals within our clients, business partners, supplier and other organizations with which IBM has or contemplates a business relationship.
 
-**Personal Information**  
-If you choose to register to receive more information about our products and services, we will ask for certain information in order to keep you informed about available products and services, to serve you more effectively and efficiently, and to maintain an open communication with you. In addition to contact information that includes, but is not limited to, name, title, company, and business address, telephone number and email, we ask for information regarding your current and future business objectives to help us understand how and when we may be of service to you. We may also ask about your operating environment to accurately present our solution and capabilities, as well as request other information from time to time as needed to aid us in improving our communications, Website, or marketing efforts.   We may further collect log-in information such as user names of customers' customers and internal users that log into the Customer Central portion of our Website or our product websites.  You are not required to provide us with this information to use and enjoy the remainder of the Unica Website and do so on a voluntary basis only.  
+This Privacy Statement is supplemented by the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/), which provides more information in the online context, including recruitment. We may provide additional or more specific information on the collection or use of personal information on websites or related to a specific product or service.
 
-**Cookies  
-** A cookie is an element of data that the Unica Website sends to your browser.  Your browser may store it on your system based the preferences you have set on your browser.  Cookies gather information about your operating system including, but not limited to, screen resolution, browser and IP address.  Unica uses cookies to track non-personal information such as user patterns and uses the data collected to improve the visitor's experience of visiting our Website.  You have the option to configure your Internet browser to notify you when you have received a cookie and providing you with the choice to accept or decline to accept the cookie.  Further, you have the option to block all cookies.  If you need more information regarding your options for handling cookies please refer to information provided with your Internet browser.  Blocking cookies or refusing to accept cookies may affect your experience on the Unica Website.  
+## Why and how we collect and use your personal information
 
-**Web Beacons**  
-Unica uses web beacons in conjunction with cookies to understand user behavior on the Website and product sites. A web beacon is an image, found on a web or HTML-formatted page and is also called a single-pixel (1x1) or clear GIF. The web beacon is one of the elements of the page, similar to other images and text except it is not visible. Unica uses web beacons to collect basic statistics about your organization's use of the Unica products including product name, product page name, your organization name, and the date and time the page was viewed. Unica only gathers information about the use of Unica products. Unica does not sell this information or make this information available to any third parties.  Unica does not gather any other information from your computer, except as described in this Privacy Policy.  
+We may collect your personal information as an individual for various purposes, such as the following:
 
-**Information Use**  
-For our general marketing purposes, we collect and compile information through multiple internal and third party sources including, but not limited to our Website, event marketing, permission-based affiliated marketing, and the use of opt-in lists for prospecting.  We use the information collected to contact you regarding our company or partners, inform you of marketing events and promotions, and discuss the services and products that we offer.  We may also use the information to continuously improve our service and products. 
+  * **Access and use of websites or other online services**   
+When entering one of our websites, or using an online service, we will record information necessary to provide you with access, for the operation of the website and for us to comply with security and legal requirements in relation to operating our site, such as passwords, IP address and browser settings. We also collect information about your activities during your visit in order to personalize your website experience, such as recording your preferences and settings, and to collect statistics to help us improve and further develop our websites, products and services.
+  * **Responding to your request for information, order, or support**   
+When you contact us (online or offline) in connection with a request for information, to order a product or service, to provide you with support, or to participate in a forum or other social computing tool, we collect information necessary to fulfill your request, to grant you access to the product or service, to provide you with support and to be able to contact you. For instance, we collect your name and contact information, details about your request and your agreement with us and the fulfillment, delivery and invoicing of your order and we may include client satisfaction survey information. We retain such information for administrative purposes, defending our rights, and in connection with our relationship with you. 
 
-We store and collect the information in a manner determined most appropriate for the nature of the data collected to fulfill your needs and requests, subject to all applicable data protection requirements.  The information collected may be stored in the United States or any other country in which we or any of our agents maintain facilities, and such countries may not provide a level of protection equivalent to that in your home jurisdiction.  Although the information we collect is primarily for Unica's internal marketing purposes, it may, on occasion, be shared with our partners.  
+When you provide your name and contact information to register in connection with such a request, the registration may serve to identify you when you visit our websites. For ordering of most services and products we require you to have registered an IBMid. Registration may also allow you to customize and control your privacy settings.
 
-**Online Forum  
-** Unica owns and operates the online forum located on its Website.  Registration is required to participate in the online forum.  Personal information may be collected when you register and when you submit information to the online forum.  Unica reserves the right, but shall not be obligated to, pre-screen, review, flag, filter, modify, refuse, or remove any or all content, including personal information, from the forum.  Personal information collected through the online forum will not be used for marketing purposes.  Personal information contained in any submission to the forum may be publicly posted on the forum and otherwise broadly disseminated to other users of the forum.  In particular, the content of submissions may be posted to the entire forum.  Please, therefore, use care and caution when posting any personal information about yourself or others when submitting content to the forum.  
-
-**Blogs and Testimonials**  
-If you chose to comment on any blog postings on the Unica website you provide Unica with express consent to post your comment and should be aware that any personal information you disclose can be seen or collected by other visitors to the site.  We are not responsible for any personal information that you disclose in such forums.  You should take care to ensure your comments do not contain offensive, unlawful, defamatory, libelous, threatening, obscene, pornographic, copyrighted information, or information that would otherwise violate any law or the rights of any third parties.  We reserve the right to delete any postings at our sole discretion.   Unica will not post any user's testimonials or personal information without their consent.   ****
-
-**International Transfers  
-** Unica hosts this Website and its online forum on its servers in the United States.  Any personal information that you submit through the Website or product websites may be transferred to the United States or other jurisdictions that may not provide a level of protection equivalent to that in your home jurisdiction.  Your use of the Website or submission of any personal information will therefore constitute your consent to these transfers.  
-
-**Security**  
-Unica takes reasonable technical and organizational security measures to protect the security of your personal information from loss, misuse, unauthorized access or disclosure, alteration, or destruction and honors your choices for its intended use.  We use advanced firewall protection and various anti-virus software to protect the personal information volunteered on the website and to minimize the risk of a security breach.  We provide unique usernames and passwords that can then be changed by the customer or partner, to our customers and partners that must be entered each time one logs into the Customer Central section of the website or product websites.  Further, we use Secure Socket Layer technology that uses server authentication and data inscription to ensure that our customer and partner data is secure.   Although we thoroughly test the security of our websites and products and want to provide you with the most protection possible, please understand that sharing information over the Internet can never be fully secure.  
-
-**Accessing, Updating, and Opting-out**  
-As a registered user you have the ability to view and change your information by accessing <http://www.unica.com/lookup.htm>.  As a customer you may view and change your information by contacting Customer Central or your Unica support representative if you have one.  To protect your privacy and security, we may take reasonable steps to verify your identity before granting access or making changes to your personal information. Unica honors your choices for the use of your information.  We offer the ability to "opt-out" from various forms of communication at any time, by accessing [www.unica.com/unsubscribe](http://www.unica.com/unsubscribe).  
-
-**Resources  
-** Unica may provide additional resources for information on consumer privacy, privacy legislation, personalization, marketing, and technology initiatives that may be useful to you.  Unica may also provide links to affiliated groups, government associations and the industry associations of which we maintain membership. Unica makes no claims about the accuracy of this information.
-
-Our Website contains links to other websites and we are not responsible for the privacy policy statements of any such sites.  The privacy practices set forth in this Privacy Policy are for this Website and other specified activities only.  Other websites hosted by third parties may have different practices.  It is the responsibility of all visitors to review the individual privacy statements posted at other sites.
-
-**Required Disclosures**  
-We may disclose personal information to third party service providers performing services on our behalf, including hosting our Website, product websites, or online forum and providing other technical support services.  We may also use third party service providers to automatically process data and deliver our marketing information to you.  When you register on our website or for any of our services, we may share your personal information as it becomes necessary for one or more of the third parties to provide service and support to you.  Such third parties are prohibited from using your personal information for any other purpose.
-
-Notwithstanding anything to the contrary contained herein, personal information may be disclosed as necessary or appropriate to protect the security of the Website or online forum; to respond to legitimate requests by law enforcement officials or as otherwise required by law; or in connection with a merger or acquisition of Unica's business.  In any of these situations, the recipient of the personal information may be located in the United States or another jurisdiction that may not provide a level of protection equivalent to the laws in your home jurisdiction. 
-
-**Modifications to Policy**  
-Unica reserves the right to modify or supplement this Privacy Policy at any time.  The most recent version of the Privacy Policy will appear on the website with the relevant modification date.  Please check this Privacy Policy frequently and particularly before you submit additional information via the Website. 
-
-**EU and Swiss Safe Harbor Participation**  
-Unica recognizes that the EU has an "omnibus" data protection regime established pursuant to the European Union Directive (95/46/EC) (the "Directive") and that Switzerland has enacted the Federal Act on Data Protection.  The Directive and Swiss law generally restrict the transfer of personally identifiable information about individuals in the EU and Switzerland to the United States.  To address this restriction, Unica adheres to the EU and Swiss Safe Harbor Privacy Principles published by the U.S. Department of Commerce ("Safe Harbor") with respect to personally identifiable information about customers' customers and internal users.  Specifically, Unica may obtain access to information about its customers' customers and internal users in the EU and Switzerland in connection with providing its products and services or other additional information ("European Processor Information").  Unica's customers act as the data controller for any European Processor Information collected in the EU and Switzerland and subsequently transferred to Unica in the United States.  Unica acts as a data processor on behalf of its customers with respect to such European Processor Information and accordingly carries out Unica's customers' instructions with regard to the collection, processing, and protection of European Processor Information.
-
-Unica maintains reasonable security measures to protect European Processor Information from loss, misuse and unauthorized access, disclosure, alteration and destruction.  Unica also makes reasonable efforts to keep European Processor Information reliable for its intended use, accurate, current and complete in relation to the form in which Unica's customer provided the European Processor Information to Unica.  With respect to any inquiries concerning access to European Processor Information, customers' customers and internal users may first wish to contact their own company with questions regarding the European Processor Information shared with Unica, as that might be the most efficient means of addressing such issues.
-
-Individuals may contact the Unica Safe Harbor Privacy Contact identified below with respect to the Safe Harbor.  Additional information regarding the Safe Harbor may be obtained on the US Department of Commerce website at <http://www.export.gov/safeharbor>.  In addition, if any individual located in the EU or Switzerland experiences an issue regarding the European Processor Information that Unica holds about him or her, the individual may contact the local data protection authority for further information.
-
-Safe Harbor Privacy Contact: Yolanda W. Rabun, Chief Privacy Officer and Counsel, IBM Corporation, Unica 3039 Cornwallis Road, Research Triangle Park, NC 27709, [yrabun@us.ibm.com](mailto:yrabun@us.ibm.com). 
-
-**Questions and Comments**  
-For questions or comments about our Privacy Policy, or if you need assistance accessing or updating information we have collected about you, please contact Unica's Chief Privacy Officer at [yrabun@us.ibm.com](mailto:yrabun@us.ibm.com).  You may also write to Chief Privacy Officer, Unica, an IBM Corporation, 3039 Cornwallis Road, Research Triangle Park, NC 27709. 
-
-**Copyright**  
-IBM, the IBM logo, and Unica are trademarks or registered trademarks of the IBM Corporation in the United States, other countries or both. Other product and service names might be trademarks of IBM or other companies. © Copyright IBM Corporation 2011. All rights reserved.  
+  * **Your use of IBM Cloud services**   
+We collect information about your use of IBM Cloud services to enable product features to operate, improve your user experience, tailor our interactions with you, inform our clients on the overall use of the services, provide support and improve and develop our products and services. For details regarding the technologies we employ, the personal information we collect, as well as how to control or block tracking or to delete cookies, please refer to the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
+  * **Contacting employees of our clients, prospects, partners and suppliers**   
+In our relationship with clients or prospects, partners and suppliers, they also provide us with business contact information (such as name, business contact details, position or title of their employees, contractors, advisors and authorized users) for purposes such as contract management, fulfillment, delivery of products and services, provision of support, invoicing and management of the services or the relationship.
+  * **Visitor information**   
+We register individuals visiting our sites and locations (name, identification and business contact information) and use camera supervision for reasons of security and safety of persons and belongings, as well as for regulatory purposes.
+  * **Marketing**   
+Most information we collect about you comes from our direct interactions with you. When you register for an event we may collect information (online or offline) in relation to the event organization, and during an event, such as participation in sessions and survey results. We combine the personal information we collect to develop aggregate analysis and business intelligence for conducting our business and for marketing purposes. You can choose to receive information by email, telephone or postal mail about our products and services, or sign-up for subscriptions. When visiting our websites or using our services we may provide you with personalized information. You can always opt-out from receiving personalized communication by sending an e-mail to [NETSUPP@us.ibm.com](mailto:NETSUPP@us.ibm.com). More information can be found in the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
 
 
-_Last Updated: May 1, 2011_  
+
+Where we reference that we use your personal information in connection with a request, order, transaction or agreement (or preparing for the same), or to provide you with services that you requested (such as a website), we do this because it is necessary for the performance of an agreement with you.
+
+Where we reference that we use your personal information in relation to marketing, improvement or development of our products or services, for reasons of safety and security, or regulatory requirements other than in connection with your agreement or request, we do this on the basis of our or a third party’s legitimate interests, or with your consent. When we collect and use your personal information subject to the EU Privacy Legislation this may have consequences for Your Rights.
+
+## Sharing of Personal Information
+
+As a global organization offering a wide range of products and services, with business processes, management structures and technical systems that cross borders, IBM has implemented global policies, along with standards and procedures, for consistent protection of personal information. As a global company, we may share information about you with our subsidiaries world-wide and transfer it to countries in the world where we do business in accordance with this Privacy Statement.
+
+Between IBM controlled subsidiaries we only grant access to personal information on a need-to-know basis, necessary for the purposes for which such access is granted. In some cases, IBM uses suppliers located in various countries to collect, use, analyze, and otherwise process personal information on its behalf.
+
+Where appropriate, IBM may also share your personal information with selected partners to help us provide you, or the company you work for, products or services, or to fulfill your requests, or with your consent. When selecting our suppliers and partners, we take into account their data handling processes.
+
+If IBM decides to sell, buy, merge or otherwise reorganize businesses in some countries, such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of such information from sellers. It is IBM's practice to require appropriate protection for personal information in these types of transactions.
+
+Please be aware that in certain circumstances, personal information may be subject to disclosure to government agencies pursuant to judicial proceeding, court order, or legal process. We may also share your personal information to protect the rights or property of IBM, our business partners, suppliers or clients, and others when we have reasonable grounds to believe that such rights or property have been or could be affected.
+
+## International Transfers
+
+The international footprint of IBM involves a large number of transfers of personal information between different subsidiaries, as well as to third parties located in the countries where we do business. Some countries have implemented transfer restrictions for personal information, in connection with which IBM takes various measures, including:
+
+  * Where required, IBM implements Standard Contractual Clauses approved by the EU Commission, or similar contractual clauses in other jurisdictions. This includes transfers to suppliers or other third parties. You can request a copy of the EU Standard Contractual Clauses [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+  * IBM certified to the [APEC Cross Border Privacy Rules](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://www.cbprs.org).
+  * IBM certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. More information can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=https://www.privacyshield.gov).
 
 
-[](http://www.addthis.com/bookmark.php?v=250&pub=unicacorp)
+
+Back to top
+
+## Information Security and Accuracy
+
+We intend to protect your personal information and to maintain its accuracy. IBM implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information such as credit card information when we transmit such information over the Internet. We also require that our suppliers protect such information from unauthorized access, use and disclosure.
+
+## Retention Period
+
+We will not retain personal information longer than necessary to fulfill the purposes for which it is processed, including the security of our processing complying with legal and regulatory obligations (e.g. audit, accounting and statutory retention terms), handling disputes, and for the establishment, exercise or defense of legal claims in the countries where we do business.
+
+Because the circumstances may vary depending on the context and the services, the information provided in [Online Privacy Statement](https://web.archive.org/privacy/details/us/en/) or provided in a specific notice may provide more detailed information on applicable retention terms.
+
+## How to contact us
+
+If you have a question related to this Privacy Statement, please contact us by using [this form](http://www.ibm.com/scripts/contact/contact/us/en/privacy/). Your message will be forwarded to the appropriate member of IBM's Data Privacy Team, such as Data Protection Officers or members of their teams.
+
+For the purposes of the EU General Data Protection Regulation (GDPR), the controller of your personal information is International Business Machines Corporation (IBM Corp.), 1 New Orchard Road, Armonk, New York, United States, unless indicated otherwise. Where IBM Corp. or a subsidiary it controls (not established in the European Economic Area (EEA)) is required to appoint a legal representative in the EEA, the representative for all such cases is IBM United Kingdom Limited, PO Box 41, North Harbour, Portsmouth, Hampshire, United Kingdom PO6 3AU.
+
+IBM Corp. is not the controller in situations such as:
+
+  * Personal information processed in connection with a contractual relationship, or with entering into a contractual relationship with a specific IBM subsidiary. In this case the controller of personal information is the IBM contracting company, which is the legal entity with which you or your employer have, or will have, the contract.
+  * Personal information collected on the physical site or location of an IBM subsidiary. In this case that subsidiary is the controller of the personal information.
+
+
+
+## Your Rights
+
+You can request to access, update or correct your personal information. You also have the right to object to direct marketing. You can access the request process [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+
+You may have additional rights pursuant to your local law applicable to the processing. For example, if the processing of your personal information is subject to the EU General Data Protection Regulation ("GDPR"), and your personal information is processed based on legitimate interests, you have the right to object to the processing on grounds relating to your specific situation. Under GDPR you may also have the right to request to have your personal information deleted or restricted and ask for portability of your personal information.
+
+## Right to Lodge a Complaint
+
+In the event you consider our processing of your personal information not to be compliant with the applicable data protection laws, you can lodge a complaint:
+
+  * Directly with IBM by using [this form](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+  * With the competent data protection authority. The name and contact details of the Data Protection Authorities in the European Union can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
+
+
+
+## Changes to our Privacy Statements
+
+From time to time we may update this Privacy Statement, as well as any other specific privacy statement. When making changes to this Privacy Statement, we will add a new date at the top of this Privacy Statement.
+
+Back to top
