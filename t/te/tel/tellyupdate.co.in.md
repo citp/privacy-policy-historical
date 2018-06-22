@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellyupdate.co.in privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221103254id_/http%3A//www.tellyupdate.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellyupdate.co.in privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622073712id_/http%3A//www.tellyupdate.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tellyupdate
 
@@ -57,6 +57,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [tellyupdate.co.in](http://www.tellyupdate.co.in/)
 
 <http://www.tellyupdate.co.in/>  
-dramasvid@gmail.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on July 19, 2014
