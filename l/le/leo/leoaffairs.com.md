@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leoaffairs.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120135102id_/http%3A//www.leoaffairs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leoaffairs.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622211626id_/http%3A//www.leoaffairs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,6 +75,17 @@ Questions regarding our Privacy Policy, the accuracy of your personal informatio
 This Privacy Policy is effective as of the date of posting to this Website. This Privacy Policy is subject to change at any time; please revisit this page periodically to read the latest Privacy Policy. A link to this Privacy Policy is maintained on _this site_. If you decide to preclude your information from any new and/or different use as disclosed in a revised Privacy Policy, please contact us by [**_CLICKING HERE_**](http://www.leoaffairs.com/contact-us/), or visit the following website to submit an unsubscribe request:[ www.LEOAffairs.com](http://www.leoaffairs.com/contact-us/).
 
 We use a secure server to house any user information that we maintain, and employ reasonable security procedures in the protection of the security and integrity of the information. However, due to the nature and the environment of electronic communication and the Internet we cannot make assurances to you regarding the safeguards that we have put into place preventing unauthorized access to, maintain security of, or correct use the data or the information collected. Bear in mind that no data transmitted over the Internet can be guaranteed to be 100% secure. Therefore, while our intention is to protect your personal information, this site cannot and does not guarantee, warrant, or ensure the security of any information that you transmit to or from us online, post on this or any related sites, or provide in registering or making purchases at this site. You transmit any information or data at your own risk.
+
+**Residents of the European Economic Area (“EEA”)**
+
+Bright Mountain Media works with merchants and users around the world, including in the EEA. If you are located in the EEA, you have certain rights under European law with respect to your personal data, including the right to request access to, correct, amend, delete, port to another service provider, or object to certain uses of your personal data. If you are a merchant, a partner, a visitor, a customer of Bright Mountain Media’s websites, please reach out to us using this email privacy@brightmountainmedia.com. Additionally, if you are located in the EEA, we are generally processing your information in order to fulfill contracts we might have to pursue the following legitimate interests, either for ourselves, our merchants, our partners, or other third parties:  
+To provide merchants and others with our services;  
+To prevent risk and fraud on our websites;  
+To provide communications, marketing, and advertising;  
+To provide reporting and analytics;  
+To provide troubleshooting, support services, or to answer questions;  
+To improve our services and websites.  
+When we process personal information to pursue these legitimate interests, we do so where we believe the nature of the processing, the information being processed, and the technical and organizational measures employed to protect that information can help mitigate the risks to the data subject.
 
   6. **_Opting-Out:_**
 
