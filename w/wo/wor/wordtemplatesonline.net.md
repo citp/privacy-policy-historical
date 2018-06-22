@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordtemplatesonline.net privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206000150id_/http%3A//www.wordtemplatesonline.net/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordtemplatesonline.net privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622081201id_/http%3A//www.wordtemplatesonline.net/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies for Word Templates Online
 
@@ -24,7 +24,7 @@ A third party will not have access to our user’s information. We do not trade 
 
  **Google Adsense**
 
-Google Adsense may place advertisements on our website. Google will track activity with their Dart cookies. They will use this information to decide on the types of ads they want to place on the web page. You can read the Ads and Content Network Privacy Policy from Google at <http://www.google.com/policies/technolgoy/ads/>.
+Google Adsense may place advertisements on our website. Google will track activity with their Dart cookies. They will use this information to decide on the types of ads they want to place on the web page. You can read the Ads and Content Network Privacy Policy from Google at <http://www.google.com/policies/technolgoy/ads/>[__](http://www.google.com/policies/technolgoy/ads/).
 
  **Access to Our Conditions and Private Policy**
 
