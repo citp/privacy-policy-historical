@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the space-facts.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913053713id_/http%3A//space-facts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the space-facts.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622080902id_/https%3A//space-facts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Space Facts
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://space-facts.com/contact/](mailto:).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [https://space-facts.com/contact/](mailto:).
 
 At space-facts.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by space-facts.com and how we use it.
 
