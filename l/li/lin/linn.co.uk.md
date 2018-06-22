@@ -1,117 +1,264 @@
-> *The following text is extracted and transformed from the linn.co.uk privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107073021id_/https%3A//www.linn.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linn.co.uk privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622161434id_/https%3A//www.linn.co.uk/privacy) for the most accurate reproduction.*
 
 # Linn — Privacy Policy
 
-**This policy (together with our terms of use and any other documents referred to in it, including Legal Notice) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.**
+[ Linn Logo ](https://web.archive.org/)
 
-"Websites" means   
-Linn [https://www.linn.co.uk](https://www.linn.co.uk/),   
-Linn Forums [https://forums.linn.co.uk](https://forums.linn.co.uk/),   
-Linn Docs [http://docs.linn.co.uk](http://docs.linn.co.uk/),   
-Linn OSS [http://oss.linn.co.uk](http://oss.linn.co.uk/),   
-Linn News [http://news.linn.co.uk](http://news.linn.co.uk/) and   
-Linn Blogs [http://blogs.linn.co.uk](http://blogs.linn.co.uk/).
+Last updated 7th June 2018
 
-"Services" means any service(s) to be provided by Linn via the Websites.
+At Linn we are committed to keeping your data safe, and handling it in accordance with our legal obligations.
 
-Any terms not defined in this Privacy Notice shall have the same meaning as set out in the Linnstore Terms and Conditions or any other Linn Terms and Conditions.
+This Privacy Policy, together with our [Terms & Conditions of Sale](https://web.archive.org/terms-and-conditions) and [Legal Notice](https://web.archive.org/web/20180622161434id_/https%3A//www.linn.co.uk/legal-notice), sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
-Linn adheres to the Data Protection Act of 1998 ("Act") and the EU Directive on Privacy and Electronic Communications (2002/58/EC). For the purpose of the Act the Data Controller is Linn Products Limited, Glasgow Road, Waterfoot, Eaglesham, Glasgow G76 0EQ ("Linn", "we" or "us").
+### Key terms
 
-Our nominated representative for the purpose of the Act is the Data Protection Manager, Linn Products Limited, Glasgow Road, Waterfoot, Eaglesham, Glasgow, G76 0EQ, Scotland, United Kingdom.
+In this Privacy Policy, these terms have the following meanings:
 
-Any personal data that you may give us, including your e-mail address, will be stored in a database to enable us to: fulfill your information request, create and maintain your Account, process and fulfill your Order, communicate with you in relation to your Account, provide you with product updates, provide the Services, and advertise promotional offers.
+"We" and "us" means Linn Products Ltd.
 
-Information about you is an important part of our business and we are not in the business of selling or renting it to others. The information we store about you may be shared, where necessary, with our subsidiaries and authorised distributors and retailers who may need to contact you regarding your Account, new products, services and promotional offers. You will be contacted by them only if you have selected to receive such information when inputting your personal preferences in your member profile or Account.
+"Websites" means all of our websites, including: 
 
-#### Your Information
+  * Linn Website (https://www.linn.co.uk), 
+  * Linn Forums (https://forums.linn.co.uk), 
+  * Linn Docs (http://docs.linn.co.uk), 
+  * Linn OSS (http://oss.linn.co.uk), 
 
-By registering with any of the Websites you consent to Linn storing, using and disclosing the data you provide in the manner and for the purposes described in this Privacy Policy. You agree to provide accurate, current, and complete information required to register with any Service and at other times as may be required in the course of using any Service. You further agree to maintain and update your data as required to keep it accurate, current, and complete. Linn may terminate your right to use any or all of any Service if any information you provide is false, inaccurate or incomplete as determined by Linn in its sole discretion. You agree that Linn may store and use the data you provide for use in providing any Service, including but not limited to, maintaining and collecting your Account and billing fees to your credit card (if applicable). Please note that your credit card details are not stored by Linn but are passed directly to the Royal Bank of Scotland e-Solutions payment gateway.
 
-If you do not want Linn to keep you up to date with our latest news and information you can select this option when setting your preferences when you register. If you have already registered you can change your preferences by writing to Linn Products Ltd at [helpline@linn.co.uk](mailto:helpline@linn.co.uk) or Linn Products Ltd, Glasgow Road, Waterfoot, Eaglesham, Glasgow, G76 0EQ, Scotland, United Kingdom.
 
-The main source of information we collect is at registration. You must register with us to make a purchase, register products for extended warranty or if you wish to contribute to the Linn Community Services, or other Services provided by Linn. However, you have the option to view our Websites and the Community Services content without having to register and we will offer you options to sign up for our mailing lists without having to make a purchase.
+"Applications" means software we write and distribute, including:
 
-During registration you must provide your email address and you will be asked to choose a password. If you decide to purchase any Linn Goods you will be required to provide credit card and personal billing information. We want to gain a better understanding of our Customers and thus provide a more valuable Service so any information you provide may be used for market research purposes by Linn only. We also collect information regarding Customer activities on our Websites. This helps us to determine how best to provide useful information to a Customer and to understand which parts of our Website and/or our Services are of most interest to them.
+  * Kazoo
+  * Konfig
+  * Kazoo Server
+  * Songcast
+  * Kinsky
 
-Linn also enables you to send "e-vouchers" or purchase gift certificates for family members, friends or colleagues. To fulfil your request, Linn may require personal information about the person to whom you are sending the Goods or Service such as their name, postal address and email address. The personal information you provide about that person is used only for the purpose for which it is collected.
 
-From time to time Linn may hold competitions or prize draws, as part of which we may request contact information from you when you enter. If you are a winner, we will notify you and display your first name and city on our news boards and newsletters announcing the winners.
 
-We may occasionally ask you to participate in voluntary surveys. These surveys are intended to improve our Service. Any personal data collected will be used only by Linn (unless we specify otherwise in advance of your participation).
+"Cloud Platform" means the web-based services provided by us to support product features including:
 
-We do not disclose information about identifiable individuals to our advertisers. However, we may share with them aggregate survey result information about our Customers/users.
+  * User accounts
+  * System configuration
+  * Playlists
+  * Pins
+  * Favourites
 
-#### User Account and Service Security
 
-As a registered user of the Service, you may receive or establish an account ("Account"). You are solely responsible for maintaining the confidentiality and security of your Account. You should not reveal your Account information (including your password) to anyone else, and must not use, or attempt to access or use anyone else's Account. You are entirely responsible for all purchases and other activities that occur on or through your Account, and you agree to immediately notify Linn of any unauthorised use of your Account or any other breach of security. Linn shall not be responsible for any losses arising out of the unauthorised use of your Account.
 
-We maintain administrative and procedural safeguards in connection with the collection, storage and disclosure of personal data. However, while we strive to protect your personal data, we cannot guarantee its absolute security or ensure that personal data will never be disclosed in ways outwith our control and not otherwise described in this Privacy Policy. Our security procedures mean that we may occasionally request proof of identity before we disclose your personal data to you.
+"Products" means Linn music systems and components.
 
-You understand and agree that any material downloaded from the Websites is downloaded at your own discretion and risk and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material downloaded.
+Back to top
 
-#### Collection and Use of Personal Data About Customers
+## Information we collect
 
-The information we learn from you helps us personalise and continually improve your shopping experience at Linn. We use this information to handle Orders, deliver Goods and Services to you, process payments, communicate with you about Orders, Goods, Services and promotional offers, to notify you about changes to our Services, update our records and generally maintain your Account with us, to deal with all issues in relation to claims or queries under any Linn warranty and/or pre or after sales service generally in respect of Linn products including dealing and exchanging information with Linn’s subsidiaries, distributors and retailers for those purposes , display content such as wish lists and customer reviews and recommend merchandise and other Linn services that might be of interest to you. We also use this information to improve our Websites, prevent or detect fraud or abuses of our Websites and enable third parties to carry out technical, logistical or other functions on our behalf. Here are the types of information we gather:
+The information we collect varies based on the products, services and applications you use.
 
-Information you give us: we receive and store any information you enter on our Websites or give us in any other way. You can choose not to provide certain information but that will mean that you might not be able to take advantage of certain of the Website features.
+### Information that you provide
 
-Automatic information: we receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your Web browser accesses the Websites. A number of companies offer utilities designed to help you visit websites anonymously. We will not be able to provide you with a personalised experience at the Website if we cannot recognise you, but we want you should be aware that we use cookies.
+**Contact data:** You may provide us with contact information, such as your name, email address, phone number and address. This may be information that we receive from you when you book tickets to an event; request a product demonstration; create a user account; or contact our service department.
 
-E-mail communications: we may receive a confirmation when you open an e-mail sent by Linn if your computer supports such capabilities.
+**Marketing preferences:** If you opt-in for marketing communications, we will record that information alongside any contact data you provide.
 
-Information from other sources: we might receive information about you from sources other than the Websites eg. correspondence and telephone calls with us and add it to your Account information.
+**Product data:** You may provide us with information about the products that you own. This may be information that we receive from you when you contact our service department, or when we're processing your order, or when you register a product though one of our applications or websites.
 
-#### How we use Cookies and other automatic tracking systems
+### Information we collect automatically
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognise you.
+**Log data:** When you use our websites or services, we record information about your interaction in log files. The data logged includes information about the device making the request, including its type, IP address, browser type and cookie data. We also log information about when the interaction took place and the services used.
 
-We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our Websites to deliver a better and more personalised service. They enable us to estimate our audience size and usage pattern, store information about your preferences and so allow us to customise our Website according to your individual interests, speed up your searches and recognise you when you return to our Websites.
+**Website activity data:** To gain a better understanding of how our websites are used, we use cookies and other tracking tools such as Google Analytics to collect and aggregate website activity data. Read more about our cookie policy.
 
-The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. If you leave cookies turned on, be sure to sign off when you finish when using a shared computer.
+**Product activity data:** With your consent, we collect information about the activity of your product. This data includes the product serial number, software version, system configuration and information about any connected products.
 
-You can always choose not to provide information and not to accept cookies, even though it might be needed to make a purchase from our Websites or to take advantage of certain Website features.
+**Application activity data:** To gain a better understanding of how our applications are used, we collect and aggregate application activity data. This data includes information about features in use, the product version, and the operating system and IP address of the device used.
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exiting pages, operating system, date/time stamp and clickstream data.
+**Product state data:** When you use our cloud platform, we need collect and use information about the current state of your product. This information includes the product serial number and system configuration. 
 
-We use this information, which does not track or identify individual Customers, to analyse trends, administer the Websites, track Customer's movements around the Websites and to gather demographic information about our customer base as a whole. Linn will not use the information collected in this way to market directly to a Customer.
+**Crash reporting data:** With your consent, we collect information about any failures that occur when you use our products or applications. This information can include the device serial number, connected products, software version and technical data describing the failure.
 
-In some of our e-mail messages we use "click-through URLs" linked to content on our Websites. When a Customer clicks one of these URLs, they pass through our web server before arriving at the destination page. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of communications with a Customer.
+### Information we receive from our authorised retailers
 
-#### Agents
+**Event and demonstration information:** When you use our website to request a demonstration with one of our retailers, or book a place at one of our retailers' events, we will follow-up with the retailer to confirm that the booking went ahead and to record any feedback they have received.
 
-We occasionally employ other companies and individuals to perform functions on our behalf. Examples include delivering Goods, sending postal mail and e-mail, removing repetitive information from Customer lists, analysing data, providing marketing assistance, processing credit card payments and providing customer service. They have access to your personal data needed to perform their functions, but may not use it for any other purposes. Further, they must process personal data in accordance with this Privacy Policy and in accordance with the Act.
+**Service and support data:** Your retailer may pass your contact information to our service department when seeking support with a repair, upgrade or installation. We will record only the information necessary to allow us to provide the support requested.
 
-#### Business transfers
+Back to top
 
-As we continue to develop our business, we might sell or buy stores, subsidiaries or business units. In such transactions, Customer information generally is one of the transferred business assets but remains subject to any pre-existing Privacy Policy (unless, of course, the Customer consents otherwise). Also, in the unlikely event that Linn or substantially all of its assets are acquired by a third party, personal data held by Linn about the Customers will of course be one of the transferred assets.
+## How we use information we collect
 
-#### Protection of Linn and others
+### To deliver our services and process your requests
 
-We release your Account details and other personal data when we believe release is appropriate to comply with law, to enforce or apply our Terms and Conditions and other agreements or to protect the rights, property or safety of Linn, our users or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing or otherwise disclosing personal data for commercial purposes in a way that is contrary to this Privacy Policy.
+We use the information we collect to provide, operate and support the products and services we offer.
 
-Whenever we transfer personal data to countries outside of the European Economic Area in the course of sharing personal data as set out above, we will take all steps reasonably necessary to ensure that your data is transferred securely and in accordance with this Privacy Policy and in accordance with the Act. By submitting your personal data you agree to this transfer, storing and/or processing.
+For example, we may use your _contact data_ to send you confirmation of any event bookings or demonstration requests you make. Or we may process your _product data_ as we fulfil your order.
 
-Unfortunately, the transmission of information by the internet is not completely secure. Although we do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website. Any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try and prevent unauthorised access.
+We collect and monitor _activity data_ to help us effectively manage our platform and keep everything running smoothly.
 
-#### How Secure Is Information About You?
+### To provide support
 
-We work to protect the security of your personal data during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. To purchase from the Websites you must use an SSL enabled browser, for example, version 3.0 or higher of Internet Explorer. We reveal only the last four digits of your debit/credit card numbers when confirming an Order. Please note that your credit card details are not stored by this website. They are passed directly to the Streamline bank payment gateway. Linnstore uses thawte SSL Certificates to offer secure communications by encrypting all data to and from the site.
+We may use information we have collected when responding to enquiries, diagnosing problems, repairing products or providing other customer care and support services.
 
-#### What Information Can You Access?
+For example, our service department will use your _product data_ and any _service or support data_ they have received when handling service requests, warranty claims or other queries.
 
-Linn gives you access to a broad range of information about your Account and your interactions. This list will change as our Websites evolve.
+### To communicate with you
 
-#### Your Rights
+We use the data we collect to deliver and personalise our communications with you. 
 
-Our Website may, from time to time, contain links to and from the websites of our partner networks, distributors, advertisers and affiliates. If you follow any link to any of these websites, please note that these website have their own privacy policies and that we do not accept any responsibility or liabilities for these policies. Please check these policies before you submit any personal data to these websites.
+For example, we may use your _contact data_ and _product data_ to process and respond to queries or requests you make, or send administrative or support messages to you about your products or account.
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our cost in providing the details of the information we hold about you.
+Furthermore, in accordance with your _marketing preferences_ , we may contact you about products, services, events and other information that we think will be of interest to you.
 
-#### Changes to our Privacy Policy
+We may use data we collect, including your _event and demonstration information_ , to gauge which products and services you may be interested in.
 
-Any changes that we make to our Privacy Policy in the future will be posted on this webpage and, where appropriate, notified to you by e-mail.
+### To improve our products and services
 
-#### Contact Us
+We use the data we collect to help us improve our products, applications, websites and cloud platform.
 
-If you are a registered member of any of the Websites and wish to terminate your Account with us, please send an email request to [helpline@linn.co.uk](mailto:helpline@linn.co.uk), specifying which Website Accounts you wish to be terminated.
+For example, aggregated _activity data_ gives us insight into how our products and applications are used, helping us identify potential features and improvements.
+
+_Crash reporting data_ , along with _log data_ , helps us better understand any failures that occur and under which configurations they arise. It can also give us a better understanding of the reliability of our products.
+
+In order to improve our ability to provide integrated services, support and other activities, we may consolidate information we receive from different sources.
+
+We may also aggregate data we have collected from different sources in order to perform statistical analysis and other reporting activities that enable us to make informed decisions about our business.
+
+### To investigate and prevent security issues and abuse
+
+We may use the data we collect to prevent or detect fraud, identity malicious activity, and to prevent or detect abuse of our websites and other services.
+
+We may also use information we hold to comply with our legal obligations.
+
+Back to top
+
+## Legal Basis
+
+We collect and process your personal data on the following legal basis:
+
+### Performance of a contract
+
+The use of your personal information may be necessary to fulfil the agreement you have with us. For example, to deliver the services that you use, to fulfil requests that you make of us, or to provide support when requested.
+
+### Legitimate interests
+
+We may use your personal information for our legitimate interests. For example, it is in our legitimate interest to analyse usage data to improve our products and services, or (with your consent) to send you marketing communications, or to use your personal information for administrative or legal purposes.
+
+Back to top
+
+## Your rights and privacy controls
+
+### Your rights
+
+We want you to be in control of how your personal information is used by us. 
+
+Where we use your information on the basis of your consent, you are entitled to withdraw that consent at any time. We provide various privacy controls to help you with this.
+
+In addition, and subject to local law, you have the following rights:
+
+  * you can ask us for a copy of the personal information we hold about you;
+  * you can ask us to correct personal data about you that may be incomplete or inaccurate
+  * in certain circumstances, you can ask us to delete your data, or ask us to restrict how we process personal information we hold about you
+
+
+
+If you wish to exercise any of the rights set out above, please contact us.
+
+We may need to request specific information from you to help us confirm your identity. This is to ensure we disclose personal data only to those with the right to receive it.
+
+We aim to respond to all requests within one month. If your request proves more complex, it may take us longer. In that case, we will notify you and keep you up-to-date with our progress.
+
+You will not have to pay a fee to access your personal data (or to exercise any of your rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+### Privacy controls
+
+#### Marketing preferences
+
+You can opt out of receiving direct marketing communications from us by following the 'unsubscribe' link we include in all of our marketing emails.
+
+Alternatively, you can contact us directly and will will update your marketing preferences as you request.
+
+#### Product activity data & crash reporting
+
+You can control what activity and crash data we collect from your product using our [Konfig application](https://web.archive.org/software#konfig).
+
+Opting-out of data collection will cause all product activity data previously collected to be erased.
+
+#### Kazoo application activity data & crash reporting
+
+You can control what activity and crash data we collect from [Kazoo](https://web.archive.org/software#kazoo) by visiting the 'Privacy' tab within the application settings.
+
+#### Product state data
+
+When you elect to use services provided by our cloud platform, we will collect and retain information about your product.
+
+If you no longer wish to use these services, you can deactivate cloud services by unlinking your product in the settings window in [Kazoo](https://web.archive.org/software#kazoo).
+
+When you unlink your product, all related product state data will be deleted automatically. This information will also be deleted if the product is reset to its factory settings.
+
+#### Linn account
+
+If you are a registered user of any of the websites and wish to terminate your account with us, please contact us, specifying which accounts you wish to be terminated.
+
+Back to top
+
+## Keeping your information secure
+
+### Data security
+
+We have implemented security measures to prevent your personal data from being accidentally lost, disclosed, used or accessed in an unauthorised way.
+
+However, while we strive to protect your personal data, we cannot guarantee its absolute security or ensure that personal data will never be disclosed in ways outwith our control and not otherwise described in this Privacy Policy. 
+
+#### Access to data
+
+We limit access to your personal data to only those employees, agents, contractors or other third parties who have a business need to know. Your data will only be processed in accordance with this Privacy Policy and our instructions.
+
+#### User account and service security
+
+As a user of the websites or other services you may create an account. You are responsible for maintaining the confidentiality and security of your account. You should not reveal your account information (including your password) to anyone else. You agree to immediately notify Linn of any unauthorised use of your account or any other breach of security. We are not responsible for any losses arising out of the unauthorised use of your account.
+
+#### Other websites
+
+Our websites may contain links to the websites of our authorised retailers, distributors, advertisers and other affiliates. If you follow any link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liabilities for these policies.
+
+### Data retention
+
+We will only keep your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+We delete some information as soon as you opt-out of certain data collection activities. See our privacy controls for more details.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+Back to top
+
+## Cookies
+
+### How we use cookies
+
+We use cookies for a variety of purposes. Some cookies are associated with your account and allow us to keep you logged in. Other cookies are not associated with you account, but are unique, and allow us to carry out usage analytics.
+
+Here is a summary of the kinds of cookies we use:
+
+**Authentication cookies.** When you sign-in in to our website, we use cookies to keep you logged on and help us personalise your experience.
+
+**Activity cookies.** These cookies allow our websites to remember pages you have visited and choices you make while browsing.
+
+**Analytics cookies.** We use these cookies to help us understand how visitors interact with our websites. For example, how long visitors spend on different page, how people arrive on our website, or in which countries our website is being viewed. We primarily use cookies generated by Google Analytics for this purpose.
+
+### Similar technologies
+
+In addition to cookies, we may also use similar technologies, such as pixel tags, for the purposes outlined above. 
+
+We also use pixel tags in in our marketing emails (if you have opted-in) to help us to understand whether our email communication has been viewed.
+
+### How to control cookie settings
+
+Most web browsers allow you to control how cookies are used, including disabling the use of cookies altogether. 
+
+If you choose to prevent the use of cookies on our websites, you may find that that some features no longer function correctly, and that personalised features become unavailable.
+
+Back to top
+
+## Changes to our Privacy Policy
+
+Any changes that we make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email.
+
+Back to top
