@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aakash.ac.in privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223224854id_/http%3A//www.aakash.ac.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aakash.ac.in privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622222719id_/http%3A//www.aakash.ac.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AESPL
 
