@@ -1,70 +1,78 @@
-> *The following text is extracted and transformed from the seniordealnews.com privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810142201id_/http%3A//signup.seniordealnews.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seniordealnews.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622093101id_/https%3A//freebies.com/pages/privacy) for the most accurate reproduction.*
 
-# SeniorDealNews.com | Privacy
+# Privacy Policy - Freebies.com
 
-## What information do we collect?
+#### Freebies.com Privacy Policy
 
-We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. 
+[Freebies.com](http://www.freebies.com/) respects the privacy of its subscribers. This Privacy Policy describes how  [Freebies.com ](http://www.freebies.com/) collects, uses and discloses personal information for the purpose of operating contests and providing information about third party products and services to subscribers. By using [Freebies.com ](http://www.freebies.com/), you consent to the collection, use and disclosure of personal information as described in this Privacy Policy and in our  [Terms & Conditions.](http://www.freebies.com/pages/terms-and-conditions)  
+Please review this Privacy Policy from time-to-time so that you are notified of any changes that may occur.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. 
+#### Collection and use of personal information
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy... 
-
-## What do we use your information for?
-
-Any of the information we collect from you may be used in one of the following ways: 
-
-  * To personalize your experience  
-(your information helps us to better respond to your individual needs) 
-  * To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
-  * To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
-  * To send periodic emails  
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
+We collect certain information when you sign-up on our site, including such things as your name, email address, telephone number, date of birth, country of residence, date of birth, occupation and areas of interest. This information is used for the following purposes:  
+\- to send you emails with information about third-party offers, including free samples, prize draws, and free trials, etc.;  
+\- to enter you into contests and notify you if you have won;  
+\- to determine which offers are most relevant to you (e.g., based on date of birth, country of residence, occupation and areas of interest).  
+We collect and analyze information about how you interact with our emails (e.g., opens and clicks) to better tailor the future communications that we send to you.  
+Our site also uses "cookies", which are text files placed in your internet browser that contain non-identifying information, such as internet protocol (IP) addresses and browsing behaviour. Cookies may be used to assist in analyzing website traffic in order to improve the user experience on our site.  
 
 
+####  Disclosure of personal information 
 
-Note: If at any time you would like to unsubscribe (OPT OUT) from receiving future emails, we include detailed unsubscribe (OPT OUT) instructions at the bottom of each email. 
+Aggregated, non-personal information is shared with advertisers to assist in purchasing decisions and to analyze results from advertising campaigns. [Freebies.com](http://www.freebies.com/) will only share your personal information with advertisers (e.g., name, email address) after notifying you and obtaining your express consent.  
+We may also disclose personal information for the following purposes:  
+(1) in response to a court order, warrant or request from a law enforcement agency;  
+(2) to enforce the [Freebies.com ](http://www.freebies.com/) Terms & Conditions or to protect our rights; or  
+(3) to protect the safety of members of the public and users of the service.   
 
-## How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+####  How we use your Information 
 
-## Do we use cookies?
+When you complete our online application form you will be asked to provide consent for your data to be used to complete your application and for marketing purposes.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+By proceeding with your application, you consent to your data being used by us and our partners to assess your application.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+Should you opt in to receive marketing, we and a third-party partner will provide you with information about products, services and offers that may be of interest to you.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service. 
+Third-party Partner
 
-## Do we disclose any information to outside parties?
+  * Liveintent
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-## Third party links
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+Categories
 
-## California Online Privacy Protection Act Compliance
+  * Surveys
+  * Technology
+  * Finace
+  * Competitions
+  * Coupons
+  * Health Care
+  * Home Improvment
+  * Insurance
+  * Infant Care
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
 
-## Childrens Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you. Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID. Our partners may link the personal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. To learn more about interest-based advertising in general and to opt out, please visit http://www.aboutads.info/choices.
 
-## Online Privacy Policy Only
+#### Unsubscribe
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+You can unsubscribe from receiving communications from us by clicking the "unsubscribe" link provided at the bottom of all [Freebies.com ](http://www.freebies.com/) emails, or by contacting our Privacy Officer at [contact@freebies.com. ](mailto:contact@freebies.com.)
 
-## Your Consent
+#### Third-party companies
 
-By using our site, you consent to our web site privacy policy. 
+Our website and the emails that we send provide links to third-party websites. Also, our site may allow you to subscribe to receive offers directly from third-party companies in addition to Freebies.com. As our Privacy Policy only applies to information collected and used by Freebies.com, we cannot be responsible for the privacy policies and/or practices of third-party companies. Please refer to the privacy policies of third-party companies for information about how they collect, use and disclose personal information.
 
-## Changes to our Privacy Policy
+#### Security
 
-If we decide to change our privacy policy, we will post those changes on this page.
+Freebies.com has in place administrative, technical and physical safeguards to protect the security of your personal information, including the following:  
+\- Access to data is restricted to those employees who require access;  
+\- Servers are located in a physically controlled area;  
+\- Data is transferred over an encrypted connection; and  
+\- Systems are regularly tested for security vulnerabilities and updated as necessary.  
+We transfer and store personal information on servers located outside of Canada. As such, we may be required to provide law enforcement agencies in foreign jurisdictions with access to personal information. Please contact our Privacy Officer at [contact@freebies.com ](mailto:contact@freebies.com.)for more information about the jurisdictions in which we store personal information. 
 
-## Contacting Us
+#### Access to personal information and how to contact Freebies.com
+
+You have a right to access and to request corrections to personal information that we have about you. If you would like to contact us about your personal information or the practices described in this Privacy Policy, please contact our Privacy Officer at [contact@freebies.com.](mailto:contact@freebies.com.)
