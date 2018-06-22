@@ -1,101 +1,227 @@
-> *The following text is extracted and transformed from the ironman.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173053id_/http%3A//www.ironman.com/triathlon/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironman.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622114054id_/http%3A//www.ironman.com/triathlon/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - IRONMAN Official Site | IRONMAN triathlon 140.6 & 70.3
 
 At IRONMAN.com, we are committed to safeguarding your privacy online. We want to assure our users that IRONMAN.com will not willfully disclose any specific individual information about you to any third party unless you give us your express permission to do so. 
 
-At IRONMAN.com, we are committed to safeguarding your privacy online. We want to assure our users that IRONMAN.com will not willfully disclose any specific individual information about you to any third party unless you give us your express permission to do so. 
+**WORLD TRIATHLON CORPORATION ONLINE PRIVACY AND COOKIE POLICY**
 
-IRONMAN.com does not solicit any personally identifiable information from children under the age of 13. Accordingly, children under 13 years old may be restricted from participating in certain activities and transactions on IRONMAN.com (including the Ironmanstore.com on IRONMAN.com at store.IRONMAN.com). IRONMAN.com works with (and may provide links to) third party sites that offer features described on IRONMAN.com (e.g., official fantasy games, chatrooms, message boards). Such third parties may permit children under the age of 13 to register for these features on their sites in accordance with their respective privacy policies. However, IRONMAN.com does not knowingly obtain, retain or use information from anyone who indicates that they are under 13 years old. If you would like more information about IRONMAN.com's policy for collecting information from children, please read our Note to Parents below.
+Last Updated: May 31, 2018
 
-Please read this Privacy Policy ("Policy") for an explanation of how we will treat your personal information. By using IRONMAN.com, including any of the Official Ironman Race Websites and the Ironmanstore.com on IRONMAN.com, you consent to the collection and use of personal information as outlined in this Policy. If you do not agree to this Policy, please do not use our site. If we make any material changes to the Policy, those changes will be posted here so that you are always aware of what personal information is collected, how that information is used, and under what circumstances that information may be disclosed. Since this Policy may change from time to time, you should check back periodically. Your continued use of IRONMAN.com following the posting of changes to the Policy will signal your acceptance of such changes. 
+We appreciate your interest in our sport events, races and competitions (“ **Events** ”), our event website (ironman.com) and our mobile apps and social networking pages, profiles, and feeds that post or display a link to this privacy policy), (collectively, our “ **Services** ”). Privacy protection is very important to us and we are committed to protecting and respecting your privacy. This privacy policy sets out information about how we collect, store, process, transfer and use data that identifies you or makes you identifiable as a natural person (hereinafter " **personal data** ").
 
-If you have any questions or comments regarding this Policy, please contact ben@IRONMAN.com
+**1.  Who is data controller of your personal data?**
 
-**TABLE OF CONTENTS**
+We, that is World Triathlon Corporation, 3407 W. Dr. Martin Luther King Jr. Blvd Suite 100, 33607 Tampa, Florida (“WTC” or “we”) are the data controller. We are responsible for, and control, the processing of your personal data.
 
-**1.** **What personally identifiable information of yours or third party personally identifiable information is collected from you through the site;**
+> If you wish to contact us, you can find our contact details at the end of this Privacy Policy.
 
-**2.** **The organization collecting the information;**
+The registration for our Events will, in some cases, be provided by third-party event registration services, such as active.com ("Registration Partners"). Our Registration Partners process the payment for our Events independently, WTC does not have any access to information concerning the payment. For this reason, this Privacy Policy does not apply to the payment processing by our Registration Partners, and we encourage you to check the privacy policies of our Registration Partners to learn about their privacy practices. As far as our Registration Partners collect other personal data necessary for the registration, they act on our behalf and this Privacy Policy applies to these processing activities.
 
-**3.** **How the information is used;**
+**2\. What personal data do we collect?**
 
-**4.** **With whom the information may be shared;**
+In the context of rendering our Services, we may collect personal data about you. This personal data regularly includes the following:
 
-**5.** **What choices are available to you regarding collection, use and distribution of the information;**
+  * **If you register for an Event ( Registration without Registration Partners)**. Username, password, name, email address, phone number, birth date, gender, information on medical condition, emergency contact information, registration number, credit card number, billing address, and other payment information and other information you provide during registration.
 
-**6.** **The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control. **
 
-**1\. What personally identifiable information of yours or third party personally identifiable information is collected from you through the site**
+  * **If you register for an Event** ( **Registration with a Registration Partner** ). Username, password, name, email address, phone number, address, birth date, gender, information on medical condition, emergency contact information, registration number and other information you provide during registration.
 
-As stated above, IRONMAN.com does not solicit any personally identifiable information from children under the age of 13. Please review our Note to Parents, if you have any questions regarding our Policy with respect to children. 
 
-IRONMAN.com does not collect personally identifiable information through the site unless you provide that information during registration for various features on the site (e.g., IRONMAN.com personalization, newsletters, purchases on the Ironmanstore.com on IRONMAN.com, Sweepstakes etc.). Information required to participate in such features may vary but will typically include your first and last name; address including city, state, zip code and country; complete date of birth; and e-mail address; and, in the case of making purchases, a credit card number and expiration date. You may also be requested to provide a username and password for certain features. IRONMAN.com will maintain all of the personal information submitted by you in secured servers behind corporate firewalls.
+  * **If you register for our website**. Username, password, name, email address, phone number, birth date, gender, and other information you provide during registration.
 
-**2\. The organization collecting the information**
 
-IRONMAN.com is operated by World Triathlon Corporation. World Triathlon Corporation is located at 43309 US HWY 19 N, Tarpon Springs, Florida 34689. [ben@IRONMAN.com](mailto:ben@ironmanlive.com) for more information. You can also learn more about any of the 17 Qualifying Ironman Races by referring to their respective Official Web Sites located on IRONMAN.com. 
+  * **If you contact us via our website, email, phone or mail**. Name, email address, phone number, address and other information you provide.
 
-**3\. How the information is used**
 
-IRONMAN.com may use 
+  * **If you subscribe to our newsletter**. Name, email address, marketing campaign information such as your reaction to our marketing and your interest in our Services.
 
-information
 
-provided at registration or information obtained through third parties to offer 
+  * **If you merely use our website.** IP address, network file system, access times, domain name, browser data, browser type and language, device type, device ID, Uniform Resource Locators (URL), operating system, language preferences, information on your usage of our websites and online activities.
 
-better targeted
 
-products and services to you. We use targeting to customize and enhance your online experience on the site. The use of information provided at registration or obtained through third parties will not be provided to advertisers or partners, except in aggregate 
+  * **Information we collect during your participation of our Event.** Information on your performance, such as your starting number, your place in the rankings, other information in the context of your ranking and any other information you provide us during the Event.
 
-form,
 
-unless you have consented to such use at registration. 
+  * **Information we collect from social networks.** When you interact with our Services through various social media, such as when you login through Facebook or when you follow WTC or share WTC content on Facebook, Twitter, Instagram or other sites, we may receive information from those social networks including your profile information, picture, user ID associated with your social media account, friends list, and any other information you permit the social network to share with third parties. The data we receive is dependent upon your privacy settings.
 
-IRONMAN.com uses "cookie" technology. Cookies are pieces of information transferred to your hard drive for record-keeping purposes. Such technology is an industry standard and is used by most major Web sites. IRONMAN.com will never use cookies to retrieve information from your computer that was not originally sent in a cookie. In order to effectively use the site and some of its features (e.g.,  Advertising personalization, Ironmanstore.com on IRONMAN.com), your browser must accept cookies. 
 
-Users should be aware that IRONMAN.com cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for IRONMAN.com. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that 
 
-allows
+> > > > > > **3\. How do we collect your personal data?**
 
-the user to deny or accept cookies; however, users should note that cookies may be necessary to provide the user with certain features available on IRONMAN.com. 
+Personal data is collected in many ways and may include:
 
-IRONMAN.com tracks certain general usage pattern information, including what pages people visit and how long they have been registered users. IRONMAN.com may log users' IP addresses (the group of four numbers separated by periods, such as 123.45.64.89, that identifies a particular host computer) for the purposes of system administration, site tracking and reporting of aggregate usage information to our marketing and product development teams. 
+  
 
-From time to time, IRONMAN.com may solicit your opinion to determine your preferences and dislikes in order to provide you with a better product. These surveys are always optional to the user and your decision not to participate in a survey will not affect your status as an IRONMAN.com user. Should you choose to participate, any information you give us may be used in aggregate form for marketing purposes, and to enhance your overall experience on our site. 
 
-**4\. With whom the information may be shared**
+  * **Personal data you provide to us:** Most of the personal data we receive comes to us voluntarily from our users in the course of using our Services, such as when visiting our website, registering and participating in our Events or communicating with us.
 
-Once again, IRONMAN.com will not provide any personally identifiable information, other than to its affiliates, about you to advertisers or other partners without your consent. As stated above, IRONMAN.com may, however, provide advertisers and/or other partners with anonymous aggregated information about our users to illustrate trends and patterns. All third parties with whom we share such information will have independent privacy and data collection practices and IRONMAN.com has no responsibility or liability for their policies or actions.
 
-We will never give out any information linking your real name to your screen name unless you authorize us to do so, or unless required to do so by law. 
 
-IRONMAN.com has several partners that can offer valuable products and services to our members. From time to time, IRONMAN.com may give or sell a list from our database of users to these third party vendors. These lists will consist of only those users that have "opted in" to receiving special offers and promotions during the initial registration process. IRONMAN.com will use commercially reasonable efforts to ensure that every marketing offer sent to an IRONMAN.com user as a result of the provision of such information contains a link for that user to no longer receive such offers. In addition, we may share your information with a company that acquires all or substantially all of IRONMAN.com's assets or in a merger or acquisition, but only if such company agrees to abide by this Privacy Policy.
+> You are free to choose which information you want to provide to us or whether you want to provide us with personal data at all. However, some information, such as information requested in the registration procedure and information collected during the Event may be necessary for the performance of our contractual obligations in the context of your Event participation. Without providing this data, you will not be able to enter into a contract with us, such as registering for our Events.
 
-While IRONMAN.com is careful in choosing its partners and advertisers, we are only responsible for content on our own site. All third parties associated with IRONMAN.com (including, but not limited to, advertisers, sponsors and other Internet sites) with whom we share information have independent privacy and data collection practices. IRONMAN.com does not control this collection of information and is neither responsible nor liable for their independent policies or actions. 
+  * **personal data collected via technology:** As you use our websites, we may collect information through the use of cookies. Please see Section 9 for more information.
 
-IRONMAN.com uses DoubleClick, a reputable third party vendor, to serve the advertisements that you see on the pages of our site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please [Click Here](http://www.doubleclick.net/us/corporate/privacy/). 
 
-**5\. What choices are available to you regarding collection, use and distribution of the information**
 
-You are not required to receive any mailings that you do not wish to receive. During the registration process, you will have the option to sign up to receive newsletters and selected sponsor offers and discounts. You will not receive such information if you do not select such options. If, after you choose to receive such information, you wish to discontinue receiving these items, you may change your subscription preferences by following the instructions provided within the e-mails received.
+  * **personal data we receive from others:** We may receive personal data about users from third parties such as our Registration Partners, social media sites, Marketing Partners (as defined below) and law enforcement agencies.
 
-**6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control**
 
-IRONMAN.com has security measures in place to protect against the loss, misuse and alteration of the information under its control. The servers for IRONMAN.com are stored in a physically secure and climate controlled off-site facility. Beyond the physical protection of the servers, we protect against data loss by regularly backing up data, performing consistency checks with independently recorded log files to prevent tampering, and restricting access to information on our servers via several user authentication technologies. Our site uses SSL or "Secure Sockets Layer", an industry standard security protocol. When you place an order on the site and your credit card information is transmitted, you will connect with our secure server. SSL sends your browser information that encrypts your order, changing all the information that you send back into a code that is extremely difficult to decipher. 
 
-Only those employees needed to carry out the business functions will have access to information on individual IRONMAN.com customers. We train each such employee with respect to the IRONMAN.com Privacy Policy, and those violating these policies will be subject to disciplinary action. 
+**4\. Why and on which legal basis do we collect and use your personal data?**
 
-It is important to remember that whatever you transmit or disclose online can be collected and used by others or unlawfully intercepted by third parties. No data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. In addition, we may disclose information to law enforcement or other government officials if we determine such disclosure to be appropriate, or if we are compelled to disclose it by court order or operation of law. 
+The reasons for using your personal data may differ depending on the purpose of the collection. Regularly we use your data for the following purposes and on the following legal grounds:
 
-Any information voluntarily disclosed by users and posted on our site (on message boards and/or in chat areas) may be viewed and used by others. If users post personal information that is accessible to the public online, the user does so at his or her own risk. Users accept that they may receive unsolicited messages from other parties in return. 
+  * **We use your personal data in order to perform our contractual services or for the preparation of entering into a contract with you.** If you register for our Events or if you contact us to register for our Events, we use your data to conduct our Events and make your participation in our Events possible. Information we use includes: information we need to contact you or otherwise communicate with you, e.g. to send you administrative information, registration and Event information to process your Event registration and participation; information for payments processing; information to respond to your comments and questions and provide customer service; if you are a registered user, information to manage and create your account.
 
-**LAST UPDATED: September 7, 2001**  
-Copyright 2001 World Triathlon Corporation.  All rights reserved.   
-_Use of this site signifies your acceptance of the TERMS OF USE._
 
-IRONMAN.com NOTES TO PARENTS
+  * **We use your personal data if justified by our legitimate interests.** The usage of your personal data may also be necessary for our own business interests. For example, we may use some of your personal data to evaluate and review our Events and overall business performance, create financial statements, understand you and your preferences to enhance and individualize your experience and enjoyment of our Services, improve our Services, and identify potential cyber security threats. If necessary, we may also use your personal data to pursue or defend ourselves against legal claims. We may use your personal data to provide you with individualized marketing. For instance, we deliver targeted advertising messages to you on our websites and elsewhere on the Internet. If you have participated in our Events before, we may use your email address to provide you with information on similar events.
 
-It is IRONMAN.com's policy not to solicit any personally identifiable information from children. A number of interactive features on IRONMAN.com require registration to participate (e.g., e-mail newsletters, Sweepstakes, etc…. All registrants will be required to enter their full name, age, zip code and e-mail address. In some cases, users will be required to select a special user name to be used as an identifier for the feature and must also enter a password and a secret hint that will help us verify their identity if they forget their password. If IRONMAN.com determines that a person is under the age of 13, based on the information provided during the registration process, that person will not be permitted to register for features requiring the submission of personal information, in accordance with the Children's Online Privacy Protection Act of 1998. Instead, when a child under 13 years old tries to register for such features on IRONMAN.com, he or she will be directed to content which does not involve the submission of personal information. Any personally identifiable information that the child may have attempted to enter during the registration process will not be collected or maintained by IRONMAN.com. Children who indicate that they are under 13 years old will not be able to make credit card purchases or participate in interactive features on IRONMAN.com that involve the collection and retention of personal information (e.g., entering a sweepstakes). 
 
-IRONMAN.com works with (and may provide links to) third party sites that offer features described on IRONMAN.com. Such third parties may permit children under the age of 13 to register for these features on their sites in accordance with their respective privacy policies. Registration for these features is pursuant to the privacy policies of the third parties operating the websites on which registration occurs. For more information, please review the privacy policies of each respective third party site. IRONMAN.com does not knowingly obtain, retain or use information from anyone who indicates that they are under 13 years old.
+  * **We use your personal data after obtaining your consent.** In some cases, we may ask you to grant us separate consent to use your personal data. You are free to deny your consent and the denial will have no negative consequences for you. You are free to withdraw your consent at any time with effect for the future. If you have granted us consent to use your personal data, we will use it only for the purposes specified in the consent form.
+
+
+
+> This also includes our **marketing campaigns**. If you sign up to our email newsletter or when providing us with your email address allow us to use this email address for email marketing, we will use your personal data in our email marketing campaigns. You may unsubscribe from our email newsletter at any time [[unsubscribe from this list](https://ironman.us4.list-manage.com/unsubscribe?u=36ebad974c5875d65fba57d76&id=a62c7d7213&e=28311b5264&c=0135fd57a5)]. You may also contact us via email, phone or mail at the addresses provided at the end of this document to request that we remove you from our email list. 
+
+  * **We use your personal data to comply with legal obligations.** We are obligated to retain certain data because of legal requirements, for example, tax or commercial laws or we may be required by law enforcement to provide personal data on request.
+
+
+
+We will only use your personal data for the purposes for which we have collected them. We will not use your personal data for other purposes. We do not use your personal data for automated individual decision-making.
+
+**5\. With whom do we share your personal data?**
+
+As required in accordance with how we use it, we will share your personal data with the following third parties: 
+
+  * **Service providers and advisors** **:** Third party vendors and other service providers that perform services for us and on our behalf, which may include marketing campaign services, providing mailing or email services, tax and accounting services, services related to the registration and organization of our Events, payment processing, data enhancement services, fraud prevention, web hosting, or providing analytic services. These third parties include: Gulfspring Timing, Mika-Timing, Google Analytics. Any such service providers will by appropriate data processing agreements be bound to only process the data on our behalf and under our instructions.
+
+
+  * **Marketing Partners.** Provided you have granted your consent, we may disclose your personal data to our third-party sponsors and marketing partners (collectively, " **Marketing Partners** ") to allow them to market their products or services to you, and measure the effectiveness of their marketing campaigns, promotions, endorsements and sponsorships or for other marketing purposes.
+
+
+  * **Event Photographers.** If you participate in our Events and have given us consent to do so, we will disclose your bib number, name, email address and phone number to the Event photographer, who may contact you with photos from the attended Event.
+
+
+  * **Purchasers and third parties in connection with a business transaction:** Personal data may be disclosed to third parties in connection with a transaction, such as a merger, sale of our assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business, or in the event of a bankruptcy or similar proceedings.
+
+
+  * **Law enforcement, regulators and other parties for legal reasons:** Third parties as required by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our legal claims or to protect the security or integrity of our Services; and/or (c) to exercise or protect the rights, property, or personal safety of WTC, our athletes, visitors, or others.
+
+
+  * **The public:** The official rankings and information justifying the ranking will be disclosed to visitors of our event and on our website.
+
+
+
+**  6\. How long do we keep your data?**
+
+We will store personal data for as long as necessary to fulfil the purposes for which we collect the data, in accordance with our legal obligations and legitimate business interests. Afterwards, or at the end of the statutory retention times, the personal information will be deleted. For example, national commercial or financial codes may require to retain certain information for up to 10 years.
+
+**7\. How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal data when you use our Service. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose personal data may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+
+**8\. How do we safeguard your personal data when there is an international transfer?**
+
+In certain cases, we transfer personal data to countries outside the European Union or the European Economic Area. For example, where we disclose personal data to our affiliate World Triathlon Corporation, personal data will be transferred and processed in the USA. This may mean that your personal data will be stored in a jurisdiction that offers a level of protection that may, in certain instances, be less protective of your personal data than the jurisdiction you are typically a resident in.
+
+For this reason, we have entered into guarantees to ensure appropriate safeguards. If we transfer information from the European Union to third parties outside the European Union and to countries not subject to schemes which are considered as providing an adequate data protection standard, we will enter into contracts which are based on the EU Standard Contractual Clauses with these parties.
+
+If you wish to inquire further about the safeguards we use, please contact us using the details set out at the end of this Privacy Policy.
+
+We will take reasonable steps to ensure that your personal data is treated securely and in accordance with applicable law and this Privacy Policy.
+
+**9\. Cookies and Similar Technologies**
+
+The Services uses cookies, flash objects, web beacons, file information and similar technologies to distinguish you from other users of the Services. This helps us to provide you with a good experience when you browse the Services and also allows us to improve the Services.
+
+Cookies are pieces of code that allow for personalization of the Services experience by saving your data such as user ID and other preferences. A cookie is a small data file that we transfer to your device's hard disk (such as your computer or smartphone) for record-keeping purposes. 
+
+**We use the following types of cookies:**
+
+  * **Strictly necessary cookies.** These are cookies that are required for the essential operation of the Services such as to authenticate users and prevent fraudulent use.
+  * **Analytical/performance cookies.** These allow us to recognize and count the number of visitors and to see how visitors move around the Services when they are using it. This helps us to improve the way the Services works, for example, by ensuring that users are finding what they are looking for easily.
+  * **Functionality cookies.** These are used to recognize you when you return to the Services. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+  * **Targeting cookies.** These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it, and the marketing messages we send to you more relevant to your interests. We may also share this data with third parties who provide a service to us for this purpose.
+  * **Third party cookies.** Please be aware that advertisers and other third parties may use their own cookies tags when you click on an advertisement or link on our website. These third parties are responsible for setting out their own cookie and privacy policies.
+
+
+
+**How to manage cookies?** The cookies we use are designed to help you get the most from the Services but if you do not wish to receive cookies, most browsers allow you to change your cookie settings. Please note that if you choose to refuse cookies you may not be able to use the full functionality of the Services. These settings will typically be found in the "options" or "preferences" menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the "Help" option in your browser for more details.
+
+    * [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/products/windows)
+    * [Cookie settings in Firefox](http://support.mozilla.org/en-US/kb/cookies)
+    * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+    * [Cookie settings in Safari web and iOS](https://support.apple.com/kb/PH5042?locale=en_GB)
+
+
+
+We also use clear gifs in HTML-based emails sent to our Customers to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of our Service. You can set your e-mail options to prevent the automatic downloading of images that may contain these technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it.
+
+If you would like to find out more about cookies and other similar technologies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) or the Network Advertising Initiative's online sources at [www.networkadvertising.org](http://www.networkadvertising.org/).
+
+**10\. What rights and choices do you have?**
+
+We want you to understand your rights and choices regarding how we may use your personal data. Depending on how you use your data, these rights and choices may include the following: 
+
+  * **Individual Rights.** You have specific rights under applicable privacy law in respect to your personal data that we hold, including a right of access and erasure and a right to prevent certain processing activities.
+
+
+
+If you are a **r** **esident in the European Union** , you have the following rights in respect to your personal data that we hold:
+
+  * **Right of access.** The right to obtain access to your personal data.
+
+
+  * **Right to rectification**. The right to obtain rectification of your personal data without undue delay where that personal data is inaccurate or incomplete.
+
+
+  * **Right to erasure**. The right to obtain the erasure of your personal data without undue delay in certain circumstances, such as where the personal data is no longer necessary in relation to the purposes for which it was collected or processed.
+
+
+  * **Right to restriction.** The right to obtain restriction of the processing undertaken by us on your personal data in certain circumstances, such as, where the accuracy of the personal data is contested by you, for a period of time enabling us to verify the accuracy of that personal data.
+
+
+  * **Right to portability.** The right to portability allows you to move, copy or transfer personal data easily from one organization to another.
+
+
+  * **Right to object.** You have a right to object to any processing based on our legitimate interests where there are grounds relating to your particular situation. You can object to marketing activities for any reason whatsoever.
+
+
+
+If you wish to exercise one of these rights, please contact us using the contact details below. For cookies or e-mail marketing, we provide the following easily usable option:
+
+  * **Cookies Settings and Preferences.** You may disable cookies and other tracking technologies through the settings in your browser.
+
+
+  * **E-Mail Settings and Preferences.** If you no longer want to receive marketing e-mails from us, you may choose to unsubscribe at any time [[unsubscribe from this list](https://ironman.us4.list-manage.com/unsubscribe?u=36ebad974c5875d65fba57d76&id=a62c7d7213&e=28311b5264&c=0135fd57a5)].
+
+
+
+In addition to the foregoing listed rights, as an EU resident, you also have the right to **lodge a complaint** with your local data protection authority. Further information about how to contact your local data protection authority is available at <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>.
+
+**11\. How to contact us?**
+
+If you have any questions or concerns about our Privacy Policy or if you want to exercise your rights, please send an email to legal@ironman.com
+
+**12\. Data Protection Officer**
+
+For all enquiries regarding WTC’s activities you may also want to contact our Data Protection Officer who can be reached at: datenschutz@ironman.com.
+
+**13\. Online Privacy Policy Updates**
+
+We may make changes to our privacy policy from time to time. Please review our policies regularly as updated policies will apply to your future use of our Services.
+
+WTC welcomes your comments or questions regarding this Policy. Please contact us at:
+
+World Triathlon Corporation  
+c/o IRONMAN 
+
+3407 West Dr. Martin Luther King Jr. Blvd
+
+Suite 100
+
+Tampa, Florida 33607
+
+(813) 868-5940  
+[PrivacyPolicy@ironman.com](mailto:PrivacyPolicy@ironman.com)
