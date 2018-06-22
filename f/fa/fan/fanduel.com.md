@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fanduel.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235000id_/https%3A//www.fanduel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanduel.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622180408id_/https%3A//www.fanduel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FanDuel
 
-Last Update Posted: February 22, 2017
+Last Update Posted: May 25, 2018
 
-### 1\. Introduction
+## 1\. Introduction
 
  _1.1_ FanDuel (“FanDuel, we, us”) recognizes that people who use FanDuel’s Service (“you” or “users”) value their privacy. This Privacy Policy details important information regarding the collection, use and disclosure of User information collected on FanDuel’s fantasy sports website located at fanduel.com (the "Site"), the related mobile app, and any other features, tools, materials, or other services (including co-branded or affiliated services) offered from time to time by FanDuel or its affiliate companies (the “Service”). FanDuel provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Service.
 
@@ -17,7 +17,7 @@ FanDuel Inc
 300 Park Avenue South, 14th Fl.  
 New York, NY 10005
 
-### 2\. Information We Collect
+## 2\. Information We Collect
 
 By using our Service and by submitting information to us through your use of our Service then this Privacy Policy will apply. You provide certain personal information to FanDuel when choosing to participate in the various activities on the Service such as registering for an account, participating in contests, posting messages, taking advantage of promotions, responding to surveys or subscribing to newsletters or other mailing lists. The personal information we collect from you generally may include:
 
@@ -49,7 +49,7 @@ By using our Service and by submitting information to us through your use of our
 
  _2.1.14_ any other information you submit to FanDuel when choosing to participate in various activities on the Service.
 
- _2.2_ In addition to the above, we may need to verify your identity in order for you to use some aspects of the Service. For purposes of verification, we may also collect the following personal information from you:
+ _2.2_ In addition to the above, we may need to verify your identity in order for you to use some aspects of the Service. For purposes of verification, we may also collect the following personal information from you (for compliance reasons, provision of this information, when requested, is a mandatory condition of using our Service):
 
  _2.2.1_ passport information;
 
@@ -73,13 +73,15 @@ By using our Service and by submitting information to us through your use of our
 
  _2.7_ Clear GIFs Information: When you use our Service, we may employ technology such as "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our users. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by specific users.
 
-### 3\. The Way FanDuel Uses Your Personal Information
+ _2.8_ FanDuel may also collect information about you from third parties, such as marketing partners, identity verification services, anti-fraud services and other service providers.
+
+## 3\. The Way FanDuel Uses Your Personal Information
 
  _3.1_ We use your personal information to operate, maintain, and provide to you the features and functionality of the Service, including but not limited to the following:
 
- _3.1.1_ providing you with our products and services, including our games; 
+ _3.1.1_ providing you with our products and services, including our games;
 
-_3.1.2_ processing and responding to enquiries;
+ _3.1.2_ processing and responding to enquiries;
 
  _3.1.3_ personalizing your use of the Service,
 
@@ -105,23 +107,25 @@ _3.1.2_ processing and responding to enquiries;
 
  _3.5_ We may anonymize, de-identify, or aggregate your information for any legitimate business purposes, including for reporting and research, or advertising. Such anonymized and/or aggregated data does not personally identify you. Sometimes, this information may be used to target more relevant content or offers to you across different devices – for instance, we may provide you with offers and content on your mobile device, based on your web-based activity.
 
-### 4\. When FanDuel Discloses Information
+ _3.6_ We will retain personal information as long as necessary to fulfill these purposes unless the law requires us to keep it for a longer period of time. To provide security and business continuity for the activities described here, we make backups of certain data, which we may retain for longer than the original data.
+
+## 4\. When FanDuel Discloses Information
 
  _4.1_ We may disclose the information we collect or receive from you to our subsidiaries, affiliated companies, agents, or other businesses, or service providers who process your information on our behalf in order to provide or operate the Service. For instance, these entities may have access to your information for purposes including (but not limited to) billing and accounting, hosting, marketing, promotional and email services, customer and technical support, and for the purpose of accepting deposits and paying withdrawals and processing such information on our behalf, and in each case, may use the information to make improvements to the services they provide to us. Our agreements with these service providers limit the kinds of information they can use or process and require them to use reasonable efforts to keep your personal information secure.
 
  _4.2_ When you choose to share information with social media services about your activities on FanDuel by, for example, connecting your social media account to our Service, then FanDuel may share your personal information and information about your use of the Service with such social media sites. Please make sure to read the terms and privacy statements of such sites prior to connecting to our Service in this way.
 
- _4.3_ In the event that you win a prize we may use your personal information (such as your name and photo) in connection with publicity purposes. 
+ _4.3_ In the event that you win a prize we may use your personal information (such as your name and photo) in connection with publicity purposes.
 
-_4.4_ In the event that you win a promotion run by us we may be required to either publish or make available upon request your name and county in accordance with applicable legislation.
+ _4.4_ In the event that you win a promotion run by us we may be required to either publish or make available upon request your name and county in accordance with applicable legislation.
 
- _4.5_ We may publish a profile page that includes your username, the date you became a member, your stats from previous contests and, if you uploaded one, your profile picture. Where you post personal information about yourself through our Service to public areas of our Service, you acknowledge and agree that this personal information will be publically available. 
+ _4.5_ We may publish a profile page that includes your username, the date you became a member, your stats from previous contests and, if you uploaded one, your profile picture. Where you post personal information about yourself through our Service to public areas of our Service, you acknowledge and agree that this personal information will be publically available.
 
-_4.6_ When you participate in a contest, we may publish your username on a list of the contest participants, along with a link to your profile page. 
+ _4.6_ When you participate in a contest, we may publish your username on a list of the contest participants, along with a link to your profile page.
 
-_4.7_ Where you have provided your consent, we may share your personal information with selected third parties for their commercial or marketing use in conjunction with your relationship with FanDuel or as part of a specific program or feature. 
+ _4.7_ Where you have provided your consent, we may share your personal information with selected third parties for their commercial or marketing use in conjunction with your relationship with FanDuel or as part of a specific program or feature.
 
-_4.8_ In addition, we may disclose to third parties various types of your information for targeted online or mobile advertising, as further described in the Section titled “Third Party Advertising and Analytics.”
+ _4.8_ In addition, we may disclose to third parties various types of your information for targeted online or mobile advertising, as further described in the Section titled “Third Party Advertising and Analytics.”
 
  _4.9_ We also may share personal information in other situations with your consent.
 
@@ -129,43 +133,80 @@ _4.8_ In addition, we may disclose to third parties various types of your inform
 
  _4.11_ In the event that FanDuel is involved in a merger, acquisition, sale, bankruptcy, insolvency, reorganization, receivership, assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, or other change of control, there may be a disclosure of your personal information to another entity related to such event.
 
-### 5\. Your Choices
+ _4.12_ Recipients of the data disclosures described in this Privacy Policy are located in the United States and elsewhere in the world, including where privacy laws may not provide as much protection as your country. 
 
- _5.1_ FanDuel will process your personal information in accordance with this Privacy Policy, and as part of that FanDuel provides you with certain choices about how we process your personal information. These choices are set out below.
+## 5\. Legal Bases for Processing Personal Data
 
- _5.2_ You can access and update certain personal information FanDuel holds about you at any time by logging into your account via the Service. You can update your marketing preferences and whether or not you would like us to send you newsletters in your account. You can also unsubscribe to marketing emails and newsletters by using the 'unsubscribe' feature in the communication.
+ _5.1_ Some laws require companies to tell you about the legal grounds they rely on to process your personal information. To the extent those laws apply, we process your personal information:
 
- _5.3_ We may occasionally send display media to you, in a targeted way, whether through web or mobile browsers or mobile applications. You may opt out of many third parties that support and send this type of targeting advertising by going to www.aboutads.info, and you may learn more about this type of advertising in the below Section titled “Third Party Advertising and Analytics.” You may opt out of tracking for mobile advertising through the settings on most smartphones, and you may learn more about these settings through those mobile device platforms, i.e., Google (here) and Apple (here). (Please note that these companies may change either the way these settings operate, the content or the availability of these pages.)
+ _5.1.1_ Legitimate interests: In many cases, we handle personal data on the ground that it furthers our legitimate interests’ in commercial activities such as the following in ways that are not overridden by the interests or fundamental rights and freedoms of the affected individuals:
 
- _5.4_ We may occasionally send you push notifications to your mobile device. You can turn off certain push notifications in the account settings of your FanDuel mobile app. You can also turn off push notifications specific to our Service in the settings on your iOS device, or through the application manager in your Android device.
+(a) Customer service
 
-### 6\. Third Party Advertising And Analytics
+(b) Marketing
 
- _6.1_ Certain ads appearing on our Service are delivered by our advertising partners. Our advertising partners may use cookies and other similar technologies, often in conjunction with unique (anonymous) cookie identifiers, to collect data about your activities and interests, including the technologies described above. Some of these partners may use mobile device identifiers, such as Apple IDFAs and Google/Android Advertising IDs. Doing this allows the ad companies to recognize your computer or device each time they send you an online or mobile advertisement. In this way, the ad companies may compile information about where you, or others who are using your computer or device, saw their advertisements and measure your interaction with each ad. This information allows ad companies to deliver targeted advertisements that may be of increased interest to you, both on our Service and elsewhere online. Just as these technologies may be used to target ads on our websites and apps, we, or our advertising partners, may use these same technologies and data points (e.g., mobile identifiers, cookie identifiers, location-based data), through our Service or through other services, to target advertising (for ourselves or other companies) on other sites or mobile apps. Sometimes, these identifiers may be derived from a hashed or encrypted version of personal information such as your email address. We may use this information to measure the performance of our advertising as well, for instance, to evaluate which ads or content our users prefer, or which are most effective. In addition, sometimes we or an advertising partner may tailor advertising to you across different devices.
+(c) Protecting our players, personnel and property
 
- _6.2_ To learn more and to opt out of the collection of data on our website by third parties (including those described above) for interest-based advertising purposes, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices) or [www.youronlinechoices.com](https://www.youronlinechoices.com/). Note that because this opt out method may be cookie-based, you will need to opt out again if you update or change your browser, or delete your cookies.You can also control interest-based advertising on apps on your mobile device with the AppChoices app, available for iOS and Android. Note that opting out will not affect the quantity of ads you see online but likely will cause the ads to be less relevant to you.
+(d) Analyzing and improving our business
 
- _6.3_ We also that we also work with third-party analytics companies to collect data on our Service through cookies and other automated means. In some cases, the third parties mentioned in this section may maintain the information they collect in personally identifiable form.
+(e) Processing job applications
 
-### 7\. Information Security
+(f) Managing legal issues
 
- _7.1_ We are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure.
+ _5.1.2_ We may also process personal data for the legitimate interests of our affiliates or business partners, such as to offer special events or contests or assist with marketing.
 
- _7.2_ Whilst neither we, nor any other organization, can guarantee the security of information processed online, we do have appropriate security measures in place to protect your personal information. For example, we store the personal information you provide on computer systems with limited access that are located in facilities to which access is limited.
+ _5.1.3_ Processing for the contract: Some of our processing of personal data is to meet our contractual obligations with our players. 
 
- _7.3_ To further protect your privacy and security, we reserve the right to take reasonable steps (such as requesting your password) to verify your identity before granting you profile access or making corrections. 
+_5.1.4_ Consent: Where required by law, and in some other cases, we handle personal data on the basis of your implied or express consent. 
 
-_7.4_ Additionally, you should ensure your password is kept secret at all times. You will be responsible for maintaining the secrecy of your password and account information.
+_5.1.5_ Legal compliance: We need to use and disclose personal data in certain ways to comply with our legal obligations.
 
-### 8\. Your California Privacy Rights
+## 6\. Your Choices
 
- _8.1_ If you reside in California, you may request certain general information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:   
+ _6.1_ FanDuel will process your personal information in accordance with this Privacy Policy, and as part of that FanDuel provides you with certain choices about how we process your personal information. These choices are set out below.
+
+ _6.2_ You can access and update certain personal information FanDuel holds about you at any time by logging into your account via the Service. You can update your marketing preferences and whether or not you would like us to send you newsletters in your account. You can also unsubscribe to marketing emails and newsletters by using the 'unsubscribe' feature in the communication.
+
+ _6.3_ We may occasionally send display media to you, in a targeted way, whether through web or mobile browsers or mobile applications. You may opt out of many third parties that support and send this type of targeting advertising by going to www.aboutads.info, and you may learn more about this type of advertising in the below Section titled “Third Party Advertising and Analytics.” You may opt out of tracking for mobile advertising through the settings on most smartphones, and you may learn more about these settings through those mobile device platforms, i.e., Google (here) and Apple (here). (Please note that these companies may change either the way these settings operate, the content or the availability of these pages.)
+
+ _6.4_ We may occasionally send you push notifications to your mobile device. You can turn off certain push notifications in the account settings of your FanDuel mobile app. You can also turn off push notifications specific to our Service in the settings on your iOS device, or through the application manager in your Android device.
+
+ _6.5_ Subject to some important legal limitations, users in Canada can contact us as described below to make additional requests, such as to request access to, correction or deletion of certain personal information we store; to receive a copy of certain personal information they provided to us in portable form or to request that we share it with a third party; to request restrictions on the use of their personal information; to object to our use of their personal information; or to withdraw consent to use their personal information (which will not affect the legality of any processing that happened before the request takes effect). 
+
+_6.6_ For example, Canadian users can contact us to opt out of all processing of their personal information for direct marketing purposes (in addition to the unsubscribe option described here).
+
+ _6.7_ Can reach us as described below with any other concerns, requests or complaints regarding our data collection, data use or data transfer. You also have a right to file a privacy complaint with the relevant privacy regulator, but we respectfully invite you to allow us to try to resolve the matter directly. We will attempt to answer your questions and satisfy your concerns in a timely and complete manner. 
+
+## 7\. Third Party Advertising And Analytics
+
+ _7.1_ Certain ads appearing on our Service are delivered by our advertising partners. Our advertising partners may use cookies and other similar technologies, often in conjunction with unique (anonymous) cookie identifiers, to collect data about your activities and interests, including the technologies described above. Some of these partners may use mobile device identifiers, such as Apple IDFAs and Google/Android Advertising IDs. Doing this allows the ad companies to recognize your computer or device each time they send you an online or mobile advertisement. In this way, the ad companies may compile information about where you, or others who are using your computer or device, saw their advertisements and measure your interaction with each ad. This information allows ad companies to deliver targeted advertisements that may be of increased interest to you, both on our Service and elsewhere online. Just as these technologies may be used to target ads on our websites and apps, we, or our advertising partners, may use these same technologies and data points (e.g., mobile identifiers, cookie identifiers, location-based data), through our Service or through other services, to target advertising (for ourselves or other companies) on other sites or mobile apps. Sometimes, these identifiers may be derived from a hashed or encrypted version of personal information such as your email address. We may use this information to measure the performance of our advertising as well, for instance, to evaluate which ads or content our users prefer, or which are most effective. In addition, sometimes we or an advertising partner may tailor advertising to you across different devices.
+
+ _7.2_ To learn more and to opt out of the collection of data on our website by third parties (including those described above) for interest-based advertising purposes, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices) or [www.youronlinechoices.com](https://www.youronlinechoices.com/). Note that because this opt out method may be cookie-based, you will need to opt out again if you update or change your browser, or delete your cookies. You can also control interest-based advertising on apps on your mobile device with the AppChoices app, available for iOS and Android. Note that opting out will not affect the quantity of ads you see online but likely will cause the ads to be less relevant to you.
+
+ _7.3_ We also that we also work with third-party analytics companies to collect data on our Service through cookies and other automated means. In some cases, the third parties mentioned in this section may maintain the information they collect in personally identifiable form.
+
+## 8\. Information Security
+
+ _8.1_ We are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure.
+
+ _8.2_ Whilst neither we, nor any other organization, can guarantee the security of information processed online, we do have appropriate security measures in place to protect your personal information. For example, we store the personal information you provide on computer systems with limited access that are located in facilities to which access is limited.
+
+ _8.3_ To further protect your privacy and security, we reserve the right to take reasonable steps (such as requesting your password) to verify your identity before granting you profile access or making corrections.
+
+ _8.4_ Additionally, you should ensure your password is kept secret at all times. You will be responsible for maintaining the secrecy of your password and account information.
+
+## 9\. Your California Privacy Rights
+
+ _9.1_
+
+If you reside in California, you may request certain general information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
+
 FanDuel Inc  
 300 Park Avenue South, 14th Fl.  
 New York, NY 10005.
 
-### 9\. Changes and updates
+## 10\. Changes and updates
 
- _9.1_ This Privacy Policy may be revised periodically and this will be reflected by the "Last update posted" date above. Please revisit this page to stay aware of any changes. If a revision to this Privacy Policy, in our sole discretion, is material, we will notify you by contacting you through the email address associated with your account.
+ _10.1_ This Privacy Policy may be revised periodically and this will be reflected by the "Last update posted" date above. Please revisit this page to stay aware of any changes. If a revision to this Privacy Policy, in our sole discretion, is material, we will notify you by contacting you through the email address associated with your account.
 
- _9.2_ Contact Information: Please contact FanDuel with any questions or comments about this Privacy Policy by emailing privacy@fanduel.com.
+ _10.2_ Contact Information: Please contact FanDuel with any questions or comments about this Privacy Policy by emailing privacy@fanduel.com.
