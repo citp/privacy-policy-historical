@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the ferenc.biz privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231172358id_/https%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferenc.biz privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623003556id_/https%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
+
+This Privacy Policy was published on May 17, 2018 and will take effect on May 25, 2018. View our previous policy [here](https://www.zazzle.com/mk/policy/old%202017/privacy_policy). 
 
 Thanks for using <https://www.zazzle.com/> ("Site"). At Zazzle Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy ("Privacy Policy") to make sure you know what information we collect and how we use it. By using the Site, you expressly consent to the collection, storage, disclosure and use of your information as we have outlined in this Privacy Policy and you agree to the terms and conditions of this Privacy Policy. 
 
 We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we make any changes to this Privacy Policy, we will notify you in accordance with our User Agreement. If we make any material changes we will notify you by email or by means of a notice on this Site prior to the change becoming effective. We also encourage you to check back, from time to time, and review this Privacy Policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Site will be subject to the then current Privacy Policy. 
 
-**EU — U.S. Privacy Shield**
+**EU — U.S. Privacy Shield & the General Data Protection Regulation ("GDPR"). **
 
-Zazzle participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Information about the Privacy Shield Framework can be found at the U.S. Department of Commerce's Privacy Shield List. <https://www.privacyshield.gov/list>
+Zazzle participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and, as a Data Controller, complies with the GDPR. GDPR provides EU residents with certain rights to their data and questions should be sent to [privacy@zazzle.com](mailto:privacy@zazzle.com). For purposes of Article 14(2) of the GDPR, Zazzle relies on the following lawful basis for processing Personal Data: consent, compliance with law and legitimate interest. 
+
+Information about the Privacy Shield Framework can be found at the U.S. Department of Commerce's Privacy Shield List. <https://www.privacyshield.gov/list>
 
 Zazzle complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
 
@@ -17,6 +21,8 @@ Zazzle is subject to the regulatory enforcement powers of the U.S. Federal Trade
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our third party dispute resolution provider, JAMS. More information can be found [here](https://www.jamsadr.com/eu-us-privacy-shield). 
 
 If JAMS does not resolve the matter, you may be able to invoke binding arbitration when other dispute resolution procedures have been exhausted. For more information: [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint). 
+
+In addition, you can contact the European Data Supervisory Authority with supervision over Zazzle — The Ireland Data Protection Commissioner; Canal House, Station Road, Portarlington. R32 AP23. [www.dataprotection.ie](https://www.dataprotection.ie/).
 
 **But first, a note about uploading and posting information on the Site:**
 
@@ -112,9 +118,9 @@ Additionally, Zazzle releases certain information, including personally identifi
 
 In the event that Zazzle is acquired by or merges with another company, Zazzle reserves the right to transfer, in connection with such acquisition or merger, all information we have collected from our users. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information. 
 
-Zazzle may disclose non-personally-identifiable information to third parties in aggregate form or to potential business partners and investors. 
+Zazzle may disclose non-personally-identifiable information to third parties in aggregate form or to potential business partners and investors, in each instance in accordance with GDPR. 
 
-Zazzle will obtain assurances from its agents that they will only process the data for the limited and specified purposes consistent with the consent provided by the individual and will safeguard personal information consistently with this Policy. The assurance may include: a contract binding the agent to provide at least the same level of protection as is required by the relevant Privacy Shield Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), or Privacy Shield certification by the agent. 
+Zazzle will obtain assurances from its agents that they will only process the data for the limited and specified purposes consistent with the consent provided by the individual and will safeguard personal information consistently with this Policy. The assurance may include: a contract binding the agent to provide at least the same level of protection as is required by the relevant Privacy Shield Principles, being subject to GDPR, or Privacy Shield certification by the agent. 
 
 **Advertising**
 
@@ -156,12 +162,11 @@ We will retain your information for as long as your account is active or as need
 
 Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. 
 
-The current version of the Zazzle Privacy Policy was adopted effective as of November 2, 2017. 
-
   * Policies
   * [User Agreement](https://www.zazzle.com/mk/policy/user_agreement)
   * [Privacy Policy](https://www.zazzle.com/mk/policy/privacy_policy)
   * [Designer License Agreement](https://www.zazzle.com/mk/policy/designer_license_agreement)
+  * [Zazzle Custom Stamps™ Agreement](https://www.zazzle.com/mk/policy/zazzle_custom_stamps_agreement)
   * [Volume Bonus Agreement](https://www.zazzle.com/mk/policy/volume_bonus_agreement)
   * [Associates Agreement](https://www.zazzle.com/mk/policy/associates_agreement)
   * [Shipping & Returns](https://www.zazzle.com/mk/policy/shippingreturns)
