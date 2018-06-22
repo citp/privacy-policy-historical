@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timesascent.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217231315id_/http%3A//www.timesascent.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesascent.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622160447id_/http%3A//timesascent.com/privacyPolicy) for the most accurate reproduction.*
 
-# 
+# Times Ascent - Privacy Policy
 
 BCCL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users BCCL offers a vast repository of Online Sites and variety of community services. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'BCCL Channels' in detail. The information about the user as collected by BCCL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
