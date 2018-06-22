@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the restaurantbusinessonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003756id_/http%3A//www.restaurantbusinessonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurantbusinessonline.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622184206id_/http%3A//www.restaurantbusinessonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Restauant Business Magazine
+# Privacy Policy
 
 ## Your Privacy Rights
 
-Last Revised: October 1, 2013
+Last Revised: 2015
 
 #### Introduction
 
@@ -102,3 +102,9 @@ Chicago, IL 60606
 
 Phone: (312) 876-0004  
 Fax: (312) 876-1158
+
+* * *
+
+## [Data Protection Policy for EU Citizens](http://cspdigitals.com/winsight/Data-Protection-Policy-Winsight-LLC-052318-AY.pdf)
+
+Last Revised: May 2018
