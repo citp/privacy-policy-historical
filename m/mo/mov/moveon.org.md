@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moveon.org privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322110030id_/http%3A//front.moveon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moveon.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622171727id_/https%3A//front.moveon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MoveOn.Org | Democracy In Action
 
@@ -6,7 +6,7 @@ This website, http://civic.moveon.org (the “Site”) is operated by MoveOn.org
 
 If at any time you would like to unsubscribe from our email list, you may do so by [completing this form](https://www.moveon.org/subscrip/i.html). The Site is directed to users in the United States only.
 
-MoveOn.org will send you updates by e-mail. If you join a MoveOn council, you may also receive updates from your other council members. You can remove yourself from the mailing list at any time. Your phone number will be visible to other members of your coordinating council. You may be contacted by phone to coordinate your participation in MoveOn events.  
+MoveOn.org will send you updates by e-mail. You may be contacted by phone to coordinate your participation in MoveOn events.  
 We do not share the information you’ve given us with unaffiliated groups without your explicit permission. We may share some of your personal information with the following affiliated groups:
 
   * MoveOn.org Political Action, our sister organization;
@@ -24,7 +24,7 @@ We do not share the information you’ve given us with unaffiliated groups witho
 
 Under circumstances where we determine that members may be misusing our systems for malicious purposes (for example, using the numbers we provide to make harassing phone calls), such activities may be reported to law enforcement agencies. In such cases, MoveOn may release personally identifiable information, including name and address, to those agencies.
 
-Please review this privacy policy periodically because we modify it from time to time. This privacy policy was last revised on February 21, 2006. Each time you visit this Site or provide us with information through the Site, by doing so you are accepting practices described in the privacy policy in effect at that time. You are also accepting our specific rules or terms of use which may be posted on specific sections of the Site, including areas for making donations, signing petitions or sending emails, and taking part in our photo campaigns.
+Please review this privacy policy periodically because we modify it from time to time. This privacy policy was last revised on May 5, 2017. Each time you visit this Site or provide us with information through the Site, by doing so you are accepting practices described in the privacy policy in effect at that time. You are also accepting our specific rules or terms of use which may be posted on specific sections of the Site, including areas for making donations, signing petitions or sending emails, and taking part in our photo campaigns.
 
 This privacy policy applies to transactions and activities in which you engage and data gathered only on the Site. **This privacy policy does not apply to any other website or any offline contact between MoveOn.org Civic Action and any other entity or offline contact between you and MoveOn.org Civic Action.**
 
