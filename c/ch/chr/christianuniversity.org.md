@@ -1,44 +1,123 @@
-> *The following text is extracted and transformed from the christianuniversity.org privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902094503id_/http%3A//ourdailybread.org/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianuniversity.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622061306id_/http%3A//ourdailybread.org/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Our Daily Bread Ministries
 
-_Effective: January 15, 2015_
+This policy was last modified on May 25, 2018.
 
-Our Daily Bread Ministries (“ **ODB** ”, “ **we** ”, or “ **us** ”) values the privacy of our Web site visitors. We have created this privacy statement in order to disclose the information we collect through our websites and mobile applications (collectively “ **Site** ”), and how we gather, use and disseminate this information. This privacy statement applies to all domains associated with ODB.
+**Who We Are**
 
-**PRIVACY STATEMENT**
+Our Daily Bread Ministries is a global ministry with a mission to make the life-changing wisdom of the Bible understandable and accessible to all.
 
-Information collected on this site will be used according to the following guidelines:
+**Definitions**
 
-  1. **Personal Information Policy.** ODB maintains a strict ministry-wide policy that we will never sell, rent, or otherwise give your private information to other persons or organizations, commercial or non-profit. The only exception would be to comply with the law, or to protect the rights, property, or safety of ODB, our users, or others. Any personally identifiable information (name, address, telephone number(s), and/or e-mail address) that you submit to us is used only for the purpose for which it was given.
-  2. **Collection and Use of Personal Information.** Depending on how you use the Site, we may ask you to share personally identifiable information (“ **Personal Information** ”) with us. It is your choice whether you share any Personal Information with us, however some parts of the Site may not be available without sharing Personal Information. Personal Information includes any information that identifies, or can be used to identify, contact or locate you. Some examples of when we ask for and collect Personal Information include: 
-    1. **When creating an ODB account.** When creating an account you will provide your e-mail and mailing address and may also elect to provide preferential and interest-based information. This allows us to send you updates, contact you regarding announcements, system updates, new ministry products and offerings, and other information.
-    2. **Contact Us.** We use Contact Us forms located on various areas of the Site to allow you to contact us directly with any questions, comments, or requests you may have. This information is used to respond to your questions, comments, and requests. We may also file your comments to improve the Site and program, or review and discard the information.
-    3. **Email Registration.** You have the opportunity to receive regular emails from ODB. When signing up for email you may be asked to provide Personal Information (including email address, name, country, and preferences). Information provided will be used to deliver email to you, personalize your experience and to improve and enhance what we offer. We only send emails to users that have opted-in to receive our mailings. If at one time you signed up for email but no longer wish to be a part of that email list, you may unsubscribe by clicking Unsubscribe within the email.
-    4. **Mobile Apps.** We offer various apps for mobile devices, including phone and tablets. Full access to all the features within the applications (including commenting, journaling, and bookmarks), will require the creation of an account.
-  3. **Logged Files and Cookies.** When you log onto the Internet, your ISP automatically assigns an IP address to your computer. Web servers identify your computer by its IP address, and we use your IP address to help diagnose problems with our servers, to administer the Site, and to constantly improve the value of the materials available on the Site. 
-  4. **Information Collected.** We collect information from you in several different ways on the Site. One goal in collecting Personal Information from you is to provide an efficient, meaningful, and customized experience. ODB may collect Personal Information from all who purchase products offered in connection with ODB.org, ODB Ministries, or any of its publishing divisions. Any Personal Information you choose to share with ODB is used to (a) deliver products and services; (b) analyze and monitor visitor and customer activity; (c) promote and support the products and services offered; (d) help plan the future development of the Site and the products and services offered; and (e) develop a knowledge base regarding Web site users and customers. To deliver you the product(s) or service(s) you requested, we may need to disclose Personal Information to any of our global ODB offices and affiliates. 
-    1. We have entered into agreements with trusted agents and business members who provide support services and equipment necessary for ODB and its ministry associates to provide their products and services. We may share data with these trusted agents and business associates. For example, if you make a purchase from us, the information you provide will be collected by our processing agent, and your credit card information will be provided to our credit card processor so that we can complete the sale. Please do not submit information that you do not wish to have shared.
-    2. We collect anonymous 3rd-party audience data (such as age, gender, and interests) through Google Analytics. We use this information to improve and personalize the Site. We may also use this information to identify opportunities to tailor content to an audience(s).  
-Occasionally, we may request user feedback via surveys. This information will be used entirely by us to improve our products and services.
-    3. We may contact you about updating your personal details to enable you to be aware of additional products or services.
-    4. ODB and DHP are non-profit ministries supported by the gifts of faithful friends and members. We do not send any direct gift solicitations to our contacts or anyone on our mailing list. However, we maintain the right to change this gift solicitation policy in the future as directed by the ODB governing board.
-  5. **Security.** Protecting your privacy and your information is a top priority at ODB. We use commercially reasonable means to protect the integrity of the Site and the confidentiality of collected data. Our employees and authorized volunteers are aware of our privacy and security policies and your information is only accessible to those employees and authorized volunteers who need it in order to perform their jobs. However, we cannot provide absolute assurance against, and will not be liable for, any breaches of confidentiality due to system failures or unauthorized access by third parties.
-  6. **Restrictions.** The Site is intended for users who are 18 years of age or older. If you are not 18 years of age or older, do not submit any information to us.
-  7. **Update User Information.** Upon request, reasonable access to Personal Information will be provided within 60 days of request at no cost to the user. If access cannot be provided within that timeframe, we will provide the user a date when the information will be provided. If for some reason access is denied, we will provide an explanation as to why access has been denied.
-  8. **Links.** The Site may contain links to other Web sites not owned or managed by ODB. These links do not mean we endorse or approve those Web site’s policies toward visitor privacy. We encourage you to visit these Web sites to learn about their privacy policies as theirs may differ from ours. We encourage you to read the privacy statement of any Web site you may visit.
-  9. **Message Boards and Comments.** Any information that is posted to message boards, chat rooms, comments, or the like on the Site becomes public information. The viewpoints expressed in these comments are solely those of the individual commenting and are not endorsed by us and don’t represent the opinions or beliefs of ODB. ODB is not responsible for any unacceptable language or topics discussed, but we will do everything we can to assure that these areas are monitored and that the appropriate topics are discussed.
-  10. **Updates to this Policy.** We reserve the right to update this privacy policy at any time. Changes will be posted on this Site with an updated effective date. Please check our site periodically to see the current policy.
-  11. **Acceptance.** Use of the Site will constitute the user’s acceptance of this privacy policy and any updates thereto. If you have any questions or complaints about any uses of data, or about this statement in general, you may contact us by using the Contact Us form on the Site or by writing to us at the following address:
+We have several different websites and mobile applications. In this policy, we use terms that are easy to read. For example, whenever we refer to “our websites,” we are referring to:
 
-> > Our Daily Bread Ministries  
->  3000 Kraft Ave. SE  
->  Grand Rapids, MI 49512
+These Our Daily Bread Ministries websites
 
-  12. **ODB Terms and Conditions of Use**
-    1. Any dispute relating to the ODB Privacy Policy shall be governed by the terms and conditions of this Privacy Policy, as well as those set forth in the [Terms and Conditions ](http://ourdailybread.org/policy/terms-and-conditions/)of Use of Our Daily Bread Ministries Web Site.
-    2. **Jurisdiction.** THESE TERMS SHALL BE GOVERNED BY AND INTERPRETED ACCORDING TO THE LAWS OF THE STATE OF MICHIGAN, WITHOUT REGARD TO CONFLICTS OF LAW PRINCIPLES. ODB AND THE SUBSCRIBER AGREE THAT ALL DISPUTES AND LITIGATION REGARDING THESE TERMS AND MATTERS CONNECTED WITH ITS PERFORMANCE OR RELATING TO THE USE OF THE WEB SITE AND INFORMATION SHALL BE SUBJECT TO, AND THEY EACH CONSENT TO JURISDICTION AND VENUE IN, THE STATE AND FEDERAL COURTS IN MICHIGAN. USE OF THE SITE IS UNAUTHORIZED IN ANY JURISDICTION THAT DOES NOT GIVE EFFECT TO ALL PROVISION OF THESE TERMS AND CONDITIONS, INCLUDING WITHOUT LIMITATION THIS SECTION.
+  *        ourdailybread.org
+  *        odb.org
+  *        discovertheword.org
+  *        discoveryseries.org
+  *        ymi.today
+  *        utmost.org
+  *        christianuniversity.org
+  *        yourdailybread.org
+  *        ourdailybreadfilms.org
+  *        questions.org
+  *        ourdailyjourney.org
+  *        military.odb.org
 
 
 
-_Last updated: January 15, 2015_
+These Our Daily Bread Ministries Mobile Applications
+
+  *        Our Daily Bread
+  *        My Utmost For His Highest
+  *        YMI: Why Am I?
+  *        YMI Lite
+
+
+
+These Our Daily Bread Ministries applications on other platforms
+
+  *        Voice assistants
+
+
+
+When we refer to “ODB,” “us,” “we,” or “our,” in this policy, we are referring to our websites that are owned and operated by Our Daily Bread Ministries. You can use our websites either by as an unregistered user or a registered user, which we collectively will call “visitors.”
+
+**Your Agreement**
+
+Please read this document carefully because it explains how we will collect, use, share and process your personal information and if you choose to use our websites, then you agree to the collection and use of information in relation with this policy. The personal information that we collect is used for providing and improving our websites and making the Bible understandable and accessible. We will not sell, rent or share your information with anyone except as described in this Privacy Policy.
+
+**Information We Collect and How We Collect It**
+
+When using our websites, if you would like to access some features of our websites, for example creating a journal entry or commenting, you have to create an account. If you choose to create an account, you will need to share certain information, such as name, email and country.
+
+We collect information from you in several different ways on our websites. Our goal in collecting this information is to provide you an efficient, meaningful, and customized experience. We may collect personal information, including IP address, if you visit our websites, if you make a donation, purchase or other transaction involving a payment from you to us on our websites. Some examples of when we ask for and collect your personal information include:
+
+  1. **When creating an account on our websites.** When creating an account you will provide your name, e-mail and/or mailing address and may also elect to provide preference and interest-based information. This allows us to send you updates, contact you regarding announcements, system updates, new ministry products and offerings, and other information.
+  2. **Contact Us.** We use Contact Us forms located on various areas of our websites to allow you to contact us directly with any questions, comments, or requests you may have. This information is used to respond to your questions, comments, and requests.
+  3. **Email Registration.** You have the opportunity to receive regular emails while visiting our websites. When signing up for email you may be asked to provide certain details, such as email address, name, country, and preferences. Information provided will be used to deliver email to you, personalize your experience and to improve and enhance what we offer. We only send emails to users that have opted-in to receive our mailings. If at one time you signed up for email but no longer wish to be a part of that email list, you may unsubscribe at anytime by clicking Unsubscribe within the email.
+  4. **Mobile Apps.** We offer various apps for mobile devices, including phone and tablets. Full access to all the features within the applications (including commenting, journaling, and bookmarks), will require the creation of an account.
+  5. **Polls and Surveys.** Sometimes we may invite you to participate in polls and surveys. You are not obligated to respond to polls or surveys, and you have choices about the information you provide.
+  6. **Contests and Giveaways.** Occasionally we may offer opportunities to enter a contest or participate in a giveaway. You are not obligated to enter any contests or giveaways, but if you choose to, you will be required to provide certain information about yourself, such as name, address and email.
+  7. **Website Comments.** We encourage healthy community discussion on our websites. You do not have to participate in these discussions and if you choose to, you will be required to provide certain details, such as name, email and nickname to comment. Any information that is posted to comments or community sections of our websites will be seen by anyone visiting our websites.  
+
+
+
+When you provide us with personal information, we use it to deliver product or services, for example shipping an order, analyze and monitor visitor activity, provide awareness and opportunities for you to engage with additional ministry content, services or the like, help plan the future development of our websites.
+
+To deliver the products or services you requested, we may disclose this information to any of our global Our Daily Bread Ministries offices and affiliates.
+
+**Cookies**
+
+Our websites use cookies to collect information. This includes information about pages viewed, frequency of visit, country of visit, and the user journey around our websites. Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. Detailed information is described in our [Cookie Policy](https://odb.org/cookies-and-other-tracking-technologies).
+
+**Providing Your Personal Data to Others**
+
+To allow us to provide the features and functionalities necessary to run our websites, we work with several third party companies. Some of those companies and what we use them for are:
+
+  * **Google Analytics:** General usage statistics on our websites, for example, how long you spend on a specific website and where you came from.
+  * **IBM Watson Campaign Automation:** To manage our email program, for example, sending the daily Our Daily Bread emails to our email subscribers.
+  * **WordPress:** Delivers the experience you see and interact with on our websites, for example information from registered users on our websites is stored in WordPress.
+  * **Magento:** Delivers the experience when you make a financial transaction, for example a donation, on most of our websites.
+  * **WooCommerce:** Another tool we use to deliver our website experience when you make a financial transaction, for example a donation, on some of our websites.
+  * **CrazyEgg:** General usage statistics used to help identify areas of the site that are most used, not used, and how to make our websites easier to use to spend time in God’s Word.
+  * **Unbounce:** A website testing tool that allows us to test multiple ideas at the same time to select number of visitors. For example, we may want to test a different button color to a small group of visitors and see how it performs before having all visitors use it.
+
+
+
+**Your Access to and Control Over Information**
+
+You are entitled to view or delete any personal information we have. If this is something you would like to do, we would be happy to accommodate. Please send an email letting us know at: gdpr@odb.org.
+
+If you choose to close your account or ask that we modify or delete some or all of your personal information, we will retain your personal data if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, enforce our [Terms and Conditions](https://web.archive.org/policy/terms-and-conditions/) or fulfill any others requests from you (for example, to opt-out of further messages or for a copy of your data).
+
+**Security and Technical Issues**
+
+Protecting your privacy and your information is something we take very seriously. We implement industry standard security safeguards designed to protect your data. While we do all we can to keep our websites secure, since communications and information technology is constantly changing, and that the use of the internet has inherent risks, although we regularly monitor for possible vulnerabilities and attack, we cannot warrant or guarantee that information provided to us through our websites or stored in our systems or otherwise will be absolutely free from unauthorized intrusion by others, nor can we warrant or guarantee that such data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. We may use your data and communications if we think it is necessary for security purposes or to investigate possible fraud or violations of the law or this Privacy Policy and/or attempts to harm others.
+
+**Links to Other Sites**
+
+Some of our websites may contain links to other sites. We provide these links as a convenience to you and if you click on any of those links, you will be directed to that site. These external sites are not owned or operated by us. We would strongly advise you to review the Privacy Policy of those websites. We do not endorse, have any control over, and assume no responsibility, for the content, privacy policies or practices of any external sites or services. If you decide to use any of these links, you are doing so entirely at your own risk.
+
+**Children’s Privacy**
+
+Our websites are intended for people who are 18 years of age or older. If you are not 18 years of age or older, we ask that you please do not submit any personal information to us. We do not knowingly collect personal identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us at gdpr@odb.org so that we will be able to do the necessary actions.
+
+**Changes to this Policy**
+
+From time to time we may need to update this privacy policy. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page. We do encourage you to check this page for the current version of the policy.
+
+**Terms and Conditions of Use**
+
+Our websites are offered in and from Michigan within the United States and your use of our websites and this Privacy Policy is governed by the laws of the United States and the State of Michigan.
+
+If you are using our websites from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and shared database is operated. We process data both inside and outside of the United States and rely on legally-provided mechanisms to lawfully transfer data across borders.
+
+By using our websites, you consent to your information being transferred to our facilities and to those third-parties with whom we share it with as described in this Privacy Policy.
+
+**Contact Us**
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at Our Daily Bread Ministries, 3000 Kraft Ave. SE, Grand Rapids, MI 49512, or via this [form](https://web.archive.org/help/contact-us/).
