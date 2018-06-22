@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fogcreek.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220171233id_/http%3A//www.fogcreek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fogcreek.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622080238id_/http%3A//www.fogcreek.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Fog Creek Software
 
@@ -15,6 +15,10 @@ This privacy policy describes what information we collect when you visit our Ser
 ## PRIVACY SHIELD OVERVIEW
 
 Fog Creek complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Fog Creek also complies with the U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information to the United States. Fog Creek has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+## GENERAL DATA PROTECTION REGULATION (GDPR)
+
+Fog Creek's GDPR compliance information can be found [here](https://web.archive.org/gdpr).
 
 ## TYPES OF INFORMATION
 
