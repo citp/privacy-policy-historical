@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235235id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622163927id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - The University of Utah
 
@@ -7,6 +7,10 @@ The University of Utah has created this statement to demonstrate our firm commit
 ## We Don't Sell Your Contact Information
 
 While using this site, you may choose to submit personal information through email or online forms. We will use this information to process your requests. But we will not intentionally sell, share, or distribute your personal information to third parties, except as required by law or university policy. 
+
+## **EU General Data Protection Regulation**
+
+Please be aware of the University’s GDPR Privacy Notice that supplements this Privacy Statement. The GDPR Privacy Notice applies generally to the provision of personal information by individuals in the European Economic Area. The GDPR Privacy Notice explains how we meet our obligations under the European Union General Data Protection Regulation with respect to such information. The GDPR Privacy Notice can be found at [https://www.utah.edu/privacy/gdpr.html](https://web.archive.org/privacy/gdpr.php "GDPR Privacy Notice"). 
 
 ## Statistical Logs Kept
 
