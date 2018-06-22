@@ -1,182 +1,148 @@
-> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515035622id_/https%3A//keen.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622133137id_/https%3A//keen.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Keen IO
 
-## Keen IO Analytics Service Privacy Policy
+## Keen Privacy Policy
 
-Note: this policy applies only to the Keen IO Analytics Service. It does not apply to the visitors of the Keen website.
+This Privacy Policy describes how Keen.io LLC (“Keen,” “we” or “our”) collects information from and about you as a visitor to our website (the “Site”), how we use that information, and the circumstances under which we share information with others.
 
-## Keen IO Analytics Service Privacy Policy Abstract
+At Keen, we build a highly flexible and customizable analytics platform that can quickly make teams and projects smarter and more successful. We collect and process billions of events from (and return query results to) anything that can connect to the internet.
 
-We respect privacy and only share personal information when required to provide our services to our customers (e.g. payment processing). Personal information is not a monetization channel for us. We may, however, aggregate your user information that you provide to us or that we collect from third parties and use it to learn and share what we have learned about analytics, but all information will be deidentified. Cool? Again, this is just an abstract. The nitty gritty is listed below. If you think our abstract is inconsistent with our policy, let us know. We really want to be on the up and up.
+This Privacy Policy does not apply to personal data that you transmit as a Keen customer to establish and maintain your account, or to any personal data that may be part of the content that you submit or manage using the Keen service. The Terms of Use for our services describe our obligations with respect to any personal data that you submit in connection with your services account or as part of your content.
 
-## Keen IO Analytics Service Privacy Policy
+Keen complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Keen has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
-Last updated: December 10, 2015
+The Federal Trade Commission has jurisdiction over Keen’s compliance with the Privacy Shield.
 
-This Keen IO Analytics Services Privacy Policy (the “Privacy Policy”) explains how our practices regarding the information that is processed through our Analytics Service (“Service”).
+**Not for Children.** None of our websites, applications or services are intended for children. Please do not submit information about yourself using our websites if you are under 13. If you are the parent or guardian of a child under 13 who may have submitted information to us please contact us at [privacy@keen.io](mailto:privacy@keen.io).
 
-### Consent
+Please contact us at [privacy@keen.io](mailto:privacy@keen.io) if (i) you wish to find out more about our use and disclosure of your personal data and how to limit it, (ii) you wish to exercise your right to access, amend, or delete any personal data we hold about you; or (iii) you have any other questions or concerns about this Privacy Policy.
 
-By submitting information through our Service, you agree to the terms of this Privacy Policy (or, if you are acting on behalf of your employer or other organization, you agree on behalf of such organization) and you expressly consent to the processing of such information according to this Privacy Policy.
+### **What information do we collect?**
 
-In particular, you understand that information may be processed in the country where it was collected as well as other countries (including the United States) where laws regarding processing of information may be less stringent than the laws in your country, and you consent to such processing.
+**Webserver**
 
-If you are submitting information pertaining to third parties for processing through our Service, you represent and warrant that you have adequately disclosed to such third parties that information about them would be processed by a service provider, and that these third parties did not object to the use of such services.
+When you visit the Site as a guest, our web server will capture your IP address, the time and duration of your visit, and the pages on the Site that you visit. It may also collect information about your browser, device (including your mobile device), location and other information of the type collected by web servers generally. We use cookies, web beacons, and other techniques to identify your browser and device to your guest activity on the Site. Please see the section below captioned “Online Data Collection Technologies” for more information regarding our use of these techniques and your ability to restrict our collection of data in this manner.
 
-### Definitions
+**Analytics Tools**
 
-“Anonymous Data” means data that is not associated with or linked to Personal Data; Anonymous Data does not permit the identification of an individual.
+We may use third party web analytics tools to capture information about your use of the Site, such as mouse clicks and scrolling activity. For example, we may use Google Analytics, Google Website Optimizer, or Segment. The providers of these tools may capture data about your activity on our Site, via cookies and other techniques.
 
-“Customer” means a user of our Service. A Customer may use the Keen IO Analytics Service for his/her own purpose, or on behalf of his/her employer. Using the Keen IO tools available through the Service, the Customer can perform analyses of the use of websites in the custody or control of that Customer, or with respect to which the Customer is providing services to a third party.
+**Information You Submit**
 
-“Data Subject” mean a user of a website for which the website operator wishes to obtain analysis of the usage patterns of the users of that website.
+We may ask you to volunteer information about yourself using the Site. For example, we may ask you to provide your name, phone number, and email address, demographic data (such as your profession, age, gender, interests), and information about your general interest in the Service. Your submission of this type of information as a guest on the Site is not required.
 
-“Personal Data” means any information relating to an identified or identifiable natural person, which is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity.
+**Links from Other Sites**
 
-### Overview of the Keen IO Service
+If you arrive at our site by clicking on an advertisement or content published by a third party, that third party may provide information to us about your activity on their site. For example, we may use Google AdWords or other third party advertisers, or may sponsor links on other third party sites.
 
-The Keen IO Analytics Service allows businesses to obtain insights into event data by providing an API to collect, analyze, and visualize event data. When providing the Keen Analytics Service, Keen IO acts as a service provider to these businesses or their advisors, consultants or service providers; it does not have a direct relationship with the visitors of these websites.
+**Data Services**
 
-As a service provider, Keen may have access to information that has been generated when an individual visits the website of a Keen Customer or a customer of a Keen Customer. Keen has no direct relationship with that individual. The purpose of this Privacy Policy is to explain what the Keen Service does with these individuals’ data are uploaded on the Keen Platform.
+We may have data about you that we purchased from third party “data matching” services. A data matching service combines data from multiple website operators and uses automated techniques to match data collected from various places to a single individual. Please see the section below captioned Online Behavioral Advertising to learn about behavior advertising practices or to opt out of this type of advertising.
 
-Our Customers must inform the affected Data Subjects about the use of our Service and post a link to this Privacy Policy so that these Data Subjects are made aware of the Keen policies with respect to the handling and protection of Personal Data.
+**Combination with Other Data**
 
-### What Information Keen IO Collects
+If you register for our Services, we may combine information we collect about you as a Site guest with the information we collect about you as a Service user, including personally identifying information, such as your name.
 
-We collect two categories of information:
+### **How do we use your personal information?**
 
-##### Customer Information
+Any of the information we collect from or about you may be used in one of the following ways:
 
-  * We collect information concerning our Customers (the “Customer Information”). These individuals are using the Keen IO Analytics Service for their own purpose, or on behalf of their employer.
-  * When you sign up for the Service we ask you to complete a registration form so that you can create an account. We also provide you with any API and a key, so that you can connect to the Service and upload your information.
-  * When you register for an account, we collect certain profile information such as the registrant’s first and last name, and email address, and payment information.
-  * If you send us feedback, request support, or otherwise interact with us with respect to the Service, we will collect any Personal Data in the email, message, or other communication to us.
-  * We may combine Personal Data submitted by a user of our Service with information obtained from other sources.
-  * Like most websites, Keen IO collects certain information provided by a user’s browser, such as Internet protocol address, browser type, operating system, and access time.
+**To improve our website**
 
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
 
+**To administer a contest, promotion, survey or other site feature**
 
-##### Data Subject Information
+**To send periodic emails**
 
-  * We collect information concerning Data Subjects. Our Service analyzes the usage patterns of these Data Subjects.
-  * We collect all data that you upload on our platform as part of your use of the Service.
-  * We do not control what data is uploaded. We request that you do not upload Personal Data.
+Any email address you provide may be used to send you information and updates pertaining to our services, in addition to receiving occasional company news, updates, related product or service information, etc.
 
+If at any time you would like to unsubscribe from receiving future emails, reply to the email with the subject line ‘Unsubscribe’ to be removed from future emails.
 
+Keen only uses and processes personal data for purposes compatible with the original purpose of collection or as subsequently authorized by you.
 
-### How Information is Collected
+Keen acknowledges that EU individuals have the right to access the personal information that we maintain about them. A EU individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query to [privacy@keen.io](mailto:privacy@keen.io). If requested to remove data, we will respond within a reasonable timeframe.
 
-##### Customer Information
+### How do we protect your information?
 
-Customer information is collected through the use of forms (e.g. registration form) or from interaction with the Customer such as in connection with support request, in which case information is collected from electronic or phone communications.
+We use industry standard and reasonable measures to protect the security of your personal data.
 
-We use cookies and navigational data, such as Uniform Resource Locators (URL) to gather information regarding a Customer’s use of the Service. A “cookie" is a small data file placed on your hard drive when you visit certain websites. Customers may disable cookies by adjusting the preferences settings of their browser. Instructions on how to adjust preferences can be found by consulting the “Help" feature of the browser. If you choose to disable cookies when using the Service, some areas of our website may not work properly.
+### Online Data Collection Technologies?
 
-##### Data Subject Information
+Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies in order to implement authentication and to enable core features of our application, as well as to enable us to better understand user behavior. We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. However, if you turn your cookies off, most of our services may not function properly.
 
-Our Customers upload information from or about Data Subjects onto our Service.
+### **Do we disclose any information to outside parties?**
 
-Keen has no control over what information is uploaded. Keen is not responsible for any information that a Data Subject submits to our Customers, each of which may have its own policies regarding the collection and use of information. If you are a Data Subject, we recommend that you review the policies of our Customers through whom your information may be collected and uploaded on our Service.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information except as follows:
 
-### Do Not Track Notice
+  * To trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
 
-Some Internet browsers have incorporated “Do Not Track” features (“DNT”). DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. When turned on, these features send a signal or preference (the “DNT Signal”) to the web sites you visit indicating that you do not wish to be tracked. We do not currently respond to the browser DNT signals on our Site or Services, or on third-party websites or online services where we provide advertisements, content, or are otherwise able to collect information.
+  * When we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
-##### Third Party Tracking
+  * In addition, if we ever decide to sell our business we may provide the information to a potential acquirer but only to the extent customary in these circumstances and subject to the potential acquirer’s agreement to maintain the information in confidence and use it only for the purpose of evaluating the potential acquisition.
 
-Our Web Site (not the Keen IO Service) may also send third party cookies to your browser, which may collect your online activities across different websites over time. The collection and use of information through these third party cookies are subject to the Privacy Policy and Terms and Conditions of such third party websites. However, you can exercise choice regarding the collection of information by third parties about your online activities over time and across third party Web sites or online services for online interest based advertising purposes by going to <http://www.networkadvertising.org/choices> or <http://www.aboutads.info/choices/>.
 
-### How Keen IO Uses Information
 
-##### Customer Information
 
-In general, we use your Personal Data to respond to requests from a customer or to aid us in serving better our Customer. We may use a Customer’s Personal Data, including information tracking the Customer’s use of our Service, to improve our website and Service.
+We provide non-personally identifiable visitor information to others for marketing, advertising, or other uses. In limited circumstances we permit these third parties to further share this non-personally identifiable information with others for the purpose of assisting others in developing their online advertising and marketing strategies. For example, we may permit a data service to associate the de-identified data we provide with other information it may have about you. The data service would then use the combined data to provide data services to other website operators and advertisers to assist them in more effectively targeting their content and advertising. Please see the section below captioned Online Behavioral Advertising to learn about behavioral advertising practices or to opt out of this type of advertising.
 
-We may use a Customer’s Personal Data to periodically send that Customer newsletters, administrative notices, updates regarding the Service and communications promoting the use of our Service. Customers may “opt-out” of such communications as set forth below.
+We will provide an individual opt-out or opt-in choice before we share your data with third parties other than as described above, or before we use it for a purpose other than which it was originally collected or subsequently authorized.
 
-##### Data Subject Information
+We will also provide an EU individual with opt-out or opt-in choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.
 
-Our Customers use our Service to analyze Data Subjects information to identify behaviors, build profiles, and more generally to better understand the needs and interests of the Data Subjects.
+To limit the use and disclosure of your personal information, please submit a written request to [privacy@keen.io](mailto:privacy@keen.io).
 
-Keen has no control over the use of the Services by a Customer, and does not have access to the information collected by a Customer, except, as might be necessary to provide support services.
+Keen’s accountability for personal data that it receives under the EU- US Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Keen remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Keen proves that it is not responsible for the event giving rise to the damage.
 
-Keen does not use Data Subject information for its own purposes, other than in aggregated form, combined with other Data Subject information to create internal statistics for financial reporting and billing.
+### **Third party links**
 
-### How Keen IO Shares Your Information
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Keen IO respects the privacy of its Customers and of all Data Subjects whose information might be stored on its platform in connection with the Service. We will not share the data you send us with any third-parties except in accordance with this Privacy Policy.
+### **Children’s Online Privacy Protection Act Compliance**
 
-##### Third Parties
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not intentionally collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-We will NOT use or share the data recorded in Keen IO in raw or aggregate form for any purposes other than internal metrics. Other than as provided in this Privacy Policy, we will not sell or distribute any data recorded in raw or aggregate form to any third parties or partners.
+### **Data Integrity**
 
-##### Service Providers
+Keen processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
-We may share Customer Personal Data with third party service providers, such as payment providers, to provide Customers with the Service. We may process or host Data Subject information through our service providers. These third party service providers are required not to use Personal Data other than to provide the services requested by us.
+### **Privacy Shield**
 
-##### Business Transfers
+In compliance with the Privacy Shield Principles, Keen commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact us at: [privacy@keen.io](mailto:privacy@keen.io).
 
-If another company acquires Keen or Keen’s assets, that company will have access to all data saved on our platform, and will assume the rights and obligations described in this Privacy Policy.
+Keen has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. Data subjects in the EU who do not receive timely acknowledgment of their complaint, or fee that their complaint is not satisfactorily addressed, should visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint. The services of the Better Business Bureau are provided at no cost to you.
 
-##### Compliance with Laws and Third Party Requests
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
-Regardless of any choices you make regarding your Personal Data (as described below), we may disclose Personal Data if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to facially valid court order, subpoenas, warrants or similar request for government or litigant access to data served on us; or (b) respond to and defend against legal claims, protect or defend our rights or property or those of our Customers.
+### **Enforcement**
 
-### Your Options
+Keen regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Keen’s treatment of personal information by contacting us through this web site or by writing to us at Your Privacy Rights, c/o Keen, 122 E. Houston, 2nd Floor, San Antonio, TX 78205. When we receive formal written complaints at this address, it is Keen’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Keen and an individual.
 
-When a Customer receives newsletters or promotional communications from us, the Customer may indicate a preference to stop receiving further communications from us by following the unsubscribe instructions provided in the e-mail you receive. These restrictions will not affect our distribution of administrative communications. We will continue to send our Customers administrative communications, such as notices of updates to this Privacy Policy.
+The U.S. Federal Trade Commission has jurisdiction to investigate and enforce Keen’s compliance with Privacy Shield requirements.
 
-### Your Rights
+### **Online Privacy Policy Only**
 
-##### Right to Object to New Uses of Your Data
+This online privacy policy applies only to information collected through our website and not to information collected offline or information that we receive from our customers as part of providing services.
 
-If at any time you wish to disclose, or use Customer Personal Data in a way or for a purpose that is materially different from that which is described in this Privacy Policy, we will give the Customer the opportunity to choose whether Personal Data that identifies that Customer may be used for a purpose other than the purposes that are set forth in this Privacy Policy.
+### **Online Behavioral Advertising**
 
-##### Right to Know about Third Party Marketing
+To learn more about behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info or Networking Advertising Initiative at [www.networkadvertising.org/](https://www.networkadvertising.org/choices) choices.
 
-We do not share any Personal Data with any third party for the direct marketing purposes of these third parties.
+### **Your Consent**
 
-##### Right to Access and Correct Personal Data
+By using our site, you consent to our web site privacy policy.
 
-Customers may change their Personal Data by editing their profile or by sending us an e-mail. Other than Customer Personal Data, we do not collect or store any data that may be linked to an individual, and we do not attempt to link Data Subject data to a specific individual.
+### **Changes to our Privacy Policy**
 
-### Links to Third Party Site
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on May 3, 2018.
 
-Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave our site and go to another site. During this process, another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
+### **Contacting Us**
 
-### Security
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Keen IO is committed to protecting the security of all information in our custody. We use a variety of reasonable security technologies and procedures to help protect all information from unauthorized access, use, or disclosure, including limiting access to the data within Keen IO. Despite these measures, Keen IO cannot fully eliminate security risks and mistakes may happen that could cause the information of a Data Subject to be inadvertently disclosed.
+Keen  
+122 E. Houston St  
+San Antonio, TX 78205 
 
-### International Transfer
-
-Customer data and Data Subject data may be transferred, stored, maintained, and processed in the United States or in other countries where we have facilities or where we have engaged a service provider. This storage, maintenance, or processing will be performed under privacy and security laws and standards that may not be as protective as those in the jurisdiction where the data was originally collected. We require our service providers to commit in writing to process our data in a manner consistent with our directives.
-
-### Safe Harbor
-
-Keen adheres to the Safe Harbor Agreement concerning the transfer of Personal Data from the European Economic Area and Switzerland, and follows the Safe Harbor Principles published by the US Department of Commerce (“Principles”) with respect to such Data. Our certification can be found at <https://safeharbor.export.gov/list.aspx>.
-
-**If there is any conflict between the policies in this Privacy Statement and the Principles, the Principles shall govern.**
-
-This published Privacy Policy is accurate, comprehensive, prominently displayed, completely implemented, accessible and conforms to the Safe Harbor Principles. In addition, we provide appropriate employee training (and discipline) and have internal procedures for periodically conducting objective reviews of our compliance with the Safe Harbor Principles. A statement verifying the self-assessment is signed by a corporate officer or other authorized representative of the organization annually.
-
-For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce website at <http://export.gov/safeharbor/>.
-
-### Disputes
-
-If you have any concerns or claims with respect to our Privacy Policy, please contact us as indicated in the “Contact Us” below. We will investigate and attempt to resolve any complaints and disputes regarding our use and disclosure of the Customer Data and Data Subject Data described in this Privacy Policy.
-
-If the complaint or dispute cannot be resolved through our internal process, and Keen does not adequately respond to your question, please contact the nearest JAMS location for resolution of any such complaint or dispute. See <http://www.jamsadr.com/locations/> for a list of JAMS locations and contact information.
-
-### Changes to this Policy
-
-If we make any substantial changes in the way we use Personal Data, we will prominently post notice of the changes on our website. Any material changes to this Privacy Policy will be effective thirty (30) calendar days following our posting of notice of the changes on our website.
-
-Changes to this Privacy Policy may affect our use of Customer’s Personal Data that we collected before our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us before the effective date of the changes that you wish to deactivate your Customer account with us. Continued use of our website or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
-
-We have no control over the type of data or information that Customers upload on our Service. We you are a Data Subject, and you wish to prevent the uploading and analysis of your information through our Service, you must contact the entity that has uploaded this information on our Service.
-
-### Contact Us
-
-If you have any questions or feedback regarding this Privacy Policy, please let us know. Please contact us at [privacy@keen.io](mailto:privacy@keen.io).
+[privacy@keen.io](mailto:privacy@keen.io)
