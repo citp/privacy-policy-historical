@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonfog.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221042930id_/http%3A//www.londonfog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonfog.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622043138id_/https%3A//www.londonfog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
