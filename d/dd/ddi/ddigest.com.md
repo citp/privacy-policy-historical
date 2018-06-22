@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddigest.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122113521id_/http%3A//www.digital-digest.com/page.php%3Ffile%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddigest.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622113644id_/http%3A//www.digital-digest.com/page.php%3Ffile%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Digest
 
@@ -12,6 +12,8 @@ Server level tracking is performed, as well as statistics tracking via Google An
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Cookies enable our advertisers and their partners to serve ads to you based on your visit to this and/or other sites on the Internet. Some advertisers are part of the Network Advertising Initiative, which provides [opt-out](http://www.networkadvertising.org/managing/opt_out.asp) functionality to opt-out of behavioral advertising delivered bythese advertisers and agencies. 
 
+We may use [third-party advertising companies](http://d3ruprshpyv6gc.cloudfront.net/pp.html) to serve ads when you visit our website. 
+
 The usage of this web site optionally requires user accounts, which again optionally allows personal information to be entered and stored at the user's command. 
 
 We do not share any personal information with any third parties nor do we use any personal information for any purposes without the permission of the user. 
@@ -22,7 +24,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All files are encrypted and not passed on to any person(s) or organization(s). 
 
-|  | 
+` |  | 
 
 [](http://www.digital-digest.com/h264/index.php)
 
