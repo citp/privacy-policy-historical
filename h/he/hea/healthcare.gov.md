@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcare.gov privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229033105id_/https%3A//www.healthcare.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcare.gov privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622150832id_/https%3A//www.healthcare.gov/privacy) for the most accurate reproduction.*
 
 # Privacy | HealthCare.gov
 
@@ -77,7 +77,7 @@ To establish an account on HealthCare.gov, we collect information such as your f
 
 On HealthCare.gov, we provide streamlined applications that allow you to apply for affordable health insurance coverage. When you apply using one of these forms, CMS collects personally identifiable information about you and is authorized to maintain a record of the information related to your application.
 
-After you complete an application, some of your application information may be disclosed to other federal agencies so that your eligibility for affordable health insurance can be determined. These organizations may include the Social Security Administration (SSA), the Internal Revenue Service (IRS), the Department of Homeland Security (DHS), the Department of Defense (DoD), the Veterans Health Administration (VHA), and state Medicaid and Children’s Health Insurance Program (CHIP) agencies, and Equifax Workforce Solutions with which CMS engages in an electronic verification process authorized by the Affordable Care Act. Some of your information may also be disclosed manually to the Office of Personnel Management (OPM) and Peace Corps, but only where necessary to verify whether you are eligible for or enrolled in employer-sponsored coverage. Your information may also be shared with the employer(s) listed on your application for the limited purposes of verifying whether you are eligible for or enrolled in employer-sponsored coverage or advance premium tax credits.
+After you complete an application, some of your application information may be disclosed to other federal agencies so that your eligibility for affordable health insurance can be determined. These organizations may include the Social Security Administration (SSA), the Internal Revenue Service (IRS), the Department of Homeland Security (DHS), the Department of Defense (DoD)/TRICARE, the Veterans Health Administration (VHA), state Medicaid and Children’s Health Insurance Program (CHIP) agencies, and Equifax Workforce Solutions, with which CMS engages in an electronic verification process authorized by the Affordable Care Act. Some of your information may also be verified against data provided to CMS by the Office of Personnel Management (OPM) and the Peace Corps if necessary to verify whether you are eligible for or enrolled in Minimal Essential Coverage (MEC). Your information may also be shared with the employer(s) listed on your application for the limited purposes of verifying whether you are eligible for or enrolled in employer-sponsored coverage or advance premium tax credits.
 
 In accordance with the Privacy Act of 1974, a system of records has been created for the collection of personally identifiable information you submit to HealthCare.gov. The original system of records notice entitled, “Health Insurance Exchanges (HIX) Program” was published in the Federal Register on February 6, 2013. This notice was amended on May 29, 2013 and on October 23, 2013. The system of records and modifications can be found at: <http://www.cms.gov/Research-Statistics-Data-and-Systems/Computer-Data-and-Systems/Privacy/CMS-Systems-of-Records.html>.
 
@@ -242,10 +242,10 @@ CMS does not keep separate records or accounting of any Social Media Site users 
 
 [Twitter](https://twitter.com/privacy)
 
-[YouTube](https://www.google.com/intl/en/policies/privacy/)
+[YouTube](https://www.youtube.com/static?template=privacy_guidelines)
 
 ## Additional privacy information
 
 If you would like more information about the application of the Privacy Act at CMS, please read the Privacy Act of 1974 located at <http://www.cms.gov/Research-Statistics-Data-and-Systems/Computer-Data-and-Systems/Privacy/PrivacyActof1974.html>.
 
-Updated: October 25, 2017
+Updated: May 17, 2018
