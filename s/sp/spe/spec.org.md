@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127194952id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622223747id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
 
 # SPEC Privacy Policy
 
@@ -38,6 +38,7 @@
 
   * [About SPEC](https://web.archive.org/spec/)
   * [Membership](https://web.archive.org/spec/membership.html)
+  * [Awards](https://web.archive.org/spec/awards/)
   * [Press Releases](https://web.archive.org/pressroom.html)
   * [Trademarks](https://web.archive.org/spec/trademarks.html)
   * [Fair Use Policy](https://web.archive.org/fairuse.html)
@@ -62,7 +63,7 @@
 
 |   
 
-Effective July 29, 2011 
+Effective May 25, 2018 
 
 ##  Privacy Notice Table Of Contents: 
 
@@ -82,6 +83,8 @@ Effective July 29, 2011
 
 ## Recent Privacy Policy Updates
 
+  * **May 2018**
+    * Added GDPR provisions.
   * **July 2011**
     * SPEC and research partners may use aggregated and anonymized data for additional site traffic analysis.
   * **April 2009**
@@ -121,13 +124,13 @@ Furthermore, we do not store any individualized or sensitive data on any of our 
 
 ##  Our Commitment To Children's Privacy 
 
-No part of our web site is structured to attract anyone under 13\. Nevertheless, protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our web site from those we actually know are under 13.
+No part of our web site is structured to attract anyone under 13 and we do not collect any information that might reveal a visitor's age.
 
-##  How You Can Access Or Correct Your Information 
+##  How You Can Access, Correct, or Remove Your Information 
 
 You can access all your personally identifiable information that we collect online and maintain by contacting us directly; see our [contact information](https://web.archive.org/spec/contact.html). For your safety, we do not keep any of this personally identifiable information online.
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows the error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+You can correct factual errors in your personally identifiable information or request removal of that information by sending us a request that credibly shows the error and/or your authority over the material in question. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 ## Changes To This Privacy Policy
 
