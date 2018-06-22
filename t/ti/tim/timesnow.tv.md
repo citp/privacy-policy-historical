@@ -1,91 +1,196 @@
-> *The following text is extracted and transformed from the timesnow.tv privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127001002id_/http%3A//www.timesnow.tv/articleshow/4211425.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesnow.tv privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622163836id_/http%3A//www.timesnownews.com/info/privacy-policy/836) for the most accurate reproduction.*
 
-# DISCLAIMER POLICY & TERMS AND CONDITIONS FOR USE- TIMESNOW.tv - Latest Breaking News, Big News Stories, News Videos
+# Privacy Policy - Privacy & Terms - Times Now
 
-Access to and use of this site ("Timesnow.TV") is provided by the Times Global Broadcasting Company Ltd ("TGBCL") subject to the following terms and Conditions: 
+PRIVACY POLICY
 
-1\. By using the site you agree to be legally bound by these terms, which shall take effect immediately on your first use of Timesnow.TV. If you do not agree to be legally bound by all the following terms please do not access and/or use. 
+Bennett, Coleman & Company Limited – through Television Division respects the privacy of its users and is committed to protect it in all respects. With a view to offer enriching internet experience to its users BCCL offers a vast repository of channels and a variety of services. You may read 'About Us' to know more about BCCL.
 
-2\. TGBCL may change these terms at any time by posting changes online. Please review these terms regularly to ensure you are aware of any changes made by TGBCL. Your continued use of the Timesnow.TV after changes are posted means you agree to be legally bound by these terms as updated and/or amended. 
+We want you to:
 
-3\. You may not copy, reproduce, republish, download, post, broadcast, transmit, make available to the public, or otherwise use Timenow.TV content in any way except for your own personal, non-commercial use. You also agree not to adapt, alter or create a derivative work from any Timenow.TV content except for your own personal, non-commercial use. Any use as mentioned above of Timenow.TV content requires the prior written permission of TGBCL. 
+  * Be comfortable using our web site;
+  * feel secure submitting information to us;
+  * contact us with your concerns about privacy on this site;
+  * know that by using our sites you are consenting to the collection of certain data
 
-4\. You agree to use Timenow.TV only for lawful purposes and in a way that does not infringe the rights of, restrict or inhibit anyone else's use and enjoyment of Timenow.TV. Prohibited activities includes harassing or causing distress or inconvenience to any person, transmitting obscene or offensive content or disrupting the normal flow of dialogue within Timenow.TV. 
 
-5\. Under no circumstances will TGBCL be liable for any of the following losses or damage (whether such losses where foreseen, foreseeable, known or otherwise): (a) loss of data; (b) loss of revenue or anticipated profits; (c) loss of business; (d) loss of opportunity; (e) loss of goodwill or injury to reputation; (f) losses suffered by third parties; or (g) any indirect, consequential, special or exemplary damages arising from the use of timesnow.tv regardless of the form of action. 
 
-6\. TGBCL does not warrant that functions contained in Timenow.TV content will be uninterrupted or error free, that defects will be corrected, or that Timenow.TV or the server that makes it available are free of viruses or bugs. 
+This privacy policy explains our policy regarding the collection, use, disclosure and transfer of your information by BCCL and/or its subsidiary(ies) and/or affiliate(s) (collectively referred to as the "Company"/”BCCL”) on this site ‘timesnownews.com’. BCCL operates various websites including this site and other services including but not limited to delivery of information and content via any mobile or internet connected device or otherwise (collectively the "Services").
 
-Intellectual Property: 
+By using BCCL's sites and Services, you signify your acceptance of this Privacy Policy. If you do not agree or are not comfortable with any policy described in this Privacy statement, your only remedy is to discontinue use of BCCL sites. We reserve the right, to modify this Privacy Policy at any time.
 
-7\. Nothing contained in these terms shall be construed as conferring by implication, estoppel or otherwise any licence or right to use any trademark, patent, design right or copyright of the TGBCL, or any other third party. 
+  1. INFORMATION RECEIVED, COLLECTED AND STORED BY THE COMPANY
 
-Contributions to Timesnow.TV 
 
-8\. Where you are invited to submit any contribution(s) to Timenow.TV (including any text, photographs, graphics, video,personal information including contact particulars information etc.) you agree, by submitting your contribution, to grant TGBCL a perpetual, royalty-free, non-exclusive, sub-licenseable right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, play, make available to the public, and exercise all copyright and publicity rights with respect to your contribution worldwide and/or to incorporate your contribution in other works in any media now known or later developed for the full term of any rights that may exist in your contribution. If you do not want to grant to TGBCL the rights set out above, please do not submit your contribution to Timenow.TV. 
 
-9\. Further to paragraph 8, by submitting your contribution to Timenow.TV, you: 
+  **Information automatically collected/tracked while navigation**
 
-a. Warrant that your contribution: 
+Cookies
 
-i. is your own original work and that you have the right to make it available to TGBCL for all the purposes specified above; 
+We use Cookies or similar electronic tools to improve the responsiveness of the "Application" for our users, to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the identified computer. Detailed Information on use of cookies is given below. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie cannot read data off your hard drive. You will find more information on Cookie Policy and Information in the section below dedicated to Cookie Policy.
 
-ii. is not defamatory; and 
+Log File Information
 
-iii. does not infringe any law; and 
+We automatically collect limited information about your computer's connection to the Internet, mobile number, including your IP address, when you visit our site, application or service. Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the pages you view. We automatically receive and log information from your browser, including your IP address, your computer's name, your operating system, browser type and version, CPU speed, and connection speed. We may also collect log information from your device, including your location, IP address, your device's name, device's serial number or unique identification number (e.g.. UDiD on your iOS device), your device operating system, browser type and version, CPU speed, and connection speed etc.
 
-b. indemnify TGBCL and/or its directors and officers against all legal fees, cost, damages and other expenses that may be incurred by TGBCL as a result of your breach of the above warranty; and 
+Clear GIFs
 
-c. waive any moral rights in your contribution for the purposes of its submission to and publication on Timesnow.tv and the purposes specified above. 
+We may use "clear GIFs" (Web Beacons) to track the online usage patterns of our users in a anonymous manner, without personally identifying the user. We may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. We use this information to inter-alia deliver our web pages to you upon request, to tailor our Site, Application or Service to the interests of our users, to measure traffic within our Application to improve the Application quality, functionality and interactivity and let advertisers know the geographic locations from where our visitors come.
 
-10\. If any of these terms are determined to be illegal, invalid or otherwise unenforceable by reason of the laws of any state or country in which these terms are intended to be effective, then to the extent and within the jurisdiction in which that term is illegal, invalid or unenforceable, it shall be severed and deleted from these terms and the remaining terms shall survive, remain in full force and effect and continue to be binding and enforceable. 
+**Information from Other Sources**
 
-11\. All the conditions mentioned under the head of " USE OF RSS FEED " and " Access to and use of this site " shall be read together and without any prejudice to each other. 
+We may receive information about you from other sources, add it to our account information and treat it in accordance with this policy. If you provide information to the platform provider or other partner, whom we provide services, your account information and order information may be passed on to us. We may obtain updated contact information from third parties in order to correct our records and fulfil the Services or to communicate with you.
 
-12\. TGBCL reserves right to amend, modify, without any notice, terms and conditions (including privacy policy) or technology regarding access and use of RSS Feeds, Podcasting service, website, or any other technology of the like nature which shall be developed in the future as provided by TGBCL. 
+**Demographic Information**
 
-13\. All these terms shall be governed by and interpreted in accordance with the laws of India. 
+We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the user behaviour on our website. Google Analytics specifically has been enable to support display advertising towards helping us gain understanding of our users' Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings options provided by Google.
 
-Any questions or clarifications with respect to these Policy can be sent to TGBCL at: [ info@timesnow.tv ](mailto:info@timesnow.tv) or by snail mail addressed to: 
+  1. **Links to Third Party Sites**
 
-Times Global Broadcasting Co. Ltd.   
-Trade House, 1st Floor, Kamala Mills Compound,   
-Senapati Bapat Marg, Lower Parel,   
-Mumbai â€“ 400013 
 
-Or by calling our number at (+9122) 2499 9944 
 
-COMPLAINT REDRESSAL 
+BCCL may include links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. 
 
-Any complaint relating to the content of TV channels of Times Global Broadcasting Company Limited, namely TIMES NOW & ET NOW under the Code of Ethics & Broadcasting Standards and News Broadcasting Standards (Disputes Redressal) Regulations of News Broadcasters Association (NBA) shall be made by a person aggrieved within a reasonable time not exceeding 7 (seven) days from the date of first broadcast to the following person appointed by the Company whose details are reproduced below: 
+  1. **Information for Ad-Servers**
 
-Ms. Jyothi Suresh Kumar   
-DGM Legal & Company Secretary   
-Times Global Broadcasting Company Limited   
-Trade House, 1st Floor, Kamala Mills Compound   
-Senapati Bapat Marg, Lower Parel   
-Mumbai 400013   
-Phone: + 91 22 24999944   
-Fax: +91 22 24990307   
-Email: legalnow@timesgroup.com   
-Website: http://www.timesnow.tv, http://www.etnow.tv 
 
-However, before making a complaint viewers are encouraged to go through the Code of Ethics & Broadcasting Standards, News Broadcasting Standards (Disputes Redressal) Regulations and Guide to the Complaints Process. These details are available on the website of NBA www.nbanewdelhi.comâ€ 
 
-PRIVACY POLICY: 
+When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites or Applications -- it is usually in the form of aggregated statistics on traffic to various pages / content within our websites or Applications. We use third-party advertising companies to serve ads when you visit our websites or Applications. These companies may use information (not including your name, address, email address or telephone number or other personally identifiable information) about your visits to this and other websites or application, in order to provide advertisements about goods and services of interest to you.
 
-Times Global Broadcasting Company Ltd ("TGBCL") respects the privacy of its users and is committed to protect it in all respects. With a view to offer enriching internet experience to its users TGBCL offers a vast repository of channels and a variety of services. You may read 'About Us' to know more about TGBCL at: [ http://www.timesnow.tv/articleshow/4211428.cms ](http://www.timesnow.tv/articleshow/4211428.cms)
+  1. **Use of Information by the Company**
 
-The information about the user as collected by TGBCL is:   
-(a) information supplied by users and   
-(b) information automatically tracked while navigation (Information). 
 
-To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Newsletter). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. 
 
-Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data - such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come. 
+We do not provide any personally identifiable information to third party websites / advertisers / ad-servers without your consent. Third Party advertisers may use information (not including your name, address, email address or telephone number or other personally identifiable information) about your visits to our and other websites or application, in order to provide advertisements about goods and services of interest to you. Any personally identifiable information provided by you will not be considered as sensitive if it is freely available and / or accessible in the public domain like any comments, messages, blogs, scribbles available on social platforms like facebook, twitter etc.
 
-TGBCL may include links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. 
+  1.   **Information Security**
 
-However the Internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. Any information gathered by BCCL is securely stored within the Company controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access. 
+
+  1. **Updates/Changes**
+
+
+
+Internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
+
+If at any time you believe that BCCL or its users/members have not adhered to these principles, please notify us by e-mail at [legalnow@timesgroup.com](mailto:legalnow@timesgroup.com) and we will use all commercially reasonable efforts to promptly determine and correct the problem.
+
+  1. **Cookie Policy & Information**
+
+
+
+**What are Cookies**
+
+Cookies and other similar online tracking technologies are small bits of data or code that are used to identify your devices when you use and interact with our websites and other services. They are often used for remembering your preferences, to identify popular news stories, to remember you’re logged in and allowing you to comment on stories.
+
+**Use of Cookies**
+
+We use Cookies and similar technologies to enable you to use and connect to our website. Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data - such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come.
+
+There are third parties and partners that may use cookies to provide you an enhances user experience, when you visit our websites. Our partners may set cookies and similar technologies on your browser in order to help us make the sites work, analyse site usage, deliver adverts and personalise your experience. Where these partners are acting on our behalf, they are called data processors and must only act on our instructions. We will have a contract with them and they must protect your information properly.
+
+Where other partners are placing cookies and similar technologies for their own purposes, they are called data controllers and will use your information for their own purposes.
+
+  1. **Type of Cookies**
+
+
+
+The following type of cookies are set while you use and access our website.
+
+Essential cookies and similar technologies (First Party Cookies)
+
+These are vital for the running of our services on our websites and apps. Without the use of these cookies, parts of our websites would not function. These cookies are essential, as they enable you to move around a website. This category cannot be disabled. These Cookies are set by the Website and only we can read these Cookies.
+
+Third Party Cookies
+
+These cookies are set by someone other than the owner of the website you’re visiting. Some of our web pages may also contain content from other sites like YouTube, twitter, which may set their own cookies. Also, if you share a link on our page/site, the service you share it on (for example, Facebook) may set a cookie on your browser. We have no control over third-party cookies. you can turn them off, but not through us.
+
+Advertising Cookies
+
+Some websites use advertising networks to show you specially targeted adverts when you visit. These networks may also be able to track your browsing across different sites. We don’t set advertising cookies.
+
+  1.   **The Cookies Placed on the Website include:**
+
+
+
+Cookie
+
+| 
+
+Description  
+  
+---|---  
+  
+Google Analytics
+
+| 
+
+We use Google Analytics to understand how our media campaigns work and how you interact with our website in order to improve the user experience.  
+  
+Google  tracking cookies
+
+| 
+
+ Google tracking cookies enable us to understand if you complete certain actions on our website(s) after you have seen or clicked through one of our adverts served via Google. Based on the content you have engaged with on our websites Google are able to deliver some targeted adverts across other Google partner websites.  
+  
+Facebook
+
+| 
+
+Facebook helps you stay in touch with your network through their website/ mobile application. We make it easier for you to share any content of interest on Facebook and sometimes, we may present with some targeted adverts on Facebook based on your engagement with our website(s).  
+  
+Taboola
+
+| 
+
+Taboola is a recommendation engine which shows personalized content and ad recommendations to the users. It stores and uses cookies in the browser to understand your browsing behaviour and serve personalized recommendations.  
+  
+Rubicon Project
+
+| 
+
+Can store cookies to track your browsing activity and relevant show ads to users of our site  
+  
+Facebook Audience Network
+
+| 
+
+Can store cookies to track your browsing activity and relevant show ads to users of our site  
+  
+Index Exchange
+
+| 
+
+Can store cookies to track your browsing activity and relevant show ads to users of our site  
+  
+OpenX
+
+| 
+
+Can store cookies to track your browsing activity and relevant show ads to users of our site  
+  
+Smaato
+
+| 
+
+Can store cookies to track your browsing activity and relevant show ads to users of our site  
+  
+Taboola
+
+| 
+
+Can store cookies to track your browsing activity and relevant show ads to users of our site  
+  
+PushEngage
+
+| 
+
+Can store cookies to show targeted web push notifications, based on the categories you browsed or your interests and preferences.  
+  
+  1. **Consent to use Cookies**
+
+
+
+When you visit Website for the first time, a banner informs you of the use of cookies and provides a direct link to this information page. If you confirm your acceptance of cookies, or if you continue to browse the Website, your consent is considered as obtained. The cookie acceptance banner will no longer display on your screen.
