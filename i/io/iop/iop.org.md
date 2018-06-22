@@ -1,66 +1,220 @@
-> *The following text is extracted and transformed from the iop.org privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910030356id_/http%3A//www.iop.org/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iop.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622130109id_/http%3A//www.iop.org/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy and cookies
+# Privacy Notice – Institute of Physics
 
-This Policy sets out how IOP uses and protects any information collected or given by you when you access and use any website owned, operated or controlled by IOP. 
+## Who we are
 
-References to “ **IOP** ” mean the Institute of Physics and/or IOP Publishing as appropriate.  References to “ **this** **Website** ” are to the specific IOP website which links to this Policy.
+The Institute of Physics _**(‘IOP’, ‘we’, ‘us’ or ‘our’)**_ is a scientific membership society working to advance physics for the benefit of all. Alongside professional support for our members, we engage with policymakers and the public to increase awareness and understanding of the value that physics holds for all of us.
 
-IOP respects the privacy rights of its users and recognises the importance of protecting the information provided by its users and collected about their visits to this Website.  IOP has adopted this Policy that guides how it collects, stores and uses the information provided and collected.
+To support our members and our work with the physics community, members of the public and policy makers, we may gather and process your personal information in accordance with this Privacy Notice **(‘notice’)** and in compliance with the relevant data protection regulations and laws. This notice provides you with information regarding your rights and our obligations and explains how, why and when we process your personal information. Where you have linked to this notice from an IOP website, references in this notice to “website” or “websites” are to the specific IOP website which you have linked from.
 
-Please read this Policy carefully as, once you use this Website, you will be deemed to have read and accepted it.
+IOP’s registered office is at 76 Portland Place, London, W1B 1NT and we are a registered charity in England and Wales under charity number 293851 and in Scotland under charity number SC040092 **.** We are registered on the Information Commissioner's Office Register of Data Controllers; our registration number is Z6802378> **.**
 
-This Policy was last updated on and is effective from **10 July 2012.  
-**  
-IOP may change this Policy from time to time by updating this page.  You should check this page regularly to ensure that you are happy with any changes made.  If you use this Website after any such change has been made, you will be deemed to have read and accepted the change.  
- **  
-Information collection, security and use**  
-IOP collects information from its users at several different points on this Website.  This information is used for customer service purposes and IOP also collects usage data so that it can customise this Website according to individual selections (see ‘Cookies’ below).
+This notice was last updated on 22nd May, 2018
 
-Save where otherwise stated, IOP is the controller of the personal data collected from this Website.  In accordance with the Data Protection Act 1998, IOP follows strict security procedures in the storage and disclosure of personal data which users provide to it, to prevent unauthorised access.  Save where it has a user's express consent, it will not sell, share, or rent this information to others, except that it may make the information available to other companies within its group.
+## Your Privacy
 
- **Registration**  
-In order to receive and/or access some services, users have to complete a registration form.  During registration, a user is required to give contact information (such as name and e-mail address).  This information may be used to contact the user about the services for which they have expressed interest and also about other goods, services and features IOP believes that the user will find interesting.  
-It is optional for the user to provide demographic information and unique identifiers, but it is encouraged so that IOP can provide a more personalised experience.  If a user chooses not to provide such information then they will not be able to access parts of this Website and/or will not be able to use all the services offered by this Website.  A user may contact IOP about use of their personal information, edit it and/or tell IOP not to use it in certain ways by sending an e-mail message to [data.protection@iop.org](mailto:data.protection@iop.org).
+We are committed to ensuring the security and protection of the personal information we process. Personal information is information which identifies you, or which can be identified as relating to you personally (for example, name, address, email address, phone number). We will make every reasonable effort to protect your privacy by adopting a high level of website security and adhering to company policies on how we store and use personal information.
+
+This notice relates to our use of the personal information we collect from you, or that you provide to us, via the online services we make available to you, via phone, email, letters and other correspondence, and in person. It has been created to help you understand our views and practices regarding your personal information.
+
+We recommend that you read this notice prior to using our websites, products or services. If we change this notice we will post the changes on this page, and may place notices on other pages of the website, so that you will be aware of the personal information we collect and how we will use it. If you use this website or our products and services, or access our content on this website, after any such change has been made, you will be deemed to have read and accepted the change.
+
+## The personal information we collect
+
+Your personal information will be used by us. The personal information we collect about you, or that you provide to us, will be dependent on your relationship with us and the way in which you choose to interact with us and your level of engagement with us. We’ll only collect the personal information that we need in connection with specific activities such as registration or membership requests, volunteering, conducting research, making donations etc.
+
+ **Personal information provided by you**
+
+You may give us personal information when you interact with us, for example applying for membership, registering for an event, completing surveys, signing up for TalkPhysics (our online forum for teachers of physics), donating or when you or your school joins one of our programmes. The personal information we ask for may include, amongst other things:
+
+  * Personal details (such as name, date of birth, email address, address, telephone number, affiliation, level of education and so on) when you join as a member or supporter;
+  * Your views and opinions about IOP, preferences and interests, and activities you have participated in;
+  * Financial information (payment information such as bank details and whether donations are gift aided).
+
+
+
+If you apply for membership, we may collect additional information such as details of referees to support your application. We will also collect information during the course of your membership. For example, the services you use, your attendance at events, your professional achievements and other contact you have with us.
+
+If you’re a volunteer then we may collect extra information about you (e.g. references, details of emergency contacts etc.). This information will be retained for legal or contractual reasons, to protect you and us (including in the event of an insurance or legal claim) and for safeguarding purposes.
+
+ **Personal information created by your interaction with us**
+
+Your activities and involvement with us will result in personal information being created. This could include details of how you’ve helped us by volunteering or being involved with our outreach work and activities. If you decide to donate to us, then we’ll keep records of when and how much you give.
+
+ **Personal information we collect at receipt and opening of emails or when you use our websites**
+
+When you open an email sent by us, we may collect the following personal information automatically:
+
+  * technical information, including; your geographic location, browser type and version, device type and operating system and platform; and
+  * information about your email consumption, including the full click path from within and on to our sites (including date and time), whether the email was delivered, shared, unsubscribed from, opened, deleted or forwarded.
+
+
+
+When you visit our websites, we may collect the following information automatically:
+
+  * technical information, including the Internet Protocol (IP) address used to connect your computer to the internet, your login information, your geographic location, browser type and version, browser plug-in types and versions, operating system and platform; and
+  * information about your visit, including the source of your visit, the full click path to, through and from our website (including date and time), page response times, download errors and length of visits to certain pages.
+
+
+
+ **Personal information from third parties**
+
+From time to time, we may collect personal information about you from other third-party sources, including publicly available data sources and your employer or university/school. We will only do this where it is permitted by applicable law(s). This personal information may be used to update and enhance any existing personal information that we currently hold or to provide access to membership services where this is arranged via your employer.
+
+## How we use your personal information
+
+Your personal information may be collected and used to help us deliver our charitable activities, help us raise funds, manage and administer your membership or complete your request for products or services. Below are the main uses of your personal information, but this will depend on the nature of our relationship with you and how you interact with our various services, products, websites and activities.
+
+ **Managing and administering your membership**
+
+We use the personal information you provide as a member to service your membership and to provide guidance on career options, continued professional development and professional standards. This includes sending renewal information, membership magazines and handbooks and information about our Annual General Meeting to members by mail and email. We will also process your personal information if you have chosen to participate in our mentoring programme and to facilitate and support branch and special interest groups, committee and assessment panel members and to provide access to online resources through your MyIOP account. If you are a Chartered Physicist, Charted Engineer, Registered Scientist or Registered Science Technician we will also hold your personal information (including your registration number and registration date) on the relevant Register.
+
+ **Communicating with you**
+
+We’ll always act upon your choice of how you want to receive communications (for example, by email, post or phone). However, there are some communications that we need to send. These are essential to fulfil our promises to you as a member, volunteer, donor or user of our services and products. Examples are:
+
+  * Membership-related mailings such as your membership magazine, renewal reminders, notice of our Annual General Meeting (AGM) and other committee meetings and elections, changes and additions to membership services, award nominations, information about grants, bursaries and volunteering opportunities available to you, invitations to join our panels and committees and opportunities to input into our policy work;
+  * Transaction messaging, such as invoices and payment receipts;
+  * Confirmation and additional information when you register for an event, attend a committee meeting or volunteer with us;
+  * To respond to your questions and enquiries.
+
+
+
+ _Marketing by Post:_ Occasionally we will send you marketing information by post where we have decided that it is mutually beneficial to you and our organisation. Such information will be non-intrusive and is processed on the grounds of legitimate interests that reflect your involvement and interest in the organisation.
+
+ _Marketing by Email:_ Where you have consented or where it is part of our fulfilment of membership, we will send you email updates about our work, invitations to events and webinars, information about volunteering opportunities or other ways you can get involved in the work we do or competitions and surveys we may run from time to time, you are free to withdraw this consent at any time. If you have provided us with information about your interest areas or location or, if you have purchased or used our products and/or services, we may use this information to tailor the content of our emails to you. We will not send you marketing emails if you have opted out of receiving them. Any marketing emails we send you will include an unsubscribe link at the end of the email.
+
+If you would like to stop receiving marketing emails from us, you can let us know by:
+
+  * Clicking the ‘unsubscribe’ link in any promotional emails you receive from us;
+  * Emailing us at [marketing@iop.org](mailto:marketing@iop.org) (please ensure you tell us if you would like to opt out from all email marketing communications or just a particular update); or
+  * Phoning us on 020 7470 4800 (Mon-Fri 9am-5pm BST/GMT).
+
+
+
+Our emails may contain a “web beacon pixel” to tell us whether they have been opened and to verify any clicks through to links or articles within the email. We may use this information for purposes such as determining how to improve our communications to users, which of our emails are more interesting to users and to query whether users who do not open our emails wish to continue receiving them. The pixel will be deleted when you delete the email. If you do not wish the pixel to be downloaded to your device, you can read the email in plain text view or with images disabled.
+
+ **Surveys, feedback and contests**  
+From time-to-time we may request information from you via surveys, feedback questionnaires or contest entries. Participation is completely voluntary and you therefore have a choice whether to disclose any information requested. We process your response to any survey or feedback questionnaire you participate in for research, evaluation and statistical purposes including to improve our services and products and the functionality of this website. Where you have entered a contest, we will use your contact information to notify you if you win and where this is the case, to award prizes.
+
+ **Managing volunteers**
+
+We use your personal information to manage your volunteering, from the moment you enquire to the time you decide to stop volunteering with us. This could include: contacting you about a role or opportunity you’ve applied for or that we think you might be interested in, sending you materials you may need, providing training where appropriate, processing expense claims you’ve made and to recognise your contribution. It could also include information from local outreach teams about things happening where you volunteer and about your volunteering, including asking for your opinions on your volunteering experience.
+
+ **Events**
+
+We use your personal information when you register to attend an event or meeting arranged or sponsored by IOP. This may include sending you details of the event or meeting, to confirm your attendance or to request information about any dietary or access requirements to ensure that we provide appropriate facilities or support to enable you to participate in an event. We sometimes take photos at our events and will clearly signpost where this is the case. Images captured may be used on our website and in any other media when promoting our work.
+
+ **Grants, Bursaries & Scholarships**
+
+We collect and use personal information provided by you when applying for a grant, bursary or scholarship through IOP. This could include: to assess your application, to notify you as to whether your application has been successful, to award funds and to support you in publicising your research to the wider physics community (where applicable to the scheme you have applied to).
+
+Where you provide us with sensitive information such as your ethnicity or tell us about a disability, this information will only be used for equal opportunities monitoring and, where appropriate, to provide appropriate facilities or support, for example, during an assessment process or at an event. If we intend to use sensitive personal information about you for any other purpose, we will make this clear at the time it is collected.
+
+ **Fundraising, donations and legacy pledges**
+
+If you make a donation, we’ll use any personal information you give us to record the nature and amount of your gift, claim gift aid where you’ve told us you’re eligible and thank you for your gift. If you interact or have a conversation with us, we’ll note anything relevant and store this securely on our systems.
+
+If you’ve told us that you’re planning to, or thinking about, leaving us a gift in your will, we’ll use the information you give us to keep a record of this – including the purpose of your gift, if you let us know this. If we have a conversation or interaction with you (or with someone who contacts us in relation to your will, for example your solicitor), we’ll note these interactions throughout your relationship with us, as this helps to ensure your gift is directed as you wanted.
+
+Charity Commission rules require us to be assured of the provenance of funds and any conditions attached to them. We follow a due diligence process which involves researching the financial soundness, credibility, reputation and ethical principles of donors who’ve made, or are likely to make, a significant donation to the IOP. As part of this process we’ll carry out research using publicly available information and professional resources. If this applies to you, we’ll remind you about the process when you make your donation.
+
+## Lawful reasons for processing
+
+We will process your personal information for the purposes identified above on the following bases:
+
+  1. Our legitimate interests, which include, but are not limited to, processing your personal information for the purposes of providing and enhancing the provision of our products, services and information;
+  2. Where processing is necessary to perform our contract with you or to take steps before entering into a contract with you;
+  3. As necessary to comply with our legal obligations, resolve disputes and enforce our contractual agreements; and
+  4. Where you have consented to our use of your personal information for a specified purpose. Where this is the case, you have the right to withdraw your consent at any time.
+
+
+
+## Keeping your personal information
+
+We will only use and store your information for as long as it is required for the purposes it was collected for. How long it will be stored for depends on the information in question, what it is being used for and, sometimes, statutory legal requirements.For example, we may store personal information after your membership with us to resolve any potential disputes and to comply with reporting and retention obligations.
+
+ **Where we store your personal information**
+
+IOP operations are based in the UK and Ireland and we store most of our data within the European Union (EU). Some organisations which provide services to us may transfer data outside the European Economic Area but we’ll only allow this if your data is adequately protected. Some of our systems are provided by US companies and whilst it is our policy that we prefer data hosting and processing to remain on EU-based solutions, it may be that using their products results in data transfer to the USA. However, we only allow this when we are certain it will be adequately protected (e.g. US Privacy Shield or Standard EU contractual clauses).
+
+Who we share your personal information with
+
+We will only use your personal information for the purposes for which it was obtained. We will not, under any circumstances, sell or trade your personal information.
+
+We may share your personal information with our subsidiaries (companies owned by IOP), where this will fulfil our commitment to you. For example, if you are an IOP member, we will share your name and contact information with our subsidiary company, IOP Publishing Limited, so they can send you your membership magazine, Physics World, as well as to provide you with access to IOPscience content via your MyIOP account.
+
+We may use carefully selected companies to provide services on our behalf, including data hosting services, delivering postal mail, sending emails, analysing data and processing credit/debit card or direct debit payments. We will only provide those companies with the information they need to deliver the relevant service, and we make sure that your data is treated with the same level of care as if we were handling it directly.
+
+We may disclose aggregate statistics about our members, volunteers, supporters, users of our products and services and visitors to our websites to describe our products, services and operations to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics won’t include any personally identifying information.
+
+We will not share your personal information with any third party for their own purposes unless we have made you aware of this at the time of collecting your personal information. For example, if we run an event in partnership with other named organisations, your details may need to be shared. We will be very clear what will happen to your data when you register.
+
+We may also disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions, cookie policy or other agreements; or to protect the rights, property, or safety of IOP, our members, supporters and visitors. This includes exchanging information with other companies and organisations for the purposes of fraud protection.
+
+ **Your rights in connection with your personal data**
+
+Under certain circumstances, by law you have the following rights in respect of the personal information we hold about you. For more information about these rights or if you wish to exercise them please contact us.
+
+ **Request access to your personal information** (commonly known as a "subject access request"). This enables you to receive a copy of the personal information we hold about you. You will be asked to provide the following details:
+
+  * The personal information you want to access;
+  * The nature of your relationship with IOP, for example if you are a member, a volunteer etc.;
+  * The date range of the information you wish to access.
+
+
+
+We may also need you to provide information that will help us confirm your identity. If we hold personal information about you, we will give you a copy of the information in an understandable format together with an explanation of why we hold and use it.
+
+Once we have all the information necessary to respond to your request we’ll provide your information to you within one month. This timeframe may be extended by up to two months if your request is particularly complex. In this case, we will notify you and keep you updated.
+
+ **Request correction of the personal information** that we hold about you. If the personal information we hold about you is inaccurate, or your personal information changes (such as your email address), IOP will correct, update or remove that your personal information as appropriate, where we are notified by you. This can usually be done by you within any personalisation options of this website (where applicable), or by contacting us.
+
+ **Request erasure of your personal information.** This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it. Please note that whilst we will honour your request wherever possible, we may need to retain some personal information about you for example, where we are required to retain records to comply with our legal obligations.
+
+ **Object to processing of your personal information** where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground. You also have the right to object, as described in the ‘communicating with you’ section of this notice, where we use your personal information for marketing purposes.
+
+ **Request the restriction of processing of your personal information.** This enables you to ask us to suspend the processing of personal information about you, for example if you want us to establish its accuracy or the reason for processing it.
+
+ **Request the transfer of your personal information** to another party. Whenever IOP processes your personal information, by automated means based on your consent or based on an agreement, you have the right to get a copy of your data transferred to you or to another party. This only includes the personal data you have submitted to us.
+
+ **What to do if you’re not happy  
+** In the first instance, please talk to us directly so we can resolve any problem or query. You also have the right to contact the Information Commissions Office (ICO) if you have any questions about Data Protection. You can contact them using their help line 0303 123 113 or at [www.ico.org.uk](http://www.ico.org.uk/).
+
+ **How to contact us**
+
+If you wish to talk through anything in our privacy policy, find out more about your rights or wish to exercise them, please contact our Governance & Compliance Manager who will be happy to help.
+
+  * By post: Governance & Compliance Manager, IOP, 80 Portland Place, London, W1B 1NT;
+  * By telephone: 020 7470 4843
+  * By email: [governance@iop.org](mailto:governance@iop.org)
+
+
 
  **Cookies** : **What are Cookies?**  
-This Website may place small text files, called cookies, on your computer to distinguish you from other users of this Website.  These cookies monitor how you use this Website so that IOP can make improvements, and are also used to give you the best user experience (for example by remembering your login details so that you do not have to enter them each time).  Some cookies may also be placed by third parties, for example Facebook and Google, if you use their services via this Website to monitor how you use their services and also to target relevant advertising to you when you visit other websites on which they advertise.
+This Website may place small text files, called cookies, on your computer to distinguish you from other users of this Website. These cookies monitor how you use this Website so that IOP can make improvements, and are also used to give you the best user experience (for example by remembering your login details so that you do not have to enter them each time). Some cookies may also be placed by third parties, for example Facebook and Google, if you use their services via this Website to monitor how you use their services and to target relevant advertising to you when you visit other websites on which they advertise.
 
 In most cases, cookies do not contain personally identifiable data.
 
  **What cookies may be placed?**  
 This Website may use the following types of cookies:
 
-  *  **Strictly necessary cookies (Type 1):** these cookies are essential in order to enable you to move around this Website and use its features, such as accessing secure areas of this Website.  Without these cookies, certain services you have asked for cannot be provided.
-  *  **Analytical/performance cookies (Type 2):** these cookies allow IOP to recognise and count the number of visits to this Website and to see how visitors move around this Website when they are using it, so that we can improve how this Website works.  These cookies do not collect personally identifiable information.
+  *  **Strictly necessary cookies (Type 1):** these cookies are essential in order to enable you to move around this Website and use its features, such as accessing secure areas of this Website. Without these cookies, certain services you have asked for cannot be provided.
+  *  **Analytical/performance cookies (Type 2):** these cookies allow IOP to recognise and count the number of visits to this Website and to see how visitors move around this Website when they are using it, so that we can improve how this Website works. These cookies do not collect personally identifiable information.
   *  **Functionality cookies (Type 3)** : these cookies remember choices you make to improve your experience; for example, your user name, language or region.
-  *  **Targeting cookies (Type 4)** : these cookies are placed by third parties to collect information about your browsing habits when you elect to use their services, in order to make advertising relevant to you and your interests.  
+  *  **Targeting cookies (Type 4)** : these cookies are placed by third parties to collect information about your browsing habits when you elect to use their services, in order to make advertising relevant to you and your interests.
 
 
 
-You can find out more information about the individual cookies actually used on this Website by viewing the [IOP Cookie Directory](https://web.archive.org/privacy/cookies/page_56534.html), which is updated regularly.
+You can find out more information about the individual cookies actually used on this Website by viewing the [IOP Cookie Directory](http://www.iop.org/privacy/cookies/page_56534.html), which is updated regularly.
 
-IOP is not responsible for the use of cookies by third parties, and users are encouraged to read the privacy statements of those third party service providers before using their services.  Links to third party privacy statements can be found in the [IOP Cookie Directory](https://web.archive.org/privacy/cookies/page_56534.html).
+IOP is not responsible for the use of cookies by third parties, and users are encouraged to read the privacy statements of those third party service providers before using their services. Links to third party privacy statements can be found in the [IOP Cookie Directory](http://www.iop.org/privacy/cookies/page_56534.html).
 
  **How do I opt-out of cookies?**  
-Most web browsers allow some control of most cookies through the browser settings.  To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).  You should note that deleting certain cookies may prevent you from accessing certain parts of this Website and/or may affect your user experience.
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). You should note that deleting certain cookies may prevent you from accessing certain parts of this Website and/or may affect your user experience.
 
-To opt out of being tracked by Google Analytics across all websites, and not just this Website, visit: <http://tools.google.com/dlpage/gaoptout>  
-**  
-Links**  
-This Website may contain links to third party websites and services.  Please be aware that IOP is not responsible for the privacy practices of such other websites.  It encourages its users to read the privacy statements of these third party websites and services.  This Policy applies solely to information collected by this Website.
+To opt out of being tracked by Google Analytics across all websites, and not just this Website, visit: <http://tools.google.com/dlpage/gaoptout>>
 
- **Surveys and contests**  
-From time-to-time this Website may request information from users via surveys or contests.  Participation is completely voluntary and the user therefore has a choice whether or not to disclose any information requested.  
-Information requested may include contact information (such as name and delivery address) and demographic information.  Contact information will be used to notify the winners and award prizes. Survey information will be used for the purposes of monitoring or improving the functionality of this Website.
-
- **Correcting/updating personal data**  
-If a user's personal data changes (such as their postcode), or if a user no longer desires IOP's service, IOP will correct, update or remove that user's personal data provided to it if they are notified by the user.  This can usually be done by the user within any personalisation options of this Website (where applicable) or by sending an email to [custserv@iop.org](mailto:custserv@iop.org).
-
- **Notification of changes**  
-If IOP decides to change this Policy, it will make the updated version available via this Website so its users are always aware of what information it collects, how it uses it and under what circumstances, if any, it discloses it.  If, at any point, it decides to use personal data in a manner different from that stated at the time it was collected, it will notify users.  Users will have a choice as to whether or not IOP uses their information in this different manner.  IOP will use information in accordance with this Policy.
-
- **Your privacy is important to us**  
-If a user would like to ensure that they are not contacted by IOP with any promotional marketing information as a result of having accessed this Website, they should contact IOP at [data.protection@iop.org](mailto:data.protection@iop.org), stating the name of this Website in the subject line of the email.
-
-Please note that, if a user is a subscriber to an IOP product or service, and/or a member of IOP, sending such an e-mail will not affect any existing contract and IOP shall continue to send the information covered by such a contract until the contractual relationship between IOP and the user comes to an end.
+ **Links**  
+This Website may contain links to third party websites and services that are not under IOP’s control. Please be aware that IOP is not responsible for the privacy practices of such other websites. We encourage you to read the privacy statements of these third-party websites and services.
