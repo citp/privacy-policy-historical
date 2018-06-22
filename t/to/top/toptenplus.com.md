@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenplus.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003170520id_/http%3A//toptenplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenplus.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622051034id_/http%3A//toptenplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
