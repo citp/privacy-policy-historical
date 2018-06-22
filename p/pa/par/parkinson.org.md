@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222151728id_/http%3A//www.parkinson.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622105708id_/http%3A//www.parkinson.org/privacy) for the most accurate reproduction.*
 
 # Parkinson's Foundation: Better Lives. Together.
 
@@ -41,6 +41,10 @@ If you wish to stop receiving any e-mail or other communications from the founda
 ### Security
 
 The Parkinson's Foundation takes data security seriously.  The foundation collects data that is covered by the medical privacy law HIPAA and is subjected to periodic audits by our banks.  Information collected by the foundation (besides that which you may submit in the forums) is stored behind a firewall and protected using secure encryption technologies.  While no security steps can offer 100 percent protection we utilize state-of-the-art, industry-standard protocols to prevent unauthorized access to the information we hold. We will limit access to personal information to those foundation personnel with a need to know it. We educate our staff about their duty to protect your privacy and provide training regarding the policy described herein.
+
+### Logo Usage
+
+Use of the Parkinson's Foundation registered trademarks (logos) without Foundation permission is prohibited. Please send written requests or questions to Amy Katzel at [akatzel@parkinson.org](mailto:akatzel@parkinson.org).
 
 ### Changes
 
