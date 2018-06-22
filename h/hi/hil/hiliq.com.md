@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hiliq.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711135433id_/https%3A//www.hiliq.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiliq.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622131340id_/https%3A//www.hiliq.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wholesale E Cigarette Liquid , Buy liquid nicotine online, Buy E liquid nicotine wholesale
+# Privacy Policy - Wholesale E Cigarette Liquid , Best eliquid for sale, Top eliquid for sale,Buy E liquid nicotine wholesale
 
 HiLIQ is committed to protecting your privacy. The following privacy policy applies to HiLIQ website and governs data collection and usage only at HiLIQ site and services.
 
