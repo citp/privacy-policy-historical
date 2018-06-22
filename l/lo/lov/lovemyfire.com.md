@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovemyfire.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220045407id_/http%3A//www.lovemyfire.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovemyfire.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622025520id_/http%3A//www.lovemyfire.com/privacy-policy.html) for the most accurate reproduction.*
 
 # LoveMyFire.com Privacy Policy
 
