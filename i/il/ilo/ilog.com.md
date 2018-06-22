@@ -1,94 +1,105 @@
-> *The following text is extracted and transformed from the ilog.com privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518123703id_/http%3A//www.ilog.com/corporate/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilog.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622185321id_/https%3A//www.ibm.com/privacy/us/en) for the most accurate reproduction.*
 
-# Privacy policy
+# IBM Privacy Statement - United States
 
-This document was last updated July 31, 2007. 
+## This Privacy Statement is effective as of May 2018.
 
-While you can travel through most of our website without giving us any information about yourself, it is sometimes necessary for us to request information so that we may provide services that you request, and this privacy statement explains our data collection practices and use in those situations. Please read the complete ilog.com privacy statement. 
+At IBM we recognize the importance of protecting your personal information and are committed to processing it responsibly and in compliance with applicable data protection laws in all countries in which IBM operates.
 
-Collecting your Personal Information  
-Generally, personal information is requested when you register for an event that appears on our website, submit a support request online, request information about our products, or request an evaluation copy of our products. Personal information collected by ilog.com often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested. 
+This Privacy Statement describes IBM's general privacy practices that apply to personal information we collect, use and share about consumers and other individuals within our clients, business partners, supplier and other organizations with which IBM has or contemplates a business relationship.
 
-Use of your Personal Information  
-We use your personal information for five primary purposes: 
+This Privacy Statement is supplemented by the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/), which provides more information in the online context, including recruitment. We may provide additional or more specific information on the collection or use of personal information on websites or related to a specific product or service.
 
-  * In order to better respond to requests for service, quotes for products or evaluation downloads 
-  * To address performance and fix issues 
-  * To respond to general inquiries and requests for information 
-  * To help you quickly find software, services or information on ilog.com 
-  * To help us create and deliver content most relevant to you 
+## Why and how we collect and use your personal information
 
+We may collect your personal information as an individual for various purposes, such as the following:
 
+  * **Access and use of websites or other online services**   
+When entering one of our websites, or using an online service, we will record information necessary to provide you with access, for the operation of the website and for us to comply with security and legal requirements in relation to operating our site, such as passwords, IP address and browser settings. We also collect information about your activities during your visit in order to personalize your website experience, such as recording your preferences and settings, and to collect statistics to help us improve and further develop our websites, products and services.
+  * **Responding to your request for information, order, or support**   
+When you contact us (online or offline) in connection with a request for information, to order a product or service, to provide you with support, or to participate in a forum or other social computing tool, we collect information necessary to fulfill your request, to grant you access to the product or service, to provide you with support and to be able to contact you. For instance, we collect your name and contact information, details about your request and your agreement with us and the fulfillment, delivery and invoicing of your order and we may include client satisfaction survey information. We retain such information for administrative purposes, defending our rights, and in connection with our relationship with you. 
 
-We may occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose. 
+When you provide your name and contact information to register in connection with such a request, the registration may serve to identify you when you visit our websites. For ordering of most services and products we require you to have registered an IBMid. Registration may also allow you to customize and control your privacy settings.
 
-ILOG will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to (a) comply with the law or with legal process served on ILOG or its website; (b) protect and defend the rights or property of ILOG and its creditors (in the event of a dissolution proceeding), and, (c) address circumstances affecting the personal safety of users of ILOG, its websites, or the public. 
-
-Control of your Personal Information  
-When you register, or otherwise give us personal information, ilog.com will not share that information with third parties without your permission, other than for the limited circumstances described above. It will only be used for the purposes stated above. 
-
-ilog.com may send out periodic emails informing you of technical service issues related to a product or service you requested. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen. 
-
-Access to your Personal Information  
-We will provide you with the means to ensure that your personal information is correct and current. By emailing us at [privacy@ilog.com](mailto:privacy@ilog.com) you may: 
-
-  * View, edit and even remove personal information you have already given us 
-  * Tell us whether you want ilog.com to send you marketing information 
-  * Subscribe or cancel subscriptions to newsletters about our services and products 
+  * **Your use of IBM Cloud services**   
+We collect information about your use of IBM Cloud services to enable product features to operate, improve your user experience, tailor our interactions with you, inform our clients on the overall use of the services, provide support and improve and develop our products and services. For details regarding the technologies we employ, the personal information we collect, as well as how to control or block tracking or to delete cookies, please refer to the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
+  * **Contacting employees of our clients, prospects, partners and suppliers**   
+In our relationship with clients or prospects, partners and suppliers, they also provide us with business contact information (such as name, business contact details, position or title of their employees, contractors, advisors and authorized users) for purposes such as contract management, fulfillment, delivery of products and services, provision of support, invoicing and management of the services or the relationship.
+  * **Visitor information**   
+We register individuals visiting our sites and locations (name, identification and business contact information) and use camera supervision for reasons of security and safety of persons and belongings, as well as for regulatory purposes.
+  * **Marketing**   
+Most information we collect about you comes from our direct interactions with you. When you register for an event we may collect information (online or offline) in relation to the event organization, and during an event, such as participation in sessions and survey results. We combine the personal information we collect to develop aggregate analysis and business intelligence for conducting our business and for marketing purposes. You can choose to receive information by email, telephone or postal mail about our products and services, or sign-up for subscriptions. When visiting our websites or using our services we may provide you with personalized information. You can always opt-out from receiving personalized communication by sending an e-mail to [NETSUPP@us.ibm.com](mailto:NETSUPP@us.ibm.com). More information can be found in the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
 
 
 
-You may also send us a written request to perform any of the above to: 
+Where we reference that we use your personal information in connection with a request, order, transaction or agreement (or preparing for the same), or to provide you with services that you requested (such as a website), we do this because it is necessary for the performance of an agreement with you.
 
-Webmaster  
-ILOG SA  
-9 rue de Verdun  
-94253 Gentilly cedex  
-France 
+Where we reference that we use your personal information in relation to marketing, improvement or development of our products or services, for reasons of safety and security, or regulatory requirements other than in connection with your agreement or request, we do this on the basis of our or a third party’s legitimate interests, or with your consent. When we collect and use your personal information subject to the EU Privacy Legislation this may have consequences for Your Rights.
 
-Webmaster  
-ILOG, Inc.   
-1195 West Fremont Ave  
-Sunnyvale, CA 94087-3832  
-United States 
+## Sharing of Personal Information
 
-Security of your Personal Information  
-ilog.com strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+As a global organization offering a wide range of products and services, with business processes, management structures and technical systems that cross borders, IBM has implemented global policies, along with standards and procedures, for consistent protection of personal information. As a global company, we may share information about you with our subsidiaries world-wide and transfer it to countries in the world where we do business in accordance with this Privacy Statement.
 
-Your personal information is not shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the United States or any other country where ILOG, its subsidiaries, affiliates or agents are located. 
+Between IBM controlled subsidiaries we only grant access to personal information on a need-to-know basis, necessary for the purposes for which such access is granted. In some cases, IBM uses suppliers located in various countries to collect, use, analyze, and otherwise process personal information on its behalf.
 
-Use of Cookies  
-To ensure we are publishing content customers need and want, ilog.com collects aggregated site-visitation statistics using cookies. 
+Where appropriate, IBM may also share your personal information with selected partners to help us provide you, or the company you work for, products or services, or to fulfill your requests, or with your consent. When selecting our suppliers and partners, we take into account their data handling processes.
 
-When someone visits the site, a cookie may be placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously. 
+If IBM decides to sell, buy, merge or otherwise reorganize businesses in some countries, such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of such information from sellers. It is IBM's practice to require appropriate protection for personal information in these types of transactions.
 
-ILOG may use cookies in connection with the use of your account on the ilog.com Web site as explained above. 
+Please be aware that in certain circumstances, personal information may be subject to disclosure to government agencies pursuant to judicial proceeding, court order, or legal process. We may also share your personal information to protect the rights or property of IBM, our business partners, suppliers or clients, and others when we have reasonable grounds to believe that such rights or property have been or could be affected.
 
-If you choose to not have your browser accept cookies from the ilog.com Web site, you will be able to view the text on the screens, however you may not experience a personalized visit nor will you be able to subscribe to the service offerings on the site. 
+## International Transfers
 
-Links to Other Sites  
-ILOG also provides links to non-ILOG sites we believe may be of interest to you. These sites are provided as a convenience and are beyond our control. You are advised to check the privacy policies of those sites before providing your personal information to them. 
+The international footprint of IBM involves a large number of transfers of personal information between different subsidiaries, as well as to third parties located in the countries where we do business. Some countries have implemented transfer restrictions for personal information, in connection with which IBM takes various measures, including:
 
-Changes to this Statement  
-ilog.com will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the Privacy Statement. For material changes to this statement, ilog.com will notify you by placing a prominent notice on the website. 
+  * Where required, IBM implements Standard Contractual Clauses approved by the EU Commission, or similar contractual clauses in other jurisdictions. This includes transfers to suppliers or other third parties. You can request a copy of the EU Standard Contractual Clauses [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+  * IBM certified to the [APEC Cross Border Privacy Rules](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://www.cbprs.org).
+  * IBM certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. More information can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=https://www.privacyshield.gov).
 
-Contact Information  
-ILOG welcomes your comments regarding this Privacy Statement, please contact us by e-mail, or post at the following addresses. 
 
-e-mail address: 
 
-[privacy@ilog.com](mailto:privacy@ilog.com)
+Back to top
 
-postal addresses: 
+## Information Security and Accuracy
 
-Webmaster  
-ILOG SA  
-9 rue de Verdun  
-94253 Gentilly cedex  
-France 
+We intend to protect your personal information and to maintain its accuracy. IBM implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information such as credit card information when we transmit such information over the Internet. We also require that our suppliers protect such information from unauthorized access, use and disclosure.
 
-Webmaster  
-ILOG, Inc.  
-1195 West Fremont Ave  
-Sunnyvale, CA 94087-3832  
-United States 
+## Retention Period
+
+We will not retain personal information longer than necessary to fulfill the purposes for which it is processed, including the security of our processing complying with legal and regulatory obligations (e.g. audit, accounting and statutory retention terms), handling disputes, and for the establishment, exercise or defense of legal claims in the countries where we do business.
+
+Because the circumstances may vary depending on the context and the services, the information provided in [Online Privacy Statement](https://web.archive.org/privacy/details/us/en/) or provided in a specific notice may provide more detailed information on applicable retention terms.
+
+## How to contact us
+
+If you have a question related to this Privacy Statement, please contact us by using [this form](http://www.ibm.com/scripts/contact/contact/us/en/privacy/). Your message will be forwarded to the appropriate member of IBM's Data Privacy Team, such as Data Protection Officers or members of their teams.
+
+For the purposes of the EU General Data Protection Regulation (GDPR), the controller of your personal information is International Business Machines Corporation (IBM Corp.), 1 New Orchard Road, Armonk, New York, United States, unless indicated otherwise. Where IBM Corp. or a subsidiary it controls (not established in the European Economic Area (EEA)) is required to appoint a legal representative in the EEA, the representative for all such cases is IBM United Kingdom Limited, PO Box 41, North Harbour, Portsmouth, Hampshire, United Kingdom PO6 3AU.
+
+IBM Corp. is not the controller in situations such as:
+
+  * Personal information processed in connection with a contractual relationship, or with entering into a contractual relationship with a specific IBM subsidiary. In this case the controller of personal information is the IBM contracting company, which is the legal entity with which you or your employer have, or will have, the contract.
+  * Personal information collected on the physical site or location of an IBM subsidiary. In this case that subsidiary is the controller of the personal information.
+
+
+
+## Your Rights
+
+You can request to access, update or correct your personal information. You also have the right to object to direct marketing. You can access the request process [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+
+You may have additional rights pursuant to your local law applicable to the processing. For example, if the processing of your personal information is subject to the EU General Data Protection Regulation ("GDPR"), and your personal information is processed based on legitimate interests, you have the right to object to the processing on grounds relating to your specific situation. Under GDPR you may also have the right to request to have your personal information deleted or restricted and ask for portability of your personal information.
+
+## Right to Lodge a Complaint
+
+In the event you consider our processing of your personal information not to be compliant with the applicable data protection laws, you can lodge a complaint:
+
+  * Directly with IBM by using [this form](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+  * With the competent data protection authority. The name and contact details of the Data Protection Authorities in the European Union can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
+
+
+
+## Changes to our Privacy Statements
+
+From time to time we may update this Privacy Statement, as well as any other specific privacy statement. When making changes to this Privacy Statement, we will add a new date at the top of this Privacy Statement.
+
+Back to top
