@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepressjournal.in privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208114254id_/http%3A//www.freepressjournal.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepressjournal.in privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622220406id_/http%3A//www.freepressjournal.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Press Journal
 
