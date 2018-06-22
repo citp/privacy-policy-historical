@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the news-pr.in privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219135115id_/https%3A//www.news-pr.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-pr.in privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622160619id_/http%3A//www.news-pr.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NewsPR
-
-### Privacy Policy
 
 At News-PR.in, we are dedicated to protecting your privacy. The information collected about you is used to process orders and to create a more personalized shopping experience. What information is collected? How do we use the information we collect? When you order, we need to know your name, e-mail address, mailing address, phone number, credit card number, and expiration date. This allows us to process and fulfill your order and to contact you of your order status – for example through a confirmation notice.
 
