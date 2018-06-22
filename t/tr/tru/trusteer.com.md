@@ -1,185 +1,105 @@
-> *The following text is extracted and transformed from the trusteer.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210145705id_/http%3A//www.ibm.com/privacy/details/us/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trusteer.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622185321id_/http%3A//www.ibm.com/privacy/us/en) for the most accurate reproduction.*
 
-# IBM Online Privacy Statement - United States
+# IBM Privacy Statement - United States
 
-This Statement is effective as of December 20, 2013. The previous version of this Statement is available [here](https://web.archive.org/web/20141210145705id_/http://www.ibm.com/privacy/details/us/en/previous_03012013.html). 
+## This Privacy Statement is effective as of May 2018.
 
-Your privacy is important to IBM; maintaining your trust is paramount to us. 
+At IBM we recognize the importance of protecting your personal information and are committed to processing it responsibly and in compliance with applicable data protection laws in all countries in which IBM operates.
 
-This Statement discloses the information practices for IBM’s and our affiliates’ Web sites, from what type of information about our Web sites’ users is gathered and tracked, to how the information is used, shared or otherwise processed offline. It also describes how cookies, web beacons and other technologies may be used in our Software-as-a-Service (SaaS) offerings and software products. 
+This Privacy Statement describes IBM's general privacy practices that apply to personal information we collect, use and share about consumers and other individuals within our clients, business partners, supplier and other organizations with which IBM has or contemplates a business relationship.
 
-This Statement applies to IBM Web sites that link to this Statement but does not apply to those IBM Web sites that have their own Privacy Statement. Additionally, it does not apply to instances where we merely process data on behalf of clients for their benefit, such as when we act as a web hosting service provider. 
+This Privacy Statement is supplemented by the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/), which provides more information in the online context, including recruitment. We may provide additional or more specific information on the collection or use of personal information on websites or related to a specific product or service.
 
-From time to time, we may supplement this Statement with additional information relating to a particular interaction we have with you. 
+## Why and how we collect and use your personal information
 
-IBM has been awarded TRUSTe's Privacy Seal signifying that this Privacy Statement and our practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through www.ibm.com and does not cover information that may be collected through downloadable software, SaaS offerings, or mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact the [IBM Web site coordinator](http://www.ibm.com/scripts/contact/contact/us/en/privacy/). If you are not satisfied with our response you can contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison to help resolve your concerns. 
+We may collect your personal information as an individual for various purposes, such as the following:
 
-International Business Machines Corporation complies with the U.S.- EU Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries and Switzerland. International Business Machines Corporation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view International Business Machines Corporation's certification, please visit <http://www.export.gov/safeharbor/>. 
+  * **Access and use of websites or other online services**   
+When entering one of our websites, or using an online service, we will record information necessary to provide you with access, for the operation of the website and for us to comply with security and legal requirements in relation to operating our site, such as passwords, IP address and browser settings. We also collect information about your activities during your visit in order to personalize your website experience, such as recording your preferences and settings, and to collect statistics to help us improve and further develop our websites, products and services.
+  * **Responding to your request for information, order, or support**   
+When you contact us (online or offline) in connection with a request for information, to order a product or service, to provide you with support, or to participate in a forum or other social computing tool, we collect information necessary to fulfill your request, to grant you access to the product or service, to provide you with support and to be able to contact you. For instance, we collect your name and contact information, details about your request and your agreement with us and the fulfillment, delivery and invoicing of your order and we may include client satisfaction survey information. We retain such information for administrative purposes, defending our rights, and in connection with our relationship with you. 
 
-International Business Machine’s privacy practices described in this Statement comply with the APEC Cross Border Privacy Rules System. 
+When you provide your name and contact information to register in connection with such a request, the registration may serve to identify you when you visit our websites. For ordering of most services and products we require you to have registered an IBMid. Registration may also allow you to customize and control your privacy settings.
 
-  * Collection of Personal Information
-  * Use of Personal Information
-  * Sharing of Personal Information and International Transfers
-  * Information Security and Accuracy
-  * Retention
-  * Cookies, Web Beacons and Other Technologies
-  * Online Advertising
-  * Links to Non-IBM Web Sites and Third Party Applications
-  * Notification of Changes
-  * Privacy Questions and Access
+  * **Your use of IBM Cloud services**   
+We collect information about your use of IBM Cloud services to enable product features to operate, improve your user experience, tailor our interactions with you, inform our clients on the overall use of the services, provide support and improve and develop our products and services. For details regarding the technologies we employ, the personal information we collect, as well as how to control or block tracking or to delete cookies, please refer to the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
+  * **Contacting employees of our clients, prospects, partners and suppliers**   
+In our relationship with clients or prospects, partners and suppliers, they also provide us with business contact information (such as name, business contact details, position or title of their employees, contractors, advisors and authorized users) for purposes such as contract management, fulfillment, delivery of products and services, provision of support, invoicing and management of the services or the relationship.
+  * **Visitor information**   
+We register individuals visiting our sites and locations (name, identification and business contact information) and use camera supervision for reasons of security and safety of persons and belongings, as well as for regulatory purposes.
+  * **Marketing**   
+Most information we collect about you comes from our direct interactions with you. When you register for an event we may collect information (online or offline) in relation to the event organization, and during an event, such as participation in sessions and survey results. We combine the personal information we collect to develop aggregate analysis and business intelligence for conducting our business and for marketing purposes. You can choose to receive information by email, telephone or postal mail about our products and services, or sign-up for subscriptions. When visiting our websites or using our services we may provide you with personalized information. You can always opt-out from receiving personalized communication by sending an e-mail to [NETSUPP@us.ibm.com](mailto:NETSUPP@us.ibm.com). More information can be found in the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
 
 
 
-## Collection of Personal Information
+Where we reference that we use your personal information in connection with a request, order, transaction or agreement (or preparing for the same), or to provide you with services that you requested (such as a website), we do this because it is necessary for the performance of an agreement with you.
 
-You may choose to give us personal information directly in a variety of situations. For example, you may want to give us your name and contact information to communicate with you, to order a product, to process an order, to register for a service, to provide you with a subscription, or to do business with us if you are a supplier or a business partner. You may also provide your credit card details to buy something from us or may share a description of your education and work experience in connection with a job opening at IBM for which you wish to be considered. If you tell us that you do not want us to use your information to make further contact with you beyond fulfilling your request, we will respect your wishes. 
+Where we reference that we use your personal information in relation to marketing, improvement or development of our products or services, for reasons of safety and security, or regulatory requirements other than in connection with your agreement or request, we do this on the basis of our or a third party’s legitimate interests, or with your consent. When we collect and use your personal information subject to the EU Privacy Legislation this may have consequences for Your Rights.
 
-We may also collect information relating to your use of our Web sites and SaaS offerings through the use of various technologies. For example, when you visit our Web sites or access our SaaS offerings, we may log certain information that your browser sends us, such as your IP address, browser type and language, access time, and referring Web site addresses, and we may collect information about the pages you view within our sites and other actions you take while visiting us. In addition, some of our software products include technologies that allow IBM to collect certain information about product use. We may also use such technologies to determine whether you've opened an e-mail or clicked on a link contained in an e-mail. Collecting information in this manner allows us to collect statistics about the usage and effectiveness of our Web sites, our software products and our SaaS offerings, personalize your experience and tailor our interactions with you. For details regarding the technologies we employ, see Cookies, Web Beacon and Other Technologies below. 
+## Sharing of Personal Information
 
-From time to time, we may also collect information that pertains to you indirectly through other sources, such as list vendors. When we do so, we ask the vendors to confirm that the information was legally acquired by the third party and that we have the right to obtain it from them and use it. 
+As a global organization offering a wide range of products and services, with business processes, management structures and technical systems that cross borders, IBM has implemented global policies, along with standards and procedures, for consistent protection of personal information. As a global company, we may share information about you with our subsidiaries world-wide and transfer it to countries in the world where we do business in accordance with this Privacy Statement.
 
-The information that we collect, either directly or indirectly, may be combined to help us improve its overall accuracy and completeness and to help us better tailor our interactions with you. 
+Between IBM controlled subsidiaries we only grant access to personal information on a need-to-know basis, necessary for the purposes for which such access is granted. In some cases, IBM uses suppliers located in various countries to collect, use, analyze, and otherwise process personal information on its behalf.
 
-Back to top
+Where appropriate, IBM may also share your personal information with selected partners to help us provide you, or the company you work for, products or services, or to fulfill your requests, or with your consent. When selecting our suppliers and partners, we take into account their data handling processes.
 
-## Use of Personal Information
+If IBM decides to sell, buy, merge or otherwise reorganize businesses in some countries, such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of such information from sellers. It is IBM's practice to require appropriate protection for personal information in these types of transactions.
 
-The following paragraphs describe in more detail how IBM may use your personal information. 
+Please be aware that in certain circumstances, personal information may be subject to disclosure to government agencies pursuant to judicial proceeding, court order, or legal process. We may also share your personal information to protect the rights or property of IBM, our business partners, suppliers or clients, and others when we have reasonable grounds to believe that such rights or property have been or could be affected.
 
-**Fulfilling your Transaction Request**
+## International Transfers
 
-If you request something from IBM, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share information with others, for instance, IBM's business partners, financial institutions, shipping companies, or postal or government authorities, such as Customs authorities, involved in fulfillment. In connection with a transaction, we may also contact you as part of our customer satisfaction surveys or for market research purposes. 
+The international footprint of IBM involves a large number of transfers of personal information between different subsidiaries, as well as to third parties located in the countries where we do business. Some countries have implemented transfer restrictions for personal information, in connection with which IBM takes various measures, including:
 
-**Personalizing your Experience on our Web Sites**
+  * Where required, IBM implements Standard Contractual Clauses approved by the EU Commission, or similar contractual clauses in other jurisdictions. This includes transfers to suppliers or other third parties. You can request a copy of the EU Standard Contractual Clauses [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+  * IBM certified to the [APEC Cross Border Privacy Rules](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://www.cbprs.org).
+  * IBM certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. More information can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=https://www.privacyshield.gov).
 
-We may use information we collect about you to provide you with a personalized experience on our Web sites, such as providing you with content in which you may be interested and making navigation on our sites easier. 
 
-**Providing Support**
-
-We may use your personal information to support products or services you have obtained from us, such as notifying you of a product update or fix. 
-
-We also provide “Live Chat” sessions on our Web sites to assist you while you’re navigating through our sites; we will use personal information you provide via these sessions in accordance with this Privacy Statement. 
-
-In the course of providing technical support to you, we may sometimes have incidental access to data that you have provided to us or data that is located on your system. This data may contain information about you, your organization’s employees, customers, partners, or suppliers. This Privacy Statement does not apply to our access to or handling of this information; the conditions regarding the handling and processing of that data is covered by the applicable Terms of Use or other agreements between you and IBM, such as the [Terms of Use for Exchanging Diagnostic Data](http://www-05.ibm.com/de/support/ecurep/service.html). 
-
-**Marketing**
-
-The information you provide to IBM, as well as the information we have collected about you indirectly, may be used by IBM for marketing purposes. Before we do so, however, we will offer you the opportunity to choose whether or not to have your information used in this way. You may at any time choose not to receive marketing materials from us by following the unsubscribe instructions included in each e-mail you may receive, by indicating so when we call you, or by contacting us directly (please refer to “Privacy Questions and Access” below). 
-
-Some of our offerings may be co-branded, that is sponsored by both IBM and third parties. If you sign up for these offerings, be aware that your information may also be collected by and shared with those third parties. We encourage you to familiarize yourself with their privacy policies to gain an understanding of the manner in which they will handle information about you. 
-
-If you choose to “Email This Page” to a friend or colleague, we will ask for their name and e-mail address. We will automatically send a one-time e-mail sharing the page you indicated, but will not use that information for other purposes. 
-
-**Recruitment**
-
-In connection with a job application or inquiry, whether advertised on an IBM Web site or otherwise, you may provide us with information about yourself, such as a resume. We may use this information throughout IBM in order to address your inquiry or consider you for employment purposes. Unless you tell us not to do so, we may keep the information for future consideration. 
-
-**Monitoring or Recording of Calls, Chats and Other Interactions**
-
-Certain online transactions may involve you calling us or us calling you. They may also involve online chats. Please be aware that it is IBM's general practice to monitor and in some cases record such interactions for staff training or quality assurance purposes or to retain evidence of a particular transaction or interaction. 
-
-**Mobile Applications and Use of Information in the Social Computing Environment**
-
-IBM makes available mobile applications for download from various mobile application marketplaces. IBM also provides social computing tools on some of its Web sites to enable online sharing and collaboration among members who have registered to use them. These include forums, wikis, blogs and other social media platforms. 
-
-When downloading and using these applications or registering to use these social computing tools, you may be asked to provide certain personal information. Registration information will be subject to and protected in accordance with this Privacy Statement, except for the information that is automatically made available to other participants as part of your profile. These applications and tools may also include supplemental privacy statements with specific information about collection and handling practices. Read those supplemental statements to understand what the tools and applications may do. 
-
-Any other content you post, such as pictures, information, opinions, or any other type of personal information that you make available to other participants on these social platforms or applications, is not subject to this Privacy Statement. Rather, such content is subject to the Terms of Use of those applications or platforms, and any additional guidelines and privacy information provided in relation to their use, as well as the process by which you can remove your content from such tools or get help to do so. Please refer to them to better understand yours, IBM's, and other parties' rights and obligations with regard to such content. You should be aware that the content you post on any such social computing platforms may be made broadly available to others inside and outside IBM. 
-
-**Protect the Rights and Property of IBM and Others**
-
-We may also use or share your information to protect the rights or property of IBM, our business partners, suppliers, clients, or others when we have reasonable grounds to believe that such rights or property have been or could be affected. In addition, we reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights, or the rights of others, or to comply with a judicial proceeding, court order, or legal process served on our Web sites. 
-
-**Information for Business Partners**
-
-If you represent an IBM business partner, you may visit IBM Web sites intended specifically for IBM business partners. We may use information provided on that site to administer and develop our business relationship with you, the business partner you represent, and IBM business partners generally. For instance, this may involve using your information to send you details of IBM business partner programs. It may also include sharing certain information with other business partners (subject to any confidentiality obligations that may exist), or IBM customers or prospects. In connection with a particular transaction or program, we may also contact you as part of customer satisfaction surveys or for market research purposes. 
-
-**Information for Suppliers**
-
-If you represent an IBM supplier, you may visit IBM Web sites intended specifically for use by IBM suppliers. We may use the information provided on that site in connection with entering into or performing a transaction with you. For example, this may include sharing information with other parts of IBM, IBM's business partners, customers, shipping companies, financial institutions and postal or government authorities involved in fulfillment. It may also be used to administer and develop our relationship with you, the supplier you represent, and other IBM suppliers generally. 
-
-Back to top
-
-## Sharing of Personal Information and International Transfers
-
-IBM is a global organization with business processes, management structures and technical systems that cross borders. As such, we may share information about you within IBM and transfer it to countries in the world where we do business in connection with the uses identified above and in accordance with this Privacy Statement. Our Privacy Statement and our practices are designed to provide a globally consistent level of protection for personal information all over the world. This means that even in countries whose laws provide for less protection for your information, IBM will still handle your information in the manner described here. 
-
-In some cases, IBM uses suppliers located in various countries to collect, use, analyze, and otherwise process information on its behalf. It is IBM's practice to require such suppliers to handle information in a manner consistent with IBM's policies. 
-
-From time to time, we may disclose information that identifies you at an individual level and which we collected on our Web sites to other non-IBM entities that are not acting as our suppliers, such as our business partners. Except as described in this Privacy Statement, we will only do so with your prior consent. We do not sell or lease such information however. 
-
-Circumstances may arise where, whether for strategic or other business reasons, IBM decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of such information from sellers. It is IBM’s practice to seek appropriate protection for information in these types of transactions. 
-
-Please be aware that in certain circumstances, personal information may be subject to disclosure to government agencies pursuant to judicial proceeding, court order, or legal process. We may also share your information to protect the rights or property of IBM, our business partners, suppliers or clients, and others when we have reasonable grounds to believe that such rights or property have been or could be affected. 
 
 Back to top
 
 ## Information Security and Accuracy
 
-We intend to protect your personal information and to maintain its accuracy. IBM implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information such as credit card information when we transmit such information over the Internet. We also require that our suppliers protect such information from unauthorized access, use and disclosure. 
+We intend to protect your personal information and to maintain its accuracy. IBM implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information such as credit card information when we transmit such information over the Internet. We also require that our suppliers protect such information from unauthorized access, use and disclosure.
 
-## Retention
+## Retention Period
 
-We will retain your registration information for as long as your account is active or as needed to provide you services. If you wish to request that we no longer use your registration information to provide you services contact us at [NETSUPP@us.ibm.com](mailto:NETSUPP@us.ibm.com). We will retain and use your registration information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will not retain personal information longer than necessary to fulfill the purposes for which it is processed, including the security of our processing complying with legal and regulatory obligations (e.g. audit, accounting and statutory retention terms), handling disputes, and for the establishment, exercise or defense of legal claims in the countries where we do business.
 
-Back to top
+Because the circumstances may vary depending on the context and the services, the information provided in [Online Privacy Statement](https://web.archive.org/privacy/details/us/en/) or provided in a specific notice may provide more detailed information on applicable retention terms.
 
-## Cookies, Web Beacons and Other Technologies
+## How to contact us
 
-As mentioned above, we collect information from your visits to our Web sites and your use of our SaaS offerings and our software products to help us gather statistics about usage and effectiveness, personalize your experience, and tailor our interactions with you. We do so through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as a tag that identifies your computer. While cookies are often only used to measure Web site usage (such as number of visitors and duration of visit) and effectiveness (such as topics visitors are most interested in) and to allow for ease of navigation or use and, as such, are not associated with any personal information, they are also used at times to personalize a known visitor's experience to a Web site by being associated with profile information or user preferences. Over time this information provides valuable insight to help improve the user experience. 
+If you have a question related to this Privacy Statement, please contact us by using [this form](http://www.ibm.com/scripts/contact/contact/us/en/privacy/). Your message will be forwarded to the appropriate member of IBM's Data Privacy Team, such as Data Protection Officers or members of their teams.
 
-Cookies are typically categorized as "session" cookies or "persistent" cookies. Session cookies help you navigate through the Web site efficiently, keeping track of your progression from page to page so that you are not asked for information you have already provided during the current visit. Session cookies are stored in temporary memory and erased when the web browser is closed. Persistent cookies, on the other hand, store user preferences for current and successive visits. They are written on your device's hard disk, and are still valid when you restart your browser. We use persistent cookies, for example, to record your choice of language and country location. 
+For the purposes of the EU General Data Protection Regulation (GDPR), the controller of your personal information is International Business Machines Corporation (IBM Corp.), 1 New Orchard Road, Armonk, New York, United States, unless indicated otherwise. Where IBM Corp. or a subsidiary it controls (not established in the European Economic Area (EEA)) is required to appoint a legal representative in the EEA, the representative for all such cases is IBM United Kingdom Limited, PO Box 41, North Harbour, Portsmouth, Hampshire, United Kingdom PO6 3AU.
 
-While IBM Web sites at this time do not recognize automated browser signals regarding tracking mechanisms, such as "do not track" instructions, you can generally express your privacy preferences regarding the use of most cookies and similar technologies though your web browser. Look under the heading "Tools" (or similar heading) in your particular browser for information about controlling cookies. You can set your browser in most instances to notify you before you receive a cookie, giving you the chance to decide whether to accept it or not. You can also generally set your browser to turn off cookies. Cookies in our software products can be turned off in the product itself. Since cookies allow you to take advantage of some of our Web sites' features or features of our software products and SaaS offerings, we recommend that you leave them turned on. If you block, turn off or otherwise reject our cookies, some Web pages may not display properly or you will not be able, for instance, to add items to your shopping cart, proceed to checkout, or use any Web site services that require you to sign in. Some IBM Web sites, SaaS offerings and software products may also use Web beacon or other technologies to better tailor those sites to provide better customer service. These technologies may be in use on a number of pages across IBM's Web sites. When a visitor accesses these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers. These Web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages or use of these products, you can set your browser to turn off cookies or turn off cookies in the product itself, respectively. If you turn off cookies, Web beacon and other technologies will still detect visits to these pages; however, they will not be associated with information otherwise stored in cookies. 
+IBM Corp. is not the controller in situations such as:
 
-For more information about the technologies employed by our SaaS offerings and software products, including how to turn them off, please consult the user guide for the particular software product or SaaS offering you are using. For information about how IBM clients may use cookies and other technologies in their own implementation of IBM software products and SaaS offerings, [click here](http://www.ibm.com/software/marketing-solutions/privacy/index.html). 
+  * Personal information processed in connection with a contractual relationship, or with entering into a contractual relationship with a specific IBM subsidiary. In this case the controller of personal information is the IBM contracting company, which is the legal entity with which you or your employer have, or will have, the contract.
+  * Personal information collected on the physical site or location of an IBM subsidiary. In this case that subsidiary is the controller of the personal information.
 
-We may also include Web beacons in marketing e-mail messages or our newsletters in order to determine whether messages have been opened and links contained within clicked on. 
 
-Some of our business partners set Web beacons and cookies on our site. In addition third-party social media buttons may log certain information such as your IP address, browser type and language, access time, and referring Web site addresses, and, if you are logged in to those social media sites, they may also link such collected information with your profile information on that site. We do not control these third party tracking technologies. Note that the "s81c.com" domain used to deliver static content on some of our Web sites is managed by IBM, and not by a third party. 
 
-Back to top
+## Your Rights
 
-## Online Advertising
+You can request to access, update or correct your personal information. You also have the right to object to direct marketing. You can access the request process [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
 
-IBM does not deliver third party online advertisements on our Web sites but we advertise our products and services on others' Web sites. Please familiarize yourself with those Web site operators' or network advertisers' privacy policies to understand their practices relating to advertising, including what type of information they may collect about your Internet usage. Some advertising networks we may use may be members of the Network Advertising Initiative (NAI). Individuals may opt-out of targeted advertising delivered by NAI member ad networks by visiting [www.networkadvertising.org](http://www.networkadvertising.org/). 
+You may have additional rights pursuant to your local law applicable to the processing. For example, if the processing of your personal information is subject to the EU General Data Protection Regulation ("GDPR"), and your personal information is processed based on legitimate interests, you have the right to object to the processing on grounds relating to your specific situation. Under GDPR you may also have the right to request to have your personal information deleted or restricted and ask for portability of your personal information.
 
-We have also engaged with certain third parties to manage some of our advertising on other sites. These third parties may use cookies and Web beacons to collect information (such as your IP address) about your activities on IBM's and others' Web sites to provide you targeted IBM advertisements based upon your interests. In the U.S., those IBM advertisements that are targeted to you will be identified with the DAA icon. You can click on the icon in the advertisements itself to manage your preferences. Or, if you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note that this does not opt you out of being served non-targeted advertising. You will continue to receive generic, non-targeted ads. 
+## Right to Lodge a Complaint
 
-Back to top
+In the event you consider our processing of your personal information not to be compliant with the applicable data protection laws, you can lodge a complaint:
 
-## Links to Non-IBM Web Sites and Third Party Applications
+  * Directly with IBM by using [this form](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
+  * With the competent data protection authority. The name and contact details of the Data Protection Authorities in the European Union can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
-To allow you to interact with other Web sites on which you may have accounts (such as Facebook and other social media sites) or join communities on such sites, we may provide links or embed third-party applications that allow you to login, post content or join communities from our Web sites. 
 
-We may also provide you with general links to non-IBM Web sites. 
 
-Your use of these links and applications is subject to the third parties’ privacy policies, and you should become familiar with the third party sites' privacy policies before using the links or applications. 
+## Changes to our Privacy Statements
 
-IBM is not responsible for the privacy practices or the content of those other Web sites. 
-
-Back to top
-
-## Notification of Changes
-
-We will post a notice for 30 days at the top of this page notifying users when this Privacy Statement is updated or modified in a material way. If we are going to use your personal information in a manner different from that stated at the time of collection, we will notify you, and you will have a choice as to whether or not we can use your personal information in such a way. 
-
-Back to top
-
-## Privacy Questions and Access
-
-If you have a question about this Privacy Statement or IBM's handling of your information, you can send an email to the [IBM Web site coordinator](https://web.archive.org/scripts/contact/contact/us/en/privacy/). You can also contact us at: 
-
-**IBM's Corporate Privacy Office**   
-1 New Orchard Road   
-Armonk, NY 10540   
-U.S.A. 
-
-In certain cases, you may have the ability to view or edit your personal information online. In the event your information is not accessible online, and you wish to obtain a copy of particular information you provided to IBM, or if you become aware the information is incorrect and you would like us to correct it, [contact us](https://web.archive.org/scripts/contact/contact/us/en/privacy/). 
-
-Before IBM is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will contact you within 30 days of your request. 
-
-If you no longer wish to receive marketing e-mails from IBM, please send an e-mail to [NETSUPP@us.ibm.com](mailto:NETSUPP@us.ibm.com) or follow the unsubscribe instructions included in each marketing email. 
+From time to time we may update this Privacy Statement, as well as any other specific privacy statement. When making changes to this Privacy Statement, we will add a new date at the top of this Privacy Statement.
 
 Back to top
