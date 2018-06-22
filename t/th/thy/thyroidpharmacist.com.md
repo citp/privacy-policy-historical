@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thyroidpharmacist.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710063144id_/http%3A//thyroidpharmacist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thyroidpharmacist.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622071322id_/https%3A//thyroidpharmacist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dr. Izabella Wentz
 
-Effective Date: September 2016
+Updated: May 2018
 
 The following Privacy Policy governs the online information collection practices of Wentz, LLC. (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using our website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
@@ -56,6 +56,14 @@ We do not use Facebook advertising data for any purpose (including retargeting, 
 We do not use Facebook advertising data, including the targeting criteria for a Facebook ad, to build, append to, edit, influence, or augment user profiles, including profiles associated with any mobile device identifier or other unique identifier that identifies any particular user, browser, computer or device.
 
 We do not transfer any Facebook advertising data (including anonymous, aggregate, or derived data) to any ad network, ad exchange, data broker or other advertising or monetization related service.
+
+## GENERAL DATA PRIVACY REGULATION (GDPR)
+
+The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union citizens.
+
+As a company that markets its site. Content, products and/or services on line we do not specifically target our marketing to the EU or conduct business in or to the EU in any meaningful way. If the data that you provide to us in the course of your use of our site or services or products is governed by GDPR, we will abide by the relevant portions of the regulation.If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.”
+
+To make any of these requests, please contact our GDPR contact at [gdpr@thyroidpharmacist.com](mailto:gdpr@thyroidpharmacist.com).
 
 ## CHILDREN’S PRIVACY STATEMENT
 
