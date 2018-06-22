@@ -1,59 +1,285 @@
-> *The following text is extracted and transformed from the amateurporn1.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219120451id_/http%3A//www.amateurporn1.com/static/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurporn1.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622103048id_/http%3A//www.amateurporn1.com/static/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Amateur Porn 1
 
-This document details important information regarding the use and disclosure of User Data collected on AmateurPorn1.com
+**PRIVACY POLICY**
 
-The security of your Data is very important to AmateurPorn1.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
+for amateurporn1.com
 
-This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
+Effective Date: May 24, 2018 Last Modified: May 24, 2018 
 
-**DATA COLLECTED**
+This website amateurporn1.com ('site') is brought to you by Interclick Tech and any of its subsidiaries ('we', 'us', 'our'). We process personal and non-personal (anonymous) data about our site's visitors ('you', 'your'). This Privacy Policy is intended to explain to you what personal data we process through your use of the site and what we do with that data. By visiting our site and using our services, you agree to the terms stated in this Privacy Policy. 
 
-**Personal Information:**
+1\. Who we are
 
-Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
+Interclick Tech Is a Dutch company, based in Amsterdam. Our services mainly consist of providing content to our clients. Our contact information: 
 
-**Registered Members:** Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
+Amsterdam Interclick Tech
 
-**Content Uploaded to the site:** Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
+Hullenbergweg 278
 
-**Cookies:** When you visit AmateurPorn1.com, we may send one or more cookies to your computer that uniquely identifies your browser session. AmateurPorn1.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
+Amsterdam, Noord Holland 1101BV
 
-**Log File Information:** When you visit AmateurPorn1.com, our servers may automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
+Netherlands
 
-**Emails:** If you contact us, we may keep a record of that correspondence.
+If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact us at: iclickt2@gmail.com
 
-**USES**
+2\. General
 
-Your Personally identifiable information submitted to AmateurPorn1.com is used to provide to the user the website's features and special personalized features.
+We care about your privacy; therefore we do our best to comply with relevant laws and regulations regarding the processing of personal data, such as the General Data Protection Regulation ('GDPR') and the Dutch GDPR Implementation Act ('Uitvoeringswet AVG'). For the purpose of this Privacy Policy, the definitions used should be read in line with the definitions stated in article 4 of the GDPR. More specifically: • 
 
-Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, the messages you send through the AmateurPorn1.com private mail, etc. Other Users can contact you through, private messages.
+Personal data means any information relating to an identified or identifiable natural person; 
 
-Any videos that you submit to AmateurPorn1.com may be redistributed through the internet and other media channels, and may be viewed by the general public.
+• 
 
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent. We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
+An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person; 
 
-OPT-IN AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties."
+• 
 
-OPT-OUT AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+Processing means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means. 
 
-We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the AmateurPorn1.com user-experience.
+The GDPR does not apply to anonymous information. Anonymous information is information which does not relate to an identified or identifiable natural person or to personal data rendered anonymous in such a manner that the data subject is not or no longer identifiable. This includes processing anonymous data for statistical or research purposes. 
 
-**DISCLOSURE OF INFORMATION**
+We process your personal data in a manner that ensures appropriate security, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures. 
 
-If under duty to do so AmateurPorn1.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of AmateurPorn1.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is AmateurPorn1.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
+3\. Basis for processing personal data
 
-Should you deliberately upload any illegal material AmateurPorn1.com shall forward all available information to all relevant authorities and this without notice.
+Processing of your personal data shall only take place on one of the following lawfull bases: 
 
-\- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+• 
 
-**SECURITY**
+You have given consent to the processing of your personal data for one or more specific purposes (see §4); 
 
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+• 
 
-Unfortunately, the transmission of information via the Internet is not completely secure. AmateurPorn1.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to AmateurPorn1.com and you do so at your own risk.
+Processing of your personal data is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract; 
 
-**YOUR RIGHTS**
+• 
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section.
+Processing is necessary for compliance with a legal obligation to which the we are subject; 
+
+• 
+
+Processing is necessary in order to protect your or another person’s vital interests; 
+
+• 
+
+Processing is necessary for the purposes of the legitimate interests pursued by us or by a third party (such as preventing fraud or direct marketing), except where such interests are overridden by your interests or fundamental rights and freedoms that require protection of personal data. 
+
+4\. Purpose(s) of processing your personal data 
+
+We cannot process your personal data without a purpose. We collect and process personal data for the following purposes: 
+
+• 
+
+For the realization and performance of a contract between you and us; 
+
+• 
+
+To offer you the requested services and information, tailored to your preference; 
+
+• 
+
+To enable you to interact with our website features; 
+
+• 
+
+To process your request, feedback or report; 
+
+• 
+
+To analyze and optimize our site and services; 
+
+• 
+
+To analyze the incoming and outgoing traffic (clicks) on our site; 
+
+• 
+
+To conduct market research and gather information for product and service development; 
+
+• 
+
+To comply with applicable laws and regulations; 
+
+• 
+
+To prevent fraud or misuse of our services; and 
+
+• 
+
+To cooperate with law enforcement and government agencies. 
+
+In principle, we only retain this personal data for as long as necessary for the purposes mentioned above, or to comply with statutory (storage) obligations. 
+
+5\. Personal data we process
+
+Passive personal data obtained through cookies and other technical information provided by you, your browser or your device. 
+
+A. Cookies
+
+This website uses cookies. According to the GDPR parts of this information could be interpreted as (online) identifiers and therefore may qualify as personal data, especially when this data is combined. However, we consider the data we process through cookies anonymous, since this information does not relate to an identified or identifiable natural person. Having said that, for full transparancy we have outlined more information on the cookies that are placed through our site below. 
+
+A cookie is a small file that is being delivered to you through the pages of this site and that is being stored on your computer. The information stored on this cookie is being sent back to us each time you visit our site. Cookies help us to analyze the traffic to and from our site and deliver our visitors a better experience during their visit. 
+
+Cookie consent
+
+Consent for the placement of analytical and functional cookies is not mandatory by law, so these cookies are placed automatically. Your consent to our use of other cookies is automatically given by a clear affirmative act on our site, such as clicking on a specific website feature, for example the orientation filter or language filter. 
+
+Withdrawing cookie consent
+
+Your consent to our use of cookies is easily withdrawed by clearing your cookies and closing your browser. Your browser settings allow you to delete and/or block certain cookies. If you do not agree (anymore) to the use of cookies, we recommend that you change your preferences and use the correct browser settings. Changing these settings and preferences may limit your ability to take full advantage of our site. To clear your 
+
+cookies in your browser settings please visit the help-page of the browser you use. For the most popular browsers, you can take the following steps: 
+
+• 
+
+Safari - Go to preferences > privacy > Manage Website Data and select one or more websites, then click Remove or Remove All. You can also change which cookies and website data you want to accept. 
+
+• 
+
+Chrome - Go to settings > click on Show advanced settings > in the 'Privacy' section click Content Settings > under 'Cookies' click All cookies and site data > click 'Remove All'. You can also clear your browsing history by doing this in the menu 'Clear Browsing History', by going to 'More' (the three dots at the top right menu) and selecting the 'Clear Browsing History' via 'More Tools' or clicking on 'History'. 
+
+• 
+
+Firefox - Go to preferences > Privacy & Security and select the option Clear Data under 'Cookies and site Data' or Clear History under 'History'. 
+
+Please note that browser versions tend to change frequently, including their settings; so make sure to check out the help-pages for the fastest way to clear your cookies in your browser. 
+
+Types of cookies we use
+
+• 
+
+Persistent cookies – By using a persistent cookie, we can recognize you when you visit our site. We use this for analytical purposes and tailoring the site to your preferences. This way you do not have to set your preferences every time you visit our site, thus saving time and making your use of our site more pleasant. These cookies can be removed through the settings of your browser. 
+
+• 
+
+Session based cookies – By using a session based cookie, we can see which parts of the site you have viewed during your visit. With that information, we can optimize and adapt the site as much as possible to the surfing behavior of our visitors. These cookies are automatically deleted when you close your browser. 
+
+Cookies we use
+
+• 
+
+Analytical cookies - This website uses first party and third party analytical cookies to collect information about your visit to this site. 
+
+• 
+
+First Party Analytics - We place our own analytical cookie. The information in this persistent cookie has a short retention period (max. 12 months). We consider the data we process through analytical cookies anonymous, since this information does not relate to an identified or identifiable natural person. We may disclose aggregated, anonymous information to third parties to operate our services properly. 
+
+• 
+
+Third Party Analytics by Google Analytics - A third party analytical cookie is placed by Google as part of our use of the service Google Analytics. Google may transfer this information to third parties only when required by law or in cases where third parties process the information on Google's behalf. We have no influence on this. We have not allowed Google to use the information acquired through the analytical cookies for other Google services or advertisements. The information Google collects is anonymized as much as possible. We have asked them to anonymize any IP-addresses by changing the last octet of each IP. We have also made sure their analytical cookie is not persistent but session based. The information is transmitted to Google and stored on its servers in the United States. Google is part of the Privacy Shield Framework, to comply with the rules of the GDPR for companies that process personal data from residents of European Union member countries and Switzerland. We have also executed a Data Processing Agreement (or Data Processing Amendment) with Google regarding their Google Analytics service. Please note that Google offers a browser Add-on which enables you opt-out of Google Analytics' use of your (personal) data. You can find the add-on here: https://tools.google.com/dlpage/gaoptout. 
+
+Do Not Track Disclosure - Some browsers offer a Do Not Track privacy preference. You can use this browser setting to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. There is no accepted standard on how websites are required to respond to Do Not Track signals at this time. Altough the site may not have the capability of recognizing all web browsers' Do Not Track signals, you may manage browser technologies by choosing to delete or decline the use of cookies by adjusting your browser settings. For more information about browser tracking signals, Do Not Track policies and opting-out, please visit: http://optout.networkadvertising.org or http://www.youronlinechoices.com/.
+
+• 
+
+Orientation filter cookie - we store your orientation setting in a persistent cookie after you click on that feature. This cookie can be removed through the settings of your browser. 
+
+• 
+
+Language filter cookie - we store your language setting in a persistent cookie after you click on that feature. This cookie can be removed through the settings of your browser. 
+
+For an overview of cookies that are placed through our site see the table below: Name Type Purpose ta (referrer, trackerId, isReturningVisitor, clickCount, longTermTrackerId, longTermFirstVisit, utmSource, hasMultipleSessions) Persistent cookie First party analytics variation Persistent cookie First part analytics _utma Persistent cookie Third party analytics by Google _gid Session based cookie Third party analytics by Google _ga Session based cookie Third party analytics by Google _gat Session based cookie Third party analytics by Google session Session based cookie Stores user session tag Persistent cookie Stores orientation preference locale Persistent cookie Stores language preference 
+
+B. Other technical information provided by you, your browser or your device. 
+
+When you visit and interact with our site, your browser or device automatically transmits certain technical information to our website. Such information enables us to know e.g. which browser type you use, what your browser settings are, where you originate from, what your referrer is, etc. With this information we can optimize your user experience by showing the site in your language, optimize rankings, customize the user interface etc. But mainly we use this information for analytical, statistical and research purposes, such as tracking referrals and incoming and outgoing traffic. We consider this data anonymous, since this information does not relate to an identified or identifiable natural person. 
+
+C. Active personal data obtained from your interactions with us, such as using specific website features or sending (e-mail) messages. 
+
+We may temporarily collect your personal data when you decide to provide this to us when using one of our website features. For example, you may voluntarily provide us with your e-mail address when reporting malware through our report tool or other data by sending us a (e-mail) message. 
+
+E-mails and other messages /mediums
+
+The data processed by sending us an e-mail is limited to your e-mail-address and the contents of the message. We will process whatever personal data you included in the message. However, we will only process this data to handle your request or feedback. The period for which we store any personal data in your e-mail depends on the extent of your request and our legal obligation to retain such data to comply with laws and regulations, if any. The same goes for any other messages your send to us directly via other mediums, such as Skype or social media. 
+
+Report tool
+
+If there is an issue with content on our site, you can notify us by using our Report Tool. The information in a report is limited to technical info about your browser settings and the temporary storage of your IP-address. We will mask this IP-address as soon as possible and the browser info is limited to technical data, which we consider anonymous information, since this information does not relate to an identified or identifiable natural person. Any personal (contact) info you voluntarily provide will be temporarily processed by us, depending on the extent of your request and our legal obligation to retain such data to comply with laws and regulations, if any. 
+
+No memberships, subscriptions, accounts, profiles etc. 
+
+We do not provide memberships, subscriptions, accounts, profiles or any other means that lead to an agreement between you and us apart from your use of the website. We do not collect your personal data for such purposes. In the event that you come across a feature on this site that requests your personal data for such a purpose, for example a registration request, chat session, membership form or discussion board, you should be aware that this is a request originating from a third party, not from us. We cannot be held responsible for any use of your personal data by a third party that is not part of our services, so please be aware. 
+
+Overview
+
+Below you will find an overview of the information that you might have chosen to actively provide to us. 
+
+Name Purpose Storage period Name Process your request Deleted after your request is processed* Contact info Process your request Deleted after your request is processed* Other personal data you include in your message Process your request Deleted after your request is processed* IP-address Process your report Masked as soon as possible Browser info Process your report n/a, Anonymous data. Country Process your report n/a, Anonymous data. Language Process your report n/a, Anonymous data. Date and time of report Process your report n/a, Anonymous data. * Statutory storage obligations might require a longer storage period. 
+
+6\. What we do with your personal data
+
+Cookies
+
+The passively collected, aggregated information collected through cookies is being used for market research, marketing purposes, to optimize our services and to optimize your experience on our site. We also track clicks on items to improve our rankings and to analyze the traffic to and from our site. With cookies we can also personalize your experience by recognizing which language or orientation you chose as a filter and to show you the items you favorized. We consider this data anonymous, since this information does not relate to an identified or identifiable natural person. 
+
+Other personal data
+
+Personal data you actively provided to us through your use of the site is handled to process your report, feedback or request. We do not provide third parties with your personal data, or information regarding your use of the services or site(s) accessible through our services, unless this is strictly necessary in our sole discretion, and we believe that it is reasonable to do so, including but not limited to: 
+
+• 
+
+To satisfy any laws, regulations or legal requests for such information; 
+
+• 
+
+To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Use or other policies; 
+
+• 
+
+To operate our services properly; 
+
+• 
+
+To process your request; 
+
+• 
+
+To protect our site’s visitors, the general public, and ourselves. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process; 
+
+• 
+
+To cooperate with law enforcement authorities, government agencies and/or private-party litigants seeking information about our users, to the extent required by applicable law and/or if we are legally advised to do so. Examples of such cooperation include but are not limited to, lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
+
+7\. What are your rights regarding our processing of your personal data? 
+
+Access, rectification, restriction and erasure
+
+You can always send us a message to ask what personal data is stored of you or ask us to rectify, restrict or remove your personal data. Since our storage of personal data is minimal, and almost all our data is anonymized and aggregated, we cannot gaurantee that we have your data on file. As explained before, when data is anonymized, it is not considered personal data. 
+
+If you sent us an e-mail, we can retrieve that e-mail if we still have it on our mailservers. If so, we cannot rectifiy any data in that e-mail, since e-mails cannot be changed. We can delete any e-mail on request. The same goes for messages you send us through other mediums. 
+
+Please note that we might have legitimate rights to continue processing your personal data, which override your interest, rights and freedoms regarding our processing of such data. For example, we might be obligated to continue processing your personal data for the establishment, exercise or defence of legal claims or we need to retain such data for other legal purposes. We will always inform you of this decision when you contact us with a request to exercise one of your rights stated in this section. 
+
+Data portability
+
+The data we process is minimal, and mostly aggregated and anonymized. You have the right to receive the personal data concerning you in an interoperable format, so you can transmit that data to another service provider. We cannot guarantee that we have your personal data on file and/or in an interoparble format, but we will do our best to assist you in enforcing your right regarding data portability. 
+
+Withdrawing consent
+
+As explained in our paragraph on cookies, you can withdraw consent by deleting your cookies. You can contact us with your request to withdraw consent for any personal data you provided to us via certain interactions with our site, such as using a specific website feature or sending (e-mail) messages. Please note that we may have a legal obligation to retain your personal data to comply with laws and regulations. 
+
+Complaints
+
+You also have the right to lodge a complaint with a supervisory authority. We suggest that you contact the compentent supervisory authority in the country of your habitual residence, place of work or place of the alleged infringement. 
+
+8\. Data Security
+
+We take your privacy seriously and therefore we have taken appropriate technical and organizational measures to prevent and minimize the risk of unauthorized or unlawful processing, inappropriate use, inaccuracy, accidental loss, destruction and/or damage of (personal) data stored on our network and systems, insofar as this is reasonably possible and expected of us. 
+
+9\. Third party websites
+
+This Privacy Policy does not cover any processing of personal data from websites that are linked to or from this site. We cannot guarantee that those third parties have the same level of caution and trustworthy in handling personal data. We recommend that you read the privacy policies of those third party websites upon entering their website. Those third party websites might require your personal data to register for their services, so please make sure you read and understood any associated terms of use and privacy policies. 
+
+10\. Changes to this Privacy Policy
+
+We reserve the right to make changes to this Privacy Policy. We recommend that you regularly visit this page and check if you have read the latest version of the Privacy Policy, which is indicated by the ‘Last Modified’ date stated above. Please refresh your browser when you re-visit this page to make sure that your browser shows you the latest version of this Privacy Policy. 
+
+11\. Any Questions
+
+If you have any questions about our Privacy Policy or about the access, rectification, restriction and/or erasure of your personal data, please contact us at: iclickt2@gmail.com
+
+\- End -
+
+© Interclick Tech
