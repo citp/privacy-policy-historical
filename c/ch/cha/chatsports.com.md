@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatsports.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119094521id_/https%3A//www.chatsports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatsports.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622033740id_/https%3A//www.chatsports.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,3 +75,6 @@ You consent to receiving all notifications from Chat Sports through display on t
 **11\. Children.** Chat Sports does not knowingly permit children under 13 to create a Chat Sports account or to use Chat Sports Rooms. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information. If you are a parent of a child under 13 and you believe that your child has created a Chat Sports account in violation of our policy, please contact us at yo@ChatSports.com 
 
 **12\. Comments and Questions.** If you have any comments or questions you may address them to our customer service department at yo@ChatSports.com. 
+
+  
+
