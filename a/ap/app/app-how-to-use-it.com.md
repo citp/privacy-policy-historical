@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the app-how-to-use-it.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210000534id_/http%3A//www.app-how-to-use-it.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app-how-to-use-it.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622092918id_/http%3A//www.app-how-to-use-it.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – App How To Use It
 
