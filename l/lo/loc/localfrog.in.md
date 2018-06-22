@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the localfrog.in privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320053758id_/http%3A//www.localfrog.in/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localfrog.in privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622035754id_/https%3A//www.localfrog.in/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - localFROG
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [here](http://www.localfrog.in/contact-us.html)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [here](https://www.localfrog.in/contact-us.html)
 
 At www.localfrog.in, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.localfrog.in and how it is used. 
 
