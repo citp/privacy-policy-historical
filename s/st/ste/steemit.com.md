@@ -1,156 +1,283 @@
-> *The following text is extracted and transformed from the steemit.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123075739id_/https%3A//steemit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steemit.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622144810id_/https%3A//steemit.com/privacy.html) for the most accurate reproduction.*
 
 # Steemit
 
-## Effective April 1, 2016
+## Effective: May 25, 2018
 
-1We want you to understand how and why Steemit, Inc (“Steemit,” “we” or “us”) collects, uses, and shares information about you when you access and use Steemit’s websites, mobile apps, widgets, and other online products and services (collectively, the "Services") or when you otherwise interact with us.
+This Privacy Policy describes how Steemit collects, uses and discloses information, and what choices you have with respect to the information. This Policy applies to the Steemit.com, steemit subdomains (e.g., signup.steemit.com) and services (collectively, “Services”).
 
-## Information You Provide to Us
+Updates in this version of the Privacy Policy reflect changes in data protection law.
 
-2We collect information you provide directly to us when you use our Services. Depending on which Service you use, we may collect different information about you. This includes:
+When we refer to “Steemit”, we mean the Steemit entity that acts as the controller of your information.
 
-#### Information Regarding Your Use of the Services
+By using the Services, you accept the terms of this Policy and our Terms of Service, and consent to our initial collection, use, disclosure, and retention of your information as described in this Policy and Terms of Service.
 
-3We collect the content and other information you provide when you use our Services. This includes information used to create your account (e.g., a username, an email address, phone number), account preferences, and the content of information you post to the Services (e.g., text, photos, videos, links).
+Please note that this Policy does not apply to information collected through third-party websites or services that you may access through the Services or that you submit to us through email, text message or other electronic message or offline.
 
-#### Transactional Information
+If you are visiting this site from the European Union (EU), see our Notice to EU Data Subjects below for our legal bases for processing and transfer of your data.
 
-4If you purchase products or services from us (e.g., Steem Power), we will collect certain information from you, including your name, address, email address, and information about the product or service you are purchasing. Payments are processed by third-party payment processors (e.g., Stripe and PayPal), so please refer to the applicable processor’s terms and privacy policy for more information about how payment information is processed and stored.
+### WHAT WE COLLECT
 
-## Other Information
+We get information about you in a range of ways.
 
-5You may choose to provide other information directly to us. For example, we may collect information when you fill out a form, participate in contests, sweepstakes or promotions, apply for a job, communicate with us via third-party sites and services, request customer support or otherwise communicate with us.
+Information You Give Us. Information we collect from you includes:
 
-## Information We Collect Automatically
+IP address;
 
-6When you access or use our Services, we may also automatically collect information about you. This includes:
+Language information;
 
-#### Log and Usage Data
+Contact information, such as your email address and telephone number;
 
-7We may log information when you access and use the Services. This may include your IP address, user-agent string, browser type, operating system, referral URLs, device information (e.g., device IDs), pages visited, links clicked, user interactions (e.g., voting data), the requested URL, hardware settings, and search terms.
+Information Automatically Collected. We may automatically record certain information about how you use our Site (we refer to this information as “Log Data“). Log Data may include information such as a user’s Internet Protocol (IP) address, device and browser type, and operating system. We use this information to administer and provide access to the Services
 
-#### Information Collected from Cookies
+Information we will never collect. We will never ask you to share your private keys or wallet seed. Never trust anyone or any site that asks you to enter your private keys or wallet seed.
 
-8We may receive information from cookies, which are pieces of data your browser stores and sends back to us when making requests. We use this information to improve your experience, understand user activity, and improve the quality of our Services. For example, we store and retrieve information about your preferred language and other settings. For more information on how you can disable cookies, please see “Your Choices” below.
+### USE OF PERSONAL INFORMATION
 
-#### Location Information
+To provide our service we will use your personal information in the following ways:
 
-9With your consent, we may collect information about the specific location of your mobile device (for example, by using GPS or Bluetooth). You can revoke this consent at any time by changing the preferences on your device, but doing so may affect your ability to use all of the features and functionality of our Services.
+  * To enable you to access and use the Services
+  * To comply with law
+  * We use your personal information as we believe necessary or appropriate to comply with applicable laws, lawful requests and legal process, such as to respond to subpoenas or requests from government authorities.  
+  * For compliance, fraud prevention, and safety
 
-## Social Sharing
 
-10We may offer social sharing features or other integrated tools that let you share content or actions you take on our Services with other media. Your use of these features enables the sharing of certain information with your friends or the public, depending on the settings you establish with the third party that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third parties that provide these social sharing features (e.g., Tumblr, Facebook, Reddit, Pinterest, and Twitter).
 
-## How We Use Information About You
+We may use your personal information to protect, investigate, and deter against fraudulent, unauthorized, or illegal activity.
 
-11
+### SHARING OF PERSONAL INFORMATION
 
-We use information about you to:
+We do not share or sell the personal information that you provide us with other organizations without your express consent, except as described in this Privacy Policy. We disclose personal information to third parties under the following circumstances:
 
-  * Provide, maintain, and improve the Services;
-  * Help protect the safety of Steemit and our users, which includes blocking suspected spammers, addressing abuse, and enforcing the Steemit user agreement and the Terms of Service;
-  * Send you technical notices, updates, security alerts, invoices and other support and administrative messages;
-  * Provide customer service;
-  * Communicate with you about products, services, offers, promotions, and events, and provide other news and information we think will be of interest to you (for information about how to opt out of these communications, see “Your Choices” below);
-  * Monitor and analyze trends, usage, and activities in connection with our Services;
-  * Personalize the Services and provide advertisements, content and features that match user profiles or interests.
+Affiliates. We may disclose your personal information to our subsidiaries and corporate affiliates for purposes consistent with this Privacy Policy.
 
+Business Transfers. We may share personal information when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
 
+Compliance with Laws and Law Enforcement; Protection and Safety. We may share personal information for legal, protection, and safety purposes.
 
-## How We Share Information
+We may share information to comply with laws.
 
-12
+We may share information to respond to lawful requests and legal processes.
 
-When you use the Services, certain information may be shared with other users and the public. For example:
+Professional Advisors and Service Providers. We may share information with those who need it to do work for us. These recipients may include third party companies and individuals to administer and provide the Service on our behalf (such as customer support, hosting, email delivery and database management services), as well as lawyers, bankers, auditors, and insurers.
 
-  * When you submit a post or comment to the Services, visitors to and users of our Services will be able to see the content of your posts and comments, the username associated with your posts or comments, and the date and time you originally submitted the post or comment. Although some parts of the Services may be private or quarantined, they may become public and you should take that into consideration before posting to the Services.
-  * When other users view your profile, they will be able to see information about your activities on the Services, such as your username, prior posts and comments, Steem Power, and how long you have been a member of the Services.
+Other. You may permit us to share your personal information with other companies or entities of your choosing. Those uses will be subject to the privacy policies of the recipient entity or entities.
 
+We may also share aggregated and/or anonymized data with others for their own uses.
 
+### INTERNATIONAL TRANSFER
 
-13Please note that, even when you delete your account, the posts, comments and messages you submit through the Services may still be viewable or available on our servers. For more information, see “Your Choices” below.
+The Company has offices outside of the EU and has affiliates and service providers in the United States and in other countries. Your personal information may be transferred to or from the United States or other locations outside of your state, province, country or other governmental jurisdiction where privacy laws may not be as protective as those in your jurisdiction.
 
-14
+EU users should read the important information provided  below about transfer of personal information outside of the European Economic Area (EEA).
 
-We will not share, sell, or give away any of our users’ personal information to third parties, unless one of the following circumstances applies:
+### HOW INFORMATION IS SECURED
 
-  * Except as it relates to advertisers and our ad partners, we may share information with vendors, consultants, and other service providers who need access to such information to carry out work for us;
-  * If you participate in contests, sweepstakes, promotions, special offers, or other events or activities in connection with our Services, we may share information with entities that partner with us to provide these offerings;
-  * We may share information (and will attempt to provide you with prior notice, to the extent legally permissible) in response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation, legal process or governmental request;
-  * We may share information in response to an emergency if we believe it's necessary to prevent imminent and serious bodily harm to a person;
-  * We may share information if we believe your actions are inconsistent with our user agreements, or other Steemit policies, or to protect the rights, property, and safety of ourselves and others;
-  * We may share information between and among Steemit, and its current and future parents, affiliates, subsidiaries, and other companies under common control and ownership; and
-  * We may share information with your consent or at your direction.
+We retain information we collect as long as it is necessary and relevant to fulfill the purposes outlined in this privacy policy. In addition, we retain personal information to comply with applicable law where required, prevent fraud, resolve disputes, troubleshoot problems, assist with any investigation, enforce our Terms of Service, and other actions permitted by law. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
+In some circumstances we may anonymize your personal information (so that it can no longer be associated with you) in which case we may use this information indefinitely without further notice to you.  
 
+We employ industry standard security measures designed to protect the security of all information submitted through the Services. However, the security of information transmitted through the internet can never be guaranteed. We are not responsible for any interception or interruption of any communications through the internet or for changes to or losses of data. Users of the Services are responsible for maintaining the security of any password, user ID or other form of authentication involved in obtaining access to password protected or secure areas of any of our digital services.
 
-15We may share aggregated or de-identified information, which cannot reasonably be used to identify you.
+### INFORMATION CHOICES AND CHANGES
 
-## Ads and Analytics Partners
+Accessing, Updating, Correcting, and Deleting your Information
 
-16We may partner with third-party advertisers, ad networks, and analytics providers to deliver advertising and content targeted to your interests and to better understand your use of the Services. These third parties may collect information sent by your computer, browser, or mobile device in response to a request for content, such as unique identifiers, your IP address, or other information about your computer or device. For example:
+You may access information that you have voluntarily provided through your account on the Services, and to review, correct, or delete it by sending a request to privacy@steemit.com. You can request to change contact choices, opt-out of our sharing with others, and update your personal information and preferences. We may require that you are the you are the user who you say you are by proving that you have control of your posting key via our conveyor API.  For more information about our conveyor API please see [here](https://www.google.com/url?q=https://github.com/steemit/conveyor%23get_user_data-username&sa=D&ust=1527292847102000).
 
-#### Advertisers and Ad Networks
+### CONTACT INFORMATION.
 
-17Our ad partners and network may use cookies and use related technologies to collect information when ads are delivered to you on our Services, but Steemit does not link to or provide your actual Steemit account details to these advertising partners. This means that Steemit does not share your individual account browsing habits with advertisers. Steemit cannot see advertisers’ cookies and advertisers will not see Steemit cookies.
+ We welcome your comments or questions about this Policy, and you may contact us at: privacy@steemit.com.
 
-#### Analytics Partners
+### CHANGES TO THIS PRIVACY POLICY.
 
-18We use analytics partners (such as Google Analytics) to help analyze usage and traffic for our Services. As an example, we may use analytics partners to analyze and measure, in the aggregate, the number of unique visitors to our Services.
+ We may change this privacy policy at any time. We encourage you to periodically review this page for the latest information on our privacy practices. If we make any changes, we will change the Last Updated date above.
 
-19For more information about how you may control the collection and/or use of information for advertising and analytics purposes, please see “Your Choices.”
+Any modifications to this Privacy Policy will be effective upon our posting of the new terms and/or upon implementation of the changes to the Site (or as otherwise indicated at the time of posting). In all cases, your continued use of the the Site or Services after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.
 
-## Security
+### ELIGIBILITY
 
-20We take reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction.
+If you are under the age of majority in your jurisdiction of residence, you may use the Services only with the consent of or under the supervision of your parent or legal guardian. Consistent with the requirements of the Children's Online Privacy Protection Act (COPPA), if we learn that we have received any information directly from a child under age 13 without first receiving his or her parent's verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the child that he or she cannot use the Site and subsequently we will delete that information.
 
-## Children under 13
+### NOTICE TO CALIFORNIA RESIDENTS
 
-21Although we welcome users from all walks of life, Steemit is not intended or directed at individuals under the age of 13. Therefore, individuals under the age of 13 may not create an account or otherwise access or use the Services.
+Under California Civil Code Section 1789.3, California users are entitled to the following consumer rights notice: California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
 
-## Your Choices
+### NOTICE TO EU DATA SUBJECTS
 
-22As a Steemit user, you have choices about how to protect and limit the collection, use, and disclosure of, information about you. This includes:
+#### Personal Information
 
-#### Preferences
+With respect to EU data subjects, “personal information,” as used in this Privacy Policy, is equivalent to “personal data” as defined in the European Union General Data Protection Regulation (GDPR).
 
-23We may provide you with tools and preference settings that allow you to access, correct, delete, and modify information associated with your account.
+#### Legal Bases for Processing
 
-#### Account Information
+We only use your personal information as permitted by law. We are required to inform you of the legal bases of our processing of your personal information, which are described in the table below. If you have questions about the legal bases under which we process your personal information, contact us at legal@steemit.com.
 
-24You may delete your account information at any time by logging into your account and following the steps under “Preferences.” When you delete your account, your profile is no longer visible to other users and disassociated from content you posted under that account. Please note, however, that the posts, comments, and messages you submitted prior to deleting your account will still be visible to others, unless you delete such content. We may also retain certain information about you as required by law or for legitimate business purposes after you delete your account. Any information that has been published to the Steem blockchain will also remain indefinitely.
+#### Processing Purpose
 
-#### Cookies
+  * Legal Basis
+  * For compliance, fraud prevention, and safety
+  * To provide our service
 
-25Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject first- and third-party cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
 
-#### Third-Party Advertising and Analytics
 
-26Some analytics providers may provide specific opt-out mechanisms (e.g. Google Analytics Opt-out), and we will provide, as needed, additional tools and third-party services that allow you to better understand cookies and how you can opt-out. You have the ability to opt out of having your web browsing information used for behavioral advertising purposes. For more information about behavioral advertising, or to opt out, please visit www.aboutads.info/choices.
+These processing activities constitute our legitimate interests. We make sure we consider and balance any potential impacts on you (both positive and negative) and your rights before we process your personal information for our legitimate interests. We do not use your personal information for activities where our interests are overridden by any adverse impact on you (unless we have your consent or are otherwise required or permitted to by law).
 
-#### Do Not Track
+#### With your consent
 
-27Do Not Track (“DNT”) is a privacy preference that you can set in most web browsers. We support DNT in our Services. There is no accepted standard on how to respond to web browsers’ DNT signals. When you have DNT enabled, we may still use information collected for analytics and measurement purposes or to otherwise provide our Services (e.g., Steemit.com buttons), but we will not load any third-party trackers. You may, however, opt out of having information about you collected and used for behavioral advertising purposes, as described above.
+Where our use of your personal information is based upon your consent, you have the right to withdraw it anytime in the manner indicated in the Service or by contacting us at privacy@steemit.com
 
-#### Promotional Communications
+#### Use for New Purposes
 
-28You may opt out of receiving promotional communications from us by following the instructions in those communications. If you opt out, we may still send you non-promotional communications, such as information about your account or your use of our Services.
+We may use your personal information for reasons not described in this Privacy Policy, where we are permitted by law to do so and where the reason is compatible with the purpose for which we collected it. If we need to use your personal information for an unrelated purpose, we will notify you and explain the applicable legal basis for that use. If we have relied upon your consent for a particular use of your personal information, we will seek your consent for any unrelated purpose.
 
-#### Mobile Notifications
+#### Your Rights
 
-29With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+Under the GDPR, you have certain rights regarding your personal information. You may ask us to take the following actions in relation to your personal information that we hold:
 
-## International Data Transfers
+Opt-out. Stop sending you direct marketing communications which you have previously consented to receive. We may continue to send you Service-related and other non-marketing communications.
 
-30We are based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer and storage of information in and to the U.S. and other countries, where you may not have the same rights as you do under local law.
+Access. Provide you with information about our processing of your personal information and give you access to your personal information.
 
-31Steemit complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Despite an adverse judgment by the European Court of Justice on October 6, 2015, the U.S. Department of Commerce has advised that it continues to administer the Safe Harbor program until further notice. To learn more about the Safe Harbor program, and to view our certification, please visit the U.S. Department of Commerce website. If you have concerns about our compliance with the Safe Harbor program, you should contact us. If you are unable to resolve your concern or dispute with us, you may submit complaints to JAMS for mediation pursuant to the JAMS International Mediation Rules.
+Correct. Update or correct inaccuracies in your personal information.
 
-## Changes
+Delete. Delete your personal information.
 
-32We may change this Privacy Policy from time to time. If we do, we will let you know by revising the date at the top of the policy. If we make a change to this policy that, in our sole discretion, is material, we will provide you with additional notice (such as adding a statement to steemouncements, the front page of the Services or sending you a notification). We encourage you to review the Privacy Policy whenever you access or use our Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy. If you continue to use our Services after Privacy Policy changes go into effect, you consent to the revised policy.
+Transfer. Transfer a machine-readable copy of your personal information to you or a third party of your choice.
 
-## Contact Us
+Restrict. Restrict the processing of your personal information.
 
-33If you have any questions about this Privacy Policy, please email [contact@steemit.com](mailto:contact@steemit.com).
+Object. Object to our reliance on our legitimate interests as the basis of our processing of your personal information that impacts your rights.
+
+You can submit these requests by email to privacy@steemit.com. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us at privacy@steemit.com or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator [here](https://www.google.com/url?q=http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm&sa=D&ust=1527292847107000).
+
+#### Cross-Border Data Transfer
+
+Please be aware that your personal data will be transferred to, processed, and stored in the United States. Data protection laws in the U.S. may be different from those in your country of residence. You consent to the transfer of your information, including personal information, to the U.S. as set forth in this Privacy Policy by visiting our site or using our service.
+
+Whenever we transfer your personal information out of the EEA to the U.S. or countries not deemed by the European Commission to provide an adequate level of personal information protection, the transfer will be based on a data transfer mechanism recognized by the European Commission as providing adequate protection for personal information.
+
+Please contact us if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA.
+
+#### Why do we use Cookies?
+
+We generally use Cookies for the following purposes:
+
+  * To allow registered users to stay logged in to the site after they close their browser window;
+  * To store users' preferences for site functionality; and
+  * To track site usage so we can improve our site & better understand how people are using it
+  * To better understand the interests of our customers and our website visitors.
+
+
+
+Some Cookies are necessary for certain uses of the Site, and without such Cookies, we would not be able to provide many services that you need to properly use the Site. These Cookies, for example, allow us to operate our Site so you may access it as you have requested and let us recognize that you have created an account and have logged into that account to access Site content. They also include Cookies that enable us to remember your previous actions within the same browsing session and secure our Sites.  
+
+We also use functional Cookies and Cookies from third parties for analysis and marketing purposes.  Functional Cookies enable certain parts of the site to work properly and your user preferences to remain known.  Analysis Cookies, among other things, collect information on how visitors use our Site, the content and products that users view most frequently, and the effectiveness of our third party advertising. Advertising Cookies assist in delivering ads to relevant audiences and having our ads appear at the top of search results. Cookies are either “session” Cookies which are deleted when you end your browser session, or “persistent,” which remain until their deletion by you (discussed below) or the party who served the cookie.  Full details on all of the Cookies used on the Site are available at our Cookie Disclosure table below.
+
+#### How to disable Cookies. 
+
+You can generally activate or later deactivate the use of cookies through a functionality built into your web browser. To learn more about how to control cookie settings through your browser:
+
+Click [here](https://www.google.com/url?q=https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences&sa=D&ust=1527292847109000) to learn more about the “Private Browsing” setting and managing cookie settings in Firefox;
+
+Click [here](https://www.google.com/url?q=https://support.google.com/chrome/answer/95647?hl%3Den&sa=D&ust=1527292847109000) to learn more about “Incognito” and managing cookie settings in Chrome;
+
+Click [here](https://www.google.com/url?q=https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies&sa=D&ust=1527292847110000) to learn more about “InPrivate” and managing cookie settings in Internet Explorer; or
+
+Click [here](https://www.google.com/url?q=https://support.apple.com/kb/ph21411?locale%3Den_US&sa=D&ust=1527292847110000) to learn more about “Private Browsing” and managing cookie settings in Safari.
+
+If you want to learn more about cookies, or how to control, disable or delete them, please visit http://www.aboutcookies.org for detailed guidance. In addition, certain third party advertising networks, including Google, permit users to opt out of or customize preferences associated with your internet browsing.
+
+We may link the information collected by Cookies with other information we collect from you pursuant to this Privacy Policy and use the combined information as set forth herein.  Similarly, the third parties who serve cookies on our Site may link your name or email address to other information they collect, which may include past purchases made offline or online, or your online usage information. If you are located in the European Economic Area, you have certain rights that are described above under the header “Notice to EU Data Subjects”, including the right to inspect and correct or delete the data that we have about you.
+
+Name of Cookie/Identifier
+
+| 
+
+What does the cookie generally do (e.g., website function and administration, analytics, marketing)?
+
+| 
+
+Is it a 1st or 3rd party cookie and what is the name of the party providing it?
+
+| 
+
+What type of cookie is it (persistent or session)?
+
+| 
+
+What is the duration of the cookie on the website (if not cleared by the user)?  
+  
+---|---|---|---|---  
+  
+_ga
+
+| 
+
+Google Analytics
+
+| 
+
+Third-party; Google
+
+| 
+
+Persistent
+
+| 
+
+2 years  
+  
+AWSALB
+
+| 
+
+Website function
+
+| 
+
+Third-party; Amazon
+
+| 
+
+Persistent
+
+| 
+
+1 week  
+  
+stm1.sig
+
+| 
+
+Website function
+
+| 
+
+First-party
+
+| 
+
+Persistent
+
+| 
+
+1 month  
+  
+stm1
+
+| 
+
+Website function
+
+| 
+
+First-party
+
+| 
+
+Persistent
+
+| 
+
+1 month
