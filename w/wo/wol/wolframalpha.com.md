@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolframalpha.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230065724id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolframalpha.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622110811id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Wolfram|Alpha Privacy Policy
 
@@ -38,14 +38,14 @@ We may also preserve, use, or disclose your information if necessary to enforce 
 
 ## Cookies
 
-When you visit our website, we, like most websites, send one or more cookies—small anonymous identifiers—to your computer that uniquely identify you to our servers. While we do use cookies for security and fraud investigation purposes, our primary purpose is to enhance your user experience by understanding and remembering your preferences, and by general tracking of our user trends. Most browsers are initially set up to accept cookies, but you can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Please be aware that Wolfram|Alpha may not have full functionality if your browser refuses cookies. We utilize the following types of cookies:
+When you visit our website, we, like most websites, send one or more cookies—small identifiers—to your computer that store information about your session and preferences as well as information that can help improve our services. While we do use strictly necessary and functional cookies for basic site functionality, as well as security and fraud investigation purposes, our primary purpose in using all other cookies is to enhance and improve your user experience by understanding and remembering your preferences, and by general tracking of our user trends. We utilize the following types of cookies:
 
-  * Strictly Necessary Cookies: These cookies are strictly necessary to provide services that you have requested on our website
-  * Functional Cookies: These cookies support and facilitate your use of our website by enabling enhanced and personalized features.
-  * Performance Cookies: These cookies collect information that we utilize to support the measurement of this website.
-  * Targeting Cookies: These cookies are used by social sharing services (such as Facebook), and also by various third parties to deliver messaging that may be of value or interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.
+  1. Default cookies: These strictly necessary and functional cookies support and facilitate the provision of services that you have requested on our website, and may enable enhanced features.
+  2. Additional cookies: These cookies collect information that we utilize to support the measurement of this website. On specific sites, Wolfram may use third-party cookies when working with outside partners for analytics and to optimize delivery of information that may be of interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.
 
 
+
+Most browsers are initially set up to accept cookies, but can typically be configured to block all cookies or block all third-party cookies. Please be aware that our website may not have full functionality for you if your browser is set to block some or all cookies. Depending on your location, you may also be prompted to provide your consent to all cookies, other than strictly necessary and functional cookies, each time you visit our website. Any information about you collected by us is retained and protected in accordance with the law governing your location.
 
 ##  Links to Third-Party Websites
 
@@ -65,6 +65,10 @@ Despite our efforts to protect your personal information, there is always some r
 
 We may update or modify this Privacy Policy from time to time in the future. Any such updates or modifications shall be effective immediately upon their posting. Please refer back to this page often for the latest information.
 
+## Data Retention
+
+We collect and hold personal data about our customers, users and enthusiasts, employees and others in the European Union who access our resources and services in a manner consistent with the lawful bases as outlined in the European Union's General Data Protection Regulation (GDPR). Please see the [Data Retention Policy Addendum to Wolfram's Privacy Policies](http://www.wolfram.com/legal/privacy/data-retention.html), which outlines our GDPR compliance in collecting, processing and using your personal data. It also describes how you can contact us to review any personal data and withdraw any consent you have given us to store it.
+
 ## Questions and Concerns
 
-If you have any questions or concerns about this Privacy Policy, you may [email us](https://web.archive.org/contact.html) or contact us by U.S. mail at Wolfram Alpha LLC, Attn: Legal Department, 100 Trade Center Drive, Champaign, IL 61820-7237 USA.
+If you have any questions or concerns about this Privacy Policy, you may [email us](https://web.archive.org/contact-us/) or contact us by U.S. mail at Wolfram Alpha LLC, Attn: Legal Department, 100 Trade Center Drive, Champaign, IL 61820-7237 USA.
