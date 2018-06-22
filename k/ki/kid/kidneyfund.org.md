@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidneyfund.org privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216102337id_/http%3A//www.kidneyfund.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidneyfund.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622153523id_/http%3A//www.kidneyfund.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - American Kidney Fund (AKF)
 
