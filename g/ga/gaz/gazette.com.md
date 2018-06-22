@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gazette.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213154632id_/http%3A//gazette.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazette.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622180828id_/http%3A//gazette.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Colorado Springs Gazette, News
 
