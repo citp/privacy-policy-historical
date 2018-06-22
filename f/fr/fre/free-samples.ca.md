@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-samples.ca privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208092432id_/http%3A//freebies.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-samples.ca privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622093101id_/https%3A//freebies.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Freebies.com
 
@@ -25,6 +25,36 @@ We may also disclose personal information for the following purposes:
 (2) to enforce the [Freebies.com ](http://www.freebies.com/) Terms & Conditions or to protect our rights; or  
 (3) to protect the safety of members of the public and users of the service.   
 
+
+####  How we use your Information 
+
+When you complete our online application form you will be asked to provide consent for your data to be used to complete your application and for marketing purposes.
+
+By proceeding with your application, you consent to your data being used by us and our partners to assess your application.
+
+Should you opt in to receive marketing, we and a third-party partner will provide you with information about products, services and offers that may be of interest to you.
+
+Third-party Partner
+
+  * Liveintent
+
+
+
+Categories
+
+  * Surveys
+  * Technology
+  * Finace
+  * Competitions
+  * Coupons
+  * Health Care
+  * Home Improvment
+  * Insurance
+  * Infant Care
+
+
+
+Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you. Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID. Our partners may link the personal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. To learn more about interest-based advertising in general and to opt out, please visit http://www.aboutads.info/choices.
 
 #### Unsubscribe
 
