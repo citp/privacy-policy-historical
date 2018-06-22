@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheeseandburger.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216215517id_/http%3A//www.cheeseandburger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheeseandburger.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622175421id_/http%3A//www.cheeseandburger.com/privacy) for the most accurate reproduction.*
 
 # Cheese & Burger Society
 
@@ -22,7 +22,7 @@ Some data we collect contains non-personal information. Examples of this type of
 
 ## CHILDREN AND PRIVACY
 
-CheeseAndBurger.com has no intention of collecting personal information from children (i.e., individuals under the age of 13). If a child has provided us with personal information, CheeseAndBurger.com asks that a parent or guardian of the child contact CheeseAndBurger.com at info@EatWisconsinCheese.com if they would like the information submitted by a child deleted from our database. CheeseAndBurger.com will use reasonable efforts to delete such information from its database.
+CheeseAndBurger.com has no intention of collecting personal information from children (i.e., individuals under the age of 13). If a child has provided us with personal information, CheeseAndBurger.com asks that a parent or guardian of the child contact CheeseAndBurger.com at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) if they would like the information submitted by a child deleted from our database. CheeseAndBurger.com will use reasonable efforts to delete such information from its database.
 
 ## COOKIES
 
@@ -44,7 +44,7 @@ By using this web site, you consent to our use of your personal and non-personal
 
 ## CONCERNS AND COMMENTS
 
-Your privacy concerns are important to us. Please e-mail us with any further questions or concerns regarding this Privacy Policy at info@EatWisconsinCheese.com or write to:
+Your privacy concerns are important to us. Please e-mail us with any further questions or concerns regarding this Privacy Policy at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or write to:
 
 Wisconsin Milk Marketing Board, Inc.  
 C/O CheeseAndBurger.com   
