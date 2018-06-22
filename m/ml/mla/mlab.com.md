@@ -1,81 +1,162 @@
-> *The following text is extracted and transformed from the mlab.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020163513id_/http%3A//www.funmobility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlab.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622133132id_/https%3A//mlab.com/company/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Mobile Engagement Platform
+# Privacy Policy | mLab Cloud MongoDB Hosting
 
-We are committed to protecting privacy. The following information is to help registered and unregistered users and visitors (collectively “Users” or “You”) understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our mobile applications and services, and websites, including: FunMobility.com, FunChat.com,  AppWidgetPlatform.com and other websites and mobile applications and services (collectively, “Services”). These Services include, but are not limited to, FunMobility, FunChat, FunMo, MLAB, America’s Best Mobile Pix™, Flirt Pix™,and AppWidgets ™. Additional Services may be added at any time. This Privacy Policy is incorporated into the FunMobility [Terms of Use](https://www.funmobility.com/terms/). Your use of the Services and any personal information You provide on the Services remain subject to the terms of this Privacy Policy and our [Terms of Use](https://www.funmobility.com/terms/).
+Last Updated: May 22, 2018
 
-**1\. INFORMATION WE COLLECT**
+ObjectLabs Corporation (henceforward **"mLab"** , **"we"** or **"us"** ) understands that Users care about their privacy and how their personally identifiable information is used and shared. As such, we at mLab have a firm commitment to the privacy and protection of our Users.
 
-a. User Provided Information. You may provide certain personally identifiable information to FunMobility directly and privately, such as first and last name, telephone number, email address and date of birth. (“Personally Identifiable Information”), when choosing to register at the Services, using the Services, participating in contents, promotions, or surveys, or subscribing to any newsletters or other distribution lists. Such Personally Identifiable Information is protected under this Privacy Policy.
+This Privacy Policy applies to the information we collect via our Service and our Site and describes how we collect and use such information. It also describes the choices available to you regarding our use of your personally identifiable information and how you can opt-out of or access and update this information. By visiting our Site or using our Service, you are consenting to the practices described in this Privacy Policy. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Service or our Site. 
 
-To the contrary, any video, audio, graphics, images, text, or other content submitted, transmitted, posted or uploaded, via Internet or mobile communications, to the public areas of the Services by Users (“User Submissions”), or such material that you make accessible to others directly, becomes published and are not considered Personally Identifiable Information subject to certain protections under this Privacy Policy. You have the ability to, although we strongly discourage it, provide personally identifiable information in User Submissions to tell other Users about yourself, including by posting messages to any message boards, blogs, or forums, or providing such information through mobile communications. Be aware that if your User Submissions includes personal information, such as your name, email address, etc., other Users will have access to it and it will not be protected Personally Identifiable Information. We reserve the right, at our sole discretion and without obligation, to filter User Submissions for personally identifiable information and to remove or obscure entire User Submissions or portions thereof.
+All individuals whose responsibilities include the processing of personally identifiable information on our behalf are expected to protect that data by adherence to this Privacy Policy. This Privacy Policy is intended to meet requirements globally, including those in North America, Europe, APAC, and other jurisdictions.
 
-When You use your cellular telephone or other wireless device to send, store, receive, or access material, through your wireless network carrier, such as profile information, responses to requests for information, video, audio, text, images and photos, we may collect such information, which may contain Personally Identifiable Information and/or Non-Personally Identifiable Information.
+Capitalized terms that are not defined in this Privacy Policy have been defined in our Terms of Service (available at <https://mlab.com/company/legal/tos/>). Therefore, please make sure you have read and understand our Terms of Service.
 
-b. Cookies. When You visit the Services, we may send one or more cookies – a small text file containing a string of alphanumeric characters to your computer that identifies your web browser. You can set your web browser to refuse cookies. However, if You do, some features of the Services may not function properly, including time saving features such as automatic log-in to Services after your initial registration.
+### Our guiding principles
 
-c. Log Files. Log file information from is automatically reported by your web browser each time You view a web page. When You register with or view the Services, our servers automatically record certain information that your web browser sends whenever You visit any website. These server logs may include information such as your IP address, browser type and language, number of clicks, domain names of websites visited, pages viewed, and the order of those pages, the amount of time spent on particular pages, and the date and time.
+  1. We only collect necessary information about you.
+  2. We do not share personally identifiable information except for obvious reasons (such as when necessary to provide our Service or if required by law).
+  3. We will not spam you.
 
-d. Clear Gifs. When You use the Services, we may use clear gifs (a.k.a. web beacons) to anonymously track the online usage patterns of Users without collecting any Personally Identifiable Information.
 
-Clear gif, cookies, and log file information are non-personally identifiable information because such information is not collected or used in such a way that an individual User can be identified, for example, by name or email address (“Non-Personally Identifiable Information”). Personally Identifiable Information and Non-Personally Identifiable Information is collectively referred to in the Privacy Policy as “Collected Information.”
 
-**2\. USE OF INFORMATION**
+### What information do we collect about you?
 
-Collected Information is used to operate, maintain, and provide to You the features and functionality of the Services. Any personal information or User Submissions that You voluntarily submit to be disclosed online (on discussion boards or forums, in blogs, messages and chat areas, etc.) becomes publicly available and can be collected and used by other Users, who may forward this personal information or User Submissions to other websites or people, making it available to the general public, and therefore such information and User Submissions cannot be protected as Personally Identifiable Information.
+As set forth below, we collect personally identifiable information regarding our current, prospective and former clients, customers, visitors and guests via our Service and/or our Site. The types of personally identifiable information we may collect (directly from you or from third party sources) and our privacy practices depend on the nature of the relationship you have with us and the requirements of applicable law. As stated in our Guiding Principles above, we endeavor to collect information only relevant for the purposes of processing. Below are the legal bases and some of the ways we collect information and how we use it.
 
-We may use your Personally Identifiable Information for administrative purposes, such as notifying You of major changes in Services and news, or for other customer service purposes. We use Collected Information, such as anonymous use data, cookies, and IP addresses, to improve the quality and design of the Services and to create new features and Services by storing, tracking, and analyzing your preferences and trends.
+**User-provided information** \- mLab only collects personally identifiable information that you have provided to us. We only ask for information that's necessary for you (and your Authorized Users) to access, use and pay for our Service, including, but not limited to, the creation of your Account. This information may include, but is not limited to, names, email addresses, mailing addresses, telephone numbers, and billing or payment information (such as credit card numbers). If you correspond with us by email, we may retain the content of your email messages and our responses so that we can provide you with better customer service. We also store information that you have indirectly provided to us via Your Content and Application(s), which may include, without limitation, your Users' personally identifiable information. 
 
-We use Non-Personally Identifiable Information to: (a) remember information so that You will not have to re-enter it during your current or subsequent visits to the Services; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) track User Submissions, and status in any promotions, sweepstakes, and contests; (f) diagnose or fix technology problems; (g) access your information after You sign in; and (h) market our Services to advertisers, mobile carriers, and other third parties.
+**Log file information** \- Information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends. These server logs may include information such as your web request, Internet Protocol (IP) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information. We use this information to identify potential security issues, to analyze (and may engage third parties to analyze) trends, to administer the Site, to track averaged User movements around the Site and to gather demographic information about our User base as a whole. We may also use this information to improve, customize and enhance our Service by expanding the Service's features and functionality and tailoring the Service to our Users' preferences. We do not use this information to identify individual Users.
 
-**3\. WHEN WE DISCLOSE INFORMATION**
+### What do we use your information for?
 
-We may provide Collected Information to our subsidiaries, affiliated companies, carriers, or others so such parties can, among other things: (i) process such information on our behalf, (ii) use the information to offer greater functionality through the Services, and provide you with additional product and service ads, and (iii) communicate these ads to You.
+We use your personally identifiable information only for the following purposes:
 
-In order to describe our Services to prospective partners, advertisers and other third parties we may disclose aggregate user information. We share Non-Personally Identifiable Information (such as anonymous use data) with third parties to assist them in understanding our Services, including Users’ use of our Services and the success of advertisements and promotions.
+  * **Providing our Service:** To provide you with the expected features and functionality of the Service;
+  * **Administrative Purposes:** To respond to customer service requests, to measure interest in our Service or our Site, programs or services, verify your identity, send you communications regarding the Service or the Site, such as mLab news, updates or related product or service information, to process payments and to enforce our Terms of Service. By providing mLab your email address you consent to our using the email address to send you important Service notices, including any notices required by law, in lieu of communication by postal mail;
+  * **Marketing our Service:** To market our products and services by providing you with materials about products and services offered by us, including new features on our Service or Site. We may provide you with these materials by phone or email, as permitted by applicable law. If you do not wish us to use your personally identifiable information you may contact us at any time and opt out of receiving such communications;
+  * **Research and Development:** We may use your personally identifiable information to create non-identifiable information that we may use for the testing of our products and services, in order to help us to optimally deliver our existing Service or to develop new products, processes and services;
+  * **Research/Survey Solicitations:** From time to time, we may perform research (online and offline) via surveys. We may engage third-party service providers to conduct such surveys on our behalf. All survey responses are voluntary, and the information collected will be used for research and reporting purposes to help us better serve individuals by learning more about their needs and the quality of the products and services we provide. The survey responses may be utilized to determine the effectiveness of our Service and Site, various types of communications, advertising campaigns and/or promotional activities. If an individual participates in a survey, the information given will be used along with that of other study participants. We may share anonymous individual and aggregate data for research and analysis purposes;
+  * **Anonymous and Aggregated Information:** We may use your personally identifiable information and other information about you to create anonymized and aggregated information, such as de-identified demographic information, de-identified location information about the computer or device from which you access the Site or Service, or other analyses we create. We use this aggregated and anonymized information for a variety of functions, including the measurement of visitors' interest in and use of various portions of the Site or Service; and
+  * **Other Uses:** We may use your personally identifiable information for which we have a legitimate interest, such as direct marketing, individual or market research, anti-fraud protection, or any other purpose disclosed to you at the time you provide personally identifiable information or with your consent.
 
-We may release Collected Information if required to do so by law, or if we believe that such action is appropriate to comply with state and federal laws or respond to a court order, law enforcement request or demand, subpoena, or search warrant. We may share Collected Information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including but not limited to, fraud, potential threats to public safety or the physical safety of any person, violations of our Terms of Use, or as otherwise permitted by law.
 
-We also reserve the right to disclose Collected Information that FunMobility believes is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our Services, and to exercise or protect the rights, property, or personal safety of FunMobility, our Users or others.
 
-**4\. PARTNERS, MOBILE CARRIERS, THIRD-PARTY ADVERTISERS, AND LINKS**
+### When would we share your information?
 
-Our partner websites may provide a version of the Services that are remotely hosted on our servers. If You provided your User Submissions or any other information, including Personally Identifiable Information, at one of our partner websites, they have access to such information. Similarly, Services may be provided through a variety of mobile carriers. Partners’ and Mobile carriers’ use of User Submissions and other information provided by You are governed by the individual partners’ or mobile carriers’ privacy policies, not our Privacy Policy. FunMobility is not responsible for third party privacy policies or their compliance with such policies.
+mLab does not sell, trade, rent or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating or analyzing our Site or Service, conducting our business, or servicing you (e.g. to process your credit card transactions, to provide IT and related services or provide customer support services). These companies are authorized to use your personally identifiable information only as necessary to provide these services to us or to comply with applicable legal requirements. 
 
-FunMobility may allow other companies to serve advertisements through the Services. If you respond to such ads, the advertisers may automatically receive your information, including, for example, your IP address. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. Our Privacy Policy does not apply to, and we cannot control the activities of, such other third parties or their websites.
+We may also share your anonymous and aggregated information as described above with our third-party service providers for research, product improvement, analytics and any other legally permissible purposes.
 
-**5\. CHOICES**
+We may store personally identifiable information in locations outside the direct control of mLab (e.g. on servers at hosting providers).
 
-You may, of course, decline to submit Personally Identifiable Information to the Services, in which case we may not be able to provide certain Services to You. You may update or correct your personal information, including Personally Identifiable Information, at any time by accessing your account information and editing it.
+We may also disclose your personally identifiable information:
 
-To help protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+  * as required by law, such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others or the public in general, investigate fraud, or respond to a government request, or to stop any activity that we consider illegal or legally actionable
+  * if ObjectLabs Corporation is involved in a merger, acquisition, or sale of all or a portion of its assets
+  * to any other third party but only with your prior consent to do so
+  * if you invite another User to share your Application (e.g. by adding an additional account user), we will share the Application and associated Content with that User
 
-If You want us to remove your User Submissions from the Services, please delete it. However, we cannot guarantee that your User Submissions will be completely removed from all User devices or from their web pages, nor that other Users will not misuse any content that you supply. In addition the other Users may have already copies and forwarded your User Submissions to others, making recovery impossible. We are not responsible for any public display or misuse of your User Submissions.
 
-**6\. DATA SECURITY**
 
-We have put in place physical, electronic, and managerial procedures to provide data security on our Services. We take precautions to protect your Personally Identifiable Information and other data from loss, misuse or alteration and to safeguard and secure the data you provide online. While we strive to protect such information after it arrives at our Services, we cannot guarantee the security of any information that is being transmitted over the Internet. As a result, You provide such information at your own risk. To further attempt to protect the security of the information from hackers who may find ways to infiltrate our Services, email messages are encrypted, making the reading of these messages difficult.
+### How can you access your information?
 
-**7\. CHILDREN’S PRIVACY**
+#### Rights of Access, Rectification, Erasure, and Restriction
 
-Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect Personally Identifiable Information on the Services submitted by persons under 13 years of age. If you are under 13 years of age, then please do not submit any information to the Services at any time or in any manner.
+If you are an EU-based user, you may seek confirmation regarding whether we are processing personally identifiable information about you, request access to personally identifiable information, and ask that we correct, amend or delete your personally identifiable information where it is inaccurate. Where otherwise permitted by applicable law, you may contact us at the contact information under the "Contact Us" section below to request access to, receive (port), restrict processing, seek rectification or request erasure of personally identifiable information held about you by mLab. Such requests will be processed in accordance with local laws. Although mLab makes good faith efforts to provide individuals with access to their personally identifiable information, there may be circumstances in which mLab is unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others' privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in the case in question, or where it is commercially proprietary. If mLab determines that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries. To protect your privacy, mLab will take commercially reasonable steps to verify your identity before granting access to or making any changes to your personally identifiable information. 
 
-**8\. A NOTE TO PARENTS**
+#### Data Retention
 
-We believe that parents should supervise their children’s online activities and also consider using parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can sometimes prevent children from disclosing online their name, address, and other personal information without parental permission. We adhere to the Children’s Online Privacy Protection Act of 1998. Parents can help by spending time online with their children and monitoring their online use. Please help us protect your child’s privacy by instructing them never to provide personal information on the Services.
+We will retain your information for as long as your Account is active or as needed to provide you with the Service. We will retain and use your information as necessary to comply with our legal obligations, back-up and audit purposes, resolve disputes, and enforce our agreements.
 
-**9\. INTERNATIONAL USERS**
+### What are your opt-out choices?
 
-The Services are hosted in the United States and is intended for and directed to Users in the United States. If You are accessing the Services from outside the United States, the laws or regulations governing personal data collection, use, and disclosure may differ from United States laws. Be advised that through your continued use of the Services, which is governed by U.S. law, this Privacy Policy, and our Terms of Use, You are transferring your personal information to the United States and You consent to that transfer.
+#### General
 
-**10\. MERGER OR BANKRUPTCY**
+Where you have consented to mLab's processing of your personally identifiable information, you may withdraw that consent at any time and opt out by following the instructions in this section. Additionally, before we use personally identifiable information for any new purpose not originally authorized by you, we will provide information regarding the new purpose. Where your consent for the processing of personally identifiable information is otherwise required by law or contract, we will comply with the law or contract.
 
-In the event that we are acquired by or merged with a third party entity, we reserve the right to transfer or assign all Collected Information as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy or similar situation, we may not be able to control how your information is treated, transferred, or used.
+#### Email Communications
 
-**11\. CHANGES AND UPDATES**
+Out of respect for your privacy, you may choose to stop receiving email messages from us by following the unsubscribe instructions included in these emails or you can email us at [support@mlab.com](mailto:support@mlab.com). We do need to send you certain communications regarding the Service and you will not be able to opt out of those communications - e.g., communications regarding important Service notifications, updates to our Terms of Service or this Privacy Policy or information about billing.
 
-We reserve the right, at our sole discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting. Any changes will be reflected by the effective date at the beginning of the Privacy Policy. Your continued use of the Services constitutes your agreement to this Privacy Policy and any current revisions.
+#### Advertising
 
-**12\. CONTACT INFORMATION**
+For information on how to opt out of the collection and use of your information for targeted interest-based advertising on other sites, please refer to the description in the "What tracking technologies do we utilize?" section below.
 
-Please [contact us](mailto:info@funmobility.com) with any questions or comments about this Agreement or the Services.
+### What tracking technologies do we utilize?
+
+We use cookies and pixel tags/web beacons on our Site. A cookie is a small text file that is stored on your computer for record-keeping purposes.
+
+We use both session ID cookies and persistent cookies. Session cookies are required for most of the functionality of our Site and for web tools such as our administrative application. These cookies are used to implement application authentication, allowing us to implement secure access to your data. A session ID cookie expires when you close your browser.
+
+A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Persistent cookies enable us to track and target your interests and to improve our Site.
+
+A pixel tag (also known as a web beacon) is a piece of code embedded on the Site that collects information about users' engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement.
+
+If you reject cookies or web beacons, you may still use our Site, but your ability to use some key areas of our Site, such as our administrative application tools, will be impaired.
+
+In addition, our Site utilizes Google Analytics to gather information about how our Users engage with the Site and Google Invisible reCAPTCHA to validate Users on the Site. This analytics data is not tied to any personally identifiable information. Google Analytics and the Google Invisible reCAPTCHA are services provided by Google and are subject to the Google [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) and the Google [Terms of Service](https://www.google.com/intl/en/policies/terms/). For more information about Google Analytics, please visit <https://policies.google.com/privacy/partners>. You can opt out of Google's collection and processing of data generated through your use of the Service by using the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout).
+
+We also partner with third party ad networks to manage our advertising on other sites. Our ad network partners use cookies and web beacons to collect non-personally identifiable information about your activities on this Site and other websites to provide you targeted advertising on other websites based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by visiting [Google's Ads Settings](https://www.google.com/settings/u/0/ads) at any time, or by visiting the [Network Advertising Initiative](http://optout.networkadvertising.org/#!/) opt-out page. mLab does not have access to or control of any cookies or web beacons that these third party ad networks may store in your browser and this Privacy Policy does not apply to the use of cookies or web beacons by such advertisers. Please note this does not opt you out of being served advertising; you will continue to receive generic ads.
+
+Our Site does not have the capability to respond to "Do Not Track" ("DNT") signals received from various web browsers. For information about DNT, visit <https://allaboutdnt.com/>.
+
+### How do we protect your information?
+
+The security of your personally identifiable information is important to us.
+
+We follow generally accepted standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. For example, we encrypt the transmission of information using security socket layer technology (SSL) on all the pages where we interact with our users, including registration and login.
+
+No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. You are responsible for maintaining the secrecy of your own passwords and determining whether our Service meets your standards for security.
+
+If you have any questions about security of our Site or Service, you can email us at [support@mlab.com](mailto:support@mlab.com).
+
+### What else should you know about?
+
+#### Links to Third Party Sites
+
+Our Site includes links to other web sites whose privacy practices may differ from those of mLab. If you submit personally identifiable information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.
+
+#### International Data Transfers
+
+Your personally identifiable information may be transferred to, and maintained on computers or servers, that are located outside of your state, province or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the US and choose to provide your personally identifiable information to us, you agree that we may transfer your personally identifiable information to the United States and process it there and consent to such transfer. We work with our customers and vendors with regard to legal compliance pertaining to data transfers.
+
+#### Your California Privacy Rights
+
+California residents may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed their personally identifiable information for direct marketing purposes during the preceding calendar year and the categories of personally identifiable information shared with those third parties. If you are a California resident and wish to obtain that information, please submit your request by sending us an email at [support@mlab.com](mailto:support@mlab.com) with "California Privacy Rights" in the subject line.
+
+#### Testimonials
+
+We display personal testimonials of satisfied customers on our Site in addition to other endorsements. We may repost testimonials that are publicly available on social media networks (like Twitter) without your consent. However, if the testimonial is obtained from any non-public source, we will obtain your consent before posting it on our Site. If you wish to update or delete your testimonial, you can contact us at [support@mlab.com](mailto:support@mlab.com).
+
+#### Single Sign-On
+
+In the customer support area of our Site, you can log in using the "Sign in With Google" sign-in service. This service will authenticate your identity and provide you the option to share certain personally identifiable information with us such as your name and email address to pre-populate our sign up form. You should understand what Google does with your sign-on information by reviewing the Google [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) and the Google [Terms of Service](https://www.google.com/intl/en/policies/terms/).
+
+#### Social Media Features and Widgets
+
+Certain portions of our Site, such as the blog, include Social Media Features, such as the Facebook Like button or Twitter button. These Social Media Features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the Social Media Feature to function properly. You acknowledge that we may be able to access any information you make public through such Social Media Features (such as your username, comments, posts and contents) and other information your privacy settings on such Social Media Features permit us to access. Social Media Features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Social Media Features are governed by the privacy policy of the company providing it.
+
+#### Our policy regarding children
+
+Due to the nature of mLab's business, our Service, Site and products and services are not marketed to minors. We do not knowingly solicit or collect personally identifiable information from children under the age of 13 (and in certain jurisdictions under the age of 16). If we learn that we have collected personally identifiable information from a child under the age of 13 (and in certain jurisdictions under the age of 16), we will promptly delete that information.
+
+#### Changes to our Privacy Policy
+
+We may update this Privacy Policy at any time to reflect changes to our information collection, use or disclosure practices. If we make any material changes we will notify you of those changes by posting them on this Site, and we will update the "Last Updated" date above to indicate when those changes became effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+### Contact us
+
+If after reviewing this Privacy Policy, you would like to submit a request or you have any questions or privacy concerns, please contact us at [support@mlab.com](mailto:support@mlab.com). We're serious about making you feel comfortable about your security and privacy with us.
+
+If email is not an option, you can write or call us using this contact info:
+
+ObjectLabs Corporation  
+660 York St. Suite 101  
+San Francisco, CA 94110 
+
+(415) 758-2748  
+[support@mlab.com](mailto:support@mlab.com)
+
+We will address your concerns and attempt to resolve any privacy issues in a timely manner.
