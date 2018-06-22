@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shelfari.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122214125id_/https%3A//www.goodreads.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelfari.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622194539id_/https%3A//www.goodreads.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://web.archive.org/blog/show/1244-the-hottest-books-of-summer?int=header_top_summer_2018)
 
 This privacy policy was last modified on December 29, 2008.
 
@@ -116,6 +118,7 @@ If we change our privacy policies and procedures, we will post those changes on 
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/about/contact_us), or send mail to:
 
+  
 Goodreads, Inc  
 188 Spear Street, 3rd Floor  
 San Francisco, CA 94105
@@ -126,3 +129,5 @@ October 16, 2008: We replaced our [former privacy policy](https://web.archive.or
 
   
 
+
+Welcome back. Just a moment while we sign you in to your Goodreads account.
