@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nodq.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213140940id_/http%3A//nodq.com/siteinfo.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nodq.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623133434id_/http%3A//nodq.com/siteinfo.shtml) for the most accurate reproduction.*
 
 # NoDQ.com - Site Info
 
