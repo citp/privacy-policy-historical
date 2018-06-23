@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metdaan.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226043432id_/http%3A//metdaan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metdaan.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623162541id_/http%3A//www.metdaan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • MetDaan
+# Privacy Policy - MetDaan
 
 The website, located at http://www.metdaan.com/ is operated by Met Daan Limited trading as ‘Met Daan’ (“MetDaan”, “us” or “we”), a company incorporated in the Republic of Ireland (registered number 569157) and whose registered office is at First Floor Quayside House 1-2 Princes Street, Tralee Co.Kerry Ireland (we, us). We are a private limited company.  
 This privacy policy sets out how Met Daan uses and protects any information that you give us when you use this website. We are committed to protecting and respecting your privacy. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Met Dan may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January, 2017.
