@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the canondriver.net privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216170211id_/http%3A//www.canondriver.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canondriver.net privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623185932id_/http%3A//www.canondriver.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Download
-
-Aug 18 2015
-
-## [Privacy Policy](http://www.canondriver.net/privacy-policy/ "Permanent Link to Privacy Policy")
 
 **Privacy Policy**
 
