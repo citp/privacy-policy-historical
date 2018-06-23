@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tcixps.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120135651id_/http%3A//www.tciexpress.in/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcixps.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623105201id_/http%3A//www.tciexpress.in/privacy-policy.asp) for the most accurate reproduction.*
 
-# Leading Courier and Logistics Companies, Air Express Cargo - TCIEXPRESS
+# Privacy Policy - TCIEXPRESS
 
 OVERVIEW
 
-We understand and respect your concerns about privacy. Please read our privacy policy before using the Website. It indicates the information we collect and actions we take to secure any personal information you may choose to provide while using the site, as well as how we collect it and use it. [ www.tciexpress.in](https://web.archive.org/web/20171120135651id_/http%3A//www.tciexpress.in/index.asp) does not share any of this information with other parties.
+We understand and respect your concerns about privacy. Please read our privacy policy before using the Website. It indicates the information we collect and actions we take to secure any personal information you may choose to provide while using the site, as well as how we collect it and use it. [ www.tciexpress.in](https://web.archive.org/web/20180623105201id_/http%3A//www.tciexpress.in/index.asp) does not share any of this information with other parties.
 
 DATA SECURITY
 
-[www.tciexpress.in](https://web.archive.org/web/20171120135651id_/http%3A//www.tciexpress.in/index.asp) uses standard measures to ensure the security of any personal information you provide. Unfortunately, there is no guarantee that information transmitted over the Internet is absolutely secure. Therefore, although [www.tciexpress.in](https://web.archive.org/web/20171120135651id_/http%3A//www.tciexpress.in/index.asp) takes reasonable measures to ensure your data, we cannot guarantee the security of your transmissions and you do so at your own risk. After transmission, we will use industry standard measures to secure your information.
+[www.tciexpress.in](https://web.archive.org/web/20180623105201id_/http%3A//www.tciexpress.in/index.asp) uses standard measures to ensure the security of any personal information you provide. Unfortunately, there is no guarantee that information transmitted over the Internet is absolutely secure. Therefore, although [www.tciexpress.in](https://web.archive.org/web/20180623105201id_/http%3A//www.tciexpress.in/index.asp) takes reasonable measures to ensure your data, we cannot guarantee the security of your transmissions and you do so at your own risk. After transmission, we will use industry standard measures to secure your information.
 
 COOKIES
 
