@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlespicejar.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213102940id_/http%3A//littlespicejar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlespicejar.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623170538id_/http%3A//littlespicejar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Little Spice Jar
 
@@ -6,7 +6,7 @@ This privacy policy sets out how Little Spice Jar uses and protects any informa
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-<company name> may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from date.
+Little Spice Jar may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from date.
 
  **What we collect**
 
