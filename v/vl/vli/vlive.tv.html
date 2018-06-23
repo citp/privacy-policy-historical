@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vlive.tv privacy policy that was archived on 2017-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171128230027id_/http%3A//www.vlive.tv/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vlive.tv privacy policy that was archived on 2018-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180623143440id_/http%3A//www.vlive.tv/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>V LIVE - Privacy</title>
@@ -20,21 +20,25 @@
 <link rel="preconnect" href="//v-phinf.pstatic.net">
 <link rel="alternate" href="http://www.vlive.tv/policies/privacy" hreflang="x-default"> 
 <link rel="canonical" href="http://www.vlive.tv/policies/privacy">
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?20170131">
-<link type="text/css" rel="stylesheet" href="https://vlive-static.pstatic.net/desktop/resources/generated/css/2017111610/vlive.css">
-	<script type="text/javascript" src="https://vlive-static.pstatic.net/desktop/resources/generated/js/lib/2017071915/vlive.common.min.js"></script>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?2018042316">
+<link type="text/css" rel="stylesheet" href="https://vlive-static.pstatic.net/desktop/resources/generated/css/2018061515/vlive.css">
+	<script type="text/javascript" src="https://vlive-static.pstatic.net/desktop/resources/generated/js/lib/2018042316/vlive.common.min.js"></script>
 <script type="text/javascript">
 	var nsc = "v.all";
 	
 	var lcs_SerName = "lcs.loginfra.com";
 	var ccsrv = "cc.loginfra.com";
-	var svr = "uvweb03.vlive";
+	var svr = "wv01";
 	var gbLogin = false;
-	var gsLiveThumbUrl = "http://thumb.vlive.tv";
+	var gsLiveThumbUrl = "https://vlive-thumb.pstatic.net";
 	var gsUserLanguage = "en";	
 	var gsUserCountry = "US";
 	var gsPhase = "real";
-	var gsUseNelo = "";
+	var gsUseNelo = "true";
+	var giPurchasePopupWidth = 507;
+	var giPurchasePopupHeight = 580;
+	var giPurchasePopupHeight2Row = 628;
+	var emailRegx = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
 </script></head>
 <body class="en">
 <div id="wrap">
@@ -52,11 +56,11 @@
 	
 	<div class="navigation">
 		<ul>
-			<li><a href="/home" class="" onclick="ga('send', 'event', 'main', 'click_home');"><span class="menu1">Home</span></a></li>
-			<li><a href="/upcoming" class="" onclick="ga('send', 'event', 'main', 'click_upcoming');"><span class="menu2">Upcoming</span></a></li>
-			<li><a href="/channels" class="" onclick="nclk(this,'gnb.channel','','',event);"><span class="menu3">Channels</span></a></li>
-			<li><a href="/events" class="" onclick="nclk(this,'gnb.events','','',event);"><span class="menu4">Events</span></a></li>
-			<li><a href="/vstore" class="" onclick="ga('send', 'event', 'premium', 'visit_store');"><span class="menu5">Store</span></a></li>
+			<li><a href="/home" class="" onclick="ga('send', 'event', 'main', 'click_home');"><span class="menu1">HOME</span></a></li>
+			<li><a href="/upcoming" class="" onclick="ga('send', 'event', 'main', 'click_upcoming');"><span class="menu2">UPCOMING</span></a></li>
+			<li><a href="/channels" class="" onclick="nclk(this,'gnb.channel','','',event);"><span class="menu3">CHANNELS</span></a></li>
+			<li><a href="/events" class="" onclick="nclk(this,'gnb.events','','',event);"><span class="menu4">EVENTS</span></a></li>
+			<li><a href="/vstore" class="" onclick="ga('send', 'event', 'premium', 'visit_store');"><span class="menu5">STORE</span></a></li>
 		</ul>
 	</div>
 	
@@ -80,16 +84,16 @@
 		</div>
 		
 		<div class="login_area">
-			<a href="#" class="btn_login" style="display:none;" onclick="ga('send', 'event', 'membership', 'login');vlive.tv.auth.handler.login(event);return false;">Login</a>
+			<a href="#" class="btn_login" style="display:none;" onclick="ga('send', 'event', 'membership', 'login');vlive.tv.auth.handler.login(event);return false;">LOGIN</a>
 			<div class="nick_area _top_nick_area">
 				<a href="#" class="nick" style="display:none" onclick="nclk(this,'gnb.user','','',event);return false;">
 					<span class="icon qq" style="display:none;"><em class="blind">Logged with QQ</em></span><span class="icon_arr"></span>
 				</a>
 				<div class="lyr" style="display:none;">
 					<div class="login_btn">
-						<div class="inner"><a href="/my/profile/account" class="txt profile">V LIVE Account<em class="notice_ico _profileWarning" style="display:none"><span class="blind">경고</span></em></a></div>
+						<div class="inner"><a href="/my/profile" class="txt">Personal Info</a></div>
 						<div class="inner"><a href="/my" class="txt">My Page</a></div>
-						<div class="inner"><a href="/auth/logout" class="btn_logout" onclick="ga('send', 'event', 'membership', 'logout');vlive.tv.auth.handler.logout();"><span class="inner">Logout</span></a></div>
+						<div class="inner"><a href="/auth/logout" class="btn_logout" onclick="ga('send', 'event', 'membership', 'logout');vlive.tv.auth.handler.logout();"><span class="inner">LOGOUT</span></a></div>
 					</div>
 				</div>
 			</div>
@@ -115,7 +119,7 @@
 <div class="vlogin_lyr" style="display:none;" id="loginPopupArea">
 	<div class="lyr_tit">
 		<span class="tit_img"></span>
-		<span class="txt">Welcome to V LIVE</span>
+		<span class="txt">WELCOME TO V LIVE</span>
 	</div>
 	<div class="lyr_cont _etc_layer">
 		<a href="/auth/login?loginSvc=naver" class="login_btn naver" onclick="nclk(this,'log.naver','','',event);">Log in with NAVER</a>
@@ -161,17 +165,19 @@
 			<div class="terms_wrap privacy">
 				<div class="vlive_law_common">
 	<div class="vlive_law_header">
-		<h2 class="vlive_law_title">V LIVE Privacy Policy (ver1.1)</h2>
+		<h2 class="vlive_law_title">V LIVE Privacy Policy (ver1.2)</h2>
 	</div>
 	<div class="vlive_law_content">
 		<h3 class="law_tit">Items of personal information to be collected</h3>
 		<p class="law_txt">
-			In the course of using the social login for subscription, Nickname, SNS ID, and profile, images will be provided.<br>
-			In the course of handling events and customer’s inquiry, email address and event prize shipment information may be additionally collected, and for profile management, birth date, gender, email address and mobile phone number may be entered in the profile.
-			When personal verification is done during payment, etc., name, birth date, gender, duplication information (DI), encoded connecting information (CI), mobile phone number and wireless network provider (upon mobile phone verification), and Korean/foreigner registration information are collected.
+			When becoming a member by logging in using other social media sites, respective member's nickname, ID, and profile image will be collected from the corresponding social media site. <br>
+			For profile management, name, date of birth, gender, email address and mobile phone number may be entered in the profile. Login is possible with email address instead of social media login, for which password will be collected.
 		</p>
 		<p class="law_txt">
-			In the course of using services, IP addresses, payment history, service use records, records of poor use, terminal information, etc. may be automatically generated and collected.
+			When personal verification is done using payment, name, date of birth, gender, duplicate information (DI), encoded connecting information (CI), mobile phone number and wireless network provider (upon mobile phone verification), and Korean/foreigner registration information are collected.
+		</p>
+		<p class="law_txt">
+			In the course of using services, IP addresses, payment history, service use records, records of poor use, device information, etc. may be automatically generated and collected.
 		</p>
 		<h3 class="law_tit">Personal information collection methods</h3>
 		<p class="law_txt">
@@ -188,15 +194,15 @@
 			• To create statistical data about service use<br>
 			• For surveys and analysis required to improve services<br>
 			• For a lottery and prizes shipment of campaigns and events<br>
-			• To identify users and respond to an inquiry when there is an inquiry from a user<br>
+			• To identify users and respond to an inquiry when there is one from a user<br>
 			• To notify depending on needs, including important notices, etc.<br>
-			• To deliver advertising information such as events<br>
+			• To deliver information (including advertisement) and customized services provided by the Company, including V LIVE services<br>
 			• For personal verification during the process of providing a paid service<br>
 			• For age verification when using the content
 		</p>
 		<h3 class="law_tit">Sharing and supply of personal information</h3>
 		<p class="law_txt">
-			In principle, the company does not provide any external party with the personal information of the user without prior written consent. However, exceptions are as below.<br>
+			In principle, the company does not provide any external party with the personal information of the user without prior written consent. However, exceptions are as follows:<br>
 			• If the user agrees in advance<br>
 			• If under the provisions of the law and regulations
 		</p>
@@ -207,8 +213,7 @@
 			(1) Customer Service: inComms<br>
 			(2) Infrastructure operation for service supply and prevention of illegal use of services: NAVER Business Platform Corp.<br>
 			(3) Data backup (storage): NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD<br>
-			(4) Payment processing for using the paid service : Allat (credit card), KG Mobilians (mobile payment),LG Uplus (account transfer), KG Inicis (gift voucher), KS-NET (deposit without passbook)<br>
-
+			(4) Payment processing for using paid service : Allat (credit card), KG Mobilians (mobile payment), LG Uplus (account transfer), KG Inicis (gift voucher), KS-NET (deposit without passbook)<br>
 			• Period of retention and use of personal information: Until withdrawing from the membership or the termination of consignment contract
 		</p>
 		<h3 class="law_tit">Storing of personal information outside the country</h3>
@@ -225,7 +230,7 @@
 		<p class="law_txt">
 			• Users may examine or correct their own registered personal information at any time, and ask to have their account deleted.<br>
 			• If the user asks for correction of an error in their personal information, the relevant personal information will not be used or provided until the correction is completed. In addition, if this incorrect personal information was already provided to a third party, we will notify the result of correction to the third party without delay and have it corrected.<br>
-			• The company has terminated or deleted personal information upon the request of the users as specified in the “Period of retention and use of personal information”, and also processed not to browse or use for other purposes.<br>
+			• The company will terminate or delete personal information upon the request of the users as specified in the “Period of retention and use of personal information”, and also process not to browse or use for other purposes.<br>
 			• Use of our service is restricted to children under 14.
 		</p>
 		<h3 class="law_tit">Matters regarding installation/operation and rejection of automatic devices collecting personal information</h3>
@@ -237,44 +242,42 @@
 		</p>
 		<h3 class="law_tit">Period of retention and use of personal information</h3>
 		<p class="law_txt">
-			In principle, the company will destroy the personal information of users without delay, when purposes of collecting and using personal information have been achieved.
-			However, if there is a need to store it pursuant to the company’s internal policy or the relevant laws and regulations, it may be kept for a certain period of time.
+			In principle, the company will destroy the personal information of users without delay, when purposes of collecting and using personal information have been achieved. However, if there is a need to store it pursuant to the company’s internal policy or the relevant laws and regulations, it may be kept for a certain period of time.
 		</p>
 		<p class="law_txt">
 			[Cases when the personal information is kept in accordance with the laws]<br>
-			• Act on the Consumer Protection in Electronic Commerce, etc.<br>
+			• Consumer Protection Law in Electronic Commerce, etc.<br>
 			Records such as contract or cancellation, etc., of an order: Five (5) years<br>
 			Records regarding supply of payment, goods, etc.: Five (5) years<br>
-			of storing of records regarding consumer complaints or dispute resolutions<br>
+			Records regarding consumer complaints or dispute resolutions: Three (3) years<br>
 			• Protection of Communications Secrets Act<br>
 			Three (3) months of storing access log records<br>
-
 			[Cases when the personal information is kept in accordance with the company standards]<br>
-			Nickname and profile image for CS processing of withdrawn member: three (3) months
+			Nickname and profile image for CS processing of withdrawn member: Three (3) months
 		</p>
 		<h3 class="law_tit">Destruction procedures and methods of personal information</h3>
 		<p class="law_txt">
-			The company’s destruction procedures and methods of personal information are as below:<br>
+			The company’s destruction procedures and methods for personal information are as below:<br>
 			• Destruction procedures<br>
 			After the purpose of use is achieved, the information that the user entered for the service use shall be destroyed in accordance with internal policy and the relevant laws and regulations after being stored for a certain period of time. The relevant personal information shall not be used for purposes other than the storage purpose, except in cases according to the law.<br>
 			• Destruction methods<br>
 			Personal information printed on paper shall be destroyed in a shredder, and personal information stored as an electronic file type shall be deleted by using technical methods that will disable the reproduction of the records.
 		</p>
-		<h3 class="law_tit">Contact related to privacy operation</h3>
+		<h3 class="law_tit">Where to Contact for privacy policy inquiries</h3>
 		<p class="law_txt">
-			If you have any questions/complaints/consultations regarding the privacy policy, please contact Privacy&amp;Security (privacy@naver.com).
+			If you have any questions/complaints/consultations regarding the Privacy Policy, please contact Privacy&amp;Security (privacy@naver.com).
 		</p>
 		<h3 class="law_tit">Coverage</h3>
 		<p class="law_txt">
-			With regard to the collection of personal information by other business operators from the link page in the services etc, this can’t be covered by the privacy policy.
+			With regard to the collection of personal information by other business operators from the link page in the services, etc., this is not covered by the Privacy Policy.
 		</p>
-		<h3 class="law_tit">Revision of the privacy policy</h3>
+		<h3 class="law_tit">Revision of the Privacy Policy</h3>
 		<p class="law_txt">
-			If there is any addition, deletion or modification to the current contents of the privacy policy, users will be notified through the “Bulletin board” beginning 7 days prior to the revision. However, if there is a significant modification to the user’s rights such as collecting and use, and the supply of personal information to a third party etc, users will be notified at least 30 days before it goes into effect.
+			If there is any addition, deletion or modification to the current Privacy Policy, users will be notified through the “Bulletin board” beginning 7 days prior to the revision at the latest. However, if there is a significant modification to the user’s rights such as collecting and use, or the supply of personal information to a third party, etc., users will be notified at least 30 days before it goes into effect.
 		</p>
-		<p class="law_txt law_modify_date">Privacy Policy announced on September 20, 2017</p>
-		<p class="law_txt law_modify_date">Privacy Policy enforced on September 28, 2017</p>
-		<p class="law_txt law_modify_date"><a href="/policies/privacy/ver1">See previous version of Privacy Policy (ver1.0)</a></p>
+		<p class="law_txt law_modify_date">Privacy Policy announced on April 17, 2018</p>
+		<p class="law_txt law_modify_date">Privacy Policy enforced on April 27, 2018</p>
+		<p class="law_txt law_modify_date"><a href="/policies/privacy/ver1.1">See previous version of Privacy Policy (ver1.1)</a></p>
 	</div>
 
 </div></div>
@@ -295,13 +298,13 @@
 			<li><a href="/policies/terms" onclick="nclk(this,'fot.terms','','',event);">Terms</a></li>
 			<li><a href="/policies/privacy" onclick="nclk(this,'fot.privacy','','',event);"><strong>Privacy</strong></a></li>
 			<li><a href="/policies/disclaimer" onclick="nclk(this,'fot.disclaimer','','',event);">Disclaimer and Legal Notices</a></li>
+			<li><a href="/policies/refund" onclick="nclk(this,'fot.refund','','',event);">Cancellation&nbsp;and&nbsp;Refund&nbsp;Policy</a></li>
 		</ul>
 		<ul class="footer_link">
-			<li><a href="/policies/refund" onclick="nclk(this,'fot.refund','','',event);">Cancellation&nbsp;and&nbsp;Refund&nbsp;Policy</a></li>
 			<li>
 				<a href="http://www.navercorp.com/en/ir/financialStatements.nhn">Business Size</a></li>
 			<li><a href="https://help.naver.com/support/alias/contents1/v live_en/v live_en_1.naver" target="_blank" onclick="nclk(this,'fot.help','','',event);">Help</a></li>
-			<li><a href="#" onclick="nclk(this,'fot.partnership','','',event);vlive.tv.common.openPopup('/partners/join', 1300, 1024, 'partners');return false;">Partnership</a></li>
+			<li><a href="#" onclick="nclk(this,'fot.partnership','','',event);vlive.tv.common.openPopup('/partners/join', 1300, 1024, 'partners', 'yes');return false;">Partnership</a></li>
 		</ul>
 		<div class="adress_info">
 			<div class="inner">
@@ -316,7 +319,7 @@
 				<span class="txt">Platforms : V LIVE App / www.vlive.tv</span>
 			</div>
 		</div>
-		<span class="copyright"><a href="https://www.navercorp.com/en/index.nhn" target="_blank" onclick="nclk(this,'fot.navercorp','','',event);">ⓒ NAVER Corp.</a>All rights reserved.</span>	
+		<span class="copyright"><a href="https://www.navercorp.com/en/index.nhn" target="_blank" onclick="nclk(this,'fot.navercorp','','',event);">ⓒ NAVER Corp.</a> All rights reserved.</span>
 	</div>
 	<div class="social_link">
 		<a href="https://www.facebook.com/vliveofficial" target="_blank" class="btn_facebook" title="facebook" onclick="nclk(this,'fot.snsfacebook','','',event);"><span class="blind">facebook</span></a>
@@ -328,7 +331,7 @@
 </div>
 </div>
 </div>
-<script type="text/javascript" src="https://vlive-static.pstatic.net/desktop/resources/generated/js/page/2017112314/policies.min.js"></script>
+<script type="text/javascript" src="https://vlive-static.pstatic.net/desktop/resources/generated/js/page/2018062020/policies.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
 	vlive.tv.common.init("en", "US");
@@ -351,6 +354,8 @@ var commonMessage = {
 		buy_age_restrict : "You need to be at least {0} years of age to watch this video and can [continue] this payment.",
 		buy_age_restrict_cancel : "You are not allowed to continue due to restrictions.",
 		buy_age_restrict_popup : "Continue",
+		temporary_error_2 : "A temporary error has occurred.",
+		retry_later : "Please try again."
 };
 $(window).load(function() {
 });
@@ -384,97 +389,168 @@ lcs_do();
 	</div>
 	<a href="#" class="btn_close" title="close"><span class="inner">Close</span></a>
 </div>
-<div class="pop_lyr1 g_pop_lyr _accept_gift_coin _success_confirm" style="margin: -75px 0px 0px -128px; display: none;">
-	<div class="lyr_cont1">
-		<p class="dsc" data-success="{0} coins have been added to your account."></p>
-		<div class="btn_area">
-			<a href="#" class="btn50 _close_accept_gift">Close</a>
-			<a href="/my/coin" class="btn50 _go_my">View History</a>
-		</div>
-	</div>
-</div>
-<div class="pop_lyr1 g_pop_lyr _accept_gift_coin _success" style="margin: -75px 0px 0px -128px; display: none;">
-	<div class="lyr_cont1">
-		<p class="dsc" data-success="{0} coins have been added to your account."></p>
-		<div class="btn_area">
-			<a href="#" class="btn _close_accept_gift">OK</a>
-		</div>
-	</div>
-</div>
-<div class="pop_lyr1 g_pop_lyr _accept_gift_coin _error" style="margin:-75px 0 0 -164px;display: none;">
-	<div class="lyr_cont1">
-		<p class="dsc" data-expire="Gift coins have expired, so you cannot receive coins." data-error="A temporary error has occurred.<br>Please try again.">
-			
-		</p>
-		<div class="btn_area">
-			<a href="#" class="btn _close_accept_gift">OK</a>
-		</div>
-	</div>
-</div>
-<div class="pop_lyr1 g_pop_lyr pop_secondary _email_sent" style="display: none;">
+<div class="pop_lyr _accept_gift_coin _success_confirm" style="display:none;">
 	<div class="lyr_cont1">
 		<div class="txt_area">
-			<p class="txt">Message Sent</p>
+			<p class="txt" data-success="{0} coins have been added to your account."></p>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt _close_accept_gift">Close</a></span>
+			<span class="btn"><a href="/my/coin" class="btn_txt ok _go_my">View History</a></span>
+		</div>
+	</div>
+</div>
+<div class="pop_lyr _accept_gift_coin _success" style="display:none;">
+	<div class="lyr_cont1">
+		<div class="txt_area">
+			<p class="txt" data-success="{0} coins have been added to your account."></p>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt ok _close_accept_gift">OK</a></span>
+		</div>
+	</div>
+</div>
+<div class="pop_lyr _accept_gift_coin _error" style="display:none;">
+	<div class="lyr_cont1">
+		<div class="txt_area">
+			<p class="txt" data-expire="Gift coins have expired, so you cannot receive coins." data-error="A temporary error has occurred.<br>Please try again."></p>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt ok _close_accept_gift">OK</a></span>
+		</div>
+	</div>
+</div>
+<div class="pop_lyr _email_sent" style="display:none;">
+	<div class="lyr_cont1">
+		<div class="txt_area">
+			<h4 class="txt">Message Sent</h4>
 			<p class="txt point _email_addr"></p>
-			<em class="sub_info">Check your email within 24 hours.<br>Tap [OK] to go to the login screen.</em>
-			<em class="sub_info">If you didn't receive a reset email, check that the email address you entered is the one you verified with V LIVE.</em>
+			<p class="txt">Check your email within 24 hours.<br>Tap [OK] to go to the login screen.</p>
+			<p class="txt">If you didn't receive a reset email, check that the email address you entered is the one you verified with V LIVE.</p>
 		</div>
-		<div class="btn_area">
-			<a href="#" class="btn" onclick="vlive.tv.auth.handler.login();return false;">OK</a>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt ok" onclick="vlive.tv.auth.handler.login();return false;">OK</a></span>
 		</div>
 	</div>
 </div>
-<div class="pop_lyr1 g_pop_lyr pop_secondary _email_authentication" style="display: none;">
+<div class="pop_lyr _email_authentication" style="display:none;">
 	<div class="lyr_cont1">
 		<div class="txt_area">
-			<p class="txt">Email Verification</p>
-			<em class="sub_info">You need to verify your email address the first time you make a purchase. Once you're done, you can use this email address to log in to V LIVE in case you forget your SNS account.</em>
-			<em class="sub_info point _waiting" style="display: block;">If you entered your email address but it hasn't been verified yet, go to your inbox to verify it.</em>
+			<h4 class="txt">Email Verification</h4>
+			<p class="txt">You need to verify your email address the first time you make a purchase. Once you're done, you can use this email address to log in to V LIVE in case you forget your SNS account.</p>
+			<p class="txt point _waiting" style="display: block;"><strong>If you entered your email address but it hasn't been verified yet, go to your inbox to verify it.</strong></p>
 		</div>
-		<div class="btn_area">
-			<a href="#" class="btn50 _close_layer _click_email_auth_status">Skip</a>
-			<a href="/my/profile/account" class="btn50 _click_email_auth_status">Verify Email</a>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt _close_layer _click_email_auth_status">Skip</a></span>
+			<span class="btn"><a href="#" class="btn_txt small ok  _close_layer _click_email_auth_status _verify">Verify Email</a></span>
 		</div>
 	</div>
 </div>
-<div class="pop_lyr1 g_pop_lyr ly_common _common_layer_alert" style="margin:-75px 0 0 -128px; display:none;">
+<div class="pop_lyr _common_layer_alert" style="display:none;">
 	<div class="lyr_cont1">
-		<p class="dsc"></p>
-		<div class="btn_area">
-			<a href="#" class="btn"></a>
+		<div class="txt_area">
+			<p class="txt"></p>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt ok _close_layer"></a></span>
 		</div>
 	</div>
 </div>
-<div class="pop_lyr1 g_pop_lyr _common_layer_alert_sub" style="margin:-75px 0 0 -128px; display:none;">
+<div class="pop_lyr _common_layer_alert_sub" style="display:none;">
 	<div class="lyr_cont1">
 		<div class="txt_area">
 			<p class="txt"></p>
 			<em class="sub_info"></em>
 		</div>
-		<div class="btn_area">
-			<a href="#" class="btn"></a>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt ok _close_layer"></a></span>
 		</div>
 	</div>
 </div>
-<div class="pop_lyr1 g_pop_lyr _common_layer_confirm" style="margin: -75px 0px 0px -128px; display: none;">
+<div class="pop_lyr _common_layer_confirm" style="display:none;">
 	<div class="lyr_cont1">
-		<p class="dsc"></p>
-		<div class="btn_area">
-			<a href="#" class="btn50 _left"></a>
-			<a href="#" class="btn50 _right"></a>
+		<div class="txt_area">
+			<p class="txt"></p>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt _left"></a></span>
+			<span class="btn"><a href="#" class="btn_txt ok _right"></a></span>
 		</div>
 	</div>
 </div>
-<div class="pop_lyr1 g_pop_lyr _common_layer_confirm_sub" style="margin:-75px 0 0 -128px; display: none;">
+<div class="pop_lyr _common_layer_confirm_sub" style="display:none;">
 	<div class="lyr_cont1">
 		<div class="txt_area">
 			<p class="txt"></p>
 			<em class="sub_info"></em>
 		</div>
-		<div class="btn_area">
-			<a href="#" class="btn50 _left"></a>
-			<a href="#" class="btn50 _right"></a>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt _left"></a></span>
+			<span class="btn"><a href="#" class="btn_txt ok _right"></a></span>
 		</div>
 	</div>
 </div>
+<div class="pop_lyr" id="privacyAgreePopup" style="display:none;">
+	<div class="lyr_cont1 _agree_lyr _account _email _password" style="display:none;">
+		<div class="txt_area">
+			<h4 class="tit">Collection and Use of Personal Information</h4>
+			<p class="txt">By selecting [Agree], you agree to the collection and use of your personal information by V LIVE.</p>
+			<div class="txt_box">
+				<div class="vlive_law_common">
+					<div class="vlive_law_content">
+						<div class="vlive_law_content">		
+							<h3 class="law_tit2">1. Items of personal information to be collected</h3>
+									<p class="law_txt2">- Email address and password (in case logging in with email)</p>
+							
+									<h3 class="law_tit2">2. Purposes of collecting and using personal information</h3>
+									<p class="law_txt2">- To check the identity and whether the user is a member when using the membership services (in case logging in with email)</p>
+									
+									<h3 class="law_tit2">3. Period of retention and use of personal information</h3>
+									<p class="law_txt2">- Until the account is deleted</p>
+								</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt _close_layer">Disagree</a></span>
+			<span class="btn">
+				<a href="#" class="btn_txt ok _agree_btn _account" onclick="vlive.tv.auth.handler._privacyAgree('account');return false;" style="display:none;">Agree</a>
+				<a href="#" class="btn_txt ok _agree_btn _email" onclick="vlive.tv.auth.handler._privacyAgree('email');return false;" style="display:none;">Agree</a>
+				<a href="#" class="btn_txt ok _agree_btn _password" onclick="vlive.tv.auth.handler._privacyAgree('password');return false;" style="display:none;">Agree</a>
+			</span>
+		</div>
+	</div>
+	<div class="lyr_cont1 _agree_lyr _purchase" style="display:none;">
+		<div class="txt_area">
+			<h4 class="tit">Collection and Use of Personal Information</h4>
+			<p class="txt">By selecting [Agree], you agree to the collection and use of your personal information by V LIVE.</p>
+			<div class="txt_box">
+				<div class="vlive_law_common">
+					<div class="vlive_law_content">
+						<h3 class="law_tit2">1.  Items of personal information to be collected</h3>
+								<p class="law_txt2">- Email address and birthdate</p>
+						
+								<h3 class="law_tit2">2. Purposes of collecting and using personal information</h3>
+								<p class="law_txt2">
+									- To help users experience smooth services<br>
+									- To identify users and prevent illegal use of services <br>
+									- To notify of payment history for paid products and deliver notices
+								</p>
+								
+								<h3 class="law_tit2">3. Period of retention and use of personal information</h3>
+								<p class="law_txt2">
+									- Until the account is deleted
+								</p>
+							</div>
+				</div>
+			</div>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt _close_layer">Disagree</a></span>
+			<span class="btn"><a href="#" class="btn_txt ok" onclick="vlive.tv.auth.handler._privacyAgree('purchase');return false;">Agree</a></span>
+		</div>
+	</div>
+</div>
+
 </body></html>
