@@ -1,81 +1,94 @@
-> *The following text is extracted and transformed from the twitpic.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410012244id_/http%3A//twitpic.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitpic.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623145842id_/https%3A//twitpic.com/static/privacy) for the most accurate reproduction.*
 
-# Twitpic - Share photos and videos on Twitter
+# Twitpic Privacy Policy
 
-**This Privacy Policy is effective as of February 1, 2008.**
+**Twitpic Privacy Policy**
 
-Twitpic Inc. (“Twitpic”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Twitpic website located at www.twitpic.com and any linked pages, features, content, or application services offered from time to time by Twitpic in connection therewith (the “Site”) and using Twitpic services (the “Services”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+This Privacy Policy describes how and when Twitter, Inc. and Twitter International Company (collectively, "Twitter"), collect, use, and share your personal information when you use the Twitpic website or otherwise access content on Twitpic (the " **Services** "). When using our Services, you acknowledge the practices and policies described in this Privacy Policy. 
 
-This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes. 
+As of the effective date of this policy, the Services only allow access to archives of images, text, and other materials that users previously uploaded to the Services and posted publicly (collectively referred to as " **Archived Content** "). All other features of the Services are disabled and we retain no non-public user information except for information necessary to display Archived Content and otherwise operate our Services. In accordance with our [Terms of Service](http://twitpic.com/static/tos) (" **Terms** "), users of the Services can view Archived Content but no longer have the ability to create a Twitpic account, log into a Twitpic account, or post new content. 
 
-This policy does not apply to the practices of third parties that Twitpic does not own or control, including but not limited to third party services you access though Twitpic, or to individuals that Twitpic does not employ or manage. 
+**Information Collection**
 
-### Information Collected Upon Registration
+**Public Content:** Twitpic is an image sharing platform through which Twitpic users were able to share images and other information with a wide range of users and other services that accessed Twitpic. Archived Content remains publicly accessible to visitors of the website. We do not update the Services and you no longer have the ability to post new content. Twitpic will continue to host this information until we receive a request to delete such data in accordance with the instructions provided below or as required by law (see " **Deleting Your Personal Information / Your Rights** " below). 
 
-If you desire to have access to certain restricted sections of the Site, you will be required to become a registered user, and to submit certain personally identifiable information to Twitpic. This happens in a number of instances, such as when you sign up for the Service, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your IP address, full user name, password, email address, city, time zone, telephone number, and other information that you decide to provide us with, or that you decide to include in your public profile. 
+**Personal Information You Provide:** You may provide personal information to us, for example when you request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, and any other information you choose to provide. We use this information to respond to your questions or concerns. The Twitpic website does not collect or allow the submission of personal information. 
 
-### Additional Information 
+**Personal Information We Collect** : When you visit Twitpic or otherwise interact with our Services, our servers automatically record information from your use of the Services (" **Log Data** "). This Log Data may include information such as your IP address, browser type, operating system, and pages visited. We use Log Data to operate our services and ensure their secure, reliable, and robust performance. 
 
-Your full user name and your photo, if you decide to upload one, are displayed to people on the Twitpic Site. Once a member, you may provide additional information in the profile section, including but not limited to your bio, your location, as well as your personal web site, if you have one. Providing additional information beyond what is required at registration is entirely optional. 
+**Purposes and Legal Bases**
 
-### Log Data
+We use information we receive from you for the purposes described below, except where restricted by law. In doing so, Twitter relies on its legitimate interests to lawfully process such data: 
 
-When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website ("Log Data" ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the Site's technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service 
+**Archiving Content in the Public Interest** : Twitter hosts Archived Content. We do this to preserve our users' historic speech and to preserve access to content that was publicly posted on the internet. This furthers our users' right to free expression and the right of members of the public to access public speech. We remove Archived Content where requested by the individual who posted it (see " **Deleting Your Personal Information / Your Rights** " below). 
 
-### Cookies
+**Operating Our Site** : Twitter may also use your information as necessary to pursue our legitimate interests of enforcing our Terms of Service and preventing unlawful activities and misuse of the Services; protecting the legal rights, property, safety, and security of Twitter and our users; and resolving disputes involving you relating to the Services. Twitter may also use your personal information where reasonably necessary to comply with applicable laws, regulations, legal process, or governmental requests. 
 
-Like many websites, we also use "cookie" technology to collect additional website usage data and to improve the Site and our Service. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. Twitpic may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our Services. A session cookie enables certain features of the Site and our Service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. 
+**Information Sharing and Disclosure**
 
-We may allow advertisers, third party advertising networks and third-party advertising serving companies to serve advertisements directly to you within Twitpic's Sites, Services and Software. By serving these advertisements directly to you, these companies can set their own cookies on your computer and trigger their own Web beacons. If you would like to contact the advertisers, third party advertising networks and third-party advertising serving companies with which we have relationships to learn more about their privacy policies and what options (if any) they offer to opt out of their data collection, please visit their web site(s). Some of these companies are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI member ad networks [here](http://www.networkadvertising.org/)
+**User-Controlled Sharing** : Archived Content can be collected and used by others and redistributed through the internet and other media channels. 
 
-In addition, to trigger certain cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your twitter ID to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, those cookies. If you prefer not to receive interest based content and advertisements, or do not wish to enable other services which make use of Twitpic data, you can always opt-out by clicking [here](http://www.privacychoice.org/choose). After you opt-out, Twitpic will not enable or serve interest-based content and targeted advertisements or enable the other services. Please note that opting-out does not turn off other advertisements. Also, if you change your computer, change your internet browser (e.g. from Internet Explorer to Firefox), or delete all your cookies, you will need to renew your preferences. 
+**Service Providers** : We engage service providers to perform functions and provide services to us in the United States, Ireland, and other countries. We may share information with such service providers on the condition that they use the data only on our behalf, pursuant to our instructions, and subject to confidentiality obligations consistent with this Privacy Policy. 
 
-### Web Site Tracking, Reporting
+**Law, Harm, and the Public Interest** : Notwithstanding anything to the contrary in this Policy, we may preserve or disclose information if we believe that it is reasonably necessary to comply with a law, regulation, or legal request; to protect the safety of any person; to address fraud, security, or technical issues; or to protect Twitter's rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party's, including a government's, request to disclose your information. 
 
-Many of our web pages also contain special electronic images (called a "single-pixel gif" or "gifs") that allow us to gather only non-personally identifiable traffic statistics and other aggregate information about visitors to our sites. Twitpic (through itself or third parties) uses this technology to collect and accumulate anonymous data that helps us understand and analyze the experience of people visiting our web sites and, along with other information you provide, customize your future visits and improve our web sites. Please keep in mind that none of this information is personally identifiable. 
+**Change of Ownership and Affiliates** : In the event Twitter is involved in a bankruptcy, merger, acquisition, reorganization, or sale of assets, information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to information as transferred to the new entity. We may also disclose information to our corporate affiliates in order to help operate our services and our affiliates' services. 
 
-### Banner Ads
+**Non-Personal Information** : We may share or disclose aggregated or otherwise non-personal information.  
 
-The Services may include the use of ad banner partners for the serving and/or targeting of ads, promotions, and other marketing messages. These ads may be provided, in some cases, by a third party ad service provider. The ad service provider may place or utilize their own unique cookie on your browser, and may use non-personally identifiable information about your visit to our sites, such as the number of times you have viewed the ad. Twitpic is not responsible for the collection of these cookies and is not responsible for the actions of the ad service providers. Twitpic does not sponsor, endorse or guarantee any products or services advertised by third parties on its site. 
 
-### Information Sharing and Disclosure
+**Our Global Operations and Privacy Shield**
 
-Information about our users is important to our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below. 
+To bring you our services, we operate globally. Where the laws of your country allow you to do so, you authorize us to transfer, store, and use your data in the United States, Ireland, and any other country where we operate. In some of the countries to which we transfer personal data, the privacy and data protection laws and rules regarding when government authorities may access data may vary from those of your country. Learn more about our global operations and data transfer [here](https://help.twitter.com/rules-and-policies/global-operations-and-data-transfer). 
 
-### Service Providers
+When we transfer personal data outside of the European Union or EFTA States, we ensure an adequate level of protection for the rights of data subjects based on the adequacy of the receiving country's data protection laws, contractual obligations placed on the recipient of the data (model clauses may be requested by inquiry as described below), or EU-US and Swiss-US Privacy Shield principles. 
 
-We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data. 
+Twitter, Inc. complies with the EU-US and Swiss-US Privacy Shield principles (the "Principles") regarding the collection, use, sharing, and retention of personal data from the European Union and Switzerland, as described in our [EU-US Privacy Shield certification and Swiss-US Privacy Shield certification](https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO). 
 
-These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. 
+If you have a Privacy Shield-related complaint, please contact us [here](https://help.twitter.com/forms/privacy). As part of our participation in Privacy Shield, if you have a dispute with us about our adherence to the Principles, we will seek to resolve it through our internal complaint resolution process, alternatively through the independent dispute resolution body [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), and under certain conditions, through the [Privacy Shield arbitration process](https://www.privacyshield.gov/article?id=G-Arbitration-Procedures). Privacy Shield participants are subject to the investigatory and enforcement powers of the US Federal Trade Commission and other authorized statutory bodies. Under certain circumstances, participants may be liable for the transfer of personal data from the EU or Switzerland to third parties outside the EU and Switzerland. Learn more about the EU-US Privacy Shield and Swiss-US Privacy Shield [here](https://www.privacyshield.gov/welcome). 
 
-### Information You Post
+**Retention**
 
-When you post a pic through Twitpic, information about you, including user profile information, may be visible to other users. If you post personal information online that is accessible to the public, that information becomes publicly available and can be collected and used by others and redistributed through the internet and other media channels. You may receive unsolicited messages from other parties in return. 
+We hope (but assume no obligation) to maintain Archived Content indefinitely. We retain Log Data for no longer than 18 months. 
 
-### Business Transfers
+**Deleting Your Personal Information / Your Rights**
 
-In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Twitpic, or substantially all of its assets, were acquired, or in the unlikely event that Twitpic goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Twitpic may continue to use your personal information as set forth in this policy. 
+If you reside in certain territories, including the European Union or EFTA States, you benefit from a number of rights in relation to your information. While some of these rights apply generally, certain rights apply only in certain limited cases. We describe these rights below: 
 
-### Compliance with Laws and Law Enforcement
+**Access**. The Archived Content we process in relation to the Service is public, so it can be freely accessed online. 
 
-Twitpic cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Twitpic or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law. 
+**Change, Restrict, Delete**. You may also have rights to change, restrict our use of, or delete your personal data. As the data we hold is archived, we may be limited in our ability to change or restrict the use of your data. However, absent exceptional circumstances (like where we are required to store data for legal reasons) we will generally delete your personal data upon request. Please contact us [here](https://help.twitter.com/en/using-twitter/twitpic) to request the deletion of your content. 
 
-### Non-US Users
+**Object**. As we process your information based on our legitimate interests, you can object to this processing in certain circumstances. In such cases, we will delete your personal data unless we have compelling legitimate grounds to continue processing or where it is needed for legal reasons. 
 
-If you are not a resident of the United States, you understand and agree that Twitpic stores and processes your information on computers located in the United States, and by providing any data to Twitpic, you consent to the transfer of such information to the United States. 
+**Complain**. If you reside in the European Union or EFTA States, should you wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local data protection authority or with the Irish Data Protection Commissioner whose contact details can be found [here](https://www.dataprotection.ie/docs/Contact-us/b/11.htm). 
 
-### Security Precautions
+**Our Policy Towards Children**
 
-Twitpic has security measures in place to help protect against the loss, misuse and alteration of the information under our control. Your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and may be stored on equipment or in facilities leased or licensed from third parties. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information and make all commercially reasonable efforts to do so, Twitpic cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems. This privacy policy does not apply to any information, including such photographs, that you submit for use in publicly available areas. We ask that you do not submit any personal information, including contact information or financial information, for display in public areas, as other people who use the Services will see it. If you submit such information for display in public areas, Twipic cannot prevent it from being used in a manner that violates the law, your personal privacy or your safety. By submitting such information for display in public areas, you assume the risks and sole liability arising as a result of such information being displayed. 
+The Service is not directed to persons under 16. We do not knowingly collect personal data from children under 16. If we become aware that a child under 16 has provided us with personal data, we will delete such information from our systems. 
 
-### Links to Other Websites
+**Changes to the Privacy Policy**
 
-The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+This Privacy Policy may be updated from time to time for any reason. Each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our website. You are advised to consult this Privacy Policy regularly for any changes. 
 
-### Our Policy Towards Children
+**Contact Us**
 
-The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our system. 
+Thoughts or questions about this Privacy Policy? Please let us know by contacting us [here](https://help.twitter.com/forms/privacy) or writing to us at the appropriate address below. 
 
-### Questions or Concerns
+If you live in the United States, the data controller responsible for your personal data is Twitter, Inc. with an address of: 
 
-If you have any questions regarding this privacy policy or information that you have submitted to us you can [contact us](https://twitterinc.secure.force.com/DynamicFormPage?formName=twitpic). 
+Twitter, Inc.  
+Attn: Privacy Policy Inquiry  
+1355 Market Street, Suite 900  
+San Francisco, CA 94103 
+
+If you live outside the United States, the data controller is Twitter International Company, with an address of: 
+
+Twitter International Company  
+Attn: Data Protection Officer  
+One Cumberland Place, Fenian Street  
+Dublin 2, D02 AX07 IRELAND 
+
+If you are located in the European Economic Area, you can confidentially contact Twitter's Data Protection Officer [here](https://twitter.com/dpocontact). If you wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority or Twitter International Company's lead supervisory authority, the Irish Data Protection Commission. You can find their contact details [here](https://www.dataprotection.ie/docs/Contact-us/b/11.htm). 
+
+_Effective_ : May 25, 2018 
