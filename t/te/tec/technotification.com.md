@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the technotification.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221080656id_/https%3A//www.technotification.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technotification.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623163208id_/https%3A//www.technotification.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policies
 
-technotification.com respects the privacy concerns of the users of its Internet Sites (“Sites”), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.
+Technotification.com respects the privacy concerns of the users of its Internet Sites (“Sites”), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.
 
 ## Use of Information
 
-As a general policy, no personally identifiable information, such as your name or address, is automatically collected from your visit to technotification.com. However, certain non-personal information is recorded by the standard operation of technotification.com Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience. For example, it may be used to tailor content and advertising to your interests.  
+As a general policy, no personally identifiable information, such as your name or address, is automatically collected from your visit to technotification.com. However, certain non-personal information is recorded by the standard operation of technotification.com Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience. For example, it may be used to tailor content and advertising to your interests.
+
 In special cases, Technotification.com may disclose user information when there is reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to, or interference (either intentionally or unintentionally) with, Technotification.com’s rights or property, other technotification.com web site users, or anyone else that could be harmed by such activities.
 
 ## Security
@@ -15,7 +16,7 @@ Security for all personally identifiable information is extremely important to u
 
 ## Use of Cookies
 
-Cookies are pieces of information that a website transfers to an individual’s computer hard drive for record keeping purposes. Cookies are used to track visits to our Sites and to personalize the Sites for new and current subscribers. Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. (Note: you will need to consult the help area of your browser application for instructions.) If you choose to disable your cookies setting or refuse to accept a cookie, some parts of technotification.com’s web sites may not function properly.
+Cookies are pieces of information that a website transfers to an individual’s computer hard drive for record-keeping purposes. Cookies are used to track visits to our Sites and to personalize the Sites for new and current subscribers. Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. (Note: you will need to consult the help area of your browser application for instructions.) If you choose to disable your cookies setting or refuse to accept a cookie, some parts of technotification.com’s websites may not function properly.
 
 ## Use of IP Addresses
 
@@ -23,20 +24,21 @@ An IP address is a number that’s automatically assigned to your computer by yo
 
 ## Links to Other Sites
 
-technotification.com is not responsible for the content or practices of third party websites that may be linked to our Sites. Our Sites may link to websites operated by other companies; we are not responsible for the privacy practices of such websites. Visitors to these web sites should refer to each web site’s respective privacy policies and practices.
+technotification.com is not responsible for the content or practices of third party websites that may be linked to our Sites. Our Sites may link to websites operated by other companies; we are not responsible for the privacy practices of such websites. Visitors to these websites should refer to each web site’s respective privacy policies and practices.
 
 ## Third Party Cookies
 
-In the course of serving advertisements to our sites, our third-party advertisers may place or recognize a unique “cookie” on your browser.  
-We use third-party advertising company to serve ads when you visit our Web site. These company may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit the Network Advertising Initiative or Self-Regulatory Program for Online Behavioral Advertising.  
-Google adsense and Media.net as a third party vendor, uses cookies to serve ads on our websites. Google adsense and Media.net’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google and Media.net ad and content network privacy policy.
+In the course of serving advertisements to our sites, our third-party advertisers may place or recognize a unique “cookie” on your browser.
+
+We use third-party advertising company to serve ads when you visit our Web site. These company may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit the Network Advertising Initiative or Self-Regulatory Program for Online Behavioral Advertising.
+
+Google AdSense and Media.net as a third party vendor, uses cookies to serve ads on our websites. Google Adsense and Media.net’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google and Media.net ad and content network privacy policy.
 
 ## Contact Us
 
-If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can email us  
-Information provided by you via general email inquiries to technotification.com such as your email address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties.
+If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can email us Information provided by you via general email inquiries to technotification.com such as your email address is used only to respond to your inquiries in the ordinary course of business and is never shared with third parties.
 
-contact us By [clicking here](https://www.technotification.com/privacy "Privacy")
+You can contact us by clicking here
 
 ## Your Acceptance of These Terms
 
