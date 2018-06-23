@@ -1,59 +1,69 @@
-> *The following text is extracted and transformed from the paparazziaccessories.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502013517id_/http%3A//www.paparazziaccessories.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paparazziaccessories.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623113045id_/https%3A//paparazziaccessories.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Polices | Paparazzi Accessories
+# Privacy Policy
 
-Paparazzi, LLC. (“Paparazzi” or “we”) respects your individual privacy. This Privacy Policy documents our adherence to the highest industry standards for the protection of your personal information. By visiting this web site (“Site”) or using any of the services offered on the Site, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. This Privacy Policy is effective as of December 1, 2010, applies to information collected through the Site and covers the following areas:
+## Introduction
 
-  * What personally identifiable information is collected by Paparazzi through the Site
-  * How Paparazzi uses this information
-  * With whom Paparazzi may share this information
-  * What types of security procedures are in place to protect the loss, misuse or alteration of information under our control
-  * How you can correct any inaccuracies in the information
+Paparazzi Accessories LLC (referred to herein as “Paparazzi Accessories LLC” “we,” “us” and “our”) understands the importance of privacy of individuals (referred to as “users” and “you”). This privacy notice outlines the personal information Paparazzi Accessories LLC may collect and how Paparazzi Accessories LLC will use and disclose that information. Paparazzi Accessories LLC is committed to protecting your personal information. We have adopted the following policies with regard to collection and distribution of information.
 
+## Information Collection
 
+Paparazzi Accessories LLC may collect two different types of information, Personally Identifiable Information and Non-Personally Identifiable Information. “Personally Identifiable Information” (“PII”) is information that identifies you as an individual – for example, your name, address, telephone number, email address, credit card information, billing address and shipping information. “Non-Personally Identifiable Information” (“Non-PII”) is aggregated information, demographic information, IP addresses, user behavior data from web interaction metrics tools and any other information that does not reveal your specific identity.-
 
-## Information Collection and Use
+During the Independent Consultant enrollment process, or while purchasing product on Paparazzi Accessories LLC maintained websites, Paparazzi Accessories LLC may collect PII about you that may be considered sensitive.
 
-Paparazzi collects information on the Site at two different stages. First, we collect anonymous, aggregate information (such as domain name or IP address) from all visitors to the Site. This type of information is never linked to any personally identifiable information and is only used in the aggregate to generate statistical reports about the use of the Site.  
-Second, we require the submission of certain personally identifiable information when you use the services available on the Site. For example, your use of your username and password allows us to identify you as a distributor of Paparazzi® [products](https://web.archive.org/web/20120502013517id_/http%3A//www.paparazziaccessories.com/products.aspx "products").
+Paparazzi Accessories LLC may also collect PII about you from, among other places: information you provide directly to us, information regarding the services that Paparazzi Accessories LLC currently provides or has previously provided to you, information Paparazzi Accessories LLC receives from our affiliated entities or third parties relating to the establishment of our relationship or the provision of services to you.
 
-## Personal Information of Children Under 13
+This information can be received in any manner, including in-person discussions, telephone conversations, and electronic or other written communications.
 
-Paparazzi complies with the requirements of the Children’s Online Privacy Protection Act (“COPPA”) and the FTC’s rule interpreting COPPA (16 CFR § 512). This Site is not directed to children and we do not knowingly collect any personally identifiable information from children under 13 years of age through this Site.
+## Cookies
 
-## Use of Your Personal Information
+We may collect information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalized service. They enable us to estimate our audience size and usage pattern, to store information about your preferences (and so allow us to customize our site according to your individual interests), to speed up your searches and to recognize you when you return to our site. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
-Except as otherwise provided in this Privacy Policy, Paparazzi does not sell, rent, or share user information to or with any third party not affiliated with or owned by Paparazzi, except service providers who may assist Paparazzi in areas such as data storage. Paparazzi will never give or sell your personal information to be used for the purposes of sending you unsolicited commercial offers (such as spam) from any third party. We will not ourselves use your personal information to send you unsolicited commercial offers. However, we may need to [contact](https://web.archive.org/web/20120502013517id_/http%3A//www.paparazziaccessories.com/contact.aspx "contact") you for purposes other than marketing, as for example regarding the status of the Site, your account or other matters related to your role as a distributor of Paparazzi® products. You may not opt-out of these kinds of communications.
+## Information Use
 
-## Use of Aggregate Information
+Paparazzi Accessories LLC may collect PII about you to establish or maintain our relationship with you, respond to your inquiries, provide you with services you have requested, keep you informed of services we think may be of interest to you, personalize your experience with us, and other reasons.
 
-We store information that we collect through log files to create a profile of our users. Log files record internet protocol (IP) addresses, browser types, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the Site, track a user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. A profile is stored information detailing how individual users use the Site. It is used solely for internal purposes, to help us improve the experience of our users. We do not share your profile with any third [parties](https://web.archive.org/web/20120502013517id_/http%3A//www.paparazziaccessories.com/parties.aspx "parties").
+Without PII, Paparazzi Accessories LLC may be unable to provide you with the services you have requested.
 
-## Disclosure of Personal Information As Required By Law
+## Disclosure of Information
 
-We will disclose personal information when required by law, or if we have a good-faith belief that such action is necessary to (a) comply with a current judicial proceeding, a court order or legal process served on us, (b) protect and defend our rights, or (c) protect the rights, property, and other interests of our users or others.
+Paparazzi Accessories LLC does not sell or lease PII about you to others.
 
-## Business Transfers
+Paparazzi Accessories LLC may share PII about you with others as permitted by contractual agreement or as required by law, such as our affiliates, third parties in connection with the provision of services to you, government entities and regulatory bodies, and those with whom you have requested us to share information.
 
-In the event Paparazzi goes through a business transition or a transfer, such as a merger, acquisition by another company, or sale of a portion of its assets, or in the unlikely event that Paparazzi goes out of business or enters bankruptcy, our users’ personal information may be part of the assets transferred. You acknowledge that such transfers may occur, and that any acquiror of Paparazzi or its assets may continue to use your personal information as set forth in this Privacy Policy.
+Unless restricted by law, regulation, contract or professional standards, Paparazzi Accessories LLC may transfer PII about you outside of the United States to other countries for the purposes described in this privacy notice.
 
-## Links
+Paparazzi Accessories LLC will not share PII about you with an unaffiliated third party who is not performing services for us without first obtaining your permission, except if such sharing is otherwise permitted by this privacy notice.
 
-The Site contains links to other web sites. Paparazzi is not responsible for the privacy practices or content of these other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by our Site.
+Paparazzi Accessories LLC will provide PII about you to the following types of third parties for the associated reasons:
 
-## Security
+**Carriers** : Paparazzi Accessories LLC will provide your name and address to companies which provide a delivery service between Paparazzi Accessories LLC and its customers as a means of delivering our products to you as quickly as possible.
 
-Paparazzi takes commercially reasonable precautions to protect your information. However, given the nature of the Internet and the fact that network security measures are not infallible, we cannot guarantee the security of your information.  
-We also make an effort to protect your information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Finally, the servers that store your personally identifiable information are housed in a secure environment. When registering for access to a secure area of the Site, we will ask you to select a username and password. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also, remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence when accessing your computer. If you have any questions about the security at our Site, you can send a message to the webmaster through the [contact form](https://web.archive.org/web/20120502013517id_/http%3A//www.paparazziaccessories.com/contact.aspx).
+**Financial Institutions** : Paparazzi Accessories LLC will provide financial institutions with your payment information, name, address, and phone number in order to process any orders placed by you and complete payment of the transaction to Paparazzi Accessories LLC.
 
-## Correcting, Updating, Deleting and Deactivating Personal Information
+**Logistics** : Paparazzi Accessories LLC will provide your name, address and phone number to those entities or people within our network of distribution in order to process and ship your orders with speed and accuracy.
 
-If your personally identifiable information changes, you may contact us to correct, update or delete and deactivate our record of your personally identifiable information.
+Paparazzi Accessories LLC requires third parties who perform services for us to agree to treat PII about you confidentially and securely. Prior to collection your PII, any such third parties are required to sign a service agreement, which includes the privacy policy outlined here. Note that this statement does not address the privacy practices or polices of our Independent Consultants. However, Paparazzi Accessories LLC Independent Consultants agree, as specified in our Policies and Procedures, to comply with all applicable privacy laws and regulations.
 
-## Notification of Changes
+Notwithstanding any other provision of this notice or the Terms and Conditions of Use to the contrary, we reserve the right to disclose and use your PII if we believe that we are required to do so: (a) by law; (b) in response to legal process, for example, in response to a court order or a subpoena; (c) in response to a law enforcement agency’s request; (d) to enforce our other terms, conditions, or policies; (e) to protect our operations; (f) to protect the rights, privacy, safety or property of Paparazzi Accessories LLC , you or others; and/or (g) to permit us to pursue available remedies or limit the damages we may sustain. For example, we may to the fullest extent the law allows, disclose PII about you to law enforcement agencies to assist them in identifying individuals who have been or may be engaged in unlawful activities.
 
-If we decide to change our Privacy Policy, we will prominently post a notice on the main page and other pages to alert you of the change. If the Privacy Policy changes materially so that your personally identifiable information will be used in a manner different from that stated at the time of collection, we will try to contact you by e-mail to give you a choice as to whether or not we may use your information in this different manner. However, you are responsible for ensuring we have a current working e-mail address for you. If the e-mail address you have given us is incorrect or no longer operable, we will have no further obligation to notify you apart from posting the notice on our Site. In addition, if we make any material changes in our privacy practices that affect user information already stored in our database, we will post a prominent notice on the main page notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+Because Non-PII does not personally identify you, we reserve the right to use Non-PII, and to disclose Non-PII to third parties, for any purpose.
 
-## Contact Information
+## Access
 
-For further information about this site or Paparazzi products, please [contact us](https://web.archive.org/web/20120502013517id_/http%3A//www.paparazziaccessories.com/contact.aspx).
+You may request access to the PII that Paparazzi Accessories LLC has about you. You may also request the correction, amendment or deletion of PII about you that is inaccurate. Paparazzi Accessories LLC will treat requests for access, correction, amendment or deletion of PII about you in accordance with its internal policies and applicable legal requirements.
+
+## Information Security and Integrity
+
+Paparazzi Accessories LLC maintains reasonable physical, administrative and technical safeguards to protect PII from loss, misuse, or unauthorized access, disclosure, alteration or destruction. Our personnel and the personnel of our affiliates are provided access to PII about you only if they have a need to know the information in connection with a legitimate business purpose, such as (a) the provision of services to you or (b) to help identify other services that Paparazzi Accessories LLC and its affiliates offer that may be of interest or use to you.
+
+Additionally, Paparazzi Accessories LLC will only use PII for the purpose which it was intentionally collected. Paparazzi Accessories LLC will take reasonable measures to safeguard your information and ensure that is accurate, complete and current.
+
+## Enforcement
+
+Paparazzi Accessories LLC takes a self-assessment approach to verify that we are within compliance of this policy. Paparazzi Accessories LLC employees are trained to adhere with this privacy policy and Paparazzi Accessories LLC administers discipline to those employees who do not comply.
+
+## Changes to This Privacy Notice
+
+Paparazzi Accessories LLC reserves the right to change this privacy notice. Any changes to this notice will become effective upon posting of the revised notice on the Internet or as required by law.
