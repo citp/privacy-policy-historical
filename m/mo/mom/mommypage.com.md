@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommypage.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206232049id_/http%3A//www.mommypage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommypage.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623104533id_/http%3A//www.mommypage.com/privacy) for the most accurate reproduction.*
 
 # Mommypage
 
@@ -98,5 +98,5 @@ If you are not in agreement with the terms of this Policy, please [click here](h
 
 If you feel that Mommypage is not abiding by its posted privacy policy, write us at:  
 Mommypage  
-4725 First St. Suite 215  
-Pleasanton, CA 94566
+1420 East Roseville Parkway #140-245  
+Roseville, CA 95661
