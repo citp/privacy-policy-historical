@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onevatan.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903051505id_/http%3A//www.onevatan.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onevatan.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623070658id_/http%3A//www.onevatan.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Cloud Computing, VPS and Dedicated Server Solutions
 
