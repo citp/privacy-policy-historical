@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinity.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116021517id_/http%3A//www.twinity.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinity.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623160726id_/http%3A//www.twinity.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Twinity - Privacy Policy
 
