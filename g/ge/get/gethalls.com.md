@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gethalls.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223124201id_/http%3A//disclaimer.mondelezinternational.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gethalls.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623103139id_/http%3A//disclaimer.mondelezinternational.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Mondelēz International Privacy Policy
 
