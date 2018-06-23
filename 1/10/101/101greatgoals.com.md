@@ -1,177 +1,202 @@
-> *The following text is extracted and transformed from the 101greatgoals.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018013124id_/http%3A//www.101greatgoals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101greatgoals.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623132625id_/https%3A//www.101greatgoals.com/privacy-policy) for the most accurate reproduction.*
 
 # 101 Great Goals Privacy Policy - Football (soccer) greatest goals and highlights | 101 Great Goals
 
-**Last Revised** : December 25, 2016
+**Last revised: May 25, 2018**
 
-**General**
+**INTRODUCTION**
 
-101 Great Goals (“ **We”**  or **“Us”** ) is firmly committed to ensure that any personal information our users (“User” or “You”) share with Us is safeguarded and protected.
+Domains Holdings Group Limited (the **“Company”** ), offers a global network of content-rich web, mobile and social sites, including user acquisition and media buying (including paid search, display, mobile and social advertising), content optimization (including key word search, off-page and on-page optimization), and affiliate program, both in the web and mobile ecosystem (including through websites or mobile apps operated by Company; collectively, the “ **Services** ”).
 
-This Privacy Policy outlines our practices with respect to the information We may collect from You when You use www.101greatgoals.com (the **“Website”** or **“Site”** ), the manners in which We may use such information and the choices that are available for You.
+The Company is deeply committed to safeguard the privacy expectations of its end users (“ **User(s)** ”, “ **you** ” or “ **your** ”). Accordingly, we have put in place this Privacy Policy, which outlines our data protection practices, including how we collect, use, disclose and protect your Personal Information, as well as your rights with respect to your Personal Information.
 
-By participating in promotions We offer, accessing the Website and/or using the services we provide (the **“Service”** ), You expressly consent to the terms of this Privacy Policy, and to the collection, use and disclosure of Your information, including personal information (as specified below), in accordance with the terms of the Privacy Policy. If You disagree to any term provided herein, You may not participate in any promotions, use the Service and/or access the Website.
+In this Privacy Policy, you can learn about:
 
-This Privacy Policy does not apply to the practices of companies that We do not own or control, or to individuals whom We do not employ or manage, including any of the third parties to which We may disclose information as set forth in this Privacy Policy.
+  * **WHAT INFORMATION WE COLLECT?**
+  * **MINORS**
+  * **HOW WE USE THE COLLECTED INFORMATION?**
+  * **MARKETING**
+  * **WITH WHOM WE SHARE INFORMATION?**
+  * **INTERNATIONAL TRANSFER OF INFORMATION**
+  * **THIRD PARTY TRACKING TECHNOLOGIES**
+  * **THIRD PARTY SERVICES**
+  * **RETENTION OF PERSONAL INFORMATION**
+  * **YOUR RIGHTS**
+  * **HOW WE KEEP YOUR INFORMATION SECURED**
+  * **CHANGES TO THE PRIVACY POLICY**
+  * **HOW TO CONTACT US**
 
-In our Privacy Policy you will learn about:
 
-  * What information we collect?
-  * How we may collect your information?
-  * How we use the information we collect?
-  * With whom we share the information, and for what purpose?
-  * The Data Protection Officer
-  * For how long we retain the information we collect?
-  * Direct Marketing
-  * Children’s information
-  * How do we safeguard your information?
-  * Updates or amendments to the Privacy Policy
-  * How to contact us
 
+We encourage you to read the Privacy Policy carefully and use it to make informed decisions. By visiting or interacting with the Company’s websites, mobile apps or other online properties, or by visiting or interacting with third party websites, mobile apps or other online properties that deploy our Service, you hereby agree to the Privacy Policy.
 
+**If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send our Data Protection Officer at**[dpo@domainsholdingsgroup.info](mailto:dpo@domainsholdingsgroup.info) .
 
-**What Information we collect?**
+**WHAT INFORMATION WE COLLECT?**
 
-**Personal information**
+We collect two types of information from our Users:
 
-  * You may be asked to provide personal information, namely information that identifies an individual or may with reasonable effort identify an individual ( **“Personal Information”** ) in connection with any promotions We may offer from time to time ( **“Promotion”** ). This Personal Information may include: Your name, email address and phone number; we may use such information for the purpose of conducting the Promotion, and for providing you with promotional material.
+  * **Personal Information  **
 
 
 
-**Non-personal information**
+The first type of information is information that identifies or may reasonably identify an individual reasonable effort (“ **Personal Information** ”). Personal Information which is being gathered may consist of the following:
 
-  * We collect certain information pertaining to a user, which may be made available or gathered via the user’s use of this Website ( **“Non-personal Information”** ). We are not aware of the identity of the user from which the Non-personal Information was collected. Non-personal Information which is being collected consists of technical information transmitted by Your device and aggregated usage information, and contains certain software and hardware information about Your device, the referring page that linked You to the Website, including the type of browser and operating system Your device uses, operator, language preference, access time, and the domain name of the website from which You linked or registered to the Website.
+  * **Contact details** : you may voluntarily provide us with certain contact details, such as your full name and email address.
+  * **Voluntary information** : We also collect information which you provide us voluntarily. For example, when you respond to communications from us, communicate with us via email or share additional information about yourself through your use of the Services, such as on the chat feature and in games.
+  * **Device information** : we collect specific types of connection details and information with regard to your device, software or hardware that may identify you, such as: device’s unique identifiers (e.g. UDID, IMEI, MAC address), browser fingerprinting, IP address and geo-location data.
+  * **Social networks** : when you voluntarily decide to register through your social network account (such as your Facebook account), we will have access to basic information from your social network account, such as your name, birthdate, profile picture and friends’ list, as well as information you made publicly available on such account.
+  * In addition, when using the Services, you may be able via your social network to “Invite a Friend” to use the Services. Should the person accept your invitation, we may obtain Personal Information from him/her such as: name, email address, phone number and date of birth. We will use the Personal Information for the purposes set out herein and disclose such information only to third parties as detailed in this Privacy Policy.
+  * **Information we collect from third parties** : We collect Personal Information from third party service providers, such as information about your credit history from credit agencies and other financial information which is relevant to the provision of the Services, as well as information which is gathered in order to verify your identity and prevent fraudulent or illegal activity.
+  * **Non-Personal information**
 
 
-  * **How we may collect your information?**
 
+The second type of information is un-identified and non-identifiable information pertaining to a User(s), which may be made available or gathered via the User’s use of the Services (“ **Non-Personal Information** ”).
 
-  * We collect Personal Information submitted directly by You, or non-Personal Information transmitted automatically from Your device using various standard technologies, such as cookies, digital identifiers, log files, web beacons or other similar technologies.
-  * This Website may automatically send cookies to Your system. We may store information which correlates with those cookies, for the purposes stipulated below.
-  * You may block and remove our cookies through Your browser and operating system, but this may impair and hinder the Site’s functionality and availability.
-  * We may use logs and cookie information to improve quality and design of the Site, including without limitation, saving You the trouble of re-entering data, and quarries, personalize and customize Your experience on the Site, track Your use of the Site and generate statistics regarding the Site.
+Non-Personal Information which is being collected consists of technical information and aggregated usage information, and may contain, among other things, the User’s operating system, type of browser, screen resolution, browser and keyboard language, the User’s ‘click-stream’ and activities on the Services, the period of time the User visited the Services and related time stamps, etc.
 
+**For avoidance of doubt, any Non-Personal Information connected or linked to any Personal Information shall be deemed as Personal Information as long as such connection or linkage exists**.
 
+Types of Non-Personal Information we collect from or about you:
 
-**What is a “cookie”?**
+  * **Technical information** : In order to enhance the functionality of the Services and to provide you with a better user experience, we collect technical information transmitted by your device, including certain software and hardware information (e.g. the type of browser and operating system your device uses, language preference, access time and the domain name of the website from which you linked to the Services; etc.). This information also includes anonymous online identifiers, such as the Google Advertising ID and the IDFA.
+  * **Device and app information** – this category includes your device’s type and model, system language, the device’s operating system (such as Android or iOS), SDK version, mobile carrier name, mobile browsers installed on the device (such as Chrome or Safari), app history and usage information (such as information about running and installed apps on the device), information regarding downloads and installations of mobile applications and any information regarding in-app events (such as in-app purchases), and anonymous identifiers assigned to your device, such as its iOS Identifier for Advertising (IDFA), Google Advertising ID, or other types of device identifiers.
+  * **Location information** – we collect information about your general location (such as city and country). For example, we may use the IP address to identify your general location. This information does not tell us where your device is precisely located. This information is sent as a normal part of internet traffic. In addition, we also collect implicit location information, which allows us to infer that you are either interested in a place or that you might be at the place – this information does not actually tell us where your device is precisely located.
+  * **Ad information** – this category includes information about the online ads and personalized content we have served (or attempted to serve) to you. It includes things like how many times an ad has been served to you, what page the ad appeared on, whether you viewed, clicked on or otherwise interacted with the ad, ad engagement history and whether you visited the advertiser’s website, downloaded an app or purchased the product or service advertised.
+  * **Log and analytics information** : we collect information about your use of the Services, such as applications’ usage, log files, user activity (e.g. referral URL, pages viewed, the amount of time spent on particular pages, online browsing, clicks, actions, etc.), time stamps, alerts, etc. This information is collected for amongst other things troubleshooting errors and bugs as well as for research and analytics purposes about your use of the Services.
+  * **Other anonymous information** : We may anonymize or de-identify the information collected by the Services or via other means so that the information cannot, on its own, personally identify you. Our use and disclosure of such aggregated or de-identified information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation and for any purpose, such as for advertising or marketing purposes.
 
-  * When You use our Service we may assign Your device with a log file or a cookie (session or persistent). A “cookie” is a small piece of information that a website assigns to Your computer’s hard drive while You are viewing a web site. Cookies are very helpful and can be used for various different purposes. These purposes include allowing You to navigate between pages efficiently, enable automatic activation of certain features, remembering Your preferences and making the interaction between You and the Service quicker and easier. Cookies are also used to help ensure that the advertisements You see are relevant to You and Your interests. You can find more information about cookies at www.allaboutcookies.org. You may remove our cookies by following the instructions of Your browser preferences; however, if You choose to disable cookies, some features of our Site may not operate properly and Your online experience may be limited.
 
 
-  * **What are we using it for?**  
-We may use cookies, log files, web beacons and other technologies to collect Non-Personal Information with respect to Your activity on our Service and track Your use of our Service, Your type of browser, pages You visited, the time and date of Your visits or the links You click on.
-  * We may also allow third parties, e.g. service providers (i.e. third parties that perform services on our behalf; e.g. customer service, marketing assistance, analytics, ad tracking, service functionality and support, surveys, etc.), social networks, ad networks and advertising companies, to display advertisements on our Service. These parties may also use the technologies stated above to collect information about our users. We do not provide any Personal Information to third parties, unless indicated otherwise in our Privacy Policy.
+**MINORS**
 
+The Services are not designed or directed to persons under the age of 18 or persons under the age of legal consent with respect to the use of the Services of any jurisdiction, whichever is higher (“Legally of Age”). If you are not Legally of Age, you should not download or use the Services nor provide any Personal Information to us.
 
-  * **How we use the information we collect?**
-  * The information We collect, which may include Your Personal Information, is used for the following purposes:
-  * To respond to Your inquiries, support request, feedbacks or questions, and update You with information pertaining to Your request, and respond to claims concerning our Promotions;
-  * To market Our websites, products and services or those of other Marketing Affiliates (see below under “Direct Marketing”);
-  * To enhance and personalize Our promotions and marketing offers and customize the advertising content We display;
-  * To perform market segmentation and run retargeting campaigns based Your profile and Your Personal Information (e.g. geographic data, demographic information, etc.);
-  * To serve You advertisements, which are based on Your profile or on similar lookalike audiences (e.g. other individuals who visited our Website or used our Service, etc.), when You visit social network websites (e.g. Facebook, Twitter, etc.);
-  * To communicate with You (via email, phone number, etc.);
-  * To resolve disputes and enforce our policies, including investigation of potential violations thereof, or in accordance with any applicable law or regulation, or for the purpose of law enforcement;
-  * To perform research, technical diagnostics, analytics or statistical purposes;
-  * To provide You with the most relevant additional services and offers.
-  * To detect, prevent, or otherwise address fraud, security or technical issues.
+We reserve the right to access and verify any Personal Information collected from you. In the event that we become aware that a user who is not Legally of Age has shared any information, we may discard such information. If you have any reason to believe that a minor has shared any information with us, please contact us at [dpo@domainsholdingsgroup.info](mailto:dpo@domainsholdingsgroup.info) .
 
+**HOW WE USE THE COLLECTED INFORMATION?**
 
+We use your Personal Information for the purposes listed below:
 
-**With whom we share the information, and for what purpose?**
+  * To provide and operate the Services, such as to provide our clients with performance marketing, online user acquisition network, online promotions, and for the purposes of user attribution;
+  * To communicate with you and to keep you informed of our latest updates to our Services and special offers;
+  * To market our Services (see more below under “Marketing”), as well as to serve you advertisements, including behavioral advertising;
+  * To conduct analytics, statistical and research purposes, in order to improve and customize the Services to your needs and interests (such as by compiling aggregated reports about the usage of certain features of our Services);
+  * To support and troubleshoot the Services and to respond to your queries;
+  * To enable us to further develop, customize and improve the Services based on Users’ common preferences and uses;
+  * To identify and authenticate your access to certain features of the Services;
+  * To detect and prevent fraudulent and illegal activity or any other type of activity that may jeopardize or negatively affect the integrity of the Services, including by identifying risks associated with your activity on our Services;
+  * To investigate violations of our policies and User Agreement as well as enforce our policies and the User Agreement;
+  * To investigate and resolve disputes in connection with your use of the Services; and
+  * As required by law or regulation, or as required by other governmental authorities, or to comply with a subpoena or similar legal process or respond to a government request.
 
-**Affiliates and corporate transaction**
 
-  * We may share all Information, including Personal Information, with our parent company, any subsidiaries, joint ventures, other companies under a common control or other entities existing within the same group of companies in which we exist ( **“the Group”** ) (collectively **“Affiliated Companies”** ). We may also share Information, including Personal Information, in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, consolidation or asset sale).
-  * In the event of the above, our Affiliated Companies or acquiring company will assume the rights and obligations as described in this Privacy Policy.
 
+**MARKETING**
 
+The Company will use your Personal Information, such as your name, home address, email address, telephone number etc., ourselves or by using our third party subcontractors for the purpose of providing you with promotional materials, concerning the Services as well as products, services, websites and applications which relate to: (i) other companies within the Company; or (ii) the Company’s business partners and affiliates (collectively: “ **Marketing Affiliates** ”), which we believe may interest you.
 
-**Service Providers and Business Partners**
+We may also share and disclose Personal Information with our Marketing Affiliates for the purpose of providing you different marketing offers, which we, or our Marketing Affiliates, believe are relevant for you. Our Marketing Affiliates may use this Personal Information for different marketing techniques, such as direct email, post, SMS and telephone marketing purposes.
 
-  * We may share Your information, including Personal Information, with Affiliated Companies and Our third party professional service providers, who are allowed to use the information only for the purposes stipulated above, or with Our business partners for performing services for us (e.g. customer service, conducting promotions, marketing and advertising assistance, technical support, analytics, etc.).
-  * If You provided us with Your email-address (or other contact info), we may share it with our Marketing Affiliates (as defined below, under “Direct Marketing”) to provide you with updates and marketing offers or any other promotional material.
-  * We may share your information with our business partners and Affiliated Companies to serve advertisements based on Your profile or on similar lookalike audiences, when you use our Service or visit third party’ websites, such as social network websites (e.g. Facebook, Twitter, etc.). We may also use other third parties to assist us in evaluating the success of our advertising campaigns and help Us retarget any of our Users. You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: www.networkadvertising.org/optout_nonppii.asp and www.aboutads.info/choices.
-  * The information will be disclosed only to the extent required to perform the purposes as stipulated herein.
-  * You hereby warrant and consent that Your Personal Information may be transmitted, used or stored with our authorized third parties, for the purposes disclosed herein, which are located across the world.
+You may at any time decline receiving further marketing offers from us or from our business partners and marketing affiliates by contacting us at to [dpo@domainsholdingsgroup.info](mailto:dpo@domainsholdingsgroup.info) . Please note that even if you unsubscribe from our marketing mailing list, we may continue to send you service-related updates and notifications.
 
+**WITH WHOM WE SHARE INFORMATION?**
 
+We do not rent, sell, or share your Personal Information with third parties (“ **Recipients** ”) except as described in this Privacy Policy. The Personal Information will be disclosed to Recipients only to the extent required for the specific purpose, as stipulated in this Privacy Policy.
 
-**Other Disclosures**
+We share Personal Information with any of the following recipients:
 
-  * We may share Your information, including Personal Information, in the event that We are required by law enforcement or other governmental agency; in response to a subpoena, warrant or an investigative demand, or a court order, or with respect to any legal process; in order to enforce intellectual property rights or to exercise other legal rights; to establish or exercise our rights to defend against legal claims; if We believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud or other wrongdoing, safety of person or property, violation of our policies, to enforce our policies or as otherwise required in order to comply with the applicable laws and regulations. In such circumstances, We may raise or waive any legal objection or right available to Us.
+  * Our clients that deploy our Services on their online properties (such as websites and mobile apps); this includes our clients whose websites or apps you have visited, as well as an advertiser whose site or app you have visited – we share information about how you have interacted with such websites or apps.
+  * Companies within the Company and other affiliated companies;
+  * Subcontractors and third party service providers, as well as their subcontractors, which by way of example include (but is not limited to) cloud computing companies, marketing affiliates, identity verification and fraud prevention services, and other data verifiers;
+  * Auditors, contractors or advisers of any of the Company’s business processes;
+  * To any third parties who investigate, detect or prevent fraudulent or illegal activity (e.g. governmental authorities, police, banks and other investigatory organizations);
+  * Licensing authorities, governmental and regulatory bodies, in accordance with applicable laws and regulations; and
+  * Potential purchasers or investors in any of the companies within the Company, or in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, reorganization, bankruptcy, consolidation or asset sale of an asset or transfer in the operation thereof) in relation to any company within the Company (in such event, the acquiring company or transferee will assume the rights and obligations as described in this Privacy Policy).
 
 
 
-**Aggregated Information**
+In addition to the purposes listed in this Privacy Policy, we share Personal Information with those Recipients for any of the following purposes:
 
-  * Non-Personal Information, aggregated information or Personal Information in non-human readable form (de-identified) may be shared with third parties (including ad networks, advertising companies and service providers) in any of the above circumstances, as well as for the purpose of developing or delivering tailored or targeted advertising (whether via our Site, or websites or applications of third parties), or for the purpose of improving our Site, conducting business analysis or other business purposes. This information may be combined with information We collect from other sources, to the extent that the information remains Non-Personal Information.
+  * Storing such information on our behalf, for example by using cloud computing service providers;
+  * Processing such information to assist us with our business operations (e.g. to process payments and your deposits; authenticate your access; auditing our operations; detect and prevent fraudulent or illegal activity; etc.);
+  * Performing research, technical diagnostics or analytics (such as for geo-location);
+  * Communicating targeted advertising, as well as promotional and informational materials, in accordance with our marketing policy (see below, under “Marketing”); and
+  * Whenever we believe in good faith that disclosure is necessary to protect our rights or legal claims, enforce our policies (including our User Agreement and Privacy Policy), protect your safety or the safety of others, as well as to investigate or prevent any fraud, for security reasons or to help us with any other related technical issue.
 
 
 
-**Third party collection of information**
+**TRANSFER OF INFORMATION**
 
-  * Our policy only addresses the use and disclosure of information We collect from you. To the extent that You disclose Your information to other parties via our Service (whether our website or application; e.g. by clicking on a link to any other website or location) or via other sites throughout the internet, different rules may apply to their use or disclosure of the information You disclose to them. We prompt You to review the privacy policies of those sites before providing Your Personal Information to them.
+Since we operate globally, it may be necessary to transfer your Personal Information to countries outside the European Union. The data protection and other laws of these countries may not be as comprehensive as those in the European Union.
 
+We use best efforts to ensure that your Personal Information is protected in accordance with our privacy policy, through contractual means (such as by using the contractual clauses approved by the relevant regulators for data transfer) or other means (such as ensuring that the jurisdiction imposes adequate safeguards for data protection).
 
+**THIRD PARTY TRACKING TECHNOLOGIES**
 
-**Data Protection Officer**
+When you visit or access our Services (for example when you visit our websites), we use (and authorize third parties to use) web beacons, cookies, pixels, scripts, tags and other technologies (“ **Tracking Technologies** “).
 
-  * If You feel that Your privacy was treated not in accordance with our policy, or if any person attempted to misuse our Service or acted in an inappropriate or unlawful manner, please contact our Data Protection Officer (“DPO”) at this email address: 101greatgoals@gmail.com and our DPO shall investigate promptly.
-  * Please also contact our DPO if you would like to receive information about Your Personal Information which we retain, to update it or to withdraw any consent which has been given by you under this Privacy Policy.
+The Tracking Technologies allow us to automatically collect information about you and your online behavior, as well as your device (for example your computer or mobile device), for different purposes, such as in order to enhance your navigation on our Services, improve our Services’ performance and customize your experience on our Services. We also use this information to collect statistics about the usage of our Services, perform analytics, deliver content which is tailored to your interests and administer services to our Users, advertisers, publishers, customers and partners.
 
+We also allow third parties to collect information about you through Tracking Technologies. To learn more please visit our  _Cookie Policy_.
 
+**THIRD PARTY SERVICES**
 
-**For how long we retain the information we collect?**
+While using the Services you may encounter links to third party websites, services or applications. Please keep in mind that this Privacy Policy does not apply to any third party websites, services or applications, even if they are accessible, downloadable, or otherwise distributed through the Services.
 
-  * We may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion. To remove Your email address, please contact Our DPO us at www.101greatgoals@gmail.com
+Please be advised that such third party websites, services or applications are independent from the Company. We assume no responsibility or liability whatsoever with regard to privacy matters or any other legal matter with respect to such third party websites and/or services. We encourage you to carefully read the privacy policies and the terms of use of such third party websites and/or services, as their terms, not ours, will apply to any of your interactions with such third parties.
 
+You should always review their privacy practices carefully before providing Personal Information to such third parties.
 
-  * Please note that unless you explicitly instruct us otherwise, We may retain the information We collect (including your Personal Information) for as long as needed to provide You the Service, fulfill any of the purposes stipulated in this Privacy Policy for the collection and processing of your information (e.g. advertising, marketing, etc.), and to comply with our legal obligations, resolve disputes and enforce our agreements.
+You are knowingly and voluntarily assuming all risks of using any third-party websites, services or applications. You agree that we shall have no liability whatsoever with respect to such third party sites and your usage of them.
 
+**RETENTION OF PERSONAL INFORMATION**
 
-  * **Direct Marketing**
+If you have registered with an account through our Services, the Company will retain your Personal Information during the period your account is active. In addition, the Company will retain your Personal Data for additional periods, to enable the Company to meet its legal obligations under applicable laws or regulations, such as the applicable gambling regulations, Know-Your-Customer and Anti-Money Laundering regulations.
 
+In addition, the Company may retain your Personal Information for longer periods, provided that retaining such information is necessary for the Company’s legitimate interests, such as fraud prevention and record keeping.
 
-  * We may share and disclose Personal Information, such as your name and email address with our Affiliated Companies and marketing partners (Collectively, “Marketing Affiliates”) or use it ourselves for the purpose of providing you interesting updates in connection with promotional activities or bonus programs as well as sending you marketing offers or promotions in various areas of interest. Our Marketing Affiliates may use Your Personal Information for different marketing techniques, such as direct email, SMS and other marketing purposes.
-  * As We are committed to Your right to privacy, We provide You with simple tools to decline receiving email offers from Us or from our Marketing Affiliates – You may, at any time, choose to no longer receive commercial or promotional emails by clicking on the “unsubscribe” link at the bottom of each email communication that We or our Marketing Affiliates will send You (it may take us up to 14 days for us to process such request).
-  * Please note that even if You have unsubscribed from receiving promotional emails from Us, We may send You other types of important e-mail communications without offering you the opportunity to opt out of receiving them. These may include customer service announcements, administrative notices and surveys.
-  * Also, please note that changing Your information in Your registration account, or opting out of receiving promotional email communications from Us will affect only future communications from Us. If We already provided Your information to a third party (such as a Marketing Affiliate) before You changed Your preferences or updated Your information, You may have to change your preferences directly with that third party as well.
-  * **You hereby acknowledge and agree that by accessing our Service, We may share your Personal Information with our Marketing Affiliates for the purpose of direct marketing. Unless You instruct Us otherwise and explicitly decline receiving marketing offers from Us and from our Marketing Affiliates, We and our Marketing Affiliates shall continue sending You marketing offers and Promotions.**
+**YOUR RIGHTS**
 
+If you reside in the EU or in other jurisdictions that afford you with the below rights, you may contact us at any time by email (at: [dpo@domainsholdingsgroup.info](mailto:dpo@domainsholdingsgroup.info) ), and request:
 
-  * **Children Information**
+  1. To access or delete any Personal Information relating to you
+  2. To change or update any Personal Information relating to you (for example, if you believe that your Personal Information is incorrect, you may ask to have it corrected or deleted). Note that you may also request that we will correct errors with regard to your Personal Information (except in cases where the information is required to be kept in its original format under any applicable laws and regulations);
+  3. That we will restrict or cease any further use of your Personal Information;
+  4. That we will provide the Personal Information you volunteered to us in a machine-readable format.
 
 
-  * Our Site is not intended for any person under the age of 18, and in particular children under the age of 13, and We will not knowingly collect personal information from minors. If we become aware that a user is under the age of 18, We will remove his or her information from our files. We reserve the right to request proof of age at any stage so that We can verify that children are not using the Service.
 
+Please note that these rights are not absolute and requests are subject to any applicable legal requirements, including gambling regulations and other legal and ethical reporting or document retention obligations. We may also rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion, in accordance with our internal policies.
 
-  * **How do we safeguard your information?**
+**HOW WE KEEP YOUR INFORMATION SECURED**
 
+We take great care in implementing and maintaining the security of the Services and your information. We have put in place appropriate physical and technological safeguards to help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online. These safeguards vary based on the sensitivity of the information that we collect and store.
 
-  * We take great care in implementing and maintaining the security of the Service and Your information. We employ industry standard procedures and policies to prevent unauthorized use of our users’ information and ensure the safety of such information. Although We take reasonable steps to safeguard information, We cannot be responsible for the acts of those who gain unauthorized access or abuse our Site, and We make no warranty, express, implied or otherwise, that We will prevent such access.
+We employ industry standard procedures and controls to ensure the safety of our users’ information, such as:
 
+  * Secure network topology, which includes intrusion prevention and Firewall systems;
+  * Encrypted communication;
+  * Authentication and Access Control;
+  * External and Internal audit tests; etc.
 
-  * Since We operate globally, it may be necessary to transfer Your Personal Information to countries outside the European Union. The data protection and other laws of these countries may not be as comprehensive as those in the European Union − in these instances We will take steps to ensure that a similar level of protection is given to Your Personal Information. **You hereby consent to transfer of Your  Personal Information to countries outside the European Union. **
 
 
+Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse the Services, and we make no warranty, express, implied or otherwise, that we will prevent such access.
 
-**Updates or amendments to the Privacy Policy**
+**CHANGES TO THE PRIVACY POLICY**
 
-  * We reserve the right to periodically amend or revise the Privacy Policy at our own discretion; Material changes will be effective immediately upon the display of the revised Privacy Policy. The last revision will be reflected in the “Last Revised” heading. Your continued participation in our Promotions, use of the Service and/or access to the Website, following the notification of such amendments on our Website, constitutes Your acknowledgement and consent of such amendments to the Privacy Policy and Your agreement to be bound by the terms of such amendments.
+We reserve the right to change this Privacy Policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this Privacy Policy on the Services and/or we will send you an e-mail regarding such changes to the e-mail address that you volunteered. Such substantial changes will take effect seven (7) days after such notice was provided on any of the above mentioned methods. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date, and your continued use of the Services after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
 
+**HOW TO CONTACT US**
 
-  * **Language of the Privacy Policy**
+If you have any general questions about the Services or the information that we collect about you and how we use it, please contact us via email at [dpo@domainsholdingsgroup.info](mailto:dpo@domainsholdingsgroup.info)  or by sending a letter to our EU representative:
 
+Domains Holdings Group Limited
 
-  * Where we provide You with a translation of the English language version of the Privacy Policy, You agree that the translation is provided for your convenience only and that the English language version of the Privacy Policy will govern your relationship with Us.
+Attn: Data Protection Officer
 
+108 Premier Building, Seychelles
 
-  * If there is any contradiction between the English language version of the Privacy Policy and a translation of the Privacy Policy, the English language version will take precedence.
-
-
-  * **How to contact us**
-
-
-
-If You have any questions or queries about our Privacy Policy, please contact Our DPO by email in the following address: 101greatgoals@gmail.com
+We will make an effort to reply within a reasonable timeframe. Please feel free to reach out to us at any time. If you are unsatisfied with our response, you can reach out to the applicable data protection supervisory authority.
