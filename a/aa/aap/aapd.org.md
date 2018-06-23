@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aapd.org privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221013308id_/http%3A//www.aapd.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapd.org privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623083101id_/http%3A//www.aapd.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The American Academy of Pediatric Dentistry
 
@@ -13,7 +13,7 @@ Chicago, IL 60611 
 
 By e-mail:         [slitch@aapd.org](mailto:slitch@aapd.org)
 
-Although we are committed to insuring your privacy, we may be required to disclose personal information when required by law and necessary to comply with a court order or legal process.
+Although we are committed to insuring your privacy, we may be required to disclose personal information when required by law and necessary to comply with a court order or legal process.The AAPD has also implemented privacy policies that are consistent with the European Union’s General Data Protection Regulation.
 
 **_Information We May Collect About You_**
 
