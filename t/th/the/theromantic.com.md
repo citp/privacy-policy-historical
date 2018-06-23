@@ -1,35 +1,59 @@
-> *The following text is extracted and transformed from the theromantic.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210145228id_/http%3A//theromantic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theromantic.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623233101id_/http%3A//theromantic.com/privacy.htm) for the most accurate reproduction.*
 
 # Contact Information
 
-### Privacy Statement for TheRomantic.com
+TheRomantic.com Privacy Policy
 
-TheRomantic.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: TheRomantic.com.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.TheRomantic.com (the “Site”).
 
-This site contains links to other sites. TheRomantic.com is not responsible for the privacy practices or the content of such Web sites.
+PERSONAL INFORMATION WE COLLECT
 
-Our site uses an order form for customers to request information, products, and services. We do NOT keep visitor’s contact information (like their email address). Contact information from the order form is only used to send orders to our customers. The Romantic Tip of the Week is the only mailing list we maintain. We do not sell or rent any addresses.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site.
+We collect Device Information using the following technologies:
 
-Some of the ads appearing on this Web site are delivered to you by DoubleClick’s Sonar Network, our Web advertising partner. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. Information about your visit to this site and other sites (but not your name, address, or other personal information) is used to serve ads to you on this site and other sites. This information is not collected by Sonar and DoubleClick for profiling. For more information about Sonar, cookies, and your right to “opt-out”, please click here. http://www.sonar.com/naiprivacy
+– “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
-TheRomantic.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to http://www.flycast.com/about_us/about-privacy.html
+– “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.  
+– “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-### Correct/Update
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, email address. We refer to this information as “Order Information.”
 
-This site gives users the following options for changing and modifying information previously provided.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-  1. email webmaster using the contact link at the bottom of the page
+HOW DO WE USE YOUR PERSONAL INFORMATION?
 
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:  
+Communicate with you;  
+Screen our orders for potential risk or fraud; and  
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-### Contacting the Web Site
+SHARING YOUR PERSONAL INFORMATION
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example we use ClickBank to process many of our orders and they maintain your complete order information. We also use Google Analytics to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-Michael Webb  
-TheRomantic.com  
-PO Box 1567  
-Dept W  
-Cary, NC 27512
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+DO NOT TRACK  
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+YOUR RIGHTS  
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact form on our website or information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+DATA RETENTION  
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+MINORS  
+The Site is not intended for individuals under the age of 18.
+
+CHANGES  
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+CONTACT US  
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by using the contact form on our website or by mail using the details provided below:
+
+PO Box 1567 , Cary, NC, 27512, United States
