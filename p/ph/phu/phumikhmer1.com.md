@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the phumikhmer1.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221040403id_/http%3A//www.phumikhmer1.com/page.php%3Fp%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phumikhmer1.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623164856id_/http%3A//phumikhmer1.com/page.php%3Fp%3D4) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy for www.PhumiKhmer1.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at phumikhmer@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at makarachany@gmail.com.
 
 At www.PhumiKhmer1.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.PhumiKhmer1.com and how it is used.
 
