@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remakingjunecleaver.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906070248id_/https%3A//momskoop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remakingjunecleaver.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623080545id_/https%3A//momskoop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MomSkoop
 
@@ -55,4 +55,51 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on May 5, 2016
+### **COOKIE POLICY:**
+
+Updated 5/22/2018
+
+We use cookies on our sites (www.momskoop.com and the subdomains associated with www.momskoop.com) (“our site”) for a number of purposes. They help us to provide you with a good experience when you browse our website, and also allow us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
+
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer’s hard drive.
+
+**We use the following cookies:**
+
+Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of the e-billing services.
+
+Analytical/performance cookies. They allow us to recognize and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users find what they are looking for easily.
+
+Functionality cookies. These are used to recognize you when you return to our website. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+
+Targeting cookies. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+
+You can find more information about the individual cookies we use and the purposes for which we use them below.
+
+**First-party (IT Governance Ltd) cookies**
+
+This website will set some cookies that are essential for the website to operate correctly. These cookies, none of which capture personally identifiable information, are as follows:
+
+Visitor ID – this cookie is a numeric value that identifies unique visitors and provides coherence and consistency to a site visit;  
+Page Number – this cookie identifies the page you are on;  
+Session ID – this cookie identifies your website session;  
+Test – this cookie checks whether or not your browser supports cookies; Order – this cookie ensures that your shopping basket works correctly.
+
+**Third-party cookies**
+
+Our websites will set several types of third-party cookie, and we do not control the operation of any of them. The third-party cookies which may be set include:
+
+Google Analytics – we use Google Analytics to collect data about website usage. This data does not include personally identifiable information. You can view the Google Privacy Policy here: http://www.google.com/policies/privacy/.
+
+AddThis – the AddThis cookie is used when you use the ShareThis service on our website to share a link with LinkedIn, Facebook, Twitter, etc. You can read the AddThis Privacy Policy here: http://www.addthis.com/privacy/privacy-policy.
+
+Facebook Pixels – we use Facebook Pixels to retarget website users for Facebook ads. This means that if you browse our website, you’re more likely to see our Facebook ads. You can view the Privacy Policy here: https://www.facebook.com/policy.php
+
+CommentLuv – we use CommentLuv to give blog commenters the option to include a link to one of their recent blog posts with their comment. This data improves the users experience. You can opt out of using CommentLuv when posting your comments. For more information on this privacy policy contact the developer here: https://wordpress.org/plugins/commentluv/‹
+
+Mailchimp– we use Mailchimp to collect names and email addresses when offering upgraded content in blog posts. This gives us the opportunity to continue to send out content to those people who signed up. This is always a double opt-in option. You can find Mailchimp Privacy Policy here: https://www.leadpages.net/privacy
+
+Askimet – we use Askimet to block spam comments. It’s a plug-in that blocks suspicious comments (including suspicious IP addresses) so that we don’t have to spend huge chunks of time deleting spam comments. You can view their terms of service right here: https://akismet.com/tos/
+
+**Amazon Affiliates** – we use Amazon Affiliates to provide a means for our site to earn advertising fees. You can find their privacy policy here: https://www.amazon.com/gp/help/customer/display.html
+
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
