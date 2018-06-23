@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidecostarica.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206091718id_/http%3A//www.insidecostarica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidecostarica.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623020643id_/https%3A//www.insidecostarica.com/privacy-policy) for the most accurate reproduction.*
 
 # Inside Costa Rica | Privacy Policy - Inside Costa Rica
 
@@ -28,19 +28,19 @@ If you do register, and in the process provide us with personally identifiable i
 
 Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.
 
-We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), by clicking on the “unsubscribe” link in any email we send to you or by replying to any email we send you.
+We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at postmaster@insidecostarica.com, by clicking on the “unsubscribe” link in any email we send to you or by replying to any email we send you.
 
 Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.
 
  **Access to Personally Identifiable Information**
 
-If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at privacy@insidecostarica.com.
 
  **Security**
 
 We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore as is the case with any organization – we are not in a position to guarantee the absolute security of your information.
 
-You may submit any questions you may have about our security procedures by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You may submit any questions you may have about our security procedures by emailing us at privacy@insidecostarica.com
 
  **Legal Disclaimer**
 
@@ -50,7 +50,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 If you have any questions or concerns regarding this privacy policy, or you wish to contact us by email or post, our contact information is as follows:
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+privacy@insidecostarica.com
 
 ICR News / Inside Costa Rica  
 APTDO 712  
