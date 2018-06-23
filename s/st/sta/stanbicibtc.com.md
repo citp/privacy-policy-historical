@@ -1,22 +1,40 @@
-> *The following text is extracted and transformed from the stanbicibtc.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221141722id_/https%3A//stanbicibtc.com/nigeriagroup/AboutUs/Footer/Privacy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanbicibtc.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623093131id_/http%3A//www.stanbicibtc.com/nigeriagroup/AboutUs/Footer/Privacy-and-security-statement) for the most accurate reproduction.*
 
 # Privacy and security statement | Stanbic IBTC Holdings - Nigeria
 
-**Privacy and security statement**
+Stanbic IBTC Holdings PLC and its subsidiaries (we, us, our) treat personal information we collect through this website, associated websites, mobile sites, mobile applications and other channels as private and confidential. 
 
-Your right to privacy and security is very important to us. We, Stanbic IBTC, treat personal information obtained through the use of this website as private and confidential and are committed to providing you with secure access to our online services.
+**Collection**
 
-**How we use the personal information we collect**
+We collect personal information directly from you, and where lawful and reasonable, we may collect personal information about you from third parties and publicly available sources, such as credit reporting and government agencies for the purposes set out below.  
 
-We need to collect personal or other information if we are to meet our obligations to you, to follow your instructions, to inform you of new services and to ensure that our business is geared towards your needs.
+**We use your personal information to:**
 
-**Use of technology to monitor your use of our website**
+ meet our responsibilities to you; 
 
-We gather and analyse information on our visitors' routine use of this website. We use this information to monitor which areas of the website are most frequently visited, to assist us to continue developing a value-added service. This information is pooled so individual personal information, behaviour or patterns cannot be identified.
+  * follow your instructions;
+  * process your personal information for ordinary business purposes (this includes to open and maintain your account, give effect to transactions, administer claims where       applicable, manage our risks and maintain our overall relationship with you);
+  * carry out statistical and other analyses to identify potential markets and trends, evaluate and improve our business (this includes improving existing and developing new products and services);
+  * tell you about services and products available within the Group;
+  * make sure our business suits your needs; and 
+  * comply with applicable regulations
 
-**Cookies**
 
-On some parts of our website we use so-called "cookie" technology. Cookie technology consists of small pieces of data or a small text file which is given to your browser by our webserver when you visit our website. This data is stored on your browser. The cookie is sent back to our webserver each time you visit our website. Cookies are not computer programs and do not run on a computer like programs do. They cannot gather information or function on their own. They cannot collect any personal information about you or your machine and cannot gather data or information about what you do on the Internet. Cookies merely enable us to provide a more valuable online experience to you. While you can set up your Internet browser to disable cookie technology, we do not recommend that you do this since some parts of this website and our online services may not function properly, or at all.
+
+Without your personal information, we may not be able to provide or continue to provide you with the products or services that you need.
+
+**Your Consent**
+
+We will process your personal information if you give us your consent willingly or in accordance with the law. You give your consent to us through our products and services agreements.
+
+We will only disclose your personal information if:  
+
+  * the law requires it
+  * we have a public duty to disclose the information
+  * our or your legitimate interests require disclosure; or
+  * you agreed that we may disclose your information
+
+
 
 **Mail, email or SMS promotions**
 
@@ -24,38 +42,91 @@ Provided that you have agreed to this, we may use your personal or other informa
 
 **Third parties**
 
-Whenever we commission other organisations to provide support services to us, we will bind them to our privacy policies as far as they may be required to have access to our customers' personal information to perform such services.
+We ask third-party service providers to agree to our privacy policies if they need access to any Personal Information to carry out their services. 
 
-Our website may contain links to or from other sites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the security or privacy practices employed by other sites. We recommend that you always read the privacy and security statements on such sites .
+We will not disclose your personal information to external organisations that are not our service providers, unless you gave us your consent, or unless we may do so by law, or if it is necessary for the conclusion or performance of our agreement with you. 
 
-**When we will disclose personal Information without consent**
+  **Transfer across borders**
 
-We will not disclose personal information to anyone outside the bank without your permission unless:
-
-  * We are compelled to do so by law or in terms of a court order;
-  * It is in the public interest to do so
-  * It is necessary to protect our rights
-
-
+Sometimes we will process your personal information in other countries, either to carry out your instructions or for ordinary business purposes. These countries may not have the same level of protection. If necessary, we will ask the party to whom we transfer your personal information to agree to our privacy principles, associated policies and practices.
 
 **Storing personal information**
 
-Personal information we collect via the website is stored in a secure environment and is not available to any person outside the bank.
+We store personal information as required by law
 
 **Our security practices**
 
-We are committed to providing secure online services. As such, all interactions with our transactional sites are protected through encryption that complies with international standards. Encryption is used to protect the transmission of your personal information when completing online application forms. Our Internet servers are protected by firewalls and intrusion detection systems. Access to information on these servers is restricted to authorized personnel only.
+Our security systems are designed to prevent loss, unauthorised destruction, damage and/or access to your personal information from unauthorised third parties.   
 
-We have also employed the services of independent security experts to test and advise us on the security of our systems.
+You should read the security tips and updates on our websites regularly to make sure that you benefit from our security systems, and stay updated with the latest fraud scams and trends.
 
-To ensure that you benefit from our security you should read the security tips we post on our site from time to time.
+**Marketing by electronic means  **
 
-**Privacy and security statements applying to specific online services**
+If you give us permission, we may use your personal information to tell you about products, services and special offers from us or other companies that may interest you. We will do this through email, text message (SMS), social media platforms or notify you on your mobile applications. If you later decide that you do not want us to do this, please contact us through our customer service channels to stop this service. 
 
-Different online services and Standard Bank entities may have their own privacy and security policies because the nature of their service or products demand a deviation from our general policy. These specific policies will apply to and exclusively govern your use of the particular online service.
+**Access to your personal information**
 
-**Right to amend this privacy and security statement**
+As our customer, you may:
 
-We reserve the right to amend this privacy and security statement at any time. All amendments to this privacy and security statement will be posted on the website. Unless otherwise stated, the current version shall supersede and replace all previous versions of this privacy and security statement.
+  *  ask us to give you a description of your personal information that we hold; and
+  *  ask us to correct or update your personal information through our customer service channels.  
 
-If you have any questions about this privacy and security statement please email us on [webmaster@standardbank.co.za](mailto:webmaster@standardbank.co.za)
+
+
+We may, if allowed by law, charge a fee for this.  
+
+**Our use of technology to follow your use of our websites**
+
+While you are using our websites or mobile applications, we automatically process certain personal information, such as visits to our websites. We use this information to find out which areas of our websites people visit most and to monitor the use of our websites. This helps us to add more value to our services. This information is gathered in such a way that we do not get personal information about any individual or their online behaviour on other websites.
+
+**Cookies**
+
+We use cookie technology on some of our websites. A cookie is small pieces of text that is saved on your Internet browser when you use our websites. The cookie is sent to our computer each time you visit our websites. Cookies make it easier for us to give you a better experience online. You can stop your browser from accepting cookies, but if you do, some parts of our websites or online services may not work. We recommend that you allow cookies.
+
+**Links to other websites  **
+
+Our website, related websites and mobile applications may have links to or from other websites. Although we try to link only to websites that also have high privacy standards, we 
+
+are not responsible for their security, privacy practices or content. We recommend that you always read the privacy and security statements on these websites.
+
+**Monitoring of electronic communications   **
+
+We communicate with you through different methods and channels. If allowed by law, we may record and monitor electronic communications to make sure that they comply with our legal and regulatory responsibilities and internal policies.  
+
+**Monitoring and analysis**
+
+We will monitor and analyse your account for credit, fraud, compliance and other risk-related purposes as required by law. 
+
+**Social media**
+
+We operate and communicate through our designated channels, pages and accounts on some social media sites to inform, help and engage with our customers. We monitor and record comments and posts made about us on these channels so that we can improve our services.
+
+The general public can access and read any information posted on these sites. We are not responsible for any information posted on those sites other than the information posted by our designated officials. We do not endorse the social media sites themselves, or any information posted on them by third parties or other users.
+
+We do not give investment, tax or other professional advice on social media sites. You should always get independent advice before making any decisions.
+
+When you engage with us through social media your personal information may be processed by the site owner; this process is outside our control and may be in a country outside Nigeria that may have different privacy principles. 
+
+Social media sites are not appropriate forums to discuss our customers' products or financial arrangements. We will not ask you to share personal, account or security information on social media sites. 
+
+We regularly update and monitor our social media accounts and welcome feedback and ideas sent to us through these channels. We try to join conversations whenever possible, but may not reply to all messages sent to official Stanbic IBTC social media accounts. 
+
+Emerging themes and helpful suggestions will be given to the relevant staff for consideration, but we cannot guarantee that any themes or suggestions will be acted on.
+
+Your rights
+
+We will take note of your rights under applicable privacy and data protection laws, especially your right to object, on reasonable grounds, to certain types of processing.  
+
+You have the right to query a decision that we make about a product or service that you have applied for and that was made solely by automated means. 
+
+**Right to change this privacy statement**
+
+We may change this privacy statement. We will publish all changes on our websites. The latest version of our privacy statement will replace all earlier versions, unless it says differently.
+
+*** Subsidiaries  **
+
+Stanbic IBTC Asset Management Limited, Stanbic IBTC Bank PLC, Stanbic IBTC Capital Limited, Stanbic IBTC Insurance Brokers Limited, Stanbic IBTC Investments Limited, Stanbic IBTC Nominees Limited, Stanbic IBTC Pension Managers Limited, Stanbic IBTC Stockbrokers Limited, Stanbic IBTC Trustees Limited and Stanbic IBTC Ventures Limited.
+
+**Queries and complaints**
+
+If you have any queries or complaints about privacy, please contact  **+234 1 422 2222**  or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#10536563647f7d7562737162757e797775627971506364717e727973797264733e737f7d) 
