@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cougarlife.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115105928id_/http%3A//cougarlife.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cougarlife.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623051152id_/http%3A//cougarlife.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Cougar Life
 
@@ -154,6 +154,6 @@ This Privacy Policy is current as of the Effective Date set forth above. In the 
 
 **Contact Us / Complaints**
 
-If you have any questions related to the foregoing or any of the terms or conditions of this Privacy Policy, or if you wish complain to us in writing about how we have handled your personally identifiable information, please feel free to contact us at privacyofficer@rubylife.com. All other inquiries should be sent using our [_Contact Us_](https://cougarlife.com/contact_us) __ section.
+If you have any questions related to the foregoing or any of the terms or conditions of this Privacy Policy, or if you wish complain to us in writing about how we have handled your personally identifiable information, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection). All other inquiries should be sent using our [_Contact Us_](https://cougarlife.com/contact_us) __ section.
 
 We aim to resolve all complaints promptly.
