@@ -1,205 +1,171 @@
-> *The following text is extracted and transformed from the perthnow.com.au privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231180852id_/http%3A//www.newscorpaustraliaprivacy.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perthnow.com.au privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623100443id_/http%3A//www.sevenwestmedia.com.au/privacy-policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | News Corp Australia
+# Seven West Media Privacy Policy (Updated August 2017) » Sevenwest
 
-  * 1\. INTRODUCTION
-  * 2\. WHAT INFORMATION DO WE COLLECT?
-  * 3\. HOW DO WE USE YOUR INFORMATION?
-  * 4\. HOW DO WE PROTECT YOUR INFORMATION?
-  * 5\. HOW CAN YOU ACCESS YOUR INFORMATION?
-  * 6\. HOW CAN YOU OPT OUT?
-  * 7\. OTHER IMPORTANT INFORMATION FOR YOU
-  * 8\. HOW YOU CAN CONTACT US
-  * 9\. LIST OF INCLUDED COMPANIES
+**About this Privacy Policy**
 
-  
+This Privacy Policy has been published to provide a clear and concise outline of how and when personal information and other data is collected, disclosed, used, stored and otherwise handled by Seven West Media Limited and its related companies and associated entities (" **Group** "), including but not limited to Seven Network (Operations) Limited, Pacific Magazines Pty Limited (“ **Pacific** ”), West Australian Newspapers Limited (“ **WAN** ”) and Channel 7 Telethon Trust (“ **Telethon** ”). The Policy relates to personal information and other data collected by any means and by any technology and assumes that you are an Australian resident.
 
+By using the Group’s websites, products or services, you consent to the Group using your personal information and other data as set olut in this Privacy Policy.  If you are under the age of 15, please provide this Privacy Policy to your parent or guardian before providing us with your personal information.
 
-### 1\. INTRODUCTION
+The Group also has a policy (Seven West Media’s Print and Print (Online) Privacy Policy) which applies to Pacific’s and WAN’s print and online journalism activities, and a policy (Seven West Media’s Credit Policy – Privacy) which outlines how credit information and credit eligibility information is managed by the Group.  Information regarding how the Group handles the personal information of staff is available through Human Resources. The Group treats the handling of your personal information very seriously. To that end, the Group has systems and procedures in place to protect your privacy in relation to the handling of your personal information.
 
-This Privacy Policy applies to each company listed in Section 9 below (“Company”, “us” or “we”). It explains how we collect, use and disclose information about you.
+The Group abides by the Australian Privacy Principles (“ **APPs** ”), which provide a scheme in relation to the collection, disclosure, use and storage of personal information. The Group's objective is to handle information responsibly and provide you with some control over the way information about you is handled. 
 
-This Privacy Policy applies to information which identifies you, or from which you can reasonably be identified, such as your full name or name and postal address ("personal information"). This Policy describes how we handle the personal information we collect when we provide our services. Our services include: home delivery subscription, digital services subscription, advertising, websites, mobile sites, applications (“apps”), and widgets, competitions and customer surveys (collectively, “Company Services”).
+ **The Privacy Act provides for exemptions:**
 
-This Privacy Policy does not apply to personal information collected by our journalists and photographers for the purpose of gathering news. We handle the information we collect in the course of journalism in accordance with the Australian Press Council Privacy Standards, which can be found at: <http://www.presscouncil.org.au/privacy-principles>.
+  1. in relation to employee records (being records relating to a current or former employment relationship between the Group and the individual); and
+  2. from coverage in relation to the journalism activities of the Group (as explained further at section 3).
 
-This Privacy Policy otherwise applies to information about anyone who interacts with us, including advertisers, subscribers and people who use Company Services (both registered and unregistered users).
 
-### 2\. WHAT INFORMATION DO WE COLLECT?
 
-We collect personal information to provide Company Services and for our business operations. If you choose not to provide the information we request from you, we may not be able to provide you with the services you require. We describe the main types of personal information we collect and the main reasons why we collect that information below.
+Where these exemptions apply, they will take precedence over this Policy.
 
-**Registration Information** is the information you provide to Company when you register for or acquire a Company Service. This may include information you provide us to: 
+ **1.  Collection of Personal Information and other data**
 
-  * create an account;
-  * become a subscriber;
-  * become an advertiser;
-  * post comments;
-  * receive a newsletter; or
-  * enter a competition.
+Personal information is information or opinion about an individual, or an individual who is reasonably identifiable (whether the information or opinion is true or not, and whether the information or opinion is recorded in a material form).  The nature of personal information collected by the Group comprises information such as an individual's name, address, phone number, fax, e-mail address, birth date and gender, as well as interests and information about your viewing of our programs and services, your transactions with us and with some of our business partners.
 
+The purposes for collecting such information include to arrange, conduct and promote the Group’s media activities (including but not limited to production, broadcasting and publishing), understand our audiences and provide you with requested products and services.
 
+The Group may collect personal information about you in a number of ways.  These include, but are not limited to situations in which you set up an account with a company within the Group (for example a magazine or newspaper subscription), request to receive products or services from the Group, provide products or services to the Group, enter a competition or voting forum, utilise the Group’s services (including, but not limited to IPTV services, websites, mobile phone apps, blogs and online forums), complete a survey or questionnaire, or when you communicate with the Group by telephone, fax, writing, email, or any other electronic means. 
 
-Registration Information includes, for example, your name, delivery or postal address, email address, gender and birthday.
+When you are using a service we provide to you over the internet (for example a website, mobile phone app or digital edition of one of the Group’s publications), we may use technology (including third party technology such as Google Analytics) to collect information as to your activities on such services associated with the Group including your IP Address and/or the type of operating system you use and/or the domain name of your Internet Service Provider, software and hardware attributes and the web-page you request. 
 
-You are able to use some Company Services without providing any personal information (for example when browsing our digital products as a casual user) or by providing an alias. We usually tell you when you are able to use Company Services in this way.
+In addition, the Group may set and access cookies and other similar technologies (collectively “ **Cookies** ”) on your computer or other internet-enabled device and may let other companies (such as third party tracking service providers, third party advertisers and ad network companies such as Google, Lotame and Rubicon) set and access their Cookies on your device (subject to their own privacy policies). Cookies are used to improve and personalise your experience of particular products and services, measure your use of those products and services and show you relevant advertising.  If you do not wish for data to be collected through the use of Cookies, see [here](http://www.sevenwestmedia.com.au/assets/Uploads/privacy-doc6.pdf "Privacy Policy").[](http://www.sevenwestmedia.com.au/assets/Uploads/privacy-doc1.pdf "Privacy Policy")
 
-**Public Information and Posts** include comments or content that you post to the online Company Services and the information about you that comes with those posts. This may include your name, user name, comments, likes, tweets, status, profile information and picture(s). Public Information and Posts are available to everyone who views our websites and may be displayed in search results on external search engines, even after you cancel your account with us.
+The Group also uses third party proprietary measurement software (such as OzTAM, Nielsen and Google Analytics) on our websites and apps which enables us to collect audience ratings information and anonymous viewing data which assists us to understand how visitors engage with our websites and apps. To learn more and for information on how to opt out of such activities see [here](http://www.sevenwestmedia.com.au/assets/Uploads/privacy-doc6.pdf).
 
-**Information from third party Social Media.** If you access or log-in to a Company Service through a third party social media service or connect a Company Service to your social media profile, we may also include information from that social media service. This may include: 
+The Group or its agents will generally collect personal information from you directly. For example, the Group may collect personal information when you subscribe to one of the Group’s publications, log on to a website or service by providing us with your email address and password, complete a survey, become a member, attend a function or event, enter a competition, make a purchase, provide a resume or enter an agreement.  There may be other occasions when the Group sources personal information from third parties, such as from Facebook or Google when you log on to a website or service using your Facebook ID or Google ID, or from recruitment agencies when you apply for a position with us via a recruitment agency. 
 
-  * your user name for that service;
-  * any information or content you have permitted the social media service to share with us (such as your profile picture(s), email address followers or friends lists); and
-  * any other information you have made public (including other posts you make using your social media profile).
+You may choose to deal with the Group anonymously or under a pseudonym where lawful and practicable (i.e. provided we are still able to provide the relevant service or do business with you without that information).  For example, it might not be practical to deal with you anonymously if we need to process a payment, delivery goods or services or send personalised communications to you.
 
+ **2\. Use & Disclosure of Personal Information and other data**
 
+Personal information and other data collected by the Group may be shared with related companies within the Group.
 
-We do not collect your social media profile password. When you access Company Services through your social media profile, or when you connect a Company Service to your social media profile, you authorise us to collect and handle your personal information in accordance with this Privacy Policy.
+The Group may use and disclose your personal information and other data for the purpose for which it was initially collected, namely to arrange, conduct and promote the Group’s media activities (including but not limited to production, broadcasting and publishing), establish and administer your access to our websites and services, provide you with requested products and services (and renewals thereof), as well as all purposes necessary and incidental to the provision of goods or services by the Group or by anyone on behalf of the Group.
 
-**Activity Information** – cookies and other technologies. When you visit Company's websites (including to access and use Company Services) we may collect information about your visit. For example, in order to connect you to the Company Services, our servers receive and record information about your computer, device, and browser, which may include your IP address, browser type, and other software or hardware information. If you access the Company Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information from that device.
+In addition, the Group may use and disclose your personal information and other data for purposes related to the initial purpose of collection if that other purpose would be within your reasonable expectations.  Related purposes include analysing your personal information for the purpose of identifying and displaying content which may be of interest to you,  referring you to products and services and/or production and broadcast activities and/or media activities that may be of benefit or interest to you, displaying targeted advertising based on those interests, improving our services, conducting research, contacting you, internal auditing and administration, adding your name to a guest list or invitation list, or assisting the Group to carry out auditing, administration, or product enhancement.
 
-For more information about cookies and tracking technologies and how to block cookies, see our [Cookie Policy](https://web.archive.org/cookies).
+Without limiting the foregoing, this may involve matching data with third party data held by our business partners using the safe haven environment of a data service provider), or using data to create an anonymous link to third party data held by our business partners and ad network companies and placing that link in  Cookies for the purpose of the Group and its business partners and ad network companies tailoring information you may be more interested in and sending you targeted advertising when you use websites or other services over the internet, including those supplied to you by the Group as well as by third parties unaffiliated with the Group.  This is known as online behavioural advertising or interest-based advertising and information on how to opt out of such activities can be found [here](http://www.sevenwestmedia.com.au/assets/Uploads/privacy-doc6.pdf).
 
-**Information from Other Sources.** We may supplement the information we collect about you with information from other sources. This may include information from publicly available sources (such as other published content) and data providers, as well as information from our business partners or related and affiliated companies in Australia or internationally.
+Additionally, if any member of the Group sells all or part of its business or makes a sale or transfer of a substantial part of its assets or is otherwise involved in a re-organization or merger or transfer of all or a material part of its business, or where a member of the Group ceases to be the licensed distributor of particular products and such distribution is to be taken over by a third party,, the Group may transfer any and all personal information we have collected from you to the relevant third party.  The Group may disclose your personal information without your consent if the disclosure is:
 
-**Information in relation to other persons who deal with us.** When you apply for a job or contract with us we may collect information about you to help us decide whether to offer you the job or contract. For example, we may collect information about how to contact you, your education or work history, or other information included in your CV or résumé. We may collect this information from you, or from any recruitment consultant, your previous employers, or other referees. This Privacy Policy does not apply to our collection, use and disclosure of information: 
+a. required or authorised by law;
 
-  * we hold about you once you become an employee;
-  * we keep after your employment relationship with us ends,
+b. required in order to investigate an unlawful activity;
 
+c. required by an enforcement body for investigative activities; or
 
+d. necessary to prevent a serious and imminent threat to a person's life, health or safety, or to public health or safety.
 
-where that collection, use or disclosure relates to your employee relationship with us and the records we hold about you as an employee. Company also collects personal information about our suppliers and individuals employed by our suppliers (including service and content providers), contractors, dealers, related companies, agents and corporate customers. We will explain why we are collecting this information and how we will use that information, unless it obvious from the circumstances. 
+On some occasions your personal information and other data  may be transferred to or processed by  service providers  in overseas countries including but not limited to the US, or even in ‘the cloud’ (which may involve processing in more than one country) in order for such service providers to perform services on our behalf.  The most current list of those countries can be found [here. ](http://www.sevenwestmedia.com.au/assets/Uploads/privacy-doc4.pdf)
 
-### 3\. HOW DO WE USE YOUR INFORMATION?
+Like most business organisations, the Group performs some of its functions under licence and also contracts out some functions and relies on third party suppliers to conduct specialised activities such as website management, share registry services, mail out services, call centre services, data analysis and processing services, insurance broking, vehicle and petrol supply, supply of equipment, engineering services, security services, financial services, credit reporting services and travel and hospitality services.  Personal information may be provided to these licensors (where contractually required) and to theses suppliers in order to enable them to perform the agreed tasks.
 
-We use the information we collect about you to provide Company Services to you. As part of our service to you we may use your personal information: 
+Some companies that the Group is affiliated with have their own privacy policies and where they collect personal information from you for their own business, your personal information will be handled in accordance with their Privacy Policy.
 
-  * to fulfill administrative functions associated with these services (for example billing, credit and account management); 
-  * to enter into contracts with you or third parties; 
-  * measure and improve Company Services and their individual features; 
-  * improve your experience by delivering content (including editorial, marketing and advertising) we think you will find relevant and interesting; 
-  * for other marketing and client relationship purposes;
-  * allow you to comment on content, and participate in games, competitions, or rewards programs; 
-  * provide you with customer support; and 
-  * respond to your enquiries.
+ **3\. Collection, Use and Disclosure of records collected in the course of journalism**
 
+As a media organization involved in the collection, preparation and dissemination of news, current affairs and information, the journalistic activities and practices of the Group are exempt from the APPs, however the Group is committed to observing standards in relation to privacy in the context of its journalism activities as set out in the following:
 
+a. the Commercial Television Industry Code of Practice, which applies to the Group’s television broadcasting activities; and
 
-Where your personal information is contained in an advertisement which we publish for you, we may also use your information to publish that advertisement in other media. We do this in accordance with our terms and conditions for the initial publication. If you include personal information in any posts or in a letter, email or text message to an editor or journalist, we may publish your name and suburb to identify you as the author of that post if we publish it in any media. 
+b. Seven West Media’s Print and Print (Online) Privacy Policy, which applies to WAN’s and Pacific’s print and online journalism activities (in addition to this Privacy Policy applying generally to WAN’s and Pacific’s handling of personal information outside of their journalism activities).
 
-When we collect your information, we may explain that we will use and disclose your information in other ways. For example, if you win a competition, we may disclose your information to relevant regulatory authorities and publish your details in accordance with the competition terms.
+ **4\. Direct marketing**
 
-We may also remove certain information or alter the information we collect about you so you can no longer be identified from that information. We do this so that we can use it or disclose it to third parties for other purposes.
+From time to time the Group may use your personal information and other data to identify programs, products and services that may be of interest to you.  The Group may use your personal information to send you information regarding the Group's programs, products and services, and those available through the Group's business partners.
 
-We use the information we collect about you for the following additional purposes:
+From time to time, the Group may also provide your personal information to carefully selected third parties for the purpose of them providing you with information regarding products and services specific to your needs, and to help the Group conduct product enhancement activities.
 
- **Research and data analysis.** We may also use your information for research and data analysis to improve Company Services. We may do this research or engage a service provider to do this.
+If you do not wish to receive direct marketing information from members of the Group or third parties (as applicable) as outlined in this section, please let us know by using the unsubscribe function in the communication you receive, or alternatively by contacting [privacy@seven.com.au](mailto:privacy@seven.com.au)(or if you are in Western Australia: [privacy@wanews.com.au](mailto:privacy@wanews.com.au).) We will take prompt steps to ensure that you do not receive any such direct marketing information in future.
 
-**To allow service and content providers to assist us in providing and managing the Company Services.** We may make your information available to certain third party service and content providers who help us manage or provide the Company Services or provide Company with related services. This might include providers of data cloud services, website hosting service providers, debt collection service providers and direct marketing service providers. These third parties may be located in a range of different countries including the United Kingdom, United States of America and Singapore. Our agreements with these third party providers require them not to use your information except for the purpose for which your information was provided. We also require them to comply with relevant privacy laws.
+ **5\. Personal Information Quality** The Group's objective is to ensure that all personal information collected by the Group is accurate, complete and up-to-date. To assist the Group in achieving its objective, please contact the Privacy Officer if any of your details change. Further, if you believe that the information the Group holds is not accurate, complete or up-to-date, please contact the Privacy Officer on [privacy@seven.com.au](mailto:privacy@seven.com.au) (or if you are in Western Australia, privacy@wanews.com.au) in order to have the information corrected. 
 
-**To allow social sharing functionality.** If you log in with or connect a social media profile with your Company Services account, we may share your personal information (including your user name, picture, tweets, likes and posts) with other Company Services users and your friends or followers linked to your social media profile. We may also share the same information with the social media service provider.
+ **6\. Personal Information Security  
+**
 
-By logging in with or connecting your Company Services account with a social media profile, you authorise us to share your personal information with the social media service provider, other users and your friends or followers. You understand that the social media service provider may handle this information in accordance with its own privacy policy. If you do not want your personal information shared in this way, please do not connect your social media profile with your Company Services account and do not participate in social sharing on Company Services.
+The Group is committed to keeping your personal information secure, and we will take reasonable precautions to protect your personal information from unauthorised access, loss, release, misuse or alteration.
 
-**To provide co-branded services and features.** We may offer co-branded services, such as competitions or other promotions together with a third party (“Co-Branded Services”). When this happens, we may share the information you submit in connection with the Co-Branded Service with the third party, or with our service providers who assist us to host Co Branded Services. The third party’s use of your information will be governed by their own privacy policy. We will obtain your consent to share your personal information with the third party. If you do not provide this consent, you may not be able to access that co-branded service.
+Your personal information and other data may be stored in hard copy documents, but is generally stored electronically on the Group's software or systems or on those of our third party service providers.
 
- **To deliver relevant advertisements and content.** Company and our advertisers may use the information we collect about you to provide you with relevant advertisements and content when you use Company Services. We may also use your personal information so that relevant advertising can be provided to you when you use services or visit websites of other organisations. For more information about this, please see our [Data Usage Policy](https://web.archive.org/data). In Section 6, below, we provide information about how to choose what advertisements you see when using the Company Services.
+The Group maintains physical security over its paper and electronic data stores, such as locks and security systems. The Group also uses computer and network security technologies such as firewalls, intrusion prevention software, antivirus software, external email filtering and passwords to control and restrict access to authorised staff for approved purposes and to secure personal information from unauthorised access, modification, disclosure, misuse and loss.
 
-**To contact you.** From time to time, we may send you promotional materials or other information which we think may interest you. For example, we may send you an invitation to participate in various activities (such as customer surveys) or special offers.
+Whilst the Group takes all reasonable steps to secure your personal information from loss, misuse and unauthorised access, you acknowledge that all activities in which you intentionally or unintentionally supply information to the Group carries an inherent risk of loss of, misuse of, or unauthorised access to such information.  The Group cannot be held responsible for such actions where the security of the personal information is not within the control of the Group, or where the Group cannot reasonably prevent such incident. 
 
-**To share with our Company Affiliates.** Company may share your information with our related companies located in Australia or in other countries, including the United Kingdom and United States of America. If we share your information with our related companies, they can use your information in accordance with this Privacy Policy. However, if you access or use a service provided by one of our related companies, you should consider the privacy policy of that company, as it may be different to this policy.
+Additionally, you acknowledge that the collection and use of your personal information by third parties may be subject to separate privacy policies and/or the laws of other jurisdictions.
 
-**To share with business partners.** Company may share your information with business partners so they can send you marketing communications. This will only happen if you have expressly agreed to this.
+  **7\. Access To Personal Information**
 
- **To protect the rights of Company and others.** We may share your information with other third parties where we are lawfully entitled to do so. This includes when we have a reasonable basis to believe that sharing your information is necessary to: 
+You may request access to the personal information the Group holds about you.
 
-  * protect, enforce or defend the legal rights, privacy, safety, or property of Company, our related companies or their employees, agents and contractors (including enforcement of our agreements and our terms of use);
-  * protect the safety, privacy, and security of users of the Company Services or members of the public;
-  * protect against fraud or for risk management purposes;
-  * comply with the law or legal process in any country; or
-  * respond to requests from public and government authorities.
+The procedure for gaining access is as follows:
 
+a. All requests for access to your personal information should be made in writing and addressed to the Privacy Officer.
 
+b. You should provide as much detail as possible regarding the business entity, department or person to whom you believe your personal information has been provided, and when, as well as detail regarding the type of information to which you are seeking access. This will allow the Group to process your request faster.
 
-**To complete a merger or sale of assets.** If Company sells all or part of its business or assets, we may disclose your information to the party or parties involved in the sale transaction. We may also do this if Company is involved in a merger or transfer of all or a material part of its business. We may disclose your information prior to the sale, transfer or merger so that the party or parties involved can consider the transaction and complete any due diligence. 
+c. The Group will acknowledge your request within 14 days, and access will usually be granted within 14 days, or if it is more complicated, 30 days. The Group will inform you if this timeframe is not achievable.
 
-### 4\. HOW DO WE PROTECT YOUR INFORMATION?
+d. You will be asked to verify your identity.
 
-We use reasonable measures to safeguard the personal information we hold about you from loss, theft and unauthorised use, disclosure or modification, including:
+e. A fee may apply to such access in the event that a request for access is onerous or time consuming. Such a fee will cover staff costs involved in locating and collating information, and reproduction costs.
 
- **System security** We take reasonable steps to prevent unauthorised access to our online and computerised systems by using measures such as firewalls, data encryption, virus detection methods, and password restricted access.
+f. Depending on the circumstances, you may be forwarded the information by mail or email, or you may be required to personally inspect your records at the appropriate place.
 
-**Property security** At our business premises, we may engage security personnel and use ID cards to restrict access to those premises.
+g. You will be given the opportunity to correct any personal information that is no longer accurate.
 
-**Staff training** We train our staff to handle your information in accordance with this Privacy Policy and applicable privacy laws.
+In some circumstances, the Group may not be in a position to provide access. Such circumstances include the following:
 
-**Third parties** We take reasonable steps to ensure that third parties who store or assist us to store your personal information adopt appropriate security measures. For example, our agreements with our data cloud service providers require those providers to perform appropriate security testing and comply with appropriate security standards. We also require the provider to keep our data separate from the data of their other clients and promptly notify us if there is any actual or suspected security breach of our data.
+a. access would create a serious threat to safety;
 
-### 5\. HOW CAN YOU ACCESS YOUR INFORMATION?
+b. providing access will have an unreasonable impact upon the privacy of other individuals;
 
-If you would like to access, review, correct or update your personal information, you may contact us (see section 8). When you contact us, please provide your name and contact details (including your email address, address, and telephone number) and specify clearly what information you would like to access, review, correct or update. We will need to share your information with others who can help us respond to your request. We will try to respond to your request as soon as reasonably practicable. If we refuse your request we will generally tell you why.
+c. denying access is required or authorised by law;
 
-### 6\. HOW CAN YOU OPT OUT?
+d. the request is frivolous or vexatious;
 
-**Online advertising.** You can block certain advertisements by blocking or deleting cookies in your browser settings. However, we use cookies to provide some of our Company Services and you may not be able to use these Company Services if you do this. For more information about how we use cookies, see our [click here](). Some third party providers use tracking technology other than cookies to deliver targeted advertisements to you. You can read more about this type of advertising at: [http://youronlinechoices.com.au.](http://youronlinechoices.com.au/) To opt out of us serving you this type of advertising on our network, go to [click here](https://preferences.news.com.au/preferences).
+e. legal proceedings are underway or anticipated, and the information would not be accessible through the process of discovery in the proceedings;
 
- **Direct marketing.** If you do not want to receive promotional messages from us, you can change your account settings or follow the unsubscribe instructions which we include at the bottom of our emails and text messages. If you have installed our app, you can stop push notifications by changing the settings in the app or on your mobile device.
+f. negotiations may be prejudiced by such access;
 
-If you have linked any of your social media profiles to your account for any Company Service, you can cancel that link by changing your account settings. If you need any assistance with changing your account settings, please call us (see Section 8).
+g. providing access is likely to prejudice law enforcement;
 
-### 7\. OTHER IMPORTANT INFORMATION FOR YOU
+h. providing access is likely to prejudice action being taken or to be taken with respect to suspected unlawful activity or serious misconduct relating to the Group’s functions or activities; or
 
-**Updates to Privacy Policy.** Company may modify this Privacy Policy at any time. The date at the top of this Privacy Policy tells you when it was last updated. Any changes to this Privacy Policy become effective when we publish it online. If you do not agree with changes to this Privacy Policy, you may be able to terminate your account with us.
+i. access would reveal a commercially sensitive decision making process.
 
-**Location of Data.** Some Company Services are hosted in and managed outside of Australia, including in the United Kingdom, the United States of America and Singapore. In dealing with Company, you consent to this practice, understanding that your personal information may be accessible from or transmitted outside Australia.
+If the Group denies access to your personal information, it will provide you with reasons in writing.
 
-**Linked Services.** Company Services (including Company's website) may display links to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, competitions or applications developed and maintained by unaffiliated companies. Company is not responsible for the privacy practices of these unaffiliated companies. Once you leave the Company Services or click an advertisement you should check the privacy policy of that company to understand how it will handle your information.
+ **8\. Changes To This Policy  
+**
 
-**Collection of Personal Financial Information by a Payment Service provider.** Sometimes we allow you to use an unaffiliated payment service to purchase a product or make payments for Company Services (“Payment Service”). If you use a Payment Service, you will be directed to the webpage for that Payment Service. Any information you provide when using a Payment Service may be collected and used by the Payment Service provider in accordance with that provider's privacy policy. You should check the provider's privacy policy to understand how it will handle your information.
+The Group may, without notice, change this Policy from time to time for any reason and will update the Policy accordingly.  We ask that you visit our website periodically in order to remain up to date with such changes.
 
-**Data Retention.** Even after you cancel your account with us, we will retain your information for as long as we reasonably need it for the purposes outlined in this Privacy Policy. For example, we may retain your information to prevent fraud, or to maintain systems security. We may also retain your information if required or allowed to by law, regulation or relevant standards and codes of conduct, or to fulfil our contractual obligations to a third party. In certain circumstances, including where we are prevented by technical or systems constraints, we may not be able to remove all of your personal information.
+ **9\. Complaints**
 
-If you share your information with a social media service (including by posting information to that service), this information may not be removed even after you cancel your account. If you delete your account with us, your account information may still be accessible by others for a short period of time because of the way that your information is stored on the internet.
+If you believe that your privacy has been infringed or a breach of the APPs has occurred, you are entitled to complain. All complaints should initially be in writing and directed to the Privacy Officer. The Group will respond to your complaint as soon as possible, within 14 working days, to let you know who is responsible for managing your query. The Group will try to resolve the complaint within 30 working days. When this is not possible the Group will contact you to provide an estimate of how long it will take to handle the complaint.
 
-**Sensitive Information.** We ask that you not provide us with any sensitive information (such as information about your racial or ethnic origin, religious or other beliefs, health, criminal background or trade union membership) when using Company Services, or otherwise. If you do provide us with any sensitive information, you consent to us collecting and handling that information in accordance with this Privacy Policy.
+If you believe the Group has not adequately dealt with your complaint, you may complain to the Privacy Commissioner whose contact details are as follows:
 
-**Complaint.** If you think we have breached the Privacy Act 1988 (Cth) or other applicable privacy laws, you can contact us (see Section 8) to make a complaint. When you contact us, please include your name and contact details (including your email address, address, and telephone number) and clearly describe your complaint. We will need to share your information with others who can assist in responding to your complaint. We will contact you within 7 days to let you know the next steps in resolving your complaint and to obtain any further information we need to consider your complaint. As soon as reasonably practicable and in any event within 30 days, we will let you know our decision. If you are not satisfied with our response, you may refer your complaint to the Office of the Australian Information Commissioner (www.oaic.gov.au).
+Officer of the Australian Information Commissioner (OAIC)  
+Phone: 1300 363 992  
+Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)  
+GPO Box 5218 Sydney NSW 2001
 
-### 8\. HOW YOU CAN CONTACT US
+ **10\. Privacy Officer's Contact Details**
 
-If you have questions about this Privacy Policy, or to request a hard copy, please contact our Privacy Officer at:
+Please address all written correspondence to:
 
-Email: | [privacy@news.com.au](mailto:privacy@news.com.au)  
----|---  
-Mail: | National Privacy Officer, News Limited, 2 Holt Street, Surry Hills, NSW 2010  
-Telephone:  | [+61 2 9288 3000](tel:+61292883000)  
-  
-### 9\. LIST OF INCLUDED COMPANIES
+Privacy Officer, c/- Legal Department  
+Seven West Media Limited  
+PO Box 777, Pyrmont NSW 2009  
+Email: [privacy@seven.com.au](mailto:privacy@seven.com.au)
 
-  * Advertiser Newspapers Pty Ltd (ACN 007 872 997)
-  * Advertiser News Weekend Publishing Company Pty Ltd (ACN 007 562 950)
-  * Australia Independent Business Media Pty Ltd (ACN 126 233 743)
-  * Business Spectator Pty Ltd (ACN 126 233 725)
-  * Davies Brothers Pty Limited (ACN 009 475 754)
-  * Duvir Holdings Pty Ltd (ACN 068 007 474)
-  * Gold Coast Publications Pty Ltd (ACN 009 696 511)
-  * Kidspot.com.au Pty Ltd (ACN 111 607 866)
-  * Leader Associated Newspapers Pty Ltd (ACN 004 337 446)
-  * Messenger Press Pty Ltd (ACN 007 563 439)
-  * Nationwide News Pty Ltd (ACN 008 438 828) 
-  * News Digital Media Pty Ltd (ACN 000 529 457)
-  * News Life Media Pty Ltd (ACN 088 923 906)
-  * News Limited (ACN 007 871 178)
-  * Perth Print Pty Ltd (ACN 081 584 223)
-  * Queensland Newspapers Pty Ltd (ACN 009 661 778)
-  * Shespot.com.au Pty Ltd (ACN 138 256 961)
-  * Sunshine Coast Publishing Pty Ltd (ACN 090 524 799)
-  * The Cairns Post Pty Limited (ACN 009 655 752)
-  * The Geelong Advertiser Pty Ltd (ACN 004 090 055) 
-  * The Herald & Weekly Times Pty Limited (ACN 004 113 937)
-  * The North Queensland Newspaper Company Pty Ltd (ACN 009 655 690)
+If you are in Western Australia, please address all written correspondence to:
 
-
-
-Last updated: 6 September 2016
+Privacy Officer, c/- Legal Department  
+West Australian Newspapers Limited  
+GPO Box D162, Perth WA 6840  
+Email: [privacy@wanews.com.au](mailto:privacy@wanews.com.au)
