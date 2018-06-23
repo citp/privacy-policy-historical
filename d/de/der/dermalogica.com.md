@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dermalogica.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030222940id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dermalogica.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623153534id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,11 +86,9 @@ We use cookies and other tools (such as web analytic tools and pixel tags) to au
 
 Most internet browsers are initially set up to accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device. If you use different browsers, or use multiple devices, any changes will need to be made for each browser. If you disable the cookies this may impact your experience on Unilever Sites[](http://www.unilevercookiepolicy.com/)
 
-[ ](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
-[ ](http://www.unilevercookiepolicy.com/)
-  * [](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
-[ ](http://www.unilevercookiepolicy.com/)
-  * [](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)Information we collect from other sources
+[](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
+  * [](http://www.unilevercookiepolicy.com/)
+  * [](http://www.unilevercookiepolicy.com/) [](http://www.unilevercookiepolicy.com/)Information we collect from other sources
 
 We may receive personal information about you from other sources if you have given permission for that information to be shared. This may include information from commercially available sources, such as public databases and data aggregators, and information from third parties. The types of personal information that we may collect from such sources include your:
 
