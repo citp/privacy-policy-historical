@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local21news.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219231753id_/http%3A//local21news.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local21news.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623182409id_/http%3A//local21news.com/station/privacy) for the most accurate reproduction.*
 
 # Harrisburg Privacy | News, Weather, Sports, Breaking News | WHP
 
