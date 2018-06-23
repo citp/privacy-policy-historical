@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appmakr.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126164613id_/http%3A//www.appmakr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appmakr.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624004232id_/http%3A//www.appmakr.com/privacy_policy) for the most accurate reproduction.*
 
 # Free Mobile App Maker Privacy Policy | AppMakr
 
@@ -54,7 +54,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 **Contact Information** ****
 
 > **E-Mail:**  
->  [support@AppMakr.com](mailto:support@AppMakr.com)
+>  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#10636560607f6264505160605d717b623e737f7d)
 > 
 > **Postal:  
 >  **AppMakr c/o Infinite Monkeys Pte Ltd  
