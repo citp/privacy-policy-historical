@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookmarkmart.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129135421id_/http%3A//bookmarkmart.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkmart.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623190322id_/http%3A//bookmarkmart.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bookmark Mart Bookmark Mart
+# Privacy Policy - Bookmark Mart Bookmarkmart
 
   * [Home](http://bookmarkmart.com/)
   * Privacy Policy - Bookmark Mart
@@ -13,6 +13,17 @@ This policy covers what personally identifiable information Bookmark Mart collec
 
 This policy only applies to http://bookmarkmart.com/ and does not extend to the practices of other Web Sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage.
 
-Welcome to BookmarkMart.com
+Bookmarkmart is a open source social bookmarking website to promote business and products online. Submit to your business or product to increase your web traffic
 
-Bookmarkmart is a social bookmarking site where you can submit your website links and articles.
+### Featured Do Follow Links
+
+[Youmob Social](http://youmobsocial.com/)  
+[Daily Update Me](http://www.dailyupdateme.com/)  
+[Book Marks My Webs](http://bookmarksmywebs.com/)  
+[Youmob Bookmark](http://www.youmobbookmark.com/)
+
+#### Domain For Sale Interested Bodies Drop E-mail 
+
+##### ajaybookmarkmart@gmail.com
+
+* * *
