@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tingo.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121020549id_/http%3A//www.tingo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tingo.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623093342id_/http%3A//www.tingo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tingo
 
 ### TINGO Privacy Policy
 
-Below you will find the Privacy Policy for [www.tingo.com](http://www.tingo.com/). 
+Below you will find the Privacy Policy for [www.tingo.com](https://www.tingo.com/). 
 
 TINGO understands that booking online involves significant trust on your part. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read this policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein. 
 
