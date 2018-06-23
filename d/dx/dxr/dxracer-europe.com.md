@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dxracer-europe.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119023653id_/https%3A//www.dxracer-europe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dxracer-europe.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623071648id_/https%3A//www.dxracer-europe.com/privacy-policy) for the most accurate reproduction.*
 
 # Computer chairs for gamers | DXRacer Europe – Official®
 
@@ -67,4 +67,6 @@ To service providers and other third parties we use to support our business.
 We may also disclose your personal information:  
 \- To comply with any court order, law or legal process, including to respond to any government or regulatory request.  
 \- To enforce or apply our terms of use or terms of sale and other agreements, including for billing and collection purposes.  
-\- If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of DXRacer Distribution Europe, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+\- If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of DXRacer Distribution Europe, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.  
+\- We will never disclose your personal information outside of EU/EEA.  
+\- If you have complaints about our processing of your personal data, you are entitled to file a complaint with the Data Protection Authority (DPA).
