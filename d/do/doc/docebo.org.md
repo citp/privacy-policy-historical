@@ -1,31 +1,67 @@
-> *The following text is extracted and transformed from the docebo.org privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425013554id_/https%3A//www.docebo.com/docebo-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docebo.org privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623211924id_/https%3A//www.docebo.com/docebo-privacy-policy) for the most accurate reproduction.*
 
 # Docebo - Privacy Policy - Docebo
 
-**Effective Date: 09/15/2016**
+**Effective Date: 25/05/2018**
 
-This Privacy Policy applies to [www.docebo.com](http://www.docebo.com/) and the Docebo Service owned and operated by Docebo NA, Inc (“Docebo”, “We”, “Us”). This Privacy Policy describes how Docebo collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Docebo.
+This Privacy Policy covers the information we collect about you when you use our products or services or websites, or otherwise interact with us (for example, by attending our events), unless a different policy is displayed. Docebo, we and us refers to Docebo NA, Inc, Docebo SpA as Controllers and any of our corporate affiliates that have been appointed as Processors. 
 
-Docebo complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Docebo has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Docebo’s certification, please visit [https://safeharbor.export.gov/swisslist.aspx](https://safeharbor.export.gov/swisslist.aspx).
+We refer to our products, together with our services and websites as “Services” in this policy.
 
-Docebo (and its parent/subsidiary company(ies) Docebo SpA) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Docebo is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+This Privacy Policy describes how Docebo collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
-Docebo is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Docebo complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Docebo (and its parent/subsidiary company(ies) Docebo SpA) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  Docebo is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Docebo is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.In certain situations, Docebo may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+Docebo is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Docebo complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Docebo is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.In certain situations, Docebo may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.  
 
 Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.  
 
-**COLLECTION AND USE OF PERSONAL INFORMATION:**
+**WHEN WE COLLECT INFORMATION ABOUT YOU:**
+
+We collect information about you when you provide it to us, when you use our Services, and when other sources provide it to us, as further described below.
+
+**Information you provide to us:** We collect information about you when you input it into the Services or otherwise provide it directly to us.
+
+**Account and Profile Information:** We collect information about you when you register for an account, create or modify your profile, set preferences, sign-up for or make purchases through the Services.
+
+**Content you provide through our products:** We collect and store content that you post, send, receive and share through the Services. 
+
+**Content you provide through our websites:** We collect content that you submit to websites owned or operated by us when you may choose to fill up contact forms or when you participate in any interactive features, surveys, promotions, activities or events.
+
+**Information you provide through our support channels:** We collect information regarding a problem you are experiencing with the Services when you may choose to submit them to our customer support included in the Services.
+
+**Payment Information:**  We collect certain payment and billing information when you register for certain paid Services.   
+
+**Information we collect automatically when you use the Services:** We collect information about you when you use our Services, including browsing our websites and taking certain actions within the Services.
+
+**Your use of the Services:** We keep track of certain information about you when you visit and interact with any of our Services.
+
+**Device and Connection Information:** We collect information about your computer, phone, tablet, or other devices you use to access the Services.
+
+**Cookies and Other Tracking Technologies:** We and our marketing partners, affiliates, or analytics or service providers, use technologies such as cookies, beacons, tags, scripts, and other similar technologies, as further described below in the TRACKING TECHNOLOGIES section.
+
+**Information we receive from other sources:** We may receive information about you from other Service users, from third-party services, from our related companies, and from our business and channel partners.
+
+**WHAT INFORMATION WE COLLECT ABOUT YOU:**
 
 We collect the following personal information from you:
 
-  * Contact Information such as name, business email address, phone number, physical address, skype information, information you input in open text fields in help/contact us forms
-  * Information about your business such as company name
+  * Contact Information such as name, business email address, phone number, billing information, physical address, skype information, information you input in open text fields in help/contact us forms
+  * You also have the option of adding a display name, profile photo, job title, and other details to your profile information to be displayed in our Services
+  * Information about your business such as company name, industry, company size, company phone contacts and other
+  * Content information about you that you may choose to include. Examples of content we collect and store include: viewed content and training interactions.
+  * Content also includes the files and links you upload to the Services
+  * Contact information, a summary of the problem you are experiencing, and any other documentation, screenshots or information that would be helpful in resolving a issue submitted to our customer support included in the Services.
+  * information about you when you visit and interact with any of our Services. This information includes the features you use; the links you click on; the type, size and filenames of attachments you upload to the Services; frequently used search terms; and how you interact with others on the Services.
+  * Device information including your connection type and settings, information  about your operating system, browser type, IP address, URLs of referring/exit pages, device identifiers, and crash data.
 
 
+
+**HOW WE USE INFORMATION WE COLLECT:**
 
 We use this information to:
 
@@ -36,6 +72,12 @@ We use this information to:
   * Send you a newsletter
   * Send you marketing communications
   * Display content based upon your interests
+  * To provide the Services and personalize your experience 
+  * For research and development  to troubleshoot and to identify trends, usage, activity patterns and areas for integration and improvement of the Services
+  * To communicate with you about the Services 
+  * For customer support to resolve technical issues, to respond to requests for assistance, to analyze crash information, and to repair and improve the Services
+  * For safety and security to verify accounts and activity, to monitor suspicious or fraudulent activity and to identify violations of Service policies
+  * To protect our legitimate business interests and legal rights
 
 
 
@@ -47,7 +89,7 @@ We will share your personal information with third parties only in the ways that
 
 We may provide your personal information to companies that provide services to help us with our business activities such as processing your payments. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-**LEGAL**
+**Legal**
 
 We may also disclose your personal information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
@@ -55,23 +97,45 @@ If Docebo is involved in a merger, acquisition, or sale of all or a portion of i
 
 **OPT-OUT PREFERENCES:**
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emailsor you can contact us at [privacy@docebo.com](mailto:privacy@docebo.com).
+If you no longer want to receive marketing-related emails from us, you may opt out of receiving such emails by clicking the “unsubscribe” link at the bottom of any marketing email you receive from us.
 
-Receiving emails from our website is part of our service. If you no longer wish to receive these emails, you may opt out of them by canceling your account.
+If you are having difficulty unsubscribing from our marketing emails using the above methods, please contact us directly at the email privacy@docebo.com.
 
-**ACCESS and CHOICE:**
+**EXERCISING YOUR RIGHTS:**
 
-Docebo acknowledges that you have the right to access your personal information. Upon request Docebo will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, ask to have it removed from a public forum, directory or testimonial on our site or deactivate it by emailing our Customer Support at [privacy@docebo.com](mailto:privacy@docebo.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within a reasonable timeframe.
+You may submit a request for access (i.e. request information on personal data collected, used, disclosed or processed by Docebo), as well as a request for integration, rectification, or erasure, or object to our processing of your personal data. Upon request, Docebo will provide you with information about whether we hold any of your personal information. Furthermore, you may also be able to exercise the following rights to restrict processing, data portability, and lodge a complaint with a data protection authority. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+In particular, you have the right to object and withdraw your consent, in whole or in part, to the collection, use, disclosure or processing of your personal data for purposes of dispatch of advertising material, direct selling or for the fulfillment of marketing surveys or commercial communication (e-mail).
+
+If you prefer that the processing of your personal data is carried out solely by means of traditional contact methods, you may object to the processing of your personal data by means of automated contact methods.
+
+In order to exercise your rights above and/or submit inquiries or complaints with regard to our processing of your personal data, you may send a request to Docebo by writing to this email address privacy@docebo.com. We will respond to your request within thirty (30) days.
 
 **SECURITY**
 
-The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [privacy@docebo.com](mailto:privacy@docebo.com)
+The security of your personal information is important to us. 
+
+We follow generally accepted security standards and we have adopted commercially reasonable security measures to protect your personal data against accidental or unlawful destruction, loss, alteration, or unauthorized disclosure or access. We may use third-party products and services to secure or store your information. For more information on where we store and how we secure your information, please see our [compliance and security page](https://www.docebo.com/compliance-security/).
+
+By using the Services or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services. Depending on where you live, you may have a legal right to receive written notice of a data privacy or security breach. If you have any reason to believe that your interactions with the Services are no longer secure, please notify us immediately at privacy@docebo.com.
+
+If you have any questions about the security of your personal information, you can contact us at privacy@docebo.com
+
+**HOW LONG WE KEEP INFORMATION:**
+
+How long we keep the information we collect about you depends on the type of information, as described in further detail below.  After such time, we will either delete or anonymize your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible.  
+
+**Account information:** We retain your account information for as long as your account is active and a reasonable period thereafter in case you decide to re-activate the Services.  We also retain some of your information as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, and to continue to develop and improve our Services. Where we retain information for Service improvement and development, we take steps to eliminate information that directly identifies you, and we only use the information to uncover collective insights about the use of our Services, not to specifically analyze personal characteristics about you.  
+
+**Information you share on the Services:** If your account is deactivated or disabled, some of your information and the content you have provided will remain in order to allow your team members or other users to make full use of the Services.  
+
+**Managed accounts:** If the Services are made available to you through an organization (e.g., your employer), we retain your information as long as required by the administrator of your account.
+
+**Marketing information:** If you have elected to receive marketing emails from us, we retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our Services, such as when you last opened an email from us or ceased using your Docebo account.  We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created.
 
 **DISCLOSURES SPECIFIC TO THE DOCEBO   PLATFORM/SERVICE:**
 
-Docebo collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
+The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Docebo. Docebo collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
 Docebo has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Docebo’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
 
@@ -87,7 +151,9 @@ As is true of most websites, we gather certain information automatically and sto
 
 We do not link this automatically collected data to other information we collect about you.
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+You can find more information about cookies reading our [cookie policy](https://www.docebo.com/cookie-policy/).
 
 **SOCIAL MEDIA WIDGETS**
 
@@ -95,11 +161,13 @@ Our website includes Social Media Features, such as the Facebook Like button, an
 
 **LINKS TO OTHER SITES**
 
-Our website includes links to other websites whose privacy practices may differ from those of Docebo. If you submit personal information to any of those websites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
+From time to time, we may include links on the Sites to third-party websites. Please pay attention when you connect to these websites and read their terms and conditions of use and privacy policies carefully. We do not control or monitor such websites or their web content. This Privacy Statement does not apply to any third-party websites and we will are not responsible for the content, privacy policies, or processing of your Personal data while you are visiting any third-party websites.
+
+AGAIN, PLEASE NOTE THAT THIS PRIVACY STATEMENT DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH THIRD-PARTY WEBSITES AND ADVERTISERS.
 
 **CHANGES TO THIS PRIVACY POLICY:**
 
-We may update this Privacy Statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We reserve the right to amend all or part of our Privacy Statements from time to time. The version published on the Sites is the version currently in force. Changes to our Privacy Statements are communicated by placing a notice on the Sites stating “Revised Privacy Statement(s).” Changes to our Privacy Statements will be effective immediately once published on the Sites unless otherwise noted. Your use of the Sites following any amendments indicates your consent to the practices described in the revised Privacy Statements. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We invite you to periodically review our Privacy Statements to be informed of any relevant changes, especially before providing any data to us.
 
 **CONTACT US:**
 
@@ -111,5 +179,3 @@ Athens, GA 30601
 USA  +1.800.681.4601  
 Italy  +39.039.2323286  
 EMEA  +971.4.552.1380
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=476bd283-7a24-4e29-9d90-f9619b47b000 "TRUSTe Privacy Certification")
