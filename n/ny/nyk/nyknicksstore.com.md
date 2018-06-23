@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyknicksstore.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222221529id_/http%3A//www.nyknicksstore.com/pages/partners_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyknicksstore.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623141722id_/http%3A//www.nyknicksstore.com/pages/partners_privacy_policy) for the most accurate reproduction.*
 
 # - Official NY Knicks Store
 
