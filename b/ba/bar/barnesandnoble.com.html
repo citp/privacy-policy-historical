@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the barnesandnoble.com privacy policy that was archived on 2017-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171112055002id_/https%3A//www.barnesandnoble.com/h/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the barnesandnoble.com privacy policy that was archived on 2018-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180623090057id_/https%3A//www.barnesandnoble.com/h/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js " lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -20,17 +20,19 @@
 <meta property="og:image" content="http://dispatch.barnesandnoble.com/content/dam/ccr/social/BN_facebook_1200x630.jpg">
 <meta property="og:site_name" content="Barnes &amp; Noble">
 <link rel="icon" type="image/x-icon" href="//img.images-bn.com/static/redesign/srcs/images/favicon.ico">
-<link rel="icon" sizes="192x192" href="//img.images-bn.com/static/redesign/srcs/images/bn-icon-192x192.png">
+<link rel="icon" sizes="192x192" href="//img.images-bn.com/static/redesign/srcs/images/bn-icon-192x192.jpg">
 <meta name="apple-mobile-web-app-title" content="Barnes &amp; Noble">
-<link rel="apple-touch-icon" href="//img.images-bn.com/static/srcs/img/iphone-icon.png">
+<link rel="apple-touch-icon" href="//img.images-bn.com/static/redesign/srcs/images/iphone-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="//img.images-bn.com/static/redesign/srcs/images/bn-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="//img.images-bn.com/static/redesign/srcs/images/bn-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="180x180" href="//img.images-bn.com/static/redesign/srcs/images/bn-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="180x180" href="//img.images-bn.com/static/redesign/srcs/images/bn-icon-180x180.jpg">
+<link rel="apple-touch-icon" sizes="76x76" href="//img.images-bn.com/static/redesign/srcs/images/bn-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//img.images-bn.com/static/redesign/srcs/images/bn-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//img.images-bn.com/static/redesign/srcs/images/bn-icon-152x152.png">
 <!-- Lato font -->
 <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
 <!-- /Lato font -->
-<link rel="stylesheet" type="text/css" href="//css.css-bn.com/static/redesign/release/css/toolkit.min.css?v4.12.1&amp;setviewtype=full">
-<link href="//css.css-bn.com/static/redesign/release/css/toolkit-header-new.min.css?v4.12.1" rel="stylesheet" media="screen">
+<link rel="stylesheet" type="text/css" href="//css.css-bn.com/static/redesign/release/css/bn.min.css?v5.11.6&amp;setviewtype=full">
 <style>
 
 @-webkit-keyframes bugfix { from { padding: 0px; } to { padding: 0px; } }
@@ -44,7 +46,7 @@ THIS_PATH = document.location.pathname||window.location.pathname||'/cartridges/O
 SITE_DOMAIN_URL = THIS_PAGE = SITE_ROOT = port = "",
 STATIC_ASSETS_PATH = "/static",
 webContextRoot ='',
-staticAssetVersion = '?v4.12.1',
+staticAssetVersion = '?v5.11.6',
 XHR_FOLDER ='/xhr',
 XHR_HANDLER_PATH = XHR_FOLDER+'/handler.jsp',
 PAGE_DEBUG_MODE = false;
@@ -113,8 +115,7 @@ func();
 }
 </script>
 <!-- migration changes SLR-92 -->
-<script src="//js.js-bn.com/static/redesign/release/js/vendor/vendor.js?v4.12.1"></script>
-<!--// migration changes SLR-92 -->
+<script src="//js.js-bn.com/static/redesign/release/js/head.js?v5.11.6"></script><!--// migration changes SLR-92 -->
 <script>
 function updateMiniCartCount(count) {
 if(typeof count != 'undefined' && count != $.trim($('.bagTotal').text())) {
@@ -122,7 +123,7 @@ $('.bagTotal').text(count);
 }
 }
 function miniCartEvents($container) {
-var $spinner = $('<div class="spinner spinner__large"><img src="/static/redesign/srcs/images/spinner.svg" alt="" ></div>').addClass('mini-cart-spinner'),
+var $spinner = $('<div class="spinner spinner__large"><img tabindex="0" src="/static/redesign/srcs/images/spinner.svg" role="presentation" aria-live="polite" aria-label="Laoding..."></div>').addClass('mini-cart-spinner'),
 $quantityUpdateForms = $('.mini-cart-quantity-update');
 BN.MiniCart = new MiniCart('#miniCart', '#shoppingBag');
 // shopping bag flyout only
@@ -235,8 +236,14 @@ BN.isSoftLoggedIn = dataObj.isSoftLoggedIn;
 if($('.account-links').find('#signInLink').length > 0){
 $('#signInLink').remove();
 }
+if($('.account-links').find('.account-sign-in').length > 0){
+$('.account-sign-in').remove();
+}
 $('.account-links').prepend(dataObj.signInHtml);
 $('#myAccountMenu').html(dataObj.accountLinksHtml);
+if(dataObj.isSecureLogin === true){
+$('.account-links').attr('data-user-state','signed-in');
+}
 $(document).on('click', '#myAccountMenu #myAccountLink', function(){
 $(this).addClass('focus');
 });
@@ -318,8 +325,6 @@ miniCartEvents();
 
 loadDynamicHeaderElements();
 </script>
-<script src="//js.js-bn.com/static/redesign/release/js/head.js?v4.12.1"></script><script src="//js.js-bn.com/static/redesign/srcs/js/vendor/js-webshim-1.15/dev/extras/modernizr-custom.js?v4.12.1"></script>
-<script src="//js.js-bn.com/static/redesign/srcs/js/vendor/js-webshim-1.15/dev/polyfiller.js?v4.12.1"></script>
 <script src="//assets.adobedtm.com/a6ce917b5fc2d1d613b7b801115955bcaacab070/satelliteLib-c247216a2145ee58039f29269709adbc59bd1aa8.js"></script>
 <script src="https://cdns.gigya.com/JS/socialize.js?apiKey=3_MD_HJHUOCjSeK80xcc1NTYJYTlZXtSSDOc3XHyRvw6dcljSs4YVf8OInYiEPtpeE" type="text/javascript">
 {
@@ -330,82 +335,39 @@ enabledProviders: 'facebook,twitter,googleplus'
 <script>
 var SITE_GIGYA_APIKEY='3_MD_HJHUOCjSeK80xcc1NTYJYTlZXtSSDOc3XHyRvw6dcljSs4YVf8OInYiEPtpeE', SITE_GIGYA_SECRETKEY='j2KJQ/68JwNXBkFun16ih8pm3x0LRvVg8Nikhpp+Jso=';
 </script>
-<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script async="async" src="//cdn.districtm.ca/merge/merge.v4.4.104157.js"></script>
 <script>
+
 var enableGoogleAdsAfterPageLoad = true;
-var bodyClass = containerClassAd = 'searchResultsPage';
 var bookSkus = "[book, textbook, eTextbook, eBook]";
 var skuType = "";
 var isHorizontal = (bookSkus.indexOf(skuType) > -1);
+var gptadslots = [];
 
 var asyncRelatedAdsEnabled = true;
 $(document).on('googleRelatedAdsLoaded', function() {
 
 googletag.cmd.push(function() {
-// Double check the bodyClass from header-javascript variable
-if(containerClassAd.indexOf('searchResultsPage') >= 0 || containerClassAd == 'landingPage searchResultsPage') {
-containerClassAd = 'searchResultsPage';
-}
-switch (containerClassAd) {
-case 'pdpPage':
-if(isHorizontal){
-var adSlot1 = googletag.defineSlot('/9885823/lia.barnesandnoble/prod/', [728, 90], 'relatedAd')
-.setTargeting('member','F')
-.setTargeting('lo','mid')
-.setTargeting('s','bn')
-.setTargeting('EAN','')
-.setTargeting('redflag','0')
-.setTargeting('prod','');
-}
-else
-{
-var adSlot1 = googletag.defineSlot('/9885823/lia.barnesandnoble/prod/', [300, 250], 'relatedAd')
-.setTargeting('member','F')
-.setTargeting('lo','mid')
-.setTargeting('s','bn')
-.setTargeting('EAN','')
-.setTargeting('redflag','0')
-.setTargeting('prod','');
-}
-var adSlot2 = googletag.defineSlot('/9885823/lia.barnesandnoble/prod/', [728, 90], 'relatedAd2')
-.setTargeting('member','F')
-.setTargeting('lo','mid')
-.setTargeting('s','bn')
-.setTargeting('EAN','')
-.setTargeting('redflag','0')
-.setTargeting('prod','');
-break;
-case 'landingPage':
-var adSlot1 = googletag.defineSlot('/9885823/lia.barnesandnoble/home/', [160, 600], 'relatedAd');
-var adSlot2 = googletag.defineSlot('/9885823/lia.barnesandnoble/home/', [728, 90], 'relatedAd2');
-var adSlot3 = googletag.defineSlot('/9885823/lia.barnesandnoble/search/', [728, 90], 'storefronttop');
-var adSlot4 = googletag.defineSlot('/9885823/lia.barnesandnoble/search/', [728, 90], 'storefrontbottom');
-break;
-case 'searchResultsPage':
-var adSlot1 = googletag.defineSlot('/9885823/lia.barnesandnoble/search/', [160, 600], 'relatedAd');
-var adSlot2 = googletag.defineSlot('/9885823/lia.barnesandnoble/search/', [728, 90], 'relatedAd2');
-break;
-case 'thank-you':
-var adSlot1 = googletag.defineSlot('/9885823/lia.barnesandnoble/thank_you_page', [970, 250], 'relatedAd');
-break;
-default :
-break;
-}
-if(adSlot1) {
-adSlot1.addService(googletag.pubads());
-}
-if(adSlot2) {
-adSlot2.addService(googletag.pubads());
-}
-if(adSlot3) {
-adSlot3.addService(googletag.pubads());
-}
-if(adSlot4) {
-adSlot4.addService(googletag.pubads());
-}
-if(bodyClass.indexOf('searchResultsPage') > -1){
+
+// Distroscale Video Ad
+if(bodyClass.indexOf('searchResultsPage') > -1 && $('#div-gpt-ad-1498156525153-0').length){
 googletag.defineSlot('/9885823/lia.barnesandnoble/search/', [301, 251], 'div-gpt-ad-1498156525153-0').addService(googletag.pubads());
 }
+//Adslot 1 declaration
+if($('#div-gpt-ad-7835427-1').length){
+var adSlot1 = googletag.defineSlot('/9885823/bn/Search_LeftRail', [[160,600]], 'div-gpt-ad-7835427-1');
+gptadslots.push(adSlot1.addService(googletag.pubads()));
+}
+//Adslot 2 declaration
+if($('#div-gpt-ad-7835427-2').length){
+var adSlot2 = googletag.defineSlot('/9885823/bn/Search_TopBoard', [[728,90]], 'div-gpt-ad-7835427-2');
+gptadslots.push(adSlot2.addService(googletag.pubads()));
+}
+googletag.pubads().setTargeting('member', 'f')
+.setTargeting('kw', '')
+.setTargeting('cat1', '')
+.setTargeting('login', 'f');
+
 googletag.pubads().addEventListener('slotRenderEnded', function(event) {
 if(event.size[0] !== 728) {
 $(document).trigger('rendered-slot1');
@@ -413,25 +375,29 @@ $(document).trigger('rendered-slot1');
 $(document).trigger('rendered-slot2');
 }
 });
-googletag.pubads().enableSingleRequest();
+//googletag.pubads().enableSingleRequest();
+googletag.pubads().setPublisherProvidedId('25842940876');
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().setForceSafeFrame(false);
 googletag.enableServices();
 $(document).trigger('googleRelatedAdsEnabled');
 });
 
 })
+<!-- End GPT Async Tag -->
 </script>
 <script type="text/javascript">
 var asyncTextAdsEnabled = true;
 </script>
 <script type="text/javascript">
-$(document).ready(function() {
-/* $('#primaryNav').on('hover touchstart', function() {
+/*$(document).ready(function() {
+$('#primaryNav').on('hover touchstart', function() {
 $('.nav-menu').css('display', 'block');
 });
 $('#primaryNav li.nav-item a').on('focus', function() {
 $('.nav-menu').css('display', 'block');
-}); */
 });
+});*/
 function set_cookie (cvalue) {
 
 var cname = "internalCampaign";
@@ -454,34 +420,58 @@ document.cookie = curCookie;
 <link rel="canonical" href="https://www.barnesandnoble.com/h/help/privacy-policy">
 <!-- ATG-10336 Tactical fix starts -->
 <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.barnesandnoble.com/h/help/privacy-policy">
-</head>
+
+                    <script async="" src="https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"679473",ustr:"",originlat:"0",clientrtt:"3",ghostip:"184.50.88.115",ipv6:false,pct:"10",clientip:"207.241.231.163",requestid:"29b740f",region:"20211",protocol:"",blver:14,akM:"a",akN:"ae",akTT:"O",akTX:"1",akTI:"29b740f",ai:"238807",ra:"true",pmgn:"HTTP2Traffic",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head>
 <body data-global-svg-assets-url="/static/redesign/srcs/images/global-assets.svg" class="landingPage searchResultsPage">
+<script>
+if (performance.mark === undefined) {
+console.log("performance.mark not supported");
+}else{
+performance.mark("Above_the_fold_loading_starts");
+}
+if(typeof performance.measure === 'undefined')
+{
+console.log("Create Measures: performance.measure not supported");
+}
+</script>
+<input type="hidden" id="gptAdsVal" name="gptAdsVal" value="member:f;kw:;cat1:;login:f">
+<script>
+if(typeof performance.mark !== 'undefined')
+{
+if( 'landingPage searchResultsPage' == 'pdpPage'){
+performance.mark('Cover_Image/Video_loading_starts');
+performance.mark("Addtocart_loading_starts");
+}
+performance.mark("Global_Header_loading_starts");
+}
+</script>
 <header class="treatment-a" id="globalHeader">
 <div class="grid">
 <ul id="upsellPromo">
-<li><a href="/b/hot-deals-toys-games/_/N-1p5e" onclick="set_cookie('pc_Up to 25% Off Favorite Toy Brands_na_text');">
+<li><a href="https://www.barnesandnoble.com/h/terms-and-conditions?m=6&amp;y=2018&amp;f=summer10-details" onclick="set_cookie('pc_10% Off Your Order with code SUMMER10_na_text');">
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-Up to 25% Off Favorite Toy Brands&nbsp;&nbsp;</a>
+10% Off Your Order with code SUMMER10&nbsp;&nbsp;</a>
 </li>
-<li><a href="/w/nook-glow-light-3-barnes-noble/1127329365?ean=9780594777137" onclick="set_cookie('pc_Discover NOOK GlowLight® 3, now featuring Night Mode_na_text');">
+<li><a href="https://www.barnesandnoble.com/b/collectible-editions-buy-2-get-the-3rd-free/_/N-2qug" onclick="set_cookie('pc_Collectible Editions: Buy 2, Get the 3rd Free_na_text');">
+Collectible Editions: Buy 2, Get the 3rd Free&nbsp;
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-Discover NOOK GlowLight® 3, now featuring Night Mode&nbsp;&nbsp;</a>
+&nbsp;</a>
 </li>
-<li><a href="/b/the-criterion-collection-50-off/_/N-2o7e" onclick="set_cookie('pc_50% Off The Criterion Collection_na_text');">
+<li><a href="https://specialists.barnesandnoble.com/summerreading?summer-reading-lists-for-kids" onclick="set_cookie('pc_Specialists - Summer Reading_na_text');">
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-50% Off The Criterion Collection&nbsp;&nbsp;</a>
+Specialists - Summer Reading&nbsp;&nbsp;</a>
 </li>
-<li><a href="/b/dc-and-marvel-graphic-novels-buy-2-get-the-3rd-free/_/N-2kv2" onclick="set_cookie('pc_DC and Marvel Graphic Novels: Buy 2, Get 1 Free_na_text');">
+<li><a href="/b/favorite-paperbacks-buy-2-get-the-3rd-free/_/N-1glu" onclick="set_cookie('pc_Favorite Paperbacks: Buy 2, Get the 3rd Free_na_text');">
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-DC and Marvel Graphic Novels: Buy 2, Get 1 Free&nbsp;&nbsp;</a>
+Favorite Paperbacks: Buy 2, Get the 3rd Free&nbsp;&nbsp;</a>
 </li>
 </ul>
 <div class="utility-links">
-<a href="//www.barnesandnoble.com/h/help/holiday-shipping"><span class="default-utility">Holiday Shipping</span></a>
 <a href="/membership/"><span class="default-utility">Membership</span></a>
 <a href="/b/gift-cards/_/N-8rg"><span class="default-utility">Gift Cards</span></a>
 <a href="https://stores.barnesandnoble.com/"><span class="default-utility">Stores &amp; Events</span></a>
@@ -493,15 +483,16 @@ DC and Marvel Graphic Novels: Buy 2, Get 1 Free&nbsp;&nbsp;</a>
 <a href="/" class="logo">
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="307" height="47" viewBox="0 0 1400.35 212.99" aria-label="Barnes and Noble logo"><defs><style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#295a34;}.cls-4{fill:#a69f8c;}</style><clipPath id="clip-path" transform="translate(-4 -6.92)"><path id="SVGID" class="cls-1" d="M4 6.92h1400.35v212.99H4z"></path></clipPath></defs><g class="cls-2"><path class="cls-3" d="M911.51 98.28c1.56 25.91 1.82 33.47 1.82 56.12v49.33h-33V10.48h32.72s15.6 56.6 18.95 68.68c3.38 12.33 6 22.41 7.53 30.7-1-18.87-1.3-42.27-1.3-61.66V10.48h31.92v193.25h-29.28s-17.92-59.65-21.56-71.47c-2.87-9.07-5.19-19.62-7.79-34M1049.87 107.36c0-30.45 0-49.07-1.29-62.9-1-14.1-3.38-16.88-8.57-16.88-5.7 0-8 2.78-9.35 16.88-1 13.58-.77 32.71-.77 62.9 0 35.22-.25 48.8.77 62.39 1.34 14.85 3.34 16.33 9.34 16.33 5.46 0 7.28-1.28 8.57-16.37 1-13.83 1.29-27.17 1.29-62.39m36.87 0c0 83.28-14 100.39-46.74 100.39-30.37 0-46.73-12.84-46.73-100.39 0-84.8 12.71-99.89 46.73-99.89s46.74 15.09 46.74 99.89M1144.35 33.08v55.6h8.82c9.37 0 11.17-8 11.17-24.64 0-22.66-2.34-31-13.75-31h-6.24zm0 79.77v68.23h9.09c10.65 0 13.5-6.29 13.5-35.73 0-21.38-2.6-32.45-14-32.45h-8.56zm59.72 36.23c0 40-18.43 54.62-49.59 54.62h-44.64V10.48h44.91c34.53 0 43.6 20.13 43.6 53.08 0 23.67-8.82 36.49-24.65 37.26 17.12 0 30.37 16.85 30.37 48.29"></path></g><path class="cls-3" d="M1260.3 174.78h42.31v28.95h-78.66V10.48h36.35v164.3zM1321.95 10.47v193.25h78.4v-28.94h-43.36v-56.1h33.49V91.74h-33.49V39.42h37.91V10.47h-72.95z"></path><g class="cls-2"><path class="cls-3" d="M34.56 33v55.65h8.84c9.35 0 11.17-8.06 11.17-24.68 0-22.66-2.32-31-13.77-31h-6.24zm0 79.82v68.26h9.09c10.65 0 13.5-6.31 13.5-35.77 0-21.39-2.59-32.48-14-32.48h-8.59zm59.75 36.26c0 40.05-18.42 54.65-49.62 54.65H0V10.34h44.95c34.56 0 43.65 20.14 43.65 53.14 0 23.66-8.84 36.51-24.69 37.26 17.15 0 30.4 16.87 30.4 48.34M260.69 34.25v56.67h10.91c9.35 0 12.21-5.8 12.21-23.92 0-28.22-5.46-32.75-16.38-32.75h-6.75zm30.14 70.26c22.33 6.53 24.93 32.06 24.93 55.5 0 18.18.64 34.27 3.12 43.7h-36.37c-1-7.05-2.6-11.24-2.6-28.68V150.2c0-15.37-5.39-26.92-16.75-29.83h-2.48v83.34h-35.84V10.34h53.27c24.93 0 41.82 14.11 41.82 49.11 0 30.45-13.65 43.55-29.1 45.07M374.25 98.21c1.55 25.93 1.81 33.49 1.81 56.16v49.35h-33V10.34h32.73s15.59 56.66 19 68.73c3.39 12.34 6 22.43 7.54 30.72-1-18.87-1.3-42.3-1.3-61.69V10.34h32v193.38h-29.42s-17.93-59.64-21.61-71.51c-2.85-9.08-5.2-19.65-7.79-34"></path></g><path class="cls-3" d="M495.47 174.75h43.37v28.96h-78.45V10.33h73.01v28.96h-37.93v52.38h33.5v26.94h-33.5v56.14zM591.26 159.08c0 21.71 4.74 25 12.74 25 6.24 0 11.07-3.54 11.07-24.95 0-19.18-13.23-32.91-28.17-50.35-13.49-15.7-28.65-37.33-28.65-55.63 0-28.83 13.55-45.84 41.86-45.84 27.79 0 42.34 14.87 42.34 43.31a48 48 0 0 1-2.59 15.63h-29.65a86 86 0 0 0 .79-13.6c0-18.39-2.07-23.92-10.38-23.92-7.8 0-9.1 7.31-9.1 21.16 0 17.43 14.43 31.29 25.95 45.64 17 21.1 30.61 37.88 30.61 57.58 0 31.46-13.69 54.64-44.35 54.64-27.28 0-45.14-14.42-45.14-47.93 0-7.79.28-14.18 2.35-21l31.94-.17a128.38 128.38 0 0 0-1.62 20.43M144.5 151.25h18.18s-2.75-22.41-4.31-37c-1-9.07-4.71-37.3-5.75-55.93-.52 19.12-3.64 47.11-4.42 55.93-1.3 14.58-3.69 37-3.69 37m-36.81 52.63l29.08-194.8h34.27l34.28 194.8H168.2l-3.63-31.2h-22.34l-3.64 31.2H107.7z"></path><path class="cls-4" d="M737.29 199.9c-28.2 0-38.76-22.51-35.6-40.32 3.88-21.15 14.14-34.43 27.89-46.19a345 345 0 0 0 40.94 71.15c-9.52 10.75-19.12 15.35-33.23 15.35M742.23 43c2.46-13.77 14.81-28.55 33.85-28.55 14.81 0 24.67 10.76 21.5 27.22-1.05 6.38-2.9 12-9.58 20s-30.64 22.11-42.15 27.9c-5.17-16.05-6.52-30.8-3.62-46.55m91.32 61.14c-14.1 0-24.68 9.07-31 21.51-6.34 13.77-13.4 29.55-18 38.29-15.75-25.55-27.6-45.93-35-64.19 12.24-6.5 33.46-16.42 45.57-26.95s18-20.39 20.08-31.81c3.87-21.84-9.18-41-38.07-41-24.34 0-53.24 18.14-58.88 48.37-2.83 15.46.83 35.32 6.72 51.66-21.86 14.1-40.91 29.65-45.85 54.17-7.05 40.32 19.4 58.78 49.35 58.78 20.44 0 36-8.69 48.4-22.13 9.4 10.28 21.4 22.13 36.21 22.13 12 0 24.68-7.38 34.56-19.47l-4.24-5.73c-9.16 8.41-16.21 11.77-21.5 11.77-9.52 0-19.39-8.07-27.85-20.84-1.05-2-2.47-4-3.52-6 5.64-10.41 9.87-21.84 14.8-31.91 9.18-19.48 14.81-25.86 23.27-25.86 14.1 0 2.82 22.51 18 22.51 7 0 10.57-5.72 11.62-11.08 1.42-8.07-4.58-22.19-24.67-22.19"></path><path id="SVGID-3" data-name="SVGID" class="cls-1" d="M0 0h1400.35v212.99H0z"></path></svg>
 </a>
-<form id="searchForm" name="searchFormName" action="https://www.barnesandnoble.com/includes/submit.jsp?_DARGS=/cartridges/HeaderSearchBox/HeaderSearchBox.jsp" class="search-signedin" method="post"><input name="_dyncharset" value="UTF-8" type="hidden"><input value="-52164894581128122" type="hidden"><input name="/com/bn/endeca/base/SearchFormHandler.searchSuccessURL" value="https://www.barnesandnoble.com/s/" type="hidden"><input name="_D:/com/bn/endeca/base/SearchFormHandler.searchSuccessURL" value=" " type="hidden"><input name="/com/bn/endeca/base/SearchFormHandler.searchErrorURL" value="https://www.barnesandnoble.com/s/" type="hidden"><input name="_D:/com/bn/endeca/base/SearchFormHandler.searchErrorURL" value=" " type="hidden"><span id="autoCompleteInstr" class="hidden">Auto Suggestions are available once you type at least 3 letters. Use up and down arrow to review and enter to select.</span>
-<input aria-describedby="autoCompleteInstr" data-autosuggesturl="//ta.barnesandnoble.com/bntypeahead-service-authoring/json/pages/typeahead?" placeholder="Search" aria-autocomplete="list" type="text" autocomplete="off" aria-owns="headSearchTypeAheadHolder" data-maxautosuggestcount="8" id="searchBarBN" name="Ntt" value="" data-mininputcharactercount="2" aria-expanded="false"><input name="_D:Ntt" value=" " type="hidden"><input type="hidden" id="typeAheadValue" name="typeAheadValue" value="">
-<div class="navigation-dropdown" aria-label="submenu">
-<input name="_D:/com/bn/endeca/base/SearchFormHandler.fs" value=" " type="hidden"><select id="searchFilterSelect" name="/com/bn/endeca/base/SearchFormHandler.fs"><option value="0">All</option><option value="8q8">Books</option><option value="8qa">NOOK Books</option><option value="1pbl">NOOK</option><option value="8q9">Textbooks</option><option value="8qb">Bargain Books</option><option value="8qe">Newsstand</option><option value="8qd">Teens</option><option value="8qc">Kids</option><option value="8qf">Toys &amp; Games</option><option value="1gls">Hobbies &amp; Collectibles</option><option value="8qg">Home &amp; Gifts</option><option value="8qh">Movies &amp; TV</option><option value="8qi">Music</option></select></div>
+<form id="searchForm" name="searchFormName" action="https://www.barnesandnoble.com/includes/submit.jsp?_DARGS=/cartridges/HeaderSearchBox/HeaderSearchBox.jsp" class="search-signedin" method="post"><input name="_dyncharset" value="UTF-8" type="hidden"><input value="-3530499366723169218" type="hidden"><div class="navigation-dropdown" aria-label="submenu">
+<input name="_D:/com/bn/endeca/base/SearchFormHandler.fs" value=" " type="hidden"><select id="searchFilterSelect" name="/com/bn/endeca/base/SearchFormHandler.fs" class="hidden"><option value="0">All</option><option value="8q8">Books</option><option value="8qa">NOOK Books</option><option value="1pbl">NOOK</option><option value="8q9">Textbooks</option><option value="8qb">Bargain Books</option><option value="8qe">Newsstand</option><option value="8qd">Teens</option><option value="8qc">Kids</option><option value="8qf">Toys &amp; Games</option><option value="1gls">Hobbies &amp; Collectibles</option><option value="8qg">Home &amp; Gifts</option><option value="8qh">Movies &amp; TV</option><option value="8qi">Music</option></select></div>
+<input name="/com/bn/endeca/base/SearchFormHandler.searchSuccessURL" value="https://www.barnesandnoble.com/s/" type="hidden"><input name="_D:/com/bn/endeca/base/SearchFormHandler.searchSuccessURL" value=" " type="hidden"><input name="/com/bn/endeca/base/SearchFormHandler.searchErrorURL" value="https://www.barnesandnoble.com/s/" type="hidden"><input name="_D:/com/bn/endeca/base/SearchFormHandler.searchErrorURL" value=" " type="hidden"><span id="autoCompleteInstr" class="hidden">Auto Suggestions are available once you type at least 3 letters. Use up arrow (for mozilla firefox browser alt+up arrow) and down arrow (for mozilla firefox browser alt+down arrow) to review and enter to select.</span>
+<input aria-describedby="autoCompleteInstr" data-autosuggesturl="//ta.barnesandnoble.com/bntypeahead-service-authoring/json/pages/typeahead?" placeholder="Search" aria-autocomplete="list" type="text" autocomplete="off" aria-haspopup="false" aria-owns="headSearchTypeAheadHolderUl" data-maxautosuggestcount="8" id="searchBarBN" name="Ntt" value="" data-mininputcharactercount="2"><input name="_D:Ntt" value=" " type="hidden"><input type="hidden" id="typeAheadValue" name="typeAheadValue" value="">
+<div class="icon-search-2" role="button" tabindex="0" aria-label="Search"></div>
 <span class="hidden">
 <input id="searchSubmit" title="search" name="/com/bn/endeca/base/SearchFormHandler.search" value="" type="submit"><input name="_D:/com/bn/endeca/base/SearchFormHandler.search" value=" " type="hidden"></span>
 <input name="_DARGS" value="/cartridges/HeaderSearchBox/HeaderSearchBox.jsp" type="hidden"></form></div>
 <div>
-<div class="account-links" data-user-state="signed-out" id="userLinks">
+<div class="account-links" data-submenu="my-account" data-user-state="signed-out" id="userLinks">
 <span id="myAccountMenu"></span>
 </div>
 <!-- <script>
@@ -509,14 +500,15 @@ if(typeof HEADERLOADED != 'undefined' && !HEADERLOADED) {
 displayHeaderFooterData(HEADERDATA);
 }
 </script> -->
-<div id="shoppingBag" class="image-class-default cart" tabindex="0" data-toggle="slide" aria-describedby="shopping-cart-label">
-<a href="/checkout/" id="shoppingBagLink" rel="nofollow" aria-label="Shopping Bag">
-<span class="sr-only">items in your shopping bag.</span>
-<span id="shopping-cart-label" class="sr-only">Click to view the items in your shopping bag</span>
+<div id="shoppingBag" class="image-class-default cart " tabindex="0" data-toggle="slide" aria-haspopup="true" aria-describedby="shopping-cart-label">
+<a href="/checkout/" id="shoppingBagLink" class="shopping-bag-link" rel="nofollow">
+<span id="shopping-cart-label" class="sr-only">Click or Press Enter to view the items in your shopping bag or Press Tab to interact with the Shopping bag tooltip</span>
 <div class="icon-cart"></div>
 <span class="sr-only">You have</span>
 <span id="bagTotal" class="count bagTotal"></span>
+<span class="sr-only">items in your shopping bag</span>
 </a>
+<div id="bagContentsContainer"></div>
 </div>
 </div>
 </div>
@@ -536,19 +528,20 @@ Books<span class="link-with-arrow ml-xxs"></span>
 <h2>Customer Favorites</h2>
 <a href="/book-graph-recommendations" role="menuitem" aria-setsize="10" aria-posinset="1">Book Graph™</a>
 <a href="/b/discover-categories/_/N-2noh" role="menuitem" aria-setsize="10" aria-posinset="2">Discover Categories</a>
-<a href="/b/barnes-noble-classics/_/N-rqv" role="menuitem" aria-setsize="10" aria-posinset="3">B&amp;N Classics</a>
-<a href="/b/barnes-noble-exclusives/_/N-2o2b" role="menuitem" aria-setsize="10" aria-posinset="4">B&amp;N Exclusives</a>
-<a href="/b/books/_/N-1fZ29Z8q8" role="menuitem" aria-setsize="10" aria-posinset="5">B&amp;N Top 100</a>
-<a href="/b/barnes-noble-stores-bestsellers/_/N-1p2x" role="menuitem" aria-setsize="10" aria-posinset="6">B&amp;N Stores' Bestsellers</a>
-<a href="/b/contributor/_/N-2k20" role="menuitem" aria-setsize="10" aria-posinset="7">Books by Author</a>
-<a href="/b/series/_/N-2k21" role="menuitem" aria-setsize="10" aria-posinset="8">Books by Series</a>
-<a href="/b/barnes-noble-collectible-editions/_/N-2cnb" role="menuitem" aria-setsize="10" aria-posinset="9">Collectible Editions</a>
-<a href="/b/coming-soon/_/N-1oyfZ8q8" role="menuitem" aria-setsize="10" aria-posinset="10">Coming Soon by Date</a>
-<a href="/b/books/_/N-26Z29Z8q8" role="menuitem" aria-setsize="10" aria-posinset="11">Coming Soon by Subject</a>
-<a href="/b/new-releases/_/N-1oyg" role="menuitem" aria-setsize="10" aria-posinset="12">New Releases</a>
-<a href="/b/the-new-york-times-bestsellers/_/N-1p3n" role="menuitem" aria-setsize="10" aria-posinset="13">NY Times Bestsellers</a>
-<a href="/b/signed-books-at-bncom/_/N-rp2" role="menuitem" aria-setsize="10" aria-posinset="14">Signed Books</a>
-<a href="/b/top-books-of-the-month/_/N-2luc" role="menuitem" aria-setsize="10" aria-posinset="15">Top Books of the Month</a>
+<a href="/h/book-club" role="menuitem" aria-setsize="10" aria-posinset="3">B&amp;N Book Club</a>
+<a href="/b/barnes-noble-classics/_/N-rqv" role="menuitem" aria-setsize="10" aria-posinset="4">B&amp;N Classics</a>
+<a href="/b/barnes-noble-exclusives/_/N-2o2b" role="menuitem" aria-setsize="10" aria-posinset="5">B&amp;N Exclusives</a>
+<a href="/b/books/_/N-1fZ29Z8q8" role="menuitem" aria-setsize="10" aria-posinset="6">B&amp;N Top 100</a>
+<a href="/b/barnes-noble-stores-bestsellers/_/N-1p2x" role="menuitem" aria-setsize="10" aria-posinset="7">B&amp;N Stores' Bestsellers</a>
+<a href="/b/contributor/_/N-2k20" role="menuitem" aria-setsize="10" aria-posinset="8">Books by Author</a>
+<a href="/b/series/_/N-2k21" role="menuitem" aria-setsize="10" aria-posinset="9">Books by Series</a>
+<a href="/b/barnes-noble-collectible-editions/_/N-2cnb" role="menuitem" aria-setsize="10" aria-posinset="10">Collectible Editions</a>
+<a href="/b/coming-soon/_/N-1oyfZ8q8" role="menuitem" aria-setsize="10" aria-posinset="11">Coming Soon by Date</a>
+<a href="/b/books/_/N-26Z29Z8q8" role="menuitem" aria-setsize="10" aria-posinset="12">Coming Soon by Subject</a>
+<a href="/b/new-releases/_/N-1oyg" role="menuitem" aria-setsize="10" aria-posinset="13">New Releases</a>
+<a href="/b/the-new-york-times-bestsellers/_/N-1p3n" role="menuitem" aria-setsize="10" aria-posinset="14">NY Times Bestsellers</a>
+<a href="/b/signed-books-at-bncom/_/N-rp2" role="menuitem" aria-setsize="10" aria-posinset="15">Signed Books</a>
+<a href="/b/top-books-of-the-month/_/N-2luc" role="menuitem" aria-setsize="10" aria-posinset="16">Top Books of the Month</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
@@ -566,7 +559,7 @@ Books<span class="link-with-arrow ml-xxs"></span>
 <a href="/b/books/romance/_/N-29Z8q8Z17y3" role="menuitem" aria-setsize="10" aria-posinset="10">Romance</a>
 <a href="/b/books/science-fiction-fantasy/_/N-29Z8q8Z180l" role="menuitem" aria-setsize="10" aria-posinset="11">Science Fiction &amp; Fantasy</a>
 <a href="/b/books/self-help-relationships/_/N-29Z8q8Z18ly" role="menuitem" aria-setsize="10" aria-posinset="12">Self-Help &amp; Relationships</a>
-<a href="/h/books/browse" role="menuitem" aria-setsize="10" aria-posinset="13">See More &gt;</a>
+<a href="/h/books/browse" role="menuitem" aria-setsize="10" aria-posinset="13">Browse All &gt;</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
@@ -579,9 +572,9 @@ Books<span class="link-with-arrow ml-xxs"></span>
 <a href="/b/calendars/_/N-8rb" role="menuitem" aria-setsize="10" aria-posinset="5">Calendars</a>
 <a href="/h/coupons-deals" role="menuitem" aria-setsize="10" aria-posinset="6">Coupons &amp; Deals</a>
 <a href="/b/large-print/books/_/N-1pu1Z29Z8q8" role="menuitem" aria-setsize="10" aria-posinset="7">Large Print</a>
-<a href="/b/libros-en-espanol/_/N-1p6a" role="menuitem" aria-setsize="10" aria-posinset="8">Libros en español</a>
+<a href="/b/libros-en-espanol/_/N-1p6a" role="menuitem" aria-setsize="10" aria-posinset="8">Libros en Español</a>
 <a href="/b/paperback/_/N-2cnh" role="menuitem" aria-setsize="10" aria-posinset="9">The Paperback Store</a>
-<a href="https://www.nookpress.com?st=TRF&amp;sid=BNB_DRS_NewNOOKPressPOD_20160614&amp;2sid=BooksFlyoutLink_NA_NA&amp;sourceId=TRBoM00311" role="menuitem" aria-setsize="10" aria-posinset="10">Self-Publish with NOOK Press™</a>
+<a href="https://press.barnesandnoble.com" role="menuitem" aria-setsize="10" aria-posinset="10">Self-publish with B&amp;N Press</a>
 <a href="/b/shop-the-sparknotes-collection/_/N-rqa" role="menuitem" aria-setsize="10" aria-posinset="11">SparkNotes</a>
 <a href="/b/textbooks/_/N-8q9" role="menuitem" aria-setsize="10" aria-posinset="12">Textbooks</a>
 </div>
@@ -589,12 +582,14 @@ Books<span class="link-with-arrow ml-xxs"></span>
 <div class="col-lg-3" role="group">
 <div class="mb-s">
 <h2>Blogs</h2>
-<a href="/blog/this-weeks-biggest-books/" role="menuitem" aria-setsize="10" aria-posinset="1">B&amp;N's Biggest Books</a>
-<a href="//www.barnesandnoble.com/blog/" role="menuitem" aria-setsize="10" aria-posinset="2">B&amp;N Reads</a>
-<a href="//www.barnesandnoble.com/review/" role="menuitem" aria-setsize="10" aria-posinset="3">B&amp;N Review</a>
-<a href="//www.barnesandnoble.com/blog/sci-fi-fantasy/" role="menuitem" aria-setsize="10" aria-posinset="4">B&amp;N Sci-Fi &amp; Fantasy Blog</a>
-<a href="//www.barnesandnoble.com/blog/kids/" role="menuitem" aria-setsize="10" aria-posinset="5">B&amp;N Kids Blog</a>
-<a href="//www.barnesandnoble.com/blog/teen/" role="menuitem" aria-setsize="10" aria-posinset="6">B&amp;N Teens Blog</a>
+<a href="https://www.barnesandnoble.com/review/category/bnpodcast" role="menuitem" aria-setsize="10" aria-posinset="1">B&amp;N Podcast</a>
+<a href="https://www.barnesandnoble.com/blog/this-weeks-biggest-books/" role="menuitem" aria-setsize="10" aria-posinset="2">B&amp;N's Biggest Books</a>
+<a href="https://www.barnesandnoble.com/blog/" role="menuitem" aria-setsize="10" aria-posinset="3">B&amp;N Reads</a>
+<a href="https://www.barnesandnoble.com/review/" role="menuitem" aria-setsize="10" aria-posinset="4">B&amp;N Review</a>
+<a href="https://www.barnesandnoble.com/blog/sci-fi-fantasy/" role="menuitem" aria-setsize="10" aria-posinset="5">B&amp;N Sci-Fi &amp; Fantasy Blog</a>
+<a href="https://www.barnesandnoble.com/blog/kids/" role="menuitem" aria-setsize="10" aria-posinset="6">B&amp;N Kids Blog</a>
+<a href="https://www.barnesandnoble.com/blog/teen/" role="menuitem" aria-setsize="10" aria-posinset="7">B&amp;N Teens Blog</a>
+<a href="https://www.barnesandnoble.com/bnpress-blog/" role="menuitem" aria-setsize="10" aria-posinset="8">B&amp;N Press Blog</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
@@ -603,12 +598,12 @@ Books<span class="link-with-arrow ml-xxs"></span>
 <div class="header-tile">
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-<a href="/b/coming-soon/_/N-1oyfZ8q8" onclick="set_cookie('ppod_TopNav-Coming Soon_Shop Now_imagetext');">
+<a href="/h/about-browsery" onclick="set_cookie('ppod_TopNav-Browsery™ by<br>Barnes &amp; Noble_Learn More_imagetext');">
 <div class="tile-wrapper">
 <!-- ATG-10227: Navigation flyout Optimization:start -->
 <input type="hidden" name="optimizationEnabled" value="true">
 <!-- ATG-10227-Code for optimization -->
-<input type="hidden" name="contentId" value="/content/dam/ccr/bnstores/books/topnav-promopod-images/2017/PROD-10196_Books_Flyout_10-24.png">
+<input type="hidden" name="contentId" value="/content/dam/ccr/bnstores/books/topnav-promopod-images/2018/PROD-11951_BrowseryApp_Flyout-3-16-18_02.png">
 <input type="hidden" name="type" value="imageUrl">
 <!-- CQ Content renderer div for performance optimization -->
 <div name="cq-renderer" class="header-tile-image">
@@ -617,12 +612,12 @@ Books<span class="link-with-arrow ml-xxs"></span>
 <!--// CQ Content renderer div for performance optimization -->
 <div class="header-tile-content">
 <div class="promo-header-content">
-<h3 class="color-coal text--center">Coming Soon</h3>
+<h3 class="color-coal text--center">Browsery™ by<br>Barnes &amp; Noble</h3>
 </div>
 <div class="header-tile-text">
-<h6 class="color-coal text--center"> Pre-order tomorrow's bestsellers today.</h6>
+<h6 class="color-coal text--center"> The first app that talks about books the way you do.</h6>
 </div>
-<p class="color-coal text--uppercase text--center mt-0 mb-0"><u>Shop Now</u></p>
+<p class="color-coal text--uppercase text--center mt-0 mb-0"><u>Learn More</u></p>
 </div>
 </div>
 <!-- ATG-10227: Navigation flyout Optimization : end -->
@@ -642,17 +637,17 @@ NOOK Books<span class="link-with-arrow ml-xxs"></span>
 <div class="col-lg-3" role="group">
 <div class="mb-s">
 <h2>Customer Favorites</h2>
-<a href="http://www.barnesandnoble.com/readouts/?utm_source=BN%20Readouts&amp;utm_medium=NOKBOOKS%20Flyout&amp;utm_term=Launch&amp;utm_content=Blog%20&amp;utm_campaign=BN%20Readouts%20Blog" role="menuitem" aria-setsize="10" aria-posinset="1">B&amp;N Readouts</a>
-<a href="/b/nook-books/_/N-1fZ8qa" role="menuitem" aria-setsize="10" aria-posinset="2">NOOK Top 100</a>
-<a href="http://www.barnesandnoble.com/b/nook-daily-find/_/N-1p60" role="menuitem" aria-setsize="10" aria-posinset="3">NOOK Daily Find</a>
-<a href="/b/the-new-york-times-bestsellers-ebooks/_/N-1p2j" role="menuitem" aria-setsize="10" aria-posinset="4">NY Times Bestsellers</a>
-<a href="/b/nook-books/_/N-wZ1pZ8qa" role="menuitem" aria-setsize="10" aria-posinset="5">New Releases</a>
-<a href="/b/coming-soon/_/N-1oyfZ8qa" role="menuitem" aria-setsize="10" aria-posinset="6">Coming Soon</a>
-<a href="/book-graph-recommendations" role="menuitem" aria-setsize="10" aria-posinset="7">Book Graph™</a>
+<a href="/book-graph-recommendations" role="menuitem" aria-setsize="10" aria-posinset="1">Book Graph™</a>
+<a href="http://www.barnesandnoble.com/readouts/?utm_source=BN%20Readouts&amp;utm_medium=NOKBOOKS%20Flyout&amp;utm_term=Launch&amp;utm_content=Blog%20&amp;utm_campaign=BN%20Readouts%20Blog" role="menuitem" aria-setsize="10" aria-posinset="2">B&amp;N Readouts</a>
+<a href="/b/nook-books/_/N-1fZ8qa" role="menuitem" aria-setsize="10" aria-posinset="3">NOOK Top 100</a>
+<a href="http://www.barnesandnoble.com/b/nook-daily-find/_/N-1p60" role="menuitem" aria-setsize="10" aria-posinset="4">NOOK Daily Find</a>
+<a href="/b/the-new-york-times-bestsellers-ebooks/_/N-1p2j" role="menuitem" aria-setsize="10" aria-posinset="5">NY Times Bestsellers</a>
+<a href="/b/nook-books/_/N-wZ1pZ8qa" role="menuitem" aria-setsize="10" aria-posinset="6">New Releases</a>
+<a href="/b/coming-soon/_/N-1oyfZ8qa" role="menuitem" aria-setsize="10" aria-posinset="7">Coming Soon</a>
 <a href="/b/nook-books-under-5/_/N-1p5w" role="menuitem" aria-setsize="10" aria-posinset="8">NOOK Book Deals</a>
-<a href="/b/nook-press/_/N-8r8" role="menuitem" aria-setsize="10" aria-posinset="9">NOOK Press™ Books</a>
-<a href="https://www.nookpress.com" role="menuitem" aria-setsize="10" aria-posinset="10">Self-Publish with NOOK Press™</a>
-<a href="https://print.nookpress.com/?st=TRF&amp;sid=BNB_DRS_NewNOOKPressPOD_20160628&amp;2sid=NOOKBooksFlyoutLink_NA_NA&amp;sourceId=TRNOM00310" role="menuitem" aria-setsize="10" aria-posinset="11">NEW NOOK Press™ Sell in Print</a>
+<a href="/b/bn-press/_/N-8r8" role="menuitem" aria-setsize="10" aria-posinset="9">B&amp;N Press Books</a>
+<a href="https://press.barnesandnoble.com" role="menuitem" aria-setsize="10" aria-posinset="10">Self-publish with B&amp;N Press</a>
+<a href="https://press.barnesandnoble.com/" role="menuitem" aria-setsize="10" aria-posinset="11">NEW B&amp;N Press Sell in Print</a>
 <a href="/b/foreign-language-nook-books/_/N-1p5a" role="menuitem" aria-setsize="10" aria-posinset="12">NOOK Foreign Language</a>
 <a href="/b/nook-book-bundles/_/N-rrt" role="menuitem" aria-setsize="10" aria-posinset="13">NOOK Book Bundles</a>
 </div>
@@ -672,7 +667,7 @@ NOOK Books<span class="link-with-arrow ml-xxs"></span>
 <a href="/b/nook-books/science-fiction-fantasy/_/N-8qaZ180l" role="menuitem" aria-setsize="10" aria-posinset="10">Sci-Fi &amp; Fantasy</a>
 <a href="/b/nook-books/self-help-relationships/_/N-8qaZ18ly" role="menuitem" aria-setsize="10" aria-posinset="11">Self-Help &amp; Relationships</a>
 <a href="/b/nook-books/teens/_/N-8qaZ19r4" role="menuitem" aria-setsize="10" aria-posinset="12">Teen Books</a>
-<a href="/h/ebooks/subjects" role="menuitem" aria-setsize="10" aria-posinset="13">See More &gt;</a>
+<a href="/h/ebooks/subjects" role="menuitem" aria-setsize="10" aria-posinset="13">Browse All &gt;</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
@@ -701,12 +696,12 @@ NOOK Books<span class="link-with-arrow ml-xxs"></span>
 <div class="header-tile">
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-<a href="https://www.barnesandnoble.com/readouts/serial-reads" onclick="set_cookie('ppod_TopNav-Read for Free, Now on Serial Reads_Start Reading_imagetext');">
+<a href="/readouts/serial-reads" onclick="set_cookie('ppod_TopNav-Read for Free,<br>Now on Serial Reads_Start Reading_imagetext');">
 <div class="tile-wrapper">
 <!-- ATG-10227: Navigation flyout Optimization:start -->
 <input type="hidden" name="optimizationEnabled" value="true">
 <!-- ATG-10227-Code for optimization -->
-<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/books/2017/PROD-10780_SerialReads_NOOKBooks_Flyout_11-01.png">
+<input type="hidden" name="contentId" value="/content/dam/ccr/bnstores/books/topnav-promopod-images/2018/PROD_12786_06012018_SerialReads_Flyout_Image.png">
 <input type="hidden" name="type" value="imageUrl">
 <!-- CQ Content renderer div for performance optimization -->
 <div name="cq-renderer" class="header-tile-image">
@@ -715,10 +710,10 @@ NOOK Books<span class="link-with-arrow ml-xxs"></span>
 <!--// CQ Content renderer div for performance optimization -->
 <div class="header-tile-content">
 <div class="promo-header-content">
-<h3 class="color-coal text--center">Read for Free, Now on Serial Reads</h3>
+<h3 class="color-coal text--center">Read for Free,<br>Now on Serial Reads</h3>
 </div>
 <div class="header-tile-text">
-<h6 class="color-coal text--center"> A gunman is on the loose in this suspenseful Navajo Nation mystery.</h6>
+<h6 class="color-coal text--center"> A South African food columnist discovers she has a taste for mystery.</h6>
 </div>
 <p class="color-coal text--uppercase text--center mt-0 mb-0"><u>Start Reading</u></p>
 </div>
@@ -740,7 +735,7 @@ NOOK<span class="link-with-arrow ml-xxs"></span>
 <div class="col-lg-3" role="group">
 <div class="mb-s">
 <h2>NOOK Tablets</h2>
-<a href="/w/nook-tablet-7-inch-barnes-noble/1124589342?ean=9780594775201" role="menuitem" aria-setsize="10" aria-posinset="1">NOOK Tablet</a>
+<a href="/w/nook-tablet-7-inch-barnes-noble/1124589342?ean=9780594775201" role="menuitem" aria-setsize="10" aria-posinset="1">NOOK Tablet 7"</a>
 <a href="/w/samsung-galaxy-tab-a-nook-7-inch-barnes-noble/1123826273?ean=9780594762157" role="menuitem" aria-setsize="10" aria-posinset="2">Samsung Galaxy Tab A NOOK</a>
 <a href="/w/avatar-8-barnes-noble/1122314016?ean=9780594699842" role="menuitem" aria-setsize="10" aria-posinset="3">Samsung Galaxy Tab S2 NOOK</a>
 <a href="/w/samsung-galaxy-tab-e-nook-9-inch-barnes-noble/1122750330?ean=9781400697601" role="menuitem" aria-setsize="10" aria-posinset="4">Samsung Galaxy Tab E NOOK</a>
@@ -748,7 +743,7 @@ NOOK<span class="link-with-arrow ml-xxs"></span>
 <div class="mb-s">
 <h2>NOOK eReaders</h2>
 <a href="/w/nook-glow-light-3-barnes-noble/1300700828?ean=9780594777137" role="menuitem" aria-setsize="10" aria-posinset="1">NOOK GlowLight 3</a>
-<a href="/w/nook-glowlight-plus-barnes-noble/1122314015?ean=9780594680109" role="menuitem" aria-setsize="10" aria-posinset="2">NOOK GlowLight Plus</a>
+<a href="/w/nook-glow-light-3-barnes-noble/1127329365?ean=9780594918271" role="menuitem" aria-setsize="10" aria-posinset="2">Refurbished<br>NOOK GlowLight 3</a>
 </div>
 <div class="mb-s">
 <h2>NOOK Mobile Apps</h2>
@@ -789,7 +784,6 @@ NOOK<span class="link-with-arrow ml-xxs"></span>
 <div class="mb-s">
 <h2>Need Help?</h2>
 <a href="https://help.barnesandnoble.com/app/nook_support/list" role="menuitem" aria-setsize="10" aria-posinset="1">NOOK Support</a>
-<a href="https://bookclubs.barnesandnoble.com/welcome" role="menuitem" aria-setsize="10" aria-posinset="2">NOOK Support Forum</a>
 </div>
 <div class="mb-s">
 <h2>Blogs</h2>
@@ -844,7 +838,7 @@ Textbooks<span class="link-with-arrow ml-xxs"></span>
 <a href="/h/textbooks/used" role="menuitem" aria-setsize="10" aria-posinset="1">Used</a>
 <a href="/h/textbooks/rental" role="menuitem" aria-setsize="10" aria-posinset="2">Rental</a>
 <a href="/h/textbooks/new" role="menuitem" aria-setsize="10" aria-posinset="3">New</a>
-<a href="/textbook/textbook-buyback.jsp" role="menuitem" aria-setsize="10" aria-posinset="4">Sell your Textbooks</a>
+<a href="/textbook/textbook-buyback.jsp" role="menuitem" aria-setsize="10" aria-posinset="4">Sell Your Textbooks</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
@@ -867,7 +861,7 @@ Textbooks<span class="link-with-arrow ml-xxs"></span>
 <div class="header-tile">
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-<a href="/b/textbooks/_/N-8q9" onclick="set_cookie('ppod_TopNav-Up to 90% Off New &amp; Used Textbooks_Shop Now_imagetext');">
+<a href="/b/textbooks/_/N-8q9" onclick="set_cookie('ppod_TopNav-Up to 80% Off Textbooks_Shop Now_imagetext');">
 <div class="tile-wrapper">
 <!-- ATG-10227: Navigation flyout Optimization:start -->
 <input type="hidden" name="optimizationEnabled" value="true">
@@ -881,7 +875,7 @@ Textbooks<span class="link-with-arrow ml-xxs"></span>
 <!--// CQ Content renderer div for performance optimization -->
 <div class="header-tile-content">
 <div class="promo-header-content">
-<h3 class="color-coal text--center">Up to 90% Off New &amp; Used Textbooks</h3>
+<h3 class="color-coal text--center">Up to 80% Off Textbooks</h3>
 </div>
 <div class="header-tile-text">
 <h6 class="color-coal text--center"> Enjoy major savings on textbooks.</h6>
@@ -942,12 +936,12 @@ Newsstand<span class="link-with-arrow ml-xxs"></span>
 <div class="header-tile">
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-<a href="/b/nook-newsstand/newsstand/magazines/_/N-1fZ8raZ8qeZ1gzq" onclick="set_cookie('ppod_TopNav-Save up to 90%!_Shop Now_imagetext');">
+<a href="/b/nook-newsstand/newsstand/_/N-8raZ8qe" onclick="set_cookie('ppod_TopNav-Free 14-Day Trial to Any NOOK Magazine or Newspaper_Subscribe Now_imagetext');">
 <div class="tile-wrapper">
 <!-- ATG-10227: Navigation flyout Optimization:start -->
 <input type="hidden" name="optimizationEnabled" value="true">
 <!-- ATG-10227-Code for optimization -->
-<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/newsstand/2017/Newsstand_Flyout_ImageRedesign.png">
+<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/newsstand/2018/PROD_11892_02222018_DigitalNewsstand_DefaultNav_Flyout.png">
 <input type="hidden" name="type" value="imageUrl">
 <!-- CQ Content renderer div for performance optimization -->
 <div name="cq-renderer" class="header-tile-image">
@@ -956,12 +950,12 @@ Newsstand<span class="link-with-arrow ml-xxs"></span>
 <!--// CQ Content renderer div for performance optimization -->
 <div class="header-tile-content">
 <div class="promo-header-content">
-<h3 class="color-coal text--center">Save up to 90%!</h3>
+<h3 class="color-coal text--center">Free 14-Day Trial to Any NOOK Magazine or Newspaper</h3>
 </div>
 <div class="header-tile-text">
-<h6 class="color-coal text--center"> Save even more with an Annual Subscription</h6>
+<h6 class="color-coal text--center"> Valid on all first-time subscriptions.</h6>
 </div>
-<p class="color-coal text--uppercase text--center mt-0 mb-0"><u>Shop Now</u></p>
+<p class="color-coal text--uppercase text--center mt-0 mb-0"><u>Subscribe Now</u></p>
 </div>
 </div>
 <!-- ATG-10227: Navigation flyout Optimization : end -->
@@ -983,7 +977,7 @@ Teens' Books<span class="link-with-arrow ml-xxs"></span>
 <h2>Customer Favorites</h2>
 <a href="/b/books/teens/_/N-1yzwl8rZ29Z8q8Z19r4" role="menuitem" aria-setsize="10" aria-posinset="1">B&amp;N Exclusives</a>
 <a href="/b/books/teens/_/N-1fZ29Z8q8Z19r4" role="menuitem" aria-setsize="10" aria-posinset="2">Bestsellers</a>
-<a href="/b/adaptive-studios/_/N-2joy" role="menuitem" aria-setsize="10" aria-posinset="3">Adaptive Studios</a>
+<a href="/h/chloes-book-club" role="menuitem" aria-setsize="10" aria-posinset="3">Chloe's Book Club</a>
 <a href="/b/books/teens/_/N-1rZ29Z8q8Z19r4" role="menuitem" aria-setsize="10" aria-posinset="4">New Releases</a>
 <a href="/b/coming-soon/books/teens/_/N-1oyfZ8q8Z19r4" role="menuitem" aria-setsize="10" aria-posinset="5">Coming Soon</a>
 <a href="/b/nook-books/teens/_/N-8qaZ19r4" role="menuitem" aria-setsize="10" aria-posinset="6">eBooks Teens</a>
@@ -1022,12 +1016,12 @@ Teens' Books<span class="link-with-arrow ml-xxs"></span>
 <div class="header-tile">
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-<a href="/b/coming-soon/books/teens/_/N-1oyfZ8q8Z19r4" onclick="set_cookie('ppod_TopNav-Coming Soon_Shop Now_imagetext');">
+<a href="/w/a-map-of-days-ransom-riggs/1128550850?ean=9780525555629" onclick="set_cookie('ppod_TopNav-Miss Peregrine’s Peculiar Children Are Back!_Pre-Order_imagetext');">
 <div class="tile-wrapper">
 <!-- ATG-10227: Navigation flyout Optimization:start -->
 <input type="hidden" name="optimizationEnabled" value="true">
 <!-- ATG-10227-Code for optimization -->
-<input type="hidden" name="contentId" value="/content/dam/ccr/bnstores/teens/topnav-promopod-images/2017/PROD-10193_Teen_Flyout_10-31_comp.png">
+<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/teens/2018/PROD_12582_042718_TeensFlyout.png">
 <input type="hidden" name="type" value="imageUrl">
 <!-- CQ Content renderer div for performance optimization -->
 <div name="cq-renderer" class="header-tile-image">
@@ -1036,12 +1030,12 @@ Teens' Books<span class="link-with-arrow ml-xxs"></span>
 <!--// CQ Content renderer div for performance optimization -->
 <div class="header-tile-content">
 <div class="promo-header-content">
-<h3 class="color-coal text--center">Coming Soon</h3>
+<h3 class="color-coal text--center">Miss Peregrine’s Peculiar Children Are Back!</h3>
 </div>
 <div class="header-tile-text">
-<h6 class="color-coal text--center"> Pre-order tomorrow's bestselling books for teens today.</h6>
+<h6 class="color-coal text--center"> Get ready for the thrilling next chapter in the bestselling series.</h6>
 </div>
-<p class="color-coal text--uppercase text--center mt-0 mb-0"><u>Shop Now</u></p>
+<p class="color-coal text--uppercase text--center mt-0 mb-0"><u>Pre-Order</u></p>
 </div>
 </div>
 <!-- ATG-10227: Navigation flyout Optimization : end -->
@@ -1066,7 +1060,7 @@ Kids' Books<span class="link-with-arrow ml-xxs"></span>
 <a href="/b/books/kids/_/N-1fZ29Z8q8Ztu1?Ns=P_Sales_Rank" role="menuitem" aria-setsize="10" aria-posinset="3">Bestsellers</a>
 <a href="/b/coming-soon/books/kids/_/N-1oyfZ8q8Ztu1" role="menuitem" aria-setsize="10" aria-posinset="4">Coming Soon</a>
 <a href="/b/books/kids/_/N-1rZ29Z8q8Ztu1" role="menuitem" aria-setsize="10" aria-posinset="5">New Releases</a>
-<a href="/b/nook-books/kids/_/N-8qaZtu1" role="menuitem" aria-setsize="10" aria-posinset="6">eBooks Kids</a>
+<a href="/b/nook-books/kids/_/N-8qaZtu1" role="menuitem" aria-setsize="10" aria-posinset="6">Kids' eBooks</a>
 <a href="/b/books/books/awards/kids-book-awards/_/N-29Z8q8Z1s20" role="menuitem" aria-setsize="10" aria-posinset="7">Kids' Book Awards</a>
 <a href="/b/picture-books/_/N-2eg0" role="menuitem" aria-setsize="10" aria-posinset="8">Picture Books</a>
 <a href="/b/special-values-for-kids/_/N-2lbx" role="menuitem" aria-setsize="10" aria-posinset="9">Special Values for Kids</a>
@@ -1091,14 +1085,15 @@ Kids' Books<span class="link-with-arrow ml-xxs"></span>
 <div class="col-lg-3" role="group">
 <div class="mb-s">
 <h2>Top Collections</h2>
-<a href="/b/american-girl/_/N-1p0h" role="menuitem" aria-setsize="10" aria-posinset="1">American Girl</a>
-<a href="/b/diary-of-a-wimpy-kid/_/N-1pcc" role="menuitem" aria-setsize="10" aria-posinset="2">Diary of a Wimpy Kid</a>
-<a href="/b/finding-dory/_/N-2ir9" role="menuitem" aria-setsize="10" aria-posinset="3">Finding Dory</a>
-<a href="/b/harry-potter/_/N-1p38" role="menuitem" aria-setsize="10" aria-posinset="4">Harry Potter</a>
-<a href="/s/%22Land%20of%20Stories%20Series%22?Ntk=P_Series_Title&amp;Ns=P_Series_Number&amp;Ntx=mode+matchall" role="menuitem" aria-setsize="10" aria-posinset="5">Land of Stories</a>
-<a href="/b/magic-tree-house/_/N-1p0j" role="menuitem" aria-setsize="10" aria-posinset="6">Magic Tree House</a>
-<a href="/b/warriors-by-erin-hunter/_/N-2jt8" role="menuitem" aria-setsize="10" aria-posinset="7">Warriors by Erin Hunter</a>
+<a href="/b/series/a-series-of-unfortunate-events/_/N-2kp2" role="menuitem" aria-setsize="10" aria-posinset="1">A Series of Unfortunate Events</a>
+<a href="/b/american-girl/_/N-1p0h" role="menuitem" aria-setsize="10" aria-posinset="2">American Girl</a>
+<a href="/b/diary-of-a-wimpy-kid/_/N-1pcc" role="menuitem" aria-setsize="10" aria-posinset="3">Diary of a Wimpy Kid</a>
+<a href="/b/finding-dory/_/N-2ir9" role="menuitem" aria-setsize="10" aria-posinset="4">Finding Dory</a>
+<a href="/b/harry-potter/_/N-1p38" role="menuitem" aria-setsize="10" aria-posinset="5">Harry Potter</a>
+<a href="/s/%22Land%20of%20Stories%20Series%22?Ntk=P_Series_Title&amp;Ns=P_Series_Number&amp;Ntx=mode+matchall" role="menuitem" aria-setsize="10" aria-posinset="6">Land of Stories</a>
+<a href="/b/magic-tree-house/_/N-1p0j" role="menuitem" aria-setsize="10" aria-posinset="7">Magic Tree House</a>
 <a href="/b/peppa-pig/_/N-2h06" role="menuitem" aria-setsize="10" aria-posinset="8">Peppa Pig</a>
+<a href="/b/warriors-by-erin-hunter/_/N-2jt8" role="menuitem" aria-setsize="10" aria-posinset="9">Warriors by Erin Hunter</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
@@ -1126,7 +1121,7 @@ Kids' Books<span class="link-with-arrow ml-xxs"></span>
 <!-- ATG-10227: Navigation flyout Optimization:start -->
 <input type="hidden" name="optimizationEnabled" value="true">
 <!-- ATG-10227-Code for optimization -->
-<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/movies-tv/2017/PROD-10192_Kids_Flyout_11-07_img.png">
+<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/kids/2018/PROD-12057_Kids_Flyout_4-10_03.png">
 <input type="hidden" name="type" value="imageUrl">
 <!-- CQ Content renderer div for performance optimization -->
 <div name="cq-renderer" class="header-tile-image">
@@ -1167,31 +1162,30 @@ Toys &amp; Games<span class="link-with-arrow ml-xxs"></span>
 <a href="/b/toys-games/dolls-stuffed-animals/_/N-8qfZ1hmi" role="menuitem" aria-setsize="10" aria-posinset="5">Dolls &amp; Stuffed Animals</a>
 <a href="/b/toys-games/puzzles/_/N-8qfZ1hox" role="menuitem" aria-setsize="10" aria-posinset="6">Puzzles</a>
 <a href="/b/toys-games/science-center/_/N-8qfZ1hph" role="menuitem" aria-setsize="10" aria-posinset="7">Science Center</a>
-<a href="/b/toys-games/_/N-8qf" role="menuitem" aria-setsize="10" aria-posinset="8">See More &gt;</a>
+<a href="/h/toys-and-games-by-brand-or-subject/browse" role="menuitem" aria-setsize="10" aria-posinset="8">Browse All &gt;</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
 <div class="mb-s">
 <h2>Brands &amp; Characters</h2>
-<a href="/b/toys-games/brands/brio/_/N-8qfZ2kyi" role="menuitem" aria-setsize="10" aria-posinset="1">Brio</a>
-<a href="/b/toys-games/brands/gund/_/N-8qfZ2c7q" role="menuitem" aria-setsize="10" aria-posinset="2">Gund</a>
-<a href="/b/harry-potter-toys-collectibles/_/N-2g7f" role="menuitem" aria-setsize="10" aria-posinset="3">Harry Potter</a>
-<a href="/b/lego/_/N-1p5j" role="menuitem" aria-setsize="10" aria-posinset="4">LEGO</a>
-<a href="/b/toys-games/brands/melissa-doug/_/N-8qfZ2c97" role="menuitem" aria-setsize="10" aria-posinset="5">Melissa &amp; Doug</a>
-<a href="/b/toys-games/_/N-2chmZ8qf" role="menuitem" aria-setsize="10" aria-posinset="6">Minecraft</a>
-<a href="/b/playmobil/_/N-2n3g" role="menuitem" aria-setsize="10" aria-posinset="7">Playmobil</a>
-<a href="/b/scratch-europe/_/N-2o8o" role="menuitem" aria-setsize="10" aria-posinset="8">Scratch Europe</a>
-<a href="/b/skip-hop/_/N-2obr" role="menuitem" aria-setsize="10" aria-posinset="9">Skip Hop</a>
-<a href="/b/toys-games/characters/star-wars/_/N-8qfZ2cil" role="menuitem" aria-setsize="10" aria-posinset="10">Star Wars</a>
-<a href="/b/toys-games/characters/thomas-friends/_/N-8qfZ2cim" role="menuitem" aria-setsize="10" aria-posinset="11">Thomas &amp; Friends</a>
+<a href="/b/toys-games/characters/calico-critters/_/N-8qfZ2cig" role="menuitem" aria-setsize="10" aria-posinset="1">Calico Critters</a>
+<a href="/s/crazy+aaron/_/N-8qfZ15" role="menuitem" aria-setsize="10" aria-posinset="2">Crazy Aaron</a>
+<a href="/s/fingerlings/_/N-8qfZ15" role="menuitem" aria-setsize="10" aria-posinset="3">Fingerlings</a>
+<a href="/b/toys-games/brands/gund/_/N-8qfZ2c7q" role="menuitem" aria-setsize="10" aria-posinset="4">Gund</a>
+<a href="/b/harry-potter-toys-collectibles/_/N-2g7f" role="menuitem" aria-setsize="10" aria-posinset="5">Harry Potter</a>
+<a href="/s/hatchimals/_/N-8qfZ15" role="menuitem" aria-setsize="10" aria-posinset="6">Hatchimals</a>
+<a href="/b/lego/_/N-1p5j" role="menuitem" aria-setsize="10" aria-posinset="7">LEGO</a>
+<a href="/b/toys-games/brands/melissa-doug/_/N-8qfZ2c97" role="menuitem" aria-setsize="10" aria-posinset="8">Melissa &amp; Doug</a>
+<a href="/b/playmobil/_/N-2n3g" role="menuitem" aria-setsize="10" aria-posinset="9">Playmobil</a>
+<a href="/b/skip-hop/_/N-2obr" role="menuitem" aria-setsize="10" aria-posinset="10">Skip Hop</a>
+<a href="/b/toys-games/characters/star-wars/_/N-8qfZ2cil" role="menuitem" aria-setsize="10" aria-posinset="11">Star Wars</a>
+<a href="/b/toys-games/characters/thomas-friends/_/N-8qfZ2cim" role="menuitem" aria-setsize="10" aria-posinset="12">Thomas &amp; Friends</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
 <div class="mb-s">
 <h2>Deals</h2>
 <a href="/b/hot-deals-toys-games/_/N-1p5e" role="menuitem" aria-setsize="10" aria-posinset="1">All Toys &amp; Games Deals</a>
-<a href="/b/barnsie-noble-special-offer/_/N-1gvf" role="menuitem" aria-setsize="10" aria-posinset="2">Barnsie or Noble Only $9.95 With Purchase</a>
-<a href="/b/hot-deals-toys-games/_/N-1p5e" role="menuitem" aria-setsize="10" aria-posinset="3">25% Off Favorite Brands</a>
 </div>
 <div class="mb-s">
 <h2>Price</h2>
@@ -1216,12 +1210,12 @@ Toys &amp; Games<span class="link-with-arrow ml-xxs"></span>
 <div class="header-tile">
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-<a href="/b/hot-deals-toys-games/_/N-1p5e" onclick="set_cookie('ppod_TopNav-25% off Favorite Toy&nbsp;Brands_Shop Now_imagetext');">
+<a href="/b/outdoor-games/_/N-2qqd" onclick="set_cookie('ppod_TopNav-Outdoor Fun for the Whole Family_Shop Now_imagetext');">
 <div class="tile-wrapper">
 <!-- ATG-10227: Navigation flyout Optimization:start -->
 <input type="hidden" name="optimizationEnabled" value="true">
 <!-- ATG-10227-Code for optimization -->
-<input type="hidden" name="contentId" value="/content/dam/ccr/bnstores/toysandgames/topnav-promopod-images/2017/PROD-10681_HobbiesCollectibles_Flyout_11-06.png">
+<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/toys-games/2018/PROD_12887_062918_ToysGames_Flyout_Image.png">
 <input type="hidden" name="type" value="imageUrl">
 <!-- CQ Content renderer div for performance optimization -->
 <div name="cq-renderer" class="header-tile-image">
@@ -1230,10 +1224,10 @@ Toys &amp; Games<span class="link-with-arrow ml-xxs"></span>
 <!--// CQ Content renderer div for performance optimization -->
 <div class="header-tile-content">
 <div class="promo-header-content">
-<h3 class="color-coal text--center">25% off Favorite Toy&nbsp;Brands</h3>
+<h3 class="color-coal text--center">Outdoor Fun for the Whole Family</h3>
 </div>
 <div class="header-tile-text">
-<h6 class="color-coal text--center"> Save on toys from Playmobil, Fisher-Price, Battat, Melissa &amp; Doug, and&nbsp;more.</h6>
+<h6 class="color-coal text--center"> Get outside and play with backyard games from Nerf, Zuru, Laser X, and more.</h6>
 </div>
 <p class="color-coal text--uppercase text--center mt-0 mb-0"><u>Shop Now</u></p>
 </div>
@@ -1263,6 +1257,7 @@ Hobbies &amp; Collectibles<span class="link-with-arrow ml-xxs"></span>
 <a href="/b/hobbies-collectibles/puzzles/_/N-1glsZ1hox" role="menuitem" aria-setsize="10" aria-posinset="6">Puzzles</a>
 <a href="/b/hobbies-collectibles/strategy-games/_/N-1glsZ1hil" role="menuitem" aria-setsize="10" aria-posinset="7">Strategy Games</a>
 <a href="/b/hobbies-collectibles/trend/_/N-1glsZ1hpr" role="menuitem" aria-setsize="10" aria-posinset="8">Trend</a>
+<a href="/h/hobbies-collectibles-by-brand-or-category/browse" role="menuitem" aria-setsize="10" aria-posinset="9">Browse All &gt;</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
@@ -1291,9 +1286,7 @@ Hobbies &amp; Collectibles<span class="link-with-arrow ml-xxs"></span>
 <div class="col-lg-3" role="group">
 <div class="mb-s">
 <h2>Deals</h2>
-<a href="/b/20-off-select-classic-games/_/N-2oeb" role="menuitem" aria-setsize="10" aria-posinset="1">20% off Select Classic Games</a>
-<a href="/b/25-off-bananagrams/_/N-2oed" role="menuitem" aria-setsize="10" aria-posinset="2">25% Off Bananagrams Games</a>
-<a href="/b/hot-deals-in-hobbies-collectibles/_/N-2l29" role="menuitem" aria-setsize="10" aria-posinset="3">All Hobbies &amp; Collectibles Deals</a>
+<a href="/b/hot-deals-in-hobbies-collectibles/_/N-2l29" role="menuitem" aria-setsize="10" aria-posinset="1">All Hobbies &amp; Collectibles Deals</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
@@ -1302,12 +1295,12 @@ Hobbies &amp; Collectibles<span class="link-with-arrow ml-xxs"></span>
 <div class="header-tile">
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-<a href="/b/20-off-select-classic-games/_/N-2oeb" onclick="set_cookie('ppod_TopNav-20% off Select Games_Shop Now_imagetext');">
+<a href="/b/hobbies-collectibles/special-collections/lego-architecture/_/N-1glsZ1qn2?Ns=P_Publication_Date%7C1" onclick="set_cookie('ppod_TopNav-New from Lego Architecture_Shop Now_imagetext');">
 <div class="tile-wrapper">
 <!-- ATG-10227: Navigation flyout Optimization:start -->
 <input type="hidden" name="optimizationEnabled" value="true">
 <!-- ATG-10227-Code for optimization -->
-<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/hobbies/2017/PROD-10683_HobbiesCollectibles_Flyout_11-07.png">
+<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/hobbies/2017/PROD-9698_Hobbies_Lego_Architecture_Flyout_Image.png">
 <input type="hidden" name="type" value="imageUrl">
 <!-- CQ Content renderer div for performance optimization -->
 <div name="cq-renderer" class="header-tile-image">
@@ -1316,10 +1309,10 @@ Hobbies &amp; Collectibles<span class="link-with-arrow ml-xxs"></span>
 <!--// CQ Content renderer div for performance optimization -->
 <div class="header-tile-content">
 <div class="promo-header-content">
-<h3 class="color-coal text--center">20% off Select Games</h3>
+<h3 class="color-coal text--center">New from Lego Architecture</h3>
 </div>
 <div class="header-tile-text">
-<h6 class="color-coal text--center"> Stock up on favorites for Family Game Night.</h6>
+<h6 class="color-coal text--center"> Capture the architectural elegance of one of the world's best-known monuments with this impressive interpretation of the Arc de Triomphe.</h6>
 </div>
 <p class="color-coal text--uppercase text--center mt-0 mb-0"><u>Shop Now</u></p>
 </div>
@@ -1341,14 +1334,15 @@ Home &amp; Gifts<span class="link-with-arrow ml-xxs"></span>
 <div class="col-lg-3" role="group">
 <div class="mb-s">
 <h2>Popular Categories</h2>
-<a href="/b/home-gifts/art-supplies/_/N-8qgZ1h02" role="menuitem" aria-setsize="10" aria-posinset="1">Art Supplies</a>
-<a href="/b/home-gifts/bags-totes/_/N-8qgZ1h04" role="menuitem" aria-setsize="10" aria-posinset="2">Bags &amp; Totes</a>
-<a href="/b/home-gifts/decorative-accents/_/N-8qgZ1h05" role="menuitem" aria-setsize="10" aria-posinset="3">Decorative Accents</a>
-<a href="/b/home-gifts/electronics/_/N-8qgZ1hj0" role="menuitem" aria-setsize="10" aria-posinset="4">Electronics</a>
-<a href="/b/home-gifts/journals/_/N-8qgZ1hg8" role="menuitem" aria-setsize="10" aria-posinset="5">Journals</a>
-<a href="/b/home-gifts/reading-aids/_/N-8qgZ1hgh" role="menuitem" aria-setsize="10" aria-posinset="6">Reading Aids</a>
-<a href="/b/calendars/_/N-8rb" role="menuitem" aria-setsize="10" aria-posinset="7">Calendars</a>
-<a href="/b/home-gift/_/N-8qg" role="menuitem" aria-setsize="10" aria-posinset="8">See All &gt;</a>
+<a href="/b/activity-kits/_/N-2gsw" role="menuitem" aria-setsize="10" aria-posinset="1">Activity Kits</a>
+<a href="/b/home-gifts/art-supplies/_/N-8qgZ1h02" role="menuitem" aria-setsize="10" aria-posinset="2">Art Supplies</a>
+<a href="/b/home-gifts/bags-totes/_/N-8qgZ1h04" role="menuitem" aria-setsize="10" aria-posinset="3">Bags &amp; Totes</a>
+<a href="/b/home-gifts/decorative-accents/_/N-8qgZ1h05" role="menuitem" aria-setsize="10" aria-posinset="4">Decorative Accents</a>
+<a href="/b/home-gifts/electronics/_/N-8qgZ1hj0" role="menuitem" aria-setsize="10" aria-posinset="5">Electronics</a>
+<a href="/b/home-gifts/journals/_/N-8qgZ1hg8" role="menuitem" aria-setsize="10" aria-posinset="6">Journals</a>
+<a href="/b/home-gifts/reading-aids/_/N-8qgZ1hgh" role="menuitem" aria-setsize="10" aria-posinset="7">Reading Aids</a>
+<a href="/b/calendars/_/N-8rb" role="menuitem" aria-setsize="10" aria-posinset="8">Calendars</a>
+<a href="/h/home-and-gifts-by-brand-or-subject/browse" role="menuitem" aria-setsize="10" aria-posinset="9">Browse All &gt;</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
@@ -1372,28 +1366,30 @@ Home &amp; Gifts<span class="link-with-arrow ml-xxs"></span>
 <div class="col-lg-3" role="group">
 <div class="mb-s">
 <h2>Special Collections</h2>
-<a href="/b/moma-collection/_/N-2o2a?showMoreIds=11346" role="menuitem" aria-setsize="10" aria-posinset="1">MoMA Collection</a>
-<a href="/b/harry-potter/_/N-1p38" role="menuitem" aria-setsize="10" aria-posinset="2">Harry Potter</a>
-<a href="/b/fantastic-beasts-gifts-for-harry-potter-fans/_/N-2kxc" role="menuitem" aria-setsize="10" aria-posinset="3">Fantastic Beasts</a>
-<a href="/b/star-wars/_/N-1p49" role="menuitem" aria-setsize="10" aria-posinset="4">Star Wars</a>
-</div>
-<div class="mb-s">
-<h2>Favorite Brands</h2>
-<a href="/b/home-gifts/brands/moleskine/_/N-8qgZ2cpi" role="menuitem" aria-setsize="10" aria-posinset="1">Moleskine</a>
-<a href="/b/home-gifts/brands/vera-bradley/_/N-8qgZ2cr9" role="menuitem" aria-setsize="10" aria-posinset="2">Vera Bradley</a>
-<a href="/b/home-gifts/brands/knock-knock/_/N-8qgZ2cqb" role="menuitem" aria-setsize="10" aria-posinset="3">Knock Knock</a>
-<a href="/b/kate-spade-new-york/_/N-1qnz" role="menuitem" aria-setsize="10" aria-posinset="4">Kate Spade New York</a>
-<a href="/b/bando-collection/_/N-2eeb" role="menuitem" aria-setsize="10" aria-posinset="5">Ban.do Collection</a>
+<a href="/b/gifts-for-grads/home-gifts/_/N-2mc6Z8qg" role="menuitem" aria-setsize="10" aria-posinset="1">Gifts for Grads</a>
+<a href="/b/fantastic-beasts-gifts-for-harry-potter-fans/_/N-2kxc" role="menuitem" aria-setsize="10" aria-posinset="2">Fantastic Beasts</a>
+<a href="/b/harry-potter/_/N-1p38" role="menuitem" aria-setsize="10" aria-posinset="3">Harry Potter</a>
+<a href="/b/shades-of-blue-shell-love/_/N-2qf8" role="menuitem" aria-setsize="10" aria-posinset="4">Hues of Blue</a>
+<a href="/b/mindfullness-collection/_/N-2obf" role="menuitem" aria-setsize="10" aria-posinset="5">Mindfulness</a>
+<a href="/b/home-gifts/_/N-1rZ8qgZ15" role="menuitem" aria-setsize="10" aria-posinset="6">What’s New</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
 <div class="mb-s">
-<h2>Seasonal Favorites</h2>
-<a href="/b/holiday-tote-1295-with-purchase/_/N-2fyf" role="menuitem" aria-setsize="10" aria-posinset="1">Exclusive Holiday Tote: $12.95 with Purchase</a>
-<a href="/b/30-off-holiday-boxed-cards/_/N-2g6y" role="menuitem" aria-setsize="10" aria-posinset="2">30% Off Holiday Boxed Cards</a>
-<a href="/b/peace-collection/_/N-2obg" role="menuitem" aria-setsize="10" aria-posinset="3">Peace Collection</a>
-<a href="/b/mindfullness-collection/_/N-2obf" role="menuitem" aria-setsize="10" aria-posinset="4">Mindfulness Collection</a>
-<a href="/b/stocking-stuffers/_/N-2kxm?showMoreIds=11346" role="menuitem" aria-setsize="10" aria-posinset="5">Stocking Stuffers</a>
+<h2>Favorite Brands</h2>
+<a href="/b/bando-collection/_/N-2eeb" role="menuitem" aria-setsize="10" aria-posinset="1">Ban.do Collection</a>
+<a href="/b/fjallraven/_/N-2q50" role="menuitem" aria-setsize="10" aria-posinset="2">Fjallraven</a>
+<a href="/b/kate-spade-new-york/_/N-1qnz" role="menuitem" aria-setsize="10" aria-posinset="3">Kate Spade New York</a>
+<a href="/b/home-gifts/brands/knock-knock/_/N-8qgZ2cqb" role="menuitem" aria-setsize="10" aria-posinset="4">Knock Knock</a>
+<a href="/b/lamy-pens/_/N-2oha?showMoreIds=11346" role="menuitem" aria-setsize="10" aria-posinset="5">LAMY Pens</a>
+<a href="/b/home-gifts/brands/moleskine/_/N-8qgZ2cpi" role="menuitem" aria-setsize="10" aria-posinset="6">Moleskine</a>
+<a href="/b/poppin/_/N-2oqa" role="menuitem" aria-setsize="10" aria-posinset="7">Poppin Office Supplies</a>
+<a href="/b/home-gifts/brands/vera-bradley/_/N-8qgZ2cr9" role="menuitem" aria-setsize="10" aria-posinset="8">Vera Bradley</a>
+</div>
+<div class="mb-s">
+<h2>Deals</h2>
+<a href="/b/journals-under-10/home-gifts/_/N-2n5mZ8qg" role="menuitem" aria-setsize="10" aria-posinset="1">Bestselling Journals Under $10</a>
+<a href="/b/promotions/home-gift/_/N-rrkZ8qg" role="menuitem" aria-setsize="10" aria-posinset="2">Clearance Now 75% Off</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
@@ -1402,12 +1398,12 @@ Home &amp; Gifts<span class="link-with-arrow ml-xxs"></span>
 <div class="header-tile">
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-<a href="/b/holiday-tote-1295-with-purchase/_/N-2fyf" onclick="set_cookie('ppod_TopNav-Exclusive Holiday Tote Only $12.95 With Purchase_See Details_imagetext');">
+<a href="/b/fathers-day/_/N-2qjv" onclick="set_cookie('ppod_TopNav-Father’s Day Favorites_Shop Gifts_imagetext');">
 <div class="tile-wrapper">
 <!-- ATG-10227: Navigation flyout Optimization:start -->
 <input type="hidden" name="optimizationEnabled" value="true">
 <!-- ATG-10227-Code for optimization -->
-<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/home-gift/2017/PROD-10761_H&amp;GHolidayTote_Flyout_image.png">
+<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/home-gift/2018/PROD_12663_05142018_Home&amp;Gift_FathersDay_Flyout_Image.png">
 <input type="hidden" name="type" value="imageUrl">
 <!-- CQ Content renderer div for performance optimization -->
 <div name="cq-renderer" class="header-tile-image">
@@ -1416,12 +1412,12 @@ Home &amp; Gifts<span class="link-with-arrow ml-xxs"></span>
 <!--// CQ Content renderer div for performance optimization -->
 <div class="header-tile-content">
 <div class="promo-header-content">
-<h3 class="color-coal text--center">Exclusive Holiday Tote Only $12.95 With Purchase</h3>
+<h3 class="color-coal text--center">Father’s Day Favorites</h3>
 </div>
 <div class="header-tile-text">
-<h6 class="color-coal text--center"> Carry your gifts in style this holiday season.</h6>
+<h6 class="color-coal text--center"> Skip the tie this year and get Dad a gift he’ll use everyday.</h6>
 </div>
-<p class="color-coal text--uppercase text--center mt-0 mb-0"><u>See Details</u></p>
+<p class="color-coal text--uppercase text--center mt-0 mb-0"><u>Shop Gifts</u></p>
 </div>
 </div>
 <!-- ATG-10227: Navigation flyout Optimization : end -->
@@ -1459,6 +1455,7 @@ Movies &amp; TV<span class="link-with-arrow ml-xxs"></span>
 <a href="/b/movies-tv/drama/_/N-8qhZ1etw" role="menuitem" aria-setsize="10" aria-posinset="5">Drama</a>
 <a href="/b/movies-tv/fitness-instructional/_/N-8qhZ1evs" role="menuitem" aria-setsize="10" aria-posinset="6">Fitness</a>
 <a href="/b/movies-tv/children/_/N-8qhZ1eq5" role="menuitem" aria-setsize="10" aria-posinset="7">Kids</a>
+<a href="/h/movies-and-tv-by-genre-or-subject/browse" role="menuitem" aria-setsize="10" aria-posinset="8">Browse All &gt;</a>
 </div>
 <div class="mb-s">
 <h2>Related Categories</h2>
@@ -1494,12 +1491,12 @@ Movies &amp; TV<span class="link-with-arrow ml-xxs"></span>
 <div class="header-tile">
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-<a href="/b/the-criterion-collection-50-off/_/N-2o7e" onclick="set_cookie('ppod_TopNav-50% Off the Criterion Collection_Shop Now_imagetext');">
+<a href="/b/classic-tv-40-off/_/N-2qpl" onclick="set_cookie('ppod_TopNav-40% Off Classic TV_Shop Now_imagetext');">
 <div class="tile-wrapper">
 <!-- ATG-10227: Navigation flyout Optimization:start -->
 <input type="hidden" name="optimizationEnabled" value="true">
 <!-- ATG-10227-Code for optimization -->
-<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/movies-tv/2017/PROD-10388_MoviesTV_Hero_Flyout.png">
+<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/movies-tv/2018/PROD_12905_061818_MoviesTV_Flyout_Image.png">
 <input type="hidden" name="type" value="imageUrl">
 <!-- CQ Content renderer div for performance optimization -->
 <div name="cq-renderer" class="header-tile-image">
@@ -1508,10 +1505,10 @@ Movies &amp; TV<span class="link-with-arrow ml-xxs"></span>
 <!--// CQ Content renderer div for performance optimization -->
 <div class="header-tile-content">
 <div class="promo-header-content">
-<h3 class="color-coal text--center">50% Off the Criterion Collection</h3>
+<h3 class="color-coal text--center">40% Off Classic TV</h3>
 </div>
 <div class="header-tile-text">
-<h6 class="color-coal text--center"> Save on deluxe editions of great films through 11/30/17.</h6>
+<h6 class="color-coal text--center"> Shop our huge collection of Classic TV titles and rediscover your favorite classic shows</h6>
 </div>
 <p class="color-coal text--uppercase text--center mt-0 mb-0"><u>Shop Now</u></p>
 </div>
@@ -1553,12 +1550,13 @@ Music<span class="link-with-arrow ml-xxs"></span>
 <a href="/b/music/pop/_/N-8qiZ1du0" role="menuitem" aria-setsize="10" aria-posinset="7">Pop Music</a>
 <a href="/b/music/rock/_/N-8qiZ1e2j" role="menuitem" aria-setsize="10" aria-posinset="8">Rock</a>
 <a href="/b/music/soundtracks/_/N-8qiZ1e6t" role="menuitem" aria-setsize="10" aria-posinset="9">Soundtracks</a>
+<a href="/h/music-by-genre-or-subject/browse" role="menuitem" aria-setsize="10" aria-posinset="10">Browse All &gt;</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
 <div class="mb-s">
 <h2>Special Collections</h2>
-<a href="/b/2017-grammy-nominees/_/N-2l7x" role="menuitem" aria-setsize="10" aria-posinset="1">2017 GRAMMY® Nominees</a>
+<a href="/b/2018-grammy-nominees/_/N-2l7x" role="menuitem" aria-setsize="10" aria-posinset="1">2018 GRAMMY® Nominees</a>
 <a href="/b/featured-artist-bruce-springsteen/_/N-2jtz" role="menuitem" aria-setsize="10" aria-posinset="2">Bruce Springsteen</a>
 <a href="/s/%22The%20Beatles%22/_/N-8qi/?Ns=P_Sales_Rank&amp;Ntk=P_key_Contributor_List&amp;Ntx=mode+matchall" role="menuitem" aria-setsize="10" aria-posinset="3">The Beatles</a>
 <a href="/b/tony-bennett/_/N-1p6w" role="menuitem" aria-setsize="10" aria-posinset="4">Tony Bennett</a>
@@ -1576,7 +1574,7 @@ Music<span class="link-with-arrow ml-xxs"></span>
 <a href="/b/499-cd-sale/_/N-rqd" role="menuitem" aria-setsize="10" aria-posinset="1">$4.99 CD Sale</a>
 <a href="/b/699-cd-sale/_/N-rb7" role="menuitem" aria-setsize="10" aria-posinset="2">$6.99 CD Sale</a>
 <a href="/b/999-cd-sale/_/N-1gn7" role="menuitem" aria-setsize="10" aria-posinset="3">$9.99 CD Sale</a>
-<a href="/b/music-deals/_/N-rjs" role="menuitem" aria-setsize="10" aria-posinset="4">Music Deals</a>
+<a href="/b/music-deals/_/N-rjs" role="menuitem" aria-setsize="10" aria-posinset="4">All Music Deals</a>
 </div>
 </div>
 <div class="col-lg-3" role="group">
@@ -1613,51 +1611,37 @@ Music<span class="link-with-arrow ml-xxs"></span>
 </div>
 </li>
 <li id="topNav13" class="red-menu-item nav-item main-cat-13">
-<a href="/b/bargain-books/_/N-8qb" role="menuitem" aria-setsize="13" aria-posinset="1">Sale</a>
+<a href="/b/clearance/_/N-2o4o" role="menuitem" aria-setsize="13" aria-posinset="1">Sale</a>
 <div class="nav-menu">
 <div class="row">
 <div id="topNavHeader13" class="top-nav-header-bg pt-xs pb-s pl-xxs">
-<a href="/b/bargain-books/_/N-8qb">
+<a href="/b/clearance/_/N-2o4o">
 Sale<span class="link-with-arrow ml-xxs"></span>
 </a>
 </div>
-<div class="col-lg-3" role="group">
+<div class="col-lg-4" role="group">
 <div class="mb-s">
-<h2>Subjects</h2>
-<a href="/b/bargain-books/art-architecture-photography/_/N-8qbZs9i" role="menuitem" aria-setsize="10" aria-posinset="1">Art, Architecture &amp; Photography</a>
-<a href="/b/bargain-books/biography/_/N-8qbZsoc" role="menuitem" aria-setsize="10" aria-posinset="2">Biography</a>
-<a href="/b/bargain-books/cookbooks-food-wine/_/N-8qbZy3b" role="menuitem" aria-setsize="10" aria-posinset="3">Cookbooks, Food &amp; Wine</a>
-<a href="/b/bargain-books/diet-health-fitness/_/N-8qbZ11ip" role="menuitem" aria-setsize="10" aria-posinset="4">Diet, Health &amp; Fitness</a>
-<a href="/b/bargain-books/fiction/_/N-8qbZ10h8" role="menuitem" aria-setsize="10" aria-posinset="5">Fiction</a>
-<a href="/b/bargain-books/history/_/N-8qbZ11km" role="menuitem" aria-setsize="10" aria-posinset="6">History</a>
-<a href="/b/bargain-books/mystery-crime/_/N-8qbZ16g4" role="menuitem" aria-setsize="10" aria-posinset="7">Mystery &amp; Crime</a>
-<a href="/b/bargain-books/religion/_/N-8qbZ17d6" role="menuitem" aria-setsize="10" aria-posinset="8">Religion</a>
-<a href="/b/bargain-books/romance/_/N-8qbZ17y3" role="menuitem" aria-setsize="10" aria-posinset="9">Romance</a>
-<a href="/b/bargain-books/science-fiction-fantasy/_/N-8qbZ180l" role="menuitem" aria-setsize="10" aria-posinset="10">Science Fiction &amp; Fantasy</a>
-<a href="/b/bargain-books/self-help-relationships/_/N-8qbZ18ly" role="menuitem" aria-setsize="10" aria-posinset="11">Self-Help &amp; Relationships</a>
+<h2>Sale Categories</h2>
+<a href="/b/clearance/books/_/N-2o4oZ8q8" role="menuitem" aria-setsize="10" aria-posinset="1">Books</a>
+<a href="/b/clearance/kids-books/_/N-2o4oZ8qc" role="menuitem" aria-setsize="10" aria-posinset="2">Kids' Books</a>
+<a href="/b/clearance/home-gifts/_/N-2o4oZ8qg" role="menuitem" aria-setsize="10" aria-posinset="3">Home &amp; Gifts</a>
+<a href="/b/clearance/toys-games/_/N-2o4oZ8qf" role="menuitem" aria-setsize="10" aria-posinset="4">Toys &amp; Games</a>
+<a href="/b/clearance/hobbies-collectibles/_/N-2o4oZ1gls" role="menuitem" aria-setsize="10" aria-posinset="5">Hobbies &amp; Collectibles</a>
+<a href="/b/clearance/_/N-2o4oZ1z1419g" role="menuitem" aria-setsize="10" aria-posinset="6">Calendars</a>
 </div>
 </div>
-<div class="col-lg-3" role="group">
+<div class="col-lg-4" role="group">
 <div class="mb-s">
-<h2>Customer Favorites</h2>
-<a href="/b/activity-kits/_/N-2gsw" role="menuitem" aria-setsize="10" aria-posinset="1">Activity Kits</a>
-<a href="/b/bargain-books/_/N-1fZ8qb" role="menuitem" aria-setsize="10" aria-posinset="2">Bargain Bestsellers</a>
+<h2>Bargain Books</h2>
+<a href="/b/bargain-books/_/N-1fZ8qb" role="menuitem" aria-setsize="10" aria-posinset="1">Bargain Bestsellers</a>
+<a href="/b/activity-kits/bargain-books/_/N-2gswZ8qb" role="menuitem" aria-setsize="10" aria-posinset="2">Activity Kits</a>
 <a href="/b/barnes-noble-classics/_/N-rqv" role="menuitem" aria-setsize="10" aria-posinset="3">B&amp;N Classics</a>
 <a href="/b/barnes-noble-collectible-editions/_/N-2cnb" role="menuitem" aria-setsize="10" aria-posinset="4">B&amp;N Collectible Editions</a>
-<a href="/b/bargain-books/_/N-cZ8qb" role="menuitem" aria-setsize="10" aria-posinset="5">Books under $5</a>
+<a href="/b/bargain-books/_/N-cZ8qb" role="menuitem" aria-setsize="10" aria-posinset="5">Books Under $5</a>
+<a href="/b/bargain-books/_/N-8qb" role="menuitem" aria-setsize="10" aria-posinset="6">All Bargain Books</a>
 </div>
 </div>
-<div class="col-lg-3" role="group">
-<div class="mb-s">
-<h2>More Bargains</h2>
-<a href="/b/promotions/home-gift/electronics/_/N-rrkZ8qgZ1hj0" role="menuitem" aria-setsize="10" aria-posinset="1">Electronics</a>
-<a href="/b/promotions/home-gift/_/N-rrkZ8qg" role="menuitem" aria-setsize="10" aria-posinset="2">Home &amp; Gifts</a>
-<a href="/b/movies-tv/_/N-3Z8qh" role="menuitem" aria-setsize="10" aria-posinset="3">Movies &amp; TV</a>
-<a href="/b/music/_/N-3Z8qi" role="menuitem" aria-setsize="10" aria-posinset="4">Music</a>
-<a href="/b/toys-games/_/N-cZ8qf" role="menuitem" aria-setsize="10" aria-posinset="5">Toys &amp; Games</a>
-</div>
-</div>
-<div class="col-lg-3" role="group">
+<div class="col-lg-4" role="group">
 <div class="mb-s">
 <h2>More Ways to Save</h2>
 <a href="/h/coupons-deals" role="menuitem" aria-setsize="10" aria-posinset="1">Coupons &amp; Deals</a>
@@ -1665,18 +1649,18 @@ Sale<span class="link-with-arrow ml-xxs"></span>
 <a href="/membership/" role="menuitem" aria-setsize="10" aria-posinset="3">Membership</a>
 </div>
 </div>
-<div class="col-lg-3" role="group">
+<div class="col-lg-4" role="group">
 </div>
 </div>
 <div class="header-tile">
 <!-- Internal Component Tracking - Begin -->
 <!-- Internal Component Tracking - End -->
-<a href="/b/barnes-noble-collectible-editions/_/N-2cnb" onclick="set_cookie('ppod_TopNav-B&amp;N Collectible Editions_Shop Now_imagetext');">
+<a href="/b/clearance/_/N-2o4o" onclick="set_cookie('ppod_TopNav-Clearance: Now 75% Off_Shop Now_imagetext');">
 <div class="tile-wrapper">
 <!-- ATG-10227: Navigation flyout Optimization:start -->
 <input type="hidden" name="optimizationEnabled" value="true">
 <!-- ATG-10227-Code for optimization -->
-<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/bargain/2017/PROD-7100_BargainUpdate_Flyout_ImageRedesign.png">
+<input type="hidden" name="contentId" value="/content/dam/ccr/topnav/bargain/2017/PROD-11817_SaleFlyout.png">
 <input type="hidden" name="type" value="imageUrl">
 <!-- CQ Content renderer div for performance optimization -->
 <div name="cq-renderer" class="header-tile-image">
@@ -1685,10 +1669,10 @@ Sale<span class="link-with-arrow ml-xxs"></span>
 <!--// CQ Content renderer div for performance optimization -->
 <div class="header-tile-content">
 <div class="promo-header-content">
-<h3 class="color-coal text--center">B&amp;N Collectible Editions</h3>
+<h3 class="color-coal text--center">Clearance: Now 75% Off</h3>
 </div>
 <div class="header-tile-text">
-<h6 class="color-coal text--center"> Beautifully designed editions at everyday low prices.</h6>
+<h6 class="color-coal text--center"> Save on thousands of books, toys, and so much more.</h6>
 </div>
 <p class="color-coal text--uppercase text--center mt-0 mb-0"><u>Shop Now</u></p>
 </div>
@@ -1701,10 +1685,19 @@ Sale<span class="link-with-arrow ml-xxs"></span>
 </ul>
 </nav>
 </header>
-<div id="bagContentsContainer"></div>
 <div id="screen"></div>
-<main role="main" class="bg-whole-site-color">
-<script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/header.js?v4.12.1"></script>
+<main role="main" class="bg-whole-site-color pt-m h-page-padding">
+<script>
+if(typeof performance.mark !== 'undefined' && typeof performance.measure !== 'undefined')
+{
+performance.mark("Global_Header_loading_ends");
+performance.measure(
+"globalHeaderDur",
+"Global_Header_loading_starts",
+"Global_Header_loading_ends"
+);
+}
+</script>
 <div class="browser-notice ie-outdated hidden">
 <div>
 <span class="x">×</span>
@@ -1750,7 +1743,7 @@ $('.ie-outdated').show();
 <section id="main-content" class="landing-page-content ">
 <div class="header">
 </div>
-<div class="main-content container pt-0">
+<div class="main-content container ">
 <section class="pb-xs">
 <header role="presentation" class="pb-xs">
 <h1>Privacy Policy</h1></header>
@@ -1758,8 +1751,14 @@ $('.ie-outdated').show();
 <div class="html"><div class="html-embed-container"><style>.bn-pp-copy h3 { font-weight: bold; font-size: 18px; color: #b0a178; margin-bottom:0px; padding-bottom:0px; } .bn-pp-copy p { font-size: 15px; margin-top:0px; } .bn-pp-copy a { text-decoration: underline; } .bn-pp-copy ul li { color: #5a7d56; list-style-type: decimal; list-style-position: inside; } .bn-pp-copy ul li a { color: #5a7d56; line-height: 20px; } .copy {padding:0 15px;} </style><div id="mainContent"><div class="copy bn-pp-copy"><p>At Barnes &amp; Noble we value all of our customers and understand that you care about the privacy and security of your personal information. The Privacy Principles set out below apply to Barnes &amp; Noble's collection, storage, use and disclosure of personal information that may be collected by us when you interact with Barnes &amp; Noble, such as when you visit our stores or websites, or use our devices or applications, participate in our Member program, or deal with customer service.</p><p>Protecting the privacy and security of your personal information is a priority at Barnes &amp; Noble, and we do our best to ensure that your personal information is always handled in a safe and responsible manner in accordance with the following Privacy Principles.</p><h3>CLARITY</h3><p>Barnes &amp; Noble strives to communicate clearly about your privacy and how we handle your personal information.</p><h3>SECURITY</h3><p>Barnes &amp; Noble follows security standards, processes and procedures that are designed to protect your personal information.</p><h3>INTEGRITY</h3><p>Barnes &amp; Noble does not sell or rent your personal information and respects your preferences with respect to your personal information, in accordance with these Privacy Principles, as well as our Privacy Policy.</p><p>To read the complete Barnes &amp; Noble Privacy Policy, <a href="/h/help/privacy-policy-complete">please click here</a>. In it you will find the answers to the following questions:</p><ul><li><a href="/h/help/privacy-policy-complete#q1">What is the personal information that we collect?</a></li><li><a href="/h/help/privacy-policy-complete#q2">Why do we collect personal information?</a></li><li><a href="/h/help/privacy-policy-complete#q3">How do we collect your personal information?</a></li><li><a href="/h/help/privacy-policy-complete#q4">How do we use personal information?</a></li><li><a href="/h/help/privacy-policy-complete#q5">With whom do we share personal information?</a></li><li><a href="/h/help/privacy-policy-complete#q6">How do we secure personal information?</a></li><li><a href="/h/help/privacy-policy-complete#q7">How do we respect your choices about your personal information?</a></li><li><a href="/h/help/privacy-policy-complete#q8">Whom do I contact if I have questions or concerns?</a></li><li><a href="/h/help/privacy-policy-complete#q9">What other information about Barnes &amp; Noble's Privacy Policy would I want to know?</a></li></ul></div></div></div></div></div>
 <!-- Implementation ATG-11199:bloomreach start -->
 <!-- Implementation ATG-11199:bloomreach end -->
-<div class="container">
-<footer class="footer-normal"><ul class="footer-promo-container"><li class="footer-promo-item"><p>NOOK Press</p><p>Publish your book with B&amp;N</p><p><a href="https://www.nookpress.com/"> Learn More <span class="link-with-arrow"></span> </a> </p></li><li class="footer-promo-item"><p>The B&amp;N Mastercard®</p><p>5% Back on All B&amp;N Purchases</p><p><a href="//www.barnesandnoble.com/h/bn-mastercard"> Learn More <span class="link-with-arrow"></span> </a> </p></li><li class="footer-promo-item"><p>Barnes &amp; Noble Café</p><p>Relax and Refuel</p><p><a href="//www.barnesandnoble.com/h/cafe"> Visit BN Café <span class="link-with-arrow"></span> </a> </p></li><li class="footer-promo-item"><p>B&amp;N Membership</p><p>Don't Miss Out on Savings</p><p><a href="//www.barnesandnoble.com/membership"> Learn More <span class="link-with-arrow"></span> </a> </p></li></ul><div class="new-global-footer-link-container"><div class="footer-normal__column"><h2 class="h2-as-h6">B&amp;N Services</h2><ul><li><a href="http://www.barnesandnoble.com/h/bn-advertising">Advertise</a></li><li><a href="http://affiliates.barnesandnoble.com/">Affiliate Program</a></li><li><a href="https://help.barnesandnoble.com/app/publisher_author/list">Publisher &amp; Author Guidelines</a></li><li><a href="//www.barnesandnoble.com/customer-service/bulk-order.jsp">Bulk Order Discounts</a></li><li><a href="//www.barnesandnoble.com/membership/">B&amp;N Membership</a></li><li><a href="//www.barnesandnoble.com/h/bn-mastercard">B&amp;N Mastercard</a></li><li><a href="https://www.barnesandnoble.com/account/kidsclub/">B&amp;N Kids' Club</a></li><li><a href="//www.barnesandnoble.com/h/bn-educators">B&amp;N Educators</a></li><li><a href="//www.barnesandnoble.com//h/bookfairs">B&amp;N Bookfairs</a></li></ul></div><div class="footer-normal__column"><h2 class="h2-as-h6">Shipping &amp;<br> Delivery</h2><ul><li><a href="https://help.barnesandnoble.com/app/shipping_free_shipping/list">About Free Shipping</a></li><li><a href="https://help.barnesandnoble.com/app/shipping_free_shipping/list">About Shipping</a></li><li><a href="https://help.barnesandnoble.com/app/shipping_free_shipping/list">Shipping Rates</a></li></ul></div><div class="footer-normal__column"><h2 class="h2-as-h6">NOOK</h2><ul><li><a href="//www.barnesandnoble.com/b/nook/_/N-1pbl">NOOK Tablets &amp; eReaders</a></li><li><a href="//www.barnesandnoble.com/h/nook/apps">NOOK Mobile Apps</a></li></ul></div><div class="footer-normal__column"><h2 class="h2-as-h6">About Us</h2><ul><li><a href="//www.barnesandnoble.com/h/help/about/barnesandnoble">About B&amp;N</a></li><li><a href="http://investors.barnesandnobleinc.com/index.cfm">Investor Relations</a></li><li><a href="http://www.barnesandnobleinc.com/">Barnes &amp; Noble, Inc.</a></li><li><a href="http://careers.barnesandnoble.com/">Careers at B&amp;N</a></li></ul></div><div class="footer-normal__column"><h2 class="h2-as-h6">Quick Help</h2><ul><li><a href="https://help.barnesandnoble.com/">Customer Service</a></li><li><a href="http://www.barnesandnoble.com/account/">Order Status</a></li><li><a href="https://help.barnesandnoble.com/app/returns/list">Easy Returns</a></li><li><a href="//www.barnesandnoble.com/h/product-recalls">Product Recalls</a></li><li><a href="//www.barnesandnoble.com/h/corrections-updates">Corrections &amp; Updates</a></li><li><a href="//www.barnesandnoble.com/h/ebook-settlement">eBook Settlement</a></li></ul></div><div class="footer-normal__forms"><aside class="error-msg alert alert--error mb-xs" id="footerStoreLocatorErr" style="display:none;"></aside><div class="footer-text-input text-input--location text-input filled"><form method="get" data-messaging="#footerStoreLocatorErr" action="https://stores.barnesandnoble.com/stores?storeFilter=all"><label data-target="text-input-label" for="findStore"> Find a Store </label> <input type="text" title="Please fill out this field" id="findStore" autocomplete="off" required="required" name="searchText" aria-label="Please fill out this field to find a Store" value="" placeholder="Store name, location, or ZIP code" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Store name, location, or ZIP code'" maxlength=""> <input type="hidden" name="storeFilter" value="all"> <input value="" type="hidden"> </form></div><aside class="error-msg alert alert--error mb-xs" id="emailAddressErr" style="display:none;"></aside><div class="footer-text-input text-input filled text-input--email-signup"><form autocomplete="off" method="post" data-messaging="#emailAddressErr" action="/xhr/email-signup-submit.jsp" id="emailSignupForm"><label data-target="text-input-label" for="emailSignup">Sign up for savings, news, updates</label> <input type="text" title="Please fill out this field" id="emailSignup" autocomplete="off" required="required" name="email" maxlength="40" aria-label="Please fill out this field" aria-invalid="true" value="" placeholder="Your Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address'"> <input value="" type="hidden"> </form></div><ul class="social-icons"><li><a href="https://www.facebook.com/barnesandnoble"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"> <use class="social-icons__icon" xlink:href="#facebook"></use> </svg> <span class="sr-only">Facebook</span> </a> </li><li><a href="https://twitter.com/bnbuzz"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"> <use class="social-icons__icon" xlink:href="#twitter"></use> </svg> <span class="sr-only">Twitter</span> </a> </li><li><a href="https://www.instagram.com/barnesandnoble/"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"> <use class="social-icons__icon" xlink:href="#instagram"></use> </svg> <span class="sr-only">Instagram</span> </a> </li><li><a href="https://www.pinterest.com/barnesandnoble/"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"> <use class="social-icons__icon" xlink:href="#pinterest"></use> </svg> <span class="sr-only">Pinterest</span> </a> </li><li><a href="https://plus.google.com/+barnesandnoble"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"> <use class="social-icons__icon" xlink:href="#google-plus"></use> </svg> <span class="sr-only">Google Plus</span> </a> </li></ul></div></div><div class="footer-legal"><ul><li><a class="link" href="//www.barnesandnoble.com/h/help/about/terms-of-use">Terms of Use</a></li><li><a class="link" href="//www.barnesandnoble.com/h/copyright-policy">Copyright &amp; Trademark</a></li><li><a class="link" href="//www.barnesandnoble.com/h/help/privacy-policy">Privacy Policy</a></li><li><a class="link" href="//www.barnesandnoble.com/h/sitemap">Sitemap</a></li><li><a class="link" href="//www.barnesandnoble.com/h/bn-accessibility-statement">Accessibility</a></li></ul><p class="copy-right">©1997-2017 Barnes &amp; Noble Booksellers, Inc. <br> 122 Fifth Avenue, New York, NY 10011</p></div></footer></div>
+<script>
+if(typeof performance.mark !== 'undefined')
+{
+performance.mark("Global_Footer_loading_starts");
+}
+</script>
+<div class="container ">
+<footer class="footer-normal"><ul class="footer-promo-container"><li class="footer-promo-item"><p>Barnes &amp; Noble Press</p><p>Publish your book with B&amp;N</p><p><a href="https://press.barnesandnoble.com"> Learn More <span class="link-with-arrow"></span> </a> </p></li><li class="footer-promo-item"><p>The B&amp;N Mastercard®</p><p>5% Back on All B&amp;N Purchases</p><p><a href="//www.barnesandnoble.com/h/bn-mastercard"> Learn More <span class="link-with-arrow"></span> </a> </p></li><li class="footer-promo-item"><p>Barnes &amp; Noble Café</p><p>Relax and Refuel</p><p><a href="//www.barnesandnoble.com/h/cafe"> Visit BN Café <span class="link-with-arrow"></span> </a> </p></li><li class="footer-promo-item"><p>Become a B&amp;N Member</p><p>Members Save Every Day</p><p><a href="//www.barnesandnoble.com/membership"> Learn More <span class="link-with-arrow"></span> </a> </p></li></ul><div class="new-global-footer-link-container"><div class="footer-normal__column"><h2 class="h2-as-h6">B&amp;N Services</h2><ul><li><a href="http://www.barnesandnoble.com/h/bn-advertising">Advertise</a></li><li><a href="http://affiliates.barnesandnoble.com/">Affiliate Program</a></li><li><a href="https://help.barnesandnoble.com/app/publisher_author/list">Publisher &amp; Author Guidelines</a></li><li><a href="//www.barnesandnoble.com/customer-service/bulk-order.jsp">Bulk Order Discounts</a></li><li><a href="//www.barnesandnoble.com/membership/">B&amp;N Membership</a></li><li><a href="//www.barnesandnoble.com/h/bn-mastercard">B&amp;N Mastercard</a></li><li><a href="https://www.barnesandnoble.com/account/kidsclub/">B&amp;N Kids' Club</a></li><li><a href="//www.barnesandnoble.com/h/bn-educators">B&amp;N Educators</a></li><li><a href="//www.barnesandnoble.com//h/bookfairs">B&amp;N Bookfairs</a></li></ul></div><div class="footer-normal__column"><h2 class="h2-as-h6">Shipping</h2><ul><li><a href="https://help.barnesandnoble.com/app/shipping_free_shipping/list">Shipping FAQs</a></li></ul></div><div class="footer-normal__column"><h2 class="h2-as-h6">NOOK</h2><ul><li><a href="//www.barnesandnoble.com/b/nook/_/N-1pbl">NOOK Tablets &amp; eReaders</a></li><li><a href="//www.barnesandnoble.com/h/nook/apps">NOOK Mobile Apps</a></li></ul></div><div class="footer-normal__column"><h2 class="h2-as-h6">About Us</h2><ul><li><a href="//www.barnesandnoble.com/h/help/about/barnesandnoble">About B&amp;N</a></li><li><a href="http://investors.barnesandnobleinc.com/index.cfm">Investor Relations</a></li><li><a href="http://www.barnesandnobleinc.com/">Barnes &amp; Noble, Inc.</a></li><li><a href="http://careers.barnesandnoble.com/">Careers at B&amp;N</a></li></ul></div><div class="footer-normal__column"><h2 class="h2-as-h6">Quick Help</h2><ul><li><a href="https://help.barnesandnoble.com/">Customer Service</a></li><li><a href="https://www.barnesandnoble.com/h/in-store-pickup">Buy Online, Pick up in Store</a></li><li><a href="http://www.barnesandnoble.com/account/">Order Status</a></li><li><a href="https://help.barnesandnoble.com/app/returns/list">Easy Returns</a></li><li><a href="//www.barnesandnoble.com/h/product-recalls">Product Recalls</a></li><li><a href="//www.barnesandnoble.com/h/corrections-updates">Corrections &amp; Updates</a></li><li><a href="//www.barnesandnoble.com/h/ebook-settlement">eBook Settlement</a></li></ul></div><div class="footer-normal__forms"><aside class="error-msg alert alert--error mb-xs" id="footerStoreLocatorErr" style="display:none;"></aside><div class="footer-text-input text-input--location text-input filled"><form method="get" data-messaging="#footerStoreLocatorErr" action="https://stores.barnesandnoble.com/stores?storeFilter=all"><label data-target="text-input-label" for="findStore"> Find a Store </label> <input type="text" title="Please fill out this field" id="findStore" autocomplete="off" required="required" name="searchText" aria-label="Please fill out this field to find a Store" value="" placeholder="Store name, location, or ZIP code" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Store name, location, or ZIP code'" maxlength=""> <input type="hidden" name="storeFilter" value="all"> <input value="" type="hidden"> </form></div><aside class="error-msg alert alert--error mb-xs" id="emailAddressErr" style="display:none;"></aside><div class="footer-text-input text-input filled text-input--email-signup"><form autocomplete="off" method="post" data-messaging="#emailAddressErr" action="/xhr/email-signup-submit.jsp" id="emailSignupForm"><label data-target="text-input-label" for="emailSignup">Sign up for savings, news, updates</label> <input type="text" title="Please fill out this field" id="emailSignup" autocomplete="off" required="required" name="email" maxlength="40" aria-label="Please fill out this field" aria-invalid="true" value="" placeholder="Your Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address'"> <input value="" type="hidden"> </form></div><ul class="social-icons"><li><a href="https://www.facebook.com/barnesandnoble"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"> <use class="social-icons__icon" xlink:href="#facebook"></use> </svg> <span class="sr-only">Facebook</span> </a> </li><li><a href="https://twitter.com/bnbuzz"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"> <use class="social-icons__icon" xlink:href="#twitter"></use> </svg> <span class="sr-only">Twitter</span> </a> </li><li><a href="https://www.instagram.com/barnesandnoble/"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"> <use class="social-icons__icon" xlink:href="#instagram"></use> </svg> <span class="sr-only">Instagram</span> </a> </li><li><a href="https://www.pinterest.com/barnesandnoble/"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"> <use class="social-icons__icon" xlink:href="#pinterest"></use> </svg> <span class="sr-only">Pinterest</span> </a> </li><li><a href="https://plus.google.com/+barnesandnoble"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"> <use class="social-icons__icon" xlink:href="#google-plus"></use> </svg> <span class="sr-only">Google Plus</span> </a> </li></ul></div></div><div class="footer-legal"><ul><li><a class="link" href="//www.barnesandnoble.com/h/help/about/terms-of-use">Terms of Use</a></li><li><a class="link" href="//www.barnesandnoble.com/h/copyright-policy">Copyright &amp; Trademark</a></li><li><a class="link" href="//www.barnesandnoble.com/h/help/privacy-policy">Privacy Policy</a></li><li><a class="link" href="//www.barnesandnoble.com/h/sitemap">Sitemap</a></li><li><a class="link" href="//www.barnesandnoble.com/h/bn-accessibility-statement">Accessibility</a></li></ul><p class="copy-right">©1997-2018 Barnes &amp; Noble Booksellers, Inc. <br> 122 Fifth Avenue, New York, NY 10011</p></div></footer></div>
 <script type="text/javascript">
 if(!$('body').hasClass('thank-you')) {
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -1770,30 +1769,40 @@ ga('create', 'UA-11110821-1', {'cookieDomain': 'barnesandnoble.com'});
 ga('send', 'pageview');
 }
 </script>
+<script>
+if(typeof performance.mark !== 'undefined' && typeof performance.measure !== 'undefined')
+{
+performance.mark("Global_Footer_loading_ends");
+performance.measure(
+"globalFooterDur",
+"Global_Footer_loading_starts",
+"Global_Footer_loading_ends"
+);
+}
+</script>
 <!-- All Javascripts in js-scripts-ra.jsp has to be minified. ALl JS has to be moved to release dir as per grunt minification -->
-<script src="//js.js-bn.com/static/redesign/release/js/vendor.js?v4.12.1"></script><script src="//js.js-bn.com/static/redesign/release/js/contrib.js?v4.12.1"></script><script src="//js.js-bn.com/static/redesign/release/js/modal.modals-browse.js?v4.12.1"></script><script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/js-messaging.js?v4.12.1"></script>
-<script src="//js.js-bn.com/static/redesign/release/js/bn.js?v4.12.1"></script><script>
+<script src="//js.js-bn.com/static/redesign/release/js/bn.js?v5.11.6"></script><script src="//js.js-bn.com/static/redesign/release/js/modal.modals-browse.js?v5.11.6"></script><script>
+$.webshims.setOptions('basePath','//js.js-bn.com/static/redesign/srcs/js/vendor/js-webshim-1.15/minified/shims/');
 $.webshims.polyfill('es5 forms forms-ext');
 </script>
-<script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/sections/search/search.js?v4.12.1"></script>
-<script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/vendor/jquery.scrollpane.min.js?v4.12.1"></script>
-<script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/vendor/jquery.mousewheel.js?v4.12.1"></script>
-<script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/sections/pdp/swfobject2.js?v4.12.1"></script>
-<script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/sections/pdp/kitcloud.js?v4.12.1"></script>
-<script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/sections/pdp/flashdetect.js?v4.12.1"></script>
-<script type="text/javascript" src="//js.js-bn.com/static/release/js/toolkit.js?v4.12.1"></script>
-<script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/js-countries.js?v4.12.1"></script>
-<script type="text/javascript" src="//js.js-bn.com/static/js/bn/bn.analytics.js?v4.12.1"></script>
+<script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/sections/search/search.js?v5.11.6"></script>
+<script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/vendor/jquery.scrollpane.min.js?v5.11.6"></script>
+<script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/vendor/jquery.mousewheel.js?v5.11.6"></script>
+<script src="//js.js-bn.com/static/redesign/release/js/pdp.js?v5.11.6"></script><script type="text/javascript" src="//js.js-bn.com/static/release/js/toolkit.js?v5.11.6"></script>
+<input type="hidden" id="analyticsEnabledFlag" value="true">
 <script>
 if(!$.isEmptyObject(digitalData)){
-var digitalData1 = {"session":{"sessionID":"3CE64676827F9D1F0657855AEAC541E5","serverName":"prodny_store02"},"page":{"timestamp":"Sun Nov 12 00:50:02 EST 2017","category":{"primaryCategory":"help","subCategory":["privacy-policy"],"hierarchy":"/h/help"},"pageInfo":{"pageType":"generic content","pageName":"generic content:help","language":"en","geoRegion":"US","breadCrumbs":["home","h","help"],"ipAddress":"207.241.225.236"},"attributes":{"internalCampaignCTA":"","internalCampaignElement":"","internalCampaignAdFormat":"","internalCampaignPageType":"","internalCampaignDescription":""}},"cart":{"price":{"shipping":0,"priceWithTax":0,"transationalTotal":0,"basePrice":0}}};
+var digitalData1 = {"session":{"sessionID":"5C74B42D3A1CD26F615C5B6DFE9BB271","serverName":"prodny_store02"},"page":{"timestamp":"Sat Jun 23 04:59:48 EDT 2018","category":{"primaryCategory":"help","subCategory":["privacy-policy"],"hierarchy":"/h/help"},"pageInfo":{"pageType":"generic content","pageName":"generic content:help","language":"en","geoRegion":"US","breadCrumbs":["home","h","help"],"ipAddress":"207.241.231.163"}},"cart":{"price":{"shipping":0,"priceWithTax":0,"transationalTotal":0,"basePrice":0,"currency":"USD"}}};
 $.extend(digitalData,digitalData1);
 }else{
 
-var digitalData = {"session":{"sessionID":"3CE64676827F9D1F0657855AEAC541E5","serverName":"prodny_store02"},"page":{"timestamp":"Sun Nov 12 00:50:02 EST 2017","category":{"primaryCategory":"help","subCategory":["privacy-policy"],"hierarchy":"/h/help"},"pageInfo":{"pageType":"generic content","pageName":"generic content:help","language":"en","geoRegion":"US","breadCrumbs":["home","h","help"],"ipAddress":"207.241.225.236"},"attributes":{"internalCampaignCTA":"","internalCampaignElement":"","internalCampaignAdFormat":"","internalCampaignPageType":"","internalCampaignDescription":""}},"cart":{"price":{"shipping":0,"priceWithTax":0,"transationalTotal":0,"basePrice":0}}};
+var digitalData = {"session":{"sessionID":"5C74B42D3A1CD26F615C5B6DFE9BB271","serverName":"prodny_store02"},"page":{"timestamp":"Sat Jun 23 04:59:48 EDT 2018","category":{"primaryCategory":"help","subCategory":["privacy-policy"],"hierarchy":"/h/help"},"pageInfo":{"pageType":"generic content","pageName":"generic content:help","language":"en","geoRegion":"US","breadCrumbs":["home","h","help"],"ipAddress":"207.241.231.163"}},"cart":{"price":{"shipping":0,"priceWithTax":0,"transationalTotal":0,"basePrice":0,"currency":"USD"}}};
 
 }
 if (typeof s_setP !== 'undefined') {
+s_setP('digitalData.component[0].componentInfo.componentName','promo_content');
+s_setP('digitalData.component[0].componentInfo.componentLocation','ocp-toputilitycontent');
+s_setP('digitalData.component[0].componentInfo.primaryCategory','internal campaign');
 s_setP('digitalData.component[1].componentInfo.componentName','promo_content');
 s_setP('digitalData.component[1].componentInfo.componentLocation','ocp-toputilitycontent');
 s_setP('digitalData.component[1].componentInfo.primaryCategory','internal campaign');
@@ -1803,8 +1812,8 @@ s_setP('digitalData.component[2].componentInfo.primaryCategory','internal campai
 s_setP('digitalData.component[3].componentInfo.componentName','promo_content');
 s_setP('digitalData.component[3].componentInfo.componentLocation','ocp-toputilitycontent');
 s_setP('digitalData.component[3].componentInfo.primaryCategory','internal campaign');
-s_setP('digitalData.component[4].componentInfo.componentName','promo_content');
-s_setP('digitalData.component[4].componentInfo.componentLocation','ocp-toputilitycontent');
+s_setP('digitalData.component[4].componentInfo.componentName','ppod_topnav');
+s_setP('digitalData.component[4].componentInfo.componentLocation','ocp-topnavcontent');
 s_setP('digitalData.component[4].componentInfo.primaryCategory','internal campaign');
 s_setP('digitalData.component[5].componentInfo.componentName','ppod_topnav');
 s_setP('digitalData.component[5].componentInfo.componentLocation','ocp-topnavcontent');
@@ -1842,9 +1851,6 @@ s_setP('digitalData.component[15].componentInfo.primaryCategory','internal campa
 s_setP('digitalData.component[16].componentInfo.componentName','ppod_topnav');
 s_setP('digitalData.component[16].componentInfo.componentLocation','ocp-topnavcontent');
 s_setP('digitalData.component[16].componentInfo.primaryCategory','internal campaign');
-s_setP('digitalData.component[17].componentInfo.componentName','ppod_topnav');
-s_setP('digitalData.component[17].componentInfo.componentLocation','ocp-topnavcontent');
-s_setP('digitalData.component[17].componentInfo.primaryCategory','internal campaign');
 
 }
 $(document).ready(function(){
@@ -1859,8 +1865,8 @@ BN.Analytics.Generic.GoogleAds();
 </script>
 <script type="text/javascript">
 </script>
-<script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/bn/newTypeAhead/endeca-auto-suggest.js?v4.12.1"></script>
-<script type="text/javascript" src="//js.js-bn.com/static/redesign/srcs/js/bn/newTypeAhead/jquery.bn.auto-suggest.js?v4.12.1"></script>
+<input name="imagePath" type="hidden" value="https://www.barnesandnoble.com/static/redesign/srcs/images/">
+<input name="bopisEnabled" type="hidden" value="false">
 <script type="text/javascript">
 var cname = "internalCampaign",
 cvalue = null;
@@ -1873,7 +1879,7 @@ document.cookie = curCookie;
 <script type="text/javascript">
 _satellite.pageBottom();
 </script>
-
+<script type="text/javascript">var _cf = _cf || [];  _cf.push(['_setBm', true]);</script><script type="text/javascript" src="/_bm/bd-1-30"></script>
 
 </section>
 </main></body></html>
