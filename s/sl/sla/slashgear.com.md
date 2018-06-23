@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the slashgear.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025001200id_/https%3A//www.slashgear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slashgear.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623123140id_/https%3A//www.slashgear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SlashGear
 
 The following policy outlines the types of information that we gather about you and the way that way we use and don’t use this information.
 
+With the introduction of the new European data protection laws, we wanted to explain SlashGear’s privacy and data storage policies. The data we collect is relatively limited, predominantly a record of your preferences under these privacy and data protection policies. We do not require user registration, and we use [anonymized IP addresses](https://support.google.com/analytics/answer/2763052?hl=en) for our analytics that can’t be linked with individual readers. We use third-party cookies for advertisers, all of whom are also GDPR compliant, and Disqus for site comments, which is again GDPR compliant.
+
+By consenting to this privacy policy you are giving us permission to process your personal data specifically for the purposes identified. If we ever ask you for personal data, we’ll be clear as to why we do so, how the information is used, and how you can withdraw that data.
+
 The information that we collect about our visitors falls into three general categories:
 
-1\. Information You Provide to Us. We may collect and store information, personal or otherwise, that you voluntarily supply to us either on the SlashGear site, via e-mail, or in any other way. Some examples of this type of information include the information you submit (such as your name or e-mail address) when you register for SlashGear membership, information that you post on blog entry comment, and information contained in search requests or questions you submit to the site. If you decline to supply or provide us with certain information, we may not be able to provide you with some services that are dependent on the collection of this information.
+1\. Information You Provide to Us. We may collect and store information, personal or otherwise, that you voluntarily supply to us either on the SlashGear site, via e-mail contact form, or in any other way.
 
 2\. Information that is Automatically Collected. We also collect and store information that is generated automatically as you navigate through the SlashGear site. For example, to enhance your experience at SlashGear, we use a standard feature found in browser software called a “cookie.” Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use our site, cookies help us track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of our site where you have entered preference information before. Another example of information that we automatically collect as you navigate our site is information about your computer’s connection to the Internet. This information allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on our site.
-
-3\. Information from Other Sources. SlashGear may also obtain information about you from third parties or other sources and may combine the information that we receive from them with information we have already obtained about you.
 
 SlashGear includes links to other websites, and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services or conduct other transactions through the Service, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
 
