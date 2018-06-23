@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedivinemissmommy.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207075311id_/https%3A//divinelifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedivinemissmommy.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623122723id_/https%3A//divinelifestyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Divine Lifestyle
 
