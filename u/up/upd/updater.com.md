@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updater.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222031252id_/http%3A//www.updater.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updater.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623104132id_/http%3A//www.updater.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Updater
 
@@ -39,15 +39,17 @@ We'll share your personal information with companies, organizations or individua
 
 
 
- **For aggregate or reflective data**
+**For aggregate, anonymous, or reflective data**
 
-We may share aggregated, non-personally identifiable information publicly and with our partners (“Aggregate Data”). For example, we may share information publicly to show moving trends and other information about relocating consumers. Data of all Users (as defined below) may be included.
+We may share aggregated, non-personally identifiable information publicly and with our partners (“Aggregate Data”). For example, we may share information publicly to show moving trends and other information about relocating consumers.
 
-We may use old and new address data of a User (as defined below) to indicate the general or approximate location of a recent move (“Reflective Data”). In such situations, old and new address data are randomly obscured in order to not display the User's actual old or new address. Thus, the data shown publicly is merely reflective of the area of the recent move.
+We may share anonymized data (“Anonymous Data”) about your relocation with certain partners to facilitate delivering personalized experiences throughout your move. For example, we may share information with third party intermediaries who can confirm which products and services are relevant for your new address, or the products and services to which you currently subscribe.
 
-Any User who does not want Updater to use his or her personal information in either Aggregate Data or Reflective Data sets, whether such data sets are shared publicly or not, may email [privacy@updater.com](mailto:privacy@updater.com) to opt-out any time.
+We may use old and new address data of a User (as defined below) to indicate the general or approximate location of a recent move (“Reflective Data”). In such situations, old and new address data are randomly obscured in order to not display the User's actual old or new address. Thus, the data shown publicly is merely reflective of the area of the recent move. 
 
- **With the business hosting Updater technology**
+Any User who does not want Updater to use his or her personal information in either Aggregate Data, Anonymous Data, or Reflective Data sets, whether such data sets are shared publicly or not, may email [privacy@updater.com](mailto:privacy@updater.com) or [click here](https://docs.google.com/forms/d/e/1FAIpQLSf66yEJLxK9saIT3glKvHRKjgSWM4N67kK_JyW7H_7wR_YuOQ/viewform?usp=sf_link) to opt-out any time.
+
+**With the business hosting Updater technology**
 
 Updater technology may be made available on third party websites. In all such situations, the Services offered are clearly marked "powered by Updater". When Updater technology is powering websites other than updater.com or a subdomain within updater.com, then we may need to share your personal information with the applicable third party that owns and operates the applicable website hosting the Updater technology (the “Hosting Business”). If you create a User account via Updater technology hosted on a third party site, then Updater may share your personally identifiable information with the Hosting Business. In such situations, The Hosting Business will be encouraged to protect your personal information pursuant to their privacy policy. 
 
@@ -55,7 +57,7 @@ Updater technology may be made available on third party websites. In all such si
 
 You may be invited to use a personalized and custom version of Updater by a third party with whom you have a relationship, such as a real estate brokerage firm, a mortgage company, a title insurance company, a property manager, a real estate brokerage, a moving company, etc. (each an Updater “Client”). If you create a User account on a version of Updater provided by a Client, then Updater may share your personally identifiable information with the Client(s) that provided your information for purposes of generating your invitation to Updater. In such situations, Client(s) will be encouraged to protect your personal information pursuant to their privacy policy. 
 
-**With third parties that you have a pre-existing relationship in order to streamline your moving process**
+**With third parties with which you have a pre-existing relationship in order to streamline your moving process**
 
 We may use Partner-Provided Information (defined below) and other information we collect about you to notify our Qualified Partners (defined below) that you are moving. _We do not share any of your personally identifiable information with these Qualified Partners._ If you prefer that we do not notify Qualified Partners that you are moving, please email [privacy@updater.com](mailto:privacy@updater.com) to opt-out. 
 
@@ -65,9 +67,15 @@ A “Qualified Partner” is an Updater partner that would, pursuant to the Priv
 
 We may provide your personally identifiable information to other parties if your information is or becomes publicly available from a source other than Updater. 
 
-**With third parties in connection with certain transactions**
+**With third parties in connection with certain corporate transactions**
 
 If we sell all or part of our business, make a transfer of assets, or are otherwise involved in a change of control transaction, or in the unlikely event of bankruptcy, we may transfer information from or about you to one or more third parties as part of the transaction.
+
+**With third parties in connection with your qualified opportunities during your move**
+
+We may transfer information from or about you to one or more third parties in connection with our efforts to help you seamlessly purchase or transfer insurance products, to enable you to receive and claim special promotions from cooperative businesses in your neighborhood, and/or to enable companies and Updater to include you in anonymized audience segments to surface relevant content to you (you may opt out of such audience segments with the DAA [here](http://optout.aboutads.info/?c=2&lang=EN)).
+
+You may revoke consent for our use of data pursuant to our privacy policy at any time by emailing [privacy@updater.com](mailto:privacy@updater.com) or by [clicking here](https://docs.google.com/forms/d/e/1FAIpQLSf66yEJLxK9saIT3glKvHRKjgSWM4N67kK_JyW7H_7wR_YuOQ/viewform?usp=sf_link).
 
 ###### Information we collect
 
