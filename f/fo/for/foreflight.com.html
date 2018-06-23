@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the foreflight.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606185027id_/https%3A//www.foreflight.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foreflight.com privacy policy that was archived on 2018-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180623030711id_/https%3A//foreflight.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!-- <![endif]--><head>
-        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript" async="" src="https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcCWFFUGwEAUFhbBgU="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"7872a78b99","agent":"","transactionName":"YVNVZUIEWBUHVUNeVlgZcUReBkIPCVgYVFRFGEFYVRJFXAJTQ1ZQWkU=","applicationID":"2049914","errorBeacon":"bam.nr-data.net","applicationTime":184}</script>
+        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript" async="" src="https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"7872a78b99","agent":"","transactionName":"YVNVZUIEWBUHVUNeVlgZcUReBkIPCVgYVFRFGEFYVRJFXAJTQ1ZQWkU=","applicationID":"81326785","errorBeacon":"bam.nr-data.net","applicationTime":186}</script>
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
-        <meta name="description" content="ForeFlight iPad, Your privacy is critically important to us. If you have questions about deleting or correcting your personal data please contact our support team. ">
+        <meta name="description" content="Your privacy is critically important to us. If you have questions about deleting or correcting your personal data please contact our support team. ">
         <meta name="keywords" content="iphone pilot weather, iphone aviation weather, iphone flight plan, iphone pilots,  iphone aviation, iphone aviation software, duats mobile, iphone pilot, iphone flight, flying weather, aircraft weather, flight faa, flight plan, flight planning, flight airport, aviation weather maps, iphone flying, metar, taf, afd, skyvector, airnav, flight plan filing, duats, uvair, iphone approach plates, approach plates, iphone logbook, mobile logbook, aviation wind, winds aloft, weight and balance, pilot my cast, efb, electronic flight bag, ">
         <meta name="verify-v1" content="8fCTmL2Wsjqzi4babAB7zcK+rPO3qRuD3NmhlkBIR9Q=">
         <meta name="apple-itunes-app" content="app-id=333252638">
@@ -17,7 +17,7 @@
         <script>try{Typekit.load();}catch(e){}</script>
         
 
-        <link href="//foreflight-www.s3.amazonaws.com/assets/styles/www.1495741190.css" rel="stylesheet">
+        <link href="//foreflight-www.s3.amazonaws.com/assets/styles/www.1526591995.css" rel="stylesheet">
         <style></style>
         <!-- Facebook Pixel Code -->
         <script>
@@ -33,6 +33,12 @@
                        src="https://www.facebook.com/tr?id=1147102228701616&ev=PageView&noscript=1"
         /></noscript>
         <!-- End Facebook Pixel Code -->
+        
+            <script>
+                var segmentToken = '4aw3V1dOucM8t4sB52tKHhsDIMQxm95S';
+                var segmentCategory = 'WWW';
+            </script>
+        
     </head>
     
     <body class="">
@@ -75,37 +81,13 @@
     
         <li>
             
+                <a href="/products/scout">Scout ADS-B Receiver</a>
+            
+        </li>
+    
+        <li>
+            
                 <a href="/products/foreflight-web/">ForeFlight on the web</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/products/foreflight-mobile/synthetic-vision/">Synthetic Vision</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/products/logbook/">Logbook</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/products/checklist/">Checklist</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/products/stratus/">Stratus 1S and 2S</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/products/military-flight-bag/">Military Flight Bag</a>
             
         </li>
     
@@ -117,7 +99,25 @@
     
         <li>
             
+                <a href="/products/military-flight-bag/">Military Flight Bag</a>
+            
+        </li>
+    
+        <li>
+            
                 <a href="/buy/gift">ForeFlight Gift Certificates</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/products/logbook/">Logbook</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/products/foreflight-mobile/synthetic-vision/">Synthetic Vision</a>
             
         </li>
     
@@ -147,13 +147,13 @@
     
         <li>
             
-                <a href="/solutions/helicopter/">Helicopter</a>
+                <a href="/products/military-flight-bag/">Military</a>
             
         </li>
     
         <li>
             
-                <a href="/products/military-flight-bag/">Military</a>
+                <a href="/solutions/helicopter/">Helicopter</a>
             
         </li>
     
@@ -183,7 +183,7 @@
     
         <li>
             
-                <a href="/support/">FAQs</a>
+                <a href="/support/jeppesen-support/">Jeppesen Support</a>
             
         </li>
     
@@ -199,38 +199,50 @@
             
         </li>
     
-        <li>
-            
-                <a href="/support/faqs/guides-supplements/">Guides</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/support/user-map-shapes/">User Map Shapes</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/support/jeppesen-support/">Jeppesen Support</a>
-            
-        </li>
-    
 </ul>
                 </ul>
             
         </li>
     
+        <li class="with-drop">
+            
+                Company
+                <ul>
+                    
+<ul>
+    
         <li>
             
-                <a href="/about/team/">Company</a>
+                <a href="http://blog.foreflight.com">Blog</a>
             
         </li>
     
         <li>
             
-                <a href="http://blog.foreflight.com">Blog</a>
+                <a href="/about/foreflight/">About ForeFlight</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/about/team/">Team</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/about/careers/">Careers</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/about/media-kit/">Media Kit</a>
+            
+        </li>
+    
+</ul>
+                </ul>
             
         </li>
     
@@ -261,37 +273,13 @@
     
         <li>
             
+                <a href="/products/scout">Scout ADS-B Receiver</a>
+            
+        </li>
+    
+        <li>
+            
                 <a href="/products/foreflight-web/">ForeFlight on the web</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/products/foreflight-mobile/synthetic-vision/">Synthetic Vision</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/products/logbook/">Logbook</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/products/checklist/">Checklist</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/products/stratus/">Stratus 1S and 2S</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/products/military-flight-bag/">Military Flight Bag</a>
             
         </li>
     
@@ -303,7 +291,25 @@
     
         <li>
             
+                <a href="/products/military-flight-bag/">Military Flight Bag</a>
+            
+        </li>
+    
+        <li>
+            
                 <a href="/buy/gift">ForeFlight Gift Certificates</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/products/logbook/">Logbook</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/products/foreflight-mobile/synthetic-vision/">Synthetic Vision</a>
             
         </li>
     
@@ -332,13 +338,13 @@
     
         <li>
             
-                <a href="/solutions/helicopter/">Helicopter</a>
+                <a href="/products/military-flight-bag/">Military</a>
             
         </li>
     
         <li>
             
-                <a href="/products/military-flight-bag/">Military</a>
+                <a href="/solutions/helicopter/">Helicopter</a>
             
         </li>
     
@@ -360,14 +366,14 @@
     
         <li class="with-sm-drop">
             
-                <a href="/support/">Support<i class="fa fa-angle-down"></i></a>
+                <a href="/support/support-center/">Support<i class="fa fa-angle-down"></i></a>
                     
 <ul class="hidden">
     
     
         <li>
             
-                <a href="/support/">FAQs</a>
+                <a href="/support/jeppesen-support/">Jeppesen Support</a>
             
         </li>
     
@@ -383,37 +389,48 @@
             
         </li>
     
-        <li>
-            
-                <a href="/support/faqs/guides-supplements/">Guides</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/support/user-map-shapes/">User Map Shapes</a>
-            
-        </li>
-    
-        <li>
-            
-                <a href="/support/jeppesen-support/">Jeppesen Support</a>
-            
-        </li>
-    
 </ul>
             
         </li>
     
+        <li class="with-sm-drop">
+            
+                <a href="/about/foreflight/">Company<i class="fa fa-angle-down"></i></a>
+                    
+<ul class="hidden">
+    
+    
         <li>
             
-                <a href="/about/team/">Company</a>
+                <a href="http://blog.foreflight.com">Blog</a>
             
         </li>
     
         <li>
             
-                <a href="http://blog.foreflight.com">Blog</a>
+                <a href="/about/foreflight/">About ForeFlight</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/about/team/">Team</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/about/careers/">Careers</a>
+            
+        </li>
+    
+        <li>
+            
+                <a href="/about/media-kit/">Media Kit</a>
+            
+        </li>
+    
+</ul>
             
         </li>
     
@@ -439,10 +456,10 @@
     <nav class="sub-nav">
         <nav class="sub-nav">
 <ul>
-	<li><a href="/about/team/">Team</a></li>
+	<li><a href="/about/foreflight/">ForeFlight</a></li>
+    <li><a href="/about/team/">Team</a></li>
 	<li><a href="/about/careers/">Careers</a></li>
 	<li><a href="/about/media-kit/">Media Kit</a></li>
-	<li><a href="/about/privacy/">Privacy</a></li>
 </ul>
 </nav>
 
@@ -453,124 +470,187 @@
         <div class="flex">
             <div class="g1-flex4 g2-flex6 g3-flex8 g3-offset2">
                 <h2 class="gamma"></h2>
-                <h2 class="beta">Privacy Policy</h2>
+                <h1>Privacy Policy</h1>
 
-<p>This Privacy Policy is incorporated by reference into the <a href="https://foreflight.com/eula">ForeFlight End User License Agreement</a> (“EULA”). The terms “<strong>ForeFlight</strong>,” “<strong>we</strong>,” and “<strong>us</strong>” include ForeFlight, LLC and our affiliates and subsidiaries. The Privacy Policy explains how ForeFlight may collect, use, and disclose information we obtain through the “Service.” Any capitalized terms used and not defined in this Privacy Policy shall have the meaning given to them in the EULA.</p>
+<p>This Privacy Policy is incorporated by reference into the <a href="/support/eula">ForeFlight End User License Agreement</a> (“EULA”). The terms “ForeFlight,” “we,” and “us” include ForeFlight LLC and our affiliates and subsidiaries. The Privacy Policy explains how ForeFlight may collect, use, and disclose information we obtain through the “Service.” Any capitalized terms used and not defined in this Privacy Policy shall have the meaning given to them in the EULA.</p>
 
-<p><strong>IMPORTANT NOTE</strong>: By accessing or using the Service, you expressly consent to ForeFlight’s collection, use, and disclosure of your Personal Information in accordance with the terms and conditions of this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the EULA.</p>
+<p><strong>IMPORTANT NOTE:</strong> By accessing or using the Service, you expressly consent to ForeFlight’s collection, use, and disclosure of your Personal Information in accordance with the terms and conditions of this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the EULA.</p>
 
-<p>In general, “Personal Information” is information that can be used to readily identify, contact or locate you. Under U.S. privacy laws, “<strong>Personal Information</strong>” includes information such as: first and last name, home or other physical address, telephone number, fax number, email address or other online identifier, Social Security number or other third-party issued identifier, health information, credit card or other financial information (including bank account information), IP address and cookie information, or any other device-specific number or identifier. We do not consider Personal Information to include information that has been anonymized or aggregated so that it does not allow a third party to easily identify a specific individual.</p>
+<h2>Categories of Personal Data Processed by ForeFlight</h2>
 
-<p>At ForeFlight, the privacy and security of your personal information is important to us. Except for the limited purposes set forth in this Privacy Policy, we do not share or sell your personal information to third parties.</p>
+<h4>PERSONAL DATA THAT IS PROCESSED WHEN YOU CREATE A FOREFLIGHT ACCOUNT:</h4>
 
-<h3>The Information We Collect is Described Below</h3>
+<p>When you create a ForeFlight account, we ask you to provide your email address and name.</p>
 
-<p>We collect Personal Information when you (i) register to use the Service, (ii) use the Service and (iii) communicate with us. We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service.</p>
+<p><strong>PURPOSES AND LEGAL GROUNDS:</strong></p>
 
-<p><strong>Registration and Account Information</strong>. You may be required to register to use the Service. To register, you may need to provide Personal Information, such as your email address and password. You may also provide other optional information.</p>
+<p>(a) ForeFlight processes your email address because you use your email address and your password to sign in to your account. The legal ground for processing your email address for this purpose is based on ForeFlight’s legitimate interest in protecting the security of your account.</p>
 
-<p><strong>Using the Service</strong>. We collect information you voluntarily provide through the Service. For example, you may submit your email address to sign-up for a newsletter, and other Personal Information to register or download software (including Apps), participate in community activities and surveys, and submit aircraft, flight log, and fuel card information.</p>
+<p>(b) ForeFlight also processes your email address for the purpose of sending you important information about your ForeFlight products, apps or account, such as important safety information or material changes to this Privacy Policy. The name you provide is associated with your account profile. The legal ground for processing your email address and name for these purposes is ForeFlight’s legitimate interest in providing you important safety or other information about your ForeFlight products, apps or account or material changes to this Privacy Policy.</p>
 
-<p><strong>Making Payments</strong>.&nbsp;When you make payments through the Service, you may need to provide financial account information, such as your credit card number or bank account information, to our third-party payment processors. This information is provided directly to such payment processors, and we do not collect or store such information, though we may receive summary information about transactions that does not include credit card or bank account numbers.</p>
+<p>(c) For EU citizens, if you provide your opt-in consent to receiving marketing information from ForeFlight, ForeFlight will also process your email address for the purpose of sending you marketing information about ForeFlight products and apps, newsletters, and other occasional emails. For non-EU citizens, by giving ForeFlight your email address, you consent to receiving marketing information from ForeFlight and ForeFlight will also process your email address for the purpose of sending you marketing information about ForeFlight products and apps, newsletters, and other occasional emails. The legal ground for processing your email address for this purpose is your consent. You may withdraw your consent at any time by changing your preferences in your ForeFlight account or through the unsubscribe link at the bottom of our marketing emails. The marketing emails you receive from ForeFlight are based on the preferences you provide in your ForeFlight account, the locale indicated by your Internet Protocol (IP) address, the types of ForeFlight devices you have added to your ForeFlight account, and any subscriptions included in your ForeFlight account. The legal ground for processing this data for this purpose is ForeFlight’s legitimate interest in reducing the number of marketing emails sent to each particular customer by selecting which customers receive a particular marketing email rather than sending every marketing email to every customer who has consented to receiving marketing emails.</p>
 
-<p><strong>Communicate with Us</strong>. We may collect Personal Information through your communications with our customer-support team or through other communications with us, including through social media, email, or via our “Contact” page of the Website.</p>
+<p>(d) ForeFlight also processes your email address to associate it with your ForeFlight account when you interact with our customer support representatives. The legal ground for this processing is our legitimate interest in providing quality customer support.</p>
 
-<p><strong>Location Information from Your Mobile Device</strong>. We and our analytics providers may collect and store your geo-location information if your device settings are enabled to send it to us. This information is used for navigational and user analytics purposes, and the Service may not function properly without access to this information.</p>
+<h4>PERSONAL DATA THAT IS PROCESSED WHEN YOU MAKE A PAYMENT:</h4>
 
-<p><strong>Information and Content from Your Device</strong>. The Service automatically collects information about your device, such as a device ID, IP address, mobile software and hardware information, pages or areas visited within the Service, what time said pages and areas are visited, and web browser information, so that we can provide and customize functionality, such as push notifications. You may also permit the Service to access your device’s contact list and photo storage.</p>
+<p>When you make payments through the Service, you may need to provide financial account information, such as your credit card number or bank account information, to our third-party payment processors. This information is provided directly to such payment processors, and we do not collect or store such information, though we may receive summary information about transactions that does not include credit card or bank account numbers.</p>
 
-<p><strong>User Content</strong>. We may collect information that you submit to the Service, such as comments, uploaded media, or User Content.</p>
+<p><strong>PURPOSES AND LEGAL GROUNDS:</strong></p>
 
-<p><strong>Career</strong>. We may collect information you provide in applying for a job via the “Careers” page of the Website, including information contained on resumes or other documentation voluntarily provided by you to us in the job application process.</p>
+<p>The legal ground for processing this data for these purposes is performance of a contract. We also process your personal data as part of our fraud detection processes. The legal ground for processing your personal data for that purpose is our legitimate interest in protecting ForeFlight and our customers from attempts to engage in fraudulent transactions.</p>
 
-<p><strong>Automatic Data Collection: Cookies and Related Technologies</strong>. The Service collects and stores information that is generated automatically as you use it, including your preferences and anonymous usage statistics. When we associate such information with Personal Information, we will treat the combination as Personal Information.</p>
+<p>Your financial account information, such as your credit card, is required to make a payment for a product. The legal ground for processing your email address for this purpose is based on ForeFlight’s legitimate interest in collecting payment for its services.</p>
 
-<p>When you use the Service or receive emails from us, we and our third-party partners, such as advertising networks, social media widgets, and analytics providers, use “cookies” and other similar technologies to collect information about how the Service or email is accessed. We also may use cookies for any or all of the following purposes:</p>
+<h4>PERSONAL DATA THAT IS PROCESSED WHEN YOU ADD AN AIRCRAFT TO YOUR FOREFLIGHT PROFILE:</h4>
 
-<ul class="bullets alt">
-	<li>To store information so that you will not have to re-enter it during your visit or the next time you visit the Service. • To deliver custom, personalized content and information.</li>
-	<li>To identify you when you access, visit, or log in to the Service.</li>
-	<li>To note the different areas of the Service which have recently been accessed through your computer or mobile device. Information collected in this way may be used to develop and manage the online services of ForeFlight by, for example, storing information about your preferences so as to enable ForeFlight to customize the Service according to your individual interests.</li>
-	<li>To monitor the effectiveness of any of our promotions or marketing campaigns.</li>
-	<li>To track your entries, submissions, and status in promotions, sweepstakes, and contests.</li>
-	<li>To improve the content of the Service, and conduct various other diagnostics to improve the Service. We may, for example, use cookies to monitor aggregate metrics such as total number of users and pages viewed.</li>
-	<li>To analyze and improve the security of the Service.</li>
-</ul>
+<p>When you add an aircraft to your ForeFlight account, we may ask for additional information, such as the make, model, series name, tail number, year and serial number of the aircraft.</p>
 
-<p>Our partners also may collect information about your online activities over time, on other devices, and on other websites or apps. When they provide such services, they are governed by their own privacy policies. The Service does not respond to “do not track” signals from browsers. Thus, your selection of the “do not track” option provided by your browser may not have any effect on our collection of cookie information for analytic and internal purposes. You may be able to change browser settings or use other opt-out methods to block and delete cookies when you access the Service through a web browser. However, if you do that, the Service may not work properly. If you use a new computer, install a new browser, erase or otherwise alter your browser's cookie file (including upgrading certain browsers) you may also clear any opt-out cookies. Please note, however, that if you choose to erase or block cookies, you will need to re-enter your information to gain access to certain parts of the Service, and may not be able to access other parts of the Service.</p>
+<p><strong>PURPOSES AND LEGAL GROUNDS:</strong></p>
 
-<p>We may use Google Analytics to collect and process certain Services usage data.&nbsp; Google provides additional privacy options regarding cookie use described at <a href="https://www.google.com/policies/privacy/partners/" target="_blank">www.google.com/policies/privacy/partners/</a>. We may use Mixpanel for data analytics, and you may opt out at <a href="https://mixpanel.com/optout/" target="_blank">https://mixpanel.com/optout/</a>. The information generated relating to our Service is used to create reports about the use of the Service.</p>
+<p>This information is processed to help ForeFlight function better by understanding the performance of your aircraft and allowing ForeFlight to make better calculations about your flight. The legal ground for processing this information is our legitimate interest in providing a better product that incorporates the performance of your aircraft in making calculations.</p>
 
-<p>By using the Service, you are authorizing us to gather, parse, and retain data related to the provision of the Service. We may retain such information, including Personal Information, indefinitely. We also reserve the right to delete such information for any reason or for no reason.</p>
+<h4>PERSONAL DATA THAT IS PROCESSED WHEN YOU USE FOREFLIGHT TO CREATE AND FILE FLIGHT PLANS:</h4>
 
-<h3>How ForeFlight Uses Your Information</h3>
+<p>You can use ForeFlight to create flight plans and file those flight plans with applicable aviation authorities. When you do this, we process your name and address, aircraft details, date and time of the flight, and associated flight details.</p>
 
-<p>We use Personal Information to facilitate and improve the Service and communicate with you. We may use aggregate information for any purpose, including for marketing purposes.</p>
+<p><strong>PURPOSES AND LEGAL GROUNDS:</strong></p>
 
-<p><strong>Internal and Service-Related Usage</strong>. We use information, including Personal Information, for internal and service-related purposes and may provide it to third parties to allow us to facilitate the Service. We may use and retain any data we collect to: (i) provide and improve any of our services, including the Service; (ii) improve the content of the Website; and (iii) fill open positions in our organization.</p>
+<p>This information is processed to help you create flight plans and file them with applicable aviation authorities. The legal ground for processing this information is our legitimate interest in providing a tool to our customers to create and file flight plans.</p>
 
-<p><strong>Communications</strong>.&nbsp;We may send email to the email address you provide to us or push notifications to your mobile device, if they are enabled, to verify your account and for informational and operational purposes, such as account management, customer service, system maintenance, and other Service-related purposes.</p>
+<h4>PERSONAL DATA THAT IS PROCESSED USING THE LOCATION INFORMATION FROM YOUR MOBILE DEVICE:</h4>
 
-<p><strong>Marketing</strong>. We may use information, including Personal Information, to send you information we think may be useful or relevant to you. You may opt out of email marketing by using the unsubscribe link in a marketing email.</p>
+<p>When you use ForeFlight, we process the aircraft’s tail number, latitude, longitude, heading, barometric altitude, destination, estimated time enroute, and associated flight details. Without location information, ForeFlight navigational features will not function properly. This data is uploaded to your ForeFlight account.</p>
 
-<p><strong>Aggregate Data</strong>. We may anonymize or aggregate data collected through the Service and use and disclose it for any purpose.</p>
+<p><strong>PURPOSES AND LEGAL GROUNDS:</strong></p>
 
-<h3>The Limited Purposes for which we will Disclose Your Information are Described Below</h3>
+<p>This information is processed to help you keep track of important details regarding your flights. The legal ground for processing this information is our legitimate interest in providing a tool to our customers to keep track of important flight details. In addition, ForeFlight’s navigational features help provide you with a safer flight.</p>
 
-<p>We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission.</p>
+<h4>PERSONAL DATA THAT IS PROCESSED WHEN YOU USE THE LOGBOOK FEATURE:</h4>
 
-<p><strong>We Use Vendors and Service Providers</strong>. We may share any information we receive, including geo-location information, with vendors and service providers we use to help us provide the Service. For example, we may provide Personal Information for data hosting, data analysis, order fulfillment, transaction processing, delivery of products or services, management and enhancement of user data, infrastructure provision, IT services, customer service, email delivery services, auditing services, and other similar services. We may also disclose information to third parties when it is necessary to investigate or correct technical problems or malfunctions in the Service or the computer systems that support the Service.</p>
+<p>When you use the logbook feature on ForeFlight, we process information about your flights, such as the take-off and landing airports, dates and times, and notes you choose to submit.</p>
 
-<p><strong>Displaying to Other Users</strong>. Some content you provide to the Service may be displayed on the Service, including User Content. For example, we may publish comments you post about airports and FBOs on the Service along with use account information that may identify you. We may also post anonymized customer service inquiries that we feel would benefit other users. We are not responsible for how other users will view and use the posted information.</p>
+<p><strong>PURPOSES AND LEGAL GROUNDS:</strong></p>
 
-<p><strong>Filing Flight Plans</strong>. At your direction, we may share flight plan information with third parties, such as Lockheed Martin and DUATS.</p>
+<p>We process this data to provide our customers an automated tool for them to maintain these regulatorily required records in their pilot logs. The legal ground for processing this information is our legitimate interest in provider our customers an automated tool for them to maintain these regulatorily required records in their pilot logs.</p>
 
-<p><strong>Fuel Vendors</strong>. We may share information about your flight plan and fuel card information to fuel vendors to obtain fuel pricing information.</p>
+<h4>PERSONAL DATA THAT IS PROCESSED WHEN YOU USE THE APPLICATION:</h4>
 
-<p><strong>Marketing</strong>. We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We may allow access to other data collected by the Service to send information we think may be useful or relevant to you. Note that we may use your name, usage history and email address without further consent for non-marketing or administrative purposes (such as notifying you of major updates, customer service needs, tips on using the Service, notifications of unused features of the Service, or items for which you have requested communication).</p>
+<p>When you use the ForeFlight app, we process information about you and your device including a device ID, IP address, mobile software and hardware information, pages or areas visited within the Service, what time said pages and areas are visited, and web browser information, so that we can provide and customize functionality, such as push notifications. You may also permit the Service to access your device’s contact list and photo storage. We may share information about your flight plan and fuel card information to fuel vendors to obtain fuel pricing information.</p>
 
-<p><strong>Legal and Similar Disclosures</strong>. We may access, preserve, and disclose collected information, if we believe doing so is required or appropriate to: (i) comply with law enforcement requests and legal process, such as a court order or subpoena; (ii) respond to your requests; (iii) comply with the law; (iv) investigate, prevent, take action, or enforce compliance with regard to a violation of the EULA or this Privacy Policy; (v) investigate, prevent or take action regarding illegal activities or suspected fraud; or (vi) protect your, our, or others’ rights, property, or safety.</p>
+<p><strong>PURPOSES AND LEGAL GROUNDS:</strong></p>
 
-<p><strong>Merger, Sale, or Other Asset Transfers</strong>. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of ForeFlight assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. We cannot control how such entities may use or disclose such information, and we disclaim any liability arising out of such entity’s failure to comply with the terms of the EULA or this Privacy Policy.</p>
+<p>We process this data to provide our customers with a better user experience. The legal ground for processing this information is our legitimate interest in providing a better product that provides the user with a better experience.</p>
 
-<p><strong>With Your Permission</strong>. We may also disclose your Personal Information with your permission.</p>
+<h4>PERSONAL DATA THAT IS PROCESSED WHEN YOU COMMUNICATE WITH FOREFLIGHT:</h4>
 
-<p>Personal Information may be available to third parties as noted in the preceding paragraphs. ForeFlight makes no representations or warranties about the acts or omissions of such third parties, including whether such parties will keep such information confidential. ForeFlight shall not be liable for any misuse of such information caused solely by a third party.</p>
+<p>When you interact with our customer support representatives via email, telephone, or online, we collect personal data, such as your name, mailing address, phone number, email address, and contact preferences; and information about the ForeFlight products you own. We also may create event logs that are useful in diagnosing product or app performance-related issues, and capture information relating to the support or service issue. To improve customer service, subject to applicable laws, we may also record and review conversations with customer support representatives, and analyze any feedback provided to us through voluntary customer surveys.</p>
 
-<h3>Information Security</h3>
+<p><strong>PURPOSES AND LEGAL GROUNDS:</strong></p>
+
+<p>We use this information to provide you with customer and product support and to monitor the quality and types of customer and product support we provide to our customers. The legal ground for processing this information for these purposes is ForeFlight’s legitimate interests in providing quality product support.</p>
+
+<h4>PERSONAL DATA THAT IS PROCESSED WHEN YOU VISIT THE FOREFLIGHT CAREERS PAGE:</h4>
+
+<p>When you interact with our careers page, we collect information you provide in applying for a job, including information contained on resumes or other documentation voluntarily provided by you to us in the job application process.</p>
+
+<p><strong>PURPOSES AND LEGAL GROUNDS:</strong></p>
+
+<p>We use this information to evaluate you for a career at ForeFlight. The legal ground for processing this information for the purposes is ForeFlight’s legitimate interest in hiring qualified candidates.</p>
+
+<h2>Categories of Recipients of Personal Data</h2>
+
+<h4>AVIATION AUTHORITIES:</h4>
+
+<p>When you use ForeFlight to create and file flight plans, your flights plans and associated information are submitted to the applicable aviation authorities.</p>
+
+<h4>OTHER SERVICE PROVIDERS:</h4>
+
+<p>ForeFlight uses cloud services from third parties such as Vero and Zendesk, to assist in sending emails and to analyze the use and performance of ForeFlight products. Those services track the activities associated with emails, such as whether they were opened, whether links in the emails were clicked on, and whether purchases were made following clicks on those links. ForeFlight uses this data to analyze the level of engagement with its emails. ForeFlight uses third-party service providers such as HockeyApp and Segment to help us better understand usage of the ForeFlight website and the ForeFlight app.</p>
+
+<h4>OTHER DISCLOSURES:</h4>
+
+<p>We may disclose personal data about you to others: (a) if we have your valid consent to do so; (b) to comply with a valid subpoena, legal order, court order, legal process, or other legal obligation; (c) to enforce any of our terms and conditions or policies; or (d) as necessary to pursue available legal remedies or defend legal claims.</p>
+
+<p><strong>Merger, Sale, or Other Asset Transfers</strong></p>
+
+<p>If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of ForeFlight assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. We cannot control how such entities may use or disclose such information, and we disclaim any liability arising out of such entity’s failure to comply with the terms of the EULA or this Privacy Policy.</p>
+
+<p><strong>Transfers of Personal Data</strong></p>
+
+<p>ForeFlight is a global business. To offer our products, apps, and services, we may need to transfer your personal data to other ForeFlight companies in other countries. When you create a ForeFlight account, add personal data in your account profile, or upload data to your ForeFlight account, your personal data will be collected and stored on ForeFlight LLC’s servers in the United States. Personal data regarding individuals who reside in a country in the European Economic Area or in Switzerland is controlled by and processed by ForeFlight LLC.</p>
+
+<p>Any transfers of personal data from ForeFlight companies in the European Economic Area ("EEA") or Switzerland to ForeFlight LLC in the United States is done pursuant to European Commission approved Model Contractual Clauses.</p>
+
+<p>All ForeFlight companies are required to follow the privacy practices set forth in this Privacy Statement.</p>
+
+<h2>Cookies and Similar Technologies</h2>
+
+<h4>WEBSITE:</h4>
+
+<p>To help analyze how you and other visitors navigate the ForeFlight websites, we compile aggregate statistics about site usage and response rates to help diagnose any problems with ForeFlight’s servers, administer the ForeFlight websites, and maintain user experience continuity across website pages and site visits, we, with assistance from third-party analytics service providers, collect certain information when you visit our site. This information includes IP address, geographic location of the device, browser type, browser language, date and time of your request, time(s) of your visit(s), page views and page elements (e.g., links) that you click. We may use cookies, pixel tags, web beacons, clear GIFs or other similar tools on our sites or in our email messages to assist us in collecting and analyzing such information. We use this information to provide better, more relevant content on our sites, to identify and fix problems, and to improve your overall experience on our sites.</p>
+
+<p>If you do not want information collected through the use of these technologies, there is a simple procedure in most browsers that allows you to automatically decline many of these technologies, or to be given the choice of declining or accepting them.</p>
+
+<p>If you reside in the European Union or other jurisdiction that requires us to obtain your consent to use cookies on our sites, then you will have an opportunity to manage your cookie preferences on the sites; except that certain cookies are required to enable core site functionality, and you cannot choose to disable those cookies.</p>
+
+<h4>ForeFlight APP:</h4>
+
+<p>We also collect data from users about their usage of the ForeFlight app. The types of analytical information that are collected include the date and time the app accesses our servers, app version, the location of the device, language setting, what information and files have been downloaded to the app, user behavior (e.g., features used, frequency of use), device state information, device model, hardware and operating system information, and information relating to how the app functions. ForeFlight uses this data to improve the quality and functionality of the ForeFlight app; to develop and market products and features that best serve you and other users; and to help identify and fix app stability issues and other usability problems as quickly as possible.</p>
+
+<p>The legal ground for processing this analytical information is our legitimate interest in understanding how our customers interact with our products, apps, and websites so we can enhance the user experience and functionality of our products, apps, and websites.</p>
+
+<p>Here are examples of third-party providers of analytics and similar services we currently use:</p>
+
+<h4>ANALYTICS SERVICES:</h4>
+
+<p><strong>Segment:</strong> This site uses Segment web analytics. Segment helps us measure and evaluate site usage behavior, such as mouse clicks, mouse movements, keystrokes (excluding personally identifiable information), scrolling activity, and pages visited and actions taken on the site and app. For more information, see the <a href="https://segment.com/docs/legal/privacy/" target="_blank">Segment privacy policy</a>.</p>
+
+<p><strong>HockeyApp:</strong> HockeyApp, which is a Microsoft service, is used to help us better understand usage of the ForeFlight app to improve user experience and to identify and resolve the root causes of app crashes. For more information, see the <a href="https://privacy.microsoft.com/en-us/PrivacyStatement" target="_blank">Microsoft privacy policy</a>.</p>
+
+<p><strong>Google:</strong> Google Analytics is used to track site statistics and user demographics, interests and behavior on websites. We also use Google Search Console to help understand how our website visitors find our website and to improve our search engine optimization. For more information, see the <a href="https://policies.google.com/privacy?hl=en" target="_blank">Google privacy policy</a>. You may opt out at <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a>.</p>
+
+<p><strong>Mixpanel:</strong> We use Mixpanel for data analytics. The information generated relating to our Service is used to create reports about the use of the Service. For more information, see the <a href="https://mixpanel.com/legal/privacy-policy/" target="_blank">Mixpanel privacy policy</a>. You may opt out at <a href="https://mixpanel.com/optout/" target="_blank">https://mixpanel.com/optout/</a>.</p>
+
+<h2>Information Security</h2>
 
 <p>We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. Neither ForeFlight, nor its affiliates, nor any of their respective employees, officers or agents or the provider of the internet services on behalf of ForeFlight (nor any other person involved in the management or establishment of the Service) can give any representation or warranty as to the absolute security of the data transmitted using the Service, and cannot give any guarantee that such data will not be compromised by bad actors. If you choose to provide data to or allow collection of data by ForeFlight, then you do so understanding the aforementioned risk.</p>
 
 <p>By using the Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Service or sending an email to you. You may have a legal right to receive this notice by mail.</p>
 
-<h3>Children’s Privacy</h3>
+<h2>Children’s Privacy</h2>
 
-<p>We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at <a href="mailto:team@foreflight.com?subject=Privacy%20Policy">team@foreflight.com</a>. If we learn that we have collected any Personal Information from children under 13 in a manner that is inconsistent with the U.S. Children’s Online Privacy Protection Act, we will promptly take steps to delete such information and terminate the child’s account as soon as practicable.</p>
+<p>We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at <a href="mailto:team@foreflight.com">team@foreflight.com</a>. If we learn that we have collected any Personal Information from children under 13 in a manner that is inconsistent with the U.S. Children’s Online Privacy Protection Act, we will promptly take steps to delete such information and terminate the child’s account as soon as practicable.</p>
 
-<h3>International Users</h3>
+<h2>Marketing</h2>
 
-<p><strong>If you are visiting from the European Union or other regions with laws governing data collection and use, you agree to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Privacy Policy. </strong></p>
+<p>We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We may allow access to other data collected by the Service to send information we think may be useful or relevant to you. Note that we may use your name, usage history and email address without further consent for non-marketing or administrative purposes (such as notifying you of major updates, customer service needs, tips on using the Service, notifications of unused features of the Service, or items for which you have requested communication).</p>
 
-<h3>Update Your Information or Pose a Question or Suggestion</h3>
+<h2>Legal and Similar Disclosures</h2>
 
-<p>If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to <a href="mailto:team@foreflight.com?subject=Privacy%20Policy">team@foreflight.com</a>.</p>
+<p>We may access, preserve, and disclose collected information, if we believe doing so is required or appropriate to: (i) comply with law enforcement requests and legal process, such as a court order or subpoena; (ii) respond to your requests; (iii) comply with the law; (iv) investigate, prevent, take action, or enforce compliance with regard to a violation of the EULA or this Privacy Policy; (v) investigate, prevent or take action regarding illegal activities or suspected fraud; or (vi) protect your, our, or others’ rights, property, or safety.</p>
 
-<h3>Changes to Our Privacy Policy and Practices</h3>
+<h2>Privacy Policy Updates</h2>
 
-<p><strong>Privacy Policy Revisions</strong>. We reserve the right to revise this Privacy Policy at any time. Regularly reviewing this page is the best method to ensure you are always aware of the information we collect, how it is used and under what circumstances.</p>
+<p>We may update this Privacy Policy from time to time as we add new products and apps, as we improve our current offerings and as technologies and laws change. You can determine when this Privacy Policy was last revised by referring to the “Last updated” legend at the top of this page. Any changes will become effective upon our posting of the revised Privacy Policy.</p>
 
-<p><strong>Posting of Revised Privacy Policy</strong>. We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted.</p>
+<p>We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent. This notice will be provided by email or by posting notice of the changes on the ForeFlight website and through the ForeFlight app.</p>
 
-<p><strong>New Uses of Personal Information</strong>. From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.</p>
+<h2>Retention of Personal Data</h2>
 
-<p><strong>Contact Information</strong></p>
+<p>We will retain your personal data as long as your ForeFlight account is active. In addition, see below under “Your Rights” for a description of your right of erasure.</p>
 
-<p>ForeFlight, LLC<br>
-2323 S Shepherd Drive, Suite 912<br>
-Houston, TX 77019<br>
-<a href="mailto:team@foreflight.com">team@foreflight.com</a></p>
+<h2>Data Controller and Data Protection Officer</h2>
 
-<p>Last Updated: May 2017</p>
+<p>The personal data collected by ForeFlight is controlled by ForeFlight LLC’s Data Protection Officer at 2323 S. Shepherd Drive, Suite 912, Houston, TX 77019, which you can also contact by email at <a href="mailto:team@foreflight.com">team@foreflight.com</a>.</p>
+
+<h2>Your Rights</h2>
+
+<p>If you reside in the European Union, you have the right under the General Data Protection Regulation to request from ForeFlight access to and rectification or erasure of your personal data, data portability, restriction of processing of your personal data, the right to object to processing of your personal data, and the right to lodge a complaint with a supervisory authority. If you reside outside of the European Union, you may have similar rights under your local laws.</p>
+
+<p>To request access to or rectification, portability or erasure of your personal data, or to delete your ForeFlight account, email <a href="mailto:team@foreflight.com">team@foreflight.com</a></p>
+
+<p>If you live in the European Union and you wish to exercise your right to restriction of processing or your right to object to processing, contact ForeFlight’s Data Protection Officer at 2323 S. Shepherd Drive, Suite 912, Houston, TX 77019, which you can also contact by email at <a href="mailto:team@foreflight.com">team@foreflight.com</a>. If you do not live in the European Union but you believe you have a right to restriction of processing or a right to object to processing under your local laws, please contact ForeFlight LLC at <a href="mailto:privacy@foreflight.com">privacy@foreflight.com</a>.</p>
 
             </div>
         </div>
@@ -581,11 +661,14 @@ Houston, TX 77019<br>
             <div class="section alt2 short">
                 <div class="flex">
                     
-<form action="https://foreflight.createsend.com/t/y/s/jhtytd/" method="post">
+<form action="https://app.getvero.com/forms/909ba18bcd11a482fafb77064cd30523" method="post">
+    <input type="hidden" name="csrfmiddlewaretoken" value="Q5dqxha4cmW6P7h8zDd1LmX06NL8xMNx">
+    <input name="redirect_on_success" type="hidden" value="https://www.foreflight.com/support/subscribed/">
     <div class="g1-flex4 g2-flex6 g3-flex10">
         <div class="label-wrap form-field">
             <label>Register for the Newsletter</label>
-            <input style="box-shadow:none;" type="email" required="" name="cm-jhtytd-jhtytd" id="jhtytd-jhtytd" placeholder="Enter your email here.">
+            <input type="email" required="" name="email" placeholder="Enter your email here.">
+            
         </div>
     </div>
     <div class="g1-flex4 g2-flex6 g3-flex2">
@@ -610,30 +693,29 @@ Houston, TX 77019<br>
 
 	<ul>
 		<li><a href="/products/foreflight-mobile/">ForeFlight Mobile</a></li>
-		<li><a href="/products/military-flight-bag/">ForeFlight Military</a></li>
+		<li><a href="/solutions/military/">ForeFlight Military</a></li>
 		<li><a href="/products/foreflight-directory/">ForeFlight Directory</a></li>
 		<li><a href="/products/stratus/">Stratus 1S &amp; 2S</a></li>
 		<li><a href="https://www.foreflight.com/products/foreflight-web/" target="_self">ForeFlight Web</a></li>
 		<li><a href="https://www.foreflight.com/buy/gift" target="_self">ForeFlight Gift Certificates</a></li>
-		
 	</ul>
 	</li>
 	<li>
 	<div class="footer-header">Solutions</div>
 
 	<ul>
-		<li><a href="/reversion-area/personal-old-5-30-17-again/">Personal Flying</a></li>
+		<li><a href="/solutions/personal/">Personal Flying</a></li>
 		<li><a href="/solutions/business-aviation/">Business &amp; Government</a></li>
-		<li><a href="/products/military-flight-bag/">ForeFlight Military</a></li>
-		<li><a href="/support/training/">Flight Training &amp; Education</a></li>
+		<li><a href="/solutions/military/">ForeFlight Military</a></li>
+		<li><a href="/solutions/education/">Flight Training &amp; Education</a></li>
 		<li><a href="/products/foreflight-directory/">FBOs</a></li>
 	</ul>
 	</li>
-	<li><a href="/support/">Support</a>
+	<li><a href="/support/support-center/">Support</a>
 	<ul>
+		<li><a href="/support/support-center/">Support Center</a></li>
 		<li><a href="/support/video-library/">Video Library</a></li>
 		<li><a href="http://www.foreflight.com/support/pilots-guide/">Pilot's Guide</a></li>
-		<li><a href="/support/">FAQs</a></li>
 		<li><a href="/support/contact/">Contact</a></li>
 	</ul>
 	</li>
@@ -641,7 +723,7 @@ Houston, TX 77019<br>
 	<div class="footer-header">Company</div>
 
 	<ul>
-		<li><a href="/blog/">Blog</a></li>
+		<li><a href="/about/blog/">Blog</a></li>
 		<li><a href="/about/team/">Team</a></li>
 		<li><a href="/support/partners/">Partners</a></li>
 		<li><a href="/about/careers/">Careers</a></li>
@@ -695,7 +777,8 @@ Houston, TX 77019<br>
 </footer>
 
 
-        <script src="//foreflight-www.s3.amazonaws.com/assets/scripts/www-entry.1495741190.js"></script>
+        
+        <script src="//foreflight-www.s3.amazonaws.com/assets/scripts/www-entry.1526591995.js"></script>
         
         
 
@@ -714,9 +797,6 @@ Houston, TX 77019<br>
             // iTunes
             var _merchantSettings=_merchantSettings || [];_merchantSettings.push(['AT', '1l3v9kk']);(function(){var autolink=document.createElement('script');autolink.type='text/javascript';autolink.async=true; autolink.src= ('https:' == document.location.protocol) ? 'https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js' : 'http://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(autolink, s);})();
 
-            (function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
-                for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
-                mixpanel.init('36d5b02ffb8c26ebe5dab93228e8e23b');
         </script>
         
         <iframe src="javascript:false" title="" style="display: none;"></iframe><script>
