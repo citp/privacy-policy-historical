@@ -1,109 +1,128 @@
-> *The following text is extracted and transformed from the snap.do privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222165537id_/http%3A//www.snap.do/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snap.do privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623082910id_/http%3A//www.snap.do/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
 
 # Resoft Privacy
 
-[Last Updated: March, 2015]
+**[Last Revised: May 21, 2018]**
 
-Resoft ("Company", "we" or "us") is the owner of the well-known Snapdo search application, including a search toolbar or search box, default search features as well as Home Page and New Tab features (" **Search Application** ") and the Snapdo website available at http://snapdo.com/com (" **Website** "). We respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by us through the use of (i) our Websites; (ii) our Search Applications in which you can access our search services.
+This Privacy Policy (" **Privacy Policy** ") governs the manner in which we process information collected from our users (" **you** ", " **your** " or " **user** ") in connection with the access to or use of our software application, browser extension, website and new tab app, all, as detailed in our End User License Agreement (" **EULA** " or " **Agreement** ") (" **Service** "). 
 
-This Policy is a legally binding agreement between you (“you” or “user”) and us. By accessing, downloading, installing and using the Services or providing information to us in other formats, you agree and accept the terms of this Privacy Policy as amended from time to time and consent to the collection and use of information in the manner set out in this Privacy Policy. We encourage you to review this Privacy Policy carefully and to periodically refer to it so that you understand it and its subsequent changes if any. IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, PLEASE STOP USING THE SERVICES IMMEDIATELY AND WHERE RELEVANT [UNINSTALL](http://faq.snapdo.com/). 
+We have included below information about which data is collected, how we process and use your data, but before we would like to explain the basis on which we do so: 
 
-The definitions in the [ User License Agreement](http://snapdo.com/EULA.aspx?lang=en) apply to this Policy unless stated otherwise. IN ADDITION TO THIS POLICY, PLEASE REVIEW OUR [ USER LICENSE AGREEMENT](http://snapdo.com/EULA.aspx?lang=en), WHICH ARE INCORPORATED HEREIN BY REFERENCE, TOGETHER WITH SUCH OTHER POLICIES OF WHICH YOU MAY BE NOTIFIED OF BY US FROM TIME TO TIME. 
+1\. Where you sign up for any of our services, we process your personal data in order to perform our contract with you; 
 
-Below we describe what information we collect when you use our Services, how we protect that information, how long we retain it, with whom do we share it, and what your privacy options are. 
+2\. If we have a legitimate interest in processing data, such as for direct marketing or online identifiers; or 
 
-We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its updated date, and notify you by means of a notice on our Website. Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes.
+3\. We will also process your personal data where you have provided us with consent to do so. 
 
-**What information do we collect about you?**
+**1\. Amendments**
 
-When you use the Search Application, you will be providing us with two types of information collected: (i) personal identifying information (“ **PII** ”) collected by us through your use and interaction with the Services, or, provided by you when you submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services; interaction with the Search Application, and information which is obtained by you use of the Services; and (ii) non-personal identifying information (“ **Non-PII** ”) collected by us once you use, download or install the Search Application and Services. This Non-PII is aggregate non-identifying information, including without limitations, technical, statistic and aggregated information that does not identify you to us. Currently, we do not ask you to register to our Service and do not require the submission of any information that identifies you personally, such as your name, address and other PII unless you have commenced in a direct communications with us and we retained such communications and the accompanying information in order to process your inquiries, respond to your requests and improve our Service. 
+Except as otherwise described herein, we may at our sole discretion and at any time amend the terms of this Privacy Policy. Such changes shall be effective upon publication of the amended terms in this Privacy Policy. Your continued use of the Service, following the amendment of the Privacy Policy, constitutes your acknowledgement and consent of such amendments to the Privacy Policy. The last revision will be reflected in the "Last Revised" heading above. In the event of a material change we will make best efforts to send you a written notification. We recommend that you periodically review this Privacy Policy, as it may be subject for amendments from time to time. If you do not agree to the Privacy Policy as amended, your sole and exclusive option is to discontinue or terminate your use of the Service. 
 
-The non-PII collected is mainly statistical information we collect when you use of our Service, including, inter alia, advertisements viewed, the type of browser you are using as well as operating system, your time zone, the date and time you access the Service, screen resolution, browser and operating system language, VPN and Proxy services and ISP, default search, geo, etc. 
+**2\. What information we collect?**
 
-We also collect information regarding your **usage of the Services** locally on your device, this information includes, among others, pages browsed and content viewed, offers and services that interest you, advertisement you were interested in, search quires and the time and date of your search, browsing history, interaction with social networks, and IP address, all as detailed herein. 
+**_Non-Personal Information:_ **
 
-While we would never collect any PII submitted to such websites, note that browsing history is aggregated separately for each specific IP, in order to continuously improve our products and provide the most relevant search results for each different location to better understand Internet trends statistics. That said, IP addresses, while identifying a device connected to the Internet, and its general location, are in themselves anonymous and contain no information regarding the identity of the ultimate person using the device – such identity is known solely to your ISP. Moreover, IP addresses assigned by ISPs are generally dynamic and subject to frequent change – static IP addresses are generally assigned only at subscriber's specific request and frequently require an additional fee.
+The **_first type_ ** of information we collect is aggregated, non-identifiable, non-personal information, which may be made available or gathered via the user's use of the Service (" **Non-Personal Information** "). We are not aware of the identity of the user from which the Non-Personal Information was collected. The Non-Personal Information which is being collected may include technical information automatically transmitted by the user's device (for example, type of browser, the type of the user's device and technical information pertaining to the user's device, language preferences, time stamps, clicks and visited pages, search logs, the operating system, utilized internet service provider and other similar information. 
 
-The data collected of your usage of the Service **may include** PII, as part of our privacy measures, we implement certain rules designed to avoid the unintentional collection of PII such as email addresses, social security numbers, credit card numbers, login information, etc. Such rules are based on known field types, parameters, values and algorithms but they are not foolproof and hence the Services may sometimes, unintentionally, collect unwanted information. 
+**_Personal Information:_ **
 
-**How do we use the information we collect?**
+The **_second type_ ** of information is individually identifiable information, namely information that identifies an individual or entity or may with reasonable effort identify an individual (" **Personal Information** "). The Personal Information we collect on or through the Service includes: 
 
-We use the information we collect from and about you for a variety of purposes, including to:
+  * **"Identifiers"** we may collect certain identifiers such as your IP addresses. Note that, while these identifiers are considered personally identifiable information in many jurisdictions (such as the EEA), there are some jurisdictions in which such data sets are not considered as Personal Information. Therefore, we treat such information as Personal Information, in accordance with applicable laws. The data collected may be also stored on your device. Please see opt - out options below. 
+  * **"Contact Information** " - we may receive Contact Information, when you voluntarily provide us with such information, if and when you contact us for support. Contact Information shall not be stored and shall be deleted immediately after providing you with the support you requested. 
 
-• verify your eligibility for our Services;
 
-• respond to your queries with the best possible answers and search results;
 
-• understand our users and provide a better Service; 
+For avoidance of doubt, in the event Non-Personal Information is combined with Personal Information we will treat it as Personal Information as long as it is combined. 
 
-• to operate and update the Service and provide you with existing and new functionality and features;
+**3\. How we may collect your information?**
 
-• to provide you personalized content, including through the delivery of targeted interest-based advertisements from us or our partners;
+Non-Personal Information may be automatically transmitted by the user's device. When using our Service, we assign your device with a log file, a cookie (session or persistent), web beacons or other related technologies, to collect Non-Personal Information with respect to your activity in connection with our Service. 
 
-• improve our Services, such as by personalizing content to your interests and process and complete your transactions;
+A "cookie" is a small piece of information that a website assign to your device while you are viewing a web site. Cookies are very helpful and can be used for various different purposes. These purposes include allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and making the interaction between you and our Services quicker and easier. Cookies are also used to help customize your experience. You can find more information about cookies at [ www.allaboutcookies.org ](http://www.allaboutcookies.org/) . You may remove our cookie by following the instructions of your device preferences; however, if you choose to disable our cookie, some features of our Service may not operate properly and your online experience may be limited. You may control how your browser responds to cookies by adjusting the privacy and security settings of your web browser. 
 
-• administer our Services, diagnose technical problems and otherwise manage our business;
+Our service providers (i.e., Google Analytics, Amazon, search feed providers, customer service, marketing assistance, ad tracking, service functionality and support, etc.) (" **Service Providers** ") may also use cookies, scripts or web beacons for the purpose of tracking and analyzing your use, all as detailed below: 
 
-• to provide you with communications that you have requested or that may be of interest to you in accordance with your preferences. 
+**Google Analytics** . This cookie is placed in order to track and analyze the use of our Services, for internal purposes. To learn more about how Google uses data from our use of Google Analytics Cookies, we recommend you review Google's policies located at: [ www.google.com/policies/privacy/partners ](http://www.google.com/policies/privacy/partners) . We also encourage you to review the Google Analytics' currently available opt-outs for the web tool available at: [](https://tools.google.com/dlpage/gaoptout/) [ https://tools.google.com/dlpage/gaoptout/ ](https://tools.google.com/dlpage/gaoptout/) . 
 
-• enable us to show you ads that are more relevant to you; 
+**Oath.** Oath may use cookies when you use their services through our software, for more information please review the applicable privacy policy: [ https://policies.oath.com/us/en/oath/privacy/products/searchservices/index.html ](https://policies.oath.com/us/en/oath/privacy/products/searchservices/index.html) ****
 
-We may also generate, use and disclose aggregated and/or anonymized information and statistics about your use of the Services to third parties for marketing, analytical and strategic purposes. However, no user of our Services will be individually identifiable from the aggregated or anonymized information and statistics.
+**4\. How we use information we collect?**
 
-**How do we share the information we collect?**
+We collect Personal Information for the following purposes: 
 
-We will **not** share the PII collect about you with any third party for their own marketing purposes without your consent. We will share your information in the following ways:
+· The legitimate interest of operating the service. 
 
-• Our suppliers, subcontractors and business partners (“Service Providers”): We may share your data with our Services Providers who process your information to provide services to us or on our behalf. We have contracts with our Service Providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes.
+· Recommend content based on your preferences. 
 
-• Our Search Partners (e.g., search engine and feed providers, content providers, etc.): If you have installed a Search Application, our Search Application partners may collect or receive information about you including the queries you submit via the Services, the Search Application functionality or website, the version of your Search Application or your browser settings, the search results and ads you click on, and the address of the web pages you previously visited. 
+· To respond to users' requests and feedbacks. 
 
-• Fraud prevention: We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
+· To respond to claims that any content available through the Service violates rights of third-parties, to resolve disputes and enforce our policies, including investigation of potential violations thereof, for the purpose of law enforcement or in accordance with any applicable law or regulation. 
 
-• Law enforcement purposes: If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.
+We collect Non-Personal Information for the following purposes 
 
-• Sale or merger of our business: We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+· The legitimate interest of operating the service. 
 
-• Advertisers and advertising networks: Advertisers and advertising networks place ads, on our Site, Home Page, New Tag and Search Result Page, including sponsored links in search results. These companies may collect information, such as your computer’s IP address, browser information, and search queries. They also may use cookies and other technologies to collect this information when you visit our site as described below. We make best efforts to ensure the compliance of these Advertisers with this Privacy Policy. 
+· To perform research, analytics or for statistical purposes. 
 
-**Cookies and Online Advertising**
+· To detect, prevent, or otherwise address fraud, security or technical issues. 
 
-We use cookies, pixel tags, web beacons and other such similar technologies to collect and store the information we automatically collect about your computer, device and Service usage. A cookie is a small text file that is stored on your computer and a pixel tag is a tiny graphic with a unique identifier, embedded invisibly on a webpage. 
+**5\. With whom we share information?**
 
-There are two broad categories of cookies: (1) first party cookies, served directly by us to your computer or device, and (2) third party cookies, which are served by a third party.
+We do not sell, trade, or rent users' Personal Information to other parties. We may share information solely in the following events: 
 
-Cookies may store search queries made through the Service, the web pages you accessed, your interaction with advertisements presented to you via the Service, features you used, your session duration and your configurations and preferences of the Service. Such cookies and other technologies allow us and our partners to recognize you on your next use of, access or visit to the Service or on your visits or access to our partner’s network. In addition, our cookies enable us to recognize you when you visit our Site and to store your preferences and settings. We use third party cookies for functionality, performance or analytics, advertising and social media purposes. Cookies from advertising companies, for example, help to ensure that the advertisements you see online are more relevant to you and your interests.
+· we will share your information, solely to the extent needed to comply with any applicable law or regulation (including our policies and agreements), solely to the extent needed to establish or exercise our rights to defend against legal claims or to prevent harm to the rights, property or safety of us, our users, yourself or any third party or for the purpose of collaborating with law enforcement agencies or in case we find it necessary in order to enforce intellectual property or other legal rights. 
 
-Most browsers are initially set up to accept cookies but you can reset your browser to refuse all Cookies or to indicate when a cookie is sent. However, some functions of the Service may not function properly if your cookies are disabled. By using the Service, you affirmatively consent to the collection of information and cookies as described above. Users can usually set their browsers to block all **third-party cookies** , block **all cookies** , or block **specific cookies**. These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help” option in your browser for more details.
+· We may share your information, in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, consolidation or asset sale). In the event of the above, our affiliated companies or acquiring company will assume the rights and obligations as described in this Privacy Policy. 
 
-Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices. We do not control the practices of such partners and their privacy policies govern their interactions with you. We encourage you to read their privacy policies.
+· We may share Non-Personal Information with our trusted Service Providers only to the extent required to fulfill the purposes of providing the services. 
 
-Advertisers and advertising networks that place ads on our Site and Search Application as well as data analytics companies who service them, may use cookies, pixel tags and other similar technologies to collect data about you when you visit our Site and use the Search Application. They use the data to enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you. 
+  * **identifiers -** we may disclose or share identifiers collected by us (as detailed above), for the purpose of operating our business and providing the Services, as well as **** to **** calculate payments and detect fraud, security or technical issues in connection with the Service; 
 
-**Third-Party Content**
 
-Certain parts of the Service may include or enable you to add content to them (e.g., social networks, chats, blogs, etc.). This content may be in the form of apps, buttons, gadgets, links to third-party advertisements, websites, products and services (including search services) as well as additional means that are provided to you by third parties (collectively, "Third Party Content and Services"). The use of such Third Party Content and services is subject to their privacy policies. Some of these third parties may have access and the ability to collect, store or share your information (both your PII and Non-PII). PLEASE NOTE: We do not review, approve, monitor, endorse, warrant, or make any representations with respect to such Third-Party Content and Services and your access to any Third-Party Content and Services is at your own risk. We are not responsible for the information contained or made available through, the practices of, or your use or inability to use such Third-Party Content and Services. You expressly relieve us from any and all liability arising from your use of such Third-Party Content and Services. We recommended that you read the terms, conditions and privacy policies of such Third-Party Content and Services before using or accessing any of them.
 
-**Review, Changing or deleting information**
+· Other third parties (including retailers, media networks, feed providers) in any of the above circumstances, as well as for the purpose of developing or delivering content (whether via our Service, or websites, applications or services of third parties), or for the purpose of improving our Service, conducting business analysis or other business purposes. This information may be combined with information we collect from other sources, to the extent that the information remains Non-Personal Information. 
 
-If you would like to review, change or delete personal information we have collected from you, please contact the Privacy Officer: [ contact@snap.do](mailto:contact@snap.do). Upon uninstalling the Search Application, your information is permanently deleted. The uninstall instructions are available [ here ](http://faq.snapdo.com/). 
+· We use a tool called "Google Analytics" to collect information about use of the Service. Google Analytics collects information such as how often users access the Service, what pages they visit when they do so, etc. We use the information we get from Google Analytics only to improve our Service. Google Analytics collects certain identifiers assigned to you on the date you visit sites, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits by disabling cookies on your browser. To learn more how Google uses data from our use of Google Analytics Cookie we recommend you review Google's policies located at: [ ](http://www.google.com/policies/privacy/partners) [ www.google.com/policies/privacy/partners ](http://www.google.com/policies/privacy/partners) . We also encourage you to review the Google Analytics' currently available opt-outs for the web tool available at: [](https://tools.google.com/dlpage/gaoptout/) [ https://tools.google.com/dlpage/gaoptout/ ](https://tools.google.com/dlpage/gaoptout/) . 
 
-**Transfer of Data**
+· by downloading or installing or using the Service, or by accepting this Privacy Policy, you also consent to the third-party policies, whose products might be offered to you as part of the Service, such as Yahoo which it's privacy policy available here: https://info.yahoo.com/privacy/us/yahoo/search/details.html)  and the **opt out** is available herein:  [ https://aim.yahoo.com/aim/us/en/optout/ ](https://aim.yahoo.com/aim/us/en/optout/) . 
 
-The Service is provided over the Internet and we may store and process information in various locations throughout the globe (including locally on your devoice as well as by using third party servers). If you are a resident of a European Union Member State or another jurisdiction where transfer of your PII to another jurisdiction requires your consent, then you hereby provide us with your express consent to such transfer of your data.
+· You may share through the Service certain types of information (e.g. music interests and recommendations) with other users. 
 
-**How do we keep the information we collect secure?**
+**6\. Information Retention Policy and User Rights**
 
-We take the security of your information seriously and use appropriate technical and organizational measures to protect your information against unauthorized or unlawful processing and against accidental loss, destruction or damage. We also limit access to personal information about you to employees who reasonably need access to it to provide products or services to you. However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you.
+Applicable data protection and privacy laws may provide you with the ability to exercise some user rights regarding your Personal Information collected by the Company (which might be different in each jurisdiction). The user rights are as follow: **(i)** you may request to access your Personal Information that we hold;  **(ii)** you may  request the rectification of your Personal Data that we hold; **(iii)** you may request the erasure of your Personal Information that we hold (as long as we do not have a legitimate reason for retaining the data); **(iv)** you may request to restrict processing of your Personal Information; **(v)** you may object to processing of your Personal Information by us; **(vi)** you may request to exercise your right of data portability; **(vii)** you may exercise your right to file a complaint to a supervisory authority in your jurisdiction; and **(viii)** you have the right to withdraw consent. 
 
-**How long do we keep the information we collect?**
+To exercise any of the above user rights, please contact us at: [support@snapdo.com](mailto:support@snapdo.com) . In the event you make such request, note that we may require certain information from you in order to verify your identity and locate your data and that the process of locating and deleting the data may take, however not more than one (1) month, unless otherwise required or permitted under applicable law. 
 
-We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request. We may also choose to anonymize certain of the information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time.
+Data privacy and related laws in your jurisdiction may provide you with different or additional rights related to the data we collect from you, which may also apply. Please note we may charge a small fee for such request, all in accordance with applicable laws. 
 
-**Children under 13**
+Unless we are instructed otherwise by users, we retain the Non-Personal Information, we collect for as long as needed to provide the Service and to comply with our legal obligations, resolve disputes and enforce our agreements. Further, we retain the Personal Information, we collect for as long as legally permissible, in accordance with applicable laws. 
 
-You hereby represent that you are at least 13 years old. The Services are not intended for users under the age of 13. We do not knowingly collect any personal information from children under 13. If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible. 
+**7\. Children Information**
 
-_We may, from time to time, change this Privacy Policy. We encourage you to visit and review this Policy frequently to stay informed. We will update the "Last updated” date at the title of this Privacy Policy. Your continued use of the Service after any change takes effect will indicate your acceptance of the amended Privacy Policy. If you do not agree with any of the amended terms, you must avoid any further use of the Service._
+You represent and warrant that, (i) if you are located in the US, you are at least 13 years of age; or if you are located in any other GEO, you are above the age defined as "child" under applicable laws in your jurisdiction (collectively " **Child** " or " **Children** "); and (ii) you are of legal competence to enter into this Privacy Policy. If you are under 18, please be sure to read the terms of this Privacy Policy with your parents or legal guardians. The Services are not directed or intended for Children, as defined under applicable law, and we do not knowingly collect or solicit information from children. If we obtain actual knowledge that a User is considered as a Child under applicable law, we will take steps to immediately delete such User's Personal Information. If you become aware or have any reason to believe that a Child has shared any information with us, please contact us at: [support@snapdo.com](mailto:support@snapdo.com)
 
-If you have any concerns or questions with respect to any matter covered by this Privacy Policy, you may contact us by email at: [ contact@snap.do](mailto:contact@snap.do) . 
+**8\. Security**
+
+Your privacy is very important to the Company and therefore we are committed to protecting your Personal Information from unauthorized access, use or disclosure. We have implemented physical, technical and administrative security measures for the Services that comply with applicable laws and industry standards. The Personal Information collected by the Company is stored in the Google Big Query Cloud servers, for more information regarding the data security provided by Google, please see: [ https://cloud.google.com/security/ ](https://cloud.google.com/security/) . 
+
+Company seeks to minimize the amount of data that it stores on its servers in the first place. If you feel that your privacy was treated not in accordance with our policy, or if any person attempted gain unauthorized access to the Personal Information please contact us at: [support@snapdo.com](mailto:support@snapdo.com). 
+
+Further, in the event of a data incident, in which we discover your Personal Information may be at risk, then we will take reasonable efforts to notify you and the applicable authority (if required, subject to applicable laws). 
+
+**9\. Transfer of Data**
+
+We may store or process your information in the United States or in other countries. If you are a resident of the European Economic Area (" **EEA** ") we will take appropriate measures to ensure that your information receives an adequate level of data protection upon its transfer outside of the EEA. If you are a resident of a jurisdiction where transfer of your data requires your consent, then your consent to this Privacy Policy includes your express consent for such transfer of your Personal Information. 
+
+**10\. Do Not Track Disclosure** ****
+
+Our Service does not respond to Do Not Track signals. For more information about Do Not Track signals, please see: <http://www.allaboutdnt.com/>. 
+
+**11\. Contacting us**
+
+If you have any questions about this Privacy Policy, or the practices of our Service, please contact us at [support@snapdo.com](mailto:support@snapdo.com)
+
+**_Data protection officer_ **
+
+Our data protection officer's contact details are: [dpo@snapdo.com](mailto:dpo@snapdo.com). 
