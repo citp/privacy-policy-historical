@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the brooklynbowl.com privacy policy that was archived on 2017-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171027132613id_/http%3A//www.brooklynbowl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynbowl.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624012751id_/https%3A//www.brooklynbowl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brooklyn Bowl
 
-**Last Modified January  01, 2017**
+**Last Modified May 25, 2018**
 
 We at Brooklyn Bowl are connected to you by our love for experiencing live music together. This means that sharing is one of our highest values. But maintaining the privacy of the personal information you entrust to us is just as important. This Privacy Policy explains how we use and share the information we collect through Brooklyn Bowl’s websites (collectively, the “Website”).
+
+As you may be aware, a new European Union law, called the General Data Protection Regulation (or “GDPR”), gives certain rights to individuals in relation to their personal data. To reflect the increased transparency requirements of the GDPR, we will be making some changes to our Privacy Policy and putting in place certain tools to give you additional transparency and control over the personal data we collect and use.
 
 This Website is maintained by The Bowls LLC, which owns and operates Brooklyn Bowl (“Brooklyn Bowl” or the “Company”) for the purpose of providing you with information about Brooklyn Bowl and to give you the opportunity to browse our calendar and purchase tickets to upcoming concerts and events, subscribe to our mailing list, purchase Brooklyn Bowl branded merchandise and E-Gift Cards, read our blogs, participate in ticket contests and submit requests to celebrate your special events at our venue.
 
