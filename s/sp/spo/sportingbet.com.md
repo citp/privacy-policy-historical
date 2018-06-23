@@ -1,156 +1,191 @@
-> *The following text is extracted and transformed from the sportingbet.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509121655id_/http%3A//www.sportingbet.com/t/info/faqs/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingbet.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623170038id_/https%3A//service.sportingbet.com/en/general-information/security/privacy-policy%23cookies) for the most accurate reproduction.*
 
-# Sportingbet.com - online sports betting, poker, casino and instant win games.
+# Help - General Information - Privacy Policy
 
-**PRIVACY STATEMENT**   
-SPORTINGBET.COM has created this privacy statement in order to demonstrate our firm commitment to privacy for our uses. The following privacy statement discloses our information gathering and dissemention practices for this website: [www.sportingbet.com](http://www.sportingbet.com/)
-
-The following Privacy Statement explains: 
-
-  1. What personally identifiable information SPORTINGBET.COM collects. 
-  2. What personally identifiable information third parties collect through the Web site. 
-  3. What organization collects the information. 
-  4. How SPORTINGBET.COM uses the information. 
-  5. With whom SPORTINGBET.COM may share user information. 
-  6. What choices are available to users regarding collection, use and distribution of the information. 
-  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under SPORTINGBET.COM control. 
-  8. How users can correct any inaccuracies in the information. 
+  * [Privacy Policy ](https://web.archive.org/en/general-information/security/privacy-policy)
+  * [Cookie Notice](https://web.archive.org/en/general-information/security/cookies-notice)
+  * [User Account Protection](https://web.archive.org/en/general-information/security/user-account-protection)
+  * [Security in monetary transactions](https://web.archive.org/en/general-information/security/security-in-monetary-transactions)
 
 
 
-If users have questions or concerns regarding this statement, they should first contact :   
-[admin@sportingbet.com](mailto:admin@sportingbet.com)
+**Privacy Notice**
 
-**Information Collection and Use Information Collection**   
-Sportingbet Group is the sole owner of the information collected on [www.sportingbet.com](http://www.sportingbet.com/)
+This Privacy Notice describes how ElectraWorks Limited (' **ElectraWorks** ', ' **Our** ', ' **Us** ', as appropriate) collects, use, stores, shares or keeps your personal information when you use our services through our website and mobile application. It also describes your data protection rights, including a right to object to some of the processing which We carry out.
 
-Registration   
-In order to use this Web site, a user must first become a member via 'Account Set Up'. During registration a user is required to give contact information (such as a name and an email address). We use this information to contact the user about services on our site for which the user has expressed interest. It is optional for the user to provide demographic information (such as gender), and unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience on our site. When a user wishes to deposit money into their account electronically, we need to know the user's credit card number and expiration date in order to process the user's transaction and allow the user to begin wagering. If we have trouble processing a wager, the information is used to contact the user. 
+The data controller for your Personal information is:
 
-**Information Use**   
-We use your IP address to help diagnose problems with our server, and to administer our Web site. When placing a wager, or logging into our secure server, your IP address is tracked against your user ID for the dual purposes of preventing fraud and creating an audit trail. This information is not used or accessed for any other purposes. 
+ElectraWorks Limited of Suite 6, Atlantic Suites, Europort Avenue, Gibraltar, GX11 1AA
 
-We may also use information such as email addresses to alert our customers of special promotions that we may be running or to inform you of any news or changes that might affect your gaming experiences. If you would like to be excluded from our email list, please email [admin@sportingbet.com](mailto:admin@sportingbet.com)
-
-**Profile**   
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties. 
-
-**Cookies**   
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.   
-<http://www.microsoft.com/info/cookies.htm>
-
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
-
-**Log Files**   
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. IP addresses are tied to personally identifiable information to enable our Web-based service. 
-
-**Clear Gifs (Web Beacons/Web Bugs)**   
-Our third party advertising company employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users' personally identifiable information. 
-
-Clear Gifs can "work with" existing cookies on a computer if they are both from the same Web site or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear gif, the advertising company would match the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company. 
-
-In addition, we use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please email: [admin@sportingbet.com](mailto:admin@sportingbet.com)
-
-**Communications from the Site**   
-Special Offers and Updates
-
-We send all new members a welcoming email to verify username. Established members will occasionally receive information on services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please email [admin@sportingbet.com](mailto:admin@sportingbet.com) to direct you to the respective 'opt' out of such communications. 
-
-Newsletter   
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please email [admin@sportingbet.com](mailto:admin@sportingbet.com) to opt out. 
-
-Service Announcements   
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. Users may opt-out of these communications. Please email [admin@sportingbet.com](mailto:admin@sportingbet.com) to opt out. 
-
-Customer Service   
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.   
-We will not use any information obtained about users to encourage irresponsible gaming behaviour. 
-
-**Sharing**   
-Legal Disclaimer   
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law or our regulator wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, an order from our regulator or legal process served on our Web site. 
-
-Third Party Intermediaries   
-We use a credit card processing company to process bets. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
-
-Business Transitions   
-In the event SPORTINGBET.COM goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email prior to a change of ownership or control of their personal information. 
-
-**Choice/Opt-out**   
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our account Set Up form has an 'opt-out' mechanism so users who place a wager with us, but don't want any marketing material, can keep their email address off of our lists. 
-
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [admin@sportingbet.com](mailto:admin@sportingbet.com)
-
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
-
-**Links**   
-This Web site contains links to other sites. Please be aware that we Sportingbet PLC are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
-
-**Surveys & Contests**   
-From time-to-time, our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name), and demographic information (such as zip code). Contact information will be used shared with the contest sponsors to notify the winners and award prizes. Anonymous Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes. 
-
-**Tell-A-Friend**   
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's email address. SPORTINGBET.COM will automatically send the friend a one-time email inviting them to visit the site. 
-
-**Security**   
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
-
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'. 
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every year, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment. 
-
-If users have any questions about the security at our Web site, users can send an email to [admin@sportingbet.com](mailto:admin@sportingbet.com)
-
-**Children's Guidelines**
-
-  1. SportingBet believes in providing a protected environment, it is recognized that gambling is an exciting adult leisure pursuit. It is illegal for anyone under the age of 18 to gamble with SportingBet. We reserve the right to ask for verification documents from any customer and may suspend an account until such proof is received. 
-  2. Please note that anyone under the age of 18 found to be gambling with SportingBet will have any winnings forfeited. 
+  1. **INFORMATION COLLECTED AND MEANS OF COLLECTING**
+  2. **INFORMATION USE AND LEGAL BASIS**
+  3. **AUTOMATED DECISION MAKING**
+  4. **DISCLOSING YOUR PERSONAL INFORMATION**
+  5. **INTERNATIONAL TRANSFERS**
+  6. **YOUR RIGHTS**
+  7. **SECURITY**
+  8. **RETENTION OF PERSONAL INFORMATION**
+  9. **CHANGES TO OUR PRIVACY NOTICE**
+  10. **WHO TO CONTACT**
 
 
 
-**Data Protection**   
-Under the Data Protection Act 1998 (UK legislation), (Bailiwick of Guernsey) Law 2001 and EU privacy and the OECD Guidelines on the Protection of Privacy and Transborder Data Flow of Personal Data we have a legal duty to protect any information we collect from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorized access to it. 
+## 1 INFORMATION COLLECTED AND MEANS OF COLLECTING
 
-**Supplementation of Information**   
-In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from third party sources. Therefore, we use TRUSTMARK to verify a user's identity and address to eliminate fraudulent transactions. 
+### We collect the following information about you:
 
-**Correcting/Updating/Deleting/Deactivating Personal Information**   
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the [member information page] or by emailing our Customer Support at [admin@sportingbet.com](mailto:admin@sportingbet.com). 
+1.1 Personal information you provide to us when you use our website or register for an account with us, this may include first and last name, date of birth, credit card information, username and password, proof of age and identity, billing address, home address, email address, phone number or other contact information;
 
-**Notification of Changes**   
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
+1.2 Technical information about your device and the platform such as administrative and traffic information including but not limited to: source IP address, time of access, date of access, type of devise, web page(s) visited, language use, your location, roaming trace, software crash reports and type of browser used. This information is essential for the provision and quality of the Services.
 
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+1.3 Your public profile, including, name, photo and other information you make available to us when you like, post or otherwise interact with our social media pages such as Facebook, Twitter and Google+.
 
-**Customer Charter**   
-Sportingbet promises to ensure complete openness and clarity in all its financial relationships with customers. Sportingbet will offer odds on all mainstream sporting events and these will be competitive with other major bookmakers. Sportingbet maintains 24 hour call centers, available in a wide range of languages to resolve all customer matters as quickly as possible. In the event that there is no amicable agreement in a dispute, Sportingbet agrees to abide by independent arbitration. Sportingbet respects the privacy of all its customers and commits itself to protect any data about customers from outside parties. 
+1.4 We keep records of communications when you contact us or otherwise interact with us, including via e-mail, letter, text message (SMS), online, messaging Apps such as WhatsApp and Skype, telephone or live chat function on our Website;
 
-**Contact Information**   
-If users have any questions or suggestions regarding our privacy policy, please contact us at: 
+1.5 Other information from third parties databases to comply with our legal and regulatory obligations;
 
-**Phone** +44 020 7184 1800   
-**Fax** +44 020 7184 1810   
-**Email** admin@sportingbet.com 
+1.6 We may also receive your personal information from online vendors and service providers such as financial and shared liquidity services, and from customer lists lawfully acquired from third-party vendors;
 
-**Postal Address**   
-Sportingbet Plc   
-4th Floor   
-45 Moorfields   
-London   
-EC2Y 9AE 
+1.7 We may collect additional information about you where you provide such information to us through your use of our services.
 
-Close window
+## 2\. INFORMATION USE AND LEGAL BASIS
 
-Sportingbet no longer accepts any bets from the US. [Click here for more information.](https://web.archive.org/s/pdf/press_sbet.pdf)
+### 2.1 To provide a requested service or carry out a contract with you:
 
-[Privacy Statement](http://www.sportingbet.com/t/info/faqs/privacy.aspx) | [Help](http://www.sportingbet.com/t/forms/contactUs.aspx)   
-© 2007 Internet Opportunity Entertainment (Sports) Limited and Interactive Sports (C.I.) Limited. All rights reserved   
-[Sportingbet](http://www.sportingbet.com/ "Sportingbet") Group - The World's Leading Online Gambling Company   
-[Sportingbet EU](http://www.sportingbet.com/t/sportingbet-eu.aspx "Sportingbet Europe sites")
+  * Provide customer support and service messages, including messages requesting your feedback on our services and notifying you about changes to our website, services or changes to our terms, conditions and policies.
+  * To conduct security reviews at any time to validate your identity, age, the registration information provided by you and to verify your use of our services and your financial transactions for potential breach of our General Terms and Conditions and of applicable law. Security reviews may include for example, ordering a credit report and/or otherwise verifying the information you provide against third-party databases.
+  * To process any of your online transactions and payments (including disclosing your personal information to third party payment processors, ESPs, and other financial institutions as necessary).
 
-[](http://www.sportingbet.com/t/info/pay.aspx)
 
-Warning: Gambling involves risk. By gambling on this website, you run the risk that you may lose money or suffer psychological injuries. You gamble at your own risk. 
 
-Minimum Browser requirements: [FireFox](http://www.mozilla.com/firefox/) v2 or IE Explorer v6.0, [Flash player 8](http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash) and JavaScript enabled   
-Sportsbook members must be 18 or over 
+### 2.2 To conduct our business and pursue our legitimate interests:
+
+  * To investigate and address enquiries, questions and complaints and respond to any feedback.
+  * To post in-game activity to your newsfeed and share content with other players which may lead to Loyalty Points, Points or Rewards (such posting of in-game activity can be controlled in your privacy settings).
+  * To assist your participation in third-party promotions, market research and events.
+  * Customer telephone and chat conversations may be recorded to allow us to improve the quality of our customer service and our products, train staff and to record what is said in the event of a subsequent complaint.
+  * Provide you with promotional offers and information where you have indicated or we have inferred an interest in our Products.
+  * We monitor use of our websites and online services, and use your personal information to help us improve and protect our content, services and websites, both online and offline.
+  * We use personal information to personalise our website and services for you.
+  * We monitor customer accounts to prevent the use of unfair practices in our website.
+  * We use personal information to investigate any complaints received from you or from others, about our websites or our services.
+  * We may be required to share your data with trusted third parties who provide us with services relevant to our provision our gambling services, including customer support, information security, payments, marketing, data analysis, research and surveys.
+  * We will use personal information in connection with legal claims, and for compliance, regulatory and investigative purposes as necessary (including disclosure of such information in connection with legal process or litigation).
+  * We use your personal information in order to build up a profile of your demographics, likely behaviours and preferences. This is used to inform the decisions we make in relation to the services, content and promotions we offer. We also report on the different contribution to our commercial performance from different customer profiles. We create profiles through manual or automated processes, including from third-party providers.
+
+
+
+### 2.3 In accordance with your preferences:
+
+  * Subject to your marketing preferences (if applicable) , we will use your personal information to deliver marketing communications which may be of interest across various platforms, such as email, text message (which includes WhatsApp, and Skype instant messenger), telephone, mail post, online, inbox messaging, push notifications or other available channels to provide you with information regarding our products, services and promotions, including other gaming products (such as online poker, casino, betting and bingo services).
+  * To share your contact details with selected media partners and affiliates for the purposes of them being able to offer their own marketing services to you. We only do this where we have your consent and in line with your marketing preferences.
+  * To enter you into surveys or promotions you have agreed to.
+
+
+  * We place cookies and use similar technologies in accordance with our Cookies Notice for more information please refers to our [**Cookie Notice**](https://web.archive.org/en/general-information/security/cookies-notice).
+  * On other occasions where we ask you for your permission, we will use your personal information for the purpose which we explain at that time.
+  * Wherever we rely on your consent, you will always be able to withdraw that consent, although we may have other legal grounds for processing your data for other purposes, such as those set out above. You can opt-out of this at any time by updating you marketing preference.
+
+
+
+### 2.4 For purposes which are required by law:
+
+  * In response to requests by government or law enforcement authorities conducting an investigation.
+  * Investigate and/or report fraud, terrorism, misrepresentation, security incidents or crime, in accordance with applicable law.
+
+
+
+## 3\. AUTOMATED DECISION MAKING
+
+We may use automated decision making (i.e. decisions taken without human intervention), including profiling to; create a description of your demographics, past behaviours, likely future behaviours and preferences.
+
+This helps us;
+
+  * to provide you the personally targeted content and offers through our platform, and through our marketing communications;
+
+
+  * to provide differential services to customers related to payments and withdrawals, customer service and other operational services; and
+
+
+  * to comply with legal and regulatory regulations, fraud, anti-money laundering and responsible gaming.
+
+
+
+If you disagree with the outcome of an automated decision please contact Us using the details in the Rights section and we will review the decision.
+
+## 4\. DISCLOSING YOUR PERSONAL INFORMATION
+
+We may disclose information about you;
+
+  * to other companies in the GVC Group, which includes GVC Holdings PLC and its direct and indirect subsidiary companies for internal reasons, primarily for business and operational purposes in line with this privacy notice;
+
+
+  * to third party service providers, who will process it on our behalf for the purposes identified above. Such third parties include providers of website hosting, maintenance, call centre operation, identity checking, information verification services, marketing, data analysis, research and surveys, third-party electronic payment processors and/or financial institutions to process financial transactions and other organisations that provide technical support, process your online transactions and maintain your account;
+
+
+  * with law enforcement and public authorities in order to comply with any legal obligation or where We believe we are under a duty to comply with an obligation.
+
+
+  * with third parties in order to enforce our terms of use and any other agreement; or to protect the rights, property, safety, or security of the GVC Group, third parties or the public;
+
+
+  * with other online gaming sites, banks, credit card companies, and appropriate agencies, where you are found to have cheated or attempted to defraud us or any other user of our services, which may include but not limited to game manipulation, payment fraud, or prohibited transaction (including money laundering); and
+
+
+  * with third parties in the event of sale, purchase of assets, merger, bankruptcy or reorganization proceeding.
+
+
+
+## 5\. INTERNATIONAL TRANSFERS
+
+We store your personal information on our servers located in the EEA.
+
+As with any multinational organisation, we are often required to transfer data internationally. Accordingly, data about you may be transferred globally (if your data is collected within the European Economic Area, this means that your data may be transferred outside of it).
+
+Where your personal information is transferred to a country or territory outside the European Economic Area, and where this is to a country that is not subject to an adequacy decision approved by the EU Commission, We will take steps with the aim of ensuring that the privacy of your information continue to be protected. For example, by using third party's Processor Binding Corporate Rules, Intra-group privacy agreements, EU Commission approved standard contractual clauses or verifying that third parties are certified under an approved certification mechanism according to international privacy rules.
+
+## 6\. YOUR RIGHTS
+
+By law, you have a number of rights when it comes to your information. You can exercise any of these rights by contacting us through our contact information below.
+
+  * **The right to object to processing**. You have the right to object to certain types of processing, including processing for direct marketing.
+  * **The right to be informed**. You have the right to be provided with clear, transparent and easily understandable information about how we use your information and your rights.
+  * **The right of access**. You have the right to obtain access to your information (if we’re processing it), and certain other information (similar to that provided in this Privacy Notice).
+  * **The right to rectification.** You are entitled to have your information corrected if it is inaccurate or incomplete. You can request that we rectify any errors in information that we hold.
+  * **The right to erasure.** This is also known as ‘the right to be forgotten’ and, in simple terms, enables you to request the deletion or removal of your information that we hold. This right is not absolute and will not apply when legitimate and overriding reasons apply.
+  * **The right to restrict processing**. You have rights to ‘block’ or supress further use of your information. When processing is restricted, we can still store your information, but will not use it further.
+  * **The right to data portability.** You have rights to obtain and reuse your information for your own purposes across different services. This is not a general right however and there are exceptions.
+  * **The right to lodge a complaint.** You have the right to lodge a complaint about the way we handle or process your information with your national data protection regulator. See contact section above.
+  * **The right to withdraw consent.** If you have given your consent to anything we do with your information you can withdraw your consent to the processing of your information at any time.
+
+
+
+## 7\. SECURITY
+
+We understand the importance of information security and the techniques needed to secure information. We use reasonable organisational, technical and administrative measures to protect your personal data from unauthorised access to or unauthorised alteration, disclosure or destruction of information that we hold and we take steps to ensure our subsidiaries, agents, affiliates and suppliers also employ adequate levels of security. In particular;
+
+  * Secure Firewalled Datacentres;
+  * Certified Encrypted Webpages; and
+  * ISO27001:2013 certified business practices.
+
+
+
+## 8\. RETENTION OF PERSONAL INFORMATION
+
+The period for which we may retain data about you will depend on the purposes for which the data was collected, whether you have requested the deletion of the data, and whether any legal obligations require the retention of the data (for example, for regulatory compliance). We will retain data about you for at least as long as is necessary to fulfil the purposes for which the data was collected. Where We process your personal information for marketing purposes or with your consent, We process the personal information until you ask Us to stop and for a short period after this (to allow us to implement Your requests). We also keep a record of the fact that you have asked Us not to send you direct marketing or to process your personal information indefinitely so that We can respect your request in future.
+
+Where We process your personal information for compliance with our legal obligations, We will do so in accordance with all retention periods specified by applicable law.
+
+## 9\. CHANGES TO OUR PRIVACY NOTICE
+
+We may update this notice (and any supplemental privacy notice), from time to time. We will notify you of the changes where required by law to do so. We recommend that you revisit this Privacy Notice regularly.
+
+## 10\. WHO TO CONTACT
+
+ElectraWorks Limited is registered with the Gibraltar Regulatory Authority (GRA) and our registration number is DP 012717 and you can access our data protection register entry <http://www.gra.gi/data-protection/rights-register-search/company/428>. 
+
+If you have any questions, or wish to exercise any of your rights, please contact Us at [privacy@sportingbet.com](mailto:privacy@sportingbet.com).
+
+If your country has a data protection authority, you have the right to contact it with any questions or concerns. If we cannot resolve your questions or concerns, you also have the right to seek judicial remedy before a national court.
+
+Modified/Created 25.05.2018
