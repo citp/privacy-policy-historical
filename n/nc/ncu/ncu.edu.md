@@ -1,14 +1,38 @@
-> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608180415id_/https%3A//www.ncu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624015314id_/https%3A//www.ncu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Northcentral University
 
-Northcentral University is committed to protecting your privacy, developing technology that gives you a powerful and safe online experience. This Statement of Privacy applies to Northcentrals websites, and governs data collection and use at all Northcentral sites and services. Please read the complete Statement of Privacy to learn additional details about how some of these sites and services protect your personal information.
+Northcentral University is committed to protecting your privacy, developing technology that gives you a powerful and safe online experience. This Statement of Privacy applies to Northcentral's websites, and governs data collection and use at all Northcentral sites and services. Please read the complete Statement of Privacy to learn additional details about how some of these sites and services protect your personal information.
 
 **Collection of your Personal Information**
 
 At some sites, Northcentral University collects personally identifiable information, such as your email address, name, home or work addresses, or telephone numbers. At other sites, anonymous demographic information is collected that is not unique to you, such as ZIP Codes, age and gender. Some sites collect a combination of the two types of information.
 
 Northcentral automatically collects information about your computer hardware and software, as do other Internet entities. This information may include your IP address, browser type, domain names, access times and referring Web site addresses. This information serves to provide operational and statistical feedback.
+
+Our site collects site usage information (not personally identifiable) for the purposes of improving our site content and user experience. The type of information we gather can include the following.
+
+Bing Ads, LiveIntent, Simpli.fi, Taboola Monetize Content and Target Performance  
+Personal Data: Cookies and Usage Data
+
+Facebook Audience Network  
+Personal Data: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data
+
+Outbrain  
+Personal Data: Cookies and various types of Data as specified in the privacy policy of the service
+
+Analytics  
+Google Analytics, Google Tag Manager, Adobe Analytics, Google Analytics with anonymized IP and Salesforce Analytics Cloud  
+Personal Data: Cookies and Usage Data
+
+Google Analytics for Firebase  
+Personal Data: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data
+
+User ID extension for Google Analytics  
+Personal Data: Cookies
+
+Opt Out of Analytics Tracking  
+You can choose to opt out of having site activity logged by clicking [here](https://support.google.com/analytics/answer/181881?hl=en).
 
 **Use of your Personal Information**
 
