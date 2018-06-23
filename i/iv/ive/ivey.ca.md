@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ivey.ca privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302062237id_/https%3A//www.ivey.uwo.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivey.ca privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623152859id_/https%3A//www.ivey.uwo.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ivey Business School
+# Privacy Policy
 
 At the Ivey Business School at Western University, the protection of your personal information is a priority. Ivey collects information about users of the Site, including their e-mail addresses. In addition, information may be collected in areas of the Site where users are asked to provide information, such as registration for conferences or events, applying for employment or participating in user posting areas such as bulletin boards, discussion forums and surveys. You may have the opportunity to purchase goods or publications on the Site, in which case Ivey may collect information related to your order including credit card information. Ivey may verify or combine this information with information that Ivey has already gathered from other sources. This information may be sufficient to enable Ivey to identify you personally.
 
