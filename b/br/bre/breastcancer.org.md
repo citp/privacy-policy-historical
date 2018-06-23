@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104095721id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623022014id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
-
-
-
-
-__Sign in to receive recommendations (Learn more)
 
 This Privacy Policy applies to Breastcancer.org and Breasthealth.org, owned and operated by Breastcancer.org. This Privacy Policy describes how Breastcancer.org (“We”, “Us”, “Our”) collects, uses, shares, and secures the personal information you provide. It also describes your choices regarding use, access, and correction of your personal information.
 
