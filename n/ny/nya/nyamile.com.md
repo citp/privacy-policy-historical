@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyamile.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221101535id_/http%3A//nyamile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyamile.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623083834id_/http%3A//nyamile.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Terms – Nyamilepedia
 
