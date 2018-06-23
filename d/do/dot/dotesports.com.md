@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotesports.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119002856id_/https%3A//dotesports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotesports.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623034843id_/https%3A//dotesports.com/privacy) for the most accurate reproduction.*
 
-# Dot Esports | Global Esports News, Analysis, Tournament Coverage, and More
+# Privacy Policy | Dot Esports
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -135,4 +135,4 @@ Beaconsfield, New South Wales 2015
 Australia  
 support@gamurs.com
 
- _Last Edited on 2017-02-22_
+ _Last Edited on 2017-11-28_
