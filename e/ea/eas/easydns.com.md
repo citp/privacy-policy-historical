@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easydns.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171603id_/https%3A//easydns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easydns.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623193147id_/https%3A//www.easydns.com/privacy-policy) for the most accurate reproduction.*
 
 # easyDNS Technologies Inc. DOMAINS - Register, Transfer Domains
 
