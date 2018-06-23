@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfatpocket.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205140236id_/http%3A//www.myfatpocket.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfatpocket.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623105556id_/http%3A//www.myfatpocket.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,4 +41,10 @@ My Fat Pocket Pte Ltd may disclose your personal information when My Fat Pocket 
 
 My Fat Pocket Pte Ltd may disclose your personal information in connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. The personal information which you provide to us is an asset of My Fat Pocket Pte Ltd and may be included in the assets transferred in the event of a substantial corporate transaction.
 
-From time to time, My Fat Pocket Pte Ltd may use your information for new, unanticipated uses not previously disclosed in this Terms and Agreements. If the policy relating to the collected information changes at some time in the future, My Fat Pocket Pte Ltd will post the policy changes on the Website to notify you of these changes. My Fat Pocket Pte Ltd will only use the data collected from the time of the policy change for any new purpose. If you are concerned about how your information is used, you may wish to contact My Fat Pocket Pte Ltd with your further queries.
+From time to time, My Fat Pocket Pte Ltd may use your information for new, unanticipated uses not previously disclosed in this Terms and Agreements. If the policy relating to the collected information changes at some time in the future, My Fat Pocket Pte Ltd will post the policy changes on the Website to notify you of these changes. My Fat Pocket Pte Ltd will only use the data collected from the time of the policy change for any new purpose. If you are concerned about how your information is used, you may wish to contact My Fat Pocket Data Protection Officer at  [dataprotection@myfatpocket.com](mailto:dataprotection@myfatpocket.com).
+
+  * Withdrawal of Consent
+
+
+
+In the event that you wish to withdraw your consent for the collection, use and/or disclosure of your personal data in our possession or under our control, you shall submit your request to My Fat Pocket Data Protection Officer at  [dataprotection@myfatpocket.com](mailto:dataprotection@myfatpocket.com). We will process your request from such a request for withdrawal of consent being made, and will thereafter not collect, use and/or disclose your personal data in the manner stated in your request. As a result of your withdrawal of consent we will/may not be able to continue to provide you with our services and/or maintaining your existing relationship with us.
