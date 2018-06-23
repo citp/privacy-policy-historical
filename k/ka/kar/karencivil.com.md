@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karencivil.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208203329id_/http%3A//karencivil.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karencivil.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624014400id_/http%3A//karencivil.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Karen Civil
 
@@ -40,8 +40,6 @@ We use cookies to:
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
 If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
-
-However, you can still place orders .
 
  **Third Party Disclosure**
 
@@ -121,4 +119,4 @@ and we will promptly remove you from ALL correspondence.
 
 If there are any questions regarding this privacy policy you may contact us using the information provided on our site.
 
-Last Edited on  _January 8, 2017_
+Last Edited on  _January 26, 2018_
