@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gardencitygroup.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222062536id_/http%3A//www.choosegcg.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardencitygroup.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624002427id_/http%3A//www.choosegcg.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice – GCG
+# Privacy Notice – Garden City Group, LLC
 
 **GCG PRIVACY NOTICE –** _To View this Document in French Please[Click Here](http://www.choosegcg.ca/frprivacy)_
 
