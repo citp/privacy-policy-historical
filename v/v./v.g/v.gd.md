@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the v.gd privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930170911id_/https%3A//v.gd/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v.gd privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623152302id_/https%3A//v.gd/privacy.php) for the most accurate reproduction.*
 
 # v.gd - Privacy policy
 
