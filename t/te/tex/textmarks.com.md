@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223012744id_/http%3A//www.textmarks.com/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623182054id_/http%3A//www.textmarks.com/front/privacy) for the most accurate reproduction.*
 
-# TextMarks | Privacy Policy
+# TextMarks SMS Service, Mass Text Messaging | Privacy Policy
 
 ## TextMarks Privacy Policy  
 (Last Updated September 19, 2012)  
