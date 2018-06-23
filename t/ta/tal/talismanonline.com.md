@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talismanonline.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116050435id_/http%3A//www.talismanonline.com/support_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talismanonline.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623210602id_/http%3A//www.talismanonline.com/support_policy.html) for the most accurate reproduction.*
 
 # Talisman Online - Privacy Policy
 
@@ -43,4 +43,4 @@ The service is not geared toward children under the age of 14 and we do not know
 While this Privacy Policy states standards for maintenance of data, and while efforts will be made to meet these standards, MiraGame does not guarantee that it will comply with these standards. There may be factors beyond our control that may result in disclosure of data. Consequently, we offer no warranties or representations regarding the maintenance or non-disclosure of data. 
 
 **Contacting Us**  
-If you have any questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#681b1d1818071a1c2805011a090f09050d460b0705). 
+If you have any questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#04777174746b767044696d7665636569612a676b69). 
