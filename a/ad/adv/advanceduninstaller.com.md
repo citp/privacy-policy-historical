@@ -1,10 +1,29 @@
-> *The following text is extracted and transformed from the advanceduninstaller.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216081444id_/http%3A//www.advanceduninstaller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanceduninstaller.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623123621id_/http%3A//www.advanceduninstaller.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Advanced Uninstaller PRO
 
 ##  Your consent
 
 By using our site, you consent to our web site privacy policy.
+
+##  GDPR Compliance
+
+Advanced Uninstaller PRO collects, uses and processes its users' data. Some data, such as username or e-mail address, is provided directly by the users, and some of it is collected by Advanced Uninstaller PRO, in order to ensure efficient functionality. We believe in transparency towards our users and take responsibility when it comes to respecting your privacy.
+
+We value the vital role of personal data protection and we give you the assurance that you are guaranteed the following rights:
+
+  * \- Access to your personal data that we possess;
+  *  
+  * \- Personal data portability;
+  *  
+  * \- Decision over the processing of your personal data;
+  *  
+  * \- Correction of your personal data.
+  *  
+  * \- The right to be forgotten.
+  *  
+
+
 
 ##  What information do we collect
 
@@ -51,20 +70,6 @@ Because we value your privacy we have taken the necessary precautions to be in c
 ##  Changes to our privacy policy
 
 If we decide to change our privacy policy, we will post those changes on this page.
-
-##  Contact us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-http://www.advanceduninstaller.com
-
-Str. Prinosului 2 Sector 4 
-
-Bucharest, Bucuresti 041257 
-
-Romania 
-
-support [dot] ane [at] innovative-sol [dot] com
 
 ##  Do we use cookies ?
 
