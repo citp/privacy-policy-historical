@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the web-stat.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924051017id_/http%3A//www.web-stat.com/help_privacy_policy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-stat.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623164354id_/https%3A//www.web-stat.com/help_privacy_policy.pl) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
-
-We keep your data safe
+## We keep your data safe
 
 Web-Stat respects the privacy of its visitors and customers. The following policies are in effect for all of the web pages owned and operated by Web-Stat and are in place to demonstrate our firm commitment to your privacy.
 
