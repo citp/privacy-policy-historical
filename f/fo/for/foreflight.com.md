@@ -1,122 +1,183 @@
-> *The following text is extracted and transformed from the foreflight.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185027id_/https%3A//www.foreflight.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreflight.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623030711id_/https%3A//foreflight.com/about/privacy) for the most accurate reproduction.*
 
 # ForeFlight - Privacy
 
-## Privacy Policy
+This Privacy Policy is incorporated by reference into the [ForeFlight End User License Agreement](https://web.archive.org/support/eula) (“EULA”). The terms “ForeFlight,” “we,” and “us” include ForeFlight LLC and our affiliates and subsidiaries. The Privacy Policy explains how ForeFlight may collect, use, and disclose information we obtain through the “Service.” Any capitalized terms used and not defined in this Privacy Policy shall have the meaning given to them in the EULA.
 
-This Privacy Policy is incorporated by reference into the [ForeFlight End User License Agreement](https://foreflight.com/eula) (“EULA”). The terms “ **ForeFlight** ,” “ **we** ,” and “ **us** ” include ForeFlight, LLC and our affiliates and subsidiaries. The Privacy Policy explains how ForeFlight may collect, use, and disclose information we obtain through the “Service.” Any capitalized terms used and not defined in this Privacy Policy shall have the meaning given to them in the EULA.
+**IMPORTANT NOTE:** By accessing or using the Service, you expressly consent to ForeFlight’s collection, use, and disclosure of your Personal Information in accordance with the terms and conditions of this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the EULA.
 
-**IMPORTANT NOTE** : By accessing or using the Service, you expressly consent to ForeFlight’s collection, use, and disclosure of your Personal Information in accordance with the terms and conditions of this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the EULA.
+## Categories of Personal Data Processed by ForeFlight
 
-In general, “Personal Information” is information that can be used to readily identify, contact or locate you. Under U.S. privacy laws, “ **Personal Information** ” includes information such as: first and last name, home or other physical address, telephone number, fax number, email address or other online identifier, Social Security number or other third-party issued identifier, health information, credit card or other financial information (including bank account information), IP address and cookie information, or any other device-specific number or identifier. We do not consider Personal Information to include information that has been anonymized or aggregated so that it does not allow a third party to easily identify a specific individual.
+#### PERSONAL DATA THAT IS PROCESSED WHEN YOU CREATE A FOREFLIGHT ACCOUNT:
 
-At ForeFlight, the privacy and security of your personal information is important to us. Except for the limited purposes set forth in this Privacy Policy, we do not share or sell your personal information to third parties.
+When you create a ForeFlight account, we ask you to provide your email address and name.
 
-### The Information We Collect is Described Below
+**PURPOSES AND LEGAL GROUNDS:**
 
-We collect Personal Information when you (i) register to use the Service, (ii) use the Service and (iii) communicate with us. We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service.
+(a) ForeFlight processes your email address because you use your email address and your password to sign in to your account. The legal ground for processing your email address for this purpose is based on ForeFlight’s legitimate interest in protecting the security of your account.
 
-**Registration and Account Information**. You may be required to register to use the Service. To register, you may need to provide Personal Information, such as your email address and password. You may also provide other optional information.
+(b) ForeFlight also processes your email address for the purpose of sending you important information about your ForeFlight products, apps or account, such as important safety information or material changes to this Privacy Policy. The name you provide is associated with your account profile. The legal ground for processing your email address and name for these purposes is ForeFlight’s legitimate interest in providing you important safety or other information about your ForeFlight products, apps or account or material changes to this Privacy Policy.
 
-**Using the Service**. We collect information you voluntarily provide through the Service. For example, you may submit your email address to sign-up for a newsletter, and other Personal Information to register or download software (including Apps), participate in community activities and surveys, and submit aircraft, flight log, and fuel card information.
+(c) For EU citizens, if you provide your opt-in consent to receiving marketing information from ForeFlight, ForeFlight will also process your email address for the purpose of sending you marketing information about ForeFlight products and apps, newsletters, and other occasional emails. For non-EU citizens, by giving ForeFlight your email address, you consent to receiving marketing information from ForeFlight and ForeFlight will also process your email address for the purpose of sending you marketing information about ForeFlight products and apps, newsletters, and other occasional emails. The legal ground for processing your email address for this purpose is your consent. You may withdraw your consent at any time by changing your preferences in your ForeFlight account or through the unsubscribe link at the bottom of our marketing emails. The marketing emails you receive from ForeFlight are based on the preferences you provide in your ForeFlight account, the locale indicated by your Internet Protocol (IP) address, the types of ForeFlight devices you have added to your ForeFlight account, and any subscriptions included in your ForeFlight account. The legal ground for processing this data for this purpose is ForeFlight’s legitimate interest in reducing the number of marketing emails sent to each particular customer by selecting which customers receive a particular marketing email rather than sending every marketing email to every customer who has consented to receiving marketing emails.
 
-**Making Payments**. When you make payments through the Service, you may need to provide financial account information, such as your credit card number or bank account information, to our third-party payment processors. This information is provided directly to such payment processors, and we do not collect or store such information, though we may receive summary information about transactions that does not include credit card or bank account numbers.
+(d) ForeFlight also processes your email address to associate it with your ForeFlight account when you interact with our customer support representatives. The legal ground for this processing is our legitimate interest in providing quality customer support.
 
-**Communicate with Us**. We may collect Personal Information through your communications with our customer-support team or through other communications with us, including through social media, email, or via our “Contact” page of the Website.
+#### PERSONAL DATA THAT IS PROCESSED WHEN YOU MAKE A PAYMENT:
 
-**Location Information from Your Mobile Device**. We and our analytics providers may collect and store your geo-location information if your device settings are enabled to send it to us. This information is used for navigational and user analytics purposes, and the Service may not function properly without access to this information.
+When you make payments through the Service, you may need to provide financial account information, such as your credit card number or bank account information, to our third-party payment processors. This information is provided directly to such payment processors, and we do not collect or store such information, though we may receive summary information about transactions that does not include credit card or bank account numbers.
 
-**Information and Content from Your Device**. The Service automatically collects information about your device, such as a device ID, IP address, mobile software and hardware information, pages or areas visited within the Service, what time said pages and areas are visited, and web browser information, so that we can provide and customize functionality, such as push notifications. You may also permit the Service to access your device’s contact list and photo storage.
+**PURPOSES AND LEGAL GROUNDS:**
 
-**User Content**. We may collect information that you submit to the Service, such as comments, uploaded media, or User Content.
+The legal ground for processing this data for these purposes is performance of a contract. We also process your personal data as part of our fraud detection processes. The legal ground for processing your personal data for that purpose is our legitimate interest in protecting ForeFlight and our customers from attempts to engage in fraudulent transactions.
 
-**Career**. We may collect information you provide in applying for a job via the “Careers” page of the Website, including information contained on resumes or other documentation voluntarily provided by you to us in the job application process.
+Your financial account information, such as your credit card, is required to make a payment for a product. The legal ground for processing your email address for this purpose is based on ForeFlight’s legitimate interest in collecting payment for its services.
 
-**Automatic Data Collection: Cookies and Related Technologies**. The Service collects and stores information that is generated automatically as you use it, including your preferences and anonymous usage statistics. When we associate such information with Personal Information, we will treat the combination as Personal Information.
+#### PERSONAL DATA THAT IS PROCESSED WHEN YOU ADD AN AIRCRAFT TO YOUR FOREFLIGHT PROFILE:
 
-When you use the Service or receive emails from us, we and our third-party partners, such as advertising networks, social media widgets, and analytics providers, use “cookies” and other similar technologies to collect information about how the Service or email is accessed. We also may use cookies for any or all of the following purposes:
+When you add an aircraft to your ForeFlight account, we may ask for additional information, such as the make, model, series name, tail number, year and serial number of the aircraft.
 
-  * To store information so that you will not have to re-enter it during your visit or the next time you visit the Service. • To deliver custom, personalized content and information.
-  * To identify you when you access, visit, or log in to the Service.
-  * To note the different areas of the Service which have recently been accessed through your computer or mobile device. Information collected in this way may be used to develop and manage the online services of ForeFlight by, for example, storing information about your preferences so as to enable ForeFlight to customize the Service according to your individual interests.
-  * To monitor the effectiveness of any of our promotions or marketing campaigns.
-  * To track your entries, submissions, and status in promotions, sweepstakes, and contests.
-  * To improve the content of the Service, and conduct various other diagnostics to improve the Service. We may, for example, use cookies to monitor aggregate metrics such as total number of users and pages viewed.
-  * To analyze and improve the security of the Service.
+**PURPOSES AND LEGAL GROUNDS:**
 
+This information is processed to help ForeFlight function better by understanding the performance of your aircraft and allowing ForeFlight to make better calculations about your flight. The legal ground for processing this information is our legitimate interest in providing a better product that incorporates the performance of your aircraft in making calculations.
 
+#### PERSONAL DATA THAT IS PROCESSED WHEN YOU USE FOREFLIGHT TO CREATE AND FILE FLIGHT PLANS:
 
-Our partners also may collect information about your online activities over time, on other devices, and on other websites or apps. When they provide such services, they are governed by their own privacy policies. The Service does not respond to “do not track” signals from browsers. Thus, your selection of the “do not track” option provided by your browser may not have any effect on our collection of cookie information for analytic and internal purposes. You may be able to change browser settings or use other opt-out methods to block and delete cookies when you access the Service through a web browser. However, if you do that, the Service may not work properly. If you use a new computer, install a new browser, erase or otherwise alter your browser's cookie file (including upgrading certain browsers) you may also clear any opt-out cookies. Please note, however, that if you choose to erase or block cookies, you will need to re-enter your information to gain access to certain parts of the Service, and may not be able to access other parts of the Service.
+You can use ForeFlight to create flight plans and file those flight plans with applicable aviation authorities. When you do this, we process your name and address, aircraft details, date and time of the flight, and associated flight details.
 
-We may use Google Analytics to collect and process certain Services usage data.  Google provides additional privacy options regarding cookie use described at [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). We may use Mixpanel for data analytics, and you may opt out at <https://mixpanel.com/optout/>. The information generated relating to our Service is used to create reports about the use of the Service.
+**PURPOSES AND LEGAL GROUNDS:**
 
-By using the Service, you are authorizing us to gather, parse, and retain data related to the provision of the Service. We may retain such information, including Personal Information, indefinitely. We also reserve the right to delete such information for any reason or for no reason.
+This information is processed to help you create flight plans and file them with applicable aviation authorities. The legal ground for processing this information is our legitimate interest in providing a tool to our customers to create and file flight plans.
 
-### How ForeFlight Uses Your Information
+#### PERSONAL DATA THAT IS PROCESSED USING THE LOCATION INFORMATION FROM YOUR MOBILE DEVICE:
 
-We use Personal Information to facilitate and improve the Service and communicate with you. We may use aggregate information for any purpose, including for marketing purposes.
+When you use ForeFlight, we process the aircraft’s tail number, latitude, longitude, heading, barometric altitude, destination, estimated time enroute, and associated flight details. Without location information, ForeFlight navigational features will not function properly. This data is uploaded to your ForeFlight account.
 
-**Internal and Service-Related Usage**. We use information, including Personal Information, for internal and service-related purposes and may provide it to third parties to allow us to facilitate the Service. We may use and retain any data we collect to: (i) provide and improve any of our services, including the Service; (ii) improve the content of the Website; and (iii) fill open positions in our organization.
+**PURPOSES AND LEGAL GROUNDS:**
 
-**Communications**. We may send email to the email address you provide to us or push notifications to your mobile device, if they are enabled, to verify your account and for informational and operational purposes, such as account management, customer service, system maintenance, and other Service-related purposes.
+This information is processed to help you keep track of important details regarding your flights. The legal ground for processing this information is our legitimate interest in providing a tool to our customers to keep track of important flight details. In addition, ForeFlight’s navigational features help provide you with a safer flight.
 
-**Marketing**. We may use information, including Personal Information, to send you information we think may be useful or relevant to you. You may opt out of email marketing by using the unsubscribe link in a marketing email.
+#### PERSONAL DATA THAT IS PROCESSED WHEN YOU USE THE LOGBOOK FEATURE:
 
-**Aggregate Data**. We may anonymize or aggregate data collected through the Service and use and disclose it for any purpose.
+When you use the logbook feature on ForeFlight, we process information about your flights, such as the take-off and landing airports, dates and times, and notes you choose to submit.
 
-### The Limited Purposes for which we will Disclose Your Information are Described Below
+**PURPOSES AND LEGAL GROUNDS:**
 
-We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission.
+We process this data to provide our customers an automated tool for them to maintain these regulatorily required records in their pilot logs. The legal ground for processing this information is our legitimate interest in provider our customers an automated tool for them to maintain these regulatorily required records in their pilot logs.
 
-**We Use Vendors and Service Providers**. We may share any information we receive, including geo-location information, with vendors and service providers we use to help us provide the Service. For example, we may provide Personal Information for data hosting, data analysis, order fulfillment, transaction processing, delivery of products or services, management and enhancement of user data, infrastructure provision, IT services, customer service, email delivery services, auditing services, and other similar services. We may also disclose information to third parties when it is necessary to investigate or correct technical problems or malfunctions in the Service or the computer systems that support the Service.
+#### PERSONAL DATA THAT IS PROCESSED WHEN YOU USE THE APPLICATION:
 
-**Displaying to Other Users**. Some content you provide to the Service may be displayed on the Service, including User Content. For example, we may publish comments you post about airports and FBOs on the Service along with use account information that may identify you. We may also post anonymized customer service inquiries that we feel would benefit other users. We are not responsible for how other users will view and use the posted information.
+When you use the ForeFlight app, we process information about you and your device including a device ID, IP address, mobile software and hardware information, pages or areas visited within the Service, what time said pages and areas are visited, and web browser information, so that we can provide and customize functionality, such as push notifications. You may also permit the Service to access your device’s contact list and photo storage. We may share information about your flight plan and fuel card information to fuel vendors to obtain fuel pricing information.
 
-**Filing Flight Plans**. At your direction, we may share flight plan information with third parties, such as Lockheed Martin and DUATS.
+**PURPOSES AND LEGAL GROUNDS:**
 
-**Fuel Vendors**. We may share information about your flight plan and fuel card information to fuel vendors to obtain fuel pricing information.
+We process this data to provide our customers with a better user experience. The legal ground for processing this information is our legitimate interest in providing a better product that provides the user with a better experience.
 
-**Marketing**. We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We may allow access to other data collected by the Service to send information we think may be useful or relevant to you. Note that we may use your name, usage history and email address without further consent for non-marketing or administrative purposes (such as notifying you of major updates, customer service needs, tips on using the Service, notifications of unused features of the Service, or items for which you have requested communication).
+#### PERSONAL DATA THAT IS PROCESSED WHEN YOU COMMUNICATE WITH FOREFLIGHT:
 
-**Legal and Similar Disclosures**. We may access, preserve, and disclose collected information, if we believe doing so is required or appropriate to: (i) comply with law enforcement requests and legal process, such as a court order or subpoena; (ii) respond to your requests; (iii) comply with the law; (iv) investigate, prevent, take action, or enforce compliance with regard to a violation of the EULA or this Privacy Policy; (v) investigate, prevent or take action regarding illegal activities or suspected fraud; or (vi) protect your, our, or others’ rights, property, or safety.
+When you interact with our customer support representatives via email, telephone, or online, we collect personal data, such as your name, mailing address, phone number, email address, and contact preferences; and information about the ForeFlight products you own. We also may create event logs that are useful in diagnosing product or app performance-related issues, and capture information relating to the support or service issue. To improve customer service, subject to applicable laws, we may also record and review conversations with customer support representatives, and analyze any feedback provided to us through voluntary customer surveys.
 
-**Merger, Sale, or Other Asset Transfers**. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of ForeFlight assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. We cannot control how such entities may use or disclose such information, and we disclaim any liability arising out of such entity’s failure to comply with the terms of the EULA or this Privacy Policy.
+**PURPOSES AND LEGAL GROUNDS:**
 
-**With Your Permission**. We may also disclose your Personal Information with your permission.
+We use this information to provide you with customer and product support and to monitor the quality and types of customer and product support we provide to our customers. The legal ground for processing this information for these purposes is ForeFlight’s legitimate interests in providing quality product support.
 
-Personal Information may be available to third parties as noted in the preceding paragraphs. ForeFlight makes no representations or warranties about the acts or omissions of such third parties, including whether such parties will keep such information confidential. ForeFlight shall not be liable for any misuse of such information caused solely by a third party.
+#### PERSONAL DATA THAT IS PROCESSED WHEN YOU VISIT THE FOREFLIGHT CAREERS PAGE:
 
-### Information Security
+When you interact with our careers page, we collect information you provide in applying for a job, including information contained on resumes or other documentation voluntarily provided by you to us in the job application process.
+
+**PURPOSES AND LEGAL GROUNDS:**
+
+We use this information to evaluate you for a career at ForeFlight. The legal ground for processing this information for the purposes is ForeFlight’s legitimate interest in hiring qualified candidates.
+
+## Categories of Recipients of Personal Data
+
+#### AVIATION AUTHORITIES:
+
+When you use ForeFlight to create and file flight plans, your flights plans and associated information are submitted to the applicable aviation authorities.
+
+#### OTHER SERVICE PROVIDERS:
+
+ForeFlight uses cloud services from third parties such as Vero and Zendesk, to assist in sending emails and to analyze the use and performance of ForeFlight products. Those services track the activities associated with emails, such as whether they were opened, whether links in the emails were clicked on, and whether purchases were made following clicks on those links. ForeFlight uses this data to analyze the level of engagement with its emails. ForeFlight uses third-party service providers such as HockeyApp and Segment to help us better understand usage of the ForeFlight website and the ForeFlight app.
+
+#### OTHER DISCLOSURES:
+
+We may disclose personal data about you to others: (a) if we have your valid consent to do so; (b) to comply with a valid subpoena, legal order, court order, legal process, or other legal obligation; (c) to enforce any of our terms and conditions or policies; or (d) as necessary to pursue available legal remedies or defend legal claims.
+
+**Merger, Sale, or Other Asset Transfers**
+
+If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of ForeFlight assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. We cannot control how such entities may use or disclose such information, and we disclaim any liability arising out of such entity’s failure to comply with the terms of the EULA or this Privacy Policy.
+
+**Transfers of Personal Data**
+
+ForeFlight is a global business. To offer our products, apps, and services, we may need to transfer your personal data to other ForeFlight companies in other countries. When you create a ForeFlight account, add personal data in your account profile, or upload data to your ForeFlight account, your personal data will be collected and stored on ForeFlight LLC’s servers in the United States. Personal data regarding individuals who reside in a country in the European Economic Area or in Switzerland is controlled by and processed by ForeFlight LLC.
+
+Any transfers of personal data from ForeFlight companies in the European Economic Area ("EEA") or Switzerland to ForeFlight LLC in the United States is done pursuant to European Commission approved Model Contractual Clauses.
+
+All ForeFlight companies are required to follow the privacy practices set forth in this Privacy Statement.
+
+## Cookies and Similar Technologies
+
+#### WEBSITE:
+
+To help analyze how you and other visitors navigate the ForeFlight websites, we compile aggregate statistics about site usage and response rates to help diagnose any problems with ForeFlight’s servers, administer the ForeFlight websites, and maintain user experience continuity across website pages and site visits, we, with assistance from third-party analytics service providers, collect certain information when you visit our site. This information includes IP address, geographic location of the device, browser type, browser language, date and time of your request, time(s) of your visit(s), page views and page elements (e.g., links) that you click. We may use cookies, pixel tags, web beacons, clear GIFs or other similar tools on our sites or in our email messages to assist us in collecting and analyzing such information. We use this information to provide better, more relevant content on our sites, to identify and fix problems, and to improve your overall experience on our sites.
+
+If you do not want information collected through the use of these technologies, there is a simple procedure in most browsers that allows you to automatically decline many of these technologies, or to be given the choice of declining or accepting them.
+
+If you reside in the European Union or other jurisdiction that requires us to obtain your consent to use cookies on our sites, then you will have an opportunity to manage your cookie preferences on the sites; except that certain cookies are required to enable core site functionality, and you cannot choose to disable those cookies.
+
+#### ForeFlight APP:
+
+We also collect data from users about their usage of the ForeFlight app. The types of analytical information that are collected include the date and time the app accesses our servers, app version, the location of the device, language setting, what information and files have been downloaded to the app, user behavior (e.g., features used, frequency of use), device state information, device model, hardware and operating system information, and information relating to how the app functions. ForeFlight uses this data to improve the quality and functionality of the ForeFlight app; to develop and market products and features that best serve you and other users; and to help identify and fix app stability issues and other usability problems as quickly as possible.
+
+The legal ground for processing this analytical information is our legitimate interest in understanding how our customers interact with our products, apps, and websites so we can enhance the user experience and functionality of our products, apps, and websites.
+
+Here are examples of third-party providers of analytics and similar services we currently use:
+
+#### ANALYTICS SERVICES:
+
+**Segment:** This site uses Segment web analytics. Segment helps us measure and evaluate site usage behavior, such as mouse clicks, mouse movements, keystrokes (excluding personally identifiable information), scrolling activity, and pages visited and actions taken on the site and app. For more information, see the [Segment privacy policy](https://segment.com/docs/legal/privacy/).
+
+**HockeyApp:** HockeyApp, which is a Microsoft service, is used to help us better understand usage of the ForeFlight app to improve user experience and to identify and resolve the root causes of app crashes. For more information, see the [Microsoft privacy policy](https://privacy.microsoft.com/en-us/PrivacyStatement).
+
+**Google:** Google Analytics is used to track site statistics and user demographics, interests and behavior on websites. We also use Google Search Console to help understand how our website visitors find our website and to improve our search engine optimization. For more information, see the [Google privacy policy](https://policies.google.com/privacy?hl=en). You may opt out at <https://tools.google.com/dlpage/gaoptout>.
+
+**Mixpanel:** We use Mixpanel for data analytics. The information generated relating to our Service is used to create reports about the use of the Service. For more information, see the [Mixpanel privacy policy](https://mixpanel.com/legal/privacy-policy/). You may opt out at <https://mixpanel.com/optout/>.
+
+## Information Security
 
 We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. Neither ForeFlight, nor its affiliates, nor any of their respective employees, officers or agents or the provider of the internet services on behalf of ForeFlight (nor any other person involved in the management or establishment of the Service) can give any representation or warranty as to the absolute security of the data transmitted using the Service, and cannot give any guarantee that such data will not be compromised by bad actors. If you choose to provide data to or allow collection of data by ForeFlight, then you do so understanding the aforementioned risk.
 
 By using the Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Service or sending an email to you. You may have a legal right to receive this notice by mail.
 
-### Children’s Privacy
+## Children’s Privacy
 
-We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at [team@foreflight.com](mailto:team@foreflight.com?subject=Privacy%20Policy). If we learn that we have collected any Personal Information from children under 13 in a manner that is inconsistent with the U.S. Children’s Online Privacy Protection Act, we will promptly take steps to delete such information and terminate the child’s account as soon as practicable.
+We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at [team@foreflight.com](mailto:team@foreflight.com). If we learn that we have collected any Personal Information from children under 13 in a manner that is inconsistent with the U.S. Children’s Online Privacy Protection Act, we will promptly take steps to delete such information and terminate the child’s account as soon as practicable.
 
-### International Users
+## Marketing
 
-**If you are visiting from the European Union or other regions with laws governing data collection and use, you agree to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Privacy Policy.**
+We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We may allow access to other data collected by the Service to send information we think may be useful or relevant to you. Note that we may use your name, usage history and email address without further consent for non-marketing or administrative purposes (such as notifying you of major updates, customer service needs, tips on using the Service, notifications of unused features of the Service, or items for which you have requested communication).
 
-### Update Your Information or Pose a Question or Suggestion
+## Legal and Similar Disclosures
 
-If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to [team@foreflight.com](mailto:team@foreflight.com?subject=Privacy%20Policy).
+We may access, preserve, and disclose collected information, if we believe doing so is required or appropriate to: (i) comply with law enforcement requests and legal process, such as a court order or subpoena; (ii) respond to your requests; (iii) comply with the law; (iv) investigate, prevent, take action, or enforce compliance with regard to a violation of the EULA or this Privacy Policy; (v) investigate, prevent or take action regarding illegal activities or suspected fraud; or (vi) protect your, our, or others’ rights, property, or safety.
 
-### Changes to Our Privacy Policy and Practices
+## Privacy Policy Updates
 
-**Privacy Policy Revisions**. We reserve the right to revise this Privacy Policy at any time. Regularly reviewing this page is the best method to ensure you are always aware of the information we collect, how it is used and under what circumstances.
+We may update this Privacy Policy from time to time as we add new products and apps, as we improve our current offerings and as technologies and laws change. You can determine when this Privacy Policy was last revised by referring to the “Last updated” legend at the top of this page. Any changes will become effective upon our posting of the revised Privacy Policy.
 
-**Posting of Revised Privacy Policy**. We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted.
+We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent. This notice will be provided by email or by posting notice of the changes on the ForeFlight website and through the ForeFlight app.
 
-**New Uses of Personal Information**. From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
+## Retention of Personal Data
 
-**Contact Information**
+We will retain your personal data as long as your ForeFlight account is active. In addition, see below under “Your Rights” for a description of your right of erasure.
 
-ForeFlight, LLC  
-2323 S Shepherd Drive, Suite 912  
-Houston, TX 77019  
-[team@foreflight.com](mailto:team@foreflight.com)
+## Data Controller and Data Protection Officer
 
-Last Updated: May 2017
+The personal data collected by ForeFlight is controlled by ForeFlight LLC’s Data Protection Officer at 2323 S. Shepherd Drive, Suite 912, Houston, TX 77019, which you can also contact by email at [team@foreflight.com](mailto:team@foreflight.com).
+
+## Your Rights
+
+If you reside in the European Union, you have the right under the General Data Protection Regulation to request from ForeFlight access to and rectification or erasure of your personal data, data portability, restriction of processing of your personal data, the right to object to processing of your personal data, and the right to lodge a complaint with a supervisory authority. If you reside outside of the European Union, you may have similar rights under your local laws.
+
+To request access to or rectification, portability or erasure of your personal data, or to delete your ForeFlight account, email [team@foreflight.com](mailto:team@foreflight.com)
+
+If you live in the European Union and you wish to exercise your right to restriction of processing or your right to object to processing, contact ForeFlight’s Data Protection Officer at 2323 S. Shepherd Drive, Suite 912, Houston, TX 77019, which you can also contact by email at [team@foreflight.com](mailto:team@foreflight.com). If you do not live in the European Union but you believe you have a right to restriction of processing or a right to object to processing under your local laws, please contact ForeFlight LLC at [privacy@foreflight.com](mailto:privacy@foreflight.com).
