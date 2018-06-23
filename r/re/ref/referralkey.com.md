@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the referralkey.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001070212id_/https%3A//www.referralkey.com/privacypolicypop.php%3F2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralkey.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623192517id_/https%3A//www.referralkey.com/privacypolicypop.php%3F2) for the most accurate reproduction.*
 
 # None
 
@@ -13,8 +13,7 @@ Your privacy is extremely important to us. The mission of Referral Key is to pro
   7. If at any time you have any questions or comments about this privacy policy, please notify us via email at [info@referralkey.com](mailto:info@referralkey.com) or contact us at: 
 
 > Referral Key, Inc.  
->  20 Park Plaza, #448  
->  Boston, MA 02492
+>  2145 E Pine Ave. Meridian, ID 83642
 
 California Residents Click Here
 
