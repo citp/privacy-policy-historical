@@ -1,83 +1,173 @@
-> *The following text is extracted and transformed from the retargeter.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529084836id_/http%3A//www.retargeter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retargeter.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623154753id_/https%3A//retargeter.com/legal-privacy) for the most accurate reproduction.*
 
-# Retargeter.com | Internet Retargeting | Self-Serve Ad Network Focused On Retargeting » Privacy Policy
+# Legal Privacy - Retargeter
 
-The following statement describes the overall company Privacy Policy of Retargeter.com. This Privacy Policy addresses how information is collected and used by Retargeter.com and our partners. This policy does not apply to the practices of companies that Retargeter.com does not own or control, or to people that Retargeter.com does not employ.
+**Effective Date: April 15, 2018**
 
-If you have questions or concerns regarding this statement, please contact [customerservice@retargeter.com](mailto:customerservice@retargeter.com).
+SellPoints, Inc. and its Affiliates, doing business as SellPoints and Retargeter (“we” or “us”) know that you care about how the information we receive from you is used and shared, and we take your privacy seriously. This Privacy Policy describes our privacy practices in relation to information that we collect through websites operated by us from which you are accessing this Privacy Policy (collectively, the “Domains”), through the software applications made available by us for use on or through computers and mobile devices that link to this Privacy Policy (the “Apps”), through our social media pages and apps (collectively, the “Social Media Pages”), and other services provided by us both online and offline; as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Domains, the Apps and the Social Media Pages, the “Sites”). “You” or a “user” refers to any individual who visits or otherwise uses the Sites. By using the Sites, you are accepting and agreeing to the practices outlined in this Privacy Policy.
 
-**Personally Identifiable Information**
+This Privacy Policy does not apply to the practices of third parties that we do not own or control, or to individuals that we do not employ or manage.
 
-Personally Identifiable Data (“PID”) is data about you that is personally identifiable. Examples of personally identifiable data that may be requested include name, address, email address, credit card number or any other information that is not otherwise publicly available. Retargeter.com is committed to making sure that clear choice is provided to all clients before any PID is collected.
+This Privacy Policy also does not apply to information that we receive or handle on behalf of our subscribers in our role as a service provider, such as information that we receive through Marketing Automation Software Services or other services offered by our affiliated companies, and partners, including any apps we make available for use by our subscribers (collectively, the “Services”). Such information is governed by the terms of the applicable services agreement, rather than this Privacy Policy.
 
-Anyone who has provided personally identifiable data to Retargeter.com may elect to have their data deleted from our files, or to be used only for the service requested, by following the PID opt-out procedures below.
+You can request a copy of this Privacy Policy by contacting us at privacy@retargeter.com.
 
-###  
+ **1\. What Types of Information Do we Collect About Our Users?**
 
-### Non-Personally Identifiable Data
+Personal Information. “Personal Information” is information that identifies you as an individual or relates to an identifiable individual, including: name, title, company name, job function, expertise, postal address, telephone number, or email address. If you submit any Personal Information relating to other people to us or to our service providers in connection with the Sites, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
 
-Non-Personally Identifiable Data (“NPID”) data is collected by Retargeter.com and our partners, and is used for online site based retargeting. With respect to individuals who visit our clients sites, we, and/or one or more of our ad technology partners, may collect what is known as NPID. This data is anonymous, and can include information such as users IP address, web pages which have been viewed by the user, date and time, domain type, and responses by a user to an advertisement delivered by us or our ad technology partners. Retargeter.com and our ad technology partners use different methods to collect this type of data, including cookies and web beacons (1×1 pixels).
+Other Information. “Other Information” is any information that does not reveal your specific identity or does not directly relate to an identifiable individual. This might include, for instance, browser and device information; App usage data; information collected through cookies, pixel tags, and other technologies; demographic information and other information provided by you; or aggregated information. We use this information to facilitate our operation of the Sites and for other purposes described below.
 
-Persons may elect not to provide this NPID by following the NPID opt-out procedures below.
+IP Address: Your “IP Address” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever you access the Sites, along with the time of the visit and the page(s) that you visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. We use IP Addresses to calculate usage levels of the Sites, help diagnose problems with our servers, administer the Sites, and monitoring the regions from which you navigate to our Sites.
 
-**Retargeter.com’s Use of Cookies and Web Beacons**
+ **2\. How Do We Collect Information?**
 
-Retargeter.com utilizes cookies and web beacons in the delivery of display advertisements to our clients’ users on various sites across the internet. The following is an illustration of how that process works:
+Personal Information. We and our service providers may collect Personal Information in a variety of ways, including:
 
-A person visits our client’s website. Our cookies and/ or web beacons are running on our client’s site and identify the person as a visitor to our client’s site. Retargeter.com and/or its ad technology partners begin locating this exact person across the web within seconds of their visiting our client’s site. When this person is found by their cookie and/or web beacon Retargeter.com and/or our ad technology partners serve ads to that person.
+Through the Sites: We may collect Personal Information through the Sites, e.g., when you request a free trial or demo, register for a webinar, contact us, subscribe to our email newsletter, download content (e.g. whitepapers), or register to use our Sites.
 
-Reatargeter.com will know the following: the set of people cookied and/or beaconed for each client; whether said persons viewed the ad and if the person clicked on the advertisement upon viewing. This type of information is used in reporting; and can in no way be used to identify a specific person or user of our service. This data will never be shared with third parties or used to display ads for other clients without explicit written permission from both clients. 
+Offline: We may collect Personal Information from you offline, such as when you attend one of our events, during phone calls with sales representatives, or when you contact customer service.
 
-The NPID data collected by Retargeter.com in the above highlighted process will be kept by Retargeter.com indefinitely and will be securely maintained and archived. This information is used for reporting purposes and is not tied to personal information. 
+Through You: We may collect information such as your location or your preferred means of communication when you voluntarily provide it. Unless combined with Personal Information, this information does not personally identify you or any other user of the Sites. Note that there is no legal obligation for you to provide us with Personal Information and any information collected by us will be provided by you at your own will and with your consent.
 
-###  
+Information From Other Sources: In order to enhance our ability to provide relevant marketing, offers, and services to you, we may obtain information about you from other sources, such as public databases, joint marketing partners, social media platforms, as well as from other third parties.  
+Other Information. We and our service providers may collect Other Information in a variety of ways, including:
 
-### Sharing With Third Parties
+Through Your Browser or Device: Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Apple), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, and the name and version of the Sites (such as the Apps) you are using.
 
-All personally identifiable data provided by individuals is maintained in confidence by Retargeter.com. There are instances, however, in which personally identifiable and non-personally identifiable information is shared with third parties, as described below.
+Through Your Use of the Apps: When you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
 
-With respect to personally identifiable information, Retargeter.com may, from time to time, provide information to certain third-party administrative vendors for efficiency purposes in providing administrative services such as billing, delivery and pay-outs, or for other services related to providing the Retargeter.com service. Any such vendor used will be required to enter into a confidentiality agreement with Retargeter.com.
+Through Cookies and Other Similar Technologies: Cookies, web beacons and other similar technologies may be used to collect Other Information. We may use third parties to serve advertisements on other websites that may be of interest to you, based on information collected about your use of our Sites and other websites. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags and web beacons). We do not recognize automated browser signals regarding tracking mechanisms, which may include ‘do not track’ instructions.
 
-Finally, Retargeter.com may share information on individuals as it deems necessary to comply with a court order or to cooperate with government and law enforcement officials.
+We also may use web analytics services, such as Google Analytics, which may use cookies and similar technologies to analyze how users use the Domains. The information generated about Domain usage (including your shortened IP address) may transmitted to such third party, and used to evaluate visitors’ use of the Domain, compile statistical reports on Domain activity, and provide other services related to the Site and Internet use. Such third parties may also collect information about Domain visitors’ use of other websites.
 
-###  
+ **3\. How Do We Use Cookies and Web Beacons?**
 
-### Non-Personally Identifiable Consumer Data - Use of Cookies & Opting-Out
+Cookies are small text files that can store information. There are two types of cookies: session cookies and persistent cookies. Session cookies expire when you close your browser, and persistent cookies stay on your computer until you delete them. We may use both session and persistent cookies to customize your web experience and to analyze web traffic.
 
-Retargeter.com uses cookies and/or web beacons to provide our site based retargeting service. A visitor to a client’s site may opt-out of the use of Retargeter.com and/or our ad technology partners’ cookies and/or web beacons by disabling cookies on their browser.
+We use cookies and web beacons in the delivery of display advertisements to our website visitors and to our clients’ website visitors on various sites across the internet. This is how the process works:
 
-###  
+You visit our client’s website. Our web beacon fires and drops a persistent cookie onto your browser. When you leave the client’s website and visit a second website, we and/or our ad technology are able to recognize that browser cookie and serve a display ad to you.
 
-### Personally Identifiable Consumer Data - Opt-Out
+These cookies do not store any PII, but they do record, among other information, the following: the set of people cookied, websites visited, where and when people viewed our ads, interactions (such as clicks) with an ad, and if a purchase was made. This type of information can in no way be used to identify a specific person or user of our service. This data will never be shared with third parties or used to display ads for a third party without explicit written permission from all parties.
 
-If a client elects to provide Retargeter.com with personally identifiable data, he or she has the right to tell us to have such data deleted in its entirety at any time. Also, please remember that if you choose to delete your information completely you will no longer receive the Retargeter.com service. You may e-mail us at [Customerservice@Retargeter.com](mailto:Customerservice@Retargeter.com) or use one of the alternate contact methods listed at the end of this policy to remove your contact information from our database provided we have completed all your pending transactions. Please note that information is never completely removed from our history and disaster recovery archives. ****
+The NPII collected by us in the aforementioned process will be kept by us indefinitely and will be securely maintained and archived. We do not link the NPII described here to any personally identifiable information provided to us.
 
-**Security**
+We believe everyone should have control over which ads they see, and we allow anyone to opt out from being served retargeted ads by or through our service. If you use multiple browsers or devices, you will need to opt out on each browser or device, and if you delete your cookies you will need to opt out again.  
+Click here to opt out.
 
-Retargeter.com takes security very seriously, and we take measures to protect all of our data from unauthorized access, destruction or disclosure. Retargeter.com is committed to securing all data whether it is PID or NPID. Pages within Retargeter.com that collect credit card information are SSL encrypted to ensure a secure transaction.
+ **4\. How Do We Use Other Personal Information?**
 
-###  
+We may use Personal Information:
 
-### Children’s Privacy
+To respond to your inquiries and fulfill your requests, such as to send you requested materials and newsletters, as well as information and materials regarding our products and services.
 
-Children 18 and under are not eligible to use Retargeter.com services without the participation and supervision of a legal parent or guardian. Retargeter.com does not provide privacy measures to protect children. If you believe your child has provided Retargeter.com with personally identifiable data and you would like to have the data removed, please contact us at [customerservice@Retargeter.com](mailto:customerservice@Retargeter.com).  
-**Changes to Retargeter.com’s Corporate Structure**
+To send administrative information to you, for example, information regarding the Sites and changes to our terms, conditions, and policies.
 
-If all or part of Retargeter.com is sold, merged, or otherwise transferred to another entity, the information gathered by Retargeter.com may be transferred as part of that transaction. Retargeter.com will take reasonable measures to ensure that such information is used in a manner consistent with the policy under which it was collected.
+To communicate with you and provide you with related customer service.
 
-**Effective Date**
+To send you marketing communications, including via email and SMS in compliance with applicable laws, that we believe may be of interest to you.
 
-This policy was updated on March 18, 2009.
+To personalize your experience on the Sites by presenting products and offers tailored to you.
 
-**How To Contact Us** ****
+To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
 
-If you have any questions regarding our privacy policy please contact [customerservice@Retargeter.com](mailto:customerservice@Retargeter.com). You may also call (818) 584-2480.
+For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Sites and services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
 
-Retargeter.com  
-Attn: Customer Service  
-152 Lombard, Suite 207  
-San Francisco, CA 94111
+As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our Affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our Affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-We look forward to hearing from you! 
+ **5\. How Will We Share Personal Information We Receive?**
 
-## Testimonials
+Information about our users is an integral part of our business. We only share your Personal Information as described in this Privacy Policy.
+
+Subsidiaries and Affiliates:
+
+We may disclose Personal Information to our Subsidiaries and Affiliates for the purposes described in this Privacy Policy.
+
+Third-Party Business Partners:
+
+We partner with a variety of businesses and work closely with or assist them in marketing or selling products or services. In certain situations, these businesses operate within the Sites. We may disclose Personal Information to our partners for the purposes described above. Some of our third-party business partners may co-sponsor events and other offerings with Us. We may share Personal Information with these co-sponsors when you sign up for events or offerings to allow our partners to send you marketing communications and information that may be of interest to you, as permitted under applicable law.
+
+Agents and Service Providers:
+
+We may contract with other companies and people to perform tasks on our behalf and may share your Personal Information with them to provide products or services to you, or to otherwise communicate with you, such as to provide marketing or offers on our behalf. Examples may include removing repetitive information from customer lists, analyzing data, providing marketing assistance, conducting billing, processing credit card payments, engaging technical support for our services, providing customer service, and performing analysis related to our products or services. We may also provide your Personal Information to agents and service providers to verify or compile aggregate usage data that we provide to our partners. When we share this information in this way, we seek to require the agent or service provider to maintain the privacy, confidentiality and security of the Personal Information.
+
+Sweepstakes:
+
+We may share Personal Information with business partners or other third party sponsors of sweepstakes, contests and similar promotions.
+
+Blog and Social Media Pages:
+
+Personal Information may also be disclosed by you through the Sites, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including, without limitation, our Social Media Pages). This information may appear in public ways, such as through search engines or other publicly available platforms, and may be “crawled” or searched by third parties.
+
+Please do not post any information that you do not want to reveal to the public at large.
+
+Business Transfers:
+
+In some cases, we may buy or sell assets or businesses. In these types of transactions, user information is typically one of the business assets that is transferred. We may disclose Personal Information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
+
+Protection of Us and Others:
+
+We may release Personal Information when we believe that release is necessary or appropriate (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce or apply our conditions of use and other agreements; (e) to protect our operations or those of any of our Affiliates; (f) to allow us to pursue available remedies or limit the damages that we may sustain; and (g) to protect the rights, privacy, property, or our safety, or the safety of our employees, our Affiliates, our users, or any other person or entity. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+Aggregated Data
+
+Aggregated Personal Information does not personally identify you or any other user of the Sites. We may monitor your use of our Services and compile information about such use, Personal Information and Other Information and data in an aggregate and anonymous manner to derive statistical and performance information related to the provision and operation of the SellPoints Services, or related to any other matter, and may make such information publicly available or privately available to third parties, provided that such information does not include any data that would enable the identification of you or your Personal Information, or the disclosure of Customer Confidential Information. We retain all rights, title and interest in and to such statistical and performance information.
+
+ **6\. How Do We Use and Disclose Other Information?**
+
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it for all the purposes for which we use and disclose Personal Information.  
+In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we do, we will treat the combined information as Personal Information for as long as it is combined.
+
+ **7\. How Do We Secure Personal Information About You?**
+
+We have implemented organizational, technical, and administrative measures to protect Personal Information within our organization, including security controls to prevent unauthorized access to our systems. While we take reasonable steps to secure your Personal Information from loss, misuse, interference and unauthorized access, modification and disclosure, you should be aware no security procedures or protocols are ever guaranteed to be 100% secure from intrusion or hacking, and there is therefore always some risk assumed by sharing Personal Information online. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of your account has been compromised), please immediately notify us in accordance with the “Questions, Concerns and Complaints” section below.
+
+ **8\. How Can I Access, Correct, Amend or Remove Information About Me?**
+
+If you would like to access, correct, amend, remove or limit the use or disclosure of any Personal Information about you that has been collected and stored by Us, please notify us at privacy@retargeter.com that we may consider and respond to your request in accordance with applicable law.
+
+For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will respond to your request within 15 days.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such access, change or deletion.
+
+ **9\. For How Long Will We Retain Your Personal Information?**
+
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+ **10\. What Choices Do I Have?**
+
+You can always opt not to disclose information. However, if you elect to do so, we may be limited in responding to your inquiry or providing services to you.  
+You may opt-out of receiving marketing messages from Us or our Affiliates by unsubscribing through the unsubscribe or opt-out link in an email. We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages.
+
+ **11\. Can Children Use Our Sites?**
+
+The Sites are not intended for minors under the age of 18. We do not knowingly or specifically collect information about minors under the age of 18 and believe that children of any age should get their parents’ or legal guardians’ consent before providing any Personal Information. If you believe that we have mistakenly or unintentionally collected such information, please notify us at privacy@retargeter.com, so that we may delete the information from our servers.
+
+ **12\. Third Party Sites?**
+
+The Sites may permit you to link to other websites on the Internet through direct links or through applications such as “share” or “Like” buttons, and other websites likewise may contain links to the Sites. The information practices or content of such other websites is governed by the privacy statements of those websites and not by this Privacy Policy. We encourage you to review the privacy policies found on such other websites, services, and applications to understand how your information may be collected and used.
+
+Similarly, please note that we are not responsible for the collection, use and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM, or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or the Social Media Pages.
+
+ **13\. In-App Advertising and User Advertising IDS (AAID/IDFA)**
+
+If you advertise in-app or user Advertising IDs (AAID/IDFA), we shall endeavor to include either (1) a functional opt-out, or (2) instructions on how a user may reset their Advertising IDs.
+
+ **14\. Sensitive Information**
+
+We ask that you not send us or disclose any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background, or trade union membership) on or through the Sites or via other means.
+
+ **15\. Changes to this Privacy Policy**
+
+We may amend this Privacy Policy from time to time. The “Effective Date” legend at the top of this page indicates when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Sites. Your use of the Sites following these changes means that you accept the revised Privacy Policy.
+
+ **16\. International Transfer of Data**
+
+Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Sites or disclosing information to us you consent to the transfer of information to countries outside of your country of residence, including the United States, Australia, Germany, Ireland, Israel, Japan, the European Union and the UK, which may have different data protection rules than those of your country or the country in which you were located when you initially provided the information.
+
+ **17\. Questions, Concerns or Complaints**
+
+Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information, please contact us by email at privacy@retargeter.com, or by mail at 1198 65th Street, Suite 250 Emeryville, CA. 94608 ATTN: Privacy Officer, Legal. Because email communications are not always secure, please do not include credit card information or other sensitive information in your emails to us.
+
+We will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
