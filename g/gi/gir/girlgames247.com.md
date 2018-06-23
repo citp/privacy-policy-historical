@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlgames247.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221005839id_/http%3A//www.gamesforgirls.net/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgames247.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623192036id_/http%3A//www.gamesforgirls.net/page/2.html) for the most accurate reproduction.*
 
 # Games for Girls - Play Free Online Girl Games - Privacy Policy
 
