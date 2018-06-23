@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicsprings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191322id_/https%3A//www.graphicsprings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsprings.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623235131id_/https%3A//www.graphicsprings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GraphicSprings
 
@@ -59,6 +59,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-www.graphicsprings.cominfo@graphicsprings.com 
-
-Effective: November 2013 
+Email: info@graphicsprings.com 
