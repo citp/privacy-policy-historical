@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturetrail.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917123026id_/http%3A//picturetrail.com/webpages/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturetrail.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623174923id_/http%3A//www.picturetrail.com/webpages/privacypolicy.shtml) for the most accurate reproduction.*
 
 # PictureTrail - Online Photo Albums - Share Photos, Photo Sharing, Digital Prints, Family Tree, Geneology Projects and Image Hosting
 
