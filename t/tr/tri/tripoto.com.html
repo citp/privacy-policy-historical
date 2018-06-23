@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tripoto.com privacy policy that was archived on 2017-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120045128id_/https%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripoto.com privacy policy that was archived on 2018-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624001632id_/https%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><!-- / Header --><head>
 <title>Privacy Policy | Tripoto</title>
@@ -21,8 +21,16 @@
 <link rel="dns-prefetch" href="//www.facebook.com/">
 <link rel="dns-prefetch" href="//connect.facebook.net/">
 <link rel="dns-prefetch" href="//cdn.onesignal.com/">
-    <link rel="stylesheet" type="text/css" href="https://cdn.tripoto.com/121.1/css/all-tripoto-bootstrap3.css">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
+
+
+<!-- setting cookie for visitor ID -->
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+    function getCookie(e){for(var t=e+"=",x=document.cookie.split(";"),r=0;r<x.length;r++){for(var n=x[r];" "==n.charAt(0);)n=n.substring(1,n.length);if(0==n.indexOf(t))return n.substring(t.length,n.length)}return null}function setCookie(e,t,x){var r=new Date;r.setTime(r.getTime()+x);var n=r.toUTCString();return document.cookie=e+"="+t+";path=/;expires="+n,!0}function createVisitorID(){var e=(new Date).getTime();return"xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g,function(t){var x=(e+16*Math.random())%16|0;return e=Math.floor(e/16),("x"===t?x:3&x|8).toString(16)})}getCookie("__tRVr")||setCookie("__tRVr",createVisitorID(),31536e6);
+</script>
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.tripoto.com/147.4/css/tb3c.css">
+
+<script type="text/javascript">
 
         /** Attention! us you are making any global param.
          *  better set it inside staticParams.
@@ -31,14 +39,14 @@
          *  cannot delete these as they are currently being used in ctp's and other frontend.
          *  react pages on other repo uses staticParams.
          */
-        var visitorUniqueId = "5a125f50-1058-460a-9b43-5086ac1e0147";
+//        var visitorUniqueId = "//";
         var userHandle = "";
         var isVisitorSessionRecord = "";
         var userLogId = "";
         var socketIOUrl = "https://io.tripoto.com";
         var channelForMessaging = "tripoto-message-channel";
         var channelForChatHead = "tripoto-chathead-channel";
-        var IMG_ASSETS_URL = 'https://cdn1.tripoto.com/121.1/img/';
+        var IMG_ASSETS_URL = 'https://cdn1.tripoto.com/147.4/img/';
         var DYNA_IMG_ASSETS_URL = 'https://static2.tripoto.com';
         var FULL_BASE_URL = "https://www.tripoto.com/";
         var fbAppName = '';
@@ -46,7 +54,7 @@
         var homePageCustomAd = 'PGRpdiBpZD0iZ29vZ2xlX2ltYWdlX2RpdiIgc3R5bGU9Im92ZXJmbG93OmhpZGRlbjsiPjxhICB0YXJnZXQ9Il9ibGFuayIgIGhyZWY9Imh0dHBzOi8vd3d3LnRyaXBvdG8uY29tL2Fkcy9jbGljay81OTRiNmFjOS1kMzU4LTQyYzMtODViYi02NThlYWMxZTAxNDcxNTUiPjxpbWcgc3JjPSJodHRwczovL3N0YXRpYzIudHJpcG90by5jb20vbWVkaWEvdHJhbnNmZXIvaW1nL0FkLzE0OTgxMTQ3NTRfZ2V0X3BhaWRfdG9fdHJhdmVsLnBuZyIgaGVpZ2h0PSIyMjAiIHdpZHRoPSI1OTUiIGJvcmRlcj0iMCI+PGltZyBzcmM9Imh0dHBzOi8vd3d3LnRyaXBvdG8uY29tL2Fkcy9pbXByZXNzaW9uLzU5NGI2YWM5LWQzNTgtNDJjMy04NWJiLTY1OGVhYzFlMDE0NzE1NSIgd2lkdGg9IjAiIGhlaWdodD0iMCIvPjwvYT48L2Rpdj4=';
 
         var staticParams = {
-            "visitorUniqueId": "5a125f50-1058-460a-9b43-5086ac1e0147",
+            "visitorUniqueId": getCookie('__tRVr'),
             "userHandle": "",
             "isVisitorSessionRecord": "",
             "userLogId": "",
@@ -56,13 +64,22 @@
             "DYNA_IMG_ASSETS_URL": "https://static2.tripoto.com",
             "FULL_BASE_URL": "https://www.tripoto.com/",
             "PYTHON_API_URL": "https://api.tripoto.com/",
-            "IMG_ASSETS_URL": "https://cdn1.tripoto.com/121.1/img/",
+            "ANALYTICS_BASE_URL": "https://analytics.tripoto.com/",
+            "IMG_ASSETS_URL": "https://cdn1.tripoto.com/147.4/img/",
             "fbAppName": '',
             "collectionId": '',
             "isNew": '0',
             "PYTHON_BASE_URL": "http://localhost:5000/",
             "ANDROID_DOWNLOAD_LINK": "https://163458.measurementapi.com/serve?action=click&publisher_id=163458&site_id=100144",
             "IOS_DOWNLOAD_LINK": "https://163458.measurementapi.com/serve?action=click&publisher_id=163458&site_id=100142",
+            "PAST_CONTESTS_LIST_UUID": "past-contests",
+            "CURRENT_CONTESTS_LIST_UUID": "current-contests",
+            "referrerSection": "",
+            "referrerSource": "",
+            "userLocation": "",
+            "fbPageId": "321639637922428",
+            "fbAppId": "546191595440610",
+
         };
 
 </script>
@@ -76,7 +93,6 @@ n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '850205911699903');
-fbq('track', 'PageView');
 </script>
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=850205911699903&ev=PageView&noscript=1"
@@ -85,26 +101,149 @@ src="https://www.facebook.com/tr?id=850205911699903&ev=PageView&noscript=1"
 
 
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-33638634-2', 'tripoto.com');
-  // page = "/home"
-  // if(window.location.href.split('/').length>3){
-  // 		if(window.location.href.split('/')[3]==""){
-  // 			page = "/home";
-  // 		}else{
-  // 			page = "/"+window.location.href.split('/')[3];
-  // 		}
-        
-  //   }
-  ga('require', 'GTM-N6VXXCZ');
-  ga('send', 'pageview');
+function getAnalyticsNotTrackingPageTypes() {
+
+    return ["admin", "dashboards"]; // not tracking admin page events;
+}
+
+function getPageCategory(url) { // function duplication; also in common.js
+
+    var category = "";
+
+    // for some pages category is set in their controllers - custom_pages, hotel static pages, hotel-collections
+    category = '';
+
+    if(category) {
+        return category;
+    }
+
+    if(typeof url === 'undefined' || !url) {
+        url = window.location.href;
+    }
+
+    var urlChunks = url.split('/');
+
+    pagePathLevel2 = urlChunks[3]; // http://www.tripoto.com/trip/slug123 has path-level1 as www.tripoto.com, path-level2 as trip, and so on
+
+    if(pagePathLevel2 && pagePathLevel2.indexOf('?')!==-1) {
+        pagePathLevel2 = pagePathLevel2.split('?')[0];
+    }
+
+    if(pagePathLevel2 && pagePathLevel2.indexOf('#')!==-1) {
+        pagePathLevel2 = pagePathLevel2.split('#')[0];
+    }
+
+    category = pagePathLevel2;
+
+    if (!category) {
+        return "home"; //default
+    }
+
+    if(category === "hotels") {
+        if(urlChunks.length > 3 && urlChunks[3] && urlChunks[3].indexOf('?')!=-1) {
+            // for hotels url like https://www.tripoto.com/hotels?location_name=delhi&checkin=2018-02-10&checkout=2018-02-11&guests=1
+            return "hotels_search";
+        }
+
+        return "hotels"; // tripoto.com/hotels
+    }
+
+    return category;
+}
+
+if(typeof getPageCategory === "function") {
+    pageCategory = getPageCategory();
+} else {
+    pageCategory = "home";
+}
+
+ var d = new Date();
+ d.setTime(d.getTime() + (30 * 60 * 1000));
+ var expires = 'expires=' + d.toUTCString();
+ if (document.cookie.indexOf("user_origin=") >=0) {
+    pageCategory = getCookie("user_origin_category");
+    originPage = getCookie("user_origin");
+    document.cookie = 'user_origin_category='+pageCategory+";path=/; "+ expires;
+    document.cookie = 'user_origin='+window.location.href.split("tripoto.com")[1]+";path=/; "+ expires; 
+ }else{
+     var d = new Date();
+     d.setTime(d.getTime() + (30 * 60 * 1000));
+     var expires = 'expires=' + d.toUTCString();
+     document.cookie = 'user_origin_category='+pageCategory+";;path=/; "+ expires;
+     document.cookie = 'user_origin='+window.location.href.split("tripoto.com")[1]+";path=/; "+ expires;
+ }
 </script>
 
 
+<script>
+
+  var ab_enabled = getCookie('__rmtc');
+  if(ab_enabled == null){
+      var d = new Date();
+      // Setting ab cookie for a week for a user to let him behave same
+      d.setTime(d.getTime() + (7 * 24 * 60 * 60 * 1000));
+      var expires = 'expires=' + d.toUTCString();
+      var distribution = Math.floor(Math.random()*10);
+      var  split = '5';
+      if(distribution < split){
+        document.cookie = '__rmtc='+true+";path=/; "+ expires;
+      }else{
+        document.cookie = '__rmtc='+false+";path=/; "+ expires;
+      }
+  }
+</script>
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-33638634-2', 'tripoto.com');
+        //ga('require', 'GTM-N6VXXCZ');
+
+        var user_origin_category = getCookie('user_origin_category');
+        var user_origin = getCookie('user_origin');
+
+        var ab_enabled = getCookie('__rmtc');
+        var user_logged_in = getCookie('__atv_mtv_ptv') ? "true" : "false";
+
+        ga('set', 'dimension2', user_origin);
+        ga('set', 'dimension3', user_origin_category);
+        ga('set', 'dimension4', ab_enabled);
+        ga('set', 'dimension5', user_logged_in);
+
+        ga('send', 'pageview');
+    </script>
+
+
+    
+<!-- Global site tag (gtag.js) - Google AdWords: 984113598 -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-984113598"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-984113598');
+</script>
+
+
+
+
+
+
+<!-- linkedin pixel tracking -->
+<script type="text/javascript"> 
+    _linkedin_data_partner_id = "229259"; 
+</script>
+<script type="text/javascript"> 
+    (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); 
+</script> 
+<noscript> 
+    <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=229259&fmt=gif" /> 
+</noscript>
 
 <script>
     var baseRelUrl = '/';
@@ -120,127 +259,12 @@ src="https://www.facebook.com/tr?id=850205911699903&ev=PageView&noscript=1"
 
 
 
-<nav id="main-header" class="navbar navbar-default">
-  <div id="main-header-container" class="container-fluid">
-  <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <a class="navbar-brand padding-none hidden-sm hidden-md hidden-lg ga-link" data-label="header_logo" data-action="Click" href="https://www.tripoto.com"><img src="/img/logo/tripoto-favicon.svg" alt="Tripoto" style="width: 30px; margin: 10px 0 0 5px">      </a>
-      <a data-action="Click" data-label="header_logo" class="navbar-brand ga-link" href="https://www.tripoto.com"><img src="/img/logo/tripoto.svg" alt="Tripoto" class="hidden-xs">      </a>
-
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" id="toggle-side-menu">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-    </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="tripoto-header-collapse">
-      <div class="overlay"></div>
-       <!-- Main list in the header menu -->
-       <form type="get" action="/search" id="search-form" class="navbar-form navbar-left" role="search" style="display: none;">
-        <div class="form-group clearfix">
-          <i class="fa fa-search"></i>
-            <input id="search-box" name="keywords" type="text" class="form-control" placeholder="Places, activities or people">
-        </div>
-      </form>
-
-      
-
-    <!-- Right side account Details or Sign in Link -->
-      <ul class="nav navbar-nav navbar-right" id="account">
-
-      <!-- Sign in link if user not logged in -->
-                 <li class="top-icon">
-          <a href="#" class="loginicon loggedin_popup current-popup-trigger ga-button" style="color:#fff !important" data-toggle="modal" data-target="#loginModal" data-action="Click" data-label="header_signin">
-          Sign In
-          </a>
-        </li>
-              </ul>
-
-      <!-- Notification and MEssaging icons -->
-      <ul class="nav navbar-nav navbar-right" id="icon-list">
-        <li class="hidden-md hidden-lg">
-          <a href="/community" class="ga-link" data-action="Click" data-label="header_community">
-          <span class="btn color-white book-button">Community</span></a>
-        </li>
-        <li class="hidden-md hidden-lg">
-          <a href="/hotels" class="ga-link" data-action="Click" data-label="header_hotels">
-          <span class="btn color-white book-button">Hotels</span></a>
-        </li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right" id="header-list">
-        <li class="dropdown" id="discover-dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="500" data-close-others="true" role="button" aria-expanded="false">Discover <span class="fa fa-caret-down"></span>
-          </a>
-
-        <div class="discoverDropDown dropdown-menu">
-  <p class="triangle-up discoverTriangle">&nbsp;</p>
-  <div class="borderDiscoverMenu"></div>
-  <ul class="discoverTrips">
-  
-    <li><a href="/trip" class="ga-link" data-action="Click" data-label="header_trips">Trips</a></li>
-    <li><a href="/video-trips" class="ga-link" data-action="Click" data-label="header_videos">Videos</a></li>
-    <li><a href="/photo-blogs" class="ga-link" data-action="Click" data-label="header_photo_blogs">Photo Blogs</a></li>
-    <li><a href="/hotels" class="ga-link" data-action="Click" data-label="header_hotel_collections">Hotel Collections</a></li>
-    <li><a href="/the-stash" class="ga-link" data-action="Click" data-label="header_trip_collections">Trip Collections</a></li>
-    <li><a href="/flights" class="ga-link" data-action="Click" data-label="header_flight_collections">Flight Collections</a></li>
-    <li><a href="/places-to-visit" class="ga-link" data-action="Click" data-label="header_travel_guides">Travel Guides</a></li>
-    <li><a href="/attractions" class="ga-link" data-action="Click" data-label="header_attractions">Attractions</a></li>
-    
-  </ul>
-</div>	        </li>
-
-        <li class="home-menu">
-                        <a href="/trips/create" class="discover-toggle ga-link" data-action="Click" data-label="header_create_new" data-hover="dropdown" data-delay="500" data-close-others="true">Publish Trip <i class="fa fa-caret-down"></i></a>
-             <div class="discoverDropDown dropdown-menu">
-  <p class="triangle-up discoverTriangle">&nbsp;</p>
-  <div class="borderDiscoverMenu"></div>
-  <ul class="discoverTrips">
-          <li><a class="link-share-trip loggedin_popup openLoginModal ga-button" href="javascript:void(0);" data-action="Click" data-label="header_create_signin"><span>Create New</span></a></li>
-         <li><a class="first ga-link" data-action="Click" data-label="header_import_blog" href="/travel-blog-to-itinerary"><span>Import Blog</span></a></li>
-  </ul>
-</div>	                  </li>
-
-        <li class="hidden-xs hidden-sm">
-            <a href="/community" class="ga-link" data-label="header_community" data-action="Click">Community</a>
-        </li>
-
-        <li class="hidden-xs hidden-sm">
-           <a href="/hotels" class="ga-link" data-label="header_book_hotels" data-action="Click">Book Hotels</a>
-        </li>
-
-        <li>
-           <a href="/tour-packages" class="ga-link" data-label="header_book_holidays" data-action="Click">Book Holidays</a>
-        </li>
-
-        <li class="hidden-md hidden-lg">
-        <a class="openLoginModal ga-link" data-action="Click" data-label="header_messenger" href="javascript:void(0);"><span>Inbox</span></a>
-        </li>
-
-        <li class="hidden-md hidden-lg"> 
-          <a class="openLoginModal ga-link" data-action="Click" data-label="header_notifications" href="javascript:void(0);"><span>Notifications</span></a>
-        </li>
-
-
-                 <li class="mobile-profile-links visible-sm visible-xs"><a href="#" class="openLoginModal ga-button" data-action="Click" data-label="header_signin"> <i class="fa fa-user"></i>Sign In</a></li>
-              </ul>
-
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>
-
-
-<script type="text/javascript">
-  var isloggedInUser = 0;
-  var isMessageNotificationEnable = 1;
-</script>
-
+    <div class="content-header-padding" id="content-headermini"> <div class="font-smoothing" data-reactid=".3teu17uju" data-react-checksum="-1325535464"><nav class="font-smoothing-remove" data-reactid=".3teu17uju.0"><div class=" navbar-header color-header nav" data-reactid=".3teu17uju.0.0"><a class="navbar-brand clearfix ga-link" href="/" data-action="Click" data-label="header_logo" data-reactid=".3teu17uju.0.0.0"><img src="/img/logo/tripoto.svg" alt="Tripoto" data-reactid=".3teu17uju.0.0.0.0"></a><form name="formSearch" class="form-search text-center enable-click" method="GET" action="/search" data-reactid=".3teu17uju.0.0.1"><input type="text" name="keywords" class="input-search font-default ellipsis placeholder-color-dark " autocomplete="off" placeholder="Search for itineraries, destinations, hotels or activities" data-reactid=".3teu17uju.0.0.1.0"><button type="submit" class="btn-action font-lg" style="border-top-left-radius:0px;border-bottom-left-radius:0px;" data-reactid=".3teu17uju.0.0.1.1"><i class="fa fa-search" data-reactid=".3teu17uju.0.0.1.1.0"></i></button><div class="suggestion-holder" style="display:none;" data-reactid=".3teu17uju.0.0.1.2"><ul class="list-holder" data-reactid=".3teu17uju.0.0.1.2.0"></ul></div></form><div class="hidden-md hidden-lg clearfix pull-left mobile-anchor display-inline-block" data-reactid=".3teu17uju.0.0.2"><a class="color-white pointer" href="/hotels" data-reactid=".3teu17uju.0.0.2.0">Book Hotels</a></div><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-reactid=".3teu17uju.0.0.3"><i class="fa fa-bars" data-reactid=".3teu17uju.0.0.3.0"></i></button><div data-reactid=".3teu17uju.0.0.4"><div class="color-dark line-height-18" data-reactid=".3teu17uju.0.0.4.0"><div data-reactid=".3teu17uju.0.0.4.0.0"><div class="modal  fade position-vertical-center-parent  remove-position-vertical-center-parent-xs  modal-dark-back " id="compose-modal-from-header" tabindex="-1" role="dialog" data-reactid=".3teu17uju.0.0.4.0.0.0"><div class="modal-dialog  position-vertical-center-child  remove-position-vertical-center-child-xs  " data-reactid=".3teu17uju.0.0.4.0.0.0.0"><div class="modal-close hidden-lg hidden-md hidden-sm clearfix  position-top-left width-100 " data-dismiss="modal" data-reactid=".3teu17uju.0.0.4.0.0.0.0.0"><div class="pull-right margin-default font-md color-white " data-dismiss="modal" aria-label="Close" data-reactid=".3teu17uju.0.0.4.0.0.0.0.0.0"><span aria-hidden="true" class="fa fa-times margin-right-sm font-small" data-reactid=".3teu17uju.0.0.4.0.0.0.0.0.0.0"><span data-reactid=".3teu17uju.0.0.4.0.0.0.0.0.0.0.0"> </span><span class="font-arial-bold font-default color-white" data-reactid=".3teu17uju.0.0.4.0.0.0.0.0.0.0.1">Close</span><span data-reactid=".3teu17uju.0.0.4.0.0.0.0.0.0.0.2"> </span></span></div></div><div class="modal-content overflow-hidden    " data-reactid=".3teu17uju.0.0.4.0.0.0.0.1"><div class="modal-body clearfix" style="padding-bottom:0;padding-top:0;max-height:400px;overflow:auto;" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0"><div class="row" style="max-height:500px;" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0"><div class="col-lg-12" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0"><div class="row font-smoothing padding-default " data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.0"><div class="col-lg-1 col-md-1 col-sm-1 hidden-xs vertical-top display-inline-block padding-none" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.0.0"><img class="img-user" width="40" height="40" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.0.0.0"></div><input type="text" maxlength="100" placeholder="Title*" class="col-lg-11 col-md-11 col-sm-11 col-xs-12 font-lg font-georgia text-captialize border-none outline-none padding-bottom-med padding-top-med padding-none-xs" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.0.1"></div><div class="row font-smoothing border-top-solid-light-grey " data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.1"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 vertical-top display-inline-block padding-default font-default" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.1.0"><textarea id="textshit" placeholder="Write your review here..." class="middle width-100 border-none outline-none" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.1.0.0"></textarea></div></div><div class="row border-top-solid-light-grey " data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.2"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.2.0"><div class=" " data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.2.0.0"><div class="relative display-block line-height-32  color-dark  " data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.2.0.0.0"><div class="font-smoothing   font-default" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.2.0.0.0.1"><div class="middle margin-right-sm  display-inline-block font-xxlg  absolute " data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.2.0.0.0.1.0"><span class="  fa spot-placeholder-img font-lg margin-none animated-bounce color-blue  bounce " data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.2.0.0.0.1.0.0"></span></div><div class="middle " data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.2.0.0.0.1.1"><input id="right-header-composer" type="text" placeholder="Add Location" class="ellipses outline-none  font-default line-height-1 width-100 location-tagger-input background-none border-none  " value="" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:0.0.0.2.0.0.0.1.1.0"></div></div></div></div></div></div></div></div></div><div class="background-grey" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1"><div data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:0"><div class="btn line-height-24 pull-right margin-none border-radius-none background-blue color-white opacity-full" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:0.0"><span data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:0.0.0">Post</span></div></div><ul class="nolist padding-none margin-none" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1"><li class="nolist relative display-inline-block middle" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$0/=10"><span data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$0/=10.0"></span><div class=" padding-btn display-inline-block line-height-24" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$0/=10.1"><div class="" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$0/=10.1.0"><div class="font-smoothing  bold-on-hover pointer  font-default" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$0/=10.1.0.0"><div class="middle margin-right-sm  display-inline-block font-xxlg  " data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$0/=10.1.0.0.0"><span class="  fa logo-camera-small color-yellow-icon" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$0/=10.1.0.0.0.0"></span></div><div class="middle display-inline" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$0/=10.1.0.0.1">Upload Photos</div></div><div class="hide" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$0/=10.1.0.1"><input type="file" multiple="" accept="image/*" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$0/=10.1.0.1.0"></div></div></div></li><li class="nolist relative display-inline-block middle" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$1/=11"><span data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$1/=11.0"></span><div class=" padding-btn display-inline-block line-height-24" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$1/=11.1"><div class="font-smoothing  bold-on-hover pointer  font-default" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$1/=11.1.0"><div class="middle margin-right-sm  display-inline-block font-xxlg  " data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$1/=11.1.0.0"><span class="  fa fa-facebook-square color-fb" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$1/=11.1.0.0.0"></span></div><div class="middle display-inline" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.0:1.$1/=11.1.0.1">Upload from facebook</div></div></div></li></ul><div class="clearfix" data-reactid=".3teu17uju.0.0.4.0.0.0.0.1.1:1.1"></div></div></div></div></div><div id="composerFBImport-2" class="modal fade modal-fb-import" tabindex="-1" role="dialog" data-reactid=".3teu17uju.0.0.4.0.0.1"><div class="modal-dialog" data-reactid=".3teu17uju.0.0.4.0.0.1.0"><div class="modal-content" data-reactid=".3teu17uju.0.0.4.0.0.1.0.0"><div class="modal-header clearfix" data-reactid=".3teu17uju.0.0.4.0.0.1.0.0.0"><h4 class="modal-title pull-left" data-reactid=".3teu17uju.0.0.4.0.0.1.0.0.0.0">Upload From Facebook</h4></div><div class="modal-body modal-min-height middle display-table margin-auto clearfix" data-reactid=".3teu17uju.0.0.4.0.0.1.0.0.1"><button type="button" class="no-border btn btn-primary btn-primary-transparent text-uppercase btn-publish btn-primary-active" data-reactid=".3teu17uju.0.0.4.0.0.1.0.0.1.0">Fetch Albums from Facebook</button></div><div class="modal-footer" data-reactid=".3teu17uju.0.0.4.0.0.1.0.0.2"><button type="button" class="no-border btn btn-primary btn-primary-transparent text-uppercase btn-publish" data-dismiss="modal" data-reactid=".3teu17uju.0.0.4.0.0.1.0.0.2.0">Close</button></div></div></div></div></div></div><div class="collapse navbar-collapse navbar-right-wrapper margin-none color-dark z-index-highest transition-all-fast" style="height:100vh;right:-400px;display:block !important;" id="sideMenu" data-reactid=".3teu17uju.0.0.4.1"><div class="color-grey text-right pointer clearfix display-inline-block hidden-md hidden-lg width-100" data-reactid=".3teu17uju.0.0.4.1.0"><a href="/" data-reactid=".3teu17uju.0.0.4.1.0.0"><img class="margin-top-default zoom-80 pull-left" src="/img/logo/header-blue.svg" data-reactid=".3teu17uju.0.0.4.1.0.0.0"></a><button type="button" class="navbar-toggle margin-top-default margin-right-none" data-toggle="collapse" data-reactid=".3teu17uju.0.0.4.1.0.1"><i class="fa fa-times font-lg color-grey" data-reactid=".3teu17uju.0.0.4.1.0.1.0"></i></button></div><ul class="nav navbar-nav navbar-right margin-top-medium margin-none" data-reactid=".3teu17uju.0.0.4.1.1"><li class="hover-dropdown hidden-sm hidden-xs" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0"><a class="btn btn-primary btn-primary-transparent border-none dropdown-toggle  " role="button" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.0"><span data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.0.0"><span data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.0.0.0"><span data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.0.0.0.0">Inspirations</span><span data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.0.0.0.1">&nbsp;</span></span><span class="caret" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.0.0.1"></span></span></a><ul class="dropdown-menu" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1"><div class="peak" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.0"></div><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Beaches0"><a href="/beaches" class="ga-link" data-action="Click" data-label="header_beaches" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Beaches0.0">Beaches</a></li><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Mountains1"><a href="/mountains" class="ga-link" data-action="Click" data-label="header_mountains" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Mountains1.0">Mountains</a></li><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Heritage2"><a href="/heritage" class="ga-link" data-action="Click" data-label="header_heritage" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Heritage2.0">Heritage</a></li><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Weekend Guide3"><a href="/weekend-guide" class="ga-link" data-action="Click" data-label="header_weekend_guide" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Weekend Guide3.0">Weekend Guide</a></li><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Upcoming Festivals4"><a href="/festivals-of-india" class="ga-link" data-action="Click" data-label="header_festivals_of-india" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Upcoming Festivals4.0">Upcoming Festivals</a></li><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Honeymoon Packages5"><a href="/honeymoon-packages" class="ga-link" data-action="Click" data-label="header_honeymoon_packages" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Honeymoon Packages5.0">Honeymoon Packages</a></li><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Wildlife Tourism6"><a href="/wildlife-tourism" class="ga-link" data-action="Click" data-label="header_wildlife_tourism" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Wildlife Tourism6.0">Wildlife Tourism</a></li><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Road Trips7"><a href="/road-trips" class="ga-link" data-action="Click" data-label="header_road_trips" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Road Trips7.0">Road Trips</a></li><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Getaways Guide8"><a href="/getaways-guide" class="ga-link" data-action="Click" data-label="header_getaways_guide" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Getaways Guide8.0">Getaways Guide</a></li><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Luxury Travel9"><a href="/luxury-travel" class="ga-link" data-action="Click" data-label="header_luxury_travel" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Luxury Travel9.0">Luxury Travel</a></li><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Explore More10"><a href="/explore-more" class="ga-link" data-action="Click" data-label="header_explore_more" data-reactid=".3teu17uju.0.0.4.1.1.0:$Inspirations0.1.1:$Explore More10.0">Explore More</a></li></ul></li><li class="hidden-sm hidden-xs" data-reactid=".3teu17uju.0.0.4.1.1.0:$Forum1"><a href="/community" class="btn btn-primary btn-primary-transparent border-none ga-link" data-action="Click" data-label="header_community" data-reactid=".3teu17uju.0.0.4.1.1.0:$Forum1.0">Forum</a></li><li class="hidden-sm hidden-xs" data-reactid=".3teu17uju.0.0.4.1.1.0:$Book Hotels2"><a href="/hotels" class="btn btn-primary btn-primary-transparent border-none ga-link" data-action="Click" data-label="header_book_hotels" data-reactid=".3teu17uju.0.0.4.1.1.0:$Book Hotels2.0">Book Hotels</a></li><li class="hidden-sm hidden-xs" data-reactid=".3teu17uju.0.0.4.1.1.0:$Book Holidays3"><a href="/tour-packages" class="btn btn-primary btn-primary-transparent border-none ga-link" data-action="Click" data-label="header_book_holidays" data-reactid=".3teu17uju.0.0.4.1.1.0:$Book Holidays3.0">Book Holidays</a></li><li class="hover-dropdown hidden-sm hidden-xs" data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12"><a href="/trips/create" data-action="Click" data-label="header_create_new" class="btn btn-primary btn-primary-transparent border-none   " role="button" data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.0"><span data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.0.0"><span data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.0.0.0"><span data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.0.0.0.0">Publish Trip</span><span data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.0.0.0.1">&nbsp;</span></span><span class="caret" data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.0.0.1"></span></span></a><ul class="dropdown-menu" data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.1"><div class="peak" data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.1.0"></div><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.1.1:$Create New0"><a href="/trips/create" class="ga-link" data-action="Click" data-label="header_create_new" data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.1.1:$Create New0.0">Create New</a></li><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.1.1:$Upload Photos1"><a class="ga-button" data-action="Click" data-label="upload_photos_trip" data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.1.1:$Upload Photos1.0">Upload Photos</a></li><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.1.1:$Add Videos2"><a class="ga-button" data-action="Click" data-label="add_video" data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.1.1:$Add Videos2.0">Add Videos</a></li><li data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.1.1:$Import Blog3"><a href="/travel-blog-to-itinerary" class="ga-link" data-action="Click" data-label="header_import_blog" data-reactid=".3teu17uju.0.0.4.1.1.0:$Publish Trip12.1.1:$Import Blog3.0">Import Blog</a></li></ul></li><li class="signIn hidden-sm hidden-xs pointer ga-button color-white" data-action="Click" data-label="header_signin" data-reactid=".3teu17uju.0.0.4.1.1.2">Sign In</li><li class="signIn hidden-md hidden-lg pointer clearfix margin-none background-grey padding-left-large padding-right-large padding-bottom-default" style="width:250px;left:-15px;" data-reactid=".3teu17uju.0.0.4.1.1.3"><div class="padding-top-sm padding-bottom-sm" data-reactid=".3teu17uju.0.0.4.1.1.3.0"><span class="color-blue semi-bold pointer" data-reactid=".3teu17uju.0.0.4.1.1.3.0.0"><i class="fa fa-sign-in" data-reactid=".3teu17uju.0.0.4.1.1.3.0.0.0"></i><span data-reactid=".3teu17uju.0.0.4.1.1.3.0.0.1"> Sign In</span></span></div><div class="display-table width-100" data-reactid=".3teu17uju.0.0.4.1.1.3.1"><div class="display-table-cell padding-xs" style="width:50%;" data-reactid=".3teu17uju.0.0.4.1.1.3.1.0"><button class="login-facebook_login social_facebook_login button-social button-facebook margin-none border-radius-normal" data-reactid=".3teu17uju.0.0.4.1.1.3.1.0.0"><span class="text-social text-center" data-reactid=".3teu17uju.0.0.4.1.1.3.1.0.0.1">Facebook</span></button></div><div class="display-table-cell padding-xs" style="width:50%;" data-reactid=".3teu17uju.0.0.4.1.1.3.1.1"><button class="login-google_login social_google_login button-social button-google margin-none border-radius-normal" data-reactid=".3teu17uju.0.0.4.1.1.3.1.1.0"><span class="text-social text-center" data-reactid=".3teu17uju.0.0.4.1.1.3.1.1.0.1">Google</span></button></div></div></li><li class="hidden-md hidden-lg" data-reactid=".3teu17uju.0.0.4.1.1.4"><div class="padding-xs" data-reactid=".3teu17uju.0.0.4.1.1.4.0"></div></li><li class="hidden-md hidden-lg pointer" data-reactid=".3teu17uju.0.0.4.1.1.5"><a href="/community" class="ga-link" data-label="header_community" data-action="Click" data-reactid=".3teu17uju.0.0.4.1.1.5.0">Forum</a></li><li class="hidden-md hidden-lg pointer" data-reactid=".3teu17uju.0.0.4.1.1.6"><a href="/tour-packages" class="ga-link" data-label="header_book_holidays" data-action="Click" data-reactid=".3teu17uju.0.0.4.1.1.6.0">Book Holidays</a></li><li class="hidden-md hidden-lg pointer" data-reactid=".3teu17uju.0.0.4.1.1.7"><a href="javascript:void(0);" class="ga-link" data-action="Click" data-label="header_create_new_signin" data-reactid=".3teu17uju.0.0.4.1.1.7.0"><span data-reactid=".3teu17uju.0.0.4.1.1.7.0.0">Publish Trip</span></a></li><li class="hidden-lg hidden-md" data-reactid=".3teu17uju.0.0.4.1.1.8"><a href="/travel-blog-to-itinerary" data-label="import_blog" data-action="Click" data-reactid=".3teu17uju.0.0.4.1.1.8.0">Import Blog</a></li><li class="hidden-md hidden-lg padding-left-none padding-right-none" style="left:-40px;width:275px;" data-reactid=".3teu17uju.0.0.4.1.1.a"><div class="separation" data-reactid=".3teu17uju.0.0.4.1.1.a.0"></div></li><li class="hidden-md hidden-lg pointer" data-reactid=".3teu17uju.0.0.4.1.1.b"><a href="/the-stash" class="ga-link" data-action="Click" data-label="header_trip_collections" data-reactid=".3teu17uju.0.0.4.1.1.b.0">Trip Collections</a></li><li class="hidden-md hidden-lg pointer" data-reactid=".3teu17uju.0.0.4.1.1.c"><a href="/flights" class="ga-link" data-action="Click" data-label="header_flight_collections" data-reactid=".3teu17uju.0.0.4.1.1.c.0">Flight Collections</a></li><li class="hidden-md hidden-lg pointer" data-reactid=".3teu17uju.0.0.4.1.1.d"><a href="/hotels" class="ga-link" data-action="Click" data-label="header_hotel_collections" data-reactid=".3teu17uju.0.0.4.1.1.d.0">Hotel Collections</a></li><li class="hidden-md hidden-lg pointer" data-reactid=".3teu17uju.0.0.4.1.1.e"><a href="/travel-guide" class="ga-link" data-action="Click" data-label="header_travel_guides" data-reactid=".3teu17uju.0.0.4.1.1.e.0">Travel Guides</a></li><li class="hidden-md hidden-lg padding-left-none padding-right-none" style="left:-40px;width:275px;" data-reactid=".3teu17uju.0.0.4.1.1.f"><div class="separation" data-reactid=".3teu17uju.0.0.4.1.1.f.0"></div></li></ul></div></div></div></nav></div></div>
 
 <!-- / Content starts -->
 <div id="inner-page">
-    <section id="content"><div clas="container" id="privacyPolicyMasterContainer">
+    <section id="content">
+        <div clas="container" id="privacyPolicyMasterContainer">
   <div class="row">
     <div class="col-md-12 PPCenterAlign">
       <h1>Tripoto</h1>
@@ -397,7 +421,10 @@ src="https://www.facebook.com/tr?id=850205911699903&ev=PageView&noscript=1"
 
         <li class="PPMarginTop">
           <p>Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.</p>
-        </li>               
+        </li>
+        <li class="PPMarginTop">
+            <p>We offer personalized shopping experiences and advertising through Intent Media, which uses online identifiers to identify visitors. To view Intent Media’s privacy policy, click <a href="https://intentmedia.com/privacy-policy/" rel="nofollow">here</a>. To opt out, click <a href="https://intentmedia.com/opt-out/" rel="nofollow">here</a>.</p>
+        </li>
       </ul>
     </div>
 
@@ -600,97 +627,8 @@ src="https://www.facebook.com/tr?id=850205911699903&ev=PageView&noscript=1"
     </div>                      
 
   </div>
-</div></section></div>
-<footer>
-    <!-- / DFP Interstitial Ad -->
-    <div class="tripoto-interstitial hidden position-fixed width-100 display-table" style="top: 0;z-index: 99999;background-color: rgba(0, 0, 0, 0.9);height: 100%;" onclick="this.classList.add('hidden');document.body.classList.remove('modal-open');">
-		<div class="display-table-cell text-center middle">
-			<div class="relative display-inline-block">
-			<!--<div class="display-inline-block absolute pointer color-white font-med" style="right: 0;">&cross;</div>-->
-			<div id="global-ad-interstitial"></div>
-			</div>
-		</div>
-	</div>
-	<div id="footer-top-blue">
-	</div>
-	<div class="container-fluid">
-		<div class="row">
-	    <div class="col-md-4 col-sm-12 col-xs-12" id="footer-social-block">
-				<div class="social-follow-us-label">Follow us:</div>
-				<div class="social-follow-us-btns social-icons">
-					<ul class="clearfix">
-						<li class="social_facebook">
-							<a rel="nofollow" href="http://www.facebook.com/Tripoto" target="_blank" title="Follow on Facebook"></a>
-						</li>
-						<li class="social_twitter">
-							<a rel="nofollow" href="http://twitter.com/TRIPOTO" target="_blank" title="Follow on Twitter"></a>
-						</li>
-						<li class="social_linkedin">
-							<a rel="nofollow" href="http://www.linkedin.com/company/tripoto" target="_blank" title="Follow on LinkedIn"></a>
-						</li>
-						<li class="social_googleplus">
-							<a rel="publisher" href="https://plus.google.com/+Tripoto" target="_blank" title="Follow on Google"></a>
-						</li>
-						<li class="social_pinterest">
-							<a rel="nofollow" href="http://www.pinterest.com/tripoto" target="_blank" title="Follow on Pinterest"></a>
-						</li>
-						<li class="social_rss">
-							<a href="http://www.tripoto.com/trips/latest.rss" target="_blank" title="Subscribe"></a>
-						</li>
-					</ul>
-				</div>
-	     </div>
-	      <div class="col-md-8 col-sm-12 col-xs-12 pull-right" id="footer-links">	
-						
-		      	<a href="/places-to-visit/india">India</a>
-		      	      	<a href="/blog">Blog</a>
-	      	<a href="/get-paid-to-travel-contest">Get Paid to Travel</a>
-	      	<a href="/frequently-asked-questions">FAQ</a>
-	      	<a href="/careers">Careers</a>
-	      	<a href="/advertise_with_us">Partner With Us</a>
-	      	<a href="/contacts/">Contact us</a>
-	      	<a href="/tripoto-credits">Earn Credits</a>
-	      	<a href="/privacy-policy">Privacy Policy</a>
-	      	<a href="/terms">Terms</a>
-	      	<a href="/usage-policy">Guidelines</a>
-	      	<a href="/advertising-policy">Advertising Policy</a>
-	      	<a href="/html-sitemap">Sitemap</a>
-	      	<a href="https://play.google.com/store/apps/details?id=com.tripoto&amp;referrer=utm_source%3Dtripoto%26utm_medium%3Dwebsite%26utm_term%3DpopUp">Android</a>
-	      	<a href="https://itunes.apple.com/app/tripoto/id931179037">iOS</a>
-	      </div>
-			</div>
-			<div class="row">
-				<div class="col-md-6 col-sm-12 col-xs-12 pull-right">
-					<div class="container-fluid " id="explore-links">
-	      		<div class="row">
-	      		
-					<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=City tours">City tours</a>
-			      	<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=Beach Holidays">Beach Holidays</a>
-			      	<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=Road Trips">Road Trips</a>			      	 
-			      	<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=Adventure Cycling">Adventure Cycling</a>
-	      			<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=Adventure Trips">Adventure Trips</a>     	 
-	 		    	<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=Backpacking">Backpacking</a>
-			      	<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=Trekking">Trekking</a>
-			      	<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=Wildlife Safari">Wildlife Safari</a>
-			      	<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=Budget Travel">Budget Travel</a>
-			      	<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=Weekend Getaways">Weekend Getaways</a>	      						
-	      		
-					<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=Day Trips">Day Trips</a>			      	 
-			      	<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=Historical Places">Historical Places</a>
-				   	<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=Walks">Walks</a>
-			      	<a class="col-md-4 col-sm-4 col-xs-6" href="https://www.tripoto.com/search?keywords=City Guides">City Guides</a>
-			      	<a class="col-md-4 col-sm-4 col-xs-6" href="/apply-as-expert">Become a travel expert</a>
-			      	<a class="col-md-4 col-sm-4 col-xs-6" href="/travel-guide/india">India Itineraries</a>
-        	      	<a class="col-md-4 col-sm-4 col-xs-6" href="/weekend-getaways">Weekend Getaways</a>
-        	      	<a class="col-md-4 col-sm-4 col-xs-6" href="/travel-guide">Destination</a>
-        	      	<a class="col-md-4 col-sm-4 col-xs-6" href="/spots">Spots</a>
-				
-	      	</div>
-	      </div>
-			</div>
-		</div>
-	</div>
-</footer>
+</div>    </section>
+</div>
 <!-- / Content ends -->
 
 
@@ -728,14 +666,14 @@ src="https://www.facebook.com/tr?id=850205911699903&ev=PageView&noscript=1"
                         <a href="#" id="modal_facebook_login" class="link login-facebook_login social_facebook_login socialButtons" title="Facebook">
                                <i class="fa fa-facebook socialIcon" style="color:#fff"></i>
                               <div class="buttonText">LOG IN WITH FACEBOOK</div>
-                              <img src="https://cdn1.tripoto.com/121.1/img/login/login_facebook_loader.gif" class="facebookLoader loginLoader" style="display:none">
+                              <img src="https://cdn1.tripoto.com/147.4/img/login/login_facebook_loader.gif" class="facebookLoader loginLoader" style="display:none">
                         </a>
                       </li>
                       <li>
                         <a href="/common_auth/authenticate/google?redirectUrl=/common_auth/authenticate/google" class="link login-google_login social_google_login socialButtons" title="Google">
                               <i class="fa fa-google-plus socialIcon" style="color:#d73d32"></i>
                               <div class="buttonText">LOG IN WITH GOOGLE</div>
-                              <img src="https://cdn1.tripoto.com/121.1/img/login/login_google_loader.gif" class="loginLoader googleLoader" style="display:none">
+                              <img src="https://cdn1.tripoto.com/147.4/img/login/login_google_loader.gif" class="loginLoader googleLoader" style="display:none">
                        </a>
                       </li>                         
                     </ul>
@@ -822,14 +760,14 @@ src="https://www.facebook.com/tr?id=850205911699903&ev=PageView&noscript=1"
                         <a href="#" id="modal_facebook_login" class="link login-facebook_login social_facebook_login socialButtons" title="Facebook">
                                <i class="fa fa-facebook socialIcon" style="color:#fff"></i>
                               <div class="buttonText">SIGN UP WITH FACEBOOK</div>
-                              <img src="https://cdn1.tripoto.com/121.1/img/login/login_facebook_loader.gif" class="loginLoader facebookLoader" style="display:none">
+                              <img src="https://cdn1.tripoto.com/147.4/img/login/login_facebook_loader.gif" class="loginLoader facebookLoader" style="display:none">
                         </a>
                  </li>
                  <li>
                         <a href="/common_auth/authenticate/google?redirectUrl=/common_auth/authenticate/google" class="link login-google_login social_google_login socialButtons" title="Google">
                               <i class="fa fa-google-plus socialIcon" style="color:#d73d32"></i>
                               <div class="buttonText">SIGN UP WITH GOOGLE</div>
-                              <img src="https://cdn1.tripoto.com/121.1/img/login/login_google_loader.gif" class="loginLoader googleLoader" style="display:none">
+                              <img src="https://cdn1.tripoto.com/147.4/img/login/login_google_loader.gif" class="loginLoader googleLoader" style="display:none">
                        </a>
                 </li> 
                 <li><div class="separator">OR</div></li>       
@@ -914,7 +852,7 @@ src="https://www.facebook.com/tr?id=850205911699903&ev=PageView&noscript=1"
                         <div class="margin-default">
                             <button id="fb-allow-permission" class="width-100 color-white border-none border-radius-normal" style="background-color: #3b5998;padding: 12px;">
                                 ALLOW ACCESS 
-                                <img src="https://cdn1.tripoto.com/121.1/img/login/login_facebook_loader.gif" class="loginLoader facebookLoader" style="display: none;margin-top: -12px;margin-bottom: -10px;">
+                                <img src="https://cdn1.tripoto.com/147.4/img/login/login_facebook_loader.gif" class="loginLoader facebookLoader" style="display: none;margin-top: -12px;margin-bottom: -10px;">
                             </button>
                         </div>
                         <div class="margin-default" style="margin-top: 8px;">
@@ -927,9 +865,12 @@ src="https://www.facebook.com/tr?id=850205911699903&ev=PageView&noscript=1"
     </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
 
-  <!-- for track.js implementation -->
+  
+    <div id="content-footer"><footer class="display-block" data-reactid=".ki70kfm9mi" data-react-checksum="1412669371"><div class="background-white border-top-solid-midgrey" data-reactid=".ki70kfm9mi.0"><div class=" margin-top-default clearfix" data-reactid=".ki70kfm9mi.0.0"><div data-reactid=".ki70kfm9mi.0.0.0"><div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 margin-bottom-medium " data-reactid=".ki70kfm9mi.0.0.0.0"><div class="row" data-reactid=".ki70kfm9mi.0.0.0.0.0"><div class="col-lg-12 col-md-12 col-sm-6 col-xs-6" data-reactid=".ki70kfm9mi.0.0.0.0.0.0"><div class="padding-left-default" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0"><div class="clearfix" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.0"><a class="navbar-brand ga-link" data-action="Click" data-label="footer_logo" href="/" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.0.0"><span data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.0.0.0"> </span><img src="/img/logo/header-blue.svg" alt="Tripoto" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.0.0.1"><span data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.0.0.2"> </span></a></div><div class="border-bottom-solid-midgrey  display-inline-block padding-bottom-sm " data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.1"><a href="/" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_logo" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.1.0">The Global Travel Community </a></div><ul class="list-inline padding-top-sm  nolist" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2"><li class="parent-hover" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.0"><a href="http://www.facebook.com/Tripoto" target="_blank" title="Follow on Facebook" rel="nofollow" class="ga-link" data-action="Click" data-label="footer_facebook" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.0.0"><i class="fa fa-facebook-square color-dark font-xlg color-blue-on-parent-hover" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.0.0.0"></i></a></li><li class="parent-hover" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.1"><a href="http://twitter.com/TRIPOTO" target="_blank" title="Follow on Twitter" rel="nofollow" class="ga-link" data-action="Click" data-label="footer_twitter" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.1.0"><i class="fa fa-twitter-square color-dark font-xlg color-blue-on-parent-hover" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.1.0.0"></i></a></li><li class="parent-hover" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.2"><a href="https://www.instagram.com/tripotocommunity/?hl=en" target="_blank" title="Follow on Instagram" rel="nofollow" class="ga-link" data-action="Click" data-label="footer_instagram" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.2.0"><i class="fa fa-instagram color-dark font-xlg color-blue-on-parent-hover" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.2.0.0"></i></a></li><li class="parent-hover" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.3"><a href="https://www.youtube.com/channel/UCjOXlKzzxdZG6BhKCQtWKWQ" target="_blank" title="Follow on Youtube" rel="nofollow" class="ga-link" data-action="Click" data-label="footer_youtube" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.3.0"><i class="fa fa-youtube-square color-dark font-xlg color-blue-on-parent-hover" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.3.0.0"></i></a></li><li class="parent-hover" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.4"><a href="http://www.pinterest.com/tripoto" target="_blank" title="Follow on Pinterest" rel="nofollow" class="ga-link" data-action="Click" data-label="footer_pinterest" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.4.0"><i class="fa fa-pinterest-square color-dark font-xlg color-blue-on-parent-hover" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.4.0.0"></i></a></li><li class="parent-hover" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.5"><a href="https://www.tripoto.com/trips/latest.rss" title="Subscribe" class="ga-link" data-action="Click" data-label="footer_rss" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.5.0"><i class="fa fa-rss-square color-dark font-xlg color-blue-on-parent-hover" data-reactid=".ki70kfm9mi.0.0.0.0.0.0.0.2.5.0.0"></i></a></li></ul></div></div><div class="col-lg-12 col-md-12 col-sm-3 col-sm-offset-3 col-lg-offset-0 col-md-offset-0 col-xs-6" data-reactid=".ki70kfm9mi.0.0.0.0.0.1"><div class="container-app-download" data-reactid=".ki70kfm9mi.0.0.0.0.0.1.0"><div class="display-table margin-top-default" data-reactid=".ki70kfm9mi.0.0.0.0.0.1.0.0"><a href="https://163458.measurementapi.com/serve?action=click&amp;publisher_id=163458&amp;site_id=100144" class="color-dark font-small line-height-18 text-underline ga-link" target="_blank" rel="nofollow" data-action="Click" data-label="footer_android" data-reactid=".ki70kfm9mi.0.0.0.0.0.1.0.0.0"><span class="display-table margin-none border-radius-med icons-download zoom-80 googleplay background-lightgrey-on-hover" src="https://cdn1.tripoto.com/146.2/img/sprites/app-download.svg" data-reactid=".ki70kfm9mi.0.0.0.0.0.1.0.0.0.0"></span></a><a href="https://163458.measurementapi.com/serve?action=click&amp;publisher_id=163458&amp;site_id=100142" class="color-dark font-small line-height-18 text-underline ga-link" target="_blank" rel="nofollow" data-action="Click" data-label="footer_ios" data-reactid=".ki70kfm9mi.0.0.0.0.0.1.0.0.1"><span class="display-table margin-none  border-radius-med icons-download zoom-80 appstore background-lightgrey-on-hover" src="https://cdn1.tripoto.com/146.2/img/sprites/app-download.svg" data-reactid=".ki70kfm9mi.0.0.0.0.0.1.0.0.1.0"></span></a></div></div></div></div></div><div class="col-xs-12 col-sm-12 col-md-9 col-lg-9" data-reactid=".ki70kfm9mi.0.0.0.1"><div class="row" data-reactid=".ki70kfm9mi.0.0.0.1.0"><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 padding-top-default-xs" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0"><div class="row" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0"><div class="col-xs-6 col-sm-6 col-md-6 col-lg-6" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0"><ul class="nolist padding-left-default" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0"><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.0"><div class="display-inline-block color-dark font-default semi-bold line-height-18" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.0.0">Products</div></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$0"><a href="https://www.tripoto.com/hotels" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_hotels" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$0.0">Hotels</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$1"><a href="https://www.tripoto.com/tour-packages" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_tour_packages" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$1.0">Tour Packages</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$2"><a href="https://www.tripoto.com/flights" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_flights" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$2.0">Flights</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$3"><a href="https://www.tripoto.com/community" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_tripoto_forum" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$3.0">Tripoto Forum</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$4"><a href="https://www.tripoto.com/travel-assistant" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_tripoto_ai" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$4.0">Tripoto Ai</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$5"><a href="https://www.tripoto.com/trip" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_trip_and_itineraries" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$5.0">Trips &amp; Itineraries</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$6"><a href="https://www.tripoto.com/video-trips" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_travel_videos" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$6.0">Travel Videos</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$7"><a href="https://www.tripoto.com/photo-blogs" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_photo_blogs" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$7.0">Photo Blogs</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$8"><a href="https://www.tripoto.com/travel-guide" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_travel_guides" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$8.0">Travel Guides</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$9"><a href="https://www.tripoto.com/weekend-getaways" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_weekend_getaways" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$9.0">Weekend Getaways</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$10"><a href="https://www.tripoto.com/places-to-visit" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_places_to_visit" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$10.0">Places to Visit</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$11"><a href="https://www.tripoto.com/attractions" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_attractions" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$11.0">Attractions</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$12"><a href="https://www.tripoto.com/get-paid-to-travel-contest" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_get_paid_to_travel" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$12.0">Get Paid To Travel</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$13"><a href="https://www.tripoto.com/share-travel-photos" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_import_facebook_album" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$13.0">Import Facebook Album</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$14"><a href="https://www.tripoto.com/travel-blog-to-itinerary" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_import_blog_to_itinerary" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$14.0">Import Blog To Itinerary</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$15"><a href="https://www.tripoto.com/travel-pledge" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_travel_pledge" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$0.0.1:$15.0">Travel Pledge</a></li></ul></div><div class="col-xs-6 col-sm-6 col-md-6 col-lg-6" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1"><ul class="nolist padding-left-default" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0"><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.0"><div class="display-inline-block color-dark font-default semi-bold line-height-18" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.0.0">About</div></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$0"><a href="https://www.tripoto.com/blog" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_blog" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$0.0">Blog</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$1"><a href="https://www.tripoto.com/how-it-works" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_how_it_works" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$1.0">How It Works</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$2"><a href="https://www.tripoto.com/usage-policy" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_guidelines" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$2.0">Guidelines</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$3"><a href="https://www.tripoto.com/frequently-asked-questions" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_faqs" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$3.0">FAQ’s</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$4"><a href="https://www.tripoto.com/privacy-policy" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_privacy_policy" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$4.0">Privacy Policy</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$5"><a href="https://www.tripoto.com/terms" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_terms_and_conditions" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$5.0">Terms &amp; Conditions</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$6"><a href="https://www.tripoto.com/advertising-policy" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_advertising_policy" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$6.0">Advertising Policy</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$7"><a href="https://www.tripoto.com/careers" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_careers" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$7.0">Careers</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$8"><a href="https://www.tripoto.com/html-sitemap" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_sitemap" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$8.0">Sitemap</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$9"><a href="https://www.tripoto.com/contacts" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_contact_us" data-reactid=".ki70kfm9mi.0.0.0.1.0.$0.0.$1.0.1:$9.0">Contact Us</a></li></ul></div></div></div><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 padding-top-default-xs" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1"><div class="row" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0"><div class="col-xs-6 col-sm-6 col-md-6 col-lg-6" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0"><ul class="nolist padding-left-default" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0"><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.0"><div class="display-inline-block color-dark font-default semi-bold line-height-18" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.0.0">More Links</div></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$0"><a href="https://www.tripoto.com/travel-guide/goa" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_goa" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$0.0">Goa</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$1"><a href="https://www.tripoto.com/travel-guide/kerala" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_kerala" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$1.0">Kerala</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$2"><a href="https://www.tripoto.com/travel-guide/dubai" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_dubai" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$2.0">Dubai</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$3"><a href="https://www.tripoto.com/travel-guide/singapore" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_singapore" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$3.0">Singapore</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$4"><a href="https://www.tripoto.com/explore-more" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_explore_more_travel_categories" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$4.0">Explore More Travel Categories</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$5"><a href="https://www.tripoto.com/travel-guide/dharamshala" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_dharamshala_travel_guide" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$5.0">Dharamshala Travel Guide</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$6"><a href="https://www.tripoto.com/travel-guide/rishikesh" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_rishikesh_travel_guide" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$6.0">Rishikesh Travel Guide</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$7"><a href="https://www.tripoto.com/travel-guide/rajasthan" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_rajasthan_travel_guide" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$7.0">Rajasthan Travel Guide</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$8"><a href="https://www.tripoto.com/travel-guide/manali" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_manali_travel_guide" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$8.0">Manali Travel Guide</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$9"><a href="https://www.tripoto.com/travel-guide/bali" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_bali_travel_guide" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$9.0">Bali Travel Guide</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$10"><a href="https://www.tripoto.com/places-to-visit/in-ooty" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_places_to_visit_in_ooty" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$10.0">Places To Visit in Ooty</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$11"><a href="https://www.tripoto.com/places-to-visit/in-kolkata" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_places_to_visit_in_kolkata" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$11.0">Places To Visit in Kolkata</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$12"><a href="https://www.tripoto.com/places-to-visit/in-mysore" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_places_to_visit_in_mysore" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$12.0">Places To Visit in Mysore</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$13"><a href="https://www.tripoto.com/trip/long-weekends-in-2018" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_long_weekends_in_2018" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$13.0">Long Weekends In 2018</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$14"><a href="https://www.tripoto.com/trip/25-best-honeymoon-destinations-in-india" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_honeymoon_destinations_in_india" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$14.0">Honeymoon Destinations In India</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$15"><a href="https://www.tripoto.com/honeymoon-packages" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_honeymoon_packages" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$0.0.1:$15.0">Honeymoon Packages</a></li></ul></div><div class="col-xs-6 col-sm-6 col-md-6 col-lg-6" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$1"><ul class="nolist padding-left-default" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$1.0"><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$1.0.0"><div class="display-inline-block color-dark font-default semi-bold line-height-18" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$1.0.0.0">Partner Programs</div></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$1.0.1:$0"><a href="https://www.tripoto.com/buy-travel-leads-online-with-tripoto" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_buy_travel_leads" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$1.0.1:$0.0">Buy Travel Leads</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$1.0.1:$1"><a href="https://www.tripoto.com/partner-with-us" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_partner_with_us" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$1.0.1:$1.0">Partner With Us</a></li><li data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$1.0.1:$2"><a href="https://www.tripoto.com/tripoto-credits" class="color-dark font-small line-height-18 text-underline ga-link" data-action="Click" data-label="footer_earn_credits" data-reactid=".ki70kfm9mi.0.0.0.1.0.$1.0.$1.0.1:$2.0">Earn Credits</a></li></ul></div></div></div></div></div></div></div><div class="color-dark font-small text-center clearfix" data-reactid=".ki70kfm9mi.0.1"><div class="border-top-solid-midgrey padding-top-default padding-bottom-default margin-left-large margin-right-large" data-reactid=".ki70kfm9mi.0.1.0">© All rights reserved.</div></div></div></footer></div>
 
-<script type="text/javascript">window._trackJs = {token: '863812b998d74395b242221c60b33204'};</script>
+
+<!-- for track.js implementation -->
+<script type="text/javascript">window._trackJs = {token: '54e574c748ed4814bf1e3027c4e966f3'};</script>
 <script type="text/javascript">
 
     window.staticParams.asyncScripts = [];
@@ -940,30 +881,10 @@ src="https://www.facebook.com/tr?id=850205911699903&ev=PageView&noscript=1"
 </script>
 
 
-<script type="text/javascript" src="https://cdn.tripoto.com/121.1/js/abs3.js"></script>    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
-    <script>
-        var OneSignal = window.OneSignal || [];
-        OneSignal.push(["init", {
-            appId: "2399d3c6-cacb-46fa-a2a9-0322e049ef72",
-            autoRegister: true,
-            safari_web_id: 'web.onesignal.auto.20f3ee95-6f21-4aad-a9bb-9c5899a4353a',
-            notifyButton: {
-                enable: false /* Set to false to hide */
-            },
-            welcomeNotification: {
-                disable: false,
-                title: 'Welcome to the Tripoto family!',
-                message: 'Now that you are family, share your fantastic travel adventures here and check out stories of millions of others! Get trippin!'
-            }
-        }]);
-    </script>
+<script type="text/javascript" src="https://cdn.tripoto.com/147.4/js/abs3.js"></script><script type="text/javascript" src="https://cdn.tripoto.com/147.4/js/react/node/header-colored.js"></script>    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
 
-<!--LeadSquared Tracking Code Start-->
-<script type="text/javascript" src="https://web-in21.mxradon.com/t/Tracker.js"></script>
-<script type="text/javascript">
-    pidTracker('23635');
-</script>
-<!--LeadSquared Tracking Code End-->
+
+
 
 
 <!-- DFP Ad Template Section -->
@@ -1116,6 +1037,10 @@ else{
 </script>
 <script type="text/javascript">
     </script>
+
+<!--show facebook login popup after facebook user detect by bot-->
+<!--top:-44px :: for animation-->
+<div id="fb-login-bot-popup" class="transition-all-fast width-100 position-fixed z-index-medium" style="top:-44px"></div>
 
 
 <script src="https://io.tripoto.com/socket.io/socket.io.js" type="text/javascript"></script></body></html>
