@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cmswire.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019235909id_/http%3A//www.cmswire.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmswire.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623185436id_/https%3A//www.cmswire.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Simpler Media Group (the publisher of the CMSWire.com website) also referred to as "SMG" provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of our websites, located at [www.simplermedia.com](http://www.simplermedia.com/), [www.dxsummit.com](http://www.dxsummit.com/) and [www.cmswire.com](http://www.cmswire.com/) ("Sites") or collected through our other services, including via email subscriptions and survey tools ("Services").
+Simpler Media Group (the publisher of the CMSWire.com website) also referred to as "SMG" provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of our websites, located at [www.simplermedia.com](http://www.simplermedia.com/), [www.dxsummit.com](http://www.dxsummit.com/) and [www.cmswire.com](https://www.cmswire.com/) ("Sites") or collected through our other services, including via email subscriptions and survey tools ("Services").
 
 This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on this website. You are advised to consult this Privacy Policy regularly for any changes.
 
@@ -10,7 +10,7 @@ By using our Sites and Services you are consenting to our processing of your inf
 
 ## Respecting Your Privacy
 
-We respect your privacy and dislike spam as much or more than you do. All of our email communications strive for 100% compliance with the [2003 CAN-SPAM Act](http://en.wikipedia.org/wiki/Can_Spam_Act_of_2003). We will never sell, rent, lease or give away your information (name, address, email, etc.) to any third party unless you explicitly consent to this during the process of providing this information. The exception to this practice is detailed below in the section entitled "Third Party Sponsors".
+We respect your privacy and dislike spam as much or more than you do. All of our email communications strive for 100% compliance with the [2003 CAN-SPAM Act](https://en.wikipedia.org/wiki/Can_Spam_Act_of_2003). We will never sell, rent, lease or give away your information (name, address, email, etc.) to any third party unless you explicitly consent to this during the process of providing this information. The exception to this practice is detailed below in the section entitled "Third Party Sponsors".
 
 If you sign-up for our email alerts service, then we will send you emails relating to the mailing list(s) or service(s) you joined, as well as marketing offers from our partners from time to time.
 
@@ -62,7 +62,7 @@ Our Sites and Services are targeted at a professional audience interested in inf
 
 ## Contacting Us
 
-If you have any questions about this privacy statement, the practices of Simpler Media Group, or your dealings with us, please [contact us](http://www.cmswire.com/about-us/#contact) directly. We are happy to hear from you.
+If you have any questions about this privacy statement, the practices of Simpler Media Group, or your dealings with us, please [contact us](https://www.cmswire.com/about-us/#contact) directly. We are happy to hear from you.
 
 ## Public Information
 
