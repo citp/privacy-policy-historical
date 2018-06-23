@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228182119id_/http%3A//www.hollywood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623194128id_/http%3A//www.hollywood.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hollywood.com
 
-**Updated November  2016**
+**Updated May  2018**
 
 Hollywood.com, LLC (“Hollywood.com” or “we”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Hollywood.com strives to respect and protect the privacy of individuals that visit our websites. This notice constitutes our Privacy Policy.
 
@@ -100,7 +100,7 @@ To correct, update, or remove information from our records and databases, or to 
 
 – Users may unsubscribe to the Hollywood.com newsletter via the link within it (each time it is sent), or by sending email to the above email address or U.S. mail to the below address.
 
-– Users may send mail to the following postal address: Membership Information, Hollywood.com, LLC, 100 Crosby St., Suite 404, New York, New York 10012. All requests for personal data modifications are acted upon in the ordinary course of business, and Hollywood.com reserves the right to retain backup copies of such requests.
+– Users may send mail to the following postal address: Membership Information, Hollywood.com, LLC, 135 E. 57th St., 14th Floor, New York, New York 10022. All requests for personal data modifications are acted upon in the ordinary course of business, and Hollywood.com reserves the right to retain backup copies of such requests.
 
 **California Residents**
 
@@ -108,7 +108,7 @@ It is not Hollywood.com’s practice to disclose your personal information to an
 
 Please address such requests to:
 
-California Privacy Matters, Hollywood.com, LLC, 100 Crosby St., Suite 404, New York, New York 10012
+California Privacy Matters, Hollywood.com, LLC, 135 E. 57th St., 14th Floor, New York, New York 10022
 
 **Changes to this Privacy Policy**
 
@@ -136,8 +136,8 @@ Recourse Mechanisms. If you have any complaints regarding the compliance of Holl
 
 Steven Marder  
 Hollywood.com, LLC  
-100 Crosby St., Suite 404  
-New York, NY 10012  
+135 E. 57th St., 14th Floor  
+New York, NY 10022  
 (212) 817-9105 Phone  
 [safeharbor@hollywood.com](mailto:safeharbor@hollywood.com)
 
@@ -149,7 +149,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 Privacy Matters  
 Hollywood.com, LLC  
-100 Crosby St.,Suite 404  
-New York, New York 10012
+135 E. 57th St., 14th Floor  
+New York, New York 10022
 
 or email us at [membership@hollywood.com](mailto:membership@hollywood.com)
