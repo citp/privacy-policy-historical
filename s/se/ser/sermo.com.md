@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sermo.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217073008id_/http%3A//www.sermo.com/what-is-sermo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermo.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623031557id_/http%3A//www.sermo.com/what-is-sermo/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SERMO
+
+Updated global privacy policy can be found [here](https://web.archive.org/what-is-sermo/privacy-policy-global/)
 
 Update: 19 August 2015
 
