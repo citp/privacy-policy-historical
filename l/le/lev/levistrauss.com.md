@@ -1,137 +1,129 @@
-> *The following text is extracted and transformed from the levistrauss.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231121601id_/http%3A//levistrauss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levistrauss.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623093636id_/http%3A//www.levistrauss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Levi Strauss
 
-This online Privacy Policy was last updated on  **January 29, 2014**.
+This Privacy Policy was last updated on May 25, 2018.
 
-Levi Strauss & Co. (LS&CO) is deeply committed to the relationship of trust we have with you — our consumers. For more than 155 years we have been creating authentic products by leading with our values. As we continue to innovate in how we bring our products to life online, we’ll match cutting-edge technology with your privacy interests.
+Levi Strauss & Co. (“ **LS &Co.**”) is deeply committed to the relationship of trust we have with you – our consumers. For more than 160 years we have been creating authentic products by leading with our values. As we continue to innovate in how we bring our products to life online, we’ll match cutting-edge technology with your privacy interests.
 
-**OUR PILLARS OF PRIVACY**
+We have prepared this Privacy Policy to explain how we collect, use, protect, and disclose information and data when you use the website located at http://www.levistrauss.com (the “ **Site** ”).  This Privacy Policy applies to all users of the Site.  BY USING THE SITE, YOU ARE CONSENTING TO THIS PRIVACY POLICY TO THE EXTENT ACCEPTABLE UNDER APPLICABLE LAW.  PLEASE READ IT CAREFULLY.
 
-**Transparency**
-
-We want you to know what and how information is collected when you interact with our websites.
-
-**Choice**
-
-We will offer you choices about how your information can be used by us and our trusted business partners.
-
-**Data Integrity**
-
-We will take reasonable precautions to protect information we collect about you on our websites through the use of secure technologies.
-
-**_What Information Do We Collect?_**
-
-**Personally Identifiable Information (“PII”)**
-
-****Any information that can be used to identify you is considered personally identifiable information or PII. This includes your name, physical address, e-mail, phone number, fax number, and credit card information.
-
-**Browsing Information**
-
-Information we collect about your activities on our websites through the use of technology such ascookies and web beacons is referred to as browsing information. This browsing information is linked to an anonymous IP identifier and not to you personally. If for any reason your browsing information is linked to information that can personally identify you, we’ll treat it as PII.
-
-**Information You Post**
-
-****All information that you share about yourself, whether PII or not, in a public open forum – on a social network, in user-generated content elements of our websites, etc. — will be considered public information for the purposes of this policy. If you don’t want it to be public, don’t post it.
-
-**_Who Collects Information?_**
-
-We collect information from you when you interact with our websites. We may also collect information about you from third parties. Our trusted business partners also collect information from you on our behalf in the course of helping us operate our websites and provide services of interest to you. Any reference to “we” or “us” may also refer to our trusted business partners. We also permitthird-party advertising companies to collect your browsing information as well to provide ads on our behalf that are tailored to your interests. [Click here](http://privacy.levistrauss.com/privacy/#3browseInfo) for more information on interest based ads and your choices regarding your information.
-
-When you interact with our websites information may be collected in several different ways. It may be collected in obvious, active ways, such as when you provide your name and address or other information when making a purchase in a store or online, when using the customer service chat feature, when you enter a contest or sweepstakes or if you upload a photo or product review to our site. It may also be collected passively or automatically when you visit and move around on our websites through the use of cookies and web beacons that capture your browsing information to enable us and third-party advertising companies to better tailor content and advertising to you.[Click here](http://privacy.levistrauss.com/privacy/#6defCookies) for more information about how cookies and web beacons work.
-
-In general, collection of your PII, browsing information and information you post or provide may vary across our stores and websites depending on their purpose, functionality or unique aspects.
-
-**_Use and Sharing of Collected Information_**
-
-We use information collected on our websites for four primary purposes.
-
-  * First, we use information collected to facilitate your online shopping and to offer you information and promotional material about the products and services you see on our websites.
-  * Second, we use your browsing information to help us analyze our websites, services and offerings. We consider such information analytics data.
-  * Third, your browsing and shopping information is used to provide you with interest-based advertising. .
-  * Fourth, we may use information you post in public areas to provide you with an interactive social media experience that brings aspects of your social networking community to our websites.
+  1. **Information We Collect**
 
 
 
-We may share your PII within our family of companies under common ownership; we do not share your PII with third parties for marketing purposes or other than as described in this privacy statement. Any trusted business partner receiving PII is contractually prohibited from discussing, disclosing or making any use of such PII except as directly necessary to provide us with the services for which we have contracted. We will get your consent first if at any time we would like to share your PII with other third parties for marketing purposes.
+**_Personal Information_**
 
-**Cookies**
+We collect information that identifies you or can be used to identify you, such as your name, address, phone number, mobile phone number, e-mail, payment information, and other personally identifiable information that you choose to provide us with or that you choose to include in your account (“ **Personal Information** ”).  You may be asked to provide us with Personal Information when you use any of our Services, and at other times.
 
-A “cookie” is a computer file that acts as an identification card for your computer. When you visit our sites, unique cookies are placed on your browser. The purpose of the cookie is to distinguish your browser from all other browsers that visit our sites. However, by recognizing your browser, we can serve you better. For example, the cookies allow us to hold the selections in your shopping cart when you navigate away from the order page and then return to complete the order; because of the cookie, you don’t have to start over with your shopping. We can also keep track of what pages of our website your browser visited and whether you purchased a product. That way we can measure such things as how effective our advertising campaigns have been. Working with third-party advertising companies, the use of cookies also enables us to provide you with customized banner ads that we think will be more useful than randomly-generated ads because they are based on your past purchases and page visits to our sites.
+**_Usage Data and Site Activity_**
 
-**Web Beacons**
+We automatically collect information regarding the actions you take on the Site (“ **Usage Data** ”).  For example, each time you use the Site we automatically collect the type of Web browser you use, your operating system, your Internet Service Provider, your IP address, the pages you view, and the time and duration of your visits to the Site.
 
-When you visit our ecommerce sites, web beacons will recognize specific cookies that have been placed on your browser. Web beacons can convey information that a browser with a recognized cookie has accessed a page or a certain part of a page on our website, depending on where the web beacon is located on the website. For example, a web beacon located on our purchase confirmation page will record that a browser with a recognized cookie accessed that page which means that we can conclude that the browser was used to purchase a product. The web beacon does not, however, tell us that you specifically (by reference to PII) have purchased a product because the cookie is only the browser’s identification card; it is not your personal identification card.
+**_Cookies and Anonymous Identifiers_**
 
-We use web beacons to measure the effectiveness of our advertising campaigns and to improve our websites by recognizing which pages are visited and whether those visits result in purchases. Web beacons also allow third-party advertising companies we work with to select and serve banner advertisements to your browser that you would be most likely to be interested in.
+We use cookies (a small text file placed on your computer to identify your computer and web browser) and may use other tracking technology to analyze use of and improve the Site.  Most web browsers are initially set up to accept cookies.  You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent, however, certain features of the Site or Services may not work if you delete or disable cookies.  Some of our Service Providers (defined below) may use their own cookies, or other tracking technology, in connection with the services they perform on our behalf.
 
-**Trusted Business Partners**
+We use Google Analytics on the Site to collect Usage Data.  For more information about how to opt out of having your information used by Google Analytics, visit https://tools.google.com/dlpage/gaoptout/.
 
-We work with industry-leading business partners who help us operate our websites and provide important services to our customers and visitors. Our business partners may change over time but we are committed to building relationships with third parties who are dedicated to providing you a safe and satisfying experience on our websites. Our trusted business partners are contractually obligated to collect and use any information collected from you on an LS&CO site or on behalf of LS&CO in a manner that is consistent with this privacy policy.
+  2. **How We Use Information and When We May Share and Disclose Information Generally**
 
-**Third-Party Advertising Companies**
 
-We allow certain companies to collect information from browsers of our websites to use to serve interest-based ads. These companies are usually third party ad servers, ad agencies, technology vendors or providers of sponsored content. Using cookies and web beacons, these companies collect data from a particular browser about web viewing behaviors over time and across unrelated websites and use such data to predict user preferences and to deliver advertisements to that browser which are calculated to target that browser’s predicted preferences.
 
-**Analytics Data**
+**_Use and Purpose_**
 
-Information collected through cookies and web beacons to keep track of what products you viewed and purchased and what areas or pages you viewed on our websites is called “analytics data”. We use analytics data to improve the design and content of our websites, to help us learn things like what pages are most attractive to all of our visitors and what promotions visitors like to see, and to gauge the success of our advertising campaigns.
+We will not disclose Personal Information to third parties, including for their direct marketing purposes, without your consent, except as explained in this Privacy Policy.  We may disclose to third parties, certain Usage Data regarding the Site.  However, in such cases, your Usage Data is aggregated with the Usage Data of others and does not identify you individually.
 
-**Interest-Based Advertising**
+As we are operating globally, other entities of the LS&Co. Group may have access to your personal information. We may share Personal Information and Usage Data with businesses controlling, controlled by, or under common control with our Company.  If our Company is merged, acquired, or sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer Personal Information and Usage Data in connection with such transaction.  You will have the opportunity to opt out of any such transfer if, in our discretion, it will result in the handling of your Personal Information in a way that differs materially from this Privacy Policy.
 
-Interest-based advertising has become commonplace across the Web. It is the term we use for the activity that enables us to tailor ads to your interests and activities. Either LS&CO or third-party advertising companies we work with may look at your browsing activity, such as the types of content you access, ads you click on, and searches you conduct. We can then infer certain interests you have and place ads and offer you deals that meet your needs. Our goal for interest-based advertising is to show ads to people likely to be interested in the products we offer at LS&CO. [Click Here](http://privacy.levistrauss.com/privacy/#3) to learn more about our practices with regard to interest-based ads.
+We use the information we collect about you to pursue the following purposes, which are necessary for the performance of the contract between us to provide you with the features or services you requested or which we consider in our legitimate interests:
 
-******Friend’s Store**
+  * To provide you with the Site;
+  * To enable you to sign up to use features of the Site;
+  * To send you emails related to services you are using on the Site or push notifications, including such things as job alerts;
+  * To offer you the features for which you provide information (e.g. job searches);
+  * To handle any request you may have, such as resolving a problem or question with the Site, manage any complaints or deal with any feedback you may provide us;
+  * To analyze use of and improve the Site;
+  * To better understand the way in which the Site is working, or to offer better experience on the Site to you;
+  * To help us diagnose technical and service problems and administer the Site; and
+  * To otherwise communicate with you about our Company.
 
-The Friend’s Store is a section on our levi.com website, offered in partnership with Facebook, that allows you to share the products you like with your friends and find out what they “like”. If you interact with our Friends Store or click on the Like button on our levi.com website, you will essentially be using our website and Facebook at the same time but your “Friends” experience will be governed by the privacy and other policies of Facebook.
 
-We keep your PII confidential, and we require, by contract, that each of our trusted business partners who may have access to any such PII information keep it confidential as well. Our trusted business partners, in turn, may share information with their own service providers pursuant to similar confidentiality restrictions.
 
-We will not sell, trade, or otherwise transfer any of your PII to any other outside parties without getting your consent first. “Outside parties” do not include companies owned by LS&CO or our trusted business partners who help operate and provide services on our websites.
+**_Service Providers_**
 
-Of course, to the extent we reasonably believe that a disclosure is required by law, to enforce our website policies, or to protect your or others’ rights, property or safety, we reserve the right to do so.
+From time to time, we may establish a business relationship with other businesses whom we believe trustworthy and who have confirmed that their privacy practices are consistent with ours (“ **Service Providers** ”).  For example, we may contract with Service Providers to provide certain services, such as hosting and maintenance, data storage and management, and marketing and promotions.  We only provide our Service Providers with the information necessary for them to perform these services on our behalf.  Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use, or disclosure.  Service Providers are prohibited from using Personal Information other than as specified by us.
 
-**Safeguarding Your PII**
+**_Online Tracking_**
 
-When you register at our sites, we ask you to set up a password that you can use to access your information at our sites. If you want to cancel your password or change it, or something happens to your password, click on the “Contact Us” link found in the Help/Customer Service sections of our websites.
+Our systems do not recognize browser “Do Not Track” signals, but several of our Service Providers who utilize these cookies on our Site enable you to opt out of targeted advertising practices.  To learn more about these advertising practices or to opt out of this type of advertising, you can visit www.networkadvertising.org or www.aboutads.info/choices/.  We also provide you with additional tools to opt out of marketing from us.  You can learn about this in the “Managing Your Information Preferences” section of this Privacy Policy.
 
-We use Secure Socket Layer (SSL) technology to encrypt transmissions of sensitive information from your computer to our servers. However, when you communicate with customer service via email or chat on our websites, these communications are handled via unsecured transmissions. Please be aware that information provided (such as email address, payment information, etc.) may be accessible to others. For that reason we ask that you protect yourself and not share sensitive information via these communication channels.
+**_Compliance with Laws and Law Enforcement_**
 
-**Contact Us Regarding Your Information**
+In order to comply with our legal obligations, we may also use some of your Personal Information to detect and prevent illegal uses, abuse, spam, fraud, security incidents and other harmful activity or government or court orders.
 
-If you have any questions or concerns about Levi Strauss & Co.’s Online Privacy Policy, please send an email to MBXLSAprivacy@levi.com; call us Toll-Free at 1-866-290-6064; or write to us at:
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law.  We may disclose Personal Information and any other information about you to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property, or rights of our company or of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+
+  3. **Managing Your Information Preferences**
+
+
+
+You can create an account, which is managed by our Service Providers. You can review, correct, update, or change your Personal Information or opt out of receiving certain e-mails by changing the relevant settings in your account or by e-mailing us at privacy@levi.com.  You are able to opt out of receiving marketing e-mails from us, however, you cannot opt out of receiving all e-mails from us, such as e-mails about the status of your account.  If you have questions or concerns regarding this Privacy Policy, please e-mail us at the same address.
+
+  4. **Security**
+
+
+
+We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us.  However, no data transmission over the Internet or other network can be guaranteed to be 100% secure.  As a result, while we strive to protect information transmitted on or through the Site or Services, we cannot and do not guarantee the security of any information you transmit on or through the Site or Services, and you do so at your own risk.
+
+  5. **Links**
+
+
+
+Our Site may contain links to other websites or allow others to send you such links.  A link to a third party’s website does not mean that we endorse it or that we are affiliated with it.  We do not exercise control over third-party websites.  You access such third-party websites or content at your own risk.  You should always read the privacy policy of a third-party website before providing any information to the website.
+
+  6. **Children’s Privacy**
+
+
+
+The Site are intended for users who are sixteen (16) years old or older.  We do not knowingly collect Personal Information from children under the age of sixteen (16).  If we become aware that we have inadvertently received Personal Information from a child under the age of sixteen (16), we will delete such information from our records.
+
+  7. **Processing and Transfer of Personal Information**
+
+
+
+Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country (including, for example, the United States).  The laws in the United States may not be as protective of your privacy as those in your location.  However, please rest assured that we implement appropriate legal, organizational and technical measures to protect your Personal Information.  Furthermore, in regard to the transfer of Personal Information to countries outside the European Union (“ **EU** ”), we have entered so-called “Standard Contractual Clauses” approved by the Commission of the European Union for international transfer of Personal Information to controllers or processors established in third countries as the case may be.
+
+  8. **Special Note for EU Users—Your Rights and Choices**
+
+
+
+The data controller for the Site is:
 
 Levi Strauss & Co.  
 General Counsel  
 1155 Battery Street  
-San Francisco, CA 94111
+San Francisco, CA 94111  
+United States
 
-******Online Updates to the Privacy Policy**
+You may have certain rights under EU data protection legislation with respect to your Personal Information, such as the right to:
 
-If we modify this Privacy Policy, we will post the revised Privacy Policy on this website. We also may post a notice on this website or send an email describing the changes if the policy changes in any material way. You should check this website regularly to see if any recent changes to this Privacy Policy have occurred.
+  * request access to and be provided with information on the processing of your Personal Information;
+  * request corrections of your Personal Information if such Personal Information proves inaccurate or incomplete;
+  * request your Personal Information to be deleted (i) if it is no longer necessary for the purposes described in this Privacy Policy, (ii) should you decide to withdraw your consent where you gave it, (iii) should you object to its processing for direct marketing purposes, (iv) should you identify that it would have been unlawfully processed; or (v) should we be under a legal obligation to erase it to comply with EU law or the law of an EU country and always provided we are not under a legal obligation to keep it;
+  * restrict the processing of your Personal Information (i) if you contest its accuracy; (ii) if the processing is unlawful and you oppose the erasure; (iii) if it is no longer needed for the purposes set out in this Privacy Policy but you require it for the establishment, exercise or defense of a legal claim; or (iv) if you object to profiling;
+  * object to the processing of your Personal Information for direct marketing purposes or to any processing which we would have based on our legitimate interest (e.g. profiling);
+  * receive Personal Information which you provided to us in a structured, commonly used and machine-readable format and to transmit it to another provider provided it is processed based on your consent or our contract; and
+  * lodge a complaint with your relevant data protection authority.
 
-**Your PII**
 
-With your PII — like the information you give us to fulfill an order or sign up for an online offer or contest – we will always give you the right to change or correct your information and the choice of not hearing from us again. There are several ways you can control our use of any submitted PII in connection with promotional communications.
 
-When you set up an account, or either click on “My Account” from any page or “Manage Your Account” from within the Help Desk area of one of our websites, you can access, correct or update your choices/settings.
+If you wish to exercise any of your above rights, please reach out to us by any of the ways mentioned in Section 3 (Managing Your Information Preferences).
 
-If you receive email communications from us on behalf of any of our brands and want to opt out of receiving such communications in the future from that brand, you can opt out by clicking the “Unsubscribe” link at the bottom of the promotional email or by clicking on the “Unsubscribe” button at the bottom of any of that brand’s websites.
+  9. **Privacy Policy Changes**
 
-If you have any difficulty managing your communication preferences, please email [MBXLSAprivacy@levi.com](mailto:MBXLSAprivacy@levi.com).
 
-**Your Browsing Information**
 
-We work with third-party advertising companies that may collect your browsing and shopping information in order to provide LS&CO and other advertisements of interest to you. We refer to this practice as interest-based advertising. We believe these interest-based ads are more useful to you than randomly-generated ads because they are tailored to your shopping and product interests as indicated by your browsing habits.
+We may change this Privacy Policy from time to time.  If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site.  Those changes will go into effect on the date shown in the revised Privacy Policy.  By continuing to use the Site or Services, you are consenting to the revised Privacy Policy.
 
-If you would like to learn more about interest-based advertising and see what choices you may have about how companies use your information, please go to <http://aboutads.info/choices/> or <http://www.networkadvertising.org/choices/>. We do not operate or control these sites, and are not responsible for the opt-out choices available there. The only way to fully opt-out of online tracking is to adjust your browser settings to reject cookies or to notify you when a cookie is set. Please remember, even if you opt-out of interest-based advertising on or through [http://aboutads.info](http://aboutads.info/) you may still receive ads from LS&CO, as interest-based ads are only one form of advertising.
-
-Finally, it is important to note that in most cases opting out drops an “opt-out cookie” on your browser. As a result, if you delete, block or otherwise restrict cookies or use a different computer or Internet browser, you’ll need to renew your opt-out choice.
-
-**Controlling Cookies**
-
-Because cookies and web beacons are the technology generally driving collection of browsing information, you can also block cookies to control data collection related to interest-based advertising. You can typically do so through your Internet browser. For instructions, check your browser’s technical information. Preventing your browser from accepting cookies prevents the collection of your browsing information for purposes of delivering interest-based ads. However, it may also disable or interfere with shopping features on our sites and other sites that you may visit. For example, cookies allow us to hold your shopping cart selections when you navigate away and then return to the order page. Cookies also allow us to recognize you as an account holder when you return to our sites. Most browsers accept cookies automatically. We recommend that you leave cookies “turned on” so we can offer you a better shopping experience on our sites.
-
-**Interacting with Social Media on our Websites**
-
-Social Media provides tools that many of our customers use and enjoy, and we include links to various social media platforms on our websites. If you interact with these social media tools through our websites, your experience on those social media sites will be governed by the privacy and other policies of those sites. So, the privacy settings you have chosen on those sites will determine the degree to which your information is made public. We encourage you to choose your privacy settings on those sites accordingly.
+**Please print a copy of this privacy policy for your records and PLEASE check the Site frequently for any changes.**
