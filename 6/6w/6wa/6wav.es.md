@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6wav.es privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231021317id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6wav.es privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623090313id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
 
 # Bitly | Privacy Policy
 
@@ -32,13 +32,13 @@ The information we collect is primarily used to provide the Services, to process
 
 #### Registered User Information:
 
-When you create an Account, we will collect personal information from you, such as your name and email address. If you create an Account using your login from another account, such as Facebook or Twitter, we will acess and collect the personal information about you that the account provides (which is based on your privacy settings), so that you can create your Account with us. We use your contact information to send you information about our Services. You may unsubscribe from receiving certain types of these messages through your Account settings, although Bitly reserves the right to contact you when we believe it is necessary, such as for administrative and account management purposes.
+When you create an Account, we will collect personal information from you, such as your name and email address. If you create an Account using your login from another account, such as Facebook or Twitter, we will access and collect the personal information about you that the account provides (which is based on your privacy settings), so that you can create your Account with us. We use your contact information to send you information about our Services. You may unsubscribe from receiving certain types of these messages through your Account settings, although Bitly reserves the right to contact you when we believe it is necessary, such as for administrative and account management purposes.
 
-_Note regarding children:_ We do not knowingly collect personal information from children. If we learn that we have collected personal information of a child under 13, we will take steps to delete such information from our files as soon as possible
+_Note regarding children:_ We do not knowingly collect personal information from children. If we learn that we have collected personal information of a child under 13, we will take steps to delete such information from our files as soon as possible.
 
 #### URL Information:
 
-One feature of the Services is the ability to create shortened uniform resource locators (URLs) of websites ("Bitly Links"). When you create a Bitly Link, Bitly collects and stores both the original URL and the shortened URL and, if you are logged in to your Account, we will associate that information with your Account. Bitly also collects and stores your IP address and the time and date on which you shortened the original URL and when you share the Bitly Link and information on the channels through which the Bitly Link was shared.
+One feature of the Services is the ability to create shortened uniform resource locators (URLs) of websites ("Bitly Links"). When you create a Bitly Link, Bitly collects and stores both the original URL and the shortened URL and, if you are logged in to your Account, we will associate that information with your Account. Bitly also collects and stores your IP address, the time and date on which you shortened the original URL, and when you share the Bitly Link and information on the channels through which the Bitly Link was shared.
 
 #### Metrics and Analytics:
 
@@ -69,7 +69,12 @@ Bitly and its partners use cookies or similar technologies to analyze trends, ad
   * Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit our Site and use the Services through the web.
   * Bitly cookies also allow Bitly to track when you have clicked on a Bitly Link. Each click of a Bitly Link is tracked using a unique identifier assigned to you in one or more cookies stored by your web browser and associated with Bitly. We may associate the unique identifier in our cookies with the other information we automatically collect when you use the Services, as described above, including your IP address, Bitly Links you click, Bitly Links you create, and information with your Account if you have one.
   * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. If you disable cookies, you will not be able to use some features of the Services. Bitly cookies are set to automatically expire after 6 months from when they are set.
-  * You may also ask Bitly not to place cookies on your web browser. When cookies are disabled in this manner, clicks on Bitly Links are not tied back to or associated with your web browser. However, we will still automatically collect the IP addresses of computers or mobile devices that click on or create Bitly Links.
+  * You may also ask Bitly not to place cookies on your web browser. When cookies are disabled in this manner, clicks on Bitly Links are not tied back to or associated with your web browser. However, we will still automatically collect the IP addresses of computers or mobile devices that click on or create Bitly Links. 
+
+Cookies on Bitly Links: 
+
+Cookies on Bitly.com: 
+
   * You can also manage other companies’ cookies used for online advertising here: [Consumer Choice Page](http://www.aboutads.info/choices/)
   * We partner with third parties to track utilization and behavior on our websites, display advertising on our websites, and to manage our advertising on other sites. Our third party partners may use cookies, web beacons, pixel tags or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/).
   * This Privacy Policy covers the use of cookies by Bitly only and does not cover the use of cookies by any Third Party Services. Bitly does not control when or how third parties place cookies on your computer, such as when you visit the website from a Bitly Link.
