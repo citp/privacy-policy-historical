@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blcklst.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202120610id_/https%3A//blcklst.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blcklst.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623092744id_/https%3A//blcklst.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Black List
 
@@ -20,6 +20,38 @@ Personally Identifiable Information is any information by which you can be ident
 
 Aggregate Information is anonymous data such as your IP address (i.e., a number that is assigned to your computer whenever you connect to the Internet), your domain name (e.g., "XYZ.com") and user statistics (e.g., 45% of our users live in California). Aggregate data is very much like television ratings that show the television network how many viewers are watching a particular television program. 
 
+The BLCKLST.COM collects information on our users in various ways, such as, by your voluntary submissions, participation in services provided via the website, from third parties with your consent, and through cookie, location-tracking, and other tracking technology. The BLCKLST.COM collects the following information: 
+
+###### Personal Information
+
+"Personal Information" refers to information that tells us specifically who you are, such as your name, phone number, email, postal address, occupation and/or details about the abilities and services you wish to provide and/or procure via the App and Services, your location, and possibly information relating to certain support or customer service issues. In many cases, we need this information to provide to you many of the services that you may have requested. 
+
+###### Phone Numbers and Email Addresses
+
+By providing a telephone number and/or email address to us, you expressly consent to, and authorize us or a third party on our behalf to deliver email messages, autodialed or prerecorded telemarketing calls and/or text messages to the number you provide.  You are not required to consent to these calls as a condition to purchasing any services, but withholding your consent may prevent us from providing certain services to you. This consent encompasses all future emails and autodialed or pre-recorded telemarketing calls and text messages from us or a third party placing these calls on our behalf. 
+
+###### Submissions, Reviews, Ratings, and Comments
+
+We collect information that you voluntarily provide as part of our services, including profile information, script submissions, messages, posts, comments, responses, reviews, and ratings you submit through the website, ("User Generated Content"). The BLCKLST.COM may in our sole discretion share your User Generated Content with others such as your business reviews. If you do not want certain information shared with others, you should not submit User Generated Content, or should not submit User Generated Content that contains information or Personal Information you do not want shared in this manner. Once You have submitted User Generated Content, we reserve the right to publish it in any medium to others. By your submission of User Generated Content, you expressly waive any claims against The BLCKLST.COM for infringement, including without limitation direct or contributory copyright infringement, of any of your intellectual property or other rights. 
+
+###### Aggregate Information
+
+We may collect general, non-personal, statistical information about the use of the services, such as how many visitors visit a specific page on the website, how long they stay on that page, and which hyperlinks, if any, they click on. This information represents a generic overview of our users, including their collective viewing and usage habits, and allows us and other third parties to modify information, promotions, offers and/or discounts on products and services based on user traffic and behavior. We collect this information through the use of technologies such as 'cookies' and web beacons, which are discussed in greater detail below. We collect this information in order to help enhance the website to make for a better user experience. 
+
+###### Third Party Information
+
+We may supplement information you provide to us with information from other sources, such as information to validate or update your address, payment or other demographic, occupational and/or lifestyle information. We use this information to help us maintain the accuracy of the information we collect, to enable us to fulfill our products and services, to target our communications so that we can inform you of products, services and offers that may be of interest, and for internal business analysis or other business purposes consistent with our mission. 
+
+###### Cookies
+
+The BLCKLST.COM may automatically collect non-personally identifiable information and data through the use of cookies. Cookies are small text files a website uses to recognize repeat users, facilitate the user's ongoing access to the website and facilitate the use of the website. Cookies also allow a website to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising. Generally, we use cookies to remind us of who you are, tailor our products, services and programs to suit your personal interests, estimate our audience size, track your status in our promotions, and/or analyzing your visiting patterns. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set your browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of our website may not function or may be slower if you refuse cookies. You may also get cookies from our advertisers or other third parties with links on the website as described below. We do not directly control these cookies. The use of advertising cookies sent by third party ad servers is standard in the Internet industry. 
+
+We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for services. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at www.networkadvertising.org/choices. 
+
+###### Other Tracking Technologies
+
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our services are accessed. An IP address is a number that is automatically assigned to your computer whenever you are surfing the web. Web servers, the computers that 'serve up' webpages, automatically identify your computer by its IP address. The services may also use technology called "tracer tags". These may also be referred to as "Pixels", "Clear GIFs" or "Web Beacons". This technology allows us to understand which pages you visit on our site and other ways you interact with our services. These tracer tags are used to help us to optimize and tailor our services for you and other users of our services. We may link the information we record using tracking technologies to Personal Information we collect. 
+
   
 
 
@@ -27,30 +59,63 @@ Aggregate Information is anonymous data such as your IP address (i.e., a number 
 
 We collect Aggregate Information to diagnose technical problems on our site, to help us administer the site, to help us improve the quality of the pages that make up our site, to permit us to provide data regarding the volume of use on, and frequency of visitors to, the site, to gather broad demographic information and to improve our site to assure that it is as appealing as we can make it for as many people as possible. In no event, however, is this information matched to your Personally Identifiable Information. 
 
-BLCKLST.COM also collects Personally Identifiable Information. This can be done when you choose certain products, services or programs offered on our site. For example, when you subscribe to our service, when you submit required information on the page entitled "(submission page)", you are supplying us with your Personally Identifiable Information. We use such information to try to offer you our products, services and programs, to improve the quality of the content that we provide on the site, to personalize your online experience, and to build a strong community. We may disclose your Personally Identifiable Information to (i) BLCKLST.COM’s current and future entertainment and sponsorship, advertisement and development partners and strategic alliances, and (ii) BLCKLST.COM’s contractors, vendors, consultants and professional advisors to the extent necessary for them to perform services on our behalf, and only under disclosure restrictions. Your name and any other information you choose to make available in connection with any materials posted by you to BLCKLST.COM will be published on BLCKLST.COM and will be disclosed to other users of BLCKLST.COM and to other third parties who may have access to or otherwise see a display of such information on BLCKLST.COM. We will also share your Personally Identifiable Information with companies, organizations and individuals outside of BLCKLST.COM when we have your consent to do so. Additionally, we may transfer your Personally Identifiable Information as part of the assets of BLCKLST.COM if BLCKLST.COM is, or parts of its business are, sold to, merged with or acquired by, a third party. BLCKLST.COM may also disclose your Personally Identifiable Information when required by law or court order. 
+BLCKLST.COM also collects Personally Identifiable Information. This can be done when you choose certain products, services or programs offered on our site. For example, when you subscribe to our service, when you submit required information on the page entitled "(submission page)", you are supplying us with your Personally Identifiable Information. We use such information to try to offer you our products, services and programs, to improve the quality of the content that we provide on the site, to personalize your online experience, and to build a strong community. We may disclose your Personally Identifiable Information to 
 
-Whether or not you provide such information is completely your own choice. You are not obligated to answer any question that is presented to you. Of course, if you choose not to provide the information, you might be unable to access certain services, offers and content on our site if you do not tell us your e-mail address, etc. 
+(i) BLCKLST.COM’s current and future entertainment and sponsorship, advertisement and development partners and strategic alliances, and 
+
+(ii) BLCKLST.COM’s contractors, vendors, consultants and professional advisors to the extent necessary for them to perform services on our behalf, and only under disclosure restrictions. 
+
+Your name and any other information you choose to make available in connection with any materials posted by you to BLCKLST.COM will be published on BLCKLST.COM and will be disclosed to other users of BLCKLST.COM and to other third parties who may have access to or otherwise see a display of such information on BLCKLST.COM. We will also share your Personally Identifiable Information with companies, organizations and individuals outside of BLCKLST.COM when we have your consent to do so. 
+
+Likewise, we may disclose your Personally Identifiable Information to third parties without your consent under the following conditions: 
+
+• The disclosure is necessary for the purpose for which the personal information was obtained; 
+
+• The disclosure is to financial service providers in order to fulfill and carry out the purchase and provision of goods and services requested by you; 
+
+• The disclosure is permitted by relevant law; 
+
+• The Personally Identifiable Information to be disclosed is otherwise publicly available in accordance with the applicable law; 
+
+• The disclosure is for our own marketing purposes, or, with your authorization, for the marketing purposes of third parties; 
+
+• The disclosure is combined with information collected from other companies and used to improve and personalize services, content, and advertising from us or third parties; 
+
+• The party to whom the disclosure is made controls, is controlled by, or is under common control with BLCKLST.COM; 
+
+• The disclosure is in our sole discretion necessary for the establishment or maintenance of legal claims or legal compliance, to satisfy any law, regulation, subpoena or government request, or in connection with litigation; 
+
+• The disclosure is in our sole discretion about users who we believe are engaged in illegal activities or are otherwise in violation of our Use Policy, even without a subpoena, warrant or court order; or 
+
+• The disclosure is to outside businesses to perform certain services for us, such as maintaining our App and Services, user/subscriber and/or mailing lists, processing orders and delivering products and services, sending postal mail, processing user/subscriber claims, providing marketing assistance, and data analysis ("Administrative Service Providers"), including Administrative Service Providers outside the country or jurisdiction in which you reside. 
+
+Prior to sharing of your Personally Identifiable Information with others, agreements are made between the BLCKLST.COM and such outside parties to whom we are transferring data to provide for the allowable use and security of the transferred information in accordance with this Privacy Policy and applicable law. If BLCKLST.COM becomes aware that any such outside party is improperly using or disclosing Personally Identifiable Information, it will notify that outside party and request that it take reasonable steps to cease such use or disclosure. 
+
+We may provide certain Personally Identifiable Information as a service to others for their marketing purposes. We may also disclose your name and address to service contractors or related providers (collectively, “Service Providers”) when you submit User Generated Content relating to those Service Providers. If you properly notify us that you no longer want us to share your Personal Information, we will cease sharing your Personal Information. However, except as otherwise stated in this Privacy Policy, we do not directly control the third parties to which we share such Personal Information and you will need to further notify such third parties directly if you would like them to cease use of your Personal Information. 
+
+We may also disclose aggregate visitor data in order to describe the use of our services to our existing or potential business partners or other third parties, or in response to a government request. We may also share aggregated demographic and preference data with third parties to enable the provision of targeted information, promotions, offers and/or discounts on products and services. 
+
+Additionally, we may transfer your Personally Identifiable Information as part of the assets of BLCKLST.COM if BLCKLST.COM is, or parts of its business are, sold to, merged with or acquired by, a third party. BLCKLST.COM may also disclose your Personally Identifiable Information when required by law or court order. 
+
+Whether or not you provide such information is completely your own choice. You are not obligated to answer any question that is presented to you. Of course, if you choose not to provide the information, you might be unable to access certain services, offers and content on our site, e.g., if you do not tell us your e-mail address, etc. 
 
   
 
 
 #### Deleting Information About You
 
-If you have provided Personally Identifiable Information but later you object to the use that we are making of that information (for example, you no longer wish to receive email from BLCKLST.COM) you can ask us to stop making use of that information by emailing to support@blcklst.com and requesting your name to be removed for our list. 
+If you have provided Personally Identifiable Information but later you object to the use that we are making of that information (for example, you no longer wish to receive email from BLCKLST.COM) you can ask us to stop making use of that information by emailing to DPO@blcklst.com and requesting your name to be removed from our list. 
+
+To help you review, edit, and control how we use much of the information we collect about you, you can edit your Member Profile, where you can update your Personally Identifiable Information. You cannot unsubscribe from receiving certain emails, such as profile status and related emails, unless you close your Profile and fulfill any existing contractual obligations. 
+
+You can also ask us whether we are keeping information about you; to provide you with access to any information we have about you; how your information is being used; update, correct, or delete your information, or opt-out of the collection and use of certain information by sending an email to DPO@blcklst.com specifying the nature and scope of your request. If you choose to delete your information or opt-out of the collection and use of your information, you understand that certain services may no longer be available to you, potentially including revocation of your ability to use the website and services. Please state in your correspondence the details of your request. We may require proof of your identity before we provide you with the requested information. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data erased, rectified, amended, or completed. Approved requests will be processed within thirty (30) days of the date on which we receive the request. 
 
   
 
 
 #### Protecting Children
 
-We take special care to protect the safety and privacy of children. Our site is general audience site. Nevertheless, we do not permit children under age 18 to register on our site for any product, service or program. We do not collect or solicit personal information about users under age 18. We urge parents and guardians to participate in your children's online activities and use parental control or other Internet filtering technology to supervise your children's access to the Internet. 
-
-  
-
-
-#### Cookies
-
-Our site uses "cookies." A cookie is a small amount of data that is sent to your browser from an Internet server and stored in your computer. Generally, we use cookies to remind us of who you are, tailor our products, services and programs to suit your personal interests, estimate our audience size, track your status in our promotions, and/or analyzing your visiting patterns. You can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. 
+We take special care to protect the safety and privacy of children. Our site is general audience site. Nevertheless, we do not permit children under age 18 to register on our site for any product, service or program. We do not collect or solicit personal information about users under age 18. We urge parents and guardians to participate in your children's online activities and use parental control or other Internet filtering technology to supervise your children's access to the Internet. We do not seek or knowingly collect any Personal Information about children under 18 years of age. If we become aware that we have unknowingly collected Personal Information from a child under the age of 18, we will make commercially reasonable efforts to delete such information from our database. 
 
   
 
@@ -61,12 +126,28 @@ In an effort to ensure security and protection of your Personally Identifiable I
 
 Protecting the security of your personal information that you share with us is of the utmost importance to us. Unfortunately, however, no data transmission over the Internet or data storage can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee or warrant the security of any information you transmit to or from our site, and you do so at your own risk. 
 
+The BLCKLST.COM does not store or save your credit card information. All users’ financial and payment information, such as credit card numbers and other sensitive financial data, is processed through a third-party secure vendor and is not retained by the BLCKLST.COM. 
+
+The Personally Identifiable Information you provide and we collect is stored within databases that we control directly or through our Administrative Service Providers. As we deem appropriate and as required by the applicable law, we use security measures appropriate for the sensitivity of the Personal Information and consistent with industry standards, including physical, organizational and technological protections, such as firewalls, to protect your Personally Identifiable Information. We also use industry standard encryption technology to protect credit card and password information but since the website and services incorporate third-party payment services, we cannot be responsible for the handling of credit card and/or other payment data as it relates to the use of said third-party payment service providers.  Additionally, since no security system is impenetrable, we cannot guarantee the security of our databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet or via wireless providers’ networks. Notwithstanding the foregoing, the Personally Identifiable Information that you provide as part of your Member Profile is all available to other members as a function of the services, and you therefore have no reasonable expectation of privacy in that information. 
+
+We retain Personally Identifiable Information that we collect only as long as reasonably necessary to fulfill the purposes for which it was collected or to otherwise meet any legal requirements. You agree that the BLCKLST.COM is not responsible for the re-collection or other erasure/disposal from third-party sites or Internet resources of Personally Identifiable Information that was disclosed pursuant to your use of the website and services. 
+
+Your information may be transferred to, and maintained on, computers located outside of your state, province/territory, or country where the privacy laws may not be as protective as those where you live. If you are located outside the United States and choose to provide information to us, please be aware that we transfer Personally Identifiable Information to the United States and process and store it there. As a result, this information may be subject to access requests from governments, courts, law enforcement officials and national security authorities in the United States according to its laws. Subject to the applicable laws, we will use reasonable efforts to ensure that appropriate protections are in place to maintain protections on the Personally Identifiable Information. By submitting your Personally Identifiable Information, you consent to having your personal data transferred to, processed, and stored in the United States. 
+
+The BLCKLST.COM may assign you a member ID and a password as part of your participation and access to the website and services. Your member ID and password may only be used by you and the members of your household. You may not share your member ID and password with anyone else, and you are solely responsible for maintaining and protecting the confidentiality of your member ID and password. You are fully responsible for all activities that occur under your member ID and password. You can access and update your login information on your Member profile. 
+
   
 
 
 #### Links to Third Party Sites or Products
 
-Our site contains links to sites operated and maintained by third parties as well as links to products and services provided by third parties. BLCKLST.COM has no control whatsoever over such third parties, their Internet sites or their products or services. Privacy policies for such linked sites may be different from our privacy policy. You access such linked sites or products or services at your own risk. You should always read the privacy policy for a linked site or product or service before disclosing any personal information on such site or in exchange for such product or service. 
+Our site contains links to sites operated and maintained by third parties as well as links to products and services provided by third parties. BLCKLST.COM has no control whatsoever over such third parties, their Internet sites or their products or services and is not responsible for their content, their privacy policies, or their use of Personally Identifiable Information. The BLCKLST.COM is not responsible for the quality and/or any aspects of linked third-party goods/services, or the third parties’ use of your Personally Identifiable Information. 
+
+These third party websites may be able to link certain non-personally identifiable information we transfer to them with Personally Identifiable Information they previously collected from you. Please review the privacy policies of each website you visit to better understand their privacy practices, as the privacy policies for such linked sites may be different from our privacy policy. You access such linked sites or products or services at your own risk. In addition, the BLCKLST.COM would like to inform you that anytime you click on links (including advertising banners), which take you to third party websites, you will be subject to the third parties' privacy policies. 
+
+The BLCKLST.COM’s inclusion of such links does not, by itself, imply any endorsement of the content on such sites or of their owners or operators except as disclosed on the website. Any information submitted by you directly to these third parties is subject to that third party's privacy policy. You should always read the privacy policy for a linked site or product or service before disclosing any personal information on such site or in exchange for such product or service. 
+
+While we support the protection of our users’ privacy on the Internet, BLCKLST.COM expressly disclaims any and all liability for the actions of third parties, including other Members of BLCKLST.COM, including without limitation actions relating to the use and/or disclosure of Personally Identifiable Information by third parties. 
 
   
 
@@ -80,4 +161,4 @@ If we decide to change our privacy policy in whole or in part, we will inform yo
 
 #### Effective Date of Privacy Policy
 
-The privacy policy is effective as of March 13, 2013. 
+The privacy policy is effective as of May 25, 2018. 
