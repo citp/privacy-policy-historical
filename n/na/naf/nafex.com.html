@@ -1,493 +1,1431 @@
-<!--The following is the downloaded HTML source of the nafex.com privacy policy that was archived on 2017-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170920213304id_/http%3A//www.nafex.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nafex.com privacy policy that was archived on 2018-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180623120137id_/http%3A//www.nafex.com/customer/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link rel="shortcut icon" type="image/x-icon" href="http://www.nafex.com/tools/img/common/favicon.ico">
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-        <title>Best Foreign Exchange Rates | Nafex.com</title>
-        <meta name="title" content="Best Foreign Exchange Rates | Nafex.com">
-        <meta name="description" content="Buy or Sell forex online with Nafex Bureau Private Limited, India's leading foreign money exchange platform provides best forex rates in 3 simple steps. Book online &amp; get the best rates for free.">
-        <meta name="keywords" content="Foreign Exchange, Currency Exchange, Forex, Online Foreign Exchange, Online Currency Exchange, Foreign Currency Exchange, Buy Forex, Buy Forex Online">
-        
-        <link rel="stylesheet" href="http://nafex.com/css/country.css">
-        <link rel="stylesheet" href="http://nafex.com/css/currency.css">
-        <link rel="stylesheet" href="http://nafex.com/css/currencyFlags.css">
-        <link rel="stylesheet" href="http://nafex.com/css/currency_vs_currency.css">
-        <link rel="stylesheet" href="http://nafex.com/css/footer.css">
-        <link rel="stylesheet" href="http://nafex.com/css/headInner.css">
-        <link rel="stylesheet" href="http://nafex.com/css/home.css">
-        <link rel="stylesheet" href="http://nafex.com/css/testimonial.css">
-        <script>
-            // var WEBROOT = 'http://www.nafex.com/';
-            var WEBROOT = 'http://nafex.theapptest.xyz/nafex/public/';
-        	var a = '';
-        	var onloadPG = 'index';
-        	var nbc = '';
-        	var mob = '';
-        	var tmp_mob = '';
-        	var track_page = '';
-        	var city = 'Bangalore';
-        	var DEFAULT_CITY = 'Bangalore';
-        	var DEFAULT_STAX = '100000';
-        	var mmtVal = '0';
-        </script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-        <script src="http://nafex.com/js/app.js"></script>
-        <script src="http://nafex.com/js/contact.js"></script>
-        <script src="http://nafex.com/js/autosuggest.js"></script>
-        <script src="http://nafex.com/js/Common.js"></script>
-        <script src="http://nafex.com/js/conversion_async.js"></script>
-        <script src="http://nafex.com/js/gears.js"></script>
-        <script src="http://nafex.com/js/gearsinit.js"></script>
-        <script src="http://nafex.com/js/hammer.js"></script>
-        <script src="http://nafex.com/js/homePage.js"></script>
-        <script src="http://nafex.com/js/jquery-numerator.js"></script>
-        <script src="http://nafex.com/js/jquery.toast.min.js"></script>
-        <script>
-            $(document).ready(function(){
-                $.ajax('http://nafex.com/apiv15/countries/1/cities', {
-                    type: 'GET',
-                    success: function(data) {
-                        var list = '';
-                        $.each(data.data_text, function(i, c) {
-                            // list += ` <li class="autoSuggstions transition300 txtCap" onmousedown="setData('${c.cityId}','${c.cityName}','#tf_city','#ctsug','#tf_qty','#cur1id');setAbbreviation('${c.cityName}');" id="${c.cityId}">${c.cityName}</li>`;
-                            list += " <li class=\"autoSuggstions transition300 txtCap\" onmousedown=\"setData('" + c.cityId + "','" + c.cityName + "','#tf_city','#ctsug','#tf_qty','#city_id');\" id=\"" + c.cityId + "\">" + c.cityName + "</li>";
-                        });
-                        $('#ctsug ul').append(list);
-                    },
-                    failure: function(err) {
-                        alert(err);
-                    }
-                });
-                $.ajax('http://nafex.com/apiv15/currencies', {
-                    type: 'GET',
-                    success: function(data) {
-                        var list = '';
-                        $.each(data.data_text, function(i, c) {
-                            // list += `<li class="autoSuggstions transition300 txtCap" onmousedown="setData('${c.currencyId}','${c.currencyName} - ${c.currencySymbol}','#tf_cur1','#csug', '', '#cur1id');setAbbreviation('${c.currencySymbol}');" id="${c.currencyId}">${c.currencyName} - ${c.currencySymbol}</li>`;
-                            list += "<li class=\"autoSuggstions transition300 txtCap\" onmousedown=\"setData('" + c.currencyId + "','" + c.currencyName + " - " + c.currencySymbol + "','#tf_cur1','#csug', '', '#cur1id');setAbbreviation('" + c.currencySymbol + "');\" id=\"" + c.currencyId + "\">" + c.currencyName + " - " + c.currencySymbol + "</li>";
-                        });
-                        $('#csug ul').append(list);
-                    },
-                    failure: function(err) {
-                        alert(err);
-                    }
-                });
-               $.ajax('http://nafex.com/apiv15/city/1/areas', {
-                    type: 'GET',
-                    success: function(data) {
-                        var list = '';
-                        $.each(data.data_text, function(i, c) {
-                            // list += `<li class="autoSuggstions transition300 txtCap" onmousedown="setData('${c.areaId}','${c.areaName}','#tf_area','#asug','#subdet','#areaid');" id="${c.areaId}">${c.areaName}</li>`;
-                            list += "<li class=\"autoSuggstions transition300 txtCap\" onmousedown=\"setData('" + c.areaId + "','" + c.areaName + "','#tf_area','#asug','#subdet','#areaid');\" id=\"" + c.areaId + "\">" + c.areaName + "</li>";
-                        });
-                        $('#asug ul').append(list);
-                    },
-                    failure: function(err) {
-                        alert(err);
-                    }
-                });
-                $('#tf_city').keyup(function(){
-                    var input, filter, ul, li, city, i;
-                    input = $('#tf_city');
-                    filter = input.val().toUpperCase();
-                    ul = $('#ctsug ul');
-                    li = $('#ctsug ul li');
 
-                    for(i = 0; i < li.length; i++) {
-                        city = li[i].innerHTML;
-                        if( city.toUpperCase().indexOf(filter) > -1) {
-                            $(li[i]).show();
-                        } else {
-                            $(li[i]).hide();
-                        }
-                    }
-                });
-                $('#tf_cur1').keyup(function(){
-                    var input, filter, ul, li, currency, i;
-                    input = $('#tf_cur1');
-                    filter = input.val().toUpperCase();
-                    ul = $('#csug ul');
-                    li = $('#csug ul li');
+   <!--  <meta charset="utf-8"> -->
 
-                    for(i = 0; i < li.length; i++) {
-                        currency = li[i].innerHTML;
-                        if( currency.toUpperCase().indexOf(filter) > -1) {
-                            $(li[i]).show();
-                        } else {
-                            $(li[i]).hide();
-                        }
-                    }
-                });
-                $('#tf_area').keyup(function(){
-                    var input, filter, ul, li, area, i;
-                    input = $('#tf_area');
-                    filter = input.val().toUpperCase();
-                    ul = $('#asug ul');
-                    li = $('#asug ul li');
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="csrf-token" content="<!-- {{ csrf_token() }} -->">
+    <title>Nafex - Foreign Exchange Simplified!</title>
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.nafex.com/images/favicon.ico"> 
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <!-- Bootstrap 3.3.6 -->
+    <link rel="stylesheet" href="http://www.nafex.com/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"> -->
+     <link rel="stylesheet" href="http://www.nafex.com/css/font-awesome.min.css">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet">
 
-                    for(i = 0; i < li.length; i++) {
-                        area = li[i].innerHTML;
-                        if( area.toUpperCase().indexOf(filter) > -1) {
-                            $(li[i]).show();
-                        } else {
-                            $(li[i]).hide();
-                        }
-                    }
-                });
-            });
-        </script>
-    </head>
-    <body id="body">
-        <div class="headerLogoCont">
-            <div id="headerCont" class="headerNafex fmUbuntuR transition300 hTransit">                
-                <div class="fLeft menuBtn" onclick="showSideNav(true)"></div>
-                <a href="http://nafex.com" class="fLeft" alt="Nafex.com" title="Nafex.com"><div class="nafexLogo fLeft"></div></a>
-                <div class="cityTab fLeft transition100 loginTab" onclick="showCityPop();">
-                <div class="fLeft cnm" id="tf_sel_city">Bangalore</div>
-                <div class="fLeft clocIcon"></div>
-            </div>
-            
-            <div id="cityPopup" class="citypopUp2 fmUbuntuR c666 font16 txtCenter transition300 dn cityTransit1" style="margin-left: 320px; top: 230px;">
-                <div id="citypopCont" class="fieldsopacity transition300">
-                    <div class="closeCity" onclick="hideCityPop()"></div>
-                    <div class="cityTitle fmUbuntuR font20 c666 fLeft">Select your city</div>
-                    <div class="cityInput fLeft">
-                        <div class="custAreaDiv fLeft w100"><!--Add w100 if no otp req.-->
-                            <div class="inputCont fLeft fmUbuntuR ">
-                                <input type="text" id="tf_city" name="tf_city" autocomplete="off" class="txtInput cOrange fmUbuntuR font16 areaIcon txtCap brGreen" onkeypress="return common.isAlphabetKey(event)">
-                                <label for="tf_city" class="inp-label transition100 labelActive">CITY</label>
-                                <div id="tf_city_inpText" class="inpText fRight transition300 op0">Please enter<br>your city</div>
-                                <div class="autoSuggestOuter fmUbuntuR dn" id="ctsug">
-                                    <ul>
-                                        
-                                    </ul>
-                                </div>
-                            </div>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="http://www.nafex.com/plugins/datepicker/datepicker3.css">
+    <link rel="stylesheet" href="http://www.nafex.com/plugins/daterangepicker/daterangepicker.css">
+    <link rel="stylesheet" href="http://www.nafex.com/css/jquery.toast.css">
+    <link rel="stylesheet" href="http://www.nafex.com/css/selectize.css">
+    <link rel="stylesheet" href="http://www.nafex.com/css/nafex.css">
+    <link rel="stylesheet" href="http://www.nafex.com/css/headInner.css">
+    <link rel="stylesheet" href="http://www.nafex.com/css/www-player-2x-webp-vflocaNnu.css">
+     <!-- // $$ms20180119 -->
+    <link rel="stylesheet" href="http://www.nafex.com/js/owl/owl.carousel.min.css">
+	<link rel="stylesheet" href="http://www.nafex.com/js/owl/owl.theme.default.min.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- jQuery -->
+	<script async="" src="https://embed.tawk.to/5a55f65cd7591465c7069aa5/default" charset="UTF-8" crossorigin="*"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="http://www.nafex.com/js/jquery.min.js"></script>
+	<script src="http://www.nafex.com/js/selectize.js"></script>
+    <script type="text/javascript">
+        var baseUrl = "http://www.nafex.com/";
+    </script>
+    
+    <script>
+	    var API_URL;
+	    $(document).ready(function(){
+	        API_URL = "http://www.nafex.com/";
+	    });
+	     // $$ms20180119
+	    $(document).ready(function(){
+		  $(".owl-carousel").owlCarousel({
+		    loop:true,
+		    margin:10,
+		    responsiveClass:true,
+		    autoplay:true,
+		    autoPlaySpeed: 500,
+        	autoPlayTimeout: 500,
+     		navText : ["<i class='fa fa-chevron-left pull-left' style='margin-top:-56px;margin-left:-25px;'></i>","<i class='fa fa-chevron-right pull-right' style='margin-top:-56px;margin-right:-25px;'></i>"],
+		    responsive:{
+		        0:{
+		            items:1,
+		            nav:true
+		        },
+		        600:{
+		            items:3,
+		            nav:true
+		        },
+		        1000:{
+		            items:5,
+		            nav:true,
+		            loop:true
+		        }
+		    }
+		});
+		});
+	</script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async="" defer="" src="https://www.googletagmanager.com/gtag/js?id=UA-108503212-1"> </script>
+
+	<script async="" defer="">
+		window.dataLayer = window.dataLayer || [];
+  		function gtag()
+  		{
+  			dataLayer.push(arguments);
+  		}
+		  gtag('js', new Date());
+		  gtag('config', 'UA-108503212-1');
+	</script>
+
+	<!-- Google Analytics -->
+	<script async="" defer="">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	//ga('create', 'UA-108503212-1', 'auto');
+	//ga('send', 'pageview');
+	</script>
+	<!-- End Google Analytics -->
+
+
+	<script async="" defer="">
+	    (function(h,o,t,j,a,r){
+	        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+	        h._hjSettings={hjid:749093,hjsv:6};
+	        a=o.getElementsByTagName('head')[0];
+	        r=o.createElement('script');r.async=1;
+	        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+	        a.appendChild(r);
+	    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+	</script><script async="" src="https://static.hotjar.com/c/hotjar-749093.js?sv=6"></script>
+
+    <!-- Broad Cast Settings -->
+	<script type="text/javascript">
+	    var BASE_URL = "http://www.nafex.com/";
+	    var Broadcast = {
+	                        POST : "post",
+	                        BROADCAST_URL : "https://www.nafex.com",
+	                        BROADCAST_PORT : "16001",
+	                    };
+	</script>
+
+
+	<script type="text/javascript" src="http://www.nafex.com/js/newsocket.js"></script>
+	<script type="text/javascript">var conn = new Connection2(Broadcast.BROADCAST_URL+":"+Broadcast.BROADCAST_PORT);</script>
+	<!-- Broadcast settings close -->
+    
+
+    <!-- 
+    	$$SL20180110 
+    	Facebook Pixel Code -->
+<script async="" defer="">
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1152291568135344');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1152291568135344&ev=PageView&noscript=1" alt="facebook page view script"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+<body>
+<header>
+	 <div class="topToastContainer"></div>
+	<div class="container">
+		<div class="navStrip">
+			<div class="row">
+				<!-- $$MS20180119 -->
+				<div class="col-sm-7 col-xs-12">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+					</div>
+					<a class="logo" href="http://www.nafex.com/"><img class="img-responsive" src="http://www.nafex.com/images/logo_nafex.svg" alt="Nafex"></a>
+					<ul class="pull-right list-inline visible-xs">
+						<li class="mob-set">
+								<a data-toggle="modal" data-target="#reqContact" id="">
+									<span class="fa fa-envelope"></span>
+								</a>
+						</li>
+						<li class="mob-set">
+							<a href="tel:+919111111119" id="">
+								<span class="fa fa-phone"></span>
+							</a>
+						</li>
+					</ul>
+					<style type="text/css">
+						li.mob-set a span
+						{
+							color: #ffffff;
+							cursor: pointer;
+						}
+						li.mob-set
+						{
+							text-decoration: none;
+							border: none;
+						    background: #91bf34;
+						    border-radius: 100px;
+						    padding: 4px 15px;
+						    margin-top: 9px;
+						}
+						.mob-set-login a#loginClick
+						{
+							border-bottom: none;
+							background: none;
+							padding: 0px;
+							margin-bottom: 10px;
+						}
+						a#loginClick:hover
+						{
+							color: #91BF34;
+						}
+					</style>
+					<!-- <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav navbar-left" style="display: none">
+							<li><a href="javascript:void(0);" id="fxSimply">
+								<img class="img-responsive" src="http://www.nafex.com/images/FX_Simplified.png" alt="Nafex" style="height: 36px;">
+							</a></li>
+						</ul>
+						<div class="formGroup" id="cityWrap1" style="display: none">
+	                        <select class="" name="city" id="city">
+	                            <option value=""></option>
+	                        </select>
+	                    </div> -->
+						<!-- <img src="" alt=""> -->
+					<!-- </div> -->
+				</div>
+				<div class="col-sm-5 col-xs-12 text-right">
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav navbar-right">
+								<li class="loggedIn dn">
+								<a href="javascript:void(0);" id="">Hi, <span id="loggedInUser"></span> <img src="http://www.nafex.com/images/DropdownWhite.png" alt="drop white"></a>
+								<ul>
+									<li><a href="http://www.nafex.com/customer/profile"><img src="http://www.nafex.com/images/User.png" alt="profile icon"><span>Profile</span></a></li>
+
+									<li><a id="kyc2" href="http://www.nafex.com/customer/userKyc"><img src="http://www.nafex.com/images/kycIcon.png" alt="kyc icon"><span>KYC</span></a></li>
+
+									<li><a href="http://www.nafex.com/history"><img src="http://www.nafex.com/images/historyIcon.png" alt="history icon"><span>History</span></a></li>
+									
+									<li><a href="javascript:void(0);" onclick="common.logout();"><img src="http://www.nafex.com/images/Logout.png" alt="logout icon"><span>Log Out</span></a></li>
+								</ul>
+							</li>	
+							<!-- <li><a href="javascript:void(0);" id="trackClick">
+								<span>Track Your orders</span>
+							</a></li> -->
+							<li class="notLoggedIn hidden-xs">
+									<a href="javascript:void(0);" id="loginClick">
+											<span>Partner Login</span>
+									</a>
+								</li>
+								<li class="visible-xs mob-set-login">
+									<a href="javascript:void(0);" id="loginClick-mob">
+											<span>Partner Login</span>
+									</a>
+								</li>
+							<li class="hidden-xs">
+								<!-- <button type="button" class="btn btn-default btn-sm rcb" data-toggle="modal" data-target="#reqContact" >Request Call Back</button> -->
+								<a data-toggle="modal" data-target="#reqContact" id="rcb">
+									<span>Request Call Back</span>
+								</a>
+							</li>
+							<li class="hidden-xs"><a href="tel:+919111111119" id="ccNum">
+								<span>+91 91 111 111 19</span>
+							</a></li>
+							<!-- <li class="loggedIn dn">
+								<a href="javascript:void(0);" id="">Hi, <span id="loggedInUser"></span> <img src="http://www.nafex.com/images/DropdownWhite.png" alt=""></a>
+								<ul>
+									<li><a href="http://www.nafex.com/customer/profile"><img src="http://www.nafex.com/images/User.png" alt=""><span>Profile</span></a></li>
+
+									<li><a id="kyc2" href="http://www.nafex.com/customer/userKyc"><img src="http://www.nafex.com/images/kycIcon.png" alt=""><span>KYC</span></a></li>
+
+									<li><a href="http://www.nafex.com/history"><img src="http://www.nafex.com/images/historyIcon.png" alt=""><span>History</span></a></li>
+									
+									<li><a href="javascript:void(0);" onclick="common.logout();"><img src="http://www.nafex.com/images/Logout.png" alt=""><span>Log Out</span></a></li>
+								</ul>
+							</li>
+							<li><a href="tel:+919111111119" id="ccNum">
+								<span>+91 91 111 111 19</span>
+							</a></li>
+							<li><a href="javascript:void(0);" id="fxSimply">
+								<img class="img-responsive" src="http://www.nafex.com/images/FX_Simplified.png" alt="Nafex">
+							</a></li> -->
+						</ul>
+					</div><!-- /.navbar-collapse -->
+				</div>
+				
+			</div>
+			<div id="headerForm" class="headerForm fLeft transition300 headerFormTransit">
+			    <div id="signInDiv" class="signinWrap fLeft transition300 fieldsopacity dn">
+			        <div class="text-center">
+			            <div id="sign1" class="fLeft w100 transition300">  
+			                <form id="loginForm" name="loginForm" method="post" autocomplete="false">
+			                    <!-- <div class="enqInputs">
+			                        <input type="text" id="logEmail" name="logEmail" class="txtInput" placeholder="Email or Mobile Number">
+			                    </div>
+			                    <div class="enqInputs">
+			                        <input type="password" id="logPassword" name="logPassword" class="txtInput" placeholder="Password">
+			                    </div> -->
+			                    <div class="enqInputs formGroup">
+		                            <!-- <input class="input mobInput" name="logEmail" id="logEmail" type="text" autocomplete="false" onkeypress="return isNumberKey(event)" maxlength="10" /> -->
+		                            <input class="input mobInput" name="logEmail" id="logEmail" type="text" autocomplete="false">
+		                            <label>Mobile/Email</label>
+		                            <span class="highlightMsg">Enter<br> Mobile/Email</span>
+		                            <span class="bar"></span>
+		                            <span id="loginUserNameEM"></span>
+		                        </div>
+		                        <div class="enqInputs formGroup">
+		                            <input class="input passwordInput" name="logPassword" id="logPassword" type="password" autocomplete="off">
+		                            <label>Password</label>
+		                            <span class="highlightMsg">Enter<br> your password</span>
+		                            <span class="bar"></span>
+		                            <span id="loginPassEM"></span>
+		                        </div>
+			                    <div id="signInBtn" class="enqSubmitBtn">
+			                        <span>SIGN IN</span>
+			                    </div>
+			                    <div class="enqInputs forgotTxt transition300" onclick="forgotPassword()">Forgot Password?</div>
+			                    <div class="enqInputs notMemTxt transition300">Not a member yet? <a href="" data-toggle="modal" onclick="opneModal()">Sign Up</a>
+			                    	<!-- $$MS20180216 -->
+			                    	 <div id="travelagentsup" class="enqInputs notMemTxt transition300">
+				                    	Travel Agent ?
+				                    	<a href="http://www.nafex.com/customer/agentReg"> Sign Up </a>
+				                    </div>
+
+			                    	<!-- <a href = "http://www.nafex.com/customer/agentReg"> Travel Agent Sign Up </a> -->
+			                    </div>
+			                </form>
+			                <span id="loginEM"></span>
+			            </div>
+			            <div id="sign2" class="transition300 dn fieldsopacity">
+			                <!-- <div class="enqInputs">
+			                    <input type="text" id="forgotEmail" name="forgotEmail" class="txtInput" placeholder="Email Address">
+			                </div> -->
+			                <div class="enqInputs formGroup">
+	                            <input class="input mobInput" name="forgotEmail" id="forgotEmail" type="text" autocomplete="false">
+	                            <label>Mobile/Email</label>
+	                            <span class="highlightMsg">Enter<br> Mobile/Email</span>
+	                            <span class="bar"></span>
+	                            <span id="forgotEEM"></span>
+	                        </div>
+			                <div id="resetBtn" class="enqSubmitBtn retrieve transition300">
+			                    <span>RETRIEVE</span>
+			                </div>
+			                <span id="forgotPassEM"></span>
+			            </div>
+			        </div>                                   
+			    </div>    
+			    <div id="trackDiv" class="signinWrap transition300 fieldsopacity dn">
+			        <div class="text-center">
+			            <span class="tStatus">Need the status of your enquiry?</span>
+			            <!-- <div class="enqInputs">
+			                <input type="tel" id="trMobile" name="trMobile" maxlength="10" class="txtInput" placeholder="Mobile Number" onkeypress="return isNumberKey(event)">
+			            </div> -->
+			            <div class="enqInputs formGroup">
+                            <input class="input mobInput valid" name="trNbc" id="trNbc" type="text" value="NBC">
+                            <label><!-- NBC --></label>
+                            <span class="highlightMsg">Enter<br> NBC number</span>
+                            <span class="bar"></span>
+                            <span id="nbcNumeEM"></span>
                         </div>
-                    </div>
-                    <div class="popularCities fLeft fmUbuntuR c666 font14">
-                        <div class="fmUbuntuB">Popular Cities</div>
-                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Bangalore</div>
-                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Delhi</div>
-                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Mumbai</div>
-                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Chennai</div>
-                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Hyderabad</div>
-                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Ahmedabad</div>
-                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Kolkata</div>
-                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Pune</div>
-                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Chandigarh</div>
-                    </div>
+                        <div class="enqInputs formGroup">
+                            <input class="input mobInput mobField" name="trMobile" id="trMobile" type="text" onkeypress="return isNumberKey(event)" maxlength="10">
+                            <label><!-- Mobile --></label>
+                            <span class="highlightMsg">Enter<br> mobile number</span>
+                            <span class="bar"></span>
+                            <span id="mobileTrackEM"></span>
+                        </div>
+			            <!-- <div class="enqInputs">
+			                <input type="text" id="trNbc" name="trNbc" class="txtInput" placeholder="NBC Number">
+			            </div> -->
+			            <div id="trackBtn" class="enqSubmitBtn">
+			                <span>TRACK</span>
+			            </div>
+			            <span id="trackEM"></span>
+			        </div>
+			    </div>
+			    <div id="loginCloseBtn" class="loginClose fieldsopacity" onclick="closeHeaderForm()"><i class="fa fa-times"></i></div>
+			</div>
+		</div>
+	</div>
+	<div class="navStrip" tabindex="-1">
+		<div class="container">
+			
+		</div>
+	</div>
+</header>
+
+<div class="aboutTop">
+        <div class="container">
+            <div class="row">
+                <div>
+                    <h1>PRIVACY POLICY</h1>
                 </div>
-            </div>
-            <div class="showHide">
-                <div class="hText fRight  fmUbuntuL"><span class="font14">Foreign Exchange</span><span class="font30">Simplified!</span></div>
-                <div class="hMobile fmUbuntuR fRight">+91 91 111 111 19</div>
-                <div class="hDrop fRight transition100 loginTab dn" id="loggedin_div">
-                    <div class="logggerUserr">Hi, <span id="uname">Gajanan</span></div>
-                    <ul class="logoutOptions">
-                        <li class="transition300 litr1" onclick="common.trackHistory();">History</li>
-                        <li class="transition300 litr2" onclick="common.doLogout();">Logout</li>
-                    </ul>
-                </div>                        
+                
             </div>
         </div>
-             	<div class="currencyHeader mTop0">
-            <div class="currencyHeaderCont">
-                <h2 class="fmUbuntuL m0 cFF">PRIVACY POLICY</h2>
-            </div>
-        </div> 
-        <div class="wrapper fLeft">
-            <div class=" currency_maindiv transition300">
-                <div class="currency_details_div">
-                    <div class="currency_details_left">
-                        <h2 class="currency_title fmUbuntuL">PRIVACY POLICY</h2>
-                        <div class="currency_history fmUbuntuR">
-                            <div class="fmUbuntuR">We at NAFEX.com understand the importance of your privacy. 
-                                We will never willfully disclose individually identifiable information about our customers to 
-                                any third party without first receiving your permission. You can be rest-assured that your information is safe with us. 
-                                Your visit to this Site is subject to this "Privacy Policy" and our Terms of Use, as may be amended from time to time.
-                            </div>
-                            <h2 class="currency_title fmUbuntuL">WE WILL BE COLLECTING YOUR PERSONAL DETAILS WHEN:</h2>
-                            <ul class="ppList fmUbuntuR fLeft">
-                                <li>You post a lead or respond to a lead on our website or through our customer service team - by email/ phone/ 
-                                    mobile application. The personal information collected is primarily used where it is necessary to process your
-                                    lead posted on portal, enquiry for any reasons.
-                                </li>
-                                <li>You take part in surveys or provide us with your feedback.</li>
-                                <li>Personal information may be used internally for research, analysis and auditing.</li>
-                            </ul>
-                        </div> 
-                    </div>
-                </div>
-                            </div>
-        </div>    
-        
+    </div>
+<section class="textPage polcyTxt">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 ">
+                <h2>PRIVACY POLICY</h2>
+               
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <b>Introduction</b></p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    Nafex Bureau Private Limited<span lang="en-US"> (“</span><span lang="en-US"><b>Company</b></span><span lang="en-US">”,
+                    “</span><span lang="en-US"><b>We</b></span><span lang="en-US">”,
+                    “</span><span lang="en-US"><b>Us</b></span><span lang="en-US">”
+                    and “</span><span lang="en-US"><b>Our</b></span><span lang="en-US">”)
+                    respects the privacy of its users on <a href="http://www.nafex.com">www.nafex.com</a>
+                    (“</span><span lang="en-US"><b>Website</b></span><span lang="en-US">”).
+                    For the purposes of this User Agreement, the term “</span><span lang="en-US"><b>User(s)</b></span><span lang="en-US">”
+                    and wherever the context so requires “</span><span lang="en-US"><b>You</b></span><span lang="en-US">”,
+                    “</span><span lang="en-US"><b>Your</b></span><span lang="en-US">”,
+                    “</span><span lang="en-US"><b>Yourself</b></span><span lang="en-US">”
+                    shall mean any natural or legal person who accesses or uses the
+                    Website and in the event that a natural person is representing a
+                    business entity, reference to such terms shall include a reference to
+                    the business entity.</span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">We have adopted this privacy policy (“</span><span lang="en-US"><b>Privacy
+                    Policy</b></span><span lang="en-US">”) to inform You of what
+                    information We collect from You on or through the Website, how We
+                    collect the information, how We may use it and the steps We take to
+                    protect it. Capitalized terms not defined herein shall have the
+                    meaning ascribed to them in the Terms and Conditions (“</span><span lang="en-US"><b>Agreement</b></span><span lang="en-US">”).</span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">By using the Website, You unconditionally agree to
+                    the terms and conditions of this Privacy Policy and consent to usage,
+                    storage and handling of the information submitted by You in
+                    accordance with the terms contained hereunder. If You do not agree
+                    with the terms and conditions of this Privacy Policy, please do not
+                    proceed further to use this Website.</span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US"><b>User Information</b></span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">We collect Your User Information when You
+                    successfully submit information while creating Your account or
+                    anytime thereafter. User Information is the data that can be used to
+                    uniquely identify or contact a person through Short Messaging System
+                    (“</span><span lang="en-US"><b>SMS</b></span><span lang="en-US">”)
+                    and / or Email and shall include, but not be limited to Your name,
+                    name of Your authorized representative, Your email id, and such other
+                    information that You may choose to provide. When You submit User
+                    Information on the Website, it shall be deemed that You have granted
+                    Us the right to collect, store, process, handle and use such User
+                    Information, in accordance with this Privacy Policy.</span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">In order to access the Website, You must provide
+                    Your name, name of authorized representative, Your phone number, and
+                    Your email address. During Your usage of the Website, details given
+                    by you</span><span lang="en-US"><i> </i></span><span lang="en-US">are
+                    collected and stored by Us. We identify You through the User
+                    Information including the information that You provide on the
+                    Website. It is clarified that We shall not be liable, for any reason
+                    whatsoever, for the authenticity of any User Information provided by
+                    You to Us. You hereby confirm that the User Information provided by
+                    You is and shall continue to be valid, true and accurate to the best
+                    of Your knowledge.</span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">Any of the aforesaid User Information that is
+                    directly capable of identifying You shall be hereinafter referred to
+                    as Personally Identifiable Information.</span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US"><b>Collection of routine information </b></span>
+                    </p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">Certain information may be collected each time You
+                    access or use the Website which is saved in server logs. This
+                    information includes IP address used by You to connect to the
+                    internet and operating system and browser on/from which You are
+                    accessing the Website. It is clarified that these statistics help Us
+                    in improving the efficiency of the Website by giving Us information
+                    relating to Your use of the Website. Such information may include
+                    details of Your last visit to the Website, including time, date and
+                    the duration of Your session on the Website. This information is used
+                    by Us to understand the broad demographic information for aggregate
+                    use of the Website and to improve Your user experience of the
+                    Website.</span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US"><b>Data Collection Devices</b></span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">We use data collection devices known to collect
+                    and store information of Users accessing the Website, including
+                    cookies and trackers. This helps Us in improving Your experience on
+                    the Website. This anonymous information is maintained distinctly and
+                    is not linked to the User Information You submit to Us.</span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US"><b>Use of User Information</b></span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">User Information provided by You is used by Us for
+                    the following purposes:</span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <ol>
+                        <li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">verifying Your Email address;</span></p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">facilitating Your use of the Website;</span></p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">facilitating provision of information relating to
+                        services provided by You;</span></p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">processing Your payment through the secured
+                        payment gateway;</span></p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">communicating Your data and information to the
+                        Customers;</span></p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">personalizing Your experience on the Website;&nbsp;</span></p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">communicating Your uploaded rates and charges to
+                        the Customer;</span></p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">sending You important information regarding the
+                        Website;&nbsp; </span>
+                        </p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">helping You address trouble- shooting problems;&nbsp;</span></p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">providing You with related customer service, at
+                        Our discretion;&nbsp;</span></p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">conducting internal reviews and data analysis for
+                        the Website (e.g., to determine the number of Customers utilizing
+                        services from particular User);&nbsp;</span></p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">improving the content on the Website;&nbsp;</span></p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">prevention of fraud or abuses of the Website;</span></p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">protecting the integrity of the Website; and</span></p>
+                        </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                        <span lang="en-US">to respond to judicial process and provide
+                        information to the RBI or law enforcement agencies or in connection
+                        with an investigation on matters related to public safety, as
+                        permitted by law.</span></p>
+                    </li></ol>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US"><b>Sharing of User Information</b></span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">Your User Information, except any Personally
+                    Identifiable Information/ Sensitive Personal Data or Information, may
+                    be shared with such third parties as are required for facilitating
+                    the communication of offers tailored for You and to grow Our business
+                    which may include Our affiliates, strategic partners, investors,
+                    suppliers, and service providers as the case maybe. </span>
+                    </p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">The User Information may be saved in servers in or
+                    outside India, at Our sole discretion. </span>
+                    </p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-IN">Except as provided herein, We shall specifically
+                    disclose Your User Information including Your Personally Identifiable
+                    Information/ Sensitive Personal Data or Information in circumstances
+                    where: </span>
+                    </p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <ol>
+                        <ol>
+                            <ol>
+                                <ol type="i">
+                                    <li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                                    <span lang="en-IN">You provided instructions or consent towards
+                                    such disclosure, by signing a contract, uploading any files, or
+                                    giving explicit permission to do so; </span>
+                                    </p>
+                                    </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                                    <span lang="en-IN">We in good faith believe that access, use,
+                                    preservation or disclosure of such information is reasonably
+                                    necessary to (a) satisfy any applicable law, regulation, legal
+                                    process or enforceable governmental or regulatory request; (b)
+                                    enforce the applicable Agreement or Privacy Policy; (c) detect,
+                                    prevent, or otherwise address fraud, security or technical
+                                    issues, or (d) protect against imminent harm to the rights,
+                                    property or safety of the Company, its Users or the public as
+                                    required or permitted by law; and</span></p>
+                                    </li><li><p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                                    <span lang="en-IN">The User Information that We collect may also
+                                    be transferred as an asset in connection with a merger or sale
+                                    (including any transfers made as a part of an insolvency or
+                                    bankruptcy proceeding) involving all or part of the Company or as
+                                    part of a corporate reorganization, stock sale or change of
+                                    ownership or control.</span></p>
+                                </li></ol>
+                            </ol>
+                        </ol>
+                    </ol>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US"><b>Security Precautions</b></span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">To prevent any form of unlawful interception or
+                    misuse of User Information, We use reasonable </span><span lang="en-IN">physical,
+                    electronic, and managerial procedures to safeguard and secure the
+                    User Information collected</span><span lang="en-US">. We use
+                    reasonable secure and technologically appropriate measures, in
+                    compliance with the Information Technology Act, 2000 and the rules
+                    related thereto to protect You against loss or misuse of Your User
+                    Information including </span><span lang="en-IN">internal reviews of
+                    data collection, storage and processing practices and other
+                    reasonable security measures which are equivalent to security
+                    measures that We use to protect Our own confidential information</span><span lang="en-US">.
+                    However, as You are aware, no online application or website is free
+                    of security risks and We do not make any representation in respect of
+                    the same. </span>
+                    </p>
+                    <p class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">We do not warrant that Our Website or any
+                    electronic communication made by Us or Customers or any parties,
+                    their affiliates and/or other third parties is free from virus or
+                    other harmful effects. In the event of any errors in transmission or
+                    due to an act of a third party, We shall have no liability. You
+                    explicitly agree that Your use of this Website, information and/or
+                    services is at Your own individual risk. You agree and confirm that
+                    Your User Information may be transferred, processed and stored across
+                    national and international borders. You hereby confirm that You have
+                    been made aware of the security measures undertaken by Us and You
+                    expressly consent to Us storing, handling, using Your User
+                    Information.</span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US"><b>Links to other third party sites</b></span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">The Website may provide third party information
+                    and links to other websites or applications that are not affiliates
+                    of or operated or controlled by Us including but not limited to
+                    advertisements and/or facilities that You access from the Website
+                    (“</span><span lang="en-US"><b>External Links</b></span><span lang="en-US">”).
+                    However, We are not responsible for any form of transmission,
+                    whatsoever, received by You from any External Link and accordingly do
+                    not make any representations concerning the privacy practices or
+                    other policies of the providers of such External Links or External
+                    Entities. Under no circumstances shall the Company be deemed to
+                    control or guarantee the accuracy, integrity, or quality of the
+                    information, data, text, software, sound, photographs, graphics,
+                    videos, cookies, messages or other materials available on or through
+                    such External Links. Any User Information provided by You to such
+                    External Links shall be governed in accordance with the privacy
+                    policies of such External Links and it is recommended that You review
+                    their privacy policy prior to providing any information thereto. </span>
+                    </p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US"><b>Change in Privacy Policy</b></span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">We reserve the right to update, modify and amend
+                    any of the terms of Our Privacy Policy, at any time without prior
+                    intimation to You. We will post these changes on the Website. These
+                    changes will become effective immediately on posting. We shall not be
+                    liable for any failure or negligence on Your part to review the
+                    updated Privacy Policy before accessing or using the Website. Your
+                    continued use of the Website, following changes to the Privacy
+                    Policy, will constitute Your acceptance of those changes. </span>
+                    </p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US"><b>Force Majeure </b></span>
+                    </p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-US">Notwithstanding anything contained in this Privacy
+                    Policy or elsewhere, We shall not be held responsible for any loss,
+                    damage or misuse of Your User Information, if such loss, damage or
+                    misuse is attributable to a Force Majeure Event. "</span><span lang="en-US"><b>Force
+                    Majeure Event</b></span><span lang="en-US">" shall mean any
+                    event that is beyond Our reasonable control and shall include,
+                    without limitation, sabotage, fire, flood, explosion, acts of God,
+                    civil commotion, strikes or industrial action of any kind, riots,
+                    insurrection, war, acts of government, network errors, computer
+                    hacking, technical snags, unauthorized access to computer data and
+                    storage device, breach of security and encryption and any other like
+                    event beyond Our control.</span></p>
+                    <p lang="en-US" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-IN"><b>Contacting Grievance Officer</b></span></p>
+                    <p class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <p lang="en-GB" class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <span lang="en-IN">If You have any questions about (i) this Privacy
+                    Policy; (ii) practices pertaining to the Application, or (iii) Your
+                    dealings with this Website or believe that We have not adhered to the
+                    terms of this Privacy Policy, You may contact the Grievance Officer
+                    of the Company at:</span></p>
+                    <p class="western" align="JUSTIFY" style="margin-bottom: 0in; line-height: 0.22in">
+                    <br>
+                    </p>
+                    <table width="368" cellpadding="7" cellspacing="0">
+                        <colgroup><col width="170">
+                        <col width="170">
+                        </colgroup><tbody><tr>
+                            <td width="170" style="border: none; padding: 0in">
+                                <p lang="en-GB" class="western" style="margin-top: 0.07in"><font size="3"><span lang="en-IN">Name
+                                :</span></font></p>
+                            </td>
+                            <td width="170" style="border: none; padding: 0in">
+                                <p lang="en-GB" class="western" style="margin-top: 0.07in"><font size="3"><span lang="en-IN">Kiran
+                                S</span></font></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="170" style="border: none; padding: 0in">
+                                <p lang="en-GB" class="western" style="margin-top: 0.07in"><font size="3"><span lang="en-IN">Phone
+                                :</span></font></p>
+                            </td>
+                            <td width="170" style="border: none; padding: 0in">
+                                <p lang="en-GB" class="western" style="margin-top: 0.07in"><font size="3"><span lang="en-IN">+91
+                                90660 02013</span></font></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="170" style="border: none; padding: 0in">
+                                <p lang="en-GB" class="western" style="margin-top: 0.07in"><font size="3"><span lang="en-IN">Email
+                                :</span></font></p>
+                            </td>
+                            <td width="170" style="border: none; padding: 0in">
+                                <p lang="en-GB" class="western" style="margin-top: 0.07in"><font size="3"><span lang="en-IN">kiran@nafex.com</span></font></p>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <p lang="en-GB" class="western" style="margin-bottom: 0in"><br>
+                    </p>
 
-<div id="lowerContents">
-            <div class="pageLinks">
-                <center>
-                    <a href="http://nafex.com/about-us" alt="About Us" title="About Us"><div class="lowerFooterTab transition100">ABOUT US</div></a>
-                    <a href="http://nafex.com/testimonials" alt="Testimonials" title="Testimonials"><div class="lowerFooterTab transition100">TESTIMONIALS</div></a>
-                    <a href="http://nafex.com/careers" alt="Careers" title="Careers"><div class="lowerFooterTab transition100">CAREERS</div></a>
-                    <a href="http://nafex.com/faq" alt="FAQs" title="FAQs"><div class="lowerFooterTab transition100">FAQs</div></a>
-                    <a href="http://nafex.com/privacy-policy" alt="Privacy Policy" title="Privacy Policy"><div class="lowerFooterTab transition100">PRIVACY POLICY</div></a>
-                    <a href="http://nafex.com/disclaimer" alt="Disclaimer" title="Disclaimer"><div class="lowerFooterTab transition100">DISCLAIMER</div></a>
-                    <a href="http://nafex.com/terms-conditions" alt="Terms And Conditions" title="Terms And Conditions"><div class="lowerFooterTab transition100">TERMS &amp; CONDITIONS</div></a>
-                    <a href="http://nafex.com/contact-us" alt="Contact Us" title="Contact Us"><div class="lowerFooterTab transition100">CONTACT US</div></a>
-                </center>
             </div>
-            <div class="commfooterDiv fLeft">
-                <div class="footerContainer">
-                    
-                    <!-- <div class="currency-links fLeft">
-                        <div class="footer-heading fmUbuntuL cGreen">Top  Currencies</div>
-                            <a href="http://www.nafex.com/AUD-Australian-Dollar" alt="AUD - Australian Dollar" title="AUD - Australian Dollar">
-                                <div class="curNameCont">
-                                    <div class="flag audS"></div>
-                                    <h2 class="curName transition300">AUD - Australian Dollar</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/GBP-British-Pound-Sterling" alt="GBP - British Pound Sterling" title="GBP - British Pound Sterling">
-                                <div class="curNameCont">
-                                    <div class="flag gbpS"></div>
-                                    <h2 class="curName transition300">GBP - British Pound Sterling</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/EUR-European-Euro" alt="EUR - European Euro" title="EUR - European Euro">
-                                <div class="curNameCont">
-                                    <div class="flag eurS"></div>
-                                    <h2 class="curName transition300">EUR - European Euro</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/MYR-Malaysian-Ringgit" alt="MYR - Malaysian Ringgit" title="MYR - Malaysian Ringgit">
-                                <div class="curNameCont">
-                                    <div class="flag myrS"></div>
-                                    <h2 class="curName transition300">MYR - Malaysian Ringgit</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/SGD-Singapore-Dollar" alt="SGD - Singapore Dollar" title="SGD - Singapore Dollar">
-                                <div class="curNameCont">
-                                    <div class="flag sgdS"></div>
-                                    <h2 class="curName transition300">SGD - Singapore Dollar</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/THB-Thai-Baht" alt="THB - Thai Baht" title="THB - Thai Baht">
-                                <div class="curNameCont">
-                                    <div class="flag thbS"></div>
-                                    <h2 class="curName transition300">THB - Thai Baht</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/AED-UAE-Dirham" alt="AED - UAE Dirham" title="AED - UAE Dirham">
-                                <div class="curNameCont">
-                                    <div class="flag aedS"></div>
-                                    <h2 class="curName transition300">AED - UAE Dirham</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/USD-US-Dollar" alt="USD - US Dollar" title="USD - US Dollar">
-                                <div class="curNameCont">
-                                    <div class="flag usdS"></div>
-                                    <h2 class="curName transition300">USD - US Dollar</h2>
-                                </div>
-                            </a>
-                            <div class="viewAllBtn fmUbuntuR font12 transition100"><a href="http://www.nafex.com/List-of-Currencies" alt="View List of Currencies" title="View List of Currencies">LIST ALL CURRENCIES</a></div>
-                    </div> -->
-                        <!-- <div class="city-links fLeft">
-                            <div class="footer-heading fmUbuntuL cGreen">Top Cities</div>
-                            <a href="#" alt="Bangalore" title="Bangalore">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Bangalore</h2>
-                                </div>
-                            </a>
-                            <a href="#" alt="Delhi" title="Delhi">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Delhi</h2>
-                                </div>
-                            </a>
-                            <a href="#" alt="Mumbai" title="Mumbai">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Mumbai</h2>
-                                </div>
-                            </a>
-                            <a href="#" alt="Chennai" title="Chennai">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Chennai</h2>
-                                </div>
-                            </a>
-                            <a href="#" alt="Hyderabad" title="Hyderabad">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Hyderabad</h2>
-                                </div>
-                            </a>
-                            <a href="#" alt="Ahmedabad" title="Ahmedabad">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Ahmedabad</h2>
-                                </div>
-                            </a>
-                            <a href="#" alt="Kolkata" title="Kolkata">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Kolkata</h2>
-                                </div>
-                            </a>
-                            <a href="#" alt="Pune" title="Pune">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Pune</h2>
-                                </div>
-                            </a>
-                            <a href="#" alt="Chandigarh" title="Chandigarh">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Chandigarh</h2>
-                                </div>
-                            </a>
-                            <a href="#" alt="List of Cities" title="List of Cities">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Others</h2>
-                                </div>
-                            </a>
-                            <div class="viewAllBtn fmUbuntuR font12 cFF">VIEW ALL CITIES</div>
-                            <div class="footer-heading fmUbuntuL cGreen mTop15 fLeft w100">Countries</div>
-                            <a href="http://www.nafex.com/UAE" alt="UAE" title="UAE">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">UAE</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/Thailand" alt="Thailand" title="Thailand">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Thailand</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/Hong-Kong" alt="Hong Kong" title="Hong Kong">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Hong Kong</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/Phillipines" alt="Phillipines" title="Phillipines">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Phillipines</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/Malaysia" alt="Malaysia" title="Malaysia">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Malaysia</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/Australia" alt="Australia" title="Australia">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Australia</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/New-Zealand" alt="New Zealand" title="New Zealand">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">New Zealand</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/Singapore" alt="Singapore" title="Singapore">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Singapore</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/Indonesia" alt="Indonesia" title="Indonesia">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Indonesia</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/South-Africa" alt="South Africa" title="South Africa">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">South Africa</h2>
-                                </div>
-                            </a>
-                            <a href="http://www.nafex.com/Sri-Lanka" alt="Sri Lanka" title="Sri Lanka">
-                                <div class="curNameCont">
-                                    <h2 class="curName transition300">Sri Lanka</h2>
-                                </div>
-                            </a>
+            <div class="col-sm-3" style="display: none">
+               <h2>Top Currencies</h2>
+                <ul class="topCurList" id="currenciesL"></ul>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="footerAds">
+	<div class="container text-center">
+		<div class="col-xs-12 col-md-12 col-sm-12">
+			<div class="col-xs-12 col-md-6 col-sm-6 visible-lg visible-sm visible-md " style="border-right: 1px #92BF34 solid">
+				<div class=" pull-right">
+					<img src="http://www.nafex.com/images/footerAd02.png" alt="footer ad 2">
+				</div>
+
+				<div class="pull-right">
+					<img src="http://www.nafex.com/images/footerAd01.png" alt="footer ad 1">
+				</div>
+				
+				<div class="col-xs-12 col-md-12 col-sm-12 text-right">
+					<h5>  Sponsors in 2015 </h5>
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-md-6 col-sm-6 visible-xs ">
+				<div>
+					<img src="http://www.nafex.com/images/footerAd02.png" alt="footer ad 2">
+				</div>
+
+				<div>
+					<img src="http://www.nafex.com/images/footerAd01.png" alt="footer ad 1">
+				</div>
+				
+				<div class="col-xs-12 col-md-12 col-sm-12 text-center" style="border-bottom:1px #92BF34 solid">
+					<h5>  Sponsors in 2015 </h5>
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-md-6 col-sm-6  visible-lg visible-sm visible-md  ">	
+				<div class="footAdBox pull-left">
+				   <img src="http://www.nafex.com/images/footerAd04.png" alt="footer ad 4">
+				</div>
+			</div>	
+			<div class="col-xs-12 col-md-6 col-sm-6  visible-xs ">	
+				<div class="footAdBox">
+				   <img src="http://www.nafex.com/images/footerAd04.png" alt="footer ad 4">
+				</div>
+			</div>	
+		</div>	
+	</div>
+</section>
+<section class="bottomLinks">
+	<div class="container-fluid">
+		<ul>
+			<!-- $$DS02012018 -->
+			<li><a href="http://www.nafex.com/customer/whyNafex">Why Nafex ?</a></li>
+			<li><a href="http://www.nafex.com/customer/aboutUs">About Us</a></li>
+			<li><a href="http://www.nafex.com/customer/testimonials">Testimonials</a></li>
+			<li><a href="http://www.nafex.com/customer/careers">Careers</a></li>
+			<li><a href="http://www.nafex.com/customer/faq">FAQs</a></li>
+			<li><a href="http://www.nafex.com/customer/privacyPolicy">Privacy Policy</a></li>
+			<li><a href="http://www.nafex.com/customer/disclaimer">Disclaimer</a></li>
+			<li><a href="http://www.nafex.com/customer/termsConditions">Terms &amp; Conditions</a></li>
+			<li><a href="http://www.nafex.com/customer/contactUs">Contact Us</a></li>
+			<li><a href="http://www.nafex.com/customer/bangkok">Bangkok Bonanza</a></li>
+		</ul>
+	</div>
+</section>
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="row">
+					<div class="col-sm-6 col-xs-12 liveVideo">
+						<h4>Download App</h4>
+						<a href="https://play.google.com/store/apps/details?id=com.nafex.nafex2&amp;hl=en"><img class="img-responsive" src="http://www.nafex.com/images/googlePlayIcon.png" alt="google play icon"></a>
+						<h5>Watch leading cricketer’s tell us why they use Nafex</h5>
+						<iframe width="100%" height="215" src="https://www.youtube.com/embed/IHz23sGUXic" class="txtLink" frameborder="0" allowfullscreen=""></iframe>
+					</div>
+					<div class="col-sm-6 col-xs-12">
+						<!-- <h4>Top Currencies</h4>
+						<ul class="footerCurrencies">
+							<li><a href="">
+								<img src="http://www.nafex.com/images/flags/AUD.png" alt="">
+								AUD - Australian Dollar</a>
+							</li>
+							<li><a href="">
+								<img src="http://www.nafex.com/images/flags/GBP.png" alt="">
+								GBP - British Pound Sterling</a>
+							</li>
+							<li><a href="">
+								<img src="http://www.nafex.com/images/flags/EUR.png" alt="">
+								EUR - European Euro</a>
+							</li>
+							<li><a href="">
+								<img src="http://www.nafex.com/images/flags/MYR.png" alt="">
+								MYR - Malaysian Ringgit</a>
+							</li>
+							<li><a href="">
+								<img src="http://www.nafex.com/images/flags/SGD.png" alt="">
+								SGD - Singapore Dollar</a>
+							</li>
+							<li><a href="">
+								<img src="http://www.nafex.com/images/flags/THB.png" alt="">
+								THB - Thai Baht</a>
+							</li>
+							<li><a href="">
+								<img src="http://www.nafex.com/images/flags/AED.png" alt="">
+								AED - UAE Dirham</a>
+							</li>
+							<li><a href="">
+								<img src="http://www.nafex.com/images/flags/USD.png" alt="">
+								USD - US Dollar</a>
+							</li>
+							<li><a class="viewAll" href="http://www.nafex.com/customer/listofCurrencies">List All Currencies</a></li>
+						</ul> -->
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="row">
+					<div class="col-sm-6 col-xs-12">
+						<!-- <h4 class="showCities">Top Cities</h4> -->
+						<!-- <h4><a class="showCities" href="">Top Cities</a></h4> -->
+						<!-- <div class="row">
+							<div class="col-md-6 col-sm-12 col-xs-6">
+								<ul>
+									<li><a href="">Bangalore</a></li>
+									<li><a href="">Mumbai</a></li>
+									<li><a href="">Hyderabad</a></li>
+									<li><a href="">Kolkata</a></li>
+									<li><a href="">Chandigarh</a></li>
+								</ul>
+							</div>
+							<div class="col-md-6 col-sm-12 col-xs-6">
+								<ul>
+									<li><a href="">Delhi</a></li>
+									<li><a href="">Chennai</a></li>
+									<li><a href="">Ahmadabad</a></li>
+									<li><a href="">Pune</a></li>
+									<li><a href="">Others</a></li>
+								</ul>
+							</div>
+						</div>
+						<h4 class="showCities">Countries</h4> -->
+						<!-- <h4><a class="showCities" href="">Countries</a></h4> -->
+						<!-- <div class="row">
+							<div class="col-md-6 col-sm-12 col-xs-6">
+								<ul>
+									<li><a href="">UAE</a></li>
+									<li><a href="">Hong Kong</a></li>
+									<li><a href="">Malaysia</a></li>
+									<li><a href="">New Zealand</a></li>
+									<li><a href="">Indonesia</a></li>
+								</ul>
+							</div>
+							<div class="col-md-6 col-sm-12 col-xs-6">
+								<ul>
+									<li><a href="">Thailand</a></li>
+									<li><a href="">Philippines</a></li>
+									<li><a href="">Australia</a></li>
+									<li><a href="">Singapore</a></li>
+									<li><a href="">South Africa</a></li>
+								</ul>
+							</div>
+						</div> -->
+						
+					</div>
+					<div class="col-sm-6 col-xs-12">
+						<h4>Contact Us</h4>
+						<ul>
+							<li>Call: <a href="tel:+919111111119">+91 91 111 111 19</a></li>
+							<li>Mail: <a href="mailto:info@nafex.com">info@nafex.com</a></li>
+						</ul>
+						<h4>Find Us On</h4>
+						<ul class="socialF">
+							<li><a href="https://twitter.com/nafexbureau" target="_blank">
+								<img src="http://www.nafex.com/images/footerTwitter.png" alt="twitter icon">
+								Follow@nafexbureau
+							</a></li>
+							<!-- https://www.facebook.com/nafexbureau -->
+							<li><a href="https://www.facebook.com/nafexforex" target="_blank">
+								<img src="http://www.nafex.com/images/footerFacebook.png" alt="facebook icon">
+								Like us on Facebook.com
+							</a></li>
+							<li><a href="https://www.linkedin.com/company/3690902/" target="_blank">
+								<img src="http://www.nafex.com/images/footerLinkedin.png" alt="">
+								Follow us on Linkedin
+							</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footerBottomStrip">
+		<div class="container text-center">© 2014-17. Nafex.com. All Rights Reserved. <!-- <a href="http://www.nafex.com/privacy-policy">Privacy</a> / <a href="http://www.nafex.com/terms-conditions">Terms</a> --></div>
+	</div>
+</footer>
+
+<!-- Modal -->
+<div class="modal fade-scale" id="selectCity" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" onclick="closeModal();"><span aria-hidden="true">×</span></button>
+				<h4 class="modal-title text-center">Select your city</h4>
+			</div>
+			<div class="modal-body">
+				<div class="citySelect"></div>
+				<div class="popularCities">
+                    <h3>Popular Cities</h3>
+                    <div class="popCity" onclick="setCity(this, 0);">Bengaluru</div>
+                    <div class="popCity" onclick="setCity(this, 0);">Delhi</div>
+                    <div class="popCity" onclick="setCity(this, 0);">Mumbai</div>
+                    <div class="popCity" onclick="setCity(this, 0);">Chennai</div>
+                    <div class="popCity" onclick="setCity(this, 0);">Hyderabad</div>
+                    <div class="popCity" onclick="setCity(this, 0);">Ahmadabad</div>
+                    <div class="popCity" onclick="setCity(this, 0);">Kolkata</div>
+                    <div class="popCity" onclick="setCity(this, 0);">Pune</div>
+                    <div class="popCity" onclick="setCity(this, 0);">Chandigarh</div>
+                </div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<!-- Sign Up Modal -->
+<div class="modal fade-scale contactDetails" id="signUpPop" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" onclick="closeModal();"><span aria-hidden="true">×</span></button>
+				<h4 class="modal-title text-center">Sign Up</h4>
+			</div>
+			<div class="modal-body">
+				<div class="signUpForm">
+					<div class="signUpFormField">
+						<div class="form-group formGroup plainGroup">
+		                    <input class="input" name="userName1" id="userName1" type="text">
+		                    <label>Name: <span>*</span></label>
+		                    <span id="userNameEM"></span>
+		                </div>
+					</div><div class="clearfix"></div>
+					<div class="signUpFormField">
+						<div class="form-group formGroup plainGroup">
+		                    <input class="input" name="mobile1" id="mobile1" type="text" onkeypress="return isNumberKey(event)" maxlength="10">
+		                    <label>Mobile: <span>*</span></label>
+		                    <span id="mobileEM"></span>
+		                </div>
+					</div><div class="clearfix"></div>					
+					<div class="signUpFormField">
+						<div class="form-group formGroup plainGroup">
+		                    <input class="input" name="email1" id="email1" type="text">
+		                    <label>Email: </label>
+		                    <span id="emailEM"></span>
+		                </div>
+					</div><div class="clearfix"></div>
+					<div class="signUpFormField">
+						<div class="form-group formGroup plainGroup">
+		                    <input class="input" name="password" id="password" type="password">
+		                    <label>Password: <span>*</span></label>
+		                    <span id="passwordEM"></span>
+		                </div>
+					</div><div class="clearfix"></div>
+					<div class="text-center">
+						<button class="btn btn-primary" id="register">Submit</button>
+					</div>
+					<p>If you are a money changer, please contact our customer care to sign up to the system.</p>
+					<div class="clearfix"></div>
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<div>
+							<div class="col-xs-8 col-md-8 col-sm-8 col-lg-8"><h5 class="Green">Contact Us</h5></div><div class="col-xs-4 col-md-4 col-sm-4 col-lg-4 pull-right"><h5 class="Green lpadding3">Email</h5></div>
+						</div>
+						<div class="clearfix"></div>
+						<div>
+							<div class="col-xs-10 col-md-10 col-sm-10 col-lg-10 lpadding10"><div class="pull-left"><h6>+91 91 111 111 19</h6></div><div class="pull-right col-xs-2 col-md-2 col-sm-2 col-lg-2"><h6><a href="mailto:Partners@nafex.com">Partners@nafex.com</a>
+							<a href="mailto:info@nafex.com">info@nafex.com</a></h6></div></div>
+						</div>
+					</div><div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- OTP Sending Modal -->
+<div class="modal fade-scale" id="signUpOTP" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" onclick="closeModal();"><span aria-hidden="true">×</span></button>
+				<h4 class="modal-title text-center">OTP Verification</h4>
+			</div>
+			<div class="modal-body">
+				<div class="signUpForm">
+					
+					<div class="signUpFormField">
+						<div class="form-group formGroup plainGroup">
+		                    <input class="input" name="otp1" id="otp_verify" type="text" onkeypress="return isNumberKey(event)" maxlength="6">
+		                    <label>OTP: <span>*</span></label>
+		                    <span id="otpEM"></span>
+		                </div>
+					</div>					
+					
+					<div class="text-center" style="margin-top: 20px;">
+						<button class="btn btn-primary" id="verifyOTP">Submit</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- New Modal emailverificationpopup -->
+<div class="modal fade-scale emailverification" id="emailPop" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" onclick="closeModal();"><span aria-hidden="true">×</span></button>
+				<h4 class="modal-title text-center"><span>Thank you <span id="emailUVN" class="fontGreen"></span> , your account is verified successfully!</span></h4>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- New Modal emailverificationpopup -->
+<div class="modal fade-scale emailverification" id="alertMessagePopup" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header txtCenter">
+				<button type="button" class="close" onclick="closeModal();"><span aria-hidden="true">×</span></button>
+				<h4 class="modal-title text-center "><span class="btnblack">Unfortunately, no bid options came during five minutes. Nafex call centre team will contact you soon with options or you can call us on +91 9111111119.</span></h4>
+				<button type="button" class="btn btn-success marTop10" onclick="closeModal();">OK</button>		
+			</div>
+		</div>
+	</div>
+</div>
+<!---->
+
+<!-- New Modal Request Message-->
+<div class="modal fade-scale emailverification" id="alertMsgReq" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header txtCenter">
+				<button type="button" class="close" onclick="closeModalMsg();"><span aria-hidden="true">×</span></button>
+				<h4 class="modal-title text-center "><span id="reqMsgSucc" class="btnblack"></span></h4>
+				<button type="button" class="btn btn-success marTop10" onclick="closeModalMsg();">OK</button>		
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Modal popup for request contact -->
+<!-- Modal -->
+<div id="reqContact" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">×</button>
+        <h4 class="modal-title">Request a call back</h4>
+      </div>
+      <div class="modal-body">
+                        <div class="txtRgt title1">Do share your details - we'll call you at the earliest</div>
+                       <!--  <div class="txtRgt title2">Just fill out these details, and we'll get in touch with you asap
                         </div> -->
-                        <div class="footer-links fLeft cFF fmUbuntuR font14 footerRight">
-                            <div class="footer-heading fmUbuntuL cGreen">Contact Us</div>
-                                 <a href="tel:+919111111119" class="cFF" alt="Call us at +919111111119" title="Call us at +919111111119"><div class="fmUbuntuR font18">+91 91 111 111 19</div></a>
-                                <a href="mailto:info@nafex.com" class="cFF" target="_blank" alt="Email us at info@nafex.com" title="Email us at info@nafex.com"><div class="fmUbuntuR font18 mTop15">info@nafex.com</div></a>
-                                <div class="footer-heading fmUbuntuL cGreen mTop25">Find us on</div>
-                                <a href="https://twitter.com/nafexbureau" rel="nofollow" target="_blank" class="cFF " alt="Follow us @nafexbureau" title="Follow us @nafexbureau"><div class="socialCommon iconTwitter transition300 ripplelink poR">Follow@nafexbureau</div></a>
-                                <a href="https://www.facebook.com/nafexbureau" rel="nofollow" target="_blank" class="cFF" alt="Like us on facebook.com" title="Like us on facebook.com"><div class="socialCommon iconFacebook transition300 ripplelink poR">Like us on facebook.com</div></a>
-                                <a href="http://www.linkedin.com/company/nafex-com" rel="nofollow" target="_blank" class="cFF" alt="Follow us on Linkedin" title="Follow us on Linkedin"><div class="socialCommon iconLinkedin transition300 ripplelink poR">Follow us on Linkedin</div></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="crLinks fmUbuntuR">
-                    Copyrights 2014-15. <strong>Nafex.com</strong> All Rights Reserved. <a href="http://nafex.com/privacy-policy" alt="Privacy Policy" title="Privacy Policy">Privacy</a> | <a href="http://nafex.com/terms-conditions" alt="Terms And Conditions" title="Terms And Conditions">Terms</a>
-                    </div>
+                        <form>
 
-                        <input type="hidden" id="areaid" value="">
-                        <input type="hidden" id="cur1id" value="">
-                        <input type="hidden" id="cur2id" value="38">
-                        <input type="hidden" id="mul_nbc" value="">
-                    </div>        
-                    <div id="leftMenu" class="leftMenuCont fLeft fmUbuntuR font14 c666 transition300 transit-100X">
-                        <div class="openSpace fLeft fmUbuntuL cFF">
-                            <div class="font18">Foreign Exchange</div>
-                            <div class="font34">Simplified!</div>
-                    </div>
-                    <!-- <div class='mbMenuTab fLeft' onclick="openMDivs('mLoginDiv')">LOGIN / SIGN UP</div> -->
-                    <div class="mbMenuTab fLeft ripplelink poR" id="moblog_div" onclick="openMDivs('mLoginDiv')">LOGIN / SIGN UP</div>
-                    <div class="mbMenuTab fLeft dn" id="mobloggedin_div">
-                        <div class="mbUserName fLeft cOrange">Hi, <span id="mobuname"></span> </div>
-                        <div class="resendOtp fmUbuntuB fRight ripplelink poR" onclick="common.doLogout();">LOGOUT</div>
-                    </div>
-                    <div class="mbMenuTab fLeft ripplelink poR dn" id="mobhistory_div" onclick="common.trackHistory();">HISTORY</div>
-                    <div class="mbMenuTab fLeft ripplelink poR" id="mobtrack_div" onclick="openMDivs('mTrackDiv')">TRACK YOUR ORDER</div>
-                    <div class="socialBox fLeft ripplelink poR">   
-                        <center>
-                            <a href="tel:+91 9111111119" class="" alt="Call us at +919111111119" title="Call us at +919111111119"><div class="callNafex actionMb"></div></a>
-                            <a href="mailto:info@nafex.com" target="_blank" class="" alt="Email us at info@nafex.com" title="Email us at info@nafex.com"><div class="emailNafex actionMb"></div></a>        
-                        </center>
-                    </div>
+<div class="form-group formGroup">
+<input type="text" class="input userInput" required="" id="namec" name="name" autocomplete="off" onkeypress="return common.isAlphabetKey(event)">
+         <label for="name">NAME</label>
+                                <span class="highlightMsg">Please enter your<br> full name</span>
+                            </div>
+
+<div class="form-group formGroup">
+<input class="input mobInput" type="tel" id="mobileNumberc" name="mobile_number" autocomplete="off" required="" maxlength="10" onkeypress="return common.isNumberKey(event);">
+                                <label for="mobile_number">MOBILE</label>
+                                <span class="highlightMsg">Please enter your<br> mobile number</span>
+                            </div>
+
+                            <div class="form-group formGroup">
+        <input class="input emailInput" required="" name="email" id="emailc" type="email">
+                <label for="email">EMAIL</label>
+                <span class="highlightMsg">Please enter your<br> email address</span>
                 </div>
-                <div id="dragTarget" class="drag-target" style="touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); left: 0px; user-select: none;"></div>
-                        <div id="popOver" class="popOverlay dn"></div>
-                        <div id="popDiv" class="popUp fmUbuntuR c666 font16 txtCenter transition300 fieldsopacity dn">
-                            <div>
-                                <div class="txtCon1">You have already enquired to <span id="oldData"></span></div>
-                                <div class="font18 txtCon2"> Do you want to add <span id="newQty"></span> more to the existing enquiry.</div>
+
+                            <div class="form-group formGroup1">
+                                <textarea class="width100 emailInput input" required="" name="message" id="messagec"></textarea>
+                                <label for="message">Message</label>
+                                <span class="highlightMsg right5">Please enter your<br> message</span>
                             </div>
-                            <center>
-                                <div class="font20 cOrange fmUbuntuR dn" style="margin-top:20px;" id="loadInq">Please wait while our partners bid for your business</div>
-                                <div class="font14 cFFF popBtn1 fmUbuntuR transition300 ripplelink poR" id="noMstkBtn" onclick="closePopup()">NO, it's by mistake</div>
-                                <div class="font14 cFFF popBtn1 fmUbuntuR transition300 ripplelink poR" id="yesAddBtn" onclick="addDataToEnq()">YES, add to existing</div>
-                            </center>
-                        </div>
-                        <div id="afterHrs" class="afpopUp fmUbuntuR c666 font16 txtCenter transition300 fieldsopacity dn">
-                            <div>
-                                <div class="font18 txtCon2">Your request<span id="reqData"></span> has been submitted.</div>
-                                <div class="font18 txtCon2">We will get back to you with the Best Price from Nafex verified and RBI Approved Money Changers across the city during our working hours of 10:30 am - 07:30 pm</div>
+
+                            <div class="btnContainer" style="width: 100%;">
+                     <div class="senMsgBtn fmUbuntuR fRight transition300" id="btnSendMessages">
+                                    Send Message
+                                </div>
+
+                        <span styele="font-weight:bold;" id="EM"></span>
                             </div>
-                            <center>
-                                <div class="font14 cFFF popBtn1 fmUbuntuR transition300 ripplelink poR" onclick="closePopup();">Ok</div>
-                            </center>
-                        </div>
-                        <div id="limitreached" class="popUp fmUbuntuR c666 font16 txtCenter transition300 fieldsopacity dn">
-                            <div>
-                                <div class="font18 txtCon2">You have reached the limit of adding new enquiry for the day.</div>
-                            </div>
-                            <center>
-                                <div class="font14 cFFF popBtn1 fmUbuntuR transition300 ripplelink poR" id="limitclose">OK</div>
-                            </center>
-                        </div>
-                        <div id="genpopup" class="popUp fmUbuntuR c666 font16 txtCenter transition300 fieldsopacity dn">
-                            <div>
-                                <div class="font18 txtCon2" id="genmsg"></div>
-                            </div>
-                            <center>
-                                <div class="font14 cFFF popBtn1 fmUbuntuR transition300 ripplelink poR" onclick="hideGeneralPop();">OK</div>
-                            </center>
-                        </div>
-                        <div id="infoInq" class="popUp fmUbuntuR c666 font16 txtCenter transition300 fieldsopacity dn commLoader">
-                            <div class="font20 cOrange txtCon2" style="margin-top:20px;" id="inqMsg"></div>
-                        </div>
-                </div>
-                <script type="text/javascript">
-                    var isSet = false;
-                </script>
+
+                          </form>
+                       <script type="text/javascript">
+                       	$(document).ready(function(){
+
+
+// var th = $(this), txt = btn.text();
+// btn.text('Loading...');
+
+var url = "http://www.nafex.com/custcontactus/contact_us";
+
+var frm = $("#frmContactDetail"), btn = $("#btnSendMessage");
+
+
+
+$("#btnSendMessages").click(function(){
         
+btn.text('Loading...');
+var th = $(this), txt = btn.text();
+
+var name = $('#namec').val();
+var mobileNumber = $('#mobileNumberc').val();
+var email = $('#emailc').val();
+var message = $('#messagec').val();
+
+    var refObj =
+                {
+
+                'regType' : 'self',
+                'Name' : name,
+                'MobileNo' : mobileNumber,
+                'Email' : email,
+                'Message' : message
+
+                }
+
+
+
+
+    $.ajax({
+             url: url,
+             data: refObj,
+             method: 'post',
+             dataType : "json",
+             success: function (data) {
+            
+
+if(data.message_code =='1000')
+{
+
+
+btn.text( "Send Message");
+// $.toast({text: data['message_text'],icon: 'info' });
     
+// $('#EM').text(data['message_text']);
+
+ $('#name').val("");
+ $('#mobileNumber').val("");
+$('#email').val("");
+ $('#message').val("");
+ // window.setTimeout(function()
+ //    {       
+ //       location.reload();
+ //    },3000);
+
+    $("#reqContact").modal('hide');
+	$('#alertMessagePopup').modal('show');
+	$("#alertMessagePopup .btnblack").html("Thank you for connecting Nafex.com");
+
+}
+else
+ {
+
+ $.toast({text: data['message'],icon: 'error'});
+
+$('#EM').text(data['message_text']);
+
+  }
+
+}
+                    
+
+
+        });
+
+      //  $(this).hide();
+    });
+});
+
+                       </script>
+      </div>
+  <!-- $$ds29012018 start -->
+      <div class="modal-footer foot">
+      	<h4 class="centerC modal-title">Find Us On</h4>
+      	<div class="col-sm-6 col-xs-12 link">
+			<ul class="socialM" style="list-style-type:none;">
+				<li><a href="#" class="wht" target="_blank">
+					<i class="fa fa-whatsapp" aria-hidden="true"></i>
+					+91 91 111 111 19
+				</a></li>
+				<li><a href="https://twitter.com/nafexbureau" class="tw" target="_blank">
+					<i class="fa fa-twitter" aria-hidden="true"></i>
+					<!-- <img src="" alt=""> -->
+					Follow@nafexbureau
+				</a></li>
+			</ul>
+		</div>
+
+		<div class="col-sm-6 col-xs-12 link">
+			<ul class="socialM" style="list-style-type:none;">
+				<li><a href="https://www.facebook.com/nafexbureau" class="fb" target="_blank">
+					<!-- <img src="" alt=""> -->
+					<i class="fa fa-facebook" aria-hidden="true"></i>
+					Like us on Facebook.com
+				</a></li>
+				<li><a href="https://www.linkedin.com/company/3690902/" class="linked" target="_blank">
+					<i class="fa fa-linkedin" aria-hidden="true"></i>
+					<!-- <img src="" alt=""> -->
+					Follow us on Linkedin
+				</a></li>
+			</ul>
+		</div>
+      </div>
+ <!-- $$ds29012018 end --> 
+    </div>
+
+  </div>
+</div>
+
+
+<!--
+	$$SL20180110 
+	Start of Tawk.to Script-->
+<script type="text/javascript" async="" defer="">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5a55f65cd7591465c7069aa5/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+
+<!-- Bootstrap -->
+
+<script src="http://www.nafex.com/js/bootstrap.min.js"></script>
+<script src=""></script>
+<script src="http://www.nafex.com/js/jquery.toast.js"></script>
+<script src="http://www.nafex.com/js/jquery.toast.backend.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script> 
+<script src="http://www.nafex.com/js/jquery.counterup.min.js"></script>
+<!-- datepicker -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.2/moment.min.js"></script>
+
+<script src="http://www.nafex.com/plugins/datepicker/bootstrap-datepicker.js"></script>
+<!-- datepicker -->
+
+<script type="text/javascript" src="http://www.nafex.com/js/CountDown.js"></script> 
+<script src="http://www.nafex.com/js/ajaxCall.js"></script>
+<script src="http://www.nafex.com/js/common.js"></script>
+<script src="http://www.nafex.com/js/custom.js"></script>
+
+<script src="http://www.nafex.com/js/cust/custReg.js"></script>
+<!-- // $$ms20180119 -->
+<script src="http://www.nafex.com/js/owl/owl.carousel.min.js"></script>
+<script src="http://www.nafex.com/js/cust/currencyList.js"></script>
+
+<script src="http://www.nafex.com/js/taAgent.js"></script>
+<script type="text/javascript">
+	/* Customer + Admin */
+	var baseUrl = "http://www.nafex.com/";
+	var cityListURL = btoa('http://www.nafex.com/customer/getCity');
+	var countryListURL = btoa('http://www.nafex.com/customer/getCountry');
+	var currencyListURL = btoa('http://www.nafex.com/customer/getCurrency');
+	var newRequest = btoa('http://www.nafex.com/customer/addRequest');
+
+	/* Customer */ 
+	var updateProfile = btoa('http://www.nafex.com/customer/custUpdateProfile');
+	var custReg = btoa('http://www.nafex.com/customer/registration');
+	var verifyOTP = btoa('http://www.nafex.com/customer/verifyOTP');
+	var resendOTP = btoa('http://www.nafex.com/customer/resendOTP');
+	
+	var custLogin = btoa('http://www.nafex.com/customer/login');
+	var forgotpassword = btoa('http://www.nafex.com/customer/forgotPassword');
+	var kycLink1 = btoa('http://www.nafex.com/users/kyc/');
+	var kycLink2 = btoa('http://www.nafex.com/users/kyc/');
+	var kycLink3 = btoa('http://www.nafex.com/users/kyc/');
+	var profileLink = btoa('http://www.nafex.com/customer/profile/');
+	var checkExistence = btoa('http://www.nafex.com/customer/checkExistence');
+	var commonReg = btoa('http://www.nafex.com/customer/commonRegistration');
+	var trackLink = btoa('http://www.nafex.com/track');
+	var trackLinkAdCode = btoa('http://www.nafex.com/trackAdCode');
+	var trackLinkAdFacebook = btoa('http://www.nafex.com/trackAdFacebook');
+	var requestDetails = btoa('http://www.nafex.com/customer/custGetRequest');
+	var acceptBid = btoa('http://www.nafex.com/customer/acceptBid');
+	var thankYou = btoa('http://www.nafex.com/thankYou');
+	var history = btoa('http://www.nafex.com/history');
+ 	var getHistory = btoa('http://www.nafex.com/customer/getRequestHistory');
+ 	var custTrackOrder = btoa('http://www.nafex.com/customer/custTrackOrder');
+
+	var changePassword = btoa('http://www.nafex.com/customer/custChangePassword/');
+	var homePage = btoa('http://www.nafex.com/');
+
+	var taverifyOTP = btoa('http://www.nafex.com/customer/taverifyOTP');
+	var tacommonReg = btoa('http://www.nafex.com/customer/agentRegistration');
+	var updateCust = btoa('http://www.nafex.com/customer/custUpProfile');
+
+	var userRequestProceed = btoa('http://www.nafex.com/customer/userRequestProceed');
+	var checkUserOTP = btoa('http://www.nafex.com/customer/checkUserOTP');
+	var custProfileCheck = btoa('http://www.nafex.com/customer/custProfileCheckout');
+	
+</script>
+  
+
+
 </body></html>
