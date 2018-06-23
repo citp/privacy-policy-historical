@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrosage.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225153155id_/http%3A//www.astrosage.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrosage.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624004315id_/http%3A//www.astrosage.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,8 +37,7 @@ Any other information we receive due to email or other method of contact in rega
 **We DO NOT collect any payment information on our website. It is collected and processed in a secured manner by third party payment gateways. We follow reasonable industry standards, technical measures and procedural measures to protect against unauthorized access and use of your supplied information. However, you should know that neither we nor any other web site can fully eliminate all the risks.
 
 **3\. Other web sites links  
-**Our web site may contain links to other web sites. AstroSage is not responsible for the privacy practices followed by other such web sites.  
-
+**Our web site may contain links to other web sites. AstroSage is not responsible for the privacy practices followed by other such web sites. 
 
 **4\. Contacting us  
 **If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at [ customercare@AstroSage.com](mailto:customercare@AstroSage.com)
