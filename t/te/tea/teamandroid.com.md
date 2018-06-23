@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teamandroid.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031062825id_/http%3A//www.teamandroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamandroid.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623173619id_/http%3A//www.teamandroid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Team Android
 
-_This privacy document was last revised on September 19, 2012._
+_This privacy document was last revised on May 24, 2018._
 
 At Team Android, your privacy is our number one concern. This privacy policy document outlines the types of personal information is received and collected by TeamAndroid.com (The Site) and how it is used.
 
