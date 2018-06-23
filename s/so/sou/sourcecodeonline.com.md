@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcecodeonline.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117205041id_/http%3A//www.sourcecodeonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcecodeonline.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623225320id_/http%3A//www.sourcecodeonline.com/privacy.html) for the most accurate reproduction.*
 
 # Source Code Online Privacy Policy Information
 
