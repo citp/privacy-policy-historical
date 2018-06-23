@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weschool.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210122832id_/http%3A//www.weschool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weschool.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623130308id_/http%3A//www.weschool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WeSchool
 
@@ -10,7 +10,7 @@ This document is provided in favor of the Users that supplied data to OP in orde
 
 ## 1\. General information and methods of data processing
 
-The Data Controller is Oilproject Srl, VAT number 07236760968, having its registered offices in Via Guido Reni, 42, 20133 – Milan (ITALY), email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#14676164647b666054637167777c7b7b783a777b79)
+The Data Controller is Oilproject Srl, VAT number 07236760968, having its registered offices in Via Guido Reni, 42, 20133 – Milan (ITALY), email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a494f4a4a55484e7a4d5f49595255555614595557)
 
 The data collected will be processed by the Data Controller in the following manner(s); collected data:
 
@@ -186,4 +186,4 @@ All submissions and requests made by data subjects in accordance with the applic
 Oilproject S.r.l.  
 Via Guido Reni, 42  
 20133 – Milan (ITALY)  
-email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#95e6e0e5e5fae7e1d5e2f0e6f6fdfafaf9bbf6faf8)
+email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a7d4d2d7d7c8d5d3e7d0c2d4c4cfc8c8cb89c4c8ca)
