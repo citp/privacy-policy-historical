@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raaga.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002185641id_/http%3A//www.raaga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raaga.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623062909id_/https%3A//www.raaga.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,9 +74,3 @@ We may display links to other sites within Raaga.com. We are not responsible for
 **PRIVACY POLICY CHANGES  
 **  
 RAAGA reserves the right to make changes to this privacy statement. Any material changes on this statement will be prominently posted online and accessible via the RAAGA user portal 30 days prior to taking effect. 
-
-**CONTACT US:**
-
-If you have any questions about this privacy policy, or the privacy practices of Raaga.com, you can contact: 
-
-[webmaster@raaga.com ](mailto:webmaster@raaga.com?Subject=Privacy%20Policy)
