@@ -1,99 +1,91 @@
-> *The following text is extracted and transformed from the share-gate.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123062216id_/http%3A//en.share-gate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the share-gate.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623203650id_/https%3A//en.share-gate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sharegate
+# Privacy Policy - Sharegate
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+Sharegate Group Inc. ( **“Sharegate”** ) offers tools and platforms commercialized as “Sharegate” ( **“Sharegate Product”** ) which allow for a more straightforward management of SharePoint & Office 365. Sharegate understands the importance of protecting personal information. For this reason, Sharegate strives to have business procedures and security safeguards in place to protect personal information under its control.
 
-What personal information do we collect from the people that visit our blog, website or app?
+ **Application and Scope**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
+This Privacy Policy ( **“Policy”** ) is intended to establish responsible and transparent practices for the management of personal information and to satisfy the relevant and applicable legal requirements. This Policy sets out the standards, responsibilities and obligations of Sharegate in respect of any personal information collected, accessed or processed by Sharegate in the course of its business operations and specifies the obligations of Sharegate that arise from the End user license, maintenance and support agreement (the **“EULA”** ) governing the use of Sharegate Product, entered into between Sharegate and its corporate customers (each, a **“Customer”** ), whereby Sharegate might handle or have access to personal information.
 
-**When do we collect information?**
+This Policy also governs personal information collected about Sharegate’s website users and explains how Sharegate uses and discloses personal information collected from people who visit its website and otherwise interact with Sharegate through [https://en.share-gate.com](https://en.share-gate.com/) (the **“website”** ). It also explains how Sharegate uses cookies and similar technologies.
 
-We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
+ **International Compliance**
 
-**How do we use your information?**
+Sharegate complies with: (i) data protection laws applicable to Sharegate; and (ii) applicable industry standards concerning data protection, confidentiality or information security. Sharegate has global operations and therefore, in some cases, information managed by Sharegate may be transferred, processed and stored in other countries, although at all times, Sharegate will ensure that personal information is protected by confidentiality and security procedures and protections that are, at a minimum, equivalent to those employed by Sharegate itself.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+Sharegate complies with this Policy as well as applicable Canadian private sector data protection laws such as the Personal Information Protection and Electronic Documents Act ( **“PIPEDA”** ) and substantially similar provincial laws pertaining to the collection, use and disclosure of personal information. PIPEDA provides for an adequate protection of personal information according to the European Commission Decision of 20 December 2001 pursuant to Directive 95/46/EC of the European Parliament and the Council.
 
-  * To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To improve our website in order to better serve you.
-  * To allow us to better service you in responding to your customer service requests.
-  * To administer a contest, promotion, survey or other site feature.
-  * To send periodic emails regarding your order or other products and services.
+Sharegate also complies with the General Data Protection Regulation (Regulation (EU) 2016/679). Where applicable, our commitment to such regulation may be found in our [Data Processing Addendum](https://get.share-gate.com/rs/250-JDV-062/images/2018-05-04%20Sharegate%20Data%20Processing%20Addendum.pdf).
 
+ **Definition of Personal Information**
 
+Personal information is defined as “any information about an identifiable individual”. This may include, for example, email addresses and contact details and any similar information provided to Sharegate in the course of its business operations, or which Sharegate may receive from business inquiries. Personal information that is aggregated and cannot be associated with an identifiable individual is not considered to be personal information.
 
-**How do we protect visitor information?**
+ **Collection and Use of Personal Information through the Products**
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+When providing products, Sharegate only processes personal information in accordance with the EULA, and applicable laws. Sharegate generally uses personal information from or about its Customers or which is received from Customers and belongs to their own customers or end users (hereinafter referred to as **“Customer’s Personal Information”** ) for the following purposes:
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
-
-**Do we use 'cookies'?**
-
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-We use cookies to:
-
-  * Understand and save user's preferences for future visits.
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+  * to create, establish and administer Customer’s subscription to Sharegate, to respond to Customer inquiries related to its subscription and to contact Customer about Sharegate’s products or subscription -related matters;
+  * to provide products, including to provide Customer with Sharegate Product and customer support related to Sharegate Product;
+  * to measure and analyze user behavior in order to, among others, monitor, maintain and improve Sharegate’s products or features and to create new products, services or features;
+  * to meet legal and regulatory requirements and to allow Sharegate to meet contractual requirements relating to the products provided to Customer;
+  * to conduct surveys on the quality of Sharegate’s products or to collect feedbacks on the products and services; and
+  * to provide Customer with offers for additional products that Sharegate believes may be of interest to Customer.
 
 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+Unless required or authorized by law, when providing products, Sharegate will not use personal information for any other or new purpose without obtaining its Customers’ consent.
 
-If you disable cookies off, some features will be disabled. It will affect the users experience that make your site experience more efficient and some of our services will not function properly.
+ **Collection and Use of Personal Information through the Website**
 
-However, you can still place orders.
+Sharegate generally collects and uses personal information from or about its website users as follows:
 
-**Third Party Disclosure**
+  *  **Information provided by users.** In many cases, Sharegate collects personal information directly from users when they visit or use the website. For instance, Sharegate may collect the following types of information:
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+    * **Inquiries**. Sharegate may collect users’ name, contact information, e-mail address and any information provided when users make an inquiry or contact Sharegate through the website, download documentation or gated content from the website, sign up for a webinar through the website and/or sign up to receive Sharegate’s newsletter. Sharegate will only use this information to process and answer users’ request or to manage Sharegate everyday business needs in connection with such request.
+    * **Requests for a Trial and/or Product**. Sharegate may collect users’ name, contact information, e-mail address and any other information provided to Sharegate when users submit a request or an order for a Sharegate trial and/or product. Sharegate will only use this information to process and answer users’ request or to manage Sharegate everyday business needs in connection with such request.
+    * **Personalization of Website**. When users visit the website, they may, from time to time, be invited to provide information such as user’s title and company size to help Sharegate personalise or customise the users experience when using the website.
+  *  **Technical information**. When users visit the website, Sharegate may collect, using electronic means such as cookies, technical information. This information may include information about visits to the website, including IP address of the users’ computer and which browser was used to view the website, the users’ operating system, resolution of screen, location, language settings in browsers, the site the user came from, keywords searched (if arriving from a search engine), the number of page views, information entered, advertisements seen, etc.  This data is used to measure and improve the effectiveness of the website or enhance the experience for users. While most of the time this information is depersonalized, if this information relates to an identifiable individual, Sharegate will treat this information as personal information. Sharegate may also, without limitations, collect and use the following type of information when users visit and/or interact with Sharegate on the website:
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Google**
-
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. [_https://support.google.com/adwordspolicy/answer/1316548?hl=en_](https://support.google.com/adwordspolicy/answer/1316548?hl=en)
-
-We use Google AdSense Advertising on our website.
-
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-We have implemented the following:
-
-  * Remarketing with Google AdSense
-  * Remarketing with Bing Ads
+    * **Google Analytics** : Sharegate uses Google Analytics which allows it to see information on user website activities including, but not limited to, page views, source and time spent on our website. This information is depersonalized and is displayed as numbers, meaning that it cannot be tracked back to individuals. Users may opt-out of Sharegate’s use of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+    * **Marketo** : Sharegate uses Marketo which allows it to see information on user website activities including, but not limited to, page views, source and time spent on our website. However, this information is not depersonalized and users may not opt-out of Sharegate’s use of Marketo.
+    * **Google AdWords** : Sharegate uses Google AdWords Remarketing to advertise Sharegate across the Internet and to advertise on third party websites (including Google) to previous visitors to the website. AdWords remarketing will display ads to users based on what parts of the Sharegate website they have viewed by placing a cookie on the users’ web browser. It could mean that Sharegate advertises to previous visitors who haven’t completed a task on the site or this could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. This cookie does not in any way identify the user or give access to the users’ computer or mobile device. The cookie is only used to indicate to other websites that the user has visited a particular page on the website, so that they may show the user ads relating to that page. If users do not wish to participate in Google AdWords Remarketing, they can opt out by visiting [Google’s Ads Preferences Manager](https://www.google.com/settings/u/0/ads/anonymous?sig=ACi0TCjdWMfU3lfsMB8h1Zo3epJGYa1PdSGjUG-HmdhICq4kkkwdk3JSyJKlkRHKnYDk49L76tvIqB_F_KMKQw3t_OBkijcTFwJcpflE_zGGTNJmfYk1qRk&hl=en-GB).
+    * **Interest-based Advertising**. Sharegate may also allow a limited number of trusted third parties to install cookies on users’ hard drive from the website. The website may include third-party advertising and links to other websites which may be used to generate personalized advertisements. Personalized ads, sometimes referred to as interest-based or behavioral ads, are ads based upon information about users, such as page views on the website, information requests or purchases on the website. Sharegate does not provide any personal information to advertisers or to third party sites that display interest-based ads on the website. However, advertisers and other third-parties (including the ad networks, ad-serving companies, and other service providers they may use) may assume that users who interact with or click on a personalized ad or content displayed on the website are part of the group that the ad or content is directed towards. Advertisers or ad companies working on their behalf sometimes use technology to serve the ads that appear on the website directly to users’ browser. They may also use cookies to measure the effectiveness of their ads and to personalize ad content. Sharegate does not have access to or control over cookies or other features that advertisers and third party sites may use, and the information practices of these advertisers and third party websites are not covered by this Policy. Please contact them directly for more information about their privacy practices. Users can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Digital Advertising Alliance of Canada. Please visit the [DAAC opt-out page](http://youradchoices.ca/choices/) for more information.
+  * **Choice with Cookies**. Users can block the use of cookies by activating the settings in their browser. The “Help” feature on most browsers will tell users how to prevent their browser from accepting new cookies, how to have the browser notify the users when they receive a new cookie, or how to disable cookies altogether. If users choose to withhold consent, or subsequently block cookies, they may not be able to access all or part of the content of the website. Additionally, users can disable or delete similar data used by browser add-ons, by changing the add-on’s settings or visiting the website of its manufacturer.
+  * **Privacy Policies of other Websites**. This Policy only addresses the use and disclosure of information by Sharegate. Other websites that may be accessible through the website have their own privacy policies and data collection, use and disclosure practices.
+  * **Personal Information from other Sources**. Sharegate may obtain from third parties additional personal information about a website user if such user gave permission to those third parties to share its information.
 
 
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+ **Sharing of Personal Information**
 
-**Opting out:**
+Sharegate will not sell, rent or trade personal information to any third party. However, Sharegate may share personal information when authorized and/or required by law or as follows:
 
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+  * **Service providers**. Sharegate may grant access to personal information to third party services providers in connection with the performance or the improvement of its website and products. Before sharing any personal information with any of its third party service providers, Sharegate will ensure that the third party maintains reasonable data management practices for maintaining the confidentiality and security of personal information and preventing unauthorized access.
+  * **As permitted or required by law**. Sharegate may disclose personal information as required by applicable law or by proper legal or governmental authority. Sharegate may also disclose information to its accountants, auditors, agents and lawyers in connection with the enforcement or protection of its legal rights. Sharegate may also release certain personal information when it has reasonable grounds to believe that such release is reasonably necessary to protect the rights, property and safety of others and itself, in accordance with or as authorized by law. In the event Sharegate receives a governmental or other regulatory request for any Customer’s Personal Information, it agrees to immediately notify Customer in order that Customer shall have the option to defend such action. Sharegate shall reasonably cooperate with Customer in such defense.
+  * **Business transaction**. Sharegate may disclose personal information to a third party in connection with a sale or transfer of business or assets, an amalgamation, re-organization or financing of parts of our business. However, in the event the transaction is completed, personal information will remain protected by applicable data protection laws. In the event the transaction is not completed, Sharegate will require the other party not to use or disclose the personal information received in any manner whatsoever and to delete such information.
 
-**COPPA (Children Online Privacy Protection Act)**
 
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
 
-We do not specifically market to children under 13.
+ **Security of Personal Information**
 
-**CAN SPAM Act**
+Sharegate will store and process the personal information in a manner consistent with industry security standards. Sharegate has implemented technical, organizational and administrative systems, policies, and procedures to help ensure the security, integrity and confidentiality of personal information and to mitigate the risk of unauthorized access to or use of personal information, including (i) appropriate administrative, technical and physical safeguards and other security measures designed to ensure the security and confidentiality of the personal information it manages; (ii) a security design intended to prevent any compromise of its own information systems, computer networks or data files by unauthorized users, viruses or malicious computer programs; (iii) appropriate internal practices including, but not limited to, encryption of data in transit or at rest; using appropriate firewall and antivirus software; maintaining these countermeasures, operating systems and other applications with up-to-date virus definitions and security patches so as to avoid any adverse impact to the personal information that it manages; appropriate logging and alerts to monitor access controls and to assure data integrity and confidentiality; permitting only authorized users access to systems and applications; and (iv) all persons with authorized access to personal information must have a genuine business need-to-know prior to access ( **“Security Program”** ).
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+ **Training and Supervision**
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at and we will promptly remove you from ALL correspondence.
+Sharegate maintains adequate training programs to ensure that its employees and any others acting on its behalf are aware of and adhere to its Security Program. Sharegate shall exercise necessary and appropriate supervision over its relevant employees to maintain appropriate confidentiality and security of the personal information it manages.
 
-**Contacting Us**
+ **Data Incidents involving Customer’s Personal Information**
 
-If there are any questions regarding this privacy policy, you may contact us using the information below.
+Sharegate shall immediately notify Customer of any reasonably suspected or actual loss of data or breach or compromise of its Security Program which has or may result in the loss or unauthorized access, disclosure, use or acquisition of Customer’s Personal Information (including hard copy records) or otherwise presents a potential threat to such information (“Data Incident”). While the initial notice may be in summary form, a comprehensive written notice shall be given within 48 hours to Customer. The notice shall summarize in reasonable detail the nature and scope of the Data Incident (including each data element type) and the corrective action already taken or to be taken by Sharegate. Sharegate shall promptly take all necessary and advisable corrective actions, and shall cooperate fully with Customer in all reasonable efforts to mitigate the adverse effects of Data Incident and to prevent its recurrence.
 
-**Sharegate** 1751 Richardson, Suite 5400 Montreal, Quebec H3K1G6 Canada jean-luc.brisebois@share-gate.com
+ **How to Contact Us**
 
-_Last Edited on 2016-01-29_
+Any questions or complaints regarding this Policy or Sharegate handling of personal information can be addressed by sending an email to: [legal@share-gate.com](mailto:legal@share-gate.com).
+
+ **Change of Privacy Policy**
+
+Sharegate will review and update its policies and procedures as required to keep current with rules and regulations, new technologies, standards and customer concerns. This Policy may therefore change from time to time.
+
+This Policy was last updated on November 28th, 2017.
