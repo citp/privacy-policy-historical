@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripoto.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120045128id_/https%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripoto.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624001632id_/https%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tripoto
 
@@ -94,6 +94,8 @@ We may share your information with selected third parties including:
   * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with you.
 
   * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.
+
+  * We offer personalized shopping experiences and advertising through Intent Media, which uses online identifiers to identify visitors. To view Intent Media’s privacy policy, click [here](https://intentmedia.com/privacy-policy/). To opt out, click [here](https://intentmedia.com/opt-out/).
 
 
 
