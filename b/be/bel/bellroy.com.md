@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002174713id_/https%3A//bellroy.com/customer-care%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623043617id_/https%3A//bellroy.com/customer-care%23privacy-policy) for the most accurate reproduction.*
 
-# Customer Care | Shipping, Delivery, Bellroy Warranty & Exchanges | Bellroy
+# Customer Care: Shipping, Delivery, Warranty & Exchanges | Bellroy
 
 ## Estimated Arrival Time
 
@@ -8,14 +8,8 @@ Where would you like to ship to?
 
 Choose Destination 
 
-Price | Shipping Type | 
+We’ve worked hard to simplify the delivery of bags and minimize the cost of shipping for you. If you have any questions about the options above, reach out to support@bellroy.com.
 
-Estimated Arrival Time 
-
-Est. Arrival Time   
-  
----|---|---  
-  
 ## Worldwide Shipping
 
 Bellroy customers live all across the globe, so we can ship to anywhere with a letterbox. For P.O. boxes outside Australia and Europe, please use the regular shipping option at checkout (our team of trained delivery owls aren’t allowed in government buildings just yet).
@@ -87,6 +81,8 @@ Depending on where you're browsing from, we try to select the best currency for 
 Our products are covered by a 3 year warranty from the day they were bought, when used under normal conditions and for the purpose intended. Try not to over stuff your Bellroy or put things in there that don’t belong (like ninja stars). If you do put more cards in there than recommended, things can stretch out of shape and put undue stress on the stitching and other materials.
 
 This warranty covers faults in materials and workmanship and doesn't apply if damage is caused by unreasonable use or neglect, normal wear and tear, or if you change your mind. 
+
+In order to make a warranty claim, you need to have purchased your Bellroy through our website or one of our authorized re-sellers.
 
 The Bellroy warranty sits alongside applicable consumer protection law.
 
@@ -182,6 +178,29 @@ If you'd like any further information, high resolution images, or would just lik
 
 We like to think that there is always a way for you to stay engaged and up to date with the latest Bellroy news. Visit our Bellroy [Facebook](http://facebook.com/carryBellroy), [Twitter](http://twitter.com/bellroy) and [Instagram](http://instagram.com/bellroy), otherwise try our Carryology [Facebook](http://facebook.com/carryology), [Twitter](http://twitter.com/carryology) and [Instagram](http://instagram.com/carryology).
 
+We offer 24-hour customer support 7 days a week. You can contact us via: 
+
+  * [Email](mailto:support@bellroy.com)
+  * [Facebook](https://www.facebook.com/carryBellroy/)
+  * [Instagram](https://www.instagram.com/bellroy/)
+  * Live chat
+  * [Twitter](https://twitter.com/bellroy)
+
+
+
+We’re a small, knowledgeable and enthusiastic team of people eager to answer your questions and solve your Bellroy problems, no matter what time of the day or night. 
+
+We do this via multiple digital channels, but we don’t offer phone support for the following reasons: 
+
+  * We wouldn’t be able to offer the same level of support over the phone, as we often need to share photos of products or screen shots of the website with our customers. Email, facebook and live chat are best for this reason.
+  * We can instantly check your order status or solve an issue via live chat without needing to put you on hold.
+  * We’re a global support team. Our current channels allow us to use translators so that we can effectively communicate with all of the members in our community.
+  * Using online support channels allows us to keep your information and support history in the one spot, making sure that we have a detailed account of our communication with you. Nobody likes having to explain a situation over again because you get a different support person when you call. 
+
+
+
+This doesn't mean we are completely unavailable via phone. If you have contacted us using one of our five support channels and feel you have an issue that requires a phone conversation, you can request a call. We’ll do what we can to make it happen. 
+
 Welcome to bellroy.com (the 'Site'). Here are some details about how we work.
 
 Please review the following basic terms that govern your use of and purchase of products from our Site. Please note that your continued use of our Site constitutes your agreement to follow and be bound by these terms.
@@ -222,117 +241,203 @@ You may not reproduce (except as noted above), publish, transmit, distribute, di
 
 When purchasing from Bellroy your financial details are passed through a secure server using the latest 256-bit SSL (secure sockets layer) encryption technology. 256-bit SSL encryption is the current industry standard. If you have any questions regarding our security policy, please [email our support team](mailto:support@bellroy.com).
 
-Bellroy is dedicated to keeping your details private. Any information we collect in relation to you is kept strictly secured, and is only used for the purposes described in this privacy policy. We primarily use this information to identify and fill your orders, and to personalise your shopping experience with us.
+Effective Date: 25 May 2018
 
-This privacy policy applies both to information collected through our web sites and information collected offline. By accessing our web sites, you acknowledge and agree to the uses of information described in this privacy policy.
+### Introduction
 
-##  Information we collect 
+### 
 
-When you visit our websites (including [bellroy.com](http://bellroy.com/) and [carryology.com](http://carryology.com/)) or shop with us online, we collect information about you and/or your use of those web sites. This information falls into three categories: Customer Information, Usage Data and IP Address Details. Depending on the category, the information may be considered to be personally identifiable information.
+Bellroy takes privacy seriously – we are committed to keeping your personal information private. All personal data we collect is kept strictly secured, and is only used for the purposes described in this privacy policy.
 
-### Customer Information
+This privacy policy applies to information collected through our websites and any information we collect offline (for example, if you talk to our customer services team).
 
-Customer information is information you explicitly provide to us when you make an online purchase or you sign up to receive our newsletters, including your:
+### Who are ‘we’?
 
-  * name
-  * email address
-  * shipping and billing addresses
-  * payment details
+When we talk about “we” (or “our” or “us”), we mean Bellroy Pty Ltd and all its wholly owned subsidiaries. We are based in Australia but we supply goods all over the world.When we talk about “we” (or “our” or “us”), we mean Bellroy Pty Ltd and all its wholly owned subsidiaries. We are based in Australia but we supply goods all over the world.
 
+We also store backups of some data, including order details (which will include Customer Information) on our servers in Australia. We use appropriate technical and organisational measures to protect the personal data that we collect and process. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal data, including using the latest 256-bit SSL (secure sockets layer) encryption technology to protect your Customer Information when you purchase from our online store. Bellroy also complies with the [Australian Privacy Principles](https://www.oaic.gov.au/privacy-law/privacy-act/australian-privacy-principles) in relation to the proper use and storage of personal data.
 
+>
 
-Customer Information can usually be used to identify you.
+For European Union data protection purposes, when we act as a controller in relation to your personal data, Samuel Giles is our representative in the European Union. You can contact him on [eu-privacy@bellroy.co.uk](mailto:eu-privacy@bellroy.co.uk)
 
-### Usage Data
+### What is ‘personal data’
 
-Usage Data is general information about how you interact with our web pages and web sites, such as:
+Personal data is any data that could directly or indirectly identify you – this includes information like your name, address, telephone number and your email address but in some cases it may include less obviously identifying information, like your IP Address (see below).
 
-  * pages you visited on our web sites
-  * how you came to the website (e.g. via our newsletter or an advertisement)
-  * which particular buttons or links on the site you clicked
-  * whether you have been to the site before
+### What data do we collect
 
+When you visit bellroy.com or shop with us online, we collect information about you and your use of our website. We treat this information as falling into three categories: Customer Information, Usage Data and your IP Address.
 
+Customer Information is the information you explicitly provide to us when you make an online purchase or sign up to receive our newsletters, including your:
 
-Usage Data is collected using cookies (or similar technologies) placed by us and by third parties (see ‘Who the information is shared with’ below). Cookies are small pieces of data that a website sets in your browser, and which may assign an anonymous identifier to you. Usage Data is not ordinarily considered personally identifiable information.
-
-### IP Address
-
-Whenever you use our websites (or any other web site) the computer from which the web pages are served (the Web server) needs to know your computer’s network address so that it can send the requested web pages to your browser. The public network address associated with your computer is called its "public IP address" and is sent automatically each time you access any Internet site. From a computer's public IP address, it is usually possible to determine the general geographic location of that computer but often not the specific computer and usually not the specific user (if your public IP address is unique to you and is published somewhere public it’s possible that IP address could uniquely identify you). We keep records of the IP addresses from which you access our site to assist us in understanding the online behaviour of our customers or where you have specifically provided us with information about yourself. For example, when you make a purchase, we may record your IP address for security purposes, and that IP address would then be associated in our records with your Customer Information.
-
-##  How we use the collection information 
-
-### Customer Information
-
-We use your Customer Information for processing and filling orders placed by you, directly marketing our products, delivering our newsletters to your mailbox, and other activities involved in the day-to-day business operations of Bellroy. Bellroy uses the latest 128-bit SSL (secure sockets layer) encryption technology to protect your Customer Information when you purchase from our online store.
-
-### Usage Data & IP Address
-
-We use Usage Data to assist us in understanding the online behaviour of our customers, which helps us to focus our marketing activities and improve the service we provide on our web sites.
-
-Using web analytics services on our web sites enables us to measure, collect, analyse and report on Usage Data for the purposes of understanding and optimising customers’ experiences on our web sites.
-
-Geographical location information contained in the Usage Data enables us to tailor your experience on our web sites by displaying different content based on your location, such as local currency and pricing, local advertising offers, and content in your preferred language.
-
-We also use Usage Data for remarketing (sometimes called retargeting) to better target our ads to interested customers. Retargeting uses cookies to identify users who visit a website showing a particular brand of goods or services and then targets advertisements of that brand to that user on other websites. So, after you have visited our web sites, you (or another user of your computer) may see Bellroy ads on certain participating third party websites, including on the Google Display Network and Facebook. Customer Information is never disclosed to third parties for retargeting purposes.
-
-### Who we share the information with
-
-We share Usage Data with a number of other parties for a range of purposes, including to:
-
-  * handle payments securely (via PayPal Inc. and Braintree Payment Solutions LLC)
-  * distribute direct marketing materials from Bellroy (via Mailchimp and Customer.io)
-  * connect to social networks (via the Pinterest “Pin it” button or via the Facebook “Like” button)
-  * pay commission to our affiliates
-  * target advertising by sending your Usage Data to our advertising partners, such as Google and Facebook
+  * Name
+  * Email address
+  * Shipping and/or billing address
+  * Payment information
 
 
 
-Usage Data is either collected directly by or disclosed to third parties during the course of a session on our website, or during advertising or marketing campaigns.
+**Usage Data** is general information about how you interact with our website, such as:
 
-We only share Customer Information with providers directly involved with online transactions (e.g. PayPal), or when you have opted in to receive direct marketing material (e.g. via Customer.io).
-
-### Information Transferred or Stored Overseas
-
-Many of those other providers are located overseas and Usage Data disclosed to them may be stored on servers located overseas. Similarly, although Bellroy operates out of Australia and generally stores Customer Information and Usage Data on servers located in Australia, some information may be stored on servers located overseas and/or managed by third parties. While we endeavour to ensure that those other providers, and any third party server provider used by Bellroy, manage any personal information contained in the Usage Data, and any Customer Information, in substantially the same way as required by the Australian Privacy Principles, we will not be responsible if they fail to do so, nor will we be obliged to take steps to ensure that those other providers comply with the Australian Privacy Principles. By continuing to use our websites, you consent to your information being provided to, and used by, other providers located overseas.
-
-For further information about how each of the other providers referred to above handles personal information (which may include your Usage Data and Customer Information), we recommend that you visit their respective websites to read their respective privacy policies.
-
-### A note on affiliate links
-
-[Carryology](http://www.carryology.com/) contains various affiliate marketing links, which mean that we may be paid commission on sales of the products and services that are listed or discussed by us and other authors on that web site. These links do not influence the editorial content posted on that web site in any way.
-
-When you click on an affiliate link, a cookie is placed to help optimise the affiliate program. Some Usage Data is sent to our affiliate partners.
-
-##  Your say and how to ‘opt out’ 
-
-_Please note that we do not respect the Do Not Track setting available in your web browser._
-
-You can contact us to request access to your Customer Information, and any other personal information about you that we may. We will respond to your request within a reasonable period and provide you with access, except in certain limited circumstances. You can ask us to correct any personal information that is not accurate, up-to-date, complete, and relevant or is misleading, and we will change it where reasonable to do so.
-
-For further information about access and correction, or if you have any complaints or concerns about how we manage your Customer Information or Usage Data, please contact us at the details provided below.
-
-If you no longer wish us to use your Customer Information, Usage Data or IP Address Details for certain purposes, you can do any or all of the following:
-
-  * opt out of receiving online communications from us by clicking the ‘unsubscribe’ link at the bottom of the newsletter, advertisement or other communication (as applicable)
-  * delete existing cookies from your web browser and/or disable cookies on your computer and/or other devices (as appropriate). Depending on the particular browser you are using (e.g. Google Chrome, Safari, Internet Explorer, Mozilla Firefox), this can usually be done on your computer by accessing your ‘Browsing History’ through the ‘Settings’ or ‘Options’ menu (or equivalent) in your web browser, or if you are using a different device, then in the ‘Settings’ for that device. If you do not disable cookies in your web browser, and you subsequently visit our website, fresh cookies are likely to be placed and you may need to repeat the process of deleting existing cookies
-  * alter your ad preference settings in each of Google and Facebook, and on the platforms of other providers, if you have access to do so
+  * which pages you visited on our website
+  * how you came to the website (for example, by clicking on a link in a newsletter or from an advertisement)
+  * which buttons or links you clicked
+  * whether you have been to the website before
 
 
 
-If you do opt out of receiving communications directly from us, we will no longer use your information for those purposes. If you disable cookies in your web browser, or delete existing cookies, our web sites may not work properly and your experience with our web sites will be less personalised and may make your shopping experience less enjoyable. Deleting existing cookies from your web browser may also cause it to lose recorded information for other web sites, such as previously used usernames and passwords.
+Whenever you visit a website (including ours), the computer from which the web pages are served (i.e. our web server) needs to know your computer’s public network address so it can send the requested pages to your browser. The public network address associated with your computer is called its “public **IP Address** ” and is sent automatically each time you access any Internet website. From a computer’s IP Address, it is usually possible to determine the general geographic location of that computer but often not the specific computer and if multiple people use the computer not the specific user (although if your IP Address is unique to you and is published somewhere or if you later identify yourself while while using the same IP Address, it is possible that IP Address could identify you).
 
-Your withdrawal of consent for us to use your information for certain purposes may mean that we can no longer provide our services to you. For example, many of the services of the other providers referred to above, such as PayPal Inc., are integral to our online sales model, and any refusal to disclose Customer Information is likely to prevent us from being able to complete online transactions with you.
+In the European Union, your IP Address is considered to be personal data, and we treat it accordingly.
 
-##  Changes to this Privacy Policy 
+### How we collect data
 
-We may revise this privacy policy from time to time as we add new features or as laws change. When we make changes to our privacy policy, they are reflected on this page. Any revised privacy policy will apply both to Customer Information and Usage Data we already have about you at the time of the change, and any such information created or received after the change takes effect. We strongly recommend that you periodically reread this privacy policy to see if there have been any changes that may affect you.
+**Information you provide to us directly:** When you shop with us online, we will ask you to provide personal data (such as your name and address) so we can fill your order. We may also ask you to provide personal data when you sign up for a newsletter, respond to a job application or an offer, join us on social media, take part in surveys or contact us for help. If you don’t want to provide personal data, you don’t have to, but it might limit your ability to do certain things on the website.
 
-###  Contact Us 
+**Information we collect automatically:** When you visit bellroy.com or shop with us online, we collect some information about you automatically, including Usage Data.
 
-Bellroy Pty Ltd 
+Some of this information is collected using cookies or other similar tracking technologies that have been placed by us or by third parties. For details of how cookies work, which ones we use and how you can control them, please see our [cookie policy](https://bellroy.com/customer-care#cookie-policy).
 
-PO Box 555,  
-Fitzroy VIC 3065  
-Australia  
-[privacy@bellroy.com](mailto:privacy@bellroy.com)
+### How we use data
+
+Where we collect your personal data, we’ll only process it:
+
+  * to fill orders placed by you, or
+  * where we have legitimate interests to process the personal data and our interests are not overridden by your rights, or
+  * in accordance with a legal obligation, or
+  * where we have your explicit consent.
+
+
+
+The main reason we use your personal data is to fill orders and to manage our relationship with you (for example, dealing with questions about products, returns and warranty claims).
+
+We also use personal data for other purposes, including:
+
+**To communicate with you:** this may include providing you with information you’ve requested or that we’re required to provide to you, that relates to changes to our website or policies, marketing communications in accordance with your preferences or to invite you to provide feedback or to take part in research we are conducting.
+
+**To support you:** this may include dealing with any questions you have about our products, dealing with warranty claims or any issues relating to our goods or services.
+
+**To improve our website:** we use Usage Data to help us understand the online behaviour of our customers, which helps us to focus our marketing activities and improve the services we provide on the website. Using web analytics on our website enables us to measure, collect, analyse and report on Usage Data for the purposes of understanding and optimising customers’ experiences on our website. We try to ensure that all Usage Data is anonymised (i.e. not referable to a specific person) unless we have your consent.
+
+Geographical location information contained in Usage Data also enables us to tailor your experience on our website by displaying different content based on your location, such as providing content in your preferred language (where possible), showing local currency and pricing, and showing relevant advertising. Again, geographical location information is anonymised unless we have your consent.
+
+**To protect you:** we use Customer Information and your IP Address to detect and prevent fraudulent activity when you want to make a purchase from us.
+
+**To market to you:** we use Usage Data for remarketing (sometimes called retargeting) to better target our ads to interested customers. Retargeting uses cookies to identify visitors who visit a certain website and then doing something with that information, such as showing a particular brand of goods or services on other websites. So, after you have visited our website, you (or another user of your computer) may see Bellroy ads on certain participating third party websites, such as on the Google Display Network and Facebook. This will only occur if you have agreed to us using non-essential cookies.
+
+**To analyse, aggregate and report:** we may use the personal data we collect about you and other users of our website to produce aggregated and anonymised analytics and reports, which we may share with third parties.
+
+### How we can share your personal data (and how we don’t)
+
+There will be times when we need to share your personal data with third parties. We will only disclose your personal data to:
+
+  * handle payments securely (PayPal Inc and Braintree Payment Solutions LLC)
+  * distribute direct marketing materials that you have consented to receive (MailChimp)
+  * connect to social networks (for example, Pinterest, Facebook, Instagram and LinkedIn)
+  * pay commission to affiliates
+  * target advertising (for example, Google, Facebook)
+  * protect you and us against fraud (for example, MaxMind)
+
+
+
+There also may be times when we are legally required to disclose personal data, such as to regulators, law enforcement bodies, government agencies, courts or other third parties where we think it’s necessary to comply with applicable laws and regulations, or to exercise our legal rights. Where possible and appropriate, we will notify you of this kind of disclosure.
+
+We only share your Customer Information with third parties where it is either necessary to enable online transactions (such as PayPal) or where you have consented to receive direct marketing material (such as MailChimp).
+
+Your personal data is never disclosed to third parties for remarketing or retargeting purposes. Bellroy never sells its email lists or customer information.
+
+### International data transfers
+
+When we collect, process and share data in accordance with this privacy policy, it may be transferred to countries other than where you live. Our data hosting provider’s servers are located in the United States, and many of the third parties with whom we share data are also located in the United States.
+
+When we do transfer data, we will make sure that there are safeguards in place to protect your personal data.
+
+For individuals in the European Union (EU), this means that your personal data will be transferred outside of the EU. EU personal data will only be transferred to countries that have been identified as providing adequate protection for EU data (such as New Zealand) or to a third party where we have approved transfer mechanisms in place – this means that we have either entered into an appropriate Data Processing Agreement or by ensuring that the entity has appropriate data protection in place, including where the entity is [Privacy Shield](http://www.privacyshield.com/welcome) certified (for US-based third parties).
+
+We also store backups of some data, including order details (which will include Customer Information) on our servers in Australia. We use appropriate technical and organisational measures to protect the personal data that we collect and process. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal data, including using the latest 256-bit SSL (secure sockets layer) encryption technology to protect your Customer Information when you purchase from our online store. Bellroy also complies with the [Australian Privacy Principles](https://www.oaic.gov.au/privacy-law/privacy-act/australian-privacy-principles) in relation to the proper use and storage of personal data.
+
+### Retention
+
+How long we retain your personal data depends on what it is, what we need it for (for example, keeping track of your warranty rights) and whether we are legally required to keep it (for example, for tax). Once we no longer need to retain it, we will make sure your personal data is deleted or anonymised.
+
+### Your rights
+
+Your personal data belongs to you, and you have the right to:
+
+  * know what personal data we hold about you
+  * make sure that all personal data is correct and up-to-date
+  * ask us to correct any personal data
+  * object to our continued processing of your personal data
+
+
+
+If you no longer wish to receive any online communications, just let us know by clicking the ‘unsubscribe’ link at the bottom of the newsletter or other communication.
+
+You can notify us if you no longer wish us to process your personal data, but we not that if you do so, this may mean that we can no longer provide our services to you.
+
+You can contact us at any time by emailing [privacy@bellroy.com](mailto:privacy@bellroy.com) or, if you are in the EU, email [eu-privacy@bellroy.co.uk](mailto:eu-privacy@bellroy.co.uk) and we will respond to your request within one month.
+
+If you have any complaints or concerns about how we manage your personal data, please contact us by emailing [privacy@bellroy.com](mailto:privacy@bellroy.com). If you are in the European Union, you also have the right to complain to your local [Data Protection Authority](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en) about the collection and use of your Personal Data.
+
+For details of how to manage cookies, see our [cookie policy](https://bellroy.com/customer-care#cookie-policy)
+
+### Changes to this Policy
+
+We may revise this privacy policy from time to time as we add new features or as laws change. When we make changes to our privacy policy, they are reflected on this page and the a revision date will be noted at the top. Any revised privacy policy will apply to personal data, Customer Information and Usage Data we already have about you at the time of the change, and any such information created or received after the change takes effect. We strongly recommend that you periodically reread this privacy policy to see if there have been any changes that may affect you.
+
+### How to contact us
+
+You can contact us by emailing [privacy@bellroy.com](mailto:privacy@bellroy.com) or, if you are in the EU, [eu-privacy@bellroy.co.uk](mailto:eu-privacy@bellroy.co.uk)
+
+Bellroy Pty Ltd  
+5 Theatre Place  
+Canterbury  
+Victoria 3126  
+Australia
+
+Last revised: 25 May 2018
+
+### What is a cookie?
+
+A cookie is a small text file that is set in your browser when you visit a website, and which may assign an anonymous identifier to you.
+
+### What cookies/tracking technologies do we use?
+
+There are a few different types of cookies that we and some of our affiliates and third-party service providers may use: persistent cookies (that stay on your hard drive until removed) and session ID cookies (that automatically expire after a period of time, or when you close your browser).
+
+There are also other tracking technologies that may be used, such as web beacons and local storage. Web beacons allow us to monitor site behaviour by delivering your IP address, any cookies we may have set and information about the page you’re visiting to a server. We use local storage to keep track of your preferences, things you've seen, temporary personal identifiers and more; the data we store in local storage generally stays on your device.
+
+### Why do we use cookies/tracking technologies?
+
+We use cookies (and other tracking technologies – but for ease, let’s just call them cookies) for lots of reasons: they let us customise your experience (for example, seeing prices in the correct currency), operate the website (like enabling you to put things in your cart and then keep shopping) and generally make sure that your experience of our website is a good one. We also use cookies to perform analytics and deliver advertising or marketing that is relevant to you.
+
+There are also cookies set by third parties that allow us to provide interactive content, perform analytics and enable other third party features, like payment or links to social media.
+
+### How can you control cookies?
+
+You can control cookies by amending your web browser controls. You can also delete existing cookies from your web browser and/or disabling cookies on your computer and other devices. Depending on the particular browser you are using (for example, Google Chrome, Safari, Internet Explorer, Mozilla Firefox), this can usually be done by accessing the ‘Browsing History’ through the ‘Settings’ or ‘Options’ menu (or equivalent) in your web browser, or if you are using a different device, then in the ‘Settings’ for that device.
+
+Some cookies are essential to the proper operation of our website: if you disable cookies in your web browser, or delete existing cookies, our website may not work properly and your experience with our website will be less personalised and may make your shopping experience less enjoyable.
+
+It is important to remember that if you delete existing cookies but do not disable cookies in your web browser, and then you subsequently visit our (or any) website, fresh cookies may be placed and you may need to repeat the process of deleting existing cookies.
+
+You can also opt out of targeted advertising: see <http://www.aboutads.info/choices> or [http://www.youronlinechoices.com](http://www.youronlinechoices.com/).
+
+You can also alter your ad preference settings on Google, Facebook and other third parties, and on the platforms of other providers.
+
+Finally, if you do opt out of receiving communications directly from us, we will no longer use your information for those purposes.
+
+### Do Not Track
+
+Some browsers allow you to automatically notify websites that you visit not to track you by using a ‘Do Not Track’ signal. If you have Do Not Track enabled when you visit our website, we will treat that as you having rejected cookies and not place any cookies other than those essential to the proper functioning of our website.
+
+### Additional cookie information for those who want to know more
+
+1\. We have two ways of collecting location information, both of which preserve your anonymity – either we use only the first three octets of your IP Address for a rough location that can sometimes be wrong, or we use a browser-based Geolocation API which can only work with your explicit consent to non-essential cookies (your browser will pop up a dialog asking for your consent).
+
+2\. Even if you reject cookies, after visiting our website you may notice that you see more Bellroy ads on other websites. This is probably because you have provided consent (even if you didn’t mean to) somewhere along the line to a third party, such as Google or AdWords, who may notice that you have visited the Bellroy website.
+
+3\. We use (anonymous) session IDs every time you visit our website. These are essential to ensure the website works properly, but it also means that you may be served some pages (such as product recommendations) based on usage data. The session ID is not linked to any personal data and cannot be used to identify you.
+
+4\. When you place an order or sign-up to our newsletter or otherwise provide personal data, that will be linked to your session ID and the information we have collected so far (and that until then was anonymised). You can ask us to “unlink” this information at any time by emailing us at [privacy@bellroy.com](mailto:privacy@bellroy.com) or [eu-privacy@bellroy.co.uk](mailto:eu-privacy@bellroy.co.uk)
