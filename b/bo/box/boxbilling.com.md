@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxbilling.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202200909id_/http%3A//www.boxbilling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxbilling.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623155652id_/http%3A//www.boxbilling.com/privacy-policy) for the most accurate reproduction.*
 
 # Billing and client management software
 
