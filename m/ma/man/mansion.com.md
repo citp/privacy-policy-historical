@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mansion.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206161437id_/http%3A//www.mansion.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mansion.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623152701id_/https%3A//www.mansion.com/security-and-privacy) for the most accurate reproduction.*
 
-# Mansion Casino Security & Privacy - www.Mansion.com
+# SECURITY & PRIVACY | Mansion
 
 **Introduction**
 
 Mansion.com is the homepage of the Mansion Group, responsible for some of the finest online casino brands in the world (referred to as MANSION.COM, “we”, “our” or “us” as the context requires).
 
-We have provided this privacy policy to help you understand how we collect, use and safeguard your information for the purpose of operating our online casino and poker services. You should read this notice in conjunction with our [terms and conditions](http://www.mansion.com/terms-and-conditions/) for use of this site or any other sites operated by us.
+We have provided this privacy policy to help you understand how we collect, use and safeguard your information for the purpose of operating our online casino and poker services. You should read this notice in conjunction with our [terms and conditions](http://www.mansion.com/terms-and-conditions/) for use of this site or any other sites operated by us.
 
 **Personal information**
 
@@ -16,11 +16,11 @@ We collect personal information when you use our online gambling services, make 
 
 If you choose to provide us with personal information, your personal information will be processed to allow us to provide you with online gambling services; process any of your requests for information; provide customer support services; enable the depositing and withdrawal of funds via payment settlement service providers; market our services or products or those of the Group; improve the content of our website; notify you about updates to our website, software and/or services; and support any of the intended purposes stated at the time at which your information was collected, in accordance with your preferences.
 
-We may publicise any major winnings earned by you by simply giving your username, country of origin, amount of winning and associated game - whereby you agree to this limited use of your details for this sole purpose, unless you otherwise contact us to revoke such implied consent.
+We may publicise any major winnings earned by you by simply giving your username, country of origin, amount of winning and associated game – whereby you agree to this limited use of your details for this sole purpose, unless you otherwise contact us to revoke such implied consent.
 
-**To whom your information is disclosed ("recipients")**
+**To whom your information is disclosed (“recipients”)**
 
-Our information may be disclosed for processing to any other companies within the Group and their employees; any third party service providers who use your personal information to provide services to us - such as: payment settlement service providers, marketing service providers (including affiliates), data verifiers and financial institutions, to the extent necessary for the completion of payments, joint marketing campaigns, facilitate the opening of new accounts, and fraud prevention for services provided through our website; or any auditors or contractors or other advisers auditing any of the Group's business processes, potential purchasers or investors in any company within the Group. Any processing performed by any recipients will be governed by the necessary data processing agreement in the form and substance required by applicable law, thereby preserving your rights under applicable data protection laws.
+Our information may be disclosed for processing to any other companies within the Group and their employees; any third party service providers who use your personal information to provide services to us – such as: payment settlement service providers, marketing service providers (including affiliates), data verifiers and financial institutions, to the extent necessary for the completion of payments, joint marketing campaigns, facilitate the opening of new accounts, and fraud prevention for services provided through our website; or any auditors or contractors or other advisers auditing any of the Group’s business processes, potential purchasers or investors in any company within the Group. Any processing performed by any recipients will be governed by the necessary data processing agreement in the form and substance required by applicable law, thereby preserving your rights under applicable data protection laws.
 
 We ensure that your information will not be disclosed to government institutions or authorities unless:
 
@@ -43,7 +43,7 @@ All our employees and data processors or handlers who have access to, and are as
 
 **Cookies**
 
-We may send you a permanent cookie when you register with us. A cookie is a small file that can be placed on your computer's hard disk for record-keeping purposes. Cookies can help us to recognise you when you next visit our website, note the advertisements you click on and the other sites you enter via a link from our website. This allows us to tailor the service we provide to your preferences. We may also use the data generated from cookies to compile statistical data on your use of our website. You are not obliged to accept a cookie from us or from any other website. You can modify your browser so that it will not accept cookies. Please consult the "Help" section of your browser for instructions on how to do so correctly. However, for legitimate security reasons, we may refuse access to specific website content unless you accept the use of a cookie or similar device.
+We may send you a permanent cookie when you register with us. A cookie is a small file that can be placed on your computer’s hard disk for record-keeping purposes. Cookies can help us to recognise you when you next visit our website, note the advertisements you click on and the other sites you enter via a link from our website. This allows us to tailor the service we provide to your preferences. We may also use the data generated from cookies to compile statistical data on your use of our website. You are not obliged to accept a cookie from us or from any other website. You can modify your browser so that it will not accept cookies. Please consult the “Help” section of your browser for instructions on how to do so correctly. However, for legitimate security reasons, we may refuse access to specific website content unless you accept the use of a cookie or similar device.
 
 **Protection of Minors**
 
@@ -59,6 +59,6 @@ ACCESS
 
 You may request details of your personal information kept by us by following the contact information set out below. Once we receive such a request we will ask you to verify your identity by providing relevant information or documentation. We will then request pre-payment of an administration fee of US$15 per request and upon receipt of this process your request within 40 days.
 
-If you have any enquiry about our data protection and privacy policy or practices, or wish to decline receiving e-mail offers from us or from any other companies within the Group please contact Mansion.com Member Service on +350 20044793 or by email to [support@Mansion.com](mailto:support@Mansion.com;) or write to Mansion.com, Suite 901, Europort, Gibraltar.
+If you have any enquiry about our data protection and privacy policy or practices, or wish to decline receiving e-mail offers from us or from any other companies within the Group please contact Mansion.com Member Service on +350 20044793 or by email to [support@Mansion.com](mailto:support@Mansion.com;) or write to Mansion.com, Suite 901, Europort, Gibraltar.
 
 This privacy policy was last revised on the 30th April 2010
