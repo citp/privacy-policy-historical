@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u-dress-up.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203155407id_/http%3A//www.dolidoli.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u-dress-up.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623081403id_/http%3A//www.dolidoli.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Girl Games Online - Doli Doli Games
 
