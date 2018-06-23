@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gapfactory.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118134738id_/http%3A//www.gapfactory.com/customerService/info.do%3Fcid%3D1038027) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapfactory.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623114844id_/http%3A//gapfactory.com/customerService/info.do%3Fcid%3D1038027) for the most accurate reproduction.*
 
 # Privacy Policy | Gap Factory
 
 ## Privacy Policy
 
-Last Revised September 18, 2017
+_Last Revised September 18, 2017_
 
 This policy describes the personal information Gap Inc. and our brands, which include but are not limited to Gap, Banana Republic, Old Navy, Gap Outlet, Gap Factory, Banana Republic Factory and Athleta (collectively, "Gap Inc.") collect about you, why we collect it, how we use it, and when we share it with third parties. Please note that this policy does not cover the data collection and use practices of Weddington Way, as described further, below. For full details on how Weddington Way may collect, use and share your personal information, please see Weddington Way’s [Privacy Policy.](https://www.weddingtonway.com/privacy_policy)
 
@@ -145,7 +145,7 @@ back to top
 
 In order to provide you with a more efficient and convenient shopping experience, you may be able to access various content or sign into your account from many different devices. If you use different devices (such as your home computer, laptop, mobile device and/or an intelligent personal assistant device) to access our sites or our mobile applications and/or place a transaction with or request services from one of our brands, we may be able to associate you with each of your devices. For example, our sites may allow you to access your favorite items or shopping cart via an email link that is unique to your account. By clicking on the link, you will be automatically signed into your account in order for you to continue your shopping experience where you left off. If you choose to click the email link on a new device, we will be able to associate your current device with your account information.
 
-Information we have collected from your different devices may be combined with other information you have provided us, including details about: information that is saved in your customer account; your transactional history with our brands; how you use our sites, apps and services; the products you view or services and features or in-store technologies in which you choose to interact. We may use such information to help provide more tailored experiences and consistent services and experiences across all of your devices as explained in this privacy notice. We also may use this information to prevent fraud, such as by identifying when your account is accessed from an unfamiliar device, or to provide customized offers or advertising based on your use of each device and your interactions with our brands, services and offerings. Please refer to the “Cookies” section to learn how you can exercise choices regarding cookie-based tracking, or refer to the section “How is my information used for behavioral or targeted advertising and what choices do I have?” to learn more about your choices regarding online advertising. 
+Information we have collected from your different devices may be combined with other information you have provided us, including details about: information that is saved in your customer account; your transactional history with our brands; how you use our sites, apps and services; the products you view or services and features or in-store technologies in which you choose to interact. We may use such information to help provide more tailored experiences and consistent services and experiences across all of your devices as explained in this privacy notice. We also may use this information to prevent fraud, such as by identifying when your account is accessed from an unfamiliar device, or to provide customized offers or advertising based on your use of each device and your interactions with our brands, services and offerings. Please refer to the “Cookies” section to learn how you can exercise choices regarding cookie-based tracking, or refer to the section “How is my information used for behavioral or targeted advertising and what choices do I have?” to learn more about your choices regarding online advertising.
 
 back to top
 
@@ -166,6 +166,15 @@ back to top
 #### How do I make choices about receiving promotional communications?
 
 Gap Inc. and our brands, including Gap, Gap Factory, Banana Republic, Old Navy, Banana Republic Factory and Athleta, want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below or you can click on the self-service unsubscribe links below.
+
+  * [Gap Unsubscribe](https://secure-www.gap.com/profile/info.do?cid=82639)
+  * [Gap Factory Unsubscribe](https://web.archive.org/profile/info.do?cid=1037502)
+  * [Banana Republic Unsubscribe](https://secure-bananarepublic.gap.com/profile/info.do?cid=82771)
+  * [Banana Republic Factory Unsubscribe](https://secure-bananarepublicfactory.gapfactory.com/profile/info.do?cid=1037888)
+  * [Old Navy Unsubscribe](https://secure-oldnavy.gap.com/profile/info.do?cid=82636)
+  * [Athleta Unsubscribe](https://secure-athleta.gap.com/profile/info.do?cid=82633)
+
+
 
 If contacting customer service, please be sure to include your full name and the email address you used when you registered with or made a purchase from the Gap Inc. brand. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Gap Inc.
 
@@ -199,7 +208,7 @@ back to top
 
 #### How is my information used for behavioral or targeted advertising and what choices do I have?
 
-We use our own cookies to help determine which of our ads are shown to you on other websites. To opt out of this targeted online advertising by Gap Inc. that utilizes our cookies, please click [here](http://dtmc.gap.com/adinfo/adchoices_fpc.html?cid=2366&cname=Gap%20Inc.&cmagic=d3b1fb&clogo=Gap_INC_LOGOS.png).
+We use our own cookies to help determine which of our ads are shown to you on other websites. To opt out of this targeted online advertising by Gap Inc. that utilizes our cookies, please click [here](http://dtmc.gap.com/adinfo/choice/prod/?type=fpc&cid=3134&cname=The%20Gap&cmagic=35937e&clogo=3134.png&loc=us&lang=en-us).
 
 We also work with third-party companies that use their tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information over time about your activity on our sites and other sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. These technologies and the information collected about you may also be used to track your activity across multiple devices. For more information about this practice and to understand your options including how to opt out of receiving these tailored advertisements, please visit [http://www.aboutads.info](http://www.aboutads.info/).
 
@@ -402,7 +411,7 @@ Podemos compartir sus datos e información personal, de alguna de las siguientes
   * **Requerimientos legales.** Podemos compartir información sobre usted, si a nuestro juicio es necesario o apropiado, para cumplir con las leyes y reglamentos o en respuesta a un requerimiento, orden o solicitud gubernamental válidos, o para proteger las operaciones, privacidad, seguridad, propiedad o los derechos de Gap Inc. u otros.
   * **Programas Scrip o de lealtad.** Si decide participar en cualquier programa de lealtad, programa scrip de terceros o cualquier otro programa similar en el que una marca de Gap Inc. sea un proveedor participante, y autoriza a Gap Inc. o a nuestro procesador de tarjetas de crédito a proporcionar información sobre sus compras a la compañía que administra el programa, compartiremos dicha información con el administrador. Los programas Scrip le permiten darnos instrucciones para desviar un porcentaje de la cantidad que gasta en compras de Gap Inc. a las escuelas participantes y otras organizaciones no lucrativas. Los programas de lealtad le permiten acumular "puntos" en compras de productos de las marcas de Gap Inc., que pueden utilizarse para adquirir ciertas recompensas ofrecidas por los programas de lealtad en los que participe. La información que nos autoriza a revelar a los Programas Scrip o programas de lealtad de terceros puede incluir su número de tarjeta de crédito y la fecha y la cantidad de su compra, así como su nombre y otra información que nos ha solicitado compartir. Tenga en cuenta que una vez que compartimos su información, la compañía del programa Scrip o del programa de lealtad pueden utilizarla y compartirla de acuerdo con sus propias políticas de privacidad. Le pedimos revisar cuidadosamente dichas políticas puesto que no tenemos control sobre ellas.
   * **Transferencia del negocio.** En el improbable caso de una venta o fusión de Gap Inc. o cualquiera de nuestros negocios, la información personal de nuestros clientes y otra información que hemos recabado conforme a lo que se describe en esta política puede ser uno de los activos transferidos.
-  * **Otras comunicaciones.** Podemos compartir su información como se describe al momento de recabarla y de conformidad con el consentimiento otorgado. 
+  * **Otras comunicaciones.** Podemos compartir su información como se describe al momento de recabarla y de conformidad con el consentimiento otorgado.
 
 
 
@@ -476,13 +485,16 @@ Volver al inicio
 
 ### ¿Cómo puedo decidir acerca de recibir comunicaciones promocionales?
 
-Gap Inc. y nuestras marcas, incluyendo Gap, Banana Republic, Old Navy, Gap Factory, Banana Republic Factory, y Athleta. desean comunicarse con usted solamente si usted quiere saber de nosotros. Si prefiere no recibir información promocional o publicitaria, como información acerca de ofertas especiales y ventas de una o mas de nuestras marcas, puede hacérnoslo saber a través de nuestro servicio al cliente, tal y como se describe en la sección titulada "¿Cómo puedo contactarlos?" incluida más adelante o haciendo clic en los siguientes enlaces para anular su suscripción.  
-[Anular su suscripción a Gap](https://secure-www.gap.com/profile/info.do?cid=82639)  
-[Anular su suscripción a Gap Factory](https://secure-www.gapfactory.com/profile/info.do?cid=1037502)  
-[Anular su suscripción a Banana Republic](https://secure-bananarepublic.gap.com/profile/info.do?cid=82771)  
-[Anular su suscripción a Banana Republic Factory Store](https://secure-bananarepublicfactory.gapfactory.com/profile/info.do?cid=1037888)  
-[Anular su suscripción a Old Navy](https://secure-oldnavy.gap.com/profile/info.do?cid=82636)  
-[Anular su suscripción a Athleta](https://secure-athleta.gap.com/profile/info.do?cid=82633)
+Gap Inc. y nuestras marcas, incluyendo Gap, Banana Republic, Old Navy, Gap Factory, Banana Republic Factory, y Athleta. desean comunicarse con usted solamente si usted quiere saber de nosotros. Si prefiere no recibir información promocional o publicitaria, como información acerca de ofertas especiales y ventas de una o mas de nuestras marcas, puede hacérnoslo saber a través de nuestro servicio al cliente, tal y como se describe en la sección titulada "¿Cómo puedo contactarlos?" incluida más adelante o haciendo clic en los siguientes enlaces para anular su suscripción.
+
+  * [Anular su suscripción a Gap](https://secure-www.gap.com/profile/info.do?cid=82639)
+  * [Anular su suscripción a Gap Factory](https://secure-www.gapfactory.com/profile/info.do?cid=1037502)
+  * [Anular su suscripción a Banana Republic](https://secure-bananarepublic.gap.com/profile/info.do?cid=82771)
+  * [Anular su suscripción a Banana Republic Factory Store](https://secure-bananarepublicfactory.gapfactory.com/profile/info.do?cid=1037888)
+  * [Anular su suscripción a Old Navy](https://secure-oldnavy.gap.com/profile/info.do?cid=82636)
+  * [Anular su suscripción a Athleta](https://secure-athleta.gap.com/profile/info.do?cid=82633)
+
+
 
 Si contacta a servicio al cliente, por favor asegúrese de incluir su nombre completo y la dirección de correo electrónico que utilizó cuando se registró o hizo una compra con la marca de Gap Inc. Si nos solicita eliminar su nombre y dirección de nuestras listas promocionales, mantendremos su nombre en un archivo de "no contactar" para garantizar que podemos cumplir con su solicitud. El procesar su solicitud puede tardar hasta 10 días si se hizo por correo electrónico y 6-8 semanas si se hizo por correo postal; tiempo durante el cual podrá continuar recibiendo comunicaciones de Gap Inc. 
 
@@ -516,7 +528,7 @@ Volver al inicio
 
 ### ¿Cómo se utilizan mis datos personales para publicidad dirigida o basada en comportamiento y qué opciones tengo?
 
-Utilizamos cookies propias para ayudar a determinar cuáles de nuestros anuncios publicitarios le serán mostrados en otros sitios web. Para dejar de recibir publicidad dirigida en línea de Gap Inc., la cual utiliza nuestras cookies, por favor dé clic [aquí](http://dtmc.gap.com/adinfo/choice/prod/?type=fpc&cid=3133&cname=Athleta&cmagic=7221e5&clogo=3133.png&loc=us&lang=en-us). 
+Utilizamos cookies propias para ayudar a determinar cuáles de nuestros anuncios publicitarios le serán mostrados en otros sitios web. Para dejar de recibir publicidad dirigida en línea de Gap Inc., la cual utiliza nuestras cookies, por favor dé clic [aquí](http://dtmc.gap.com/adinfo/choice/prod/?type=fpc&cid=3134&cname=The%20Gap&cmagic=35937e&clogo=3134.png&loc=us&lang=en-us). 
 
 Trabajamos también con otras empresas que usan sus propias tecnologías de seguimiento (incluyendo cookies y etiquetas de pixel) en nuestros sitios web con el fin de proporcionar anuncios publicitarios a la medida en nuestro nombre y en beneficio de otros anunciantes en Internet. Estas empresas podrán recabar información, a lo largo del tiempo, acerca de su actividad en nuestros sitios y otros sitios y su interacción con nuestra publicidad y demás comunicaciones, y utilizarán esta información para decidir qué anuncios publicitarios verá en sitios web y aplicaciones de terceros. Estas tecnologías y la información recopilada pueden también emplearse para rastrear su actividad entre varios dispositivos. Para mayor información acerca de esta práctica y para entender sus opciones incluyendo el optar por no recibir esta publicidad personalizada, por favor visite [http://www.aboutads.info](http://www.aboutads.info/). 
 
@@ -605,15 +617,15 @@ Groveport, OH 43125
 _Servicio al Cliente de Gap Factory_  
 6007 Green Pointe Drive  
 Groveport, OH 43125  
-1-844-GFS-ONLINE (1-844-437-6654)  
+1-844-GFS-ONLINE (1-844-437-6654)  
 1-888-906-1104 (TDD para personas con discapacidad auditiva)  
 [custserv@gapfactory.com](mailto:custserv@gapfactory.com)
 
 _Servicio al Cliente de Banana Republic Factory_  
 6007 Green Pointe Drive  
 Groveport, OH 43125  
-1-844-273-7746   
-1-888-906-1345 (TDD para personas con discapacidad auditiva)  
+1-844-273-7746  
+1-888-906-1345 (TDD para personas con discapacidad auditiva)  
 [custserv@bananarepublicfactory.com](mailto:custserv@bananarepublicfactory.com)
 
 Volver al inicio
