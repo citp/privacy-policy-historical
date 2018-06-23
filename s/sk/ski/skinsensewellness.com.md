@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinsensewellness.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217011117id_/http%3A//skinsensewellness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinsensewellness.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623024331id_/https%3A//skinsensewellness.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy | SkinSense Wellness Day Spa Los Angeles
 
@@ -48,7 +48,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 You may reach us by:
 
-1\. visiting our [Contact Us](http://www.skinsensewellness.com/contact "Contact Us") page
+1\. visiting our [Contact Us](https://www.skinsensewellness.com/contact "Contact Us") page
 
 2\. calling 323.653.470 in the US
 
