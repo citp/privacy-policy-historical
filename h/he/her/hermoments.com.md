@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hermoments.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222092546id_/http%3A//hermoments.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hermoments.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623173702id_/http%3A//hermoments.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Her Moments
 
-**Your privacy is very important to us at Her Moments, and so we have a few fundamental principles that we follow in order to protect it:**
+Your privacy is very important to us at Her Moments, and so we have a few fundamental principles that we follow in order to protect it:
 
   * We don’t ask you for personal information unless we truly need it.
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
@@ -34,7 +34,9 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 **Third Party Vendors:**
 
-Third party vendors, including Google, use cookies to serve ads to you based on a your prior web site visits to Her Moments and/or other websites. You may opt out of the use of the Google cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+We use third party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+Third party advertising companies, including Google, use cookies to serve ads to you based on a your prior web site visits to Boredom Therapy and/or other websites. You may opt out of the use of the Google cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
 
 **Links To Third Party Websites:**
 
