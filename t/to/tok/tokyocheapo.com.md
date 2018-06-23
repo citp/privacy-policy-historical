@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyocheapo.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911071719id_/https%3A//tokyocheapo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyocheapo.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623033305id_/https%3A//tokyocheapo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tokyo Cheapo
 
@@ -31,13 +31,20 @@ We only provide articles and information, and we never ask for personal or priva
 
 ### Do we use ‘cookies’?
 
+Yes we use cookies (cookies are a small piece of data stored in your web browser when you visit our website [read more here](https://en.wikipedia.org/wiki/HTTP_cookie)).  
 **We use cookies to:**
 
   * Understand and save user’s preferences for future visits,
   * Keep track of advertisements,
+  * Use third party tools & networks (for instance facebook & google) to promote and advertise our articles, brand names and also our partners’ brands, products and services,
   * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf. 
 
 
+
+Examples of how we could use cookies:  
+If you set your currency to USD, on subsequent visits we’ll automatically display the currency in USD.  
+If you visit the page about [our ebook](https://tokyocheapo.com/book/), we can later on use Facebook to display you an ad for our ebook.  
+If you visit a page about a specific hotel, we (or our hotel partner) can use Facebook to display you an ad about this hotel (or a similar hotel).
 
 **If users disable cookies in their browser:**  
 It will turn off some of the features of the site
@@ -128,9 +135,10 @@ Follow the instructions at the bottom of each email.
 Tokyo Cheapo, is part of CheapoGuides.com and is owned/operated by **Fast Train Limited** , Hong Kong:
 
 **Physical Address** :  
-Unit 1010, 10/F, Miramar Tower,  
-132 Nathan Road,  
-Tsim Sha Tsui,  
+Fast Train Limited  
+8th Floor, Richmond Commercial Building,  
+109 Argyle Street,  
+Mong Kok,  
 Kowloon,  
 Hong Kong
 
