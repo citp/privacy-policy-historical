@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prepbootstrap.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221183754id_/http%3A//www.prepbootstrap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepbootstrap.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624014616id_/http%3A//www.prepbootstrap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PrepBootstrap
 
@@ -34,3 +34,19 @@ We make sure that appropriate security measures are taken to protect your person
 #### Credit Card Processing
 
 A third-party service provider is used by us to manage credit card processing. This service provider is not permitted to store, retain, or use your personal information except for the sole purpose of credit card processing on our behalf. 
+
+#### Revision of Personal Data
+
+PrepBootstrap retains minimum Personal Data that is reasonable and needed in the management and maintenance of a product supplier to customer relationship. PrepBootstrap customers may review and update their profile and subscription information on the PrepBootstrap website customer portal. 
+
+If you have issues revising your Personal Data, send mail to admin@prepbootstrap.com and state your need and contact information for help. 
+
+#### Retention and Deletion of Personal Data
+
+PrepBootstrap will retain your Personal Data for as long as your account is active; as needed to provide you products or services; as stated in the Terms of Use agreement; as needed for the purposes outlined in this policy or at the time of collection; as necessary to comply with our legal obligations, honor UNSUBSCRIBE requests, meet financial audit requirements and enforce our agreements; or to the extent that is permitted by law. 
+
+If requested, PrepBootstrap will delete your Personal Data in a manner that ensures your identify cannot be reconstructed or read. A deletion request may not result in the entire deletion of your data. Purchase information will be maintained for legal and financial audit purposes. Forums submissions will be retained as per the Terms of Use Agreement and your name will be removed. If you wish to remove your Personal Data, send mail to [admin@prepbootstrap.com](mailto:admin@prepbootstrap.com) with "Subject: Remove My Personal Data" and explicitly state your need and contact information. 
+
+#### Personal Data Transfer, Processing and Storage
+
+The Personal Data that we store is not highly sensitive and is needed in order to conduct normal and expected business practices. Specifically, Personal Data, as described in this policy, is stored on US-based data servers or in Cloud Storage Services managed by US and International companies. We and all third party companies with which we engage with have committed to complying with the 2018 EU GDPR privacy regulation for EU residents. Based on the Lawful basis definition, as defined by the EU GDPR regulation, PrepBootstrap's use and storage of minimal Customer Personal Data, the Legitimate Interests basis is the appropriate legal basis of data storage and use. It is a reasonable and expected use of customer and prospective customer data. 
