@@ -1,46 +1,38 @@
-> *The following text is extracted and transformed from the bodoglife.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502152047id_/https%3A//www.bodog.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodoglife.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623055740id_/https%3A//www.bodog.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bodog
 
-[www.bodog.eu](http://www.bodog.eu/)
+Please read this privacy statement carefully before submitting any personal information. By your use of the Website and or use of any associated apps or services you confirm your consent to the use of your information as set out in this policy. If you do not agree with the terms herein then you must immediately discontinue your use of the Website and its services.
 
-(the "Website")
-
-Latest Update: February 20, 2013 
-
-Please read this privacy statement carefully before submitting any personal information.
-
-**OUR COMMITMENT TO PRIVACY**
+### OUR COMMITMENT TO PRIVACY
 
 Bodog Europe ("we" or "us" or "our") is committed to protecting and respecting your privacy. Your privacy is important to us. To better protect your privacy we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used. To make this statement easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
 
-**APPLICATION OF THIS NOTICE**
+### APPLICATION OF THIS NOTICE
 
 This privacy statement applies only to the information collected by us from users of the Website. It does not apply to information collected by us in any other way, including any that is submitted to us offline.
 
-**THE INFORMATION WE COLLECT**
+### THE INFORMATION WE COLLECT
 
 We may collect and process the following data about you:
 
 Personal information provided when you register for an account and all content, materials and information submitted to or uploaded on the Website.
 
-  
 Information that you provide if you enter a competition or promotion on the Website or when you report a problem with the Website.
 
-  
 Correspondence passing between you and us.
 
-  
-Responses to any surveys that we use for research purposes, although you do not have to participate in such surveys.  
-Details of transactions you carry out through the Website and of the processing of your account including details of your payment history, tournament fees and amounts that you have staked on games and the amounts that you have won or lost.  
-Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own accounting purposes or otherwise and the resources that you access.
+Responses to any surveys that we use for research purposes, although you do not have to participate in such surveys.
 
-  
+Details of transactions you carry out through the Website and of the processing of your account including details of your payment history, tournament fees and amounts that you have staked on games and the amounts that you have won or lost.
+
+Details of your visits to the Website or use of any associated apps, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own accounting purposes or otherwise and the resources that you access.
+
 We compile statistics that show the numbers and frequency of visitors to the Website and its individual pages. The Website is not set up to automatically collect personally identifiable information from each visitor to it. It does recognize the home server of visitors, but not email addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to the Website. This information is used for internal purposes by our technical support staff, our agents and sub-contractors.
 
-**IP ADDRESSES AND COOKIES**
+### IP ADDRESSES AND COOKIES
 
-We may collect information about your computer including, where available, your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They are used to track how and when visitors use the Website and help us to improve the Website and deliver a better and more personalized service. They enable us:
+We may collect information about your computer or device used to access the Website or the use of any associated apps including, where available, your IP address, operating system and browser type, your location, for system administration and to report aggregate information to our advertisers. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They are used to track how and when visitors use the Website and help us to improve the Website and deliver a better and more personalized service. They enable us:
 
   * To estimate our audience size and usage pattern.
   * To store your passwords and information about your preferences so as to allow us to customize the Website according to your individual interests.
@@ -53,7 +45,7 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 Please note that our advertisers, sponsors and third party websites that you can link to from the Website may also use cookies, over which we have no control so you should review any policies applicable to such websites.
 
-**WHERE WE STORE YOUR PERSONAL DATA**
+### WHERE WE STORE YOUR PERSONAL DATA
 
 Certain portions of your personal data will be stored on servers in the Kahnawake Mohawk Territory in Canada and may also be transferred to and processed on servers situated in this jurisdiction. From time to time your data may also be transferred to and processed on servers situated in other jurisdictions for the purposes set out below, including backup and disaster recovery. Such processing may be performed by us or on our behalf, by our staff, agents and sub-contractors who may be located anywhere in the world. By submitting your personal data, you agree to this storing, transfer and processing.
 
@@ -63,7 +55,7 @@ Where you have chosen a password which enables you to access certain parts of th
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to or uploaded on the Website, which takes place at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
 
-**HOW WE USE YOUR INFORMATION**
+### HOW WE USE YOUR INFORMATION
 
 We will use your personal information (such as your name, postal or email address or telephone number) for specific purposes which may include:
 
@@ -81,7 +73,7 @@ We will use your personal information (such as your name, postal or email addres
 
 At any time, you can easily opt in to or opt out of receiving further marketing from us or our carefully selected third parties by updating your account profile. Third party content may from time to time appear on the Website or be accessible from the Website via links to other websites. If you follow a link to any of these websites, you leave the Website and enter sites that may or may not have their own privacy statements. We have not reviewed, do not monitor and are not responsible for the content on such websites or for the terms of their privacy statements. Please check these statements before you access or submit any personal data to these websites.
 
-**DISCLOSURE OF YOUR INFORMATION**
+### DISCLOSURE OF YOUR INFORMATION
 
 We may disclose your personal information to any of our associated companies or partners necessary for the provision of the services to you.
 
@@ -92,10 +84,9 @@ We may disclose your personal information to third parties:
 
 
 
-  
 Our agents or sub-contractors who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for us.
 
-**HOW YOU CAN ACCESS OR CORRECT YOUR INFORMATION**
+### HOW YOU CAN ACCESS OR CORRECT YOUR INFORMATION
 
 You can request a copy of the personally-identifiable information that we have collected about you via the Website by contacting our Customer Services team at the address below.
 
@@ -105,17 +96,17 @@ Any request for a copy of the personally-identifiable information that we have c
 
 You can also have factual inaccuracies in the personal information that we hold about you corrected by contacting our Customer Service team, who may require you to send in supporting documentation.
 
-**CHANGES TO OUR PRIVACY POLICY**
+### CHANGES TO OUR PRIVACY POLICY
 
 We may amend or vary this statement at any time and with immediate effect by updating this web page and, whilst we will seek to notify you of such changes beforehand, we may not always be able to do so, so you should check this web page every time you visit the Website to review the then current privacy statement.
 
 The terms of this privacy statement are to be governed by and construed in accordance with the laws of the State of Antigua and Barbuda and any disputes that cannot be resolved shall be subject to the exclusive jurisdiction of the courts of Antigua and Barbuda.
 
-**INTREGITY OF SPORT**
+### INTREGITY OF SPORT
 
 Bodog is committed to ensuring the integrity of sport and to participating in efforts to identify and eradicate match fixing. As such, notwithstanding any other term of the Terms of Service, or any provision of the applicable Privacy Policy, by placing a bet or wager on the website, you expressly acknowledge and agree that Bodog at all times reserves the right in its sole discretion to report Irregular Betting Activity to such sports federations, regulators, agencies, commissions or associations (or their respective agents) as Bodog deems appropriate ("Regulatory Bodies") in order to enable identification of irregular activity and to support appropriate investigations. "Irregular Betting Activity" means activity that, in Bodog's sole assessment, deviates from expected betting patterns and includes, without limitation: (i) an unusual and significant number of bets originating from the same geographic region or through linked accounts; (ii) a bettor continuing to place bets at any price in the face of a steady reduction in the applicable odds; and/or (iii) any other indicator or pattern assessed by Bodog as indicative of potential match fixing. Bodog shall use reasonable commercial measures to ensure that any information provided to Regulatory Bodies pursuant to this provision is subject to reasonable contractual non-disclosure provisions, and that all information or documentation shall be destroyed by such Regulatory Bodies when it is no longer relevant in connection with any ongoing investigation, enquiry or disciplinary process.
 
-**HOW TO CONTACT US**
+### HOW TO CONTACT US
 
 If you would like to contact us for any reason regarding our privacy practices or to request a copy of the personally-identifiable information that we have collected about you via the Website please write to our Customer Services team at [service@bodog.eu](mailto:service@bodog.eu)
 
@@ -134,4 +125,4 @@ St. John’s, Antigua
   
 **POLICY LAST UPDATED**
 
-February 20, 2013
+Last updated February 22, 2018
