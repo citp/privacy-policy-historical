@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radio.or.ke privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225041248id_/http%3A//www.radio.or.ke/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio.or.ke privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623161746id_/http%3A//www.radio.or.ke/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Radio.or.ke
 
@@ -7,17 +7,11 @@ Radio.or.ke works to ensure that your privacy is protected when using our servic
 
 ## How do we use your personal data?
 
-In providing your personal details, you consent to us using the data collected in order to meet our commitments to you and to provide you with the service you expect. We need your data for the following purposes:
+In providing your personal details, you consent to us using the data collected in order to meet our commitments to you and to provide you with the service you expect. We will only keep your data for as long as necessary to carry out our services to you or for as long as we are required by law. After this your personal data will be deleted. We cannot remove your data when there is a legal storage requirement, such as book-keeping rules or when there are other legal grounds to keep the data, such as an ongoing contractual relationship.
 
-  * To create your personal account at Radio.or.ke (e.g. your name and email address)
-  * To send you marketing offers such as newsletters and catalogues (e.g. your email address, your name and your postal address)
-  * To answer your queries and to inform you of new or changed services (e.g. your email address)
-  * To notify the winners in competitions arranged online (e.g. your email address, name, home address and telephone number)
-  * To analyse your personal data to provide you with relevant marketing offers and information (e.g. name, buying habits)
+## General Data Protection Regulation (GDPR)
 
-
-
-We will only keep your data for as long as necessary to carry out our services to you or for as long as we are required by law. After this your personal data will be deleted. We cannot remove your data when there is a legal storage requirement, such as book-keeping rules or when there are other legal grounds to keep the data, such as an ongoing contractual relationship.
+In the European Economic Area (EEA) we only show you non-personalized ads. These ads are not based on your past behavior and do not use cookies for ad targeting.
 
 ## What are your rights?
 
@@ -41,7 +35,7 @@ You can easily erase cookies from your computer or mobile device using your brow
 
 ## Third-party cookies
 
-We use third-party cookies to collect statistics in aggregate form in analysis tools such as Google Analytics and Core Metrics. The cookies used are both permanent and temporary cookies (session cookies). The permanent cookies are stored on your computer or mobile device for no longer than 24 months.
+We use third-party cookies to collect statistics in aggregate form in analysis tools such as [Facebook](https://www.facebook.com/policies/cookies/), [Google AdSense](https://www.google.com/policies/technologies/ads/), [Google Analytics](https://www.google.com/policies/privacy/partners/), [Google+](https://www.google.com/policies/technologies/cookies/) and [Twitter](https://help.twitter.com/rules-and-policies/twitter-cookies). The cookies used are both permanent and temporary cookies (session cookies). The permanent cookies are stored on your computer or mobile device for no longer than 24 months.
 
 ## Links
 
@@ -50,3 +44,7 @@ Radio.or.ke may include links to other websites which do not fall under our supe
 ## Copyright
 
 The content of this site is copyright-protected and is the property of Radio.or.ke.
+
+## Third-party data processors
+
+Radio.or.ke only uses third-party processors who are in compliance with the European Union’s General Data Protection Regulation (GDPR) and for every third-party processor a Data Processing Agreements (DPA) is in place.
