@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the viruslist.com privacy policy that was archived on 2017-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228003909id_/http%3A//www.kaspersky.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viruslist.com privacy policy that was archived on 2018-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624015827id_/https%3A//www.kaspersky.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" csstransforms"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
     <meta charset="utf-8">
@@ -16,7 +16,7 @@
     <script type="text/javascript" src="/resources/template/js/site/history.min.js" defer="defer"></script>
     <script type="text/javascript" src="/resources/template/js/site/ie9.js" defer="defer"></script>
     <![endif]-->
-    <script crossorigin="" src="https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.2.3/rollbar.min.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WZ7LJ3"></script><script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WZ7LJ3"></script><script>
         var dataLayer = window.dataLayer = window.dataLayer || [];
         dataLayer.push({
             event: 'init',
@@ -28,221 +28,233 @@
     <!-- Maxymiser script start -->
     <script type="text/javascript" src="//service.maxymiser.net/cdn/com.kaspersky/js/mmapi.js"></script>
     <!-- Maxymiser script end -->
+<script src="/resources/template/js/dl2.loader.js" data-config-src="/resources/template/config/dl2.json" data-config-patch-src="/content/en-global/localization/dl2-patch.json" async=""></script>
+<script src="/resources/template/js/app/vendor.min.js"></script><script src="/resources/template/js/app/launch.min.js"></script><link href="/resources/template/css/main.min.css" type="text/css" rel="stylesheet"><!-- ngRepeat: (k, css) in routeStyles track by k --><link rel="stylesheet" ng-repeat="(k, css) in routeStyles track by k" ng-href="/resources/template/css/about.min.css" class="ng-scope" href="/resources/template/css/about.min.css"><!-- end ngRepeat: (k, css) in routeStyles track by k --><meta name="referrer" content="no-referrer"><meta name="description" content="Privacy Policy"><meta name="DocId" content="/privacy"><meta name="DocType" content="Marketing-B2B"><meta name="PublishDate" content="2018-06-23"><meta name="PubLang" content="en"><meta name="PubCountry" content="global"><meta name="Breadcrumb" content="Home/Privacy Policy"><meta name="SearchAreaNavigator" content="about-section"><script src="/resources/template/js/app/vendor.min.js"></script><script src="/resources/template/js/app/launch.min.js"></script><link href="/resources/template/css/main.min.css" type="text/css" rel="stylesheet"></head>
+<body class="locale--en-global">
+<script>
+var IPCountry = 'RU', pageSettings = "/content/", pageTemplate = "/resources/template/index.html",
+    pageScript = "/resources/template/js/app/launch.min.js", IEhack = {response: "Please, update your browser."}, customFlag = false, error404 = false,
+    content = {}, templates = {};
+	if(!window.kaspersky) window.kaspersky = {};
+	window.kaspersky.trackPageViewOnLoad = 0;
 
-<link href="/resources/template/css/main.min.css" type="text/css" rel="stylesheet"><!-- ngRepeat: (k, css) in routeStyles track by k --><link rel="stylesheet" ng-repeat="(k, css) in routeStyles track by k" ng-href="/resources/template/css/about.min.css" class="ng-scope" href="/resources/template/css/about.min.css"><!-- end ngRepeat: (k, css) in routeStyles track by k --><meta name="description" content="Privacy Policy"><meta name="DocId" content="/privacy"><meta name="DocType" content="Marketing-B2B"><meta name="PublishDate" content="2017-12-27"><meta name="PubLang" content="en"><meta name="PubCountry" content="global"><meta name="Breadcrumb" content="Home/Privacy Policy"><meta name="SearchAreaNavigator" content="about-section"></head>
-<body class="locale--en-global ng-ready-true" ng-ready="true"><!-- uiView: --><ui-view class="ng-scope"><notification-bar-geo class="ng-scope ng-isolate-scope"><!-- # Geobar lite persistant message # -->
-<!-- ngIf: $ctrl.showGeoBar -->
+if (pageTemplate.match(/custom/)) {
+    customFlag = true
+}
+if (pageSettings.match(/error404/)) {
+    error404 = true;
+}
 
-<script type="text/ng-template" id="geoNotificationPopup">
-	<div class="notification-wrapper world-map-background">
-		<div class="container">
-			<div class="notification-inner">
-				<notification-content ng-bind-html="$ctrl.parseNotification($ctrl.data.notificationContent)"></notification-content>
+var req = new XMLHttpRequest(),
+    link;
+customFlag ? link = pageTemplate.replace(/\/resources\/template/, "") : link = pageTemplate;
+req.open("GET", link);
+req.onreadystatechange = function()                    {
+    if (this.readyState == 4 && this.status == 200) {
+        IEhack.response = this.response || this.responseText;
+        if (customFlag) {
+            loadCustomHtml();
+            return;
+        }
 
-				<div class="notification-ctas">
-					<a class="button transparent" href="#" ng-click="$ctrl.closeNotification($event)"><content>{{$ctrl.data.stayCTA}}</content></a>
-					<a class="button red" href="#" ng-click="$ctrl.applyOption($event)"><content>{{$ctrl.regionObj.name || $ctrl.targetUrl.host}}</content></a>
-				</div>
-			</div>
-			
-			<a href="#" data-notification-type="{{$ctrl.regionObj.lang}}" class="notification-button notification-close" ng-click="$ctrl.closeNotification($event)">&#x2716;</a>
-		</div>
-	</div>
+        loadVendorAndLaunch();
+        loadCss();
+
+    }
+
+    function loadCustomHtml() {
+        document.open("text/html", "replace");
+        document.write(IEhack.response);
+        document.close();
+        var baseTag = document.createElement("base");
+        baseTag.href = "/";
+        if (document.getElementsByTagName("base").length == 0) document.getElementsByTagName("head")[0].appendChild(baseTag);
+    }
+};
+if(customFlag) {
+    req.send();
+} else {
+
+        loadVendorAndLaunch();
+        loadCss();
+}
+
+    function loadCss() {
+        var cssFile = document.createElement("link");
+        cssFile.href = "/resources/template/css/main.min.css";
+        cssFile.type = "text/css";
+        cssFile.rel = "stylesheet";
+        document.getElementsByTagName("head")[0].appendChild(cssFile);
+
+    }
+
+    function loadVendorAndLaunch() {
+        var vendorSrc = "/resources/template/js/app/vendor.min.js",
+        launchSrc = "/resources/template/js/app/launch.min.js",
+        pagePrefetch = pageSettings.replace(/^\/content\//,"");
+
+        // List below left for testng on local env and cloudfront
+        // pagePrefetch+="/content/en-za/homepage/meta.json,/resources/template/html/pages/homepage/index.html,";
+        // pagePrefetch+="/resources/template/html/modules/_shared/components/homepage-banner/templates/homepage-banner.html,";
+        // pagePrefetch+="/resources/template/html/modules/_shared/components/promo-section/templates/promo-section.html,";
+        // pagePrefetch+="/resources/template/html/modules/_shared/components/renew-and-about/templates/renew-and-about.html,";
+        // pagePrefetch+="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenLite.min.js,";
+        // pagePrefetch+="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/plugins/CSSPlugin.min.js,";
+        // pagePrefetch+="/resources/template/html/modules/_shared/components/notification-bar-geo/templates/notification-bar-geo.html,";
+        // pagePrefetch+="/resources/template/html/modules/_shared/components/site-bar/templates/site-bar.html,";
+        // pagePrefetch+="/resources/template/html/modules/_shared/components/malware-stats/templates/malware-stats.html,";
+        // pagePrefetch+="/resources/template/html/modules/_shared/components/site-footer/templates/site-footer.html,";
+        // pagePrefetch+="/resources/template/html/modules/_shared/components/hmc/templates/hmc-homepage.html,";
+        // pagePrefetch+="/resources/template/html/modules/_shared/components/news-letter-opt-in/templates/news-letter-opt-in.html,";
+        // pagePrefetch+="/content/en-za/images/homepage/bg-hero-header-business.jpg,";
+        // pagePrefetch+="/content/en-za/images/homepage/bg-hero-header-home.jpg,";
+        // pagePrefetch+="/resources/template/html/modules/_shared/components/trustpilot-reviews/templates/trustpilot-reviews.html";
+
+
+        [vendorSrc, launchSrc].concat(pagePrefetch.split(",")).forEach(function(src) {
+            if(typeof src === 'string')src = src.trim();
+            if(src.match(/.js$/)) {
+                var script = document.createElement('script');
+                script.src = src;
+                script.async = false;
+                if(src.match(/cdnjs/)) script.async = true;
+                document.head.appendChild(script);
+            }
+
+            if(src === '/resources/template/js/app/launch.min.js') {
+                script.onload =function()  {
+					if(document.body) {
+                            var uiview = document.createElement("ui-view");
+                            document.body.appendChild(uiview);
+							loadAngularBootStrap();
+
+
+					} else {
+					   var arr = [], i = 0;
+						var bodyTime = function () {
+							var x = setTimeout(function () {
+								if(document.body) {
+									for(i=0; i< arr.length; i++) {
+									   clearTimeout(arr[i]);
+									}
+									var uiview = document.createElement("ui-view");
+									document.body.appendChild(uiview);
+									loadAngularBootStrap();
+
+								} else {
+									bodyTime()
+								}
+							},50);
+							arr.push(x);
+						};
+						bodyTime();
+					}
+				}
+            }
+            if(src.indexOf('json') !== -1 || src.indexOf('html') !== -1) {
+                var xhr = new XMLHttpRequest();
+                xhr.open("GET", src);
+                xhr.onreadystatechange = function() {
+                    if (this.readyState == 4 && this.status == 200) {
+                        if(src.indexOf('json') !== -1) window.content[encodeURIComponent(src)] = JSON.parse(xhr.response || xhr.responseText);
+                        if(src.indexOf('html') !== -1) window.templates[encodeURIComponent(src)] = xhr.response || xhr.responseText;
+                    }
+                }
+                xhr.send();
+            }
+            if(src.match(/.jpg$/)) {
+                var img = new Image();
+                img.src = src;
+
+            }
+        });
+    }
+
+    function loadAngularBootStrap() {
+        if (document.documentMode === 9) {
+            var angularCheck = setInterval(function() {
+                if (typeof angular === 'object') {
+                    angular.bootstrap(document, ["kappGlobal"]);
+					// Loading GTM here after CSS
+					loadGTM();
+                    clearInterval(angularCheck);
+                }
+            }, 50);
+        } else {
+            angular.bootstrap(document, ["kappGlobal"]);
+			// Loading GTM here after CSS
+			loadGTM();
+        }
+    }
+
+    function loadOmniture() {
+        var omniture = document.createElement("script");
+        omniture.src = "https://media.kaspersky.com/tracking/omniture/s_code_single_suite.js";
+        omniture.async = true;
+        document.getElementsByTagName("body")[0].appendChild(omniture);
+    }
+
+    function loadGTM() {
+        // TODO: remove extra loadGTM wrapper function when GTM load procedure change is approved
+        loadOmniture();
+    }
 </script>
-</notification-bar-geo>
-<site-top resource="" data="" class="ng-scope ng-isolate-scope"><!-- Start Component Presentation: {"ComponentID" : "tcm:261-333099","ComponentTemplateID" : "tcm:246-294262-32"} --><div id="site-top" class="site-top">
-	<div class="container">
-		<nav class="site-nav">
-			<div class="label">
-				<p ng-bind-html="$ctrl.data.label | xpm:'Content':'label'" class="ng-binding"><!-- Start Component Field: {"XPath" : "tcm:Content/custom:Content/custom:label"} -->Solutions for:</p>
-			</div>
-			<ul class="site-selector">
-				<!-- ngRepeat: section in $ctrl.data.sections --><li ng-repeat="section in $ctrl.data.sections" ng-class="{active: $ctrl.getActiveItem(section.link)}" class="ng-scope">
-          <a xpm="sections[1]/custom:link" href="/home-security">
-              <i class="font-icons icon-home" ng-class="section.css"></i>
-              <span ng-bind-html="section.text | xpm:'Content':'sections[cnt]/custom:text':$index+1" class="ng-binding"><!-- Start Component Field: {"XPath" : "tcm:Content/custom:Content/custom:sections[1]/custom:text"} -->Home Products</span>
-          </a>
-        </li><!-- end ngRepeat: section in $ctrl.data.sections --><li ng-repeat="section in $ctrl.data.sections" ng-class="{active: $ctrl.getActiveItem(section.link)}" class="ng-scope">
-          <a xpm="sections[2]/custom:link" href="/small-business-security">
-              <i class="font-icons icon-small-business" ng-class="section.css"></i>
-              <span ng-bind-html="section.text | xpm:'Content':'sections[cnt]/custom:text':$index+1" class="ng-binding"><!-- Start Component Field: {"XPath" : "tcm:Content/custom:Content/custom:sections[2]/custom:text"} -->Small Business 1-50 employees</span>
-          </a>
-        </li><!-- end ngRepeat: section in $ctrl.data.sections --><li ng-repeat="section in $ctrl.data.sections" ng-class="{active: $ctrl.getActiveItem(section.link)}" class="ng-scope">
-          <a xpm="sections[3]/custom:link" href="/small-to-medium-business-security">
-              <i class="font-icons icon-medium-business" ng-class="section.css"></i>
-              <span ng-bind-html="section.text | xpm:'Content':'sections[cnt]/custom:text':$index+1" class="ng-binding"><!-- Start Component Field: {"XPath" : "tcm:Content/custom:Content/custom:sections[3]/custom:text"} -->Medium Business 51-999 employees</span>
-          </a>
-        </li><!-- end ngRepeat: section in $ctrl.data.sections --><li ng-repeat="section in $ctrl.data.sections" ng-class="{active: $ctrl.getActiveItem(section.link)}" class="ng-scope">
-          <a xpm="sections[4]/custom:link" href="/enterprise-security">
-              <i class="font-icons icon-enterprise" ng-class="section.css"></i>
-              <span ng-bind-html="section.text | xpm:'Content':'sections[cnt]/custom:text':$index+1" class="ng-binding"><!-- Start Component Field: {"XPath" : "tcm:Content/custom:Content/custom:sections[4]/custom:text"} -->Enterprise 1000+ employees</span>
-          </a>
-        </li><!-- end ngRepeat: section in $ctrl.data.sections -->
-			</ul>
-		</nav>
-	</div>
-</div>
-</site-top>
-<!-- uiView: --><ui-view class="ng-scope">
-                    <site-header class="ng-scope ng-isolate-scope"><header id="site-header" class="site-header">
-    <div class="container">
 
-        <a href="" ng-click="mobileNavTrigger($event);" class="menu-toggle">
-            <span></span>
-            <span></span>
-            <span></span>
-        </a>
 
-        <div class="site-title">
-            <a href="/" title="Kaspersky Lab" rel="home">
-                Kaspersky
-                <i class="kaspersky-logo"></i>
-            </a>
-        </div>
-        <!-- ngIf: $ctrl.showMenuUtility --><ul class="menu-utility ng-scope" ng-if="$ctrl.showMenuUtility">
 
-            <!-- ngIf: $ctrl.data.rightMenuItem.cartLink -->
-
-            <currency-selector class="ng-isolate-scope"><!-- ngIf: $ctrl.showCurrencySelector -->
-</currency-selector>
-
-            <!-- ngIf: $ctrl.rightMenuItem.menuText -->
-        </ul><!-- end ngIf: $ctrl.showMenuUtility -->
-
-        <div class="clear"></div>
-
-        <!-- ngIf: !$ctrl.hideMainNav --><main-nav ng-if="!$ctrl.hideMainNav" class="ng-scope ng-isolate-scope"><nav class="main-nav" ng-show="$ctrl.showMenu">
-    <ul class="main-menu">
-        <!-- ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-0" ng-class="{active: $ctrl.activeState === $index, mega: item.megaMenuItem.menuType !== 'res',
+<!-- uiView: --><ui-view class="ng-scope"><notification-bar-geo class="ng-scope ng-isolate-scope"><!-- ngIf: !$ctrl.bannerHidden && !$ctrl.overlayEnabled --></notification-bar-geo><site-top resource="" data="" class="ng-scope ng-isolate-scope"><!-- Start Component Presentation: {"ComponentID" : "tcm:261-333099","ComponentTemplateID" : "tcm:246-294262-32"} --><div id="site-top" class="site-top"><div class="container"><nav class="site-nav"><div class="label"><p ng-bind-html="$ctrl.data.label | xpm:'Content':'label'" class="ng-binding"><!-- Start Component Field: {"XPath" : "tcm:Content/custom:Content/custom:label"} -->Solutions for:</p></div><ul class="site-selector"><!-- ngRepeat: section in $ctrl.data.sections --><li ng-repeat="section in $ctrl.data.sections" ng-class="{active: $ctrl.getActiveItem(section.link)}" class="ng-scope"><a xpm="sections[1]/custom:link" href="/home-security"><i class="font-icons icon-home" ng-class="section.css"></i> <span ng-bind-html="section.text | xpm:'Content':'sections[cnt]/custom:text':$index+1" class="ng-binding"><!-- Start Component Field: {"XPath" : "tcm:Content/custom:Content/custom:sections[1]/custom:text"} -->Home Products</span></a></li><!-- end ngRepeat: section in $ctrl.data.sections --><li ng-repeat="section in $ctrl.data.sections" ng-class="{active: $ctrl.getActiveItem(section.link)}" class="ng-scope"><a xpm="sections[2]/custom:link" href="/small-business-security"><i class="font-icons icon-small-business" ng-class="section.css"></i> <span ng-bind-html="section.text | xpm:'Content':'sections[cnt]/custom:text':$index+1" class="ng-binding"><!-- Start Component Field: {"XPath" : "tcm:Content/custom:Content/custom:sections[2]/custom:text"} -->Small Business 1-50 employees</span></a></li><!-- end ngRepeat: section in $ctrl.data.sections --><li ng-repeat="section in $ctrl.data.sections" ng-class="{active: $ctrl.getActiveItem(section.link)}" class="ng-scope"><a xpm="sections[3]/custom:link" href="/small-to-medium-business-security"><i class="font-icons icon-medium-business" ng-class="section.css"></i> <span ng-bind-html="section.text | xpm:'Content':'sections[cnt]/custom:text':$index+1" class="ng-binding"><!-- Start Component Field: {"XPath" : "tcm:Content/custom:Content/custom:sections[3]/custom:text"} -->Medium Business 51-999 employees</span></a></li><!-- end ngRepeat: section in $ctrl.data.sections --><li ng-repeat="section in $ctrl.data.sections" ng-class="{active: $ctrl.getActiveItem(section.link)}" class="ng-scope"><a xpm="sections[4]/custom:link" href="/enterprise-security"><i class="font-icons icon-enterprise" ng-class="section.css"></i> <span ng-bind-html="section.text | xpm:'Content':'sections[cnt]/custom:text':$index+1" class="ng-binding"><!-- Start Component Field: {"XPath" : "tcm:Content/custom:Content/custom:sections[4]/custom:text"} -->Enterprise 1000+ employees</span></a></li><!-- end ngRepeat: section in $ctrl.data.sections --></ul></nav></div></div></site-top><!-- uiView: --><ui-view class="ng-scope">
+                    <site-header class="ng-scope ng-isolate-scope" site-top-height="76"><header id="site-header" class="site-header"><div class="container"><a href="" ng-click="mobileNavTrigger($event);" class="menu-toggle"><span></span> <span></span> <span></span></a><div class="site-title"><a href="/" title="Kaspersky Lab" rel="home">Kaspersky <i class="kaspersky-logo"></i></a></div><!-- ngIf: $ctrl.showMenuUtility --><ul class="menu-utility ng-scope" ng-if="$ctrl.showMenuUtility"><!-- ngIf: $ctrl.scrollNavItems --><!-- ngIf: $ctrl.data.rightMenuItem.cartLink --><currency-selector class="ng-isolate-scope"><!-- ngIf: $ctrl.showCurrencySelector --></currency-selector><!-- ngIf: $ctrl.rightMenuItem.menuText --><!-- ngIf: $ctrl.hideGetInTouchCta() --></ul><!-- end ngIf: $ctrl.showMenuUtility --><div class="clear"></div><!-- ngIf: !$ctrl.hideMainNav --><main-nav ng-if="!$ctrl.hideMainNav" class="ng-scope ng-isolate-scope"><nav class="main-nav" ng-show="$ctrl.showMenu"><ul class="main-menu"><!-- ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-0" ng-class="{active: $ctrl.activeState === $index,
+                        b2c: item.megaMenuItem.menuType === 'b2c',
+                        mega: item.megaMenuItem.menuType !== 'res',
                         'res-small': item.megaMenuItem.menuType === 'res',
                         'mega-small': item.megaMenuItem.menuType === 'vsb' || item.megaMenuItem.menuType === 'smb',
                         dropdown: item.megaMenuItem &amp;&amp; !item.mobile_nav_disable.length,
-                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" class="ng-scope active mega mega-float">
-
-            <a ng-mouseover="$ctrl.getInnerItems()" ng-href="/about" target="_self" href="/about"><content class="ng-binding">About Us</content></a>
-            <!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length -->
-        </li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-1" ng-class="{active: $ctrl.activeState === $index, mega: item.megaMenuItem.menuType !== 'res',
+                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" ng-mouseenter="$ctrl.getInnerItems($event)" ng-mouseleave="$ctrl.getInnerItems($event)" class="ng-scope mega mega-float"><a ng-href="/about" class="ng-binding" href="/about">About Us</a><!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length --></li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-1" ng-class="{active: $ctrl.activeState === $index,
+                        b2c: item.megaMenuItem.menuType === 'b2c',
+                        mega: item.megaMenuItem.menuType !== 'res',
                         'res-small': item.megaMenuItem.menuType === 'res',
                         'mega-small': item.megaMenuItem.menuType === 'vsb' || item.megaMenuItem.menuType === 'smb',
                         dropdown: item.megaMenuItem &amp;&amp; !item.mobile_nav_disable.length,
-                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" class="ng-scope mega mega-float">
-
-            <a ng-mouseover="$ctrl.getInnerItems()" ng-href="/about/company" target="_self" href="/about/company"><content class="ng-binding">Company</content></a>
-            <!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length -->
-        </li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-2" ng-class="{active: $ctrl.activeState === $index, mega: item.megaMenuItem.menuType !== 'res',
+                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" ng-mouseenter="$ctrl.getInnerItems($event)" ng-mouseleave="$ctrl.getInnerItems($event)" class="ng-scope mega mega-float"><a ng-href="/about/company" class="ng-binding" href="/about/company">Company</a><!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length --></li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-2" ng-class="{active: $ctrl.activeState === $index,
+                        b2c: item.megaMenuItem.menuType === 'b2c',
+                        mega: item.megaMenuItem.menuType !== 'res',
                         'res-small': item.megaMenuItem.menuType === 'res',
                         'mega-small': item.megaMenuItem.menuType === 'vsb' || item.megaMenuItem.menuType === 'smb',
                         dropdown: item.megaMenuItem &amp;&amp; !item.mobile_nav_disable.length,
-                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" class="ng-scope mega mega-float">
-
-            <a ng-mouseover="$ctrl.getInnerItems()" ng-href="/about/team" target="_self" href="/about/team"><content class="ng-binding">Team</content></a>
-            <!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length -->
-        </li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-3" ng-class="{active: $ctrl.activeState === $index, mega: item.megaMenuItem.menuType !== 'res',
+                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" ng-mouseenter="$ctrl.getInnerItems($event)" ng-mouseleave="$ctrl.getInnerItems($event)" class="ng-scope mega mega-float"><a ng-href="/about/team" class="ng-binding" href="/about/team">Team</a><!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length --></li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-3" ng-class="{active: $ctrl.activeState === $index,
+                        b2c: item.megaMenuItem.menuType === 'b2c',
+                        mega: item.megaMenuItem.menuType !== 'res',
                         'res-small': item.megaMenuItem.menuType === 'res',
                         'mega-small': item.megaMenuItem.menuType === 'vsb' || item.megaMenuItem.menuType === 'smb',
                         dropdown: item.megaMenuItem &amp;&amp; !item.mobile_nav_disable.length,
-                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" class="ng-scope mega mega-float">
-
-            <a ng-mouseover="$ctrl.getInnerItems()" ng-href="/about/how-we-work" target="_self" href="/about/how-we-work"><content class="ng-binding">Transparency</content></a>
-            <!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length -->
-        </li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-4" ng-class="{active: $ctrl.activeState === $index, mega: item.megaMenuItem.menuType !== 'res',
+                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" ng-mouseenter="$ctrl.getInnerItems($event)" ng-mouseleave="$ctrl.getInnerItems($event)" class="ng-scope mega dropdown mega-float"><a ng-href="" class="ng-binding">Transparency</a><!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length --><!-- ngInclude: --><!-- end ngIf: item.megaMenuItem && !item.mobile_nav_disable.length --></li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-4" ng-class="{active: $ctrl.activeState === $index,
+                        b2c: item.megaMenuItem.menuType === 'b2c',
+                        mega: item.megaMenuItem.menuType !== 'res',
                         'res-small': item.megaMenuItem.menuType === 'res',
                         'mega-small': item.megaMenuItem.menuType === 'vsb' || item.megaMenuItem.menuType === 'smb',
                         dropdown: item.megaMenuItem &amp;&amp; !item.mobile_nav_disable.length,
-                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" class="ng-scope mega mega-float">
-
-            <a ng-mouseover="$ctrl.getInnerItems()" ng-href="/about/press-releases" target="_self" href="/about/press-releases"><content class="ng-binding">Corporate News</content></a>
-            <!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length -->
-        </li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-5" ng-class="{active: $ctrl.activeState === $index, mega: item.megaMenuItem.menuType !== 'res',
+                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" ng-mouseenter="$ctrl.getInnerItems($event)" ng-mouseleave="$ctrl.getInnerItems($event)" class="ng-scope mega mega-float"><a ng-href="/about/press-releases" class="ng-binding" href="/about/press-releases">Corporate News</a><!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length --></li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-5" ng-class="{active: $ctrl.activeState === $index,
+                        b2c: item.megaMenuItem.menuType === 'b2c',
+                        mega: item.megaMenuItem.menuType !== 'res',
                         'res-small': item.megaMenuItem.menuType === 'res',
                         'mega-small': item.megaMenuItem.menuType === 'vsb' || item.megaMenuItem.menuType === 'smb',
                         dropdown: item.megaMenuItem &amp;&amp; !item.mobile_nav_disable.length,
-                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" class="ng-scope mega mega-float">
-
-            <a ng-mouseover="$ctrl.getInnerItems()" ng-href="/about/press-center" target="_self" href="/about/press-center"><content class="ng-binding">Press Center</content></a>
-            <!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length -->
-        </li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-6" ng-class="{active: $ctrl.activeState === $index, mega: item.megaMenuItem.menuType !== 'res',
+                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" ng-mouseenter="$ctrl.getInnerItems($event)" ng-mouseleave="$ctrl.getInnerItems($event)" class="ng-scope mega mega-float"><a ng-href="/about/press-center" class="ng-binding" href="/about/press-center">Press Center</a><!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length --></li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-6" ng-class="{active: $ctrl.activeState === $index,
+                        b2c: item.megaMenuItem.menuType === 'b2c',
+                        mega: item.megaMenuItem.menuType !== 'res',
                         'res-small': item.megaMenuItem.menuType === 'res',
                         'mega-small': item.megaMenuItem.menuType === 'vsb' || item.megaMenuItem.menuType === 'smb',
                         dropdown: item.megaMenuItem &amp;&amp; !item.mobile_nav_disable.length,
-                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" class="ng-scope mega mega-float">
-
-            <a ng-mouseover="$ctrl.getInnerItems()" ng-href="/about/careers" target="_self" href="/about/careers"><content class="ng-binding">Careers</content></a>
-            <!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length -->
-        </li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-7" ng-class="{active: $ctrl.activeState === $index, mega: item.megaMenuItem.menuType !== 'res',
+                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" ng-mouseenter="$ctrl.getInnerItems($event)" ng-mouseleave="$ctrl.getInnerItems($event)" class="ng-scope mega mega-float"><a ng-href="/about/careers" class="ng-binding" href="/about/careers">Careers</a><!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length --></li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><li ng-repeat="item in $ctrl.siteHeader.mainNavItems" name="item-7" ng-class="{active: $ctrl.activeState === $index,
+                        b2c: item.megaMenuItem.menuType === 'b2c',
+                        mega: item.megaMenuItem.menuType !== 'res',
                         'res-small': item.megaMenuItem.menuType === 'res',
                         'mega-small': item.megaMenuItem.menuType === 'vsb' || item.megaMenuItem.menuType === 'smb',
                         dropdown: item.megaMenuItem &amp;&amp; !item.mobile_nav_disable.length,
-                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" class="ng-scope mega mega-float">
-
-            <a ng-mouseover="$ctrl.getInnerItems()" ng-href="/about/kaspersky-motorsport" target="_self" href="/about/kaspersky-motorsport"><content class="ng-binding">Motorsport</content></a>
-            <!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length -->
-        </li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems -->
-
-        <!-- ngIf: !$ctrl.hideSearch --><li class="search ng-scope" ng-if="!$ctrl.hideSearch">
-            <search-bar class="ng-isolate-scope"><!--form action="#"-->
-<a ng-class="{ 'active' : $ctrl.active }" ng-click="$ctrl.searchTrigger($event)" class="inactive search-button">
-  <i class="font-icons icon-search"></i>
-</a>
-
-<form ng-submit="$event.preventDefault()" class="ng-pristine ng-valid">
-  <input ng-model="$ctrl.searchBar" ng-model-options="{ debounce: 200 }" ng-change="$ctrl.search()" ng-keypress="$ctrl.goToSearchPage($event)" type="text" placeholder="Type and hit enter..." name="s" id="search-main-nav" value="" autocomplete="off" class="ng-pristine ng-untouched ng-valid ng-empty">
-</form>
-
-<a ng-click="$ctrl.closeSearchTrigger($event)" class="close-search">
-  <i class="font-icons icon-cancel"></i>
-</a>
-<!-- ngIf: $ctrl.searchBar -->
-</search-bar>
-        </li><!-- end ngIf: !$ctrl.hideSearch -->
-
-        <!-- ngIf: $ctrl.hideSearch -->
-    </ul>
-</nav>
-</main-nav><!-- end ngIf: !$ctrl.hideMainNav -->
-    </div>
-</header>
-<!-- ngIf: $ctrl.isMobile -->
-</site-header>
-                    <!-- uiView: --><ui-view class="ng-scope"><div class="main ng-scope">
-	<page-header class="ng-isolate-scope"><!-- ngIf: $ctrl.data.headerType != '404 Header' --><header ng-hide="!$ctrl.data" ng-if="$ctrl.data.headerType != '404 Header'" id="page-header" ng-class="{'product-header': $ctrl.data.headerType == 'Blank' || $ctrl.data.headerType == 'SMB Product' || $ctrl.data.headerType == 'SMB Targeted Solution', 'no-breadcrumbs': $ctrl.data.hideBreadcrumbs == 'Yes', 'image-bg': $ctrl.data.bannerImage != null &amp;&amp; $ctrl.data.headerType != 'About Team Header', 'about-us-page-header': $ctrl.data.headerType == 'About Team Header', 'page-header': $ctrl.data.headerType != 'About Team Header', 'small-header': $ctrl.data.headerType == 'SMB Product', 'taller-header': $ctrl.data.headerType == 'Taller header'}" ng-style="{'background-image': 'url(' + $ctrl.data.bannerImage + ')'}" class="ng-scope page-header product-header" style="background-image: url(https://www.kaspersky.com/);">
-    <!-- ngIf: $ctrl.data.headerType != 'Blank' && $ctrl.data.headerType != 'SMB Product' && $ctrl.data.headerType != 'SMB Targeted Solution' && $ctrl.data.headerType != 'B2C Thank You V2' && $ctrl.data.headerType != 'B2C Thank You V1' -->
-    <!-- ngIf: $ctrl.data.headerType != 'Blank' && $ctrl.data.headerType != 'SMB Product' && $ctrl.data.headerType != 'SMB Targeted Solution' && $ctrl.data.headerType != 'B2C Thank You V2' && $ctrl.data.headerType != 'B2C Thank You V1' -->
-    <div class="container">
-        <div class="page-info">
-            <!-- ngIf: $ctrl.data.quickmenuButtons != null --><ul ng-if="$ctrl.data.quickmenuButtons != null" class="quick-menu ng-scope">
-                <!-- ngRepeat: item in $ctrl.data.quickmenuButtons -->
-            </ul><!-- end ngIf: $ctrl.data.quickmenuButtons != null -->
-            <!-- ngIf: $ctrl.data.hideBreadcrumbs != 'Yes' && $ctrl.showBreadcrumb != 'false' --><breadcrumb ng-if="$ctrl.data.hideBreadcrumbs != 'Yes' &amp;&amp; $ctrl.showBreadcrumb != 'false'" class="ng-scope ng-isolate-scope"><p class="breadcrumbs">
+                        'mega-float': !item.megaMenuItem.mega_menu_secondary_nav }" ng-click="$ctrl.makeActive($index)" ng-mouseenter="$ctrl.getInnerItems($event)" ng-mouseleave="$ctrl.getInnerItems($event)" class="ng-scope mega mega-float"><a ng-href="https://www.kaspersky.com/about/sponsorships/" class="ng-binding" href="https://www.kaspersky.com/about/sponsorships/">Sponsorships</a><!-- ngIf: item.megaMenuItem && !item.mobile_nav_disable.length --></li><!-- end ngRepeat: item in $ctrl.siteHeader.mainNavItems --><!-- ngIf: !$ctrl.hideSearch --><li class="search ng-scope" ng-if="!$ctrl.hideSearch"><search-bar class="ng-isolate-scope"><a ng-class="{ 'active' : $ctrl.active }" ng-click="$ctrl.searchTrigger($event)" class="inactive search-button"><i class="font-icons icon-search"></i></a><form ng-submit="$event.preventDefault()" class="ng-pristine ng-valid"><input ng-model="$ctrl.searchBar" ng-model-options="{ debounce: 200 }" ng-change="$ctrl.search()" ng-keypress="$ctrl.goToSearchPage($event)" type="text" placeholder="Type and hit enter..." name="s" id="search-main-nav" value="" autocomplete="off" class="ng-pristine ng-untouched ng-valid ng-empty"></form><a ng-click="$ctrl.closeSearchTrigger($event)" class="close-search"><i class="font-icons icon-cancel"></i></a><!-- ngIf: $ctrl.searchBar --></search-bar></li><!-- end ngIf: !$ctrl.hideSearch --><!-- ngIf: $ctrl.hideSearch --></ul></nav></main-nav><!-- end ngIf: !$ctrl.hideMainNav --></div></header><!-- ngIf: $ctrl.isMobile --></site-header>
+                    <!-- uiView: --><ui-view class="ng-scope"><div class="main ng-scope"><page-header class="ng-isolate-scope"><!-- ngIf: $ctrl.data.headerType != '404 Header' --><header ng-hide="!$ctrl.data" ng-if="$ctrl.data.headerType != '404 Header'" id="page-header" ng-class="{'product-header': $ctrl.data.headerType == 'Blank' || $ctrl.data.headerType == 'SMB Product' || $ctrl.data.headerType == 'SMB Targeted Solution', 'no-breadcrumbs': $ctrl.data.hideBreadcrumbs == 'Yes', 'image-bg': $ctrl.data.bannerImage != null &amp;&amp; $ctrl.data.headerType != 'About Team Header', 'about-us-page-header': $ctrl.data.headerType == 'About Team Header', 'page-header': $ctrl.data.headerType != 'About Team Header', 'small-header': $ctrl.data.headerType == 'SMB Product', 'taller-header': $ctrl.data.headerType == 'Taller header'}" ng-style="{'background-image': 'url(' + $ctrl.data.bannerImage + ')'}" class="ng-scope page-header product-header" style="background-image: url(https://www.kaspersky.com/);"><!-- ngIf: $ctrl.data.headerType != 'Blank' && $ctrl.data.headerType != 'SMB Product' && $ctrl.data.headerType != 'SMB Targeted Solution' && $ctrl.data.headerType != 'B2C Thank You V2' && $ctrl.data.headerType != 'B2C Thank You V1' --><!-- ngIf: $ctrl.data.headerType != 'Blank' && $ctrl.data.headerType != 'SMB Product' && $ctrl.data.headerType != 'SMB Targeted Solution' && $ctrl.data.headerType != 'B2C Thank You V2' && $ctrl.data.headerType != 'B2C Thank You V1' --><div class="container"><div class="page-info"><!-- ngIf: $ctrl.data.quickmenuButtons != null --><ul ng-if="$ctrl.data.quickmenuButtons != null" class="quick-menu ng-scope"><!-- ngRepeat: item in $ctrl.data.quickmenuButtons --><callback-form class="ng-isolate-scope"><!-- ngIf: $ctrl.callbackIsEnabled --></callback-form></ul><!-- end ngIf: $ctrl.data.quickmenuButtons != null --><!-- ngIf: $ctrl.data.hideBreadcrumbs != 'Yes' && $ctrl.showBreadcrumb != 'false' --><breadcrumb ng-if="$ctrl.data.hideBreadcrumbs != 'Yes' &amp;&amp; $ctrl.showBreadcrumb != 'false'" class="ng-scope ng-isolate-scope"><p class="breadcrumbs">
 					       <!-- ngRepeat: state in $ctrl.breadcrumbs --><a ng-href="/" ng-repeat="state in $ctrl.breadcrumbs" ng-class="{'unclickable': $last}" class="ng-binding ng-scope" href="/">Home</a><!-- end ngRepeat: state in $ctrl.breadcrumbs --><a ng-href="" ng-repeat="state in $ctrl.breadcrumbs" ng-class="{'unclickable': $last}" class="ng-binding ng-scope unclickable">Privacy Policy</a><!-- end ngRepeat: state in $ctrl.breadcrumbs -->
-				        </p></breadcrumb><!-- end ngIf: $ctrl.data.hideBreadcrumbs != 'Yes' && $ctrl.showBreadcrumb != 'false' --> <!--BREADCRUMBS-->
-        </div>
-        <!--HEADLINE-->
-        <!-- ngIf: $ctrl.data.headerType != 'Blank' && $ctrl.data.headerType != 'SMB Product' && $ctrl.data.headerType != 'SMB Targeted Solution' && $ctrl.data.headerType != 'B2C Thank You V2' && $ctrl.data.headerType != 'About Team Header' && $ctrl.data.headerType != 'SMB MSP' && (!angular.isDefined($ctrl.data.headerType) || $ctrl.data.headerType === 'SMB Downloads') -->
-        <!--HEADLINE end-->
-
-        <!--ABOUT TEAM HEADLINE-->
-        <!-- ngIf: $ctrl.data.headerType == 'About Team Header' -->
-        <!--ABOUT TEAM HEADLINE end-->
-        <!--SMB MANAGED SERVICE PROVIDER - START-->
-        <!-- ngIf: $ctrl.data.headerType == 'SMB MSP' -->
-        <!--SMB MANAGED SERVICE PROVIDER - END-->
-    </div>
-    <!-- ngIf: $ctrl.data.headerType == 'SMB Product with Background Image' -->
-</header><!-- end ngIf: $ctrl.data.headerType != '404 Header' -->
-<!--SMB PRODUCT & TARGETED SOLUTION HEADER - SECTION-->
-<!-- ngIf: $ctrl.data.headerType == 'SMB Product' || $ctrl.data.headerType == 'SMB Targeted Solution' -->
-
-<!--B2C THANK YOU V2 HEADER-->
-<!-- ngIf: $ctrl.data.headerType == 'B2C Thank You V2' -->
-<!--404 HEADER-->
-<!-- ngIf: $ctrl.data.headerType == '404 Header' -->
-</page-header>
-	<about-content class="ng-isolate-scope"><!-- ngIf: $ctrl.data.pageType == 'Wide' || $ctrl.data.pageType == 'Wide No Repository' && $ctrl.data != null --><section ng-class="{'about-us-content ': $ctrl.data.sectionClass != 'hide-page-class', 'about-us-generic': $ctrl.data.pageType == 'Wide No Repository'}" ng-if="$ctrl.data.pageType == 'Wide' || $ctrl.data.pageType == 'Wide No Repository' &amp;&amp; $ctrl.data != null" class="ng-scope about-us-generic">
-	<div class="container">
-		<div class="content-inner">
-			<h1><content class="ng-binding">Privacy Policy</content></h1>
-			<content-desc ng-bind-html="$ctrl.data.desc|html" class="ng-binding"><content><p xmlns="http://www.w3.org/1999/xhtml">This privacy statement applies to AO Kaspersky Lab (“Kaspersky”) websites and Kaspersky’s affilates’ websites that collect data and are linking to these terms. It does not apply to Kaspersky websites that do not display or link to this statement or that have their own privacy statements. It also does not apply to Kaspersky Lab’s services and products unless they are linking to these terms.</p>
+				        </p></breadcrumb><!-- end ngIf: $ctrl.data.hideBreadcrumbs != 'Yes' && $ctrl.showBreadcrumb != 'false' --></div><!-- ngIf: $ctrl.data.headerType != 'Blank' && $ctrl.data.headerType != 'SMB Product' && $ctrl.data.headerType != 'SMB Targeted Solution' && $ctrl.data.headerType != 'B2C Thank You V2' && $ctrl.data.headerType != 'About Team Header' && $ctrl.data.headerType != 'SMB MSP' && (!angular.isDefined($ctrl.data.headerType) || $ctrl.data.headerType === 'SMB Downloads') --><!-- ngIf: $ctrl.data.headerType == 'About Team Header' --><!-- ngIf: $ctrl.data.headerType == 'SMB MSP' --></div><!-- ngIf: $ctrl.data.headerType == 'SMB Product with Background Image' --></header><!-- end ngIf: $ctrl.data.headerType != '404 Header' --><!-- ngIf: $ctrl.data.headerType == 'SMB Product' || $ctrl.data.headerType == 'SMB Targeted Solution' --><!-- ngIf: $ctrl.data.headerType == 'B2C Thank You V2' --><!-- ngIf: $ctrl.data.headerType == '404 Header' --></page-header><about-content class="ng-isolate-scope"><!-- ngIf: $ctrl.data.pageType == 'Wide' || $ctrl.data.pageType == 'Wide No Repository' && $ctrl.data != null --><section ng-class="{'about-us-content ': $ctrl.data.sectionClass != 'hide-page-class', 'about-us-generic': $ctrl.data.pageType == 'Wide No Repository'}" ng-if="$ctrl.data.pageType == 'Wide' || $ctrl.data.pageType == 'Wide No Repository' &amp;&amp; $ctrl.data != null" class="ng-scope about-us-generic"><div class="container"><div class="content-inner"><h1 class="ng-binding">Privacy Policy</h1><content-desc ng-bind-html="$ctrl.data.desc|html" class="ng-binding"><content><p xmlns="http://www.w3.org/1999/xhtml">This privacy statement applies to AO Kaspersky Lab (“Kaspersky”) websites and Kaspersky’s affilates’ websites that collect data and are linking to these terms. It does not apply to Kaspersky websites that do not display or link to this statement or that have their own privacy statements. It also does not apply to Kaspersky Lab’s services and products unless they are linking to these terms.</p>
 <p xmlns="http://www.w3.org/1999/xhtml">In this Privacy Policy we inform you about the processing and the privacy of your personal data when using our websites. As a security expert company, data privacy and data security are very important to us. Therefore, we are committed to respecting and protecting your privacy and to handling your personal data confidentially. We recommend visiting this website regularly as this Privacy Policy can be updated due to possible amendments to the law or changes of our internal processes.</p>
 <p xmlns="http://www.w3.org/1999/xhtml">Last updated: 28th of July 2016</p>
 <h3 xmlns="http://www.w3.org/1999/xhtml">1. What does personal data mean?</h3>
@@ -289,141 +301,7 @@
 <p xmlns="http://www.w3.org/1999/xhtml">In case you want us to delete your personal data or revoke consent granted for certain processing of your personal data, please contact us in the same way. You can also delete your account information by confirming this setting in your profile.</p>
 <p xmlns="http://www.w3.org/1999/xhtml">If deletion of your data should not be possible for technical or legal reasons, we will block the respective data instead.</p>
 <h3 xmlns="http://www.w3.org/1999/xhtml">9. How can you contact us?</h3>
-<p xmlns="http://www.w3.org/1999/xhtml">Should you have any further questions or suggestions regarding the protection of your personal data processed in connection with the use of our websites, please contact us:&nbsp;<a href="https://support.kaspersky.com/privacy">https://support.kaspersky.com/privacy</a></p></content></content-desc>
-		</div>
-	</div>
-</section><!-- end ngIf: $ctrl.data.pageType == 'Wide' || $ctrl.data.pageType == 'Wide No Repository' && $ctrl.data != null -->
-
-<!-- ngIf: $ctrl.data.pageType == 'Wide' && $ctrl.data != null -->
-
-<!-- ngIf: $ctrl.data.pageType == 'Split' && $ctrl.data != null -->
-</about-content>
-</div></ui-view></ui-view>
-<footer-global class="ng-scope ng-isolate-scope"><section id="site-footer" class="site-footer compact" ng-show="$ctrl.smallFooter">
-    <div class="container">
-        <!-- ngIf: $ctrl.data.footerTop.length > 0 -->
-
-        <div class="footer-links">
-            <footer>
-                <links>
-                    <content>
-                        <p class="copy ng-binding">
-                            ©&nbsp;2017
-                            <span ng-bind-html="$ctrl.generalFooterData.copyright" class="ng-binding">AO Kaspersky Lab. All Rights Reserved. • <a href="/privacy"> Privacy Policy</a> • <a href="/end-user-license-agreement"> License Agreement</a></span>
-                        </p>
-                    </content>
-                </links>
-            </footer>
-            <ul class="featured-pages">
-                <!-- ngRepeat: link in $ctrl.data.shortViewLinks --><li ng-repeat="link in $ctrl.data.shortViewLinks" class="ng-scope"><a ng-attr-target="{{link.isExternal=='Yes' ? '_blank' : undefined}}" href="/about/contact"><content class="ng-binding">Contact Us</content></a>
-                </li><!-- end ngRepeat: link in $ctrl.data.shortViewLinks --><li ng-repeat="link in $ctrl.data.shortViewLinks" class="ng-scope"><a ng-attr-target="{{link.isExternal=='Yes' ? '_blank' : undefined}}" href="/about"><content class="ng-binding">About Us</content></a>
-                </li><!-- end ngRepeat: link in $ctrl.data.shortViewLinks --><li ng-repeat="link in $ctrl.data.shortViewLinks" class="ng-scope"><a ng-attr-target="{{link.isExternal=='Yes' ? '_blank' : undefined}}" href="/partners"><content class="ng-binding">Partners</content></a>
-                </li><!-- end ngRepeat: link in $ctrl.data.shortViewLinks --><li ng-repeat="link in $ctrl.data.shortViewLinks" class="ng-scope"><a ng-attr-target="{{link.isExternal=='Yes' ? '_blank' : undefined}}" href="/about/press-releases"><content class="ng-binding">Corporate News</content></a>
-                </li><!-- end ngRepeat: link in $ctrl.data.shortViewLinks -->
-                <!-- ngIf: $ctrl.displayRssLink -->
-            </ul>
-        </div>
-        <div class="footer-secondary">
-            <div class="social-links">
-                <!-- ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="http://facebook.com/Kaspersky" target="_blank" class="social ng-scope">
-                    <i class="font-icons icon-facebook" ng-class="item.icon"></i>
-                </a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="http://twitter.com/Kaspersky" target="_blank" class="social ng-scope">
-                    <i class="font-icons icon-twitter" ng-class="item.icon"></i>
-                </a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="https://www.linkedin.com/company/kaspersky-lab" target="_blank" class="social ng-scope">
-                    <i class="font-icons icon-linkedin" ng-class="item.icon"></i>
-                </a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="https://plus.google.com/104178448349952735431?prsrc=3" target="_blank" class="social ng-scope">
-                    <i class="font-icons icon-google-plus" ng-class="item.icon"></i>
-                </a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="http://youtube.com/Kaspersky" target="_blank" class="social ng-scope">
-                    <i class="font-icons icon-youtube" ng-class="item.icon"></i>
-                </a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index -->
-            </div>
-            <form action="#" class="ng-pristine ng-valid">
-                <p class="mobile-label"><content class="ng-binding">Select your country</content></p>
-                <div class="country-selector-button font-icons" ng-click="$ctrl.toggleSelector($event)">
-                    <p><content class="ng-binding">Global</content></p>
-                    <span class="arrow"></span>
-                </div>
-            </form>
-        </div>
-    </div>
-</section>
-
-<section id="site-footer" class="site-footer ng-hide" ng-show="$ctrl.bigFooter">
-    <div class="container">
-        <div class="footer-links">
-            <div class="featured-pages">
-                <ul>
-                    <!-- ngRepeat: block in $ctrl.data.leftSetOfBlocks -->
-                </ul>
-            </div>
-            <div class="contact-pages">
-                <ul class="right">
-                    <li class="contact-block">
-                        <h3 ng-bind-html="$ctrl.data.contactUsBlock.title" class="ng-binding"></h3>
-                        <p ng-bind-html="$ctrl.data.contactUsBlock.description" class="ng-binding"></p>
-                    </li>
-                    <!-- ngIf: $ctrl.locale==='ru-ru' -->
-                </ul>
-            </div>
-        </div>
-        <div class="footer-convert">
-            <div class="row no-gutter">
-                <div class="col-l-9 news-letter" ng-show="$ctrl.displayNewsletterForm()">
-                    <news-letter-opt-in on-data-loaded="$ctrl.handleNewsletterLoaded(componentEnabled)" class="ng-isolate-scope"><!-- ngIf: $ctrl.enableComponent --><div ng-if="$ctrl.enableComponent" class="ng-scope">
-    <span ng-bind-html="$ctrl.data.subHeaderText" class="ng-binding"><p xmlns="http://www.w3.org/1999/xhtml">Newsletter: sign up to receive our monthly industry newsletter &amp; notifications of special offers</p></span>
-    <!-- ngIf: !$ctrl.optedInComplete --><form name="newsLetterForm" ng-submit="$ctrl.submitForm(newsLetterForm)" novalidate="" _lpchecked="1" ng-if="!$ctrl.optedInComplete" class="ng-pristine ng-scope ng-valid-email ng-invalid ng-invalid-required">
-        <div class="form-element">
-            <span ng-bind-html="$ctrl.data.headerText" class="ng-binding"><label xmlns="http://www.w3.org/1999/xhtml">Newsletter Opt-In</label></span>
-            <input name="email" ng-model="$ctrl.email" type="email" ng-class="{'invalid-input': !$ctrl.fieldIsValid}" placeholder="Enter your email address" required="" class="ng-pristine ng-untouched ng-empty ng-valid-email ng-invalid ng-invalid-required">
-        </div>
-        <div class="form-element buttons">
-            <input type="submit" class="button green" value="Sign Up">
-        </div>
-    </form><!-- end ngIf: !$ctrl.optedInComplete -->
-    <!-- ngIf: $ctrl.optedInComplete -->
-
-</div><!-- end ngIf: $ctrl.enableComponent -->
-</news-letter-opt-in>
-                </div>
-                <div class="col-l-3 social-media">
-                    <h3 class="social-media-heading ng-binding" ng-bind-html="$ctrl.generalFooterData.socialBlockHeading">Stay in Touch</h3>
-                    <div class="social-media-icons">
-                        <!-- ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="http://facebook.com/Kaspersky" target="_blank" class="social ng-scope">
-                            <i class="font-icons icon-facebook" ng-class="item.icon"></i>
-                        </a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="http://twitter.com/Kaspersky" target="_blank" class="social ng-scope">
-                            <i class="font-icons icon-twitter" ng-class="item.icon"></i>
-                        </a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="https://www.linkedin.com/company/kaspersky-lab" target="_blank" class="social ng-scope">
-                            <i class="font-icons icon-linkedin" ng-class="item.icon"></i>
-                        </a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="https://plus.google.com/104178448349952735431?prsrc=3" target="_blank" class="social ng-scope">
-                            <i class="font-icons icon-google-plus" ng-class="item.icon"></i>
-                        </a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="http://youtube.com/Kaspersky" target="_blank" class="social ng-scope">
-                            <i class="font-icons icon-youtube" ng-class="item.icon"></i>
-                        </a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <footer>
-            <links>
-                <content>
-                    <p class="copy ng-binding">
-                        ©&nbsp;2017
-                        <span ng-bind-html="$ctrl.generalFooterData.copyright" class="ng-binding">AO Kaspersky Lab. All Rights Reserved. • <a href="/privacy"> Privacy Policy</a> • <a href="/end-user-license-agreement"> License Agreement</a></span>
-                    </p>
-                </content>
-            </links>
-            <div class="country-selector-button font-icons" ng-click="$ctrl.toggleSelector($event)">
-                <p><content class="ng-binding">Global</content></p>
-                <span class="arrow"></span>
-            </div>
-        </footer>
-    </div>
-</section>
-
-<section class="footer-selector">
-    <div class="container">
-        <a href="#" class="close-selector" ng-click="$ctrl.closeSelector($event)"><i class="font-icons icon-cancel"></i></a>
-        <div class="section-col-l-4 reset-l country-list ng-binding" ng-bind-html="$ctrl.cSelector | html"><content><div>
+<p xmlns="http://www.w3.org/1999/xhtml">Should you have any further questions or suggestions regarding the protection of your personal data processed in connection with the use of our websites, please contact us:&nbsp;<a href="https://support.kaspersky.com/privacy">https://support.kaspersky.com/privacy</a></p></content></content-desc></div></div></section><!-- end ngIf: $ctrl.data.pageType == 'Wide' || $ctrl.data.pageType == 'Wide No Repository' && $ctrl.data != null --><!-- ngIf: $ctrl.data.pageType == 'Wide' && $ctrl.data != null --><!-- ngIf: $ctrl.data.pageType == 'Split' && $ctrl.data != null --></about-content></div></ui-view></ui-view><footer-global class="ng-scope ng-isolate-scope"><section id="site-footer" class="site-footer compact" ng-show="$ctrl.smallFooter"><div class="container"><!-- ngIf: $ctrl.data.footerTop.length > 0 --><div class="footer-links"><footer><links><content><p class="copy ng-binding">©&nbsp;2018 <!-- ngIf: $ctrl.isB2B --> <!-- ngIf: !$ctrl.isB2B --><span ng-if="!$ctrl.isB2B" ng-bind-html="$ctrl.generalFooterData.copyright | html" class="ng-binding ng-scope"><content>AO Kaspersky Lab. All Rights Reserved. • <a href="/web-privacy-policy"> Privacy Policy</a> • <a href="/anti-corruption-policy"> Anti-Corruption Policy</a> • <a href="/end-user-license-agreement"> License Agreement</a></content></span><!-- end ngIf: !$ctrl.isB2B --></p></content></links></footer><ul class="featured-pages"><!-- ngRepeat: link in $ctrl.data.shortViewLinks --><li ng-repeat="link in $ctrl.data.shortViewLinks" class="ng-scope"><a ng-attr-target="{{link.isExternal=='Yes' ? '_blank' : undefined}}" href="/about/contact" class="ng-binding">Contact Us</a></li><!-- end ngRepeat: link in $ctrl.data.shortViewLinks --><li ng-repeat="link in $ctrl.data.shortViewLinks" class="ng-scope"><a ng-attr-target="{{link.isExternal=='Yes' ? '_blank' : undefined}}" href="/about" class="ng-binding">About Us</a></li><!-- end ngRepeat: link in $ctrl.data.shortViewLinks --><li ng-repeat="link in $ctrl.data.shortViewLinks" class="ng-scope"><a ng-attr-target="{{link.isExternal=='Yes' ? '_blank' : undefined}}" href="/partners" class="ng-binding">Partners</a></li><!-- end ngRepeat: link in $ctrl.data.shortViewLinks --><li ng-repeat="link in $ctrl.data.shortViewLinks" class="ng-scope"><a ng-attr-target="{{link.isExternal=='Yes' ? '_blank' : undefined}}" href="/about/press-releases" class="ng-binding">Corporate News</a></li><!-- end ngRepeat: link in $ctrl.data.shortViewLinks --><!-- ngIf: $ctrl.displayRssLink --></ul></div><div class="footer-secondary"><div class="social-links"><!-- ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="http://facebook.com/Kaspersky" target="_blank" class="social ng-scope"><i class="font-icons icon-facebook" ng-class="item.icon"></i></a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="http://twitter.com/Kaspersky" target="_blank" class="social ng-scope"><i class="font-icons icon-twitter" ng-class="item.icon"></i></a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="https://www.linkedin.com/company/kaspersky-lab" target="_blank" class="social ng-scope"><i class="font-icons icon-linkedin" ng-class="item.icon"></i></a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="https://plus.google.com/104178448349952735431?prsrc=3" target="_blank" class="social ng-scope"><i class="font-icons icon-google-plus" ng-class="item.icon"></i></a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="http://youtube.com/Kaspersky" target="_blank" class="social ng-scope"><i class="font-icons icon-youtube" ng-class="item.icon"></i></a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --></div><form action="#" class="ng-pristine ng-valid"><p class="mobile-label ng-binding">Select your country</p><div class="country-selector-button font-icons" ng-click="$ctrl.toggleSelector($event)"><p class="ng-binding">Global</p><span class="arrow"></span></div></form></div></div></section><section id="site-footer" class="site-footer ng-hide" ng-show="$ctrl.bigFooter"><div class="container"><div class="footer-links"><div class="featured-pages"><ul><!-- ngRepeat: block in $ctrl.data.leftSetOfBlocks --></ul></div><div class="contact-pages"><ul class="right"><li class="contact-block"><h3 ng-bind-html="$ctrl.data.contactUsBlock.title" class="ng-binding"></h3><p ng-bind-html="$ctrl.data.contactUsBlock.description" class="ng-binding"></p></li><!-- ngIf: $ctrl.data.footerRightSideBlock --><li><h3 ng-bind-html="$ctrl.generalFooterData.socialBlockHeading" class="ng-binding">Stay in Touch</h3><div><!-- ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="http://facebook.com/Kaspersky" target="_blank" class="social ng-scope"><i class="font-icons icon-facebook" ng-class="item.icon"></i></a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="http://twitter.com/Kaspersky" target="_blank" class="social ng-scope"><i class="font-icons icon-twitter" ng-class="item.icon"></i></a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="https://www.linkedin.com/company/kaspersky-lab" target="_blank" class="social ng-scope"><i class="font-icons icon-linkedin" ng-class="item.icon"></i></a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="https://plus.google.com/104178448349952735431?prsrc=3" target="_blank" class="social ng-scope"><i class="font-icons icon-google-plus" ng-class="item.icon"></i></a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --><a ng-repeat="item in $ctrl.generalFooterData.socialIcons track by $index" href="http://youtube.com/Kaspersky" target="_blank" class="social ng-scope"><i class="font-icons icon-youtube" ng-class="item.icon"></i></a><!-- end ngRepeat: item in $ctrl.generalFooterData.socialIcons track by $index --></div></li></ul></div></div><footer><links><content><p class="copy ng-binding">©&nbsp;2018 <span ng-bind-html="$ctrl.generalFooterData.copyright" class="ng-binding">AO Kaspersky Lab. All Rights Reserved. • <a href="/web-privacy-policy"> Privacy Policy</a> • <a href="/anti-corruption-policy"> Anti-Corruption Policy</a> • <a href="/end-user-license-agreement"> License Agreement</a></span></p></content></links><div class="country-selector-button font-icons" ng-click="$ctrl.toggleSelector($event)"><p class="ng-binding">Global</p><span class="arrow"></span></div></footer></div></section><section class="footer-selector"><div class="container"><a href="#" class="close-selector" ng-click="$ctrl.closeSelector($event)"><i class="font-icons icon-cancel"></i></a><div class="section-col-l-4 reset-l country-list ng-binding" ng-bind-html="$ctrl.cSelector | html"><content><div>
 <ul>
 <li class="list-title">Americas</li>
 <li><a href="https://latam.kaspersky.com/?ignoreredirects=true">América Latina</a></li>
@@ -449,7 +327,7 @@
 <li><a href="https://www.kaspersky.dk/?ignoreredirects=true">Danmark</a></li>
 <li><a href="https://www.kaspersky.de/?ignoreredirects=true">Deutschland &amp; Schweiz</a></li>
 <li><a href="https://www.kaspersky.es/?ignoreredirects=true">España</a></li>
-<li><a href="https://www.kaspersky.fr/?ignoreredirects=true">France &amp; Suisse</a></li>
+<li><a href="https://www.kaspersky.fr/?ignoreredirects=true">France</a></li>
 <li><a href="https://www.kaspersky.it/?ignoreredirects=true">Italia &amp; Svizzera</a></li>
 <li><a href="https://www.kaspersky.nl/?ignoreredirects=true">Nederland &amp; België</a></li>
 <li><a href="https://www.kaspersky.no/?ignoreredirects=true">Norge</a></li>
@@ -484,16 +362,12 @@
 <li><a href="http://www.kaspersky.co.th/">ไทย (Thailand)</a></li>
 <li><a href="http://www.kaspersky.co.kr/">한국 (Korea)</a></li>
 <li><a href="https://www.kaspersky.com.cn/?ignoreredirects=true">中国 (China)</a></li>
-<li><a href="http://www.kaspersky.com.hk/">香港 (Hong Kong)</a></li>
-<li><a href="http://www.kaspersky.com.tw/">台灣 (Taiwan)</a></li>
+<li><a href="http://www.kaspersky.com.hk/">中国香港 (Hong Kong)</a></li>
+<li><a href="http://www.kaspersky.com.tw/">中国台灣 (Taiwan)</a></li>
 <li><a href="http://www.kaspersky.co.jp/">日本 (Japan)</a></li>
 </ul>
 <ul>
 <li class="list-title">For all other countries</li>
 <li><a href="https://www.kaspersky.com/?ignoreredirects=true">Global Website</a></li>
 </ul>
-</div></content></div>
-    </div>
-</section></footer-global>
-</ui-view>
-<script src="/resources/template/js/app/vendor.min.js" async=""></script><script src="/resources/template/js/app/launch.min.js" async=""></script><script src="https://media.kaspersky.com/tracking/omniture/s_code_single_suite.js" async=""></script></body></html>
+</div></content></div></div></section></footer-global><cookies-requirement class="ng-scope ng-isolate-scope"><!-- ngIf: $ctrl.show --><section class="notification-bar transparent dark bottom ng-scope" ng-if="$ctrl.show"><div class="container"><div class="description-left"><p ng-bind-html="$ctrl.data.cookieDesc" class="ng-binding">We use cookies to make your experience of our websites better. By using and further navigating this website you accept this. Detailed information about the use of cookies on this website is available by clicking on <a href="/web-privacy-policy" xmlns="http://www.w3.org/1999/xhtml">more information</a>.</p></div><a href="" class="button green close ng-binding" ng-click="$ctrl.accept()">Accept and Close</a></div></section><!-- end ngIf: $ctrl.show --></cookies-requirement><news-letter-popup class="ng-scope ng-isolate-scope"><!-- ngIf: $ctrl.show --></news-letter-popup></ui-view><script src="https://media.kaspersky.com/tracking/omniture/s_code_single_suite.js" async=""></script></body></html>
