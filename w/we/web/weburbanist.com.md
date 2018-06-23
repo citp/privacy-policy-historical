@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weburbanist.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004090942id_/http%3A//weburbanist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weburbanist.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623032305id_/https%3A//weburbanist.com/privacy) for the most accurate reproduction.*
 
 # WebUrbanist | Privacy Policy | Urbanist
 
@@ -8,7 +8,7 @@ The privacy of visitors to WebUrbanist.com is important to us. We collect inform
 
 **Personal Information:** We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Cookies:** This website uses Cookies. These are files that a site or its service provider transfers to your computers hard drive through your web browser which, if you allow them, enable the sites or service provider systems to recognize your browser to capture and remember certain information. We use cookies to keep track of advertisements displayed to visitors. To learn more or for opt-out options, visit [Network Advertising dot org](http://www.networkadvertising.org/managing/opt_out.asp)
+**Cookies:** This website uses Cookies. These are files that a site or its service provider transfers to your computers hard drive through your web browser which, if you allow them, enable the sites or service provider systems to recognize your browser to capture and remember certain information. We use cookies to keep track of advertisements displayed to visitors. To learn more or for opt-out options, visit [Network Advertising dot org](https://www.networkadvertising.org/managing/opt_out.asp)
 
 **Google:** Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Other third-party vendors use cookies as well.
 
@@ -20,4 +20,4 @@ The privacy of visitors to WebUrbanist.com is important to us. We collect inform
 
 **Consent:** By using our site, you consent to our privacy policy. This online privacy policy applies only to information collected through our website and not to information collected offline. If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date shown here: This policy was last modified on 2/8/2010
 
-Please also visit our [Terms and Conditions](http://weburbanist.com/terms-of-service/) section establishing the use, disclaimers, and limitations of liability governing the use of our website and contact us with questions, concerns or complaints on this [contact page](http://weburbanist.com/contact/).
+Please also visit our [Terms and Conditions](https://weburbanist.com/terms-of-service/) section establishing the use, disclaimers, and limitations of liability governing the use of our website and contact us with questions, concerns or complaints on this [contact page](https://weburbanist.com/contact/).
