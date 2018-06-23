@@ -1,66 +1,161 @@
-> *The following text is extracted and transformed from the postnl.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214192526id_/http%3A//www.postnl.com/secondary/privacy-policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postnl.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623112706id_/https%3A//www.postnl.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy | PostNL | Welcome to PostNL's corporate website, offering company news and information for investors, press, and other stakeholders.
+# Privacy Statement | PostNL
 
-## Privacy Policy
+## What is personal data?
 
-**PostNL N.V. and its group companies (hereinafter called “PostNL”) aim to deliver top-quality services, and reliability is a significant factor in this endeavour. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. This site is governed by applicable Dutch laws. Where necessary, you will find a supplementary privacy statement for a particular service or product with specific information on which data we record and how we use this data.**
+‘Personal data’ refers to data which provides information about you or which we can somehow relate to you, such as your name and address. You might share personal information with us in the following situations:
 
-### Your Consent
+  * You are a PostNL customer.
+  * You have been in contact with us.
+  * You have been using one or several of our services.
 
-By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
 
-### Active Information Collection
 
-Like many websites, this site actively collects information from its visitors both by asking you specific questions and by permitting you to communicate directly with us via e-mail. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you such as your full name, address, e-mail address, phone number, and so on).
+If you visit our website or use our app, you may, in some cases, share personal data with us.
 
-Some areas of this site may require you to submit information in order for you to benefit from the specified features (such as e-mail alerts or newsletter subscriptions). You will be informed at each information collection point what information is required and what for.
+## Why do we process your personal data?
 
-### Passive Information Collection
+We process your personal data because we seek to provide you with personalised services. We use information relating to you which we have stored for this purpose, so as to enable us to assist you as quickly and efficiently as we can if you have any questions regarding any of our services. By ‘processing’, we mean storing, analysing, altering/updating/modifying, deleting, forwarding, etc.
 
-As you navigate through a website, certain information can be passively collected (that is, gathered without your actively providing the information) using various technologies and means, such as Internet Protocol addresses, cookies, Internet tags and navigational data collection.
+## How do we use your personal data?
 
-This site uses Internet Protocol (IP) addresses. An IP Address is a number assigned to your computer by your Internet service provider so you can access the Internet; it is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet) rather than static (unique to a particular user’s computer). We use your IP address to diagnose problems with our server, report statistical information, determine the fastest route for your computer to use in connecting to our site, and administer and improve the site.
+Below you can read about the various ways in which we use your personal data.
 
-A "cookie" is a bit of information that a website sends to your web browser that helps the site remember information about you and your preferences.
+### 1\. We do our work
 
-"Session" cookies are temporary bits of information that are erased once you exit your web browser window or otherwise turn your computer off. Session cookies are used to improve navigation on websites and to collect statistical information.
+### 2\. We will notify you when your parcel is on the way
 
-"Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (e.g., passwords), helping to determine what areas of the website visitors find most valuable, and customizing the website based on your preferences. This site uses cookies mainly to store your default preferences.
+### 3\. We make sure the PostNL-app works properly
 
-You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to block the placing of cookies at all, but you should realize that this can limit the use of our website or services.
+### 4\. We make sure the PostNL website works properly
 
-You can find out more about cookies at [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq).
+### 5\. Sometimes we share your data with authorities
 
-Except as otherwise stated, we may use your information to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for the purposes specified in this Privacy Policy. We may disclose your personally identifiable information where required by applicable laws, court orders, or government regulations.
+### 6\. We improve our services
 
-### Use of registration details
+### 7\. We provide you with interesting information on our website and the PostNL-app
 
-To make use of our products and services users are generally required to register and provide registration details, such as name, address, postcode, gender, e-mail address and bank account number. The registration details are primarily used to send the user information concerning our services and to handle billing and direct debit where applicable.
+### 8\. We prevent fraud
 
-### E-mail address
+### 9\. We read job applicants’ CVs
 
-If you subscribe to our e-mail alerts, we collect your e-mail address. This address will only be used for communicating with you and keeping you informed of new developments concerning the products and services of PostNL and other related companies if you have indicated that you wish to receive such information. If you no longer wish to receive this information you can unsubscribe [here] or by clicking the unsubscribe link included in every e-mail we send.
+### 10\. We use our employees’ personal data
 
-### Access and Correction
+## Whom does PostNL collect personal data from?
 
-To keep your personally identifiable information accurate, current, and complete, please contact us as about any incorrect information. We will update or correct personally identifiable information in our possession that you have previously submitted via this site.
+We keep personal data from anyone who has been in contact with us either directly or indirectly. An example of indirect contact is if you order an item from an online retailer and PostNL delivers the parcel to your home. In this case, you have not shared your address with us personally, but we receive it from the retailer instead.   
+We are also in possession of personal data relating to contacts, representatives and vendors with whom we maintain business relationships.
 
-### Security
+## What types of personal data do we process?
 
-We take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, e-mail sent to or from this site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, ID numbers, or other special access features on this site, it is your responsibility to safeguard them.
+Below is a list of the categories of personal data we process:
 
-### Links to Other Websites
+### Mail delivery
 
-This site may contain links or references to other websites. Please be aware that we do not control other websites and that, in any case, this Privacy Policy does not apply to those websites. We encourage you to read the privacy policy of every website you visit.
+### Parcel delivery
 
-### Changes
+### Storage service
 
-PostNL reserves the right to amend this Privacy Policy. You agree to be bound by any such revisions and should therefore periodically visit this page to determine the current terms to which you are bound.
+### Digital Stamps
 
-### Questions
+### Forwarding Service
 
-If you have any questions regarding this Privacy Policy or regarding any of our products or services please [send an e-mail](mailto:niels.bierman@postnl.nl).
+### Next-of-kin Service
 
-  
+### Online Shipping Tool
 
+### Relocation Service
+
+### PostNL’s website and app
+
+### PostNL’s app
+
+### Your feedback on PostNL and about PostNL on social media
+
+### Your PostNL account
+
+### Customer service
+
+### If you are applying to PostNL
+
+### If you are a PostNL employee
+
+## With whom do we share this personal data?
+
+As a rule, we do not share your data with any individuals or organisations outside PostNL, except when this is necessary to provide the service we have promised you, for example if you are using our Relocation Service. In this case, you indicate which companies should receive your address change through PostNL. In some cases, we may be required to provide personal data, for example when reporting cases of fraud. The following organisations are entitled by law to request data from us in specific cases:   
+
+
+  * Law enforcement agencies
+  * Judicial organisations
+  * Regulators such as the Dutch Data Protection Authority (AP) and the Authority for Consumers & Markets (ACM)
+  * Tax and Customs Administration (Belastingdienst)
+
+
+
+## How long do we store your data?
+
+We generally do not retain your data any longer than necessary. How long we keep your data depends on the following factors:   
+
+
+  * For what purpose do we store your data?
+  * How long are we required by law to store the data?
+
+
+
+## How do we protect your personal data?
+
+We seek to treat your data with the highest level of security in the following ways:   
+
+
+  * We spend a significant amount of time and money on protecting our systems containing personal data. We have a specific department for this purpose: Cybersecurity.
+  * If there is a problem involving our security, causing people outside PostNL to be able to view the personal data, or if there is a situation which creates a risk of the data being compromised, we make a record of this and handle the situation with care. We report these incidents to the regulator, and, if necessary, to you.
+  * Only employees who require access to your data can view this data. All our employees have signed a non-disclosure agreement (NDA), which remains in force even after they have left the company.
+  * Our data processing operations are supervised by two organisations and a dedicated Data Protection Officer: 
+    * The Dutch Data Protection Authority (AP) monitors whether we comply with the General Data Protection Regulation.
+    * The Authority for Consumers & Markets (ACM) monitors whether we deal appropriately with: 
+      * Cookies
+      * Direct marketing
+      * The National Do Not Call Registry (bel-me-niet-register)
+    * The Data Protection Officer monitors whether PostNL handles personal data appropriately, and its legal duties are provided for under the law. The Data Protection Officer reports directly to the management board. If you have any questions for the Data Protection Officer, please send an e-mail to: [fg@postnl.nl](mailto:fg@postnl.nl).
+
+
+
+## What are your rights in relation to the personal data we store on you?
+
+You are permitted to perform the following acts with the personal data we keep on you:
+
+  * View/access
+  * Update/correct
+  * Restrict
+  * Delete
+  * Object to the processing of the data
+  * Receive the data in a manner that enables you to easily share it with others
+
+
+
+ **Viewing and updating your data in your PostNL account  
+** You can view and update your data in the following ways:
+
+  * If you hold a PostNL account, you will see what data we store on you. There are many details you can change on the spot.
+  * Please use [this form](https://www.postnl.nl/en/privacy-statement/request-or-update-personal-data/ "Request or update your personal data") to request or update your personal data. Alternatively, you can also object to the processing of your personal data.
+  * If you have no computer or do not wish to send an e-mail, please send a letter, enclosing a copy of your identity document (for example, a passport or driving licence). Please note: make sure your Citizen Service Number/Burgerservicenummer (if applicable) is invisible on the copy of your ID. We request that you also write down the date and the reason for sending us a copy. This is a way of preventing fraud. Please send your letter, along with a copy of your ID, to the following address:
+
+
+
+PostNL   
+Privacy Office   
+Verzoek persoonsgegevens (Personal data request)   
+Postbus 30250   
+2500 GG The Hague 
+
+You will receive a reply by mail, so as to prevent others from viewing your personal data.
+
+## About this Privacy Statement
+
+This Privacy Statement applies to all businesses and services featuring the PostNL logo and was created on 23 May 2018. This Privacy Statement is subject to change.
+
+## Do you have any questions about privacy?
+
+If you have any questions after reading this Privacy Statement about how we use your personal data, please contact our [Customer Service](https://web.archive.org/help-support/ "Help & Support") department or our Data Protection Officer: [fg@postnl.nl](mailto:fg@postnl.nl).   
+Of course, we hope that we answer your privacy-related questions correctly. If you are nevertheless dissatisfied with our response, please submit a complaint to the Dutch Data Protection Authority (Autoriteit Persoonsgegevens).
