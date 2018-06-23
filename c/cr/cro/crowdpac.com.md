@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdpac.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831181544id_/https%3A//www.crowdpac.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdpac.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623212523id_/https%3A//www.crowdpac.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Crowdpac
 
@@ -6,7 +6,7 @@ We are committed to respecting your privacy and protecting your personal informa
 
 **Personal Information**
 
-First of all, Personal Information means information you provide to us that specifically identifies you (such as your name, address, email address, or billing information) and your political positions that is directly linked to personally identifiable information. 
+First of all, Personal Information means information you provide to us that specifically identifies you (such as your name, address, email address, or billing information) and your political positions and donation history that is directly linked to personally identifiable information. 
 
 Personal Information does not include aggregate information, which is data we collect about the use of our Site or about a group or category of services or users, from which individual identities or other personal information has been removed. 
 
@@ -26,19 +26,20 @@ The Site may contain links to other web sites. Crowdpac is not responsible for t
 
 **What we do with your information**
 
-We use your Personal Information to give you relevant information. For example, we use your questionnaire responses to give you ‘best matches’ to candidates. Another example is that we use your zip code or your full address to locate the correct electoral districts for you, so we can give you an accurate personalized voting guide. We also use your email address to send you a link to your voting guide and a gentle reminder to vote. We may over time use your email address to let you know about new services on our Site, or information about political issues, candidates and elections that may be of interest to you. 
+We use your Personal Information to give you relevant information. For example, we use your questionnaire responses to give you ‘best matches’ to candidates. Another example is that we use your zip code or your full address to locate the correct electoral districts for you, so we can give you an accurate personalized voting guide. We may use your email address to let you know about new services on our Site, or information about political issues, candidates and elections that may be of interest to you.
 
-We do not sell, rent or otherwise share your Personal Information with any third parties except in the following specific circumstances: 
+We do not sell, rent or otherwise share your Personal Information with any third parties except in the following specific circumstances:
 
   * Compliance with Law. We may preserve or disclose your Personal Information if we believe that it is reasonably necessary to comply with a law, regulation, or legal request; to protect the safety of any person; to address fraud, security, or technical issues; or to protect Crowdpac’s rights or property.
-  * Compliance with your wishes. Sometimes we will provide you with the opportunity to let us know that you would like to receive more information from a candidate, organization or other partner of ours. If you affirmatively opt-in to such a request, we may share your information with them.
+  * Compliance with your wishes. Sometimes we will provide you with the opportunity to let us know that you would like to receive more information from, or share your contact or donation history with a candidate, organization or other partner of ours. If you affirmatively opt-in to such a request, we may share your information with them.
   * Making our Platform Work. Some of the tools and capabilities you will want to use on Crowdpac are provided by third parties. In those circumstances, we may share your information with our affiliates or sub-contractors to facilitate providing you the service you have requested. In all cases, your information will be protected by this Privacy Policy or, should their policy apply to your information, we will provide you an explicit opportunity to agree to their Privacy Policy prior to using the service you have requested.
   * Business Transfers. The promises in this Policy will apply to your Personal Information in the event that Crowdpac Inc is involved in a bankruptcy, merger, acquisition, reorganization, or a sale of assets. However, your information may be transferred to another entity as part of that transaction.
-  * Curated Campaigns. Some campaigns on Crowdpac are sponsored by specific partner organizations. If you contribute to such a campaign, we will note the sponsor in the terms and conditions specific to the campaign, and may share your data with them. In some cases, a sponsor might wish to remain anonymous, in which case we will only share your name, city and state. In all cases, a sponsor may not sell, rent or otherwise share your information with any third parties.
+  * Campaigns. A Campaign is a web page that allows you to make a donation to one or more candidates, committees or organizations.  If you contribute through a campaign, we may share your data with the campaign’s creator. Campaigns can be found at https://www.crowdpac.com/campaigns.
+  * Communities.  A Crowdpac Community is a group of people that comes together to share ideas, provide mutual support, and engage in collective actions.  Each community has one or more leaders. We may share your data, including donations, endorsements, and comments made through the communities, with the leaders of any community you join.
 
 
 
-**Changing your Personal Information**
+ **Changing your Personal Information**
 
 Once you are a registered user of our Site, we will provide you with tools and account settings to access, modify and delete the Personal Information you provide to us and which is associated with your account. 
 
