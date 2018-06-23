@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vps.me privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120071009id_/http%3A//www.vps.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vps.me privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623155706id_/http%3A//www.vps.me/privacy) for the most accurate reproduction.*
 
 # VPS.me privacy policy - VPS hosting
 
