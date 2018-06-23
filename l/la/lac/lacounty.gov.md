@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lacounty.gov privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220115844id_/http%3A//www.lacounty.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacounty.gov privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623092910id_/http%3A//www.lacounty.gov/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Los Angeles County
+# Privacy Policy – COUNTY OF LOS ANGELES
 
 The Board of Supervisors of Los Angeles County recognizes the public’s concern about privacy on the Internet. This privacy statement establishes how information gathered about you from your visit to our website will be used by this website’s operators. As a visitor, however, you should be aware that much information submitted to Los Angeles County is public information under the laws of the State of California. Under some circumstances, we may be required to disclose such information in accordance with the California Public Records Act or other legal requirements.
 
