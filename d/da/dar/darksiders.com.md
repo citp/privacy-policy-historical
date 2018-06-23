@@ -1,125 +1,247 @@
-> *The following text is extracted and transformed from the darksiders.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503014122id_/http%3A//thqnordic.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darksiders.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623125339id_/http%3A//thqnordic.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy policy | THQ Nordic GmbH
 
-## **THQ Nordic GmbH Privacy Policy**
+_**General information  
+This privacy policy has been translated from German (company is based in Vienna, Austria) to English by Google Translate.**_
 
-Thank you for visiting http://www.thqnordic.com (the "Site"), the official website of THQ Nordic GmbH referred to in this Privacy Policy as "THQ NORDIC", "we" and "us". This Privacy Policy explains how we use information we collect about you and the choices you can make about the way your information is collected and used.
+## **Privacy Policy**
 
-### Children and This Site
+Thank you for visiting the official website [https://www.thqnordic.com](https://www.thqnordic.com/) (the "website") of THQ Nordic GmbH, which under this privacy policy is also referred to as "THQ Nordic", the "Company", "we" and "Us". This Privacy Policy outlines what kind of information we collect about you and how you can decide how we collect and use that information. This Privacy Policy applies in whole or in part to our subsidiaries and websites of our products.
 
-It is important to us that children can enjoy this Site in a responsible fashion. We, therefore, encourage children to consult with their parents before providing personal information and require that applicants who are under 18 years of age get parental consent before using this Site. As such we may refuse to allow registration on this Site by children under 18 years of age. If a child below the age of 18 would like to access content only available through registration, their parent should register on this Site themselves and access the content for their child, thereby supervising their child's online activities whilst on this Site.
+### Data protection
 
-We further encourage parents to supervise their children's online activities by, for example, adopting parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also help prevent children from disclosing online their name, address, and other personal information without parental permission.
+We have written this privacy policy to explain to you, in accordance with the provisions of the EU General Data Protection Regulation, which information we collect, how we use data and what options you have as a visitor to this website.
 
-### The Information We Collect and How We Use It
+Unfortunately, it is in the nature of things that these explanations sound very technical, but we tried to describe the most important things in a simple and clear manner.
 
-THQ NORDIC takes your privacy seriously, and takes every reasonable precaution to safeguard the personal information you supply to us. In order to give you the best experience on this Site, THQ NORDIC may collect personal information from you, but only if you voluntarily provide it to us. Typically, we may ask a user to submit personal and/or demographic information, and it will usually take the form of either: (1) registration; (2) requests for technical support/customer service; and/or (3) personal information submitted in a business capacity (e.g. CVs). The types of information that may be requested for each activity and the way information may be used are detailed below. Any information you provide is safeguarded under the terms of the Act.
+### Automatic data storage
 
-In addition to the uses specified above, we may on occasion use your personal and demographic information for our internal marketing and demographic studies, so we can constantly improve the products and services that we provide. We may also ask you for other information, including, but not limited to, your interests, in order to assist us in our initiatives outlined above and to improve our understanding of customer trends and patterns. However, if we make such a request, we will clearly mark whether or not we need such information for providing products or services to you.
+When you visit websites nowadays, certain information is automatically created and stored, including on this website.
 
-Your data, together with that of other users of this Site, may be aggregated (e.g. by postcode or age) for the purpose of building statistical and analytical reports. At no time will your data be individually identifiable in such reports.
+If you visit our website as it is now, our web server (computer where this website is stored) automatically saves data such as the IP address of your device, the addresses of the visited subpages, details of your browser (eg Chrome, Firefox, Edge, ...) and date and time. We do not use this information and usually do not disclose it, but we can not rule out that it will be seen in the event of unlawful behavior.
 
-No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfil your online requests and our legitimate business objectives.
+### Storage of personal data
 
-### Newsletter
+Personal data that you submit electronically to us via this website, such as name, e-mail address, address, or other personal information you transmit in the course of submitting a form, or comments in the blog, will be used in connection with time/date of entry and your IP address and only stored for said specified purpose. This information is kept safe and will not be disclosed to third parties.
 
-When subscribing to our newsletter a visitor needs to provide the following mandatory information: Email Address, Gender, Language (German or English). Further information which will support us in providing better products and services is mandatory, e.g. Region, preferred Genres, preferred Platforms etc.).
+We use your personal data exclusively for communication with those visitors who expressly request contact and for the handling of the services and products offered on this website. We will not disclose your personal information without consent, but we can not rule out that this information will be seen in the event of unlawful behavior.
 
-### Other Types Of Information Gathering
+If you send us personal information via e-mail - i.e. outside of this website - we can not guarantee secure transmission and protection of your data. We recommend that you never send data by e-mail unencrypted.
 
-Occasionally our website gathers visitors’ data via temporary marketing activities such as promotional offers, surveys, etc. Participation in these activities happens on a voluntary basis, which allows the visitor to decide whether to disclose any personal data. Such data may include contact information (e.g. name, email, phone number), demographic information (e.g. zip code, date of birth) or others. The data will be used to provide the visitor with the service requested. Data gathered via surveys will be used for improving our website and services.
+### Contact via the website
 
-### Changing/Editing Personal Information
+Due to legal regulations, the website contains information that allows visitors to contact our company quickly and to communicate with us directly, which also includes a general address of the so-called electronic mail (e-mail address). If you contact the data controller (us) via e-mail or through a contact form on our website, the personal data provided by you will be automatically saved. Such personal data, voluntarily transmitted by an individual to the Company, is stored for the purpose of processing or contacting the respective person. There is no disclosure of this personal data to third parties.
 
-Every email sent by THQ Nordic allows the user to change, edit, add or remove any information she/he provided us while registering for an THQ Nordic service or contact request on the website.
+### Registration on our website
 
-### Unsubscribe
+We offer the option of registering on our website, providing personal data. The personal data transmitted to us can be seen on the respective registration forms. This personal data shall be collected and stored solely for internal use by us and for this specific purpose. The THQ Nordic employee responsible may initiate the transfer to one or more other employees of THQ Nordic, who can in turn use the personal data, again, only for internal use attributable to the purpose of the registration.
 
-Users who wish to no longer receive our newsletter or promotional emails may click on a link named “Unsubscribe” which is embedded with every email sent by THQ Nordic in order to not receive future messages.
+By registering on the website, the IP address assigned by the Internet service provider (ISP) of the person submitting the data is stored, along with the date and time of registration. The reason for the storing of this data is to prevent fraudulent use of our services. In case of need, the storage of this data enables us to investigate criminal activities. In this respect, the storage of this data is required to legally protect data processors. Essentially, a disclosure of said data to third parties is not intended, unless there is a legal obligation to share it, or if the data needs to be forwarded as part of a criminal prosecution.
 
-### Registration
+By registering, said voluntarily provided personal data enables the internal data processor to provide the registrant with content or services that, due to the nature of the case, can only be offered to registered users. Registered persons are free to modify the personal data given at registration at any time or to delete it completely from the database of the data processor.
 
-In order to register for this Site and to subsequently participate in this Site's on-line activities and competitions, information will be required to be submitted to THQ NORDIC. The types of information that may be collected at these pages include, but are not limited to: your name, age, sex, e-mail address, postal address, and telephone number. We request these details in order to register you as a user of this Site, to provide services to you, to respond to any queries you may have and to understand customer trends and patterns.
+The internal data processor shall, at any time upon request, provide information to each registrant as to which personal data about the registrant is stored. Furthermore, the data processor corrects or deletes personal data at the request or reference of the registrant, insofar as this does not conflict with any statutory storage requirements. All team members of the data processor are available to the registrant as a contact person in this context.
 
-### Technical Support/Customer Service
+### Data protection in the case of job applications and in the application process
 
-THQ NORDIC may collect and temporarily store personal information that you voluntarily submit to us via e-mail when contacting Customer Service. For example, we provide on this Site a link through which an online visitor can send e-mail to customer service addressing any issue a user encounters with a THQ NORDIC product. Any personal information contained in such email is used by THQ NORDIC for the sole purpose of responding to your question. Although most e-mail messages are deleted immediately after they are responded to, in certain cases hard copies or data from certain e-mail correspondence may be kept on file for security purposes. Any such copy or data will also be stored in a secure location, and information from these messages will not be used for marketing purposes.
+The data processor collects and processes the personal data of job applicants for the purpose of handling the entire application process. The processing can also be done electronically. This is particularly the case if an applicant submits corresponding application documents to the data processor by electronic means, for example via e-mail or via a contact form on the website. If the Company concludes a contract of employment with an applicant, the data transmitted will be stored for the purposes of the employment relationship in accordance with the law. If no contract of employment with the candidate is concluded by the Company, the application documents will be automatically deleted six months after receipt of the application, provided that deletion does not conflict with any other legitimate interests of the Company. Other legitimate interest in this sense, for example, a burden of proof in a procedure under the General Equal Treatment Act (GETA).
 
-### What Happens If I Choose Not To Give My Personal Information?
+### Your rights
 
-If you choose not to submit personal information when requested, you may not be able to participate in certain activities on this Site and may considerably limit the services we can provide you. For example, if you refuse to provide your email address when registering, you will not be able to enter competitions and receive our newsletter. To simply use this Site, however, you do not need to give us any personal information.  
-However, we may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to third parties including advertisers, business partners and sponsors. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file as described below.
+In principle, you have the rights to information, correction, deletion, restriction, data portability, revocation and objection. If you believe that the processing of your data violates data protection law or if your data protection claims have otherwise been violated in a way, you can complain to the supervisory authority. In Austria, this is the Data Protection Authority whose websites you can find at https://www.dsb.gv.at/.
 
-## Cookies, IP Addresses and Other Passive Information
+### TLS encryption with https
+
+We use https to transfer data securely on the Internet. By using TLS (Transport Layer Security), an encryption protocol for secure data transmission over the Internet, we can ensure the protection of confidential data. You acknowledge the use of this security of data transfer at the small lock symbol in the upper left corner of the browser and the use of the https scheme as part of our Internet address.
 
 ### Cookies
 
-When you visit this Site we may send "cookies" to your computer primarily to enhance your on-line experience. "Cookies" are small files or record-keeping devices that websites often store on a user's computer in order to identify them as a unique customer and store personal preferences as well as technical information. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to this Site more enjoyable. In addition, cookies may include information about the type of browser software you use to access the Internet (e.g., Internet Explorer or Netscape 3.0), the type of operating system you use (e.g., Windows Vista, Mac, etc.), and/or the domain name of your Internet service provider. However, THQ NORDIC will not use cookies to store any personal information, such as your name, or retrieve information from your computer that was not originally sent in a cookie.
+Our website uses HTTP cookies to store user-specific data.
 
-Although most browsers are initially set up to accept cookies, you can set most browsers at any time to refuse all cookies or indicate when a cookie is being sent. However, please note that some parts of this Site may not function properly if you refuse cookies.
+A cookie is a short data packet that is exchanged between the web browser and the web server, but is completely immaterial and only becomes meaningful in connection with a web application like an online store, where it stores the content of the virtual shopping cart.
 
-_IP Addresses_  
-THQ NORDIC keeps track of Internet Protocol (IP) addresses. An IP address is a numeric address that is assigned to your computer by your Internet Service Provider. Your IP address is typically used to identify your computer every time you log on to the Internet.
+There are two types of cookies: First-party cookies are created by our website, and third-party cookies are created by other websites (e.g. Google Analytics).
 
-_Other Information_  
-Other information collected passively by THQ NORDIC is in the form of logs " files that record website activity, including how many "hits" a particular web page is getting (sometimes referred to as "click-through data"). For example, log file entries are generated every time a visitor clicks an image on this Site. These entries are generated anonymously, and enable THQ NORDIC to assess overall site activity, track interest in particular portions of this Site, troubleshoot technical concerns, and identify the type of browser you are using. We may also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the products and services we provide you. Log files are used internally only, and are not associated with any particular user or with any personal information.
+There are three categories of cookies: essential cookies to ensure basic functionality of the website, functional cookies to ensure website performance and targeted cookies to improve the user experience.
 
-### Who Collects My Personal Information?
+We use cookies to make our website more user-friendly. Some cookies remain stored on your device until you delete them. They allow us to recognize your browser on your next visit.
 
-The information that you disclose while visiting our website is collected by THQ Nordic GmbH, and is used in the manner specified above.
+If you do not want this, you can set up your browser so that it informs you about the setting of cookies and you allow this only in individual cases.
 
-All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password that enables you to access certain parts of this Site, you are responsible for keeping this password confidential. You must not share a password with anyone.
+You can always delete cookies that are already on your computer or disable cookies. The procedure for doing this varies according to browser, it is best to look for the instructions in Google for the term "delete cookies chrome" or "disable cookies chrome" in the case of a Chrome browser or replace the word "chrome" with the browser of your choice, like e.g. Edge, Firefox, Safari etc.
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to this Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access to that information.
+If you generally do not allow us to use cookies, i.e. you disabled them via your browser's settings, some features and pages may not work as expected.
 
-**Information Sharing**  
-We may share information about visitors to this Site in aggregate with third parties including advertisers, business partners and sponsors, to understand customer trends and patterns and manage and improve our business relationships. Please be assured that such information will be anonymous and will contain no personally identifiable information about you, or any other user of this Site. We may also share your details with third parties (such as auditors or legal advisors) to obtain professional advice.
+### Newsletter
 
-Any agents and contractors of THQ NORDIC who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing.
+If you subscribe to our newsletter, you submit the above personal information and give us the right to contact you via email. We use the data stored in the registration for the newsletter exclusively for our newsletter and do not pass this on to third parties.
 
-We will not disclose your personal information to any outside organisation who wants to market goods or services to you without first obtaining your consent. If you provide such consent but subsequently decide that you no longer wish us to make such disclosures to other organisations for this purpose, then you can simply e-mail us at webmaster@thqnordic.com and we will edit your information for you accordingly.
+If you unsubscribe from the newsletter - you will find the link in each newsletter at the bottom - then we delete all data that was saved with the registration for the newsletter.
 
-We may disclose information we hold in response to legal proceedings, for example, in response to a court order or a subpoena. We may also disclose such information in response to a law enforcement agency's request. Consequently, although we will take all reasonable efforts to ensure that this Privacy Policy is complied with, we cannot guarantee that personal information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+### Google Maps Privacy Policy
 
-In the event that THQ NORDIC or any subsidiary or business unit of THQ NORDIC is sold, the customer information that belongs to THQ NORDIC, that subsidiary or that business unit may also be transferred as part of the sale. Nevertheless, your personal information will still be subject to this Privacy Policy and applicable data protection law.
+We use Google Maps from Google Inc. (1600 Amphitheater Parkway Mountain View, CA 94043, USA) on our website.
 
-**Links, Advertisers, Third Party Sponsors & Ad-Servers**  
-Occasionally, the Site may contain links to other sites where information practices may be different to ours. For example, if you "click" on a banner advertisement, the "click" may take you off this Site. This includes links from advertisers, channel sponsors and partners that may use our logos as part of a co-branding agreement. Visitors should consult the other sites' privacy notices as we are not responsible for and have no control over information that is submitted to, or collected by, these third parties.
+By using the features of this card, data will be transmitted to Google. What kind of data Google collects and how it uses this information can be found at <https://www.google.com/intl/en/policies/privacy/>.
 
-We sometimes may offer content (e.g., competitions or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that you voluntarily submit to participate in this activity. We are not responsible for and have no control over these third parties' use of this information. However, we will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+### Google Analytics Privacy Policy
 
-We may use a reputable third party to present or serve the advertisements that you may see at this Site. This Privacy Policy does not cover any use of information that a third party ad server may have collected from you.
+We use Google Analytics from Google Inc. (1600 Amphitheater Parkway Mountain View, CA 94043, USA) to statistically analyze visitor data. Google Analytics uses targeted cookies.
 
-**Security**  
-Although absolute security cannot be guaranteed on the Internet, please be assured that this Site has measures in place to protect the loss, misuse and alteration of the information under THQ NORDIC’s control. We will continue to maintain and improve these measures over time in line with legal and technological developments. Personal information collected by THQ NORDIC is stored in secure operating environments that are designed so as not to be available to the public. In many instances the personal information is encrypted before you conduct your transaction. To transmit your information securely you must have a browser enabled with Secure Socket Layer (SSL) protocol. Browsers that have this software include Netscape Navigator 3.0 or higher, and Microsoft Internet Explorer 3.0 or higher.
+For more information about Terms of Use and Privacy, please visit <https://www.google.com/analytics/terms/us.html> or <https://support.google.com/analytics/answer/6004245?hl=en>.
 
-**Changes to Our Privacy Policy**  
-If we decide to change this Privacy Policy, the changes will be posted on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. We will not use or disclose personal information provided to us in ways unrelated to the ones described above without informing you and providing you with an opportunity to opt-out of these unrelated uses.
+#### Pseudonymization
 
-**Access to Information**  
-You can contact us at any time by e-mail at webmaster@thqnordic.com and request to see the personal information we have collected through this Site which relates to you, and in some cases, your children, and to ask us to make any necessary changes to correct or update your information. To protect your privacy and security we will take reasonable steps to verify your identity before granting access.
+Our ambition in accordance with the GDPR, is the improvement of our offerings and our web appearance. As the privacy of our users is of utmost important to us, the user data is pseudonymized. The data processing takes place on the basis of the legal regulations of the § 96 paragraph 3 Telecommunications Act, as well as article 6 of the EU-GDPR paragraph 1 section a) (consent) and / or section f) (legitimate interest) of the GDPR.
 
-Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of EUR 10 to meet our costs in providing you with details of the information we hold about you.
+#### Deactivation of data collection by Google Analytics
 
-**Facebook comment box (social plugin)**  
-When you’re logged into Facebook, the comment box plugin lets you comment on other websites immediately, without needing to create a new account or upload a new photo. Public commenting is a common practice across the Internet from articles, to TV clips, to restaurant reviews. By personalizing this experience, the comment box plugin allows for a moderated conversation, and easier ways to limit abuse and trolls.  
-Our website uses Facebook's comment box, a social plugin (“plugin”) provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Avenue, Palo Alto, CA 94304, USA (“Facebook”). For a full list of all social Plugins please see http://developers.facebook.com/plugins.  
-When you visit a page of our website that contains a social plugin, your browser establishes a direct connection to Facebook servers. Facebook directly transfers the plugin content to your browser which embeds the latter into the website, enabling Facebook to receive information about you having accessed the respective page of our website. Thus we have no influence on the data gathered by the plugin and inform you according to our state of knowledge.  
-The embedded plugins provide Facebook with the information that you have accessed the corresponding page of our website. If you are logged into Facebook, your visit can be assigned to your Facebook account. If you interact with the plugins, for example by clicking “Like”, or entering a comment, the corresponding information is transmitted from your browser directly to Facebook and stored by it. Even if you are not logged into Facebook, there is possibility that the plugins transmits your IP-address to Facebook.  
-For the information on the purpose and scope of data collection and procession by Facebook, as well as your rights in this respect and settings options for protecting your privacy please visit Facebook’s privacy policy: http://www.facebook.com/policy.php.  
-If you are a Facebook member and do not want Facebook to connect the data concerning your visit to our website with your member data already stored by Facebook, please log off Facebook before entering our website. Further you can block Facebook social plugins by using add-ons for your browser, like the “Facebook Blocker“.
+Certain  **browser add-ons to disable** Google Analytic's JavaScript (ga.js, analytics.js, dc.js) allows site visitors to prevent Google Analytics from using their data.
 
-**Opting Out**  
-You may at any time de-register from the Site and have your personal information removed from the THQ NORDIC database by clicking the unsubscribe link found at the bottom of each newsletter. We will then remove your registration details from our database and inform you once this has been done.
+You may prevent the collection by Google of the data generated by the cookie and related to your use of the website as well as the processing of this data by Google by downloading and installing the browser plug-in available under the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>.
 
-**Questions and Complaints**  
-If you have any questions or complaints either relating to the Site or this Privacy Policy, you can e-mail them to webmaster@thqnordic.com.
+#### Google Analytics addendum to data processing
 
-**Contact Information**  
+We have entered into a direct customer agreement with Google for the use of Google Analytics by accepting the "Data Processing Supplement" in Google Analytics.
+
+To read more about the Google Analytics Add-on, please visit [https://support.google.com/analytics/answer/3379636?hl=en&utm_id=ad](https://support.google.com/analytics/answer/3379636?hl=en&utm_id=ad)
+
+#### Google Analytics IP anonymization
+
+We have implemented the IP address anonymization of Google Analytics on this website. This feature has been developed by Google to enable that site to comply with applicable privacy practices and recommendations of local data protection authorities when they prohibit storage of the full IP address. The anonymization or masking of the IP takes place as soon as the IP addresses arrive in the Google Analytics data collection network and before the data is stored or processed.
+
+More information about IP anonymization can be found at <https://support.google.com/analytics/answer/2763052?hl=en>.
+
+### Google Fonts Privacy Policy
+
+We use Google Fonts from Google Inc. (1600 Amphitheater Parkway Mountain View, CA 94043, USA) on our website. Google Fonts are used without authentication and no cookies are sent to the Google Fonts API. If you have an account with Google, none of your Google Account information will be transmitted to Google while using Google Fonts. Google only records the use of CSS and the fonts used and stores this data securely. More about these and other questions can be found at <https://developers.google.com/fonts/faq>.
+
+What data Google collects and how it uses this information can be found at <https://www.google.com/intl/en/policies/privacy/>.
+
+### Google reCAPTCHA
+
+We use Google reCAPTCHA from Google Inc. (1600 Amphitheater Parkway Mountain View, CA 94043, USA) to prevent spam.  
+The legal basis for use is Article 6 (1) f (lawfulness of processing), as there is a legitimate interest in protecting this website from bots and spam.
+
+reCAPTCHA is a free service that protects websites against spam and abuse. It uses advanced risk analysis techniques to keep people and bots apart. With the new API, a significant number of your valid human users will pass the reCAPTCHA challenge without having to solve a CAPTCHA. We use reCAPTCHA to secure forms.
+
+By using reCAPTCHA, data will be transmitted to Google using Google to determine whether the visitor is human or spam. To see what data Google collects and what this data is used for, visit <https://policies.google.com/privacy?hl=en>.  
+Google's Terms of Service and Products can be found at [https://policies.google.com/terms?hl=en](https://policies.google.com/privacy?hl=en).
+
+### Embedded social media elements
+
+We integrate elements of social media services on our website to display pictures, videos and texts.  
+By visiting pages representing these elements, data is transferred from your browser to the respective social media service and stored there. We do not have access to this data.  
+The following links lead you to the pages of the respective social media services where it is explained how they deal with your data:
+
+  * Instagram Privacy Policy: https://help.instagram.com/519522125107875
+  * For YouTube, the Google Privacy Policy applies: <https://policies.google.com/privacy?hl=en>    
+  * Facebook Data Policy: https://www.facebook.com/about/privacy    
+  * Twitter Privacy Policy: https://twitter.com/privacy
+
+
+
+### Facebook Privacy Policy
+
+We use functions of Facebook, a social media network of FIrma Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbor, Dublin 2 Ireland.
+
+What features (social plug-ins) Facebook provides can be found at <https://developers.facebook.com/docs/plugins/>.
+
+By visiting our website information can be transmitted to Facebook. If you have a Facebook account, Facebook can associate that information with your personal account. If you do not want that, please log out of Facebook.
+
+The privacy policy, which information Facebook collects and how they use them can be found at <https://www.facebook.com/policy.php>.
+
+It is also possible to block Facebook social plugins with add-ons for your browser, for example with the "Facebook Blocker".
+
+### YouTube Privacy Policy
+
+We use YouTube's video service, YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.
+
+By accessing pages of our website that have integrated YouTube videos, data is transmitted to YouTube, stored and evaluated.
+
+If you have a YouTube account and you're signed in, it will be associated with your personal account and the data stored in it.
+
+What data Google collects and how it uses this information can be found at <https://www.google.com/intl/en/policies/privacy/>.
+
+### Twitter Privacy Policy
+
+We use features on this website from Twitter, a Twitter International Company social network, One Cumberland Place, Fenian Street, Dublin 2 D02 AX07, Ireland.
+
+This also allows personal data to be transmitted to Twitter. We do not monitor this data exchange and do not store anything about it.
+
+If you would like to know more about the use of your data by Twitter, you will find all the information in the Twitter Privacy Policy at <https://twitter.com/privacy>.
+
+If you have an account on Twitter, you can change your privacy settings in Account Settings at <https://twitter.com/settings/account>.
+
+### Google+ Privacy Policy
+
+We use features on Google+ from Google+, the social network of Google Inc. (1600 Amphitheater Parkway Mountain View, CA 94043, USA).
+
+If you want to take full advantage of the features offered, you'll need a Google Account.
+
+Even when using the functions (Google +1 Buttons, Google+ Badge, Follow button, Google+ Share button and Link, Sign-In Button, Hangout Button) without Google Account information is already sent to Google.
+
+If you're signed in with your Google Account while using the features listed above, your data can be published worldwide (depending on your settings: <https://plus.google.com/settings/>), and Google collects and evaluates it, as appropriate.
+
+What data Google collects and how it uses this information can be found at <https://www.google.com/intl/en/policies/privacy/>.
+
+### Instagram Privacy Policy
+
+We use social networking site Instagram features by Instagram LLC, 1601 Willow Rd, Menlo Park CA 94025, USA.
+
+We can display images and videos with Embed Embed Instagram features.
+
+By calling up pages that use such functions, data (IP address, browser data, date and time, cookies) are transmitted to Instagram, stored and evaluated.
+
+If you have an Instagram account and you're signed in, that information will be associated with your personal account and the data stored in it.
+
+The privacy policy, which information Instagram collects and how it uses it can be found at <https://help.instagram.com/155833707900388>.
+
+### LinkedIn Privacy Policy
+
+We use Social Media Network features on LinkedIn, LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA.
+
+By visiting sites that use such functions, data (IP address, browser data, date and time, cookies) are transmitted to LinkedIn, stored and evaluated.
+
+If you have a LinkedIn account and you are logged in, it will be associated with your personal account and the data stored in it.
+
+The privacy policy, which information LinkedIn collects and how it uses it can be found at <https://www.linkedin.com/legal/privacy-policy>.
+
+### Pinterest Privacy Policy
+
+We use buttons and widgets on our site from the social media network Pinterest, Pinterest Inc., 808 Brannan Street, San Francisco, CA 94103, USA.
+
+By calling up pages that use such functions, data (IP address, browser data, date and time, cookies) are transmitted to Pinterest, stored and evaluated.
+
+The privacy policy, which information Pinterest collects and how it uses it can be found at <https://policy.pinterest.com/en/privacy-policy>.
+
+### Facebook Pixel Privacy Policy
+
+On our website we utilize the Facebook Pixel of Facebook, a social media network of the company Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbor, Dublin 2 Ireland.
+
+The code implemented on this website can evaluate the behavior of visitors who have come to this website via a Facebook ad. This can be used to improve Facebook ads and this information is collected and stored by Facebook. The collected data is not visible to us but can only be used within the scope of booking advertisements. The use of the Facebook pixel code also sets cookies.
+
+By using the Facebook Pixel, the visit of our website is communicated to Facebook, so that visitors get to see matching ads on Facebook. If you have a Facebook account and are logged in, the visit to this website will be associated with your individual Facebook user account.
+
+How to use the Facebook pixel for advertising campaigns is available at <https://www.facebook.com/business/learn/facebook-ads-pixel>.
+
+You can change your ad settings on Facebook at <https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen> if you're signed in to Facebook. At <http://www.youronlinechoices.com/preferencemanagement/>, you can manage your preferences for usage-based online advertising. You can disable or enable many providers at once or make settings for individual providers.
+
+More information about Facebook's data policy can be found at <https://www.facebook.com/policy.php>.
+
+### Questions and complaints
+
+If you have any questions or complaints regarding this Privacy Policy, please contact us by e-mail at office@thqnordic.com.
+
+**Contact**  
 THQ Nordic GmbH  
-Landstrasser Hauptstrasse 1/23, A-1030 Vienna
+Landstrasser Hauptstrasse 1/2/23  
+1030 Vienna  
+Austria
 
-Tel.: +43 (0)1 2365487-0  
-Fax: +43 (0)1 253 30 33 9960  
+Tel .: +43 (0) 1 2365487-0  
+Fax: +43 (0) 1 253 30 33 9960  
 E-Mail: office@thqnordic.com
+
+Source: Created with the privacy generator of firmenwebseiten.at as well as in parts by the privacy policy generator of DGD Deutsche Gesellschaft für Datenschutz GmbH, which acts as external data protection officer Frankfurt am Main, in cooperation with the Cologne Privacy lawyer Christian Solmecke.
