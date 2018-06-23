@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tawk.link privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413074259id_/https%3A//www.tawk.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tawk.link privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623094632id_/https%3A//www.tawk.to/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | tawk.to
 
@@ -23,6 +23,8 @@ tawk.to also collects potentially personally-identifying information like Intern
 
 **Gathering of Personally-Identifying Information**  
 Certain visitors to tawk.to’s websites and users of tawk.to’s apps choose to interact with tawk.to in ways that require tawk.to to gather personally-identifying information. The amount and type of information that tawk.to gathers depends on the nature of the interaction. For example, we ask users of our app to provide an email address. In each case, tawk.to collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with tawk.to. tawk.to does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+Additionally, if: (a) you are established in the European Economic Area (EEA); (b) you provide goods or services to customers in the EEA; or (c) you are otherwise subject to the requirements of the EU General Data Protection Regulation, tawk.to’s collection and use of personal information of any European residents is also subject to our [Data Processing Addendum](https://www.tawk.to/data-protection/dpa-data-processing-addendum/).
 
 **Aggregated Statistics**  
 tawk.to may collect statistics about the behavior of visitors to its websites. However, tawk.to does not disclose personally-identifying information other than as described below.
@@ -52,4 +54,4 @@ Although most changes are likely to be minor, tawk.to may change its Privacy Pol
 **Contacting us**  
 If you have questions about this policy, you can contact us at [support@tawk.to](mailto:support@tawk.to).
 
-Creative Commons: This privacy policy is based on one developed by Automattic (http://automattic.com/privacy/) and is licensed under a Creative Commons Attribution-ShareAlike 2.5 License.
+Creative Commons: This privacy policy is based on one developed by Automattic (http://automattic.com/privacy/) and is licensed under a Creative Commons Attribution-ShareAlike 2.5 License. Emoji art supplied by [EmojiOne](http://emojione.com/)
