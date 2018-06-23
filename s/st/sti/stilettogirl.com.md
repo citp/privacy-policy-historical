@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stilettogirl.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221233214id_/http%3A//stilettogirl.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stilettogirl.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623235918id_/http%3A//www.stilettogirl.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
