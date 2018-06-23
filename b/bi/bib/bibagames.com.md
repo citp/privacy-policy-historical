@@ -1,31 +1,253 @@
-> *The following text is extracted and transformed from the bibagames.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220053729id_/http%3A//www.bibagames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bibagames.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623083358id_/http%3A//www.bibagames.com/privacy.html) for the most accurate reproduction.*
 
-# Bibagames Privacy-bibagames.com
+# 
 
-**Privacy Policy for www.bibagames.com**
+Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at bibagames@gmail.com. 
+Last updated on 17 March 2018
 
-At www.bibagames.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.bibagames.com and how it is used. 
+  * Our approach to Privacy
+  * 1\. What Information Do We Collect?
+    * 1.1 Information you give to us
+    * 1.2 Information collected automatically
+    * 1.3 Information from third parties
+  * 2\. How Do We Use Your Information?
+    * 2.1 When Do We Disclose Information
+    * 2.2 Childrens' Privacy
+    * 2.3 Third Party Services
+    * 2.4 Marketing, In-app Purchases & Opting-Out
+      * 2.4.1 Direct Marketing
+      * 2.4.2 In-app Purchases
+      * 2.4.3 Opting-out
+    * 2.5 Storage & Security
+    * 2.6 Access & Correction
+  * 3\. Complaints
+  * 4\. Updates To This Policy
+  * 5\. Definitions  
 
-**Log Files**  
-Like many other Web sites, www.bibagames.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-**Cookies and Web Beacons**    
-www.bibagames.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-**DoubleClick DART Cookie**    
-.:: Google, as a third party vendor, uses cookies to serve ads on your site.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
-Google Adsense
+Our approach to Privacy
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.bibagames.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+Your privacy is important to us.
 
-www.bibagames.com has no access to or control over these cookies that are used by third-party advertisers. 
+As an Ukrainian company operating globally, we strictly comply with Ukrainian privacy laws but we also strive for global best practice.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.bibagames.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+This privacy policy sets out how we handle your privacy. By using our Services you consent to the practices set out in this policy.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+Children: Remember to be smart and safe online. Never give someone your information without first asking your parent/guardian if it is OK. Don't give anyone your photo, or tell anyone your name, email, home address, telephone, your school or any other information about you that they could use to contact you either online or in the real world.
+
+If you want to enter one of our competitions, make sure you ask permission from your parent/guardian before you enter.
+
+Parents: We are committed to the safety and privacy of the children who use our Services. We encourage parents/guardians to actively monitor their children's online activities. See more information below about children's privacy and our Child Safe Apps.
+
+1\. What Information Do We Collect?
+
+1.1 Information You Give To Us
+
+We receive and store any information you give to us, such as when you:
+
+  * download, update and play our games;
+  * enter our competitions;
+  * are involved in our special events (e.g. focus testing days);
+  * interact with us via social media such as Facebook, Twitter, Twitch, YouTube, Instagram and Google+;
+  * enter information on our Website;
+  * purchase our merchandise;
+  * subscribe to our newsletters or other information feeds;
+  * purchase Services through an online store;
+  * make an in-app purchase;
+  * request technical support, make a compliment or complaint, or otherwise contact us directly; or
+  * give us your information in another way.  
+
+
+
+
+1.2 Information Collected Automatically
+
+We receive and store certain types of information automatically when you interact with us, such as:
+
+  * information about how you use our Services. We use this information to design new Services, improve our games, provide social features and to deliver our Services to you;
+  * when you sign-in to our games with Facebook, Google+, Twitter, Game Center or other platform providers, we gather from that provider your basic profile information such as name, gender, age-range, your profile photo and friends list;
+  * information about the device you use to access our Services such as its make & model, operating system version, platform, language, time zone, device carrier, applications installed and IP address;
+  * cookies: You can disable cookies through your web or phone browser settings but you may find that you are not able to enjoy all of the features of our Services if you do so;
+  * the advertising ID for your device. You can reset the advertising ID at any time through your device settings.
+  * your general location location (ie. city/country) based on your IP Address, so we know what language to use and so that we can provide Services that are applicable to your location; and
+  * if you "tell a friend," "email this page," or use another similar features, we will collect information to perform this feature for you.  
+
+
+
+
+1.3 Information From Third Parties
+
+Sometimes we collect information about you from third parties, such as [Apple](http://www.apple.com/), [Amazon](http://www.amazon.com/), [Facebook](https://www.facebook.com/), or [Google](http://www.google.com/about/). We collect this information so that we can deliver Services you have requested. We collect this information:
+
+  * when you purchase our Services via the App Store, Google Play Store, or other Storefront;
+  * if you log into our Services through a social media account (such as [Facebook](http://www.facebook.com/)) we will collect your basic profile information such as your name, current profile picture, age-range, and your friend list, this lets you interact with your friends who are also using our Services; and
+  * when you use in-app features such Game Center we will collect information such as your user name and your gameplay information.  
+
+
+
+
+2\. How Do We Use Your Information?
+
+We use the information we collect about you:
+
+  * for the purpose it was collected for (eg if you participate in our focus testing, we will use that information to assist in the development and launch of our games, if you buy our merchandise we will use your information to complete the purchase, if you email us we will use your name and email to respond);
+  * to deliver our Services to you;
+  * to personalise and continually improve your experience of our Services;
+  * to offer our Services to you and to tell you about new Service offerings, updates and other information about our Services that might be relevant to you;
+  * to advertise our Services to you;
+  * to deliver advertisements for third party products and services to you;
+  * to provide multiplayer gaming, social networking and gaming console services to you. To do this we will exchange your information with third parties (such as Facebook, Google+ or Game Center) for the purpose of delivering these Services;
+  * to perform our own analytics. We use analytical information for supporting business analysis and operations, business intelligence, product development, improving products and services, personalizing content, providing advertising, and making recommendations; and
+  * to verify your compliance with our Terms of Service.  
+
+
+
+
+We may combine information about you that we have collected from multiple sources.
+
+2.1 When Do We Disclose Information
+
+We may disclose the personal information we hold about you in the following circumstances:
+
+  * if we are required or authorised to disclose by law or by a law enforcement agency;
+  * to our business partners in the course of providing our Services to you, or generally in the conduct of our business. This may include organisations who provide services to us, such as advertising, payment processors or hosting services. Please see below for more information about third party services; and
+  * to avoid, lessen or prevent a serious emergency or crime. If we use or disclose personal information about you in those circumstances we will make a written record of such use or disclosure.  
+
+
+
+
+2.2 Childrens' Privacy
+
+Child Safe Apps
+
+If your Bibagames game is labelled a Child Safe App, it was built with child safety as a priority. Our Child Safe Apps have no advertising, no data collection, no in-app purchases and no links to external sites or apps. 
+
+If you permit your child to use one of our Services that is not labelled a Child Safe App, you should disable in-app purchases on your phone and actively monitor your child’s use. You should also familiarise yourself with this privacy policy, as by permitting your child to use our Services you consent to this privacy policy on their behalf. If you don’t agree, please do not permit your child to use our Services.
+
+We do not knowingly contact or collect information from children under 13 without the permission of their parent/guardians. If you believe that we have inadvertently collected such information, please contact us so we can promptly obtain parental/guardian consent or delete the information.
+
+2.3 Third Party Services
+
+When you use our Services, you might also use third party services, such as Facebook, Twitter, Google+ and Game Center. We do not control how they interact with you and you should ensure that you consent to the terms of use and privacy policies offered by the third party services before providing them with your information. You acknowledge that we are not liable when third party services use information you provide to them.
+
+We encourage you to be careful about the protection of your own personal information when using third party services such as social media platforms.
+
+We also work with certain business partners, such as other game developers and advertising partners, and information collected from you may be shared through these partnerships.
+
+Some of our business partners are outside Ukraine. Below is a list of some, but not all, business partners that we actively share user information and site usage data with (this list is subject to change):
+
+  * AppLovin. Located in United States. 
+  * Campaign Monitor. Based in Australia with servers in United States. 
+  * Chartboost. Located in United States. 
+  * Enfeel. Developers of Birzzle, and located in South Korea. 
+  * MediaBrix.Located in United States and the United Kingdom. 
+  * MoPub. Located in United States.
+  * Other Levels. Located in United States and Australia.
+  * UnityAds. Headquartered in the United States with offices throughout the Americas, Asia and Europe.
+  * Upsight. Located in United States, United Kingdom and Canada.
+  * Vungle. Located in United States, United Kingdom, Germany and China.  
+
+
+
+
+2.4 Marketing, In-app Purchases & Opting-Out
+
+2.4.1 Direct Marketing
+
+Sometimes we will use your information to tell you about our Services and our news, such as new games we are launching, events we are running, or merchandise we sell. You can opt-out if you don’t want to receive this information.
+
+2.4.2 In-app Purchase
+
+Some of our games offer in-app purchases. Examples of in-app purchases are items you can purchase (for real or in-game currency) or other additional features. If you don’t want to make in-app purchases, don’t use these paid-for options and consider disabling in-app purchases on your device.
+
+2.4.3 Opting-out
+
+Ways to opt-out of our Services:
+
+  * if we send you an email, there will be an unsubscribe link;
+  * if we post updates via [Facebook](http://www.facebook.com/) you can 'unlike' our page and you will no longer get updates;
+  * if you receive one of our 'tweets' you can stop following us on [Twitter](http://twitter.com/); or
+  * if we use another type of social media you can opt-out using that service.  
+
+
+
+
+If you need help opting-out please contact bibagames@gmail.com
+
+2.5 Storage & Security
+
+We store information on servers in Australia and in the United States.
+
+Security is important to us and we strive to protect both your information and our information in the best possible ways. But there are inherent risks in transmitting information over the Internet and it is possible that we could be hacked. You should feel comfortable with this level of risk before you provide information to us, or use our Services. If you are not comfortable with this risk, please do not use our Services.
+
+2.6 Access & Correction
+
+You may request access to your personal information at any time by sending a written request to our Privacy Officer by mail at Bibagames,Balashovskaya, str. 6, app. 45, Pavlohgrad 51400, Ukrain, by email to bibagames@gmail.com.
+
+We may charge a small fee for providing access if it requires a significant amount of time to locate your information or to collect or present it in an appropriate form. We may decline your access if there are reasonable grounds for us to do so.
+
+If your information changes, let us know so that we can update our records. If you would like us to de-activate your records that we hold, please tell us. Once de-activated your data will not be accessible. However, due to system backups to various types of data storage media, your data may in some circumstances remain on these types of data storage media. There may be circumstances where we decline to de-activate your records.
+
+3\. Complaints
+
+If you have any concerns or complaints about your privacy please contact us by:
+
+  1. Sending a written request to our Privacy Officer by mail at:
+  2. Bibagames
+  3. Balashovskaya, str. 6, app. 45
+  4. Pavlohgrad 51400, Ukraine
+  5. Email to bibagames@gmail.com  
+
+
+
+
+Our Privacy Officer will respond to your complaint within a reasonable time after we receive it, provided you supply return contact details. If you do not provide return contact details, we will be unable to respond to your complaint, although we will consider its content.
+
+4\. Updates to this Policy
+
+We will update this Privacy Policy from time to time. These updates, will take effect from the date of issue on our website at bibagames.com. Please check back regularly for updates.
+
+5\. Definitions
+
+Advertising ID
+
+A unique ID that is generated for your device to track activity by advertising companies to improve their service in game. This is also known as Interest Based Advertising. You may be able to opt-out of this feature on some platforms. You may also be able to reset your advertising ID on your device.
+
+analytics
+
+Interpretation and interpolation of unidentified data to predict and isolate trends relating to game play and app use.
+
+Child Safe App
+
+\------------------------
+
+in-app purchase
+
+An in-game system that allows exchanging real money for virtual goods or in-game currency.
+
+IP Address (Internet Protocol Address)
+
+A unique string of numbers separated by full stops or commas that identifies each computer using the Internet Protocol to communicate over a network. These numbers are usually assigned in geographic blocks.
+
+Bibagames ("us")
+
+Bibagames its assignees, licensees, successors in title and subsidiaries.
+
+Services
+
+Services offered by us and includes our games, websites and related services.
+
+Storefront
+
+An online business presence for sales. We work with Apple's App Store, Google Play and Amazon Appstore storefronts as our primary storefronts for sales but our games are also available on Windows Store, Xbox Marketplace and many others.
+
+Terms of Service
+
+Rules and conduct standards that are defined that one must comply with to use the service.
+
+third party services
+
+Services provided by a provider that is not owned or controlled by Bibagames.
