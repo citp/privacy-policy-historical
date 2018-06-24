@@ -1,10 +1,20 @@
-> *The following text is extracted and transformed from the darksoulswiki.wikispaces.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009084550id_/http%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darksoulswiki.wikispaces.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624194206id_/https%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fextralife
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
-Our website uses cookies. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
+  * You must be at least 18 years of age to use our website. By using our website and by agreeing to these terms of use, you warrant and represent that you are at least 18 years of age.
+  * Our website uses cookies. By using our website and agreeing to these terms of use, you consent to our use of cookies in accordance with the terms of our privacy policy.
+  * Our websites uses advertisements provided by Google and other exchanges. These may use tracking cookies, which you can deny or accept by configuring your browser settings. You can opt out of cookies by clicking [here](http://www.aboutads.info/choices/) or [here](http://www.networkadvertising.org/choices/). EU/EEA users can use [this link](http://www.youronlinechoices.eu/).
+  * Our website registration requires a valid email address. **By registering to our website and agreeing to these terms of use, you specifically and actively subscribe to our newsletter and consent to receive emails from us in accordance with the terms of our[privacy policy](https://fextralife.com/privacy-policy/).**
+  * By editing Fextralife Wikis or leaving a wiki comment, you specifically and actively agree to our [Wiki Contributor Agreement](https://fextralife.com/wiki-license/) and accept that your IP and edits will be recorded and archived.
+  * Information regarding VIP subscriptions and its terms are on the [VIP page](https://fextralife.com/be-a-vip/).
+  * Registering to our website is an active registration to our mailing list. If you want to have an account but not receive our newsletter, you can change your settings [here](https://fextralife.com/forums/ucp.php).
+  * You can request information that we hold on your account, account deactivation and information deletion by sending an email to legal@fextralife.com
+  * Fextralife uses Cloudflare to protect our servers. By using Fextralife you are agreeing to Cloudflare’s [Privacy Policy](https://www.cloudflare.com/privacypolicy/) as well.
+
+
 
  **(1)      Credit**
 
@@ -14,7 +24,7 @@ This document was created using an [SEQ Legal](http://www.seqlegal.com/free-lega
 
 We may collect, store and use the following kinds of personal information:
 
-(a)    information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation.
+(a)    information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation)
 
 (b)    information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services
 
@@ -41,6 +51,8 @@ We publish Google AdSense and DFP interest-based advertisements on our website. 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
+
+You can also opt out of Google Analytics by [following this link](http://tools.google.com/dlpage/gaoptout).
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer (version 9) you can refuse all cookies by clicking “Tools”, “Internet options”, “Privacy”, and selecting “Block All Cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites[, including this one.
 
@@ -98,11 +110,11 @@ Except as provided in this privacy policy, we will not provide your information 
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
-Information which you provide may be transferred to countries [(including [the United States], [Japan], [ _other countries_ ])] which do not have data protection laws equivalent to those in force in the European Economic Area.
+Information which you provide may be transferred to countries including the United States, Japan and Hong Kong SAR, which do not have data protection laws equivalent to those in force in the European Economic Area.
 
-In addition, [personal information that you submit for publication on the website] will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.]
+In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
 
-You expressly agree to such transfers of personal information.
+ **You expressly agree to such transfers of personal information.**
 
  **(7)      Security of your personal information**
 
@@ -124,11 +136,11 @@ We may update this privacy policy from time to time by posting a new version on 
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
 
-(a)      the payment of a fee (currently fixed at USD 20); and
+(a)      the payment of a fee (currently fixed at USD 20 for non-EU residents); and
 
 (b)      the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
 
-We may withhold such personal information to the extent permitted by law.
+We may withhold such personal information to the extent permitted by law. Please contact us at legal@fextralife.com
 
  **(10)    Third party websites**
 
@@ -136,8 +148,8 @@ The website contains links to other websites. We are not responsible for the pri
 
  **(11)    Updating information**
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
+Please let us know if the personal information which we hold about you needs to be corrected or updated. Please contact us at legal@fextralife.com
 
  **(12)   Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to kinbundo@fextralife.com
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to legal@fextralife.com
