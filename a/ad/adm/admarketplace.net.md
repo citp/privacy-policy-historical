@@ -1,149 +1,91 @@
-> *The following text is extracted and transformed from the admarketplace.net privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210104052id_/https%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admarketplace.net privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624063254id_/https%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
 
 # adMarketplace | Leading Search Advertising Marketplace
 
-adMarketplace, Inc.'s ("adMarketplace's") website, [www.adMarketplace.com](http://www.admarketplace.com/), serves two basic functions. First, it is a portal for information about adMarketplace products and services as well as online advertising generally. Second, it contains password-protected pages where adMarketplace partners (Partners) can access partner-only materials.
+adMarketplace, Inc.'s ("adMarketplace's") website, www.adMarketplace.com, serves two basic functions. First, it is a portal for information about adMarketplace products and services as well as online advertising generally. Second, it contains password-protected pages where adMarketplace publishers and advertisers ("Partners") can access partner-only materials. 
 
-adMarketplace follows generally accepted practices for stewardship of data, including transparency, accountability and choice regarding the collection, use, and disclosure of information collected through our website [www.adMarketplace.com](http://www.admarketplace.com/) and our service accessible from [http://my.adMarketplace.com](http://my.admarketplace.com/). The use of information collected through our service shall be limited to the purpose of providing the service for which our Partner has engaged adMarketplace. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://www.admarketplace.com/contact.php).
+The use of information collected through our service shall be limited to the purpose of providing the service for which our Partner has engaged adMarketplace. If you have questions or complaints regarding our privacy policy or practices, please [ contact us ](https://web.archive.org/web/20180624063254id_/https%3A//www.admarketplace.com/contact.php). 
 
-adMarketplace complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at <http://export.gov/safeharbor>
+  
 
-#### Personal Information Collected on this Website
 
-No personally-identifiable information is collected on this website from consumers that browse the website for information.
+####  Commitment to Data Privacy 
 
-The only personally-identifiable information collected on this website is gathered on our "contact us" pages, where fields are provided so that you can input your name and email address. We collect this information so that we can respond to the comments that you send us via that form.
+adMarketplace follows generally accepted practices for stewardship of data, including transparency, accountability and choice regarding the collection, use, and disclosure of information collected through our website www.adMarketplace.com and our service accessible from http://my.adMarketplace.com. adMarketplace is committed to protecting the data from our Partners and maintaining compliance with the governing authorities, including the General Data Privacy Regulation ("GDPR"). 
 
-We do not merge any of the personally-identifiable information collected via our contact form with other anonymous data collected on our website.
+####  Purpose of Data Collection 
 
-We collect the following kinds of personal information from our Partners when they sign-up to use our service:
+adMarketplace uses the information you provide to us and the information provided by our Partners (outlined below) strictly to provide you with the help you request through our [Contact Us ](https://web.archive.org/web/20180624063254id_/https%3A//www.admarketplace.com/contact.php) page, to perform fraud detection, deliver the most relevant ads to you, ensure ads are compliant with applicable regulations and obligations, and provide our Partners with reports to analyze their campaigns (such as, which ads were delivered and the number of clicks). 
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Unique Identifiers such as user name, account number, password
+####  Personal Information Collected on this Website 
 
+The only identifiable information collected on this website is gathered on our "contact us" pages, where fields are provided so that you can input your name and email address. We collect this information so that we can respond to the comments that you send us via that form. If you do not provide us with this information we may not be able to fully complete your request. We do not merge any of the identifiable information collected via our contact form with other data collected on our website. 
 
+In order to maintain and manage our website, we do record anonymous information such as IP addresses, page views and clicks, and cookies for gathering website statistics. We also store IP addresses on our server in the event that our site becomes corrupted and it becomes necessary to discover the cause. 
 
-We use this information to
+We do not rent, sell or share any anonymous data collected on this website with third parties for marketing purposes. None of this anonymous data is linked to identifiable information submitted by individuals and we make no attempt to link IP addresses to the individuals who visit this site. 
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Send you requested product or service information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
+When Partners sign-up for our services, we collect billing and contact information in order to administer their account, fulfill the services or information they request, and send a newsletter. Our Partner's may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can [contact us](https://web.archive.org/web/20180624063254id_/https%3A//www.admarketplace.com/contact.php). 
 
+We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, or to any other third party with your prior consent to do so. In order to provide certain services, we may also collect information from you when you attend one of our events, during phone calls with sales representatives, or when you contact an adMarketplace representative. This information is provided voluntarily by you. We may on occasion supplement the information you submitted to us with information from third party sources to verify your address as part of our anti-fraud effort. 
 
+#### Information Processed on Behalf of Our Partners
 
-Our Partner's may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can [contact us](https://www.admarketplace.com/contact.php)
+adMarketplace is a Data Processor under the GDPR. adMarketplace processes information under the direction of its Partners, our Data Controllers, and has no direct relationship with the individuals whose personal data it processes. 
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+adMarketplace's network places ads to consumers who visit our Publisher’s websites. We may obtain anonymous information such as visiting a particular website, clicking on a particular ad, general geographic data and browser type, by processing personal data such as cookies, pixels and IP addresses. Our legal basis for processing Personal Data will also be based on your consent through our Partners, where needed to perform a contractual obligation, or prevent malicious or fraudulent traffic. adMarketplace may share aggregate data of consumer behaviors with our Partners under confidentiality agreements. These publishers may use this information to better target advertisements. In some cases, we may also have a legal obligation to collect Personal Data from you. 
 
-We may provide your personal information to companies that provide services to help us with our business activities such as processing a credit card transaction or offering customer support through a chat feature. These companies are authorized to use your personal information only as necessary to provide these services to us
+The use of IP addresses is to ensure ads are running in the allowed geos, to better place ads, and flag fraudulent traffic. Cookies may be used to track how you interact with the advertisement and the publisher website. Pixels may be utilized on advertisers' pages in order to track when a sale is completed to ensure the traffic is not fraudulent, but no information regarding the sale, such as billing or contact information is collected. 
 
-We may also disclose your personal information
+####  Your Rights 
 
-  * as required by law, such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if adMarketplace is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-  * to any other third party with your prior consent to do so.
+If you are in the European Economic Area ("EEA"), you have a right to (subject to certain exceptions) request access to and rectification or erasure of your personal information, obtain restriction of processing or to object to processing of your personal information; and ask for a copy of your personal information to be provided to you, or a third party, in a digital format. You may also lodge a complaint about the processing of your personal information with your local data protection authority. 
 
+adMarketplace has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the adMarketplace Partner (the Data Controller). To submit a request to adMarketplace, please contact [ privacy@admarketplace.com](mailto:privacy@admarketplace.com).. If adMarketplace does receive such a request, it will be forwarded to the appropriate Partner and adMarketplace will remove the personal data it may possess. If you have any questions regarding contacting the correct Data Controller, please contact [ privacy@admarketplace.com](mailto:privacy@admarketplace.com). 
 
+You may opt out from providing adMarketplace any personal data by submitting an [IP Address Opt-Out Request Form ](https://www.admarketplace.com/opt-out/optout.php). When you opt-out we will likely be limited in responding to your inquiry or providing services to you, which may affect certain user experiences based on the publisher. We will comply with your request(s) as soon as reasonably practicable after reviewing your form. 
 
-In order to provide certain services, including Self Serve Advertising, to you, we may on occasion supplement the personal information you submitted to us with information from third party sources to verify your address as part of our anti-fraud effort.
+adMarketplace stores all of its information in a database. This database is password protected and secure. adMarketplace maintains the data in an encrypted form, using Transport Layer Security technology (TLS), so that even if the data is improperly accessed, it is less likely to be in an intelligible format. This data is stored for up to two months and then moved to our secure archive server. The data is encrypted and password protected and only accessed to resolve a legal or business issue. We will retain personal data for a period of time as needed to provide services to our Partner, including to pursue our legitimate business interests, comply with our legal obligations, resolve disputes and enforce applicable agreements. The security of your personal information and our clients' information is important to us. adMarketplace can make no guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data stolen. 
 
-#### Anonymous Information Collected on this Website
+####  Additional Privacy Information 
 
-We record anonymous data such as traffic logs, number of visits or clicks on a given page, pages viewed or links to our site. We use IP addresses and cookies for gathering website statistics. We also store IP addresses on our server in the event that our site should become corrupted and it becomes necessary to discover the cause of this corruption.
+#####  Third Parties 
 
-We aggregate this anonymous data as part of managing, maintaining and reporting on use of our website. We may share this anonymous data with third parties for the limited purpose of reporting on use of our website, or to comply with applicable law. We do not rent, sell or share any anonymous data collected on this website with third parties for marketing purposes.
+Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy. Publishers who place advertisements on the internet may use their own cookies, web beacons and other technology to collect information about you. adMarketplace does not control publishers' use of such technology. To learn about how a particular publisher may use your information, you should read the privacy policy of that publisher. 
 
-None of this anonymous data is linked to personally-identifiable information and we make no attempt to link IP addresses to the individuals who visit this site.
+  
 
-#### Cookies
 
-We use cookies on this website.
+#####  Minors 
 
-Cookies are small chunks of data created by a web server, delivered through a web browser, and stored on your computer. They provide a means for websites that you visit to keep track of your online patterns and preferences, as well as identify you as a return visitor. Cookies make the personalization of your web experiences possible, so that you do not need to re-enter your information from scratch upon each visit to a given website.
+adMarketplace does not knowingly or specifically collect information about minors under the age of 18 and believes that children of any age should get their parents’ or legal guardians’ consent before providing any Personal Data. If you believe that we have mistakenly or unintentionally collected such information, please notify us at [ privacy@admarketplace.com](mailto:privacy@admarketplace.com). 
 
-We serve a cookie from our website when partners log in to partner-only pages, so that they can navigate those pages on the site. A randomly-generated anonymous identifier is assigned to this Privacy Policy.
+  
 
-No personally-identifiable information is collected by or linked to any of the cookies delivered on our site.
 
-You have the ability to manage the use of cookies on your computer using controls in your web-browser. To learn more about how to manage cookies [click here](http://en.wikipedia.org/wiki/HTTP_cookie).
+####  International Data Transfers 
 
-Third Party Cookies  
-The use of cookies by our service providers is covered by our privacy statement. We do not have access or control over these cookies. Our service providers use session ID cookies to ensure that our site is functioning properly.
+adMarketplace, Inc. complies with the requirements of the EU-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from customers in the European Union member countries. adMarketplace has certified that it adheres to the Privacy Shield Privacy Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse, enforcement and liability. Any questions or complaints concerning our Privacy Shield compliance, or requests to access, correct, amend, delete, or limit the use or disclosure of personal information (opt out) may be directed to [ privacy@admarketplace.com](mailto:privacy@admarketplace.com).. If we have not been able to satisfactorily resolve the issue, then, you may submit your complaint to JAMS using this link: [ https://www.jamsadr.com/eu-us-privacy-shield ](https://www.jamsadr.com/eu-us-privacy-shield), adMarketplace’s designated Privacy Shield dispute resolution provider. Under certain conditions specified by the Principles, you may also be able to invoke binding arbitration to resolve your complaint. This Notice only applies to personal information within the scope of the adMarketplace Privacy Shield certifications. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). 
 
-Other Third Party Tracking  
-Our third party partners employ scripts and images that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personally identifiable information.
+####  Changes to Our Privacy Policy 
 
-#### Information Related to Data Collected for our Clients
+As our company and services evolve, this Privacy Policy may be revised to reflect those changes, where applicable. We therefore reserve the right to amend this Privacy Policy at any time, for any reason. Notice of such amendments will be posted as an updated Privacy Policy on this website, and an effective date will be indicated. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
-adMarketplace collects information under the direction of its Partners, adMarketplace has no direct relationship with the individuals whose personal data it processes. adMarketplace works with its Partners to help them provide notice to their customers concerning, the purpose for which personal information is collected.
+  
 
-We collect information for our clients, if you are a customer of one of our Partners and would no longer like to be contacted by one of our Partners that use our service, please contact the client that you interact with directly.
 
-adMarketplace has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the adMarketplace Partner (the data controller). If the client requests adMarketplace to remove the data, adMarketplace will respond to their Partner's request within 30 business days.
+####  Questions? 
 
-adMarketplace will retain personal data we process on behalf of our Partners for as long as needed provide services to our Partner. adMarketplace will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+If you have any questions or concerns about our privacy practices, you may submit a contact us form or reach us at: 
 
-#### Additional Privacy Information
+adMarketplace, Inc 
 
-Security  
-The security of your personal information and our clients' information is important to us. When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL).
+1250 Broadway, 31st Floor 
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact us](https://www.admarketplace.com/contact.php).
+New York, NY 10001 
 
-Tell-a-Friend  
-If you choose to use our referral service to tell a friend about one of our blog posts, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. adMarketplace stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+Email: privacy@admarketplace.com 
 
-Your friend may [contact us](https://www.admarketplace.com/contact.php) to request that we remove this information from our database.
+[IP Address Opt-Out Request Form ](https://www.admarketplace.com/opt-out/optout.php)
 
-Third Party Links  
-Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy.
-
-Data Retention  
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services [contact us](https://www.admarketplace.com/contact.php). We will retain and use yourinformation as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-Access  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by submitting a [contact us](https://www.admarketplace.com/contact.php) form, or by contacting us by telephone or postal mail at the contact information listed below.
-
-Notification of Privacy Statement Changes  
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-#### Network Privacy Policy
-
-adMarketplace's network targets ads to consumers who visit our publisher's websites. adMarketplace does not track or maintain PII (personally identifiable information) about consumers. We may obtain anonymous information like behavior of a particular user, for example, visiting a particular website, clicking on a particular ad, geographic data and browser type etc. by using cookies, pixels and IP addresses.
-
-  * A cookie is a small amount of data stored on the hard drive of your computer that allows adMarketplace to identify your IP address. adMarketplace may use cookies to track individual responses or views of advertisements.
-  * Pixels can be placed on advertisers' pages in order to track when a sale is completed. This helps adMarketplace target future ad placements, but no PII is obtained.
-  * adMarketplace may use your IP address to better target ads. Unless you use a static IP address, an IP address relates to households or larger communities. adMarketplace uses IP addresses to track where clicks are coming from and helps us fight click fraud, but no PII is obtained.
-  * Information can be collected directly from adMarketplace advertisements or indirectly through Publishers that adMarketplace works with.
-  * adMarketplace may set a cookie on your computer or associate behavior with your Internet service provider's IP address when you click on an advertisement delivered on publisher websites. After a behavior is associated to a cookie or an IP address, adMarketplace may track how you interact with the advertisement and the publisher website.
-
-
-
-#### Use of Information and Data
-
-adMarketplace may share anonymous information about your behaviors with trusted publishers under confidentiality agreements. These publishers may use this information to better target advertisements to you.
-
-adMarketplace stores anonymous information in a database. This database is password protected and secure. adMarketplace maintains the data in an encrypted form, so that even if the data is improperly accessed, it is less likely to be in an intelligible format. This data is stored for up to two months and then moved to our secure archive server. The data is encrypted and password protected and only accessed to resolve a legal or business issue. adMarketplace cannot guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data stolen.
-
-#### Privacy Practices of Third Parties
-
-Publishers who place advertisements on the internet may use their own cookies, web beacons and other technology to collect information about you. adMarketplace does not control publishers' use of such technology.
-
-To learn about how a particular publisher may use your PII or anonymous information, you should read the privacy policy of that publisher.
-
-#### Changes to Our Privacy Policy
-
-As our company and services evolve, this Privacy Policy may be revised to reflect those changes, where applicable. We therefore reserve the right to amend this Privacy Policy at any time, for any reason. Notice of such amendments will be posted as an updated Privacy Policy on this website, and an effective date will be indicated. Users are encouraged to check our site frequently to review the current Privacy Policy in effect.
-
-#### Questions?
-
-Please [](https://web.archive.org/contact.php)contact us at adMarketplace, 1250 Broadway, 31st Floor, New York, NY 10001 with any questions about this website Privacy Policy.
-
-[IP Address Opt-Out Request Form](http://www.admarketplace.com/opt-out/optout.php)
-
-**Effective Date: September 11, 2015**
+Effective Date: May 25, 2018
