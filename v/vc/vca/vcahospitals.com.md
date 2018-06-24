@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcahospitals.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312210659id_/https%3A//vcahospitals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcahospitals.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624093304id_/https%3A//vcahospitals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VCA Animal Hospitals
 
@@ -65,7 +65,7 @@ If we learn of a security breach through which sensitive personal information ma
 
 **OPT-OUT FROM RECEIVING COMMUNICATIONS  **
 
-** ** You may “opt-out” of receiving communications via postal mail, e-mail, phone and other communication methods.  In order to opt out of receiving these communications, you should follow the “unsubscribe” or “manage email preferences” instructions contained in any communication you receive or send us an email request to webmaster@vca.com and include “Opt-Out” in the subject box and include your name and email address in the text box.  
+** ** You may “opt-out” of receiving communications via postal mail, e-mail, phone and other communication methods.  In order to opt out of receiving these communications, you should follow the “unsubscribe” or “manage email preferences” instructions contained in any communication you receive or send us an email request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and include “Opt-Out” in the subject box and include your name and email address in the text box.  
 
 **TEXT MESSAGING**
 
@@ -77,7 +77,7 @@ For information about Text Appointment Reminder text messages please click here 
 
 **CONTACT INFORMATION**
 
-** ** We welcome your comments regarding this Privacy Statement.  If you believe that VCA has not adhered to this Privacy Statement, please contact us at webmaster@vca.com.  We will use commercially reasonable efforts to promptly determine and remedy the problem.
+** ** We welcome your comments regarding this Privacy Statement.  If you believe that VCA has not adhered to this Privacy Statement, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  We will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 **CHANGES TO THIS PRIVACY STATEMENT**
 
