@@ -1,39 +1,137 @@
-> *The following text is extracted and transformed from the gofugyourself.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014024503id_/https%3A//www.gofugyourself.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofugyourself.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624033117id_/https%3A//www.gofugyourself.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Go Fug Yourself
 
-Go Fug Yourself takes your privacy seriously. Please read the following to learn more about our privacy policy. 
+_Effective Date: 09/30/2017_
 
-#### What This Privacy Policy Covers
+This Privacy Policy is applicable to this site — gofugyourself.com — and any other site that may be operated by or for GFY, LLC (together, “GFY,” “the “Websites,” “we,” or “us”). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our [Terms of Use](https://www.gofugyourself.com/terms-of-use), which govern the basic operation of the Websites.
 
-This policy covers how Go Fug Yourself treats personal information that Go Fug Yourself collects and receives, including information related to your past use of Go Fug Yourself products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. – This policy does not apply to the practices of companies that Go Fug Yourself does not own or control, or to people that Go Fug Yourself does not employ or manage.
+**Who We Are**
 
-#### Information Collection and Use
+We are Heather Cocks and Jessica Morgan, together the employees of GFY, LLC. We are the site administrators of the Websites and can be reached via e-mail at [fuggingitup@gmail.com](mailto:fuggingitup@gmail.com).
 
-Go Fug Yourself collects personal information when you register with Go Fug Yourself, when you use Go Fug Yourself products or services, when you visit Go Fug Yourself pages or the pages of certain Go Fug Yourself partners, and when you enter promotions or sweepstakes. Go Fug Yourself may combine information about you that we have with information we obtain from business partners or other companies. – When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with Go Fug Yourself and sign in to our services, you are not anonymous to us. – Go Fug Yourself collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. – Go Fug Yourself automatically receives and records information on our server logs from your browser, including your IP address, Go Fug Yourself cookie information, and the page you request. – Go Fug Yourself uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+**1\. What Data We Collect and How We Use It**
 
-#### Information Sharing and Disclosure
+A. Non-Personally Identifiable Information.
 
-Go Fug Yourself does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances: – We provide the information to trusted partners who work on behalf of or with Go Fug Yourself under confidentiality agreements. These companies may use your personal information to help Go Fug Yourself communicate with you about offers from Go Fug Yourself and our marketing partners. However, these companies do not have any independent right to share this information. – We have a parent’s permission to share the information if the user is a child under age 13. Parents have the option of allowing Go Fug Yourself to collect and use their child’s information without consenting to Go Fug Yourself sharing of this information with people and companies who may use this information for their own purposes; – We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; – We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Go Fug Yourself’s terms of use, or as otherwise required by law. – We transfer information about you if Go Fug Yourself is acquired by or merged with another company. In this event, Go Fug Yourself will notify you before information about you is transferred and becomes subject to a different privacy policy. – Go Fug Yourself displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria (for example, women ages 18-24 from a particular geographic area). – Go Fug Yourself does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. – Go Fug Yourself advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). -Go Fug Yourself works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you’ve requested please read our detailed reference links.
+When you visit a Website, we may collect certain data that does not tell us specifically who you are. This is “Non-Personally Identifiable Information.” It includes things like your Internet Protocol (IP) address, browser type, and the last domain you visited before coming to our Website or the domain you go to when you leave. It also includes various statistical data such as which pages you visit on our Websites, how long you stay on them, and what you click.
 
-#### Cookies
+B. Personally Identifiable Information
 
-Go Fug Yourself may set and access Go Fug Yourself cookies on your computer. – Go Fug Yourself lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Go Fug Yourself’s cookies. – Go Fug Yourself uses web beacons to access Go Fug Yourself cookies inside and outside our network of web sites and in connection with Go Fug Yourself products and services.
+We also may collect information that can be used to identify you (“Personally Identifiable Information”). We only collect Personally Identifiable Information when you specifically provide it to us. For example, in connection with your use of certain features of the Websites you may be asked to create a user account and provide certain information including your name and email addresses. You may also provide User Uploaded Information to the Websites, as described in the [Terms of Use](https://www.gofugyourself.com/terms-of-use). When you create a user account with a GFY and sign in to your account on the Websites or post User Uploaded Information, you are not anonymous to us.
 
-#### Your Ability to Edit and Delete Your Account Information and Preferences
+We may use Personally Identifiable Information to fulfill your requests, respond to your inquiries and provide other services, and to alert you to information, offers, or publications in which we think you may be interested. Any emails that we send contain links that enable you to “unsubscribe” from such mailings.
 
-You can edit your Go Fug Yourself Account Information, including your marketing preferences, at any time. – New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. – We reserve the right to send you certain communications relating to the Go Fug Yourself service, such as service announcements, administrative messages and the Go Fug Yourself Newsletter, that are considered part of your Go Fug Yourself account, without offering you the opportunity to opt-out of receiving them. – You can delete your Go Fug Yourself account by visiting our Account Deletion page. Please click here to read about information that might possibly remain in our archived records after your account has been deleted.
+We do not sell Personally Identifiable Information or other information you make available to the Websites, or share such information with third parties. However, we may from time to time provide your Personally Identifiable Information to trusted third parties who or which need such Information in order to assist us in operating our Websites, conducting our business, or servicing you, so long as those parties agree to keep such Information confidential.We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
 
-#### Confidentiality and Security
+Despite the foregoing, please remember that this privacy statement applies solely to information collected on our Websites. Our Websites may contain links to other websites. We are not responsible for the privacy policies or practices or the content of other websites to which we link or which link to us.
 
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. – We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+We may disclose your Personally Identifiable Information to third parties in connection with a corporate transaction where all or a portion of our business (e.g., a portion that includes our customer lists) is sold or transferred. We also may disclose your Personally Identifiable Information if disclosure is required by law or as part of a lawsuit or government investigation or proceeding, or in order to permit us to exercise or preserve our legal rights or take action regarding potentially illegal activities or to protect the safety of any person.
 
-#### Changes to this Privacy Policy
+_a.  WordPress Commenting _
 
-Go Fug Yourself may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Go Fug Yourself account or by placing a prominent notice on our site.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-#### Questions and Suggestions
+  * Visitor comments may be checked through an automated spam detection service.
+  * Older comments may be archived via Amazon Web Services, [which has announced its GDPR compliance](https://aws.amazon.com/blogs/security/all-aws-services-gdpr-ready/).
 
-If you have questions or suggestions, please complete the contact us form.
 
-Effective Date: June 26, 2008
+
+_b. Media_
+
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+
+_c. Cookies_
+
+We may place a “cookie” on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a website’s computers and stored on your computer’s hard drive. Our “preference” cookie expires after thirty (30) days. We may use cookies to keep track of your choice of language, to understand your exposure to certain Internet advertisements as you use the Websites, and to gather usage data that will help us generally improve the quality of the Websites. There is a simple procedure in most browsers that allows you to deny or accept cookies. You should note that cookies may be necessary to provide you with certain features on the Websites.
+
+If you leave a comment on our site you may opt-in to saving your name, email address, and website via cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. By default, this option will be left blank unless you opt in. These cookies will last for one year. If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me,” your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+  * If you create an account, we use SendGrid to deliver confirmation and password recovery e-mails. [SendGrid’s privacy policy can be found here](https://sendgrid.com/policies/privacy/).
+
+
+
+We also may use a small piece of code (sometimes referred to as “1×1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of the Websites to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site. We and/or our ad providers collect and may share the above Non-personally Identifiable Information from all visitors to our site. If you do not want us or ad providers to have access to this information, you should not visit our site.
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website. [YouTube’s privacy policy can be found here](https://support.google.com/youtube/answer/2801895?hl=en-GB). [Vimeo’s privacy policy can be found here](https://vimeo.com/privacy).
+
+Some embedded content may take the form of shopping links that carry you to an outside website, and through which we earn a small commission. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website. The affiliate services we use for this purpose, and their privacy policies, are:
+
+  * ShopStyle: [GDPR compliance info](https://shopstylecollective.zendesk.com/hc/en-us/articles/360003826171-GDPR-Resource) and [terms of service](https://www.shopstylecollective.com/terms)
+  * RewardStyle: [Privacy policy](https://www.rewardstyle.com/privacy), [terms of service](https://www.rewardstyle.com/terms)
+  * Skimlinks: [Privacy policy](https://skimlinks.com/privacy-policy)
+  * Amazon: [Privacy policy](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496).
+
+
+
+Also, we may use advertisers, third party ad networks, and other advertising companies to serve ads on our site. Please be advised that such advertising companies may gather information about your visit to our Website or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. Our policy does not cover the collection and use of information by such third parties. Those companies currently serving ads to the Websites, with links to their privacy policies, are:
+
+  * [Google AdExchange](https://policies.google.com/?hl=en)
+  * [ AppNexus](https://www.appnexus.com/en/company/platform-privacy-policy)
+  * [IndexExchange](http://www.indexexchange.com/privacy/)
+  * [Rubicon](http://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/)
+  * [DistrictM](https://districtm.net/en/page/data-and-privacy-policy/)
+  * [Sovrn](https://www.sovrn.com/privacy-policy/)
+  * [Sharethrough](https://platform-cdn.sharethrough.com/privacy-policy)
+  * [Undertone](https://www.undertone.com/privacy/)
+  * [Next Millennium](http://nextmillennium.io/next-millennium-media-inc-terms-and-conditions/)
+  * [GumGum](https://gumgum.com/privacy-policy)
+  * [Just Premium](https://justpremium.com/terms-conditions/?section=privacy_policy)
+
+
+
+_d. Analytics_
+
+The Websites use Google Analytics tools to track things like visitor traffic, frequency, session duration, and page views. You can opt-out of having making your site activity available to Google Analytics by installing the [Google Analytics opt-out browser add-on](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh?hl=en). The add-on prevents the Google Analytics JavaScript (gtag.js, ga.js, analytics.js, and dc.js) that is running on websites from sharing information with Google Analytics about visit activity. Using the Google Analytics opt-out browser add-on will not prevent the Websites from using other tools to measure site analytics. It does not prevent data from being sent to the website itself or in other ways to web analytics services.
+
+Analytics support representatives sometimes need to access this traffic data to provide service and resolution to technical issues. Google Analytics may also contribute this anonymous data to an aggregate data set to enable features like benchmarking and publications that can help publishers understand data trends; to help with developing new products and services; and to help with optimization analysis. All identifiable information about the Websites is removed and combined with other anonymous data before it is shared with others.
+
+The general Google privacy policy [can be found here](https://policies.google.com/privacy?hl=en).
+
+**2\. How Long We Retain Your Data**
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information. As noted above, your “preference” cookie expires after thirty (30) days. Your commenting cookie — retention of login information for quicker commenting in future — will last for one year.
+
+**3\. Data Security  **
+
+GFY, LLC cannot ensure or warrant the security or privacy of any information you transmit to us. We attempt to follow policies and procedures that will protect against unauthorized access to your Personally Identifiable Information, and we are installed on https and maintain a valid SSL certificate. But we can make no guarantees or promises in this regard, and you provide information to us at your own risk.
+
+We may store the Personally Identifiable Information we hold about you indefinitely. We may store this information in the United States or we may transfer it to any other country. The data protection laws of the countries where we store your personal data may or may not provide a level of protection equivalent to the laws in your home country. Wherever we hold the data, we will apply the terms of this Privacy Policy, subject to local law.
+
+**4\. What Rights You Have Over Your Data**
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+**5\. How Your Data Is Protected**
+
+The Websites are hosted by WP Engine, which is certified as compliant with the EU – U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. [More details about WP Engine and its privacy policy can be found here](https://wpengine.com/legal/privacy/), and you can learn more about [the Privacy Shield frameworks here](https://www.privacyshield.gov/list.). The Website publishing platform is WordPress, whose stated policy is that it does not share personal information.
+
+**6\. Children**
+
+This site is not directed at children under the age of 13 and we endeavor not to knowingly collect any Personally Identifiable Information from children under the age of 13. If a parent or guardian believes that this site has collected the Personally Identifiable Information of a child under the age of 13, please contact fuggingitup@gmail.com.
+
+**7\. Access to your information**
+
+You may contact us at fuggingitup@gmail.com if at any time you would like to see the Personally Identifiable Information we hold about you, or to ask us to correct or update this information, or to ask us to delete it. Please contact us if you have questions or wish to take any action with respect to information to which this Privacy Policy applies (see below for contact information).
+
+**8\. How To Contact Us**
+
+You may contact GFY regarding our privacy practices at the following address:
+
+GFY LLC  
+c/o Alexander, Lawrence, Frumes & Labowitz, LLP  
+1880 Century Park East, Suite 914  
+Los Angeles CA 90067
+
+[fuggingitup@gmail.com](mailto:fuggingitup@gmail.com)
+
+**9\. Changes To The Privacy Policy**
+
+This Privacy Policy is effective as of 09/30/2017. We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.
+
+**10\. Disclaimer**  
+YOUR PRIVACY IS IMPORTANT TO US. HOWEVER, NO DATA TRANSMISSIONS OVER THE INTERNET CAN BE GUARANTEED TO BE 100% SECURE. CONSEQUENTLY, WE CANNOT ENSURE OR WARRANT THE SECURITY OF ANY INFORMATION YOU TRANSMIT TO US. YOU UNDERSTAND THAT ANY INFORMATION THAT YOU TRANSFER TO US IS DONE AT YOUR OWN RISK. ONCE WE RECEIVE YOUR TRANSMISSION, WE WILL MAKE REASONABLE EFFORTS TO ENSURE SECURITY ON OUR SYSTEMS. HOWEVER, THIS IS NOT A GUARANTEE THAT SUCH INFORMATION MAY NOT BE ACCESSED, DISCLOSED, ALTERED OR DESTROYED BY BREACH OF OUR SYSTEMS. IF WE LEARN OF A SECURITY SYSTEM BREACH WE MAY ATTEMPT TO NOTIFY YOU ELECTRONICALLY SO THAT YOU CAN TAKE APPROPRIATE PROTECTIVE STEPS. BY USING THE WEBSITES OR PROVIDING PERSONALLY IDENTIFIABLE INFORMATION TO US YOU AGREE THAT WE CAN COMMUNICATE WITH YOU ELECTRONICALLY REGARDING SECURITY, PRIVACY AND ADMINISTRATIVE ISSUES RELATING TO YOUR USE OF THE WEBSITES. WE MAY POST A NOTICE ON OUR WEBSITES IF A SECURITY BREACH OCCURS. WE MAY ALSO SEND AN EMAIL TO YOU AT THE EMAIL ADDRESS YOU HAVE PROVIDED TO US.
+
+**11\. Your Consent**
+
+By using our Websites, you consent to our Privacy Policy, [Terms of Use](https://www.gofugyourself.com/terms-of-use), Claims of Copyright or Trademark Infringement, and other Claims.
