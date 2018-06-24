@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venturefizz.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927180235id_/http%3A//venturefizz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venturefizz.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624061257id_/https%3A//venturefizz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VentureFizz
 
@@ -131,7 +131,7 @@ We do not control third parties' collection or use of your information to serve 
 
 
 
-**Accessing and Correcting Your Information**
+_**Accessing and Correcting Your Information**_
 
 You can review and change your personal information by logging into the Website and visiting your account profile page.
 
@@ -139,11 +139,11 @@ You may also send us an e-mail at [info@venturefizz.com](mailto:info@venturefiz
 
 If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including user contributions, is governed by our terms of service <http://venturefizz.com/terms-of-service>.
 
-**Your California Privacy Rights**
+_**Your California Privacy Rights**_
 
 California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [info@venturefizz.com](mailto:info@venturefizz.com).
 
-**Data Security**
+_**Data Security**_
 
 We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure.
 
@@ -151,11 +151,11 @@ The safety and security of your information also depends on you. Where we have g
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
 
-**Changes to Our Privacy Policy**
+_**Changes to Our Privacy Policy**_
 
 It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website home page. If we make material changes to how we treat our users' personal information, we will notify you to the e-mail address specified in your account or through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
-**Contact Information**
+_**Contact Information**_
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
