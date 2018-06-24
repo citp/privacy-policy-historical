@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvidster.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235439id_/http%3A//www.myvidster.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvidster.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625003127id_/http%3A//www.myvidster.com/docs/privacy) for the most accurate reproduction.*
 
 # MyVidster - Privacy Policy
 
@@ -12,7 +12,7 @@
 
   * This privacy policy governs the use of the MyVidster web site at http://www.myvidster.com/ 
   * It covers how MyVidster treats personal information -- that is, personally identifiable like your name, address, email address, or phone number. 
-  * Children under 13 are not permitted to use the MyVidster service, and so this privacy policy makes no provision for children's use of the site. 
+  * Children under 18 are not permitted to use the MyVidster service, and so this privacy policy makes no provision for children's use of the site. 
 
 **General Information**
 
@@ -47,10 +47,10 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
     * Conduct research to improve MyVidster's content and services. 
   * MyVidster may let other companies (such as Google) that show advertisements on some of our pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to MyVidster's cookies. 
   * Third Party Cookie Sharing  
-We work with several third-party partner to help us send personalised communication and adverts. We always uses a de-identified non-human readable version of your email for matching to other data. At no time is your actual email address shared with any of these partners.  
+We work with several third-party partner to help us send personalised communication and adverts. We always uses a non-human readable version of your email for matching to other data. At no time is your actual email address shared with any of these partners.  
 Partners who we work with are:  
 LiveRamp  
-The purpose of LiveRamp's service is to help brands use their data to improve customer interactions on any channel and device. LiveRamp may place an anonymous cookie and use a de-identified, non-human readable version of your email address for matching to other data about you to improve the relevance of online advertising and personalization. To learn more or opt out of LiveRamp click [here](http://liveramp.com/service-privacy-policy). 
+We partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising and content to you. Our partner may place or recognize a cookie on your computer or device and we may share personal information with them if you have submitted such information to us, such as your email address. Our partners may link the personal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver and/or enable downstream delivery of an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. To know more about LiveRamp advertising cookies and opting out: : <http://liveramp.uk/cookies-101/>. 
 
 **Information Sharing and Disclosure**
 
@@ -58,7 +58,7 @@ The purpose of LiveRamp's service is to help brands use their data to improve cu
   * We do not use your email address or other personally identifiable information to send marketing messages unless you've opted in to receive such messages. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major MyVidster Site changes, alerting you to messages from other MyVidster members, or for customer service purposes). 
   * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the MyVidster Sites and to create new features, functionality, and services by storing, tracking, and analyzing user preferences and trends. 
   * When you post a comment or message, upload video, start a collection, or engage in other public activities on the MyVidster service, your MyVidster ID or alias that you are posting under is visible to other users. 
-  * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. MyVidster does not rent or sell your personal information. 
+  * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
   * MyVidster will not share personal information about you with other people or other companies without your consent except to provide products or services you've requested and in the following circumstances: 
     * MyVidster may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas, warrants, court orders or legal process or to establish or exercise our legal rights or defend against legal claims; 
   * It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person, violations of MyVidster's terms of use, or as otherwise permitted or required by law.We will transfer information about you if MyVidster is acquired by or merged with another company. In this event, MyVidster will notify you by email or by putting a prominent notice on the MyVidster web site before information about you is transferred and becomes subject to a different privacy policy. MyVidster may share demographic information with business partners, such as "53% of users who regularly user MyVidster chat are between 18 and 24" or the like. No personally identifiable information will ever be used without your permission (i.e. we will ask you for a quote or testimonial) 
