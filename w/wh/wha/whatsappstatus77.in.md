@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whatsappstatus77.in privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210225359id_/http%3A//www.whatsappstatus77.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsappstatus77.in privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624034850id_/http%3A//www.status77.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Whatsapp Status | Whatsapp Status 77
 
-This Privacy Policy governs the manner in which Whatsapp Status 77 collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.whatsappstatus77.in](http://www.whatsappstatus77.in/) website (“Site”).
+This Privacy Policy governs the manner in which Status 77 collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.status77.in](http://www.status77.in/) website (“Site”).
 
 ###  Personal identification information
 
@@ -53,7 +53,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 ###  Changes to this privacy policy
 
-Whatsapp Status 77 has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Status 77 has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ###  Your acceptance of these terms
 
