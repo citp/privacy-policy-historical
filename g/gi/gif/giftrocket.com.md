@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftrocket.com privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111233730id_/https%3A//www.giftrocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftrocket.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624232825id_/https%3A//www.giftrocket.com/privacy) for the most accurate reproduction.*
 
 # Privacy | GiftRocket
 
@@ -47,7 +47,7 @@ We will not share your Personally Identifiable Information with other parties ex
 
 We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below.
 
-We use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use Non-Personally Identifiable Information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to opt-out of targeted advertising from any NAI member company, click here:  http://www.networkadvertising.org/consumer/opt_out.asp 
+We use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use Non-Personally Identifiable Information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to opt-out of targeted advertising from any NAI member company, click here:  <http://www.networkadvertising.org/consumer/opt_out.asp>
 
 We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.
 
