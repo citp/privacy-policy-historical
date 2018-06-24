@@ -1,85 +1,163 @@
-> *The following text is extracted and transformed from the ghfgroup.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215050231id_/http%3A//www.ghfinancials.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghfgroup.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624203401id_/http%3A//ghfinancials.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-G. H. Financials (G. H. Financials Limited, G. H. Financials, LLC, and G. H. Financials (Hong Kong) Ltd (“we”, “us” or “our”)) are committed to protecting and respecting your privacy.
+This privacy policy applies to the processing activities of GHF (as defined below). As part of our day-to-day business we need to collect personal information from our customers and potential customers to ensure that we can meet their needs and provide them with information about our services. Your privacy is important to us and it is our policy to respect the confidentiality of information and the privacy of individuals.
 
-This policy (together with our [Terms & Conditions](http://www.ghfinancials.com/terms-use/ "Terms of Use") of Use and [Cookie Policy](http://www.ghfinancials.com/cookie-policy/ "Cookie Policy") together with any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
+This policy outlines how we manage your personal information supplied to us by you or a third party in connection with our provision of services to you or which we collect from your use of our services and/or website(s). It also details your rights in respect of our processing of your personal information. Our privacy policy will be reviewed from time to time to take account of new obligations and technology, changes to our operations and practices and to make sure it remains appropriate to the changing environment.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is G. H. Financials Ltd of 4th Floor, 29 Ludgate Hill, London, EC4M 7JR (registration number 02775278).
+Any personal information we hold will be governed by our most current privacy notice.
 
-This Privacy Policy only applies to our site. If you leave our site via a link or otherwise, you will be subject to the policy of that website provider. We have no control over that policy or the terms of the website and you should check their policy before continuing to access the site.
+### WHO ARE WE?
 
-### Information we may collect from you
+The three entities within the GHF Group are:
 
-We may collect and process the following data about you:
-
-  * Information that you provide by filling in forms on our site www.ghfinancials.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs, operating system, browser usage and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+  * **G. H. Financials Ltd** of 4th Floor, 29 Ludgate Hill, London, EC4M 7JR (registration number 02775278) and who is registered with the Information Commissioner under No. Z5369625)
+  * **G. H. Financials, LLC** , 311 South Wacker Drive, Suite 1550 ,Chicago, IL 60606 USA
+  * **G. H. Financials (Hong Kong) Limited** , Suite 2007, 20th Floor, The Center, 99 Queen's Road Central, Hong Kong,
 
 
 
-### IP Addresses and Cookies
+(together “GHF”).
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual and we will not collect personal information in this way.
+GHF provides global clearing services in exchange traded futures and options markets and is the data controller of your personal information in relation to those services.
 
-We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+Please note that if you are a GHF employee, a contractor to GHF or a third party service provider, your personal information will be used in connection with your employment contract, your contractual relationship or in accordance with our separate policies which are available by contacting us. Any reference to ‘us’, ‘our’, ‘we’ or ‘GHF’ in this privacy notice is a reference to each group company within the GHF Group as the context requires unless otherwise stated. Similarly, any reference to ‘you’, ‘your’, ‘yours’ or ‘yourself’ in this privacy notice is a reference to any of our customers and potential customers as the context requires unless otherwise stated.
 
-  * To estimate our audience size and usage pattern.
-  * To store information about your preferences, and so allow us to customise our site according to your individual interests.
-  * To speed up your searches.
-  * To recognise you when you return to our site.
+### WHAT KIND OF PERSONAL INFORMATION DO WE COLLECT?
 
+If you are an actual or potential customer, we may collect the following types of information about you:
 
-
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies.
-
-Please see our separate [Cookie Policy](http://www.ghfinancials.com/cookie-policy/ "Cookie Policy") which details our use of cookies on www.ghfinancials.com.
-
-### Where we store your personal data
-
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-### Uses made of the information
-
-We use information held about you in the following ways:
-
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service.
-  * We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
+  * name, address and contact details
+  * date of birth and gender
+  * in certain cases, information about your income and wealth including details about your assets and liabilities, account balances, trading statements, tax and financial statements
+  * profession and employment details
+  * location data
+  * any other similar information.
 
 
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
+We obtain this information in a number of ways through your use of our services or other dealings with us including through any of the GHF websites, the customer on-boarding process, marketing sign up forms, subscribing to news updates and from information provided in the course of ongoing customer service correspondence. We may also obtain personal information about you through your use of our websites or through the use of cookies on our websites and, in particular by recording which pages you look at on our websites.
 
-### Disclosure of your information
+We may ask for other personal information voluntarily from time to time (for example, through market research or surveys). If you choose not to provide the information we need to fulfil your request for a specific product or service, we may not be able to provide you with the requested product or service. We may record any communications, electronic, by telephone, in person or otherwise, that we have with you in relation to the services we provide to you and our relationship with you. These recordings will be our sole property and will constitute evidence of the communications between us. Such telephone conversations may be recorded without the use of a warning tone or any other further notice. Further, if you visit any of our offices or premises, we may have CCTV which will record your image.
 
-We may disclose your personal information to third parties:
+### WHO MAY WE DISCLOSE PERSONAL INFORMATION TO?
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+As part of using your personal information for the purposes set out above, we may disclose your information to:
+
+  * other companies within the GHF Group who provide financial and other back office services
+  * service providers and specialist advisers who have been contracted to provide us with administrative, IT, financial, regulatory, compliance, insurance, research or other services
+  * credit providers, courts, tribunals and applicable regulatory authorities as agreed or authorised by law or our agreement with you
+  * anyone authorised by you.
 
 
 
-### Your rights
+Generally, we require that organisations outside the GHF Group who handle or obtain personal information acknowledge the confidentiality of this information, undertake to respect any individual’s right to privacy and comply with the all relevant data protection laws and this privacy notice.
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at enquries@ghfinancials.com.
+### HOW DO WE OBTAIN YOUR CONSENT?
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+Where our use of your personal information requires your consent, such consent will be provided in accordance with the applicable term and conditions of use on our website(s) or any other contract we may have entered into with you or as set out in our communication with you from time to time. If we rely on your consent as our legal basis for processing your personal information, you have the right to withdraw that consent at any time by contacting us using the contact details set out in this privacy notice.
 
-### Access to information
+### MANAGEMENT OF PERSONAL INFORMATION
 
-The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £30 to meet our costs in providing you with details of the information we hold about you.
+We always take appropriate technical and organisational measures to ensure that your information is secure. In particular, we train our employees who handle personal information to respect the confidentiality of customer information and the privacy of individuals. We regard breaches of your privacy very seriously and will impose appropriate penalties, including dismissal where necessary. Our Compliance team ensures that our management of personal information is in accordance with this privacy notice and the applicable legislation.
 
-### Changes to our privacy policy
+### HOW DO WE STORE PERSONAL INFORMATION AND FOR HOW LONG?
 
-Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. However, we advise that you check this page regularly to keep up to date with any necessary changes.
+Safeguarding the privacy of your information is important to us, whether you interact with us personally, by phone, by mail, over the internet or any other electronic medium. We hold personal information in a combination of secure computer storage facilities and paper-based files and other records, and take steps to protect the personal information we hold from misuse, loss, unauthorised access, modification or disclosure. When we consider that personal information is no longer needed, we will remove any details that will identify you or we will securely destroy the records. However, we may need to maintain records for a significant period of time. For example, we are subject to certain anti-money laundering laws which require us to retain:
+
+  * a copy of the documents we used to comply with our customer due diligence obligations; and
+  * supporting evidence and records of transactions with you and your relationship with us, for a period of five years after our business relationship with you has ended.
+
+
+
+If we hold any personal information in the form of a deed, we will hold this deed in its complete form for a period of 12 years after our business relationship with you has ended. If we hold any personal information in the form of a recorded communication, by telephone, electronic, in person or otherwise, this information will be held in line with local regulatory requirements which will either be 5 years or 10 years after our business relationship with you has ended. Where you have opted out of receiving marketing communications we may hold your details on our suppression list so that we know you do not want to receive these communications but we will not send you marketing communications.
+
+### HOW DO WE USE THE PERSONAL INFORMATION?
+
+We may use personal information for the following purposes:
+
+  1. **To verify your identity and establish and manage your account**  
+ As part of providing services, or information about our services, to you, we will need to verify your identify to set you up as a customer and we will need to use those details in order to effectively manage your account with us to ensure that you are getting the best possible service from us.  This may include third parties carrying out credit or identity or checks on our behalf.  It is not only in our legitimate interest to do so but the use of your personal information in this way is necessary for us to know who you are as we have a legal obligation to comply with certain Know Your Customer regulatory obligations. 
+  2. **To provide you  with products and services, or information about our products and services, and to review your ongoing needs **  
+Once you open an account with us, or subscribe to our website or webinar, we will need to use your personal information to perform our services and comply with our obligations to you. It is also in our legitimate interests to ensure that we are providing the most appropriate products and services so we may periodically review your needs to ensure that you are getting the benefit of the best possible products and services from us.
+  3. **To help us improve our products and services, including customer services, and develop and market new products and services  **  
+We may from time to time use personal information provided by you through your use of the services and/or through customer surveys to help us improve our products and services.  It is in our legitimate interests for us to use your personal information in this way to ensure that we provide you with the best products and services we can and to continue to be a market leader in our industry.
+  4. **To investigate or settle enquiries or disputes  **  
+We may need to use personal information collected from you to investigate issues and/or settle disputes with you as it is in our legitimate interests to ensure that issues and/or disputes get investigated and resolved as quickly and efficiently as possible.
+  5. **To comply with applicable law, court order, other judicial process, or the requirements of any applicable regulatory authorities  **  
+We may need to use your personal information to comply with applicable law, court order or other judicial process, or the requirements of any applicable regulatory authority.  We do this not only to comply with our legal obligations but because it may also be in our legitimate interest to do so.
+  6. **Data analysis  **  
+Our web pages and e-mails may contain web beacons or pixel tags or any other similar type of data analysis tools which allow us to track receipt of correspondence and to count the number of users that have visited our webpage or opened our correspondence. Where your personal information is completely anonymised, we do not require a legal basis as the information will no longer constitute personal information. However where your personal information is not in an anonymised form, it is in our legitimate interest to continually evaluate that personal information to ensure that the products and services we provide are relevant to the market.
+  7. **Marketing by us  **  
+We may use your personal information to send you marketing communications by email or phone or other agreed forms (including social media campaigns) to ensure that you are always kept up to date with our latest products and services. Where we send you marketing communications we will either do so as it is in our legitimate interest or with your consent. __ We use MailChimp as our marketing automation platform which has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S Privacy Shield Framework. Please see: MailChimp’s Privacy Policy and their Terms of Use.
+  8. **Internal business purposes and record keeping  **  
+We may need to process your personal information for internal business and record keeping purposes. Such processing is in our own legitimate interests and is required in order to comply with our legal obligations.  This may include any communications that we have with you in relation to the services we provide to you and our relationship with you.   We will also keep records to ensure that you comply with your obligations under any contract you have entered into with us.
+  9. **Corporate restructuring  **  
+If we undergo a corporate restructure or part or all of our business is acquired by a third party, we may need to use your personal information in association with that restructure or acquisition.  Such use may involve disclosing your details as part of a due diligence exercise. It is our legitimate interest to use your information in this way provided we comply with any legal obligation we have to you.
+  10. **Security  **  
+If you enter any of our premises we may record your image on our CCTV for security reasons.  We may also take your details to keep a record of who has entered our premises on any given day.  It is in our legitimate interest to do this to maintain a safe and secure working environment.
+
+
+
+### THE PERSONAL INFORMATION WE HOLD ABOUT YOU
+
+The information about any rights that might be available to you in relation to the personal information we hold about you is set out below.
+
+#### Rectification
+
+If the personal information we hold about you is inaccurate or incomplete, you are entitled to have it rectified. If you ask us, where possible and lawful to do so, we will also tell you who we have shared your personal information with so that you can contact them directly.
+
+#### Erasure
+
+You can ask us to delete or remove your personal information in certain circumstances such as where we no longer need it or you withdraw your consent (where applicable) provided that we have no legal obligation to retain that data. Such request will be subject to any retention limits we are required to comply with in accordance with applicable laws and regulations and subject to section 'How do we store personal information and for how long'.
+
+#### Processing restrictions
+
+You can ask us to ‘block’ or suppress the processing of your personal information in certain circumstances such as where you contest the accuracy of that personal information or object to us processing it. It will not stop us from storing your personal information though. We will tell you before we lift any restriction. If we have shared your personal information with others, we will let them know about the restriction where possible. If you ask us, where possible and lawful to do so, we will also tell you who we have shared your personal information with so that you can contact them directly.
+
+#### Data Portability
+
+Under the General Data Protection Regulation (679/2016), you have the right, in certain circumstances, to obtain personal information you have provided us with (in a structured, commonly used and machine readable format) and to reuse it elsewhere or ask us to transfer this to a third party of your choice.
+
+#### Objection
+
+You can ask us to stop processing your personal information, and we will do so, except if we can demonstrate compelling legal grounds for the processing.
+
+### TRANSFERS OUTSIDE OF THE EUROPEAN ECONOMIC AREA
+
+We may transfer your personal information outside the European Economic Area to other GHF Group companies as well as processors who are engaged on our behalf (‘Transferees’). To the extent we transfer your information outside the European Economic Area, we will ensure that the transfer is lawful and that there are appropriate security arrangements.
+
+In order to transfer personal information to third parties in territories that do not have a finding of adequacy by the applicable authority and regulations, we enter into agreements with the Transferees ensuring appropriate and suitable safeguards based on standard contractual terms which are consistent with those adopted by the European Commission. Where we make transfers to Transferees in the US, we may in some cases rely on applicable standard contractual clauses, binding corporate rules, the EU-US Privacy Shield or any other equivalent applicable arrangements.
+
+### THE PERSONAL INFORMATION WE HOLD ABOUT YOU
+
+For further information about any rights that might be available to you in relation to the personal information we hold about you, please refer to our website.
+
+### WHAT IS A COOKIE AND HOW DO WE USE COOKIES?
+
+A cookie is a small pieces of text stored on your computer or device when you visit a website. We use cookies on our websites to provide you with a more relevant and effective experience, including presenting web pages according to your needs or preferences. For further information about cookies and how we use cookies, please refer to our website.
+
+### TECHNOLOGY IMPROVEMENTS
+
+We are constantly striving to improve functionality on this site through technology changes. This may mean a change to the way in which personal information is collected or used. The impact of any technology changes which may affect your privacy will be notified in this privacy notice at the time of the change.
+
+### LINKS TO THIRD PARTY WEBSITES
+
+Our websites or our apps may have links to external third party websites. Please note, however, that third party websites are not covered by this privacy notice and those sites are not subject to our privacy standards and procedures. Please check with each third party as to their privacy practices and procedures.
+
+### WHAT IF YOU HAVE A COMPLAINT?
+
+If you have a concern about any aspect of our privacy practices, you can make a complaint. This will be acted upon promptly. To make a complaint, please contact us via one of the methods set below. If you are not satisfied with our response to your complaint, you have the right to lodge a complaint with our supervisory authority, the Information Commissioner’s Office (ICO). You can find details about how to do this on the ICO website at https://ico.org.uk/concerns/ or by calling their helpline on 0303 123 1113.
+
+### HOW TO CONTACT US
+
+If you have any questions about this privacy notice or want to exercise your rights, please contact us by:
+
+  * phone on [ +44-20-7653-6410](tel:+442076536410);
+  * email at [compliance@ghfinancials.com](mailto:compliance@ghfinancials.com); or  
+  * writing at the address provided in the “Who are we?” section of this privacy notice.
+
+
+
+Privacy Policy v.2
