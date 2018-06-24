@@ -1,62 +1,62 @@
-> *The following text is extracted and transformed from the dornc.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809130917id_/http%3A//dornc.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dornc.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624131749id_/http%3A//www.nc.gov/privacy) for the most accurate reproduction.*
 
-# NCDOR Privacy Policy
+# NC.gov: Privacy Policy
 
-### **Privacy Statement**
+## Information Collected and Stored Automatically
 
-Thank you for visiting the North Carolina Department of Revenue's (NCDOR) website. The purpose of this site is to provide information and educate users about the taxes we administer. This website also includes specific applications that provide services such as filing returns and paying taxes online, subscribing to receive electronic alerts about important tax issues, and various other services.
+When you visit our website to browse, read pages, submit forms, or download information, we automatically collect and store the following information:
 
-We will not collect personal information about you when you browse our website. The applications on this site that provide services such as (but not limited to) filing returns and paying tax online require that you provide certain personal and confidential information. Using these services is voluntary and providing the requested information implies your consent for us to use this data in order to respond to your specific request. Your personal information, including your e-mail address, will not be sold or shared with any other party except as permitted by law.
-
-We reserve the right to change this privacy policy at any time without notice. 
-
-### Information Collected
-
-When you visit our website, we automatically collect and store the following information: 
-
-  1. The name of the domain; for example, "123company.com";
-  2. An IP (Internet Protocol) address, which is a number that is automatically assigned to your computer when you are using the Internet;
-  3. The type of browser and operating system you use to access the NCDOR site;
-  4. The web pages you visit within the site and any form, publication or document that you download;
-  5. The date and time you visit the site;
-  6. The links made to other web sites through the NCDOR site. 
+  * The Internet domain and IP address from which you access our portal;
+  * The date and time you access our site;
+  * The pages you visit; 
+  * If you linked to this website from another website, the address of that website.
+  * IP addresses, which are numbers automatically assigned to a computer when using the Internet;
+  * The type of browser and operating system used to access the site;
+  * The search terms used to get to the website, in addition to search terms used in the site’s search engine;
+  * The dates and times users access the site;
+  * The type of device used to access the site;
+  * How often users visit the site;
+  * The pages users visit within the site; and
+  * The links made to other websites through this site.
 
 
 
-We use this information to learn about the number of visitors to the site, the items of most and least interest to visitors, and system performance or problems in an effort to continually improve the site’s usefulness to the public.
+NC.Gov uses this information to help make the site more useful to visitors, to learn about the number of visitors to the site and the types of technology visitors use.
 
-### International ACH Transaction (IAT) Rules
+The state uses Google Analytics measurement software to collect the information listed above. The data are automatically sent to Google’s system and the system immediately aggregates the data.  Neither the North Carolina nor Google ever have access to the specifics of your particular site visits.  The staff can only see the aggregate data from all users for a particular time period.
 
-It is the intent of the North Carolina Department of Revenue not to use the ACH system for transactions in violation of US Law, including the sanctions administered by the Office of Foreign Assets Control (OFAC). It is also the intent of the agency to be in compliance with the "International ACH Transaction (IAT) rules" that are part of the NACHA Operating Rules. Accordingly, all ACH payments made through this website are intended only for payments not associated with a foreign bank account, which would classify it as an "International ACH Transaction (IAT)" under the NACHA Operating Rules. Since this website's payment applications do not accommodate IAT transactions, payors that would be considered an IAT payor should use [alternative payment methods](https://web.archive.org/web/20170809130917id_/http%3A//dornc.com/alternate_payment.html) for remitting funds to the agency.
+The state gathers this information to improve our websites and has chosen to not share the aggregate data with Google.  We may use the aggregated data to share with our partners and contractors to help improve visitor experiences.
 
-### E-mail
+## Website Security
 
-E-mail is not a secure means of communication. Therefore, you should _never_ send confidential information (e.g. Social Security numbers, tax account numbers) through e-mail. To protect your privacy, we will not send sensitive or confidential information to anyone in an e-mail unless the sensitive or confidential information is in an encrypted attachment. Also we will not use e-mail to request personal, tax or financial information. 
+For website security purposes and to ensure that this service remains available to all users, this computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Use of this site constitutes consent to such monitoring. Unauthorized attempts to upload information and/or change information on this website are strictly prohibited and subject to legal action to include the Computer Fraud and Abuse Act of 1986.
 
-### Security
+## Public Disclosure
 
-Physical, electronic and procedural safeguards are in place to prevent unauthorized access or disclosure, to preserve data integrity, and to ensure the appropriate use of confidential information you provide on our website. We use industry-standard encryption technology when collecting or transferring confidential information. 
+Government records in North Carolina generally are public in nature. The public policy of the State of North Carolina as established by the General Assembly is to "provide that, as a general rule, the public would have liberal access to public records."
 
-For general website security purposes and to ensure that our site remains available to all users, we employ software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Use of our site constitutes consent to such monitoring. Unauthorized attempts to upload information and/or change information on this website are strictly prohibited and are subject to legal action.
+The North Carolina Public Records Law states that public records "shall mean all documents papers, letters, maps, books, photographs, films, sound recordings, magnetic or other tapes, electronic data-processing records, artifacts, or other documentary material, regardless of physical form or characteristics, made or received pursuant to law or ordinance in connection with the transaction of public business by any agency of North Carolina or its subdivisions." For information to be confidential, a specific provision must be made in the law.
 
-### Cookies
+## Email
 
-A "persistent" cookie is generally defined as a piece of data that is stored on the user's hard drive. We do not use "persistent" cookies on our website or in our web applications. ****
+If you e-mail us and include personal information, we may use that information in responding to your request. E-mail is not necessarily secure or confidential. Send only the information that is necessary for us to answer your question or process your request. The e-mail is subject to the North Carolina Public Records Law.
 
-"Temporary" or "session" cookies are used on all NCDOR website pages. These cookies are stored in memory and are only available during an active browser session.  Session cookies are also used by some of the applications deployed on our website to temporarily save information entered by a user as long as the user's browser is open. These cookies do not collect personal information on users, and they are erased as soon as you close your web browser.  No personally identifiable information about you is maintained as a result of a temporary or session cookie. 
+## Cookies
 
-You can configure your web browser to accept or decline cookies, or to alert you when cookies are in use. You do not have to accept cookies from us, but if you choose not to, some of the functions on our site may not be available to you.
+A persistent cookie is generally defined as a piece of data that is stored on the user's hard drive. We do not use persistent cookies on our website or in our web applications.
 
-### Links or References to Other Sites
+Temporary or session cookies are used on all NC.Gov web site pages. These cookies are stored in memory and are only available during an active browser session. Session cookies are also used by some of the applications deployed on our web site to temporarily save information entered by a user as long as the user's browser is open. These cookies do not collect personal information on users, and they are erased as soon as you close your web browser. No personally identifiable information about you is maintained as a result of a temporary or session cookie.
 
-You should be aware that other websites that you link to from our site may contain privacy provisions that differ from the provisions of our Privacy Policy. 
+You can configure your web browser to accept or decline cookies, or to alert you when cookies are in use. You do not have to accept cookies from us, but if you choose not to, some of the functions on our site may not be available to you.
 
-References or links on the North Carolina Department of Revenue’s website to any other website, process, or service, is for the information and convenience of our taxpayers, and does not constitute endorsement or recommendation by the North Carolina Department of Revenue.
+## Interaction with Children Online
 
-### Information About Online Tracking 
+The State is committed to the protection of children’s online privacy. The Children’s Online Privacy Protection Act (COPPA) governs information gathered online from or about children under the age of 13. Verifiable consent from a child’s parent or guardian is required before collecting, using, or disclosing personal information from a child under age 13. If a State agency website intends to collect information from children under 13 years old, COPPA-required information and instructions will be provided by the specific web page that collects information about the child. The web page will specify exactly what the information will be used for, who will see it, and how long it will be kept.
 
-Some browsers incorporate a "Do Not Track" feature that signals to websites you visit that you do not want to have your online activity tracked. Tracking is not the same as using or collecting information in connection with a single website. For these purposes, tracking refers to collecting personally identifiable information from consumers who use or visit a website or online service as they move across different websites over time. 
+## Links to Other Sites
 
-How browsers communicate the "Do Not Track" signal is not yet uniform. As a result, our Website is not yet set up to interpret or respond to "Do Not Track" signals communicated by your browser. Even so, as described more fully within our Privacy Policy, we limit our collection and use of your personal information. 
+Our site provides links to other websites. The privacy policies described here do  **not  **necessarily apply to any external sites. Read the privacy policies of other sites you visit. Be informed. You are the person best qualified to protect your own privacy.
 
-For a description of "Do Not Track" protocols for browsers and mobile devices, or to simply learn more about the choices available to you, you can visit the All About Do Not Track website: [http://allaboutdnt.com](http://allaboutdnt.com/). 
+## Disclaimer
+
+All information provided in this website is believed to be accurate and reliable; however, the state of North Carolina assumes no responsibility for the use of this information.
