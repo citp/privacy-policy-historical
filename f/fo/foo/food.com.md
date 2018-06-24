@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the food.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223155635id_/http%3A//www.scrippsnetworks.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the food.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624154559id_/http%3A//www.scrippsnetworksinteractive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
