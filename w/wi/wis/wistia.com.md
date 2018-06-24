@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the wistia.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223065558id_/https%3A//wistia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wistia.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624050958id_/https%3A//wistia.com/privacy) for the most accurate reproduction.*
 
 # Wistia Privacy Policy | Wistia
 
 We at Wistia, Inc. (“Company,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. 
 
-By visiting or using the various websites owned and operated by Company, including, without limitation, the https://wistia.com/ website (the “Websites”), accessing or viewing videos hosted by Company (the “Videos”) and/or accessing or using any other functionalities, features, content, applications or services offered from time to time by Company in connection with the Websites or Videos (collectively, the “Services”) in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent to our collection, use, and sharing of your information in the following ways. 
+By visiting or using the various websites owned and operated by Company under the wistia.com domain, including, without limitation, the https://wistia.com/ website (the “Websites”), accessing or viewing videos hosted by Company (the “Videos”) and/or accessing or using any other functionalities, features, content, applications or services offered from time to time by Company in connection with the Websites or Videos (collectively, the “Services”) in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent to our collection, use, and sharing of your information in the following ways. 
 
 ## I. What Does This Privacy Policy Cover?
 
-This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing, viewing or using any of our Websites, Videos and/or Services. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
+This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing, viewing or using any of our Websites, Videos and/or Services. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. 
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services. If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, telephone number, or email address. No one under age 13 may provide any Personal Information to us or through the Services. In the event that we learn that we have collected Personal Information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under age 13, please contact us at **privacy@wistia.com.**
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services. If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, telephone number, or email address. No one under age 13 may provide any Personal Information to us or through the Services. In the event that we learn that we have collected Personal Information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under age 13, please contact us at privacy@wistia.com. 
 
 ## II. What Information Does Company Collect?
 
@@ -30,7 +30,7 @@ When we collect usage information (such as the numbers and frequency of visitors
 
 ### C. E-mail and Other Communications:
 
-We may contact you, by email or other means; for example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of any of the Websites. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make emails more interesting and improve our service. If you do not want to receive email or other mail from us, please indicate your preference by visiting our [email preference page](http://go.pardot.com/emailPreference/e/9972/612) . Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Websites, and you are responsible for reviewing such legal notices for changes. 
+We may contact you, by email or other means; for example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of any of the Websites. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make emails more interesting and improve our service. If you do not want to receive email or other mail from us, please indicate your preference by visiting our email preference page. Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Websites, and you are responsible for reviewing such legal notices for changes. 
 
 ## III. Will Company Share Any of the Personal Information it Receives?
 
@@ -38,11 +38,11 @@ We share your Personal Information in personally identifiable form with third pa
 
 ### A. Affiliated Businesses and Third Party Websites We Do Not Control:
 
-In certain situations, businesses or third party websites we’re affiliated with may sell items or provide services to you through a Website (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. We have no control over the policies and practices of third party websites as to privacy or anything else, so if you choose to enter into such transaction or to receive such service, please review the applicable third party websites’ policies. 
+In certain situations, businesses or third party websites we’re affiliated with may sell items or provide services to you through a website (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. We have no control over the policies and practices of third party websites as to privacy or anything else, so if you choose to enter into such transaction or to receive such service, please review the applicable third party websites’ policies. 
 
 ### B. Agents:
 
-We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you, for example, processing credit card payments. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. 
+We employ other companies and people to perform tasks on our behalf and may need to share your Personal Information with them to provide products or services to you, for example, processing credit card payments. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. We acknowledge our potential liability if our agents misuse your Personal Information. 
 
 ### C. User Profiles and Submissions:
 
@@ -84,12 +84,60 @@ You can always opt not to disclose information to us, but keep in mind some info
 
 You may be able to add, update, or delete Personal Information as explained in Section V above. When you update information, however, we may maintain a copy of the unrevised information in our records. Please note that some information may remain in our private records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. 
 
-## VII. Changes to this Privacy Policy
+We will also provide EU or Swiss individuals with opt-out or opt-in choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To limit the use and disclosure of your personal information, please submit a written request to privacy@wistia.com. 
+
+## VII. EU-US and Swiss-US Privacy Shield
+
+We comply with the EU-US and Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries and Switzerland. We have certified that we adhere to the Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. If there is any conflict between this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/ 
+
+In addition to self-assessment, as a participant in the EU-US and Swiss-US Privacy Shield program, we are subject to the investigatory and enforcement powers and authority of the U.S. Federal Trade Commission with respect to maintenance of, and adherence to, this Privacy Policy. 
+
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your Personal Information. European Union and Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact us as directed in the Contact Information clause of this Privacy Policy. 
+
+We have further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. 
+
+As a last resort and under certain limited and prescribed circumstances and conditions, you have the right to invoke a “last resort” binding arbitration process between you and us to resolve a dispute related to our collection, use or disclosure of your Personal Information. 
+
+In particular, we will maintain compliance with the Privacy Shield principles by adhering to the following practices: 
+
+#### Notice
+
+When we collect your Personal Information, we’ll give you timely and appropriate notice describing what Personal Information we’re collecting, how we’ll use it, and the types of third parties with whom we may share it. This Privacy Policy serves as such notice, and any changes to our collection, use or disclosure of your Personal Information will be reflected in revisions to the Privacy Policy posted on our Websites. 
+
+#### Choice
+
+As established and described in this Privacy Policy, we’ll give you choices about the ways we use and share your Personal Information, and we’ll respect the choices you make. 
+
+#### Accountability for Onward Transfer
+
+If we transfer your Personal Information to another country, we may remain liable and will take appropriate measures to protect your privacy and the Personal Information we transfer. 
+
+#### Security
+
+We’ll take appropriate physical, technical, and organizational measures to protect your Personal Information from loss, misuse, unauthorized access or disclosure, alteration, and destruction, as further-specified in the Is Personal Information About Me Secure? clause of this Privacy Policy. 
+
+In certain situations, Wistia may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+#### Data Integrity and Purpose Limitation
+
+We’ll collect only as much Personal Information as we need for specific and identified purposes, and we won’t use it for other purposes without obtaining your consent. We’ll take appropriate steps to make sure the Personal Information in our records is accurate. 
+
+#### Access
+
+If you wish to confirm the accuracy of your Personal Information or have it removed from our systems and records, you may contact us at the email address, telephone number or postal address provided in the Contact Information clause of this Privacy Policy. 
+
+#### Recourse, Enforcement, and Liability
+
+We’ll regularly review our continued adherence to our privacy obligations, and we’ll provide and maintain the independent mechanism specified in this Privacy Policy as a way of resolving complaints or concerns about our privacy practices. Further, we acknowledge our potential liability for misuse of your Personal Information by us or our third-party service providers and agents, as further set forth in this Privacy Policy. 
+
+## VIII. Changes to this Privacy Policy
 
 We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. You are bound by any changes to the Privacy Policy when you use the Website after such changes have been first posted. 
 
-## VIII. Questions or Concerns
+## IX. Questions or Concerns; Contact Information
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to privacy@wistia.com. We will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [privacy@wistia.com](mailto:privacy@wistia.com). Alternatively, you may contact us by telephone or postal service as follows. We will make every effort to resolve your concerns. 
 
-**Effective Date: June 5, 2012**
+Wistia, Inc. 17 Tudor Street Cambridge, Massachusetts, 02139 USA (888) 494-7842
+
+**Effective Date: March 22, 2018**
