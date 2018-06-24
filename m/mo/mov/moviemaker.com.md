@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviemaker.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001152036id_/https%3A//www.moviemaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviemaker.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624170205id_/https%3A//www.moviemaker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MovieMaker Magazine
 
@@ -7,9 +7,9 @@
 
 The privacy of our visitors is important to us. We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and how we safeguard your information.
 
- _The Information We Collect_ :
+_The Information We Collect_ :
 
-This notice applies to all information collected or submitted on the moviemakermagazine.com website. On some pages, you can order products, make requests, and register to receive materials.
+This notice applies to all information collected or submitted on the moviemakermagazine.com website. On some pages, you can order products, make requests, and register to receive materials. 
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
@@ -21,7 +21,7 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 We never sell your personal information to third parties.
 
- _The Way We Use Information_ :
+_The Way We Use Information_ :
 
 We use the information you provide in newsletter registration and subscriptions only to complete that request. We do not share this information with outside parties except to the extent necessary to complete that order.
 
@@ -31,11 +31,11 @@ In terms of the information collected for site and _MovieMaker_ Magazine subscri
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
- _Our Commitment To Data Security_
+_Our Commitment To Data Security_
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We do not, nor have we ever stored credit card information. Those processes are managed by third party providers with data security safeguards in place.
 
- _How To Contact Us_
+_How To Contact Us_
 
 Should you have other questions or concerns about these privacy policies, please send us an email at assistant@moviemaker.com.  
 
