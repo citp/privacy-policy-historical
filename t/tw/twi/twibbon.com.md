@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twibbon.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119160455id_/https%3A//twibbon.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twibbon.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625001759id_/https%3A//twibbon.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Twibbon
 
@@ -8,39 +8,89 @@ By visiting or otherwise using the service, you agree to the service's Terms & C
 
 Twibbon is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this service, then you can be assured that it will only be used in accordance with this policy.
 
-Twibbon may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 30 August 2016.
+Twibbon may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 25 May 2018.
 
-### What we may collect
+### What we may collect and what we do with this information
 
-We may collect the following information:
+#### Contact information
 
-  * Contact information you provide when you create a campaign (your name and email address)
-  * Basic Facebook profile information when you accept these permissions when logging into the Twibbon Facebook App (your name, Facebook ID, profile picture, age, gender and other public information)
-  * Basic Twitter profile information when you accept these permissions when logging into the Twibbon Twitter App (your name, handle, bio, profile picture, tweets, followers and other public information)
+**When:** When you create a campaign.
 
+**What:** Your name and email address.
 
+**Why:**
 
-When you visit this service, our servers automatically record information that your browser sends whenever you visit a website. This data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, the location of your ISP and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use this data to monitor the use of this service, to gather information about the location of our users and for this service's technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms & Conditions.
-
-### What we do with the information we gather
-
-We require this information for the following reasons:
-
-  * In order for you to support a campaign on Facebook or Twitter, or to create a profile on Twibbon.com, or to start a campaign on Twibbon.com.
+  * For you to start a campaign on Twibbon.
   * For internal record keeping.
-  * To improve our products and services.
-  * So we may provide you with quicker support.
-  * To send you updates related to Twibbon or any campaign you have created.
-  * To send you promotional information about 3rd parties which we think you may find interesting.
-  * To send your Facebook or Twitter profile picture that we collect to 3rd parties only in these circumstances:
-    * If you support a campaign by updating your profile picture on Twitter or posting an image to your Facebook profile.
-    * If the campaign explicitly states that your Facebook or Twitter profile picture will be sent to a 3rd party.
-      * This statement must detail who the 3rd party is.
-      * The profile picture can only be limited to use for marketing purposes, and the statement must detail this.
+  * So we may provide you with support.
+
+
+
+#### Contact information
+
+**When:** When you submit a White Label enquiry.
+
+**What:** Your name, email address and phone number.
+
+**Why:**
+
+  * So we can provide you with information about Twibbon White Label.
+
+
+
+#### Basic Facebook profile information
+
+**When:** When you accept these permissions when logging into the Twibbon Facebook App
+
+**What:** Your name, Facebook ID, profile picture and other public information
+
+**Why:**
+
+  * For you to create a profile or support a campaign on Twibbon.
+  * For you to create a profile or support a campaign on Twibbon.
+  * To send your Facebook profile picture that we collect to 3rd parties only in these circumstances:
+    * If you support a campaign by posting an image to your Facebook profile.
+    * If you check a box agreeing to send your Facebook profile picture to a 3rd party.
+      * This checkbox will detail who the 3rd party is.
+      * This checkbox will detail how your profile picture will be used.
     * If the 3rd party is affiliated with the campaign you have supported.
-  * For special cases where we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our terms and conditions or may be causing injury or interference with our rights, property, our customers or anyone who could be harmed by such activities. We may also disclose information we collect when we believe, in good faith, that the law requires it.
 
 
+
+#### Basic Twitter profile information
+
+**When:** When you accept these permissions when logging into the Twibbon Facebook App
+
+**What:** Your name, Facebook ID, profile picture and other public information
+
+**Why:**
+
+  * For you to create a profile or support a campaign on Twibbon.
+  * For you to create a profile or support a campaign on Twibbon.
+  * To send your Twitter profile picture that we collect to 3rd parties only in these circumstances:
+    * If you support a campaign by updating your profile picture on Twitter.
+    * If you check a box agreeing to send your Twitter profile picture to a 3rd party.
+      * This checkbox will detail who the 3rd party is.
+      * This checkbox will detail how your profile picture will be used.
+    * If the 3rd party is affiliated with the campaign you have supported.
+
+
+
+#### Information that your browser automatically sends whenever you visit a website
+
+**When:** When you visit this service.
+
+**What:** This data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, the location of your ISP and any advertisements on which you click.
+
+**Why:**
+
+  * To monitor the use of this service.
+  * For this service's technical administration.
+  * NOT to associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms & Conditions.
+
+
+
+We may disclose any of the above information for special cases where we have reason to believe that doing so is necessary to identify, contact or bring legal action against someone who may be violating our terms and conditions or may be causing injury or interference with our rights, property, our customers or anyone who could be harmed by such activities. We may also disclose information we collect when we believe, in good faith, that the law requires it.
 
 ### Security
 
@@ -60,13 +110,11 @@ Additionally:
 
 ### How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+Cookies are small pieces of information sent by a web server to a web browser which allows the server to uniquely identify the browser on each page.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes, and all personal data is deleted 14 months after your last visit.
 
-We also use cookies for remarketing and retargeting purposes. The services we provide may include advertisements, which may be targeted to you via data provided by third party services including Google.com, Twitter.com or Facebook.com.
-
-Twibbon also makes use of Facebook and Twitter login, who store cookies that are required for us to allow you to support a campaign on Facebook or Twitter, or to create a profile on Twibbon.com, or to start a campaign on Twibbon.com. Both Facebook and Twitter have their own cookie policies which can be viewed at <https://www.facebook.com/policies/cookies/> and at <https://twitter.com/privacy> respectively.
+Twibbon also makes use of Facebook and Twitter login, who store cookies that are required for us to allow you to support a campaign on Facebook or Twitter, to create a profile on Twibbon.com, or to start a campaign on Twibbon.com. Both Facebook and Twitter have their own cookie policies which can be viewed at <https://www.facebook.com/policies/cookies/> and at <https://twitter.com/privacy> respectively.
 
 Overall, cookies help us provide you with a better website and user experience, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
@@ -80,9 +128,13 @@ Our website may contain links to other websites of interest. However, once you h
 
 Please contact us at [support@twibbon.com](mailto:support@twibbon.com) if: 
 
-  * You wish to request details of personal information which we hold about you under the Data Protection Act 1998 (a small fee will be payable).
-  * You wish for us to restrict the collection or use of your personal information.
+  * You wish to request details of personal information which we hold about you.
+  * You wish for us to restrict the collection, processing or use of your personal information.
+  * You wish for us to stop the collection, processing or use of your personal information.
   * You wish for us to destroy any record of your personal information.
+  * You wish for us to transfer your personal information elsewhere.
   * You believe any information we are holding about you is incorrect or incomplete.
 
 
+
+We will respond to your query within 30 days. 
