@@ -1,154 +1,109 @@
-> *The following text is extracted and transformed from the pewtrusts.org privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109144911id_/http%3A//www.pewtrusts.org/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewtrusts.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624062223id_/http%3A//www.pewtrusts.org/en/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy, Legal and Cookie Policies
+# Privacy Policy | The Pew Charitable Trusts
 
-### Privacy and Cookies Policies
+Effective Date: May 30, 2018
 
-The Pew Charitable Trusts values the private information of visitors to our website (the "Site") and understands the need for security and trust surrounding such information. The following policies outline the ways in which we collect, store and use personally identifiable information in providing our products and services. It also explains our use of cookies and delineates our legal policy. Except for very limited exceptions we do not share any personally identifiable information with third parties. 
+The Pew Charitable Trusts (“Pew,” “we,” “us,” or “our”) values your private information and understands the need for security and trust surrounding such information.  We are committed to protecting your privacy, and this privacy policy (“Policy”) is intended to describe our information collection and dissemination practices in connection with The Pew Charitable Trusts family of websites located at www.pewtrusts.org or any website or service that links to or refers to this Policy (collectively, the “Sites”).
 
-### PRIVACY POLICY
+Please review the entire Policy and feel free to contact us using the contact information below if you have any questions.  By using the Sites, you consent to the collection, use, and disclosure of your information in accordance with the Policy.
 
-The Pew Charitable Trusts values the personal information of visitors to its Site and understands the need for security and trust surrounding such information. The following policy outlines the ways in which we collect, store and use personal data obtained through your use of the Site. 
+## Collection of Information
 
-This Privacy Policy applies to the information that we may obtain through your use of this Site or any additional websites owned or managed by Pew. This Privacy Policy is part of and is incorporated into the [www.pewtrusts.org](http://www.pewtrusts.org/) Terms of Use. We reserve the right to modify, alter or otherwise update this Privacy Policy at any time and you are encouraged to periodically review it. Except for very limited circumstances described in this Privacy Policy, we do not share personally identifiable information with third parties.
+We may collect the following kinds of information when you use the Sites:
 
-### Information Collection and Use 
+__Information you provide directly to us_._ For certain activities, such as when you subscribe to our updates or newsletters, or contact us directly, we may collect some or all of the following types of information:
 
-#### Information Collected
+  * Contact information, such as your full name, email address, mobile phone number, and mailing address;
+  * If you choose to respond to a posting on _Careers@Pew_ , your resume and other information relating to potential employment; and
+  * Any other information you choose to provide to us.
 
-  1. For each use of the Site, information about you is collected such as your IP address, the website from which you are redirected to the Site or search query, the date and duration of your visit, your browser, operating system, your browsing activity on the Site and particularly the pages you visit on the Site.  This information, some of which may be considered personally identifiable information, is only used for statistical purposes and to analyze and optimize the functioning and the use of our Site. To this end, Pew uses the services of third parties to which such information is communicated for these purposes. 
-  2. We also obtain personal data from you when you send or receive electronic communications with us, register to support Pew petitions, sign up to receive updates from Pew on its activities, or otherwise voluntarily provide us with personal information.
 
 
+We may combine such information with information we may already have about you.
 
-#### Registration and Petitions
+__Information we collect automatically_._ We may collect certain information automatically when you use our Sites, such as your Internet protocol (IP) address, device and advertising identifiers, browser type, operating system, Internet service provider, pages that you visit before and after using the Sites, the date and time of your visit, information about the links you click, the pages you view, the general manner in which you navigate the Sites, and other standard server log information.  We may also collect certain location information when you use our Sites, such as your computer’s IP address, your mobile device’s GPS signal, or information about nearby WiFi access points and cell towers.
 
-If you choose to do so, you may complete a registration form to create a user name and/or password. Generally, the type of information we request includes name, telephone number, e-mail, country of residence and mailing addresses, and may require you to indicate your interest in or support of various Pew projects and campaigns. Certain functions of the Site, such as _Careers@Pew,_ require additional information and may be subject to additional privacy policies. **_It is always your choice whether to provide personal information._** However, the decision not to provide information may limit or eliminate your ability to receive action alerts or other communications from Pew, as well as your ability to be considered for a position at Pew. 
+We and third parties that provide content or functionality on our Sites, may use cookies, pixel tags, Local Shared Objects, and similar technologies to automatically collect this information.  For more information about cookies, pixel tags, Local Shared Objects, and similar technologies, please see the “Cookies” section below. 
 
-#### Careers@Pew
+We may also collect technical data to address and fix technical problems and improve our Sites, including the memory state of your device when a system or app crash occurs while using our Sites.  Your device or browser settings may permit you to control the collection of this technical data.  This data may include parts of a document you were using when a problem occurred, or the contents of your communications.  By using the Sites, you are consenting to the collection of this technical data.
 
-In addition to the personal information that we collect on the Site, as described in this Privacy Policy, if you choose to respond to a posting on _Careers@Pew,_ you will need to create a “profile” and a password to allow you to access your profile later. We will ask you to provide additional information, which may include submitting your resume and years of experience along with other personal information, and to consent to the applicable Data Privacy and Transfer Consent Policy. To ask a question about or request a copy of the Data Privacy and Transfer Consent Policy applicable to you, please contact The Pew Charitable Trusts using [privacy@pewtrusts.org](mailto:privacy@pewtrusts.org).  The Terms of Use require you to keep your password confidential since anyone using your password can see this information.  For more information on international data privacy and transfer consent, please see the separate policies addressing these issues.
+We may also receive information about you from other sources, including through third-party services and organizations.  For example, if you access third-party services, such as Facebook, Google, LinkedIn or Twitter, from the Sites or to share information about your experience on the Sites with others, we may collect information from these third-party services.
 
-#### Newsletters
+## Use of Information
 
-If you wish to subscribe to our electronic newsletter(s) or receive other materials in electronic or print form, we will use your e-mail or mailing address, as applicable, to send the requested materials. 
+We generally use the information we collect online to:
 
-### Use of Collected Information
+  * Provide and improve the Sites;
+  * Contact you, including for fundraising purposes;
+  * Fulfill your requests for products, services, and information;
+  * Send you promotional materials from us;
+  * Analyze the use of the Sites and user data to understand and improve the Sites;
+  * Customize the content you see when you use the Sites;
+  * Evaluate your application for a position of employment at Pew;
+  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our Terms and Conditions [ _hyperlink to Terms_ ]; and
+  * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-The information collected is used for the following purposes: to manage and improve our Site; to enable you to get involved in Pew’s activities; to allow you to receive information such as updates and newsletters on our activities, campaigns and research; to enable you to support The Pew Charitable Trusts; to apply for a position of employment at Pew; and to respond to your inquiries, requests or communications.  If you choose to provide your information to Pew, you may receive information from Pew about various projects, activities, campaigns and research.  You may choose not to receive additional information at any time by using the corresponding opt-out procedure or by contacting Pew at the e-mail address provided below.
 
-We may need to share your information with our service providers, associated organizations and agents for the purposes described above.
 
-### Disclosure of Information
+## Sharing of Information
 
-We may employ third parties to perform functions on our behalf including, without limitation, administering components of this Site. We may share personal data with these third parties in order to provide these services. We make commercially reasonable efforts to confirm that these third parties are prohibited from using your personal data for any other purpose. 
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
 
-We may also share your personal data with Pew partner organizations, independent contractors and other entities and individuals who work on Pew campaigns in order to further Pew’s charitable purposes.  We make commercially reasonable efforts to confirm that these third parties are prohibited from using your personal data for any other purpose.
+__Authorized third-party vendors and service providers_._ We may share your information with third-party vendors and service-providers that help us with specialized services, including billing, payment processing, customer service, email deployment, business analytics, marketing, advertising, performance monitoring, hosting, and data processing.  We take steps to prevent these third parties from using your information for any purpose other than the services they are providing.
 
-We will not sell your personal data or any other information we collect about your activity on our Site.
+__Corporate affiliates__. We may share your information with our corporate affiliates that are subject to this policy.
 
-We reserve the right to disclose your personal data information as required by law, when we believe that disclosure is necessary to protect our rights, to comply with a legal obligation or a request from governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing the Site, or to protect the legal rights, interests, or safety of Pew, the Site, our users or others. 
+__Business transfers_._ We may share your information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
 
-### Your Consent
+__Legal purposes_._ We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, health, safety, and security of The Pew Charitable Trusts, our affiliates, users, or the public.
 
-By providing us with your personal data, you consent to the collection and use of this information in accordance with the purposes described above and this Privacy Policy.
+__With your consent or at your direction__. We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent or direction.
 
-### International Transfers
+If you access third-party services, such as Facebook, Google, LinkedIn, or Twitter, from the Sites or to share information about your experience on the Sites with others, these third-party services may be able to collect information about you, including information about your activity on the Sites, and they may notify your connections on the third-party services about your use of the Sites, in accordance with their own privacy policies.
 
-By using the Site, you expressly acknowledge and agree that, in the framework of the processing of personal data, such information can be transferred to countries which do not offer a similar level of protection for personal data as your country of residence, and specifically to the United States.
+## Security 
 
-### Links to Other Sites
+We use reasonable measures to help protect information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.  You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be 100 percent secure.  Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.
 
-This Site may contain links to other sites that are not owned or controlled by Pew. We are not responsible for the use of cookies or the privacy practices or content of such other sites. Please consult the linked sites’ respective terms of use for more information.
+## Your Choices
 
-### How Do We Protect Personal Information
+You may opt out of our email newsletters by clicking the “unsubscribe” at the bottom of each newsletter and following the subsequent instructions.  You may also opt out of all communications from Pew by contacting us using the contact information below.
 
-We take appropriate measures to ensure that the personal data you disclose to us is kept secure, accurate and up to date and is kept only for so long as is necessary for the purposes for which it is used.
+You may be able to refuse or disable cookies by adjusting your web browser settings.  Because each web browser is different, please consult the instructions provided by your web browser (typically in the “help” section).  Please note that you may need to take additional steps to refuse or disable Local Shared Objects and similar technologies.  For example, Local Shared Objects can be controlled through the instructions on Adobe’s [Setting Manager page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).  If you choose to refuse, disable, or delete these technologies, some of the functionality of the Sites may no longer be available to you.
 
-### Right of Access, Modification and Rectification
+You have a right of access, modification, and rectification of your personal data, at any time and free of charge.  You can exercise these rights by contacting us using the contact information below.
 
-You have a right of access, modification and rectification of your personal data, at any time and free of charge. Some of the functionalities of our Site, via third party providers, may enable you to manage and modify your account settings yourself and to choose to stop receiving emails from Pew. Similarly, you can oppose the processing of your personal data by contacting The Pew Charitable Trusts using [privacy@pewtrusts.org](mailto:privacy@pewtrusts.org). 
+California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes.
 
-### COOKIES POLICY
+## Third-Party Advertising, Links, And Content
 
-Our Site uses several cookies. **By using our Site, you agree that we may place these and other similar types of cookies on your device and access them when you visit the Site in the future.** A cookie is a small file of letters and numbers that, with your agreement, we put on your computer. The cookies we use are primarily analytical cookies that aid us in improving both our Site and your experience by tracking which areas and features of our Site are popular, making the Site easier to navigate, to count visits, and to allow a registered user to remain signed in to his/her user profile throughout a visit. We may also use cookies placed on our Sites by third parties acting on our behalf.
+Some of the Sites may contain links to content maintained by third parties that we do not control.  We allow third parties, including business partners, advertising networks, and other advertising service providers, to collect information about your online activities through cookies, pixels, local storage, and other technologies. These third parties may use this information to display advertisements on our Sites and elsewhere online tailored to your interests, preferences, and characteristics.  We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Policy.
 
-Below is a list of all cookies contained on Pew’s Sites, with links to the respective privacy policy and opt-out plug-in.
+Some third parties collect information about users of our Sites to provide interest-based advertising on our Sites and elsewhere, including across browsers and devices.  These third parties may use the information they collect on our Sites to make predictions about your interests in order to provide you ads (from us and other companies) across the internet.  Some of these third parties may participate in an industry organization that gives users the opportunity to opt out of receiving ads that are tailored based on your online activities.  Due to differences between using apps and websites on mobile devices, you may need to take additional steps to disable targeted ad technologies in mobile apps.  Many mobile devices allow you to opt out of targeted advertising for mobile apps using the settings within the mobile app or your mobile device.  For more information, please check your mobile settings.
 
-Cookie 
+To opt out of interest-based advertising across browsers and devices from companies that participate in the [Digital Advertising Alliance](http://www.aboutads.info/) or [Network Advertising Initiative](http://www.networkadvertising.org/) opt-out programs, please visit their respective websites.  You may also be able to opt out of interest-based advertising through the settings within the mobile app or your mobile device, but your opt-out choice may apply only to the browser or device you are using when you opt out, so you should opt out on each of your browsers and devices if you want to disable all cross-device linking for interest-based advertising.  If you opt out, you will still receive ads but they may not be as relevant to you and your interests, and your experience on our Sites may be degraded.
 
-| 
+__Do-Not-Track Signals and Similar Mechanisms__. Some web browsers transmit “do-not-track” signals to websites. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
 
-Name
+## Cookies
 
-| 
+Cookies are small bits of information that are stored by your computer’s web browser.  Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device.  Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player.  To find out more above cookies, including how to see what cookies have been set and how to manage and delete them, visit www.aboutcookies.org or www.allaboutcookies.org. 
 
-Purpose
+We use cookies, Local Shared Objects, and similar technologies for technical reasons to enable the efficient operation of the Sites, to enhance the ease of use of the Sites, to display advertisements on our Sites and elsewhere online, and to gather statistics on how you use our Sites.  By using the Sites, you consent to our use of cookies and similar technologies.  You may opt out of cookies and similar technologies in accordance with the “Choices” section above, but please understand that certain functionalities on the Site may no longer function for you if you choose to do so.
 
-| 
+## International Users
 
-Expiration
+We maintain information in the United States of America and in accordance with the laws of the United States, which may not provide the same level of protection as the laws in your jurisdiction.  By using the Sites and providing us with information, you understand and agree that your information may be transferred to and stored on servers located outside your resident jurisdiction and, to the extent you are a resident of a country other than the United States, that you consent to the transfer of such data to the United States for processing by us in accordance with this Policy.
 
-| 
+## Children
 
-More Information  
-  
----|---|---|---|---  
-  
-Google Analytics
+We do not knowingly collect any personal information from children under the age of 13 without parental consent, unless permitted by law.  If we learn that a child under the age of 13 has provided us with personal information, we will delete it in accordance with applicable law.
 
-| 
+## Changes to The Privacy Policy
 
-_utma
+We may update this Policy from time to time. When we update the Policy, we will revise the “Effective Date” date above and post the new Privacy Policy.  We recommend that you review the Privacy Policy each time you visit the Sites to stay informed of our privacy practices.
 
-_utmb
+## Contact Information
 
-_utmc
-
-_utmz
-
-| 
-
-These cookies are used to collect information about how visitors use our Site. We use this information to compile reports and to help us improve the Site. The cookies collect information in an anonymous form, including the number of visitors to the Site, from where visitors have come to the Site, and the pages they visited.
-
-| 
-
-Varies from 30 minutes to up to 2 years.
-
-[Details at Google.com](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies#cookiesSet)
-
-| 
-
-[Opt Out Plug-In](https://www.google.com/ads/preferences/html/intl/en/plugin/)
-
-[Privacy Policy](http://www.google.com/analytics/learn/privacy.html)  
-  
-ShareThis.com
-
-| 
-
-_stid
-
-_uset
-
-| 
-
-This information may include general anonymous click stream behavior such as web pages viewed (including the URL addresses of such pages), search queries from which users are directed to a page, and navigation from page to page through the ShareThis Services.
-
-| 
-
-Indefinite
-
-| 
-
-[Opt Out](http://sharethis.com/privacy)
-
-[Privacy Policy](http://sharethis.com/privacy)  
-  
-If you want to delete these cookies or any other cookies that are already on your computer, please refer to the help and support areas on your internet browser for instructions on how to locate the file or directory that stores cookies.
-
-Information on cookies, including deleting or controlling them, can be found at: [http//www.AboutCookies.org](http://www.aboutcookies.org/) or at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). Please note that, by deleting our cookies or disabling future cookies, you may not be able to access certain areas or features of our Site and the Site may not function properly.
-
-### OWNERSHIP OF POLICIES
-
-These policies are owned and administered by the Senior Vice President, General Counsel and Corporate Secretary, who may be contacted by emailing [privacy@pewtrusts.org](mailto:privacy@pewtrusts.org) or by calling (202) 552-2000.  If you have any questions or concerns about these policies, any concerns about your information being collected, transferred or used for the purposes outlined above, if you require access to your personal data held by Pew, or if you would like to correct your personal data, please contact the organization using the contact information provided above. 
+If you have any questions about this Policy or our practices, please contact us at [privacy@pewtrusts.org](mailto:privacy@pewtrusts.org). 
