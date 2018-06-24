@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the readymade.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228054944id_/http%3A//www.meredith.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readymade.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624022831id_/http%3A//www.meredith.com/legal/privacy) for the most accurate reproduction.*
 
 # Meredith Privacy Policy | Meredith
 
 ### Quick Links
 
+  * To read our EU privacy policy click [here](http://www.meredith.com/legal/eu-privacy)
   * To read our detailed privacy policy click here
   * To opt-out of many third-party tracking technologies for interest-based advertising, follow the instructions here
   * To opt-out of precise location tracking of your mobile device, follow the instructions here
