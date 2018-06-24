@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcla.edu privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609175731id_/http%3A//www.mcla.edu/About_MCLA/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcla.edu privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624082147id_/http%3A//www.mcla.edu/About_MCLA/mission/privacypolicy/index) for the most accurate reproduction.*
 
-# About MCLA | Privacy Policy
+# Privacy Policy
 
 Massachusetts College of Liberal Arts is strongly committed to protecting the privacy and safety of all visitors of [www.mcla.edu](http://www.mcla.edu/). We created the following privacy policy to explain to you our policy on using and disclosing information gathered on visitors to the site.  By visiting the Massachusetts College of Liberal Arts' web site you are accepting the practices described in this privacy policy.
 
@@ -10,7 +10,7 @@ Personal information you provide us via a form will only be used for the purpose
 
 By choosing to email this website to a friend, you are not initiating contact from us to your friend. 
 
-Some parts of the site control access through a login. The login name, date and time for these sessions are recorded for security purposes only. 
+Some parts of the site control access through a login. The login name, date and time for these sessions are recorded for security purposes only.
 
 Any changes to the privacy policy will be updated on this page.
 
