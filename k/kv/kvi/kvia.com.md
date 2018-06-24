@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kvia.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623184834id_/http%3A//www.kvia.com/news/Privacy-Policy/559096) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvia.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624082941id_/http%3A//www.kvia.com/news/privacy-policy/53143521) for the most accurate reproduction.*
 
-# Privacy Policy | News - Home
+# Privacy Policy - KVIA
 
 _Privacy Policy_
 
@@ -18,14 +18,71 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
-  * _Copyright 2013[KVIA](https://web.archive.org/). All rights reserved. This material may not be published, broadcast, rewritten or redistributed._
-
-
-
-
-Advertisement
-
-[](http://www.kvia.com/pope)
-
   
 
+
+[News](https://web.archive.org/news)
+
+[ ](https://web.archive.org/news/on-this-day-june-24/560452787)
+
+Frederick M. Brown/Getty Images
+
+[News](https://web.archive.org/news)
+
+[ ](https://web.archive.org/news/on-this-day-june-23/558211122)
+
+Christopher Furlong/Getty Images
+
+[Sports](https://web.archive.org/sports)
+
+[ ](https://web.archive.org/sports/2018-world-cup-group-stage/753114770)
+
+Stu Forster/2018 Getty Images
+
+[News](https://web.archive.org/news)
+
+[ ](https://web.archive.org/news/on-this-day-june-22/556389294)
+
+Kevin Winter/Getty Images
+
+[Sports](https://web.archive.org/sports)
+
+[ ](https://web.archive.org/sports/the-colorful-fans-of-2018-world-cup/753087642)
+
+Laurence Griffiths/Getty Images
+
+[News](https://web.archive.org/news)
+
+[ ](https://web.archive.org/news/on-this-day-june-21/554415371)
+
+U.S. Marshals Service via Wikimedia Commons
+
+[News](https://web.archive.org/news)
+
+[ ](https://web.archive.org/news/on-this-day-june-20/552539451)
+
+Jemal Countess/Getty Images
+
+[News](https://web.archive.org/news)
+
+[ ](https://web.archive.org/news/on-this-day-june-19/550535874)
+
+The Warmbier Family via CNN
+
+[News](https://web.archive.org/news)
+
+[ ](https://web.archive.org/news/on-this-day-june-18/548598099)
+
+Roger Kisby/Getty Images
+
+[News](https://web.archive.org/news)
+
+[ ](https://web.archive.org/news/on-this-day-june-17/546705484)
+
+Joe Raedle/Getty Images
+
+[News](https://web.archive.org/news)
+
+[ ](https://web.archive.org/news/on-this-day-june-16/544677676)
+
+Sean Gallup/Getty Images
