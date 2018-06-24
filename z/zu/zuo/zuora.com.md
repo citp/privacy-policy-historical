@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the zuora.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705165606id_/https%3A//www.zuora.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuora.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624211047id_/https%3A//www.zuora.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Zuora
 
 * * *
 
-In this Privacy Statement (“Statement”), we, Zuora, Inc. (“Zuora”), describe our data collection and usage practices with respect to personal data we collect through [http://www.zuora.com](http://www.zuora.com/) and other publicly-available web pages that directly link to this Statement (collectively the “Site”). This Statement describes how Zuora collects, uses, and stores the personal information and other information you provide on the Site. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-This Statement only covers information collected through the Site and not information that we collect offline, through other websites, or through our subscription services. Zuora will use data loaded by customers into our subscription services in accordance with the contractual agreement(s) between Zuora and that customer.
+In this Privacy Statement (“Statement”), we, Zuora, Inc. (“Zuora”), describe our data collection and usage practices with respect to personal data we collect through [http://www.zuora.com](http://www.zuora.com/) and other publicly-available web pages that directly link to this Statement (collectively the “Site”). This Statement describes how Zuora collects, uses, and stores the personal information and other information you provide on the Site. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. If you are a resident of the European Economic Area (“EEA”) additional terms can be found in our EEA Supplemental Privacy Statement (<https://www.zuora.com/EEA-supplemental-statement/>). This Statement only covers information collected through the Site and not information that we collect offline, through other websites, or through our subscription services. Zuora will use data loaded by customers into our subscription services in accordance with the contractual agreement(s) between Zuora and that customer.
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=8d0ca0a2-de3a-4ed6-bf00-afb402bdeed2 "TRUSTe Privacy")
 
@@ -16,11 +14,19 @@ You may visit the Site without registering or actively submitting personal data 
 
 When you request information about Zuora’s subscription services, we may ask for personal information, such as your name, work e-mail, company, title, phone number, country, and industry. You can opt out of providing personal information by not entering it when asked.
 
-Technologies such as cookies, beacons, tags, scripts or similar technologies are used by Zuora and our partners, affiliates, or analytics or service providers (e.g. marketing partners). These technologies are used in analyzing trends, administering the Site, tracking users’ movements around the Site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+We may also collect, from you, the following personal information about your referrals: [Name and email address], in order to refer our products or services to these referred persons.
+
+When you provide us with personal information about your referred persons we will only use this information for the specific reason for which it is provided
+
+If you believe that one of your business contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [support@zuora.com](mailto:support@zuora.com).
+
+Technologies such as cookies, beacons or similar technologies are used by Zuora and our partners, affiliates, or analytics or service providers (e.g. marketing partners). These technologies are used in analyzing trends, administering the Site, tracking users’ movements around the Site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We also use cookies for advertising purposes. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Site, but your ability to use some features or areas of our Site may be limited.
 
-We partner with one or more third parties to display advertising on our Web site or to manage our advertising on other sites. Our third party partner(s) may use technologies such as cookies to gather information about your activities on this Site and other sites in order to provide you advertising based upon your browsing activities and interests. If you do not wish to have this information used for the purpose of serving you interest-based ads, you may opt out by clicking [here](https://preferences-mgr.truste.com/) (or if you are located in the European Union click [here](https://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with third parties to display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this Site and other sites to provide you advertising based upon your browsing activities and interests. If you do not wish to have this information used for the purpose of serving you interest-based ads, you may opt out by clicking [here](https://preferences-mgr.truste.com/) (or if you are located in the European Union click [here](https://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+For more information on how to manage cookies on the Site, see our Cookie Policy (<https://www.zuora.com/cookie-policy/>).
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you.
 
@@ -36,7 +42,7 @@ We disclose your personal information only as follows:
 
 – Through the use of affiliated and unaffiliated service providers around the world that help us deliver our service and run our business, subject to confidentiality agreements.
 
-– We share aggregated usage statistics that cannot be used to identify you individually.
+– We share aggregated usage statistics.
 
 – We will disclose data as required by law or to protect you, other users, us or third parties from harm, including fraud, data security breaches or where someone’s physical safety seems at risk.
 
@@ -54,9 +60,13 @@ We may provide links on our Site to certain third-party websites or referrals to
 
 You can opt out of receiving our newsletter or marketing emails by following the instructions at the bottom of each communication or at any time by e-mailing [support@zuora.com](mailto:support@zuora.com).
 
+**Security**
+
+The security of your personal information is important to us.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [legal@zuora.com](mailto:legal@zuora.com).
+
 **Data Retention**
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as needed to provide you services and fulfill the purposes described in this Statement. We will retain and use your information as required or permitted by applicable law, including to comply with our legal or business record keeping obligations, resolve disputes, and enforce our agreements.
 
 **EU-U.S. & Swiss- US Privacy Shield**
 
@@ -68,7 +78,7 @@ If your personally identifiable information changes, or if you no longer desire 
 
 **Statement Changes**
 
-We may update this Statement periodically and without prior notice to you to reflect changes in our personal information practices. If we make material changes to this statement, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
+We may update this Statement periodically and without prior notice to you to reflect changes in our personal information practices. If we make material changes to this Statement, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective. You should review the Statement each time you visit our Site to learn of any changes.
 
 **Contact Information**
 
@@ -80,4 +90,4 @@ San Mateo, CA 94403
 (650) 779-4993  
 [support@zuora.com](mailto:support@zuora.com)
 
-_Update effective June 2, 2017._
+_Update effective May 25, 2018._
