@@ -1,105 +1,83 @@
-> *The following text is extracted and transformed from the pgroup.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630165554id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgroup.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624203957id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# NVIDIA PRIVACY POLICY
 
-This policy was last updated on June 15, 2016.
+**Effective 25 May 2018**
 
-NVIDIA is committed to respecting your privacy. This Privacy Policy applies to our world-wide family of NVIDIA-operated websites (including www.nvidia.com, www.slizone.com, 3DVision Live, GeForce.com, GTC, TegraZone.com, and shield.nvidia.com) and mobile apps and hardware and software products including any internet-connected devices (our "Services").
+We promise to protect your privacy and your data. We never sell your data. We collect and use your data only if you give us permission.
 
-______________________________________________________________________________________________________________________________________ 
+You have the following rights:
 
-* #### Introduction
-
-NVIDIA is committed to implementing appropriate protections for any Personal Information that we collect or our users share with us.
-
-NVIDIA's Online Privacy Policy and Kids Privacy Policy set forth our policies and procedures regarding our collection, use, and/or sharing of your Personal Information.
-
-Please note: The NVIDIA Online Store is managed independently by Digital River, Inc., and is subject exclusively to the Digital River Privacy Statement. For a complete view of the statement please [click here](https://store.nvidia.com/store/defaults/en_US/DisplayDRPrivacyPolicyPage/eCommerceProvider.DR+globalTech+Inc).
-
-* #### What Information We May Collect
-
-When you use our Services, we may collect "Personal information," which is any information that can be used to identify a particular individual which can include traditional identifiers such as name, address, e-mail address, telephone number and non-traditional identifiers such as unique device identifiers and Internet Protocol (IP) addresses.
-
-We may collect personal information that you or other users give us (e.g. your contact details or your comments or opinions), allow us to receive either through your preferences in your devices (e.g. location data) or browser or from third parties such as social networks (e.g. your public profile information) or through use of our Services (e.g. the pages you visit).
-
-[CLICK HERE] to learn more about how Personal Information is collected.
-
-* #### Why We Collect Personal Information
-
-The Personal Information we collect helps us: 
-
-  * provide our Services to you;
-  * process transactions; 
-  * respond to requests or any correspondence you send us;
-  * and learn about our users' interests in terms of the features, performance and support of our products;
-  * customize your experience (including the content and advertisements delivered on our websites);
-  * to enhance and develop our Services;
-  * to protect and enforce our rights and the rights of our users and third parties;
-  * market our products and services to you through newsletters or promotional e-mails or push notifications (Please see the section below on Your Choices Regarding Your Personal Information.)
+  * **Right to access**. You can see what data we have collected whenever you want.
 
 
-  
+  * **Right to take your data**. The data is yours. You can copy or move it whenever you want.
 
-* #### How We May Share Your Information
 
-We do not sell Personal Information about our customers or users to any third parties. We may from time to time share your Personal Information with our business partners, resellers, affiliates, service providers, consulting partners and others in order to provide our Services to you.
+  * **Right to erasure**. We'll erase your personal data whenever you say the word. And even if you don't ask us to delete the data, we'll keep it only so long as it helps us serve you.
 
-[CLICK HERE] to learn more how we may share your Personal Information with our business partners and others. For further information on your choices regarding your information, see the "Your Choices Regarding Your Personal Information" section below.
 
-* #### Your Choices Regarding Your Personal Information
+  * **Right to restrict use**. If you want us to stop using your data, we'll stop.
 
-NVIDIA respects your choices about how your Personal Information is used when you register with us, elect to receive our newsletters, or provide us with Personal Information for other purposes.
 
-If you choose not to provide any Personal Information when requested, you can still enjoy most aspects of our Services. However, you may be unable to access certain areas and services that require our interaction with you.
+  * **Right to lodge a complaint**. We will protect your privacy and we will honor your choices. And if you feel we've failed in any way, you have the right to lodge a complaint with a data protection authority in your region.
 
-**Marketing communications**. You can opt-out of receiving communications from NVIDIA at any time by unsubscribing at <https://profile.nvidia.com/en-us/login>, or by following the unsubscribe instructions at the bottom of any e-mail or SMS communications you receive. If you are using our apps we may also send you push notifications which you can opt out of receiving using the app settings. However, we may still send you updates to our Legal Notices, Online Privacy Policy, or regarding any account you have created with us.
 
-**Online advertising and other tracking**. As discussed above, NVIDIA and our third-party partners collect certain information about you when you use our Services through technology such as cookies, web beacons and similar tracking tools for internal and analytic purposes. You may be able to "opt out" of the collection of information through cookies or other tracking technology by actively managing the settings on your browser or mobile device. Please refer to your browser's or mobile device's technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. To learn more about cookies, please read our cookie policy at [//www.nvidia.co.uk/object/cookie-policy-uk.html](https://www.nvidia.co.uk/object/cookie-policy-uk.html). We are not able to respond to "Do Not Track" signals set by a browser at this time.
 
-We also permit third party online advertising networks and social media companies to collect information about your use of our website over time so that they may play or display ads that may be relevant to your interests on our site as well as on other websites or apps. Typically, this information is collected through cookies or similar tracking technologies, which recognize the device you are using and collect information, including for example, hashed data, click stream information, browser type, time and date you visited the site, and other information. This information is used to display targeted ads on or through our Services, or to our users or visitors to our websites on other websites or apps, including on Facebook. We may combine personal information that we collect about you with the browsing and tracking information collected by these technologies. We or the online advertising networks use this information to make the advertisements you see online more relevant to your interests. For example, we use third party advertising services such as Remarketing with Google Analytics to market our services to you on other websites. You may be able to “opt out” of the collection of information through cookies or other tracking technology by actively managing the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies, and to learn how you may be able to opt-out of interest-based advertising from many online advertising networks, you may wish to visit [www.allaboutcookies.org](http://www.allaboutcookies.org/), the Network Advertising Initiative’s online resources at [www.networkadvertising.org](https://www.networkadvertising.org/) or [www.aboutads.info/choices](http://www.aboutads.info/choices)). If you access our service on your mobile device, you may not be able to control tracking technologies through settings.
+**Types of Data We May Need**
 
-* #### EU rights relating to Accessing and Correcting Personal Information
+We will only ask for data that help our products delight you. We'll only ask for the minimum data we need, depending on the products and services you use. If you don't want to share your data, some of our products may not work, or work as well. Here is some information we might request:
 
-[CLICK HERE] to access NVIDIA's EU policy relating to Accessing and Correcting Personal Information.
+  * Your contact information, including name, email address, phone number, and shipping address, so that we can contact you or ship items you have requested;
+  * Your birthdate so we can verify age;
+  * Your geographic region, including the city and state/province in which you reside, so we can comply with local laws;
+  * Your device and network configuration, software for gaming and usage, and system performance so we can optimize your gaming hardware and software.
 
-* #### Kids Privacy Policy
 
-We take care to protect the privacy of children under the age of 13 who visit our websites or mobile apps.
 
-[[CLICK HERE](https://www.nvidia.com/object/privacy_policy_children.html)] to access NVIDIA's Kids Privacy Policy.
+_Additional data collection can help us improve our products for gamers everywhere._ To help us provide the very best experiences for you and gamers everywhere, we'd like to collect some additional information about your gaming system and its performance. But we won't collect anything unless you tell us it's okay. This additional data includes:
 
-* #### Links to Other Sites
+  * Your device or network's technical information so we can find problems with certain devices and configurations;
+  * Your error data so we can learn about the errors and fix them;
+  * Your crash data so we can find and fix bugs.
 
-We are not responsible for any content, products or services offered on any third-party websites. Links to third-party websites are provided for your convenience only. This Privacy Policy will not apply to any Personal Information that you provide to, or that is collected by, any third-party website operator or third-party product/service provider.
 
-Additionally, our site may include social media features such as Facebook, Twitter and Pinterest buttons (such as "Like," "Tweet" or "Pin"). These social media sites may automatically record information about your browsing behavior every time you visit a site that has a social media button, regardless of whether you click on the button. Your interactions with these features are governed by the privacy policy of the company providing the feature, not by our privacy policy. Please review your privacy settings on social media sites.
 
-* #### Security
+We may analyze the data we've collected based on our interests in business forecasting and new product development. And, if you consent, we may use this data to identify certain audiences, including you, to receive games, apps, rewards, or relevant advertising.
 
-We will take all reasonable and appropriate measures to protect the personal information you share with us from unauthorized access or disclosure.
+**NVIDIA Products and Services**
 
-* #### How to Contact Us
+If you want to know what kinds of data are collected by specific NVIDIA products and services, please visit [privacy.nvidia.com](https://www.nvidia.com/en-us/privacy-center/home/).
 
-If you have any questions or concerns about NVIDIA's Online Privacy Policy or Kids Privacy Policy, please send an email to privacy@nvidia.com or write to us at: NVIDIA Corporation, 2701 San Tomas Expressway, Santa Clara, CA 95050.
+**Our NVIDIA Websites**
 
-* #### Notice To California Residents – Your California Privacy Rights:
+If you visit any of our NVIDIA-branded websites, we or our third-party partners may collect information using cookies, web beacons, or log file information. Please see our [Cookies Policy](https://www.nvidia.co.uk/object/cookie-policy-uk.html) for more details. Here is some information we might collect:
 
-Under California Civil Code Section 1798.83 (known as the "Shine the Light" law), NVIDIA customers who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
+  * Browser type, device type, URL addresses, IP addresses, or operating system type to improve our website, prevent fraudulent activity, understand how visitors use our website, and provide personalized content;
+  * Geolocation data to understand where visitors reside, and to provide content especially for your location;
+  * cookie data to personalize our webpage or serve relevant advertising.
 
-In the United States:
 
-NVIDIA Corporation
 
-2701 San Tomas Expressway
+**Enterprise Relationships**
 
-Santa Clara, CA 95050
+If you do business with us, or if you sign up for our business literature, newsletters, conferences, or webinars, we may obtain or supplement your data with information from third parties such as your company name or job title. We may use this information to show you personalized website content. We may also share your contact information with an NVIDIA representative or business partner so they can communicate with you about NVIDIA-branded products or services.
 
-Alternatively, you may send us an email at [CaliforniaPrivacyDisclosure@nvidia.com](mailto:CaliforniaPrivacyDisclosure@nvidia.com). 
+**The Way We Store and Transfer Data**
 
-* #### Online Privacy Policy Updates
+We'll transfer and keep your data in secure servers in the USA, where we are located. We are subject to U.S. law, and we may be required to share data with U.S. law enforcement agencies.
 
-We may make changes to our Online Privacy Policy from time to time. Please review our policies regularly as updated policies will apply to your future visits to our website.
+**Kids Privacy Policy**
 
-* #### Your Consent
+We take special care to protect the privacy of children who use our products and services. The [NVIDIA Kids Privacy Policy](https://www.nvidia.com/object/privacy_policy_children.html) contains more details.
 
-By using this website, you consent to the terms of our Online Privacy Policy and to NVIDIA's collecting and processing of your Personal Information for the purposes listed herein. Your Personal Information may be processed in the country in which it was collected and in the United States and other countries in which NVIDIA's backup storage may be located.
+**Contact Us**
+
+If you have any questions about NVIDIA's Privacy Policy or Kids Privacy Policy, please send an email to our Data Privacy Officer at privacy@nvidia.com.
+
+You can also write to us at:
+
+ATTN: Data Privacy Officer  
+NVIDIA Corporation  
+2788 San Tomas Expressway  
+Santa Clara, CA 95051.
