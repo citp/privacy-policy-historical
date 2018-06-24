@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sportbusiness.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223222id_/http%3A//www.sportbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportbusiness.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624084045id_/https%3A//www.sportbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SportBusiness Group
 
 Privacy Policy
 
 1\. General   
-1.1 SBG Companies Ltd, company number 03174466 and registered office 2nd Floor, 5 Thomas More Square, London, E1W 1YW (the Company, we) grants permission to individuals or companies (users, you), to access and use the Company’s content available through the Company’s website (the Website).  When providing personal data to the Company, Clients agree to be bound by this privacy policy (the Privacy Policy).  
+1.1 SBG Companies Ltd, company number 03174466 and registered office Park House, 116 Park Street, London, W1K 6AF (the Company) and trading address 283-288 High Holborn, London, WC1V 7HP (the Company, we) grants permission to individuals or companies (users, you), to access and use the Company’s content available through the Company’s website (the Website).  When providing personal data to the Company, Clients agree to be bound by this privacy policy (the Privacy Policy).  
 1.2.We reserve the right to update this Privacy Policy from time to time at our discretion. If we do so, the updated version will be effective as soon as it is accessible. You are responsible for regularly reviewing this Privacy Policy so that you are aware of any changes to it.  
 1.3 If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the Privacy Policy under which the information was collected.
 
