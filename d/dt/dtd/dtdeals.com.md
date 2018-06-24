@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtdeals.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228021542id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtdeals.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624190128id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ Best Buy and our partners use technologies such as cookies or similar technologi
 
 [Manage Flash cookies ›](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
-[Learn more about managing cookies, Flash cookies, and more ›](https://web.archive.org/web/20171228021542id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/site/privacy-policy/Cookies/pcmcat338600050000.c?id=pcmcat338600050000)
+[Learn more about managing cookies, Flash cookies, and more ›](https://web.archive.org/web/20180624190128id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/site/privacy-policy/Cookies/pcmcat338600050000.c?id=pcmcat338600050000)
 
 We may permit third-party service providers to collect and process some information from our digital properties. We may share personal information with those providers and may have similar arrangements with interest-based advertisers. We provide more information about interest-based ads below. Our digital properties are not designed to respond to "do not track" requests from browsers.
 
