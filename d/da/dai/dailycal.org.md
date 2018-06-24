@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycal.org privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208030106id_/http%3A//www.dailycal.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycal.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624132425id_/http%3A//www.dailycal.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Copyright Information | The Daily Californian
 
@@ -70,7 +70,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 2483 Hearst Ave.  
 Berkeley, California 94709  USA  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f19590989d8892909db19590989d8892909ddf9e8396)  510-548-8300
+[dailycal@dailycal.org](mailto:dailycal@dailycal.org)  510-548-8300
 
 **SITE USAGE AND COPYRIGHT**
 
