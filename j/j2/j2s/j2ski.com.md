@@ -1,54 +1,121 @@
-> *The following text is extracted and transformed from the j2ski.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120012648id_/https%3A//www.j2ski.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the j2ski.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624151102id_/https%3A//www.j2ski.com/privacy.html) for the most accurate reproduction.*
 
-# J2Ski.Com - Cookie Use and Privacy Policy
+# J2Ski.Com - Our Privacy Policy
 
-## Your Use of J2Ski - Please Note
+## __J2SKi's Privacy Policy
 
-By continuing to use J2Ski, you consent to the terms of our Privacy Policy - please at least read the summary below, and the section regarding Google Analytics!
+This policy identifies the personal data we collect, how we use and protect that data, and your rights to remove your data from our systems.
 
-## Our Privacy Policy - No Nonsense Summary
+### __No Nonsense Summary
 
-### Why we provide this policy
+We will :-
 
-In the course of visiting our web site, our web server will exchange data with your web browser - including the web pages you request, associated images and scripts and cookies as described below. In addition, if you wish to post messages to our forum we will ask you to provide a valid e-mail address. If you order anything from us we will, of course, require further information. This Policy tells you what data we keep and what we use it for. It also tells you what we will not use it for.
+  * __Collect ONLY the minimum data necessary to provide our services.
+  * __Use Your Data only for the purpose for which it is supplied.
+  * __Not share Your Data, with anyone, without your prior permission. *
+  * __Remove Your Data from our system at your request. *
+
+
+
+* Subject to some limitations, as described below.
+
+### __Privacy Policy Sections
+
+  * __[The Data we collect](https://www.j2ski.com/privacy.html#data)
+  * __[What we do with Your Data (Processing we perform)](https://www.j2ski.com/privacy.html#processing)
+  * __[Your Right to be Forgotten (Unsubscribe!)](https://www.j2ski.com/privacy.html#forget)
+  * __[IP Addresses and Server Logs](https://www.j2ski.com/privacy.html#ipas)
+  * __[Our use of Google Analytics](https://www.j2ski.com/privacy.html#ga)
+  * __[Our use of Cookies](https://www.j2ski.com/privacy.html#cookies)
+  * __[J2Ski's Security Rating - Keeping your data safe](https://www.j2ski.com/privacy.html#security)
+  * __[ Other information You may provide to Us](https://www.j2ski.com/privacy.html#otherdata)
+  * __[ Who We Are and How to Contact Us](https://www.j2ski.com/privacy.html#who)
+
+
+
+## __The Data we collect
+
+For almost all our services, the only personal data that we require is your email address.
+
+You may, optionally, choose to provide your name (to allow us to personalize the emails we send to you), the dates and destinations of your planned ski trips (to find ski buddies, etc.) and so on.
+
+### What we _will_ do with your data
+
+We will use your e-mail address to send you :-
+
+  * __Short, occasional, e-mails informing you of important changes to our site (e.g. changes to this policy).
+  * __Snow Mails, if you have requested us to do so.
+  * __Offers from selected partners, if you have requested us to do so.
+
+
 
 ### What we _will not_ do with your data
 
-We will not pass any collected personal data to a third party (unless legally _required_ to do so), nor will we use it to distribute un-solicited commercial e-mail (spam).
+We will NOT :-
 
-We will not use your e-mail address, or any other personal data that you may choose to provide, for any purpose other than that for which it is supplied.
+  * __Pass any of your personal data to any third party (unless legally _required_ to do so).
+  * __Send you spam (un-solicited marketing).
 
-### What we _will_ do with data
+
+
+## __What we do with Your Data (Processing we perform)
+
+If you have registered on J2Ski (and thereby provided us with your e-mail address), we will use Your Data to allow you access to our Forum and / or to send you our Snow Mails (snow reports by e-mail).
+
+### Snow Mail Services
+
+**Service**|  **Lawful Basis for Processing**  
+---|---  
+Snow Mail| Consent  
+**What We Do**  
+We will send you Snow Mail concerning the ski areas you're interested in, at a frequency chosen by you in your J2Ski Profile. This may include weekly or monthly updates, powder alarms, etc.  
+**How to withdraw Consent**  
+You can pause delivery of your Snow Mails in your Profile, or request complete removal (of your e-mail address) from our database. This can be done by clicking the links in the mails we send you, or you can email us at the privacy address given below.  
+  
+### Use of the J2Ski Forum (and website)
+
+**Service**|  **Lawful Basis for Processing**  
+---|---  
+Forum| Consent / Legitimate Interest  
+**What We Do**  
+We will send you occasional administrative emails (once or twice a year), and notifications of Forum Topics, Replies and Private Messages _if you have requested them in your J2Ski Profile_.  
+**How to withdraw Consent**  
+You can request complete removal (of your e-mail address) from our database. This can be done by clicking the links in the mails we send you, or you can email us at the privacy address given below.  
+  
+## __Your "right to be forgotten" (Unsubscribe)
+
+You may, at any time, request that your e-mail address be removed from our database(s) and we aim to do this within 24 hours.
+
+When we do this, we will also remove any other personal data you may have added to your J2Ski Profile.
+
+_Additionally, if your J2Ski username is identifiable (i.e. it's your real name, or can otherwise be associated with you), then we will change it such that it is no longer searchable._
+
+### Limits to be aware of
+
+_Please note that the "right to be forgotten" is not absolute, or unlimited. Specifically :-_
+
+  * __It does not include removal of contributed content (e.g. Forum Posts), except where those contain personal information.
+  * __It does not override our rights to secure our systems and protect our users by, for example, maintaining "black-lists" of email and IP addresses associated with abusive behaviour (e.g. spamming, trolling, etc.).
+
+
+
+## __About IP Addresses and Server Logs
 
 We will use our web server logs to analyse the use of our web site.
 
-When you visit J2Ski.Com, your IP Address (the unique address of your computer on the Internet) is recorded in our log files, along with the pages visited. These logs are standard Apache Web Server logs and may contain information allowing us to analyse when and how each visitor arrived at our site, which other web site(s) sent (referred) them and how long they stayed.
+When you visit J2Ski.Com, your IP Address is recorded in our log files, along with the pages visited. These logs allow us to analyse how our site is used, and to diagnose any errors.
 
-The Server Logs do not tell us who you are or where you live.
+Our server logs do not tell us who you are or where you live.
 
-Analysing this data in a generic fashion allows us to determine patterns of usage and improve the content of our site for the benefit of all our visitors.
+An IP Address (IPA) only becomes Personal Data when combined with other information; many people can use the same IPA, and a single person can use multiple IPAs.
 
-### What we _may_ do with data
+## __Our use of Google Analytics
 
-If you provide us with your e-mail address (required to post in our forum) we _may_ occasionally send you short e-mails informing you of changes to our site that may interest you.
+We use Google Analytics to analyze the use of our site, so we can improve it over time.
 
-We may be required from time to time, by applicable law or legal order, to provide data to law enforcement and governmental agencies.
+To provide this information, Google may set and use anonymized cookies.
 
-## Information we collect
-
-For each visitor to our Web page, our Web server records the IP address of the visitor, the referrer (the address of the web site whose link was followed to find ours), and the pages and files accessed on our server.
-
-We may resolve the IP address to also collect the domain name, but not the e-mail address, of visitors to our Web pages.
-
-For visitors who voluntarily register to post messages to our forum, and who communicate with us via e-mail, we will record their e-mail address(es).
-
-The information we collect is used to improve the content of our Web pages and occasionally to notify visitors about updates to our Web site; it is not shared with other organizations for commercial purposes.
-
-## Our use of Google Analytics - PLEASE READ
-
-In order to understand the needs of our users, we use features of Google Analytics that report estimated demographic information.
-
-To provide this information, Google may set and use additional cookies.
+_Technical Detail :-_ We use the "anonymizeIp" option in our tracking code, which ensures that Google does not record your full IP address in its systems (see below for more information about IP addresses).
 
 ### Controlling information shared with Google
 
@@ -56,9 +123,9 @@ You can control the information Google associates with your web activity (in Goo
 
 You can also use the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
-## Our use of Cookies
+## __Our use of Cookies
 
-We use "Cookies" (small files downloaded and maintained by your browser) to record session information, such as items that consumers add to their shopping cart, certain pages that users access or visit, or to ensure that visitors are not repeatedly sent the same banner ads.
+We use "Cookies" (small files downloaded and maintained by your browser) to record session information, or to ensure that visitors are not repeatedly sent the same banner ads.
 
 You can choose not to accept Cookies (i.e. to "opt out" of receiving them) by adjusting the Preferences in your browser. Refer to your browser's Help facility if you are unsure how to do this.
 
@@ -73,24 +140,30 @@ j2ski.com| __utm| Set by Google Analytics to enable us to analyse our web traffi
 cdna.j2ski.com| Various| Associated with "frequency capping" by our ad server; to ensure that we don't display the same advert to you too often.  
 Others| Various| Additional cookies may be set as a result of adverts viewed on our site.  
   
-## Choosing not to receive information from us
+## __Other information You may provide to Us
 
-If you do not want to receive e-mail from us in the future, and / or wish to de-register from our forum, simply let us know by sending us e-mail at the above address.
+If you give us your postal address, you will receive only the service for which you provided it. We will never send out un-solicited postal mail, nor share that information with any other organisation.
 
-If you supply us with your postal address on-line you will receive only the service for which you provided it. We will never send out un-solicited postal mail, nor share that information with any other organisation.
+If you give us your telephone number, we will only call you in direct regard to the specific purpose for which you did so.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us in direct regard to the specific purpose for which they did so.
-
-## Use of our partner sites
+## __Use of our partner sites
 
 To support the development of our site, we have relationships with other companies that we allow to place ads on our Web pages. Should you "click through" to any of our partners, we encourage you to consult the Privacy Policies of those sites.
 
-## If we change this Policy
+## __J2Ski's Security Rating - Keeping your data safe
 
-If our information practices change at some time in the future we will contact you before we use your data for any new purpose. We will notify you of the policy change and provide you with the ability to opt out of these new uses.
+J2Ski has operated full-site security (using the secure https protocol) for many years, and our security setup is graded **A+** (the highest possible grade) by Qualsys SSL Labs.
 
-## Security
+You can check our current security grade by visiting [https://www.ssllabs.com/ssltest/analyze.html?d=www.j2ski.com](https://www.ssllabs.com/ssltest/analyze.html?d=www.j2ski.com&latest).
 
-When we transfer and receive certain types of sensitive information such as financial or health information, we will redirect visitors to a secure server. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+You can find out more in [A review of the security grades of popular ski websites](https://www.j2ski.com/ski-chat-forum/posts/list/0/18210/ski-website-security-2018-secure-favourite-websites.page).
 
-If you feel that this site is not following its stated information policy, you may contact us at the above e-mail address.
+## __If we change this Policy
+
+If our information practices change, we will contact you for your consent before we use your data for any new purpose.
+
+## __Who We Are and How to Contact Us
+
+We are J2Ski Limited, a UK Company generally known as J2Ski. For the purposes of GDPR, we act both as Data Controller and Data Processor in the provision of our services.
+
+You may email us at privacy(at)j2ski.com.
