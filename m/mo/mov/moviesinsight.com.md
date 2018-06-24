@@ -1,17 +1,35 @@
-> *The following text is extracted and transformed from the moviesinsight.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesinsight.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624070144id_/http%3A//www.moviesinsight.com/privacy) for the most accurate reproduction.*
 
-# Legal
+# Privacy Policy - Movies Insight
 
-* * *
+We appreciate your trust with our website. The submission of your personal information is not at all required in order to browse website but there can be changes in the policies. To stay updated keep checking for them. By visiting the website you assure that you accept all the privacy policies described in this notice.
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+## What personal information do we gather?
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+Whatever information that we receive from users helps us provide you an enhanced improvement of your experience at the website. Here is the information that we accumulate:
+
+  * Automatic Information: We receive and store several types of information whenever you interact with us. For example, many websites use “Cookies” and obtain a certain type of information when you access the website on the web browser or other content served by on behalf of the website on other websites.
+  * The information you provide us: We store any information that you enter on our website. We use the information just to respond to your requests, improving our website and communication with you.
+  * Other websites links: The content on this website may contain links to other external websites. Once you will click on such links they will redirect you to other websites. Please acknowledge the fact that we do not have any control over those particular website(s).
 
 
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+## What are cookies?
+
+When you use your browser in order to visit or surf any website usually small text files can place themselves in your computer as browser’s history or program data subfolders which are called Cookies. A cookie can be of two types- the first is which expires when you close the browser and the second stays in your computer until you delete it manually. So like another company our readers will get cookies by us or by companies which are running their ads on our website. Cookies can help us and advertisers to analyze and identify users on our website and it also helps us to serve content to match your preferences.
+
+## Do we share your personal information?
+
+Information about our users is very important for us and we do not disclose that information to someone else. We only share it in the following instances:
+
+  * In order to take any action against suspected illegal activities/ violation of the our terms and provisions
+  * To implement or entail terms and conditions and privacy policies
+  * To protect our character, assets and our rights/ rights of third party and personal safety of the users
+  * We may also disclose personal information if it is required by the law to do so in a good belief because it is necessary to disclose such info to counter court orders or miscellaneous legal processes.
+  * In case of transferring or selling the website to other company so user’s info will be transferred too. We may disclose non-identifiable data to third parties which don't include your name, email address or contact number.
+
+
+
+## Third party advertisements:
+
+We have advertising companies advertising with. We do not share any personal information with them. These companies work on their behalf; they automatically receive your IP address because of which you receive their advertisements on your browser. They might also use cookies, java scripts, web beacons and other technologies to measure the efficiency of their ads and modify their content. 
