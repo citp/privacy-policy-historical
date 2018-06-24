@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231112751id_/http%3A//www.famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624032547id_/http%3A//www.famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -35,7 +35,7 @@ If you have any comments or questions on the above privacy statement, please fee
 
 |  | Quote of the Day  
 ---  
-One man who has a mind and knows it can always beat ten men who haven't and don't.   
+It ain't those parts of the Bible that I can't understand that bother me, it's the parts that I do understand.   
   
 Top 10 Authors  
 ---  
