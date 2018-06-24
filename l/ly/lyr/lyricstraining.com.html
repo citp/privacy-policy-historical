@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lyricstraining.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606162645id_/https%3A//lyricstraining.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lyricstraining.com privacy policy that was archived on 2018-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624175148id_/https%3A//lyricstraining.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
@@ -16,27 +16,27 @@
 <link rel="icon" href="/img/favicon.png" type="image/png">
 
 <!-- Stylesheets -->
-<link type="text/css" href="/uix/css/default/uix.css?rev=2.4.3.1" rel="stylesheet">
-<link type="text/css" href="/css/styles.css?rev=2.4.3.1" rel="stylesheet">
+<link type="text/css" href="/uix/css/default/uix.css?rev=2.6.7.9" rel="stylesheet">
+<link type="text/css" href="/css/styles.css?rev=2.6.7.9" rel="stylesheet">
 
 <!-- Fonts -->
 <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
 
 
 <!-- jQuery Library -->
-<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KSB9QL"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <!-- <script type="text/javascript" src="/uix/jquery-1.10.2.min.js"></script>  -->
 
 <!-- GSAP -->
 <script type="text/javascript" src="/uix/lib/gsap/gsap-1.17.0.min.js"></script>
 
 <!-- jQuix Library -->
-<script type="text/javascript" src="/uix/jquix_0.2.1.min.js?rev=2.4.3.1"></script>
+<script type="text/javascript" src="/uix/jquix_0.2.1.min.js?rev=2.6.7.9"></script>
 
 <!-- Page Scripts -->
-<script type="text/javascript" src="/js/util_en.js?rev=2.4.3.1"></script>
-<script type="text/javascript" src="/js/video_player.js?rev=2.4.3.1"></script>
-<script type="text/javascript" src="/js/main_en.js?rev=2.4.3.1"></script>
+<script type="text/javascript" src="/js/util_en.js?rev=2.6.7.9"></script>
+<script type="text/javascript" src="/js/video_player.js?rev=2.6.7.9"></script>
+<script type="text/javascript" src="/js/main_en.js?rev=2.6.7.9"></script>
 <script type="text/javascript" src="/check_user"></script>
 
 <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
@@ -46,19 +46,33 @@
 </script>
 <script>
 	googletag.cmd.push(function() {
-		googletag.defineSlot('/23907911/LT_CONTENT_1', [[970, 90], [728, 90]], 'div-gpt-ad-1474553757315-0').addService(googletag.pubads());
-		googletag.defineSlot('/23907911/LT_CONTENT_2', [[970, 90], [728, 90]], 'div-gpt-ad-1474553757315-1').addService(googletag.pubads());
-		googletag.defineSlot('/23907911/LT_FOOTER', [[970, 90], [728, 90]], 'div-gpt-ad-1474553757315-2').addService(googletag.pubads());
-		googletag.defineSlot('/23907911/LT_LEADERBOARD', [[970, 90], [728, 90]], 'div-gpt-ad-1474553757315-3').addService(googletag.pubads());
-		googletag.defineOutOfPageSlot('/23907911/LT_OUTOFPAGE', 'div-gpt-ad-1493820251665-0').addService(googletag.pubads());
-		googletag.pubads().setTargeting("page", "privacy");
-		googletag.pubads().setTargeting("page_lang", "en");
+		var map_content = googletag.sizeMapping().
+        	addSize([1024, 300], [[728, 90], [970, 90]]).
+        	addSize([320, 100], [728, 90]).
+        	addSize([0, 0], []).
+    		build();
+		var map_content_970 = googletag.sizeMapping().
+        	addSize([1024, 300], [[728, 90], [970, 90], [970, 250]]).
+        	addSize([320, 100], [728, 90]).
+        	addSize([0, 0], []).
+        	build();
+		var map_footer = googletag.sizeMapping().
+    		addSize([1024, 300], [[728, 90], [970, 90]]).
+    		addSize([320, 100], [728, 90]).
+    		addSize([0, 0], []).
+    		build();
+
+		googletag.defineSlot('/23907911/LT_LEADERBOARD', [[728, 90], [970, 90]], 'div-gpt-ad-1474553757315-3').defineSizeMapping(map_content).addService(googletag.pubads());
+		googletag.defineSlot('/23907911/LT_CONTENT_1', [[970, 250], [728, 90], [970, 90]], 'div-gpt-ad-1474553757315-0').defineSizeMapping(map_content_970).addService(googletag.pubads());
+	    // googletag.defineSlot('/23907911/LT_CONTENT_2', [[728, 90], [970, 90]], 'div-gpt-ad-1474553757315-1').defineSizeMapping(map_content).addService(googletag.pubads());
+	    googletag.defineSlot('/23907911/LT_FOOTER', [[728, 90], [970, 90]], 'div-gpt-ad-1474553757315-2').defineSizeMapping(map_footer).addService(googletag.pubads());
+	    googletag.defineOutOfPageSlot('/23907911/LT_OUTOFPAGE', 'div-gpt-ad-1493820251665-0').addService(googletag.pubads());
     	googletag.pubads().enableSingleRequest();
     	googletag.pubads().collapseEmptyDivs(true, true);
 		// googletag.pubads().enableSyncRendering();
     	googletag.enableServices();
 	});
-</script><script src="//tags-cdn.deployads.com/a/lyricstraining.com.js" async=""></script></head>
+</script></head>
 <body>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -67,21 +81,7 @@
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-35633833-2', 'auto');
   ga('send', 'pageview');
-</script><!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KSB9QL"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KSB9QL');</script>
-<!-- End Google Tag Manager --><!-- Start Alexa Certify Javascript -->
-<script type="text/javascript">
-_atrk_opts = { atrk_acct:"WyHhi1agq800Om", domain:"lyricstraining.com",dynamic: true};
-(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-</script>
-<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=WyHhi1agq800Om" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->	<div id="page" class="fixed">
+</script>	<div id="page" class="fixed">
 		<div id="page-head" class="fixed">
 <table id="header" class="page-frame" role="presentation" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
@@ -166,93 +166,127 @@ _atrk_opts = { atrk_acct:"WyHhi1agq800Om", domain:"lyricstraining.com",dynamic: 
 </script>		</div><!-- /page-head -->
 <div class="top-bg music-bg"><h1 class="page-frame">Privacy Policy</h1></div>		
 		<div id="page-content" class="page-frame">
-<h3>January 2014</h3>
-<p>The website available at <a href="http://lyricstraining.com">http://lyricstraining.com</a> and all its sub domains, or sections ("Website") and the mobile application <a href="https://play.google.com/store/apps/details?id=com.elasthink.lyricstaplite" target="_blank">LyricsTap</a> ("Application") are operated by ELASTHINK, S.L. ("Elasthink"), with Tax Number ESB86550514 and registered office at Aniceto Gaitán 55, El Álamo, 28607, Madrid, Spain. You can contact with Elasthink at <a href="mailto:support@lyricstraning.com">support@lyricstraning.com</a>.</p>
-<p>This Privacy Policy establishes the rules for the processing of personal data of the Users (as defined in the Terms of Use) of the Website and the Application by Elasthink within the services rendered through the Website and the Application ("Services").</p>
-<p>By accessing and using the Website as well as the Application, it is understood that the User has read and agreed to the terms of this Privacy Policy. Elasthink may amend this Privacy Policy at any time and thus we recommended that the User reviews this Privacy Policy on a regular basis. The date at the beginning of this Privacy Policy refers to the latest update of this Privacy Policy, which will be applicable from the date of publication.</p> 
-<p>Some of the Services may be subject to specific privacy policies that will complement or, if in conflict with this Privacy Policy, supersede the terms of this Privacy Policy. The User will accept any specific privacy policies that may apply before the provision of such service.</p>
-<p>Additionally, the access and use of the Website, and the downloading and use of the Applications and the Services are subject to the Terms of Use.</p>
-
-<h2>1. PERSONAL DATA FILES, PURPOSES OF THE PROCESSING AND TYPES OF PERSONAL DATA</h2>
-<p>To access some features of the Website or other elements of the Services, the User will have to register and create an account. For the registration, the User shall have to provide all data required as compulsory. On the contrary the User may not enjoy the Services.</p>
-<p>User's data collected through the Services are stored in a personal data file named "REGISTRO DE USUARIOS DEL SITIO WEB LYRICSTRAINING". The purpose of this personal data file is the registration of the Users, authentication and identification of the same to access to the system, monitoring their progress, usage statistics, social interactions, and management notifications and communications by e-mail, including promotional information about the Services (including the content provided therein).</p>
-<p>Only older than fourteen (14) years are eligible for registration in the Services, provided that they have completed the registration form and accepted this Privacy Policy as well as the Terms of Use.</p>
-<p>The User may cancel at any time the registration in the Services through its account, or by sending an e-mail to <a href="mailto:support@lyricstraning.com">support@lyricstraning.com</a> with the necessary information for cancellation.</p> 
-<p><a href="mailto:feedback@lyricstraining.com">feedback@lyricstraining.com</a> is provided by Elasthink to Users for comments and suggestions and <a href="mailto:support@lyricstraning.com">support@lyricstraning.com</a> is provided also by Elasthink to Users for help, report a problem or complaints about content. User's personal data resulting from emails to the above e-mail addresses are subject to this Privacy Policy and incorporated into the file "CONTACTOS DEL SITIO WEB LYRICSTRAINING" of Elasthink for managing questions, suggestions or complaints.</p>
-
-<h2>2. COMMUNICATION OF PERSONAL DATA</h2>
-<p>The Users can share the Website contents through their account at social networks as well as through their e-mail address. To comply with such User's request, Elasthink must provide the User's personal data to these networks or to the e-mail services provider and this is accepted by the User when it authorizes the sharing and Elasthink does not assume any liability in relation to the processing of the User's personal data by these networks or providers.</p>
-<p>Elasthink shall collect the User's consent before using his/her personal data for any purpose other than those established in this Privacy Policy.</p>
-
-<h2>3. RIGHTS OF ACCESS, RECTIFICATION, CANCELATION AND OBJECTION.</h2>
-<p>The User may modify his/her personal data at any time through his/her user account or by sending an e-mail to <a href="mailto:support@lyricstraning.com">support@lyricstraning.com</a>, with the necessary information for this purpose.</p> 
-<p>Elasthink guarantees the exercise of the rights of access, rectification, cancelation and to object to the processing of personal data, as stated by Organic Law 15/1999.</p>
-<p>Any data subject who intends to exercise any such rights in connection with personal data processed by Elasthink should contact Elasthink at the address stated above or by an email to <a href="mailto:support@lyricstraning.com">support@lyricstraning.com</a>, including in the message's subject a clear reference to the right he/she intends to exercise.</p>
-<p>As stated by Royal Decree 1720/2007, the exercise of the above rights shall follow the procedure below.</p>
-
-<p>The communication shall be addressed to the data controller and shall include:</p> 
-<ol>
-	<li>Name of the data subject; a copy of his/her identity card, passport or any other valid document which identifies him/her or, if applicable, of the representative of the data subject (in this latter case evidence of the authority to represent the data subject is also required).</li>
-	<li>Request.</li>
-	<li>Address where notifications may be served to the data subject, date and signature.</li>
-	<li>Supporting documentation for the request being made, if any.</li>
-</ol> 
-<p>Elasthink shall answer the requests in all cases, regardless of whether or not there is personal data of the particular data subject within its personal data filing systems. If the request does not comply with the requirements above, Elasthink shall request the data subject to provide the necessary additional information.</p>
-
-<h2>4. USE OF COOKIES AND IP ADDRESSES OF WEBSITE USERS</h2>
-<p>The Website uses cookies to facilitate and customize user navigation through the Website.</p>
-<p>A cookie is a piece of information that the computer or computers that host the Website give to the user's browser when accessing the Website. Elasthink uses "session cookies" that help the User to a better experience into the Website and that analyse the Website usage more accurately. For instance, the Website may set a cookie on the user's browser that keeps him/her from needing to remember and then enter a password more than once during a visit to the Website.</p> 
-<p>Elasthink uses the "analytic cookies" from Google Analytics (www.google.com/analytics) for obtaining information about User's navigation as well as for measuring and analysing the audience.</p>
-<p>Elasthink uses this information for improving the Website, detecting new needs and evaluate the Service.</p> 
-<p>Elasthink does not use cookies with advertising purposes, nor to associate browsing data with individuals that have not been previously identified.</p>
-<p>This Website also has access to the IP address with which each User accesses the Website. The IP address with which each User accesses the Website may be different each time. Additionally, different Users can share a single IP address. Even though Elasthink does not and will not perform any attempt to associate the IP address with specific individuals, accessing IP addresses could be regarded as a processing of personal data, given the possibility to identify the individual to which an IP address is associated (more a theoretical than an actual possibility), so according to the applicable data protection regulations, this Privacy Policy will apply in those cases.</p>
-<p>Elasthink only uses cookies when, as required by Law, the Users have authorized them properly.</p>
-<p>Notwithstanding the foregoing, the User has capacity to control and/or to modify the cookie's configuration in his/her browser, as well as to delete these cookies in the section "Help" in the toolbar of his/her browser. We refer to that section to obtain more information about the reception of notifications when it is received a new cookie, and how to defuse them. Elasthink recommends that Users leave cookies turned on because they allow Users to benefit from some of the Website's features.</p>
-
-<p>Description about the cookies that are used into Website:</p>
-<table class="cookie-table" cellpadding="0" cellspacing="0" border="0">
-<thead>
-	<tr>
-		<th>Cookie</th>
-		<th>Description</th>
-		<th>Kind</th>
-		<th>Property</th>
-	</tr>
-</thead>
-<tbody>
-	<tr>
-		<td>PHPSESSID</td>
-		<td>User login ID in the PHP server, expires at the end of session.</td>
-		<td>Session</td>
-		<td>Owner</td>
-	</tr>
-	<tr>
-		<td>ss_token</td>
-		<td>Token or code to remember the login, expires at month created.</td>
-		<td>Session</td>
-		<td>Owner</td>
-	</tr>
-	<tr>
-		<td>fb_auto_login</td>
-		<td>Indicates when disabling automatic login through Facebook, expires at the end of the session.</td>
-		<td>Session - Complement</td>
-		<td>Owner</td>
-	</tr>
-	<tr>
-		<td>lang-pref</td>
-		<td>Language priority will not expire.</td>
-		<td>Session</td>
-		<td>Owner</td>
-	</tr>
-	<tr>
-		<td>__utma<br>__utmb<br>__utmc<br>__utmz<br>__utmv</td>
-		<td>Allow monitoring of the Website using Google Analytics tool, which is a service provided by Google to obtain information about the user access to websites.</td>
-		<td>Analytic</td>
-		<td>Third Party</td>
-	</tr>
-</tbody>
-</table>		
-		</div><!-- /page-content -->
+<div class="legal">
+	<h5>Last Updated: May 24, 2018</h5>
+	<h2>1. General</h2>
+	<p>LyricsTraining is a service for learning languages in a fun and innovative way through music, videos and song lyrics.</p>
+	<p>Both the website <a href="https://lyricstraining.com">https://lyricstraining.com</a> with all its variants and subdomains, as well as the app with the same name (<a href="https://lyricstraining.com/app">https://lyricstraining.com/app</a>) available for Android and iOS devices, are owned by ELASTHINK, S.L. (hereinafter "<b>Elasthink</b>") located at Calle Fuerteventura 9, Alovera, 19208, Guadalajara, Spain.</p>
+	<p>In <b>Elasthink</b>, we take your privacy very seriously, for this we use all the necessary technical and human means to make sure they do not fall into the wrong hands. Under no circumstances will we give your information to third parties without your consent.</p>
+	<p>Recently we modified our Privacy Policy to make it easier for our users to understand, in compliance with the new European <b>General Data Protection Regulation</b> (<a href="https://www.eugdpr.org" target="_blank">GDPR</a>) which comes into effect on May 25, 2018.</p>
+	<p>Access and use of the website or the app imply that the user has read and accepted this entire Privacy Policy, as well as the terms and conditions of use that can be viewed at the following address: <a href="https://lyricstraining.com/terms">https://lyricstraining.com/terms</a>.</p>
+	<p>Below we describe the data we collect, for what purpose and how it is handled, as well as the procedure so you can exercise your right to change or delete data.</p>
+	<p>If you have any queries, you can contact us at the following email address: <a href="mailto:support@lyricstraining.com">support@lyricstraining.com</a></p>
+	
+	<h2>2. What personal data do we collect?</h2>
+	<p>To access the service, we request the minimum information required.</p>
+	<p>We will never use this information for purposes other than those described here, and you will always have the option to delete your account and all your data permanently, when you think it is appropriate.</p>
+	
+	<h3>2.1 User registration</h3>
+	<p>It is not necessary to register to access the website, although it is recommended so you can enjoy all features of the service. In contrast, to access the app, it is mandatory to be registered.</p>
+	<p>These are the data we request to register you and create a new user account:</p>
+	
+	<h4>Username</h4>
+	<p>We use your username or pseudonym, so we can communicate with you and for displaying your score in the high score tables.</p>
+	<p class="note"><b>NOTE</b>: The username is unique, and it is currently not possible to change it once registration is complete.</p>
+	
+	<h4>Email</h4>
+	<p>We need your email to be able to identify you and to contact you later, for example to confirm registration or to send you important notifications on your service activity and usage.</p>
+	<p class="note"><b>NOTE</b>: We will never use your email to send you unwanted messages, spam or advertising, and in no circumstances will we give your information to third parties.</p>
+	 
+	<h4>Password</h4>
+	<p>To access the service with your username or email we need to verify your identity through a password that we will ask you to register.</p>
+	<p>This password is sent securely and stored fully encrypted so that nobody, inside or outside our organization, can decrypt it.</p>
+	<p class="note"><b>NOTE</b>: If you access through Facebook it is not necessary to enter a password, instead an identifier provided by Facebook is saved to simplify access.</p> 
+	
+	<h4>Country</h4>
+	<p>We ask you to indicate your country of origin or residence, so we can display the corresponding flag next to your username in the high score tables. This also allows you to filter and view the scores of users from the same country as you.</p>
+	 
+	<h4>Gender</h4>
+	<p>We ask you to indicate your gender (male or female) to be able to address you correctly and to select the corresponding default generic image accordingly.</p> 
+	 
+	<h4>Date of birth</h4>
+	<p>You are required to indicate your date of birth, so we can verify your age and restrict access to inappropriate content.</p>
+	
+	<h4>Teachers (only on the website)</h4>
+	<p>To enable access to functions specially designed for teachers, such as the creation of customized exercises, it is necessary you identify yourself as a teacher.</p>
+	
+	<h4>Access through Facebook</h4>
+	<p>When accessing through Facebook or linking your account later, we save the identifier provided by Facebook and use your profile picture for your LyricsTraining account.</p>
+	
+	<h3>2.2 Activity record</h3>
+	<p>When using our service, we store all the information on your activity, the games that you play as well as your best scores.</p>
+	<p>Other users can see your scores when they are among the top ones.</p>
+	
+	<h3>2.3 Content provided by users</h3>
+	<p>You can collaborate with us by adding new content from the "<b>My Lyrics</b>" section of the website using our integrated editor.</p>
+	<p>To do this, you must select a video, then add and synchronize the song’s lyrics or the direct transcription of the video, along with extra information such as title, artist, genre, etc.</p>
+	<p>The videos and lyrics added are carefully reviewed by our team to ensure the quality of the content and to exclude inappropriate content.</p>
+	<p>The lyrics are the exclusive property of the authors and the owners of their rights (copyright), who can request their removal from the website or the app at any time. Under no circumstances are they the property of the users who share the content.</p>
+	<p>In 2015, Elasthink settled an agreement with the major music publishers to authorize the use of lyrics on our website and the app. For more information, contact us.</p>
+	<p>The videos are provided by the YouTube video platform through its "<b>Embeddable Player</b>", with the consent of the authors and owners who allow these videos to be viewed outside the YouTube.com domain.</p>
+	<p>Elasthink does not store all or part of the videos, nor does it process any of the data transferred while they are playing.</p>
+	<p>If you are the author or owner of the rights of any lyric or video and you wish to request its removal or modification, you can contact us at the following email address: <a href="mailto:copyright@lyricstraining.com">copyright@lyricstraining.com</a></p>
+	
+	<h3>2.5 Other data</h3>
+	<p>At present, the following functionality is only available on the website:</p>
+	
+	<h4>My favorites</h4>
+	<p>The user can add and delete their favorite lyrics.</p>
+	
+	<h4>Customized exercises (only for teachers)</h4>
+	<p>Teachers can create customized exercises by selecting the words for students to fill out and then share these exercises with them.</p>
+	
+	<h2>3. Where and how are these data stored?</h2>
+	<p>Your data is stored in a database managed by the company Amazon Web Services, Inc. with the tightest security measures in a data center located in Dublin, Ireland.</p>
+	<p>Amazon Web Services, Inc. is a provider of a diverse range of on demand technology services and computing resources that is backed by a broad global infrastructure and extensive experience.</p>
+	
+	<p>For more information, see the following links:<br>
+		<a href="https://aws.amazon.com/service-terms" target="_blank">https://aws.amazon.com/service-terms</a><br>
+		<a href="https://aws.amazon.com/privacy" target="_blank">https://aws.amazon.com/privacy</a><br>
+	</p>
+	
+	<h2>4. How can these data be viewed, modified or deleted?</h2>
+	<p>To consult and modify your personal and access data, you can access the "<b>My Account</b>" section from the user menu, both on the website and in the app.</p>
+	<p>To completely erase your account and all the stored data, you will find the option "<b>Delete Account</b>" at the end of the "<b>My Account</b>" section; this is only available on the website.</p> 
+	<p>You can also contact us at the support address: <a href="mailto:support@lyricstraining.com">support@lyricstraining.com</a></p>
+	
+	<h2>5. Use of cookies</h2>
+	<p>A cookie is a small piece of information sent by a website that is stored temporarily on the user's computer or mobile device.</p>
+	<p>We use cookies and equivalent technologies to store basic information for running the service, such as the session identifier or the selected language of preference.</p>
+	<p>If you want to avoid the storage of this information, you can disable the use of cookies in your browser, however it is not recommended as they are essential for the smooth functioning of the service.</p>
+	 
+	<h2>6. IP Address of users</h2>
+	<p>Elasthink does not store or carry out any specific handling of the IP address with which users access the service in such a way that it can be associated to or identify a given physical individual. Besides, the IP address may not be the same each time and different users may share the same address.</p>
+	
+	<h2>7. Third party services</h2>
+	<h3>7.1 Youtube</h3>
+	<p>All the videos that are displayed on our website and in the app are provided directly by the YouTube video platform through its "<b>Embeddable Player</b>". Under no circumstances do we store or perform any treatment of the transferred data.</p>
+	<p>YouTube LLC is a company of Google Inc.</p>
+	<p>For more information, consult your terms of service and data privacy:<br>
+		<a href="https://www.youtube.com/terms" target="_blank">https://www.youtube.com/terms</a><br>
+		<a href="https://policies.google.com/privacy" target="_blank">https://policies.google.com/privacy</a><br>
+	</p>
+	
+	<h2>7.2 Google Analytics</h2>
+	<p>To analyze and improve the usage made by our website or app users, we use Google Analytics, a service provided by Google Inc.</p>
+	<p>In LyricsTraining, we have activated the anonymity of the data collected by Google Analytics, so your IP address will be abbreviated.</p>
+	<p>Google Analytics uses the cookies mentioned earlier.</p> 
+	<p>You can find more information at the following links:<br>
+		<a href="https://www.google.com/analytics/terms/us.html" target="_blank">https://www.google.com/analytics/terms/us.html</a><br>
+		<a href="https://support.google.com/analytics/answer/6004245?hl=en" target="_blank">https://support.google.com/analytics/answer/6004245?hl=en</a><br>
+	</p>
+	
+	<h2>7.3 DoubleClick for Publishers</h2>
+	<p>DoubleClick for Publishers is a service provided by Google Inc. that allows you to manage advertising on websites and carry out advertising campaigns in combination with the use of external advertising networks.</p>
+	<p>This service uses cookies to track the behavior of users and improve the advertising that is shown to the user based on their interests and preferences.</p>
+	<p>To disable the use of cookies or to change the settings for personalizing ads, see the following link: <a href="https://adssettings.google.com" target="_blank">https://adssettings.google.com</a></p>
+	<p class="note"><b>NOTE</b>: Elasthink does not share your personal data with any provider or advertising network whatsoever.</p>
+	
+	<h2>8. Changes to this privacy policy</h2>
+	<p>This Privacy Policy may undergo changes in the future, so we recommend you review it regularly.</p>
+	<p>When these changes are sufficiently relevant according to our criteria, we will notify you through a notice when accessing the service or by sending an email to the address associated with your user account.</p>
+	<p>By continuing to access or use our service, we understand that the user is satisfied with the changes made.</p>
+</div>		</div><!-- /page-content -->
 <!-- /23907911/LT_OUTOFPAGE -->
 <div id="div-gpt-ad-1493820251665-0">
 <script>
@@ -274,7 +308,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493820251665-0');
 					</select>
 				</div>
 			</div>
-			<div class="copyright">© 2017 LyricsTraining.com</div>
+			<div class="copyright">© 2018 LyricsTraining.com</div>
 		</div>
 		<div class="right">
 			<div class="links">
