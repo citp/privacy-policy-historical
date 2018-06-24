@@ -1,368 +1,641 @@
-<!--The following is the downloaded HTML source of the gojee.com privacy policy that was archived on 2012-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005075811id_/http%3A//www.gojee.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gojee.com privacy policy that was archived on 2018-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624221905id_/https%3A//www.thenest.com/privacy-policy) for the most accurate reproduction.-->
 
-<html><head></head><body><div class="form-wrapper">
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+<script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"dcf98d8df6","applicationID":"94951305","transactionName":"Jg1YQ0BbXw9RQ05ARwcOX1RtQVpMR0UARFsGPUZWVVEcE0ZYF1FRHD1GWF5dUBo=","queueTime":4,"applicationTime":25,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 
-  <div class="form-header">
-    <h2>Privacy Policy</h2>
+  
+    <meta name="description" content="privacy-policy">
+    <title>Privacy Policy</title>
+
+  
+
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimal-ui">
+  
+
+  <meta name="mobile-web-app-capable" value="yes">
+<meta name="msapplication-square70x70logo" content="https://static.thenest.com/patterns/images/windows-tile-70x70.png">
+<meta name="msapplication-square150x150logo" content="https://static.thenest.com/patterns/images/windows-tile-150x150.png">
+<meta name="msapplication-square310x310logo" content="https://static.thenest.com/patterns/images/windows-tile-310x310.png">
+<meta name="msapplication-TileImage" content="https://static.thenest.com/patterns/images/windows-tile-144x144.png">
+<meta name="msapplication-TileColor" content="#6CC6F0">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://static.thenest.com/patterns/images/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://static.thenest.com/patterns/images/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://static.thenest.com/patterns/images/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://static.thenest.com/patterns/images/apple-touch-icon-60x60-precomposed.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://static.thenest.com/patterns/images/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://static.thenest.com/patterns/images/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://static.thenest.com/patterns/images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="57x57" href="https://static.thenest.com/patterns/images/apple-touch-icon.png">
+<link rel="icon" sizes="228x228" href="https://static.thenest.com/patterns/images/coast-icon-228x228.png">
+<link rel="icon" sizes="196x196" href="https://static.thenest.com/patterns/images/homescreen-196x196.png">
+<link rel="shortcut icon" href="https://static.thenest.com/patterns/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="64x64" href="https://static.thenest.com/patterns/images/favicon.png">
+
+
+
+      <script>document.domain = 'thenest.com';</script>
+
+<script>
+  var XO = window.XO || {};
+  
+    XO.metadata = {"ad_data":{"category":null,"sub_category":null},"enable_ad_bidding":true,"should_load_gpt_async":false,"application":{"name":"content","deployment_environment":"prod"},"page_data":{"kind":"detail"}};
+</script>
+
+<script src="https://static.thenest.com/patterns/javascripts/vendor/jquery.min.js"></script>
+
+  <script src="https://static.thenest.com/patterns/javascripts/tn-bootstrap-head-4.min.js?v=44172292-5e22203e"></script>
+
+<script src="//cdn.optimizely.com/js/539341702.js"></script>
+
+<link href="https://static.thenest.com/patterns/css/tn-bootstrap-4.min.css?v=44172292-5e22203e" rel="stylesheet">
+
+
+
+  
+
+  <meta property="og:love:apikey" content="kfm5r8nb6akvbdafndhmxv3quft6fuvc45w">
+  <link href="/content/assets/public_ui/application-35f8f2861e0b796c74f9138caba4ab5d.css" media="screen" rel="stylesheet">
+  <link href="/content/assets/shared_ui/application-6586dd69a1e411d1701e129a8572a860.css" media="screen" rel="stylesheet">
+
+</head>
+
+<body class="tn" ontouchstart="">
+
+  <div class="wrapper">
+    <div class="main-content">
+      
+        <div class="header-ad ">
+  <div class="ad-container">
+    <div id="js-leaderboard-banner">
+      <script>
+        $(function (){
+          // don't show ad on mobile.
+          if(window.innerWidth < 768) { return; }
+          // don't run script if gpt isn't defined.
+          if(!XO || !XO.ads || !XO.ads.gpt || !XO.ads.gpt.addAsyncSlot) { return; }
+          // don't run script if the page is a detail page
+          if(typeof XO !== "undefined" && typeof XO.metadata !== "undefined" && typeof XO.metadata.page_data && typeof XO.metadata.page_data.kind !== "undefined" && XO.metadata.page_data.kind === "detail"){return;}
+          // collapses empty ads
+          googletag.cmd.push(function () {
+            googletag.pubads().collapseEmptyDivs(true);
+
+            XO.ads.gpt.addAsyncSlot({
+              idSelector: 'js-leaderboard-banner',sizes: [
+                [1920, 300]
+              ],
+              targeting: [
+                ['pos','abovenav']
+              ]
+            });
+          });
+        });
+      </script>
+    </div>
+  </div>
 </div>
-  <div class="form-body">
-    <div class="copy">
 
-      <h3>Overview</h3>
 
-      <p>
-        Gojee provides this Privacy Policy to inform users of our
-        policies and procedures regarding the collection, use and
-        disclosure of personally identifiable information received
-        from users of the Gojee Service, including but not limited
-        to the website
-        at <a href="http://www.gojee.com">http://www.gojee.com</a>,
-        the <a href="mailto:contact@gojee.com">contact@gojee.com</a>
-        email address and the mobile applications created by Gojee.
-      </p>
+    <div id="pushdown" class="pushdown"></div>
+<div class="mask-layer hidden"></div>
+<header id="the-nest" class="">
+  <span class="icon mobile-menu icon-general-hamburger visible-touch"></span>
+  <div class="logo">
+    <a href="/" class="icon icon-general-tn-logo"></a>
+  </div>
 
-      <p>
-        Gojee reserves the right to modify the Privacy Policy
-        without explicit notice. Continued use of the Service after
-        any such changes shall constitute your consent to such
-        changes. You are responsible for reviewing our current
-        Privacy Policy
-        at <a href="http://www.gojee.com/privacy">http://www.gojee.com/privacy</a>
-      </p>
+  <nav id="menu">
+    <ul id="mobile-nav">
+<div class="nav-top">
+  <div class="nav-top-wrapper container">
+      <li class="top-level-nav">
+        <a href="/content/design">Design</a>
+        <span class="icon-brush-stroke icon hidden-xs"></span>
+          <ul class="menu-list menu-list--dropdown">
+              <li class="menu-list-item hide">
+                <a href="/content/cleaning-organizing" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Cleaning + Organizing</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/culture-lifestyle" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Culture + Lifestyle</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/diy" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">DIY</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/garden" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Garden</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/home-decor" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Home Decor</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/home-interiors" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Home Interiors</a>
+              </li>
+          </ul>
+      </li>
+      <li class="top-level-nav">
+        <a href="/content/cook">Cook</a>
+        <span class="icon-brush-stroke icon hidden-xs"></span>
+          <ul class="menu-list menu-list--dropdown">
+              <li class="menu-list-item hide">
+                <a href="/content/how-to-cook" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Cooking 101</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/food-drinks" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Food + Drinks</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/kitchen-gadgets" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Kitchen Gadgets</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/recipes" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Recipes</a>
+              </li>
+          </ul>
+      </li>
+      <li class="top-level-nav">
+        <a href="/content/love">Love</a>
+        <span class="icon-brush-stroke icon hidden-xs"></span>
+          <ul class="menu-list menu-list--dropdown">
+              <li class="menu-list-item hide">
+                <a href="/content/anniversaries" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Anniversaries</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/relationships" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Relationships</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/sex-tips" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Sex Tips</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="https://www.theknot.com/content/getting-engaged-advice" target="_blank" class="menu-list-item__link js-track-header-nav-dropdown-click">Engagement Ideas by The Knot</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="http://www.thebump.com/getting-pregnant" target="_blank" class="menu-list-item__link js-track-header-nav-dropdown-click">Trying to Conceive by The Bump</a>
+              </li>
+          </ul>
+      </li>
+      <li class="top-level-nav">
+        <a href="/content/travel">Travel</a>
+        <span class="icon-brush-stroke icon hidden-xs"></span>
+          <ul class="menu-list menu-list--dropdown">
+              <li class="menu-list-item hide">
+                <a href="/content/destinations" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Destinations</a>
+              </li>
+          </ul>
+      </li>
+      <li class="top-level-nav">
+        <a href="/content/party">Party</a>
+        <span class="icon-brush-stroke icon hidden-xs"></span>
+          <ul class="menu-list menu-list--dropdown">
+              <li class="menu-list-item hide">
+                <a href="/content/entertaining" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Entertaining</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/halloween" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Halloween</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/fathers-day" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Father's Day</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/memorial-day" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Memorial Day</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/christmas" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Christmas</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/st-patricks-day" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">St. Patrick's Day</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/golden-globes" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Golden Globes</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/hanukkah" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Hanukkah</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/oscars" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Oscars</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/olympics" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Olympics</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/mothers-day" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Mother's Day</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/labor-day" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Labor Day</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/passover" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Passover</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/4th-of-july" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">4th of July</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/new-years-eve" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">New Year's Eve</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/thanksgiving" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Thanksgiving</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/kentucky-derby" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Kentucky Derby</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/mardi-gras" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Mardi Gras</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/super-bowl" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Super Bowl</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/easter" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Easter</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/valentines-day" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Valentine's Day</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/fall" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Fall</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/winter" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Winter</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/summer" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Summer</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/spring" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Spring</a>
+              </li>
+          </ul>
+      </li>
+      <li class="top-level-nav">
+        <a href="http://budgeting.thenest.com">Money</a>
+        <span class="icon-brush-stroke icon hidden-xs"></span>
+          <ul class="menu-list menu-list--dropdown">
+              <li class="menu-list-item hide">
+                <a href="http://woman.thenest.com/careers-and-higher-education/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Career Advice</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="http://budgeting.thenest.com/credit-debt/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Credit + Debt</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="http://budgeting.thenest.com/insurance/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Insurance</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="http://budgeting.thenest.com/investing/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Investing</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="http://budgeting.thenest.com/mortgages-remodeling/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Mortgages + Remodeling</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="http://budgeting.thenest.com/saving/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Saving</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="http://budgeting.thenest.com/spending-less/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Spending Less</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="http://budgeting.thenest.com/taxes/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Taxes</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/personal-finance" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Real Estate + Finance</a>
+              </li>
+          </ul>
+      </li>
+      <li class="top-level-nav">
+        <a href="http://woman.thenest.com">Health</a>
+        <span class="icon-brush-stroke icon hidden-xs"></span>
+          <ul class="menu-list menu-list--dropdown">
+              <li class="menu-list-item hide">
+                <a href="http://woman.thenest.com/diet-and-nutrition/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Diet + Nutrition</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="http://woman.thenest.com/fitness-and-well-being/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Fitness + Well Being</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/healthy-living" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Healthy Living</a>
+              </li>
+          </ul>
+      </li>
+      <li class="top-level-nav">
+        <a href="http://pets.thenest.com">Pets</a>
+        <span class="icon-brush-stroke icon hidden-xs"></span>
+          <ul class="menu-list menu-list--dropdown">
+              <li class="menu-list-item hide">
+                <a href="http://pets.thenest.com/birds/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Birds</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="http://pets.thenest.com/cats/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Cats</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="http://pets.thenest.com/dogs/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Dogs</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="http://pets.thenest.com/pet-fish/" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Fish</a>
+              </li>
+              <li class="menu-list-item hide">
+                <a href="/content/pet-lifestyle" target="" class="menu-list-item__link js-track-header-nav-dropdown-click">Pet Lifestyle</a>
+              </li>
+          </ul>
+      </li>
+      <li class="top-level-nav">
+        <a href="http://shop.thenest.com">Shop</a>
+        <span class="icon-brush-stroke icon hidden-xs"></span>
+      </li>
+    <li class="top-level-nav hide" id="top-nav-slot">
+      <a></a>
+    </li>
 
-      <p>
-        This privacy policy applies to your use of the Gojee
-        Service, but not does apply to any third party sites that
-        may be linked to them, or any relationships you may have
-        with the business listed on the Gojee.com Service, nor to
-        individuals Gojee does not employ or manage.
-      </p>
+    <li class="top-level-nav js-tn-global-search global-search">
+      <form action="/search" class="search-form">
+        <div class="form-group">
+          <label for="search" class="visible-touch js-touch-global-search-botton">Search</label>
+          <div class="input-item">
+            <input type="text" class="form-control" name="q" placeholder="SEARCH...">
+          </div>
+          <a href="#">
+            <span class="icon icon-general-search js-global-search-botton"></span>
+          </a>
+        </div>
+      </form>
+    </li>
+    <li class="top-level-nav share-btn">
+      <a href="#" onclick="window.open('http://instagram.com/thenest','InstagramTN','toolbar=1,location=1,directories=0,status=0,menubar=1,scrollbars=1,resizable=1,copyhistory=0,width=600,height=400,left=0,top=0');return false;"><span class="icon icon-social-instagram"></span></a>
+      <a href="#" onclick="window.open('http://pinterest.com/thenest','PinterestTN','toolbar=1,location=1,directories=0,status=0,menubar=1,scrollbars=1,resizable=1,copyhistory=0,width=600,height=400,left=0,top=0');return false;"><span class="icon icon-social-pinterest"></span></a>
+      <a href="#" onclick="window.open('http://facebook.com/thenest','FacebookTN','toolbar=1,location=1,directories=0,status=0,menubar=1,scrollbars=1,resizable=1,copyhistory=0,width=600,height=400,left=0,top=0');return false;"><span class="icon icon-social-facebook"></span></a>
+      <a href="#" onclick="window.open('http://twitter.com/thenest','TwitterTN','toolbar=1,location=1,directories=0,status=0,menubar=1,scrollbars=1,resizable=1,copyhistory=0,width=600,height=400,left=0,top=0');return false;"><span class="icon icon-social-twitter"></span></a>
+      <a href="javascript: void(0)"><span class="icon icon-social-email news-letter"></span></a>
+    </li>
+  </div>
+</div>
 
-      <p>
-        The terms "We", "Us", "Service" and "Gojee" refer to the
-        Gojee Service. The terms "You" and "Your" refer to you, as a
-        user of any of the Gojee Service. The term "Personal
-        Information" and "Your Information" means information that
-        you provide to us which personally identifies you to be
-        contacted or identified, such as your name, phone number,
-        email address, and any other data that is tied to such
-        information. "Your Public Content" refers to the information
-        that you submit or post to the Gojee Service for public
-        display, such as a sightings, reviews, photos, and your
-        public profile information, including your public name (your
-        "Display Name").
-      </p>
+      <div class="visible-touch">
+        <li class="top-level-nav"><a href="/about-us">About Us</a></li>
+        <li class="top-level-nav"><a href="/privacy-policy">Privacy Policy</a></li>
+        <li class="top-level-nav"><a href="/terms-and-conditions">Terms of Use</a></li>
+        <li class="top-level-nav"><a href="/contact-us">Contact Us</a></li>
+        <li class="top-level-nav"><a>©1997-2018 XO Group Inc.</a></li>
+      </div>
+    </ul>
+  </nav>
+</header>
+<div class="news-letter-container hidden">
+  <div class="mask"></div>
+  <div class="modal-body">
+    <span class="icon icon-general-close"></span>
+    <div class="modal-content">
+      <div class="news-letter-sign-up">
+        <div class="get-daily-inspiration">Get Daily Inspiration for Your Best Home Life</div>
+        <div class="sign-up-for-our-news">Sign up for our newsletter to receive recipes ideas, relationship advice, plus renovation and decorating tips.
+        </div>
+        <div class="sign-up-form" data-url="/sign_up">
+          <div class="form-group">
+            <input type="text" placeholder="EMAIL" name="email" id="news-letter-email">
+            <span class="icon icon-general-caret-right"></span>
+            <p class="err-msg"></p>
+          </div>
+          <div class="form-group">
+            <input type="text" placeholder="ZIP CODE" name="zip_code" id="news-letter-zip-code">
+            <span class="icon icon-general-caret-right"></span>
+          </div>
+          <div class="news-letter-buttons text-center">
+            <input type="button" value="JOIN NOW" class="btn-join-now">
+          </div>
+          <div class="agree">By signing up, I agree to <a href="https://www.thenest.com/privacy-policy" target="_blank">The Nest's Privacy Policy</a> and <a href="https://www.thenest.com/terms-and-conditions" target="_blank">Terms of Use</a>.</div>
+        </div>
+      </div>
+      <div class="news-letter-confirmation hidden">
+        <div class="thanks-for-signing-up">Thanks for Signing Up with Us!</div>
+        <div class="please-check-your-inbox">Please check your inbox to confirm your email address. If you didn't
+          receive a confirmation, please resubmit your information or email: <a href="mailto:Help@TheNest.com">Help@TheNest.com</a>.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="blocker-overlay"></div>
 
-      <p>
-        BY USING THE GOJEE SERVICE, YOU AGREE TO BE BOUND BY THE
-        TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THESE
-        TERMS, PLEASE DO NOT USE THE GOJEE SERVICE.
-      </p>
 
-      <p>
-        By using our Service you are consenting to our processing of
-        your information as set forth in this Privacy Policy now and
-        as amended by us. "Processing" means using cookies on a
-        computer or using or touching information in any way,
-        including, but not limited to, collecting, storing,
-        deleting, using, combining and disclosing information, all
-        of which activities will take place in the United States. If
-        you reside outside the U.S. your personally identifiable
-        information will be transferred to the U.S., and processed
-        and stored there under U.S. privacy standards. By using our
-        Service and providing information to us, you consent to such
-        transfer to, and processing in, the US.
-      </p>
+      <main>
+        <article class="full_bleed_container">
+  <div class="category container"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-10 col-md-offset-1">
+        <h1 class="article-headline js-content-title">The Nest Privacy Policy - Your Privacy Rights</h1>
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="row">
+              <div class="col-xs-12">
+                <div class="js-body-content">
+                  <style type="text/css">
+  .js-body-content h3, .js-body-content h4, .js-body-content h5, .js-body-content h6 { font-family: 'CaslonTwoTwentyFour-Book'; font-weight: bold; }
+  .js-body-content h3, .js-body-content h4{ font-size: 16px; }
+  .js-body-content h6{ font-size: 13px; }
+</style>
+<p>Your privacy is important to us. We created this privacy policy ("Policy") to explain the types of information we collect through The Nest websites, online services, mobile and other applications and social networking platforms on which it is posted (each referred to herein as a "Site"), as well as how we will use, disclose and protect this information once it is collected, and how you may be able to opt-out of some of our uses and disclosures of your information. By visiting this Site, you agree to the terms of this Policy as they may be amended from time to time.
+</p>
+<p><strong>As we further describe below, we may share your Personal Information with third parties for their marketing purposes. You can elect for us not to do so by emailing us at
+  <a target="_blank" href="mailto:help@thenest.com">help@thenest.com</a> (please include your name, mailing address, and email address). See "Your California Privacy Rights" below for additional information.
+</strong></p>
+<p>Here are a few general principles to keep in mind as you read through this Policy:</p>
+<ul>
+  <li>This Site is owned or operated by XO Group Inc. or one of its subsidiaries (referred to collectively in this Policy as "The Nest," "we," "us," "our" and other similar pronouns).</li>
+  <li>As our business evolves, this Policy may change, so check back to this page periodically to make sure you understand how your Personal Information will be treated.</li>
+  <li>This Policy is incorporated into, and part of, our <a target="_blank" href="/terms-and-conditions">Terms of Use</a>, which governs your use of the Site as a whole. Additionally, this Policy may be supplemented from time to time by other terms that apply to specific Sites.  All capitalized terms used herein without definition are given the meanings provided for in our Terms of Use.</li>
+  <li>Unless otherwise specified, this Policy does not apply to information that you may provide to us, or that we may obtain, other than from you through our Site, such as over the phone, by mail, or in person.</li>
+  <li><strong>Advertisements that may be displayed to you on this Site and other sites may be customized to your interests and preferences based on your Personal Information and Site usage information (as further described below) collected through our Site. You may be able to opt out of such advertisements, so visit
+    <a rel="nofollow" target="_blank" href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a> and
+    <a rel="nofollow" target="_blank" href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/</a> for more information. Also, note, however, that if you opt-out we may still suggest offerings to you on our Site based on your history at our Site.
+  </strong></li>
+  <li><strong>If you are located outside of the United States, you should know that the information you provide to us is being transmitted to us and processed in the United States and will be protected subject to this Policy and United States laws, which may not be as protective as the laws in your country. Also, this Site places cookies and local shared objects on your computer or device, as further described below. By using the Site, you agree to this.
+  </strong></li>
+</ul>
+<h4>Opt In and Opt Out</h4>
+<p>You may have the right to opt in to or opt out of certain of our uses and disclosures of your Personal Information. For example, when you are asked to provide Personal Information on this Site, you may have the opportunity to elect to, or not to, receive promotional messages from us by e-mail or by Text Message (as defined below). You may unsubscribe from our promotional emails by clicking on the opt-out link within the e-mail you receive. To opt out of our Text Messages, please follow the instructions provided in connection with the particular Text Message campaign. Please understand that it may take us some time to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. You may also tell us that you do not want us to share your Personal Information with third parties for their marketing purposes by emailing us at
+  <a target="_blank" href="mailto:help@theknot.com">help@thenest.com</a>. To stop receiving promotional messages from third parties who already have your contact information, please contact them directly.
+</p>
+<h4>What information is collected on this Site?</h4>
+<h4>Personal Information</h4>
+<p>While you may be able to visit and view content on the Site without providing any Personal Information, we may collect Personal Information on or through the Site in various circumstances.</p>
+<p>"Personal Information" is information that can be used to identify you or contact you as an individual, as well as information attributed with such information. Personal Information includes, for example, your name; age or date of birth; postal address; e-mail address; telephone number; wireless device address; text message address; screen name or username; photograph; gender; geolocation information; payment card and other payment information; event dates and related information; information about your family; and interests, hobbies and demographic information. We collect Personal Information via the Site in a variety of circumstances, such as when you conduct a transaction on our Site; create an account on our Site; edit your online profile; sign up for our newsletters; sign-up for certain services; make online purchases; enter sweepstakes and contests; complete surveys; contribute to a chat room, bulletin board, message board, list serve, blog, wiki or other social forum on the Site; or submit a comment or question to us by using a "contact us" or similar feature on the Site. On some of our Sites, you may not be able to participate in certain activities or access certain content, unless you provide us with the requested Personal Information.
+</p>
+<p>A "tell-a-friend" tool (or similar feature) on the Site or in our e-mails and other communications allows you to send information about our Sites, services and offerings to another person, provided that you will not provide any false names, emails addresses or other identifying information regarding any third parties in connection with your use of the “tell-a-friend” tool. In other circumstances, you may be able to provide us information about other people involved in your event. When you use these services, we will typically ask you for the name or other information (e.g., email addresses) of the other person. This information will be treated in accordance with this Policy. With the "tell-a-friend" or similar feature, we may automatically send an email inviting the recipient(s) to read the content, view the content or vendor or visit the Site. We store this information for purposes of sending this email and tracking the success of our "tell-a-friend" or similar feature. Your "friend" (i.e., the third party whose information you submit using such feature) may email us at
+  <a target="_blank" href="mailto:help@theknot.com">help@thenest.com</a> to request that we remove this information from our database (and in some cases, may be able to opt out of receiving future promotional emails from us).</p>
+<p>We may offer an Internet or mobile-based call or similar feature on the Site that enables you to call merchants or other third parties that are featured on the Site, such as vendors of products and services we think you may be interested in. If you use this feature to call a third party, we will record the phone call and any message you leave for the third party, as well as call information such as the number dialed, the date and time of the call and its duration, and your location as determined by your area code or as otherwise permitted. We may use this information for analytics, auditing and other purposes. You will be notified of this recording when using this feature.</p>
+<h4>Site Usage Information</h4>
+<p>As is the case with many Web sites, our servers automatically collect your IP address when you visit the Site, and we may associate that with your domain name or that of your Internet access provider. We may also capture certain "clickstream data" pertaining to your usage of and navigation around the Site. Clickstream data includes, for example, information about your computer or device, Web browser and operating system and their settings, the referring page that linked you to the Site, the pages or ads you see or click on during your visit and when and for how long you do so, items you download, the next Web site you visit when you leave the Site, and any search terms you have entered on the Site or a referral site. All of this information may be used for a variety of purposes, including, for example, to gather aggregated demographic or statistical information.
+</p>
+<p>In addition, we may deploy various tracking technologies on the Site to collect additional information about your Site visits. These technologies may enable us to, for example, assign a unique number to you, to collect information about your usage of our Site, administer the Site and our systems, and to relate such Site usage information to other information about you, including your Personal Information.
+</p>
+<p><strong>By using our Site, you agree to our use of these tracking technologies.</strong>Examples of the types of tracking technologies deployed on the Site include the following:
+</p>
+<ul>
+  <li>"Cookies" are small data files stored on your computer or device at the request of a Web site. In addition to the general purposes listed above, cookies may enable us to recognize you as the same user who was at our Site in the past, and relate your use of the Site to other information about you, such as other Site usage information and Personal Information. Cookies may also be used to enhance your experience on the Site (for example, by storing your username) and/or to collect general usage and aggregated statistical information. Most browsers can be set to detect cookies and give you an opportunity to reject them, but refusing cookies may, in some cases, limit your use of the Site or its features. To learn more about the use of cookies, including how to manage or delete them, click
+    <a rel="nofollow" target="_blank" href="http://www.networkadvertising.org/consumer-education/education-resources">here</a>.
+  </li>
+  <li>"Local shared objects, such as "Flash cookies," may be stored on your computer or device using a media player or other software installed on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, click
+    <a rel="nofollow" target="_blank" href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118">here</a>.
+  </li>
+  <li>A "pixel tag" (also known as a "clear GIF" or "web beacon") is a tiny image – typically just one-pixel – that can be placed on a Web page or in our electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you’ve opened one of our emails or seen one of our Web pages.
+  </li>
+  <li>"HTML5" (the language some Web sites, such as mobile Web sites, are coded in) may be used to store information on your computer or device about your Site usage activities and to help determine how our Site is being used by our visitors, how it can be improved, and to customize it for our users.
+  </li>
+</ul>
+<p>The above tracking technologies may be deployed by us or our service providers on our behalf. For example, we currently use, and/or in the future may use certain third party vendors to collect Site usage information and track traffic to, from and around the Sites. </p>
+<p>We may use third-party web beacons to help analyze where visitors go and what they do while visiting our website. <strong>By using our Site, you agree to our use of these tracking technologies.
+</strong></p>
+<h4>Do Not Track Disclosures</h4>
+<p>Some web browsers may transmit "do-not-track" signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, we currently do not change our tracking practices (which are explained in more detail directly above) in response to "do-not-track" (DNT) settings in your web browser. If and when a final standard is established and accepted, we will reassess how to respond to these signals.</p>
+<p>Our third party partners, such as ad networks, web analytics companies and social media and networking platforms, collect information about your online activities over time and across our Site and other online properties. These third parties do not change their tracking practices in response to DNT settings in your web browser and we do not obligate these parties to honor DNT settings. Information about how to opt-out from your data being used by third parties can be found above under "Site Usage Information".
+</p>
+<h4>How we may use your information</h4>
+<p>We (or one of our service providers, on our behalf) may use your information (including your Personal Information and Site usage information) for a variety of purposes, such as the following:</p>
+<ul>
+  <li>processing and fulfilling your transactions</li>
+  <li>administering the Site, the Site’s features and services, and your account with us</li>
+  <li>enabling users to use the Site and the Site’s features and services</li>
+  <li>responding to your requests, questions, and concerns</li>
+  <li>developing new features and offerings on the Site</li>
+  <li>sending you marketing and other communications, including information about products, services, and events, of ours and of others, that we think might interest you. You may opt out of receiving such notices from us by following the instructions in the <strong>Opt In and Opt Out</strong> section above.
+  </li>
+  <li>protecting our rights and property</li>
+  <li>customizing the Site to your interests and history with us</li>
+  <li>tailoring ads displayed to you on our Site and elsewhere to your interests and history with us</li>
+  <li>other purposes described at the time you choose to provide Personal Information to us</li>
+</ul>
+<p>To perform the above functions, we may match information collected from you through different means or at different times, including both Personal Information and Site usage information, and use such information along with information obtained from other sources (including third parties) such as demographic information and updated contact information. We or our service providers may also use your information to assess the level of interest in, and use of, the Site, our e-mails and our other messaging campaigns both on an individual basis and in the aggregate.
+</p>
+<h4>How we may share Personal Information and Site usage information with others?</h4>
+<p>We may share the information we collect on the Site with others for a variety of reasons. In addition to the kinds of information sharing you might expect, such as sharing with our subsidiaries, affiliates and third-party providers who need your information in order to provide services to us or on our behalf, and sharing what you voluntarily post to public areas on the Site with other Site users, we may share your information:
+</p>
+<ul>
+  <li>with our affiliates and other third parties (e.g., pre-screened organizations that have offerings we think may interest you, registry program participants, retailers, and other third party partners) for their marketing and other purposes, unless you tell us not to by following the instructions in the <strong>Opt-in and Opt-out</strong> section above;
+  </li>
+  <li>including limited personal information, such as your first name, first initial of your last name, zip code, geographic region and contact information, , with our affiliates and other third parties (e.g., pre-screened organizations that have offerings we think may interest you, registry program participants, retailers, and other third party partners) for their marketing and other purposes;
+  </li>
+  <li>with our co-sponsor(s) if we obtain your information in connection with a contest, sweepstakes, offering, or other promotional activity that is jointly offered by us and any third parties, unless you tell us not to by following the instructions in the <strong>Opt-in and Opt-out</strong> section above;
+  </li>
+  <li>when we believe in good faith that disclosure is necessary to protect our rights or property, protect your safety or the safety of others, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law; and</li>
+  <li>in connection with a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets, or wind-down of a business.
+  </li>
+</ul>
+<p>If you communicate with a vendor through our chat, inbox or other messaging features (including through our "request a quote" feature), we may share personally identifiable information about you and your event (such as your name, email address, location and applicable event details), as well as the contents of your message, so that the vendor may contact you with customized offers and messages. For security purposes, please do not include any password, social security number, payment card or other sensitive information via this service. We reserve the right to monitor messaging between you and our vendors for security and training purposes.
+</p>
+<p>In addition, we may share non-personally identifiable Site usage information (including aggregate data) with others, for their use, in a form that does not include your name or contact information.</p>
+<p>If you participate in certain public or community areas of our Site, such as a chat room, message board, blog, or by creating a public profile), the information you voluntarily disclose will be accessible to other Site members and, in some cases, the general public. You should be cautious about the information you submit to these areas (e.g., make up a username that does not disclose your personal identity). On some of our Sites, you may choose to make your online registries available to guests and friends via a password. If you do not elect this option, then anyone visiting the Site will be able to search for and view your registry by using your first and/or last name and other information regarding your event. Our blog is also (and certain other areas of the Site may also be) managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
+</p>
+<h4>Your California Privacy Rights</h4>
+<p>California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes by emailing us at
+  <a target="_blank" href="mailto:help@theknot.com">help@thenest.com</a>. To find out more about your opt-out rights, see the "Opt-in and Opt-out Section" section above.
+</p>
+<h4>Social Networking</h4>
+<p>We maintain presence on several social networking and blogging platforms, such as Facebook, Instagram and Twitter, Wordpress and Pinterest, and we also may incorporate some third party social networking features onto our Site or utilize third-party provided platforms to publish or manage the Site or portions thereof. Through these platforms and features, we receive some Personal Information and some Site usage information about you, and this Privacy Policy applies to that information as well. In addition, some providers of third party social networking or blogging platforms we utilize (such as Facebook, Instagram and Twitter, Wordpress and Pinterest) have their own privacy policies which explain how the third parties that provide them may collect, use and protect your information (e.g., if you establish an account with such platform providers directly). </p>
+<h4>Mobile Apps</h4>
+<p>We may make available mobile applications (or "apps") that you are able to download to and use from your mobile device. Depending on the nature and functionality of the app, we may collect Personal Information and non-personally identifiable usage information through the app. The app also may collect information about your mobile device, such as your device’s unique device ID (UDID), the IP address of your mobile device, device type, operating system and connection information (e.g., WiFi, 3G, etc.). If you opt-in, some of our apps may collect your device’s precise real-time location, and in such cases, you may be able to opt out from further allowing us to have access to such location data by managing your location preferences in the app and/or on your device. This Policy may be supplemented from time to time with additional terms applicable to individual apps, or individual apps may be subject to separate privacy policies of which we will notify you by posting them on such apps.
+</p>
+<h4>Third-Party Ad Servers and Networks</h4>
+<p>We may use third-party advertising companies to serve ads when you visit the Site. These companies may use information about your visits to this Site and other Web sites in order to provide advertisements about goods and services of interest to you. These advertisements may appear on this Site and on other Web sites. These companies may employ cookies, clear GIFs and other tracking technologies to cause relevant ads to be displayed to you. <strong>For more information about third-party advertisers and how to prevent them from using your information, visit the NAI’s consumer Web site at
+  <a rel="nofollow" target="_blank" href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/</a> or Aboutads.info at
+  <a rel="nofollow" target="_blank" href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a></strong>. We encourage you to read these businesses’ privacy policies to learn about how they treat your information.</p>
+<h4>Wireless Addresses</h4>
+<p>If the e-mail address you provide to us is a wireless e-mail address, you agree to receive messages from us at such address, subject to your opt-out rights as described in the <strong>Opt In and Opt Out</strong> section above. You may change your e-mail preferences at any time, but your wireless carrier’s standard rates will apply as long as you are receiving messages at a wireless e-mail address. If you give us a wireless e-mail address, you represent that you are the owner or authorized user of the device on which messages will be received and that you are authorized to approve the applicable charges.</p>
+<h4>Text Message Service and Other Communication</h4>
+<p>We may seek to send messages to you on your wireless device via short message service ("Text Messaging"). By submitting your mobile phone number, you consent to receive text messages and offerings from us to the mobile device associated with that number using an automatic system for such purposes unless and until you elect not to receive such messages by following the opt-out instructions provided in connection the particular campaign. </p>
+<p>You represent that you are the owner or authorized user of the device you use to sign up for Text Messaging, and that you are authorized to approve the applicable charges. You may not consent on behalf of someone else. You consent to receive phone calls from us even if your phone number is listed on the federal or state "do not call" registries. You must be 18 years of age or older and reside in the United States to use our Text Messaging. You must first register and provide all required Personal Information, such as your name, text address, wireless carrier, and billing information (if fees are applicable to the Text Messaging), which may be either your payment card information or mobile service carrier information. We may also obtain the date, time and content of your messages in the course of your use of Text Messaging. We will use the information we obtain in connection with our Text Messaging in accordance with this Policy. Messages may be about our promotional offerings. You are not required to agree to this in order to purchase goods or services from us. An auto-dialer and/or artificial or prerecorded message may be used to make calls to you. Mobile access is required for Text Messaging, and text messages are not available on some carriers and devices. If fees are charged to your wireless account invoice, we may provide information to your carrier about them. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. We may also access the content of your account and/or wireless account with your carrier for the purpose of identifying and resolving technical problems and/or service-related complaints.
+</p>
+<p>You may opt out of Text Messaging at any time by following instructions provided in connection the particular campaign, but your wireless carrier’s standard rates will apply to any messages you receive. Your opt-out will be effective once we send you a text confirmation of your opt-out. You will then be placed on our "do-not-contact" list for marketing purposes. (We may still contact you about your transactions with us.) If you are a Nevada resident, you may contact the Nevada Attorney General for more information about your opt out rights by calling 775-684-1100, emailing
+  <a target="_blank" href="mailto:bcpinfo@ag.state.nv.us">bcpinfo@ag.state.nv.us</a>, or by writing to: Office of the Attorney General, Nevada Department of Justice, Bureau of Consumer Protection, 100 North Carson Street, Carson City, NV 89701-4717. You agree to enter into, sign and receive this consent to receive text messages electronically. Print this page using your Internet-connected computer or device and web browser to retain a copy of your consent.
+</p>
+<h4>Your Access Rights</h4>
+<p>You may be able to review, update or modify certain of the Personal Information that is stored in a user account set up with us on the Site (if you have one with us on the Site) by emailing us at
+  <a target="_blank" href="mailto:help@thenest.com">help@thenest.com</a>. We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to delete your information is subject to our records retention policies.</p>
+<h4>Security</h4>
+<p>We use various efforts intended to safeguard the security and integrity of Personal Information collected on this Site. For example, where appropriate, we use Secure Sockets Layer (SSL), private networks, intrusion detection measures and firewalls, and payment card information is encrypted in our system. We also have in place various access controls and restrictions with respect to Personal Information, such as restricting certain employees from accessing Personal Information, requiring our employees to use password-protected screen-savers when they leave their desk and passwords to regain access upon their return, and keeping employees up-to-date on our security and privacy practices. Additionally, the servers that we store Personal Information on are kept in a secure environment, subject to various physical access controls. Despite these measures, however, we cannot and do not guarantee that information will be absolutely safe from interception during transmission or intrusion during storage, while stored on our system, or otherwise.
+</p>
+<p>If you correspond with us by e-mail, text message, or using Web forms like a "contact us" feature on our Site, you should be aware that your transmission might not be secure from access by unauthorized parties. We have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission. If you create an account on our Site, you are responsible for maintaining the confidentiality of your account password and for any activity that occurs under your account. Please notify us of any unauthorized use of your password or account. If we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you. If we have your e-mail address, we may notify you by e-mail. <strong>You consent to our use of e-mail as a means of such notification. If you prefer for us to use the U.S. Postal Service to notify you in this situation, please e-mail us at <a target="_blank" href="mailto:help@thenest.com">help@thenest.com</a>.</strong></p>
+<h4>Links to other Web sites</h4>
+<p>The Site may contain links, banners, widgets or advertisements (e.g., a "Share It!" button) that lead to other Web sites not subject to this Privacy Policy (including other sites that may be co-branded with our brands). Thus, the posted policies of these other sites will govern the collection and use of your information thereon, and we encourage you to read each such privacy statement to learn about how your information may be treated by others. Additionally, on some of our Sites, you may be able to register with or purchase directly from third party retailers, and these other companies’ information practices are governed by their privacy policies.</p>
+<h4>Children under the Age of 13</h4>
+<p>The Site is not intended for children under 13 years of age. We do not knowingly collect or store any personally identifiable information from children under the age of 13. If you are under 13, please do not register on the Website, make purchases through the Website or send any information about yourself to us, including your name, address, telephone number or email address. If you believe that we might have any information from a child under the age of 13, please contact us at
+  <a target="_blank" href="mailto:security@theknot.com">security@thenest.com</a>.
+</p>
+<h4>Changes to this Policy</h4>
+<p>We may change this Policy from time to time. When we do, we will let you know by posting the changed Policy on this page with a new "Last Updated" date. In some cases (for example, if we make certain material changes), we may inform you by additional means, such as by sending you an e-mail. In some cases, we may obtain your consent to the changes.
+</p>
+<h4>Contact Us</h4>
+<p>If you have any questions or comments regarding our privacy practices, you should first contact The Nest Member Services by emailing <a target="_blank" href="mailto:help@thenest.com">help@thenest.com</a> and writing "Privacy Policy" in the subject line. You may also write to The Nest Member Services at 195 Broadway, Floor 25, New York, NY 10007 or call (877) 843-5668.
+</p>
+<br>
+<h6 style="font-size: 15px">Last Updated: JUNE 1, 2016</h6>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+      </main>
+        <footer class="global-footer ">
+<div class="business-footer">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-5 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+        <ul class="list-horizontal">
+          <li><a href="/about-us" target="_blank" data-footer-track-link="about-us">About Us</a></li>
+          <li><a href="http://xogroupinc.com/xo-group-careers/" target="_blank" data-footer-track-link="careers">Careers</a></li>
+          <li><a href="http://ir.xogroupinc.com/investor-relations/investor-overview/default.aspx" target="_blank" data-footer-track-link="investors">Investors</a></li>
+          <li><a href="http://xogroupinc.com/press-room/" target="_blank" data-footer-track-link="media">Media</a></li>
+          <li><a href="http://xogroupinc.com/xo-group-advertising/" target="_blank" data-footer-track-link="advertisers">Advertise with Us</a></li>
+          <li class="hidden-xs hidden-sm"><span class="divider" id="">|</span></li>
+          <li class="bump-link hidden-xs">
+            Check out our sister sites 
+            <a href="http://www.theknot.com" target="_blank" data-footer-track-link="theknot"><span class="icon icon-general-tk-logo"></span></a>
+            <a href="http://www.thebump.com" target="_blank" data-footer-track-link="thebump"><span class="icon icon-general-tb-logo"></span></a>
+          </li>
+        </ul>
+      </div>
 
-      <p>
-        If you have any questions or comments about this Privacy
-        Policy or our use of your personally identifiable
-        information, please contact us
-        at <a href="mailto:contact@gojee.com">contact@gojee.com</a>.
-      </p>
+      <div class="col-xs-5 col-sm-12">
+        <ul class="list-horizontal">
+          <li class="hidden-xs">©1997-2018 XO Group Inc.</li>
+          <li><a href="/privacy-policy" target="_blank" data-footer-track-link="privacy policy">Privacy Policy</a></li>
+          <li><a href="/terms-and-conditions" target="_blank" data-footer-track-link="terms of use">Terms of Use</a></li>
+          <li><a href="/contact-us" data-footer-track-link="send feedback - desktop" target="_blank">Contact Us</a></li>
+          <li class="visible-xs"><a href="http://www.theknot.com" target="_blank" data-footer-track-link="theknot">The Knot</a></li>
+          <li class="visible-xs"><a href="http://www.thebump.com" target="_blank" data-footer-track-link="thebump">The Bump</a></li>
+        </ul>
+      </div>
+      <div class="visible-xs">
+        <div class="col-xs-12">
+          <p class="copyright-footer">©1997-2018 XO Group Inc.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</footer>
 
-      <h3>Information Collection and Use</h3>
 
-      <p>
-        Our primary goal in collecting Personal Information and Your
-        Shopping History is to provide you with a personalized,
-        useful, and efficient experience. We collect the following
-        types of information from our users:
-      </p>
+    </div>
+  </div>
 
-      <p>
-        Personal Information. If you create an account to take
-        advantage of the full range of services offered on the Gojee
-        Service, we ask for and record Personal Information such as
-        your email address. Your Personal Information will not be
-        visible to other users.
-      </p>
+    <script src="https://static.thenest.com/patterns/javascripts/tn-bootstrap-4.min.js?v=44172292-5e22203e"></script>
+  <script src="https://static.thenest.com/patterns/javascripts/tn-analytics.js"></script>
 
-      <p>
-        Your Shopping History.  By signing up for Gojee, you
-        authorize Gojee access to your shopping history with our
-        partner retailers.  This information will not be visible to
-        other users unless you decide to share it through a Gojee
-        authorized feature.
-      </p>
 
-      <p>
-        Your Public Content. By submitting Your Public Content to
-        Gojee, including your public profile information such as
-        your Display Name, you recognize that we store and may
-        publicly display Your Public Content, along with your
-        Display Name, in order to provide the services that we
-        offer.
-      </p>
+  
+  <script>
+    XO.love.init();
+  </script>
+  <script src="/content/assets/public_ui/application-09e4e49997161d783a850e38f43d128c.js"></script>
+  <script src="/content/assets/shared_ui/application-f0de5ba0e89e0b801cbb1c1f31d6aab8.js"></script>
 
-      <p>
-        Feedback. If you contact us to provide feedback, register a
-        complaint, or ask a question, we will record any Personal
-        Information and other content that you provide in your
-        communication so that we can effectively respond to your
-        communication.
-      </p>
 
-      <p>
-        Activity. We record information relating to your use of the
-        Gojee Service, such as the searches you undertake, the pages
-        you view, your browser type, IP address, requested URL,
-        referring URL, and timestamp information. We use this type
-        of information to administer the Gojee Service and provide
-        the highest possible level of service to you. We also use
-        this information in the aggregate to perform statistical
-        analyses of user behavior and characteristics in order to
-        measure interest in and use of the various areas of the
-        Gojee Service. You cannot be identified from this aggregate
-        information.
-      </p>
+  <!-- the_nest_layout v1.2.5 -->
+  <!-- pattern library  domain https://static.thenest.com/patterns -->
+  <!-- analytics and A/B scripts: prod  -->
 
-      <p>
-        Login location. When you Loginto Gojee, we use your
-        approximate physical location (based on the Internet
-        Protocol address of your computer or your Current Location,
-        should you choose to provide it, via your iPhone) to provide
-        more relevant suggestions to you.
-      </p>
 
-      <p>
-        Cookies. We send cookies to your computer in order to
-        uniquely identify your browser and improve the quality of
-        our service. The term "cookies" refers to small pieces of
-        information that a website sends to your computer's hard
-        drive while you are viewing the Service. We may use both
-        session cookies (which expire once you close your browser)
-        and persistent cookies (which stay on your computer until
-        you delete them). Persistent cookies can be removed by
-        following your browser help file directions. If you choose
-        to disable cookies, some areas of the Gojee Service may not
-        work properly or at all.
-      </p>
 
-      <p>
-        Enforcement. We may use the information we collect in
-        connection with your use of the Service (including your
-        Personal Information) in order to investigate, enforce, and
-        apply our Terms of Service and Privacy Policy.
-      </p>
 
-      <h3>Transfer of Information</h3>
-
-      <p>
-        We may distribute Your Public Content to third parties, as
-        permitted pursuant to our Terms of Service. The third
-        parties may in turn publicly display or publish Your Public
-        Content in connection with their own websites and media
-        platforms. When we distribute Your Public Content to third
-        parties, we typically include your Display Name (but not
-        your Personal Information unless you include your Personal
-        Information in Your Public Content).
-      </p>
-
-      <p>
-        We may share your Personal Information and Your Shopping
-        History with third parties to provide you with services that
-        we offer through Gojee Service (i.e. Coupons), conduct
-        quality assurance testing, facilitate creation of accounts,
-        provide technical and customer support, or provide specific
-        services, such as synchronization of your contacts with
-        other software applications, in accordance with your
-        instructions. These third parties are required not to use
-        your Personal Information other than to provide the services
-        requested by you.
-      </p>
-
-      <p>
-        We may share your Personal Information and Shopping History
-        with subsidiaries, joint ventures, or other companies under
-        a common control (collectively, "Affiliates") that we may
-        have now or in the future, in which case we will require
-        them to honor this Privacy Policy. If another company
-        acquires our company or our assets, that company will
-        possess your Personal Information, and will assume the
-        rights and obligations with respect to that information as
-        described in this Privacy Policy.
-      </p>
-
-      <p>
-        We may disclose your Personal Information or Shopping
-        History to third parties in a good faith belief that such
-        disclosure is reasonably necessary to (a) take action
-        regarding suspected illegal activities; (b) enforce or apply
-        our Terms of Service and Privacy Policy; (c) comply with
-        legal process, such as a search warrant, subpoena, statute,
-        or court order; or (d) protect our rights, reputation, and
-        property, or that of our users, affiliates, or the
-        public. Please note that we are not required to question or
-        contest the validity of any search warrant, subpoena or
-        other similar governmental request that we receive.
-      </p>
-
-      <p>
-        We may disclose information in the aggregate to third
-        parties relating to user behavior in connection with actual
-        or prospective business relationship with those third
-        parties, such as advertisers and content distributors. For
-        example, we may disclose the number of users that have been
-        exposed to, or clicked on, advertising banners.
-      </p>
-
-      <p>
-        We may use third party advertising companies to serve ads
-        when you visit the Gojee Service. These companies may use
-        information about Your Public Content (not including your
-        name, address, email address, or telephone number), Your
-        Shopping History and Activity related to your use of the
-        Gojee Service to provide advertisements about goods and
-        services of interest to you.
-      </p>
-
-      <h3>Others' Information</h3>
-
-      <p>
-        You may choose to provide us with another person's e-mail
-        address so that person may be invited to create an account
-        on this website and become your friend. We use this
-        information to contact and, if necessary, remind that person
-        about the invitation. By providing us with another person's
-        e-mail address, you represent to us that you have obtained
-        the consent of the person concerned as regards such
-        disclosure to us of their Personal Information. We may
-        disclose such information if required to do so in order to
-        comply with legal process, as described above.
-      </p>
-
-      <h3>Links</h3>
-
-      <p>
-        The Gojee Service may contain links to third party websites
-        to which we have no affiliation. Except as set forth herein,
-        we do not share your Personal Information with those third
-        parties, and are not responsible for their privacy
-        practices. We suggest you read the privacy policies on all
-        such third party websites.
-      </p>
-
-      <h3>Controlling Your Personal Data</h3>
-
-      <p>
-        To the extent you include Personal Information in Your
-        Public Content (such as a photo of yourself), third parties
-        may be able to identify you, associate you with your user
-        account, and contact you. Please do not include information
-        in Your Public Content that you expect to keep private.
-      </p>
-
-      <p>
-        Third parties can also associate you with your user account
-        using the user search and browse features of the Gojee
-        Service, which display Your Public Content. Third parties
-        can only find you using your Personal Information if they
-        know this information in the first place.
-      </p>
-
-      <p>
-        You may request to deactivate your account at any time by
-        contacting Gojee. If you deactivate your account, we will
-        use commercially reasonable efforts to stop displaying your
-        profile on the Service. Public Content that you have
-        contributed to Gojee prior to account deactivation (such as
-        sightings of food or comments on sightings) may continue to
-        displayed. We may still retain your Personal Information and
-        Your Public Content in our systems. Registered users who
-        wish to close their account should contact us at
-        <a href="mailto:contact@gojee.com">contact@gojee.com</a>.
-      </p>
-
-      <h3>Security</h3>
-
-      <p>
-        Your account is password protected. We use industry standard
-        measures to protect the Personal Information that is stored
-        in our database. Your password will never be visible to
-        members of the Gojee team.
-      </p>
-
-      <p>
-        We are very concerned about safeguarding the confidentiality
-        of your personally identifiable information. We employ
-        administrative, physical and electronic measures designed to
-        protect your information from unauthorized access. Although
-        we take appropriate measures to safeguard against
-        unauthorized disclosures of information, we cannot assure
-        you that your Personal Information will never be disclosed.
-      </p>
-
-      <p>
-        You hereby acknowledge that Gojee is not responsible for any
-        intercepted information sent via the internet, and you
-        hereby release us from any and all claims arising out of or
-        related to the use of intercepted information in any
-        unauthorized manner.
-      </p>
-
-      <p>
-              We will make any legally-required disclosures of any breach
-              of the security, confidentiality, or integrity of your
-              unencrypted electronically stored personal data to you via
-              email or conspicuous posting on this Site in the most
-              expedient time possible and without unreasonable delay,
-              consistent with (i) the legitimate needs of law enforcement
-              or (ii) any measures necessary to determine the scope of the
-              breach and restore the reasonable integrity of the data
-              system.
-      </p>
-
-      <h3>E-mails</h3>
-
-      <p>
-        We use your email address to send you updates and news and
-        to notify you on behalf of other users (such as other users
-        who comment on or "want" your sighting). Your email address
-        and Personal Information will not be displayed publicly.
-      </p>
-
-      <h3>Membership Policy for Children</h3>
-
-      <p>
-        Our Service and the services available through Gojee are not
-        intended for children under the age of 13. Gojee does not
-        knowingly or specifically collect information about children
-        under the age of 13 and believes that children of any age
-        should get their parents' consent before giving out any
-        Personal Information.
-      </p>
-
-      <h3>Questions or Concerns</h3>
-
-      <p>
-        If you have any questions or concerns regarding privacy,
-        please contact us
-        at <a href="mailto:contact@gojee.com">contact@gojee.com</a>. Your
-        privacy is important to us and we will make every effort to
-        resolve your concerns.
-      </p>
-
-</div></div>
-</div></body></html>
+</body></html>
