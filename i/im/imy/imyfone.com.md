@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imyfone.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531173858id_/https%3A//www.imyfone.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imyfone.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624131743id_/https%3A//www.imyfone.com/company/privacy-policy) for the most accurate reproduction.*
 
 # iMyFone Privacy Policy
 
@@ -22,5 +22,4 @@ We protect the personal information you share with us. For example, if you make 
 
 Authorized third parties may need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We limit such third parties in their access and use of your personal information.
 
-We do not otherwise share your personal information with third parties, unless you have granted us permission to do so.  
-
+We do not otherwise share your personal information with third parties unless you have granted us permission to do so.
