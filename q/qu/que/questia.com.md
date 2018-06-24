@@ -1,73 +1,79 @@
-> *The following text is extracted and transformed from the questia.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904161759id_/https%3A//www.questia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questia.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624202452id_/https%3A//www.cengage.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Questia, Your Online Research Library
+# Privacy - Cengage
 
-(Last updated: July 2012)
+##    
+Cengage is Committed to Respecting your Privacy
 
-**Introduction**
+We have a Global Privacy Policy that has been implemented across all Cengage Learning Companies, that protects all the Personal Information we receive from you as well as information we receive from schools and other third parties. It protects information collected online as well as offline.
 
-Questia is committed to safeguarding the personal information of our customers and online visitors. Please read the following policy to understand the treatment of your personal information and what options you have to direct our activities. 
+This Program and Policy set the standards for Cengage both as a Controller (for its own data) and as a Processor (for its clients).  Additionally, we have updated our Privacy Program controls to address new requirements under GDPR. For more information, please read our complete Notice, linked to below or contact [privacy@cengage.com](mailto:privacy@cengage.com).
 
-By registering or using the QuestiaSM service, or accessing any Questia website, you agree to the terms of our privacy policy. 
+If you are an educator, parent, or student, Cengage Learning is a service provider to your school or organization; please reach out to the appropriate contact at your school or organization with questions or inquiries. This notice does not cover other organizations' sites that may be accessible via links on our sites. These sites have their own privacy policies and we encourage you to read them.
 
-Specific questions or comments regarding this policy should be directed to Questia by [sending us an email](https://web.archive.org/contact-us?i=Other). A complete description of your rights and duties concerning use of this site is given in our [User Agreements](https://web.archive.org/user-agreements). 
+We also want our privacy practices to be very clear, so you can interact with us in confidence. The statements and links below may answer your questions about how we handle your Personal Information. For a complete notice, view the [Cengage Privacy Notice](http://www.cengage.com/privacy/statement). If you have any other questions, please contact us.
 
-**1\. Information collected**
+{{formPostErrorMessage.message}} [{{formPostErrorMessage.code}}] 
 
-Our primary goal in collecting personal information is to enable us to provide you with an efficient, customized experience while you use the Questia service. To fully use our service, you will need to register using our [ online registration form ](https://web.archive.org/subscribe) where you will be required to provide certain personal information. 
+##  Privacy Program Highlights 
 
-Once you register, you can use [your account page](https://web.archive.org/account/) to review and change the information that you submitted during registration at any time. 
+**We do not allow any children under 13 to register with Cengage, and we do not knowingly collect or use any Personal Information pertaining to children under 13 for our own purposes.**  If you believe that a child under 13 years of age has provided Personal Information to us, please contact [privacy@cengage.com](mailto:privacy@cengage.com) so that we may delete the information and take other appropriate steps to the protect the child.
 
-Upon request we will remove your personal information from our operational databases (unless your account is in dispute, in which case it will be kept until the dispute is resolved). In order to remove information, please [contact us](https://web.archive.org/contact-us?i=Other). Technical constraints and the fact that we back up our system may prevent the total elimination of all of your personally identifying information. 
+We have websites that enable parents and teachers to create accounts for children. We encourage parents and teachers to spend time online with children and to monitor their online activities.
 
-Occasionally we solicit additional information from you through the use of optional questionnaires. None of this additional information is required for your continued use of our service. 
+_We also provide digital products for use by children in K-12 schools, sometimes done  through LMS integrations, but we only collect and process information pertaining to these children as a processor for the educational institutions.  We do not use identifiable K-12 student information for our own purposes.  Additionally, many student records are protected by the Family and Educational Rights Privacy Act (FERPA). For information on your K-12 school’s privacy policies, please contact the administration._
 
-In addition to the information we require for registration, we automatically track certain information about you based upon your use of our site. This information may include websites you come from and go to from ours, what browser you are using, your IP address and what searches you perform in our service. This information is compiled and analyzed on an aggregated basis. 
+The [Cengage Privacy Notice](http://www.cengage.com/privacy/statement) describes how we handle the Personal Information we collect from college and higher-ed students, adult learners and others who register with Cengage and use our products for their own educational purposes. Here are the highlights of our practices:
 
-On certain pages of our site, and with certain features of our service, we use cookies. You are always free to decline our cookies if your browser permits, although in that case you may be required to reenter your password more frequently during a session, and may not experience a fully-customized experience. 
+  * We collect Personal Information directly from you and other third parties (such as social media platforms, if you login to our applications from these sites).  We also collect information automatically when you use our products and applications. We use your Personal Information to provide you with the products and services and for related purposes (such as billing, customer service and product development). Depending on your preferences, we may send you marketing communications, including messages from our partners. You can opt-out of receiving marketing from us at any time by following the opt-in instructions contained in each communication.
+  * We may share your Personal Information with your school. For example, your instructors have access to all of the information generated by your use of the products you use for class. We may also provide Personal Information to your school as needed to investigate possible academic fraud or cheating. Your school uses your Personal Information in accordance with its own privacy policies.
+  * We may share your Personal Information with co-branding partners and other third parties with your consent. For example, you may use third-party apps via MindTap or MyCengage that provide services and features offered by third parties.
+  * We may share your Personal information with carefully selected third parties that provide products and services that may be of interest to you. For example, we may share information about pre-med students with companies that offer test prep services for medical school admissions.  If you do not want us to share your Personal Information with these third parties for their own marketing purposes, you can opt-out by contacting our Customer Service department by email at: [cengagebrain.support@cengage.com](mailto:cengagebrain.support@cengage.com) or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET).
+  * We may also share your Personal Information with other Cengage companies, our service providers (who do not use your information for their own purposes) and as required or permitted by law (such as in response to a subpoena or in connection with the sale of a business).
+  * If you have any questions about privacy, you can always contact us at [privacy@cengage.com](mailto:privacy@cengage.com).
 
-If you send us personal correspondence or if other users or third parties send us correspondence about your activities, we may collect such information into a file specific to you. 
 
-**2\. Control of your password**
 
-You may not disclose or share your Questia password with any third party. If you lose control of your password, you may lose substantial control over your personally identifying information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change it on [your account page](https://web.archive.org/account/). 
 
-**Use of your information**
+The [Cengage Privacy Notice](http://www.cengage.com/privacy/statement) describes how we handle the Personal Information we collect from teachers, instructors, school administrators, authors, editors, contributors and other educational professionals.  Here are the highlights of our practices:
 
-We use your personally identifying information and information about your usage internally to improve our services. We may use your contact information to send you administrative/renewal notices or information on new services, promotions, and targeted advertisements. While you may not opt out of the administrative/renewal notices, you may do so for the promotional ones by choosing this preference on [ your account page ](https://web.archive.org/account/). 
+  * We collect Personal Information directly from you as well as from your school and other third parties (such as social media platforms, if you login to our applications from these sites).  We also collect information automatically when you use our products and applications.
+  * We use your Personal Information to provide you with the products and services and for related purposes (such as billing, customer service and product development).
+  * Depending on your preferences, we may send you marketing communications, including messages from our partners. You can opt-out of receiving marketing from us at any time by following the opt-in instructions contained in each communication.
+  * We may share your Personal Information with your school or company. For example, we provide our institutional clients with reports about how their instructors (and their students) use our products, including information that compares instructors within an organization.
+  * We may share your Personal Information with co-branding partners and other third parties with your consent. For example, you may use third-party apps via MindTap or MyCengage that provide services and features offered by third parties. We may share your Personal Information with carefully-selected third parties that provide products and services that may be of interest to you.  For example, we may provide subscriber lists containing your contact information with other publishers that offer products or services to educational professionals. If you do not want us to share your information with these third parties for their own marketing, you can opt-out by contacting our Customer Service department by email at: [cengagebrain.support@cengage.com](mailto:cengagebrain.support@cengage.com) or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET).
+  * We may share your Personal Information with other Cengage companies, our service providers and as required or permitted by law (such as in response to a subpoena or in connection with the sale of a business).
+  * If you have any questions about privacy, you can always contact us at [privacy@cengage.com](mailto:privacy@cengage.com).
 
-While it is not our practice to monitor or review material you store on our site, we may access this information for system maintenance, troubleshooting activities, or legal reasons. The information that we place in the file that we maintain about you, including your current and past activities on our site, may also be used for similar purposes. 
 
-**4\. Disclosure of collected data**
 
-_Advertisers._ We aggregate information and disclose this information to advertisers and use it for other marketing and promotional purposes. We do not disclose to third parties any information that could reasonably be used to personally identify or contact you. 
+##  Additional Privacy Program Information 
 
-_Co-Branded Service Providers._ Questia offers its users and subscribers the opportunity to use a number of third-party services from our site (e.g., moderated chat). If you choose to use these optional services, we will provide only so much of your personal information as is necessary to affect your use of the Co-Branded Service Providers' services. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services. 
+#### Privacy Statement for Hosted School Websites
 
-_Suppliers and Other Service Providers._ We may use third-party Suppliers and Service Providers to facilitate some of our services. In some instances, the Service Provider may collect information directly from you (e.g. we ask a Service Provider to conduct a survey for us). In these cases, all information disclosures you make will be strictly optional, and we contractually restrict how they may access, use and disclose your information. We do not permit the sale of your information to third parties by these Suppliers and Other Service Providers. 
+Certain Cengage businesses, like Ed2Go, administer websites that provide course materials and services for educational institutions and companies. Information collected on these websites is only used by us to support our clients and provide the services requested by the course instructors. We do not use this information for our own purposes. Most educational institution student course records are also protected by the Family and Educational Rights Privacy Act (FERPA). For information on your company or school's privacy policies, please contact the administration.
 
-_Questia Subsidiaries and Joint Ventures._ We may share our data or transfer assets, including personally identifying information about you, with our corporate parent and subsidiaries, joint ventures, or other entities that are in common control with Questia. To the extent that these entities are given access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. As our business develops we may purchase another organization and, in so doing, acquire customer information that will be protected by the guidelines set forth by this privacy policy. 
+Our hosted websites may offer students and professionals the opportunity to interact directly with Cengage Learning.  If so, the [Cengage  Privacy Notice](http://www.cengage.com/privacy/statement) **** will apply to that information.
 
-_Disclosure of Customer Information Through Business Transfers._ As our business develops we may purchase another organization and, in so doing, acquire customer information. Also, in the event that Questia transfers its assets to our corporate parent or to one or more subsidiaries, joint ventures, or other entities in common control, or sells all or substantially all of our assets to a third party, customer information will of course be one of the transferred assets. 
+#### Social Security Number Policy Statement
 
-_Legal Requests._ We may decide or be required to disclose information to law enforcement, other government authorities, or third parties under certain circumstances. We can (and you authorize us to) disclose any information about you that we, in our sole discretion, believe is necessary or appropriate, in connection with an investigation of fraud, infringement of intellectual property rights, third-party lawsuits, or other activity that is illegal or may expose us to legal liability. 
+Cengage, Inc. and its affiliates collect U.S. Social Security numbers and other sensitive Personal Information in the ordinary course of its business. We have implemented reasonable technical, physical and administrative safeguards to help protect sensitive Personal Information from unlawful use and unauthorized disclosure. All Cengage workers are required to follow these established safeguards, which include the following:
 
-**5\. Other information collectors**
+  * Access to sensitive Personal Information is limited to those workers and service providers who have a need to access the information to perform tasks for Cengage. Sensitive Personal Information is only disclosed to third parties in accordance with Cengage's established privacy and security policy.
+  * Cengage will only disclose sensitive Personal Information (1) to those service providers, auditors, advisors and/or successors in interest who are legally or contractually obligated to protect them, or (2) as required or permitted by law.
 
-In addition to the information we require for registration, Questia also contracts with third parties to help us understand how people use our web site and to provide functionalities such as email distribution, ad serving and customer surveys. These companies also use cookies. They may also use other tracking technologies, such as web beacons (also known as clear GIFs, web bugs, tracking pixels or action tags), which are similar in function to cookies, allowing them to determine when users have reached particular web pages on the Questia site. 
 
-**6\. A special note about children**
 
-Questia meets the terms set forth by the Children's Online Privacy Protection Act of 1998 (COPPA). Except for students who use our services through a school-based subscription, we do not knowingly collect information online from children under the age of 13. Additionally, we never gather any information from the children who are using it through their school that could be used to contact them individually. Parents are allowed at any time to access the information that we have collected on their child. We do not condition a child's or school's participation in any activity by requiring them to provide more information about themselves. For questions specifically regarding the privacy of children on our site, please [ contact Customer Service ](https://web.archive.org/contact-us?i=Other). 
+If you have any questions, please contact us at [privacy@cengage.com.](mailto:privacy@cengage.com)
 
-**7\. A special note about non-U.S. subscribers**
+#### Your California Privacy Rights
 
-If you are a non-U.S. citizen, by subscribing to the Questia service or by providing any personally identifying information as a non-subscriber, you explicitly grant us the right to transfer that information to the United States Government. 
+California Civil Code Section 1798 allows California residents to ask companies with whom they have an established business relationship to provide certain information about the companies’ sharing of Personal Information with third parties for direct marketing purposes.
 
-**8\. Security**
+California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices may contact us at [privacy@cengage.com](mailto:privacy@cengage.com) or by writing to:
 
-Questia uses industry standard efforts to safeguard your personally identifying information, such as firewalls and Secure Socket Layers (SSL). However, "perfect security" does not exist on the Internet and third parties may intercept or access transmissions and/or private communications. Therefore, we do not promise, and you should not expect, that your personally identifying information or private communications would remain private in all cases. Nevertheless, we will make every effort to make sure that we keep your information safe. 
-
-**9\. Changes to this privacy policy**
-
-We reserve the right to make changes to this privacy policy, and recommend that you visit it often. If we make material changes to this privacy policy, we will notify you by posting them here. 
+  
+Cengage, Inc.  
+Privacy Office  
+20 Channel Center  
+Boston MA 02210
