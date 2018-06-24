@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exposeknowledge.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220131450id_/http%3A//www.exposeknowledge.com/tos/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exposeknowledge.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624151804id_/http%3A//www.exposeknowledge.com/tos/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
