@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailybeautyhack.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221043415id_/http%3A//beautyhacked.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailybeautyhack.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624231143id_/http%3A//beautyhacked.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
