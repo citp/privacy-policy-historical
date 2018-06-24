@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myminifactory.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001030211id_/https%3A//www.myminifactory.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myminifactory.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624212757id_/https%3A//www.myminifactory.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,6 +38,8 @@ We use information held about you in the following ways:
 
 (d) To allow you to participate in interactive features of our service, when you choose to do so.
 
+Third parties may also access your data, with your explicit consentement, via our APIs (application programming interfaces). You can revoke access third parties via your account [applications management](https://web.archive.org/settings/application).
+
 We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these from time to time.
 
 Once you have made an enquiry, we may from time to time contact you by electronic means (e-mail or SMS) with information about goods and services we think may be of interest to you.
@@ -52,20 +54,29 @@ We may disclose your personal information to third parties:
 
 (b) If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of our company, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-**7\. YOUR RIGHTS**
+**7\. CHILDREN AND OUR SERVICES  
+**
+
+You must be 16 years of age to consent to the processing of your personal data in your country. Under 16 years old you must allow your parent or guardian to do so on your behalf. In doupt, we may contact you to verify your age.
+
+**8\. YOUR RIGHTS**
 
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at the contact point below.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-**8\. ACCESS TO INFORMATION**
+You have the right to request deletion of your personal data. You can do so from the [privacy settings](https://web.archive.org/settings/privacy) in your profile.
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee to meet our costs in providing you with details of the information we hold about you.
+**9\. ACCESS TO INFORMATION**
 
-**9\. CHANGES TO OUR PRIVACY POLICY**
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act.
+
+You have the right to request your personal data. You can do so from the [privacy settings](https://web.archive.org/settings/privacy) in your profile.
+
+**10\. CHANGES TO OUR PRIVACY POLICY**
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-**10\. CONTACT**
+**11\. CONTACT**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to: info@myminifactory.com.
