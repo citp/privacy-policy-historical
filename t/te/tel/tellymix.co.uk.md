@@ -1,34 +1,273 @@
-> *The following text is extracted and transformed from the tellymix.co.uk privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001165752id_/https%3A//www.tellymix.co.uk/about/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellymix.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625000223id_/https%3A//tellymix.co.uk/about/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | TellyMix
 
-**Last revised: 26th May 2012**
+**Last revised: 25th May 2018**
 
-This policy explains in detail how TellyMix (hereinafter "tellymix", "us", "we", "our") use any information collected during any visit by you (hereinafter "your", "visitor", "user")
+This policy explains in detail how TellyMix (hereinafter "tellymix", "us", "we", "our") use any information collected during any visit by you (hereinafter "your", "visitor", “user")
 
-### Sites covered by this Privacy Policy
+We collect and process personal information in line with the The EU general data protection regulation (GDPR) in the following instances only:
 
-This privacy policy applies to all TellyMix websites and domains, namely tellymix.co.uk, tellymix.com and tellymixcdn.com.
+### Contact forms
 
-### Automatically collected information
+When you contact us we ask for your name and email address along with your query. We need this information in order to act on your query, covered by Article 6 (1) b) GDPR.
 
-Our web server automatically logs information when you visit any of our websites. This information includes, but is not limited to: Your IP, Hostname, Browser and Operating system information, Plug-in information, referrer and the pages you visit. None of the information we automatically collect identifies you personally. This information is kept for up to one month on our server. The information is then processed and analysed to produce website statistics. We use these statistics to enhance your browsing experience by creating pages tuned to specific browsers and operating systems. We may also use the information collected to administer and troubleshoot technical problems.
+In addition, we store your IP address. Your IP address is logged for security and operating purposes (e.g. to block spam messages) under Article 6 (1) f) GDPR.
 
-### Personal information
+The above information is stored for 30 days before being automatically deleted. If you wish for this information to be deleted before then, please contact us (see below).
 
-All personal information we collect is kept securely and is not shared, sold or otherwise passed on to any person or company outside of the TellyMix management. We only collect personal information which you wilfully supply. We only ask you for the information we require to process your request. Once this information has been used it is deleted. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We ask you to provide a name and email address when contacting us, this information is essential for a reply from us. We do not keep personal information collected in this manner, once used it is deleted.
+### Server logs
 
-### Query logging
+Our web server logs certain pieces of information when you visit a web page. This information includes your anonymised IP address, the page you visit and diagnostic information such as your web browser, web browser’s user agent and your operating system.
 
-We do not monitor, view, share, store or in any other way make available queries you may enter into forms on our websites unless it is needed explicitly for the service in question (e.g. contact forms). Search queries you may run are not logged or stored by us however third party search services such as Google may log such queries.
+This not personal identifiable information is stored for up to one month and processed for error correction, troubleshooting and security purposes in our legitimate interest under Article 6 (1) f) GDPR to protect and provide reliable and error-free access to our website.
 
-### IP identification
+### Website statistics
 
-An IP is the numeric address of a computer connected to the internet; also called internet address. Some of our web applications use IP addresses to identify users and supply them with their personal settings. For this reason an encrypted version of your IP address may be stored in a database for future requests and processing. We may also encrypt, log, store IP addresses in order to prevent multiple voting in polls, surveys or in order to prevent damage to server resources. When your IP is stored using any of our applications it is encrypted and anonymised using a one-way hash function.
+We log information when you visit any of our websites. This information includes the pages you visit, your browser and operating system information and plug-in information.
+
+None of this information identifies you personally.
+
+This information is kept for up to one month on our server. The information is then processed and analysed to produce website statistics. We use these statistics to enhance your browsing experience by creating pages tuned to specific browsers and operating systems. We may also use the information collected to administer and troubleshoot technical problems.
+
+### Mailing lists
+
+We operate mailing lists to send news updates. When you sign up you are asked to provide an email address. In addition, the time and date of sign up and your IP address is stored.
+
+We need this information in order to provide you with the email updates you have consented to (Article 6 (1) a) GDPR, (Article 6 (1) b) GDPR)), as well as to combat spam and abuse (Article 6 (1) f) GDPR).
+
+This information is shared with MailChimp in the United States. Mail Chimp are a certified to the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework.
+
+This information is stored for as long as you wish to be signed up to the mailing list. You can opt-out and have your personal information removed by clicking the link in any of the emails sent. Alternatively, you can request manual removal by contacting us (see below).
+
+When you are removed from the mailing list, all traces of your personal information is deleted by MailChimp.
+
+You can find MailChimp's [Privacy Policy here](https://mailchimp.com/legal/privacy/) and [terms here](https://mailchimp.com/legal/terms/).
+
+### Advertising
+
+We use third party ad companies to display advertisements on our websites. With your consent, these outside companies use cookies and other information gathering methods to deliver targeted ads to you.
+
+Google and our advertising partners (see below), as a third party vendor, uses cookies to serve ads on our websites. Google Adsense will place and use cookies when serving adverts. This cookie enables Google to serve adverts to you based your visits to our website(s) and other website(s) on the internet. You may change your Google ad settings at the [Google ad and content network privacy policy](https://www.google.co.uk/settings/ads).
+
+If ad personalization is turned on, our partners will use your information during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and [http://www.aboutads.info/choices](https://web.archive.org/web/20180625000223id_/https%3A//tellymix.co.uk/about/%E2%80%9Chttp://www.aboutads.info/choices%E2%80%9D).
+
+Please note that if ad personalization if off, they will not collect or use your information to personalize the ads shown to you. You will still see ads, but they may not be as useful. Ads may still be based on the topic of the website or app you’re looking at, your current search terms, or on your general location, but not on your interests, search history, or browsing history.
+
+##### Advertising partners
+
+See below for a list of advertising partners with whom data will be shared alongside a link to their privacy policy
+
+  * [Google](https://www.google.com/policies/technologies/partner-sites/)
+  * [A9.com, Amazon Europe Core SARL](https://www.amazon.fr/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=201909010)
+  * [Aarki](http://corp.aarki.com/privacy)
+  * [Adacado](https://www.adacado.com/privacy-policy-april-25-2018/)
+  * [Adara Media](https://adara.com/2018/04/10/adara-gdpr-faq/)
+  * [AdClear](https://www.adclear.de/datenschutzerklaerung/)
+  * [ADEX](http://theadex.com/)
+  * [Adform](https://site.adform.com/uncategorized/product-and-services-privacy-policy/)
+  * [Adikteev](https://www.adikteev.com/eu/privacy/)
+  * [AdLedge](https://adledge.com/data-privacy/)
+  * [Adloox](http://adloox.com/disclaimer)
+  * [Adludio](https://adludio.com/termsandconditions)
+  * [AdMaxim](http://www.admaxim.com/admaxim-privacy-policy/)
+  * [Admedo](https://www.admedo.com/privacy-policy)
+  * [Admetrics](https://admetrics.io/en/privacy_policy/)
+  * [Adobe Advertising Cloud](https://www.adobe.com/privacy/general-data-protection-regulation.html)
+  * [AdRoll, Inc. ](https://www.adroll.com/gdpr)
+  * [AdTriba](https://privacy.adtriba.com/)
+  * [advanced STORE GmbH](https://www.ad4mat.com/en/privacy/)
+  * [Adventori](https://www.adventori.com/fr/avec-nous/mentions-legales/)
+  * [advolution.control](http://advolution.de/privacy.php)
+  * [affilinet](https://www.affili.net/uk/footeritem/privacy-policy)
+  * [Akamai Technologies Inc.](http://www.akamai.com/compliance/privacy)
+  * [Amobee ](https://www.amobee.com/trust/privacy-guidelines)
+  * [Analights](https://analights.com/docs/analights-consent-to-the-processing-of-personal-data-en.pdf)
+  * [AppLovin Corp.](https://www.applovin.com/privacy)
+  * [AppNexus](https://www.appnexus.com/en/company/platform-privacy-policy)
+  * [Arrivalist](https://www.arrivalist.com/privacy#gdpr)
+  * [AudienceProject](http://privacy.audienceproject.com/for-users/)
+  * [Aunica](http://www.aunica.com/privacy/privacy.html)
+  * [Avocet](http://avocet.io/privacy-portal)
+  * [Batch Media](http://batch.ba/datenschutzerklarung/)
+  * [BDSK Handels GmbH & Co. KG](https://www.xxxlutz.de/ocms/privacy)
+  * [Beeswax](https://www.beeswax.com/privacy.html)
+  * [Betgenius](http://betting.geniussports.com/connextra-service-terms-conditions/)
+  * [Bidswitch](http://www.bidswitch.com/privacy-policy/)
+  * [Blismedia](http://www.blis.com/privacy/)
+  * [Bombora](http://bombora.com/privacy)
+  * [Booking.com](https://www.booking.com/content/privacy.en-gb.html)
+  * [C3 Metrics](https://c3metrics.com/privacy)
+  * [Cablato](http://cablato.com/privacy)
+  * [Celtra](https://www.celtra.com/privacy-policy/)
+  * [Centro](https://www.centro.net/privacy-policy/)
+  * [Cint](https://www.cint.com/participant-privacy-notice/)
+  * [Clinch](https://clinch.co/pages/privacy.html)
+  * [Cloud Technologies](http://green.erne.co/assets/PolicyCT.pdf)
+  * [Cloudflare](https://www.cloudflare.com/security-policy/)
+  * [Commanders Act](https://www.commandersact.com/en/privacy/)
+  * [comScore](https://www.comscore.com/About-comScore/Privacy-Policy)
+  * [Conversant/CJ Affiliate](https://www.conversantmedia.eu/legal/privacy-policy)
+  * [Crimtan](https://crimtan.com/privacy-ctl/)
+  * [Criteo](https://www.criteo.com/privacy/)
+  * [CUBED](http://cubed.ai/privacy-policy/gdpr/)
+  * [DataXu](https://www.dataxu.com/gdpr/)
+  * [Delta Projects](http://www.deltaprojects.com/data-collection-policy/)
+  * [Demandbase](https://www.demandbase.com/privacy-policy/)
+  * [DENTSU](http://www.dentsu.co.jp/terms/data_policy.html)
+  * [Dentsu Aegis Network](http://www.dentsu.com/termsofuse/data_policy.html)
+  * [Digiseg](http://www.digiseg.io/GDPR/)
+  * [DMA Institute](https://www.dma-institute.com/privacy-compliancy/)
+  * [DoubleVerify](https://www.doubleverify.com/privacy/)
+  * [Dstillery](https://dstillery.com/privacy-policy/)
+  * [DTS](https://client.adhslx.com/privacy.html)
+  * [EASYmedia](https://www.rvty.net/gdpr)
+  * [eBay](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260#section12)
+  * [ebuilders](http://ebuilders.nl/privacy)
+  * [Effinity](https://www.effiliation.com/politique-confidentialite.html)
+  * [emetriq](https://www.emetriq.com/datenschutz/)
+  * [Ensighten](https://www.ensighten.com/privacy-policy/)
+  * [Essens](https://essens.no/privacy-policy/)
+  * [ESV](https://www.wizaly.com/terms-of-use#privacy-policy)
+  * [Evidon](https://www.evidon.com/resources/privacy-statement/)
+  * [Exactag](https://www.exactag.com/en/data-privacy/)
+  * [Exponential](http://exponential.com/privacy/)
+  * [Facebook](https://www.facebook.com/about/privacy/update)
+  * [Flashtalking](http://www.flashtalking.com/privacypolicy/)
+  * [Fractional Media](https://www.fractionalmedia.com/privacy-policy)
+  * [FUSIO BY S4M](http://www.s4m.io/privacy-policy/)
+  * [Gemius](https://www.gemius.com/cookie-policy.html)
+  * [GfK](https://sensic.net/)
+  * [GP One](http://www.gsi-one.org/templates/gsi/en/files/privacy_policy.pdf)
+  * [gskinner](https://createjs.com/legal/privacy.html)
+  * [Haensel AMS](https://haensel-ams.com/data-privacy/)
+  * [Havas Media France - DBi](http://www.centraltag.com/commercial/policy/index.action)
+  * [hurra.com](http://www.hurra.com/impressum)
+  * [IBM](https://www.ibm.com/customer-engagement/digital-marketing/gdpr)
+  * [Ignition One](https://www.ignitionone.com/privacy-policy/gdpr-subject-access-requests/)
+  * [Impact](https://impact.com/privacy-policy/)
+  * [Index Exchange](http://www.indexexchange.com/privacy/)
+  * [Infectious Media](https://impressiondesk.com/)
+  * [Innovid](http://www.innovid.com/privacy-policy)
+  * [Integral Ad Science](http://www.integralads.com/privacy-policy)
+  * [intelliAd](https://www.intelliad.de/datenschutz)
+  * [Interpublic Group](https://www.interpublic.com/privacy-notice)
+  * [Jivox](http://www.jivox.com/privacy/)
+  * [Kantar](https://www.kantarmedia.com/global/privacy-statement)
+  * [Kochava](https://www.kochava.com/support-privacy/)
+  * [LifeStreet](http://www.lifestreet.com/privacy)
+  * [Liftoff](https://liftoff.io/privacy-policy/)
+  * [LiveRamp](https://liveramp.com/service-privacy-policy/)
+  * [Localsensor](https://www.localsensor.com/privacy.html)
+  * [LoopMe](https://loopme.com/privacy/)
+  * [Lotame](https://www.lotame.com/about-lotame/privacy/)
+  * [Macromill group](https://www.metrixlab.com/privacy-statement/)
+  * [MainADV](http://www.mainad.com/privacy-policy)
+  * [Manage.com](https://www.manage.com/privacy-policy/)
+  * [Marketing Science Consulting Group, Inc.](http://mktsci.com/privacy_policy.htm)
+  * [MBR Targeting Gmbh](https://privacy.mbr-targeting.com/)
+  * [MediaMath](http://www.mediamath.com/privacy-policy/)
+  * [Meetrics](https://www.meetrics.com/en/data-privacy/)
+  * [MindTake Research](https://www.mindtake.com/en/reppublika-privacy-policy)
+  * [Mobitrans](http://www.mobitrans.net/privacy-policy/)
+  * [Mobpro](http://mobpro.com/privacy.html)
+  * [Moloco Ads](http://www.molocoads.com/private-policy.html)
+  * [MSI-ACI](http://site.msi-aci.com/Home/FlexTrackPrivacy)
+  * [Nano Interactive](http://www.nanointeractive.com/privacy)
+  * [Navegg](https://www.navegg.com/en/privacy-policy/)
+  * [Neodata Group](https://www.neodatagroup.com/en/security-policy)
+  * [NEORY GmbH](https://www.neory.com/privacy.html)
+  * [Netflix](http://www.netflix.com/google-3PAS-info)
+  * [Netquest](https://www.nicequest.com/us/privacy)
+  * [Neuralone](https://web.neural.one/privacy-policy/)
+  * [Neustar](https://www.home.neustar/privacy)
+  * [Nielsen](http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html)
+  * [Nordic Factory Solutions AB](https://www.bannerflow.com/privacy)
+  * [numberly](http://ads.1000mercis.com/us.html)
+  * [Oath](https://policies.oath.com/xw/en/oath/privacy/enterprise/b2bprivacypolicy/)
+  * [Objective Partners](https://www.objectivepartners.com/cookie-policy-and-privacy-statement/)
+  * [Omnicom Media Group](https://www.omnicommediagroup.com/disclaimer.htm)
+  * [On Device Research](https://ondeviceresearch.com/GDPR)
+  * [OneTag](https://www.onetag.net/privacy/)
+  * [OpenX Technologies](https://www.openx.com/legal/privacy-policy/)
+  * [Optomaton](http://optomaton.com/privacy.html)
+  * [Oracle Data Cloud](https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html)
+  * [OTTO](https://www.otto.de/shoppages/service/about/datenschutzinformation/aboutprivacyneedtoknow)
+  * [PERMODO](http://permodo.com/de/privacy.html)
+  * [Pixalate](http://www.pixalate.com/privacypolicy/)
+  * [Platform161](https://platform161.com/cookie-and-privacy-policy/)
+  * [PMG](https://www.pmg.com/privacy-policy/)
+  * [Protected Media](http://www.protected.media/privacy-policy/)
+  * [Publicis Groupe](https://www.publicismedia.de/datenschutz/)
+  * [PubMatic](https://pubmatic.com/legal/privacy-policy/)
+  * [PulsePoint](https://www.pulsepoint.com/privacy-policy)
+  * [Quantcast](https://www.quantcast.com/privacy/)
+  * [Rackspace](http://www.rackspace.com/gdpr)
+  * [Rakuten Marketing](https://rakutenmarketing.com/legal-notices/services-privacy-policy)
+  * [Refined Labs](https://www.refinedlabs.com/datenschutz-rfa)
+  * [Relay42](https://relay42.com/privacy)
+  * [Remerge](http://remerge.io/privacy-policy.html)
+  * [Resonate](https://www.resonate.com/privacy-policy/)
+  * [RevJet](https://www.revjet.com/privacy)
+  * [RhythmOne LLC](https://www.rhythmone.com/landing/gdpr)
+  * [RN SSI Group](https://www.valuedopinions.co.uk/privacy)
+  * [Roq.ad](https://www.roq.ad/privacy-policy)
+  * [RTB House](https://www.rtbhouse.com/gdpr/)
+  * [Rubicon Project](http://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/)
+  * [Salesforce DMP](https://www.salesforce.com/company/privacy/)
+  * [Scenestealer](http://www.scenestealer.tv/privacy-policy)
+  * [Scoota](http://scoota.com/privacy-policy/)
+  * [Seenthis](https://seenthis.co/privacy-notice-2018-04-18.pdf)
+  * [Semasio GmbH](http://www.semasio.com/privacy-policy/)
+  * [SFR](http://www.sfr.fr/securite-confidentialite.html)
+  * [Sift Media](https://www.sift.co/privacy)
+  * [Simpli.fi](https://www.simpli.fi/site-privacy-policy2/)
+  * [Sizmek](https://www.sizmek.com/privacy-policy/)
+  * [Smaato](https://www.smaato.com/privacy/)
+  * [Smadex](http://smadex.com/end-user-privacy-policy/)
+  * [Smart](http://smartadserver.com/company/privacy-policy/)
+  * [Smartology](https://www.smartology.net/privacy-policy/)
+  * [Sociomantic](https://www.sociomantic.com/privacy/en/)
+  * [Sojern](https://www.sojern.com/privacy/product-privacy-policy/)
+  * [Sovrn ](https://www.sovrn.com/privacy-policy/)
+  * [Spotad](http://www.spotad.co/privacy-policy/)
+  * [SpotX](https://www.spotx.tv/privacy-policy/)
+  * [TabMo](http://static.tabmo.io.s3.amazonaws.com/privacy-policy/index.html)
+  * [Taboola](https://www.taboola.com/privacy-policy)
+  * [TACTIC™ Real-Time Marketing](http://tacticrealtime.com/privacy/)
+  * [Teads.TV](https://teads.tv/privacy-policy/)
+  * [TEEMO](https://teemo.co/fr/confidentialite/)
+  * [The Trade Desk](https://www.thetradedesk.com/general/privacy-policy)
+  * [Tradedoubler](http://www.tradedoubler.com/en/privacy-policy/)
+  * [travel audience – An Amadeus Company](https://travelaudience.com/product-privacy-policy/)
+  * [TreSensa](http://tresensa.com/eu-privacy/index.html)
+  * [TripleLift ](https://triplelift.com/privacy/)
+  * [True Ultimate Standards Everywhere Inc.](https://www.trustarc.com/privacy-policy/)
+  * [TruEffect](https://trueffect.com/privacy-policy/)
+  * [Turbobytes](https://www.turbobytes.com/gdpr/)
+  * [UDG](https://www.udg.de/wp-content/uploads/2018/04/privacy_policy_EN.pdf)
+  * [usemax (Emego GmbH)](http://www.usemax.de/?l=privacy)
+  * [Videology](https://videologygroup.com/en/privacy-policy/)
+  * [Vimeo](https://vimeo.com/cookie_policy)
+  * [Virtual Minds](https://virtualminds.de/datenschutz/)
+  * [Vodafone GmbH](https://www.vodafone.de/unternehmen/datenschutz-privatsphaere.html)
+  * [Waystack](https://www.wayfair.com/customerservice/general_info.php#privacy)
+  * [Weborama](https://weborama.com/e-privacy/)
+  * [White Ops](https://www.whiteops.com/privacy)
+  * [Widespace](https://www.widespace.com/legal/privacy-policy-notice/)
+  * [WPP](https://www.groupm.com/mplatform-privacy-policy)
+  * [Yieldr](https://www.yieldr.com/privacy/)
+  * [ZMS](https://zms.zalando.com/#)
+
+
+
+#### Opt out / Privacy Settings
+
+Click here to change your privacy settings.
+
+Please note, if you opt you you may see ads that are less relevant to you. These ads use cookies (see below), but not for personalization.
 
 ### Cookies
-
-#### What are cookies?
 
 A cookie is a small text file that is stored on your computer
 
@@ -46,33 +285,15 @@ Here is a breakdown of the common classifications of cookies we use and how we u
 
 These cookies are essential to enable the website to function, for you to navigate. Without these you will not be able to use the site.
 
-Our website uses the WordPress blogging platform, which may set cookies in order to require the website to work. Without these cookies, the site would not be able to process your requests, for example, posting comments.
-
-##### Functional cookies
-
-These cookies tailor the website to you by storing certain preferences. TellyMix will store a cookie on your computer or device if you switch between the mobile and desktop versions of our website.
-
-##### Performance cookies
-
-These cookies are used to improve our website for you, by allowing us to view detailed statistics and analytics, for example which articles are the most read.
-
-In particular, TellyMix makes use of Google Analytics which sets a range of Performance Cookies. You can find out information about these and opt out below:
-
-[https://tools.google.com/dlpage/gaoptout ](https://tools.google.com/dlpage/gaoptout)
+Our website uses the WordPress blogging platform, which may set cookies in order to require the website to work. Without these cookies, the site would not be able to process your requests, e.g. Session Cookies.
 
 ##### Advertising cookies
 
-These cookies are used to decide which types of adverts to display. We use adverts on the site to allow you to browse it for free, whilst also paying the ever increasing hosting bills.
+ _See also above, Advertising._
 
-TellyMix uses third party ad companies to display advertisements on our websites. These outside companies use cookies and other information gathering methods to deliver targeted ads to you. Google, as a third party vendor, uses cookies to serve ads on our websites. Google adsense will place and use the doubleclick DART cookie when serving adverts. This cookie enables Google to serve adverts to you based your visits to our website(s) and other website(s) on the internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_cookies.html).
+With your consent, we allow third-party companies to serve personalised ads in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and <http://www.aboutads.info/choices>.
 
-These outside companies may also use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/).
-
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and <http://www.aboutads.info/choices>.
-
-Furthermore, we partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://valueclickmedia.com/webuser_privacy.shtml>.
-
-TellyMix accepts no responsibility for any third party advertisements that may appear on our websites or how they may collect and use your information. When clicking on an advert you are longer protected by this privacy policy (see: external links below).
+Note the we accepts no responsibility for any third party advertisements that may appear on our websites or how they may collect and use your information. When clicking on an advert you are longer protected by this privacy policy (see: external links below).
 
 #### Managing cookies
 
@@ -123,6 +344,10 @@ TellyMix is in no way responsible for the content, security or privacy policy of
 ### Policy changes
 
 TellyMix reserves the right to revise and make changes to this policy at any time. The up to date version will be available from tellymix.co.uk
+
+### Removal request
+
+To request any personal information we hold on you or for it to be deleted, please [contact us](https://web.archive.org/contact)
 
 ### Contact information
 
