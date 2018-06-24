@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phishtank.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925003850id_/https%3A//www.phishtank.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phishtank.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624031929id_/https%3A//www.phishtank.com/privacy.php) for the most accurate reproduction.*
 
 # PhishTank > Privacy Policy
 
@@ -48,8 +48,8 @@ PhishTank may change its Privacy Policy from time to time, and in PhishTank's so
 
 ### Questions
 
-Full contact information, including location, may be found on our [Contact page](https://web.archive.org/web/20170925003850id_/https%3A//www.phishtank.com/contact.php).
+Full contact information, including location, may be found on our [Contact page](https://web.archive.org/web/20180624031929id_/https%3A//www.phishtank.com/contact.php).
 
 ### Creative Commons
 
-[](http://creativecommons.org/licenses/by-sa/2.5/) This work is licensed under a [Creative Commons Attribution-ShareAlike 2.5 License](http://creativecommons.org/licenses/by-sa/2.5/).
+[](https://creativecommons.org/licenses/by-sa/2.5/) This work is licensed under a [Creative Commons Attribution-ShareAlike 2.5 License](https://creativecommons.org/licenses/by-sa/2.5/).
