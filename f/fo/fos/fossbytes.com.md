@@ -1,39 +1,41 @@
-> *The following text is extracted and transformed from the fossbytes.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203130848id_/https%3A//fossbytes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fossbytes.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624134427id_/https%3A//fossbytes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - fossBytes
 
-This Privacy Policy governs the manner in which Fossbytes Media Private Limited collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://fossbytes.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by fossBytes.
+This Privacy Policy governs the manner in which Fossbytes Media Private Limited collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://fossbytes.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Fossbytes.
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users, with their consent, in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilised and other similar information.
 
 **Web browser cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. The services that may use cookies on this site include Google Anayltics, Twitter, Google+, Facebook, and YouTube integrations, advertisements, PollDadddy for polls, embeds for YouTube, Twitter, Vimeo, etc.
 
-**How we use collected information**
+Here’s how to delete and control the cookies on your computer:  
+[https://www.aboutcookies.org/](https://www.aboutcookies.org/)
 
-fossBytes may collect and use Users personal information for the following purposes:
+**How we use collected information?**
 
--To improve customer service  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-– To personalize user experience – We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our site.  
-– To improve our Site  
-We may use feedback you provide to improve our products and services.  
-– To send periodic emails
+Fossbytes may collect and use Users personal information for the following purposes:
 
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
+1\. To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-**How we protect your information**
+2\. To personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our site.
+
+3\. To improve our Site: We may use feedback you provide to improve our products and services.
+
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site. Below every email we send with your permission, there’s a link attached to unsubscribe yourself.
+
+**How we protect your information?**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+Sensitive and private data exchange between the Site and its Users happens over SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users. 
 
 **Sharing your personal information**
 
@@ -47,11 +49,31 @@ Users may find advertising or other content on our Site that link to the sites a
 
 **Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non-personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+You may opt out of personalised advertising from Google by visiting  
+[https://www.google.co.uk/settings/ads](https://www.google.co.uk/settings/ads)
+
+To opt out of personalised ads from Amazon, Media.net by visiting:  
+[http://optout.aboutads.info/?c=2#!/](http://optout.aboutads.info/?c=2#!/)
+
+To opt out of Skimliks affiliates advertise, visit:  
+[https://optout.skimlinks.com/?tested=1](https://optout.skimlinks.com/?tested=1)
+
+Further information and browser/mobile advertising opt outs can be found here:  
+[http://optout.networkadvertising.org/?c=1#!/](http://optout.networkadvertising.org/?c=1#!/)
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at 
+
+<http://www.google.com/privacy_ads.html>
+
+**Push Notifications**
+
+When you visit Fossbytes.com, you might receive a pop-up asking for your permission to send you push notifications on your device. In case you choose not to agree, you can continue using our website. If you choose to agree to receive push notifications on your device, you can later opt-out of the notifications by searching for “Notifications” in your web browser’s “Settings” section. Find more information on One Signal’s push notification service here:
+
+[https://onesignal.com/privacy_policy](https://onesignal.com/privacy_policy)
 
 **Reproduction and use:**
 
@@ -63,7 +85,7 @@ Fossbytes Private Limited shall hold the right to modify and update the copyrigh
 
 **Changes to this privacy policy**
 
-fossBytes has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Fossbytes has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -71,11 +93,12 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-admin@fossbytes.com
+Fossbytes Media Private Limited is committed to providing secure and transparent experience to our Users. Protecting our Users’ privacy and data is extremely important to us. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Address:  
-**Fossytes Media Pvt Ltd.  
+**Fossbytes Media Pvt Ltd.  
 Sector 50, Noida, U.P. (India)  
 Pin- 201301  
-Email- admin@fossbytes.com, support@fossbytes.com
+Email- [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+_This privacy policy was updated on May 28th, 2018_
