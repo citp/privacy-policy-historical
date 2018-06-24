@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the engageme.tv privacy policy that was archived on 2017-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171224061453id_/http%3A//engageme.tv/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the engageme.tv privacy policy that was archived on 2018-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624231116id_/http%3A//engageme.tv/privacypolicy.php) for the most accurate reproduction.-->
 
 <html><head>
 <link rel="icon" sizes="32x32" href="/assets/img/favicon-32x32.png?v=2">
+<link rel="icon" sizes="192x192" href="/assets/img/favicon-192x192.png?v=1">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<script src="https://script.crazyegg.com/pages/scripts/0029/3687.js?439589" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script src="https://script.crazyegg.com/pages/scripts/0029/3687.js?439595" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 function getMethods(t){var e=[];for(var n in t)"function"==typeof t[n]&&e.push(n);return e}nativeMethods=getMethods(window);
 </script>
 <script>
@@ -26,10 +27,10 @@ function yesiam(){store("usersafe","yes");var t=store("default_pub_profile_data"
 <!-- <link rel="stylesheet" type="text/css" href="css/style.css"> -->
 <link rel="stylesheet" type="text/css" href="/assets/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="/assets/fonts/font-awesome.min.css">
-<link rel="stylesheet" type="text/css" href="/assets/css/user.css?v=6">
+<link rel="stylesheet" type="text/css" href="/assets/css/user.css?v=9">
 <link rel="stylesheet" type="text/css" href="/assets/css/flexslider.css">
 <link rel="stylesheet" type="text/css" href="/assets/css/tooltipster.css">
-<link rel="stylesheet" type="text/css" href="/assets/css/header.css?v=1">
+<link rel="stylesheet" type="text/css" href="/assets/css/header.css?v=3">
 <link rel="stylesheet" type="text/css" href="/assets/css/footer.css?v=1">
 <link rel="stylesheet" type="text/css" href="/assets/css/small.css?v=1">
 <link rel="stylesheet" type="text/css" href="/assets/css/promote.css?v=1">
@@ -41,7 +42,6 @@ background-size:cover;
 .jwplayer {
 position:relative;
 top:7%;
-width:88% !important;
 }
 
 #watching {
@@ -193,6 +193,16 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <script type="text/javascript" src="/js/ip.php"></script>
 <style>
 b {font-size:18px; font-weight:bold}
+.bold-text{
+    font-weight: bold;
+}
+.testimonials ul li {
+    font-family: 'HelveticaNeue';
+    font-size: 12px;
+}
+.testimonials {
+    font-size: 12px;
+}
 </style>
 </head>
 <body>
@@ -209,7 +219,7 @@ b {font-size:18px; font-weight:bold}
    <noscript>
   	<img src="http://b.scorecardresearch.com/p?c1=2&c2=22055769&cv=2.0&cj=1" />
    </noscript>
-<!-- End comScore Tag --><script type="text/javascript"> var protocol = "http://localhost"; </script>
+<!-- End comScore Tag --><script type="text/javascript"> var protocol = "http://engageme.tv"; </script>
 <script type="text/javascript"> var logged_in = "0"; </script>
 <script type="text/javascript"> var click_link = 'https://partner.engageme.tv/click_return_id.php'; </script>
 <div class="menu-holder">
@@ -273,43 +283,234 @@ b {font-size:18px; font-weight:bold}
                 <!-- End Login Header Menus -->
                 <!-- Logout Header Menus -->
                                                 <li class="nav-hide-ss">
-                  <a href="#" class="log-in" data-toggle="modal" data-target="#loginForAccountModal">Log In</a>
+                  <a href="/login.php?next=%2Fprivacypolicy.php" class="log-in">Log In</a>
                   <span>|</span> 
-                  <a href="#" class="sign-up" data-toggle="modal" data-target="#signUpModal">Sign Up</a>
+                  <a href="/signup.php" class="sign-up">Sign Up</a>
                   <a href="https://engageme-tv-help.zendesk.com/hc/en-us" class="support" target="_blank"><span>Support</span></a>
                 </li>
                                 <!-- Logout Header Menus -->                
               </ul>
             </div>
+            <script>
+                $(document).ready(function(){
+                    $(document).click(function(e){
+
+                          $(".main-menu").hide();
+                          $('.dropdown-toggle').removeClass("open");
+                          $(".main-menu").find(".dropdown-submenu-data").hide();
+                          $(".selected").removeClass("selected");
+
+                    });
+                    
+                    
+                  $('.desktop_menu').on("click", function(e){
+                    if($(this).hasClass("open")){
+                        $(this).removeClass("open");
+                        $(".main-menu").hide();
+                        $(".main-menu").find(".dropdown-submenu-data").hide();
+                        $(".selected").removeClass("selected");
+                    }
+                    else{
+                        $(this).addClass("open");
+                        $(".main-menu").show();
+                    }
+                    e.stopPropagation();
+                  });
+                  
+                  $('.dropdown-submenu a.subTitle').on("click", function(e){
+                      if($(this).hasClass("selected")){
+                          $(this).removeClass("selected");
+                          $(this).next(".dropdown-submenu-data").hide();
+                      }
+                      else{
+                          $(".selected").next(".dropdown-submenu-data").hide();
+                          $(".selected").removeClass("selected");
+                          $(this).addClass("selected");
+                          $(this).next(".dropdown-submenu-data").show();
+                      }
+                      e.stopPropagation();
+                  });
+                });
+            </script>
             <div class="category-dropdown-holder">
               <span class="category-holder">
                 <div class="dropdown">
-                    <a class="menu-dropdown dropdown-toggle" data-toggle="dropdown"><span class="video">Channels</span><span class="mobile-view">:</span>
+                    <a class="menu-dropdown dropdown-toggle desktop_menu"><span class="video">Channels</span><span class="mobile-view">:</span>
                     <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                      <li><a href="/watchmr.php">Movie Reviews</a></li>
-                      <li><a href="/watchrv.php">App Trailers</a></li>
-                      <li><a href="/watchgaming.php">Gaming</a></li>
-                      <li><a href="/watchhowto.php">How to</a></li>
-                      <li><a href="/watchfood.php">Food / Cooking</a></li>
-                      <li><a href="/watchentertainment.php">Entertainment</a></li>
-                      <li><a href="/watchviral.php">Viral Videos</a></li>
-                      <li><a href="/watchhealth.php">Health</a></li>
-                      <li><a href="/watchscience.php">Science and Tech</a></li>
-                      <li><a href="/watchsports.php">Sports</a></li>
-                      <li><a href="/watchtravel.php">Travel</a></li>
-                      <!-- <li><a href="/watchsports.php">Sports</a></li> -->
+                    <ul class="dropdown-menu main-menu">
+                      <li><a href="http://engageme.tv/watchfavourite.php">ETV Staff Favorites</a></li>
+                      <li><a href="http://engageme.tv/watchrv.php">App Trailers</a></li>
+                      <li><a href="http://engageme.tv/watchgaming.php">Gaming</a></li>
+                      <li class="dropdown-submenu">
+                          <a class="subTitle" tabindex="-1" href="#">How to <span class="caret-right"></span></a>
+                          <ul class="dropdown-menu dropdown-submenu-data">
+                              <li><a tabindex="-1" href="http://engageme.tv/watchhowto.php">All How to</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchsavemoney.php">Saving Money</a></li>
+                          </ul>
+                      </li>
+                      <li class="dropdown-submenu">
+                          <a class="subTitle" tabindex="-1" href="#">Food / Cooking <span class="caret-right"></span></a>
+                          <ul class="dropdown-menu dropdown-submenu-data">
+                              <li><a tabindex="-1" href="http://engageme.tv/watchfood.php">All Food</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchpizza.php">Pizza and Burgers</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchcocktail.php">Cocktail Hour</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchdesserts.php">Just Desserts</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchhealthy.php">Healthy Stuff</a></li>
+                          </ul>
+                      </li>
+                      <li class="dropdown-submenu">
+                          <a class="subTitle" tabindex="-1" href="#">Entertainment <span class="caret-right"></span></a>
+                          <ul class="dropdown-menu dropdown-submenu-data">
+                              <li><a tabindex="-1" href="http://engageme.tv/watchentertainment.php">All Entertainment</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchtv.php">TV news</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchmusic.php">Music news</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchbuzz.php">Movie &amp; Film Buzz</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchmr.php">Movie Reviews</a></li>
+                          </ul>
+                      </li>
+                      <li><a href="http://engageme.tv/watchfashion.php">Fashion &amp; Beauty</a></li>
+                      <li class="dropdown-submenu">
+                          <a class="subTitle" tabindex="-1" href="#">Fashion &amp; Beauty <span class="caret-right"></span></a>
+                          <ul class="dropdown-menu dropdown-submenu-data">
+                              <li><a tabindex="-1" href="http://engageme.tv/watchfashion.php">All Fashion &amp; Beauty</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchmakeup.php">Top Makeup Tutorials</a></li>
+                          </ul>
+                      </li>
+                      <li class="dropdown-submenu">
+                          <a class="subTitle" tabindex="-1" href="#">Viral Videos <span class="caret-right"></span></a>
+                          <ul class="dropdown-menu dropdown-submenu-data">
+                              <li><a tabindex="-1" href="http://engageme.tv/watchviral.php">All Viral Videos</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchweather.php">Extreme Weather</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchcrazy.php">Crazy Animals</a></li>
+                          </ul>
+                      </li>
+                      <li><a href="http://engageme.tv/watchhealth.php">Health</a></li>
+                      <li><a href="http://engageme.tv/watchscience.php">Science and Tech</a></li>
+                      <li class="dropdown-submenu">
+                          <a class="subTitle" tabindex="-1" href="#">Sports <span class="caret-right"></span></a>
+                          <ul class="dropdown-menu dropdown-submenu-data">
+                              <li><a tabindex="-1" href="http://engageme.tv/watchsports.php">All Sports</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchhockey.php">Hockey</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchsoccer.php">Total Soccer</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchcollegehoops.php">College Hoops</a></li>
+                              <li><a tabindex="-1" href="http://engageme.tv/watchbasketball.php">Basketball</a></li>
+                          </ul>
+                      </li>
+                      <li><a href="http://engageme.tv/watchtravel.php">Travel</a></li>
                     </ul>
                 </div>
               </span>
+              
+              <!-- Mobile Menu -->
+              <script>
+                  $(document).ready(function(){
+                      $(document).click(function(e){
+
+                            $(".main-menu").hide();
+                            $('.dropdown-toggle').removeClass("open");
+                            $(".main-menu").find(".dropdown-submenu-data").hide();
+                            $(".selected").removeClass("selected");
+
+                      });
+                      
+                      
+                    $('.submenuOption').on("click", function(e){
+                        var id = $(this).attr('id');
+                        $(".topLevelMenus").hide();
+                        $("#"+id+"_submenu").show();
+                        $(".nav-account-holder").hide();
+                        $(".nav-support-holder").hide();
+                    });
+                    
+                    $('.mobileChannels .back').on("click", function(e){
+                        $(".submenu").hide();
+                        $(".topLevelMenus").show();
+                        $(".nav-account-holder").show();
+                        $(".nav-support-holder").show();
+                    });
+                    
+                  });
+              </script>
+              <div class="mobileChannels">
+                    
+                    <ul class="topLevelMenus">
+                                                    <div>
+                                <a href="/login.php" class="">Log In</a>
+                            </div>
+                            <div>
+                                <a href="/signup.php" class="sign-up">Sign Up</a>
+                            </div>
+                                                                        <div class="title">Channels :</div>
+                        <li><a href="http://engageme.tv/watchfavourite.php">ETV Staff Favorites</a></li>
+                      <li><a href="http://engageme.tv/watchrv.php">App Trailers</a></li>
+                      <li><a href="http://engageme.tv/watchgaming.php">Gaming</a></li>
+                      <li id="howto" class="submenuOption"><a>How to  <span> &gt; </span></a></li>
+                      <li id="food" class="submenuOption"><a>Food / Cooking  <span> &gt; </span></a></li>
+                      <li id="entertainment" class="submenuOption"><a>Entertainment  <span> &gt; </span></a></li>
+                      <li id="fashion" class="submenuOption"><a>Fashion and Beauty  <span> &gt; </span></a></li>
+                      <li id="viral" class="submenuOption"><a>Viral Videos  <span> &gt; </span></a></li>
+                      <li><a href="http://engageme.tv/watchhealth.php">Health</a></li>
+                      <li><a href="http://engageme.tv/watchscience.php">Science and Tech</a></li>
+                      <li id="sports" class="submenuOption"><a>Sports  <span> &gt; </span></a></li>
+                      <li><a href="http://engageme.tv/watchtravel.php">Travel</a></li>
+                    </ul>
+                    <ul id="howto_submenu" class="submenu">
+                        <div class="back"><img src="/assets/img/icons/back-arrow.png"> Back</div>
+                        <li class="header">How to Sub Channels </li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchhowto.php">All How To</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchsavemoney.php">Saving Money</a></li>
+                    </ul>
+                    <ul id="food_submenu" class="submenu">
+                        <div class="back"><img src="/assets/img/icons/back-arrow.png"> Back</div>
+                        <li class="header">Food / Cooking Sub Channels </li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchfood.php">All Food</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchpizza.php">Pizza and Burgers</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchcocktail.php">Cocktail Hour</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchdesserts.php">Just Desserts</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchhealthy.php">Healthy Stuff</a></li>
+                    </ul>
+                    <ul id="entertainment_submenu" class="submenu">
+                        <div class="back"><img src="/assets/img/icons/back-arrow.png"> Back</div>
+                        <li class="header">Entertainment Sub Channels </li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchentertainment.php">All Entertainment</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchtv.php">TV news</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchmusic.php">Music news</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchbuzz.php">Movie &amp; Film Buzz</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchmr.php">Movie Reviews</a></li>
+                    </ul>
+                    <ul id="fashion_submenu" class="submenu">
+                        <div class="back"><img src="/assets/img/icons/back-arrow.png"> Back</div>
+                        <li class="header">Fashion and Beauty Sub Channels </li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchfashion.php">All Fashion &amp; Beauty</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchmakeup.php">Top Makeup Tutorials</a></li>
+                    </ul>
+                    <ul id="viral_submenu" class="submenu">
+                        <div class="back"><img src="/assets/img/icons/back-arrow.png"> Back</div>
+                        <li class="header">Viral Videos Sub Channels </li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchviral.php">All Viral Videos</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchweather.php">Extreme Weather</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchcrazy.php">Crazy Animals</a></li>
+                    </ul>
+                    <ul id="sports_submenu" class="submenu">
+                        <div class="back"><img src="/assets/img/icons/back-arrow.png"> Back</div>
+                        <li class="header">Sports Sub Channels </li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchsports.php">All Sports</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchhockey.php">Hockey</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchsoccer.php">Total Soccer</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchcollegehoops.php">College Hoops</a></li>
+                        <li><a tabindex="-1" href="http://engageme.tv/watchbasketball.php">Basketball</a></li>
+                    </ul>
+                </div>
+              
             </div>
+              
             <div class="nav-account-holder">
               <!-- Slide Nav Logout Header Menus -->
                                             <div>
-                  <a href="#" class="" data-toggle="modal" data-target="#loginForAccountModal">Log In</a>
+                  <a href="/login.php" class="">Log In</a>
                 </div>
                 <div>
-                  <a href="#" class="sign-up" data-toggle="modal" data-target="#signUpModal">Sign Up</a>
+                  <a href="/signup.php" class="sign-up">Sign Up</a>
                 </div>
                             <!-- Slide Nav Logout Header Menus -->                   
             </div>
@@ -388,67 +589,170 @@ b {font-size:18px; font-weight:bold}
            <div class="row">
                <div class="col-md-12">
                 <b>EngageMe.TV Privacy Policy</b><br><br>
-                <p>Updated: June 30th, 2016 <br></p>
+                <p>Updated: May 23rd, 2018 <br></p>
                 <p>
                     <br>
-                    Adscend Media LLC ("Adscend") owns and operates a number of different sites on the Web, including without limitation EngageMe.TV (each one or all together referred to as "Adscend Sites"). Adscend is committed to protecting the privacy of its users. The intent of this privacy policy ("Privacy Policy") is to detail the information Adscend might gather about individuals who visit Adscend Sites, how that information is used, and our disclosure practices. Please note that this Privacy Policy applies only to websites owned and operated by Adscend, and not to the sites of other companies or organizations to which we provide links. By using any Adscend Sites, you signify that you have read, understand and agree to be bound by this Privacy Policy as well as our Terms of Use, which are incorporated by reference herein to this Privacy Policy. <br>
+                    Adscend Media LLC ("Adscend") owns and operates a number of different sites on the Web, including without limitation Smores.tv (each one or all together referred to as "Adscend Sites"). Adscend is committed to protecting the privacy of its users. The intent of this privacy policy ("Privacy Policy") is to detail the information Adscend might gather about individuals who visit Adscend Sites, how that information is used, and our disclosure practices. Please note that this Privacy Policy applies only to websites owned and operated by Adscend, and not to the sites of other companies or organizations to which we provide links. By using any Adscend Sites, you signify that you have read, understand and agree to be bound by this Privacy Policy as well as our Terms of Use, which are incorporated by reference herein to this Privacy Policy. <br>
                     <br>
-                    Your Consent for Our Collection, Use and Disclosure Typically, we will seek consent for the collection, use or disclosure of your personal information at the time of collection. In certain circumstances, consent may be sought after the information has been collected but before use (for example, when we want to use information for a purpose not previously identified). The form of consent that we seek, including whether it is express or implied, will largely depend on the sensitivity of the personal information and the reasonable expectations of the individual in the circumstances. You may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. If you wish to withdraw your consent at any time, please contact us as set out below. We will inform you of the implications of withdrawing consent. <br>
+                    This policy is prepared in compliance with the requirements of the General Data Protection Regulation
+                    (EU) 2016/679 (“GDPR”), as in force from time to time. Where a particular provision applies to EU-
+                    based users only, we have made this clear. For the purposes of the GDPR, our representative within
+                    the EU is Jason Bash. Our nominated person for data protection is Jason Bash.
+                    and their contact details are gdpr@smores.tv.<br>
+                    <br>
+                    <b>Your Consent for Our Collection, Use and Disclosure (US based users only)</b>
+                    <br>
+                    Typically, we will seek consent for the collection, use or disclosure of your personal information at the time of collection. In certain circumstances, consent may be sought after the information has been collected but before use (for example, when we want to use information for a purpose not previously identified). The form of consent that we seek, including whether it is express or implied, will largely depend on the sensitivity of the personal information and the reasonable expectations of the individual in the circumstances. You may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. If you wish to withdraw your consent at any time, please contact us as set out below. We will inform you of the implications of withdrawing consent. <br>
                     <br>
                     We will not, as a condition of the supply of a product or service, require you to consent to the collection, use or disclosure of information beyond that required to fulfill the explicitly specified and legitimate purposes for which the information is being provided. <br>
                     <br>
-                            <b>What Personal Information We Collect</b><br>
-                    When you sign up for the Adscend Sites, you will be required to share information that identifies you personally. "Personal Information" refers to any information that lets us know the specifics of who you are and which can be used to identify, contact or locate you. Examples of Personal Information include, without limitation, your first name together with your last name, your credit card number, your mailing address and/or email address, and your phone number. <br>
+                    <b>What Personal Information We Collect</b><br>
+                     When you sign up for the Adscend Sites, you will be required to share information that identifies you personally. "Personal Information" refers to any information that identifies you, either directly or indirectly. Examples of Personal Information include, without limitation, your first name together with your last name, your credit card number, your mailing address and/or email address, and your phone number. <br>
                     <br>
-                            <b>When We Collect Personal Information</b><br>
-                    Generally, we collect Personal Information when you provide it to us by signing up on Adscend Sites, filling out surveys or questionnaires, joining our mailing list, corresponding with us, entering one of our sweepstakes or contests, choosing to submit testimonials, stories, photos or the like to the Adscend Sites, or otherwise volunteering information about yourself. Adscend usually collects Personal Information so that it can provide you with Adscend's goods or services. Adscend may also use your Personal Information for other reasons, including updating you on Adscend's services, news and special offers (unless you choose to "opt-out" as described in the "Choice/Opt-out" section below). If you don't provide some of the Personal Information Adscend asks for, it may be unable to provide you with Adscend's goods or services. <br>
-                    <br>
-                            <b>Anonymous User Information</b><br>
+                    <b>When We Collect Personal Information</b><br>
+                    Generally, we collect Personal Information when you provide it to us by signing up on Adscend Sites, filling out surveys or questionnaires, joining our mailing list, corresponding with us, entering one of our sweepstakes or contests, choosing to submit testimonials, stories, photos or the like to the Adscend Sites, or otherwise volunteering information about yourself. Adscend usually collects Personal Information so that it can provide you with Adscend's goods or services. Adscend may also use your Personal Information for other reasons, including updating you on Adscend's services, news and special offers <span class="bold-text">If you are based in the US,</span> Adscend will do this (unless you choose to "opt-out" as described in the "Choice/Opt-out" section below).If you are based in the EU, we will only send you marketing messages when you tick the relevant boxes when you set up an account with us. If you have consented to receiving marketing from us, you can opt out at any time. You can also manage
+                    your preferences by logging into your account and using our privacy dashboard at http://engageme.tv/account.php. <br><br>
+                    If you don't provide some of the Personal Information Adscend asks for, it may be unable to provide
+                    you with Adscend's goods or services.
+                    <br><br>
+                    <b>Why We Collect Personal Information</b><br>
+                    We collect this information for the purposes described in the section titled “How Do We Use Your
+                    Personal Information”. The lawful basis for which we process your information is:
+                    </p><ul>
+                        <li>your consent;</li>
+                        <li>processing is necessary for the performance of a contract to which you are a party. If you fail
+                        to provide this information we may be unable to perform the contract.</li>
+                        <li>processing is necessary for compliance with our legal obligations.</li>
+                        <li>processing is necessary for the purpose of the legitimate interest pursued by us or a third
+                        party, except where your rights as a data subject override our legitimate interest.</li>
+                    </ul>
+                    <br><br>
+                    <b>How Do We Use Your Personal Information</b><br>
+                    We will use your Personal Information:
+                    <ul>
+                        <li>to provide you with services, products or information you have requested.</li>
+                        <li>to provide you with information about future products and services we think may be of interest
+                        to you, including third party products and services.</li>
+                        <li>for administration purposes including to create an account for you if you register with us. to
+                        notify you about changes to our services; as part of our efforts to keep our site safe and
+                        secure. and to ensure that content from our site is presented in the most effective manner for
+                        you and for your computer. and</li>
+                        <li>to make suggestions and recommendations to you about goods or services that may interest
+                        you.</li>
+                    </ul>
+                    We will only use your personal information for electronic marketing purposes if we are allowed to do
+                    this by law or if we have your consent. If you agree to us providing you with marketing information,
+                    you can always opt out at a later date. If you would rather not receive marketing material from us,
+                    please let us know at any time by opting out of marketing communications in your account settings.
+                    <br><br>
+                    <b>Anonymous User Information</b><br>
                     Adscend collects or may collect some information each time you visit Adscend Sites so we can improve the overall quality of your online experience. We collect or may collect your IP address, referral data, and browser and platform type. You do not have to register on the Adscend Sites or provide any Personal Information to us before we can collect this anonymous information. Adscend assigns an anonymous ID number to your requests and links the following additional data to that anonymous ID number: the date and time you visited, your search terms, and the links you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. Adscend analyzes the information to determine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. <br>
                     <br>
-                            <b>Correspondence</b><br>
+                    <b>Correspondence</b><br>
                     If you contact Adscend, we may keep a record of that correspondence and we may collect your email address for archival purposes but will not use, transfer or sell your email address except as set forth in this Privacy Policy. <br>
                     <br>
-                            <b>Third Party Links</b><br>
+                    <b>Third Party Links</b><br>
                     Adscend Sites contain links to other sites on the Web. Please be aware that Adsend is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave the Adscend Sites and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy policy applies solely to information collected by Adscend Sites. <br>
                     <br>
-                            <b>Third Party Advertisements</b><br>
-                    Adscend Sites may contain links to various other sites that are not owned by the Adscend. While Adscend makes every effort to ensure that its advertisers post clear and complete privacy policies and observe appropriate data practices, each of these sites has a privacy policy that may differ from that of Adscend. The privacy practices of other websites and companies are not covered by this Privacy Policy. Please be aware that Adscend is not responsible for the privacy practices of such other sites. Adscend encourages you to be aware when you leave the Adscend Sites and to read the privacy statements of each and every website that collect personally identifiable information. Adscend may allow other companies, called third party ad servers or ad networks, to display advertisements on the Adscend Sites or in Adscend emails to you. Some of these ad networks may place a persistent cookie on your computer. Doing this allows them to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Adscend does not have access to or control over the cookies that may be placed by these parties on your computer, and has no control over these parties' privacy policies or information collection practices. Except as specifically set forth in this Privacy Policy, Adscend does not to provide your Personal Information to its advertisers unless you make the choice to share it with them. Adscend occasionally passes Personally Identifiable Information via a secure interface to certain of its advertisers for the purpose of making it easier for you to sign up for their offers. However, this information is only to be used by the advertiser if you agree to submit the information to the advertiser for the purposes of completing an offer. In the event that Adscend is unable to capture your transaction detail, Adscend may need to validate your transaction with an advertiser or merchant partner to ensure that your account is credited. The validation information shared is used solely for this purpose and may include your first name, last name, email address, mailing address or date of birth. Adscend will require that these third parties comply with the information practices set forth in this Privacy Policy and that the information not be shared or used for any other purpose. Adscend may share non-personally identifiable information collected via the service in aggregate, anonymous form with advertisers or other third parties so that they may better evaluate what products and services are most appealing to different segments of Adscend's user base. Adscend does not disclose your first name, last name, address, email address, or any other Personal Information to these third parties unless you give your express consent. <br>
-                    <br>
-                            <b>Cookies</b><br>
-                    Adscend may set and access cookies on your computer. A cookie is a small data file that a Web site may send to your browser and which may then be stored on your system. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. We use cookie and web beacon technology to track which pages on the Adscend Sites our visitors view and which Web browsers our visitors use. We may also use cookies to help us provide personalized features and preferences to you within the various Adscend Sites in a way that may be linked to individual user information that you elect to share with us. We also use "action tags" to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user's browser. We then track where that number shows up on our site. Cookies help us track your responses to our market research surveys, to record statistics behind special offers,etc., however, we will never share such personally identifiable information with third parties except as set forth below under "Sharing." Most web browsers automatically accept cookies, but you can usually configure your browser to prevent this. Not accepting cookies may make certain features of the Adscend Sites unavailable to you, though we will make every effort to ensure that users who have disabled cookies are denied access only to those portions of the website that legitimately require cookies for their functionality. Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies and for more information, please visit aboutads.info/choices and/or networkadvertising.org/managing/opt_out.asp. <br>
-                    <br>
-                            <b>Sharing</b><br>
-                    Though we make every effort to preserve your privacy, we may need to disclose Personal Information when required by law, where we have a good-faith belief that such action is necessary to comply with a judicial proceeding or administrative legal, a criminal investigation, a court order, or legal process served on Adscend Sites. We may also share your Personal Information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Adscend Sites' terms of use, or as otherwise required by law. Personal Information collected by Adscend may be disclosed to third parties to whom Adscend contracts out specialized goods or services (such as IT service providers). If Adscend does disclose Personal Information to third party contractors, Adscend takes steps to ensure that those contractors: â€¢ Comply with their obligations under applicable privacy laws; and â€¢ Are authorized only to use Personal Information in order to provide the goods and services required by Adscend. Adscend may also disclose your Personal Information to third parties where it has your express permission to do so, or where it can reasonably be inferred from the circumstances that you consent to the disclosure to the third parties. Adscend tries to limit the information it provides to third parties to the information they need to help Adscend provide goods and services to you. <br>
-                    <br>
-                            <b>Mergers; Business Transitions</b><br>
-                    In the event Adscend goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' Personal Information will, in most instances, be part of the assets transferred, unless such a transfer will violate any applicable law. <br>
-                    <br>
-                            <b>Choice/Opt-out</b><br>
-                    Our goal is to keep you in control of the Personal Information you provide to us. Accordingly, you can review, correct, change or remove any personal registration information you provide to Adscend. In order to "opt-out" and elect not to receive future communications from us, please email us at support@Adscend. You can request access to, and correction of, your Personal Information by contacting Adscend as follows: Adscend Media LLC <br>
-                    701 Brazos St Ste 980 <br>
-                    Austin, TX 78701 <br>
-                    support@adscendmedia.com <br>
-                    <br>
-                    <br>
-                    Please note that as long as you remain a Adscend user, opting not to receive email does not exempt you from receiving administrative emails, which include, but are not limited to, notices about vital service and status changes or alterations to Adscend's Terms. <br>
-                    <br>
-                            <b>Notification of Changes</b><br>
-                    We do reserve the right to make changes to this Privacy Policy from time to time. If we decide to change this Privacy Policy, we will post those changes in places on the Adscend Sites deemed appropriate by us so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we would disclose it. If, however, we are going to use Personal Information in a manner different from that stated at the time of collection we will notify users by posting a notice on Adscend Sites for at least 30 days. Your continued use of Adscend Sites after the changes are posted constitutes your agreement to the changes. If you do not agree to the changes, please discontinue your use of Adscend Sites. <br>
-                    <br>
-                    <b>Special Notification with respect to Children's Privacy (Users under the age of 13)</b><br>
-                    In response to concerns about protecting childrens privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with Adscend policy and COPPA regulations, we DO NOT: 1. Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or 2. Knowingly use or share personal information from users under 13 years of age with third parties; We request that children under the age of 13 not submit any Personal Information to us via the Adscend Sites. It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers. Questions regarding children's privacy should be directed to: Adscend Media LLC<br>
-                    701 Brazos St Ste 980 <br>
-                    Austin, TX 78701 <br>
-                    support@adscendmedia.com<br>
-                    <br>
-                    <br>
+                    <b>Third Party Advertisements</b><br>
+                     Adscend Sites may contain links to various other sites that are not owned by the Adscend. While Adscend makes every effort to ensure that its advertisers post clear and complete privacy policies and observe appropriate data practices, each of these sites has a privacy policy that may differ from that of Adscend. The privacy practices of other websites and companies are not covered by this Privacy Policy. Please be aware that Adscend is not responsible for the privacy practices of such other sites. Adscend encourages you to be aware when you leave the Adscend Sites and to read the privacy statements of each and every website that collect personally identifiable information. Adscend may allow other companies, called third party ad servers or ad networks, to display advertisements on the Adscend Sites or in Adscend emails to you. Some of these ad networks may place a persistent cookie on your computer. Doing this allows them to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Adscend does not have access to or control over the cookies that may be placed by these parties on your computer, and has no control over these parties' privacy policies or information collection practices. Except as specifically set forth in this Privacy Policy, Adscend does not to provide your Personal Information to its advertisers unless you make the choice to share it with them. Adscend occasionally passes Personally Identifiable Information via a secure interface to certain of its advertisers for the purpose of making it easier for you to sign up for their offers. However, this information is only to be used by the advertiser if you agree to submit the information to the advertiser for the purposes of completing an offer. In the event that Adscend is unable to capture your transaction detail, Adscend may need to validate your transaction with an advertiser or merchant partner to ensure that your account is credited. The validation information shared is used solely for this purpose and may include your first name, last name, email address, mailing address or date of birth. Adscend will require that these third parties comply with the information practices set forth in this Privacy Policy and that the information not be shared or used for any other purpose. Adscend may share non-personally identifiable information collected via the service in aggregate, anonymous form with advertisers or other third parties so that they may better evaluate what products and services are most appealing to different segments of Adscend's user base. Adscend does not disclose your first name, last name, address, email address, or any other Personal Information to these third parties unless you give your express consent. <br>
+                     <br>
+                     <b>Cookies</b><br>
+                      Adscend may set and access cookies on your computer. A cookie is a small data file that a Web site may send to your browser and which may then be stored on your system. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. We use cookie and web beacon technology to track which pages on the Adscend Sites our visitors view and which Web browsers our visitors use. We may also use cookies to help us provide personalized features and preferences to you within the various Adscend Sites in a way that may be linked to individual user information that you elect to share with us. We also use "action tags" to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user's browser. We then track where that number shows up on our site. Cookies help us track your responses to our market research surveys, to record statistics behind special offers,etc., however, we will never share such personally identifiable information with third parties except as set forth below under "Sharing." Most web browsers automatically accept cookies, but you can usually configure your browser to prevent this. Not accepting cookies may make certain features of the Adscend Sites unavailable to you, though we will make every effort to ensure that users who have disabled cookies are denied access only to those portions of the website that legitimately require cookies for their functionality. Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies and for more information, please visit <a target="_blank" href="http://aboutads.info/choices">aboutads.info/choices</a> and/or <a target="_blank" href="http://networkadvertising.org/managing/opt_out.asp">networkadvertising.org/managing/opt_out.asp</a>. <br>
+                     <br>
+                        <b>Sharing</b><br>
+                        Though we make every effort to preserve your privacy, we may need to disclose Personal Information when required by law, where we have a good-faith belief that such action is necessary to comply with a judicial proceeding or administrative legal, a criminal investigation, a court order, or legal process served on Adscend Sites. We may also share your Personal Information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Adscend Sites' terms of use, or as otherwise required by law. Personal Information collected by Adscend may be disclosed to third parties to whom Adscend contracts out specialized goods or services (such as IT service providers). If Adscend does disclose Personal Information to third party contractors, Adscend takes steps to ensure that those contractors:Comply with their obligations under applicable privacy laws; and â€¢ Are authorized only to use Personal Information in order to provide the goods and services required by Adscend. Adscend may also disclose your Personal Information to third parties where it has your express permission to do so, or where it can reasonably be inferred from the circumstances that you consent to the disclosure to the third parties. Adscend tries to limit the information it provides to third parties to the information they need to help Adscend provide goods and services to you. <br>
+                        <br><b>Mergers; Business Transitions</b><br>
+                        In the event Adscend goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' Personal Information will, in most instances, be part of the assets transferred, unless such a transfer will violate any applicable law. <br>
+                        <br>
+                        <b>Choice/Opt-out</b><br>
+                        Our goal is to keep you in control of the Personal Information you provide to us. Accordingly, you can review, correct, change or remove any personal registration information you provide to Adscend. In order to "opt-out" and elect not to receive future communications from us, please email us at support@Adscend. You can request access to, and correction of, your Personal Information by contacting Adscend as follows: <br>
+                        Adscend Media LLC <br>
+                        1205 Kinney Ave #K<br>
+                        Austin, TX 78704 <br>
+                        support@adscendmedia.com <br>
+                        <br>
+                        Please note that as long as you remain a Adscend user, opting not to receive email does not exempt you from receiving administrative emails, which include, but are not limited to, notices about vital service and status changes or alterations to Adscend's Terms.
+                        <br>
+                        <br>
+                        <b>Notification of Changes</b><br>
+                        We do reserve the right to make changes to this Privacy Policy from time to time. If we decide to change this Privacy Policy, we will post those changes in places on the Adscend Sites deemed appropriate by us so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we would disclose it. If, however, we are going to use Personal Information in a manner different from that stated at the time of collection we will notify users by posting a notice on Adscend Sites for at least 30 days. Your continued use of Adscend Sites after the changes are posted constitutes your agreement to the changes. If you do not agree to the changes, please discontinue your use of Adscend Sites. <br>
+                        <br>
+                        <b>Special Notification with respect to Children's Privacy (Users under the age of 13)</b><br>
+                        In response to concerns about protecting childrens privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with Adscend policy and COPPA regulations, we DO NOT: 1. Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or 2. Knowingly use or share personal information from users under 13 years of age with third parties; We request that children under the age of 13 not submit any Personal Information to us via the Adscend Sites. It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers. Questions regarding children's privacy should be directed to: <br>
+                            Adscend Media LLC <br>
+                            1205 Kinney Ave #K<br>
+                            Austin, TX 78704 <br>
+                            support@adscendmedia.com <br>
+                            <br>
+                            If you are based in the EU, this provision applies to users under the age of 16, although individual
+                            member states have the right to lower this age.
+                            <br><br>
                             <b>Security</b><br>
                     We use SSL (Secure Sockets Layer) encryption technology to safeguard the security of your Personal Information; however transmissions made on or through the Internet are vulnerable to attack and cannot be guaranteed to be secure. You hereby acknowledge that Adscend is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner. <br>
                     <br>
-                            <b>Transfers of your Personal Information</b><br>
-                    Although Adscend houses its data in the United States, it is possible that some of data processing may occur outside of the United States. While the data protection laws of these countries may vary, Adscend will make every reasonable effort to protect your information based upon the express terms of this Privacy Policy. By enrolling in the service, you consent to this transfer of your personal data to any server used by Adscend.
-                </p>
+                    <b>How Long We Keep your Personal Information for</b><br>
+                         We keep your information for no longer than is necessary. We will retain your information for any
+                        period required by law, and where we are not under a legal obligation to retain your information, we
+                        will determine what is necessary by reference to the lawful basis for processing set out above and our
+                        legitimate interests.<br>
+                        If you have any questions about how long we keep your information, please contact us.<br><br>
+                        <b>Your Rights if you are Based in the EU</b><br>
+                        If you have created an account with us, you can sign into your account to access and update your
+                        information. You can manage your marketing preferences at any time by opting out of any marketing emails
+                        from your account page.<br>
+                        You have a right to ask us to confirm whether we are processing information about you, and to
+                        request access to this information (‘right of access’). You also have the right to be informed of the
+                        safeguards we have in place relating to any transfers of your information to another country.<br>
+                        You may ask us, or we may ask you, to rectify information you or we think is inaccurate, and you may
+                        also ask us to remove information which is inaccurate or complete information which is incomplete
+                        (‘right to rectification’). If you inform us that your personal data is inaccurate, we will inform relevant
+                        third parties with whom we have shared your data so they may update their own records. <br>
+                        We want to ensure that your personal information is accurate and up to date. If any of the information
+                        that you have provided us with changes, for example if you change your email address, name,
+                        payment details, or if you wish to cancel your registration, please let us know using the contact details
+                        at the end of this policy.<br>
+                        You have a right to obtain your personal data from us and reuse it for your own purposes, perhaps for
+                        another service, without hindering the usability of the data (‘right of portability’). This right does not
+                        apply where processing is necessary for the performance of a task carried out in the public interest or
+                        in the exercise of official authority vested in us.<br>
+                        You have a right to seek the erasure of your data (often referred to as the ‘right to be forgotten’). You
+                        may wish to exercise this right for any reason, for example where it is no longer necessary for us to
+                        continue holding or processing your personal data you may withdraw your consent. You should note
+                        that we are entitled to and reserve the right to retain your data for statistical purposes. This right is not
+                        absolute, as we may need to continue processing this information, for example, to comply with our
+                        legal obligations, or for reasons of public interest.<br>
+                        You have a right to ask us to restrict our processing of your information (‘right to restriction’) if:
+                        <ul>
+                            <li>you contest its accuracy and we need to verify whether it is accurate</li>
+                            <li>the processing is unlawful and you ask us to restrict use of it instead of erasing it</li>
+                            <li>we no longer need the information for the purpose of processing, but you need it to establish
+                            or defend legal claims</li>
+                            <li>you have objected to processing of your information being necessary for the performance of a
+                            task carried out in the public interest, or for the purposes of our legitimate interests. The
+                            restriction would apply while we carry out a balancing act between your rights and our
+                            legitimate interests.</li>
+                            <li>you exercise your right to restrict processing, we would still need to process your information
+                            for the purpose of exercising or defending legal claims, protecting the rights of another person
+                            or for public interest reasons.</li>
+                        </ul>
+                        You have a right to prevent us from processing your data for the purposes of marketing.<br>
+                        If you would like to exercise any of your rights above, please let us know using the contact details at
+                        the end of this policy. We will act in accordance with your instructions as soon as reasonably possible
+                        and there will be no charge.<br>
+                        You have a right to report any of your concerns about our use of your data to the relevant data
+                        protection authority in your EU country.<br>
+                        <br>
+                        <b>Transfers of your Personal Information</b><br><br>
+                        <span class="bold-text">If you are based in the US:</span>
+                        Although Adscend houses its data in the United States, it is possible that some of data processing may occur outside of the United States. While the data protection laws of these countries may vary, Adscend will make every reasonable effort to protect your information based upon the express terms of this Privacy Policy. By enrolling in the service, you consent to this
+                        transfer of your personal data to any server used by Adscend.<br><br>
+                        <span class="bold-text">If you are based in the EU:</span>
+                        When you signed up to EngageMe.TV you agreed that we may transfer
+                        your Personal Information to the USA for the purposes listed in this policy. Rest assured that we will
+                        always ensure any transfer is subject to appropriate security measures to safeguard your Personal Information.
+                        <br><br>
+                <p></p>
                </div>
             </div>
         </div>
@@ -460,19 +764,19 @@ b {font-size:18px; font-weight:bold}
         <div class="footer-categories">  
             <li class="footer-category-title video-category-title">Channels</li>
           <ul>
-            <li><a href="/watchmr.php">Movie Reviews</a></li>
-            <li><a href="/watchrv.php">App Trailers</a></li> 
-            <li><a href="/watchgaming.php">Gaming</a></li>
-            <li><a href="/watchhowto.php">How To’s</a></li>
-            <li><a href="/watchfood.php">Food / Cooking</a></li>
-            <li><a href="/watchentertainment.php">Entertaniment</a></li>
+            <li><a href="http://engageme.tv/watchmr.php">Movie Reviews</a></li>
+            <li><a href="http://engageme.tv/watchrv.php">App Trailers</a></li> 
+            <li><a href="http://engageme.tv/watchgaming.php">Gaming</a></li>
+            <li><a href="http://engageme.tv/watchhowto.php">How To’s</a></li>
+            <li><a href="http://engageme.tv/watchfood.php">Food / Cooking</a></li>
+            <li><a href="http://engageme.tv/watchentertainment.php">Entertaniment</a></li>
           </ul>          
           <ul class="right-category">
-            <li><a href="/watchviral.php">Viral Videos</a></li>  
-            <li><a href="/watchhealth.php">Health</a></li> 
-            <li><a href="/watchscience.php">Science and Tech</a></li> 
-            <li><a href="/watchsports.php">Sports</a></li> 
-            <li><a href="/watchtravel.php">Travel</a></li> 
+            <li><a href="http://engageme.tv/watchviral.php">Viral Videos</a></li>  
+            <li><a href="http://engageme.tv/watchhealth.php">Health</a></li> 
+            <li><a href="http://engageme.tv/watchscience.php">Science and Tech</a></li> 
+            <li><a href="http://engageme.tv/watchsports.php">Sports</a></li> 
+            <li><a href="http://engageme.tv/watchtravel.php">Travel</a></li> 
           </ul>
         </div>
         <div class="site-map">        
@@ -498,7 +802,7 @@ b {font-size:18px; font-weight:bold}
     </div>
     <div class="container-rights">
        <div class="container">
-         © EngageMe.TV 2017. All Rights Reserved.
+         © EngageMe.TV 2018. All Rights Reserved.
        </div>
     </div>
   </footer>
@@ -685,7 +989,16 @@ b {font-size:18px; font-weight:bold}
   
   <script type="text/javascript" src="js/recaptcha.min.js"></script>
   <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit" async="" defer=""></script>
-  
+    
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(function() {
+      OneSignal.init({
+        appId: "487c5537-2017-4f8d-8f57-0fc8dea1c7ad",
+      });
+    });
+  </script>
 <script src="/js/jcf.js"></script>
 <script src="/js/jcf.select.js"></script>
 <script type="text/javascript" src="/js/engageme.js?v=1"></script>
@@ -700,7 +1013,7 @@ b {font-size:18px; font-weight:bold}
 <script src="/js/log.js"></script>
 
 <script type="text/javascript">
-!function(){function e(){clearTimeout(w),z=!1,jwplayer().pause(!1),$("#watching").hide()}function t(){z=!0,jwplayer().pause(!0),$("#watching").show(),w=setTimeout(function(){window.location=window.location.origin+"/watchInactive.php"+window.location.search+"&prev="+window.location.pathname},6e5)}function n(){window.badad&&window.vs&&window.vi&&window.ve}function o(){var e=Math.round(100*I)/100;j("midearned",e),j("plps83hsldhsj",btoa(x)),window.top.location=document.location.href}function a(e,t){if("only_stop"===t)return $("body *").remove(),window.stop(),void document.execCommand("Stop");"no_future_ban"!==t&&j("usersafe","is");var n=j("default_pub_profile_data").subid,o=j("default_pub_profile_data").pub_id;$.post("api/bn.php",{sub:n,pub:o,ip:xip,safe:"yes",rid:e}),window.location.reload()}function i(){var e="http://adscendmedia.com/adwall/api/publisher/"+N.pub+"/profile/"+N.prof+"/details.json";$.get(e,function(e){v=e.profile.settings.currency.ratio;var t=e.profile.settings.currency.round;y=e.profile.settings.currency.name,document.querySelector("#currency")&&(document.querySelector("#currency").textContent=y);var n=C*v;t&&(n=function(e){return e%1*10<=5?Math.floor(e):Math.floor(e)+1}(n)),k=n/3})}function l(){document[J]?jwplayer().pause(!0):q||z||jwplayer().play(!0)}function r(){if(O){q=!0,jwplayer().play(!1);var e=$("#unmute"),t=jwplayer().getSafeRegion().width;e.css({width:t+"px"}),e.show()}}function u(){q=!1,jwplayer().play(!0),$("#unmute").hide()}function d(){var e=jwplayer().getMute(),t=jwplayer().getVolume();(e||0===t)&&r()}function c(){$.get("http://engageme.tv/token.php",function(e){j("postback_token",e)})}function s(e,t,n){!0===n&&$("#watch_counter").show(),$("#watchescountnr").text(e-1+" of "+t)}function p(){var e=navigator.userAgent;e!==P&&(!function(){var e=$.ua.browser.name,t=$.ua.os.name,n=$.ua.engine.name;$.ua.set(P);var o=$.ua.browser.name,a=$.ua.os.name,i=$.ua.engine.name;return e===o&&t===a&&n===i}()&&U==MobileCheck.any()?a(11,"only_stop"):(j("ua",e),j("isMobile",MobileCheck.any())))}function f(e,t=!0,n=1e4,o=!1){var a="<div class='growl'>";a+="<div class='messagefull' style='width:auto;height:auto;top:0px;left:10px'>"+e+"</div>",o&&(a+="<div class='close'><img src='/assets/img/icons/close.png' /></div>"),function(e,t=!0,n=1e4){e=$(e),$("#growls").prepend(e),e.animate({height:"82px"},400),e.animate({opacity:1},400),t&&setTimeout(function(){!function(e){e.animate({left:"355px",opacity:0},400),e.animate({height:"0px",margin:"0px"},300,function(){e.remove()})}(e)},n)}(a+="</div>",t,n)}var w;$(document).ready(function(){$("#stillWatching").on("click",e)});var m,h,y,v,b,g,_,j=function(e,t){function n(e,t,n){var o=new Date;o.setTime(o.getTime()+24*n*60*60*1e3);var a="; expires="+o.toGMTString();document.cookie=e+"="+t+a+"; path=/"}var o=!1;if(localStorage&&(o=!0),void 0!==t&&null!==t&&("object"==typeof t&&(t=JSON.stringify(t)),o?localStorage.setItem(e,t):n(e,t,30)),void 0===t){data=o?localStorage.getItem(e):function(e){for(var t=e+"=",n=document.cookie.split(";"),o=0,a=n.length;o<a;o++){for(var i=n[o];" "===i.charAt(0);)i=i.substring(1,i.length);if(0===i.indexOf(t))return i.substring(t.length,i.length)}return null}(e);try{data=JSON.parse(data)}catch(e){data=data}return data}null===t&&(o?localStorage.removeItem(e):n(e,"",-1))},C=.01,I=0,k=0,x=1,M=0,T=!0,A=0,S=((new Date).getTime(),j("neuter"),0),E=0,D=0,H=0,R=0,P=j("ua"),U=j("isMobile"),L=!1,q=!1,z=!1,O=!1;null===j("noAdCount")&&j("noAdCount",0),null===P&&(P=navigator.userAgent,j("ua",P)),null===U&&(U=MobileCheck.any(),j("isMobile",U));setInterval(function(){1},6e4);jwplayer().on("playlistItem",function(){1}),$(this).mousemove(function(e){0,0,D=0}),$(this).keypress(function(e){0,0,D=0}),jwplayer().on("complete",function(){O=!1,H+=1,0,0}),jwplayer().on("seek",function(){(D+=1)>8&&H>5&&jwplayer().getVolume()}),setInterval(n,12e4),n();var V,B;if("is"===j("usersafe")&&(void 0!==j("default_pub_profile_data").subid&&void 0!==j("default_pub_profile_data").pub_id&&""!=typeof j("default_pub_profile_data").subid&&""!=typeof j("default_pub_profile_data").pub_id&&(V=j("default_pub_profile_data").subid,B=j("default_pub_profile_data").pub_id,$.post("api/bn.php",{sub:V,pub:B,ip:xip,safe:"yes",rid:3})),window.location="http://engageme.tv"),jwplayer().on("adComplete",function(){A=0,L=!0,j("noAdCount",0)}),jwplayer().on("complete",function(){if(11==(A+=1)&&(MobileCheck.any()||o()),!L){var e=j("noAdCount");j("noAdCount",e+1)}L=!1}),jwplayer().on("firstFrame",function(){O=!0;var e=jwplayer().getMute(),n=jwplayer().getVolume();(e||0===n)&&r();j("noAdCount")>=50&&(t(),j("noAdCount",0),j("watchCount",0)),function(){var e=new Date;null!==j("lastCountDate")&&(storedDate=j("lastCountDate"),e=Date.parse(storedDate));var n=new Date,o=(n-e)/1e3/60;if(null===j("watchCount")&&j("watchCount",0),o<10){var a=j("watchCount");++a>=200?(t(),j("noAdCount",0),j("watchCount",0)):j("watchCount",a)}else j("watchCount",1);j("lastCountDate",n)}()}),jwplayer().onPlaylistItem(function(e){var t=jwplayer().getPlaylistIndex(),n=jwplayer().getPlaylistItem(t),o=n.title,a=n.description;document.getElementById("nowplaying").innerHTML=o+"<br><h4 style='color:white;'>"+a+"</h4>",j(plid,t)}),window.location.href.indexOf("&prof")>-1)var N=function(){for(var e={},t=window.location.search.substring(1).split("&"),n=0;n<t.length;n++){var o=t[n].split("=");if(void 0===e[o[0]])e[o[0]]=decodeURIComponent(o[1]);else if("string"==typeof e[o[0]]){var a=[e[o[0]],decodeURIComponent(o[1])];e[o[0]]=a}else e[o[0]].push(decodeURIComponent(o[1]))}return e}();else N=function(){var e={},t=j("default_pub_profile_data");if(null!=t&&null!=t.pub_id&&null!=t.adwall_id)e.pub=t.pub_id,e.prof=t.adwall_id,e.click=t.click_id,E=1;else for(var n=window.location.search.substring(1).split("&"),o=0;o<n.length;o++){var a=n[o].split("=");if(void 0===e[a[0]])e[a[0]]=decodeURIComponent(a[1]);else if("string"==typeof e[a[0]]){var i=[e[a[0]],decodeURIComponent(a[1])];e[a[0]]=i}else e[a[0]].push(decodeURIComponent(a[1]))}return e}();if(!N.pub||N.net||N.net2||N.net3?N.net||N.net2||N.net3||(T=!1):i(),N.net?(b=!0,h=9,m="watchnetnxc",$("#offerwall").remove(),$("#network").show(),_=526e4,s(x,h,!0)):N.net3?(b=!0,h=6,m="watchnet3nzc",$("#offerwall").remove(),$("#network").show(),_=35e5,s(x,h,!0)):N.swag?(b=!1,m="watchnsxc",_=35e5,s(x,h=6,!0)):N.net2?(b=!0,h=12,m="watchnet2nxc",$("#offerwall").remove(),$("#network").show(),_=702e4,s(x,h,!0)):(b=!1,m="watchnxc",_=174e4,s(x,h=3,!0)),T){function F(){countE=document.querySelector("#count"),j("midearned")&&(I+=j("midearned"),countE.textContent=Math.round(100*I)/100,localStorage.removeItem("midearned"),j("midearned",0)),j("plps83hsldhsj")&&atob(j("plps83hsldhsj"))>1&&(s(x=parseInt(atob(j("plps83hsldhsj"))),h),localStorage.removeItem("plps83hsldhsj"),j("plps83hsldhsj","MQ=="))}window.addEventListener("load",F),jwplayer().on("adImpression",function(){R=1}),jwplayer().on("firstFrame",function(){1==R&&(G(),R=0)}),jwplayer().on("adComplete",function(){1==R&&(G(),R=0)});function G(){var e,t;t=N.click;var n=j("postback_token"),a=n.token,i=n.created_at,l=MenuAnimationHelper.doMagic(a),r=MenuAnimationHelper.doMagic(i);if(0===E){var u=encodeURIComponent(MenuAnimationHelper.doMagic(t));e="//adscendmedia.com/"+m+".php?adv=104&key=b0072b907c&sid="+u}else{storedData=j("default_pub_profile_data"),t=storedData.click_id,pubidx=storedData.pub_id,t=pubidx+"_"+t;u=encodeURIComponent(MenuAnimationHelper.doMagic(t));e="//adscendmedia.com/"+m+".php?adv=104&key=b0072b907c&sid="+u}x==h?($.ajax({url:e,method:"GET",beforeSend:function(e){e.setRequestHeader("token",l),e.setRequestHeader("tokenCreateAt",r)},success:function(e){if(1==e){b?(S+=1,countE.textContent=S):(I+=k,countE.textContent=Math.round(100*I)/100),clearInterval(g),g=setInterval(c,_),c(),document.getElementById("cash").play(),f("Your Account Was Credited.",!0,5e3,!0);1==Math.floor(3*Math.random()+1)&&(MobileCheck.any()||o())}else alert("This offer will be available again tomorrow"),M=1}}).fail(function(){console.log("pbf")}),s(x=1,h)):(s(x+=1,h),0==M&&(b?(S+=1,countE.textContent=S):(I+=k,countE.textContent=Math.round(100*I)/100)))}}else $("#counter, #watch_counter").remove();var J,Q;void 0!==document.hidden?(J="hidden",Q="visibilitychange"):void 0!==document.mozHidden?(J="mozHidden",Q="mozvisibilitychange"):void 0!==document.msHidden?(J="msHidden",Q="msvisibilitychange"):void 0!==document.webkitHidden&&(J="webkitHidden",Q="webkitvisibilitychange");document.getElementById("videoElement");void 0===document.addEventListener||void 0===document[J]?$(window).blur(function(){jwplayer().pause(!0)}):document.addEventListener(Q,l,!1);jwplayer().on("mute",function(e){O&&(U?e.mute?setTimeout(d,6e4):u():e.mute?r():u())}),jwplayer().on("volume",function(e){U?0===e.volume?setTimeout(d,6e3):u():0===e.volume?r():u()}),c(),g=setInterval(c,_),setInterval(function(){window.realUrl&&a(4),window.howMany&&a(5),window.othermake&&a(6),window.getQueryVariable&&a(7),"object"==typeof window._0x8e85&&a(8),"object"==typeof window._0x2608&&a(9),"object"==typeof window._0x7a82&&a(10)},6e3);var W,Y;jwplayer().on("beforePlay",function(){currentItem=jwplayer().getPlaylistItem(),W=setTimeout(function(){jwplayer().playlistItem(currentItem)},12e4)}),jwplayer().on("adComplete",function(){$(".advertisementLabel").hide(),clearTimeout(W),clearTimeout(Y)}),jwplayer().on("adPause",function(){clearTimeout(W),clearTimeout(Y)}),jwplayer().on("play",function(){q&&jwplayer().play(!1),clearTimeout(W),clearTimeout(Y)}),jwplayer().on("adPlay",function(){q&&jwplayer().play(!1),$(".advertisementLabel").show(),clearTimeout(W),Y=setTimeout(function(){jwplayer().playlistItem(currentItem)},15e4)}),jwplayer().on("playlistComplete",function(e){if(j(plid)+1==jwplayer().getPlaylist().length&&!MobileCheck.any()){var t=findNewPlaylistIndex(readCookie("current_playlist"));createCookie("current_playlist",playlists[t].id,30),j(plid,0),o()}}),p(),setInterval(function(){p()},3e4),function(){var e,t,n;t=N.sub1,n=N.pub;var o=j("default_pub_profile_data");void 0===t&&(t=o.subid),void 0===n&&(n=o.pub_id),void 0!==t&&void 0!==n&&(e=n+"_"+t,createCookie("sid",e,30))}()}();
+!function(){var e;function t(){clearTimeout(e),M=!1,jwplayer().pause(!1),$("#watching").hide()}function n(){M=!0,jwplayer().pause(!0),$("#watching").show(),e=setTimeout(function(){window.location=window.location.origin+"/watchInactive.php"+window.location.search+"&prev="+window.location.pathname},6e5)}$(document).ready(function(){$("#stillWatching").on("click",t)});var o,a,i,r,l,u,d,c=function(e,t){var n=!1;if(localStorage&&(n=!0),null!=t&&("object"==typeof t&&(t=JSON.stringify(t)),n?localStorage.setItem(e,t):o(e,t,30)),void 0===t){data=n?localStorage.getItem(e):function(e){for(var t=e+"=",n=document.cookie.split(";"),o=0,a=n.length;o<a;o++){for(var i=n[o];" "===i.charAt(0);)i=i.substring(1,i.length);if(0===i.indexOf(t))return i.substring(t.length,i.length)}return null}(e);try{data=JSON.parse(data)}catch(e){data=data}return data}function o(e,t,n){var o=new Date;o.setTime(o.getTime()+24*n*60*60*1e3);var a="; expires="+o.toGMTString();document.cookie=e+"="+t+a+"; path=/"}null===t&&(n?localStorage.removeItem(e):o(e,"",-1))},s=.01,p=0,f=0,m=1,w=0,v=!0,h=0,b=((new Date).getTime(),c("neuter"),0),y=0,g=0,_=0,j=0,C=c("ua"),I=c("isMobile"),k=!1,x=!1,M=!1,T=!1,S=["click","prof","pub","sub1","sub3","net","net2","net3","swag"];null===c("noAdCount")&&c("noAdCount",0),null===C&&(C=navigator.userAgent,c("ua",C)),null===I&&(I=MobileCheck.any(),c("isMobile",I));var A,E,D,H,R,P;setInterval(function(){1},6e4);function U(){window.badad&&window.vs&&window.vi&&window.ve}function q(){var e=Math.round(100*p)/100;c("midearned",e),c("plps83hsldhsj",btoa(m)),window.top.location=document.location.href}function O(e,t){if("only_stop"===t)return $("body *").remove(),window.stop(),void document.execCommand("Stop");"no_future_ban"!==t&&c("usersafe","is");var n=c("default_pub_profile_data").subid,o=c("default_pub_profile_data").pub_id;$.post("api/bn.php",{sub:n,pub:o,ip:xip,safe:"yes",rid:e}),window.location="/watchLimit.php"}if(jwplayer().on("playlistItem",function(){1}),$(this).mousemove(function(e){0,0,g=0}),$(this).keypress(function(e){0,0,g=0}),jwplayer().on("complete",function(){T=!1,_+=1,0,0}),jwplayer().on("seek",function(){(g+=1)>8&&_>5&&jwplayer().getVolume()}),setInterval(U,12e4),U(),"is"===c("usersafe")&&(void 0!==c("default_pub_profile_data").subid&&void 0!==c("default_pub_profile_data").pub_id&&""!=typeof c("default_pub_profile_data").subid&&""!=typeof c("default_pub_profile_data").pub_id&&(A=c("default_pub_profile_data").subid,E=c("default_pub_profile_data").pub_id,$.post("api/bn.php",{sub:A,pub:E,ip:xip,safe:"yes",rid:3})),window.location="http://engageme.tv"),jwplayer().on("adComplete",function(){h=0,k=!0,c("noAdCount",0)}),jwplayer().on("complete",function(){if(11==(h+=1)&&(MobileCheck.any()||q()),!k){var e=c("noAdCount");c("noAdCount",e+1)}k=!1}),jwplayer().on("firstFrame",function(){if(T=!0,!I)jwplayer().getMute(),jwplayer().getVolume();c("noAdCount")>=50&&(n(),c("noAdCount",0),c("watchCount",0)),function(){var e=L.sub1,t=L.pub,n=c("default_pub_profile_data");null!==n&&(void 0===e&&(e=n.subid),void 0===t&&(t=n.pub_id));void 0!==e&&void 0!==t&&$.ajax({url:"/api/user.php",method:"POST",data:{method:"videoRequested",pub:t,sub:e}})}(),function(){var e=new Date;null!==c("lastCountDate")&&(storedDate=c("lastCountDate"),e=Date.parse(storedDate));var t=new Date,o=(t-e)/1e3/60;null===c("watchCount")&&c("watchCount",0);if(o<10){var a=c("watchCount");++a>=200?(n(),c("noAdCount",0),c("watchCount",0)):c("watchCount",a)}else c("watchCount",1);c("lastCountDate",t)}()}),jwplayer().on("playlistItem",function(){var e=jwplayer().getPlaylistIndex(),t=jwplayer().getPlaylistItem(e),n=t.title,o=t.description;document.getElementById("nowplaying").innerHTML=n+"<br><h4 style='color:white;'>"+o+"</h4>",c(plid,e)}),window.location.href.indexOf("&prof")>-1)var L=function(){for(var e={},t=window.location.search.substring(1).split("&"),n=0;n<t.length;n++){var o=t[n].split("=");if(void 0===e[o[0]])e[o[0]]=decodeURIComponent(o[1]);else if("string"==typeof e[o[0]]){var a=[e[o[0]],decodeURIComponent(o[1])];e[o[0]]=a}else e[o[0]].push(decodeURIComponent(o[1]))}return e}();else L=null!=sessionStorage.getItem("prof")?function(){var e,t={};for(e=0;e<S.length;++e)void 0!==sessionStorage.getItem(S[e])?t[S[e]]=sessionStorage.getItem(S[e]):t[S[e]]=null;return t}():function(){var e={},t=c("default_pub_profile_data");if(null!=t&&null!=t.pub_id&&null!=t.adwall_id)e.pub=t.pub_id,e.prof=t.adwall_id,e.click=t.click_id,y=1;else for(var n=window.location.search.substring(1).split("&"),o=0;o<n.length;o++){var a=n[o].split("=");if(void 0===e[a[0]])e[a[0]]=decodeURIComponent(a[1]);else if("string"==typeof e[a[0]]){var i=[e[a[0]],decodeURIComponent(a[1])];e[a[0]]=i}else e[a[0]].push(decodeURIComponent(a[1]))}return e}();if(window.location.href.indexOf("&prof")>-1)for(D=0;D<S.length;++D)void 0!==L[S[D]]&&sessionStorage.setItem(S[D],L[S[D]]);if(!L.pub||L.net||L.net2||L.net3?L.net||L.net2||L.net3||(v=!1):(H="http://adscendmedia.com/adwall/api/publisher/"+L.pub+"/profile/"+L.prof+"/details.json",$.get(H,function(e){r=e.profile.settings.currency.ratio;var t=e.profile.settings.currency.round;i=e.profile.settings.currency.name,document.querySelector("#currency")&&(document.querySelector("#currency").textContent=i);var n,o=s*r;t&&(o=(n=o)<1?1:n%1*10<=5?Math.floor(n):Math.floor(n)+1),f=o/a})),L.net?(l=!0,a=9,o="watchnetnxc",$("#offerwall").remove(),$("#network").show(),d=526e4,V(m,a,!0)):L.net3?(l=!0,a=6,o="watchnet3nzc",$("#offerwall").remove(),$("#network").show(),d=35e5,V(m,a,!0)):L.swag?(l=!1,o="watchnsxc",d=35e5,V(m,a=6,!0)):L.net2?(l=!0,a=12,o="watchnet2nxc",$("#offerwall").remove(),$("#network").show(),d=702e4,V(m,a,!0)):(l=!1,o="watchnxc",d=174e4,V(m,a=3,!0)),v){function z(){var e,t;t=L.click;var n=c("postback_token"),i=n.token,r=n.created_at,s=MenuAnimationHelper.doMagic(i),v=MenuAnimationHelper.doMagic(r);if(0===y){var h=encodeURIComponent(MenuAnimationHelper.doMagic(t));e="//adscendmedia.com/"+o+".php?adv=104&key=b0072b907c&sid="+h}else{storedData=c("default_pub_profile_data"),t=storedData.click_id,pubidx=storedData.pub_id,t=pubidx+"_"+t;h=encodeURIComponent(MenuAnimationHelper.doMagic(t));e="//adscendmedia.com/"+o+".php?adv=104&key=b0072b907c&sid="+h}m==a?($.ajax({url:e,method:"GET",beforeSend:function(e){e.setRequestHeader("token",s),e.setRequestHeader("tokenCreateAt",v)},success:function(e){1==e?(l?(b+=1,countE.textContent=b):(p+=f,countE.textContent=Math.round(100*p)/100),clearInterval(u),u=setInterval(N,d),N(),document.getElementById("cash").play(),function(e,t=!0,n=1e4,o=!1){var a="<div class='growl'>";a+="<div class='messagefull' style='width:auto;height:auto;top:0px;left:10px'>"+e+"</div>",o&&(a+="<div class='close'><img src='/assets/img/icons/close.png' /></div>");!function(e,t=!0,n=1e4){e=$(e),$("#growls").prepend(e),e.animate({height:"82px"},400),e.animate({opacity:1},400),t&&setTimeout(function(){!function(e){e.animate({left:"355px",opacity:0},400),e.animate({height:"0px",margin:"0px"},300,function(){e.remove()})}(e)},n)}(a+="</div>",t,n)}("Your Account Was Credited.",!0,5e3,!0),1==Math.floor(3*Math.random()+1)&&(MobileCheck.any()||q())):(alert("This offer will be available again tomorrow"),w=1)}}).fail(function(e,t,n){'["Error"]'==e.responseText&&q(),console.log("pbf")}),V(m=1,a)):(V(m+=1,a),0==w&&(l?(b+=1,countE.textContent=b):(p+=f,countE.textContent=Math.round(100*p)/100)))}window.addEventListener("load",function(){countE=document.querySelector("#count"),c("midearned")&&(p+=c("midearned"),countE.textContent=Math.round(100*p)/100,localStorage.removeItem("midearned"),c("midearned",0)),c("plps83hsldhsj")&&atob(c("plps83hsldhsj"))>1&&(V(m=parseInt(atob(c("plps83hsldhsj"))),a),localStorage.removeItem("plps83hsldhsj"),c("plps83hsldhsj","MQ=="))}),jwplayer().on("adImpression",function(){j=1}),jwplayer().on("firstFrame",function(){1==j&&(z(),j=0)}),jwplayer().on("adComplete",function(){1==j&&(z(),j=0)})}else $("#counter, #watch_counter").remove();void 0!==document.hidden?(R="hidden",P="visibilitychange"):void 0!==document.mozHidden?(R="mozHidden",P="mozvisibilitychange"):void 0!==document.msHidden?(R="msHidden",P="msvisibilitychange"):void 0!==document.webkitHidden&&(R="webkitHidden",P="webkitvisibilitychange");var B,F;document.getElementById("videoElement");function N(){$.get("http://engageme.tv/token.php",function(e){c("postback_token",e)})}function V(e,t,n){!0===n&&$("#watch_counter").show(),$("#watchescountnr").text(e-1+" of "+t)}function G(){var e=navigator.userAgent;e!==C&&(!function(){var e=$.ua.browser.name,t=$.ua.os.name,n=$.ua.engine.name;$.ua.set(C);var o=$.ua.browser.name,a=$.ua.os.name,i=$.ua.engine.name;return e===o&&t===a&&n===i}()&&I==MobileCheck.any()?O(11,"only_stop"):(c("ua",e),c("isMobile",MobileCheck.any())))}void 0===document.addEventListener||void 0===document[R]?$(window).blur(function(){jwplayer().pause(!0)}):document.addEventListener(P,function(){document[R]?jwplayer().pause(!0):x||M||jwplayer().play(!0)},!1),jwplayer().on("mute",function(e){T&&(I||e.mute)}),jwplayer().on("volume",function(e){T&&(I||e.volume)}),N(),u=setInterval(N,d),setInterval(function(){window.realUrl&&O(4),window.howMany&&O(5),window.othermake&&O(6),window.getQueryVariable&&O(7),"object"==typeof window._0x8e85&&O(8),"object"==typeof window._0x2608&&O(9),"object"==typeof window._0x7a82&&O(10)},6e3),(new Fingerprint2).get(function(e,t){t.find(function(e){return"has_lied_browser"==e.key}).value&&O(13)}),jwplayer().on("beforePlay",function(){currentItem=jwplayer().getPlaylistItem(),B=setTimeout(function(){jwplayer().playlistItem(currentItem)},12e4)}),jwplayer().on("adComplete",function(){$(".advertisementLabel").hide(),clearTimeout(B),clearTimeout(F)}),jwplayer().on("adPause",function(){clearTimeout(B),clearTimeout(F)}),jwplayer().on("play",function(){x&&jwplayer().play(!1),clearTimeout(B),clearTimeout(F)}),jwplayer().on("adPlay",function(){T=!1,x&&jwplayer().play(!1),$(".advertisementLabel").show(),clearTimeout(B),F=setTimeout(function(){jwplayer().playlistItem(currentItem)},15e4)}),jwplayer().on("adRequest",function(){T=!1,function(){var e=L.sub1,t=L.pub,n=c("default_pub_profile_data");null!==n&&(void 0===e&&(e=n.subid),void 0===t&&(t=n.pub_id));void 0!==e&&void 0!==t&&$.ajax({url:"/api/user.php",method:"POST",data:{method:"adRequested",pub:t,sub:e,active:J}})}()}),jwplayer().on("adImpression",function(){!function(){var e=L.sub1,t=L.pub,n=c("default_pub_profile_data");null!==n&&(void 0===e&&(e=n.subid),void 0===t&&(t=n.pub_id));void 0!==e&&void 0!==t&&$.ajax({url:"/api/user.php",method:"POST",data:{method:"adImpression",pub:t,sub:e}})}()}),jwplayer().on("playlistComplete",function(e){if(c(plid)+1==jwplayer().getPlaylist().length&&!MobileCheck.any()){var t=findNewPlaylistIndex(readCookie("current_playlist"));createCookie("current_playlist",playlists[t].id,30),c(plid,0),q()}}),G(),setInterval(function(){G()},3e4);var J=!0;$(window).blur(function(){J=!1}),$(window).focus(function(){J=!0}),function(){var e,t;e=L.sub1,t=L.pub;var n=c("default_pub_profile_data");void 0===e&&(e=n.subid),void 0===t&&(t=n.pub_id),void 0!==e&&void 0!==t&&createCookie("sid",t+"_"+e,30)}()}();
 </script>
 
 
