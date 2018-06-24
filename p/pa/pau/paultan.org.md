@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705003028id_/https%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624031906id_/https%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
 
 # Paul Tan's Automotive News - Privacy Policy
 
@@ -181,69 +181,71 @@ You can also write to us at:
 In the event of any conflict between the English and other language versions, the English version shall prevail. Paultan.org Automotive Network shall have the right to modify, update or amend the terms of this Notice at any time by placing the updated Notice on the Website. By continuing to communicate with Paultan.org Automotive Network or by continuing to use Paultan.org Automotive Network’s services following the modifications, updates or amendments to this Notice shall signify your acceptance of such modifications, updates or amendments.
 
   
+  
+  
 
 
-Local Car Launches
+Most Read Stories
 
-  * [](https://paultan.org/2017/06/20/maxus-g10-se-launched-in-malaysia-from-rm153k/ "Maxus G10 SE launched in Malaysia, from RM153k")
+  * [](https://paultan.org/2018/06/19/new-suzuki-jimny-revealed-a-cool-baby-g-wagen/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "New Suzuki Jimny revealed - a cool, baby G-Wagen")
 
-## [Maxus G10 SE launched in Malaysia, from RM153k](https://paultan.org/2017/06/20/maxus-g10-se-launched-in-malaysia-from-rm153k/ "Permalink to Maxus G10 SE launched in Malaysia, from RM153k")
+## [New Suzuki Jimny revealed - a cool, baby G-Wagen](https://paultan.org/2018/06/19/new-suzuki-jimny-revealed-a-cool-baby-g-wagen/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
 
-20th June 2017
+19th June 2018
 
-  * [](https://paultan.org/2017/06/19/volvo-v40-t5-inscription-launched-in-malaysia/ "Volvo V40 facelift launched in Malaysia – T5 Inscription priced at RM180,888; T4 to be introduced at later date")
+  * [](https://paultan.org/2018/06/21/honda-cb650f-kawasaki-z900-abs-triumph-765s-yamaha-mt-09-which-rm50k-bike-is-best-for-you/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "Honda CB650F, Kawasaki Z900 ABS, Triumph 765S, Yamaha MT-09 - which RM50k bike is best for you?")
 
-## [Volvo V40 facelift launched in Malaysia – T5 Inscription priced at RM180,888; T4 to be introduced at later date](https://paultan.org/2017/06/19/volvo-v40-t5-inscription-launched-in-malaysia/ "Permalink to Volvo V40 facelift launched in Malaysia – T5 Inscription priced at RM180,888; T4 to be introduced at later date")
+## [Honda CB650F, Kawasaki Z900 ABS, Triumph 765S, Yamaha MT-09 - which RM50k bike is best for you?](https://paultan.org/2018/06/21/honda-cb650f-kawasaki-z900-abs-triumph-765s-yamaha-mt-09-which-rm50k-bike-is-best-for-you/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
 
-19th June 2017
+21st June 2018
 
-  * [](https://paultan.org/2017/06/16/ds-5-facelift-launched-in-malaysia/ "DS 5 facelift now available in Malaysia – RM198,888")
+  * [](https://paultan.org/2018/06/18/no-public-funds-to-spare-for-new-national-car-project-lim-guan-eng/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "No public funds to spare for new national car project; must be backed by private sector - Lim Guan Eng")
 
-## [DS 5 facelift now available in Malaysia – RM198,888](https://paultan.org/2017/06/16/ds-5-facelift-launched-in-malaysia/ "Permalink to DS 5 facelift now available in Malaysia – RM198,888")
+## [No public funds to spare for new national car project; must be backed by private sector - Lim Guan Eng](https://paultan.org/2018/06/18/no-public-funds-to-spare-for-new-national-car-project-lim-guan-eng/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
 
-16th June 2017
+18th June 2018
 
-  * [](https://paultan.org/2017/06/09/2017-hyundai-elantra-ad-launched-in-malaysia-1-6-turbo-2-0-na-3-variants-from-rm116k/ "2017 Hyundai Elantra AD launched in Malaysia – 1.6 Turbo, 2.0 NA, three variants, from RM116k")
+  * [](https://paultan.org/2018/06/18/honda-hr-v-facelift-launched-in-thailand-new-rs-spec-with-aeb-lanewatch-glass-roof-pearl-red/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "Honda HR-V facelift launched in Thailand - new RS spec with AEB, LaneWatch, glass roof, pearl red")
 
-## [2017 Hyundai Elantra AD launched in Malaysia – 1.6 Turbo, 2.0 NA, three variants, from RM116k](https://paultan.org/2017/06/09/2017-hyundai-elantra-ad-launched-in-malaysia-1-6-turbo-2-0-na-3-variants-from-rm116k/ "Permalink to 2017 Hyundai Elantra AD launched in Malaysia – 1.6 Turbo, 2.0 NA, three variants, from RM116k")
+## [Honda HR-V facelift launched in Thailand - new RS spec with AEB, LaneWatch, glass roof, pearl red](https://paultan.org/2018/06/18/honda-hr-v-facelift-launched-in-thailand-new-rs-spec-with-aeb-lanewatch-glass-roof-pearl-red/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
 
-9th June 2017
+18th June 2018
 
-  * [](https://paultan.org/2017/06/08/2017-honda-jazz-hybrid-whats-sport-hybrid-i-dcd-and-how-different-is-it-from-integrated-motor-assist/ "2017 Honda Jazz Hybrid – what’s Sport Hybrid i-DCD and how different is it from Integrated Motor Assist?")
+  * [](https://paultan.org/2018/06/19/special-number-plates-cost-government-nearly-rm20-million-in-lost-revenue-for-each-series-loke/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "Special number plates cost government nearly RM20 million in lost revenue for each series - Loke")
 
-## [2017 Honda Jazz Hybrid – what’s Sport Hybrid i-DCD and how different is it from Integrated Motor Assist?](https://paultan.org/2017/06/08/2017-honda-jazz-hybrid-whats-sport-hybrid-i-dcd-and-how-different-is-it-from-integrated-motor-assist/ "Permalink to 2017 Honda Jazz Hybrid – what’s Sport Hybrid i-DCD and how different is it from Integrated Motor Assist?")
+## [Special number plates cost government nearly RM20 million in lost revenue for each series - Loke](https://paultan.org/2018/06/19/special-number-plates-cost-government-nearly-rm20-million-in-lost-revenue-for-each-series-loke/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
 
-8th June 2017
+19th June 2018
 
-  * [](https://paultan.org/2017/06/06/2017-honda-jazz-facelift-launched-in-malaysia/ "2017 Honda Jazz facelift launched in Malaysia – 1.5L and Sport Hybrid i-DCD variants, from RM74,800")
+  * [](https://paultan.org/2018/06/19/alternative-kl-sg-rail-line-mooted-slower-and-rm50-billion-cheaper-than-hsr-but-is-it-truly-needed/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "Alternative KL-SG rail line mooted - slower, RM50 billion cheaper than HSR, but is it truly needed?")
 
-## [2017 Honda Jazz facelift launched in Malaysia – 1.5L and Sport Hybrid i-DCD variants, from RM74,800](https://paultan.org/2017/06/06/2017-honda-jazz-facelift-launched-in-malaysia/ "Permalink to 2017 Honda Jazz facelift launched in Malaysia – 1.5L and Sport Hybrid i-DCD variants, from RM74,800")
+## [Alternative KL-SG rail line mooted - slower, RM50 billion cheaper than HSR, but is it truly needed?](https://paultan.org/2018/06/19/alternative-kl-sg-rail-line-mooted-slower-and-rm50-billion-cheaper-than-hsr-but-is-it-truly-needed/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
 
-6th June 2017
+19th June 2018
 
-  * [](https://paultan.org/2017/06/05/2017-proton-iriz-officially-launched-in-malaysia/ "2017 Proton Iriz officially launched – RM44k to RM59k")
+  * [](https://paultan.org/2018/06/18/proton-believes-car-prices-will-go-up-with-ssts-return/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "Proton believes car prices will go up with SST's return")
 
-## [2017 Proton Iriz officially launched – RM44k to RM59k](https://paultan.org/2017/06/05/2017-proton-iriz-officially-launched-in-malaysia/ "Permalink to 2017 Proton Iriz officially launched – RM44k to RM59k")
+## [Proton believes car prices will go up with SST's return](https://paultan.org/2018/06/18/proton-believes-car-prices-will-go-up-with-ssts-return/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
 
-5th June 2017
+18th June 2018
 
-  * [](https://paultan.org/2017/05/25/mercedes-amg-gla-45-4matic-facelift-introduced-in-malaysia-375-hp-and-475-nm-rm408888/ "Mercedes-AMG GLA45 4Matic facelift makes its Malaysian debut – 375 hp and 475 Nm, RM408,888")
+  * [](https://paultan.org/2018/06/21/2019-volvo-s60-officially-debuts/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "2019 Volvo S60 revealed - petrol powertrains only, optional Polestar Engineered upgrade, up to 415 hp")
 
-## [Mercedes-AMG GLA45 4Matic facelift makes its Malaysian debut – 375 hp and 475 Nm, RM408,888](https://paultan.org/2017/05/25/mercedes-amg-gla-45-4matic-facelift-introduced-in-malaysia-375-hp-and-475-nm-rm408888/ "Permalink to Mercedes-AMG GLA45 4Matic facelift makes its Malaysian debut – 375 hp and 475 Nm, RM408,888")
+## [2019 Volvo S60 revealed - petrol powertrains only, optional Polestar Engineered upgrade, up to 415 hp](https://paultan.org/2018/06/21/2019-volvo-s60-officially-debuts/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
 
-25th May 2017
+21st June 2018
 
-  * [](https://paultan.org/2017/05/25/x156-mercedes-benz-gla-facelift-launched-in-malaysia-gla200-for-rm240k-gla250-4matic-at-rm270k/ "X156 Mercedes-Benz GLA facelift launched in Malaysia – GLA200 for RM240k, GLA250 4Matic at RM270k")
+  * [](https://paultan.org/2018/06/20/nissan-badged-mitsubishi-xpander-mpv-from-2019-shared-next-gen-pick-up-truck-platform-in-2021/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "Nissan-badged Mitsubishi Xpander MPV from 2019, shared next-gen pick-up truck platform in 2021")
 
-## [X156 Mercedes-Benz GLA facelift launched in Malaysia – GLA200 for RM240k, GLA250 4Matic at RM270k](https://paultan.org/2017/05/25/x156-mercedes-benz-gla-facelift-launched-in-malaysia-gla200-for-rm240k-gla250-4matic-at-rm270k/ "Permalink to X156 Mercedes-Benz GLA facelift launched in Malaysia – GLA200 for RM240k, GLA250 4Matic at RM270k")
+## [Nissan-badged Mitsubishi Xpander MPV from 2019, shared next-gen pick-up truck platform in 2021](https://paultan.org/2018/06/20/nissan-badged-mitsubishi-xpander-mpv-from-2019-shared-next-gen-pick-up-truck-platform-in-2021/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
 
-25th May 2017
+20th June 2018
 
-  * [](https://paultan.org/2017/05/24/kia-optima-gt-launched-in-malaysia-242-hp-rm180k/ "Kia Optima GT launched in Malaysia – 242 hp, RM180k")
+  * [](https://paultan.org/2018/06/22/mrt-sungai-buloh-serdang-putrajaya-line-to-proceed-but-told-to-reduce-costs-by-cep-24-complete/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks "MRT Sungai Buloh-Serdang-Putrajaya line to proceed, but told to reduce costs by CEP - 24% complete")
 
-## [Kia Optima GT launched in Malaysia – 242 hp, RM180k](https://paultan.org/2017/05/24/kia-optima-gt-launched-in-malaysia-242-hp-rm180k/ "Permalink to Kia Optima GT launched in Malaysia – 242 hp, RM180k")
+## [MRT Sungai Buloh-Serdang-Putrajaya line to proceed, but told to reduce costs by CEP - 24% complete](https://paultan.org/2018/06/22/mrt-sungai-buloh-serdang-putrajaya-line-to-proceed-but-told-to-reduce-costs-by-cep-24-complete/?utm_source=topstories&utm_medium=internallinks&utm_campaign=internallinks)
 
-24th May 2017
+22nd June 2018
 
 
 
