@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news3lv.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229220813id_/http%3A//news3lv.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news3lv.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624141804id_/http%3A//news3lv.com/station/privacy) for the most accurate reproduction.*
 
 # Las Vegas Privacy | News, Weather, Sports, Breaking News | KSNV
 
