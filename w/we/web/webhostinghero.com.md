@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostinghero.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211203129id_/https%3A//www.webhostinghero.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostinghero.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625001101id_/https%3A//www.webhostinghero.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WebHostingHero.com
 
