@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigislandvideonews.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204032038id_/http%3A//www.bigislandvideonews.com/2009/01/01/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigislandvideonews.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625011147id_/http%3A//www.bigislandvideonews.com/2009/01/01/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
