@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrappygeek.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216002334id_/http%3A//scrappygeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrappygeek.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625004829id_/http%3A//scrappygeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosure
 
