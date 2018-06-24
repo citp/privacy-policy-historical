@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the littlethings.com privacy policy that was archived on 2017-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170905204455id_/https%3A//www.littlethings.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the littlethings.com privacy policy that was archived on 2018-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624130028id_/https%3A//www.littlethings.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class="no-js"><head>
     <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-52BVHT"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="text/javascript" src="//wurfl.io/wurfl.js"></script>
     <script type="text/javascript">
         var ajax_url = 'https://www.littlethings.com/wp/wp-admin/admin-ajax.php';
 
+        var isNativeAdArticle = false; // default
+        
         // Extract into LT Util Class for reuse - Dru
         var is_mobile = false;
         var is_tablet = false;
@@ -23,68 +25,14 @@
       var refresh_slideshow_ads = [];
     </script>
 
-    <!-- Rounding function -->
-    <script type="text/javascript">
-        function calcBidVal(bid_price, rev_share, penny_amount) {
-             rev_share = typeof rev_share !== 'undefined' ? rev_share : 1;
-             penny_amount = typeof penny_amount !== 'undefined' ? penny_amount : 1;
-             var cents_bid = bid_price;
-             cents_bid = cents_bid * rev_share;
-             if (isNaN(cents_bid)) {
-                 final_bid = 0;
-             } else {
-                 if (cents_bid > 0 && cents_bid <= 8) {
-                     final_bid = Math.round((Math.round(cents_bid * 4) / 4) * 100);
-                 } else if (cents_bid > 8 && cents_bid <= 12) {
-                     final_bid = Math.round((Math.round(cents_bid * 2) / 2) * 100);
-                 }  else if (cents_bid > 12) {
-                     final_bid = 1200;
-                 }
-                    else {
-                      final_bid = 0;
-                  }
-             }
-             if (!penny_amount) {
-                 final_bid = final_bid / 100;
-             }
-             return final_bid;
-        };
-
-        fb_bid_l = '';
-        fb_bid_id_l = '';
-        fb_bid_r = '';
-        fb_bid_id_r = '';
-        if (is_tablet == true){
-            function reqListener () {
-                fb_response = JSON.parse(this.responseText);
-                try{
-                    anId = '544862049022228_762365403938557'
-                    fb_bid_l = fb_response.bids[anId][0].bid_price_cents;
-                    fb_bid_id_l = fb_response.bids[anId][0].bid_id;
-                    fb_bid_l = calcBidVal((parseFloat(fb_bid_l) / 100));
-                } catch (e) {}
-                try{
-                    anId = '544862049022228_762365517271879'
-                    fb_bid_r = fb_response.bids[anId][0].bid_price_cents;
-                    fb_bid_id_r = fb_response.bids[anId][0].bid_id;
-                    fb_bid_r = calcBidVal((parseFloat(fb_bid_r) / 100));
-                } catch (e) {}
-            }
-            var oReq = new XMLHttpRequest();
-            oReq.addEventListener("load", reqListener);
-            oReq.open("GET", "https://an.facebook.com/v2/placementbid.json?sdk=5.3.web&placementids[]=544862049022228_762365403938557&adformats[]=native&placementids[]=544862049022228_762365517271879&adformats[]=native");
-            oReq.withCredentials = true;
-            oReq.send();
-        }
-    </script>
-    <!-- end FB -->
     <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
     <!-- Index Header Tag -->
     <script async="" src="//js-sec.indexww.com/ht/p/183649-131226622119371.js"></script>
     <!-- lotame -->
     <script type="text/javascript" src="//ad.crwdcntrl.net/5/c=9173/pe=y/var=ccauds"></script>
 
-            <script src="//content.jwplatform.com/libraries/kuN9KKGG.js"></script>
+            <script src="//content.jwplatform.com/libraries/uSWhbiuC.js"></script>
+        <script src="//js.moatads.com/jwplayerplugin0938452/moatplugin.js"></script>
     
     <!-- DFP Setup -->
     <script>
@@ -115,8 +63,7 @@
                                         if (is_tablet == true){
                         googletag.defineSlot('/58585122/LT_Tablet_Right', [[300, 250]], 'div-gpt-ad-1471349140327-0').setTargeting('pos', 'tab_right').addService(googletag.pubads());
                     }
-                                googletag.defineSlot('/58585122/LT_1x1', [[1, 1]], 'div-gpt-ad-1425403661677-0').setTargeting('pos', 'high_impact').addService(googletag.pubads());
-                var dartCCKey = "ccaud";
+                                                var dartCCKey = "ccaud";
                 var dartCC = "";
                 if (typeof(ccauds) != 'undefined') {
                     for (var cci = 0; cci < ccauds.Profile.Audiences.Audience.length; cci++) {
@@ -132,13 +79,8 @@
                 googletag.pubads().setTargeting("vpage","");
                 googletag.pubads().setTargeting(dartCCKey, [dartCC]);
                 googletag.pubads().setTargeting("jw_vid",jw_vid);
-                                if (is_tablet == true){
-                    googletag.pubads().setTargeting("fb_bid_l", fb_bid_l.toString());
-                    googletag.pubads().setTargeting("fb_bid_id_l", fb_bid_id_l.toString());
-                    googletag.pubads().setTargeting("fb_bid_r", fb_bid_r.toString());
-                    googletag.pubads().setTargeting("fb_bid_id_r", fb_bid_id_r.toString());
-                }
-                googletag.enableServices();
+                
+                                googletag.enableServices();
             });
         </script>
         <script type="text/javascript">
@@ -184,67 +126,48 @@
     <link rel="dns-prefetch" href="//www.facebook.com">
     <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
     <link rel="dns-prefetch" href="//www.littlethings.com">
+    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/baccekfjlohcgnecjcjpopcmlegdbcpl">
 
-    <link href="https://cdn0.littlethings.com/app/themes/littlethings/img/icons/favicon.ico" rel="shortcut icon">
+    <link href="https://cdn6.littlethings.com/app/themes/littlethings/img/icons/favicon.ico" rel="shortcut icon">
     <link href="https://cdn7.littlethings.com/app/themes/littlethings/img/icons/093015/touch.png" rel="apple-touch-icon-precomposed">
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Sans:400,700|Bree+Serif|Architects+Daughter|Alegreya:400,700|Montserrat:400,600,700|Raleway:300,400,500,600,700,800" media="screen">
-    <link rel="stylesheet" href="https://cdn7.littlethings.com/app/themes/littlethings/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Sans:400,700|Bree+Serif|Architects+Daughter|Alegreya:400,700|Montserrat:400,500,600,700|Raleway:300,400,500,600,700,800" media="screen">
+    <link rel="stylesheet" href="https://cdn0.littlethings.com/app/themes/littlethings/css/font-awesome.min.css" type="text/css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta property="fb:app_id" content="663436973736133">
     <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
         
-<!-- This site is optimized with the Yoast WordPress SEO plugin v2.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v7.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://www.littlethings.com/privacy/">
 <link rel="publisher" href="https://plus.google.com/+Littlethingscom">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Privacy Policy Privacy Policy The LittleThings™ website located at www.littlethings.com (the “Site”) is an Internet property of LittleThings Inc. (“LittleThings™,” “we” or “us”). This LittleThings™ Website Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when you: (a) access or use the Site; (b) access and/or view any...">
+<meta name="twitter:description" content="LittleThings® Website Privacy Policy Last Updated: May 2nd, 2018 The LittleThings™ website located at www.littlethings.com (the “Site”) is an Internet property of RockYou Inc. (“LittleThings™,” “we” or “us”). This LittleThings® Website Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when you: (a) access or use the Site;...">
 <meta name="twitter:title" content="Privacy Policy/Rights">
 <meta name="twitter:site" content="@littlethingsusa">
-<meta name="twitter:domain" content="LittleThings">
-<meta name="twitter:image:src" content="https://cdn0.littlethings.com/app/uploads/2014/08/privacy_thumb.png">
+<meta name="twitter:image" content="https://cdn8.littlethings.com/app/uploads/2014/08/privacy_thumb.png">
 <meta name="twitter:creator" content="@littlethingsusa">
-<meta name="twitter:url" content="https://www.littlethings.com/privacy/">
-<!-- / Yoast WordPress SEO plugin. -->
+<!-- / Yoast SEO plugin. -->
 
-<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//secure.rebel.ai">
 <link rel="dns-prefetch" href="//s.w.org">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.littlethings.com\/wp\/wp-includes\/js\/wp-emoji-release.min.js"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.littlethings.com/wp/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="lt-infinite-posts-sidebarstyle-css" href="https://cdn2.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/css/style-a60f99daf3128baf3fd3f020f59927a6.css" media="all"><link rel="stylesheet" id="perfect-scrollbar-css" href="https://cdn1.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/css/perfect-scrollbar.min-a60f99daf3128baf3fd3f020f59927a6.css" media="all"><link rel="stylesheet" id="postsocial_style-css" href="https://cdn2.littlethings.com/app/plugins/petflow-postsocial/css/postsocial-style-a60f99daf3128baf3fd3f020f59927a6.css" media="all"><link rel="stylesheet" id="stylesheet-css" href="https://cdn2.littlethings.com/app/plugins/littlethings-custom-team-manager/css/stylesheet-a60f99daf3128baf3fd3f020f59927a6.css" media="all"><link rel="stylesheet" id="littlethings-jw-rss-css" href="https://cdn0.littlethings.com/app/plugins/littlethings-jw-rss/assets/css/style-a60f99daf3128baf3fd3f020f59927a6.css" media="all"><link rel="stylesheet" id="wc-shortcodes-style-css" href="https://cdn7.littlethings.com/app/plugins/wc-shortcodes/public/assets/css/style-7e3c02d03ed14f3e7b7edc48ac782dc9.css" media="all"><link rel="stylesheet" id="normalize-css" href="https://cdn7.littlethings.com/app/themes/littlethings/normalize-a60f99daf3128baf3fd3f020f59927a6.css" media="all"><link rel="stylesheet" id="general-css" href="https://cdn2.littlethings.com/app/themes/littlethings/css/general-a60f99daf3128baf3fd3f020f59927a6.css" media="all"><link rel="stylesheet" id="html5blank-css" href="https://cdn4.littlethings.com/app/themes/littlethings//style-a60f99daf3128baf3fd3f020f59927a6.css" media="all"><link rel="stylesheet" id="jquery-bxslider-css" href="https://cdn6.littlethings.com/app/themes/littlethings/js/lib/jquery-bxslider/jquery.bxslider-a60f99daf3128baf3fd3f020f59927a6.css" media="all"><link rel="stylesheet" id="wordpresscanvas-font-awesome-css" href="https://cdn1.littlethings.com/app/plugins/wc-shortcodes/public/assets/css/font-awesome.min-5af637ad89a06fb23533cfbcd88b623d.css" media="all"><script type="text/javascript" src="https://cdn9.littlethings.com/app/themes/littlethings/js/jquery.min-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn8.littlethings.com/app/themes/littlethings/js/clipboard-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn9.littlethings.com/app/themes/littlethings/js/queryCommandSupported-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn2.littlethings.com/app/themes/littlethings/js/streamsense.5.1.1.160316.min-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn2.littlethings.com/app/themes/littlethings//js/scripts-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn0.littlethings.com/app/themes/littlethings/js/lib/modernizr-2.7.1.min-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn1.littlethings.com/app/themes/littlethings/js/jquery.devicedetector-a60f99daf3128baf3fd3f020f59927a6.js"></script>
+<script type="text/javascript">var littlethingsGlobalConfigs = {};littlethingsGlobalConfigs.user_survey_utm_sources    = "borispark";littlethingsGlobalConfigs.user_survey_ab_enabled     = "";littlethingsGlobalConfigs.user_survey_ab_case_a      = "0";littlethingsGlobalConfigs.user_survey_ab_case_b      = "0";littlethingsGlobalConfigs.user_survey_ab_case_c      = "0";littlethingsGlobalConfigs.next_post_excluding_gallery = {};littlethingsGlobalConfigs.is_jwVideo      = "";littlethingsGlobalConfigs.is_native = "0";littlethingsGlobalConfigs.onesignal = "7240848c-32a6-4d0e-8faa-587f5cc8e68b";littlethingsGlobalConfigs.onesignal_safari = "web.onesignal.auto.2cb21d9d-922f-420a-8137-99f511b7fc1b";</script><script type="text/javascript">littlethingsGlobalConfigs.ltabt_subscribe_popup_ad_blocker = [];littlethingsGlobalConfigs.ltabt_signup_fb_messenger = [];littlethingsGlobalConfigs.ltabt_signup_fb_messenger_tablet = [];littlethingsGlobalConfigs.ltabt_signup_fb_messenger_mobile = {"messenger_controlm":{"holdout":"0","control":"100","variant":"0","expires":86400,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"messenger_variant1m":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"100","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"messenger_variant14m":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"100","variant_15":"0","variant_16":"0","variant_17":"0"},"messenger_variant15m":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"100","variant_16":"0","variant_17":"0"},"messengergreencenter":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"100","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"messengerbluecenter":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"100","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"messengerpurplecenter":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"100","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"messengerorangecenter":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"100","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"messengergreencenterdash":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"100","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"messengerbluecenterdash":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"100","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"messengerpurplecenterdash":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"100","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"messengerorangecenterdash":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"messengercenterdash":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"100","variant_15":"0","variant_16":"0","variant_17":"0"},"messengercenter":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"100","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"messengerbluebottom":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"100","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"}};littlethingsGlobalConfigs.ltabt_push_notifications_popup = {"notify_me":{"holdout":"0","control":"0","variant":"100","expires":604800},"all_partners_utm":{"holdout":"0","control":"0","variant":"100","expires":604800,"all_utms":"borispark"}};littlethingsGlobalConfigs.ltabt_push_notifications_popup_mobile = {"":{"holdout":"","control":"","variant":"","expires":0}};littlethingsGlobalConfigs.ltabt_push_notifications_popup_safari = {"":{"holdout":"","control":"","variant":"","expires":0},"safaritest":{"holdout":"","control":"","variant":"100","expires":86400},"all_partners_utm":{"holdout":"0","control":"0","variant":"100","expires":604800,"all_utms":"borispark"}};littlethingsGlobalConfigs.ltabt_one_click_newsletter_signup = {"control":{"holdout":"0","control":"100","expires":86400},"":{"holdout":"95","control":"5","expires":1814400},"instagramnewsletter":{"holdout":"0","control":"100","expires":1814400}};littlethingsGlobalConfigs.ltabt_lt_bits = {"bitsv":{"holdout":"0","control":"0","variant":"100","expires":86400,"browsers":["chrome"]},"bitsc":{"holdout":"0","control":"100","variant":"0","expires":86400,"browsers":["chrome"]}};littlethingsGlobalConfigs.ltabt_stop_related_in_jw_player = {"stop_h":{"holdout":"100","control":"0","variant":"0","expires":604800},"stop_c":{"holdout":"0","control":"100","variant":"0","expires":86400},"stop_v":{"holdout":"0","control":"0","variant":"100","expires":86400}};</script><link rel="stylesheet" id="stylesheet-css" href="https://cdn0.littlethings.com/app/plugins/littlethings-custom-team-manager/css/stylesheet-137bc3996f1ab443348e19cacfbb24b9.css" media="all"><link rel="stylesheet" id="littlethings-jw-rss-css" href="https://cdn0.littlethings.com/app/plugins/littlethings-jw-rss/assets/css/style-137bc3996f1ab443348e19cacfbb24b9.css" media="all"><link rel="stylesheet" id="normalize-css" href="https://cdn0.littlethings.com/app/themes/littlethings/normalize-137bc3996f1ab443348e19cacfbb24b9.css" media="all"><link rel="stylesheet" id="general-css" href="https://cdn0.littlethings.com/app/themes/littlethings/css/general-137bc3996f1ab443348e19cacfbb24b9.css" media="all"><link rel="stylesheet" id="html5blank-css" href="https://cdn0.littlethings.com/app/themes/littlethings//style-137bc3996f1ab443348e19cacfbb24b9.css" media="all"><link rel="stylesheet" id="jquery-bxslider-css" href="https://cdn0.littlethings.com/app/themes/littlethings/js/lib/jquery-bxslider/jquery.bxslider-137bc3996f1ab443348e19cacfbb24b9.css" media="all"><script type="text/javascript">
+/* <![CDATA[ */
+var rebel_vars = {"RebelPassportOptions":{"dest_id":"f46280c8a3829e561648d1a3829e561668d1f952d4087220134be294087220136be243","crypto":"7nx1ZQvjliY9y8NDB3abyA%253D%253DLuafUHIchntx16izATE5qU1sDQTlQv%252BkrocNv8RRNhXXM%252BCjhO0Rq54Pt8W%252FE%252FCyQ5PMIykpugtX8KQblJGbRX7LeAb6FMd5ehxNS2kXIiqTt6YC7%252BpIsqwJJdTFQogyumTT4sgSuz0oBSA7ywII%252Fp6Y8HB8UH%252F6ewx4OHGW0jQ9hBqgpN%252BxzooGh8eKf05wQ8DPAaAKaE61GyxbsX%252FMZWIha1EVwW5SUageUL1Me5vbrUwJkA1Y%252FtdEa3a54zBzkUEHE0YbeEH%252BFs6erUrYDurMUJV4wgQxRVSyc0Ye8IGRNe4qWoC8gHYjG%252FxLhG6%252BcMzn2CLCaPWHWJ%252FVepO2T%252Bw%252Fbtc1XaPLeChtJ3mAWEpO%252BrfaDuu2n5KjeR7ivnRk1BXDsPNiDs%252FgfZuPNy6dYmk7wYCW027GIG8uxGjOeMvPd7wNIFLPFmVSeaL7UmmTz9wrRt%252BtJp94Tg1w%252FqnPMLyqrLyPGfTpmApQ%252FAFVvmjUBrARSdURAHabdN0E%252FRCkh8JEYaYum4Nhdi%252F4dks2fOrcNtAu182hJiIcEACGMtmJiJCLDdYK1Bcx0CFZT0nnvK8oxakRWeJDqrxS6LZGqzoGOOXxfBzXIs39MjDFIpPjsjo%252Fgwa3k%252BINZ0vHGB8eEi5JFGsQOjY3EwO4USFojPLMEGZPNyOE%252FRsreE35mClvg6bCidnkSuutFvTMCPgOaNUR0632W8wwhqlLP8krDJnvo1w9LuL2aDmM7%252F1PW3z8mE2lX1aIUAunoNT0guy6rWb%252F6SvYCYgdJ8LWSuHQBvvsIjJ%252FQRY%252BYYBDO0QLLsOkVlzr9gcE1O3qF4sM6Xbk01OAfnIiSBcgL7mPfArGNs25%252F9ShyImVaVpVEWlPpwDkbrJjGkzr8dusH6ExkEDIpoaVrCEDeApZg8biqSNcwcOIk7K8i%252BcQQ%252BUa8VBPvvACF%252BLHSiMszLZMGuhMzGRaYva%252FYJHzssBhy82XJsZAdaJb6Ahz%252F5lEhKbCpsSeB5E%253D"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://secure.rebel.ai/adb/publisher-passport?dg=f46280c8a3829e561648d1a3829e561668d1f952d4087220134be294087220136be243&amp;enc=7nx1ZQvjliY9y8NDB3abyA%3D%3DLuafUHIchntx16izATE5qU1sDQTlQv%2BkrocNv8RRNhXXM%2BCjhO0Rq54Pt8W%2FE%2FCyQ5PMIykpugtX8KQblJGbRX7LeAb6FMd5ehxNS2kXIiqTt6YC7%2BpIsqwJJdTFQogyumTT4sgSuz0oBSA7ywII%2Fp6Y8HB8UH%2F6ewx4OHGW0jQ9hBqgpN%2BxzooGh8eKf05wQ8DPAaAKaE61GyxbsX%2FMZWIha1EVwW5SUageUL1Me5vbrUwJkA1Y%2FtdEa3a54zBzkUEHE0YbeEH%2BFs6erUrYDurMUJV4wgQxRVSyc0Ye8IGRNe4qWoC8gHYjG%2FxLhG6%2BcMzn2CLCaPWHWJ%2FVepO2T%2Bw%2Fbtc1XaPLeChtJ3mAWEpO%2BrfaDuu2n5KjeR7ivnRk1BXDsPNiDs%2FgfZuPNy6dYmk7wYCW027GIG8uxGjOeMvPd7wNIFLPFmVSeaL7UmmTz9wrRt%2BtJp94Tg1w%2FqnPMLyqrLyPGfTpmApQ%2FAFVvmjUBrARSdURAHabdN0E%2FRCkh8JEYaYum4Nhdi%2F4dks2fOrcNtAu182hJiIcEACGMtmJiJCLDdYK1Bcx0CFZT0nnvK8oxakRWeJDqrxS6LZGqzoGOOXxfBzXIs39MjDFIpPjsjo%2Fgwa3k%2BINZ0vHGB8eEi5JFGsQOjY3EwO4USFojPLMEGZPNyOE%2FRsreE35mClvg6bCidnkSuutFvTMCPgOaNUR0632W8wwhqlLP8krDJnvo1w9LuL2aDmM7%2F1PW3z8mE2lX1aIUAunoNT0guy6rWb%2F6SvYCYgdJ8LWSuHQBvvsIjJ%2FQRY%2BYYBDO0QLLsOkVlzr9gcE1O3qF4sM6Xbk01OAfnIiSBcgL7mPfArGNs25%2F9ShyImVaVpVEWlPpwDkbrJjGkzr8dusH6ExkEDIpoaVrCEDeApZg8biqSNcwcOIk7K8i%2BcQQ%2BUa8VBPvvACF%2BLHSiMszLZMGuhMzGRaYva%2FYJHzssBhy82XJsZAdaJb6Ahz%2F5lEhKbCpsSeB5E%3D"></script>
+<script type="text/javascript" src="https://cdn1.littlethings.com/app/themes/littlethings/minified_assets/script/script_096a53a9e3c6241eb6e70a2857bb1f79-fd63bb23b8fdd1c49c929e274f6f9795.js"></script>
 <link rel="https://api.w.org/" href="https://www.littlethings.com/wp-json/">
 <link rel="alternate" type="application/json+oembed" href="https://www.littlethings.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.littlethings.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.littlethings.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.littlethings.com%2Fprivacy%2F&amp;format=xml">
-<script type="text/javascript">var littlethingsGlobalConfigs = {};littlethingsGlobalConfigs.user_survey_utm_sources    = "borispark";littlethingsGlobalConfigs.user_survey_ab_enabled     = "";littlethingsGlobalConfigs.user_survey_ab_case_a      = "0";littlethingsGlobalConfigs.user_survey_ab_case_b      = "0";littlethingsGlobalConfigs.user_survey_ab_case_c      = "0";littlethingsGlobalConfigs.next_post_excluding_gallery = {};littlethingsGlobalConfigs.is_jwVideo      = "";littlethingsGlobalConfigs.is_native = "0";littlethingsGlobalConfigs.onesignal = "7240848c-32a6-4d0e-8faa-587f5cc8e68b";littlethingsGlobalConfigs.onesignal_safari = "web.onesignal.auto.2cb21d9d-922f-420a-8137-99f511b7fc1b";</script><script type="text/javascript">littlethingsGlobalConfigs.ltabt_subscribe_popup_ad_blocker = [];littlethingsGlobalConfigs.ltabt_signup_fb_messenger = [];littlethingsGlobalConfigs.ltabt_signup_fb_messenger_tablet = [];littlethingsGlobalConfigs.ltabt_signup_fb_messenger_mobile = {"messenger_controlm":{"holdout":"0","control":"100","variant":"0","expires":86400,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"","variant_17":""},"messenger_variant1m":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"100","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"","variant_17":""},"messenger_variant14m":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"100","variant_15":"0","variant_16":"","variant_17":""},"messenger_variant15m":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"100","variant_16":"","variant_17":""},"messengergreencenter":{"holdout":"0","control":"0","variant":"0","expires":0,"variant_1":"0","variant_2":"100","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"","variant_17":""},"messengerbluecenter":{"holdout":"0","control":"0","variant":"0","expires":0,"variant_1":"0","variant_2":"0","variant_3":"100","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"","variant_17":""},"messengerpurplecenter":{"holdout":"0","control":"0","variant":"0","expires":0,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"100","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"","variant_17":""},"messengerorangecenter":{"holdout":"0","control":"0","variant":"0","expires":0,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"100","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"","variant_17":""},"messengergreencenterdash":{"holdout":"0","control":"0","variant":"0","expires":0,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"100","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"","variant_17":""},"messengerbluecenterdash":{"holdout":"0","control":"0","variant":"0","expires":0,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"100","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"","variant_17":""},"messengerpurplecenterdash":{"holdout":"0","control":"0","variant":"0","expires":0,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"100","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"","variant_17":""},"messengerorangecenterdash":{"holdout":"0","control":"0","variant":"0","expires":0,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"","variant_17":""},"messengercenterdash":{"holdout":"0","control":"0","variant":"0","expires":0,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"100","variant_15":"0","variant_16":"","variant_17":""},"messengercenter":{"holdout":"0","control":"0","variant":"0","expires":0,"variant_1":"100","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"","variant_17":""},"":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"LTcom":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"messengerbluebottom":{"holdout":"0","control":"0","variant":"0","expires":0,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"100","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"","variant_17":""},"fbsp":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"fbsp2":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"fbsp3":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"fbsp4":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"fbsp5":{"holdout":"10","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"fbsp6":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"fbsp7":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"fbsp8":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"fbsp9":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"},"fbsp10":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0","variant_16":"0","variant_17":"0"}};littlethingsGlobalConfigs.ltabt_push_notifications_popup = {"notify_me":{"holdout":"0","control":"0","variant":"100","expires":604800},"all_partners_utm":{"holdout":"0","control":"0","variant":"100","expires":604800,"all_utms":"borispark"}};littlethingsGlobalConfigs.ltabt_push_notifications_popup_mobile = {"":{"holdout":"","control":"","variant":"","expires":0}};littlethingsGlobalConfigs.ltabt_push_notifications_popup_safari = {"":{"holdout":"","control":"","variant":"","expires":0},"safaritest":{"holdout":"","control":"","variant":"100","expires":86400},"all_partners_utm":{"holdout":"0","control":"0","variant":"100","expires":604800,"all_utms":"borispark"}};littlethingsGlobalConfigs.ltabt_one_click_newsletter_signup = {"control":{"holdout":"0","control":"100","expires":86400},"":{"holdout":"95","control":"5","expires":1814400},"instagramnewsletter":{"holdout":"","control":"100","expires":1814400}};littlethingsGlobalConfigs.ltabt_remove_like_btn_articles = {"":{"holdout":"0","control":"0","variant":"100","expires":604800},"all_partners_utm":{"holdout":"0","control":"0","variant":"100","expires":604800,"all_utms":"jita"},"force":{"text":"variant","number":"2","timestamp":"1504058738","duration":null}};littlethingsGlobalConfigs.ltabt_remove_like_btn_articles_tablet = {"":{"holdout":"0","control":"0","variant":"100","expires":604800},"all_partners_utm":{"holdout":"0","control":"0","variant":"100","expires":604800,"all_utms":"jita"},"force":{"text":"variant","number":"2","timestamp":"1504058728","duration":null}};littlethingsGlobalConfigs.ltabt_remove_like_btn_articles_mobile = {"":{"holdout":"0","control":"0","variant":"100","expires":604800},"all_partners_utm":{"holdout":"0","control":"0","variant":"100","expires":604800,"all_utms":"jita"},"force":{"text":"variant","number":"2","timestamp":"1504058715","duration":null}};</script>    
+    
             <meta name="Googlebot-News" content="noindex, nofollow">
     
     
             <meta property="og:url" content="https://www.littlethings.com/">
         <meta property="og:title" content="LittleThings - Life's about the Little Things.">
         <meta property="og:description" content="LittleThings - Uplifting, touching and interesting stories from around the world. In just a few minutes, you'll laugh, smile and appreciate the wonderful world that we live in. Remember, it's the little things in life that matter the most!">
-        <meta property="og:image" content="https://cdn2.littlethings.com/app/themes/littlethings/img/icons/logo-big.png">
+        <meta property="og:image" content="https://cdn6.littlethings.com/app/themes/littlethings/img/icons/logo-big.png">
         <meta property="og:image:width" content="1200">
         <meta property="og:image:height" content="627">
         <meta property="og:type" content="article">
@@ -310,13 +233,13 @@ img.emoji {
             "headline": "Privacy Policy/Rights",
             "author": "vladimir n",
             "url": "https://www.littlethings.com/privacy/",
-            "thumbnailUrl": "https://cdn0.littlethings.com/app/uploads/2014/08/privacy_thumb.png",
+            "thumbnailUrl": "https://cdn8.littlethings.com/app/uploads/2014/08/privacy_thumb.png",
             "dateCreated": "2014-08-22T19:03:21+00:00",
             "datePublished": "2014-08-22T19:03:21+00:00",
             "articleSection": "",
             "creator": "vladimir n",
             "keywords": [],
-            "image": "https://cdn0.littlethings.com/app/uploads/2014/08/privacy_thumb.png"
+            "image": "https://cdn8.littlethings.com/app/uploads/2014/08/privacy_thumb.png"
                     }
         </script>
     </head>
@@ -354,13 +277,13 @@ img.emoji {
                 <a class="modal-close push-notifications-close" href="#"></a>
                 <a class="click-happi" href="#">
                     <div class="modal-dont-miss modal-push-notifications iner-module"><!-- screen 1 -->
-                        <img class="modal-logo" src="https://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
+                        <img class="modal-logo" src="https://cdn4.littlethings.com/app/themes/littlethings/img/logo-sign.png">
                         <div class="modal-header">Thank you!</div>
                         <p class="sub-description">Thank you for subscribing to our Push Notifications </p>
                         <form class="sbscribe-wrap" method="post" action="">
                             <button class="click-happi" type="submit">Close</button>
                         </form>
-                        <img class="heart-icon" src="https://cdn1.littlethings.com/app/themes/littlethings/img/heart-icon-popup.png">
+                        <img class="heart-icon" src="https://cdn5.littlethings.com/app/themes/littlethings/img/heart-icon-popup.png">
                     </div><!-- screen 1 END -->
                 </a>
             </div><!-- popup box END -->
@@ -370,13 +293,13 @@ img.emoji {
                 <a class="modal-close push-notifications-close" href="#"></a>
                 <a class="click-happi" href="#">
                     <div class="modal-dont-miss modal-push-notifications iner-module"><!-- screen 1 -->
-                        <img class="modal-logo" src="https://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
+                        <img class="modal-logo" src="https://cdn4.littlethings.com/app/themes/littlethings/img/logo-sign.png">
                         <div class="modal-header">Don’t Miss Out!</div>
                         <p class="sub-description">Instantly get the most heartwarming &amp; meaningful stories </p>
                         <form class="sbscribe-wrap" method="post" action="">
                             <button class="click-happi" type="submit">Click here for happiness</button>
                         </form>
-                        <img class="heart-icon" src="https://cdn1.littlethings.com/app/themes/littlethings/img/heart-icon-popup.png">
+                        <img class="heart-icon" src="https://cdn5.littlethings.com/app/themes/littlethings/img/heart-icon-popup.png">
                     </div><!-- screen 1 END -->
                 </a>
             </div><!-- popup box END -->
@@ -387,7 +310,7 @@ img.emoji {
             <div class="modal-popup"><!-- popup box -->
                 <a class="modal-close subscribe-close" href="#"></a>
                 <div class="modal-subscribe iner-module"><!-- screen 1 -->
-                    <img class="modal-logo" src="https://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
+                    <img class="modal-logo" src="https://cdn4.littlethings.com/app/themes/littlethings/img/logo-sign.png">
                     <div class="modal-header">Get the best <span>LittleThings</span></div>
                     <p class="sub-description">delivered to you weekly!</p>
                     <form class="sbscribe-wrap" method="post" action="" enctype="application/x-www-form-urlencoded">
@@ -403,7 +326,7 @@ img.emoji {
                     <div class="loader-cloud"></div>
                 </div>
                 <div class="modal-thankyou iner-module"><!-- screen 2 -->
-                    <img class="modal-logo" src="https://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
+                    <img class="modal-logo" src="https://cdn4.littlethings.com/app/themes/littlethings/img/logo-sign.png">
                     <h3><span class="thankyounote">Thank You</span> for subscribing to <span>LittleThings</span></h3>
                     <a class="keep-reading subscribe-close" href="#">Back to My Story</a>
                 </div><!-- screen 2 END -->
@@ -415,7 +338,7 @@ img.emoji {
           <a class="modal-close" href="#"></a>
           <div class="abtest1-cloud">
             <div class="inner-wrap">
-              <img class="abtest1-logo" src="https://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
+              <img class="abtest1-logo" src="https://cdn4.littlethings.com/app/themes/littlethings/img/logo-sign.png">
               <h2 class="abtest1-main-title">Get more <span>feel-good stories</span></h2>
               <span class="abtest1-sub-title">from LittleThings</span>
               <div class="abtest1-fbwidget">
@@ -450,7 +373,7 @@ img.emoji {
                       <div class="nav-duplicate">
                         <a class="mainnav-activation action-duplicate" href="javascript:void(0)" data-slug="Menu Deactivation"></a>
                       </div>
-                      <div class="section-first"><!-- section first --><a href="https://www.littlethings.com/category/food-2/" data-slug="Food">FOOD</a><a href="https://www.littlethings.com/category/parenting-2/" data-slug="Parenting">PARENTING</a><a href="https://www.littlethings.com/category/pets-2/" data-slug="Pets">PETS</a><a href="https://www.littlethings.com/category/diy-2/" data-slug="Diy">DIY</a><a href="/live" data-slug="Live LT"><img alt="live logo" src="https://cdn5.littlethings.com/app/themes/littlethings/img/live-logo.png"></a></div><!-- section first END -->
+                      <div class="section-first"><!-- section first --><a href="https://www.littlethings.com/category/food-2/" data-slug="Food">FOOD</a><a href="https://www.littlethings.com/category/parenting-2/" data-slug="Parenting">PARENTING</a><a href="https://www.littlethings.com/category/pets-2/" data-slug="Pets">PETS</a><a href="https://www.littlethings.com/category/diy-2/" data-slug="Diy">DIY</a><a href="/live" class="shows-text" data-slug="Live LT"><img alt="live logo" src="https://cdn5.littlethings.com/app/themes/littlethings/img/shows-logo.png"></a></div><!-- section first END -->
           <div class="section-second"><!-- section first --><a href="/about.html" data-slug="About us">About Us </a><a href="/advertising.html" data-slug="Advertising">Advertising </a><a href="/partnerships.html" data-slug="Partnerships">Partnerships </a><a href="/press.html" data-slug="Press">Press </a><a href="/careers.html" data-slug="Careers">Careers </a><a href="/contact.html" data-slug="Contact us">Contact Us </a></div><div class="section-third"><a href="https://www.zazzle.com/littlethingsusa" data-slug="Littlethings goods">LittleThings Goods </a><a href="https://www.littlethings.com/dmca-removal/" data-slug="Dmca removal">DMCA Removal </a><a href="https://www.littlethings.com/privacy/" data-slug="Privacy">Privacy </a><a href="https://www.littlethings.com/terms-of-service/" data-slug="Terms">Terms </a></div><!-- section first END --><div class="contact-box">
             <p class="strong-tagline">Want to use<br> LittleThings' editorial content?</p>
             <p class="contact-line">Please contact us at <a href="mailto:Rights@LittleThings.com">Rights@LittleThings.com</a></p>
@@ -458,7 +381,7 @@ img.emoji {
 
                 </div>
                                     <div class="lt-logo">
-                        <a href="https://www.littlethings.com"><img alt="Little Things" src="https://cdn6.littlethings.com/app/themes/littlethings/img/littlethings-logo.png"></a>
+                        <a href="https://www.littlethings.com"><img alt="Little Things" class="lt-lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn6.littlethings.com/app/themes/littlethings/img/littlethings-logo.png"></a>
                     </div><!-- LT logo -->
                     <div class="navig-right social-nav"><!-- header social -->
 
@@ -480,118 +403,112 @@ img.emoji {
         </header><!-- header END -->
                 <div class="menu-hover-overlay"></div>
     
+<!-- wrapper -->
+		<div class="wrapper">
 
-<div class="wrapper">
-    <main role="main">
-        <!-- section -->
-        <section>
-            <!-- article -->
-            <article class="privacy-article">
-                <header>
-                	<h1>LittleThings® Website Privacy Policy</h1>
-                    <small>Last Updated: January 4, 2017</small>
-                </header>
-                <p>The LittleThings® website located at www.littlethings.com (the “Site”) is an Internet property of LittleThings Inc. (“LittleThings®,” “we” or “us”).  This LittleThings® Website Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when you: (a) access or use the Site; (b) access and/or view any of the video, audio, stories, text, photographs, graphics, artwork and/or other content featured on the Site as made available by other Users (collectively, “User Submitted Content”) and/or LittleThings® (“LT Content,” and together with the User Submitted Content, “Content”); (c) access links to LittleThings®’ social media pages/accounts on third party social media websites, such as Facebook® (collectively, “Social Media Pages”); and/or (d) utilize the Site’s many interactive features designed to facilitate interaction between you, LittleThings® and other Users including, but not limited to, comment sections located in designated areas of the Site (collectively, the “Interactive Services” and together with the Site, Content and Social Media Pages, the “LittleThings® Offerings”). </p>
-                <p>Capitalized terms not defined herein shall have the meanings set forth in the LittleThings® Website Terms and Conditions (“Terms and Conditions”).  <b>IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE USE THE LITTLETHINGS® OFFERINGS.</b></p>
-                <p>Facebook® is a registered trademark of Facebook, Inc. (“Facebook”).  Please be advised that LittleThings® is not in any way affiliated with Facebook, and the LittleThings® Offerings are not endorsed, administered or sponsored by Facebook.</p>
-            	<h2>Your California Privacy Rights</h2>
-                <p>If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third parties, what categories of personal information that we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please e-mail us at: help@littlethings.com; send mail to: 21 Penn Plaza, Suite 500 New York, NY 10001; or call us at: (888) 316-7297. </p>
-                <p>Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: help@littlethings.com; send mail to: 21 Penn Plaza, Suite 500 New York, NY 10001; or call us at: (888) 316-7297.  Please be advised that where California State residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law.</p>
-                <h2>Personal Information Collected</h2>
-                <p>For the purposes of this Privacy Policy, “personal information” shall mean individually identifiable information from or about an individual.  We collect personal information when you access certain of the LittleThings® Offerings. In order to post a comment via the Interactive Services, you must have a Facebook® account.  Your Facebook® account name will appear as your screen name when posting a comment.  Where a User places a comment using her/his Facebook® account, LittleThings® may collect some or all of the following (depending on the User’s Facebook® account settings and the discretion of Facebook®): (a) the User’s e-mail address; (b) the information listed in the “About Me” section of the User’s Facebook® account; (c) the “interests” associated with the User’s Facebook® account; (d) the User’s Facebook® account ID and the “likes” associated with the User’s Facebook® account; and (e) any other information collected via the Facebook® account interface (collectively, “Registration Data”).</p>
-                <h2>Use of Personal Information</h2>
-                <p>By submitting your personal information by and through the LittleThings® Offerings, you agree that we may share, sell, rent, lease or otherwise provide that personal information to any third party for any purpose, and we may work with other businesses to bring selected retail opportunities to our Users.  These businesses and third parties may include, but are not limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; (c) telemarketers (where permitted by applicable law); and (d) direct marketers.</p>
-                <p>We may also employ other companies and individuals to perform certain functions on our behalf.  Examples include sending direct and electronic mail, removing duplicate information from User lists, analyzing data and providing marketing analysis.  The agents performing these limited functions on our behalf shall have access to our Users’ personal information as needed to perform these functions for us, but we do not permit them to use User personal information for other purposes.</p>
-                <p>We will also use your personal information for customer service, to provide you with information that you may request, to customize your experience with the LittleThings® Offerings and/or to contact you when necessary in connection with your use of the LittleThings® Offerings.  We may also use your personal information for internal business purposes, such as analyzing and managing our business including, without limitation, the LittleThings® Offerings.  We may also combine the information we have gathered about you with information from other sources.</p>
-                <p>By submitting your personal information by and through the LittleThings® Offerings, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “Rule”) and applicable state do-not-call regulations.  As such, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable state do-not-call lists, we retain the right to contact you via telemarketing in accordance with the Rule and applicable state do-not-call regulations.</p>
-                <p>Where you provide “prior express written consent” within the meaning of the Telephone Consumer Protection Act (47 USC § 227), and its implementing regulations adopted by the Federal Communications Commission (47 CFR § 64.1200), as amended from time-to-time (“TCPA”), you consent to receive telephone calls, including artificial voice calls, pre-recorded messages and/or calls (including SMS text messages) delivered via automated technology, to the telephone number(s) that you provided.  Please note that you are not required to provide this consent in order to obtain access to the LittleThings® Offerings, and your consent simply allows LittleThings® to contact you via these means.  Further, you agree that we reserve the right to share, sell, rent, lease and/or otherwise distribute your mobile telephone and other mobile data with/to any third-party for any and all non-marketing uses permitted by this Privacy Policy and applicable law.</p>
-                <p>We reserve the right to release current or past Registration Data and other personal information: (i) in the event that we believe that the LittleThings® Offerings are being or have been used in violation of the Terms and Conditions or to commit unlawful acts; (ii) if the information is subpoenaed; provided, however, that, where permitted by applicable law, we shall provide you with e-mail notice, and opportunity to challenge the subpoena, prior to disclosure of any personal information pursuant to a subpoena; or (iii) if we are sold, merge with a third party, are acquired or are the subject of bankruptcy proceedings; provided, however, that if LittleThings® is involved in a bankruptcy proceeding, merger, acquisition or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on the Site of any change in ownership or uses of your personal information, as well as any choices that you may have regarding your personal information.</p>
-                <p>You hereby consent to the disclosure of any record or communication to any third-party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with third-parties for suppression purposes in compliance with applicable law including the CAN-SPAM Act of 2003, as amended from time to time.  Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission. </p>
-                <h2>User Submitted Content/Interactive Services/Social Media Websites</h2>
-                <p>If you submit personal information via User Submitted Content, Feedback by and through the Interactive Services and/or any applicable Social Media Pages appearing on Social Media Websites, you should be aware that the personal information that you submit using such forums can be read, collected or used by other users of these forums (depending on your privacy settings, in the case of Social Media Websites), and could be used to send you unsolicited messages or otherwise contact you without your consent or desire.  We are not responsible for the personal information that you choose to submit in these forums.</p> 
-                <p>Further, by submitting User Submitted Content, you: (a) represent and warrant that LittleThings’® use of your submission does not and will not breach any agreement, violate any law, violate any Social Media Website’s terms of service or infringe upon any third party’s rights; (b) agree that LittleThings® is free to use in any manner all or part of the User Submitted Content and/or other material on an unrestricted basis without the obligation to notify, identify or compensate you or anyone else; and (c) grant LittleThings® all necessary rights, including a waiver of all copyright, trademark, privacy and moral rights, to use all User Submitted Content and/or other material, in whole or in part, or as a derivative work, without any duty of LittleThings® to anyone whatsoever.</p>
-                <h2>Non-Personal Information Collection and Use</h2>
-                <h3>IP Addresses/Browser Type</h3>
-                <p>We may collect certain non-personally identifiable information about you when you visit many of the pages of the Site.  This non-personally identifiable information includes, without limitation, the type of browser that you use (e.g., Safari, Chrome, Internet Explorer), your IP address, the type of operating system that you use (e.g., Windows or iOS) and the domain name of your Internet service provider (e.g., Verizon, AT&amp;T).  We use the non-personally identifiable information that we collect to improve the design and content of the LittleThings® Offerings and to enable us to personalize your Internet experience.  We also may use this information in the aggregate to analyze usage of the LittleThings® Offerings.</p>
-                <h3>Cookies</h3>
-                <p>When a User visits the Site, we send one (1) or more cookies and/or gif files (collectively, “Cookies”) to assign an anonymous, unique identifier to the applicable User’s computer or other device.  A Cookie is a piece of data stored on your hard drive containing non-personally identifiable information about you.  Cookies have many benefits to enhance your experience at the Site.  To find out more about Cookies, please visit www.cookiecentral.com.  We use Cookies to improve the quality of the LittleThings® Offerings, including for storing user preferences and tracking Site-user trends (such as pages opened and length of stay at the Site).</p>
-                <p>Most Internet browsers are initially set up to accept Cookies, but you can reset your browser to refuse all Cookies or to indicate when a Cookie is being sent.  To disable and reject certain Cookies, follow the instructions associated with your Internet browser.  Even in the case where a user rejects a Cookie, he or she may still use the LittleThings® Offerings; provided, however, that certain functions of the LittleThings® Offerings may be impaired or rendered inoperable if the use of Cookies is disabled.  We reserve the right to retain Cookie data indefinitely.</p>
-                <h3>Behavioral Tracking</h3>
-                <p>LittleThings® uses Cookies, pixels and other tracking technology on the Site for purposes of tracking Users’ activities (such as websites visited, advertisements selected and pages viewed) after they leave the Site.  LittleThings® uses these Cookies to target applicable Users with advertisements regarding LittleThings® Offerings and other products and/or services that LittleThings® thinks may be of interest to applicable Users.  In addition, third parties such as Google® may engage in a similar form of behavioral tracking of, and targeted advertising to, Users that visit the Site.  Users may be able to disable some, but not all, of this tracking activity by utilizing the “Do Not Track” setting or similar options within most major Internet browsers.  In addition, Users may be able to opt-out of this form of tracking utilizing the options made available by the <a target="_blank" href="http://www.networkadvertising.org/choices/">Network Advertising Initiative</a> or <a target="_blank" href="http://www.aboutads.info/choices/">Digital Advertising Alliance</a>.  To the greatest extent permissible under applicable law, we are not responsible for the tracking practices of third parties in connection with the Site.</p>
+	<main role="main">
+		<!-- section -->
+		<section>
 
-                <h3>Aggregate Data</h3>
-                <p>LittleThings® reserves the right to transfer and/or sell aggregate or group data about users of the LittleThings® Offerings for lawful purposes.  Aggregate or group data is data that describes the demographics, usage or other characteristics of LittleThings® Offerings Users as a group, without disclosing personally identifiable information.</p>
-               <h2>Third-Party Websites</h2>
-               <p>This Site may contain links to third-party owned and/or operated websites including, without limitation, the Social Media Websites.  LittleThings® is not responsible for the privacy practices or the content of such websites.  In some cases, you may be able to make a purchase through one of these third-party websites.  In these instances, you may be required to provide certain information, such as a credit card number, to register or complete a transaction at such website.  These third-party websites have separate privacy and data collection practices and LittleThings® has no responsibility or liability relating to them.</p>
-               <h2>Security</h2>
-               <p>We endeavor to safeguard and protect our Users’ personal information.  When Users make personal information available to us, their personal information is protected both online and offline (to the extent that we maintain any personal information offline).  The privacy of your personal information is very important to us </p>
-               <p>Access to your personal information is strictly limited, and we take reasonable measures to ensure that your personal information is not accessible to the public.  The servers that we store personal information in are kept in a secure physical environment.  We also have security measures in place to protect the loss, misuse and alteration of personal information under our control.  Please be advised, however,  that while we take every reasonable precaution available to protect your data, no storage facility, technology, software, security protocols or data transmission over the Internet can be guaranteed to be 100% secure. Computer hackers that circumvent our security measures may gain access to certain portions of your personal information, and technological bugs, errors and glitches may cause inadvertent disclosures of your personal information; provided, however, that any attempt to breach the security of the network, our servers, databases or other hardware or software constitutes a crime punishable by law.  For the reasons mentioned above, we cannot warrant that your personal information will be absolutely secure.  Any transmission of data at or through the Site is at your own risk. </p>
-               <p>All of our Users’ personal information is restricted in our offices.  Only employees or third party agents who need the personal information to perform a specific job are granted access to personal information.  Our employees are dedicated to ensuring the security and privacy of all user personal information.  Employees not adhering to our firm policies are subject to disciplinary action.  In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your personal information.  You will be notified via e-mail in the event of such a breach.  Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.</p>    
-               <h2>Minors</h2>
-               <p>Visitors under eighteen (18) years of age are not permitted to use and/or submit their personal information at the Site.  LittleThings® does not knowingly solicit or collect information from visitors under eighteen (18) years of age.  LittleThings® encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. </p>
-               <h2>Opt-Out/Unsubscribe</h2>
-               <p>To opt-out of receiving e-mail communications from us, you can follow the instructions at the end of the applicable e-mail message or e-mail us at: help@littlethings.com.</p>
-               <p>Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your request for LittleThings® Offerings, as well as to respond to any inquiry or request made by you.  To opt-out of receiving LittleThings® Offerings-related and inquiry response-related messages from LittleThings®, you must cease requesting and/or utilizing the LittleThings® Offerings and cease submitting inquiries to LittleThings®, as applicable.</p>
-               <h2>Deleting, Modifying and Updating Your Information</h2>
-               <p>At your request, we will: (a) inform you of what personal information we have on file for you; (b) amend the personal information that we have on file for you; and/or (c) remove personal information that you have provided to us, or that we have collected.  You may do so by e-mailing us at: help@littlethings.com. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and, to the extent permitted by applicable law, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others or would be extremely impractical (for instance, requests concerning information residing on backup tapes).</p>
-               <p>Please be advised that deleting your personal information may terminate your access to certain of the LittleThings® Offerings.  If you wish to continue using the full complement of LittleThings® Offerings, you may not be able to delete all of the personal information that we have on file for you.</p>
-               <p>Please be further advised that, after you delete your personal information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.</p>
-               <h2>Changes to this Privacy Policy</h2>
-               <p>LittleThings® reserves the right to change or update this Privacy Policy at any time by posting a notice on the Site that we are changing our Privacy Policy.  If the manner in which we use personal information changes, LittleThings® will notify Users by: (a) sending the modified policy to our Users via email; and/or (b) by any other reasonable means acceptable under applicable state and federal law.  You will have a choice as to whether or not we use your information in this different manner and we will only use your information in this different manner where you opt-in to such use.</p>
-               <h2>Contact Us</h2>  
-               <p>If you have any questions about this Privacy Policy, please e-mail us at: help@littlethings.com.</p>
-               <h2>Filing a Complaint with the Federal Trade Commission</h2>
-               <p>To file a complaint regarding our privacy practices, please <a target="_blank" href="https://www.ftccomplaintassistant.gov/FTC_Wizard.aspx?Lang=en">Click Here.</a></p>    
-            </article>
-        </section>
-    </main>
+		
+			<!-- article -->
+			<article id="post-162703" class="post-162703 page type-page status-publish has-post-thumbnail hentry">
+
+				<div class="privacy-article">
+<header>
+<h1>LittleThings® Website Privacy Policy</h1>
+<p><small>Last Updated: May 2nd, 2018</small></p></header>
+<p>The LittleThings™ website located at www.littlethings.com (the “Site”) is an Internet property of RockYou Inc. (“LittleThings™,” “we” or “us”).  This LittleThings® Website Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when you: (a) access or use the Site; (b) access and/or view any of the video, audio, stories, text, photographs, graphics, artwork and/or other content featured on the Site as made available by other Users (collectively, “User Submitted Content”) and/or LittleThings® (“LT Content,” and together with the User Submitted Content, “Content”); (c) access links to LittleThings®’ social media pages/accounts on third party social media websites, such as Facebook® (collectively, “Social Media Pages”); and/or (d) utilize the Site’s many interactive features designed to facilitate interaction between you, LittleThings® and other Users including, but not limited to, comment sections located in designated areas of the Site (collectively, the “Interactive Services” and together with the Site, Content and Social Media Pages, the “LittleThings® Offerings”). </p>
+<p>Capitalized terms not defined herein shall have the meanings set forth in the LittleThings® Website Terms and Conditions (“Terms and Conditions”).  <b>IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE USE THE LITTLETHINGS® OFFERINGS.</b></p>
+<p>Facebook® is a registered trademark of Facebook, Inc. (“Facebook”).  Please be advised that LittleThings® is not in any way affiliated with Facebook, and the LittleThings® Offerings are not endorsed, administered or sponsored by Facebook.</p>
+<h2>Your California Privacy Rights</h2>
+<p>If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third parties, what categories of personal information that we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please e-mail us at: help@littlethings.com; send mail to: 520 Broadway, 3rd Floor, Santa Monica, California 90401; or call us at: (310) 879-1935.</p>
+<p>Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: help@littlethings.com; send mail to: 520 Broadway, 3rd Floor, Santa Monica, California 90401; or call us at: (310) 879-1935.</p>
+<h2>Personal Information Collected</h2>
+<p>For the purposes of this Privacy Policy, “personal information” shall mean individually identifiable information from or about an individual.  We collect personal information when you access certain of the LittleThings® Offerings. In order to post a comment via the Interactive Services, you must have a Facebook® account.  Your Facebook® account name will appear as your screen name when posting a comment.  Where a User places a comment using her/his Facebook® account, LittleThings® may collect some or all of the following (depending on the User’s Facebook® account settings and the discretion of Facebook®): (a) the User’s e-mail address; (b) the information listed in the “About Me” section of the User’s Facebook® account; (c) the “interests” associated with the User’s Facebook® account; (d) the User’s Facebook® account ID and the “likes” associated with the User’s Facebook® account; and (e) any other information collected via the Facebook® account interface (collectively, “Registration Data”).</p>
+<h2>Use of Personal Information</h2>
+<p>By submitting your personal information by and through the LittleThings® Offerings, you agree that we may share, sell, rent, lease or otherwise provide that personal information to any third party for any purpose, and we may work with other businesses to bring selected retail opportunities to our Users.  These businesses and third parties may include, but are not limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; (c) telemarketers (where permitted by applicable law); and (d) direct marketers.</p>
+<p>We may also employ other companies and individuals to perform certain functions on our behalf.  Examples include sending direct and electronic mail, removing duplicate information from User lists, analyzing data and providing marketing analysis.  The agents performing these limited functions on our behalf shall have access to our Users’ personal information as needed to perform these functions for us, but we do not permit them to use User personal information for other purposes.</p>
+<p>We will also use your personal information for customer service, to provide you with information that you may request, to customize your experience with the LittleThings® Offerings and/or to contact you when necessary in connection with your use of the LittleThings® Offerings.  We may also use your personal information for internal business purposes, such as analyzing and managing our business including, without limitation, the LittleThings® Offerings.  We may also combine the information we have gathered about you with information from other sources.</p>
+<p>By submitting your personal information by and through the LittleThings® Offerings, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “Rule”) and applicable state do-not-call regulations.  As such, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable state do-not-call lists, we retain the right to contact you via telemarketing in accordance with the Rule and applicable state do-not-call regulations.</p>
+<p>Where you provide “prior express written consent” within the meaning of the Telephone Consumer Protection Act (47 USC § 227), and its implementing regulations adopted by the Federal Communications Commission (47 CFR § 64.1200), as amended from time-to-time (“TCPA”), you consent to receive telephone calls, including artificial voice calls, pre-recorded messages and/or calls (including SMS text messages) delivered via automated technology, to the telephone number(s) that you provided.  Please note that you are not required to provide this consent in order to obtain access to the LittleThings® Offerings, and your consent simply allows LittleThings® to contact you via these means.  Further, you agree that we reserve the right to share, sell, rent, lease and/or otherwise distribute your mobile telephone and other mobile data with/to any third-party for any and all non-marketing uses permitted by this Privacy Policy and applicable law.</p>
+<p>We reserve the right to release current or past Registration Data and other personal information: (i) in the event that we believe that the LittleThings® Offerings are being or have been used in violation of the Terms and Conditions or to commit unlawful acts; (ii) if the information is subpoenaed; provided, however, that, where permitted by applicable law, we shall provide you with e-mail notice, and opportunity to challenge the subpoena, prior to disclosure of any personal information pursuant to a subpoena; or (iii) if we are sold, merge with a third party, are acquired or are the subject of bankruptcy proceedings; provided, however, that if LittleThings® is involved in a bankruptcy proceeding, merger, acquisition or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on the Site of any change in ownership or uses of your personal information, as well as any choices that you may have regarding your personal information.</p>
+<p>You hereby consent to the disclosure of any record or communication to any third-party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with third-parties for suppression purposes in compliance with applicable law including the CAN-SPAM Act of 2003, as amended from time to time.  Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission. </p>
+<h2>User Submitted Content/Interactive Services/Social Media Websites</h2>
+<p>If you submit personal information via User Submitted Content, Feedback by and through the Interactive Services and/or any applicable Social Media Pages appearing on Social Media Websites, you should be aware that the personal information that you submit using such forums can be read, collected or used by other users of these forums (depending on your privacy settings, in the case of Social Media Websites), and could be used to send you unsolicited messages or otherwise contact you without your consent or desire.  We are not responsible for the personal information that you choose to submit in these forums.</p>
+<p>Further, by submitting User Submitted Content, you: (a) represent and warrant that LittleThings’® use of your submission does not and will not breach any agreement, violate any law, violate any Social Media Website’s terms of service or infringe upon any third party’s rights; (b) agree that LittleThings® is free to use in any manner all or part of the User Submitted Content and/or other material on an unrestricted basis without the obligation to notify, identify or compensate you or anyone else; and (c) grant LittleThings® all necessary rights, including a waiver of all copyright, trademark, privacy and moral rights, to use all User Submitted Content and/or other material, in whole or in part, or as a derivative work, without any duty of LittleThings® to anyone whatsoever.</p>
+<h2>Non-Personal Information Collection and Use</h2>
+<p class="like-h3">IP Addresses/Browser Type</p>
+<p>We may collect certain non-personally identifiable information about you when you visit many of the pages of the Site.  This non-personally identifiable information includes, without limitation, the type of browser that you use (e.g., Safari, Chrome, Internet Explorer), your IP address, the type of operating system that you use (e.g., Windows or iOS) and the domain name of your Internet service provider (e.g., Verizon, AT&amp;T).  We use the non-personally identifiable information that we collect to improve the design and content of the LittleThings® Offerings and to enable us to personalize your Internet experience.  We also may use this information in the aggregate to analyze usage of the LittleThings® Offerings.</p>
+<p class="like-h3">Cookies</p>
+<p>When a User visits the Site, we send one (1) or more cookies and/or gif files (collectively, “Cookies”) to assign an anonymous, unique identifier to the applicable User’s computer or other device.  A Cookie is a piece of data stored on your hard drive containing non-personally identifiable information about you.  Cookies have many benefits to enhance your experience at the Site.  To find out more about Cookies, please visit www.cookiecentral.com.  We use Cookies to improve the quality of the LittleThings® Offerings, including for storing user preferences and tracking Site-user trends (such as pages opened and length of stay at the Site).</p>
+<p>Most Internet browsers are initially set up to accept Cookies, but you can reset your browser to refuse all Cookies or to indicate when a Cookie is being sent.  To disable and reject certain Cookies, follow the instructions associated with your Internet browser.  Even in the case where a user rejects a Cookie, he or she may still use the LittleThings® Offerings; provided, however, that certain functions of the LittleThings® Offerings may be impaired or rendered inoperable if the use of Cookies is disabled.  We reserve the right to retain Cookie data indefinitely.</p>
+<p class="like-h3">Behavioral Tracking</p>
+<p>LittleThings® uses Cookies, pixels and other tracking technology on the Site for purposes of tracking Users’ activities (such as websites visited, advertisements selected and pages viewed) after they leave the Site.  LittleThings® uses these Cookies to target applicable Users with advertisements regarding LittleThings® Offerings and other products and/or services that LittleThings® thinks may be of interest to applicable Users.  In addition, third parties such as Google® may engage in a similar form of behavioral tracking of, and targeted advertising to, Users that visit the Site.  Users may be able to disable some, but not all, of this tracking activity by utilizing the “Do Not Track” setting or similar options within most major Internet browsers.  In addition, Users may be able to opt-out of this form of tracking utilizing the options made available by the <a target="_blank" href="http://www.networkadvertising.org/choices/">Network Advertising Initiative</a> or <a target="_blank" href="http://www.aboutads.info/choices/">Digital Advertising Alliance</a>.  To the greatest extent permissible under applicable law, we are not responsible for the tracking practices of third parties in connection with the Site.</p>
+<p class="like-h3">Aggregate Data</p>
+<p>LittleThings® reserves the right to transfer and/or sell aggregate or group data about users of the LittleThings® Offerings for lawful purposes.  Aggregate or group data is data that describes the demographics, usage or other characteristics of LittleThings® Offerings Users as a group, without disclosing personally identifiable information.</p>
+<h2>Third-Party Websites</h2>
+<p>This Site may contain links to third-party owned and/or operated websites including, without limitation, the Social Media Websites.  LittleThings® is not responsible for the privacy practices or the content of such websites.  In some cases, you may be able to make a purchase through one of these third-party websites.  In these instances, you may be required to provide certain information, such as a credit card number, to register or complete a transaction at such website.  These third-party websites have separate privacy and data collection practices and LittleThings® has no responsibility or liability relating to them.</p>
+<h2>Security</h2>
+<p>We endeavor to safeguard and protect our Users’ personal information.  When Users make personal information available to us, their personal information is protected both online and offline (to the extent that we maintain any personal information offline).  The privacy of your personal information is very important to us </p>
+<p>Access to your personal information is strictly limited, and we take reasonable measures to ensure that your personal information is not accessible to the public.  The servers that we store personal information in are kept in a secure physical environment.  We also have security measures in place to protect the loss, misuse and alteration of personal information under our control.  Please be advised, however,  that while we take every reasonable precaution available to protect your data, no storage facility, technology, software, security protocols or data transmission over the Internet can be guaranteed to be 100% secure. Computer hackers that circumvent our security measures may gain access to certain portions of your personal information, and technological bugs, errors and glitches may cause inadvertent disclosures of your personal information; provided, however, that any attempt to breach the security of the network, our servers, databases or other hardware or software constitutes a crime punishable by law.  For the reasons mentioned above, we cannot warrant that your personal information will be absolutely secure.  Any transmission of data at or through the Site is at your own risk. </p>
+<p>All of our Users’ personal information is restricted in our offices.  Only employees or third party agents who need the personal information to perform a specific job are granted access to personal information.  Our employees are dedicated to ensuring the security and privacy of all user personal information.  Employees not adhering to our firm policies are subject to disciplinary action.  In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your personal information.  You will be notified via e-mail in the event of such a breach.  Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.</p>
+<h2>Minors</h2>
+<p>Visitors under eighteen (18) years of age are not permitted to use and/or submit their personal information at the Site.  LittleThings® does not knowingly solicit or collect information from visitors under eighteen (18) years of age.  LittleThings® encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. </p>
+<h2>Opt-Out/Unsubscribe</h2>
+<p>To opt-out of receiving e-mail communications from us, you can follow the instructions at the end of the applicable e-mail message or e-mail us at: help@littlethings.com.</p>
+<p>Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your request for LittleThings® Offerings, as well as to respond to any inquiry or request made by you.  To opt-out of receiving LittleThings® Offerings-related and inquiry response-related messages from LittleThings®, you must cease requesting and/or utilizing the LittleThings® Offerings and cease submitting inquiries to LittleThings®, as applicable.</p>
+<h2>Deleting, Modifying and Updating Your Information</h2>
+<p>At your request, we will: (a) inform you of what personal information we have on file for you; (b) amend the personal information that we have on file for you; and/or (c) remove personal information that you have provided to us, or that we have collected.  You may do so by e-mailing us at: help@littlethings.com. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and, to the extent permitted by applicable law, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others or would be extremely impractical (for instance, requests concerning information residing on backup tapes).</p>
+<p>Please be advised that deleting your personal information may terminate your access to certain of the LittleThings® Offerings.  If you wish to continue using the full complement of LittleThings® Offerings, you may not be able to delete all of the personal information that we have on file for you.</p>
+<p>Please be further advised that, after you delete your personal information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.</p>
+<h2>Changes to this Privacy Policy</h2>
+<p>LittleThings® reserves the right to change or update this Privacy Policy at any time by posting a notice on the Site that we are changing our Privacy Policy.  If the manner in which we use personal information changes, LittleThings® will notify Users by: (a) sending the modified policy to our Users via email; and/or (b) by any other reasonable means acceptable under applicable state and federal law.  You will have a choice as to whether or not we use your information in this different manner and we will only use your information in this different manner where you opt-in to such use.</p>
+<h2>Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, please e-mail us at: help@littlethings.com.</p>
+<h2>Filing a Complaint with the Federal Trade Commission</h2>
+<p>To file a complaint regarding our privacy practices, please <a target="_blank" href="https://www.ftccomplaintassistant.gov/FTC_Wizard.aspx?Lang=en">Click Here.</a></p>
 </div>
- 
+
+				<div class="comments">
+	
+
+
+</div>
+
+				<span class="clear"></span>
+
+			</article>
+			<!-- /article -->
+
+		
+		
+		</section>
+		<!-- /section -->
+	</main>
+
+<div class="clear"></div>
+
+</div>
+
 <footer class="site-footer"><!-- site footer v3-->
         <div class="center">
-            <ul class="footer-link-list"><li><a href="/about.html">About Us</a></li><li><a href="/advertising.html">Advertising</a></li><li><a href="/partnerships.html">Partnerships</a></li><li><img class="footer-logo" alt="Little Things" src="https://www.littlethings.com/app/themes/littlethings/img/LT-cloud-logo.svg"></li><li><a href="/press.html">Press</a></li><li><a href="/careers.html">Careers</a></li><li><a href="/contact.html">Contact Us</a></li></ul>        </div>
+            <ul class="footer-link-list"><li><a href="/about.html">About Us</a></li><li><a href="/advertising.html">Advertising</a></li><li><a href="/partnerships.html">Partnerships</a></li><li><img class="footer-logo lt-lazy-load-image" alt="Little Things" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://www.littlethings.com/app/themes/littlethings/img/LT-cloud-logo.svg"></li><li><a href="/press.html">Press</a></li><li><a href="/careers.html">Careers</a></li><li><a href="/contact.html">Contact Us</a></li></ul>        </div>
         <div class="sub-footer"><!-- sub footer -->
             <div class="center">
-                <div class="sub-footer-nav"><a href="https://www.littlethings.com/category/food-2/">FOOD</a><a href="https://www.littlethings.com/category/lifestyle-2/">LIFE</a><a href="https://www.littlethings.com/category/parenting-2/">PARENTING</a><a href="https://www.littlethings.com/category/pets-2/">PETS</a><a href="https://www.littlethings.com/category/lifestyle-2/news-2/">NEWS</a><a href="https://www.littlethings.com/live/">LIVE</a></div>                <div class="sub-footer-nav"><a href="https://www.littlethings.com/privacy/">Privacy Policy</a><a href="https://www.littlethings.com/terms-of-service/">Terms Of Service</a><a href="https://www.littlethings.com/dmca-removal/">DMCA REMOVAL</a></div>            </div>
+                <div class="sub-footer-nav"><a href="https://www.littlethings.com/category/food-2/">FOOD</a><a href="https://www.littlethings.com/category/lifestyle-2/">LIFE</a><a href="https://www.littlethings.com/category/parenting-2/">PARENTING</a><a href="https://www.littlethings.com/category/pets-2/">PETS</a><a href="https://www.littlethings.com/category/lifestyle-2/news-2/">NEWS</a><a href="https://www.littlethings.com/live/">SHOWS</a></div>                <div class="sub-footer-nav"><a href="https://rockyou.com/privacy-policy/">Privacy Policy</a><a href="https://www.rockyou.com/terms-of-service/">Terms Of Service</a><a href="https://www.littlethings.com/dmca-removal/">DMCA REMOVAL</a></div>            </div>
         </div><!-- sub footer END -->
         <div class="sub-footer"><!-- sub footer -->
             <div class="center">
-                <p class="copy-r">© 2014 - 2017 LittleThings Inc.</p>
+                <p class="copy-r">© 2018 RockYou, Inc.</p>
             </div>
         </div><!-- sub footer END -->
     </footer><!-- site footer END -->
 <div id="bottomAd" style="font-size: 2px; display:none;">&nbsp;</div>
- <script type="text/javascript">
-            responsiveAdsPrinter.add('LT_1x1', "<div id='div-gpt-ad-1425403661677-0'><\/div>", {}, 'google',  'div-gpt-ad-1425403661677-0');
- </script> 
-  
-<script type="text/javascript" src="https://cdn7.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/js/jquery.cookie-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn5.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/js/perfect-scrollbar.min-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn4.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/js/jquery.ddslick-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn5.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/js/post_sidebar-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn3.littlethings.com/wp/wp-includes/js/jquery/ui/core.min.js"></script>
-<script type="text/javascript" src="https://cdn6.littlethings.com/wp/wp-includes/js/jquery/ui/widget.min.js"></script>
-<script type="text/javascript" src="https://cdn7.littlethings.com/wp/wp-includes/js/jquery/ui/mouse.min.js"></script>
-<script type="text/javascript" src="https://cdn4.littlethings.com/wp/wp-includes/js/jquery/ui/sortable.min.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
-<script type="text/javascript" src="https://cdn1.littlethings.com/app/plugins/petflow-postsocial/js/postsocial-scripts-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn5.littlethings.com/app/plugins/lazy-load/js/jquery.sonar.min-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn1.littlethings.com/app/plugins/lazy-load/js/lazy-load-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn3.littlethings.com/wp/wp-includes/js/imagesloaded.min.js"></script>
-<script type="text/javascript" src="https://cdn1.littlethings.com/wp/wp-includes/js/masonry.min.js"></script>
-<script type="text/javascript" src="https://cdn6.littlethings.com/wp/wp-includes/js/jquery/jquery.masonry.min.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var WCShortcodes = {"ajaxurl":"https:\/\/www.littlethings.com\/wp\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://cdn0.littlethings.com/app/plugins/wc-shortcodes/public/assets/js/rsvp-5af637ad89a06fb23533cfbcd88b623d.js"></script>
-<script type="text/javascript" src="https://cdn7.littlethings.com/app/themes/littlethings/js/jquery_mobile_check-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn0.littlethings.com/app/themes/littlethings/js/lib/jquery-bxslider/jquery.bxslider-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn1.littlethings.com/app/themes/littlethings/js/hermes-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn9.littlethings.com/app/themes/littlethings/js/pubfood.min-a60f99daf3128baf3fd3f020f59927a6.js"></script>
-<script type="text/javascript" src="https://cdn0.littlethings.com/app/plugins/wc-shortcodes/public/assets/js/accordion-039b701077256d034e4e0f495b007f00.js"></script>
-<script type="text/javascript" src="https://cdn6.littlethings.com/wp/wp-includes/js/wp-embed.min.js"></script>
+ 
+<script type="text/javascript" src="https://cdn1.littlethings.com/app/themes/littlethings/js/lib/jquery-bxslider/jquery.bxslider-137bc3996f1ab443348e19cacfbb24b9.js"></script>
+<script type="text/javascript" src="https://cdn1.littlethings.com/app/themes/littlethings/js/hermes-137bc3996f1ab443348e19cacfbb24b9.js"></script>
+<script type="text/javascript" src="https://cdn1.littlethings.com/app/themes/littlethings/js/pubfood.min-137bc3996f1ab443348e19cacfbb24b9.js"></script>
 
 <script type="text/javascript">
     jQuery(document).ready(function(){
@@ -634,7 +551,7 @@ var WCShortcodes = {"ajaxurl":"https:\/\/www.littlethings.com\/wp\/wp-admin\/adm
     <div class="modal-popup"><!-- popup box -->
         <a class="modal-close survey-close" href="#"></a>
         <div class="modal-survey iner-module"><!-- screen 1 -->
-            <img src="https://cdn9.littlethings.com/app/themes/littlethings/img/logo-no-text.png" alt="Logo" class="logo-inpopup">
+            <img src="https://cdn5.littlethings.com/app/themes/littlethings/img/logo-no-text.png" alt="Logo" class="logo-inpopup">
             <div class="modal-header">We Welcome Your Feedback</div>
             <p>Please help us improve LittleThings by taking our short survey.</p>
             <a target="_blank" href="https://www.surveymonkey.com/r/333K5F6_D" class="survey-link">Give Feedback</a>
@@ -642,13 +559,29 @@ var WCShortcodes = {"ajaxurl":"https:\/\/www.littlethings.com\/wp\/wp-admin\/adm
         </div><!-- screen 1 END -->
     </div><!-- popup box END -->
 </div>
+<script>
+    var bLazy = new Blazy({
+        selector: '.lt-lazy-load-image',
+        breakpoints: [
+            {
+                width: 420, // max-width
+                src: 'data-src-small'
+            },
+            {
+                width: 768, // max-width
+                src: 'data-src-medium'
+            }
+        ]
+    });
+    bLazy.revalidate();
+</script>
 
 
 
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
+Content Delivery Network via cdn4.littlethings.com
 
-<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
-
-Content Delivery Network via cdn0.littlethings.com
-
- Served from: www.littlethings.com @ 2017-09-05 16:44:56 by W3 Total Cache --></body></html>
+Served from: www.littlethings.com @ 2018-06-24 09:00:29 by W3 Total Cache
+--></body></html>
