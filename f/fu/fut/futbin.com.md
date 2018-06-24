@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futbin.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001124527id_/https%3A//www.futbin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futbin.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624053740id_/https%3A//www.futbin.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -29,7 +29,7 @@ We implement security measures when a user enters, submits, or accesses their in
 
 Do we use "cookies"?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. Cookies help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. Third Party Disclosure We may transfer your non-identifiable information to third parties. We may also transfer your identifiable infonnation, but only to trusted third. 
 
 We use cookies to:
 
@@ -43,7 +43,7 @@ If you disable cookies off, some features will be disabled It won't affect the u
 
 Third Party Disclosure
 
-We may transfer your non-identifiable information to third parties. We may also transfer your identifiable infonnation, but only to trusted third. 
+We transfer device IDs and/or IP address and other non-personal information on your device to our ad service partners for the purpose of advertising and analysis. Our trusted ad service partners are: Google Adsense, DoubleClick, AdMob, AddApptr and Venatus Media, Statcounter, Google analytics and fabric 
 
 Third party links
 
