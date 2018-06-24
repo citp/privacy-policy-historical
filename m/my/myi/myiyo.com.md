@@ -1,123 +1,83 @@
-> *The following text is extracted and transformed from the myiyo.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903050056id_/https%3A//www.myiyo.com/index.php%3Fsec%3Dinfo%26sub1%3Ddataprotection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myiyo.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624220043id_/https%3A//www.myiyo.com/index.php%3Fsec%3Dinfo%26sub1%3Ddataprotection) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Privacy Policy of myiyo
+Updated: 29 May 2018 
 
-Status: November 27th 2012
+The operator of myiyo.com, mo’web GmbH, Mertensgasse 12, 40213. Düsseldorf, Germany, represented by managing director Herbert Höckel (info@mo-web.net), is responsible for this website. "myiyo" below therefore refers to the operator, mo’web GmbH. 
 
-## Special note on giving approval for data processing:
+Contact the data protection officer at: datenschutzbeauftragter@mo-web.net 
 
-With your agreement to this Privacy Policy and the provisions therein, you give your approval to mo’web GmbH as the operator of the myiyo websites (hereinafter referred to in brief as: myiyo) for the collection, processing and use of your personal data according to the following conditions and in compliance with the valid statutory provisions.
+By voluntarily registering with myiyo, you consent to myiyo processing your personal data in the context described below. If the processing of your data is not necessary for the performance of the Terms of Use or to comply with a statutory requirement, we only process your data on the basis of your consent. You may at any time withdraw your consent by deleting your account via the account settings or by sending a request to delete your account to contact.en@myiyo.com.  
+Whether or not you are a member, we process the IP addresses and browser data of all visitors to this website to protect our legitimate interests (Article 6(1)(f) GDPR). We have a legitimate interest in preventing misuse of the website and analysing the data to improve our service. 
 
-The following conditions form part of our Terms of Use and should therefore be read carefully.
+myiyo respects and protects the rights of users relating to their personal data under the EU General Data Protection Regulation (GDPR). 
 
-For the purposes of establishment, performance and development of the contractual relationship, the user gives his/her approval for the collection, processing and use of his/her personal data by myiyo. The data processing entity in the sense of the applicable data protection legislation is mo’web GmbH, Mertensgasse 12, 40213 Düsseldorf, Germany.
+Professional guidelines - myiyo is a service provided by mo’web GmbH, which is listed as a company in the ESOMAR Directory. Mr. Herbert Höckel, Managing Partner of mo’web, is an individual member of ESOMAR. ESOMAR publishes clear guidelines on professional ethics in market research (ICC/ESOMAR International Code of Marketing and Social Research Practice). mo’web is also a member of the BVM (Berufsverband Deutscher Markt- und Sozialforscher e.V.) and the DGOF (Deutsche Gesellschaft für Online-Forschung e.V.), so that it also follows strict guidelines on using addresses for marketing and social research. 
 
-Professional codices and ethics - myiyo is a service by mo’web GmbH, which is listed in the ESOMAR Directory of Research Organizations. Mr. Herbert Höckel, Managing Director of mo’web, is also a personal member of ESOMAR (World Association of Opinion and Marketing Research Professionals). ESOMAR has issued clear directives for an ethical professional conduct (ICC/ESOMAR International Code of Marketing and Social Research Practice). Furthermore, mo’web is a corporate member of the BVM (Berufsverband Deutscher Markt- und Sozialforscher e.V. - Association of German Market and Social Researchers) and the DGOF (Deutsche Gesellschaft für Online-Forschung e.V. - German Society for Online Research) which have also issued clear directives for data protection and ethical conduct in market research practice.
+##  The purpose of this website and related data processing: 
 
-  1. 1. What are personal data? 
+myiyo collects and processes personal data for the purpose of carrying out market research surveys and opinion polls. Users who want to volunteer to take part in our surveys can register on myiyo.com and are then invited to participate in surveys by email or via the website. By participating in surveys, users collect points that they can subsequently convert into money.  
+To add value for our users, myiyo has a range of social networking features that users can choose to use to communicate with other users. 
 
-Personal data are individual items of information regarding the personal or factual situation of a defined or definable natural person (the person affected) (Section 3 I BDSG/German Data Protection Act). Items of information whose collection and use is required for the establishment, formation of the content of or making changes to the contractual relationship between myiyo and the user (inventory data, such as first name and surname), or to enable the use of the services of myiyo (usage data, such as the log-in password) are among those considered as personal data.
+##  Personal data that is processed: 
 
-  2. 2. What information is to be provided to myiyo, what conditions can you agree with myiyo and other users and what happens to your personal files? 
-    1. 2.1 Information given on registration 
+When registering on myiyo, every user of myiyo must specify his or her first and last name, email address, password, gender, date of birth, country and employment status. In addition to these mandatory details, every user can subsequently make a number of voluntary statements in his or her profile questionnaire. The user can provide his/her address and answer various questions about his/her education, profession, household, travel, consumption of goods and services, Internet, computer, smartphone and transport. The additional information is used to narrow down the users who are eligible for surveys more effectively. We only process the personal data of our users for the purposes described above. 
 
-Initially, myiyo will collect and process certain personal data for registration purposes. These are primarily:
+Other data is collected from users in the course of regular surveys. Participation in individual surveys is voluntary, as is the disclosure of information in the surveys. We keep the identity of participants secret from our customers. 
 
-      * Name (first name and surname)
-      * Email address
-      * Password
-      * Gender
-      * Birthday
-      * Country
-      * Employment
+We process our users' IP addresses for security purposes and to prevent a member with multiple accounts taking part in a survey multiple times. 
 
-This is information required for successful registration. 
+Users can publish their own posts and photos on the website if they choose to use our social networking features. Our privacy settings allow users to adjust what groups of people can view their content and personal information. 
 
-The password is private. It will not be visible to members of myiyo at any time and will not be given to third parties under any circumstances.
+When the contact form is used, we process the provided name and email address for contact purposes. 
 
-The default settings provide for the Email address to be private. However the user can make it public for friends or for all users by changing the setting under the "Profile Settings" page.
+##  Cookies & tracking 
 
-Name, gender and country are public and therefore visible to all other users according to default settings. myiyo recognises the country based on the user`s IP address in order to simplify the registration. This information can be modified by the user under the "Profile Settings" page. Visibility for gender and country can be limited to friends or made private. The name is always public. The birthday is visible to friends by default. The age of the user is calculated based on the borthday and is public by default. The user can limit the visibility of his/her age and birthday separately under the "Profile Settings" page.
+We use cookies to store user preferences and to keep users logged in. We also use cookies to recognise users again for security purposes because we need to make sure that the same user cannot participate in the same survey multiple times.  
+To track the origin of users who access myiyo via a link from certain advertising partners, we also record this information in a cookie so that we can pay the applicable advertising partner if a visitor completes registration.  
+We store cookies for a period of one month.  
+To enhance the effectiveness and reach of our website, in particular for marketing purposes, we use Google Analytics to collect and analyse visitor data. See below for details. 
 
-Information regarding the user`s employment is private and not visible to other users.
+##  Disclosure of personal data 
 
-    2. 2.2 Voluntary information 
+Our users' personal data is only disclosed to other parties for the purposes described above and only to the extent permitted by law, as allowed under the EU General Data Protection Regulation (GDPR).  
+We use service providers for web hosting and to send emails. We also use payment service providers (such as PayPal) and have to send our payment service providers the recipient's email address to be able to complete payments. Using these service providers is necessary to provide the myiyo service. To protect the data of our users, we only use service providers that either have their registered place of business in the EU or have their registered place of business in the United States and offer protection under the EU-US Privacy Shield Program. 
 
-In order to do justice to the community idea, the default settings provide for the profile to be partially public and therefore in principle visible to all other users. The term profile includes all the user`s pages.
+##  Duration of retention 
 
-According to the default settings the user`s "About me" page as well as the user`s friendslist are set public. The user`s Shoutbox and photos are visible to the user`s friends by default.
+The personal data is not stored longer than necessary for the purposes described above. 
 
-Visibility may however be limited at any time by the user in the "Profile Settings" under the subsection "Privacy".
+##  Rights of the user 
 
-The "Profile Questionnaire" allows the user to give a large number of his/her personal information regarding the topics education, employment, household, travel, use of goods and services, internet, computer, spartphone, transport, health. This information cannot be made visible to other users. This information is used to better determine which surveys the user can be invited to. The data is also used for other market research in an anonymized form. myiyo does not give this data to trird parties.
+Users have the following rights regarding their personal data that is processed by us: 
 
-The user is asked to participate in surveys on a regular basis where he/she can give more information. The participation in idividual surveys is voluntary as is answering the questions therein. Surveys are commisioned by the clients of mo’web for the purpose of conducting opinion and market research. The data collection within surveys takes place in an anonymized form. A client is not able to match answers given in surveys to individual user accounts in myiyo or other personally identifiable data such as the user`s email address or postal address.
-
-    3. 2.3 Changes to the information 
-
-The user can change any information at any time. This applies both to required and to voluntary profile information.
-
-    4. 2.4 Visibility for non-users and availability for search engines 
-
-Users not logged in can view all profile information marked as public. This public content can also be accessed by search engines.
-
-    5. 2.5 Ending membership 
-
-Membership can be ended at any time. The user can find the termination form under the "Profile Settings" while logged in. After successful termination, personal data are deleted. Entries by the user in other user`s Shoutboxes, comments and privately sent messages will however remain, though with no information on identity and with a note that the contribution was made by a deleted user.
-
-    6. 2.6 Use of cookies 
-
-myiyo can use cookies for logged-in visits to myiyo websites, in order to identify the user during the period of his/her visit. In order to simplify logging in, which improves the ease of use, the access data are stored in encrypted form using cookies. After a week, they are automatically deleted.
-
-Cookies are also used to keep information regarding where the user originated from in case the user reached the myiyo websites via an advertising link from an external site. These types of cookies are used to measure the success of ad campaigns. These cookies are also stored for one week unless the user deletes them manually.
-
-myiyo also stores a cookie when the user enters a survey hosted externaly. This cookie is used to make sure the user`s participation in the survey is recorded correctly on the user`s return to myiyo from the survey. This cookie is also used to help prevent the same user from participating in the same survey more than once.
-
-    7. 2.7 Server log files 
-
-myiyo website usage data are saved in protocol files and server log files on access. The following data is recorded:
-
-      * IP address of the computer accessing the site 
-      * Name of accessed file
-      * Date and time of the access, status, quantity of data transferred and URL of origin (referrer) from which the user has arrived at the accessed site
-      * Information about the browser used (user agent) 
-      * Type of operating system 
-
-myiyo evaluates these data in an anonymous form for statistical purposes. It is possible, for instance, to determine the times when myiyo websites are particularly heavily frequented and the volume of data created. Furthermore, possible errors can be spotted and rectified more quickly in this way. Server capacities are also easier to control. The server log files, therefore, help to continually improve the services offered and the user-experience of myiyo.
-
-    8. 2.8 Notification 
-
-myiyo sends notification emails to the user when the user receives a private message by another user, when other users comment on content by the user or content that the user has previously commented on, when content by the user receives a thumbs-up by another user, when the user linked in a photo by another user, when a friend of the user has his/her birthday. Invitations to surveys are also sent to the user via email. The user can disable these notification emails in the "Profile Settings" while logged-in. In addition to this the user can also use the unsubscribe-link, sent with all emails from myiyo in the footer, in order to disable email-sending to his/her email address. This unsubscribe-link can be used even when not logged-in.
-
-    9. 2.9 Transfer of personal data to third parties 
-
-In the following cases, personal data may possibly be transferred to third parties:
-
-      * Third parties can access information from the user, which is public according to the user`s privacy settings.
-      * The transfer of personal data to third parties can only take place with the explicit agreement of the user. 
-      * myiyo may grant judicial authorities access to personal data on demand or in the case of illegal use of myiyo websites. 
-  3. 3. Rights of the user 
-    1. 3.1 Revocation 
-
-The user has the right to revoke his/her approval for the collection and use of data. If he/she has agreed to the Privacy Policy, he/she can revoke this at any time with future effect. This revocation shall be addressed by email to contact.en@myiyo.com or in writing by mail to mo’web GmbH, Mertensgasse 12, 40213 Düsseldorf, Germany.
-
-Personal data will be collected, processed and used for the following purpose: the storage of data is to ensure the security of myiyo websites. It allows monitoring for violations of law and attempts at misuse. The use of the personal data is also essential for the ongoing optimisation of myiyo websites and general user administration. Finally, the data are used to publish information that the user, within the privacy settings, has set as public.
-
-The user behaviour of all members is stored, so there are no options of choice in this respect. Revocation of agreement will therefore lead to deletion of the user account.
-
-The regular privacy options are not revocable.
-
-Warning: This data Privacy Policy applies only to the myiyo websites. Other websites are explicitly not covered by this Privacy Policy. myiyo accepts no responsibility for compliance with data protection conditions by other websites.
-
-    2. 3.2 Self-information 
-
-The user can obtain information at any time on the content of his/her approval for the collection and use of data under the menu option "Privacy Policy".
-
-  4. 4. Reserving the right to make changes 
-
-myiyo reserves the right, within the limits of statutory provisions, to make changes to these Privacy Policy provisions insofar as they may become necessary. The user will be informed of any changes of the Privacy Policy in a timely fashion.
+  * **Right of access** to information about what personal data is processed and with whom the data is shared.
+  * **Right to rectification** of the data
+  * **Right to erasure** of the data (right to be forgotten)
+  * **Right to restriction** of processing
+  * **Right to object** to processing
+  * **Right to data portability**
+  * **Right to lodge a complaint** with the competent supervisory authority
 
 
 
+Visitors use this website and provide personal data when using it, on a voluntary basis. 
+
+##  Additional information about Google Analytics 
+
+This website uses Google Analytics, a web analysis service provided by Google Inc. (1600 Amphitheatre Parkway Mountain View, CA 94043, USA; "Google"). This includes Universal Analytics, which makes it possible to link data, sessions and interactions across multiple devices to a pseudonymous user ID and therefore to analyse a user's activities across devices. 
+
+Google Analytics uses cookies, which are text files that are stored on your computer to help analyse your use of the website. The information generated by the cookie about your use of this website is usually sent to a Google server in the USA and stored there. However, if IP anonymisation is enabled on this website, your IP address will first be truncated by Google within the Member States of the European Union or other parties to the agreement on the European Economic Area. Only in exceptional cases will the full IP address be transferred to a Google server in the USA and truncated there. The IP address sent by your browser for Google Analytics is not combined with other Google data. Google will use this information on behalf of the operator of this website to analyse your use of the website, to compile reports on website activity and to provide other services associated with website activity and Internet use for the website operator. We have a legitimate interest in data processing for these purposes. The legal basis for the use of Google Analytics is Section 15, para. 3 of the German Telemedia Act (TMG) and Article 6(1)(f) of the GDPR. The data sent by us and linked to cookies, user identifiers (e.g. user ID) or advertising IDs is automatically deleted after 14 months. Once the applicable data retention period has passed, data is automatically deleted once a month. For more information about terms of use and privacy, please visit [http://www.google.com/analytics/terms/en.html](https://www.google.com/analytics/terms/en.html) or <https://policies.google.com/?hl=en>. 
+
+You can prevent cookies from being stored by selecting the appropriate settings in your browser. However, please note that by doing so you may not be able to use all the features of this website. You can also prevent the data generated by the cookie about your use of the website (including your IP address) from being passed to Google and being processed by Google by downloading and installing the browser plugin available at the following link: [Browser Add-on](https://tools.google.com/dlpage/gaoptout?hl=en). Opt-out cookies prevent your data being collected when you visit this website in the future. To prevent data being collected by Universal Analytics across multiple devices, you must opt out on all the systems you are using. You can set the opt-out cookie by clicking here: Disable Google Analytics 
+
+##  Additional information regarding Google reCAPTCHA 
+
+We use the Google reCAPTCHA service (from Google LLC, 1600 Amphitheater Parkway, Mountain View, CA 94043 USA) to verify and prevent interactions on our website through automated access. 
+
+This service processes, in addition to the visited web page, the IP address, and a variety of other browser information to determine if a real person or a bot is behind the call. The legal basis for the use of this service is Art. 6 para. 1 lit. f DSGVO. Our legitimate interest lies in the security of our service as well as the defense against unwanted, automated access in the form of spam or hacker attacks. 
+
+##  Additional information about the vouchers from our partner, Sovendus GmbH 
+
+When interviews fail, we offer some of our users a voucher from our partner Sovendus GmbH (Moltkestr. 11, 76133 Karlsruhe) to say sorry. After a user clicks on the link to the offer, data is transferred to Sovendus. We transfer a randomly generated session hash as well as the IP address at this time, so that Sovendus can check and provide the voucher. Sovendus only uses the IP address for security purposes and this is usually anonymised after seven days. We do not store the hash we generate and we also cannot use it to identify the user. For further information about the processing of your data by Sovendus, see the online Data Protection Notice at www.sovendus.de/datenschutz. 
