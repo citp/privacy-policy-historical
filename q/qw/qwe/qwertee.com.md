@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qwertee.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829224803id_/https%3A//www.qwertee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwertee.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624200334id_/https%3A//www.qwertee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy |Qwertee : Limited Edition Cheap Daily T Shirts | Gone in 24 Hours | T-shirt Only £9/€11/$12 | Cool Graphic Funny Tee Shirts
 
@@ -16,7 +16,7 @@ Our server logs automatically collect information, such as your IP address, your
 
 We may assign your computer one or more cookies which may collect information to facilitate access to our Site and to personalize your online experience. 
 
-We may use standard Internet tools, such web beacons and cookies, which collect information that tracks your use of our Site and enables us to customise our services and advertisements.
+We may use standard Internet tools, such as web beacons and cookies, which collect information that tracks your use of our Site and enables us to customise our services and advertisements.
 
 We may collect information that can identify you ("personal information"), such as your name and email address or any other information that you freely supply to us.
 
@@ -28,17 +28,18 @@ We also use temporary session cookies which enable a visitor’s web browser to 
 
 Most Web browsers automatically accept cookies, but, if you wish, you can change the settings on your browser to refuse all cookies. However, you should note that disabling cookies may result in some parts of the Site not working efficiently or in slower downloads.
 
-## WHAT WE DO WITH THE INFORMATION WE COLLECT ABOUT YOU?:
+## WHAT DO WE DO WITH THE INFORMATION WE COLLECT ABOUT YOU?:
 
   1. Fulfill your requests for products and services;
   2. To process your payments; 
-  3. To permit you to upload designs to the Site; Offer products and services that may be of interest to you;
-  4. To pass information about you to our external service providers and our employees. In the course of providing our services to you we may transfer your personal information outside the European Economic Area. We will ensure that appropriate security measures are put in place in such instances to protect your information.
-  5. Facilitate efficient use of our Site;
-  6. Manage your account and your preferences;
-  7. Analyse use of and improve our Site, products and services;
-  8. Identify and protect against fraudulent transactions and other misuses of our Site; 
-  9. Enforce our Terms and Conditions. 
+  3. To permit you to upload designs to the Site;
+  4. Offer products and services that may be of interest to you;
+  5. To pass information about you to our external service providers and our employees. In the course of providing our services to you we may transfer your personal information outside the European Economic Area. We will ensure that appropriate security measures are put in place in such instances to protect your information.
+  6. Facilitate efficient use of our Site;
+  7. Manage your account and your preferences;
+  8. Analyse use of and improve our Site, products, and services;
+  9. Identify and protect against fraudulent transactions and other misuses of our Site; 
+  10. Enforce our Terms and Conditions. 
 
 
 
@@ -53,7 +54,7 @@ We will not share information with any third parties except when you have been a
 
 ## CAPACITY:
 
-Any person who registers as a user of this Site represents that they are 18 years of age or older or that they are 13 years of age or over and have obtained the consent of a parent or legal guardian. We cannot and are not required to verify the age of users of the Site. We do not knowingly collect information from children under the age of 13. If we discover that we have collected personal information from a child below the age of 13 we will delete that information as soon as possible. If you believe we might have any information from or about a child under 13, please contact us using the form at [https://www.qwertee.com/contact](https://web.archive.org/contact)
+Any person who registers as a user of this Site represents that they are 18 years of age or older or that they are 13 years of age or over and have obtained the consent of a parent or legal guardian. We cannot and are not required to verify the age of users of the Site. We do not knowingly collect information from children under the age of 13. If we discover that we have collected personal information from a child below the age of 13 we will delete that information as soon as possible. If you believe we might have any information from or about a child under 13, please contact us using the form at [https://www.qwertee.com/help/contact](https://web.archive.org/help/contact)
 
 If you are aged 13 or over but under the age of 18 you must obtain the consent of a parent or legal guardian each time you post any information on our Site. 
 
@@ -106,19 +107,18 @@ Qwertee Limited trading as Qwertee reserves the right to transfer information in
 
 ## CONTROLLING YOUR PERSONAL INFORMATION:
 
-You may request details under the Data Protection Acts 1988-2003 of personal information which we hold about you or rectify any personal information which is incorrect or incomplete. If you would like a copy of the information held on you please contact us at via the contact form: [https://www.qwertee.com/contact](https://web.archive.org/contact)
+Under data protection law, you may have a number of rights concerning the data we hold about you. If you wish to exercise any of these rights, please contact us at help@qwertee.com using the contact details set out above. For additional information on your rights please contact your data protection authority and see below. 
 
-If you are a registered user please supply details of your username and email address which you supplied when registering. Please note that to protect your privacy we may require further information to verify your identity.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us in writing using this contact form [https://www.qwertee.com/contact](https://web.archive.org/contact) We will promptly correct any information found to be incorrect.
-
-If someone else has posted your personal information on this Site without your permission and you would like it removed please contact us as using this contact form [/contact](https://web.archive.org/contact)
-
-Please note that is possible to permanently delete any account you registered with us. Please contact us using this contact form to do so: [https://www.qwertee.com/contact](https://web.archive.org/contact)
+  * **The right to be informed.** You have the right to be provided with clear, transparent and easily understandable information about how we use your information and your rights. This is why we’re providing you with the information in this policy. 
+  * **The right of access.** You have the right to obtain access to your information (if we’re processing it). This will enable you, for example, to check that we’re using your information in accordance with data protection law. If you wish to access the information we hold about you in this way, please get in touch (see [Contact Details](https://web.archive.org/help/contact)).
+  * **The right to rectification.** You are entitled to have your information corrected if it is inaccurate or incomplete. You can request that we rectify any errors in information that we hold by contacting us (see [Contact Details](https://web.archive.org/help/contact)).
+  * **The right to erasure.** This is also known as 'the right to be forgotten' and, in simple terms, enables you to request the deletion or removal of certain of the information that we hold about you by contacting us (see [Contact Details](https://web.archive.org/help/contact)). This right is not absolute and only applies in certain circumstances.
+  * **The right to restrict processing.** You have rights to 'block' or 'suppress' further use of your information. When processing is restricted, we can still store your information, but will not use it further. 
+  * **The right to data portability.** You have the right to obtain your personal information in an accessible and transferrable format so that you can re-use it for your own purposes across different service providers. This is not a general right however and there are exceptions. To learn more please get in touch (see [Contact Details](https://web.archive.org/help/contact)). 
 
 ## HOW TO CONTACT US:
 
-If you have any questions about our Privacy Policy, our Cookies Policy or our information practices, please contact us by email via our contact form on the Qwertee.com website: [https://www.qwertee.com/contact](https://web.archive.org/contact) or by postal mail:
+If you have any questions about our Privacy Policy, our Cookies Policy or our information practices, please contact us by email via our contact form on the Qwertee.com website: [https://www.qwertee.com/help/contact](https://web.archive.org/help/contact) or by postal mail:
 
 Qwertee.com (Qwertee Limited)  
 13 Upper Baggot Street  
@@ -126,4 +126,7 @@ Second Floor
 Ballsbridge  
 Dublin 4  
 Ireland  
+
+
+
 
