@@ -1,56 +1,82 @@
-> *The following text is extracted and transformed from the dltk-cards.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210072857id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dltk-cards.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624072936id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-DLTK's Inc. (" **DLTK** ") is committed to protecting your privacy. We have created this Privacy Policy in order to demonstrate our commitment to protecting the privacy of all of our users. 
+DLTK's Inc. (" **DLTK** ") is committed to protecting your privacy. We have created this Privacy Policy in order to demonstrate our commitment to protecting the privacy of all of our users.
 
-We are also careful to ensure that information is used responsibly, and only for the purposes for which it is provided.
+Google provides our Search Engine results (if you search our site) and our Advertising and our youTube videos. They use cookies (see the next section for what cookies are) on our websites when they provide these services.
 
-This Privacy Policy is intended to comply with the federal government’s privacy legislation, the Personal Information Protection and Electronic Documents Act, as well as Alberta’s Personal Information Protection Act.  We want you to understand how and under what circumstances your personal information is collected, used and disclosed, as well as what DLTK is doing to ensure that your information is used according to good business practices and is protected accordingly.
+For viewers in the EU, we've just turned off cookies-related Advertisements because we're not good enough at technology to figure out how to let you say "yes" or "no" to cookies. We've just defaulted as if everyone in the EU said "no", to be safe.
 
-**What is Personal Information?**
+### **What the Heck are Cookies!?**
 
-Personal information is information that identifies you as an individual.  It includes information such as your name or email address. **Under no circumstances should you ever provide personal information such as birth date, home address, social insurance number (Canada), social security number (U.S.) or financial information to someone claiming to be from DLTK.   We will NEVER request of have need for this information.**
+On the internet... for some strange reason... someone decided to call certain text files "cookies" (sadly, they're not the yummy chocolate chip kind).
+
+Internet **Cookies**  are text files stored on your computer to collect visitor behaviour information.  This information is used to track visitor use of the internet. 
+
+OK... that was a lot of big words. "The information in the cookies is used to track visitor use of the internet":
+
+> For example, if you go to lots of websites about cats, you might start seeing advertisements about cats and cat food and kitty litter. That's because "cookies" have been saved on your computer during your travels on the internet. An idea of what you've been interested in lately exists in those "cookies" files and smart computer programs read them to try to make the internet show you things the smart computer programs think you'll enjoy.
+
+The cookies are on **your** computer (or iPad or smartphone). We aren't storing them in some secret database somewhere. You are, heh. Or more accurately, your computer is. Advertisers and search engines and social media sites/apps and youTube read those cookies to get an idea of what kind of things you like so they can serve you better (and, since they're businesses, so they can make more money).
+
+Some internet users like this personalized internet experience (they get to see lots of ads and search engine results targetted specifically to them. If they like cats, they see lots of stuff about cats everywhere they go ... like cute cat video suggestions when they visit youTube). 
+
+Other people find this all a bit creepy... maybe they don't want everyone to know they like cats or maybe they just don't quite trust what the information is being used for. 
+
+Now... as a mom, I actually like cookies because when I use the computer my daughters use I get a feel for what kind of stuff they've been looking at (I see lots of ads about cats). If I suddenly start seeing lots of ads about diet pills, I might decide to chat with the girls about how they're feeling about their bodies/weight/health.
+
+For more information about cookies and how they're used visit <https://cookiesandyou.com/>.
+
+You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser.  Every device and browser you use will need to be set up this way if you want to stop cookies from being saved (your computer, your iPad, your smartphone) and if you're on a friend's computer or a computer at school, the cookies on that computer will likely be turned on.
+
+### **What is Personal Information?**
+
+Personal information is information that identifies you as an individual.  It includes information such as your name or email address. **Under no circumstances should you ever provide personal information such as birth date, home address, school address, social insurance number (Canada), social security number (U.S.) or financial information to someone claiming to be from DLTK's.   We will NEVER request or have need of this information.**
+
+If you're under 18 you shouldn't provide any personal information about yourself to anyone on the internet until you've sat down with your mom and / or dad (who I'm sure are really much hipper (more hip?) than you realize) and lead them through a conversation about what you can and shouldn't share. Pro tip: write down your thoughts beforehand if you get flustered when you talk to your parents... we tend to listen better if you show us you've put some effort into getting us to just hush and hear you *wink*! 
+
+Talk to them before you share any info about yourself. Talk to them if you mess up and wish you hadn't shared something. Talk to them if you get cyberbullied. Talk to them if you have participated in cyberbullying and feel awful about it. Talk to them. They're on your team.
+
+### **Information DLTK's Inc Collects**
 
 The information we may collect or obtain includes:
 
-  * Your name, email address and viewer photographs that have been contributed.
+  * Your name, 
+  * Your email address and 
+  * Viewer ideas, photographs or drawings that you have contributed.
 
 
 
-**Personal Information Collection and Use by DLTK**
+And you'll never NEED to give us that info. If you'd like your name listed as the person who contributed an idea, drawing or photo we're happy to list you as contributor. But it's completely up to you. We're just as happy to list contributions as anonymous.
 
-We collect your personal information when you voluntarily provide your personal information to DLTK through email communication, viewer contributions or fan mail.  In all circumstances we try to limit our collection of personal information to only those items that are necessary in order for us to provide the best service to our users. 
+We only collect this info if you give it to us. We don't have some secret way to get it from you... if you're telling me your name, you'll know you're doing it!
 
 DLTK does not collect personal information about you without your knowledge and consent.
 
-**Personal Information Disclosure by DLTK**
+### **Personal Information Disclosure by DLTK**
 
-We will not disclose your personal information to third parties without your consent to do so.  DLTK reserves the right to disclose personal information if required to do so by law or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims or to protect the rights, property or safety of DLTK or the public.
+We will not disclose your personal information to third parties without your consent to do so. 
 
-**When Do We Share Your Personal Information**
+That sounds kind of weird and scary. What I mean is that if you send me a picture of a cat that you drew for the FanArt section and say "drawn by Sally, age 9" then I'll show the picture with the words "drawn by Sally, age 9" underneath of the picture. 
 
-There are some circumstances where we may share some personal information about our users with a third party.  For example:
+I almost never show last names. I only show last names if the person is a grown up and wants to keep copyright on the picture they drew or the photo they took. Then I list their last name and sometimes even their email address if they want me to though I try to discourage them from posting their email address on the internet because if you do, you end up getting lots of annoying junk mail.
 
-  1. We use third-party advertising companies to serve ads when you visit our Web site.  These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).  They may also use the typical advertising tools such as cookies - cookies are commonly used as way to compile long-term records of individuals' browsing histories and are used all over the internet. Most web browsers have the ability to turn off cookies if you don't like them.
-  2. There are a few features on the sites that we have offered in conjunction with a third party because we do not have the expertise to create these ourselves.  Because they are provided by third parties we do not control the technical backbone so you may wish to refer to the privacy policy of these third parties to be sure you are comfortable with the way they may handle the information you are providing.  Here are some links:  
-  
-    * [ Java Jigsaw Puzzles](http://www.dltk-kids.com/puzzles/archives.asp?t=Jigzone) by Jigzone.com ([Jigzone Privacy Policy](http://www.jigzone.com/faq/privacy))
-    * [ Playtonium Jigsaw Puzzles](http://www.dltk-kids.com/puzzles/archives.asp?t=Playtonium) by Playtonium.com ([Playtonium Privacy Policy](http://www.playtonium.com/privacy.php))
-  3. Subject to applicable regulations, we may disclose your personal information to a government agency, court, or law enforcement personnel.
+### **Other Partners**
+
+  1. There are a few features on the sites that we have offered in conjunction with a third party because we do not have the expertise to create these ourselves.  Because they are provided by third parties we do not control the technical backbone so you may wish to refer to the privacy policy of these third parties to be sure you are comfortable with the way they may handle the information you are providing.  Here are some links: 
+    * [Java Jigsaw Puzzles](http://www.dltk-kids.com/puzzles/archives.asp?t=Jigzone) by Jigzone.com ([Jigzone Privacy Policy](http://www.jigzone.com/faq/privacy))
 
 
 
-**Consent to Use of Personal Information**
+### **More Legal Stuff**
 
-By submitting personal information to DLTK, you acknowledge and agree that you have consented to the collection, use and disclosure practices set out in this Privacy Policy as they relate to your personal information.  You may withdraw your consent at any time by contacting DLTK's privacy officer as set out below.
+DLTK's Inc. is a Canadian company run by a mom and a dad from Alberta, Canada (near the Rocky Mountains). Our daughters help us sometimes... mostly they ignore us, heh. We don't have employees so if someone contacts you claiming to be from our company, they're lying. I wish people didn't lie but sometimes they do. If you're young and you aren't sure if someone is lying to you, talk to your parents about it. If something seems too good to be true, it's likely a lie. 
 
-**Accessing, Correcting or Updating Your Personal Information**
+This Privacy Policy is intended to comply with the Canadian federal government’s privacy legislation, the Personal Information Protection and Electronic Documents Act, as well as Alberta’s Personal Information Protection Act.  We want you to understand how and under what circumstances your personal information is collected, used and disclosed, as well as what DLTK's is doing to ensure that your information is used according to good business practices and is protected accordingly.
 
-At any time, you may request that we correct or update your personal information by contacting DLTK's privacy officer as set out below.  DLTK will use reasonable efforts to ensure that your personal information is accurate and current.
-
-**Contacting DLTK**
+### **Contacting DLTK** 's
 
 If you have any requests, questions or comments about your personal information or this Privacy Policy, you may contact us by email: [webmaster@dltk-kids.com](mailto:webmaster@dltk-kids.com).
 
-This Privacy Policy may be changed from time to time without notice. Revisions will be posted on DLTK's website at www.dltk-kids.com.  This Privacy Policy is dated August 14, 2013.
+This Privacy Policy may be changed from time to time without notice. Revisions will be posted on DLTK's website.  This Privacy Policy is dated June 1, 2018.
