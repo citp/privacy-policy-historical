@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the societyforscience.org privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225024357id_/https%3A//www.societyforscience.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societyforscience.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624043334id_/https%3A//www.societyforscience.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Society for Science & the Public
 
 **Privacy Policy - General Privacy Policy Statement and Practices  
-Updated:  January 15, 2017**
+Updated:  January 25, 2018**
 
 The Society for Science & the Public (“the Society”) is concerned about the privacy of subscribers, members, alumni, donors, volunteers and others. This Policy is intended to clearly outline our current privacy policy and practices.
 
-Please read this Policy carefully before providing personal information to the Society. By accessing or using the Websitesand/or providing any personal information to us, you are accepting the practices described in this Privacy Policy. If you do not accept these practices, please do not access or use the Websitesor provide us with your personal information.
+Please read this Policy carefully before providing personal information to the Society. By accessing or using the Websites and/or providing any personal information to us, you are accepting the practices described in this Privacy Policy. If you do not accept these practices, please do not access or use the Websites or provide us with your personal information.
 
 #### **Privacy Policy Updates**
 
 The Society will occasionally update this Policy. Any changes to this Policy will be posted on each of the Society’s websites (collectively, the “Websites”) to help ensure that users are aware of what information we gather, how we might use that information and whether we will disclose it to anyone. We encourage you to review this page for the latest information on our privacy practices. The terms “You” and “User” are used to refer to anyone who is accessing the Websites. 
 
-Please address Privacy Policy inquiries to the Society by e-mailing [privacy@societyforscience.org](mailto:privacy@societyforscience.org), by calling (800) 552-4412 or by mailing Society for Science & the Public, ATTN: Customer Service, PO Box 1674 Williamsport, PA 17703.
+Please address Privacy Policy inquiries to the Society by e-mailing [privacy@societyforscience.org](mailto:privacy@societyforscience.org), by calling (800) 552-4412 or by mailing the Society for Science and the Public, Attention: Customer Service, PO Box 292924, Kettering, OH 45429.
 
 #### **Scope of Privacy Policy & Terms and Conditions**
 
@@ -83,9 +83,9 @@ The Society may use a User’s personally identifiable information to provide th
 
 From time to time, the Society may rent subscriber information to third party organizations. The Society closely reviews every request for information by third-parties to help ensure they are trustworthy and reputable, as determined by the Society in its discretion.
 
-While we strive to ensure that any such parties willprovide at least the same level of protection as this Privacy Policy offers, we are not responsible for the privacy practices of third parties and do not guarantee that these third parties have similar privacy practices.
+While we strive to ensure that any such parties will provide at least the same level of protection as this Privacy Policy offers, we are not responsible for the privacy practices of third parties and do not guarantee that these third parties have similar privacy practices.
 
-A User may opt-out of such sharing with third-party organizations or modify User’s communication preferences at any time by emailing [privacy@societyforscience.org](mailto:privacy@societyforscience.org), by calling (800) 552-4412 or by mailing Society for Science & the Public, PO Box 1674 Williamsport, PA 17703.  If you wish to delete your profile from or opt-out of the Student Alumni Network or terminate your user registration, please notify [alumni@societyforscience.org](mailto:alumni@societyforscience.org).
+A User may opt-out of such sharing with third-party organizations or modify User’s communication preferences at any time by emailing [privacy@societyforscience.org](mailto:privacy@societyforscience.org), by calling (800) 552-4412 or by mailing the Society for Science and the Public, Attention: Customer Service, PO Box 292924, Kettering, OH 45429. If you wish to delete your profile from or opt-out of the Student Alumni Network or terminate your user registration, please notify [alumni@societyforscience.org](mailto:alumni@societyforscience.org).
 
 The Society may also use aggregate data that is not personally identifiable in discussions, presentations or reports to current or potential grantors. This data may include demographic, geographic or other broadly representative data.
 
@@ -119,4 +119,4 @@ If you are a minor under the age of 18, you may request and obtain removal of ce
 
 **Inquiries**
 
-Please address inquiries concerning this Privacy Policy to the Society by e-mailing [privacy@societyforscience.org](mailto:privacy@societyforscience.org), by calling (800) 552-4412 or by mailing Society for Science & the Public, ATTN: Customer Service, PO Box 1674, Williamsport, PA, 17703. 
+Please address inquiries concerning this Privacy Policy to the Society by e-mailing [privacy@societyforscience.org](mailto:privacy@societyforscience.org), by calling (800) 552-4412 or by mailing the Society for Science and the Public, Attention: Customer Service, PO Box 292924, Kettering, OH 45429.
