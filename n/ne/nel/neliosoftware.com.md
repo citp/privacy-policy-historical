@@ -1,139 +1,301 @@
-> *The following text is extracted and transformed from the neliosoftware.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001105129id_/https%3A//neliosoftware.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neliosoftware.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624222737id_/https%3A//neliosoftware.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies
 
-_Last Updated Date:  June 1, 2016_
+**_Last Update: May 24, 2018._**
 
-## Scope
+This document is important and we hope you will take time to read it carefully.
 
-Nelio Software (“Nelio”) is concerned about privacy and cookies related matters. This document explains how Nelio collects and uses your personal data and other information and how you can control its use. It describes Nelio’s practices regarding the information collected from the different Nelio’s sites (such as websites, software applications, social media pages and HTML-formatted e-mail messages) and through offline sales and marketing activities (collectively, the “Channels”).
+**Nelio’s privacy policy has been adapted to the GDPR. In addition, we have worked to make the Nelio’s documentation on privacy policy more understandable, organize it by sections, provide examples that illustrate how the policies may be implemented, and define some terms to gain accuracy and simplicity.**
 
-By using the Channels, you are accepting the practices described in this privacy policy.
+## The Basics
 
-Nelio uses certain third parties to help Nelio with the Channels and other business administration activities. Some of these third parties are based in the European Economic Area (EEA) and some are not and may not comply, i.a., with the at the time applicable EEA privacy regulations.
+### 1\. Definitions
 
-By using Nelio’s Channels you consent to (i) the transfer of your personal data to the servers of Nelio’s third party service providers (see section on Third-Party Service Providers for further details) and (ii) the processing of your personal data in the countries of these third parties for the purposes set forth in this privacy policy, and you acknowledge that your personal data may be transmitted to these third parties for the referred purposes and for administration purposes.
+These definitions should help you understand this policy.
+
+“ **GDPR** ” refers to the Regulation (EU) 2016/679 of 27 April 2016 on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data.
+
+“ **including** “, “ **includes** ” o similar words refer to matters which are included without limitation, in other words, that are not limited to any list provided.
+
+“ **Personal Data** ” means any information that identifies or can be used to identify an individual directly or indirectly, including, but not limited to, first and last name, identification number, date of birth, email address, gender, occupation, or other demographic information.
+
+“ **Website** ” means all content included in our domain `neliosoftware.com`.
+
+“ **Services** ” means the online WordPress plugins, including Nelio A/B Testing and Nelio Content and any information or support related to them we provide to bloggers and business to improve their website and better promote their content.
+
+“ **Channels** ” means the various means by which we may collect information including our Website, the Services, social media pages, HTML-formatted e-mail messages and through offline sales and marketing activities.
+
+“ **we** ,” “ **us** ,” “ **our** ,” and “ **Nelio** ” refer to Nelio Software S.L., a company governed by Spanish law (without application of conflict of law rules).
+
+“ **Website Visitor** ” refers to anyone visiting our Website.
+
+“ **User** ” refers to the person or entity that uses our Services. They may have downloaded and installed a free version of one of our plugins or have subscribed to use a premium version of them in a site.
+
+“ **you** ” refers to Website Visitors or Users.
+
+### 2\. Changes
+
+We may revise this Privacy Policy & Cookies at any time and from time to time. The most recent version of the Privacy Policy is reflected by the version date located at the beginning of this Privacy Policy. All updates and amendments are effective immediately upon notice, which we may give by any means, including, but not limited to, by posting a revised version of this Privacy Policy or other notice on the Website. We encourage you to review this Privacy Policy often to stay informed of changes that may affect you, as your continued use of the Website signifies your continuing consent to be bound by this Privacy Policy.
+
+### 3\. Scope
+
+This document explains how Nelio collects your Personal Data, how Nelio uses these data, and your rights to control their use. This privacy policy applies to all data that we have collected or collect related to you, and according to our [Terms and Conditions](https://neliosoftware.com/common-terms-conditions-nelio-services/). By using the Channels, you are accepting the practices described in this privacy policy.
+
+### 4\. Contact
+
+If you have any questions or comments, or if you want to update, delete, or change any Personal Data we hold, or you have a concern about the way in which we have handled any privacy matter, please use our [contact form](https://neliosoftware.com/contact/) to send us a message. You may also contact us by email at [legal@neliosoftware.com](mailto:legal@neliosoftware.com) or by postal mail to our Business Headquarters address.
+
+## Your Personal Data
+
+### 5\. Information We Collect
+
+**Before collecting any personal data from you, we ask your explicit consent for us to store this data and confirm you agree with this privacy policy.** Here are the different alternatives with which we gather the information:
+
+(a) **Information You Explicitly Give Us:** We receive and store any information you enter on our Website or give us in any other way through a direct interaction with us which includes:
+
+  * Your email when you subscribe to our newsletter.
+  * Your name and email when you post a comment on our blog posts.
+  * Your name and email when you contact us through our contact forms.
+  * Your name, email, postal address, telephone number and your company when you subscribe to our premium Services.
+  * Your name and email when you download and subscribe to our free services.
+  * Your name, email, postal address, telephone number and your company when you request to join our Affiliation Programs.
+  * The Personal Data you provide us when you send us an email or contact our service support.
+
+
+
+Note that **we do not collect any payment information** when you subscribe to one of our services. We have an agreement with FastSpring as reseller of our services. See the section Third-party Providers below for more information.
+
+(b) **Information we collect automatically:** When you use the Services or browse our Website, we may collect information about your visit to our Website, your usage of the Services, and your web browsing. That information may include:
+
+  * Your network routing information (where you come from).
+  * Your Internet Protocol (IP) address used to connect your computer to the Internet and may identify your general geographic location or company.
+  * Your computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform.
+
+
+
+We may collect this information as a part of log files as well as through the use of cookies or other tracking technologies. Our use of cookies and other tracking technologies is discussed more below, and in more detail in the Cookies & Other Tracking Technologies section below.
+
+(c) **Publicly available data or data from other sources:** We may also store certain information from automated interactions on websites other than Nelio’s or other data you may have made publicly available. This information may include:
+
+  * Your name or WordPress username, for example, when you participate in WordPress support forums.
+  * Your name, your social account, and Personal Data that is public on that account when providing a rate review or participating on social media (for example, the WordPress Plugin Directory, Facebook, Twitter, LinkedIn, Google+, Pinterest or Instagram).
+
+
+
+### 6\. How We Use Personal Data
+
+We may use and disclose Personal Data only for the following purposes:
+
+(a) **To allow you to subscribe to our services and purchase our products.  
+**
+
+(b)  **To provide, support, and improve the Services we offer, as well as to improve customer relationships.** This includes our use of the data that our Users provide us in order to enable our Users to use the Services. This also includes, for example, aggregating information from your use of the Services or visit our Website and sharing this information with third parties to improve our Services. This might also include sharing your information or the information you provide us with third parties in order to provide and support our Services or to make certain features of the Services available to you. When we do have to share Personal Data with third parties, we take steps to protect your information by requiring these third parties to enter into a contract with us that requires them to use the Personal Data we transfer to them in a manner that is consistent with this policy.
+
+(c) **To notify you about new product releases and service developments, and to advertise Nelio’s products and services in accordance with this policy.** Your website visit, marketing experience, and communications may be tailored to your interests based on your Personal Data. Nelio may also use Personal Data in order to respond directly to your information requests (including newsletter registrations or other specific requests), or pass your contact information to Nelio’s reseller for further follow-up related to your interests.
+
+(d) **To interact with you on third party social networks** , which would be subject to that network’s privacy policies and terms of use.
+
+(e) **To post public testimonials on our Website or social networks.** If you wish to update or delete your testimonial, you may contact us to the contact address indicated above.
+
+(f) **To provide suggestions to you and adapt our Services and Website.** This includes keeping track of shopping cart additions, preserving order information between sessions, and presenting marketing campaigns. For more information about our use of cookies and other tracking technologies for this purpose, and instructions about how to opt out of having data collected through the use of cookies, please see the Cookies & Other Tracking Technologies below.
+
+(g) **Track and evaluate our marketing campaigns,** including online advertising and e-mail marketing campaigns. **  
+**
+
+(h) **To become a member of our affiliation program.**
+
+(i) **To contact third parties referred by you through our affiliation program.** If you select to use our affiliation program to inform a third-party about our Services, we will then send the third party a one-time contact related to your referral request. We only use the Personal Data you provide us in this situation to send the one-time contact and tracking the success of our affiliation program. The third party may contact us through their inquiry form to be removed from the affiliation program.
+
+(j) **To communicate with you about a conference or event hosted, co-sponsored or participated by us,** including information about the event’s content, logistics, payment, updates, and any additional meetings, special demonstrations or other customer facilitation. After the event, we may contact you about the event and related products and services, and may share information about your attendance with your company (if any).
+
+(k) **To share Personal Data with third parties who provide services to us, provided that the third party has executed any data processing documentation required by law.**
+
+(l) **To meet legal requirements,**  including complying with court orders, valid discovery requests, valid subpoenas, and other appropriate legal mechanisms.
+
+(m) **To transfer your information**  in the case of a sale, merger, consolidation, liquidation, reorganization, or acquisition. In that event, any acquirer will be subject to our obligations under this Privacy Policy, including your rights to access and choice. We will notify you of the change either by sending you an email or posting a notice on our Website.
+
+**We do not sell your Personal Data to anyone.** **We may share your Personal Data with our third party Service Providers, who help us provide and support our Services** , such as credit card processing services, order fulfilment, analytics, event or campaign management, website management, information technology and related infrastructure provision, customer service, e-mail delivery, auditing, and other similar services. In this case, we require by contract from our services providers to use your Personal Data only for the purpose of providing services to us and subject to terms consistent with this policy.
+
+**We may disclose your personal data as we believe to be necessary or appropriate** :
+
+  * under applicable law, including laws outside your country of residence;
+  * to comply with legal process;
+  * to respond to requests from public and government authorities, including public and government authorities outside your country of residence;
+  * to enforce Nelio’s terms and conditions, which are subject to this private policy; and
+  * to allow us to pursue available remedies or limit the damages that we may have.
+
+
+
+Additionally, in the event of a reorganization, merge, sale, joint venture, assignment, transfer, or other disposition of all or any portion of Nelio’s business, assets or stock (including in connection with any bankruptcy or similar proceedings), we may transfer the Personal Data it has collected to the relevant third party.
+
+### 8\. Public Information and Third Party Websites
+
+(a) Blog. We have a public blog on our Website. Any information you include in a comment on our blog may be read, collected, and used by anyone. If your Personal Data appears on our blog and you want it removed, contact us [here](https://neliosoftware.com/contact/). If we are unable to remove your information, we will tell you why.
+
+(b) Social media platforms. We maintain presences on social media platforms including Facebook, Twitter, and Instagram. Any information, communications, or materials you submit to us via a social media platform is done at your own risk without any expectation of privacy. We cannot control the actions of other users of these platforms or the actions of the platforms themselves. Your interactions with those features and platforms are governed by the privacy policies of the companies that provide them.
+
+(c) Links to third-party websites. Our Website include links to other websites, whose privacy practices may be different from ours. If you submit Personal Data to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+
+## Cookies and Other Tracking Technologies
+
+### 9\. Does Nelio Use Cookies and Other Tracking Mechanisms?
+
+**Yes.** Nelio uses cookies and similar technologies like single-pixel gifs and web beacons. We use both session-based and persistent cookies. We set and accesses our own cookies on our Website. In addition, we use third-party cookies, like Google Analytics’. To learn more about cookies, visit [this site](http://www.allaboutcookies.org/).
+
+We may use cookies to recognize you when you visit a domain we operate or when you use our Services, and also for us to remember:
+
+  * your display preferences, including your selected language,
+  * if you have already replied to a survey pop-up that asks you to subscribe to our Newsletter (so you won’t be asked again),
+  * if you have agreed (or not) to our use of cookies on that site,
+  * the service you subscribe to perform the checkout with our reseller.
+
+
+
+We also use cookies to measure the traffic and performance of our Website’s pages.
+
+### 10\. What Types of Cookies Do We Have?
+
+Depending on who sends the cookies and treats the data obtained, the cookies we use may be:
+
+(a) **Own Cookies:** These are cookies sent to your terminal from a computer or domain managed by us (and from which the service requested by you is provided). For example, we have defined and own certain cookies that are used to run A/B tests and heatmaps experiments and to track visitor information. See the [Nelio A/B Testing Cookies section](https://neliosoftware.com/nelio-ab-testing-terms-conditions/#cookies-testing) for further details.
+
+(b) **Third party cookies:** These are cookies sent to your terminal from a computer or domain that is **not** managed by us, but by another entity that processes data obtained through cookies. For example, we use Google Analytics cookies to measure the traffic in our Website or MailChimp cookies to see the openings and clicks of our Newsletter emails. See the Third Party Service Providers section below for more details.
+
+### 11\. How You Can Control or Delete Cookies
+
+You can control and/or delete cookies as you wish – for details, see [aboutcookies.org](http://aboutcookies.org/). You may delete all cookies that are already in your computer and you may set most browsers to prevent cookies from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
+
+Browser manufacturers provide help for cookie management in their products. Please see below for more information.
+
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB)
+  * [Internet Explorer](https://support.microsoft.com/en-us/kb/260971)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+  * [Safari (Desktop)](https://support.apple.com/kb/PH5042?locale=en_US)
+  * [Safari (Mobile)](https://support.apple.com/en-us/HT201265)
+  * [Android Browser](http://support.google.com/ics/nexus/bin/answer.py?hl=en&answer=2425067)
+  * [Opera](http://www.opera.com/help)
+  * [Opera Mobile](http://www.opera.com/help/mobile/android#privacy)
+
+
+
+For other browsers, please consult the documentation that your browser manufacturer provides.
+
+### 12\. Data Collected for and by You
+
+As you use our Services or post on our Channels you may write information you have collected from any individuals. We have no direct relationship with them other than you, and for that reason, **you are responsible for making sure you have the appropriate permission for us to collect, post, and process information about these individuals**. Consistent with the uses of Personal Data covered in Section 7, we may transfer Personal Data of you or these individuals to companies that help us provide or support our Services. All third Service Providers enter into a contract with us that protects Personal Data and restricts their use of any Personal Data consistent with this policy.
+
+## Your Data Protection Rights
+
+### 13\. How You May Exercise Your Rights
+
+You may send a written communication to our Business Headquarters, through the contact forms in our Website, or to the e-mail address indicated in the heading of this legal notice, including in both cases a photocopy of your ID card or other similar identification document, to request the exercise of the following rights:
+
+  * Right to request access to any Personal Data we may have about you.
+  * Right to request rectification (if incorrect) or deletion of Personal Data.
+  * Right to request limitation of their treatment, in which case they will only be kept by Nelio for the exercise or defense of claims.
+  * Right to object to processing. Nelio will no longer process the Personal Data in the way you indicate, unless for compelling legitimate reasons or the exercise or defense of possible claims have to be further processed.
+  * Right to data portability. In the event that you wish your Personal Data to be processed by another company, Nelio will provide you with the portability of your data to the new data controller.
+
+
+
+We will give you access to any Personal Data we hold about you within 30 days of any request for that information. Individuals may request to access, correct, amend, or delete information we hold about them through our [contact form](https://neliosoftware.com/contact/) or email at [legal@neliosoftware.com](mailto:legal@neliosoftware.com). Unless it is prohibited by law, we will remove any Personal Data about an individual from our servers at your or their request. There is no charge for an individual to access or update their Personal Data.
+
+**Models, forms, and more information about your rights** : [Official website of the Spanish Data Protection Agency](https://www.agpd.es/portalwebAGPD/CanalDelCiudadano/derechos/index-iden-idphp.php).
+
+**Possibility of withdrawing consent.** In the event that you have given your consent for a specific purpose, you have the right to withdraw it at any time, without it affecting the lawfulness of the processing based on the consent prior to its withdrawal.
+
+**How to complain to the Control Authority.** If you consider that there is a problem with the way in which Nelio is handling your Personal Data, you may address your complaints to Nelio (indicated above) or to the corresponding [Data Protection Authority](https://www.agpd.es/portalwebAGPD/enlaces/index-iden-idphp.php), being the [Spanish Data Protection Agency](https://www.agpd.es/portalwebAGPD/index-iden-idphp.php) the one indicated in the case of Spain.
+
+## Compliance
+
+### 14\. Accuracy and Data Retention
+
+We take reasonable business measures in compliance with laws to keep your Personal Data accurate and up to date, to the extent that you provide us with the information we need to do so. If your Personal Data change (for example, if you have a new email address), then you are responsible for notifying us of those changes.
+
+We will retain the following data:
+
+(a) **Disaggregated data:** Disaggregated data data will be retained without a deadline for deletion.
+
+(b) **Subscribers data:** During the time your account is active or as long as needed to provide you with our Services in accordance with our [Terms and Conditions](https://neliosoftware.com/common-terms-conditions-nelio-services/). In any case, it will be the minimum necessary from time to time, currently subject to certain statutes of limitation terms:
+
+  * 4 years: Law on Infringements and Sanctions in the Social Order (obligations regarding affiliation, registration, cancellation, contribution, payment of salaries…); Art. 66 ff. General Tax Law (Accounting Books…);
+  * 5 years: Art. 1964 Civil Code (personal actions without special time limit)
+  * 6 years: Art. 30 Commercial Code (Accounting Books, invoices…)
+  * 10 years: Art. 25 of the Prevention of Money Laundering and Financing of Terrorism Act.
+
+
+
+(c) **Newsletter subscribers’ details:** From the moment the user subscribes to the newsletter until the subscription is ceased.
+
+(d) **User data uploaded by Nelio to pages and profiles on social networks:** From the moment the user offers consent until it withdraws it.
+
+### 15\. Children’s Privacy
+
+Our Services are not directed at nor targeted to children. If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use our Services unless supervised/accepted by an adult, as applicable.
+
+Our goal is to comply with applicable laws and regulations relating to collection and use of information from children as such term is defined by applicable laws. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by postal mail or to the e-mail address indicated in the heading of this legal notice, and we will take reasonable steps to remove that information from our databases.
+
+## Security
+
+### 16\. Notice of Breach of Security
+
+We take reasonable and appropriate measures to protect Personal Data from loss, misuse, and unauthorized access, disclosure, alteration, and destruction, taking into account the risks involved in the processing and the nature of the Personal Data. If a security breach causes an unauthorized intrusion into our system that materially affects you, then we will notify you as soon as possible (in the event of a breach being detected, **Nelio undertakes to inform users within 72 hours** ) and later report the action we took in response.
+
+We use FastSpring as the reseller of our services. Therefore, all payments for the services will be done through FastSpring. FastSpring, uses security measures to protect your information both during the transaction and after its completion. They are a United States-based seller of digital goods specialized in safe and secure Internet sales, compliant with PCI and that employs Verisign SSL Certificates.
+
+We only use service providers that enter into agreements with us whereby the service provider commits to take the appropriate measures to protect Personal Data and be compliant with GDPR.
 
 ## Third Party Service Providers
 
-Nelio uses certain third parties to help with the business administration and other activities related to the Channels. Some of these third parties are based in the EEA and some are based outside the EEA.
+To be transparent and provide you with the maximum information about who our third party service providers are, we list below the ones that may keep Personal Data, what information they keep, and how we ensure the GDPR compliance through their contracts.
 
-If you are located in the EEA, by using Nelio’s Channels you consent to the transfer of your personal data to the servers of Nelio’s third party service providers. In particular, **Nelio’s third party service providers that may keep personal data with servers not located in the EEA are the following** :
+### FastSpring
 
-  * **Google** : Nelio uses [Gmail](https://mail.google.com/) as mailing service provider to directly communicate with you by email. Nelio also uses [Google App Engine](https://cloud.google.com/appengine/docs) platform as backend of [Nelio A/B Testing](https://nelioabtesting.com/) service. All registration information (except for payment details) is kept in these services. In addition, Nelio’s Channels use [Google Analytics](https://www.google.com/analytics/) to analyze their use and optimize their performance. Google processes personal information in their servers in many countries around the world and your personal information may be on a server located outside the country where you live. Google is a company located at 1600 Amphitheater Parkway, Mountain View (California) CA 94043, USA and has certified that it adheres to the relevant [Safe Harbor Privacy Principles](http://www.google.com/intl/en/policies/privacy/frameworks/) of the Government of the United States. In addition to this, Google has offered a [data-processing amendment](https://www.google.com/work/apps/terms/dpa_terms.html) and Nelio have signed certain [model contract clauses](https://www.google.com/work/apps/terms/mcc_terms.html) as an additional means of meeting the adequacy and security requirements of the European Parliament and Council of the European Union [Data Protection Directive](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:en:HTML). See [Google Privacy Policy](http://www.google.com/intl/en/policies/privacy/) for further details.
-  * **Mailchimp** : Nelio uses [Mailchimp](http://mailchimp.com/) to deliver Nelio’s newsletter and other email communications. MailChimp, with servers located around the US, gathers statistics about email [opening](http://kb.mailchimp.com/reports/about-open-tracking) and [clicks](http://kb.mailchimp.com/reports/about-click-tracking) as part of its service. Mailchimp is a company located at 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA, 30308, USA and has certified that it adheres to the relevant [Safe Harbor Privacy Principles](http://www.google.com/intl/en/policies/privacy/frameworks/) of the Government of the United States. In addition, Nelio has signed certain [Standard Contractual Clauses](http://mailchimp.com/legal/forms/data-processing-agreement/) as an additional means of meeting the adequacy and security requirements of the European Parliament and Council of the European Union [Data Protection Directive](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:en:HTML). For more information about the way in which MailChimp monitors your email opening(s), please see [Mailchimp Privacy Policy](http://mailchimp.com/legal/privacy/).
-  * **Freshdesk** : Nelio uses [Freshdesk](http://freshdesk.com/) as Nelio’s ticketing service and help desk software. Freshdesk, Inc., is located at 311 California Street, San Francisco, CA 94104, USA and hosts and processes data in the US, EEA and possibly in other countries, has been awarded with the Truste’s Privacy seal and has certified that it adheres to the relevant [Safe Harbor Privacy Principles](http://www.google.com/intl/en/policies/privacy/frameworks/) of the Government of the United States. See [Freshdesk Privacy Policy](https://freshdesk.com/privacy) for further details.
+**FastSpring is the reseller of our Services.** All Personal Data required to perform the payments to our Services is provided directly to FastSpring. **We do not have access to any of your personal financial information, such as credit card numbers**. When you subscribe to any of our services, FastSpring requests you explicitly to agree with their [Privacy Policy](https://fastspring.com/privacy/).
 
+[FastSpring](http://www.fastspring.com/) is a United States-based seller of digital goods specialized in safe and secure internet sales, compliant with PCI and that employs Verisign SSL Certificates. FastSpring is operated by Bright Market, LLC, the data of which are in [_About FastSpring_](https://fastspring.com/company/). FastSpring is registered with the EU through a [special scheme set up for companies outside the EU](https://www.gov.uk/guidance/register-and-use-the-vat-mini-one-stop-shop#vat-on-e-services-scheme). FastSpring’s VAT number is EU826012240 (it begins with EU because FastSpring is located in the United States, not in a European Union member state).
 
+In their [Privacy Policy](https://fastspring.com/privacy/), Bright Market, LLC confirm that they comply with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data from European Union member countries and Switzerland, respectively.
 
-## Third-Party Reseller: FastSpring
+As an additional means of meeting the adequacy and security requirements under the GDPR, a data-processing clause is included in our agreement with them.
 
-Nelio has contracted [FastSpring](http://www.fastspring.com/) as reseller of Nelio’s Services. FastSpring is a platform specialised in safe and secure internet sales, compliant with PCI and employs Verisign SSL Certificates, which accepts Paypal and all major credit cards.
+### SiteGround
 
-Bright Market, LLC (dba FastSpring.com) seems to comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Bright Market, LLC has certified that it adheres to the [Safe Harbor Privacy Principles](http://www.google.com/intl/en/policies/privacy/frameworks/) of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+Our Website features TLS v.1.2 SSL encryption which allows the secure sending of personal data through standard contact forms, are stored in self-hosted SiteGround instances of WordPress. Any Personal Data that you publish when writing a post or making comments on our Websites is stored in our database hosted in SiteGround.
 
-In connection with the processing of the payments of Nelio’s services, Nelio does not retain any personal financial information such as credit card numbers. All such information is provided directly to Nelio’s reseller, FastSpring, who uses your personal information governed pursuant to its privacy policy. See [FastSpring Privacy Policy](http://www.fastspring.com/privacy.php).
+We explicitly ask you to accept that we store that information before you contribute to our Website.
 
-## Personal and Other Collected Data
+SiteGround in Spain is operated by SiteGround Spain S.L., the data of which are in [Siteground Data Centres](https://www.siteground.es/centros-de-datos). SiteGround is fully committed to GDPR compliance as [described on their website ](https://www.siteground.com/blog/gdpr-siteground-getting-ready/)and they are working on a certification under the EU-US and Swiss-US Privacy Shield with the Department of Commerce that they adhere to the Privacy Shield Principles regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, respectively, so they can lawfully host EU client’ data on their US servers when that’s needed. They are moving it forward as a second-tier compliance mechanism after the Standard Contractual Clauses. As an additional means of meeting the adequacy and security requirements of the GDPR, we have signed a Data Processing Addendum with SiteGround.
 
-Through your interaction with and use of the Channels, Nelio may collect personal data, that identifies an individual or relates to an identifiable individual. Personal data may include, but is not limited to, your name, physical address, telephone number, e-mail address, company affiliation and associated interests.
+### Google
 
-In compliance with what is established in Spanish Organic Act 15/1999, on Personal Data Protection, Royal Decree 1720/2007, which enforces the regulations for the development of Organic Act on Data Protection (LOPD) and Act 34/2002, dated 11th of July, on Information Society and Electronic Commerce Services, Nelio informs your data will be included and processed in a file responsibility of Nelio. Nelio does not process personal data from minors or underage or from people without full legal capacity. If this is the case, do not provide us your personal data.
+We use [G Suite](https://gsuite.google.com/) (Gmail, Docs, Drive, and Calendar for business), for communication, storage, and collaboration. We also use [Google App Engine](https://cloud.google.com/appengine/docs) platform, the Google cloud service, as the backend of the Nelio A/B Testing service. Personal Data related to some of our services (except for payment details, see FastSpring above) is kept in Google’s systems. In addition, on our Website, we use [Google Analytics](https://www.google.com/analytics/) to analyze their use and optimize their performance.
 
-How Nelio uses and shares the collected personal data is described below.
+Google is a US company the data of which are in [Google Cloud Locations](https://cloud.google.com/about/locations/). As described in their [Privacy Shield certification](https://www.privacyshield.gov/list), they comply with the EU-US and Swiss-US Privacy Shield as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Data from European Union member countries and Switzerland, respectively.
 
-If you do not object to any part of the use of your personal data, Nelio understands you consent and expressly authorize all said use, as well as the assignment and/or international transfer of your personal data to Nelio’s third-parties service providers described above.
+Google is fully committed to GDPR compliance as described on their [Commitments to GDPR](https://cloud.google.com/security/gdpr/) that articulate the commitments with us. For all the previous services, as a commitment to privacy and security, we have signed the following documents: [Data Processing Security Terms (Customers) contract](https://cloud.google.com/terms/data-processing-terms), [G Suite Standard Contractual Clauses](https://admin.google.com/terms/apps/1/5/en/mcc_terms.html), [Data Processing Amendment to G Suite](https://admin.google.com/terms/apps/3/1/en/dpa_terms.html), and a [EU Model Contract clauses](https://cloud.google.com/terms/eu-model-contract-clause).
 
-You could at any time revoke the consent to the reception of commercial communications and you could always oppose to the processing of your data for promotional use.
+### Amazon
 
-You may exercise your right to access, rectify, cancel and oppose by means of signed document attaching copy of an official document that certifies your identity to: [legal@neliosoftware.com](mailto:legal@neliosoftware.com).
+We use [Amazon Web Services (AWS)](https://aws.amazon.com/), the Amazon cloud computing platform, as the backend of the Nelio Content service. Personal Data related to this service (except for payment details, see FastSpring above) is kept in Amazon’s systems.
 
-Nelio may also collect other information through your interaction with and use of the Channels and non-Nelio websites, which does not reveal your specific identity or does not directly relate to an individual. Other Information may include, but is not limited to, browser and device information, data collected through automated electronic interactions, application usage data, demographic information, geographic or geo-location information, statistical and aggregated information.
+Amazon.com, Inc. is a US company, the data of which are in [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/) . As described in their [legal policies](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib), participates in the EU-US and Swiss-US Privacy Shield Framework regarding the collection, use, and retention of Personal Data from European Union member countries and Switzerland, respectively. They have certified with the Department of Commerce that they adhere to the [Privacy Shield Principles](https://www.privacyshield.gov/welcome).
 
-Statistical or aggregated information does not directly identify a specific person but may derive from personal data. For example, Nelio may aggregate personal data to calculate the percentage of users in a particular zip code.
+Amazon is fully committed to GDPR compliance as described on their [Compliance to GDPR](https://aws.amazon.com/compliance/gdpr-center/) that articulate the commitments with us. As an additional means of meeting the adequacy and security requirements of the GDPR, we have signed a Data Processing Addendum with Amazon.
 
-In some instances, Nelio may combine other data with personal data, such as combining a precise geographical location with your name. If Nelio combines other data with personal data, Nelio will treat the combined information as personal data.
+### Mailchimp
 
-## How Nelio May Use and Share Personal Data
+We use Mailchimp to deliver our newsletters and other email communications. Therefore, MailChimp, with servers located around the US, keeps Personal Data about your name and email and gathers statistics about email opening and clicks as part of its service.
 
-Nelio may use and share the personal data it collects (unless otherwise restricted by applicable law) to:
+Mailchimp is a registered trademark of The Rocket Science Group, a US company, the data of which [are in US](https://mailchimp.com/legal/privacy/) and has certified they comply with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data from European Union member countries and Switzerland.
 
-  * To engage in transactions with you.
-  * To provide you support or other services you have ordered (for example, the automatic publication of scheduled messages in social media) , as well as product updates, product patches and fixes and other similar operational communications.
-  * To notify you about new product releases and service developments, and to advertise Nelio’s products and services in accordance with this policy. Your website visit, marketing experience, and communications may be tailored to your interests based on your personal data. Nelio may also use personal data in order to respond directly to your information requests (including newsletter registrations or other specific requests), or pass your contact information to Nelio’s reseller for further follow-up related to your interests.
-  * To interact with you on third party social networks, which would be subject to that network’s privacy policies and terms of use.
-  * To post testimonials on Nelio’s Channels that may contain personal data, subject to prior consent to use your name and testimonial. If you wish to update or delete your testimonial, please fill out a request form, and be sure to include your name, testimonial location, and contact information.  
-When you download products from Nelio’s Channels, to confirm certain information about your order; discuss the downloaded products or provide marketing or sales information about related products and services. Nelio may also use personal data to contact you, confirm compliance with licensing and other terms of use, and may share it with your company (if any).
-  * To help create and personalize content on Nelio’s Channels, facilitate your use of the Channels (for example, to facilitate navigation and the login process, avoid duplicate data entry, enhance security, keep track of shopping cart additions and preserve order information between sessions), improve quality, track marketing campaign responsiveness (including online advertising and e-mail marketing), and evaluate page response rates.
-  * If you elect to use Nelio’s referral service to inform a third-party about Nelio’s products or services, to ask you for the third-party’s contact information. Nelio will then send the third party a one-time contact related to your referral request. Nelio uses the personal data you provide in this situation solely for the purpose of sending the one-time contact and tracking the success of Nelio’s referral program. The third party may contact Nelio through its inquiry form to be removed from the referral program.
-  * To evaluate and improve Nelio’s products, services, marketing, and customer relationships.
-  * To communicate with you about a conference or event hosted, co-sponsored or participated by Nelio (including information about the event’s content, logistics, payment, updates, and any additional meetings, special demonstrations or other customer facilitation ). After the event, Nelio may contact you about the event and related products and services, and may share information about your attendance with your company (if any).
-  * To share personal data with third parties (see section on Third Party Service Providers) who provide services to Nelio, such as credit card processing services, order fulfilment, analytics, event / campaign management, web site management, information technology and related infrastructure provision, customer service, e-mail delivery, auditing, and other similar services. In this case, Nelio may require that the services providers use your personal data only for the purpose of providing services to Nelio and subject to terms consistent with this policy.
-  * To disclose your personal data as Nelio believes to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce Nelio’s terms and conditions; and (e) to allow us to pursue available remedies or limit the damages that Nelio may sustain. Additionally, in the event of a reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of Nelio’s business, assets or stock (including in connection with any bankruptcy or similar proceedings), Nelio may transfer the personal data it has collected to the relevant third party.
+As described in their knowledge base, they are committed to achieving compliance with the GDPR and is mindful of your compliance efforts. We have already signed a Data Processing Addendum as an additional means of meeting the adequacy and security requirements of the GDPR. For more information about the way in which MailChimp is committed to achieving compliance with the GDPR in 2018, see [About the General Data Protection Regulation](https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation).
 
+### Freshworks
 
+We use Freshdesk by Freshworks, Inc. as our ticketing service and help desk software. Freshdesk keeps Personal Data about your name and email, as well as any other information you may have disclosed while interacting with us to receive support.
 
-### Other Information
+Freshworks Inc. is a US company, the data of which are in [Freshworks Data Hosting](https://www.freshworks.com/privacy/data-hosting/). As described [on their website](https://www.freshworks.com/privacy/gdpr/) they are fully committed in being compliant with the GPDR and confirm that they comply with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data from European Union member countries and Switzerland.
 
-Nelio may use, transfer, and disclose other collected data or information for any purpose, except where applicable law requires otherwise. If Nelio is required to treat other data or information as personal data under applicable law, then Nelio will only use it in the way permitted to use and disclose personal data.
-
-## How Nelio May Collect Personal Data
-
-Nelio and Nelio’s third party service providers may collect both personal data and other data from a variety of sources that generally fall into three categories:
-
-  * **Direct interactions** : From your use of and interaction with us through the Channels and other activities such as account creation, submission of registrations and forms, or sales inquiries and transactions.
-  * **Publicly available data / data from third parties** : Data from automated interactions on non-Nelio websites, or other data you may have made publicly available, such as social media posts, or data provided by third party sources, such as marketing opt-in lists, or data aggregators.
-  * **Automated interactions** : From the use of technologies such as electronic communication protocols, cookies, embedded URLs or pixels, widgets, buttons and tools (for more details, see below).
-
-
-
-Although Nelio’s use of automated interactions may change over time as technology evolves, the following descriptions are designed to provide you with additional detail about Nelio’s current approach to information collected from automated interactions. Nelio may automatically receive information from you as part of the communication connection itself, which often consists of network routing information (where you came from), equipment information (browser type), your IP address (which may identify your general geographic location or company), and date and time.
-
-Nelio may also automatically receive and record information about your interaction with the Channels, such as clickstream information (when each Nelio webpage was visited and how much time was spent on the page), or general geo-location data.
-
-## Cookies
-
-### Concept, use and types
-
-A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile device browser from a website’s server and is stored on your device’s hard drive. Each website or third party service provider used by said website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website or third party service provider to access the cookies it has already sent to you, not the cookies sent to you by other sites or other third party service providers. A cookie will contain some anonymous information such as a unique identifier and the site name and some digits and numbers. It allows a website to remember things like your preferences or what’s in your shopping basket.
-
-Cookies are used to record information about your online preferences and allow third parties to tailor the websites to your interests. Information supplied by cookies can help third parties to analyse your use of the relevant sites and help the third party to provide you with a better user experience. For example, you may choose to personalise the content of a website to see it in a certain language. In order to do this, a cookie is placed on your device to remember this preference.
-
-Nelio can use the following type of cookies:
-
-**Essential cookies** are necessary to provide you with services and features available through Nelio’s Channels. Without these cookies, services you may need, such as registration to Nelio’s services cannot be provided.
-
-**Analytics or customization cookies** collect information that is either used in an aggregate form to help us understand how the Channels are being used or how effective Nelio’s marketing campaigns are, or to help Nelio to customize the Channels for you.
-
-### Nelio’s cookies
-
-Nelio has defined and owns certain cookies that are used to run A/B tests and heatmaps experiments and to track visitor information. See [Cookies Stored by Nelio A/B Testing](http://support.nelioabtesting.com/solution/articles/1000165881-cookies-stored-by-nelio-a-b-testing) for further details.
-
-### Social Media Features and Widgets
-
-Our Channels may include social media features (such as Facebook’s “Like” button), widgets (such as the “Share This” button) or interactive mini-programs that run on Nelio’s site. These features are usually recognizable by their third party brand or logo and may collect your IP address, the page you are visiting on Nelio’s site, and set a cookie to enable the feature to properly work. Social media features and widgets are either hosted by a third party or directly hosted on Nelio’s site. Your interactions with these features are governed by the privacy policy of the company providing it.
-
-### Refusing cookies
-
-Your browser may provide you with information and control over cookies. You can set your browser to alert you when a cookie is being used, and accept or reject the cookie. You can also set your browser to refuse all cookies or accept only cookies returned to the originating servers. Users can generally disable the cookie feature on their browser without affecting their ability to use the site, except in some cases where cookies are used as an essential security feature necessary for transaction completion. Cookies, however, are important to the proper functioning of a site, and disabling them may degrade your experience and interfere with website features and customizations.
-
-You can find information on how to remove cookies, depending on the browser you use, at the following addresses:
-
-  * If using Firefox: <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
-  * If using Chrome: [https://support.google.com/chrome/answer /95647?hl=en](https://support.google.com/chrome/answer%20/95647?hl=en)
-  * If using Internet Explorer:<http://support.microsoft.com/kb/196955>
-  * If using Safari: <https://support.apple.com/en-us/HT201265>
-
-
-
-You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
-
-## Changes to Nelio’s Privacy Policy & Cookies
-
-Nelio’s services and business may change from time to time and Nelio may change this privacy policy & cookies’ information. Nelio reserves the right to update or modify this privacy policy at any time. If Nelio does so, Nelio will post the changes and will indicate at the top of this page the date of the last revision. You may want to review this policy periodically, and particularly before you provide any personal data. Any changes will become effective not earlier than 14 days after they are posted, except for changes addressing new functions of Nelio’s service or changes made for legal reasons, which may be immediately effective. Your continued use of the Channels after the date any changes become effective constitutes an acceptance of the new privacy policy.
-
-## Other Legal Information; Contacting Nelio
-
-Please, read all [Legal Information](https://neliosoftware.com/legal-information) related to Nelio’s Channels.
-
-If you have any questions about this privacy policy, please contact us at [legal@neliosoftware.com](mailto:legal@neliosoftware.com).
+In addition, we have already signed a Data Processing Addendum as an additional means of meeting the adequacy and security requirements of the GDPR.
