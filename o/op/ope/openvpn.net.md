@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the openvpn.net privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210193704id_/https%3A//openvpn.net/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openvpn.net privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624103947id_/https%3A//openvpn.net/index.php/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**What information do we collect?**
+**Data Collection, Use and Retention**
 
 We collect information from you when you register on our site, place an order, respond to a survey or fill out a form. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number or credit card information. You may, however, visit our site anonymously.
 
- **What do we use your information for?**
+The minimum information that OpenVPN Inc requires is an e-mail address for registration and contact purposes. We may also ask for payment and business information for invoicing purposes.
+
+**What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways: 
 
@@ -33,7 +35,11 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 
 After a transaction, your private information (credit cards, financials, etc.) will not be stored on our servers.
 
- **Do we use cookies?**
+**Customer Data Access and Control:**
+
+To review, request a copy of, or delete your account information you may contact us via e-mail at [privacy@openvpn.net](mailto:privacy@openvpn.net)
+
+**Do we use cookies?**
 
 We do use cookies.
 
@@ -75,5 +81,5 @@ http://www.openvpn.net
 7901 Stoneridge Dr, Suite 540  
 Pleasanton, California 94588  
 USA  
-[info@openvpn.net](mailto:info@openvpn.net)  
-
+[privacy@openvpn.net](mailto:privacy@openvpn.net)  
+  
