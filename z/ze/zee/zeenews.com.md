@@ -1,94 +1,131 @@
-> *The following text is extracted and transformed from the zeenews.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114235829id_/http%3A//zeenews.india.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeenews.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624040122id_/http%3A//zeenews.india.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Zee News
+# Privacy Policy | News
 
-[](https://web.archive.org/)
+**I. Objective and Scope**
 
-[ZeeNews.com](http://zeenews.india.com/) recognizes the importance of protecting the privacy of information and will keep the information you entrust to us safely and securely.
+Zeenews.india.com values the trust placed in us by our users and therefore, we follow the highest standards of privacy guidelines to protect the information shared by you with us.  
+This Privacy Policy (“Privacy Policy”) governs the use of Personal Information shared (as defined below) with or collected by zeenews.india.com from the users or subscribers.   
+This privacy policy describes the usage of information provided or collected on the sites and applications where this privacy policy is posted. We follow this privacy policy in accordance with applicable law in the places where we operate.  In some cases, we may provide additional data privacy notices specific to certain services or regions. Those terms are to be read in combination with this policy.
 
-  1. **WHAT THIS PRIVACY POLICY COVERS**
+Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications like social media login) the information we collect is through those third-party sites linked with our applications is covered by this privacy policy, and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications. Please also keep in observance that our sites and applications may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your personal information.  
+All capitalized terms that have not been specifically defined herein shall have the same meaning as provided under the Terms of Use.  
+This Privacy Policy should be read in conjunction and together with the Terms of Use applicable to the zeenews.india.com you are using.   
 
-This policy tells you how ZeeNews.com collects information from you, how we protect it and how we use it, and share all personal information which you provide when you use [ZeeNews.com](http://zeenews.india.com/) mobile site (the "Site"). This application of this policy does not extend to the practices of companies that ZeeNews.com does not own or control or to people that [ZeeNews.com](http://zeenews.india.com/) does not employ or manage.
+**II. User Consent**
 
-  2. **INFORMATION COLLECTION AND USE**
+By using zeenews.india.com (for example, when you register for an account, purchase a service, enter a contest or promotions, communicate with us, on our sites or applications), you agree to provide consent to our collection, use and sharing of your personal information as described in this policy. In some cases, particularly if you reside in a country governed by a data protection regulation, we may ask you to provide explicit consent to access our services before proceeding for further operations.
 
-ZeeNews.com wants to make your experience online satisfying and safe. Our data collection policies allow you to choose how much information to provide us and to control how we use whatever information you tell us. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have.
+**III. Collection and Use of Personal Information**
 
-Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address or information about what you like and do not like.
+‘Personal Information’ or ‘PII’ is defined as any information that identifies (whether directly or indirectly) to a particular individual or natural person, such as the individual’s name, postal address, email address, and mobile number indicating to that particular person or is identifiable. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.
 
-The following is what we normally collect about you to help us provide you with our services, where we can:
+**IV.** **Information** **you provide to us  **
 
-    1. Information on how you use our website, including details of your domain name and Internet Protocol address, operating system, browser, cookies, time spent on a page or content, and the route you took to navigate through the pages.
+We may ask for and collect the following personal information about you when you use the zeenews.india.com and without this information we may not be able to provide you with all the requested services;  
+• First and Last Name  
+• Email id  
+• Primary Phone No.  
+• City & State 
 
-    2. Other data, from time to time, to help us provide you with improved products and services.
+**V. Information we collect automatically  **
 
-If you choose not to provide us with certain information we may not be able to provide you with a particular service.
+We collect information about you and your use of our service, your interactions with us and our advertising, as well as information regarding your computer or other device used to access our service. The information includes:   
+• Your interactions with our email, customer care and messaging platform.  
+• Geo-location information like IP addresses,  
+• Cookies;  
+You can read more about how we use cookies in our [cookie policy](http://zeenews.india.com/cookie-policy).
 
-ZeeNews.com also automatically receives and records information on our server logs from your browser including your IP address, ZeeNews.com cookie information and the page you requested. In addition, when you use ZeeNews.com's services, you may make some of your personal information public.
+**VI. Information we collect through third parties  **
 
-If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return and ZeeNews.com will not be responsible for the use or misuse of such information. The main uses of your personal information are to verify your identity; to help provide our services; to administer those services; to enable us to review and improve our service to provide access to certain areas of the website; to personalise your visit to our Site; to run competitions and games and to assist with advertising and other revenue generation functions.
+_**Third party**_ _ **services**_  
+If you link, connect or login through you the zeenews.india.com account with a third party service i.e. Google, Facebook and Twitter they may send us information such as your registration and profile information from the service.
 
-The information we collect is also used to notify visitors about events, changes and other information about this Site. The information we collect is never shared with other organizations for commercial or other purposes.
+**VII. Purposes and Lawfulness of processing**
 
-This information may be used for marketing (where you have agreed to this) and for market research purposes, including internal demographic studies, to provide, optimise and personalise our services and to send you newsletters and information (where you have agreed to this) about our products and services.
+We will only collect and process personal data about you where we have lawful basis. Lawful basis on which we would process our personal information includes obtaining explicit consent from you for processing your personal information or processing for “legitimate interests” where processing is necessary by us to provide you with customer support or process your data for providing premium services (For e.g. processing your information by our payment gateway service providers).  
+We use information to provide, analyse, administer, enhance and personalize our service and marketing efforts, to process your registration, your orders, payments, and to communicate with you related to below mentioned points. For example, we use information to:  
+• prevent, detect and investigate potentially prohibited or illegal activities, including fraud, and enforcing our terms (such as determining free trial eligibility);  
+• communicate with you concerning our service (for example by email, push notifications text messaging, and online messaging channels), so that we can send you news about zeenews.india.com, details about new features and content available on the zeenews.india.com, and special offers, promotional announcements, and consumer surveys, and to assist you with operational requests such as password reset requests.   
+• notify you about changes in terms of service.  
+• allow you to participate in interactive features offered through our Services.  
+• carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing, chargeback and collection.  
+We may also use your information to contact you about our own and third-party services that may be of interest to you. If you do not want us to use your information in this way, please provide explicit consent for the same when we collect your data and/or adjust your user preferences in your account profile concerning your choices/preferences provided.
 
-We may use information about you to create a picture of your interests. This will allow us to understand our customers and visitors better, so we can make our services and marketing more relevant. Information that we use in this way may include:
+**VIII. Disclosure to third parties**
 
-    1. information about your use of this Site;
+_**General Disclosure**_
 
-    2. household classification data,
+At times the zeenews.india.com may make certain personal information available to strategic partners that work with the zeenews.india.com to provide service, or that help the zeenews.india.com market to customers. For example, when you purchase and activate subscription, you authorize the zeenews.india.com to exchange the information you provide during the activation process to carry out a service. If you are approved for service, your account will be governed by the zeenews.india.com’s privacy policy. Personal information will only be shared by the zeenews.india.com to provide or improve our service and marketing aspects; it will not be shared with third parties for their marketing purposes.  
+We do not share your personal information with Companies, organizations, or individuals outside of zeenews.india.com except in the following cases:
 
-    3. your responses to communications from us;
+_**Promotional Offers**_
 
-    4. your interaction with other parts of the ZeeNews.com group;
+We’ll share or disclose your personal information outside of zeenews.india.com when we have your consent. For example, providing E-mail related services such as marketing newsletters, promotions and offers.
 
-    5. information you provide when you register on a Site;
+_**Business Transfers  **_
 
-    6. customer surveys;
+We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For example, we use service providers to help us with customer support.
 
-    7. information provided by other companies, where you gave them permission to share this information. We may use a variety of technical methods such as cookies and web beacons to collate this information (see the section below on "Use of Cookies" for further information).
+_**Legal**_
 
-  3. **INFORMATION SHARING AND DISCLOSURE**
+In the event of any requirement by court order, government or quasi-government agency to disclose Your Personal Information, We will disclose information as may be legally required. We may also disclose Your Personal Information if we, in the good faith believe that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.  
+In the event zeenews.india.com is merged with or acquired by another company, we and our affiliates may share your personal information, wholly or in part, with another business entity.
 
-ZeeNews.com will NOT disclose personally identifiable information about you to third parties except in the following situations:
+**IX. Your Controls and Choices**
 
-    1. We have your consent to share the information;
+We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your personal information. In accordance with applicable law, your controls and choices may include: 
 
-    2. We need to share your information to provide the product or service you have requested;
+_**Managing Your Information**_
 
-    3. We need to share the information with certain service partners in order to respond to your comments or to resolve service issues. (Unless we tell you differently, these partners have no independent right to use this information except to respond to your comments or to resolve the service issues); 
+You can access and update some of your personal information through your account settings. If you have chosen to connect your zeenews.india.com account to a third-party application, like Facebook, Google or Twitter, you can change your settings and remove permission for the app by changing your account settings. You are responsible for keeping your personal information up-to-date. The zeenews.india.com will send you periodic reminders via e-mail to maintain the accuracy of your personal information.
 
-    4. We respond to requests from any Indian or foreign government, security, defense, revenue, regulatory or other authority, agency or officer;
+_**Rectification of Inaccurate or Incomplete Information**_
 
-    5. When applicable law or regulation requires disclosure of information to protect the safety or security of users of our Site;
+You can ask us to correct inaccurate or incomplete personal information concerning you (this is the information which you cannot update yourself within your zeenews.india.com account) by sending us an e-mail
 
-    6. We find that your actions on our Site violate the ZeeNews.com terms of service or any of our usage guidelines for specific products or services;
+_**Data Retention and Erasure**_
 
-    7. If we sell the business of some of the ZeeNews.com group of companies or to another organisation or merge with other businesses. In this case, the buyer will only be able to use your information as set out in this Privacy Policy; 
+We retain your personal information as long as necessary for the performance of the contract between you and us to comply with our legal obligations. If you no longer want us to use your information then you can request that we erase your personal information and close your zeenews.india.com account. Please note that if your request for the erasure of your personal information;  
+• We may retain some of your personal information as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if we suspend a zeenews.india.com account for fraud or safety reasons, we may retain certain information from that account to prevent that user from opening a new account in the future.  
+• We may retain and use your personal information to the extent necessary to comply with our legal obligations. For example, we may keep some of your information for tax, legal reporting and auditing obligations.  
+• Because we maintain copies of the zeenews.india.com to protect from accidental or malicious loss and destruction, residual copies of your personal information may not be removed from our backup systems for a limited period of time.  
+Withdrawing Consent and Restriction of Processing
 
-    8. If we use third party processors to administer and process your personal information for the purposes notified in the Privacy Policy, e.g. for hosting activities related to the use of our Site or services; or
+For withdrawing your consent at any time during the tenure of your services with us, you may choose to do so by sending us an e-mail. We shall review your request and may ask you to verify your identity. Post verification we will withdraw the consent for which request was made by you and stop any further processing of your personal information
 
-    9. We may need to share details with third parties (such as auditors or legal advisors) to obtain advice. Any such processing will be governed by an agreement in the form required by law, preserving any statutory data protection rights.
+_**Objection to Processing**_
 
-  4. **USE OF INFORMATION FOR MARKETING**
+Where your personal information is processed for direct marketing purposes, you may, at any time ask us to cease processing your data for these direct marketing purposes by sending an e-mail to us.
 
-In line with any permission you give us, we may send you direct marketing about our own, or carefully selected third parties' goods and services and disclose your information to other organisations that may send direct marketing to you. You can change your marketing preferences if you are registered with us. In addition, you can unsubscribe from email communications via unsubscribe links provided in communications sent to you.
+_**Complaints**_
 
-  5. **USE OF COOKIES**
+You can write to our data protection officer in case of any grievance or compliant. You have the right to complaint about the data processing activities carried out by zeenews.india.com before the competent data protection authorities. 
 
-To improve the responsiveness of the Site for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Newsletter). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
+Please be aware that if you do not allow us to collect personal information from you, we may not be able to deliver certain experiences, products, and services to you, and some of our services may not be able to take account of your interests and preferences. If collection of personal information is mandatory, we will make that clear at the point of collection so that you can make an informed decision whether to participate.  If you have questions about the specific personal information about you that we process or retain, and your rights regarding that personal information, please contact our customer support team
 
-  6. **SECURITY**
+**X. Children’s Privacy**
 
-We take various precautions to keep your personal information secure from unauthorized access and will store your personal information for so long as it is necessary to provide you our services or for archive purposes. You are responsible for keeping your User ID and password secure and you should not disclose them to anyone.
+zeenews.india.com is not intentionally designed for or directed at persons less than 16 years of age. zeenews.india.com does not knowingly permit any person who is under 16 years of age to register with the services or to provide any other personally identifying information. If zeenews.india.com becomes aware that any personally identifiable information of persons less than 16 years of age has been collected on the zeenews.india.com without verified parental consent, then zeenews.india.com will take the appropriate steps to delete any such information and notify the parent. 
 
-  7. **NOTIFICATION OF CHANGES**
+However, we consider it the responsibility of parents to monitor their children’s use of our services. Nevertheless, it is our policy not to collect and process any personal information from children below 16 years of age or offer to send any promotional materials to persons in that category. zeenews.india.com does not seek or intend to seek or receive any personal information from children. Should a parent or guardian have reasons to believe that a minor has provided zeenews.india.com with personal information without their prior consent, please contact our customer support team to ensure that the personal information is removed from the zeenews.india.com.
 
-[ZeeNews.com](http://zeenews.india.com/) may amend this Privacy Policy from time to time and we will post the latest version on this and on our Site.
+**XI. Data transfer, storage & processing globally  **
 
-  8. **ACCEPTANCE OF PRIVACY POLICY**
+We operate globally and may transfer your personal information to individual companies of the zeenews.india.com affiliated companies or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we use standard contractual clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards.
 
-By using this Site, you consent to the terms of this privacy policy.
+**XII. Security and compliance with laws**
 
+We are continuously implementing and updating administrative, technical, and physical security measures to help protect your information against unauthorized access, loss, destruction, or alteration. Some of the safeguards we use to protect your information are firewalls and data encryption, and information access controls. If you know or have reason to believe that your zeenews.india.com account credentials have been lost, stolen, altered, or otherwise compromised or in case of any actual or suspected unauthorized use of your account, please contact us by contacting our customer support team.
 
+**XIII. Change in Policy  **
 
+This Privacy Policy is subject to change from time to time. We reserve the right, at our sole discretion, to modify the terms of this Privacy Policy from time to time in order to ensure compliance with applicable laws (“Updated Terms”). The Updated Terms shall be effective immediately and shall supersede these the terms of this Privacy Policy. We will not be under an obligation to notify you of any changes to this privacy policy except if the changes made to the policy significantly affects your rights or as may be required by law. You shall be solely responsible for reviewing the Privacy Policy from time to time for any modifications. By continuing to use zeenews.india.com after the updated Terms have been published, you affirm your agreement to the updated terms.  
+ **XIV. Contact information**
+
+_**I. Support**_  
+If you require any information or clarification regarding the use of your personal information or this privacy policy or grievances with respect to use of your personal information, please email us at [response@zeemedia.esselgroup.com](mailto:response@zeemedia.esselgroup.com).
+
+_**II. Data Controller Officer**_  
+If you have any queries, complaints regarding the collecting, processing, transfer of personal data/information or regarding this policy please contact us at [response@zeemedia.esselgroup.com](mailto:response@zeemedia.esselgroup.com).  
+ 
