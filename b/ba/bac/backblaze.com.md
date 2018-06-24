@@ -1,91 +1,116 @@
-> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830075019id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624054221id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.*
 
-# Backblaze - Online backup privacy policy
+# Privacy Policy | Backblaze Online Backup
 
-Updated 4/5/16 
+Last updated: May 22, 2018 
 
-Please read this privacy policy carefully. It applies to all interactions you have with Backblaze's web services and apps.
+We value your business and we know your privacy is important to you. Accordingly, we have implemented this Privacy Notice which describes: how we collect and use personal information that you provide to us when you create a Backblaze account, via our website or Apps; what we do with the information collected; and how you can exercise your privacy rights. 
 
-Note that Backblaze has two different products:
+This Privacy Notice applies only to the information collected in respect of your account and does not apply to the content that customers store on our system, including any personal information. Backblaze will not disclose, move, access or use customer content except as provided in Backblaze's [terms and conditions](https://web.archive.org/company/terms.html), and our [data processing addendum](https://web.archive.org/company/dpa.html). 
 
-  * [Computer Backup](https://www.backblaze.com/cloud-backup.html) provides unlimited cloud backup for individuals and organizations using Macs or PCs. 
-  * [B2 Cloud Storage](https://www.backblaze.com/b2/cloud-storage.html) provides low-cost cloud storage for individuals and organizations. 
+Backblaze is a US headquartered data storage provider that offers two different products: 
 
-
-
-When we collect, store, use, or share information differently among these products, we'll note that below.
-
-#### The Information We Collect
-
-**Account Information.** When you create a Backblaze account, we ask for your email address and a password. We may also ask for your phone number for purposes such as two-factor verification and sending you service alerts. If you choose to sign up for one of our services, we'll ask you for billing information. If you order a physical item from us, such as a Restore by Mail, we'll ask for shipping information. At times we may ask for other information such as your name or your company name.
-
-**Your Files.** Our Computer Backup service automatically backs up your files to Backblaze; B2 Cloud Storage allows you to upload your files to our service. Please keep in mind that your files may include personally identifiable information, both in the contents of a file and in metadata.
-
-**Information About Your Use of Backblaze.** We receive some information automatically when you use any Backblaze product. This includes data about your device, software, and the operating system you use when accessing our service, your Internet Protocol address, and the date and time of each request you make to Backblaze. When you use our backup services, we'll also receive information such as the names of external drives, file types transferred, and number and size of files transferred.
-
-**Information We Learn Through Your Interactions with Us.** You may choose to provide us with personal information when you call us, email us, chat with us, answer a survey, comment on our blog, or interact with us through other services like Twitter or Facebook. 
-
-**Referrals.** If you refer a friend to Backblaze, we'll ask you for their email address. You can also choose to upload your contacts stored with others services such as Google and Yahoo in order to refer friends.
-
-**Information from Other Sources.** We may collect additional information about you from third parties to help us figure out how to better serve you.
-
-#### How We Use Your Information
-
-We use your personal information to keep Backblaze running, understand how you use our service, customize your experience, prevent abuse, provide customer support, sell and market our products, and improve Backblaze. We use your information internally only as needed to accomplish these goals.
-
-#### How We Disclose Your Information
-
-We will share your personally identifiable information only in the limited circumstances below. Backblaze does not sell your information or share it with third-party advertisers.
-
-**With your permission.** We may share your information with your consent, after letting you know what information will be shared and with whom.
-
-**In response to the law.** We may disclose your information if we believe it is reasonably necessary to comply with a law, regulation, or valid legal process. If we are going to release your information, our policy is to provide you with notice unless we are prohibited from doing so by law or court order (e.g., an order under 18 U.S.C. § 2705(b)). We may disclose your information without providing you with prior notice if we believe it's necessary to prevent imminent and serious bodily harm to a person. Nothing in this policy is intended to limit any legal objections or defenses you might have to demands to compel disclosure of your information, including demands from the government.
-
-**With third parties helping us provide Backblaze.** We may share your information with third-party services helping us provide and improve our products. Those third parties access and use your information only on our behalf. They include companies such as Stripe, Salesforce, Google, Freshbooks, Facebook, Twitter, MailChimp, Slack, SurveyMonkey, SendGrid, and ZenDesk. Please note that this Privacy Policy explains Backblaze's practices only, and doesn't extend to the practices of other services. 
-
-**With group administrators.** If you use our services as part of a business, group, or organization where Backblaze was set up by an administrator, the administrator may be able to access and control your account. Refer to your organization's internal policies for more information. 
-
-**With other internet services.** If you are a B2 Cloud Storage user, you may give third parties the ability to access information and content in your account (e.g., through APIs). When other services access and use your information, their conduct is governed by their own terms and policies.
-
-**With other people, in limited circumstances.** When you use B2 Cloud Storage, your settings give you the option to make information and content available to other people. When you refer a friend to us, we'll share your name and email address with that person. And when you post comments on our blog, of course, other people can read them. 
-
-**Sale or merger.** If all or part of Backblaze is sold, merged, or otherwise transferred to another company in the future, your information may be transferred as part of that transaction. If that happens, Backblaze will take reasonable steps to make sure your information continues to be treated consistent with this privacy policy.
-
-**Aggregate information.** We may disclose aggregate, non-identifying information about how our users use Backblaze products.
-
-#### Web Tracking Policy
-
-**Cookies.** We use cookies to enable our servers to recognize your web browser and tell us how and when you use Backblaze products. We use cookies to identify whether you have logged in and recognize that your web browser has accessed our servers before, and we may associate that information with your account.  
-Most browsers have an option for disabling cookies, but if you disable them, some Backblaze services will not work. Some third-party services that we use, such as Google Analytics, may place their own cookies in your browser. This Privacy Policy covers our use of cookies only and not the use of cookies by third parties.
-
-**Do Not Track.** Some browsers make it possible for you to signal that you don't want your internet browsing activity to be tracked. There is not yet a consensus in the internet community about how to best honor these signals, so we don't respond to Do Not Track requests at this time.
-
-#### Data Security
-
-Backblaze products are designed to have several layers of security.
-
-  * We use Secure Sockets Layer (SSL)/Transport Layer Security (TLS) to create a secure tunnel to protect data in transit between Backblaze apps and servers. 
-  * We don't retain your actual account password, but [hash and salt](http://goodmath.scientopia.org/2013/03/02/passwords-hashing-and-salt/) it to help protect it against possible compromise. 
-  * You have the option to enable two-factor verification, a login feature that adds an extra layer of security to your account. 
-  * We narrowly limit the number of Backblaze employees who have access to user data through policy and technical access controls. 
-  * For Computer Backup, your files are automatically encrypted by default on your computer before being sent to Backblaze. The encrypted files are sent and stored in encrypted form. By default, Backblaze retains a copy of the encryption key to make data recovery possible if you forget your password. However, you can choose to keep the only copy of the key if you prefer. For B2 Cloud Storage, it is up to you whether you choose to encrypt your files before uploading them. 
+  * [Computer Backup](https://www.backblaze.com/cloud-backup.html), which provides unlimited cloud backup for individuals and organizations using Macs or PCs (laptops and desktops); and 
+  * [B2 Cloud Storage](https://www.backblaze.com/b2/cloud-storage.html), which provides low-cost cloud storage for individuals and organizations. 
 
 
 
-You use Backblaze at your own risk, and are responsible for taking reasonable measures to secure your account (such as choosing a strong, unique password and keeping it secret).
+When requesting to use Backblaze's services we may ask you to provide personal information to us. For example, when you create a Backblaze account, we will ask you for your email address and a password. We may also ask for your phone number for purposes such as two-factor verification or for sending you service alerts. If you choose to sign up for one of Backblaze's services, we will ask you for billing information. To order a physical item from us, such as a Restore by Mail, we will ask for shipping details. At times we may ask for other information such as your name or the name of your company name. 
 
-We are always on the lookout for vulnerabilities in Backblaze. If you discover a vulnerability in our service, we would be grateful for your report and encourage you to let us know immediately. If you give us reasonable time to respond to your report before making any information public, and make a good faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our service during your research, we will not pursue any legal action against you or ask law enforcement to investigate your actions.
+During your interaction with Backblaze, you may choose to provide us with personal information when you email us, chat with us, answer a survey, comment on our blog, or communicate with us through social media services like Twitter or Facebook. 
 
-To report a vulnerability, please email security@backblaze.com.
+If you refer a friend to Backblaze, we will ask you for their email address. Backblaze will then contact your referred friend to determine whether your friend consents to us contacting them. 
 
-#### Account Cancellation
+Our Computer Backup service automatically backs up your files to Backblaze; B2 Cloud Storage allows you to upload your files to our service. While the content of your files may include personally identifiable information, both in the content of a file and in metadata, this Privacy Notice, as stated at the outset, only applies to the information collected in respect of your account and not to the content that you store on our system. 
 
-You are free to stop using Backblaze at any time. If you choose to deactivate your account, we'll delete your backups and files stored in B2 Cloud Storage within a reasonable amount of time. We will continue to keep some information about your use of our service.
+When you use any Backblaze product we may collect certain information automatically from and about your device. This includes data about your software, the operating system you use when accessing our service, your Internet Protocol address and the date and time of each request you make to Backblaze. When you use our backup services, we will also receive information such as the names of external drives, file types transferred, and number and size of files transferred. 
 
-#### Changes to This Policy
+Collecting this information enables us to better diagnose problems with our products, provide customer support more effectively, inform you about operating systems we no longer support as well as ensure the continuous functionality of our products. 
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at <http://www.backblaze.com/privacy>. If we make changes that we believe will substantially alter your rights, we will notify you.
+We may collect additional information about you from third parties primarily to assist us in understanding how we can maintain and improve the services we offer to better serve you. Third party tools that we use for this are from: Optimizely, which records a user's clicks and enables Backblaze to test different versions of its website; HotJar, which is used to record where people move their mouse on key web pages; and Google Analytics which informs Backblaze about page visits which in turn allows Backblaze to decide if it needs to update certain pages. SurveyMonkey, which Backblaze uses to distribute surveys, which users can voluntarily complete, will collect a user's IP address. 
 
-#### Contact
+Under no circumstances do we rent, trade or share your address or e-mail address with any other company for their marketing purposes without your consent. We may use the information we collect through our products for a number of reasons, including to: 
 
-We would love to hear from you. Backblaze welcomes questions, concerns, and feedback about this policy. If you have suggestions for us, let us know at privacy@backblaze.com.
+  * provide, operate, optimize and maintain our online platforms, products and services;
+  * understand how you use our products and customize your experience;
+  * set up online accounts;
+  * process, fulfill and provide any updates on online orders;
+  * send you marketing communications we think you'll find valuable, where it is in accordance with your preferences; 
+  * provide customer support via online chat services; deal with your online enquiries and requests sent by email; and provide you with information and access to resources or services that you have requested from us; 
+  * improve the layout, navigation and content of our online products;
+  * identify any server problems or other IT or network issues;
+  * prevent abuse of the products and services we offer; and
+  * carry out other legitimate business purposes, such as to improve our products and services, as well as other lawful purposes about which we will notify our users and clients. 
+
+
+
+From time to time, Backblaze will communicate with you via email. There are two types of email you may receive: 
+
+  1. Service Emails: These are service related emails such as confirmation of password change, expiration of credit card, or a reply to a support issue. You cannot opt out of receiving these messages as they are part of the service which Backblaze provides to you. You can manage certain Service Emails by signing in to your Account. To stop receiving all Service Emails, you must cancel the service and uninstall the Backblaze software from your devices. 
+  2. Marketing Emails: These will include Backblaze company news, tips-and-tricks, service promotions (e.g., refer-a-friend) and similar types of material. Upon creating a Backblaze Account you will be able to manage your email preferences, including opting out of receiving all Marketing Emails. You will also be able to unsubscribe at any time by using the unsubscribe link provided in any given email. 
+
+
+
+We will only process personal information in ways that are compatible with the purpose we collected it for or for the purposes you later authorise. Before we use your personal information for a purpose that is materially different than the purpose we collected it for or that you later authorised, we will provide you with the opportunity to opt-out. 
+
+We may share and disclose your personally identifiable information only in the limited circumstances described below: 
+
+  * To vendors and other third party service providers who require access to your personal information to assist in providing and improving our products. The third parties that access and use your information only on our behalf include companies such as Stripe, Salesforce, Google Analytics, Freshbooks, Facebook, Twitter, Hubspot, MailChimp, Plivo, Slack, SurveyMonkey, SendGrid, Twillio, and ZenDesk. For example, we partner with Stripe and Freshbooks to assist us in processing your payment; Hubspot enables us to send you marketing emails, subject to your preferences; SendGrid is used to communicate service emails to you; Twillio and Plivo are used to send SMS messages to you when you use our 2-factor authentication feature; and Zendesk is used to facilitate our customer support and online Chat service. 
+  * We may also disclose your information to third parties: (a) where required by law or regulatory requirement, court order or other judicial authorization, (b) in response to lawful requests by public authorities, including for the purposes of meeting national security and law enforcement requirements; (c) in connection with the sale, transfer, merger, bankruptcy, restructuring or other reorganization of a business; (d) to protect or defend our rights, interests or property, or that of third parties; (e) to investigate any wrongdoing in connection with our products and services; and (f) to protect the vital interests of an individual. 
+  * To any other person with your consent.
+  * If you use our services as part of a business, group, or organization where Backblaze was set up by an administrator, the administrator may be able to access and control your account. Refer to your organization's internal policies for more information. 
+  * B2 Cloud Storage users can give third parties the ability to access information and content in their account (e.g., through APIs). When other services access and use your information, their conduct is governed by their own terms and policies. 
+  * The settings for B2 Cloud Storage also give you the option to make information and content available to other people. 
+  * We may disclose aggregate, non-identifying information about how our users use Backblaze products.
+
+
+
+If you are a visitor/customer located in the European Economic Area ("EEA"), our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. We will normally collect personal information from you only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate business interests. In some cases, we may also have a legal obligation to collect personal information from you. 
+
+If we ask you to provide personal information to comply with a legal requirement or to enter into a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information). Similarly, if we collect and use your personal information in reliance on our legitimate business interests, we will make clear to you at the relevant time what those legitimate business interests are. 
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the 'How to contact us' heading below. 
+
+Like all e-commerce websites we use cookies and similar tracking technology (collectively "Cookies") to collect and use personal information about you. For further information about the types of Cookies we and our partners' use, why and how you can control Cookies, please see our [Cookie Statement](https://www.backblaze.com/company/cookies.html). 
+
+Your personal information is stored and processed by us in the U.S. Specifically, your personal and non-personal information will be transferred to Backblaze for storage and processing in the U.S. 
+
+You can direct any questions or complaints about the use or disclosure of your personal information to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d0a0a2b9a6b1b3a990b2b1b3bbb2bcb1aab5feb3bfbd). We will investigate and resolve any complaints or disputes regarding the use of personal information within forty-five (45) days of receiving your complaint. 
+
+The security of your personal information is very important to us. 
+
+When you enter personal information such as a credit card number on our website or via our App we encrypt that information using secure socket layer technology (SSL). For purchases made online with credit cards, we receive your credit card number in encrypted form, and transfer it to our credit card processor, Stripe, for processing. Our employees do not have access to this information. We do not store PIN data or 3-digit security codes. 
+
+We use appropriate technical and organizational security measures to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration and destruction, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore we cannot guarantee its absolute security. 
+
+You have the following rights: 
+
+  * If you wish to **access** your personal information that Backblaze collects, you can do so at any time by contacting us using the contact details provided under 'How to contact us' heading below. 
+  * You can **correct, update or request deletion** of your details in your Account by logging in to your Account. You can also contact us using the contact details provided under 'How to contact us' heading below in order to request that your data is deleted. 
+  * If you are a resident of the EEA, you can **object to processing** of your personal information, ask us to **restrict processing** of your personal information or **request portability** of your personal information where it is technically possible. Again, you can exercise these rights by contacting us using the contact details below. 
+  * Similarly, if we have collected and processed your personal information with your consent, then you can **withdraw your consent** at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent. 
+  * You have the **right to complain to a data protection authority** about our collection and use of your personal information. Contact details for data protection authorities in the EEA, Switzerland and certain non-European countries (including the U.S. and Canada) are available [here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).) 
+
+
+
+You have the right to **opt-out of marketing communications** we send you at any time. You can exercise this right by clicking on the “unsubscribe” link in the marketing e-mails we send you. Alternatively, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#87f7f5eef1e6e4fec7e5e6e4ece5ebe6fde2a9e4e8ea). Please include your complete name and e-mail address. Note that it may take up to 3 business days to remove you from our marketing lists and after this point you will still receive Service Emails from us. 
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. 
+
+Our Website contains links to third party websites and third party plug-ins (such as social media sharing buttons) operated by other companies. We are not responsible for the privacy practices of such other websites. We encourage you to be aware that when you leave our site you read the privacy notices of such other websites. This Privacy Notice applies solely to information collected by Backblaze's products. 
+
+We will retain your personal information for the period necessary to fulfil the purposes outlined in this Privacy Notice unless a longer retention period is required or permitted by law, for legal, tax or regulatory reasons, or other lawful purposes. 
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. 
+
+Changes to this Privacy Notice will be made when required in response to changing legal, technical or business developments. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws. 
+
+You can see when this Privacy Notice was last updated by checking the “last updated” date displayed at the top of this Privacy Notice. The new Privacy Notice will apply to all current and past users of the website and will replace any prior notices that are inconsistent with it. 
+
+If you have any questions or concerns regarding the use or disclosure of your personal information, you can contact us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a3d3d1cad5c2c0dae3c1c2c0c8c1cfc2d9c68dc0ccce) or by contacting us at: 
+
+500 Ben Franklin Ct,   
+San Mateo, CA 94401, U.S.   
++1 650-352-3738 
+
+Please note that for the purposes of EU data protection legislation, Backblaze is the controller of your personal information. 
