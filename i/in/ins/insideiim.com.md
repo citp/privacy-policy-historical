@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insideiim.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207072128id_/https%3A//insideiim.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideiim.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624151800id_/https%3A//insideiim.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - InsideIIM.com
+# Privacy Policy ⋆ InsideIIM.com
 
 We at KiRa9 Edumedia Pvt. Ltd. (hereinafter referred to as KiRa9), are committed to protecting the privacy of our users, and strive to provide a safe, secure user experience. With respect to this Privacy Policy, the terms “User/s” shall be taken to mean any person accessing the KiRa9 Website/s, including but not limited to Readers, Students, Contributors, Authors, Job Seekers, Recruiters, Advertisers, etc.
 
