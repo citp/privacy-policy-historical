@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efurb.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222032259id_/http%3A//www.efurb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efurb.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624202227id_/http%3A//www.efurb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -54,7 +54,7 @@ We use the personal information outlined in this policy, for the following purpo
 
 ## _Newsletters_
 
-We only send newsletters to registered users and all newsletters we send contain an “unsubscribe” link.
+We only send newsletters to registered users and all newsletters we send contain an "unsubscribe" link.
 
 ## _Sharing collected Information_
 
@@ -83,7 +83,7 @@ You can manually disable cookies at any time – check your browser’s ‘Help�
 
 Subject to the Terms, you may change your basic user information, such as your username, password, e-mail address, shipping address and billing info, at any time, by accessing the Settings tab on the Website.
 
-You may unsubscribe to our newsletter or our marketing e-mails by clicking the “unsubscribe” link that appears on the bottom of every such mail.
+You may unsubscribe to our newsletter or our marketing e-mails by clicking the "unsubscribe" link that appears on the bottom of every such mail.
 
 You may ask to review the personal information about you that is stored in our systems, or have us update, correct or delete it, subject to applicable law. If you wish to exercise this right, simply contact us via email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
