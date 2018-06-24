@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walmartcontacts.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002250id_/http%3A//corporate.walmart.com/privacy-security/walmart-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmartcontacts.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624161823id_/https%3A//www.walmartcontacts.com/privacy) for the most accurate reproduction.*
 
 # Walmart Privacy Policy
 
@@ -7,7 +7,7 @@ We recently updated our Privacy Policy.
 **Does the updated Privacy Policy apply to me?**  
 If you register for your Walmart.com account or make a purchase from Walmart.com on or after 11pm PST November 28, 2017, you will, upon registration or at the time of purchase, agree to our new Privacy Policy below.
 
-If you registered for your Walmart.com account or made a purchase from walmart.com before November 28, 2017, our [previous Privacy Policy](https://corporate.walmart.com/privacy-security/walmart-privacy-policy) will apply to you until you make a new purchase from Walmart.com.
+If you registered for your Walmart.com account or made a purchase from walmart.com before November 28, 2017, our [previous Privacy Policy](https://corporate.walmart.com/article/walmart-privacy-policy) will apply to you until you make a new purchase from Walmart.com.
 
 If you have not registered for a Walmart.com account and only shop with us in store, this policy will apply to any transactions in store on or after 11pm PST November 28, 2017.
 
@@ -19,10 +19,7 @@ __More
 **What changed in the Privacy Policy?**  
 Updates to our Privacy Policy include:
 
-  * We clarified how cookies and similar technologies are used on our site
-  * We updated our terms related to automated phone calls and text messages
-  * We updated our terms related to sharing of information between 
-  * Walmart and our co-branded partners
+  * We updated our terms related to sharing of information between Walmart and our co-branded partners
 
 
 
@@ -66,7 +63,7 @@ __More
 
 For example, when you place an item on layaway or place an order online, we collect personal information, such as name, address, phone number, and credit or debit card information.  
 
-We have additional, specific privacy notices related to some of our specialized operations. For example, our Health & Wellness operations (pharmacy and vision center) have a specific Notice of Privacy Practices for their personal information practices. Our specialized notices can be found [here](http://corporate.walmart.com/privacy-security/notices/ "Link: /privacy-security/notices/").  
+We have additional, [specific privacy notices](https://corporate.walmart.com/privacy-security/notices/) related to some of our specialized operations. For example, our Health & Wellness operations (pharmacy and vision center) have a specific [Notice of Privacy Practices](https://corporate.walmart.com/privacy-security/notices/) for their personal information practices. Our specialized notices can be found [here](http://corporate.walmart.com/privacy-security/notices/ "Link: /privacy-security/notices/").  
 
 
 ## What is Our pledge of Accountability?
@@ -206,7 +203,7 @@ Please note that these standards may not apply to communications regarding our H
 
 Additionally, these standards may not apply to Walmart-branded credit card offerings because these are provided through associated financial institutions. However, you can choose to stop receiving certain prescreened offers of credit that originate from participating nationwide credit reporting agencies, including our prescreened offers, by calling the official Consumer Credit Reporting Industry organization at 1-888-567-8688 or by going to [www.optoutprescreen.com](https://www.optoutprescreen.com/?rf=t "Link: https://www.optoutprescreen.com/?rf=t").  
 
-You can provide us with your marketing preferences by visiting our [Communication Preferences & Alerts page](http://www.walmart.com/privacypreferences?adid=1500000000000006858130 "Link: http://www.walmart.com/privacypreferences?adid=1500000000000006858130"). The Communication Preferences & Alerts page allows you at any time to update or change your preferences about receiving marketing materials.  Or you may contact the Privacy Office as described in the “[Contact Us](http://corporate.walmart.com/policies/walmart-privacy-policy#00000150-292e-d285-add2-fffefd0a0000)” section below.
+You can provide us with your marketing preferences by visiting our [Communication Preferences & Alerts page](https://corporate.walmart.com/privacy-security/communication-preferences-alerts). The Communication Preferences & Alerts page allows you at any time to update or change your preferences about receiving marketing materials.  Or you may contact the Privacy Office as described in the “[Contact Us](http://corporate.walmart.com/policies/walmart-privacy-policy#00000150-292e-d285-add2-fffefd0a0000)” section below.
 
 If you [contact us](http://corporate.walmart.com/policies/walmart-privacy-policy#00000150-292e-d285-add2-fffefd0a0000) by email or mail, please be sure to include your full name, the types of communications you would like to receive or not receive, and your related contact information. For instance, if you would like to opt-out of mail, include your mailing address. Please allow sufficient time for your marketing preferences to be processed. It may take up to ten days to process your requests related to email and up to 30 days to process your requests related to telephone calls, text messages, and sharing information with your consent. Please note that postal mailings are often prepared many weeks in advance, and you may continue to receive mail for six to ten weeks.  
 
@@ -271,7 +268,7 @@ We recognize the importance of protecting children's online privacy. In order to
 
 ## What Are Your Privacy Protections for Specific Types of Personal Information?
 
-In addition to this Policy, we have specific privacy notices for some of our specialized operations, including a specific Notice of Privacy Practices for our Health & Wellness operations and a description of privacy protections for financial products and services available in our stores.
+In addition to this Policy, we have [specific privacy notices](https://corporate.walmart.com/privacy-security/notices/) for some of our specialized operations, including a specific [Notice of Privacy Practices](https://corporate.walmart.com/privacy-security/notices/) for our Health & Wellness operations and a description of [privacy protections for financial products and services](https://corporate.walmart.com/privacy-security/notices/#0000014f-f1ff-ddf0-a36f-f5ffc0830000) available in our stores.
 
 __More
 
@@ -318,9 +315,4 @@ Bentonville, AR 72716-0160
 
 ## How Will I Know if this Policy Changes?
 
-We will provide additional notice of significant updates.  We will post the date our Policy was last updated at the top of the Privacy Policy. 
-
-__More
-
-Please check our Privacy Policy periodically for changes.  
-
+Please check our Privacy Policy periodically for changes. We will provide additional notice of significant updates. We will post the date our Policy was last updated at the top of the Privacy Policy.
