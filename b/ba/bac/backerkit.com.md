@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backerkit.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830061010id_/https%3A//www.backerkit.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backerkit.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624105524id_/https%3A//www.backerkit.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - BackerKit
+# Privacy Policy | BackerKit
 
 * * *
 
@@ -26,13 +26,90 @@ BackerKit may collect and use Users personal information for the following purpo
 
 
 
+**Which personal identifying information we collect**  
+BackerKit collects personal identifying data in several ways: 
+
+  * _**Backer Data collected when a project syncs via importing backers may include**_  
+\- Email address   
+\- Address Country   
+\- Name   
+\- Original platorm ID   
+\- Original platform survey answers   
+
+  * _**Backer Data inputted by a Backer may include**_  
+\- Answers to survey questions   
+\- Email address   
+\- Full address information (including phone number for shipping purposes)   
+
+  * _**Data collected via subprocessing tools**_  
+\- IP address  
+\- Device/browser/session information  
+\- URL parameters  
+
+
+
+
+**Sub-processors**  
+BackerKit uses several sub-processor to help improve the product. Including tools to help illuminate parts of the website that are are confusing or underused, allowing our product team to improve the customer experience. These tools also help surface errors and allow BackerKit to gain insights into how are users are using the app. These tools also help our Customer Success and Backer Support teams provide support and guidance to creators and backers. Our sub-processors have access to a restricted set of information in order to render the service provided. 
+
+_**List of sub-processor:**_  
+
+
+  * **Application Hosting:**
+    * Amazon Web Services
+    * Heroku 
+      * as Database Provider
+      * as Web Host
+      * as Worker Host
+  * **via Heroku Plugins:**
+    * Librato - Development (logging)
+    * Papertrail - Liatorp (logging)
+    * Redis Cloud
+    * Heroku Scheduler
+  * **Operations:**
+    * HoneyBadger
+    * New Relic
+  * **Analytics and referral tracking:**
+    * Facebook
+    * Google Analytics
+    * Perfect Audience
+  * **Product Research and development:**
+    * LogRocket
+    * Optimizely
+  * **Messaging:**
+    * Mailchimp
+    * Mailgun
+  * **Payments:**
+    * PayPal
+    * Stripe
+  * **CRM:**
+    * Salesforce
+  * **Shipping:**
+    * Address Validation 
+      * SmartyStreets
+      * EasyPost
+  * **Support Dashboards:**
+    * Helpscout
+    * Front
+  * **Sharing:**
+    * Twitter
+    * Facebook
+
+
+
 **How we protect your information**  
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. In the event of data breach that is likely to result in a high risk to the rights and freedoms of individuals, we will notify all parties involved as well as any supervisory authorities within a reasonable timeframe. We have procedures in place to effectively detect, report and investigate these personal data breaches. 
 
 Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. 
 
 **Sharing your personal information**  
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. 
+
+**Expiration of personal information**  
+BackerKit does not automatically expire any data that we store as a processor since personal data may be useful to users for long time periods. We have various expiration times for data on our sub-processors once the data there is no longer needed. 
+
+**How we handle requests for data access, rectification, erasure, and data portability**  
+As a Data controller, project creators can handle all of these by changing or exporting data on a backer profile page. We have also provided a tool to pseudonymise backer data for erasure requests on a backer profile page. For any other requests, [contact us](https://web.archive.org/contact)
 
 **Third party websites**  
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. 
@@ -49,6 +126,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Questions?**  
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/contact). 
 
-Updated: February 2013 
+Updated: May 2018 
 
 * * *
