@@ -1,169 +1,155 @@
-> *The following text is extracted and transformed from the happn.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513200801id_/https%3A//www.happn.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happn.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624041139id_/https%3A//www.happn.com/en/privacy) for the most accurate reproduction.*
 
-# happn
+# Privacy policy
 
-## Article 1: Personal Data Protection
+Updated on: 05/25/2018
 
-Data are collected by:
+### **1\. Processing manager**
 
-SAS HAPPN with a capital of 35 611.81€ registered under the number 535 217 723 at the Paris RCS.
+The data collected is processed by SAS HAPPN with a capital of 36 486,44€ registered under the number 535 217 723 at the Paris RCS. Its headquarters are located at 8 rue du Sentier 75002 Paris, France, and the company is represented by its CEO, Mr. Didier Rappaport. 
 
-The headquarters are located 8 rue du Sentier 75002 Paris and the company is represented by its CEO Didier Rappaport.
+HAPPN is very concerned with the protection of your personal data and the respect of your privacy. This privacy policy (along with our document on the use of cookies and our terms of service and any other document that references it) is meant to inform you on the way we process the personal data you share with us and that we collect when you use the Application and Services. We invite you to carefully read this document to better understand how we process your personal data, and to know your rights. 
 
-Only some of the support team employees and authorized managers can process the data for the purpose described at article 1.2. These employees and authorized managers only have access to the data necessary to the performance of their duty.
+This Privacy Policy is applicable to all Services created by HAPPN that you use (with the exception of services supplied and operated by third parties, in which case, their privacy policy applies). 
 
-HAPPN can also contract with authenticated and reliable subcontractors that can access, host and/or process some of the personal data on the behalf of HAPPN and according to its instructions with respect to the Privacy Policy, and must guaranty the security and confidentiality of Member’s personal data.
+### **2\. The information we collect**
 
-These subcontractors allow HAPPN among other things to establish statistics on the volume of traffic and/or the use of the app and/or ensure the smooth operation of the service.
+Your use of our Services makes it likely that we collect and process data necessary to the proper functioning of the Application and to the supply of the Services. It can be information you share with us directly, or data we collect automatically. 
 
-The Member’s personal data identified as “available to the public” at article 1.3 which are visible on his/her profile are only available to the Members he crossed paths with and who fits his/her criteria.
+**2.1 Data you share directly  **
 
-### 1.2 Purpose of the process of personal data by HAPPN
+When you use our Services, you are required to share some information, some of which may serve to identify you. When you communicate this information, you accept that some of it will be visible to the other Members of the Application, and therefore be made public on the Application. In an effort to help you identify this information easily, it is signaled as “public” below. HAPPN cannot be held liable for data published on its platform and disclosed by a Member. However, the information not marked as Public will not be visible or accessible by other Members. 
 
-The data collected by HAPPN are necessary to the smooth operation and improvement of the service proposed by the App to the Members.
+The information you share contains the following data: 
 
-These data can also allow HAPPN to realize statistical studies and marketing analysis relating to the use of the App and its services by the Members. It allows HAPPN to send promotional messages from advertisers and other partners via the Application. However, HAPPN never transfers any personal data of its Members to such advertisers and partners. It allows HAPPN to send promotional messages from advertisers and other partners via the Application. However, HAPPN never transfers any personal data of its Members to such advertisers and partners.
+**Registration data:** this is the basic data that is necessary for you to register and access our Services. This data is collected by HAPPN from Facebook, via Facebook Connect, to simplify the process. When you click on “Facebook Connect”, you let Facebook share this data with us. This identity data is: 
 
-HAPPN can access, store and share the Member’s personal data with authorized third parties in order to answer to a legal demand or to conform itself to legal obligations, to detect or prevent fraudulent activities or security attempt to the services, in application of the legislation.
+  * Your photo (public): this is, at least, your public Facebook profile picture. You then have the option of removing this photo and/or adding other photos to your Account from your Facebook account or smartphone.
+  * Your birthdate (private): only your age, as deducted from the birthday, will be visible to other members. You can also hide your age by subscribing to an option. 
+  * Your gender (public)  
+  * Your first name (public)
+  * Your last name (private)
 
-### 1.3 Fair Collection of Personal Data Type of data collected
 
-**Identity data** : The registration form must be completed in order to access the Services, and HAPPN collects the data from Facebook, via Facebook Connect, to simplify the process. Members are required to provide some personal data when registering:
 
-   • Photos: the Member must at least provide their public Facebook profile picture. The Member then has the option of removing this photo and/or adding other photos to his/her Account from his/her Facebook account or smartphone.
+Sharing this information is mandatory. If you do not share it, happn will not be able to supply the Services offered in the Application and you will not be able to create an account. 
 
-For the sake of transparency, the published photos must represent the member and shouldn’t mislead the other Members on his identity and/ or physical appearance.
+You may add additional information to improve your Profile. This information is optional, shared at your own discretion, and is your sole responsibility. You can add this information directly to your Profile on the Application and/or via Facebook Connect by synching your Account with Facebook. This data is: 
 
-These photos cannot represent neither a famous person nor include the photo of a minor, neither represent a racist, chocking, illegal, sexual message nor contained personal information.
+  * Information on your career (public) like your job or education. 
+  * Your interests (public) like your personal preferences, hobbies, Facebook friends list allowing you to see possible friends in common on the Application. 
+  * Your e-mail address (private). The Member commits to making sure the address collected from Facebook Connect is valid and/or to modify it to ease communications with HAPPN.
+  * Your mobile phone number (private)
+  * Your profile description (public): If you would like to, you can share additional information about you in the space provided for this purpose. This information will be visible to HAPPN Members. HAPPN does not encourage Members to share data that can be perceived as sensitive with other Member, or with HAPPN through the Application. Sensitive data refers to data that is legally qualified as “sensitive” by the General Data Protection Regulation (GDPR). More specifically, it includes information on race or ethnicity, political opinions, religious or philosophical beliefs or affiliation with a union, along with information on health, sexual life or sexual preferences (“Sensitive Data”). If a Member decides to share such information on his/her profile regardless, it is deemed to have been “clearly made public” by the Member who shared it, according to the GDPR. 
 
-The photos are published in the App under the sole responsibility of the Member.
 
-By becoming a Member, the latter accepts the publication of his photos on the App.
 
-   • His/her date of birth (only the age calculated based on the date of birth is visible on HAPPN via Facebook)
+**Data on your interactions with HAPPN** : we may ask you to share, or you may be in a situation where you need to give us information, for example when you contact our customer or support services, report an issue with our services, ask for help, exercise your personal data rights, or participate in a promo, game, contest, raffle, or survey, when you share your experience with our services, give testimonies, or answer one of our questionnaires. 
 
-   • His/her sex (publicly visible on HAPPN)
+**2.2  ** **Data we collect automatically**
 
-   • His/her first name (publicly visible on HAPPN)
+When you use our services and features, we collect information regarding your activity on the Application: 
 
-   • His/her interests (publicly visible on HAPPN)
+**Activity data** : when you access our Services and use the Application and its features, data on the way you use them may be collected and processed. More specifically, this includes your registration date, last connection, the type and number of interactions with other Members (like the “Hi”, Likes, crossings, and Crushes), with the third-party accounts connected to your Account (like Spotify, Instagram), or the number of transactions performed (purchasing credits or subscription(s)). 
 
-   • His/her surname (not visible to the public on HAPPN)
+**Location Data (geolocation):** the Application’s main value and purpose is to allow Members to find other Members they have crossed paths with to facilitate virtual and/or real life meet ups. You will be asked to authorize the collection and processing of your location data to allow HAPPN to identify your crossing points with other Members who agreed to be geolocated. The crossing points let HAPPN show you profiles of Members you have crossed paths with and who meet your search criteria. These crossing points can be displayed as a newsfeed or as a map. 
 
-   • His/her e-mail address (not visible to the public on HAPPN) . The Member guaranty that he will check the validity of his e-mail address and/or modify it in order to facilitate the communication with HAPPN.
+HAPPN can, if you deliberately agree, access your position, approximatively or more precisely depending on the technology you use. HAPPN does not recreate the movements and/or itineraries of its Members, and would like to remind you that it only keeps crossing locations between Members. The exact position or the itinerary of a Member is never available to the other Members.
 
-The other personal data the Member can add to his/her profile are not mandatory and can by communicated at his/her sole discretion (directly or by Facebook Connect) and under his/her sole responsibility.
+You are free to withdraw your consent at any time and disable your smartphone’s geolocation option. If you choose to do so, your newsfeed will no longer be updated, and your will not be able see who you have crossed paths with after disabling the geolocation option. 
 
-A Member can authorize the access to his/her Facebook list of friends in order to see during his visit of another profile on the App the list of shared friends.
+**Transaction Data:** HAPPN does not collect or process any bank data. Apple’s App Store, Google’s Play Store and Microsoft’s Windows Phone Store have opted to refrain from sending certain types data to mobile applications, which includes any banking and financial information. This data is collected and processed solely by the above platforms, and HAPPN does not have the option of changing this payment method. The only information exchanged between HAPPN and Apple’s App Store, Google’s Play Store, or Microsoft’s Windows Phone Store is technical data that doesn’t allow us to identify you (for example, a transaction number), which serves to confirm transactions. 
 
-The Member may also provide happn with his mobile phone number in order to receive SMS alerts. In all cases, the Member's e-mail address, surname and phone number shall not be visible or available to the public.
+**Data on the use of the messaging service:** sent messages are stored on HAPPN’s servers exclusively, to provide the Service to allow Members having a Crush to have a conversation. Messages and voice notes are strictly private and only implicate the Members involved. HAPPN’s authorized managers do not hold or exercise any rights to view these conversations, except in cases of judicial request, and/or in compliance with legislative or administrative dispositions. Additionally, Messages are strictly private and are not accessible to other Members not involved in the conversation, nor to any third party. 
 
-**Location Data (geo-tracking)** : HAPPN has for main purpose and vocation to allow Members to find the people they’ve crossed path in order to facilitate virtual or real life meet up.
+**Search preferences data:** The Application lets you set search preferences for age and gender. You can change these settings in the Application and specify the age range and, after agreeing to HAPPN collecting and processing your data, the gender of people you are looking for, so you can be matched exclusively with profiles you crossed paths with and who meet your search criteria. You will then only see the Members you’ve crossed paths with and who share your search preferences on your newsfeed. 
 
-The Member will be asked for permission to collect and process his/her geo-tracking in order to allow HAPPN to identify the crossing points with other Members that accepted the geo-tracking.
+**Device and equipment data:** we collect information from the devices and equipment you use to access our Services, including server logs, which may contain information like IP addresses, version of the application, mobile model, mobile ID, language used, operating system, application crashes, and advertisement ID. HAPPN cannot access its Members’ browser history. Data may be collected with cookies: to learn more about this, please see our document on the Use of Cookies. 
 
-The news feed is created by these crossing points which permits to propose to the Member only profiles that he crossed path with and that fits his/her criteria.
+### **3\. How we use the data collected**
 
- HAPPN may, in case of express consent, access the Member's position, approximately or more precisely depending on which technology is being used. HAPPN does not track the movements and/or itinerary of its Members and reminds keeping only the crossing points between the Members.
+The data collected by HAPPN allows us to provide the Services and make sure the Application is running smoothly, which it is contractually obligated to do, in virtue of the contract biding us with the Members (Terms of Service). Your data is therefore processed for the following purposes: 
 
-The exact position or the itinerary of the Member is available to the other Members.
+  1. Creating and managing your Member Account (including managing access to the Services and the customer or support services);
+  2. Geolocating to suggest Profiles of Members you have crossed paths with;
+  3. Managing and storing messages exchanged between Members;
+  4. Sending information messages regarding the Services or your interactions with other Members (notifications);
+  5. Sending happn or partner newsletters along with messages or marketing or advertising content by happn or by its partners. 
 
-The Member is free to withdraw his/her consent at any time, and deactivated the geo-tracking technology on his smartphone. By doing that, the Member’s news feed is not updated anymore and the member cannot see the other Members he /she has crossed path with after the deactivation of the geo-tracking technology.
 
-**Transaction Data** : HAPPN does not collect or process any bank data. The Apple App Store, Google Play Store and the Windows Phone Store have opted to refrain from sending certain data to mobile applications, which includes any banking and financial information. Such data is collected and processed solely by the above platforms, and happn does not have the option of changing this payment method.
 
-**Communications Data exchanged** : Communication data is stored on HAPPN’s servers solely in order to provide the Service that allows conversations to take place between members having a crush.
+The data collected is also necessary to HAPPN fulfilling its legitimate interests (improving and optimizing its services, along with gaining a better knowledge of its Members and the ways in which they use the Services) and allow the company to run statistical studies, satisfaction surveys, and marketing analyses relating to the use of the Application and Services by the Members.  
 
-Messages and vocal messages are strictly private and shall only implicate the Members in question. No managers or employees hold or exercise any rights to view these conversations or the circumstances surrounding them, including those authorized to process data except in case of judicial request, legislative or administrative disposition and/ or in case of element of proof provided to HAPPN by a Member in the eventuality of a reporting.
+As the data processing relies on the consent of Members to have their data processed, they can withdraw it at any time; withdrawal of the consent does not affect processing carried out before the withdrawal. 
 
-Moreover, these strictly private Messages shall not be accessible to other Members who have not participated in such Messages, or to unconcerned Internet users or any third parties.
+HAPPN may process Members’ personal data in response to a legal request (search warrant, court order, or the like) or to comply with its legal, regulatory, judicial, or administrative obligations. 
 
-**Research preference Data** : By default the app is set on the research of the opposite gender (man>woman- woman>man) and on the research of person that are 18 to 70+ years old.
+Lastly, HAPPN can process your personal data to uncover or prevent fraudulent activities or breaches to the Service’s safety, in compliance with the law, or analyze reports of Members displaying a behavior breaching the Terms of Service. 
 
-The Member should modify and fill in the age range and gender of the people they are looking for in order to see only the profiles they have crossed paths with that fit their criteria. HAPPN collects this data and undertakes to comply with Article 8 of the French Data Protection Act (loi Informatique et Libertés) of 6 January 1978.
+### **4\. How data is shared**
 
-**Mobile Data** : When the Member uses the Application, HAPPN collects server logs which may include information such as IP addresses, operating systems or application crashes. HAPPN cannot access its Members' browsing history.
+Only certain HAPPN employees from the customer or support services, and authorized managers process Members’ personal data for the purposes described above. These employees and authorized managers only have access to the data necessary to perform their duties. 
 
-### 1.4 Complementary information concerning the data collected
+HAPPN may also enter into agreements with authenticated and reliable service providers and partners, who may access and/or process Members’ personal data, in compliance with the Privacy Policy, and while ensuring the safety and privacy of the Members’ personal data. These service providers and partners help us run and improve our Services, especially with regards to data hosting, surveys, analyses and statistics, the use and/or proper functioning of the Application, and providing the necessary assistance to Members, marketing and advertisement to send offers, messages, and relevant content to HAPPN Members. 
 
-HAPPN ensures that the personal data the Member has published on the Application is strictly invisible to non-registered internet users and third parties. HAPPN cannot be held liable for data published on its platform and disclosed by a Member.
+A Member’s personal data marked as “public” in article 2 above and that appears on his/her profile, is visible to other Members he/she crosses paths with and who have compatible search preferences. 
 
-The Member's profile will not appear on the Application to Members with whom he/she has crossed paths but who are not compatible with his/her preferences.
+HAPPN may forward some data to a public body, if it is requested to do so, to comply with any judicial or legal request. 
 
-### 1.5 Sensitive Data
+Lastly, we may be required to share your data for the purposes of a corporate operation, which include, but is not limited to, a restructuring, a change in control of the company, a merger, an acquisition, a transfer, or a termination of the company. 
 
-Certain data is legally classified as 'sensitive' pursuant to Article 8 of the French Act n° 78-17 of January 6, 1978, known as the Loi Informatique et Liberté (French Data Protection Act).
+### **5\. Overview of a Member’s rights**
 
-The Member may decide to provide sensitive data related to him/her on his/her description such as (for example and not limited to) his/her ethnic origin or political views, and thereby expressly consents to the collection of such sensitive data.
+In compliance with the French Data Protection Act of January 6th, 1978 (Loi Informatique et Libertés), and the GDPR, every Member has a right to access, rectify, and a right to data portability and removal of his/her personal data, along with a right to contest or limit processing of his/her personal data, and the right to decide on the way to handle the personal data after his/her death.  In an effort to address its Members’ concerns, HAPPN commits to respecting the protection of personal data and to process requests as soon as possible. A Member can exercise his/her rights, granted he/she can prove his/her identity, by sending a letter or e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by exercising his/her rights directly on the Application. 
 
-The Member won’t be in any case forced to give us some sensitive data and HAPPN does not encourage the disclosure of such sensitive data.  Despite that, if the Member decides to disclose such data on his/her profile, the disclosure is considered as an express consent to the collect and process of these data by HAPPN.
+For any other claim, the Member may lodge a claim with the national authority responsible for the protection of data. 
 
-### 1.6 Member Rights
+  * The right to access allows a Member to ask HAPPN for data pertaining to him/her in an accessible format, based on Article 39 of the French Data Protection Act (Loi Informatique et Libertés), and article 15 of the GDPR.
+  * The right to correct grants a Member the right to demand HAPPN corrects, adds to, updates or removes any personal data on him/her that is inaccurate, incomplete, ambiguous, out-of-date, or whose use, communication or storage is prohibited based on Article 40 of the French Data Protection Act (Loi Informatique et Libertés), and article 16 of the GDPR. You can modify or rectify your information directly on the Application. You just need to go on your profile and make changes directly in the sections “My photos”, “Career and Education (Job, Company, University)”, and “About me”. To change your first name, age, or gender, go to your Facebook page and update the “About me – contact and basic info” section of your profile. 
+  * The right to data portability grants a Member the right to receive the personal data he/she gave to HAPPN, in a structured, commonly used format, legible on a machine, and to forward them to another processing entity, in compliance with article 20 of the GDPR. 
+  * The right to contest grants a Member the right to contest, free of charge and at his/her own discretion, the use of his/her data by HAPPN for prospection, especially commercial, and to the processing based on HAPPN’s legitimate interest, in compliance with Article 38 of the French Data Protection Act (Loi Informatique et Libertés), and article 21 of the GDPR.
+  * The right to delete grants a Member the right to demand the removal, free of charge and at his/her own discretion, of the data transmitted to HAPPN, within the limits of the rights based on article 17 of the GDPR. You can delete your account using the corresponding feature on the Application.  
+  * The right for the Member to set the guidelines for the retention, deletion and communication of his/her personal data after his/her death, in compliance Article 40-1 of the French Data Protection Act (Loi Informatique et Libertés). 
 
-In accordance with Act no. 78-17 of 6 January 1978, known as the loi Informatique et Libertés (French Data Protection Act), each Member has the right to access, correct and contest his/her personal data. HAPPN is attentive to its Members' concerns, and therefore undertakes to comply with personal data protection rules and deal with requests of this kind as soon as possible. Subject to proof of identity, Members may exercise their rights by sending a letter or e-mail to the address shown in Article 17 of these TCOU.
 
-   • The right to access allows the Member to ask happn for data pertaining to him/her in an accessible format, based on Article 39 of the French Data Protection Act.
 
-   • The right to correct grants the Member the right to ask happn to correct, add to, update or delete any personal data pertaining to him/her which is inaccurate, incomplete, ambiguous, out-of-date, or whose use, communication or storage is prohibited based on Article 40 of the French Data Protection Act;
+These rights may only be exercised within the limits of HAPPN’s resources as it relates to its use of Facebook Connect. Some of the data is sent to HAPPN by Facebook Connect and cannot be corrected without Facebook's assistance. 
 
-   • The right to contest grants the Member the free-of-charge and discretionary right to contest the use of its data by happn for the purpose of commercial prospection, based on Article 38 of the French Data Protection Act.
+The Member can also rectify most of his/her personal data, at his/her own initiative, on the Application itself.
 
-   • The right to cancel grants the Member the right to ask the suppression free of charge of the data transmitted to HAPPN within the limit of the legal obligation imposed to HAPPN as a hosting provider.
+### **6\. Storage of the data**
 
-  • The right for the Member to set his or her guidelines for the retention, deletion and communication of his or her personal data after his or her death, based on Article 40-1 of the French Data Protection Act.
+HAPPN will store the Member's data for as long as required in order for the Member to use his/her Account, namely:
 
-These rights may only be exercised within the limits of HAPPN’s resources as regards its linking with Facebook Connect. Some of the data is sent to happn by Facebook Connect and cannot be corrected without Facebook's assistance.
+  * For the length of the Member’s enrollment, plus one year; 
+  * For the length of the reporting, to process a report on fraudulent behavior; 
+  * For three years when the account is suspended, in compliance with article 16.4 of the Terms of Service;
+  * For 13 months for cookies, in compliance with legal provisions (see the document on our Use of Cookies).
 
-The Member can at his/her initiative rectify most of his/her personal data on the App.
 
-### 1.7 Lack of cession of your personal data
 
-The personal data, visible or not to the other Members, are not commercialized by HAPPN to third parties.
+Furthermore, please note that in accordance with its status as a hosting provider, HAPPN has a legal obligation to retain some of its Members' personal data for a period of one year based on Article 6, II of the French Trust in the Digital Economy Act (Loi pour la Confiance dans l’Économie Numérique) of 21 June 2004.
 
-### 1.8 Storage of Personal Data
+HAPPN undertakes to make every effort and to invest all means at its disposal to guarantee that the stored data is as secure as possible. However, it is the Member's responsibility to take appropriate measures to protect his/her data. 
 
-HAPPN will store the Member's personal data for as long as required in order for the Member to use his/her Account. The Member is however informed that all of his/her personal data shall be stored for one year after his/her account is deleted so that it can be reallocated if the Member signs up again.
+HAPPN shall not collect data from minors. Should a Member lie about his/her date of birth, and particularly if he/she fraudulently claims to be over 18 years of age, the parents of the minor in question should inform HAPPN of this by sending an e-mail to the address mentioned in article 9, requesting the data to be deleted. HAPPN commits to deleting all data on the minor in question as soon as possible. 
 
-Furthermore, please note that in accordance with its status as a hosting provider, happn has a legal obligation to retain some of Members' personal data for a period of one year based on Article 6, II of the French Trust in the Digital Economy Act (Loi pour la Confiance dans l’Economie Numérique) of 21 June 2004.
+### **7\. Transfer of Personal Data outside the EU**
 
-Pursuant to the Decree of 25 February 2011 pertaining to the retention and communication of data, the retention period applied to happn is calculated from the moment the content is created for data referred to by 1° and 2° of Article 6, II of the French Trust in the Digital Economy Act, i.e.:
+When registering, the Member expressly consents to his/her data being transmitted to HAPPN’s service providers and subcontractors outside the European Union, to let HAPPN run statistical studies, support members, and if need be, host data processed by the Application. 
 
-   • The username used to log in which is at the source of the communication;
+HAPPN guarantees that the transfers are made under conditions ensuring the confidentiality and security of the data and providing an adequate level of protection in compliance with regulations (notably the examples of contractual clauses provided by the European Commission)
 
-   • The username assigned to the content by the information system;
+### **8\. Cookies  **
 
-   • The protocol types used;
+To learn more, read our document on the Use of Cookies on our website. 
 
-   • The operation type;
+### **9\. Contact  **
 
-   • The operation dates and times;
+If you have any questions regarding this privacy policy, or any other request concerning your personal data, you can contact us: 
 
-   • The username used by the originator of the operation if provided by the latter.
+  * by filling the contact form on HAPPN’s website (www.happn.com) or directly on the Application
+  * by sending an e-mail to our contact e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * by sending a letter to the following address: For the Representative for data protection - 8 rue du Sentier 75002 Paris – France.
 
-The retention period applied to happn is calculated from the moment the agreement is cancelled or the profile is deleted for the data referred to by 3° of the same Article, i.e.:
 
-   • First names and surnames
-
-   • Any aliases used
-
-   • Linked e-mail addresses or Accounts
-
-   • Phone numbers
-
-   • The password and data used to verify or amend the profile (most recent version).
-
-HAPPN undertakes to make every effort and to invest all means at its disposal in order to guarantee that the stored data is as secure as possible. It is however the Member's responsibility to take appropriate action in order to protect his/her data.
-
-HAPPN shall not collect data from minors. Should a Member lie about his/her date of birth, and particularly if he/she fraudulently claims to be over 18 years of age, the parents of the minor in question may inform happn of this by sending a letter to the address shown in Article 17 in order to request that the data be deleted. HAPPN undertakes to delete all data on the minor in question as soon as possible.
-
-### 1.9 Transfer of Personal Data outside the EU
-
-When registering, the Member expressly consents to his/her data being transmitted to subcontractors and hosted on servers by our service providers outside the European Union, for proper provision of the service, to the end of elaborating statistical studies and for the purpose of providing customer care support to Members.
-
-Happn guaranties that the transfers are made in conditions ensuring the confidentiality and security of the data and providing for an adequate level of protection with respect to the article 68 and 69 of the French “Loi informatique et Liberté” of 1978.
-
-## Article 2: CNIL Declaration
-
-### 2.1 CNIL Declaration 
-
-The Application collects information on its Members, has been the object of declarative formalities to the CNIL.
