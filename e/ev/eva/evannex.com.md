@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the evannex.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831062819id_/https%3A//evannex.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evannex.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625002258id_/https%3A//evannex.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Aftermarket Tesla Accessories, Gear, parts for Model S | EVANNEX Aftermarket Tesla Accessories
 
-The following Privacy Policy applies only to the EVannex™ web site and information provided by you or otherwise collected online by EVannex™.
+The following Privacy Policy applies only to the EVANNEX® web site and information provided by you or otherwise collected online by EVANNEX®.
 
 We are concerned about privacy
 
-Your privacy is very important to us. EVannex™ (“we” or “us”) respects and protects the privacy of its visitors.  In this document, we explain how we use the information you supply to us.  If we update our privacy policy, all revisions will be posted on this page. We reserve the right to change the privacy policy at any time. 
+Your privacy is very important to us.EVANNEX® (“we” or “us”) respects and protects the privacy of its visitors.  In this document, we explain how we use the information you supply to us.  If we update our privacy policy, all revisions will be posted on this page. We reserve the right to change the privacy policy at any time.
 
 Information collection and use
 
@@ -16,7 +16,7 @@ Personally identifiable information
 
 Personally identifiable information may include information that you provide to us by requesting information, when registering for special offers or programs or when you purchase products online.  This may include your name, address (including billing and shipping addresses), telephone number, e-mail address, organization, city, state and zip code.  We may use this information to process and ship orders, to contact you about the status of your order, to contact you with answers to your questions, or to provide information about new and exciting products, services, promotions and corporate-related information.  We may use mailings, telephone calls and e-mail to contact you. 
 
-You also may create an account through EVannex™ at any time by providing your email address and creating a unique password.  An account is not required to visit our site or to place an order through teslaccessories.com.  Creating an account allows you to save order information, order history, track the status of your orders and set your ordering preferences.  For your privacy and security, we do not store credit card numbers in your account. You may change saved account information at any time. 
+You also may create an account through EVANNEX® at any time by providing your email address and creating a unique password.  An account is not required to visit our site or to place an order through teslaccessories.com.  Creating an account allows you to save order information, order history, track the status of your orders and set your ordering preferences.  For your privacy and security, we do not store credit card numbers in your account. You may change saved account information at any time. 
 
 When purchasing products from us online, additional personally identifiable information, such as credit card information, will be collected.  This information is collected in order to process your order. 
 
@@ -36,7 +36,7 @@ An IP address is a number that is assigned to your computer when you are using t
 
 Information sharing and disclosure
 
-Agents, employees and contractors of EVannex™ who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy and the high standards of our company.
+Agents, employees and contractors of EVANNEX® who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy and the high standards of our company.
 
 Information about you specifically will not be used for any purpose other than to carry out the services you requested from us. 
 
