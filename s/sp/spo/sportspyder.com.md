@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportspyder.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218135255id_/http%3A//sportspyder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportspyder.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624031858id_/http%3A//sportspyder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | SportSpyder
 
@@ -15,6 +15,8 @@
 **IP address** : This site uses your IP address to help administer our site and identify any problems that may occur. Your IP address is also used to gather broad demographic information, specifically to understand what browsers visitors to this site use, and from what regions of the planet they access our site. 
 
 **Cookies** : Cookies are bits of information that are stored on your computer to help us remember you when you come back to SportSpyder. We use cookies to display preferences when you access the site as well as allowing you to login and customize your experience on SportSpyder. 
+
+We use third-party advertising companies to serve the ads displayed on our website. These companies may use aggregated information (not including your name, address, email or phone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see <http://networkadvertising.org/managing/opt_out.asp>. 
 
 ##  Can I change my privacy preferences? 
 
