@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newburycomics.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007041914id_/https%3A//www.newburycomics.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newburycomics.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624192427id_/https%3A//www.newburycomics.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Newbury Comics
 
@@ -42,7 +42,7 @@ All direct payment gateways adhere to the standards set by PCI-DSS as managed by
 
 PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
+For more insight, you may also want to read [Shopify’s Terms of Service](https://www.shopify.com/legal/terms) or [Shopify's Privacy Statement](https://www.shopify.com/legal/privacy).
 
 **SECTION 5 - THIRD-PARTY SERVICES**
 
@@ -72,7 +72,11 @@ If you provide us with your credit card information, the information is encrypte
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-**SECTION 8 - CHANGES TO THIS PRIVACY POLICY**
+**SECTION 8 - CONTROL OVER AND ACCESS TO YOUR PERSONAL INFORMATION**
+
+Newbury Comics understands you have rights over your personal information, and takes reasonable steps to allow you to access, correct, amend, delete, port, or limit the use of your personal information. If you wish to exercise these rights, please contact us at customerservice@newburycomics.com.
+
+**SECTION 9 - CHANGES TO THIS PRIVACY POLICY**
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
