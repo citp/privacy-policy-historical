@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904062740id_/https%3A//www.gottman.com/privacy-and-hipaa-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624055812id_/https%3A//www.gottman.com/privacy-and-hipaa-policy) for the most accurate reproduction.*
 
-# Privacy & HIPAA Policy - The Gottman Institute
+# Privacy and HIPAA Policy - The Gottman Institute
 
 ### The Gottman Institute Privacy Policy
 
@@ -26,9 +26,9 @@ The Gottman Institute does not disclose the identities of visitors or users of t
 
 If you want to delete or modify your Personal Information or Automated Information from The Gottman Institute’s records, you may do so by:
 
-  * Email: [products@gottman.com](mailto:products@gottman.com)
-  * Mail: The Gottman Institute, Inc. , 1401 E. Jefferson St., Suite 501, Seattle, WA 98122
-  * Phone: toll-free at (888) 523-9042 or (206) 523-9042 within Washington state. Fax number is (206) 523-7306.
+  * Email: [customerservice@gottman.com](mailto:customerservice@gottman.com)
+  * Mail: The Gottman Institute, 2101 4th Avenue Suite 1750, Seattle, WA 98121
+  * Phone: toll-free at (888) 523-9042 or (206) 523-9042 within Washington state
 
 
 
@@ -42,7 +42,7 @@ If you have questions about this Privacy Policy, the Web Site Terms, or any othe
 
 Webmaster:  
 The Gottman Institute, Inc.  
-[products@gottman.com](mailto:products@gottman.com)
+[customerservice@gottman.com](mailto:customerservice@gottman.com)
 
 ### HIPAA
 
@@ -52,9 +52,9 @@ THIS NOTICE DESCRIBES HOW PSYCHOLOGICAL AND MEDICAL INFORMATION ABOUT YOU MAY BE
 
 PLEASE REVIEW THE FOLLOWING CAREFULLY.
 
-**Link to  [HIPAA Agreement](http://www.gottman.com/wp-content/uploads/HIPPA-Agreement.pdf "HIPPA AGREEMENT")**
+**Link to  [HIPAA Agreement](https://cdn.gottman.com/wp-content/uploads/HIPPA-Agreement.pdf "HIPPA AGREEMENT")**
 
-### HOW WE USE YOUR INFORMATION
+### How we use your information
 
 In order to provide you with the services just for you, we need a little personal information.
 
