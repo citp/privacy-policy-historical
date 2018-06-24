@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712032322id_/https%3A//forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624161752id_/https%3A//forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
 
 # Forestry Commission - Privacy Policy
 
@@ -9,6 +9,10 @@ This page explains how we use any information you give to us through our website
 This charter sets out what our standards are for requesting or storing your personal information.
 
 It also covers what we ask from you to help us keep your information up to date.
+
+You have rights under the General Data Protection Regulation; these are listed out in full on the Information Commissioner’s website here:
+
+<https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
 
 When we ask you for personal information, we promise to:
 
@@ -24,11 +28,11 @@ When we ask you for personal information, we promise to:
 In return, we ask you to:
 
   * give us accurate information
-  * tell us as soon as possible if there are any changes, such as a new address
+  * tell us as soon as possible if there are any changes
 
 
 
-This helps us to keep your information reliable and up to date.
+This helps us to keep your personal information reliable and up to date.
 
 You can get more details on:
 
@@ -37,28 +41,32 @@ You can get more details on:
   * circumstances where we can pass on your personal information without telling you, for example, to prevent and detect crime or to produce anonymised statistics
   * our instructions to staff on how to collect, use and delete your personal information
   * how we check the information we hold is accurate and up to date
-  * how to make a complaint
+  * how to restrict processing or exercise your right be forgotten
+  * how to make an objection to processing or a complaint
 
 
 
-Contact   
+Contact  
+Richard Barker  
 Data Protection Officer  
-Forestry Commission  
-Silvan House  
-Edinburgh EH12 7AT  
-Tel: 0300 067 5000  
-Email: [Fiona.alexander@forestry.gsi.gov.uk](mailto:Fiona.alexander@forestry.gsi.gov.uk)
+Forestry Commission England  
+620 Bristol Business Park  
+Coldharbour Lane  
+Bristol BS16 1EJ  
+Tel: 0300 067 4068  
+Email: [richard.barker@forestry.gsi.gov.uk](mailto:richard.barker@forestry.gsi.gov.uk)
 
-For independent advice about data protection, privacy and data-sharing issues, you can contact the [Information Commissioners Office](https://ico.org.uk/).
+For independent advice about data protection, privacy and data-sharing issues, you can contact the supervisory authority the [Information Commissioners Office](https://ico.org.uk/).
 
 Back to top
 
 ## The Data Protection Act
 
-The Forestry Commission is registered  as a data controller under the Data Protection Act 1998 (Registration No: Z6542658) and a description of how we use personal information is included on [our entry on the data protection register](https://ico.org.uk/ESDWebPages/Entry/Z6542658) which is maintained by the [Information Commissioner's Office](https://ico.org.uk/).
+The Forestry Commission is registered as a data controller under the Data Protection Act 1998 (Registration No: Z6542658) and a description of how we use personal information is included on [our entry on the data protection register](https://ico.org.uk/ESDWebPages/Entry/Z6542658) which is maintained by the [Information Commissioner's Office](https://ico.org.uk/).
 
-Under the Data Protection Act 1998, the Forestry Commission has a legal duty to protect any information we collect from you. We have procedures and security features in place that aim to keep your data secure once we receive it. We store your data on our secure servers in the UK.  
-We won’t share your information with any other organisations for marketing, market research or commercial purposes, and we don’t pass your details to other websites.
+Under the Data Protection Act 1998 and under the General Data Protection Regulation, the Forestry Commission has a legal duty to protect any information we collect from you. We have procedures and security features in place that aim to keep your data secure once we receive it. In most cases we store your data on secure servers in the UK or EU. If your data is transferred outside the EU we will ensure adequate safeguards are in place.  
+
+We won’t share your information with any other organisations for marketing, market research or commercial purposes, unless you have given us explicit consent to do this and we don’t pass your details to other websites.
 
 Some of our applications are provided by third parties and may have different terms and conditions and privacy/cookie policies:
 
@@ -128,4 +136,4 @@ If this privacy policy changes in any way, we will update this page. Regularly r
 
 Back to top
 
-Last updated: **7th July 2017**
+Last updated: **23rd May 2018**
