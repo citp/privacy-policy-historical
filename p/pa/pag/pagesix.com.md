@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagesix.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011201145id_/http%3A//pagesix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagesix.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624162943id_/https%3A//pagesix.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Page Six
 
@@ -153,3 +153,9 @@ NYP Holdings, Inc.
 Attention: Privacy Lead  
 1211 Avenue of the Americas  
 New York, NY 10036
+
+##  Get the new  app 
+
+Now it's even easier to keep up with the latest celebrity news and juicy gossip.
+
+[ ](https://itunes.apple.com/app/apple-store/id1265171678?pt=389691&ct=site_flyout&mt=8) [ ](https://play.google.com/store/apps/details?id=com.pagesix.android&referrer=utm_source%3Dsite_flyout&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
