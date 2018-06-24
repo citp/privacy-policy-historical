@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.com.pk privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914132038id_/https%3A//jobs.com.pk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.com.pk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625013431id_/https%3A//jobs.com.pk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ The privacy policy of Jobs.com.pk is administered by Pakistantimes.com (PT). Pak
 
   * We will never sell your personal information, or use it for any other purpose other than logging in/out, demographics for our knowledge, and any voluntary feature of the site.
   * We use cookies with minimal information in them. For Example we use cookies set to remember your preferences when you visit, i.e favorite tabs, location etc
-  * We use Google Analytics to gather visitors data and other important statistics about the use of Jobs.com.pk, which is covered by [Google’s Privacy policy](http://www.google.com/intl/en/privacy.html)
+  * We use Google Analytics to gather visitors data and other important statistics about the use of Jobs.com.pk, which is covered by [Google’s Privacy policy](https://www.google.com/intl/en/privacy.html)
 
 
 
