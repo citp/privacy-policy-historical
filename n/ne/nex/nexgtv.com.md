@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexgtv.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222133134id_/http%3A//www.nexgtv.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexgtv.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624162422id_/http%3A//www.nexgtv.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Watch Free Live TV, News, TV Shows, Sports, Movies, Cricket, Football, Videos on-demand Online | Watch Free Music & Hot Videos
 
