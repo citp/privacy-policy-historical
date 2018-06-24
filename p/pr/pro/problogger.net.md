@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the problogger.net privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226213310id_/https%3A//problogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the problogger.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625001915id_/https%3A//problogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,4 +67,4 @@ Problogger appreciates you informing us if you have reason to believe that pers
 
 #### Privacy office contact details
 
-Should you have any queries in relation to the above or require further information regarding Problogger’s collection, use and storage of your personal information please do not hesitate to contact our Privacy Officer at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Should you have any queries in relation to the above or require further information regarding Problogger’s collection, use and storage of your personal information please do not hesitate to contact our Privacy Officer at: privacy@problogger.net
