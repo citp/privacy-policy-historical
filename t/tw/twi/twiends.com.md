@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235209id_/https%3A//twiends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624120500id_/https%3A//twiends.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Twiends
+
+This Policy applies as to all products and services provided by twiends, Webcandy the owner and provider of twiends, and yourself the User of twiends. This Policy applies to our use of any and all Data collected by us in relation to your use of twiends and any Services or Systems therein. Please read the following carefully to understand our views and practices regarding your personal data and how we treat it. 
 
 1\. Definitions & interpretations
 
@@ -10,11 +12,11 @@ The following terms shall have the following meanings:
 
 “ **Content** ” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of twiends
 
-“ **Cookie** ” means a small text file placed on your computer by twiends when you visit certain parts of the Website. This allows us to identify recurring visitors and to analyse their browsing habits within twiends
+“ **Cookie** ” means a small text file placed on your computer by twiends when you visit certain parts of the Website. 
 
 “ **Data** ” means collectively all information that you submit to the Website. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems
 
-“ **Twiends** ”/“ **twiends** ” (‘We’/‘Us’/‘Webcandy’) means the Website and Webcandy Limited, Registered Office: Eversley, Hampshire, United Kingdom; Company Number 07024033
+“ **Twiends** ”/“ **twiends** ” (‘We’/‘Us’/‘Webcandy’) means the Website and Webcandy Limited, Registered Office: c/o Taxassist Accountants, 175 Wokingham Road, Reading, England, RG6 1LT; Company Number 07024033
 
 “ **Service** ”/“ **Services** ” means collectively any online facilities, tools, services or information that Webcandy makes available through twiends either now or in the future
 
@@ -22,11 +24,69 @@ The following terms shall have the following meanings:
 
 “ **User** ”/“ **Users** ” means any third party that accesses twiends and is not employed by twiends and acting in the course of their employment 
 
-“ **Website** ” means the website that you are currently using (twiends.com) and any sub-domains of this site (e.g. support.twiends.com unless expressly excluded)
+“ **Website** ” means the website that you are currently using (twiends.com) and any sub-domains of this site
 
-“ **Webcandy** ” means Webcandy Limited, the owner of twiends, the Website, and the provider of the Services.
+“ **Webcandy** ” means Webcandy Limited, the owner of twiends, the Website, and the provider of the Services
 
-2\. Protecting your privacy
+2\. Our lawful basis
+
+We rely on legitimate interests as our lawful basis for processing personal data. Different legitimate interests apply for each category of personal data that we process. These are described in the next section. We have also published the full [legitimate interests assessments](https://web.archive.org/lia) that were used to check the validity of these as a lawful basis for processing personal data. 
+
+3\. The personal data that we process
+
+We have grouped the personal data that we process into multiple categories. Each has a different level of privacy, and the processing that applies to each is different too.
+
+3a. Twitter Information
+
+This personal data refers to all the publically available information you place on twitter. This includes all your profile information, such as name, username, bio, photo, location, etc. It includes the status updates and media that you share on twitter, known as tweets. It does not include private information such as direct messages, private updates, and private profile info. 
+
+It is in the legitimate interest of all stakeholders that public twitter information be displayed on our website to help everyone create better connections on twitter. You receive more exposure for your profile, we are able to provide a directory service, and the wider public receives the benefit of this directory. It is a legitimate interest that you be able to find the most relevant profiles to connect with through the use of this data. The data is collected legitimately via the twitter API in accordance to their policy, and only public data is processed. 
+
+We assess this legitimate interest to be a sound lawful basis for processing public twitter information. We have assessed the risks to yourself to be very low and we have provided a safeguard by allowing you to remove this data should you wish. Your interests are aligned with ours in the processing of this data. 
+
+3b. Email Addresses
+
+This personal data refers to any email address provided by yourself, obtained from twitter, or set up during subscription creation. We treat this personal data separately because it is generally considered private. It has different legitimate interests to public data. 
+
+We have a legitimate business interest to communicate with our users. We want to be able to provide you with important information about your account when the need arises. We also want to be able to provide you with email copies of invoices if you are a paying customer. Email addresses are also used to identify subscribers with some payment providers, such as PayPal. You receive a benefit by being informed about important changes to your service, and by receiving payment records. We also use email to provide customer support and respond to customer queries. It is in your best interest to receive support as quickly as possible. 
+
+These legitimate interests are a sound lawful basis for processing email addresses privately and securely. We have provided a safeguard by allowing you to opt-out of email addresses being processed should you wish. In addition to collecting and storing email address, we also comply with PECR requirements when sending email. 
+
+3c. IP Address, Device Info, Usage Data
+
+This personal data refers to the IP address and other information we receive about your browser, such as the type, user agent string, and cookies. It also includes the usage information we collect and log about your visits. We process this data in order to provide better security and monitoring of the service. It is in our legitimate interest to ensure that users are conforming to rules and policy, not just for us but for twitter too. 
+
+We also want to process this information in order to reduce payment fraud. Processing this data allows us to improve the quality of our service by being able to identify and remove bots and fake accounts. This is essential in order for us to comply with twitter policy. It also allows us to identify security issues, such as hacking attempts. We also conduct long-term analysis of this data in order to improve the service. This data helps us to provide support to you by being able to analyse what is occurring in your account and to determine how to fix it. 
+
+You benefit from this data being processed by receiving a more secure and higher quality service. As fraud is reduced you see lower shared costs. These legitimate interests are a lawful basis for processing this data. 
+
+3d. Payment Information
+
+This personal data refers to the payment information we process if you are a paying customer. It includes information about your payment sources, but does not include sensitive information such as full credit card numbers. Sensitive information is processed securely by our payment providers, PayPal and Stripe. If you are paying via PayPal then we will process your PayPal email address. If you are paying by card then we will include partial information to identify the source, such as the last 4 digits of the card, card type, and zip code. It also includes a history of payments made. We consider all of this data to be private. 
+
+We have a legitimate business interest in making subscription management as easy and seamless as possible for you. We do this by giving you full visibility of your payment agreements, and past payment history. We also provide you with the means to start and stop subscriptions immediately. We are required to process this payment information in order to achieve this. We are also compelled to process some of this data for tax purposes. 
+
+Processing payment information is in our joint interests. It is legitimate and a lawful basis for doing so. We also provide extra safeguards by allowing you to delete your payment information. In this instance we will delete all your payment data except for the historical data we are required to retain for the tax authorities. 
+
+3e. Interest Categories
+
+This personal data refers to the interests that you can add to your profile, eg. sport, music, politics. This data is considered public because it is made public by yourself, or added using public records. As an example, Justin Bieber is publically known to be a musician, and as such will have the music interest added to their directory listing. Private information is not used for this purpose. 
+
+We have a legitimate interest in processing these interest categories so that people can find twitter profiles that are in their niche. We have decided to treat this data as special category data as per Article 6 of the GDPR because it may include information about potential sensitive categories, such as politics, religion, sexual orientation, etc. 
+
+We may process this special category data on the condition that it relates to personal data which are manifestly made public by the data subject. Processing this data meets this condition and has the legitimate interest described above as a lawful basis for processing. 
+
+4\. Retention period
+
+We retain personal data only for as long as it is needed. This means that the personal data listed above is retained based on it's legitimate interest usefulness, and whether it is still valid. In the case of twitter information, this is considered to be always useful for the directory while the data is still publically available. Should the data be removed from Twitter it will be removed from twiends too. We will also remove it you ask us to. 
+
+In the case of email addresses we retain these indefinitely, but stop sending emails to them if your account becomes dormant. The reason we retain these is that this is often the only way you can recover your account if you have been gone a long time and forget your password. By retaining your email address we are able to send you recovery information so that you can gain access to your account again. 
+
+For IP Address, device info, and usage data we may retain some of this indefinitely. As an example, an IP address that has been blacklisted my be kept forever. But most other data is retained for less than 5 years, eg. detailed usage logs. Some high level analysis data is retained indefinitely, but this is not linked to your account and is retained in unidentifiable aggregated form. 
+
+For payment information we use different retention cycles. For historic payment data we retain this indefinitely so that you are always able to download invoices for past payments. For payment agreements these are deleted immediately when you delete your subscription. 
+
+5\. Protecting your privacy
 
 We use the latest technologies and processes to ensure that any information (personal data) that you supply us is kept secure at all times.
 
@@ -36,37 +96,11 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
 
 Our nominated representative for the purpose of the Act is Michael Coyle a Solicitor Advocate at Lawdit Solicitors.
 
-3\. Information collected from you
+6\. Cookies
 
-This is the information you provide by filling in forms on twiends.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. This may include; your name; date of birth; gender; business industry; contact information such as email addresses and telephone numbers; demographic information such as post code, preferences and interests; website profile information.
+We use cookie files which are stored on your browser, or the hard drive of your computer or the memory of your mobile device. They help us to provide you with a secure service. The session and security cookies that we use do not require consent as per the [exemptions provided](https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies/) in the Privacy and Electronic Communications Regulations for these types of cookies. More detail on the cookies we use can be found [here](https://web.archive.org/cookies).
 
-3.1 We may also ask you for information when you enter a competition or promotion sponsored by Webcandy, and when you report a problem with our site.
-
-3.2 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-
-3.3 If you contact us, we may keep a record of that correspondence.
-
-3.4 Details of transactions you carry out through our site including purchase history and of the fulfilment of your orders.
-
-3.5 Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
-
-3.6 Details of your use of our services, including the online social connections made or received by you through twiends.
-
-3.7 Twitter profile information provided to us through the Twitter API with your express permission.
-
-3.8 Instagram profile information provided to us through the Instagram API with your express permission.
-
-3.9 Other automatically collected information will include; web browser type and version; operating system; a list of URLS starting with a referring site, your activity on twiends, and the site you exit to.
-
-4\. Your IP address
-
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-5\. Cookies
-
-We may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate, such as the cookies we use to identify you when you log in. If you register with us or if you continue to use our site, you agree to our use of cookies. You also give consent to the use of cookies if you sign in with your twitter account. Please note that our advertisers may also use cookies, over which we have no control. More detail on the cookies we use can be found [here](https://web.archive.org/cookies).
-
-6\. How your data is stored
+7\. How your data is stored
 
 The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
@@ -74,29 +108,15 @@ All information you provide to us is stored on our secure servers. Any payment t
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-7\. How we use your information
-
-We use information held about you in the following ways:
-
-7.1 To ensure that content from our site is presented in the most effective manner for you and for your computer.
-
-7.2 To provide you with information, products or services that you request from us or which we feel may interest you, or where you have consented to be contacted for such purposes.
-
-7.3 To carry out our obligations arising from any contracts entered into between you and us. 
-
-7.4 To allow you to participate in interactive features of our service, when you choose to.
-
-7.5 To notify you about changes to our service.
-
 8\. Third party websites & services
 
 We may use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you.
 
-If you are an existing member, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+If you are an existing member, we will only contact you by electronic means (e-mail) with information about goods and services similar to those which were the subject of a previous sale to you.
 
 If you are a new member, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-Twiends may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do have access to certain personal Data provided by Users of twiends. Any Data used by such parties is used only to the extent required by them to perform the services that twiends requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
+Twiends may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do have access to certain personal Data provided by Users of twiends. Any Data used by such parties is used only to the extent required by them to perform the services that twiends requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998 and GDPR.
 
 If you do not want us to use your data in this way, please email a request to remove your information from our records to info@twiends.com.
 
@@ -110,7 +130,7 @@ The reasons we may disclose your personal information are:
 
 9.2 If Webcandy or substantially all of its assets are acquired by a third party, in which case personal data held by it about its members will be one of the transferred assets.
 
-9.3 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use.
+9.3 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation or law enforcement request, or in order to enforce or apply our terms of use.
 
 10\. Your rights
 
@@ -122,13 +142,13 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 You have the right to opt out of receiving information from twiends at any time. You can turn-off notifications on the settings page if you don't want to receive system notifications.
 
-You have the right to delete your account on the [settings](https://web.archive.org/settings) page at any time; this will also terminate any future communications.
+You have the right to delete your account on the [settings](https://web.archive.org/settings) page at any time; this will also terminate any future communications. You may contact us at any time via the [contact](https://web.archive.org/contact) page or [support](https://web.archive.org/support) page to terminate communications.
 
-You may contact us at any time via the [contact](https://web.archive.org/contact) page or [support](https://web.archive.org/support) page to terminate communications.
+You have the right to lodge a complaint with a supervisory authority at any time.
 
 11\. Access to your information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+GDPR gives you the right to access information held about you. Your right of access can be exercised in accordance with GDPR. Any repeat access requests may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 12\. Changes to our policy
 
