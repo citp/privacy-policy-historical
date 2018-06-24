@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chiefarchitect.com privacy policy that was archived on 2017-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170419045343id_/https%3A//www.chiefarchitect.com/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chiefarchitect.com privacy policy that was archived on 2018-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624103058id_/https%3A//www.chiefarchitect.com/company/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -13,7 +13,57 @@
     html.js .lazy {
         background-image: none;
     }
-</style>        <script src="https://cdn.chiefarchitect.com/themes/chiefarchitect/1.2.3/js/modernizr.js"></script>
+    .site-header .site-search {
+        width: 425px!important;
+        display: flex!important;
+    }
+    .site-header .site-search-filter {
+        width: 140px;
+        border-radius: 3px 0 0 3px;
+        background-color: #f5f5f5;
+        margin-right: -1px;
+    }
+    .site-header .site-search-term {
+        flex: 1;
+        border-radius: 0 3px 3px 0!important;
+        min-width: 0;
+    }
+    @media screen and (max-width: 47.9375em) {
+        .site-header .site-search {
+            width: auto!important; /* IE doesn't understand width: initial */
+            width: initial!important;
+        }
+    }
+    .site-header .site-quick-links>li:first-of-type {
+        margin-left: 15px!important;
+    }
+    .site-header .site-quick-links a {
+        border-bottom: 2px solid transparent;
+    }
+    .site-header .site-quick-links a:hover {
+        border-bottom-color: #6e8a29;
+    }
+    #top-menu {
+        background-color: transparent;
+    }
+    .row-wide {
+        max-width: 1600px;
+    }
+    .text-red {
+        color: red;
+    }
+    .dark-link {
+        color: #000;
+        text-decoration: none;
+        border-bottom: 1px solid #000;
+    }
+    .dark-link:hover,
+    .dark-link:focus {
+        border-bottom: 1px solid #6e6e6e;
+        color: #6e6e6e;
+    }
+</style>
+        <script src="https://cdn.chiefarchitect.com/themes/chiefarchitect/1.2.3/js/modernizr.js"></script>
 <script type="application/ld+json" id="website-json-ld">
 {
     "@context":"http://schema.org",
@@ -54,12 +104,30 @@
     <img src="https://cloud.chiefarchitect.com/1/images/style/chief-architect-logo.png" alt="Chief Architect">
     <h6>Architectural Home Design Software</h6>
 </a>
+<script type="text/javascript">
+    // Submit the form if a search term exists
+    function submitIfSearchTerm() {
+        var searchTerm = document.getElementsByClassName('site-search-term') ? document.getElementsByClassName('site-search-term')[0] : null;
 
-<form class="site-search" action="/search/" method="get" style="display: block;">
-    <input type="search" name="q" value="" placeholder="Search..." required="">
-    <input type="submit" value="">
+        if (searchTerm && searchTerm.value) {
+            var searchSubmit = document.getElementsByClassName('site-search-submit') ? document.getElementsByClassName('site-search-submit')[0] : null;
+
+            if (searchSubmit) {
+                searchSubmit.click();
+            }
+        }
+    }
+</script>
+<form class="site-search" action="/search/" method="get">
+    <select class="site-search-filter" name="default_tab" onchange="submitIfSearchTerm();">
+        <option selected="" value="all">All Content</option>
+        <option value="support">Support</option>
+        <option value="video">Videos</option>
+        <option value="forum">ChiefTalk Forum</option>
+    </select>
+    <input required="" class="site-search-term" type="search" name="q" placeholder="Search…">
+    <input class="site-search-submit" type="submit" value="">
 </form>
-
 <ul class="site-quick-links u-imageCenter" style="display: block;">
     <li><a href="https://login.chiefarchitect.com/account">My Account</a></li>
     <li><a href="/company/contact.html">Contact Us</a></li>
@@ -82,9 +150,10 @@
                             <li><a href="/academic/">Chief Architect Academic</a></li>
                             <li><a href="/products/upgrade.html">Upgrades / SSA Renewals</a></li>
                             <li><a href="/products/addon/">Add-On Products</a></li>
-                            <li><a href="/products/trial.html">Free Trial Download</a></li>
+                            <li><a href="/products/trial.html">Trial Download</a></li>
                             <li><a href="/products/3d-viewer/">Chief Architect 3D Viewer</a></li>
                             <li><a href="/home-designer-DIY/">Home Designer (DIY) Products</a></li>
+                            <li><a href="/products/room-planner/">Room Planner Mobile App</a></li>
                         </ul>
                     </li>
                     <li class="has-dropdown">
@@ -100,7 +169,7 @@
                         <a>USER CENTER</a>
                         <ul class="dropdown">
                             <li><a href="https://digital-locker.chiefarchitect.com/locker/">Digital Locker</a></li>
-                            <li><a href="https://3dlibrary.chiefarchitect.com/">Catalog Downloads</a></li>
+                            <li><a href="/3d-library/">Catalog Downloads</a></li>
                             <li><a href="/videos/">Training Videos</a></li>
                             <li><a href="/support/database.html">Knowledge Base</a></li>
                             <li><a href="/training/">Webinars, Seminars &amp; Events</a></li>
@@ -120,16 +189,26 @@
         <div class="row">
             <div class="small-12 columns">
                 <h1>Privacy Policy</h1>
-                <p>Chief Architect, Inc. makes every effort to ensure the full protection of privacy of its users and the information it gathers about them. We consider such website visitor and customer information to be private, and therefore we do not share user information with third parties.</p>
-                <h2>The Type of Information We Gather and How We Use It</h2>
-                <p>We collect non-personally identifiable information when you visit our websites. This includes such information as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider. We use this type of information in a statistical manner to help us improve the design, layout and content for our websites.</p>
-                <p>We also collect identifiable information in some cases where the person voluntarily provides it i.e., in the case of tradeshows, free product downloads, or other sources.  On certain pages of our websites you may be asked to provide information about yourself. We use this information to fulfill your requests for products and services, to respond to your inquiries or comments, and to offer you other related products, programs or services that may be of interest to you. Again, we consider this information to be private and therefore we do not share user information with third parties.</p>
-                <p>Chief Architect, Inc. reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate our systems properly, and to protect ourselves or our users.  This Policy is subject to change and may be supplemented or modified.</p>
+                <p>At Chief Architect, Inc. we make every effort to ensure the full protection of privacy of our users and the information we gather about them. We consider such website visitor and customer information to be private, and therefore we do not share personal user information with third parties.</p>
+
+                <h2>The Types of Information We Gather and How We Use It</h2>
+                <p>Some basic information is automatically collected when you access our websites. This includes information such as the browser and operating system you are using, your IP address, and cookie identifiers. We use this type of information in a statistical manner to help us improve the quality of our websites and products. We use well-known third-party analytics services for this purpose. This type of information is also recorded in our server access logs, which are used to maintain the quality of our systems and the security of the data we collect. Automatically collected information will be discarded when we determine it is no longer necessary for the stated purposes.</p>
+                <p>We also collect identifiable information that you voluntarily provide directly to us, e.g. when making a purchase, requesting a trial version, or submitting data to us for other requests. In some places you may be asked to provide information about yourself. We use this information to fulfill your requests for products and services, to respond to your inquiries or comments, and to offer you other related products, programs, or services that may be of interest to you. We guard this private information, protect it from unauthorized access, and do not share it with third parties. We will retain this information for as long as it is needed to conduct business with you or until we determine it is no longer relevant for the stated purposes.</p>
+                <p>The personal data we collect is processed primarily on the basis of our legitimate interests in connection with developing, selling, or supporting home design software. We reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to fulfill legal obligations, to operate our systems properly, and to protect ourselves or our users. To further respect your privacy, we may at times request your consent prior to processing your data for some specific purpose, the details of which will be explained at the time of the request.</p>
+
+                <h2>Management of Personal Information</h2>
+                <p>We respect your personal information and invite you to help us maintain it in line with your wishes. Our websites include tools to maintain some of the information you provide, and you may contact us to request access to, changes to, and in some cases erasure of certain information insofar as we are able to authenticate your identity in relation to the data.</p>
+                <p>We are available to help you with inquiries regarding our use of personal information. Depending on where you reside, be aware that there may be a government authority or other official agent to which you may file a complaint if you believe someone is misusing your personal information.</p>
+
+                <h2>Cookies</h2>
+                <p>Our websites use cookies to store information in your browser as needed to function properly or for other purposes in harmony with the data processing activities explained in this privacy policy.</p>
 
                                 <h2>Credit Card Management Policy</h2>
                 <p>Chief Architect does not store credit card numbers for purchase transactions.</p>
-                <p>For recurring billing transactions, rentals or SSA, Chief Architect stores the following information: the last four digits of the credit card, expiration date, card type and a reference to the transaction number.</p>
+                <p>For recurring billing transactions, e.g. rentals or SSA, Chief Architect stores the following information: the last four digits of the credit card, expiration date, card type, and a reference to the transaction number.</p>
                 <p>Chief Architect uses a PCI Compliant vendor to process and manage its credit card transactions.</p>
+
+                <p>This privacy policy is subject to change and may be supplemented or modified.</p>
             </div>
         </div>
         
@@ -145,9 +224,9 @@
                     <li><a href="/academic/">Chief Architect Academic&nbsp;&amp;&nbsp;Student</a></li>
                     <li><a href="/products/3d-viewer/">Chief Architect 3D Viewer</a></li>
                     <li><a href="/home-designer-DIY/">Home Designer® <abbr title="Do It Yourself">DIY</abbr></a></li>
-                    <li><a class="crossDomain" href="https://roomplannersoftware.com/">Room Planner Mobile App</a></li>
+                    <li><a href="/products/room-planner/">Room Planner Mobile App</a></li>
                     <li><a href="/products/compare.html">Compare Products</a></li>
-                    <li><a href="/products/trial.html">Free Trial Download</a></li>
+                    <li><a href="/products/trial.html">Trial Download</a></li>
                     <li><a href="/products/ssa/">Support &amp; Software Assurance</a></li>
                     <li><a href="/products/upgrade.html">Upgrades &amp; Renewals</a></li>
                     <li><a href="/products/addon/">Add-on Products</a></li>
@@ -163,7 +242,7 @@
                 <ul>
                     <li><a href="/training/">Training Services</a></li>
                     <li><a href="/videos/">Training Videos</a></li>
-                    <li><a href="/products/livedemo.html">Free Sales Webinars</a></li>
+                    <li><a href="/products/livedemo.html">Sales Webinars</a></li>
                     <li><a href="https://seminar.chiefarchitect.com/">Webinars &amp; Training Seminars</a></li>
                     <li><a href="/support/database.html">Knowledge Base</a></li>
                     <li><a href="/training/personal-training.html">Personal Trainer</a></li>
@@ -178,7 +257,7 @@
                 <ul>
                     <li><a href="https://login.chiefarchitect.com/account">My Account</a></li>
                     <li><a href="https://digital-locker.chiefarchitect.com/locker/">Digital Locker</a></li>
-                    <li><a href="https://3dlibrary.chiefarchitect.com/">Catalog Downloads</a></li>
+                    <li><a href="/3d-library/">Catalog Downloads</a></li>
                     <li><a href="/products/samples.html">Samples Gallery</a></li>
                     <li><a href="https://chieftalk.chiefarchitect.com/" rel="me">User Forum</a></li>
                     <li><a href="/usercenter/links.html">Resource Center</a></li>
@@ -186,7 +265,7 @@
                     <li><a href="/green/">Green Building</a></li>
                     <li><a href="/products/customer-testimonials.html">Customer Testimonials</a></li>
                     <li><a href="/products/national-accounts/">National Accounts</a></li>
-                    <li><a href="/NKBA/">NKBA Programs</a></li>
+                    <li><a href="/NKBA/">NKBA Software Programs</a></li>
                 </ul>
             </div>
         </li>
@@ -212,7 +291,7 @@
                     <li><a href="/company/contact.html">Contact Us</a></li>
                     <li><a href="/company/employment.html">Employment</a></li>
                     <li><a href="/company/aboutchief.html">About Chief Architect</a></li>
-                    <li><a href="/home-designer-DIY/">Home Designer® <abbr title="Do It Yourself">DIY</abbr></a></li>
+                    <li><a href="/partners/catalog-partner-program.html">Catalog Partner Program</a></li>
                     <li><a href="/company/pressgraphics/">Marketing Graphics</a></li>
                     <li><a href="/company/location.html">Location</a></li>
                     <li><a href="/company/opportunity-foundation.html">Opportunity Foundation</a></li>
@@ -234,7 +313,7 @@
                     <div id="copyright">
         <ul class="nowrap-parent">
             <li><a href="tel:+1-208-292-3400" style="color: inherit;">208-292-3400</a></li>
-            <li>© 2000–2017 Chief Architect, Inc.</li>
+            <li>© 2000–2018 Chief Architect, Inc.</li>
             <li><a href="/company/terms.html" rel="terms-of-service">Terms of Use</a></li>
             <li><a href="/company/privacy.html" rel="privacy-policy">Privacy Policy</a></li>
         </ul>
@@ -288,7 +367,7 @@
   function trackLink(url) {
       var thisDomain = document.domain.replace(/([.*+?^=!:${}()|\[\]\/\\])/g, '\\$1'); // sanitize for regex
       var regexThisDomain = new RegExp('^https?://'+thisDomain+'(:\\d+)?(/.*)?$', 'i');
-      var regexOurDomains = new RegExp('^https?://([^/]+\\.)*(chiefarchitect(software)?|homedesignersoftware)\\.com(:\\d+)?(/.*)?$', 'i');
+      var regexOurDomains = new RegExp('^https?://([^/]+\\.)*(chiefarchitect(software)?|homedesignersoftware|roomplannersoftware)\\.com(:\\d+)?(/.*)?$', 'i');
       return (!regexThisDomain.test(url) && regexOurDomains.test(url));
   }
   function addTrackingToUrl(url) {
