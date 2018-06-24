@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linoxide.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003211048id_/https%3A//linoxide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linoxide.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624095617id_/https%3A//linoxide.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY
 
@@ -58,6 +58,6 @@ We use Google Analytics to, how many visitors have come to your site in a given 
 
 We may disclose personal information (1) if we believe such sharing is appropriate to comply with the law or with legal process; (2) to protect and defend our rights, services or property; (3) to protect against misuse or unauthorized use of the Services; or (4) to protect the safety or property of our users or any member of the public (among other things, this means that if we believe you have provided false information or attempted to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
 
-If you have any questions about our privacy policy, you should be sent to us via [e-mail](http://linoxide.com/contact-us/) only.
+If you have any questions about our privacy policy, you should be sent to us via [e-mail](https://linoxide.com/contact-us/) only.
 
 Last updates on: Feb-02-2015, 10:03 AM GMT.
