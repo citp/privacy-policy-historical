@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001155223id_/https%3A//www.flinders.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flinders.edu.au privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624194347id_/https%3A//www.flinders.edu.au/privacy) for the most accurate reproduction.*
 
 # Flinders University website privacy statement - Flinders University
 
@@ -24,11 +24,12 @@ In addition, our server logs the following information:
 
 
 
-All of this information we use only for statistical analysis or systems administration purposes. No attempt will be made to identify users or their browsing activities, except in the unlikely event of an investigation where a law enforcement agency may exercise a warrant.
+All of this information we use only for statistical analysis or systems administration purposes. No attempt will be made to identify users, except in the unlikely event of an investigation where a law enforcement agency may exercise a warrant.  
 
-## Electronic mail addresses
 
-We will only record your email address if you send us a message. It will only be used for the purpose for which you provide it, and will not be added to a mailing list unless you request that this be done. We will not disclose it without your consent.
+## Email addresses
+
+Our online forms may require you to provide contact details, your email address and other personal information. This personal information may be collected, used and disclosed by the University for the purposes of processing  and responding  to your requests, conducting the business of the University, and direct marketing the University’s services to you, in accordance with the [University's Privacy Policy](http://www.flinders.edu.au/ppmanual/governance/privacy-policy.cfm).
 
 ## Subscriptions
 
@@ -55,11 +56,12 @@ A cookie is an electronic token that is passed to your browser and your browser 
 
 Our server generates one cookie which is used to keep track of the pages you have accessed while using our server. The cookie allows you to page back and forwards through the web site and return to pages you have already visited. The cookie exists only for the time you are accessing our server.
 
-Our internal databases may use cookies to store the set of databases that a user has selected.
+Our internal databases may use cookies to store the set of databases that a user has selected and we use technologies, such as cookies, to customise content and advertising, to provide social media features and to analyse traffic to the site. We also share information about your use of our site with our trusted social media, advertising and analytics partners _._
 
 You do not need to have configured your browser to enable the accepting or sending of cookies in order to use this site (though you will not have access to the full functionality of the services if you do not).
 
-Cookies are not used for any other purpose at this site. We do not use cookies to collect personal information.
+We do not use cookies to collect personal information.  
+
 
 ## Searches
 
