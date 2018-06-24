@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226211215id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624105052id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Animoto
 
-## 1\. Acknowledgement and acceptance of terms
+## 1\. Acknowledgement and Acceptance of Terms
 
 If you do not agree to these terms, please do not access or use this site. 
 
@@ -93,4 +93,6 @@ Animoto Inc. ([contact@animoto.com](mailto:contact@animoto.com))
 New York, NY, 10003  
 USA
 
-**This document was last updated on November 9, 2017.**
+**This document was last updated on May 21, 2018.**
+
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=5861d98f-9f02-479c-bd0c-ca2e2074e3ce)
