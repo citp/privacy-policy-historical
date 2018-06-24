@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boom.tv privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831235841id_/https%3A//boom.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boom.tv privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624125942id_/https%3A//boom.tv/privacy) for the most accurate reproduction.*
 
 # BOOM.TV - Privacy
 
