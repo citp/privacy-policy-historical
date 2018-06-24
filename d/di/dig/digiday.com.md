@@ -1,43 +1,67 @@
-> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509010405id_/http%3A//digiday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624094601id_/https%3A//digiday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digiday
 
-[ ](http://digiday.com/)
+Digiday Media Privacy Policy – Last updated April 19, 2018
 
-[ ](https://web.archive.org/subscribe "Subscribe")
+**Summary:**
 
-**Our Commitment To Privacy**
+We collect your data (specifically outlined below, but generally basic information about you in a professional context, such as email, job title, company name, etc) strictly to provide you with access to our news, events and other programs. We will not share this data with anyone unless you explicitly consent to us doing so. We honor your right to privacy and will comply with your wishes to remove your data from our systems. 
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our website.
+**Our commitment to privacy**
 
-**The Information We Collect**
+You deserve to know how we collect and use the data you provide to us, and that’s what we are providing to you on this page. This notice applies to all information collected or submitted on the Digiday website, or the website of our sister sites, specifically Glossy, Tearsheet and Gather. This notice was updated in April 2018 to reflect GDPR compliance standards.
 
-This notice applies to all information collected or submitted on the Digiday website. On some pages, you can order event passes, submit speaker information, and register to receive materials. The types of personal information collected at these pages are:
+**How we use your information**
 
-Name
+We use the data you provide to us for the following purposes:
 
-Title
+  * Provide you with access to the content and events we produce.
+  * Analyze profile or behavioral data to help us improve the products we offer to you.
+  * In specific cases we will be contractually obligated to share your data with one of our third party advertisers or partners (for example, webinars, downloads or special events). In these instances, we will make it clear that the data you share will be transferred to the third party. You will always have the option to not have your data shared by not taking part in that specific program.
 
-Company
 
-Address
+
+We will store this information to keep you informed about other relevant products that may be useful to you. 
+
+We will never use or share the information provided to us online in ways unrelated to the ones described above.
+
+Some information, such as IP and your email address, may be shared with the following third parties who help us run our website and email programs. They will only use this information to serve our needs and are prohibited from using it in any other instance. They are: Bounce Exchange (behavioral marketing and email acquisition), Google (ad serving and website tracking), Campaign Monitor (email), Gravity Forms (email acquisition), Tito (event registration), Open Water (awards programs).
+
+**Consequences of failure to provide consent**
+
+Consenting to allow us to process and store your data is optional. However, failure to provide that consent will prevent us from delivering the content, events and other experiences to you as mentioned above. 
+
+**The information we collect**
+
+Across our web platform and events, you will be presented with the opportunity to sign up for newsletters, purchase event passes, submit your information to access content such as white papers or webinars, apply for eligibility at certain events and more. 
+
+The type of information collected on those pages generally includes but is not limited to:
 
 Email address
 
-Phone number
+Name
 
-*Credit/Debit Card Information – we do not save or store this information
+Job title or seniority
 
-**The Way We Use Information**
+Location
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+Company name
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+Company type
 
-You can register and subscribe to our website if you would like to receive our e-newsletters as well as updates on our conferences and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+Mailing/billing address
 
-We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+Credit/debit card information (*NOTE: we do not save or store this information, and it will only be shared with our payment processors in order to complete the transaction in which you are engaging.)
 
-**Our Commitment To Data Security**
+Based on the information you provide to us, we may create or append other information to your profile in the interest of better serving you (for example, your interests). As is the case with all data we collect, this will be kept private and for our business purposes only. 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+**How to ask us to delete your data**
+
+If you would like to unsubscribe from our communications at any time, you may do so in the footer of any of our emails. If you would like us to delete your information entirely, or request the information we store about you, please fill out the form below. Otherwise, by continuing to interact with our emails and programs, you provide us with permission to manage and use your data as described above.
+
+**Our commitment to the security of your data**
+
+To prevent unauthorized parties from accessing your data and maintain the accuracy and cleanliness of our own data while ensuring the correct use of it, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+Questions about our privacy policy or how we use data? Email Aaron Gottlieb, Digiday Media’s senior manager, audience development: [aaron@digiday.com](mailto:aaron@digiday.com).
