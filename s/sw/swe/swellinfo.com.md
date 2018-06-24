@@ -1,173 +1,139 @@
-> *The following text is extracted and transformed from the swellinfo.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105165808id_/http%3A//www.carbonmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellinfo.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624054445id_/http%3A//www.carbonmedia.com/privacy) for the most accurate reproduction.*
 
-# Our official Privacy Page and Notice of Carbon Media | Carbon Media
+# Privacy | Carbon Media
 
-Last updated and effective as of July 1, 2015
+## Privacy Policy
 
-Welcome to the **Carbon Media Group** family of websites (collectively, the **“Sites”** ). The Sites are owned and operated by Outdoor Hub, LLC (d/b/a Carbon Media Group) or one or more of its direct or indirect affiliates (collectively, the **“Company,”** **“we”** or **“us”** ).
+Last updated: May 15, 2018
 
-We respect your privacy and are committed to protecting it through our compliance with this privacy notice (the **“Website Privacy Notice”** ) for the Sites. This Website Privacy Notice describes the types of information we may collect from you or that you may provide when you visit the Sites and our practices for collecting, using, maintaining, protecting and disclosing that information. We have created this Website Privacy Notice in order to inform you of our firm commitment to safeguarding the privacy and security of information you provide.
+This Privacy Policy describes how Outdoor Hub, LLC d/b/a Carbon Media and its subsidiaries and corporate affiliates (collectively "Carbon Media", "we", "us" or "our") collects personal information in connection with our websites and mobile or other applications on which this Privacy Policy is posted or linked to (collectively, the "Site"), and how this information may be used, shared and safeguarded. Personal information is information about you as an identifiable Site visitor. 
 
-Please read this Website Privacy Notice carefully before using any of the Sites. We will treat any information we collect from you through any of the Sites in accordance with this Website Privacy Notice. By accessing or using any of the Sites, you consent to all actions taken by us with respect to your information in compliance with this Website Privacy Notice. If you are unwilling to accept the terms and conditions of this Website Privacy Notice, please do not use any of the Sites.
+By visiting our Site or otherwise providing us with personal information, you agree that we may collect, use and share your personal information as described in this Privacy Policy. If you do not agree, please do not visit our Site or provide us with any personal information. We may at any time and at our sole discretion update this Privacy Policy by posting the updated Privacy Policy here along with the date on which the Privacy Policy was changed. Any changes will be effective immediately upon the posting of or linking to the revised Privacy Policy on our Site. 
 
-This Website Privacy Notice may change from time to time. Your continued use of any of the Sites after we make changes is deemed to be acceptance of those changes, so please check this Website Privacy Notice periodically for updates.
+QUICK LINKS
 
-## 1\. APPLICATION OF THIS NOTICE
+Click on one of the links below to jump to the listed section:
 
-This Website Privacy Notice applies only to information collected through any of the Sites, including in e-mail, text and other electronic messages between you and any of the Sites.
+  1. Information we collect
+  2. How we use the information we collect
+  3. Cookies, tracking technologies and interest-based advertising
+  4. How we share your personal information
+  5. How we store and protect your personal information
+  6. Links to external content
+  7. Children
+  8. Accessing and correcting your personal information
+  9. Your choices
+  10. How to contact us
 
-**This Website Privacy Notice does not apply to information collected offline or through any other means, including any other website operated by us or any third party.**
 
-This Website Privacy Notice and the Terms of Use are governed by United States law, and we make no representation that any of the Sites is appropriate or available for use in locations outside of the United States.
 
-## 2\. CHILDREN UNDER THE AGE OF 13
+###  1\. Information we collect
 
-The Sites are not intended or designed to attract children under the age of 13. We do not collect personally identifiable information from any person we actually know is a child under the age of 13. If you are under the age of 13, do not use or provide any information or content on any of the Sites or on or through any of its features, register on any of the Sites, sign up for membership, use any of the interactive or public comment features of any of the Sites or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use.
+In general, you may visit our Site without providing any personal information. However, in order to use certain features of our Site, we may need to collect your personal information. For example:
 
-If we learn we have collected or received personal information from a child under the age of 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under the age of 13, please contact us by sending us an e-mail stating your request to **info@carbonmedia.com** or contacting us in writing at the address provided below.
+  * We collect your username, email address or telephone number, and password when you create an account or public user profile. For some Sites you may be required to provide additional information such as your date of birth or the type of vehicle you own. We collect additional information that you choose to add to your account or public user profile, such as a profile picture or information about your hobbies and interests.
+  * We collect your name, contact information and payment card information when you purchase a product or service through our Site (such as a subscription or classified advertisement).
+  * If you use a social media account to create an account on our Site, to log-in to our Site, or if you otherwise interact with a social media service through our Site (such as by using a plug-in), we will receive personal information from the social media service, such as your username, email address, gender, public profile information and any other information that you have agreed to share with us, whether explicitly or through your privacy settings.
+  * Our Site may offer public forums or communication platforms that allow you to communicate with other users, post information, content, images, photos or videos, post your opinions on surveys, or submit reviews or ratings (collectively, your "Content"). Your Content will be associated with your public user profile. Your Content and public user profile is public, unencrypted and non-confidential. This means that it can be read and used by others, including advertisers. We are not responsible for the information you choose to submit in these public areas. You should exercise caution when deciding to disclose personal information in public areas of our Site.
+  * We collect geographical location information if the Site you are using is location-enabled and your device transmits location data and/or your IP address, so we can provide location-specific information to you.
+  * We may collect personal information when you participate in a survey, poll, contest or promotion, such as your name and contact information and responses to survey or poll questions or the information you provide on a contest entry form.
+  * We may collect other personal information with your consent or where required or permitted by law.  
+We, our service providers and third party advertising partners also collect information about Site visitors automatically using cookies and other tracking technologies. See Cookies, tracking technologies and interest-based advertising below.
 
-By using any of the Sites, you represent and warrant that you meet all of the foregoing eligibility requirements. If you do not meet all of these requirements, you must not access or use any of the Sites
 
-## 3\. INFORMATION WE COLLECT
 
-We collect several different types of information from and about users of the Sites, including:
+###  2\. How we use the information we collect
 
-  * information that is about you but does not identify you individually ( **“Anonymous Information”** ); and
-  * information by which you may be personally identified and is provided by you to us in certain areas of our Site ( **“Personally Identifiable Information”** ).
+We generally use the personal information we collect to provide the product, service, feature or information you have requested and for our reasonable business purposes, including:
 
+  * to manage our Site and provide our services, such as to create and administer accounts and facilitate the use and enjoyment of forums and communication platforms;
+  * to enable geographic-specific features, such as geographic-specific pricing and information;
+  * to process payments;
+  * to notify you of changes to your account or our Site’s services, terms, conditions or policies and to provide you with administrative messages, updates, legal notices, technical notices or security alerts;
+  * to customize your user experience, including by tailoring the advertisements that are displayed to you to make them more useful and relevant to you;
+  * to conduct research and development, analyze and understand trends and user behaviour and to improve our Sites, products and services;
+  * to respond to your inquiries and provide you with technical and other support;
+  * to ensure compliance with our Terms of Use and prevent fraud;
+  * to provide you with newsletters, information, promotional offers and other advertising about us or our advertising partners;
+  * to facilitate your participation in a contest or similar promotion, or a survey or poll;
+  * to meet contractual obligations; and
+  * for other purposes with your consent or as permitted or required by law.
 
 
-We collect this information:
 
-  * directly from you when you provide it to us;
-  * automatically as you navigate through this Site (information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies); and
-  * from third parties such as, for example, our business partners and affiliates.
+###  3\. Cookies, tracking technologies and interest-based advertising
 
+We, our service providers and third party advertising partners use technologies that automatically collect information about Site visitors.
 
+We automatically collect information about how you access, navigate and leave our Site, including the website you came from before visiting our Site, what browser type and operating system you are using, the internet protocol (IP) address you are accessing the Site from, your mobile device ID or Advertising ID if you visit our Site from a mobile device, the pages of our Site that you are navigating through, the date and time of your visit, how long you spend on our Site or certain pages of our Site, and what website you go to after visiting our Site. This information may be used to determine how many visitors visit our Site or certain areas of our Site, how long they remain on our Site, whether they use the hyperlinks we provide or respond to advertising and to tailor our advertisements to you. We may share this information with partners who referred you to our Site, and with advertising partners, who may use the information to optimize the traffic they send to us and for delivering targeted ads to you when you visit other websites.
 
-## 4\. ANONYMOUS INFORMATION
+We, our service providers and third-party advertising partners collect information about Site visitors using cookies and other tracking technologies (including browser cookies, pixels and Adobe Flash). We use these technologies to remember your preferences and facilitate your navigation of our Site. We and our service providers and third-party advertising partners also use these technologies to track your activities on our Site and other websites, including the websites and web pages that you visited, the ads or content that you clicked on and the search terms you used, in order to deliver tailored advertising to you. We may also share a hashed or encrypted version of your email address or telephone number with advertising partners so that you may be served with tailored advertising on our websites or other third party websites. These advertising partners are not permitted to use your hashed or encrypted email address for any other purpose.
 
-As you navigate through and interact with any of our Sites, we automatically collect certain Anonymous Information about your equipment, browsing actions and patterns, including details of your visits to our Sites, including traffic data, location data, and the resources that you access and use on the Sites, information about your computer and internet connection, including your IP address (a unique string of numbers that is automatically assigned to your computer by your Internet Service Provider), operating system and browser type.
+If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject any cookies. You may also set your e-mail options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it. If you don’t want us to share your hashed or encrypted email address with advertising partners, simply opt-out of our promotional communications. See Your Choices below.
 
-The Anonymous Information we collect automatically is statistical data and does not identify any individual. It helps us to administer and improve our Sites and to deliver a better and more personalized service by enabling us to estimate our audience size and usage patterns, store information about your preferences, allowing us to customize our Sites according to your individual interests, speed up your searches and recognize you when you return to our Sites. We do not collect Personally Identifiable Information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
+At this time, we do not respond to browser "do not track" signals. However, you may also opt-out of network advertising programs that track your activities across multiple websites to deliver personalized advertising content to you. Please visit [Digital Advertising Alliance of Canada Opt-Out Page](http://youradchoices.ca/understanding-online-advertising), [NAI Opt-Out Page](http://www.networkadvertising.org/choices/) and the [Ad Choices Opt-Out Page](http://www.aboutads.info/choices).
 
-The Sites are intended for use by residents of the United States only. The technologies we use for the automatic collection of Anonymous Information may include:
+We use Google Analytics to help us understand how our Site visitors use the Site, and as well as certain features of Google Analytics Display Advertising to advertise online, sell advertising and to develop content. You can opt out of Google Analytics and customize Google’s Display Network ads. Please visit [Google’s Ad Settings](https://www.google.ca/settings/ads) and [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Please visit [How Google uses data when you use our partners' sites or apps](https://policies.google.com/privacy/partners) for a description of how Google uses information sent by our browser and for ways you can control the information sent to Google.
 
-  * **Cookies (or browser cookies)**. As is the case with many websites, our Sites use a technology called “cookies” which are small data files that are downloaded onto your computer. The use of cookies is standard on the Internet, and allows us to tailor your visits to our Sites to your individual preferences. We may also contract with third party service providers who assign cookies to conduct site tracking for us. These companies use cookies solely to provide us with aggregate data about Site traffic. Although most web browsers automatically accept cookies, you can change your browser to prevent cookies or notify you whenever you are sent a cookie. Cookies may be session-based cookies that are removed after a user leaves a website or persistent cookies that are stored on a user’s computer permanently or until the expiration date. Even without accepting a cookie, you can still access most of the features on our Sites. Users can delete cookies via their browser settings.
-  * **Flash Cookies**. Certain features of our Sites may use locally stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Sites. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see “Tracking Technologies and Advertising” found in Section 7 of this Website Privacy Notice below.
-  * **Web Beacons**. Pages of our Sites and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+### 4\. How we share your information
 
+We may share information we collect about you in the following circumstances.
 
+**Advertising partners**
 
-## 5\. PERSONALLY IDENTIFIABLE INFORMATION
+We share information with our third-party advertising partners as described in the Cookies, tracking technologies and interest-based advertising section above.
 
-We collect Personally Identifiable Information directly from you when you provide it to us and from third parties, for example, our business partners and affiliates. The Personally Identifiable Information we collect on or through our Site may include:
+**Service Providers**
 
-  * **E-Mail Correspondence and Form Information**. Scattered throughout the Sites are links or forms that can be used to contact us so you can comment, make a complaint, make suggestions and ask questions, register to use our Sites, post material or request further services. We may also ask you for information when you report a problem with our Sites. Your email address is required on these forms so we can answer your questions. We may put information from email on file, and may share or transmit this information with third parties without express authorization from you, in order to provide you with any membership benefits you may receive as a Member to one of our Sites. By providing your email address, you are requesting that we communicate with you in that manner. To withdraw your request, or to unsubscribe, please contact us by sending us an e-mail stating your request to **info@carbonmedia.com** or contacting us in writing at the address provided below.
-  * **Newsletters and Other Communications**. We offer visitors to the Sites the opportunity to sign up to receive newsletters or other email communications from the Sites, at your own request. In order to sign up for these communications, we ask for contact information, such as name and email address. We also may offer the opportunity for you to receive mailings from our business partners or affiliates that we think may be of interest to you. You can unsubscribe from these communications at any time through the unsubscribe link in each communication, contacting us via email at **info@carbonmedia.com** or contacting us in writing at the address provided below. For more information about your opt out options, see “Advertisements and Opting Out” found in Section 7 of this Website Privacy Notice below.
-  * **User Contributions and Submissions**. The Sites may contain message boards, chat rooms, personal web pages or profiles, forums, bulletin boards, classifieds, or other interactive features (collectively, **“Interactive Features”** ) that allow users to upload, post, submit, publish, display or transmit content or materials to other users of the Sites or other persons (collectively, **“User Contributions and Submissions”** ) on or through the Sites. Your User Contributions and Submissions are posted on the Sites and transmitted to others at your own risk. Please be aware that no security measures are perfect or impenetrable and that we cannot control the actions of other users of the Sites with whom you may choose to share your User Contributions and Submissions. Therefore, we cannot and do not guarantee that your User Contributions and Submissions will not be viewed by unauthorized persons.
+We may use service providers (including affiliates acting in this capacity) to provide services to us or to you on our behalf. For example, our service providers may host our Site, analyze data collected from our Site, provide customer service on our behalf, administer our promotions, facilitate and process transactions and payments, provide marketing or promotional assistance, distribute emails and other communications, post our advertisements (including online through targeted advertising campaigns), and collect your feedback on our Site and advertisements. We share your personal information with our service providers solely for the purposes of providing services to you and to us. They are not permitted to use your personal information for other purposes. Some of our service providers are located outside of Canada, including in the United States. While your personal information is located outside Canada it will be subject to legal requirements applicable to our service providers, for example, lawful requirements to disclose personal information to national security agencies or government authorities in certain circumstances.
 
+**Aggregate or de-identified information**
 
+We may use your personal information to create aggregate statistics and de-identified data. We may use, share and sell this information for any purpose.
 
-## 6\. HOW WE USE INFORMATION YOU PROVIDE
+**With your consent**
 
-The information you share with us may be used in a few ways:
+We may share your personal information with third parties with your consent. For example, if you provide us with your contact information, such as an e-mail address, for the purposes of signing up for information, newsletters, contests, or marketing offers from a third party, or for receiving business offers or service quotes from a third party, we may share your personal information for that purpose. Once shared, your personal information will be subject to the privacy policy of that third party.
 
-  * **Anonymous Information** : Anonymous Information is used internally for administration, troubleshooting and to help improve the quality of this Sites and their design. We may share such aggregated, non-personally identifiable information, such as demographics, without restriction, including with existing and prospective third party business partners, researchers and advertisers. We never connect Anonymous Information with Personally Identifiable Information.
-  * **Personally Identifiable Information** : We may disclose Personally Identifiable Information that we collect or you provide as described in this Website Privacy Notice. In all cases, however, we will only use or disclose your Personally Identifiable Information as permitted by law and our agreements with you. Personally Identifiable Information collected by us or provided to us through the Sites may be disclosed and used by us and our subsidiaries and affiliates as follows: 
-    * to our subsidiaries and affiliates;
-    * for purposes including administration of the Sites;
-    * to notify you about changes to our Sites or any products or services we offer or provide through it;
-    * to allow you to participate in Interactive Features on our Sites, and communications with you.
-    * to contractors, service providers and other third parties we use to support our business and only for the purposes for which we disclose it to them;
-    * to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of assets of us or our subsidiaries or affiliates, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which Personally Identifiable Information about our Sites’ users is among the assets transferred;
-    * to fulfill the purpose for which you provide it;
-    * for any other purpose disclosed by us when you provide the information; or
-    * with your consent.
+**Business Transactions**
 
+We may disclose personal information to third parties in connection with the proposed or actual financing, securitization, insuring, sale, assignment or other disposal of all or part of Carbon Media or our business or assets. These third parties may use the information, for the purposes of evaluating and/or completing the proposed transaction. We will use reasonable efforts to ensure that our successors or assigns process the information we transfer to them in a manner that is consistent with this Privacy Policy.
 
+**Other**
 
-We may also disclose Personally Identifiable Information if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with any court order, law or legal process, including to respond to any government or regulatory request; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Sites; or (d) protect the personal safety or property of our users or the public. Please note that we may not provide you with notice prior to disclosure in such cases.
+We may disclose your personal information in other circumstances where permitted or required by law or other legal process. For example, we may disclose your personal information: (a) to collect a debt owed to us; (b) as necessary to comply with a subpoena, warrant, court order or other legal process; (c) if disclosure is requested by an investigatory body, law enforcement official or governmental authority which has lawful authority to request the disclosure of the information in respect of an investigation or other legal process; or (d) if we have reasonable grounds to believe that the information relates to a breach of an agreement or contravention of a law, or to protect the personal safety of our users or defend our rights or property.
 
-We may also disclose your Personally Identifiable Information to enforce or apply our terms of use found at http://www.carbonmedia.com/community/tos/ and other agreements, including for billing and collection purposes.
+###  5\. How we store and protect personal information
 
-## 7\. ADVERTISEMENTS AND OPTING OUT
+Personal information is maintained on our servers (or those of our service providers). In an effort to protect your personal information against unauthorized access or disclosure. For example, accounts you create on our Sites are password protected. In identified parts of our Sites, we use SSL-encryption to protect data transmissions. We limit access to personal information to employees, representatives and service providers who require access in connection with their job responsibilities. Please note it is not possible to transmit data with absolute security over the internet, and we cannot and do not guarantee the security of your personal information.
 
-We support the right of our visitors to choose. We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+###  6\. Links to external content
 
-  * **Tracking Technologies and Advertising**. Users can opt out of cookies at any time. You can also set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. The Network Advertising Initiative provides instructions and information on how to opt out of communications: http://www.networkadvertising.org/choices/. Users can use their browser settings to decide whether to turn on and off cookies on the Sites. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of our Sites may then be inaccessible or not function properly.
-  * **Research and Analytics**. We use Google Analytics to better understand how visitors interact with our Sites. This service provides Anonymous Information including but not limited to data on where visitors came from, what actions they took on our Sites, and where visitors went when they left this Sites. We use this information to improve your experience when visiting our Sites. Please click http://www.google.com/analytics/learn/privacy.html to learn more about this service and how to opt out of data collection by Google Analytics. We may also work with other business partners to conduct research surveys in order to improve the user experience on our Sites. We encourage you read the privacy statements of these business partners to learn about their data practices.
-  * **Disclosure of Your Information for Promotional Offers from the Company and Third-Party Advertising**. You will be given the right to opt out of receiving any promotional materials about us whenever you are asked to provide Personally Identifiable Information on the Sites. If you do not want us to share your Personally Identifiable Information with unaffiliated or non-agent third parties for promotional purposes, you can opt out by checking the relevant box located on the form on which we collect your data. You can also always opt out by logging into the Sites and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to **info@carbonmedia.com** or contacting us in writing at the address provided below, indicating that you no longer want to receive information relating to the Sites.  
-We may use Anonymous Information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your Personally Identifiable Information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria and interact with you.
+Our Site may link or direct you to other websites, services or external content provided by third parties. We do not exercise any control over these third party websites or services. We are not responsible for the privacy practices of such third party websites or services. We recommend that you read the privacy policy for any third party website that you visit or service that you use.
 
+###  7\. Children
 
+Our Sites are not directed to and we do not knowingly request or collect personal information from children - persons under 13 years of age, or another age if required by applicable law - without prior verifiable parental consent. If we become aware that we have unknowingly collected personal information about a child without verifiable parental consent, we will delete this information from our records or, if that is not reasonable, we will take reasonable available steps to de-identify the information.
 
-## 8\. ACCESS AND CORRECTION
+###  8\. Accessing or correcting your personal information
 
-You have a right to know about the Personally Identifiable Information that we hold about you and gathered through the Sites, including the right to correct, amend or delete the information that we have on file if it is incorrect. If you wish to exercise these rights please contact us by sending us an e-mail stating your request to **info@carbonmedia.com** or contacting us in writing at the address provided below.
+We encourage you to keep your personal information accurate and up to date. You can access and correct the information in your account or public user profile by logging in to your account or profile and making the necessary edits.
 
-If you delete your User Contributions and Submissions from any of the Sites, copies of your User Contributions and Submissions may remain viewable in cached and archived pages, or might have been copied or stored by other users of our Sites. Proper access and use of information provided on the Sites, including User Contributions and Submissions, is governed by our terms of use http://www.carbonmedia.com/community/tos/.
+You can request access to or correction of your personal information in our custody or control by contacting us as set out below. We may take reasonable steps to authenticate your identity before providing you with access to your personal information or making corrections. Please also note that in some cases we may not be able to provide you with the personal information you have requested (for example, if the information is subject to solicitor-client privilege or contains personal information of others that cannot be severed).
 
-## 9\. SECURITY
+###  9\. Your Choices
 
-The Sites incorporate safeguards designed to protect the security, integrity and privacy of the Personally Identifiable Information we have collected. We have put in place reasonable precautions to protect information from loss, misuse and alteration, including Secure Socket Layer (SSL) technology. While on a secure page, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer and Mozilla Firefox becomes locked, as opposed to unlocked, or open, when you are just “surfing.”
+You may opt out of receiving promotional communications from us at any time by following the unsubscribe instructions included in each communication and/or by selecting your communication preferences in an account or profile.
 
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Sites, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Sites like message boards, forums or classifieds. The information you share in public areas may be viewed by any user of the Sites.
+You may be able to control the information we received from your device or from third parties (such as social media networks) by changing your device settings, browser settings or privacy settings.
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to any of our Sites. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on any of our Sites.
+You may withdraw your consent to our collection, use or disclosure of your personal information, subject to contractual or legal restrictions and reasonable notice. However, if you withdraw your consent to certain collections, uses or disclosures of your personal information, we may not be able to provide you with certain products or services.
 
-While we strive to protect your personal information, we cannot ensure or warrant the security of any Personally Identifiable Information you transmit to us or through any of our Sites. Once we receive your transmission, we will use reasonable efforts to ensure its security on our internal systems. Depending on the nature of the inquiry, your communication may be discarded or archived. Please note that your email, like most, if not all, non-encrypted Internet communications, may be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use email to communicate information to us that you consider sensitive or confidential. If you wish, you may contact us instead via telephone at the numbers provided throughout our Sites or at the address below.
+###  10\. How to contact us
 
-## 10\. EXTERNAL LINKS
+If you have any questions or comments about this Privacy Policy, please contact us at:
 
-The Sites may provide links to various websites that we do not control. When you click on one of these links, you will be transferred out of our Sites and connected to the website of the organization that you selected.
-
-We are not responsible for the nature, quality or accuracy of the content or opinions expressed on such websites, and such websites are not investigated, monitored or checked for quality, accuracy or completeness by us.
-
-Inclusion of any linked website on our Sites does not imply or express an approval or endorsement of the linked website by us, or of any of the content, opinions, products or services provided on these websites. Even if an affiliation exists between our Sites and a third-party website, we exercise no control over linked sites.
-
-Each of these linked sites maintains its own independent privacy and data collection policies and procedures. While we expect our business partners and affiliates to respect the privacy of our users, we cannot be responsible for the actions of third parties. If you visit a website that is linked to or from any of our Sites, we encourage you to consult that website’s privacy policy before providing any personal information and whenever interacting with any website.
-
-## 11\. CONSENT AND MODIFICATIONS TO PRIVACY STATEMENT
-
-Our Sites are controlled, operated and administered entirely within the United States. By using our Sites, you signify your agreement to the terms of this Website Privacy Notice. If you do not agree with this Website Privacy Notice, please do not disclose any personal information through any of the Sites.
-
-This Website Privacy Notice is part of our terms of use http://www.carbonmedia.com/community/tos/. The use of our Sites is governed by our terms of use http://www.carbonmedia.com/community/tos/ and the laws of the State of Michigan.
-
-This Website Privacy Notice and the notices outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any third party.
-
-## 12\. SPECIAL NOTICE TO CALIFORNIA RESIDENTS
-
-Under California Civil Code § 1798.83, residents of the State of California that have provided any Personally Identifiable Information to us have the right to request a list of all third parties to which we have disclosed Personally Identifiable Information during the preceding year for direct marketing purposes.
-
-Alternatively, the law provides that if we have a privacy policy that gives either an opt out or opt-in choice for use of Personally Identifiable Information by third parties (such as advertisers or affiliated companies) for marketing purposes, we may instead provide you with information on how to exercise your disclosure choice options. The Company qualifies for the alternative option and has established this Website Privacy Notice that provides you with details on how you may either opt out or opt-in to the use of your Personally Identifiable Information by third parties for direct marketing purposes.
-
-If you are a resident of the State of California and request information about how to exercise your third party disclosure choices, please send a request to **info@carbonmedia.com** with a preference on how our response to your request should be sent.
-
-## 13\. MODIFICATIONS TO WEBSITE PRIVACY NOTICE
-
-We may modify this Website Privacy Notice at any time, at our discretion, and modifications are effective upon being posted at this URL.
-
-It is our policy to post any changes we make to our Website Privacy Notice on this page. The date on which this Website Privacy Notice was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Sites and this Website Privacy Notice to check for any changes.
-
-If we make material changes to how we treat our users’ Personally Identifiable Information, we will notify you through a notice at this URL or by other reasonable means.
-
-## 14\. ACCOUNT REVISIONS, REVOKING AND DELETING PERSONAL INFORMATION
-
-We welcome your questions, comments and all feedback pertaining to your privacy or any other issue with regard to the Sites.
-
-At any time, you may ask us to cease any further use of your email address and direct us to delete any Personally Identifiable Information you have supplied. Although it is not always possible to remove or modify such information, we will make reasonable efforts to do so. We cannot delete your Personally Identifiable Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. If you have given us information for one of those third parties we mentioned above and we have already passed it on, we may not be able to delete or change the information.
-
-In the event that you have given us Personally Identifiable Information in the past and then have second thoughts or want to update it, or if you have any other questions regarding this Website Privacy Notice or the Sites, you may contact us by sending us an e-mail stating your request to **info@carbonmedia.com** or by contacting us in writing at the address provided below:
-
-  * **Address:**
-  * Carbon Media Group
-  * Attn: Legal Department
-  * 30800 Telegraph Road, Suite 4805
-  * Bingham Farms, MI 48025
-
-
-
-Copyright © 2015 Outdoor Hub, LLC. All rights reserved.
-
-Carbon Media Group is a trademark of Outdoor Hub, LLC or its affiliated companies. All other trademarks are the property of their respective owners.
+[legal@carbonmedia.com](mailto:legal@carbonmedia.com)  
+**Privacy Officer**  
+30800 Telegraph Road, Suite 4805  
+Bingham Farms, Michigan 48025 USA 
