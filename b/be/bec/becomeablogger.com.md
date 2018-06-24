@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the becomeablogger.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003141013id_/http%3A//www.becomeablogger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becomeablogger.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624171043id_/https%3A//www.becomeablogger.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Become A Blogger
 
 We are strongly committed to protecting your privacy and providing a safe online experience for all of our users while offering the highest quality user experience.
 
-By using http://www.becomeablogger.com (the “Website”), or its subdomains, and related domains or sales pages (also designated as the “Website”) you agree to the terms of this Privacy Policy. Because we gather certain types of information about and from you, we believe it is important that you understand our collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our Terms & Conditions, and contact us if you have any questions.
+By using https://www.becomeablogger.com (the “Website”), or its subdomains, and related domains or sales pages (also designated as the “Website”) you agree to the terms of this Privacy Policy. Because we gather certain types of information about and from you, we believe it is important that you understand our collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our Terms & Conditions, and contact us if you have any questions.
 
 #### WHAT INFORMATION DO WE COLLECT ABOUT YOU?
 
