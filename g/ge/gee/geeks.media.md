@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeks.media privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905054029id_/https%3A//geeks.media/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeks.media privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624230933id_/https%3A//geeks.media/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geeks
 
@@ -115,6 +115,6 @@ United States
 202 S Dean St, NJ  
 07631
 
-[entertainment@vocal.media](mailto:entertainment@vocal.media)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#34515a40514640555d5a59515a4074425b5755581a5951505d55)
 
 (201)258-3770
