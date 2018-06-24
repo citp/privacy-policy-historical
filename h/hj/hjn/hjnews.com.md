@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the hjnews.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726233257id_/https%3A//news.hjnews.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hjnews.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624190058id_/https%3A//www.hjnews.com/site/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Site | news.hjnews.com
+# Privacy Policy | Site | hjnews.com
 
-#### BREAKING
+_Effective date May 22, 2018_
 
-[ ](http://news.hjnews.com/allaccess/attempted-police-stop-leads-to-fiery-crash-fatality-near-wellsville/article_851befa3-fd3f-5d08-92de-d63ac189241e.html)
-
-_Effective date December 17, 2010_
-
-This Privacy Policy explains how your personally identifiable information is collected and used by the Bozeman Daily Chronicle (“Company”).
+This Privacy Policy explains how your personally identifiable information is collected and used by the Herald Journal, APG West, and affiliated websites, hereafter referred to as “Company”.
 
 Our Company has a firm commitment to privacy. We take your privacy concerns seriously and want to make reasonable efforts to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. This Privacy Policy explains our position on information gathering and how we intend to use and share any information we collect. This Privacy Policy applies only to information collected by our company through utilization of its various internet products.
 
@@ -18,7 +14,7 @@ When you visit one of the Company’s websites, the Company collects and stores 
 
 This Privacy Policy is subject to change from time to time by the Company and your continued use of the Company’s internet products means you agree to, without modification, the revisions. Should you object to any such modifications to this Privacy Policy or become dissatisfied with the Company’s internet products in any way, your only option is to immediately discontinue use of those products. Otherwise, continuing to use the service after the effective date means that you agree to be bound by the changes, without modification.
 
-If you would like to discuss any concerns that you may have regarding this Privacy Policy, please contact ejohnston@pioneernewsgroup.com.
+If you would like to discuss any concerns that you may have regarding this Privacy Policy, please contact ejohnston@apgwest.com.
 
 ## Information we collect
 
@@ -38,7 +34,7 @@ In addition, advertisers may elect to use other advertising companies to serve t
 
 ## Behavioral Targeting
 
-From time to time, the Company or its business partners may use collected data to optimize our offers of products and services to you. If you desire not to participate in this effort, please contact ejohnston@pioneernewsgroup.com with your request to opt out.
+From time to time, the Company or its business partners may use collected data to optimize our offers of products and services to you. If you desire not to participate in this effort, please contact ejohnston@apgwest.com with your request to opt out.
 
 ## Affiliated sites, linked sites and advertisements
 
@@ -50,13 +46,19 @@ For certain electronic commerce services on our websites, such as placing classi
 
 ## State and Federal Privacy Rights
 
-In certain jurisdictions, you may have the right to receive: a) information identifying any third-party company(ies) to whom our Company may have disclosed personal information pertaining to you and your family for that company’s direct marketing purposes; b) a description of the categories of personal information disclosed; and c) other enumerated information. To obtain such information, please e-mail your request to ejohnston@pioneernewsgroup.com.
+In certain jurisdictions, you may have the right to receive: a) information identifying any third-party company(ies) to whom our Company may have disclosed personal information pertaining to you and your family for that company’s direct marketing purposes; b) a description of the categories of personal information disclosed; and c) other enumerated information. To obtain such information, please e-mail your request to ejohnston@apgwest.com.
 
 ## Revisions
 
 From time to time, and without notice, the Company may revise the policies set out herein. The effective date of the current policy is set out below the title and all users our the Company’s websites are bound to the terms and conditions in effect as of the date of use.
 
-If you have any questions or comments about our policies, we may be reached at Eric Johnston, Pioneer News Group, Inc., 221 First Avenue West, Suite 405, Seattle, WA 98119; tel. 206-284-4424.
+If you have any questions or comments about our policies, we may be reached c/o Eric Johnston, APG West, 1215 Anderson Rd,Mt Vernon, WA 98274; tel. 206-284-4424.
+
+## Prohibited Uses
+
+This Site is not intended for use by persons located within the European Economic Area (EEA). We do not request or accept personal information concerning or supplied by persons who are located within the EEA at the time they access this Site. If you have accessed this Site from within the EEA, you should immediately discontinue your use. If you have supplied personal information to us in violation of this provision, whether through the registration of new user accounts or otherwise, please contact us at gdpr@apwest.com.
+
+[ ](https://www.hjnews.com/calendar/)
 
 Sign up today, or manage your subscriptions, to one of our great newsletters: 
 
@@ -66,28 +68,5 @@ Sign up today, or manage your subscriptions, to one of our great newsletters:
   * Breaking News
   * Daily Headlines
   * and much more!
-
-
-
-  * Jul 27
-
-__ Thu, Jul 27, 2017 @ 9:00 am 
-
-  * Jul 27
-
-__ Thu, Jul 27, 2017 @ 11:00 am 
-
-  * Jul 27
-
-__ Thu, Jul 27, 2017 @ 11:00 am 
-
-  * Jul 28
-
-__ Fri, Jul 28, 2017 @ 8:00 am 
-
-  * Jul 28
-
-__ Fri, Jul 28, 2017 @ 9:00 am 
-
 
 
