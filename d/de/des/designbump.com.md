@@ -1,83 +1,140 @@
-> *The following text is extracted and transformed from the designbump.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227210046id_/https%3A//designbump.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbump.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624030934id_/http%3A//designbump.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -DesignBump
 
-## What is this Privacy Policy for?
+The REN Group LLC Privacy Policy was last updated on May 15, 2018.
 
-This privacy policy is for this website [[www.designbump.com](https://www.designbump.com/)] and served by [Infospot Limited] and governs the privacy of its users who choose to use it.
+We, REN Group LLC and our corporate affiliates (“REN Group”, “ **we** ” or “ **us** “), are committed to protecting and respecting your privacy.  _We believe in transparency, and we are committed to being upfront about our privacy practices.  _This Privacy Policy (“ **Policy** “) explains which information we collect from you, when you (“you” or “your”, the user of our Services) access and use our websites (the “ **Site** “), as well as our platforms, widgets, analytics tools, and other technical applications that we may provide either through our Sites or through third-party websites  or other products and services provided by us (which, together, are referred to as the “ **Services** “), will be processed by us, and how we use such information and protect it. The Policy also wishes to make sure that you are aware of the options available to you when you access and use our Services.
 
-The privacy policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
+This Policy is a part of our Terms of Use found on our website. By using the Services, you consent to our collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this policy. This includes any information you choose to provide that is deemed sensitive under applicable law. This Policy only applies to REN Group’s Services. We are not responsible for the content or the privacy policies of any third-party websites or apps.
 
-## The DesignBump.com Website
+**Contact Details  **
 
-This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website complies to all national laws and requirements for user privacy.
+If you have any questions or concerns about REN Group’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us at:
 
-#### Use of Cookies
+Critic Inc.
 
-This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user’s computer / device.
+Email address: contact@critic.media
 
-Cookies are small files saved to the user’s computers hard drive that track, save and store information about the user’s interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website.
+**Export of Data**
 
-Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.
+By using the Services, you authorize REN Group to transfer and use your information in USA and any other country where REN Group operates. Please be aware that the privacy laws and standards in certain countries may differ from those applying in the country in which you reside. We will take steps to ensure that your information continues to enjoy appropriate protections.
 
-This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google’s privacy policy here for further information [[http://www.google.com/privacy.html ](http://www.google.com/privacy.html)].
+**_The information we collect from your use of the Services and how we obtain it_**
 
-Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
+When you use or interact with our Services, we automatically collect certain information, such as: (a) anonymous encrypted code representing your Internet protocol (IP) address or your device identifier (if using a mobile device) and being used as a persistent identifier, your browser type and version, time zone setting, browser plug-in types and versions, operating system and version, device information; as well as (b) information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for, the frequency and scope of your use of the Services, page interaction information (such as scrolling, clicks, and mouse-overs), the content you viewed (including advertisements you clicked on) and pages you visited, and cookie data.
 
-## Contact & Communication
+As such, the information we collect cannot be used to specifically identify you. Our Services do not collect any personal information, i.e. information about a natural person such as name, address, email address, phone number, or other identifier that permits direct or indirect identification of a specific individual.
 
-Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
+_Tracking Methods._  When you engage with advertisements that are displayed on the Services, REN Group, third party advertisers and data service providers may use industry-wide tracking methods (e.g., cookies, web beacons, etc.) which store certain information (“ **Methods** ”) and which allow us or such third parties to collect certain data for the purpose of serving advertisements through the use of the REN Group Services (including without limitation, serving advertisements that may be of interest to you). The Methods may store non-personal information as well as a persistent identifier. In such case, you will be subject to such third party advertisers’ privacy policy.
 
-This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
+_Information collected by Cookies and similar technologies_  – A cookie is a small text file that is stored on a user’s device for record keeping purposes. Cookies can only be read by the server that sent them, and they cannot read data from the hard drive. We or our service providers may use cookies, web beacons and similar technologies to collect and store certain information, such as your registration information, language preferences and other account settings. On our Services, we use cookies from the entities that adhere to the Self-Regulatory Principles for Online Advertising of the Digital Advertising Alliance and that are listed under <http://optout.aboutads.info/?c=2#!/>
 
-## Email Newsletter
+We may also use these technologies to recognize your browser type as you navigate on the Internet and to collect aggregate and statistic information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site, all attributed to the persistent identifier in a manner that does not permit direct or indirect identification of you as a specific individual. This allows us to better serve you with more tailored information and facilitate your ongoing access to and use of the Services.
 
-This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
+Any data that we store in such cookies are encrypted for security purposes. We may allow our authorized service providers to access the information collected by cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
 
-Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website’s email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
+To learn more about cookies, please visit <http://www.allaboutcookies.org/>. You may delete or decline cookies by changing your browser settings. The “Help” function in the toolbar of most browsers should indicate how you can set your browser to notify you before accepting cookies or to disable cookies entirely. However, if you refuse to accept cookies, you won’t be able to access and take advantage of many features of our Services properly.
 
-Email marketing campaigns published by this website or its owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].  
-This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
+_Collaboration with Google and other Third-party Ad Networks_.
 
-In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
+We may collaborate with Google or other third party vendors or advertising networks as business partners. Google uses cookies to help serve the ads it displays on the websites of its partners, such as websites displaying Google ads or participating in Google certified ad networks. When users visit a Google partner’s website, a cookie may be dropped on that end user’s browser.
 
-## External Links
-
-Although this website only looks to include quality, safe and relevant external links, users are advised adopt a policy of caution before clicking any external web links mentioned throughout this website. (External links are clickable text / banner / image links to other websites.
-
-The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
-
-## Adverts and Sponsored Links
-
-This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
-
-Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will track the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
-
-## Social Media Platforms
-
-Communication, engagement and actions taken through external social media platforms that this website and its owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
-
-Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
-
-This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
-
-## Shortened Links in Social Media
-
-This website and its owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy urls [web addresses] (this is an example: http://bit.ly/zyVUBo).
-
-Users are advised to take caution and good judgement before clicking any shortened urls published on social media platforms by this website and its owners. Despite the best efforts to ensure only genuine urls are published many social media platforms are prone to spam and hacking and therefore this website and its owners cannot be held liable for any damages or implications caused by visiting any shortened links.
-
-## Resources & Further Information
-
-  * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)
-  * [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)
-  * [Privacy and Electronic Communications Regulations 2003 – The Guide](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide.aspx)
-  * [Twitter Privacy Policy](http://twitter.com/privacy)
-  * [Facebook Privacy Policy](http://www.facebook.com/about/privacy/)
-  * [Google Privacy Policy](http://www.google.com/privacy.html)
-  * [Linkedin Privacy Policy](http://www.linkedin.com/static?key=privacy_policy)
-  * [Mailchimp Privacy Policy](http://mailchimp.com/legal/privacy/)
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website or other websites.
+  * Google’s use of advertising cookies enables it and its partners to serve ads to you based on you visit to our sites and/or other sites on the Internet.
+  * You may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). Alternatively, you can opt out of some third-party vendor’s use of cookies for interest-based advertising by visiting [info](http://www.aboutads.info/).
 
 
 
-v.2.0 April 2016
+Please be advised that the cookies of other [third-party vendors or ad networks](https://www.google.com/support/dfp_sb/bin/answer.py?answer=94149) may also be used to serve ads on our website, and therefore, please be informed as follows:
+
+  *     * Third-party vendors and ad networks may serve ads on our site.
+    * The links to the vendor and ad network websites are as follows: <http://optout.aboutads.info/?c=2#!/>
+
+
+  * _You may visit the foregoing websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can opt out of some third-party vendor’s use of cookies for interest-based advertising by visiting  _[ _info_](http://www.aboutads.info/) _._
+
+
+
+_Information collected by third parties_. We may allow third parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Unless expressly stated otherwise, our website does not provide personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. [Some of these third party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers end users a single location to opt out of ad targeting from member companies ([www.networkadvertising.org)](about:blank).
+
+**_How we use the information we collect and store_**
+
+We respect your privacy. As explained above, REN Group does not collect any personal data or information that can identify you. We generally use the information that we collect and process to provide and improve our services and products, for targeted online and offline marketing, and for general research and aggregate reporting.
+
+We use information in the following ways:
+
+  1. **Information we collect.**
+
+
+  *     * We use the information to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes and as part of our efforts to keep our site safe and secure.
+    * The information helps us measure and research the effectiveness of the Services’ features and offerings, advertisements, and e-mail communications, and to improve them when necessary.
+    * We may also use it to make suggestions and recommendations to you and other users of our site about services that may interest you or them.
+
+
+  1. **Information we receive from other sources.  **We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+  2. **Storage of Information**. In addition, please be aware that we may host or store your data and information (including personally identifiable information) in the United States and other countries through certain third parties that we use to operate and manage the Site and Services, including, inter alia, Amazon Web Services (“ **AWS** ”). By using the Site, you acknowledge and expressly consent to the transfer and processing of your personally identifiable information in this way. We may store your information also after your membership has been terminated. Such information may be used for any internal purpose, such as quality control efforts or customer analysis.
+  3. Respond and handle your questions and requests. – no storage of any contact information.
+
+
+
+**_DISCLOSURE OF YOUR INFORMATION_**
+
+We only share information with third parties in the following instances:
+
+  1. When we received your consent. This includes sharing information with other service providers.
+  2. With our affiliates. This relates to companies that are legally part of the same group of companies that we are part of, or that become part of that group.
+  3. Third-Party Service Providers. We may make use of third party service providers in the course of collecting, storing and/or processing information. We use commercially reasonable efforts to engage with third-party service providers that post a privacy policy governing their collection, processing and use of non-personal and personal information. Please note, however, that we do not control such third party service providers.
+  4. Non-Personally Identifiable Information. We may also share non-personally identifiable information that we collect under any of the above circumstances with our business partners, affiliates or other third parties to develop and deliver targeted advertising on our websites and on websites of third parties. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find interesting and to customize content and advertising.
+
+
+
+We may disclose information to third parties:
+
+  1. If REN Group or substantially all of its assets are acquired by a third party.
+  2. We may disclose information (i) as a response to a legal request (such as a court order, search warrant, or subpoena) if we believe that we are required to do so by applicable law; or (ii) when we believe that such disclosure or use is necessary in order to: reveal, prevent and address fraud, intellectual property infringement, piracy, or other illegal activities; enforce this Policy or our Terms of Use, including in order to investigate potential breaches; protect our rights, property or safety, or those of our users or from members of the public from harm, as required or permitted by law; and prevent death or imminent bodily harm. In such events, REN Group may disclose a name, address, country, phone number, email address and company name.
+  3. REN Group is affiliated with a variety of businesses and works closely with them. These businesses may offer promotions (including e-mail promotions) or sell items or services to you through our Services. When an affiliated business is associated with your transaction, we may share information related to the transaction with that affiliated business to facilitate your transaction.
+
+
+
+**_DATA RETENTION_**
+
+We retain aggregated or anonymous data, which cannot identify an individual or device and is used for purposes of reporting and analysis, for as long as commercially necessary.
+
+**_HOW DO WE SECURE YOUR INFORMATION?_**
+
+We consider data security a top priority and we do our best to keep your information secure. For that purpose, we:
+
+  1. Encrypt many of our services [using SSL](http://support.google.com/websearch/bin/answer.py?answer=173733&en).
+  2. Employ firewalls and intrusion detection systems.
+  3. Practice administrative, technical, and physical security procedures to help protect the information you provide us.
+
+
+
+Please keep in mind that no method of transmission over the Internet, or method of electronic storage, is 100% secure. As a result, although we strive to protect your information, we cannot promise or guarantee that such information will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
+
+Please also be aware that we may use third-party cloud service providers that provide hosting, data storage and other services pursuant to their standard terms and conditions that are generally non-negotiable; and accordingly, although we seek to conduct reasonable due diligence on such service providers, we may be unable to impose contractual obligations on them with respect to the measures they use to protect Personal Information.
+
+If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contact Us” section below.
+
+**PROTECTION OF CHILDREN’S PRIVACY**
+
+Our Services are not directed to children under 18.
+
+**_CHANGES TO OUR PRIVACY POLICY_**
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy. Your continued use of our Services following the posting of changes to this Policy or providing notice to you, whichever occurs first, means that you accept those changes.
+
+**_GENERAL_**
+
+We reserve the right to discontinue or modify any aspect of the Services at any time. This Policy, together with our Terms of Use and any other legal notices published by us on the Site and in the Platform, shall constitute the entire agreement between us concerning the Services. If any provision of this Policy is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Policy, which shall remain in full force and effect, provided, however, that in such event this Policy shall be interpreted so as to give effect, to the greatest extent consistent with, and permitted by, applicable law, to the meaning and intention of the excluded provision as determined by such court of competent jurisdiction.
+
+**_GOVERNING LAW AND JURISDICTION_**
+
+This Policy shall be governed by the laws of California, without respect to its conflict of laws principles. We each agree to submit to the personal and exclusive jurisdiction of the federal and state courts located in California, and waive any jurisdictional, venue, or inconvenient forum objections to such courts.
+
+Our Services are controlled and operated from California, and we make no representations that they are appropriate or available for use in other locations.
+
+**NOTE TO INTERNATIONAL USERS**
+
+We are a private company incorporated under the laws of Israel. If you are located elsewhere, the information you provide to us or that we collect will be transferred to the USA and governed by applicable laws and regulations and this Privacy Policy. Some of this information may be transferred to, processed and stored by our service providers in other countries.
