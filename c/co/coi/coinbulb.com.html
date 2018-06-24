@@ -1,0 +1,449 @@
+<!--The following is the downloaded HTML source of the coinbulb.com privacy policy that was archived on 2018-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624170915id_/https%3A//coinbulb.com/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+
+<meta charset="utf-8">
+
+<title>CoinBulb | Earn Bitcoin - Bitcoin Advertising - Bitcoin PTC</title>
+
+<meta content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+
+<meta name="description" content="Coinbulb is a paying bitcoin PTC where you can earn bitcoin online by viewing ads and advertise to receive quality traffic.">
+<meta name="keywords" content="bitcoin ads, free bitcoins, earn bitcoin, earn money online, ptc, paid to click">
+
+<meta name="wnpverify" content="608374f4276019a7cd05b2734bd866dabe9ec12b">
+<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="assets/css/bootswatch.min.css">
+
+<link rel="stylesheet" href="assets/css/custom.css">
+
+<link rel="stylesheet" href="assets/css/hover.css">
+
+<link rel="stylesheet" href="assets/css/animate.css">
+
+<link rel="stylesheet" href="assets/css/pstyle.css">
+
+<link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.js" integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU=" crossorigin="anonymous"></script>
+
+
+
+<style type="text/css">
+
+
+	@media screen and (max-width: 480px){
+
+	#modalToShow{margin-top:60px !important;}
+
+	.adstop{padding-left:0px !important;padding-right:0px !important;margin-top:5px !important;}
+
+	.adsbtm{padding-left:0px !important;padding-right:0px !important;margin-top:5px !important;}
+
+ 	.adstop .row{padding:0px !important;margin:0px !important;}
+
+	.adsbtm .row{padding:0px !important;margin:0px !important;}
+
+	.adstop .row .col-sm-6{padding:0px !important;}
+
+	.adsbtm .row .col-sm-6{padding:0px !important;}
+
+}
+
+	@media (min-width: 768px) {  .adstop iframe {    float: right !important;  }  .adsbtm .footer-frame1 {   float:right !important;  }
+
+  .adstop .col-sm-6{text-align: left !important;} .adsbtm .footer-frame2{float:left !important;}
+
+}
+.spanNum {
+    display: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #2fd288;
+    position: absolute;
+    top: 30%;
+    right: 0%;
+    color: #0a1306;
+    font-size: 12px;
+    line-height: 15px;
+    font-weight: 700;
+    text-align: center;
+}
+</style>
+
+<style>
+
+div.section-tout{padding:0px;}
+
+.center-block {float: none !important}
+
+</style>
+
+<style>
+
+
+
+.modal {
+
+  z-index: 99;
+
+  margin-top: 110px;
+
+  position: fixed;
+
+}
+
+
+
+.modal-backdrop {
+
+ z-index: -1;
+
+  height: 100% !important;
+
+  padding-top: 110px;
+
+}
+
+
+
+</style>
+
+
+
+</head>
+
+
+
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top">
+
+<div class="container">
+
+<div class="navbar-header">
+
+<a href="https://coinbulb.com" class="navbar-brand"><img src="assets/images/logo-light.png" alt=""></a>
+
+<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+
+<span class="icon-bar"></span>
+
+<span class="icon-bar"></span>
+
+<span class="icon-bar"></span>
+
+</button>
+
+</div>
+
+<div class="navbar-collapse collapse" id="navbar-collapse">
+
+<ul class="nav navbar-nav">
+
+<li><a href="https://coinbulb.com/advertise" class="hvr-underline-from-center"><i class="fa fa-eye"></i> &nbsp; Advertise</a></li>
+
+<li><a href="https://coinbulb.com/ads" class="hvr-underline-from-center"><i class="fa fa-list"></i> &nbsp; View Ads</a></li>
+
+<li><a href="https://coinbulb.com/campaigns" class="hvr-underline-from-center"><i class="fa fa-th-list"></i> &nbsp; Campaigns</a></li>
+<li style="position:relative;"><span class="spanNum"></span><a id="clicknews" href="https://coinbulb.com/news" class="hvr-underline-from-center"><i class="glyphicon glyphicon-list-alt"></i> &nbsp;News</a></li>
+
+
+
+</ul>
+<script>
+    $(function(){
+    	$("#clicknews").click(function(){
+        	$.ajax({
+              async:true,
+              url:"dochecknews.php",
+              data:{docheck:1},
+              type:"post",
+              dataType:"text",
+              success:function(data){
+              }
+          });
+        })
+    	  $.ajax({
+            async:true,
+            url:"checknews.php",
+            data:{check:1},
+            type:"post",
+            dataType:"text",
+            success:function(data){
+               if(data == 0){
+               	  $("#clicknews").unbind("click");
+               }else{
+                  /*$('.spanNum').css('display','block');*/
+                  /*$('.spanNum').html(data);*/
+               	  $("#clicknews").bind("click",function(){
+               	  	  $.ajax({
+		              async:true,
+		              url:"dochecknews.php",
+		              data:{docheck:1},
+		              type:"post",
+		              dataType:"text",
+		              success:function(data){
+		              }
+		          });
+               	 })
+               }
+            }
+          });
+
+        
+        
+    })
+</script>
+
+
+<ul class="nav navbar-nav navbar-right">
+
+
+
+
+
+
+<li><a href="login" class="hvr-underline-from-center"><i class="fa fa-user" aria-hidden="true"></i> &nbsp; Login</a></li>
+
+<li><a href="https://coinbulb.com/register" class="hvr-underline-from-center"><i class="fa fa-user-plus" aria-hidden="true"></i> &nbsp; Register</a></li>
+
+
+
+
+
+
+</ul>
+
+
+
+
+
+</div>
+
+<!-- Collapse Ends -->
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="container">
+  <div class="row">
+    <h2 style="text-align: center; margin-top:30px;">Privacy Policy</h2>
+    <div class="col-sm-12 pbox">
+      <h1>Privacy Policy</h1>      <div class="row adstop" style="padding: 20px;">              <div class="col-sm-6">                <iframe scrolling="no" frameborder="0" src="//mellowads.com/view/EBA7F3C9CAE9" style="overflow:hidden;width:468px;height:60px;"></iframe>              </div>              <div class="col-sm-6" style="margin-left:-50px">                <iframe data-aa="878212" src="//ad.a-ads.com/878212?size=468x60" scrolling="no" style="width:468px; height:60px; border:0px; padding:0;overflow:hidden" allowtransparency="true"></iframe>             </div>            </div>
+      <p>
+        We pledge to meet fully, and where possible exceed, internationally recognized standards of personal data privacy protection. Coinbulb.com may change the terms of this policy from time to time. You should check the page to make sure you are agree with the terms.
+      </p>
+
+      <h3>We May Collect the Following Information:</h3>
+      <ul>
+        <li>Your browsing data obtained through the use of cookies.</li>
+        <li>The email address you voluntarily provide us by opting in to our mailing list.</li>
+      </ul>
+
+      <h3>What We Do with the Information We Gather:</h3>
+      <ul>
+        <li>We analyze the information we gather to learn more about how Coinbulb.com visitors use the site and
+what content they prefer.</li>
+        <li>We may use the information to analyze activity and determine preferences of Coinbulb.com visitors from
+a particular location as determined by IP address. At the same time, we encourage the use TOR or a proxy as a method for users to opt-out of this form of data collection.</li>
+        <li>If you provide us your email and opt-in, we may send you newsletters and emails about changes on account.</li>
+      </ul>
+
+      <h3>Security</h3>
+      <p>
+        We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+      </p>
+
+      <h3>How We Use Cookies</h3>
+      <p>
+        We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Cookies help us provide you with a better website, by enabling us to monitor which pages users find useful and which ones they do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+      </p>
+
+      <h3>Links to Other Websites</h3>
+      <p>
+        Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+      </p>
+
+      <h3>Children’s Privacy</h3>
+      <p>
+         The Site is not directed at person under the age of eighteen (18). In general, and with certain exception, privacy laws, including the General Data Protection Regulation, generally require that the collection of Personal Data of persons under the age of sixteen (16) (“Children”) requires parental consent. Further, if the member state of the European Union has not provided a lower age limit (provided that such lower age is not under 13 years), the General Data Protection Regulation obliges parents to give a consent. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we discover that a person under the age of 16 has provided use us with Personal Data, we will delete such information from our servers immediately.
+      </p>
+
+       <h3>Controlling Your Information</h3>
+       <p>
+         The only personal information we presently collect is your email address should you choose to provide it for our mailing list. You may choose to restrict the our use of your mailing list by unsubscribing.
+       </p>
+
+    </div>
+  </div>
+</div>
+<div class="col-md-12"></div><div class="container-fluid adsbtm" style="overflow:hidden;">  
+<!--new-->
+ <div id="468left" class="col-sm-6 hidden-xs" style="text-align: center;overflow:hidden;"> <iframe scrolling="no" frameborder="0" src="//mellowads.com/view/81E7EAB72F34" style="overflow:hidden;width:468px;height:60px;float:right"></iframe>    </div>
+<div id="468right" class="col-sm-6 hidden-xs" style="text-align: center;overflow:hidden;">   <iframe scrolling="no" frameborder="0" src="//mellowads.com/view/CC98B3670D3E" style="overflow:hidden;width:468px;height:60px;float:left"></iframe>  </div>
+
+<!--new-->
+  <div class="row" style="padding-bottom:20px;"> 
+   <div class="col-sm-6 " style="text-align:center;overflow:hidden;">      <!-- <iframe  class="footer-frame1" data-aa='422319' src='//ad.a-ads.com/422319?size=468x60' scrolling='no' style='width:468px;height:60px; border:0px; padding:0;overflow:hidden;padding-top:5px' allowtransparency='true'></iframe> -->  <iframe class="footer-frame1" data-aa="878212" src="//ad.a-ads.com/878212?size=468x60" scrolling="no" style="width:468px; height:60px; border:0px; padding:0;overflow:hidden;padding-top:5px" allowtransparency="true"></iframe>  </div>    <div class="col-sm-6 " style="text-align: center;overflow:hidden;padding-top:5px">      <iframe class="footer-frame2" scrolling="no" frameborder="0" src="//mellowads.com/view/C8536E0C647F" style="overflow:hidden;width:468px;height:60px;"></iframe>    </div>  
+   </div>
+
+   </div>
+   
+<footer class="footer">
+<div class="container" align="center">
+<div class="row" style="color:white;font-size:15px;">
+2018-06-24 12:14:33</div>
+<a href="faq">FAQ </a>|<a href="privacypolicy">Privacy Policy </a>|<a href="terms">Terms of Service </a>|<a href="payment">Payment Proof</a>|<a href="#" id="disclaimer">Disclaimer</a><a href="https://twitter.com/coinbulb" target="_blank"><img src="assets/images/ct.png" litter="twitter" width="65px" height="20px"></a>
+<br>
+<img src="assets/images/stamp.png" alt="contact us" width="16" height="12">&nbsp;<span id="contactus" style="text-align: center; color: white;cursor:pointer;font-weight:bold;font-size:17px;text-decoration:underline;">contact us</span>&nbsp;&nbsp;&nbsp;
+
+Copyrighted © <b>CoinBulb</b> 2016 - 2018. All rights reserved.<br>
+
+</div>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-88350420-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+</footer>
+<!-- jQuery -->
+<!-- <script   src="https://code.jquery.com/jquery-1.12.4.js"   integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU="   crossorigin="anonymous"></script> -->
+<link href="assets/css/motai.css" rel="stylesheet" type="text/css">
+<script src="assets/js/bootstrap.js"></script>
+<script type="text/javascript" src="https://twitter.github.io/bootstrap/assets/js/bootstrap-transition.js"></script>
+<script type="text/javascript" src="https://twitter.github.io/bootstrap/assets/js/bootstrap-collapse.js"></script>
+<script src="assets/js/wow.min.js"></script>
+<!-- <script type="text/javascript">$(document).read(function(){function stopScrolling(event){event.preventDefault();}document.addEventListener("touchmove",stopScrolling,false)})</script> -->
+
+<script> 
+  $(".withdraw_a").click(function(e){
+    e.preventDefault();
+    $(".full_model").fadeIn(1000);
+  })
+    $(".user_close").click(function(){
+    $(".full_model").fadeOut(1000);
+  })
+  new WOW().init();
+    $(document).ready(function() {
+    $('.close').click(function(){
+      $('.modalDialog').hide()
+      })  
+    $('#contactus').click(function(){
+       $('.modalDialog').show()
+    })
+    }); 
+    $("#disclaimer").click(function(e){
+  e.preventDefault();
+  $(".modalDisclaimer").stop().fadeIn(300);
+  $(".disclaimer span").click(function(){
+  $(".modalDisclaimer").stop().fadeOut(300);
+})
+})
+</script>
+<div id="openModal" class="modalDialog">
+  <div>
+      <img src="assets/images/dbx1.png">
+      <div class="close">X</div>
+        <h2>Contact us</h2>
+        <div class="tt">
+          <p class="one">Please read through our FAQ before sending us an email - we will not <br>reply to emails asking questions that have already been answered there.</p>
+            <p class="two">If your enquiry meets the conditions above then please email us at <span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f1828481819e8385b1929e989f93849d93df929e9c">[email&nbsp;protected]</a></span>.We will endeavour to reply to emails within <br>48 hours.</p>
+        </div>
+    </div> 
+</div>
+<style>
+  .modalDisclaimer{
+    display:none;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(6,56,125,0.5);
+    z-index: 999999;
+  }
+  .disclaimer{
+    width:500px;
+    height:300px;
+    background:white;
+    margin:10% auto;
+    padding:20px;
+    border-radius: 5px;
+  }
+  .disclaimer p{
+    background: url(assets/images/xz1.png)no-repeat 0 4px;
+    font-size: 16px;
+    color: #06387d;
+  }
+  .disclaimer h2{
+    font-size: 48px;
+    color: #06387d;
+    text-align: center;
+  }
+.disclaimer span{
+  text-align: center;
+  vertical-align:middle;
+    float: right;
+    width:30px;
+    height:30px;
+    border-radius:50%;
+    cursor: pointer;
+    font-size: 20px;
+    background:rgba(172,172,182,0.38);
+    margin-right: -20px;
+    margin-top: -20px;
+    color: #226ace;
+    font-weight: bold;
+
+}
+.disclaimer span:hover{
+  color: white;
+  background:#226ace;
+}
+</style>
+<div class="modalDisclaimer">
+      <div class="disclaimer">
+        <span>X</span>
+        <h2>Disclaimer</h2>
+          <p>The information provided on Coinbulb does not constitute financial and investment advice. You are using information availabe here AT YOUR OWN RISK.</p>
+          <p>Do conduct your own due deligience and consult your financial advisory before making decisions.</p>
+      </div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script>
+
+
+
+
+
+</body></html>
