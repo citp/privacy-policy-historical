@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsinlevels.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221328id_/https%3A//www.newsinlevels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsinlevels.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624031755id_/https%3A//www.newsinlevels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | English news and easy articles for students of English
 
