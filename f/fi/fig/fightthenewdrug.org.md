@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightthenewdrug.org privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926153004id_/http%3A//www.fightthenewdrug.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightthenewdrug.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624140822id_/http%3A//www.fightthenewdrug.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fight the New Drug
 
@@ -39,7 +39,7 @@ We use email addresses to: provide you with products and services you request pr
 
 We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Fight the New Drug website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+This website uses Google AdWords, Facebook, Instagram, and Pinterest remarketing services to advertise on third party websites (including Google, Facebook, Instagram, and Pinterest) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. It could also mean serving a product recommendation based on items you have added to your cart or viewed in the past. This remarketing may come in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Fight the New Drug website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
 ##### Our Commitment to Data Security
 
@@ -47,4 +47,12 @@ Securing the information that you share with us online is a top priority. In ord
 
 Fight the New Drug reserves the right to make changes to this policy at any time. Privacy policy changes may be due to new technologies, industry practices, regulatory requirements or for other purposes. Consent will be obtained when required by applicable law.
 
-If you have any questions or concerns regarding this policy, please call us at 213-792-2106 or write to us at [info@fightthenewdrug.org](mailto:info@fightthenewdrug.org).
+If you have any questions or concerns regarding this policy, please call us at 213-792-2106 or write to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e28b8c848da2848b858a96968a878c879586909785cc8d9085).
+
+__
+
+Like all websites, we use cookies. By continuing on this site, you agree to our use of cookies. [More](https://fightthenewdrug.org/cookie-policy/)
+
+The cookie settings on this website are set to "allow cookies" to give you the best browsing experience possible. If you continue to use this website without changing your cookie settings or you click "Accept" below then you are consenting to this.
+
+Close
