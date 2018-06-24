@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alibabahost.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630223843id_/http%3A//alibabahost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibabahost.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624062959id_/http%3A//www.alibabahost.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Hosting | Vps | Dedicated
+# Web Hosting Services: World Best Offshore Web Hosting Company - Alibabahost
 
 ## Private Policy
 
