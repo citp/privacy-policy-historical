@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalnavy.mod.uk privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928152313id_/https%3A//www.royalnavy.mod.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalnavy.mod.uk privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624163348id_/https%3A//www.royalnavy.mod.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Royal Navy
 
@@ -21,3 +21,7 @@ You have the right to see personal data (as defined in the Data Protection Act) 
 **Comments and feedback**
 
 We welcome your input on all aspects of the site. If you have any comments, feedback or complaints, please use the Contact Us link provided. You may not receive a personal reply but your comments will be read. Please note that this form cannot be used to contact ships or units, or naval personnel.
+
+**QHM Privacy Policy**
+
+This separate [privacy statement](https://web.archive.org/-/media/royal-navy-responsive/documents/gdpr/20180517---qhm-privacy-notice.docx?la=en-gb) only covers the QHM (Queen's Harbour Master) pages on the Royal Navy website for Portsmouth, Clyde and Plymouth and all associated forms. 
