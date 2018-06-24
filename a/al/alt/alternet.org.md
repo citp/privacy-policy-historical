@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118234433id_/https%3A//www.alternet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624144334id_/https%3A//www.alternet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alternet
 
-AlterNet, and our parent organization, the [Independent Media Institute](https://www.alternet.org/about/imi.html), guarantee that we will never, under any circumstances, sell, trade or make public your personal information, unless you designate otherwise. All personal information you provide will remain confidential. In addition, you always will have the option to edit the information provided to us or to have your personal information removed from our records.
+**Privacy Policy**
+
+AlterNet and our parent organization, AlterNet Media, respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit our website, and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
  **Traffic Data**
 
-When you visit AlterNet, our systems collect basic information about your computer, including: IP address (your computer’s unique signature), operating system (e.g., Windows 95), browser software (e.g., Microsoft Internet Explorer, Netscape), Internet Service Provider (e.g., AOL). We also collect information about what you view on the site.
+When you visit AlterNet, our systems collect basic information about your computer, including: IP address (your computer’s unique signature), operating system, browser software (e.g. Chrome, Firefox, Safari), and internet service provider (e.g., Comcast, AT&T, etc.). We also collect information about what you view on the site to help us optimize content.
 
  **Advertising**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [//www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
  **Use of Cookies**
 
-AlterNet employs cookies — small text files placed on your computer’s hard drive — to track the type of content and sites to which our users link, the length of time they spend at any particular site and the AlterNet services they use. Cookies also help us diagnose problems with our server.
+AlterNet employs cookies—small text files placed on your computer’s hard drive—to track the type of content and sites to which our users link, the length of time they spend at any particular site and the AlterNet services they use. Cookies also help us diagnose problems with our server.
 
-For more on cookies, please [click here](https://help.netscape.com/kb/consumer/19970226-2.html).
+For more on cookies, please [click here](https://en.wikipedia.org/wiki/HTTP_cookie).
 
  **Email Newsletters and “Send a Friend” Feature**
 
@@ -26,9 +28,9 @@ AlterNet offers a “send this story to a friend” feature, which allows our us
 
  **Discussion Forums**
 
-AlterNet makes [blogs and other feedback forums](https://www.alternet.org/discuss/) available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information.
+AlterNet makes comment [feedback forums](https://disqus.com/home/forum/alternet/) available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information.
 
-If you have any concerns about this, send email to [discuss@alternet.org](mailto:discuss@alternet.org).
+If you have any concerns about this, send email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e084899383959393a0818c9485928e8594ce8f9287).
 
  **Surveys**
 
@@ -44,25 +46,19 @@ Protecting the rights of children is important to us. As a result, we do not col
 
  **Unsubscribe, Data Removal and Data Modification Policies**
 
-AlterNet allows users to opt-out of receiving communications from us and to modify or remove their information from our system. The following options are available to do so:
+AlterNet allows users to opt out of receiving communications from us and to modify or remove their information from our system. The following options are available to do so:
 
-  * Send email to [support@alternet.org](mailto:support@alternet.org);
-  * send mail to: AlterNet, 101 Spear St., Ste 230, San Francisco, CA 94105
-  * call: 415/284-1420.
+  * Send email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a494f4a4a55484e7a5b564e5f48545f4e1455485d)
+
+  * Send mail to: AlterNet, PO Box 21040, Washington, D.C. 20009
 
 
 
- **Other Disclosure of Personal Information**
 
-AlterNet will not use or disclose your personal information without your consent, except (i) as described in this privacy policy or (ii) as required by law, court order or as requested by other government or law enforcement authority. This policy does not protect information you post to any online bulletin board or other public forum within our website.
+ **Disclosure of Personal Information   **
+
+AlterNet will not use or disclose your personal information, except (i) as described in this privacy policy, (ii) as required by law, court order or as requested by other government or law enforcement authority, or (iii) to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, or other sale or transfer of some or all of AlterNet Media's assets, whether as a going concern or as part of bankruptcy, dissolution, liquidation, or similar proceeding, in which personal information held by AlterNet Media about our website users is among the assets transferred. In case of disclosure of personal information in the event of a sale or transfer of some or all of AlterNet Media's assets, you may direct us not to transfer your personal information at any time by contacting us at the address below or by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#157c7b737a5574796170677b70613b7a6772). This policy does not protect information you post to any online bulletin board or other public forum within our website.
 
  **Contacting AlterNet**
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this website, you can contact:
-
-AlterNet  
-101 Spear St. Ste. 203  
-San Francisco, CA 94105  
-[info@alternet.org](mailto:info@alternet.org)
-
-AlterNet reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective.
+If you have any questions about this privacy statement, the practices of this site or your dealings with this website, you can contact: AlterNet Media, PO Box 21040, Washington, DC 20009 and [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6a03040c052a0b061e0f18040f1e4405180d). AlterNet Media reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective.
