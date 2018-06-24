@@ -1,108 +1,79 @@
-> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111093936id_/https%3A//aplia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624202452id_/https%3A//www.cengage.com/privacy) for the most accurate reproduction.*
 
-# Aplia
+# Privacy - Cengage
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our current online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage.
+##    
+Cengage is Committed to Respecting your Privacy
 
-* * *
+We have a Global Privacy Policy that has been implemented across all Cengage Learning Companies, that protects all the Personal Information we receive from you as well as information we receive from schools and other third parties. It protects information collected online as well as offline.
 
-What We Will NOT Do With Your Personal Information  
-Aplia will NOT do the following with your personal information:
+This Program and Policy set the standards for Cengage both as a Controller (for its own data) and as a Processor (for its clients).  Additionally, we have updated our Privacy Program controls to address new requirements under GDPR. For more information, please read our complete Notice, linked to below or contact [privacy@cengage.com](mailto:privacy@cengage.com).
 
-  * We will NOT sell your personal information, such as your name, email address or street address, to third parties.
-  * We will NOT use your email address to send you marketing materials.
+If you are an educator, parent, or student, Cengage Learning is a service provider to your school or organization; please reach out to the appropriate contact at your school or organization with questions or inquiries. This notice does not cover other organizations' sites that may be accessible via links on our sites. These sites have their own privacy policies and we encourage you to read them.
 
+We also want our privacy practices to be very clear, so you can interact with us in confidence. The statements and links below may answer your questions about how we handle your Personal Information. For a complete notice, view the [Cengage Privacy Notice](http://www.cengage.com/privacy/statement). If you have any other questions, please contact us.
 
+{{formPostErrorMessage.message}} [{{formPostErrorMessage.code}}] 
 
-* * *
+##  Privacy Program Highlights 
 
-When We Collect Your Personal Information  
-You are required to register with us before you can gain access to the course sections of our website. During registration you are required to give your name and email address. It is only necessary for you to register once.
+**We do not allow any children under 13 to register with Cengage, and we do not knowingly collect or use any Personal Information pertaining to children under 13 for our own purposes.**  If you believe that a child under 13 years of age has provided Personal Information to us, please contact [privacy@cengage.com](mailto:privacy@cengage.com) so that we may delete the information and take other appropriate steps to the protect the child.
 
-When you purchase a product or service, we collect your contact information (such as your address) and financial information (such as your credit/debit card information). We use the information you provide only to complete that product order or fulfill the service. We do not share this information with unaffiliated parties except to the extent necessary to complete that transaction. If we have trouble processing an order, we use the information to contact you.
+We have websites that enable parents and teachers to create accounts for children. We encourage parents and teachers to spend time online with children and to monitor their online activities.
 
-When you enroll in a course, we may ask you to provide your student identification number for that course. We only ask for your student ID when your teacher has instructed us to do so. You have the option to not provide your student ID; however, not providing it may affect your teacher's ability to determine your grades.
+_We also provide digital products for use by children in K-12 schools, sometimes done  through LMS integrations, but we only collect and process information pertaining to these children as a processor for the educational institutions.  We do not use identifiable K-12 student information for our own purposes.  Additionally, many student records are protected by the Family and Educational Rights Privacy Act (FERPA). For information on your K-12 school’s privacy policies, please contact the administration._
 
-* * *
+The [Cengage Privacy Notice](http://www.cengage.com/privacy/statement) describes how we handle the Personal Information we collect from college and higher-ed students, adult learners and others who register with Cengage and use our products for their own educational purposes. Here are the highlights of our practices:
 
-Why We Need Your Personal Information  
-Your personal information is used **only** for the following purposes:
-
-  * Your email address and password will be used to identify you as an authorized user of our services.
-  * Your name may be used to identify you when you participate in an Aplia multi-user interactive experiment, simulation, chat session, email exchange or bulletin board.
-  * Your email address may be used to send you your password if you forget it.
-  * Your email address may be used to contact you about site and service announcement updates. You are not able to unsubscribe from service announcements, which contain important information about the service.
-  * The contact and financial information you provide when you purchase a product or service will be used to complete that product order or fulfill the service.
-  * All of your personal information will be provided to your Educator for his/her administrative purposes. Generally he/she will use the information for grading and may use your email address to notify you of course issues. Please contact your Educator directly for any further questions relating to his/her use of your personal information.
-  * We may also use or disclose information to resolve disputes, investigate problems, or enforce our Terms and Conditions of Use. At times, we may review status and activity of multiple users to do so. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
+  * We collect Personal Information directly from you and other third parties (such as social media platforms, if you login to our applications from these sites).  We also collect information automatically when you use our products and applications. We use your Personal Information to provide you with the products and services and for related purposes (such as billing, customer service and product development). Depending on your preferences, we may send you marketing communications, including messages from our partners. You can opt-out of receiving marketing from us at any time by following the opt-in instructions contained in each communication.
+  * We may share your Personal Information with your school. For example, your instructors have access to all of the information generated by your use of the products you use for class. We may also provide Personal Information to your school as needed to investigate possible academic fraud or cheating. Your school uses your Personal Information in accordance with its own privacy policies.
+  * We may share your Personal Information with co-branding partners and other third parties with your consent. For example, you may use third-party apps via MindTap or MyCengage that provide services and features offered by third parties.
+  * We may share your Personal information with carefully selected third parties that provide products and services that may be of interest to you. For example, we may share information about pre-med students with companies that offer test prep services for medical school admissions.  If you do not want us to share your Personal Information with these third parties for their own marketing purposes, you can opt-out by contacting our Customer Service department by email at: [cengagebrain.support@cengage.com](mailto:cengagebrain.support@cengage.com) or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET).
+  * We may also share your Personal Information with other Cengage companies, our service providers (who do not use your information for their own purposes) and as required or permitted by law (such as in response to a subpoena or in connection with the sale of a business).
+  * If you have any questions about privacy, you can always contact us at [privacy@cengage.com](mailto:privacy@cengage.com).
 
 
 
-* * *
 
-Anonymous Information  
-We use non-identifying and aggregate information to better design our service and to share with third parties for the purposes of product development, research or statistical analysis. This is information which does not personally and specifically identify you but is derived from your use of our site. For example, we may tell a researcher that X number of individuals completed an experiment, but we would not disclose any personal information that could be used to identify those individuals.
+The [Cengage Privacy Notice](http://www.cengage.com/privacy/statement) describes how we handle the Personal Information we collect from teachers, instructors, school administrators, authors, editors, contributors and other educational professionals.  Here are the highlights of our practices:
 
-* * *
+  * We collect Personal Information directly from you as well as from your school and other third parties (such as social media platforms, if you login to our applications from these sites).  We also collect information automatically when you use our products and applications.
+  * We use your Personal Information to provide you with the products and services and for related purposes (such as billing, customer service and product development).
+  * Depending on your preferences, we may send you marketing communications, including messages from our partners. You can opt-out of receiving marketing from us at any time by following the opt-in instructions contained in each communication.
+  * We may share your Personal Information with your school or company. For example, we provide our institutional clients with reports about how their instructors (and their students) use our products, including information that compares instructors within an organization.
+  * We may share your Personal Information with co-branding partners and other third parties with your consent. For example, you may use third-party apps via MindTap or MyCengage that provide services and features offered by third parties. We may share your Personal Information with carefully-selected third parties that provide products and services that may be of interest to you.  For example, we may provide subscriber lists containing your contact information with other publishers that offer products or services to educational professionals. If you do not want us to share your information with these third parties for their own marketing, you can opt-out by contacting our Customer Service department by email at: [cengagebrain.support@cengage.com](mailto:cengagebrain.support@cengage.com) or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET).
+  * We may share your Personal Information with other Cengage companies, our service providers and as required or permitted by law (such as in response to a subpoena or in connection with the sale of a business).
+  * If you have any questions about privacy, you can always contact us at [privacy@cengage.com](mailto:privacy@cengage.com).
 
-Log Files  
-We use IP addresses (an identifier for computers on the Internet) to analyze trends, administer the site, gather broad demographic information for aggregate use, and comply with applicable laws. IP addresses are not linked directly to personally identifiable information.
 
-* * *
 
-Cookies  
-Our website uses cookies. A cookie is a piece of data stored on your personal computer to maintain an uninterrupted transaction with our services. Usage of a cookie by our website is in no way linked to any personally identifiable information while on our site. Once you close your browser or sign off our website, the cookie simply terminates. If you reject the cookie, you will not be able to use our web-based services.
+##  Additional Privacy Program Information 
 
-* * *
+#### Privacy Statement for Hosted School Websites
 
-Legal Disclosure of Information  
-Aplia may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Aplia; (b) protect and defend the rights or property of Aplia; and, (c) act under exigent circumstances to protect the personal safety of users of the Aplia site or the public.
+Certain Cengage businesses, like Ed2Go, administer websites that provide course materials and services for educational institutions and companies. Information collected on these websites is only used by us to support our clients and provide the services requested by the course instructors. We do not use this information for our own purposes. Most educational institution student course records are also protected by the Family and Educational Rights Privacy Act (FERPA). For information on your company or school's privacy policies, please contact the administration.
 
-* * *
+Our hosted websites may offer students and professionals the opportunity to interact directly with Cengage Learning.  If so, the [Cengage  Privacy Notice](http://www.cengage.com/privacy/statement) **** will apply to that information.
 
-Links  
-Our website contains links to other sites. Aplia is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website. 
+#### Social Security Number Policy Statement
 
-* * *
+Cengage, Inc. and its affiliates collect U.S. Social Security numbers and other sensitive Personal Information in the ordinary course of its business. We have implemented reasonable technical, physical and administrative safeguards to help protect sensitive Personal Information from unlawful use and unauthorized disclosure. All Cengage workers are required to follow these established safeguards, which include the following:
 
-Security Standards  
-We have established and continually maintain security standards and procedures to help us attempt to protect you from unauthorized access to confidential information about you, including through the Internet. Please read the Aplia Security Notice for a more complete description of these standards and procedures. 
+  * Access to sensitive Personal Information is limited to those workers and service providers who have a need to access the information to perform tasks for Cengage. Sensitive Personal Information is only disclosed to third parties in accordance with Cengage's established privacy and security policy.
+  * Cengage will only disclose sensitive Personal Information (1) to those service providers, auditors, advisors and/or successors in interest who are legally or contractually obligated to protect them, or (2) as required or permitted by law.
 
-* * *
 
-Aplia Employees  
-At Aplia, any employee access to personally identifiable information is authorized for business purposes only and is based on the sensitivity of the information and our employees' or agents' need to know. We remind employees regularly of their responsibility for using personally identifiable information. Disregard of this responsibility will result in disciplinary action, including termination in appropriate cases. 
 
-* * *
+If you have any questions, please contact us at [privacy@cengage.com.](mailto:privacy@cengage.com)
 
-Children Under 13  
-We have no way of distinguishing the age of individuals who access our website, and so we carry out the same privacy policy for individuals of all ages. If a child has provided us with personally-identifying information without parental or guardian consent, the parent or guardian should contact us to remove the information. 
+#### Your California Privacy Rights
 
-* * *
+California Civil Code Section 1798 allows California residents to ask companies with whom they have an established business relationship to provide certain information about the companies’ sharing of Personal Information with third parties for direct marketing purposes.
 
-Accuracy and Right to Correct  
-We continually strive to maintain complete and accurate information about you. To assist in maintaining this accuracy we provide you with a way to review and update your personal information. Should you ever believe that our records contain inaccurate or incomplete information about you, please notify us. We will use reasonable efforts to investigate your concerns and correct any inaccuracies. To attempt to protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices may contact us at [privacy@cengage.com](mailto:privacy@cengage.com) or by writing to:
 
-* * *
-
-Notification of Changes  
-Aplia reserves the right at any time to modify any of the foregoing policies. Aplia will let you know if we decide to change our privacy policy. We will post a notice of any changes on our website. As a result, you will always be aware of what information we collect, why we collect the information and how we use the information. If we decide to use personally identifiable information in a way that is different from what we said when we collected your information, we will contact you by email. You will have a choice as to whether or not we use your information in this different way. We will use information in accordance with the privacy policy under which the information was collected.
-
-* * *
-
-Compliance with Laws  
-Aplia is committed to complying with all applicable legal requirements in the operation of this website. Should you ever have reason to believe that Aplia's privacy policy does not comply with any applicable law, please notify us immediately. We will use reasonable efforts to investigate your concerns to ensure legal compliance.
-
-* * *
-
-Your Consent  
-By using our website, you consent to the collection and use of this information in the manner we describe. 
-
-* * *
-
-How to Contact Us  
-Should you have other questions or concerns about these privacy policies, please contact  [Aplia Support](https://www.aplia.com/#supportMain). 
-
-* * *
-
-Updated: September, 2007
+  
+Cengage, Inc.  
+Privacy Office  
+20 Channel Center  
+Boston MA 02210
