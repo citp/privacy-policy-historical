@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopwithmemama.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120012747id_/https%3A//shopwithmemama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwithmemama.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624082923id_/https%3A//shopwithmemama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shop With Me Mama
 
@@ -10,11 +10,19 @@ We may collect personally identification information from Users in a variety of 
 
 **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. The non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Sites, such as the operating system and the Internet service providers utilized and other similar information.
 
 **Web browser cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. The user may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. The user may choose to set their web browser to refuse cookies or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+** ** If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
 **How we use collected information**
 
@@ -37,9 +45,13 @@ The email address Users provide will only be used to respond to their inquiries,
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
+**What rights you have over your data**
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
 **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third-party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third-party service providers to help us operate our business and the Site or administer activities on our behalfs, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
 **Third party websites**
 
@@ -47,9 +59,25 @@ Users may find advertising or other content on our Site that link to the sites a
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. Here is an URL for more information about this practice and to know your choices about not having this information used by these companies: <http://www.networkadvertising.org/managing/opt_out.asp>
 
+**Embedded content from other websites**
+
+Articles on this site may include embedded content ( _e.g. videos, images, articles, etc._ ). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
 **Advertising**
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile nonpersonal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+**Comments**
+
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+
+An anonymized string created from your email address ( _also called a hash_ ) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: [https://automattic.com/privacy/.](https://automattic.com/privacy/) After approval of your comment, your profile picture is visible to the public in the context of your comment.
+
+**Media**
+
+If you upload images to the website, you should avoid uploading images with embedded location data ( _EXIF GPS_ ) included. Visitors to the website can download and extract any location data from images on the website.
 
 **Compliance with children’s online privacy protection act**
 
@@ -71,4 +99,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Moore, Idaho 83255  
 shopwithme52@yahoo.com
 
-This document was last updated on September 16, 2016
+This document was last updated on May 25, 2018.
