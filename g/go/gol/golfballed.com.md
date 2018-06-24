@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfballed.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223123709id_/http%3A//golfballed.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfballed.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624183359id_/http%3A//www.golfballed.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
