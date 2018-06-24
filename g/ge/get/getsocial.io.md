@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getsocial.io privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215213814id_/https%3A//getsocial.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsocial.io privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624142331id_/https%3A//getsocial.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _The current privacy police was last modified on: 3/23/2016_
 
-The following Privacy policy (“Privacy Policy”) applies to all services offered by GetSocial S.A. (“GetSocial”) via [http://getsocial.io](http://getsocial.io/) website and/or GetSocial applications and services (this set henceforth designated as "Site") to clients (“Clients”), including use of Site in their websites and/or apps (this set henceforth designated as “Clients Site”) and their users/customers (“End Users”) use of Site. 
+The following Privacy policy (“Privacy Policy”) applies to all services offered by GetSocial S.A. (“GetSocial”) via [https://getsocial.io](https://getsocial.io/) website and/or GetSocial applications and services (this set henceforth designated as "Site") to clients (“Clients”), including use of Site in their websites and/or apps (this set henceforth designated as “Clients Site”) and their users/customers (“End Users”) use of Site. 
 
 This Privacy Policy describes how GetSocial collects and uses the personal information of Clients and End Users collected by using Site. It also describes how Clients and End Users can access and update this information. Please review our Privacy Policy below and let us know if you have any questions or concerns. 
 
