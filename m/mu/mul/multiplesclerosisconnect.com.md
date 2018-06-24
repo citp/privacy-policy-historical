@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiplesclerosisconnect.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221200828id_/http%3A//www.multiplesclerosisconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplesclerosisconnect.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624064012id_/http%3A//www.multiplesclerosisconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Multiple Sclerosis Connect
 
