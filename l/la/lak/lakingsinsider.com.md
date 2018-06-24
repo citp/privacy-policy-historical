@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakingsinsider.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222122459id_/http%3A//lakingsinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakingsinsider.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624032620id_/http%3A//lakingsinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LA Kings Insider
 
