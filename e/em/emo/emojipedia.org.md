@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emojipedia.org privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227172247id_/https%3A//emojipedia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emojipedia.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624030812id_/https%3A//emojipedia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
