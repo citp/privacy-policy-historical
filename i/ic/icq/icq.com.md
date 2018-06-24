@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the icq.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516123043id_/https%3A//icq.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icq.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624104540id_/https%3A//icq.com/legal/privacypolicy/en) for the most accurate reproduction.*
 
 # ICQ Privacy Policy
 
-November 3, 2011
+December 25, 2017
+
+LLC Mail.Ru (registered at Moscow, Leningradskiy prospect, 39, bldg. 79, 125167), hereinafter named “Mail.Ru” and also “we”, “our” or “us”, assures that it will protect and observe the confidentiality of information received by Mail.Ru in the process of using ICQ Services by users. 
 
 The following Privacy Policy applies to your use of the ICQ Services (as defined below). The ICQ Services improves your online experience by offering you access to a variety of features, offerings and content including, the ICQ instant messaging software for desktop and mobile, the ICQ Web site, the ICQ Toolbar, development tools  and any other ICQ application, plug-in, service, software, component, functionality, program provided by ICQ (collectively the "ICQ Services" or "Services"). Your ongoing use of the ICQ Services signifies your consent to the information practices disclosed in this Privacy Policy. If you object to any provision of this Privacy Policy please do not proceed with registration and please do not use the ICQ Services.
 
@@ -69,8 +71,7 @@ The holder of an ICQ account and password has the ability and discretion to edit
 
 #####  Advertising and Added Value Services
 
-ICQ may display various types of advertising to you throughout the ICQ Services and may provide you with certain added value services to enhance your Web browsing experience(i.e. a comparison shopping feature). Certain advertising and added value services displayed may be based, among other things, on certain keywords you’ve entered, search queries, interests added to your profile (or other locations within the ICQ Service), or the content of a Website that you are viewing. For example, when visiting a sports Website ICQ may present you with ads related to sports gear or when viewing a camera on a certain ecommerce site ICQ may present with you alternative prices from other web sites. If you do not want to receive advertisements or added value services relevant to the content you may be viewing then you may opt out of the applicable service as follows:  
-Advertising on the ICQ Toolbar: Click the arrow on the ICQ button in your toolbar and then click on ‘Options’. Then uncheck ‘Activate ICQ Offers’.  
+ICQ may display various types of advertising to you throughout the ICQ Services and may provide you with certain added value services to enhance your Web browsing experience(i.e. a comparison shopping feature). Certain advertising and added value services displayed may be based, among other things, on certain keywords you’ve entered, search queries, interests added to your profile (or other locations within the ICQ Service), or the content of a Website that you are viewing. For example, when visiting a sports Website ICQ may present you with ads related to sports gear or when viewing a camera on a certain ecommerce site ICQ may present with you alternative prices from other web sites.  
 In addition ICQ and its advertisers may use ad network providers and other service providers, to help present customized content and advertisements on the ICQ Services and other Web sites. These providers may use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their content and advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. The ICQ Services may share certain non-personally identifiable information about you as an ICQ Services user (such as age or zip code) with certain ad network and service providers, to help them deliver more relevant content and advertisements through their networks. 
 
 #####  Our Commitment to Security
@@ -83,9 +84,9 @@ You should be aware that receiving files from third parties, via any application
 
 You should be aware that communications over the Internet are not secure unless they have been encrypted. ICQ does not encrypt your communications. In addition, your communications may be routed through different countries - that is the nature of the Internet. ICQ cannot accept any responsibility for any unauthorized access or loss of Data. 
 
-#####  European Union Members - International Transfer of Data
+#####  Governing Law
 
-The ICQ Services is international in scope. By using the ICQ Services you consent to your ICQ Services Information being sent and processed in other jurisdictions, including the United States and other jurisdictions outside the European Union and European Economic Area where there may be less stringent data protection laws. 
+This Agreement and the Terms of Service shall be governed by and construed in accordance with the laws of the Russian Federation, excluding its conflicts-of-law rules. Please note that your use of the ICQ Services may be subject to other local, state, national, and international laws. You expressly agree that exclusive jurisdiction for any claim or dispute with ICQ or relating in any way to your use of the ICQ Services resides in the courts of the Russian Federation in connection with any such dispute including any claim involving ICQ or its affiliates, subsidiaries, employees, contractors, officers, directors, telecommunication providers and content providers.
 
 #####  Special Note for Parents or Legal Guardians
 
