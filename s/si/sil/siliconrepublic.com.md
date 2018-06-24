@@ -1,91 +1,91 @@
-> *The following text is extracted and transformed from the siliconrepublic.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222132409id_/https%3A//www.siliconrepublic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconrepublic.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624112455id_/https%3A//www.siliconrepublic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Silicon Republic
 
-We created this Privacy Policy to demonstrate our firm commitment to privacy. The following discloses the information-gathering and dissemination practices of Siliconrepublic.com.
+Silicon Republic respects your right to privacy. We do not collect or store personal information when you visit our websites, Siliconrepublic.com and [Inspirefest.com](https://inspirefest.com/).
 
-For information on how Siliconrepublic.com uses cookies, please see our [Cookie Policy](https://www.siliconrepublic.com/cookie-policy).
+This Cookie Policy outlines our policy concerning the use of cookies and similar technologies.
 
-## **1\. Information automatically logged**
+We may update our Cookie Policy from time to time to reflect any changes in technology or legislation, or our data-use policies, which may affect the way in which cookies and similar technologies are used by us and how you, as a user, can manage them.
 
-We use your IP address and log user agents and referring address to help diagnose problems with our server, to administer our website and to identify unique users. Your IP address is also used to gather broad demographic information.
+## **What are cookies and how do we use them?**
 
-## **2\. Information usage**
+Cookies are small text files placed in your computer, tablet, mobile or other device. We use cookies to collect non-identifiable data to generate aggregated data reports, which help us to improve our website, user experience, content and event promotions, and to verify our audience figures to sponsor and partners.
 
-Siliconrepublic.com uses the information we gather for these general purposes:
+## **The information we collect and share**
 
-  * To enhance the user experience by determining how well each page performs, which enables us to build a better service for our users
-  * To fulfil users’ requests for certain products and services, such as sending out electronic newsletters
-  * To send you information you agreed to receive about topics we think will be of interest to you
+We use aggregated data to understand how visitors discover and navigate our site, such as:
 
-
-
-## **3\. Personally identifiable information provided to Siliconrepublic.com**
-
-Siliconrepublic.com will make your personally identifiable information available to other companies or people when:
-
-  * We have your consent to share the information
-  * We have engaged companies to work with or on behalf of Siliconrepublic.com to provide a product or service that you have requested, such as opt-in email announcements
-  * We respond to subpoenas, court orders or legal process; or we believe that your actions violate applicable laws or threaten the rights, property or safety of Siliconrepublic.com, our users, or others
+  * Clickstream data, which shows visitor traffic around our websites (for example: pages accessed, topics viewed, time on page, videos watched, outbound links clicked, social media shares and our most popular content and topics)
+  * The country and city where our users are located
+  * How users arrived at our sites, including which social network or platform referred them
 
 
 
-Siliconrepublic.com aggregates personally identifiable information and discloses such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+This information is used only to verify our audience profile and none of this data will be used to identify individual site visitors unless we are required to do so by law.
 
-If we sell Siliconrepublic.com, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue, or for other business purposes.
+None of the cookies we set on our site collect or store any personal information and we only share aggregated data with approved advertisers and partners.
 
-## **4\. Form submissions**
+## **Your choices**
 
-Certain online forms require users to give us personal information, such as email service subscriptions which require a user’s name and email address.
+More information about cookies and details of how to manage or disable them can be found on [www.aboutcookies.org](http://www.aboutcookies.org/).
 
-Personal information that is collected is used solely to send users information they have requested. You can be assured that our internal routines do not allow unauthorised access to our customer information, without unauthorised personnel being able to gain access. All aspects of information storage are safeguarded in a secure manner.
+If you wish to opt out of being retargeted via display and search ads, and/or advertised to via cookies’ tracking, [Your Ad Choices](http://www.youronlinechoices.com/ie/your-ad-choices) from the [Digital Advertising Alliance](https://youradchoices.com/about) (DAA) can help you control your information flow at a browser level (ie these settings will apply to all sites you visit in your browser). All accredited ad agencies and platforms participating in the DAA are expected to respect restrictions enacted here.
 
-Our email marketing service is powered by MailChimp, and you can learn more about how your subscription information is managed in [MailChimp’s Privacy Policy](http://mailchimp.com/legal/privacy/).
+Your device or browser may also enable you to control the collection of your data. Check your device or browser instructions for more information in this respect.
 
-For more information on our email marketing services, check out our [Subscribe](http://www.siliconrepublic.com/subscribe) page.
+## **What we do when you submit your email address**
 
-## **5\. Irish Data Protection Commissioner**
+If you volunteer personal information in an email or in the form of a newsletter subscription, enquiry or comment, the data will not be made available to any third party and will be used solely for the purpose for which it was intended.
 
-Further information on your data privacy rights are available on the website of the Irish Data Protection Commissioner, [www.dataprotection.ie](http://www.dataprotection.ie/).
+We use [MailChimp](http://www.mailchimp.com/) to help us deliver email marketing communications. MailChimp has the [TRUSTe Privacy Seal](https://www.trustarc.com/privacy-certification-standards/). TRUSTe is an independent third party that operates a globally recognised privacy trustmark. Please read [MailChimp’s privacy policy](https://mailchimp.com/legal/privacy/) for more information as you agree to this, and the transfer of your information to MailChimp, when you sign up to marketing communications from us.
 
-## **6\. Surveys and competitions**
+## **The cookies we use**
 
-From time to time our site requests information from users via surveys or competitions. Participation in these surveys or competitions is completely voluntary and the user therefore has a choice whether or not to disclose this information.
+This website uses Google Analytics, a web analytics service provided by Google. This service uses cookies to help Silicon Republic analyse how visitors use and access its websites. The information generated about your use of the website will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our websites, compiling reports on website activity for Siliconrepublic.com and Inspirefest.com, and providing other services relating to our website activity and internet usage.
 
-Information requested may include contact information (such as name and delivery address) and demographic information (such as address, age and income level). Contact information will be used to notify competition winners and award prizes. Survey information will be used for to monitor or improve the use and satisfaction of this site.
+For an added level of user privacy, we have enabled IP address anonymisation. With this enabled, Google Analytics anonymises the address as soon as technically feasible at the earliest possible stage of the collection network. This system has been designed to avoid storage of a full IP address.
 
-Promotions and competitions that run on Siliconrepublic.com may be sponsored by companies other than Silicon Republic, or may be co-sponsored by Silicon Republic and another company.
+You can find out how Google uses information from sites that use Google Analytics [here](https://www.google.com/policies/privacy/partners/). Further information on Google Analytics, including how to opt out, is available via the [Google Analytics Help Centre](http://www.google.com/analytics/learn/privacy.html).
 
-Silicon Republic or its sponsors or business partners may, with your expressed permission, send you emails from time to time regarding products and services using the information you have provided.
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google.
 
-## **7\. External links**
+You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website.
 
-This site contains links to other sites. Silicon Republic is not responsible for the privacy practices or the content of external websites.
+By using this website and allowing cookies to remain enabled, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-## **8\. Security**
+## In addition to cookies set by Google Analytics, the following cookies are also used by Silicon Republic:
 
-We take every precaution to protect all information collected. Sensitive information you submit via the website is both communicated to us and stored in a secure manner. All personal information communicated to us via submission forms is submitted over a secure channel, protected using SSL or TLS encryption with 128-bit key length (supported by modern browsers).
+##### **Google AdWords cookies**
 
-For information held on file, access is restricted to only those staff members that require that information to perform a specific job. All employees are kept up-to-date on our security and privacy practices.
+We use these cookies for the sole purpose of promoting and marketing our events, awards and campaigns.
 
-If you have any questions about the security on our website, please email [webmaster@siliconrepublic.com](mailto:webmaster@siliconrepublic.com).
+Google AdWords cookies remember that you have visited Siliconrepublic.com or Inspirefest.com. This information is shared with Google AdWords and we may use third parties to send you ads on our behalf after you leave our website. These ads will only be for services provided by Silicon Republic, such as promoting events and offers for our annual Inspirefest event.
 
-## **9\. Opt-out service**
+##### **Event-based cookies**
 
-Our site provides users the opportunity to opt out of receiving promotional/marketing information from our partners and Siliconrepublic.com.
+These are cookies set by approved third parties to enable you to book events on embedded forms on our sites, such as ticket booking for Inspirefest.com.
 
-You can check our subscription options on our [Subscribe](http://www.siliconrepublic.com/subscribe) page, or opt out of subscriptions on the [Unsubscribe](http://www.siliconrepublic.com/unsubscribe) page.
+We also use [Google Tag Manager](https://www.google.com/analytics/tag-manager/) to collect non-identifiable data on links clicked and videos played, which we use to monitor audience engagement and interest in companies and topics.
 
-## **10\. Correcting and updating**
+##### **Other third-party cookies**
 
-Siliconrepublic.com offers users the ability to change certain personally identifiable information (such as email addresses) collected during the sign-up process for specific services.
+Some cookies etc on our websites are not related to Siliconrepublic.com or Inspirefest.com. When you visit a page with content embedded from, for example, YouTube or Facebook, or social media widgets such as the Twitter share button, these service providers may use their own cookies.
 
-You can check our subscription options on our [Subscribe](http://www.siliconrepublic.com/subscribe) page, or opt out of subscriptions on the [Unsubscribe](http://www.siliconrepublic.com/unsubscribe) page.
+We do not control the use of these cookies as they can only be accessed by the party that originally set them. You should check the third-party websites for more information about these cookies.
+
+## **What we share with advertisers, partners and sponsors**
+
+We only ever share aggregated data on audience behaviour and do not share personally identifiable information with our advertisers, partners and sponsors.
+
+We only carry advertisements from trusted partners and/or their agents. We do not carry advertisements from ad exchanges or advertising networks.
+
+Some advertisers may use advertisements containing cookies that we do not control. We ensure that all ads on Siliconrepublic.com are delivered though [DoubleClick](https://www.doubleclickbygoogle.com/) with non-personalised ad targeting enabled, which means ads served are not based on a user’s past behaviour. You can learn more about non-personalised ads [here](https://support.google.com/dfp_premium/answer/9005435).
 
 ## **Contacting the website**
 
-If you have any questions about this privacy statement or the security practices of this site, please email [webmaster@siliconrepublic.com](mailto:webmaster@siliconrepublic.com) or submit your query in writing to Silicon Republic Knowledge & Events Management Ltd, Digital Exchange, Crane Street, Dublin 2, Ireland.
+If you have any questions about this privacy statement or the security practices of this site, please email [webmaster@siliconrepublic.com](mailto:webmaster@siliconrepublic.com) or submit your query in writing to Silicon Republic Knowledge & Events Management Ltd, Digital Exchange, Crane Street, Dublin 8, Ireland.
 
-**Updated: May 20th 2015**
+**Updated: 24 May 2018**
 
-_[Padlock image](http://www.shutterstock.com/pic-219342559/stock-photo-pair-of-locked-padlocks-on-the-bridge-as-a-symbol-of-eternal-love-romance-marriage-shallow-depth.html) by [Photosebia](http://www.shutterstock.com/gallery-594583p1.html) via Shutterstock_
+[_Padlock image_](http://www.shutterstock.com/pic-219342559/stock-photo-pair-of-locked-padlocks-on-the-bridge-as-a-symbol-of-eternal-love-romance-marriage-shallow-depth.html) _by_[ _Photosebia_](http://www.shutterstock.com/gallery-594583p1.html) _via Shutterstock_
