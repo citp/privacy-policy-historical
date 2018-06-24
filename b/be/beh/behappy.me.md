@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the behappy.me privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131094528id_/https%3A//behappy.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behappy.me privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624140100id_/https%3A//behappy.me/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Behappy.me
+
+[Download the pdf](https://web.archive.org/assets/files/BH_Privacy.pdf)
 
 It is our policy to respect your privacy regarding any information we may collect while operating our website.
 
