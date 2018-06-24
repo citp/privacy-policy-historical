@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikudo.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230033013id_/http%3A//www.bikudo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikudo.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624232657id_/http%3A//www.bikudo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bikudo
 
@@ -44,7 +44,7 @@ Bikudo is not in the business of selling your information. We consider this info
 
 ## Cookies
 
-See [Information We Collect](http://www.bikudo.com/privacy-policy#cookies) for more information about our cookies.
+See [Information We Collect](https://www.bikudo.com/privacy-policy#cookies) for more information about our cookies.
 
 ## Your Choices
 
@@ -72,7 +72,7 @@ Bikudo takes reasonable steps to protect the Personal Data provided via the Serv
 
 ## Other Terms and Conditions
 
-Your access to and use of the Services is subject to the Terms of Use at [www.bikudo.com/terms-of-service](http://www.bikudo.com/terms-of-service).
+Your access to and use of the Services is subject to the Terms of Use at [www.bikudo.com/terms-of-service](https://www.bikudo.com/terms-of-service).
 
 ## Changes to Bikudo's Privacy Policy
 
@@ -82,7 +82,7 @@ The Services and our business may change from time to time. As a result, at time
 
 To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. Please also feel free to contact us if you have any questions about Bikudo's Privacy Policy or the information practices of the Services.
 
-You may contact us as follows: [Contact Customer Service](http://www.bikudo.com/contact).  
+You may contact us as follows: [Contact Customer Service](https://www.bikudo.com/contact).  
 
 
 Bikudo Ltd, Sti.  
