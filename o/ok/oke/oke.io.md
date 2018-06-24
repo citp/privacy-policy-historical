@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oke.io privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220134040id_/http%3A//oke.io/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oke.io privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624193413id_/http%3A//oke.io/pages/privacy) for the most accurate reproduction.*
 
 # Free URL Shortner Privacy Policy
 
@@ -8,7 +8,7 @@ Privacy Policy
 
 At oke.io, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by oke.io and how we use it.
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at contact@oke.io.
 
 **Log Files**
 
