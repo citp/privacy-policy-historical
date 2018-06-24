@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the physio-pedia.com privacy policy that was archived on 2017-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170727195435id_/http%3A//www.physio-pedia.com/Physiopedia%3APrivacy_and_Cookie_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physio-pedia.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624145239id_/http%3A//www.physio-pedia.com/Physiopedia%3APrivacy_and_Cookie_Policy) for the most accurate reproduction.*
 
 # Physiopedia:Privacy and Cookie Policy - Physiopedia
 
 ## 1\. PRIVACY POLICY
 
-This privacy policy applies to Physiopedia C.I.C. (company number 08530802) and its group companies, which include Physiopedia Plus Ltd (company number 07878211) ( **“we”, “us”, “our”** or **“Physiopedia”** ) are committed to protecting and respecting your privacy. 
+This privacy policy applies to Physiopedia (charity number 1173185, company number 08530802) and ( **“we”, “us”, “our”** or **“Physiopedia”** ) are committed to protecting and respecting your privacy. 
 
-This policy, together with our [Terms of Service](http://www.physio-pedia.com/Physiopedia:Terms_of_Service) (and any other documents referred to in them), sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully. By using www.physio-pedia.com (the “Site”) and/or sharing personal information with Physiopedia and its community of users, you are accepting and consenting to the practices described in this policy. 
+This policy, together with our [Terms of Service](https://www.physio-pedia.com/Physiopedia:Terms_of_Service) (and any other documents referred to in them), sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully. By using www.physio-pedia.com (the “Site”) and/or sharing personal information with Physiopedia and its community of users, you are accepting and consenting to the practices described in this policy. 
 
 For definitions of terms used in this Privacy Policy and FAQs, see Section 1.19. 
 
 ### 1.1 What This Privacy Policy Covers
 
-This privacy policy pertains to the use of the Site, and (i) the information and materials made available on the Site (the “ **Physiopedia Wiki** ”); (ii) the Physiopedia Plus services; and (iii) the related Physiopedia services, (collectively, the “ **Physiopedia Service** ”), and covers how Physiopedia treats personal information that it collects and receives from its users. 
+This privacy policy pertains to the use of the Site, and (i) the information and materials made available on the Site (the “ **Physiopedia Wiki** ”); and (ii) the related Physiopedia services, (collectively, the “ **Physiopedia Service** ”), and covers how Physiopedia treats personal information that it collects and receives from its users. 
 
-This Privacy Policy is incorporated into and is subject to the Physiopedia Terms of Service. Your use of the Site, the Physiopedia Service and any information you provide on the Site is subject to the terms of this Privacy Policy and the Physiopedia Terms of Service. 
+This Privacy Policy is incorporated into and is subject to the Physiopedia [Terms of Service](https://web.archive.org/Physiopedia:Terms_of_Service "Physiopedia:Terms of Service"). Your use of the Site, the Physiopedia Service and any information you provide on the Site is subject to the terms of this Privacy Policy and the Physiopedia [Terms of Service](https://web.archive.org/Physiopedia:Terms_of_Service "Physiopedia:Terms of Service"). 
 
 ### 1.2 What this Privacy Policy doesn’t cover
 
@@ -24,9 +24,9 @@ This Privacy Policy applies only to the Site, the Physiopedia Services and any o
 
 #### 1.2.2 Advertisements
 
-Physiopedia uses technology to send, directly to your browser, the advertisements and links that appear on the Site. Physiopedia automatically receives your IP address when this happens. Physiopedia may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of the advertisements and to personalize the advertising content (including pop-up adverts) to a certain audience. 
+Physiopedia automatically receives your IP address when you visit the Site. Physiopedia uses this technology to send, directly to your browser, the advertisements and related links that appear on the Site. Physiopedia may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of the advertisements and to personalise the advertising content (including pop-up adverts) to a certain audience. 
 
-See section 1.1 of the [Cookie Policy](http://www.physio-pedia.com/Physiopedia:Privacy_and_Cookie_Policy#1._COOKIE_POLICY). 
+See section 2.1 of the [Cookie Policy](https://www.physio-pedia.com/Physiopedia:Privacy_and_Cookie_Policy#1._COOKIE_POLICY). 
 
 ### 1.3 The Information Physiopedia Collects and How It Is Used
 
@@ -34,9 +34,9 @@ See section 1.1 of the [Cookie Policy](http://www.physio-pedia.com/Physiopedia:P
 
 The information Physiopedia collects is set out in this section 1.3. Failure to provide such information may mean that you are unable to receive the Physiopedia Services or register as an Editor. 
 
-You do not need to register for a Physiopedia account in order to visit and use the Site, however, you must subscribe to use the Physiopedia Plus services and register to be a Physiopedia Editor. For these no-registration-required services Physiopedia collects the following information: 
+You do not need to register for a Physiopedia account in order to visit and use the Site, however, you must register to be a Physiopedia Editor. For these no-registration-required services Physiopedia collects the following information: 
 
-**General:** You may give us information about you by filling in forms on our Site or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you apply for a Physiopedia account, subscribe to Physiopedia Plus, register for an online course or event, or other social media functions on our Site, [enter a competition, promotion or survey] and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and professional information. 
+**General:** You may give us information about you by filling in forms on our Site or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you fill in the contact form, apply for a Physiopedia account, register for an online course or event, or other social media functions on our Site, enter a competition, promotion or survey, and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, personal description and professional information. 
 
 **Cookies** : The Site uses cookies to distinguish you from other users of the Site. This helps Physiopedia to provide you with a good experience when you browse the Site and also allows us to improve the Site. For detailed information on the cookies we use and the purposes for which we use them, see our Cookie Policy. 
 
@@ -46,11 +46,11 @@ You do not need to register for a Physiopedia account in order to visit and use 
 
 #### 1.3.2 Additional information collected from Editors
 
-In order to contribute content to the Site you must register as a Physiopedia “Editor” (see the [Terms of Service](http://www.physio-pedia.com/Physiopedia:Terms_of_Service)). Physiopedia collects the non-personal information described above at Section 1.3.1 from Editors, and in addition, Physiopedia collects the following types of personal information from Editors for the following purposes (personal information is information that personally identifies you, such as your name, e-mail address, home address, phone numbers, or other data which can be reasonably linked to such information): 
+In order to contribute content to the Site you must register as a Physiopedia “Editor” (see the [Terms of Service](https://www.physio-pedia.com/Physiopedia:Terms_of_Service)). Physiopedia collects the non-personal information described above at Section 1.3.1 from Editors, and in addition, Physiopedia collects the following types of personal information from Editors for the following purposes (personal information is information that personally identifies you, such as your name, e-mail address or other data which can be reasonably linked to such information): 
 
-**Information you provide** : When you register to become an Editor, Physiopedia asks you for certain personal information. Examples of such information include your full name, e-mail address, professional credentials and the profile information described below. We use the personal information that you provide to respond to your questions, provide you the specific services you select, send you emails about Site maintenance and updates, and inform you of significant changes to this Privacy Policy. 
+**Information you provide** : When you register to become an Editor, Physiopedia asks you for certain personal information. Examples of such information include your full name, e-mail address, professional credentials and the profile information described below. We use the personal information that you provide to verify your professional credentials, respond to your questions, provide you the specific services you select, send you emails about Site maintenance and updates, and inform you of significant changes to this Privacy Policy. 
 
-**Profile Information** : Editors must disclose in their public profiles their corporate and academic affiliations and they must disclose if they receive, or expect to receive, any form of compensation for the content they contribute to Physiopedia, or any compensation related to medicine, medical information, or products and services related to the body. This is standard practice in the medical field and those policies carry over to the Physiopedia community, and are meant to encourage a “neutral point of view” with respect to Physiopedia contributions. 
+**Profile Information** : Editors must disclose in their public profiles their professional credentials, corporate and academic affiliations, and they must disclose if they receive, or expect to receive, any form of compensation for the content they contribute to Physiopedia, or any compensation related to medicine, medical information, or products and services related to the body. This is standard practice in the medical field and those policies carry over to the Physiopedia community, and are meant to encourage a “neutral point of view” with respect to Physiopedia contributions. 
 
 **Your IP Address** : In addition to your profile, you may also be identified in the Physiopedia system by your IP address, the numerical address of the location from which you are connecting to the Site. That IP address may be traceable specifically to your computer, or it may only be traceable to the Internet Service Provider (ISP) you use to access the Internet, depending on what type of connection you have. In either case, Physiopedia will have the ability to link your IP address to your contributions on the Site, which helps to prevent abuse and fraud. 
 
@@ -66,9 +66,9 @@ In order to contribute content to the Site you must register as a Physiopedia �
 
 **Your contacts** : In order to invite others to connect with you directly in Physiopedia, you may enter their names and email addresses. This information will be used by Physiopedia to send your invitation including a message that you write. The names and email addresses of people that you invite will be used only to send your invitation and reminders. You may also choose to manually enter or upload data about your contacts on Physiopedia. All information entered as private will only be viewable by you and will not be searchable by others in the Physiopedia network without your permission. All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy as cover your own personal information. **If you enter the names and email addresses of any such third parties, you warrant that you have the consent of such third party to enter such personal data and thereby submit this to Physiopedia.**
 
-### 1.4 Physiopedia Plus
+### 1.4 Physioplus
 
-Please refer to our Physiopedia Plus terms and conditions which set out how we use the personal information you provide to us for the purpose of receiving the Physiopedia Plus services. 
+Please refer to our Physioplus [terms and conditions](https://members.physio-pedia.com/home/physiopedia-plus-terms-and-conditions/) and [privacy and cookie policy](https://members.physio-pedia.com/physiopedia-plus-privacy-and-cookie-policy/) which set out how we use the personal information you provide to us for the purpose of receiving the Physioplus services. 
 
 ### 1.5 Public areas of Physiopedia
 
@@ -78,7 +78,7 @@ The Site is open to public viewing. Any information shared (including personal i
 
 **Sharing of information between Physiopedia companies**
 
-If you subscribe to our Physiopedia Plus Services, information (both personal and non-personal information) is shared between Physiopedia C.I.C. and Physiopedia Plus Limited in order for Physiopedia to provide or improve services. 
+If you subscribe to our Physiopedia Services, information (both personal and non-personal information) is shared between Physiopedia and Physioplus in order for Physiopedia and Physioplus to provide or improve services. 
 
 **Sharing of information with professional associations**
 
@@ -94,16 +94,17 @@ Physiopedia may share non-personal information (such as anonymous website use da
 
 **Legal Requirements**
 
-If Physiopedia is under a duty to disclose or share your personal data in order to comply with any legal obligations, in order to enforce or apply our [terms of use](http://www.physio-pedia.com/Physiopedia:Terms_of_Service) or Physiopedia Plus Terms and Conditions [insert link] and other agreements; or to protect the rights, property, or safety of Physiopedia and its users or others. 
+If Physiopedia is under a duty to disclose or share your personal data in order to comply with any legal obligations, in order to enforce or apply our [terms of use](https://www.physio-pedia.com/Physiopedia:Terms_of_Service) and other agreements; or to protect the rights, property, or safety of Physiopedia and its users or others. 
 
 **Breach of Physiopedia Terms**
 
-Physiopedia also reserves the right to disclose collected Information that Physiopedia believes is appropriate or necessary to enforce Physiopedia’s Terms of Service, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Site, and to exercise or protect the rights, property, or personal safety of Physiopedia, Physiopedia users or others. 
+Physiopedia also reserves the right to disclose collected Information that Physiopedia believes is appropriate or necessary to enforce Physiopedia’s [Terms of Service](https://web.archive.org/Physiopedia:Terms_of_Service "Physiopedia:Terms of Service"), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Site, and to exercise or protect the rights, property, or personal safety of Physiopedia, Physiopedia users or others. 
 
 **Other**
 
-In the event that Physiopedia is acquired by or merged with a third party entity, Physiopedia reserves the right to transfer or assign the information Physiopedia has collected from you as part of such merger, acquisition, sale, or other change of control. If Physiopedia is involved in a change of control Physiopedia will provide notice before personal information becomes subject to a different privacy policy.   
-In the unlikely event of Physiopedia’s bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, Physiopedia may not be able to control how your personal information is treated, transferred, or used. 
+In the event that Physiopedia is acquired by or merged with a third party entity, Physiopedia reserves the right to transfer or assign the information Physiopedia has collected from you as part of such merger, acquisition, sale, or other change of control. If Physiopedia is involved in a change of control Physiopedia will provide notice before personal information becomes subject to a different privacy policy. 
+
+In the unlikely event of Physiopedia’s bankruptcy, insolvency, reorganisation, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, Physiopedia may not be able to control how your personal information is treated, transferred, or used. 
 
 Except as described in this Privacy Policy, Physiopedia will not share your personal information with third parties unless you have elected to “opt-in” to such sharing of your information. 
 
@@ -131,8 +132,6 @@ Unfortunately, the transmission of information via the internet is not completel
 
 We will store your personal data: 
 
-in respect of Physiopedia Plus Services: indefinitely unless you ask us to remove it; 
-
 #### 1.10.1 in respect of Editors:
 
 only for the period during which you are registered as an Editors, except that we may retain for example, your name for the purpose of crediting your work in respect of any articles and other works on the Site for such period as such works remain on the Site; and 
@@ -151,7 +150,7 @@ Data protection legislation gives you the right to access information held about
 
 ### 1.13 Complaints, problems and correcting and removing personal information
 
-If you have a complaint or problem or would like any personal data relating to you corrected or deleted, please e-mail us at rachael@physio-pedia.com We will forward your complaint, problem or request to the appropriate internal Physiopedia department for a response or resolution. Personal data will be corrected or deleted, as applicable as soon as possible following receipt of the request. We try to answer every e-mail within 2 business days, but may not always able to do so. 
+If you have a complaint or problem or would like any personal data relating to you corrected or deleted, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#067467656e67636a46766e7f756f692b7663626f672865696b) We will forward your complaint, problem or request to the appropriate internal Physiopedia department for a response or resolution. Personal data will be corrected or deleted, as applicable as soon as possible following receipt of the request. We try to answer every e-mail within 2 business days, but may not always able to do so. 
 
 If you do not receive adequate resolution of a privacy related problem, you may write to Physiopedia’s Privacy Office at: 
 
@@ -163,17 +162,19 @@ United Kingdom.
 
 We will notify you within 30 days of receipt of your letter to confirm your personal identifiers have been corrected or removed. 
 
-You may also lodge a complaint with the UK Information Commissioner’s Office ([http://ico.org.uk](http://ico.org.uk/)). 
+You may also lodge a complaint with the UK Information Commissioner’s Office ([http://ico.org.uk](https://ico.org.uk/)). 
 
 ### 1.14 Limitations on Removing or Changing Information
 
 Upon your request, we will delete your personal information from our active databases and where feasible from our back-up media. You should be aware that it may not be technologically possible to remove each and every record of the information you have provided to Physiopedia from our servers. 
 
+### 1.14 Notification of data breaches
+
+In the event of a data breach we will alert all affected Site users within 72 hours. 
+
 ### 1.15 Our Commitment to Children's Privacy
 
-Protecting the privacy of young children is especially important. No part of Physiopedia’s Site is directed to persons under 13. If you are under 
-
-13 years of age, then please do not use or access the Site at any time or in any manner. Physiopedia does not knowingly collect personal information on the Site from persons under 18 years of age. 
+Protecting the privacy of young children is especially important. No part of Physiopedia’s Site is directed to persons under 16. If you are under 16 years of age, then please do not use or access the Site at any time or in any manner. Physiopedia does not knowingly collect personal information on the Site from persons under 18 years of age. 
 
 ### 1.16 International Users
 
@@ -181,12 +182,13 @@ The Site is hosted in the United Kingdom and is intended for and directed to use
 
 ### 1.17 Changes to this Policy
 
-This Privacy Policy may change from time to time. Physiopedia will post those changes on this page and, if the changes are significant, Physiopedia will provide a prominent notice. Please revisit this page frequently to stay aware of any material changes.   
+This Privacy Policy may change from time to time. Physiopedia will post those changes on this page and, if the changes are significant, Physiopedia will provide a prominent notice. Please revisit this page frequently to stay aware of any material changes. 
+
 Your continued use of the Site constitutes your agreement to this Privacy Policy and any future revisions. Please exit the Site immediately if you do not agree to the terms of this Privacy Policy or any revised policy. 
 
 ### 1.18 Contact
 
-For more information about Physiopedia privacy practices, or if you have any questions about this Privacy Policy, please e-mail rachael@physio-pedia.com or write to this address: 
+For more information about Physiopedia privacy practices, or if you have any questions about this Privacy Policy, please e-mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#780a191b10191d14380810010b111755081d1c1119561b1715) or write to this address: 
 
 Physiopedia,   
 10 Queen Street Place,   
@@ -220,15 +222,15 @@ Physiopedia defines “collected information” as both the personal and non-per
 
 In order for you to use some Physiopedia services, Physiopedia needs to be able to authenticate you and protect your preferences and personal information from unauthorised access. To do that, Physiopedia asks that you sign up for a unique account, typically secured by your unique email address, a password and your name. No account information is shared with anyone other than Physiopedia except as specified in the Privacy Policy or with your consent. 
 
-## 1\. COOKIE POLICY
+## 2\. COOKIE POLICY
 
 The Site uses cookies to distinguish you from other users of the Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. When you click on a link displayed on Physiopedia, Physiopedia records the fact that someone using your browser, as identified by your unique cookie, clicked on that link. 
 
-### 1.1 What is a cookie?
+### 2.1 What is a cookie?
 
 A cookie is a small file containing a unique string of letters and numbers that Physiopedia stores on your browser or the hardware of your computer if you agree. Cookies contain information that is stored on your computer’s hard drive. On subsequent visits to the Site, the cookie allows the Site to recognise your browser. The unique string of letters and numbers in a cookie may store user preferences and other information. You can reset your browser to refuse all cookies or to notify you when a cookie is being sent. However, some features or services of the Site may not function properly without cookies. 
 
-### 1.2 Information about our use of cookies
+### 2.2 Information about our use of cookies
 
 We use the following cookies: 
 
@@ -245,16 +247,12 @@ Getsitecontrol  |  _gs  |  Used to identify the users browser, operating system,
 _gu  |  Used to distinguish users.  |  10 years   
 _gw  |  Records widgets previously displayed to user.  |  1 year   
 Cloudflare  |  _cfduid  |  Controls site access security  |  1 year   
-Additional cookies used by Physiopedia Plus   
   
-Wordpress security plugin  |  icwp-wpsf  |  Tracks logged in users for security purposes  |  Indefinitely   
-Bad behaviour plugin  |  bb2_screenr  |  Spam prevention  |  End of browser session   
-  
-### 1.3 Blocking cookies
+### 2.3 Blocking cookies
 
 You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of the Site. 
 
-### 1.4 How do I delete a cookie?
+### 2.4 How do I delete a cookie?
 
 Deleting cookies is different for each browser. These are instructions for popular browsers used. If you don't use any of these browsers refer to your browser's Web site for instructions. 
 
@@ -283,6 +281,6 @@ Safari:
 
 
 
-### 1.5 Expiry of cookies
+### 2.5 Expiry of cookies
 
 Except for essential cookies, all cookies will expire after 30 days. 
