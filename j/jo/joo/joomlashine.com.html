@@ -1,265 +1,74 @@
-<!--The following is the downloaded HTML source of the joomlashine.com privacy policy that was archived on 2017-08-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170828231913id_/https%3A//www.joomlashine.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joomlashine.com privacy policy that was archived on 2018-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624133711id_/https%3A//www.joomlashine.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-gb" dir="ltr"><head>
+<!DOCTYPE html><html lang="en-gb" dir="ltr"><head><link rel="manifest" href="/manifest.json"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NQ4QMWV"></script><script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script type="text/javascript">
+
+                            var OneSignal = window.OneSignal || [];
+OneSignal.push(function() {
+                            	OneSignal.init({
+                            	  appId: "4415021a-db97-4b0b-9f62-33d435648713",
+                            	});
+
+                            	OneSignal.on("subscriptionChange", function (isSubscribed) {
+                            		if (isSubscribed)
+                            		{
+                                        OneSignal.getUserId(function(userId) {
+
+                            				var dataForm = [{name: "jsn_vistor_id", value:"a5c33e3ddb17778c47c408929298af81"}, {name: "player_id", value: userId}, {name: "41ed10336fbae46c9ec40a96a800736f", value:"1"}]
+
+                                            jQuery.ajax({
+                            					type: "POST",
+                            					dataType: "json",
+                            					url: "https://www.joomlashine.com/index.php?option=com_lightcart&view=onesignal&task=onesignal.addSubscriber&tmpl=component",
+                            					data: dataForm,
+                            					success: function (response)
+                            					{
+                            					}
+                            				});
+                            			})
+                            		}
+                             	});
+                        });</script>
+
 <link href="https://www.joomlashine.com/privacy-policy.html" rel="canonical">
-
-<!-- If responsive is disabled, don't create viewport -->
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQUAV1JaGwEGXFdRAAQE"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<script type="text/javascript">try
+{
+dataLayer = [{"userLoginStatus": "Not logged-in", "ABTestingCampaign": "", "ABTestingCampaignPrice": "", "ABTestingCampaignPage": "", "DiscountCampaign": ""}];
+}
+catch(e)
+{
+if (window.console && window.console.log)
+{
+console.log(e.message);
+}
+}</script>
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NQ4QMWV');
+</script>
+<!-- End Google Tag Manager -->		<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
 <base href="https://www.joomlashine.com/privacy-policy.html">
 <meta name="author" content="Stephany">
-<meta name="description" content="We offer you 30+ premium and free hi-quality Joomla templates &amp; Joomla extensions. All have outstanding designs, powerful features and easy-to-use interface">
+<meta property="og:image" content="https://joomlashine-woorocketsvietna.netdna-ssl.com/images/v6/general/joomlashine/logo.png">
+<meta name="description" content="Introduction This Privacy Policy will comes to effect from 25 May, 2018. We at JoomlaShine (referred to as &quot;JoomlaShine&quot;, &quot;we&quot;, &quot;us&quot;) respect your privacy and w...">
 
 <title>Privacy policy | JoomlaShine</title>
+<link href="https://www.joomlashine.com/kq" rel="shortlink">
+<link href="https://joomlashine-woorocketsvietna.netdna-ssl.com/templates/jsn_shine_pro/niches/ngo/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 
 
-
-
-
-
+<link href="https://joomlashine-woorocketsvietna.netdna-ssl.com/cache/jsnminifyhtml/497cae2db968c1a0c9799b670753bc93-v91.css?771af92bfac153512a58efe49f048311" rel="stylesheet" media="all">
 <style>
 .sunfw-scrollup {background: #F86201;color: #fff;}
 </style>
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!--[if lt IE 9]>
-<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
-<!-- Google Tag Manager -->
-<!-- End Google Tag Manager -->
-<!-- HEAP ANALYTICS -->
-<!-- HEAP ANALYTICS -->
-
-
-
-
-
-
-</head>
-<body id="sunfw-master" class="effect-top-push sunfw-offCanvas effect-right-slide effect-bottom-push sunfw-offCanvas effect-left-push  sunfw-direction-ltr  sunfw-com-content sunfw-view-article sunfw-itemid-1134">
-<div id="sunfw-wrapper" class="sunfw-content ">
-<div id="sunfw_section_header" class="sunfw-section shine-header"><div class="container"><div id="row_row-2" class="row ">
-<div id="column_column-3" class="col-xs-12 col-sm-4 col-md-2 col-lg-2 shine-logo-head visible-lg visible-md visible-sm visible-xs"><div class="layout-item">
-<div class="sunfw-logo visible-lg visible-md visible-sm visible-xs">
-<a href="/index.php" title="JoomlaShine | Hi-quality Joomla 3.x templates &amp; extensions">
-<img class="logo hidden-xs hidden-sm img-responsive " alt="JoomlaShine | Hi-quality Joomla 3.x templates &amp; extensions" src="https://cdn1.joomlashine.com/templates/jsn_shine_pro/niches/ngo/images/header_logo.svg">
-<img class="logo hidden-lg hidden-md img-responsive " alt="JoomlaShine | Hi-quality Joomla 3.x templates &amp; extensions" src="https://cdn1.joomlashine.com/templates/jsn_shine_pro/niches/ngo/images/header_logo.svg">
-</a>
-</div>
-</div></div>
-<div id="column_column-4" class="col-xs-12 col-sm-4 col-md-7 col-lg-7 ngo-mainmenu visible-lg visible-md visible-sm visible-xs"><div class="layout-item">
-<div class=" visible-lg visible-md visible-sm visible-xs">
-<nav class="navbar navbar-default sunfw-menu-head sunfwMenuFading" role="navigation">
-<div class="navbar-header">
-<button type="button" class="navbar-toggle collapsed btn btn-danger" data-toggle="collapse" data-target="#menu_item_menu" aria-expanded="false">
-<i aria-hidden="true" class="fa fa-bars"></i>
-</button>
-</div>
-<div class="collapse navbar-collapse sunfw-menu" id="menu_item_menu"><ul class="nav navbar-nav sunfw-tpl-menu"><li class="item-1137"><a class="clearfix" href="/joomla-templates.html"><span data-title="Templates"><span class="menutitle">Templates</span></span></a></li><li class="item-1138 parent dropdown-submenu"><a class="clearfix dropdown-toggle" href="/joomla-extensions.html"><span data-title="Extensions"><span class="menutitle">Extensions</span></span><span class="caret"></span></a><ul class="dropdown-menu"><li class="item-1551"><a class="clearfix" href="/joomla-extensions/jsn-pagebuilder-2.html"><span data-title="JSN PageBuilder 2"><span class="menutitle">JSN PageBuilder 2</span></span></a></li><li class="item-1552"><a class="clearfix" href="/joomla-extensions/jsn-poweradmin.html"><span data-title="JSN PowerAdmin"><span class="menutitle">JSN PowerAdmin</span></span></a></li><li class="item-1553"><a class="clearfix" href="/joomla-extensions/jsn-imageshow.html"><span data-title="JSN ImageShow"><span class="menutitle">JSN ImageShow</span></span></a></li><li class="item-1554"><a class="clearfix" href="/joomla-extensions/jsn-uniform.html"><span data-title="JSN UniForm"><span class="menutitle">JSN UniForm</span></span></a></li><li class="item-1555"><a class="clearfix" href="/joomla-extensions/jsn-easyslider.html"><span data-title="JSN EasySlider"><span class="menutitle">JSN EasySlider</span></span></a></li><li class="item-1556"><a class="clearfix" href="/joomla-extensions/jsn-mobilize.html"><span data-title="JSN Mobilize"><span class="menutitle">JSN Mobilize</span></span></a></li></ul></li><li class="item-1141"><a class="clearfix" href="/product-packages.html"><span data-title="Packages"><span class="menutitle">Packages</span></span></a></li><li class="item-1849"><a class="clearfix" href="/joomla-services.html"><span data-title="Services"><span class="menutitle">Services</span></span></a></li><li class="item-1148 parent dropdown-submenu"><a class="clearfix dropdown-toggle" href="/contact-us.html"><span data-title="Support"><span class="menutitle">Support</span></span><span class="caret"></span></a><ul class="dropdown-menu"><li class="item-1142"><a class="clearfix" href="/documentation.html"><span data-title="Documentation"><span class="menutitle">Documentation</span></span></a></li><li class="item-1549"><a class="clearfix" href="/forums.html"><span data-title="Forum"><span class="menutitle">Forum</span></span></a></li></ul></li><li class="item-1146"><a class="clearfix" href="/blog.html"><span data-title="Blog"><span class="menutitle">Blog</span></span></a></li></ul></div></nav></div>
-</div></div>
-<div id="column_column-40" class="col-xs-12 col-sm-4 col-md-3 col-lg-3 shine-toolbar visible-lg visible-md visible-sm visible-xs"><div class="layout-item">
-<div class="sunfw-pos-toolbar  visible-lg visible-md visible-sm visible-xs">
-<div class="module-style "><div class="module-body">
-<div class="jsnlc-viewcart jsnlc-viewcart-text-horizontal-direction">
-<a class="jsnlc-viewcart-link" href="javascript:ModJSNLCViewCart.ViewCart('https://www.joomlashine.com/');">
-<i class="fa fa-shopping-basket" aria-hidden="true"></i>
-View cart (<span class="jsnlc-viewcart-value">&nbsp;</span>)	</a>
-</div></div></div><div class="module-style "><div class="module-body">	<a id="jsnlc-button-modal-login" href="https://www.joomlashine.com/index.php?option=com_lightcart&amp;view=userlogin&amp;tmpl=component" onclick="this.href = this.href + '&amp;jsnlcloginreferer=' + encodeURIComponent(top.location.href);" rel="nofollow" class="login-text">
-<i class="fa fa-user-o" aria-hidden="true"></i>
-Login	</a></div></div><div class="module-style "><div class="module-body">
-<div class="custom">
-<div class="search-top"><i class="fa fa-search" aria-hidden="true"></i></div></div>
-</div></div>
-</div>
-</div></div>	</div><div id="row_row-14" class="row ">
-<div id="column_column-41" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 shine-search-top visible-lg visible-md visible-sm visible-xs"><div class="layout-item">
-<div class="sunfw-pos-search-top  visible-lg visible-md visible-sm visible-xs">
-<div class="module-style "><div class="module-body"><a style="display: none;" id="mod-jsn-ajaxsearch-searchword_link" href="#"></a>
-<div class="container mod-jsn-ajaxsearch">
-<form id="mod-jsn-ajaxsearch-searchword-form" action="/privacy-policy.html" method="post" class="form-inline">
-<input type="search" name="searchword" class="mod-jsn-ajaxsearch-searchword" id="mod-jsn-ajaxsearch-searchword" placeholder="Search..." autocomplete="off">
-<input type="hidden" name="task" value="search">
-<input type="hidden" name="option" value="com_search">
-<input type="hidden" name="limit" value="20">
-<input type="hidden" name="Itemid" value="101">
-</form>
-<div id="mod-jsn-ajaxsearch-result"></div>
-<i class="fa fa-times" aria-hidden="true"></i>
-</div></div></div>
-</div>
-</div></div>	</div></div></div><div id="sunfw_section_content" class="sunfw-section shine-main-content box-layout"><div class="container"><div id="row_row-7" class="row  sunfw-flex-component">
-<div id="column_column-9" class="col-xs-36 col-sm-36 col-md-12 col-lg-12 flex-md-unordered"><div class="layout-item">
-<div id="system-message-container">
-</div>
-<div class="item-page " itemscope="" itemtype="https://schema.org/Article">
-<meta itemprop="inLanguage" content="en-GB">
-<div itemprop="articleBody">
-<h1 style="font-weight: 500;">WE RESPECT YOUR PRIVACY</h1>
-<p><span style="font-weight: 400;">In today's world of shared information, we (JoomlaShine) take great care in protecting your personal information when you are using our website (www.joomlashine.com) and any products or services provided on the website.</span></p>
-<p><span style="font-weight: 400;">This Privacy Policy details JoomlaShine's policies relating to your personal information. Please make sure you read the following statement till the end. By using our Website or any products or services provided by JoomlaShine, you expressly consent to the use and disclosure of information as described in this Privacy Policy. IF YOU DO NOT AGREE WITH ANY OF THE TERMS BELOW, YOU SHOULD NOT USE THE WEBSITE OR THE PRODUCTS OR SERVICES OFFERED BY THE WEBSITE. We may periodically update this Privacy Policy. We encourage you to review this Privacy Policy from time to time for any changes.</span></p>
-<h2><span style="font-weight: 400;">We respect your privacy</span></h2>
-<p><span style="font-weight: 400;">JoomlaShine will not collect, monitor, use and disclose any personal information about you without your consent. We recognizes that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously.</span></p>
-<p><span style="font-weight: 400;">JoomlaShine is committed to protecting your privacy.</span></p>
-<h2><span style="font-weight: 400;">What information do we collect and how do we use it</span></h2>
-<h3><span style="font-weight: 400;">Personally identifiable information</span></h3>
-<p><span style="font-weight: 400;">Only information you provide JoomlaShine with directly will be collected, such as through subscribing to various products &amp; services, or identifying yourself when requesting information to be sent to you. For example, when you fill out a request form, we collect the details you enter in order to post information to you. When you answer questions about what you would like to see we keep this information so as to better serve you.</span></p>
-<h3><span style="font-weight: 400;">Environment statistics</span></h3>
-<p><span style="font-weight: 400;">In order to better understand our install base and support end user, we will send environment statistics back to a JoomlaShine! controlled central server when you install or update our products. The data gathered will help JoomlaShine to determine which versions and software requirements it should support.</span></p>
-<h3><span style="font-weight: 400;">Emails</span></h3>
-<p><span style="font-weight: 400;">From time to time with your permission JoomlaShine will send you relevant information emails regarding products and services which you have previously registered your interest in. If you are receiving promotional information from JoomlaShine and do not wish to receive this information any longer, you may unsubscribe anytime.</span></p>
-<h3><span style="font-weight: 400;">Credit card information</span></h3>
-<p><span style="font-weight: 400;">If you use a credit card to purchase products and/or services via the Website, information required by transaction such as your name as it appears on the credit card, the credit card number, expiration date and billing address will be encrypted as it passes over the Internet. We does not record or keep your credit card information for online credit-card transactions; rather such information is simply passed through to our contracted payment processing vendor. However, We may access such information through the payment processing company to process refunds or adjustments and to the extent necessary in the event of nonpayment or disputed payments, or as may be necessary for JoomlaShine' compliance, in JoomlaShine' discretion, with applicable law.</span></p>
-<h3><span style="font-weight: 400;">Cookies</span></h3>
-<h4><span style="font-weight: 400;">What are cookies?</span></h4>
-<p><span style="font-weight: 400;">A cookie is a piece of data that is placed on an internet user's computer memory. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. The information the cookie contains is set by a website's server and it can be used when the user visits the website.</span></p>
-<p><span style="font-weight: 400;">Cookies are not dangerous. They are not computer programs and cannot be used to circulate viruses. Most Web browsers are set to accept cookies as the default.</span></p>
-<p><span style="font-weight: 400;">JoomlaShine uses "cookies" to help enhance your experience on the site. Cookies themselves do not contain personal information about you. They simply operate as a unique identifier which helps JoomlaShine to know what customers find interesting and useful on the website, almost like a continuing questionnaire. JoomlaShine does not store any personal information inside cookies, although the cookie may identify the user's browser.</span></p>
-<p><span style="font-weight: 400;">The use of cookies can enhance your experience on the JoomlaShine site, by remembering information that you have previously given. They can make it easier for you to fill out forms, shop online and can ensure that information provided to you is most relevant to your interests.</span></p>
-<p><span style="font-weight: 400;">By continuing to browse our site, you consent to our placing cookies on your computer (unless you have chosen to disable cookies via your browser - you can opt out of cookies via your browser’s privacy setting options – it will depend on the browser you’re using).</span></p>
-<h3><span style="font-weight: 400;">Log files</span></h3>
-<p><span style="font-weight: 400;">We and/or our contracted web analytics provider(s) do keep track of the domains from which you access our Site and Services on the World Wide Web, and may log IP addresses or other identifiers for statistical purposes. We do this to gather broad demographic information for aggregate use to identify and analyze trends and the results of our marketing efforts, to help diagnose problems with our servers and to administer the Site and Services, and analyze users' movements. We may periodically share aggregate demographic information with our business partners. IP addresses and other identifiers are not linked to personally identifiable information.</span></p>
-<h3><span style="font-weight: 400;">Facebook Login</span></h3>
-<p><span style="font-weight: 400;">To make login to JoomlaShine accounts more convenient for users, we allow you to sign in with Facebook. Once doing that, you agree with terms of use and privacy policy of Facebook also. Through that process, JoomlaShine will receive some information like your public profile (name, profile picture, age gender, country, language, etc.) and email address. We respect your privacy and just keep this information so as to send you information related to product updates or to support you better.</span></p>
-<h2><span style="font-weight: 400;">How do we store and protect your information</span></h2>
-<p><span style="font-weight: 400;">JoomlaShine will endeavor to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. In addition, our employees and data processors are obliged to respect the confidentiality of any personal information held by us. However, JoomlaShine will not be held responsible for events arising from unauthorized access to your personal information. We encourage you to play an important role in keeping your personal information secure, by maintaining the confidentiality of any passwords and account details used on the Website.</span></p>
-<p><span style="font-weight: 400;">If you have any questions about the security at our Website, please send an email to <span id="cloak6c327da4d3d8e08dde0c8e421933478c">This email address is being protected from spambots. You need JavaScript enabled to view it.</span>.</span></p>
-<h2><span style="font-weight: 400;">How do you change/update your information</span></h2>
-<p><span style="font-weight: 400;">Your trust in JoomlaShine is very important to us. You are free to update your information at any time directly through our Website. Inasmuch as your information will never be used without your explicit consent, we are not able to update the email address to which you subscribe to JoomlaShine communications on your behalf.</span></p>
-<p>&nbsp;</p> 	</div>
-</div>
-</div></div>	</div></div></div><div id="sunfw_section_footer" class="sunfw-section shine-footer"><div class="container"><div id="row_row-12" class="row ">
-<div id="column_column-29" class="col-xs-12 col-sm-4 col-md-2 col-lg-2"><div class="layout-item">
-<div class="sunfw-pos-footer1  visible-lg visible-md visible-sm visible-xs">
-<div class="module-style "><div class="module-title"><h4 class="box-title "><span>JoomlaShine</span></h4></div><div class="module-body"><ul class="nav menu">
-<li class="item-1129"><a href="/about-us.html">About Us</a></li><li class="item-1130"><a href="/customers-testimonials.html">Customers Testimonials</a></li><li class="item-294"><a href="/blog.html">Blog</a></li></ul>
-</div></div>
-</div>
-</div></div>
-<div id="column_column-30" class="col-xs-12 col-sm-4 col-md-2 col-lg-2"><div class="layout-item">
-<div class="sunfw-pos-footer2  visible-lg visible-md visible-sm visible-xs">
-<div class="module-style "><div class="module-title"><h4 class="box-title "><span>Products</span></h4></div><div class="module-body"><ul class="nav menu">
-<li class="item-832 parent"><a href="/joomla-templates.html">Joomla Templates</a></li><li class="item-1072 parent"><a href="/joomla-extensions.html">Joomla Extensions</a></li><li class="item-1176"><a href="/product-packages.html">Product Packages</a></li><li class="item-1840"><a href="/joomla-services.html">Joomla Services</a></li><li class="item-1852"><a href="/free-joomla-templates.html">Free Joomla Templates</a></li></ul>
-</div></div>
-</div>
-</div></div>
-<div id="column_column-31" class="col-xs-12 col-sm-4 col-md-2 col-lg-2"><div class="layout-item">
-<div class="sunfw-pos-footer3  visible-lg visible-md visible-sm visible-xs">
-<div class="module-style "><div class="module-title"><h4 class="box-title "><span>Support</span></h4></div><div class="module-body"><ul class="nav menu">
-<li class="item-1157 parent"><a href="/documentation">Documentation</a></li><li class="item-414"><a href="/forums">Forum</a></li><li class="item-1147"><a href="/contact-us">Contact Us</a></li><li class="item-1611"><a href="/support-policy.html">Support Policy</a></li></ul>
-</div></div>
-</div>
-</div></div>
-<div id="column_column-32" class="col-xs-12 col-sm-7 col-md-3 col-lg-4 group-ft-4 visible-lg visible-md visible-sm visible-xs"><div class="layout-item">
-<div class=" visible-lg visible-md visible-sm visible-xs">
-<h4>Connect with us</h4></div>
-</div>
-<div class="layout-item">
-<div class="sunfw-social visible-lg visible-md visible-sm visible-xs">
-<ul class="margin-bottom-0 social list-inline ">
-<li>
-<a href="https://www.facebook.com/joomlashine" target="_blank" rel="noopener noreferrer" class="btn-social-icon" style=" font-size: 14px;">
-<i class="fa fa-facebook"></i>
-</a>
-</li>
-<li>
-<a href="https://twitter.com/joomlashine" target="_blank" rel="noopener noreferrer" class="btn-social-icon" style=" font-size: 14px;">
-<i class="fa fa-twitter"></i>
-</a>
-</li>
-<li>
-<a href="https://www.youtube.com/user/joomlashine" target="_blank" rel="noopener noreferrer" class="btn-social-icon" style=" font-size: 14px;">
-<i class="fa fa-youtube-play"></i>
-</a>
-</li>
-</ul>
-</div>
-</div>
-<div class="layout-item">
-<div class="sunfw-pos-footer4  visible-lg visible-md visible-sm visible-xs">
-<div class="module-style  form_subscribe"><div class="module-title"><h4 class="box-title "><span>Subscribe for more</span></h4></div><div class="module-body"><div class="jsn-uniform jsn-master" data-form-name="20c99e3c9bb98c71668f296d3e9b395a" id="jsn_form_22"><div class="jsn-bootstrap"><div class="jsn-uniform-preview-modal modal hide fade" tabindex="-1" id="jsn_uniform_modal_form_20c99e3c9bb98c71668f296d3e9b395a" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-<div class="modal-header">
-<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-<h3>Submission Preview</h3>
-</div>
-<div class="modal-body" style="overflow: auto">
-<p>…</p>
-</div>
-<div class="modal-footer">
-<button class="btn jsn_close_modal" onclick="return false;">Close</button>
-</div>
-</div><form data-token="92d029507703017cc1ddc3a874dc8d7f" data-ajaxupload="0" id="form_20c99e3c9bb98c71668f296d3e9b395a" action="https://www.joomlashine.com/index.php?option=com_uniform&amp;view=form&amp;task=form.save&amp;form_id=22" method="post" class="form-validate Vertical " enctype="multipart/form-data"><span class="hide jsn-language" style="display:none;" data-value="{&quot;JSN_UNIFORM_CHARACTERS&quot;:&quot;Characters&quot;,&quot;JSN_UNIFORM_WORDS&quot;:&quot;Words&quot;,&quot;JSN_UNIFORM_CONFIRM_FIELD_PASSWORD_MIN_MAX_CHARACTER&quot;:&quot;The password must contain minimum %mi% and maximum %mx% character(s)&quot;,&quot;JSN_UNIFORM_CONFIRM_FIELD_EMAIL_CONFIRM&quot;:&quot;Both email addresses must be the same.&quot;,&quot;JSN_UNIFORM_CONFIRM_FIELD_MIN_NUMBER&quot;:&quot;The number cannot be less than&quot;,&quot;JSN_UNIFORM_CONFIRM_FIELD_MAX_NUMBER&quot;:&quot;The number cannot be greater than&quot;,&quot;JSN_UNIFORM_DATE_HOUR_TEXT&quot;:&quot;Hour&quot;,&quot;JSN_UNIFORM_DATE_MINUTE_TEXT&quot;:&quot;Minute&quot;,&quot;JSN_UNIFORM_DATE_CLOSE_TEXT&quot;:&quot;Close&quot;,&quot;JSN_UNIFORM_DATE_PREV_TEXT&quot;:&quot;Prev&quot;,&quot;JSN_UNIFORM_DATE_NEXT_TEXT&quot;:&quot;Next&quot;,&quot;JSN_UNIFORM_DATE_CURRENT_TEXT&quot;:&quot;Today&quot;,&quot;JSN_UNIFORM_DATE_MONTH_JANUARY&quot;:&quot;January&quot;,&quot;JSN_UNIFORM_DATE_MONTH_FEBRUARY&quot;:&quot;February&quot;,&quot;JSN_UNIFORM_DATE_MONTH_MARCH&quot;:&quot;March&quot;,&quot;JSN_UNIFORM_DATE_MONTH_APRIL&quot;:&quot;April&quot;,&quot;JSN_UNIFORM_DATE_MONTH_MAY&quot;:&quot;May&quot;,&quot;JSN_UNIFORM_DATE_MONTH_JUNE&quot;:&quot;June&quot;,&quot;JSN_UNIFORM_DATE_MONTH_JULY&quot;:&quot;July&quot;,&quot;JSN_UNIFORM_DATE_MONTH_AUGUST&quot;:&quot;August&quot;,&quot;JSN_UNIFORM_DATE_MONTH_SEPTEMBER&quot;:&quot;September&quot;,&quot;JSN_UNIFORM_DATE_MONTH_OCTOBER&quot;:&quot;October&quot;,&quot;JSN_UNIFORM_DATE_MONTH_NOVEMBER&quot;:&quot;November&quot;,&quot;JSN_UNIFORM_DATE_MONTH_DECEMBER&quot;:&quot;December&quot;,&quot;JSN_UNIFORM_DATE_MONTH_JANUARY_SHORT&quot;:&quot;Jan&quot;,&quot;JSN_UNIFORM_DATE_MONTH_FEBRUARY_SHORT&quot;:&quot;Feb&quot;,&quot;JSN_UNIFORM_DATE_MONTH_MARCH_SHORT&quot;:&quot;Mar&quot;,&quot;JSN_UNIFORM_DATE_MONTH_APRIL_SHORT&quot;:&quot;Apr&quot;,&quot;JSN_UNIFORM_DATE_MONTH_MAY_SHORT&quot;:&quot;May&quot;,&quot;JSN_UNIFORM_DATE_MONTH_JUNE_SHORT&quot;:&quot;Jun&quot;,&quot;JSN_UNIFORM_DATE_MONTH_JULY_SHORT&quot;:&quot;Jul&quot;,&quot;JSN_UNIFORM_DATE_MONTH_AUGUST_SHORT&quot;:&quot;Aug&quot;,&quot;JSN_UNIFORM_DATE_MONTH_SEPTEMBER_SHORT&quot;:&quot;Sep&quot;,&quot;JSN_UNIFORM_DATE_MONTH_OCTOBER_SHORT&quot;:&quot;Oct&quot;,&quot;JSN_UNIFORM_DATE_MONTH_NOVEMBER_SHORT&quot;:&quot;Nov&quot;,&quot;JSN_UNIFORM_DATE_MONTH_DECEMBER_SHORT&quot;:&quot;Dec&quot;,&quot;JSN_UNIFORM_DATE_DAY_SUNDAY&quot;:&quot;Sunday&quot;,&quot;JSN_UNIFORM_DATE_DAY_MONDAY&quot;:&quot;Monday&quot;,&quot;JSN_UNIFORM_DATE_DAY_TUESDAY&quot;:&quot;Tuesday&quot;,&quot;JSN_UNIFORM_DATE_DAY_WEDNESDAY&quot;:&quot;Wednesday&quot;,&quot;JSN_UNIFORM_DATE_DAY_THURSDAY&quot;:&quot;Thursday&quot;,&quot;JSN_UNIFORM_DATE_DAY_FRIDAY&quot;:&quot;Friday&quot;,&quot;JSN_UNIFORM_DATE_DAY_SATURDAY&quot;:&quot;Saturday&quot;,&quot;JSN_UNIFORM_DATE_DAY_SUNDAY_SHORT&quot;:&quot;Sun&quot;,&quot;JSN_UNIFORM_DATE_DAY_MONDAY_SHORT&quot;:&quot;Mon&quot;,&quot;JSN_UNIFORM_DATE_DAY_TUESDAY_SHORT&quot;:&quot;Tue&quot;,&quot;JSN_UNIFORM_DATE_DAY_WEDNESDAY_SHORT&quot;:&quot;Wed&quot;,&quot;JSN_UNIFORM_DATE_DAY_THURSDAY_SHORT&quot;:&quot;Thu&quot;,&quot;JSN_UNIFORM_DATE_DAY_FRIDAY_SHORT&quot;:&quot;Fri&quot;,&quot;JSN_UNIFORM_DATE_DAY_SATURDAY_SHORT&quot;:&quot;Sat&quot;,&quot;JSN_UNIFORM_DATE_DAY_SUNDAY_MIN&quot;:&quot;Su&quot;,&quot;JSN_UNIFORM_DATE_DAY_MONDAY_MIN&quot;:&quot;Mo&quot;,&quot;JSN_UNIFORM_DATE_DAY_TUESDAY_MIN&quot;:&quot;Tu&quot;,&quot;JSN_UNIFORM_DATE_DAY_WEDNESDAY_MIN&quot;:&quot;We&quot;,&quot;JSN_UNIFORM_DATE_DAY_THURSDAY_MIN&quot;:&quot;Th&quot;,&quot;JSN_UNIFORM_DATE_DAY_FRIDAY_MIN&quot;:&quot;Fr&quot;,&quot;JSN_UNIFORM_DATE_DAY_SATURDAY_MIN&quot;:&quot;Sa&quot;,&quot;JSN_UNIFORM_DATE_DAY_WEEK_HEADER&quot;:&quot;Wk&quot;,&quot;JSN_UNIFORM_CONFIRM_FIELD_MAX_LENGTH&quot;:&quot;The information cannot contain more than&quot;,&quot;JSN_UNIFORM_CONFIRM_FIELD_MIN_LENGTH&quot;:&quot;The information cannot contain less than&quot;,&quot;JSN_UNIFORM_CAPTCHA_PUBLICKEY&quot;:&quot;JSN_UNIFORM_CAPTCHA_PUBLICKEY&quot;,&quot;JSN_UNIFORM_BUTTON_BACK&quot;:&quot;Back&quot;,&quot;JSN_UNIFORM_BUTTON_NEXT&quot;:&quot;Next&quot;,&quot;JSN_UNIFORM_BUTTON_RESET&quot;:&quot;Reset&quot;,&quot;JSN_UNIFORM_BUTTON_PREVIEW&quot;:&quot;JSN_UNIFORM_BUTTON_PREVIEW&quot;,&quot;JSN_UNIFORM_BUTTON_SUBMIT&quot;:&quot;Submit&quot;,&quot;JSN_UNIFORM_CONFIRM_FIELD_CANNOT_EMPTY&quot;:&quot;This field can not be empty, please enter required information.&quot;,&quot;JSN_UNIFORM_CONFIRM_FIELD_INVALID&quot;:&quot;The information is invalid, please correct.&quot;,&quot;JSN_UNIFORM_WORDS_LEFT&quot;:&quot;word(s) left&quot;,&quot;JSN_UNIFORM_CHARACTERS_LEFT&quot;:&quot;character(s) left&quot;}"></span><span class="hide jsn-base-url" style="display:none;" data-value="https://www.joomlashine.com"></span><div id="page-loading" class="jsn-bgloading"><i class="jsn-icon32 jsn-icon-loading"></i></div><div class="jsn-row-container jsn-style-light vertical"><div class="message-uniform"> </div><div data-value="22" class="jsn-form-content hide"><div class="jsn-row-container row-fluid jsn-uf-row-container"><div class="jsn-container-left span12"><div class="control-group  email_47122550219_18_46 " data-id="98"><label class="control-label">Enter your email address<span class="required">*</span></label><div class="controls"><div class="row-fluid"><input class="email email-required jsn-input-xlarge-fluid" id="98" name="98" type="text" value="" placeholder="Enter your email address"></div></div></div></div></div></div><div class="form-actions">
-<div class="btn-toolbar">
-<button class="btn prev hide" onclick="return false;">PREV</button>
-<button class="btn next hide" onclick="return false;">NEXT</button>
-<button class="btn preview" onclick="return false;" style="display:none">PREVIEW</button>   <button class="btn reset" onclick="return false;" style="display:none">RESET</button>
-<button type="submit" class="btn btn-primary jsn-form-submit ">Subscribe</button>
-</div>
-</div><input type="hidden" name="form_name" value="20c99e3c9bb98c71668f296d3e9b395a"></div><input type="hidden" name="task" value="form.save"><input type="hidden" name="option" value="com_uniform"><input type="hidden" name="form_id" value="22"><input type="hidden" id="ajax_upload_file" name="ajax_upload_file" value="0"><input type="hidden" id="use_payment_gateway" name="use_payment_gateway" value="0"><input type="hidden" id="list_choosen_field" name="list_choosen_field" value=""><input type="hidden" id="form_post_action" name="form_post_action" value="4"><input type="hidden" name="form_post_action_data" value="<p>Thank you for subscribing</p>"><input type="hidden" name="form_post_session_lifetime" value="1200000"><input type="hidden" name="form_post_path_root" value="/index.php"><input type="hidden" name="92d029507703017cc1ddc3a874dc8d7f" value="1"></form></div></div></div></div><div class="module-style "><div class="module-body">
-<div class="custom">
-<!-- ClickDesk Live Chat Service for websites --></div>
-</div></div>
-</div>
-</div></div>
-<div id="column_column-33" class="col-xs-12 col-sm-5 col-md-3 col-lg-2"><div class="layout-item">
-<div class="sunfw-pos-footer5  visible-lg visible-md visible-sm visible-xs">
-<div class="module-style  hidden-title footer5"><div class="module-body">
-<div class="custom hidden-title footer5">
-<div class="compressor">
-<p><a href="https://www.joomlashine.com/joomlashine/about-us.html">
-<img src="https://cdn1.joomlashine.com/images/v6/misc/badges/10years-joomla.svg" alt="">
-<img class="hover" src="https://cdn1.joomlashine.com/images/v6/misc/badges/10years-none-joomla.svg" alt="">
-</a></p>
-<p><a href="https://www.joomlashine.com/joomlashine/refund-policy.html">
-<img src="https://cdn1.joomlashine.com/images/v6/misc/badges/30days-moneyback.svg" alt="">
-<img class="hover" src="https://cdn1.joomlashine.com/images/v6/misc/badges/30days-none-moneyback.svg" alt="">
-</a></p>
-</div></div>
-</div></div>
-</div>
-</div></div>	</div></div></div><div id="sunfw_section_copyright" class="sunfw-section shine-copyright"><div class="container"><div id="row_row-12" class="row ">
-<div id="column_column-36" class="col-xs-12 col-sm-4 col-md-4 col-lg-3"><div class="layout-item">
-<div class="sunfw-logo visible-lg visible-md visible-sm visible-xs">
-<a href="/index.php" title="JoomlaShine | Hi-quality Joomla 3.x templates &amp; extensions">
-<img class="logo hidden-xs hidden-sm img-responsive " alt="JoomlaShine | Hi-quality Joomla 3.x templates &amp; extensions" src="https://cdn1.joomlashine.com/templates/jsn_shine_pro/niches/ngo/images/bottom_logo.svg">
-<img class="logo hidden-lg hidden-md img-responsive " alt="JoomlaShine | Hi-quality Joomla 3.x templates &amp; extensions" src="https://cdn1.joomlashine.com/templates/jsn_shine_pro/niches/ngo/images/bottom_logo.svg">
-</a>
-</div>
-</div></div>
-<div id="column_column-37" class="col-xs-12 col-sm-4 col-md-4 col-lg-6"><div class="layout-item">
-<div class=" visible-lg visible-md visible-sm visible-xs">
-<p style="text-align: center;">Copyright 2008 - 2017 JoomlaShine.com. All rights reserved</p></div>
-</div>
-<div class="layout-item">
-<div class="sunfw-pos-footer-center  visible-lg visible-md visible-sm visible-xs">
-<div class="module-style "><div class="module-body"><ul class="nav menu footer_menu">
-<li class="item-1133"><a href="/terms-of-use.html">Terms of Use</a></li><li class="item-1134 current active"><a href="/privacy-policy.html">Privacy policy</a></li></ul>
-</div></div>
-</div>
-</div></div>
-<div id="column_column-38" class="col-xs-12 col-sm-4 col-md-4 col-lg-3"><div class="layout-item">
-<div class="align-right visible-lg visible-md visible-sm visible-xs">
-<p><i class="fa fa-cc-jcb">&nbsp;</i> <i class="fa fa-cc-paypal">&nbsp;</i> <i class="fa fa-cc-visa">&nbsp;</i> <i class="fa fa-cc-mastercard">&nbsp;</i></p></div>
-</div></div>	</div></div></div>		</div><!--/ #jsn-wrapper -->
-<a href="#" class="sunfw-scrollup position-right ">
-<i class="fa fa fa-arrow-up"></i>
-</a>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XZZN"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->	<link href="https://www.joomlashine.com/kq" rel="shortlink">
-<link href="/templates/jsn_shine_pro/niches/ngo/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-<link href="https://fonts.googleapis.com/css?family=Roboto:300,regular,500,700" rel="stylesheet" media="all">
-<link href="/form.html?form_id=22&amp;task=generateStylePages" rel="stylesheet" media="all">
-<link href="https://cdn1.joomlashine.com/cache/jsn_shine_pro/5156844923fb449e7379abbb9ab13f44.css" rel="stylesheet" media="all">
-<link href="https://cdn1.joomlashine.com/cache/jsn_shine_pro/7095995f20ab48d231fa589746c9a726.css" rel="stylesheet" media="screen"><script src="https://cdn1.joomlashine.com/cache/jsn_shine_pro/04d858115bb5141d50857b0e489eddab.js"></script>
-<script src="https://cdn1.joomlashine.com/media/system/js/modal.js"></script>
-<script src="https://www.google.com/recaptcha/api.js?onload=JoomlaInitReCaptcha2&amp;render=explicit&amp;hl=en-GB"></script>
-<script src="https://cdn1.joomlashine.com/cache/jsn_shine_pro/6d6f782836643cc7059c55057251df2c.js"></script>
-<script type="text/javascript">
-jQuery(window).on('load',  function() {
-new JCaption('img.caption');
-});
+<script src="https://joomlashine-woorocketsvietna.netdna-ssl.com/cache/jsnminifyhtml/93b6a1dd95a89fb6bc89a00d47c9ec63-v91.js?771af92bfac153512a58efe49f048311"></script>
+<script>
 SunBlank.initTemplate();
 if (window.MooTools !== undefined) {
 Element.implement({
@@ -274,115 +83,511 @@ return this;
 }
 });
 }
+
+
+var jsnlcLanguageTagGlobal="all";
+var jsnlcGTMImpressions=[];
+
+
+var jsJSNLCProducts=[{"product_name":"JSN Boot","product_id":"35","product_category_name":"JSN Templates"},{"product_name":"JSN Shine","product_id":"109","product_category_name":"JSN Templates"},{"product_name":"JSN Epic 2","product_id":"111","product_category_name":"JSN Templates"},{"product_name":"JSN Metro 2","product_id":"112","product_category_name":"JSN Templates"},{"product_name":"JSN Solid 2","product_id":"113","product_category_name":"JSN Templates"},{"product_name":"JSN Megazine 2","product_id":"114","product_category_name":"JSN Templates"},{"product_name":"JSN Pixel 2","product_id":"116","product_category_name":"JSN Templates"},{"product_name":"JSN One 2","product_id":"118","product_category_name":"JSN Templates"},{"product_name":"JSN Ferado 2","product_id":"119","product_category_name":"JSN Templates"},{"product_name":"JSN Reta 2","product_id":"126","product_category_name":"JSN Templates"},{"product_name":"JSN Time 2","product_id":"127","product_category_name":"JSN Templates"},{"product_name":"JSN Dona 2","product_id":"128","product_category_name":"JSN Templates"},{"product_name":"JSN EduCare","product_id":"129","product_category_name":"JSN Templates"},{"product_name":"JSN Decor 2","product_id":"130","product_category_name":"JSN Templates"},{"product_name":"JSN Corsa 2","product_id":"131","product_category_name":"JSN Templates"},{"product_name":"JSN Venture 2","product_id":"132","product_category_name":"JSN Templates"},{"product_name":"JSN Yoyo 2","product_id":"133","product_category_name":"JSN Templates"},{"product_name":"JSN Mini 2","product_id":"134","product_category_name":"JSN Templates"},{"product_name":"JSN Force 2","product_id":"136","product_category_name":"JSN Templates"},{"product_name":"JSN Sky 2","product_id":"137","product_category_name":"JSN Templates"},{"product_name":"JSN Nuru 2","product_id":"138","product_category_name":"JSN Templates"},{"product_name":"JSN Levart 2","product_id":"139","product_category_name":"JSN Templates"},{"product_name":"JSN Mico 2","product_id":"140","product_category_name":"JSN Templates"},{"product_name":"JSN Air 2","product_id":"141","product_category_name":"JSN Templates"},{"product_name":"JSN Artista 2","product_id":"142","product_category_name":"JSN Templates"},{"product_name":"JSN Gruve 2","product_id":"144","product_category_name":"JSN Templates"},{"product_name":"JSN Medis 2","product_id":"145","product_category_name":"JSN Templates"},{"product_name":"JSN Dome 2","product_id":"146","product_category_name":"JSN Templates"},{"product_name":"JSN Vintage 2","product_id":"151","product_category_name":"JSN Templates"},{"product_name":"JSN Teki 2","product_id":"152","product_category_name":"JSN Templates"},{"product_name":"JSN Escape 2","product_id":"153","product_category_name":"JSN Templates"},{"product_name":"JSN Glass 2","product_id":"154","product_category_name":"JSN Templates"},{"product_name":"JSN Tendo 2","product_id":"155","product_category_name":"JSN Templates"},{"product_name":"JSN Ares 2","product_id":"156","product_category_name":"JSN Templates"},{"product_name":"JSN Glamo 2","product_id":"157","product_category_name":"JSN Templates"},{"product_name":"JSN Fidem 2","product_id":"158","product_category_name":"JSN Templates"},{"product_name":"JSN Neon 2","product_id":"159","product_category_name":"JSN Templates"},{"product_name":"JSN Cube 2","product_id":"160","product_category_name":"JSN Templates"},{"product_name":"JSN Kido 2","product_id":"161","product_category_name":"JSN Templates"},{"product_name":"JSN Ultranet","product_id":"162","product_category_name":"JSN Templates"},{"product_name":"JSN Blank 2","product_id":"163","product_category_name":"JSN Templates"},{"product_name":"JSN Educo","product_id":"167","product_category_name":"JSN Templates"},{"product_name":"JSN TasteTea","product_id":"168","product_category_name":"JSN Templates"},{"product_name":"JSN Moviebox","product_id":"169","product_category_name":"JSN Templates"}];
+window.pb_baseUrl = "https://www.joomlashine.com/";
 window.addEventListener("load", function() {
 window.cookieconsent.initialise({
 "position": "bottom-left",
 "content": {"dismiss":"Got It!","link":"More information","message":"This website uses cookies to ensure you get the best experience on our website.","href":"https:\/\/www.joomlashine.com\/joomlashine\/privacy-policy.html"}
 });
 });
-jQuery(function($) {
-SqueezeBox.initialize({});
-SqueezeBox.assign($('a.modal').get(), {
-parse: 'rel'
-});
-});
-window.jModalClose = function () {
-SqueezeBox.close();
-};
-// Add extra modal close functionality for tinyMCE-based editors
-document.onreadystatechange = function () {
-if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
-{
-if (typeof window.jModalClose_no_tinyMCE === 'undefined')
-{
-window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
-jModalClose = function () {
-if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
-tinyMCE.activeEditor.windowManager.close();
-};
-}
-if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
-{
-if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
-window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
-SqueezeBox.close = function () {
-if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
-tinyMCE.activeEditor.windowManager.close();
-};
-}
-}
-};
-;
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-XZZN');;
+</script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<meta name="google-site-verification" content="mjYTAz0QvoTpnQ5rYIqVj8I_UBjIHadEF3SlkItYJBY">	
 
-window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
-heap.load("3873942698");
-;
-
-window.addEvent('domready', function(){
-ModJSNLCViewCart.RefreshCookie('JSNdb227c46468588bea41463abf35095e2');
-});
-;
-
-window.addEvent('domready', function(){
-if ($$('.jsnlc-button-register') != null)
+<!-- Google sitelinks search markup-->
+<script type="application/ld+json">
 {
-$$('.jsnlc-button-register').addEvent('click', function(event){
-event.stop();
-SqueezeBox.initialize();
-SqueezeBox.open('/component/lightcart/?view=registration&amp;tmpl=component', {
-handler: 'iframe',
-closable: false,
-size: {x: 400, y: 365}
-});
-});
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.joomlashine.com/",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.joomlashine.com",
+        "query-input": "required name=search_term_string"
+    }
 }
-if (document.id('jsnlc-button-modal-login') != null)
-{
-document.id('jsnlc-button-modal-login').addEvent('click', function(event){
-event.stop();
-SqueezeBox.initialize();
-SqueezeBox.open(this.get('href'), {
-handler: 'iframe',
-closable: false,
-size: {x: 400, y: 482}
-});
-});
-document.id('sbox-btn-close').addEvent('click', function(event){
-SqueezeBox.close();
-});
-}
-});
-;
+</script>
+<!-- End of Google sitelinks search markup-->
 
+<!-- Google social profiles markup-->
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "url": "https://www.joomlashine.com/",
+    "name": "JoomlaShine",
+    "sameAs": [
+        "https://www.facebook.com/joomlashine"
+    ]
+}
+</script>
+<!-- End of Google social profiles markup-->
+
+
+<!-- Google breadcrumb markup-->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "BreadcrumbList",
+  "itemListElement":
+  [
+  	{
+	  "@type": "ListItem",
+	  "position": 1,
+	  "item":
+	  {
+	    "@id": "https://www.joomlashine.com/",
+	    "name": "Home"
+	  }
+	}
+,
+	{
+	  "@type": "ListItem",
+	  "position": 2,
+	  "item":
+	  {
+	    "@id": "https://www.joomlashine.com/privacy-policy.html",
+	    "name": "Privacy Policy"
+	  }
+	}
+  ]
+}
+</script>
+<!-- End of Google breadcrumb markup-->
+
+<script src="https://joomlashine.postaffiliatepro.com/scripts/trackjs.js" id="pap_x2s6df8d" type="text/javascript"></script></head>
+<body id="sunfw-master" class=" sunfw-direction-ltr  sunfw-com-content sunfw-view-article sunfw-itemid-1134">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQ4QMWV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="sunfw-wrapper" class="sunfw-content ">
+<div id="sunfw_section_header" class="sunfw-section shine-header"><div class="container"><div id="row_row-2" class="row ">
+<div id="column_column-3" class="col-xs-12 col-sm-4 col-md-2 col-lg-2 shine-logo-head visible-lg visible-md visible-sm visible-xs"><div class="layout-item sunfw-item-logo">
+<div class="sunfw-logo visible-lg visible-md visible-sm visible-xs">
+<a href="https://www.joomlashine.com/" title="JoomlaShine | Hi-quality Joomla 3.x templates &amp; extensions"> <img class="logo hidden-xs hidden-sm img-responsive " alt="JoomlaShine | Hi-quality Joomla 3.x templates &amp; extensions" src="https://joomlashine-woorocketsvietna.netdna-ssl.com/templates/jsn_shine_pro/niches/ngo/images/logo.svg"> <img class="logo hidden-lg hidden-md img-responsive " alt="JoomlaShine | Hi-quality Joomla 3.x templates &amp; extensions" src="https://joomlashine-woorocketsvietna.netdna-ssl.com/templates/jsn_shine_pro/niches/ngo/images/logo.svg">
+</a>
+</div>
+</div></div>
+<div id="column_column-4" class="col-xs-12 col-sm-4 col-md-7 col-lg-7 ngo-mainmenu visible-lg visible-md visible-sm visible-xs"><div class="layout-item sunfw-item-menu">
+<div class=" visible-lg visible-md visible-sm visible-xs">
+<nav class="navbar navbar-default sunfw-menu-head sunfwMenuFading" role="navigation">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed btn btn-danger" data-toggle="collapse" data-target="#menu_item_menu" aria-expanded="false">
+<i aria-hidden="true" class="fa fa-bars"></i>
+</button>
+</div>
+<div class="collapse navbar-collapse sunfw-menu" id="menu_item_menu"><ul class="nav navbar-nav sunfw-tpl-menu"><li class="item-1137"><a class="jsn-templates-menu-item clearfix" href="/joomla-templates.html"><span data-title="Templates"><span class="menutitle">Templates</span></span></a></li><li class="item-1138 parent dropdown-submenu"><a class="clearfix dropdown-toggle" href="/joomla-extensions.html"><span data-title="Extensions"><span class="menutitle">Extensions</span></span><span class="caret"></span></a><ul class="dropdown-menu"><li class="item-1551"><a class="clearfix" href="/joomla-extensions/jsn-pagebuilder.html"><span data-title="JSN PageBuilder 3"><span class="menutitle">JSN PageBuilder 3</span></span></a></li><li class="item-1552"><a class="clearfix" href="/joomla-extensions/jsn-poweradmin.html"><span data-title="JSN PowerAdmin"><span class="menutitle">JSN PowerAdmin</span></span></a></li><li class="item-1553"><a class="clearfix" href="/joomla-extensions/jsn-imageshow.html"><span data-title="JSN ImageShow"><span class="menutitle">JSN ImageShow</span></span></a></li><li class="item-1554"><a class="clearfix" href="/joomla-extensions/jsn-uniform.html"><span data-title="JSN UniForm"><span class="menutitle">JSN UniForm</span></span></a></li><li class="item-1555"><a class="clearfix" href="/joomla-extensions/jsn-easyslider.html"><span data-title="JSN EasySlider"><span class="menutitle">JSN EasySlider</span></span></a></li><li class="item-1556"><a class="clearfix" href="/joomla-extensions/jsn-mobilize.html"><span data-title="JSN Mobilize"><span class="menutitle">JSN Mobilize</span></span></a></li></ul></li><li class="item-1141"><a class="clearfix" href="/product-packages.html" rel="nofollow"><span data-title="Packages"><span class="menutitle">Packages</span></span></a></li><li class="item-1148 parent dropdown-submenu"><a class="clearfix dropdown-toggle" href="/contact-us.html" rel="nofollow"><span data-title="Support"><span class="menutitle">Support</span></span><span class="caret"></span></a><ul class="dropdown-menu"><li class="item-1916"><a class="clearfix" href="/faqs.html"><span data-title="FAQs"><span class="menutitle">FAQs</span></span></a></li><li class="item-1142"><a class="clearfix" href="/documentation.html"><span data-title="Documentation"><span class="menutitle">Documentation</span></span></a></li><li class="item-1549"><a class="clearfix" href="/forums.html"><span data-title="Forums"><span class="menutitle">Forums</span></span></a></li><li class="item-2115"><a class="clearfix" href="/joomla-ebook.html"><span data-title="Joomla! Ebook"><span class="menutitle">Joomla! Ebook</span></span></a></li></ul></li><li class="item-1146"><a class="clearfix" href="/blog.html" rel="nofollow"><span data-title="Blog"><span class="menutitle">Blog</span></span></a></li></ul></div></nav></div>
+</div></div>
+<div id="column_column-40" class="col-xs-12 col-sm-4 col-md-3 col-lg-3 shine-toolbar visible-lg visible-md visible-sm visible-xs"><div class="layout-item sunfw-item-module-position">
+<div class="sunfw-pos-toolbar  visible-lg visible-md visible-sm visible-xs">
+<div class="module-style "><div class="module-body"><script type="text/javascript">
 (function($){
 $(document).ready(function ()
 {
-var MODJSNSearch 	= new $.MODJSNSearch({itemid: 101, root: "", number_of_items: 5 ,token: "92d029507703017cc1ddc3a874dc8d7f"});
+ModJSNLCViewCart.RefreshCookie('JSN71f331eac1fab649dfd11b15ef48a420');
+});
+})(jQuery);
+</script>
+<div class="jsnlc-viewcart jsnlc-viewcart-text-horizontal-direction">
+<a class="jsnlc-viewcart-link" href="/view-cart.html">
+<i class="fa fa-shopping-basket" aria-hidden="true"></i>
+View cart (<span class="jsnlc-viewcart-value">&nbsp;</span>)	</a>
+</div></div></div><div class="module-style "><div class="module-body">	<a id="jsnlc-button-modal-login" href="https://www.joomlashine.com/log-in.html?loginreturn=aHR0cHM6Ly93d3cuam9vbWxhc2hpbmUuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw=" rel="nofollow" class="login-text">
+<i class="fa fa-user-o" aria-hidden="true"></i>
+Login	</a>
+</div></div><div class="module-style "><div class="module-body">
+<div class="custom">
+<div class="search-top"><i class="fa fa-search" aria-hidden="true"></i></div></div>
+</div></div>
+</div>
+</div></div>	</div><div id="row_row-14" class="row ">
+<div id="column_column-41" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 shine-search-top visible-lg visible-md visible-sm visible-xs"><div class="layout-item sunfw-item-module-position">
+<div class="sunfw-pos-search-top  visible-lg visible-md visible-sm visible-xs">
+<div class="module-style "><div class="module-body"><a style="display: none;" id="mod-jsn-ajaxsearch-searchword_link" href="#"></a>
+<div class="container mod-jsn-ajaxsearch">
+<form id="mod-jsn-ajaxsearch-searchword-form" action="/privacy-policy.html" method="post" class="form-inline">
+<input type="search" name="searchword" class="mod-jsn-ajaxsearch-searchword" id="mod-jsn-ajaxsearch-searchword" placeholder="Search..." autocomplete="off">
+<input type="hidden" name="task" value="search">
+<input type="hidden" name="option" value="com_search">
+<input type="hidden" name="limit" value="20">
+<input type="hidden" name="Itemid" value="101">
+</form>
+<div id="mod-jsn-ajaxsearch-result"></div>
+<i class="fa fa-times" aria-hidden="true"></i>
+</div>
+<script type="text/javascript">
+(function($){
+$(document).ready(function ()
+{
+var MODJSNSearch 	= new $.MODJSNSearch({itemid: 101, root: "", number_of_items: 5 ,token: "41ed10336fbae46c9ec40a96a800736f"});
 MODJSNSearch.initialize();
 });
 })(jQuery);
-;
-
-document.getElementById('cloak6c327da4d3d8e08dde0c8e421933478c').innerHTML = '';
+</script></div></div>
+</div>
+</div></div>	</div></div></div><div id="sunfw_section_top-promo" class="sunfw-section shine-top-promo"><div class="container"><div id="row_row-13" class="row ">
+<div id="column_column-39" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><div class="layout-item sunfw-item-module-position">
+<div class="sunfw-pos-top-promo  visible-lg visible-md visible-sm visible-xs">
+<div class="module-style  page-title"><div class="module-body">
+<div class="custom page-title">
+<h1>
+Privacy Policy
+</h1>
+<p>
+Welcome to JoomlaShine Privacy Policy
+</p>
+</div>
+</div></div>
+</div>
+</div></div>	</div></div></div><div id="sunfw_section_content" class="sunfw-section shine-main-content box-layout"><div class="container"><div id="row_row-7" class="row  sunfw-flex-component">
+<div id="column_column-9" class="col-xs-36 col-sm-36 col-md-12 col-lg-12 flex-md-unordered"><div class="layout-item sunfw-item-page-content">
+<div id="system-message-container">
+</div>
+<div class="item-page " itemscope="" itemtype="https://schema.org/Article">
+<meta itemprop="inLanguage" content="en-GB">
+<div itemprop="articleBody">
+<h1 style="margin-top: 0;">Introduction</h1>
+<p>This Privacy Policy will comes to effect from 25 May, 2018.</p>
+<p>We at JoomlaShine (referred to as "JoomlaShine", "we", "us") respect your privacy and want you to understand how we collect, use, and share data about you. This Privacy Policy covers our data collection practices and describes your rights to access, correct, or restrict our use of your personal data.</p>
+<p>This Privacy Policy applies when you visit the JoomlaShine website and use JoomlaShine products (referred to as "Services"). By using the Services, you agree to the terms of this Privacy Policy.</p>
+<h2>What information, how and when do we collect</h2>
+<h3>Summary</h3>
+<p>We collect information about you when you:</p>
+<ul>
+<li>Create an account on our website</li>
+<li>Communicate with us via contact form</li>
+<li>Register your copy of the product from the website it's being used</li>
+</ul>
+<p>We also collect information, such as usage statistics, by using cookies, server logs, and similar technologies.</p>
+<h3>Information You Provide to Us</h3>
+<p>We collect information that you provide directly to us. For example, we collect information that you provide when you create an account, communicate with us via contact form or interacting in support forum.</p>
+<p>The types of information that we may collect include your name, username, password, email address, postal address, phone number, photos, survey responses, payment information such as payment agent details, transactional details, tax information, support queries, forum comments and any other information that you choose to provide.</p>
+<h3>Information We Collect Automatically When You Use the Services</h3>
+<p>When you use our Services, we automatically collect information about you, including:</p>
+<ul>
+<li>Log Information: We collect log information about your use of the Service, including the type of browser that you use; the time, duration and frequency of your access; pages viewed; your IP address; and the page you visited before visiting our Services.</li>
+<li>Device Information: We collect information about the computer or mobile device that you use to access our Services, including the hardware model, operating system and version, unique device identifiers, and mobile network information.</li>
+<li>Location Information: We may collect information about the location of your device each time you use our Services based on your consent to the collection of this information.</li>
+<li>Information Collected by Cookies and Other Tracking Technologies: We and our service providers collect information using various technologies, including cookies and pixel tags (which are also called clear GIFs, web beacons, or pixels). Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, and track usage of our Services. Pixel tags are electronic images that may be used in our Services or emails, and track usage of our Services and effectiveness of communications. You can learn more about the types of cookies we and our service providers use by reading our Cookie Policy.</li>
+</ul>
+<h2>Why do we need and how do we use your information</h2>
+<h3>Summary</h3>
+<p>We use information about you to:</p>
+<ul>
+<li>Operate, improve, promote, and protect our Services;</li>
+<li>Communicate with you; and</li>
+<li>Personalize content.</li>
+</ul>
+<h3>Operating our Services</h3>
+<p>We may use information about you for various purposes related to operating our Services, including to:</p>
+<ul>
+<li>Provide, maintain, and improve our Services, including to process transactions, develop new products and services, and manage the performance of our Services;</li>
+<li>Display information about you, for instance, your list of forum topics, which will be visible on your profile;</li>
+<li>Personalize the Services, for example, to suggest content in which we think you may be interested;</li>
+<li>Monitor and analyze trends, usage, and activities in connection with our Services;</li>
+<li>Perform accounting and administrative tasks, and enforce or manage legal claims.</li>
+<li>Training JoomlaShine staff about how to best serve our user community;</li>
+</ul>
+<h3>Communicating With You</h3>
+<p>We may use information about you for various purposes related to communicating with you, including to:</p>
+<ul>
+<li>Respond to your comments, questions, and requests, and provide customer service;</li>
+<li>Communicate with you, in accordance with your account settings, about products, services, and events offered by us and others, to provide news and information that we think will be of interest to you, to conduct online surveys, etc.</li>
+<li>Send you technical notices, updates, security alerts and support, and administrative messages.</li>
+</ul>
+<h3>Advertising</h3>
+<p>We may use information about you for various advertising activities that match your profiles or interests;</p>
+<h2>Sharing your information</h2>
+<h3>Summary</h3>
+<p>We do not share information about you in any way other than as described in this Privacy Policy.</p>
+<p>We may disclose information about you:</p>
+<ul>
+<li>To members or social media services, subject to the choices you may make via the Services;</li>
+<li>To our third-party service providers who help us to operate or improve our Services;</li>
+<li>To authorities to comply with legal obligations and to protect and defend our rights and property;</li>
+</ul>
+<h2>Keeping your information</h2>
+<h3>Summary</h3>
+<p>We store personal information on secure servers that are managed by us and our service providers.</p>
+<h3>Technical Security</h3>
+<p>Personal information that we store or transmit is protected by security and access controls, including username and password authentication, two-factor authentication, and data encryption where appropriate.</p>
+<h3>Organizational Security</h3>
+<p>We have redesigned our organizational structure to minimize amount of personnel who have access to our user’s data.</p>
+<h3>Data Retention</h3>
+<p>We retain your personal information for as long as is necessary to provide the services to you and others, and to comply with our legal obligations. If you no longer want us to use your personal information or to provide you with the Services, you can request that we erase your personal information and close your JoomlaShine account.</p>
+<p>Please note that if you request the erasure of your personal information we will retain information from deleted accounts as necessary for our legitimate business interests, to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the terms of service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.</p>
+<h2>Your Rights</h2>
+<h3>Summary:</h3>
+<ul>
+<li>You can review and change information about you or deactivate your account in your account settings, but we may retain certain information.</li>
+<li>You have the right to opt out of receiving JoomlaShine’s promotional messages, but you may still receive other non-promotional communications.</li>
+<li>You may have the right to exercise your data protection rights, including to request that JoomlaShine deletes, amends, or provides you access to your information.</li>
+</ul>
+<h3>Account Information</h3>
+<p>You may update or correct your account information by editing your account settings or by sending a request to <span id="cloak7e7d8d4b799b035f205b86c468e71282"><a href="mailto:privacy@joomlashine.com">privacy@joomlashine.com</a></span><script type="text/javascript">
+document.getElementById('cloak7e7d8d4b799b035f205b86c468e71282').innerHTML = '';
 var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
 var path = 'hr' + 'ef' + '=';
-var addy6c327da4d3d8e08dde0c8e421933478c = 's&#117;pp&#111;rt' + '&#64;';
-addy6c327da4d3d8e08dde0c8e421933478c = addy6c327da4d3d8e08dde0c8e421933478c + 'j&#111;&#111;ml&#97;sh&#105;n&#101;' + '&#46;' + 'c&#111;m';
-var addy_text6c327da4d3d8e08dde0c8e421933478c = 's&#117;pp&#111;rt' + '&#64;' + 'j&#111;&#111;ml&#97;sh&#105;n&#101;' + '&#46;' + 'c&#111;m';document.getElementById('cloak6c327da4d3d8e08dde0c8e421933478c').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy6c327da4d3d8e08dde0c8e421933478c + '\'>'+addy_text6c327da4d3d8e08dde0c8e421933478c+'<\/a>';
-;
-
-var _glc =_glc || []; _glc.push('all_ag9zfmNsaWNrZGVza2NoYXRyDwsSBXVzZXJzGJGdkucCDA');
-var glcpath = (('https:' == document.location.protocol) ? 'https://my.clickdesk.com/clickdesk-ui/browser/' :
-'http://my.clickdesk.com/clickdesk-ui/browser/');
-var glcp = (('https:' == document.location.protocol) ? 'https://' : 'http://');
-var glcspt = document.createElement('script'); glcspt.type = 'text/javascript';
-glcspt.async = true; glcspt.src = glcpath + 'livechat-new.js';
-var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(glcspt, s);
-</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6c73a117f6","applicationID":"26863753","transactionName":"MVVTNkBVCxcEB0xRWwgfcAFGXQoKSidXVkADXkUhXVoRFgoIVF1GSVRYEUJYBB0=","queueTime":0,"applicationTime":322,"atts":"HRJQQAhPGBk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+var addy7e7d8d4b799b035f205b86c468e71282 = 'pr&#105;v&#97;cy' + '&#64;';
+addy7e7d8d4b799b035f205b86c468e71282 = addy7e7d8d4b799b035f205b86c468e71282 + 'j&#111;&#111;ml&#97;sh&#105;n&#101;' + '&#46;' + 'c&#111;m';
+var addy_text7e7d8d4b799b035f205b86c468e71282 = 'pr&#105;v&#97;cy' + '&#64;' + 'j&#111;&#111;ml&#97;sh&#105;n&#101;' + '&#46;' + 'c&#111;m';document.getElementById('cloak7e7d8d4b799b035f205b86c468e71282').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy7e7d8d4b799b035f205b86c468e71282 + '\'>'+addy_text7e7d8d4b799b035f205b86c468e71282+'<\/a>';
+</script> as described in Section 6. You may also deactivate your account by editing your account settings or by sending an email to <span id="cloak3ca09ccadd07ff1ba80e678c57027780"><a href="mailto:privacy@joomlashine.com">privacy@joomlashine.com</a></span><script type="text/javascript">
+document.getElementById('cloak3ca09ccadd07ff1ba80e678c57027780').innerHTML = '';
+var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+var path = 'hr' + 'ef' + '=';
+var addy3ca09ccadd07ff1ba80e678c57027780 = 'pr&#105;v&#97;cy' + '&#64;';
+addy3ca09ccadd07ff1ba80e678c57027780 = addy3ca09ccadd07ff1ba80e678c57027780 + 'j&#111;&#111;ml&#97;sh&#105;n&#101;' + '&#46;' + 'c&#111;m';
+var addy_text3ca09ccadd07ff1ba80e678c57027780 = 'pr&#105;v&#97;cy' + '&#64;' + 'j&#111;&#111;ml&#97;sh&#105;n&#101;' + '&#46;' + 'c&#111;m';document.getElementById('cloak3ca09ccadd07ff1ba80e678c57027780').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy3ca09ccadd07ff1ba80e678c57027780 + '\'>'+addy_text3ca09ccadd07ff1ba80e678c57027780+'<\/a>';
+</script>.</p>
+<h3>Cookies</h3>
+<p>See our Cookie Policy for details about these technologies and the information that they collect, use, or share, including how you may be able to control or disable these services.</p>
+<p>When you use the Services, there’s certain information that’s recorded which is generally anonymous information and does not reveal your identity. If you’re logged into your account some of this information could be associated with your account.</p>
+<p>Occasionally, we will use third party advertising companies to serve ads based on prior visits to our Services. For example, if you visit our websites, you may later see an add for our products and services when you visit a different website.</p>
+<h3>Promotional Communications</h3>
+<p>You can control messages that you receive from JoomlaShine, other members, and third parties by selecting the unsubscribe link in the message that you receive, or by adjusting the communication preferences in your account settings. If you opt out, we may still send you non-promotional messages, such as those about your account or our ongoing business relations.</p>
+<h3>Other Data Rights</h3>
+<p>Data rights that you may have, depending on the country in which you live, include:</p>
+<ul>
+<li>Objecting to processing of your information, asking us to restrict processing of your information, or requesting the portability of your information.</li>
+<li>Withdrawing your consent at any time if we have collected and processed your information with your consent. Withdrawing your consent will not affect the lawfulness of any processing that we conducted prior to your withdrawal, nor will it affect processing of your information conducted in reliance on lawful processing grounds other than consent.</li>
+<li>Complaining to a data protection authority about our collection and use of your information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Union are available here.</li>
+</ul>
+<h2>Contact Us</h2>
+<p>Under European data protection law, the controller of your information is JoomlaShine. We will need to change this policy from time to time in order to make sure it stays up to date with the latest legal requirements and any changes to our privacy management practices.</p>
+<p>If you have any questions or complaints about this Privacy Policy or how we use your information, please contact <span id="cloakd8e0b57f79780e050a33991bb1f0cabc"><a href="mailto:privacy@joomlashine.com">privacy@joomlashine.com</a></span><script type="text/javascript">
+document.getElementById('cloakd8e0b57f79780e050a33991bb1f0cabc').innerHTML = '';
+var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+var path = 'hr' + 'ef' + '=';
+var addyd8e0b57f79780e050a33991bb1f0cabc = 'pr&#105;v&#97;cy' + '&#64;';
+addyd8e0b57f79780e050a33991bb1f0cabc = addyd8e0b57f79780e050a33991bb1f0cabc + 'j&#111;&#111;ml&#97;sh&#105;n&#101;' + '&#46;' + 'c&#111;m';
+var addy_textd8e0b57f79780e050a33991bb1f0cabc = 'pr&#105;v&#97;cy' + '&#64;' + 'j&#111;&#111;ml&#97;sh&#105;n&#101;' + '&#46;' + 'c&#111;m';document.getElementById('cloakd8e0b57f79780e050a33991bb1f0cabc').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyd8e0b57f79780e050a33991bb1f0cabc + '\'>'+addy_textd8e0b57f79780e050a33991bb1f0cabc+'<\/a>';
+</script>.</p>
+<style type="text/css">
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-weight: 700;
+}
+h3 {
+margin-bottom: 10px;
+}
+</style>
+</div>
+</div>
+</div></div>	</div></div></div><div id="sunfw_section_footer" class="sunfw-section shine-footer"><div class="container"><div id="row_row-12" class="row ">
+<div id="column_column-29" class="col-xs-12 col-sm-4 col-md-2 col-lg-2"><div class="layout-item sunfw-item-module-position">
+<div class="sunfw-pos-footer1  visible-lg visible-md visible-sm visible-xs">
+<div class="module-style "><div class="module-title"><h4 class="box-title "><span>JoomlaShine</span></h4></div><div class="module-body"><ul class="nav menu">
+<li class="item-1129"><a href="/about-us.html" rel="nofollow">About Us</a></li><li class="item-1130"><a href="/customers-testimonials.html" rel="nofollow">Customers Testimonials</a></li><li class="item-294"><a href="/blog.html" rel="nofollow">Blog</a></li><li class="item-1131"><a href="/affiliate-program.html" rel="nofollow">Affiliate Program</a></li><li class="item-1132"><a href="/partner-promotion.html" rel="nofollow">Partner Promotion</a></li></ul>
+</div></div>
+</div>
+</div></div>
+<div id="column_column-30" class="col-xs-12 col-sm-4 col-md-2 col-lg-2"><div class="layout-item sunfw-item-module-position">
+<div class="sunfw-pos-footer2  visible-lg visible-md visible-sm visible-xs">
+<div class="module-style "><div class="module-title"><h4 class="box-title "><span>Products</span></h4></div><div class="module-body"><ul class="nav menu">
+<li class="item-832 parent"><a href="/joomla-templates.html">Joomla! Templates</a></li><li class="item-1072 parent"><a href="/joomla-extensions.html">Joomla! Extensions</a></li><li class="item-1176"><a href="/product-packages.html" rel="nofollow">Product Packages</a></li><li class="item-1852"><a href="/free-joomla-templates.html" rel="nofollow">Free Joomla! Templates</a></li><li class="item-2114"><a href="/joomla-ebook.html" rel="nofollow">Joomla! Ebook</a></li></ul>
+</div></div>
+</div>
+</div></div>
+<div id="column_column-31" class="col-xs-12 col-sm-4 col-md-2 col-lg-2"><div class="layout-item sunfw-item-module-position">
+<div class="sunfw-pos-footer3  visible-lg visible-md visible-sm visible-xs">
+<div class="module-style "><div class="module-title"><h4 class="box-title "><span>Support</span></h4></div><div class="module-body"><ul class="nav menu">
+<li class="item-2120"><a href="/faqs.html.html" rel="nofollow">FAQs</a></li><li class="item-1157 parent"><a href="/documentation.html" rel="nofollow">Documentation</a></li><li class="item-414"><a href="/forums.html" rel="nofollow">Forums</a></li><li class="item-1147"><a href="/contact-us.html" rel="nofollow">Contact Us</a></li><li class="item-1611"><a href="/support-policy.html" rel="nofollow">Support Policy</a></li></ul>
+</div></div>
+</div>
+</div></div>
+<div id="column_column-32" class="col-xs-12 col-sm-7 col-md-3 col-lg-4 group-ft-4 visible-lg visible-md visible-sm visible-xs"><div class="layout-item sunfw-item-custom-html">
+<div class=" visible-lg visible-md visible-sm visible-xs">
+<h4>Connect with us</h4></div>
+</div>
+<div class="layout-item sunfw-item-social-icon">
+<div class="sunfw-social visible-lg visible-md visible-sm visible-xs">
+<ul class="margin-bottom-0 social list-inline ">
+<li><a href="https://www.facebook.com/joomlashine" target="_blank" rel="noopener noreferrer" class="btn-social-icon" style=" font-size: 14px;">
+<i class="fa fa-facebook"></i>
+</a></li>
+<li><a href="https://twitter.com/joomlashine" target="_blank" rel="noopener noreferrer" class="btn-social-icon" style=" font-size: 14px;">
+<i class="fa fa-twitter"></i>
+</a></li>
+<li><a href="https://www.youtube.com/user/joomlashine" target="_blank" rel="noopener noreferrer" class="btn-social-icon" style=" font-size: 14px;">
+<i class="fa fa-youtube-play"></i>
+</a></li>
+</ul>
+</div>
+</div></div>
+<div id="column_column-33" class="col-xs-12 col-sm-5 col-md-3 col-lg-2"><div class="layout-item sunfw-item-module-position">
+<div class="sunfw-pos-footer5  visible-lg visible-md visible-sm visible-xs">
+<div class="module-style  hidden-title footer5"><div class="module-body">
+<div class="custom hidden-title footer5">
+<div class="compressor">
+<p><a href="https://www.joomlashine.com/joomlashine/about-us.html" rel="nofollow">
+<img src="https://joomlashine-woorocketsvietna.netdna-ssl.com/images/v6/misc/badges/10years-joomla.svg" alt="10years joomla">
+</a></p>
+<p><a href="https://www.joomlashine.com/joomlashine/refund-policy.html" rel="nofollow">
+<img src="https://joomlashine-woorocketsvietna.netdna-ssl.com/images/v6/misc/badges/30days-moneyback.svg" alt="30days moneyback">
+</a></p>
+</div></div>
+</div></div>
+</div>
+</div></div>	</div></div></div><div id="sunfw_section_copyright" class="sunfw-section shine-copyright"><div class="container"><div id="row_row-12" class="row ">
+<div id="column_column-36" class="col-xs-12 col-sm-4 col-md-3 col-lg-3"><div class="layout-item sunfw-item-logo">
+<div class="sunfw-logo visible-lg visible-md visible-sm visible-xs">
+<a href="/index.php" title="JoomlaShine | Hi-quality Joomla 3.x templates &amp; extensions"> <img class="logo hidden-xs hidden-sm img-responsive " alt="JoomlaShine | Hi-quality Joomla 3.x templates &amp; extensions" src="https://joomlashine-woorocketsvietna.netdna-ssl.com/templates/jsn_shine_pro/niches/ngo/images/bottom_logo.svg"> <img class="logo hidden-lg hidden-md img-responsive " alt="JoomlaShine | Hi-quality Joomla 3.x templates &amp; extensions" src="https://joomlashine-woorocketsvietna.netdna-ssl.com/templates/jsn_shine_pro/niches/ngo/images/bottom_logo.svg">
+</a>
+</div>
+</div></div>
+<div id="column_column-37" class="col-xs-12 col-sm-4 col-md-6 col-lg-6"><div class="layout-item sunfw-item-custom-html">
+<div class=" visible-lg visible-md visible-sm visible-xs">
+<p style="text-align: center;">Copyright 2008 - 2017 JoomlaShine.com. All rights reserved</p></div>
+</div>
+<div class="layout-item sunfw-item-module-position">
+<div class="sunfw-pos-footer-center  visible-lg visible-md visible-sm visible-xs">
+<div class="module-style "><div class="module-body"><ul class="nav menu footer_menu">
+<li class="item-1133"><a href="/terms-of-use.html" rel="nofollow">Terms of Use</a></li><li class="item-1134 current active"><a href="/privacy-policy.html" rel="nofollow">Privacy Policy</a></li></ul>
+</div></div>
+</div>
+</div></div>
+<div id="column_column-38" class="col-xs-12 col-sm-4 col-md-3 col-lg-3"><div class="layout-item sunfw-item-custom-html">
+<div class="align-right visible-lg visible-md visible-sm visible-xs">
+<p><i class="fa fa-cc-jcb">&nbsp;</i> <i class="fa fa-cc-paypal">&nbsp;</i> <i class="fa fa-cc-visa">&nbsp;</i> <i class="fa fa-cc-mastercard">&nbsp;</i></p></div>
+</div></div>	</div><div id="row_row-15" class="row ">
+<div id="column_column-42" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><div class="layout-item sunfw-item-module-position">
+<div class="sunfw-pos-footer  visible-lg visible-md visible-sm visible-xs">
+<div class="module-style  disclaimer-bottom"><div class="module-body">
+<div class="custom disclaimer-bottom">
+<p>JoomlaShine and this site is not affiliated with or endorsed by The Joomla! Project™. Any products and services provided through this site are not supported or warrantied by The Joomla! Project or Open Source Matters, Inc. Use of the Joomla!® name, symbol, logo and related trademarks is permitted under a limited license granted by Open Source Matters, Inc.</p></div>
+</div></div>
+</div>
+</div></div>	</div></div></div>		</div><!--/ #jsn-wrapper -->
+<a href="#" class="sunfw-scrollup position-right ">
+<i class="fa fa fa-arrow-up"></i>
+</a>
+<!-- POST AFFILIATE -->
+<script type="text/javascript"><!--
+var postAffscript = document.createElement("script");
+postAffscript.onload = function(){
+<!--
+PostAffTracker.setAccountId('default1');
+try {
+PostAffTracker.track();
+} catch (err) { }
+//-->
+};
+postAffscript.src = (("https:" == document.location.protocol) ? "https://" : "http://") +
+"joomlashine.postaffiliatepro.com/scripts/trackjs.js";
+postAffscript.setAttribute("id", "pap_x2s6df8d");
+postAffscript.setAttribute("type", "text/javascript");
+document.getElementsByTagName("head")[0].appendChild(postAffscript);
+//-->
+</script>
+<!-- POST AFFILIATE -->	<script>function pustDataLayerForNewCustomer(pOne, pTwo){
+try
+{
+dataLayer.push(pOne);
+dataLayer.push(pTwo);
+}
+catch(e)
+{
+if (window.console && window.console.log)
+{
+console.log(e.message)
+}
+}
+}</script>
+<script type="text/javascript">
+var jsnlcGTMListType="Privacy Policy: Main Menu";
+var jsnLCOption = "com_content";
+var jsnLCView = "article";
+try
+{
+jsnlcGTMImpressions = jsnlcGTMImpressions.concat([{"id":"148","name":"JSN PageBuilder 3","brand":"JoomlaShine","category":"JSN Extensions","position":1,"list":"Privacy Policy: Main Menu"},{"id":"17","name":"JSN PowerAdmin","brand":"JoomlaShine","category":"JSN Extensions","position":2,"list":"Privacy Policy: Main Menu"},{"id":"6","name":"JSN ImageShow","brand":"JoomlaShine","category":"JSN Extensions","position":3,"list":"Privacy Policy: Main Menu"},{"id":"29","name":"JSN UniForm","brand":"JoomlaShine","category":"JSN Extensions","position":4,"list":"Privacy Policy: Main Menu"},{"id":"87","name":"JSN EasySlider","brand":"JoomlaShine","category":"JSN Extensions","position":5,"list":"Privacy Policy: Main Menu"},{"id":"63","name":"JSN Mobilize","brand":"JoomlaShine","category":"JSN Extensions","position":6,"list":"Privacy Policy: Main Menu"}]);
+}
+catch(e)
+{
+if (window.console && window.console.log)
+{
+console.log(e.message)
+}
+}
+jQuery(document).ready(function ()
+{
+try
+{
+if (typeof(Storage) !== "undefined")
+{
+var recentlyViewedTemplates = localStorage.getItem("jsnnextgenrecentlyviewedtemplates");
+recentlyViewedTemplates = JSON.parse(recentlyViewedTemplates);
+if (typeof recentlyViewedTemplates[jsnlcLanguageTagGlobal] != null)
+{
+recentlyViewedTemplates = recentlyViewedTemplates[jsnlcLanguageTagGlobal];
+var recentlyViewedTemplatesLength = recentlyViewedTemplates.length;
+if (recentlyViewedTemplatesLength)
+{
+var jsJSNLCProductsLength = jsJSNLCProducts.length;
+if (recentlyViewedTemplatesLength >= 6)
+{
+recentlyViewedTemplatesLength = 5;
+}
+for (i = 0; i < recentlyViewedTemplatesLength; i++)
+{
+for (j = 0; j < jsJSNLCProductsLength; j++)
+{
+if (jsJSNLCProducts[j].product_name === recentlyViewedTemplates[i].name)
+{
+var tmpGTMImpressionManinMenuItem = {"id": jsJSNLCProducts[j].product_id, "name": recentlyViewedTemplates[i].name, "brand": "JoomlaShine", "category": "JSN Templates", "position": i + 1, "list": "Privacy Policy: Main Menu"};
+jsnlcGTMImpressions.push(tmpGTMImpressionManinMenuItem);
+break;
+}
+}
+}
+}
+}
+}
+var gtmImpressionDataLayer = {"ecommerce": {"currencyCode": "USD", "impressions": jsnlcGTMImpressions}, "event": "productImpressions"};
+if (jsnlcGTMImpressions.length)
+{
+if (jsnLCOption == "com_lightcart" && jsnLCView == "filteredproducts")
+{
+var maxProducts = 35;
+while (jsnlcGTMImpressions.length)
+{
+var p = jsnlcGTMImpressions.splice(0, maxProducts);
+dataLayer.push({
+"ecommerce": {
+"currencyCode":"USD",
+"impressions": p
+},
+"event": "productImpressions",
+});
+}
+}
+else
+{
+if (typeof GTMJSNProductDetails != "undefined")
+{
+gtmImpressionDataLayer["ecommerce"]["detail"] = GTMJSNProductDetails;
+}
+dataLayer.push(gtmImpressionDataLayer);
+}
+}
+}
+catch(e)
+{
+if (window.console && window.console.log)
+{
+console.log(e.message);
+}
+}});</script>
+<script src="https://joomlashine-woorocketsvietna.netdna-ssl.com/plugins/system/jsnloadbootstrap/assets/js/kayako-v2.js" defer="" async=""></script><link href="https://fonts.googleapis.com/css?family=Roboto:300,regular,500,700,900" rel="stylesheet" media="all">
 
 </body></html>
