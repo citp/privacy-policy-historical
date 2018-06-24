@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fibogroup.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102211333id_/http%3A//www.fibogroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fibogroup.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624084345id_/https%3A//www.fibogroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - FIBO Group
 
@@ -95,7 +95,7 @@ All the correspondence (by post or e-mail, any comments on the Fibo Group materi
 
 ### Final Provisions
 
-This Privacy Policy is an open document for general use. The current edition is available on our site and has a permanent address - <http://fibogroup.com/privacy_policy/> .
+This Privacy Policy is an open document for general use. The current edition is available on our site and has a permanent address - [www.fibogroup.com/privacy-policy/ ](https://www.fibogroup.com/privacy-policy/).
 
 FIBO Group reserves the right to change the Privacy Policy, notifying about any changes on the webpage situated at the above address. Date of the current edition would be indicated at the top of the page. Changes that are made in this Privacy Policy will be published on this page. In the case of significant changes to the Policy, we will notify you in more evident way (eg. by sending a newsletter via e-mail).
 
