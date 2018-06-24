@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tradesy.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119052149id_/https%3A//www.tradesy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradesy.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624054350id_/https%3A//www.tradesy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tradesy
 
-This Privacy Policy governs the manner in which Tradesy, Inc. (“Tradesy,” the “Company,” or “we”) collects, uses, maintains, and discloses information (including personal information) collected from users (each, a "User" or "you") of our website located at www.tradesy.com ("Website"), mobile applications and other services provided by Tradesy, Inc. or any of its subsidiaries (collectively, “Services”). 
+This Privacy Policy governs the manner in which Tradesy, Inc. or any of its affiliates or subsidiaries (“Tradesy,” the “Company,” or “we”) collects, uses, maintains, and discloses information (including personal information) collected from users (each, a "User" or "you") of our website located at www.tradesy.com ("Website"), mobile applications and other services provided by Tradesy, Inc. or any of its subsidiaries (collectively, “Services”). 
 
 By using the Website or any Services, or otherwise providing us with information, you consent to our collection, storage, use and disclosure of your personal information and other information as described in this Privacy Policy. If we are not able to collect, store, use, and disclose information about you as set out in this Privacy Policy, we may not be able to provide you with access to the Website or Services. 
 
@@ -184,4 +184,4 @@ Sydney, NSW 2001
 
 California Civil Code Section 1798.83 permits customers of Tradesy who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [team@tradesy.com](mailto:team@tradesy.com). We may (and we may allow third-party service providers) use cookies or similar technologies to collect information about your browsing activities across different websites after you have used our Services. Our Services do not respond to "Do Not Track" (DNT) signals and operates as described in this Privacy Policy whether or not a DNT signal is received. 
 
-Updated: April 11, 2017
+Updated: April 2, 2018
