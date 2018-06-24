@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freedesignfile.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225185627id_/http%3A//freedesignfile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedesignfile.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624025734id_/http%3A//freedesignfile.com/privacy) for the most accurate reproduction.*
 
 # Freedesignfile Privacy Policy
 
-Freedesignfile Privacy Policy explains the collection, use, and disclosure of personal information by Freedesignfile, located at vectorpage.com.
+Freedesignfile Privacy Policy explains the collection, use, and disclosure of personal information by Freedesignfile, located at freedesignfile.com.
 
 Freedesignfile has implemented all reasonable measures to protect against unauthorized access to and unlawful interception or processing of personal information that we control. This Privacy Policy covers the use of cookies by Freedesignfile and does not cover the use of cookies or other tracking technologies by any of its third parties.
 
