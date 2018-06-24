@@ -1,105 +1,157 @@
-> *The following text is extracted and transformed from the xilinx.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129051138id_/http%3A//www.xilinx.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xilinx.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624110603id_/http%3A//www.xilinx.com/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Xilinx Privacy Policy
+# Privacy Policy
 
-Last Updated: August 24, 2016  
+_Our Privacy Policy has changed. You can view our previous privacy policy[here](https://web.archive.org/about/privacy-policy-previous.html)._
 
+Last Updated: May 23, 2018
 
-In this Privacy Policy ("Policy"), we, Xilinx, Inc., describe our data collection and usage practices with respect to personal data we collect through [www.xilinx.com](http://www.xilinx.com/) and Xilinx mobile applications that directly link to this Policy (collectively the "Site"). 
+Xilinx (“ **we** ”, “ **our** ” or “ **us** ”) provides software-based intelligence and hardware optimization solutions to enable smarter, connected and differentiated systems. We collect data in order to operate effectively and to provide you with the best experiences of our products, technologies and services. This Privacy Policy (" **Policy** ") describes our data collection and usage practices with respect to the personal data of our customers (including prospective customers), vendors, business partners, university personnel and students, website visitors, visitors to our premises and potential candidates (“ **you** ”, “ **your** ” or “ **yours** ”).  
 
-This Policy and our TRUSTe certification covers only information collected through the Site and not information that we collect offline, through other websites or through software downloaded from websites. In order to view information on our relationship with TRUSTe, please visit the validation page by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+You provide us with your personal data directly, such as when you create a Xilinx account, submit a query or feedback to us, register for our webinars, software evaluations or programs, register or attend our events, visit our facilities, obtain a licence or product from us, contact us for support or if you provide services to us. We also collect your personal data from your use and interaction with our products and services (including through Xilinx [WebTalk](https://web.archive.org/products/design-tools/webtalk.html)), the Xilinx [Go App](https://web.archive.org/about/app-download.html) and our website [www.xilinx.com](https://web.archive.org/). For example, we receive information that your computer or other device sends to us in connection with access requests and via cookies and other technologies that we use to analyze and enhance your use of our website.
 
-If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@xilinx.com](mailto:privacy@xilinx.com).
+### Information Which We Collect and Process
 
-### Information That You Provide 
+We collect and process your personal data including, but not limited to, the following types of personal data:
 
-You may visit the Site without registering or actively submitting personal data to us. If you do not register, then we receive only information that your computer or other device sends to us in connection with access requests and via cookies and other technologies that we use to analyze and enhance your use of our Site.
-
-When you register to use the Site, you will provide your name, email address, and a unique user ID. If you register for online seminars or software evaluations, or if you participate in our online contests or contact us for information, you will be asked to provide additional information such as your title, company, address, and telephone number. If you make purchases on the Site, we will also ask you for billing and credit card information. You may also submit personal information when you contact Xilinx for additional information about our products and services. We also collect resume and applicant information for those applying to job openings.
-
-We use your information to operate, evaluate and improve our business (including developing new products and services; enhancing and improving our services; managing our communications; and analyzing our products).
-
-### Information We Share 
-
-We disclose your personal information only as follows: 
-
-  * With your consent. 
-  * We use affiliated and unaffiliated service providers all over the world that help us deliver our service and run our business subject to confidentiality agreements.
-  * We share aggregated usage statistics that cannot be used to identify you individually.
-  * We will disclose data as required by law or to protect you, other users, us or third parties from harm, including fraud, data security breaches or where someone's physical safety seems at risk.
-  * In a reorganization or sale of our company or assets, your data may be transferred, subject to the acquirer accepting the commitments made in this Statement and compliance with applicable law.
+  * **Personal details and contact information** :  This includes information such as name, date of birth, contact information (e.g., home address, telephone, etc.) and information contained in publicly available professional profiles (e.g., education, work experience, etc.).
 
 
+  * **Sales and marketing related information** : This includes information such as products or technologies purchased, downloaded or licensed from us, the products and services you are interested in, your marketing preferences, phone number, email address, your signature and work information (e.g., company name, work address, work phone number, work email address, job title, etc.) and information about how you interact with our marketing materials.
 
-### How We Protect Personal Information
 
-Personal information collected via the Site may be stored and processed in the United States and/or any other country in which Xilinx or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such storage, processing and transfer of information into and out of your country, state, and/or territory. 
+  * **Payment and transactional information** :  This includes information such as billing and payment card details, payment receipts and shipping details.
 
-Xilinx employs procedural and technological measures reasonably designed to protect your personal information under our control from loss or unauthorized access, disclosure, alteration, or destruction. Xilinx stores your personal information on secure computers located in a controlled access data center, to which only a small number of Xilinx employees involved in the management of the data center have physical access. Where reasonably practical, Xilinx uses encryption, firewalls, and other security technology to help prevent unauthorized access to your personal information. 
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Site, you can contact us at [privacy@xilinx.com](mailto:privacy@xilinx.com)
+  * **Customer support information** : This includes information you may provide us with related to your use of our products, technologies or services, including how to contact you so we can provide you customer support.
 
-### Tracking Technologies
 
-We and our marketing partners, affiliates, analytics or online customer support providers use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the Site, track users' movements around the Site, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
+  * **Cookies** :  We use cookies and similar technologies to operate and provide our website, to support advertising and related activities and for other purposes. For example, we may use cookies to remember your choices, such as your language preferences, and otherwise to customize our services for you. For more information about how we use cookies and similar technologies, please read [here](https://web.archive.org/about/cookies.html).
 
-We use cookies for our shopping cart, to remember users' settings (e.g., language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Site, but your ability to use some features or areas of our Site may be limited.
 
-We partner with a third party to either display advertising on our Site or to manage our advertising on other websites. Our third-party partner may use technologies such as cookies to gather information about your activities on this Site and other websites in order to provide you advertising based upon your browsing activities and interests. If you wish not to have this information used for the purpose of serving you interest-based advertisements, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertisements. You will continue to receive generic advertisements.
+  * **Account and user content** :  This includes information which you provide us when you create an account with us, register for certain customer services or software evaluations or participate in one of our Community Forums or online contests. We also process information such as your username, user email, date and time of visit, forum usage history, any content you post and any personal data contained in complaints or concerns you submit to us. Any information you provide to our Community Forums will be publicly available and may be read, collected, and used by anyone who accesses them.
 
-We use local storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our Site or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
-We may not recognize or take action in response to Do-Not-Track (DNT) signals from Web browsers. At this time there is not any universally accepted standard for a company's adoption for how to respond when a DNT signal is detected. In the event a final standard is established, we will determine how to appropriately respond to these signals. 
+  * **Video surveillance and visitor logging information** :  We monitor both the internal and external areas of our facilities using CCTV and related video surveillance systems. If you visit a Xilinx facility, we may record your image using video surveillance. Where required and permissible by applicable law, we may also collect physical descriptions of visitors to our facilities in order to comply with visitor logging protocols.
 
-### Widgets
 
-Our Site includes social media features, such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it. 
+  * **WebTalk information:** If [WebTalk](https://web.archive.org/products/design-tools/webtalk.html) is enabled, certain information collected by WebTalk (which may include licence keys, codes, location settings, usage statistics, device data, log data, etc.) may be able to identify you.
 
-### Customer Surveys
 
-Xilinx may contract with third-party providers of customer feedback campaigns. When you visit our Site, you may encounter a pop-up dialog box requesting your participation in a customer feedback survey. Participation in these customer feedback campaigns is voluntary and you may choose whether or not you wish to provide any information to the third-party survey provider. When you participate in a customer feedback campaign, the information is being provided to the third-party survey provider and the terms of the third-party survey provider's privacy policy, and not this Policy, will apply to any personal information that you may provide in connection with your voluntary participation in any customer survey activities. 
 
-### Forums
+The provision of certain personal data is mandatory (and may be required accordance with a contractual requirement or to enter into a contract). The collection of any such data will be made clear at the time of collection of the information.  If you choose not to submit this information, you may not be able to receive our products, technologies and services.
 
-Our Site offers publicly accessible community forums. Any information you provide in these areas may be read, collected, and used by others who access them. Any such disclosures are made at your own risk. To request removal of your personal information from our blog or community forum, contact us at [privacy@xilinx.com](mailto:privacy@xilinx.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+### How We Use Your Personal Data
 
-### Links to Other Websites
+We use your personal data for the purposes described below, except where restricted by law. In doing so, we rely on a number of separate legal bases to lawfully process such information.
 
-For your convenience, we may provide links on our Site to certain third-party websites or referrals to certain third-parties' products or services. If you choose to visit a third party's website, or use its products or services, please be aware that the third party's privacy policy, and not this Policy, will govern your activities and any information you disclose while interacting with the third party. 
+We process your personal data where it is necessary to perform our contractual obligations with you. In particular, we process your personal data to:  
 
-### Unsubscribe/Opt-Out
+  * **Fulfill our contracts with customers, partners and vendors** : We process your personal data in order to perform the contract as set out in any agreement(s) which you have entered into with us, generate quotes and sales data, process customer orders, track shipments, fulfill deliveries and process payments and to fulfill our contracts with business partners, vendors and suppliers.
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, or you can contact us at [**Website Feedback and General Questions**](https://web.archive.org/about/feedback/website-feedback.html).
 
-### Data Retention 
+  * **Create and administer accounts and registrations** : When you create an account with us or register for our products, technologies or services, we process your personal data in order to create and administer yours accounts and registrations.
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-### Framing
 
-Our check-out page utilizes framing techniques to serve content from our partners while preserving the look and feel of our site [www.xilinx.com](http://www.xilinx.com/). Personal information you provide to these third parties is not covered by our Privacy Policy.
+We may also process your information where necessary to further our legitimate interests and those of others, where those legitimate interests are not overridden by your rights or interests.  In particular, the processing of your personal data is necessary for the following legitimate interests:  
 
-### EU-U.S. Privacy Shield and Swiss Safe Harbor Program
+  * **Operate, improve and evaluate our business** : We use your personal data to operate our services and provide our products and technologies and to improve the efficiency of our operations including developing new products and services, enhancing and improving our products, technologies and services, attracting talented individuals to work with us, providing customer support, managing our communications, analyzing our products and technologies, providing advertising and a more personalized experience for you and performing our contracts with third parties. For example, we use information that we receive via WebTalk so that we can continuously improve our products, technologies and services.  
 
-Xilinx joined the EU-U.S. Privacy Shield program as further explained in our [Privacy Shield Notice ](https://web.archive.org/publications/shield-notice-2016.pdf).
 
-Xilinx has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/)for more information and to file a complaint.
+  * **Communicate with you** : We use your personal data (including any personal data obtained via Webtalk) to communicate with you about our products, technologies and services and to let you know about our terms and policies and other important updates. We may also use your information to contact you about joining the [Xilinx Talent Community](https://careers.xilinx.com/). If you do not object to us using your personal data, we may provide you marketing for our products and services. It is in our legitimate interests to promote and market our products and services.  
 
-Xilinx complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Xilinx has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor Principles and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
 
-In compliance with the US-Swiss Safe Harbor Principles, Xilinx commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Xilinx at [privacy@xilinx.com](mailto:privacy@xilinx.com).
+  * **Support safety and security** : It is in our legitimate interests to use your personal data to prevent unlawful activities and misuse of our goods and services, to protect the safety and security of our customers and personnel, to protect our property, to deter crime and to investigate any security incidents or accidents.  
 
-Xilinx has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint
 
-### Policy Changes
+  * **Legal proceedings:** We process your information if necessary to defend our interests in legal proceedings.
 
-We may update this Privacy Statement periodically and without prior notice to you to reflect changes in our personal information practices.
 
-### Questions?
 
-If you have any questions about our privacy practices, please feel free to contact us at [privacy@xilinx.com](mailto:privacy@xilinx.com). 
+In certain circumstances, we may also use your personal information to comply with our legal obligations such as to comply with applicable laws (including export control laws and responding to binding legal process) or to assist law enforcement and government agencies when such is in our or their legitimate interests and where we have a good-faith belief that such cooperation is reasonably necessary or meets the applicable legal standards.
 
-Xilinx, Inc.  
-2100 Logic Drive  
-San Jose, CA 95124  
-U.S.A. 
+### Third Party Activities
+
+You may interact with third parties through our website. Those interactions are governed by the privacy policies of those third parties, and not by this Policy. Interactions that fall into this category include:  
+
+  * **Widgets** , such as the Facebook Like button. Widgets may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Widgets and other social media features are either hosted by a third party or hosted directly on our website. Your interactions with those features are governed by the privacy policies of the companies providing the widgets.  
+
+
+  * **Customer Surveys** , provided by third parties to visitors of our website. When you visit our website, you may encounter a pop-up dialogue box requesting your participation in a customer feedback survey. Participation in these customer feedback campaigns is voluntary and you may choose whether or not you wish to provide any information to the third-party survey provider. When you participate in a customer feedback campaign, the information is being provided to the third-party survey provider and the terms of the third-party survey provider's privacy policy, and not this Policy, will apply to any personal information that you may provide in connection with your voluntary participation in any customer survey activities.
+
+
+  * **Links to Other Websites** , which we provide on our website for your convenience. If you choose to visit a third party's website, or use its products or services, please be aware that the third party's privacy policy, and not this Policy, will govern your activities and any information you disclose while interacting with the third party.
+
+
+  * **Framing** , which serve content from our partners while preserving the look and feel of our website. Personal information you provide to these third parties is not covered by our Privacy Policy.
+
+
+
+### Sharing of personal data
+
+Where necessary, and in accordance with the purposes set out in this Policy, we share your personal data only to the extent necessary for the purposes set out in this Policy. Your personal data will be shared with other Xilinx group affiliates and third parties that help us operate, provide, improve, understand, support, and market our products and services. For example, we share information with a number of third parties including our [Alliance Program partners](https://web.archive.org/alliance.html), advertising partners, training providers, event coordinators, payment processors, order fulfilment partners, shipping providers, customer support service providers and authorized distributors and sales representatives. When we outsource the processing of personal data to third parties or provide personal data to third party service providers, we require those third parties to protect that personal data with appropriate security measures and prohibit or restrict them from using the personal data for their own purposes or from disclosing the personal data to others.
+
+As our business develops, we may buy and sell assets. In such transactions, personal data generally is one of the transferred business assets. As a result, your personal data may also be disclosed, where permitted by applicable law, in connection with a corporate restructuring, sale, or assignment of assets, merger, divestiture, or other changes of control or financial status.
+
+### Cookies and similar technologies
+
+We and our marketing partners, affiliates, analytics, and online customer support providers use technologies such as cookies, beacons, tags, and scripts to analyse trends, administer our website, track users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual or an aggregated basis.
+
+We also use cookies for our shopping cart, to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Site, but your ability to use some features or areas of our Site may be limited. For more information about how we use cookies and similar technologies, please see [here](https://web.archive.org/about/cookies.html).
+
+### Choice
+
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, or you can visit the [Email Subscription Preferences](https://web.archive.org/registration/email-opt-request.html) page.
+
+### Retention and Security
+
+We will maintain appropriate technical and organisation measures to protect against accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to your information. We will provide a level of security that is proportionate to the risks that are presented by the processing activity, having regard to the state of the art, the costs of implementation and the nature, scope, context and purposes of the processing.
+
+We will retain your personal data for as long as is necessary for the purposes set out in this Policy for as long as your account is active or as needed to provide you services or to perform our contract with you. We will retain and use your personal data to the extent necessary to comply with our legal obligations, to resolve disputes and to enforce our agreements.
+
+**Data Transfers**
+
+Like most international business, Xilinx operates globally and therefore personal data may also be disclosed and transferred to a person or company that is not part of the Xilinx group and located in a country outside the EU/EEA for any of the purposes set out in this Policy. Some of these countries may not have the same levels of data protection as are present in the EU, in which case Xilinx will transfer and disclose your data in compliance with the [European Commission’s adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) on certain countries and the Standard Contractual Clauses approved by the European Commission. You can request a copy of the Standard Contractual Clauses by sending an email to [privacy_gdpr@xilinx.com](mailto:privacy_gdpr@xilinx.com).
+
+Xilinx, Inc. also complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union Member States. Xilinx, Inc. has certified that it adheres to the Privacy Shield Principles. To learn more about how personal data are transferred pursuant to the EU-US Privacy Shield Framework, please read the Xilinx, Inc. EU-US Privacy Shield Notice located [here](https://www.xilinx.com/programmable/hr/Xilinx_Privacy_Shield_Notice.pdf).
+
+### Your Rights
+
+If you live in the EEA, you have a number of rights with regard to your personal data including the right to access or port your personal data and to have any inaccuracies in your personal data corrected. In many cases where we process your information, you may also have a right to restrict or limit the ways in which we use your personal data.
+
+In certain circumstances, you also have the right to object to the processing of your personal data by us. You can request that we delete your personal data and we will carry out this request unless certain exceptional reasons arise permitting us to keep certain personal data about you.
+
+If you are based in the EEA and you wish to raise a concern about our use of your data (and without prejudice to any other rights you may have), you have the right to do so with the Irish Data Protection Commissioner (who is Xilinx’s lead supervisory authority) or your local supervisory authority in the country in which you reside, whichever is more convenient. Click [here](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061) to find your local supervisory authority.
+
+**Contact Information**
+
+If you live outside the EEA, Xilinx Inc. is responsible for your information. You can contact Xilinx Inc. by email at [privacy@xilinx.com](mailto:privacy@xilinx.com) or write to us at:
+
+Xilinx, Inc.
+
+Legal Department/Privacy
+
+2100 All Programmable Drive
+
+San Jose, CA 95124
+
+U.S.A.
+
+If you live in the EEA, the data controller you should contact is Xilinx Ireland Unlimited Company, an Irish company by email at [privacy_gdpr@xilinx.com](mailto:privacy_gdpr@xilinx.com) or write to us at:
+
+Xilinx Ireland Unlimited Company
+
+Logic Drive
+
+Citywest Business Campus
+
+Saggart
+
+Co Dublin
+
+Ireland
+
+### Policy Updates
+
+This Policy may be updated from time to time. If we make changes that are material we will notify you either by prominently posting a notice of such changes before they take effect or by directly sending you a notification.
