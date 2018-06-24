@@ -1,63 +1,173 @@
-> *The following text is extracted and transformed from the nationaljournal.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629202422id_/http%3A//www.nationaljournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaljournal.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624130547id_/https%3A//www.nationaljournal.com/privacy-policy%3Fmref%3Dfooter) for the most accurate reproduction.*
 
-# Privacy Policy - NationalJournal.com
+# Privacy Policy
 
-**Last Updated:   February 27, 2011**
+**_Last Updated: May 29, 2018_**
 
-**Privacy Policy**
+The National Journal Group LLC (“National Journal”) wants you to enjoy our websites, apps, and other online services secure in the knowledge that we have implemented fair and transparent information practices designed to protect, and provide you with control of, your privacy.
 
-_Please note that our Sites and Mobile Content are under constant development. New services are added frequently and this agreement may therefore be modified and updated on an ongoing basis. It is important to check back to this page regularly._
+National Journal owns and operates the website [nationaljournal.com](https://www.nationaljournal.com/); operates related Facebook pages; delivers newsletters and other content via email; and makes the same or similar content available to mobile users, including via iOS apps (collectively, the “Services”). Our Privacy Policy applies when you use any of these Services. It describes the kinds of information we may gather when you use the Services, how we use your information, when we might disclose your information, and how you can manage your information.
 
-At the National Journal Group, Inc. ("National Journal"), we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy.  Our privacy policy below describes the information we collect, how we use it, and the choices you have regarding collection and use of your personal information.  This policy applies to all websites and online services operated by _National Journal_ , including nationaljournal.com, as well as to the content and services we provide to mobile users, through WAP and apps available on mobile devices such as Apple’s iPhone and iPad (collectively, our “Sites” or “Sites and Mobile Content”).
+Our Privacy Policy does not govern or apply to information collected or used by National Journal through other means. It also does not apply to websites maintained by other companies or organizations to which we may link or who may link to us. We are not responsible for the actions and privacy policies of third party websites.
 
-**What We Learn** Our Sites may automatically recognize your domain name, IP address, browser version, operating system and the website you passed through to reach us. In addition, our Sites automatically gather certain usage information, like the numbers and frequency of visits to the Sites and their areas – very much like television ratings that tell how many people tuned in to a program.  The information we obtain in providing Mobile Content varies depending on the practices of your device manufacturer, service provider, and choices available to you as a user.
+**By using our Services, you are accepting the practices described in our Privacy Policy, including our use of cookies and similar online tools.** If you do not agree to the terms of this Privacy Policy, please do not use our Services. We reserve the right to modify or amend the terms of our privacy policy from time to time without notice. Your continued use of our Services following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively or to personal information already in our possession, we will provide you with notice of the modifications or amendments and seek your consent for such use.
 
-Some features of our Sites do offer you the option of providing information such as your name, e-mail address, postal address, phone number, organization, location, or any other identifying information.  As described in greater detail below, such information will only be used to provide you with products or services you have requested or additional information about the Sites or their affiliates.  (You may also provide us with such information in the course of subscribing to _National Journal_ magazine or other offerings from National Journal – details of how we use such information are also provided below.) 
+**If you are a resident of the European Economic Area (“EEA”) or Switzerland, please see the “Users in the EEA and Switzerland” section of this Privacy Policy**. Our [Privacy Shield Policy](https://www.atlanticmedia.com/privacyshield/) governs use of personal information that has been transferred to us from organizations in the EEA and Switzerland.
 
-Information gathered through the use of cookies and javascript may include subscriber information including subscription id and sign-in name. This information is used to track subscriber usage of National Journal products. 
+_Please note that our Services are under constant development. This Privacy Policy may therefore be modified and updated on an ongoing basis. Please check back to this page regularly._
 
-**How We Use What We Learn** The information we collect is used to improve the content of _National Journal_ magazine and our Sites and to keep you apprised of important developments.  For example, we may use personally identifiable information to contact you as part of an online survey about our editorial offerings, inform you of material changes or additions to our services, advise you of account status, or contact you in order to comply with any legal requirements.  Also, we compile and use your information so that we may keep you apprised of special offers, as well as additional products that may be of interest to you. 
+**WHAT INFORMATION IS COLLECTED**
 
-In some cases, we may share personally identifiable information to contact you (sometimes through a vendor or business partner) for the reasons we have described.
+When you use the Services, we may collect several types of information about you and/or your use of the Services. For example, we may collect information that you provide to us, information that we collect through your use of the Services, and information that we collect from publicly available sources or third parties.
 
-**What We Tell Others About You** We will not sell or rent or willfully disclose any personally identifying information obtained through the Sites (other than in connection with magazine subscriptions ordered, as explained below) to a party outside Atlantic Media Company, its divisions, its affiliated publications (such as The Atlantic, National Journal Daily, Government Executive, and NextGov), its vendors providing Internet hosting services, or third party list managers, without first receiving the user's permission. We do not collect personally identifying information from our visitors, other than what is supplied to us on a voluntary basis. 
+**Information You Provide to Us.** There are a number of circumstances in which you may be required or invited to supply us with personal information, such as when you: register for a membership; subscribe to our publications, newsletters, and other content; register for an event; place an order; complete a survey or participate in market research; enter a contest; submit content or post a comment; send us an email, pitch, or request for information; or when you seek employment at National Journal. In these circumstances, we may ask you to provide information such as your name, e-mail address, year of birth, gender, street address, employment information, or other demographic information.
 
-From time to time we allow reputable companies, whose products or services we feel may interest our print subscribers, to contact these subscribers using the addresses provided to us during the process of subscribing to _National Journal_ ’s print edition.  (We do not share these addresses directly with these companies, however—only with a third party who administers the process on our behalf.) . Many of our subscribers find this a valuable and time-saving service. If you do not want your information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling, or writing us (see addresses below).
+**Information About Your Use of the Services**. We may collect information about your use of the Services such as:
 
-We may provide statistical usage data in the aggregate--not information about you personally--to our partners about how visitors use the Sites. From time to time we conduct research on our users' demographics, interests and behavior based on the information you provide to us upon registration, on order forms, as well as from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis and we may share this aggregated data with advertisers or other businesses. 
+  * **_Device information_** : We may collect your computer or mobile device model, IP address, other unique device identifiers, operating system version, browser type, language, and settings, and device type and settings.
+  * **_Usage information_** : We may collect information about the Services you use, the time, date, and duration of your use of the Services, your interaction with content offered through the Services, search terms used, our referring website, and software crash reports. We also collect information stored using cookies, mobile ad identifiers, and similar technologies set on your device. Our servers may automatically keep an activity log of your use of the Services. We may collect such usage information at the individual or aggregate level.
+  * **_Location information_** : We collect and store your device’s source IP address, which may disclose the general location of your device at the time you access the Services. Advertisements and certain content may be directed to you based on this data.
 
-In some cases, we may disclose information about you to a third party if we are required to do so by law or if we in good faith believe that such action is necessary to comply with the law or legal process, to protect and defend our rights or to prevent misuse of our Sites, or to protect the personal safety or property of our users or the public. 
 
-In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, National Journal reserves the right to transfer your personally identifiable information to the new party in control or the party acquiring assets.
 
-**What Are Cookies And How Do We Use Them?** The Sites place a "cookie" on the browser of a user's computer to gather and store basic tracking information and to monitor the presentation of advertisements. We may also use the information for editorial purposes and for other purposes such as measuring certain traffic patterns. For example, cookies are used to ensure that you don't see the same ad too many times in a single session. Cookies are also used to restrict access to certain areas of the Sites to bona fide subscribers andto provide functionality such as “remember my password.”. Cookies are not used to retrieve information from your computer that was not originally sent in a cookie.
+**Information From Third Parties**. We may receive information about you from third parties and combine it with information we receive from or about you. For example:
 
-Advertising service vendors that serve ads into our Sites may also use their own cookies. You may opt-out of the cookies delivered by the Sites by changing the setting on your browser. Some browsers are set to refuse all cookies, or to restrict the conditions under which they are set. Please be aware that this will disable all cookies delivered to your browser, not just the ones delivered by us. If you would like more information about advertisers' use of cookies, and about your ability not to accept these cookies, please visit the Network Advertising Initiative’s Opt-Out page here <http://www.networkadvertising.org/managing/opt_out.asp>. If you would like to opt-out of having interest-based information collected during your visits to this or other sites, please visit the consumer opt-out page for the Self Regulatory Program for Online Behavioral Advertising here <http://www.aboutads.info/choices> (currently in beta). 
+  * **_Information from social media websites_** : When you interact with any National Journal property page or account on a social media platform, such as Facebook, Twitter, Tumblr, or LinkedIn, we may collect the personal information that you make available to us on that page or account, including your social media account ID. We will comply with the privacy policies of the social media platform and we will only collect and store such personal information that we are permitted to collect by those social media platforms.
+  * **_Information from publicly or commercially available sources_** : Certain third parties make available information, collected both online and offline, such as demographic information, additional contact information, group affiliations, occupational information, and educational background.
 
-Some online advertising for the Sites is delivered by the vendor DoubleClick, a Google company. For more information about DoubleClick's use of cookies, and to "opt-out" of the Doubleclick cookies, visit 
 
-[www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy).
 
-**Advertisers and Links** The Sites contain links to other sites, including those produced by other organizations. Additionally, our advertisers, or Web sites that have links on our Sites, may also collect personally identifiable information directly from you. We are not responsible for the privacy policies or the content of those sites.  Please visit the sites of these businesses to review their privacy policies.
+**Other Information We Collect**. We also may collect other information about you, your device, or your use of the Services in ways that we describe to you at the point of collection or otherwise with your consent. You may choose not to provide us with certain types of information, but doing so may affect your experience in using the Services.
 
-**Kids & Parents**Kids under 13:  Do not send us any information about yourself, such as your name, address, or e-mail address.
+**HOW WE USE YOUR INFORMATION**
 
-Parents: These Sites are not directed to children under the age of thirteen (13) and we do not knowingly collect personally identifiable information from children under the age of 13 as part of the Sites. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Sites without verifiable parental consent, we will delete such information from our records. 
+We use your information to help us personalize and continually improve your experience using the Services in the ways described below, as well as in other ways to which you consent or at your direction.
 
-**Data Security** We have in place reasonable physical, electronic and managerial procedures to protect the information we collect online. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of our database, websites, or services, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet.
+**Providing the Services You Request**. We use your information to process and administer your membership, send you electronic newsletters, post content you submit, and enable your participation in features of the Services. We also provide personalized content and suggestions to you, including by email, based on your interest and preferences. To enable us to provide these Services, we may use the information we collect to identify you across sessions, browsers, and/or devices.
 
-**What if I am a Non-U.S. User?**
+**Contacting You**. We may send you (by email, text, or other medium): information about your membership, account, or any transactions; editorial newsletters and content; offers or announcements about our products or features; offers or announcements about our third party partners’ products or services; communications about your comments or information submissions; invitations to participate in online surveys; invitations to events; and legal notices, policy updates, and other important information about the Services. All editorial and commercial email messages include instructions for unsubscribing from such future communications.
 
-Please note that the Sites are directed towards users who reside in the United States. It is not our intent to gather personally identifiable information from individuals residing outside of the United States. If you are located outside of the United States, the information you provide to us will be transferred to the United States whose laws may not provide the same level of protection for personal information as your home country. By using this web site, you consent to this transfer. You also consent to the adjudication of any disputes arising in connection with this website in the federal and other courts of, and in accordance with the laws of, the District of Columbia.
+**Delivering Advertising**. We may use your information to facilitate the delivery of targeted advertising, promotions, and offers, on behalf of ourselves and our third party advertisers, on our websites, in our emails, and elsewhere. Please see the “Third Parties” and “Privacy Choices” sections of this Privacy Policy for further information about our and third parties’ use of cookies, web beacons, and other tracking technologies to provide you relevant ads, as well as information about how to disable cookies and make other choices related to targeted advertising.
 
-**Disclaimer** This Privacy Policy may be changed at any time at our discretion.
+**Learning about Our Users and Services**. We conduct research on our users’ demographics, interests and behavior, including performing statistical analysis of our users, their use of the Services, and their purchasing patterns. We do this to optimize and improve the Services, our products, and our operations.
 
-**How Can I Request that my Personally Identifiable Information not be Shared? How Can I Review My Personally Identifiable Information?** As indicated above, if you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling or writing us (see addresses below). Similarly, please contact us at the same addresses if at any time you wish to review your personally identifiable information.
+**Protecting Our Rights and Others’ Rights.** We may use your personal information as we believe is necessary to detect, investigate, and prevent activities that may violate our policies or may be illegal; to protect, enforce, or defend the legal rights, privacy, safety, or property of National Journal, its employees, agents, or users; or as required by law.
 
-**Any Questions?** For more information on our Privacy Policy, or if at any time you wish to discontinue receiving communications from us that do not directly pertain to your subscription, please let us know by emailing us at 
+We may use the information from one aspect of the Services for other aspects of Services, and we may combine information gathered from multiple aspects of the Services into a single user record. We also may use or combine information that we collect offline or we collect or receive from third-party sources for many reasons, including to enhance, expand, and check the accuracy of our records. Additionally, data collected from a particular computer, browser or device may be used with another computer, browser or device that is linked to the computer, browser or device on which such data was collected.
 
-[service@nationaljournal.com](mailto:service@nationaljournal.com) calling us at 800-613-6701, or writing to us at the address listed below.
+**HOW WE SHARE YOUR INFORMATION**
 
-**Our Postal Address** National Journal Group, Inc.  
+As described below, our information-sharing practices vary based on the type of information and the type of recipient.
+
+**Affiliates.** We may share information within our family of affiliated companies, including between and among the websites and divisions of National Journal.
+
+**Third-Party Service Providers** **.** Third party agents and vendors perform functions on our behalf, including, but not limited to, hosting, content syndication, content management tools, social media integration, marketing, analytics, billing and customer service. These entities may have access to personal information if needed to perform their functions. If such access is required, the third parties will be obligated to maintain the confidentiality and security of that personal information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to National Journal.
+
+**Third Party Content or Advertising Partners**. When you use our Services, third parties that provide content, advertising, or functionality to the Services may collect or receive information about you and/or your use of the Services, including through the use of cookies, beacons, and similar technologies. These third parties may use your information to measure and analyze ad performance, on our Services or other websites or platforms, and combine it with information collected across different websites, online services, and other devices. These third parties’ use of your information will be based on their own privacy policies.
+
+**Aggregate or Anonymous Information**. We also may share other information with third parties in a manner that does not identify particular users. For instance, we may share such information to help us determine how parts of Services are used, so that we may improve our services. We will also may share aggregate information with our partners and other third parties about how our users’ collective demographics or how they collectively use our Services. We also may share aggregate information with our partners about how many advertising impressions were delivered.
+
+**Assignment.** In the event of a corporate change in control (for instance, a sale or merger), National Journal may transfer your personal information to the new party in control or the party acquiring assets. In such circumstances, we would seek to ensure the acquiring party follows the practices described in this Privacy Policy. We cannot promise, however, that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this privacy policy.
+
+**Law Enforcement, Legal Process, and Emergency Situations**. In some cases, we may use or disclose your personal information to a third party if we are required to do so by law or if we in good faith believe that such action is necessary to comply with the law or legal process; to protect and defend our rights or to prevent misuse of our Services; or to protect the personal safety of our employees, agents, partners, the users of the Services, or the public.
+
+**With Your Consent or At Your Direction**. In addition to the sharing described in this Privacy Policy, we may share your information with third parties whenever you consent to or direct such sharing.
+
+The Services may link to third-party websites and services that are outside our control. We are not responsible for the security or privacy of any information collected by these third parties, which operate pursuant to their respective privacy policies.
+
+**ONLINE TRACKING**
+
+When you use our Services, we and our third party partners (which provide content, advertising, functionality, measurements, or analytics for our Services) may use cookies, web beacons, and other similar technologies to track your use of the Services.
+
+**What Are Cookies?** Cookies are small text files that are stored in your device’s browser when you visit a website. Cookies make it possible to recognize you as the same user across one or more browsing sessions, and across one or more websites. We and third parties use cookies for a variety of purposes, including remembering your sign-in credentials and preferences so that you do not have to input them each time you use the Services; allowing us and third parties to customize your experience using the Services, including by determining the most relevant content and advertisements to show you on our websites and elsewhere online; and allowing us and third parties to monitor site traffic and performance, so that we may improve our Services and your experience.
+
+**What are Beacons?** Web beacons (also called “web tags” or “pixels”) are tiny graphics or scripts that communicate information from your device to a server. Beacons can be embedded in online or mobile content, videos, advertisements, or emails. They allow a server to read certain types of information from your device, such as when you viewed the beacon (and thus the content in which it is embedded) and the IP address of the device on which you viewed the beacon. We and third parties use beacons for a variety of purposes, including to analyze the use of our Services and (in conjunction with cookies) to provide content and ads that are more relevant to you.
+
+**THIRD PARTIES**
+
+We rely on third parties to provide many features of our Services using data about your use of our Services and of other websites. These third parties may use cookies, web beacons, or other technologies to collect and process your personal data for the purposes of information storage and access; personalization of our Services; measurement of and analytics regarding the use of our Services; content selection, delivery, and reporting; and advertising selection, targeting, delivery, and reporting.
+
+For instance, third party analytics services use cookies, web beacons, and other tracking technologies to collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website, in order to help us analyze how users interact with and use the Services, compile reports on the Services’ activity, and provide other data and insights related to the Services’ usage.
+
+Although we do not serve third party advertisements on our websites or in our apps, when you visit our websites or apps, our third party partners may place a cookie on your computer, mobile device, or browser, or utilize other data collection and tracking technologies, to collect information such as your IP address, browser type, server being used, area code and zip code associated with your server, as well as to collect information about your online activities over time, across different computers, devices, and browsers, and across different websites and other online services. Advertisers may use this information to deliver interest-based advertising or other targeted content to you outside of our Services.
+
+We will not provide Advertisers with access to your name, address, e-mail address, or telephone number without your consent. Advertisers may use persistent identifiers, however, to track your internet usage across other websites in their networks beyond our Services. Though we restrict any attempts to re-identify this information, Advertisers may nonetheless be able to do so by combining information they collect about you when you use the Services with information about you obtained from other sources.
+
+In general, the information collected and generated by third parties is processed and stored by the third parties and will be subject to their respective privacy policies (which we do not control and for which we are not responsible). We do not control these third parties’ tracking technologies or the information they may collect.
+
+We are presently developing a list of the third party data processors with which we have a direct relationship, the categories of data processing they provide to us, and links to their privacy policies (which we encourage you to visit for more information); in the interim, please contact Privacy(at)nationaljournal(dot)com with any questions regarding specific vendors. Please note that this list will not include advertisers (with whom we have no direct relationship) who advertise on our site through ad serving networks. We may add or change this list of third party data processors from time to time and we encourage you to check this section for changes.
+
+**PRIVACY CHOICES**
+
+**Turning Off Cookies.** Most web browsers automatically accept cookies, but also usually allow you to modify your settings to disable or reject cookies. If you delete your cookies or if you set your web browser to decline cookies, however, some features of the Services may not work or may not work as designed. You can usually find these settings in the Options or Preferences menu of your browser; links to instructions provided by several of the most common browsers are below:
+
+  * [Cookie settings in Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+  * [Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
+  * [Cookie settings in Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies#ie=ie-10)
+  * [Cookie settings in Safari web and iOS](http://support.apple.com/kb/HT1677).
+
+
+
+**Opting Out of Targeted Advertising.** Many of the third party advertisers that use tracking or targeting tools in connection with our Services either directly, or are members of programs that, offer you additional choices regarding the collection and use of your information. You can learn more about the options available to limit these third parties’ collection and use of your information by visiting their websites:
+
+  * [Opt Out of Interest Based Advertising](http://networkadvertising.org/managing/opt_out.asp) (National Advertising Initiative)
+  * [Your Ad Choices](http://www.youradchoices.com/control) (Digital Advertising Alliance)
+  * [Your Online Choices](http://youronlinechoices.eu/) (European Interactive Digital Advertising Alliance)
+  * [About Facebook Ads](https://www.facebook.com/about/ads/) and [Facebook Privacy Policy](https://www.facebook.com/policy.php)
+
+
+
+The Services may deliver advertising using the vendor DoubleClick, a Google company. You can read about how [DoubleClick uses cookies](https://support.google.com/dcm/partner/answer/2839090?hl=en), use Google’s controls for [blocking certain ads](https://support.google.com/accounts/answer/2662922#stop_goog_p13n), or use Google’s [Ad Settings Page](https://adssettings.google.com/) to control how DoubleClick personalizes your ad experience.
+
+The Services may use Google Analytics to track your usage, including the stitching of authenticated and unauthenticated sessions (which allows for the combination of data from your use of the Services while not signed in to your National Journal account with your use of the Services while signed in to your National Journal account). If you wish to opt-out of Google Analytics’ tracking, use this [browser add-on provided by Google](https://tools.google.com/dlpage/gaoptout).
+
+Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings. For more information about how to change these settings for Apple, Android or Windows devices, see:
+
+  * Apple: <http://support.apple.com/kb/HT4228>
+  * Android: <http://www.google.com/policies/technologies/ads/>
+  * Windows: <http://choice.microsoft.com/en-US/opt-out>
+
+
+
+Please note that opting-out of advertising networks’ tracking and targeting does not mean that you will not receive advertising while using our Services or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will exclude you, however, from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms.
+
+**Do Not Track.** Your browser or device may include “Do Not Track” functionality. Because a “Do Not Track” compliance protocol has not yet been finalized, National Journal’s information collection and disclosure practices, and the choices that we provide to customers, will continue to operate as described in this Privacy Policy, whether or not a Do Not Track signal is received.
+
+**USERS IN THE EEA AND SWITZERLAND**
+
+_If you are a resident of the EEA or Switzerland, the following information applies with respect to personal data collected through your use of our Services._
+
+**Purposes of processing and legal basis for processing** : We process personal data consistent with our disclosures in this Privacy Policy. We process personal data on the following legal bases: (1) with your consent; (2) as necessary to perform our agreement to provide Services (such as when you become a Subscriber); and (3) as necessary for our legitimate interests in providing the Services where those interests do not override your fundamental rights and freedoms related to data privacy.
+
+For EEA Users, the Services do not process any personal data for the purposes of ad targeting, selection, and delivery, either within or beyond the Services. No advertising (of any type) is served on any of National Journal’s websites or apps, to any users, in any location; third party pixels that may be used by third party partners to deliver advertising outside of the Services are disabled for EEA Users. Non-targeted advertising content may be included email newsletters which EEA users have explicitly registered to receive.
+
+**Transfers** : Personal data we collect may be transferred to, and stored and processed in, the United States or any other country in which we or our affiliates or processors maintain facilities. We will ensure that transfers of personal data to a third country or an international organization are subject to appropriate safeguards. **Our[Privacy Shield Policy](https://www.atlanticmedia.com/privacyshield/) governs use of personal information that has been transferred to us from organizations in the EEA and Switzerland.**
+
+**Your Rights** : You are entitled to the rights under Chapter III of the EU General Data Protection Regulation or Section 2 of the Swiss Federal Act on Data Protection with respect to the processing of your personal data, which include the right to access and rectify and to request erasure of personal data. **To exercise these rights, contact Privacy(at)NationalJournal(dot)com and provide as complete a description of your request as possible.**
+
+**OTHER IMPORTANT INFORMATION**
+
+**How Your Information Is Secured**. We take reasonable security measures to protect your information, including the use of physical, technical and administrative controls. Please understand, however, that while we try our best to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. You need to help protect the privacy of your own information. You must take precautions to protect the security of any personal information that you may transmit over any home networks, wireless routers, wireless (WiFi) networks or similar devices by using encryption and other techniques to prevent unauthorized persons from intercepting or receiving any of your personal information. You are responsible for the security of your information when using unencrypted, open access or otherwise unsecured networks.
+
+**How Long Your Information Is Stored.** The time period for which we keep information varies according to the purpose for which it is used for. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed.
+
+**Emails and Newsletters**. You may always opt-out of receiving future e-mail marketing messages and newsletters from National Journal by following the instructions contained within the emails and newsletters, or by e-mailing, calling or writing us at the addresses in the “Questions” section of the Privacy Policy below.
+
+**Contests, Sweepstakes or Games.** When we run a contest, sweepstakes, or game relating to the Services, it will be accompanied by a set of rules. The rules for each contest, sweepstakes or game will specify how the information gathered from you for entry will be used and disclosed if it is different than as described in this privacy policy. In conjunction with your entry in such contest or sweepstakes, personal information will be collected only if you voluntarily submit it.
+
+**Children’s Information**. The Services are not intended for children under 13 years of age. National Journal does not knowingly collect personal information from children under 13 years of age. If you are under 13 years of age, do not provide personal information to National Journal without providing us with consent from your parents. If we discover that a child under the age of 13 has provided us with personal information and we do not have parental consent, we will immediately delete that child’s information. If you believe that company has been provided with the personal information of a child under the age of 13 without parental consent, please notify us immediately at privacy(at)nationaljournal(dot)com.
+
+**Your California Privacy Rights.** National Journal does not disclose your personal information to third parties for the third parties’ direct marketing purposes unless you affirmatively agree to such disclosures.
+
+**QUESTIONS**
+
+If you have an account with NationalJournal.com, you may review and change your information by logging into your account and editing your account profile.
+
+_If you have questions about our Privacy Policy, please contact us at:_
+
+ATTN: General Counsel  
+National Journal Group LLC  
 600 New Hampshire Avenue, NW  
-Washington, DC 20037
+Washington, DC 20037  
+ _Phone_ : (202) 266-7000  
+ _Email:_ Privacy(at)nationaljournal(dot)com
