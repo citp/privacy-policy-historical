@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9xe.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218004716id_/http%3A//www.9xm.in/%3Fpage_id%3D219) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9xe.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624232138id_/http%3A//www.9xm.in/%3Fpage_id%3D219) for the most accurate reproduction.*
 
 # Privacy Policy - 9XM
 
