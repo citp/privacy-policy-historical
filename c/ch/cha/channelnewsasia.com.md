@@ -1,58 +1,40 @@
-> *The following text is extracted and transformed from the channelnewsasia.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226231705id_/http%3A//www.channelnewsasia.com/news/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelnewsasia.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624160329id_/https%3A//www.channelnewsasia.com/news/about/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Channel NewsAsia
+# Breaking News, Singapore News, World and Asia - Channel NewsAsia
 
 This document outlines Channel NewsAsia’s policy on privacy (the “Privacy Policy”). 
 
--
+**_What this privacy policy covers_**
 
-This Privacy Policy covers our treatment of personally identifiable information that we may collect when you use any of the services offered by Channel NewsAsia through our apps and sites.
+This Privacy Policy covers our treatment of personally identifiable information that we may collect when you use any of the services offered by Channel NewsAsia through our apps and sites. 
 
--
+This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. 
 
-This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage.
+**_What is the information used for?_**
 
- ** _What is the information used for?_**
+To provide goods and/or services whether by us or by our designated representatives and/or business partners to you or to parties designated by you and any and all matters ancillary thereto. 
 
--
-
-To provide goods and/or services whether by us or by our designated representatives and/or business partners to you or to parties designated by you and any and all matters ancillary thereto.
-
--
-
-To verify and process payment when you subscribe to, purchase and/or obtain goods and services from any of our mobile apps and sites.
-
--
+To verify and process payment when you subscribe to, purchase and/or obtain goods and services from any of our mobile apps and sites. 
 
 For verification and record of your personal particulars including comparing it with information from other sources and using the information to communicate with you. 
 
--
+To conduct market research and statistical analysis of the users of our apps and sites including the number of users, the frequency of use, profile of users and using such analysis for our business plans, the enhancement of our products and services, targeted advertisements and conveying such information in broad terms (but not information in relation to specific individuals) to third parties who have or propose to have business dealings with us. 
 
-To conduct market research and statistical analysis of the users of our apps and sites including the number of users, the frequency of use, profile of users and using such analysis for our business plans, the enhancement of our products and services, targeted advertisements and conveying such information in broad terms (but not information in relation to specific individuals) to third parties who have or propose to have business dealings with us.
+To send you information, promotions and updates including marketing and advertising materials in relation to our goods and services and those of third party organizations selected by us. 
 
--
+To comply with any request from any third party or any order of court or directive from authorities investigating any alleged offence, misdeeds and/or abuse or for the purposes of taking legal action against any users for breach of the Terms of Use. 
 
-To send you information, promotions and updates including marketing and advertising materials in relation to our goods and services and those of third party organizations selected by us.
+For the above purposes by third parties (who may be based outside Singapore) who offer goods and services or sponsor contests or other promotional programs on our apps and sites, whether in conjunction with us or not, if you purchase such goods, use such services or participate in such contests and promotional programs. 
 
--
+For Mediacorp and/or Mediacorp group companies to collect, use, disclose and/or process your personal data for the purposes as described above, and to transfer your personal data out of Singapore to Mediacorp’s and/or Mediacorp group companies’ third party service providers or agents for the purposes as described above. 
 
-To comply with any request from any third party or any order of court or directive from authorities investigating any alleged offence, misdeeds and/or abuse or for the purposes of taking legal action against any users for breach of the Terms of Use.
+**_Can you opt out?_**
 
--
-
-For the above purposes by third parties (who may be based outside Singapore) who offer goods and services or sponsor contests or other promotional programs on our apps and sites, whether in conjunction with us or not, if you purchase such goods, use such services or participate in such contests and promotional programs.
-
--
-
-For Mediacorp and/or Mediacorp group companies to collect, use, disclose and/or process your personal data for the purposes as described above, and to transfer your personal data out of Singapore to Mediacorp’s and/or Mediacorp group companies’ third party service providers or agents for the purposes as described above.
-
- ** _Can you opt out?_**
-
-Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so.
+Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. 
 
 **_Can you change and update your personal particulars?_**
 
-If you have a user account with Mediacorp, you may update your personal particulars at any time by accessing your account on our website or by sending an e-mail to [NewsEditor](mailto:newseditor@channelnewsasia.com), calling us at +65 6333 3888 or writing to Channel NewsAsia, Mediacorp Pte Ltd, Caldecott Broadcast Centre, Andrew Road, Singapore 299939. When contacting us, please be sure to provide us with your exact e-mail address, name, address and/or telephone number(s) in order to be sure we handle your request correctly. 
+If you have a user account with Mediacorp, you may update your personal particulars at any time by accessing your account on our website or by sending an e-mail to [NewsEditor](mailto:newseditor@channelnewsasia.com), calling us at +65 6333 3888 or writing to Channel NewsAsia, Mediacorp Pte Ltd, Mediacorp Campus, 1 Stars Avenue, Singapore 138507. When contacting us, please be sure to provide us with your exact e-mail address, name, address and/or telephone number(s) in order to be sure we handle your request correctly. 
 
 **_Changes to this privacy policy_**
 
