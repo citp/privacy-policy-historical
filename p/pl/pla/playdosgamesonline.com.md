@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playdosgamesonline.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910152732id_/https%3A//classicreload.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playdosgamesonline.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625011227id_/https%3A//classicreload.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ClassicReload.com
 
@@ -32,7 +32,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://ClassicReload.com/disclaimer.html](http://classicreload.com/disclaimer.html)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://classicreload.com/disclaimer.html](https://classicreload.com/disclaimer.html)
 
 Your Consent
 
@@ -46,4 +46,4 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[playdosgames@outlook.com](mailto:playdosgames@outlook.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1e7d727f6d6d777d6c7b72717f7a5e716b6a72717175307d7173)
