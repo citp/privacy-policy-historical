@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifespa.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929133617id_/https%3A//lifespa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifespa.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624212633id_/https%3A//lifespa.com/privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy - Dr. Douillard's LifeSpa
+# Website Privacy Policy | Dr. Douillard's LifeSpa
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
@@ -21,6 +21,8 @@ In this instance, personal information may not be used by the partner for any ot
 Additionally, our partners may have advertisements or co-branded Web Pages that are cosponsored by an affiliate, independent contractor seller, or non-affiliated partner. LifeSpa may share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered.
 
 **Online Shopping:  **If you order services or products directly from LifeSpa we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+
+**Third Parties:** The following third parties may receive information from our site. This happens in an effort to support your user experience throughout this website and to get you through the checkout process on our store site: Square (to process payment information), InfusionSoft (if you sign up for our newsletter optin, eCourse purchase, Colorado Cleanse group support), iDevAffiliate (affiliates use cookies to track sales by their clients back to them for a commission), iGlobal (for shipping international orders), StitchLabs (for shipping orders).
 
 **Responses to Email Inquiries:** When Visitors or Members send email inquiries to LifeSpa, the return email address is used to answer the email inquiry we receive. LifeSpa does not use the return email address for any other purpose and does not share the return email address with any third party.
 
@@ -53,9 +55,9 @@ YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UND
 **Terms**
 
   * LifeSpa Products, LLC and John Douillard’s LifeSpa Professional, LLC collectively known herein as “LifeSpa”.
-  * LifeSpa sites herein known as “Site” or “Sites” include but are not limited to: LifeSpa.com, www.LifeSpa.com, LifeSpa.tv, LifeSpa.org, store.LifeSpa.com, lifespa.customerhub.net, and LifeSpa.net, ColoradoCleanse.com, ColoradoCleanse.org, etc.
+  * LifeSpa sites herein known as “Site” or “Sites” include but are not limited to: LifeSpa.com, www.LifeSpa.com, LifeSpa.tv, LifeSpa.org, store.LifeSpa.com, lifespa.customerhub.net, and LifeSpa.net, ColoradoCleanse.com, ColoradoCleanse.org, EatWheat.LifeSpa.com, RARE.LifeSpa.com etc.
 
 
 
-Last updated: December 26, 2014  
-© 2014 by LifeSpa
+Last updated: May, 30 2018  
+© 2018 by LifeSpa
