@@ -1,81 +1,46 @@
-> *The following text is extracted and transformed from the whosampled.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924180241id_/http%3A//www.whosampled.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosampled.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624224819id_/https%3A//www.whosampled.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WhoSampled
 
-This Privacy Policy sets out the basis on which any personal data collected through WhoSampled.com and related apps (the " **Service** "), or that you provide to the Service, will be processed. Please read this policy carefully before you use the Service.
+1\. This Privacy Policy sets out how we will treat the personal information which you provide to us while using the website located at www.whosampled.com ("Site"), the app known as "WhoSampled" ("App") and/or the service provided from the Site and/or the App ("Service"). You are deemed to accept the terms of this Privacy Policy on your first use of the Site or the App. We may change this Privacy Policy from time to time and such changes shall be effective from the date and time the revised Privacy Policy is posted on the Site and/or the App. The Site and the App (and all content therein) are owned or controlled by WhoSampled.com Limited, a company registered in England with its registered office at 23 Skylines Village, London E14 9TS, United Kingdom.
 
-For the purpose of the Data Protection Act 1998 (" **Act** "), the data controller is WhoSampled.com Limited (" **we** " or " **us** ") of The Salisbury, 5th Floor (744-750), Salisbury House, Finsbury Circus, London EC2M 5QQ, United Kingdom.
+2\. To provide the Service, it is necessary for us to hold and process certain personal information. We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. All personal information is processed by us in accordance with applicable data protection legislation.
 
-**Information we may collect from you**  
-We may collect and process the following data about you:
+3\. From time to time, we may collect or ask you to provide some or all of the following: name, address, gender, email addresses, IP addresses, web-browser details, operating system details, your activities on the Site and/or the App, your personal preferences relating to the services we offer, billing and financial information such as credit/debit card numbers and/or other information relevant to customer surveys or offers. This information will be stored together with any additional information you may provide to us, and will be used to provide you with, and to improve, the Service. Additionally, we and/or our trusted partners may contact you from time to time with offers that may interest you and/or to inform you of other products and services.
 
-  * Information that you provide by filling in forms on the Service including information provided at the time of registration to use the Service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with the Service.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through the Service and of the fulfilment of your orders.
-  * Details of your usage of the Service including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+4\. We will keep your personal information only for as long as is necessary. We may, from time to time, expand or reduce our business and this may involve the transfer of certain divisions or assets of our company to other parties. Data provided by you and other users will, where relevant, be transferred and the new owner or new controlling party will, under the terms of this Privacy Policy, be permitted to use such data in accordance with the terms of this Privacy Policy.
 
+5\. We may use 'cookies' while you access the Site to avoid the need to re-enter details on different occasions. Cookies are also used to collect general usage and volume statistical information. We may use local "shared objects", also known as "Flash" cookies. Examples of other reasons include:
 
-
-**IP addresses and cookies**  
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-For the same reason, we may obtain information about your general Internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Service and to deliver a better and more personalised Service. They enable us:
-
-  * To estimate our audience size and usage pattern.
-  * To store information about your preferences, and so allow us to customise the Service according to your individual interests.
-  * To recognise you when you return to the Service.
+  * enabling us to recognise your device so that you don't have to give the same information to us several times;
+  * recognising that you may already have given a username and/or password; and/or,
+  * measuring how you are using the Service, to make the Service easier to use and to ensure sufficient capacity for quick delivery.
 
 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Service. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Service.
+A "cookie" is a small amount of data sent from the server and stored on your computer's hard drive. Most web browsers are automatically set up to accept cookies, but you can set your browser to refuse cookies or ask your browser to show you where a cookie has been set up. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, the following links may be helpful (otherwise you should use the 'Help' option in your browser for more details): 
 
-We use third-party advertising companies to serve ads when you use the Service. These companies may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other websites and apps in order to provide advertisements about goods and services that may be of interest to you. These companies may also use cookies, over which we have no control. In order to opt-out from cookies served by various advertising providers, you can use industry-wide services such as those run by the [Digital Advertising Alliance](http://www.aboutads.info/choices/) or the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
-
-**Where we store your personal data**  
-The data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area (" **EEA** "). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
-
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Service, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Service; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-**Uses made of the information**  
-We use information held about you in the following ways:
-
-  * To ensure that content from the Service is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To allow you to participate in interactive features of the Service, when you choose to do so.
-  * To notify you about changes to the Service.
+  * [Cookie settings in Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=en)
+  * [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Cookie settings in Safari](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+  * [Cookie settings in Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
 
 
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by e-mail. Where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
+Please note that we do not recommend turning cookies off when using the Service as this may prevent you from using certain aspects of the Service and/or the Site. For further information about cookies and how to control their use, please visit the following third party educational resources: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
-We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, men in postcode SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+To learn how to manage privacy and storage settings for Flash cookies, see <https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)>.
 
-**Disclosure of your information**  
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+To change your previously selected cookie consent settings on our Service, click here.
 
-We may disclose your personal information to third parties: 
+6\. Please note that from time to time we may use third party services to display or distribute content on the Site, which may include analysis of data and/or management of content and/or services generally. The Site (or third party sites) may use cookies and/or web beacons to collect information in order to provide personalised services.
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Whosampled.com Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/terms/) and other agreements; or to protect the rights, property, or safety of Whosampled.com Limited. This may include exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+7\. If you do not want us to retain or use your personal information, you may withdraw your consent (i.e. "opt out"), by contacting us at support@whosampled.com. If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted-out of receiving, please contact us at support@whosampled.com.
 
+8\. We reserve the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Site and you are deemed to have accepted the terms of any such amended Privacy Policy on your first use of the Site following such alterations.
 
+**Our Partners**
 
-**Your rights**  
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by [contacting us](https://web.archive.org/contact/ask/).
+Subject to your consent, Exponential Interactive, Inc collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. You may change your consent decision at any time by clicking here. For more details including access requests and complaints, review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com.
 
-The Service may, from time to time, contain links to and from the websites and apps of our partner networks, advertisers and affiliates. If you follow a link to any of these services, please note that these services have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these services.
-
-**Access to information**  
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-**Changes to our Privacy Policy**  
-Please note that this Privacy Policy may change from time to time. We expect the majority of changes to be minor; however, we will not reduce your rights under this Privacy Policy without your explicit consent. Any changes we make will be posted on this page and, if the changes are significant, we will provide a more prominent notice (including but not limited to an email notification of Privacy Policy changes.)
-
-**Contact**  
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be sent via [our contact form](https://web.archive.org/contact/ask/).
-
-Last updated: October 22, 2013 
+Last updated: June 4, 2018 
