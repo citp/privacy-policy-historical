@@ -1,44 +1,118 @@
-> *The following text is extracted and transformed from the ril.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209025004id_/http%3A//www.ril.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ril.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625002307id_/http%3A//www.ril.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: Reliance Industries Limited
 
-1\. At this web site, information sent by your web browser, may be automatically collected. This information typically includes your domain name (the site after the @ in your e-mail address). It may also contain your user name (the name before the @ in your e-mail address). Other examples of information collected by our server include the Internet protocol (IP) address used to connect the visitor's computer to the Internet, operating system and platform, the average time spent on our website, pages viewed, information searched for, access times, websites visited before and a visitor visits our website, and other relevant statistics. The amount of information sent depends on the settings you have on your web browser; please refer to your browser if you want to learn what information it sends.
+##  Data Privacy Policy
 
-2\. All such information will be used only to assist us in providing an effective service on this website. We may from time to time supply the owners or operators of third party websites from which it is possible to link to our website with information relating to the number of users linking to our website from such third party website. You cannot be identified from this information.
-
-3\. We use the information we automatically receive from your web browser to see which pages you visit within our website, which website you visited before coming to ours, and where you go after you leave. We at Reliance can then develop statistics that are helpful to understanding how our visitors use this website. We use this information in the aggregate to measure the use of our website and to administer and improve our website. This statistical data is interpreted by Reliance in its continuing effort to present the website content that visitors are seeking in a format they find most helpful.
+**By entering this website, the visitor consents to the terms of this policy. By submitting his/her Information to RIL, the visitor will be treated as having given his/her permission for processing the same in a manner provided in this policy.  **
 
   
 
 
-#####  Information placed on your computer
+##  **Introduction**
 
-We may store some information such as cookies on your computer when you look at our website. Cookies are pieces of information that a website transfers to the hard drive of a visitor's computer for record-keeping purposes. This information facilitates your use of our website and ensures that you do not need to re-enter your details every time you visit it. You can erase or choose to block this information from your computer if you want to; please refer to your browser settings to do so. Erasing or blocking such information may limit the range of features available to the visitor on our website. We use also use such information to provide visitors a personalised experience on our website. We may use such information to allow visitors to use the website without logging on upon returning, to auto-populate email forms, to make improvements and to better tailor our website to our visitors' needs. We also use this information to verify that visitors meet the criteria required to process their requests.
+At Reliance Industries Limited (RIL), RIL respects the privacy of individual/visitor and is committed to take reasonable precautions to protect information consisting of Personal information and `Sensitive Personal Data or Information’ (SPDI) (“ **Information”** ) of visitors of this RIL website and comply with all legal, regulatory and/or contractual obligations related to privacy.  RIL has adopted the “Privacy by Default” principles in its approach to data privacy i.e. privacy of data and information is upheld first by default.
 
-  
+This policy covers the processing, storage and access to Information as required under lawful and/or contractual activities with RIL or otherwise required in the normal course of business. It describes RIL’s policies and procedures on the collection, usage and disclosure of Information provided/received by natural persons and meets the requirements established under:
 
-
-#####  Security
-
-We have implemented technology and policies, with the objective of protecting your privacy from unauthorised access and improper use, and periodically review the same.
+  * • The Information Technology Act, 2000 – Section 43A;
+  * • The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Information) Rules, 2011.
 
   
 
 
-#####  Third Parties
+##  1.   Scope
 
-1\. For your convenience, this page may contain certain hyperlinks to other Reliance pages as well as to websites outside Reliance. In addition, you may have linked to our website from another website. We cannot be responsible for the privacy policies and practices of other websites, even if you access them using links from our website. We can make no promises or guarantees regarding data collection on the hyper-linked pages and on websites that are not owned by Reliance. We recommend that you check the policy of each website you visit, or link from, and contact the owners or operators of such websites if you have any concerns or questions.
-
-  
-
-
-#####  Contacting us
+This policy applies to all visitors of this RIL’s website.
 
   
 
 
-1\. We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below. If you wish to change or delete any of the personal information you have entered whilst visiting our website or if you have any questions about our privacy statement, e-mail the Data Manager at eBiz@ril.com
+##  2.   Information covered by this Policy
 
-2\. If you are concerned about our use of your personal information, please contact us at eBiz@ril.com, with the subject line, "privacy."
+This policy applies to Information collected and processed by RIL consisting of following:
 
-3\. If at any time you would like to contact us, you can do so by emailing us at eBiz@ril.com
+2.1   Personal information is information related to a visitor, or a combination of pieces of information that could reasonably allow him to be identified. Personal information may consist of full name, personal contact numbers, residential address, email address, gender or date of birth. While information such as date of birth in isolation may not be enough to uniquely identify the visitor, a combination of full name and date of birth may be sufficient to do so.
+
+2.2   Sensitive personal data or information (“SPDI”) is such personal information that is collected, received, stored, transmitted or processed by RIL, consisting of:
+
+  * • Password;
+  * • Financial information such as bank account or credit card or debit card or other payment instrument details;
+  * • Physical, physiological and mental health condition;
+  * • Sexual orientation;
+  * • Medical records and history;
+  * • Biometric information;
+  * • Any detail relating to the above personal information categories as provided to RIL for providing service; and
+  * • Any of the information received under above personal information categories by RIL for processing, stored or processed under lawful contract or otherwise.
+
+
+
+Please note that any information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force shall not be regarded as sensitive personal information.
+
+  
+
+
+##  3.   Purpose
+
+RIL shall collect and use Information for legitimate business purposes in order:
+
+  * • that a visitor may download product information, order products and take advantage of certain other features of RIL’s website;
+  * • to provide information or interactive services through this website, to the visitor’s e-mail address or, where the visitor wishes it to be sent by post, to the visitor’s postal address;
+  * • to seek the visitor’s feedback or to contact the visitor in relation to the services offered on RIL’s website;
+  * • to process orders or applications submitted by the visitor;
+  * • to administer or otherwise carry out RIL’s obligations in relation to any agreement that the visitor may have with RIL;
+  * • to anticipate and resolve problems with any goods or services supplied to the visitor;
+  * • to create products or services that may meet the visitor’s needs;
+  * • to process and respond to requests, improve RIL’s operations, and communicate with visitor/s about RIL’s products, services and businesses; and
+  * • to allow the visitor to subscribe to RIL’s news alerts.
+
+  
+
+
+##  4.   Collection of Information
+
+Only minimum Information required to meet the purposes mentioned in this policy shall be collected from the visitor/s. Neither RIL nor its representatives shall be responsible for the authenticity of such Information provided by the visitor/s. As normal business practice, RIL may collect Information in order to enable the secure online authentication, interaction and transaction with natural persons. This may include the installation of cookies and the collection of other session data.
+
+  
+
+
+##  5.   Access, Correction of Information and withdrawal of consent        
+
+Any modifications / corrections required to the Information can be carried out on the website. In the event the visitor is unable to do so due to lack of functionality in RIL’s website and / or the visitor wants to withdraw his / her consent to provide SPDI, he / she may contact the Grievanceofficer, the details whereof are provided in clause 8 of this policy.
+
+  
+
+
+##  6.   Retention, Processing and storage of Information:
+
+6.1   RIL shall retain Information for only as long as necessary to meet legal or regulatory requirements or for legitimate business purposes as mentioned in this policy.
+
+6.2   RIL has implemented required security practices and standards in line with the global standards and have a comprehensive documented information security program and policy in place, which contains managerial, technical, operational and physical security control measures that commensurate with the information assets being protected with RIL’s nature of business. It is being reviewed periodically to keep pace with business, technology and regulatory changes.
+
+  
+
+
+##  7.   Disclosure of Information
+
+7.1   RIL shall not use or disclose Information for purposes other than as mentioned in this policy, except with the consent of visitor providing such Information or as required by law.  However, RIL may be legally required to disclose the Information in the following cases:
+
+  * • Where the disclosure is necessary for compliance of a legal obligation;
+  * • Where mandated under the law by government agencies to disclose such Information.
+
+
+
+7.2   Where necessary, RIL may disclose Information to business partners or third parties during the normal course of business for the purposes mentioned in this policy.  In such cases, RIL will only share Information related data when RIL is assured that:
+
+  * • The Information is processed legitimately and appropriately by the business partner or third party in line with the established consent or in line with legal requirements.
+  * • The business partner or third party has adopted a reasonable and equivalent level of security practices and procedures to ensure security of the Information shared.
+
+  
+
+
+##  8.   Feedback or Concern
+
+For feedback or concern, if any, kindly contact :  
+Email Id:[data.privacy@ril.com](mailto:data.privacy@ril.com)
+
+  
+
