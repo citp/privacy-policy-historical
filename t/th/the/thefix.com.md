@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefix.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904035456id_/https%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefix.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624114851id_/https%3A//www.thefix.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Fix
 
@@ -115,8 +115,6 @@ If you have any questions about this Privacy Policy or our information-handling 
 
 Email: [info@thefix.com](mailto:info@thefix.com)
 
-## Learn More About The Top Rated Rehabs In the Country
-
 [ ](https://web.archive.org/content/visions-adolescent-treatment) | 
 
 ###  [Visions Adolescent Treatment](https://web.archive.org/content/visions-adolescent-treatment)
@@ -146,7 +144,7 @@ Rating: 5 stars
 
 _Malibu, Calif._
 
-_$58,000/mo._  
+_$61,000/mo._  
   
 [ ](https://web.archive.org/content/newport-academy0001) | 
 
@@ -215,7 +213,7 @@ _$45,000 - $149,900 per month_
   
 
 
-Every Genesis alum who took our survey has remained clean and sober, with more than half of the respondents having double-digit sobriety. 
+Located a nine-iron away from century city and bordering Beverly Hills, in the quiet upscale neighborhood of Cheviot Hills, is Genesis House. 
 
 Rating: 4.5 stars
 
@@ -236,7 +234,7 @@ Rating: 4.5 stars
 
 _Malibu, CA_
 
-_$25,000 to $34,000 per/month._  
+_$36,500 per/month._  
   
 [ ](https://web.archive.org/content/discovery-place) | 
 
@@ -245,7 +243,7 @@ _$25,000 to $34,000 per/month._
   
 
 
-This 12-step based non-profit Tennessee facility for men offers meetings, groups, camaraderie, and boasts an impressive success rate. 
+This 12-step based non-profit Tennessee facility for men offers meetings, groups and camaraderie. 
 
 Rating: 4.5 stars
 
