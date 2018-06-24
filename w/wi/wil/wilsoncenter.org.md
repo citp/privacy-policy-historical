@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wilsoncenter.org privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907180917id_/https%3A//www.wilsoncenter.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilsoncenter.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624120901id_/https%3A//www.wilsoncenter.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wilson Center
 
 ### Overview
 
-Thank you for visiting The Wilson Center's website and reviewing our privacy policy. This privacy policy applies to the online activities of The Wilson Center.
+Thank you for visiting the Wilson Center's website and reviewing our privacy policy. This privacy policy applies to the online activities of the Wilson Center.
 
 ### Information Collected and Stored Automatically
 
