@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colum.edu privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211022827id_/https%3A//www.colum.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colum.edu privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624144031id_/https%3A//www.colum.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Columbia College Chicago
 
