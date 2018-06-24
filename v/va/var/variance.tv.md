@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the variance.tv privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210231745id_/http%3A//variance.tv/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the variance.tv privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624230146id_/http%3A//variance.tv/p/privacy) for the most accurate reproduction.*
 
 # Variance TV
 
