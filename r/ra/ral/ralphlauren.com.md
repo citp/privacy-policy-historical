@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ralphlauren.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228010507id_/https%3A//www.ralphlauren.com/customerservice%3Fcid%3Dcs-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ralphlauren.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624130530id_/https%3A//www.ralphlauren.com/customerservice%3Fcid%3Dcs-privacy-notice) for the most accurate reproduction.*
 
-# Customer Service | SiteGenesis
+# Customer Service | Ralph Lauren
 
 **Ralph Lauren Corporation**
 
 **WEBSITE, STORE AND RESTAURANT PRIVACY NOTICE**
 
-Last modified: December 1, 2017
+Last modified: May 23, 2018
 
-Ralph Lauren Corporation and its affiliates (collectively, “Ralph Lauren”) respect your concerns about privacy.This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Ralph Lauren Stores, Ralph Lauren Factory Outlet Stores (collectively, the “Stores”), and (iii) through the other channels described below. Ralph Lauren is responsible for this website.
+Ralph Lauren Corporation and its affiliates (collectively, “Ralph Lauren”) respect your concerns about privacy. This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Ralph Lauren Stores, Ralph Lauren Factory Outlet Stores (collectively, the “Stores”), and (iii) through the other channels described below. Ralph Lauren is responsible for this website.
 
 The Privacy Notice describes the types of personal information we collect on this site, in our Stores, and in other ways discussed below, how we may use that information and with whom we may share it. The notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to (i) access, change, or not use the personal information you have provided to us; (ii) withdraw any consent you previously provided to us; (iii) tell us to refrain from communicating with you about our products or services; and (iv) answer any questions you may have about our privacy practices.
 
@@ -44,7 +44,7 @@ You may be able to sign up on this site to receive electronic newsletters and pr
 
 _Mobile Marketing_
 
-You may be able to sign up to receive communications about our products and services through your mobile device by submitting your mobile telephone number online or by texting us. If you sign up for mobile communications, we may send you autodialed marketing text messages about our products, services and promotions. It is your responsibility to notify Ralph Lauren in the event that you disconnect your mobile number or change carriers. In the U.S., you may opt out of receiving text message communications on your mobile device by sending a text message with the word “ **STOP** ” to short code 89448. You will receive one additional text message, confirming that your request has been received. Outside the U.S., you may opt out of receiving these communications by contacting us as specified in the “How to Contact Us” section below. Ralph Lauren does not charge you to unsubscribe. Depending on the terms of your mobile phone contract, you may incur charges for receiving and sending text messages on your mobile device. Ralph Lauren is not responsible for these charges. Message and data rates may apply. Text **HELP** to 89448 for help. Up to ten autodialed marketing messages may be sent per month to the phone number you provide at opt-in. Consent is not a condition of purchase.
+You may be able to sign up to receive communications about our products and services through your mobile device by submitting your mobile telephone number online or by texting us. If you sign up for mobile communications, we may send you autodialed marketing text messages about our products, services and promotions. It is your responsibility to notify Ralph Lauren in the event that you disconnect your mobile number or change carriers. In the U.S., you may opt out of receiving text message communications on your mobile device by sending a text message with the word “ **STOP** ” to short code 89448. You will receive one additional text message, confirming that your request has been received. Outside the U.S., you may opt out of receiving these communications by contacting us as specified in the “How to Contact Us” section below. Ralph Lauren does not charge you to unsubscribe. Depending on the terms of your mobile phone contract, you may incur charges for receiving and sending text messages on your mobile device. Ralph Lauren is not responsible for these charges. Message frequency varies per month. Consent is not a condition of purchase. Autodialed marketing messages will be sent to the mobile number you provide at opt-in. Message and data rates may apply. Text **HELP** to 89448 for help. The wireless carriers are not liable for delayed or undelivered messages.
 
 _Blogs_
 
@@ -154,7 +154,7 @@ We strive to protect the confidentiality and security of Social Security numbers
 
 We may transfer the personal information we collect about you to recipients in countries other than the country in which you originally provided it. These countries may not have the same data protection laws as the country in which you provided the information. When we transfer your information to recipients in other countries, we will protect that information as described in this Privacy Notice and will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries other than the one in which you provided the information.
 
-If you are located in the European Economic Area (“EEA”), with respect to transfers of personal information to the U.S., Ralph Lauren and its affiliate Club Monaco US, LLC are certified under the EU-U.S. Privacy Shield framework developed by the U.S. Department of Commerce and the European Commission regarding the transfer of personal information from the EEA to the U.S.
+If you are located in the European Economic Area (“EEA”), with respect to transfers of personal information to the U.S., Ralph Lauren and its affiliate Club Monaco US, LLC are certified under the EU-U.S. Privacy Shield framework developed by the U.S. Department of Commerce and the European Commission regarding the transfer of personal information from the EEA to the U.S. Click [here](https://web.archive.org/customerservice?cid=cs-privacy-notice#EUPRIVACYNOTICE) to view our EU-U.S. Privacy Shield Privacy Policy.
 
 **Access and Correction**
 
@@ -164,7 +164,7 @@ Subject to applicable law, we provide you with access to personal information we
 
 We offer you certain choices about how we communicate with you and what information we collect from you. You may withdraw any consent you previously provided to us or object at any time on legitimate grounds and free of charge to the processing of your personal information, and we will apply your preferences going forward.
 
-You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails, clicking [here](https://web.archive.org/web/20171228010507id_/https%3A//www.ralphlauren.com/app.ralphlauren.com/unsub/unsub.cfm), or contacting us as specified in the “How to Contact Us” section below. Please include your name, email address and postal address if you send us your request by email or postal mail. Our website is not designed to respond to “do not track” signals received from browsers.
+You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails, clicking [here](https://web.archive.org/web/20180624130530id_/https%3A//www.ralphlauren.com/app.ralphlauren.com/unsub/unsub.cfm), or contacting us as specified in the “How to Contact Us” section below. Please include your name, email address and postal address if you send us your request by email or postal mail. Our website is not designed to respond to “do not track” signals received from browsers.
 
 If you are a California resident, you may ask us to refrain from sharing your information with certain of our affiliates and other third parties for their marketing purposes.
 
@@ -210,9 +210,9 @@ Switzerland
 
 Email: eu.privacy@ralphlauren.com
 
-**EU-U.S. PRIVACY SHIELD PRIVACY POLICY**
+EU-U.S. PRIVACY SHIELD PRIVACY POLICY
 
-Effective date: September 20, 2016
+Effective date: May 23, 2018
 
 Ralph Lauren Corporation, along with its affiliate Club Monaco US, LLC (collectively, “Ralph Lauren”), respect your concerns about privacy. Ralph Lauren participates in the EU-U.S. Privacy Shield framework (“Privacy Shield”) issued by the U.S. Department of Commerce. Ralph Lauren commits to comply with the Privacy Shield Principles with respect to Consumer Personal Data the company receives from the EU in reliance on the Privacy Shield. This Policy describes how Ralph Lauren implements the Privacy Shield Principles for Consumer Personal Data.
 
