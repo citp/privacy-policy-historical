@@ -1,16 +1,30 @@
-> *The following text is extracted and transformed from the dudeiwantthat.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211062044id_/http%3A//www.dudeiwantthat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudeiwantthat.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624024603id_/http%3A//www.dudeiwantthat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DudeIWantThat.com
 
 Protecting your privacy is very important to us. The following will help you understand how DudeIWantThat.com collects, uses and safeguards the personal information you provide to us on this site.
 
+By using our Services, you agree to the collection, use, disclosure, and procedures this Privacy Policy describes.
+
 ### What information is being collected?
 
-Currently, no personal information is being collected unless you choose to [create an account](https://web.archive.org/signup.asp)... then we REALLY get the goods on you. Your email (GASP!!!), username, birthdate and gender are then stored in our database so we can do absolutely nothing with them. We use Google Analytics to track and aggregate traffic to the site. This includes nothing that is identifiable to an individual person. If you choose to comment through our 3rd party comment system [Disqus](http://www.disqus.com/), you can post anonymously or under a user account. This is your choice. We will do nothing with this data other than display it on our site.
+Currently, no personal information is being collected unless you choose to [create an account](https://web.archive.org/signup.asp) with us. You can create an account directly with DudeIWantThat.com or sign-in to the site using your Google account. If you sign-in directly to DudeIWantThat.com, your email, username, IP address, birthdate and gender are then stored in our database. We do not share this information or use this information for anything other than tailoring your experience on DudeIWantThat.com. This data will be stored until it is requested that we remove it by the owner. You are not required to create an account to use the site.
+
+We use Google Analytics to track and aggregate traffic to the site. DudeIWantThat.com and its partners use cookies, pixels (sometimes also referred to as "web beacons"), server logs, and other similar technology to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. Non-personal information that we collect using these technologies may be combined with other information about you, including Personal Information.
+
+We use Google Analytics to track and aggregate traffic to the site. This includes nothing that is identifiable to an individual person.
+
+We use Google Adsense to serve 3rd-party ads to users of DudeIWantThat.com who are not citizens of the European Union (EU).
+
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Additionally, we participate in the affiliate programs of ThinkGeek.com through Commission Junction and Etsy through Affiliate Window.
+
+DudeIWantThat.com use [Stack Social](https://stacksocial.com/) to run a 3rd-party online store at [https://exclusives.dudeiwantthat.com](https://exclusives.dudeiwantthat.com/).
+
+Passive collection. The Site collects and stores information that is generated automatically as you use it, including your preferences and anonymous usage statistics. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data. We use this data to analyze trends in the aggregate and administer the site. Non-personal information that we passively collect may be combined with other information about you, including Personal Information.
 
 ### What are your choices in regards to stop this data collection?
 
-You can delete your account whenever your little heart desires by [contacting us](https://web.archive.org/contact/) with a request to delete your account.
+You can delete your account at your convenience by using the "Delete Account" button on [your profile](https://web.archive.org/profile.asp) or [contacting us](https://web.archive.org/contact/) with a request to delete your account.
 
 ### Mailing List
 
@@ -20,7 +34,7 @@ DudeIWantThat.com may launch a mailing list for some or all of the DudeIWantThat
 
 Some of our business partners may use cookies on our site (for example, advertisers). However, DudeIWantThat.com has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by DudeIWantThat.com only and does not cover the use of cookies by any advertisers.
 
-### Third Party Advertising
+### Third Party Advertising (non-EU users)
 
 DudeIWantThat.com uses third-party advertising companies including Google, among others, to serve ads when you visit our websites. Advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, or to opt out of behavioral targeting, visit <http://www.networkadvertising.org/optout_nonppii.asp>
 
