@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720015600id_/https%3A//www.bridalguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridalguide.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624114745id_/https%3A//www.bridalguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BridalGuide
+# Privacy Policy BridalGuide
 
 BridalGuide.com is committed to safeguarding your privacy while you are on our site. The following privacy policy describes what personal information we collect from you and exactly how we use it.
 
