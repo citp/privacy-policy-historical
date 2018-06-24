@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegoodtrade.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206194153id_/http%3A//www.thegoodtrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegoodtrade.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625013431id_/http%3A//www.thegoodtrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -107,6 +107,6 @@ The third-party companies that will be serving advertisements on TGT may include
     
      **14.** ******Contact Information**
 
- ** ** Email: thegoodtradeusa@gmail.com
+ ** ** Email: hello@thegoodtrade.com
 
 Last Updated: _3/6/16_
