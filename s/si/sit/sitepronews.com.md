@@ -1,27 +1,35 @@
-> *The following text is extracted and transformed from the sitepronews.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228001123id_/http%3A//www.sitepronews.com/sitepronews-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepronews.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624152815id_/http%3A//www.sitepronews.com/sitepronews-privacy-statement) for the most accurate reproduction.*
 
 # SiteProNews Privacy Statement - SiteProNews
 
 #### Privacy Policy Overview
 
-This Privacy Policy covers the SiteProNews treatment of personal information that is recorded when you register for one of our newsletters. No other information is collected from visitors to our web site.
+This Privacy Policy applies where we, Jayde Online Inc., acts as a data controller or data processor with regard to all individuals including EU individuals under the General Data Protection Regulation (“GDPR”).
 
-Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the SiteProNews web site, nor does it extend to people that SiteProNews does not employ or manage.
+#### Data Collection and Usage
 
-#### Information Collection and Use
+There are two types of data we collect, information collected automatically “usage data” and information you provide to us “service data”.
 
-SiteProNews collects minimal personal information when you subscribe to one of our newsletters. The only information collected upon registration is your email address, IP address and the date of your subscription.
+When you visit our websites we collect usage data such as (but not limited to) IP address, geo-location information, device type, operating system and Internet browser type, referral URL and standard web log data. This usage data may be processed for our legitimate interests namely monitoring, and improving our website and services.
 
-SiteProNews uses email address information to deliver newsletters to your Inbox and to send you announcements and carefully screened offers and information from our partners and certain vendors.
+When you voluntarily use tools or services on our website we may collect service data such as (but not limited to) Name, Email Address, and Website URL. This service data may be processed to provide our services, maintain a record of those services, and to communicate with you based on your consent.
+
+SiteProNews reserves the right to use the contact information collected with your consent during site submission to deliver notices regarding changes or updates to our service, to provide free sample newsletters, to inform you of additions to the Jayde Online Network of web sites, or to send announcements and carefully screened offers and information from our partners.
 
 Subscriber information is received through the Jayde Online Network of web sites which include ExactSeek.com, SitesOnDisplay.com, Blog-Search.com, FreeWebSubmission.com and, of course, SiteProNews.com, as well as through various partner sites carrying our subscriber form.
 
-Webmasters who submit web sites to ExactSeek.com should familiarize themselves with ExactSeek.com privacy policy which specifically outlines that contact information collected during the site submission process may be used to provide them with free newsletters such as SiteProNews and SEO-News as well as for announcements, carefully screened offers etc. Details regarding ExactSeek’s privacy policy can be found by clicking the link below:  
+Webmasters who submit web sites to ExactSeek.com should familiarize themselves with ExactSeek.com privacy policy which specifically outlines that contact information collected during the site submission process may be used to provide them with free newsletters such as SiteProNews as well as for announcements, carefully screened offers etc. Details regarding ExactSeek’s privacy policy can be found by clicking the link below:  
 [http://www.exactseek.com/privacy.html](http://exactseek.com/privacy.html)
 
-#### Information Sharing and Disclosure
+You may remove yourself from any or all other notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes at least 2 methods to remove yourself from future mailings. Should you encounter problems in this regard, contact: inquiry[at]sitepronews.com. Our turnaround time for responding to unsubscribe requests is generally 24 hours.
 
-SiteProNews maintains your email address and other pertinent information regarding your subscription on the premises. SiteProNews does allow selected vendors the opportunity to send offers and information that we deem may be of value to you through our service, but your contact information is never released or sold to any vendor, partner or outside agency. Unsubscribe information is provided in all of our mailings, giving you the option to remove yourself from SiteProNews at any time.
+#### Data Sharing
+
+When you voluntarily use tools or services that involve publication of your information on our website this data may be available via the internet. We cannot prevent the use (or misuse) of such information by others.
+
+When you voluntarily use tools or services that involve submission of your information to third parties, we act as an agent for you to provide your information to a third party for a specific purpose. Each third party will act as a data controller in that instance.
+
+Data may be shared if it is required to comply with requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities.
 
 #### Cookies
 
@@ -30,6 +38,10 @@ Ad networks and third party vendors, including Google, may place cookies on your
 #### Security
 
 Your email address information is stored in a protected directory. Access is restricted to SiteProNews staff.
+
+#### **Additional Rights**
+
+You have the right to request the data we have stored, as well as the right to have that data erased and to withdraw consent to further process your data.
 
 #### Changes to this Privacy Policy
 
