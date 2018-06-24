@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the littlethings.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905204455id_/https%3A//www.littlethings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlethings.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624130028id_/https%3A//www.littlethings.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy/Rights
 
-Last Updated: January 4, 2017
+Last Updated: May 2nd, 2018
 
-The LittleThings® website located at www.littlethings.com (the “Site”) is an Internet property of LittleThings Inc. (“LittleThings®,” “we” or “us”). This LittleThings® Website Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when you: (a) access or use the Site; (b) access and/or view any of the video, audio, stories, text, photographs, graphics, artwork and/or other content featured on the Site as made available by other Users (collectively, “User Submitted Content”) and/or LittleThings® (“LT Content,” and together with the User Submitted Content, “Content”); (c) access links to LittleThings®’ social media pages/accounts on third party social media websites, such as Facebook® (collectively, “Social Media Pages”); and/or (d) utilize the Site’s many interactive features designed to facilitate interaction between you, LittleThings® and other Users including, but not limited to, comment sections located in designated areas of the Site (collectively, the “Interactive Services” and together with the Site, Content and Social Media Pages, the “LittleThings® Offerings”). 
+The LittleThings™ website located at www.littlethings.com (the “Site”) is an Internet property of RockYou Inc. (“LittleThings™,” “we” or “us”). This LittleThings® Website Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when you: (a) access or use the Site; (b) access and/or view any of the video, audio, stories, text, photographs, graphics, artwork and/or other content featured on the Site as made available by other Users (collectively, “User Submitted Content”) and/or LittleThings® (“LT Content,” and together with the User Submitted Content, “Content”); (c) access links to LittleThings®’ social media pages/accounts on third party social media websites, such as Facebook® (collectively, “Social Media Pages”); and/or (d) utilize the Site’s many interactive features designed to facilitate interaction between you, LittleThings® and other Users including, but not limited to, comment sections located in designated areas of the Site (collectively, the “Interactive Services” and together with the Site, Content and Social Media Pages, the “LittleThings® Offerings”). 
 
 Capitalized terms not defined herein shall have the meanings set forth in the LittleThings® Website Terms and Conditions (“Terms and Conditions”). **IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE USE THE LITTLETHINGS® OFFERINGS.**
 
@@ -12,9 +12,9 @@ Facebook® is a registered trademark of Facebook, Inc. (“Facebook”). Please 
 
 ## Your California Privacy Rights
 
-If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third parties, what categories of personal information that we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please e-mail us at: help@littlethings.com; send mail to: 21 Penn Plaza, Suite 500 New York, NY 10001; or call us at: (888) 316-7297. 
+If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third parties, what categories of personal information that we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please e-mail us at: help@littlethings.com; send mail to: 520 Broadway, 3rd Floor, Santa Monica, California 90401; or call us at: (310) 879-1935.
 
-Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: help@littlethings.com; send mail to: 21 Penn Plaza, Suite 500 New York, NY 10001; or call us at: (888) 316-7297. Please be advised that where California State residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law.
+Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: help@littlethings.com; send mail to: 520 Broadway, 3rd Floor, Santa Monica, California 90401; or call us at: (310) 879-1935.
 
 ## Personal Information Collected
 
@@ -44,21 +44,21 @@ Further, by submitting User Submitted Content, you: (a) represent and warrant th
 
 ## Non-Personal Information Collection and Use
 
-### IP Addresses/Browser Type
+IP Addresses/Browser Type
 
 We may collect certain non-personally identifiable information about you when you visit many of the pages of the Site. This non-personally identifiable information includes, without limitation, the type of browser that you use (e.g., Safari, Chrome, Internet Explorer), your IP address, the type of operating system that you use (e.g., Windows or iOS) and the domain name of your Internet service provider (e.g., Verizon, AT&T). We use the non-personally identifiable information that we collect to improve the design and content of the LittleThings® Offerings and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze usage of the LittleThings® Offerings.
 
-### Cookies
+Cookies
 
 When a User visits the Site, we send one (1) or more cookies and/or gif files (collectively, “Cookies”) to assign an anonymous, unique identifier to the applicable User’s computer or other device. A Cookie is a piece of data stored on your hard drive containing non-personally identifiable information about you. Cookies have many benefits to enhance your experience at the Site. To find out more about Cookies, please visit www.cookiecentral.com. We use Cookies to improve the quality of the LittleThings® Offerings, including for storing user preferences and tracking Site-user trends (such as pages opened and length of stay at the Site).
 
 Most Internet browsers are initially set up to accept Cookies, but you can reset your browser to refuse all Cookies or to indicate when a Cookie is being sent. To disable and reject certain Cookies, follow the instructions associated with your Internet browser. Even in the case where a user rejects a Cookie, he or she may still use the LittleThings® Offerings; provided, however, that certain functions of the LittleThings® Offerings may be impaired or rendered inoperable if the use of Cookies is disabled. We reserve the right to retain Cookie data indefinitely.
 
-### Behavioral Tracking
+Behavioral Tracking
 
 LittleThings® uses Cookies, pixels and other tracking technology on the Site for purposes of tracking Users’ activities (such as websites visited, advertisements selected and pages viewed) after they leave the Site. LittleThings® uses these Cookies to target applicable Users with advertisements regarding LittleThings® Offerings and other products and/or services that LittleThings® thinks may be of interest to applicable Users. In addition, third parties such as Google® may engage in a similar form of behavioral tracking of, and targeted advertising to, Users that visit the Site. Users may be able to disable some, but not all, of this tracking activity by utilizing the “Do Not Track” setting or similar options within most major Internet browsers. In addition, Users may be able to opt-out of this form of tracking utilizing the options made available by the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) or [Digital Advertising Alliance](http://www.aboutads.info/choices/). To the greatest extent permissible under applicable law, we are not responsible for the tracking practices of third parties in connection with the Site.
 
-### Aggregate Data
+Aggregate Data
 
 LittleThings® reserves the right to transfer and/or sell aggregate or group data about users of the LittleThings® Offerings for lawful purposes. Aggregate or group data is data that describes the demographics, usage or other characteristics of LittleThings® Offerings Users as a group, without disclosing personally identifiable information.
 
