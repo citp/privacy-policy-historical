@@ -1,61 +1,124 @@
-> *The following text is extracted and transformed from the performgroup.co.uk privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106211405id_/http%3A//www.performgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performgroup.co.uk privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624140742id_/http%3A//www.performgroup.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy | Perform Group
+# Privacy Notice | Perform Group
 
-### PRIVACY POLICY
+This Privacy Notice explains how Perform Media Services Ltd together with other companies within the Perform Group (which means our subsidiaries, our ultimate holding company and its subsidiaries from time to time) (“ **Perform** ”, “ **We** ”, “ **Us** ”, “ **Our** ”) use information we collect about you and the choices you can make about the way your information is collected and used.  We are committed to protecting and respecting your privacy.
 
-Thank you for visiting [www.performgroup.com](http://www.performgroup.com/) – Perform Group Limited’s broadband site. This Privacy Policy explains how Perform Group Limited, and other companies within the Perform Group Limited’s group of companies, use information we collect about you and the choices you can make about the way your information is collected and used.
+This Privacy Notice applies to and is incorporated in the [Terms of Use](https://web.archive.org/terms-of-use/) for [www.performgroup.com](https://web.archive.org/) (“ **Service** ”).
 
-### USE OF INFORMATION
+This Privacy Notice sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it. By accessing and using our site, games, content and activities, which are made available via our website, or any mobile version thereof or by continuing to use our Service you are accepting and consenting to the practices described in this Privacy Notice.
 
-At some of our sites, you can order products, enter contests, vote in polls or otherwise express an opinion, or subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of information that may be collected at these pages include: your name, e-mail address, postal address, and telephone/mobile number, your gender and date of birth. We request these details in order to provide the service or product to you (i.e. dispatch news and Perform communications via email, post, fax or phone), to respond to any queries you may have, to ensure we request and receive the correct consent from you, and to understand customer trends and patterns.
+**INFORMATION WE MAY COLLECT FROM YOU**
 
-We may also use the information you provide to send you details via email, post, fax, SMS or phone of our products and services and the products and services of other companies we think are suitable and may be of interest to you and by submitting your details, you are consenting to such use. However, you always have the opportunity to remove your consent to such use by sending an email to [info@performgroup.com](mailto:info@performgroup.com) with your request.
+We may collect and process the following data about you:
 
-We may on occasion combine information we receive online with other records to enhance our ability to notify you of our products and services that we think will be of interest to you. If you do not want to receive these notifications please send an e-mail to [info@performgroup.com](mailto:info@performgroup.com) letting us know.
+**Information** **you** **give us**
 
-We may ask you for other information, including, but not limited to, your interests, opinions and the way you use the Perform Group Limited service to assist us in our initiatives outlined above and to improve our understanding of customer trends and patterns.
+You may give us information about you:
 
-### COOKIES
+  * – When you enter such information while using the Service;
+  * – When you interact with our customer service team;
+  * – When you participate in our surveys or marketing promotions;
+  * – If you choose to provide information relating to reviews or ratings, favourite sports, tournaments, teams, events or personalities, and/or other subjects of interest to sports fans;
+  * – In relation to your account settings;
+  * – When you otherwise provide information to us through the Service or elsewhere.
 
-When you visit this site we send “cookies” to your computer primarily to enhance your on-line experience. “Cookies” are files which can identify you as a unique customer and store your personal preferences as well as technical information. On their own, cookies do not contain or reveal any personal information. However, if you choose to furnish the site with personal information, this information may be linked to the data stored in the cookies.
 
-We may also collect certain anonymous technical information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.
 
-We use cookies and technical information to personalise your visit to our site (e.g., to recognise you by name when you return to our site) and to track customer trends and patterns. This helps us improve the design and content of our site for visitors and assists us in our marketing initiatives. Although most browsers are initially set up to accept cookies, you can set most browsers at any time to refuse all cookies or indicate when a cookie is being sent. However, please note that some parts of this site may not function properly if you refuse cookies. For more information on cookies and how to disable them you can consult the information provided by the Interactive Advertising Bureau UK at <http://www.allaboutcookies.org/>.
+**Collection of Information**
 
-### DISCLOSURE OF INFORMATION
+We, whether directly or through third party suppliers, will collect information regarding your use of our Service, including but not limited to:
 
-We may share information about visitors to this site in aggregate with third parties including advertisers, business partners, and sponsors, to understand customer trends and patterns and manage and improve our business relationships. Please be assured that such information will be anonymous so that your identity is protected.
+  * – Your interactions with our site, applications and emails;
+  * – Information regarding use of the Service, including information relating to any transactions carried out between you and us on or in relation to our website or apps, including information relating to any purchases you make of our goods or services;
+  * – Your entry details for a competition or promotion;
+  * – Details regarding your interactions with customer services, including the date, time and reason for contacting us, your name;
+  * – Device IDs or unique identifiers, location data, device and software characteristics (such as type and configuration), connection information, statistics on page views, referral URLs, ad data, website and app navigation, IP address and standard web log information;
+  * – Information collected via the use of cookies, web beacons and other technologies about how you use our Service and/or selected third party websites. See our [**Cookie policy**](https://web.archive.org/cookies/) for more details;
+  * – The language choices made by you in relation to your use of the Service which may include information relating to your location when using the Service;
+  * – Any website that referred you to the Service, together with any online and email marketing campaigns related to the Service;
+  * – Information that you provide to us for the purpose of registering with us or our affiliates;
+  * – The types of devices you use to view the Service;
+  * – Behaviour on our Service as you click around our site or application; and
+  * – Online and email marketing campaigns related to the Service that you receive or subscribe to.
 
-We may share personal information with third parties to administer and process your requests (e.g., when you order a product or service we may share your details with third party financial institutions to process payment for your order). We may also share your details with third parties (such as auditors or legal advisors) to obtain professional advice.
 
-Agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing.
 
-We may disclose information we hold in response to legal proceedings, for example, in response to a court order or a subpoena. We may also disclose such information in response to a law enforcement agency’s request.
+**Account registration**
 
-### LIMITATION OF LIABILITY
+There are certain services, for example, our Investor Portal, that you will only be able to access by registering with us. To register with us, you must provide us with at least your first name, surname, phone number and email address
 
-Some of our sites contain links to other sites where information practices may be different to ours. For example, if you “click” on a Clients site, the “click” may take you off this web site. Visitors should consult the other sites’ privacy notices as we are not responsible for and have no control over information that is submitted to, or collected by, these third parties.
+You may also create an account with us via Facebook, Google or Twitter and if you choose to do so you shall be subject to Facebook’s, Google’s or Twitter’s respective Privacy Policies, and other such policies which govern your use of Facebook, Google or Twitter and their right to use your personal information as amended and added from time to time.
 
-We sometimes may offer content (e.g., competitions, sweepstakes, or promotions) that is sponsored by or co branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that you voluntarily submit to participate in the site activity. We are not responsible for and have no control over these third parties’ use of this information. However, we will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+**Uses made of the information**
 
-We may use a reputable third party to present or serve the advertisements that you may see at this site. This Privacy Policy does not cover any use of information that a third-party ad server may have collected from you.
+We may use the personal information you provide to us to do some or all of the following, in each case to the extent permitted by applicable data protection laws:
 
-### CONTACT AND NOTICES
+  * – Administer our website and apps;
+  * – provide the Service you have requested;
+  * – improving your browsing experience by personalising the Service for you;
+  * – recommend goods, services or promotions which may be of interest to you or contact you in order to conduct market research (but only where you have requested us to do so);
+  * – prevent, detect and investigate potentially prohibited or illegal activities, including fraud, cheating, and money laundering and enforce our terms;
+  * – to notify you about changes to our Service;
+  * – contact you in order to conduct market research (but only where you have requested us to do so);
+  * – send out email alerts, text messages or device notifications you may have signed up for;
+  * – send statements and invoices to you, and collect payments from you;
+  * – provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
+  * – deal with enquiries and complaints;
+  * – provide our commercial partners with information about users’ use of co-branded services, including historical use data;
+  * – to enable us to comply with any legal or regulatory requirements and otherwise to any relevant regulator or competent authority; and
+  * – to understand customer trends and patterns.
 
-Although absolute security cannot be guaranteed on the Internet, please be assured that we have in place security measures to protect the confidentiality of your information. We will continue to maintain and improve these measures over time in line with legal and technological developments.
 
-You can contact us at any time at [info@performgroup.com](mailto:info@performgroup.com) see the personal information we have collected through this site which relates to you. To protect your privacy and security we will take reasonable steps to verify your identity before granting access.
 
-If we decide to change this Privacy Policy, the changes will be posted on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. We will not use or disclose personal information provided to us in ways unrelated to the ones described above without informing you and providing you with an opportunity to opt-out of these unrelated uses.
+**Disclosure of your information**
 
-If you have any questions or comments about this Privacy Policy please feel free to contact us at [info@performgroup.com](mailto:info@performgroup.com).
+We may share your personal information with any member of the Perform group so that we can perform analysis of our customer trends and patterns. We may also, where you have given your consent, allow other members of the Perform group to contact you with relevant offers, competitions and latest news **.**
 
-Perform Group Limited  
-Sussex House  
-Plane Tree Crescent  
-Feltham  
-TW13 7HE
+We may share your information with selected third parties including:
 
-(registered office: Sussex House, Plane Tree Crescent, Feltham, TW13 7HE)
+  * – Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+  * – Advertisers and advertising networks that require the data to select and serve relevant adverts to you.
+  * – Analytics and search engine providers that assist us in the improvement and optimisation of our site.
+  * – In the event that we sell the business operating the Service or it is integrated with another business, in which case we may disclose your personal information to our advisers and any prospective buyer’s advisers as well as to the new owners of the business.
+  * – If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our terms of use;
+  * – In order to prevent fraud, cheating and money laundering we may disclose your information and for betting and gaming history to third parties including, but not limited to, any relevant regulator, gaming and sporting bodies, financial institutions and law enforcement agencies or any other body that deals with the investigation of alleged offences; and
+  * – Where we store your personal information.
+
+
+
+**Security**
+
+We understand that the security of your personal information is important to you. When handling personal information, security is paramount and we seek to ensure that personal information is adequately protected.  We use reasonable administrative, logical and physical controls, including password protection, to safeguard your personal information against loss, theft and unauthorised access, use or modification.  However, some limited personal information provided to us is transmitted using unencrypted protocols.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your personal information.
+
+**INTERNATIONAL DATA TRANSFERS**
+
+Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this Privacy Notice.
+
+Information which you provide may be transferred to our group companies, commercial partners, suppliers or agents located in countries which do not have data protection laws equivalent to those in force in the European Economic Area.
+
+In addition, personal information that you submit for publication on our website or via our apps will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+
+You expressly agree to such transfers of personal information.
+
+**PARENTS AND GUARDIANS**
+
+Our Service is a general audience service.
+
+**Marketing**
+
+As mentioned above, we and/or selected third parties may contact you with information about offers, products and services that might be of interest to you (but only if you have consented to receive such marketing). If you have consented to receiving marketing but you no longer wish to receive these notifications, please send us an email at [_corporatemarketing@performgroup.com_](mailto:corporatemarketing@performgroup.com). You can also click on the ‘Unsubscribe’ link at the bottom of any of our marketing emails.
+
+**Contact**
+
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [_customerservices@performgroup.com_](mailto:customerservices@performgroup.com).
+
+For our clients located in the EEA, we provide further information in our [**Privacy Notice Annex**](https://web.archive.org/annex-privacy-notice/).
+
+**Changes**
+
+We reserve the right to change the practices described in this Privacy Notice at any time.  Please check here periodically.
+
+This Privacy Notice is dated **December 2017**.   ** _ _**
