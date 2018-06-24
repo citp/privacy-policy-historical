@@ -1,133 +1,169 @@
-> *The following text is extracted and transformed from the branded3.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419174505id_/https%3A//www.branded3.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the branded3.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624074446id_/https%3A//www.branded3.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Branded3
 
 ### Introduction
 
-Branded3 Search Limited is committed to protecting and respecting your privacy. This policy outlines the basis on which any personal information we collect from you, or that you provide us with, will be processed by us.
+Branded3 is a part of St Ives plc. St Ives is an international marketing services group; we work with international, consumer-facing brands across all major sectors. These include – retail & FMCG, healthcare & pharma, financial services, media, technology, automotive and charity. We help them determine their strategic direction, and design and deliver world-class solutions to match their specific requirements.  
+You can visit our Group website here:  
+<https://www.st-ives.co.uk/>
 
-This privacy policy only relates to personal data collected by us via our website(s), emails or telephone calls. You should be aware that if you access third party websites, using links provided on our website(s), these websites are outside our control and have their own privacy policies governing the use of personal data and we do not accept any responsibility or liability for these policies.
+### Who are we and how to contact us.
 
-### Information we may collect from you
+Branded3 is a wholly owned subsidiary of St Ives plc
 
-We may collect and process the following data about you:
+Registered office address:  
+One Tudor Street  
+London  
+EC4Y 0AH  
+Registered in England with company number 06479012  
+Information Commissioners Office registration number Z3650119.
 
-Information that you provide by filling in forms on our website(s). This includes information provided at the time of registering to use any of our online services, subscribing to our newsletter or requesting any of our goods or services. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our website(s).
+When we refer to “we”, “us”, or “Branded3” we are referring to this company.
 
-If you contact us, we may keep a record of that correspondence.
+You can get in touch with us in any of the following ways:
 
-We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+By email:[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e5868a8b91848691a58797848b818081d6cb868a88)  
+By phone: 0113 260 4010
 
-Details of transactions you carry out through our website(s) and of the fulfilment of your orders may also be collected by us.
+Through this website: <https://www.branded3.com/>
 
-### IP addresses
-
-When you visit our website(s), we may collect information about your computer, including your IP address (the unique address which identifies your computer on the internet), operating system and browser type, for system and website administration and to collect broad demographic information for aggregate use. This is statistical data about our users’ browsing actions and patterns and does not identify any individual.
-
-### Website traffic monitoring
-
-We may also obtain and compile or appoint third parties to obtain and compile on our behalf, details of your visits to our website(s) including, but not limited to, traffic data, location data, the resources that you access, weblogs and other communication data, whether this is required for our own billing, marketing purposes or otherwise. This data does not identify any individual but may identify organisations and we may use that information in managing our relationship with those organisations, for example, in considering how to develop the services that we offer them.
-
-### Cookies
-
-Our website(s) use cookies to distinguish you from other users of our website(s) in order to help us provide you with a good experience when you browse and use our website(s) and to enable us to improve our website(s). For detailed information on the cookies we use and the purposes for which we use them, see our Cookies Policy detailed below.
-
-### Use made of personal information
-
-We may use personal information held about you in order to:
-
-Ensure that content from our website(s) is presented in the most effective manner.
-
-Identify you each time you visit our website(s).
-
-Improve our website(s) and services.
-
-Process requests, orders or applications submitted by you.
-
-Carry out our obligations arising from any contracts entered into between you and us.
-
-Notify you about changes to our goods and/or services.
-
-Carry out demographics of users of our website(s).
-
-Provide, or permit our Affiliates and/or selected third parties to use your data to provide you with information about goods and services, which may be of interest to you.  
-Personal information provided to us via our website(s), emails and telephone calls will be used for the purposes explained at the time of collection in accordance with the Data Protection Act 1998 (the Act).
-
-### Your rights
-
-You have the right to ask us not to process your personal data for marketing purposes. At each point of data collection or registration you are given the opportunity to tell us that you do not wish us to use your personal data to contact you about goods and services which might be of interest to you, by ticking certain boxes on the forms we use to collect your personal data.
-
-We may wish to share personal information with our Affiliates and selected third parties so they may contact you about goods and services which may be of interest to you. You can exercise your right to prevent us from disclosing your personal data to such third parties for this purpose by ticking the relevant box on the forms being used to collect your data.
-
-If at any time you want to alter your marketing communication preferences or for us to stop sending marketing communications to you, please contact our Database Manager at the address specified at the end of this privacy policy.
-
-### Consent
-
-By providing personal data to us you are consenting to the processing of such data by us as described in this privacy policy.
-
-### Where we store your personal data
-
-The personal data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-### Security
-
-We hold your personal data in accordance with the security provisions of the Act.
-
-### Access to information
-
-The Act gives you the right to ask us, in writing, for a copy of the personal data held about you (“subject access request”) and to request that we correct any inaccuracies in that information. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-### Verifying, updating and amending your personal information
-
-If, at any time, you want to verify, update or amend your personal data you may email us using the link below. Alternatively, you may write to the Database Manager at the address provided at the end of this privacy policy. Verification, updating or amendment of personal data takes place within two working days of receipt of the request if made online and 10 working days if made offline.
-
-### Notification of changes to our privacy policy
-
-If we decide to change our Privacy Policy, we will post such changes on this page.
-
-### Contact
-
-Any questions, comments or requests regarding this privacy policy or the processing of your personal data are welcomed and should be addressed to:
-
-Database Manager  
-Branded3 Search Limited  
-2nd floor, 2180 Century Way  
+By post:  
+**David Smith**  
+**Branded3**  
+2nd Floor  
+2180 Century Way  
 Thorpe Park  
 Leeds  
 LS15 8ZB
 
-### Cookie policy
+### About this privacy policy
 
-### Introduction
+This policy sets out how we will use and share the information that you give us. This privacy policy relates to personal data collected by us via:
 
-When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, a computer or mobile phone, if you agree. These small files of information are known as cookies. Cookies allow us to distinguish you from other users of our website(s), which helps us to provide you with a better experience when browsing our website(s) and also allows us to improve our website(s). Cookies cannot be used to identify you personally.
+  * Our website(s)
+  * Email correspondence
+  * Telephone calls
+  * Paper communications
+  * Social media
+  * Visiting our offices
+  * Enquiring about, or buying products or services from us
+  * Providing products or services to us
+  * Trade events such as conferences or exhibitions
 
-Examples of how cookies are used to improve services for you are:
 
-Enabling a service to recognise your device so you don’t have to give the same information several times during one task.
 
-Recognising that you may already have given a username and password so you don’t need to do it for every web page requested.
+You should be aware that if you access third party websites (including those of our Affiliates), using links provided on our websites, these websites are outside our control and have their own privacy policies governing the use of personal data and we do not accept any responsibility or liability for these policies.
 
-Measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fast.  
-Our cookies aren’t used to identify you personally. They’re just here to make the website(s) work better for you. In fact, you can manage and/or delete these small files as you wish.
+An Affiliate is a company or partnership that is not wholly owned by St Ives plc, but which is part owned or controlled by St Ives plc.
 
-To learn more about cookies and how to manage them, [click here](http://aboutcookies.org/).
+### What data we process about you.
 
-### The cookies we use and how we use them
+Branded3 may collect and process the following categories of personal data about you:
 
-Cookies for managing your current visit:
+  * Contact Details:
+    * Name, contact details, organisation, employment details
+  * Information generated by the work, service or relationship we may have with you:
+    * Business details, bank and financial details, communication and correspondence.
+  * Information generated by visiting our website or engaging with us on social media:
+    * IP addresses, social handles or usernames
+  * Information generated by attending conferences or trade events:
+    * Name, photographs and videos, contact details, organisation, employment details
 
- **Name                          Typical content                        Expires**  
-Site session             Randomly generated text       When user exits browser
 
-### Cookies for improving service
 
-We use several different types of cookie on our website(s); these are:
+### How we collect information about you and how we will use it.
 
- **Session cookies:** These are temporary cookies, which are stored on your device for as long as you’re browsing our website(s), and remember such things as adding a product to a shopping basket.
+We may collect and process information that you provide during your correspondence with us, this could be, but not limited to, one of the following ways:
 
- **Persistent cookies** : This type of cookie stays on your device even once you’ve closed your browser, and typically remains for around 30 days. They help websites to personalise your experience by remembering certain products you’ve viewed or bought before.
+  * Giving information directly to us by methods including filling in forms either on our website(s) or via other media
+  * Subscribing to our newsletter
+  * Requesting any of our goods, services, downloads or other information
+  * Communicating with us through methods including but not limited to e-mail, telephone and written correspondence
 
- **Third-party cookies:** This type of cookie will collect information which is sent back to a website other than the one you’re currently browsing, and is used to improve user experience on our website(s).
 
-The data collected is completely anonymous and can be used, for example, by advertisers to find out where and when users are clicking on their ads.
+
+We will only use your personal information when the law allows us to. Most commonly, we will use your personal information in the following circumstances:
+
+  * Where you have given consent for us to process your information.
+  * Where we need to perform the contractual obligations we have entered into with you, or the business you are working for, or with.
+  * Where we need to comply with a legal obligation.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests
+
+
+
+The purpose(s) for which we will collect and process your data are shown below:
+
+  * To manage our relationship and administer our business either as a part of a contract or where we believe we have a legitimate interest to do so
+  * To execute a contract or request
+  * Where we have a legitimate interest to keep you informed of our products or services by appropriate communication methods unless you’ve objected to us doing so.
+  * Sending you marketing and information about our business via e-mail if you have consented to it
+  * Adding it to information that we or St Ives companies/affiliates already hold on you or your organisation
+
+
+
+To promote and publicise our trade events and exhibitions through our social media channels and website
+
+### Data sharing
+
+Your personal data may be shared with other companies within our Group. It may also be disclosed to a third party who acquires us, a member of our Group or substantially all of our assets.
+
+We may also share some of your personal data with the following categories of third parties:
+
+  * Marketing Agencies who help us promote ourselves or deliver our services
+  * Printers, Email service providers or other suppliers who help us to send our newsletters and communications
+  * Suppliers providing services to us to help us run our business
+
+
+
+We require third parties to respect the security of your data and to treat it in accordance with the law. We will share your personal information with third parties where required by law.
+
+### International Transfer of Data
+
+Branded3 may send your data outside the European Economic Area (the European Economic Area being the European Union and Iceland, Liechtenstein and Norway, also referred to as the “EEA. Where your personal data are transferred or accessed outside of the EEA, we require that appropriate safeguards are in place.
+
+Your choices in relation to personal information.
+
+It is important that the personal information we hold about you is accurate and current. Please keep us informed if your personal information changes during your relationship with us. You also have the rights and choices which you can exercise on the data we hold on you.
+
+You have the right to:
+
+  * Obtain access to your personal information
+  * Withdraw consent
+  * Object to direct marketing
+  * Ask us to correct any errors or delete the information we hold
+  * Object or restrict our processing of your information
+  * Request that we port your personal information
+
+
+
+For more information or to action these rights, please contact using us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c0a3afaeb4a1a3b480a2b2a1aea4a5a4f3eea3afad)
+
+### Retention and destruction of personal information
+
+We will take reasonable steps to ensure the accuracy of the information we hold about you. We will not use your personal information unless it is (to the best of our knowledge) accurate and up to date.
+
+We will only retain your personal information for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting or reporting requirements. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+In some circumstances, we may anonymise your personal information so that it can no longer be associated with you, in which case we may use such information without further notice to you.
+
+When the purposes for which we have collected the data for have ended we will retain and securely destroy your personal information in accordance with applicable laws and regulations. For further details about data retention please contact the data protection officer whose details can be found in this policy.
+
+### Data Protection Officer
+
+If you have concerns that you would like to raise with us, please contact our Data Protection Officer:
+
+ **Jonathon Richmond**  
+**Chief Data Protection Officer**  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9ddd8cdd897c9cbd6cddcdacdd0d6d7f9dcddd0cd97dad697ccd2)
+
+You also have the right to complain to the Information Commissioners Office if you believe we have not acted within the law or have infringed your rights.  
+<https://ico.org.uk/for-the-public/>
+
+### Security
+
+Unfortunately, the transmission of data over the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee its security. Once we have received your data we will use strict security measures to try to protect it against loss, misuse, or unauthorised alterations.
+
+### Changes
+
+We may change the terms of this privacy policy from time to time. Any changes will be posted on this page.
