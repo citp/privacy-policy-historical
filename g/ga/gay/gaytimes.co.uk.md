@@ -1,71 +1,429 @@
-> *The following text is extracted and transformed from the gaytimes.co.uk privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222044921id_/http%3A//www.gaytimes.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaytimes.co.uk privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624061336id_/http%3A//www.gaytimes.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gay Times
 
-**GAY TIMES CUSTOMER PRIVACY POLICY**
+#### **PRIVACY Notice**
 
-Gay Times, is published by Gay Times Ltd. This Customer Privacy Policy governs the collection and use of personal information relating to potential and existing customers of Gay Times Ltd. by the company and its partners and affiliates.
+**INTRODUCTION**
 
-Gay Times Ltd.  is committed to abiding by this Customer Privacy Policy, as well as the requirements of applicable laws, in the operation of its business. Please read this policy carefully as it explains the kinds of personal information we collect about you and how it is handled.
+Welcome to Gay Times Limited’s privacy notice.
 
-For the purpose of the Data Protection Act 1998, the data controller is Gay Times Ltd., Unit 10, Stratford Office Village, 14/30 Romford Road, Stratford, E15 4EA.
+Gay Times Limited (“Gay Times”) respects the privacy of all third parties that it has a relationship with and is committed to protecting personal data. This privacy notice will inform you as to how we look after your personal data (in all situations where we collect your data) and tell you about your privacy rights and how the law protects you.
 
-By your continued use of our services (including our websites), you consent to the collection and use of your personal information by Gay Times Ltd. Information for the purposes set out in this Customer Privacy Policy.
+This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.
 
-**COLLECTION AND USE OF PERSONAL INFORMATION**
+**1\. IMPORTANT INFORMATION AND WHO WE ARE**
 
-We will generally let you know at the time of collection how we intend to use your personal information. Usually, we collect personal information about you which we require to respond to your inquires, for payment processing and for the provision of goods and services to you. We also process your personal information where we are required to do so by law, and for the exercise or defence of legal claims. From time to time, we may contact you for research purposes, or to tell you about our special offers and other services in accordance with your contact preferences. Where appropriate, we will obtain your consent to do so. Personal information collected from you may include your name, payment processing information, postal address, email address, landline or mobile telephone number, delivery details as well as other non sensitive personal information. If you use our web sites, we may also collect information about you or your computer when you browse to allow you to use the services available.
+**2\. THE DATA WE COLLECT ABOUT YOU**
 
-**WEBSITE USAGE & COOKIES** – see our separate [cookies policy](https://www.gaytimes.co.uk/cookie-policy/)
+**3\. HOW IS YOUR PERSONAL DATA COLLECTED**
 
-**THIRD PARTY**
+**4\. HOW WE USE YOUR PERSONAL DATA**
 
-We will only disclose personal information about you to third parties for processing purposes associated with payment processing, the supply of goods and services, for web site administration, or elsewhere when you have consented to such disclosures, or where such disclosures are required or permitted by law. These third parties we contractually bound only to use personal information to perform the services that we hire them to provide. Unless you have indicated that we may not do so, we may lease or rent your personal information to selected third parties for their e-mail, postal or telephone marketing use.
+**5\. DISCLOSURES OF YOUR PERSONAL DATA**
 
-**TRANSFER OF DATA**
+**6\. INTERNATIONAL TRANSFERS**
 
-In the unlikely event that data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”), we will take measures to ensure that personal information transferred by us outside of the EEA is adequately protected in line with the 1998 Data Protection Act.  By submitting your personal data, you agree to this transfer, storing or processing.
+**7\. DATA SECURITY**
 
-**VIRTUAL PRODUCTS**
+**8\. DATA RETENTION**
 
-In the case of your use of one of our virtual products e.g. mobile apps, digital issues etc, we may pass the personal information you provided to us to third parties. Generally this will be via a process whereby you, as the user, visit or interact with a third party. However, in some instances our virtual products are sponsored and, in such cases the data you provided to us will be given to the sponsor. Generally we will let you know at the time of collection if a product is sponsored.
+**9\. YOUR LEGAL RIGHTS**
 
-If you wish to change your contact preferences with an individual exhibitor/sponsor, please follow their own unsubscribe request details. Unsubscribing to the Gay Times Ltd. will stop Gay Times Ltd. from contacting you in the future, but not the individual third parties whom you have interacted with.
+**10\. GLOSSARY**
 
-We take your contact preferences very seriously. If you would prefer for your details not to be passed to any third parties as laid out in this section, you are advised not to register for the virtual product.
+**1.**    **IMPORTANT INFORMATION AND WHO WE ARE**
 
-**EMAIL CAPTURE**
+**PURPOSE OF THIS PRIVACY NOTICE**
 
-Gay Times Ltd may send regular updates about this brand and other relevant Gay Times Ltd. products and services. Your email address will not be given to third parties except where outlined in the privacy policy. By providing your email address you consent to being contacted for direct marketing purposes by Gay Times Ltd.
+This privacy notice aims to give you information on how Gay Times collects and processes your personal data through all means such as when you subscribe to the Gay Times publication; sign up to receive the ‘Best of Gay Times’ website content or other Gay Times digital content; supply services to us, or use of this website, including any data you may provide through this website when you sign up to our newsletter; download a guide or take part in a promotion.
 
-**MOBILE PHONE CAPTURE**
+This website is not intended for children and we do not knowingly collect data relating to children.
 
-Gay Times Ltd. may from time to time contact you about this brand and other relevant Gay Times Ltd. products and services. By providing your mobile number you consent to being contacted for direct marketing purposes via voice calls or SMS by Gay Times Ltd., unless you state otherwise.
+It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them.
 
-**SECURITY OF PERSONAL INFORMATION**
+**CONTROLLER**
 
-We use administrative, technical, and physical measures to safeguard personal information against loss, theft and unauthorised uses, access or modifications. Certain areas of our web sites may be password protected. If you are a user of our web sites and have a password, you can help to preserve your privacy by ensuring that you do not share your password with anyone else.
+For the purpose of the General Data Protection Regulations (“GDPR”) 8, the data controller is Gay Times Limited, 81 Rivington Street, London, EC2A 3AY (collectively referred to as Gay Times, ”COMPANY”, “we”, “us” or “our” in this privacy notice).
 
-Payments made via our web sites are processed in a secure environment using software provided by other reputable third party providers.
+We have appointed a data protection manager (DPM) who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise _your legal rights_ , please contact the DPO using the details set out below.
 
-We take steps to regularly validate the personal information we hold to ensure that the information is accurate and, where necessary, up to date. Information that is no longer required for any valid business purpose, and that we are not required to keep pursuant to any applicable law, will be routinely destroyed by secure means.
+**CONTACT DETAILS**
 
-**MAKING AUTOMATED DECISIONS**
+Our full details are:
 
-We do not ordinarily use personal information for the purposes of automated decision making. However, we may  do so in order to fulfill compelling obligations imposed by law, in which case we will inform of any such processing and provide you with an opportunity to object.
+Name of DPM: Robert Hanwell
 
-**ACCESS TO PERSONAL INFORMATION**
+Email address: robert@gaytimes.co.uk
 
-You may access, renew and update personal information that we hold about you by contacting us as detailed below.
+Postal address: 81 Rivington Street, London, EC2A 3AY
 
-**CONTACTING US**
+You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([ _www.ico.org.uk_](http://www.ico.org.uk/)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
-If you have any questions about this privacy policy, or no longer wish to receive anything from Gay Times Ltd.  or have your data made available to third parties, you can email us at josh.rivers@gaytimes.co.uk. 
+**CHANGES TO THE PRIVACY NOTICE AND YOUR DUTY TO INFORM US OF CHANGES**
 
-**CHANGES TO PRIVACY POLICY**
+This version was last updated on 14th May 2018.
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
-Please review our privacy policy on a regular basis to make sure you have read the latest version and you understand what we do with your personal information. Your continued use of our services or our web sites following the posting of changes to these terms means that you consent to those changes.
+**THIRD-PARTY LINKS**
 
-Updated: 20 March 2017
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+**2.**    **THE DATA WE COLLECT ABOUT YOU**
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:
+
+**Identity Data** may include first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender.
+
+**Contact Data** may include invoicing address, email address and telephone numbers.
+
+**Financial Data** may include bank account and payment card details.
+
+**Transaction Data** may include details about payments to and from you and other details of services you have purchased from us.
+
+**Technical Data** may include internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+
+**Profile Data** may include **** your purchases or orders made by you, your interests, preferences, feedback and survey responses.
+
+**Usage Data** may include information about how you use our services and website.
+
+**Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
+
+We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
+
+We do collect some **Special Categories of Personal Data** about you but only where you expressly provide such data to us (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions and information about your health). Nor do we collect any information about criminal convictions and offences.
+
+**IF YOU FAIL TO PROVIDE PERSONAL DATA**
+
+Where we need to collect personal data by law, or under our terms of service and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with access to our website or subscription to the Gay Times magazine).
+
+**3.**    **HOW IS YOUR PERSONAL DATA COLLECTED?**
+
+We use different methods to collect data from and about you including through:
+
+**Direct interactions.** You may give us your Identity, Contact and Financial Data when subscribing to the Gay Times magazine, filling in forms on this website, or by corresponding with us by post, phone, email, and telephone or otherwise. This includes personal data you provide when you:
+
+Enquire and or contract with us for our services;
+
+subscribe to our publications;
+
+request marketing to be sent to you;
+
+enter a competition, promotion or survey; or
+
+give us some feedback.
+
+**Automated technologies or interactions.** As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our [cookie policy](http://www.gaytimes.co.uk/cookie-policy/) for further details.
+
+**Third parties or publicly available sources.** We may receive personal data about you from various third parties.
+
+Technical Data from the following parties:
+
+**(a)**   analytics providers;
+
+**(b)**   advertising networks; and
+
+**(c)**   search information providers.
+
+Contact, Financial and Transaction Data from providers of technical and payment services.
+
+Identity and Contact Data from data brokers or aggregators.
+
+Identity and Contact Data from publicly availably sources.
+
+**4.**    **HOW WE USE YOUR PERSONAL DATA**
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+Where we need to perform the contract we are about to enter into or have entered into with you.
+
+Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.Where we need to comply with a legal or regulatory obligation.
+
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by _Contacting us_.
+
+**PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA**
+
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please _Contact us_ if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+
+**Purpose/Activity**
+
+| 
+
+**Type of data**
+
+| 
+
+**Lawful basis for processing including basis of legitimate interest**  
+  
+---|---|---  
+  
+To register you as a new magazine subscriber; recipient of our digital or supplier of services to us
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+| 
+
+Performance of a contract with you  
+  
+To process and deliver your order including:
+
+(a) Manage payments, fees and charges
+
+(b) Collect and recover money owed to us
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Financial
+
+(d) Transaction
+
+(e) Marketing and Communications
+
+| 
+
+(a) Performance of a contract with you
+
+(b) Necessary for our legitimate interests (to recover debts due to us)  
+  
+To manage our relationship with you which will include:
+
+(a) Notifying you about changes to our terms or privacy policy
+
+(b) Asking you to leave a review or take a survey
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Marketing and Communications
+
+| 
+
+(a) Performance of a contract with you
+
+(b) Necessary to comply with a legal obligation
+
+(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)  
+  
+To enable you to partake in a prize draw, competition or complete a survey
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications
+
+| 
+
+(a) Performance of a contract with you
+
+(b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)  
+  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+| 
+
+(a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
+
+(b) Necessary to comply with a legal obligation  
+  
+To make suggestions and recommendations to you about goods or services that may be of interest to you
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(d) Usage
+
+(e) Profile
+
+| 
+
+Necessary for our legitimate interests (to develop our products/services and grow our business)  
+  
+**MARKETING**
+
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising.
+
+**PROMOTIONAL OFFERS FROM US**
+
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
+
+You will receive marketing communications from us if you have requested information from us or purchased services from us or if you provided us with your details when you entered a competition or registered for a promotion and, in each case, you have not opted out of receiving that marketing.
+
+**THIRD-PARTY MARKETING**
+
+We will get your express opt-in consent before we share your personal data with any company outside the Company for marketing purposes.
+
+**OPTING OUT**
+
+You can ask us or third parties to stop sending you marketing messages at any time by _Contacting us_ at any time.
+
+Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions.
+
+**COOKIES**
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our[ Cookies Policy](http://www.gaytimes.co.uk/cookie-policy/).
+
+**CHANGE OF PURPOSE**
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please _Contact us_.
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+**5.**    **DISCLOSURES OF YOUR PERSONAL DATA**
+
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
+
+External Third Parties as set out in the _Glossary_.
+
+Specific third parties listed in the table in _paragraph 4_ above.
+
+Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+**6.**    **INTERNATIONAL TRANSFERS**
+
+Some of our external third parties are based outside the European Economic Area ( **EEA** ) so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
+
+We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see [_European Commission: Adequacy of the protection of personal data in non-EU countries_](https://ec.europa.eu/info/law/law-topic/data-protection/data-trans).
+
+Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see [_European Commission: Model contracts for the transfer of personal data to third countries_](https://ec.europa.eu/info/strategy/justice-and-fundamental-rights/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data).
+
+Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. For further details, see [_European Commission: EU-US Privacy Shield_](https://ec.europa.eu/info/strategy/justice-and-fundamental-rights/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en).
+
+Please _Contact us_ if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+
+**7.**    **DATA SECURITY**
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+**8.**    **DATA RETENTION**
+
+**HOW LONG WILL YOU USE MY PERSONAL DATA FOR?**
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they cease being customers for tax purposes.
+
+In some circumstances you can ask us to delete your data: see below for further information.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+**9.**    **YOUR LEGAL RIGHTS**
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights:
+
+_Request access to your personal data_.
+
+_Request correction of your personal data._
+
+_Request erasure of your personal data_.
+
+_Object to processing of your personal data_.
+
+_Request restriction of processing your personal data_.
+
+_Request transfer of your personal data_.
+
+_Right to withdraw consent_.
+
+If you wish to exercise any of the rights set out above, please _Contact us_.
+
+**NO FEE USUALLY REQUIRED**
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+**WHAT WE MAY NEED FROM YOU**
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+**TIME LIMIT TO RESPOND**
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+**10.**    **GLOSSARY**
+
+**LAWFUL BASIS**
+
+**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by _Contacting us_
+
+**Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+**Comply with a legal or regulatory obligation** means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+**THIRD PARTIES**
+
+**EXTERNAL THIRD PARTIES**
+
+  1. Service providers acting as processors based within or outside of the EEA who provide services that support our services supplied to you.
+
+
+  1. Professional advisers acting including lawyers, bankers, auditors and insurers based within the EEA who provide consultancy, banking, legal, insurance and accounting services.
+
+
+  1. HM Revenue & Customs, regulators and other authorities based in the United Kingdom who require reporting of processing activities in certain circumstances.
+
+
+
+**YOUR LEGAL RIGHTS**
+
+You have the right to:
+
+**Request access** to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+**Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+**Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+**Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+**Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
