@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zumper.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029025606id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumper.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624125214id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zumper
 
@@ -46,11 +46,11 @@ Notwithstanding the above, Zumper may use Personal Information to the extent req
 
 Zumper's Disclosure of Personal Information:
 
-We will use the Personal Information you give us to fulfill the services you request from us. This may include sharing such Personal Information with any of our Contractors, with our affiliates (including but not limited to any of our subsidiary entities), or with any landlord, landlord representative, broker, property manager or sub-lessor with whom you may wish to enter into a rental contract. Except as set forth in the previous sentence, as described under "Permitted Disclosures" below, and as otherwise authorized by you, Zumper will not disclose Personal Information to any third party. Zumper shall in no event be liable to you for any use or misuse of Personal Information by any third party with whom your Personal Information has been shared in accordance with the terms of this paragraph.
+We will use the Personal Information you give us to fulfill the services you request from us. This may include sharing such Personal Information with any of our Contractors, with our affiliates (including but not limited to any of our subsidiary entities), or with any landlord, landlord representative, broker, property manager or sub-lessor with whom you may wish to enter into a rental contract. Additionally, we may share your email address and phone number with third parties (including in exchange for payment), whose services we think may be of interest to you based on your use of the Website, for their direct marketing purposes. Except as set forth in this paragraph, as described under "Permitted Disclosures" below, and as otherwise authorized by you, Zumper will not disclose Personal Information to any third party. Zumper shall in no event be liable to you for any use or misuse of Personal Information by any third party with whom your Personal Information has been shared in accordance with the terms of this paragraph.
 
 Web Tracking Information:
 
-We may disclose Web Tracking Information to Contractors in order to analyze the performance of the Website and the behavior of users, and to operate and improve the Website. Certain Web Tracking information, such as the popularity ranking of certain pages of the Website, may be published on the Website and so disclosed to all users of the Website.
+We may disclose Web Tracking Information to Contractors in order to analyze the performance of the Website and the behavior of users, and to operate and improve the Website. We may also share Web Tracking Information with third parties to enable them to serve you ads for their products and services on other websites. Certain Web Tracking information, such as the popularity ranking of certain pages of the Website, may be published on the Website and so disclosed to all users of the Website.
 
 Aggregate Information:
 
@@ -62,13 +62,15 @@ Notwithstanding the foregoing, Zumper reserves the right to disclose any informa
 
 Third Party Ad Servers:
 
-We may allow other companies, called third-party ad servers or ad networks, to serve advertisements on the Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP Address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content. Further, these advertisers may also serve ads to you on other websites (including ads for our products and services) based on information collected from you while using the services available through the Website. For example, we use Google’s "remarketing" service to target Zumper ads to you based on your prior use of the Website when you visit other sites in Google’s content network.
+We may allow other companies, called third-party ad servers or ad networks, to serve advertisements on the Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP Address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content. Further, these advertisers may also serve ads to you on other websites (including ads for our products and services) based on information collected from you while using the services available through the Website. For example, we use Google's "remarketing" service to target Zumper ads to you based on your prior use of the Website when you visit other sites in Google's content network.
 
 You should consult the respective privacy policies of these third-party ad servers or ad networks. This Privacy Policy does not apply to, and we cannot control the activities of, such advertisers or other websites. You can opt out of the use by third-party ad servers of cookies by contacting us at hello@zumper.com.
 
 ##### 5\. How Can You Opt Out of Use and Disclosure of Your Information?
 
-If you would like your Personal Information removed from our mailing list or database, please contact us at hello@zumper.com. In the event of any such removal, Zumper may retain copies of information for its archives.
+If you do not want Zumper to disclose your email address and phone number to other companies for their marketing purposes, you may contact us at hello@zumper.com instructing us to no longer share your contact information with third parties who will use it for direct marking purposes. Please also include your name and all of the email addresses and phone numbers that you have provided to us. If you would like your Personal Information removed from our mailing list or database, please contact us at hello@zumper.com. In the event of any such removal, Zumper may retain copies of information for its archives.
+
+Under California law, California residents who have an established business relationship with Zumper may make a written request to Zumper about whether Zumper has disclosed any Personal Information to any third parties for the third parties' direct marketing purposes during the prior calendar year.
 
 ##### 6\. Accessing, Updating or Deleting Your Personal Information
 
@@ -96,8 +98,12 @@ Zumper and its servers are located in the United States and are subject to the a
 
 This Website does not knowingly collect personal information from users under the age of 13. If you are under the age of 13, you are not permitted to use the Website or to disclose Personal Information using the Website. If we learn we have collected or received Personal Information from a child under 13, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at hello@zumper.com.
 
-##### 12\. Terms of Use
+##### 12\. Statement Regarding the GDPR
+
+Zumper, Inc. is not currently subject to the GDPR. Zumper does not act as either a controller or processor of personal data provided by EU data subjects, as those terms are understood under the GDPR. Zumper markets and provides its products and services to entities and individuals based in the United States. Zumper does not have a presence in the European Union, and does not offer or otherwise market any products or services to individuals based in the EU. Although Zumper is not subject to the GDPR, the company takes seriously its customers’ privacy, and is committed to protecting Personal Information in accordance with this Privacy Policy and applicable law. Should you have any questions, please do not hesitate to contact us at hello@zumper.com
+
+##### 13\. Terms of Use
 
 This Privacy Policy forms part of, and is subject to, the provisions of Zumper's Terms of Use, available at https://www.zumper.com/terms-of-use.
 
-Effective Date of this policy: May 31, 2016.
+Effective Date of this policy: May 9, 2017.
