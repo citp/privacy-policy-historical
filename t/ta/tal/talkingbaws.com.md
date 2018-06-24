@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkingbaws.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125200221id_/http%3A//www.talkingbaws.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkingbaws.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624131041id_/http%3A//www.talkingbaws.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - talkingbaws
 
@@ -10,30 +10,9 @@ Your visiting this web site constitutes acceptance of and consent to the practic
 
 Talking Baws reserves the rights to change this Privacy Policy at any time by posting an updated version on the web site. The date that the web site was last updated is shown at the bottom of this web page. Your continued use of this site after an updated version is posted constitutes your acceptance of and consent to the practices set out in this Privacy Policy as modified.
 
-**WHAT INFORMATION DO TALKINGBAWS  COLLECT?**  
-Your personal information is not collected from you automatically, simply as a result of your accessing this web site. It is only collected on a voluntary basis, resulting from your own input of this information. The only information that is collected automatically when you access this web site is the IP address of the computer that you are using. For more information on IP addresses, please see below.
+**WHAT INFORMATION DO TALKINGBAWS  COLLECT?**
 
-We will also collect information on our server logs from your browser including your IP address, web-browser details, operating system details, and your activities whilst on the Website together with information about other websites that you have visited either before or after you have entered onto the Website.
-
-If you register your personal details with this web site, it is only known to Talkingbaws and trusted third party suppliers of related services. If you choose to register, Talkingbaws will request information such as your name, email address, address, telephone number or other contact details as required. This information will then be held by Talkingbaws as it is necessary for Talkingbaws to carry out the services for which you registered. Talkingbaws also use this information to improve the function of the web site and to prevent any abuse to the web site. This information will not be kept indefinitely, only for the statutory period allowed under the Data Protection Act 1998 (as amended).
-
-Talkingbaws will also keep any correspondence you send Talkingbaws whether by email or standard mail. This correspondence will not be kept indefinitely, only for the statutory period allowed under the Data Protection Act 1998 (as amended).
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
-
-**HOW DO TALKINGBAWS USE THE INFORMATION COLLECTED?**  
-All the information that Talkingbaws collect via the web site or correspondence is used to help Talkingbaws understand more about who uses the web site and to help improve the web site and the services that it offers. It will also help Talkingbaws to send communications to you that may be of interest.
-
-We do share information about users with third parties order to promote, sell or enhance the products and services we provide but we only disclose such information in an aggregated or anonymised form so that the information is incapable of identifying you as an individual. We take the privacy of our users very seriously, we do not rent, sell or share your personal data with other people. However, your personal data may be passed to a third party in any one of these circumstances:-
-
-If Talkingbaws have a duty to do so or if the law allows or requires Talkingbaws to do so;  
-If Talkingbaws or its assets are sold to or purchased by another company or person;  
-To affiliated businesses or subsidiary or parent companies of Talkingbaws.  
-If Talkingbaws wishes to or is required to pass on your information to a third party it will not do so other than with your express permission.
-
-Talkingbaws may use the personal information that you have provided to contact you by any of the methods which you input. Communications from Talkingbaws will be limited to administrative messages unless you have “opted in” to receive additional information about new services, features or products which are being offered by Talkingbaws. If you do not want to be contacted in this way then please click where indicated when you are completing any of the online forms where you initially input your personal details, by changing your personal details on the [“personal details”] page when you are logged on to the web site, or by contacting Talkingbaws via the contact page at any time after submitting your personal details.
-
-As the Internet is a global network, there may be instances when your personal data travels across international borders. This may include transfers outside the EU and the EEA. If you do voluntarily input any personal information via this web site or send correspondence, then in doing so you are authorising Talking Baws to transfer your personal data in this way.
+We do not collect or store any of your information as a company unless clearly asked for and permitted by yourself.
 
 **DOES TALKINGBAWS  LIMITED USE COOKIES OR WEB BEACONS?**  
 Like many web sites, this web site does use cookies. This enables Talkingbaws to provide you with a more personalised service.
@@ -46,9 +25,6 @@ For more information about cookies, including how to disable them, please go to 
 
 Some of the web pages of the web site may contain “clear gifs” or “web beacons”. These are used to count the number of users who access those pages and only collect information relating to the time, date and the page that was visited. They do not carry any personal information and are only used to track how effectively certain aspects of the web site are performing.
 
-**IP ADDRESSES**  
-The IP address of the computer you use to access this web site is automatically provided by your browser each time you view the web site. If you provide any personal information via this web site then the IP address of the computer you are using at the time you provide this information will be stored by Talkingbaws. IP addresses may be used by Talkingbaws for various reasons, including but not limited to differentiating between users from different geographical locations or to help with technical problems that may relate to certain groups of IP addresses.
-
 **HOW SECURE IS MY PERSONAL INFORMATION?**  
 The security of your personal information is very important to Talkingbaws and it takes all steps it deems reasonably necessary to ensure such security. However, the transmission of data over Internet cannot be guaranteed to be completely secure and failsafe. As such, Talkingbaws is not able to warrant or guarantee the complete security of any personal information that you provide and it is important that you are aware that providing any such information is done so entirely at your own risk.
 
@@ -59,10 +35,8 @@ If you would like details of the personal information Talkingbaws store about y
 
 Talkingbaws.
 
-Wilson Business Park,  
-Queen Elizabeth Avenue,  
-Hillington,  
-Glasgow,  
-G52 4NQ
+26 Tannoch Drive,  
+Cumbernauld,  
+G67 2XX
 
-This Privacy Policy was last updated on 1st January 2016.
+This Privacy Policy was last updated on 25th May 2018.
