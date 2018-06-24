@@ -1,78 +1,143 @@
-> *The following text is extracted and transformed from the heapanalytics.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514120004id_/https%3A//heapanalytics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heapanalytics.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624133132id_/https%3A//heapanalytics.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Heap | Mobile and Web Analytics
+# Privacy - Heap | Mobile and Web Analytics
 
-### Privacy Policy
+#### **HEAP ANALYTICS** **PRIVACY STATEMENT**
 
-Heap, Inc. (“Heap,” “we” or “us”) is committed to protecting your privacy. This Privacy Policy explains how Heap collects, uses, and shares the personal information we collect from visitors to our website (“Website”). For information about how we collect and use information collected from our customers (“Customer Data”) during the provision of our service (“Service”), please see “Customer Data,” below. By accessing or using our Service, you signify that you have read, understood and agree to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. 
+This website privacy statement (“Privacy Statement”) provides information regarding how Heap, Inc. (“Heap” or “we”) collects, uses and transfers personally identifiable information (“Personal Data”) from you through Heap’s publicly accessible website (http://www.Heapanalytics.com) (the “Website” or “Site”).  By using this Website, you consent to the collection and use of your Personal Data as described herein. If you do not agree with the terms set out herein, please do not use this website.  If Heap decides to make changes to this Privacy Statement, Heap will post the changes on this website so that you will know what Personal Data we collect, and how we use it. We therefore encourage you to periodically look for updates to this Privacy Statement.
 
-We collect personal information about you from various sources to provide our services to you, to analyze and improve our services, and to communicate with you. To help you understand how we use and share this information, this Privacy Policy describes our data privacy and confidentiality practices.
+This Privacy Statement describes how Heap makes use of your Personal Data and your rights regarding the same.  The following information is included in this Privacy Statement:
 
-Capitalized terms that are not defined herein have the meanings given them in our [Terms of Service](https://web.archive.org/terms).
-
-#### 1\. How We Collect and Use Information
-
-We collect personal information from our website visitors in order to provide you with a personalized, useful and efficient experience. The categories of information we collect can include: 
-
-Information that you provide to us. We collect information that you provide to us when you set up an account with us, use our Services, or communicate with us. For example, we may request your personal information (e.g., name, postal address, email address, telephone number, credit/debit card number, security code) or your applicable business information when you register for an account or purchase our Service. We may also collect any communications that you exchange with us, as well as any information you provide if you take part in any interactive features of the Service.
-
-Information collected through technology. We automatically collect certain types of usage information when you visit our website or use our Service. When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click, how frequently you access the Service, and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information from your browser or mobile device each time you access the Service. Log file information may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, information about your mobile device, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns. In addition, we may also use clear gifs in HTML-based emails to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service and to understand more about the demographics of our visitors. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Service. Although we do our best to honor the privacy preferences of our visitors, we are not able to respond to Do Not Track signals from your browser at this time.
-
-When you access our Service by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device or our mobile application (including, for example, a UDID, Unique ID for Advertisers (“IDFA”), Google Ad ID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
-
-Information from other sources. We may obtain information from other sources, such as third-party information providers, or through mergers and acquisitions, and combine this with information previously collected. In these cases, our Privacy Policy governs the handling of the combined personal information.
-
-We use this information to operate, maintain, and provide to you the features and functionality of the Service, as well as to communicate directly with you, such as to send you email messages about products and services that may be of interest to you. We may also send you Service-related emails or messages (e.g., account verification, billing confirmation, changes or updates to features of the Service, technical and security notices). Similarly, if you request information from us through an online contact form or if you email us, we collect the information you provide (e.g., name, telephone number, email address) so that we can respond to you. For more information about your communication preferences, see “Your Choices Regarding Your Information” below.
-
-#### 2\. How We Share Personal Information
-
-We may share your personal information in the instances described below. For further information on your choices regarding your information, see “Your Choices Regarding Your Information.”
-
-  * We may share your personal information with third-party service providers or business partners who help us deliver or improve our service, for example, providers who help us process payments, send postal mail, provide back-office services, or measure site traffic. 
-  * We may aggregate, or strip information of personally identifying characteristics, and then share that aggregated or anonymized information with third parties.
-  * We may share or disclose your personal information if we determine, in our sole discretion, that we are required to do so under applicable law or regulatory requirements, or if we reasonably believe disclosure is necessary to prevent harm or financial loss, or in connection with preventing fraud or illegal activity, and/or to enforce our [Terms of Service](https://web.archive.org/terms).
-  * We may share your personal information with corporate subsidiaries we own or control and which are governed by this Privacy Policy.
-  * We reserve the right to transfer any information we collect in the event we sell or transfer all or a portion of our business or assets (including any shares in the company) or any portion or combination of our products, services, businesses and/or assets. Should such a transaction occur (whether a divestiture, merger, acquisition, bankruptcy, dissolution, reorganization, liquidation, or similar transaction or proceeding), we will use reasonable efforts to ensure that any transferred information is treated in a manner consistent with this Privacy Policy.
+  1. THE HEAP SERVICE
+  2. COLLECTION OF PERSONAL DATA
+  3. USE AND PURPOSE OF COLLECTED PERSONAL DATA
+  4. LEGAL BASIS OF PROCESSING PERSONAL DATA
+  5. KEEPING YOUR PERSONAL DATA SECURE
+  6. PERSONAL DATA SHARED WITH THIRD PARTIES
+  7. RETENTION OF PERSONAL DATA
+  8. YOUR RIGHTS WITH RESPECT TO PERSONAL DATA
+  9. HOW TO CONTACT HEAP REGARDING PERSONAL DATA
 
 
 
-#### 3\. Customer Data
+**1\. THE HEAP SERVICE**
 
-In providing our Service, we provide tools to permit our Customers to collect information about their end users on their site or service, which may include personal information or data about our customers’ end users as well as non-personally identifiable information or data about our customers’ end users, such as actions and activities on the Customer site, click data, referral and exist data, and other behavioral tracking data (all of which we call “Customer Data”). Our Customers may link personally identifiable data to the non-personally identifiable tracking data collected by our Service. Customer Data is owned and controlled by our Customers, and any Customer Data that we maintain or process we consider to be strictly confidential. We collect and process Customer Data solely on behalf of our Customers, and in accordance with our agreements with the applicable Customers. We do not use or disclose Customer Data except as authorized and required by our Customers and provided for in our agreements with our Customers.
+Heap is a user behavioral analytics product and service. We allow businesses and websites to collect and analyze data about how their users are interacting with their services. Heap does this by collecting data on what users are doing, including but not limited to what webpages they visit, what users click on, where those users are located, what browser or platform those users are using, and many other forms of behavioral or personal data.
 
-#### 4\. Your Choices Regarding Your Information
+**2\. COLLECTION OF PERSONAL DATA**
 
-Email Communications. From time to time, we may send you emails regarding updates to our website, products or services, notices about our organization, or information about products/services we offer (or promotional offers from third parties) that we think may be of interest to you. If you wish to unsubscribe from such emails, simply click the “unsubscribe link” provided at the bottom of the email communication. Note that you cannot unsubscribe from certain Services-related email communications (e.g., account verification, confirmations of transactions, technical or legal notices).
+When you request information on the Website, subscribe to a mailing list or for a service, respond to an online survey or otherwise actively send us data, we usually collect data such as:
 
-Modifying Account Information. If you have an online account with us, you have the ability to modify certain information in your account (e.g., your contact information) through “profile,” “account,” “settings,” or “preferences” options provided on the website or service. If you have any questions about modifying or updating any information in your account, please contact us at the email or postal address provided below. Please note that Heap does not own or control the Customer Data uploaded to our Service by our Customers, and cannot modify or delete Customer Data except at the request of our Customer, or as permitted by our Terms of Service.
+  * your name, e-mail address,
+  * mailing address,
+  * telephone number, and
+  * certain information related to the business you represent such as number of employees and industry type.
 
-Online Advertising and Controlling Cookies. We may permit third party online advertising networks to collect information about your use of our website over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or apps. Typically, the information we share is provided through cookies or similar tracking technologies. You may be able to control the collection of information through cookies or other tracking technology by actively managing the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit http://www.allaboutcookies.org and/or the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org). If you access our service on your mobile device, you may not be able to control tracking technologies through settings. 
 
-#### 5\. Data Protection and Security
 
-Storage and Transfer: Your information may be stored and processed in the United States or any other country in which Heap or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which we or our parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. 
+You may opt out of providing information by not entering it when asked and, if such information is required in order to allow us to respond to your inquiry, you will receive a notice advising you of this.
 
-Keeping Information Safe: Heap cares about the security of your information and uses commercially reasonable physical, technical and organizational measures designed to preserve the integrity and security of all information we collect and that we share with our service providers. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+When you visit the Website, we also track information on your computer and your internet connection, such as but not limited to:
 
-Heap’s obligations with respect Customer Data are defined in our agreements with our customers and are not included in this Privacy Policy. Each customer will remain responsible for the privacy and security of the Customer Data that it collects and processes and for compliance with applicable data protection laws that may apply to the collection, processing and disclosure of Customer Data.
+  * the IP address of your computer and internet service provider, when you access the site, the IP address of websites from which you connect to our Website, and
+  * the computer systems you are using and your use or and preferences on our Site.
 
-#### 6\. Links to Third-Party Websites and Services
 
-For your convenience, our website and Services may provide links to third-party websites or services that are not governed by this Privacy Policy. To the extent that any linked third-party websites or services you visit are not owned or controlled by Heap, we are not responsible for those websites’ or services’ content or information practices. We encourage you to review the privacy policies of any site or service before providing any personal information.
 
-#### 7\. Children’s Privacy
+We may also automatically record certain information from your device by using various types of technology, including:
 
-Heap’s website and services are intended for use strictly by adults. We do not knowingly solicit or collect personal information from children under the age of 13. If we learn that any personal information has been collected from a child under 13, we will delete the information as soon as possible. If you believe that we might have collected information from a child under 13, please contact us at support@heapanalytics.com.
+  * clear gifs or web beacons,
+  * information from your device by using various types of technology, including clear gifs or web beacons,
+  * your IP address or other device address or ID,
+  * web browser and/or device type,
+  * the web pages or sites that you visit just before or just after you use our Website,
+  * the pages or other content you view or otherwise interact with through our Websites, and
+  * the dates and times that you visit, access, or use our Website.
 
-#### 8\. Changes to Privacy Policy
 
-We reserve the right to change this Privacy Policy from time to time in our sole discretion. We will post changes on this page and indicate the “last modified” date at the top of this page. Please check back often for any updates. Your continued use of our website or services after any change in this Privacy Policy will constitute your acceptance of such change.
 
-#### 9\. Contact Us
+We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message. This information is gathered from all users, and may be connected with other information about you.
 
-For additional inquiries about this Privacy Policy, please send us an email at support@heapanalytics.com, or contact us at:
+When you use our Website, we may send one or more cookies (small text files containing a string of alphanumeric characters) to your device. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to our Sites. Your web browser may provide you with some options regarding cookies. Please note that if you delete, or choose not to accept, cookies from our Websites, you may not be able to utilize the features to their fullest potential. We may use third party cookies in connection with our Website.
 
-460 Bryant St, 3rd Floor  
-San Francisco, CA 94105
+**3\. USE AND PURPOSE OF COLLECTED PERSONAL DATA**
 
-This Privacy Policy was last modified on August 9, 2016.
+We use the information that we collect on or through our Website to:
+
+  * operate, maintain, enhance and provide all features of our Website,
+  * provide services and information that you request,
+  * respond to comments and questions and otherwise to provide support to users,
+  * to process and deliver entries and rewards in connection with promotions that we may offer from time to time,
+  * understand and analyze the usage trends and preferences of our users, to improve our Website, and to develop new products, services, features, and functionality, and
+  * contact you for administrative purposes such as customer service or to send communications, including updates on promotions and events, relating to products and services offered by us and by third parties.
+
+
+
+** ** **4\. LEGAL BASIS OF PROCESSING PERSONAL DATA**
+
+If you are visiting our Website from the European Economic Area, we typically collect and/or process your Personal Data when we have a legitimate business interest or your specific consent.
+
+**5\. KEEPING YOUR PERSONAL DATA SECURE**
+
+To protect your Personal Data we use appropriate technical measures corresponding to the type of Personal Data and the risks associated with processing such Personal Data.  In the event of a data breach we will contact those affected and to the extent required the required regulator as required by applicable law.
+
+**6\. PERSONAL DATA SHARED WITH THIRD PARTIES**
+
+Unless you have opted out from receiving commercial communications from Heap, we also may share contact information (that we collect through various marketing efforts) with trusted business partners, such as system integrators, distributors and referral partners.  We may share personal information for legal, protection, and safety purposes; to comply with laws; to respond to lawful requests and legal processes; to protect our rights and property including but not limited to enforcing our agreements, policies, and terms of service.  We may also share information in an emergency.
+
+We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business. Also, we reserve the right to fully use and disclose any information that is not in personally identifiable form (such as statistics and survey results that do not identify you individually by name).  We may also share aggregated and/or anonymized data with others for their own uses.  We may also share any information that you voluntarily choose to include in a publicly accessible area of the Sites will be available to anyone who has access to that content, including other users.
+
+**7\. RETENTION OF PERSONAL DATA**
+
+We may retain your Personal Data in connection with our ongoing legitimate business interest.  When an ongoing legitimate business interest with respect to your Personal Data no longer exists we will delete such Personal Data.
+
+**8\. YOUR RIGHTS WITH RESPECT TO PERSONAL DATA**
+
+  * **Object to processing and opt-out.** In connection with promotions or other projects, we may ask you specifically whether you have objections against a certain kind of data use or sharing. If you opt-out under such circumstances, we will respect your decision. To opt out of receiving commercial communications from Heap please click on the “opt-out” link in the communication or, please contact us at privacy@Heapanalytics.com. Please note that our affiliates and other data recipients have their own data privacy policies, which may differ from ours and you would have to contact them separately with respect to opt-out requests.
+
+
+
+In connection with promotions or other projects, we may ask you specifically whether you have objections against a certain kind of data use or sharing.  If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you.
+
+  * **Correct or Update.** You may send requests about personal information to our Contact Information below. You can request to change contact choices, opt-out of our sharing with others, and update your personal information.
+
+
+
+If personal information you have submitted through the site is no longer accurate, current, or complete, and you wish to update it, please send an e-mail to privacy@Heapanalytics.com.   Upon appropriate request we will usually update or amend your information, but we reserve the right to use information obtained previously to verify your identity or take other actions that we believe are appropriate.
+
+You may request that we delete your personal information as well as request that we make your personal information available for porting.
+
+  * **Withdraw consent.** You may withdraw your consent at any time, but such withdrawal shall only apply with respect to any processing after such withdrawal and you may request that Heap make your Personal Data portable and make such Personal Data available to you.
+
+
+  * **Right to complain.** You may complain to a data protection authority regarding the use or collection of your personal information.  Please contact you local data protection authority for more information regarding how to file such a complaint.
+
+
+
+**9\. HOW TO CONTACT HEAP REGARDING PERSONAL DATA**
+
+We welcome your comments or questions about this privacy policy. You may also contact us as follows:
+
+Email address:  privacy@heapanalytics.com
+
+Mailing Address until June 25th, 2018:
+
+460 Bryant St. Ste 300
+
+San Francisco, CA 94107
+
+Mailing Address as of June 25th, 2018:
+
+225 Bush St. 2nd Floor
+
+San Francisco, CA 94104
+
+Data Protection Officer: Jerry van Leeuwen
+
+Email address:  dpo@heapanalytics.com
+
+Learn more [here](http://heapanalytics.com/blog/company/heaps-commitment-to-gdpr-and-data-privacy).
+
+To request modifications or withdraw consent please complete the form [here](https://goo.gl/forms/Ooz9VTVW2ifDcISG3).
+
+**Last Updated: May 1, 2018**
