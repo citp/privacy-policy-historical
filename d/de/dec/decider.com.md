@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the decider.com privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815070552id_/https%3A//decider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decider.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624235844id_/https%3A//decider.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Decider | Where To Stream Movies & Shows on Netflix, Hulu, Amazon Instant, HBO Go
+# Privacy Policy | Decider
 
 _Effective Date: March 23, 2017_
 
