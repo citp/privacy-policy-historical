@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egscomics.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002060042id_/http%3A//www.thehiveworks.com/privacy/%3Fegscomics.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egscomics.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624055054id_/http%3A//www.thehiveworks.com/privacy/%3Fegscomics.com) for the most accurate reproduction.*
 
 # Hiveworks Comics Privacy Policy
 
@@ -142,5 +142,3 @@ CalOPPA, COPPA(Children Online Privacy Protection Act)
   * Third party hosts that operate forums or games collect additional information to personalize the user experience, this information is not shared with Hiveworks LLC.
 
 
-
-**Warning** : include(): Failed opening '../includes/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in **/home/hivework/public_html/privacy/index.php** on line **760**
