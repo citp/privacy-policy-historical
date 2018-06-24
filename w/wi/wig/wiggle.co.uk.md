@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229031358id_/http%3A//www.wiggle.co.uk/h/option/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625010828id_/http%3A//www.wiggle.co.uk/h/option/PrivacyPolicy) for the most accurate reproduction.*
 
 # Wiggle Customer Services
 
-**Wiggle Ltd**  are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you for 2 reasons: firstly, to process your order and secondly to provide you with the best service possible. We will not email you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us in the future.
+**Privacy Policy**
+
+**Wiggle Ltd**  are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 and General Data Protection Regulations 2018). We collect information about you for 2 reasons: firstly, to process your order and secondly to provide you with the best service possible. We will not email you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us in the future.
 
 The type of information we will collect about you when you place an order or register on our web site includes:
+
+  * Name
 
   * Address
 
@@ -13,6 +17,8 @@ The type of information we will collect about you when you place an order or reg
   * Email Address
 
   * Credit/Debit card details
+
+  * IP Address
 
 
 
@@ -32,6 +38,12 @@ We use the information you provide for the following purposes:
   * To understand the buying behaviour of our registered users
 
   * To perform other general marketing and promotional activities focused on our products and services
+
+  * To work with social media providers - such as Facebook, Instagram and Twitter – where we interact with you on social media
+
+  * We use cookies to give you the best experience on our website and also to allow us and third parties to tailor ads you see on our website. For more information, please see our full cookie policy.
+
+  * To deliver advertising across various social media and other online platforms (e.g. Goodle, Facebook)
 
 
 
@@ -59,7 +71,7 @@ Cookies are alphanumeric identifiers that are transferred to your computer's (or
 
 **Analytic Tools**
 
-Google Analytics is a system used by many websites to record information about visits to their website. Google set six different cookies with expiry dates ranging from 30 minutes to 2 years. These cookies are used mainly to differentiate between first time visitors to a website and repeat visitors. They also allow us to ensure our website performs as well as possible for our users. The cookies are able to collect an anonymous customer number when a user is logged into the website, allowing our backend systems to ensure accuracy of Google Analytics data and help us ensure your website experience remains relevant across devices. They do not contain any personally identifiable information. You can find out more about how Google use cookies at http://www.google.co.uk/policies/privacy/ (English only)
+Google Analytics is a system used by many websites to record information about visits to their website. Google set six different cookies with expiry dates ranging from 30 minutes to 2 years. These cookies are used mainly to differentiate between first time visitors to a website and repeat visitors. They also allow us to ensure our website performs as well as possible for our users. The cookies are able to collect an anonymous customer number when a user is logged into the website, allowing our backend systems to ensure accuracy of Google Analytics data and help us ensure your website experience remains relevant across devices. They do not contain any personally identifiable information. You can find out more about how Google use cookies at http://www.google.co.uk/policies/privacy/ (English only). These cookies may be used to help us target advertising on platform providers such as Google and Facebook.
 
 Please read our full [Cookie Policy](http://www.wiggle.co.uk/h/option/Cookies) for further information.
 
@@ -67,11 +79,11 @@ Wiggle may from time to time share your details with third party analytical reso
 
 **Social Media Plug-ins**
 
-Social Media Plug-ins for Facebook and Twitter obtain data for tracking purposes.
+Social Media Plug-ins for Facebook and Twitter obtain data for tracking purposes. This included the ability to track an audience across device for advertising purposes in line with the Terms of each social media platform.
 
 **International Privacy**  
 The above privacy statement may not be applicable in all countries of Wiggle visitors or registered community users, as security policies may vary according to the individual Internet laws in each host country.
 
 **Disclosures**
 
-We will not pass your information to any third parties. You can also email us to stop receiving any information about us and our services by clicking [here](mailto:noreply@wiggle.co.uk). If you have any queries about our Privacy Statement you should contact us by e-mail [data@wiggle.co.uk](mailto:data@wiggle.co.uk).
+We will not pass your information to any third parties. You can also email us to stop receiving any information about us and our services by clicking [here](http://www.wiggle.co.uk/ContactUsForm). If you have any queries about our Privacy Statement you should contact us by e-mail [data@wiggle.co.uk](mailto:data@wiggle.co.uk).
