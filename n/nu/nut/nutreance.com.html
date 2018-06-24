@@ -1,0 +1,256 @@
+<!--The following is the downloaded HTML source of the nutreance.com privacy policy that was archived on 2018-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625010027id_/https%3A//www.nutreance.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+        
+        <title>
+            Privacy | Nutreance
+        </title>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TQZ8S8"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        
+        <meta name="csrf-token" content="6eCGKUPRB3ZmoeBhXdalBZ5c0cQpRRnibH1KQ2V9">        <link rel="icon" href="https://d2g3prbapx9dtj.cloudfront.net/build/images/favicons/favicon-0b4b0d7a71.ico">
+<link rel="icon" type="image/png" href="https://d2g3prbapx9dtj.cloudfront.net/build/images/favicons/favicon-16x16-677da46f34.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://d2g3prbapx9dtj.cloudfront.net/build/images/favicons/favicon-32x32-0df02354d2.png" sizes="32x32">
+<link rel="apple-touch-icon" sizes="180x180" href="https://d2g3prbapx9dtj.cloudfront.net/build/images/favicons/apple-touch-icon-ad646d1514.png">
+<link rel="manifest" href="https://www.nutreance.com/manifest.json">
+<link rel="mask-icon" href="https://d2g3prbapx9dtj.cloudfront.net/build/images/favicons/safari-pinned-tab-0a7e95f1fc.svg" color="#079247">
+<meta name="theme-color" content="#f5e9d4">        <script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-3.min.js" data-apikey="960c8cfc8f3be15defb086c1fc3ff391"></script>
+        <!-- Styles -->
+        <link rel="stylesheet" type="text/css" href="https://d2g3prbapx9dtj.cloudfront.net/build/css/app-24c1ace9a0.css">    </head>
+
+    <body>
+        <script>
+    dataLayer = [[]];
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TQZ8S8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TQZ8S8');</script>
+
+                    <nav class="navbar navbar-default navbar-static-top">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#spark-navbar-collapse">
+    <span class="sr-only">Toggle Navigation</span>
+    <i class="fa fa-bars fa-lg fa-btn"></i>Menu
+</button>            <a class="navbar-brand" href="https://www.nutreance.com">
+    <img class="navbar-logo" src="https://d2g3prbapx9dtj.cloudfront.net/build/images/nutreance-logo@1x-8a6c5bb0fd.png" srcset="https://d2g3prbapx9dtj.cloudfront.net/build/images/nutreance-logo@1x-8a6c5bb0fd.png 1x, https://d2g3prbapx9dtj.cloudfront.net/build/images/nutreance-logo@2x-2e83750a8d.png 2x, https://d2g3prbapx9dtj.cloudfront.net/build/images/nutreance-logo@3x-46314f1b49.png 3x" alt="Nutreance">
+</a>        </div>
+
+        <div class="collapse navbar-collapse" id="spark-navbar-collapse">
+            <ul class="nav navbar-nav">
+    <li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products <span class="caret"></span></a>
+
+    <ul class="dropdown-menu">
+        <li>
+            <a href="https://www.nutreance.com/products/redicalm">
+                <img class="navbar-product-icon" src="https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redicalm/748252215192/bottle-icon@1x-26fa02deab.png" srcset="https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redicalm/748252215192/bottle-icon@1x-26fa02deab.png 1x, https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redicalm/748252215192/bottle-icon@2x-9a4874edac.png 2x, https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redicalm/748252215192/bottle-icon@3x-45c9684cc1.png 3x" alt="RediCalm">
+                RediCalm
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.nutreance.com/products/redimind">
+                <img class="navbar-product-icon" src="https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redimind/019962420207/bottle-icon@1x-b0b2c8010d.png" srcset="https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redimind/019962420207/bottle-icon@1x-b0b2c8010d.png 1x, https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redimind/019962420207/bottle-icon@2x-03329aca52.png 2x, https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redimind/019962420207/bottle-icon@3x-e2c61d1037.png 3x" alt="RediMind">
+                RediMind
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.nutreance.com/products/redimove">
+                <img class="navbar-product-icon" src="https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redimove/019962420306/bottle-icon@1x-ec15935d3a.png" srcset="https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redimove/019962420306/bottle-icon@1x-ec15935d3a.png 1x, https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redimove/019962420306/bottle-icon@2x-bec0ae5508.png 2x, https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redimove/019962420306/bottle-icon@3x-0e39a30cf9.png 3x" alt="RediMove">
+                RediMove
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.nutreance.com/products/redinite">
+                <img class="navbar-product-icon" src="https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redinite/019962420108/bottle-icon@1x-fa22a966a8.png" srcset="https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redinite/019962420108/bottle-icon@1x-fa22a966a8.png 1x, https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redinite/019962420108/bottle-icon@2x-550a3774ca.png 2x, https://d2g3prbapx9dtj.cloudfront.net/build/images/products/redinite/019962420108/bottle-icon@3x-039f50c3e7.png 3x" alt="RediNite">
+                RediNite
+            </a>
+        </li>
+    </ul>
+</li></ul>            <ul class="nav navbar-nav navbar-right">
+    <li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Help <span class="caret"></span>
+    </a>    <ul class="dropdown-menu contains-headers">
+    <li class="dropdown-header">
+    Phone
+</li>
+
+<li>
+    <a class="company-phone-link" href="tel:18007497776">
+        <i class="fa fa-phone fa-btn fa-fw" aria-hidden="true"></i>
+        <span class="company-phone-text">1 (800) 749-7776</span>
+    </a>
+</li>
+    <li role="separator" class="divider"></li>
+
+    <li class="dropdown-header">
+    Email
+</li>
+
+<li>
+    <a href="mailto:support@nutreance.com">
+        <i class="fa fa-envelope-o fa-btn fa-fw" aria-hidden="true"></i>support@nutreance.com
+    </a>
+</li>
+    
+    <li role="separator" class="divider"></li>
+
+    <li>
+    <a href="https://www.nutreance.com/return-policy">
+        <i class="fa fa-undo fa-btn fa-fw" aria-hidden="true"></i>Return Policy
+    </a>
+</li>    <li>
+    <a href="https://www.nutreance.com/quality-control">
+        <i class="fa fa-flask fa-btn fa-fw" aria-hidden="true"></i>Quality Control
+    </a>
+</li>    <li>
+    <a href="https://www.nutreance.com/contact-us">
+        <i class="fa fa-commenting-o fa-btn fa-fw" aria-hidden="true"></i>Contact Us
+    </a>
+</li>    <li>
+    <a href="https://www.nutreance.com/about">
+        <i class="fa fa-users fa-btn fa-fw" aria-hidden="true"></i>About Nutreance
+    </a>
+</li></ul></li>    <li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+        Your Account <span class="caret"></span>
+    </a>
+
+    <ul class="dropdown-menu contains-headers" role="menu">
+                    <li class="dropdown-header">
+    Have an account?
+</li>
+
+<li>
+    <a href="https://www.nutreance.com/login">
+        <i class="fa fa-sign-in fa-btn fa-fw" aria-hidden="true"></i>Sign In
+    </a>
+</li>
+<li role="separator" class="divider"></li>
+
+<li class="dropdown-header">
+    New to Nutreance?
+</li>
+
+<li>
+    <a href="https://www.nutreance.com/register">
+        <i class="fa fa-user-plus fa-btn fa-fw" aria-hidden="true"></i>Create an Account
+    </a>
+</li>            </ul>
+</li>    
+    
+    <li>
+    <a href="https://www.nutreance.com/cart">
+        <i class="fa fa-shopping-cart fa-btn fa-lg" aria-hidden="true"></i>Cart<span id="cart-quantity" class="badge">0</span>
+    </a>
+</li></ul>        </div>
+    </div>
+</nav>        
+            <div class="container">
+        <div class="row heading text-center">
+    <div class="col-xs-12">
+        <h1>
+    <i class="fa fa-user-secret" aria-hidden="true"></i>Privacy Policy
+</h1>    </div>
+</div>
+        <div class="row">
+            <div class="col-xs-12 legal-policy">
+                <p>Nutreance takes your privacy very seriously. The safety and security of any personal information you provide is important to us, including your name, address, email, and phone number ("Personal Information"). We greatly value your trust. This Privacy Policy details the Personal Information that we may collect from you, how we use it, how we protect it, and how you can control our use of it. By accessing and using this Web Site, you agree to be bound by this Privacy Policy, without limitation or qualification.</p>
+<p>When you provide Personal Information to Nutreance at our Web Site or over the phone, you consent to the manner in which we will collect, use, and manage your Personal Information, as described below.</p>
+
+<h2>Who May Use this Web Site</h2>
+<p>This Web Site is not designed or intended to attract users under the age of 18. We do not collect Personal Information from any person we know to be under the age of 18. If you are under the age of 18, we ask that you please not divulge any Personal Information to us.</p>
+
+<h2>Collection and Use of Personal Information</h2>
+<p>We may collect Personal Information that you provide us when you:</p>
+<ul>
+    <li>Visit or register on our Web Site</li>
+    <li>Contact our Customer Support over email or over the phone</li>
+    <li>Purchase, order, return, exchange or request certain information about our products and services</li>
+    <li>Provide us with comments, suggestions, or feedback</li>
+    <li>Respond to one of our surveys</li>
+    <li>Enter into a contest or sweepstakes</li>
+    <li>Shopping with Nutreance</li>
+</ul>
+<p>When you purchase a product from Nutreance and use a credit or debit card for payment, we will collect your credit or debit card information and keep a history of your purchases. We use this information to process your orders and to better assist you when you visit our Web Site or contact us via phone or email. If you return previously purchased merchandise or request a refund or exchange, we may ask you to confirm your name, address, and phone number. We collect this information to verify your identity as the original purchaser.</p>
+
+<h2>Customer Service</h2>
+<p>When you contact our Customer Service over the phone or email with questions about a product, delivery, or billing, you may be asked for Personal Information to identify you along with additional information needed to quickly and effectively answer your questions. This may include your name, address, and phone number so that we may contact you with the answer to your question. We may retain this information to better assist you in the future.</p>
+
+<h2>Contests and Surveys</h2>
+<p>When you participate in a survey or enter into a contest or sweepstakes on our Web Site, we may collect your name, address, phone number, and email address. We use this information to administer your participation in the contest or sweepstakes. We may also request your permission to use this information to send you information about Nutreance products in the future.</p>
+
+<h2>Other Uses of Personal Information</h2>
+<p>Nutreance uses Personal Information to improve our products and services. To serve you better as the customer, we may combine the Personal Information that you offer with publicly available information and information that we receive from other marketing partners and others. This information is collectively used to enhance and personalize your shopping experience with Nutreance, to notify you of products and services that may interest you, and for other promotional purposes.</p>
+
+<h2>Promotional Information and Marketing Materials</h2>
+<p>We would like to notify you about products and services, sales, and special offers from which you might benefit. When you shop on our Web Site, participate in a survey, or contact our Customer Support, you will have the opportunity to sign up to receive emails about our products and services, sales, and special offers. If you have provided your phone number or personal address, we may also send you mail or call you about these products and services, sales, and special offers. If you would like to stop receiving promotional offers from us, please refer to the "Privacy Preferences/Opt-Out" section of this Privacy Policy.</p>
+
+<h2>Disclosure of Personal Information</h2>
+<p>We will never disclose your credit card information, telephone number, address, or email address with any third party without your express consent. We may enter into marketing relationships with marketing companies and other companies that provide products and services that we believe may interest customers of Nutreance. We may share your Personal Information with these marketing partners in order to assist them in sending you information that we believe may interest you. We may share non-identifiable demographic information with these companies. We may also provide Personal Information to any affiliate businesses of ours.</p>
+
+<h2>Access to Personal Information by Companies that Work with or on Behalf of Nutreance</h2>
+<p>Some of our operations, such as our electronic commerce system and email marketing system, may be managed by Service Providers who are unaffiliated companies. These companies may share Personal Information with their affiliates and with service providers whom they engage to perform services related to our Web Site or the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web Site evaluation, data analysis and, where applicable, data cleansing. These companies may have access to your Personal Information on a confidential basis only to the extent necessary to perform their functions. In no event will we authorize these companies to use your Personal Information for any reason other than to provide you with those specific services. If your purchases are being shipped to you, your shipping information will be shared with our delivery service providers (U.S. Postal Service, UPS, or other delivery companies we or you select). Our delivery service providers are asked not to use your Personal Information for any purpose other than delivering the product.</p>
+
+<h2>Sale of Business</h2>
+<p>In the event that Nutreance or some of our assets are sold or transferred or used as security, your Personal Information may be transferred to third parties as part of that transaction.</p>
+
+<h2>Disclosures of Personal Information in Legal Proceedings</h2>
+<p>If Nutreance or any of our Service Providers is requested by law enforcement officials or judicial authorities to provide the Personal Information of any individual users, Nutreance or the applicable Service Provider may, without your consent, provide such information. In matters involving claims of personal or public safety, Nutreance or the applicable Service Provider may provide your Personal Information to appropriate authorities without your consent or court process. Nutreance or our Service Providers also will provide your Personal Information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or in litigation involving Nutreance, the applicable Service Provider, or otherwise as required by law. We may also disclose Personal Information to assist in debt collection where you owe a debt to us.</p>
+
+<h2>Privacy Preferences / Opt-Out</h2>
+<p>You may change your marketing preferences or remove yourself from our mailing list by clicking on the "unsubscribe" link located in every promotional email we send you. In addition, you may contact our Customer Support department over the phone or email at support@nutreance.com.</p>
+
+<h2>Visiting Our Site</h2>
+<p>In general, you may visit our Web Site without providing us with any Personal Information. The kinds of information we collect from you will vary, depending on how you use our Web Site.</p>
+<p>In addition to the information you choose to submit, our systems are set up to gather certain anonymous data to help us better understand how our Web Site is being used and how we can improve it. We collect the IP (Internet protocol) addresses of all visitors to our Web Site and other related information such as page requests, browser type, operating system and average time spent on our Web Site.</p>
+
+<h2>Cookies</h2>
+<p>From time to time, Nutreance or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. A cookie cannot read data off your hard disk or read cookie files created by other Web Site. Cookies do not damage your system. We use cookies to identify which areas of our Web Site you have visited or customized so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you have seen an advertisement. Nutreance and its advertisers may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Web Site and other Web sites may be diminished and some features may not work as intended.</p>
+
+<h2>Single-Pixel GIFs</h2>
+<p>Nutreance and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. Nutreance does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser.</p>
+
+<h2>Security of Personal Information</h2>
+<p>We maintain administrative, technical and physical safeguards to protect against unauthorized access, use, modification and disclosure of your Personal Information in our custody and control. We also are committed to employing reasonable technology in order to protect the security of our Web Site. However, even with the best technology, no Web Site is 100% secure. We will take reasonable measures which we believe are appropriate to protect your Personal Information from loss, misuse, alteration or destruction, and where possible, will ask that any third parties to whom we may transfer such information to take comparable steps to protect that security.</p>
+
+<h2>Secure Shopping</h2>
+<p>When you place orders on our Web Site, all of your order information, including your card number and delivery address, is transmitted through the Internet using Secure Sockets Layer (SSL) technology. SSL technology causes your browser to encrypt your order information before transmitting it to our secure server. SSL technology, an industry standard, is designed to prevent someone other than operators of our Web Site from capturing and viewing your Personal Information. Since any order information you provide to us on our Web Site will be transmitted using a secure connection, if your Web browser cannot support this level of security, you will not be able to order products through our Web Site. The most recent versions of Mozilla Firefox and Microsoft Internet Explorer can support a secure connection and can be downloaded for free from the Mozilla and Microsoft Web Sites respectively.</p>
+
+<h2>Our Privacy Policy and Outside Links</h2>
+<p>This Privacy Policy only applies to the Web Sites of Nutreance. Our Web Sites may include links to the Web Sites of our business partners, vendors and advertisers. These other sites are outside of our control. Please be aware that these Web Sites may collect information about you, and operate according to their own privacy practices which may differ from those contained in our Privacy Policy. Remember to consult that Web Site's own privacy policy, as once you are outside any of the Web Sites, any information you submit is no longer in our control.</p>
+
+<h2>Privacy Policy Modifications</h2>
+<p>From time to time we may modify or amend this Privacy Policy in order to comply with new laws or regulations or to reflect future changes in our business practices. Any changes in our policies will be communicated on this page. We also may post a notice on our Web Site or send an email describing the changes.</p>
+
+<h2>Contact Us</h2>
+<p>If you have any questions about our handling of Personal Information, please contact us at support@nutreance.com or over the phone 1 (800) 749-7776.  Or you may contact us by mail at: Nutreance, 401 Riversville Rd, Greenwich, 06831-3230, United States.</p>            </div>
+        </div>
+    </div>
+
+            <div class="footer text-center">
+    <div class="container-fluid">
+        <p class="text-muted">
+            ©2018 Nutreance LLC |
+            <a href="https://www.nutreance.com/terms">Terms &amp; Conditions</a> |
+            <a href="https://www.nutreance.com/privacy">Privacy Policy</a> |
+            <a href="https://www.nutreance.com/contact-us">Contact Us</a>
+        </p>
+    </div>
+</div>
+        <!-- JavaScripts -->
+            <script src="https://d2g3prbapx9dtj.cloudfront.net/build/js/all-30de0cc2cb.js"></script>    <script>setInterval(function(){var e=window.XMLHttpRequest?new XMLHttpRequest:new ActiveXObject('Microsoft.XMLHTTP');e.open('GET','https://www.nutreance.com/genealabs/laravel-caffeine/drip',!0);e.setRequestHeader('X-Requested-With','XMLHttpRequest');e.send();}, 300000);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e8ef91db4a","applicationID":"76771643","transactionName":"MlwAMhBUCxYHU0FbWAsWIwUWXAoLSUBHW0EEWhs=","queueTime":0,"applicationTime":210,"atts":"HhsDRFhOGBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
