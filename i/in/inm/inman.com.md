@@ -1,96 +1,135 @@
-> *The following text is extracted and transformed from the inman.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210074844id_/http%3A//www.inman.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inman.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624144421id_/https%3A//www.inman.com/privacy) for the most accurate reproduction.*
 
-# Real Estate News and Tips for Buyers, Sellers & Investors - Inman News
+# Privacy
 
-Inman News Privacy Policy 
+**Privacy Policy**
 
-Inman News takes the privacy of its users very seriously.  We are committed to safeguarding the privacy of our users while providing a personalized, valuable and informative service.  The Privacy Policy statement explains the data processing practices of the Inman News. Should you have any requests concerning your personal information or any queries with regard to these practices, please contact us by email at [privacy@inman.com](mailto:privacy@inman.com)
+**Inman Group, LLC**
 
-Our website contains links to third party sites which are not subject to this privacy policy.  We recommend that you read the privacy policy of any such sites that you visit.
+**Inman Privacy Policy**
 
-**Information Collected**  
-Personal information is collected by Inman News. 
+Jun 24, 2018
 
-We collect personally identifiable information about you (your “Data”) through:
+Inman Group, LLC (“Inman”) understands that you care about how we collect, use, and share information when you interact with our websites, email, and online services (our “Services”), and we value the trust you place in us. This Privacy Policy (the “Privacy Policy” or the “Policy”) explains:
 
-  1. The use of inquiry and registration forms
-  2. When you purchase any of our products or services
-  3. The provision of your details to us either online or offline
-
-
-
-The elements of your Date that we collect may include:
-
-  1. Name
-  2. Job title
-  3. Company Name
-  4. Company Address, phone and fax number
-  5. Home address and phone number
-  6. Mobile phone number
-  7. Email address
-  8. Payment details such as credit card information
-  9. Market research date such as readership patterns
+  * The types of information we collect through our Services;
+  * How we use and protect that information;
+  * The types of information we may share with others and under what circumstances; and 
+  * The choices you have regarding our collection, use, and sharing practices.
 
 
 
-If you are an Inman News subscriber, we may also collect information automatically about your visit to our sites.  Please see the **“Use of Cookies”** section for more details.
+  
+For the purposes of this Policy, “client” means Inman’s corporate client, and “subscriber” means the individual who has subscribed to receive ebulletins email publications.
 
-**Use and Disclosure of Personal Information**  
-We use your Data for purposes which may include:
+**When This Privacy Policy Applies**
 
-  1. Providing our users with a personalized service
-  2. Processing orders, registrations, and inquiries
-  3. Conducting market research surveys
-  4. Running competitions
-  5. Providing you with information about products and services we offer (providing you agree to receive such information)
-  6. Sharing your Data with third-party organizations who offer products of services which we believe may be of interest to you (providing you agree to receive such information)
-  7. See **“Use of Cookies”** section for more details.
+This Policy applies to the Inman and the websites, emails we send, and any Services that link to it, events we host, as well as the information we collect when you interact with us through social media or other websites and online services. It does not apply to non-Inman websites and mobile applications that may link to the Services or be linked to or from the Services; please review the privacy policies on those websites and applications directly to understand their privacy practices. 
 
+We may make changes to this Policy from time to time. We will post any changes, and such changes will become effective when they are posted. Your continued use of our Services following the posting of any changes will mean you accept those changes.
 
+**Information We Collect From or About You**
 
-If you wish to receive information about Inman Group products or services or form other carefully selected organizations about products or services they offer please indicate your preferences using the consent form when providing us with your Data.
+Below we describe the different types of information we collect from you and the devices you use when you interact with our Services.
 
-We may also disclose your information to business partners and to third party suppliers we engage to provide services which involve processing data on our behalf, successors in title to our business or in accordance with a properly executed court order or otherwise required to do so by law.
+Information You Give Us: Some of the Services may include features or services that permit you to enter contact information and other information about you. We collect and store any information you enter on our Services. This may include your name, mailing address, ZIP code, phone number, or email address.  If your access to the Services has been provided by or through a third party (for example, your employer) (each, a “Third Party”), the Third Party may have provided us with information about you to enable us to provide you with access to the Service and distinguish you from other subscribers (such as your email address or name).
 
-We also use information in aggregate form (so that no individual user is identified):
+Information Collected Automatically: When you interact with the Services, certain information about your use of our Services is automatically collected. This information includes computer and connection information, such as statistics on your page views, traffic to and from our Services, referral URL, ad data, your IP address, and device identifiers. This information also may include how you search for our Services, the websites you click on from our Services or emails, whether and when you open our emails, and your browsing activities across other websites.  
 
-  1. To build up marketing profiles
-  2. To aid strategic development of new and existing sales channels and products
-  3. To manage our relationship with advertisers
-  4. To audit usage of the site
+Much of this information is collected through cookies, web beacons, and other tracking technologies, as well as through your web browser or device (e.g., IP address, MAC address, browser version, etc.).  The tracking technologies employed when you use our Services may be first-party or third-party. We use cookies for the following purposes:
+
+  * Essential operation: These cookies are necessary to allow us to operate the Inman website as you have requested. For example, they let us recognize what type of subscriber you are and then provide you with services accordingly. 
+  * Performance/Analytics: We use these cookies to analyze how the Inman website is accessed, used or is performing. We use this information to maintain, operate and continually improve the Inman website. We may also obtain information from our e-mail newsletters, to learn whether you opened or forwarded the newsletter or clicked on any of the content. This information tells us about our newsletters’ effectiveness and helps us ensure that we’re delivering information that you find interesting.
+  * Functional: These cookies let us operate certain functions of the Inman website in line with the choices you make
+  * Advertising: Third parties, including Google, Facebook, and other social media platforms, may use tracking technologies on our website to collect or receive information from the Inman websites and elsewhere on the internet and use that information to provide measurement services and target ads. 
 
 
 
-**Use of Cookies and Other Tracking Devices**  
-We use cookies to help personalize your use of our site(s). A cookie is a small piece of information that a website sends to your computer’s hard drive so that we can remember who you are.  This information may include information relating to your use of our site(s), information about your computer such as the computer’s IP address and browser type, demographic data and, if you arrived at our site via a link from a third party site, the URL of the linking page.  If you are a registered user this may include your registration details for verification purposes.
+  
+Most web browsers automatically accept cookies but, if you prefer, you can usually modify your browser setting to disable or reject cookies. If you delete your cookies or if you set your browser to decline cookies, some features of the Services may not be available, work, or work as designed.
 
-We use information from cookies for purposes which may include:
+We use Google Analytics, a web analytics service provided by Google, Inc., on our Services. Google Analytics uses cookies or other tracking technologies to help us analyze how users interact with and use the Services, compile reports on the Services’ activity, and provide other services related to our Services’ activity and usage. The technologies used by Google may collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website. The Services do not use Google Analytics to gather information that personally identifies you. The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to Google’s[ privacy policies](https://www.google.com/policies/privacy/partners/). To learn more about Google’s partner services and to learn how to opt out of tracking of analytics by Google, click [here](https://www.google.com/policies/privacy/partners/).
 
-  1. Identifying returning users, registrants and subscribers and to allow subscribers to be presented with a personalized version of the site enabling you to navigate our site(s) more easily
-  2. Tracking your use of our site(s) to better develop our sites in accordance with your requirements
-  3. Building a demographic profile
+We also use Kissmetrics, a customer engagement tool, on our Services. Kissmetrics uses cookies and other tracking technologies for functions including identification of unique visitors on a client’s website, and analysis of usage and traffic patterns. The information generated by Kissmetrics will be transmitted to and stored by Kissmetrics and will be subject to Kissmetrics’s[ privacy policies](https://signin.kissmetrics.com/privacy/). To opt-out of tracking by Kissmetrics, click[ here](https://signin.kissmetrics.com/privacy/#controls).
+
+Information from Social Media: When you interact with us or the Services through a social media platform (such as by clicking on a social media icon linked from our Services), we may collect the personal information that you make available to us on that page, including your account ID or username and other information included in your posts. If you choose to log in to your account with or through a social networking service, we and that service may share certain information about you and your activities.
+
+**How We Use Information We Collect From or About You**
+
+We may use information you give us or information we collect about you to:
+
+  * Communicate with you, including to respond to your inquiries and fulfill your requests;
+  * Provide, maintain, personalize, optimize, and improve the Services, including  research and analytics regarding use of the Services, or to remember you when you leave and return to the Services;
+  * Provide and improve our products and services;
+  * Provide you with more relevant content in email bulletins to which you may be subscribed;
+  * Detect, investigate, and prevent activities that may violate our policies or be fraudulent or illegal.
 
 
 
-You can delete cookies from your hard drive at any time; however this will mean that any settings such as your stored username and password will have to be reset.  You can set your internet browser so that it will not allow cookies to be stored on your computer.  This may reduce functionality of the site, prevent access to subscriber-only areas of the site and mean that certain features or content will not be available to you.  Further information on how to prevent cookies from being stored on your computer may be found on [www.allaboutcookies.org](http://www.allaboutcookies.org/) under the ‘Manage Cookies’ section.  Alternatively, you may also visit the help menu within your internet browser.
+  
+We may combine information from the Services together and with other information we obtain from our business records or from third party sources.
 
-From time-to-time, we may permit 3rd party companies to set cookies on the Inman News site(s) for purposes which may include market research, serving advertisements, revenue tracking or to improve functionality of the site.
+We also may use or combine information that we collect from the Services with information provided by third parties, including demographic information and other attributes, and organizational affiliations. 
 
-We may use pixels, or transparent GIF files, to help manage online advertising.  These GIF files are provided by our ad management partner **Accipiter**. The files enable our ad management partner to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website.  With both cookies and Spotlight technology, the information that our ad management partner collects is anonymous and not personally identifiable.  It does not contain your name, address, telephone number or email address.  For more information about **Accipiter** , including information about how to opt out of these technologies, go to **[www.accipiter.com/company/privacy.php](http://www.accipiter.com/company/privacy.php).**
+**How We Share Information About You**
 
-**Security Policy**  
-Inman News companies have appropriate measures in place to ensure that our users’ Data is protected against unauthorized access or use, alteration, unlawful or accidental destruction and accidental loss.  User Data may be transferred outside of Inman News to data processors such as fulfillment houses, but they will act only on our instructions to provide the services required.
+We may share the information collected via our Services with companies who work on our behalf to help us provide and support the Services and our products and services.
 
-**Transfer of Data**  
-The Internet is a global environment.  Using the Internet to collect and process personal data necessarily involves the transmission of data on a national and sometimes international basis. Therefore, by browsing our sites and communicating electronically with us, you acknowledge and agree to our processing of personal data in this way.  By agreeing to our transfer of your Data to third party organizations and in order for them to send you details of products and service offered (as detailed above), you are deemed to provide your consent to any transfer of your Data on a national or global basis.
+We may change our ownership or corporate organization while providing the Services. We may transfer to another entity or its affiliates or service providers some or all information about you in connection with, or during negotiations of, any merger, acquisition, sale of assets or any line of business, change in ownership control, or financing transaction. We cannot promise that an acquiring party or the merged entity will have the same privacy practices or treat your information the same as described in this Policy.
 
-**User Access and Control of Data**  
-If you wish to amend any of the Data which we collect about you, or to update your marketing preferences, please contact us at [marketingprefs@inman.com](mailto:marketingprefs@inman.com), tel. 1-800-775-4662 or (510) 658.9252, or see the **‘Contact Us’** section of our website.  Calls made to these numbers may be recorded for training and quality control purposes.
+We may use or disclose information about you if required to do so by law or on the good-faith believe that such sharing is necessary to (a) conform to applicable law or comply with legal process served on us or our Services; (b) protect and defend our rights or property, the Services, or our users; or (c) act to protect the personal safety of our employees and agents, other users of the Services, or members of the public.
 
-In accordance with the Data Protection Act 1998, you may request a copy of the personal information we hold about you by contacting [privacy@inman.com](mailto:privacy@inman.com). We may charge the statutory allowable fee for provision of this information.
+When you register for an event, contest, or other promotion that is sponsored by a third party, the third party may be provided personal information unless otherwise posted in connection with the promotion. 
 
-**Children Under 18**  
-We do not intentionally collect any information on children under 18 years of age.  We will undertake to delete any details of such users where a parent or guardian has notified us that any such details have been obtained.
+**Your Options**
 
-**Changes to this Policy**  
-From time-to-time we may make changes to this privacy policy statement to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements.
+Interest-based advertising is the collection of data across different websites and/or difference devices for the purpose of tailoring advertising based on preferences or interests know or inferred from the data collected. 
+
+Inman partners with third parties to use the information you make available to us when you interact with our Services to provide you with advertising that is more relevant to you after you leave our Services.  While Inman will not share information that personally identifies you with unaffiliated third parties for their own uses, such third parties may, with sufficient data from other sources, be able to personally identify you.
+
+You can learn more about ad serving companies and the options available to limit their collection and use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/), the [Digital Advertising Alliance](http://www.aboutads.info/choices), and the[ European Interactive Digital Advertising Initiative](http://www.youronlinechoices.eu/).
+
+Please note that opting-out of advertising networks services does not mean that you will not receive advertising while using our Services or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms.  If you delete your cookies, you may also delete your opt-out preferences.
+
+Your browser or device may include “Do Not Track” functionality. At this time, Inman Media does not respond to browser “Do Not Track” signals.
+
+**Updating Your Information**
+
+You can update the information you provide to us by logging into your account. For other questions about your information, please contact us using the information at the end of this Policy.
+
+**How We Secure the Information We Collect From or About You**
+
+We use a combination of physical, technical, and administrative safeguards to protect the information we collect through the Services.  While we use these precautions to safeguard your personal information, we cannot guarantee the security of the networks, systems, servers, devices, and databases we operate or that are operated on our behalf.
+
+**Information for Users in Europe and Elsewhere Outside the U.S.**
+
+If you use our Services outside of the United States, you understand that we may collect, process, and store your personal information in the United States and other countries.  The laws in the U.S. regarding personal information may be different from the laws of your state or country. Any such transfers will comply with safeguards as required by relevant law.  If applicable, you may have a right to claim compensation for damages caused by a breach of relevant data protection laws.
+
+**Users in the European Union (EEA) and Switzerland**
+
+If you are a resident of the EEA or Switzerland, the following information applies. 
+
+Purposes of processing and legal basis for processing: As explained above, we process personal data in various ways depending upon your use of our Services.  We process personal data on the following legal bases: (1) with your consent; (2) as necessary to perform our agreement to provide Services; and (3) as necessary for our legitimate interests in providing the Services where those interests do not override your fundamental rights and freedom related to data privacy. 
+
+Right to lodge a complaint: Users that reside in the EEA or Switzerland have the right to lodge a complaint about our data collection and processing actions with the supervisory authority concerned. Contact details for data protection authorities are available[ here.](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm)
+
+Transfers: Personal information we collect may be transferred to, and stored and processed in, the United States or any other country in which we or our affiliates or subcontractors maintain facilities. Upon the start of enforcement of the General Data Protection Regulation (GDPR), we will ensure that transfers of personal information to a third country or an international organization are subject to appropriate safeguards as described in Article 46 of the GDPR.
+
+Individual Rights: If you are a resident of the EEA or Switzerland, you are entitled to the following rights once the GDPR becomes effective. **Please note** : In order to verify your identity, we may require you to provide us with personal information prior to accessing any records containing information about you.
+
+  * The right to request data erasure. You have the right to have your data erased from our Services if the data is no longer necessary for the purpose for which it was collected, you withdraw consent and no other legal basis for processing exists, or you believe your fundamental rights to data privacy and protection outweigh our legitimate interest in continuing the processing. 
+  * The right to restrict or object to our processing. You have the right to restrict or object to our processing if we are processing your data based on legitimate interests or the performance of a task in the public interest as an exercise of official authority (including profiling); using your data for direct marketing (including profiling); or processing your data for purposes of scientific or historical research and statistics.
+
+
+
+**To Unsubscribe from enewsletters**
+
+If at any time you would like to unsubscribe from receiving future emails, you can click on the unsubscribe link at the bottom of our emails.
+
+**For Questions, or to Report a Problem**
+
+For questions about our privacy practices, contact us at:  
+Inman Group LLC  
+Mailing Address: 75 N. Woodward Ave, #80368, Tallahassee, FL 32313  
+Tel: 1-800-775-4662  
+Email: [privacy@inman.com](mailto:privacy@inman.com)
