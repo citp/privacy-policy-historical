@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytutor.lk privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207102727id_/http%3A//mytutor.lk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytutor.lk privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624204731id_/http%3A//www.mytutor.lk/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
