@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the romsmania.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180917id_/https%3A//romsmania.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romsmania.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625004733id_/https%3A//romsmania.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RomsMania.com
 
 ## Collection and use of information
 
 In order to provide our full range of services, we may collect the following types of information:
+
+We may use [third-party advertising companies](http://dikm9qlw6vn2x.cloudfront.net/pp.html) to serve ads when you visit our website.
 
 Use of cookies - When you visit www.ROMSMANIA.com, we send one or more cookies - a small text file that is placed on your hard disk by a Web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. We use cookies to improve the quality of our service by storing user account details, preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, www.ROMSMANIA.com features and services may not function properly if your cookies are disabled.
 
