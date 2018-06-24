@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830170020id_/https%3A//www.truthdig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624064429id_/https%3A//www.truthdig.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & User Agreement - Truthdig: Expert Reporting, Current News, Provocative Columnists - Truthdig: Expert Reporting, Current News, Provocative Columnists
+# Privacy Policy & User Agreement - Truthdig: Expert Reporting, Current News, Provocative Columnists
 
 Welcome to Truthdig.com (the “Web Site,” “Service” or “we”). At Truthdig, we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on the website and acknowledge the importance of protecting this information. In adopting this Privacy Policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
 
