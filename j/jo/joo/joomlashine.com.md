@@ -1,63 +1,155 @@
-> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828231913id_/https%3A//www.joomlashine.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624133711id_/https%3A//www.joomlashine.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | JoomlaShine
 
-In today's world of shared information, we (JoomlaShine) take great care in protecting your personal information when you are using our website (www.joomlashine.com) and any products or services provided on the website.
+This Privacy Policy will comes to effect from 25 May, 2018.
 
-This Privacy Policy details JoomlaShine's policies relating to your personal information. Please make sure you read the following statement till the end. By using our Website or any products or services provided by JoomlaShine, you expressly consent to the use and disclosure of information as described in this Privacy Policy. IF YOU DO NOT AGREE WITH ANY OF THE TERMS BELOW, YOU SHOULD NOT USE THE WEBSITE OR THE PRODUCTS OR SERVICES OFFERED BY THE WEBSITE. We may periodically update this Privacy Policy. We encourage you to review this Privacy Policy from time to time for any changes.
+We at JoomlaShine (referred to as "JoomlaShine", "we", "us") respect your privacy and want you to understand how we collect, use, and share data about you. This Privacy Policy covers our data collection practices and describes your rights to access, correct, or restrict our use of your personal data.
 
-## We respect your privacy
+This Privacy Policy applies when you visit the JoomlaShine website and use JoomlaShine products (referred to as "Services"). By using the Services, you agree to the terms of this Privacy Policy.
 
-JoomlaShine will not collect, monitor, use and disclose any personal information about you without your consent. We recognizes that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously.
+## What information, how and when do we collect
 
-JoomlaShine is committed to protecting your privacy.
+### Summary
 
-## What information do we collect and how do we use it
+We collect information about you when you:
 
-### Personally identifiable information
+  * Create an account on our website
+  * Communicate with us via contact form
+  * Register your copy of the product from the website it's being used
 
-Only information you provide JoomlaShine with directly will be collected, such as through subscribing to various products & services, or identifying yourself when requesting information to be sent to you. For example, when you fill out a request form, we collect the details you enter in order to post information to you. When you answer questions about what you would like to see we keep this information so as to better serve you.
 
-### Environment statistics
 
-In order to better understand our install base and support end user, we will send environment statistics back to a JoomlaShine! controlled central server when you install or update our products. The data gathered will help JoomlaShine to determine which versions and software requirements it should support.
+We also collect information, such as usage statistics, by using cookies, server logs, and similar technologies.
 
-### Emails
+### Information You Provide to Us
 
-From time to time with your permission JoomlaShine will send you relevant information emails regarding products and services which you have previously registered your interest in. If you are receiving promotional information from JoomlaShine and do not wish to receive this information any longer, you may unsubscribe anytime.
+We collect information that you provide directly to us. For example, we collect information that you provide when you create an account, communicate with us via contact form or interacting in support forum.
 
-### Credit card information
+The types of information that we may collect include your name, username, password, email address, postal address, phone number, photos, survey responses, payment information such as payment agent details, transactional details, tax information, support queries, forum comments and any other information that you choose to provide.
 
-If you use a credit card to purchase products and/or services via the Website, information required by transaction such as your name as it appears on the credit card, the credit card number, expiration date and billing address will be encrypted as it passes over the Internet. We does not record or keep your credit card information for online credit-card transactions; rather such information is simply passed through to our contracted payment processing vendor. However, We may access such information through the payment processing company to process refunds or adjustments and to the extent necessary in the event of nonpayment or disputed payments, or as may be necessary for JoomlaShine' compliance, in JoomlaShine' discretion, with applicable law.
+### Information We Collect Automatically When You Use the Services
+
+When you use our Services, we automatically collect information about you, including:
+
+  * Log Information: We collect log information about your use of the Service, including the type of browser that you use; the time, duration and frequency of your access; pages viewed; your IP address; and the page you visited before visiting our Services.
+  * Device Information: We collect information about the computer or mobile device that you use to access our Services, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+  * Location Information: We may collect information about the location of your device each time you use our Services based on your consent to the collection of this information.
+  * Information Collected by Cookies and Other Tracking Technologies: We and our service providers collect information using various technologies, including cookies and pixel tags (which are also called clear GIFs, web beacons, or pixels). Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, and track usage of our Services. Pixel tags are electronic images that may be used in our Services or emails, and track usage of our Services and effectiveness of communications. You can learn more about the types of cookies we and our service providers use by reading our Cookie Policy.
+
+
+
+## Why do we need and how do we use your information
+
+### Summary
+
+We use information about you to:
+
+  * Operate, improve, promote, and protect our Services;
+  * Communicate with you; and
+  * Personalize content.
+
+
+
+### Operating our Services
+
+We may use information about you for various purposes related to operating our Services, including to:
+
+  * Provide, maintain, and improve our Services, including to process transactions, develop new products and services, and manage the performance of our Services;
+  * Display information about you, for instance, your list of forum topics, which will be visible on your profile;
+  * Personalize the Services, for example, to suggest content in which we think you may be interested;
+  * Monitor and analyze trends, usage, and activities in connection with our Services;
+  * Perform accounting and administrative tasks, and enforce or manage legal claims.
+  * Training JoomlaShine staff about how to best serve our user community;
+
+
+
+### Communicating With You
+
+We may use information about you for various purposes related to communicating with you, including to:
+
+  * Respond to your comments, questions, and requests, and provide customer service;
+  * Communicate with you, in accordance with your account settings, about products, services, and events offered by us and others, to provide news and information that we think will be of interest to you, to conduct online surveys, etc.
+  * Send you technical notices, updates, security alerts and support, and administrative messages.
+
+
+
+### Advertising
+
+We may use information about you for various advertising activities that match your profiles or interests;
+
+## Sharing your information
+
+### Summary
+
+We do not share information about you in any way other than as described in this Privacy Policy.
+
+We may disclose information about you:
+
+  * To members or social media services, subject to the choices you may make via the Services;
+  * To our third-party service providers who help us to operate or improve our Services;
+  * To authorities to comply with legal obligations and to protect and defend our rights and property;
+
+
+
+## Keeping your information
+
+### Summary
+
+We store personal information on secure servers that are managed by us and our service providers.
+
+### Technical Security
+
+Personal information that we store or transmit is protected by security and access controls, including username and password authentication, two-factor authentication, and data encryption where appropriate.
+
+### Organizational Security
+
+We have redesigned our organizational structure to minimize amount of personnel who have access to our user’s data.
+
+### Data Retention
+
+We retain your personal information for as long as is necessary to provide the services to you and others, and to comply with our legal obligations. If you no longer want us to use your personal information or to provide you with the Services, you can request that we erase your personal information and close your JoomlaShine account.
+
+Please note that if you request the erasure of your personal information we will retain information from deleted accounts as necessary for our legitimate business interests, to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the terms of service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.
+
+## Your Rights
+
+### Summary:
+
+  * You can review and change information about you or deactivate your account in your account settings, but we may retain certain information.
+  * You have the right to opt out of receiving JoomlaShine’s promotional messages, but you may still receive other non-promotional communications.
+  * You may have the right to exercise your data protection rights, including to request that JoomlaShine deletes, amends, or provides you access to your information.
+
+
+
+### Account Information
+
+You may update or correct your account information by editing your account settings or by sending a request to [privacy@joomlashine.com](mailto:privacy@joomlashine.com) as described in Section 6. You may also deactivate your account by editing your account settings or by sending an email to [privacy@joomlashine.com](mailto:privacy@joomlashine.com).
 
 ### Cookies
 
-#### What are cookies?
+See our Cookie Policy for details about these technologies and the information that they collect, use, or share, including how you may be able to control or disable these services.
 
-A cookie is a piece of data that is placed on an internet user's computer memory. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. The information the cookie contains is set by a website's server and it can be used when the user visits the website.
+When you use the Services, there’s certain information that’s recorded which is generally anonymous information and does not reveal your identity. If you’re logged into your account some of this information could be associated with your account.
 
-Cookies are not dangerous. They are not computer programs and cannot be used to circulate viruses. Most Web browsers are set to accept cookies as the default.
+Occasionally, we will use third party advertising companies to serve ads based on prior visits to our Services. For example, if you visit our websites, you may later see an add for our products and services when you visit a different website.
 
-JoomlaShine uses "cookies" to help enhance your experience on the site. Cookies themselves do not contain personal information about you. They simply operate as a unique identifier which helps JoomlaShine to know what customers find interesting and useful on the website, almost like a continuing questionnaire. JoomlaShine does not store any personal information inside cookies, although the cookie may identify the user's browser.
+### Promotional Communications
 
-The use of cookies can enhance your experience on the JoomlaShine site, by remembering information that you have previously given. They can make it easier for you to fill out forms, shop online and can ensure that information provided to you is most relevant to your interests.
+You can control messages that you receive from JoomlaShine, other members, and third parties by selecting the unsubscribe link in the message that you receive, or by adjusting the communication preferences in your account settings. If you opt out, we may still send you non-promotional messages, such as those about your account or our ongoing business relations.
 
-By continuing to browse our site, you consent to our placing cookies on your computer (unless you have chosen to disable cookies via your browser - you can opt out of cookies via your browser’s privacy setting options – it will depend on the browser you’re using).
+### Other Data Rights
 
-### Log files
+Data rights that you may have, depending on the country in which you live, include:
 
-We and/or our contracted web analytics provider(s) do keep track of the domains from which you access our Site and Services on the World Wide Web, and may log IP addresses or other identifiers for statistical purposes. We do this to gather broad demographic information for aggregate use to identify and analyze trends and the results of our marketing efforts, to help diagnose problems with our servers and to administer the Site and Services, and analyze users' movements. We may periodically share aggregate demographic information with our business partners. IP addresses and other identifiers are not linked to personally identifiable information.
+  * Objecting to processing of your information, asking us to restrict processing of your information, or requesting the portability of your information.
+  * Withdrawing your consent at any time if we have collected and processed your information with your consent. Withdrawing your consent will not affect the lawfulness of any processing that we conducted prior to your withdrawal, nor will it affect processing of your information conducted in reliance on lawful processing grounds other than consent.
+  * Complaining to a data protection authority about our collection and use of your information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Union are available here.
 
-### Facebook Login
 
-To make login to JoomlaShine accounts more convenient for users, we allow you to sign in with Facebook. Once doing that, you agree with terms of use and privacy policy of Facebook also. Through that process, JoomlaShine will receive some information like your public profile (name, profile picture, age gender, country, language, etc.) and email address. We respect your privacy and just keep this information so as to send you information related to product updates or to support you better.
 
-## How do we store and protect your information
+## Contact Us
 
-JoomlaShine will endeavor to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. In addition, our employees and data processors are obliged to respect the confidentiality of any personal information held by us. However, JoomlaShine will not be held responsible for events arising from unauthorized access to your personal information. We encourage you to play an important role in keeping your personal information secure, by maintaining the confidentiality of any passwords and account details used on the Website.
+Under European data protection law, the controller of your information is JoomlaShine. We will need to change this policy from time to time in order to make sure it stays up to date with the latest legal requirements and any changes to our privacy management practices.
 
-If you have any questions about the security at our Website, please send an email to This email address is being protected from spambots. You need JavaScript enabled to view it..
-
-## How do you change/update your information
-
-Your trust in JoomlaShine is very important to us. You are free to update your information at any time directly through our Website. Inasmuch as your information will never be used without your explicit consent, we are not able to update the email address to which you subscribe to JoomlaShine communications on your behalf.
+If you have any questions or complaints about this Privacy Policy or how we use your information, please contact [privacy@joomlashine.com](mailto:privacy@joomlashine.com).
