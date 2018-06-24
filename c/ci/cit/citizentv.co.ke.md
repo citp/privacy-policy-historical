@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the citizentv.co.ke privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120113934id_/https%3A//citizentv.co.ke/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizentv.co.ke privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624200931id_/https%3A//citizentv.co.ke/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Citizentv.co.ke
-
-## Privacy Policy
 
 Since your privacy is important to us, we provide this privacy statement explaining our online activity and the options you have on the way your information is collected and used our websites and mobile applications.
 
@@ -22,8 +20,3 @@ Through our third-party social media plugins, we may request you to allow our Si
 **How We Use the Information**  
 We may use the Information you provide us with to fulfill your requests for our, products/services, to respond to your inquiries about our offerings, to offer you other products or services that may be of interest to you etc.  
 We may also use this information to communicate with you, e.g notify you when you have won a contests, to inform you of new products, send notifications and to collect feedback from you about our products or services.
-
-  
-  
-  
-[](https://citizentv.co.ke/tv/)
