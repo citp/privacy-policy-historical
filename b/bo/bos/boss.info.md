@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boss.info privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021193509id_/http%3A//www.roland.com/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boss.info privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624053543id_/http%3A//www.roland.com/global/privacy) for the most accurate reproduction.*
 
 # Roland - Privacy Statement
 
@@ -67,6 +67,7 @@ We shall not transfer the personal information you submit to us to an overseas l
   * When we are required to disclose or provide the personal information based on a law or regulation
   * When disclosure is needed to protect human health or safety or assets, and it is difficult to obtain your prior consent
   * When we need to cooperate with national or local governments in their official duties and obtaining your consent may hinder those efforts
+  * When the procedure is considered efficient to protect your personal information, such as binding standard contractual clauses provided in GDPR (General Data Protection Regulation）(For resident in European Economic Area).
 
 
 
@@ -84,7 +85,7 @@ _Personal-information items to be shared_
 
 _Parties who can share the personal information_
 
-  * BOSS Corporation, Roland Corporation U.S., Roland Europe Group and other overseas Group companies *1
+  * Roland Corporation U.S., Roland Europe Group and other overseas Group companies *1
 
 
 
@@ -156,3 +157,19 @@ Please also read our [Policies on the Protection of Personal Information](https:
 #### 8\. Personal information correction
 
 If we are informed by users that their personal information is inaccurate, and are asked to modify, add, or delete data, we will investigate and, on the basis of the result, make the necessary adjustments without delay.
+
+* * *
+
+#### 9\. Notice for the resident in European Economic Area (EEA)
+
+If you are a resident in EEA, please read the followings
+
+  1. You have the rights provided in GDPR(General Data Protection Regulation) as below
+    * To withdraw your consent on processing of your personal information
+    * To confirm whether or not your personal information is being processed, and where that is the case, access to your personal information
+    * To request rectification or erasure of your personal information or restriction of processing your personal information, or object to such processing
+    * To receive your personal information and transmit those information to another controller
+    * To lodge a complaint with a supervisory authority
+  2. If you are below the age of 16 years, you shall never offer your personal information without an approval by the holder of parental responsibility for you.
+
+
