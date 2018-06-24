@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookwidgets.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911034822id_/https%3A//www.bookwidgets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookwidgets.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624120217id_/https%3A//www.bookwidgets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BookWidgets
 
-_Date of last revision: March 14, 2017_
+_Date of last revision: January 19, 2018_
 
 The Platform (as defined below) is made available by Kidimedia BVBA, a Belgian limited liability company with registered seat at Leuvensesteenweg 142, 3070 Kortenberg and registered with the Crossroads Bank for Enterprises under company number 0831.289.505 (hereinafter “ **Kidimedia** ” or “ **we** ”).
 
@@ -18,7 +18,7 @@ The Platform (as defined below) is made available by Kidimedia BVBA, a Belgian l
 
 ## 1\. Introduction
 
-Kidimedia recognizes and understands the importance of your privacy and wants to respect your desire to store and access personal information in a private and secure environment. This Privacy Policy applies to our Platform and describes how we manage, store and utilize Your Personal Data. If you are a minor, we encourage you to inform you parents that you want to make use of the Platform and to invite them to read this Privacy Policy before you use the Platform.
+Kidimedia recognizes and understands the importance of your privacy and wants to respect your desire to store and access personal information in a private and secure environment. This Privacy Policy applies to our Platform and describes how we manage, store and utilize Your Personal Data. If you are a minor, we encourage you to inform you parents that you want to make use of the Platform and to invite them to read this Privacy Policy before you use the Platform. If you are younger than 16, or based in the US and younger than 13, you can only use our Platform pursuant to an explicit instruction of your teacher to use a Widget (as defined below) or with the explicit consent of your parents.
 
 Kidimedia is committed to protecting the privacy of Your Personal Data and providing a secure, user-controlled environment for the use of the Platform in accordance with Regulation.
 
@@ -37,7 +37,7 @@ We may collect several types of Personal Data from you and store it on our serve
 
 
 
-Please note that we urge you not to include any Personal Data that would allow to identify you in any manner (including but not limited to your full name, personal image) in your Student Feedback. If you would choose to include any such Personal Data in your Student Feedback, please note that this will be on your own risk.
+Please note that we urge you not to include any Personal Data that would allow identifying you in any manner (including but not limited to your full name, personal image) in your Student Feedback. If you would choose to include any such Personal Data in your Student Feedback, please note that this will be on your own risk.
 
 You can optionally choose (via an opt-out system) to send us anonymous statistics about your use of the BookWidgets tool. The information inside these usage statistics includes date/time stamps of when you start/stop the Tool, the Widgets that you have viewed and generated in order to learn how you use the Tool. We only use such usage statistics with the sole purpose of operating and improving the Tool. These anonymous usage statistics are associated with your computer’s GUID and cannot be associated with Your Personal Data. We do not disclose these anonymous statistics or any part thereof to any Third Parties.
 
@@ -65,7 +65,15 @@ Furthermore, you agree that we are free to access, retain and disclose Your Pers
 
 
 
-## 4\. Cookies
+Your Teacher may use the Platform to create Widgets. Your Teacher can then allow you to use this Widget by inviting you to complete such a Widget. For any Personal Data related to you that is processed by us on behalf of your Teacher via our Platform and for which your Teacher determines the purposes and means, your Teacher is responsible for any compliance with any and all applicable data protection regulations including the Regulation or, for any US based users, COPPA and/or FERPA.
+
+As Your Personal Data will only be processed for the purposes set out under Section 3 and for no commercial purpose, Kidimedia fully relies on the teacher’s or school’s authorization for the collection of Your Personal Data and is based upon the school or your teacher having obtained Your parents’ consent. 
+
+## 4\. Teacher
+
+If you are a Teacher instructing minor to use a certain Widget, you warrant that you have received explicit consent of each minor’s parent in accordance with the Regulation and/or COPPA (whichever is applicable). Kidimedia will only process the Personal Data for the purposes set out in Section 3 and 4.
+
+## 5\. Cookies
 
 Cookies are small pieces of data that a website asks your browser to store on your computer or other device. This enables a site or service provider’s systems to recognize your browser and capture and remember certain information. Most browsers support cookies, but users can set their browsers to decline them and can delete them whenever they like.
 
@@ -81,11 +89,11 @@ Most internet browsers are initially set up to automatically accept cookies. Ple
 
 If you disable the cookies that we use, this may impact your experience of our Platform, for example you may not be able to visit certain areas of the Platform.
 
-## 5\. Security
+## 6\. Security
 
 We take appropriate technical and organizational measures against any unauthorized or unlawful processing of your Personal Data or its accidential loss, destruction or any unauthorized access thereto. These measures are proportional to the nature of Your Personal Data and the potential risks.
 
-## 6\. Do we disclose any information to third parties?
+## 7\. Do we disclose any information to third parties?
 
 Other than as expressly set out in this Privacy Policy, we do not sell, transfer, or otherwise disclose Your Personal Data or optional anonymous usage statistics to any Third Parties without your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. 
 
@@ -98,12 +106,13 @@ Product | Company | Privacy policy
 Google Analytics | Google Inc. | https://www.google.com/analytics/terms/  
 Crashlytics | Crashlytics Inc. | http://www.crashlytics.com/terms/  
 Bugsnag | Bugsnag Inc. | https://docs.bugsnag.com/legal/terms-of-service/  
-Intercom | Intercom Inc. | https://docs.intercom.com/pricing-privacy-and-terms/intercom-terms-of-service  
-SumoMe | Sumo Group Inc. | https://help.sumome.com/hc/en-us/articles/218959737-Terms-of-Service  
+MailChimp | The Rocket Science Group LLC | https://mailchimp.com/legal/privacy/  
+TeamLeader | TeamLeader NV | https://www.teamleader.eu/privacy  
+HelpScout | Help Scout Inc. | https:/www.helpscout.net/company/privacy  
   
 In the event of a full or partial merger with, or acquisition of all or part of Kidimedia, we may transfer Your Personal Data to a Third Party. In such event, we shall impose this Third Party to use Your Personal Data strictly consistent with this Privacy Policy. In any event, such Third Party service providers shall be obliged to treat Your Personal Data in accordance with this Privacy Policy. However, we cannot be held liable for any damages, whether direct or indirect, that may result fro the misuse of Your Personal Data by such Third Party service providers.
 
-## 7\. Your rights
+## 8\. Your rights
 
 ### Right of access
 
@@ -133,19 +142,19 @@ You have the right to receive a copy of Your Personal Data which you have provid
 
 To exercise any of the abovementioned rights, please contact us at [support@bookwidgets.com](mailto:support@bookwidgets.com) and provide us with any proof of your identity. We will process any requests as soon as possible and at the latest within one month of the receipt of your request.
 
-## 8\. Data retention and deletion
+## 9\. Data retention and deletion
 
 We do not process Your Personal Data any longer than is necessary for the purposes set forth in this Privacy Policy. However, we do store Your Personal Data as long as your Account is active or when the processing of Your Personal Data is necessary to allow you to make use of any of the functionalities of the Platform. Upon removal of your Account, we will delete Your Personal Data as soon as possible.
 
-## 9\. Third Party applications or websites
+## 10\. Third Party applications or websites
 
 You acknowledge and agree that certain content or services provided by Third Parties may be made available to you via the Platform. You agree that such linked content or services may have their own privacy policies for which we cannot be held responsible. We do not in any way review or endorse the privacy practices of such Third Parties.
 
-## 10\. Updates or changes to our Privacy Policy
+## 11\. Updates or changes to our Privacy Policy
 
 Occassionally, we may change our update this Privacy Policy to allow us, for instance, to use or share Your previously collected Personal Data for other purposes. If we would use Your Personal Data in a manner materially different from that stated at the time of the collection, we will provide you with a notice on our Website indicating that the Privacy Policy has been changed or updated and request you to agree with the updated or changed Privacy Policy.
 
-## 11\. Definitions
+## 12\. Definitions
 
 For the purpose of this Privacy Policy, the following definitions shall apply:
 
@@ -154,7 +163,7 @@ For the purpose of this Privacy Policy, the following definitions shall apply:
   * **Personal Data** shall mean any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
   * **Platform** shall mean the interactive learning SaaS platform named “Bookwidgets” that allows teachers to create educational exercises for their students and is developed by Kidimedia and available on the Website;
   * **Student Content** shall mean any answers, text, images or other materials provided by you (as a student) when completing a Widget;
-  * * _Teacher_ *shall mean the teacher who has invited you to complete the exercises of the Widgets;
+  * * _Teacher_ *shall mean the teacher and/or school who has invited you to complete the exercises of the Widgets;
   * **Third Parties** shall mean any physical or legal person or entity other than Kidimedia;
   * **Tool** shall mean the Bookwidgets tool that is available for PC and Mac;
   * **Website** shall mean the website available on [https://www.bookwidgets.com](https://www.bookwidgets.com/).
