@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yaspan.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215122559id_/http%3A//www.yaspan.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaspan.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624120215id_/http%3A//www.yaspan.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yaspan
 
