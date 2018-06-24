@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the figshare.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904163025id_/https%3A//figshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figshare.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624050617id_/https%3A//figshare.com/privacy) for the most accurate reproduction.*
 
 # figshare - Privacy
 
@@ -132,10 +132,9 @@ Changes to this Online Privacy Notice will become effective when those changes a
 
 If you have any questions about this Online Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by:
 
-E-mailing us at info@figshare.com; **or**  
-Calling us at +44 (0) 20 7418 5573; **or**  
+E-mailing us at [info@figshare.com](mailto:info@figshare.com); **or**  
 Writing to us at:  
 **figshare llp  
-4 Crinan Street,   
-London,   
-N1 9XW **
+1 Mark Square,  
+London,  
+EC2A 4EG **
