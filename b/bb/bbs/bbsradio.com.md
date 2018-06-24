@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119213919id_/https%3A//bbsradio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624142648id_/https%3A//bbsradio.com/privacy) for the most accurate reproduction.*
 
 # BBS Radio Privacy Policy - Information Disclosure Policies
 
@@ -42,6 +42,9 @@ What are cookies?
 Your Consent:
 
   * By using the BBS Radio web site and the content and services available to you on our site, you consent to our collection and use of your information as described above. If we decide to change our privacy policy, we will post the changes on this page so that you are always informed of our policies.
+
+
+  * We reserve the right to correct all content posted on BBS Radio web pages! These corrections, if any, usually involve fixing broken links, removing links entirely, fixing grammatical errors, fixing pagination, punctuation and spelling mistakes, and when deemed necessary, removing sentences and even entire paragraphs of content. 
 
 
 
