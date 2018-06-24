@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindful.org privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903073036id_/https%3A//www.mindful.org/privacy-policy-mindful-magazine-and-mindful-org) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindful.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624163915id_/https%3A//www.mindful.org/privacy-policy-mindful-magazine-and-mindful-org) for the most accurate reproduction.*
 
 # Privacy Policy: Mindful magazine and mindful.org - Mindful
 
@@ -63,7 +63,7 @@ We offer third-party products or services on our website. These third-party site
 
 ## **Opting out**
 
-Users can set preferences for how Google advertises to you using the [Google Ad Settings page](https://www.google.com/settings/u/0/ads/authenticated). Alternatively, you can opt out by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/) opt out page or by using the [Google Analytics Opt Out Browser add on](https://tools.google.com/dlpage/gaoptout/).
+Users can set preferences for how Google advertises to you using the [Google Ad Settings page](https://www.google.com/settings/u/0/ads/authenticated). Alternatively, you can opt out by visiting the [Network Advertising Initiative](https://www.networkadvertising.org/) opt out page or by using the [Google Analytics Opt Out Browser add on](https://tools.google.com/dlpage/gaoptout/).
 
 ## **California Online Privacy Protection Act**
 
