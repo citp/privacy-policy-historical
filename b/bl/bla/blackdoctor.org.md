@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackdoctor.org privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030030601id_/https%3A//blackdoctor.org/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackdoctor.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624091347id_/https%3A//blackdoctor.org/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | BlackDoctor
 
@@ -98,7 +98,7 @@ Opt Out: You can unsubscribe from the newsletters by simply clicking on the “u
 
  **BlackDoctor.org Email A Friend**
 
-When you use BlackDoctor.org’s “Email a Friend,” BlackDoctor.org emails the article or other content you designate to your friend’s email address and identifies your email address as the sender. BlackDoctor.org uses the friend’s email address to send your friend the particular email you requested.  Such information may be collected and stored to send such articles or other content.  Your friend may contact feedback@blackdoctor.org to request that we remove this information from our records.
+When you use BlackDoctor.org’s “Email a Friend,” BlackDoctor.org emails the article or other content you designate to your friend’s email address and identifies your email address as the sender. BlackDoctor.org uses the friend’s email address to send your friend the particular email you requested.  Such information may be collected and stored to send such articles or other content.  Your friend may contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to request that we remove this information from our records.
 
  **Message Boards and other Public Forums**
 
@@ -118,10 +118,10 @@ We may access or disclose your Personal Information without your consent in orde
 
  **If Abuse Occurs**
 
-Although we make every effort to ensure that our e-mail list is safe, the Internet is such that we cannot guarantee that our list is invulnerable to attacks. If you believe there has been a breach of our security, please contact us at once at bdoeditor@blackdoctor.org **.**
+Although we make every effort to ensure that our e-mail list is safe, the Internet is such that we cannot guarantee that our list is invulnerable to attacks. If you believe there has been a breach of our security, please contact us at once at [email protected] **.**
 
  **CONTACTING US**
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time by email at [bdoeditor@blackdoctor.org](mailto:bdoeditor@blackdoctor.org).
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fa989e959f9e938e9588ba98969b99919e95998e9588d495889d).
 
 Last revised March 19, 2012
