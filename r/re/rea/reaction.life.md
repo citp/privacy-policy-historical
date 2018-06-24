@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reaction.life privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830164428id_/https%3A//reaction.life/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reaction.life privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624151049id_/https%3A//reaction.life/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reaction
 
-This privacy policy applies between you, the User of this Website and Reaction Digital Media Ltd, the owner and provider of this Website. Reaction Digital Media Ltd takes the privacy of your information very seriously. This privacy policy applies to our use of any and all Data collected by us or provided by you in relation to your use of the Website. Please read this privacy policy carefully.
+This privacy policy applies between you, the User of this Website and Reaction Digital Media Ltd, the owner and provider of this Website. Reaction Digital Media Ltd takes the privacy of your information very seriously. This privacy policy applies to our use of any and all Data collected by us or provided by you in relation to your use of the Website. I has been updated to comply with GDPR. Please read this privacy policy carefully.
 
 **Definitions and interpretation**
 
@@ -12,13 +12,13 @@ In this privacy policy, the following definitions are used:
 
 **Cookies** : a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website. Details of the cookies used by this Website are set out in the clause below (Cookies);
 
-**Reaction Digital Media Ltd,  we** or **us** : Reaction Digital Media Ltd, a company incorporated in England and Wales with registered number 10166531 located at 71-75 Shelton Street, Covent Garden, London WC2H 9JQ;
+**Reaction Digital Media Ltd,  we** or **us** : Reaction Digital Media Ltd, a company incorporated in England and Wales with registered number 10166531 located at Unit D South Cambridge Business Park, Babraham Road, Sawston, Cambridge, Cambridgeshire, England, CB22 3JH
 
 **UK and EU Cookie Law** : the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011;
 
 **User** or **you** : any third party that accesses the Website and is not either (i) employed by Reaction Digital Media Ltd and acting in the course of their employment or (ii) engaged as a consultant or otherwise providing services to Reaction Digital Media Ltd and accessing the Website in connection with the provision of such services; and
 
-**Website** : the website that you are currently using, reaction.wpengine.com, and any sub-domains of this site unless expressly excluded by their own terms and conditions.
+**Website** : the website that you are currently using, www.reaction.life, and any sub-domains of this site unless expressly excluded by their own terms and conditions.
 
 In this privacy policy, unless the context requires a different interpretation:  
 a. the singular includes the plural and vice versa;  
@@ -52,9 +52,9 @@ in each case, in accordance with this privacy policy.
 **Our use of Data**
 
 5\. For purposes of the Data Protection Act 1998, Reaction Digital Media Ltd is the “data controller”.  
-6\. We will retain any Data you submit for 1 month.  
+6\. We will retain any Data you submit but you can request that it is deleted by emailing a request to [editors@reaction.life](mailto:editors@reaction.life)  
 7\. Unless we are obliged or permitted by law to do so, and subject to any third party disclosures specifically set out in this policy, your Data will not be disclosed to third parties. This does not include our affiliates and / or other companies within our group.  
-8\. All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security see the clause below (Security).  
+8\. All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998 and GDPR. For more details on security see the clause below (Security).  
 9\. Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Website. Specifically, Data may be used by us for the following reasons:  
 a. internal record keeping;  
 b. improvement of our products / services;  
@@ -75,13 +75,13 @@ in each case, in accordance with this privacy policy.
 
 13\. Reaction Digital Media Ltd may, from time to time, expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of Reaction Digital Media Ltd. Data provided by Users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this privacy policy, be permitted to use the Data for the purposes for which it was originally supplied to us.  
 14\. We may also disclose Data to a prospective purchaser of our business or any part of it.  
-15\. In the above instances, we will take steps with the aim of ensuring your privacy is protected.
+15\. In the above instances, we will take steps with the aim of ensuring your privacy is protected and complying fully with GDPR.
 
 **Controlling use of your Data**
 
 16\. Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:  
 17\. use of Data for direct marketing purposes; and  
-18. opting out of direct correspondence.
+18\. opting out of direct correspondence.
 
 **Functionality of the Website**
 
@@ -101,8 +101,8 @@ in each case, in accordance with this privacy policy.
 **Cookies**
 
 25\. This Website may place and access certain Cookies on your computer. Reaction Digital Media Ltd uses Cookies to improve your experience of using the Website and to improve our range of services. Reaction Digital Media Ltd has carefully chosen these Cookies and has taken steps to ensure that your privacy is protected and respected at all times.  
-26\. All Cookies used by this Website are used in accordance with the third parties’ terms and conditions.  
-27\. By using or continuing to use the the digital services offered by Reaction Digital Media Ltd you are giving your consent to the placing of Cookies, you are enabling Reaction Digital Media Ltd to provide a better experience and service to you. You may, if you wish, deny consent to the placing of Cookies by amending your personal settings; however, certain features of the Website may not function fully or as intended.  
+26\. All Cookies used by this Website are used in accordance with the third parties’ terms and conditions.  
+27\. By using or continuing to use the digital services offered by Reaction Digital Media Ltd you are giving your consent to the placing of Cookies, you are enabling Reaction Digital Media Ltd to provide a better experience and service to you. You may, if you wish, deny consent to the placing of Cookies by amending your personal settings; however, certain features of the Website may not function fully or as intended.  
 28\. This Website may place the following Cookies:  
 **Strictly necessary cookies:** These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.  
 **Analytical/performance cookies:** They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.  
@@ -127,6 +127,6 @@ in each case, in accordance with this privacy policy.
 **Changes to this privacy policy**
 
 38\. Reaction Digital Media Ltd reserves the right to change this privacy policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the privacy policy on your first use of the Website following the alterations.  
-You may contact Reaction Digital Media Ltd by email at editors@reaction.life.
+You may contact Reaction Digital Media Ltd by email at [editors@reaction.life](mailto:editors@reaction.life).
 
-01 October 2016
+24 May 2018.
