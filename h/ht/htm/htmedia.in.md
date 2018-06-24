@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmedia.in privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221222953id_/http%3A//www.htmedia.in/%3Fpage_id%3D48) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmedia.in privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624045014id_/http%3A//www.htmedia.in/%3Fpage_id%3D48) for the most accurate reproduction.*
 
 # Privacy Policy |
 
