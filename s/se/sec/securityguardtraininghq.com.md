@@ -1,79 +1,65 @@
-> *The following text is extracted and transformed from the securityguardtraininghq.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222133002id_/http%3A//www.securityguardtraininghq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityguardtraininghq.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624054542id_/http%3A//www.securityguardtraininghq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Security Guard Training – Your Security Guard Training Resource
 
 ## [Privacy Policy](http://www.securityguardtraininghq.com/privacy-policy/)
 
-Effective Date: **April 8, 2015**
+**Privacy Policy**
 
-1\. INTRODUCTION. Flynndustries, LLC (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of SecurityGuardTrainingHQ.com (“the Site”). We created this Website Privacy Policy (“Privacy Policy”) to give you insight into our information collection and use practices for people visiting the Site. 
+Effective Date: May 7, 2018
 
-2\. INFORMATION COLLECTION PRACTICES
+We are committed to respecting the privacy rights of visitors and users of SecurityGuardTrainingHQ.com (“Site”). We created this Privacy Policy (this “Policy”) to explain what information we collect from you, how we secure that information, and under what conditions we share your information with others. This Policy is only applicable to this Site, and not to any other website you may be able to access from this Site.
 
-2.1. TYPES OF INFORMATION COLLECTED
+1\. UNITED STATES AUDIENCE.
 
-(a) Categories of Personally Identifiable Information.  We may collect personally identifiable information from you in one of two manners. The first is if you provide us with your name and email address while signing up for the free “Top 10 Security Interview Tips” eBook to receive email communications from us. The second is if you write a comment to a post and list your name, email address or domain. 
+This Site is directed towards an audience interested in a potential career as a security guard in the United States. This Site and the information contained herein is not intended for use by individuals located in any country other than the United States. Any individual accessing the Site from a location other than the United States should cease and decisist such use. We follow the privacy laws of the United States. 
 
-(b) Privacy Policy Modifications and Updates. If we modify or update this privacy policy, we will post a notice on the Site. You will have 30 days to consider whether you wish to continue accessing and using the Site pursuant to the updates to the policy. The updates and modifications will not be binding upon you until the 30 day period has passed. After 30 days, your continued use of the Site shall act as an affirmative acceptance of the new privacy policy.
+2\. NOTICE CONCERNING CHILDREN.
 
-(c) Modification or Removal Process. If you wish to remove or modify any of your personally identifiable information, please contact us using the Contact link on the menu of the Site. You may also remove your information from any mailings by “opting out” as indicated in the mailing.
+Any website “directed at children under 13” must undertake certain compliance steps pursuant to the Children’s Online Privacy Protection Act [15 U.S. Code § 6502] and COPPA Rule [16 C.F.R Part 312]. This Site is directed at adults, not children. Please contact us immediately if you have knowledge of a child under 13 using the Site.
 
-(d) Effective Date: The effective date shall be April 8, 2015.
+3\. PERSONAL INFORMATION COLLECTED.
 
-(e) Do Not Track Signals.  We do not currently honor “do not track” signals issued by browsers or other third party sources. 
+A. Information Collection:  In order for you to access the Site, we require you to provide us with certain information that personally identifies you (“Personal Information”). Personal Information includes Contact Data such as your name and e-mail address. We also collect and retain any information you provide us when you contact us or leave comments on the Site. If you purchase a product or service through the Site from another party, you will be doing so through a third party website and should refer to the privacy policy of that website.
 
-(f) Third Party Disclosure. Third Party Tracking: As a matter of transparency, we’ve decided to disclose to you whether third parties can acquire and track your personally identifiable information through our website. Google and other sites listed below can track you through this Site as we use their services for social media and infrastructure purposes. Google participates in the NIA opt out program. You can visit [this link](http://www.networkadvertising.org/choices/#completed) to no longer be tracked by Google and Google properties such as Google Plus. You can also visit the following sites to read their privacy policies and how they track individuals across the web: 
+B. Modification or Removal Process:  We do not allow for the removal or modification of messages you send directly to us. However, you may modify any comments you leave on blog posts or may contact us to request we do so for you. 
 
-Facebook  https://www.facebook.com/about/privacy/, 
+C. Privacy Policy Updates:  If we modify or update this Policy, we will notify you by posting a notice on the Site. You may reject the update by discontinuing your use of the Site.
 
-Twitter  [https://twitter.com/privacy](https://twitter.com/privacy)
+D. Do Not Track Signals:  We do not comply with “do not track” signals at this time.
 
-YouTube – https://www.youtube.com/static?template=privacy_guidelines
+E. First Party Cookies. This Site is built on a WordPress platform, which incorporates certain first party cookies to gather information from visitors such as the pages you visit. A first party cookie gathers information only we can view and analyze. 
 
-You can use programs such as Privacy Badger – [https://www.eff.org/privacybadger](https://www.eff.org/privacybadger) – to further control the collection of information regarding you online.
+F. Google Tracking. We use certain Google programs to help us analyze the traffic to this Site and improve our marketing efforts. Such programs may include, but are not limited to, Google Analytics. Google tracks you across this Site and others with this program. You may opt out of this tracking by visiting https://tools.google.com/dlpage/gaoptout/ and http://www.networkadvertising.org/choices/.
 
-(g) California Eraser Law. If you are a minor and wish to request the removal of any content you have created and uploaded to the Site, please use the Contact function on the Site to make your request. Please note the removal of content from this Site does not necessarily mean it cannot be found elsewhere on the Internet. Search engines and archive sites regularly index the Internet and make copies of website content. 
+G. Other Third Party Cookies. We partner with third parties who may use cookies and other technology to track you on this Site and the web in general. We use these companies to present you with products and information through programs such as affiliate programs as well as providing functionality on the Site. 
 
-(h) Google Advertising Cookie and Doubleclick Dart Cookie. Google, as a third party vendor, uses cookies to serve ads on this Site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to various sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy here. http://www.google.com/privacy_ads.html
+3\. GENERAL TRAFFIC DATA COLLECTED.
 
-2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?
+We automatically track and collect the following categories of information from you when you visit our Site including your: (1) IP address; (2) referring site; (3) type of computer or device used to access the Site; and (4) type of web browser used to access the Site (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you but is helpful for evaluating the Site for changes, marketing purposes and for helping us improve your experience when using the Site. 
 
-(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
+4\. USE OF INFORMATION COLLECTED
 
-(b) COOKIES. From time to time, we may use “cookies” to store a small piece of data on your computer during your visit to track how you use our Site. These cookies will track how you use our Site.
+A. Our Use Of Information: We use your Personal Information to interact with you and evaluate our Site as well as comply with various laws as detailed herein. Please read this Section 4 carefully. 
 
-3\. USE AND SHARING OF INFORMATION
+B. Sharing Personal Information: We share certain categories of information we collect from you in the ways described in this Policy. We share Contact Data with our business partners who assist us by performing core services (blog comment system, etc.) related to our operation of the Site. If you do not want us to share your Personal Information with any third parties, please contact us, but understand that such a request will eliminate your ability to order products from us and receive newsletters. 
 
-3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
+C. Use of Contact Data. We use your Contact Data to provide you with administrative communications such as responses to messages you send us. We also use your Contact Data to send you commercial emails highlighting products, services, and business developments. These email communications may contain messages, advertisements, and affiliate links promoting third parties and third party products. Make sure to review the privacy policies of these third party companies before providing them with your personal information.
 
-(a) PERSONAL INFORMATION. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. 
+D. Sale of Information: Should we decide to sell all or part of our business or this Site at some point in the future, your Personal Information will be included as an asset in the transfer of the business to the new owner.
 
-(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+5\. INFORMATION SECURITY
 
-(c) USE OF COOKIES. We may use cookies to gather information on where you move about the Site. The purpose of this is to analyze how the Site is performing and the type of information visitors prefer and do not prefer. We do not use cookies for the purpose personalizing our own advertising to you or to allow third party advertisers and partners to do so. 
+A. Confidentiality and Security of Personal Information: Except as otherwise provided in this Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce the legal documents applicable to the Site. 
 
-(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its parent company, subsidiaries or affiliates, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
+B. Site Security. The Site has reasonable security measures in place to prevent the loss, misuse, or alteration of the information that we obtain from you. Unfortunately, we make no promises about our ability to prevent any such loss or misuse of your Personal Information since preventing hacking is nearly impossible.
 
-(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our company or other companies or assets, including the information collected through this Site. If Company or substantially all of its assets are acquired by a third party, your personally identifiable information will be one of the assets transferred to the acquirer.
+6\. AREAS BEYOND OUR CONTROL
 
-(f) DMCA CLAIM DISCLOSURES. We comply with the Digital Millennium Copyright Act of 1998, better known as the “DMCA”.  Should we receive a claim of copyright infringement, we will comply with the safe harbor requirements of the DMCA. Part of that compliance may require the disclosure of your identity if you are either the allegedly infringing party or the party filing the copyright infringement complaint.
+A. Public Information: You may post comments to posts on the Site. Please understand that any information disclosed in these areas may be viewed by the public including individuals who disagree with your views. You should exercise caution when deciding to disclose your Personal Information in such comments.
 
-4\. SECURITY
+B. Third Party Websites:  The Site contains links to other websites. We have no control over the terms and privacy policies of said sites. Please make sure to view the policies of those sites before proceeding.
 
-The Site has reasonable security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
+7\. CONTACT INFORMATION 
 
-5\. SITE AREAS BEYOND COMPANY’S CONTROL
-
-5.1. PUBLIC COMMENTS
-
-The Site includes interactive sections such as commenting areas where you can post comments. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-5.2. THIRD PARTY WEBSITES
-
-The Site contains links to other websites. If you choose to visit other websites, we have no control over the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
-
-6\. CONTACT INFORMATION AND POLICY UPDATES
-
-6.1. CONTACTING US
-
-If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us using the Contact link on the menu of the site.
+If you have any questions about this Policy or our practices related to this Site, please contact us using the Contact page on the Site.
