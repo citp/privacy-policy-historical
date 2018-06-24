@@ -1,8 +1,27 @@
-> *The following text is extracted and transformed from the templates.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191444id_/https%3A//www.templates.com/pages/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templates.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624135959id_/https%3A//www.templates.com/pages/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Templates.com Privacy Policy - Templates
 
-Templates.com has created this privacy policy to demonstrate our commitment to the privacy of the users of our website. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
+Templates.com has created this privacy policy to demonstrate our commitment to the privacy of the users of our website.  
+Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
+
+**GDPR Compliance**
+
+Data protection is of the utmost importance to the team of Templates.com. 
+
+Processing your personal data, including name, address, email, and/or phone number will always be in line with the General Data Protection Regulation (GDPR), and in accordance with other data protection regulations applicable to Templates.com.
+
+We have implemented every technical and organizational measure to ensure complete protection of our visitors’ personal data throughout the website. 
+
+Since Internet-based data transmissions may have security gaps, absolute protection is not guaranteed. This is why each data subject can transfer personal data to us via all available means, e.g. by email or phone.
+
+Controller for the purposes of the General Data Protection Regulation (GDPR) is:  
+JETIMPEX, INC.  
+915 SE 2 Court,  
+Fort Lauderdale,  
+FL 33301  
+United States  
+TAX ID: 42-1774657
 
 **What this Privacy Policy Covers**
 
@@ -39,7 +58,7 @@ Templates.com may otherwise disclose your personal information when:
 
 **Consent**
 
-If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to Templates.com. If you have provided personal information to Templates.com and no longer consent to its use or disclosure as outlined herein, please notify Templates.com at privacy@templates.com.
+If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to Templates.com. If you have provided personal information to Templates.com and no longer consent to its use or disclosure as outlined herein, please notify Templates.com at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Security**
 
