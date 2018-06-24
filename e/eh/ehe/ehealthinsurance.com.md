@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003045id_/https%3A//www.ehealthinsurance.com/about-ehealth/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthinsurance.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624185530id_/https%3A//www.ehealthinsurance.com/about-ehealth/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Security - eHealthInsurance
 
