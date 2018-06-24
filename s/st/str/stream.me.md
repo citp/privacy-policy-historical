@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stream.me privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610093225id_/https%3A//www.stream.me/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stream.me privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624111511id_/https%3A//www.stream.me/pages/privacy) for the most accurate reproduction.*
 
 # Stream.me
 
@@ -17,6 +17,20 @@ We automatically collect information from your browser when you visit our websit
 We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our website. We also may include web beacons in promotional e-mail messages or newsletters to determine such things as whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website users to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
 
 ## How We May Use the Information
+
+We use email addresses to verify a user’s account and to communicate with users via notifications and site updates. We share these email addresses with Mandrill and MailGun, email providers who send these site notifications on our behalf. This data is stored until a user deletes their account.
+
+We use IP addresses for fraud detection and to determine a user’s location. This data is stored until a user chooses to delete their account. We may continue to store an individual IP unlinked to a user, if that IP has been banned for violating our terms and conditions.
+
+We use date of birth to verify that a user is at least 13 years of age, a requirement dictated in our terms and conditions. This data is stored until a user chooses to delete it.
+
+We store PayPal email addresses, if submitted, to allow users to receive donations from other users on the site. We also store PayPal email addresses, if submitted, to pay out users money owed to them by the site such as subscriptions, sparkles and/or contest winnings. This data is stored until the user chooses to delete it.
+
+We store physical addresses, if submitted, to mail checks or physical prizes. This data is stored until the user chooses to delete it.
+
+We store payment tokens provided to us by payment providers, RocketGate, Xsolla, BrainTree and PayPal in order to enable recurring subscriptions, when opted into this feature.
+
+VODs (also known as archives) of streams, if enabled by the user, are kept on the site, publically available, for 45 days. They are then stored in a folder for deletion for 45 additional days, in case recovery is needed. Users can initiate deletion of publically available VODs at any time earlier than the 45 days or disable VODs at any time. User-deleted VODs are kept in a folder for deletion for the remainder of the original 45 days plus 45 additional days, in case recovery is necessary. Users can also extend the 45-day deadline via payment.
 
 Other than in certain unique situations discussed below, we do not share individualized personal information with third parties which we collect about our users, such as a user’s name or a user’s email address. We may share with third parties certain aggregated personal information about groups of users, such as average or range of ages of users, zip codes of users, etc.
 
@@ -38,6 +52,14 @@ We take appropriate security measures (including electronic and procedural measu
 
 We want you to feel confident using our website. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure.
 
+## Account Deletion and Request of Data
+
+Users who wish to delete their account or request a copy of their data can do so by visiting their [Account Settings](https://www.stream.me/settings/account) page. Via the mobile app: tap on your user avatar in the upper right corner of the home screen, tap ‘edit’, tap ‘advanced options’.
+
+Account deletion is permanent and data will be unrecoverable.
+
+When a user requests a copy of their data, we will email a temporary link to access this data.
+
 ## No Rights of Third Parties
 
 This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of our website.
@@ -46,4 +68,4 @@ This Privacy Policy does not create rights enforceable by third parties or requi
 
 We will occasionally update or modify this Privacy Policy to reflect changes in our practices and services. When we make updates or modifications to this Privacy Policy, we will revise the "Last Updated" date at the bottom of this Privacy Policy. We recommend you review our Privacy Policy from time to time to inform yourself of any updates or modifications.
 
-_Last Updated: February 1, 2015_
+_Last Updated: May 25, 2018_
