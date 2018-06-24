@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awarenessact.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215154949id_/http%3A//awarenessact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awarenessact.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624110834id_/http%3A//awarenessact.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Awareness Act
 
@@ -65,5 +65,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Awareness Act
 
 www.AwarenessAct.com
-
-EMAIL: AwarenessActCom@gmail.com
