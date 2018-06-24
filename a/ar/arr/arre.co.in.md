@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arre.co.in privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122114819id_/http%3A//www.arre.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arre.co.in privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624151636id_/http%3A//www.arre.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arré
 
@@ -93,7 +93,7 @@ Identity theft and the practice currently known as “phishing” are of great c
 If User has any questions about this Privacy Policy, the practices of UD or his/her dealings with the Site, User can contact UD at contact@arre.co.in 
 
 14\. Grievance Officer  
-Johan D’Souza shall be the Grievance Officer for the purpose of this Privacy Policy. If User has any questions or grievance or wants to delete or modify his/her Information, he/she shall mark correspondence to feedback@arre.co.in in the name of Johan D’Souza, Grievance Officer. Any communication which is not marked as such shall not be treated as a valid and binding communication for the purpose of this Privacy Policy and applicable laws w.r.t. this Privacy Policy.
+Archana Karulkar shall be the Grievance Officer for the purpose of this Privacy Policy. If User has any questions or grievance or wants to delete or modify his/her Information, he/she shall mark correspondence to feedback@arre.co.in in the name of Archana Karulkar, Grievance Officer. Any communication which is not marked as such shall not be treated as a valid and binding communication for the purpose of this Privacy Policy and applicable laws w.r.t. this Privacy Policy.
 
 Notify Us  
 If at any time the User believes that UD has not adhered to these principles, please notify UD by e-mail at feedback@arre.co.in and UD will use all commercially reasonable efforts to promptly determine and correct the problem.
