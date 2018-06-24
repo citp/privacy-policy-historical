@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the aninews.in privacy policy that was archived on 2017-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119020423id_/https%3A//www.aninews.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aninews.in privacy policy that was archived on 2018-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624180144id_/https%3A//www.aninews.in/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js" itemid="/privacy-policy/" itemtype="http://schema.org/NewsHome" itemscope="" xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class="no-js" itemscope="" xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]--><head>
         <meta charset="utf-8">
 		    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -11,9 +11,9 @@
         <meta name="google-site-verification" content="nl-RnVdNaFwFB5q0TRy6Yoh1eRvbcouKZFM7dQlc4Zo">
         <!-- facebook instant article  -->
         <meta property="fb:pages" content="140763992703039">
-        <meta itemprop="inLanguage" content="en-US">
+        <meta http-equiv="“content-language”" content="“en”">
         <meta name="keywords" content="ANI, ANI News, latest news, live news, business news, news in India, online news, bollywood news, breaking news, current news, world news, sports news, india latest news, news headlines, news site, news website, top news, India news, entertainment news,  national news, political news, Asian News International">
-        <meta itemprop="description" name="description" content="ANI brings the latest news on Politics and Current Affairs in India &amp; around the World, Sports, Health &amp; Fitness, Entertainment, News.">
+        <meta name="description" content="ANI brings the latest news on Politics and Current Affairs in India &amp; around the World, Sports, Health &amp; Fitness, Entertainment, News.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Google Tag Manager -->
             <script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.10"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-593RQTS"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -53,7 +53,7 @@
     
 
     
-      <link rel="canonical" href="https://aninews.in/">
+      <link rel="canonical" href="https://www.aninews.in/">
       <meta content="Asia’s Premier News Agency - India News, Business &amp; Political, National &amp; International, Bollywood, Sports | ANI News" property="og:title">
       <meta content="ANI brings the latest news on Politics and Current Affairs in India &amp; around the World, Sports, Health &amp; Fitness, Entertainment, News." property="og:description">
       <meta content="ANI News=og:site_name">
@@ -76,7 +76,7 @@
 
     </head>
     <body>
-
+      <div id="messages"></div>
     <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-593RQTS"
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -110,7 +110,7 @@
               <li class="rss-feed"><a href="/rss-feed/" target="_blank"></a></li>
 					</ul>
 				<ul class="extra-info-header">
-          <li class="time elem text-uppercase">Sun, Nov 19, 2017 <span>|</span>Updated 07:25 IST</li>
+          <li class="time elem text-uppercase">Sun, Jun 24, 2018 <span>|</span>Updated 23:28 IST</li>
 				</ul>
 			 </div>
 			 <div class="col-sm-4 col-xs-9">
@@ -563,7 +563,7 @@
 		 </div>
 	  </div>
 	  
-    <div id="messages"></div>
+
 
 <main class="main-wrapper home-page">
   <div class="container">
@@ -722,15 +722,24 @@
 
 
 	<script type="text/javascript" data-main="https://aniportalimages.s3.amazonaws.com/static/js/main.js" src="https://aniportalimages.s3.amazonaws.com/static/js/require-jquery.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
   <script>
+  // var config = {
+  //   apiKey: "AIzaSyAAPUtHMPgFBxy2PdkW5q8TLR9rhZhPEXQ",
+  //   authDomain: "push-notification-dd3ea.firebaseapp.com",
+  //   projectId: "push-notification-dd3ea",
+  //   databaseURL: "https://push-notification-dd3ea.firebaseio.com/",
+  //   storageBucket: "gs://push-notification-dd3ea.appspot.com",
+  //   messagingSenderId: "855936105235"
+  // };
   var config = {
-    apiKey: "AIzaSyAAPUtHMPgFBxy2PdkW5q8TLR9rhZhPEXQ",
-    authDomain: "push-notification-dd3ea.firebaseapp.com",
-    databaseURL: "https://push-notification-dd3ea.firebaseio.com/",
-    storageBucket: "gs://push-notification-dd3ea.appspot.com",
-    messagingSenderId: "855936105235"
-  };
+   apiKey: "AIzaSyBQUz4w3JLOjrHc6h76X1EtYY9QK5CXAVc",
+   authDomain: "aninews-43dbe.firebaseapp.com",
+   databaseURL: "https://aninews-43dbe.firebaseio.com",
+   projectId: "aninews-43dbe",
+   storageBucket: "aninews-43dbe.appspot.com",
+   messagingSenderId: "905596020"
+ };
   firebase.initializeApp(config);
 
   const messaging = firebase.messaging();
@@ -757,10 +766,10 @@
       }
     }
 
-  messaging.onMessage(function(payload) {
-    // console.log("Message received. ", payload);
-    appendMessage(payload);
-  });
+  // messaging.onMessage(function(payload) {
+  //   // console.log("Message received. ", payload);
+  //   appendMessage(payload);
+  // });
 
   function resetUI() {
     clearMessages();
@@ -842,26 +851,7 @@
 
   </script>
   
-    <script type="application/ld+json">
-      {
-        "@context":"http://schema.org",
-        "@type":"ItemList",
-        "itemListElement":[
-        ]
-      }
 
-      {
-        "@context": "http://schema.org",
-        "@type": "WebSite",
-        "url": "https://www.aninews.in/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://www.aninews.in/search/?query={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
-      }
-
-    </script>
   
     
     <script>
