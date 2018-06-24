@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213063455id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624193657id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
 
 # iLounge Privacy Policy
 
@@ -20,51 +20,51 @@ Last updated 07|08|14
 
 ### Recent News
 
-  * [Apple expands Everyone Can Code program to half a million kids in Chicago schools](http://www.ilounge.com/index.php/news/comments/apple-expands-everyone-can-code-program-to-half-a-million-kids-in-chicago-s "Apple expands Everyone Can Code program to half a million kids in Chicago schools")
-  * [Report: Leaked bank documents show Apply Pay is coming to Brazil](http://www.ilounge.com/index.php/news/comments/bank-informs-customers-apply-pay-is-coming-to-brazil "Report: Leaked bank documents show Apply Pay is coming to Brazil")
-  * [Apple allows developers to make apps available for pre-order](http://www.ilounge.com/index.php/news/comments/apple-allows-developers-to-make-apps-available-for-pre-order "Apple allows developers to make apps available for pre-order")
-  * [Google releases experimental photo apps for iOS](http://www.ilounge.com/index.php/news/comments/google-releases-experimental-photos-apps-for-ios "Google releases experimental photo apps for iOS")
-  * [Report: Apple acquiring music recognition app Shazam (Update: Apple confirms)](http://www.ilounge.com/index.php/news/comments/report-apple-acquiring-music-recognition-app-shazam "Report: Apple acquiring music recognition app Shazam \(Update: Apple confirms\)")
+  * [Apple seeking to have four Qualcomm patents invalidated](http://www.ilounge.com/index.php/news/comments/apple-seeking-to-have-four-qualcomm-patents-invalidated "Apple seeking to have four Qualcomm patents invalidated")
+  * [Report: Apple actively seeking to phase out Lightning connector on future iPhones](http://www.ilounge.com/index.php/news/comments/report-apple-actively-seeking-to-phase-out-lightning-connector-on-future-ip "Report: Apple actively seeking to phase out Lightning connector on future iPhones")
+  * [Apple part of consortium working on Digital Car Key spec](http://www.ilounge.com/index.php/news/comments/apple-part-of-consortium-working-on-digital-car-key-spec "Apple part of consortium working on Digital Car Key spec")
+  * [AirPower to run stripped down version of iOS, now expected to arrive in September](http://www.ilounge.com/index.php/news/comments/airpower-to-run-stripped-down-version-of-ios-now-expected-to-arrive-in-sept "AirPower to run stripped down version of iOS, now expected to arrive in September")
+  * [Apple developing kids’ programming in partnership with Sesame Workshop](http://www.ilounge.com/index.php/news/comments/apple-developing-kids-programming-in-partnership-with-sesame-workshop "Apple developing kids’ programming in partnership with Sesame Workshop")
 
 
-  * [Apple trying to block shareholder votes on climate change, human rights](http://www.ilounge.com/index.php/news/comments/apple-trying-to-block-shareholder-votes-on-climate-change-human-rights "Apple trying to block shareholder votes on climate change, human rights")
-  * [Jony Ive returns to leadership position on Apple’s design team](http://www.ilounge.com/index.php/news/comments/jony-ive-returns-to-leadership-position-on-apples-design-team "Jony Ive returns to leadership position on Apple’s design team")
-  * [Apple provides look at how self-driving car technology handles pedestrians, rainy weather](http://www.ilounge.com/index.php/news/comments/apple-provides-look-at-self-driving-car-technology-handles-pedestrians-rain "Apple provides look at how self-driving car technology handles pedestrians, rainy weather")
-  * [Apple’s efforts to ban template-based apps pushing small businesses off App Store](http://www.ilounge.com/index.php/news/comments/apples-efforts-to-ban-template-based-apps-pushing-small-businesses-off-app "Apple’s efforts to ban template-based apps pushing small businesses off App Store")
-  * [iLounge Weekly coming Monday, sign up now](http://www.ilounge.com/index.php/news/comments/ilounge-weekly-coming-monday-sign-up-now "iLounge Weekly coming Monday, sign up now")
+  * [Apple Pay goes live in Norway, Poland; may be coming soon to Czech Republic](http://www.ilounge.com/index.php/news/comments/apple-pay-goes-live-in-norway-poland-may-be-coming-soon-to-czech-republic "Apple Pay goes live in Norway, Poland; may be coming soon to Czech Republic")
+  * [Kristen Wiig departs upcoming Apple comedy amidst scheduling conflicts](http://www.ilounge.com/index.php/news/comments/kristen-wiig-departs-upcoming-apple-comedy-amidst-scheduling-conflicts "Kristen Wiig departs upcoming Apple comedy amidst scheduling conflicts")
+  * [Apple releases second developers betas for iOS 12, tvOS 12](http://www.ilounge.com/index.php/news/comments/apple-releases-second-developers-betas-for-ios-12-tvos-12 "Apple releases second developers betas for iOS 12, tvOS 12")
+  * [Apple fined $9m in Australia over ‘Error 53’ bug](http://www.ilounge.com/index.php/news/comments/apple-fined-9m-in-australia-over-error-53-bug "Apple fined $9m in Australia over ‘Error 53’ bug")
+  * [U.S. Supreme Court to hear Apple appeal of App Store antirust case](http://www.ilounge.com/index.php/news/comments/u.s.-supreme-court-to-hear-apple-appeal-of-app-store-antirust-case "U.S. Supreme Court to hear Apple appeal of App Store antirust case")
 
 
 
 ### Recent Reviews
 
-  * [iHome iSP100 Outdoor Smart Plug](http://www.ilounge.com/index.php/reviews/entry/ihome-isp100-outdoor-smart-plug "iHome iSP100 Outdoor Smart Plug")
-  * [Shinola Canfield On-Ear Headphones](http://www.ilounge.com/index.php/reviews/entry/shinola-canfield-on-ear-headphones "Shinola Canfield On-Ear Headphones")
-  * [Hooke Verse Bluetooth Binaural 3D Audio Headphones](http://www.ilounge.com/index.php/reviews/entry/hooke-verse-bluetooth-binaural-3d-audio-headphones "Hooke Verse Bluetooth Binaural 3D Audio Headphones")
-  * [Belkin Pocket Power 5K Portable Power Bank](http://www.ilounge.com/index.php/reviews/entry/belkin-pocket-power-5k-portable-power-bank "Belkin Pocket Power 5K Portable Power Bank")
-  * [Bragi Dash Pro Wireless Earphones](http://www.ilounge.com/index.php/reviews/entry/bragi-dash-pro-wireless-earphones "Bragi Dash Pro Wireless Earphones")
+  * [Flexsound HuMu Augmented Audio Cushion](http://www.ilounge.com/index.php/reviews/entry/flexsound-humu-augmented-audio-cushion "Flexsound HuMu Augmented Audio Cushion")
+  * [Mophie Charge Stream Travel Kit with Charge Stream Pad Mini](http://www.ilounge.com/index.php/reviews/entry/mophie-charge-stream-travel-kit-with-charge-stream-pad-mini "Mophie Charge Stream Travel Kit with Charge Stream Pad Mini")
+  * [Focal Listen Wireless Chic On-Ear Headphones](http://www.ilounge.com/index.php/reviews/entry/focal-listen-wireless-chic-on-ear-headphones "Focal Listen Wireless Chic On-Ear Headphones")
+  * [Fiio X7 Mark II Digital Audio Player](http://www.ilounge.com/index.php/reviews/entry/fiio-x7-mark-ii-digital-audio-player "Fiio X7 Mark II Digital Audio Player")
+  * [Twelve South AirFly for Wireless Headphones](http://www.ilounge.com/index.php/reviews/entry/twelve-south-airfly "Twelve South AirFly for Wireless Headphones")
 
 
-  * [Sennheiser HD1 Wireless In-Ear Headphones](http://www.ilounge.com/index.php/reviews/entry/sennheiser-hd1-wireless-in-ear-headphones "Sennheiser HD1 Wireless In-Ear Headphones")
-  * [Etymotic ER20XS High-Fidelity Earplugs](http://www.ilounge.com/index.php/reviews/entry/etymotic-er20xs-high-fidelity-earplugs "Etymotic ER20XS High-Fidelity Earplugs")
-  * [Etymotic mk5 Isolator In-Ear Headphones](http://www.ilounge.com/index.php/reviews/entry/etymotic-mk5-isolator-in-ear-headphones "Etymotic mk5 Isolator In-Ear Headphones")
-  * [MartinLogan Forte Wireless Streaming Amplifier](http://www.ilounge.com/index.php/reviews/entry/martin-logan-forte-wireless-streaming-amplifier "MartinLogan Forte Wireless Streaming Amplifier")
-  * [Schiit Vidar Power Amplifier](http://www.ilounge.com/index.php/reviews/entry/schiit-vidar-power-amplifier "Schiit Vidar Power Amplifier")
+  * [Fiio Q5 DAC](http://www.ilounge.com/index.php/reviews/entry/fiio-q5-dac "Fiio Q5 DAC")
+  * [MyTek Liberty Digital-to-Analog Converter](http://www.ilounge.com/index.php/reviews/entry/mytek-liberty-digital-to-analog-converter "MyTek Liberty Digital-to-Analog Converter")
+  * [Nuheara IQbuds Boost](http://www.ilounge.com/index.php/reviews/entry/nuheara-iqbuds-boost "Nuheara IQbuds Boost")
+  * [Shinola Canfield Pro In-Ear Monitors](http://www.ilounge.com/index.php/reviews/entry/shinola-canfield-pro-in-ear-monitors "Shinola Canfield Pro In-Ear Monitors")
+  * [olloclip & Incase Limited Edition Filmer’s Kit](http://www.ilounge.com/index.php/reviews/entry/olloclip-incase-limited-edition-filmers-kit "olloclip & Incase Limited Edition Filmer’s Kit")
 
 
 
 ### Recent Articles
 
+  * [Sponsored: 8 iPhone and Apple Watch chargers that reduce clutter](http://www.ilounge.com/index.php/articles/comments/sponsored-8-iphone-and-apple-watch-chargers-that-reduce-clutter "Sponsored: 8 iPhone and Apple Watch chargers that reduce clutter")
+  * [Sponsored: 10 iPhone X Wireless Charging Stands & Docks](http://www.ilounge.com/index.php/articles/comments/sponsored-10-iphone-x-wireless-charging-stands-docks "Sponsored: 10 iPhone X Wireless Charging Stands & Docks")
   * [Instant Expert: Secrets & Features of iOS 11](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-ios-11 "Instant Expert: Secrets & Features of iOS 11")
   * [Inside the betas: watchOS 4.1 adds Apple Music streaming](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-watchos-4.1-adds-apple-music-streaming "Inside the betas: watchOS 4.1 adds Apple Music streaming")
   * [Instant Expert: Secrets & Features of watchOS 4](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-watchos-4 "Instant Expert: Secrets & Features of watchOS 4")
+
+
   * [Instant Expert: Secrets & Features of tvOS 11](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-tvos-11 "Instant Expert: Secrets & Features of tvOS 11")
   * [Instant Expert: Secrets & Features of iTunes 12.7](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-itunes-12.7 "Instant Expert: Secrets & Features of iTunes 12.7")
-
-
   * [Inside the betas: iOS 11 Control Center gets customizable, adds Screen Recording](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-ios-11-control-center-gets-customizable-adds-screen-record "Inside the betas: iOS 11 Control Center gets customizable, adds Screen Recording")
   * [Inside the betas: iOS 11 HomeKit adds timers, multi-person occupancy support](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-ios-11-homekit-adds-timers-multi-person-occupancy-support "Inside the betas: iOS 11 HomeKit adds timers, multi-person occupancy support")
   * [Inside the betas: tvOS 11 adds auto Dark Mode, iCloud Home Screen Sync](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-tvos-11-adds-auto-dark-mode-icloud-home-screen-sync "Inside the betas: tvOS 11 adds auto Dark Mode, iCloud Home Screen Sync")
-  * [Top Five: The Best Products for Building a Smart Home with HomeKit](http://www.ilounge.com/index.php/articles/comments/top-five-the-best-products-for-creating-a-smart-home-with-homekit "Top Five: The Best Products for Building a Smart Home with HomeKit")
-  * [Instant Expert: Secrets & Features of watchOS 3](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-watchos-3 "Instant Expert: Secrets & Features of watchOS 3")
 
 
