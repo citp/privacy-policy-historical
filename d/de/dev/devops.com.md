@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devops.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905055700id_/https%3A//devops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devops.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624220501id_/https%3A//devops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DevOps.com
 
@@ -59,7 +59,7 @@ You have a choice about and control over:
 
 **Receiving email marketing messages from us.**
 
-  * You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails. Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all DEVOPS.COM email marketing you may make a request to  [privacyrequests@DevOps.com.com](mailto:privacyrequests@ubm.com).
+  * You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails. Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all DEVOPS.COM email marketing you may make a request to  [privacyrequests@DevOps.com](mailto:privacyrequests@ubm.com).
   * Please note that you may receive email marketing messages from us about other companies’ offerings as part of a list rental or partner marketing programs – but only if you have given us permission to do so. We do not disclose your contact details to the partners, and we do not sell your data. You have the option of contacting the other company directly if you click on the links within the email. To opt out of our partner marketing programs, you may follow the instructions at the bottom of any email we send you as part of the program.
 
 
@@ -120,7 +120,7 @@ We will post and date any changes to this Privacy Policy. Please check here peri
 
 For questions about this Privacy Policy, please contact:
 
-[privacyrequests@DevOps.com.com](mailto:privacyrequests@ubm.com), or
+[privacyrequests@DevOps.com](mailto:privacyrequests@ubm.com), or
 
 **DEVOPS.COM**  
 Attn: DEVOPS.COM Legal  
