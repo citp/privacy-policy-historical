@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenextwomen.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219043157id_/http%3A//www.thenextwomen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenextwomen.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624072954id_/http%3A//www.thenextwomen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TheNextWomen
 
@@ -76,6 +76,6 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact us at: hello@thenextwomen.com
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact us at: info@thenextwomen.com
 
 Info Publishers B.V., De Lairessestraat 55, 1071NT Amsterdam
