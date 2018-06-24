@@ -1,64 +1,116 @@
-> *The following text is extracted and transformed from the trafficwave.net privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216131214id_/http%3A//www.trafficwave.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficwave.net privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624215748id_/http%3A//www.trafficwave.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy for TrafficWave.net.
+# TrafficWave.net Privacy Policy
 
-TrafficWave.net operates multiple web sites including trafficwave.net, mysearchsite.net, and ews2.com. All policies and statements in this privacy policy are intended to apply to all TrafficWave.net services. 
+## TrafficWave.net Privacy Policy
 
-TrafficWave.net is committed to protecting your privacy. 
+### What Does TrafficWave Do With My Information?
 
-TrafficWave.net will never willfully disclose personally identifiable information about its customers to any third party without first receiving that customer�s permission, unless necessary for legal reasons. 
+At TrafficWave.net. (referred throughout as “TrafficWave”, “We”, “Us” or “Our”), we respect your privacy and take protecting it seriously. This Privacy Policy covers our collection, use and disclosure of information we collect through our website and service, www.trafficwave.net owned and operated by Hamney Roobright, Inc. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which our Customers have engaged us. 
 
-Questions regarding this statement should be directed to admin@trafficwave.net. 
+Here's what we do - and, more importantly, don't do - with any information you provide us. 
 
-**What information does TrafficWave.net Collect?**   
-You don't need to provide any information in order to browse web sites in our network. 
+#### “I Am A Subscriber To An Email List Managed Through TrafficWave.net.”
 
-If you choose to subscribe to any of our services (become a member), you will be asked to provide the following information: name, company name, email address, credit card type, credit card number, credit card expiration date, name on card, billing address, city, state, country, zip code, phone number, and phone number. 
+Your email address, name and any other information you provide, such as address and phone number you provide to our Customers, are held in strict confidence. We only keep your information so that our Customer, whose email list you subscribed to, can email you. 
 
-We will NOT disclose, sell or exchange any member's personally identifiable information to or with anyone, without your approval. The only circumstances under which personally identifiable information about TrafficWave.net members will be shared in a manner inconsistent to that stated above is if we believe disclosure is reasonably necessary to: 
+We do not contact you. We do not sell or share your information with anyone else. 
 
-  * comply with the law or legal process; 
-  * protect or defend the rights or property of TrafficWave.net or others; 
-  * enforce our Terms of Service; or 
-  * respond to claims that the content of any communication on our network violates the rights of others. 
+We collect information under the direction of our Customers, and have no direct relationship with you, whose personal data we process. We work with our Customers to help them provide notice to their subscribers concerning the purpose for which personal information is collected. 
 
-If you complete any of our online forms (including forms on third party advertiser sites) requesting information regarding any of our offers or offers from any of our members, your information will be provided to our members. You will have the option to confirm or decline any offer sent to you by any of our members through our network by clicking on either an authorization link or a remove link. 
+If you are a subscriber of one of our Customers and would no longer like to be contacted by our Customer, please contact our Customer that you interact with directly. 
 
-Once you confirm any such offer the privacy policies and standards of our members will vary and may be significantly different from the policies posted here and in use by TrafficWave.net. 
+We acknowledge that you have the right to access, amend, or request the removal of your personal information at any time. To that end, you may use the links that are provided in the footer of each message sent via TrafficWave.net to accomplish this. In the event that you feel that your personal information was obtained and used in the TrafficWave.net system without your permission, you may indicate this concern within the same link used to request removal. 
 
-**How does TrafficWave.net use the information collected?**   
-We will aggregate member and visitor information and perform statistical analyses of the collective characteristics and behavior of our members and visitors, to measure overall demographics and interests regarding specific areas of our network and to analyze how and where to use our resources. We also use the aggregate data collected to inform our sponsors and members as to the number of people who have seen and "clicked" on their advertisement, requested further information, or have responded to any offer provided by our members via our network. In addition, TrafficWave.net may compile and disclose aggregate information about its visitors and members for promotional or other purposes. For example, we might want to disclose that a certain percentage of our members are located within a particular geographic area or fall within a particular age range. 
+An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data outside of the systems and networks controlled/managed by TrafficWave.net should direct his or her query to our Customer (the data controller). 
 
-**Does TrafficWave.net use cookies?**   
-TrafficWave.net uses both session cookies and persistent cookies (for an explanation of cookies, please see http://www.epic.org/privacy/internet/cookies/). Cookies help us determine how long visitors view particular content, which particular content (e.g., advertising) visitors view, which content or sites visitors link to, and which of our services members and visitors use. 
+TrafficWave.net exercises no control whatsoever over the content of the information passing through TrafficWave.net servers. All subscriber data generated by Customer are held in strict confidence. This data is never released by TrafficWave.net to any other parties for any purpose, and is only processed on TrafficWave.net's servers as required in the delivery of email message content provided and scheduled by our Customer, and to provide analytical feedback data such as open rates, click-through data, etc… 
 
-Persistent cookies are randomly generated and uniquely assigned to each visitor. They are not associated with any personally identifiable information such as name or password. 
+We will retain personal data we process on behalf of our Customers for as long as needed in order to provide services to our Customers. We will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-Session cookies help us keep track of when a person is logged in. Once a member is logged in, session cookies allow us to personalize information on our Web site for them, as well as keep track of areas to which they have membership privileges. 
+#### “I Am A TrafficWave Customer.”
 
-**How can I change or delete information about me stored at TrafficWave.net?**   
-As a registered TrafficWave.net member, you have easy access to your information, along with the ability to change it. And, you can always choose to unsubscribe from any services you've subscribed to at any of our sites. 
+All account information for our Customers is held in strict confidence. 
 
-To change personal information: Log in to your Members Area: 
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell or share your information with anyone. We only collect information like your name, email address, mailing address, phone number, and billing information so we can provide the email marketing services described on our website. 
 
-  * TrafficWave.net: http://www.trafficwave.net/login.html. From the menu on the left, click "Edit Profile". Make any changes you like to your member profile, and save them when you are done. 
+You will receive our regular training and support emails as part of our ongoing training and support. To opt out of these training and support emails, you will want to close your account from within your TrafficWave.net back office. 
 
-To terminate your TrafficWave.net services: You may terminate all of your TrafficWave.net subscriptions by clicking "Cancel Account" in our back office located at http://www.trafficwave.net/login.html . 
+##### Service Related Emails
 
+We may also send you service related email announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You do not have an option to opt out of these emails, which are not promotional in nature. 
 
-  
-**I am not a member. I am receiving emails from your members. How can I unsubscribe from email lists at TrafficWave.net?**   
-There are three ways to unsubscribe from TrafficWave.net lists:   
+##### Service Providers
 
+We use other third parties, such as a credit card processing company, to bill you for services. When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service. 
 
-  1. Use the unsubscribe link that appears at the bottom of every message you receive from any of our lists. Clicking the link automatically unsbuscribes you from the list your email came from AND provides the option to unsubscribe from any and all other lists on our network. Clicking this option will remove and ban your email address from future use in our network. 
-  2. Send an email message to admin@trafficwave.net with the words "UNSUBSCRIBE [youremail@email.com] from TrafficWave.net" in the subject line. Your address will be manually removed from our system within ten business days. 
-  3. Mail your request to our offices at TrafficWave.net, 330 Rayford Rd. PMB #312, Spring TX 77386. 
+##### Legal Disclaimer
 
-**How does TrafficWave.net protect the privacy of children?**   
-The TrafficWave.net services are not intended for use by anyone under the age of 18. However, as with any Web site, children can access all parts of the site which are accessible to the general public. See the "What information does TrafficWave.net collect?" section of this document for an explanation of what information is publicly accessible through the TrafficWave.net sites. 
+We reserve the right to disclose your personal information as required by law, such as to comply with a subpoena, bankruptcy proceedings or similar legal process, and when we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud and/or to comply with a judicial proceeding, court order, or legal process served on our website. 
 
-**Notification of Changes**   
-If TrafficWave.net intends to use your personally identifiable information in a manner different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect visitor or member information already stored in our database, we will post a prominent notice on our web site notifying visitors of the change. In some cases when we post such a notice we will also email users who have opted to receive communications from us notifying them of the changes in our privacy practices. 
+In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information. 
 
-If you have any questions or comments about this policy, please contact us. 
+##### Access To Personal Information
+
+Upon request we will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change in your back office or by contacting us at the address below. We will respond to your request within 30 days. 
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+##### Security
+
+The security of your personal information and our customers' information is important to us. When you enter sensitive information, such as login credentials and credit card information, we encrypt the transmission of that information using secure socket layer technology (SSL). 
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us directly. 
+
+#### “I Am Also A TrafficWave Affiliate...”
+
+Your name, address, phone and fax number, email address, tax ID number or SSN and any other information you provide are held in strict confidence. We collect this information only so we can generate your commission checks and meet United States federal tax requirements. We do not sell or share your information with anyone else. 
+
+#### What About Cookies and Other Tracking Technologies?
+
+##### What are Cookies?
+
+Cookies are small pieces of text sent by your web browser by our website. A cookie file is stored in your web browser and allows us, our partners, affiliates, and other service providers to recognize you and make your next visit easier and our service more useful to you. 
+
+##### How TrafficWave Uses Cookies
+
+We and our partners, affiliates, or analytics or services providers use technologies, such as cookies, beacons, tags, and scripts, to analyze trends, administer our website, tracking users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. All cookies contain coded fragments specific and useful only to the functionality of our internal systems. No discernible personal information or data can be directly extracted by others from any cookie generated by TrafficWave.net. 
+
+##### Your choices regarding TrafficWave cookies
+
+You can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited. If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser. 
+
+#### What About Log Files?
+
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and clickstream data. 
+
+We use this information to analyze trends, administer our website, track visitors' movements around our website, and gather demographic information about our visitors as a whole. We do link this automatically collected data to other information we collect about our website visitors. 
+
+#### Testimonials
+
+We post customer testimonials on our website, which may contain personal information. We do obtain our customers' consent to post their name along with their testimonial via email prior to posting the testimonial on our website. However, if you wish to request the removal of your testimonial, please contact us. 
+
+#### Social Media Features
+
+Our website includes social media features, such as the Facebook “Like” button. These features may collect your IP address and the page you are visiting on our website. It may also set a cookie to enable the features to function properly. Social media features are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it. 
+
+#### Notification Of Privacy Policy Changes
+
+We may update our privacy policy to reflect changes to our information practices. If we make any material changes, we will notify you or our customer by email (sent to the email address specified in your account) or by means of a notice on our website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+#### Links To Other Sites
+
+Our website includes links to other websites whose privacy practices may differ from ours. If you submit personal information to any of those websites, your information is governed by their privacy policies. We encourages you to carefully read the privacy policy of any website you visit. This privacy policy applies only to information collected by our website. 
+
+#### Public Forums
+
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.. Contact Us 
+
+#####  If you have any questions or suggestions regarding our privacy policy, please contact us via email at admin@trafficwave.net or via postal mail at 
+
+Hamney Roobright, Inc.  
+330 Rayford Rd PMB 312  
+Spring TX 77386  
+admin@trafficwave.net 
+
+_This policy was last updated on May 24, 2018 and supersedes all previous versions._
