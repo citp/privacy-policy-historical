@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splicetoday.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910054150id_/https%3A//www.splicetoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splicetoday.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624135144id_/https%3A//www.splicetoday.com/privacy) for the most accurate reproduction.*
 
 # Splice Today | www.splicetoday.com
 
