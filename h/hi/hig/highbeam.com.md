@@ -1,73 +1,79 @@
-> *The following text is extracted and transformed from the highbeam.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530082152id_/https%3A//www.highbeam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highbeam.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624202452id_/https%3A//www.cengage.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | HighBeam Research
+# Privacy - Cengage
 
-HighBeam® Research, Inc. (“HighBeam” or “we”) respects the privacy of our users, and we want you to be aware of how we use information that we have collected from and about you. By coming to [www.highbeam.com](http://www.highbeam.com/) or [www.encyclopedia.com](http://www.encyclopedia.com/) (the HighBeam websites), you are agreeing to and accepting this Privacy Policy as well as the Terms and Conditions and other end user agreements governing our services. Because the Internet is a rapidly evolving medium, and enhancements to the services we provide may affect the information that we collect and the manner that we use it, the Privacy Policy may change from time to time. If it does, we will post the revised policy on the HighBeam websites, with an indication of the date of the most recent revisions.
+##    
+Cengage is Committed to Respecting your Privacy
 
-You should be aware that this Privacy Policy applies only to the HighBeam websites. Any websites linked to from the HighBeam site, an advertisement or an article displayed on the site are governed by their own privacy policies.
+We have a Global Privacy Policy that has been implemented across all Cengage Learning Companies, that protects all the Personal Information we receive from you as well as information we receive from schools and other third parties. It protects information collected online as well as offline.
 
-##  What personally identifiable information do I provide to HighBeam, and how does HighBeam use it?
+This Program and Policy set the standards for Cengage both as a Controller (for its own data) and as a Processor (for its clients).  Additionally, we have updated our Privacy Program controls to address new requirements under GDPR. For more information, please read our complete Notice, linked to below or contact [privacy@cengage.com](mailto:privacy@cengage.com).
 
-  * Personally identifiable information refers to any information that identifies or can be used to identify, contact or locate you. HighBeam collects only the personally identifiable information that you provide to us if you register for membership on the HighBeam site, such as your name, mailing address, telephone number and email address. If you are a Full Member of the HighBeam site, this also includes your credit card and related information.
-  * HighBeam uses your personally identifiable information to bill you in accordance with the [user agreement](https://web.archive.org/terms-and-conditions) and to communicate with you regarding your account. These communications may include, without limitation, notices regarding material changes to HighBeam site policies, service updates, service enhancements, account management procedures and Customer Service transactional replies. Since these communications are necessary to ensure we provide our members with the highest quality of services, our members are not permitted to opt out from receipt of these communications.
-  * HighBeam may also use personally identifiable information to email you newsletters or tips about how to use the service, inform you of product updates, or notify you about our own special offers or those of our third-party partners. You may choose at any time to opt out of receiving some or all of these communications by so indicating in the "[Privacy Preferences](https://web.archive.org/login)" section of the website or by using the unsubscribe link on any email message you receive.
-  * We may also engage in co-registration programs with our partners in which situations both our partners and we will be able to communicate with you and use demographic data about you. You will have the option to opt out of receiving these messages in the "[Privacy Preferences](https://web.archive.org/login)" section of the website.
-  * HighBeam does not associate your personally identifiable information with information about your use of the website. 
+If you are an educator, parent, or student, Cengage Learning is a service provider to your school or organization; please reach out to the appropriate contact at your school or organization with questions or inquiries. This notice does not cover other organizations' sites that may be accessible via links on our sites. These sites have their own privacy policies and we encourage you to read them.
 
+We also want our privacy practices to be very clear, so you can interact with us in confidence. The statements and links below may answer your questions about how we handle your Personal Information. For a complete notice, view the [Cengage Privacy Notice](http://www.cengage.com/privacy/statement). If you have any other questions, please contact us.
 
+{{formPostErrorMessage.message}} [{{formPostErrorMessage.code}}] 
 
-##  What other information is collected about me on the HighBeam site and by whom?
+##  Privacy Program Highlights 
 
-  * Like most websites, HighBeam employs cookies to recognize you and your access privileges on the HighBeam site. A cookie is a small piece of information that a website can store in a designated file on your computer. When you visit a site, that site can access only the information which it stored in your cookie – not information put on your computer by other Web-based services. HighBeam's cookie does not store any of your personally identifiable information.
-  * HighBeam maintains internal logs of member and visitor use of the HighBeam site. Logs include information such as IP address, browser type and version, and computer operating system. HighBeam uses logs mainly for systems administration and diagnostic purposes, and to detect improper use of the site. Logs may also be used to generate aggregate, non-personally identifiable information for advertisers or other third parties.
-  * HighBeam also contracts with third parties to help us understand how people use our website and to provide functionalities such as email distribution, ad serving and customer surveys. These companies also use cookies. They may also use other tracking technologies, such as Web beacons (also known as clear GIFs, Web bugs, tracking pixels or action tags), which are similar in function to cookies, allowing them to determine when users have reached particular Web pages on the HighBeam site.
-  * Cookies and Web beacons allow HighBeam and its third-party service providers to collect and analyze aggregate information about how its website is used, including tracking website usage categorized by non-personally identifiable information such as user age, profession, or place of residence.
-  * HighBeam does not use cookies, Web beacons, its internal logs or any other technologies to associate your personally identifiable information with information about your use of the site.
-  * HighBeam is currently using and has contracted with Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our members and visitors (e.g., percentage of our site’s users who live in particular countries or fall into various age ranges). This helps us administer our website and constantly improve the quality of the services that we offer you. All data collected by Omniture on behalf of HighBeam is owned and used by HighBeam. HighBeam reserves the right to publish non-personally identifiable, summary information regarding its website members and visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personally identifiable information, only summaries of the activities or broad characteristics of our members and visitors.
-  * Omniture uses cookies and Web beacons to help track visitor behavior and sets cookies on behalf of HighBeam which will be listed under the domain 2O7.net. For more information about Omniture's privacy policy, including how to opt out, go to <http://www.omniture.com/en/privacy>.
-  * We sell advertising on our site in order to provide parts of our service for free and at a more affordable price for paying customers. In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser. Most of the advertisements appearing on this website are delivered to you by DoubleClick, our Web advertising partner. Information about your visit, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you.
-  * We partner with data service networks, which use general information about the types of sites you visit and other non-personally identifiable information about you in order to deliver advertisements to you, on the HighBeam websites and third-party websites, for goods and services that may be of particular interest. To opt out of third-party advertising cookies, visit <http://www.networkadvertising.org/managing/opt_out.asp>. Please be aware that if you opt out of allowing our Web advertising partners to collect this information, you may not be able to use certain parts of the site or have access to certain functions.
+**We do not allow any children under 13 to register with Cengage, and we do not knowingly collect or use any Personal Information pertaining to children under 13 for our own purposes.**  If you believe that a child under 13 years of age has provided Personal Information to us, please contact [privacy@cengage.com](mailto:privacy@cengage.com) so that we may delete the information and take other appropriate steps to the protect the child.
 
+We have websites that enable parents and teachers to create accounts for children. We encourage parents and teachers to spend time online with children and to monitor their online activities.
 
+_We also provide digital products for use by children in K-12 schools, sometimes done  through LMS integrations, but we only collect and process information pertaining to these children as a processor for the educational institutions.  We do not use identifiable K-12 student information for our own purposes.  Additionally, many student records are protected by the Family and Educational Rights Privacy Act (FERPA). For information on your K-12 school’s privacy policies, please contact the administration._
 
-##  How is my personally identifiable information or site usage data used?
+The [Cengage Privacy Notice](http://www.cengage.com/privacy/statement) describes how we handle the Personal Information we collect from college and higher-ed students, adult learners and others who register with Cengage and use our products for their own educational purposes. Here are the highlights of our practices:
 
-  * HighBeam may share your personally identifiable information with others under the types of circumstances described in this Privacy Policy. We also reserve the right to assign, sell, license, or otherwise transfer to a third party your personally identifiable information in connection with an assignment, sale, joint venture, or other transfer of all or substantially all of our assets.
-  * If you make a purchase by credit card or otherwise provide your credit card information, the relevant data will be securely transmitted to HighBeam's vendor providing such payment processing service. Similarly, if you are using a co-branded site of HighBeam and at least one other third party (indicated by the inclusion of another party's name or product/service name either in the URL or site or by the inclusion of a third party's logos or trademarks in the site), your personally identifiable information may be used by HighBeam pursuant to this Privacy Policy and by the other party pursuant to its privacy policy. Such third party will be authorized to use this information in keeping with our contractual relationship with them and in accordance with its own privacy policy and information practices. We do not control these third parties and you agree that HighBeam is not liable for their acts, or any failure to act, on their part.
-  * We may make personally identifiable information available publicly without your prior written or electronic consent as required by law, court order, or as requested by other government or law enforcement authority.
-  * Advertisements, promotional offers, promotional emails, newsletters, "free gifts," and links, for example, on the HighBeam site or sent via email or other means from HighBeam may ask for personally identifiable information from you. If you provide this information, your personally identifiable information may be provided (either directly from you or by HighBeam) to the advertiser or website or company making the offer or providing the gift. This Privacy Policy does not cover the privacy and information practices of those advertisers or websites linked to the HighBeam site.
-  * HighBeam may use other companies and persons to perform certain functions for us. These functions might include, for example, processing credit card payments, providing Customer Service, and sending email. These other companies and persons may have access to customer information (such as personally identifiable information) that's needed to perform their functions, but they are not authorized to use it for any other purposes. In addition, we may share information with other affiliated companies and joint ventures.
-  * We may use and/or distribute information about you and your use of the HighBeam site in ways that do not identify you individually or reveal your identity.
-  * Demographic information provided by you may be used, among other things, to tailor your user experience at the HighBeam site, distribute and show you content that we think you might be interested in, and display site content according to your preferences.
+  * We collect Personal Information directly from you and other third parties (such as social media platforms, if you login to our applications from these sites).  We also collect information automatically when you use our products and applications. We use your Personal Information to provide you with the products and services and for related purposes (such as billing, customer service and product development). Depending on your preferences, we may send you marketing communications, including messages from our partners. You can opt-out of receiving marketing from us at any time by following the opt-in instructions contained in each communication.
+  * We may share your Personal Information with your school. For example, your instructors have access to all of the information generated by your use of the products you use for class. We may also provide Personal Information to your school as needed to investigate possible academic fraud or cheating. Your school uses your Personal Information in accordance with its own privacy policies.
+  * We may share your Personal Information with co-branding partners and other third parties with your consent. For example, you may use third-party apps via MindTap or MyCengage that provide services and features offered by third parties.
+  * We may share your Personal information with carefully selected third parties that provide products and services that may be of interest to you. For example, we may share information about pre-med students with companies that offer test prep services for medical school admissions.  If you do not want us to share your Personal Information with these third parties for their own marketing purposes, you can opt-out by contacting our Customer Service department by email at: [cengagebrain.support@cengage.com](mailto:cengagebrain.support@cengage.com) or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET).
+  * We may also share your Personal Information with other Cengage companies, our service providers (who do not use your information for their own purposes) and as required or permitted by law (such as in response to a subpoena or in connection with the sale of a business).
+  * If you have any questions about privacy, you can always contact us at [privacy@cengage.com](mailto:privacy@cengage.com).
 
 
 
-##  How secure is my personal information?
 
-We are very concerned about the security of customer data. We store your information securely, using industry-compliant encryption technology.
+The [Cengage Privacy Notice](http://www.cengage.com/privacy/statement) describes how we handle the Personal Information we collect from teachers, instructors, school administrators, authors, editors, contributors and other educational professionals.  Here are the highlights of our practices:
 
-##  How can I “opt out” of having my information collected or shared?
-
-  * As part of our registration process, we give you important choices about receiving HighBeam Research special offers, newsletters, product updates, research tips and special third-party promotions. To simplify the process, we have automatically checked the opt-in box for you. You have the option of unchecking the boxes for the types of communications you do not want to receive from us. If you do not opt-out from receiving these communications about our site or third-party sites, we will send them to you. If you do not opt-out during registration, but later change your mind, you can update your [privacy preferences](https://web.archive.org/login) or you can click on the unsubscribe link in the emails you receive from us.
-
-
-
-##  How will I know when there are changes to this Privacy Policy?
-
-  * This Privacy Policy is subject to modification from time to time at HighBeam's discretion. All changes will be incorporated into the written policy and posted on the privacy policy pages of the HighBeam websites. The date of last revision to the policy is indicated at the bottom of the document.
+  * We collect Personal Information directly from you as well as from your school and other third parties (such as social media platforms, if you login to our applications from these sites).  We also collect information automatically when you use our products and applications.
+  * We use your Personal Information to provide you with the products and services and for related purposes (such as billing, customer service and product development).
+  * Depending on your preferences, we may send you marketing communications, including messages from our partners. You can opt-out of receiving marketing from us at any time by following the opt-in instructions contained in each communication.
+  * We may share your Personal Information with your school or company. For example, we provide our institutional clients with reports about how their instructors (and their students) use our products, including information that compares instructors within an organization.
+  * We may share your Personal Information with co-branding partners and other third parties with your consent. For example, you may use third-party apps via MindTap or MyCengage that provide services and features offered by third parties. We may share your Personal Information with carefully-selected third parties that provide products and services that may be of interest to you.  For example, we may provide subscriber lists containing your contact information with other publishers that offer products or services to educational professionals. If you do not want us to share your information with these third parties for their own marketing, you can opt-out by contacting our Customer Service department by email at: [cengagebrain.support@cengage.com](mailto:cengagebrain.support@cengage.com) or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET).
+  * We may share your Personal Information with other Cengage companies, our service providers and as required or permitted by law (such as in response to a subpoena or in connection with the sale of a business).
+  * If you have any questions about privacy, you can always contact us at [privacy@cengage.com](mailto:privacy@cengage.com).
 
 
 
-##  What if I have questions that are not answered here?
+##  Additional Privacy Program Information 
 
-If you have questions, please contact:
+#### Privacy Statement for Hosted School Websites
 
-**Cengage Learning**   
-Attention: General Counsel   
-1 North State Street   
-Suite 900   
-Chicago, IL 60602 
+Certain Cengage businesses, like Ed2Go, administer websites that provide course materials and services for educational institutions and companies. Information collected on these websites is only used by us to support our clients and provide the services requested by the course instructors. We do not use this information for our own purposes. Most educational institution student course records are also protected by the Family and Educational Rights Privacy Act (FERPA). For information on your company or school's privacy policies, please contact the administration.
 
-[Or, use this form](https://web.archive.org/contact-us).
+Our hosted websites may offer students and professionals the opportunity to interact directly with Cengage Learning.  If so, the [Cengage  Privacy Notice](http://www.cengage.com/privacy/statement) **** will apply to that information.
 
-Last Update: November 23, 2010
+#### Social Security Number Policy Statement
+
+Cengage, Inc. and its affiliates collect U.S. Social Security numbers and other sensitive Personal Information in the ordinary course of its business. We have implemented reasonable technical, physical and administrative safeguards to help protect sensitive Personal Information from unlawful use and unauthorized disclosure. All Cengage workers are required to follow these established safeguards, which include the following:
+
+  * Access to sensitive Personal Information is limited to those workers and service providers who have a need to access the information to perform tasks for Cengage. Sensitive Personal Information is only disclosed to third parties in accordance with Cengage's established privacy and security policy.
+  * Cengage will only disclose sensitive Personal Information (1) to those service providers, auditors, advisors and/or successors in interest who are legally or contractually obligated to protect them, or (2) as required or permitted by law.
+
+
+
+If you have any questions, please contact us at [privacy@cengage.com.](mailto:privacy@cengage.com)
+
+#### Your California Privacy Rights
+
+California Civil Code Section 1798 allows California residents to ask companies with whom they have an established business relationship to provide certain information about the companies’ sharing of Personal Information with third parties for direct marketing purposes.
+
+California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices may contact us at [privacy@cengage.com](mailto:privacy@cengage.com) or by writing to:
+
+  
+Cengage, Inc.  
+Privacy Office  
+20 Channel Center  
+Boston MA 02210
