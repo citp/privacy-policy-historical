@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231154318id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624121554id_/https%3A//ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
 
-# North Carolina General Assembly - Privacy Statement
+# North Carolina General Assembly
+
+Privacy Statement
+
+  
+
 
 **Use of Information:
 
@@ -42,3 +47,6 @@ If you send us e-mail with a question or comment, we will use your e-mail addres
 
 **Length of Time Data Will Be Stored:**  
 Unless you request that we delete any of the information you submitted when you registered for any electronic updates and/or newsletters we may offer, we will store such information indefinitely. 
+
+|   
+---|---
