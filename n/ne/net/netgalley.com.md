@@ -1,71 +1,187 @@
-> *The following text is extracted and transformed from the netgalley.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119075516id_/https%3A//www.netgalley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgalley.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624145819id_/https%3A//www.netgalley.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NetGalley
 
-## Introduction
+##### _This is our updated Privacy Policy going into effect on May 22, 2018._
 
-NetGalley LLC is committed to respecting the privacy of the individuals who use this website (the "Website"). Accordingly, this policy (the "Policy") informs you about NetGalley LLC's practices with regard to the collection of information about you. More specifically, this Policy describes the kinds of information, including Personally Identifiable Information (defined below), that NetGalley LLC may gather during your visit to the Website, why such information is gathered, how it is used, when it might be disclosed, and what you can do if you disagree with the practices described in the Policy.
+### _Your privacy is critically important to us. At NetGalley, we have a few fundamental principles:_
 
-If you have questions about this Policy, or you don't see your concerns addressed here, then please see the Questions and Changes to Your Information section at the end of the Policy.
+  * We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.
+  * We store personal information for only as long as we have a reason to keep it.
+  * We aim to make it as simple as possible for you to control what information in your account is shared publicly (or kept private), indexed by search engines, and permanently deleted.
+  * We aim for full transparency on how we gather, use, and share your personal information.
 
-You understand and agree that by visiting the Website, you are accepting the terms of this Policy. Please keep in mind that from time to time, NetGalley LLC may modify or amend the terms of this Policy. Because this Policy creates a binding contract between you and NetGalley LLC, NetGalley LLC recommends that you bookmark this page and review it regularly to ensure you are in compliance therewith.
 
-Capitalized words used, but not defined, in this Policy, will have the meanings set forth in the [Terms of Use](https://web.archive.org/terms). 
 
-## Information Collected
+##### Below is NetGalley’s privacy policy, which incorporates and clarifies these principles.
 
-One of the basic principles that NetGalley LLC has followed in designing this Website is that NetGalley LLC asks for only the information it needs to provide the service(s) that you have requested. As a result, the information that NetGalley LLC collects about you depends almost entirely on how you choose to use the Website and NetGalley LLC's services.
+## Name of the controller:
 
-## Personally Identifiable Information
+NetGalley LLC (Limited Liability Company)
 
-Except as otherwise disclosed to you in this Policy, NetGalley LLC will not sell, barter, give away, or rent information that identifies you individually ("Personally Identifiable Information") to another entity. Under certain circumstances, NetGalley LLC may collect your Personally Identifiable Information. For example, if you are an Authorized User who has completed a registration form, NetGalley LLC may collect and store some or all of the following information: name, address, company name, email address, and website address(es), if any. NetGalley LLC uses this information to provide the services that you have requested. NetGalley LLC may use this information to send you email about its services unless you opt out at the time of registration or otherwise by contacting us using the information provided in the Questions and Changes to Your Information section at the end of this Policy. NetGalley LLC may use this information to allow other community members and users to email you. If you are an Authorized User, then NetGalley LLC may share your Personally Identifiable Information with the Client who has authorized your access to Confidential Content in Secure Areas.
+## Chief Executive Officer:
 
-## Anonymous Information
+Francis P. Toolan, Jr.
 
-NetGalley LLC may also gather certain information that does not identify you personally ("Anonymous Information"). NetGalley LLC may, for example, automatically collect your IP address, browser information, and site-domain name every time you visit this Website. NetGalley LLC may also collect record and collect data regarding customer-traffic patterns and Website usage. NetGalley LLC uses Anonymous Information to edit and personalize the Website and for other purposes. For example, to make the Website more relevant to users, NetGalley LLC might show to authors certain products and advertisements relating to them. Publishers might receive information about other advertisements and products. Additionally, NetGalley LLC may share Anonymous Information in ways that it deems appropriate or necessary such as sharing demographic information with advertisers or business partners.
+## Address of the controller:
 
-## Use of Cookies and Spyware
+NetGalley LLC (Limited Liability Company)  
+44 Merrimac St. Newburyport, MA 01950  
+USA  
+E-Mail: info@netgalley.com 
 
-NetGalley LLC does not install spyware on your computer. Nor does it use spyware to retrieve information from your computer. Like many Websites, this Website uses "cookies," which are files that a browser stores on a computer hard drive for purposes such as notifying a Web site that a particular user has returned. Most browsers accept cookies automatically but allow you to disable them. If your browser does not accept cookies, you can still view the Website and may, as applicable, make a purchase. For an optimal Website experience, however, NetGalley LLC recommends that your browser be configured to accept cookies.
+## Data Protection Officer (shown below as “DPO”) under the EU GDPR:
 
-## Third Party Agents
+Michael Vogelbacher  
+consileo GmbH & Co. KG  
+Bahnhofstr. 5  
+53572 Unkel  
+Germany  
+GDPRCompliance@netgalley.com 
 
-NetGalley LLC occasionally employs third-party agents, affiliates, and partners who perform on its behalf functions such as marketing, analytics, credit-card processing, shipping or stocking orders, providing customer service, and programming this Website. These people or entities may have access to your Personally Identifiable Information as strictly needed to perform their functions and will be contractually obligated to maintain the confidentiality and security of such information.
+## Purpose and data minimisation
 
-## Emergency Situations
+NetGalley is an innovative and easy-to-use online service and connection point for book publishers, reviewers, media, librarians, booksellers, bloggers and educators. We offer digital galleys, often called advance reading copies, or ARCs, to professional readers and helps promote new and upcoming titles. We collect and use your personal only within the framework of the European Union General Data Protection Regulation (EU GDPR) and the legislation of the United Kingdom related to data protection.
 
-NetGalley LLC may disclose Personally Identifiable Information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to applicable law or comply with legal process served on NetGalley LLC or the Website; (b) protect and defend NetGalley LLC's rights, property, Website, or users of the Website; (c) act under emergency circumstances to protect the personal safety of NetGalley LLC, its affiliates, agents, business partners or users of the Website.
+## What This Policy Covers
 
-## Children
+This Privacy Policy applies to information on the nature, extent and purpose of the personal data that we collect and use. Data is not processed for reasons other than those specified below. You can access this Policy anytime on this website.
 
-This Website is not intended for children. If you are under eighteen years of age, please exit this Website immediately.
+Throughout this Privacy Policy we’ll refer to our website and other products and services collectively as “Services.”
+
+Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.
+
+Please note that this Privacy Policy does not apply to any of our products or services that have a separate privacy policy.
+
+If you have any questions about this Privacy Policy, please [contact us](mailto:gdprcompliance@netgalley.com).
+
+### Information We Collect
+
+We only collect information about you if we have a reason to do so–for example, to provide our Services, to communicate with you, or to make our Services better.
+
+We collect information in three ways: if and when you provide information to us, automatically through operating our services, and from outside sources. Let’s go over the information that we collect.
+
+##### _Information You Provide to Us_
+
+It’s probably no surprise that we collect information that you provide to us. The amount and type of information depends on the context and how we use the information. 
+
+  * Basic Account Information: We ask for basic information from you in order to set up your account. This information includes personal data such as your first and last name, organisation, email address, birthday, your home country.
+  * A Note about Children: NetGalley is not intended for Children (anyone under 18 years of age). That is why we collect your birthday. If you are under 18 years of age, we ask that you delete your account, or contact us to do so.
+  * Public Profile Information: You may provide us with more information–like your biography, your photo, or certain preferences and affiliations–but we don’t require that information to create your account. If you have an account with us, we collect the information that you provide for your public profile. Your public profile is just that–public–so please keep that in mind when deciding what information you would like to include.
+
+
+
+If you have an account with us, you can choose not to provide the optional account information, and profile information. Please keep in mind that if you do not provide this information, certain features of our Services–for example, your ability to request books–may not be accessible.
+
+  * Content Information: Depending on the Services you use, you may also provide us with information about you in the draft and published content of your reviews and feedback. This might be obvious to you…but it’s not to everyone!
+  * Communications with Us: You may also provide us information when you respond to surveys or communicate with our concierge staff about a support question.
+
+
+
+##### _Information We Collect Automatically_
+
+We also collect some information automatically:
+
+  * Log Information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We store this data separately other data you enter when you use our Services. This information cannot be connected to a specific person. It will be analysed for statistical purposes and subsequently be deleted. We collect log information when you use our Services–for example, when you request a book from a publisher on NetGalley.
+  * Usage Information: We collect information about your usage of our Services. For example, we collect information about the actions that site administrators and members perform on a site–in other words, who did what, when and to what thing on a site. We also collect information about what happens when you use our Services (e.g., page views, support document searches, etc.) along with information about your device (e.g., mobile screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, as well as get insights on how people use our Services, so we can make our Services better.
+  * Location Information: We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. 
+  * Information from Cookies & Other Technologies: A cookie is a string of information that a website stores on a visitor’s computer or mobile device, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and e-mails. NetGalley uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand e-mail campaign effectiveness and to deliver targeted ads. At this time, NetGalley does not respond to “do not track” signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using NetGalley’s website, with the drawback that certain features of NetGalley’s website may not function properly without the aid of cookies.
+  * A Note about Spyware: NetGalley LLC does not install spyware on your computer. Nor does it use spyware to retrieve information from your computer.
+
+
+
+##### _Information We Collect from Other Sources_
+
+We may also get information about you from other sources. For example, if you create or log into your NetGalley account through another service (like Google) or if you connect your website or account to a social media service (like Twitter), we will receive information from that service (such as your username, basic profile information, and friends list) via the authorisation procedures used by that service. The information we receive depends on which services you authorise and any options that are available.
+
+We may also get information from third party services about individuals who are not yet our members (…but we hope will be!), which we may use, for example, for marketing and advertising purposes.
+
+## Data subjects and categories
+
+Data subjects include clients, website users, suppliers and business partners as well as staff members. Data categories include first and last name, and if necessary, your address, IP and payment details.
+
+## How We Use Information
+
+We use information about you as mentioned above and as follows:
+
+  * To provide our Services–for example, to set up and maintain your account; 
+  * To supply Publishers-so that they may process your requests for their books
+  * To further develop our Services–for example by adding new features that we think our members will enjoy or will help them to create and manage their accounts more efficiently;
+  * To monitor and analyse trends and better understand how members interact with our Services, which helps us improve our Services and make them easier to use;
+  * To monitor and protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of NetGalley and others;
+  * To communicate with you about offers and promotions offered by NetGalley and others we think will be of interest to you, solicit your feedback, or keep you up to date on NetGalley and our products; and
+  * To personalise your experience using our Services, provide content recommendations and serve relevant advertisements.
+
+
+
+## Data protection declaration for the use of Google Analytics as a web analysis tool
+
+This website uses Google Analytics, a web analysis service of Google Inc. (“Google”, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA). The information about your visit produced by cookies are transmitted to a Google Server in the United States and stored there. In case of IP-anonymisation on our website, your IP address is shorted by Google within EU members States or other contracting States of the European Economic Area prior to transmission.
+
+In exceptional cases, the full IP address is transmitted to a Google Server in the US and shorted there. Google will use this information to assess your use of the website, compile reports on website activities and render other services connected to website and internet use. The IP address transmitted by your browser within the service of google Analytics will not be connected to other Google data. 
+
+You can prevent the collection and processing of the data generated by this cookie and related to your use of the website to and by Google by downloading and installing the browser plugin available via this link: <http://tools.google.com/dlpage/gaoptout?hl=en>
+
+## Sharing Information
+
+##### _How We Share Information_
+
+We do not sell our members’ private personal information.
+
+We share information about you in the limited circumstances spelled out below and with appropriate safeguards on your privacy. In all cases below, we only share the minimum information necessary. For example, we won’t share your username, or password, or your personal Kindle email address with a Third Party Vendor, or Publisher.
+
+  * Subsidiaries, Employees, and Independent Contractors: We may disclose information about you to our subsidiaries, our employees, and individuals who are our independent contractors that need to know the information in order to help us provide our Services or to process the information on our behalf. We require our subsidiaries, employees, and independent contractors to follow this Privacy Policy for personal information that we share with them.
+  * Third Party Vendors: We may share information about you with third party vendors who need to know information about you in order to provide their services to us. This group includes vendors that help us provide our Services to you (like bulk email service providers) and those that help us understand and enhance our Services (like analytics providers). We require vendors to agree to privacy commitments in order to share information with them.
+  * Publishers: We will share information about you to the book publishers who approve or deny requests you make of them. We require that our publisher customers treat your personal information as confidential. 
+  * As Required by Law: We may disclose information about you in response to a subpoena, court order, or other governmental request. For more information on how we respond to requests for information about NetGalley members, please see our [Legal Guidelines](https://netgalley.zendesk.com/hc/en-us/articles/360001182374).
+  * To Protect Rights and Property: We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of NetGalley, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we may disclose information related to the emergency without delay.
+  * Business Transfers: In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the unlikely event that NetGalley goes out of business or enters bankruptcy, member information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
+  * With Your Consent: We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties with which you authorise us to do so, such as the social media services that you connect to your site through our social sharing feature (see below).
+  * Aggregated and De-Identified Information: We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services.
+  * Published Support Requests: And if you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request in order to help us clarify or respond to your request or to help us support other members.
+
+
+
+##### _Information Shared Publicly_
+
+Information that you choose to make public is–you guessed it–disclosed publicly. That means, of course, that information like your public profile, reviews, other content that you make public on the NetGalley website, and your “likes” and comments on other websites that use our Services, are all available to others–and we hope you get a lot of views! We provide a “Firehose” stream of public data (like reviews) from sites that use our Services to provide that data to subscribers, who may view and analyse and republish the content. Public information may also be indexed by search engines or used by third parties. Please keep all of this in mind when deciding what you would like to share.
+
+## Use of Social Plugins
+
+We’re using so-called Social Plugins (Plugins) in order to participate in social networks with social media content:
+
+##### Privacy Policy for the use of Facebook (Like button)
+
+Our website integrates plugins of the social network Facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA. You will recognize the Facebook plugins from the Facebook Logo or the “Like button” or maybe even content about our Facebook presence on the right side of our website. You may find an overview on Facebook plugins here: <http://developers.facebook.com/docs/plugins>.
+
+When you visit our website, a direct connection is made via the plugin between your browser and the Facebook server. From your IP address, Facebook thus receives the information that you’ve been visiting our website. When you click on the Facebook “like” button or on a Facebook content while logged into your Facebook account, you can link our website’s contents to your Facebook profile. This also means that Facebook can then connect your Facebook account to your visit on our website. Please note that as the owner of this website, we will not receive any information of the content of transmitted data or their use from Facebook. You can get more information on this from Facebook’s Privacy Policy here: <https://www.facebook.com/policy.php>
+
+##### Privacy Policy for the use of Twitter
+
+This website also uses Twitter plugins. These are operated by Twitter Inc. (795 Folsom St., Suite 600, San Francisco, CA 94107, USA). When you’re visiting a site using such a plugin, which you may recognize from the Twitter bird, the logo or embedded tweets, a direct connection is made via the plugin between your browser and the Twitter servers. We don’t have any influence on the nature and extent of data the plugin transmits to the Twitter servers. According to Twitter, only your IP address is collected and stored. You can find more information on the use of personal data by Twitter here: <https://twitter.com/privacy?lang=en>
 
 ## Security
 
-NetGalley LLC strives to ensure that the Personally Identifiable Information you share with it is handled in a safe, secure, and responsible manner. Nevertheless, no security measures are absolute, and there is always a possibility that a security breach could occur.
+While no online service is 100% secure, we work very hard to protect information about you against unauthorised access, use, alteration, or destruction, and take reasonable measures to do so. 
 
-## Linking to Other Websites
+## Rights
 
-This Website may contain links to other websites through advertisements or other links. The practices described in this Policy do not apply to information gathered through such other websites. These other websites may send their own cookies to you, collect your data, or solicit your Personally Identifiable Information. NetGalley LLC is not responsible for the actions and privacy policies of these other websites. Accordingly, NetGalley LLC encourages you to be aware of when you leave this Website and to read the privacy policies of each and every website that you visit.
+Under the EU GDPR and at any time, you have the right to address the controller or our DPO (see above) and request information on how your data is process. You also have a right to rectification of your data. Or you can have the processing restricted, meaning a right to have processing limited to parts of your data. At any time, you may object to the processing of your personal data. When you do so, we will check whether there are any conflicting legal transmitting and processing obligations and inform you accordingly. You also have a right to data portability, meaning that we hand over your data in a structured, commonly used and machine-readable format determined by us upon your request.
 
-## Contests, Sweepstakes, and Surveys
+In addition, if you feel that we do not treat your personal data properly and as laid out in this Policy, you have a right to complain to the supervisory authority responsible for your country.
 
-Any contests, surveys, sweepstakes, or similar promotional endeavors run by NetGalley LLC through this Website will be accompanied by a set of rules specifying how the information gathered from you will be used and disclosed, if different from that described in this Policy. Personally Identifiable Information will be collected only if you voluntarily submit it to NetGalley LLC or to its sponsors.
+When you’ve given your consent to the processing of your data you may, of course, revoke your consent at any time.
 
-## Public Forums
+If you receive advertisement from us, you also have a right to object at any time so that we stop sending you ads.
 
-Please remember that any information or images that you share in public areas such as message boards, blog comments, feedback sections and the like become public. This Policy, therefore, does not apply to them. Be careful about the information you disclose and do not post in public areas any Personally Identifiable Information that you expect to keep private.
+## Other Things You Should Know (Keep Reading!)
 
-## Governing Law and Assignment
+##### _Transferring Information to other countries_
 
-This Website is published in the United States. U.S. law will govern in any and all disputes arising out of or relating to this Policy or use of this Website.
+NetGalley is a worldwide service. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer, and storage of information in and to the U.S. and other countries, which may have rights and protections that are different from those in your home country.
 
-NetGalley LLC may change ownership or corporate organization while providing this Website and related services. As a result, NetGalley LLC may sell, transfer, assign, or otherwise share your information to another entity that is affiliated with NetGalley LLC, with which it has merged, or to which NetGalley LLC, or the portion of NetGalley LLC's assets related to this Policy, are sold. Under such circumstances, NetGalley LLC would, to the extent possible, require the acquiring party to follow the practices described in this Policy, as it may be amended from time to time.
+##### _What if you decide to Leave Us?_
 
-## Opting Out
+If you decide that it is time for you to leave our services, there are tools in the application that allow you to delete your account. If you have a problem with this, please don’t hesitate to contact our DPO. According to the EU GDPR, you have a right to be forgotten.
 
-You may always opt out of receiving marketing or promotional information from NetGalley LLC as contemplated under this policy by clicking the unsubscribe link in any marketing emails, or reaching out to us via the [Knowledge Base](https://netgalley.uservoice.com/knowledgebase). 
-
-## Questions and Changes to Your Information
-
-If you have questions regarding this Policy, do not see your concerns addressed here, or would like NetGalley LLC to update or change the information you have provided, please contact NetGalley LLC via the [Knowledge Base](https://netgalley.uservoice.com/knowledgebase) and include the words "Privacy Policy" in the subject line of your email. 
+Once you leave, we will after a period of 60 days, eliminate any reference to your name or other personal details. We will also eliminate the link between your identity and any System Activity Data. We will hold on to your System Activity Data indefinitely. System Activity Data, are site statistics such as your requests, downloads, and feedback. This data (without anything that links back to you), are necessary elements in the ongoing operations of the service.
