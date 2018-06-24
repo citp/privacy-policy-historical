@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the therabreath.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130000630id_/http%3A//www.therabreath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therabreath.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624142049id_/http%3A//www.therabreath.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TheraBreath
 
 Here at TheraBreath, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
 
@@ -8,7 +8,7 @@ Here at TheraBreath, we are committed to protecting your privacy. We use the inf
 
   1. What information do we collect and how do we use it?
   2. How does Dr. Harold Katz, LLC/ TheraBreath protect customer information?
-  3. What are cookies and what to they do?
+  3. What are cookies and what do they do?
   4. Will Dr. Harold Katz, LLC/ TheraBreath disclose the information it collects to outside parties?
   5. How does Dr. Harold Katz, LLC/ TheraBreath allow customers be removed from promotional emails?
   6. How does Dr. Harold Katz, LLC/ TheraBreath protect the privacy of the children younger than 13?
@@ -30,13 +30,15 @@ We will never share your personal information with any third-party. On rare occa
 
 Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for our Service. Non-personally identifiable information may be stored indefinitely.
 
+**For visitors outside the USA and Canada:** Dr. Harold Katz, LLC/ TheraBreath does not knowingly market to or solicit users from countries other than the United States and Canada. We do not knowingly collect or store data from users outside of the United States or Canada. We do not ship to International addresses or accept International billing addresses. If you are residing in other countries, you are discouraged from submitting data of any kind, including email addresses and if you do so, you agree that TheraBreath.com and Dr. Harold Katz, LLC are not liable for your data collection or storage. To access TheraBreath products and services from countries other than the United States or Canada, please [click here](https://web.archive.org/international-sales/).
+
 #### How does Dr. Harold Katz, LLC/ TheraBreath protect customer information?
 
 Dr. Harold Katz, LLC/ TheraBreath uses the latest encryption technology to keep your personal information safe. All of your ordering information -- including your name, address, and credit card number — is encrypted using a secure server for maximum security. Your credit card and billing information cannot be read as it travels to our ordering system. We're so certain that our online order systems are secure that we back it up with a guarantee. In the unlikely event that you are subject to fraudulent charges, remember to first notify your credit card provider in accordance with its reporting rules and procedures. If, for whatever reason, you are held responsible for any fraudulent charges made on our site, Dr. Harold Katz, LLC/ TheraBreath will cover the entire liability for you, up to $50, as long as the unauthorized use of your credit card resulted through no fault of your own from purchases made from Dr. Harold Katz, LLC/ TheraBreath while using our secure server.
 
 Credit card transactions are handled by a third-party financial institution, which receives the credit card number and other personal identifying information only to verify the credit card numbers and process transactions. If you feel more comfortable doing so, you are welcome to call in your credit card information and complete your purchase by phone. Please call 1 (800) 973-7374 between the hours of 8:00 - 5:00 PST Monday - Friday.
 
-#### What cookies are and do?
+#### What are cookies and what do they do?
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our site uses cookies to speed navigation, keep track of items, and provide you with custom-tailored content. We use cookies to remember information you gave to us so you don't have to reenter it each time you visit our site. By showing us how and when shoppers use our site, cookies help us see which areas are popular and which are not.
 
@@ -61,4 +63,4 @@ Dr. Harold Katz, LLC/ TheraBreath is concerned about the privacy of young childr
 
 By using our web site, you consent to the collection and use of this information by Dr. Harold Katz, LLC/ TheraBreath. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-_This privacy policy was last modified on June 9, 2014._
+_This privacy policy was last modified on May 25, 2018._
