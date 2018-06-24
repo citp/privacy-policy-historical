@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asio4all.org privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215164211id_/http%3A//tippach.business.t-online.de/asio4all/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asio4all.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624081434id_/http%3A//www.asio4all.org/privacy.html) for the most accurate reproduction.*
 
 # ASIO4ALL - Universal ASIO Driver For WDM Audio
 
