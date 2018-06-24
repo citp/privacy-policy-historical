@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dunked.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219153529id_/http%3A//dunked.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunked.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624201907id_/https%3A//dunked.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Dunked
-
-[Dunked](https://web.archive.org/)
+# Dunked: Privacy Policy
 
 At Dunked, we collect and manage user data according to the following Privacy Policy. This document is part of Dunked's [Terms of Use](https://web.archive.org/terms), and by using Dunked.com (the "Website"), you agree to the terms of this Privacy Policy and the Terms of Use. Please read the Terms of Use in their entirety, and refer to those for definitions and contacts.
 
