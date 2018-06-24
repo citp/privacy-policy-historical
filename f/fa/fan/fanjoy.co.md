@@ -1,109 +1,116 @@
-> *The following text is extracted and transformed from the fanjoy.co privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829221346id_/https%3A//fanjoy.co/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanjoy.co privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624113137id_/https%3A//fanjoy.co/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Fanjoy
 
-Fanjoy Co. (“ **Company** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.fanjoy.co, (“ **Site** ”) and Services (as defined in the Terms of Use). Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at www.fanjoy.co/privacy
+**FANJOY PRIVACY POLICY**
 
-**1\. User Consent.** By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy.
+**_Last Updated_** _: January 26, 2018_
 
-**2\. A Note About Children.** We do not intentionally gather Personal Data from visitors who are under the age of 13.
+Fanjoy  Co.  (“ **Fanjoy** ,”  “ **we** ,”  “ **us** ,”  or  “ **our** ”)  respects  your  privacy.    This  Privacy  Policy  explains  how Fanjoy collects, uses, discloses, and secures information about you through our website at fanjoy.co (the “ **Site** ”),   and   our   related   web   sites,   networks,   applications,   mobile   applications,   our   electronic communications, including email and text messages, and other services provided by us (together with the Site, the “ **Service** ”).  By using the Service, you consent to the processing of your information as set forth in this Privacy Policy, now and as amended by us.
 
-**3\. A Note to Users Outside of the United States. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.**
+In providing  the  Service,  we  collect  and  obtain  information  about  individual  consumers  (“you”  or  “ **End User** ”) to, among other things, provide you with access to our e-commerce platform that allows fans to purchase merchandise relating to artists and influencers they admire. This Privacy Policy is incorporated into and is subject to the [Fanjoy Terms of Service. Capitalized terms used but not defined in this Privacy](https://fanjoy.co/pages/terms) Policy have the meaning given to them in the Fanjoy Terms of Service.
 
-**4\. Types of Data We Collect. “Personal Data”** means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. **“Anonymous Data”** means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+**INFORMATION WE COLLECT**  
 
-**(a) Information You Provide to Us.**
+Fanjoy collects  information  from  and  about  users of  the  Service  in  a  variety of  ways.  This  information includes:
 
-• We may collect Personal Data from you, such as your first and last name, gender, e-mail and mailing addresses, professional title, company name, and password when you create an account to log in to our network (“ **Account** ”).
+_Information   You  Provide_.   We  collect  information  you  provide  when  you  use  the  Service  or  otherwise communicate with us. If you register an account with us, we will collect the information you provide, such as your name, email address, and phone number. We will also collect any information you submit through your use of the Service. For example,  if  you are an End User, the information you provide can include your messaging  history and any information included  in your messages via the Service.   We may also collect information through your communications with our customer-support team.
 
-• We may collect Personal Data from you, such as your first and last name, gender, e-mail and mailing addresses, professional title, company name, and password when you complete any field in our checkout process(“ **Account** ”).
+_Device,   Mobile  and  Usage  Information_.  Like  most  online  services,  we  automatically  receive  standard technical, information when you interact with our Service including browser and device information such as  unique  device  identifiers,  mobile  phone  carrier,  internet protocol (IP) addresses (which may identify your  general geographic  location),  browser types,  and the  date and  time of  your  interactions. We also receive information about your interactions with our Service, such as which website pages you visited and how much time was spent on the page.
 
-• When you order Services on our Site, we will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information.
+We may collect this information using cookies or similar technologies. Cookies are pieces of information that are stored by your browser on the hard drive or memory of your device.  Cookies enable us to personalize your experience on the Service, maintain a persistent session, passively collect demographic information, and monitor advertisements and other activities.  Our Service may use different kinds of cookies and other types of local storage (such as browser-based or plugin-based local storage). We may also use software development kits (known as SDKs) or mobile advertising identifiers (for example, an “IDFA” on Apple mobile devices or an “Advertising ID” on Android mobile devices), which function similarly to cookies on mobile devices.  You may reset your IDFA or Advertising ID in the settings on your mobile device.
 
-• We retain information on your behalf, such as files and messages that you store using your Account.
+**Do Not Track.   **Currently, the Service is not designed to respond to “Do Not Track” signals sent from your browser.  For more information more about “Do Not Track,” please visit [www.allaboutdnt.org.](http://www.allaboutdnt.org/)
 
-• If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.
+_Information from Other Sources_. We may obtain information from third parties and sources other than the Service, such as our partners and advertisers.
 
-• When you participate in one of our surveys, we may collect additional profile information.
+  **HOW WE USE YOUR INFORMATION**
 
-• When you post messages on the message boards of our Site, the information contained in your posting will be stored on our servers and other users will be able to see it.
+We use information (including your personal information) in a variety of ways to provide our Service and to operate our business, including the following:
 
-• We also collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, product registration number, and other requested information if you contact us via e-mail regarding support for the Services.
+_Service Related Usage_. We use the information we collect about and from you for a number of purposes, including:
 
-• We may also collect Personal Data, such as at other points in our Site that state that Personal Data is being collected.
+  * providing and supporting the Service,
+  * verifying your identity,
+  * analyzing how you use the Service,
+  * tailoring features and content to improve your experience with the Service,
+  * personalizing your  experience  with  the  Service  through  products,  services,  and  advertising
 
-**(b) Information Collected via Technology.**
 
-• To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.
 
-• We also use cookies and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. **“Cookies”** are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent Cookies can be removed by following Internet browser help file directions.
+(including for third party products and services) that are relevant to your interests.
 
-**(c) Information Collected from You About Others** . If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party. You or the third party may contact us at [hello@fanjoy.co](mailto:%20hello@fanjoy.co) to request the removal of this information from our database.
+_Communications_.  We  use  your  information  to communicate with  you for  Service-related  purposes.  For example,  we  may send  email to the  email address you  provide  to  us  or  text  messages,  to  verify your account and for informational and operational purposes, such as account management, customer service, responding to questions or requests, system maintenance, and other Service-related purposes.  We may also use your information to send you newsletters and updates.
 
-**(d) Information Collected from Third Party Companies.** We may receive Personal and/or Anonymous Data about you from companies that provide our Services by way of a co-branded or private-labeled website or companies that offer their products and/or services on our Site. These third party companies may supply us with Personal Data,. We may add this information to the information we have already collected from you via our Site in order to improve the Services we provide.
+_Improve our Service_. We use the information that we collect (i) to understand and analyze usage trends and  preferences;  (ii)  to  monitor  and  analyze  the  effectiveness  of  our  Service;  and  (iii)  to  improve  our Service and develop new products, services, features, and functionality.
 
-**(e) Information Collected from Social Networking Sites.** If you log on to the Service with your login credentials from a social networking site (e.g., facebook or twitter), we may receive Personal and/or Anonymous Data about you from such social networking site, in accordance with the terms of use and privacy policy of the third party provider of such social networking site. For example, facebook may share your friend list with us, in order to help us establish your Account and find other Service users that you know. We may add this information to the information we have already collected from you via the Service.
+_Marketing and Advertising_. As permitted by applicable law, we may use information we collect about you for marketing and advertising purposes, such as providing  you with promotional materials (including for third party products and services) that may be useful, relevant,  valuable or otherwise of  interest to you which may be made available to you on or outside of the Service. Where required under applicable law, we’ll obtain your prior consent to send you electronic marketing communications.
 
-**5\. Use of Your Personal Data**
+**HOW WE SHARE YOUR INFORMATION**
 
-**(a) General Use.** In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in the following ways:
+We may share,  transfer,  or  disclose  your  information,  if  you consent  to  us  doing  so,  as well as  in the following circumstances: 
 
-• to facilitate the creation of and secure your Account on our network;
+_Service Providers_. We share information (including your personal information) with our business partners and  service  providers  who  provide  services  to  us  or  to  you  (on  our  behalf),  such  as  web  site management, third party payment processors, information technology, and other similar service providers. We  also  may  share  your  information  (including  your  personal  information)  with  our  parent  company, subsidiaries, joint venturers, affiliates or investors.
 
-• identify you as a user in our system;
+_Third Party and Affiliated Marketing Partners_.   We may share, license or sell information (including your personal information) to third parties and affiliated marketing partners for their marketing or advertising purposes, including their online (e.g., e-mail marketing) and offline (e.g., direct mail) marketing programs.
 
-• provide improved administration of our Site and Services;
+Advertising and Analytics Providers.   We also may provide personal information to advertising providers that you already may have relationships with (such as Facebook or Google) so that they can help us tailor our advertisements or reach you when you are on these third-party platforms. These advertising providers as well as our third-party analytics providers may set and access their own cookies, pixel tags and similar technologies  and  they  may  otherwise  collect  or  have  access  to  information  about  you,  including  your Device  and  Usage  Information.  This  Privacy  Policy  does  not  apply  to  the  activities  of  advertisers, advertising networks, advertising servers, and analytics companies outside of the Service.
 
-• provide the Services you request;
+_Comply with Legal Requirements_. We may disclose  your information as we believe  to be  necessary or appropriate to: (i) comply with applicable law and legal processes; (ii) respond to requests from public and government  authorities,  including  public  and  government  authorities outside  your  country of  residence; (iii)  enforce our  Terms of  Service; (iv) protect our rights, privacy,  safety, or property, and/or that of  our affiliates, you or others; and (v) allow us to pursue available remedies or limit the damages that we may sustain.
 
-• improve the quality of experience when you interact with our Site and Services;
+_Corporate Transactions_. We reserve the right to transfer your information to service providers, advisors, potential transactional partners, or other third parties in connection with the consideration, negotiation, or completion of a corporate transaction in which we are acquired by or merged with another company or we sell, liquidate, or transfer all or a portion of our assets.
 
-• send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created;
+_Aggregate, De-Identified Information_. We may use your data to create aggregate or statistical information that does not directly identify a specific person, and we may share that information. For example, we may share anonymous and aggregated reports and information on user demographics and traffic patterns with third parties.
 
-• send you administrative e-mail notifications, such as security or support and maintenance advisories;
+_Third   Party  Influencers_.  We  may  share  information  collected  from  you  through  the  Service  with  the influencer  whose  merchandise  you  purchased  via  the  Service  for  their  internal  use  in compliance  with applicable  law.  As  permitted  by  applicable  law,  such  influencer  may  also  use  such  information  for marketing  purposes,  such  as  providing  you  with  promotional  materials  that  may  be  useful,  relevant, valuable  or  otherwise  of  interest  to  you.  Where  required  under  applicable  law,  we’ll  obtain  your  prior consent before permitting an influencer to send you electronic marketing communications.
 
-• respond to your inquiries related to employment opportunities or other requests;
+**LINKS TO OTHER WEBSITES**
 
-• to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback; and
+The Service may contain links to other sites, maintained by third parties. These links are provided only as a convenience to you.  We or our subsidiaries and affiliated companies have no control over, and are not responsible for any content, products or services offered by or found on third party sites, or their privacy policies.  Links to third party sites do not constitute an assumption of liability for or sponsorship, endorsement or approval of these sites or the content contained on these sites.
 
-• to send newsletters, surveys, offers, and other promotional materials related to our Services, for other marketing purposes of Company, and regarding relevant partner offers.
+**INFORMATION SECURITY**
 
-**(b) Creation of Anonymous Data.** We may create Anonymous Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. Company reserves the right to use Anonymous Data for any purpose and disclose Anonymous Data to third parties in its sole discretion.
+We take steps in an effort to treat your information securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the  security  of  any  information  you  provide  to  us.    We  do  not  accept  liability  for  the  unintentional disclosure of your information and you acknowledge and agree that you use the Service and provide us with your information at your own risk.
 
-**6\. Disclosure of Your Personal Data.** We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy.
+**CHILDREN’S PRIVACY**
 
-**(a) Third Party Service Providers.** We may share your Personal Data with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to the Company. These third party service providers are required not to use your Personal Data other than to provide the services requested by Company.
+We do not knowingly collect, maintain, or use personal information from children under 13 years of age, and  no part of  the Service is directed to children under  the age of 13.   If you learn that  your child  has provided us with personal information without your consent, you may alert us at the contact information listed below.   If we learn that we have collected any personal information from children under 13, we will promptly take steps to delete such information and terminate the child’s account.   If you believe we may have any information from or about a child under the age of 13, please contact us at hello@fanjoy.co.
 
-**(b) Affiliates and Acquisitions** . We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“ **Affiliates** ”), in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company, business, or our assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
+**INTERNATIONAL USERS**  
 
-**(c) Other Disclosures** . Regardless of any choices you make regarding your Personal Data (as described below), Company may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Company; (c) to protect or defend the rights or property of Company or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Terms of Use.
+The Service is intended for users located within the United States. We make no representation that the Service  is  appropriate  or  available  for  use  outside  of  the  United  States.  Access  to  the  Service  from countries or territories or by individuals where such access is illegal is prohibited. If you are visiting our website  from  the  European  Union  or  other  regions  with  laws  governing  data  collection  and  use,  then please note that you are agreeing to the transfer of your information to the United States and processing globally.  By  providing  your  information  to  the  website,  you  consent  to  any  transfer  and  processing  in accordance with this Privacy Policy.
 
-**7\. Third Party Data Collection.**
+**YOUR CHOICES**
 
-**(a) Information Disclosed to Ad Networks.** We use third-party advertising companies to serve ads when you visit our Site. These companies may collect and use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+You  may  always  direct  us  not  to  share  your  personal  information  with  third  parties,  not  to  use  your personal information to provide you with information or offers, or not to send you newsletters, updates, emails or other communications by:
 
-**(b) Third Party Websites.** When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
+  * sending us an email at hello@fanjoy.co **;** or
+  * following the removal or unsubscribe instructions in the communication that you receive.
 
-**8\. Your Choices Regarding Your Personal Data**
 
-**(a) Choices.** We offer you choices regarding the collection, use, and sharing of your Personal Data.
 
-**(i)** We will periodically send you free newsletters and e-mails that directly promote the use of our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below).
+If  you wish to verify, correct, or  update any of  your personal information collected through the Service, you may contact us at hello@fanjoy.co or the mailing address included in the Contact Us section below. In  accordance  with  our  routine  record  keeping,  we  may  delete  certain  records  that  contain  personal information  that  you  have  submitted  through  the  Service.   We  are  under  no  obligation  to  store  such personal information indefinitely and disclaim any liability arising out of, or related to, the destruction of such personal information.   In addition, you should be aware that it is not always possible to completely remove  or  delete  all  of  your  information  from  our  databases  without  some  residual  data  because  of backups or other technology-related reasons.
 
-**(ii)** Despite your indicated e-mail preferences, we may send you service related communication, including notices of any updates to our Terms of Use or Privacy Policy.
+If you do not want the Service to collect information through the use of cookies, your browser may allow you to be notified when you receive certain types of cookies and restrict or disable certain cookies.  Each browser is different, so you should check your browser’s “Help” menu to learn how to change your cookie preferences.  Please be aware that if you disable or reject cookies, some features may not work properly.
 
-**(b) Changes to Personal Data.** You may change any of your Personal Data in your Account by editing your profile within your Account or by sending an e-mail to us at the e-mail address set forth below. You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your information for fraud or similar purposes.
+On your mobile device, you may also have a “Limit Ad Tracking” setting (on iOS devices) or a setting to “Opt out of Interest-Based Ads” (on Android) which allows you to limit the use of information about your use of apps for purposes of serving ads targeted to your interests.   Note that even if  you opt out using these mechanisms, you may still receive advertisements when using the Service.
 
-**9\. Security of Your Personal Data.** Company is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Company uses reasonable efforts to protect your Personal Data, Company cannot guarantee its absolute security.
+You can opt-out of receiving further promotional emails from us by following the unsubscribe instructions provided  in  the  promotional  email  you  receive  or  by  contacting  us  directly  at  the  email  address  listed below.
 
-**10\. Contact Information.** Company welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [hello@fanjoy.co](mailto:hello@fanjoy.co) or contact us at the following address or phone number:
+You can opt-out of receiving further text messages from us by replying to any message you receive from us, with the text “STOP”.
 
-Fanjoy Co.
+**YOUR CALIFORNIA PRIVACY RIGHTS**
 
-ADDRESS
+California  residents are  entitled  once  a  year,  free  of  charge,  to  request  and  obtain certain  information regarding  our  disclosure,  if  any,  of  personally  identifiable  information  to  third  parties  for  their  direct marketing purposes in the preceding calendar year (e.g., requests made in 2017 will receive information about 2016 sharing activities). We comply with this law by giving users the ability to tell us not to share personally identifiable information with third parties for their direct marketing purposes. To make such a request, send an email to hello@fanjoy.co. We may need additional information to process your request.
 
-1640 Stockton St.
+**CONTACT US**
 
-San Francisco, CA 94133
+ If you have any questions or comments about this Privacy Policy, our privacy practices or if you would like to exercise your rights and choices, please contact us at hello@fanjoy.co or by writing to us at:
 
-**11\. Changes to This Privacy Policy.** This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+12655 W Jefferson Blvd, 4th Floor
+
+Los Angeles, CA 90066
+
+**PRIVACY POLICY UPDATES**  
+
+We  may  update this  Privacy Policy  from  time  to  time.  If  we  make  any changes,  we  will  notify  you  by revising the "Last Updated" date at the top of this Privacy Policy. If we make any revisions that materially change  the  ways  in  which  we  use  or  share  the  information  previously  collected  from  you  through  the Service,  we  will  give  you  the  opportunity  to  consent  to  such  changes  before  applying  them  to  that information.
