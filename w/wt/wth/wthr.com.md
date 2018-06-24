@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wthr.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119090041id_/http%3A//www.wthr.com/station/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wthr.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625010516id_/https%3A//www.wthr.com/station/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Station - 13 WTHR Indianapolis
 
-Please read our Privacy Policy below, which applies to the WTHR TV (the “Station”) Web Site (the “Web Site”).
+Please read our Privacy Policy below, which applies to the WTHR TV (the “Station”,) Web Site (the “Web Site”), and the station mobile applications (the "Apps.")
 
 This Privacy Policy applies to (a) all users of the Web Site; (b) consumers who provide us with information in connection with their use of the Web Site and/or any features/functions offered thereby. This Policy describes our collection and use of users’ personal information (for example, information that identifies a specific person, such as full name, street address, telephone number or e-mail address) where that information is not otherwise made publicly available on the Web Site and associated online services. It also describes generally our practices for handling non-personal information collected from you in the aggregate (for example, information on interests, demographics and site usage), or from a third party to the extent such information is associated with a particular device, user or user account.
 
