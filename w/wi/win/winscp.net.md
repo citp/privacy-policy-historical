@@ -1,14 +1,30 @@
-> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915141943id_/https%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624125336id_/https%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
 
 # WinSCP Privacy Policy :: WinSCP
 
-[Contents](https://web.archive.org/eng/docs/start "Contents") » About WinSCP » 
+[Documentation](https://web.archive.org/eng/docs/start "Documentation") » About WinSCP » 
+
+  * What information do we collect?
+    * Visiting winscp.net
+    * Installing WinSCP application
+    * Using WinSCP application
+  * What do we use your information for?
+  * How do we protect your information?
+  * Do we use cookies?
+  * Do we disclose any information to outside parties?
+  * Third party links
+  * California online privacy protection act compliance
+  * Your consent
+  * Warrant canary
+  * Changes to our Privacy policy
+
+
+
+_Advertisement_
 
 ## What information do we collect?
 
 We can collect information from you when you visit our site, install or use WinSCP application. People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. 
-
-Advertisements: 
 
 ### Visiting winscp.net
 
@@ -25,6 +41,8 @@ When installing WinSCP, we might collect anonymous information about the number 
 ### Using WinSCP application
 
 When using WinSCP application, we might collect anonymous [WinSCP usage statistics](https://web.archive.org/eng/docs/usagestatistics). You may, however, opt-out from providing WinSCP usage statistics or from WinSCP automatic check for application updates. 
+
+_Advertisement_
 
 ## What do we use your information for?
 
@@ -65,7 +83,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
-Advertisements: 
+_Advertisement_
 
 ## California online privacy protection act compliance
 
@@ -91,6 +109,6 @@ This policy was last modified on **2015-11-15**.
 
 — [WinSCP team](https://winscp.net/ "https://winscp.net/")
 
-_This policy is based on[Free Privacy Policy Generator](http://www.freeprivacypolicy.com/ "http://www.freeprivacypolicy.com/")._
+_This policy is based on[Free Privacy Policy Generator](https://www.freeprivacypolicy.com/ "https://www.freeprivacypolicy.com/")._
   *[TLS]: Transport Layer Security
   *[SSL]: Secure Sockets Layer
