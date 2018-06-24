@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227231445id_/http%3A//www.calottery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calottery.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624131428id_/http%3A//www.calottery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,10 +45,14 @@ If you choose to accept cookies, you also have the ability to later delete cooki
 
 > • Device Information
 > 
-> The App may collect certain information about your device automatically when you download, connect to or use the App.  Such information may include the type of mobile device you use and information about the way you use the App.  The Lottery may receive such information and use it to operate and improve the App and to deliver services and content. 
+> The App may collect certain information about your device automatically when you download, connect to or use the App.  Such information may include the type of mobile device you use and information about the way you use the App.  The Lottery may receive such information and use it to operate and improve the App and to deliver services and content.  
 > 
->  • Physical Location
+>  • Ticket Information
 > 
+> To ensure the integrity of Lottery games and promotions, the Lottery may collect and store information about the tickets scanned by your device. Such information may be linked to a unique identifier that is associated with your device, the App software downloaded to your device, or your 2nd Chance account. 
+> 
+> • Physical Location
+
 > Location information will not be collected without your consent.  Location information enables the App to establish the approximate location of your mobile device.  The Lottery may use and store this information, in combination with other location-based information (such as IP address), to provide requested location services (e.g., identification of nearby Retailers) and to deliver enhanced location based services and other content.  You may withdraw your consent to the collection of your location information at any time by disabling or changing the related functionality or setting as provided in your mobile device.
 > 
 > • Telephone Number
