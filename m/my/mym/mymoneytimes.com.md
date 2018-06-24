@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymoneytimes.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215130537id_/http%3A//mymoneytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymoneytimes.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624231314id_/http%3A//mymoneytimes.com/privacy) for the most accurate reproduction.*
 
 # Mymoneytimes
 
@@ -11,6 +11,8 @@ Thank you for your interest in mymoneytimes services and privacy info. Our priva
 Once you provide your personal data to us, you are not anonymous to us and hence you can take advantage of certain activities like posting comments, enrolling for a contest in that case if you participate in a contest then you may be asked to submit personal data like your name, address, contact details, email address with the optional info like your location, age, personal and professional interests, gender, your experience with us and any feedback etc.
 
 In case you connect with Mymoneytimes via social networking sites like Facebook, Twitter, Google+ etc we can store your personal information you have chosen to display in that networks. Further, in case you can send or receive personal messages to another user of Mymoneytimes, we can record all messages that you send or receive.
+
+**Note:**  We respect our visitors/users rights and support “Right to be forgotten”. If you think you’ve ever shared your contact details with us & want us to remove that info, please contact us at [info@mymoneytimes.com](mailto:info@mymoneytimes.com)
 
 **What About IP addresses?**
 
@@ -42,6 +44,10 @@ However, we do not disclose your personal information to others without your app
 **Cookies:**
 
 When you use your browser in order to visit or surf any website usually small text files can take place in your computer as browser’s history or program data subfolders which are called as ‘Cookie’. A cookie can be of two types- one which expires when you close the browser and another is which stays on your computer until you delete them manually by following your browser help directions. So like another company our readers will get cookies by us or by companies which are running their ads on our website. Cookies can help us and advertisers to analyze and identify users on our website and it also helps us to serve content to match your preferences.
+
+**Google Analytics**
+
+We use Google Analytics to track visitors on this site. Google Analytics uses cookies to collect this data.In order to be compliant with the new regulation Google included a data processing amendment.The data we collect will be processed anonymously and “Data sharing” is disabled.We don’t use other Google services in combination with Google Analytics cookies.
 
 **Policy updation:  **
 
