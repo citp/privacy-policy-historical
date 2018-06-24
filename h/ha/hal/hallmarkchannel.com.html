@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the hallmarkchannel.com privacy policy that was archived on 2017-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171217164552id_/http%3A//www.hallmarkchannel.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hallmarkchannel.com privacy policy that was archived on 2018-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624091036id_/http%3A//www.hallmarkchannel.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         
-<link rel="stylesheet" type="text/css" href="http://cdn.crownmediadev.com/resource/assets/less/redesign-main.min.34013bd088df33fef98daebad4e3578c.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.crownmediadev.com/resource/assets/less/redesign-main.min.9529694b44a19198de1003c498d87406.css">
 <title>Privacy Policy | Hallmark Channel</title>
 <meta property="og:title" content="Privacy Policy | Hallmark Channel">
 <meta name="description" content="Find out more about the Crown Media Privacy Policy">
@@ -19,7 +19,7 @@
 <meta property="twitter:card" content="summary">
 <meta property="twitter:title" content="Privacy Policy | Hallmark Channel">
 <meta property="twitter:description" content="Find out more about the Crown Media Privacy Policy">
-<style type="text/css" data-id="i8a62a39b9d9e480fbbfa8951c2e128b4">html,body{overflow-x:initial}
+<style type="text/css" data-id="icc4991a6a5bb410bba742068cb69f2b2">html,body{overflow-x:initial}
 
 
 .link-blue, .cast-host-content a {
@@ -48,16 +48,130 @@
 .GlobalCard[data-card-type="video"] .GlobalCard-eyebrow.playing {
    display: block; 
 }</style><script src="//adm.fwmrm.net/p/hallmark_live/LinkTag2.js" async=""></script><script async="" src="http://b.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="//hallapx.apxprogrammatic.com/?aid=4137&amp;siclientid="></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script type="text/javascript">var HM = {"omniture":{"prop2":"Web","prop1":"","server":"www.hallmarkchannel.com","eVar43":"No MicroSite","pageType":"Article","domainFilter":"hallmarkchannel.com","pageName":"Privacy Policy | Hallmark Channel","account":"hallmarkchannel","prop4":"","prop3":""},"isDesktop":true,"isTablet":false,"disableInfiniteScroll":false,"comScore":{"c6":"Article","c1":"2","c2":"8272010"},"isMobile":false};</script><script type="text/javascript" src="//platform.twitter.com/widgets.js" defer="defer"></script>
-<script type="text/javascript" src="http://cdn.crownmediadev.com/resource/assets/js.min/main.cb71f122e54cc34e63ee10543dd35d47.js"></script>
-<script type="text/javascript" data-id="i98550f5b89f24326905b49c5a5795c24">$(document).scroll(function() {
+<script type="text/javascript" src="http://cdn.crownmediadev.com/resource/assets/js.min/main.8249521e42e8408430761087738e7f4b.js"></script>
+<script type="text/javascript" data-id="ia65984adee2142e998220b03bb379e45">$(document).scroll(function() {
     var $thePlayer = $(document).find('div.akamai-player');
     if($thePlayer.hasClass('fixed')){
         $thePlayer.closest('.player-lead').attr('style', 'z-index: 999 !important');
     }else{
         $thePlayer.closest('.player-lead').css('z-index','2');
     }
+});
+
+$(document).ready(function() {
+    var tz="";
+    var value = "; " + document.cookie;
+    var parts = value.split("; tz2=");
+    if (parts.length == 2) {
+        tz = parts.pop().split(";").shift();
+    }
+    var url = window.location.href;
+    var timezone;
+    var TimeZone = function TimeZone($el) {
+        var self = this;
+
+        var DST = false;
+
+        var dateFrom = "03/11/2018";
+        var dateTo = "11/04/2018";
+        var todaysDate = new Date();
+
+        var from = Date.parse(dateFrom);
+        var to   = Date.parse(dateTo);
+        var check = Date.parse(todaysDate);
+
+        if((check <= to && check >= from)) {
+          DST = true;
+        }
+
+
+        console.log('dateTo / to:', dateTo, to);
+        console.log('dateFrom: from', dateFrom, from);
+        console.log('todaysDate: check', todaysDate, check);
+        console.log('DST:', DST);
+
+        var offset = new Date().getTimezoneOffset();
+        if (url.indexOf('_preview') == -1) {
+            if (offset === 300 && DST === false) {
+                createCookie("tz2", "EST", 30);
+                if (tz !== "EST") {
+                    window.location.href = url;
+                }
+                console.log('TZ = EST, offset = 300');
+            } else if (offset === 360 && DST === false) {
+                createCookie("tz2", "CST", 30);
+                if (tz !== "CST") {
+                    window.location.href = url;
+                }
+                console.log('TZ = CST, offset = 360');
+            } else if (offset === 420 && DST === false) {
+                createCookie("tz2", "MST", 30);
+                if (tz !== "MST") {
+                    window.location.href = url;
+                }
+                console.log('TZ = MST, offset = 420');
+            } else if (offset === 480 && DST === false) {
+                createCookie("tz2", "PST", 30);
+                if (tz !== "PST") {
+                    window.location.href = url;
+                }
+                console.log('TZ = PST, offset = 480');
+            } else if (offset === 240 && DST === true) {
+                createCookie("tz2", "EST", 30);
+                if (tz !== "EST") {
+                    window.location.href = url;
+                }
+                console.log('TZ = EST, offset = 240');
+            } else if (offset === 300 && DST === true) {
+                createCookie("tz2", "CST", 30);
+                if (tz !== "CST") {
+                    window.location.href = url;
+                }
+                console.log('TZ = CST, offset = 300');
+            } else if (offset === 360 && DST === true) {
+                createCookie("tz2", "MST", 30);
+                if (tz !== "MST") {
+                    window.location.href = url;
+                }
+                console.log('TZ = MST, offset = 360');
+            } else if (offset === 420 && DST === true) {
+                createCookie("tz2", "PST", 30);
+                if (tz !== "PST") {
+                    window.location.href = url;
+                }
+                console.log('TZ = PST, offset = 420');
+            } else {
+                createCookie("tz2", "EST", 30);
+                if (tz !== "EST") {
+                    window.location.href = url;
+                }
+            }
+        }
+    };
+
+
+    var handler = {
+        '_each': function (item) {
+            new TimeZone($(item));
+        }
+    };
+
+    var createCookie = function(name, value, days) {
+        var expires;
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toGMTString();
+        }
+        else {
+            expires = "";
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    
+    TimeZone();
 });</script>
-<script type="text/javascript" data-id="icda5876e65174b3b9297ffceb91c4d33">function HM_setOmnitureParams() {
+<script type="text/javascript" data-id="iabb40ab7833f4550a97a77bd3784c5ed">function HM_setOmnitureParams() {
 s.pageName = HM.omniture.pageName;
 s.server = HM.omniture.server;
 s.channel = HM.omniture.channel;
@@ -95,17 +209,15 @@ s.eVar43 = HM.omniture.eVar43;
 <script type="text/javascript" src="//cdn.dynamicyield.com/api/8766389/api_static.js"></script>
 <!-- Hallmark Channel Site -->
 <style type="text/css">
+
+.brand-header-container .brand-header {
+ justify-content: flex-start;
+}
 .PageHeader-navigation-items-item:nth-child(4) {
     display: block !important;
 }
 .PageHeader-navigation-items-item:last-of-type {
     display: block !important;
-}
-
-.ms-options-wrap>.ms-options>ul li.selected label:before {
-    content: url(http://www.hallmarkchannel.com/assets/images/redesign/check.png);
-    padding-left: 3px;
-    padding-top: 2px;
 }
 
 @media only screen and (max-width: 1210px) and (min-width: 1070px) {
@@ -222,6 +334,7 @@ text-align: center;
 	}
 }
 
+
 /*  END WRAPPER MARGIN - DF / 10/05/17 */
 
 
@@ -235,12 +348,22 @@ text-align: center;
 
 padding-top: 56.25vw;     } 
 }
+
+html, body {
+    text-rendering: optimizeLegibility !important;
+}
+
 </style>
 
 <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10002145910382','properties':{'pixelId':'426703'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
 <script src="https://d160accw6snlyf.cloudfront.net/public/js/thetake-injector-hallmark-master.js"></script>
 
 <script type="text/javascript"> 
+$('.player-video-container video').bind("DOMSubtreeModified",function(){
+console.log('fsidhfisdh');
+  var text = $('.player-meta-header').text(); $('.akamai-title-text').text(text).html();
+});
+
     $( document ).ready(function() {
          setTimeout(function(){
             $('.Schedule .player-meta-header').trigger('destroy');
@@ -260,15 +383,26 @@ padding-top: 56.25vw;     } 
   +'?aid=4137&siclientid='+x;s.parentNode.insertBefore(j,s);
 })();
 </script>
-<link rel="stylesheet" type="text/css" href="http://cdn.crownmediadev.com/d2/ac/d94fb05d4a398e172b684df2b1ee/main.min.no-utf8.css">
+<style>
+.FilterBar-select-wrapper .ms-options-wrap .ms-options [data-search-term="full episode"] {
+    display: none;
+}
+.FilterBar-select-wrapper .ms-options-wrap .ms-options [data-search-term="full show"] {
+    display: none;
+}
+.FilterBar-select-wrapper .ms-options-wrap .ms-options [data-search-term="full movie"] {
+    display: none;
+}
+</style>
         <!--  End of Custom Head Analytics -->
 
+        
     </head>
 
     <body itemscope="" itemtype="http://schema.org/WebPage" class="desktop" data-bsp-plugin-timezone="">
         <!--  Start of Custom Body Start Analytics -->
         <!-- Ollie : Oct 2nd 2017 -->
-<!-- Use of this pixel is subject to the Amazon ad specs and policies at http://www.amazon.com/b/?&node=7253015011 --><script type="text/javascript">var _pix = document.getElementById('_pix_id_ef390f0e-d9cd-252d-9832-21f4dca0dedc');if (!_pix) { var protocol = '//'; var a = Math.random() * 1000000000000000000; _pix = document.createElement('iframe'); _pix.style.display = 'none'; _pix.setAttribute('src', protocol + 's.amazon-adsystem.com/iu3?d=generic&ex-fargs=%3Fid%3Def390f0e-d9cd-252d-9832-21f4dca0dedc%26type%3D55%26m%3D1&ex-fch=416613&ex-src=www.hallmarkchannel.com&ex-hargs=v%3D1.0%3Bc%3D4004675079119%3Bp%3DEF390F0E-D9CD-252D-9832-21F4DCA0DEDC' + '&cb=' + a); _pix.setAttribute('id','_pix_id_ef390f0e-d9cd-252d-9832-21f4dca0dedc'); document.body.appendChild(_pix);}</script><iframe src="//s.amazon-adsystem.com/iu3?d=generic&amp;ex-fargs=%3Fid%3Def390f0e-d9cd-252d-9832-21f4dca0dedc%26type%3D55%26m%3D1&amp;ex-fch=416613&amp;ex-src=www.hallmarkchannel.com&amp;ex-hargs=v%3D1.0%3Bc%3D4004675079119%3Bp%3DEF390F0E-D9CD-252D-9832-21F4DCA0DEDC&amp;cb=787952854052055900" id="_pix_id_ef390f0e-d9cd-252d-9832-21f4dca0dedc" style="display: none;"></iframe><noscript> <img height='1' width='1' border='0' alt='' src='https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fid%3Def390f0e-d9cd-252d-9832-21f4dca0dedc%26type%3D55%26m%3D1&ex-fch=416613&ex-src=www.hallmarkchannel.com&ex-hargs=v%3D1.0%3Bc%3D4004675079119%3Bp%3DEF390F0E-D9CD-252D-9832-21F4DCA0DEDC' /></noscript>
+<!-- Use of this pixel is subject to the Amazon ad specs and policies at http://www.amazon.com/b/?&node=7253015011 --><script type="text/javascript">var _pix = document.getElementById('_pix_id_ef390f0e-d9cd-252d-9832-21f4dca0dedc');if (!_pix) { var protocol = '//'; var a = Math.random() * 1000000000000000000; _pix = document.createElement('iframe'); _pix.style.display = 'none'; _pix.setAttribute('src', protocol + 's.amazon-adsystem.com/iu3?d=generic&ex-fargs=%3Fid%3Def390f0e-d9cd-252d-9832-21f4dca0dedc%26type%3D55%26m%3D1&ex-fch=416613&ex-src=www.hallmarkchannel.com&ex-hargs=v%3D1.0%3Bc%3D4004675079119%3Bp%3DEF390F0E-D9CD-252D-9832-21F4DCA0DEDC' + '&cb=' + a); _pix.setAttribute('id','_pix_id_ef390f0e-d9cd-252d-9832-21f4dca0dedc'); document.body.appendChild(_pix);}</script><iframe src="//s.amazon-adsystem.com/iu3?d=generic&amp;ex-fargs=%3Fid%3Def390f0e-d9cd-252d-9832-21f4dca0dedc%26type%3D55%26m%3D1&amp;ex-fch=416613&amp;ex-src=www.hallmarkchannel.com&amp;ex-hargs=v%3D1.0%3Bc%3D4004675079119%3Bp%3DEF390F0E-D9CD-252D-9832-21F4DCA0DEDC&amp;cb=329713647168326850" id="_pix_id_ef390f0e-d9cd-252d-9832-21f4dca0dedc" style="display: none;"></iframe><noscript> <img height='1' width='1' border='0' alt='' src='https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fid%3Def390f0e-d9cd-252d-9832-21f4dca0dedc%26type%3D55%26m%3D1&ex-fch=416613&ex-src=www.hallmarkchannel.com&ex-hargs=v%3D1.0%3Bc%3D4004675079119%3Bp%3DEF390F0E-D9CD-252D-9832-21F4DCA0DEDC' /></noscript>
 
 <!-- OllieC - 14th June 2017 FreeWheel ask to allow for expanding rich media ads -->
 <!--nosandbox-->
@@ -294,7 +428,7 @@ padding-top: 56.25vw;     } 
 <!---------------- CSS ------------------------->
 <!-- ------------------------------------------ -->
 
-<style>.brand-header-container .screen-reader-text-only{clip:rect(1px, 1px, 1px, 1px);position:absolute !important;height:1px;width:1px;overflow:hidden}.brand-header-container{background:#edecea;border-bottom:solid 1px #a3a5a6;position:relative;z-index:10}@media print{.brand-header-container{display:none}}@media only screen and (max-width: 1024px){.brand-header-container[data-responsive-tablet-l="off"]{display:none}.brand-header-container[data-responsive-tablet-l="on"]{display:block}}@media only screen and (max-width: 768px){.brand-header-container[data-responsive-tablet-p="off"]{display:none}.brand-header-container[data-responsive-tablet-p="on"]{display:block}}@media only screen and (max-width: 700px){.brand-header-container[data-responsive-mobile="off"]{display:none}.brand-header-container[data-responsive-mobile="on"]{display:block}}.brand-header-container *{box-sizing:border-box}.brand-header-container ul,.brand-header-container li{list-style:none;margin:0;padding:0}.brand-header-container .brand-header-wrapper{margin:0 auto;max-width:1400px}@media only screen and (max-width: 768px){.brand-header-container .brand-header-wrapper{padding-right:120px;max-width:100%;overflow-x:scroll;-webkit-overflow-scrolling:touch}.brand-header-container .brand-header-wrapper:before{content:'\203A';color:#a3a5a6;font-size:32px;text-align:center;line-height:36px;width:40px;position:absolute;top:0;right:0;z-index:9}.brand-header-container .brand-header-wrapper:after{content:'';background:#edecea;background:linear-gradient(to right, rgba(237,236,234,0) 0%, rgba(237,236,234,0.75) 25%, #edecea 75%, #edecea 100%);height:40px;width:96px;position:absolute;top:0;right:0;z-index:8}}.brand-header-container .brand-header{align-items:center;display:flex;height:40px}.brand-header-container .brand{flex:1 0 auto;height:100%}.brand-header-container .brand:first-child{border-left:solid 1px #a3a5a6}.brand-header-container .brand:not(:last-child){border-right:solid 1px #a3a5a6}.brand-header-container .brand:not(:last-child):hover,.brand-header-container .brand:not(:last-child)[data-selected]{background:white}.brand-header-container .brand:not(:last-child):hover svg,.brand-header-container .brand:not(:last-child)[data-selected] svg{fill:#293035}[data-brand]{max-width:120px;position:relative;transition:all .35s ease-in-out 0s}@media only screen and (max-width: 768px){[data-brand]{min-width:120px}}[data-brand] a{display:block;height:100%}[data-brand] svg{fill:#5d6166;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);transition:all .35s ease-in-out 0s}[data-brand="hallmark"] svg{width:81px}[data-brand="hallmark-baby"] svg{width:48px;top:calc(50% - 4px)}[data-brand="hallmark-ecards"] svg{width:64px;top:calc(50% - 2px)}[data-brand="hallmark-business-connections"] svg{min-height:18px;width:92px}[data-brand="hallmark-channel"] svg{width:72px}[data-brand="hallmark-movies-mysteries"] svg{width:80px}[data-brand="hallmark-movies-now"] svg{width:64px}</style>
+<style>.brand-header-container .screen-reader-text-only{clip:rect(1px, 1px, 1px, 1px);position:absolute !important;height:1px;width:1px;overflow:hidden}.brand-header-container{background:#edecea;border-bottom:solid 1px #a3a5a6;position:relative;z-index:10}@media print{.brand-header-container{display:none}}@media only screen and (max-width: 1024px){.brand-header-container[data-responsive-tablet-l="off"]{display:none}.brand-header-container[data-responsive-tablet-l="on"]{display:block}}@media only screen and (max-width: 768px){.brand-header-container[data-responsive-tablet-p="off"]{display:none}.brand-header-container[data-responsive-tablet-p="on"]{display:block}}@media only screen and (max-width: 700px){.brand-header-container[data-responsive-mobile="off"]{display:none}.brand-header-container[data-responsive-mobile="on"]{display:block}}.brand-header-container *{box-sizing:border-box}.brand-header-container ul,.brand-header-container li{list-style:none;margin:0;padding:0}.brand-header-container .brand-header-wrapper{margin:0 auto;max-width:1400px}@media only screen and (max-width: 768px){.brand-header-container .brand-header-wrapper{padding-right:120px;max-width:100%;overflow-x:scroll;-webkit-overflow-scrolling:touch}.brand-header-container .brand-header-wrapper:before{content:'\203A';color:#a3a5a6;font-size:32px;text-align:left;line-height:36px;width:40px;position:absolute;top:0;right:0;z-index:9}.brand-header-container .brand-header-wrapper:after{content:'';background:#edecea;background:linear-gradient(to right, rgba(237,236,234,0) 0%, rgba(237,236,234,0.75) 25%, #edecea 75%, #edecea 100%);height:40px;width:96px;position:absolute;top:0;right:0;z-index:8}}.brand-header-container .brand-header{align-items:left;display:flex;height:40px}.brand-header-container .brand{flex:1 0 auto;height:100%}.brand-header-container .brand:first-child{border-left:solid 1px #a3a5a6}.brand-header-container .brand:not(:last-child){border-right:solid 1px #a3a5a6}.brand-header-container .brand:not(:last-child):hover,.brand-header-container .brand:not(:last-child)[data-selected]{background:white}.brand-header-container .brand:not(:last-child):hover svg,.brand-header-container .brand:not(:last-child)[data-selected] svg{fill:#293035}[data-brand]{max-width:120px;position:relative;transition:all .35s ease-in-out 0s}@media only screen and (max-width: 768px){[data-brand]{min-width:120px}}[data-brand] a{display:block;height:100%}[data-brand] svg{fill:#5d6166;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);transition:all .35s ease-in-out 0s}[data-brand="hallmark"] svg{width:81px}[data-brand="hallmark-baby"] svg{width:48px;top:calc(50% - 4px)}[data-brand="hallmark-ecards"] svg{width:64px;top:calc(50% - 2px)}[data-brand="hallmark-business-connections"] svg{min-height:18px;width:92px}[data-brand="hallmark-channel"] svg{width:72px}[data-brand="hallmark-movies-mysteries"] svg{width:80px}[data-brand="hallmark-movies-now"] svg{width:64px}</style>
 
 <!-- ------------------------------------------ -->
 <!---------------- RAW HTML -------------->
@@ -305,7 +439,7 @@ padding-top: 56.25vw;     } 
 	<div class="brand-header-wrapper">
 			<ul class="brand-header">
 				<li class="brand" data-brand="hallmark" data-layer-nav-menu="Brand">
-					<a href="//www.hallmark.com?glbnav=hallmarkcom" data-layer-nav-to="hallmarkcom">
+					<a href="//www.hallmark.com?glbnav=hallmarkcom" data-layer-nav-to="hallmarkcom" target="_blank">
 						<span class="screen-reader-text-only">Hallmark</span>
 						<svg id="gh-hallmark" version="1.1" viewBox="0 0 315.15 120.39" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title_hm" role="img" aria-hidden="true">
 							<title id="title_hm">Hallmark</title>
@@ -322,7 +456,7 @@ padding-top: 56.25vw;     } 
 					</a>
 				</li>
 				<li class="brand" data-brand="hallmark-baby" data-layer-nav-menu="Brand">
-					<a href="//www.hallmarkbaby.com?glbnav=baby" data-layer-nav-to="baby">
+					<a href="//www.hallmarkbaby.com?glbnav=baby" data-layer-nav-to="baby" target="_blank">
 						<span class="screen-reader-text-only">Hallmark Baby</span>
 						<svg id="gh-hallmark-baby" version="1.1" viewBox="0 0 197.268 143.667" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="title_baby" role="img" aria-hidden="true">
 							<title id="title_baby">Hallmark Baby</title>
@@ -335,7 +469,7 @@ padding-top: 56.25vw;     } 
 					</a>
 				</li>
 				<li class="brand" data-brand="hallmark-ecards" data-layer-nav-menu="Brand">
-					<a href="//www.hallmarkecards.com?glbnav=eCards" data-layer-nav-to="eCards">
+					<a href="//www.hallmarkecards.com?glbnav=eCards" data-layer-nav-to="eCards" target="_blank">
 						<span class="screen-reader-text-only">Hallmark eCards</span>
 						<svg id="gh-hallmark-ecards" version="1.1" viewBox="0 0 730 268" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="title_ecards" role="img" aria-hidden="true">
 							<title id="title_ecards">Hallmark Ecards</title>
@@ -349,7 +483,7 @@ padding-top: 56.25vw;     } 
 					</a>
 				</li>
 				<li class="brand" data-brand="hallmark-business-connections" data-layer-nav-menu="Brand">
-					<a href="//shop.hallmarkbusinessconnections.com?glbnav=hbc" data-layer-nav-to="hbc">
+					<a href="//shop.hallmarkbusinessconnections.com?glbnav=hbc" data-layer-nav-to="hbc" target="_blank">
 						<span class="screen-reader-text-only">Hallmark Business Connections</span>
 						<svg id="gh-hallmark-business-connections" version="1.1" viewBox="0 0 231.91 38.43" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title_hbc" role="img" aria-hidden="true">
 							<title id="title_hbc">Hallmark Business Connections</title>
@@ -377,7 +511,7 @@ padding-top: 56.25vw;     } 
 					</a>
 				</li>
 				<li class="brand" data-brand="hallmark-channel" data-selected="" data-layer-nav-menu="Brand">
-					<a href="//www.hallmarkchannel.com?glbnav=hallmarkchannel" data-layer-nav-to="hallmarkchannel">
+					<a href="//www.hallmarkchannel.com?glbnav=hallmarkchannel" data-layer-nav-to="hallmarkchannel" target="_blank">
 						<span class="screen-reader-text-only">Hallmark Channel</span>
 						<svg id="gh-hallmark-channel" version="1.1" viewBox="0 0 346 136.668" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title_hc" role="img" aria-hidden="true">
 							<title id="title_hc">Hallmark Channel</title>
@@ -394,7 +528,7 @@ padding-top: 56.25vw;     } 
 					</a>
 				</li>
 				<li class="brand" data-brand="hallmark-movies-mysteries" data-layer-nav-menu="Brand">
-					<a href="http://www.hallmarkmoviesandmysteries.com?glbnav=hallmarkmovies" data-layer-nav-to="hallmarkmovies">
+					<a href="http://www.hallmarkmoviesandmysteries.com?glbnav=hallmarkmovies" data-layer-nav-to="hallmarkmovies" target="_blank">
 						<span class="screen-reader-text-only">Hallmark Movies and Mysteries</span>
 						<svg id="gh-hallmark-movies" version="1.1" viewBox="0 0 549.01 238.42" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title_hmm" role="img" aria-hidden="true">
 							<title id="title_hmm">Hallmark Movies and Mysteries</title>
@@ -430,7 +564,7 @@ padding-top: 56.25vw;     } 
 					</a>
 				</li>
 				<li class="brand" data-brand="hallmark-movies-now">
-					<a href="//hmnow.com?glbnav=hmnow" data-layer-nav-to="hallmarkmoviesnow">
+					<a href="//hmnow.com?glbnav=hmnow" data-layer-nav-to="hallmarkmoviesnow" target="_blank">
 						<span class="screen-reader-text-only">Hallmark Movies Now</span>
 						<svg id="gh-hallmark-movies-now" version="1.1" viewBox="0 0 228.71 89.78" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title_hmmn" role="img" aria-hidden="true">
 							<title id="title_hmmn">Hallmark Movies Now</title>
@@ -446,7 +580,6 @@ padding-top: 56.25vw;     } 
 <!-- ------------------------------------------ -->
 <!------ BRAND HEADER - END--- ----->
 <!-- ------------------------------------------ -->
-
         <!--  End of Custom Body Start Analytics -->
 
         
@@ -473,6 +606,7 @@ padding-top: 56.25vw;     } 
 
 
         <script src="/assets/js/omniture.js"></script>
+        <div id="requestorId" style="display: none"></div>
 
 
 
@@ -496,7 +630,7 @@ padding-top: 56.25vw;     } 
 
 
 <div class="PageHeader" data-bsp-plugin-redesign-header="" data-bsp-plugin-sticky-header="">
-    <div class="PageHeader-container" style="background-color:#be110d">
+    <div class="PageHeader-container" style="background-color:#e2635c">
         <div class="PageHeader-burger">
             <span class="PageHeader-burger-bar"></span>
             <span class="PageHeader-burger-bar"></span>
@@ -527,13 +661,6 @@ padding-top: 56.25vw;     } 
                 
                     
                         <li class="PageHeader-navigation-items-item ">
-                            <a href="http://www.hallmarkchannel.com/christmas">Christmas</a>
-                        </li>
-                    
-                    
-                
-                    
-                        <li class="PageHeader-navigation-items-item ">
                             <a href="http://www.hallmarkchannel.com/home-and-family">Home &amp; Family</a>
                         </li>
                     
@@ -543,6 +670,19 @@ padding-top: 56.25vw;     } 
                         <li class="PageHeader-navigation-items-item ">
                             <a href="http://www.hallmarkchannel.com/shows">Shows</a>
                         </li>
+                    
+                    
+                
+                    
+                        <li class="PageHeader-navigation-items-item ">
+                            <a href="http://www.hallmarkchanneleverywhere.com/hclive.html" target="_blank">Watch Live</a>
+                        </li>
+                    
+                    
+                
+                    
+                    
+                
                     
                     
                 
@@ -600,7 +740,7 @@ padding-top: 56.25vw;     } 
         
             <style>
                 .PageHeader-search-dropdown .PageHeader-search-icon span {
-                    color: #be110d;
+                    color: #e2635c;
                 }
             </style>
         
@@ -615,7 +755,7 @@ padding-top: 56.25vw;     } 
     </div>
 
 
-    <nav class="PageHeader-navigation" data-bsp-plugin-navigation-redesign-dropdown="" style="background-color:#be110d">
+    <nav class="PageHeader-navigation" data-bsp-plugin-navigation-redesign-dropdown="" style="background-color:#e2635c">
         
 
             <ul class="PageHeader-navigation-items">
@@ -630,13 +770,6 @@ padding-top: 56.25vw;     } 
                     <li class="PageHeader-navigation-items-item">
                         <a href="http://www.hallmarkchannel.com/movies">
                             Movies
-                        </a>
-                        
-                    </li>
-                
-                    <li class="PageHeader-navigation-items-item">
-                        <a href="http://www.hallmarkchannel.com/christmas">
-                            Christmas
                         </a>
                         
                     </li>
@@ -670,18 +803,29 @@ padding-top: 56.25vw;     } 
                             <ul class="PageHeader-navigation-subitems">
                                 
                                     <li class="PageHeader-navigation-items-item">
-                                        <a href="http://www.hallmarkchannel.com/chesapeake-shores" target="">Chesapeake Shores</a>
+                                        <a href="http://www.hallmarkchannel.com/good-witch" target="">Good Witch</a>
                                     </li>
                                 
                                     <li class="PageHeader-navigation-items-item">
-                                        <a href="http://www.hallmarkchannel.com/good-witch" target="">Good Witch</a>
+                                        <a href="http://www.hallmarkchannel.com/chesapeake-shores" target="">Chesapeake Shores</a>
                                     </li>
                                 
                                     <li class="PageHeader-navigation-items-item">
                                         <a href="http://www.hallmarkchannel.com/when-calls-the-heart" target="">When Calls the Heart</a>
                                     </li>
                                 
+                                    <li class="PageHeader-navigation-items-item">
+                                        <a href="http://www.hallmarkchannel.com/meet-the-peetes" target="">Meet the Peetes</a>
+                                    </li>
+                                
                             </ul>
+                        
+                    </li>
+                
+                    <li class="PageHeader-navigation-items-item">
+                        <a href="http://www.hallmarkchanneleverywhere.com/hclive.html" target="_blank">
+                            Watch Live
+                        </a>
                         
                     </li>
                 
@@ -695,6 +839,13 @@ padding-top: 56.25vw;     } 
                     <li class="PageHeader-navigation-items-item">
                         <a href="http://www.hallmarkchanneleverywhere.com" target="_blank">
                             Full Episodes
+                        </a>
+                        
+                    </li>
+                
+                    <li class="PageHeader-navigation-items-item">
+                        <a href="http://www.hallmarkchannel.com/christmas">
+                            Christmas
                         </a>
                         
                     </li>
@@ -714,15 +865,8 @@ padding-top: 56.25vw;     } 
                     </li>
                 
                     <li class="PageHeader-navigation-items-item">
-                        <a href="http://www.hallmarkchannel.com/christmas/christmas-fantasy-game">
-                            Christmas Fantasy Game
-                        </a>
-                        
-                    </li>
-                
-                    <li class="PageHeader-navigation-items-item">
                         <a href="http://www.hallmarkchannel.com/hallmark-publishing">
-                            Hallmark Publishing
+                            Books
                         </a>
                         
                     </li>
@@ -746,19 +890,24 @@ padding-top: 56.25vw;     } 
                             Newsletter
                         </a>
                         
-                            <span class="PageHeader-navigation-icon"></span>
-                            <ul class="PageHeader-navigation-subitems">
-                                
-                                    <li class="PageHeader-navigation-items-item">
-                                        <a href="http://www.hallmarkchannel.com/survey-subscribe-to-the-royal-court" target="">Royal Court Survey</a>
-                                    </li>
-                                
-                            </ul>
+                    </li>
+                
+                    <li class="PageHeader-navigation-items-item">
+                        <a href="http://www.hallmarkchannel.com/adoption-ever-after">
+                            Adoption Ever After
+                        </a>
                         
                     </li>
                 
                     <li class="PageHeader-navigation-items-item">
-                        <a href="https://www.amazon.com/stores/page/3129AC5E-41A8-426F-BC30-4D9D40785EBF" target="_blank">
+                        <a href="http://www.hallmarkchannel.com/survey-subscribe-to-the-royal-court">
+                            Royal Court Survey
+                        </a>
+                        
+                    </li>
+                
+                    <li class="PageHeader-navigation-items-item">
+                        <a href="http://amzn.to/2Evq6qX" target="_blank">
                             Buy DVDs
                         </a>
                         
@@ -965,11 +1114,11 @@ padding-top: 56.25vw;     } 
 		            
 		            
 		                
-		                <span id="300x250_slot_1_1513529152263" class="_fwph" slotwidth="300" slotheight="250">
-		                    <form id="_fw_form_300x250_slot_1_1513529152263" style="display:none">
-		                        <input id="_fw_input_300x250_slot_1_1513529152263" name="_fw_input_300x250_slot_1_1513529152263" type="hidden" value="w=300&amp;h=250&amp;cd=300,250|300,600&amp;ptgt=s&amp;slau=display">
+		                <span id="300x250_slot_1_1529831436465" class="_fwph" slotwidth="300" slotheight="250">
+		                    <form id="_fw_form_300x250_slot_1_1529831436465" style="display:none">
+		                        <input id="_fw_input_300x250_slot_1_1529831436465" name="_fw_input_300x250_slot_1_1529831436465" type="hidden" value="w=300&amp;h=250&amp;cd=300,250|300,600&amp;ptgt=s&amp;slau=display">
 		                    </form>
-		                    <span id="_fw_container_300x250_slot_1_1513529152263" class="_fwac"></span>
+		                    <span id="_fw_container_300x250_slot_1_1529831436465" class="_fwac"></span>
 		                </span>
 		            
 		        
@@ -990,7 +1139,7 @@ padding-top: 56.25vw;     } 
 
 
                 
-<div class="FixedAd" data-bsp-plugin-bottom-fixed-ad="" data-ad-displaytime="7000">
+<div class="FixedAd" data-bsp-plugin-bottom-fixed-ad="" data-ad-displaytime="10000">
     <div class="leaderboard-ad">
         <div class="leaderboard-container">
             <div class="display-ad">
@@ -1032,11 +1181,11 @@ padding-top: 56.25vw;     } 
 		            
 		            
 		                
-		                <span id="728x90_slot_2_1513529152263" class="_fwph" slotwidth="728" slotheight="90">
-		                    <form id="_fw_form_728x90_slot_2_1513529152263" style="display:none">
-		                        <input id="_fw_input_728x90_slot_2_1513529152263" name="_fw_input_728x90_slot_2_1513529152263" type="hidden" value="ptgt=s&amp;w=728&amp;h=90&amp;slau=display">
+		                <span id="728x90_slot_2_1529831436465" class="_fwph" slotwidth="728" slotheight="90">
+		                    <form id="_fw_form_728x90_slot_2_1529831436465" style="display:none">
+		                        <input id="_fw_input_728x90_slot_2_1529831436465" name="_fw_input_728x90_slot_2_1529831436465" type="hidden" value="ptgt=s&amp;w=728&amp;h=90&amp;slau=display">
 		                    </form>
-		                    <span id="_fw_container_728x90_slot_2_1513529152263" class="_fwac"></span>
+		                    <span id="_fw_container_728x90_slot_2_1529831436465" class="_fwac"></span>
 		                </span>
 		            
 		        
@@ -1050,6 +1199,7 @@ padding-top: 56.25vw;     } 
         </div>
     </div>
 </div>
+                
                 <div class="footer-wrapper">
 
 
@@ -1158,7 +1308,7 @@ padding-top: 56.25vw;     } 
             </li>
         
             <li class="navigation-footer-item">
-                <span class="navigation-footer-item-link"><a href="http://www.hallmarkchannel.com/faq">FAQ</a></span>
+                <span class="navigation-footer-item-link"><a href="/faq">FAQ</a></span>
             </li>
         
             <li class="navigation-footer-item">
@@ -1179,10 +1329,6 @@ padding-top: 56.25vw;     } 
         
             <li class="navigation-footer-item">
                 <span class="navigation-footer-item-link"><a href="http://www.hallmarkchannel.com/channel-locator">Channel Locator</a></span>
-            </li>
-        
-            <li class="navigation-footer-item">
-                <span class="navigation-footer-item-link"><a href="http://www.hallmarkchannel.com/christmas/christmas-fantasy-game-how-to-play">Fantasy Game Questions</a></span>
             </li>
         
             <li class="navigation-footer-item">
@@ -1214,7 +1360,7 @@ padding-top: 56.25vw;     } 
             </li>
         
     </ul>
-    <div class="navigation-footer-copyright">Copyright © 2017 Crown Media, all rights reserved</div>
+    <div class="navigation-footer-copyright">Copyright © 2018 Crown Media, all rights reserved</div>
     <div class="media-socialLinks-xs">
         <p></p>
         
@@ -1248,6 +1394,9 @@ padding-top: 56.25vw;     } 
 </div>
             
         
+    
+    
+    
     
     
     
@@ -1392,69 +1541,7 @@ padding-top: 56.25vw;     } 
 
 
         <!--  Start of Custom Body End Analytics -->
-        <!--  Start of Custom Body End Analytics -->
-<div id="pixel"></div>
-<script>
-    var d = new Date(), e = new Date(d);
-    var r = e - d.setHours(0, 0, 0, 0);
-       var vjdpjusttitle = "";
- 
-       var vjdpdesc = "";
-       var vjdptitle = window.location.href;
-     
-       var vjdpbackslash = -1;
-       var vjdpbackslash2 = -1;
- 
-       vjdptitle = vjdptitle.replace("http://", " ").toUpperCase();
-       vjdptitle = vjdptitle.replace(new RegExp("-", "g"), " ").toUpperCase();
-       vjdpbackslash = vjdptitle.indexOf("/");
-       if(vjdpbackslash > 0)
-       {
-           vjdpbackslash2 = vjdptitle.indexOf("/",vjdpbackslash + 1);
-       }
- 
-       if(vjdptitle.indexOf("photos" > 0) && vjdpbackslash2 > 0)
-       {
-           vjdpbackslash3 = vjdptitle.indexOf("/",vjdpbackslash2 + 1);
-           if(vjdpbackslash3 > 0)
-           {
-               vjdptitle = vjdptitle.substring(0,  vjdpbackslash3);
-               }
-           }
-      
-       if (vjdpbackslash > -1 && vjdpbackslash2 > vjdpbackslash) {
-           vjdpjusttitle = vjdptitle.substring(vjdpbackslash + 1,vjdpbackslash2);
-           vjdpdesc = vjdptitle.substring(vjdpbackslash2 + 1);
-           vjdpdesc = vjdpdesc.replace(vjdpjusttitle, "");
-           if (vjdpdesc.indexOf("photos" > 0))
-           {
-               vjdpdesc = vjdpdesc.replace("FROM", "").trim();
-           }
-       } else {
- 
-           if (vjdpbackslash > -1) {
-               vjdpjusttitle = vjdptitle.substring(vjdpbackslash + 1);
- 
-           }
- 
-       }
- 
-    var lvl = encodeURI(vjdpjusttitle.trim());
-    var qloc = vjdpdesc.indexOf("?");
-    var avtemp = vjdpdesc;
-    if (qloc > 0) {
-        avtemp = vjdpdesc.substring(0, qloc);
-    }
-    var av1 = encodeURI(avtemp.trim());
-    var av2 = ""; //"ValueTwo";
-    var av3 = "";//"ValueThree";
- 
-   var vimg = "<img src='https://a01.korrelate.net/a/e/d2a.ads?r=" + r + "&et=a&ago=413&ao=415&px=308&pt=i&av1=" + av1 +  "&lvl=" + lvl + "' border='0'/>";
-   $("#pixel").html(vimg);
-</script>
-<!--  End of Custom Body End Analytics -->
-
-
+        
         <!--  End of Custom Body End Analytics -->
     
 
