@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igetintopc.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103212432id_/http%3A//igetintopc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igetintopc.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624032953id_/http%3A//igetintopc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Get into PC
 
@@ -61,7 +61,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[Get into PC](http://getintopc.com/)  
-contact@getintopc.com
+[Get into PC](http://igetintopc.com/)  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-This document was last updated on June 11, 2017
+This document was last updated on June 11, 2018
