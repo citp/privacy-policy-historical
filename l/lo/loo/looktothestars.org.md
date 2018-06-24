@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looktothestars.org privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910125917id_/https%3A//www.looktothestars.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looktothestars.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624085527id_/https%3A//www.looktothestars.org/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Look to the Stars
 
@@ -12,7 +12,7 @@ By collecting your data, it allows us to understand what your needs and wants ar
 
 ## Who we are
 
-Look To The Stars Limited, Company Number GB07665476 (whose registered office is: Look To The Stars Ltd. c/o Hargreaves & Woods, Cholmondeley House, Dee Hills Park, Chester, CH3 5AR, United Kingdom).
+Look To The Stars Limited, Company Number GB07665476, United Kingdom.
 
 In the event that we sell our business, customer information may be one of the transferred business assets. If this happens, your information will still be subject to this policy.
 
