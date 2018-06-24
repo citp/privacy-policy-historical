@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menatplay.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212142142id_/http%3A//www.menatplay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menatplay.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624164521id_/http%3A//www.menatplay.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Men at Play
 
@@ -39,4 +39,4 @@ For further information, please read our [Cookies Policy](https://web.archive.or
 
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7b12151d143b161e151a0f0b171a0255181416).
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1f767179705f727a717e6b6f737e66317c7072).
