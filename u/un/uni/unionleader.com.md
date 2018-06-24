@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the unionleader.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225214326id_/http%3A//www.unionleader.com/services/privacy-statement-99999999) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unionleader.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624123115id_/http%3A//www.unionleader.com/services/privacy-statement-99999999) for the most accurate reproduction.*
 
 # Privacy Statement | New Hampshire
 
 [](https://web.archive.org/apps/pbcs.dll/article?avis=UL&date=99999999&category=SERVICES&lopenr=110419986&Ref=AR&template=printart)
 
-[April 22. 2017 12:02PM](https://web.archive.org/apps/pbcs.dll/search?Category=SEARCH&q=&StartDate=20171225 "Click to view all content published Dec 25, 2017.")  
+[April 22. 2017 12:02PM](https://web.archive.org/apps/pbcs.dll/search?Category=SEARCH&q=&StartDate=20180624 "Click to view all content published Jun 24, 2018.")  
 
 
 The Union Leader Corporation and its affiliates collect, use, store, and share information obtained from users of UnionLeader.com and NewHampshire.com (referred to in this policy as "Union Leader").
