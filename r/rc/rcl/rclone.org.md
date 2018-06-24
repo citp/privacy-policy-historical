@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rclone.org privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030181548id_/https%3A//rclone.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rclone.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624105010id_/https%3A//rclone.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
