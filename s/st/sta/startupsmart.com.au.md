@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupsmart.com.au privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903135842id_/https%3A//www.smartcompany.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupsmart.com.au privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624175047id_/https%3A//www.smartcompany.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SmartCompany
 
@@ -74,6 +74,14 @@ This includes through various browser tracking software such as “Cookies”. C
 #### 3.6 Collection from you
 
 We will always try to only collect your personal information directly from you (unless it is unreasonable or impracticable to do so) as this is the best way to ensure its accuracy. It also provides you with an opportunity to ask us any questions about our Privacy Policy before collection.  We may also collect your personal information over the telephone, through correspondence (whether by letter, fax or email), on our forms, when you enter into agreements with us or through our website.
+
+#### 3.7 Cookies and tracking
+
+When you use our digital properties we collect certain information about those visits. For example, if you visit SmartCompany our servers record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access SmartCompany from a mobile or other device, we may collect a device identifier, geolocation data, or other transactional information from that device.  
+We use cookies to track site usage. For more information about cookies go to [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).  
+The usage we track includes content, downloads and advertising and to deliver content and advertising users are interested in. We use third party services such as Google Analytics to understand how users navigate the site and consumption patterns. We also use a web marketing platform, Pardot, based in the United States, to track users in order to better serve our users needs and to manage our newsletter subscribers’ emails and other digital products such as landing pages and forms.  
+These services are bound by the laws of the jurisdictions they operate in and may be required to disclose information to law enforcement and other security agencies.  
+You can turn cookies off but, if you do this, you may not be able to use all services on our website. By using our sites you are agreeing to the use of cookies as described.
 
 ### 4\. Dealing with unsolicited personal information
 
