@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107140503id_/https%3A//www.wmata.com/about/records/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624090635id_/https%3A//www.wmata.com/about/records/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Disclaimer | WMATA
 
@@ -10,7 +10,7 @@ Metro respects your privacy. We collect personal data online only if you buy fro
 
 If you do not supply personal information for one of the purposes listed above, we make no attempt to identify you individually. Rather, we track only aggregate usage data to help us improve site content and organization. The policy details section below specifies what information we collect and how we use it.
 
-If you have any questions or concerns about our privacy policy, please [contact customer service](https://web.archive.org/about/contact/comment-form.cfm).
+If you have any questions or concerns about our privacy policy, please [contact customer service](http://wmata.custhelp.com/app/home/).
 
 ## Policy Details
 
