@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equibase.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005258id_/http%3A//www.equibase.com/about/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equibase.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624044201id_/http%3A//www.equibase.com/about/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Equibase | Privacy Policy
 
@@ -24,7 +24,7 @@ Our site uses an order form for customers to request information, products, and 
 
 ### Security
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. **_equibase.com_** uses 128-bit encryption for all secure links, which adheres to Federal and International guidelines for secure server transactions. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. **_equibase.com_** uses 128-bit encryption for all secure links, which adheres to Federal and International guidelines for secure server transactions. We reveal only the last four digits of your credit card numbers when confirming an order. Equibase uses Tokenization of payment card information and does not keep, maintain or transmit payment card data.
 
 _**equibase.com**_ is tested and certified daily to pass the McAfee Secure Security Scan. To help address concerns about possible hacker access to your confidential data, and the safety of visiting _**equibase.com**_ , the "live" McAfee Secure mark appears only when this site passes the daily McAfee Secure tests.
 
