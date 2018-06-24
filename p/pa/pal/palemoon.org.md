@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the palemoon.org privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222233611id_/https%3A//www.palemoon.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palemoon.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624104445id_/https%3A//www.palemoon.org/privacy.shtml) for the most accurate reproduction.*
 
 # Pale Moon - Privacy Policy
 
+  
+  
+  
+  
 As part of normal operation, the Pale Moon browser connects to several services run by us and (in limited capacity) third parties. These connections include:  
 
 
@@ -9,13 +13,12 @@ As part of normal operation, the Pale Moon browser connects to several services 
 
   * Security list updates like the blocklist for add-ons (Pale Moon operated).  
 
-  * Add-on updates (both Pale Moon operated and provided by Mozilla).  
-Mozilla will only receive update requests for add-ons which we do not host ourselves, and only with the minimum data required to provide updates.  
+  * Add-on updates (Pale Moon operated).  
 
   * Geolocation services (provided by IP-API.com).  
 This service will only receive your IP address and generic browser data through a normal http request. No local network or location data will be sent to this provider. You have the option to disable this feature and you are in control which websites are allowed to request this information or trigger a geolocation lookup.
   * Secure certificate verification: when you visit a secure website (i.e. "HTTPS"), Pale Moon will validate the website's certificate. This may involve communicating with a third-party status provider (e.g. OCSP) specified by the certificate. Pale Moon sends information identifying the site's certificate to this third-party. 
-  * Search and search suggestions: When you perform a web search from the address bar or search bar, your query and standard web browser information will be sent to the search provider to service your request.   
+  * Search and search suggestions (provided by your chosen search provider): When you perform a web search from the address bar or search bar, your query and standard web browser information will be sent to the search provider to service your request.   
 Search suggestions is a feature to help you to find out common phrases that other people have searched for. These search suggestions are offered by your search engines (such as DuckDuckGo, Yahoo, etc.) and not by Pale Moon. If you enable this feature, and your chosen search engine supports suggestions, Pale Moon may send the terms you type in the address bar or search bar to your chosen search engine provider to retrieve suggestions.  
 How this data is handled is governed by the applicable Privacy Policy of your chosen search engine provider.
   * Optional: Pale Moon Sync (Pale Moon operated)  
@@ -103,4 +106,6 @@ You may instruct us to provide you with any personal information we hold about y
 
 
 You may also request for us to remove any personal information linked to your visits, insofar this personal information is easily accessible (e.g. a forum account). You must provide us with sufficient information to verify the validity of your request. We will follow up on your request for such within a reasonable amount of time.  
+  
+  
 
