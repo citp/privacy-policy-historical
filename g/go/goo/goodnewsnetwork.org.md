@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the goodnewsnetwork.org privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903161702id_/https%3A//www.goodnewsnetwork.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodnewsnetwork.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624085648id_/https%3A//www.goodnewsnetwork.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Good News Network
-
-[Home](https://www.goodnewsnetwork.org/) Privacy Policy
 
 This Privacy Policy governs the manner in which Good News Network collects, uses, maintains and discloses information collected from any “User” of the [www.goodnewsnetwork.org](http://www.generateprivacypolicy.com/account/policies/edit/www.goodnewsnetwork.org) website (“Site”). This privacy policy applies to the Site and all products and services offered by Good News Network.
 
@@ -61,7 +59,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 **Changes to this privacy policy**
 
-Good News Network has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Good News Network has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site and revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -73,7 +71,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 [Good News Network  
 ](http://www.generateprivacypolicy.com/account/policies/edit/www.goodnewsnetwork.org)[www.goodnewsnetwork.org  
-](http://www.generateprivacypolicy.com/account/policies/edit/www.goodnewsnetwork.org)PO Box 428 Manassas, VA 20108  
-[gnn@goodnewsnetwork.org](mailto:gnn@goodnewsnetwork.org)
+](http://www.generateprivacypolicy.com/account/policies/edit/www.goodnewsnetwork.org)PO Box 4303, Santa Barbara, CA 93140  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#74131a1a34131b1b101a1103071a1100031b061f5a1b0613)
 
-This document was last updated on February 21, 2014
+This document was last updated on November 14, 2017. We deleted the promise to send an email on the occasion of a change to this policy.
