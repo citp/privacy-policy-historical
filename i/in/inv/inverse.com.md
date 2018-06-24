@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the inverse.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109034330id_/https%3A//www.inverse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inverse.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624044934id_/https%3A//www.inverse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inverse
 
-This Privacy Policy describes the policies and procedures of Full Stack Media Inc. (“we”, “our” or “us”) on the collection, use and disclosure of your information on Inverse.com (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
+This [Privacy](https://www.inverse.com/topic/privacy) Policy describes the policies and procedures of Full Stack Media Inc. (“we”, “our” or “us”) on the collection, use and disclosure of your information on Inverse.com (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
 ## What Does This Privacy Policy Cover?
 
@@ -14,25 +14,25 @@ This Privacy Policy does not apply to the practices of third parties that we do 
 
 The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users.
 
-### Account Information
+## Account Information
 
-When you create an Account, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. If you access the Services through Facebook credentials, we may automatically collect certain information that could be Personal Information, such as your name, picture, and email address. We will use all information available through Facebook in accordance with Facebook’s policies and your preferences selected through Facebook. We may use your contact information to send you information about our Services, but only rarely when we feel such information is important. You may unsubscribe from these messages through your Account settings, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.
+When you create an Account, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be [anonymous](https://www.inverse.com/topic/anonymous). If you access the Services through [Facebook](https://www.inverse.com/topic/facebook) credentials, we may automatically collect certain information that could be Personal Information, such as your name, picture, and email address. We will use all information available through Facebook in accordance with Facebook’s policies and your preferences selected through Facebook. We may use your contact information to send you information about our Services, but only rarely when we feel such information is important. You may unsubscribe from these messages through your Account settings, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.
 
-### User Content
+## User Content
 
 Some features of the Services allow you to provide content to the Services, such as written comments. All content submitted by you to the Services may be retained by us indefinitely, even after you terminate your account. We may continue to disclose such content to third parties in a manner that does not reveal Personal Information, as described in this Privacy Policy.
 
-### IP Address Information and Other Information Collected Automatically
+## IP Address Information and Other Information Collected Automatically
 
-We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on).
+We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used for [fighting](https://www.inverse.com/topic/fighting) spam/malware and also to facilitate collection of [data](https://www.inverse.com/topic/data) concerning your interaction with the Services (e.g., what links you have clicked on).
 
 Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
 
-### Email Communications
+## Email Communications
 
 We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
 
-### Information Collected Using Cookies
+## Information Collected Using Cookies
 
 Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the Internet.
 
@@ -42,15 +42,15 @@ Most browsers have an option for turning off the cookie feature, which will prev
 
 This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer.
 
-### Information Related to Advertising and the Use of Web Beacons
+## Information Related to Advertising and the Use of Web Beacons
 
 To support and enhance the Services, we may serve advertisements, and also allow third parties to serve advertisements, through the Services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called “ad networks.” Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms.
 
-Advertisements served through the Services may be targeted to users who fit a certain general profile category may be based on anonymized information inferred from information provided to us by a user, including Personal Information (e.g., gender or age), may be based on the Services usage patterns of particular users, or may be based on your activity on Third Party Services. We do not provide Personal Information to any ad networks for use outside of the Services.
+Advertisements served through the Services may be targeted to users who fit a certain general [profile](https://www.inverse.com/topic/profile) category may be based on anonymized information inferred from information provided to us by a user, including Personal Information (e.g., gender or age), may be based on the Services usage patterns of particular users, or may be based on your activity on Third Party Services. We do not provide Personal Information to any ad networks for use outside of the Services.
 
 To increase the effectiveness of ad delivery, we may deliver a file (known as a “web beacon”) from an ad network to you through the Services. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.
 
-### Aggregate Information
+## Aggregate Information
 
 We collect statistical information about how both unregistered and registered users, collectively, use the Services (“Aggregate Information”). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you, your Account or your web browser.
 
@@ -62,39 +62,39 @@ Some of your activity on and through the Services is public by default. This may
 
 Please also remember that if you choose to provide Personal Information using certain public features of the Services, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Services.
 
-### IP Address Information
+## IP Address Information
 
 While we collect and store IP address information, that information is not made public. We do at times, however, share this information with our partners, service providers and other persons with whom we conduct business, and as otherwise specified in this Privacy Policy.
 
-### Information You Elect to Share
+## Information You Elect to Share
 
 You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services’ privacy policies. This Privacy Policy only governs information collected on the Services.
 
-### Aggregate Information
+## Aggregate Information
 
 We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us non­private, aggregated or otherwise non Personal Information about you that they have independently developed or acquired.
 
-### Email Communications with Us
+## Email Communications with Us
 
 As part of the Services, you may occasionally receive email and other communications from us, such as communications relating to your Account. Communications relating to your Account will be sent for purposes important to the Services, such as password recovery. We may use your email address to contact you for editorial purposes, to advise you of any changes to our Site, and to send you messages about our marketing partners’ products.
 
-### User Profile Information
+## User Profile Information
 
 User profile information including your username and other information you enter may be displayed to other users to facilitate user interaction within the Services. We will not directly reveal user email addresses to other users.
 
-### Information Shared with Our Agents
+## Information Shared with Our Agents
 
 We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share Personal Information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
 
-### Information Disclosed Pursuant to Business Transfers
+## Information Disclosed Pursuant to Business Transfers
 
 In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy.
 
-### Information Disclosed for Our Protection and the Protection of Others
+## Information Disclosed for Our Protection and the Protection of Others
 
-We also reserve the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
+We also reserve the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, [security](https://www.inverse.com/topic/security) or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
 
-### Information We Share With Your Consent
+## Information We Share With Your Consent
 
 Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
 
@@ -110,11 +110,11 @@ We otherwise store all of our information, including your IP address information
 
 If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
 
-California Privacy Rights: Under California Civil Code sections 1798.83­1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 1 Sutter Street, Suite 350, San Francisco, CA 94108.
+California Privacy Rights: Under California Civil Code sections 1798.83­1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 155 Wooster St, Floor 2, New York, NY 10012
 
-## How Can I Delete My Account?
+#How Can I Delete My Account?
 
-Should you ever decide to delete your Account, you may do so by emailing admin@Inverse.com. If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
+Should you ever decide to delete your Account, you may do so by emailing [admin@inverse.com](mailto:admin@inverse.com). If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
 
 ## What Choices Do I Have Regarding My Information?
 
@@ -130,6 +130,6 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ## What If I Have Questions or Concerns?
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [admin@inverse.com](mailto:admin@inverse.com "Email Inverse"). We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [admin@inverse.com](mailto:admin@inverse.com). We will make every effort to resolve your concerns.
 
 Effective Date: 5/28/2015
