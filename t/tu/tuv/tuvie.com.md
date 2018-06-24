@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuvie.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204212606id_/http%3A//www.tuvie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuvie.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625000939id_/http%3A//www.tuvie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tuvie
 
@@ -8,9 +8,15 @@ What follows is the Privacy Statement for all [http://www.tuvie.com](http://www.
 
 Please read this statement regarding our blogs. If you have questions please ask us via our [contact form](http://www.tuvie.com/contact-us/).
 
+This Privacy Policy applies to you as a reader, a contributor, a writer of content on our website, as a subscriber to our website, as a supplier to our business, as a contractor and in some circumstances as an employee.
+
+In addition, for each visitor to our website cookies will be used which do not collect or disclose any Personal Information about the visitor, but do over time build up data regarding the visitor’s usage of our website.
+
 **Email Addresses**
 
 You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We don’t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact form.
+
+We also collect other data which may be included within the definition “personal data” for the purposes of the GDPR. This data collection might be done through several ways: subscribe to our site, contact us via email/phone, your business card, or any other document containing your personal information. We might also get your data when you visit our Facebook, Instagram, Twitter, or any other social media sites established by Tuvie.
 
 **Ownership of Information**
 
@@ -22,7 +28,7 @@ Most [http://www.tuvie.com](http://www.tuvie.com/) websites contain comment sect
 
 **Cookies**
 
-Currently we assign cookies to our readers in order to save their preferences. This data is not shared with any third party. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you wish.
+Currently we assign cookies to our readers in order to save their preferences. This data is not shared with any third party. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you wish. These tracking technologies such as cookies do not personally identify you. If you do not wish to receive any cookies, you may set your browser to refuse them. However, your use of our website may be affected. 
 
 **Third Party Cookies**
 
