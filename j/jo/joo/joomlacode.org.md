@@ -1,63 +1,177 @@
-> *The following text is extracted and transformed from the joomlacode.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231213745id_/https%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlacode.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624131232id_/https%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Joomla! Privacy Policy
 
-This web site is one of the family of web sites of the **Joomla Project**.
-
-Our postal address is:
+## Legal address
 
 > **Open Source Matters  
 >  PO Box 4668 #88354  
 > New York, New York 10163-4668**
 
-Our legal address is:
+The Joomla Project and the legal entity Open Source Matters maintain a number of websites, including the joomla.org domain and subdomains, joomlacode.org and opensourcematters.org.
 
-> **Open Source Matters  
->  c/o Software Freedom Law Center  
-> 1995 Broadway, FL 17  
-> New York, NY 10023-5882**
+The Joomla Project, concerned about the rights of individuals, particularly with regard to automated processing, and in a desire for transparency with its users, has put in place a policy for covering all these processing operations, the purposes pursued by the latter as well as the means of action available to individuals so that they can best exercise their rights in plain English. To make this policy easy to find, we make it available in the footer of all pages of all our domains.
 
-We can be reached via e-mail at [privacy@joomla.org](mailto:privacy@joomla.org)
+Continued browsing of this site constitutes acceptance without reservation of the following terms and conditions of use. You agree to the use of cookies and other tracers.
 
-The Joomla! Project and the legal entity Open Source Matters maintain a number of websites, including the joomla.org domain and subdomains, joomlacode.org and opensourcematters.org. We are committed to maintaining your privacy as you use these sites. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+The current online version of this privacy policy is the only version that is enforceable during the entire period of use of the site and until a new version replaces it. However, this Policy is not an exhaustive statement of data protection law nor of our or your responsibilities in relation to data protection.
 
-On all of our sites, we use non-personally identifiable and aggregate information to better design our sites. On all of our sites at which we collect personally identifiable information through the site registration process you can correct or modify that information by editing your user profile. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+## What domains does this policy cover?
 
-## Privacy on specific Joomla! sites
+This policy covers domains which are owned and managed by the Joomla Project. As of this writing, this includes:
+
+  * joomla.org and its subdomains
+  * opensourcematters.org
+  * joomlacode.org
+
+
+
+## What information do we collect on our domains and how do we use them?
+
+Personal data means any information relating to an identified or identifiable natural person (identifiable person); an identifiable person is a person who can be identified, directly or indirectly, in particular by reference to a name, identification number or to one or more elements specific to their physical, physiological, genetic, psychological, economic, cultural or social identity.
+
+The personal information that may be collected on our domains are mainly used by us for the management of relations with you.
+
+The personal information collected, processed and/or stored, with your consent, are the following:
+
+  * **Contact forms**
+    * joomla.org  
+Your name, email, phone number, IP to allow us to answer your request. These data are sent by email to the Joomla Project and are stored in the servers of our mail hosting provider,  our web hosting provider, and backups.
+    * opensourcematters.org / developer.joomla.org  
+Your name and email to allow us to answer your request. These data are sent by email to the Joomla Project and are stored in the servers of our mail hosting provider. No data are stored in the hosting server of the sites.
+  * **Newsletters**
+    * joomla.org, developer.joomla.org, extensions.joomla.org, magazine.joomla.org  
+Your name, email and IP are collected and stored on our hosting provider’s servers, and backups are stored at Amazon services and/or hour hosting provider, in order to be able to send you by email news and information you subscribed to.
+
+
+
+### Privacy on specific Joomla sites
 
 On some sites, including extensions.joomla.org, forum.joomla.org, docs.joomla.org, resources.joomla.org, volunteers.joomla.org, magazine.joomla.org, community.joomla.org, certification.joomla.org and showcase.joomla.org you will be asked to provide an email address when registering for an account.
 
-  * If you register at [**forum.joomla.org**](https://forum.joomla.org/ "Joomla! Forum") you can choose whether to allow other forum members to contact you by email or private messaging and the type of personal information that is available using your user profile. You can also opt to subscribe to specific forums or threads which means your email address will be used to send information when new posts are made. All emails from the forum site include a link that allows you to opt out from continued subscription to that thread or forum. Forum administrators may use your email address to contact you if necessary.  
+  * **Forum.joomla.org - Joomla! Forum**  
+If you register at[ forum.joomla.org](https://forum.joomla.org/) you can choose whether to allow other forum members to contact you by email or private messaging and the type of personal information that is available using your user profile. You can also opt to subscribe to specific forums or threads which means your email address will be used to send information when new posts are made. All emails from the forum site include a link that allows you to opt out from continued subscription to that thread or forum. Forum administrators may use your email address to contact you if necessary.  
 Your IP address may be used to identify duplicate user accounts (which are forbidden under the forum rules).  
-Cookies are used to store visitors' preferences and record past activity at a site in order to provide better service when visitors return to our site, such as indicating which threads you have read. You may modify your information and preferences by editing your user profile.
-  * If you register extensions at [**extensions.joomla.org**](https://extensions.joomla.org/ "Joomla! Extensions Directory"), or as a provider at resources.joomla.org, you agree to separate terms of service that allows us to contact you in reference to your account.
-  * If you register as a user at **extensions.joomla.org** your IP address may be used to identify possible abuse of the reviewing and rating system.
-  * Should you choose to edit or create wiki pages at **[docs.joomla.org](https://docs.joomla.org/Special:MyLanguage "Joomla! Documentation")** your identity is recorded and your username is viewable by those who look at the history of the pages you have worked on. Your IP address may be used to identify possible abuse and may be blocked if abuse is detected. On docs.joomla.org you can choose to allow other users to send you email. This feature can be disabled in your user profile. Wiki administrators may still use your email address to contact you if necessary. Your email address is not revealed when sending or receiving messages in this way.
-  * When registering at **[volunteers.joomla.org](https://volunteers.joomla.org/ "Joomla! Volunteers Portal")** , you will be asked to provide your postal address as it is a legal requirement for our register of members. The project may also from time to time use your address to send you promotional materials, should you not wish to receive these items, you can elect to provide the Secretary of Open Source Matters with your postal address via email and simply indicate “Secretary Only” in the field.
-  * When registering on the **Volunteers’ Portal** , you agree to receive notifications from the Portal via email. As this is an essential part of the function of the portal this is mandatory for all users.
-  * When you are registered on the **Volunteers’ Portal** , we may from time to time share your Name and Email and Country with third-party providers. We will notify you before sharing your data with a new provider and will always offer an opt out mechanism for each provider.
-  * On any of the sites with commenting features your name, email address, and IP address will be recorded when you make a comment. This information will not be published or shared with any third parties.
-  * If you opt-in to our **newsletters** , you’re giving permissions to the Joomla Project to store your name and email address.
-  * If you make a financial contribution to Joomla! using the sites, your name, address and other information are collected, but your credit card information is never stored on our sites. PayPal's privacy policy may be viewed [here](https://www.paypal.com/webapps/mpp/ua/privacy-full "here").
+Cookies are used locally on users’ PC to store visitors' preferences and record past activity at a site in order to provide better service when visitors return to our site, such as indicating which threads you have read. You may modify your information and preferences by editing your user profile.
+  * **extensions.joomla.org - Joomla! Extensions Directory**  
+If you register extensions at[ extensions.joomla.org](https://extensions.joomla.org/), or as a provider at resources.joomla.org, you agree to separate terms of service that allows us to contact you in reference to your account.  
+If you register as a user at extensions.joomla.org your IP address may be used to identify possible abuse of the reviewing and rating system.
+  * **docs.joomla.org - Joomla! Documentation**  
+Should you choose to edit or create wiki pages at[ docs.joomla.org](https://docs.joomla.org/Special:MyLanguage) your identity is recorded and your username is viewable by those who look at the history of the pages you have worked on. Your IP address may be used to identify possible abuse and may be blocked if abuse is detected. On docs.joomla.org you can choose to allow other users to send you email. This feature can be disabled in your user profile. Wiki administrators may still use your email address to contact you if necessary. Your email address is not revealed when sending or receiving messages in this way.
+  * **volunteers.joomla.org - Joomla! Volunteers Portal**  
+When registering at[ volunteers.joomla.org](https://volunteers.joomla.org/), if you are a member at any level of the Joomla Project, you will be asked to provide your postal address as it is a legal requirement for our register of members. Unless otherwise requested, your postal address is visible only to the Secretary of Open Source Matters, Inc. The Project may also from time to time use your address to send you promotional materials, should you not wish to receive these items, leave the related tick box unchecked.  
+When registering on the Volunteers’ Portal, you agree to receive notifications from the Portal via email. As this is an essential part of the function of the portal this is mandatory for all users.  
+When you are registered on the Volunteers’ Portal, we may from time to time seek your consent to share your Name and Email and Country with third-party providers.
+  * **magazine.joomla.org - Joomla! Community Magazine**  
+Commenting features: your name, email address, and IP address will be recorded when you make a comment. This information will not be published or shared with any third parties.
 
 
 
-## Sharing of information with third parties
+## What other data do we collect from third parties and how do we use them?
 
-With the exception of the issues discussed in this paragraph we do not share your information with third parties. On some sites, we use third-party advertising companies to serve ads when you visit our Webites. These companies may use information (not including your name, address email address or phone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/policies/technologies/ads/ "click here").
+  * GitHub
+  * Crowdin
+  * JoomlaCode
 
-Your information may be disclosed when we are legally required to by a US court order, to verify or enforce compliance with the policies governing our website and applicable laws, or to protect against misuse or unauthorized use of our website
+
+
+## What automatic data do we collect on our domains?
+
+### Cookies
+
+A "Cookie" or tracer is an electronic file deposited on a terminal (computers, tablets, smartphones) and read when browsing a website, reading an email, installing or using software or a mobile application, whatever the type of terminal used.  
+By browsing this site, you agree to the use of cookies and other trackers. If you don’t accept our use of cookies, you can turn off cookies in your browser settings.
+
+All information collected will only be used to track the volume, type and configuration of traffic using this site, to develop its design and layout and for other administrative and planning purposes, and more generally to improve the service we provide to you.
+
+For more information on the use, management and deletion of cookies for all browsers, we invite you to consult the following link All About Cookies [ ](http://www.allaboutcookies.org/)<http://www.allaboutcookies.org/>
+
+### Google Services
+
+  * **Analytics**  
+This website uses Analytics services from Google LLC. Google Analytics uses "cookies", which are stored on your computer, to help the website analyze how users use the site during their visit. The collected data (including your truncated IP address) is transmitted and stored on a server controlled by Google, located in the United States.  
+Google will use this information about your use of the website to generate reports on website activity for website operators and to provide other services relating to website activity and internet usage. Google will not link the IP address provided by your browser in Google Analytics to any other Google data.  
+Google will retain user and event data for 26 months.  
+You can deactivate the installation and use of Cookies by simply setting up your web browser. However, you will not be able to access all the functions of the site in an optimal way. If you wish to prevent the storage of personal data (including your IP address) and their use by Google, you can install the plugin: [ ](https://tools.google.com/dlpage/gaoptout)<https://tools.google.com/dlpage/gaoptout>  
+For more information, please see the terms of use [ ](https://www.google.com/analytics/terms/us.html)<https://www.google.com/analytics/terms/us.html>  and the privacy policy [ ](https://support.google.com/analytics/answer/6004245?hl=en)<https://support.google.com/analytics/answer/6004245?hl=en>  of Google Analytics.
+  * **reCAPTCHA**  
+Several of our domains (joomla.org, opensourcematters.org, developers.joomla.org) use Google LLC's reCAPTCHA service to protect submissions and prevent spam on the site. It checks if you are a person to prevent certain features of the website from being abused by spam bots.  
+By filling out the forms using this plugin, you consent to sending your IP address and possibly other data required by Google for the reCAPTCHA service. Your data will be communicated to Google and used by their services. However, your IP address will first be truncated by Google in EU Member States - or in other states that are part of the European Economic Area agreement. In exceptional cases, your full IP address will be transmitted to a Google server in the United States and then subsequently truncated. Google will use this information to evaluate your use of this service. The IP address provided to reCAPTCHA through your browser will not be merged with any other Google data.  
+This data collection is subject to Google's Privacy Policy: [ ](https://policies.google.com/privacy?hl=en)<https://policies.google.com/privacy?hl=en>.
+
+
+
+### Other third party services
+
+By visiting our websites, you agree that your browser will make a supplemental connection to our CDN (Content Delivery Network) vendor to load some of our template assets. Your IP address might be tracked by our web server and our CDN vendor’s servers, to grant you a regular navigation experience on our websites. 
+
+### Donations and Payments
+
+If you make a financial contribution and/or payments to Joomla using the sites, your name, address and other information may be collected if you choose to create an account, but your credit card information is never stored on our sites. PayPal's privacy policy may be viewed[ here](https://www.paypal.com/webapps/mpp/ua/privacy-full).
+
+## How long do we hold your data?
+
+The Joomla Project will only hold your information for as long as is necessary or where you ask us to delete records we may delete it earlier.  
+The duration for which we retain your personal information will differ depending on the type of information and the reason why it was collected. However, in some cases personal information may be retained on a long term basis: for example, personal information that we need to retain for legal purposes will normally be retained for at least six years in accordance with usual commercial practice and regulatory requirements.
+
+## How do we store and secure your data?
+
+The Joomla Project makes its best efforts to take all measures to ensure the protection, privacy and security of personal data transmitted by any Internet user, in compliance with the applicable legal regulations.  
+The Joomla Project employs a variety of technical and organisational measures to keep your personal information safe and to prevent unauthorised access to, or use, or disclosure of it. Unfortunately, no information transmission over the Internet is guaranteed 100% secure nor is any storage of information always 100% secure, but we do take all appropriate steps to protect the security of your personal information.  
+
+### Storage of your data
+
+  * The Joomla properties are hosted on the servers located in the United States of:  
+ **Rochen Limited** whose registered office is located at 11 Dudhope Terrace, Dundee, DD3 6TS United Kingdom, registered under number SC242971 - [https://www.rochen.com](https://www.rochen.com/joomla-hosting/)
+  * The Joomla Content Delivery Network (CDN) is provided by:  
+ **MaxCDN / StackPath LLC** , whose registered office is located at 2021 McKinney Ave. - Suite 1100 - Dallas, TX 75201, United States. No personal data are transferred to StackPath or through the CDN.
+  * The Joomla Email accounts as well as any other services provided as part of **G Suite** subscription are provided through servers located in the United States by:   
+**Google LLC,** whose  offices are located at 1600 Amphitheatre Parkway - Mountain View, CA - United States.  
+A copy of the **Data Processing Addendum** (DPA) between Open Source Matters and Google LLC related to GSuite is available here: <https://gsuite.google.com/terms/dpa_terms.html>   
+**EU Model Clauses** for GSuite between Open Source Matters, Inc. and Google LLC are available here: <https://admin.google.com/terms/apps/1/5/en/mcc_terms.html>
+  * The backups of all joomla.org properties are stored at **Amazon Web Services**.
+
+
+
+## How can you access, rectify and delete your data?
+
+Each person has a right of access, rectification and opposition to their personal data. Each person also has the right to limit the processing of personal data relating to them, the right to dereference and the right to the portability of personal data that they have transmitted to the processor.
+
+You can exercise this right by contacting our Data Protection Officer, who has overall responsibility for data protection compliance in our organisation, by email at [privacy@joomla.org](mailto:privacy@joomla.org), by filling this [form](https://www.joomla.org/right-to-be-forgotten.html) or by logging into identity.joomla.org .
+
+All applications must indicate the email address where we can contact the applicant. The reply will be sent within one month of receipt of the request. This one-month period may be extended by two months if the complexity of the application and/or the number of applications so require.
+
+If you subscribed to our newsletters, an unsubscribe link is available in each of the e-mailings sent by the Joomla Project.
+
+## What can be the other uses of my data?
+
+### Recognition
+
+The Joomla Project is a 100% volunteer driven project. Giving recognition to its contributors is important for the project. Therefore, any contributor to Joomla allows and implicitly consents to the Joomla Project to mention their full name throughout the Joomla domains for recognition purpose.
+
+### Transfer of your data
+
+With the exception mentioned previously,  we do not share your information with third parties. On some sites, we use third-party advertising companies to serve ads when you visit our domains. These companies may use anonymous information (not including your name, address email address or phone number) about your visits to our domains in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[ click here](https://www.google.com/policies/technologies/ads/).
+
+Your information may be disclosed when we are legally required to by an United States court order, to verify or enforce compliance with the policies governing our website and applicable laws, or to protect against misuse or unauthorized use of our website  
+The Joomla Project does not sell, trade or rent your personal information to others.
+
+## Linking with third party sites
+
+Joomla websites may contain links to and from other websites.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and they will be a data controller of your personal information. The Joomla Project does not accept any responsibility or liability for these policies and you should check these policies before you submit any personal information to these websites.
+
+In addition, if you linked to a Joomla website from a third-party site, the Joomla Project cannot be responsible for the privacy policies and practices of the owners or operators of that third-party site and recommend that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions.
 
 ## Children's Privacy
 
-Protecting the privacy of the very young is especially important. None of of our websites are structured specifically to attract anyone under 13. However, we recognize that there are Joomla! users and developers under age 13 who may register at one or more of our sites. The privacy policies that apply to all site users also apply to those users under 13.
+Protecting the privacy of the very young is especially important. None of of our websites are structured specifically to attract anyone under 13.  
+We do not knowingly collect personally identifiable information from children under 13 or the age as specified by the data subject's governing laws. If a parent or guardian becomes aware that their child has provided us with Personal Information without their consent, they should contact us at [[privacy@joomla.org](mailto:privacy@joomla.org)  
+](mailto:privacy@joomla.org) However, we recognize that there are Joomla! users and developers under age 13 who may register at one or more of our sites. The privacy policies that apply to all site users also apply to those users under 13 of age.
 
-## Future changes
+## What is the applicable law?
 
-From time to time, we may use user information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+The present conditions of use of our domains are governed by the WP29 law and subject to the jurisdiction of the courts of the Joomla Project's registered office, subject to a specific attribution of jurisdiction arising from a particular legal or regulatory text.
 
-## Questions or comments
+If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please contact us at [privacy@joomla.org](mailto:privacy@joomla.org)
 
-If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please contact us at [privacy@joomla.org](mailto:privacy@joomla.org).
-
-**Last Updated:** 11 August 2017
+**Last Updated:** 21 May 2018
