@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nclottery.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231151639id_/https%3A//www.nclottery.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nclottery.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624122016id_/https%3A//www.nclottery.com/Privacy) for the most accurate reproduction.*
 
-# NC Education Lottery | Privacy
+# Privacy | NC Education Lottery
 
 ### Privacy Policy
 
