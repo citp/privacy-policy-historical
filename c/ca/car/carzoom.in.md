@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carzoom.in privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126220744id_/http%3A//carzoom.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carzoom.in privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624042458id_/http%3A//carzoom.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Carzoom.in | Car Zoom
 
@@ -11,6 +11,8 @@ Without revealing any personal information, one can visit CarZoom any time and u
 But, in case, if you register with the CarZoom and take part in its various activities like posting a comment, enrolling in a contest then you may be asked to provide your personally identifiable information such as your name, email address, address, contact no. etc along with some non-personally identifiable information like your location, personal & professional interests, age, gender, your experience with CarZoom and its services etc. Also, we may get data about our users from the third parties.
 
 Further, in case, you are connecting with CarZoom via any social networking site like facebook, twitter, linked-in etc then we are free to collect your profile information from that particular site and not liable for the same.
+
+**Note:** We respect our visitors/users rights and support “Right to be forgotten”. If you think you’ve ever shared your contact details with us & want us to remove that info, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9cf5f2faf3dcfffdeee6f3f3f1b2f5f2).
 
 ### What about IP addresses?
 
@@ -44,6 +46,10 @@ However, we do not provide your personal identifiable information to third parti
 ### Policy updation
 
 We may change or update our Policy from time to time. In case of making any material change in which user’s info will be treated then we will inform you of such changes by updating any tagline like ‘updated privacy policy’ etc. Any updated privacy policy will be come in immediate effect as soon as it is posted on this site.
+
+### Google Analytics
+
+We use Google Analytics to track visitors on this site. Google Analytics uses cookies to collect this data.In order to be compliant with the new regulation Google included a data processing amendment.The data we collect will be processed anonymously and “Data sharing” is disabled.We don’t use other Google services in combination with Google Analytics cookies.
 
 ### Contact Us
 
