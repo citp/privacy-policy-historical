@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometownhotties.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226214312id_/https%3A//www.maxim.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometownhotties.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624174407id_/https%3A//www.maxim.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Maxim
 
