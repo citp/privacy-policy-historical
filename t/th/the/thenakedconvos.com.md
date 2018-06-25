@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenakedconvos.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904043833id_/http%3A//thenakedconvos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenakedconvos.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625063424id_/http%3A//thenakedconvos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ Third parties may also serve advertisements and use Tracking Technologies to col
 Please note that the use of Tracking Technologies by third parties at our Site is subject to their own privacy policies, not our privacy policy. If you would like more information about your choices concerning online behavioral advertising, including how you may opt-out of some uses of information collected by members of the Network Advertising Initiative and the Digital Advertising Alliance, see the “How to Opt-Out” section below.
 
 **How to Opt-Out   **  
-If you do not want personal information that we collect about you to be used for our own marketing purposes or to be shared with third parties for their marketing purposes, you can opt-out of such use and sharing by emailing your request to us at hello@thenakedconvos.com with the words “OPT-OUT” in the subject line of the email.
+If you do not want personal information that we collect about you to be used for our own marketing purposes or to be shared with third parties for their marketing purposes, you can opt-out of such use and sharing by emailing your request to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with the words “OPT-OUT” in the subject line of the email.
 
 **Links to other Websites**  
 Our Site contains links to other websites. We are not responsible for the information collection or privacy practices of other websites. For example, if you click on an advertisement that links to another website, this privacy policy will not apply to information collected at that other website. We recommend that you review the privacy policies of other websites before you visit those websites or provide any personal information.
@@ -42,7 +42,7 @@ You can submit articles for publication at our Site by completing a “Write Pos
 You can also post your own comments and other information at our Site (“Comments”) through our comments platform. Comments posted at our Site are subject to our privacy policy. Because our Site receives significant traffic and is accessible to anyone on the Internet, you should not submit articles or post Comments that are private or that you do not want to be used and viewed by others. You are solely responsible for any legal or other repercussions that occur as a result of articles you submit or Comments you post at our Site. We assume no responsibility or liability which may arise from your articles or Comments. Please note that when you post comments, we will have access to your email address even if it is not accessible to the public. However, we will not use your email address for marketing purposes unless you otherwise consent to such use (for example, by signing up for our newsletter).
 
 **Access to Personal Information  **  
-You may access, update, and correct inaccuracies in your personal information which is in our custody and control by emailing us at hello@thenakedconvos.com. We may request certain personal information from you for the purposes of verifying your identity. We will respond to your request within 30 days.
+You may access, update, and correct inaccuracies in your personal information which is in our custody and control by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We may request certain personal information from you for the purposes of verifying your identity. We will respond to your request within 30 days.
 
 **Data Retention**  
 We will retain your personal information for as long as necessary to provide services you request (our newsletter, author profiles, etc.). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
@@ -51,7 +51,7 @@ We will retain your personal information for as long as necessary to provide ser
 We have implemented administrative, technical, and physical safeguards to help prevent unauthorized access, use, or disclosure of personal information in our custody or control. However, we cannot guarantee that these safeguards will prevent the unauthorized access, use or disclosure of your personal information.
 
 **Persons Under 18**  
-Our Site is not intended for persons under 18 and we do not knowingly collect personal information from persons under 18. If you are the parent or guardian of a person under 18 and believe that he or she has provided personal information to us, please contact us at hello@thenakedconvos.com and we will delete their information promptly.
+Our Site is not intended for persons under 18 and we do not knowingly collect personal information from persons under 18. If you are the parent or guardian of a person under 18 and believe that he or she has provided personal information to us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will delete their information promptly.
 
 **Visitors Outside Nigeria**  
 Our business is located in Nigeria. Any information that you provide to us may be transferred to and processed in Nigeria. By using this Site, you consent to your information being collected, used, and transferred as disclosed herein.
