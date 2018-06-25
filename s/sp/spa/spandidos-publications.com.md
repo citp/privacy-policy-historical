@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spandidos-publications.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001184937id_/https%3A//spandidos-publications.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spandidos-publications.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625200839id_/https%3A//spandidos-publications.com/pages/privacy) for the most accurate reproduction.*
 
 # Spandidos Publications
 
