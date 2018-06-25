@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipartbest.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220142549id_/http%3A//www.clipartbest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipartbest.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625211529id_/http%3A//www.clipartbest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ClipArt Best
 
