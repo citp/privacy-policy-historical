@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104094453id_/http%3A//www.stockhouse.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625033233id_/http%3A//www.stockhouse.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Stockhouse-Privacy Policy
 
@@ -45,13 +45,13 @@ This Privacy Policy applies to personal information collected by Stockhouse and 
 
 ####  How to Contact Us:
 
-If you have any questions about this policy or wish to make a complaint regarding the treatment of your personal information by us you can write to us using the web form located here: [https://support.stockhouse.com/anonymous_requests/new](https://web.archive.org/web/20171104094453id_/http%3A//www.stockhouse.com/legal/%22https://support.stockhouse.com/anonymous_requests/new%22)
+If you have any questions about this policy or wish to make a complaint regarding the treatment of your personal information by us you can write to us using the web form located here: [https://support.stockhouse.com/anonymous_requests/new](https://web.archive.org/web/20180625033233id_/http%3A//www.stockhouse.com/legal/%22https://support.stockhouse.com/anonymous_requests/new%22)
 
 ###  Complete Privacy Policy
 
 Stockhouse Publishing Ltd. takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-NOTICE: Please visit: [http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm](https://web.archive.org/web/20171104094453id_/http%3A//www.stockhouse.com/legal/%22http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm%22) for important information about safe surfing from the U.S. Federal Trade Commission
+NOTICE: Please visit: [http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm](https://web.archive.org/web/20180625033233id_/http%3A//www.stockhouse.com/legal/%22http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm%22) for important information about safe surfing from the U.S. Federal Trade Commission
 
 This Privacy Policy applies to Stockhouse Publishing Ltd., its subsidiaries, and any of its websites containing the Stockhouse name.
 
@@ -187,7 +187,12 @@ Our sites are not directed at children under the age of 13. We operate our sites
 
 We will retain personal information only as long as necessary to fulfill the purposes stated above, as required for legal or business purposes or as required by law. Subsequently, we will destroy, erase, or make anonymous such information.
 
-####  What Else Should You Know About Your Privacy?
+####  LIVE Leads™ tag from KickFire®
+
+Our website contains a LIVE Leads™ tag from KickFire®. This tag will track activity on the stockhouse.com website. KickFire’s LIVE Leads technology is not connected to any combination of personally identifiable information (“PII”), cookie identifiers, or identification tags that when combined with other information received by the servers, may be used to create profiles of the natural persons and identify them. The IP Address Intelligence used by KickFire’s LIVE Leads TWIN Caching™ technology removes those traces of PII and focuses at the firmographic level. More information can be found at http://id.kickfire.com/privacy-policy
+
+####    
+What Else Should You Know About Your Privacy?
 
 When you post information on discussion boards, blogs, and in your personal profile, the information, along with your screen name is visible to the public. Please remember that whenever you disclose personal information publicly such information can be collected and used by others. In short, if you post personal information online where people can see it, people will know that information and you may receive unsolicited messages from other parties in return. If you do not want strangers to have your e-mail address, you should not post your e-mail address on a discussion board.
 
