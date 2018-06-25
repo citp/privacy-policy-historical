@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hockeydb.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120040451id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeydb.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625054918id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Hockeydb.com
 
-The Internet Hockey Database maintains a full commitment to your privacy. No personally identifying information is ever gathered on anyone visiting this site, with the exception of optional information on the discussion forums. The information given there is never used for any purposes other than the discussion forums.
+The Internet Hockey Database maintains a full commitment to your privacy. Hockeydb.com does not gather personal information from anyone visiting this site, with the exception of optional information on the discussion forums. The information given there is never used for any purposes other than the discussion forums.
 
 You may choose to post anonymously on the discussion forums. You do not have to give your e-mail, and if you do choose to give it, you can shield others from seeing it. Although e-mail addresses are stored, we do not harvest any e-mail addresses from the forum, and we will **never** make your e-mail available to any third party.
 
@@ -24,5 +24,7 @@ We have contracted with ValueClick and other advertising networks to monitor cer
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 We use other third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+
+Exponential Interactive, Inc, as our partner, has a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their privacy policy or contact their data protection officer via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 If you have any questions about your privacy, please [contact us](https://web.archive.org/feedback.html)
