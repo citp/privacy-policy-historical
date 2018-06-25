@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the conversationmarketing.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501005907id_/http%3A//www.portent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationmarketing.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625231134id_/https%3A//www.portent.com/privacy) for the most accurate reproduction.*
 
-# Portent, Inc. Privacy Policy & Terms of Use - Portent
+# Portent Privacy Policy & Terms of Use - Portent
 
-Your privacy is important. The privacy policy outlined below provides information on the data Portent, Inc. collects from you and the ways we protect your data. Please review this policy carefully and contact us if you have any questions.
+Your privacy is important. The privacy policy outlined below provides information on the data Portent collects from you and the ways we protect your data. Please review this policy carefully. And if you have any questions about this Privacy Policy or our treatment of the information you provide us, write to us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1343617a6572706a417662667660676053637c6167767d673d707c7e) or by mail to Portent, 307 3rd Ave S., Seattle, WA 98104, Attn: Privacy
+
+## Cookies
+
+[If Cookie/Privacy Policy doesn’t load, click here](https://www.iubenda.com/privacy-policy/80759855)
+
+[Privacy Policy](https://www.iubenda.com/privacy-policy/80759855 "Privacy Policy")
 
 ## We Respect Your Privacy
 
@@ -28,15 +34,9 @@ Any credit card information you provide is encrypted using SSL before transmissi
 
 We are in compliance with the California Online Privacy Protection Act and will not distribute your personal information to outside parties without your consent. We also comply with the requirements of the Children’s Online Privacy Protection Act. Our website, products and services are all intended for people who are at least 13 years old or older.
 
-## Marketing and Advertising
-
-Portent.com uses the [AdRoll display advertising network](http://www.adroll.com/) to collect visitor data on our site and then serve [targeted display ads](http://www.adroll.com/retargeting) to you on other sites. Our partners use technology such as cookies and web beacons to collect this data. For more information or to opt-out of this type of advertising, please visit [AdRoll’s privacy policy](http://www.adroll.com/about/privacy).
-
-Use of our site implies consent to this privacy policy, which is designed for residents of the US. Any changes to the policy will be posted on this page.
-
 ## Terms of Use
 
-This Web site is owned and operated by Portent, Inc. for your personal, personal use only.  
+This Web site is owned and operated by Clear Link Technologies, LLC dba Portent for your personal, personal use only.  
 Access to and use of this Site are subject to the following terms and conditions.
 
 By using this Site, you agree to be bound by, these terms of use, whether or not you register as a member. By using this site you represent and warrant that you have the right, authority and capacity to enter into this Agreement and to abide by all of the terms and conditions of this Agreement. We reserve the right, at our discretion, to change, modify, add or remove portions of these terms and conditions at any time. Such changes shall be posted on this page of www.portent.com and shall become effective immediately upon posting. Visitors to this Site should periodically check for changes to these terms. Your continued use of this Site following the posting of changes to these terms and conditions (including the Privacy Policy) will mean you accept these changes.
@@ -46,10 +46,11 @@ By using this Site, you agree to be bound by, these terms of use, whether or not
 Portent.com does not accept returns for downloadable eBooks and videos. For services packages, you may cancel within 24 hours of purchase.
 
 If you have any questions about this policy, contact us at:  
-506 2nd Ave., Suite 1700  
+Clear Link Technologies, LLC dba Portent  
+307 3rd Ave S, Suite 400  
 Seattle, WA 98104  
 USA  
-[info@portent.com](mailto:info@portent.com)  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f161119103f0f100d0b1a110b511c1012)  
 206.575.3740
 
- _This policy was last modified on October 24, 2013_
+ _This policy was last modified on May, 2018_
