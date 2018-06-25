@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118144637id_/http%3A//www.sas.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sas.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625232726id_/http%3A//www.sas.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | SAS
 
@@ -12,15 +12,15 @@ Your privacy is important to us. SAS, our subsidiaries and affiliates ("SAS" or 
 In general, you can visit this website, and use associated SAS technologies, without telling us who you are or revealing any personal information about yourself. There are times, however, when we may gather information from you. Personal information like your name, postal address and e-mail address is obtained only when voluntarily submitted. Technical information, like details about your device and IP address, may be collected by virtue of your use of certain other SAS technologies. SAS collects this information in several ways:  
 
 
-  * Through the SAS Profile page (see below)
-  * Through registration, surveys and other online forms (some of which may be managed by third parties on behalf of SAS)
-  * As part of an ongoing sales process
-  * While providing technical support, consultation, live chat, or product information
-  * Through the process of maintaining and upgrading our products
-  * Through automated means such as communications protocols, e-mail communications and cookies
-  * Through our mobile applications (some of which may be managed by third parties on behalf of SAS)
-  * Through your use of social connectors and SAS-affiliated social networking areas
-  * Through your interest in SAS ads placed on third party sites
+  * Through the SAS Profile page (see below).
+  * Through registration, surveys and other online forms (some of which may be managed by third parties on behalf of SAS).
+  * As part of an ongoing sales process.
+  * While providing technical support, consultation, live chat or product information.
+  * Through the process of maintaining and upgrading our products.
+  * Through automated means such as communications protocols, email communications and cookies.
+  * Through our mobile applications (some of which may be managed by third parties on behalf of SAS).
+  * Through your use of social connectors and SAS-affiliated social networking areas.
+  * Through your interest in SAS ads placed on third-party sites.
 
 
 
@@ -30,17 +30,17 @@ In general, you can visit this website, and use associated SAS technologies, wit
 To provide you with timely, high-quality information, we may also ask you to provide us with information regarding your professional interests and experiences with our products or services. Providing us with this information is optional. Personal data or other data collected online may also be combined with information you provide to us through other sources such as product registration, call centers, or in conjunction with events such as trade shows, training seminars and conferences. Information that you supply will relate to the relationship that SAS has with you or your organization.
 
 **Your SAS Profile**  
-Your SAS profile is one collection point we use to manage your personal information. You can create, access, and update your profile information at any time by visiting <http://www.sas.com/profile>. Creating a SAS Profile enables you to:
+Your SAS profile is one collection point we use to manage your personal information. You can create, access and update your profile information at any time by visiting <http://www.sas.com/profile>. Creating a SAS Profile enables you to:
 
-  * Specify your preferences related to SAS' communication with you via e-mail
-  * Gain access to restricted site content
-  * Access SAS white papers
-  * View webcasts and other online events
-  * Subscribe to SAS e-news which is delivered to your in-box and targeted to your needs and interests
-  * Manage your subscriptions to print and online SAS publications
-  * Receive e-mail alerts when key content goes live
-  * Auto-populate form fields with personal information when you make online transactions or complete event registration forms
-  * Participate in [SAS Communities](https://communities.sas.com/welcome "Links to communities.sas.com")  
+  * Specify your preferences related to SAS' communication with you via email.
+  * Gain access to restricted site content.
+  * Access SAS white papers.
+  * View webcasts and other online events.
+  * Subscribe to SAS e-news, which is delivered to your in-box and targeted to your needs and interests.
+  * Manage your subscriptions to print and online SAS publications.
+  * Receive email alerts when key content goes live.
+  * Auto-populate form fields with personal information when you make online transactions or complete event registration forms.
+  * Participate in [SAS Communities](https://communities.sas.com/welcome "Links to communities.sas.com").  
 
 
 
@@ -100,7 +100,7 @@ Links to third-party websites from this website are provided solely as a conveni
 
 ### Our Worldwide Practices
 
-SAS is a global corporation with subsidiaries and business partners in many countries, and with technical systems that cross borders. Personal information collected on our site may be transferred across state and country borders and stored or processed in the United States or any other country in which SAS, its subsidiaries, affiliates or business units maintain facilities for the purposes of data consolidation, storage, and simplified customer information management. By using this website, you consent to any such transfer of information outside of your country of residence. SAS, our subsidiaries, affiliates and business units will handle your information collected on our site in a consistent manner, as described here, even if the laws in some countries may provide less protection for your information.  Our privacy practices are designed to protect your personal information all over the world. To ensure adequate protection for the personal information of employees and workers that SAS receives in the United States from the European Economic Area, and personal information that SAS’ Solutions OnDemand business unit receives in the United States from the European Economic Area, SAS has certified to the US-EU Safe Harbor Principles. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's website at <http://export.gov/safeharbor/>. For more information about the privacy practices of SAS Solutions OnDemand, please see the [SAS Solutions OnDemand Business Customer Privacy Policy](https://web.archive.org/en_us/legal/on-demand-privacy.html).
+SAS is a global corporation with subsidiaries and business partners in many countries, and with technical systems that cross borders. Personal information collected on our site may be transferred across state and country borders and stored or processed in the United States or any other country in which SAS, its subsidiaries, affiliates or business units maintain facilities for the purposes of data consolidation, storage, and simplified customer information management. By using this website, you consent to any such transfer of information outside of your country of residence. SAS, our subsidiaries, affiliates and business units will handle your information collected on our site in a consistent manner, as described here, even if the laws in some countries may provide less protection for your information.  Our privacy practices are designed to protect your personal information all over the world. To ensure adequate protection for the personal information of employees and workers that SAS receives in the United States from the European Economic Area, and personal information that SAS’ Solutions OnDemand business unit receives in the United States from the European Economic Area, SAS has certified to the US-EU Safe Harbor Principles. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's website at <http://export.gov/safeharbor/>. For more information about the privacy practices of SAS Solutions OnDemand, please see the [SAS Solutions OnDemand Business Customer Privacy Policy](https://www.sas.com/en_us/legal/on-demand-privacy.html).
 
 ### Changes to This Statement
 
