@@ -1,69 +1,140 @@
-> *The following text is extracted and transformed from the placelocal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183804id_/http%3A//www.makethunder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placelocal.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625025523id_/https%3A//www.makethunder.com/privacy) for the most accurate reproduction.*
 
 # Thunder | Privacy
 
-## **Privacy Policy**
+## **THUNDER INDUSTRIES PRIVACY STATEMENT**
 
-Effective For: makethunder.com, paperg.com, placelocal.com, flyerboard.com  Effective Date: 01/01/2010
+Effective Date: May 15, 2018
 
-###  **PRIVACY**
+This privacy statement (this “Statement”) describes certain of the privacy practices of PaperG, Inc. d/b/a Thunder Industries (“Company," "we," or "us"). In this Statement we describe how we collect, use, and store information from visitors to our corporate Websites (makethunder.com, paperg.com, placelocal.com, and flyerboard.com). This Statement also describes the services that we provide to our customers, including our hosted solutions that enable our customers to produce and serve customized digital ads; target and test creative content of digital ads; and measure the effectiveness of digital ads; all of which help make online advertising more relevant to consumers (the “Services”). This Statement also describes our end user opt-out mechanisms. Unless otherwise provided in this Statement, this Statement does not cover our offline data practices.
 
-Please note that Thunder Industries’ privacy practices as described below only apply to information use on the websites listed above. It does not apply to the privacy policies or practices of Thunder Industries’ partners or affiliates.
+**Information Collection, Use, and Sharing Policies for our Corporate Websites**
 
-###  **CONTACT INFORMATION:**
+_Information we collect automatically_ : You can visit and navigate our corporate Websites to find information about our companies and Services without providing any information that personally identifies you. We use cookies and other technologies (described below) in connection with a Website analytics service that helps us better understand how our consumers use our Website. These technologies are used in analyzing trends, administering the Website, tracking consumer movements around the Website, and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by our vendor on an individual and aggregated basis. We do not use these technologies to collect any information that personally identifies you through our use of these technologies and do not otherwise link data collected from these technologies to any personally identifiable information collected from you. 
 
-Our main offices are located at: 530 Bush Street, Suite 900 San Francisco, CA 94108   If you have any questions about this statement or how information is collected and used, you can reach us via e-mail at privacy@makethunder.com.
+Our Websites include social media features, such as the Facebook “Like” button; widgets, such as the “Share This” button; or interactive mini-programs. These features may collect your IP address or the pages you are visiting on our Websites and may set a cookie to enable the feature to function properly. Social media features and widgets can either be hosted by a third party or by us. Your interactions with each these features are governed by the privacy statement of the company providing it. 
 
-###  **COLLECTION AND USE OF PERSONAL INFORMATION**
+_Information you provide to us_ : You may wish to request information about our Services or our business, including without limitation to request delivery of resources located at [https://makethunder.com/resources](https://web.archive.org/resources). In order to facilitate the distribution of this content, you will be asked to provide information that could identify you personally, such as your name, company, title, phone number, e-mail address, site name, URL, and address. Based on the nature of your request, we may also ask for additional information, such as number of page views your site receives, how you anticipate you will make use of our products and services, and how you heard about us. You provide all of this information on a voluntary basis only and it is not required in order for you to use and enjoy our corporate Website. You may choose to stop receiving our publications or marketing emails by following the unsubscribe instructions included in these emails or by contacting us as provided below. 
 
-We may collect aggregate information on the following:
+If you apply for a job with us via our Website, we will ask you to provide information that could identify you personally, such as your name, company, title, phone number, e-mail address, mailing address, employment information, and academic information. 
 
-  * Pages accessed or visited
-  * Total time spent on page
+If you represent a customer of our Services, you will be required to enter certain information that can identify you personally (such as username and password) in order to access our user interface [http://www.placelocal.com](http://www.placelocal.com/). 
+
+We may use the information that you provide us to contact you to further discuss your interest in our company and/or and our Services and to send information regarding our companies or partners (such as marketing promotions and events). We may also use this information to improve our Website or the Services we provide. We collect and store this information in a manner that is appropriate for the nature of the data that we collect and the need to fulfill your request. We do not share this information with third parties for their own use, unless you specifically authorize such sharing. 
+
+If you contact us via email, we answer by sending an email response back to you. Subject to our Data Retention policy described below, we also store the email we receive for archival purposes and for our own marketing purposes if we feel that it is consistent with the nature of the inquiry. We will not use return email addresses for any other purpose unless you give us permission to do so. 
+
+_Information we share with third parties_ : We may use the services of third parties in connection with our Website (e.g., technology consultants, fulfillment and tracking vendors, recruitment management providers, customer service agents, etc.) who may, in the course of providing services to us, be given access to the information you have provided to us. Each of these service providers is contractually obligated to provide services to us in a manner consistent with this Statement. _Data Retention_ : We will retain any personally identifiable information you have provided to us for as long as we believe is necessary to provide you the information you requested or as reasonably useful for commercial purposes. _Third-party privacy practices_ : Our Websites may contain links to third party Websites, such as those of our customers and partners. We are not responsible for the privacy practices or the content of such Websites. _Public Fora_ : We may offer you the option to post content to our blog, message board, or chat room. In the course of doing so, you may provide information that can identify you personally. You should be aware that any information that you post, including your profile information, is available to all users of that blog, message board, or chat room, and thus is neither private nor confidential. As such, we cannot guarantee the security of information that you disclose or communicate in these public areas. We reserve the right at any time and in our sole discretion to remove any content that you may post on our blog, message board, or chat room and/or restrict your access to any such blog, message board, or chat room. We further reserve the right to republish any user postings from blogs, message boards, or chat rooms elsewhere on the Internet in any format. To request removal of your personal information from our blog or community forum, contact us as provided below. Note that in some cases, we may not be able to remove your personal information, in which case we will let you know that and why. Your interactions with user community programs we have with third-party social networking sites such as Facebook, LinkedIn, and Twitter may be displayed on our Website and used by us in a manner consistent with this Statement. Your interactions may also be displayed in your social networking profile. These interactions may be viewable by anyone that has access to that profile, depending on your privacy settings with the social networking site. You should review the privacy policies of these social networking sites to understand who may have access to your interactions and how the site may use them.  **Our Provision of Services to Customers**
+
+We are an application services provider, meaning that we host a software application that our customers access via the worldwide Web. We have no direct business relationship with our customers' consumers. Further, we also have no control over the content of the ads, including any cookies or beacons set by advertisers on our customers’ sites. Please direct any questions or comments you have about their collection of your information or the ads served to you to the applicable customer. 
+
+_Thunder Experience Cloud_
+
+: The Thunder Experience Cloud (our "Cloud") is a digital advertising technology platform that our customers use to buy, sell, and deliver online advertising. Our Cloud provides tools for advertisers and their agencies to purchase digital media ad space from website and mobile publishers in the most efficient way possible. Publishers want the ads that appear on their websites to be relevant to their consumers, as doing so helps them provide digital content at lower or no cost to their consumers. Advertisers want to use their budgets efficiently by reaching the right audiences. To accomplish these goals, buyers and sellers of digital media use our Cloud to engage in a variety of advertising methodologies, including interest-based, real-time (or programmatic), contextual, and location-based advertising. Our Cloud also provides these buyers and sellers with other tools that are designed to make the buying and selling of ad space seamless, efficient, and effective. These tools include functionalities that allow our customers to produce and serve customized digital ads; target and test creative content of digital ads; and measure the effectiveness of digital ads; all of which help make online advertising more relevant to consumers. 
+
+_Data that our Customers use with the Cloud_
+
+: Our Cloud is designed to use data that we collect from consumers in the course of providing our Services to our customers as well as data our customers obtain from third party sources. The data we collect while performing Services includes information about a consumer's browsers and devices, such as: the type of browser and its settings; information about the device’s operating system; cookie information; information about other identifiers assigned to the device; IP address from which the device accesses our customer's website or mobile application; information about the consumer's activity on that device, including web pages and mobile apps visited or used; information about the geographic location of the device when it accesses a website or mobile application; and information about the consumer's interests. Most of the data that our Cloud receives from browsers and devices might also be called “HTTP header data” or “clickstream data.” 
+
+Our Cloud also ingests information provided by third-party sources to allow our customer to use such data to target ads. To do this, our customer and its data provider may use ID Synching to enable the use of this information through the Cloud. ID Synching (which sometimes is referred to as cookie syncing) is a common practice in the digital advertising industry that permits advertisers to link data from multiple advertising platforms. ID synching helps advertisers run campaigns in more than one medium. Our Cloud also enables our customer to ingest your Precise Location Information, which is obtained from your device by using one or more methods, including GPS coordinates and information about Wi-Fi networks in your vicinity (geographic location determined from IP address is typically not considered to be “precise”). Devices such as iPhone or Android smartphones typically ask for your consent before installing or using an app that accesses the device’s precise geographic location. The app then may make this information available to our customer or its third party data provider. 
+
+None of the data we collect in the course of providing our Services or that our customer ingests into our Cloud can be used by itself to identify an individual. 
+
+_How We Collect Data for our Customer_
+
+: The Cloud uses cookies, beacons, tags, mobile SDKs, and in some cases non-cookie technologies to collect data associated with particular web browsers or devices. These technologies are described below. 
+
+The cookies we use in connection with our provision of Services enable our customers to target ads to consumers, evaluate how well their ads work, and recognize consumer opt-out choices. We designed the Cloud to use information that is not personally identifiable, and we contractually proscribe our customer from associating the cookies we use on their behalf with personally identifiable information. Our Cloud uses cookies to enable our customer to do the following: 
+
+  * Associate non-personally identifiable information with browsers and devices, so that our customer can use the information to select ads for the Cloud to deliver.
+  * Distinguish between unique web browsers, and to store data for advertising purposes, including interest-based advertising.
+  * Store ad delivery and reporting data for the customer, for example which ad was shown, the number of times a particular ad has been shown, and how recently an ad was shown to a particular web browser.
+  * Enable ad buyers to track consumer responses to ads purchased via the Cloud (e.g., clicks and conversions).
+  * Perform cross-device linking with cookies and identifiers so that different browsers or devices might be associated with each other.
 
 
 
-For each visitor to our site, we may also collect the following user-specific information where possible:
+The Cloud also uses cookies that do not have unique values to enable us to perform server load-balancing and similar technical functions and store a consumer's opt-out choice. 
 
-  * What pages a particular visitor accesses or visits
-  * IP address of visitor
-  * Type of Internet browser of visitor
-  * Type of computer operating system of visitor
-  * Referring URL of visitor
-  * Domain name of visitor
-  * Geographic location of visitor
-  * Visitor activity on website
-  * Visitor contact information
-  * Session-specific information
-  * Other information volunteered by the visitor, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address)
+_How Consumer Data is Used_
 
+: We use the consumer data we collect on behalf of each customer to provide our Services to that customer. Sometime our staff provides personal assistance to help our customer use the Cloud for these purposes, for example by helping to configure advertising campaigns. Particular advertising-related purposes for which our customer may use data on the Cloud include: 
 
-
-The personal information collected on our websites is used for the purpose for which it is requested. Furthermore, we may collect contact information, such as name, email address, or phone number, for those:
-
-  * Interested in purchasing our products and services
-  * Requesting support for our products and services
+  * Interest-based advertising, which uses information collected across multiple web sites or mobile apps to predict a consumer's preferences and to show ads that are most likely to be of interest to them. For example, if a consumer visits an automotive site or uses an automotive app, she might see automobile-related ads on another site or app. Advertisers may also use other information they have or can acquire about users’ interests. Consumers have choices with respect to this type of advertising, as discussed below.
+  * Limiting the number of times a consumer sees a particular ad (also known as "frequency capping")
+  * Showing ads in a particular sequence
+  * Customizing ads to a particular location
+  * Showing ads related to the content of the web page on which an ad is displayed
+  * Determining how consumers respond to ads
+  * Reporting aggregated statistics regarding, for example, the effectiveness of online advertising campaigns
+  * The Cloud may use data for cross-device mapping in order to serve or measure advertising on related devices on behalf of our customer.
+  * Making inferences that certain devices are related to each other, i.e. they belong to the same user or household via either statistical or deterministic methods (or a combination). “Statistical” refers to using mathematical techniques to make intelligent guesses that certain devices are related. “Deterministic” means using known relationships, for example logins that use the same email address or other personal information, to link multiple devices to a single user. When this method is used companies typically mask the actual email address.
 
 
 
-Such information is collected in order to contact those persons to provide information and guidance about our products and services. This information may be stored on our servers in the United States and usually deleted as space requires or in the normal course of business, but can be amended or deleted upon request. We may also collect contact information, including names, email addresses and phone numbers, of those who communicate with others through our products and services.
+As between our customer and us, our customer owns the data that they provide to and generate from their use of the Cloud. Each customer gives us the right to use this data to provide our Services to that customer. Each customer also acknowledges that we have the ability to use this data to enforce our rights as described in our contract with that customer, to improve our Services, and to compile aggregated statistics for our internal or marketing purposes (none of which can identify the customer or any consumer). We contractually require our customers to obtain the appropriate consents for such use of this data. While the Cloud is designed to use only certain types of data, and our customer is contractually prohibited from bringing data onto the Cloud that directly identifies an individual, our customer's use of that data is governed by their own privacy policies and applicable laws, rules, or regulations. 
 
-###  **COOKIES AND WEB BEACONS**
+_Sharing of Data with Third Parties_
 
-We may use cookies to record session information, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our sites, ensure that visitors are not repeatedly sent the same ads, customize content on our websites based on visitors' browser type or other information that the visitor sends. We may serve ads using either a proprietary or third-party ad-serving technology. At this time, our proprietary ad servers do NOT place ad-serving cookies on your computer during this process.
+: The Cloud allows our customers to share Data with each other. Customers have full access to the data that they collect, acquire, or use on the Cloud, and may remove it from the Cloud for their own use and share it with third parties. 
 
-###  **INFORMATION SHARING OR DISCLOSURE**
+_Data Storage on the Cloud_
 
-The information we collect is used to improve our products and services, or customize the content and/or layout of our products and services for each individual visitor. We share certain information with agents, partners, or contractors who assist in providing support for our internal operations, as well as with other reputable organizations to help them contact certain visitors for marketing purposes. We will also disclose visitor information when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our websites and applicable laws or to protect against misuse or unauthorized use of our websites, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the websites. From time to time, we may make the contact information of clients and former clients available to our partners whose products or services we think you may find interesting. If you do not want us to share your email address with other companies or organizations, please let us know by contacting us.
+: Data is stored using generally accepted security standards for as many as 18 months from the date it's collected, then either aggregated or deleted. When our customer removes its data from the Cloud, storage and retention is governed by the customer's own privacy policies. 
 
-###  **OPT-OUT**
+**Tracking and End User Opt-Out**
 
-At any time, you may request opt out of receiving email, mailings, or our use of cookies by contacting us at our physical or electronic address as stated above. You may also request we put your name on our do-not-share list. We will be sure your name is removed from the list we share with other organizations Please provide us with your full name and phone number to ensure your name is removed from any list we share with other organizations.
+ _User Tracking – Desktop_
 
-###  **CHANGES TO THIS PRIVACY POLICY**
+: We use cookies in connection with our provision of Services. These cookies do not store any personally-identifiable information and are not otherwise used to provide your identity; they are instead used to recognize your browser. Our cookie is not specific to any of our individual customers. Accordingly, if you choose to opt-out of our ability to use our cookie on behalf of any of our customers, you will be opted out for all of the Websites and customers that use our Services. If you do not want a unique cookie from us, there is a simple procedure to follow. Click [here](https://www.placelocal.com/privacy/optout) to replace your unique Thunder tracking cookie with an opt-out Thunder cookie. Note that if you select an opt-out cookie, ads delivered to your browser on behalf of customers using our ad serving technology will be targeted based only on the non-personally-identifiable information that is automatically transmitted in the Internet environment when an ad request is received by our ad servers. In such case, your cookie will not be uniquely identified. The non-personally identifiable information that is automatically transmitted includes your browser type, Internet service provider, information about the general content of the site or page displayed on your browser, and other non-personally identifiable information provided by the Website or customer. When you receive this cookie, our systems will know that you have opted out and will not attempt to assign other of our customers' cookies in the future. Since the opt-out cookie does not contain a unique user number, it does not allow your browser to be identified uniquely. Note that if you erase or otherwise alter your browser’s cookie file (including upgrading certain browsers), or use a new or different computer, you may need to opt out again. 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice as we add, change, or remove products and services from our offering. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes. If you are concerned about how your information is used, you should check back at our website periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by emailing us at the above address. Upon request we provide site visitors with access to all non-proprietary information that we maintain about them. Visitors can also write to us to have inaccuracies corrected in the financial information we maintain about them.
+_User Tracking – Mobile Devices_
 
-###  **CONFIDENTIALITY AND SECURITY**
+: In order to provide our Services in connection with mobile applications, we may use technologies that perform functions similar to cookies. To opt out of certain targeted advertising on your mobile device via your device’s identification number, follow the instructions below: 
 
-When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our sites. Our employees are made aware of and are accountable for compliance with these procedures. If you feel that any of our websites are not following its stated information policy, you may contact us at the above addresses or phone number.  
+  * For Android: (1) Open the Google Settings app on your device; and (2) Select Ads.
+  * For iOS: devices with iOS 6 and above use Apple’s Advertising Identifier. To learn more about limiting ad tracking that uses this identifier, visit the Settings menu on your device.
+
+_Location Tracking_
+
+: Standard functionality of our Service enables our customers to associate an approximate, city-level location from the IP address that is transmitted to us when you view an ad we have served. We may, on behalf of our customer, use this location information to improve the relevance of ads you see. If you opt out of our ability to use our cookie on behalf of any of our customers as described above, then we will not use location information for the browser you have opted out. Further, if we are able to match your mobile device to the browser that you have opted out, we will not use location information with that mobile device. General Information and Policies Applicable to Our Websites and Our Provision of Services 
+
+_Cookies, Beacons, Tags, SDKs, and other Technologies_
+
+: A cookie is a small text file that is stored in a web browser by a website or ad server that enables that website or ad server to remember preferences or recognize web browsers from one visit to another or from one website to another. Beacons (also sometimes referred to as web beacons or pixels) and tags are embedded in web pages. A beacon is a small transparent image that is placed on a web page. A tag is a small piece of website code that is run by the web browser. An SDK is a piece of computer code that developers include in their mobile applications. These technologies enable us to collect data, serve advertising, and provide related services, such as measuring ad effectiveness or preventing fake ad traffic, by allowing communication between a web browser and a server. Non-Cookie Technologies perform functions similar to cookies in order to identify unique browsers or devices. For example, some platforms, such as Apple’s iOS and Google’s Play Services for Android, provide unique IDs to be used for advertising. Additionally, mathematical or statistical techniques are sometimes used to try to identify devices. These statistical identifiers are not 100% accurate. Security: We maintain security measures that are designed to protect against the loss, misuse, and alteration of any information that is under our control. However, no method of transmission over the Internet, or method of electronic storage, is completely secure. While we are committed to using commercially acceptable means to protect your information, please be advised that we assume no responsibility or liability for disclosure of your information (personal or otherwise) due to errors in transmission, unauthorized third-party access to our systems, or other causes beyond our control. 
+
+_International Data Transfers_
+
+: We comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. 
+
+In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us as set forth below. We have further committed to refer unresolved Privacy Shield complaints to ICDR/AAA, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit https://www.icdr.org/privacyshield for more information or to file a complaint. The services of ICDR/AAA are provided at no cost to you. We are subject to the investigatory and enforcement powers of the Federal Trade Commission. If we share personal data from EU individuals with a third-party service provider that processes the data solely on our behalf, then we will be liable for that third party's processing of such data in violation of the Privacy Shield Principles, unless we can prove that we are not responsible for the event giving rise to the damage. 
+
+Under certain conditions, more fully described at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>, you may invoke binding arbitration for complaints regarding Privacy Shield compliance that are not resolved by any of the other Privacy Shield mechanisms referenced above. The services of IDCR / AAA are provided at no cost to you. 
+
+_Changes to our business_
+
+: As we continue to develop our business, we may sell certain of our assets. In such transactions, your information may be an asset that is reviewed and transferred. 
+
+_Legal requirements_
+
+: We reserve the right to disclose any data we collect at our Websites or via the Cloud in response to lawful requests by public authorities, including without limitation to meet national security or law enforcement requirements or to protect the health and safety of our employees or the general public. 
+
+_Children_
+
+: Our Websites are not intended to nor does it seek to receive information from children under the age of 13. We do not collect, use, or store personally identifiable information from any person we actually know is under the age of 13. 
+
+_Access or Update Your Information_
+
+: Because we prohibit our customers from collecting information that directly identifies an individual in the Cloud, it is generally not possible for us to provide individuals information that is tied to their identities. Upon your request, we will provide you with information about whether we hold any of your personal information. We provide all visitors to our Websites an opportunity to review, modify, and (where technically feasible) delete any personally identifiable information that has previously been provided. You can email or write to us as set forth below. We will respond to your access request within a reasonable timeframe. If we are unable to grant you access, we will tell you the reason. 
+
+_How to contact us_
+
+: If you have any questions about this Statement or the practices of our Websites, you can contact us at: 
+
+PaperG, Inc., d/b/a Thunder Industries  
+350 Sansome St., Suite 815, San Francisco, CA 94104  
+Attn: Shawn Murphy; privacy@makethunder.com
+
+ _Effectiveness_
+
+: This Statement is effective as of the date set forth above. We encourage you to check this Statement from time to time. We will post changes to this Statement here. If, however, we intend to use personal data in a manner different from that stated at the time of collection we will notify visitors by posting a notice on our Websites for thirty (30) days in advance of such use and we will give you the opportunity to opt out. Your continued use of our Websites and the Services constitutes your acceptance of the current posted Statement. 
