@@ -1,40 +1,43 @@
-<!--The following is the downloaded HTML source of the thecrag.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606103355id_/http%3A//www.thecrag.com/processmap/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecrag.com privacy policy that was archived on 2018-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625174020id_/http%3A//www.thecrag.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/"><head>
+<link rel="preconnect" href="https://static.thecrag.com">
+<link rel="preconnect" href="https://image.thecrag.com">
+<meta name="robots" content="noindex">
 
 
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
+
 <title>Privacy Policy | theCrag</title>
 
-<meta property="fb:app_id" content="">
-<meta property="og:url" content="http://www.thecrag.com">
+<meta property="fb:app_id" content="141410435911098">
+<meta property="og:url" content="">
 <meta property="og:site_name" content="theCrag">
 <meta property="og:title" content="Privacy Policy | theCrag">
+<meta property="og:type" content="document">
+
+
+  
+
+<meta property="og:image" content="http://static.thecrag.com/cids/images/logo2017-526x724-1.1.0.png">
 
 
 
-<meta property="og:image" content="http://static.thecrag.com/cids/images/logo-474-borderless-1.1.0.png">
+<link rel="shortcut icon" href="http://static.thecrag.com/cids/images/favicon-1.1.1.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=3">
+<link rel="apple-touch-icon-precomposed" href="http://static.thecrag.com/cids/images/logo-114-1.1.1.png" sizes="114x114">
 
-
-
-<link rel="shortcut icon" href="http://static.thecrag.com/cids/images/favicon-1.1.0.ico" type="image/x-icon">
-<meta name="viewport" content="width=980">
-<link rel="apple-touch-icon-precomposed" href="http://static.thecrag.com/cids/images/logo-129-1.1.1.png">
-<link rel="apple-touch-icon-precomposed" href="http://static.thecrag.com/cids/images/logo-114-1.1.0.png" sizes="114x114">
-<link rel="apple-touch-icon-precomposed" href="http://static.thecrag.com/cids/images/logo-144-borderless-1.1.0.png" sizes="144x144">
-
-
-<link rel="search" type="application/opensearchdescription+xml" href="/open-search.xml" title="Search theCrag"> 
+<link rel="search" type="application/opensearchdescription+xml" href="/open-search.xml?v=2" title="Search theCrag">
 
 
 
 
 
-<link rel="stylesheet" type="text/css" media="all" href="http://static.thecrag.com/cids/portal-1.1.44.css">
-<link rel="stylesheet" type="text/css" media="all" href="http://static.thecrag.com/cids/process-1.2.7.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://static.thecrag.com/cids/portal-1.1.50a.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://static.thecrag.com/cids/responsive-1.1.22.css">
 <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
 
 
@@ -45,8 +48,6 @@
 <!--[if lt IE 8]>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/json2/20160511/json2.min.js"></script>
 <![endif]-->
-
-<script src="http://static.thecrag.com/cids/process-min-1.2.19.js" type="text/javascript"></script>
 
 
 
@@ -66,6 +67,7 @@ ga('require', 'linkid', 'linkid.js');
 var l = window.location;
 var gapath = l.pathname.replace(/([^\/])$/, '$1/');
 var gaurl = gapath+l.search;
+ga('require', 'outboundLinkTracker');
 ga('send', 'pageview', gaurl);
 
 ga('set', 'dimension1', '');
@@ -86,6 +88,7 @@ var s='unknown';if(parent!==self){
  });
 }
 </script>
+<script src="http://static.thecrag.com/autotrack-2.4.1/autotrack.js"></script>
 
 <!-- Facebook Pixel Code -->
 <script>
@@ -105,12 +108,11 @@ fbq('track', 'PageView');
 
 
 
-
 <script type="text/javascript">
 var staticBase = 'http://static.thecrag.com/';
 </script>
 </head>
-<body id="default" class="">
+<body id="default" class=" responsive">
 
 <div id="fb-root"></div>
 <script>
@@ -179,50 +181,83 @@ function googleBoot(){
 </script>
 
 
+<input type="checkbox" id="shownav">
   <div id="wrapper" class="">
+<style>
+.banner-message {
+    background: #fb0;
+    padding: 4px;
+    text-align: center;
+    font-weight: bold;
+}
+</style>
+
     <div id="header"><div class="inner">
+<label for="shownav" id="shownavgrip" class="btn navgrip">
+<i class="icon-reorder"></i>
+<div>nav</div>
+</label>
+<script>
+$('#shownavgrip').click(function(e){
+	$('.secondary-navigation').addClass('transition').toggleClass('open');
+	$('#shownav').prop('checked', false);
+	e.preventDefault();
+	return false;
+});
+
+$(document).click(function(e){
+	var $e = $(e.target);
+	if ($e.closest('.secondary-navigation').length) return true;
+	if ($e.closest('#shownavgrip').length) return true;
+	if ($e.closest('#shownav').length) return true;
+	$('.secondary-navigation').addClass('transition').removeClass('open');
+	$('#shownav').prop('checked', false);
+});
+</script>
       <div id="headerlogo">
-         <a href="/"><img src="http://static.thecrag.com/cids/images/logo-318x100-1.1.0.png" class="logo fixed" width="159" height="50" alt="rock climbing"></a> 
+        <a href="/en/home">
+            <img src="http://static.thecrag.com/cids/images/logo17-1.1.1.svg" class="logo fixed" width="165" height="60" alt="rock climbing">
+        </a>
 <span class="strapline" title="theCrag: the largest collaborative rock climbing &amp; bouldering platform">collaborative climbing</span>
       </div>
       <div id="headercontrol">
 
-<a class="btn btn-success login " href="/dashboard"><i class="icon-off"></i><label>Sign up/</label><span>Log in</span></a>
+<a class="btn btn-success login " href="/dashboard"><i class="icon-off"></i> <label>Sign up / </label><span>Log in</span></a>
 <div class="popover bottom" id="loginpopover">
-<div class="popover-content">
-<div style="height: 38px;text-align:center" class="waiting-c fb">
+    <div class="popover-content">
+        <div style="height: 38px;text-align:center" class="waiting-c fb">
 <div class="fb-login-button" size="xlarge" scope="email,publish_actions" onlogin="fbLoginSuccess();"></div>
 </div>
 
-<div class="divider"></div>
-<div style="height: 31px;text-align:center" class="waiting-c">
+        <div class="divider"></div>
+        <div style="height: 31px;text-align:center" class="waiting-c">
 <div id="signinButton">
- <span class="g-signin" data-callback="gLoginSuccess" data-clientid="693569563172.apps.googleusercontent.com" data-cookiepolicy="http://thecrag.com/" data-scope="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email" data-redirecturi="postmessage" data-accesstype="offline" data-height="standard"></span>
+ <span class="g-signin" data-callback="gLoginSuccess" data-clientid="693569563172.apps.googleusercontent.com" data-cookiepolicy="single_host_origin" data-scope="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email" data-redirecturi="postmessage" data-accesstype="offline" data-height="standard"></span>
 </div>
 </div>
 
-<div class="divider"></div>
-<form class="bs-docs-example form-horizontal" action="https://www.thecrag.com//CIDS/cgi-bin/cids.cgi" method="post">
- <div class="control-group">
-  <label class="control-label" for="username">Username</label><input autocorrect="off" autocapitalize="off" type="text" id="username" placeholder="Username" name="D:Login">
- </div>
- <div class="control-group">
-  <label class="control-label" for="inputPassword">Password</label><input type="password" id="inputPassword" placeholder="Password" name="D:Password">
- </div>
- <div class="control-group">
-  <div class="">
-    <button id="btnLogin" type="submit" class="btn btn-primary btn-block" name="State:Login">Login</button> 
-    <a class="forgot" href="/processmap/requestpassword">Forgot your login details?</a>
-  </div>
- </div>
- <input type="hidden" name="C:ResetContinueURL" value="1">
- <input type="hidden" name="C:Portal" value="Default Licensee">
- <input type="hidden" name="D:LoginTarget" value="">
- <input type="hidden" name="D:CSRF" value="d7tFmPfRfO6RqfmKAVR7lA">
-</form>
-<div class="divider"></div>
-<a class="btn btn-block" href="/processmap/signup?return=">Create an account</a>
-</div>
+        <div class="divider"></div>
+        <form class="bs-docs-example form-horizontal" action="https://www.thecrag.com//CIDS/cgi-bin/cids.cgi" method="post">
+            <div class="control-group">
+                <label class="control-label" for="username">Username</label><input autocorrect="off" autocapitalize="off" type="text" id="username" placeholder="Username" name="D:Login">
+             </div>
+             <div class="control-group">
+                <label class="control-label" for="inputPassword">Password</label><input type="password" id="inputPassword" placeholder="Password" name="D:Password">
+             </div>
+             <div class="control-group">
+                <div class="">
+                    <button id="btnLogin" type="submit" class="btn btn-primary btn-block" name="State:Login">Login</button> 
+                <a class="forgot" href="/processmap/requestpassword">Forgot your login details?</a>
+                </div>
+            </div>
+        <input type="hidden" name="C:ResetContinueURL" value="1">
+        <input type="hidden" name="C:Portal" value="Default Licensee">
+        <input type="hidden" name="D:LoginTarget" value="">
+ <input type="hidden" name="D:CSRF" value="/b/Scd9DFw+HadzkyOFYmg">
+        </form>
+        <div class="divider"></div>
+        <a class="btn btn-block" href="/processmap/signup?lang=en&amp;return=">Create an account</a>
+    </div>
 </div>
 <style>
 .waiting-c::before {
@@ -260,13 +295,22 @@ $('body').click(function(e){
 
       </div>
 
+<div id="headersearch">
+<form id="searchForm" action="/search/" method="get">
+<input type="search" name="S" value="" placeholder="search"><select name="ST" size="1" onchange="document.searchForm.submit()" class="input-small"><optgroup label="Search">
+<option value="w">World</option>
+<option value="p">Climbers</option>
+</optgroup>
+</select><button type="submit" class="go btn btn-small "><i class="icon-search"></i><span>Go</span></button></form>
+<a class="btn" href="/search" id="failsearch"><i class="icon-search"></i></a>
+</div>
  <div id="headerusage" class="visible-desktop">
-	<p><a href="/article/ContactUs/">Contact us</a> 
+	<p><a href="/en/article/contactus">Contact us</a> 
 <span id="contacts">
  <a href="http://www.facebook.com/thecragcom" target="_blank" title="Follow us on Facebook"><i class="icon-facebook-sign"></i></a>
  <a href="http://www.instagram.com/thecrag_worldwide/" target="_blank" title="Follow us on Instagram"><i class="icon-instagram"></i></a>
  <a href="https://plus.google.com/115717187790858454818/posts" title="Follow us on Google Plus" target="_blank"><i class="icon-google-plus-sign"></i></a>
- <a href="/article/issues" title="Follow us on GitHub"><i class="icon-github-sign"></i></a>
+ <a href="/en/article/issues" title="Follow us on GitHub"><i class="icon-github-sign"></i></a>
 </span>
 </p>
       </div>
@@ -278,21 +322,9 @@ $('body').click(function(e){
 
 
 
-<!--
-</head>
-<body id="default">
-  <div id="wrapper">
-    <div id="header">
-      <div id="headerlogo">
-        <a href="/" title="www.thecrag.com"><img src="cids/images/logo-1.1.1.gif" width="300" height="60" alt="www.thecrag.com"></a>
-      </div>
-      <div id="logout">
-      </div>
-    </div>
--->    <!-- close header -->
 <div id="primary-navigation"><div class="inner">
 <p class="structure-label">Site navigation</p>
-<ul><li id="pt_index"><a href="/climbing/world"><i class="icon-sitemap icon-large"></i><span>Index</span></a></li><li id="pt_map"><a href="/climbing/world/maps"><i class="icon-map-marker icon-large"></i><span>Map</span></a><ul class="dropdown-menu bubble-top-left">
+<ul><li id="pt_index" class=" selected"><a class=" selected" href="/climbing/world"><i class="icon-sitemap icon-large"></i><span>Index</span></a></li><li id="pt_map"><a href="/climbing/world/maps"><i class="icon-map-marker icon-large"></i><span>Map</span></a><ul class="dropdown-menu bubble-top-left">
 <li><a href="/climbing/world/maps"> World map</a></li>
 </ul>
 </li><li id="pt_climbers"><a href="/climbing/world/contributors"><i class="icon-male icon-large"></i><span>Climbers</span></a><ul class="dropdown-menu bubble-top-left">
@@ -305,10 +337,281 @@ $('body').click(function(e){
 <li><a href="/forum/release"> Release forum</a></li>
 </ul>
 </li><li id="pt_photos"><a href="/climbing/world/photos"><i class="icon-camera icon-large"></i><span>Photos</span></a><ul class="dropdown-menu bubble-top-left">
+<li class="nav-header">World</li>
+<li><a href="/climbing/world/photos"> Photos</a></li>
+<li><a href="/climbing/world/topos"> Topos</a></li>
+<li><a href="/climbing/world/webcovers"> Web-Covers</a></li>
 </ul>
 </li><li id="pt_logbook"><a href="/climbing/world/ascents"><i class="icon-check icon-large"></i><span>Logbook</span></a><ul class="dropdown-menu bubble-top-left">
+<li class="nav-header">Competitions</li>
+<li><a href="/en/competition/2018-la-sportiva-90-years">La Sportiva 90th Anniversary Contest</a></li>
 </ul>
-</li><li id="pt_help"><a href="/article/ContactUs"><i class="icon-info-sign icon-large"></i><span>Help</span></a><ul class="dropdown-menu bubble-top-left">
+</li><li id="pt_help"><a href="/en/article/contactus"><i class="icon-info-sign icon-large"></i><span>Help</span></a><ul class="dropdown-menu bubble-top-left">
+  <li>
+    <a href="/home">Homepage</a>
+  </li>
+  <li class="dropdown-submenu">
+    <a href="/en/article/help">Help</a>
+    <ul class="dropdown-menu">
+  <li>
+    <a href="/en/article/contactus">Contact Us</a>
+  </li>
+  <li>
+    <a href="/en/article/media">Media resources</a>
+  </li>
+  <li>
+    <a href="/en/article/beginners">Introduction to Rock Climbing</a>
+  </li>
+  <li>
+    <a href="/en/article/vision">Mission and Vision</a>
+  </li>
+  <li>
+    <a href="/en/article/supporter">Become a financial supporter</a>
+  </li>
+  <li>
+    <a href="/en/article/issues">Bugs and new features</a>
+  </li>
+  <li>
+    <a href="/en/article/policies">Policies</a>
+  </li>
+  <li>
+    <a href="/en/article/credit">Credit and thanks</a>
+  </li>
+    </ul>
+  </li>
+  <li class="dropdown-submenu">
+    <a href="/en/article/explore">Getting started</a>
+    <ul class="dropdown-menu">
+  <li>
+    <a href="/en/article/search">Searching</a>
+  </li>
+  <li>
+    <a href="/en/article/grades">Grades</a>
+  </li>
+  <li>
+    <a href="/en/article/styles">Route styles</a>
+  </li>
+  <li>
+    <a href="/en/article/stars">How stars work</a>
+  </li>
+  <li>
+    <a href="/en/article/cragguru">Nearby iconic routes</a>
+  </li>
+  <li>
+    <a href="/en/article/classiccrags">Classic crags</a>
+  </li>
+  <li>
+    <a href="/en/article/seasonality">Seasonality</a>
+  </li>
+  <li>
+    <a href="/en/article/behavior">Acceptable site behavior</a>
+  </li>
+    </ul>
+  </li>
+  <li class="dropdown-submenu">
+    <a href="/en/article/guidebooks">Get guidebooks</a>
+    <ul class="dropdown-menu">
+  <li>
+    <a href="/en/article/pdfcragguide">PDF Crag Guide</a>
+  </li>
+  <li>
+    <a href="/en/article/kmlcragguide">KML/GPX export</a>
+  </li>
+    </ul>
+  </li>
+  <li class="dropdown-submenu">
+    <a href="/en/article/ticking">Ticking and logbook</a>
+    <ul class="dropdown-menu">
+  <li>
+    <a href="/en/article/loggingascents">Logging ascents</a>
+  </li>
+  <li>
+    <a href="/en/article/ticktypes">Tick types</a>
+  </li>
+  <li>
+    <a href="/en/article/cpr">Climber Performance Rating (CPR)</a>
+  </li>
+  <li>
+    <a href="/en/article/cprtimeline">CPR timeline explained</a>
+  </li>
+  <li>
+    <a href="/en/article/tickshift">Calculating tick shift</a>
+  </li>
+  <li>
+    <a href="/en/article/rankings">Check your local and global ranking</a>
+  </li>
+  <li>
+    <a href="/en/article/importlogbook">Import your logbook</a>
+  </li>
+  <li>
+    <a href="/en/article/exportlogbook">Export your logbook</a>
+  </li>
+  <li>
+    <a href="/en/article/export8a">Export ascent data from 8a.nu</a>
+  </li>
+    </ul>
+  </li>
+  <li class="dropdown-submenu">
+    <a href="/en/article/connect">Contribute and connect</a>
+    <ul class="dropdown-menu">
+  <li>
+    <a href="/en/article/favoritecrags">Add your favorite crags</a>
+  </li>
+  <li>
+    <a href="/en/article/cragchat">Crag forums</a>
+  </li>
+  <li>
+    <a href="/en/article/profile">Publish your profile</a>
+  </li>
+  <li>
+    <a href="/en/article/facebookpublishing">Facebook connect</a>
+  </li>
+  <li>
+    <a href="/en/article/feeds">Subscribe to RSS feeds</a>
+  </li>
+  <li>
+    <a href="/en/article/trips">Climbing trips</a>
+  </li>
+  <li>
+    <a href="/en/article/circuits">Lists and circuits</a>
+  </li>
+  <li>
+    <a href="/en/article/connect-offline">Connect with climbers offline</a>
+  </li>
+    </ul>
+  </li>
+  <li class="dropdown-submenu">
+    <a href="/en/article/contributing">Add routes and topos</a>
+    <ul class="dropdown-menu">
+  <li>
+    <a href="/en/article/indexpermissions">User permissions</a>
+  </li>
+  <li>
+    <a href="/en/article/cragkarma">Karma</a>
+  </li>
+  <li>
+    <a href="/en/article/updatingdescriptions">Write descriptions</a>
+  </li>
+  <li>
+    <a href="/en/article/topotutorial">Draw a phototopo</a>
+  </li>
+  <li>
+    <a href="/en/article/topophotos">Taking photos for topos</a>
+  </li>
+  <li>
+    <a href="/en/article/topotips">Topo tips</a>
+  </li>
+  <li>
+    <a href="/en/article/hashtagging">Hash tagging</a>
+  </li>
+    </ul>
+  </li>
+  <li class="dropdown-submenu">
+    <a href="/en/article/crags">Add areas and crags</a>
+    <ul class="dropdown-menu">
+  <li>
+    <a href="/en/article/documentingacrag">Creating a new crag</a>
+  </li>
+  <li>
+    <a href="/en/article/areatypes">Area types</a>
+  </li>
+  <li>
+    <a href="/en/article/namingpolicy">Naming conventions</a>
+  </li>
+  <li>
+    <a href="/en/article/geolocation">Maps and geolocations</a>
+  </li>
+  <li>
+    <a href="/en/article/structure">Structuring a crag</a>
+  </li>
+  <li>
+    <a href="/en/article/tagging">Structured tagging</a>
+  </li>
+  <li>
+    <a href="/en/article/sensitivecrags">Private, sensitive and closed crags</a>
+  </li>
+  <li>
+    <a href="/en/article/webcovers">Creating Web-Covers</a>
+  </li>
+    </ul>
+  </li>
+  <li class="dropdown-submenu">
+    <a href="/en/article/advanced">Advanced editing</a>
+    <ul class="dropdown-menu">
+  <li>
+    <a href="/en/article/embedingimages">Embedding photos and videos</a>
+  </li>
+  <li>
+    <a href="/en/article/merging">Merging routes and areas</a>
+  </li>
+  <li>
+    <a href="/en/article/mixedcopyright">Mixed copyright</a>
+  </li>
+  <li>
+    <a href="/en/article/publisherparticipation">Publisher participation</a>
+  </li>
+    </ul>
+  </li>
+  <li class="dropdown-submenu">
+    <a href="/en/article/gymsolution">Gym Solution by theCrag</a>
+    <ul class="dropdown-menu">
+  <li>
+    <a href="/en/article/gymlist">Add your Gym to theCrag</a>
+  </li>
+  <li>
+    <a href="/en/article/gymapplication">Register your Gym</a>
+  </li>
+  <li>
+    <a href="/en/article/gymticking">Indoor Gym Ascents</a>
+  </li>
+  <li>
+    <a href="/en/article/competitions">Climbing Contests &amp; Competitions on theCrag</a>
+  </li>
+  <li>
+    <a href="/en/article/gympermissions">Managing Gym Permissions</a>
+  </li>
+  <li>
+    <a href="/en/article/gymarchiveroute">Archiving a Gym Route</a>
+  </li>
+    </ul>
+  </li>
+  <li class="dropdown-submenu">
+    <a href="/en/article/partner">Partner with us</a>
+    <ul class="dropdown-menu">
+  <li>
+    <a href="/en/article/advocacygroups">Advocacy Groups</a>
+  </li>
+  <li>
+    <a href="/en/article/developers">Crag Developers &amp; Guidebook Editors</a>
+  </li>
+  <li>
+    <a href="/en/article/localbusiness">Local business</a>
+  </li>
+  <li>
+    <a href="/en/article/business">Business sponsorship</a>
+  </li>
+  <li>
+    <a href="/en/article/adspecifications">Ad specifications</a>
+  </li>
+    </ul>
+  </li>
+  <li class="dropdown-submenu">
+    <a href="/en/article/extend">Embed and API</a>
+    <ul class="dropdown-menu">
+  <li>
+    <a href="/en/article/api">Sharing and embeding (API)</a>
+  </li>
+  <li>
+    <a href="/en/article/oembed">Embed theCrag</a>
+  </li>
+  <li>
+    <a href="/en/article/app-countyguide">App Case Study: Country guide to climbing areas</a>
+  </li>
+  <li>
+    <a href="/en/article/app-rebrandedsite">App Case Study: Full climbing guide on rebranded site</a>
+  </li>
+    </ul>
+  </li>
 </ul>
 
 </li></ul>
@@ -337,13 +640,19 @@ $('#primary-navigation .inner > ul')[0].addEventListener('touchstart', touchNav,
 </script>
 
 
+<div id="headline"><div class="inner">
+<h1><div class="inner">Privacy Policy
+</div></h1>
+</div></div>
+
+
 <div class="page-content col-all">
 
+<div id="content"><div class="inner">
 
-    <div id="content"><div class="inner">
-      <ul id="breadCrumbs"></ul>
-      
-      <h1>Privacy Policy</h1>
+
+<div class="tc-terms">
+
 <p>www.thecrag.com is committed to respecting the privacy of its customers. The following policy discusses how personal information received by www.thecrag.com will be dealt with.</p>
 <p>As part of its member service www.thecrag.com may collect personal information, for example account name, email address and person's name.</p>
 <p>Personal details (including email address) are not passed on to any third party unless requested by the user, required to by law or as the direct fulfilment of the offered service.</p>
@@ -362,49 +671,53 @@ $('#primary-navigation .inner > ul')[0].addEventListener('touchstart', touchNav,
 
 
 
-<br style="clear: both">
+</div>
 
-    </div></div><!-- close content -->
 
+
+</div></div>
 
 </div>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js"></script>
-<div id="footer" role="contentinfo"><div class="inner">
+
+<div id="footer" role="contentinfo" class="bg-brand-blue"><div class="inner">
 <h2 class="hide">General information</h2>
 
 <div class="links">
   <h4>Privacy</h4>
   <ul>
-	<li><a href="/processmap/copyright">Copyright</a>
-	</li><li><a href="/processmap/siteusagepolicy">Site usage policy</a>
-	</li><li><a href="/processmap/privacypolicy">Privacy policy</a>
-	</li><li><a href="/article/Behavior">Acceptable behavior</a>
+	<li><a href="/copyright">Copyright</a>
+	</li><li><a href="/terms">Site usage policy</a>
+	</li><li><a href="/privacy">Privacy policy</a>
+	</li><li><a href="/en/article/behavior">Acceptable behavior</a>
   </li></ul>
 </div>
 <div class="links">
   <h4>About theCrag</h4>
   <ul>
-	<li><a href="/article/ContactUs">Contact us</a>
-	</li><li><a href="/article/Vision">Our vision</a>
+	<li><a href="/en/article/contactus">Contact us</a>
+	</li><li><a href="/en/article/vision">Our mission and vision</a>
+	</li><li><a href="/en/article/media">Media resources</a>
   </li></ul>
 </div>
 <div class="links">
   <h4>Contribute</h4>
   <ul>
-	<li><a href="/article/Contributing">Adding content</a>
-	</li><li><a href="/article/Donate">Donations</a>
-	</li><li><a href="/article/Sponsor">Sponsorship</a>
-	</li><li><a href="/article/Issues">Feature requests</a>
+	<li><a href="/en/article/contributing">Adding content</a>
+	</li><li><a href="/en/article/supporter">Donations</a>
+	</li><li><a href="/en/article/sponsor">Sponsorship</a>
+	</li><li><a href="/en/article/issues">Feature requests</a>
   </li></ul>
 </div>
-<div class="links">
+<div class="links" itemscope="" itemtype="http://schema.org/Organization">
   <h4>Follow theCrag</h4>
+  <link itemprop="url" href="http://www.thecrag.com">
+  <link itemprop="logo" href="http://static.thecrag.com/cids/images/logo17-1.1.1.svg">
   <ul>
-	<li><a href="https://www.facebook.com/thecragcom" target="_blank"><i class="icon-facebook-sign"></i>Facebook</a>
-        </li><li><a href="https://plus.google.com/115717187790858454818" target="_blank" rel="publisher"><i class="icon-google-plus-sign"></i>Google+</a>
-	</li><li><a href="https://www.instagram.com/thecrag_worldwide/" target="_blank"><i class="icon-instagram"></i>Instagram</a>
-	</li><li><a href="http://www.linkedin.com/company/2041579" target="_blank"><i class="icon-linkedin-sign"></i>LinkedIn</a>
-	</li><li><a href="http://www.youtube.com/user/supportatthecrag" target="_blank"><i class="icon-youtube-play"></i>Youtube</a>
+	<li><a itemprop="sameas" target="_blank" href="https://www.facebook.com/thecragcom"><i class="icon-facebook-sign"></i>Facebook</a>
+    </li><li><a itemprop="sameas" target="_blank" href="https://plus.google.com/115717187790858454818" rel="publisher"><i class="icon-google-plus-sign"></i>Google+</a>
+	</li><li><a itemprop="sameas" target="_blank" href="https://www.instagram.com/thecrag_worldwide/"><i class="icon-instagram"></i>Instagram</a>
+	</li><li><a itemprop="sameas" target="_blank" href="https://www.linkedin.com/company/2041579"><i class="icon-linkedin-sign"></i>LinkedIn</a>
+	</li><li><a itemprop="sameas" target="_blank" href="https://www.youtube.com/user/supportatthecrag"><i class="icon-youtube-play"></i>YouTube</a>
   </li></ul>
 </div>
 
@@ -429,17 +742,13 @@ $('#primary-navigation .inner > ul')[0].addEventListener('touchstart', touchNav,
 <script src="http://static.thecrag.com/cids/tc_translate-min-1.1.0.js" type="text/javascript"></script>
 <script src="http://static.thecrag.com/jquery/poshytip-1.1/jquery.poshytip.local.min.js" type="text/javascript"></script>
 <script src="http://static.thecrag.com/bootstrap/2.1.1-c7/js/bootstrap.min.js" type="text/javascript"></script>
-<script src="http://static.thecrag.com/cids/common-min-1.1.34.js" type="text/javascript"></script>
-<script src="http://static.thecrag.com/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" type="text/javascript"></script>
+<script src="http://static.thecrag.com/cids/common-min-1.1.38.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.6/jquery.lazy.min.js" type="text/javascript"></script>
+<script src="http://static.thecrag.com/cids/process-min-1.2.20.js" type="text/javascript"></script>
 
 </div><!-- close wrapper -->
 
 
-
-
-
-
-  <!-- close wrapper -->
 
 
 </body></html>
