@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wqow.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209205257id_/http%3A//www.wqow.com/story/15534331/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wqow.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625223518id_/http%3A//www.wqow.com/story/15534331/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WQOW TV: Eau Claire, WI NEWS18 News, Weather, and Sports
 
