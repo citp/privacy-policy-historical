@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dollarstorecrafts.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217141750id_/http%3A//dollarstorecrafts.com/about-2/mailing-list/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarstorecrafts.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625113501id_/http%3A//dollarstorecrafts.com/about-2/mailing-list/privacy) for the most accurate reproduction.*
 
-# Privacy – Dollar Store Crafts
+# Privacy » Dollar Store Crafts
 
 **What information do we collect?**
 
