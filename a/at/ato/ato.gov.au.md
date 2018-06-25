@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ato.gov.au privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221021552id_/https%3A//www.ato.gov.au/About-ATO/Access%2C-accountability-and-reporting/In-detail/Privacy-notices/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ato.gov.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625183527id_/https%3A//www.ato.gov.au/About-ATO/Access%2C-accountability-and-reporting/In-detail/Privacy-notices/Privacy-policy) for the most accurate reproduction.*
 
 # ATO privacy policy | Australian Taxation Office
 
@@ -265,11 +265,11 @@ Unless authorised by law, your TFN must not be used or disclosed to:
 
 #### Compromised TFNs
 
-Your TFN is used to identify you in your dealings with us. You should destroy or delete your TFN from any documents before you throw those documents away. Your TFN and other personal information can be used by others to lodge tax returns and other tax forms and to receive refunds in your name.
+Your tax file number (TFN) is used to identify you in your dealings with us. You should destroy or delete your TFN from any documents before you throw those documents away. Your TFN and other personal information can be used by others to lodge tax returns, and other tax forms, and to receive refunds in your name.
 
 If your TFN is known to, or being used by someone who shouldn’t have it, this is referred to as a compromised TFN.
 
-If you think that your TFN has been lost, stolen or misused, phone us on **13 28 61** between 8.00am and 6.00pm, Monday to Friday.
+If you think that your TFN has been lost, stolen or misused, phone us on **13  28 61** between 8.00am and 6.00pm, Monday to Friday.
 
 When you phone, tell us whether your TFN is being used by someone else, or if it may be known to someone else and how you came to know this. For example, let us know if you have received a Notice of Assessment about a return you haven’t lodged, or if you have included your TFN in a profile you posted online while looking for work.
 
@@ -277,13 +277,34 @@ If we establish with you that your TFN has been compromised, the first steps we�
 
 #### Re-establishing and confirming your identity
 
-You will need to re-establish your identity by providing us with original identification documents and by completing an application for a new TFN.
+You will need to re-establish and confirm your identity with us if your TFN has become compromised. To re-establish your identity you will need to provide us with proof of your identity. This may include your TFN, date of birth, address, or bank account details.
 
-When you phone us, we’ll discuss the identification documents you’ll need to provide. We’ll also make an appointment for you to come to an ATO shopfront for a personal interview and to complete a new application.
+In some circumstances we may require you to provide us with original identification documents and to complete a 'Tax file number – application or enquiry form'.
 
-If you are restricted by location (for example, you are in a remote area or are being held in custody) or by personal circumstances (for example, you have limited mobility or are ill), ask us what alternatives may be available to conduct the personal interview.
+We will let you know when you phone us how to re-establish and confirm your identity.
 
-Once we have spoken to you, received your new application and seen your original documents, we will contact other government departments to confirm the authenticity of your identification documents. This can take a number of weeks.
+If we require you to fill out a 'Tax file number – application or enquiry form' we may ask you to attend an ATO shopfront or Australian post office with your proof of identity documentation.
+
+Ask us what alternatives may be available to you if you are:
+
+  * restricted by location, for example you
+    * are in a remote area
+    * are being held in custody
+ 
+  * restricted by personal circumstances, for example you
+    * have limited mobility
+    * are ill.
+ 
+
+
+
+We may also need to verify your documents with other government departments to confirm the authenticity of your identification documents. After we re-establish your identity, we will review your situation and the level of risk. We will then discuss with you any further action that is required to be taken.
+
+**See also:**
+
+  * [Identity theft – how we can help](https://web.archive.org/general/online-services/identity-security/identity-theft---how-we-can-help/)
+
+
 
 #### Check your tax records
 
