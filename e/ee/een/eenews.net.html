@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the eenews.net privacy policy that was archived on 2017-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171119051151id_/https%3A//www.eenews.net/eep/learn_more/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eenews.net privacy policy that was archived on 2018-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625104457id_/https%3A//www.eenews.net/eep/learn_more/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="eep test_running no-js "><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class="eep   js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths cookies responsive" style=""><!--<![endif]--><head>
 <meta charset="utf-8">
-<script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"57a0e6af43","applicationID":"2175329","transactionName":"IQsNEkdeDV4HQUwRWhYBPBZUVgRBTUALDUQ=","queueTime":0,"applicationTime":118,"agent":"","atts":"GUYWRA9KQ1ENXRcQXA4IBhR0UhVbDV1BWBERDAwRF0wc"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQOV15QGwEBU1RRBQg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
-<title>E&amp;E News -- Privacy Policy
+<script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"57a0e6af43","applicationID":"2175329","transactionName":"IQsNEkdeDV4HQUwRWhYBPBZUVgRBTUALDUQ=","queueTime":0,"applicationTime":195,"agent":"","atts":"GUYWRA9KQ1ENXRcQXA4IBhR0UhVbDV1BWBERDAwRFx1DQhBaFQNQGycMCEZUD0YmWgIOXAU3CwlCX0MIBFIPEVZORhMUXEcAURtjDA5aAR0gClxSClcGdRENXiYNAgpaVkMIBFIPEVYfGQ=="}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQOV15QGwEBU1RRBQg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
+<title>E&amp;E News -- Privacy and Data Practices Policy
 </title>
 
 <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="GXcZLxGrwEkRxfkDc9+ZcGLEZt0MpklrKf1sPUqnJnBnkQjlId9X/FPD+C86f1zOXOy/L5NBkD6+t+j86XDZsA==">
+<meta name="csrf-token" content="6jqi53m6vqxd8d/Y/1y0L5/Zqjd6vE+g4IPheObwmGWMdjxIKewbYKBiUzh7i93r6ibyxSo4uwZxFenmI+LJUg==">
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
 <meta name="keywords" content="">
 
@@ -32,15 +32,15 @@
 <!--end favicon_2017 -->
 
 
-<link rel="stylesheet" media="all" href="/application_assets/application-b90c031e2f2175b13b0a922db5415a7e6cc2e78484d6ba74d1a02c0072c774a8.css">
+<link rel="stylesheet" media="all" href="/application_assets/application-8cbd09483f98bea62da2a8c3791930504b0cea285af4a8f6f58e87f39e456f84.css">
 
-
+<link rel="stylesheet" media="all" href="/eep/learn_more/privacy_policy.css">
 
 
 <!--[if lt IE 9 ]>
 <script src="/application_assets/jquery1.8.3-a5a3d22752c67fa45d17b63100fb3411c9498812430af9efe66aaa714cda8853.js"></script>
 <!--<![endif]-->
-<script src="/application_assets/application-4c56c67f42a54529d9431fe706cc405477bddefd5569776d88af5d1a6697a1e7.js"></script>
+<script src="/application_assets/application-c17d8ea50d73ee4a1140afa2d13618ec7e86f4d47f9a53fa1657510c2dfb5e97.js"></script>
 
 
 
@@ -99,8 +99,8 @@ googletag.cmd.push(function() {
   
 </section>
 </header>
-<section class="publication site_container" id="publication_0">
-<header class="promo">
+<section class="publication site_container" id="publication_0"><nav class="responsive disabled"><section>View in mobile mode</section></nav>
+<header class="promo"><nav class="responsive"><section><span class="sprite search_icon"><span>search</span></span></section><section><span class="sprite resize_text_icon"><span>text size</span></span></section><section><span class="sprite gear_icon"><span>Settings</span></span></section></nav>
 
 <nav class="edition">
   <ul>
@@ -111,7 +111,7 @@ googletag.cmd.push(function() {
   <input type="submit" name="commit" value="go!" data-disable-with="go!">
   </form>
 </nav>
-<nav class="breadcrumbs">    <a href="/learn_more/about_EEPublishing">Back to About E&amp;E News</a>
+<nav class="breadcrumbs">    <a href="/eep/learn_more">Back to About E&amp;E News</a>
 </nav>
 </header>
 
@@ -120,74 +120,234 @@ googletag.cmd.push(function() {
 <section class="site_page" id="site_page_16">
       <section class="ee-row">
 
-  <section class="layout_module span15 offset0" id="layout_module_3887">
+  <section class="layout_module span18 offset3" id="layout_module_3887">
       <section class="layout_module_content" id="layout_module_content_9244">
         <section class="html_content" id="html_content_7990">
-  <div class="html_content_content"><h1>E&amp;E's privacy policy</h1>
+  <div class="html_content_content"><h1>E&amp;E's privacy and data practices policy</h1>
 
-<p>E&amp;E News wants you to use <a href="http://www.eenews.net/" eudora="AUTOURL">www.eenews.net</a> and our related Web sites with the knowledge
-  that we have taken steps to implement fair information practices designed to
-  protect your privacy. The following explains what information we collect about
-  you and how we use it.
+<p>In support of the European Union’s General Data Protection Regulation (GDPR), E&amp;E News has updated our Privacy and Data Practices Policy to explain why we collect data, how we collect it and what we do with it.</p>
+
+<p>Here is a summary of our Privacy and Data Practices Policy, followed by the full text. The summary gives you the major points but is not the entire Privacy and Data Practices Policy. We encourage you to read the <a href="#fullText">full privacy policy text</a> before leaving this page.</p>
+
+<h1>Summary</h1>
+<p>E&amp;E News collects and stores data on all registered users and subscribers for the purposes of supporting our subscription services and enhancing the user experience. When you visit this site or access any of our services, you are granting your consent to our data collection practices.</p>
+
+<p>E&amp;E News appreciates and respects your right to privacy. We will never share your personal information –- unless required by law -- and will always take care to prevent unauthorized parties from accessing your data. We have put in place safeguards to protect your data from malicious intrusion. And we limit the number of E&amp;E News staff with access to your information.</p>
+
+<h2>Why do we collect your data?</h2>
+<p>We collect your data for a variety of purposes, specifically to:</p>
+<ul>
+<li>determine what content generates the most interest;</li>
+<li>evaluate how much you and your organization value our services;</li>
+<li>deliver to you the appropriate access to our services;</li>
+<li>set which email alerts you wish to receive;</li>
+<li>monitor and optimize our site’s performance;</li>
+<li>customize the site to improve your experience; and</li>
+<li>communicate directly to you.</li>
+</ul>
+
+<h2>What data do we collect?</h2>
+<ul>
+<li>
+E&amp;E News collects personally identifiable information such as email address, full name and organization for the purposes of delivering the appropriate content and to improve user experience. For example, this data helps us determine your subscription access and email preferences.
+</li>
+<li>We use cookies to identify visitors to the site and to enable us to provide subscription-based services. We also collect technical information sent with each browser request, like IP address, browser version and content viewed.</li>
+</ul>
+
+<h2>How do we collect the data?</h2>
+<ul>
+<li>Users provide information about themselves or their organization’s other readers through registration or sign-up forms. 
+</li>
+<li>Our account services team collects data on the staff of an organization with a trial or paid subscription. We do this so that they can have access as part of an organization’s subscription agreement. This data is collected through communication with an organization’s subscription contact or through research by our team of the organization’s staff structure.
+</li>
+<li>Site tools traffic, such as emails sent via our website, are captured and counted so that we can measure the effectiveness of and improve our site tools. We also occasionally measure open rates on emails sent to our registered users and subscribers to determine their reach. </li>
+</ul>
+
+
+
+<h2>Can you rescind your consent?</h2>
+
+<p>We respect your right to rescind your consent at any time, though we need the data to properly support your subscription and site experience. The best option to rescind your consent is to <a href="https://www.eenews.net/email_alerts/unsubscribe">unsubscribe</a> from our email alerts and stop using the site.</p>
+<p>If you wish to have your data permanently removed from our database, email your request to Michael Abate, director of product management, at <a href="mailto:mabate@eenews.net?subject=Privacy%20Policy%20Inquiry">mabate@eenews.net.</a>
+Please note: We are obligated to maintain usage information for subscriptions in the event that there is a dispute or legal concern. In those cases, we may maintain the data while stripping out personally identifiable information.
 </p>
-<h2>What  information do we collect?</h2>
-<p>Our Web site site automatically recognizes your domain name, IP address, browser
-  version, operating system, the user name of subscribers when they log-on and
-  the site you passed through to reach <a href="http://www.eenews.net/" eudora="AUTOURL">www.eenews.net</a>. Our site automatically gathers certain usage
-  statistics, including the volume and frequency of visitors to specific pages
-  on our site. Specific information about you is only collected by our Web site
-  when you voluntarily provide that information -- such as your name, organization,
-  address, telephone number and e-mail address -- when you subscribe to one of
-  our services or sign-up for a trial.</p>
 
-<h2>Why  do we collect certain information?</h2>
-<p>The information we automatically collect is used to determine what stories,
-  publications and reports generate the most interest among our readers. It also
-  helps us monitor general trends in how the site is used.</p>
-
-<h2>What  do we tell others about you?
-    </h2>
-
-<p>We do not provide information&nbsp;about individual usage automatically
-  collected by our Web site -- or provided to us voluntarily -- to third parties
-  unless we are legally required to do this. We do on occasion provide statistical
-  data to partners and clients in order to explain how subscribers use our Web
-  site. This data is aggregated and does not provide specific information about
-  individuals or their usage of our Web site. Some organizations, as part of
-  a subscription agreement, do require us to provide information about how frequently
-  their employees, in aggregate, use our site.</p>
-
-<p>We do not share client contact information, including email addresses, with third parties unless required by law.</p>
-
-<h2>What  are your options?</h2>
-<p>We use e-mail to notify people that our publications are published and also
-  to provide other notifications about our products. You have the option of not
-  receiving e-mail from us. To stop receiving e-mail or to get e-mail only for
-  specific publications, go to <a href="http://www.eenews.net/email_alerts/unsubscribe">http://www.eenews.net/email_alerts/unsubscribe</a> and
-  use the brief form to tell us what you would like us to do. </p>
-
-<h2>Would  you like more information?</h2>
-
-<p>To get more information about our Privacy Policy, contact us at <a href="mailto:pubs@eenews.net">pubs@eenews.net</a>.</p></div>
-</section>
-</section></section>
-
-  <section class="layout_module span9 offset0" id="layout_module_3886">
-      <section class="layout_module_content" id="layout_module_content_9243">
-        <section class="html_content" id="html_content_7989">
-  <div class="html_content_content"><div class="links">
-<h2><a href="/trial/">Request a trial</a></h2>
-<h2><a href="/email_alerts/">Sign up for e-mail alerts</a></h2>
-<h2><a href="/eep/learn_more/">Learn about E&amp;E News</a></h2>
-<h2><a href="/eep/learn_more/staff_directory">Contact E&amp;E</a></h2>
-<h2><a href="/eep/advertise/">Advertise with E&amp;E</a></h2>
-<h2><a href="/eep/learn_more/jobs/">Work at E&amp;E</a></h2>
-<p>&nbsp;</p>
-</div>
 
 </div>
 </section>
+</section>      <section class="layout_module_content" id="layout_module_content_84869">
+        <section class="html_content" id="html_content_9099">
+  <div class="html_content_content"><a name="fullText"></a>
+<h1 class="legalTextHeader">Full Text</h1>
+
+<div class="legalText">
+
+<h2>INTRODUCTION</h2>
+<p>Environment &amp; Energy Publishing, LLC (“E&amp;E News” or "E&amp;E", “we”, “us”, or “our”) is committed to respecting your privacy rights.  E&amp;E News is a news organization focusing on energy and the environment.  Our five daily publications (collectively, our “Services”) deliver original and compelling journalism that keeps top decisionmakers in government, business, NGOs and academia informed and ahead of the curve. E&amp;E’s success as an independently owned news organization -- established in 1998 – relies on producing timely and objective reporting that our subscribers from all sides of the issues value and trust.
+</p>
+<p>
+We created this Privacy and Data Practices Policy (“Privacy Policy”) in order to demonstrate our commitment to you (“you” or “your”), our Subscribers, Registered Users, Visitors and Audience Members (all defined below), regarding your privacy with respect to information that we collect about you or that you submit to Us via the Services or through our internet website located at https://www.eenews.net/ (the “Website”). 
+</p>
+<p>
+Environment &amp; Energy Publishing, LLC, owner and operator of the Website and the Services, is a limited liability company formed under the laws of the District of Columbia, United States.
+</p>
+<p>
+This Privacy Policy applies to our “Subscribers” and "Registered Users", who are federal and state government agencies and departments, the US Congress and state legislative offices, energy companies, corporations, environmental groups, colleges and universities, law firms, think tanks and others that use our Services and individuals acting on behalf of such Subscribers; and to “Visitors”, who are visitors to our Website and may include Registered Users or Subscribers.
+</p>
+<p>
+This Privacy Policy does not apply to information of any kind that we collect by means (including offline means) or from sources other than those specified herein. 
+</p>
+<h2>
+PERSONAL INFORMATION
+</h2>
+<p>
+As used in this Privacy Policy, “Personal Information” means any information or set of information about an identified or identifiable natural person, where an identifiable natural person is one who can be identified by all means reasonably likely to be used by any person to identify the natural person directly or indirectly.  “Personal Information” does not include information that is not associated with an identified or identifiable individual or information that is reported in the aggregate (provided that such aggregated information is not identifiable to a natural person), and does not include information as to which identifying characteristics have been removed without means reasonably likely to be used by any person to re-identify the natural person directly or indirectly.
+</p>
+<h2>NOTICE</h2>
+<p>
+Where we collect or receive Personal Information about you directly from you, we will explain the purposes for which we collect and use such Personal Information, the types of third parties to which we disclose that information, and the choices and means, if any, we offer you for limiting the use and disclosure of Personal Information about you. This explanation will be provided as soon as practicable and, in any event, before we disclose your Personal Information or use such information for a purpose materially different than that for which it was originally collected or processed. 
+</p>
+<h2>Collection of Personal Information</h2>
+<p>
+Information You Voluntarily Provide Us: When you visit our Website or use our Services, we may collect certain types of information that you submit voluntarily. This information is “Personal Information” since it identifies you. You will need a username and password from us in order to access the protected areas of the Website, including the Services. We require some limited information to create an account for you, including your user name, password, email address, mailing address and telephone number. In addition, if you are accessing the Website or our Services on behalf of a Subscriber, you may provide certain information, for example, the Subscriber’s name, email address, and password. We also collect certain information from you in order to process transactions on our Services, including credit card numbers and associated billing information. We refer to this information as “Billing Information”. Our legal basis for processing this information is your consent. 
+</p>
+<p>
+Automatically-Collected Information: Whether you are a Visitor visiting our Website or acting on behalf of a Subscriber visiting our Website, we automatically collect certain information that your browser sends when visiting websites in general. This information, often referred to as “Log File Information”, may include the URLs you visited; your IP address; date and time when visiting our Website and time spent on pages visited; and information about your browser and platform. In addition, when you use the protected areas of the Website, certain Log File Information about your use is automatically recorded and retained, such as account activity (e.g. number of log-ins), and data displayed or clicked on (e.g. user interface elements, links).  This information may also include Cookies, web bugs, device information, and navigational data like Uniform Resource Locators (URLs), which we may use to gather information regarding the date and time of your visit, as well as your geo-location (from your IP address).  “Cookies” are small pieces of information that a website sends to your browser. Session Cookies do not track where you have been on the internet and do not gather information about you that could be used for marketing purposes.  Session Cookies are only stored for the duration of your visit to the Website and are deleted from your device when you close your browser.  Persistent Cookies are saved on your device for a fixed period of time after you close your browser and are activated each time you visit our Website.  Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to disable persistent Cookies, you may experience session errors and may need to log-in again each time you use the Services. Our legal basis for processing this information is your consent and our legitimate interests, namely monitoring and improving our Website and Services.
+</p>
+<h2>Use of Information We Collect</h2>
+<p>
+We use the information we collect to respond to your requests, resolve problems, to maintain your account and provide the Services and Website to you, to improve our offerings and to create new services, and to market our products or services and those of third parties to you. We use Billing Information only for purposes of authentication and to process transactions on the Services. We may also use information collected above to comply with our legal and regulatory obligations, policies and procedures, and for internal administrative purposes.
+</p>
+<p>
+From time-to-time, we may use your information to market to you our products or services and those of our affiliates, partners and third parties. We may also send you certain Service and administrative notices.
+</p>
+<p>
+Aggregated / Anonymous information. We may use information that is in aggregate / anonymous form to create compilations of aggregated data and/or statistics and reports, and any other uses without restriction. This includes reporting information to Subscribers of the Services in order to give Subscribers information in order to evaluate the value of the Services to their needs, as well as to market and improve the Services. We also use aggregate / anonymous data to analyze Website usage and customize the Website’s content, layout and services. These uses improve the Website and the Services and better tailor them to meet your needs, so as to provide you with an efficient and customized experience while using the Website and the Services. Information that is in “aggregate / anonymous” form refers to non-identified information or information that is reported in the aggregate (provided that such aggregated information is not identifiable to a natural person), and does not include information as to which identifying characteristics have been removed without means reasonably likely to be used by any person to re-identify the natural person directly or indirectly.
+</p>
+<p>
+Cookies and Log File Information. We use Cookies, other identification technologies and Log File Information to provide personalized content and to administer and monitor usage of the Services and Website. We also use Cookies, other identification technologies and Log File Information to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+</p>
+<h2>CHOICE</h2>
+<p><em>(Disclosing Personal Information to Third Parties)
+</em></p>
+<p>
+We will offer you the opportunity to choose whether your Personal Information is to be used for a purpose materially different from the purpose for which it was originally collected or subsequently authorized by you.
+</p>
+<p>
+We do not request or knowingly receive or collect Sensitive Personal Information. Nonetheless, if at any point in the future we receive or collect Sensitive Personal Information from or about you, we will not process such information about you for purposes other than those for which the information was originally obtained or subsequently authorized by you unless you explicitly consent to the processing, or as required or permitted, or where not prohibited by law or regulation.  “Sensitive Personal Information” means Personal Information that reveals race, ethnic origin, political opinion, religious or philosophical beliefs, trade union membership, genetic data, biometric data where processed to uniquely identify a person, any information that concerns medical or health conditions or sex life, or information relating to the commission of a criminal offense.
+</p>
+<p>
+General. We may disclose your information: To third party vendors or service providers who help us provide the Services or the Website, including database hosting and data processing services, and assist us in responding to requests by you for information that you request; To third parties to whom you ask us to send your information; To a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), provided that we require our Affiliates to honor this Privacy Policy; To a company that merges with us, acquires us, or purchases our assets, in which case such company may continue to process your information as set forth in this Privacy Policy; or If we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our Subscriber contracts; (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity or in connection with our own investigation of suspected or actual illegal activity, in which case we may (and you hereby authorize us to) disclose information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties; or (d) to prevent physical harm to an individual or financial loss. 
+</p>
+<p>
+Aggregated / Anonymous information. In addition, we may use information that is in aggregate / anonymous form to create compilations of aggregated data and/or statistics and reports, and any other uses without restriction. This includes reporting information to Subscribers of the Services in order to give Subscribers information in order to evaluate the value of the Services to their needs, as well as to market and improve the Services. We also use aggregate / anonymous data to analyze Website usage and customize the Website’s content, layout and services. These uses improve the Website and the Services and better tailor them to meet your needs, so as to provide you with an efficient and customized experience while using the Website and the Services.
+</p>
+<p><strong>Opting Out of Marketing Communications</strong>
+</p>
+<p>
+If you receive marketing or promotional emails from us, you may unsubscribe at any time by following the instructions contained within the email or by sending an email to the address provided in the “Contact Us” section.
+</p>
+<h2>ACCOUNTABILITY FOR ONWARD TRANSFER</h2>
+<p>
+The Website is hosted and the Services are provided in the United States of America. In the performance of our Services and business operations, Personal Information we collect or receive may be stored or transferred internationally throughout our organization and to our service providers or agents, in accordance with applicable data privacy laws. Transfers to third parties are covered by the provisions in this Privacy Policy under Notice and Choice. 
+</p>
+<p>
+We will endeavor to obtain assurances that any such service provider or agent will provide at least the same level of privacy protection as is required by this Privacy Policy and will notify us if it makes a determination it can no longer meet this obligation.
+</p>
+<p>
+We use model contractual clauses and other mechanisms approved by the European Union and Switzerland, respectively, for transfers of Personal Information from the European Economic Area (“EEA”) and Switzerland. 
+</p>
+<p>
+Where we know that any third party to whom we have provided Personal Information is using or disclosing Personal Information in a manner contrary to this Privacy Policy, we will take reasonable steps to prevent or stop the use or disclosure. With respect to such onward transfers to agents, and to the extent we are responsible for the event, we will remain liable should our agents process Personal Information in a manner inconsistent with this Privacy Policy.
+</p>
+<h2>DATA INTEGRITY AND PURPOSE LIMITATION</h2>
+<p>
+We endeavor to use Personal Information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the Individual. We will take reasonable steps designed to ensure that only Personal Information that is relevant to its intended use, accurate, complete, current, and otherwise reliable in relation to the purposes for which the information was obtained is used by us for as long as we retain possession of such information. Our personnel have a responsibility to assist us in maintaining accurate, complete and current Personal Information. We endeavor only to process Personal Information that is relevant to our Services, and for purposes compatible with those for which the Personal Information was collected; wherever possible, such Personal Information is non-identified. 
+</p>
+<h2>ACCESSING AND CONTROLLING YOUR INFORMATION</h2>
+<p>
+Under laws in certain countries in which we operate, Subscribers and other Visitors to our Website from those countries have a right to access Personal Information about themselves, and to amend, correct or delete Personal Information that is inaccurate, incomplete or outdated. We will, upon request, provide you with confirmation regarding whether we are processing Personal Information about you, consistent with applicable law. In addition, upon your request, we will take reasonable steps to correct, amend, or delete your Personal Information that is found to be inaccurate, incomplete or processed in a manner non-compliant with this Privacy Policy or applicable law, except where the burden or expense of providing access would be disproportionate to the risks to your privacy, where the rights of persons other than you would be violated or where doing so is otherwise consistent with applicable law. Unless prohibited by applicable law, we reserve the right to charge a reasonable fee to cover costs for providing copies of Personal Information that you request. 
+</p>
+<p>
+Please note that while any amendments, corrections or deletions will be reflected in active user databases (as updated with a reasonable period of time), we may retain all Personal Information for backups, archiving, prevention of fraud and abuse, analytics, and satisfaction of other legal obligations we reasonably believe applicable.
+</p>
+<p>
+You authorize us to use and disclose any new or modified information that you provide in accordance with this Privacy Policy, and you agree that we are under no obligation to delete or modify information that you have previously chosen to provide us as to which you have not instructed us to take such action. Please remember, however, that if we have already disclosed some of your Personal Information to third parties, we cannot access that Personal Information any longer and cannot force the deletion or modification of any such information by the parties to whom we have made those disclosures.
+</p>
+<p>
+We may retain your Personal Information to comply with laws, prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, enforce our contracts, and take other actions otherwise permitted by law.
+</p>
+<h2>RECOURSE, ENFORCEMENT AND LIABILITY</h2>
+<p>
+We encourage you to raise questions about our processing or disclosure of your Personal Information by contacting us, as set forth in the “Contact Us” section below. 
+</p>
+<p>
+We will undertake reasonable efforts to investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles contained in this Privacy Policy.
+</p>
+<p>
+Any of our personnel that we determine are in violation of this Privacy Policy will be subject to disciplinary action up to and including termination of employment, where applicable.
+</p>
+<h2>USE OF THIRD PARTY COOKIES</h2>
+<p>
+We may use third party tracking services to track and analyze information that is collected automatically from use of the Website and Services, such as Internet protocol address, domain names, browser, device type, access times, the web pages you view, and other tracked user actions. Such third parties may use Cookies to help track visitor behavior. We will not use or associate such Cookies with other information of individual visitors to our Website that we Collect.
+</p>
+<h2>FEEDBACK</h2>
+<p>
+If you provide feedback to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your information.  We will collect any information contained in such feedback and will treat information therein in accordance with this Privacy Policy.
+</p>
+<h2>THIRD PARTIES NOT GOVERNED BY THIS PRIVACY POLICY
+</h2>
+<p>
+This Privacy Policy addresses only our use and disclosure of information we collect from or about you. The use and disclosure restrictions contained in this Privacy Policy do not apply to any third party and we do not control the privacy policies of third parties. The Services and Website and content on them may contain links to other sites and resources controlled by third parties. In addition, if you disclose information to others, including to other users, you are subject to the privacy policies or privacy statements of those third parties where applicable. We are not responsible for the privacy practices or content of these other sites or resources, and you should consult the privacy policies or privacy statements of such other sites and resources.
+</p>
+<h2>DATA SECURITY</h2>
+<p>
+We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. Taking into account the risks involved in the processing and the nature of the information we process, We maintain appropriate administrative, technical and physical safeguards to protect information in our possession against accidental or unlawful destruction, accidental loss, unauthorized alteration, unauthorized disclosure or access, misuse, and any other unlawful form of processing. This includes, for example, firewalls, password protection, encryption and other access and authentication controls. 
+</p>
+<p>
+For transactions, your private information (credit cards, social security numbers, financials, etc.) is processed directly by our credit card processor, and is not stored or otherwise processed on our servers.
+</p>
+<p>
+However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We cannot ensure or warrant the security of any information you transmit to us or store on the Services, and you do so at your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If you believe your information has been compromised, please contact us as set forth in the “Contact Us” section below.
+</p>
+<p>
+We have a security incident response program designed to promptly respond to and escalate any potential privacy or security incident.  If we learn of a security incident, we will inform you and the authorities of the occurrence of the breach in accordance with applicable law.
+</p>
+<h2>
+CHILDREN’S ONLINE PRIVACY PROTECTION ACT COMPLIANCE
+</h2>
+<p>In compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our Website and the Services are all directed to people who are at least 13 years old or older.
+</p>
+<h2>CHANGES TO OUR PRIVACY POLICY</h2>
+<p>
+This Privacy Policy is subject to revision from time to time on a going-forward basis. We will post any revised version of the Privacy Policy on this page. If we make any material changes to it, we may also send you notice thereof to the last email address you have provided to us. Continued use of the Website and/or the Services following notice of such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+</p>
+<h2>CONTACT US</h2>
+<p>
+If, for whatever reason, you have any questions, comments, complaints or compliments about the privacy of the Service or this Website, please contact our email support. Please also use this email address if you believe you have received a marketing communication from us that you feel makes use of your information in an unauthorized or unwelcome way.  Please contact us using the information below:
+</p>
+<p>
+Michael Abate
+<br>Director of Product Management
+<br>
+E&amp;E News
+<br><a href="mailto:mabate@eenews.net">mabate@eenews.net</a>
+<br>122 C Street, NW, 7th Floor
+<br>Washington, D.C., 20001 
+<br><a href="https://www.eenews.net/">https://www.eenews.net/</a>
+</p>
+
+</div><!-- .legal_text -->
+
+<p><em>This Privacy Policy was last revised: May 24, 2018.</em></p>
+</div>
+</section>
+</section>      <section class="layout_module_content give_privacy_consent_button" id="layout_module_content_84909">
 </section></section>
+    </section>
+    <section class="ee-row">
+
+  <section class="layout_module span9 offset0" id="layout_module_3886"></section>
     </section>
 
 </section>
@@ -195,7 +355,7 @@ googletag.cmd.push(function() {
 </section><footer>
 <nav>
 <ul class="secondary_nav">
-<li><a href="/">E&amp;E&nbsp;Home</a></li><li><a href="/eep/learn_more">About</a></li><li>	<a href="/trial?t=https%3A%2F%2Fwww.eenews.net%2Feep%2Flearn_more%2Fprivacy_policy">Start&nbsp;a&nbsp;Trial</a></li><li><a href="/email_alerts/">Get Email Alerts</a></li><li><a href="/eep/advertise">Advertise</a></li><li><a href="/eep/learn_more/staff_directory">Staff&nbsp;Directory</a></li><li><a href="/special_reports">Reports</a></li>
+<li><a href="/">E&amp;E&nbsp;Home</a></li><li><a href="/eep/learn_more">About</a></li><li><a href="/get_access?site_link=1">Get Access</a></li><li> <a href="/trial?t=https%3A%2F%2Fwww.eenews.net%2Feep%2Flearn_more%2Fprivacy_policy">Start&nbsp;a&nbsp;Trial</a></li><li><a href="/email_alerts/">Get Email Alerts</a></li><li><a href="/eep/advertise">Advertise</a></li><li><a href="/eep/learn_more/staff_directory">Staff&nbsp;Directory</a></li><li><a href="/special_reports">Reports</a></li>
 </ul>
 <ul class="brands">
 <li class="eep"><a href="/eep"><span class="eep_footer sprite " title="E&amp;E News"><span>E&amp;E News</span></span></a></li><li class="ew"><a href="/ew"><span class="ew_footer sprite " title="Energywire"><span>Energywire</span></span></a></li><li class="cw"><a href="/cw"><span class="cw_footer sprite " title="Climatewire"><span>Climatewire</span></span></a></li><li class="eed"><a href="/eed"><span class="eed_footer sprite " title="E&amp;E Daily"><span>E&amp;E Daily</span></span></a></li><li class="gw"><a href="/gw"><span class="gw_footer sprite " title="Greenwire"><span>Greenwire</span></span></a></li><li class="pm"><a href="/pm"><span class="pm_footer sprite " title="E&amp;E News PM"><span>E&amp;E News PM</span></span></a></li>
@@ -203,9 +363,9 @@ googletag.cmd.push(function() {
 </nav>
 <div class="copy_tag">
 <p class="tagline">The essential news for energy &amp; environment professionals</p>
-<p class="copyright">© 1996-2017 Environment &amp; Energy Publishing, LLC&nbsp;&nbsp;
+<p class="copyright">© 1996-2018 Environment &amp; Energy Publishing, LLC&nbsp;&nbsp;
   <span>
-    <a href="/eep/learn_more/privacy_policy">Privacy Policy</a>&nbsp;&nbsp;
+    <a href="/eep/learn_more/privacy_policy">Privacy and Data Practices Policy</a>&nbsp;&nbsp;
     <a href="/eep/learn_more/site_map">Site Map</a>&nbsp;&nbsp;
     <a href="/eep/learn_more/staff_directory">Contact&nbsp;Us</a>
   </span>
@@ -213,10 +373,12 @@ googletag.cmd.push(function() {
 </div>
 </footer>
 
+
+
 <script type="text/javascript">
     new EENews.Beacon('/0/site_page/16/ident');
-</script>
+</script><div style="display:none"><img src="/0/site_page/16/ident.gif?&amp;ts=1580425991941&amp;hr=&amp;hu=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180625104457id_%2Fhttps%253A%2F%2Fwww.eenews.net%2Feep%2Flearn_more%2Fprivacy_policy&amp;js=true&amp;height=768&amp;width=1366&amp;design_scale=desktop"></div>
 
 
 
-</body></html>
+<div style="width: auto; height: 1px; position: absolute; overflow: hidden; bottom: 0px; right: 0px;"><div style="height: auto; position: absolute; left: 2px; overflow-wrap: break-word;"></div></div></body></html>
