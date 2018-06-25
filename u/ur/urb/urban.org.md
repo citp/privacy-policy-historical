@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urban.org privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206032953id_/https%3A//www.urban.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urban.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625045935id_/https%3A//www.urban.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Urban Institute
 
@@ -14,7 +14,15 @@ Visitors may provide Urban with non-personally and personally identifiable infor
 
 **Billing and Credit Card Information**
 
-Urban’s Sites use third party vendors, including Hopkins Fulfillment Services, Wufoo, and Stripe, to manage and process purchases and donations.  Urban does not collect or store names, addresses, telephone numbers, email addresses, credit card information, or other billing information for purchase transactions but can access and download this information from our third party vendors for internal use.  For more information regarding Hopkins Fulfillment Services, Wufoo, and Stripe, see their respective privacy policies at[ http://hfs.jhu.edu/privacypolicy.html](http://http//hfs.jhu.edu/privacypolicy.html), <http://www.wufoo.com/privacy/>, and <https://stripe.com/us/privacy#2>.
+Urban’s Sites use third-party vendors, including [Rowman & Littlefield](https://rowman.com/page/UIP/), [Wufoo](https://www.wufoo.com/), [Stripe](https://stripe.com/), [Eventbrite](https://www.eventbrite.com/), and [Salesforce](https://www.salesforce.com/) to manage and process purchases, donations, event registrations, and email contacts/newsletters.  Urban does not collect or store names, addresses, telephone numbers, email addresses, credit card information, or other billing information for purchase transactions but can access and download this information from our third-party vendors for internal use. Privacy policies for our third-party vendors can be found here: 
+
+  * [Rowman & Littlefield](https://rowman.com/Page/Privacy)
+  * [Wufoo](http://www.wufoo.com/privacy/)
+  * [Stripe](https://stripe.com/us/privacy#2.)
+  * [Eventbrite](https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_US)
+  * [Salesforce](https://www.salesforce.com/company/privacy/)
+
+
 
 **User Generated Content (Comments)**
 
@@ -32,9 +40,9 @@ When a user visits one of Urban’s Sites, some information such as the visitor�
 
 **Cookies**
 
-Our Sites make use of "cookies" in order to identify user sessions and maintain information within sessions. We use two kinds of cookies: first, a limited duration (24 hour) cookie that allows us to keep track of user information within the session to identify privileges and preferences of the user; this type of cookie is used, for example, when users register in order to gain access to public use data files and then log in to use or download the data. Second, our UI Press e-commerce site uses cookies to identify customers when they re-visit our site, so they do not have to re-register as customers, and also to maintain user identification as users add to their "shopping carts" and check out. We do not use cookie information to identify users in any way except as noted above, nor do we use the information given by users and stored in the cookies to link to any other data.
+Our Sites make use of "cookies" in order to identify user sessions and maintain information within sessions. We use a limited duration (24 hour) cookie that allows us to keep track of user information within the session to identify privileges and preferences of the user; this type of cookie is used, for example, when users register in order to gain access to public use data files and then log in to use or download the data. We do not use cookie information to identify users in any way except as noted above, nor do we use the information given by users and stored in the cookies to link to any other data.
 
-Note: If you were to visit the Urban Institute online bookstore ([http://www.uipress.org](http://www.uipress.org/)) with cookies disabled, you would not be able to purchase books or papers on the site. Also, you would not be able to register and use public use data files on the main site ([http://www.urban.org](http://www.urban.org/)).
+Note: You would not be able to register and use public use data files on the main site ([http://www.urban.org](http://www.urban.org/)).
 
 **Web Bugs**
 
@@ -44,7 +52,7 @@ The Urban Institute does not make use of "Web bugs" (programs installed on your 
 
 We do not have access to, nor control over, advertisers' or service providers' use of cookies or other tracking technologies or how they may be used.
 
-Third-party vendors, including Google, whose services we use, may place cookies on web browsers in order to serve ads based on past visits to our website.  These third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website. This allows us to market our research to those who have shown interest in our site. 
+Third-party vendors, including Google, whose services we use, may place cookies on web browsers in order to serve ads based on past visits to our website.  These third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website. This allows us to market our research to those who have shown interest in our site. 
 
 Urban’s Sites use the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Urban Institute website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
