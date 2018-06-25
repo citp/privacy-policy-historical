@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirkwood.edu privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220021013id_/http%3A//www.kirkwood.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkwood.edu privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626012459id_/http%3A//www.kirkwood.edu/privacypolicy) for the most accurate reproduction.*
 
 # Kirkwood Community College - Technology Services
 
@@ -40,6 +40,10 @@ At no time do we disclose PII except under the following conditions:
 
 
 
+### Students who are citizens of EU Countries
+
+Kirkwood follows the GDPR rules to the extent that they do not conflict with State or Federal rules.
+
 ### Disclaimer
 
 Kirkwood may provide links to other websites of interest in order to provide services for its users.  Kirkwood is not responsible for the content and privacy practices of these websites.  The use of such linked sites is subject to the privacy statements and use requirements of each respective site; please check each site for its respective privacy policy. 
@@ -50,4 +54,6 @@ Periodically, this privacy statement may be updated to accommodate changes to ou
 
 ### Questions/Comments
 
-If you have any questions or comments about our stance and approach to Privacy, you may send us an email [ask@kirkwood.edu](mailto:ask@kirkwood.edu)
+If you have any questions or comments about our stance and approach to Privacy, you may send us an email [privacy@kirkwood.edu](mailto:privacy@kirkwood.edu)
+
+last revision date: 05/24/2018
