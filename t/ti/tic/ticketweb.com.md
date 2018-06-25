@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketweb.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920210146id_/http%3A//www.ticketweb.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketweb.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626010851id_/https%3A//www.ticketweb.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
 
 # spinner
 
@@ -10,7 +10,7 @@
 
 **We use information for security purposes.**  We may use information to protect our company, our customers, or our websites.
 
-**We use information for marketing purposes.** For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter. To learn about your choices for these communications, read the [ Ad Choices section](http://info.ticketweb.com/ad-choices/).
+**We use information for marketing purposes.** For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter. To learn about your choices for these communications, read the [ Ad Choices section](https://info.ticketweb.com/ad-choices/).
 
 **We may also use push notifications on our mobile apps.**  We may use push notifications and your location information on our mobile apps to send you alerts regarding local events.
 
