@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the changelly.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211092427id_/https%3A//changelly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changelly.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625032907id_/https%3A//changelly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Changelly | Privacy Policy
 
 Changelly.com (“changelly.com” or “we”) controls and provides access to the changelly.com website, currently located at www.changelly.com (the “Website”).
 
@@ -12,11 +12,11 @@ In order to access the functionality of the Website, you will need to register. 
 
  **Record Collection**
 
-From the moment you register on changelly.com, our software will start collecting your non-personal identification information. Such information may include your browser’s name and technical information about your means of connection to our Website, in particular the operating system and the Internet service providers used among other similar information.
+We collect information from you when you sign up for your Changelly account. This includes your email and personal information, and may include your browser’s name and technical information about your means of connection to our Website, in particular the operating system and the Internet service providers used, among other similar information.
 
  **The Use of Collected Information**
 
-We may use the email address provided by you when you register to contact you from time to time. This might be for security reasons, to ask your opinion about the Website, or it may be to keep you updated on any changes to the services provided on the Website. We may also use the information to improve our customer service and respond to your needs more efficiently.
+We may use the information we collect from you when you register or use certain other site features. This might be for security reasons, to ask your opinion about the website, or it may be to keep you updated on any changes to the services provided on the Website. We may also send periodic emails with news and Oxygen platform updates, or use this information to follow up with you following live chat or email.
 
  **Security**
 
@@ -28,4 +28,4 @@ This Policy may be amended at our full discretion without prior notice. We encou
 
  **Contacting us**
 
-If you have any questions about this Privacy Policy or the rules of changelly.com, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#54272124243b262014373c353a333138382d7a373b39)
+If you have any questions about this Privacy Policy or the rules of changelly.com, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a494f4a4a55484e7a59525b545d5f56564314595557)
