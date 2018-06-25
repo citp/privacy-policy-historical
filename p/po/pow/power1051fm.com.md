@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the power1051fm.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017150112id_/http%3A//power1051.iheart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the power1051fm.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625103639id_/https%3A//power1051.iheart.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | Power 105.1 FM
 
-[Versión en Español](http://www.iheart.com/news/poltica-de-privacidad-y-cookies-11584650/)
+[Versión en Español](https://web.archive.org/content/poltica-de-privacidad-y-cookies/)
 
 UPDATED AS OF: November 10, 2016
 
