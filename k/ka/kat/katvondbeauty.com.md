@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the katvondbeauty.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623224616id_/http%3A//www.katvondbeauty.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katvondbeauty.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625223405id_/https%3A//www.katvondbeauty.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Kat Von D Beauty Privacy Policy
-
-LATEST REVISION AND POSTING DATE:  
-November 17, 2015
 
 Thank you for visiting KatVonDBeauty.com (the “Site”). This website is operated by Kendo Holdings Inc. (“We” or “Us”), a wholly owned subsidiary of Sephora USA, Inc., under license from Kat Von D. This Site is not affiliated with any other website operated or controlled by Kat Von D (including www.wonderlandla.com), any other website operated or controlled by Sephora USA, Inc., or any other website operated or controlled by Us.
 
@@ -85,7 +82,7 @@ information@KatVonDBeauty.com or
 Kat Von D Beauty  
 Attn: Privacy Officer  
 c/o Kendo Holdings Inc.  
-525 Market Street, 32nd Floor  
+425 Market Street, 19th Floor  
 San Francisco, CA 94105
 
 ## YOUR CALIFORNIA RIGHTS
