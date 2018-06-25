@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwuser.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222232915id_/http%3A//dwuser.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwuser.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625044120id_/http%3A//dwuser.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal - DWUser.com
 
