@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instawebgram.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610041105id_/http%3A//instawebgram.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instawebgram.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626014204id_/http%3A//www.instawebgram.com/pages/privacy) for the most accurate reproduction.*
 
 # InstaWebgram.com - Instagram Web Viewer
 
@@ -106,7 +106,7 @@ Pursuant to French “Informatique et Libertés” law no. 78-17 of 6 January, 1
 
 Users may also, at any time, access their data in order to modify, rectify, or totally or partially delete their personal data, by logging into their accounts and using the “delete account” function. 
 
-Users may also modify or delete their personal data by sending an email to [admin@instawebgram.com](mailto:admin@instawebgram.com "admin@instawebgram.com"). 
+Users may also modify or delete their personal data by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7c1d181115123c15120f081d0b191e1b0e1d11521f1311 "admin@instawebgram.com"). 
 
 Users must include with all communication their Login Credentials, a photocopy of their official identification document with photo, as well as details on the modifications and/or deletions that they wish to carry out. 
 
@@ -116,4 +116,4 @@ The current privacy policy is part of the General Terms and Conditions of the In
 
 ## 10\. CONTACT
 
-If you have any questions about this Privacy Policy, or questions about the use of the Site, please contact us by email at the following address: [admin@instawebgram.com](mailto:admin@instawebgram.com "admin@instawebgram.com"). 
+If you have any questions about this Privacy Policy, or questions about the use of the Site, please contact us by email at the following address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#39585d5450577950574a4d584e5c5b5e4b5854175a5654 "admin@instawebgram.com"). 
