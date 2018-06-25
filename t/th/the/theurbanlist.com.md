@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theurbanlist.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223094124id_/http%3A//www.theurbanlist.com/auckland/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theurbanlist.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625114932id_/https%3A//www.theurbanlist.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Auckland | The Urban List
+# Privacy | The Urban List
 
 **1) PURPOSE OF OUR POLICY**
 
@@ -47,6 +47,8 @@
 3.2 We may collect other Personal Information about an individual, which we will maintain in accordance with this Privacy Policy.
 
 3.3 We may also collect non-Personal Information about an individual such as information regarding their computer, network and browser.  This may include their IP address. Where non-Personal Information is collected the Australian Privacy Principles do not apply.
+
+3.4 Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at [www.nielsen.com/digitalprivacy.](http://www.nielsen.com/digitalprivacy)
 
 **4) HOW INFORMATION IS COLLECTED**
 
@@ -152,8 +154,7 @@ iv Competitions, surveys and questionnaires;
 
 9.3 If we become aware of any unauthorised access to an individual’s Personal Information we will inform them at the earliest practical opportunity once we have established what was accessed and how it was accessed.
 
-**10) CONTACTING INDIVIDUALS**
-
+**10) CONTACTING INDIVIDUALS**  
 10.1 From time to time, we may send an individual important notices, such as changes to our terms, conditions and policies. Because this information is important to the individual’s interaction with us, they may not opt out of receiving these communications.
 
 **11) CONTACTING US**
@@ -163,8 +164,6 @@ iv Competitions, surveys and questionnaires;
 The Privacy Officer
 
 The Urban List
-
-privacy@theurbanlist.com
 
 You may contact the Privacy Officer by email in the first instance.
 
