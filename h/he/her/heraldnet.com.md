@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the heraldnet.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019113027id_/http%3A//www.heraldnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldnet.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626012137id_/http%3A//www.heraldnet.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | HeraldNet.com
+
+_Search Tip:_ Use quotes to find results containing your phrase, exactly, e.g., "HeraldNet.com".
 
 The security of your personal information is very important to us. We never sell or rent your personal information to any third parties under any circumstances. We value your trust very highly and will work to protect the security and privacy of any personal information you provide to us and will only use it as we describe here in our Privacy Policy. Personal Information means information about you which is, or can be, tied to you as an individual. Sound Publishing Inc. will collect and use Personal Information of customers and members only as follows:
 
