@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the circle.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115174516id_/https%3A//www.circle.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circle.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625235810id_/https%3A//www.circle.com/en/privacy) for the most accurate reproduction.*
 
-# Circle | Send money like a text — wherever your friends happen to be
+# Circle | The new shape of money
 
 Print our U.S. Privacy Policy 
 
 Last updated: March 7, 2017
 
-If you are a resident of California or Wyoming, please click [here](https://web.archive.org/en/legal/us-ca-privacy) for the Privacy Policy that applies to you.
+If you are a resident of California or Wyoming, please click [here](https://www.circle.com/en/legal/us-ca-privacy) for the Privacy Policy that applies to you.
 
-If you are signing up for Circle on or after March 7, 2017, this Privacy Policy shall be effective immediately. If you signed up for Circle prior to March 7, 2017, this Privacy Policy shall be effective on April 7, 2017, and the Privacy Policy effective until that date can be found [here](https://p4.zdassets.com/hc/theme_assets/482660/200018834/us_pp.pdf).
+If you are signing up for Circle on or after March 7, 2017, this Privacy Policy shall be effective immediately. If you signed up for Circle prior to March 7, 2017, this Privacy Policy shall be effective on April 7, 2017, and the Privacy Policy effective until that date can be found [here](https://www.circle.com/marketing/pdfs/legal/US_PP_18Sep2016.pdf).
 
 This Privacy Policy describes how Circle Internet Financial, Inc. (“Circle”) collects, uses, stores, shares and protects your information whenever you use Circle through the website ([www.circle.com](https://www.circle.com/)) or Circle’s mobile applications. We know how important privacy is to our users, which is why we only collect the information we need and will not share your personal information with any third parties unless it is necessary. Even within Circle, access to your personal information is limited to only those employees who require such information to handle matters relating to compliance, identity verification and customer support.
 
 Circle (including its affiliate entities that may handle your information) complies with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Circle has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
-We may change this Privacy Policy from time to time. When we do make updates, we’ll let you know by changing the date above. If it is a big update, we’ll send you a notification or post a notice on our website. If you ever have any questions about changes made to the Privacy Policy, just reach out to to [Support](https://support.circle.com/hc/en/requests/new).
+We may change this Privacy Policy from time to time. When we do make updates, we’ll let you know by changing the date above. If it is a big update, we’ll send you a notification or post a notice on our website. If you ever have any questions about changes made to the Privacy Policy, just reach out to to [Support](https://support.circle.com/hc/en-us/requests/new).
 
 By using Circle’s website or mobile apps, you consent to the practices contained in this Privacy Policy.
 
@@ -149,7 +149,7 @@ In order to make Circle payments about more than just sending money from A to B,
 
 ### 5\. How To Change or Delete Your Information
 
-If you need to add or change any information, you can just log in to your Circle account and make the change in your settings. If it doesn’t look like you can make the change on your own, just reach out to [ Support](https://support.circle.com/hc/en/requests/new) and we’ll take care of it.
+If you need to add or change any information, you can just log in to your Circle account and make the change in your settings. If it doesn’t look like you can make the change on your own, just reach out to [ Support](https://support.circle.com/hc/en-us/requests/new) and we’ll take care of it.
 
 If you want to know what information we’re keeping on you, check out the categories listed above. We can also provide you with a copy of this information, but we won’t include any sensitive financial information.
 
@@ -161,4 +161,4 @@ Unfortunately, if you’re under 13, you can’t use Circle. So we don’t knowi
 
 ### 7\. Questions?
 
-If you have any questions about this Privacy Policy, feel free to reach out to [Support](https://support.circle.com/hc/en/requests/new).
+If you have any questions about this Privacy Policy, feel free to reach out to [Support](https://support.circle.com/hc/en-us/requests/new).
