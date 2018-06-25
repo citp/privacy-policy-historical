@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the air1.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202234019id_/http%3A//www.air1.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the air1.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625222230id_/http%3A//www.air1.com/privacy.aspx) for the most accurate reproduction.*
 
 # Air1 Privacy Policy - Air1 - Positive Hits
 
@@ -41,7 +41,7 @@ In some cases, Internet cookies and tracking pixels may be used to give you usef
 
 ## Preferences
 
-Registered Users may manage their accounts at [My Account](https://donor.air1.com/account). Users may [unsubscribe](https://donor.air1.com/account) at any time to any of our electric communications. Users may [opt-out](http://www.networkadvertising.org/choices/) of the use of their data for internet-based advertising. Users may request all personally identifiable information be deleted by contacting us.
+Registered Users may manage their accounts at [My Account](https://donor.air1.com/account). Users may [unsubscribe](https://ww2.air1.com/communication-preferences) at any time to any of our electric communications. Users may [opt-out](http://www.networkadvertising.org/choices/) of the use of their data for internet-based advertising. Users may request all personally identifiable information be deleted by contacting us.
 
 ## Other Information You May Want
 
