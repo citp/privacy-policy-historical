@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902051457id_/https%3A//doyouremember.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625193659id_/https%3A//doyouremember.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Do You Remember?
+# Privacy Policy | Do You Remember?
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -152,8 +152,9 @@ and we will promptly remove you from  **ALL**  correspondence.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-DoYouRemember.com  
-P.O. BOX 8067  
-New York, NY 10150  
-info@doyouremember.com  
-Last Edited on 2016-01-27
+Do You Remember, Inc.  
+36 Island Avenue #46  
+Miami Beach, FL  33139  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Last Edited on 10//30/17
