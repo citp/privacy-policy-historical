@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the positivitydosage.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224044143id_/http%3A//positivitydosage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivitydosage.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625022007id_/http%3A//positivitydosage.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Positivity Dosage
 
