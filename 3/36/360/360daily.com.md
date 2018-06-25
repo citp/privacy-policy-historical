@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 360daily.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223071257id_/http%3A//360daily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 360daily.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625103640id_/http%3A//www.360daily.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 360Daily
 
@@ -39,6 +39,14 @@ To remove persistent cookies, follow the directions in your web browser’s “H
 Information about our use of cookies is contained in our "[Cookie Information](https://web.archive.org/cookies)". 
 
 Your browser’s cookie settings may be sufficient indication of your consent to placement of and access to cookies on your computer by RhythmOne, and RhythmOne’s collection, use, and disclosure of non-PII and in some cases, PII about your activity on the RhythmOne Sites.
+
+#### GDPR Rights.
+
+Users residing in certain countries, including the EU, are afforded certain rights regarding their personal information. Except where an exception or exemption applies, these rights include the ability to access and request deletion of your personal information. While these rights are not applicable globally, users from the EU can manage their personal information by following the links below.
+
+[Delete/Opt-Out](https://web.archive.org/opt-out)
+
+[Access/Retrieve Personal Information](https://web.archive.org/retrieval)
 
 #### Policies of Other Sites and Services
 
