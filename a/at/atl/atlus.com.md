@@ -1,19 +1,25 @@
-> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930181308id_/http%3A//atlus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625152352id_/https%3A//atlus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlus USA
 
-ATLUS takes privacy very seriously for all visitors, but particularly for our younger visitors.
+5\. Your choices and rights
 
-Please note that if a child states that he or she is under 13 years old, we do not collect or store any contact information for them. This is in compliance with current Federal Trade Commission regulations. Children under 13 are allowed to participate in certain ATLUS promotions (each promotion's rules will clearly state when participation is restricted by age and to what age) and provide contact information should they win. However, we delete this information once the contest is over. We do not collect any information that is not necessary to operate our site and we do not sell the data we collect to outside parties.
+You have options and choices over how we use your information. We provide you with tools to access and update specific information relating to your use of the Products at any time. If you need to sign in to access certain Products, you can update and amend your key contact information directly.
 
-If your child registers to receive the ATLUS Faithful e-mail newsletter, he or she will be asked to input his or her age, and to choose one of two newsletter options: 1) for those who are under 17 years of age or refuse to reveal their age (cannot receive information about ESRB Mature-rated games); and 2) for those who are 17 years of age or older. If you do not wish for your child to receive ATLUS Faithful e-mail newsletters, you may Unsubscribe them at any time simply by clicking the Unsubscribe link included in every e-mail.
+We respect the rights you may have under applicable law to request access to your personal information and where applicable, to request to receive that information in a commonly used electronic format (or ask for this information to be provided in that format to a third party where feasible). You may also have the right under applicable law to request the correction or erasure of your personal information, to seek to object to the further processing under certain circumstances of your information or to request that the processing of specific information about you is restricted while we verify or investigate your concerns about this information. We do not verify the correctness of your personal information.
 
-Please supervise the time that your child spends online to ensure their safety and security.
+Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit. Note, however, there is no industry consensus as to what site and app operators should do with regard to these signals. Accordingly, we do not monitor or take action with respect to “Do Not Track” signals or other mechanisms. For more information on “Do Not Track,” visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-Notice to parents regarding third-party websites
+Please contact us as described in Section 7 to exercise any of these rights.
 
-ATLUS's websites may contain links to third-party websites, such as game retailer and game-related media websites. Please be aware that ATLUS is not responsible for the content of such websites, nor does our Online Privacy Policy cover those websites. For your peace of mind and your children's safety, please supervise your children when they are browsing the web, and always read the privacy policy of any third-party website.
+If you remain unhappy with a response you receive, and are in the European Union, you can also refer the matter to your data protection supervisory authority (see <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>).
 
-How can I review information that my child has submitted on ATLUS's websites?
+California Civil Code Section 1798.83 (“Shine the Light”) permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquiries regarding our disclosure policy, please contact us as described below in Section 7 “Contact Us”. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code.
 
-You may review or request to have deleted any information your child has submitted to us. You may also request that we not collect any personal information about your child in the future. To do this, send a written request including your child's e-mail address for verification to Atlus U.S.A., Inc., 6400 Oak Canyon, Suite 100, Irvine, CA 92618. Please mark your envelope, "ATTN: Children's Online Privacy."
+In addition, if you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact Atlus U.S.A. Inc.’s Data Protection Officer (DPO@sega.net) or the ESRB at <https://www.esrb.org/privacy/contact.jsp>, or
+
+ESRB  
+Attn: Privacy Certified Program  
+420 Lexington Avenue, Suite 2024  
+New York, NY 10170  
+[privacy@esrb.org](mailto:privacy@esrb.org)
