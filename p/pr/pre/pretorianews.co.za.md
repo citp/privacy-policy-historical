@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pretorianews.co.za privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227180809id_/http%3A//www.iol.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pretorianews.co.za privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625075818id_/https%3A//www.iol.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -52,7 +52,7 @@ For your added protection this web site subscribes to and complies with the volu
 
 **Access to personal data**
 
-11\. Where a user believes that personal data concerning them held by the web site owner is outdated or incorrect they may request that such personal data be corrected - please [contact us](https://web.archive.org/about-iol-1.458#id.9nxaafjuol6g) .Any request for such a correction must specify both the incorrect data and the proposed correction and must give full reasons for the request.
+11\. Where a user believes that personal data concerning them held by the web site owner is outdated or incorrect they may request that such personal data be corrected - please [contact us](https://web.archive.org/about-iol) .Any request for such a correction must specify both the incorrect data and the proposed correction and must give full reasons for the request.
 
 12\. Users can request access to any relevant personal data held by the web site owner as laid out in the Promotion of Access to Information Act No 2 of 2000 (“PAIA”) and where such access is necessary for them to exercise and/or protect any of their rights. A copy of PAIA can be obtained [ here ](http://www.dfa.gov.za/department/accessinfo_act.pdf) .
 
@@ -74,7 +74,7 @@ For your added protection this web site subscribes to and complies with the volu
 
 **Queries**
 
-18\. If you have any queries about this Privacy Policy please [ contact us ](https://web.archive.org/about-iol-1.458#id.9nxaafjuol6g)
+18\. If you have any queries about this Privacy Policy please [ contact us ](https://web.archive.org/about-iol)
 
 **Date of Last Review 15 January 2009**  
 prepared by the [ electronic law consultancy ](http://www.elc.co.za/) .
