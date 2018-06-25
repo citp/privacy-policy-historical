@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atavist.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513220549id_/https%3A//atavist.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atavist.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625023626id_/https%3A//atavist.com/page/privacy) for the most accurate reproduction.*
 
 # Atavist: Privacy Policy
 
