@@ -1,88 +1,235 @@
-> *The following text is extracted and transformed from the appcoda.com privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825073008id_/https%3A//www.appcoda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcoda.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625143412id_/https%3A//www.appcoda.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AppCoda
+# Privacy Policy | AppCoda
 
 * * *
 
-Our Privacy Policy was last updated and posted on 4 September 2014. It governs the privacy terms of our Website, located at http://www.appcoda.com, sub-domains, and any associated web-based and mobile applications (collectively, “Website”), as owned and operated by AppCoda Limited. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
+Effective date: May 16, 2018
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.appcoda.com. The following outlines our privacy policy.
+AppCoda Limited (“us”, “we”, or “our”) operates the http://www.appcoda.com website (the “Service”).
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://www.appcoda.com
 
+## Definitions
 
-**Your Privacy**  
-AppCoda Limited follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. We utilize the Personal Data you offer in a way that is consistent with this Personal privacy Policy. If you provide Personal Data for a particular reason, we could make use of the Personal Data in connection with the reason for which it was provided. For example, registration info sent when developing your account, might be used to assist suggest products to you based on past acquisitions. We might use your Personal Data to offer access to services on the Site and monitor your use of such services. AppCoda Limited may also utilize your Personal Data and various other personally non-identifiable info gathered through the Website to assist us improve the material and functionality of the Website, to much better comprehend our users, and to improve our services. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
-
-**Definitions**  
-“Non Personal Information” is information that is not personally identifiable to you and that we automatically collect when you access our Website with a web browser. It may also include publicly available information that is shared between you and others.
-
-“Personally Identifiable Information” is non-public information that is personally identifiable to you and obtained in order for us to provide you within our Website. Personally Identifiable Information may include information such as your name, email address, and other related information that you provide to us or that we obtain about you.
-
-**Information We Collect**  
-Generally, you control the amount and type of information you provide to us when using our Website.
-
-As a Visitor, you can browse our website to find out more about our Website. You are not required to provide us with any Personally Identifiable Information as a Visitor.
-
-**Computer Information Collected**  
-When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:
-
+  * **Service**  
+Service is the http://www.appcoda.com website operated by AppCoda Limited 
+  * **Personal Data**  
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession). 
+  * **Usage Data**  
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit). 
   * **Cookies**  
-Our Website uses “Cookies” to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.
-
-  * **Geographical Information**  
-When you use the mobile application, we may use GPS technology (or other similar technology) to determine your current location in order to determine the city you are located within and display information with relevant data or advertisements. We will not share your current location with other users or partners. If you do not want us to use your location for the purposes set forth above, you should turn off the location services for the mobile application located in your account settings or in your mobile phone settings and/or within the mobile application. 
-  * **Automatic Information**  
-We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website. 
-  * **Log Data**  
-Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer’s Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics. 
-
-
-
-Under the Child’s Online Privacy Security Act, no web site operator can require, as a condition to involvement in an activity, that a child younger than 13 years of age divulge more details than is reasonably required. AppCoda Limited abides by this demand. AppCoda Limited just collects information willingly offered; no information is gathered passively. children under 13 can submit only their email address when sending us an email in our "Contact Us" area. AppCoda Limited makes use of the e-mail address to respond to a one-time demand from a child under 13 and afterwards deletes the e-mail address. In case AppCoda Limited collects and maintains personal information relating to a child under 13, the parent may send out an email to us to review, alter and/or erase such info as well as to decline to enable any additional collection or use of the child’s information.
-
-**How We Use Your Information**  
-We use the information we receive from you as follows:
-
-  * **Customizing Our Website**  
-We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.
-
-  * **Sharing Information with Affiliates and Other Third Parties**  
-We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website hosting companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.
-
-  * **Data Aggregation**  
-We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.
-
-  * **Legally Required Releases of Information**  
-We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of AppCoda Limited, our Users, employees, and affiliates.
+Cookies are small pieces of data stored on your device (computer or mobile device). 
+  * **Data Controller**  
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.  
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data. 
+  * **Data Processors (or Service Providers)**  
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.  
+We may use the services of various Service Providers in order to process your data more effectively. 
+  * **Data Subject (or User)**  
+Data Subject is any living individual who is using our Service and is the subject of Personal Data. 
 
 
 
+## Information Collection And Use
 
-**Opt-Out**  
-We offer you the chance to “opt-out” of having your personally identifiable information used for particular functions, when we ask you for this detail. When you register for the Site, if you do not want to receive any additional material or notifications from us, you can show your preference on our registration form.
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-**Links to Other Websites**  
-Our Website may contain links to other websites that are not under our direct control. These websites may have their own policies regarding privacy. We have no control of or responsibility for linked websites and provide these links solely for the convenience and information of our visitors. You access such linked Websites at your own risk. These websites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual websites to see how the operators of those third-party websites will utilize your personal information. In addition, these websites may contain a link to Websites of our affiliates. The websites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such websites will utilize your personal information.
+### Types of Data Collected
 
-**Security**  
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. We utilize practical protection measures to safeguard against the loss, abuse, and modification of the individual Data under our control. Personal Data is kept in a secured database and always sent out by means of an encrypted SSL method when supported by your web browser. No Web or e-mail transmission is ever totally protected or mistake cost-free. For example, email sent out to or from the Site may not be protected. You must take unique care in deciding what info you send to us by means of e-mail.
+#### Personal Data
 
-**Privacy Policy Updates**  
-We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-**Questions About Our Privacy Practices or This Privacy Policy**  
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. If you have any questions about our Privacy Practices or this Policy, please contact us.
+  * Email address
+  * Cookies and Usage Data
 
-[](http://www.appcoda.com/author/admin/)
+
+
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
+
+#### Usage Data
+
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+#### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+  * **Advertising Cookies.** Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+
+
+## Use of Data
+
+AppCoda Limited uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), AppCoda Limited legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+AppCoda Limited may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+## Retention of Data
+
+AppCoda Limited will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+AppCoda Limited will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Hong Kong and choose to provide information to us, please note that we transfer the data, including Personal Data, to Hong Kong and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+AppCoda Limited will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Legal Requirements
+
+AppCoda Limited may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of AppCoda Limited
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. AppCoda Limited aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you. 
+  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete. 
+  * **The right to object.** You have the right to object to our processing of your Personal Data. 
+  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information. 
+  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format. 
+  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where AppCoda Limited relied on your consent to process your personal information. 
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * **Google Analytics**  
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.  
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. 
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+
+
+
+### Advertising
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+
+  * **Google AdSense & DoubleClick Cookie**  
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.  
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+
+
+
+### Payments
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+  * **Stripe**  
+Their Privacy Policy can be viewed at <https://stripe.com/us/privacy>
+  * **PayPal or Braintree**  
+Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+
+
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: support@appcoda.com
+  * By visiting this page on our website: http://www.appcoda.com/contact
+
+
+
+[](https://www.appcoda.com/author/admin/)
 
 * * *
 
-Founder of AppCoda. Author of multiple iOS programming books including Beginning iOS 10 Programming with Swift and Intermediate iOS 10 Programming with Swift. iOS App Developer and Blogger. Follow me at Facebook, Twitter and Google+.
+Founder of AppCoda. Author of multiple iOS programming books including Beginning iOS 11 Programming with Swift and Intermediate iOS 11 Programming with Swift. iOS App Developer and Blogger. Follow me at Facebook, Twitter and Google+.
