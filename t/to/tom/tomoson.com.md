@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomoson.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624032403id_/https%3A//www.tomoson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomoson.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625072338id_/https%3A//www.tomoson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tomoson
 
@@ -6,7 +6,7 @@ This Privacy Policy describes Tomoson’s policies and procedures on the collect
 
 ### Information Collection and Use
 
-We collect and use your information to provide our Services and improve them over time.
+Any information collected via a third party API is public information authorized by you before we can access it. Once access is given all information is accessed via third party secured API’s as long as you authorize access via a secured token or key. The information that is displayed on Tomoson is used by its users to understand if a brand or influencer is a good fit for their campaign. All data accessed by Tomoson is GDPR compliant in accordance withe EU Data Protection rules. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
 **Information Collected Upon Registration:** When you create or reconfigure a Tomoson account, you provide some personal information, such as your name, username, password, and email address. Some of this information, for example, your name and username, is listed publicly on our Services, including on your profile page and in search results. Some Services, such as search, public user profiles and viewing lists, do not require registration.
 
@@ -58,4 +58,4 @@ Our Services are not directed to people under 13. If you become aware that your 
 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [/privacy-policy](https://www.tomoson.com/privacy-policy). By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-_This Privacy Policy is effective as of July 8th, 2010._
+_This Privacy Policy is effective as of May 24th, 2018._
