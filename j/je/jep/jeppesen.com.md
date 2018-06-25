@@ -1,189 +1,295 @@
-> *The following text is extracted and transformed from the jeppesen.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222165621id_/http%3A//ww1.jeppesen.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeppesen.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625080727id_/http%3A//ww1.jeppesen.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Jeppesen
 
-##  JEPPESEN PRIVACY POLICY 
+**JEPPESEN PRIVACY POLICY**
 
-Date of Last Revision: 27 April 2017 
+Date of Last Revision: June 1, 2018 
 
-Thank you for reviewing the Jeppesen Privacy Policy. Jeppesen Sanderson, Inc. and its family of companies (“Jeppesen”) are sensitive to the issue of confidentiality in online interactions and are committed to protecting individual privacy across our range of websites, products and services. 
+Jeppesen Sanderson, Inc. and its family of companies (collectively “Jeppesen”) are sensitive to the issue of confidentiality, the protection of Personal Data (PD) and are committed to protecting individual privacy across our range of websites, mobile applications, products, and services. This notice provides information about data we collect, use and share. 
 
-**1\. Purpose**
+This Privacy Policy documents how we at Jeppesen, collect, use, store and share your PD in compliance with applicable law and regulations in multiple jurisdictions. When you access or use our range of websites, mobile applications, products, and services, you acknowledge that you have read this Privacy Policy and understand its contents and any dispute related to such offerings over privacy is subject to this Privacy Policy and out Terms of Service. 
 
-This privacy policy applies to Jeppesen with respect to compliance with applicable law and regulations regarding Personal Information. This policy establishes high-level responsibilities to ensure that the collection, use, disclosure and retention of Personal Information comply with applicable law and regulations in multiple jurisdictions. Due to variations in the regulations, many aspects of compliance can only be implemented at the local level. 
+Please follow the links below for further information about Jeppesen’s Privacy policy: 
 
-**1.1  What if data is transmitted internationally?**
+Why Do We Collect Personal Data?
 
-Visitors may want to know whether their personal information will be transferred out of their country of origin. Please be aware that when registering or requesting a transaction on Jeppesen Sites, Jeppesen reserves the right to transfer the visitor’s personal data to computers in the United States or any other country where Jeppesen or its affiliates, subsidiaries or service providers maintain facilities. The data protection laws in these countries may be different from, and less stringent than the visitor’s country of residence. By using the Sites or by providing any personal or other information to Jeppesen, express consent is given to Jeppesen to conduct such transfers and processing. Jeppesen takes steps to ensure that the data collected under this Policy is processed according to the provisions of this Policy and the requirements of applicable law wherever the data is located. 
+What Personal Data Do We Collect?
 
-**2\. Application of Generally Accepted Privacy Principles (GAPP)**
+How Do We Collect Personal Data?
 
-Jeppesen is committed to providing reasonable protection from loss, inappropriate use, or inappropriate disclosure of the Personal Information that is entrusted to the company. In an effort to provide protection that is as consistent as possible for all individuals who provide Personal Information to the company, Jeppesen has established a privacy program that is based on the Generally Accepted Privacy Principles (GAPP) identified by the Assurance Services Executive Committee (ASEC) of the American Institute of Certified Public Accountants (AICPA) and the Assurance Services Development Board (ASDB) of the Canadian Institute of Chartered Accountants (CICA). These ten principles (covering Management, Notice, Choice and Consent, Collection, Use and Retention, Access, Disclosure to Third Parties, Security for Privacy, Quality, Monitoring and Enforcement) were developed to serve as a universal framework of privacy best practices that companies can use to evaluate their programs and develop sound policies and practices. 
+Collection of Personal Data from Children
 
-**2.1 Management**
+Jeppesen’s Policy on Sensitive Personal Data
 
-Accountability for Data Privacy at Jeppesen has been assigned to the Data Privacy Office (DPO). Responsibilities of the DPO include: 
+How Do We Use Personal Data?
 
-  * Ensuring that processes have been implemented for the appropriate collection, use, disclosure and retention of personal information in accordance with applicable law and the Generally Accepted Privacy Principles (GAPP). 
-  * Ensuring that privacy plans in compliance with Data Privacy laws and regulations are documented in writing and implemented. 
-  * Provision of guidance, consultation and training regarding privacy issues. 
-  * Compliance with privacy plans including: 
-    * Performing monitoring and verifications for compliance with existing privacy plans. Verifications include ongoing monitoring and enforcement of privacy plans. 
-    * Coordination and alignment with Boeing’s Global Privacy Office whenever appropriate 
-    * Follow up on deficiencies or opportunities for improvement. The DPO will maintain verification records and respond to inquiries or complaints. 
-    * Maintenance and assignment of data privacy training materials 
-    * Assurance that reliable methods for dispute resolution and incident response are available and clearly communicated 
-  * Providing support to business owners by assessing products and services to ensure compliance with applicable privacy laws 
+How Do We Retain Personal Data?
 
+What Security Measures Do We Have?
 
+Cookies
 
-**2.2 Notice**
+Data Breaches
 
-Jeppesen will notify individuals about the purposes for which they collect, use, disclose and retain information about them. Jeppesen will also provide information about how individuals can contact Jeppesen with any inquiries or complaints, the types of third parties to which it discloses the information and the choices and means Jeppesen offers for limiting its collection, use, disclosure and retention. 
+Consent to Transfer, Processing and Storage of Personal Data – Privacy Shields
 
-**2.3 Choice and Consent**
+Physical Location of Data Processing and Personal Data
 
-Jeppesen will give individuals the opportunity to choose when their Personal Information will be disclosed to a third party or used for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized. 
+What are your Rights?
 
-**2.4 Collection**
+Dispute Resolution
 
-Personal Information is collected for the reasons provided in the Uses Permitted. This defined scope is included in the Product or Service privacy notice. If the scope requires redefinition, the privacy notice will be reissued and Data Collection will be subject to 2.3 Choice and Consent once again. 
+Changes to this Privacy Policy
 
-**2.4.1 Special Notice Regarding Children**
+Corporate Changes (Mergers, Acquisitions & Divestures)
 
-Jeppesen Sites are not designed for, nor is Personal Information knowingly collected from children under the age of 13. Children under 13 years of age should not provide Personal Information to Jeppesen or Affiliates. Users of the Services available on the Sites must be at least 18 years old and competent to enter into a contract. Children under the age of 18 may only use the Services with involvement of a parent or guardian. 
+Statement Revision
 
-**2.4.2 Third Party Sites**
+* * *
 
-Jeppesen websites may contain links to other sites, or other interactive forums hosted by a third party. Jeppesen may also use certain third party sites such as Facebook, YouTube, iTunes and Google Play, for purposes such as providing information about products and services, communicating with Customers and the general public, or distributing Jeppesen products or services. These websites may also include buttons, tools, or content that link to third parties (for example, a Facebook "Like" button). Information may also be collected concerning Customer use of these features. In addition, when interacting with these buttons, tools, or content, or viewing a Jeppesen web page containing them, some Customer browser information may automatically be sent to that third party. Jeppesen is not responsible for the non-Jeppesen content or the privacy practices of such other sites. Customers are encouraged to read the privacy policies of any third party web site that collects information. Similarly, if entering Jeppesen websites via another web site, Jeppesen is not responsible for the content or the privacy practices of that site, and the privacy policy of the third-party site should be reviewed before providing any information to that site. This Policy applies solely to Personal Information collected by Jeppesen. 
+**Why Do We Collect Personal Data?**
 
-**2.4.3 Collection from Social Media sites**
+Jeppesen relies on a wide variety of information to run our business. In some instances, this information may include data that could be used to identify a particular individual, otherwise referred to as Personal Data (PD). So that we may provide you with our products and services, Jeppesen processes your PD to meet the requirements of our legitimate business interests, and legal, statutory and contractual obligations. 
 
-Personal Information may also be collected in connection with "liking", posting, commenting or otherwise contacting Jeppesen or its Affiliates via web pages or content that Jeppesen administers on third-party sites such as Facebook or YouTube. 
+In this Privacy Policy, we provide multiple examples of how Personal Data we collect may be used and why it is important. For example, when a customer purchases one of our products or services we must collect, at a minimum, their name, address and payment information to complete the transaction. 
 
-**2.4.4 Use of cookies, IP addresses and web beacons**
+**What Personal Data Do We Collect?**
 
-Jeppesen advertises online in a variety of ways, including displaying ads across the Internet and on the Sites. Information is collected about which ads are displayed, which ads are clicked on, and on which web page the ad was displayed. 
+Examples of Personal Data we collect, the specific kind of information collected will depend on your use of Jeppesen’s range of websites, mobile applications, products, and services: 
 
-The Sites and some services and advertisements may contain "cookies." A cookie is a piece of data that is stored on an individual’s hard drive and records preferences and other data about a visit to the Sites. Like many websites, Jeppesen.com does not currently respond to “do not track” browser headers. Clear gifs (also known as web beacons) may also be used on the Sites. E-mails sent may include a clear gif that tells whether an e-mail was received or opened, or if a link within the e-mail was clicked. Individuals may opt out of receiving marketing communications. Jeppesen or its Affiliates may also use a third party advertising company to display ads on the Sites. 
+  * First and last names; 
+  * Phone numbers; 
+  * E-mail addresses; 
+  * Mailing addresses; 
+  * Passport or government identification information; 
+  * Gender; 
+  * Date of birth; and, 
+  * Country of residence. 
 
-NOTE: If cookies are blocked, some portions of the Sites may not function properly. 
 
-**2.4.5 Collection and use of location data**
 
-When using Jeppesen sites, actual location information may be collected and processed. Various technologies are used to determine location, including IP address, GPS, and other sensors that may, for example, provide information on nearby devices, Wi-Fi access points and cell towers. Location data is used in accordance with the section ‘Uses Permitted', and disclosed in accordance with the section ‘Use, retention and disposal'. 
+**How Do We Collect Personal Data?**
 
-**2.5 Use, retention and disposal**
+We collect information directly from you, as well as automatically through your use of our websites, mobile applications, products, and services and, in some cases, from third parties. 
 
-Jeppesen will use an individual’s Personal Information only for Uses Permitted stated herein or in the Product or Service privacy notice and will only be provided to parties with a need to know. Reasonable attempts to use anonymized data will be made prior to disclosure. 
+**_Information collected via email:_**
 
-When an account is terminated, Jeppesen will only be entitled to retain Personal Information pursuant to applicable information retention policies. Personal Information will be deleted at the conclusion of the applicable retention policy retention period. 
+When you send an email to an email address displayed on one of our various websites, we collect your email address and any other information you provide in that email (such as your name, telephone number and the information contained in any signature block in your email). 
 
-**2.6 Access**
+Legal basis for processing: Our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation) 
 
-Individuals may request access to Personal Information about them that Jeppesen holds and be able to correct, amend, or delete that information where it is inaccurate, except where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in the case in question, or where the rights of persons other than the individual would be violated. If an individual would like to have access to Personal Information Jeppesen holds about them, please e-mail [privacy@jeppesen.com](mailto:privacy@jeppesen.com), or write to Jeppesen, Data Privacy Office, 55 Inverness Drive East, Englewood, CO 80112, USA. 
+Legitimate interest(s): Responding to inquiries and messages we receive and keeping records of correspondence. 
 
-Customer California Privacy Rights - Under California law, Individuals who are California residents are entitled to annually request and obtain information about the Personal Information shared, if any, with other businesses for their own direct marketing. If applicable, the information would include the categories of Personal Information and the names and addresses of those businesses with which Personal Information was shared for the prior calendar year. To make such a request, please send an email to [privacy@jeppesen.com](mailto:privacy@jeppesen.com). Written requests may be sent to Jeppesen, Attention: Data Privacy Office, 55 Inverness Drive East, Englewood, CO 80112-5498. Please note that not all information sharing is covered under the California law, and only information on covered sharing will be included in any response. 
+**_Information collected via our contact form:_**
 
-**2.7 Disclosure to Third Parties**
+When you send an email to an email address displayed on one of our various websites, we collect your email address and any other information you provide in that email (such as your name, telephone number and the information contained in any signature block in your email). 
 
-Prior to any transfer of Personal Information to third parties, Jeppesen will ensure that each third party has entered into a written agreement with Jeppesen that includes adequate protection of Personal Information that may be transferred to the third party by Jeppesen. 
+Legal basis for processing: Our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation) 
 
-**2.8 Security for Privacy**
+Legitimate interest(s): Responding to inquiries and messages we receive and keeping records of contact. 
 
-Jeppesen will make reasonable efforts to ensure that Jeppesen, its Affiliates and Third Party Service Providers will implement reasonable and appropriate technical and organizational security measures to protect entrusted Personal Information from unauthorized or unlawful loss, unauthorized access, disclosure, alteration, and destruction. 
+**_Information collected when contact us by phone:_**
 
-**2.9 Quality and Data integrity**
+When you contact us by phone, we collect your phone number and any information you provide to us during the call. At this time we do not record phone calls. 
 
-Jeppesen will take reasonable steps to ensure that data is accurate, complete, and current for its intended use. 
+Legal basis for processing: Our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation.) 
 
-**2.10 Monitoring and Enforcement**
+Legitimate interest(s): Responding to inquiries and messages we receive and keeping records of contact. 
 
-Jeppesen conducts periodic assessments to ensure compliance with its Data Privacy policies. Relevant discrepancies will be corrected in a timely manner. 
+**_Information we collect when you place an order:_**
 
-Jeppesen also provides (a) various methods for which each individual's complaints and disputes can be investigated and resolved, (b) assessments to ensure compliance with policies; and (c) commits to remedy problems arising out of a failure to comply with the principles. 
+When you place an order for goods or services on our website, we collect the following mandatory information: name, email address, phone number, billing address, company name (if applicable), and, if you create an account, an account password. 
 
-With regard to complaints concerning verification, correction or deletion of any Personal Information collected, or to communicate any questions or concerns regarding this Policy or Jeppesen's treatment of Personal Information, please e-mail [privacy@jeppesen.com](mailto:privacy@jeppesen.com), or by writing to Jeppesen, Data Privacy Office, 55 Inverness Drive East, Englewood, CO 80112, USA. 
+If you do not provide the pertinent information, you will not be able to purchase goods or services from us on our website or enter into a contract with us. 
 
-Certain information may also be corrected by using the "Account" and "Profile" section of the Sites. Please note that in certain circumstances, Personal Information may not be able to be removed or changed. 
+Legal basis for processing: Necessary to perform a contract (Article 6(1)(b) of the General Data Protection Regulation). 
 
-Upon receipt of formal written complaints, it is Jeppesen's policy to contact the complainant regarding any concerns. If unable to reach a resolution, various other methods may be used to investigate and resolve the dispute. 
+Legitimate interest(s): Reason why necessary to perform a contract: We need this information collected by our checkout form to establish who the contract is with and to contact you to fulfil our obligations under the contract, including sending you receipts and order confirmations. It is also necessary to issue you with an invoice for the goods and services you purchased from us. 
 
-**3\. Employee Training**
+**Collection of Personal Data from Children**
 
-Jeppesen will train targeted Employees who have access to Personal Information in the care, handling and protection of Personal Information. 
+Jeppesen may collect, use or disclose Personal Data (PD) from children (as defined by local law) where it is necessary to do so. For example, a child member of a group using Jeppesen’s (International Trip Planning Services (ITPS). This information is necessary to fulfil travel arrangements, ensure safety, to meet legal and regulatory requirements, and to provide, or arrange for appropriate assistance or facilities where necessary. 
 
-**4\. Responsibility**
+This information will be collected with the consent of a responsible adult or guardian where possible. The Data will be appropriately designated for extra protections and review and removal at the earliest opportunity. PD from children will be flagged to avoid direct marketing. 
 
-Jeppesen's Chief Executive Officer is responsible for privacy at Jeppesen. By letter of delegation, the Chief Executive Officer has designated the Chief Data Privacy Officer as responsible for oversight of data protection and privacy policy. The following responsibilities are designated to the appropriate company organizations. 
+If you believe that we have collected PD about a child (defined as a natural person under the age of consent in the applicable country or jurisdiction that he/she resides in), please inform us by email at [Privacy@Jeppesen.com](mailto:privacy@jeppesen.com), so that we can delete the collected information. Additionally, if the registered user was a child, please use [Privacy@Jeppesen.com](mailto:privacy@jeppesen.com) to request removal of such content or PD. 
 
-**4.1 Data Privacy Office (DPO):** Refer to Section 2.1, Management for DPO responsibilities 
+**Jeppesen’s Policy on Sensitive Personal Data**
 
-**4.2 Information Security (IS):** IS will implement sufficient and reasonable technical, administrative and logical security controls to ensure the safety and protection of Personal Information.  In addition, IS will develop and maintain an effective information security breach notification process. 
+Jeppesen does not knowingly or intentionally collect sensitive Personal Data (PD) from individuals, and you must not submit sensitive PD to us. “Sensitive Personal Data” is information about an individual that reveals their racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic information, biometric information for the purpose of uniquely identifying an individual, information concerning health or information concerning a natural person’s sex life or sexual orientation. 
 
-**4.3 Jeppesen Human Resources Organizations:** Human Resources will provide and maintain business processes which implement the Notice, Choice and Access principles for Employee Personal Information. 
+Pursuant to Article 9(2)(a) of the European Union General Data Protection Regulation, if you inadvertently or intentionally transmit sensitive PD to us, you will be considered to have explicitly consented to us processing that sensitive PD. We will use and process your Sensitive Personal Data for the express purpose of deleting it. 
 
-**4.4 Jeppesen organizations administering contracts or agreements:** Procurement organizations (such as Supplier Management and contracts organizations) will maintain business processes and contractual terms and conditions that help ensure data is transferred in accordance with provisions of this Policy and the requirements of applicable law. 
+**How Do We Use Personal Data?**
 
-**4.5 All Jeppesen organizations using Personal Information:** Organizations will maintain business processes that implement the Data Integrity principle. 
+Jeppesen takes your privacy very seriously and we will strive to avoid collecting any unnecessary personal data from you and not process your information in a way other than as specified in this Privacy Policy. We will not purposefully disclose, share or sell your Personal Data (PD) without your consent, unless required to do so by law. 
 
-**5\. Security Incidents**
+**_Uses of Personal Data includes:  _**
 
-If Jeppesen or its Affiliates are made aware of any Security incidents, Jeppesen will review and investigate in accordance with company policies and procedures, as well as any applicable statutes and regulations. Once a Security Incident has been determined to have taken place, Jeppesen will conduct an investigation to determine root cause and implement reasonable solutions to ensure the safety and security of Personal Information in its custody. Affected individuals will be notified as reasonably practical after a Security Incident has been determined to have taken place unless Jeppesen or its Affiliate is subject to a legal or regulatory constraint. 
+  * Uses within specific Jeppesen products and/or services. 
+  * Undertaking normal and reasonable business activities. 
+  * Managing an individual's relationship with Jeppesen. 
+  * Improving Jeppesen products, sites and services (by itself or in combination with data from other Jeppesen offerings or third parties.) 
+  * Detection, prevention, investigation and prosecution of crime. 
+  * Administration and management of PD related to Employees (i.e. benefits, use of company assets, salary planning, etc.) 
+  * Allow you to download and purchase products and services. 
+  * Investigating, responding to, and managing inquiries or events. 
+  * Work with and respond to law enforcement and regulators. 
+  * Research matters relating to our business such as security threats and vulnerabilities. 
 
-**6\. Definitions**
 
-**Affiliate:** A company not specifically part of Jeppesen but operationally reports into Jeppesen 
 
-**Customer:** A person or organization who receives products or services from Jeppesen 
+**How Do We Retain Personal Data (PD)?**
 
-**Disclosing Party:** A party that discloses Personal Information to the other party 
+Jeppesen retains personal data for as long as necessary to provide its products and services and to fulfill requested transactions, or for other essential purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements. Because these needs can vary for different data types in the context of different products, actual retention periods can vary. 
 
-**Disclosing Party Personal Data:** Personal Information disclosed to Jeppesen 
+**_The criteria used to determine the retention periods include:_**
 
-**Employee:** Someone who is employed by Jeppesen either as an Employee or a contract Employee 
+  * How long is the PD needed to provide the products and operate our business? This includes such things as maintaining and improving the performance of those products, keeping our systems secure, and maintaining appropriate business and financial records. This is the general rule that establishes the baseline for most data retention periods. 
+  * Has the user provided consent for a longer retention period? If so, we will retain data in accordance with your consent. 
+  * Is Jeppesen subject to a legal, contractual, relevant agreed industry practices, or similar obligations to retain the data? 
+  * The level of risk, cost and liability involved with Jeppesen continuing to hold the information. 
+  * How hard it is to ensure that the information can be kept up to date and accurate. 
+  * Any relevant surrounding circumstances (such as the nature and status of our relationship with you). 
 
-**Personal Information:** Information that specifically identifies an individual (such as an individual's name, address, e-mail address, telephone number or other identifier that permits the physical or online contacting of a specific individual) or that is associated with an identifiable person (such as demographic information or information about a person's activities when such information is linked to personally identifying information). 
 
-**Processing:** Any operation or set of operations performed upon Personal Information, whether automated or manually, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, erasure or destruction. 
 
-**Security Incident:** An incident where the confidentiality of Personal Information within Jeppesen's custody has been materially compromised posing a reasonable possibility of harm. 
+**What Security Measures Do We Have?**
 
-**Third Party Service Provider or Vendor:** A third party reasonably selected by Jeppesen to provide services. Examples of Third Party Service Providers include technology service providers, business process outsourcing service providers and call center service providers. 
+Although we work hard to protect Personal Data (PD) that we collect and store, no program is 100% secure and Jeppesen cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use or disclose PD. We use administrative, organizational, technical, and physical safeguards to secure your PD and to protect it against unauthorized or unlawful use and accidental loss or destruction, including: 
 
-**Uses Permitted:** Jeppesen's use of Personal Information includes: 
+  * Where appropriate, only sharing and providing access to your information to the minimum extent necessary, subject to confidentiality restrictions, and on an anonymized basis whenever possible. 
+  * Using secure servers to store your information. 
+  * Verifying the identity of any individual who requests access to information prior to granting them access to information. 
+  * Using Secure Sockets Layer (SSL) software or other similar encryption technologies to encrypt any payment transactions you make on or via our website. 
+  * Employees are trained on the importance of protecting privacy and on the proper access to, use and disclosure of customer information. 
+  * Under our practices and policies, access to sensitive PD is authorized only for those who have a business need for such access. 
+  * PD and other sensitive records are retained only as long as reasonably necessary for business, accounting, tax or legal purposes. 
+  * Jeppesen maintains security and incident response plans to handle incidents involving unauthorized access to private information we collect or store. 
+  * If you become aware of a security issue, please contact Jeppesen at [Privacy@Jeppesen.com](mailto:privacy@jeppesen.com) . We will work with you to address any problems. 
 
-  * Undertaking activities related to Accounts for Products and Services with agreed to terms 
-  * Managing an individual's relationship with Jeppesen 
-  * Use within specific Jeppesen products and/or services 
-  * Improving Jeppesen products, sites and services (by itself or in combination with data from other Jeppesen offerings or third parties) 
-  * Risk assessment, information security management, statistical, trend analysis and planning purposes 
-  * Monitoring and recording calls and electronic communications for quality, training, investigation and fraud prevention purposes 
-  * Detection, prevention, investigation and prosecution of Employee crime 
-  * Undertaking normal and reasonable business activities 
-  * Administration and management of Employees (i.e. benefits, use of company assets, salary planning, etc.) 
-  * Sharing Personal Information with The Boeing Company for workforce analysis, surveys and improvement purposes 
 
 
+**Cookies**
 
-**Vendors:** Third party entities hired by Jeppesen to perform fee-based services or provide goods for fee. 
+We use cookies to ensure that we give you the best experience on our website. If you continue without changing your web browser settings, we’ll assume that you are happy to receive all cookies on the Jeppesen website. However, if you would like to, you can change your cookie settings on your web browser at any time. 
 
-**7\. Dispute Resolution**
+_**What is a Cookie?**_
 
-Verification, correction or deletion of any Personal Information collected, or to communicate any questions or concerns regarding this Policy or Jeppesen's and its Affiliates’ treatment of Personal Information, please e-mail [privacy@jeppesen.com](mailto:privacy@jeppesen.com), or by writing to Jeppesen, Data Privacy Office, 55 Inverness Drive East, Englewood, CO 80112, USA. Certain information may also be corrected by using the "Account" and "Profile" section of the Sites. Please note that in certain circumstances, Personal Information may not be able to be removed or changed. Upon receipt of formal written complaints, it is Jeppesen's policy to contact the complainant regarding any concerns. 
+Most websites you visit will use cookies in order to improve your user experience by enabling that website to ‘remember’ you, either for the duration of your visit (using a ‘session cookie’) or for repeat visits (using a ‘persistent cookie’). 
 
-**8\. Right to Revise/ Amend**
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, storing your preferences, and generally improving your experience of a website. Cookies make the interaction between you and the website faster and easier. If a website doesn’t use cookies, it will think you are a new visitor every time you move to a new page on the site – for example, when you enter your login details and move to another page it won’t recognize you and it won’t be able to keep you logged in. 
 
-Jeppesen reserves the right to revise or amend this privacy policy at its sole discretion at any time. 
+Some websites will also use cookies to enable them to target their advertising or marketing messages based for example, on your location and/or browsing habits. Cookies may be set by the website you are visiting (‘first party cookies’) or they may be set by other websites who run content on the page you are viewing (‘third party cookies’). 
 
-**9\. Privacy Shield**
+_**What is in a Cookie?**_
 
-Jeppesen complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Jeppesen has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. 
+A cookie is a simple text file that is stored on your computer or mobile device by a website’s server and only that server will be able to retrieve or read the contents of that cookie. Each cookie is unique to your web browser. It will contain some anonymous information such as a unique identifier and the site name and some digits and numbers. It allows a website to remember things like your preferences or what’s in your shopping basket. 
 
-Jeppesen is responsible for the processing of personal data it receives, under the Privacy Shield Frameworks, and subsequently transfers to a third party acting as an agent on its behalf. Jeppesen complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. 
+_**What to do if you don’t want cookies to be set.**_
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Jeppesen is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Jeppesen may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+Some people find the idea of a website storing information on their computer or mobile device a bit intrusive, particularly when this information is stored and used by a third party without their knowledge. Although this is generally quite harmless you may not, for example, want to see advertising that has been targeted to your interests. If you prefer, it is possible to block some or all cookies, or even to delete cookies that have already been set; but you need to be aware that you might lose some website functionality. If you don’t want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set. 
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact JAMS, our U.S.-based third party dispute resolution provider, free of charge [here](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim). 
+If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings.  The Help function within your web browser should tell you how this is done. Alternatively, you may wish to visit www.aboutcookies.org, which contains comprehensive information on how to do this on a wide variety of desktop browsers. 
 
-Under certain conditions, more fully described on the[ Privacy Shield website](http://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
+**Data Breaches**
+
+In accordance with Article 55 of the GDPR, If a Data Breach occurs that involves Personal Data (PD), then if Jeppesen is acting as the Controller of such Pd, it shall, without undue delay and where possible, provide appropriate notice no later than 72 hourse after having become aware of such data breach. 
+
+Jeppesen’s Data Breach Notification shall describe the nature of the PD data breach, the categories and approximate number of data subjects affected, as well as the approximate number of PII data records potentially impacted by such Data Breach.  Jeppesen will also descrbe the likely consequences of the PII Data Breach, and notify affected parties of the measures that Jeppesen will take to address the PII Data Breach including but not limited to measures to mitigate its possible advese effects. 
+
+ If it is not possible to fully disclose the details of a PD Data Breach at the same time, Jeppesen will provide disclosures concerning such PD Data Breach in phases without undue delay.  Jeppesen will document any PD Data Breaches, its effects, and the remediation actions taken. 
+
+**Consent to Transfer, Processing and Storage of Personal Data (PD) – Privacy Shields**
+
+As Jeppesen is a global organization, we may transfer your PD to Jeppesen in the United States of America (US), to any Jeppesen subsidiary worldwide, or to third parties and business partners as described above that are located in various countries around the world. By use of our websites and Solutions, or providing any PD to Jeppesen where applicable law permits, you consent to the transfer, processing, and storage of such information outside of your country of residence where data protection standards may be different. 
+
+Jeppesen safeguards and enables the global transfer of Personal Data by participation in the: 
+
+**_EU-US and Swiss-US Privacy Shields_**
+
+Jeppesen participates in and has certified its compliance with the EU-U.S. and Swiss-US Privacy Shield Frameworks and Principles as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Data transferred from the European Union (EU) and Switzerland, respectively. Jeppesen is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the EU-US and Swiss-US Privacy Shield Frameworks, to the Frameworks’ applicable Principles. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about these Privacy Shield Frameworks, visit the U.S. Department of Commerce's Privacy Shield  _[site](https://www.privacyshield.gov/Program-Overview)_.[ ](https://privacy.truste.com/privacy-seal/validation?rid=c85392b5-4521-43f7-bd03-6f005ba67125)
+
+Jeppesen is responsible for the processing of Personal Data (PD) it receives, under these Privacy Shield Frameworks, and subsequently transfers to a third party acting as an agent on its behalf. Jeppesen complies with the Privacy Shield Principles for all onward transfers of PD from the EU and Switzerland, including the onward transfer liability provisions. In certain situations, Jeppesen may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+With respect to PD received or transferred pursuant to these Privacy Shield Frameworks, Jeppesen is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. 
+
+**Physical Location of Data Processing and Personal Data (PD)**
+
+PD that Jeppesen processes is transferred to, stored and processed in the United States or any other country in which Jeppesen or its affiliates or subcontractors maintain facilities. The data protection laws in these countries are different from and may be less stringent than those in your country of residence. We take steps to ensure that the data we collect under this Statement is processed according to the provisions of this Privacy Policy and the requirements of applicable laws and regulations wherever the data is located. 
+
+**What are Your Rights?**
+
+Subject to limitations on certain rights, you have the following rights in relation to your information: 
+
+  * **The right to be informed -  **Organizations must be completely transparent in how they are using personal data. 
+  * **The right of access -  **Individuals will have the right to know exactly what information is held about them and how it is processed. 
+  * **The right of rectification -  **Individuals will be entitled to have personal data rectified if it is inaccurate or incomplete 
+  * **The right to erasure -  **Also known as 'the right to be forgotten', this refers to an individual's right to having their personal data deleted or removed without the need for a specific reason as to why they wish to discontinue. 
+  * **The right to restrict processing -  **Refers to an individual's right to block or suppress processing of their personal data. 
+  * **The right to data portability -  **This allows individuals to retain and reuse their personal data for their own purpose. 
+  * **The right to object -  **In certain circumstances, individuals are entitled to object to their personal data being used. This includes, if a company uses personal data for the purpose of direct marketing, scientific and historical research, or for the performance of a task in the public interest. 
+  * **Rights of automated decision making and profiling -  **The General Data Protection Regulation (GDPR) has put in place safeguards to protect individuals against the risk that a potentially damaging decision is made without human intervention. For example, individuals can choose not to be the subject of a decision where the consequence has a legal bearing on them, or is based on automated processing. 
+
+
+
+In accordance with Article 77 of the GDPR, you also have the  **right to lodge a complaint with a supervisory authority** , in particular in the Member State of your habitual residence, place of work or of an alleged infringement of the General Data Protection Regulation. 
+
+**_Customer California Privacy Rights:_**
+
+Under California law, Individuals who are California residents are entitled to annually request and obtain information about the Personal Data (PD) shared, if any, with other businesses for their own direct marketing. If applicable, the information would include the categories of PD and the names and addresses of those businesses with which PD was shared for the prior calendar year. To make such a request, please send an email to _[Privacy@Jeppesen.com](mailto:privacy@jeppesen.com)_. Written requests may be sent to Jeppesen, Attention: Data Privacy Office, 55 Inverness Drive East, Englewood, CO 80112-5498. Please note that not all information sharing is covered under the California law, and only information on covered sharing will be included in any response. 
+
+You can exercise your rights by writing to: 
+
+Jeppesen Sanderson, Inc.  
+Attention: Data Privacy Office  
+55 Inverness East  
+Englewood, CO 80112 
+
+Or sending an email to [Privacy@Jeppesen.com](mailto:Privacy@Jeppesen.com)
+
+**Dispute Resolution**
+
+Verification, correction or deletion of any Personal Data collected, or to communicate any questions or concerns regarding this Policy or Jeppesen's treatment of Personal Data, please e-mail _[Privacy@Jeppesen.com](mailto:privacy@jeppesen.com)_ , or by writing to Jeppesen, Data Privacy Office, 55 Inverness Drive East, Englewood, CO 80112, USA. Certain information may also be corrected by using the "Account" and "Profile" section of Jeppesen’s websites. Please note that in certain circumstances, Personal Data may not be able to be removed or changed. Upon receipt of formal written complaints, it is Jeppesen's policy to contact the complainant regarding any concerns. 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact JAMS, our U.S.-based third party dispute resolution provider, free of charge _[here](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim)_. 
+
+**Changes to this Policy**
+
+We reserve the right to make changes to this privacy policy, so please check back periodically for changes. You will be able to see that changes have been made by checking to see the effective date posted at the beginning of the policy.  In addition, Jeppesen follows the notice provisions below relative to Minor and Major changes to our Privacy Policy: 
+
+**_Minor changes to our Privacy Policy:_**
+
+Where we make minor changes to our Privacy Policy, we will update our Privacy Policy with a new effective date stated at the beginning of it. Our processing of your information will be governed by the practices set out in that new version of the Privacy Policy from its effective date onwards. 
+
+**_Major changes to our Privacy Policy:_**
+
+Where we make major changes to our Privacy Policy or intend to use your information for a new purpose or a different purpose than the purposes for which we originally collected it, we will notify you by email (where possible) or by posting a notice on our website. 
+
+We will provide you with the information about the change in question and the purpose and any other relevant information before we use your information for that new purpose. 
+
+Wherever required, we will obtain your prior consent before using your information for a purpose that is different from the purposes for which we originally collected it. 
+
+**How to Contact Us:**
+
+If you have access, correction, or deletion request or questions or comments about Jeppesen’s privacy practices, please contact us at [Privacy@Jeppesen.com](mailto:privacy@jeppesen.com), or mail us at: 
+
+Jeppesen Sanderson, Inc.  
+Attention: Data Privacy Office  
+55 Inverness Drive East  
+Englewood, CO 80016 
+
+Telephone: 
+
+Toll-Free: 1-800-353-2107 
+
+Direct: 1-303-799-9090 (ask for Data Privacy Office) 
+
+**Corporate Changes (Mergers, Acquisitions & Divestures)**
+
+In the event of a reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock, Jeppesen is likely to disclose your Personal Data to the new owners, subject to a requirement that such information be used only in accordance with this Privacy Policy. 
+
+**Statement Revision**
+
+From time to time, Jeppesen will revise this Statement at its discretion. We note the effective date of the Statement below, so you know when it was last updated. Jeppesen advises you to check back periodically to review the Statement because users of our Services will be prospectively bound by the then-current version of this Statement.  Effective Date: _May 24, 2018_. 
