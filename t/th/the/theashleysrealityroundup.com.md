@@ -1,50 +1,102 @@
-> *The following text is extracted and transformed from the theashleysrealityroundup.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128051234id_/http%3A//www.theashleysrealityroundup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theashleysrealityroundup.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625181450id_/http%3A//www.theashleysrealityroundup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Ashley's Reality Roundup
 
-Please contact The Ashley at [realityashley@gmail.com](mailto:realityashley@gmail.com) if you feel any story on this site violates your privacy. Although The Ashley goes to great lengths to validate all information posted on this website, posts on this site may contain rumors, speculations, assumptions or opinions.
+Effective May 15, 2018:
 
-Images posted on this site are believed to belong in the public domain. Please contact The Ashley if you believe any images on the site are in violation of copyright law. Images believed to be in violation of copyright laws will be removed immediately.
+TheAshleysRealityRoundup.com (“Website”) is governed by the following Privacy Policy.
 
-The Ashley will NEVER sell, rent or give your email address or contact information to any other site, company or advertiser. However, anything you comment may be included in a story on the site, or story update. Names can/will be withheld, if the source requests.
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to this Website.
 
-This Privacy Policy governs the manner in which The Ashley’s Reality Roundup collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.theashleysrealityroundup.com](http://www.theashleysrealityroundup.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Ashley’s Reality Roundup.
+Please contact The Ashley at **RealityAshley@gmail.com** if you feel any story on this site violates your privacy. Although The Ashley goes to great lengths to validate all information posted on this website, posts on this site may contain rumors, speculations, assumptions or opinions.  
+Images posted on this site are believed to belong in the public domain. Please contact The Ashley if you believe any images on the site are in violation of copyright law. Images believed to be in violation of copyright laws will be removed immediately.
 
-**Sharing your Personal Information**
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+• **Information You Voluntarily Submit to the Website:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, we may ask you to create a user profile, which would allow you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-**Personal Identification Information**
+• **Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
 
-We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, etc. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. Again, no personal information will ever be sold, rented or given to any other site.
+• **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-**Non-Personal Identification Information**
+• **Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**HOW YOUR INFORMATION MAY BE USED**
 
-**Web Browser Cookies**
+We may use the information collected in the following ways:  
+• To operate and maintain the Website;  
+• To create your account, identify you as a user of the Website, and customize the Website for your account;  
+• To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;  
+• To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;  
+• To respond to your comments or inquiries;  
+• To provide you with user support;  
+• To track and measure advertising on the Website;  
+• To protect, investigate, and deter against unauthorized or illegal activity.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**THIRD-PARTY USE OF PERSONAL INFORMATION**  
+Additionally, the Website may use third-party service providers service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies. The Website currently uses the following third-party service providers:
 
-**Third Party Websites**
+• **Google Analytics** – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.  
+• **Constant Contact** – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  
+• **Poll-Daddy** – This service is used to create and manage polls and survey available on the Website. No personal information, except the answers the user has provided, will be stored.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.  
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-**Advertising**
+**ANONYMOUS DATA**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-**Your Acceptance of these Terms**
+**PUBLICLY VISIBLE INFORMATION**
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible.
 
-**Contacting Us**
+When you leave comments, you are required to enter a name and email address. The email address is only required to eliminate spam postings and will not be shared. You are not required to use your real or full name on this site, but you may do so if you wish.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-The Ashley’s Reality Roundup  
-[www.theashleysrealityroundup.com](http://www.theashleysrealityroundup.com/)  
-[realityashley@gmail.com](mailto:realityashley@gmail.com)
+**COOKIES**
 
-This document was last updated on June 20, 2011
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
-Privacy policy created by [privacypolicies.com](http://privacypolicies.com/)
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+**ADVERTISING**
+
+**Display Ads**  
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personally identifiable information is shared with the Website’s ad providers.
+
+**Retargeting Ads**  
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+**Sponsored Content Tracking Pixels**  
+This Website may engage in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
+
+**Affiliate Program Participation**  
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+The Ashley’s Reality Roundup.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+**Newsletters**  
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+**RIGHTS RELATED TO YOUR PERSONAL INFORMATION**
+
+**Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at RealityAshley@gmail.com to be removed from our mailing list.
+
+**Access** – You may access the personal information we have about you by submitting a request to RealityAshley@gmail.com
+
+**Amend** – You may contact us at RealityAshley@gmail.com to amend or update your personal information.
+
+**Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to RealityAshley@gmail.com
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+**SENSITIVE PERSONAL INFORMATION**  
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, personal address or phone number, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+**CHILDREN’S INFORMATION**  
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at RealityAshley@gmail.com and we will use our best efforts to promptly remove such information from our records.
+
+**CONTACT INFORMATION**  
+At any time, please contact us at RealityAshley@gmail.com for questions related to this Privacy Policy.
+
+_Last updated: May 15, 2018_
