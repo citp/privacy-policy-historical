@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928234551id_/https%3A//www.crutchfield.com/support/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625082832id_/https%3A//www.crutchfield.com/support/privacy.aspx) for the most accurate reproduction.*
 
 # Crutchfield.com - Privacy Policy
 
-For more than 43 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
+For more than 44 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
 
-If you have any questions or concerns about our Privacy Notice, please call us toll-free at: 1.800.653.0983; e-mail us at [ webmaster@crutchfield.com](mailto:webmaster@crutchfield.com); or send a letter to:
+If you have any questions or concerns about our Privacy Notice, please call us toll-free at: 1.844.289.4705; e-mail us at [ webmaster@crutchfield.com](mailto:webmaster@crutchfield.com); or send a letter to:
 
 Privacy, 1 Crutchfield Park, Charlottesville, Virginia 22911.
 
@@ -26,7 +26,7 @@ Automatic Information collected by us: Whenever you visit our Web site we collec
 
 Orders: If you place an order we use a secure order form which requires you to provide contact, billing, and financial information. This information is transmitted to your credit card company to authorize your purchase.
 
- **California Privacy:** Orders placed from California comply with California collection and use of personally identifiable information laws.
+**California Privacy:** Orders placed from California comply with California collection and use of personally identifiable information laws.
 
 At certain times we may offer financing options with or without third party participation. If you use a financing option information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing.
 
@@ -40,11 +40,11 @@ Independent Contractors: We employ other companies or individuals to provide cer
 
 Third party service providers: Some of the products which we sell require us to provide your name, address, phone number and product serial number to the third party service provider(s) (such as Sirius/XM and OnStar) that require this information to activate the service. These third party service providers have their own privacy and data collection policies which are not controlled by Crutchfield. We have no control, responsibility or liability for these policies and urge you to contact the third party provider if you have any questions.
 
-Orders and Catalog Requests: When you place your order and/or when you request that we send you a catalog from time to time we may share your name, mailing address and purchase category information with a few carefully selected marketing partners who may bring you offers of interest. If you wish to opt out of sharing this information with these companies, please call 1.800.653.0983 or e-mail [ service@crutchfield.com](mailto:service@crutchfield.com). We will never share any telephone number(s), or financial information which you have given us with any marketing partner(s).
+Orders and Catalog Requests: When you place your order and/or when you request that we send you a catalog from time to time we may share your name, mailing address and purchase category information with a few carefully selected marketing partners who may bring you offers of interest. If you wish to opt out of sharing this information with these companies, please call 1.844.289.4705 or e-mail [ service@crutchfield.com](mailto:service@crutchfield.com). We will never share any telephone number(s), or financial information which you have given us with any marketing partner(s). 
 
-Crutchfield has contracted with TurnTo Networks to provide Social Question and Answer functionality on Crutchfield.com, which enables shoppers to ask questions of customers who actually bought the items they are considering. When you place an order, we will send TurnTo the purchaser’s first and last name, email address, zip code and information about the items ordered. As a purchaser, you may receive emails asking you to answer questions about the products you purchased. You may opt out of Social Q&A emails by unsubscribing from all Crutchfield email at this[link](https://www.crutchfield.com/secure/Subscriptions.aspx) or by calling 1.800.319.8264 toll-free.
+Crutchfield has contracted with TurnTo Networks to provide Social Question and Answer functionality on Crutchfield.com, which enables shoppers to ask questions of customers who actually bought the items they are considering. When you place an order, we will send TurnTo the purchaser’s first and last name, email address, zip code and information about the items ordered. As a purchaser, you may receive emails asking you to answer questions about the products you purchased. You may opt out of Social Q&A emails by unsubscribing from all Crutchfield email at this [link](https://www.crutchfield.com/secure/Subscriptions.aspx) or by calling 1.800.319.8264 toll-free. 
 
-Aggregate information: We provide aggregate information to some of our business partners. This information does not allow them to identify you individually.
+Aggregate information: We provide aggregate information to some of our business partners. This information does not allow them to identify you individually. 
 
 Vendors: We provide some of our vendors with your contact information so that they may contact you directly with product support information. For example, we may supply your contact information to a Vendor if they request it in order to provide you with recall information about a product you have purchased from us.
 
@@ -62,7 +62,7 @@ We contract with an outside service called Omniture to help us better understand
 
 We may share limited web browsing information of site visitors that have a prior relationship with PayPal and/or other Payors. This information will allow the Payor to enhance the Payor’s targeted marketing to the site visitor. The Payor may combine the information provided by us with information held by the Payor subject to the Payor’s privacy policy.
 
-Crutchfield has contracted with Support.com to provide video conferencing functionality on Crutchfield.com. When you use this service any information transmitted through the service will be sent to Support.com’s servers and they will have access to this information which will be subject to Support.com’s Privacy Policy located at<https://www.support.com/legal/site-privacy-policy/> You may opt out of this by not using our video conferencing service.
+Crutchfield has contracted with Support.com to provide video conferencing functionality on Crutchfield.com. When you use this service any information transmitted through the service will be sent to Support.com’s servers and they will have access to this information which will be subject to Support.com’s Privacy Policy located at <https://www.support.com/legal/site-privacy-policy/> You may opt out of this by not using our video conferencing service. 
 
 ###  Law Enforcement and Protection of Users
 
