@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatschools.net privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229033428id_/http%3A//www.greatschools.org/gk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatschools.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626011642id_/https%3A//www.greatschools.org/gk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GreatSchools
 
@@ -6,9 +6,11 @@
 
 This privacy statement discloses the privacy practices for [greatschools.org](http://www.greatschools.org/), a website owned and operated by GreatSchools Inc. If you have questions or concerns about this privacy policy, you should contact us by emailing [help@greatschools.org](mailto:help@greatschools.org).
 
+For the purposes of EU data protection laws (“ **Data Protection Law** “), GreatSchools Inc. is data controller (i.e., the company who is responsible for, and controls the processing of, your personal data).
+
 #### Information Collection and Use
 
-GreatSchools Inc. collects information from our users at several different points on our website. GreatSchools Inc. is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in ways other than as disclosed in this statement.
+GreatSchools Inc. collects information from our users at several different points on our website. GreatSchools Inc. is the sole owner of the information collected on this site (“ **GreatSchools** “). We will not sell, share or rent this information to others in ways other than as disclosed in this statement.
 
 We share aggregated demographic information with our partners and sponsors. This is not linked to any personally identifiable information.
 
@@ -28,6 +30,34 @@ GreatSchools also uses Google Analytics to help analyze how visitors use our sit
 
 GreatSchools also works with third-party companies to serve ads when you visit www.greatschools.org. These companies may use information (not including your name, address, email address or telephone number) about your visits to www.greatschools.org in order to provide advertisements on www.greatschools.org, other websites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
+**Legal basis for processing in the EU  
+**In the EU, the purposes for which we process your personal data are: 
+
+  1. the provision of personal data by you may be necessary for the performance of any contractual relationship we have with you; 
+  2. where it is necessary for compliance with our legal obligations laid down by EU law; 
+  3. where in our legitimate interests (provided these are not overridden by your interests and fundamental rights and freedoms – this includes our own legitimate interests) such as:
+    1. to tailor our services to the user and improve our services generally; 
+    2. to communicate with users and respond to queries, complaints, and concerns, and for developing and improving our services; and
+    3. for fraud prevention and detection.
+
+
+
+**For residents in the EU or Switzerland**  
+If you are located in the EU or Switzerland, you have the following rights in respect of your personal data that we hold:
+
+  * Right of access. The right to obtain access to your personal data;
+  * Right to rectification. The right to obtain rectification of your personal data without undue delay where that personal data is inaccurate or incomplete; 
+  * Right to erasure. The right to obtain the erasure of your personal data without undue delay in certain circumstances, such as where the personal data is no longer necessary in relation to the purposes for which it was collected or processed;
+  * Right to restriction. The right to obtain the restriction of the processing undertaken by us on your personal data in certain circumstances, such as where the accuracy of the personal data is contested by you, for a period enabling us to verify the accuracy of that personal data;
+  * Right to portability. The right to portability allows you to move, copy or transfer personal data easily from one organization to another; and 
+  * Right to object. You have a right to object to processing based on legitimate interests and direct marketing. 
+
+
+
+If you wish to exercise one of these rights, please [contact us](https://www.greatschools.org/gk/contact/) using the contact details at the end of this Privacy Policy.
+
+You also have the right to lodge a complaint to your local data protection authority. Further information about how to contact your local data protection authority is available at <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>.  
+
 #### Log Files
 
 We use IP addresses to analyze trends, administer the site, track users’ movement and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
@@ -44,7 +74,7 @@ From time to time, GreatSchools may email our newsletter subscribers a request t
 
 #### Choice/Opt Out
 
-Users who no longer wish to receive our newsletters or other communications can unsubscribe using the tools provided in every email message we send or from the [subscription management page](http://www.greatschools.org/gsr/login/).
+Users who no longer wish to receive our newsletters or other communications can unsubscribe using the tools provided in every email message we send or from the [subscription management page](https://web.archive.org/gsr/login/).
 
 #### User Surveys
 
@@ -65,6 +95,8 @@ If and when our registration/order form asks users to enter sensitive informatio
 While we use SSL encryption to protect sensitive information online, we will use commercially reasonable efforts to protect personal user information offline. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) will be granted access to personally identifiable information. Furthermore, all employees are kept up to date on our security and privacy practices. The servers that are used to store personally identifiable information are kept in a secure environment.
 
 If you have any questions about the security at our website, you can send an email to [help@greatschools.org](mailto:help@greatschools.org).
+
+**Data storage and transfer:**  Your information collected through our website may be stored and processed in the United States or any other country in which Company or its affiliates or service providers maintain facilities.  If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you we will take all steps reasonably necessary to ensure that any personal data are treated securely and in accordance with this Privacy Policy. Such transfers are made pursuant to appropriate safeguards. If you wish to enquire further about these transfers, please [contact us](https://www.greatschools.org/gk/contact/).
 
 #### Compromise of Security
 
@@ -123,3 +155,6 @@ Protecting the privacy of young children is especially important. For that reaso
 #### Notification Procedures
 
 It is the policy of GreatSchools to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our customers or website users, via email notice, written or hard copy notice, or through conspicuous posting of such notice on our website page, www.greatschools.org, as determined by GreatSchools in its sole discretion. Notwithstanding the foregoing, GreatSchools reserves the right to determine the form and means of providing notifications to our customers or website users.
+
+_Last updated May 24, 2018._  
+ 
