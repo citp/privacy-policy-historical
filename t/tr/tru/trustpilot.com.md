@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trustpilot.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209014657id_/http%3A//legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustpilot.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625125747id_/https%3A//legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## PRIVACY POLICY
+## **                                                                                                          PRIVACY POLICY**
 
 By creating a profile on or using any of the Trustpilot websites including, but not limited to www.trustpilot.com, (the "Website") you **accept** the terms contained in this Privacy Policy, which govern the processing of your personal data on the Website.
 
