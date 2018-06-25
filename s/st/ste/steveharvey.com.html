@@ -1,1277 +1,524 @@
-<!--The following is the downloaded HTML source of the steveharvey.com privacy policy that was archived on 2017-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622095223id_/http%3A//steveharvey.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the steveharvey.com privacy policy that was archived on 2018-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625224230id_/https%3A//steveharvey.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-    
-<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQEHVlRRGwYDXFJVBQI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Privacy and Cookie Notice | The Steve Harvey Morning Show</title>
-<meta name="description" content="Versi&amp;oacute;n en Espa&amp;ntilde;olUPDATED AS OF: November 10, 2016iHeartMedia, Inc. ('iHeartMedia'">
-<meta name="keywords" content="privacy, and, cookie, notice, shms, 0.0, pr, radio, listen, live, iheart, iheartradio, urban">
-<meta name="thumbnail" content="http://i.iheart.com/v3/url/aHR0cDovL2NvbnRlbnQuY2xlYXJjaGFubmVsLmNvbS9jYy1jb21tb24vbWxpYi8xNTYwNi8yMDE2LzExL2RlZmF1bHQvZnVsbF9jcmV3XzBfMTQ3OTkyMjI0Mi5qcGc=?ops=">
-<link rel="canonical" href="http://news.iheart.com/articles/legal-477363/privacy-and-cookie-notice-11584630/">
-<link rel="image_src" href="http://i.iheart.com/v3/url/aHR0cDovL2NvbnRlbnQuY2xlYXJjaGFubmVsLmNvbS9jYy1jb21tb24vbWxpYi8xNTYwNi8yMDE2LzExL2RlZmF1bHQvZnVsbF9jcmV3XzBfMTQ3OTkyMjI0Mi5qcGc=?ops=">
-<meta name="application-name" content="The Steve Harvey Morning Show">
-<meta name="msapplication-TileColor">
-<meta name="msapplication-TileImage" content="http://i.iheart.com/v3/url/aHR0cDovL2NvbnRlbnQuY2xlYXJjaGFubmVsLmNvbS9jYy1jb21tb24vbWxpYi8xNTYwNi8yMDE2LzExL2RlZmF1bHQvc2htc19sb2dvXzBfMTQ3OTc0NjU0Mi5wbmc=?ops=">
-<meta name="msvalidate.01" content="E98E323249F89ACF6294F958692E230B">
-<meta property="fb:app_id" content="481832138598212">
-<meta property="og:site_name" content="The Steve Harvey Morning Show">
-<meta property="og:title" content="Privacy and Cookie Notice | The Steve Harvey Morning Show">
-<meta property="og:description" content="Versi&amp;oacute;n en Espa&amp;ntilde;olUPDATED AS OF: November 10, 2016iHeartMedia, Inc. ('iHeartMedia'">
-<meta property="og:type" content="article">
-<meta property="og:locale" content="en_US">
-<meta property="og:image" content="http://i.iheart.com/v3/url/aHR0cDovL2NvbnRlbnQuY2xlYXJjaGFubmVsLmNvbS9jYy1jb21tb24vbWxpYi8xNTYwNi8yMDE2LzExL2RlZmF1bHQvZnVsbF9jcmV3XzBfMTQ3OTkyMjI0Mi5qcGc=?ops=">
-<meta property="og:url" content="http://www.steveharvey.com/articles/legal-477363/privacy-and-cookie-notice-11584630/">
-<meta property="twitter:site" content="@steveharveyfm">
-<meta property="twitter:title" content="Privacy and Cookie Notice | The Steve Harvey Morning Show">
-<meta property="twitter:description" content="Versi&amp;oacute;n en Espa&amp;ntilde;olUPDATED AS OF: November 10, 2016iHeartMedia, Inc. ('iHeartMedia'">
-<meta property="twitter:image" content="http://i.iheart.com/v3/url/aHR0cDovL2NvbnRlbnQuY2xlYXJjaGFubmVsLmNvbS9jYy1jb21tb24vbWxpYi8xNTYwNi8yMDE2LzExL2RlZmF1bHQvZnVsbF9jcmV3XzBfMTQ3OTkyMjI0Mi5qcGc=?ops=">
-<meta property="twitter:url" content="http://www.steveharvey.com/articles/legal-477363/privacy-and-cookie-notice-11584630/">
-<meta property="twitter:domain" content="www.steveharvey.com">
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:creator" content="@steveharveyfm">
-<link rel="author" href="https://plus.google.com/+iHeartRadio">
-<meta itemprop="name" content="Privacy and Cookie Notice | The Steve Harvey Morning Show">
-<meta itemprop="description" content="Versi&amp;oacute;n en Espa&amp;ntilde;olUPDATED AS OF: November 10, 2016iHeartMedia, Inc. ('iHeartMedia'">
-<meta itemprop="image" content="http://i.iheart.com/v3/url/aHR0cDovL2NvbnRlbnQuY2xlYXJjaGFubmVsLmNvbS9jYy1jb21tb24vbWxpYi8xNTYwNi8yMDE2LzExL2RlZmF1bHQvZnVsbF9jcmV3XzBfMTQ3OTkyMjI0Mi5qcGc=?ops=">
-<meta itemprop="url" content="http://www.steveharvey.com/articles/legal-477363/privacy-and-cookie-notice-11584630/">
-<meta itemprop="google-site-verification" content="p2FWrUKxtwBmQgHV4CjD80oKdZZBjmMNByoWvZMsYso">
-<!--
-<PageMap>
-	<DataObject type="thumbnail">
-		<Attribute name="src" value="http://i.iheart.com/v3/url/aHR0cDovL2NvbnRlbnQuY2xlYXJjaGFubmVsLmNvbS9jYy1jb21tb24vbWxpYi8xNTYwNi8yMDE2LzExL2RlZmF1bHQvZnVsbF9jcmV3XzBfMTQ3OTkyMjI0Mi5qcGc=?ops=" />
-		<Attribute name="width" value="200" />
-		<Attribute name="height" value="200" />
-	</DataObject>
-	<DataObject type="cse_thumbnail">
-		<Attribute name="src" value="http://i.iheart.com/v3/url/aHR0cDovL2NvbnRlbnQuY2xlYXJjaGFubmVsLmNvbS9jYy1jb21tb24vbWxpYi8xNTYwNi8yMDE2LzExL2RlZmF1bHQvZnVsbF9jcmV3XzBfMTQ3OTkyMjI0Mi5qcGc=?ops=" />
-		<Attribute name="width" value="200" />
-		<Attribute name="height" value="200" />
-	</DataObject>
-</PageMap>
--->
-
-<link rel="shortcut icon" href="//media.iheart.com/go/mlib/15606/2016/11/default/steveharveylogovertical_0_1472_0_1479575385.ico">    <link href="https://fonts.googleapis.com/css?family=Lato:400,100,300,700,900" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,700,400italic,900" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,300,200,500,600,700,900" rel="stylesheet" type="text/css">    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-
-<link rel="stylesheet" href="//flint-img.iheart.com/responsive/dist/css/main-271.min.css">
-
-<!-- test 1 -->
-<!-- test 2 -->
-
-<link rel="stylesheet" href="/clientstyles/station_styles.css">    <script src="//flint-img.iheart.com/responsive/dist/js/modernizr.js"></script>
-<script type="text/javascript">
-
-(function(){
-    // Finds any url hash value or query param that may contain anything resembling an email address and removes it, 
-    // then reloads the page if necessary because of Google PIA rules
-    var path = window.location.pathname,
-        search = window.location.search,
-        hash = window.location.hash,
-        matched = false,
-        pattern1 = /email\=/i,
-        pattern2 = /(\S+)@(\S+)/i,
-        value = '',
-        email = '',
-        i = 0;
-
-    //sanitize the url hash
-    if (typeof(hash) !== 'undefined' && hash !== '' && hash !== "#") {
-        if (hash.indexOf('?') >= 0) {
-            search = hash.substring(hash.indexOf('?'));
-            hash = hash.substring(0, hash.indexOf('?'));
-        } //if
-
-        if (pattern1.test(hash) || pattern2.test(hash)) { 
-            matched = true;
-            hash = '';
-        } //if
-
-    } //if
-
-    //sanitize the query string params
-    if (typeof(search) !== 'undefined' && search !== '' && search !== '?') {
-        params = search.replace('?', '').split('&');
+<!DOCTYPE html><html lang="en-US"><head><meta charset="utf-8">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PL6VVJR"></script><script data-cfasync="false" data-pagespeed-no-defer="">var __ez=__ez||{};__ez.evt={};__ez.ck={};__ez.dot={};__ez.template={};__ez.template.isOrig=true;__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.ck.get=function(e,n){null!==n&&(e=e+"_"+n);for(var o=e+"=",t=decodeURIComponent(document.cookie).split(";"),i=0;i<t.length;i++){for(var c=t[i];" "===c.charAt(0);)c=c.substring(1);if(0===c.indexOf(o))return c.substring(o.length,c.length)}return""},__ez.ck.setByCat=function(e,n){if("undefined"!=typeof cmpIsOn){if(null!=n){var o=__ez.ck.get("ezCMPCookieConsent",null);-1!==(o=o.substring(1,o.length)).indexOf(n+"=1")?document.cookie=e:""===o&&"undefined"!=typeof cmpCookies&&(void 0===cmpCookies[n]&&(cmpCookies[n]=[]),cmpCookies[n].push(e))}}else document.cookie=e};__ez.queue=function(){var e=0,i=0,t=[],n=[],r=[],o=!0,s={func:function(e,i,n,r,o,s,a){var l=this;this.name=e,this.funcName=i,this.parameters=null===n?null:n instanceof Array?n:[n],this.isBlock=r,this.blockedBy=o,this.deleteWhenComplete=s,this.isError=!1,this.isComplete=!1,this.isInitialized=!1,this.proceedIfError=a,this.process=function(){c("... func = "+e),l.isInitialized=!0,l.isComplete=!0;var i=l.funcName.split(".");i.length>3||(3===i.length?window[i[0]][i[1]][i[2]].apply(null,this.parameters):2===i.length?window[i[0]][i[1]].apply(null,this.parameters):window[l.funcName].apply(null,this.parameters)),!0===l.deleteWhenComplete&&delete t[e],!0===l.isBlock&&(c("----- F'D: "+l.name),d())}},file:function(e,i,t,n,r,o,s){var a=this;this.name=e,this.path=i,this.async=r,this.defer=o,this.isBlock=t,this.blockedBy=n,this.isInitialized=!1,this.isError=!1,this.isComplete=!1,this.proceedIfError=s,this.process=function(){a.isInitialized=!0,c("... file = "+e);var t=document.createElement("script");t.src=i,!0===r?t.async=!0:!0===o&&(t.defer=!0),t.onerror=function(){c("----- ERR'D: "+a.name),a.isError=!0,!0===a.isBlock&&d()},t.onreadystatechange=t.onload=function(){var e=t.readyState;c("----- F'D: "+a.name),e&&!/loaded|complete/.test(e)||(a.isComplete=!0,!0===a.isBlock&&d())},document.getElementsByTagName("head")[0].appendChild(t)}}};function a(e){!0!==l(e)&&0!=o&&e.process()}function l(e){if(e.blockedBy instanceof Array)for(var i=0;i<e.blockedBy.length;i++){var n=e.blockedBy[i];if(!1===t.hasOwnProperty(n))return c(e.name+" blocked = "+n),!0;if(!0===e.proceedIfError&&!0===t[n].isError)return!1;if(!1===t[n].isComplete)return c(e.name+" blocked = "+n),!0}return!1}function c(e){var i=window.location.href,t=new RegExp("[?&]ezq=([^&#]*)","i").exec(i);"1"===(t?t[1]:null)&&console.debug(e)}function d(){++e>200||(c("let's go"),h(n),h(r))}function h(e){for(var i in e)if(!1!==e.hasOwnProperty(i)){var t=e[i];!0===t.isComplete||l(t)||!0===t.isInitialized||!0===t.isError?!0===t.isError?c(t.name+": error"):!0===t.isComplete?c(t.name+": complete already"):!0===t.isInitialized&&c(t.name+": initialized already"):t.process()}}return{addFile:function(e,i,o,l,c,d,h,f){var u=new s.file(e,i,o,l,c,d,h);!0===f?n[e]=u:r[e]=u,t[e]=u,a(u)},addFunc:function(e,o,l,c,d,h,f,u,p){!0===h&&(e=e+"_"+i++);var m=new s.func(e,o,l,c,d,f,u);!0===p?n[e]=m:r[e]=m,t[e]=m,a(m)},items:t,processAll:d,setallowLoad:function(e){o=e}}}();var __ezDotData=function(e,r){this.name=e,this.val=r};__ez.dot.b64={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",encode:function(e){var r,t,n,o,a,d,i,f="",c=0;for(e=Base64._utf8_encode(e);c<e.length;)o=(r=e.charCodeAt(c++))>>2,a=(3&r)<<4|(t=e.charCodeAt(c++))>>4,d=(15&t)<<2|(n=e.charCodeAt(c++))>>6,i=63&n,isNaN(t)?d=i=64:isNaN(n)&&(i=64),f=f+this._keyStr.charAt(o)+this._keyStr.charAt(a)+this._keyStr.charAt(d)+this._keyStr.charAt(i);return f},decode:function(e){var r,t,n,o,a,d,i="",f=0;for(e=e.replace(/[^A-Za-z0-9+/=]/g,"");f<e.length;)r=this._keyStr.indexOf(e.charAt(f++))<<2|(o=this._keyStr.indexOf(e.charAt(f++)))>>4,t=(15&o)<<4|(a=this._keyStr.indexOf(e.charAt(f++)))>>2,n=(3&a)<<6|(d=this._keyStr.indexOf(e.charAt(f++))),i+=String.fromCharCode(r),64!=a&&(i+=String.fromCharCode(t)),64!=d&&(i+=String.fromCharCode(n));return i=Base64._utf8_decode(i)},_utf8_encode:function(e){e=e.replace(/rn/g,"n");for(var r="",t=0;t<e.length;t++){var n=e.charCodeAt(t);n<128?r+=String.fromCharCode(n):n>127&&n<2048?(r+=String.fromCharCode(n>>6|192),r+=String.fromCharCode(63&n|128)):(r+=String.fromCharCode(n>>12|224),r+=String.fromCharCode(n>>6&63|128),r+=String.fromCharCode(63&n|128))}return r},_utf8_decode:function(e){for(var r="",t=0,n=c1=c2=0;t<e.length;)(n=e.charCodeAt(t))<128?(r+=String.fromCharCode(n),t++):n>191&&n<224?(c2=e.charCodeAt(t+1),r+=String.fromCharCode((31&n)<<6|63&c2),t+=2):(c2=e.charCodeAt(t+1),c3=e.charCodeAt(t+2),r+=String.fromCharCode((15&n)<<12|(63&c2)<<6|63&c3),t+=3);return r}},__ez.dot.dataToStr=function(e){if(void 0===e)return[];try{for(var r in e)e[r].val=e[r].val+""}catch(e){}return e},__ez.dot.getCC=function(){var e="XX";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(e=_ezaq.country),e},__ez.dot.getDID=function(){var e="0";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(e=_ezaq.domain_id.toString()),e},__ez.dot.getEpoch=function(e){return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(e=_ezaq.t_epoch),e},__ez.dot.getURL=function(e){return("undefined"!=typeof ezJsu&&1==ezJsu||"undefined"!=typeof _ez_sa&&1==_ez_sa||"undefined"!=typeof isAmp&&!0===isAmp||"undefined"!=typeof ezWp&&!0===ezWp)&&(e="//g.ezoic.net"+e),e},__ez.dot.isValid=function(e){for(var r=0;r<e.length;r++)if(e[r]instanceof __ezDotData==!1)return console.error("Invalid data. ",e[r]),!1;return!0},__ez.dot.isDefined=function(){for(var e=0;e<arguments.length;e++)if(void 0===arguments[e]||null===arguments[e])return console.error("Argument not defined. ",arguments),!1;return!0};__ez.bit=function(){function c(a,b){d(a,b),e()}function d(b,c){__ez.dot.isDefined(b)&&__ez.dot.isValid(c)&&a.push({type:"pageview",pageview_id:b,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(c)})}function e(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(a)&&a.length>0&&((new Image).src=__ez.dot.getURL(b)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&ds="+btoa(JSON.stringify(a))),a=[])}var a=[],b="/detroitchicago/greenoaks.gif";return{Add:d,AddAndFire:c,Fire:e}}();</script><script data-cfasync="false" data-pagespeed-no-defer="">__ez.pel=function(){function c(a,b){d(a,b,0,0,0,0,0),f()}function d(b,c,d,e,f,h,i){if(__ez.dot.isDefined(b,b.getSlotElementId)){var j=parseInt(b.getTargeting("ap")[0]),k=b.getSizes()[0],l=k.l.toString()+"x"+k.j.toString(),m=g(b),n=b.getSlotElementId();__ez.dot.isDefined(m,n)&&__ez.dot.isValid(c)&&a.push({type:"impression",impression_id:m,domain_id:__ez.dot.getDID(),unit:n,t_epoch:__ez.dot.getEpoch(0),revenue:d,est_revenue:e,ad_position:j,ad_size:l,bid_floor_filled:f,bid_floor_prev:h,stat_source_id:i,country_code:__ez.dot.getCC(),data:__ez.dot.dataToStr(c)})}}function e(b,c){var d=b.split("/");if(__ez.dot.isDefined(b)&&3===d.length&&__ez.dot.isValid(c)){var e=d[0],f=d[2];a.push({type:"impression",impression_id:f,domain_id:__ez.dot.getDID(),unit:e,t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(c)})}}function f(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(a)&&a.length>0&&((new Image).src=__ez.dot.getURL(b)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&sts="+btoa(JSON.stringify(a))),a=[])}function g(a){var b=0;try{var c=a.getTargetingMap();if(-1===a.getSlotElementId().indexOf("div-gpt-ad"))return b;if(void 0!==c)for(var e in c)if(-1!==e.indexOf("iid")&&void 0!==c[e][0]){b=c[e][0];break}}catch(a){}return b}var a=[],b="/porpoiseant/army.gif";return{Add:d,AddAndFire:c,AddById:e,Fire:f}}();var EzoicPixel=function(){this.pixels=[],this.pixelUrl="/ezoic/e.gif",("undefined"!=typeof ezJsu&&!0===ezJsu||"undefined"!=typeof _ez_sa&&!0===_ez_sa||void 0!==window.isAmp&&!0===isAmp||"undefined"!=typeof ezWp&&!0===ezWp)&&(this.pixelUrl="//g.ezoic.net"+this.pixelUrl),this.tEpoch=0,"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(this.tEpoch=_ezaq.t_epoch)},EzoicPixelData=function(i,e){this.name=i,this.val=e};EzoicPixel.prototype={constructor:EzoicPixel,AddAndFireImpPixel:function(i,e){this.AddImpPixel(i,e,0,0,0,0,0),this.FirePixels()},AddAndFirePVPixel:function(i,e){this.AddPVPixel(i,e),this.FirePixels()},AddImpPixel:function(i,e,t,n,o,a,r){if(this.isDefined(i,i.getSlotElementId)){var d=parseInt(i.getTargeting("ap")[0]),s=i.getSizes()[0],p=s.l.toString()+"x"+s.j.toString(),l="0",h="XX";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(l=_ezaq.domain_id.toString()),"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(h=_ezaq.country);var f=this.getSlotIID(i),c=i.getSlotElementId();this.isDefined(f,c)&&this.validateData(e)&&(e=this.convertDataToStr(e),this.pixels.push({type:"impression",impression_id:f,domain_id:l,unit:c,t_epoch:this.tEpoch,revenue:t,est_revenue:n,ad_position:d,ad_size:p,bid_floor_filled:o,bid_floor_prev:a,stat_source_id:r,country_code:h,data:e}))}},AddImpPixelById:function(i,e){var t="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(t=_ezaq.domain_id.toString());var n=i.split("/");if(this.isDefined(i)&&3===n.length&&this.validateData(e)){var o=n[0],a=n[2];e=this.convertDataToStr(e),this.pixels.push({type:"impression",impression_id:a,domain_id:t,unit:o,t_epoch:this.tEpoch,data:e})}},AddPVPixel:function(i,e){var t="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(t=_ezaq.domain_id.toString()),this.isDefined(i)&&this.validateData(e)&&(e=this.convertDataToStr(e),this.pixels.push({type:"pageview",pageview_id:i,domain_id:t,t_epoch:this.tEpoch,data:e}))},FirePixels:function(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(this.isDefined(this.pixels)&&this.pixels.length>0&&((new Image).src=this.pixelUrl+"?orig="+(!0===__ez.template.isOrig?1:0)+"&pixels="+encodeURIComponent(JSON.stringify(this.pixels))),this.pixels=[])},NewData:function(i,e){return new EzoicPixelData(i,e)},convertDataToStr:function(i){if(void 0===i)return[];try{for(var e in i)i[e].val=i[e].val+""}catch(i){}return i},getSlotIID:function(i){var e=0;try{var t=i.getTargetingMap();if(-1===i.getSlotElementId().indexOf("div-gpt-ad"))return e;if(void 0!==t)for(var n in t)if(-1!==n.indexOf("iid")&&void 0!==t[n][0]){e=t[n][0];break}}catch(i){}return e},isDefined:function(){for(var i=0;i<arguments.length;i++)if(void 0===arguments[i]||null===arguments[i])return console.error("Argument not defined. ",arguments),!1;return!0},validateData:function(i){for(var e=0;e<i.length;e++)if(i[e]instanceof EzoicPixelData==!1)return console.error("Invalid pixelData. ",i[e]),!1;return!0}};</script>
+        <base href="/">
         
-        if (params.length > 0 ) {
-            
-            for (i = 0; i <= params.length - 1; i++) {
-        
-                value = params[i].toString();
-                if (pattern1.test(value) || pattern2.test(value)) { 
-                    matched = true;
-                    params.splice(i, 1);
-                    
-                    if (pattern1.test(value)) {
-                        email = value.substring(value.indexOf('=') + 1);
-                        if (email && email !== '') {
-                            params.push('u=' + window.encodeURIComponent(window.btoa(email)));
-                        }
-                    } //if
+        <meta property="og:site_name" content="Steve Harvey">
+        <meta property="og:url" content="https://steveharvey.com">
+        <meta property="og:title" content="Steve Harvey">
+        <meta property="og:description" content="Steve Harvey is your destination for America’s favorite entertainer Steve Harvey, from his best selling books and top rated radio and TV shows to to his inspirational conferences and his global entertainment imprint. Be inspired by the people, places and stories told here. Laugh more, learn more, love more and live more.">
+        <meta property="og:image" content="https://harveydigital.imgix.netpublic/img/global/cmx.jpg">
+        <meta property="og:type" content="website">
+        <meta name="twitter:site" content="">
+        <meta name="twitter:creator" content="">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:url" content="https://steveharvey.com">
+        <meta name="twitter:title" content="Steve Harvey">
+        <meta name="twitter:description" content="Steve Harvey is your destination for America’s favorite entertainer Steve Harvey, from his best selling books and top rated radio and TV shows to to his inspirational conferences and his global entertainment imprint. Be inspired by the people, places and stories told here. Laugh more, learn more, love more and live more.">
+        <meta name="twitter:image" content="https://harveydigital.imgix.netpublic/img/global/cmx.jpg">
+        <meta name="description" content="Steve Harvey is your destination for America’s favorite entertainer Steve Harvey, from his best selling books and top rated radio and TV shows to to his inspirational conferences and his global entertainment imprint. Be inspired by the people, places and stories told here. Laugh more, learn more, love more and live more.">
+        <meta name="keywords" content="">
+        <title>
+        Steve Harvey        </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-                } //if
+        <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="public/css/bootstrap.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/public/css/owl.carousel.css">
+		<link rel="stylesheet" type="text/css" media="all" href="/public/css/scroller-style.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/public/css/jquery.mCustomScrollbar.css">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" media="all" href="/public/css/styles.css">
 
-            } //for
-
-            if (params.length > 0) {
-                search = '?' + params.join('&').trim()
-            } else {
-                search = '';
-            }
-
-        }
-        
-        if (pattern1.test(search) || pattern2.test(search)) {
-            matched = true;
-            search = '';
-        }//if
-
-    } //if
-    
-    if (matched) {
-        window.location.replace(path + hash + search);
-    } //if
-
-})();
-
-</script>
-    <script type="text/javascript">
-        var googletag = googletag || {};
-        googletag.cmd = googletag.cmd || [];
-        (function() {
-            var gads = document.createElement('script');
-            gads.async = true;
-            gads.type = 'text/javascript';
-            var useSSL = 'https:' == document.location.protocol;
-            gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-            var node = document.getElementsByTagName('script')[0];
-            node.parentNode.insertBefore(gads, node);
-    })();
-</script>
-<script type="text/javascript">
-    window.gptAdSlots = [];
-    googletag.cmd.push(function() {
-
-                                        var mapping1 = googletag.sizeMapping().addSize([1190, 0], [3, 3]).addSize([0, 0], []).build();
-       
-        var adSlot1 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[3,3]], 'dfp-ad-2003').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['2003']).
-                setTargeting('pos', ['2003']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot1.setTargeting('contenttype', ['articles']);
-                adSlot1.setTargeting('contentcategory', ['477363']);
-                adSlot1.setTargeting('contentdetail', ['11584630']);
-                adSlot1.setTargeting('artistid', ['']);
-                adSlot1.setTargeting('campaign', ['photos']);
-                adSlot1.defineSizeMapping(mapping1).addService(googletag.pubads());
-        window.gptAdSlots['2003'] = adSlot1;
-                                        var mapping2 = googletag.sizeMapping().addSize([992, 0], [[300, 250], [300, 600], [300, 1050]]).addSize([0, 0], []).build();
-       
-        var adSlot2 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[300,250],[300,600],[300,1050]], 'dfp-ad-3307').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['3307']).
-                setTargeting('pos', ['3307']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot2.setTargeting('contenttype', ['articles']);
-                adSlot2.setTargeting('contentcategory', ['477363']);
-                adSlot2.setTargeting('contentdetail', ['11584630']);
-                adSlot2.setTargeting('artistid', ['']);
-                adSlot2.setTargeting('campaign', ['photos']);
-                adSlot2.defineSizeMapping(mapping2).addService(googletag.pubads());
-        window.gptAdSlots['3307'] = adSlot2;
-                                        var mapping3 = googletag.sizeMapping().addSize([700, 0], [[300, 250], [300, 600], [300, 1050]]).addSize([0, 0], [300, 250]).build();
-       
-        var adSlot3 = googletag.defineSlot('/6663/ccr.premiere.n/shms-pr',[[300,250],[300,600],[300,1050]], 'dfp-ad-3308').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['3308']).
-                setTargeting('pos', ['3308']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot3.setTargeting('contenttype', ['articles']);
-                adSlot3.setTargeting('contentcategory', ['477363']);
-                adSlot3.setTargeting('contentdetail', ['11584630']);
-                adSlot3.setTargeting('artistid', ['']);
-                adSlot3.setTargeting('campaign', ['photos']);
-                adSlot3.defineSizeMapping(mapping3).addService(googletag.pubads());
-        window.gptAdSlots['3308'] = adSlot3;
-                                        var mapping4 = googletag.sizeMapping().addSize([700, 0], [[300, 250], [300, 600], [300, 1050]]).addSize([0, 0], [300, 250]).build();
-       
-        var adSlot4 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[300,250],[300,600],[300,1050]], 'dfp-ad-3309').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['3309']).
-                setTargeting('pos', ['3309']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot4.setTargeting('contenttype', ['articles']);
-                adSlot4.setTargeting('contentcategory', ['477363']);
-                adSlot4.setTargeting('contentdetail', ['11584630']);
-                adSlot4.setTargeting('artistid', ['']);
-                adSlot4.setTargeting('campaign', ['photos']);
-                adSlot4.defineSizeMapping(mapping4).addService(googletag.pubads());
-        window.gptAdSlots['3309'] = adSlot4;
-                                        var mapping5 = googletag.sizeMapping().addSize([0, 0], []).addSize([320, 0], [300, 250]).addSize([480, 0], []).addSize([760, 0], []).addSize([992, 0], []).build();
-       
-        var adSlot5 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[300,250]], 'dfp-ad-3317').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['3317']).
-                setTargeting('pos', ['3317']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot5.setTargeting('contenttype', ['articles']);
-                adSlot5.setTargeting('contentcategory', ['477363']);
-                adSlot5.setTargeting('contentdetail', ['11584630']);
-                adSlot5.setTargeting('artistid', ['']);
-                adSlot5.setTargeting('campaign', ['photos']);
-                adSlot5.defineSizeMapping(mapping5).addService(googletag.pubads());
-        window.gptAdSlots['3317'] = adSlot5;
-                                        var mapping6 = googletag.sizeMapping().addSize([0, 0], []).addSize([320, 0], [300, 250]).addSize([480, 0], []).addSize([760, 0], [300, 250]).addSize([992, 0], []).build();
-       
-        var adSlot6 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[300,250]], 'dfp-ad-3327').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['3327']).
-                setTargeting('pos', ['3327']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot6.setTargeting('contenttype', ['articles']);
-                adSlot6.setTargeting('contentcategory', ['477363']);
-                adSlot6.setTargeting('contentdetail', ['11584630']);
-                adSlot6.setTargeting('artistid', ['']);
-                adSlot6.setTargeting('campaign', ['photos']);
-                adSlot6.defineSizeMapping(mapping6).addService(googletag.pubads());
-        window.gptAdSlots['3327'] = adSlot6;
-                                        var mapping7 = googletag.sizeMapping().addSize([0, 0], []).addSize([320, 0], []).addSize([480, 0], []).addSize([760, 0], [300, 250]).addSize([992, 0], []).build();
-       
-        var adSlot7 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[300,250]], 'dfp-ad-3337').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['3337']).
-                setTargeting('pos', ['3337']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot7.setTargeting('contenttype', ['articles']);
-                adSlot7.setTargeting('contentcategory', ['477363']);
-                adSlot7.setTargeting('contentdetail', ['11584630']);
-                adSlot7.setTargeting('artistid', ['']);
-                adSlot7.setTargeting('campaign', ['photos']);
-                adSlot7.defineSizeMapping(mapping7).addService(googletag.pubads());
-        window.gptAdSlots['3337'] = adSlot7;
-                                        var mapping8 = googletag.sizeMapping().addSize([700, 0], [[728, 90], [1, 1]]).addSize([0, 0], [[320, 50], [1, 1]]).build();
-       
-        var adSlot8 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[728,90],[1,1]], 'dfp-ad-3330').
-                setTargeting('ccrlocalcontent', ['15']).
-                setTargeting('ccrpos', ['3330']).
-                setTargeting('pos', ['3330']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot8.setTargeting('contenttype', ['articles']);
-                adSlot8.setTargeting('contentcategory', ['477363']);
-                adSlot8.setTargeting('contentdetail', ['11584630']);
-                adSlot8.setTargeting('artistid', ['']);
-                adSlot8.setTargeting('campaign', ['photos']);
-                adSlot8.defineSizeMapping(mapping8).addService(googletag.pubads());
-        window.gptAdSlots['3330'] = adSlot8;
-                                        var mapping9 = googletag.sizeMapping().addSize([700, 0], [728, 90]).addSize([0, 0], [320, 50]).build();
-       
-        var adSlot9 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[728,90]], 'dfp-ad-3331').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['3331']).
-                setTargeting('pos', ['3331']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot9.setTargeting('contenttype', ['articles']);
-                adSlot9.setTargeting('contentcategory', ['477363']);
-                adSlot9.setTargeting('contentdetail', ['11584630']);
-                adSlot9.setTargeting('artistid', ['']);
-                adSlot9.setTargeting('campaign', ['photos']);
-                adSlot9.defineSizeMapping(mapping9).addService(googletag.pubads());
-        window.gptAdSlots['3331'] = adSlot9;
-                                        var mapping10 = googletag.sizeMapping().addSize([700, 0], [728, 90]).addSize([0, 0], [320, 50]).build();
-       
-        var adSlot10 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[728,90]], 'dfp-ad-3306').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['3306']).
-                setTargeting('pos', ['3306']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot10.setTargeting('contenttype', ['articles']);
-                adSlot10.setTargeting('contentcategory', ['477363']);
-                adSlot10.setTargeting('contentdetail', ['11584630']);
-                adSlot10.setTargeting('artistid', ['']);
-                adSlot10.setTargeting('campaign', ['photos']);
-                adSlot10.defineSizeMapping(mapping10).addService(googletag.pubads());
-        window.gptAdSlots['3306'] = adSlot10;
-                                        var mapping11 = googletag.sizeMapping().addSize([992, 0], [[970, 90], [970, 415], [1, 1]]).addSize([700, 0], [[728, 90], [1, 1]]).addSize([0, 0], [[320, 50], [1, 1]]).build();
-       
-        var adSlot11 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[970,415],[970,90],[1,1]], 'dfp-ad-7004').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['7004']).
-                setTargeting('pos', ['7004']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot11.setTargeting('contenttype', ['articles']);
-                adSlot11.setTargeting('contentcategory', ['477363']);
-                adSlot11.setTargeting('contentdetail', ['11584630']);
-                adSlot11.setTargeting('artistid', ['']);
-                adSlot11.setTargeting('campaign', ['photos']);
-                adSlot11.defineSizeMapping(mapping11).addService(googletag.pubads());
-        window.gptAdSlots['7004'] = adSlot11;
-                                        var mapping12 = googletag.sizeMapping().addSize([0, 0], [10, 10]).build();
-       
-        var adSlot12 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[10,10]], 'dfp-ad-5050').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['5050']).
-                setTargeting('pos', ['5050']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot12.setTargeting('contenttype', ['articles']);
-                adSlot12.setTargeting('contentcategory', ['477363']);
-                adSlot12.setTargeting('contentdetail', ['11584630']);
-                adSlot12.setTargeting('artistid', ['']);
-                adSlot12.setTargeting('campaign', ['photos']);
-                adSlot12.defineSizeMapping(mapping12).addService(googletag.pubads());
-        window.gptAdSlots['5050'] = adSlot12;
-                                        var mapping13 = googletag.sizeMapping().addSize([320, 0], []).addSize([700, 0], [300, 250]).addSize([0, 0], []).build();
-       
-        var adSlot13 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[300,250]], 'dfp-ad-7010').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['7010']).
-                setTargeting('pos', ['7010']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot13.setTargeting('contenttype', ['articles']);
-                adSlot13.setTargeting('contentcategory', ['477363']);
-                adSlot13.setTargeting('contentdetail', ['11584630']);
-                adSlot13.setTargeting('artistid', ['']);
-                adSlot13.setTargeting('campaign', ['photos']);
-                adSlot13.defineSizeMapping(mapping13).addService(googletag.pubads());
-        window.gptAdSlots['7010'] = adSlot13;
-                                        var mapping14 = googletag.sizeMapping().addSize([0, 0], []).addSize([320, 0], [300, 250]).addSize([480, 0], [480, 480]).addSize([800, 0], [600, 600]).addSize([1024, 0], [768, 768]).build();
-       
-        var adSlot14 = googletag.defineSlot('/6663/ccr.premiere.n/shms-pr',[[1,1]], 'dfp-ad-5014').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['5014']).
-                setTargeting('pos', ['5014']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot14.setTargeting('contenttype', ['articles']);
-                adSlot14.setTargeting('contentcategory', ['477363']);
-                adSlot14.setTargeting('contentdetail', ['11584630']);
-                adSlot14.setTargeting('artistid', ['']);
-                adSlot14.setTargeting('campaign', ['photos']);
-                adSlot14.defineSizeMapping(mapping14).addService(googletag.pubads());
-        window.gptAdSlots['5014'] = adSlot14;
-                                        var mapping15 = googletag.sizeMapping().addSize([0, 0], []).addSize([992, 0], [300, 100]).build();
-       
-        var adSlot15 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[300,100]], 'dfp-ad-3340').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['3340']).
-                setTargeting('pos', ['3340']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot15.setTargeting('contenttype', ['articles']);
-                adSlot15.setTargeting('contentcategory', ['477363']);
-                adSlot15.setTargeting('contentdetail', ['11584630']);
-                adSlot15.setTargeting('artistid', ['']);
-                adSlot15.setTargeting('campaign', ['photos']);
-                adSlot15.defineSizeMapping(mapping15).addService(googletag.pubads());
-        window.gptAdSlots['3340'] = adSlot15;
-                                        var mapping16 = googletag.sizeMapping().addSize([0, 0], []).addSize([320, 0], [300, 100]).addSize([760, 0], [300, 100]).addSize([992, 0], []).build();
-       
-        var adSlot16 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[300,100]], 'dfp-ad-3341').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['3341']).
-                setTargeting('pos', ['3341']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot16.setTargeting('contenttype', ['articles']);
-                adSlot16.setTargeting('contentcategory', ['477363']);
-                adSlot16.setTargeting('contentdetail', ['11584630']);
-                adSlot16.setTargeting('artistid', ['']);
-                adSlot16.setTargeting('campaign', ['photos']);
-                adSlot16.defineSizeMapping(mapping16).addService(googletag.pubads());
-        window.gptAdSlots['3341'] = adSlot16;
-                                        var mapping17 = googletag.sizeMapping().addSize([992, 0], [984, 27]).addSize([0, 0], []).build();
-       
-        var adSlot17 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[984,27]], 'dfp-ad-3335').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['3335']).
-                setTargeting('pos', ['3335']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot17.setTargeting('contenttype', ['articles']);
-                adSlot17.setTargeting('contentcategory', ['477363']);
-                adSlot17.setTargeting('contentdetail', ['11584630']);
-                adSlot17.setTargeting('artistid', ['']);
-                adSlot17.setTargeting('campaign', ['photos']);
-                adSlot17.defineSizeMapping(mapping17).addService(googletag.pubads());
-        window.gptAdSlots['3335'] = adSlot17;
-                                        var mapping18 = googletag.sizeMapping().addSize([992, 0], [970, 250]).addSize([0, 0], []).build();
-       
-        var adSlot18 = googletag.defineSlot('/6663/ccr.premiere/shms-pr',[[970,250]], 'dfp-ad-7006').
-                setTargeting('ccrlocalcontent', ['']).
-                setTargeting('ccrpos', ['7006']).
-                setTargeting('pos', ['7006']).
-                setTargeting('ccrmarket', ['PREMIERE']).
-                setTargeting('market', ['PREMIERE']).
-                setTargeting('ccrformat', ['URBAN']).
-                setTargeting('format', ['URBAN']);
-                   
-
-                        adSlot18.setTargeting('contenttype', ['articles']);
-                adSlot18.setTargeting('contentcategory', ['477363']);
-                adSlot18.setTargeting('contentdetail', ['11584630']);
-                adSlot18.setTargeting('artistid', ['']);
-                adSlot18.setTargeting('campaign', ['photos']);
-                adSlot18.defineSizeMapping(mapping18).addService(googletag.pubads());
-        window.gptAdSlots['7006'] = adSlot18;
-        
-        googletag.pubads().setTargeting('ccrcontent1', 'articles');
-        googletag.pubads().setTargeting('ccrcontent2', 'articles:legal-477363:privacy-and-cookie-notice-11584630');
-        googletag.pubads().setTargeting('hn', window.location.hostname);
-        googletag.pubads().setTargeting('env', 'prod');
-        googletag.pubads().setTargeting('vers', 'FLINT-RESPONSIVE');
-        googletag.pubads().disableInitialLoad();
-
-        googletag.enableServices();
-    });
-
-/*
-    var resizeTimeout,
-        refreshOnResize = function () {
-            googletag.cmd.push(function() {
-                googletag.pubads().refresh();
-            });   
-        },
-        resizeThrottler = function () {
-            if ( !resizeTimeout ) {
-                resizeTimeout = setTimeout(function() {
-                    resizeTimeout = null;
-                    refreshOnResize();
-
-                }, 500);
-            }
-        };
-
-    window.addEventListener('resize', resizeThrottler, false);
-*/
-</script>    
-    
-<script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-
-    ga('create', 'UA-34624775-1', 'auto');
-    ga('send', 'pageview');
-
-
-    ga('create', 'UA-68625519-33', 'auto', {name: 'secondaryTracker'});
-    ga('secondaryTracker.send', 'pageview');
-
-
-    ga('create', 'UA-45084235-8', 'auto', {name: 'ihrTracker'});
-    ga('ihrTracker.send', 'pageview');
-
-
-</script>
-
-
-<link rel="stylesheet" href="//flint-img.iheart.com/responsive/dist/css/premiere.min.css">
-
-
-</head>
-<body class="page-subtype-detail page-type-article">
-
-
-    
-
-    <script>
-        window.fbAsyncInit = function() {
-            FB.init({
-                appId      : '481832138598212',
-                xfbml      : true,
-                version    : 'v2.5'
-            });
-        };
-        (function(d, s, id){
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) {return;}
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/en_US/sdk.js";
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-    </script>
-
-<div class="above-header">
-        <div class="container">
-    <div class="row">
-                
-            
-<div class="component-ad-unit ad-unit-728x90 " id="dfp-ad-3330" data-position="3330">
-    <script type="text/javascript">
-        if(window.googletag){
-            googletag.cmd.push(function() { 
-                googletag.display('dfp-ad-3330'); 
-                                window.gptAdSlots['3330'].setCollapseEmptyDiv(true);
-                googletag.pubads().refresh([window.gptAdSlots['3330']]);
-                            });
-        }//if
-    </script>
-</div>
-    </div>
-</div></div>
-
-<div class="navTopadContainer full">
-<div class="component-station-header full navbar navbar-default navbar-static-top station-custom-navigation">
-    <div class="container-fluid">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-top" aria-expanded="false">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar station-custom-icon-bar"></span>
-                <span class="icon-bar station-custom-icon-bar"></span>
-                <span class="icon-bar station-custom-icon-bar"></span>
-            </button>
-            <div class="navbar-brand vertical-align">
-                <div class="station-logo">
-                    <a href="/" title="The Steve Harvey Morning Show - " data-linktrack="true" data-linktrack-location="header" data-linktrack-position="station_logo">
-                        <img src="http://i.iheart.com/v3/url/aHR0cDovL2NvbnRlbnQuY2xlYXJjaGFubmVsLmNvbS9jYy1jb21tb24vbWxpYi8xNTYwNi8yMDE2LzExL2RlZmF1bHQvc2htc19sb2dvXzBfMTQ3OTc0NjU0Mi5wbmc=?ops=gravity(&quot;center&quot;),maxcontain(96,60),quality(90)" alt="The Steve Harvey Morning Show - ">
-                    </a>
-                </div>
-                                <div class="component-listen-live station-navigation-ihr">
-    <a href="https://www.iheart.com/show/51-The-Steve-Harvey-Morning/?autoplay=true&amp;pname=15606&amp;campid=header&amp;cid=%2Farticles%2Flegal-477363%2Fprivacy-and-cookie-notice-11584630%2F" target="_blank" title="Listen Live" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="listen_live">
-       <i class="icon ihr-icon-play"></i>
-       <span class="listen-text">Listen</span>
-    </a>
-</div>                		
-            </div>
-                                                </div>
-        <div class="navbar-nav-container">
-                        <div class="station-positioner">
-                <span> </span>
-            </div>
-            <div class="collapse navbar-collapse overflow-nav overflow-nav-collapse" id="navbar-top">
-
-                                                    <ul class="nav navbar-nav">
-                                                                                                                                                            <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" target="_self" data-url="https://www.iheart.com/show/51-The-Steve-Harvey-Morning/" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="1">PODCAST <i class="caret icon ihr-icon-close-player"></i></a>
-                <ul class="dropdown-menu">
-                                    <li>
-                        <a href="https://www.iheart.com/show/51-The-Steve-Harvey-Morning/" target="_self" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="1" data-linktrack-index="1">Full Show</a>
-                    </li>
-                                    <li>
-                        <a href="https://www.iheart.com/show/51-Best-of-Steve-Harvey-Mornin/" target="_self" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="1" data-linktrack-index="2">Best Of</a>
-                    </li>
-                                    <li>
-                        <a href="https://www.iheart.com/show/Strawberry-Letter/" target="_self" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="1" data-linktrack-index="3">Strawberry Letter</a>
-                    </li>
-                                    <li>
-                        <a href="https://www.iheart.com/show/51-Run-That-Prank/" target="_self" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="1" data-linktrack-index="4">Run That Prank</a>
-                    </li>
-                                </ul>
-                        </li>
-                                                                                                                <li class="dropdown">
-                            <a href="http://www.steveharvey.com/articles/steve-harvey-nation-500304/steve-harvey-nation-15157387/" target="_self" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="2">NEWSLETTER</a>
-                        </li>
-                                                                                                                <li class="dropdown">
-                            <a href="http://www.steveharvey.com/howtolisten" target="_self" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="3">STATIONS</a>
-                        </li>
-                                                                                                                <li class="dropdown">
-                            <a href="http://nation.steveharvey.com" target="_blank" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="4">CONTESTS</a>
-                        </li>
-                                                                                                                <li class="dropdown">
-                            <a href="http://www.steveharvey.com/onair/steve-harvey-morning-show-55813/" target="_self" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="5">BLOG</a>
-                        </li>
-                <li class="dropdown overflow-nav-menu">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></a>
-        <ul class="dropdown-menu overflow-nav-menu-items"></ul>
-    </li>
-</ul>                                <div class="header-connect navbar-right user-pro">
-                    <div class="dropdown header-account logged-out">
-                        <a href="#" class="dropdown-toggle icon login-icon" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="user"><svg width="19px" height="22px" viewBox="0 0 19 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>User Account Icon</title>
-    <desc>Created with sketchtool.</desc>
-    <defs></defs>
-    <g id="Search-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
-        <g class="station-custom-stroke" id="Search---Search-Bar-on-Hover" transform="translate(-1189.000000, -29.000000)">
-            <g id="icon_user-login" transform="translate(1190.000000, 30.000000)">
-                <g>
-                    <path d="M14.1666667,5.71428571 C14.1666667,8.87060001 11.6300117,11.4285714 8.5,11.4285714 C5.36998832,11.4285714 2.83333333,8.87060001 2.83333333,5.71428571 C2.83333333,2.55797142 5.36998832,0 8.5,0 C11.6300117,0 14.1666667,2.55797142 14.1666667,5.71428571 Z" id="Stroke-1" stroke-width="2"></path>
-                    <path d="M17,20 C17,15.266247 13.1943051,11.4285714 8.5,11.4285714 C3.80569492,11.4285714 0,15.266247 0,20" id="Stroke-3" stroke-width="2"></path>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
-</a>
-                        <ul class="dropdown-menu">
-                            <li><a href="#" class="ihr-login-trigger" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="user" data-linktrack-index="login">Log In</a></li>
-                            <li><a href="#" class="ihr-signup-trigger sign-up" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="user" data-linktrack-index="signup">Sign Up</a></li>                        
-                        </ul>
-                    </div>                        
-                    <div class="dropdown header-account logged-in hide">
-                        <a href="#" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="user" class="dropdown-toggle icon" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                            <span class="btn-circle profile-pic"></span>
-                            <span class="username-display"></span>
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li><a href="http://www.iheart.com/my/settings/" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="user" data-linktrack-index="settings">Settings</a></li>
-                            <li><a href="#" class="ihr-logout-trigger sign-up" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="user" data-linktrack-index="logout">Log Out</a></li>
-                        </ul>
-                    </div> 
-                    <div class="dropdown header-contact">
-                            <a href="#" class="dropdown-toggle icon contact-icon" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><svg width="23px" height="21px" viewBox="0 0 23 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Contact Icon</title>
-    <desc>Created with sketchtool.</desc>
-    <defs>
-        <path d="M5.28,4.4 L3.00684834,4.4 C1.33599155,4.4 2.77111667e-13,5.74635517 2.77111667e-13,7.40716844 L2.77111667e-13,17.8928316 C2.77111667e-13,19.5497357 1.34621185,20.9 3.00684834,20.9 L19.9931517,20.9 C21.6640085,20.9 23,19.5536448 23,17.8928316 L23,7.40716844 C23,5.75026425 21.6537881,4.4 19.9931517,4.4 L12.32,4.4 L8.8,-1.0658141e-14 L5.28,4.4 Z" id="path-1"></path>
-        <mask fill="#ffffff" id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="23" height="20.9">
-            <use xlink:href="#path-1"></use>
-        </mask>
-    </defs>
-    <g id="Search-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="User-Logged-In---Dropdown-on-Hover" transform="translate(-1227.000000, -30.000000)">
-            <g id="icon_contact" transform="translate(1227.000000, 30.000000)">
-                <g>
-                    <g class="station-custom-stroke" id="Group-8" stroke="#ffffff" stroke-width="4">
-                        <use id="Combined-Shape" mask="url(#mask-2)" transform="translate(11.500000, 10.450000) rotate(-180.000000) translate(-11.500000, -10.450000) " xlink:href="#path-1"></use>
-                    </g>
-                    <circle class="station-custom-fill" id="Oval" cx="6.5" cy="8.5" r="1.5"></circle>
-                    <circle class="station-custom-fill" id="Oval" cx="11.5" cy="8.5" r="1.5"></circle>
-                    <circle class="station-custom-fill" id="Oval" cx="16.5" cy="8.5" r="1.5"></circle>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
-</a>
-                            <ul class="dropdown-menu contact-user">
-                                <li><a href="/contact/">Contact</a></li>
-
-                                
-                                <li><a href="http://www.premierenetworks.com/Default.aspx#s3">Advertise With Us</a></li>
-
-                                                            </ul>
-                    </div>
-                </div>
-                                                        <form id="site-search-form" class="navbar-form navbar-right" name="search-form" role="search" action="/search/" method="get" data-linktrack="true" data-linktrack-location="header" data-linktrack-position="search">
-    <div class="form-group">
-         <input type="text" name="keyword" id="search-input-field" class="" placeholder="Search" value="" maxlength="250">
-   
-    </div>
-    <button class="search-button search-submit" type="submit">
-        <svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Search Icon</title>
-    <desc>Created with sketchtool.</desc>
-    <defs></defs>
-    <g id="Search-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="User-Logged-In---Dropdown-on-Hover" transform="translate(-1063.000000, -29.000000)">
-            <g id="icon_search" transform="translate(1064.000000, 30.000000)">
-                <g id="Search-Icon">
-                    <g>
-                        <path class="station-custom-fill" d="M10.7919093,12.446359 L17.4872381,19.6567131 C17.9124535,20.1146374 18.6017959,20.1146374 19.0262857,19.6567131 C19.4515011,19.1987888 19.4515011,18.45642 19.0262857,17.9992772 L12.3309569,10.7889231 C11.9064671,10.3309988 11.2171247,10.3309988 10.7919093,10.7889231 C10.3666939,11.2460659 10.3666939,11.9884347 10.7919093,12.446359" id="Fill-4"></path>
-                        <path class="station-custom-stroke" d="M12.6984127,6.34920635 C12.6984127,9.85622223 9.85622223,12.6984127 6.34920635,12.6984127 C2.84219046,12.6984127 0,9.85622223 0,6.34920635 C0,2.84219046 2.84219046,0 6.34920635,0 C9.85622223,0 12.6984127,2.84219046 12.6984127,6.34920635 Z" id="Stroke-1" stroke-width="2" stroke-linecap="round"></path>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
-
-    </button>
-    
-</form>                
-		<div class="component-find-station">
-    <div class="container">
-        <div class="row">
-            <p>Locate your nearest station airing The Steve Harvey Morning Show!</p>
-            <a class="station-custom-button" href="/howtolisten">Find Your Station</a>
-        </div>
-    </div>
-</div>            </div>
-
-        </div>
-    </div>
-</div></div>
-
-
-<div class="component-local-alert">
-    </div>
-
-<div class="component-find-station">
-    <div class="container">
-        <div class="row">
-            <p>Locate your nearest station airing The Steve Harvey Morning Show!</p>
-            <a class="station-custom-button" href="/howtolisten">Find Your Station</a>
-        </div>
-    </div>
-</div><div class="page-content container">
-        <header class="component-content-header row">
-            <h1 class="headline">Privacy and Cookie Notice</h1>
-        </header>
-        <div class="component-content-two-column row">
-            <main class="left-column-container">
-                <header class="byline-container row">
-                                        
-<figure class="component-byline media">
-        <figcaption class="media-body">
-        <h4 class="media-heading">
-                        
-                    </h4>
-    </figcaption>
-</figure>                    <div class="component-content-social-buttons">
-    <ul class="list-inline pull-right">
-                                        <li class="share">
-                <a href="#" class="share-button addthis_button_compact" addthis:url="http://www.steveharvey.com/articles/legal-477363/privacy-and-cookie-notice-11584630/">
-                    <i class="ihr-icon-share" aria-hidden="true"></i>
-                    <span class="button-text">share</span>
-                </a>
-                <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=iheartradio"></script>
-            </li>
-                </ul>
-</div>                </header>
-                <article class="row">
-                        <div class="article-body">
-                            
-                            
-<p class="language" style="text-align: right;"><a href="http://www.iheart.com/news/poltica-de-privacidad-y-cookies-11584650/">Versión en Español</a></p>
-<p>UPDATED AS OF: November 10, 2016</p>
-<p>iHeartMedia, Inc. ("iHeartMedia", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter and Facebook pages, and Mobile Application ("Platforms").</p>
-<h3>QUICK GUIDE TO CONTENTS</h3>
-<ol style="list-style-type: undefined;"><li>INFORMATION COLLECTED ON OUR PLATFORMS</li>
-<li>HOW WE USE THE INFORMATION WE COLLECT</li>
-<li>SHARING OF INFORMATION</li>
-<li>INFORMATION WE RECEIVE FROM THIRD PARTIES</li>
-<li>YOUR PRIVACY RIGHTS, CHOICE AND ACCESS</li>
-<li>ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT-OUT</li>
-<li>CHILDREN</li>
-<li>SECURITY OF YOUR INFORMATION</li>
-<li>OTHER SITES</li>
-<li>CONSENT TO PROCESSING AND TRANSFER OF INFORMATION</li>
-<li>CHANGES</li>
-<li>CONTACT US</li>
-</ol><h3>1. INFORMATION COLLECTED ON OUR PLATFORMS</h3>
-<p><strong>Information You Provide To Us</strong></p>
-<p>We or our service providers may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age and gender), location information, or payment information (such as account or credit card number). The types of Personal Information collected may vary depending on your use of the features of the Platforms. For example, your credit card number and other payment related information may be collected in connection with your purchase of products and/or services through the Platforms. We post customer testimonials/video testimonials on our Platforms which may contain personally identifiable information. If we want to post a customer's name along with their testimonial, we obtain the customer's consent via email prior to posting the testimonial.</p>
-<p><strong>Information Collected Automatically</strong></p>
-<p>Usage Information. Whenever you visit or interact with the Platforms, we, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Platforms are accessed and used ("Usage Information"). Usage Information may include Device Identifiers (as defined below), browser type, device type, operating system, application version, the page served, the time, the preceding page views, and your use of features or applications on the Platforms, such as song history, interaction with friends and group activities. This information helps us keep our Platforms fresh and interesting to our visitors and allows us to tailor content to a visitor's interests.</p>
-<p><strong>Device Identifier.</strong> We or our service providers automatically collect your IP address or other unique identifier ("Device Identifier") for the Device (computer, mobile phone, tablet or other device) you use to access the Platforms. A Device Identifier is a number such as a mobile advertising identifier (Android AAID or Apple IDFA) that is assigned to your Device when you access a website or its servers, and our computers identify your Device by its Device Identifier. We may use a Device Identifier to, among other things, administer the Platforms, help diagnose problems with our servers, analyze trends, provide attribution metrics to our advertisers and partners, track users' web page movements, help identify you and your shopping cart, and gather broad demographic information for aggregate use.</p>
-<p><strong>Location Information.&nbsp;</strong> We may collect or infer information about the general location of your Device when you access or use the Platform; or if you choose to turn on your Bluetooth, Wi-Fi or other geolocation functionality when you use the App, subject to your consent, the App may collect, infer, and use more precise geolocation information. We may use and share your location with certain third-parties for analytics, attribution and advertising purposes (currently advertising use is restricted to&nbsp; iHeartMedia properties only).</p>
-<p><strong>Cookies; Pixel Tags.</strong> The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites. We, or our vendors and third party partners, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms (such as to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location, or demographic information), as well as for market research related purposes. A pixel tag may tell your browser to get content from another server.</p>
-<p>To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser's cookie folder, please refer to your browser's help menu or other instructions related to your browser. You can also learn more about cookies by visiting&nbsp;<a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a> which includes additional useful information on cookies and how to block cookies using different types of browsers. To learn how to change your Device Identifier, please refer to your device’s help menu or other instructions. If you do disable or opt out of receiving cookies or change your Device Identifier, we will honor your request, however please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your iHeartMedia account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.</p>
-<p>For more information on advertising using cookies and how to opt out of advertising cookies specifically, please see Advertising; How To Opt-Out below</p>
-<h3>2. HOW WE USE THE INFORMATION WE COLLECT</h3>
-<p>We use the information we collect about and from you for a variety of business purposes such as to respond to your questions and requests; provide you with access to certain areas and features of the Platforms such as your favorite stations, your musical preferences, songs you have listened to, shared playlists and your interaction with other users; verify your identity; communicate with you about your account and activities on the Platforms and, in our discretion, changes to any iHeartMedia policy; market research, Platform analytics and operations; curate content, advertisements, and offers that are served to you; improve the Platforms; comply with license obligations; and for purposes disclosed at the time you provide your Personal Information or otherwise with your consent. We may collect location based information about you to provide you with radio stations in your area and to customize advertisements and offers we serve to you.</p>
-<h3>3. SHARING OF INFORMATION</h3>
-<p>We may share non-Personal Information, such as aggregate data and Usage Information such as Device Identifiers and general geographic data with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Notice and in the following circumstances:</p>
-<p><strong>Third Parties.</strong> We may share your Personal Information with third parties that perform functions on our behalf (or on behalf of our partners) such as service providers that host or operate our Platforms, analyze data, process transactions and payments, fulfill orders or provide customer service; sponsors or other third parties that participate in or administer our promotions, contests, sweepstakes, surveys or provide marketing or promotional assistance and "powered by" partners or partners in co-branded sites. Your Personal Information and location data may also be used by us or shared with our subsidiaries, affiliates, sponsors, partners, advertisers, advertising networks, advertising servers, and analytics companies or other third parties in connection with marketing, promotional, and other offers, as well as product information, and for providing such third party with&nbsp; advertising, analytics and market research. These advertisers, advertising networks, advertising servers, and analytics companies use various technologies to collect data in order to send (or serve) relevant ads to users on our Platforms, or on platforms or websites operated by third parties. These technologies may include the placement of cookies or web beacons, the use of unique or non-unique non-personal identifiers, or the use of other technologies on our Platforms, which may be used to track user behavior, to track how our Platforms are being used, to link various devices you may use, build consumer profiles and possibly to serve you more relevant ads. This Privacy Policy does not cover the use of various technologies by advertisers, advertising networks, advertising servers, and analytics companies outside of our properties.</p>
-<p><strong>Your Agreement To Have Your Personal Information Shared.</strong> While on our Platforms, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with a third party, including social networking sites such as Facebook or Twitter. If you agree to have your Personal Information shared, your Personal Information will be disclosed to the third party and the Personal Information you disclose will be subject to the privacy policy and business practices of that third party.</p>
-<p><strong>Business Transfers.</strong> We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. In the event that iHeartMedia is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that process or transaction.</p>
-<p><strong>Legal Disclosure.</strong> We may transfer and disclose your information to third parties to comply with a legal obligation; when we believe in good faith that the law or a governmental authority requires it; to verify or enforce our Terms of Use or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect our rights or property or security of third parties, visitors to our Platforms or the public.</p>
-<p><strong>Nielsen.</strong>&nbsp; Our Platforms may include Nielsen’s proprietary measurement software which may allow you to contribute to market research. To learn more about the information Nielsen’s software may collect and your choices with regard to it, please click <a href="http://www.nielsen.com/digitalprivacy" target="_blank">here</a>.</p>
-<h3>4. INFORMATION WE RECEIVE FROM THIRD PARTIES</h3>
-<p>We may receive information about you from third parties. For example, if you are on another website and you opt-in to receive information from iHeartMedia, that website will submit to us your email address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect (or the third party to share) information about you, including Usage Information, Device Identifiers, and Personal Information such as lists of your friends, "likes", comments you have shared, groups and location. Services like Facebook Connect give you the option to post information about your activities on our Platform to your profile page to share with others within your network. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their "connections" or information about you is otherwise accessible through your "connections'" web page, profile page, or similar page on a social networking or other third party website or interactive service. We may also receive information about you from third party data providers. We may supplement the information we collect about you through the Platforms with such information from third parties in order to enhance our ability to serve you, to tailor our content to you and/or to offer you opportunities to purchase products or services that we believe may be of interest to you.</p>
-<h3>5. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS</h3>
-<p>You may always direct us not to share your Personal Information with third parties (other than our service providers), not to use your Personal Information to provide you with information or offers, or not to send you newsletters, emails or other communications by: (i) modifying your registered user information on the Platforms; (ii) sending us an email at <a href="mailto:privacy@iheartradio.com">privacy@iheartradio.com</a>; (iii) contacting us by mail at iHeartMedia Digital Customer Service, 200 E. Basse Road Suite 100, San Antonio, TX 78209; or (iv) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.</p>
-<p>If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Platforms, you may edit your registered user information or contact us at the above address or email. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:privacy@iheartradio.com">privacy@iheartradio.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.</p>
-<p><strong>Location Information:&nbsp;</strong> By downloading our App or using the Platform, you consent to our collection and use of your Device location information and sharing of location information with third parties for analytics and advertising purposes (currently advertising use is exclusively within iHeartMedia properties). If you initially consent to our collection of precise location information, you can subsequently stop the collection of precise location information at any time by going to the setting feature on your Device and changing your preferences. If you do so, certain features of our App may no longer function. You also may stop our collection of location information by following the standard uninstall process to remove our App from your device.</p>
-<h3>6. ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT-OUT</h3>
-<p>We may use third party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. Such providers, as well as third-party advertisers, may place and access cookies, pixel tags, or similar technologies on your Device to serve you ads or other content personalized to your interests which they infer from your browsing on the Platforms and other sites you have visited. In doing so, the provider collects or has access to non-Personal Information such as your Usage Information. The use of cookies, pixel tags, or similar technologies by these providers is subject to their own privacy policies, not ours.</p>
-<p>If you do not want to receive the benefits of targeted advertising, you may opt out of some network advertising programs that use your information by visiting the <a href="http://www.networkadvertising.org/choices/" target="_blank">NAI Opt-Out Page</a>. Please note that even if you choose to remove your information (opt out), you will still see advertisements while you're browsing online. However, the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides a mechanism to opt out of receiving cookies from those companies. Please note that if you opt-out of targeted advertising, we may still track your visits to the Platforms for our own analytics, operations and security purposes. Your browser may offer you a "Do Not Track" option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and/or across different websites. Our Platforms do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Platforms and after you leave our Platforms.</p>
-<h3>7. CHILDREN</h3>
-<p>We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.</p>
-<h3>8. SECURITY OF YOUR INFORMATION</h3>
-<p>We Take Information Security Seriously; However, No Electronic Data Transmission Or Storage Of Information Can Be Guaranteed To Be 100% Secure. Please Note That We Cannot Ensure Or Warrant The Security Of Any Information You Transmit To Us, And You Use The Platforms And Provide Us With Your Information At Your Own Risk.</p>
-<h3>9. OTHER SITES</h3>
-<p>The Platforms may contain links to other sites that we do not own or operate. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co-branding or co-marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an email or social networking page).</p>
-<p>The Platforms may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Notice.</p>
-<h3>10. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION</h3>
-<p>The Platforms are governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. iHeartMedia makes no representation that the Platforms are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Platforms, or providing us with any information, you (a) acknowledge that the Platforms are subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws.</p>
-<h3>11. CHANGES</h3>
-<p>We may update this Privacy Notice from time to time to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Platforms prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
-<h3>12. CONTACT US</h3>
-<p>If you have any questions or concerns about this Privacy Statement, the practices of the Platforms, or your experiences with the Platforms, please contact us at:</p>
-<p>Attn: Privacy Questions<br>iHeartMedia, Inc.<br>200 E. Basse Road, Suite 100<br>San Antonio, TX 78209<br>Re: iHeartMedia Privacy Statement<br>E-Mail: <a href="mailto:privacy@iheartradio.com">privacy@iheartradio.com</a></p>
-<p>&nbsp;</p>
-<div style="border: 1px solid #000; padding: 20px;">Have a question or need help with iHeartRadio? <a href="http://help.iheart.com" target="_blank">Contact our Care Team</a></div>
-
-
-                            <!--//START - NPP Bottom -->
-                                                                                    <!--//END - NPP Bottom -->
-
-                        <!--//START E2E Widget -->
-                                                                        <!--//END E2E Widget -->
-
-                    </div>
-                </article>
-
-                <!-- PERFECT PIXEL? -->
-                
-<script type="text/javascript" src="//launch.newsinc.com/js/embed.js"></script>
-    <div class="ndn_embed" id="inform-placement-bottom" data-config-distributor-id="92655" data-config-site-section="iheart-SHMS-PR">
-    </div>
-    <div>
-        <script type="text/javascript">
-            _informq.push(['embed']);
+        <script type="text/javascript" src="https://js.spotx.tv/directsdk/v1/228116.js"></script>
+        <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+        <script>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
         </script>
-    </div>
-                <!-- PERFECT PIXEL -->
 
-                <!--//START - SOCIAL SHARING   -->
-                        <div class="addthis_custom_sharing" data-title="Privacy and Cookie Notice" data-url="http://www.steveharvey.com/articles/legal-477363/privacy-and-cookie-notice-11584630/" data-reactid="">
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=iheartradio"></script>
-    </div>
-                <!--//END - SOCIAL SHARING  -->
+        <script>
+            googletag.cmd.push(function() {
+                googletag.defineSlot('/21704552268/SteveHarvey_728x90', [728, 90], 'div-gpt-ad-1524627535467-0').addService(googletag.pubads());
+                googletag.pubads().enableSingleRequest();
+                googletag.pubads().collapseEmptyDivs();
+                googletag.enableServices();
+            });
+        </script>
 
-                <!--//START - COMMENTS SECTION   -->
-                                <!--//END - COMMENTS SECTION  -->
-            </main>
-            <aside class="right-column-container">
-    
-    <div class="component-ad-unit ad-unit-300x250 lazy-load" id="dfp-ad-3307" data-position="3307">
-    <script type="text/javascript">
-        if(window.googletag){
-            googletag.cmd.push(function() { 
-                googletag.display('dfp-ad-3307'); 
-                            });
-        }//if
-    </script>
-</div>
-
-    <div class="ls-module component-cume-widget" data-moduleid="3068753">
-     <header> <h3>#TrendingTracks</h3> </header>
-          <div class="embed-responsive embed-responsive-16by9">
-         <iframe src="" data-source="https://www.iheart.com/video/week-of-june-19th-27801869/?embed=true&amp;autoStart=false&amp;useFullScreen=true&amp;siteid=2135&amp;preview=true&amp;useAds=false" data-mediaid="27801869" frameborder="0" scrolling="no" allowtransparency="true" class="embed-responsive-item"></iframe>
-     </div>
-     <a class="more" href="/media/play/27801869/">Week of June 19th</a>
-
-     
-     <script type="text/javascript" language="javascript">
-             (function() {
-                 if (typeof cwOptions === "undefined") {
-                     window.cwOptions = {
-                         pageHasWidgets: false
-                     };
-                 }
-                 cwOptions.pageHasWidgets = true;
-         })();
-     </script>
-     
- </div>
-
-    <!--//START - List Scheduler Right Rail -->            
-        <!--//END - List Scheduler Right Rail -->
-
-                    
-                <div class="ls-module component-recent-posts">
-    
-
-<div class="OUTBRAIN" data-src="http://www.steveharvey.com/articles/legal-477363/privacy-and-cookie-notice-11584630/" data-widget-id="SB_1" data-ob-template="clearchannel"></div>
-<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
-</div>
-    
+        <script src="/public/js/vendors/le.min.js"></script>
+        <script>
+        LE.init('d815846e-89fd-4115-8a28-fb218c8add02');
+        </script>
         
-        
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PL6VVJR');</script>
+        <!-- End Google Tag Manager -->
+
+    <link rel="canonical" href="https://steveharvey.com/privacy-policy.php">
+<script data-cfasync="false" type="text/javascript">window.google_analytics_uacct = "UA-120783677-43";</script>
+<script data-cfasync="false" type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['e._setAccount', 'UA-120783677-43']);
+_gaq.push(['f._setAccount', 'UA-38339005-1']);
+_gaq.push(['e._setDomainName', 'steveharvey.com']);
+_gaq.push(['f._setDomainName', 'steveharvey.com']);
+_gaq.push(['e._setCustomVar',1,'template','old_site_gc',3]);
+_gaq.push(['e._setCustomVar',2,'t','126',3]);
+_gaq.push(['e._setCustomVar',3,'rid','0',2]);
+_gaq.push(['e._setCustomVar',4,'bra','mod6',3]);
+_gaq.push(['e._setAllowAnchor',true]);
+_gaq.push(['e._setSiteSpeedSampleRate', 10]);
+_gaq.push(['f._setCustomVar',1,'template','old_site_gc',3]);
+_gaq.push(['f._setCustomVar',2,'domain','steveharvey.com',3]);
+_gaq.push(['f._setSiteSpeedSampleRate', 20]);
+_gaq.push(['e._trackPageview']);
+_gaq.push(['f._trackPageview']);
+
+
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">var ezouid = "1";</script><script type="text/javascript">
+var ezoTemplate = 'old_site_gc';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '1';
+var ezo_elements_to_check = Array();
+</script><!-- START EZHEAD -->
+<script type="text/javascript">
+var soc_app_id = '0';
+var did = 71441;
+var ezdomain = 'steveharvey.com';
+var ezoicSearchable = 1;
+</script>
+<!--{jquery}-->
+<!-- END EZHEAD -->
+<script type="text/javascript" data-cfasync="false">var _ezaq = {"ad_cache_level":0,"city":"San Bruno","country":"US","days_since_last_visit":-1,"domain_id":71441,"engaged_time_visit":0,"ezcache_level":1,"forensiq_score":-1,"form_factor_id":1,"framework_id":1,"is_return_visitor":false,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"metro_code":807,"page_ad_positions":"","page_view_count":0,"page_view_id":"840e8a7c-1ad8-491f-6f74-b095ad759bc9","pv_event_count":0,"response_time_orig":339,"serverid":"54.153.103.132:13411","t_epoch":1529966550,"template_id":126,"time_on_site_visit":0,"url":"https://steveharvey.com/privacy-policy.php","user_id":0,"word_count":538};var _ezExtraQueries = "&ez_orig=1";</script><script data-cfasync="false" type="text/javascript" src="/detroitchicago/rochester.js?cb=176-1&amp;v=8" async=""></script><script data-pagespeed-no-defer="" data-cfasync="false">
+function create_ezolpl() {
+    var d = new Date();
+    d.setTime(d.getTime() + (365*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    __ez.ck.setByCat("ezux_lpl_71441=" + new Date().getTime() + "|840e8a7c-1ad8-491f-6f74-b095ad759bc9; " + expires, 3);
+}
+function attach_ezolpl() {
+    if(window.attachEvent) {
+        window.attachEvent('onload', create_ezolpl);
+    } else {
+        if(window.onload) {
+            var curronload = window.onload;
+            var newonload = function(evt) {
+                curronload(evt);
+                create_ezolpl();
+            };
+            window.onload = newonload;
+        } else {
+            window.onload = create_ezolpl;
+        }
+    }
+}
+attach_ezolpl();
+</script><script src="//steveharvey.com/detroitchicago/edmonton.webp?a=a&amp;cb=1&amp;shcb=29" async=""></script><script src="//steveharvey.com/porpoiseant/jellyfish.webp?a=a&amp;cb=1&amp;shcb=29" async=""></script></head>
+    <body id="privacy-policy" style="">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PL6VVJR"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     
-</aside>        </div>
-</div>
-
-
-<!-- END: PAGE CONTENT -->
-<div class="default-content-background">
-
-<div class="recommended-outter-container">
-    <div class="container-fluid recommended-container">
+            <div id="topbanner">
+            <div class="container">
+                <div class="spacer"><i class="fa fa-times" aria-hidden="true"></i></div>
+                <div class="palmtree"></div>
+                <p>Steve Harvey's Sand and Soul Festival is back.</p>
+                <a href="http://bit.ly/sandandsoul" target="_blank" class="info">get info</a>
+                <div class="palmtree flip"></div>
+                <div class="x"><i class="fa fa-times" aria-hidden="true"></i></div>
+            </div>
+        </div>
+        <header data-spy="affix" data-offset-top="60" class="banner-on transparent affix-top">
+        <div class="menu-new" id="topRightMenu">
+        	<div class="inner-div">
+            	<div class="search-box fa-search fa">
+				<form method="get" action="/search" id="searchform" name="searchform">
+					<input type="text" placeholder="Search" name="q">
+					</form>
+				</div>
+            	<ul class="navigation">
+                    <li><a href="/shows">Shows</a></li>
+                </ul>
+				<div class="col-sm-12 social-icon">
+						<a class="fb" href="https://www.facebook.com/SteveHarvey/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+						<a class="ig" href="https://www.instagram.com/iamsteveharveytv/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+						<a class="tw" href="https://twitter.com/IAmSteveHarvey" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+						<a href="#" style="display:none;"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+				</div>
+				<div class=" ">
+					<ul class="secondary-menu">
+						<li style="display:none;"><a href="#">SIGN UP</a></li>
+						<li><a href="https://steveharvey.com/books.php" class="books">BOOKS</a></li>
+						<li><a href="http://www.steveharveyfm.com/" target="_blank">RADIO</a></li>
+						<li><a href="http://harveyfoundation.com/" target="_blank">FOUNDATION</a></li>
+						<li><a href="mailto:contact@steveharveymail.com">CONTACT</a></li>
+						<li><a href="mailto:advertise@steveharveymail.com">ADVERTISE</a></li>
+                        <li><a href="https://steveharvey.com/privacy-policy.php" class="privacy-policy">PRIVACY POLICY</a></li>
+					</ul>
+				</div>
+            </div>
+        </div>
         <div class="container">
-        
+            <div class="row">
+                <div class="col-xs-4 col-sm-4 col-md-4">
+                    <div class="logo"> <a href="index.php"> <img src="/public/img/global/logo.png" width="217" height="21"> </a> </div>
+                </div>
+                <div class="col-xs-8 col-sm-8 col-md-8">
+                    <div class="burger-icon">
+                        <div class="right-menu-icon menuClick"> <a href="javascript:;" class="icon"> <span> </span> <span> </span> </a> </div>
+                        <a href="javascript:;" data-toggle="modal" data-target="#Modal_Subscribe" class="subscribebtn">SUBSCRIBE TO THE NEWSLETTER</a>
+                    </div>
+                </div>
 
-<div class="component-recommended row">
-    <div class="OUTBRAIN footer-recommended" data-src="http://www.steveharvey.com/articles/legal-477363/privacy-and-cookie-notice-11584630/" data-widget-id="AR_23" data-ob-template="clearchannel"></div>
-    <script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
-</div>
+            </div>
+        </div>
+    </header>
+<section id="privacy-policy" class="gray-section-detail">
+    <div class="head-design1">
+        <div class="container width1430 text-center">
+		      <h1>Privacy Policy</h1>
+        </div>
+    </div>
+    
+    <div class="container width1000 privacy-spacing">
+        <h2>What information do we collect?</h2>
+        <p>We collect information from you when you subscribe to our newsletter.</p>
+
+        <p>When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
+
+        </p><h2>What do we use your information for?</h2>
+        <p>
+        Any of the information we collect from you may be used in one of the following ways:<br>
+        </p><ul>
+          <li>To administer a contest, promotion, survey or other site feature</li>
+          <li>To send periodic emails</li>
+        </ul>
+        <p></p>
+
+        <p>The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.</p>
+
+        <h2>How do we protect your information?</h2>
+        <p>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p>
+
+        <h2>Do we use cookies?</h2>
+        <p>We use cookies to offer you a better browsing experience, analyze site traffic, personalize content, and serve targeted advertisements.</p> 
+
+        <h2>Do we disclose any information to outside parties?</h2>
+        <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties and network partners who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+
+        <h2>California Online Privacy Protection Act Compliance</h2>
+        <p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
+
+        <h2>Childrens Online Privacy Protection Act Compliance</h2>
+        <p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+
+        <h2>Online Privacy Policy Only</h2>
+        <p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+
+        <h2>Your Consent</h2>
+        <p>By using our site, you consent to our website's privacy policy.</p>
+
+        <h2>Changes to our Privacy Policy</h2>
+        <p>If we decide to change our privacy policy, we will post those changes on this page.</p>
+
+        <h2>Contacting Us</h2>
+        <p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
+        <!-- <p><a href="mailto:contact@steveharveymail.com">contact@steveharveymail.com</a></p> -->
+
+    </div>
+
+
+
+
+</section>
+<!--subscribe Section-->
+ <section class="subscribe-section" style="display:none;"> 
+  <div class="parallax_child" data-parallaxator-reverse="true"></div>  
+  <div class="container">
+    <div class="subscribe-bg">
+      <div class="row">
+        <div class="">
+          <h2>Subscribe</h2>
+          <div class="inner-div">
+            <h2>Get Steve Harvey’s Newsletter</h2>
+            <div class="enter-mail">
+              <input type="text" placeholder="ENTER EMAIL" class="form-control">
+              <button><i class="fa fa-angle-right" aria-hidden="true"></i></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </section> 
+
+<!--subscribe Section END-->
+<input type="hidden" class="current_page" value="0" autocomplete="off">
+<input type="hidden" class="current_id" value="" autocomplete="off">
+<input type="hidden" class="current_slug" value="" autocomplete="off">
+<input type="hidden" class="current_cid" value="" autocomplete="off">
+<input type="hidden" class="current_q" value="" autocomplete="off">
+<!-- Modal -->
+<div class="modal fade" id="Modal_Subscribe" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <h2>JOIN TEAMSTEVE</h2>
+                <div class="sub-text">Exclusives, offers and the latest <br>from STEVE.</div>
+
+                <div id="mce-responses" class="clear">
+                    <div class="response" id="mce-error-response" style="display:none"></div>
+                    <div class="response" id="mce-success-response" style="display:none"></div>
+                </div>
+
+                <div id="mc_embed_signup" class="mc-signup-form">
+
+                    <form action="https://iamsteveharvey.us12.list-manage.com/subscribe/post-json?u=eb3e7e86eee595c3697121e76&amp;id=5bbedeebaf&amp;c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+
+                        <div class="form-group">
+                            <input type="email" value="" name="EMAIL" placeholder="EMAIL ADDRESS" class="required email form-control" id="mce-EMAIL">
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" placeholder="FIRST NAME">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="interests-div">
+                            <h5>INTERESTS:</h5>
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div class="radio-btn">
+                                        <input type="checkbox" value="1" name="group[6969]‌‌‌‌‌[1]" id="mce-group[6969]-6969-0">
+                                        <label for="mce-group[6969]-6969-0">INSPIRATION</label>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="radio-btn">
+                                        <input type="checkbox" value="2" name="group[6969]‌‌‌‌‌[2]" id="mce-group[6969]-6969-1"><label for="mce-group[6969]-6969-1">LIFE &amp; STYLE</label>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="radio-btn">
+                                        <input type="checkbox" value="4" name="group[6969]‌‌‌‌‌[4]" id="mce-group[6969]-6969-2"><label for="mce-group[6969]-6969-2">ENTERTAINMENT</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                            <input type="text" name="b_eb3e7e86eee595c3697121e76_bd515a4917" tabindex="-1" value="">
+                            <input type="text" value="steveharvey.com" name="WEBSITE" class="" id="mce-WEBSITE">
+                        </div>
+                        <div class="buttom-div"><button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn">SUBMIT</button></div>
+                    </form>
+
+                </div>
+                <p class="sm-text">By signing up you agree to our <a href="https://steveharvey.com/privacy-policy.php">Privacy Policy</a></p>
+            </div>
+
+            <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {
+                window.fnames = new Array();
+                window.ftypes = new Array();
+                fnames[0] = 'EMAIL';
+                ftypes[0] = 'email';
+                fnames[1] = 'FNAME';
+                ftypes[1] = 'text';
+                fnames[2] = 'MMERGE2';
+                ftypes[2] = 'text';
+            }(jQuery));
+            var $mcj = jQuery.noConflict(true);</script>
         </div>
     </div>
 </div>
-
-<div class="container">
-    <div class="row">
-                
-            
-<div class="component-ad-unit ad-unit-728x90 " id="dfp-ad-3306" data-position="3306">
-    <script type="text/javascript">
-        if(window.googletag){
-            googletag.cmd.push(function() { 
-                googletag.display('dfp-ad-3306'); 
-                                window.gptAdSlots['3306'].setCollapseEmptyDiv(true);
-                googletag.pubads().refresh([window.gptAdSlots['3306']]);
-                            });
-        }//if
-    </script>
-</div>
+<footer>
+    <div class="footer-social-icon">
+        <div class="container"> <span>FOLLOW STEVE HARVEY:</span> <a href="https://www.facebook.com/SteveHarvey/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a> <a href="https://www.instagram.com/iamsteveharveytv/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a> <a href="https://twitter.com/iamsteveharvey" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a> <a href="#" style="display:none;"><i class="fa fa-youtube-play" aria-hidden="true"></i></a> </div>
     </div>
-</div>    
-<div class="component-ad-unit ad-unit-145x750 " id="dfp-ad-2003" data-position="2003">
-    <script type="text/javascript">
-        if(window.googletag){
-            googletag.cmd.push(function() { 
-                googletag.display('dfp-ad-2003'); 
-                                window.gptAdSlots['2003'].setCollapseEmptyDiv(true);
-                googletag.pubads().refresh([window.gptAdSlots['2003']]);
-                            });
-        }//if
-    </script>
-</div>
-
-
-<footer class="page-footer premiere-footer">
     <div class="container">
-	<hr>
-        <div class="row footer-row">
-            <div class="col-xs-12 col-sm-4" name="footer-local-links">
-                <div class="text-center">
-                <a href="/" data-linktrack="true" data-linktrack-location="footer" data-linktrack-position="station_logo">
-                    <img alt="STATION_LOGO" class="footer-image" src="http://i.iheart.com/v3/url/aHR0cDovL2NvbnRlbnQuY2xlYXJjaGFubmVsLmNvbS9jYy1jb21tb24vbWxpYi8xNTYwNi8yMDE2LzExL2RlZmF1bHQvc2htc19sb2dvXzBfMTQ3OTc0NjU0Mi5wbmc=?ops=gravity(&quot;center&quot;),maxcontain(130,130),quality(90)">
-                </a>
-                        <div class="component-social-network-icons">
-                    <a href="https://facebook.com/steveharveyfm/" class="facebook" title="facebook" target="_blank" data-linktrack="true" data-linktrack-location="footer_local" data-linktrack-position="" data-linktrack-index="facebook">
-            <i class="ihr-icon-social-facebook"></i>
-        </a>
-                        <a href="https://twitter.com/steveharveyfm/" class="twitter" title="twitter" target="_blank" data-linktrack="true" data-linktrack-location="footer_local" data-linktrack-position="" data-linktrack-index="twitter">
-            <i class="ihr-icon-social-twitter"></i>
-        </a>
-                        <a href="https://instagram.com/steveharveyfm/" class="instagram" title="instagram" target="_blank" data-linktrack="true" data-linktrack-location="footer_local" data-linktrack-position="" data-linktrack-index="instagram">
-            <i class="ihr-icon-social-instagram"></i>
-        </a>
-    </div>
-                </div>
+        <div class="row">
+            <div class="col-sm-6 col-md-2">
+                <h3 class="footer-m-title">MAIN <a href="javascript:;"><i class="fa fa-plus" aria-hidden="true"></i></a></h3>
+                <ul>
+                    <li><a href="/entertainment">ENTERTAINMENT</a></li>
+                    <li><a href="/inspiration">INSPIRATION</a></li>
+                    <li><a href="/life-style">LIFE &amp; STYLE</a></li>
+                    <li><a href="/young-people">YOUNG PEOPLE</a></li>
+                </ul>
             </div>
-            <div class="col-xs-12 col-sm-8" name="footer-national-links">
-            <ul class="list-inline footer-national-links">
-                <li><a href="/articles/legal-477363/terms-of-use-11584658/">Terms&nbsp;of&nbsp;Use</a></li>
-                <li><a href="/articles/legal-477363/privacy-and-cookie-notice-11584630/">Privacy&nbsp;Statement</a></li>
-                <li><a href="/articles/legal-501967/general-contesting-rules-15652668/">General&nbsp;Contest&nbsp;Guidelines</a></li>
-                <li><a href="http://www.premierenetworks.com/Default.aspx#s3">Advertise&nbsp;with&nbsp;Us</a></li>
-            </ul>
-
-                            <ul class="list-inline footer-local-links">
-                                                        <li><a href="http://www.steveharvey.com/onair/steve-harvey-morning-show-55813/" target="_self" class="" data-linktrack="true" data-linktrack-location="footer_local" data-linktrack-position="link" data-linktrack-index="1">BLOG</a></li>
-                                                                            <li><a href="http://www.steveharvey.com/articles/steve-harvey-nation-500304/steve-harvey-nation-15157387/" target="_self" class="" data-linktrack="true" data-linktrack-location="footer_local" data-linktrack-position="link" data-linktrack-index="2">NEWSLETTER</a></li>
-                                                                            <li><a href="http://www.steveharvey.com/howtolisten" target="_self" class="" data-linktrack="true" data-linktrack-location="footer_local" data-linktrack-position="link" data-linktrack-index="3">STATIONS</a></li>
-                                                                            <li><a href="http://nation.steveharvey.com" target="_blank" class="" data-linktrack="true" data-linktrack-location="footer_local" data-linktrack-position="link" data-linktrack-index="4">CONTESTS</a></li>
-                                                                            <li><a href="https://www.iheart.com/show/51-The-Steve-Harvey-Morning" target="_self" class="" data-linktrack="true" data-linktrack-location="footer_local" data-linktrack-position="link" data-linktrack-index="5">PODCAST</a></li>
-                                                    </ul>
-
-                <p class="site-ownership">© 2017 iHeartMedia, Inc.</p>
-            	    </div>
+            <div class="col-sm-6 col-md-2">
+                <h3 class="footer-m-title">SHOWS <a href="javascript:;"><i class="fa fa-plus" aria-hidden="true"></i></a></h3>
+                <ul>
+                    <li><a href="http://stevetv.com/" target="_blank">STEVE TV</a> </li>
+                    <li><a href="http://www.familyfeud.com/" target="_blank">FAMILY FEUD</a> </li>
+                    <li><a href="http://abc.go.com/shows/celebrity-family-feud" target="_blank">CELEBRITY FEUD</a> </li>
+                    <li><a href="https://www.nbc.com/little-big-shots" target="_blank">LITTLE BIG SHOTS</a> </li>
+                    <li><a href="https://www.nbc.com/little-big-shots-forever-young?nbc=1" target="_blank">FOREVER YOUNG</a> </li>
+                    <li><a href="http://abc.go.com/shows/steve-harveys-funderdome" target="_blank">FUNDERDOME</a> </li>
+                    <li><a href="http://www.steveharveyfm.com/" target="_blank">MORNING SHOW </a></li>
+                    <li><a href="https://www.missuniverse.com/" target="_blank">MISS UNIVERSE</a> </li>
+                    <li><a href="https://www.missuniverse.com/missusa" target="_blank">MISS USA </a></li>
+                    <li><a href="https://www.missuniverse.com/missteenusa" target="_blank">MISS TEEN USA</a> </li>
+                    <li><a href="https://www.fox.com/showtime-at-the-apollo/" target="_blank">APOLLO</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <h3 class="footer-m-title">ABOUT <a href="javascript:;"><i class="fa fa-plus" aria-hidden="true"></i></a></h3>
+                <ul>
+                    <!--<li><a href="#">ABOUT  STEVE </a></li>
+                    <li><a href="#">STEVE  HARVEY WORLD GROUP</a> </li>-->
+                    <li><a href="http://harveyfoundation.com/" target="_blank">STEVE  AND MARJORIE HARVEY FOUNDATION</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-6 col-md-2">
+                <h3 class="footer-m-title">CONTACT <a href="javascript:;"><i class="fa fa-plus" aria-hidden="true"></i></a></h3>
+                <ul>
+                    <li><a href="javascript:;" data-toggle="modal" data-target="#Modal_Subscribe">SUBSCRIBE</a></li>
+                    <li><a href="mailto:advertise@steveharveymail.com">ADVERTISE </a></li>
+                    <li><a href="mailto:support@steveharveymail.com">SUPPORT </a></li>
+                    <li><a href="mailto:press@steveharveymail.com">PRESS</a></li>
+                    <li><a href="https://steveharvey.com/privacy-policy.php">PRIVACY POLICY</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-12 col-md-3 text-right">
+                <div class="footer-logo"><img src="public/img/global/footer-logo.png"></div>
+                <p>Copyright 2017. All Rights Reserved.<br>
+                Powered by EmptyBlocks.</p>
+            </div>
         </div>
     </div>
 </footer>
 
-    
-<div class="bg-grid"></div>
-
-<script src="//pylon.iheart.com/sdk/latest/sdk.min.js"></script>
-<script src="//flint-img.iheart.com/responsive/dist/js/main-271.min.js"></script>
-
-    
-
-<div id="on-demand-app" class="component-ondemand-app custom-modal-background" tabindex="-1" role="dialog" ng-controller="AppController" ng-show="showInterface" ng-cloak="">
-    <div id="on-demand-modal" class="custom-modal" role="document" tabindex="1" ng-cloak="">
-        <div class="modal-content add-song" ng-show="showAddSong">
-            <div class="modal-header">
-                <h3 class="modal-title">Add to Playlist</h3>
-            </div>
-            <div class="modal-body">
-                <a href="#" class="create-playlist" title="Create New Playlist" ng-click="createPlaylist($event)">
-                    <span class="left">Create New Playlist</span>
-                    <span class="right"><i class="icon ihr-icon-add"></i></span>
-                </a>
-                <figure ng-repeat="collection in user.collections" ng-click="addSongsToCollection(collection)">
-                    <div class="thumb-container" ng-show="collection.urls != null &amp;&amp; collection.urls.image != null">
-                        <img src="{{collection.urls.image}}" alt="{{collection.name}}">
-                    </div>
-                    <figcaption>
-                        <h4>{{collection.name}}</h4>
-                        <h5>{{(collection.tracks).length}} songs</h5>
-                    </figcaption>
-                </figure>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-default" ng-click="closeModal()">Cancel</button>
-            </div>
-        </div>
-        <div class="modal-content add-new-playlist" ng-model="newCollection" ng-show="showAddPlaylist">
-            <div class="modal-header">
-                <h3 class="modal-title">New Playlist</h3>
-            </div>
-            <div class="modal-body">
-                <form name="newPlaylist">
-                  <div class="form-group">
-                    <input type="text" class="form-control" name="playlist-name" id="playlist-name" ng-model="newCollection.name" placeholder="Playlist Name" required="">
-                  </div>
-                </form>                
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-default cancel" ng-click="closeModal()">Cancel</button>
-                <button type="button" class="btn btn-default create global-custom-button station-custom-button" ng-disabled="!newPlaylist.$dirty || newPlaylist.$invalid" ng-click="addNewCollection(newCollection)">Create</button>
-            </div>
-        </div>
-        <div class="modal-content up-sell" ng-show="showUpsell">
-            <div class="modal-header">
-                <div class="up-sell-new">
-                    <span>New</span>
-                </div>
-                <div class="iheart-logo-wrapper">
-                    <img src="//flint-img.iheart.com/responsive/img/ondemand/iheart-all-access.svg" alt="iHeartRadio">
-                </div>
-                <div class="up-sell-close" ng-click="closeModal()">
-                    <i class="icon ihr-icon-remove"></i>
-                </div>
-            </div>
-            <div class="modal-body">
-                <h3>Save songs from The Steve Harvey Morning Show to your playlist</h3>
-                <ul class="up-sell-benefits">
-                    <li><span>Instantly replay songs from the radio</span></li>
-                    <li><span>Unlimited skips</span></li>
-                    <li><span>Listen offline</span></li>
-                    <li><span>Create unlimited playlists</span></li>
-                    <li><span>Play millions of songs on demand</span></li>
-                </ul>
-            </div>
-            <div class="modal-footer">
-                <a href="https://www.iheart.com/subscribe?subscriptionId=IHEART_US_PREMIUM_TRIAL&amp;upsellFrom=352&amp;pname=15606&amp;campid={{campID}}&amp;cid=%2Fplaylist%2F" class="btn btn-default global-custom-button station-custom-button" target="_blank">Start Free 30 Day Trial</a>
-                <div class="up-sell-more"><a href="https://www.iheart.com/upgrade/?upsellFrom=352&amp;pname=15606&amp;campid={{campID}}&amp;cid=%2Fplaylist%2F" target="_blank">Learn more about iHeartRadio All Access</a></div>
-            </div>
-        </div>
-    </div>
-    <div class="on-demand-growl" od-growl-success="">
-        <i class="icon ihr-icon-save-song"></i>
-        <a href="{{collectionUrl}}" ng-show="action == 'add'">Added song{{songIDs.length &gt; 1 ? 's' : ''}} to {{collectionName || 'playlist'}}
-        </a><a href="https://www.iheart.com/my/music/songs/" ng-show="action == 'save'">Song saved to My Music</a>
-    </div>
-    <div class="on-demand-growl" od-growl-error="">
-        <i class="icon ihr-icon-remove"></i>
-        <span>An error occurred. Please try again.</span>
-    </div>
-</div>
-
-<script src="//flint-img.iheart.com/responsive/dist/js/ondemand-271.min.js"></script>
+<script type="text/javascript" src="public/js/vendors/head.min.js"></script>
+<script type="text/javascript" src="public/js/vendors/jquery.min.js"></script>
+<script type="text/javascript" src="public/js/vendors/jquery.mobile.custom.min.js"></script>
+<script type="text/javascript" src="public/js/vendors/bootstrap.min.js"></script>
+<script src="public/js/vendors/owl.carousel.js"></script>
+<script src="public/js/vendors/OwlCarousel2Thumbs.min.js"></script>
+<script type="text/javascript" src="public/js/vendors/parallax.min.js"></script>
 <script type="text/javascript">
-    (function () {
-        if (typeof(angular) !== "undefined") {
-            angular.bootstrap(document.getElementById("on-demand-app"), ['onDemand']);
-        } //if
-    })();
-</script>
-
-<script>
-    if (typeof $OneModal !== "undefined" && $OneModal !== null) {
-        $OneModal.init();
-    }
-</script>
-
-
-<script src="//flint-img.iheart.com/mobile/js/vendor/LAB.min.js"></script>
-
-<script type="text/javascript">
-$LAB
-    .script("//flint-img.iheart.com/app/js/e2eDetect.js")
-    .script("/clientscripts/s_code.js")
-    .wait(function(){
-        if ($User && $User.isLoggedIn()) {
-            var userType = $User.getAccountType(),
-                userId = $User.getProfile("profileId");
-
-            if (userId && userId !== "") {
-                s.prop33 = userId;
-            }
-
-            if (userType && userType !== "") {
-                s.prop49 = userType;
-            }
-        }
-        s.pageName = "articles:legal-477363:privacy-and-cookie-notice-11584630";
-        s.pageType = "articles";
-        if (window.e2eTrackingValue) {
-            s.prop41 = window.e2eTrackingValue;
-            s.eVar41 = window.e2eTrackingValue;
-        }
-        
-	       		 s.prop2 = "www.steveharvey.com";
-               		 s.prop3 = "articles";
-               		 s.prop4 = "articles:11584630";
-               		 s.prop5 = "page";
-               		 s.prop6 = "SHMS-PR";
-               		 s.prop7 = "PREMIERE";
-               		 s.prop8 = "PREMIERE";
-               		 s.prop9 = "Privacy and Cookie Notice";
-               		 s.prop10 = "articles";
-               		 s.prop11 = "5:52 am";
-               		 s.prop12 = "Thursday";
-               		 s.prop13 = "Weekday";
-               		 s.prop20 = "Articles:Privacy and Cookie Notice:11584630";
-               		 s.prop25 = "PREMIERE:SHMS-PR:PREMIERE";
-               		 s.prop26 = "PREMIERE:SHMS-PR:Privacy and Cookie Notice";
-               		 s.prop27 = "PREMIERE:SHMS-PR:PREMIERE:articles";
-               		 s.prop28 = "articles:477363:11584630";
-               		 s.prop34 = "articles:Legal:477363";
-               		 s.prop36 = "FLINT-RESPONSIVE";
-               		 s.prop39 = "1168886";
-               		 s.prop40 = "photos";
-               		 s.prop42 = "IHM-IP";
-               		 s.prop43 = "Local";
-               		 s.prop62 = "11/10/2016";
-                       		 s.hier1 = "SHMS-PR,PREMIERE";
-               		 s.hier2 = "SHMS-PR,PREMIERE";
-        
-        
-        window.doTrackingCall = function( ) {
-            if( typeof(window.s) != "undefined" && typeof(window.s.t) == "function" ){
-                var s_code=s.t();if(s_code)document.write(s_code);
-            }
-        };
-
-        $(window).bind('sc-update-image', function(){
-            window.doTrackingCall( );
-        });
-       
-        window.doTrackingCall( );
+  $(function(){
+    var directAdOS = new SpotX.DirectAdOS({
+      slot: $('#ad-slot').get(0),
+      video_slot: $('#video-slot').get(0),
+      hide_skin: false,
+      autoplay: true
     });
 
+    function onAdEnd() {
+      $('#ad-container').hide();
+      $('.container iframe').get(0).contentWindow.postMessage('play', '*');
+    }
+
+    directAdOS.subscribe(onAdEnd, 'AdStopped');
+    directAdOS.subscribe(onAdEnd, 'AdError');
+    directAdOS.subscribe(onAdEnd, 'AdSkipped');
+
+    /* Uncomment if being used for mid-roll */
+    // $('#ad-container').show();
+    // $('.container iframe').get(0).contentWindow.postMessage('pause', '*');
+
+    directAdOS.loadAd();
+  });
+  </script>
+ <script>
+  $(function(){
+    if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/)) {
+      $('.parallax-container').height( $(window).height() * 0.5 | 0 );
+    } else {
+      $(window).resize(function(){
+        var parallaxHeight = Math.max($(window).height() * 0.7, 200) | 0;
+        $('.parallax-container').height(parallaxHeight);
+      }).trigger('resize');
+    }
+  });
+ setTimeout(function(){
+    $(window).resize();
+},6000);
 </script>
-
-    
-<script type="text/javascript">
-$(function(){
-    //station values;
-    var pubID = '4087';
-    var stationID = 'SHMS-PR';
-    var marketID = 'PREMIERE';
-    var format = 'PREMIERE';
-
-    var lo = document.createElement('script'); 
-    lo.type = 'text/javascript'; 
-    lo.async = true;
-    lo.id = 'LOTCC_' + pubID;
-    lo.src = 'http://tags.crwdcntrl.net/c/' + pubID  + '/cc.js?ns=_cc' + pubID;
-
-    lo.onload = function(){
-        _cc4087.add('int','Page View : ID - ' + stationID );    
-        _cc4087.add('int','Page View : Format - ' + format );    
-        _cc4087.add('int','Page View : Market - ' + marketID );    
-        _cc4087.bcp();
-
-        if ($User && $User.isLoggedIn()) {
-            var pid = $User.getProfile("profileId"),
-                    pixelUrl = "https://bcp.crwdcntrl.net/map/c=4085/tp=CLCH/tpid=%%profileid%%";
-            if (pid && pid !== "") {
-                pixelUrl = pixelUrl.replace("%%profileid%%", pid);
-                $("body").append("<img src=\""+pixelUrl+"\" />");
-            }
-        }
-    };
-    
-    var ls = document.getElementsByTagName('script')[0]; 
-    ls.parentNode.insertBefore(lo, ls);
-});
-</script>
-<!-- Tynt -->
-
-<script type="text/javascript">
-if(document.location.protocol=='http:'){
-    var Tynt=Tynt||[];Tynt.push('bOa0NM1Her35hWadbi-bnq');Tynt.i={"c":false};
-    (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
-}
-</script>
-<!-- END Tynt -->
-
-<div style="height:1px;line-height:0px">
-    <img src=" http://b.scorecardresearch.com/p?c1=2&amp;c2=6036262&amp;c4=http%3A%2F%2Fwww.steveharvey.com%2Farticles%2Flegal-477363%2Fprivacy-and-cookie-notice-11584630%2F" alt="*" style="width:1px;height:1px;border:none;">
-</div><img src="//amplifypixel.outbrain.com/pixel?mid=004d2133385513d6a3dbfd9993b43474ab" alt="Outbrain Pixel">
-
-
-            
-<script src="//flint-img.iheart.com/responsive/dist/js/eyesToEars-271.min.js"></script>
+<!-- custom scrollbar plugin -->
+<script src="public/js/vendors/jquery.mCustomScrollbar.concat.min.js"></script> 
 <script>
-    $EyesToEars.init();
-</script>    
+        (function($){
+            $(window).load(function(){
+                $("#content-6").mCustomScrollbar({
+                    axis:"x",
+                    theme:"light-3",
+                    advanced:{autoExpandHorizontalScroll:true}
+                });
+                
+                
+                
+            });
+            $(document).ready(function(){
+            $("#content-7").mCustomScrollbar({
+                    axis:"x",
+                    theme:"light-3",
+                    advanced:{autoExpandHorizontalScroll:true}
+                });
+                });
+        })(jQuery);
+    </script>
+    
+<script type="text/javascript" src="public/js/main.js"></script>
+<script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '1585103324837051',
+          xfbml      : true,
+          version    : 'v2.8'
+        });
+      };
 
-<script src="//flint-img.iheart.com/responsive/dist/js/premiere-271.min.js"></script>
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="public/js/vendors/html5shiv.js"></script>
+      <script src="public/js/vendors/respond.min.js"></script>
+    <![endif]-->
+<!--<div class="newsletter-backdrop"></div>
+<div class="newsletter-popup"></div>-->
 
-</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-103952138-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"25b61230c4","applicationID":"5383723","transactionName":"Y1AANhZWCkBUVRAKXVoaIRcXQwteGnAIClxAaiENCkMWXFlaARFtZlAREgtZF1pDUzsiQEBcAQ4BRF4JUVMQAltY","queueTime":0,"applicationTime":188,"atts":"TxcXQF5MRldaWwUKXBYPDBcIW0gRQ1cWDVtHXU8KC0QQEQ8UAg9bWkFPFAVFClpGXlRQEBgXAxIFVAxWGF4LEEYWDwwXCFsZHxdXRllJSUg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+  gtag('config', 'UA-103952138-2');
+</script>
+<!--Begin comScore Tag--><script>var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"20015427"});(function(){var s=document.createElement("script"),el=document.getElementsByTagName("script")[0];s.async=true;s.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el)})();</script><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript><!--End comScore Tag-->
+<!--Quantcast Tag--><script type="text/javascript">var _qevents=_qevents||[];(function(){var elem=document.createElement('script');elem.src=(document.location.protocol=="https:"?"https://secure":"http://edge")+".quantserve.com/quant.js";elem.async=true;elem.type="text/javascript";var scpt=document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem,scpt)})();_qevents.push({qacct:"p-31iz6hfFutd16",labels:"Domain.steveharvey_com,DomainId.71441"});</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.steveharvey_com,DomainId.71441"border="0"height="1"width="1"alt="Quantcast"/></div></noscript><!--End Quantcast tag-->
+<script type="text/javascript" style="display:none;" async="">
+__ez.queue.addFile('edmonton.php', '//steveharvey.com/detroitchicago/edmonton.webp?a=a&cb=1&shcb=29', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '//steveharvey.com/porpoiseant/jellyfish.webp?a=a&cb=1&shcb=29', false, [], true, false, false, false);
+</script>
+
 </body></html>
