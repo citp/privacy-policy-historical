@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wearemitu.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911111039id_/https%3A//wearemitu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearemitu.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626012141id_/https%3A//wearemitu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - we are mitú
+# Privacy Policy
 
 **MITÚ PRIVACY POLICY**
 
@@ -16,7 +16,7 @@ This Privacy Policy covers personally identifiable and non-personally identifiab
 
 **2\. NO INFORMATION COLLECTED FROM CHILDREN UNDER 13 YEARS OF AGE.**
 
-The Services are general audience services, are not directed to individuals under 13 years of age and do not knowingly collect personal information from individuals under 13 years of age. If you are under 13 years of age, please do not attempt to register for the Services or provide any personal information about yourself to the Services. If mitú learns or believes that it has collected personal information from a child under 13 years of age, mitú will delete that information as quickly as possible. If you are a parent or guardian of an individual under 13 years of age and you become aware that your child or ward has provided mitú with personal information without your consent or you believe that mitú might have any personal information from an individual under 13 years of age, please contact mitú at info@mitunetwork.com.
+The Services are general audience services, are not directed to individuals under 13 years of age and do not knowingly collect personal information from individuals under 13 years of age. If you are under 13 years of age, please do not attempt to register for the Services or provide any personal information about yourself to the Services. If mitú learns or believes that it has collected personal information from a child under 13 years of age, mitú will delete that information as quickly as possible. If you are a parent or guardian of an individual under 13 years of age and you become aware that your child or ward has provided mitú with personal information without your consent or you believe that mitú might have any personal information from an individual under 13 years of age, please contact mitú via our [contact form](https://wearemitu.com/about/#contact).
 
 **3\. INFORMATION MITÚ MAY COLLECT.**
 
@@ -130,4 +130,4 @@ Mitú may from time to time amend this Privacy Policy to reflect changes in mit�
 
 **12\. CONTACT US.**
 
-If you have any questions about this Privacy Policy or to report any privacy concerns, please contact mitú at [info@mitunetwork.com](mailto:mailto:info@mitunetwork.com).
+If you have any questions about this Privacy Policy or to report any privacy concerns, please contact mitú via our [contact form](https://wearemitu.com/about/#contact).
