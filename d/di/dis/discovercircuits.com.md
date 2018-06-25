@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovercircuits.com privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013095032id_/http%3A//discovercircuits.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovercircuits.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626003749id_/http%3A//www.discovercircuits.com/front/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for www.discovercircuits.com (updated 10/24/14)
 
@@ -27,5 +27,3 @@ Like many other Web sites, http://www.discovercircuits.com makes use of log file
 > You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [ http://www.discovercircuits.com's](http://www.discovercircuits.com%27s/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 > 
 > If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-
-Content of this page provided by [ http://www.serprank.com/privacy-policy-generator/](http://www.serprank.com/privacy-policy-generator/)
