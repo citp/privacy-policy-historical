@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecrag.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103355id_/http%3A//www.thecrag.com/processmap/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecrag.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625174020id_/http%3A//www.thecrag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | theCrag
 
@@ -28,6 +28,3 @@ www.thecrag.com may use account information for deriving aggregate statistical i
 www.thecrag.com may target internal services, commercial offers, or advertising based on account information. In such a case, thecrag.com will NOT transfer personal information, that identifies you, to any third party. (For example we may make a commercial offer to beginner climbers, on behalf of another organization, but we will NOT supply the details of who we made the offer to).
 
 Submissions made to www.thecrag.com's services (eg database of climbs, forums) may be made publicly available.
-
-  
-
