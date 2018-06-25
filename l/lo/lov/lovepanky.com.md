@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovepanky.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228015623id_/http%3A//www.lovepanky.com/lovepanky-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovepanky.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625212554id_/https%3A//www.lovepanky.com/lovepanky-privacy-policy) for the most accurate reproduction.*
 
 # LovePanky Privacy Policy - LovePanky - Your Guide to Better Love and Relationships
 
@@ -16,25 +16,25 @@ This policy discloses the privacy practices for LovePanky’s treatment of perso
 
 **Information that you provide to us**
 
-LovePanky collects personal information that you provide to us. We may store any information that you provide to us on our Website or in any other manner, including email interactions, etc., such as your name, email address, date of birth, gender, and other information that you may wish to disclose to LovePanky based on your personal interest and requirements. You may choose to continue using our Website without providing the aforementioned information, by not registering to our Website. By not registering, you may lose out on advantages that may be provided to a registered member. The information you provide to LovePanky may be used to customize the advertising content that you may see, and also to provide you with a better experience while using our Website.
+LovePanky only collects personal information that you provide to us. We may store any information that you wilfully provide to us on our Website or in any other manner, including email interactions, etc., such as your name, email address, date of birth, gender, and other information that you choose to disclose to LovePanky based on your personal interest and requirements. You may choose to continue using our Website without providing the aforementioned information, by not registering to our Website. By not registering, you may lose out on advantages that may be provided to a registered member. The information you provide to LovePanky may be used to customize the advertising content that you may see, and also to provide you with a better experience while using our Website.
 
 **Registration**
 
-By registering to our Website, you may be provided with an advantage to receive periodic interactions by LovePanky, in the form of newsletters, promotional offers, polls, or other forms of communication that may be of interest to you. To avail this advantage, you will have to register at LovePanky and provide us with personal information. You may also opt out of receiving newsletters or any other third party promotions.
+By registering to our Website, you may be provided with an advantage to receive periodic interactions by LovePanky, in the form of newsletters, promotional offers, polls, or other forms of communication that may be of interest to you. To avail this advantage, you will have to register at LovePanky and provide us with personal information. You may also opt out of receiving newsletters or any other third party promotions at any point in time.
 
 **Comment Policy**
 
-You must remember that you post comments on our Website at your own risk. We cannot guarantee that the information you post directly on the Website will not be viewed by unauthorized persons. You understand that copies of the information you have posted on the Website will be available, not only on the  Website, but also in cached and archived pages or if other users or viewers of the Website have saved your information.
+You must remember that you post comments on our Website at your own risk. We cannot guarantee that the information you post directly on the Website will not be viewed by unauthorized persons. You understand that copies of the information you have posted on the Website will be available, not only on the Website, but also in cached and archived pages or if other users or viewers of the Website have saved your information.
 
 Once a comment is made public on the Website, it shall not be removed by request. As a user, you are responsible for your communication and for the consequences of the posting. Comments will be removed only in response to a legal process or in response to a law enforcement agency’s request, or if LovePanky suspects that the comment is spam in nature, violates our terms of use, threatening to users of the Website, offensive to any community or race, or disturbs the public sentiments of users of the Website.
 
-**Recording Information**
+**Recording Information and Log Files**
 
-LovePanky may receive and store certain types of information whenever you interact with us. We automatically receive and record information on our server logs from your browser, such as IP address, our cookie information, and similar data. We may also collect usage information such as number and frequency of visitors. We record these details to help diagnose problems with the system administration and servers, to analyze browsing trends and to gain information on how our Website is used by users, and to provide more interesting and informative content. We also use this information to customize advertisements, conduct researches, and to create reports for internal and external purposes such as marketing.
+LovePanky may receive and store certain types of information whenever you interact with us. We automatically receive and record information on our server logs from your browser, such as our cookie information, and similar data, but no “personal data” would be logged without your consent. We may also collect usage information such as number and frequency of visitors. We record these details to help diagnose problems with the system administration and servers, to analyze browsing trends and to gain information on how our Website is used by users, and to provide more interesting and informative content. We also use this information to customize advertisements, conduct researches, and to create reports for internal and external purposes such as marketing.
 
-**Log Files**
+We use Google Analytics and Clicky Analytics to log and analyze the traffic to our website. You may review Clicky’s privacy policy at http://clicky.com/terms/privacy. A “Unique ID” tracking cookie is used for the “legitimate purpose” of identifying unique visitors, but otherwise no “personal data” is logged.
 
-We may use log files which include internet protocol addresses (IP addresses), browser type, referring and exit pages, internet service provider, type of platform, date and time, duration of visit, and the number of clicks, to analyze trends, track user movements and gather demographic information. This information is not used to personally identify individuals or obtain personal information, but to provide better and relevant content, obtain information for advertising purposes and other purposes to better the Website, all of which does not include personal identification of users.
+This information is not used to personally identify individuals or obtain personal information, but to provide better and relevant content, obtain information for advertising purposes and other purposes to better the Website, all of which does not include personal identification of users.
 
 **Information about Cookies**
 
@@ -52,7 +52,7 @@ LovePanky caters to individuals who can legally create binding contracts. We tak
 
 **Choice/Opt-out**
 
-The users of this Website may be given the opportunity to “opt-in” to receive communications from Lovepanky, either while registering or from time-to-time. You can decide to opt-in or opt-out as per your interest or requirement. If you decide to opt-in to receive communication from us, you may receive information in the form of an email from Lovepanky from time-to-time. Users who no longer wish to receive any communications from us may opt-out of receiving these communications by emailing contact@lovepanky.com with the subject line as “Unsubscribe”, or by following a link to unsubscribe that will be provided in every newsletter or subscribed email message from LovePanky.
+The users of this Website may be given the opportunity to “opt-in” to receive communications from LovePanky, either while registering or from time-to-time. You can decide to opt-in or opt-out as per your interest or requirement. If you decide to voluntarily opt-in to receive communication from us, you may receive information in the form of an email from LovePanky from time-to-time. Users who no longer wish to receive any communications from us may opt-out of receiving these communications by emailing contact@lovepanky.com with the subject line as “Unsubscribe”, or by following a link to unsubscribe that will be provided in every newsletter or subscribed email message from LovePanky.
 
 **Delete Account**
 
@@ -66,4 +66,4 @@ If the privacy policy is changed, we will post the changes in this Privacy Polic
 
 If you have any questions or suggestions regarding our privacy policy, you can contact us via email at contact@lovepanky.com.
 
-Date: June 09, 2016
+Last Updated On: May 23, 2018
