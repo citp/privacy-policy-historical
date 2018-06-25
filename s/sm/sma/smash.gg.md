@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smash.gg privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119042725id_/https%3A//smash.gg/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smash.gg privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625142245id_/https%3A//smash.gg/about/privacy) for the most accurate reproduction.*
 
 # smash.gg
 
-Last Updated: June 3rd, 2016
+Last Updated: May 23rd, 2018
 
 This Privacy Policy sets forth our policy with respect to information, including personally identifiable information ("Personal Data"), that is collected from General Users (as defined here) and Tournament Organizers (as defined here) though use of the Services (as defined here).
 
@@ -118,7 +118,7 @@ By using the Services, you are consenting to the use of the technologies describ
   
 
 
-#### 1.3 Cookies and Tracking technologie
+#### 1.3 Cookies and Tracking technologies
 
 A cookie is a piece of information that is placed on your web browser when you access and/or use the Services that stores text and which can later be read back by the Services or third parties. Cookies are used to recognize your browser and you as a unique User. Cookies may be session cookies (i.e., last only for one browser session) or persistent cookies (i.e., continue on your browser until they are affirmatively deleted). You can manage cookies through your web browser's option settings and through those settings you may be able (a) to receive notifications when you are receiving new cookies; (b) to disable cookies; or (c) to delete cookies. Please refer to your web browser's help section for information on how to do this.
 
@@ -139,28 +139,28 @@ A local shared object is similar to a cookie, except it is stored on your comput
   
 
 
-#### 1.6 Essential use of these technologie
+#### 1.6 Essential use of these technologies
 
 We use these technologies and allow third parties to use these technologies in a way that is essential for the operation of our Services or parts of our Services. For example, we may use cookies to determine where to route your traffic to effectively distribute the Site workload across numerous servers. 
 
   
 
 
-#### 1.7 Performance/Analytics use of these technologie
+#### 1.7 Performance/Analytics use of these technologies
 
 We use these technologies and allow third parties to use these technologies to monitor our Services and to analyze how you use our Services. For example, we may place cookies that allow us (a) to measure the time of your requests to our servers and our responses; (b) to A/B test new features; (c) to record statistics about site usage; (d) to track your activities on the Services; and (e) to track the places from which you come to the Services. We may also use third party cookies to collect information about visitor behavior on our Services for these Performance/Analytics purposes.
 
   
 
 
-#### 1.8 Functional use of these technologie
+#### 1.8 Functional use of these technologies
 
 We use these technologies and allow third parties to use these technologies to allow us to provide certain functionality on the Services and to remember your preferences
 
   
 
 
-#### 1.9 Advertising use of these technologie
+#### 1.9 Advertising use of these technologies
 
 We may use these technologies and allow third parties to use these technologies to deliver advertisements to you both on and off the Services. By using these technologies we aim to better tailor these advertisements to your interests. Sometimes this is called online behavioral, interest based, or retargeted advertising. For more information on these types of ads, or to stop use of tracking technologies for these purposes, go to www.aboutads.info or www.networkadvertising.org.
 
@@ -202,9 +202,13 @@ This Privacy Policy does not apply to any Personal Data collected by us other th
   
 
 
-#### Children:
+#### Children's Privacy:
 
-We do not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to us through the Services, please email hello@smash.gg, and we will endeavor to delete that information from our databases.
+IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE SMASH.GG SERVICES AT ANY TIME OR IN ANY MANNER.
+
+Smash.gg does not knowingly collect or maintain personal information from persons under 13 years-of-age. If Smash.gg learns that personal information of persons under 13-years-of-age has been collected on or through the Smash.gg Services, Smash.gg will take appropriate steps to delete this information.
+
+If you are the parent or legal guardian of a child under 13 who has become a Smash.gg Services member, then please contact Smash.gg at hello@smash.gg with subject line "privacy" to have that child’s account terminated and personal information deleted.
 
   
 
@@ -219,6 +223,13 @@ This Privacy Policy applies only to the Services. The Services may contain links
 #### Storage and Security:
 
 We may store Personal Data itself or such information may be included in databases owned and maintained by our affiliates, agents or service providers. We take what we believe to be reasonable steps to protect the Personal Data provided via the Services from loss, misuse, unauthorized access, inadvertent disclosure, alteration, and destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data via the Internet.
+
+  
+
+
+#### Where Information is Processed:
+
+Smash.gg and its affiliates are based in the United States. No matter where you are located, you consent to the processing and transferring of your information in and to the U.S. and other countries. The laws of the U.S. and other countries governing data collection and use may not be as comprehensive or protective as the laws of the country where you live.
 
   
 
@@ -239,7 +250,7 @@ Your access to and use of the Services is subject to the TOS LINK.
 
 #### Changes to This Privacy Policy:
 
-The Services and our business may change from time to time. As a result, at times it may be necessary for us to make changes to this Privacy Policy. We reserve the right, in our sole discretion, to update or modify this Privacy Policy at any time. Modifications to this Privacy Policy will be posted to the smash.gg website with a change to the "Last Updated" date at the top of this Privacy Policy. In certain circumstances smash.gg may, but need not, provide you with additional notice of such Modifications, such as via email or with in-Service notifications. Modifications will be effective 30 days following the "Last Updated" date or such other date as communicated in any other notice to you. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services following the effectiveness of any Modifications to this Privacy Policy constitutes acceptance of those Modifications. If any Modification to this Privacy Policy is not acceptable to you, your sole remedy is to cease accessing, browsing and otherwise using the Services.
+The Services and our business may change from time to time. As a result, at times it may be necessary for us to make changes to this Privacy Policy. We reserve the right, in our sole discretion, to update or modify this Privacy Policy at any time. Modifications to this Privacy Policy will be posted to the smash.gg website with a change to the "Last Updated" date at the top of this Privacy Policy. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services following the effectiveness of any Modifications to this Privacy Policy constitutes acceptance of those Modifications. If any Modification to this Privacy Policy is not acceptable to you, your sole remedy is to cease accessing, browsing and otherwise using the Services.
 
   
 
@@ -251,9 +262,20 @@ Tournament Organizers may access and update their Personal Data being stored by 
   
 
 
+#### Access to personal Information:
+
+If you would like to obtain a copy of your personal information stored on Smash.gg, please send an email to hello@smash.gg with the subject line "Access to personal data". You will be sent a link to access your data within 30 days of your request.
+
+  
+
+
 #### Retention and Deletion:
 
-We may retain your Personal Data as long as you continue to use the Services. You may close your account by contacting us. However, we may retain Personal Data and Non-Personal Data for an additional period as is permitted or required under applicable laws. Even if we delete your Personal Data it may persist on backup or archival media and other information systems.
+If you would like to close your account and delete your profile information on www.smash.gg you may contact hello@smash.gg. In your request, please include your email address, name, address, and telephone number and specify any other relevant information. If you close your account, Smash.gg may retain other information about you for the activities described in this Privacy Policy, or as permitted or required by applicable law.
+
+Tournament Organizers agree to comply with any deletion requests from Smash.gg for data directly or indirectly obtained from Smash.gg and are solely responsible for ensuring data deletion requests are completed with due diligince and in a timely manner.
+
+We generally retain personal data for so long as it may be relevant to the purposes identified herein. To dispose of personal data, we may anonymize it, delete it or take other appropriate steps. Data may persist in copies made for backup and business continuity purposes for additional time.
 
   
 
