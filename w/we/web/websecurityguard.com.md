@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websecurityguard.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118213246id_/http%3A//www.websecurityguard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websecurityguard.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625165420id_/http%3A//websecurityguard.com/privacy.aspx) for the most accurate reproduction.*
 
 # Web Security Guard
 
