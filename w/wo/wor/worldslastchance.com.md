@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldslastchance.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401142250id_/https%3A//www.worldslastchance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldslastchance.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625043914id_/https%3A//www.worldslastchance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://1888.org/pdf/1474338536-privacy-policy.pdf)
+[](https://media.worldslastchance.com/pdf/1474338536-privacy-policy.pdf)
 
 Right click and Save Target As... to download file. 
 
@@ -18,7 +18,7 @@ Right click and Save Target As... to download file.
 
 In order to access certain information and services on the site, a user must first become a **WorldsLastChance.com** "member" by completing our member registration form, or registering with an Open ID app through a social media site (Facebook, Gmail, Yahoo!, or AOL). During the registration process you will be required to give information such as your name, e-mail address, your street address, phone number, and birth date; or this information will be collected, with your permission, via one of the social media sites (Facebook, Gmail, Yahoo!, or AOL). The _sole_ reason for collecting this information is to be able to send out the 
 
-[_free membership gifts_](http://www.worldslastchance.com/win-wlcs-exclusive-free-gift.html)
+[_free membership gifts_](https://www.worldslastchance.com/win-wlcs-exclusive-free-gift.html)
 
 to the correct address of members.  World's Last Chance does not rent, sell, or share your personal information with anyone, ever.
 
@@ -31,9 +31,9 @@ If your profile information changes, or if you no longer desire to be a Member, 
 You are able to opt-out or unsubscribe from any of our mail streams (Updates and/or Transactional) quickly and easily at any time.  You can request to be unsubscribed from any or all mail streams by doing any of the following:  
 
   1. Click on "Unsubscribe" in any email that you receive from World's Last Chance and you will be unsubscribed from that mail stream.
-  2. If you are a member of WLC:  go to your [_Profile_](http://www.worldslastchance.com/community), select "Edit Profile & Notifications", and select "NO" for one or both options of receiving mail.
-  3. Go to [_Contact Us_](http://www.worldslastchance.com/contact-us) and request to be removed from any or all mail streams.
-  4. Email us at [_abuse@worldslastchance.com_](mailto:abuse@worldslastchance.com) and request to be unsubscribed from any or all mail streams. 
+  2. If you are a member of WLC:  go to your [_Profile_](https://www.worldslastchance.com/community), select "Edit Profile & Notifications", and select "NO" for one or both options of receiving mail.
+  3. Go to [_Contact Us_](https://www.worldslastchance.com/contact-us) and request to be removed from any or all mail streams.
+  4. Email us at [_[email  protected]_](https://www.worldslastchance.com/cdn-cgi/l/email-protection#6d0c0f181e082d1a021f01091e010c1e190e050c030e08430e0200) and request to be unsubscribed from any or all mail streams. 
   5. Write to us at:  World's Last Chance |  Sun Terrace House, Golden Rock  |  Liburd's Estate  |  Nevis, Saint Kitts and Nevis - and request to be unsubscribed from any or all mail streams .
   6. Call us at:  **+1-869-469-3272** - and request to be unsubscribed from any or all mail streams.
 
@@ -42,7 +42,7 @@ You are able to opt-out or unsubscribe from any of our mail streams (Updates and
 WLC deeply respects your privacy and we will only send you the mail for which you opt-in or subscribe.    
 Please do not hesitate to 
 
-[_contact us_](http://www.worldslastchance.com/contact-us)
+[_contact us_](https://www.worldslastchance.com/contact-us)
 
 if you need assistance with opting-out or opting-in to any mail stream. 
 
@@ -52,7 +52,7 @@ if you need assistance with opting-out or opting-in to any mail stream.
 
 #### **How To Contact Us**
 
-Should you have any questions or concerns about the Policy, please send an e-mail to _[abuse@WorldsLastChance.com.](mailto:abuse@WorldsLastChance.com)_
+Should you have any questions or concerns about the Policy, please send an e-mail to _[[email  protected]](https://www.worldslastchance.com/cdn-cgi/l/email-protection#95f4f7e0e6f0d5c2fae7f9f1e6d9f4e6e1d6fdf4fbf6f0bbf6faf8)_
 
 **World's Last Chance ®  |  Sun Terrace House, Golden Rock  |  Liburd's Estate  |  Nevis, Saint Kitts and Nevis  | +1-869-469-3272**
 
