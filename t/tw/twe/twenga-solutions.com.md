@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twenga-solutions.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611055509id_/https%3A//www.twenga-solutions.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenga-solutions.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625190938id_/https%3A//www.twenga-solutions.com/en/privacypolicy) for the most accurate reproduction.*
 
 # E-Commerce Customer Acquisition - Twenga Solutions
 
@@ -17,9 +17,9 @@ The user is informed that all personal data will not be disclosed to third parti
 In accordance with provisions of articles 38 to 40 of the French IT and Liberties law (No.78-17), dated 6th January 1978, you have the right to object. This right can be exercised by:
 
   * sending an email to Twenga Solutions to the following email address [support.merchants@twenga-solutions.com](mailto:support.merchants@twenga-solutions.com)
-  * sending a letter to the following address: Twenga,  
-38 rue du Sentier,  
-75002, Paris, France.
+  * sending a letter to the following address: Twenga SA Chez WeWork,  
+33 Rue La Fayette,  
+75009, Paris, France.
 
 
 
@@ -34,9 +34,9 @@ It is possible to unsubscribe from receiving information sent by Twenga Solution
 In accordance with provisions of articles 38 to 40 of the French IT and Liberties law (No.78-17), dated 6th of January 1978, you have the right to access, modify, rectify and delete any data relating to you. These rights can be exercised by:
 
   * sending an email to Twenga Solutions to the following email address [support.merchants@twenga-solutions.com](mailto:support.merchants@twenga-solutions.com)
-  * sending a letter to the following address: Twenga,  
-38 rue du Sentier,  
-75002, Paris, France.
+  * sending a letter to the following address: Twenga SA Chez WeWork,  
+33 Rue La Fayette,  
+75009, Paris, France.
 
 
 
