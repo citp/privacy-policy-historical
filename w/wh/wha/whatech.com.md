@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatech.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903000217id_/https%3A//www.whatech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatech.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625182907id_/https%3A//www.whatech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WhaTech
 
@@ -31,3 +31,5 @@ Use of information collected**
 
 **  
 We will only record your e-mail address if you send us a message. Your e-mail address will only be used for the purpose for which you have provided it and it will not be added to a mailing list or used for any other purpose without your consent.**
+
+[](mailto:paul.c.hosking@gmail.com?subject=An%20enquiry%20about%20your%20article%20on%20WhaTech&body=Hi%20Paul%20Hosking%2C%0D%0A%0D%0AI%27m%20interested%20in%20finding%20out%20more%20about%20your%20article%20on%20WhaTech%2C%0D%0A%0D%0A%22Privacy%20Policy%22%20from%0D%0Ahttps%3A%2F%2Fwww.whatech.com%2Fprivacy-policy%0D%0A%0D%0A)
