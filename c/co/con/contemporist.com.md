@@ -1,57 +1,108 @@
-> *The following text is extracted and transformed from the contemporist.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206135306id_/http%3A//www.contemporist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contemporist.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625155526id_/http%3A//www.contemporist.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CONTEMPORIST
 
-This privacy policy applies to the use of www.CONTEMPORIST.com.
+CONTEMPORIST (“www.contemporist.com”) is governed by the following Privacy Policy.
 
-We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you of the information we may collect and how it may be used. This statement only applies to this Website.
 
-_Log Files and Cookies_
+* * *
 
-This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally indentifiable information you have submitted while on our site.
+**• Information You Voluntarily Submit to the Website:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
 
-We use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as storing your password for forums or blogs so you do not have to sign in every time you visit those areas, and/or may be used to enable us to track and target the interests of our users so as to enhance the overall experience of using our site.
+**• Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
 
-We have no access to or administration abilities over any cookies that are used by any advertisers on our site.
+**• Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-_Links to Other Websites_
+**• Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
+* * *
 
-_Registration and Use of Personal Information_
+**HOW YOUR INFORMATION MAY BE USED**
 
-Registration is not required in order to use or access this website. However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles.
+We may use the information collected in the following ways:  
+• To operate and maintain the Website;  
+• To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;  
+• To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;  
+• To respond to your comments or inquiries;  
+• To provide you with user support;  
+• To track and measure advertising on the Website; or,  
+• To protect, investigate, and deter against unauthorized or illegal activity.
 
-If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
+* * *
 
-Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.
+**THIRD-PARTY USE OF PERSONAL INFORMATION  
+**  
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), by clicking on the unsubscribe link in any email we send to you or by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line.
+Additionally, the Website may use third-party service providers service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies. The Website currently uses the following third-party service providers:
 
-Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.
+• Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-_Access to Personally Identifiable Information_
+• Google Feedburner – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.
 
-If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
-_Security_
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore as is the case with any organization – we are not in a position to guarantee the absolute security of your information.
+* * *
 
-You may submit any questions you may have about our security procedures by emailing us at dav[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+**ANONYMOUS DATA**
 
-_Links to Other Websites_
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
+* * *
 
-_Legal Disclaimer_
+**COOKIES  
+**  
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
 
-_Contact Details_
+* * *
 
-If you have any questions or concerns regarding this privacy policy, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+**ADVERTISING**
 
-This privacy policy was last updated on July 24th 2012.
+**Display Ads**  
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personally identifiable information is shared with the Website’s ad providers.
+
+**Retargeting Ads**  
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+**Affiliate Program Participation**  
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+CONTEMPORIST is a participant in AWIN and Skimlinks, affiliate advertising programs designed to provide a means for sites to earn advertising fees by advertising. As part of AWIN and Skimlinks, the Website will post customized links, provided by AWIN and Skimlinks, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+* * *
+
+**RIGHTS RELATED TO YOUR PERSONAL INFORMATION  
+**  
+**Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at dave@contemporist.com to be removed from our mailing list.
+
+**Access** – You may access the personal information we have about you by submitting a request to dave@contemporist.com
+
+**Amend** – You may contact us at dave@contemporist.com to amend or update your personal information.
+
+**Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to dave@contemporist.com
+
+Please note that we may need to retain certain information for record-keeping purposes or to complete transactions, or when required by law.
+
+* * *
+
+**SENSITIVE PERSONAL INFORMATION**  
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+* * *
+
+**CHILDREN’S INFORMATION**  
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at dave@contemporist.com and we will use our best efforts to promptly remove such information from our records.
+
+* * *
+
+**CONTACT INFORMATION**  
+At any time, please contact us at dave@contemporist.com for questions related to this Privacy Policy.
+
+Last updated: 23rd of May, 2018
