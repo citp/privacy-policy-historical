@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kirkwood.edu privacy policy that was archived on 2017-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171220021013id_/http%3A//www.kirkwood.edu/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kirkwood.edu privacy policy that was archived on 2018-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626012459id_/http%3A//www.kirkwood.edu/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/transitional.dtd"><html lang="EN"><!--- Template 16 New 2017 header ---><head>
     <title>Kirkwood Community College - Technology Services</title>
@@ -51,58 +51,63 @@
     <script type="text/javascript" src="/includes/jquery.DOMWindow.js"></script>
     <script type="text/javascript">
         $(document).ready(function(){
-            $('.phototour').openDOMWindow({
-                windowSourceURL:URL,
-                height:657,
-                width:600,
-                modal:0,
-                draggable:0,
-                positionType:'centered',
-                positionTop:0,
-                positionLeft:0,
-                eventType:'click',
-                loader:0,
-                loaderImagePath:'../gallery/waiting.gif',
-                loaderHeight:600,
-                loaderWidth:480,
-                overlayOpacity:60,
-                windowSource:'ajax',
-                windowHTTPType:'get' ,
-                windowPaddingTop:0,
-                windowPaddingRight:0,
-                windowPaddingBottom:0,
-                windowPaddingLeft:0,
-                fixedWindowY:0,
-                fadeSpeed:1000,
-                borderColor:'#666666',
-                borderSize:'0'
-            });
-            $('.page_nav_links a[href*="widget.php"]').openDOMWindow({
-                windowSourceURL:URL,
-                height:657,
-                width:600,
-                modal:0,
-                draggable:0,
-                positionType:'centered',
-                positionTop:0,
-                positionLeft:0,
-                eventType:'click',
-                loader:0,
-                loaderImagePath:'../gallery/waiting.gif',
-                loaderHeight:600,
-                loaderWidth:480,
-                overlayOpacity:60,
-                windowSource:'ajax',
-                windowHTTPType:'get' ,
-                windowPaddingTop:0,
-                windowPaddingRight:0,
-                windowPaddingBottom:0,
-                windowPaddingLeft:0,
-                fixedWindowY:0,
-                fadeSpeed:1000,
-                borderColor:'#666666',
-                borderSize:'0'
-            });
+            if($(".phototour").length){
+                $('.phototour').openDOMWindow({
+                    windowSourceURL:URL,
+                    height:657,
+                    width:600,
+                    modal:0,
+                    draggable:0,
+                    positionType:'centered',
+                    positionTop:0,
+                    positionLeft:0,
+                    eventType:'click',
+                    loader:0,
+                    loaderImagePath:'../gallery/waiting.gif',
+                    loaderHeight:600,
+                    loaderWidth:480,
+                    overlayOpacity:60,
+                    windowSource:'ajax',
+                    windowHTTPType:'get' ,
+                    windowPaddingTop:0,
+                    windowPaddingRight:0,
+                    windowPaddingBottom:0,
+                    windowPaddingLeft:0,
+                    fixedWindowY:0,
+                    fadeSpeed:1000,
+                    borderColor:'#666666',
+                    borderSize:'0'
+                });
+            }
+            if($('.page_nav_links a[href*="widget.php"]').length){
+                $('.page_nav_links a[href*="widget.php"]').openDOMWindow({
+                    windowSourceURL:URL,
+                    height:657,
+                    width:600,
+                    modal:0,
+                    draggable:0,
+                    positionType:'centered',
+                    positionTop:0,
+                    positionLeft:0,
+                    eventType:'click',
+                    loader:0,
+                    loaderImagePath:'../gallery/waiting.gif',
+                    loaderHeight:600,
+                    loaderWidth:480,
+                    overlayOpacity:60,
+                    windowSource:'ajax',
+                    windowHTTPType:'get' ,
+                    windowPaddingTop:0,
+                    windowPaddingRight:0,
+                    windowPaddingBottom:0,
+                    windowPaddingLeft:0,
+                    fixedWindowY:0,
+                    fadeSpeed:1000,
+                    borderColor:'#666666',
+                    borderSize:'0'
+                });
+            }
+
         });
     </script>
     
@@ -136,7 +141,7 @@
             display:inline;
             position:relative;
             float:right;
-            width:189px;
+            width:230xp;
             padding:0 0 0 0;
             margin:6.4px 0px 10px 0;
         }
@@ -272,11 +277,13 @@
     <div id="top-right-wrapper">
         <div id="top-right-nav">
             <ul>
+                <li class="top-nav-list"><a href="https://hub.kirkwood.edu/">MyHub</a></li>
+                <li class="top-nav-list">•</li>
                 <li class="top-nav-list"><a href="https://eaglenet.kirkwood.edu">EagleNet</a></li>
                 <li class="top-nav-list">•</li>
-                <li class="top-nav-list"><a href="/talon">Talon</a></li>
+                <li class="top-nav-list"><a href="https://talon.kirkwood.edu/d2l/lp/auth/saml/login">Talon</a></li>
                 <li class="top-nav-list">•</li>
-                <li class="top-nav-list"><a href="/email">Student Email</a></li>
+                <li class="top-nav-list"><a href="https://outlook.com/owa/saml2.kirkwood.edu">Student Email</a></li>
             </ul>
         </div>
         <div id="top-right-search">
@@ -366,6 +373,10 @@ At no time do we disclose PII except under the following conditions:
 	<li>When required to do so by subpoenas, court orders, or any other legal process</li>
 </ul>
 
+<h3>Students who are citizens of EU Countries</h3>
+
+<p>Kirkwood follows the GDPR rules to the extent that they do not conflict with State or Federal rules.</p>
+
 <h3>Disclaimer</h3>
 Kirkwood may provide links to other websites of interest in order to provide services for its users.&nbsp; Kirkwood is not responsible for the content and privacy practices of these websites.&nbsp; The use of such linked sites is subject to the privacy statements and use requirements of each respective site; please check each site for its respective privacy policy.
 
@@ -373,7 +384,9 @@ Kirkwood may provide links to other websites of interest in order to provide ser
 Periodically, this privacy statement may be updated to accommodate changes to our information security program or web environment.
 
 <h3>Questions/Comments</h3>
-If you have any questions or comments about our stance and approach to Privacy, you may send us an email <a href="mailto:ask@kirkwood.edu">ask@kirkwood.edu</a>
+If you have any questions or comments about our stance and approach to Privacy, you may send us an email <a href="mailto:privacy@kirkwood.edu">privacy@kirkwood.edu</a><br>
+<br>
+<span style="color:#999999;"><span style="font-size:10px;">last revision date: 05/24/2018</span></span>
        </div>
      </td>
   </tr>
@@ -391,13 +404,13 @@ If you have any questions or comments about our stance and approach to Privacy, 
 
 <div id="section1" class="footer_section">
 <ul class="footer_list">
-<li><b>Students</b></li>
-<li><a href="http://www.kirkwood.edu/apply" target="">APPLY NOW</a></li>
-<li><a href="http://www.kirkwood.edu/academics" target="">Academic Programs</a></li>
-<li><a href="http://www.kirkwood.edu/admissions" target="">Admissions</a></li>
-<li><a href="https://bookstore.kirkwood.edu" target="">Bookstore/EagleTech</a></li>
-<li><a href="http://www.kirkwood.edu/registration" target="">Class Registration</a></li>
-<li><a href="http://www.kirkwood.edu/students" target="">Current Students</a></li>
+<li><b>INFORMATION</b></li>
+<li><a href="https://www.kirkwood.edu/maincampus" target="">Maps</a></li>
+<li><a href="https://www.kirkwood.edu/locations" target="">Locations</a></li>
+<li><a href="https://www.kirkwood.edu/directory" target="">Campus Directory</a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
@@ -419,11 +432,11 @@ If you have any questions or comments about our stance and approach to Privacy, 
 
 <ul class="footer_list">
 <li>&nbsp;</li>
-<li><a href="http://www.kirkwood.edu/financialaid" target="">Financial Aid</a></li>
+<li><a href="https://www.kirkwood.edu/financialaid" target="">Tuition &amp; Financial Aid</a></li>
+<li><a href="https://shop.kirkwood.edu" target="_blank">Bookstore/EagleTech</a></li>
 <li><a href="http://www.kirkwood.edu/library" target="">Library</a></li>
-<li><a href="http://www.kirkwood.edu/scholarships" target="">Scholarships</a></li>
-<li><a href="http://www.kirkwood.edu/transcript" target="">Transcripts</a></li>
-<li><a href="http://www.kirkwood.edu/students" target="">More</a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
@@ -446,16 +459,16 @@ If you have any questions or comments about our stance and approach to Privacy, 
 <div id="section3" class="footer_section">
 
 <ul class="footer_list">
-<li><b>Community</b></li>
-<li><a href="http://www.kirkwood.edu/alumni" target="_blank">Alumni and Friends</a></li>
-<li><a href="http://www.kirkwood.edu/righttoknow" target="">Consumer Information</a></li>
-<li><a href="http://www.kirkwood.edu/ce" target="">Continuing Education</a></li>
-<li><a href="http://www.kirkwood.edu/employment" target="">Employment and HR</a></li>
-<li><a href="http://www.kirkwood.edu/facilityrental" target="">Facility Rentals</a></li>
-<li><a href="http://www.kirkwood.edu/foundation" target="">Giving to Kirkwood</a></li>
-<li><a href="http://www.kirkwood.edu/simcenter" target="">Healthcare Sim Center</a></li>
-<li><a href="http://www.heritageaaa.org" target="">The Heritage Agency</a></li>
-<li><a href="http://www.kirkwood.edu/skillstoemployment" target="">Income-Qualified Programs</a></li>
+<li>&nbsp;</li>
+<li><a href="https://www.kirkwood.edu/employment" target="">Jobs@Kirkwood</a></li>
+<li><a href="https://www.kirkwood.edu/calendar" target="">Calendar</a></li>
+<li><a href="https://www.kirkwood.edu/inforequest" target="">Request Information</a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
@@ -473,15 +486,15 @@ If you have any questions or comments about our stance and approach to Privacy, 
 <div id="section4" class="footer_section">
 
 <ul class="footer_list">
-<li>&nbsp;</li>
-<li><a href="http://www.iowaequestrian.com" target="_blank">Iowa Equestrian Center</a></li>
-<li><a href="https://www.kcck.org" target="_blank">KCCK</a></li>
-<li><a href="http://www.kirkwood.edu/news" target="">News and Events</a></li>
-<li><a href="http://www.kirkwood.edu/eagleeye" target="_blank">Parents</a></li>
-<li><a href="http://www.collegecentral.com/kirkwood" target="_blank">Post a Job</a></li>
-<li><a href="http://www.thehotelatkirkwood.com" target="">The Hotel at Kirkwood Center</a></li>
-<li><a href="http://www.kirkwood.edu/ktos" target="">Workforce Development</a></li>
-<li><a href="http://www.kirkwood.edu/wplc" target="">Workplace Learning Connection</a></li>
+<li><b>KIRKWOOD PARTNERS</b></li>
+<li><a href="https://www.kirkwood.edu/simcenter" target="">Healthcare Sim Center</a></li>
+<li><a href="https://www.kirkwood.edu/skillstoemployment" target="">IowaWORKS</a></li>
+<li><a href="http://www.iowaequestrian.com/home/" target="_blank">Iowa Equestrian Center</a></li>
+<li><a href="https://www.kcck.org/" target="_blank">KCCK 88.3 FM</a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
@@ -500,16 +513,16 @@ If you have any questions or comments about our stance and approach to Privacy, 
 <div id="section5" class="footer_section">
 
 <ul class="footer_list">
-<li><b>About Us</b></li>
-<li><a href="http://www.kirkwood.edu/azindex" target="">A-Z Index</a></li>
-<li><a href="http://www.kirkwood.edu/calendar" target="">Calendar</a></li>
-<li><a href="http://www.kirkwood.edu/directory" target="">Campus Directory</a></li>
-<li><a href="http://www.kirkwood.edu/security" target="">Campus Security</a></li>
-<li><a href="http://www.kirkwood.edu/tgif" target="">Campus Visit</a></li>
-<li><a href="http://www.kirkwood.edu/faculty" target="">Faculty Index</a></li>
-<li><a href="http://www.kirkwood.edu/locations" target="">Locations</a></li>
-<li><a href="http://www.kirkwood.edu/webcam" target="">Webcam</a></li>
-<li><a href="http://www.kirkwood.edu/maincampus" target="">Maps/Directions</a></li>
+<li>&nbsp;</li>
+<li><a href="http://heritageaaa.org/" target="">The Heritage Agency</a></li>
+<li><a href="https://thehotelatkirkwood.com" target="_blank">The Hotel at Kirkwood</a></li>
+<li><a href="https://www.kirkwood.edu/wplc" target="">Workplace Learning Connection</a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
+<li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
 <li><a href="" target=""></a></li>
@@ -528,34 +541,21 @@ If you have any questions or comments about our stance and approach to Privacy, 
 <div id="section6" class="footer_section_icon">
 
 <ul class="footer_list_icon">
-	<li><b>Connect With Us</b></li>
 	<li>
-<a href="https://www.kirkwood.edu/site/index.php?p=32019" target="_blank">Parent Newsletter Signup </a>
-	</li>
-	<li>
-		<a href="http://www.kirkwood.edu/getsocial">Social Media Directory</a>
-	</li>
-	<li>
-	<div id="footer_icons">
+	<div id="footer_icons" style="padding-right: 2px;">
 		
-<a class="rollover16" href="http://www.facebook.com/kirkwoodcommunitycollege" target="_blank" style="background-image:url('/images/homepage/icons/facebook.png');">Facebook</a> 
+<a class="rollover16" href="https://www.facebook.com/kirkwoodcommunitycollege" target="_blank" style="background-image:url('/images/homepage/icons/facebook.png');">Facebook</a> 
 		
-<a class="rollover16" href="http://twitter.com/kirkwoodcc" target="_blank" style="background-image:url('/images/homepage/icons/twitter.png');">Twitter</a> 
+<a class="rollover16" href="https://twitter.com/kirkwoodcc" target="_blank" style="background-image:url('/images/homepage/icons/twitter.png');">Twitter</a> 
 		
-<a class="rollover16" href="http://www.instagram.com/kirkwoodlife" target="_blank" style="background-image:url('/images/homepage/icons/instagram.png');">Instagram</a> 
+<a class="rollover16" href="https://www.instagram.com/kirkwoodlife" target="_blank" style="background-image:url('/images/homepage/icons/instagram.png');">Instagram</a> 
 		
-<a class="rollover16" href="http://www.youtube.com/kirkwoodcommcollege" target="_blank" style="background-image:url('/images/homepage/icons/youtube.png');">Youtube</a> 
-
-<a class="rollover16" href="http://pinterest.com/kirkwoodcollege/" target="_blank" style="background-image:url('/images/homepage/icons/pinterest.png');">Pinterest</a> 
+<a class="rollover16" href="https://www.youtube.com/kirkwoodcommcollege" target="_blank" style="background-image:url('/images/homepage/icons/youtube.png');">Youtube</a> 
 		 
-<a class="rollover16" href="http://www.linkedin.com/company/kirkwood-community-college" target="_blank" style="background-image:url('/images/homepage/icons/linkedin.png');">linkedin</a> 
+<a class="rollover16" href="https://www.linkedin.com/company/kirkwood-community-college" target="_blank" style="background-image:url('/images/homepage/icons/linkedin.png');">linkedin</a> 
 
-<a class="rollover16" href="http://www.kirkwood.edu/itunes" target="_blank" style="background-image:url('/images/homepage/icons/itunesu.png');">iTunesU</a> 
+<a class="rollover16" href="https://www.kirkwood.edu/itunes" target="_blank" style="background-image:url('/images/homepage/icons/itunesu.png');">iTunesU</a> 
 	</div>
-	</li>
-	<li>	
-<a href="http://www.kirkwood.edu/directory">
-<img alt="call us" src="/images/callus1.png"></a>
 	</li>
 </ul><!--
 <ul class="footer_list_icon">
@@ -583,7 +583,7 @@ If you have any questions or comments about our stance and approach to Privacy, 
 </div><!--END FOOTER WRAPPER-->
 <div id="footer_bottom" class="footer_bottom">
 <ul class="footer_bottom_list">
-  <li>©2017 </li>
+  <li>©2018 </li>
   <li>|</li>
   <li>Kirkwood Community College </li>
   <li>|</li>
@@ -591,11 +591,20 @@ If you have any questions or comments about our stance and approach to Privacy, 
   <li>|</li>
   <li>Cedar Rapids, Iowa 52404 </li>
   <li>|</li>
+  <li><a href="tel:+3193985517">319-398-5411</a></li>
+</ul>
+
+<p></p>
+
+<ul class="footer_bottom_list">
   <li><a href="/privacypolicy">Privacy Policy</a></li>
   <li>|</li>
-  <li><a href="mailto:ask@kirkwood.edu">Email Us</a></li>
-</ul>
-     </div><!--END GLOBAL FOOTER-->
+  <li><a href="/righttoknow">Consumer Information</a></li>
+  <li>|</li>
+  <li><a href="/eeo">Nondiscrimination Statement</a></li>
+  <li>|</li>
+  <li><a href="/security">Campus Security</a></li>
+</ul></div><!--END GLOBAL FOOTER-->
 </div><!--END MAIN FOOTER -->
 </div> <!-- end footer div -->
 
