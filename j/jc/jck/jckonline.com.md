@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jckonline.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925142713id_/http%3A//www.jckonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jckonline.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625163828id_/https%3A//www.jckonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – JCK
+# Privacy Policy - JCK
 
 _The effective date of this policy as posted is May  2010._
 
