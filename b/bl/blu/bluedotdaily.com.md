@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluedotdaily.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830045454id_/http%3A//www.bluedotdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluedotdaily.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625184903id_/http%3A//www.bluedotdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlueDot Daily
 
@@ -26,6 +26,11 @@ Cookies
 Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
 
 3rd party advertising companies may also use cookies for tracking purposes.
+
+We use third-party advertising companies to serve ads when you visit our website or use our apps. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
+
+How to opt out  
+<http://optout.networkadvertising.org/#!/>
 
 Google Ads  
 Google, as a third party vendor, uses cookies to serve ads.
