@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the devour.com privacy policy that was archived on 2017-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171228002103id_/https%3A//uncrate.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the devour.com privacy policy that was archived on 2018-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625162228id_/https%3A//uncrate.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -8,25 +8,34 @@
 <meta name="robots" content="NOODP">
 <meta name="description" content="Privacy Policy The policies below are applicable to Uncrate.com. Any questions or comments you may have regarding this privacy policy, contact Zombiecorp. Zombiecorp respects each...">
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta name="apple-itunes-app" content="app-id=450084793">
 <meta name="referrer" content="always">
 
 
   <link rel="stylesheet" type="text/css" href="//cloud.typography.com/81102/691166/css/fonts.css">
-<link rel="stylesheet" type="text/css" href="/css/style.css?v=6.2.5">
-<link rel="stylesheet" type="text/css" href="/css/cart.css?v=6.2.5"> 
+<link rel="stylesheet" type="text/css" href="/css/min.css?v=105">
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="https://feeds.feedburner.com/uncrate">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="//sdks.shopifycdn.com/js-buy-sdk/latest/shopify-buy.polyfilled.globals.min.js"></script>
-<script type="text/javascript">var blogURL = 'https://uncrate.com/';</script>
 
-<script type="text/javascript" src="/js/min.js?v=5.3.24"></script>
-<script type="text/javascript" src="/js/stash-counts.js?v=1514420400"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/core-min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/components/md5.js"></script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-255873-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-255873-1',{
+    'linker': {
+      'domains': ['uncrate.com', 'uncrate.supply']
+    }
+  });
+  gtag('config', 'AW-823227480');
+  var showRect = true;
+  
+  
+</script>
+
 <script type="text/javascript">
 function getParameterByName(name) {
     name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
@@ -35,10 +44,13 @@ function getParameterByName(name) {
     return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }
 
+  if (typeof showRect === 'undefined') {
+      var showRect = true;
+  }
+
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
   var adBasenames = [];
-  // adBasenames.push("bakka_bakka"); // REMOVE THIS WHEN GOING LIVE !!!!!!!
   var leadBasename = [];
   (function() {
     var gads = document.createElement('script');
@@ -50,64 +62,19 @@ function getParameterByName(name) {
     var node = document.getElementsByTagName('script')[0];
     node.parentNode.insertBefore(gads, node);
   })();
-
-
-        var i,w=window, 
-            location_path = w.location.pathname.split('/'),
-            urlTargeting = {
-                domain: w.location.hostname,
-                section: null,
-                directory: null,
-                furl: null,
-                surl:null,
-                adtest:null
-            };
-        for (i = 0; i < location_path.length; i++) {
-            if (location_path[i] == '') {
-                location_path.splice(i, 1);
-                i--;
-            }
-        }
-        for (i = 0; i < location_path.length; i++) {
-            switch (i) {
-                case 0:
-                    urlTargeting.section = location_path[i];
-                    break;
-                case location_path.length - 1:
-                    urlTargeting.directory = location_path[i];
-                    break;
-                default:
-                    continue;
-            }
-        }
-        urlTargeting.adtest=getParameterByName('adtest');   
-        urlTargeting.furl=w.location.toString();
-        var url_partz=urlTargeting.furl.split("?"); 
-        var hash=CryptoJS.MD5(url_partz[0]);
-        urlTargeting.surl=hash.toString();
-        
-        
-
         googletag.cmd.push(function() {
             var mapping = googletag.sizeMapping().
               addSize([0, 0], []).
               addSize([1050, 200], [970, 250]). // Desktop
               build();
-          
-            googletag.defineSlot('/1014223/Uncrate-300x250', [300, 250], 'lead-story-rectangle').addService(googletag.pubads());
+            // console.log("sr",showRect);
+            if ( showRect ) {
+              googletag.defineSlot('/1014223/Uncrate-300x250', [300, 250], 'lead-story-rectangle').addService(googletag.pubads());
+            }
             googletag.defineSlot('/1014223/Uncrate-970x250_row2', [[970, 90], [970, 250]], 'leaderboard').defineSizeMapping(mapping).addService(googletag.pubads());
             googletag.defineSlot('/1014223/Uncrate-970x250', [970, 250], 'billboard').defineSizeMapping(mapping).addService(googletag.pubads());
             googletag.defineSlot('/1014223/Uncrate-728x90-roadblock', [728, 90], 'leaderboard-roadblock').addService(googletag.pubads());
             googletag.defineSlot('/1014223/Uncrate-300x250-roadblock', [300, 250], 'lead-story-rectangle-roadblock').addService(googletag.pubads());
-
-            googletag.pubads().setTargeting('domain', urlTargeting.domain);
-            googletag.pubads().setTargeting('furl', urlTargeting.furl);
-            googletag.pubads().setTargeting('surl', urlTargeting.surl);
-            googletag.pubads().setTargeting('ad_basenames', ['bakka_bakka']);
-
-            if (urlTargeting.section) googletag.pubads().setTargeting('section', urlTargeting.section);
-            if (urlTargeting.directory) googletag.pubads().setTargeting('directory', urlTargeting.directory);
-            if (urlTargeting.adtest) googletag.pubads().setTargeting('adtest', urlTargeting.adtest);
             googletag.pubads().enableSingleRequest(); 
             googletag.pubads().collapseEmptyDivs();
             googletag.pubads().disableInitialLoad();
@@ -120,14 +87,15 @@ function getParameterByName(name) {
 
 </head>
 
-<body>
+
+  <body>
 
  <div class="site-wrapper">
 
-  <div id="fixed-header" class="animated">
+  <div id="mobile-header" class="animated">
     <div class="grid">
-      <a href="#" id="mobile-nav-toggle"><span></span></a>
-      <a id="fixed-header-logo" href="https://uncrate.com/" title="Uncrate"><img src="//uncrate.com/img/fixed-header-logo.png" alt=""></a>
+      <a href="#" id="mobile-nav-toggle"><span></span><sup class="badge badge-mobile">&nbsp;</sup></a>
+      <a id="fixed-header-logo" href="https://uncrate.com/" title="Uncrate"><img src="//uncrate.com/img/fixed-header-logo.png?ver=040818" alt=""></a>
       <ul id="fixed-nav" class="nav">
         <li><a href="https://uncrate.com/gear/">Gear</a></li>
         <li><a href="https://uncrate.com/style/">Style</a></li>
@@ -137,7 +105,6 @@ function getParameterByName(name) {
         <li><a href="https://uncrate.com/vices/">Vices</a></li>
         <li><a href="https://uncrate.com/body/">Body</a></li>
         <li><a href="https://uncrate.com/etc/">Etc</a></li>
-        <li><a href="https://uncrate.com/tv/">Videos</a></li>
       </ul>
 
       <a id="cart-icon-link-fixed" href="https://store.uncrate.com/cart">
@@ -145,6 +112,11 @@ function getParameterByName(name) {
       </a><!-- // cart-icon-link -->
 
       <a class="search remove" id="search-toggle-sticky" href="https://uncrate.com/search/">Search</a>
+
+      <a id="cart-icon-link-fixed" class="btn--crate-tab js-prevent-cart-listener js-active">
+        <span class="btn__counter badge" data-count="0">0</span>
+      </a>
+
     </div>
   </div>
 
@@ -153,29 +125,112 @@ function getParameterByName(name) {
 
   <div class="wrapper header-wrapper">
     <div class="header grid">
-      <div class="wrapper date-social-wrapper">
-        <div class="date-nav full">
-        </div>
-        <div class="social-nav">
-          <ul class="nav">
-          </ul>
-        </div>
+
+  <div id="fixed-header" class="animated">
+    <div class="wrapper uncrate-family-wrapper slim-family-wrapper">
+      <div class="grid">
+        <div class="date-nav family-nav">
+            <ul class="nav">
+              <li class="pull-left dropdown">
+                <a href="/"><img src="/img/uncrate-family.png" alt="Uncrate" class="slim-family-logo"></a>
+              </li>
+              <li class="fixed-center-nav-item">
+                </li><li class="center-nav-item">
+                  <a href="https://uncrate.com">Uncrate<span class="dot">.</span>com&nbsp;<sup id="uncrate-badge-count" class="uncrate-badge-count badge" data-count="0">0</sup></a>
+                </li>
+                <li class="center-nav-item">
+                  <a href="https://uncrate.com/supply/">Uncrate<span class="dot">.</span>supply&nbsp;<sup id="supply-badge-count" class="supply-badge-count badge" data-count="0">0</sup></a>
+                </li> 
+                <li class="center-nav-item">
+                  <a href="https://uncrate.com/tv/">Uncrate<span class="dot">.</span>tv&nbsp;<sup id="tv-badge-count" class="tv-badge-count badge" data-count="0">0</sup></a>
+                </li>
+                <li class="center-nav-item dropdown">
+                  <a class="dropdown-toggle"><span class="atsign">@</span>uncrate</a>
+                    <ul class="dropdown-menu" style="display: none;">
+                      <li><a href="http://www.instagram.com/uncrate">Instagram</a></li>                  
+                      <li><a href="http://www.twitter.com/uncrate">Twitter</a></li>
+                      <li><a href="http://www.youtube.com/uncrate">Youtube</a></li>
+                      <li><a href="http://www.facebook.com/uncrate">Facebook</a></li>
+                      <li><a href="http://uncrate.tumblr.com">Tumblr</a></li>
+                    </ul>   
+                </li>
+              
+              <li class="pull-right">
+                <a class="search remove" id="search-toggle-sticky" href="https://uncrate.com/search/">Search</a>
+                
+                <!-- Begin Uncrate Supply change -->
+                <a id="cart-icon-link-fixed" class="btn--crate-tab js-prevent-cart-listener js-active">
+                  <span class="btn__counter badge" data-count="0"></span>
+                </a>   
+                <!-- End Uncrate Supply change -->   
+              </li>         
+            </ul>
+          </div>
       </div>
-      <a class="logo" href="https://uncrate.com/">
+    </div>
+  </div>
+
+      <div class="wrapper uncrate-family-wrapper">
+          <div class="date-nav family-nav">
+            <ul class="nav">
+              <li class="pull-left dropdown">
+              <a class="dropdown-toggle"><span>Follow:</span> <span class="atsign">@</span>uncrate <span class="dd-arrow">▾</span>
+                </a><ul class="dropdown-menu"><a class="dropdown-toggle">
+                  </a><li><a class="dropdown-toggle"></a><a href="http://www.instagram.com/uncrate">Instagram</a></li>                  
+                  <li><a href="http://www.twitter.com/uncrate">Twitter</a></li>
+                  <li><a href="http://www.youtube.com/uncrate">Youtube</a></li>
+                  <li><a href="http://www.facebook.com/uncrate">Facebook</a></li>
+                  <li><a href="http://uncrate.tumblr.com">Tumblr</a></li>
+                </ul> 
+              </li>
+              <li class="center-nav-item">
+                <a href="https://uncrate.com">Uncrate<span class="dot">.</span>com&nbsp;<sup id="uncrate-badge-count" class="uncrate-badge-count badge" data-count="0">0</sup></a>
+              </li>
+              <li class="center-nav-item">
+                <a href="https://uncrate.com/supply/">Uncrate<span class="dot">.</span>supply&nbsp;<sup id="supply-badge-count" class="supply-badge-count badge" data-count="0">0</sup></a>
+              </li> 
+              <li class="center-nav-item">
+                <a href="https://uncrate.com/tv/">Uncrate<span class="dot">.</span>tv&nbsp;<sup id="tv-badge-count" class="tv-badge-count badge" data-count="0">0</sup></a>
+                
+              </li>
+              <li class="pull-right dropdown">
+                <a href="/" class="dropdown-toggle"><span>Language:</span> English <span class="dd-arrow">▾</span>
+                </a><ul class="dropdown-menu"><a href="/" class="dropdown-toggle">
+                  </a><li><a href="/" class="dropdown-toggle"></a><a href="/es/">Español</a></li>
+                  <li><a href="/fr/">Français</a></li>
+                  <li><a href="/de/">Deutsche</a></li>
+                  <li><a href="/jp/">日本語</a></li>
+                  <li><a href="/cn/">中文</a></li>
+                </ul>
+              </li>         
+            </ul>
+          </div>
+        </div>
+
+
+      <a class="logo family-logo" href="https://uncrate.com/">
         
-          <img src="//uncrate.com/img/uncrate.png" srcset="//uncrate.com/img/uncrate.png 1x, //uncrate.com/img/uncrate@2x.png 2x" alt="Uncrate">
+
+
+
+
+          <img src="//uncrate.com/img/uncrate.png?ver=040818" srcset="//uncrate.com/img/uncrate.png?ver=040818 1x, //uncrate.com/img/uncrate@2x.png?ver=040818 2x" alt="Uncrate">
+
         
       </a>
-      <div class="search-nav" id="search-nav">
-        <a id="search-toggle" href="https://uncrate.com/search/">Search</a>
-      </div>
 
-     <a id="cart-icon-link" href="https://store.uncrate.com/cart">
-        <img src="//uncrate.com/img/shopify/cart.png" style="width:22px;height:auto;" alt="Visit Cart">
-     </a><!-- // cart-icon-link -->
+
+
+        <div class="supply-icons">
+          <a id="search-toggle" href="https://uncrate.com/search/">Search</a>
+          <a id="cart-icon-link" class="btn--crate-tab js-prevent-cart-listener">
+            <span class="btn__counter badge" data-count="0"></span>
+          </a>
+        </div>
 
     </div>
   </div>
+
   <div class="wrapper navigation-wrapper">
     <div class="navigation grid">
       <div class="main-nav full" id="main-nav">
@@ -188,7 +243,6 @@ function getParameterByName(name) {
           <li><a href="https://uncrate.com/vices/">Vices</a></li>
           <li><a href="https://uncrate.com/body/">Body</a></li>
           <li><a href="https://uncrate.com/etc/">Etc</a></li>
-          <li><a href="https://uncrate.com/tv/">Videos</a></li>
         </ul>
       </div>
       <div class="sub-nav full" id="sub-nav">
@@ -198,10 +252,8 @@ function getParameterByName(name) {
 <li><a href="http://un.cr/appleapp" target="_blank">iPhone App</a></li>
 <li><a href="http://un.cr/androidapp" target="_blank">Android App</a></li>
 <li><a href="https://uncrate.com/wanted/">Most Wanted</a></li>
-<li><a href="https://uncrate.com/random/">Random Thing</a></li>
-<li><a href="https://uncrate.com/enlist/">Enlist</a></li>
-<li><a href="https://instagram.com/uncrate" target="_blank">Instacrate</a></li>
-<li><a href="https://uncrate.com/about/stash/" id="stash-nav">Members</a></li>
+<li><a href="https://uncrate.com/enlist/">Black List</a></li>
+<li><a href="https://uncrate.com/about/stash/" id="stash-nav">Stash</a></li>
 
   
 
@@ -210,6 +262,14 @@ function getParameterByName(name) {
       </div>
     </div>
   </div>
+
+
+
+
+
+
+
+
 		
 
 
@@ -264,7 +324,6 @@ function getParameterByName(name) {
           </form>
           
           </div>
-          <script type="text/javascript" src="/js/mc-validate.js"></script>
         </div>
       </div>
 
@@ -399,7 +458,7 @@ function getParameterByName(name) {
 
     <div class="copyright">
       <div class="footer-logo"><img src="//uncrate.com/img/footer-uncrate-logo.png"></div>
-      <p role="contentinfo">© 2017 
+      <p role="contentinfo">© 2018 
         Uncrate LLC. All rights reserved. <br>Independently published since 2005.</p>
     </div>
 
@@ -408,49 +467,97 @@ function getParameterByName(name) {
 
 
 
-<div id="mobile-nav-wrapper" class="animated">
-<ul id="mobile-nav">
-  <li><a href="https://uncrate.com/">Newest</a></li>
-  <li><a href="https://uncrate.com/wanted/">Popular</a></li>
-  <li><a href="https://uncrate.com/about/stash/" class="stash-nav">Members</a></li>
-  <li class="spacer-li"><span></span></li>
+
+
+
+  <div id="mobile-nav-wrapper" class="animated">
+<ul id="mobile-nav" class="family-mobile-nav">
+  <li class="block"><a href="https://uncrate.com/">uncrate.com&nbsp;<sup class="uncrate-badge-count badge" data-count="0">0</sup></a></li>
+  <li><a href="https://uncrate.com/">Latest</a></li>
+  <li><a href="https://uncrate.com/wanted/">Most Wanted</a></li>
+  <li><a href="https://uncrate.com/about/stash/" class="stash-nav">Stash</a></li>
   <li><a href="https://uncrate.com/gear/">Gear</a></li>
   <li><a href="https://uncrate.com/style/">Style</a></li>
   <li><a href="https://uncrate.com/cars/">Cars</a></li>
   <li><a href="https://uncrate.com/tech/">Tech</a></li>
   <li><a href="https://uncrate.com/shelter/">Shelter</a></li>
   <li><a href="https://uncrate.com/vices/">Vices</a></li>
-  <li><a href="https://uncrate.com/travel/">Travel</a></li>
   <li><a href="https://uncrate.com/body/">Body</a></li>
-  <li><a href="https://uncrate.com/etc/">ETC</a></li>
+  <li><a href="https://uncrate.com/etc/">Etc</a></li>
   <li class="spacer-li"><span></span></li>
-  <li><a href="/magazine/">Magazine</a></li>
-  <li><a href="https://appstore.com/uncrate" target="_blank">App</a></li>
-  <li><a href="https://uncrate.com/enlist/">Dispatch</a></li>
-  <li><a href="https://instagram.com/uncrate" target="_blank">Instacrate</a></li>
-</ul><!-- mobile-nav -->
+  
+  
+  <li class="block"><a href="https://uncrate.com/supply/">uncrate.supply&nbsp;<sup class="supply-badge-count badge" data-count="0">0</sup></a></li> 
+  <li><a href="https://uncrate.com/supply/">New Arrivals</a></li>
+  <li><a href="https://uncrate.com/supply/audio-gadgets/">Audio &amp; Gadgets</a></li>
+  <li><a href="https://uncrate.com/supply/watches/">Watches</a></li>
+  <li><a href="https://uncrate.com/supply/gear-tools/">Gear &amp; Tools</a></li>
+  <li><a href="https://uncrate.com/supply/apparel/">Apparel</a></li>
+  <li><a href="https://uncrate.com/supply/bags-wallets/">Bags &amp; Wallets</a></li>
+  <li><a href="https://uncrate.com/supply/grooming/">Grooming</a></li>
+  <li><a href="https://uncrate.com/supply/odds-ends/">Odds &amp; Ends</a></li>
+  <li><a href="https://uncrate.com/supply/surplus/" class="surplus">Surplus</a></li>
+
+  <li><a href="https://uncrate.com/supply/shipping/#returns">Returns</a></li>
+  <li><a href="https://uncrate.com/supply/shipping/">Order Status</a></li>
+  <li><a href="#" data-email="service">Help</a></li>    
+
+  <li class="spacer-li"><span></span></li>
+  <li class="block"><a href="https://uncrate.com/tv/">uncrate.tv&nbsp;<sup class="tv-badge-count badge" data-count="0">0</sup></a></li>
+  <li><a href="https://uncrate.com/tv/">Latest Videos</a></li>  
+  <li><a href="https://uncrate.com/tv/popular/">Popular Videos</a></li>
+  <li><a href="https://uncrate.com/tv/channels/">Video Channels</a></li>
+  <li><a href="https://uncrate.com/tv/random">Random</a></li>
+
+
+
+        </ul>
+<!-- mobile-nav -->
 </div><!-- mobile-nav-wrapper -->
+
+<style>
+#mobile-nav.family-mobile-nav {  
+  padding: 80px 40px
+}
+#mobile-nav.family-mobile-nav li {
+  display: inline;
+}
+
+#mobile-nav.family-mobile-nav li a {
+ text-transform: uppercase; 
+ font-family: Helvetica, Sans-serif;
+ font-size: 12px;
+ font-weight: bold;
+ padding: 0 10px;
+ letter-spacing: initial;
+ white-space: nowrap;
+} 
+
+#mobile-nav.family-mobile-nav li.block,
+#mobile-nav.family-mobile-nav li.spacer-li {
+  display: block;
+}
+#mobile-nav.family-mobile-nav li.block a {
+  font-family:'Knockout 48 A','Knockout 48 B',"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:26px;
+  letter-spacing: 1px;
+  padding: 0;
+}
+ 
+</style>
 
 
  </div><!-- .site-wrapper -->
 
 
-<script type="text/javascript">
-  googletag.cmd.push(function() {
-    googletag.pubads().setTargeting('ad_basenames', adBasenames);
-    googletag.pubads().setTargeting('lead_basename', leadBasename);
-    googletag.pubads().refresh();
-  });
-</script>
-
-<script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>
-
-  <!-- .cart begin -->
+<!-- .cart begin -->
 <div class="cart">
 
   <!-- .cart-section begin // cart header -->
   <div class="cart-section cart-section--top">
-    <h2 class="cart-title">Your cart</h2>
+    <strong class="cart-title">Your crate</strong>
     <a class="btn--close">
       <span aria-role="hidden">×</span>
       <span class="visuallyhidden">Close</span>
@@ -476,7 +583,6 @@ function getParameterByName(name) {
   				<p class="cart-fine-print">
   						Free ground shipping in the U.S.
   						<br> International rates at checkout.
-  						<br><a href="https://uncrate.com/supply/shipping/" target="_blank">Returns &amp; Refunds</a>
   				</p>
   		</div>
   		<!-- .cart-bottom end -->
@@ -521,9 +627,34 @@ function getParameterByName(name) {
 
 
 
+
+
+  <script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="//sdks.shopifycdn.com/js-buy-sdk/latest/shopify-buy.polyfilled.globals.min.js"></script>
+<script type="text/javascript">var blogURL = 'https://uncrate.com/';</script>
+<script type="text/javascript">
+  var badges = {"now":1529943749,"uncrate":[1529942744,1529938800,1529877600,1529866800,1529791201,1529780446,1529700300,1529697603,1529694029,1529690421],"tv":[1529938027,1529935098,1529932650,1529698975,1529693739,1529691479,1529681956,1529674323,1529623420,1529613582],"supply":[1529688600,1529524801,1529510441,1529442015,1529429401,1529353823,1529343003,1529078401,1529010002,1529004641]}</script>
+<script type="text/javascript" src="/js/min.js?v=62"></script>
+
+
+
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.pubads().setTargeting('ad_basenames', adBasenames);
+    googletag.pubads().setTargeting('lead_basename', leadBasename);
+    googletag.pubads().refresh();
+  });
+</script>
+
+
+
+
+
+
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-<script type="text/javascript" src="//s.skimresources.com/js/54000X1299460.skimlinks.js"></script>
+
 
 <!-- Quantcast Tag -->
 <script type="text/javascript">
@@ -550,16 +681,6 @@ qacct:"p-92CBSYgectFl6"
 </noscript>
 <!-- End Quantcast tag -->
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-255873-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
 
 
 </body></html>
