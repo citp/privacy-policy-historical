@@ -1,9 +1,13 @@
-<!--The following is the downloaded HTML source of the beeducated.pk privacy policy that was archived on 2017-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171218030654id_/http%3A//www.beeducated.pk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beeducated.pk privacy policy that was archived on 2018-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625083914id_/http%3A//www.beeducated.pk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <meta name="viewport" content="width=device-width">
 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="/Images/icon-192x192.png">
     <meta name="robots" content="index, follow, noodp, noydir">
     <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
     <meta http-equiv="Content-Language" content="en-us">
@@ -19,9 +23,6 @@
     <meta name="rating" content="general">
     <meta name="target" content="all">
     <meta name="copyright" content="http://www.beeducated.pk">
-    <meta property="article:author" content="https://www.facebook.com/BeEducated0">
-    <meta property="article:publisher" content="https://www.facebook.com/BeEducated0">
-
     <link href="/DesignContent/Main/bootstrap.min.css" rel="stylesheet">
     
 
@@ -42,24 +43,33 @@
             }
     </style>
 
-    <link href="/DesignContent/Main/beEducated.css?ver=1.8" rel="stylesheet">
+    <link href="/DesignContent/Main/beEducated.css?ver=1.15" rel="stylesheet">
     <link href="/DesignContent/Admin/Css/privacy%20policy.css" rel="stylesheet">
+    <link href="/DesignContent/Main/updatedindex.css?ver=1.0" rel="stylesheet">
 
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Scrips/Main/jquery-1.11.3.min.js"></script>
+    <script src="/Scrips/Main/jquery-1.11.3.min.js"></script>
+    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-7369866374647613",
+            enable_page_level_ads: true
+        });
+    </script>
     <script src="/Scrips/Main/jquery-ui-1.9.2.custom.min.js"></script>
     <script src="/Scrips/Main/bootstrap.min.js"></script>
     <script src="/Scrips/Main/MainFunctions.js"></script>
     <script type="text/javascript">
-        $(function () {
-            document.addEventListener('contextmenu', event => event.preventDefault());
-            $.fn.disableSelection = function() {
-                return this
-                         .attr('unselectable', 'on')
-                         .css('user-select', 'none')
-                         .on('selectstart', false);
-            };
-            $(".SelectionOff").disableSelection();
-        });
+        //$(function () {
+        //    document.addEventListener('contextmenu', event => event.preventDefault());
+        //    $.fn.disableSelection = function() {
+        //        return this
+        //                 .attr('unselectable', 'on')
+        //                 .css('user-select', 'none')
+        //                 .on('selectstart', false);
+        //    };
+        //    $(".SelectionOff").disableSelection();
+        //});
     </script>
     
     <title>Privacy and Policy</title>
@@ -67,27 +77,37 @@
     <meta name="keywords" content="Privacy and Policy">
 
 
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-115990092-1"></script>
     <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date(); a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-        ga('create', 'UA-75234435-1', 'auto');
-        ga('send', 'pageview');
+        gtag('config', 'UA-115990092-1');
     </script>
-
-    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-7369866374647613",
-            enable_page_level_ads: true
+        if ('serviceWorker' in navigator) {
+            console.log("Will service worker register?");
+            navigator.serviceWorker.register('OneSignalSDKWorker.js').then(function (reg) {
+                console.log("Yes it did.");
+            }).catch(function (err) {
+                console.log("No it didn't. This happened: ", err)
+            });
+        }
+    </script>
+    <script>
+        $(function () {
+            $('.navbar').affix({
+                offset: {
+                    /* Affix the navbar after scroll below header */
+                    top: $("header").outerHeight(true)
+                }
+            });
         });
+
     </script>
 
-    <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=58bff7f2ea092600113cda8d&amp;product=sticky-share-buttons"></script>
+    
 
     <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
@@ -95,28 +115,38 @@
 
 
 
+
 </head>
-<body class="SelectionOff" unselectable="on" style="user-select: none;">
+<body class="SelectionOff">
     <header>
-        <div class="topBar">
+        <div class="topBar top_area">
             <div class="container">
                 <div class="col-lg-12">
                     <div class="clearfix">
-                        
+                        <div class="navbar-header">
+                            <a class="navbar-brand" href="/"><img src="/Images/logo.png" class="img-responsive" alt="Alternate Text"></a>
+                        </div>
+                        <div class="topAd pull-left">
+                            <img src="/Images/leaderboard-banner.gif" class="img-responsive">
+                        </div>
+
                         <span class="pull-right">
                             <ul class="list-inline">
                                 <li>
-                                    <a style="cursor:pointer;" onclick="ProvinceModelShow()" id="LinkProvince">Change Province</a>
+                                    <a href="javascript:void(0)" onclick="ProvinceModelShow()" id="LinkProvince">
+                                        <span>Punjab</span>
+                                        <img src="/Images/close_icon.png">
+                                    </a>
                                 </li>
                                     <li>
                                         <a href="/Member/Index">Sign Up</a>
                                     </li>
+                                    <li><a>/</a></li>
                                     <li>
                                         <a href="/Member/Index">Sign In</a>
                                     </li>
-
                                 <li>
-                                    <a href="https://www.facebook.com/BeEducated0" target="_blank"><img src="/Images/fb.png"></a>
+                                    <a href="https://web.facebook.com/BeEducatedPakistan" target="_blank"><img src="/Images/fb_icon.png"></a>
                                 </li>
                             </ul>
                         </span>
@@ -125,8 +155,7 @@
             </div>
         </div>
         <div class="clearfix"></div>
-        <!-- Static navbar -->
-        <nav class="navbar navbar-default">
+        <nav class="navbar navbar-default menu-fix affix-top">
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -135,31 +164,321 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/"><img src="/images/logo.png" class="img-responsive" alt="Alternate Text"></a>
                 </div>
-                <div id="navbar" class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/news">News</a></li>
-                        <li><a href="/articles">Articles</a></li>
-                        <li><a href="/pastpapers">Past Papers</a></li>
-                        <li><a href="/onlinetest">Online Test</a></li>
-                        <li><a href="/notes">Notes</a></li>
-                        <li><a href="/5th-class">5th Class</a></li>
-                        <li><a href="/8th-class">8th Class</a></li>
-                        <li><a href="/9th-class">9th Class</a></li>
-                        <li><a href="/10th-class">10th Class</a></li>
-                        <li><a href="/11th-class">11th Class</a></li>
-                        <li><a href="/12th-class">12th Class</a></li>
-                    </ul>
-                </div><!--/.nav-collapse -->
+                <div class="navbar-collapse collapse" id="navbar">
+<ul class="nav navbar-nav navbar-right">
+	<li><a href="/">Home</a></li>
+	<li class="dropdown"><a href="/news">News</a>
+	<ul class="dropdown-menu">
+		<li>
+		<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/schools-news">Schools News</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/admission-news">Admission News</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/datesheet-news">Date Sheet News</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/international-news">International News</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/study-abroad-news">Study Abroad News</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/scholarships-news">Scholarship News</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/results-news">Result News</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/mcat-news">MCAT News</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/general-news">General News</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/jobs-news">Jobs News</a></div>
+		</div>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown"><a href="/articles">Articles</a>
+	<ul class="dropdown-menu">
+		<li>
+		<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/information-technology-articles">Information Technology Articles</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/career-counseling-articles">Career Counseling Articles</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/science-research-articles">Science &amp; Research Articles</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/education-articles">Education Articles</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/media-advertising-articles">Media &amp; Advertising Articles</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/history-articles">History Articles</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/religion-articles">Religion Articles</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/health-articles">Health Articles</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/family-society-articles">Family &amp; Society Articles</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/business-articles">Business Articles</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/current-affairs-articles">Current Affairs Articles</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/sports-articles">Sports Articles</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/tourism-articles">Tourism Articles</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/showbiz-articles">Showbiz Articles</a></div>
+		</div>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown"><a href="/jobs">Find Jobs</a>
+	<ul class="dropdown-menu jobs-dropdown">
+		<li>
+		<div class="row">
+		<div class="col-sm-12 col-md-12 col-lg-12">
+		<div class="col-xs-12 col-sm-6 col-md-6">
+		<h4>Find Jobs By:</h4>
+
+		<div class="job-services"><a href="https://www.beeducated.pk/jobs">Search Jobs</a></div>
+
+		<div class="job-services"><a href="https://www.beeducated.pk/jobs">Latest Jobs</a></div>
+
+		<div class="job-services"><a href="https://www.beeducated.pk/latest-government-jobs-in-pakistan">Government Jobs</a></div>
+
+		<div class="job-services"><a href="https://www.beeducated.pk/latest-private-jobs-in-pakistan">Private Jobs</a></div>
+
+		<div class="job-services"><a href="https://www.beeducated.pk/jobs">Semi Government Jobs</a></div>
+
+		<div class="job-services"><a href="https://www.beeducated.pk/jobs/city-wise-jobs">Jobs by Cities</a></div>
+
+		<div class="job-services"><a href="https://www.beeducated.pk/jobs">Jobs in Newspapers</a></div>
+		</div>
+
+		<div class="col-xs-12 col-sm-6 col-md-6">
+		<h4>Today Jobs By NewsPapers</h4>
+
+		<div class="menu-job-list"><a href="/jobs-in-daily-express-newspaper"><img alt="" class="img-responsive" src="/Images/Jobs/NewsPaper/70x50/636505078010054375.png"> </a></div>
+
+		<div class="menu-job-list"><a href="/jobs-in-mashriq-news"><img alt="" class="img-responsive" src="/Images/Jobs/NewsPaper/70x50/636510187407693142.png"> </a></div>
+
+		<div class="menu-job-list"><a href="/jobs-in-daily-khabrain-newspaper"><img alt="" class="img-responsive" src="/Images/Jobs/NewsPaper/70x50/636505079473294540.png"> </a></div>
+
+		<div class="menu-job-list"><a href="/jobs-in-daily-kawish-newspaper"><img alt="" class="img-responsive" src="/Images/Jobs/NewsPaper/70x50/636505078835744391.png"> </a></div>
+
+		<div class="menu-job-list"><a href="/jobs-in-daily-nawa-i-waqt-newspaper"><img alt="" class="img-responsive" src="/Images/Jobs/NewsPaper/70x50/636505083354163821.png"> </a></div>
+
+		<div class="menu-job-list"><a href="/jobs-in-daily-dawn-newspaper"><img alt="" class="img-responsive" src="/Images/Jobs/NewsPaper/70x50/636505075608867495.png"> </a></div>
+
+		<div class="menu-job-list"><a href="/jobs-in-daily-aaj-newspaper"><img alt="" class="img-responsive" src="/Images/Jobs/NewsPaper/70x50/636505073597146848.png"> </a></div>
+
+		<div class="menu-job-list"><a href="/jobs-in-daily-jang-newspaper"><img alt="" class="img-responsive" src="/Images/Jobs/NewsPaper/70x50/636505074117344021.png"> </a></div>
+
+		<div class="menu-job-list"><a href="/jobs-in-daily-dunya-newspaper"><img alt="" class="img-responsive" src="/Images/Jobs/NewsPaper/70x50/636505077593146619.png"> </a></div>
+
+		<div class="menu-job-list"><a href="/jobs-in-daily-the-news-international-newspaper"><img alt="" class="img-responsive" src="/Images/Jobs/NewsPaper/70x50/636505085170869446.png"> </a></div>
+		</div>
+		</div>
+		</div>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown"><a href="/pastpapers">Past Papers</a>
+	<ul class="dropdown-menu">
+		<li>
+		<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/5th-Class-past-papers">5th Class Pastpapers</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/8th-Class-past-papers">8th Class Pastpapers</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/9th-Class-past-papers">9th Class Pastpapers</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/10th-Class-past-papers">10th Class Pastpapers</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/11th-Class-past-papers">11th Class Pastpapers</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/12th-Class-past-papers">12th Class Pastpapers</a></div>
+		</div>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown"><a href="/10th-class-result">Results</a>
+	<ul class="dropdown-menu">
+		<li>
+		<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/pec-5th-class-result">5th Class Result 2018</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/pec-8th-class-result">8th Class Result 2018</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/9th-class-result">9th Class Result 2018</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/10th-class-result">10th Class Result 2018</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/11th-class-result">11th Class Result 2018</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/12th-class-result">12th Class Result 2018</a></div>
+		</div>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown"><a href="/onlinetest">Online Test</a>
+	<ul class="dropdown-menu">
+		<li>
+		<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/9th-class-objective-test-questions">9th Class Online Test</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/10th-class-objective-test-questions">10th Class Online Test</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/11th-class-objective-test-questions">11th Class Online Test</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/12th-class-objective-test-questions">12th Class Online Test</a></div>
+		</div>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown"><a href="/notes">Notes</a>
+	<ul class="dropdown-menu">
+		<li>
+		<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/9th-class-notes">9th Class Notes</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/10th-class-notes">10th Class Notes</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/11th-class-notes">11th Class Notes</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/12th-class-notes">12th Class Notes</a></div>
+		</div>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown"><a href="/5th-class">5th Class</a>
+	<ul class="dropdown-menu">
+		<li>
+		<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/5th-class#">5th Class Syllabus</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/5th-class-objective-test-questions">5th Class Exam Test</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/5th-class-past-papers">5th Class Pastpapers</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/pec-5th-class-result">5th Class Results</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/5th-class-notes">5th Class Notes</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/pec-5th-class-datesheet">5th Class Date Sheet</a></div>
+		</div>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown"><a href="/8th-class">8th Class</a>
+	<ul class="dropdown-menu">
+		<li>
+		<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/8th-class#">8th Class Syllabus</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/8th-class-objective-test-questions">8th Class Exam Test</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/8th-class-past-papers">8th Class Pastpapers</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/pec-8th-class-result">8th Class Results</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/8th-class-notes">8th Class Notes</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/pec-8th-class-datesheet">8th Class Date Sheet</a></div>
+		</div>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown"><a href="/9th-class">9th Class</a>
+	<ul class="dropdown-menu">
+		<li>
+		<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/9th-class#">9th Class Syllabus</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/9th-class-objective-test-questions">9th Class Exam Test</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/9th-class-past-papers">9th Class Pastpapers</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/9th-class-result">9th Class Results</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/9th-class-notes">9th Class Notes</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/9th-class-datesheet">9th Class Date Sheet</a></div>
+		</div>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown"><a href="/10th-class">10th Class</a>
+	<ul class="dropdown-menu">
+		<li>
+		<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/10th-class#">10th Class Syllabus</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/10th-class-objective-test-questions">10th Class Exam Test</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/10th-class-past-papers">10th Class Pastpapers</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/10th-class-result">10th Class Results</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/10th-class-notes">10th Class Notes</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/10th-class-datesheet">10th Class Date Sheet</a></div>
+		</div>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown"><a href="/11th-class">11th Class</a>
+	<ul class="dropdown-menu">
+		<li>
+		<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/11th-class#">11th Class Syllabus</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/11th-class-objective-test-questions">11th Class Exam Test</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/11th-class-past-papers">11th Class Pastpapers</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/11th-class-result">11th Class Results</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/11th-class-notes">11th Class Notes</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/11th-class-datesheet">11th Class Date Sheet</a></div>
+		</div>
+		</li>
+	</ul>
+	</li>
+	<li class="dropdown"><a href="/12th-class">12th Class</a>
+	<ul class="dropdown-menu">
+		<li>
+		<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/12th-class#">12th Class Syllabus</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/12th-class-objective-test-questions">12th Class Exam Test</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/12th-class-past-papers">12th Class Pastpapers</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/12th-class-result">12th Class Results</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/12th-class-notes">12th Class Notes</a></div>
+
+		<div class="col-xs-12 col-sm-4 col-md-3"><a href="/12th-class-datesheet">12th Class Date Sheet</a></div>
+		</div>
+		</li>
+	</ul>
+	</li>
+</ul>
+<!---<div class="show-menu">&nbsp;</div>----></div>
+
             </div>
         </nav>
+        <!-- Static navbar -->
     </header>
-    <div>
-        <div style="bottom: -10px;float: left;margin-left: auto;margin-right: auto;position: fixed;text-align: center;width: 100%;z-index: 9999;" class="text-center">
-            <a href="http://www.beeducated.pk/notes" target="_blank">
-                <img src="/Images/11th-Class-Result-2017.png" alt="11th Class Result 2017" class="img-responsive" style="display:inline-block">
+
+    <div class="resizee">
+        
+        <div class="botton-sticky">
+            <a href="/9th-class-result" target="_blank">
+                <img src="/Images/9th-class-result-first.gif" alt="9th Class Result 2018" class="img-responsive">
+            </a>
+            <a href="/10th-class-result" target="_blank">
+                <img src="/Images/10th-class-gif-banner-first.gif" alt="10th Class Result 2018" class="img-responsive">
             </a>
         </div>
         
@@ -344,14 +663,24 @@
                             <h4 class="modal-title">Select Course</h4>
                         </div>
                         <div class="modal-body">
-                                <a href="/Home/CourseClassProvinceSetInSessions?CourseID=&amp;ClassID=1&amp;ProvinceID=&amp;RedirectLink=/privacy-policy">
+                                <a href="/Home/CourseClassProvinceSetInSessions?CourseID=&amp;ClassID=6&amp;ProvinceID=&amp;RedirectLink=/privacy-policy">
                                     <div style="cursor:pointer;">
-                                        9th English Medium
+                                        ICS Part 1
                                     </div>
                                 </a>
-                                <a href="/Home/CourseClassProvinceSetInSessions?CourseID=&amp;ClassID=3&amp;ProvinceID=&amp;RedirectLink=/privacy-policy">
+                                <a href="/Home/CourseClassProvinceSetInSessions?CourseID=&amp;ClassID=7&amp;ProvinceID=&amp;RedirectLink=/privacy-policy">
                                     <div style="cursor:pointer;">
-                                        9th Urdu Medium
+                                        ICOM Part 1
+                                    </div>
+                                </a>
+                                <a href="/Home/CourseClassProvinceSetInSessions?CourseID=&amp;ClassID=8&amp;ProvinceID=&amp;RedirectLink=/privacy-policy">
+                                    <div style="cursor:pointer;">
+                                        FA Part 1
+                                    </div>
+                                </a>
+                                <a href="/Home/CourseClassProvinceSetInSessions?CourseID=&amp;ClassID=9&amp;ProvinceID=&amp;RedirectLink=/privacy-policy">
+                                    <div style="cursor:pointer;">
+                                        FSC Part 1
                                     </div>
                                 </a>
                         </div>
@@ -374,32 +703,38 @@
 
 
     <footer class="footer_area">
-        <div class="row">
-            <div class="col-sm-12 col-md-offset-3 col-md-6 col-lg-offset-3 col-lg-6">
-                <div class="footer_menu">
-                    <ul class="list-inline">
-                        <li>
-                            <a href="/">Home</a>
-                        </li>
-                        <li>
-                            <a href="/about-us">About us</a>
-                        </li>
-                        <li>
-                            <a href="/privacy-policy">Privacy policy</a>
-                        </li>
-                        <li>
-                            <a href="/contact-us">Contact us</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="footer_bottom">
-                    <span>© 2017, All Rights Reserved</span>  <a href="http://www.approcx.com" target="_blank">AppRocx</a>
-                    <br>
-                    <p>Disclaimer: This is website contains study material and other helping material for Pakistani students. The content published on the website reflects the opinions of our organization.</p>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-offset-3 col-md-6 col-lg-offset-3 col-lg-6">
+                    <div class="footer_menu">
+                        <ul class="list-inline">
+                            <li>
+                                <a href="/">Home</a>
+                            </li>
+                            <li>
+                                <a href="/about-us">About us</a>
+                            </li>
+                            <li>
+                                <a href="/privacy-policy">Privacy policy</a>
+                            </li>
+                            <li>
+                                <a href="/contact-us">Contact us</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer_bottom">
+                        <span>© 2017, All Rights Reserved</span>  <a href="http://www.approcx.com" target="_blank">AppRocx</a>
+                        <br>
+                        <p>Disclaimer: This is website contains study material and other helping material for Pakistani students. The content published on the website reflects the opinions of our organization.</p>
+                    </div>
                 </div>
             </div>
         </div>
     </footer>
+
+
+
+
 
 
     <script type="text/javascript">
@@ -409,10 +744,43 @@
                 backdrop: 'static',
             });
         }
+        //$('.dropdown').hover(function () {
+        //    $(".show-menu").html("<ul class='dropdown-menu'>" + $(this).find(".dropdown-menu").html() + "</ul>");
+
+        //});
+        //$('ul.nav li.dropdown').hover(function () {
+        //    $(this).find('.dropdown-menu').stop(true, true).fadeIn();
+        //}, function () {
+        //    $(this).find('.dropdown-menu').stop(true, true).fadeOut();
+        //});
     </script>
 
     
+    <script src="/Scrips/Main/FrontEndDeveloper.js" type="text/javascript"></script>
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function () {
+            OneSignal.init({
+                appId: "4e4778cc-01fb-4904-9def-33d9a5e68eba",
+                autoRegister: true,
+                safari_web_id: "web.onesignal.auto.129325ca-9c33-4be9-9043-3e5a3c869fcf",
+                persistNotification: true,
+                notifyButton: {
+                    enable: true,
+                    position: "bottom-left",
+                    displayPredicate: function () {
+                        return OneSignal.isPushNotificationsEnabled()
+                            .then(function (isPushEnabled) {
+                                /* The user is subscribed, so we want to return "false" to hide the Subscription Bell */
+                                return !isPushEnabled;
+                            });
+                    },
 
+                },
+            });
+        });
+    </script>
 
 
 </body></html>
