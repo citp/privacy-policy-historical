@@ -1,0 +1,46 @@
+> *The following text is extracted and transformed from the krunker.io privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625192615id_/http%3A//krunker.io/docs/privacy.txt) for the most accurate reproduction.*
+
+# 
+
+
+     == PRIVACY POLICY ==
+     - If you continue to browse and use this website you consent to our privacy policy.
+    
+     == THIRD PARTIES ==
+     - Third parties may be placing and reading cookies on your browser, or using web beacons
+      to collect information as a result of ad serving on this site.
+      For More information on Third Parties Go here: http://www.google.com/policies/privacy/partners/
+    
+     == WHAT INFORMATION IS COLLECTED ==
+     - Certain analytics and advertising tools on our site may also collect information about:
+        > Your General Location (Country, City)
+        > The amount of time you spend on this site
+        > The website that you came from
+        > IP Address
+        > Battery information
+        > Connection information
+        > Browser information
+    
+     == WHAT DO WE USE THE INFORMATION FOR? ==
+     - The information is used to protect your account and make it possible for you to
+      recover it in case you lose the details. Some information is also collected to personalize
+      your experience.
+     - Information is also collected to analyze user data and enhance the user experience and improve ad
+      performance.
+    
+     == DO WE SHARE ACCOUNT INFORMATION WITH THIRD PARTIES? ==
+     - No. All of the information you provide us will be kept private.
+     - No information is sold to any outside parties.
+    
+     == DO WE USE COOKIES? ==
+     - Yes. Cookies are using the save certain information: settings, account info.
+    
+     == YOUR ACCEPTANCE OF THESE TERMS ==
+     - By using this Site, you signify your acceptance of this policy. If you do not agree to this policy,
+      please do not use our Site. Your continued use of the Site following the posting of changes to this
+      policy will be deemed your acceptance of those changes.
+    
+     == CHANGES TO THIS POLICY ==
+     - Any changes to this policy will be posted on this page.
+     - Last modification: 23/02/2018
+    
