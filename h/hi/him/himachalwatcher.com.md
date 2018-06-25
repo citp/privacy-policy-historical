@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the himachalwatcher.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222092045id_/https%3A//himachalwatcher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himachalwatcher.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625074422id_/https%3A//himachalwatcher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Himachal Watcher
 
@@ -21,5 +21,3 @@ Himachal Watcher does not have control or access to the cookies or information t
 Moreover, you can also disable cookies easily as all available browsers facilitate this service. To control his/her preferences user can disable cookies by making change in settings option provided by a browser 
 
 For any inquiry or questions, you can contact us at **editor[at] himchalwatcher[dot]com**
-
-* * *
