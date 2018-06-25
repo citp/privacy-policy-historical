@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucasentertainment.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929162615id_/https%3A//www.lucasentertainment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucasentertainment.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625171500id_/https%3A//www.lucasentertainment.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy| Lucas Entertainment | HD Gay Porn
 
@@ -26,7 +26,7 @@ Lucas Entertainment will never intentionally disclose any personally identifying
 
 ###### iii. Opt-out policy
 
-Because your personal information is required for us to provide services to you, you cannot opt-out of providing it and still receive those services. You can opt-out of receiving promotional emailings by contacting newsletter@LucasEntertainment.com, or by clicking on the Unsubscribe link at the bottom of the newsletter.
+Because your personal information is required for us to provide services to you, you cannot opt-out of providing it and still receive those services. You can opt-out of receiving promotional emails by contacting webmaster@LucasEntertainment.com, or by clicking on the Unsubscribe link at the bottom of the newsletter.
 
 ##### B. Interactive data
 
@@ -70,7 +70,17 @@ We use the information stored in cookies to personalize your website experience 
 
 You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, many areas of the site will not function properly.
 
-##### III. Related Issues
+##### E. Financial Information
+
+###### i. Information we collect
+
+We do not directly collect any credit card or financial information.  This information is collected and stored using a 3rd party payment processor and gateway as an intermediate step during any financial transaction.   This information is never used or stored on our servers.
+
+###### ii .How we use the information
+
+Since we do not collect your financial information, we do not use it for anything directly.  However, we do communicate personal data and account status information back and forth with our trusted 3rd party processors and billers in order facilitate access to a purchase product or customer service.  This includes information such as if a transaction was successful, which biller processed the transaction, and a reference code to use to facilitate customer service issues that might arise with them.
+
+#### III. Related Issues
 
 ###### A. Information security
 
@@ -82,7 +92,7 @@ Lucas Entertainment does not use third-party services to provide banner advertis
 
 ###### C. Children’s data
 
-The Lucas Entertainment website is not directed towards children, and does not collect any data governed by the United States’ Children’s Online Privacy Protection Act (COPPA).
+The Lucas Entertainment website is not directed towards children and does not collect any data governed by the United States’ Children’s Online Privacy Protection Act (COPPA).
 
 ###### D. Privacy technology
 
@@ -94,8 +104,20 @@ This site contains links to other websites. Lucas Entertainment, Inc. is not res
 
 ###### F. Notification of changes
 
-This privacy statement was last updated on July 25, 2004. A notice will be posted on our web site for 30 days whenever this privacy statement is changed.
+This privacy statement was last updated on May 24th, 2018. A notice will be posted on our website for 30 days whenever this privacy statement is changed.
 
 ###### G. Questions regarding this statement
 
-Questions regarding this statement should be directed to Lucas Entertainment Privacy coordinator at webmaster@LucasEntertainment.com.
+Questions regarding this statement should be directed to Lucas Entertainment Privacy coordinator at [webmaster@LucasEntertainment.com](mailto:webmaster@LucasEntertainment.com).
+
+#### IV. Notice of Rights
+
+Subjects in the European Union are advised of the following rights; Lucas Entertainment, Inc gladly provides the same opportunities to subjects outside the European Union. (You may have other rights.)
+
+  * You may request access to and rectification or erasure of personal data concerning you.
+  * You may request restriction of data processing concerning you.
+  * You may request the personal data which you have provided concerning you, and you may transmit those data to another party without hindrance from us.
+  * You may object at any time to our processing of personal data concerning you and you may withdraw your consent for future processing.
+  * If you are a subject in the European Union, and you believe that Lucas Entertainment, Inc’s processing of personal data relating to you infringes the EU’s General Data Protection Regulation, you may lodge a complaint with your Member State’s designated supervisory authority.
+
+
