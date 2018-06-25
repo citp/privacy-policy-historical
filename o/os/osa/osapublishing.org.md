@@ -1,101 +1,87 @@
-> *The following text is extracted and transformed from the osapublishing.org privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912134714id_/https%3A//www.osapublishing.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osapublishing.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625113533id_/https%3A//www.osapublishing.org/privacy.cfm) for the most accurate reproduction.*
 
 # OSA | OSA Privacy Policy
 
-**OSA — The Optical Society of America**  
-2010 Massachusetts Ave NW  
-Washington, DC 20036  
-202.223.8130 Ph  
-202.223.1096 Fax  
-email: [info@osa.org](mailto:info@osa.org)
+**Date last modified: 24 May 2018**
 
-#### Information Collection
+The Optical Society and the OSA Foundation (collectively “OSA”) is committed to protecting your personal data.  This notice outlines how we collect, share and use your personal data, and how you can exercise your privacy rights involving your data.
 
-OSA is the sole owner of the information collected on www.osa.org and affiliated sites. OSA collects information at several different points on the Web site.
+#### Where We Collect Personal Data From
 
-Periodically, a user must complete a registration form to register for OSA events. During registration a user is required to give contact information. This information is used to contact the user about the event for which the user has registered or related events, services and products. The attendee lists for OSA Topical Meetings are made available to attendees for networking purposes.
+OSA receives your personal data from these sources:
 
-Authors and reviewers may provide personal information in the process of submitting a manuscript or review, or when establishing reviewer expertise profiles. We do not distribute personally identifiable information except as is consistent with the scholarly publishing peer-review process (e.g., for the purpose of introducing your submission to an editorial review board).
+  * Websites (OSA owned or managed), including [osa.org](http://osa.org/), [osapublishing.org](http://osapublishing.org/) and [prism.osapublishing.org](http://prism.osapublishing.org/) where you create accounts to access products and services.
+  * Mobile applications; for example, a conference planner app.
+  * OSA-contracted vendors who provide a specific service related to the delivery of a product or service, including those for which you provide registration information such as, paper submissions, conference registrations, career searches, grant applications.
+  * Third-party individuals, including 
+    * Corresponding authors providing information about you as a co-author or potential reviewer
+    * Nominators submitting information about you as a nominee for an award or potential reference
+  * OSA-contracted partners, including co-sponsors for meetings and peer societies.
+  * Your correspondence to us via mail, email or fax.
 
-While placing an order, a user is asked to provide contact information and financial information. This information is used for billing purposes and to fill the customer's order. If there is a problem processing an order, the information may be used to contact the user.
 
-Information is collected through cookies, log files, link tracking, and/or third parties. Some of the collected information is tied to the user's personally identifiable information to provide offers and improve the content of the site for the user.
 
-#### Cookies
+#### What Personal Data We Collect
 
-OSA may use cookies to record session information such as items that visitors add to their shopping cart.
+The personal data collected by OSA falls into these categories:
 
-#### Database Confidentiality
+  * Identifying data, including name, ORCID ID and photo.
+  * Contact data, including email addresses, physical addresses and telephone numbers.
+  * Demographic data, including nationality, birth year, gender, dietary restrictions, family member names and emergency contact.
+  * Financial data, including transaction details about purchases you have made, and payments to and from you.
+  * Professional data, including CVs, technical and research interests, educational background, and employers.
+  * OSA-related activity data, including author and reviewer history, volunteer activities, customer service communications, and video interviews.
+  * Technical data, including internet protocol (IP) address, browser type and version, broad geographic location, device type, operating system and other technical information. We may also collect information about how your device has interacted with our websites, including the web pages accessed and links clicked on.
 
-OSA does not sell or share email addresses with other organizations without the express permission of the user. OSA does not sell contact information from the database to non-corporate members.
 
-Contact information for OSA members is automatically included in the directory of members, which is available to members, unless an OSA member has opted out.
+
+#### How We Use Personal Data
+
+OSA uses your personal data to:
+
+  * Process and deliver a product or service you have ordered. 
+    * In some cases, this will require OSA to share your data with a third-party provider.  In these cases, a contractual arrangement is in place to ensure the protection of the data and the minimal transfer of data necessary to complete the task that is shared.  For example, accepted manuscripts – which include author contact information – are shared with our publishing vendors to prepare the article for publication. 
+    * In other cases, OSA contracts with a partner to provide a product or service and data is shared with or received from the partner.  For example, a co-sponsor of a meeting, a peer society that processes joint memberships, or a sister society that provides a member benefit (e.g., _Physics Today_ ).
+  * Provide information to you about other relevant OSA programs and services based on your interests.
+  * Consider you for an award, grant or recognition.  For example, membership and OSA-related activity data may be shared with the review committee along with the nomination/application materials.
+  * Include your information in our online directory. 
+  * Improve your online experience.  For example, we keep track of what’s in your shopping cart or keep you logged in to our network as you read online journal content.
+  * Share conference registration lists with other attendees.
+  * Monitor OSA content and services to prevent potentially abusive activities.
+  * Share mailing addresses with OSA Industry members.
+  * Respond to a competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is legally required; to exercise, establish or defend our legal rights; or to protect your vital interests or those of any person.
+
+
+
+In connection with any proposed purchase, merger or acquisition of any part of our business, your data may be sold or transferred as part of that transaction with the stipulation that the conditions of this privacy policy transfer with the data.
+
+#### Your Data Rights
+
+You may access the majority of the information that OSA maintains on you in our database in the My Account feature of our system (account.osa.org).  Author and reviewing information is contained in OSA Publishing Digital Library and Prism. Questions or concerns about your data may be sent to [custserv@osa.org](mailto:custserv@osa.org).  If you are an individual covered by European data protection rules and wish to exercise a specific data right, contact [privacynotice@osa.org](mailto:privacynotice@osa.org).
+
+#### Cookies and Other Tracking Technologies
+
+To enhance the performance and functionality of our site, we use session, persistent and third-party “cookies” that store a small text file on your computer and collect certain information about your visit to our site. We also use cookies to understand users’ browsing and buying activities so that we can measure the success of online advertising campaigns we run on the site. Our site may use web beacons, flash cookies and other tracking technologies (either directly or from our partners or service providers), along with cookies, to determine if a user has visited a particular webpage. These beacons help us to provide you more relevant information, as well to measure the success of a marketing campaign. To find out more information about cookies and other tracking technologies and to manage your preferences please see our [Cookie Notice](https://web.archive.org/cookies.cfm).
 
 #### Log Files
 
-Web site log files are used to store information such as: internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. This information is used to analyze trends, administer the site, track user's movement within the site and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. The log files are used by utility tracking software to analyze user movement.
+Web site log files store information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. Normally, an IP address will change each time you connect to the internet; in some cases, however, you may have a static address, and your IP address may be deemed identifiable.  Log files are used to analyze trends, administer the site, track users' movements within the site and gather broad demographic information for aggregate use. The log files are used by utility tracking software to analyze user movement.
 
-Database download logs track which articles have been downloaded by which IP (for institutional subscriptions) or individual (for individual subscriptions). If downloads exceed a standard level, the individual or institution will receive a warning and service may be disconnected. This action is taken to ensure that the systems remain available to all subscribers. Individuals have access to a report that details the articles they have downloaded. Institutions have access to a report that details the articles downloaded by IP addresses at their institution.
+#### Transfer of Information to Other Countries
 
-#### Email tracking
+OSA is a global organization headquartered in the United States but with activities, members, customers, vendors and consultants around the world.  In the course of normal business, OSA may transfer information to other countries as necessary for us to provide our products and services.  By submitting your information to OSA (electronically or in hard copy), you consent to such transfers and to the processing of this information in other countries.
 
-Link tracking is used within HTML-based emails to track which links have been clicked by the recipients. This tracking provides a means to measure the effectiveness of marketing campaigns.
+#### Modifications to this Notice
 
-#### Use of Google Universal Analytics
-
-OSA uses "Google Analytics", including its "Universal Analytics," to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. **_OSA uses the information it gets from Google Analytics only to improve this site._** Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. In accordance with the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) (as [amended for government websites](http://www.howto.gov/sites/default/files/google-analytics-tos-amendment.pdf)), OSA does not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) (as [amended for government websites](http://www.howto.gov/sites/default/files/google-analytics-tos-amendment.pdf)) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser.
-
-Google Analytics uses cookies to define user sessions, which allows for the collection of data about how visitors are using the websites. Google Analytics uses only first-party cookies for data analysis. This means that the cookies are linked to a specific website domain, and Google Analytics will only use that cookie data for statistical analysis related to your browsing behavior on that specific website. According to Google, the data collected cannot be altered or retrieved by services from other domains.
-
-If you choose, you can opt out by turning off cookies in the preferences settings in your web browser. For more information on Google Analytics or Universal Analytics, please visit [Google Analytics](http://www.google.com/analytics/).
-
-#### Legal Disclaimer
-
-Though every effort is made to preserve user privacy, it may be necessary to disclose personal information when required by law, such as in compliance with a court order or other legal or governmental process.
-
-#### Notifications
-
-OSA may use your information to provide you with information on new products, services, or upcoming events. More and more OSA information is provided by email, so you may not receive notices on these subjects if you opt-out. If you wish not to receive email from OSA, you may use the "unsubscribe" link provided at the bottom of every email.
-
-OSA may also use your contact information to reach you through phone, mail or fax. Please send an email to custserv@osa.org or call 202.416.1907 or 1.800.766.4672 if you wish to be removed from all contacts by these methods.
-
-If you are an OSA member, you may not opt out of OSA business mailings such as the election mailing.
-
-#### Ad Servers
-
-OSA does not partner with nor have special relationships with ad server companies.
-
-#### Links
-
-This Web site may contain links to non-OSA sites. OSA is not responsible for the privacy practices of other sites. This privacy statement applies solely to information collected by OSA-hosted and maintained Web sites.
-
-#### Online Discussion Forums
-
-Whenever you voluntarily disclose personal information online, that information can be collected and used by others. By posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
-
-#### Security
-
-This Web site takes every precaution to protect user information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
-
-SSL encryption software is used on forms requesting financial information. Full credit card numbers are not stored in our databases.
-
-User information is restricted within the OSA offices. Employees who need the information to perform a specific job are granted access to personally identifiable information. Servers that store personally identifiable information are in a locked facility.
-
-#### Correcting/Updating/Deleting/Deactivating Personal Information
-
-If a user's personally identifiable information changes, or if a user no longer desires the services provided, send an email to Customer Service at [custserv@osa.org](mailto:custserv@osa.org), or contact OSA by telephone or postal mail at the contact information listed below.
-
-#### Modifications to the Policy
-
-OSA may modify, add or remove portions of the Privacy Policy at any time. Customer information may be used for new, unanticipated uses not previously disclosed in the privacy notice. Information practice changes will be posted on this Web site.
+OSA may modify, add or remove portions of this Privacy Notice at any time. Where such changes are material in nature, OSA will provide additional notice via email or notification on the Websites. The date of the last update is displayed at the top of this Privacy Notice.
 
 #### Contact Information
 
-If users have any questions or suggestions regarding this privacy policy, please contact OSA at:
+If you have any questions or suggestions regarding this Privacy Notice, please contact OSA at:
 
-**OSA — The Optical Society of America**  
+**The Optical Society (OSA)**  
 2010 Massachusetts Ave NW  
 Washington, DC 20036  
-202.223.8130 Ph  
-202.223.1096 Fax  
-email: [info@osa.org](mailto:info@osa.org)
++1.202.223.8130 Ph  
++1.202.223.1096 Fax  
+email: [privacynotice@osa.org](mailto:privacynotice@osa.org)
