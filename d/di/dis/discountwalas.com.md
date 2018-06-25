@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountwalas.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223005300id_/http%3A//discountwalas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountwalas.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625194625id_/http%3A//discountwalas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Discountwalas
 
