@@ -1,67 +1,126 @@
-> *The following text is extracted and transformed from the ancient-code.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119061041id_/https%3A//www.ancient-code.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancient-code.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625212726id_/https%3A//ancient-code.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ancient Code
 
-This Privacy Policy governs the manner in which Ancient Code collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.ancient-code.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Ancient Code.
+This Privacy Policy (“Policy”) describes and governs the information collection, use, and sharing practices of Ancient Code and its affiliates, subsidiaries, and divisions as may change from time to time, with respect to Ancient Codes websites, mobile applications, and other digital and interactive services that link to this Privacy Policy (together, the “Services”).
 
-Personal identification information
+Before you submit any information on or through the Services, please carefully review this Policy together with our terms of use and any other documents referred to therein to understand our views and practices regarding your information and how we will treat it.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Please note that this Privacy Policy applies only to information collected through the Services and not to the information you may provide to any third-party sites to which Ancient Code may link, except as expressly provided herein. This Policy applies regardless of the device used to access the Services (e.g., personal computer, mobile device, consumer electronics device, or any other technology or software known today or developed in the future). Some online services offered by or affiliated with Ancient Code may be governed by a separate privacy policy. In those instances, the product-specific privacy policy shall apply to that online service.
 
-Non-personal identification information
+**Information we collect**  
+We collect information in multiple ways, including when you provide information directly to us, and when we passively collect information from you, such as from your browser or device.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Information specifically provided by you, includes your name, email address, physical address, login username, password, or other information that you voluntarily share with us through the following:
 
-Web browser cookies
+Registering for an account  
+Subscribing to receive our newsletters  
+Posting a comment  
+Subscribing to receive comment follow-ups  
+Entering a sweepstake or contest or registering for a promotion  
+Completing a survey or providing us with feedback  
+Communicating with us by phone, e-mail or otherwise  
+Reporting an issue with our website  
+You do not have an obligation to provide us with your information; however, if you do not provide us with your information, we may not be able to provide you with the Services you have requested or you may be limited in your use of our Services.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Information automatically or passively collected includes the following:
 
-How we use collected information
+**Device and usage information:** We may automatically collect certain information about the computer or devices you use to access the Site or our Apps. We may collect and analyze information such as IP addresses, geolocation information, unique device identifiers, TCP/IP address, browser types, browser language, operating system, mobile device carrier information, the state or country from which you accessed the Site or App, referring and exit web pages and URLs, platform type, the number of clicks, domain names, landing pages, pages and content viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Site, the frequency of your use of the Services, error logs, and other similar information. If you choose to connect to our Site through a social network such as Facebook, we may automatically collect your profile information. These things allow us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We may use third-party analytics providers and technologies, including cookies and similar tools, to assist in collecting this information.
 
-Ancient Code may collect and use Users personal information for the following purposes:
+**Location information:** We and our service providers may automatically collect location information, including general information such as IP address from your computer or mobile device. The Site uses this location information to provide customized location-based services, content, promotional offers and other information that may be of interest to you. We may also use location information to improve the functionality of the Site. If you do not wish to have this location information collected and used by us and our service providers, you may disable the location features on your device. Please note that if you disable such features, you will not be able to access or receive some or all of the services, content and features made available via the Site.
 
-– To improve our Site  
-We may use feedback you provide to improve our products and services.  
-– To run a promotion, contest, survey or other Site feature  
-To send Users information they agreed to receive about topics we think will be of interest to them.  
-– To send periodic emails  
-We may use the email address to respond to their inquiries, questions, and/or other requests.
+**Cookies:** We use cookies to gather information about your general internet use. Cookies are small files that are placed on your hard drive for record-keeping purposes and to enhance your experience with the Site.
 
-How we protect your information
+By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. When used, cookies are downloaded and stored on your device. Such information, on its own, will not identify you personally.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+It is statistical data. Except for essential cookies, all cookies will expire after 12 months. You can turn off the cookie function on your device, but that may prevent you from using our Site and services. Some third-party services that we use, such as Google Analytics, Quantcast, ADX, Adsense, 1 st Impression, AdSupply, RevBoostPro, Coversant, CPXI, Outbrain, Criteo, DistrictM, Open X, Rhythm One, Sonobi, Sekindo, Sovrn and Uponit may also place cookies on your device. This Privacy Policy does not cover the use of cookies by third parties.  
+Using Your Information  
+We use the information we collect from you to provide, maintain, protect and improve our Site and services, and to develop new ones.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+In addition, we may use the information for one or more of the following purposes:
 
-Sharing your personal information
+To provide information to you that you request from us relating to our products or services.  
+To provide information to you related to products or services provided by us.  
+To inform you of any changes, offers, updates or other announcements about our Site, services or products.  
+To process a transaction you initiate  
+To process and respond to your inquiries or to request your feedback.  
+To personalize the content and advertising that you see on the Services.  
+For internal research.  
+To keep the Site secure and safe.  
+To allow you to participate in interactive features offered by our Site.  
+Finally, if you install and use any of our products or services, such as a module or any other software, these products will report information to us, and we will collect this information. This information may be linked to you and we may use this information to better provide technical support to you and our other customers and to improve our Site, services, and products.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+**Storing and Securing your Personal Data and Information**  
+Our computer servers are currently based in the United States (“U.S.”), so your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union (“EU”). If you visit and use our Site from outside the U.S., you agree to this Privacy Policy and you consent to the transfer of all such information to the U.S., which may not offer an equivalent level of protection of that required in the EU or certain other countries, and to the processing of that information as described in this Privacy Policy.
 
-Third party websites
+We take all reasonable measures to protect your personal data and information, and to protect our Site from unauthorized access to or unauthorized alteration, disclosure or destruction of information we maintain.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+**Disclosing Your Information**  
+We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
 
-Advertising
+**Consent:**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+We may disclose personal information if we have your specific consent to do so.
 
-Google Adsense
+**Co-sponsored activities:**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+When you sign up for a webinar or other activity that is co-sponsored by another company, we may share your registration information with that company.
 
-Changes to this privacy policy
+**Business Partners**
 
-Ancient Code has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+We may provide your information to individuals and companies with whom we have business relationships to provide you with special coupons, discounts, or promotions, or to offer products and services to you for purchase. We encourage these partners to adopt and post privacy policies. However, the use of your Information by such parties is governed by the privacy policies of such parties and is not subject to our control.
 
-Your acceptance of these terms
+**Third Party Services:**
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+We use third-party service providers, consultants and other agents to help us provide, maintain, protect and improve our Site, services, and products. We provide personal information to these parties to perform certain tasks based on our instructions and in compliance with our Privacy Policy or an equivalent level of privacy protection.  
+Examples of third-party services include data storage, maintenance services, database management, web analytics, and payment processing.
 
-Contacting us
+We may use third-party service providers to target and serve some of the advertisements you see on the Site. We may share technical or aggregate information, such as a type of pages viewed and categories of interest, from our Site with these service providers and advertisers for their use in displaying ads on our Site. These third-party providers and advertisers may use their own browser or flash cookies, web beacons and similar technologies to collect technical information (such as device unique identifier, IP address, MAC address, browser type, pages visited, and location information) from users of the Site that is generated automatically as a user views or interacts with an ad. Unless you affirmatively provide information within an ad, the data collected in connection with the ads, ad serving and ad targeting on our Site does not include your name, address, email address or telephone number, but it may include the device unique identifier, IP address, MAC address and location information of your computer or device. The use and collection of information by third-party advertising service providers are governed by the relevant third party’s privacy policy and is not covered by our Privacy Notice.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Ancient Code  
-www.ancient-code.com  
-contact@ancient-code.com
+We operate in compliance with the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising, www.aboutads.info.
 
-This document was last updated on January 23, 2014
+**Legal:**  
+We will share personal information if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:  
+meet any applicable law, regulation, legal process or enforceable governmental request;  
+To enforce our Disclaimer;  
+enforce applicable Terms of Service or any of our other agreements with you, including investigation of potential breaches;  
+detect, prevent or otherwise address fraud, security or technical issues; or  
+protect against harm to the rights, property or safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public, as required or permitted by law.  
+Succession:  
+If we are involved in a merger, acquisition or asset sale, you agree that your personal information may be transferred to a third party.  
+If you wish to “opt-out” of having your personal information used for certain purposes, please contact us.
+
+All information you disclose in your public profile, in forum posts, blogs, comments, issue queues, or other public portions of our Site becomes public information. If you choose to provide information on public features of the Services, individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. Therefore, care should be taken in what you choose to disclose publicly. We recommend that you do not post contact details or sensitive personal information.
+
+Third Party Links  
+The Services may contain links to third-party websites, applications, and other services. Please be aware that we are not responsible for the privacy practices of such other sites and services. We encourage our users to be aware when they leave our Services and to read the privacy statements of each and every site they visit that collects their information. Some of these links may be affiliate marketing links encoded by third parties. This means that we may earn a commission when you click on or make purchases via affiliate links, and affiliate partners may use cookies to understand your use of the Services.
+
+**Your Rights and Choices**  
+You may review and update certain information through your relevant account settings on the Services. For additional assistance with reviewing or modifying information provided to us, contact us as described below.
+
+If you have provided contact information through the Services and decide that you do not want Ancient Code to use that information for marketing purposes in accordance with this Policy, you can opt out of future use at any time by:
+
+( **a** ) **going to the link provided at the bottom of any email you receive and opting out of receiving future information** or
+
+( **b** ) **contacting us as described below**.
+
+Please note that you may not be able to opt out of emails about your transactions and relationship with us, such as emails regarding your account, requests or inquiries, and purchases of products and/or services.
+
+Individuals in the **European Economic Area** (“EEA”) and many other jurisdictions have certain legal rights to obtain confirmation of whether we hold personal data about them, to access personal data we hold about them, and to obtain its correction, update, amendment, or deletion in appropriate circumstances.
+
+You may also have rights to object to our handling of your personal data, restrict our processing of your personal data, and to withdraw any consent you have provided. To exercise these rights, please contact us as described below with the nature of your request.
+
+Our security procedures mean that we may request proof of identity before we reveal information. This proof of identity will typically take the form of your e-mail address and any password submitted upon registration. While we strongly encourage you to first raise any questions or concerns about your personal data with us, you also have a right to contact the relevant supervisory authority.
+
+Many of the rights described here are subject to significant limitations and exceptions under applicable law (e.g., objections to the processing of personal data, and withdrawals of consent, typically will not have retroactive effect).
+
+You are entitled to have access to the personal information that we hold about you, and you may correct, amend, or delete that information where it is inaccurate, except where the burden or expense of providing access would be disproportionate to the risks to your privacy, or where the rights of persons other than you would be violated.
+
+**Data Retention**  
+We will keep your information only for as long as is reasonably necessary for the purpose that it has been processed, taking into account any legal requirements under Applicable Law. For the avoidance of doubt, we will retain your information to continue offering the Services to you. If you terminate your account, any association between your account and information we store will no longer be accessible through your account. However, if you have engaged in any public sharing prior to termination, that information will remain on our services and accessible to the public. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Information may persist in copies made for backup and business continuity purposes for an additional time.
+
+**Changes to This Policy**  
+We reserve the right to change this Policy at any time to reflect changes in the law, our data collection, and use practices, the features of our Services, or advances in technology. Please check this page periodically for changes. Your continued use of the Services following the posting of changes to this Policy will mean you accept those changes.
+
+**Contacting Us**  
+If you have any questions or concerns regarding this Privacy Policy, please contact us.
