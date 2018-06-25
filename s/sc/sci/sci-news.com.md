@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sci-news.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230013251id_/http%3A//www.sci-news.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sci-news.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625040238id_/http%3A//www.sci-news.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sci-News.com
 
