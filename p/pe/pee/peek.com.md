@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the peek.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301230358id_/https%3A//www.peek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peek.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625162715id_/https%3A//www.peek.com/privacy) for the most accurate reproduction.*
 
 # Peek
 
 We at Peek Travel, Inc. (“Peek,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the [Peek Terms of Use](https://web.archive.org/terms). 
+
+For all data inquiries or requests, please use [this form.](https://docs.google.com/forms/d/e/1FAIpQLScXhvkL_sRjwyCIYEb3zhvk2H6Z_Pg2xUD1ywesBKo_nA_CQQ/viewform?usp=sf_link)
 
 ## I. WHAT DOES THIS PRIVACY POLICY COVER?
 
@@ -52,7 +54,11 @@ We may choose to buy or sell assets. In these types of transactions, customer in
 
 We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Peek, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-### F. With Your Consent:
+### F. Protection of Children:
+
+Peek’s sites are a general audience websites and do not offer services directed to children. You must be 16 years of age or older to book using Peek. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information and will delete the information. If you believe that Peek has been provided with the personal information of a child under 13 without parental consent, please notify us immediately at support@peek.com. 
+
+### G. With Your Consent:
 
 Except as set forth above, you will be notified when your Personal Information may be shared with third parties in personally identifiable form, and will be able to prevent the sharing of this information. 
 
@@ -85,6 +91,12 @@ You can always opt not to disclose information to use, but keep in mind some inf
 
 You may be able to add, update, or delete information as explained in Section V above. When you update information, however, we may maintain a copy of the unrevised information in our records. Please note that some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. 
 
+If you are visiting our site or using our services from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States. The data protection and other laws of the United States might be different from those in your country, but please be assured that we take steps to ensure that your privacy is protected in accords with this policy. 
+
+By using our services and voluntarily submitting your information to us, you consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to and storage of that information in the United States. For individuals in the European Economic Area or Switzerland, please also review the corresponding section in our [Terms of Use](https://web.archive.org/terms)
+
+As a customer, you may also request a copy of your stored data as well as appropriate data deletion. Please submit a request online or email our team at [support@peek.com](mailto:support@peek.com)
+
 ## VII. CHANGES TO THIS PRIVACY POLICY
 
 We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. You are bound by any changes to the Privacy Policy when you use the Website after such changes have been first posted. 
@@ -93,4 +105,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [support@peek.com](mailto:support@peek.com). We will make every effort to resolve your concerns. 
 
-Effective Date: October 1, 2012
+Effective Date: May 25th, 2018
