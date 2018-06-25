@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bouldercolorado.gov privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203126id_/https%3A//bouldercolorado.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bouldercolorado.gov privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625194841id_/https%3A//bouldercolorado.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ The City of Boulder website does not collect personal information unless the vis
 
 
 
-The voluntary personal information collected using online forms depends on the form or service you are conducting with the city.  Any service available via online form can also be completed in person, via mail, via phone or via fax, depending on the service, if you choose not to submit your information over the internet.  The information collected may not be limited to text characters but might also include audio, video or graphic information formats.  This information may be stored in a database or sent to city employees via e-mail.  We use the information collected to respond to your query or complete the service you have requested.  We may also use information collected to improve our services.  All information, including survey, e-mail information, or form data may be shared internally with other departments within the extent permitted by law.  The information will not be distributed externally except as required by the Colorado Open Records Act.  Survey data, if released, will only be provided in an aggregated format.     
+The voluntary personal information collected using online forms depends on the form or service you are conducting with the city.  Any service available via online form can also be completed in person, via mail, via phone or via fax, depending on the service, if you choose not to submit your information over the internet.  The information collected may not be limited to text characters but might also include audio, video or graphic information formats.  This information may be stored in a database or sent to city employees via email.  We use the information collected to respond to your query or complete the service you have requested.  We may also use information collected to improve our services.  All information, including survey, email information, or form data may be shared internally with other departments within the extent permitted by law.  The information will not be distributed externally except as required by the Colorado Open Records Act.  Survey data, if released, will only be provided in an aggregated format.     
 
 **The City of Boulder does not:  **
 
